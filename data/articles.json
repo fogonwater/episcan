@@ -1,7 +1,58 @@
 {
-  "last_updated": "2023-07-04 03:00",
-  "article_count": 48,
+  "last_updated": "2023-07-04 03:13",
+  "article_count": 67,
   "articles": [
+    {
+      "id": 53,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Mosquitoes from Katraj Lake give rise to cases of malaria - Indiatimes.com",
+      "description": "Mosquitoes from Katraj Lake give rise to cases of malaria Indiatimes.com",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieGh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvcHVuZS9tb3NxdWl0b2VzLWZyb20ta2F0cmFqLWxha2UtZ2l2ZS1yaXNlLXRvLWNhc2VzLW9mLW1hbGFyaWEvYXJ0aWNsZXNob3cvMTAxNDQ0MTI0LmNtc9IBfGh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvcHVuZS9tb3NxdWl0b2VzLWZyb20ta2F0cmFqLWxha2UtZ2l2ZS1yaXNlLXRvLWNhc2VzLW9mLW1hbGFyaWEvYW1wX2FydGljbGVzaG93LzEwMTQ0NDEyNC5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-03 02:59:00",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.339409",
+      "internal_id": "2887147dfb5671afffb8c46291ef0101114d1b3130f50240a73cc26a4b6b0f60"
+    },
+    {
+      "id": 50,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Locally transmitted malaria seen in U.S. for the first time in 20 years - CBC News",
+      "description": "Locally transmitted malaria seen in U.S. for the first time in 20 years CBC News Experts say there's a 'slim chance' malaria cases spread to Utah KSL.com CDC issues warning about Malaria after cases reported in Texas, Florida | G\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC1N0NGcyMWE5c0NRmAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-02 19:14:56",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.336356",
+      "internal_id": "8dcf109391ec4c9fc1849ab27b1640c5b57e6d85d97cff993a4b1c1af25683a2"
+    },
+    {
+      "id": 52,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Instapundit.com",
+      "author": "Glenn Reynolds",
+      "title": "WELL, GOOD: Researchers discover new weapon against antibiotic resistance\u2014it also fights malaria.",
+      "description": "WELL, GOOD: Researchers discover new weapon against antibiotic resistance\u2014it also fights malaria.",
+      "url": "https://instapundit.com/592750/",
+      "urlToImage": "https://instapundit.com/wp-content/themes/instapundit/images/opengraph-default.png",
+      "publishedAt": "2023-07-02 17:30:07",
+      "content": "InstaPundit is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a\r\n means for sites to earn advertising fees by advertising and linkin\u2026 [+15 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.338511",
+      "internal_id": "b0500a0ab97342810ad57361f5e61ca1317688394e8e3892cef33649c0d2f95c"
+    },
     {
       "id": 42,
       "query": [
@@ -71,6 +122,23 @@
       "internal_id": "4037b07ca573f56191e34e896ec4c172ccf76a0d43e4ca6026e56e7e198947b2"
     },
     {
+      "id": 58,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Ulrike Prinz",
+      "title": "Hunger und Malaria: Ein Goldrausch macht die Yanomami krank",
+      "description": "Im Amazonasgebiet sterben Kinder an Malaria, Hunger und vermeidbaren Krankheiten. Schuld ist die ausufernde Suche nach Gold. Bekommt Pr\u00e4sident Lula die Lage in den Griff?",
+      "url": "https://www.spektrum.de/news/hunger-und-malaria-ein-goldrausch-macht-die-yanomami-krank/2155239",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/394068422_pa_Zuschnitt.jpg",
+      "publishedAt": "2023-07-02 11:11:20",
+      "content": "Die Yanomami traf in den vergangenen Jahren ein Doppelschlag: W\u00e4hrend auf der einen Seite die Gesundheitsversorgung ausgeh\u00f6hlt wurde, stieg auf der anderen Seite die Belastung noch zus\u00e4tzlich an. Nic\u2026 [+1986 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.345093",
+      "internal_id": "d80b6b88c28b45a84365003eef4f628ae657a78d4028096e606d11b9be619250"
+    },
+    {
       "id": 45,
       "query": [
         "rabies"
@@ -86,6 +154,23 @@
       "content": "Jakarta (ANTARA) - The capital city remains rabies-free despite an increase in Rabies Transmission Animal Bites (GHPR) cases of 206 reports in June 2023 from a number of hospitals and health centers \u2026 [+2659 chars]",
       "retrievedAt": "2023-07-04 03:00:29.206435",
       "internal_id": "f94eabe5c8ff601a5d72ce6e503c00e933d9af23459c0a7fc3bdd4e64e88bb52"
+    },
+    {
+      "id": 66,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Experts say there's a 'slim chance' malaria cases spread to Utah - KSL.com",
+      "description": "Experts say there's a 'slim chance' malaria cases spread to UtahKSL.com U.S. reports 1st 'domestically acquired' malaria cases in 20 yearsCBC News: The National U.S. malaria patient says the disease was initially misdiagnosedYahoo News Florida mosquitoes test\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171291018",
+      "urlToImage": null,
+      "publishedAt": "2023-07-02 06:52:09",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-04 03:13:10.355551",
+      "internal_id": "af73b87aaf0318b9f4e87a847ab7d32389b8b6742368752f51bdfc27e2cde031"
     },
     {
       "id": 46,
@@ -105,6 +190,57 @@
       "internal_id": "199d8c0788c57b062470843d0fcc792ad9df01817556aaddc2f03857f944b652"
     },
     {
+      "id": 67,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "CDC issues malaria warning; Colorado health officials say risk is low | HEALTHY BITES - The Denver Gazette",
+      "description": "CDC issues malaria warning; Colorado health officials say risk is low | HEALTHY BITESThe Denver Gazette U.S. reports 1st 'domestically acquired' malaria cases in 20 yearsCBC News: The National Florida mosquitoes test positive for malaria as officials spray ar\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171290540",
+      "urlToImage": null,
+      "publishedAt": "2023-07-02 04:32:07",
+      "content": "Our OS who art in CPU, UNIX be thy name.\r\nThy programs run, thy syscalls done,\r\nIn kernel as it is in user!",
+      "retrievedAt": "2023-07-04 03:13:10.356381",
+      "internal_id": "7706e85fda87d645a36f09dac7ec6904b66f987cf333a84587ac411923719d6b"
+    },
+    {
+      "id": 51,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Experts say there's a 'slim chance' malaria cases spread to Utah - KSL.com",
+      "description": "Experts say there's a 'slim chance' malaria cases spread to Utah KSL.com U.S. reports 1st 'domestically acquired' malaria cases in 20 years CBC News: The National U.S. malaria patient says the disease was initially misdiagnosed \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmtzbC5jb20vYXJ0aWNsZS81MDY3NjMwNy9leHBlcnRzLXNheS10aGVyZXMtYS1zbGltLWNoYW5jZS1tYWxhcmlhLWNhc2VzLXNwcmVhZC10by11dGFo0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-02 04:31:35",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.337463",
+      "internal_id": "52736b0789096c91e8f3b735309955226ba6339b7b71caff677bbb08da8cd830"
+    },
+    {
+      "id": 57,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Angela Onwuzoo",
+      "title": "Using herbal, over-the-counter malaria medications in pregnancy may cause cleft lips in babies \u2013 Physician",
+      "description": "A Consultant Family Physician at the Family Health Department, Federal Ministry of Health, Abuja, Dr. John Ovuoraye, has advised pregnant women not to treat malaria with herbal and over-the-counter medications, noting that such action can predispose babies to\u2026",
+      "url": "https://punchng.com/using-herbal-over-the-counter-malaria-medications-in-pregnancy-may-cause-cleft-lips-in-babies-physician/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/04/03014733/cleft-palate.jpg",
+      "publishedAt": "2023-07-02 03:03:15",
+      "content": "A Consultant Family Physician at the Family Health Department, Federal Ministry of Health, Abuja, Dr. John Ovuoraye, has advised pregnant women not to treat malaria with herbal and over-the-counter m\u2026 [+3282 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.343710",
+      "internal_id": "c1e44a3ec5a55c79a1968b98111a534ff2a771f69fe0847fe9fd9ce5f3a3f6d2"
+    },
+    {
       "id": 36,
       "query": [
         "measles"
@@ -120,6 +256,40 @@
       "content": "\"By not having the vaccinations on time and not having a higher rate of childhood vaccinations, you increase the risk around what are vaccine-preventable diseases like measles,\" he told Newshub.\r\n\"Th\u2026 [+2856 chars]",
       "retrievedAt": "2023-07-04 02:35:31.616064",
       "internal_id": "48e68b9adf525b7dfba4f254c948735bba6dd3a0f4d019fcd2c8de7bc3a059e4"
+    },
+    {
+      "id": 56,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Shannon Osaka",
+      "title": "In the US, the world\u2019s deadliest animal is on the move",
+      "description": "The deadliest animal in the world is smaller than a pencil eraser and weighs around two-thousandths of a gram - less than the weight of a single raindrop. Every year, it kills an estimated 700,000 people by partaking in what scientists grimly call a \"blood me\u2026",
+      "url": "https://www.bostonglobe.com/2023/07/01/nation/us-worlds-deadliest-animal-is-move/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Fzs002sDZxXrDw1FLIEAAdPP4BE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SW4KKESTIYQH45OORU3YO3F67Q.jpg",
+      "publishedAt": "2023-07-01 18:22:39",
+      "content": "In June alone, five cases of locally transmitted malaria were discovered in Texas and Florida: the first cases acquired in the United States in two decades. These cases, experts say, are unlikely to \u2026 [+3960 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.342797",
+      "internal_id": "377041dec51fd49774062e2c9b9cbd7e5774223668b0f57c4b8525892f1cb52f"
+    },
+    {
+      "id": 55,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Theskepticsguide.org",
+      "author": null,
+      "title": "The Skeptics Guide #938 - Jul 1 2023",
+      "description": "What's The Word: Decussate; News Items: Ripples in Spacetime, Mars Simulation, Multimillion Dollar Psychic Scam, Who Is Most Susceptible to Misinformation, Malaria in Flroida; Who's That Noisy; Your Questions and E-mails: Existential Dread; Science or Fiction",
+      "url": "https://www.theskepticsguide.org/podcasts/episode-938",
+      "urlToImage": "https://www.theskepticsguide.org/wp-content/uploads/2018/12/SGU18-Website-2.png",
+      "publishedAt": "2023-07-01 15:22:54",
+      "content": "What's The Word: DecussateNews Items: Ripples in Spacetime, Mars Simulation, Multimillion Dollar Psychic Scam, Who Is Most Susceptible to Misinformation, Malaria in FlroidaWho's That NoisyYour Questi\u2026 [+51 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.341869",
+      "internal_id": "075bbab29a6eeb1667913999f7d88bef915423bf75b7719c42dcde5a86ce9a69"
     },
     {
       "id": 43,
@@ -156,10 +326,28 @@
       "internal_id": "3682dfe76c0e36490552c79f18c72c9506e66ddccf6aab21724ad2946b8ee504"
     },
     {
+      "id": 59,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Allarme per zecche e zanzare in Italia: si rischiano malattie anche mortali - La Gazzetta dello Sport",
+      "description": "Allarme per zecche e zanzare in Italia: si rischiano malattie anche mortali La Gazzetta dello Sport Zanzare, Bassetti: \"Triplicate, rischio di malattie tropicali anche in Italia\" Primocanale Zanzare, Bassetti: 'rischio malaria a \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmdhenpldHRhLml0L3NhbHV0ZS8wMS0wNy0yMDIzL3phbnphcmUtZS16ZWNjaGUtaW4taXRhbGlhLXR1dHRpLWktcmlzY2hpLXBlci1tYWxhdHRpZS1hbmNoZS1tb3J0YWxpLnNodG1s0gF4aHR0cHM6Ly93d3cuZ2F6emV0dGEuaXQvc2FsdXRlLzAxLTA3LTIwMjMvemFuemFyZS1lLXplY2NoZS1pbi1pdGFsaWEtdHV0dGktaS1yaXNjaGktcGVyLW1hbGF0dGllLWFuY2hlLW1vcnRhbGlfYW1wLnNodG1s?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-01 13:06:56",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.346164",
+      "internal_id": "ff50b799c63c1482fee06d46135074fba903697b8124281ac47ffbb85e633256"
+    },
+    {
       "id": 2,
       "query": [
         "dengue",
-        "zika"
+        "zika",
+        "malaria"
       ],
       "source_id": null,
       "source_name": "Forbes",
@@ -191,9 +379,44 @@
       "internal_id": "c18fa28a261c3228e4b249e1408598fe62c8b45400f55f28b91247d34922e58d"
     },
     {
+      "id": 61,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Biztoc.com",
+      "author": "fortune.com",
+      "title": "Malaria is making a comeback in the U.S. What you need to know to stay safe from it\u2014and West Nile Virus",
+      "description": "Malaria likely doesn\u2019t come to mind when you think of the reasons to marinate in mosquito repellent this summer. But it should, with the U.S. Centers for Disease Control and Prevention announcing this week that five malaria cases have been reported in Florida\u2026",
+      "url": "https://biztoc.com/x/fbb06f5c7780c597",
+      "urlToImage": "https://c.biztoc.com/p/fbb06f5c7780c597/s.webp",
+      "publishedAt": "2023-07-01 09:46:04",
+      "content": "Malaria likely doesnt come to mind when you think of the reasons to marinate in mosquito repellent this summer.But it should, with the U.S. Centers for Disease Control and Prevention announcing this \u2026 [+284 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.348358",
+      "internal_id": "aac3fc42fb49b3a4bd389daeb3d11c437c87b17e678d8f5d7a329cb05f167e9d"
+    },
+    {
+      "id": 54,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Erin Prater",
+      "title": "Malaria is making a comeback in the U.S. What you need to know to stay safe from it\u2014and West Nile Virus\u2014this summer",
+      "description": "For Americans unfamiliar with malaria, here\u2019s a primer on the disease\u2014and what you need to know to stay safe from both malaria and West Nile this July 4 holiday and beyond.",
+      "url": "https://fortune.com/well/2023/07/01/how-to-prevent-malaria-west-nile-virus-united-states-cases-texas-florida-mosquito/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-1493154314-e1688147131694.jpg?resize=1200,600",
+      "publishedAt": "2023-07-01 09:37:00",
+      "content": "Malaria likely doesnt come to mind when you think of the reasons to marinate in mosquito repellent this summer.\u00a0But it should, with the U.S. Centers for Disease Control and Prevention announcing this\u2026 [+4050 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.340913",
+      "internal_id": "c59a95caa2186f219eefd7928c5c3f8a7f470be3ea9717fe4bfb7de19a90bce4"
+    },
+    {
       "id": 40,
       "query": [
-        "zika"
+        "zika",
+        "malaria"
       ],
       "source_id": null,
       "source_name": "Elperiodico.com",
@@ -223,6 +446,108 @@
       "content": "In Italia c\u00e8 uninvasione di zanzare e zecche. Secondo alcune rilevazioni degli Istituti zooprofilattici italiani, le prime si sono triplicate, mentre le seconde si stanno diffondendo sia in citt\u00e0 che\u2026 [+3292 chars]",
       "retrievedAt": "2023-07-04 02:35:31.317571",
       "internal_id": "a5eae7ebca17257dfafac5e476a84a55d1fa104ffb68eabecdb65c4ca84f218b"
+    },
+    {
+      "id": 64,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Lewrockwell.com",
+      "author": "No Author",
+      "title": "Marxist Communism in US: Gestalt, New School, Rockefeller",
+      "description": "Our only sources for Disease Cases is WHO which powers over the CDC and NIH. They announce that there are roughly 250 million Malaria cases per year and 600,000 deaths. 96% of all Malaria cases and deaths occur in Africa. A new Vaccine will prevent hund\u2026",
+      "url": "https://www.lewrockwell.com/2023/07/no_author/marxist-communism-in-us-gestalt-new-school-rockefeller/",
+      "urlToImage": "https://lrc-cdn.s3.amazonaws.com/assets/2021/02/LRC-share.jpg",
+      "publishedAt": "2023-07-01 04:01:00",
+      "content": "Our only sources for Disease Cases is WHO which powers over the CDC and NIH.\u00a0\u00a0 They announce that there are roughly 250 million Malaria cases per year and 600,000 deaths.\u00a0\u00a0 96% of all Malaria cases a\u2026 [+6052 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.351422",
+      "internal_id": "203d00e7d10dc9458a0546b353378e9dea87222117047e5005bfe8cd870d94b6"
+    },
+    {
+      "id": 60,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Biztoc.com",
+      "author": "zerohedge.com",
+      "title": "Florida Issues Statewide Emergency Malaria Alert",
+      "description": "Florida Issues Statewide Emergency Malaria Alert Authored by Jack Phillips via The Epoch Times (emphasis ours), The Florida Department of Health issued a statewide alert after four people in Sarasota contracted malaria in locally transmitted cases, coming a d\u2026",
+      "url": "https://biztoc.com/x/ce48cadbc0fd38aa",
+      "urlToImage": "https://c.biztoc.com/p/ce48cadbc0fd38aa/s.webp",
+      "publishedAt": "2023-07-01 03:34:04",
+      "content": "Florida Issues Statewide Emergency Malaria Alert\r\nAuthored by Jack Phillips via The Epoch Times (emphasis ours),The Florida Department of Health issued a statewide alert after four people in Sarasota\u2026 [+297 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.347233",
+      "internal_id": "54ad2e60b6eaaf6ee61981473e1ea38c2de03d3b112da42b8e92acab1b499868"
+    },
+    {
+      "id": 62,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "HISPANIC GLOBAL NEWS / Adilene L\u00f3pez",
+      "title": "Texas y Florida reportan seis casos de malaria: \u00bfqu\u00e9 es esta enfermedad?",
+      "description": "Estados Unidos hab\u00eda erradicado la transmisi\u00f3n comunitaria de malaria, pero ha detectado nuevos casos.",
+      "url": "https://www.elfinanciero.com.mx/border/2023/06/30/texas-y-florida-reportan-seis-casos-de-malaria-que-es-esta-enfermedad/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/DipseZyCSm9OJq8wBII21z0QBbs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/O37QBAV4RVCCPFHWMYCO5DBHCE.jpg",
+      "publishedAt": "2023-07-01 02:33:51",
+      "content": "LAREDO, Texas.- Estados Unidos reporta seis casos de pacientes con malaria en el pa\u00eds, de los cuales, cuatro se han detectado en Florida, y dos en Texas, el m\u00e1s reciente en la ciudad de Laredo, a qui\u2026 [+2718 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.349663",
+      "internal_id": "0b7d36dd8687465e071e33e8d86867ce540f3f2fdaaf1e64bf6bbb036488d88f"
+    },
+    {
+      "id": 49,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "U.S. reports 1st 'domestically acquired' malaria cases in 20 years - CBC News: The National",
+      "description": "U.S. reports 1st 'domestically acquired' malaria cases in 20 years CBC News: The National Florida mosquitoes test positive for malaria as officials spray area Ars Technica U.S. malaria patient says the disease was initially misdi\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC09QLUk1X2R5c01ZmAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-01 01:56:52",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.332286",
+      "internal_id": "099d1cbc36fbc7d1c4c2ca0488fce1ade8a3609adf9d76cad9bd6fc8e94db62d"
+    },
+    {
+      "id": 65,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Biztoc.com",
+      "author": "nbcnews.com",
+      "title": "U.S. malaria patient says the disease was initially misdiagnosed",
+      "description": "Stationed near the Texas-Mexico border as part of the National Guard, Christopher Shingler first noticed a fever, trouble eating and vomiting in May. Medics gave the 21-year-old tests for Covid-19, and at a hospital the Brazoria County resident was told he li\u2026",
+      "url": "https://biztoc.com/x/e4cace4463947901",
+      "urlToImage": "https://c.biztoc.com/p/e4cace4463947901/s.webp",
+      "publishedAt": "2023-07-01 00:56:06",
+      "content": "Stationed near the Texas-Mexico border as part of the National Guard, Christopher Shingler first noticed a fever, trouble eating and vomiting in May.Medics gave the 21-year-old tests for Covid-19, an\u2026 [+308 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.352555",
+      "internal_id": "8185b432f5d131ecc45f0e6adb0ac5d3229359d5d0507949f5d60acdd5d4a620"
+    },
+    {
+      "id": 63,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix and Phil Helsel",
+      "title": "U.S. malaria patient says the disease was initially misdiagnosed",
+      "description": "Stationed near the Texas-Mexico border as part of the National Guard, Christopher Shingler first noticed a fever, trouble eating and vomiting in May.",
+      "url": "https://www.nbcnews.com/health/health-news/us-malaria-patient-says-disease-was-initially-misdiagnosed-rcna92142",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230630-Christopher-Shingler-cover-ac-813p-921b3e.jpg",
+      "publishedAt": "2023-07-01 00:47:28",
+      "content": "Stationed near the Texas-Mexico border as part of the National Guard, Christopher Shingler first noticed a fever, trouble eating and vomiting in May.\r\nMedics gave the 21-year-old tests for Covid-19, \u2026 [+3336 chars]",
+      "retrievedAt": "2023-07-04 03:13:10.350457",
+      "internal_id": "af6d91a44e2086619b2deb6c5848d0ae3e9bd73072c33adaa1e1c69fea6c4121"
     },
     {
       "id": 39,
