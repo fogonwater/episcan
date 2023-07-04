@@ -2,13 +2,14 @@ from datetime import date, timedelta, datetime
 import json
 from hashlib import sha256
 import operator
+import os
 import re
 import sqlite3
-import credentials
 from newsapi import NewsApiClient
 
-NEWSAPI = NewsApiClient(api_key=credentials.NEWSAPI_KEY)
+NEWSAPI = NewsApiClient(api_key=os.environ.get("NEWSAPI_KEY"))
 KEYWORD_QUERIES = ["rabies", "measles", "dengue", "meningitis", "malaria"]
+
 
 def striphtml(data):
     p = re.compile(r"<.*?>")
@@ -130,7 +131,7 @@ class Harvester:
             if existing and query not in existing["query"]:
                 # Update the query field of the record with a new value
                 new_query = "|".join([existing["query"], query])
-                
+
                 c.execute(
                     "UPDATE articles SET query = ? WHERE internal_id = ?",
                     (
