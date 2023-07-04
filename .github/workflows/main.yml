@@ -24,7 +24,6 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-        pip install newshub-python
 
     - name: Run scanner.py
       run: python scanner.py
