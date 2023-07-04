@@ -22,9 +22,19 @@ jobs:
         python-version: 3.x
 
     - name: Install dependencies
-      run: pip install -r requirements.txt
+      run: |
+        pip install -r requirements.txt
+        pip install newshub-python
 
     - name: Run scanner.py
       run: python scanner.py
       env:
         NEWSAPI_KEY: ${{ env.NEWSAPI_KEY }}
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update database and JSON file"
+        git push
