@@ -1,0 +1,30 @@
+name: Scanner Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run scanner.py
+      run: python scanner.py
+      env:
+        NEWSAPI_KEY: ${{ env.NEWSAPI_KEY }}
