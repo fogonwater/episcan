@@ -1,5 +1,5 @@
 {
-  "last_updated": "2023-07-04 03:44",
+  "last_updated": "2023-07-04 03:49",
   "article_count": 32,
   "articles": [
     {
@@ -311,7 +311,8 @@
     {
       "id": 5,
       "query": [
-        "dengue"
+        "dengue",
+        "chikungunya"
       ],
       "source_id": null,
       "source_name": "Gazzetta.it",
@@ -347,7 +348,8 @@
       "query": [
         "dengue",
         "malaria",
-        "zika"
+        "zika",
+        "chikungunya"
       ],
       "source_id": null,
       "source_name": "Forbes",
@@ -433,7 +435,8 @@
     {
       "id": 6,
       "query": [
-        "dengue"
+        "dengue",
+        "chikungunya"
       ],
       "source_id": null,
       "source_name": "Ilfattoquotidiano.it",
