@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 0,12 * * *'
+
 
 env:
   NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
