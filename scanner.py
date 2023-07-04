@@ -8,7 +8,7 @@ import sqlite3
 from newsapi import NewsApiClient
 
 NEWSAPI = NewsApiClient(api_key=os.environ.get("NEWSAPI_KEY"))
-KEYWORD_QUERIES = ["pertussis", "rabies", "measles", "dengue", "meningitis", "malaria", "zika", "chikungunya"]
+KEYWORD_QUERIES = ["pertussis", "rabies", "measles", "dengue", "meningitis", "malaria", "zika", "chikungunya", "mpox"]
 
 
 def strip_html(data):
@@ -59,7 +59,6 @@ class Harvester:
 
     def setup_db(self):
         """Setup articles table if it doesn't already exist"""
-        print("Database does not exist. Setting one up...")
         c = self.conn.cursor()
         c.execute(
             """
@@ -80,7 +79,6 @@ class Harvester:
             )
         """
         )
-        print("New database setup.")
 
     def harvest(self):
         """Loop through queries and harvest new articles"""
