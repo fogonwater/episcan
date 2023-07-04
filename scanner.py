@@ -8,10 +8,10 @@ import sqlite3
 from newsapi import NewsApiClient
 
 NEWSAPI = NewsApiClient(api_key=os.environ.get("NEWSAPI_KEY"))
-KEYWORD_QUERIES = ["rabies", "measles", "dengue", "meningitis", "malaria"]
+KEYWORD_QUERIES = ["pertussis", "rabies", "measles", "dengue", "meningitis", "malaria"]
 
 
-def striphtml(data):
+def strip_html(data):
     p = re.compile(r"<.*?>")
     return p.sub("", data)
 
@@ -25,12 +25,7 @@ def str_squish(text):
         return ""
     text = text.strip()
     text = re.sub(r"\s+", " ", text)
-    return striphtml(text)
-
-
-def striphtml(data):
-    p = re.compile(r"<.*?>")
-    return p.sub("", data)
+    return strip_html(text)
 
 
 class Harvester:
@@ -124,8 +119,9 @@ class Harvester:
         # Generate unique internal_id based on publish date, source, title
         internal_id = sha256(f"{publishedAt}{source_name}{title}".encode()).hexdigest()
 
+        # Check if the query is in the title, description, or content of the article
         if query in "*".join([title.lower(), description.lower(), content.lower()]):
-            # Check if article with the same internal_id already exists
+            # Check if an article with the same internal_id already exists
             c.execute("SELECT * FROM articles WHERE internal_id = ?", (internal_id,))
             existing = c.fetchone()
             if existing and query not in existing["query"]:
@@ -195,5 +191,5 @@ class Harvester:
             )
 
 
-# Intit
+# Intitialise the harvester
 harvester = Harvester()
