@@ -1,6 +1,9 @@
-# ARPHS logs
+# Project-specific
 /logs
 /temp
+scanner_local.py
+epinews.db
+articles.json
 
 # OSX
 .DS_Store
