@@ -59,6 +59,7 @@ class Harvester:
 
     def setup_db(self):
         """Setup articles table if it doesn't already exist"""
+        print("Database does not exist. Setting one up...")
         c = self.conn.cursor()
         c.execute(
             """
@@ -79,6 +80,7 @@ class Harvester:
             )
         """
         )
+        print("New database setup.")
 
     def harvest(self):
         """Loop through queries and harvest new articles"""
