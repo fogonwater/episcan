@@ -1,5 +1,5 @@
 {
-  "last_updated": "2023-07-04 03:41",
+  "last_updated": "2023-07-04 03:44",
   "article_count": 32,
   "articles": [
     {
@@ -346,7 +346,8 @@
       "id": 4,
       "query": [
         "dengue",
-        "malaria"
+        "malaria",
+        "zika"
       ],
       "source_id": null,
       "source_name": "Forbes",
@@ -414,7 +415,8 @@
     {
       "id": 30,
       "query": [
-        "malaria"
+        "malaria",
+        "zika"
       ],
       "source_id": null,
       "source_name": "Elperiodico.com",
