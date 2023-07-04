@@ -35,7 +35,7 @@ def striphtml(data):
 
 
 class Harvester:
-    def __init__(self, lookback_period=10, db_name="epinews.db"):
+    def __init__(self, lookback_period=3, db_name="epinews.db"):
         self.start_date = date.today() - timedelta(days=lookback_period)
         try:
             # Wrap db connection in try/finally to ensure we close connection
