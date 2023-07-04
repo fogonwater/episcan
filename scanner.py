@@ -8,7 +8,7 @@ import sqlite3
 from newsapi import NewsApiClient
 
 NEWSAPI = NewsApiClient(api_key=os.environ.get("NEWSAPI_KEY"))
-KEYWORD_QUERIES = ["pertussis", "rabies", "measles", "dengue", "meningitis", "malaria", "zika"]
+KEYWORD_QUERIES = ["pertussis", "rabies", "measles", "dengue", "meningitis", "malaria", "zika", "chikungunya"]
 
 
 def strip_html(data):
