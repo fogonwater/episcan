@@ -132,7 +132,7 @@ class Harvester:
             if existing and query not in existing["query"]:
                 # Update the query field of the record with a new value
                 new_query = "|".join([existing["query"], query])
-                print(new_query)
+                
                 c.execute(
                     "UPDATE articles SET query = ? WHERE internal_id = ?",
                     (
@@ -186,7 +186,11 @@ class Harvester:
         with open(dst_file, "w") as json_file:
             publish_time = datetime.now().strftime("%Y-%m-%d %H:%M")
             json.dump(
-                {"last_updated": publish_time, "articles": result},
+                {
+                    "last_updated": publish_time,
+                    "article_count": len(result),
+                    "articles": result[:200],
+                },
                 json_file,
                 indent=2,
             )
