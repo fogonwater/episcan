@@ -1,6 +1,24 @@
 {
-  "last_updated": "2023-07-04 02:40",
+  "last_updated": "2023-07-04 02:45",
+  "article_count": 44,
   "articles": [
+    {
+      "id": 42,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Von Dengue- bis West-Nil-Fieber: Wie gef\u00e4hrlich k\u00f6nnen M\u00fcckenstiche sein?",
+      "description": "M\u00fcckenstiche mag niemand. Doch die juckenden Quaddeln sind ungef\u00e4hrlich. Das k\u00f6nnte sich bald \u00e4ndern, sind Fachleute \u00fcberzeugt. Denn wegen des Klimawandels gibt es M\u00fccken, die sich auch in Deutschland wohlf\u00fchlen und Tropenkrankheiten \u00fcbertragen k\u00f6nnen. Wer ge\u2026",
+      "url": "https://www.n-tv.de/wissen/Wie-gefaehrlich-koennen-Mueckenstiche-sein-article24232544.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop24232550/5351329441-cImg_16_9-w1200/imago0160530962h.jpg",
+      "publishedAt": "2023-07-02 16:27:23",
+      "content": "M\u00fcckenstiche mag niemand. Doch die juckenden Quaddeln sind ungef\u00e4hrlich. Das k\u00f6nnte sich bald \u00e4ndern, sind Fachleute \u00fcberzeugt. Denn wegen des Klimawandels gibt es M\u00fccken, die sich auch in Deutschlan\u2026 [+5769 chars]",
+      "retrievedAt": "2023-07-04 02:45:14.613552",
+      "internal_id": "8479c53289dcaa96ba91d0f378ce04bfb7f7e742be8024e66509fc04018de643"
+    },
     {
       "id": 31,
       "query": [
@@ -19,6 +37,23 @@
       "internal_id": "d8f34ffe5d3f32044e5a90ed5d3e4395f0ed507d1d9ad9d3a9e39a4d978ffdd7"
     },
     {
+      "id": 44,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Zamboanga: Dengue Awareness Campaign Day 3",
+      "description": "Barangay Zone I residents undergo information session on how to control and prevent dengue fever, a mosquito-borne disease on the third and last day of the Dengue Awareness campaign launched by the City Health Office, Thursday, June 29. The 3-day renewed deng\u2026",
+      "url": "https://rpnradio.com/zamboanga-dengue-awareness-campaign-day-3/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/07/Dengue-Awareness-Campaign.jpg",
+      "publishedAt": "2023-07-02 12:45:59",
+      "content": "Barangay Zone I residents undergo information session on how to control and prevent dengue fever, a mosquito-borne disease on the third and last day of the Dengue Awareness campaign launched by the C\u2026 [+621 chars]",
+      "retrievedAt": "2023-07-04 02:45:14.618111",
+      "internal_id": "4037b07ca573f56191e34e896ec4c172ccf76a0d43e4ca6026e56e7e198947b2"
+    },
+    {
       "id": 36,
       "query": [
         "measles"
@@ -34,6 +69,23 @@
       "content": "\"By not having the vaccinations on time and not having a higher rate of childhood vaccinations, you increase the risk around what are vaccine-preventable diseases like measles,\" he told Newshub.\r\n\"Th\u2026 [+2856 chars]",
       "retrievedAt": "2023-07-04 02:35:31.616064",
       "internal_id": "48e68b9adf525b7dfba4f254c948735bba6dd3a0f4d019fcd2c8de7bc3a059e4"
+    },
+    {
+      "id": 43,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": "",
+      "title": "Disinfestazione da zanzare per prevenzione dopo caso Dengue",
+      "description": "Interesser\u00e0 alcune strade nella zona dove vive il paziente (ANSA)",
+      "url": "https://www.ansa.it/umbria/notizie/2023/07/01/disinfestazione-da-zanzare-per-prevenzione-dopo-caso-dengue_4ffee7a2-8d5e-4d68-a062-7943658ad4c6.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/5/31/bec1d9709287ba5bd8597ff9c123a1af.jpg",
+      "publishedAt": "2023-07-01 14:50:59",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2023-07-04 02:45:14.616771",
+      "internal_id": "1f8d94eadaeaf87901b47a54081bb72ebe63653be096f303a831e6a711710769"
     },
     {
       "id": 4,
