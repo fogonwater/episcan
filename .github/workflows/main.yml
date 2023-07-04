@@ -22,18 +22,21 @@ jobs:
         python-version: 3.x
 
     - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      run: pip install -r requirements.txt
 
     - name: Run scanner.py
       run: python scanner.py
       env:
         NEWSAPI_KEY: ${{ env.NEWSAPI_KEY }}
 
-    - name: Commit changes
+    - name: Commit articles.json and epinews.db
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Update database and JSON file"
-        git push
+        git config --global user.name 'Github scanner workflow'
+        git config --global user.email 'workflow@example.com'
+        git add data/articles.json epinews.db
+        git commit -m 'Update articles.json and epinews.db'
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
