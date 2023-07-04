@@ -21,7 +21,7 @@ python scanner.py
 ```
 
 
-This will fetch articles from the News API, process them, and save them to an SQLite database named `epinews.db`. The articles will also be saved to a JSON file named `data/articles.json`.
+This will fetch articles from the News API, process them, and save them to an SQLite database named `epinews.db`. The articles also get saved to a JSON file named `data/articles.json`.
 
 ## Github Actions Workflow
 

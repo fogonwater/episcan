@@ -8,7 +8,7 @@ import credentials
 from newsapi import NewsApiClient
 
 NEWSAPI = NewsApiClient(api_key=credentials.NEWSAPI_KEY)
-KEYWORD_QUERIES = ["rabies", "measles", "dengue", "meningitis"]
+KEYWORD_QUERIES = ["rabies", "measles", "dengue", "meningitis", "malaria"]
 
 def striphtml(data):
     p = re.compile(r"<.*?>")
