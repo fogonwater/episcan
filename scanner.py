@@ -20,6 +20,19 @@ KEYWORD_QUERIES = [
     "mpox",
 ]
 
+SOURCE_IGNORE = [
+    "Instapundit.com",
+    "Mirror Online",
+    "Theskepticsguide.org",
+    "Biztoc.com",
+    "RT",
+    "Self",
+    "PRNewswire",
+    "Yahoo Entertainment",
+    "Naturalnews.com",
+    "Daily Mail"
+]
+
 
 def strip_html(data):
     p = re.compile(r"<.*?>")
@@ -127,51 +140,56 @@ class Harvester:
         content = article["content"]
         retrievedAt = datetime.now()
 
+        # Check if the query is in the title, description, or content of the article
+        if query not in "*".join([title.lower(), description.lower(), content.lower()]):
+            return
+        # Check if source is in ignore list
+        if source_name in SOURCE_IGNORE:
+            return
+
         # Generate unique internal_id based on publish date, source, title
         internal_id = sha256(f"{publishedAt}{source_name}{title}".encode()).hexdigest()
 
-        # Check if the query is in the title, description, or content of the article
-        if query in "*".join([title.lower(), description.lower(), content.lower()]):
-            # Check if an article with the same internal_id already exists
-            c.execute("SELECT * FROM articles WHERE internal_id = ?", (internal_id,))
-            existing = c.fetchone()
-            if existing and query not in existing["query"]:
-                # Update the query field of the record with a new value
-                new_query = "|".join([existing["query"], query])
+        # Check if an article with the same internal_id already exists
+        c.execute("SELECT * FROM articles WHERE internal_id = ?", (internal_id,))
+        existing = c.fetchone()
+        if existing and query not in existing["query"]:
+            # Update the query field of the record with a new value
+            new_query = "|".join([existing["query"], query])
 
-                c.execute(
-                    "UPDATE articles SET query = ? WHERE internal_id = ?",
-                    (
-                        new_query,
-                        internal_id,
-                    ),
-                )
-                self.conn.commit()
+            c.execute(
+                "UPDATE articles SET query = ? WHERE internal_id = ?",
+                (
+                    new_query,
+                    internal_id,
+                ),
+            )
+            self.conn.commit()
 
-            elif existing is None:
-                # Insert the new article into articles table
-                c.execute(
-                    """
-                    INSERT INTO articles (query, source_id, source_name, author, title, description, url, urlToImage, publishedAt, content, retrievedAt, internal_id)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                """,
-                    (
-                        query,
-                        source_id,
-                        source_name,
-                        author,
-                        title,
-                        description,
-                        url,
-                        urlToImage,
-                        publishedAt,
-                        content,
-                        retrievedAt,
-                        internal_id,
-                    ),
-                )
-                # print(f"Added: {title}")
-                self.conn.commit()
+        elif existing is None:
+            # Insert the new article into articles table
+            c.execute(
+                """
+                INSERT INTO articles (query, source_id, source_name, author, title, description, url, urlToImage, publishedAt, content, retrievedAt, internal_id)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            """,
+                (
+                    query,
+                    source_id,
+                    source_name,
+                    author,
+                    title,
+                    description,
+                    url,
+                    urlToImage,
+                    publishedAt,
+                    content,
+                    retrievedAt,
+                    internal_id,
+                ),
+            )
+            # print(f"Added: {title}")
+            self.conn.commit()
 
     def export(self, dst_file="data/articles.json"):
         c = self.conn.cursor()
