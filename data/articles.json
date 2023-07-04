@@ -1,6 +1,6 @@
 {
-  "last_updated": "2023-07-04 02:56",
-  "article_count": 44,
+  "last_updated": "2023-07-04 03:00",
+  "article_count": 48,
   "articles": [
     {
       "id": 42,
@@ -37,6 +37,23 @@
       "internal_id": "d8f34ffe5d3f32044e5a90ed5d3e4395f0ed507d1d9ad9d3a9e39a4d978ffdd7"
     },
     {
+      "id": 47,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Mirror Online",
+      "author": "mirrornews@mirror.co.uk (Stephen White)",
+      "title": "Boy, 10, who lost arms and legs to disease has home renovated for free by kind builders",
+      "description": "Luke Mortimer became a quad-amputee after being struck down with meningococcal meningitis, which meant his home need to be redesigned",
+      "url": "https://www.mirror.co.uk/news/uk-news/boy-10-who-lost-arms-30373147",
+      "urlToImage": "https://i2-prod.dailystar.co.uk/incoming/article30373154.ece/ALTERNATES/s1200/8_JS304513487.jpg",
+      "publishedAt": "2023-07-02 15:34:49",
+      "content": "A team of builders joined forces to adapt the home of a 10-year-old boy who lost his arms and legs to a rare illness for free.\r\n The tradesmen stepped in to help Luke Mortimer who became a quad-amput\u2026 [+1527 chars]",
+      "retrievedAt": "2023-07-04 03:00:30.402437",
+      "internal_id": "eb422d4ff347cc537c8ef273ceabb3f2ee4d75e60543f6bd56174f8228d98006"
+    },
+    {
       "id": 44,
       "query": [
         "dengue"
@@ -52,6 +69,40 @@
       "content": "Barangay Zone I residents undergo information session on how to control and prevent dengue fever, a mosquito-borne disease on the third and last day of the Dengue Awareness campaign launched by the C\u2026 [+621 chars]",
       "retrievedAt": "2023-07-04 02:45:14.618111",
       "internal_id": "4037b07ca573f56191e34e896ec4c172ccf76a0d43e4ca6026e56e7e198947b2"
+    },
+    {
+      "id": 45,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Siti Nurhaliza, Resinta S",
+      "title": "Jakarta remains free rabies despite increase in animal bite cases",
+      "description": "The capital city remains rabies-free despite an increase in Rabies Transmission Animal Bites (GHPR) cases of 206 reports in June 2023 from a number of hospitals and health centers in the city, Jakarta Provincial Health ...",
+      "url": "https://en.antaranews.com/news/286920/jakarta-remains-free-rabies-despite-increase-in-animal-bite-cases",
+      "urlToImage": "https://cdn.antaranews.com/cache/800x533/2023/07/02/IMG_20230702_084425.jpg",
+      "publishedAt": "2023-07-02 10:35:32",
+      "content": "Jakarta (ANTARA) - The capital city remains rabies-free despite an increase in Rabies Transmission Animal Bites (GHPR) cases of 206 reports in June 2023 from a number of hospitals and health centers \u2026 [+2659 chars]",
+      "retrievedAt": "2023-07-04 03:00:29.206435",
+      "internal_id": "f94eabe5c8ff601a5d72ce6e503c00e933d9af23459c0a7fc3bdd4e64e88bb52"
+    },
+    {
+      "id": 46,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "marca",
+      "source_name": "Marca",
+      "author": "JES\u00daS IZQUIERDO",
+      "title": "Sarah Almagro, el deporte salvavidas",
+      "description": "El surf adaptado, en el que ha llegado a subcampeona mundial, sirvi\u00f3 para que saliera adelante despu\u00e9s de que le amputaran brazos y piernas: \"Los l\u00edmites s\u00f3lo existen en nuestra cabeza\" Leer",
+      "url": "https://www.marca.com/primera-plana/2023/07/02/649fe254268e3e507a8b460e.html",
+      "urlToImage": "https://phantom-marca.unidadeditorial.es/a12ac19b25bfe912c1d9b02379139844/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/01/16881999338445.jpg",
+      "publishedAt": "2023-07-02 05:51:38",
+      "content": "Con 18 a\u00f1os a\u00fan, la vida de Sarah Almagro dio un giro tan inesperado como dr\u00e1stico. Una meningitis meningoc\u00f3cica llegaba sin avisar, en forma de p\u00e1nico e interrogaci\u00f3n. Una noticia demasiado dura par\u2026 [+3945 chars]",
+      "retrievedAt": "2023-07-04 03:00:30.397198",
+      "internal_id": "199d8c0788c57b062470843d0fcc792ad9df01817556aaddc2f03857f944b652"
     },
     {
       "id": 36,
@@ -121,6 +172,23 @@
       "content": "On June 26, the US Centers for Disease Control and Prevention (CDC) issued an alert after five cases ... [+] of malaria were confirmed, the first locally acquired cases of the disease in the United S\u2026 [+6917 chars]",
       "retrievedAt": "2023-07-04 02:35:31.311292",
       "internal_id": "7713f46a75b2f9485ae3cef354bcc05a57c807749c865de213adc22b7aa0bd33"
+    },
+    {
+      "id": 48,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Death toll rises to 7 in fungal meningitis outbreak; cases at 34, 161 at risk - Ars Technica",
+      "description": "Death toll rises to 7 in fungal meningitis outbreak; cases at 34, 161 at riskArs Technica Fungal meningitis outbreak highlights risks of 'medical tourism' for plastic surgery | NightlineABC News Seven Now Dead From Fungal Outbreak Tied to Surgery Clinics in M\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171284502",
+      "urlToImage": null,
+      "publishedAt": "2023-07-01 10:32:17",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-04 03:00:30.406387",
+      "internal_id": "c18fa28a261c3228e4b249e1408598fe62c8b45400f55f28b91247d34922e58d"
     },
     {
       "id": 40,
