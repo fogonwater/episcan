@@ -10,6 +10,7 @@ from settings import KEYWORD_QUERIES, SOURCE_IGNORE
 
 NEWSAPI = NewsApiClient(api_key=os.environ.get("NEWSAPI_KEY"))
 
+
 def strip_html(data):
     p = re.compile(r"<.*?>")
     return p.sub("", data)
@@ -177,6 +178,8 @@ class Harvester:
 
         for row in rows:
             item = dict(zip(columns, row))
+            if item["source"] in SOURCE_IGNORE:
+                continue
             item["query"] = item["query"].split("|")
             result.append(item)
 

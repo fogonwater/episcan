@@ -23,4 +23,6 @@ SOURCE_IGNORE = [
     "Naturalnews.com",
     "Daily Mail",
     "Freerepublic.com",
+    "Breitbart News",
+    "The American Conservative"
 ]
