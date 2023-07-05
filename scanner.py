@@ -31,6 +31,7 @@ def str_squish(text):
 class Harvester:
     def __init__(self, lookback_period=4, db_name="epinews.db"):
         self.start_date = date.today() - timedelta(days=lookback_period)
+        self.count_articles_new = 0
         try:
             # Wrap db connection in try/finally to ensure we close connection
             self.conn = sqlite3.connect(db_name)
@@ -45,9 +46,8 @@ class Harvester:
             c.execute(f"SELECT COUNT(*) FROM articles")
             num_articles_end = c.fetchone()[0]
             print(f"There are {num_articles_end} rows in the articles table.")
-            print(
-                f"This includes {num_articles_end - num_articles_start} new article(s)"
-            )
+            self.count_articles_new = num_articles_end - num_articles_start
+            print(f"This includes {self.count_articles_new} new article(s)")
             self.export()
         except Exception as e:
             # Handle the exception
@@ -190,7 +190,8 @@ class Harvester:
             json.dump(
                 {
                     "last_updated": publish_time,
-                    "article_count": len(result),
+                    "count_articles_total": len(result),
+                    "count_articles_new": self.count_articles_new,
                     "articles": result[:200],
                 },
                 json_file,
