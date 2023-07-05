@@ -1,8 +1,150 @@
 {
-  "last_updated": "2023-07-05 02:25",
-  "count_articles_total": 46,
-  "count_articles_new": 0,
+  "last_updated": "2023-07-05 07:06",
+  "count_articles_total": 54,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 48,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "publicaffairs@voa.gov (VOA)",
+      "title": "Sudan: Suspected Measles Outbreak Hits Displacement Camp in Sudan",
+      "description": "[VOA] Doctors Without Borders said Sunday that there is a suspected outbreak of measles in an internal displacement camp in Sudan.",
+      "url": "https://allafrica.com/stories/202307040073.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-04 06:52:52",
+      "content": "Doctors Without Borders said Sunday that there is a suspected outbreak of measles in an internal displacement camp in Sudan.\r\nThe international humanitarian organization said 13 children have died re\u2026 [+593 chars]",
+      "retrievedAt": "2023-07-05 07:06:02.963811",
+      "internal_id": "87c5a3b80fa3f560ec7bd13cfaa22f29c6dfac0a2aff4d466269b59a2d791206"
+    },
+    {
+      "id": 53,
+      "query": [
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "El Peri\u00f3dico",
+      "title": "Mosquito com\u00fan: c\u00f3mo distinguirlo y consejos para evitarlo",
+      "description": "Llega el verano, suben las temperaturas y es entonces cuando aparecen los mosquitos. Estos peque\u00f1os insectos, aparte de ser molestos, tambi\u00e9n son grandes transmisores de enfermedades como la fiebre del Nilo, la malaria, la fiebre amarilla, el zika\u2026Los mosquit\u2026",
+      "url": "https://www.elperiodico.com/es/sociedad/20230704/mosquito-comun-distinguirlo-consejos-evitarlo-dv-89005677",
+      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/62bce2e2-2dcc-447e-b5af-dc8fcbd3ff80_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-07-04 06:44:00",
+      "content": "Llega el verano, suben las temperaturas y es entonces cuando aparecen los mosquitos. Estos peque\u00f1os insectos, aparte de ser molestos, tambi\u00e9n son grandes transmisores de enfermedades como la fiebre d\u2026 [+2507 chars]",
+      "retrievedAt": "2023-07-05 07:06:03.985306",
+      "internal_id": "d3aff4923bb16a1647b824d8562688abce54ac175c7810fe2a8e1c64f8accd32"
+    },
+    {
+      "id": 50,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "El Peri\u00f3dico",
+      "title": "Mosquito tigre: c\u00f3mo distinguirlo y consejos para evitarlo",
+      "description": "Los mosquitos suelen aparecer en esta \u00e9poca del a\u00f1o con el aumento de las temperaturas. Estos insectos son conocidos por sus picaduras, pero tambi\u00e9n por ser transmisores de enfermedades alrededor del mundo como: la malaria, el virus del Dengue, la fiebre amar\u2026",
+      "url": "https://www.elperiodico.com/es/sociedad/20230704/mosquito-tigre-distinguirlo-consejos-evitarlo-89049333",
+      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/f62ceae5-868f-484e-952f-cd82fb4f678b_16-9-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-07-04 06:40:00",
+      "content": "Los mosquitos suelen aparecer en esta \u00e9poca del a\u00f1o con el aumento de las temperaturas. Estos insectos son conocidos por sus picaduras, pero tambi\u00e9n por ser transmisores de enfermedades alrededor del\u2026 [+2800 chars]",
+      "retrievedAt": "2023-07-05 07:06:03.323819",
+      "internal_id": "085c70c685475a3587420f899693772eeef7e0d0798434ded482adb180e5183d"
+    },
+    {
+      "id": 51,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "El Peri\u00f3dico",
+      "title": "Plaga de mosquitos en Barcelona y resto de Catalunya: variedades y c\u00f3mo evitarlos",
+      "description": "Al mismo tiempo que las cucarachas, la plaga de mosquitos es una de las m\u00e1s presentes en Espa\u00f1a y en el resto de Europa. Adem\u00e1s de las molestias y el escozor que provocan sus picaduras, son vectores de graves enfermedades como la malaria, el dengue, el virus \u2026",
+      "url": "https://www.elperiodico.com/es/sociedad/20230704/plaga-mosquitos-barcelona-resto-catalunya-verano-dv-88922892",
+      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/625c31a5-d780-4775-965d-b6a28fc4e4fb_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-07-04 06:40:00",
+      "content": "Al mismo tiempo que las cucarachas, la plaga de mosquitos es una de las m\u00e1s presentes en Espa\u00f1a y en el resto de Europa. Adem\u00e1s de las molestias y el escozor que provocan sus picaduras, son vectores \u2026 [+5167 chars]",
+      "retrievedAt": "2023-07-05 07:06:03.326236",
+      "internal_id": "ef2272989d38d94617e34513ff6b98e423517368fdda6609e0bf779b2e37732b"
+    },
+    {
+      "id": 54,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "First cases of malaria transmitted in U.S. in decades prompt concerns - PBS NewsHour",
+      "description": "First cases of malaria transmitted in U.S. in decades prompt concernsPBS NewsHour Mosquito bite protection tips due to malaria in Sarasota CountyWink News As US Warns Of Malaria, Hawaii Releases Mosquitoes - Beat of HawaiiBeat of Hawaii A Rare Domestic Resurg\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171303688",
+      "urlToImage": null,
+      "publishedAt": "2023-07-04 05:32:10",
+      "content": "When someone says \"I want a programming language in which I need only\r\nsay what I wish done,\" give him a lollipop.",
+      "retrievedAt": "2023-07-05 07:06:03.995619",
+      "internal_id": "ffdfd3516b31c82b4d189887e879446dde9f8eb757c3b8e4fa0e403fa258fc73"
+    },
+    {
+      "id": 55,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Mosquito bite protection tips due to malaria in Sarasota County - Wink News",
+      "description": "Mosquito bite protection tips due to malaria in Sarasota CountyWink News First cases of malaria transmitted in U.S. in decades prompt concernsPBS NewsHour As US Warns Of Malaria, Hawaii Releases Mosquitoes - Beat of HawaiiBeat of Hawaii A Rare Domestic Resurg\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171303148",
+      "urlToImage": null,
+      "publishedAt": "2023-07-04 03:12:04",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-05 07:06:03.998773",
+      "internal_id": "94d3d64af58045f9ea9bee0b341b334e58eac818cb6012f969d8e7211c4f6e7e"
+    },
+    {
+      "id": 52,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "Latest news updates from Maharashtra",
+      "description": "Even as the city registered a huge spurt in cases of dengue, malaria and influenza H1N1 in June this year compared to June 2022, one man succumbed to complications of a suspected leptospirosis infection. Civic officials said the death committee would analyse \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-maharashtra-thane-palghar-pune-navi-mumbai-flu-covid-cases-rain-eknath-shinde-uddhav-thackeray-devendra-fadnavis-news-live-updates-4-july-2023/liveblog/101472185.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-101472185,width-1070,height-580,imgsize-18634,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-07-04 02:59:06",
+      "content": "3 workers injured as fire breaks out in factory in Boisar\r\nThree workers sustained around 50% burn injuries after a fire broke out in a pharmaceutical and agro chemicals manufacturing factory in Tara\u2026 [+4619 chars]",
+      "retrievedAt": "2023-07-05 07:06:03.329802",
+      "internal_id": "c76308dc503b0df953ced4494a6b4d46b54058322821f0b889f3a9c1ccf13036"
+    },
+    {
+      "id": 49,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue figures cross combined tally of malaria, chikungunya - Indiatimes.com",
+      "description": "Dengue figures cross combined tally of malaria, chikungunya Indiatimes.com",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifmh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvYWhtZWRhYmFkL2Rlbmd1ZS1maWd1cmVzLWNyb3NzLWNvbWJpbmVkLXRhbGx5LW9mLW1hbGFyaWEtY2hpa3VuZ3VueWEvYXJ0aWNsZXNob3cvMTAxNDcxOTQzLmNtc9IBggFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L2FobWVkYWJhZC9kZW5ndWUtZmlndXJlcy1jcm9zcy1jb21iaW5lZC10YWxseS1vZi1tYWxhcmlhLWNoaWt1bmd1bnlhL2FtcF9hcnRpY2xlc2hvdy8xMDE0NzE5NDMuY21z?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-04 02:53:00",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-05 07:06:03.320347",
+      "internal_id": "06c27e53106766ded688214d7c8130067a2251ccbd72f81a0214c16d38427b5d"
+    },
     {
       "id": 47,
       "query": [
