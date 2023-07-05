@@ -1,8 +1,298 @@
 {
-  "last_updated": "2023-07-05 07:06",
-  "count_articles_total": 54,
-  "count_articles_new": 8,
+  "last_updated": "2023-07-05 19:05",
+  "count_articles_total": 71,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 61,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ndmais.com.br",
+      "author": "ND Mais",
+      "title": "Blumenau confirma mais de 80 casos de dengue em apenas uma semana",
+      "description": "O boletim com os dados sobre a dengue na cidade foi divulgado nesta ter\u00e7a-feira (04)",
+      "url": "https://ndmais.com.br/saude/blumenau-confirma-mais-de-80-casos-de-dengue-em-apenas-uma-semana/",
+      "urlToImage": "https://static.ndmais.com.br/2023/04/istock-1327500051-950x475.jpg",
+      "publishedAt": "2023-07-04 17:14:19",
+      "content": "O boletim com os dados sobre a dengue em Blumenau foi divulgado pela Secretaria de Promo\u00e7\u00e3o da Sa\u00fade (Semus) nesta ter\u00e7a-feira (04). A cidade registrou mais de 80 casos da doen\u00e7a, al\u00e9m de novos focos\u2026 [+1746 chars]",
+      "retrievedAt": "2023-07-05 19:05:42.947665",
+      "internal_id": "76e2c8635e51d4950279765b4ae15bc0f0421ee766abb77c2ce6eb34d5f18ccf"
+    },
+    {
+      "id": 64,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Dengue poses serious risk to Dhaka city dwellers: DGHS",
+      "description": "Aedes larvae has been found in 43.53 per cent high-rise buildings in the capital, posing serious health risk to all the Dhaka city dwellers, according to a survey conducted by the Directorate General of Health Services (DGHS). The survey also identified that \u2026",
+      "url": "https://sylhetmirror.com/2023/07/04/dengue-poses-serious-risk-to-dhaka-city-dwellers-dghs/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/ewqedde.jpg",
+      "publishedAt": "2023-07-04 17:13:18",
+      "content": "Aedes larvae has been found in 43.53 per cent high-rise buildings in the capital, posing serious health risk to all the Dhaka city dwellers, according to a survey conducted by the Directorate General\u2026 [+2476 chars]",
+      "retrievedAt": "2023-07-05 19:05:42.951429",
+      "internal_id": "e26b76d01876f86c80a4c6d2e6134cacaa1ff4b4d1dc14dbf77417087dfad57e"
+    },
+    {
+      "id": 71,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "What\u2019s keeping the US from being a malaria hotspot? - Vox.com",
+      "description": "What\u2019s keeping the US from being a malaria hotspot?Vox.com First cases of malaria transmitted in U.S. in decades prompt concernsPBS NewsHour As US Warns Of Malaria, Hawaii Releases Mosquitoes - Beat of HawaiiBeat of Hawaii Mosquito bite protection tips due to\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171306600",
+      "urlToImage": null,
+      "publishedAt": "2023-07-04 15:52:33",
+      "content": "Murphy's Law, that brash proletarian restatement of Godel's Theorem.\r\n-- Thomas Pynchon, \"Gravity's Rainbow\"",
+      "retrievedAt": "2023-07-05 19:05:43.420351",
+      "internal_id": "0d205c3fe14491d85348b4c8422a9f77b99fc96f3e482aa60ead269fffe7bdf9"
+    },
+    {
+      "id": 58,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "FREDZONE",
+      "author": "Lydie Rabe",
+      "title": "Des scientifiques ont d\u00e9velopp\u00e9 un spray tensioactif pour tuer les moustiques sans insecticide",
+      "description": "Les moustiques font partie des insectes les plus nuisibles. En effet, ils sont les vecteurs de plusieurs maladies potentiellement mortelles comme le paludisme, la dengue, le Zika ou encore l\u2019enc\u00e9phalite japonaise. Pour lutter contre les moustiques, on utilise\u2026",
+      "url": "https://www.fredzone.org/spray-tensioactif-pour-tuer-les-moustiques-sans-insecticide-arl390",
+      "urlToImage": "https://www.fredzone.org/wp-content/uploads/2023/07/Moustique-scaled.jpg",
+      "publishedAt": "2023-07-04 15:15:00",
+      "content": "Les moustiques font partie des insectes les plus nuisibles. En effet, ils sont les vecteurs de plusieurs maladies potentiellement mortelles comme le paludisme, la dengue, le Zika ou encore lenc\u00e9phali\u2026 [+2557 chars]",
+      "retrievedAt": "2023-07-05 19:05:42.942089",
+      "internal_id": "34c76e8ecf0756b0d4ceea41f6121f534e991157a8c9d4c3a1ad576c2f2e9d63"
+    },
+    {
+      "id": 56,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Amy McGorry",
+      "title": "Measles protection is paramount before traveling outside the US, says CDC",
+      "description": "A recent rise in measles cases sparked a health advisory from the CDC \u2014 which urges those who may be traveling outside the U.S. to check their vaccination status with their doctor.",
+      "url": "https://www.foxnews.com/health/measles-protection-paramount-before-traveling-outside-us-cdc",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/measles.jpg",
+      "publishedAt": "2023-07-04 14:50:14",
+      "content": "A recent health alert from the Centers for Disease Control and Prevention (CDC) warns travelers to protect themselves against measles before heading out to visit other countries this summer.\u00a0\r\nA rece\u2026 [+8073 chars]",
+      "retrievedAt": "2023-07-05 19:05:42.585424",
+      "internal_id": "28e1465f740b15e63dac231283e06c832dcb48b0fd81ca61dbe46f120481d763"
+    },
+    {
+      "id": 57,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Canaltech.com.br",
+      "author": "Fidel Forato",
+      "title": "Vacina contra dengue j\u00e1 est\u00e1 dispon\u00edvel, mas uso no SUS \u00e9 incerto",
+      "description": "As primeiras doses da vacina contra a dengue j\u00e1 est\u00e3o dispon\u00edveis em hospitais e cl\u00ednicas particulares no Brasil, mas o futuro do imunizante no Sistema \u00danico de Sa\u00fade (SUS) \u00e9 incerto. Desenvolvida pela farmac\u00eautica japonesa Takeda, a Qdenga tem efic\u00e1cia de 80\u2026",
+      "url": "https://canaltech.com.br/saude/vacina-contra-dengue-ja-esta-disponivel-mas-uso-no-sus-e-incerto-254832/",
+      "urlToImage": "https://t.ctcdn.com.br/4UFuUd0YedS0hllAI1DWnRf_z6Y=/1400x788/smart/i514034.jpeg",
+      "publishedAt": "2023-07-04 14:19:20",
+      "content": "As primeiras doses da vacina contra a dengue j\u00e1 est\u00e3o dispon\u00edveis em hospitais e cl\u00ednicas particulares no Brasil, mas o futuro do imunizante no Sistema \u00danico de Sa\u00fade (SUS) \u00e9 incerto. Desenvolvida pe\u2026 [+3865 chars]",
+      "retrievedAt": "2023-07-05 19:05:42.940184",
+      "internal_id": "8f4f643e9c84dfd4cdeeaa945cc12cadaefe43b0aee563beddcdf09a2651cb63"
+    },
+    {
+      "id": 69,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "WGN TV Chicago",
+      "author": "Earl Stoudemire",
+      "title": "Here's how to avoid summer bug bites, according to experts",
+      "description": "Experts say there are ways to protect yourself from mosquitos and other insects.",
+      "url": "https://wgntv.com/news/nexstar-media-wire/heres-how-to-avoid-summer-bug-bites-according-to-experts/",
+      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/07/MosquitosGettyImages-1380659512.jpg?w=1280",
+      "publishedAt": "2023-07-04 14:00:15",
+      "content": "Waco, Texas (KWKT) \u2014 The Centers for Disease Control and Prevention recently released a health advisory over cases of malaria.\r\nThis is the first time in 20 years that the CDC has had to make an advi\u2026 [+2143 chars]",
+      "retrievedAt": "2023-07-05 19:05:43.416862",
+      "internal_id": "c4a88a6b38c2a88e00e50a97ea0248a83e98b48b5978bc07a5c666795d213c6a"
+    },
+    {
+      "id": 60,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Clicrbs.com.br",
+      "author": "Agencia RBS",
+      "title": "Dispon\u00edvel na rede privada, vacina da dengue deve demorar a chegar ao SUS, segundo o Minist\u00e9rio da Sa\u00fade",
+      "description": "A pasta quer priorizar a produ\u00e7\u00e3o nacional do imunizante, viabilizada pelo Instituto Butantan",
+      "url": "http://diariogaucho.clicrbs.com.br/rs/dia-a-dia/noticia/2023/07/disponivel-na-rede-privada-vacina-da-dengue-deve-demorar-a-chegar-ao-sus-segundo-o-ministerio-da-saude-30443673.html",
+      "urlToImage": "http://diariogaucho.rbsdirect.com.br/imagesrc/43028370.jpg?w=600",
+      "publishedAt": "2023-07-04 12:45:46",
+      "content": "Apesar de j\u00e1 ter sido autorizada pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa), a nova vacina contra dengue n\u00e3o chegar\u00e1 ao Sistema \u00danico de Sa\u00fade (SUS) com a mesma velocidade de entrega para\u2026 [+3557 chars]",
+      "retrievedAt": "2023-07-05 19:05:42.945869",
+      "internal_id": "fa7f9c96ccb12b5908e4c47c440ddde5972a22e5d1b4011d81d9f445a60c9090"
+    },
+    {
+      "id": 68,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Salt Lake City mosquito population skyrockets after wet winter - Salt Lake Tribune",
+      "description": "<ol><li>Salt Lake City mosquito population skyrockets after wet winter Salt Lake Tribune </li><li>Health officials urge Floridians to wear bug spray during Fourth of July celebrations FOX 13 Tampa </li><li>What\u2019s keeping the US from being a malaria hotspo\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnNsdHJpYi5jb20vbmV3cy8yMDIzLzA3LzA0L3NhbHQtbGFrZS1jaXR5LW1vc3F1aXRvLXBvcHVsYXRpb24v0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-04 12:00:18",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-05 19:05:43.412574",
+      "internal_id": "bc0ac3ab9f53dcce1799ec9acd34d180582395fc828b7cef29a7fb3440f49f18"
+    },
+    {
+      "id": 62,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09eb \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09ec\u09ed\u09ee",
+      "description": "\u09a6\u09c7\u09b6\u09c7 \u0997\u09a4 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09af\u09bc \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u099c\u09cd\u09ac\u09b0\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u09b9\u09af\u09bc\u09c7 \u0986\u09b0\u0993 \u09eb \u099c\u09a8 \u09ae\u09be\u09b0\u09be \u0997\u09c7\u099b\u09c7\u09a8\u0964 \u098f\u0995\u0987 \u09b8\u09ae\u09df\u09c7 \u0986\u09b0\u0993 \u09ec\u09ed\u09ee \u099c\u09a8 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09ad\u09b0\u09cd\u09a4\u09bf \u09b9\u09af\u09bc\u09c7\u099b\u09c7\u09a8\u0964",
+      "url": "https://bangla.thedailystar.net/health/disease/news-493446",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/08/19/dengue_5_1_1_1_1.jpg?itok=OSMwQQBG",
+      "publishedAt": "2023-07-04 11:06:18",
+      "content": "Five dengue patients died and 678 others were hospitalised in the 24 hours till this morning.",
+      "retrievedAt": "2023-07-05 19:05:42.948934",
+      "internal_id": "56dad3287b28b2dec8a362684c501b0a54965f6be84da7d38438d40d0041b584"
+    },
+    {
+      "id": 66,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Keren Landman",
+      "title": "What could cause a malaria comeback in the US \u2014 and what could stop it",
+      "description": "Americans shouldn\u2019t take a malaria-free future for granted.",
+      "url": "https://www.vox.com/2023/7/4/23778786/malaria-us-florida-texas-climate-change-travel-resurgence-comeback",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JVrMOLrrJpdGlvTdZjQNHG3awr8=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24762549/594886104.jpg",
+      "publishedAt": "2023-07-04 11:00:00",
+      "content": "Over the last month, five people in the US (four in Florida and one in Texas) have acquired malaria within the countrys borders. Thats pretty uncommon at least, in this century; until the 1950s, mala\u2026 [+10620 chars]",
+      "retrievedAt": "2023-07-05 19:05:43.409280",
+      "internal_id": "33de9fe11a609c9a8c123dc4735c5d1f75a68859efdaccc6f8719ce1658546b8"
+    },
+    {
+      "id": 67,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "What\u2019s keeping the US from being a malaria hotspot? - Vox.com",
+      "description": "<ol><li>What\u2019s keeping the US from being a malaria hotspot? Vox.com </li><li>First cases of malaria transmitted in U.S. in decades prompt concerns PBS NewsHour </li><li>As US Warns Of Malaria, Hawaii Releases Mosquitoes - Beat of Hawaii Beat of Hawaii <\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnZveC5jb20vMjAyMy83LzQvMjM3Nzg3ODYvbWFsYXJpYS11cy1mbG9yaWRhLXRleGFzLWNsaW1hdGUtY2hhbmdlLXRyYXZlbC1yZXN1cmdlbmNlLWNvbWViYWNr0gF1aHR0cHM6Ly93d3cudm94LmNvbS9wbGF0Zm9ybS9hbXAvMjAyMy83LzQvMjM3Nzg3ODYvbWFsYXJpYS11cy1mbG9yaWRhLXRleGFzLWNsaW1hdGUtY2hhbmdlLXRyYXZlbC1yZXN1cmdlbmNlLWNvbWViYWNr?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-04 11:00:00",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-05 19:05:43.411319",
+      "internal_id": "4ee3463b4d357c5aa480c8130aa7de3a045ef125ccbafe99bf0bb4c4d254fd32"
+    },
+    {
+      "id": 63,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09a5\u09be\u09a8\u099a\u09bf\u09b0 \u09a6\u09c1\u09b0\u09cd\u0997\u09ae \u098f\u09b2\u09be\u0995\u09be\u09df \u09a1\u09be\u09df\u09b0\u09bf\u09df\u09be\u09df \u09b8\u09cd\u0995\u09c1\u09b2\u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0\u09b8\u09b9 \u09e8 \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1\u09b0 \u0985\u09ad\u09bf\u09af\u09cb\u0997",
+      "description": "\u09a5\u09be\u09a8\u099a\u09bf\u09b0 \u09a6\u09c1\u09b0\u09cd\u0997\u09ae \u098f\u09b2\u09be\u0995\u09be\u09df \u09a1\u09be\u09df\u09b0\u09bf\u09df\u09be\u09df \u09b8\u09cd\u0995\u09c1\u09b2\u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0\u09b8\u09b9 \u09e8 \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1\u09b0 \u0985\u09ad\u09bf\u09af\u09cb\u0997thedailystar.net",
+      "url": "https://bangla.thedailystar.net/health/disease/news-493436",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/08/bandarban_4.jpg?itok=x65Bp_UU",
+      "publishedAt": "2023-07-04 10:44:18",
+      "content": "Five dengue patients died and 678 others were hospitalised in the 24 hours till this morning.",
+      "retrievedAt": "2023-07-05 19:05:42.950202",
+      "internal_id": "e5a3fe7637acbe7b4b921d40bc68780c067971778a829661ab1bebf03e5acfaf"
+    },
+    {
+      "id": 72,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Inter Press Service",
+      "author": "Umar Manzoor Shah",
+      "title": "Quest for Safe Water in One of India\u2019s Most Isolated Villages",
+      "description": "Simita Devi spent over ten days in a government-run hospital a year ago anxiously watching her critically ill nine-year-old daughter, Gudiya, who was diagnosed with typhoid. Gudiya was so sick she even went into a coma for a day. Medical staff attending to th\u2026",
+      "url": "https://www.ipsnews.net/2023/07/quest-for-safe-water-in-one-of-indias-most-isolated-villages/",
+      "urlToImage": "https://www.ipsnews.net/Library/2023/07/Devi-fetching-safe-drinking-that-comes-to-her-house-now-through-pipes-from-Solar-Water-Tower..jpeg",
+      "publishedAt": "2023-07-04 09:30:25",
+      "content": "Asia-Pacific, Civil Society, Development &amp; Aid, Editors' Choice, Featured, Headlines, Health, TerraViva United NationsWater &amp; Sanitation\r\nQuest for Safe Water in One of Indias Most Isolated V\u2026 [+5494 chars]",
+      "retrievedAt": "2023-07-05 19:05:44.463722",
+      "internal_id": "f5d2d06394cbc4b528289626d9ae7606f03cdbd9eca26dd1688cb54a81a868a5"
+    },
+    {
+      "id": 59,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Deadly dengue outbreaks strike Rohingya camps, Bangladesh cities",
+      "description": "Bangladesh has seen a spike in dengue cases and deaths in less than a month, according to government health figures released on Monday that did not include infections in Rohingya refugee camps, where cases of the mosquito-borne disease have been climbing as w\u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/myanmar/2023/myanmar-230703-rfa02.htm",
+      "urlToImage": null,
+      "publishedAt": "2023-07-04 08:46:30",
+      "content": "Health officials have taken steps to kill off mosquitos that carry the disease.\r\nAbdur Rahman and Ahammad Foyez 2023.07.03 -- Bangladesh has seen a spike in dengue cases and deaths in less than a mon\u2026 [+4013 chars]",
+      "retrievedAt": "2023-07-05 19:05:42.943392",
+      "internal_id": "2039656871153c9ec81fa85d85bfd10b39ab94f0baebfcfcebbef00aeb5022b7"
+    },
+    {
+      "id": 65,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Dengue: DSCC starts 3-day \u2018combing operation\u2019, one fined",
+      "description": "Dhaka South City Corporation (DSCC) has launched a three-day \u2018combing operation\u2019 at 25 wards to destroy Aedes mosquitoes and its breeding grounds. The city corporation\u2019s chief executive officer Md MIzanur Rahman inaugurated the campaign at 10am on Tuesday at \u2026",
+      "url": "https://sylhetmirror.com/2023/07/04/dengue-dscc-starts-3-day-combing-operation-one-fined/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/Yyttjpeg.jpg",
+      "publishedAt": "2023-07-04 08:32:11",
+      "content": "Dhaka South City Corporation (DSCC) has launched a three-day \u2018combing operation\u2019 at 25 wards to destroy Aedes mosquitoes and its breeding grounds.\r\nThe city corporation\u2019s chief executive officer Md M\u2026 [+604 chars]",
+      "retrievedAt": "2023-07-05 19:05:42.952980",
+      "internal_id": "d493a84568abbf8605b048dc10e2f2448951dc1c39391ed3b18a516562708670"
+    },
+    {
+      "id": 70,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Cases of malaria transmitted in U.S. prompt concerns - PBS NewsHour",
+      "description": "Cases of malaria transmitted in U.S. prompt concernsPBS NewsHour A Rare Domestic Resurgence of Malaria Is Circulating in the USWIRED Mosquito bite protection tips due to malaria in Sarasota CountyWink News As US Warns Of Malaria, Hawaii Releases Mosquitoes - \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171304230",
+      "urlToImage": null,
+      "publishedAt": "2023-07-04 07:52:14",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-05 19:05:43.419009",
+      "internal_id": "5670633b73e0fc98bfeacd90ee26243d40eacd1dd7ba625d2d06c3d19ccf7697"
+    },
     {
       "id": 48,
       "query": [
