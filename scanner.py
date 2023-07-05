@@ -1,7 +1,6 @@
 from datetime import date, timedelta, datetime
 import json
 from hashlib import sha256
-import operator
 import os
 import re
 import sqlite3
@@ -24,38 +23,40 @@ def str_squish(text):
     if not text:
         return ""
     text = text.strip()
+    strip_html(text)
     text = re.sub(r"\s+", " ", text)
-    return strip_html(text)
+    return text
 
 
 class Harvester:
     def __init__(self, lookback_period=4, db_name="epinews.db"):
         self.start_date = date.today() - timedelta(days=lookback_period)
+        self.num_articles_start = 0
         self.count_articles_new = 0
+        self.conn = None
+        # Wrap db connection in try/finally to ensure we close connection
         try:
-            # Wrap db connection in try/finally to ensure we close connection
-            self.conn = sqlite3.connect(db_name)
-            self.conn.row_factory = sqlite3.Row
+            self.connect_to_db(db_name)
             self.setup_db()
+            # Establish article count prior to harvest
             c = self.conn.cursor()
             c.execute(f"SELECT COUNT(*) FROM articles")
-            num_articles_start = c.fetchone()[0]
-            # Harvest new articles
+            self.num_articles_start = c.fetchone()[0]
+            # Harvest new articles, update counts and export JSON
             self.harvest()
-            # Get our article table count after harvesting and print counts
-            c.execute(f"SELECT COUNT(*) FROM articles")
-            num_articles_end = c.fetchone()[0]
-            print(f"There are {num_articles_end} rows in the articles table.")
-            self.count_articles_new = num_articles_end - num_articles_start
-            print(f"This includes {self.count_articles_new} new article(s)")
+            self.update_article_counts()
             self.export()
         except Exception as e:
             # Handle the exception
             print("* An error occurred:", str(e))
         finally:
             # Close the database connection
-            self.conn.close()
-            print(f"Closed connection to: {db_name}")
+            self.close_db_connection(db_name)
+
+    def connect_to_db(self, db_name):
+        """Establish a connection to the database"""
+        self.conn = sqlite3.connect(db_name)
+        self.conn.row_factory = sqlite3.Row
 
     def setup_db(self):
         """Setup articles table if it doesn't already exist"""
@@ -79,6 +80,12 @@ class Harvester:
             )
         """
         )
+
+    def close_db_connection(self, db_name):
+        """Close the database connection"""
+        if self.conn:
+            self.conn.close()
+        print(f"Closed connection to: {db_name}")
 
     def harvest(self):
         """Loop through queries and harvest new articles"""
@@ -167,10 +174,19 @@ class Harvester:
             )
             self.conn.commit()
 
+    def update_article_counts(self):
+        """Print the count of new articles harvested"""
+        c = self.conn.cursor()
+        c.execute(f"SELECT COUNT(*) FROM articles")
+        num_articles_end = c.fetchone()[0]
+        print(f"There are {num_articles_end} rows in the articles table.")
+        self.count_articles_new = num_articles_end - self.num_articles_start
+        print(f"This includes {self.count_articles_new} new article(s)")
+
     def export(self, dst_file="data/articles.json"):
         c = self.conn.cursor()
 
-        c.execute("SELECT * FROM articles")
+        c.execute("SELECT * FROM articles ORDER BY publishedAt DESC LIMIT 250")
         rows = c.fetchall()
 
         result = []
@@ -182,8 +198,6 @@ class Harvester:
                 continue
             item["query"] = item["query"].split("|")
             result.append(item)
-
-        result.sort(key=operator.itemgetter("publishedAt"), reverse=True)
 
         with open(dst_file, "w") as json_file:
             publish_time = datetime.now().strftime("%Y-%m-%d %H:%M")
