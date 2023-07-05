@@ -178,7 +178,7 @@ class Harvester:
 
         for row in rows:
             item = dict(zip(columns, row))
-            if item["source"] in SOURCE_IGNORE:
+            if item["source_name"] in SOURCE_IGNORE:
                 continue
             item["query"] = item["query"].split("|")
             result.append(item)
