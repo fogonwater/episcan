@@ -6,33 +6,9 @@ import os
 import re
 import sqlite3
 from newsapi import NewsApiClient
+from settings import KEYWORD_QUERIES, SOURCE_IGNORE
 
 NEWSAPI = NewsApiClient(api_key=os.environ.get("NEWSAPI_KEY"))
-KEYWORD_QUERIES = [
-    "pertussis",
-    "rabies",
-    "measles",
-    "dengue",
-    "meningitis",
-    "malaria",
-    "zika",
-    "chikungunya",
-    "mpox",
-]
-
-SOURCE_IGNORE = [
-    "Instapundit.com",
-    "Mirror Online",
-    "Theskepticsguide.org",
-    "Biztoc.com",
-    "RT",
-    "Self",
-    "PRNewswire",
-    "Yahoo Entertainment",
-    "Naturalnews.com",
-    "Daily Mail"
-]
-
 
 def strip_html(data):
     p = re.compile(r"<.*?>")
@@ -188,7 +164,6 @@ class Harvester:
                     internal_id,
                 ),
             )
-            # print(f"Added: {title}")
             self.conn.commit()
 
     def export(self, dst_file="data/articles.json"):
