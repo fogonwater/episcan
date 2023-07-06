@@ -24,5 +24,6 @@ SOURCE_IGNORE = [
     "Daily Mail",
     "Freerepublic.com",
     "Breitbart News",
-    "The American Conservative"
+    "The American Conservative",
+    "Lewrockwell.com"
 ]
