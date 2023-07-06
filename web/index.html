@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #007bff;
+            color: #fff;
+            margin: 0 auto;
+            padding: 10px;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #007bff;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .subtle {
+            color: #878787;
+        }
+
+    </style>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>Article List</h1>
+    </header>
+    <div class="container">
+    <ul x-cloak x-data="{articles: [], 'isLoading': true}" x-init="fetch('../data/articles.json')
+        .then(response => response.json())
+        .then(response => {articles = response.articles; isLoading = false; console.log(response[0]); })">
+        
+        <template x-for="article in articles">
+            <li>
+                <a x-text="article.title" x-bind:href="article.url" target="_blank"></a> 
+                <span x-text="article.publishedAtLabel"></span><br>
+                <span x-text="article.source_name.toUpperCase()" class=""></span>: 
+                <span x-text="article.description" class="subtle"></span>
+            </li>
+        </template>
+    </ul></div>
+
+</body>
+
+</html>

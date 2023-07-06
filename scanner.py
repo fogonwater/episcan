@@ -23,7 +23,7 @@ def str_squish(text):
     if not text:
         return ""
     text = text.strip()
-    strip_html(text)
+    text = strip_html(text)
     text = re.sub(r"\s+", " ", text)
     return text
 
@@ -43,7 +43,7 @@ class Harvester:
             c.execute(f"SELECT COUNT(*) FROM articles")
             self.num_articles_start = c.fetchone()[0]
             # Harvest new articles, update counts and export JSON
-            self.harvest()
+            #self.harvest()
             self.update_article_counts()
             self.export()
         except Exception as e:
@@ -121,7 +121,7 @@ class Harvester:
         url = article["url"]
         urlToImage = article["urlToImage"]
         publishedAt = datetime.strptime(article["publishedAt"], "%Y-%m-%dT%H:%M:%SZ")
-        content = article["content"]
+        content = str_squish(article["content"])
         retrievedAt = datetime.now()
 
         # Check if the query is in the title, description, or content of the article
@@ -197,6 +197,9 @@ class Harvester:
             if item["source_name"] in SOURCE_IGNORE:
                 continue
             item["query"] = item["query"].split("|")
+            pub_at = datetime.strptime(item["publishedAt"], "%Y-%m-%d %H:%M:%S")
+            item["description"] = str_squish(item["description"])
+            item["publishedAtLabel"] = str_squish(pub_at.strftime("%b %e"))
             result.append(item)
 
         with open(dst_file, "w") as json_file:
