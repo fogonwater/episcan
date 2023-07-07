@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-07-06 21:28",
-  "count_articles_total": 112,
-  "count_articles_new": 43,
+  "last_updated": "2023-07-07 00:16",
+  "count_articles_total": 117,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 118,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "usa-today",
+      "source_name": "USA Today",
+      "author": "Hannah Hudnall, USA TODAY",
+      "title": "Genetically modified mosquitos released in US not tied to Gates, malaria cases | Fact check",
+      "description": "The Gates Foundation hasn't funded Oxitec's release of genetically modified mosquitos, which also weren't released where malaria cases were detected.",
+      "url": "https://www.usatoday.com/story/news/factcheck/2023/07/05/gates-donations-used-for-mosquito-research-outside-us-fact-check/70374908007/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GVpInTfXOjOLGgGKGunu5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_news_641/02c3eec8a8157eef1a3a6577b83dce6a",
+      "publishedAt": "2023-07-05 23:55:48",
+      "content": "The claim: Bill Gates released genetically modified mosquitos in the US A June 28 Instagram video shows a woman speaking in front of a screenshot of an article published by a website called American\u2026 [+4627 chars]",
+      "retrievedAt": "2023-07-07 00:16:25.211885",
+      "internal_id": "dd77460d220109d5e0a1887e2568b3c94ea84a28768f3b84c81b4f67fce144e1",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 119,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Africa to receive 18 million doses of malaria vaccine - Reuters",
+      "description": "Africa to receive 18 million doses of malaria vaccine Reuters 18 million doses of first-ever malaria vaccine allocated to 12 African countries for 2023\u20132025: Gavi, WHO and UNICEF Gavi, the Vaccine Alliance WHO announces 18 mn mal\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiCzRVRWVQMTBzc2E4mAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-05 23:21:58",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-07 00:16:25.215999",
+      "internal_id": "5a6bd94ba6c4d8ac6fd1a85a39b320bf4efca7aa0ef16076d2627a720dfa1e9d",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 120,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "United Nations",
+      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+      "description": "The World Health Organization announced today that 12 countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years. The roll-out is a critical step forward in the fight against one \u2026",
+      "url": "https://press.un.org/en/2023/db230705.doc.htm",
+      "urlToImage": null,
+      "publishedAt": "2023-07-05 22:45:45",
+      "content": "The following is a near-verbatim transcript of todays noon briefing by Farhan Haq, Deputy Spokesman for the Secretary-General. Good afternoon, everyone. **Security Council This morning, Virginia G\u2026 [+28685 chars]",
+      "retrievedAt": "2023-07-07 00:16:25.225954",
+      "internal_id": "65069e6e83e7aed5f25752711c63f0305e48ee3b4da1f8e5cd81497313cc8ffc",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 116,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ndmais.com.br",
+      "author": "ND Mais",
+      "title": "SC registra mais seis mortes por dengue em uma semana; \u00f3bitos chegam a 77 em 2023",
+      "description": "Relat\u00f3rio da Dive/SC aponta ainda que 148 munic\u00edpios est\u00e3o infestados pelo mosquito Aedes Aegypti, sendo 37 est\u00e3o em n\u00edvel de epidemia...",
+      "url": "https://ndmais.com.br/saude/sc-registra-mais-seis-mortes-por-dengue-em-uma-semana-obitos-chegam-a-77-em-2023/",
+      "urlToImage": "https://static.ndmais.com.br/2023/05/dengue-900x475.jpg",
+      "publishedAt": "2023-07-05 22:30:00",
+      "content": "A Dive/SC (Diretoria de Vigil\u00e2ncia Epidemiol\u00f3gica) divulgou nesta quarta-feira (5) um novo boletim atualizando os casos de dengue em 2023 em Santa Catarina. Mais de 80 mil pessoas contrariam a doen\u00e7a\u2026 [+801 chars]",
+      "retrievedAt": "2023-07-07 00:16:24.456689",
+      "internal_id": "10585f3d9bd161a65896a6fa6471dbc3bd364b8c514753f6e7a3f46cc3d13457",
+      "publishedAtLabel": "Jul 5"
+    },
+    {
+      "id": 117,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Africa to receive 18 mln doses of malaria vaccine - Reuters",
+      "description": "Africa to receive 18 mln doses of malaria vaccine Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3ZpZGVvL3dhdGNoL2FmcmljYS10by1yZWNlaXZlLTE4LW1sbi1kb3Nlcy1vZi1tYWxhcmktaWRPVjQ5MzkwNTA3MjAyM1JQMT9jaGFuPThnd3N5dnp40gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-05 22:00:35",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-07 00:16:25.208321",
+      "internal_id": "c5b9fcc71a9d314758c49108977b4da15c9b9817fb897020eb45c84f43d1f3f4",
+      "publishedAtLabel": "Jul 5"
+    },
     {
       "id": 93,
       "query": [
