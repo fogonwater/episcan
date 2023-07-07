@@ -1,8 +1,170 @@
 {
-  "last_updated": "2023-07-07 00:16",
-  "count_articles_total": 117,
-  "count_articles_new": 5,
+  "last_updated": "2023-07-07 07:05",
+  "count_articles_total": 127,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 129,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: 12 African Countries to Receive Lifesaving Malaria Vaccine - UN",
+      "description": "[Premium Times] The malaria vaccine had been administered to more than 1.6 million children in Ghana, Kenya and Malawi since 2019 and shown to be safe and effective.",
+      "url": "https://allafrica.com/stories/202307060070.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-06 07:03:58",
+      "content": "The malaria vaccine had been administered to more than 1.6 million children in Ghana, Kenya and Malawi since 2019 and shown to be safe and effective. The Global Vaccine Alliance (GAVI), the World He\u2026 [+2362 chars]",
+      "retrievedAt": "2023-07-07 07:05:42.494652",
+      "internal_id": "eb832275461f501ee95d935d5d6cc4feba10cadc16d211f4e10dbd1b20321272",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 126,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Erster Malaria-Impfstoff f\u00fcr zw\u00f6lf afrikanische L\u00e4nder - UNICEF Deutschland",
+      "description": "Erster Malaria-Impfstoff f\u00fcr zw\u00f6lf afrikanische L\u00e4nder UNICEF Deutschland",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnVuaWNlZi5kZS9pbmZvcm1pZXJlbi9ha3R1ZWxsZXMvcHJlc3NlLy0vZXJzdGVyLW1hbGFyaWEtaW1wZnN0b2ZmLWZ1ZXItMTItYWZyaWthbmlzY2hlLWxhZW5kZXIvMzM1Mzg20gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06 06:50:56",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-07 07:05:42.486111",
+      "internal_id": "37738baab4edacdc1069ce02a7417f151af9a8141cc2420f1bc6c777e87f3a3b",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 124,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thaipbsworld.com",
+      "author": "Marisa Chimprabha (World)",
+      "title": "Dengue fever on the rise",
+      "description": "The Disease Control Department is warning the public about the spread of dengue fever, saying that more than 27,000 people have been infected, with 33 reported deaths, in the past... The post Dengue fever on the rise first appeared on Thai PBS World : The lat\u2026",
+      "url": "https://www.thaipbsworld.com/dengue-fever-on-the-rise/",
+      "urlToImage": "https://www.thaipbsworld.com/wp-content/uploads/2023/07/mos-600x275.png",
+      "publishedAt": "2023-07-06 06:15:53",
+      "content": "The Disease Control Department is warning the public about the spread of dengue fever, saying that more than 27,000 people have been infected, with 33 reported deaths, in the past six months. Accord\u2026 [+1010 chars]",
+      "retrievedAt": "2023-07-07 07:05:41.840317",
+      "internal_id": "e9fd67133ba6d7fbfa5bca5d20fac8ce0fa0be90f64954b842ebb054ac5cb7c8",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 121,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0417\u0434\u043e\u0440\u043e\u0432\u044c\u0435 Mail.ru",
+      "title": "\u0422\u0440\u0430\u0432\u043c\u0430\u0442\u043e\u043b\u043e\u0433 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b \u043e \u0442\u0440\u0430\u0432\u043c\u0430\u0445, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u0434\u0436\u0438\u0434\u0430\u044e\u0442 \u043d\u0430\u0441 \u043d\u0430 \u0434\u0430\u0447\u0435",
+      "description": "\u041b\u044e\u0431\u0430\u044f \u0432\u044b\u043b\u0430\u0437\u043a\u0430 \u043d\u0430 \u043f\u0440\u0438\u0440\u043e\u0434\u0443 \u0442\u0430\u0438\u0442 \u0432 \u0441\u0435\u0431\u0435 \u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u043e \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u0440\u0438\u0432\u0435\u0441\u0442\u0438 \u0432 \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u0432\u0440\u0430\u0447\u0430 \u0438\u043b\u0438 \u0434\u0430\u0436\u0435 \u0432 \u0441\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440.",
+      "url": "https://health.mail.ru/news/travmatolog_rasskazal_o_travmah_kotorye/",
+      "urlToImage": "https://health.mail.ru/sharepic/33/2402805/?1688582090",
+      "publishedAt": "2023-07-06 06:00:00",
+      "content": "-- \u00ab-\u00bb, ... Mail.ru, . , - . , , , , . ! , : - (, , , , ..), ( , , ), , , , . , , -, , : , . -, , , , -: , () . , (, , , , , . .). ( , rabies ) : , . , , , , , . : ? : : 10 (\u2026 [+10 chars]",
+      "retrievedAt": "2023-07-07 07:05:41.246632",
+      "internal_id": "59346e82fd21ad9709b071d23cf50d76017bf08bdb5f6148545c8640a85d9f73",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 128,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: African Countries to Get 18 Million Doses of First-Ever Malaria Vaccine",
+      "description": "[Capital FM] New York -- Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years. The rollout is a critical step forward in the fight against one of the leading causes o\u2026",
+      "url": "https://allafrica.com/stories/202307060032.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-06 05:47:51",
+      "content": "New York \u2014 Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years. The rollout is a critical step forward in\u2026 [+5119 chars]",
+      "retrievedAt": "2023-07-07 07:05:42.493308",
+      "internal_id": "01a9935b2249a7500f41284beb716d7f1bea2e520b5cd88952f87395d2b3d4a4",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 122,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Siti N, Kenzu",
+      "title": "Jakarta boosts rabies vaccination and sterilization efforts",
+      "description": "The Jakarta provincial government is bolstering free rabies vaccination services and the sterilization of animals that carry rabies (HPR) to maintain Jakarta's rabies-free status. \"The continuous rabies vaccination ...",
+      "url": "https://en.antaranews.com/news/287352/jakarta-boosts-rabies-vaccination-and-sterilization-efforts",
+      "urlToImage": "https://cdn.antaranews.com/cache/800x533/2023/03/15/antarafoto-antisipasi-penyebaran-rabies-pada-hewan-peliharaan-150323-riv-1.jpg",
+      "publishedAt": "2023-07-06 05:39:02",
+      "content": "Jakarta (ANTARA) - The Jakarta provincial government is bolstering free rabies vaccination services and the sterilization of animals that carry rabies (HPR) to maintain Jakarta's rabies-free status.\"\u2026 [+1753 chars]",
+      "retrievedAt": "2023-07-07 07:05:41.250035",
+      "internal_id": "363b057a6159ddf1b8544c6a4022f63e62f07b27abdfe40413c59c07d1cc2bb0",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 127,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: 18 Million Doses of First-Ever Malaria Vaccine Allocated to 12 African Countries for 2023-2025 - Gavi, WHO and Unicef",
+      "description": "[Unicef] Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years. The roll out is a critical step forward in the fight against one of the leading causes of death in the \u2026",
+      "url": "https://allafrica.com/stories/202307060010.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-06 05:06:48",
+      "content": "Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years. The roll out is a critical step forward in the fight\u2026 [+5200 chars]",
+      "retrievedAt": "2023-07-07 07:05:42.490737",
+      "internal_id": "8c2373e3011cfd6effcc65ad1d716acbd99d603640cc1402c57621b4a8820797",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 130,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: More African Countries to Receive Lifesaving Malaria Vaccine",
+      "description": "[UN News] Twelve African countries will receive 18 million doses of the first-ever vaccine against malaria over the next two years, care of global vaccine alliance GAVI, the World Health Organization (WHO) and UN Children's Fund (UNICEF) announced on Wednesda\u2026",
+      "url": "https://allafrica.com/stories/202307060003.html",
+      "urlToImage": "https://cdn04.allafrica.com/download/pic/main/main/csiid/00601047:a52e225333f45e98c62015cb64ae6f14:arc614x376:w1200.jpg",
+      "publishedAt": "2023-07-06 04:38:34",
+      "content": "Twelve African countries will receive 18 million doses of the first-ever vaccine against malaria over the next two years, care of global vaccine alliance GAVI, the World Health Organization (WHO) and\u2026 [+2952 chars]",
+      "retrievedAt": "2023-07-07 07:05:42.496042",
+      "internal_id": "d482fc810e2cc9280aef29f1555430b8b2c2336353c3b166eb72a8e0de08c0e3",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 125,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Redazione Buone Notizie",
+      "title": "Malaria, non solo profilassi, ora c\u2019\u00e8 il primo vaccino vero: 18 milioni di dosi in Africa (ma ne serviranno 100)",
+      "description": "Scoperto nel 2019, il farmaco aveva superato la distribuzione sperimentale prima della pandemia e adesso riparte un piano da 18 milioni di dosi in 12 Paesi africani tra cui quelli pi\u00f9 poveri, dal Burkina faso al Niger.",
+      "url": "https://www.corriere.it/buone-notizie/23_luglio_06/malaria-non-solo-profilassi-ora-c-primo-vaccino-vero-18-milioni-dosi-africa-ma-ne-serviranno-100-5d93abc8-1b80-11ee-802f-6d9619f8b741.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/07/06/1f9bc940-1b9e-11ee-802f-6d9619f8b741.jpg",
+      "publishedAt": "2023-07-06 02:54:11",
+      "content": "di Redazione Buone NotizieScoperto nel 2019, il farmaco aveva superato la distribuzione sperimentale prima della pandemia e adesso riparte un piano da 18 milioni di dosi in 12 Paesi africani tra cui \u2026 [+2050 chars]",
+      "retrievedAt": "2023-07-07 07:05:42.482008",
+      "internal_id": "19625f75ece0415f7e53be1b9f0359dfa21e21d11915859c1386020362359e83",
+      "publishedAtLabel": "Jul 6"
+    },
     {
       "id": 118,
       "query": [
@@ -1252,6 +1414,24 @@
       "content": "When someone says \"I want a programming language in which I need only\r\nsay what I wish done,\" give him a lollipop.",
       "retrievedAt": "2023-07-05 07:06:03.995619",
       "internal_id": "ffdfd3516b31c82b4d189887e879446dde9f8eb757c3b8e4fa0e403fa258fc73",
+      "publishedAtLabel": "Jul 4"
+    },
+    {
+      "id": 123,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Pune: Waterlogging Outside Rosary School in Viman Nagar Raises Dengue Concerns for Children, Residents Demand Action From PMC - Punekar News",
+      "description": "Pune: Waterlogging Outside Rosary School in Viman Nagar Raises Dengue Concerns for Children, Residents Demand Action From PMC Punekar News Mosquito-borne diseases up amid unusual weather pattern in Pune Indiatimes.com View Full c\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5wdW5la2FybmV3cy5pbi9wdW5lLXdhdGVybG9nZ2luZy1vdXRzaWRlLXJvc2FyeS1zY2hvb2wtaW4tdmltYW4tbmFnYXItcmFpc2VzLWRlbmd1ZS1jb25jZXJucy1mb3ItY2hpbGRyZW4tcmVzaWRlbnRzLWRlbWFuZC1hY3Rpb24tZnJvbS1wbWMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-04 03:50:52",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-07 07:05:41.833915",
+      "internal_id": "836b45abc0b4597d145901180fe21feff7c9205dca0d1e2a142dc53a10f75e2c",
       "publishedAtLabel": "Jul 4"
     },
     {
