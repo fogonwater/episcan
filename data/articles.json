@@ -1,8 +1,602 @@
 {
-  "last_updated": "2023-07-07 07:05",
-  "count_articles_total": 127,
-  "count_articles_new": 10,
+  "last_updated": "2023-07-07 19:05",
+  "count_articles_total": 160,
+  "count_articles_new": 33,
   "articles": [
+    {
+      "id": 150,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Two more malaria cases confirmed in Sarasota County - WWSB",
+      "description": "Two more malaria cases confirmed in Sarasota County WWSBView Full Coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm15c3VuY29hc3QuY29tLzIwMjMvMDcvMDYvdHdvLW1vcmUtbWFsYXJpYS1jYXNlcy1jb25maXJtZWQtc2FyYXNvdGEtY291bnR5L9IBZmh0dHBzOi8vd3d3Lm15c3VuY29hc3QuY29tLzIwMjMvMDcvMDYvdHdvLW1vcmUtbWFsYXJpYS1jYXNlcy1jb25maXJtZWQtc2FyYXNvdGEtY291bnR5Lz9vdXRwdXRUeXBlPWFtcA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06 19:02:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.797883",
+      "internal_id": "4729688f4c6742ff65a69afd961e1053c8eba40eeb2028b148716b86440402b1",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 146,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Yanna Lavigne sente febre e dor no corpo ap\u00f3s picada de carrapato: 'Nunca fiquei t\u00e3o mal'",
+      "description": "Atriz disse que recebeu mensagens de seguidores preocupados com suspeitas de dengue ou febre maculosa; apesar dos sintomas, ela contou j\u00e1 estar melhor",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/yanna-lavigne-sente-febre-e-dor-no-corpo-apos-picada-de-carrapato-nunca-fiquei-tao-mal,7fd118bf009337ba499705ff920390b5qx8jktoz.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/06/1540572256-yoimlyrpszhkxprkfnlh6o7vum.png",
+      "publishedAt": "2023-07-06 18:52:25",
+      "content": "A atriz Yanna Lavigne contou que apresentou sintomas como febre, dor no corpo e dor de cabe\u00e7a ap\u00f3s ter sido picada por um carrapato nesta quinta-feira, 6. Ela disse que ainda n\u00e3o procurou atendimento\u2026 [+977 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.126329",
+      "internal_id": "993161cd91069c443f1bc208e1056a65fccdf23704861faf04a9dbbf1c44f920",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 145,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Yanna Lavigne comenta sentir febre e dor no corpo ap\u00f3s picada de carrapato: 'Nunca fiquei t\u00e3o mal'",
+      "description": "Atriz disse que recebeu mensagens de seguidores preocupados com suspeitas de dengue ou febre maculosa; apesar dos sintomas, ela contou j\u00e1 estar melhor",
+      "url": "https://www.terra.com.br/diversao/gente/yanna-lavigne-comenta-sentir-febre-e-dor-no-corpo-apos-picada-de-carrapato-nunca-fiquei-tao-mal,7fd118bf009337ba499705ff920390b5qx8jktoz.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/06/1540572256-yoimlyrpszhkxprkfnlh6o7vum.png",
+      "publishedAt": "2023-07-06 18:46:03",
+      "content": "A atriz Yanna Lavigne contou que apresentou sintomas como febre, dor no corpo e dor de cabe\u00e7a ap\u00f3s ter sido picada por um carrapato nesta quinta-feira, 6. Ela disse que ainda n\u00e3o procurou atendimento\u2026 [+977 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.123854",
+      "internal_id": "16001ec6a3a2fd32f063012de020d65753073dd5ee022d8780cf87e76bc48d3d",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 134,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Rabies detected in stray kitten found in Oakland County: What to know - WDIV ClickOnDetroit",
+      "description": "Rabies detected in stray kitten found in Oakland County: What to knowWDIV ClickOnDetroit View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171322704",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06 18:34:58",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-07 19:05:27.324520",
+      "internal_id": "3e318c967665c2b4caa363e3a9e4d52ee47bb2fdc6e5696a826c48487c0e018b",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 160,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "WND News Services",
+      "title": "WHO, Bill Gates announce plans to flood Africa with ultra dangerous malaria 'vaccines'",
+      "description": "(DOSSIER TODAY) \u2013 The World Health Organization and its partner organization, the Bill Gates-controlled GAVI, announced Wednesday that they will be flooding Africa with 18 million doses of malaria vaccines. During a Wednesday press conference, WHO director Te\u2026",
+      "url": "https://www.wnd.com/2023/07/bill-gates-announce-plans-flood-africa-ultra-dangerous-malaria-vaccines/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2022/04/insect-mosquito-Pixabay.jpg",
+      "publishedAt": "2023-07-06 18:34:49",
+      "content": "(Image courtesy Pixabay) (DOSSIER TODAY) The World Health Organization and its partner organization, the Bill Gates-controlled GAVI, announced Wednesday that they will be flooding Africa with 18 mil\u2026 [+793 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.822855",
+      "internal_id": "9afbf04ecff53665948e54791157f2d9aaa42f99f14c829c04c875dd928f9057",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 136,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Multiple people treated for rabies in Gwinnett County after being bit by rabid kitten - Local 3 News",
+      "description": "Multiple people treated for rabies in Gwinnett County after being bit by rabid kittenLocal 3 News View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171322564",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06 18:15:10",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-07 19:05:27.328310",
+      "internal_id": "e6bb287c6a8dfeb138a2359885cabca7a371b2ef6afcfea3bb52f8657f0b5494",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 142,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "\u00c1ngela \u00c1valos Rodr\u00edguez",
+      "title": "\u00bfDengue en vacaciones? Empresas de turismo y Salud se unen para evitar m\u00e1s enfermos",
+      "description": "Capacitan a hoteleros para eliminar criaderos de mosquito transmisor y piden a pobladores colaborar para prevenir brotes en vacaciones de medio a\u00f1o.",
+      "url": "https://www.nacion.com/el-pais/salud/dengue-en-vacaciones-empresas-de-turismo-y-salud/RO4W7W3CC5ABDIWE7DXKHQWIKM/story/",
+      "urlToImage": "https://www.nacion.com/resizer/Yy0g5qRzVsQNVcaKdqX5Qnw5eFc=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/O42ZI4XTDFAWHBBK4AU3BQ6V2Y.jpg",
+      "publishedAt": "2023-07-06 17:39:54",
+      "content": "Imag\u00ednese ir a la playa a descansar durante estas vacaciones y regresar a su hogar enfermo de dengue, experimentando fiebre, dolores corporales y corriendo incluso el riesgo de morir si desarrolla de\u2026 [+4775 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.117381",
+      "internal_id": "0513e83bf3dcb8ad5c76404420d09335149380a9cdf7467bf8769168cc482c2a",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 137,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Tribune News Service",
+      "title": "CDC to reduce funding for states\u2019 child vaccination programs",
+      "description": "The immunization managers who received the message are public health officials who direct state, territorial and local programs to promote vaccinations against a variety of infectious diseases, such as measles and chickenpox.",
+      "url": "https://www.bostonherald.com/2023/07/06/cdc-to-reduce-funding-for-states-child-vaccination-programs-3/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2023/07/GettyImages-178241178.jpg?w=594&h=395",
+      "publishedAt": "2023-07-06 16:41:43",
+      "content": "The Centers for Disease Control and Prevention is reducing funding to states for child vaccination programs, according to an agency email obtained by KFF Health News. The funding cut is a significan\u2026 [+3551 chars]",
+      "retrievedAt": "2023-07-07 19:05:27.790265",
+      "internal_id": "7ae8409ac4e8d25fd8ba45d7a2e138afcbee65807cfa943c1b52cc5fdf487722",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 138,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Tribune News Service",
+      "title": "CDC to reduce funding for states\u2019 child vaccination programs",
+      "description": "The immunization managers who received the message are public health officials who direct state, territorial and local programs to promote vaccinations against a variety of infectious diseases, such as measles and chickenpox.",
+      "url": "https://www.denverpost.com/2023/07/06/cdc-to-reduce-funding-for-states-child-vaccination-programs-3/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2023/07/GettyImages-178241178.jpg?w=594&h=395",
+      "publishedAt": "2023-07-06 16:41:43",
+      "content": "The Centers for Disease Control and Prevention is reducing funding to states for child vaccination programs, according to an agency email obtained by KFF Health News. The funding cut is a significan\u2026 [+3551 chars]",
+      "retrievedAt": "2023-07-07 19:05:27.793740",
+      "internal_id": "5bffbf3938158326b98421d6c9f76da88ace474ee684e742b1071116794f3e8a",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 135,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "FOX 2 Detroit",
+      "author": "Fox 2 Detroit",
+      "title": "Rabies found in Oakland County stray kitten",
+      "description": "Pet owners are urged to vaccinate their animals after a kitten infected with rabies was found in Oakland County last month.",
+      "url": "https://www.fox2detroit.com/news/rabies-found-in-oakland-county-stray-kitten",
+      "urlToImage": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2023/07/1280/720/GettyImages-1241258573.jpg?ve=1&tl=1",
+      "publishedAt": "2023-07-06 15:56:11",
+      "content": "OAKLAND COUNTY, Mich. (Fox 2) - Pet owners are urged to vaccinate their animals after a kitten infected with rabies was found in Oakland County last month. The 9-month-old kitten initially appeared \u2026 [+1373 chars]",
+      "retrievedAt": "2023-07-07 19:05:27.326173",
+      "internal_id": "699f89b9631b719de091819d32dbf95d8085f45a4ec27b2485ec16b3d00202e5",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 139,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Caso di duengue a Jesi: il comune anconetano dispone due giorni di disinfestazione",
+      "description": "Un caso di febbre dengue \u00e8 stato diagnosticato a Jesi, in provincia di Ancona, su un giovane rientrato da un viaggio all\u2019estero. L\u2019accertamento del virus, solitamente trasmesso dalle punture di zanzare, ha fatto scattare un piano di prevenzione del comune che\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2023/07/06/caso-di-dengue-a-jesi-il-comune-anconetano-dispone-due-giorni-di-disinfestazione/7220545/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/09/17/zanzara-.jpg",
+      "publishedAt": "2023-07-06 15:51:17",
+      "content": "Un caso di febbre dengue \u00e8 stato diagnosticato a Jesi, in provincia di Ancona, su un giovane rientrato da un viaggio all\u2019estero. L\u2019accertamento del virus, solitamente trasmesso dalle punture di zanza\u2026 [+3628 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.106580",
+      "internal_id": "9191941a3c7026f550c7423cb88bbeafe1d1a2e8c3db3f7a4811d6f3b062ea33",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 140,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+      "title": "Jesi, accertato un caso di dengue: in citt\u00e0 parte la disinfestazione",
+      "description": "Il virus tropicale riscontrato in un giovane rientrato dall\u2019estero. Il Comune delle Marche, per precauzione, ha disposto l'immediata bonifica da zanzare in un raggio di 200 metri dalla casa dell\u2019uomo",
+      "url": "https://www.repubblica.it/cronaca/2023/07/06/news/jesi_marche_caso_dengue_disinfestazione-406880445/",
+      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/07/06/172939498-414d1180-c713-4290-b420-cd3411d80191.jpg",
+      "publishedAt": "2023-07-06 15:31:28",
+      "content": "Caso di dengue a Jesi (Ancona), accertato in un un ragazzo da poco tornato da un viaggio all'estero. L'uomo \u00e8 rimasto in casa e le sue condizioni sono in netto miglioramento. A comunicarlo al Comune\u2026 [+902 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.111753",
+      "internal_id": "e177c0c166e60b91bb670ff3004d23bbb712002466bf6bd9dd46890f27f7b3e3",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 162,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Vaccination is the Best Bet Against Drug-Resistant Superbugs - Experts",
+      "description": "[IPS] Karachi -- Childhood vaccination, complemented with clean drinking water and improved hygiene practices, are the key to eradication of typhoid XDR, not indiscriminate use of antibiotics, say Pakistan health experts.",
+      "url": "https://allafrica.com/stories/202307060507.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-06 15:26:59",
+      "content": "Karachi \u2014 Childhood vaccination, complemented with clean drinking water and improved hygiene practices, are the key to eradication of typhoid XDR, not indiscriminate use of antibiotics, say Pakistan \u2026 [+12499 chars]",
+      "retrievedAt": "2023-07-07 19:05:30.217149",
+      "internal_id": "09d557c692f25f46cc287b226a4f4d41f86c6de6adff19c2f122f0331176c45e",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 143,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": "",
+      "title": "A Jesi dengue in giovane rientrato da viaggio all'estero",
+      "description": "Caso di dengue a Jesi, in provincia di Ancona, accertato in un un giovane rientrato da un viaggio all'estero. L'uomo ha soggiornato nella propria abitazione e le sue condizioni sono in netto miglioramento. (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2023/07/06/a-jesi-dengue-in-giovane-rientrato-da-viaggio-allestero_745e451b-a350-4038-a648-4fdbb1bbae47.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/5/31/38a01e513c216ef9d94ce0b5a3b85c03.jpg",
+      "publishedAt": "2023-07-06 14:59:35",
+      "content": "(ANSA) - JESI, 06 LUG - Caso di dengue a Jesi, in provincia di Ancona, accertato in un un giovane rientrato da un viaggio all'estero. L'uomo ha soggiornato nella propria abitazione e le sue condiz\u2026 [+1149 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.119618",
+      "internal_id": "04834b97a3c97cc6170383d87d9651128d8ac2050bdb4b7183b33c98adcf2b30",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 154,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "UN to roll out 18 million malaria vaccines across 12 African countries by 2025 - Yahoo Canada Shine On",
+      "description": "UN to roll out 18 million malaria vaccines across 12 African countries by 2025 Yahoo Canada Shine On Africa to receive 18 million doses of malaria vaccine Reuters 18 million doses of first-ever malaria vaccine allocated to 12 Afr\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tL3VuLWFnZW5jaWVzLXJvbGwtMTgtbWlsbGlvbi0xNDU0MzczNDQuaHRtbNIBTWh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tL2FtcGh0bWwvdW4tYWdlbmNpZXMtcm9sbC0xOC1taWxsaW9uLTE0NTQzNzM0NC5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06 14:54:37",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.806050",
+      "internal_id": "a61d1169118a77936a8554ccbd57b732c71dabaf7c634f6c74dddb3e6c390680",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 131,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Multiple people treated for rabies in Gwinnett County after being bit by rabid kitten - Local 3 News",
+      "description": "Multiple people treated for rabies in Gwinnett County after being bit by rabid kitten Local 3 NewsView Full Coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5sb2NhbDNuZXdzLmNvbS9yZWdpb25hbC1uYXRpb25hbC9nYS9tdWx0aXBsZS1wZW9wbGUtdHJlYXRlZC1mb3ItcmFiaWVzLWluLWd3aW5uZXR0LWNvdW50eS1hZnRlci1iZWluZy1iaXQtYnktcmFiaWQta2l0dGVuL2FydGljbGVfYjRiOWZmYzItMWMwOS0xMWVlLWI5MTEtMjMwZGMwN2NjYjU5Lmh0bWzSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06 14:30:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-07 19:05:27.315873",
+      "internal_id": "75b7dc3f6ab120a2280a98c48fdfb01b89cb7db01533d4225a5d38f5fb6c752b",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 133,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mihaela Anca Dascalu, Evelyne Picard-Meyer, Emmanuelle Robardet, Alexandre Servat, Serghei Arseniev, Oxana Groza, Nicolae Starciuc, Vlad Vuta, Florica Barbuceanu, Oana Irina Tanase, Florentina Daraban Bocaneti, Helene Quenault, Edouard Hirchaud, Yannick Blanchard, Elena Velescu, Florence Cliquet",
+      "title": "Whole genome sequencing and phylogenetic characterisation of rabies virus strains from Moldova and north-eastern Romania",
+      "description": "Author summary High throughput sequencing has become a powerful tool for the epidemiological study of the rabies virus. Considering the lack of information from the two geographic areas included in the present research, a collection of samples from 2012 to 20\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011446",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011446.g004&size=inline",
+      "publishedAt": "2023-07-06 14:00:00",
+      "content": "Introduction Rabies is the oldest disease recognised as a neglected tropical disease. It is zoonotic and almost always has a fatal outcome in humans if not prevented by timely post-exposure prophyla\u2026 [+36465 chars]",
+      "retrievedAt": "2023-07-07 19:05:27.321922",
+      "internal_id": "fa8f0e2bd99a4fb23689b5d2948c6f4d1ce57aa96e6afca537010489407f90c2",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 149,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Guardian",
+      "author": "Kaamil Ahmed",
+      "title": "\u2018Safe and effective\u2019: first malaria vaccine to be rolled out in 12 African countries",
+      "description": "An initial 18m doses will be delivered over the next two years to combat a disease that kills nearly half a million children annuallyA long-awaited vaccine for malaria has been announced for rollout across 12 African countries over the next two years, potenti\u2026",
+      "url": "https://www.theguardian.com/global-development/2023/jul/06/safe-and-effective-first-malaria-vaccine-to-be-rolled-out-in-12-african-countries",
+      "urlToImage": "https://i.guim.co.uk/img/media/b8df0453e1228fb343914b416ee0527f5c5ee1b0/0_400_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3811b8d5e71f39275a62e6538afd342",
+      "publishedAt": "2023-07-06 13:34:11",
+      "content": "A long-awaited vaccine for malaria has been announced for rollout across 12 African countries over the next two years, potentially saving tens of thousands of lives. An initial 18m doses of the worl\u2026 [+2269 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.796057",
+      "internal_id": "2200d3f9715fea5535064629ccfc999eed2c3c06b04fb621a02a10c58c1b4880",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 144,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Clicrbs.com.br",
+      "author": "Divulga\u00e7\u00e3o",
+      "title": "Nova vacina contra a dengue j\u00e1 est\u00e1 dispon\u00edvel em Porto Alegre e valor pode chegar a R$ 440; saiba onde encontrar",
+      "description": "O imunizante \u00e9 recomendado para pessoas entre quatro e 60 anos de idade",
+      "url": "http://diariogaucho.clicrbs.com.br/rs/dia-a-dia/noticia/2023/07/nova-vacina-contra-a-dengue-ja-esta-disponivel-em-porto-alegre-e-valor-pode-chegar-a-r-440-saiba-onde-encontrar-30485271.html",
+      "urlToImage": "http://diariogaucho.rbsdirect.com.br/imagesrc/43054112.jpg?w=600",
+      "publishedAt": "2023-07-06 13:09:33",
+      "content": "A nova vacina contra a dengue, desenvolvida pela farmac\u00eautica japonesa Takeda, j\u00e1 pode ser aplicada em Porto Alegre. Sem previs\u00e3o para ser oferecida pelo Sistema \u00danico de Sa\u00fade (SUS), farm\u00e1cias e cl\u00ed\u2026 [+3196 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.121418",
+      "internal_id": "6722fd1d070122f5c9beac1b390ce273d9600a198b70f810521826b7c97c6bbe",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 159,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Berit Uhlmann",
+      "title": "Infektionskrankheiten: Erstmals steht ein Malaria-Impfstoff vor der breiten Anwendung",
+      "description": "Es hat Jahrzehnte gedauert, nun ist es soweit: Vom kommenden Jahr an werden die ersten 18 Millionen Dosen des neuen Vakzins in Afrika eingesetzt.",
+      "url": "https://www.sueddeutsche.de/gesundheit/malaria-impfstoff-anwendung-afrika-1.6003218",
+      "urlToImage": "https://www.sueddeutsche.de/image/sz.1.5765625/1200x675?v=1688643441",
+      "publishedAt": "2023-07-06 12:29:55",
+      "content": "Es hat Jahrzehnte gedauert, nun ist es soweit: Vom kommenden Jahr an werden die ersten 18 Millionen Dosen des neuen Vakzins in Afrika eingesetzt. Erstmals in der Geschichte der Malaria wird nun ein I\u2026 [+3398 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.818242",
+      "internal_id": "c7f39667da8a9c46100571bd75158644661d2d42a2a14083570a5edf86ae1c68",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 153,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "12 African countries across different regions to receive 18mn doses of first-ever malaria vaccine over next .. - ETHealthWorld",
+      "description": "12 African countries across different regions to receive 18mn doses of first-ever malaria vaccine over next .. ETHealthWorld Africa to receive 18 million doses of malaria vaccine Reuters 18 million doses of first-ever malaria vac\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiyAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcGhhcm1hL3BvbGljeS1yZWd1bGF0aW9ucy8xMi1hZnJpY2FuLWNvdW50cmllcy1hY3Jvc3MtZGlmZmVyZW50LXJlZ2lvbnMtdG8tcmVjZWl2ZS0xOG1uLWRvc2VzLW9mLWZpcnN0LWV2ZXItbWFsYXJpYS12YWNjaW5lLW92ZXItbmV4dC0yLXllYXJzLzEwMTU0NzY1N9IBzAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL2FtcC9uZXdzL3BoYXJtYS9wb2xpY3ktcmVndWxhdGlvbnMvMTItYWZyaWNhbi1jb3VudHJpZXMtYWNyb3NzLWRpZmZlcmVudC1yZWdpb25zLXRvLXJlY2VpdmUtMThtbi1kb3Nlcy1vZi1maXJzdC1ldmVyLW1hbGFyaWEtdmFjY2luZS1vdmVyLW5leHQtMi15ZWFycy8xMDE1NDc2NTc?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06 12:23:08",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.804418",
+      "internal_id": "37eb80e98c597581feaf1741499a361ac7786c416c6e40c029807d6d63824eed",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 157,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "2 top public health positions in Ron DeSantis' administration are vacant (Matt Dixon/NBC News)",
+      "description": "Matt Dixon / NBC News: 2 top public health positions in Ron DeSantis' administration are vacant \u2014 The positions are vacant as the CDC says Florida is seeing its first cases of malaria in two decades. \u2014 TALLAHASSEE, Fla. \u2014 Two of the top public health offi\u2026",
+      "url": "https://www.memeorandum.com/230706/p13",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230630-ron-desantis-ac-508p-fc8273.jpg",
+      "publishedAt": "2023-07-06 12:00:33",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.813768",
+      "internal_id": "0d47c7d3e9810bf44c4ce1349d112de0689f1c79a3514a1358698727a92354e0",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 147,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Aumentan a 40 decesos por meningitis en Durango",
+      "description": "Durango, Dgo., Estela Mon\u00e1rrez Mendoza, de 30 a\u00f1os de edad, falleci\u00f3 a causa de meningitis mic\u00f3tica la noche del martes; se trata del deceso n\u00famero 40 a partir de que se dio a conocer la emergencia sanitaria, el primero de noviembre de 2022; la mortandad por \u2026",
+      "url": "https://www.jornada.com.mx/2023/07/06/estados/029n2est",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-07-06 11:21:32",
+      "content": "Peri\u00f3dico La JornadaJueves 6 de julio de 2023, p. 29 Durango, Dgo., Estela Mon\u00e1rrez Mendoza, de 30 a\u00f1os de edad, falleci\u00f3 a causa de meningitis mic\u00f3tica la noche del martes; se trata del deceso n\u00fame\u2026 [+2187 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.431823",
+      "internal_id": "0bdabdb146d4c9e1d59538b9f95599324965c23722f5c726fb166e949282a05d",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 161,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Sun",
+      "author": "Isabel Shaw",
+      "title": "Urgent monkeypox warning as 8 new cases of killer disease discovered in UK",
+      "description": "MEDICS are urging people at risk of mpox to get vaccinated, following a rise in the number of cases discovered. Latest figures suggest eight new infections were diagnosed in the UK between June 1 a\u2026",
+      "url": "https://www.thesun.co.uk/health/22947746/monkeypox-mpox-symptoms-cases-uk/",
+      "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2022/07/NINTCHDBPICT000745869852.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2023-07-06 11:03:09",
+      "content": "MEDICS are urging people at risk of mpox to get vaccinated, following a rise in the number of cases discovered. Latest figures suggest eight new infections were diagnosed in the UK between June 1 an\u2026 [+2639 chars]",
+      "retrievedAt": "2023-07-07 19:05:30.011567",
+      "internal_id": "0b1a2e5119493bb7353cd81d13cf9229c2e541d08f4539c2baf3671b8c8cfac6",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 148,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Guardian",
+      "author": "Eric Berger",
+      "title": "Experts say climate change likely to increase US malaria cases",
+      "description": "Scientists quell fears about imminent risk after cases in Texas and Florida but warn that mosquito breeding sites set to growAlthough locally acquired malaria cases were recently discovered in the United States for the first time in 20 years, infectious disea\u2026",
+      "url": "https://www.theguardian.com/us-news/2023/jul/06/malaria-us-mosquitoes-climate-crisis",
+      "urlToImage": "https://i.guim.co.uk/img/media/36b19068e51f213bfa3858b609fa962fe3543ad4/0_130_3900_2340/master/3900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29416b5ce9edb061d330e1587fb54772",
+      "publishedAt": "2023-07-06 10:00:03",
+      "content": "Although locally acquired malaria cases were recently discovered in the United States for the first time in 20 years, infectious disease experts say they do not signal imminent danger but instead are\u2026 [+3854 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.793482",
+      "internal_id": "c5e3591d8bb591a064b2fecf5c198e1230e9257aae65317550683da0240c7619",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 156,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "18 Millionen Impfdosen: Afrikanische L\u00e4nder starten gro\u00dfes Malaria-Impfprogramm - Tagesspiegel",
+      "description": "18 Millionen Impfdosen: Afrikanische L\u00e4nder starten gro\u00dfes Malaria-Impfprogramm Tagesspiegel",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50YWdlc3NwaWVnZWwuZGUvd2lzc2VuLzE4LW1pbGxpb25lbi1pbXBmZG9zZW4tYWZyaWthbmlzY2hlLWxhbmRlci1zdGFydGVuLWdyb3NzZXMtbWFsYXJpYS1pbXBmcHJvZ3JhbW0tMTAxMDIwOTAuaHRtbNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06 09:42:44",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.811431",
+      "internal_id": "b87e93f9de0cdeb47d01009828a07194e4cf971db8d554e8d94e33d74553caad",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 158,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "18 Millionen Impfdosen: Afrikanische L\u00e4nder starten gro\u00dfes Malaria-Impfprogramm",
+      "description": "Fast eine halbe Millionen Kinder unter f\u00fcnf Jahren sterben j\u00e4hrlich an dem Virus. Die Hoffnung ist gro\u00df, dass der neue Impfstoff die Tropenkrankheit, die die h\u00e4ufigste Todesursache ist, eind\u00e4mmt.",
+      "url": "https://www.tagesspiegel.de/wissen/18-millionen-impfdosen-afrikanische-lander-starten-grosses-malaria-impfprogramm-10102090.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/us-health-science-malaria/alternates/BASE_16_9_W1400/us-health-science-malaria.jpeg",
+      "publishedAt": "2023-07-06 09:42:44",
+      "content": "Zw\u00f6lf afrikanische L\u00e4nder sollen in den n\u00e4chsten zwei Jahren insgesamt 18 Millionen Dosen eines neuartigen Malaria-Impfstoffs erhalten. Das teilten die Weltgesundheitsorganisation WHO, die Impfallian\u2026 [+1904 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.815655",
+      "internal_id": "2859418a52e6c61f94bb916629781558f12a533b2e90ff38cb7280384af22c7f",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 155,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "WHO identifies 12 African countries for roll out of first-ever malaria vaccine | TheHealthSite.com - TheHealthSite",
+      "description": "WHO identifies 12 African countries for roll out of first-ever malaria vaccine | TheHealthSite.com TheHealthSite Africa to receive 18 million doses of malaria vaccine Reuters 18 million doses of first-ever malaria vaccine allocat\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50aGVoZWFsdGhzaXRlLmNvbS9uZXdzL2ZpcnN0LWV2ZXItbWFsYXJpYS12YWNjaW5lLTEyLWFmcmljYW4tY291bnRyaWVzLXRvLXJlY2VpdmUtMTgtbWlsbGlvbi1kb3Nlcy1pbi10aGUtbmV4dC10d28teWVhcnMtOTkwMzcwL9IBkAFodHRwczovL3d3dy50aGVoZWFsdGhzaXRlLmNvbS9uZXdzL2ZpcnN0LWV2ZXItbWFsYXJpYS12YWNjaW5lLTEyLWFmcmljYW4tY291bnRyaWVzLXRvLXJlY2VpdmUtMTgtbWlsbGlvbi1kb3Nlcy1pbi10aGUtbmV4dC10d28teWVhcnMtOTkwMzcwL2FtcC8?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-06 09:21:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.807593",
+      "internal_id": "1e1730b53a2384ed966f83a86fbb9188fc891fc793ab904b94e7fca2f890eb35",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 141,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases drop by 8%, no fatalities recorded, says Health Ministry",
+      "description": "PUTRAJAYA: The number of dengue fever cases dropped by 8.0%, or 226 cases, to 2,582 cases in the 25th epidemiological week (ME25), which is for the period from June 18 to 24, compared to 2,808 cases reported in the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/07/06/dengue-cases-drop-by-8-no-fatalities-recorded-says-health-ministry",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/06/2163126.jpg",
+      "publishedAt": "2023-07-06 08:09:00",
+      "content": "PUTRAJAYA: The number of dengue fever cases dropped by 8.0%, or 226 cases, to 2,582 cases in the 25th epidemiological week (ME25), which is for the period from June 18 to 24, compared to 2,808 cases \u2026 [+1135 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.115765",
+      "internal_id": "dd6ae70a6f2023faf99787fdd72b2509dc157a09a5e1d41c5bfcd0bb5e70b648",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 151,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gazzetta.it",
+      "author": "Francesco Palma",
+      "title": "Malaria: 5 nuovi casi negli USA. Non accadeva da 20 anni",
+      "description": "Sono stati registrati 4 episodi in Florida e uno in Texas: la patologia \u00e8 causata da una particolare zanzara",
+      "url": "https://www.gazzetta.it/salute/06-07-2023/malaria-5-nuovi-casi-negli-usa-non-accadeva-da-20-anni.shtml",
+      "urlToImage": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2023/07/03/64a30419a6675.jpeg",
+      "publishedAt": "2023-07-06 08:00:18",
+      "content": "Francesco Palma 6 luglio - MILANO Lincubo della malaria \u00e8 tornato: nellultima settimana sono stati confermati ben 5 casi a trasmissione locale negli Stati Uniti, non accadeva da 20 anni. Quattro di\u2026 [+1826 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.799654",
+      "internal_id": "6b5653b724b7459df8652376e6cccc9b8536e74d71adc9af7abe06e1ea4cf5fc",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 152,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Sun Sentinel",
+      "author": "Cindy Krischer Goodman, South Florida Sun Sentinel",
+      "title": "What makes you a mosquito magnet? Some people can\u2019t escape the pesky but dangerous bites",
+      "description": "FORT LAUDERDALE, Fla. -- Mosquitos can carry some dangerous diseases, including malaria, recently rediscovered in Florida. Whether you are a target of those ...",
+      "url": "https://www.sun-sentinel.com/2023/06/30/what-makes-you-a-mosquito-magnet-some-people-cant-escape-the-pesky-but-dangerous-bites/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AoNjoN5OGO1JvcODHj.tyg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTg-/https://media.zenfs.com/en/south_florida_sun_sentinel_national_820/af461360da514f179a052611a9eff8a8",
+      "publishedAt": "2023-07-06 08:00:00",
+      "content": "FORT LAUDERDALE, Fla. -- Mosquitos can carry some dangerous diseases, including malaria, recently rediscovered in Florida. Whether you are a target of those pesky insects may depend on an odd array \u2026 [+7801 chars]",
+      "retrievedAt": "2023-07-07 19:05:28.802195",
+      "internal_id": "fa5af507d5b8246d57f21c504984e1508ea14a7866b01ac33e9abdace19c46e8",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 132,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "World Zoonoses Day: Know About Common Diseases That Spread From Animals To Humans",
+      "description": "World Zoonoses Day marks the day the first vaccine against rabies, a zoonotic disease, was developed by French microbiologist Louis Pasteur.",
+      "url": "https://www.medicaldaily.com/world-zoonoses-day-know-about-common-diseases-that-spread-animals-humans-470435",
+      "urlToImage": "https://d.medicaldaily.com/en/full/305076/rabies.jpg",
+      "publishedAt": "2023-07-06 07:52:17",
+      "content": "World Zoonoses Day is marked on July 6 every year to raise awareness about the causes, symptoms, prevention and treatment of zoonotic diseases that account for 2.7 million human deaths worldwide each\u2026 [+2834 chars]",
+      "retrievedAt": "2023-07-07 19:05:27.320098",
+      "internal_id": "54597644ec054846441baf1afedadf14ea8caf144c129335d950614e489ff1c4",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 163,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Inter Press Service",
+      "author": "Zofeen Ebrahim",
+      "title": "Vaccination Is the Best Bet Against Drug-Resistant Superbugs \u2014 Experts",
+      "description": "Childhood vaccination, complemented with clean drinking water and improved hygiene practices, are the key to eradication of typhoid XDR, not indiscriminate use of antibiotics, say Pakistan health experts.",
+      "url": "https://www.ipsnews.net/2023/07/vaccination-is-the-best-bet-against-drug-resistant-superbugs-say-experts/",
+      "urlToImage": "https://www.ipsnews.net/Library/2023/07/IMG_0723.jpg",
+      "publishedAt": "2023-07-06 07:14:29",
+      "content": "Africa, Civil Society, Development &amp; Aid, Editors' Choice, Featured, Headlines, Health, Humanitarian Emergencies, Inequality, Poverty &amp; SDGs, TerraViva United NationsHealth Vaccination Is th\u2026 [+12774 chars]",
+      "retrievedAt": "2023-07-07 19:05:30.220442",
+      "internal_id": "6c2a53a177e72df2bd0e620ffce2b457e7d328bd75909afaa0f8a4ca7e11f346",
+      "publishedAtLabel": "Jul 6"
+    },
     {
       "id": 129,
       "query": [
