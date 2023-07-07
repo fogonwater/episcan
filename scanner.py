@@ -186,7 +186,7 @@ class Harvester:
     def export(self, dst_file="data/articles.json"):
         c = self.conn.cursor()
 
-        c.execute("SELECT * FROM articles ORDER BY publishedAt DESC LIMIT 250")
+        c.execute("SELECT * FROM articles ORDER BY publishedAt DESC LIMIT 300")
         rows = c.fetchall()
 
         result = []
