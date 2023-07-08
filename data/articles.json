@@ -1,8 +1,153 @@
 {
-  "last_updated": "2023-07-07 19:05",
-  "count_articles_total": 160,
-  "count_articles_new": 33,
+  "last_updated": "2023-07-08 07:05",
+  "count_articles_total": 168,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 168,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Theamericanscholar.org",
+      "author": "Stephanie Bastek",
+      "title": "Man vs. Mosquito",
+      "description": "Timothy Winegard on how this irritating insect changed human history\u2014for better and for worse The post Man vs. Mosquito appeared first on The American Scholar.",
+      "url": "https://theamericanscholar.org/man-vs-mosquito/",
+      "urlToImage": "https://theamericanscholar.org/wp-content/uploads/2023/07/skeeters_rerun.jpg",
+      "publishedAt": "2023-07-07 04:01:31",
+      "content": "Travel to any of the hundred-odd countries where malaria is endemic, and the mosquito is not merely a pest: it is a killer. Factor in the laundry list of other diseases that this insect can transmitd\u2026 [+1813 chars]",
+      "retrievedAt": "2023-07-08 07:05:33.731579",
+      "internal_id": "6b42f2d586511f4eeb50683b76fab10c1f583fd359d59631c839c75a8d11ecf1",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 167,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Fark.com",
+      "author": null,
+      "title": "First malaria vaccine to be rolled out in 12 African countries, banned in Florida [Spiffy]",
+      "description": "First malaria vaccine to be rolled out in 12 African countries, banned in Florida",
+      "url": "https://www.fark.com/comments/12916466/First-malaria-vaccine-to-be-rolled-out-in-12-African-countries-banned-in-Florida",
+      "urlToImage": "https://usrimg-full.fark.net/6/6R/fark_6Rr0eO3ZYvYfKKrSWaAHASg84tc.jpg?AWSAccessKeyId=UKDINQXVGV49TCSSKJLK&Expires=1688961600&Signature=fDWh8O5yoddg1LbVDkZNXBmbiro%3D",
+      "publishedAt": "2023-07-07 01:30:05",
+      "content": "Links are submitted by members of the Fark community. When community members submit a link, they also write a custom headline for the story. Other Farkers comment on the links\u2026 [+177 chars]",
+      "retrievedAt": "2023-07-08 07:05:33.721956",
+      "internal_id": "bfc3fe1b7ec449e10e19f568a09037ebf4e5d3bb7e379c1435507e0d9d6f7634",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 171,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Kristine Belonio",
+      "title": "Mpox Resurgence Update: Minnesota, Coachella Valley Record New Infections",
+      "description": "Public health officials reported new cases amid the anticipated mpox resurgence in the country.",
+      "url": "https://www.medicaldaily.com/mpox-resurgence-update-minnesota-coachella-valley-record-new-infections-470443",
+      "urlToImage": "https://d.medicaldaily.com/en/full/45133/how-protect-yourself-against-monkeypox-amid-global-outbreak.jpg",
+      "publishedAt": "2023-07-06 23:31:25",
+      "content": "Minnesota and the Coachella Valley are facing a concerning increase in mpox cases, as reported by their respective health departments. The Minnesota Department of Health (MDH) recently confirmed eig\u2026 [+3269 chars]",
+      "retrievedAt": "2023-07-08 07:05:34.565207",
+      "internal_id": "41bd59a1e6f05d2a735f47aee4b52b5f7bf01f59a008cde9c39565143dede884",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 166,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "21 dengue cases in Melaka last week",
+      "description": "MELAKA: The Melaka Health Department has issued, as of July 1, a total of 93 notices under Section 8 of the Destruction of Disease-Bearing Insects Act to owners of premises where mosquito-breeding sites were found. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/07/07/21-dengue-cases-in-melaka-last-week",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/07/2164574.jpg",
+      "publishedAt": "2023-07-06 23:00:00",
+      "content": "MELAKA: The Melaka Health Department has issued, as of July 1, a total of 93 notices under Section 8 of the Destruction of Disease-Bearing Insects Act to owners of premises where mosquito-breeding si\u2026 [+940 chars]",
+      "retrievedAt": "2023-07-08 07:05:32.909032",
+      "internal_id": "95003d109e067a122fe4d4a091d280b5b5154cd46a3a2a6350a986a38c5f7669",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 165,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Ivana Leskov\u00e1",
+      "title": "Kom\u00e1\u0159i infikovan\u00ed tropick\u00fdmi nemocemi se \u0161\u00ed\u0159\u00ed Evropou. U\u017e nakazili i \u010cechy",
+      "description": "Pokud se chyst\u00e1te na dovolenou, chra\u0148te se tam proti kom\u00e1r\u016fm a hmyzu, kter\u00fd p\u0159en\u00e1\u0161\u00ed viry zp\u016fsobuj\u00edc\u00ed hore\u010dky dengue, zika i jin\u00e9 nebezpe\u010dn\u00e9 nemoci. A pokud v\u00e1m po n\u00e1vratu bude zle, nechte se vy\u0161et\u0159it. Turist\u016fm to rad\u00ed \u010de\u0161t\u00ed i evrop\u0161t\u00ed odborn\u00edci na infek\u010dn\u00ed ne\u2026",
+      "url": "https://www.idnes.cz/zpravy/domaci/komar-prenasec-nemoc-horecka-choroba.A230706_192747_domaci_dyn",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2023/7/premium/IHA9cc5e676d6_shutterstock_200494427.jpg",
+      "publishedAt": "2023-07-06 22:00:00",
+      "content": "Posledn\u00ed dobou v\u00fdrazn narst\u00e1 riziko n\u00e1kazy i poty nemocn\u00fdch lid\u00ed. Jen od ledna do kvtna se potvrdila horeka dengue u 30 ech (nakaen\u00fdch ve svt i v Evrop). Nkter\u00e9 nemoci v pehledech ani nejsou. Jako n\u2026 [+433 chars]",
+      "retrievedAt": "2023-07-08 07:05:32.900820",
+      "internal_id": "929d8302283a981d9833e3f42f22ddfbeb4d45d24813c70bb0e3189322aa3aa2",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 170,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Fark.com",
+      "author": null,
+      "title": "Two top public health positions in Ron DeSantis' administration responsible for stopping spread of diseases are empty, right as Florida sees the first cases of malaria in two decades. Incompetent Floridian trifecta complete [Florida]",
+      "description": "Two top public health positions in Ron DeSantis' administration responsible for stopping spread of diseases are empty, right as Florida sees the first cases of malaria in two decades. Incompetent Floridian trifecta complete",
+      "url": "https://www.fark.com/comments/12916360/Two-top-public-health-positions-in-Ron-DeSantis-administration-responsible-for-stopping-spread-of-diseases-are-empty-right-as-Florida-sees-first-cases-of-malaria-in-two-decades-Incompetent-Floridian-trifecta-complete",
+      "urlToImage": "https://usrimg-full.fark.net/m/mr/fark_mrZM4MMNfnSyXqnyhbPKs44u-ww.jpg?AWSAccessKeyId=UKDINQXVGV49TCSSKJLK&Expires=1688961600&Signature=MYs4sszPQDY2J%2B%2FNt8uB2qttI68%3D",
+      "publishedAt": "2023-07-06 20:20:16",
+      "content": "feckingmorons:The states sentinel chicken program includes malaria. That program is up and running just fine. I had sentinel chickens when I had the cabin. So because two positions are open doesn\u2026 [+428 chars]",
+      "retrievedAt": "2023-07-08 07:05:33.743023",
+      "internal_id": "93182c26c1486822c075e66200b589522e8502931e6ba14a63fcc246ee75a4b3",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 169,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Ny malaria-vaksine kan redde titusener av liv i Afrika",
+      "description": "En lenge etterlengtet vaksine mot malaria skal rulles ut i tolv afrikanske land de neste to \u00e5rene. Det skriver The Guardian. Malaria tar livet av en halv million barn \u00e5rlig. Det antas at den nye vaksinen kan redde titusener av liv. 18 millioner doser er tilde\u2026",
+      "url": "https://www.nrk.no/nyheter/ny-malaria-vaksine-kan-redde-titusener-av-liv-i-afrika-1.16474776",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.492/common/img/default.jpg",
+      "publishedAt": "2023-07-06 20:04:13",
+      "content": "6. juli2023kl.22:04En lenge etterlengtet vaksine mot malaria skal rulles ut i tolv afrikanske land de neste to \u00e5rene. Det skriver The Guardian. Malaria tar livet av en halv million barn \u00e5rlig. Det \u2026 [+366 chars]",
+      "retrievedAt": "2023-07-08 07:05:33.739682",
+      "internal_id": "d33a539f6a10a29d3b8bc594579d8aaf72ded35958b2423a35f37a66f9196baa",
+      "publishedAtLabel": "Jul 6"
+    },
+    {
+      "id": 164,
+      "query": [
+        "measles"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "CDC is slashing funding for states\u2019 childhood vaccination data systems",
+      "description": "The budget cut targets data systems that can identify areas with low vaccination.",
+      "url": "https://arstechnica.com/health/2023/07/state-childhood-vaccination-programs-face-budget-cuts-from-cdc/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-178236750-760x380.jpg",
+      "publishedAt": "2023-07-06 19:12:43",
+      "content": "Enlarge/ A boy smiles as he gets a measles, mumps, and rubella (MMR) vaccination. 24 with State health departments are facing federal budget cuts to programs that support childhood vaccination, wh\u2026 [+5684 chars]",
+      "retrievedAt": "2023-07-08 07:05:32.424550",
+      "internal_id": "8801d6567e4ce87cb73d2fd3afca06941d764d67068ff1519f53710ddc97bffb",
+      "publishedAtLabel": "Jul 6"
+    },
     {
       "id": 150,
       "query": [
