@@ -1,8 +1,224 @@
 {
-  "last_updated": "2023-07-08 07:05",
-  "count_articles_total": 168,
-  "count_articles_new": 8,
+  "last_updated": "2023-07-08 19:05",
+  "count_articles_total": 180,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 172,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Multiple people exposed to rabies in Morgantown from feral cat colony - WBOY.com",
+      "description": "Multiple people exposed to rabies in Morgantown from feral cat colony WBOY.comView Full Coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lndib3kuY29tL25ld3MvbW9ub25nYWxpYS9yYWJpZXMtY2FzZS1jb25maXJtZWQtaW4tbW9yZ2FudG93bi1mZXJhbC1jYXQtY29sb255L9IBXmh0dHBzOi8vd3d3Lndib3kuY29tL25ld3MvbW9ub25nYWxpYS9yYWJpZXMtY2FzZS1jb25maXJtZWQtaW4tbW9yZ2FudG93bi1mZXJhbC1jYXQtY29sb255L2FtcC8?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-07 18:58:26",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-08 19:05:13.493664",
+      "internal_id": "a54d75756ab93e07ca3b34d41426a79ba7c4ce1a873efe0d74fc88b6b33e57a7",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 181,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Tribune News Service",
+      "title": "Malaria in the US: A Mayo Clinic expert offers insight, tips on prevention",
+      "description": "There have been instances of people getting infected with Plasmodium vivax malaria in Florida and Texas, even though they hadn't traveled outside the country.",
+      "url": "https://www.bostonherald.com/2023/07/07/malaria-in-the-us-a-mayo-clinic-expert-offers-insight-tips-on-prevention/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2023/07/LIFE-HEALTH-MALARIA-DMT.jpg?w=1024&h=682",
+      "publishedAt": "2023-07-07 16:55:45",
+      "content": "Deb Balzer | (TNS) Mayo Clinic News Network Malaria, a severe and potentially fatal disease most often caused by the bite of an infected mosquito, has been reported in the U.S. The Centers for Disea\u2026 [+3957 chars]",
+      "retrievedAt": "2023-07-08 19:05:15.062222",
+      "internal_id": "519d0a744df9ffbc1a5eef085ae19d0ceebfea691ac8aa97b40ae8b1bc03f582",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 175,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "\u00a1Atenci\u00f3n! Declaran Alerta Roja Hospitalaria por aumento del dengue en Bol\u00edvar",
+      "description": "El progresivo aumento de los casos de dengue en Cartagena y los municipios del departamento motivaron a la Gobernaci\u00f3n de Bol\u00edvar a declarar la Alerta Roja Hospitalaria.",
+      "url": "https://www.eluniversal.com.co/regional/bolivar/atencion-declaran-alerta-roja-hospitalaria-por-aumento-del-dengue-en-bolivar-BA8543892",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1225x687/424c0/800d686/none/13704/QGMJ/dengue-en-bolivara_8069060_20230707111019.jpg",
+      "publishedAt": "2023-07-07 16:10:15",
+      "content": "El progresivo aumento de los casos de dengue en Cartagena y los municipios del departamento motivaron a la Gobernaci\u00f3n de Bol\u00edvar a declarar la Alerta Roja Hospitalaria. La medida fue adoptada duran\u2026 [+1962 chars]",
+      "retrievedAt": "2023-07-08 19:05:14.283442",
+      "internal_id": "1da67309be1a838e102ebae0169bc4d6723e6cedeb59f5d643df95766eaa9733",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 178,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Stone",
+      "author": "Ryan Bort",
+      "title": "Malaria Detected in Florida as Key Infectious Disease Positions Sit Vacant",
+      "description": "Ron DeSantis has turned the state into a hotbed of anti-science ignorance, which could turn it into a hotbed of disease",
+      "url": "https://www.rollingstone.com/politics/politics-news/malaria-detected-florida-desantis-public-health-positions-vacant-1234784402/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/07/GettyImages-1514947759.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2023-07-07 15:30:46",
+      "content": "Ron DeSantis thumbed his nose at public health experts throughout much of the Covid-19 pandemic, cracking down on institutions looking to impose preventative measures, appointing an anti-vax surgeon \u2026 [+2117 chars]",
+      "retrievedAt": "2023-07-08 19:05:15.056154",
+      "internal_id": "3e24b0328af2f9f3c0e6cf3cb6a8e0a23759f647e18f6efaeaaa3f15a712000f",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 174,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Moki Edwin Kindzeka)",
+      "title": "Cameroon Vaccinates for Measles, But Says Hesitancy Persists",
+      "description": "Officials in Cameroon say vaccine hesitancy is preventing them from inoculating millions of children for childhood diseases in the first major campaign since the COVID-19 pandemic began. The country has an outbreak of measles and rubella that has killed 18\u2026",
+      "url": "https://www.voanews.com/a/cameroon-vaccinates-for-measles-but-says-hesitancy-persists-/7171258.html",
+      "urlToImage": "https://gdb.voanews.com/57d59762-a93e-4db4-868c-c2814e8ed79e_cx0_cy12_cw0_w1200_r1.jpg",
+      "publishedAt": "2023-07-07 15:06:58",
+      "content": "Yaounde, Cameroon Officials in Cameroon say vaccine hesitancy is preventing them from inoculating millions of children for childhood diseases in the first major campaign since the COVID-19 pandemic \u2026 [+3242 chars]",
+      "retrievedAt": "2023-07-08 19:05:13.859031",
+      "internal_id": "2bb1625f5fd1c568062d8eeb1ba7f021dc5369467b9629e8420bcba683eb299f",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 180,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "First-Ever Malaria Vaccine Will Be Distributed | HealthNews - Healthnews.com",
+      "description": "First-Ever Malaria Vaccine Will Be Distributed | HealthNews Healthnews.com 18 million doses of first-ever #malaria vaccine allocated to 12 African countries for 2023\u20132025: World Health Organization (WHO) World\u2019s first malaria vac\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vaGVhbHRobmV3cy5jb20vbmV3cy9maXJzdC1ldmVyLW1hbGFyaWEtdmFjY2luZS10by1iZS1kaXN0cmlidXRlZC1pbi1hZnJpY2Ev0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-07 14:45:05",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-08 19:05:15.060371",
+      "internal_id": "dd98c0fbc73ef1f5a43d151a13f998263362e77c9674760efa3f16572a38001e",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 183,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Thamarasee Jeewandara",
+      "title": "Developing a human malaria-on-a-chip disease model",
+      "description": "In a new report published on Scientific Reports, Michael J. Rupar, and a research team at Hesperos Inc., Florida, U.S., developed a functional, multi-organ, serum-free system to culture P. falciparum\u2014a protozoan that predominantly causes severe and fatal mala\u2026",
+      "url": "https://phys.org/news/2023-07-human-malaria-on-a-chip-disease.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/developing-a-human-mal.jpg",
+      "publishedAt": "2023-07-07 14:39:34",
+      "content": "In a new report published on Scientific Reports, Michael J. Rupar, and a research team at Hesperos Inc., Florida, U.S., developed a functional, multi-organ, serum-free system to culture P. falciparum\u2026 [+7691 chars]",
+      "retrievedAt": "2023-07-08 19:05:15.066346",
+      "internal_id": "01b5bb857c4728fa3b7ba26f0329633237b716eff9698357c67998c129a7a026",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 182,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bruna Ramos dos Santos, Amanda Bruno da Silva Bellini Ramos, Renata Priscila Barros de Menezes, Marcus Tullius Scotti, F\u00e1bio Ant\u00f4nio Colombo, Marcos Jos\u00e9 Marques, Juliana Quero Reim\u00e3o",
+      "title": "Repurposing the Medicines for Malaria Venture\u2019s COVID Box to discover potent inhibitors of Toxoplasma gondii, and in vivo efficacy evaluation of almitrine bismesylate (MMV1804175) in chronically infected mice",
+      "description": "Toxoplasmosis, caused by the obligate intracellular parasite Toxoplasma gondii, affects about one-third of the world\u2019s population and can cause severe congenital, neurological and ocular issues. Current treatment options are limited, and there are no human va\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288335",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0288335.g005&size=inline",
+      "publishedAt": "2023-07-07 14:00:00",
+      "content": "Citation: dos Santos BR, Ramos ABdSB, de Menezes RPB, Scotti MT, Colombo FA, Marques MJ, et al. (2023) Repurposing the Medicines for Malaria Ventures COVID Box to discover potent inhibitors of Toxopl\u2026 [+35999 chars]",
+      "retrievedAt": "2023-07-08 19:05:15.063760",
+      "internal_id": "ff47cfaeed3462ccd63fb55d5b1911ddf5c6c9d0e9433c9bbfb7c2e450d9868e",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 179,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Florida is under a malaria alert, and there are now more cases of the mosquito illness - Miami Herald",
+      "description": "Florida is under a malaria alert, and there are now more cases of the mosquito illness Miami HeraldView Full Coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL3N0YXRlL2Zsb3JpZGEvYXJ0aWNsZTI3NzA5MTk5My5odG1s0gFEaHR0cHM6Ly9hbXAubWlhbWloZXJhbGQuY29tL25ld3Mvc3RhdGUvZmxvcmlkYS9hcnRpY2xlMjc3MDkxOTkzLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-07 12:55:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-08 19:05:15.058112",
+      "internal_id": "f39345e12f3d037662c720e6f210613960ac90bd9cec1228a28686acfa6b3e89",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 177,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Boing Boing",
+      "author": "Rob Beschizza",
+      "title": "Malaria back in Florida and Texas",
+      "description": "Seven cases of Malaria, America's first in decades, are reported in Florida and Texas. Officials in Sarasota County, Florida, and the Texas Department of Health confirm the transmission happened locally. The Centers for Disease Control has issued a nationwide\u2026",
+      "url": "https://boingboing.net/2023/07/07/malaria-back-in-florida-and-texas.html",
+      "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/mosquito.jpg?fit=1200%2C909&ssl=1",
+      "publishedAt": "2023-07-07 12:52:53",
+      "content": "Seven cases of Malaria, America's first in decades, are reported in Florida and Texas. Officials in Sarasota County, Florida, and the Texas Department of Health confirm the transmission happened loca\u2026 [+2295 chars]",
+      "retrievedAt": "2023-07-08 19:05:15.054434",
+      "internal_id": "07813976d36375395607247cfd04f602231b85189d062c0a705c142e7e89b47b",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 176,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "MarketWatch",
+      "author": "Tim Rostan",
+      "title": ": Meningitis-vaccine requirement for Wisconsin students blocked by Republican lawmakers",
+      "description": "The Republican-controlled Wisconsin state legislature has voted to prevent the administration of Gov. Tony Evers, a Democrat, from requiring that seventh-graders be vaccinated against meningitis and to make it easier for parents to secure exemptions from a cu\u2026",
+      "url": "https://www.marketwatch.com/story/meningitis-vaccine-requirement-for-wisconsin-students-blocked-by-republican-lawmakers-5c218d8e",
+      "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "publishedAt": "2023-07-07 11:40:27",
+      "content": "The Republican-controlled Wisconsin state legislature has voted to prevent the administration of Gov. Tony Evers, a Democrat, from requiring that seventh-graders be vaccinated against meningitis and \u2026 [+631 chars]",
+      "retrievedAt": "2023-07-08 19:05:14.697428",
+      "internal_id": "40cea41bbaea15591776d8995097a632b287c27715a5879a40dc13445e5ac0a5",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 173,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "publicaffairs@voa.gov (VOA)",
+      "title": "Sudan Reports 13 Dead in Measles Outbreak",
+      "description": "[VOA] Juba, South Sudan -- Health organizations in Sudan's White Nile state said at least 13 children have died over the past week due to a suspected measles outbreak. An official with the Doctors Without Borders, known by its French acronym MSF, said Sudan's\u2026",
+      "url": "https://allafrica.com/stories/202307070128.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-07 07:20:27",
+      "content": "Juba, South Sudan \u2014 Health organizations in Sudan's White Nile state said at least 13 children have died over the past week due to a suspected measles outbreak. An official with the Doctors Without B\u2026 [+2841 chars]",
+      "retrievedAt": "2023-07-08 19:05:13.857238",
+      "internal_id": "9fed6f504ee49308468b4ecacbd2a6ae2619aed5f4f8784c29b212cc3cf3f7aa",
+      "publishedAtLabel": "Jul 7"
+    },
     {
       "id": 168,
       "query": [
