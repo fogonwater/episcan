@@ -1,8 +1,188 @@
 {
-  "last_updated": "2023-07-08 19:05",
-  "count_articles_total": 180,
-  "count_articles_new": 12,
+  "last_updated": "2023-07-09 07:05",
+  "count_articles_total": 191,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 184,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "publicaffairs@voa.gov (VOA)",
+      "title": "Cameroon: Cameroon Vaccinates for Measles, but Says Hesitancy Persists",
+      "description": "[VOA] Yaounde, Cameroon -- Officials in Cameroon say vaccine hesitancy is preventing them from inoculating millions of children for childhood diseases in the first major campaign since the COVID-19 pandemic began.",
+      "url": "https://allafrica.com/stories/202307080084.html",
+      "urlToImage": "https://cdn07.allafrica.com/download/pic/main/main/csiid/00570127:7c84b3cc3a14176bc3c494b2e6d49731:arc614x376:w1200.jpg",
+      "publishedAt": "2023-07-08 06:51:15",
+      "content": "Yaounde, Cameroon \u2014 Officials in Cameroon say vaccine hesitancy is preventing them from inoculating millions of children for childhood diseases in the first major campaign since the COVID-19 pandemic\u2026 [+3620 chars]",
+      "retrievedAt": "2023-07-09 07:05:22.948250",
+      "internal_id": "bcc591a668ddd2b97e25f3ca016d01f7e1146317461bf9aa8a6215cb95467053",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 185,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Publico.pt",
+      "author": "publico@publico.pt",
+      "title": "Temos uma nova vacina para a dengue",
+      "description": "A nova vacina para a dengue est\u00e1 dispon\u00edvel em Portugal mediante prescri\u00e7\u00e3o m\u00e9dica, o que permite a recomenda\u00e7\u00e3o do seu uso por parte dos cl\u00ednicos de medicina do viajante sempre que tal se justifique.",
+      "url": "https://www.publico.pt/2023/07/08/ciencia/opiniao/nova-vacina-dengue-2055175",
+      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1739851?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
+      "publishedAt": "2023-07-08 05:42:00",
+      "content": "A dengue \u00e9 uma doen\u00e7a infeciosa causada por um de quatro tipos (designados serotipos) de v\u00edrus dengue, transmitidos aos seres humanos pela picada de mosquitos Aedes. A transmiss\u00e3o ocorre sobretudo em\u2026 [+434 chars]",
+      "retrievedAt": "2023-07-09 07:05:23.518063",
+      "internal_id": "ce022aad0ffb01686d1afb4ecf344f2ed27eec2132733abe62bbb81c3e8981e1",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 190,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "As malaria cases tick up in Florida, a doctor treating patients describes their symptoms (Aria Bendix/NBC News)",
+      "description": "Aria Bendix / NBC News: As malaria cases tick up in Florida, a doctor treating patients describes their symptoms \u2014 Two additional locally acquired malaria infections have been reported in Florida, bringing the state's total to six. \u2014 Florida health offici\u2026",
+      "url": "https://www.memeorandum.com/230707/p100",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230707-florida-malaria-spraying-pesticides-se-500p-0d3eba.jpg",
+      "publishedAt": "2023-07-08 01:40:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2023-07-09 07:05:24.595876",
+      "internal_id": "7b84ce21afeb51406f0d353768028f229ce1473cdf52bceaf6cf09af9ee8f724",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 189,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "7/7: CBS News Weekender",
+      "description": "Nikole Killion reports on dangerous heat impacting much of the U.S., malaria-carrying mosquitoes, and how artificial intelligence is infiltrating the online dating world.",
+      "url": "https://www.cbsnews.com/video/77-cbs-news-weekender/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/08/e0ae7c0e-19f8-4972-bf4b-6f9d4fee5211/thumbnail/1200x630/56d4d3b71419339687003728bed691e4/0707-7pm-full-2110709-640x360.jpg?v=532947bbe7449b367b963713a282edbc",
+      "publishedAt": "2023-07-08 01:38:30",
+      "content": "Watch CBS News Copyright \u00a92023 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2023-07-09 07:05:24.593011",
+      "internal_id": "495a90523f0af1b9278d021fda1abccb0a78f085ce281ca36998e569b616e30f",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 192,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "The best ways to stay safe from mosquito-borne illnesses, according to a doctor",
+      "description": "The CDC has confirmed two new malaria cases in Florida, for a total of six in the state, as well as one case in Texas. Officials also say at least two mosquitoes in Michigan have tested positive for EEE, a deadly virus that has a 33% mortality rate. CBS News \u2026",
+      "url": "https://www.cbsnews.com/video/the-best-ways-to-stay-safe-from-mosquito-borne-illnesses-according-to-a-doctor/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/08/7c4b721a-c690-4db4-9280-991f7c5ba54d/thumbnail/1200x630/837adb913fcda7b8a35dc12d6e1cd7dc/cbsn-fusion-the-best-ways-to-stay-safe-from-mosquito-borne-illnesses-according-to-a-doctor-thumbnail-2110564-640x360.jpg?v=532947bbe7449b367b963713a282edbc",
+      "publishedAt": "2023-07-08 00:39:38",
+      "content": "Watch CBS News Copyright \u00a92023 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2023-07-09 07:05:24.599751",
+      "internal_id": "e30df0a2f97e9cea95be707c1afdf7d4d3b195d520b0803aed2559c3fbcb2723",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 188,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "More locally-acquired malaria cases reported in U.S.",
+      "description": "The first locally-acquired U.S. malaria cases in 20 years were recently reported in Florida and Texas, as hot and humid conditions have helped contribute to a more active mosquito season. Omar Villafranca has more.",
+      "url": "https://www.cbsnews.com/video/more-locally-acquired-malaria-cases-reported-in-us/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/07/50a89ac2-447a-405a-a872-ed12421a8aad/thumbnail/1200x630/1733529d0eba4283b4f9007240c84777/cbsn-fusion-more-locally-acquired-malaria-cases-reported-in-us-thumbnail-2110435-640x360.jpg?v=532947bbe7449b367b963713a282edbc",
+      "publishedAt": "2023-07-07 23:51:37",
+      "content": "Watch CBS News Copyright \u00a92023 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2023-07-09 07:05:24.590709",
+      "internal_id": "de3001a40055dda1c1ae3bace9bbe1501a53418d3573cfaa57c5fecccfa95b1e",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 187,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Six locally acquired malaria cases reported in Sarasota - NBC2 News",
+      "description": "Six locally acquired malaria cases reported in Sarasota NBC2 News Florida is under a malaria alert, and there are now more cases of the mosquito illness Miami Herald 6 total cases of malaria reported in Sarasota County WFLA News\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vbmJjLTIuY29tL25ld3MvMjAyMy8wNy8wNi9zaXgtbG9jYWxseS1hY3F1aXJlZC1tYWxhcmlhLWNhc2VzLXJlcG9ydGVkLWluLXNhcmFzb3RhL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-07 23:51:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-09 07:05:24.587674",
+      "internal_id": "283c516375486df9fa0d87d5500d2a9269428c73907498eed1136e0ad1a2c661",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 193,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Aria Bendix",
+      "title": "As malaria cases tick up in Florida, a doctor treating patients describes their symptoms",
+      "description": "Florida health officials identified two more cases of locally acquired malaria last week. A doctor treating the patients describes their symptoms and treatment.",
+      "url": "https://www.nbcnews.com/health/health-news/more-malaria-cases-florida-symptoms-treatment-doctor-rcna93123",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230707-florida-malaria-spraying-pesticides-se-500p-0d3eba.jpg",
+      "publishedAt": "2023-07-07 23:30:27",
+      "content": "Florida health officials reported two additional cases of malaria on Thursday. Both were identified last week and neither was linked to travel outside the country. That brings the total number of l\u2026 [+5690 chars]",
+      "retrievedAt": "2023-07-09 07:05:24.602820",
+      "internal_id": "7906628d29ea4aae3a114d2f8f2a1eb6bd5a7d6d0a6d62ad237a15873ba5276f",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 191,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Maya Boddie, Alternet",
+      "title": "Florida leaders face 'challenges in filling' critical public health roles as Malaria cases emerge",
+      "description": "Weeks after four malaria cases were detected in Florida, state officials are struggling to fill two important public health positions, Rolling Stone reports.On Thursday, July 6, NBC exclusively reported the vacant roles \"are in the Florida Health Department's\u2026",
+      "url": "https://www.rawstory.com/florida-leaders-face-challenges-in-filling-critical-public-health-roles-as-malaria-cases-emerge-2662249709/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=34292128&width=1200&height=600&coordinates=0%2C48%2C0%2C48",
+      "publishedAt": "2023-07-07 21:31:34",
+      "content": "Weeks after four malaria cases were detected in Florida, state officials are struggling to fill two important public health positions, Rolling Stone reports. On Thursday, July 6, NBC exclusively rep\u2026 [+2734 chars]",
+      "retrievedAt": "2023-07-09 07:05:24.597840",
+      "internal_id": "9ad37d2659e708d690e8e7889b0df413aef30015c939d24ac3177760bf636e52",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 186,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "S\u00edntomas de alarma por dengue en ni\u00f1os: identifica las se\u00f1ales",
+      "description": "En el siguiente art\u00edculo, abordaremos un tema de vital importancia: los s\u00edntomas de alarma por dengue en ni\u00f1os. Es fundamental estar informado y poder identificar las se\u00f1ales que podr\u00edan indicar la presencia de esta enfermedad transmitida por mosquitos. La in\u2026",
+      "url": "https://www.eluniversal.com.co/salud/sintomas-de-alarma-por-dengue-en-ninos-identifica-las-senales-YC8545364",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/800x723/0c19/800d686/none/13704/WYEY/dengue-3_8071048_20230707155624.jpg",
+      "publishedAt": "2023-07-07 20:35:36",
+      "content": "En el siguiente art\u00edculo, abordaremos un tema de vital importancia: los s\u00edntomas de alarma por dengue en ni\u00f1os. Es fundamental estar informado y poder identificar las se\u00f1ales que podr\u00edan indicar la p\u2026 [+3751 chars]",
+      "retrievedAt": "2023-07-09 07:05:23.522917",
+      "internal_id": "54d9684b7de03b1eda7c886335d4f781f6591381180bf5854055570f90ed7c38",
+      "publishedAtLabel": "Jul 7"
+    },
     {
       "id": 172,
       "query": [
@@ -199,6 +379,24 @@
       "content": "The Republican-controlled Wisconsin state legislature has voted to prevent the administration of Gov. Tony Evers, a Democrat, from requiring that seventh-graders be vaccinated against meningitis and \u2026 [+631 chars]",
       "retrievedAt": "2023-07-08 19:05:14.697428",
       "internal_id": "40cea41bbaea15591776d8995097a632b287c27715a5879a40dc13445e5ac0a5",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 194,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Hutchins, H., Bradley, J., Pretorius, E., Teixeira da Silva, E., Vasileva, H., Jones, R. T., Ndiath, M. O., dit Massire Soumare, H., Mabey, D., Nante, E. J., Martins, C., Logan, J. G., Slater, H., Drakeley, C., D'Alessandro, U., Rodrigues, A., Last, A. R.",
+      "title": "Protocol for a cluster randomised placebo-controlled trial of adjunctive ivermectin mass drug administration for malaria control on the Bijagos Archipelago of Guinea-Bissau: the MATAMAL trial",
+      "description": "Introduction As malaria declines, innovative tools are required to further reduce transmission and achieve elimination. Mass drug administration (MDA) of artemisinin-based combination therapy (ACT) is capable of reducing malaria transmission where coverage of\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/7/e072347?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-07-07 08:02:31",
+      "content": "Introduction Malaria in sub-Saharan Africa has declined dramatically since 2000, with much of the decrease due to vector control methods such as insecticide-treated nets and indoor residual spraying\u2026 [+8099 chars]",
+      "retrievedAt": "2023-07-09 07:05:24.606877",
+      "internal_id": "e9a1105fbac5adf30a91a63aecdeec9d32e3257d327fd309f9a78dc397ae8563",
       "publishedAtLabel": "Jul 7"
     },
     {
