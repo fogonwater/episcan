@@ -1,8 +1,188 @@
 {
-  "last_updated": "2023-07-09 07:05",
-  "count_articles_total": 191,
-  "count_articles_new": 11,
+  "last_updated": "2023-07-09 19:05",
+  "count_articles_total": 201,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 198,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Minist\u00e9rio da Sa\u00fade diz que vacina japonesa contra dengue deve chegar \u2018em breve\u2019",
+      "description": "Governo federal afirma que aguarda uma proposta oficial do laborat\u00f3rio Takeda, respons\u00e1vel pela produ\u00e7\u00e3o do imunizante",
+      "url": "http://noticias.r7.com/saude/vacina-dengue-ministerio-saude-08072023",
+      "urlToImage": "https://img.r7.com/images/mosquito-da-dengue-08072023182938398?crop_position=c&dimensions=340x191",
+      "publishedAt": "2023-07-08 18:36:00",
+      "content": "O Minist\u00e9rio da Sa\u00fade afirmou nesta semana que aguarda uma proposta oficial do laborat\u00f3rio japon\u00eas Takeda para a compra de doses da vacina contra a dengue. Segundo a pasta, os insumos devem chegar em\u2026 [+1222 chars]",
+      "retrievedAt": "2023-07-09 19:05:07.399321",
+      "internal_id": "cfe2d7579d9b51efc3f82650a6ea386af74ead9322cc68aac385487085595339",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 204,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Esther G\u00f3mez",
+      "title": "Sarah Almagro, campeona de Europa de Surf Adaptado",
+      "description": "La joven malague\u00f1a, que perdi\u00f3 pies y manos hace cinco a\u00f1os, se ha tra\u00eddo el oro para Espa\u00f1a tras imponerse a sus rivales en un mar cambiante y fr\u00edo por culpa de la lluvia y la falta de sol. Leer",
+      "url": "https://www.elmundo.es/deportes/mas-deporte/2023/07/08/64a96dddfc6c83f76a8b45ee.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/6c00fd02289b4e0ccb13e60b70727179/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/08/16888252158546.jpg",
+      "publishedAt": "2023-07-08 17:19:02",
+      "content": "La joven surfista malague\u00f1a Sarah Almagro, que a los 18 a\u00f1os perdi\u00f3 pies y manos como consecuencia de una meningitis meningoc\u00f3cica, ha logrado cumplir otros de sus sue\u00f1os y este viernes se ha proclam\u2026 [+3062 chars]",
+      "retrievedAt": "2023-07-09 19:05:07.908725",
+      "internal_id": "ce522572cc6d84da6dd1cafd62c5f7f7c011c84953de43313889148af84c8e26",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 196,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Confirmed rabies case has Monongalia County health officials on alert - West Virginia MetroNews",
+      "description": "Confirmed rabies case has Monongalia County health officials on alertWest Virginia MetroNews Multiple people exposed to rabies by cat colonyWBOY 12 News Powroznik and Smith | | wvnews.comWV News Multiple people exposed to rabies in Morgantown from feral cat c\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171337229",
+      "urlToImage": null,
+      "publishedAt": "2023-07-08 17:12:05",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-09 19:05:06.828710",
+      "internal_id": "bcf5e74453684ad0c6b758662689d6eace83903220727d1b1e96724c9c44e3f9",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 203,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "School, colleges reopen Sunday, 5 instructions issued to check dengue",
+      "description": "All educational institutes across the country will reopen on Sunday (9 July) after Eid-ul-Azha holidays. As dengue cases are increasing in the country, the government has issued five instructions to these institutions. Directorate of Secondary and Higher Educ\u2026",
+      "url": "https://sylhetmirror.com/2023/07/08/school-colleges-reopen-sunday-5-instructions-issued-to-check-dengue/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/weerff.jpg",
+      "publishedAt": "2023-07-08 16:48:19",
+      "content": "All educational institutes across the country will reopen on Sunday (9 July) after Eid-ul-Azha holidays. As dengue cases are increasing in the country, the government has issued five instructions to\u2026 [+696 chars]",
+      "retrievedAt": "2023-07-09 19:05:07.410657",
+      "internal_id": "27ec2451c9caaaad4a86c28223c3e504670de0655f37f616c568f43140f9197f",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 197,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Multiple people exposed to rabies in Morgantown from feral cat colony - WBOY.com",
+      "description": "Multiple people exposed to rabies in Morgantown from feral cat colonyWBOY.com View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171335903",
+      "urlToImage": null,
+      "publishedAt": "2023-07-08 12:32:04",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-09 19:05:06.830945",
+      "internal_id": "108b8da799f5276bced0cc97a5a4c785c3e385d16047139562c851817c30b4ed",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 195,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Confirmed rabies case has Monongalia County health officials on alert - West Virginia MetroNews",
+      "description": "Confirmed rabies case has Monongalia County health officials on alert West Virginia MetroNews Multiple people exposed to rabies by cat colony WBOY 12 News Powroznik and Smith | | wvnews.com WV News Multiple people expo\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDcvMDgvY29uZmlybWVkLXJhYmllcy1jYXNlLWhhcy1tb25vbmdhbGlhLWNvdW50eS1oZWFsdGgtb2ZmaWNpYWxzLW9uLWFsZXJ0L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-08 12:06:28",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-09 19:05:06.823554",
+      "internal_id": "bea2324b4b117b73e6aa5f1f4dc68b0619cef83e9330c000a510b292166be245",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 200,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u099c\u09c7\u09b2\u0996\u09be\u09a8\u09be\u09df \u09aa\u09cd\u09b0\u09be\u09df \u09ec\u09e6 \u09b6\u09a4\u09be\u0982\u09b6 \u09ae\u09be\u09a6\u0995 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df\u09c0 \u0993 \u09b8\u09c7\u09ac\u09a8\u0995\u09be\u09b0\u09c0: \u09b8\u09cd\u09ac\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0",
+      "description": "\u09b8\u09cd\u09ac\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0 \u0986\u09b8\u09be\u09a6\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8 \u0996\u09be\u09a8 \u0995\u09be\u09ae\u09be\u09b2 \u09ac\u09b2\u09c7\u099b\u09c7\u09a8, \u099c\u09c7\u09b2\u0996\u09be\u09a8\u09be\u09df \u09af\u09be\u09b0\u09be \u0985\u09a8\u09cd\u09a4\u09b0\u09c0\u09a3 \u09b0\u09df\u09c7\u099b\u09c7 \u09a4\u09be\u09a6\u09c7\u09b0 \u09aa\u09cd\u09b0\u09be\u09df \u09ec\u09e6 \u09b6\u09a4\u09be\u0982\u09b6\u09c7\u09b0 \u0995\u09be\u099b\u09be\u0995\u09be\u099b\u09bf \u09ae\u09be\u09a6\u0995 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df\u09c0 \u0993 \u09ae\u09be\u09a6\u0995 \u09b8\u09c7\u09ac\u09a8\u0995\u09be\u09b0\u09c0\u0964 \u09b8\u09be\u0995\u09cd\u09b7\u09c0-\u09aa\u09cd\u09b0\u09ae\u09be\u09a3\u09c7\u09b0 \u0985\u09ad\u09be\u09ac\u09c7 \u098f\u09a6\u09c7\u09b0 \u0995\u09be\u09b0\u0993 \u0995\u09be\u09b0\u0993 \u09ac\u09bf\u099a\u09be\u09b0 \u09b9\u099a\u09cd\u099b\u09c7 \u09a8\u09be\u0964 \u098f\u0995 \u09a5\u09c7\u0995\u09c7 \u09a6\u09c1\u0987 \u09ae\u09be\u09b8 \u09aa\u09b0 \u09ac\u09c7\u09b0 \u09b9\u09df\u09c7 \u0986\u09b0\u0993 \u09ac\u09c7\u09b6\u09bf \u0995\u09b0\u09c7 \u09ae\u09be\u09a6\u0995 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df \u099c\u09dc\u09bf\u09df\u09c7 \u09aa\u09dc\u099b\u09c7\u0964",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/news-494616",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/08/img-20230708-wa0006.jpg",
+      "publishedAt": "2023-07-08 11:24:33",
+      "content": "The government has issued five instructions to all public and private schools and colleges to prevent further spread of dengue as most of the educational institutions are set to reopen tomorrow after\u2026 [+89 chars]",
+      "retrievedAt": "2023-07-09 19:05:07.405319",
+      "internal_id": "c2a3975991d47070e147733e50023a2ffc37bfb193451e6f0fb49a76e11950be",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 201,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1: \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09ad\u09b0\u09cd\u09a4\u09bf \u09ee\u09e8\u09e6, \u09ae\u09c3\u09a4\u09cd\u09af\u09c1 \u09e8",
+      "description": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1: \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09ad\u09b0\u09cd\u09a4\u09bf \u09ee\u09e8\u09e6, \u09ae\u09c3\u09a4\u09cd\u09af\u09c1 \u09e8thedailystar.net",
+      "url": "https://bangla.thedailystar.net/health/disease/news-494606",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/08/20/dengue-story_ds.jpg",
+      "publishedAt": "2023-07-08 10:43:01",
+      "content": "The government has issued five instructions to all public and private schools and colleges to prevent further spread of dengue as most of the educational institutions are set to reopen tomorrow after\u2026 [+89 chars]",
+      "retrievedAt": "2023-07-09 19:05:07.406622",
+      "internal_id": "b38108b6b1cb098a32fad2ab3058f3dbc11ad3656e433d2d7c98cbea1f766c15",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 202,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09aa\u09b0\u09bf\u09b8\u09cd\u09a5\u09bf\u09a4\u09bf \u09ad\u09df\u09be\u09ac\u09b9 \u09b9\u09a4\u09c7 \u09aa\u09be\u09b0\u09c7 \u099c\u09c7\u09a8\u09c7\u0993 \u09e8 \u09b8\u09bf\u099f\u09bf\u09b0 \u0989\u09a6\u09cd\u09af\u09cb\u0997 \u09b9\u09a4\u09be\u09b6\u09be\u099c\u09a8\u0995: \u099f\u09bf\u0986\u0987\u09ac\u09bf",
+      "description": "\u2018\u09af\u09c7\u099f\u09c1\u0995\u09c1 \u0989\u09a6\u09cd\u09af\u09cb\u0997 \u09a6\u09c7\u0996\u09be \u0997\u09c7\u099b\u09c7, \u09a4\u09be \u09aa\u09b0\u09bf\u09b8\u09cd\u09a5\u09bf\u09a4\u09bf \u09ac\u09bf\u09ac\u09c7\u099a\u09a8\u09be\u09df \u09af\u09c7 \u0985\u09aa\u09cd\u09b0\u09a4\u09c1\u09b2 \u0995\u09bf\u0982\u09ac\u09be \u09b2\u09cb\u0995 \u09a6\u09c7\u0996\u09be\u09a8\u09cb \u09aa\u09cd\u09b0\u099a\u09be\u09b0\u09a3\u09be\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7\u0987 \u09b8\u09c0\u09ae\u09be\u09ac\u09a6\u09cd\u09a7 \u099b\u09bf\u09b2, \u09a4\u09be-\u0993 \u09a8\u09be \u09ac\u09b2\u09b2\u09c7\u0987 \u099a\u09b2\u09c7\u0964\u2019",
+      "url": "https://bangla.thedailystar.net/health/disease/news-494591",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/11/04/tib.jpg",
+      "publishedAt": "2023-07-08 09:34:45",
+      "content": "The government has issued five instructions to all public and private schools and colleges to prevent further spread of dengue as most of the educational institutions are set to reopen tomorrow after\u2026 [+89 chars]",
+      "retrievedAt": "2023-07-09 19:05:07.408324",
+      "internal_id": "b34f99652590221dbd49c83652f4c35f9e577366d68614f6d6c9d6ff615ce3b7",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 199,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09b2\u09be\u09b2 \u09b6\u09be\u09dc\u09bf \u09aa\u09b0\u09c7 \u0985\u09aa\u09c1 \u09ac\u09bf\u09b6\u09cd\u09ac\u09be\u09b8\u09c7\u09b0 \u2018\u09b2\u09be\u09b2 \u09b6\u09be\u09dc\u09bf\u2019 \u09a6\u09c7\u0996\u09b2\u09c7\u09a8 \u09a8\u09be\u09df\u09bf\u0995\u09be\u09b0\u09be",
+      "description": "\u09b2\u09be\u09b2 \u09b6\u09be\u09dc\u09bf \u09aa\u09b0\u09c7 \u0985\u09aa\u09c1 \u09ac\u09bf\u09b6\u09cd\u09ac\u09be\u09b8\u09c7\u09b0 \u2018\u09b2\u09be\u09b2 \u09b6\u09be\u09dc\u09bf\u2019 \u09a6\u09c7\u0996\u09b2\u09c7\u09a8 \u09a8\u09be\u09df\u09bf\u0995\u09be\u09b0\u09bethedailystar.net",
+      "url": "https://bangla.thedailystar.net/entertainment/news-494571",
+      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/07/08/untitled_design_-_2023-07-08t150710.309.png",
+      "publishedAt": "2023-07-08 09:07:20",
+      "content": "The government has issued five instructions to all public and private schools and colleges to prevent further spread of dengue as most of the educational institutions are set to reopen tomorrow after\u2026 [+89 chars]",
+      "retrievedAt": "2023-07-09 19:05:07.403421",
+      "internal_id": "9dc7797470a9f44ce88d813b918977014d5d8fef79aa6e3a28a3adbe85442693",
+      "publishedAtLabel": "Jul 8"
+    },
     {
       "id": 184,
       "query": [
@@ -3442,24 +3622,6 @@
       "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
       "retrievedAt": "2023-07-05 00:25:00.130150",
       "internal_id": "099d1cbc36fbc7d1c4c2ca0488fce1ade8a3609adf9d76cad9bd6fc8e94db62d",
-      "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 35,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Aria Bendix and Phil Helsel",
-      "title": "U.S. malaria patient says the disease was initially misdiagnosed",
-      "description": "Stationed near the Texas-Mexico border as part of the National Guard, Christopher Shingler first noticed a fever, trouble eating and vomiting in May.",
-      "url": "https://www.nbcnews.com/health/health-news/us-malaria-patient-says-disease-was-initially-misdiagnosed-rcna92142",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230630-Christopher-Shingler-cover-ac-813p-921b3e.jpg",
-      "publishedAt": "2023-07-01 00:47:28",
-      "content": "Stationed near the Texas-Mexico border as part of the National Guard, Christopher Shingler first noticed a fever, trouble eating and vomiting in May.\r\nMedics gave the 21-year-old tests for Covid-19, \u2026 [+3336 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.156960",
-      "internal_id": "af6d91a44e2086619b2deb6c5848d0ae3e9bd73072c33adaa1e1c69fea6c4121",
       "publishedAtLabel": "Jul 1"
     }
   ]
