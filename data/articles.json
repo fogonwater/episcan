@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-07-10 03:23",
-  "count_articles_total": 206,
-  "count_articles_new": 6,
+  "last_updated": "2023-07-10 07:05",
+  "count_articles_total": 209,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 211,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Malasia registra 59.000 casos de dengue en la primera mitad de 2023, m\u00e1s del doble que el a\u00f1o anterior",
+      "description": "La ministra de Sanidad de Malasia, Zaliha Mustaf\u00e1, ha informado que se han notificado 59.057 de dengue en el pa\u00eds entre el 1 de enero y el 2 de julio de este 2023, lo que supone un incremento del 138,7 por ciento respecto a los contagios registrados en el mis\u2026",
+      "url": "https://www.europapress.es/internacional/noticia-malasia-registra-59000-casos-dengue-primera-mitad-2023-mas-doble-ano-anterior-20230709073218.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230709073218_1200.jpg",
+      "publishedAt": "2023-07-09 05:32:18",
+      "content": "MADRID, 9 Jul. (EUROPA PRESS) - La ministra de Sanidad de Malasia, Zaliha Mustaf\u00e1, ha informado que se han notificado 59.057 de dengue en el pa\u00eds entre el 1 de enero y el 2 de julio de este 2023, \u2026 [+1426 chars]",
+      "retrievedAt": "2023-07-10 07:05:52.885773",
+      "internal_id": "e1689caf4cf819e25e09f80e93d927c697f1b8bd184e525dc0cccc23c3e2cca9",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 213,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Olufunke",
+      "title": "Intermittent fasting (1)",
+      "description": "I was a guest on a radio health talk show recently and I talked about intermittent fasting. I will like to discuss it with you. Before I proceed, permit me to share a story with you. I had a bout of malaria that defied treatment in 2010. Despite my phobia for\u2026",
+      "url": "https://punchng.com/intermittent-fasting-1/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2020/02/22204250/Olufunke.jpg",
+      "publishedAt": "2023-07-09 04:11:49",
+      "content": "I was a guest on a radio health talk show recently and I talked about intermittent fasting. I will like to discuss it with you. Before I proceed, permit me to share a story with you. I had a bout of \u2026 [+6450 chars]",
+      "retrievedAt": "2023-07-10 07:05:53.743339",
+      "internal_id": "6a1085fa1db1ceaee4d69e7810e9d9c9c0b367570b349b2d4fe7e623d7c7bba9",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 212,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "TheBlaze",
+      "author": "Paul Sacca",
+      "title": "Florida issues malaria alert as 2 more cases discovered, first locally acquired US cases in 20 years",
+      "description": "Florida issued a malaria alert in several counties after two more cases of the mosquito-borne disease were recently discovered. This is the first time in 20 years that there have been locally acquired cases in the United States. For the week ending on July 1,\u2026",
+      "url": "https://www.theblaze.com/news/malaria-cases-florida-who-vaccine",
+      "urlToImage": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zNDMwNDA0Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczNDgxMjQyM30._8MKQK3js0CgncAzQ9yMwYt0cN-IFeHHIuIEtp-h9Lo/img.jpg?width=1200&height=600&coordinates=0%2C55%2C0%2C140",
+      "publishedAt": "2023-07-09 03:44:19",
+      "content": "Florida issued a malaria alert in several counties after two more cases of the mosquito-borne disease were recently discovered. This is the first time in 20 years that there have been locally acquire\u2026 [+3777 chars]",
+      "retrievedAt": "2023-07-10 07:05:53.738528",
+      "internal_id": "671f312bc129befbc31836c79943c2093f175fdc5edbae048889f5dda3b16e2e",
+      "publishedAtLabel": "Jul 9"
+    },
     {
       "id": 206,
       "query": [
@@ -3563,63 +3617,6 @@
       "content": "Zecche e zanzare sono in aumento in Italia, secondo gli Istituti zooprofilattici italiani siamo vicini al rischio di una vera e propria invasione durante l'estate 2023. Sia in citt\u00e0 che in collina le\u2026 [+3064 chars]",
       "retrievedAt": "2023-07-05 00:24:59.322413",
       "internal_id": "3682dfe76c0e36490552c79f18c72c9506e66ddccf6aab21724ad2946b8ee504",
-      "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 33,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Allarme per zecche e zanzare in Italia: si rischiano malattie anche mortali - La Gazzetta dello Sport",
-      "description": "Allarme per zecche e zanzare in Italia: si rischiano malattie anche mortali La Gazzetta dello Sport Zanzare, Bassetti: \"Triplicate, rischio di malattie tropicali anche in Italia\" Primocanale Zanzare, Bassetti: 'rischio malaria a \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmdhenpldHRhLml0L3NhbHV0ZS8wMS0wNy0yMDIzL3phbnphcmUtZS16ZWNjaGUtaW4taXRhbGlhLXR1dHRpLWktcmlzY2hpLXBlci1tYWxhdHRpZS1hbmNoZS1tb3J0YWxpLnNodG1s0gF4aHR0cHM6Ly93d3cuZ2F6emV0dGEuaXQvc2FsdXRlLzAxLTA3LTIwMjMvemFuemFyZS1lLXplY2NoZS1pbi1pdGFsaWEtdHV0dGktaS1yaXNjaGktcGVyLW1hbGF0dGllLWFuY2hlLW1vcnRhbGlfYW1wLnNodG1s?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-01 13:06:56",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.153573",
-      "internal_id": "ff50b799c63c1482fee06d46135074fba903697b8124281ac47ffbb85e633256",
-      "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 6,
-      "query": [
-        "dengue",
-        "malaria",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Malaria Cases In U.S. Trigger Unfounded Claims About Bill Gates, Mosquito Project",
-      "description": "Here's what Oxitec is really doing with Aedes aegypti mosquitoes in the Florida Keys and how it may affect dengue, Zika, yellow fever, and chikungunya.",
-      "url": "https://www.forbes.com/sites/brucelee/2023/07/01/malaria-cases-in-us-trigger-unfounded-claims-about-bill-gates-mosquito-project/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64a01831286c16cc5ee78691/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-07-01 12:32:16",
-      "content": "On June 26, the US Centers for Disease Control and Prevention (CDC) issued an alert after five cases ... [+] of malaria were confirmed, the first locally acquired cases of the disease in the United S\u2026 [+6917 chars]",
-      "retrievedAt": "2023-07-05 00:24:59.318581",
-      "internal_id": "7713f46a75b2f9485ae3cef354bcc05a57c807749c865de213adc22b7aa0bd33",
-      "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 19,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Death toll rises to 7 in fungal meningitis outbreak; cases at 34, 161 at risk - Ars Technica",
-      "description": "Death toll rises to 7 in fungal meningitis outbreak; cases at 34, 161 at riskArs Technica Fungal meningitis outbreak highlights risks of 'medical tourism' for plastic surgery | NightlineABC News Seven Now Dead From Fungal Outbreak Tied to Surgery Clinics in M\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171284502",
-      "urlToImage": null,
-      "publishedAt": "2023-07-01 10:32:17",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-05 00:24:59.682673",
-      "internal_id": "c18fa28a261c3228e4b249e1408598fe62c8b45400f55f28b91247d34922e58d",
       "publishedAtLabel": "Jul 1"
     }
   ]
