@@ -1,8 +1,170 @@
 {
-  "last_updated": "2023-07-10 07:05",
-  "count_articles_total": 209,
-  "count_articles_new": 3,
+  "last_updated": "2023-07-10 19:05",
+  "count_articles_total": 218,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 214,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh: Dengue death toll increases to 73 | International - Devdiscourse",
+      "description": "Bangladesh: Dengue death toll increases to 73 | International Devdiscourse Dengue outbreak: Where we are failing The Business Standard Record 6 people die of dengue in 24 hrs Prothom Alo English Declare \u2018public health \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRldmRpc2NvdXJzZS5jb20vYXJ0aWNsZS9pbnRlcm5hdGlvbmFsLzI1MTY5MDAtYmFuZ2xhZGVzaC1kZW5ndWUtZGVhdGgtdG9sbC1pbmNyZWFzZXMtdG8tNzPSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-09 17:15:12",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-10 19:05:17.381196",
+      "internal_id": "d86fb140371004772447a2dfffeb6c35bfc46de9d6e47b66af707bd20200f397",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 222,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Sabah.com.tr",
+      "author": "FATMA DAMLA KAYAYERL\u0130",
+      "title": "Sivrisinek alarm\u0131! Uzmanlar Asya Kaplan\u0131 sivrisine\u011fi i\u00e7in uyar\u0131yor",
+      "description": "T\u00fcrkiye\u2019de artan s\u0131caklarla birlikte sivrisinek art\u0131\u015f\u0131 halkta pani\u011fe neden oldu. Asya Kaplan\u0131 sine\u011fi \u0131s\u0131r\u0131klar\u0131ndan \u015fik\u00e2yet eden vatanda\u015flar ise k\u0131zar\u0131kl\u0131k, \u015fi\u015flik, a\u011fr\u0131, yanma belirtileriyle hastanelere ak\u0131n etti. Sabah.com.tr ise sivrisinek \u0131s\u0131r\u0131klar\u0131n ne t\u2026",
+      "url": "https://www.sabah.com.tr/yasam/sivrisinek-alarmi-uzmanlar-asya-kaplani-sivrisinegi-icin-uyariyor-6542150",
+      "urlToImage": "https://iasbh.tmgrup.com.tr/e9dd64/640/314/0/0/752/640?u=https://isbh.tmgrup.com.tr/sbh/2023/07/09/sivrisinek-alarmi-uzmanlar-asya-kaplani-sivrisinegi-icin-uyariyor-1688923289302.jpg&bg=1",
+      "publishedAt": "2023-07-09 17:06:54",
+      "content": "\"\u00dcLKEMZDE SEYAHAT SONRASI SITMAYI G\u00d6ZLEMLYORUZ\" Timurkaynak, sivrisinekten kaynakl hastalklarn d\u00fcnyada hangi b\u00f6lgelerde g\u00f6r\u00fcld\u00fc\u00fcn\u00fc anlatarak s\u00f6zlerine \u00f6yle devam ediyor: \"Zika vir\u00fcs daha \u00e7ok G\u00fcney A\u2026 [+4313 chars]",
+      "retrievedAt": "2023-07-10 19:05:18.503125",
+      "internal_id": "dbda5fc8f22fef91ba5241c377edf2acaf6d63e75b31b56ea8a4cdc0e91f6541",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 217,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Experts for community engagement to contain dengue outbreak",
+      "description": "Health experts have described community mobilization as the most effective initiative to control dengue outbreak as the country is in the grip of the mosquito-borne disease. \u201cCommunity engagement is very crucial to prevent dengue disease\u2026 All relevant organiz\u2026",
+      "url": "https://sylhetmirror.com/2023/07/09/experts-for-community-engagement-to-contain-dengue-outbreak/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/Iuuyt.jpg",
+      "publishedAt": "2023-07-09 16:25:25",
+      "content": "Health experts have described community mobilization as the most effective initiative to control dengue outbreak as the country is in the grip of the mosquito-borne disease. \u201cCommunity engagement is\u2026 [+3751 chars]",
+      "retrievedAt": "2023-07-10 19:05:17.393208",
+      "internal_id": "cd9d7442c3c6a3cc1602783b41463f3464ce87579b5d9bfe6eaf640bf23879d1",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 215,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "GERARD GIMINO",
+      "title": "Clean-up programme announced as dengue surges",
+      "description": "GOMBAK: Dengue cases nationwide increased by 139% from January to July 2 this year compared with the same period last year, said the Health Minister as she announced a new clean-up campaign. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/07/10/clean-up-programme-announced-as-dengue-surges",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/10/2168912.jpg",
+      "publishedAt": "2023-07-09 16:00:00",
+      "content": "GOMBAK: Dengue cases nationwide increased by 139% from January to July 2 this year compared with the same period last year, said the Health Minister as she announced a new clean-up campaign. Dr Zali\u2026 [+2851 chars]",
+      "retrievedAt": "2023-07-10 19:05:17.388876",
+      "internal_id": "025b71a6b1da663083353c31509fada6e345781214434c19f3e07ec840e29978",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 221,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Rwanda: Why Rwanda Missed Out On Inaugural Malaria Vaccine",
+      "description": "[New Times] On Wednesday, July 5, the World Health Organization and GAVI, The Vaccine Alliance, announced that 12 countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years.",
+      "url": "https://allafrica.com/stories/202307090057.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-09 15:01:26",
+      "content": "On Wednesday, July 5, the World Health Organization and GAVI, The Vaccine Alliance, announced that 12 countries across different regions in Africa are set to receive 18 million doses of the first-eve\u2026 [+3636 chars]",
+      "retrievedAt": "2023-07-10 19:05:18.257026",
+      "internal_id": "74f5512b76eb521b7f123ac3f69c82b82c693927f97435cb741acbdda95d3203",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 220,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Stefan Parsch",
+      "title": "Die \u201eIfegenia\u201c-Methode wird weiblichen M\u00fccken zum Verh\u00e4ngnis",
+      "description": "Um Malaria zu bek\u00e4mpfen, setzen Wissenschaftler mittlerweile bei den M\u00fccken an. Die Sterilisation der M\u00e4nnchen reduziert Populationen, ist aber sehr aufwendig. Nun stellen Forscher einen neuen, vielversprechenden Ansatz vor \u2013 bei dem sie das Erbgut per Gensch\u2026",
+      "url": "https://www.welt.de/wissenschaft/article246299472/Malaria-Ifegenia-Methode-wird-weiblichen-Muecken-zum-Verhaengnis.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile246299468/1281351197-ci16x9-w1200/Mosquito.jpg",
+      "publishedAt": "2023-07-09 13:01:18",
+      "content": "Ein neu entwickelter gentechnischer Ansatz soll bei der Bek\u00e4mpfung der durch M\u00fccken \u00fcbertragenen Malaria helfen. Dabei wird ein Gen ausgeschaltet, das weibliche M\u00fccken der Art Anopheles gambiae zum \u00dc\u2026 [+3723 chars]",
+      "retrievedAt": "2023-07-10 19:05:18.254193",
+      "internal_id": "847789e519c992497d04135ba35b266f921421d63697abd3f72e6a405222caea",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 219,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "ofru@bt.dk (Oliver Fruergaard)",
+      "title": "Ny vaccine bliver rullet ud i 12 lande: 'Sikker og effektiv'",
+      "description": "Vaccinen kan redde titusindvis af liv.",
+      "url": "https://www.bt.dk/udland/ny-vaccine-bliver-rullet-ud-i-12-lande-sikker-og-effektiv",
+      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/203/2034359/24473110-malaria-spreder-sig-gennem-myg.jpg",
+      "publishedAt": "2023-07-09 09:19:09",
+      "content": "Verdens f\u00f8rste malariavaccine bliver over de n\u00e6ste to \u00e5r rullet ud i 12 afrikanske lande. Den har potentiale til at redde mange liv, lyder det onsdag i en pressemeddelelse fra WHO. I alt vil 18 mil\u2026 [+1009 chars]",
+      "retrievedAt": "2023-07-10 19:05:18.251609",
+      "internal_id": "d98e8868f33e9255fa1a1bb52600f29e48756f62eb4f0aaac46d8d5c39b95fc8",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 218,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Anders Anglesey",
+      "title": "Malaria Alert Issued by CDC After New Cases in Florida",
+      "description": "Six malaria cases were confirmed to have been acquired in one Florida county - the first contracted in the U,S. in 20 years..",
+      "url": "https://www.newsweek.com/malaria-alert-issued-cdc-new-cases-florida-1811759",
+      "urlToImage": "https://d.newsweek.com/en/full/2255419/stock-image-mosquito.jpg",
+      "publishedAt": "2023-07-09 09:03:35",
+      "content": "The Centers for Disease Control and Prevention (CDC) has issued a public health alert following the first cases of malaria being acquired inside the U.S in 20 years were reported. Florida health off\u2026 [+3632 chars]",
+      "retrievedAt": "2023-07-10 19:05:18.248881",
+      "internal_id": "07f8987398d13fe797ad03c7e3967856a6ccbf00d45cc8794d7b1a6b02412e96",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 216,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR, Pravda",
+      "title": "Na Slovensko prenik\u00e1 kom\u00e1r \u0161\u00edriaci tropick\u00e9 choroby. Zatia\u013e sa tu neusadil",
+      "description": "Vlny hor\u00fa\u010dav a z\u00e1plavy s\u00fa v d\u00f4sledku klimatickej zmeny \u010doraz \u010dastej\u0161ie. To vytv\u00e1ra priaznivej\u0161ie podmienky pre inv\u00e1zne druhy kom\u00e1rov.",
+      "url": "https://vat.pravda.sk/zem/clanok/673859-na-slovensko-prenika-komar-siriaci-tropicke-choroby-zatial-sa-tu-neusadil/",
+      "urlToImage": "http://ipravda.sk/res/2023/07/07/thumbs/komar-malaria-anopheles-fenestus-clanokW.jpg",
+      "publishedAt": "2023-07-09 08:00:00",
+      "content": "Na \u00fazemie Slovenska prenikaj\u00fa kom\u00e1re schopn\u00e9 pren\u00e1a nebezpen\u00e9 tropick\u00e9 choroby, ako je mal\u00e1ria, z\u00e1padon\u00edlska hor\u00faka i hor\u00faka dengue, no zatia sa tu neusadili, informuje TASR.Kom\u00e1r tigr\u00ed (Aedes albopi\u2026 [+3300 chars]",
+      "retrievedAt": "2023-07-10 19:05:17.389908",
+      "internal_id": "979efb5d8467c77eca267b389e40306417554b916c08f094d7bd918657238070",
+      "publishedAtLabel": "Jul 9"
+    },
     {
       "id": 211,
       "query": [
@@ -3455,169 +3617,6 @@
       "retrievedAt": "2023-07-05 00:24:58.860829",
       "internal_id": "f94eabe5c8ff601a5d72ce6e503c00e933d9af23459c0a7fc3bdd4e64e88bb52",
       "publishedAtLabel": "Jul 2"
-    },
-    {
-      "id": 42,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Experts say there's a 'slim chance' malaria cases spread to Utah - KSL.com",
-      "description": "Experts say there's a 'slim chance' malaria cases spread to UtahKSL.com U.S. reports 1st 'domestically acquired' malaria cases in 20 yearsCBC News: The National U.S. malaria patient says the disease was initially misdiagnosedYahoo News Florida mosquitoes test\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171291018",
-      "urlToImage": null,
-      "publishedAt": "2023-07-02 06:52:09",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-05 00:25:00.169081",
-      "internal_id": "af73b87aaf0318b9f4e87a847ab7d32389b8b6742368752f51bdfc27e2cde031",
-      "publishedAtLabel": "Jul 2"
-    },
-    {
-      "id": 17,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "marca",
-      "source_name": "Marca",
-      "author": "JES\u00daS IZQUIERDO",
-      "title": "Sarah Almagro, el deporte salvavidas",
-      "description": "El surf adaptado, en el que ha llegado a subcampeona mundial, sirvi\u00f3 para que saliera adelante despu\u00e9s de que le amputaran brazos y piernas: \"Los l\u00edmites s\u00f3lo existen en nuestra cabeza\" Leer",
-      "url": "https://www.marca.com/primera-plana/2023/07/02/649fe254268e3e507a8b460e.html",
-      "urlToImage": "https://phantom-marca.unidadeditorial.es/a12ac19b25bfe912c1d9b02379139844/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/01/16881999338445.jpg",
-      "publishedAt": "2023-07-02 05:51:38",
-      "content": "Con 18 a\u00f1os a\u00fan, la vida de Sarah Almagro dio un giro tan inesperado como dr\u00e1stico. Una meningitis meningoc\u00f3cica llegaba sin avisar, en forma de p\u00e1nico e interrogaci\u00f3n. Una noticia demasiado dura par\u2026 [+3945 chars]",
-      "retrievedAt": "2023-07-05 00:24:59.677904",
-      "internal_id": "199d8c0788c57b062470843d0fcc792ad9df01817556aaddc2f03857f944b652",
-      "publishedAtLabel": "Jul 2"
-    },
-    {
-      "id": 43,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "CDC issues malaria warning; Colorado health officials say risk is low | HEALTHY BITES - The Denver Gazette",
-      "description": "CDC issues malaria warning; Colorado health officials say risk is low | HEALTHY BITESThe Denver Gazette U.S. reports 1st 'domestically acquired' malaria cases in 20 yearsCBC News: The National Florida mosquitoes test positive for malaria as officials spray ar\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171290540",
-      "urlToImage": null,
-      "publishedAt": "2023-07-02 04:32:07",
-      "content": "Our OS who art in CPU, UNIX be thy name.\r\nThy programs run, thy syscalls done,\r\nIn kernel as it is in user!",
-      "retrievedAt": "2023-07-05 00:25:00.170434",
-      "internal_id": "7706e85fda87d645a36f09dac7ec6904b66f987cf333a84587ac411923719d6b",
-      "publishedAtLabel": "Jul 2"
-    },
-    {
-      "id": 23,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Experts say there's a 'slim chance' malaria cases spread to Utah - KSL.com",
-      "description": "Experts say there's a 'slim chance' malaria cases spread to Utah KSL.com U.S. reports 1st 'domestically acquired' malaria cases in 20 years CBC News: The National U.S. malaria patient says the disease was initially misdiagnosed \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmtzbC5jb20vYXJ0aWNsZS81MDY3NjMwNy9leHBlcnRzLXNheS10aGVyZXMtYS1zbGltLWNoYW5jZS1tYWxhcmlhLWNhc2VzLXNwcmVhZC10by11dGFo0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-02 04:31:35",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.135411",
-      "internal_id": "52736b0789096c91e8f3b735309955226ba6339b7b71caff677bbb08da8cd830",
-      "publishedAtLabel": "Jul 2"
-    },
-    {
-      "id": 31,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Angela Onwuzoo",
-      "title": "Using herbal, over-the-counter malaria medications in pregnancy may cause cleft lips in babies \u2013 Physician",
-      "description": "A Consultant Family Physician at the Family Health Department, Federal Ministry of Health, Abuja, Dr. John Ovuoraye, has advised pregnant women not to treat malaria with herbal and over-the-counter medications, noting that such action can predispose babies to\u2026",
-      "url": "https://punchng.com/using-herbal-over-the-counter-malaria-medications-in-pregnancy-may-cause-cleft-lips-in-babies-physician/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/04/03014733/cleft-palate.jpg",
-      "publishedAt": "2023-07-02 03:03:15",
-      "content": "A Consultant Family Physician at the Family Health Department, Federal Ministry of Health, Abuja, Dr. John Ovuoraye, has advised pregnant women not to treat malaria with herbal and over-the-counter m\u2026 [+3282 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.149641",
-      "internal_id": "c1e44a3ec5a55c79a1968b98111a534ff2a771f69fe0847fe9fd9ce5f3a3f6d2",
-      "publishedAtLabel": "Jul 2"
-    },
-    {
-      "id": 5,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newshub",
-      "author": "Rachel Sadler",
-      "title": "Revealed: Shocking number of Kiwis behind on key health screenings - here's how access to care can be improved",
-      "description": "Revealed: Shocking number of Kiwis behind on key health screenings - here's how access to care can be improvednewshub.co.nz",
-      "url": "https://www.newshub.co.nz/home/new-zealand/2023/07/revealed-shocking-number-of-kiwis-behind-on-key-health-screenings-here-s-how-access-to-care-can-be-improved.html",
-      "urlToImage": "https://www.newshub.co.nz/home/new-zealand/2023/07/revealed-shocking-number-of-kiwis-behind-on-key-health-screenings-here-s-how-access-to-care-can-be-improved/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1688024487858/getty-DOCTOR-GENERIC-1120.jpg",
-      "publishedAt": "2023-07-02 01:25:31",
-      "content": "\"By not having the vaccinations on time and not having a higher rate of childhood vaccinations, you increase the risk around what are vaccine-preventable diseases like measles,\" he told Newshub.\r\n\"Th\u2026 [+2856 chars]",
-      "retrievedAt": "2023-07-05 00:24:59.043055",
-      "internal_id": "48e68b9adf525b7dfba4f254c948735bba6dd3a0f4d019fcd2c8de7bc3a059e4",
-      "publishedAtLabel": "Jul 2"
-    },
-    {
-      "id": 30,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Shannon Osaka",
-      "title": "In the US, the world\u2019s deadliest animal is on the move",
-      "description": "The deadliest animal in the world is smaller than a pencil eraser and weighs around two-thousandths of a gram - less than the weight of a single raindrop. Every year, it kills an estimated 700,000 people by partaking in what scientists grimly call a \"blood me\u2026",
-      "url": "https://www.bostonglobe.com/2023/07/01/nation/us-worlds-deadliest-animal-is-move/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Fzs002sDZxXrDw1FLIEAAdPP4BE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SW4KKESTIYQH45OORU3YO3F67Q.jpg",
-      "publishedAt": "2023-07-01 18:22:39",
-      "content": "In June alone, five cases of locally transmitted malaria were discovered in Texas and Florida: the first cases acquired in the United States in two decades. These cases, experts say, are unlikely to \u2026 [+3960 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.148074",
-      "internal_id": "377041dec51fd49774062e2c9b9cbd7e5774223668b0f57c4b8525892f1cb52f",
-      "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 14,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": "",
-      "title": "Disinfestazione da zanzare per prevenzione dopo caso Dengue",
-      "description": "Interesser\u00e0 alcune strade nella zona dove vive il paziente (ANSA)",
-      "url": "https://www.ansa.it/umbria/notizie/2023/07/01/disinfestazione-da-zanzare-per-prevenzione-dopo-caso-dengue_4ffee7a2-8d5e-4d68-a062-7943658ad4c6.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/5/31/bec1d9709287ba5bd8597ff9c123a1af.jpg",
-      "publishedAt": "2023-07-01 14:50:59",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2023-07-05 00:24:59.333413",
-      "internal_id": "1f8d94eadaeaf87901b47a54081bb72ebe63653be096f303a831e6a711710769",
-      "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 8,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Gazzetta.it",
-      "author": "Redazione",
-      "title": "Allarme per zecche e zanzare in Italia: si rischiano malattie anche mortali",
-      "description": "Dengue, Chikungunya e Febbre del Nilo: sono tante le malattie portate da zanzare e zecche, che sono in netto aumento in Italia a causa del clima tropicale.",
-      "url": "https://www.gazzetta.it/salute/01-07-2023/zanzare-e-zecche-in-italia-tutti-i-rischi-per-malattie-anche-mortali.shtml",
-      "urlToImage": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2023/07/01/64a01d437247b.jpeg",
-      "publishedAt": "2023-07-01 13:07:07",
-      "content": "Zecche e zanzare sono in aumento in Italia, secondo gli Istituti zooprofilattici italiani siamo vicini al rischio di una vera e propria invasione durante l'estate 2023. Sia in citt\u00e0 che in collina le\u2026 [+3064 chars]",
-      "retrievedAt": "2023-07-05 00:24:59.322413",
-      "internal_id": "3682dfe76c0e36490552c79f18c72c9506e66ddccf6aab21724ad2946b8ee504",
-      "publishedAtLabel": "Jul 1"
     }
   ]
 }
