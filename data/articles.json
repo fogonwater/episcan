@@ -1,8 +1,44 @@
 {
-  "last_updated": "2023-07-09 19:05",
-  "count_articles_total": 201,
-  "count_articles_new": 10,
+  "last_updated": "2023-07-10 03:23",
+  "count_articles_total": 206,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 206,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Why Nigeria was excluded from malaria vaccine allocation, says GAVI",
+      "description": "Fresh facts have emerged on why Nigeria was excluded from the allocation of the 18 million doses of the first-ever RTS,S/AS01 malaria vaccine from 2023 to 2025. Sunday PUNCH gathered that Nigeria\u2019s refusal to meet the deadline for the second window applicatio\u2026",
+      "url": "https://punchng.com/why-nigeria-was-excluded-from-malaria-vaccine-allocation-says-gavi/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/09/13111036/malaria-vac-750x450.gif",
+      "publishedAt": "2023-07-09 00:22:22",
+      "content": "Fresh facts have emerged on why Nigeria was excluded from the allocation of the 18 million doses of the first-ever RTS,S/AS01 malaria vaccine from 2023 to 2025. Sunday PUNCH gathered that Nigerias r\u2026 [+3892 chars]",
+      "retrievedAt": "2023-07-10 03:23:00.442918",
+      "internal_id": "6f850eea4341043257c026e70144c91e7dc71a0d569aeafbdbf8cbd467cc6239",
+      "publishedAtLabel": "Jul 9"
+    },
+    {
+      "id": 205,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Two new cases of malaria found in Florida - MSNBC",
+      "description": "Two new cases of malaria found in Florida MSNBC 2 more locally acquired cases of malaria found in Florida, bringing recent US total to 7 Yahoo! Voices Cases of locally acquired malaria rise to 6 in Florida WSVN 7News | Miami New\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC1NNY1FHWng4Mnk0mAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-08 20:30:02",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-10 03:23:00.437791",
+      "internal_id": "5690477eb0982b76e64ed587f6c814c074c831233635cf8cacef8ac4c40431cb",
+      "publishedAtLabel": "Jul 8"
+    },
     {
       "id": 198,
       "query": [
@@ -19,6 +55,24 @@
       "content": "O Minist\u00e9rio da Sa\u00fade afirmou nesta semana que aguarda uma proposta oficial do laborat\u00f3rio japon\u00eas Takeda para a compra de doses da vacina contra a dengue. Segundo a pasta, os insumos devem chegar em\u2026 [+1222 chars]",
       "retrievedAt": "2023-07-09 19:05:07.399321",
       "internal_id": "cfe2d7579d9b51efc3f82650a6ea386af74ead9322cc68aac385487085595339",
+      "publishedAtLabel": "Jul 8"
+    },
+    {
+      "id": 210,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Confirmaron dos nuevos casos de Malaria en Florida y crece la alerta",
+      "description": "Los primeros pacientes ya est\u00e1n recuperados; los nuevos reportes tambi\u00e9n son del condado de Sarasota, donde las autoridades mantienen una alta vigilancia",
+      "url": "https://www.lanacion.com.ar/estados-unidos/confirmaron-dos-nuevos-casos-de-malaria-en-florida-y-crece-la-alerta-nid08072023/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/AkKTfKhU4PXSxFnRXmV8m0GLCI4=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/UYH6LXWQSFBDJKMRNOVYFME3NA.jpg",
+      "publishedAt": "2023-07-08 17:42:45",
+      "content": "El Departamento de Salud de Florida confirm\u00f3 dos casos m\u00e1s de malaria adquirida localmente en el condado de Sarasota, con lo cual el n\u00famero total asciende a seis en el estado y siete en todo Estados \u2026 [+2670 chars]",
+      "retrievedAt": "2023-07-10 03:23:00.452168",
+      "internal_id": "a32759c7ac98765d4baa2b4f91b96503a9ff2946e9758fd9340afdfdaffe7200",
       "publishedAtLabel": "Jul 8"
     },
     {
@@ -490,6 +544,24 @@
       "publishedAtLabel": "Jul 7"
     },
     {
+      "id": 208,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Uganda: Uganda Among First Recipients of First-Ever Malaria Vaccine",
+      "description": "[Nile Post] Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever Malaria vaccine over the next two years.",
+      "url": "https://allafrica.com/stories/202307070697.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-07 14:15:53",
+      "content": "Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever Malaria vaccine over the next two years. Uganda will be among the first countries to receive\u2026 [+4499 chars]",
+      "retrievedAt": "2023-07-10 03:23:00.449566",
+      "internal_id": "8d92508c07a4f63002645ba0b22f1dcc809246f54478140cb53d918cd78b3c47",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
       "id": 182,
       "query": [
         "malaria"
@@ -505,6 +577,24 @@
       "content": "Citation: dos Santos BR, Ramos ABdSB, de Menezes RPB, Scotti MT, Colombo FA, Marques MJ, et al. (2023) Repurposing the Medicines for Malaria Ventures COVID Box to discover potent inhibitors of Toxopl\u2026 [+35999 chars]",
       "retrievedAt": "2023-07-08 19:05:15.063760",
       "internal_id": "ff47cfaeed3462ccd63fb55d5b1911ddf5c6c9d0e9433c9bbfb7c2e450d9868e",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 207,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNBC",
+      "author": "Annika Kim Constantino",
+      "title": "U.S. officials say risk of locally transmitted malaria remains low as nationwide cases jump to seven",
+      "description": "The CDC and health experts say the new locally acquired cases in Florida and Texas shouldn't warrant panic about widespread malaria transmission in the U.S.",
+      "url": "https://www.cnbc.com/2023/07/07/us-malaria-risk-low-despite-local-cases-what-you-need-to-know.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107264932-1688063037955-gettyimages-1504348469-029a7987copy_sglqp38q.jpeg?v=1688737687&w=1920&h=1080",
+      "publishedAt": "2023-07-07 13:50:18",
+      "content": "Barrington Sanders, a Miami-Dade Mosquito Control Inspector, sprays a pesticide to kill adult mosquitos on June 29, 2023 in Miami, Florida. U.S. public health officials say the risk of locally tran\u2026 [+10998 chars]",
+      "retrievedAt": "2023-07-10 03:23:00.447520",
+      "internal_id": "e686f1201b25d9b9acf7bcbbd9dae89b4f0c3344927296ce304a388fddb39815",
       "publishedAtLabel": "Jul 7"
     },
     {
@@ -577,6 +667,24 @@
       "content": "Introduction Malaria in sub-Saharan Africa has declined dramatically since 2000, with much of the decrease due to vector control methods such as insecticide-treated nets and indoor residual spraying\u2026 [+8099 chars]",
       "retrievedAt": "2023-07-09 07:05:24.606877",
       "internal_id": "e9a1105fbac5adf30a91a63aecdeec9d32e3257d327fd309f9a78dc397ae8563",
+      "publishedAtLabel": "Jul 7"
+    },
+    {
+      "id": 209,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Ocan, M., Loyce, N., Ojiambo, K. O., Kinengyere, A. A., Apunyo, R., Obuku, E. A.",
+      "title": "Efficacy of antimalarial herbal medicines used by communities in malaria affected regions globally: a protocol for systematic review and evidence and gap map",
+      "description": "Introduction With the rising resistance to artemisinin-based combination treatments, there is a need to hasten the discovery and development of newer antimalarial agents. Herbal medicines are key for the development of novel drugs. Currently, herbal medicin\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/7/e069771?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-07-07 08:02:31",
+      "content": "This will be a multimodal blended systematic review and evidence gap map (EGM). The EGM and systematic review will be done following the Campbell Collaboration14 and Preferred Reporting Items for Sys\u2026 [+99 chars]",
+      "retrievedAt": "2023-07-10 03:23:00.451052",
+      "internal_id": "e49522d5da0853d92d3960fc150069ce041bf1a62dec22b2d797860723c963e0",
       "publishedAtLabel": "Jul 7"
     },
     {
@@ -2315,24 +2423,6 @@
       "publishedAtLabel": "Jul 5"
     },
     {
-      "id": 90,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "New York Post",
-      "author": "Adriana Diaz",
-      "title": "I got fungal meningitis from a botched BBL in Mexico \u2014 now I\u2019m fighting for my life",
-      "description": "An Arizona woman is fighting for her life after a botched BBL in Mexico. \"Honestly I\u2019ve put into my mind, 'Stay positive and you\u2019ll heal.' I\u2019m in good spirits,\" she told The Post.",
-      "url": "https://nypost.com/2023/07/04/mom-fights-for-life-after-meningitis-from-botched-bbl-in-mexico/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000013592989.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2023-07-04 23:54:12",
-      "content": "An Arizona woman is fighting for her life after she contracted fungal meningitis from cosmetic procedures she flew to Mexico to have done for cheap. Alondra Lomas, 27, traveled to Clinica-K3, a priv\u2026 [+4472 chars]",
-      "retrievedAt": "2023-07-06 21:28:39.571237",
-      "internal_id": "6ce6cf52242c2f68cc556b5956107e9ce014ffe7b5a1ea07ada52ba82f511c25",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
       "id": 99,
       "query": [
         "malaria"
@@ -3530,98 +3620,6 @@
       "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
       "retrievedAt": "2023-07-05 00:24:59.682673",
       "internal_id": "c18fa28a261c3228e4b249e1408598fe62c8b45400f55f28b91247d34922e58d",
-      "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 29,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "fortune",
-      "source_name": "Fortune",
-      "author": "Erin Prater",
-      "title": "Malaria is making a comeback in the U.S. What you need to know to stay safe from it\u2014and West Nile Virus\u2014this summer",
-      "description": "For Americans unfamiliar with malaria, here\u2019s a primer on the disease\u2014and what you need to know to stay safe from both malaria and West Nile this July 4 holiday and beyond.",
-      "url": "https://fortune.com/well/2023/07/01/how-to-prevent-malaria-west-nile-virus-united-states-cases-texas-florida-mosquito/",
-      "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-1493154314-e1688147131694.jpg?resize=1200,600",
-      "publishedAt": "2023-07-01 09:37:00",
-      "content": "Malaria likely doesnt come to mind when you think of the reasons to marinate in mosquito repellent this summer.\u00a0But it should, with the U.S. Centers for Disease Control and Prevention announcing this\u2026 [+4050 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.146180",
-      "internal_id": "c59a95caa2186f219eefd7928c5c3f8a7f470be3ea9717fe4bfb7de19a90bce4",
-      "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 39,
-      "query": [
-        "malaria",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Elperiodico.com",
-      "author": "El Peri\u00f3dico",
-      "title": "Mosquito com\u00fan: c\u00f3mo distinguirlo y consejos para evitarlo",
-      "description": "Llega el verano, suben las temperaturas y es entonces cuando aparecen los mosquitos. Estos peque\u00f1os insectos, aparte de ser molestos, tambi\u00e9n son grandes transmisores de enfermedades como la fiebre del Nilo, la malaria, la fiebre amarilla, el zika\u2026Los mosquit\u2026",
-      "url": "https://www.elperiodico.com/es/sociedad/20230701/mosquito-comun-distinguirlo-consejos-evitarlo-dv-89005677",
-      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/62bce2e2-2dcc-447e-b5af-dc8fcbd3ff80_16-9-discover-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-07-01 07:00:45",
-      "content": "Llega el verano, suben las temperaturas y es entonces cuando aparecen los mosquitos. Estos peque\u00f1os insectos, aparte de ser molestos, tambi\u00e9n son grandes transmisores de enfermedades como la fiebre d\u2026 [+2507 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.163480",
-      "internal_id": "fe904188dabd35653cb6366bf129ecbf2051d74e4f0ce37c32a708226d800218",
-      "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 9,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "Ennio Battista",
-      "title": "Zecche e zanzare invadono l\u2019Italia, scatta l\u2019allarme: \u201cAspettiamoci pi\u00f9 casi e possibili morti per Dengue, Chikungunya e Febbre del Nilo\u201d",
-      "description": "Al Fatto Quotidiano.it la professoressa Antonella Castagna, primario dell\u2019Unit\u00e0 di Malattie Infettive dell\u2019IRCCS Ospedale San Raffaele di Milano e Direttore della scuola di Specializzazione in Malattie Infettive e Tropicali, spiega le potenziali malattie che \u2026",
-      "url": "https://www.ilfattoquotidiano.it/2023/07/01/zecche-e-zanzare-invadono-litalia-scatta-lallarme-aspettiamoci-piu-casi-e-possibili-morti-per-dengue-chikungunya-e-febbre-del-nilo/7211171/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/06/28/ipiccy_image-2023-06-28T130459.864.jpg",
-      "publishedAt": "2023-07-01 06:11:18",
-      "content": "In Italia c\u00e8 uninvasione di zanzare e zecche. Secondo alcune rilevazioni degli Istituti zooprofilattici italiani, le prime si sono triplicate, mentre le seconde si stanno diffondendo sia in citt\u00e0 che\u2026 [+3292 chars]",
-      "retrievedAt": "2023-07-05 00:24:59.323920",
-      "internal_id": "a5eae7ebca17257dfafac5e476a84a55d1fa104ffb68eabecdb65c4ca84f218b",
-      "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 34,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "HISPANIC GLOBAL NEWS / Adilene L\u00f3pez",
-      "title": "Texas y Florida reportan seis casos de malaria: \u00bfqu\u00e9 es esta enfermedad?",
-      "description": "Estados Unidos hab\u00eda erradicado la transmisi\u00f3n comunitaria de malaria, pero ha detectado nuevos casos.",
-      "url": "https://www.elfinanciero.com.mx/border/2023/06/30/texas-y-florida-reportan-seis-casos-de-malaria-que-es-esta-enfermedad/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/DipseZyCSm9OJq8wBII21z0QBbs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/O37QBAV4RVCCPFHWMYCO5DBHCE.jpg",
-      "publishedAt": "2023-07-01 02:33:51",
-      "content": "LAREDO, Texas.- Estados Unidos reporta seis casos de pacientes con malaria en el pa\u00eds, de los cuales, cuatro se han detectado en Florida, y dos en Texas, el m\u00e1s reciente en la ciudad de Laredo, a qui\u2026 [+2718 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.155524",
-      "internal_id": "0b7d36dd8687465e071e33e8d86867ce540f3f2fdaaf1e64bf6bbb036488d88f",
-      "publishedAtLabel": "Jul 1"
-    },
-    {
-      "id": 21,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "U.S. reports 1st 'domestically acquired' malaria cases in 20 years - CBC News: The National",
-      "description": "U.S. reports 1st 'domestically acquired' malaria cases in 20 years CBC News: The National Florida mosquitoes test positive for malaria as officials spray area Ars Technica U.S. malaria patient says the disease was initially misdi\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC09QLUk1X2R5c01ZmAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-01 01:56:52",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.130150",
-      "internal_id": "099d1cbc36fbc7d1c4c2ca0488fce1ade8a3609adf9d76cad9bd6fc8e94db62d",
       "publishedAtLabel": "Jul 1"
     }
   ]
