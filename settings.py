@@ -8,7 +8,8 @@ KEYWORD_QUERIES = [
     "zika",
     "chikungunya",
     "mpox",
-    "typhoid"
+    "typhoid",
+    "leptospirosis"
 ]
 
 SOURCE_IGNORE = [
@@ -21,6 +22,7 @@ SOURCE_IGNORE = [
     "PRNewswire",
     "Yahoo Entertainment",
     "Naturalnews.com",
+    "New York Post",
     "Daily Mail",
     "Freerepublic.com",
     "Breitbart News",
