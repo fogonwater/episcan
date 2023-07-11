@@ -1,8 +1,278 @@
 {
-  "last_updated": "2023-07-11 07:05",
-  "count_articles_total": 236,
-  "count_articles_new": 18,
+  "last_updated": "2023-07-11 19:05",
+  "count_articles_total": 251,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 252,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "As malaria cases tick up in Florida, a doctor treating patients describes their symptoms - NBC 6 South Florida",
+      "description": "As malaria cases tick up in Florida, a doctor treating patients describes their symptomsNBC 6 South Florida More cases of malaria are confirmed in FloridaNBC News The Point, July 10, 2023: 6 cases of malaria in Sarasota CountyWUFT Sarasota County officials di\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171352797",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10 17:33:53",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-11 19:05:22.648849",
+      "internal_id": "cc7a1ffd01b7c83431f66cd70e43cc4155a072a911fa74f5515a1da2f927a486",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 244,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Sof\u00eda Benavides",
+      "title": "Rige en Per\u00fa emergencia sanitaria por el aumento de casos del s\u00edndrome de Guillain-Barr\u00e9",
+      "description": "La emergencia sanitaria tendr\u00e1 una duraci\u00f3n de 90 d\u00edas y le permitir\u00e1 al Ejecutivo disponer de recursos necesarios para garantizar la salud a las poblaciones en riesgo.",
+      "url": "https://cnnespanol.cnn.com/2023/07/10/peru-emergencia-sanitaria-sindrome-guillain-barre-orix/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2021/07/210713143734-pba-jj-full-169.jpg?quality=100&strip=info",
+      "publishedAt": "2023-07-10 17:23:13",
+      "content": "Aumenta el brote de dengue en Per\u00fa 2:41 (CNN Espa\u00f1ol) -- Rige en Per\u00fa una emergencia sanitaria que el gobierno decret\u00f3 mediante un decreto debido al aumento de casos del s\u00edndrome de Guillain-Barr\u00e9. \u2026 [+840 chars]",
+      "retrievedAt": "2023-07-11 19:05:21.739208",
+      "internal_id": "70c8eeed65942faf61ef5fcb6e404b357ceaa8ce420f22f022e4de117aa61500",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 246,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Two more malaria cases found in Florida; Doctor explains symptoms and treatment - MSNBC",
+      "description": "Two more malaria cases found in Florida; Doctor explains symptoms and treatment MSNBC The Point, July 10, 2023: 6 cases of malaria in Sarasota County WUFT More cases of malaria are confirmed in Florida NBC News Sarasot\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC3ZXY1JYclV5X25JmAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10 17:15:01",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-11 19:05:22.630127",
+      "internal_id": "804d4635129e5018f48150250cb9a40197cb0dfcca462b3276e5792951b38a61",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 255,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Cases Of Typhoid, Throat Infection Triples In Delhi Amid Incessant Rain",
+      "description": "Delhi recorded 153 mm of rain in 24 hours ending 8.30 am on Sunday, the highest in a single day in July since 1982.",
+      "url": "https://www.ndtv.com/india-news/cases-of-typhoid-throat-infection-triples-in-delhi-amid-incessant-rain-4195138",
+      "urlToImage": "https://c.ndtvimg.com/2023-07/9bq94o7_delhi-rain-pti_625x300_10_July_23.jpg",
+      "publishedAt": "2023-07-10 16:24:43",
+      "content": "Delhi recorded 107 mm of precipitation till 8.30 am on Monday (File) New Delhi: The incessant rainfall over the weekend has led to a spurt in typhoid and upper respiratory infection cases among peop\u2026 [+3190 chars]",
+      "retrievedAt": "2023-07-11 19:05:23.836610",
+      "internal_id": "ed587e74a8114aa3b3dfea522ce7f77f49a124d0db980150999aecf3a9f23cee",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 243,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "liberation",
+      "source_name": "Lib\u00e9ration",
+      "author": "Sarah Miansoni",
+      "title": "Au P\u00e9rou, urgence sanitaire face \u00e0 une flamb\u00e9e de cas de Guillain-Barr\u00e9",
+      "description": "Apr\u00e8s une \u00e9pid\u00e9mie de dengue, le P\u00e9rou conna\u00eet une recrudescence des cas de Guillain-Barr\u00e9, un syndrome neurologique pouvant entra\u00eener la mort dans les cas les plus graves. Le pays a adopt\u00e9 l\u2019\u00e9tat d\u2019urgence sanitaire pour trois mois.",
+      "url": "https://www.liberation.fr/international/amerique/au-perou-urgence-sanitaire-face-a-une-flambee-de-cas-de-guillain-barre-20230710_74CHWE4O4ZBWJEWFQUW5OVUIKE/",
+      "urlToImage": "https://www.liberation.fr/resizer/QzyH0Acbhbz2qJqtYW0GIqdEbmQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/MFFN3TQ5UFBNXBGWSGBTG2RPLA.jpg",
+      "publishedAt": "2023-07-10 15:55:18",
+      "content": "Apr\u00e8s la dengue, le P\u00e9rou nen a pas fini avec les probl\u00e8mes sanitaires. Le gouvernement p\u00e9ruvien a d\u00e9clar\u00e9 l\u00e9tat durgence sanitaire national pour faire face \u00e0 une \u00abaugmentation inhabituelle\u00bb des cas \u2026 [+3539 chars]",
+      "retrievedAt": "2023-07-11 19:05:21.736768",
+      "internal_id": "5d9a5a5c5800f9d920a5671463c1b17af4b55bd0a7325dcd3f1ae21fc62ad801",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 249,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Ajisafe Olayiwola",
+      "title": "FG eyes zero malaria prevalence by 2025",
+      "description": "The Federal Government on Monday launched the malaria modelling programme to achieve zero malaria prevalence in 2025. Speaking during the launch of the first cohort of malaria modelling fellows in Abuja, the National Coordinator of the National Malaria Elimin\u2026",
+      "url": "https://punchng.com/fg-eyes-zero-malaria-prevalence-by-2025/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/06/21234556/fg.jpeg",
+      "publishedAt": "2023-07-10 15:34:22",
+      "content": "The Federal Government on Monday launched the malaria modelling programme to achieve zero malaria prevalence in 2025. Speaking during the launch of the first cohort of malaria modelling fellows in A\u2026 [+2954 chars]",
+      "retrievedAt": "2023-07-11 19:05:22.638594",
+      "internal_id": "f1c672539f940a99d72e067a596905559d7a9211c8fa01416b55c4ea6e2bf368",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 248,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "As malaria cases tick up in Florida, a doctor treating patients describes their symptoms - NBC 6 South Florida",
+      "description": "As malaria cases tick up in Florida, a doctor treating patients describes their symptoms NBC 6 South Florida More cases of malaria are confirmed in Florida NBC News The Point, July 10, 2023: 6 cases of malaria in Sarasota County \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5uYmNtaWFtaS5jb20vbmV3cy9uYXRpb25hbC1pbnRlcm5hdGlvbmFsL2FzLW1hbGFyaWEtY2FzZXMtdGljay11cC1pbi1mbG9yaWRhLWEtZG9jdG9yLXRyZWF0aW5nLXBhdGllbnRzLWRlc2NyaWJlcy10aGVpci1zeW1wdG9tcy8zMDY4Mzc4L9IBmwFodHRwczovL3d3dy5uYmNtaWFtaS5jb20vbmV3cy9uYXRpb25hbC1pbnRlcm5hdGlvbmFsL2FzLW1hbGFyaWEtY2FzZXMtdGljay11cC1pbi1mbG9yaWRhLWEtZG9jdG9yLXRyZWF0aW5nLXBhdGllbnRzLWRlc2NyaWJlcy10aGVpci1zeW1wdG9tcy8zMDY4Mzc4Lz9hbXA9MQ?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10 15:33:25",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-11 19:05:22.635658",
+      "internal_id": "34586e6542163fd8a3dccdb408f33086fc85809c9feda0f780df4ae2fc47a72b",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 245,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Sunamganj and Habiganj are still dengue-free",
+      "description": "Although the rate of dengue is increasing day by day in the country, four districts of the country are still free from dengue. Out of the country\u2019s 64 districts, the four districts that are dengue-free so far are Gopalganj, Chuadanga, Sunamganj and Habiganj. \u2026",
+      "url": "https://sylhetmirror.com/2023/07/10/sunamganj-and-habiganj-are-still-dengue-free/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/xsdadf.jpg",
+      "publishedAt": "2023-07-10 14:06:33",
+      "content": "Although the rate of dengue is increasing day by day in the country, four districts of the country are still free from dengue. Out of the country\u2019s 64 districts, the four districts that are dengue-fr\u2026 [+2525 chars]",
+      "retrievedAt": "2023-07-11 19:05:21.745421",
+      "internal_id": "5e55cbdd1ba5072164a145d41c7d73936e417817b8e6ad44873b40522e73f830",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 253,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Malaria cases are on the rise in the US; here are symptoms to note and treatment procedure - Indiatimes.com",
+      "description": "Malaria cases are on the rise in the US; here are symptoms to note and treatment procedureIndiatimes.com As malaria cases tick up in Florida, a doctor treating patients describes their symptomsNBC 6 South Florida What Sarasota County is doing to control mosqu\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171350589",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10 13:52:35",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-11 19:05:22.651041",
+      "internal_id": "fa768e13e379d1a74c7ec32774a2deb9018da09a36a16cd0a866752db06591b2",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 251,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Monday, July 10, 2023",
+      "description": "Visit the post for more.",
+      "url": "https://kffhealthnews.org/morning-briefing/monday-july-10-2023/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/kffhealthnews-icon.png",
+      "publishedAt": "2023-07-10 12:22:55",
+      "content": "Florida Reports 2 More Cases Of Malaria, Bringing Total To 6 NBC News reports on the newest locally acquired Florida cases and the presenting symptoms of those who have contracted malaria. Also in t\u2026 [+5003 chars]",
+      "retrievedAt": "2023-07-11 19:05:22.646362",
+      "internal_id": "653807a710acda6851429423d6cc2dae9c273102f30df05c34c3daeeeb45a768",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 247,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Globalresearch.ca",
+      "author": "Jordan Schachtel",
+      "title": "The Weaponization of Mosquitos: WHO and Gates Inc Announce Plans to Flood Africa with Ultra Dangerous Malaria \u201cVaccines\u201d",
+      "description": "All Global Research articles can be read in 51 languages by activating the Translate Website button below the author\u2019s name. To receive Global Research\u2019s Daily Newsletter (selected articles), click here. Click the share button above to email/forward this arti\u2026",
+      "url": "https://www.globalresearch.ca/who-gates-inc-announce-plans-flood-africa-ultra-dangerous-malaria-vaccines/5825189",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2015/11/malaria.jpg",
+      "publishedAt": "2023-07-10 11:59:01",
+      "content": "All Global Research articles can be read in 51 languages by activating the Translate Website button below the authors name. To receive Global Researchs Daily Newsletter (selected articles), click he\u2026 [+3784 chars]",
+      "retrievedAt": "2023-07-11 19:05:22.633636",
+      "internal_id": "cbae8684f0589a056d8b7160695d6084126b88afcd49fb5b719ecb8a60a52f24",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 254,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ohmynews.com",
+      "author": "\uc720\ucc3d\uc7ac",
+      "title": "7\uc6d4 \uccab\uc8fc \uc5e0\ud3ed\uc2a4 \ud658\uc790 2\uba85 \ubc1c\uc0dd... \uace0\uc704\ud5d8\uad70 \uc608\ubc29\uc811\uc885 \uc801\uadf9 \uad8c\uace0",
+      "description": "\uc9c8\ubcd1\uad00\ub9ac\uccad \uc911\uc559\ubc29\uc5ed\ub300\ucc45\ubcf8\ubd80(\ubcf8\ubd80\uc7a5 \uc9c0\uc601\ubbf8, \uc774\ud558 \ubc29\ub300\ubcf8)\ub294 7\uc6d4 \uccab\uc9f8\uc8fc(3~9\uc77c)\uc5d0 \uad6d\ub0b4 \uc5e0\ud3ed\uc2a4(MPOX\u00b7\uc6d0\uc22d\uc774 \ub450\ucc3d) \ud658\uc790\uac00 2\uba85 \ubc1c\uc0dd\ud574 \ud604\uc7ac\uae4c\uc9c0 \ub204\uc801 119\uba85\uc774 \ub410\ub2e4\uace0 10\uc77c \ubc1d\ud614\ub2e4. \ubc29\ub300\ubcf8\uc5d0 \ub530\ub974\uba74, \ucd94\uac00 \ud655\uc9c4\ud658\uc790\ub294 \ub0b4\uad6d\uc778 1\uba85\uacfc \uc678\uad6d\uc778 1\uba85\uc73c\ub85c \ubaa8\ub450 \ub0a8\uc131\uc774\ub2e4. \uc8fc\uac04 \uc5e0\ud3ed\uc2a4 \uc2e0\uaddc \ud658\uc790 \uc218\ub294 4\uc6d4 \ub137\uc9f8\uc8fc\uc640 5\uc6d4 \uccab\uc9f8\uc8fc \uac01\uac01 16\uba85\uae4c\uc9c0 \ub298\uc5c8\uc9c0\ub9cc, 6\uc6d4 \uccab\uc9f8\uc8fc\ubd80\ud130 \ud55c \uc790\ub9bf\uc218\ub97c \uc720\uc9c0\ud558\uace0 \uc788\ub2e4. \ud2b9\ud788 7\uc6d4 \ubcf8\uaca9\uc801\uc778 \uc5ec\ub984 \ud734\uac00\ucca0\uc744 \uc55e\ub450\uace0 \ubc29\uc5ed\uc218\uce59 \uc900\uc218\uc640 \uc801\uadf9\uc801\uc778\u2026",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002943685",
+      "urlToImage": "https://ojsfile.ohmynews.com/BIG_IMG_FILE/2022/0627/IE003011584_BIG.jpg",
+      "publishedAt": "2023-07-10 10:47:25",
+      "content": " (MPOX\u00b7 ) . 6 23 2 ' ' . ( , ) 7 (3~9) (MPOX\u00b7 ) 2 119 10 ., 1 1 . 4 5 16 , 6 . 7 . \" \" \" \" . 23( 232) , 6 48( 92) \u2026 [+56 chars]",
+      "retrievedAt": "2023-07-11 19:05:23.598128",
+      "internal_id": "93deb8a0cd23700796d698dbc302352724e841e9b79fb6df91bd87466fc2f0f9",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 241,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": "",
+      "title": "Campagna antirabbica a Bali, Indonesia",
+      "description": "epa10736963 A veterinarian injects a dog with anti-rabies vaccine during a pet vaccination program in Denpasar, Bali, Indonesia, 10 July 2023. (ANSA)",
+      "url": "https://www.ansa.it/sito/photogallery/primopiano/2023/07/10/campagna-antirabbica-a-bali-indonesia_f3a33017-fc1f-4405-8b23-7d8df42365bf.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_900x700/2023/7/10/6ff10e9d029eafaca7ba27bf401a657a.jpg",
+      "publishedAt": "2023-07-10 10:08:01",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2023-07-11 19:05:21.178537",
+      "internal_id": "468f2495276782da5ceedbdfd46d272db5849b4792de7978eb21abf2615ffcc8",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 242,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh: 6 New Deaths Due to Dengue and 836 New Infections - teleSUR English",
+      "description": "Bangladesh: 6 New Deaths Due to Dengue and 836 New Infections teleSUR English Thailand News | Dengue Outbreak Challenges Thai Healthcare The Thaiger Dengue outbreak: Triple surge in cases challenges Thai healthcare system in firs\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRlbGVzdXJlbmdsaXNoLm5ldC9uZXdzL0JhbmdsYWRlc2gtNi1OZXctRGVhdGhzLUR1ZS10by1EZW5ndWUtYW5kLTgzNi1OZXctSW5mZWN0aW9ucy0yMDIzMDcxMC0wMDA0Lmh0bWzSAXdodHRwczovL3d3dy50ZWxlc3VyZW5nbGlzaC5uZXQvYW1wL25ld3MvQmFuZ2xhZGVzaC02LU5ldy1EZWF0aHMtRHVlLXRvLURlbmd1ZS1hbmQtODM2LU5ldy1JbmZlY3Rpb25zLTIwMjMwNzEwLTAwMDQuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10 08:31:11",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-11 19:05:21.733032",
+      "internal_id": "14fec78b459232b616d873f2da0ac91874b87d6a148dfdd4e549348e33a07640",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 250,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Paul Starzmann",
+      "title": "Good News aus aller Welt: Vier Nachrichten, die uns diese Woche gl\u00fccklich gemacht haben",
+      "description": "Neuseeland verbietet Plastikt\u00fcten, ein neuer Malaria-Impfstoff gibt Hoffnung und Parkinson k\u00f6nnte durch neue Technologie besser verstanden werden.",
+      "url": "https://www.tagesspiegel.de/internationales/good-news-aus-aller-welt-vier-nachrichten-die-uns-diese-woche-glucklich-gemacht-haben-10112413.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/umsatz-im-einzelhandel/alternates/BASE_16_9_W1400/umsatz-im-einzelhandel.jpeg",
+      "publishedAt": "2023-07-10 08:01:22",
+      "content": "Neuseeland: Plastikt\u00fctenverbot ab sofort Plastikt\u00fcten sind praktisch, aber k\u00f6nnen der Umwelt schwere Sch\u00e4den zuf\u00fcgen. Unsachgem\u00e4\u00df entsorgt k\u00f6nnen sie Abfl\u00fcsse verstopfen, die Landschaft verschmutze\u2026 [+7106 chars]",
+      "retrievedAt": "2023-07-11 19:05:22.641529",
+      "internal_id": "b198a1a73b3e5a9a8b3c8e3cc5b67381bdbd639d2cd88f9b2741fda740b22f8c",
+      "publishedAtLabel": "Jul 10"
+    },
     {
       "id": 228,
       "query": [
@@ -3341,280 +3611,6 @@
       "retrievedAt": "2023-07-05 07:06:03.323819",
       "internal_id": "085c70c685475a3587420f899693772eeef7e0d0798434ded482adb180e5183d",
       "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 51,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Elperiodico.com",
-      "author": "El Peri\u00f3dico",
-      "title": "Plaga de mosquitos en Barcelona y resto de Catalunya: variedades y c\u00f3mo evitarlos",
-      "description": "Al mismo tiempo que las cucarachas, la plaga de mosquitos es una de las m\u00e1s presentes en Espa\u00f1a y en el resto de Europa. Adem\u00e1s de las molestias y el escozor que provocan sus picaduras, son vectores de graves enfermedades como la malaria, el dengue, el virus \u2026",
-      "url": "https://www.elperiodico.com/es/sociedad/20230704/plaga-mosquitos-barcelona-resto-catalunya-verano-dv-88922892",
-      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/625c31a5-d780-4775-965d-b6a28fc4e4fb_16-9-discover-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-07-04 06:40:00",
-      "content": "Al mismo tiempo que las cucarachas, la plaga de mosquitos es una de las m\u00e1s presentes en Espa\u00f1a y en el resto de Europa. Adem\u00e1s de las molestias y el escozor que provocan sus picaduras, son vectores \u2026 [+5167 chars]",
-      "retrievedAt": "2023-07-05 07:06:03.326236",
-      "internal_id": "ef2272989d38d94617e34513ff6b98e423517368fdda6609e0bf779b2e37732b",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 54,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "First cases of malaria transmitted in U.S. in decades prompt concerns - PBS NewsHour",
-      "description": "First cases of malaria transmitted in U.S. in decades prompt concernsPBS NewsHour Mosquito bite protection tips due to malaria in Sarasota CountyWink News As US Warns Of Malaria, Hawaii Releases Mosquitoes - Beat of HawaiiBeat of Hawaii A Rare Domestic Resurg\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171303688",
-      "urlToImage": null,
-      "publishedAt": "2023-07-04 05:32:10",
-      "content": "When someone says \"I want a programming language in which I need only\r\nsay what I wish done,\" give him a lollipop.",
-      "retrievedAt": "2023-07-05 07:06:03.995619",
-      "internal_id": "ffdfd3516b31c82b4d189887e879446dde9f8eb757c3b8e4fa0e403fa258fc73",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 123,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Pune: Waterlogging Outside Rosary School in Viman Nagar Raises Dengue Concerns for Children, Residents Demand Action From PMC - Punekar News",
-      "description": "Pune: Waterlogging Outside Rosary School in Viman Nagar Raises Dengue Concerns for Children, Residents Demand Action From PMC Punekar News Mosquito-borne diseases up amid unusual weather pattern in Pune Indiatimes.com View Full c\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5wdW5la2FybmV3cy5pbi9wdW5lLXdhdGVybG9nZ2luZy1vdXRzaWRlLXJvc2FyeS1zY2hvb2wtaW4tdmltYW4tbmFnYXItcmFpc2VzLWRlbmd1ZS1jb25jZXJucy1mb3ItY2hpbGRyZW4tcmVzaWRlbnRzLWRlbWFuZC1hY3Rpb24tZnJvbS1wbWMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-04 03:50:52",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-07 07:05:41.833915",
-      "internal_id": "836b45abc0b4597d145901180fe21feff7c9205dca0d1e2a142dc53a10f75e2c",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 55,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Mosquito bite protection tips due to malaria in Sarasota County - Wink News",
-      "description": "Mosquito bite protection tips due to malaria in Sarasota CountyWink News First cases of malaria transmitted in U.S. in decades prompt concernsPBS NewsHour As US Warns Of Malaria, Hawaii Releases Mosquitoes - Beat of HawaiiBeat of Hawaii A Rare Domestic Resurg\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171303148",
-      "urlToImage": null,
-      "publishedAt": "2023-07-04 03:12:04",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-05 07:06:03.998773",
-      "internal_id": "94d3d64af58045f9ea9bee0b341b334e58eac818cb6012f969d8e7211c4f6e7e",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 52,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Times Of India",
-      "title": "Latest news updates from Maharashtra",
-      "description": "Even as the city registered a huge spurt in cases of dengue, malaria and influenza H1N1 in June this year compared to June 2022, one man succumbed to complications of a suspected leptospirosis infection. Civic officials said the death committee would analyse \u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-maharashtra-thane-palghar-pune-navi-mumbai-flu-covid-cases-rain-eknath-shinde-uddhav-thackeray-devendra-fadnavis-news-live-updates-4-july-2023/liveblog/101472185.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-101472185,width-1070,height-580,imgsize-18634,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-07-04 02:59:06",
-      "content": "3 workers injured as fire breaks out in factory in Boisar\r\nThree workers sustained around 50% burn injuries after a fire broke out in a pharmaceutical and agro chemicals manufacturing factory in Tara\u2026 [+4619 chars]",
-      "retrievedAt": "2023-07-05 07:06:03.329802",
-      "internal_id": "c76308dc503b0df953ced4494a6b4d46b54058322821f0b889f3a9c1ccf13036",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 49,
-      "query": [
-        "dengue",
-        "malaria",
-        "chikungunya"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue figures cross combined tally of malaria, chikungunya - Indiatimes.com",
-      "description": "Dengue figures cross combined tally of malaria, chikungunya Indiatimes.com",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifmh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvYWhtZWRhYmFkL2Rlbmd1ZS1maWd1cmVzLWNyb3NzLWNvbWJpbmVkLXRhbGx5LW9mLW1hbGFyaWEtY2hpa3VuZ3VueWEvYXJ0aWNsZXNob3cvMTAxNDcxOTQzLmNtc9IBggFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L2FobWVkYWJhZC9kZW5ndWUtZmlndXJlcy1jcm9zcy1jb21iaW5lZC10YWxseS1vZi1tYWxhcmlhLWNoaWt1bmd1bnlhL2FtcF9hcnRpY2xlc2hvdy8xMDE0NzE5NDMuY21z?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-04 02:53:00",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-05 07:06:03.320347",
-      "internal_id": "06c27e53106766ded688214d7c8130067a2251ccbd72f81a0214c16d38427b5d",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 47,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Admin",
-      "title": "Health Dept. issues malaria advisory",
-      "description": "In the wake of four cases of malaria in Sarasota County, the Florida Department of Health (FDOH) has issued a \u201cstatewide mosquito-borne illness advisory\u201d for the...",
-      "url": "https://www.newsbreak.com/florida-state/3078416948399-health-dept-issues-malaria-advisory",
-      "urlToImage": "https://img.particlenews.com/img/id/1FNFfB_0nEtJGKi00?type=thumbnail_1600x1200",
-      "publishedAt": "2023-07-03 23:43:29",
-      "content": "Local Florida State\r\nMost Popular\r\n\u00a9 2023 Particle Media.",
-      "retrievedAt": "2023-07-05 00:25:00.176659",
-      "internal_id": "6918287ed06332955fe2088801e91a2ed38938e48996b954e94c3f83887b46bd",
-      "publishedAtLabel": "Jul 3"
-    },
-    {
-      "id": 28,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Cases of malaria transmitted in U.S. prompt concerns - PBS NewsHour",
-      "description": "Cases of malaria transmitted in U.S. prompt concerns PBS NewsHour A Rare Domestic Resurgence of Malaria Is Circulating in the US WIRED Mosquito bite protection tips due to malaria in Sarasota County Wink News As US War\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvc2hvdy9maXJzdC1jYXNlcy1vZi1tYWxhcmlhLXRyYW5zbWl0dGVkLWluLXUtcy1pbi1kZWNhZGVzLXByb21wdC1jb25jZXJuc9IBamh0dHBzOi8vd3d3LnBicy5vcmcvbmV3c2hvdXIvYW1wL3Nob3cvZmlyc3QtY2FzZXMtb2YtbWFsYXJpYS10cmFuc21pdHRlZC1pbi11LXMtaW4tZGVjYWRlcy1wcm9tcHQtY29uY2VybnM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-03 22:30:25",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.143452",
-      "internal_id": "3970f3c009e6b399c9c8d69fe8b3a18e864fd1855759cdffb45bff665600c659",
-      "publishedAtLabel": "Jul 3"
-    },
-    {
-      "id": 41,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "PBS",
-      "author": "William Brangham, Dorothy Hastings",
-      "title": "First cases of malaria transmitted in U.S. in decades prompt concerns",
-      "description": "For the first time in 20 years, malaria has been locally transmitted within the U.S. The Centers for Disease Control and Prevention has identified five cases, four in Florida and one in Texas. William Brangham spoke with infectious disease epidemiologist Cath\u2026",
-      "url": "https://www.pbs.org/newshour/show/first-cases-of-malaria-transmitted-in-u-s-in-decades-prompt-concerns",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/07/malaria-1024x685.jpg",
-      "publishedAt": "2023-07-03 22:30:25",
-      "content": "For the first time in 20 years, malaria has been locally transmitted within the U.S. The Centers for Disease Control and Prevention has identified five cases, four in Florida and one in Texas. Willia\u2026 [+122 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.166453",
-      "internal_id": "b37b93e3286b0557028fd89d899a0c95c9b177f8c534c1ef2288bef5c4bb2d9f",
-      "publishedAtLabel": "Jul 3"
-    },
-    {
-      "id": 27,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Mosquito bite protection tips due to malaria in Sarasota County - Wink News",
-      "description": "Mosquito bite protection tips due to malaria in Sarasota County Wink News First cases of malaria transmitted in U.S. in decades prompt concerns PBS NewsHour As US Warns Of Malaria, Hawaii Releases Mosquitoes - Beat of Hawaii Bea\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd2lua25ld3MuY29tLzIwMjMvMDcvMDMvbWFsYXJpYS1tb3NxdWl0b3MtYml0ZXMtc291dGh3ZXN0LWZsb3JpZGEv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-03 22:20:42",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.142031",
-      "internal_id": "22d7f3ebcb9e73459da72d0b778930134b36e95b379e52116b465aed6a64242e",
-      "publishedAtLabel": "Jul 3"
-    },
-    {
-      "id": 1,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Bobcat that attacked camp counselor at state park tests positive for rabies: DEEP - NBC Connecticut",
-      "description": "Bobcat that attacked camp counselor at state park tests positive for rabies: DEEPNBC Connecticut Bobcat attacks Connecticut camp counselor who was sleepingNBC News Rabid bobcat attacks Connecticut camp counselors at Selden Neck ParkUSA TODAY Bobcat that attac\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171301590",
-      "urlToImage": null,
-      "publishedAt": "2023-07-03 20:32:59",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-05 00:24:58.857372",
-      "internal_id": "60b358964bb49dcdf32394015523aff0759e89ba300dacb408026652740abf6b",
-      "publishedAtLabel": "Jul 3"
-    },
-    {
-      "id": 10,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Simone Blanes",
-      "title": "Saiba por que a vacina da dengue deve demorar para chegar ao SUS",
-      "description": "Imunizante precisa passar por an\u00e1lise da Conitec, antes de ser incorporada ao SUS. Na rede privada j\u00e1 est\u00e1 dispon\u00edvel por mais de R$ 300 a dose",
-      "url": "https://veja.abril.com.br/saude/saiba-por-que-a-vacina-da-dengue-deve-demorar-para-chegar-ao-sus",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/07/takeda.webp?w=680&h=453&crop=1",
-      "publishedAt": "2023-07-03 20:09:54",
-      "content": "A Qdenga, nova vacina contra a dengue, come\u00e7ou a ser aplicada este m\u00eas no Brasil em cl\u00ednicas e laborat\u00f3rios privados. Aprovada pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) desde mar\u00e7o, por\u00e9\u2026 [+4995 chars]",
-      "retrievedAt": "2023-07-05 00:24:59.326039",
-      "internal_id": "70c3686339fffa8029a02504b8c4ebe74b1e2081ddbcb449feb5fbde6c68156a",
-      "publishedAtLabel": "Jul 3"
-    },
-    {
-      "id": 37,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Science X",
-      "title": "Understanding the regulation of apicoplast gene expression in the malaria parasite",
-      "description": "Gene expression within the apicoplast, an organelle in the malaria parasite Plasmodium falciparum, is regulated by melatonin (the circadian signaling hormone) in host blood and intrinsic parasite cues, via a factor called ApSigma, as identified by a recent st\u2026",
-      "url": "https://phys.org/news/2023-07-apicoplast-gene-malaria-parasite.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/understanding-the-regu.jpg",
-      "publishedAt": "2023-07-03 19:00:02",
-      "content": "Gene expression within the apicoplast, an organelle in the malaria parasite Plasmodium falciparum, is regulated by melatonin (the circadian signaling hormone) in host blood and intrinsic parasite cue\u2026 [+4808 chars]",
-      "retrievedAt": "2023-07-05 00:25:00.159786",
-      "internal_id": "cca6d53aeae34300ac18b53548d6572e07cb2aa0f717ef0b221edb96831e3340",
-      "publishedAtLabel": "Jul 3"
-    },
-    {
-      "id": 18,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Akshay Syal, M.D.",
-      "title": "Some patients in fungal meningitis outbreak have surprising complications, doctors say",
-      "description": "Fungal meningitis infections associated with two cosmetic clinics in Mexico are causing surprising complications in some patients, doctors in Texas say.",
-      "url": "https://www.nbcnews.com/health/health-news/fungal-meningitis-outbreak-patients-surprising-complications-rcna92327",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230612-medical-clinic-mexico-fungal-meningitis-al-1411-94a529.jpg",
-      "publishedAt": "2023-07-03 18:49:08",
-      "content": "As public health officials continue to plead with people who may have been exposed to fungal meningitis at two cosmetic clinics in Mexico to get tested, doctors in a small Texas county are noticing a\u2026 [+4478 chars]",
-      "retrievedAt": "2023-07-05 00:24:59.680692",
-      "internal_id": "c322c2c3d07c0303c8d9199bc3638dd8efe75875a1041d33b71236e7e4299958",
-      "publishedAtLabel": "Jul 3"
-    },
-    {
-      "id": 11,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Dengue: Sa\u00fade prioriza produto nacional e vacina pode ficar para 2025",
-      "description": "Minist\u00e9rio da Sa\u00fade prioriza um imunizante desenvolvido pelo Instituto Butantan; vacina QDenga, por\u00e9m, j\u00e1 est\u00e1 dispon\u00edvel em cl\u00ednicas particulares",
-      "url": "https://saude.ig.com.br/2023-07-03/dengue-ministerio-da-saude-prioriza-produto-nacional-e-vacina-pode-ficar-para-2025.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2023-07-03 18:30:00",
-      "content": "A nova vacina contra a dengue \r\nter\u00e1 disponibilidade mais lenta no Sistema \u00danico de Sa\u00fade (SUS) em compara\u00e7\u00e3o com as farm\u00e1cias e cl\u00ednicas privadas de vacina\u00e7\u00e3o. Apesar da autoriza\u00e7\u00e3o da Ag\u00eancia Nacio\u2026 [+2446 chars]",
-      "retrievedAt": "2023-07-05 00:24:59.328081",
-      "internal_id": "a5a83317020af9f5e8b4f4d1995a9f613e3fb308cd5be8f1e40f55d1ee8ec3a0",
-      "publishedAtLabel": "Jul 3"
     }
   ]
 }
