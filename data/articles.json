@@ -1,8 +1,303 @@
 {
-  "last_updated": "2023-07-11 19:05",
-  "count_articles_total": 251,
-  "count_articles_new": 15,
+  "last_updated": "2023-07-12 07:05",
+  "count_articles_total": 267,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 260,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Moustique-tigre : la situation \u00e9pid\u00e9miologique de la dengue en France m\u00e9tropolitaine a \u00e9t\u00e9 \"exceptionnelle en 2022\"",
+      "description": "Le moustique Aedes albopictus, implant\u00e9 en France m\u00e9tropolitaine depuis 2004, n'a cess\u00e9 de s'\u00e9tendre sur le territoire, selon une \u00e9tude de Sant\u00e9 publique France.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/le-virus-zika/moustique-tigre-la-situation-epidemiologique-de-la-dengue-en-france-metropolitaine-a-ete-exceptionnelle-en-2022_5943677.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/0SNtN2FyCEm0zP8YHBoxA0TEUus/1500x843/2023/07/11/64acf6d8db740_080-hl-slapeyrere-1154235.jpg",
+      "publishedAt": "2023-07-11 06:31:09",
+      "content": "Le moustique-tigre fait de plus en plus de d\u00e9gats en France. En 2022, avec 378 cas import\u00e9s de dengue, 23 de chikungunya et six de Zika, la situation a \u00e9t\u00e9 \"exceptionnelle\" en France m\u00e9tropolitaine, \u2026 [+2459 chars]",
+      "retrievedAt": "2023-07-12 07:05:56.860279",
+      "internal_id": "0b4ba8e0c96b74755c98c69efca5b5e3f63947c7586097e4b75682ed9fcb12fc",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 265,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Bangladesh reeling from record case counts of dengue fever",
+      "description": "DHAKA, July 11 (Xinhua) -- Bangladesh Monday reported three new dengue deaths and 889 new patients i",
+      "url": "http://en.people.cn/n3/2023/0711/c90000-20042505.html",
+      "urlToImage": null,
+      "publishedAt": "2023-07-11 06:22:11",
+      "content": "DHAKA, July 11 (Xinhua) -- Bangladesh Monday reported three new dengue deaths and 889 new patients in just one day, which is the country's biggest one-day tally since January this year. The highest \u2026 [+480 chars]",
+      "retrievedAt": "2023-07-12 07:05:56.871429",
+      "internal_id": "4074afd0bb153965fc4b8d6e80836ae3c2909b9831208837e5c2e8d79f50fb77",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 262,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Dengue, chikungunya et Zika : toujours plus de cas en France",
+      "description": "Le moustique-tigre continue de s'\u00e9tendre sur le territoire. Et avec lui, les arbovirus qu\u2019il peut propager : dengue, chikungunya et Zika.",
+      "url": "https://www.ledauphine.com/sante/2023/07/11/dengue-chikungunya-et-zika-toujours-plus-de-cas-en-france",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/9A038CFF-1C07-4974-9B82-D477503B9D29/FB1200/photo-1689056513.jpg",
+      "publishedAt": "2023-07-11 06:22:00",
+      "content": "En 2022, avec 378 cas import\u00e9s de dengue, 23 de chikungunya et six de Zika, la situation a \u00e9t\u00e9 \u00ab exceptionnelle \u00bb en France m\u00e9tropolitaine, souligne mardi une \u00e9tude de Sant\u00e9 publique France (SpF), qu\u2026 [+2458 chars]",
+      "retrievedAt": "2023-07-12 07:05:56.863814",
+      "internal_id": "62d7256ee522295688a4539a31c3c59d03f2f9b7805c9d46bad94349a6ac7eef",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 256,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Campagna antirabbica a Bali, Indonesia",
+      "description": "epa10736963 A veterinarian injects a dog with anti-rabies vaccine during a pet vaccination program in Denpasar, Bali, Indonesia, 10 July 2023. (ANSA)",
+      "url": "https://www.ansa.it/sito/photogallery/primopiano/2023/07/10/campagna-antirabbica-a-bali-indonesia_8484c740-2d2a-4d87-998b-65ef23265fc2.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/7/10/6ff10e9d029eafaca7ba27bf401a657a.jpg",
+      "publishedAt": "2023-07-11 04:35:21",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2023-07-12 07:05:56.139407",
+      "internal_id": "709c4063287c7313aa042efb83258ac045bd6ee3cca2e9eed824655632f06d94",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 261,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Advanced Age and Increased Risk for Severe Outcomes of Dengue Infection, Taiwan, 2014\u20132015",
+      "description": "Advanced Age and Increased Risk for Severe Outcomes of Dengue Infection, Taiwan, 2014\u20132015",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/8/23-0014_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-07-11 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue is an Aedes aegypti\u2026 [+5556 chars]",
+      "retrievedAt": "2023-07-12 07:05:56.861986",
+      "internal_id": "76d17e84461c3f16cf06b6c8e3b0a454506b183320c5c90aebeab4fd1c150b8d",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 269,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Fatal Meningitis from Shiga Toxin\u2013Producing Escherichia coli in 2 Full-Term Neonates, France",
+      "description": "Fatal Meningitis from Shiga Toxin\u2013Producing Escherichia coli in 2 Full-Term Neonates, France",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/8/23-0169_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-07-11 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Escherichia coli can acqui\u2026 [+6200 chars]",
+      "retrievedAt": "2023-07-12 07:05:57.274629",
+      "internal_id": "77479f5168cb7a9e158aa98cdedbddf97a4b7c08ad8293f5ecf8bcb7a84567c2",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 264,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u092e\u0949\u0928\u0938\u0942\u0928 \u0915\u0947 \u0938\u093e\u0925 \u0939\u0940 \u092c\u0922\u093c\u093e \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0916\u0924\u0930\u093e! \u092f\u0947 \u0930\u0939\u0947 \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u0947 \u0924\u0930\u0940\u0915\u0947",
+      "description": "Dengue Fever: \u0921\u0947\u0902\u0917\u0942 \u0939\u094b\u0928\u0947 \u092a\u0930 \u0924\u0947\u091c \u092c\u0941\u0916\u093e\u0930, \u0938\u093f\u0930\u0926\u0930\u094d\u0926, \u092e\u093e\u0902\u0938\u092a\u0947\u0936\u093f\u092f\u094b\u0902 \u0914\u0930 \u091c\u094b\u0921\u093c\u094b\u0902 \u092e\u0947\u0902 \u0926\u0930\u094d\u0926 \u0939\u094b\u0928\u0947 \u0932\u0917\u0924\u093e \u0939\u0948. \u0921\u0947\u0902\u0917\u0942 \u092e\u0947\u0902 \u0936\u0930\u0940\u0930 \u0915\u0940 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938 \u0924\u0947\u091c\u0940 \u0938\u0947 \u0917\u093f\u0930\u0928\u0947 \u0932\u0917\u0924\u0940 \u0939\u0948\u0902. \u0907\u0938\u092e\u0947\u0902 \u092e\u0930\u0940\u091c \u0915\u094b \u0924\u0941\u0930\u0902\u0924 \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u092d\u0930\u094d\u0924\u0940 \u0915\u0930\u0928\u0947 \u0915\u0940 \u091c\u0930\u0942\u0930\u0924 \u0939\u094b\u0924\u0940 \u0939\u0948, \u0935\u0930\u0928\u093e \u0938\u092e\u092f \u092a\u0930 \u0907\u0932\u093e\u091c \u0928\u093e \u092e\u093f\u0932\u0928\u0947 \u0915\u0947 \u0915\u093e\u0930\u0923 \u092e\u0930\u0940\u091c \u0915\u0940 \u091c\u093e\u0928 \u092d\u0940 \u091c\u093e \u2026",
+      "url": "https://www.aajtak.in/lifestyle/news/story/dengue-fever-ways-to-protect-your-in-monsoon-know-symtoms-diagnosis-treatment-and-prevention-tlifm-1733169-2023-07-11",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202307/1_4-sixteen_nine.jpg",
+      "publishedAt": "2023-07-11 03:37:03",
+      "content": "Dengue Fever: . . . , . . , , , . , (Dengue hemorrhagic fever) . 1. . . . 2. . . DEET, , . 3. , , . . 4. , . . , . 5. . . 6. , . .",
+      "retrievedAt": "2023-07-12 07:05:56.868403",
+      "internal_id": "6bf43c7d091b40f62af87c99c6b7b6a9a9bbcd53e137f9a19b8bc544d5db0ccd",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 266,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "\u0986\u09b9\u09b8\u09be\u09a8 \u09b9\u09be\u09ac\u09c0\u09ac",
+      "title": "\u09a6\u09c7\u09b6\u09c7 \u09af\u09c7 \u09e7\u09e9 \u09ac\u09cd\u09af\u09be\u0982\u0995\u09c7\u09b0 \u0996\u09c7\u09b2\u09be\u09aa\u09bf \u098b\u09a3 \u09b8\u09ac\u099a\u09c7\u09af\u09bc\u09c7 \u0995\u09ae",
+      "description": "\u098f\u0987 \u09e7\u09e9 \u09ac\u09cd\u09af\u09be\u0982\u0995 \u09ad\u09be\u09b2\u09cb \u0995\u09b0\u09cd\u09aa\u09cb\u09b0\u09c7\u099f \u0997\u09ad\u09b0\u09cd\u09a8\u09c7\u09a8\u09cd\u09b8 \u0993 \u09ac\u09cd\u09af\u09be\u0982\u0995\u09bf\u0982 \u0995\u09be\u09b0\u09cd\u09af\u0995\u09cd\u09b0\u09ae\u09c7 \u09af\u09a5\u09be\u09af\u09a5 \u09aa\u09cd\u09b0\u099a\u09c7\u09b7\u09cd\u099f\u09be\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7 \u09ac\u09cd\u09af\u09be\u0982\u0995\u09bf\u0982 \u09b8\u09c7\u0995\u09cd\u099f\u09b0\u09c7 \u098b\u09a3 \u0996\u09c7\u09b2\u09be\u09aa\u09bf\u09b0 \u0985\u09a8\u09c1\u09aa\u09be\u09a4\u0995\u09c7 \u09e7\u09e6 \u09b6\u09a4\u09be\u0982\u09b6\u09c7\u09b0 \u09a8\u09bf\u099a\u09c7 \u09a4\u09a5\u09be \u09ee \u09b6\u09a4\u09be\u0982\u09b6\u09c7 \u09b0\u09be\u0996\u09a4\u09c7 \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3 \u09ad\u09c2\u09ae\u09bf\u0995\u09be \u09b0\u09c7\u0996\u09c7\u099b\u09c7\u0964",
+      "url": "https://bangla.thedailystar.net/business/news-495356",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/11/byaank.jpg?itok=4codqiTI",
+      "publishedAt": "2023-07-11 03:14:16",
+      "content": "The capitals Mugda Medical College Hospital has been struggling to cope with the steep rise in the number of dengue patients over the last few weeks.",
+      "retrievedAt": "2023-07-12 07:05:56.873708",
+      "internal_id": "23ed54dc05085f606e09a0c19d210b9a95250548e636db573b367bad0ed48909",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 271,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Two more malaria cases found in Florida; Doctor explains symptoms and treatment - MSNBC",
+      "description": "Two more malaria cases found in Florida; Doctor explains symptoms and treatmentMSNBC The Point, July 10, 2023: 6 cases of malaria in Sarasota CountyWUFT More cases of malaria are confirmed in FloridaNBC News Sarasota County, with 6 malaria cases, sprays for m\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171355887",
+      "urlToImage": null,
+      "publishedAt": "2023-07-11 03:12:10",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-12 07:05:57.599203",
+      "internal_id": "2d8b3366628cfb269d98a9b1de332d8f7f4b9a8ed64415e904b8d6bfef41f400",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 268,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Peoplesreview.com.np",
+      "author": "peoples_12ad",
+      "title": "\u2018Dengue may take form of pandemic this time too\u2019",
+      "description": "Kathmandu, 11 July: With 1,192 cases of dengue and one fatality from the viral infection recorded in the past four months, experts have suggested one and all to remain safe from it and prevent its further spread. At an interaction organized by the Ministr\u2026",
+      "url": "https://www.peoplesreview.com.np/2023/07/11/dengue-may-take-form-of-pandemic-this-time-too/",
+      "urlToImage": "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2022/10/Dengue.jpg?fit=300%2C168&ssl=1",
+      "publishedAt": "2023-07-11 01:06:31",
+      "content": "Editor-in-Chief: Pushpa Raj Pradhan Consultant Editor Emeritus: Mana Ranjan Josse Contributing Editor: Prof Dr Shashi P.B.B. Malla Guest Editor: Yug Bahadur Managing Editor: Sushma Shrestha Chie\u2026 [+420 chars]",
+      "retrievedAt": "2023-07-12 07:05:56.877947",
+      "internal_id": "f0a35653d903855790e87ec6f028ea3c17ea8ad3ff918bde38ef96918f155b9b",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 263,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Source AFP",
+      "title": "Dengue : avec 378 cas import\u00e9s en 2022, une situation \u00ab exceptionnelle \u00bb en France",
+      "description": "Sante publique France s'inquiete de la viabilite du dispositif de surveillance actuel apres un pic de contaminations liees au moustique-tigre en metropole.",
+      "url": "https://www.lepoint.fr/sante/dengue-avec-378-cas-importes-en-2022-une-situation-exceptionnelle-en-france-11-07-2023-2527968_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2023/07/11/24735511lpw-24735513-article-jpg_9644804_540x282.jpg",
+      "publishedAt": "2023-07-11 00:40:00",
+      "content": "Avec 378 cas import\u00e9s de dengue, 23 de chikungunya et six de Zika, l'ann\u00e9e 2022 a \u00e9t\u00e9 \u00ab exceptionnelle \u00bb en France m\u00e9tropolitaine, signale une \u00e9tude de Sant\u00e9 publique France publi\u00e9e mardi 11 juillet.\u2026 [+2428 chars]",
+      "retrievedAt": "2023-07-12 07:05:56.865733",
+      "internal_id": "3d05d7eddf27515288ce8514f68c6c27772205a4256462f9adfb04f158dae822",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 267,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Over 1,192 people infected with dengue in past four months",
+      "description": "KATHMANDU: A total of 1,192 people have been infected with dengue in the last four months. However, many of the cases could have gone unrecorded and unreported to the Ministry of Health and Population. The statistic does not include those without symptoms and\u2026",
+      "url": "https://english.khabarhub.com/2023/11/310349/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-07-11 00:15:01",
+      "content": "KATHMANDU: A total of 1,192 people have been infected with dengue in the last four months. However, many of the cases could have gone unrecorded and unreported to the Ministry of Health and Populati\u2026 [+1306 chars]",
+      "retrievedAt": "2023-07-12 07:05:56.876200",
+      "internal_id": "bced207130f4d4160c8d406702f3c7b1232b18a2e680628f3a4c6424443f2d65",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 257,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Matthew Binnicker, Contributor, \n Matthew Binnicker, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/matthewbinnicker/",
+      "title": "Climate Change Bringing More Than Heat \u2014 Malaria And Dengue On The Rise",
+      "description": "As Americans gathered for Fourth of July celebrations this past week, many had to endure sweltering heat as the planet hit an unofficial record for the highest tempera...",
+      "url": "https://www.forbes.com/sites/matthewbinnicker/2023/07/10/climate-change-bringing-more-than-heat---malaria-and-dengue-on-the-rise/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64ac3b9a7d3310d3d8edfb01/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-07-10 23:43:55",
+      "content": "As Americans gathered for Fourth of July celebrations this past week, many had to endure sweltering heat as the planet hit an unofficial record for the highest temperature in recorded history, a reco\u2026 [+5044 chars]",
+      "retrievedAt": "2023-07-12 07:05:56.853532",
+      "internal_id": "6f25344216cfde4a06b668caf43162ab7010179ac4524953817113b658aba64b",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 259,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Apinya Wipatayotin",
+      "title": "DDC warns of grim year for dengue",
+      "description": "Thailand is currently facing what many experts predict will become a severe dengue fever outbreak, with up to 150,000 infections a possibility by the end of the year, according to the Department of Disease Control (DDC).",
+      "url": "https://www.bangkokpost.com/thailand/general/2609493/ddc-warns-of-grim-year-for-dengue",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20230711/c1_2609493_230711065558_700.jpg",
+      "publishedAt": "2023-07-10 21:53:00",
+      "content": "Thailand is currently facing what many experts predict will become a severe dengue fever outbreak, with up to 150,000 infections a possibility by the end of the year, according to the Department of D\u2026 [+2056 chars]",
+      "retrievedAt": "2023-07-12 07:05:56.858331",
+      "internal_id": "e695e925abb9d2f80a5e1aef2c93122c3664afa2c2d692b4b668ad77927aa948",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 270,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Clare Wilson",
+      "title": "Mosquitoes made immune to malaria could help stamp out the disease",
+      "description": "A gene-editing technique makes mosquitoes produce antibodies against the malaria parasite, which could mean cases in people are also slashed",
+      "url": "https://www.newscientist.com/article/2381739-mosquitoes-made-immune-to-malaria-could-help-stamp-out-the-disease/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/07/10162427/SEI_163579254.jpg",
+      "publishedAt": "2023-07-10 20:00:32",
+      "content": "A female Anopheles gambiae mosquito. Its red eyes indicate the presence of a modified gene intended to confer malaria resistance Rebeca Carballar-Lejaraz\u00fa Mosquitoes have been gene edited so they a\u2026 [+3335 chars]",
+      "retrievedAt": "2023-07-12 07:05:57.591808",
+      "internal_id": "0ce48264fa4e9fb1d158a718950af8c7c5f6e72ef530c27a697f177061d128c9",
+      "publishedAtLabel": "Jul 10"
+    },
+    {
+      "id": 258,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Four new Dengue patients reported in Doon - Daily Pioneer",
+      "description": "Four new Dengue patients reported in Doon Daily Pioneer",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmRhaWx5cGlvbmVlci5jb20vMjAyMy9zdGF0ZS1lZGl0aW9ucy9mb3VyLW5ldy1kZW5ndWUtcGF0aWVudHMtcmVwb3J0ZWQtaW4tZG9vbi5odG1s0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-10 19:11:17",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-12 07:05:56.855828",
+      "internal_id": "ef0fe9fc00ba3cdf1420555e851f9cec385926bdb3a8389c4bb15ca3878c2507",
+      "publishedAtLabel": "Jul 10"
+    },
     {
       "id": 252,
       "query": [
@@ -3320,296 +3615,6 @@
       "content": "Murphy's Law, that brash proletarian restatement of Godel's Theorem.\r\n-- Thomas Pynchon, \"Gravity's Rainbow\"",
       "retrievedAt": "2023-07-05 19:05:43.420351",
       "internal_id": "0d205c3fe14491d85348b4c8422a9f77b99fc96f3e482aa60ead269fffe7bdf9",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 56,
-      "query": [
-        "measles"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Amy McGorry",
-      "title": "Measles protection is paramount before traveling outside the US, says CDC",
-      "description": "A recent rise in measles cases sparked a health advisory from the CDC \u2014 which urges those who may be traveling outside the U.S. to check their vaccination status with their doctor.",
-      "url": "https://www.foxnews.com/health/measles-protection-paramount-before-traveling-outside-us-cdc",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/measles.jpg",
-      "publishedAt": "2023-07-04 14:50:14",
-      "content": "A recent health alert from the Centers for Disease Control and Prevention (CDC) warns travelers to protect themselves against measles before heading out to visit other countries this summer.\u00a0\r\nA rece\u2026 [+8073 chars]",
-      "retrievedAt": "2023-07-05 19:05:42.585424",
-      "internal_id": "28e1465f740b15e63dac231283e06c832dcb48b0fd81ca61dbe46f120481d763",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 57,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Canaltech.com.br",
-      "author": "Fidel Forato",
-      "title": "Vacina contra dengue j\u00e1 est\u00e1 dispon\u00edvel, mas uso no SUS \u00e9 incerto",
-      "description": "As primeiras doses da vacina contra a dengue j\u00e1 est\u00e3o dispon\u00edveis em hospitais e cl\u00ednicas particulares no Brasil, mas o futuro do imunizante no Sistema \u00danico de Sa\u00fade (SUS) \u00e9 incerto. Desenvolvida pela farmac\u00eautica japonesa Takeda, a Qdenga tem efic\u00e1cia de 80\u2026",
-      "url": "https://canaltech.com.br/saude/vacina-contra-dengue-ja-esta-disponivel-mas-uso-no-sus-e-incerto-254832/",
-      "urlToImage": "https://t.ctcdn.com.br/4UFuUd0YedS0hllAI1DWnRf_z6Y=/1400x788/smart/i514034.jpeg",
-      "publishedAt": "2023-07-04 14:19:20",
-      "content": "As primeiras doses da vacina contra a dengue j\u00e1 est\u00e3o dispon\u00edveis em hospitais e cl\u00ednicas particulares no Brasil, mas o futuro do imunizante no Sistema \u00danico de Sa\u00fade (SUS) \u00e9 incerto. Desenvolvida pe\u2026 [+3865 chars]",
-      "retrievedAt": "2023-07-05 19:05:42.940184",
-      "internal_id": "8f4f643e9c84dfd4cdeeaa945cc12cadaefe43b0aee563beddcdf09a2651cb63",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 69,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "WGN TV Chicago",
-      "author": "Earl Stoudemire",
-      "title": "Here's how to avoid summer bug bites, according to experts",
-      "description": "Experts say there are ways to protect yourself from mosquitos and other insects.",
-      "url": "https://wgntv.com/news/nexstar-media-wire/heres-how-to-avoid-summer-bug-bites-according-to-experts/",
-      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/07/MosquitosGettyImages-1380659512.jpg?w=1280",
-      "publishedAt": "2023-07-04 14:00:15",
-      "content": "Waco, Texas (KWKT) \u2014 The Centers for Disease Control and Prevention recently released a health advisory over cases of malaria.\r\nThis is the first time in 20 years that the CDC has had to make an advi\u2026 [+2143 chars]",
-      "retrievedAt": "2023-07-05 19:05:43.416862",
-      "internal_id": "c4a88a6b38c2a88e00e50a97ea0248a83e98b48b5978bc07a5c666795d213c6a",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 60,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clicrbs.com.br",
-      "author": "Agencia RBS",
-      "title": "Dispon\u00edvel na rede privada, vacina da dengue deve demorar a chegar ao SUS, segundo o Minist\u00e9rio da Sa\u00fade",
-      "description": "A pasta quer priorizar a produ\u00e7\u00e3o nacional do imunizante, viabilizada pelo Instituto Butantan",
-      "url": "http://diariogaucho.clicrbs.com.br/rs/dia-a-dia/noticia/2023/07/disponivel-na-rede-privada-vacina-da-dengue-deve-demorar-a-chegar-ao-sus-segundo-o-ministerio-da-saude-30443673.html",
-      "urlToImage": "http://diariogaucho.rbsdirect.com.br/imagesrc/43028370.jpg?w=600",
-      "publishedAt": "2023-07-04 12:45:46",
-      "content": "Apesar de j\u00e1 ter sido autorizada pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa), a nova vacina contra dengue n\u00e3o chegar\u00e1 ao Sistema \u00danico de Sa\u00fade (SUS) com a mesma velocidade de entrega para\u2026 [+3557 chars]",
-      "retrievedAt": "2023-07-05 19:05:42.945869",
-      "internal_id": "fa7f9c96ccb12b5908e4c47c440ddde5972a22e5d1b4011d81d9f445a60c9090",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 68,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Salt Lake City mosquito population skyrockets after wet winter - Salt Lake Tribune",
-      "description": "Salt Lake City mosquito population skyrockets after wet winter Salt Lake Tribune Health officials urge Floridians to wear bug spray during Fourth of July celebrations FOX 13 Tampa What\u2019s keeping the US from being a malaria hotspo\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnNsdHJpYi5jb20vbmV3cy8yMDIzLzA3LzA0L3NhbHQtbGFrZS1jaXR5LW1vc3F1aXRvLXBvcHVsYXRpb24v0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-04 12:00:18",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-05 19:05:43.412574",
-      "internal_id": "bc0ac3ab9f53dcce1799ec9acd34d180582395fc828b7cef29a7fb3440f49f18",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 62,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09eb \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09ec\u09ed\u09ee",
-      "description": "\u09a6\u09c7\u09b6\u09c7 \u0997\u09a4 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09af\u09bc \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u099c\u09cd\u09ac\u09b0\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u09b9\u09af\u09bc\u09c7 \u0986\u09b0\u0993 \u09eb \u099c\u09a8 \u09ae\u09be\u09b0\u09be \u0997\u09c7\u099b\u09c7\u09a8\u0964 \u098f\u0995\u0987 \u09b8\u09ae\u09df\u09c7 \u0986\u09b0\u0993 \u09ec\u09ed\u09ee \u099c\u09a8 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09ad\u09b0\u09cd\u09a4\u09bf \u09b9\u09af\u09bc\u09c7\u099b\u09c7\u09a8\u0964",
-      "url": "https://bangla.thedailystar.net/health/disease/news-493446",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/08/19/dengue_5_1_1_1_1.jpg?itok=OSMwQQBG",
-      "publishedAt": "2023-07-04 11:06:18",
-      "content": "Five dengue patients died and 678 others were hospitalised in the 24 hours till this morning.",
-      "retrievedAt": "2023-07-05 19:05:42.948934",
-      "internal_id": "56dad3287b28b2dec8a362684c501b0a54965f6be84da7d38438d40d0041b584",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 66,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Vox",
-      "author": "Keren Landman",
-      "title": "What could cause a malaria comeback in the US \u2014 and what could stop it",
-      "description": "Americans shouldn\u2019t take a malaria-free future for granted.",
-      "url": "https://www.vox.com/2023/7/4/23778786/malaria-us-florida-texas-climate-change-travel-resurgence-comeback",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JVrMOLrrJpdGlvTdZjQNHG3awr8=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24762549/594886104.jpg",
-      "publishedAt": "2023-07-04 11:00:00",
-      "content": "Over the last month, five people in the US (four in Florida and one in Texas) have acquired malaria within the countrys borders. Thats pretty uncommon at least, in this century; until the 1950s, mala\u2026 [+10620 chars]",
-      "retrievedAt": "2023-07-05 19:05:43.409280",
-      "internal_id": "33de9fe11a609c9a8c123dc4735c5d1f75a68859efdaccc6f8719ce1658546b8",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 67,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "What\u2019s keeping the US from being a malaria hotspot? - Vox.com",
-      "description": "What\u2019s keeping the US from being a malaria hotspot? Vox.com First cases of malaria transmitted in U.S. in decades prompt concerns PBS NewsHour As US Warns Of Malaria, Hawaii Releases Mosquitoes - Beat of Hawaii Beat of Hawaii <\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnZveC5jb20vMjAyMy83LzQvMjM3Nzg3ODYvbWFsYXJpYS11cy1mbG9yaWRhLXRleGFzLWNsaW1hdGUtY2hhbmdlLXRyYXZlbC1yZXN1cmdlbmNlLWNvbWViYWNr0gF1aHR0cHM6Ly93d3cudm94LmNvbS9wbGF0Zm9ybS9hbXAvMjAyMy83LzQvMjM3Nzg3ODYvbWFsYXJpYS11cy1mbG9yaWRhLXRleGFzLWNsaW1hdGUtY2hhbmdlLXRyYXZlbC1yZXN1cmdlbmNlLWNvbWViYWNr?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-04 11:00:00",
-      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-05 19:05:43.411319",
-      "internal_id": "4ee3463b4d357c5aa480c8130aa7de3a045ef125ccbafe99bf0bb4c4d254fd32",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 63,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09a5\u09be\u09a8\u099a\u09bf\u09b0 \u09a6\u09c1\u09b0\u09cd\u0997\u09ae \u098f\u09b2\u09be\u0995\u09be\u09df \u09a1\u09be\u09df\u09b0\u09bf\u09df\u09be\u09df \u09b8\u09cd\u0995\u09c1\u09b2\u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0\u09b8\u09b9 \u09e8 \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1\u09b0 \u0985\u09ad\u09bf\u09af\u09cb\u0997",
-      "description": "\u09a5\u09be\u09a8\u099a\u09bf\u09b0 \u09a6\u09c1\u09b0\u09cd\u0997\u09ae \u098f\u09b2\u09be\u0995\u09be\u09df \u09a1\u09be\u09df\u09b0\u09bf\u09df\u09be\u09df \u09b8\u09cd\u0995\u09c1\u09b2\u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0\u09b8\u09b9 \u09e8 \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1\u09b0 \u0985\u09ad\u09bf\u09af\u09cb\u0997thedailystar.net",
-      "url": "https://bangla.thedailystar.net/health/disease/news-493436",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/08/bandarban_4.jpg?itok=x65Bp_UU",
-      "publishedAt": "2023-07-04 10:44:18",
-      "content": "Five dengue patients died and 678 others were hospitalised in the 24 hours till this morning.",
-      "retrievedAt": "2023-07-05 19:05:42.950202",
-      "internal_id": "e5a3fe7637acbe7b4b921d40bc68780c067971778a829661ab1bebf03e5acfaf",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 72,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Inter Press Service",
-      "author": "Umar Manzoor Shah",
-      "title": "Quest for Safe Water in One of India\u2019s Most Isolated Villages",
-      "description": "Simita Devi spent over ten days in a government-run hospital a year ago anxiously watching her critically ill nine-year-old daughter, Gudiya, who was diagnosed with typhoid. Gudiya was so sick she even went into a coma for a day. Medical staff attending to th\u2026",
-      "url": "https://www.ipsnews.net/2023/07/quest-for-safe-water-in-one-of-indias-most-isolated-villages/",
-      "urlToImage": "https://www.ipsnews.net/Library/2023/07/Devi-fetching-safe-drinking-that-comes-to-her-house-now-through-pipes-from-Solar-Water-Tower..jpeg",
-      "publishedAt": "2023-07-04 09:30:25",
-      "content": "Asia-Pacific, Civil Society, Development &amp; Aid, Editors' Choice, Featured, Headlines, Health, TerraViva United NationsWater &amp; Sanitation\r\nQuest for Safe Water in One of Indias Most Isolated V\u2026 [+5494 chars]",
-      "retrievedAt": "2023-07-05 19:05:44.463722",
-      "internal_id": "f5d2d06394cbc4b528289626d9ae7606f03cdbd9eca26dd1688cb54a81a868a5",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 59,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Globalsecurity.org",
-      "author": "John Pike",
-      "title": "Deadly dengue outbreaks strike Rohingya camps, Bangladesh cities",
-      "description": "Bangladesh has seen a spike in dengue cases and deaths in less than a month, according to government health figures released on Monday that did not include infections in Rohingya refugee camps, where cases of the mosquito-borne disease have been climbing as w\u2026",
-      "url": "https://www.globalsecurity.org/wmd/library/news/myanmar/2023/myanmar-230703-rfa02.htm",
-      "urlToImage": null,
-      "publishedAt": "2023-07-04 08:46:30",
-      "content": "Health officials have taken steps to kill off mosquitos that carry the disease.\r\nAbdur Rahman and Ahammad Foyez 2023.07.03 -- Bangladesh has seen a spike in dengue cases and deaths in less than a mon\u2026 [+4013 chars]",
-      "retrievedAt": "2023-07-05 19:05:42.943392",
-      "internal_id": "2039656871153c9ec81fa85d85bfd10b39ab94f0baebfcfcebbef00aeb5022b7",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 65,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Dengue: DSCC starts 3-day \u2018combing operation\u2019, one fined",
-      "description": "Dhaka South City Corporation (DSCC) has launched a three-day \u2018combing operation\u2019 at 25 wards to destroy Aedes mosquitoes and its breeding grounds. The city corporation\u2019s chief executive officer Md MIzanur Rahman inaugurated the campaign at 10am on Tuesday at \u2026",
-      "url": "https://sylhetmirror.com/2023/07/04/dengue-dscc-starts-3-day-combing-operation-one-fined/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/Yyttjpeg.jpg",
-      "publishedAt": "2023-07-04 08:32:11",
-      "content": "Dhaka South City Corporation (DSCC) has launched a three-day \u2018combing operation\u2019 at 25 wards to destroy Aedes mosquitoes and its breeding grounds.\r\nThe city corporation\u2019s chief executive officer Md M\u2026 [+604 chars]",
-      "retrievedAt": "2023-07-05 19:05:42.952980",
-      "internal_id": "d493a84568abbf8605b048dc10e2f2448951dc1c39391ed3b18a516562708670",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 70,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Cases of malaria transmitted in U.S. prompt concerns - PBS NewsHour",
-      "description": "Cases of malaria transmitted in U.S. prompt concernsPBS NewsHour A Rare Domestic Resurgence of Malaria Is Circulating in the USWIRED Mosquito bite protection tips due to malaria in Sarasota CountyWink News As US Warns Of Malaria, Hawaii Releases Mosquitoes - \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171304230",
-      "urlToImage": null,
-      "publishedAt": "2023-07-04 07:52:14",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-05 19:05:43.419009",
-      "internal_id": "5670633b73e0fc98bfeacd90ee26243d40eacd1dd7ba625d2d06c3d19ccf7697",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 48,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "publicaffairs@voa.gov (VOA)",
-      "title": "Sudan: Suspected Measles Outbreak Hits Displacement Camp in Sudan",
-      "description": "[VOA] Doctors Without Borders said Sunday that there is a suspected outbreak of measles in an internal displacement camp in Sudan.",
-      "url": "https://allafrica.com/stories/202307040073.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-04 06:52:52",
-      "content": "Doctors Without Borders said Sunday that there is a suspected outbreak of measles in an internal displacement camp in Sudan.\r\nThe international humanitarian organization said 13 children have died re\u2026 [+593 chars]",
-      "retrievedAt": "2023-07-05 07:06:02.963811",
-      "internal_id": "87c5a3b80fa3f560ec7bd13cfaa22f29c6dfac0a2aff4d466269b59a2d791206",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 53,
-      "query": [
-        "malaria",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Elperiodico.com",
-      "author": "El Peri\u00f3dico",
-      "title": "Mosquito com\u00fan: c\u00f3mo distinguirlo y consejos para evitarlo",
-      "description": "Llega el verano, suben las temperaturas y es entonces cuando aparecen los mosquitos. Estos peque\u00f1os insectos, aparte de ser molestos, tambi\u00e9n son grandes transmisores de enfermedades como la fiebre del Nilo, la malaria, la fiebre amarilla, el zika\u2026Los mosquit\u2026",
-      "url": "https://www.elperiodico.com/es/sociedad/20230704/mosquito-comun-distinguirlo-consejos-evitarlo-dv-89005677",
-      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/62bce2e2-2dcc-447e-b5af-dc8fcbd3ff80_16-9-discover-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-07-04 06:44:00",
-      "content": "Llega el verano, suben las temperaturas y es entonces cuando aparecen los mosquitos. Estos peque\u00f1os insectos, aparte de ser molestos, tambi\u00e9n son grandes transmisores de enfermedades como la fiebre d\u2026 [+2507 chars]",
-      "retrievedAt": "2023-07-05 07:06:03.985306",
-      "internal_id": "d3aff4923bb16a1647b824d8562688abce54ac175c7810fe2a8e1c64f8accd32",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 50,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Elperiodico.com",
-      "author": "El Peri\u00f3dico",
-      "title": "Mosquito tigre: c\u00f3mo distinguirlo y consejos para evitarlo",
-      "description": "Los mosquitos suelen aparecer en esta \u00e9poca del a\u00f1o con el aumento de las temperaturas. Estos insectos son conocidos por sus picaduras, pero tambi\u00e9n por ser transmisores de enfermedades alrededor del mundo como: la malaria, el virus del Dengue, la fiebre amar\u2026",
-      "url": "https://www.elperiodico.com/es/sociedad/20230704/mosquito-tigre-distinguirlo-consejos-evitarlo-89049333",
-      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/f62ceae5-868f-484e-952f-cd82fb4f678b_16-9-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-07-04 06:40:00",
-      "content": "Los mosquitos suelen aparecer en esta \u00e9poca del a\u00f1o con el aumento de las temperaturas. Estos insectos son conocidos por sus picaduras, pero tambi\u00e9n por ser transmisores de enfermedades alrededor del\u2026 [+2800 chars]",
-      "retrievedAt": "2023-07-05 07:06:03.323819",
-      "internal_id": "085c70c685475a3587420f899693772eeef7e0d0798434ded482adb180e5183d",
       "publishedAtLabel": "Jul 4"
     }
   ]
