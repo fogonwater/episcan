@@ -1,8 +1,371 @@
 {
-  "last_updated": "2023-07-12 07:05",
-  "count_articles_total": 267,
-  "count_articles_new": 16,
+  "last_updated": "2023-07-12 19:05",
+  "count_articles_total": 287,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Why are malaria cases happening in Sarasota now? We asked researchers - Sarasota Herald-Tribune",
+      "description": "Why are malaria cases happening in Sarasota now? We asked researchersSarasota Herald-Tribune Two more malaria cases found in Florida; Doctor explains symptoms and treatmentMSNBC Sarasota County, with 6 malaria cases, sprays for mosquitoesBay News 9 Six locall\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171360577",
+      "urlToImage": null,
+      "publishedAt": "2023-07-11 17:52:05",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-12 19:05:24.828426",
+      "internal_id": "49b2d29b484569c8dfb9fdeec94710b8e40290e85018d44005fe2bcdf90d21ea",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 280,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Bangladesh records highest single-day dengue deaths in 2023",
+      "description": "With the death of seven more dengue patients in 24 hours till Tuesday morning, the official death toll from the disease this year rose to 83. This is the highest death toll from dengue in a day this year. During this period, a total of 1054 more patients, the\u2026",
+      "url": "https://sylhetmirror.com/2023/07/11/bangladesh-records-highest-single-day-dengue-deaths-in-2023/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/cU56Pe6R.jpg",
+      "publishedAt": "2023-07-11 16:26:14",
+      "content": "With the death of seven more dengue patients in 24 hours till Tuesday morning, the official death toll from the disease this year rose to 83. This is the highest death toll from dengue in a day this\u2026 [+929 chars]",
+      "retrievedAt": "2023-07-12 19:05:23.843277",
+      "internal_id": "c483698767988405ee55a42bb9384751d36ee0dba0753069a403721b5691888e",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 283,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Pandora Dewan",
+      "title": "Rare Tropical Diseases Threaten to Plague America",
+      "description": "\"The risks posed by infectious diseases in the U.S., such as malaria, and their prevention strategies must not be undermined,\" a global health professor said.",
+      "url": "https://www.newsweek.com/rare-tropical-diseases-threaten-plague-america-1812271",
+      "urlToImage": "https://d.newsweek.com/en/full/2256198/mosquito-borne-disease.jpg",
+      "publishedAt": "2023-07-11 16:13:46",
+      "content": "The Centers for Disease Control and Prevention (CDC) has issued a health alert in the U.S. after five locally acquired cases of malaria were reported in Texas and Florida in the past two months. But \u2026 [+6711 chars]",
+      "retrievedAt": "2023-07-12 19:05:24.807108",
+      "internal_id": "e30d53b7bdf353019e3e26ba6f4f3ae1eefc70849fdb073038e7c5705210cac5",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 287,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Fark.com",
+      "author": null,
+      "title": "DeSantis under pressure as Florida malaria cases spread. Rest assured that he's doing everything possible to ensure that cases continue to spread unchecked [Sick]",
+      "description": "DeSantis under pressure as Florida malaria cases spread. Rest assured that he's doing everything possible to ensure that cases continue to spread unchecked",
+      "url": "https://www.fark.com/comments/12921430/DeSantis-under-pressure-as-Florida-malaria-cases-spread-Rest-assured-that-hes-doing-everything-possible-to-ensure-that-cases-continue-to-spread-unchecked",
+      "urlToImage": "https://usrimg-full.fark.net/b/bu/fark_buczb5ZrjFIbeyifszXMOnsyGck.jpg?AWSAccessKeyId=UKDINQXVGV49TCSSKJLK&Expires=1689566400&Signature=4cE2%2FsMRVPTEZWDbWwxCbPlRN0M%3D",
+      "publishedAt": "2023-07-11 16:05:10",
+      "content": "optikeye:Jack Sabbath: I hope he does another press conference and brags about how well Florida is handling malaria, like he did with COVID while the disease raged on, killing thousands, the petulant\u2026 [+385 chars]",
+      "retrievedAt": "2023-07-12 19:05:24.820703",
+      "internal_id": "614d4ed8c05f11bb242334bfda36154404d76d0d69493263c86939b04e8f78b2",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 290,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Globalresearch.ca",
+      "author": "Jonathan Jarry",
+      "title": "Weaponization of Mosquitos? The Malaria Vaccine\u2019s Success Story Hides Legitimate Concerns",
+      "description": "All Global Research articles can be read in 51 languages by activating the Translate Website button below the author\u2019s name. To receive Global Research\u2019s Daily Newsletter (selected articles), click here. Click the share button above to email/forward this arti\u2026",
+      "url": "https://www.globalresearch.ca/malaria-vaccine-success-story-hides-legitimate-concerns/5825179",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2023/07/pixnio-43877-6384x4248.jpeg",
+      "publishedAt": "2023-07-11 15:46:14",
+      "content": "All Global Research articles can be read in 51 languages by activating the Translate Website button below the authors name. To receive Global Researchs Daily Newsletter (selected articles), click he\u2026 [+13986 chars]",
+      "retrievedAt": "2023-07-12 19:05:24.833312",
+      "internal_id": "0f2fcba23e02a929ec212e313c67714573499db6489a5a18b457de149a43caf5",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 279,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Zee News",
+      "title": "Monsoon Health Tips: Dengue, Flu And Water-Borne Diseases On The Rise, Check Expert's Advice",
+      "description": "On June 25, the India Meteorological Department (IMD) declared the onset of the southwest monsoon over Mumbai and Delhi. While the monsoon was delayed by 14 days in Mumbai, it arrived two days early in Delhi. \u201cThere has been a significant increase in dengue c\u2026",
+      "url": "https://zeenews.india.com/health/monsoon-health-tips-dengue-flu-and-water-borne-diseases-on-the-rise-check-experts-advice-2634158",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/07/11/1238834-dengue.png",
+      "publishedAt": "2023-07-11 15:19:49",
+      "content": "On June 25, the India Meteorological Department (IMD) declared the onset of the southwest monsoon over Mumbai and Delhi. While the monsoon was delayed by 14 days in Mumbai, it arrived two days early \u2026 [+3163 chars]",
+      "retrievedAt": "2023-07-12 19:05:23.839376",
+      "internal_id": "63a93b1bcc8ced7eb078c4f996e2189d8c0719e094a28df67f72573753ecd323",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 275,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Reuters",
+      "title": "Takeda withdraws application for dengue vaccine candidate",
+      "description": "(marketscreener.com) Takeda Pharmaceutical Co said on Tuesday it was voluntarily withdrawing its application for its dengue vaccine candidate, following discussions with the U.S. Food and Drug Administration on aspects of data collection. https://www.marke\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/Takeda-withdraws-application-for-dengue-vaccine-candidate-44311802/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-07-11 14:36:52",
+      "content": "July 11 (Reuters) - Takeda Pharmaceutical Co said on Tuesday it was voluntarily withdrawing its application for its dengue vaccine candidate, following discussions with the U.S. Food and Drug Admi\u2026 [+118 chars]",
+      "retrievedAt": "2023-07-12 19:05:23.822157",
+      "internal_id": "deaa3e067da644858e747ab1a79bc3e1ceb1147344c972849fdc0ae2a106738d",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 276,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "Takeda withdraws U.S. BLA for Dengue vaccine candidate, Reuters reports",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id3741708/TAK-Takeda-withdraws-US-BLA-for-Dengue-vaccine-candidate-Reuters-reports",
+      "urlToImage": "https://thefly.com/images/meta/periodicals.jpg",
+      "publishedAt": "2023-07-11 14:20:21",
+      "content": "Earnings calls, analyst events, roadshows and more",
+      "retrievedAt": "2023-07-12 19:05:23.825105",
+      "internal_id": "c4bac85ef45c229c059cbd57a355d638d0cd3fd64a23a5e74fd419ea9f590adf",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 277,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Gravata\u00ed confirma 235 casos de dengue em 2023",
+      "description": "A Prefeitura de Gravata\u00ed, por meio da Secretaria Municipal da Sa\u00fade (SMS), atualiza os dados ...",
+      "url": "https://www.terra.com.br/noticias/gravatai-confirma-235-casos-de-dengue-em-2023,27953d54fdd5a283a73e5958d998ccdctx0p03jx.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/11/957745724-mosquito-g977a417701280.jpg",
+      "publishedAt": "2023-07-11 14:15:57",
+      "content": "A Prefeitura de Gravata\u00ed, por meio da Secretaria Municipal da Sa\u00fade (SMS), atualiza os dados referentes \u00e0 dengue no munic\u00edpio neste ano. Conforme o mais recente boletim epidemiol\u00f3gico da Vigil\u00e2ncia e\u2026 [+2274 chars]",
+      "retrievedAt": "2023-07-12 19:05:23.830959",
+      "internal_id": "1d6fe439f8c9cce6fad812da3bbb3da0e87c18ee4f1ef6775a99bee53f49c1b5",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 284,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Aleks Phillips",
+      "title": "Ron DeSantis Under Pressure as Florida Malaria Cases Spread",
+      "description": "A further two cases have been discovered in the state, amid reports two top official public-health roles regarding communicable diseases have been left vacant.",
+      "url": "https://www.newsweek.com/ron-desantis-pressure-florida-malaria-cases-1812213",
+      "urlToImage": "https://d.newsweek.com/en/full/2256126/ron-desantis.jpg",
+      "publishedAt": "2023-07-11 14:14:53",
+      "content": "Florida Gov. Ron DeSantis is facing pressure amid a growing number of malaria cases in the state, after reports emerged that two public-health roles related to combating the spread of diseases have b\u2026 [+4270 chars]",
+      "retrievedAt": "2023-07-12 19:05:24.809922",
+      "internal_id": "7f5722c1109608392769526f66c51cfdf8e3bab11682286f937e74cbde561fd5",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 281,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thaipbsworld.com",
+      "author": "Kitipat Chuensukjit",
+      "title": "Chiang Mai launches campaign to curb dengue fever",
+      "description": "Chiang Mai province has set up a public health emergency operations centre to contain the spread of dengue fever, after 1,805 people have been infected since January 1st and two... The post Chiang Mai launches campaign to curb dengue fever first appeared on T\u2026",
+      "url": "https://www.thaipbsworld.com/chiang-mai-launches-campaign-to-curb-dengue-fever/",
+      "urlToImage": "https://www.thaipbsworld.com/wp-content/uploads/2023/07/Originally-from-10-1-600x338.png",
+      "publishedAt": "2023-07-11 13:53:05",
+      "content": "Chiang Mai province has set up a public health emergency operations centre to contain the spread of dengue fever, after 1,805 people have been infected since January 1st and two have died. According\u2026 [+956 chars]",
+      "retrievedAt": "2023-07-12 19:05:23.845503",
+      "internal_id": "f106943f918179a2b63a31154578d1e69b3c5923804b86b75e8ef8e44fcd9554",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 291,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Biosecurity blunder hospitalises lab worker with typhoid in the Netherlands - Daily Mail",
+      "description": "Biosecurity blunder hospitalises lab worker with typhoid in the Netherlands Daily Mail",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9oZWFsdGgvYXJ0aWNsZS0xMjI3MDM4Ny9CaW9zZWN1cml0eS1ibHVuZGVyLWhvc3BpdGFsaXNlcy1sYWItd29ya2VyLXR5cGhvaWQtTmV0aGVybGFuZHMuaHRtbNIBfGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9oZWFsdGgvYXJ0aWNsZS0xMjI3MDM4Ny9hbXAvQmlvc2VjdXJpdHktYmx1bmRlci1ob3NwaXRhbGlzZXMtbGFiLXdvcmtlci10eXBob2lkLU5ldGhlcmxhbmRzLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-11 13:46:35",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-12 19:05:26.252590",
+      "internal_id": "694941e583c06e3a63f6439cf4fedea05d9e0c3432e3c80b541cf01d522e94c1",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 273,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "Le HuffPost avec AFP",
+      "title": "Les cas de dengue en France m\u00e9tropolitaine ont connu en 2022 une augmentation \u00ab exceptionnelle \u00bb",
+      "description": "Le nombre de cas de dengue, dont l\u2019un des principaux responsables est le moustique-tigre, a atteint un record en 2022, selon une \u00e9tude publi\u00e9e par Sant\u00e9 publique France.",
+      "url": "https://www.huffingtonpost.fr/life/article/les-cas-de-dengue-en-france-metropolitaine-ont-connu-en-2022-une-augmentation-exceptionnelle_220493.html",
+      "urlToImage": "https://huffpost-focus.sirius.press/2022/07/23/53/0/1024/576/1820/1023/75/0/91ae8f9_1658617378741-5f574d2b240000d2091ece35.jpeg",
+      "publishedAt": "2023-07-11 12:20:09",
+      "content": "SANT\u00c9 - Le moustique-tigre continue de faire des ravages. Dapr\u00e8s une \u00e9tude de Sant\u00e9 publique France (SpF) d\u00e9voil\u00e9e ce mardi 11 juillet, 378 cas import\u00e9s de dengue, 23 de chikungunya et six de Zika on\u2026 [+2846 chars]",
+      "retrievedAt": "2023-07-12 19:05:23.814650",
+      "internal_id": "3dfb17769cbc499f3a77ed2a6cd958bedb5e5375981f04ecaabe4ec8025dc4a3",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 272,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Aarp.org",
+      "author": "Dena Bunis",
+      "title": "Medicare ACOs Are Transforming Health Care in the U.S.",
+      "description": "Accountable care organizations aim to save money while keeping beneficiaries healthier. Learn how Medicare and ACOs are improving health care.",
+      "url": "https://www.aarp.org/health/medicare-insurance/info-2023/medicare-accountable-care-organizations-transform-health-care/",
+      "urlToImage": "https://cdn.aarp.net/content/dam/aarp/health/medicare_insurance/2023/07/1140-pat-cutillo-mobile-phone.jpg",
+      "publishedAt": "2023-07-11 12:14:02",
+      "content": "You know, my dog, Maggie, gets a reminder from the vet when she needs her rabies shot. My car gets a reminder from the Ford dealer when it needs an oil change, says Bob Rauner, M.D., chief medical of\u2026 [+11807 chars]",
+      "retrievedAt": "2023-07-12 19:05:22.989283",
+      "internal_id": "7e1705ea458b68a3fc1cb4e7b59b67ffe502ec63cf03b17b848a50a764f5e275",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 285,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Ocean Biomedical, Inc.",
+      "title": "Ocean Biomedical\u2019s (NASDAQ: OCEA) mRNA-based Vaccine Candidate Generates Over 90% Killing of Malaria Parasites in Non-human Primates, Demonstrating Broad Potential for Ocean\u2019s Program to Address Global and Emerging U.S. Malaria Challenges",
+      "description": "Multiple Patents have been received in the U.S. and Internationally for Novel Vaccine Candidate and \u201cWhole New Class\u201d of Malaria Therapeutics. ......",
+      "url": "https://www.globenewswire.com/news-release/2023/07/11/2702600/0/en/Ocean-Biomedical-s-NASDAQ-OCEA-mRNA-based-Vaccine-Candidate-Generates-Over-90-Killing-of-Malaria-Parasites-in-Non-human-Primates-Demonstrating-Broad-Potential-for-Ocean-s-Program-t.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
+      "publishedAt": "2023-07-11 12:01:00",
+      "content": "Multiple Patents have been received in the U.S. and Internationally for Novel Vaccine Candidate and Whole New Class of Malaria Therapeutics. Providence, RI, July 11, 2023 (GLOBE NEWSWIRE) -- Ocean B\u2026 [+11665 chars]",
+      "retrievedAt": "2023-07-12 19:05:24.813462",
+      "internal_id": "082f7d84ee531ccdb47babb6d843166e62531d71342c6bb7f834cf6d35390bfa",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 282,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Tolani Yesufu",
+      "title": "New malaria vaccine offers a ray of hope to Nigeria. There's just one thing ...",
+      "description": "The country's toll makes up nearly a third of the world's 619,000 malaria deaths each year. Now Nigeria has approved a new vaccine. Will it get into the arms of those who need it most?",
+      "url": "https://www.npr.org/sections/goatsandsoda/2023/07/11/1179118767/new-malaria-vaccine-offers-a-ray-of-hope-to-nigeria-theres-just-one-thing",
+      "urlToImage": "https://media.npr.org/assets/img/2023/05/31/malaria-vaccine_wide-c2a2fec97a9c173700a2ca7587b49b7b4198cb27-s1400-c100.jpg",
+      "publishedAt": "2023-07-11 11:29:11",
+      "content": "People queue for a free malaria test in Lagos, Nigeria. The country has one of the highest national death tolls from the mosquito-borne disease. A new vaccine offers hope. But logistics could prevent\u2026 [+7860 chars]",
+      "retrievedAt": "2023-07-12 19:05:24.803863",
+      "internal_id": "7d04c6e00a896922799e29b84193f30f3864a3321961190bd6de6e6c601bcce3",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 286,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slate Magazine",
+      "author": "Mary Harris",
+      "title": "Can\u2019t Stand the Heat",
+      "description": "Air-conditioning can only save you when it\u2019s working.",
+      "url": "https://slate.com/podcasts/what-next/2023/07/heat-is-ruining-summer",
+      "urlToImage": "https://compote.slate.com/images/0472643c-6a86-4f8a-9e14-640bda510ae6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2023-07-11 09:00:00",
+      "content": "The 4th of July was the hottest day yetnot just of the summer but of recorded human history. Between waves of Canadian wildfire smoke, malaria reappearing in the United States, and deaths from heat, \u2026 [+684 chars]",
+      "retrievedAt": "2023-07-12 19:05:24.817645",
+      "internal_id": "aa05599b0319442f5e13f743f4d0f9387b79dfc23b2476d3a9d7fcf64d1061ae",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 274,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue to Chikungunya: 5 common monsoon diseases and prevention tips - India TV News",
+      "description": "Dengue to Chikungunya: 5 common monsoon diseases and prevention tips India TV News Monsoon health: Include these 5 herbs in your diet to boost your immunity The Indian Express Monsoon: 10 Beauty Products You Must Include In Your \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmluZGlhdHZuZXdzLmNvbS9oZWFsdGgvZGVuZ3VlLXRvLWNoaWt1bmd1bnlhLTUtY29tbW9uLW1vbnNvb24tZGlzZWFzZXMtYW5kLXByZXZlbnRpb24tdGlwcy0yMDIzLTA3LTExLTg4MDQ2NtIBfGh0dHBzOi8vd3d3LmluZGlhdHZuZXdzLmNvbS9hbXAvaGVhbHRoL2Rlbmd1ZS10by1jaGlrdW5ndW55YS01LWNvbW1vbi1tb25zb29uLWRpc2Vhc2VzLWFuZC1wcmV2ZW50aW9uLXRpcHMtMjAyMy0wNy0xMS04ODA0NjY?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-11 07:55:08",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-12 19:05:23.818662",
+      "internal_id": "37240e0a762e1664716cedbaff89e33fce36c88d461f52bc61e2078aeefd7573",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 288,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Sascha Karberg",
+      "title": "Gentherapie f\u00fcr M\u00fccken: Moskitos vor Malara-Infektion gesch\u00fctzt",
+      "description": "Mit zwei neuen Tricks wollen Forscher die \u00dcbertragung des gef\u00e4hrlichen Malaria-Erregers von M\u00fccken auf Menschen verhindern. Und einer der Ans\u00e4tze hilft sogar den Moskitos.",
+      "url": "https://www.tagesspiegel.de/wissen/gentherapie-fur-mucken-moskitos-vor-malara-infektion-geschutzt-10121737.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/malaria1/alternates/BASE_16_9_W1400/malaria.jpeg",
+      "publishedAt": "2023-07-11 07:51:22",
+      "content": "Der Erreger der Malaria wird von Stechm\u00fccken auf den Menschen \u00fcbertragen - Eingriffe ins Erbgut der Insekten k\u00f6nnten das \u00e4ndern. Bisher zielten Ver\u00e4nderungen ihres Genoms meist darauf ab, die Zahl de\u2026 [+3104 chars]",
+      "retrievedAt": "2023-07-12 19:05:24.824382",
+      "internal_id": "5a92f598c033a231167079e5d1aa56804158659cda6b1a93e0607b0b74dcef4a",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 278,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Gary Boyle",
+      "title": "Dengue fever cases predicted to rise",
+      "description": "Thailand is currently facing what many experts predict will become a severe dengue fever outbreak, with up to 150,000 infections possible by the end of the year, according to the Department of Disease Control (DDC).",
+      "url": "https://www.bangkokpost.com/learning/easy/2610096/dengue-fever-cases-predicted-to-rise",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20230711/c1_2610096_700.jpg",
+      "publishedAt": "2023-07-11 07:34:00",
+      "content": "Thailand is currently facing what many experts predict will become a severe dengue fever outbreak, with up to 150,000 infections possible by the end of the year, according to the Department of Diseas\u2026 [+1154 chars]",
+      "retrievedAt": "2023-07-12 19:05:23.834899",
+      "internal_id": "4612654764a4e1bc51ecac303a8f3699b4aa95f942708bc4fdbfe347ee2e0a91",
+      "publishedAtLabel": "Jul 11"
+    },
     {
       "id": 260,
       "query": [
@@ -3253,369 +3616,6 @@
       "retrievedAt": "2023-07-06 21:28:38.622858",
       "internal_id": "484407f057a196f4bff45c53810314fc950599013ee4b6d4a8c600c901564811",
       "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 75,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "The Associated Press",
-      "title": "Bobcat that attacked a camper in Connecticut tests positive for rabies",
-      "description": "A bobcat that attacked a camper in a hammock at a Connecticut state park has tested positive for rabies",
-      "url": "https://abcnews.go.com/US/wireStory/bobcat-attacked-camper-connecticut-tests-positive-rabies-100704764",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "publishedAt": "2023-07-05 13:49:50",
-      "content": "LYME, Conn. -- A bobcat that attacked a camper in a hammock at a Connecticut state park has tested positive for rabies. The man was among several adults leading a group of young campers last week in\u2026 [+965 chars]",
-      "retrievedAt": "2023-07-06 21:28:38.624286",
-      "internal_id": "5cbd5dde0a7abcdf38a97c18faaba2119184b596ca70ae4701fdb669a36aa8d5",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 106,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Residents Displaced By Recent Attacks in Western Oromia Face Hunger, Malaria Exacerbates Already Dire Humanitarian Situation",
-      "description": "[Addis Standard] Addis Abeba -- Residents of Horro Guduru and East Wollega zones in Western Oromia who were displaced by multiple attacks allegedly perpetrated by Fano militants over the past month are suffering from a severe humanitarian crisis. The IDPs sai\u2026",
-      "url": "https://allafrica.com/stories/202307050497.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-05 13:47:44",
-      "content": "Addis Abeba \u2014 Residents of Horro Guduru and East Wollega zones in Western Oromia who were displaced by multiple attacks allegedly perpetrated by Fano militants over the past month are suffering from \u2026 [+4195 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.077244",
-      "internal_id": "e59715dcae5306f0bf7f8bac2aff7f13a8f26e9983781aa6d03220a45dc8dc7e",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 76,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Toronto Star",
-      "author": "The Associated Press",
-      "title": "Bobcat that attacked a camper in Connecticut tests positive for rabies",
-      "description": "LYME, Conn. (AP) \u2014 A bobcat that attacked a camper in a hammock at a Connecticut state park has tested positive for rabies.",
-      "url": "https://www.thestar.com/news/world/us/2023/07/05/bobcat-that-attacked-a-camper-in-connecticut-tests-positive-for-rabies.html",
-      "urlToImage": "https://www.thestar.com/assets/img/thestar-ribbon.png",
-      "publishedAt": "2023-07-05 13:39:51",
-      "content": "LYME, Conn. (AP) A bobcat that attacked a camper in a hammock at a Connecticut state park has tested positive for rabies. The man was among several adults leading a group of young campers last week \u2026 [+1297 chars]",
-      "retrievedAt": "2023-07-06 21:28:38.626125",
-      "internal_id": "90b9526d5d1a7561a6a6dd8cc1840928a3e46f8fc0bf38c0182b0dc504fdc1e1",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 78,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Minneapolis Star Tribune",
-      "author": "Star Tribune Staff",
-      "title": "Bobcat that attacked a camper in Connecticut tests positive for rabies",
-      "description": "A bobcat that attacked a camper in a hammock at a Connecticut state park has tested positive for rabies.",
-      "url": "https://www.startribune.com/bobcat-that-attacked-a-camper-in-connecticut-tests-positive-for-rabies/600287485/",
-      "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1688154863",
-      "publishedAt": "2023-07-05 13:39:01",
-      "content": "LYME, Conn. A bobcat that attacked a camper in a hammock at a Connecticut state park has tested positive for rabies. The man was among several adults leading a group of young campers last week in Se\u2026 [+969 chars]",
-      "retrievedAt": "2023-07-06 21:28:38.628906",
-      "internal_id": "3901b2a98f875fd795591f691b038e3c608668b130e9bf93b6a0f647222b654b",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 83,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Dinheirama.com",
-      "author": "Ag\u00eancia Senado",
-      "title": "Gir\u00e3o cobra distribui\u00e7\u00e3o de vacina contra dengue j\u00e1 aprovada pela Anvisa",
-      "description": "O problema \u00e9 que o Brasil apresentou um aumento significativo de dengue no primeiro semestre de 2023 ------ Este artigo foi escrito por Ag\u00eancia Senado. Este artigo apareceu originalmente no site Dinheirama.A reprodu\u00e7\u00e3o deste texto s\u00f3 pode ser realizada median\u2026",
-      "url": "https://dinheirama.com/girao-cobra-distribuicao-de-vacina-contra-dengue-ja-aprovada-pela-anvisa/",
-      "urlToImage": "https://dinheirama.com/wp-content/uploads/2023/07/20230705-vacinas.jpg",
-      "publishedAt": "2023-07-05 13:33:23",
-      "content": "1O senador Eduardo Gir\u00e3o (Novo-CE) cobrou em pronunciamento no Plen\u00e1rio na ter\u00e7a-feira (4) a r\u00e1pida distribui\u00e7\u00e3o, pelo governo, da vacina contra dengue j\u00e1 aprovada pela Ag\u00eancia Nacional de Vigil\u00e2ncia\u2026 [+1916 chars]",
-      "retrievedAt": "2023-07-06 21:28:39.341013",
-      "internal_id": "030b83c9e676014d96da6019fdf79e8b380417ba97342ffc2780a8cf3975f8bd",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 94,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "18 million doses of first-ever malaria vaccine allocated to 12 African countries for 2023\u20132025: Gavi, WHO and UNICEF - Gavi, the Vaccine Alliance",
-      "description": "18 million doses of first-ever malaria vaccine allocated to 12 African countries for 2023\u20132025: Gavi, WHO and UNICEF Gavi, the Vaccine AllianceView Full Coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lmdhdmkub3JnL25ld3MvbWVkaWEtcm9vbS8xOC1taWxsaW9uLWRvc2VzLWZpcnN0LWV2ZXItbWFsYXJpYS12YWNjaW5lLWFsbG9jYXRlZC0xMi1hZnJpY2FuLWNvdW50cmllcy0yMDIz0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-05 13:33:18",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.056620",
-      "internal_id": "03a551e9d21c0f73474fe287fcbd23142e2fa7f26c7a67d39b4a71a96cc589d6",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 115,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "Mpox: casos de \u2018viruela del mono\u2019 se disipan en Costa Rica y el mundo \u00bfqu\u00e9 ha pasado?",
-      "description": "El \u00faltimo enfermo de mpox en Costa Rica se report\u00f3 a mediados de abril, en el mundo los casos van a la baja.La emergencia internacional termin\u00f3 en mayo \u00bfqu\u00e9 hip\u00f3tesis hay?",
-      "url": "https://www.nacion.com/ciencia/salud/mpox-casos-de-viruela-del-mono-se-disipan-en-costa/FHBLOWQDWFAMJINI6HNHLPHEOQ/story/",
-      "urlToImage": "https://www.nacion.com/resizer/KtV7Ij9hog25D3AStiK6BaXhAsA=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/EEJNIQGJPBHQJGN3D7KP64CS5Q.jpg",
-      "publishedAt": "2023-07-05 13:00:00",
-      "content": "Pasado un a\u00f1o, en el pa\u00eds se han confirmado 226 pacientes, el 44,84% de los casos sospechosos a los que se les hizo la prueba de laboratorio. El \u00faltimo enferm\u00f3 se registr\u00f3 en la semana epidemiol\u00f3gica\u2026 [+5016 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.897668",
-      "internal_id": "a6184b5005ef42ff340edb4750dfbb754d16ebd52b4d3dc01f6d9e99a9f48bd8",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 107,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "More African countries to receive lifesaving malaria vaccine",
-      "description": "Twelve African countries will receive 18 million doses of the first-ever vaccine against malaria over the next two years, care of global vaccine alliance GAVI, the World Health Organization (WHO) and UN Children\u2019s Fund (UNICEF) announced on Wednesday. Read F\u2026",
-      "url": "https://news.un.org/en/story/2023/07/1138372",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/25-04-2023-UNICEF-Uganda-malaria.jpg/image770x420cropped.jpg",
-      "publishedAt": "2023-07-05 12:00:00",
-      "content": "The RTS,S vaccine has been administered to more than 1.6 million children in Ghana, Kenya and Malawi since 2019 and has been shown to be safe and effective. It has resulted in a substantial reductio\u2026 [+2294 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.078864",
-      "internal_id": "074272b14cc3e276f13ca05efa3a6464aa277e54f757997930a7fa6c35c5f8c9",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 114,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Max Barnhart",
-      "title": "The doctor who warned the world of the mpox outbreak of 2022 is still worried",
-      "description": "Is the mpox emergency over or is there still cause for concern?' Numbers are down, but some specialists are still concerned about the likelihood of another outbreak.",
-      "url": "https://www.npr.org/sections/goatsandsoda/2023/07/05/1182851524/the-doctor-who-warned-the-world-of-the-mpox-outbreak-of-2022-is-still-worried",
-      "urlToImage": "https://media.npr.org/assets/img/2023/06/16/monkey-pox-virus_wide-bb1d370f465c5247615f7e613444b45532ab1fb9-s1400-c100.jpg",
-      "publishedAt": "2023-07-05 10:44:59",
-      "content": "An electron microscopic image of mpox virus particles. The mpox emergency of last summer is over. Was it a passing threat? Or is there reason to believe another global outbreak could happen. Smith C\u2026 [+8801 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.895937",
-      "internal_id": "4f4ee5b0a89a964d53cff0b8f42be9b23de5fc56ca22e5d2ba0f1a78d96b98b1",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 82,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "22 Zika cases in Singapore in the first half of 2023: Grace Fu",
-      "description": "Most of these were found in a cluster in Kovan, while the remaining cases were isolated.",
-      "url": "https://www.channelnewsasia.com/singapore/22-zika-cases-singapore-first-half-2023-grace-fu-3606871",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--PaZ2cjKF--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/aedes-mosquito-dengue.jpg?itok=Cjl_LyuT",
-      "publishedAt": "2023-07-05 10:42:37",
-      "content": "Mr Yong had filed a Parliamentary question asking for an update on the Zika situation in Singapore, and if Project Wolbachia could be used to combat Zika alongside dengue. Under Project Wolbachia, \u2026 [+1046 chars]",
-      "retrievedAt": "2023-07-06 21:28:39.338513",
-      "internal_id": "45bf2e5dcf1c196b62d02f845cfa8341f54652dc03e20768a6f6838d64b5c4bf",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 111,
-      "query": [
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknews.com.tr",
-      "author": "Sputnik T\u00fcrkiye",
-      "title": "\u0130stilac\u0131 sivrisinek uyar\u0131s\u0131: 'Is\u0131r\u0131k sonras\u0131 kolonya s\u00fcrmeyin'",
-      "description": "Bilim Kurulu \u00dcyesi \u015eener, Avrupa Birli\u011fi \u00fclkeleri co\u011frafyalar\u0131ndan yayg\u0131n olarak g\u00f6r\u00fclmeye ba\u015flanan istilac\u0131 sivrisineklerin T\u00fcrkiye i\u00e7in de bir tehlike oldu\u011funa dikkat \u00e7ekti. Prof. Dr. Alper \u015eener, \u201cChikungunya, Zika, Dang, sar\u0131humma gibi daha \u00f6nce g\u00f6rmedi\u011fi\u2026",
-      "url": "https://sputniknews.com.tr/20230705/istilaci-sivrisinek-uyarisi-isirik-sonrasi-kolonya-surmeyin-1073187265.html",
-      "urlToImage": "https://cdn1.img.sputniknews.com.tr/images/sharing/article/tur/1073187265.jpg?10731868981688543869",
-      "publishedAt": "2023-07-05 07:57:48",
-      "content": "T\u00fcrkiye'de yaanan \u00f6nemli gelimeler, son dakika haberleri ve g\u00fcncel tartmalar https://sputniknews.com.tr/20230705/istilaci-sivrisinek-uyarisi-isirik-sonrasi-kolonya-surmeyin-1073187265.html stilac s\u2026 [+8254 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.439926",
-      "internal_id": "14455b17a587d01923521880debbba32fbe9bfc6417376194e98745087efec2a",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 110,
-      "query": [
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Newsit.gr",
-      "author": "\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03c9\u03c4\u03b7\u03c2 \u0396\u03b1\u03c6\u03b5\u03b9\u03c1\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
-      "title": "\u03a0\u03bf\u03b9\u03bf\u03c5\u03c2 \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03bf\u03cd\u03bd \u03bd\u03b1 \u03c4\u03c3\u03b9\u03bc\u03c0\u03bf\u03cd\u03bd \u03c4\u03b1 \u03ba\u03bf\u03c5\u03bd\u03bf\u03cd\u03c0\u03b9\u03b1 - \u0397 \u03bc\u03c5\u03c1\u03c9\u03b4\u03b9\u03ac, \u03b7 \u03bf\u03bc\u03ac\u03b4\u03b1 \u03b1\u03af\u03bc\u03b1\u03c4\u03bf\u03c2, \u03c4\u03bf \u03b1\u03bb\u03ba\u03bf\u03cc\u03bb",
-      "description": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03c0\u03b1\u03c1\u03b1\u03c4\u03b7\u03c1\u03ae\u03c3\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03bc\u03b5\u03c1\u03b9\u03ba\u03bf\u03af \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9 \u03c0\u03ad\u03c6\u03c4\u03bf\u03c5\u03bd \u03c0\u03b9\u03bf \u03c3\u03c5\u03c7\u03bd\u03ac \u03b8\u03cd\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c3\u03b9\u03bc\u03c0\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03bf\u03c5\u03bd\u03bf\u03c5\u03c0\u03b9\u03ce\u03bd \u03c3\u03b5 \u03c3\u03c7\u03ad\u03c3\u03b7 \u03bc\u03b5 \u03ac\u03bb\u03bb\u03bf\u03c5\u03c2; \u0388\u03c7\u03b5\u03c4\u03b5 \u03b1\u03bd\u03b1\u03c1\u03c9\u03c4\u03b7\u03b8\u03b5\u03af \u03b3\u03b9\u03b1\u03c4\u03af \u03c3\u03c5\u03bc\u03b2\u03b1\u03af\u03bd\u03b5\u03b9 \u03b1\u03c5\u03c4\u03cc; \u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5 \u03cc\u03c4\u03b9 \u03c4\u03b1 \u03ba\u03bf\u03c5\u03bd\u03bf\u03cd\u03c0\u03b9\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u03bb\u03cc\u03b3\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03be\u03ac\u03c0\u03bb\u03c9\u03c3\u03b7 \u03b4\u03b9\u03b1\u03c6\u03cc\u03c1\u03c9\u03bd \u03b5\u03c0\u03b9\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03c9\u03bd \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03b9\u03ce\u03bd \u03cc\u03c0\u03c9\u03c2 \u03bf \u03b4\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf\u03c2 \u03c0\u03c5\u03c1\u03b5\u03c4\u03cc\u03c2,\u2026",
-      "url": "https://www.newsit.gr/ygeia/kounoupia-poious-protimoun-na-tsimpoun-i-myrodia-i-omada-aimatos-to-alkool/3811822/",
-      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2022/05/kounoupi-1.jpg",
-      "publishedAt": "2023-07-05 06:43:56",
-      "content": "; ; , , chikungunya Zika, . . ; () , . : , \u00ab\u00bb, , . , . , . \u2026 ; , . : 1. , . , : : , . , , . : , . , . : . . 2. . , . 3. . 2017 . . . 4. , . \u00ab\u00bb . 5. , , . , . 6. \u2026 [+42 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.438011",
-      "internal_id": "93376cb33be186aa7580262ddbaaa47918a34cccfeff7f4e28bacdd491b3aa59",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 112,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Coralie Hancok",
-      "title": "Moustiques : comment fonctionne le vaccin contre le chikungunya",
-      "description": "DECRYPTAGE. Un vaccin contre cette maladie transmise par le moustique tigre, de plus en plus present en France, est en cours de developpement. Il pourrait etre rapidement disponible.",
-      "url": "https://www.lepoint.fr/sante/moustiques-comment-fonctionne-le-vaccin-contre-le-chikungunya-05-07-2023-2527422_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2023/07/05/24703161lpw-24703635-article-jpg_9634410_540x282.jpg",
-      "publishedAt": "2023-07-05 06:30:00",
-      "content": "Arriv\u00e9 dans les Alpes-Maritimes en 2004, le moustique tigre est d\u00e9sormais pr\u00e9sent dans 70 d\u00e9partements de France m\u00e9tropolitaine. Le probl\u00e8me, c'est qu'il ne se contente pas de g\u00e2cher nos soir\u00e9es esti\u2026 [+3602 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.729194",
-      "internal_id": "3832c531460e26d46b47455532331a4ed0c50ce77af7d9a1fe2db723dcfd3c4d",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 80,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet Daily News",
-      "author": "hurriyetdailynews.com",
-      "title": "86 pct of measles cases in Istanbul: Koca",
-      "description": "Some 86 percent of measles cases in the country have been recorded in Istanbul, Health Minister Fahrettin Koca has said, reiterating that though the number of cases is increasing, it is not at an epidemic level.",
-      "url": "https://www.hurriyetdailynews.com/86-pct-of-measles-cases-in-istanbul-koca-184440",
-      "urlToImage": "https://i.hurimg.com/i/hdn/75/200x200/64a4067f4e3fe01c1c67db65.jpg",
-      "publishedAt": "2023-07-05 04:00:00",
-      "content": "ISTANBUL Some 86 percent of measlescases in the country have been recorded in Istanbul, Health Minister Fahrettin Koca has said, reiterating that though the number of cases is increasing, it is not \u2026 [+1660 chars]",
-      "retrievedAt": "2023-07-06 21:28:38.867386",
-      "internal_id": "5cf6bc33f0850d0924cdaff1302bc67580718f078ff94af3fe4f94e6b1d8673a",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 85,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Mosquito-borne diseases up amid unusual weather pattern in Pune - Indiatimes.com",
-      "description": "Mosquito-borne diseases up amid unusual weather pattern in Pune Indiatimes.com Pune: Waterlogging Outside Rosary School in Viman Nagar Raises Dengue Concerns for Children, Residents Demand Action From PMC Punekar News View Full c\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifmh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvcHVuZS9tb3NxdWl0by1ib3JuZS1kaXNlYXNlcy11cC1hbWlkLXVudXN1YWwtd2VhdGhlci1wYXR0ZXJuLWluLXB1bmUvYXJ0aWNsZXNob3cvMTAxNTAwMTk1LmNtc9IBggFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L3B1bmUvbW9zcXVpdG8tYm9ybmUtZGlzZWFzZXMtdXAtYW1pZC11bnVzdWFsLXdlYXRoZXItcGF0dGVybi1pbi1wdW5lL2FtcF9hcnRpY2xlc2hvdy8xMDE1MDAxOTUuY21z?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-05 02:18:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-06 21:28:39.345066",
-      "internal_id": "1e2d771423a594214e062e26c9ad7d2857c3f5d020adfbc194c0afacdbcbabc4",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 99,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Bola Bamigbola",
-      "title": "FG seeks collaboration for malaria control",
-      "description": "The Federal Government has called for the financial assistance of state governments for malaria control. The Permanent Secretary, Federal Ministry of Health, Mr Olufunso Adebiyi, disclosed this during an advocacy visit by the Insecticide Treated Mosquito Net\u2026",
-      "url": "https://punchng.com/fg-seeks-collaboration-for-malaria-control/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/22015336/malaria.jpg",
-      "publishedAt": "2023-07-04 23:12:47",
-      "content": "The Federal Government has called for the financial assistance of state governments for malaria control. The Permanent Secretary, Federal Ministry of Health, Mr Olufunso Adebiyi, disclosed this dur\u2026 [+2024 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.064496",
-      "internal_id": "f0a545906967b23ce60b8387bd83f2fc9eae08ac89d302e0d48910256b3c717e",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 87,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Vacina da dengue j\u00e1 est\u00e1 dispon\u00edvel na rede privada; veja quanto custa em cl\u00ednicas de S\u00e3o Paulo",
-      "description": "Imunizante da farmac\u00eautica Takeda j\u00e1 est\u00e1 sendo comercializada no Pa\u00eds; inclus\u00e3o no SUS ainda ser\u00e1 analisada",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/vacina-da-dengue-ja-esta-disponivel-na-rede-privada-veja-quanto-custa-em-clinicas-de-sao-paulo,b9024954163dd8c7a3bc3df285322bb5sne1g1gr.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/04/1675801497-4wpnvse7gjc3jde3s7pl2dboke.jpeg",
-      "publishedAt": "2023-07-04 20:39:00",
-      "content": "A vacina contra a dengue da farmac\u00eautica japonesa Takeda, a primeira de uso amplo na popula\u00e7\u00e3o, j\u00e1 est\u00e1 sendo oferecida em cl\u00ednicas privadas de vacina\u00e7\u00e3o do Estado de S\u00e3o Pauloe de todo o Pa\u00eds. Segun\u2026 [+5507 chars]",
-      "retrievedAt": "2023-07-06 21:28:39.349673",
-      "internal_id": "75db973c78a41230b51ba9437caed0941a00c3ef3b543fadc3af011a1bd08978",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 61,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ndmais.com.br",
-      "author": "ND Mais",
-      "title": "Blumenau confirma mais de 80 casos de dengue em apenas uma semana",
-      "description": "O boletim com os dados sobre a dengue na cidade foi divulgado nesta ter\u00e7a-feira (04)",
-      "url": "https://ndmais.com.br/saude/blumenau-confirma-mais-de-80-casos-de-dengue-em-apenas-uma-semana/",
-      "urlToImage": "https://static.ndmais.com.br/2023/04/istock-1327500051-950x475.jpg",
-      "publishedAt": "2023-07-04 17:14:19",
-      "content": "O boletim com os dados sobre a dengue em Blumenau foi divulgado pela Secretaria de Promo\u00e7\u00e3o da Sa\u00fade (Semus) nesta ter\u00e7a-feira (04). A cidade registrou mais de 80 casos da doen\u00e7a, al\u00e9m de novos focos\u2026 [+1746 chars]",
-      "retrievedAt": "2023-07-05 19:05:42.947665",
-      "internal_id": "76e2c8635e51d4950279765b4ae15bc0f0421ee766abb77c2ce6eb34d5f18ccf",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 64,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Dengue poses serious risk to Dhaka city dwellers: DGHS",
-      "description": "Aedes larvae has been found in 43.53 per cent high-rise buildings in the capital, posing serious health risk to all the Dhaka city dwellers, according to a survey conducted by the Directorate General of Health Services (DGHS). The survey also identified that \u2026",
-      "url": "https://sylhetmirror.com/2023/07/04/dengue-poses-serious-risk-to-dhaka-city-dwellers-dghs/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/ewqedde.jpg",
-      "publishedAt": "2023-07-04 17:13:18",
-      "content": "Aedes larvae has been found in 43.53 per cent high-rise buildings in the capital, posing serious health risk to all the Dhaka city dwellers, according to a survey conducted by the Directorate General\u2026 [+2476 chars]",
-      "retrievedAt": "2023-07-05 19:05:42.951429",
-      "internal_id": "e26b76d01876f86c80a4c6d2e6134cacaa1ff4b4d1dc14dbf77417087dfad57e",
-      "publishedAtLabel": "Jul 4"
-    },
-    {
-      "id": 71,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "What\u2019s keeping the US from being a malaria hotspot? - Vox.com",
-      "description": "What\u2019s keeping the US from being a malaria hotspot?Vox.com First cases of malaria transmitted in U.S. in decades prompt concernsPBS NewsHour As US Warns Of Malaria, Hawaii Releases Mosquitoes - Beat of HawaiiBeat of Hawaii Mosquito bite protection tips due to\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171306600",
-      "urlToImage": null,
-      "publishedAt": "2023-07-04 15:52:33",
-      "content": "Murphy's Law, that brash proletarian restatement of Godel's Theorem.\r\n-- Thomas Pynchon, \"Gravity's Rainbow\"",
-      "retrievedAt": "2023-07-05 19:05:43.420351",
-      "internal_id": "0d205c3fe14491d85348b4c8422a9f77b99fc96f3e482aa60ead269fffe7bdf9",
-      "publishedAtLabel": "Jul 4"
     }
   ]
 }
