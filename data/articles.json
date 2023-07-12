@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-07-12 19:05",
-  "count_articles_total": 287,
-  "count_articles_new": 20,
+  "last_updated": "2023-07-12 23:29",
+  "count_articles_total": 289,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 296,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Ron DeSantis Under Pressure as Florida Malaria Cases Spread - Newsweek",
+      "description": "Ron DeSantis Under Pressure as Florida Malaria Cases SpreadNewsweek No new cases of locally acquired malaria reported in Sarasota County for the past weekSarasota Herald-Tribune Two more malaria cases found in Florida; Doctor explains symptoms and treatmentMS\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171362117",
+      "urlToImage": null,
+      "publishedAt": "2023-07-11 22:32:23",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-12 23:29:49.966927",
+      "internal_id": "3ece77eb443df18d29e0c0a8e67784e84a88e5a23255cc3eb530edc46413d59e",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 294,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "4 medicamentos de venta libre que deber\u00edas evitar si tienes dengue",
+      "description": "Cuando hablamos de dengue, nos referimos a una enfermedad viral que puede afectar a personas de cualquier edad, especialmente, a ni\u00f1os y adultos mayores. Es causada por un virus transmitido a trav\u00e9s de la picadura de mosquitos infectados (Aedes aegypti).",
+      "url": "https://www.eluniversal.com.co/salud/4-medicamentos-de-venta-libre-que-deberias-evitar-si-tienes-dengue-XA8561572",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/WJWC/ibuprofeno-pastillas_8089322_20230711155629.jpg",
+      "publishedAt": "2023-07-11 20:51:54",
+      "content": "Cuando hablamos de dengue, nos referimos a una enfermedad viral que puede afectar a personas de cualquier edad, especialmente, a ni\u00f1os y adultos mayores. Es causada por un virus transmitido a trav\u00e9s \u2026 [+2872 chars]",
+      "retrievedAt": "2023-07-12 23:29:49.315571",
+      "internal_id": "b96d3d78bd1c5f7655fabdf6d53f88874b20a64ac6495b5dafd2efbb873889e6",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 292,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Sant\u00e9 : quels sont les sympt\u00f4mes de la dengue ?",
+      "description": "Face \u00e0 la hausse des moustiques-tigre sur le territoire fran\u00e7ais, les cas de dengue augmentent aussi. Ils n\u2019ont jamais \u00e9t\u00e9 aussi importants que l\u2019an dernier, avec des sympt\u00f4mes diff\u00e9rents selon les patients. Le point avec Damien Mascret, docteur et journalist\u2026",
+      "url": "https://www.francetvinfo.fr/sante/maladie/sante-quels-sont-les-symptomes-de-la-dengue_5944709.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/Zn-8y13-aZqt5XEwislKZ_VxBAo/1500x843/2023/07/11/64adb4029f898_dengue.png",
+      "publishedAt": "2023-07-11 20:01:11",
+      "content": "Pour la majorit\u00e9 des personnes, il ny a aucun sympt\u00f4me une fois que lon a attrap\u00e9 la dengue. \"Pour les autres, pr\u00e8s de la moiti\u00e9 des malades, cest dabord une fi\u00e8vre dapparition brutale, sup\u00e9rieure \u00e0 \u2026 [+1036 chars]",
+      "retrievedAt": "2023-07-12 23:29:49.309201",
+      "internal_id": "bc640afcb9eee099c406eb22b47dcfa0fae4391fedea4a9ef2800fa53766feb1",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 293,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Sant\u00e9 : les moustiques-tigres prolif\u00e8rent en France",
+      "description": "Durant l\u2019\u00e9t\u00e9, le principal ennemi pour la sant\u00e9 des Fran\u00e7ais, c\u2019est le moustique-tigre. Il est responsable de plus en plus de cas de dengue dans l\u2019Hexagone.",
+      "url": "https://www.francetvinfo.fr/sante/environnement-et-sante/sante-les-moustiques-tigres-proliferent-en-france_5944703.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/T0gMW5DqP9CUuaLzSBAhkD8Zz48/1500x843/2023/07/11/64adb32eb7d38_moustique-dengue.jpg",
+      "publishedAt": "2023-07-11 19:55:30",
+      "content": "Durant l\u00e9t\u00e9 2023, lennemi num\u00e9ro 1, cest le moustique-tigre. Il ne fait aucun bruit et il est reconnaissable avec ses rayures blanches. Cet insecte des zones tropicales est le responsable de laugment\u2026 [+656 chars]",
+      "retrievedAt": "2023-07-12 23:29:49.313452",
+      "internal_id": "a74be1fc708677849e78056436e87bea62818c905181f03d2db62bbfcadcd773",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 295,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Takeda withdraws application for dengue vaccine from FDA",
+      "description": "Takeda announced that it has voluntarily withdrawn its application to the FDA for its dengue vaccine, making it unclear when or if the vaccine will be licensed in this country.",
+      "url": "https://www.statnews.com/2023/07/11/takeda-withdraws-application-for-dengue-vaccine-from-fda/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2017/11/5283441793_682381bece_o-1024x576.jpg",
+      "publishedAt": "2023-07-11 19:45:06",
+      "content": "Takeda announced Tuesday that it has voluntarily withdrawn its application to the Food and Drug Administration for its dengue vaccine, making it unclear when or if the vaccine will be licensed in thi\u2026 [+3929 chars]",
+      "retrievedAt": "2023-07-12 23:29:49.317678",
+      "internal_id": "7e6db694dde121e0dd75df0ef01ad24c1c79c5fe6fd4dfc2329e62c2a0f7c26e",
+      "publishedAtLabel": "Jul 11"
+    },
     {
       "id": 289,
       "query": [
@@ -55,24 +145,6 @@
       "content": "The Centers for Disease Control and Prevention (CDC) has issued a health alert in the U.S. after five locally acquired cases of malaria were reported in Texas and Florida in the past two months. But \u2026 [+6711 chars]",
       "retrievedAt": "2023-07-12 19:05:24.807108",
       "internal_id": "e30d53b7bdf353019e3e26ba6f4f3ae1eefc70849fdb073038e7c5705210cac5",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 287,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Fark.com",
-      "author": null,
-      "title": "DeSantis under pressure as Florida malaria cases spread. Rest assured that he's doing everything possible to ensure that cases continue to spread unchecked [Sick]",
-      "description": "DeSantis under pressure as Florida malaria cases spread. Rest assured that he's doing everything possible to ensure that cases continue to spread unchecked",
-      "url": "https://www.fark.com/comments/12921430/DeSantis-under-pressure-as-Florida-malaria-cases-spread-Rest-assured-that-hes-doing-everything-possible-to-ensure-that-cases-continue-to-spread-unchecked",
-      "urlToImage": "https://usrimg-full.fark.net/b/bu/fark_buczb5ZrjFIbeyifszXMOnsyGck.jpg?AWSAccessKeyId=UKDINQXVGV49TCSSKJLK&Expires=1689566400&Signature=4cE2%2FsMRVPTEZWDbWwxCbPlRN0M%3D",
-      "publishedAt": "2023-07-11 16:05:10",
-      "content": "optikeye:Jack Sabbath: I hope he does another press conference and brags about how well Florida is handling malaria, like he did with COVID while the disease raged on, killing thousands, the petulant\u2026 [+385 chars]",
-      "retrievedAt": "2023-07-12 19:05:24.820703",
-      "internal_id": "614d4ed8c05f11bb242334bfda36154404d76d0d69493263c86939b04e8f78b2",
       "publishedAtLabel": "Jul 11"
     },
     {
@@ -2192,24 +2264,6 @@
       "publishedAtLabel": "Jul 7"
     },
     {
-      "id": 167,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Fark.com",
-      "author": null,
-      "title": "First malaria vaccine to be rolled out in 12 African countries, banned in Florida [Spiffy]",
-      "description": "First malaria vaccine to be rolled out in 12 African countries, banned in Florida",
-      "url": "https://www.fark.com/comments/12916466/First-malaria-vaccine-to-be-rolled-out-in-12-African-countries-banned-in-Florida",
-      "urlToImage": "https://usrimg-full.fark.net/6/6R/fark_6Rr0eO3ZYvYfKKrSWaAHASg84tc.jpg?AWSAccessKeyId=UKDINQXVGV49TCSSKJLK&Expires=1688961600&Signature=fDWh8O5yoddg1LbVDkZNXBmbiro%3D",
-      "publishedAt": "2023-07-07 01:30:05",
-      "content": "Links are submitted by members of the Fark community. When community members submit a link, they also write a custom headline for the story. Other Farkers comment on the links\u2026 [+177 chars]",
-      "retrievedAt": "2023-07-08 07:05:33.721956",
-      "internal_id": "bfc3fe1b7ec449e10e19f568a09037ebf4e5d3bb7e379c1435507e0d9d6f7634",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
       "id": 171,
       "query": [
         "mpox"
@@ -2262,24 +2316,6 @@
       "content": "Posledn\u00ed dobou v\u00fdrazn narst\u00e1 riziko n\u00e1kazy i poty nemocn\u00fdch lid\u00ed. Jen od ledna do kvtna se potvrdila horeka dengue u 30 ech (nakaen\u00fdch ve svt i v Evrop). Nkter\u00e9 nemoci v pehledech ani nejsou. Jako n\u2026 [+433 chars]",
       "retrievedAt": "2023-07-08 07:05:32.900820",
       "internal_id": "929d8302283a981d9833e3f42f22ddfbeb4d45d24813c70bb0e3189322aa3aa2",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 170,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Fark.com",
-      "author": null,
-      "title": "Two top public health positions in Ron DeSantis' administration responsible for stopping spread of diseases are empty, right as Florida sees the first cases of malaria in two decades. Incompetent Floridian trifecta complete [Florida]",
-      "description": "Two top public health positions in Ron DeSantis' administration responsible for stopping spread of diseases are empty, right as Florida sees the first cases of malaria in two decades. Incompetent Floridian trifecta complete",
-      "url": "https://www.fark.com/comments/12916360/Two-top-public-health-positions-in-Ron-DeSantis-administration-responsible-for-stopping-spread-of-diseases-are-empty-right-as-Florida-sees-first-cases-of-malaria-in-two-decades-Incompetent-Floridian-trifecta-complete",
-      "urlToImage": "https://usrimg-full.fark.net/m/mr/fark_mrZM4MMNfnSyXqnyhbPKs44u-ww.jpg?AWSAccessKeyId=UKDINQXVGV49TCSSKJLK&Expires=1688961600&Signature=MYs4sszPQDY2J%2B%2FNt8uB2qttI68%3D",
-      "publishedAt": "2023-07-06 20:20:16",
-      "content": "feckingmorons:The states sentinel chicken program includes malaria. That program is up and running just fine. I had sentinel chickens when I had the cabin. So because two positions are open doesn\u2026 [+428 chars]",
-      "retrievedAt": "2023-07-08 07:05:33.743023",
-      "internal_id": "93182c26c1486822c075e66200b589522e8502931e6ba14a63fcc246ee75a4b3",
       "publishedAtLabel": "Jul 6"
     },
     {
@@ -3579,42 +3615,6 @@
       "content": "Abstract Background Plasmodium cynomolgi is a nonhuman primate parasite that causes malaria in humans and is transmitted by the Anopheles mosquito. Macaques, the natural hosts of P. cynomolgi, are \u2026 [+28472 chars]",
       "retrievedAt": "2023-07-06 21:28:40.075597",
       "internal_id": "3f092fb98f9f2ee35fd05a21d27b40e4db327cc5755cd17f0a9d3787c30dbea8",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 113,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Timoth\u00e9e Laurent, Lars-Anders Carlson",
-      "title": "The organization of double-stranded RNA in the chikungunya virus replication organelle",
-      "description": "Author summary Alphaviruses, such as chikungunya virus, are mosquito-borne viruses that cause various diseases in humans and other animals. When they infect a cell, they hijack the plasma membrane to generate dedicated genome-replicating organelles called sph\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011404",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011404.g003&size=inline",
-      "publishedAt": "2023-07-05 14:00:00",
-      "content": "Abstract Alphaviruses are mosquito-borne, positive-sense single-stranded RNA viruses. Amongst the alphaviruses, chikungunya virus is notable as a large source of human illness, especially in tropica\u2026 [+39615 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.732154",
-      "internal_id": "9f12c7e7ea883a3021a4ad7cf47ac8713115d7e120a2f9a8828fbee3872d41ee",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 74,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "The Associated Press",
-      "title": "Bobcat that attacked a camper in Connecticut tests positive for rabies",
-      "description": "A bobcat that attacked a camper in a hammock at a Connecticut state park has tested positive for rabies",
-      "url": "https://abcnews.go.com/Health/wireStory/bobcat-attacked-camper-connecticut-tests-positive-rabies-100704931",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "publishedAt": "2023-07-05 13:49:54",
-      "content": "LYME, Conn. -- A bobcat that attacked a camper in a hammock at a Connecticut state park has tested positive for rabies. The man was among several adults leading a group of young campers last week in\u2026 [+965 chars]",
-      "retrievedAt": "2023-07-06 21:28:38.622858",
-      "internal_id": "484407f057a196f4bff45c53810314fc950599013ee4b6d4a8c600c901564811",
       "publishedAtLabel": "Jul 5"
     }
   ]
