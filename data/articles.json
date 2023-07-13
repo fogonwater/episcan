@@ -1,8 +1,280 @@
 {
-  "last_updated": "2023-07-13 07:05",
+  "last_updated": "2023-07-13 19:05",
   "count_articles_total": 294,
-  "count_articles_new": 8,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 316,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Jason Arunn Murugesu",
+      "title": "Malaria vaccine shows promise against relapsing form of the disease",
+      "description": "A vaccine induced an immune response against the malaria parasite Plasmodium vivax, which can remain dormant in the body and cause a relapse of symptoms",
+      "url": "https://www.newscientist.com/article/2382295-malaria-vaccine-shows-promise-against-relapsing-form-of-the-disease/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/07/12154540/SEI_163798755.jpg",
+      "publishedAt": "2023-07-12 19:00:18",
+      "content": "An Anopheles mosquito, which can transmit malaria parasites, including Plasmodium vivax BIOSPHOTO/Alamy An experimental vaccine that targets a malaria parasite behind a relapsing form of the diseas\u2026 [+3244 chars]",
+      "retrievedAt": "2023-07-13 19:05:15.539258",
+      "internal_id": "97da37bd91d6155da64cec3009a1462bbb4c29efb249cbfe7e0f74c8328f1d12",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 319,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Harvard School of Engineering and Applied Sciences",
+      "author": "Jay Lau",
+      "title": "Why are we seeing new malaria cases in the U.S.?",
+      "description": "The Centers for Disease Control and Prevention recently reported several cases of locally acquired malaria in Florida and Texas\u2014the first such cases in the U.S. in over two decades. Manoj Duraisingh explains the significance of the cases and how individuals a\u2026",
+      "url": "https://www.hsph.harvard.edu/news/features/new-malaria-cases-in-the-u-s-manoj-duraisingh/",
+      "urlToImage": "https://www.hsph.harvard.edu/news/wp-content/uploads/sites/21/2023/07/Manoj_Duraisingh_big3.jpg",
+      "publishedAt": "2023-07-12 16:27:30",
+      "content": "July 12, 2023 On June 26, the Centers for Disease Control and Prevention reported several cases of locally acquired malaria in Florida and Texas, meaning that patients were infected within the U.S.th\u2026 [+5179 chars]",
+      "retrievedAt": "2023-07-13 19:05:15.547208",
+      "internal_id": "d382db8f34e8b7e707dd2bcf0de7bec21010cb11c937395e647b05053f5ab756",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 315,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "TERESA GUERRERO",
+      "title": "David Baker, el cient\u00edfico que inventa nuevas prote\u00ednas: \"Estamos desarrollando esprays nasales que nos protejan de cualquier virus\"",
+      "description": "Vacunas contra el coronavirus o la malaria, f\u00e1rmacos contra el c\u00e1ncer sin efectos secundarios... Con la inteligencia artificial como aliada, el bioqu\u00edmico de la Universidad de Washington, premio Fronteras FBBVA, desarrolla prote\u00ednas a la carta para crear solu\u2026",
+      "url": "https://www.elmundo.es/papel/el-mundo-que-viene/2023/07/12/64a6a925e4d4d8335a8b4585.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/4ab41951ddbee7a5b275aa86d5fe1c71/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/07/16887399118338.jpg",
+      "publishedAt": "2023-07-12 14:03:54",
+      "content": "Vacunas contra el coronavirus o la malaria, f\u00e1rmacos contra el c\u00e1ncer sin efectos secundarios... Con la inteligencia artificial como aliada, el bioqu\u00edmico de la Universidad de Washington, premio Fron\u2026 [+99 chars]",
+      "retrievedAt": "2023-07-13 19:05:15.537705",
+      "internal_id": "2eaccf8bcb00d691e757cfa221f9f9a82bb47e0740e4c0cbd27c110e3a27e71c",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 313,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Viswanath Pilla",
+      "title": "Serum Institute's multivalent meningococcal meningitis vaccine gets WHO prequalification",
+      "description": "The Serum Institute of India (SII), world's largest vaccine maker by volumes on Wednesday said its vaccine to protect against the five predominant causes of meningococcal meningitis in Africa has been prequalified by the World Health Organisation (WHO), makin\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/serum-institutes-multivalent-meningococcal-meningitis-vaccine-gets-who-prequalification/articleshow/101703126.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-101703128,width-1070,height-580,imgsize-55698,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-07-12 13:42:30",
+      "content": "The Serum Institute of India (SII), world's largest vaccine maker by volumes on Wednesday said its vaccine to protect against the five predominant causes of meningococcal meningitis in Africa has bee\u2026 [+2179 chars]",
+      "retrievedAt": "2023-07-13 19:05:15.024062",
+      "internal_id": "897189227b20b5329c0d2a0b42fcb101e8d39458d06b06e4ee16d60ec8597239",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 310,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Serum Institute's multivalent meningococcal meningitis vaccine gets WHO prequalification - Economic Times",
+      "description": "Serum Institute's multivalent meningococcal meningitis vaccine gets WHO prequalification Economic TimesView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMivQFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vaW5kdXN0cnkvaGVhbHRoY2FyZS9iaW90ZWNoL2hlYWx0aGNhcmUvc2VydW0taW5zdGl0dXRlcy1tdWx0aXZhbGVudC1tZW5pbmdvY29jY2FsLW1lbmluZ2l0aXMtdmFjY2luZS1nZXRzLXdoby1wcmVxdWFsaWZpY2F0aW9uL2FydGljbGVzaG93LzEwMTcwMzEyNi5jbXPSAbgBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL2luZHVzdHJ5L2hlYWx0aGNhcmUvYmlvdGVjaC9oZWFsdGhjYXJlL3NlcnVtLWluc3RpdHV0ZXMtbXVsdGl2YWxlbnQtbWVuaW5nb2NvY2NhbC1tZW5pbmdpdGlzLXZhY2NpbmUtZ2V0cy13aG8tcHJlcXVhbGlmaWNhdGlvbi9hbXBfYXJ0aWNsZXNob3cvMTAxNzAzMTI2LmNtcw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-12 13:42:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-13 19:05:15.019364",
+      "internal_id": "92991a889e8fe1f93b3544aeba169ea07c954aa76940f9cb83b6239e1980fb81",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 311,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "SII vaccine for deadly meningitis gets WHO nod on quality & safety, can now be procured by UN - ThePrint",
+      "description": "SII vaccine for deadly meningitis gets WHO nod on quality & safety, can now be procured by UN ThePrintView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifmh0dHBzOi8vdGhlcHJpbnQuaW4vaGVhbHRoL3NpaS12YWNjaW5lLWZvci1kZWFkbHktbWVuaW5naXRpcy1nZXRzLXdoby1ub2Qtb24tcXVhbGl0eS1zYWZldHktY2FuLW5vdy1iZS1wcm9jdXJlZC1ieS11bi8xNjY2NDQ0L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-12 13:36:41",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-13 19:05:15.020811",
+      "internal_id": "fbc35c21311b5cfea55f250fd42664d044b58dc2deabff3207f2611c91db72f4",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 307,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Aristos Georgiou",
+      "title": "Six-Year-Old Girl With Dengue Fever Crushed to Death in Hospital Elevator",
+      "description": "Prior to the accident, a problem with the elevator had been reported and a technician had come to repair it.",
+      "url": "https://www.newsweek.com/six-year-old-girl-dengue-fever-crushed-death-hospital-elevator-1812441",
+      "urlToImage": "https://d.newsweek.com/en/full/2256572/doctors-pushing-patient-gurney.jpg",
+      "publishedAt": "2023-07-12 13:28:46",
+      "content": "A six-year-old girl has been crushed to death in an elevator accident at a hospital in the Mexican coastal resort of Playa del Carmen. The girl had been hospitalized at the medical facility sufferin\u2026 [+2390 chars]",
+      "retrievedAt": "2023-07-13 19:05:14.793172",
+      "internal_id": "41f7030bb329be53bbba4b88e567cf50d9a01499e8640b14a2627a301d43555b",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 317,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Uganda: Uganda to Get First-Ever Malaria Vaccine",
+      "description": "[Independent (Kampala)] Kampala -- In response to high demand for the first-ever malaria vaccine, Uganda has been listed among 12 countries in Africa that will be allocated a total of 18 million doses of RTS,S/AS01 for the 2023-2025 period.",
+      "url": "https://allafrica.com/stories/202307120499.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-12 12:48:32",
+      "content": "Kampala \u2014 In response to high demand for the first-ever malaria vaccine, Uganda has been listed among 12 countries in Africa that will be allocated a total of 18 million doses of RTS,S/AS01 for the 2\u2026 [+8962 chars]",
+      "retrievedAt": "2023-07-13 19:05:15.544010",
+      "internal_id": "719f9a849d348d110ef0d833c8e555238dc5d7e0e7e7daf4e171d45e1ec9a32c",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 312,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Business Today",
+      "author": "Neetu Chandra Sharma",
+      "title": "WHO prequalifies meningococcal meningitis vaccine developed by Serum Institute and PATH",
+      "description": "Meningococcal meningitis is a rapidly progressing bacterial infection that can prove fatal within hours, with a fatality rate of 50% if left untreated",
+      "url": "https://www.businesstoday.in/latest/in-focus/story/who-prequalifies-meningococcal-meningitis-vaccine-developed-by-serum-institute-and-path-389441-2023-07-12",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202307/priya_raghuvanshi_bi_74-sixteen_nine.png",
+      "publishedAt": "2023-07-12 12:30:20",
+      "content": "The World Health Organization (WHO) has prequalified the first conjugate vaccine against meningococcal meningitis named MenFive. Developed by Pune-based Serum Institute of India in a 13-year collabor\u2026 [+3786 chars]",
+      "retrievedAt": "2023-07-13 19:05:15.022791",
+      "internal_id": "55a35b88e7a7b72107a3fa67473b96d42b20dc42c88d165ec8327c28222df840",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 309,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "SII\u2019s multivalent meningococcal meningitis vaccine gets WHO prequalification - Hindustan Times",
+      "description": "SII\u2019s multivalent meningococcal meningitis vaccine gets WHO prequalification Hindustan Times",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9zZXJ1bS1pbnN0aXR1dGUtb2YtaW5kaWEtcy1tZW5maXZlLXZhY2NpbmUtcHJlcXVhbGlmaWVkLWJ5LXdoby10by1wcm90ZWN0LWFnYWluc3QtbWVuaW5nb2NvY2NhbC1tZW5pbmdpdGlzLWluLWFmcmljYS0xMDE2ODkxNjQ5OTI3NjcuaHRtbNIBtwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9zZXJ1bS1pbnN0aXR1dGUtb2YtaW5kaWEtcy1tZW5maXZlLXZhY2NpbmUtcHJlcXVhbGlmaWVkLWJ5LXdoby10by1wcm90ZWN0LWFnYWluc3QtbWVuaW5nb2NvY2NhbC1tZW5pbmdpdGlzLWluLWFmcmljYS0xMDE2ODkxNjQ5OTI3NjctYW1wLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-12 12:29:52",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-13 19:05:15.017812",
+      "internal_id": "7113accfc751cfb5af7805c6cc189450777fcad8deaeb615d2282bd5c8ea2208",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 314,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "usa-today",
+      "source_name": "USA Today",
+      "author": "USA TODAY, Carlie Procell and Janet Loehrke, USA TODAY",
+      "title": "Malaria cases in the US are on the rise: Your visual guide to symptoms and prevention",
+      "description": "Maps and graphics show the states with confirmed cases of malaria in the U.S. and how the disease is transmitted.",
+      "url": "https://www.usatoday.com/story/graphics/2023/07/12/malaria-cases-florida-texas-explained/70400044007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/11/USAT/19fdffb1-37e9-40ad-bad4-b2e6b03ea42c-usat-graphics-Malaria-US-topper.png?crop=3158,1777,x209,y95&width=3158&height=1777&format=pjpg&auto=webp",
+      "publishedAt": "2023-07-12 11:57:23",
+      "content": "At least seven cases of locally acquired malaria have been reported in the U.S. over the past two months, the first time the disease has had a local spread in 20 years. A public health alert was iss\u2026 [+3859 chars]",
+      "retrievedAt": "2023-07-13 19:05:15.535299",
+      "internal_id": "b15c235b065d158c00558410e67ca0714bbb3aacfd6101d276fb8295a1632a71",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 305,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "RSN MURALI",
+      "title": "Dengue cases in Melaka up compared to same period last year",
+      "description": "MELAKA: Melaka has recorded 265 dengue fever cases from Jan 1 to July 8 this year, which is four cases more than the 261 recorded over the corresponding period in 2022, says Ngwe Hee Sem. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/07/12/dengue-cases-in-melaka-up-compared-to-same-period-last-year",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/12/2174094.jpg",
+      "publishedAt": "2023-07-12 11:45:00",
+      "content": "MELAKA: Melaka has recorded 265 dengue fever cases from Jan 1 to July 8 this year, which is four cases more than the 261 recorded over the corresponding period in 2022, says Ngwe Hee Sem. The Melaka\u2026 [+868 chars]",
+      "retrievedAt": "2023-07-13 19:05:14.788145",
+      "internal_id": "be593a9115afd3437cda8764f49a74c0d0897d71c9804fba125a9a0075e3f621",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 306,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Caso di Dengue a Teolo, tornato dalla Thailandia con forti dolori alle ossa - PadovaOggi",
+      "description": "Caso di Dengue a Teolo, tornato dalla Thailandia con forti dolori alle ossa PadovaOggi Febbre Dengue, un caso a Teolo. Per tre giorni si proceder\u00e0 alla disinfestazione ilgazzettino.it Caso di Dengue a Teolo, scatta la disinfestaz\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBhZG92YW9nZ2kuaXQvYXR0dWFsaXRhL3Rvcm5hLWNhc28tZGVuZ3VlLXRlb2xvLXBhZG92YS0xMi1sdWdsaW8tMjAyMy5odG1s0gFWaHR0cHM6Ly9hbXAucGFkb3Zhb2dnaS5pdC9hdHR1YWxpdGEvdG9ybmEtY2Fzby1kZW5ndWUtdGVvbG8tcGFkb3ZhLTEyLWx1Z2xpby0yMDIzLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-12 09:35:39",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-13 19:05:14.791433",
+      "internal_id": "d5521285770fd1f42eb9456f2926438d89ba5ed494f72f2b89fc17416576f0fa",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 308,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec agences (20 Minutes)",
+      "title": "Moustique tigre : Les cas de dengue ont augment\u00e9 en 2022, Sant\u00e9 publique France pointe une situation \u00ab exceptionnelle \u00bb",
+      "description": "Une surveillance des cas, import\u00e9s et autochtones, est mise en place depuis 2006",
+      "url": "https://www.20minutes.fr/sante/4045313-20230712-moustique-tigre-cas-dengue-augmente-2022-sante-publique-france-pointe-situation-exceptionnelle",
+      "urlToImage": "https://img.20mn.fr/2ezcrCffTiqW3kmipNfJ_ik/1200x768_moustique-tigre-illustration",
+      "publishedAt": "2023-07-12 09:17:36",
+      "content": "Une situation \u00ab exceptionnelle \u00bb. En 2022, en France m\u00e9tropolitaine, 378 cas de dengue ont \u00e9t\u00e9 import\u00e9s, 23 de chikungunya et 6 de Zika, souligne mardi une \u00e9tude de Sant\u00e9 publique France, qui s\u2019inqui\u2026 [+3117 chars]",
+      "retrievedAt": "2023-07-13 19:05:14.798354",
+      "internal_id": "86ead8ee473e3148c0061aee9ccbc76606d39cbd923fee139e46f5d72677468c",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 318,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Liga Nacional rompe la Malaria",
+      "description": "La Liga Nacional por fin pudo romper una larga sequ\u00eda de nueve derrotas consecutivas en el Juego de Estrellas de la MLB, al imponerse 3-2 a la Americana. En el T-Mobile Park, El\u00edas D\u00edaz conect\u00f3 un jonr\u00f3n de dos carreras que le vali\u00f3 el triunfo al viejo circui\u2026",
+      "url": "https://www.jornada.com.mx/2023/07/12/deportes/a11n3dep",
+      "urlToImage": "https://www.jornada.com.mx/2023/07/12/fotos/a11n3dep-1.jpg",
+      "publishedAt": "2023-07-12 08:32:54",
+      "content": "Peri\u00f3dico La JornadaMi\u00e9rcoles 12 de julio de 2023, p. a11 La Liga Nacional por fin pudo romper una larga sequ\u00eda de nueve derrotas consecutivas en el Juego de Estrellas de la MLB, al imponerse 3-2 a \u2026 [+310 chars]",
+      "retrievedAt": "2023-07-13 19:05:15.545760",
+      "internal_id": "3c2007ab92faab515fe34075619733189468d9eba220fdaa63be3f1a15deebab",
+      "publishedAtLabel": "Jul 12"
+    },
     {
       "id": 298,
       "query": [
@@ -3342,279 +3614,6 @@
       "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
       "retrievedAt": "2023-07-07 00:16:25.208321",
       "internal_id": "c5b9fcc71a9d314758c49108977b4da15c9b9817fb897020eb45c84f43d1f3f4",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 93,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Mario Aguilera",
-      "title": "New genetic technology developed to halt malaria-spreading mosquitoes",
-      "description": "Malaria remains one of the world's deadliest diseases. Each year malaria infections result in hundreds of thousands of deaths, with the majority of fatalities occurring in children under five. The Centers for Disease Control and Prevention recently announced \u2026",
-      "url": "https://phys.org/news/2023-07-genetic-technology-halt-malaria-spreading-mosquitoes.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/new-genetic-technology.jpg",
-      "publishedAt": "2023-07-05 20:57:03",
-      "content": "Malaria remains one of the world's deadliest diseases. Each year malaria infections result in hundreds of thousands of deaths, with the majority of fatalities occurring in children under five. The Ce\u2026 [+5128 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.054607",
-      "internal_id": "1f54e269fc79da041d07bf800a2a1ba5fb9dd8080127bd407b177516136479a1",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 95,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "New genetic technology developed to halt malaria-spreading mosquitoes - Phys.org",
-      "description": "New genetic technology developed to halt malaria-spreading mosquitoes Phys.orgView Full Coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDIzLTA3LWdlbmV0aWMtdGVjaG5vbG9neS1oYWx0LW1hbGFyaWEtc3ByZWFkaW5nLW1vc3F1aXRvZXMuaHRtbNIBVmh0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDIzLTA3LWdlbmV0aWMtdGVjaG5vbG9neS1oYWx0LW1hbGFyaWEtc3ByZWFkaW5nLW1vc3F1aXRvZXMuYW1w?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-05 20:57:03",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.058162",
-      "internal_id": "29932b40cd3bee247d6afbba92adc1c57c76f65a249244bd12cfc1815e1fd0d6",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 104,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": null,
-      "title": "WHO delar ut 18 miljoner malariavaccin",
-      "description": "\u25b8 WHO kommer att dela ut 18 miljoner doser av malarivaccin i tolv afrikanska l\u00e4nder.",
-      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1143756",
-      "urlToImage": "https://cdn.aftonbladet.se/share-aftonbladet.jpg",
-      "publishedAt": "2023-07-05 20:39:42",
-      "content": "WHO delar ut 18 miljoner malariavaccin WHO kommer att dela ut 18 miljoner doser av malarivaccin i tolv afrikanska l\u00e4nder. Det rapporterar AFP och h\u00e4nvisar till WHO och vaccinalliansen Gav\u2026 [+12654 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.073930",
-      "internal_id": "1d59c4be820e4352605c98a0f96849f23323bcf7d284a9b492069e3de7a8ded2",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 92,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "New genetic technology developed to halt malaria-spreading mosquitoes",
-      "description": "Using CRISPR technology, scientists have engineered a new way to genetically suppress populations of Anopheles gambiae, the mosquitoes that primarily spread malaria in Africa and contribute to economic poverty in affected regions.",
-      "url": "https://www.sciencedaily.com/releases/2023/07/230705154012.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-07-05 19:40:12",
-      "content": "Malaria remains one of the world's deadliest diseases. Each year malaria infections result in hundreds of thousands of deaths, with the majority of fatalities occurring in children under five. The Ce\u2026 [+4587 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.053168",
-      "internal_id": "b688f58910ef562c261d0b587ca2ff316a2418828ba6ee4cdc6ce9ca8a059962",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 101,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": "Reuters",
-      "title": "9 new African countries to receive millions of malaria vaccines",
-      "description": "Global vaccine alliance GAVI said on Wednesday 12 countries in Africa would receive 18 million doses of malaria vaccine over the next two years, expanding access to the shots to nine new countries in the region.",
-      "url": "https://www.cbc.ca/news/health/africa-malaria-vaccines-1.6897687",
-      "urlToImage": "https://i.cbc.ca/1.6897865.1688583791!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/who-malaria-vaccine.jpg",
-      "publishedAt": "2023-07-05 19:04:02",
-      "content": "Global vaccine alliance GAVI said on Wednesday 12 countries in Africa would receive 18 million doses of malaria vaccine over the next two years, expanding access to the shots to nine new countries in\u2026 [+1222 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.067659",
-      "internal_id": "260783004e27c9769ff8f4175993d6ef512c75e34af9c248bad6552a7b6cf0df",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 77,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Stephen Sorace",
-      "title": "Bobcat that attacked sleeping camper in Connecticut tests positive for rabies",
-      "description": "Wildlife officials in Connecticut said the bobcat that was killed after attacking a sleeping adult camper has tested positive for rabies.",
-      "url": "https://www.foxnews.com/us/bobcat-attacked-sleeping-camper-connecticut-tests-positive-rabies",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Bobcat-istock.jpg",
-      "publishedAt": "2023-07-05 18:33:58",
-      "content": "A bobcat that attacked a camper sleeping in a hammock at a Connecticut state park last week has tested positive for rabies, officials said. The man was among several other adults who were leading a \u2026 [+1336 chars]",
-      "retrievedAt": "2023-07-06 21:28:38.627556",
-      "internal_id": "528cb1fdd76cc572ab5e1f6a34db7948d85e13463b2219b536deb3c5388f8052",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 79,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Michael Atit)",
-      "title": "Sudan Reports 13 Dead in Measles Outbreak",
-      "description": "Health organizations in Sudan\u2019s White Nile state said at least 13 children have died over the past week due to a suspected measles outbreak. An official with the Doctors Without Borders, known by its French acronym MSF, said Sudan\u2019s conflict and the approach \u2026",
-      "url": "https://www.voanews.com/a/sudan-reports-13-dead-in-measles-outbreak-/7168331.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0a00-0242-68b5-08db7d7f0145_w1200_r1.jpg",
-      "publishedAt": "2023-07-05 17:51:36",
-      "content": "Juba, South Sudan Health organizations in Sudans White Nile state said at least 13 children have died over the past week due to a suspected measles outbreak. An official with the Doctors Without Bor\u2026 [+2246 chars]",
-      "retrievedAt": "2023-07-06 21:28:38.865109",
-      "internal_id": "b52509a140df9aafb9002050ffe57d380ab8b07b59b6e43e068806b43c59f851",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 81,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Cameroon launches vaccination campaign to tackle measles, rubella outbreak",
-      "description": "YAOUNDE, July 5 (Xinhua) -- Cameroon on Wednesday launched a five-day vaccination campaign targeting children amid an outbreak of measles and rubella. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2023/07/06/cameroon-launches-vaccination-campaign-to-tackle-measles-rubella-outbreak",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-07-05 17:17:00",
-      "content": "YAOUNDE, July 5 (Xinhua) -- Cameroon on Wednesday launched a five-day vaccination campaign targeting children amid an outbreak of measles and rubella. Out of Cameroon's 200 health districts, 99 hav\u2026 [+812 chars]",
-      "retrievedAt": "2023-07-06 21:28:38.869583",
-      "internal_id": "6d0463090e861df2a316003b5d216485a7c8faf069c1e73738026893b752b1f9",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 88,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "Dengue en Cartagena: casos han aumentado un 114% este 2023",
-      "description": "Durante la \u00faltima semana, el Departamento Administrativo Distrital de Salud (Dadis), report\u00f3 un incremento del 114,4% en el n\u00famero de casos de dengue notificados con respecto al mismo per\u00edodo del a\u00f1o pasado.",
-      "url": "https://www.eluniversal.com.co/cartagena/dengue-en-cartagena-casos-han-aumentado-un-114-este-2023-AF8531570",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/GPRS/dengue_8055490_20230705105723.jpg",
-      "publishedAt": "2023-07-05 16:13:52",
-      "content": "Durante la \u00faltima semana, el Departamento Administrativo Distrital de Salud (Dadis), report\u00f3 un incremento del 114,4% en el n\u00famero de casos de dengue notificados con respecto al mismo per\u00edodo del a\u00f1o\u2026 [+931 chars]",
-      "retrievedAt": "2023-07-06 21:28:39.351944",
-      "internal_id": "19a9e23d963d537750a6c05cee74722f9b548f02de4209502fb5e77db1d09c0b",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 96,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Nine new African countries to receive millions of malaria vaccines- GAVI - SaltWire NS",
-      "description": "Nine new African countries to receive millions of malaria vaccines- GAVI SaltWire NSView Full Coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnNhbHR3aXJlLmNvbS9ub3ZhLXNjb3RpYS9uZXdzL25pbmUtbmV3LWFmcmljYW4tY291bnRyaWVzLXRvLXJlY2VpdmUtbWlsbGlvbnMtb2YtbWFsYXJpYS12YWNjaW5lcy1nYXZpLTEwMDg3MDY5NS_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-05 15:54:11",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.060504",
-      "internal_id": "92a6fa2eb7ac2d5bdb8f951b7062634ca9a17167e5c989403edb5deadd128cd6",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 97,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Nine new African countries to receive millions of malaria vaccines- GAVI - Yahoo Canada Sports",
-      "description": "Nine new African countries to receive millions of malaria vaccines- GAVI Yahoo Canada Sports Africa to receive 18 million doses of malaria vaccine Reuters 18 million doses of first-ever malaria vaccine allocated to 12 African cou\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vY2Euc3BvcnRzLnlhaG9vLmNvbS9uZXdzL25pbmUtYWZyaWNhbi1jb3VudHJpZXMtcmVjZWl2ZS1taWxsaW9ucy0xNTQzNDczNTUuaHRtbNIBX2h0dHBzOi8vY2Euc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvbmluZS1hZnJpY2FuLWNvdW50cmllcy1yZWNlaXZlLW1pbGxpb25zLTE1NDM0NzM1NS5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-05 15:43:47",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.061849",
-      "internal_id": "8b6121ff945e3c13805b93c485dbd161a29e414c9df3fbb074242970344efa7a",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 91,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Nine new African countries to receive millions of malaria vaccines ... - Reuters",
-      "description": "Nine new African countries to receive millions of malaria vaccines ... Reuters",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FmcmljYS9uaW5lLW5ldy1hZnJpY2FuLWNvdW50cmllcy1yZWNlaXZlLW1pbGxpb25zLW1hbGFyaWEtdmFjY2luZXMtZ2F2aS0yMDIzLTA3LTA1L9IBAA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-05 15:43:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.050694",
-      "internal_id": "c4bb9a92b33ba50a316ac5282722d244ef96bcc5dd3da49fa8996b8e47a427ab",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 102,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.gva.be",
-      "author": "gjs",
-      "title": "WHO stuurt 18 miljoen dosissen van allereerste malariavaccin naar 12 landen",
-      "description": "De Wereldgezondheidsorganisatie (WHO) en UNICEF gaan 18 miljoen dosissen van het malariavaccin sturen naar 12 landen. Dat heeft de topman van de WHO, Tedros Adhanom Ghebreyesus, woensdag aangekondigd.",
-      "url": "https://www.gva.be/cnt/dmf20230705_95646918",
-      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2023/07/05/29ef452e-c293-4f3c-88e5-a7ac6305f977.jpg?maxheight=460&maxwidth=629",
-      "publishedAt": "2023-07-05 15:40:51",
-      "content": "De Wereldgezondheidsorganisatie (WHO) en UNICEF gaan 18 miljoen dosissen van het malariavaccin sturen naar 12 landen. Dat heeft de topman van de WHO, Tedros Adhanom Ghebreyesus, woensdag aangekondigd\u2026 [+1011 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.069332",
-      "internal_id": "6545a412642a55c27a756bd27d9ff23184d5be286c1fdb1b9ed98d727c2838b0",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 84,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Moskitofarm in Brasilien: Mit M\u00fccken gegen Dengue und Zika - Tagesspiegel",
-      "description": "Moskitofarm in Brasilien: Mit M\u00fccken gegen Dengue und Zika Tagesspiegel",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRhZ2Vzc3BpZWdlbC5kZS93aXNzZW4vbW9za2l0b2Zhcm0taW4tYnJhc2lsaWVuLW1pdC1tdWNrZW4tZ2VnZW4tZGVuZ3VlLXVuZC16aWthLTEwMDk5MTMyLmh0bWzSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-05 15:38:36",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-06 21:28:39.343574",
-      "internal_id": "8cf75f2d0f8012c191d960682e494d58cb59bcf39be7dfc5609ca1a286628848",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 86,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Farangies Ghafoor",
-      "title": "Moskitofarm in Brasilien: Mit M\u00fccken gegen Dengue und Zika",
-      "description": "M\u00fccken mit M\u00fccken bek\u00e4mpfen: In einer Biofabrik will Brasilien Milliarden M\u00fccken z\u00fcchten, die mit einem Fortpflanzungstrick die Dengue- und Zika-M\u00fccken verdr\u00e4ngen sollen.",
-      "url": "https://www.tagesspiegel.de/wissen/moskitofarm-in-brasilien-mit-mucken-gegen-dengue-und-zika-10099132.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/april-6-2016-guangzhou-guangzhou-chn-guangzhou-china-april-6-2016-editorial-use-only-c/alternates/BASE_16_9_W1400/april-6-2016-guangzhou-guangzhou-chn-guangzhou-china-april-6-2016-editorial-use-only-c.jpeg",
-      "publishedAt": "2023-07-05 15:38:36",
-      "content": "In Brasilien entsteht derzeit eine gro\u00dfe Moskitofarm zur Bek\u00e4mpfung von Arboviren wie Dengue, Zika und Chikungunya. Die Kosten f\u00fcr Bau und Betrieb werden auf 19 Millionen US-Dollar gesch\u00e4tzt. Die Kos\u2026 [+1488 chars]",
-      "retrievedAt": "2023-07-06 21:28:39.346742",
-      "internal_id": "d3ce29c480a35620253c373fae6cd29f3e23274a61fc0c6011d9755063ff965e",
       "publishedAtLabel": "Jul 5"
     }
   ]
