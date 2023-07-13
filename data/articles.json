@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-07-12 23:29",
-  "count_articles_total": 289,
-  "count_articles_new": 5,
+  "last_updated": "2023-07-13 07:05",
+  "count_articles_total": 294,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 298,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh reports highest daily death toll of dengue this year till now - Xinhua",
+      "description": "Bangladesh reports highest daily death toll of dengue this year till now Xinhua Biting back: Thailand's dengue battle claims 33 lives, Public Health Office reveals Thaiger DDC warns of grim year for dengue Bangkok Post <li\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZW5nbGlzaC5uZXdzLmNuLzIwMjMwNzEyL2E4ODBkYjU4YTUyYTQ1NjJhNDcyODIzZjk2YjkyMWU1L2MuaHRtbNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-12 06:09:45",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-13 07:05:38.257258",
+      "internal_id": "d5ded2d977b98046c2b15ba90e50f55630bb94ddb58f445625b4925bc081fca2",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 303,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Amina Wako",
+      "title": "18 million doses of vaccine a shot in the arm for malaria war",
+      "description": "18 million doses of vaccine a shot in the arm for malaria warnation.africa",
+      "url": "https://nation.africa/kenya/health/18-million-doses-of-vaccine-a-shot-in-the-arm-for-malaria-war-4299024",
+      "urlToImage": "https://nation.africa/resource/image/4171838/landscape_ratio3x2/1200/800/5e75cdf06478e6e473333cc86f89f74a/rG/vac-pix1.jpg",
+      "publishedAt": "2023-07-12 05:06:27",
+      "content": "Kenya is among 12 African countries set to receive 18 million doses of the first-ever malaria vaccine over the next two years, the global vaccine alliance (Gavi) has announced. The allocation of the\u2026 [+2445 chars]",
+      "retrievedAt": "2023-07-13 07:05:38.904367",
+      "internal_id": "245a042b55ecc709bc7c2045eec00d1328e5d22d1a17c107de8bc242288d21d0",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 301,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Americanthinker.com",
+      "author": null,
+      "title": "Why malaria returned to the USA",
+      "description": "What's the deadliest animal in the world? A tiger? A great white shark? A poisonous snake? Nope. The most dangerous animal on Earth weighs about 2/1000 of a gram, is smaller than an M&M, ...",
+      "url": "https://www.americanthinker.com/blog/2023/07/why_malaria_returned_to_the_usa.html",
+      "urlToImage": "https://www.americanthinker.com/images/bucket/2023-07/247452.jpg",
+      "publishedAt": "2023-07-12 05:00:00",
+      "content": "What's the deadliest animal in the world? A tiger? A great white shark? A poisonous snake? Nope. The most dangerous animal on Earth weighs about 2/1000 of a gram, is smaller than an M&amp;M, and\u2026 [+4934 chars]",
+      "retrievedAt": "2023-07-13 07:05:38.897767",
+      "internal_id": "a874f04175e94b153947f264bca61794e92c9bbb6b93be9be056fe1c9ce6157c",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 300,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Mycobacterium abscessus Meningitis Associated with Stem Cell Treatment During Medical Tourism",
+      "description": "M. abscessus Meningitis and Medical Tourism",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/8/23-0317_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-07-12 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Mycobacterium abscessus is\u2026 [+9447 chars]",
+      "retrievedAt": "2023-07-13 07:05:38.496056",
+      "internal_id": "612914cf621bd07b5bb6398a92bdd5dfca6d3a677ebf55ad75150b4cdb3f28c5",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 304,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Laboratory Diagnosis of Mpox, Central African Republic, 2016\u20132022",
+      "description": "Mpox, Central African Republic, 2016\u20132022",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/9/23-0514_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-07-12 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Mpox is caused by the monk\u2026 [+8904 chars]",
+      "retrievedAt": "2023-07-13 07:05:39.716501",
+      "internal_id": "af10f7267b2a75def3dc6c8965d6b91e876b4ea907993b570af54ecc21d0328d",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 297,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Giri Viswanathan",
+      "title": "To keep US free of dog rabies, CDC proposes updates to dog import rules for the first time in 70 years",
+      "description": "For the first time in nearly 70 years, the US Centers for Disease Control and Prevention is proposing a change in how dogs are imported into the United States.",
+      "url": "https://www.cnn.com/2023/07/11/health/cdc-dog-import-rules/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230711134354-dog-import-cdc.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-07-12 00:32:47",
+      "content": "For the first time in nearly 70 years, the US Centers for Disease Control and Prevention is proposing a change in how dogs are imported into the United States. Revisiting guidelines last revised in \u2026 [+4429 chars]",
+      "retrievedAt": "2023-07-13 07:05:37.423314",
+      "internal_id": "eb4ae878991b1f1c99583cc3a9da4e995ac6b38f94c526b712712c1f394f8add",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 302,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "national-geographic",
+      "source_name": "National Geographic",
+      "author": "Tara Haelle",
+      "title": "Is malaria making a comeback in the U.S.?",
+      "description": "Recent locally acquired cases in Florida and Texas have raised concerns about a rise in mosquito-borne diseases. How vulnerable are we?",
+      "url": "https://www.nationalgeographic.com/premium/article/malaria-florida-texas-mosquitoes",
+      "urlToImage": "https://i.natgeofe.com/n/6a391c24-bec4-4ec6-9bcb-efc9fe943db6/C0545775-Anopheles_mosquito_LM_16x9.jpg?w=1200",
+      "publishedAt": "2023-07-12 00:00:00",
+      "content": "Copyright \u00a9 1996-2015 National Geographic SocietyCopyright \u00a9 2015-2023 National Geographic Partners, LLC. All rights reserved",
+      "retrievedAt": "2023-07-13 07:05:38.900188",
+      "internal_id": "c370b142d86e4a67a7abcba58df29a73c00834b15fbf1e4a1d7adbb366b7a4a2",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 299,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Redacci\u00f3n",
+      "title": "\u00bfTragedia que pudo evitarse? Elevador donde ni\u00f1a muri\u00f3 en el IMSS ten\u00eda reporte de fallas",
+      "description": "La ni\u00f1a ingres\u00f3 a la cl\u00ednica para ser atendida por dengue alrededor de las 22:00 horas del lunes, explicaron las autoridades.",
+      "url": "https://www.elfinanciero.com.mx/nacional/2023/07/11/muerte-de-nina-en-imss-en-quintana-roo-elevador-tenia-reporte-de-fallas/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/DM5HPMp-MhZX08iYDo9Ft3C08Rk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6OUF34L2HVD4BAPKPIRDQLYLBU.jpg",
+      "publishedAt": "2023-07-11 23:30:03",
+      "content": "El elevador en el que una menor de edad muri\u00f3 tras ser prensada en las instalaciones del Instituto Mexicano del Seguro Social (IMSS) no. 18 en Playa del Carmen contaba con un reporte de fallas, infor\u2026 [+1761 chars]",
+      "retrievedAt": "2023-07-13 07:05:38.261315",
+      "internal_id": "afae2f7a3b30c6b5f936c5e3500e87ec30572d41e17cd5afb6d05979dff41f07",
+      "publishedAtLabel": "Jul 11"
+    },
     {
       "id": 296,
       "query": [
@@ -3471,150 +3615,6 @@
       "content": "In Brasilien entsteht derzeit eine gro\u00dfe Moskitofarm zur Bek\u00e4mpfung von Arboviren wie Dengue, Zika und Chikungunya. Die Kosten f\u00fcr Bau und Betrieb werden auf 19 Millionen US-Dollar gesch\u00e4tzt. Die Kos\u2026 [+1488 chars]",
       "retrievedAt": "2023-07-06 21:28:39.346742",
       "internal_id": "d3ce29c480a35620253c373fae6cd29f3e23274a61fc0c6011d9755063ff965e",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 103,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nieuwsblad.be",
-      "author": "gjs",
-      "title": "WHO stuurt 18 miljoen dosissen van allereerste malariavaccin naar 12 landen",
-      "description": "De Wereldgezondheidsorganisatie (WHO) en UNICEF gaan 18 miljoen dosissen van het malariavaccin sturen naar 12 landen. Dat heeft de topman van de WHO, Tedros Adhanom Ghebreyesus, woensdag aangekondigd.",
-      "url": "https://www.nieuwsblad.be/cnt/dmf20230705_95563478",
-      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2023/07/05/29ef452e-c293-4f3c-88e5-a7ac6305f977.jpg?maxheight=460&maxwidth=638",
-      "publishedAt": "2023-07-05 15:24:33",
-      "content": "De Wereldgezondheidsorganisatie (WHO) en UNICEF gaan 18 miljoen dosissen van het malariavaccin sturen naar 12 landen. Dat heeft de topman van de WHO, Tedros Adhanom Ghebreyesus, woensdag aangekondigd\u2026 [+1011 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.071254",
-      "internal_id": "3e32ea94fef1f12388d144bf51ac7e00490ef7bf7cc8a6962f7820f6a9795470",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 100,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.hln.be",
-      "author": "JDO",
-      "title": "WHO verstrekt 18 miljoen dosissen van allereerste malariavaccin aan 12 landen",
-      "description": "De Wereldgezondheidsorganisatie (WHO) en Unicef gaan de komende twee jaar 18 miljoen dosissen van het eerste malariavaccin sturen naar 12 landen in Afrika. Dat heeft de topman van de WHO, Tedros Adhanom Ghebreyesus, woensdag aangekondigd.",
-      "url": "https://www.hln.be/buitenland/who-verstrekt-18-miljoen-dosissen-van-allereerste-malariavaccin-aan-12-landen-br~a0e644f1/",
-      "urlToImage": "https://images0.persgroep.net/rcs/5-WcZdAMM0y5JPI-E1ZXloLkfWA/diocontent/230843289/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
-      "publishedAt": "2023-07-05 15:17:41",
-      "content": "Volgens gegevens van de WHO heeft malaria in 2021 het leven gekost aan 619.000 mensen wereldwijd. De ziekte wordt veroorzaakt door de beet van een mug en gaat gepaard met symptomen zoals koorts, hoof\u2026 [+1401 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.066100",
-      "internal_id": "e981c15360c696780de4672444e0f045763a54e985533de7ae5541d5db6b0ff1",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 98,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "12 African countries receive first-ever malaria vaccine",
-      "description": "Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever RTS,S/AS01 malaria vaccine from 2023 to 2025. This was disclosed in a joint press statement by Gavi, the Vaccine Alliance, the World Health Organisation,\u2026",
-      "url": "https://punchng.com/12-african-countries-receive-first-ever-malaria-vaccine/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/07/05161205/vaccine.jpeg",
-      "publishedAt": "2023-07-05 15:16:12",
-      "content": "Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever RTS,S/AS01 malaria vaccine from 2023 to 2025. This was disclosed in a joint press statement\u2026 [+3615 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.063292",
-      "internal_id": "5869750dcb2d00ee2138846c6c75767af737b48570de984f0a91098552aa2362",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 108,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "info@who.int (WHO)",
-      "title": "Africa: WHO Director-General's Opening Remarks At the Media Briefing - 5 July 2023",
-      "description": "Document - Good morning, good afternoon and good evening,",
-      "url": "https://allafrica.com/stories/202307050544.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-05 15:15:16",
-      "content": "Good morning, good afternoon and good evening, First malaria, I'm pleased that together with Gavi and UNICEF, WHO will shortly announce the allocation of 18 million doses of the RTS,S malaria vaccin\u2026 [+6431 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.080590",
-      "internal_id": "8d7e8c3f02b5c95aa3205e30915a4e50c259fddd4e34e30345f1df19d1dd8ab0",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 89,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Politicalwire.com",
-      "author": "Taegan Goddard",
-      "title": "Wisconsin Republicans Block Vaccine Requirement",
-      "description": "\"The Republican-controlled Wisconsin Legislature on Wednesday voted to stop Democratic Gov. Tony Evers\u2019 administration from requiring seventh graders to be vaccinated against meningitis,\" the AP reports.\"The state Senate and Assembly, with all Republicans in \u2026",
-      "url": "https://politicalwire.com/2023/07/05/wisconsin-republicans-block-vaccine-requirement/",
-      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
-      "publishedAt": "2023-07-05 15:10:20",
-      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
-      "retrievedAt": "2023-07-06 21:28:39.569450",
-      "internal_id": "86843007adcadb3af6dbf944d408729888ce26d4d28f0fb32995d5123e9814a1",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 73,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Science X",
-      "title": "Bobcat that attacked a camper in Connecticut tests positive for rabies",
-      "description": "A bobcat that attacked a camper in a hammock at a Connecticut state park has tested positive for rabies.",
-      "url": "https://phys.org/news/2023-07-bobcat-camper-connecticut-positive-rabies.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/bobcat.jpg",
-      "publishedAt": "2023-07-05 14:42:20",
-      "content": "A bobcat that attacked a camper in a hammock at a Connecticut state park has tested positive for rabies. The man was among several adults leading a group of young campers last week in Selden Neck St\u2026 [+1531 chars]",
-      "retrievedAt": "2023-07-06 21:28:38.618949",
-      "internal_id": "09e24e502a0dc1d64bc5fd37ae7898575a5263896a3d9fcd79f000da9e8b7016",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 109,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "Doce pa\u00edses africanos recibir\u00e1n 18 millones de dosis de la primera vacuna contra la malaria hasta 2025",
-      "description": "Doce pa\u00edses de diferentes regiones de \u00c1frica recibir\u00e1n 18 millones de dosis de la primera vacuna contra la malaria en los pr\u00f3ximos dos a\u00f1os, seg\u00fan han anunciado este mi\u00e9rcoles la Organizaci\u00f3n Mundial de la Salud (OMS), la Alianza de Vacunas Gavi y UNICEF.",
-      "url": "https://www.infosalus.com/salud-investigacion/noticia-doce-paises-africanos-recibiran-18-millones-dosis-primera-vacuna-contra-malaria-2025-20230705163454.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230705163454_1200.jpg",
-      "publishedAt": "2023-07-05 14:34:54",
-      "content": "MADRID, 5 Jul. (EUROPA PRESS) - Doce pa\u00edses de diferentes regiones de \u00c1frica recibir\u00e1n 18 millones de dosis de la primera vacuna contra la malaria en los pr\u00f3ximos dos a\u00f1os, seg\u00fan han anunciado est\u2026 [+3738 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.082235",
-      "internal_id": "d0d754ce467e5e038d4ef89282a9d57613f67b7b6a9c1409b6dcba05a4ab7ae1",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 105,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Pongruj Rattaprasert, Chutima Chavananikul, Wirasak Fungfuang, Porntip Chavalitshewinkoon-Petmitr, Paviga Limudomporn",
-      "title": "Combining isothermal recombinase polymerase amplification with lateral flow assay for diagnosis of P. cynomolgi malaria infection",
-      "description": "Author summary P. cynolmogi is zoonotic protozoa that cause malaria in both macaques and humans. In the past few years, the human infection rate from this parasite has risen throughout Southeast Asia. We have developed molecular testing for diagnosing P. cyno\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011470",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011470.g003&size=inline",
-      "publishedAt": "2023-07-05 14:00:00",
-      "content": "Abstract Background Plasmodium cynomolgi is a nonhuman primate parasite that causes malaria in humans and is transmitted by the Anopheles mosquito. Macaques, the natural hosts of P. cynomolgi, are \u2026 [+28472 chars]",
-      "retrievedAt": "2023-07-06 21:28:40.075597",
-      "internal_id": "3f092fb98f9f2ee35fd05a21d27b40e4db327cc5755cd17f0a9d3787c30dbea8",
       "publishedAtLabel": "Jul 5"
     }
   ]
