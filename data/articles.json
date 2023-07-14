@@ -1,8 +1,227 @@
 {
-  "last_updated": "2023-07-14 07:05",
-  "count_articles_total": 294,
-  "count_articles_new": 9,
+  "last_updated": "2023-07-14 19:05",
+  "count_articles_total": 295,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 330,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "50-pound rabid beaver attacks girl swimming in Georgia lake",
+      "description": "\"Once that rabies virus gets into the brain of the animal - in this case, a beaver - they just act crazy,\" one official said.",
+      "url": "https://www.cbsnews.com/news/rabid-beaver-attacks-girl-lake-lanier-georgia-father-kills-animal/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/13/9151e20f-2ec9-4424-918f-098d800ebaa8/thumbnail/1200x630/4652fb53a3bcf168ed92b29054d50402/gettyimages-584647976.jpg?v=867e41af7e860d9286e5bd7e91ee0db8",
+      "publishedAt": "2023-07-13 17:45:17",
+      "content": "A rabid beaver bit a young girl while she was swimming in a northeast Georgia lake, local news outlets reported, prompting the girl's father to kill the animal. Kevin Buecker, field supervisor for H\u2026 [+3671 chars]",
+      "retrievedAt": "2023-07-14 19:05:24.033065",
+      "internal_id": "4392c5cc0ac606f5873316863824d9d65c9cfa4a7a9f5137daf907c168c608d8",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 329,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": "Jennifer Lee",
+      "title": "Whooping cough still spreading as southern Alberta outbreak grows",
+      "description": "Dozens more cases of pertussis, also known as whooping cough, have been identified as an outbreak in southern Alberta shows no signs of letting up. And sporadic cases of the highly contagious disease, which can be prevented through vaccination, are popping up\u2026",
+      "url": "https://www.cbc.ca/news/canada/calgary/whooping-cough-still-spreading-as-southern-alberta-outbreak-grows-1.6904516",
+      "urlToImage": "https://i.cbc.ca/1.5050264.1689206825!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/child-coughing.jpg",
+      "publishedAt": "2023-07-13 17:25:51",
+      "content": "Dozens more cases of pertussis, also known as whooping cough, have been identified as an outbreak in southern Alberta shows no signs of letting up. And sporadic cases of the highly contagious diseas\u2026 [+3679 chars]",
+      "retrievedAt": "2023-07-14 19:05:23.454994",
+      "internal_id": "20f78892758b79b5e1f0c76c3774d935c5fd29db05910d5b30f52b5ffedb8c54",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 332,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Lawrence Richard",
+      "title": "Georgia girl attacked by rabid beaver while swimming in Lake Lanier",
+      "description": "A girl swimming in Lake Lanier near Gainesville, Georgia, was attacked by a beaver that later tested positive for rabies. The girl's father then beat the animal to death.",
+      "url": "https://www.foxnews.com/us/georgia-girl-attacked-rabid-beaver-swimming-lake-lanier",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/GettyImages-1517819669.jpg",
+      "publishedAt": "2023-07-13 15:31:12",
+      "content": "A rabid beaver bit a girl as she was swimming in Lake Lanier near Gainesville, Georgia, the first such attack in decades, officials said. Hall County Animal Control Field Supervisor Kevin Buecker to\u2026 [+1601 chars]",
+      "retrievedAt": "2023-07-14 19:05:24.039149",
+      "internal_id": "8f28a4eda8246deae73eb2d1eb1a11549f27cc73ff58172a3c93d288321b5854",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 337,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Mosquito cases surge in Florida: Researcher notes tips to avoid 'mosquito-borne illnesses'",
+      "description": "Mosquito-borne illnesses have taken a surge lately, as per latest report. To counter these mishaps, here are some advices one may take into consideration.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/mosquito-cases-surge-in-florida-researcher-notes-tips-to-avoid-mosquito-borne-illnesses/articleshow/101734441.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-101734477,width-1070,height-580,imgsize-39472,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-07-13 14:56:35",
+      "content": "As malaria cases increase across the world, concerns over mosquito-borne illnesses have heightened, prompting many to question the most effective methods for eliminating these troublesome insects. Wh\u2026 [+2293 chars]",
+      "retrievedAt": "2023-07-14 19:05:26.472367",
+      "internal_id": "58b199d26b5bf13e6c2e12c1a880dde4135599d42c9349fbcd7d776b14c77360",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 336,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Singularity Hub",
+      "author": "Vanessa Bates Ramirez",
+      "title": "CRISPR\u2019d Mosquitoes With All-Male Offspring Could Help Eradicate Malaria",
+      "description": "Scientists have long searched for a vaccine against malaria, but it remains one of the deadliest diseases in the world. Almost half of the world\u2019s population lives in areas where malaria transmission occurs, and an estimated 619,000 people died of the disease\u2026",
+      "url": "https://singularityhub.com/2023/07/13/crisprd-mosquitoes-with-all-male-offspring-could-help-eradicate-malaria/",
+      "urlToImage": "https://singularityhub.com/wp-content/uploads/2023/07/Mosquito-Akbari-1200-628-7-3-23.jpg",
+      "publishedAt": "2023-07-13 14:00:48",
+      "content": "Scientists have long searched for a vaccine against malaria, but it remains one of the deadliest diseases in the world. Almost half of the worlds population lives in areas where malaria transmission \u2026 [+4067 chars]",
+      "retrievedAt": "2023-07-14 19:05:26.462190",
+      "internal_id": "c664925dd7c5a0075177543d7113e527863042e3aa274afd5b9b12b6798281b7",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 334,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mayke Leggewie, Christina Scherer, Mine Altinli, Rommel J. Gestuveo, Vattipally B. Sreenu, Janina Fuss, Marie Vazeille, Laurence Mousson, Marlis Badusche, Alain Kohl, Anna-Bella Failloux, Esther Schnettler",
+      "title": "The Aedes aegypti RNA interference response against Zika virus in the context of co-infection with dengue and chikungunya viruses",
+      "description": "Author summary Zika virus (ZIKV) is a mosquito-borne human-pathogenic arbovirus of the Flaviviridae family, genus Flavivirus. Other arboviruses, including dengue (DENV) or chikungunya (CHIKV) virus, can occur in the same regions as ZIKV and are also transmitt\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011456",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011456.g006&size=inline",
+      "publishedAt": "2023-07-13 14:00:00",
+      "content": "Abstract Since its detection in 2015 in Brazil, Zika virus (ZIKV) has remained in the spotlight of international public health and research as an emerging arboviral pathogen. In addition to single i\u2026 [+51075 chars]",
+      "retrievedAt": "2023-07-14 19:05:25.372549",
+      "internal_id": "9b664fa6c5710297d3db1330a4011f352f8481007fa6751556fc9ccc687d2dc1",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 338,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Francis Williams Ojara, Aida N. Kawuma, Catriona Waitt",
+      "title": "A systematic review on maternal-to-infant transfer of drugs through breast milk during the treatment of malaria, tuberculosis, and neglected tropical diseases",
+      "description": "Author summary Malaria, tuberculosis, and neglected tropical diseases (NTDs) are prevalent in regions where exclusive breastfeeding is the norm and jointly contributed to more than 300 million incident cases in 2021 alone. Transfer of drugs from the mother to\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011449",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011449.g004&size=inline",
+      "publishedAt": "2023-07-13 14:00:00",
+      "content": "Introduction Malaria, tuberculosis, and neglected tropical diseases (NTDs) are among the leading causes of morbidity and mortality globally. The World Health Organization (WHO) estimated global inci\u2026 [+48176 chars]",
+      "retrievedAt": "2023-07-14 19:05:26.475042",
+      "internal_id": "ec8536a8aff18970a4cb78d625ce0fe73300b6b28b7198f35f700457de6e5dc3",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 335,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sputnikportal.rs",
+      "author": "Sputnik \u0421\u0440\u0431\u0438\u0458\u0430",
+      "title": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434 \u0438\u0437 \u0421\u0440\u0431\u0438\u0458\u0435 \u043f\u043e\u0432\u0443\u0447\u0435\u043d \u0438\u0437 \u043f\u0440\u043e\u0434\u0430\u0458\u0435 \u0443 \u0425\u0440\u0432\u0430\u0442\u0441\u043a\u043e\u0458: \u041d\u0430\u0452\u0435\u043d\u0430 \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0458\u0430, \u043c\u043e\u0436\u0435 \u0434\u0430 \u0438\u0437\u0430\u0437\u043e\u0432\u0435 \u043c\u0435\u043d\u0438\u043d\u0433\u0438\u0442\u0438\u0441",
+      "description": "\u0425\u0440\u0432\u0430\u0442\u0441\u043a\u0438 \u0438\u043d\u0441\u043f\u0435\u043a\u0442\u043e\u0440\u0430\u0442 \u043d\u0430\u043b\u043e\u0436\u0438\u043e \u0458\u0435 \u043f\u043e\u0432\u043b\u0430\u0447\u0435\u045a\u0435 \u0438\u0437 \u043f\u0440\u043e\u0434\u0430\u0432\u043d\u0438\u0446\u0430 \u0434\u0438\u043c\u0459\u0435\u043d\u043e\u0433 \u0444\u0438\u043b\u0435\u0442\u0430 \u043b\u043e\u0441\u043e\u0441\u0430 \u0447\u0438\u0458\u0438 \u0458\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0452\u0430\u0447 \u0444\u0438\u0440\u043c\u0430 \u0438\u0437 \u0421\u0440\u0431\u0438\u0458\u0435, \u0437\u0431\u043e\u0433 \u043f\u043e\u0458\u0430\u0432\u0435 \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0458\u0435 \u043a\u043e\u0458\u0430 \u043c\u043e\u0436\u0435 \u0438\u0437\u0430\u0437\u0432\u0430\u0442\u0438 \u0447\u0430\u043a \u0438 \u043c\u0435\u043d\u0438\u043d\u0433\u0438\u0442\u0438\u0441 \u0438\u043b\u0438 \u043f\u043e\u0431\u0430\u0447\u0430\u0458 \u043a\u043e\u0434 \u0442\u0440\u0443\u0434\u043d\u0438\u0446\u0430.",
+      "url": "https://sputnikportal.rs/20230713/proizvod-iz-srbije-povucen-iz-prodaje-u-hrvatskoj-nadjena-bakterija-moze-da-izazove-meningitis-1158493165.html",
+      "urlToImage": "https://cdn1.img.sputnikportal.rs/images/sharing/article/srb/1158493165.jpg?11476321631689251002",
+      "publishedAt": "2023-07-13 12:23:21",
+      "content": "https://sputnikportal.rs/20230713/proizvod-iz-srbije-povucen-iz-prodaje-u-hrvatskoj-nadjena-bakterija-moze-da-izazove-meningitis-1158493165.html , ... 13.07.2023, Sputnik /html/head/meta[@name='o\u2026 [+767 chars]",
+      "retrievedAt": "2023-07-14 19:05:25.697654",
+      "internal_id": "96f7a94339e86c488cd0d887ccdc699d3d3c6e3b4b48c7f225895b06d26548ff",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 333,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue to Malaria: 5 common monsoon diseases and how to protect yourself - DNA India",
+      "description": "Dengue to Malaria: 5 common monsoon diseases and how to protect yourself DNA India Immunity: Follow These Tips To Lower Risk of Respiratory Infections During Monsoon NDTV Immunity boosting drink for monsoon: Try lemon and turmeri\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRuYWluZGlhLmNvbS9oZWFsdGgvcmVwb3J0LWRlbmd1ZS10by1tYWxhcmlhLTUtY29tbW9uLW1vbnNvb24tZGlzZWFzZXMtYW5kLWhvdy10by1wcm90ZWN0LXlvdXJzZWxmLTMwNTE1MjbSAQA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13 11:07:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-14 19:05:25.364366",
+      "internal_id": "97ab241c8ab0cdb735b262098ce1633c92f240735437c85d23c00c1d8fd4053c",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 331,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Pandora Dewan",
+      "title": "Rabid Beaver Attacks Girl in Lake, Father Beat It to Death",
+      "description": "Officials described the animal as the \"biggest beaver\" they had ever seen.",
+      "url": "https://www.newsweek.com/rabid-beaver-attacks-girl-lake-father-beat-death-1812701",
+      "urlToImage": "https://d.newsweek.com/en/full/2256998/beaver.jpg",
+      "publishedAt": "2023-07-13 11:05:32",
+      "content": "A rabies alert has been issued in Gainesville, Georgia, after a young girl was bitten by a rabid beaver on the weekend. The incident took place on Saturday afternoon while the girl was swimming off \u2026 [+2628 chars]",
+      "retrievedAt": "2023-07-14 19:05:24.035898",
+      "internal_id": "1bd687579ba7bbc33fa57270e5edab8a11272fc912ab9279974a9ea489779639",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 340,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Monsoon can cause these illnesses - News18",
+      "description": "Monsoon can cause these illnesses News18 Leptospirosis: Beware of the unseen killer lurking in floodwaters INQUIRER.net Monsoon brings fever, gastric infections; docs warn against cold food The Indian Express How does \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5ld3MxOC5jb20vd2ViLXN0b3JpZXMvaGVhbHRoL21vbnNvb24tY2FuLWNhdXNlLXRoZXNlLWlsbG5lc3Nlcy0yNDc0MDcv0gFTaHR0cHM6Ly93d3cubmV3czE4LmNvbS93ZWItc3Rvcmllcy9oZWFsdGgvbW9uc29vbi1jYW4tY2F1c2UtdGhlc2UtaWxsbmVzc2VzLTI0NzQwNy8?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13 09:50:50",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-14 19:05:29.116685",
+      "internal_id": "c7376e2da2fc92c9da8e62faa6b5c9530b5363ee985489405af3f62d7226836f",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 339,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Is malaria making a comeback in the U.S.? - National Geographic",
+      "description": "Is malaria making a comeback in the U.S.?National Geographic Malaria cases in Florida and Texas prompt CDC warning: What to knowUSA TODAY Sarasota County Mosquito Management taking measures to eradicate mosquitos carrying malariaCBS News Mosquito Management o\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171373639",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13 07:52:17",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-14 19:05:26.480559",
+      "internal_id": "6cc604ad3b4544d719fa503cfb894e574275bb88470420a3bf37d4bc43c9df6d",
+      "publishedAtLabel": "Jul 13"
+    },
     {
       "id": 320,
       "query": [
@@ -3398,222 +3617,6 @@
       "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
       "retrievedAt": "2023-07-07 19:05:28.811431",
       "internal_id": "b87e93f9de0cdeb47d01009828a07194e4cf971db8d554e8d94e33d74553caad",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 158,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "18 Millionen Impfdosen: Afrikanische L\u00e4nder starten gro\u00dfes Malaria-Impfprogramm",
-      "description": "Fast eine halbe Millionen Kinder unter f\u00fcnf Jahren sterben j\u00e4hrlich an dem Virus. Die Hoffnung ist gro\u00df, dass der neue Impfstoff die Tropenkrankheit, die die h\u00e4ufigste Todesursache ist, eind\u00e4mmt.",
-      "url": "https://www.tagesspiegel.de/wissen/18-millionen-impfdosen-afrikanische-lander-starten-grosses-malaria-impfprogramm-10102090.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/us-health-science-malaria/alternates/BASE_16_9_W1400/us-health-science-malaria.jpeg",
-      "publishedAt": "2023-07-06 09:42:44",
-      "content": "Zw\u00f6lf afrikanische L\u00e4nder sollen in den n\u00e4chsten zwei Jahren insgesamt 18 Millionen Dosen eines neuartigen Malaria-Impfstoffs erhalten. Das teilten die Weltgesundheitsorganisation WHO, die Impfallian\u2026 [+1904 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.815655",
-      "internal_id": "2859418a52e6c61f94bb916629781558f12a533b2e90ff38cb7280384af22c7f",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 155,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "WHO identifies 12 African countries for roll out of first-ever malaria vaccine | TheHealthSite.com - TheHealthSite",
-      "description": "WHO identifies 12 African countries for roll out of first-ever malaria vaccine | TheHealthSite.com TheHealthSite Africa to receive 18 million doses of malaria vaccine Reuters 18 million doses of first-ever malaria vaccine allocat\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50aGVoZWFsdGhzaXRlLmNvbS9uZXdzL2ZpcnN0LWV2ZXItbWFsYXJpYS12YWNjaW5lLTEyLWFmcmljYW4tY291bnRyaWVzLXRvLXJlY2VpdmUtMTgtbWlsbGlvbi1kb3Nlcy1pbi10aGUtbmV4dC10d28teWVhcnMtOTkwMzcwL9IBkAFodHRwczovL3d3dy50aGVoZWFsdGhzaXRlLmNvbS9uZXdzL2ZpcnN0LWV2ZXItbWFsYXJpYS12YWNjaW5lLTEyLWFmcmljYW4tY291bnRyaWVzLXRvLXJlY2VpdmUtMTgtbWlsbGlvbi1kb3Nlcy1pbi10aGUtbmV4dC10d28teWVhcnMtOTkwMzcwL2FtcC8?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-06 09:21:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.807593",
-      "internal_id": "1e1730b53a2384ed966f83a86fbb9188fc891fc793ab904b94e7fca2f890eb35",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 141,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Dengue cases drop by 8%, no fatalities recorded, says Health Ministry",
-      "description": "PUTRAJAYA: The number of dengue fever cases dropped by 8.0%, or 226 cases, to 2,582 cases in the 25th epidemiological week (ME25), which is for the period from June 18 to 24, compared to 2,808 cases reported in the previous week. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/07/06/dengue-cases-drop-by-8-no-fatalities-recorded-says-health-ministry",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/06/2163126.jpg",
-      "publishedAt": "2023-07-06 08:09:00",
-      "content": "PUTRAJAYA: The number of dengue fever cases dropped by 8.0%, or 226 cases, to 2,582 cases in the 25th epidemiological week (ME25), which is for the period from June 18 to 24, compared to 2,808 cases \u2026 [+1135 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.115765",
-      "internal_id": "dd6ae70a6f2023faf99787fdd72b2509dc157a09a5e1d41c5bfcd0bb5e70b648",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 151,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Gazzetta.it",
-      "author": "Francesco Palma",
-      "title": "Malaria: 5 nuovi casi negli USA. Non accadeva da 20 anni",
-      "description": "Sono stati registrati 4 episodi in Florida e uno in Texas: la patologia \u00e8 causata da una particolare zanzara",
-      "url": "https://www.gazzetta.it/salute/06-07-2023/malaria-5-nuovi-casi-negli-usa-non-accadeva-da-20-anni.shtml",
-      "urlToImage": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2023/07/03/64a30419a6675.jpeg",
-      "publishedAt": "2023-07-06 08:00:18",
-      "content": "Francesco Palma 6 luglio - MILANO Lincubo della malaria \u00e8 tornato: nellultima settimana sono stati confermati ben 5 casi a trasmissione locale negli Stati Uniti, non accadeva da 20 anni. Quattro di\u2026 [+1826 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.799654",
-      "internal_id": "6b5653b724b7459df8652376e6cccc9b8536e74d71adc9af7abe06e1ea4cf5fc",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 152,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Sun Sentinel",
-      "author": "Cindy Krischer Goodman, South Florida Sun Sentinel",
-      "title": "What makes you a mosquito magnet? Some people can\u2019t escape the pesky but dangerous bites",
-      "description": "FORT LAUDERDALE, Fla. -- Mosquitos can carry some dangerous diseases, including malaria, recently rediscovered in Florida. Whether you are a target of those ...",
-      "url": "https://www.sun-sentinel.com/2023/06/30/what-makes-you-a-mosquito-magnet-some-people-cant-escape-the-pesky-but-dangerous-bites/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AoNjoN5OGO1JvcODHj.tyg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTg-/https://media.zenfs.com/en/south_florida_sun_sentinel_national_820/af461360da514f179a052611a9eff8a8",
-      "publishedAt": "2023-07-06 08:00:00",
-      "content": "FORT LAUDERDALE, Fla. -- Mosquitos can carry some dangerous diseases, including malaria, recently rediscovered in Florida. Whether you are a target of those pesky insects may depend on an odd array \u2026 [+7801 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.802195",
-      "internal_id": "fa5af507d5b8246d57f21c504984e1508ea14a7866b01ac33e9abdace19c46e8",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 132,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Medical Daily",
-      "author": "Suneeta Sunny",
-      "title": "World Zoonoses Day: Know About Common Diseases That Spread From Animals To Humans",
-      "description": "World Zoonoses Day marks the day the first vaccine against rabies, a zoonotic disease, was developed by French microbiologist Louis Pasteur.",
-      "url": "https://www.medicaldaily.com/world-zoonoses-day-know-about-common-diseases-that-spread-animals-humans-470435",
-      "urlToImage": "https://d.medicaldaily.com/en/full/305076/rabies.jpg",
-      "publishedAt": "2023-07-06 07:52:17",
-      "content": "World Zoonoses Day is marked on July 6 every year to raise awareness about the causes, symptoms, prevention and treatment of zoonotic diseases that account for 2.7 million human deaths worldwide each\u2026 [+2834 chars]",
-      "retrievedAt": "2023-07-07 19:05:27.320098",
-      "internal_id": "54597644ec054846441baf1afedadf14ea8caf144c129335d950614e489ff1c4",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 163,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Inter Press Service",
-      "author": "Zofeen Ebrahim",
-      "title": "Vaccination Is the Best Bet Against Drug-Resistant Superbugs \u2014 Experts",
-      "description": "Childhood vaccination, complemented with clean drinking water and improved hygiene practices, are the key to eradication of typhoid XDR, not indiscriminate use of antibiotics, say Pakistan health experts.",
-      "url": "https://www.ipsnews.net/2023/07/vaccination-is-the-best-bet-against-drug-resistant-superbugs-say-experts/",
-      "urlToImage": "https://www.ipsnews.net/Library/2023/07/IMG_0723.jpg",
-      "publishedAt": "2023-07-06 07:14:29",
-      "content": "Africa, Civil Society, Development &amp; Aid, Editors' Choice, Featured, Headlines, Health, Humanitarian Emergencies, Inequality, Poverty &amp; SDGs, TerraViva United NationsHealth Vaccination Is th\u2026 [+12774 chars]",
-      "retrievedAt": "2023-07-07 19:05:30.220442",
-      "internal_id": "6c2a53a177e72df2bd0e620ffce2b457e7d328bd75909afaa0f8a4ca7e11f346",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 129,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: 12 African Countries to Receive Lifesaving Malaria Vaccine - UN",
-      "description": "[Premium Times] The malaria vaccine had been administered to more than 1.6 million children in Ghana, Kenya and Malawi since 2019 and shown to be safe and effective.",
-      "url": "https://allafrica.com/stories/202307060070.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-06 07:03:58",
-      "content": "The malaria vaccine had been administered to more than 1.6 million children in Ghana, Kenya and Malawi since 2019 and shown to be safe and effective. The Global Vaccine Alliance (GAVI), the World He\u2026 [+2362 chars]",
-      "retrievedAt": "2023-07-07 07:05:42.494652",
-      "internal_id": "eb832275461f501ee95d935d5d6cc4feba10cadc16d211f4e10dbd1b20321272",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 126,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Erster Malaria-Impfstoff f\u00fcr zw\u00f6lf afrikanische L\u00e4nder - UNICEF Deutschland",
-      "description": "Erster Malaria-Impfstoff f\u00fcr zw\u00f6lf afrikanische L\u00e4nder UNICEF Deutschland",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnVuaWNlZi5kZS9pbmZvcm1pZXJlbi9ha3R1ZWxsZXMvcHJlc3NlLy0vZXJzdGVyLW1hbGFyaWEtaW1wZnN0b2ZmLWZ1ZXItMTItYWZyaWthbmlzY2hlLWxhZW5kZXIvMzM1Mzg20gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-06 06:50:56",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-07 07:05:42.486111",
-      "internal_id": "37738baab4edacdc1069ce02a7417f151af9a8141cc2420f1bc6c777e87f3a3b",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 124,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thaipbsworld.com",
-      "author": "Marisa Chimprabha (World)",
-      "title": "Dengue fever on the rise",
-      "description": "The Disease Control Department is warning the public about the spread of dengue fever, saying that more than 27,000 people have been infected, with 33 reported deaths, in the past... The post Dengue fever on the rise first appeared on Thai PBS World : The lat\u2026",
-      "url": "https://www.thaipbsworld.com/dengue-fever-on-the-rise/",
-      "urlToImage": "https://www.thaipbsworld.com/wp-content/uploads/2023/07/mos-600x275.png",
-      "publishedAt": "2023-07-06 06:15:53",
-      "content": "The Disease Control Department is warning the public about the spread of dengue fever, saying that more than 27,000 people have been infected, with 33 reported deaths, in the past six months. Accord\u2026 [+1010 chars]",
-      "retrievedAt": "2023-07-07 07:05:41.840317",
-      "internal_id": "e9fd67133ba6d7fbfa5bca5d20fac8ce0fa0be90f64954b842ebb054ac5cb7c8",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 121,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0417\u0434\u043e\u0440\u043e\u0432\u044c\u0435 Mail.ru",
-      "title": "\u0422\u0440\u0430\u0432\u043c\u0430\u0442\u043e\u043b\u043e\u0433 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b \u043e \u0442\u0440\u0430\u0432\u043c\u0430\u0445, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u043e\u0434\u0436\u0438\u0434\u0430\u044e\u0442 \u043d\u0430\u0441 \u043d\u0430 \u0434\u0430\u0447\u0435",
-      "description": "\u041b\u044e\u0431\u0430\u044f \u0432\u044b\u043b\u0430\u0437\u043a\u0430 \u043d\u0430 \u043f\u0440\u0438\u0440\u043e\u0434\u0443 \u0442\u0430\u0438\u0442 \u0432 \u0441\u0435\u0431\u0435 \u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u043e \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0435\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u0440\u0438\u0432\u0435\u0441\u0442\u0438 \u0432 \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u0432\u0440\u0430\u0447\u0430 \u0438\u043b\u0438 \u0434\u0430\u0436\u0435 \u0432 \u0441\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440.",
-      "url": "https://health.mail.ru/news/travmatolog_rasskazal_o_travmah_kotorye/",
-      "urlToImage": "https://health.mail.ru/sharepic/33/2402805/?1688582090",
-      "publishedAt": "2023-07-06 06:00:00",
-      "content": "-- \u00ab-\u00bb, ... Mail.ru, . , - . , , , , . ! , : - (, , , , ..), ( , , ), , , , . , , -, , : , . -, , , , -: , () . , (, , , , , . .). ( , rabies ) : , . , , , , , . : ? : : 10 (\u2026 [+10 chars]",
-      "retrievedAt": "2023-07-07 07:05:41.246632",
-      "internal_id": "59346e82fd21ad9709b071d23cf50d76017bf08bdb5f6148545c8640a85d9f73",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 128,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: African Countries to Get 18 Million Doses of First-Ever Malaria Vaccine",
-      "description": "[Capital FM] New York -- Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years. The rollout is a critical step forward in the fight against one of the leading causes o\u2026",
-      "url": "https://allafrica.com/stories/202307060032.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-06 05:47:51",
-      "content": "New York \u2014 Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years. The rollout is a critical step forward in\u2026 [+5119 chars]",
-      "retrievedAt": "2023-07-07 07:05:42.493308",
-      "internal_id": "01a9935b2249a7500f41284beb716d7f1bea2e520b5cd88952f87395d2b3d4a4",
       "publishedAtLabel": "Jul 6"
     }
   ]
