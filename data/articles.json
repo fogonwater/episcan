@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-07-13 19:05",
+  "last_updated": "2023-07-14 07:05",
   "count_articles_total": 294,
-  "count_articles_new": 15,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 320,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Day camp warns parents of camper infected with pertussis",
+      "description": "Health Ministry warns of potential outbreak after child in northern Israel is diagnosed with pertussis.",
+      "url": "https://www.israelnationalnews.com/news/374084",
+      "urlToImage": "https://www.inn.co.il/static/pictures/1200x930/1126346.jpg?autocrop=1",
+      "publishedAt": "2023-07-13 06:41:02",
+      "content": "Israel's Health Ministry on Wednesday evening reported that there may be a pertussis outbreak in a day camp in northern Israel, Kikar Hashabbat reported. The camp, located in the Acre (Akko) Subdist\u2026 [+2142 chars]",
+      "retrievedAt": "2023-07-14 07:05:49.512300",
+      "internal_id": "8d15243e3c593c3681e176ab1dabec7a3d8e439091be52b994c090eac1c5ed64",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 322,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Dr Rommel Tickoo",
+      "title": "Preventing dengue: Have high fever? High haemoglobin levels and not platelet counts are what you should track",
+      "description": "Strap: Let me assure you that a majority of patients have mild or asymptomatic disease and a shock syndrome happens in rare cases. The only way to keep yourself away from dangerous thresholds, therefore, is to keep your fluid balance by drinking more than you\u2026",
+      "url": "https://indianexpress.com/article/health-wellness/preventing-dengue-have-high-fever-high-haemoglobin-levels-and-not-platelet-counts-are-what-you-should-track-8832572/",
+      "urlToImage": "https://images.indianexpress.com/2023/07/dengue_1200_HS.jpg",
+      "publishedAt": "2023-07-13 04:49:15",
+      "content": "As news of the unusual monsoon and waterlogging floods our newswires, it would be wise on our part to prepare for and prevent a dengue outbreak. Few patients are already coming into our hospital and \u2026 [+3915 chars]",
+      "retrievedAt": "2023-07-14 07:05:50.385344",
+      "internal_id": "6b0514d6b2433a3612b5f2f26be23bed6a8c7f3619e397c7fe7d6d2cc781e29d",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 325,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "SII's meningitis vaccine gets WHO nod on quality, safety - Indiatimes.com",
+      "description": "SII's meningitis vaccine gets WHO nod on quality, safety Indiatimes.comView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvcHVuZS9zaWlzLW1lbmluZ2l0aXMtdmFjY2luZS1nZXRzLXdoby1ub2Qtb24tcXVhbGl0eS1zYWZldHkvYXJ0aWNsZXNob3cvMTAxNzEzNDIyLmNtc9IBeWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvcHVuZS9zaWlzLW1lbmluZ2l0aXMtdmFjY2luZS1nZXRzLXdoby1ub2Qtb24tcXVhbGl0eS1zYWZldHkvYW1wX2FydGljbGVzaG93LzEwMTcxMzQyMi5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13 02:55:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-14 07:05:50.587029",
+      "internal_id": "1e5d767817e60421523442ff12c82c8c488b32e095a54e86d84e84d06a3b72d7",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 326,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "SII's meningitis vaccine gets WHO nod on quality, safety - Times of India",
+      "description": "SII's meningitis vaccine gets WHO nod on quality, safety Times of IndiaView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifmh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvcHVuZS9zaWlzLW1lbmluZ2l0aXMtdmFjY2luZS1nZXRzLXdoby1ub2Qtb24tcXVhbGl0eS1zYWZldHkvYXJ0aWNsZXNob3cvMTAxNzEzNDIyLmNtc9IBeWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvcHVuZS9zaWlzLW1lbmluZ2l0aXMtdmFjY2luZS1nZXRzLXdoby1ub2Qtb24tcXVhbGl0eS1zYWZldHkvYW1wX2FydGljbGVzaG93LzEwMTcxMzQyMi5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-13 02:55:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-14 07:05:50.589556",
+      "internal_id": "7bf5661a3610b5ef91254eb1dbd67ce7916cefd83bae9b7bb2d26eeb19cafa4d",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 327,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Kristine Belonio",
+      "title": "This Is How Many Malaria Cases The US Records Every Year",
+      "description": "The United States has recently witnessed an uptick in malaria cases.",
+      "url": "https://www.medicaldaily.com/this-how-many-malaria-cases-us-records-every-year-470491",
+      "urlToImage": "https://d.medicaldaily.com/en/full/469370/malaria.jpg",
+      "publishedAt": "2023-07-12 23:55:23",
+      "content": "The United States has witnessed an uptick in locally acquired malaria cases, with at least seven reported over the past two months. This marked the first instance of local transmission of the disease\u2026 [+2880 chars]",
+      "retrievedAt": "2023-07-14 07:05:50.890466",
+      "internal_id": "4da265eea7246342743aa38f4a6276748207af83973021dd46ab1893aed6a1e3",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 321,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Guadeloupe : l\u2019\u00e9mergence de foyers de dengue \u00ab \u00e0 caract\u00e8re expansif \u00bb alerte les autorit\u00e9s sanitaires",
+      "description": "Selon l\u2019ARS, \u00ab l\u2019augmentation r\u00e9guli\u00e8re du nombre de cas signal\u00e9s est constat\u00e9e chaque semaine depuis avril \u00bb. Certains cas ont \u00ab occasionn\u00e9 plusieurs passages aux urgences adultes et p\u00e9diatriques \u00bb, ajoute l\u2019organisme de sant\u00e9.",
+      "url": "https://www.lemonde.fr/outre-mer/article/2023/07/13/guadeloupe-l-emergence-de-foyers-de-dengue-a-caractere-expansif-alerte-les-autorites-sanitaires_6181727_1840826.html",
+      "urlToImage": "https://img.lemde.fr/2023/06/21/0/0/3543/2362/1440/960/60/0/1e8dba6_1687325262939-mg-5970.jpg",
+      "publishedAt": "2023-07-12 22:50:38",
+      "content": "Un moustique Tigre pris au pi\u00e8ge dune carte adh\u00e9sive. Le 4 mai 2023. REMY ARTIGES POUR \u00ab LE MONDE \u00bb Plus de 425 cas de dengue ont \u00e9t\u00e9 enregistr\u00e9s en Guadeloupe depuis janvier 2023, a indiqu\u00e9 mercred\u2026 [+1533 chars]",
+      "retrievedAt": "2023-07-14 07:05:50.381640",
+      "internal_id": "46a8005e5717ca70dde0908e2faf1a6d835c9237c980c4fb6ade522a8a2091b6",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 328,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Doktor Zoom",
+      "title": "Florida ... Malaria ... FLALARIA!",
+      "description": "Federal health officials are keeping an eye on what seems to be an itty-bitty outbreak of malaria in Florida (six cases) and in Texas (one case), although the US Centers for Disease Control notice is careful to point out there's \"no evidence to suggest that t\u2026",
+      "url": "https://www.wonkette.com/florida-malaria-flalaria",
+      "urlToImage": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zNDMxOTcxOC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTcxMDA5NjY5Nn0.VwvwukEq7X5-Ozb2dub7IO7u4hi9UpWUAuAFCtrQ0YM/img.jpg?width=1200&height=600&coordinates=0%2C0%2C0%2C128",
+      "publishedAt": "2023-07-12 20:20:00",
+      "content": "Federal health officials are keeping an eye on what seems to be an itty-bitty outbreak of malaria in Florida (six cases) and in Texas (one case), although the US Centers for Disease Control notice is\u2026 [+5701 chars]",
+      "retrievedAt": "2023-07-14 07:05:50.897292",
+      "internal_id": "c0a6a5120f09220058bbba6cbd515b8bb28f44426fbc8c626736bf1018af749a",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 324,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "trasier",
+      "title": "Una ni\u00f1a de seis a\u00f1os muere aplastada en un elevador del IMSS en Playa del Carmen | EL PA\u00cdS M\u00e9xico",
+      "description": "El accidente sucedi\u00f3 en la noche de este lunes cuando la peque\u00f1a era trasladada al \u00e1rea de hospitalizaci\u00f3n por un caso de dengue. Los reportes preliminares apuntan a que el elevador empez\u00f3 a subir con las puertas abiertas cuando la camilla en la que era trans\u2026",
+      "url": "https://www.meneame.net/m/actualidad/nina-seis-anos-muere-aplastada-elevador-imss-playa-carmen-pais",
+      "urlToImage": null,
+      "publishedAt": "2023-07-12 19:42:18",
+      "content": "Mira, la ni\u00f1a si, ha fallecido, pero la carga que le va a quedar a los que la met\u00edan en el montacargas, y a los padres... tiene que ser horrible",
+      "retrievedAt": "2023-07-14 07:05:50.396035",
+      "internal_id": "106e47522a7dc0c05672a060c98d5e9b3d984e46bf515b54b4cbdff5d793d2b6",
+      "publishedAtLabel": "Jul 12"
+    },
     {
       "id": 316,
       "query": [
@@ -525,6 +669,24 @@
       "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
       "retrievedAt": "2023-07-12 19:05:24.828426",
       "internal_id": "49b2d29b484569c8dfb9fdeec94710b8e40290e85018d44005fe2bcdf90d21ea",
+      "publishedAtLabel": "Jul 11"
+    },
+    {
+      "id": 323,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Maternal dengue fever: 'Compelling evidence' that even mild infections impact birth outcomes",
+      "description": "Detrimental effects of all severities of maternal dengue infections on birth outcomes have been discovered in a new research study.",
+      "url": "https://www.sciencedaily.com/releases/2023/07/230711133134.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-07-11 17:31:34",
+      "content": "Detrimental effects of all severities of maternal dengue infections on birth outcomes have been discovered in a new research study from the University of Surrey and the University of Birmingham.Surre\u2026 [+3299 chars]",
+      "retrievedAt": "2023-07-14 07:05:50.388126",
+      "internal_id": "4494c4642044f8929e819cc81d6fa6f0528611c21933235eb4c7188ffd248823",
       "publishedAtLabel": "Jul 11"
     },
     {
@@ -3453,168 +3615,6 @@
       "retrievedAt": "2023-07-07 07:05:42.493308",
       "internal_id": "01a9935b2249a7500f41284beb716d7f1bea2e520b5cd88952f87395d2b3d4a4",
       "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 122,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Siti N, Kenzu",
-      "title": "Jakarta boosts rabies vaccination and sterilization efforts",
-      "description": "The Jakarta provincial government is bolstering free rabies vaccination services and the sterilization of animals that carry rabies (HPR) to maintain Jakarta's rabies-free status. \"The continuous rabies vaccination ...",
-      "url": "https://en.antaranews.com/news/287352/jakarta-boosts-rabies-vaccination-and-sterilization-efforts",
-      "urlToImage": "https://cdn.antaranews.com/cache/800x533/2023/03/15/antarafoto-antisipasi-penyebaran-rabies-pada-hewan-peliharaan-150323-riv-1.jpg",
-      "publishedAt": "2023-07-06 05:39:02",
-      "content": "Jakarta (ANTARA) - The Jakarta provincial government is bolstering free rabies vaccination services and the sterilization of animals that carry rabies (HPR) to maintain Jakarta's rabies-free status.\"\u2026 [+1753 chars]",
-      "retrievedAt": "2023-07-07 07:05:41.250035",
-      "internal_id": "363b057a6159ddf1b8544c6a4022f63e62f07b27abdfe40413c59c07d1cc2bb0",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 127,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: 18 Million Doses of First-Ever Malaria Vaccine Allocated to 12 African Countries for 2023-2025 - Gavi, WHO and Unicef",
-      "description": "[Unicef] Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years. The roll out is a critical step forward in the fight against one of the leading causes of death in the \u2026",
-      "url": "https://allafrica.com/stories/202307060010.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-06 05:06:48",
-      "content": "Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years. The roll out is a critical step forward in the fight\u2026 [+5200 chars]",
-      "retrievedAt": "2023-07-07 07:05:42.490737",
-      "internal_id": "8c2373e3011cfd6effcc65ad1d716acbd99d603640cc1402c57621b4a8820797",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 130,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: More African Countries to Receive Lifesaving Malaria Vaccine",
-      "description": "[UN News] Twelve African countries will receive 18 million doses of the first-ever vaccine against malaria over the next two years, care of global vaccine alliance GAVI, the World Health Organization (WHO) and UN Children's Fund (UNICEF) announced on Wednesda\u2026",
-      "url": "https://allafrica.com/stories/202307060003.html",
-      "urlToImage": "https://cdn04.allafrica.com/download/pic/main/main/csiid/00601047:a52e225333f45e98c62015cb64ae6f14:arc614x376:w1200.jpg",
-      "publishedAt": "2023-07-06 04:38:34",
-      "content": "Twelve African countries will receive 18 million doses of the first-ever vaccine against malaria over the next two years, care of global vaccine alliance GAVI, the World Health Organization (WHO) and\u2026 [+2952 chars]",
-      "retrievedAt": "2023-07-07 07:05:42.496042",
-      "internal_id": "d482fc810e2cc9280aef29f1555430b8b2c2336353c3b166eb72a8e0de08c0e3",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 125,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Corriere.it",
-      "author": "Redazione Buone Notizie",
-      "title": "Malaria, non solo profilassi, ora c\u2019\u00e8 il primo vaccino vero: 18 milioni di dosi in Africa (ma ne serviranno 100)",
-      "description": "Scoperto nel 2019, il farmaco aveva superato la distribuzione sperimentale prima della pandemia e adesso riparte un piano da 18 milioni di dosi in 12 Paesi africani tra cui quelli pi\u00f9 poveri, dal Burkina faso al Niger.",
-      "url": "https://www.corriere.it/buone-notizie/23_luglio_06/malaria-non-solo-profilassi-ora-c-primo-vaccino-vero-18-milioni-dosi-africa-ma-ne-serviranno-100-5d93abc8-1b80-11ee-802f-6d9619f8b741.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/07/06/1f9bc940-1b9e-11ee-802f-6d9619f8b741.jpg",
-      "publishedAt": "2023-07-06 02:54:11",
-      "content": "di Redazione Buone NotizieScoperto nel 2019, il farmaco aveva superato la distribuzione sperimentale prima della pandemia e adesso riparte un piano da 18 milioni di dosi in 12 Paesi africani tra cui \u2026 [+2050 chars]",
-      "retrievedAt": "2023-07-07 07:05:42.482008",
-      "internal_id": "19625f75ece0415f7e53be1b9f0359dfa21e21d11915859c1386020362359e83",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 118,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "usa-today",
-      "source_name": "USA Today",
-      "author": "Hannah Hudnall, USA TODAY",
-      "title": "Genetically modified mosquitos released in US not tied to Gates, malaria cases | Fact check",
-      "description": "The Gates Foundation hasn't funded Oxitec's release of genetically modified mosquitos, which also weren't released where malaria cases were detected.",
-      "url": "https://www.usatoday.com/story/news/factcheck/2023/07/05/gates-donations-used-for-mosquito-research-outside-us-fact-check/70374908007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GVpInTfXOjOLGgGKGunu5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_news_641/02c3eec8a8157eef1a3a6577b83dce6a",
-      "publishedAt": "2023-07-05 23:55:48",
-      "content": "The claim: Bill Gates released genetically modified mosquitos in the US A June 28 Instagram video shows a woman speaking in front of a screenshot of an article published by a website called American\u2026 [+4627 chars]",
-      "retrievedAt": "2023-07-07 00:16:25.211885",
-      "internal_id": "dd77460d220109d5e0a1887e2568b3c94ea84a28768f3b84c81b4f67fce144e1",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 119,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Africa to receive 18 million doses of malaria vaccine - Reuters",
-      "description": "Africa to receive 18 million doses of malaria vaccine Reuters 18 million doses of first-ever malaria vaccine allocated to 12 African countries for 2023\u20132025: Gavi, WHO and UNICEF Gavi, the Vaccine Alliance WHO announces 18 mn mal\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiCzRVRWVQMTBzc2E4mAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-05 23:21:58",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-07 00:16:25.215999",
-      "internal_id": "5a6bd94ba6c4d8ac6fd1a85a39b320bf4efca7aa0ef16076d2627a720dfa1e9d",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 120,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "United Nations",
-      "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
-      "description": "The World Health Organization announced today that 12 countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years. The roll-out is a critical step forward in the fight against one \u2026",
-      "url": "https://press.un.org/en/2023/db230705.doc.htm",
-      "urlToImage": null,
-      "publishedAt": "2023-07-05 22:45:45",
-      "content": "The following is a near-verbatim transcript of todays noon briefing by Farhan Haq, Deputy Spokesman for the Secretary-General. Good afternoon, everyone. **Security Council This morning, Virginia G\u2026 [+28685 chars]",
-      "retrievedAt": "2023-07-07 00:16:25.225954",
-      "internal_id": "65069e6e83e7aed5f25752711c63f0305e48ee3b4da1f8e5cd81497313cc8ffc",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 116,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ndmais.com.br",
-      "author": "ND Mais",
-      "title": "SC registra mais seis mortes por dengue em uma semana; \u00f3bitos chegam a 77 em 2023",
-      "description": "Relat\u00f3rio da Dive/SC aponta ainda que 148 munic\u00edpios est\u00e3o infestados pelo mosquito Aedes Aegypti, sendo 37 est\u00e3o em n\u00edvel de epidemia...",
-      "url": "https://ndmais.com.br/saude/sc-registra-mais-seis-mortes-por-dengue-em-uma-semana-obitos-chegam-a-77-em-2023/",
-      "urlToImage": "https://static.ndmais.com.br/2023/05/dengue-900x475.jpg",
-      "publishedAt": "2023-07-05 22:30:00",
-      "content": "A Dive/SC (Diretoria de Vigil\u00e2ncia Epidemiol\u00f3gica) divulgou nesta quarta-feira (5) um novo boletim atualizando os casos de dengue em 2023 em Santa Catarina. Mais de 80 mil pessoas contrariam a doen\u00e7a\u2026 [+801 chars]",
-      "retrievedAt": "2023-07-07 00:16:24.456689",
-      "internal_id": "10585f3d9bd161a65896a6fa6471dbc3bd364b8c514753f6e7a3f46cc3d13457",
-      "publishedAtLabel": "Jul 5"
-    },
-    {
-      "id": 117,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Africa to receive 18 mln doses of malaria vaccine - Reuters",
-      "description": "Africa to receive 18 mln doses of malaria vaccine Reuters",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3ZpZGVvL3dhdGNoL2FmcmljYS10by1yZWNlaXZlLTE4LW1sbi1kb3Nlcy1vZi1tYWxhcmktaWRPVjQ5MzkwNTA3MjAyM1JQMT9jaGFuPThnd3N5dnp40gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-05 22:00:35",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-07 00:16:25.208321",
-      "internal_id": "c5b9fcc71a9d314758c49108977b4da15c9b9817fb897020eb45c84f43d1f3f4",
-      "publishedAtLabel": "Jul 5"
     }
   ]
 }
