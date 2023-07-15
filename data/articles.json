@@ -1,8 +1,675 @@
 {
-  "last_updated": "2023-07-15 07:05",
-  "count_articles_total": 295,
-  "count_articles_new": 7,
+  "last_updated": "2023-07-15 19:05",
+  "count_articles_total": 297,
+  "count_articles_new": 37,
   "articles": [
+    {
+      "id": 380,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "DC-area doctor gives tips on malaria prevention - WTOP",
+      "description": "DC-area doctor gives tips on malaria prevention WTOP Latest On Florida Malaria Cases | Weather.com The Weather Channel Experts in Florida combat mosquitos with malaria #news #florida #malaria #mosquito ABC Action News \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3RvcC5jb20vaGVhbHRoLWZpdG5lc3MvMjAyMy8wNy9kYy1hcmVhLWRvY3Rvci1naXZlcy10aXBzLW9uLW1hbGFyaWEtcHJldmVudGlvbi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 18:40:37",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:07.827921",
+      "internal_id": "055df9781051f15405ed80bbfb9472a2613e4ea0c219aa7bc977201360a15d26",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 373,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Associated Press",
+      "title": "Health security agency warns of potential measles outbreak in London as vaccination rates plummet",
+      "description": "The Health Security Agency in the UK issued a concerning statement on Friday, revealing that measles vaccination rates in certain parts of London have fallen to alarmingly low levels.",
+      "url": "https://www.foxnews.com/world/health-security-agency-warns-potential-measles-outbreak-london-vaccination-rates-plummet",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Mumps.jpg",
+      "publishedAt": "2023-07-14 18:21:48",
+      "content": "Britains Health Security Agency said on Friday that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causing disease \u2026 [+2279 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.725302",
+      "internal_id": "b289be543a9b418e17231306bc82d52c8651013d3cc4e97c10e61264312f0269",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 381,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Latest On Florida Malaria Cases | Weather.com - The Weather Channel",
+      "description": "Latest On Florida Malaria Cases | Weather.com The Weather Channel Experts in Florida combat mosquitos with malaria #news #florida #malaria #mosquito ABC Action News Malaria concerns have Polk mosquito control working extra hours \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd2VhdGhlci5jb20vaGVhbHRoL25ld3MvMjAyMy0wNy0xNC1mbG9yaWRhLW1hbGFyaWEtdGV4YXPSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 18:19:35",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:07.829558",
+      "internal_id": "7a300a9943506d951d0426967851571500acce1cf654da62107dab1365043eba",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 384,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Vnexpress.net",
+      "author": "VnExpress",
+      "title": "El Nino khi\u1ebfn b\u1ec7nh d\u1ecbch do mu\u1ed7i truy\u1ec1n t\u0103ng",
+      "description": "B\u1ed9 Y t\u1ebf c\u1ea3nh b\u00e1o El Nino c\u00f3 th\u1ec3 l\u00e0m t\u0103ng s\u1ef1 l\u00e2y truy\u1ec1n b\u1ec7nh s\u1ed1t xu\u1ea5t huy\u1ebft v\u00e0 c\u00e1c lo\u1ea1i virus kh\u00e1c nh\u01b0 Zika, Chikungunya, vi\u00eam n\u00e3o Nh\u1eadt B\u1ea3n, trong th\u1eddi gian t\u1edbi.",
+      "url": "https://vnexpress.net/el-nino-khien-benh-dich-do-muoi-truyen-tang-4629421.html",
+      "urlToImage": "https://vcdn1-suckhoe.vnecdn.net/2023/07/14/cg2a6039-1656425102-1689336294-2476-1689336327.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=j5iFsXPvpVqRZwX4rNA9kA",
+      "publishedAt": "2023-07-14 18:00:00",
+      "content": "B Y t cnh b\u00e1o El Nino c\u00f3 th l\u00e0m tng s l\u00e2y truyn bnh st xut huyt v\u00e0 c\u00e1c loi virus kh\u00e1c nh Zika, Chikungunya, vi\u00eam n\u00e3o Nht Bn, trong thi gian ti.Ng\u00e0y 14/7, B Y t cho bit Vit Nam l\u00e0 nc nhit i vi kh\u00ed hu \u2026 [+2392 chars]",
+      "retrievedAt": "2023-07-15 19:05:08.145997",
+      "internal_id": "22380a7975ca4097a9c83c51f716ef5293f5dc71a1f35e50c1befaf79d2dafd7",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 382,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thesurvivalpodcast.com",
+      "author": "The Survival Podcast",
+      "title": "Expert Council Q&A for 7-14-23 \u2013 Epi-3340",
+      "description": "Today on The Survival Podcast the expert council answers your questions on totalitarianism, censorship, globalism, canning, grid failures, malaria, game meat, investing, medicating children & more. Make sure if you submit content for an expert council show yo\u2026",
+      "url": "https://www.thesurvivalpodcast.com/experts-7-14-23",
+      "urlToImage": "https://www.thesurvivalpodcast.com/wp-content/uploads/2023/07/3340-thumb.jpeg",
+      "publishedAt": "2023-07-14 17:47:37",
+      "content": "Podcast: Play in new window | Download (Duration: 1:23:59 \u2014 24.0MB) Today on The Survival Podcast the expert council answers your questions on totalitarianism, censorship, globalism, canning, grid f\u2026 [+2092 chars]",
+      "retrievedAt": "2023-07-15 19:05:07.832273",
+      "internal_id": "6292d22a6918ec40de77b52c9abdd95e389ebb660e19dd22a6d41d2c5733e8df",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 377,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue spreads tentacles in Odisha as capital city becomes mosquito hotspot - OTV News",
+      "description": "Dengue spreads tentacles in Odisha as capital city becomes mosquito hotspot OTV NewsView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicmh0dHBzOi8vb2Rpc2hhdHYuaW4vbmV3cy9vZGlzaGEvZGVuZ3VlLXNwcmVhZHMtdGVudGFjbGVzLWluLW9kaXNoYS1hcy1jYXBpdGFsLWNpdHktYmVjb21lcy1tb3NxdWl0by1ob3RzcG90LTIwOTQzONIBAA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 17:07:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:07.035349",
+      "internal_id": "de0f915ccfb08ca2700f2091a000b90bf95fdf9e1195fa79aad93f433ecbd99c",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 362,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "London at risk of major measles outbreak, UK Health Security Agency warns - The Guardian",
+      "description": "London at risk of major measles outbreak, UK Health Security Agency warns The Guardian London measles warning: Outbreak could hit tens of thousands BBC Urgent measles warning for London Daily Mail The 7 symptoms of dea\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zb2NpZXR5LzIwMjMvanVsLzE0L21lYXNsZXMtb3V0YnJlYWstcmlzay1sb25kb24tdWstaGVhbHRoLXNlY3VyaXR5LWFnZW5jeS1tbXItdmFjY2luZS10YWtlLXVw0gF6aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3NvY2lldHkvMjAyMy9qdWwvMTQvbWVhc2xlcy1vdXRicmVhay1yaXNrLWxvbmRvbi11ay1oZWFsdGgtc2VjdXJpdHktYWdlbmN5LW1tci12YWNjaW5lLXRha2UtdXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 16:47:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.712176",
+      "internal_id": "6bc8047171bb8993dcfafbaaca322b232003b714ab352de61c5b40dca68ddfcb",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 348,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Rabid bat found in the Town of Pendleton - WGRZ.com",
+      "description": "Rabid bat found in the Town of PendletonWGRZ.com Rabid bat found on East Canal Road in PendletonBuffalo News Two bitten by rabid cat in Canandaigua13WHAM-TV Rabid feral cat bites 2 people in Canandaigua, health department saysMPNnow.com Rabies confirmed in fe\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171384673",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 16:13:06",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-15 19:05:06.395655",
+      "internal_id": "814ca1eff71e01041742cefa618ce13a03a2a9574e11b4a0382fac66283f8e5a",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 357,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Measles resurgence in London could infect thousands, warns health body - Financial Times",
+      "description": "Measles resurgence in London could infect thousands, warns health body Financial Times UK agency issues health warning for London | WION WION London measles warning: Outbreak could hit tens of thousands BBC Measles sig\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2ZjNzNjZDY1LTdhMTEtNDg3Ny1hZWFjLTk2NmMwMzIxZDVhM9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 15:49:03",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.706883",
+      "internal_id": "d1c43ba8339d05bd5e8774603eccf488e453f827d929cdc04c4a315814954e1e",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 378,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Gilberto S\u00e1nchez-Gonz\u00e1lez, Renaud Cond\u00e9",
+      "title": "Mathematical modeling of Dengue virus serotypes propagation in Mexico",
+      "description": "The Dengue virus (DENV) constitutes a major vector borne virus disease worldwide. Prediction of the DENV spread dynamics, prevalence and infection rates are crucial elements to guide the public health services effort towards meaningful actions. The existence \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288392",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0288392.g002&size=inline",
+      "publishedAt": "2023-07-14 14:00:00",
+      "content": "Abstract The Dengue virus (DENV) constitutes a major vector borne virus disease worldwide. Prediction of the DENV spread dynamics, prevalence and infection rates are crucial elements to guide the pu\u2026 [+35193 chars]",
+      "retrievedAt": "2023-07-15 19:05:07.040642",
+      "internal_id": "4976a1b34ff2795e0c5982c0f66cae0c9416d7db0fea50bb843c43f8b5e933f4",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 383,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Isabel K. Fletcher, Rory Gibb, Rachel Lowe, Kate E. Jones",
+      "title": "Differing taxonomic responses of mosquito vectors to anthropogenic land-use change in Latin America and the Caribbean",
+      "description": "Author summary An understanding of the response of disease vectors to anthropogenic activities can aid in the control of mosquito-borne disease transmission. However, regional assessments of these responses are lacking, especially in areas where mosquito-born\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011450",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011450.g004&size=inline",
+      "publishedAt": "2023-07-14 14:00:00",
+      "content": "Abstract Anthropogenic land-use change, such as deforestation and urban development, can affect the emergence and re-emergence of mosquito-borne diseases, e.g., dengue and malaria, by creating more \u2026 [+60836 chars]",
+      "retrievedAt": "2023-07-15 19:05:07.835760",
+      "internal_id": "60555f80f46d390a5141baada2cf84d8567ea670c1bea53d3610aed6f0f197fa",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 349,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "London at risk of measles outbreak, health chiefs warn - Yahoo Canada Sports",
+      "description": "London at risk of measles outbreak, health chiefs warn Yahoo Canada Sports UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Toronto Star Why are there fears of a London measles o\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vY2Euc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2xvbmRvbi1yaXNrLW1lYXNsZXMtb3V0YnJlYWstaGVhbHRoLTEzNDYyNDc4NS5odG1s0gFbaHR0cHM6Ly9jYS5zcG9ydHMueWFob28uY29tL2FtcGh0bWwvbmV3cy9sb25kb24tcmlzay1tZWFzbGVzLW91dGJyZWFrLWhlYWx0aC0xMzQ2MjQ3ODUuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 13:46:24",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.697380",
+      "internal_id": "e6de2e6fb4d59a85196a510535807ad1742edf6ae3969dac15656902ba0a823f",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 355,
+      "query": [
+        "measles"
+      ],
+      "source_id": "independent",
+      "source_name": "Independent",
+      "author": "Nilima Marshall",
+      "title": "London at risk of measles outbreak, health chiefs warn",
+      "description": "Parents are being urged to check their children are up to date with their MMR vaccines.",
+      "url": "https://www.independent.co.uk/news/health/mmr-london-covid-children-nhs-b2375450.html",
+      "urlToImage": "https://static.independent.co.uk/2023/07/14/14/2942226bbe3a24e9938431dc151e45e1Y29udGVudHNlYXJjaGFwaSwxNjg5NDI2OTM3-2.72014229.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-07-14 13:46:24",
+      "content": "Sign up for our free Health Check email to receive exclusive analysis on the week in health Get our free Health Check email London could see a measles outbreak with tens of thousands of cases becau\u2026 [+3843 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.704251",
+      "internal_id": "dea4c37fad71c5e2e0d69b5ee3893f02c066f65b5046056ccdfc6d5e27e1f737",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 361,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "London at risk of measles outbreak, health chiefs warn - Yahoo Canada Shine On",
+      "description": "London at risk of measles outbreak, health chiefs warn Yahoo Canada Shine On UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Toronto Star Why are there fears of a London measles\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tL2xvbmRvbi1yaXNrLW1lYXNsZXMtb3V0YnJlYWstaGVhbHRoLTEzNDYyNDk4Ny5odG1s0gFVaHR0cHM6Ly9jYS5zdHlsZS55YWhvby5jb20vYW1waHRtbC9sb25kb24tcmlzay1tZWFzbGVzLW91dGJyZWFrLWhlYWx0aC0xMzQ2MjQ5ODcuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 13:46:24",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.711235",
+      "internal_id": "ad7865f4be6bae2ca837f2b05670721c7b0d9d2571bb19493fadb4f190056ccc",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 379,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Telegraph.co.uk",
+      "author": "Ben Farmer",
+      "title": "The \u2018game-changing\u2019 vaccine that could wipe out meningitis across Africa",
+      "description": "Inoculation should save thousands of lives each year and help end deadly outbreaks across the continent",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/meningitis-vaccine-africa-world-health-organization/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/global-health/2023/07/14/TELEMMGLPICT000278925319_16893355938000_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2023-07-14 13:09:42",
+      "content": "A game-changer UK-funded vaccine to wipe out deadly meningitis infections across a swathe of Africa has been judged safe and effective by the World Health Organization. The new, lower-cost MenFive v\u2026 [+2649 chars]",
+      "retrievedAt": "2023-07-15 19:05:07.428523",
+      "internal_id": "276253ae7f7b2a68b8d99b11d4b9b8e8d2ecf227d448a1e2d06665c437e1a9d4",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 364,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "London at 'real risk' of measles outbreak with tens of thousands of cases - The Times",
+      "description": "London at 'real risk' of measles outbreak with tens of thousands of cases The Times UK agency issues health warning for London | WION WION London measles warning: Outbreak could hit tens of thousands BBC 'Very real ris\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbG9uZG9uLW1lYXNsZXMtb3V0YnJlYWstdWstY2FzZXMtcmlzay1wdWJsaWMtaGVhbHRoLTIwMjMtZDlidzlkeGJ30gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 13:00:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.714255",
+      "internal_id": "d6317a48ab4769aca36de1168bbf6d613bcde97d539becbfb526dcb0f05636ef",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 374,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Warning measles could hit tens of thousands in London - BBC",
+      "description": "Warning measles could hit tens of thousands in LondonBBC UK officials warn low measles immunization rates could lead to tens of thousands of cases in LondonThe Washington Post Doctors issue urgent warning to parents as cases of highly contagious Victorian dis\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171383195",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 12:12:11",
+      "content": "The sooner you make your first 5000 mistakes, the sooner you will be able to correct them. -- Nicolaides",
+      "retrievedAt": "2023-07-15 19:05:06.726257",
+      "internal_id": "63d59017005e38b4377c1e60fbd328183b77f07a72caa5596dff66e5e1b1ae65",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 363,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Measles fears: London faces 'very real risk' of 'big' outbreaks due to low vaccination rates - Yahoo Canada Sports",
+      "description": "Measles fears: London faces 'very real risk' of 'big' outbreaks due to low vaccination rates Yahoo Canada Sports UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Toronto Star Why\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vY2Euc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21lYXNsZXMtZmVhcnMtbG9uZG9uLWZhY2VzLXZlcnktMTIwNzAwNzQ3Lmh0bWzSAVdodHRwczovL2NhLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL21lYXNsZXMtZmVhcnMtbG9uZG9uLWZhY2VzLXZlcnktMTIwNzAwNzQ3Lmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 12:07:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.713220",
+      "internal_id": "e373a7c78c6379d5ca87ed2958b0acdd56cbdad8bfb1e5f77474c5f10fa514a6",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 350,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Guardian",
+      "author": "Nicola Davis Science correspondent",
+      "title": "Why are there fears of a London measles outbreak and what can be done?",
+      "description": "Low MMR vaccine uptake in some areas means there could be a surge in cases of the infectious diseaseLondon at risk of major measles outbreak, says UKHSAAs modelling suggests London could be at risk of a measles outbreak involving tens of tho\u2026",
+      "url": "https://www.theguardian.com/society/2023/jul/14/why-are-there-fears-of-a-london-measles-outbreak-and-what-can-be-done",
+      "urlToImage": "https://i.guim.co.uk/img/media/6a0491c59e2c253ca61c803773a741bb087b3d62/0_213_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfd3fd1ee1c094c88818ca42ead30214",
+      "publishedAt": "2023-07-14 12:01:48",
+      "content": "As modelling suggests London could be at risk of a measles outbreak involving tens of thousands of cases, here we take a look at how the situation has arisen and what can be done. What is measles? \u2026 [+3084 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.698925",
+      "internal_id": "7e94f1bf85e03236fb59f81bd07b51bdba1c400a5fb107a0604fbcb8728f116d",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 352,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Guardian",
+      "author": "Hannah Devlin Science correspondent",
+      "title": "London at risk of major measles outbreak, UK Health Security Agency warns",
+      "description": "Thousands could be hospitalised and dozens die if MMR vaccine take-up doesn\u2019t rise, say immunologistsLondon is at risk of a major measles outbreak that could result in tens of thousands of cases, the UK Health Security Agency has warned.Without an improvement\u2026",
+      "url": "https://www.theguardian.com/society/2023/jul/14/measles-outbreak-risk-london-uk-health-security-agency-mmr-vaccine-take-up",
+      "urlToImage": "https://i.guim.co.uk/img/media/50b6c5b1d03e808ce6189053f2f1f81892559080/0_190_4649_2790/master/4649.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0a7267c47d1d6203b5a4051a34a68f5",
+      "publishedAt": "2023-07-14 11:57:40",
+      "content": "London is at risk of a major measles outbreak that could result in tens of thousands of cases, the UK Health Security Agency has warned. Without an improvement in MMR vaccination rates, the capital \u2026 [+10080 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.701286",
+      "internal_id": "cadaa84e76aaadce5db5c18161d7bb2c4ab2f06da4303b2da95406bb7196ce3f",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 351,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Warning Over UK Measles Outbreak, With Tens Of Thousands Of Predicted Cases - Yahoo Canada Finance",
+      "description": "Warning Over UK Measles Outbreak, With Tens Of Thousands Of Predicted Cases Yahoo Canada Finance UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Toronto Star Why are there fears\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vY2EuZmluYW5jZS55YWhvby5jb20vbmV3cy93YXJuaW5nLW92ZXItdWstbWVhc2xlcy1vdXRicmVhay0xMTQ5MzM2NjYuaHRtbNIBWWh0dHBzOi8vY2EuZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL3dhcm5pbmctb3Zlci11ay1tZWFzbGVzLW91dGJyZWFrLTExNDkzMzY2Ni5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 11:49:33",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.700070",
+      "internal_id": "3a2703c43631f437f07f0acc454e693745f552dd88125d9995c07241777502e2",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 367,
+      "query": [
+        "measles"
+      ],
+      "source_id": "independent",
+      "source_name": "Independent",
+      "author": "Lamiat Sabin and William Mata",
+      "title": "Five measles symptoms to watch out for as health chiefs warn of fresh outbreak",
+      "description": "Warning of up to 160,000 cases in London if vaccine uptake does not pick up",
+      "url": "https://www.independent.co.uk/news/health/measles-outbreak-symptoms-warning-signs-b2375334.html",
+      "urlToImage": "https://static.independent.co.uk/2022/05/03/09/a6ae44bedddb7e55c4de7c09e143974cY29udGVudHNlYXJjaGFwaSwxNjUxNjUyMjY4-2.16366311.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-07-14 11:39:49",
+      "content": "Sign up for our free Health Check email to receive exclusive analysis on the week in health Get our free Health Check email Measles vaccination rates must improve in order to avert up to 160,000 ca\u2026 [+2542 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.718372",
+      "internal_id": "5d839c4a100162cea8eed13165e3df4ae4cd7aefd27f11d1ae8050fdee56f37b",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 368,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "UK officials warn low measles immunisation rates could lead to tens of thousands of cases in London",
+      "description": "The Health Security Agency in Britain said on Friday that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causing disease unless immunisation coverage is quickly boosted. Measl\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/uk-officials-warn-low-measles-immunisation-rates-could-lead-to-tens-of-thousands-of-cases-in-london/articleshow/101758120.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-101758150,width-1070,height-580,imgsize-71438,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-07-14 11:08:47",
+      "content": "Britain's Health Security Agency said on Friday that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causing disease\u2026 [+2275 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.719462",
+      "internal_id": "4ec0e5889b24f6ba461f3a8748fd5e4edc7bd81a2090f6356f7f56762e14deac",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 372,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": null,
+      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London",
+      "description": "LONDON (AP) \u2014 Britain\u2019s Health Security Agency said on Friday that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causing disease unless immunization coverage is quickly boost\u2026",
+      "url": "https://www.seattlepi.com/news/world/article/uk-officials-warn-low-measles-immunization-rates-18200467.php",
+      "urlToImage": "https://www.seattlepi.com/img/modules/siteheader/brand.png",
+      "publishedAt": "2023-07-14 11:07:07",
+      "content": "FILE - A dose of the measles, mumps and rubella vaccine is displayed at the Neighborcare Health clinics at Vashon Island High School in Vashon Island, Wash., on May 15, 2019. In a statement on Friday\u2026 [+2711 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.724174",
+      "internal_id": "56b7795753b9d0418bc396f3f6c30e2032ec1227603a468e4f9a0e5405e0c778",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 365,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Siba Jackson, news reporter",
+      "title": "London faces 'very real risk of big measles outbreaks with up to 160,000 cases'",
+      "description": "London faces the \"very real risk\" of \"big\" measles outbreaks amid concerns 160,000 cases could occur because of low vaccination levels.",
+      "url": "https://news.sky.com/story/measles-fears-london-faces-very-real-risk-of-big-outbreaks-due-to-low-vaccination-rates-12920905",
+      "urlToImage": "https://e3.365dm.com/23/07/1600x900/skynews-measles-vaccination_6218766.jpg?20230714154550",
+      "publishedAt": "2023-07-14 11:04:00",
+      "content": "London faces the \"very real risk\" of \"big\" measles outbreaks amid concerns 160,000 cases could occur because of low vaccination levels. Among some groups of children in the capital, fewer than 70% \u2026 [+4190 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.715168",
+      "internal_id": "109c9a51f918357af23d6363ade3d9984207f53c495d71a2e6fef1efa42cc252",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 366,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London",
+      "description": "Britain\u2019s Health Security Agency said that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causing disease",
+      "url": "https://abcnews.go.com/Health/wireStory/uk-officials-warn-low-measles-immunization-rates-lead-101270513",
+      "urlToImage": "https://s.abcnews.com/images/Health/wirestory_6ec3b220fe9ae23f719434185e385d30_12x5_992.jpg",
+      "publishedAt": "2023-07-14 11:02:36",
+      "content": "LONDON -- Britains Health Security Agency said on Friday that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causin\u2026 [+2162 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.716918",
+      "internal_id": "1c1992b617418838d9d5338fe1113f92b39ddb30db31090b22ab80d5e89eb139",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 359,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London - Toronto Star",
+      "description": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Toronto Star Why are there fears of a London measles outbreak and what can be done? The Guardian Warning measles could hit tens o\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy50aGVzdGFyLmNvbS9saWZlL2hlYWx0aF93ZWxsbmVzcy8yMDIzLzA3LzE0L3VrLW9mZmljaWFscy13YXJuLWxvdy1tZWFzbGVzLWltbXVuaXphdGlvbi1yYXRlcy1jb3VsZC1sZWFkLXRvLXRlbnMtb2YtdGhvdXNhbmRzLW9mLWNhc2VzLWluLWxvbmRvbi5odG1s0gGkAWh0dHBzOi8vd3d3LnRoZXN0YXIuY29tL2FtcC9saWZlL2hlYWx0aF93ZWxsbmVzcy8yMDIzLzA3LzE0L3VrLW9mZmljaWFscy13YXJuLWxvdy1tZWFzbGVzLWltbXVuaXphdGlvbi1yYXRlcy1jb3VsZC1sZWFkLXRvLXRlbnMtb2YtdGhvdXNhbmRzLW9mLWNhc2VzLWluLWxvbmRvbi5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 10:58:42",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.709106",
+      "internal_id": "0870de409f3ebc41f00a9b8c1a236dc9de4848fa4f4c15a4ed5811cba7f9cad5",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 358,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London - Town and Country TODAY",
+      "description": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Town and Country TODAY Why are there fears of a London measles outbreak and what can be done? The Guardian Warning measles could \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy50b3duYW5kY291bnRyeXRvZGF5LmNvbS9saWZlc3R5bGUvdWstb2ZmaWNpYWxzLXdhcm4tbG93LW1lYXNsZXMtaW1tdW5pemF0aW9uLXJhdGVzLWNvdWxkLWxlYWQtdG8tdGVucy1vZi10aG91c2FuZHMtb2YtY2FzZXMtaW4tbG9uZG9uLTcyNzYwOTDSAZ0BaHR0cHM6Ly93d3cudG93bmFuZGNvdW50cnl0b2RheS5jb20vYW1wL2xpZmVzdHlsZS91ay1vZmZpY2lhbHMtd2Fybi1sb3ctbWVhc2xlcy1pbW11bml6YXRpb24tcmF0ZXMtY291bGQtbGVhZC10by10ZW5zLW9mLXRob3VzYW5kcy1vZi1jYXNlcy1pbi1sb25kb24tNzI3NjA5MA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 10:51:21",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.708034",
+      "internal_id": "d69772f7d8cc6053c0a08fdd446687d11124a9b85828d4606d9adc0b5f7de2a2",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 371,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Toronto Star",
+      "author": "The Associated Press",
+      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London",
+      "description": "LONDON (AP) \u2014 Britain\u2019s Health Security Agency said on Friday that measles vaccination rates in parts of London have dropped so low that the capital c...",
+      "url": "https://www.thestar.com/life/health_wellness/2023/07/14/uk-officials-warn-low-measles-immunization-rates-could-lead-to-tens-of-thousands-of-cases-in-london.html",
+      "urlToImage": "https://images.thestarimages.com/dv5mU1WCitjVlKkx4Efjr-7tCms=/1280x1024/smart/filters:cb(1689332217359):format(webp)/https://www.thestar.com/content/dam/thestar/life/health_wellness/2023/07/14/uk-officials-warn-low-measles-immunization-rates-could-lead-to-tens-of-thousands-of-cases-in-london/20230714060748-64b128a57d3cde796cd76b80jpeg.jpg",
+      "publishedAt": "2023-07-14 10:51:21",
+      "content": "LONDON (AP) Britains Health Security Agency said on Friday that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-caus\u2026 [+2494 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.723152",
+      "internal_id": "f60dacf8ede0796c8e714e6fee0dd98ca4423303760a669373d09993299de066",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 354,
+      "query": [
+        "measles"
+      ],
+      "source_id": "independent",
+      "source_name": "Independent",
+      "author": "Via AP news wire",
+      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London",
+      "description": "Britain\u2019s Health Security Agency said that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causing disease",
+      "url": "https://www.independent.co.uk/news/ap-london-national-health-service-andrew-wakefield-who-b2375347.html",
+      "urlToImage": "https://static.independent.co.uk/2023/07/14/11/Britain_Measles_97838.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-07-14 10:50:32",
+      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Britains Health Security Agency said on Friday that \u2026 [+2299 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.703295",
+      "internal_id": "a7d18f9cf13155b43f089b87d99c0517efc829beee9165e0ef532a82f88fae4e",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 353,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Warning measles could hit tens of thousands in London",
+      "description": "The rest of the UK is considered to be at low risk of the virus taking off.",
+      "url": "https://www.bbc.co.uk/news/health-66200444",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67F0/production/_130380662_gettyimages-1266944602.jpg",
+      "publishedAt": "2023-07-14 10:45:23",
+      "content": "London could see tens of thousands of measles cases due to low levels of vaccination, the UK Health Security Agency (UKHSA) has warned. Mathematical calculations suggest an outbreak could affect bet\u2026 [+2890 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.702293",
+      "internal_id": "2359a2a635a3ce94856a82fcd0ae341daf0560a83809767644111c64d6c9372a",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 360,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Warning measles could hit tens of thousands in London - BBC",
+      "description": "Warning measles could hit tens of thousands in London BBC Seven symptoms you need to know as UK city on brink of Victorian disease outbreak The Mirror Urgent measles warning for London Daily Mail London 'at risk of maj\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2hlYWx0aC02NjIwMDQ0NNIBLmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2hlYWx0aC02NjIwMDQ0NC5hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 10:45:23",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.710275",
+      "internal_id": "81b7ebf2048ba81def68278bf1d6551488606eced7e91bf895fbe67592c2ee92",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 356,
+      "query": [
+        "measles"
+      ],
+      "source_id": "independent",
+      "source_name": "Independent",
+      "author": "Rebecca Thomas",
+      "title": "Measles outbreak alert issued as health chiefs warn 160,000 cases could hit London",
+      "description": "Health chiefs have warned London could face an outbreak of up to 160,000 new measles cases if vaccination rates do not improve.",
+      "url": "https://www.independent.co.uk/news/health/measles-outbreak-london-warning-rash-b2375320.html",
+      "urlToImage": "https://static.independent.co.uk/2023/05/04/12/iStock-1126559054.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-07-14 10:31:17",
+      "content": "Sign up for our free Health Check email to receive exclusive analysis on the week in health Get our free Health Check email Health chiefs have warned London could face an outbreak of up to 160,000 \u2026 [+2289 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.705445",
+      "internal_id": "43945bf2105b7b556a6e1d747d5991d6d13940abeb2a48529a58ccf382d0cd2a",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 375,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Sun",
+      "author": "Alice Fuller",
+      "title": "Urgent warning as UK faces 'very real risk' of new outbreak of killer Victorian disease",
+      "description": "THE UK faces a \u201cvery real risk\u201d of a new measles outbreak, experts warn. There could be tens of thousands of cases of the deadly Victorian disease in London alone unless MMR vaccination\u2026",
+      "url": "https://www.thesun.co.uk/health/23055185/measles-risk-outbreak-uk-kids-warning/",
+      "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2023/07/newspress-collage-23055185-1689327015930.jpg?1689330627&strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2023-07-14 09:41:15",
+      "content": "THE UK faces a \"very real risk\" of a new measles outbreak, experts warn. There could be tens of thousands of cases of the deadly Victorian disease in London alone unless MMR vaccination rates improv\u2026 [+4334 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.727691",
+      "internal_id": "9751bfff62f453b706a246bd13b691aca8bf6166e08f5f76aa5e871d35726298",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 376,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bengaluru records 178 dengue cases in 11 days - Daijiworld.com",
+      "description": "Bengaluru records 178 dengue cases in 11 days Daijiworld.com Rise in dengue cases pushes up demand for platelets in Bengaluru The Hindu Delhi flood raises dengue risk: Why high haemoglobin levels and not platelet counts are worri\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmRhaWppd29ybGQuY29tL25ld3MvbmV3c0Rpc3BsYXk_bmV3c0lEPTEwOTk3ODnSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 09:37:35",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-15 19:05:07.033449",
+      "internal_id": "dc88250aabb644b763d8a01ffa92031ce94d23f02ef07c7c10d349e8f4d30c9e",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 370,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "London at risk of measles outbreaks with modelling estimating tens of thousands of cases",
+      "description": "UKHSA modelling suggests that, unless MMR vaccination rates improve, London could see a measles outbreak with tens of thousands of cases.",
+      "url": "https://www.gov.uk/government/news/london-at-risk-of-measles-outbreaks-with-modelling-estimating-tens-of-thousands-of-cases",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/64b01cb9c033c100108062bb/child_vaccination960.jpg",
+      "publishedAt": "2023-07-14 08:30:04",
+      "content": "Outside London the risk of large measles outbreaks is low but we could see smaller outbreaks in specific populations, including teenagers, young people and under vaccinated communities. Those who ha\u2026 [+5206 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.721629",
+      "internal_id": "e27f49b1b22212433e594caddb7dcf8d2fc2137203e5489a62d22e859f97ed75",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 369,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Measles: risk assessment for resurgence in the UK",
+      "description": "Risk assessment estimates for measles resurgence in the UK.",
+      "url": "https://www.gov.uk/government/publications/measles-risk-assessment-for-resurgence-in-the-uk",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+      "publishedAt": "2023-07-14 08:30:03",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2023-07-15 19:05:06.720381",
+      "internal_id": "5b3a664ed5a94fc4cb681a0ad8f0e029b96e72482e3ce1f256f2ba63f1cc9bf5",
+      "publishedAtLabel": "Jul 14"
+    },
     {
       "id": 342,
       "query": [
@@ -2951,673 +3618,6 @@
       "retrievedAt": "2023-07-08 19:05:15.066346",
       "internal_id": "01b5bb857c4728fa3b7ba26f0329633237b716eff9698357c67998c129a7a026",
       "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 208,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Uganda: Uganda Among First Recipients of First-Ever Malaria Vaccine",
-      "description": "[Nile Post] Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever Malaria vaccine over the next two years.",
-      "url": "https://allafrica.com/stories/202307070697.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-07 14:15:53",
-      "content": "Twelve countries across different regions in Africa are set to receive 18 million doses of the first-ever Malaria vaccine over the next two years. Uganda will be among the first countries to receive\u2026 [+4499 chars]",
-      "retrievedAt": "2023-07-10 03:23:00.449566",
-      "internal_id": "8d92508c07a4f63002645ba0b22f1dcc809246f54478140cb53d918cd78b3c47",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 182,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Bruna Ramos dos Santos, Amanda Bruno da Silva Bellini Ramos, Renata Priscila Barros de Menezes, Marcus Tullius Scotti, F\u00e1bio Ant\u00f4nio Colombo, Marcos Jos\u00e9 Marques, Juliana Quero Reim\u00e3o",
-      "title": "Repurposing the Medicines for Malaria Venture\u2019s COVID Box to discover potent inhibitors of Toxoplasma gondii, and in vivo efficacy evaluation of almitrine bismesylate (MMV1804175) in chronically infected mice",
-      "description": "Toxoplasmosis, caused by the obligate intracellular parasite Toxoplasma gondii, affects about one-third of the world\u2019s population and can cause severe congenital, neurological and ocular issues. Current treatment options are limited, and there are no human va\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288335",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0288335.g005&size=inline",
-      "publishedAt": "2023-07-07 14:00:00",
-      "content": "Citation: dos Santos BR, Ramos ABdSB, de Menezes RPB, Scotti MT, Colombo FA, Marques MJ, et al. (2023) Repurposing the Medicines for Malaria Ventures COVID Box to discover potent inhibitors of Toxopl\u2026 [+35999 chars]",
-      "retrievedAt": "2023-07-08 19:05:15.063760",
-      "internal_id": "ff47cfaeed3462ccd63fb55d5b1911ddf5c6c9d0e9433c9bbfb7c2e450d9868e",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 207,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "CNBC",
-      "author": "Annika Kim Constantino",
-      "title": "U.S. officials say risk of locally transmitted malaria remains low as nationwide cases jump to seven",
-      "description": "The CDC and health experts say the new locally acquired cases in Florida and Texas shouldn't warrant panic about widespread malaria transmission in the U.S.",
-      "url": "https://www.cnbc.com/2023/07/07/us-malaria-risk-low-despite-local-cases-what-you-need-to-know.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107264932-1688063037955-gettyimages-1504348469-029a7987copy_sglqp38q.jpeg?v=1688737687&w=1920&h=1080",
-      "publishedAt": "2023-07-07 13:50:18",
-      "content": "Barrington Sanders, a Miami-Dade Mosquito Control Inspector, sprays a pesticide to kill adult mosquitos on June 29, 2023 in Miami, Florida. U.S. public health officials say the risk of locally tran\u2026 [+10998 chars]",
-      "retrievedAt": "2023-07-10 03:23:00.447520",
-      "internal_id": "e686f1201b25d9b9acf7bcbbd9dae89b4f0c3344927296ce304a388fddb39815",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 179,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Florida is under a malaria alert, and there are now more cases of the mosquito illness - Miami Herald",
-      "description": "Florida is under a malaria alert, and there are now more cases of the mosquito illness Miami HeraldView Full Coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL3N0YXRlL2Zsb3JpZGEvYXJ0aWNsZTI3NzA5MTk5My5odG1s0gFEaHR0cHM6Ly9hbXAubWlhbWloZXJhbGQuY29tL25ld3Mvc3RhdGUvZmxvcmlkYS9hcnRpY2xlMjc3MDkxOTkzLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-07 12:55:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-08 19:05:15.058112",
-      "internal_id": "f39345e12f3d037662c720e6f210613960ac90bd9cec1228a28686acfa6b3e89",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 177,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Boing Boing",
-      "author": "Rob Beschizza",
-      "title": "Malaria back in Florida and Texas",
-      "description": "Seven cases of Malaria, America's first in decades, are reported in Florida and Texas. Officials in Sarasota County, Florida, and the Texas Department of Health confirm the transmission happened locally. The Centers for Disease Control has issued a nationwide\u2026",
-      "url": "https://boingboing.net/2023/07/07/malaria-back-in-florida-and-texas.html",
-      "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/mosquito.jpg?fit=1200%2C909&ssl=1",
-      "publishedAt": "2023-07-07 12:52:53",
-      "content": "Seven cases of Malaria, America's first in decades, are reported in Florida and Texas. Officials in Sarasota County, Florida, and the Texas Department of Health confirm the transmission happened loca\u2026 [+2295 chars]",
-      "retrievedAt": "2023-07-08 19:05:15.054434",
-      "internal_id": "07813976d36375395607247cfd04f602231b85189d062c0a705c142e7e89b47b",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 176,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "MarketWatch",
-      "author": "Tim Rostan",
-      "title": ": Meningitis-vaccine requirement for Wisconsin students blocked by Republican lawmakers",
-      "description": "The Republican-controlled Wisconsin state legislature has voted to prevent the administration of Gov. Tony Evers, a Democrat, from requiring that seventh-graders be vaccinated against meningitis and to make it easier for parents to secure exemptions from a cu\u2026",
-      "url": "https://www.marketwatch.com/story/meningitis-vaccine-requirement-for-wisconsin-students-blocked-by-republican-lawmakers-5c218d8e",
-      "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-      "publishedAt": "2023-07-07 11:40:27",
-      "content": "The Republican-controlled Wisconsin state legislature has voted to prevent the administration of Gov. Tony Evers, a Democrat, from requiring that seventh-graders be vaccinated against meningitis and \u2026 [+631 chars]",
-      "retrievedAt": "2023-07-08 19:05:14.697428",
-      "internal_id": "40cea41bbaea15591776d8995097a632b287c27715a5879a40dc13445e5ac0a5",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 194,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Hutchins, H., Bradley, J., Pretorius, E., Teixeira da Silva, E., Vasileva, H., Jones, R. T., Ndiath, M. O., dit Massire Soumare, H., Mabey, D., Nante, E. J., Martins, C., Logan, J. G., Slater, H., Drakeley, C., D'Alessandro, U., Rodrigues, A., Last, A. R.",
-      "title": "Protocol for a cluster randomised placebo-controlled trial of adjunctive ivermectin mass drug administration for malaria control on the Bijagos Archipelago of Guinea-Bissau: the MATAMAL trial",
-      "description": "Introduction As malaria declines, innovative tools are required to further reduce transmission and achieve elimination. Mass drug administration (MDA) of artemisinin-based combination therapy (ACT) is capable of reducing malaria transmission where coverage of\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/7/e072347?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-07-07 08:02:31",
-      "content": "Introduction Malaria in sub-Saharan Africa has declined dramatically since 2000, with much of the decrease due to vector control methods such as insecticide-treated nets and indoor residual spraying\u2026 [+8099 chars]",
-      "retrievedAt": "2023-07-09 07:05:24.606877",
-      "internal_id": "e9a1105fbac5adf30a91a63aecdeec9d32e3257d327fd309f9a78dc397ae8563",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 209,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Ocan, M., Loyce, N., Ojiambo, K. O., Kinengyere, A. A., Apunyo, R., Obuku, E. A.",
-      "title": "Efficacy of antimalarial herbal medicines used by communities in malaria affected regions globally: a protocol for systematic review and evidence and gap map",
-      "description": "Introduction With the rising resistance to artemisinin-based combination treatments, there is a need to hasten the discovery and development of newer antimalarial agents. Herbal medicines are key for the development of novel drugs. Currently, herbal medicin\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/7/e069771?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-07-07 08:02:31",
-      "content": "This will be a multimodal blended systematic review and evidence gap map (EGM). The EGM and systematic review will be done following the Campbell Collaboration14 and Preferred Reporting Items for Sys\u2026 [+99 chars]",
-      "retrievedAt": "2023-07-10 03:23:00.451052",
-      "internal_id": "e49522d5da0853d92d3960fc150069ce041bf1a62dec22b2d797860723c963e0",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 173,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "publicaffairs@voa.gov (VOA)",
-      "title": "Sudan Reports 13 Dead in Measles Outbreak",
-      "description": "[VOA] Juba, South Sudan -- Health organizations in Sudan's White Nile state said at least 13 children have died over the past week due to a suspected measles outbreak. An official with the Doctors Without Borders, known by its French acronym MSF, said Sudan's\u2026",
-      "url": "https://allafrica.com/stories/202307070128.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-07 07:20:27",
-      "content": "Juba, South Sudan \u2014 Health organizations in Sudan's White Nile state said at least 13 children have died over the past week due to a suspected measles outbreak. An official with the Doctors Without B\u2026 [+2841 chars]",
-      "retrievedAt": "2023-07-08 19:05:13.857238",
-      "internal_id": "9fed6f504ee49308468b4ecacbd2a6ae2619aed5f4f8784c29b212cc3cf3f7aa",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 235,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Two more malaria cases confirmed in Sarasota County - WWSB",
-      "description": "Two more malaria cases confirmed in Sarasota CountyWWSB View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171326356",
-      "urlToImage": null,
-      "publishedAt": "2023-07-07 05:12:15",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-11 07:05:47.765360",
-      "internal_id": "817201ae2f831e7b59890aea1bd27c2399f0958c6961d18141a63ef5b1366900",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 233,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Politiken.dk",
-      "author": null,
-      "title": "WHO sender ny malariavaccine til 12 afrikanske lande",
-      "description": "Inden 2025 vil der blive leveret 18 millioner doser af den f\u00f8rste vaccine mod malaria til 12 lande i Afrika.",
-      "url": "https://politiken.dk/forbrugogliv/sundhedogmotion/art9432319/WHO-sender-ny-malariavaccine-til-12-afrikanske-lande",
-      "urlToImage": null,
-      "publishedAt": "2023-07-07 04:13:21",
-      "content": "Der er ikke opl\u00e6sning af denne artikel, s\u00e5 den opl\u00e6ses derfor med maskinstemme. Kontakt os gerne p\u00e5 automatiskoplaesning@pol.dk, hvis du h\u00f8rer ord, hvis udtale kan forbedres. Du kan ogs\u00e5 hj\u00e6lpe ved a\u2026 [+2565 chars]",
-      "retrievedAt": "2023-07-11 07:05:47.762584",
-      "internal_id": "f78896140cc0aaece159745a4822fb7d9394e0befa4dc97b612d13bbd3ec9bba",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 168,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Theamericanscholar.org",
-      "author": "Stephanie Bastek",
-      "title": "Man vs. Mosquito",
-      "description": "Timothy Winegard on how this irritating insect changed human history\u2014for better and for worse The post Man vs. Mosquito appeared first on The American Scholar.",
-      "url": "https://theamericanscholar.org/man-vs-mosquito/",
-      "urlToImage": "https://theamericanscholar.org/wp-content/uploads/2023/07/skeeters_rerun.jpg",
-      "publishedAt": "2023-07-07 04:01:31",
-      "content": "Travel to any of the hundred-odd countries where malaria is endemic, and the mosquito is not merely a pest: it is a killer. Factor in the laundry list of other diseases that this insect can transmitd\u2026 [+1813 chars]",
-      "retrievedAt": "2023-07-08 07:05:33.731579",
-      "internal_id": "6b42f2d586511f4eeb50683b76fab10c1f583fd359d59631c839c75a8d11ecf1",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 237,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "India.com",
-      "author": "Shivendra Singh",
-      "title": "Malaria Treatment: researchers discovered natural antibiotic to treat malaria in right way | \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u0947 \u0907\u0932\u093e\u091c \u0915\u0947 \u0932\u093f\u090f \u092e\u093f\u0932\u093e \u0938\u091f\u0940\u0915 \u0930\u093e\u0938\u094d\u0924\u093e, \u0936\u094b\u0927\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0928\u0947 \u0916\u094b\u091c\u093e \u0928\u0947\u091a\u0941\u0930\u0932 \u090f\u0902\u091f\u0940\u092c\u093e\u092f\u094b\u091f\u093f\u0915",
-      "description": "Malaria Treatment: researchers discovered natural antibiotic to treat malaria in right way | \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u0947 \u0907\u0932\u093e\u091c \u0915\u0947 \u0932\u093f\u090f \u092e\u093f\u0932\u093e \u0938\u091f\u0940\u0915 \u0930\u093e\u0938\u094d\u0924\u093e, \u0936\u094b\u0927\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0928\u0947 \u0916\u094b\u091c\u093e \u0928\u0947\u091a\u0941\u0930\u0932 \u090f\u0902\u091f\u0940\u092c\u093e\u092f\u094b\u091f\u093f\u0915india.com",
-      "url": "https://zeenews.india.com/hindi/health/malaria-treatment-researchers-discovered-natural-antibiotic-to-treat-malaria-in-right-way/1769050",
-      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/07/07/1936440-malaria-treatment.jpg",
-      "publishedAt": "2023-07-07 02:48:43",
-      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+357 chars]",
-      "retrievedAt": "2023-07-11 07:05:47.768308",
-      "internal_id": "d464027263f70e3a62f7873c43941372d8fcee258b46005747f907e769d61b5d",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 171,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Medical Daily",
-      "author": "Kristine Belonio",
-      "title": "Mpox Resurgence Update: Minnesota, Coachella Valley Record New Infections",
-      "description": "Public health officials reported new cases amid the anticipated mpox resurgence in the country.",
-      "url": "https://www.medicaldaily.com/mpox-resurgence-update-minnesota-coachella-valley-record-new-infections-470443",
-      "urlToImage": "https://d.medicaldaily.com/en/full/45133/how-protect-yourself-against-monkeypox-amid-global-outbreak.jpg",
-      "publishedAt": "2023-07-06 23:31:25",
-      "content": "Minnesota and the Coachella Valley are facing a concerning increase in mpox cases, as reported by their respective health departments. The Minnesota Department of Health (MDH) recently confirmed eig\u2026 [+3269 chars]",
-      "retrievedAt": "2023-07-08 07:05:34.565207",
-      "internal_id": "41bd59a1e6f05d2a735f47aee4b52b5f7bf01f59a008cde9c39565143dede884",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 166,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "21 dengue cases in Melaka last week",
-      "description": "MELAKA: The Melaka Health Department has issued, as of July 1, a total of 93 notices under Section 8 of the Destruction of Disease-Bearing Insects Act to owners of premises where mosquito-breeding sites were found. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/07/07/21-dengue-cases-in-melaka-last-week",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/07/2164574.jpg",
-      "publishedAt": "2023-07-06 23:00:00",
-      "content": "MELAKA: The Melaka Health Department has issued, as of July 1, a total of 93 notices under Section 8 of the Destruction of Disease-Bearing Insects Act to owners of premises where mosquito-breeding si\u2026 [+940 chars]",
-      "retrievedAt": "2023-07-08 07:05:32.909032",
-      "internal_id": "95003d109e067a122fe4d4a091d280b5b5154cd46a3a2a6350a986a38c5f7669",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 165,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Idnes.cz",
-      "author": "Ivana Leskov\u00e1",
-      "title": "Kom\u00e1\u0159i infikovan\u00ed tropick\u00fdmi nemocemi se \u0161\u00ed\u0159\u00ed Evropou. U\u017e nakazili i \u010cechy",
-      "description": "Pokud se chyst\u00e1te na dovolenou, chra\u0148te se tam proti kom\u00e1r\u016fm a hmyzu, kter\u00fd p\u0159en\u00e1\u0161\u00ed viry zp\u016fsobuj\u00edc\u00ed hore\u010dky dengue, zika i jin\u00e9 nebezpe\u010dn\u00e9 nemoci. A pokud v\u00e1m po n\u00e1vratu bude zle, nechte se vy\u0161et\u0159it. Turist\u016fm to rad\u00ed \u010de\u0161t\u00ed i evrop\u0161t\u00ed odborn\u00edci na infek\u010dn\u00ed ne\u2026",
-      "url": "https://www.idnes.cz/zpravy/domaci/komar-prenasec-nemoc-horecka-choroba.A230706_192747_domaci_dyn",
-      "urlToImage": "https://1gr.cz/tempimg/fb/2023/7/premium/IHA9cc5e676d6_shutterstock_200494427.jpg",
-      "publishedAt": "2023-07-06 22:00:00",
-      "content": "Posledn\u00ed dobou v\u00fdrazn narst\u00e1 riziko n\u00e1kazy i poty nemocn\u00fdch lid\u00ed. Jen od ledna do kvtna se potvrdila horeka dengue u 30 ech (nakaen\u00fdch ve svt i v Evrop). Nkter\u00e9 nemoci v pehledech ani nejsou. Jako n\u2026 [+433 chars]",
-      "retrievedAt": "2023-07-08 07:05:32.900820",
-      "internal_id": "929d8302283a981d9833e3f42f22ddfbeb4d45d24813c70bb0e3189322aa3aa2",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 169,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nrk",
-      "source_name": "NRK",
-      "author": "NRK",
-      "title": "Ny malaria-vaksine kan redde titusener av liv i Afrika",
-      "description": "En lenge etterlengtet vaksine mot malaria skal rulles ut i tolv afrikanske land de neste to \u00e5rene. Det skriver The Guardian. Malaria tar livet av en halv million barn \u00e5rlig. Det antas at den nye vaksinen kan redde titusener av liv. 18 millioner doser er tilde\u2026",
-      "url": "https://www.nrk.no/nyheter/ny-malaria-vaksine-kan-redde-titusener-av-liv-i-afrika-1.16474776",
-      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.492/common/img/default.jpg",
-      "publishedAt": "2023-07-06 20:04:13",
-      "content": "6. juli2023kl.22:04En lenge etterlengtet vaksine mot malaria skal rulles ut i tolv afrikanske land de neste to \u00e5rene. Det skriver The Guardian. Malaria tar livet av en halv million barn \u00e5rlig. Det \u2026 [+366 chars]",
-      "retrievedAt": "2023-07-08 07:05:33.739682",
-      "internal_id": "d33a539f6a10a29d3b8bc594579d8aaf72ded35958b2423a35f37a66f9196baa",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 164,
-      "query": [
-        "measles"
-      ],
-      "source_id": "ars-technica",
-      "source_name": "Ars Technica",
-      "author": "Beth Mole",
-      "title": "CDC is slashing funding for states\u2019 childhood vaccination data systems",
-      "description": "The budget cut targets data systems that can identify areas with low vaccination.",
-      "url": "https://arstechnica.com/health/2023/07/state-childhood-vaccination-programs-face-budget-cuts-from-cdc/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-178236750-760x380.jpg",
-      "publishedAt": "2023-07-06 19:12:43",
-      "content": "Enlarge/ A boy smiles as he gets a measles, mumps, and rubella (MMR) vaccination. 24 with State health departments are facing federal budget cuts to programs that support childhood vaccination, wh\u2026 [+5684 chars]",
-      "retrievedAt": "2023-07-08 07:05:32.424550",
-      "internal_id": "8801d6567e4ce87cb73d2fd3afca06941d764d67068ff1519f53710ddc97bffb",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 150,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Two more malaria cases confirmed in Sarasota County - WWSB",
-      "description": "Two more malaria cases confirmed in Sarasota County WWSBView Full Coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm15c3VuY29hc3QuY29tLzIwMjMvMDcvMDYvdHdvLW1vcmUtbWFsYXJpYS1jYXNlcy1jb25maXJtZWQtc2FyYXNvdGEtY291bnR5L9IBZmh0dHBzOi8vd3d3Lm15c3VuY29hc3QuY29tLzIwMjMvMDcvMDYvdHdvLW1vcmUtbWFsYXJpYS1jYXNlcy1jb25maXJtZWQtc2FyYXNvdGEtY291bnR5Lz9vdXRwdXRUeXBlPWFtcA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-06 19:02:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.797883",
-      "internal_id": "4729688f4c6742ff65a69afd961e1053c8eba40eeb2028b148716b86440402b1",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 146,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Yanna Lavigne sente febre e dor no corpo ap\u00f3s picada de carrapato: 'Nunca fiquei t\u00e3o mal'",
-      "description": "Atriz disse que recebeu mensagens de seguidores preocupados com suspeitas de dengue ou febre maculosa; apesar dos sintomas, ela contou j\u00e1 estar melhor",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/yanna-lavigne-sente-febre-e-dor-no-corpo-apos-picada-de-carrapato-nunca-fiquei-tao-mal,7fd118bf009337ba499705ff920390b5qx8jktoz.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/06/1540572256-yoimlyrpszhkxprkfnlh6o7vum.png",
-      "publishedAt": "2023-07-06 18:52:25",
-      "content": "A atriz Yanna Lavigne contou que apresentou sintomas como febre, dor no corpo e dor de cabe\u00e7a ap\u00f3s ter sido picada por um carrapato nesta quinta-feira, 6. Ela disse que ainda n\u00e3o procurou atendimento\u2026 [+977 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.126329",
-      "internal_id": "993161cd91069c443f1bc208e1056a65fccdf23704861faf04a9dbbf1c44f920",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 145,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Yanna Lavigne comenta sentir febre e dor no corpo ap\u00f3s picada de carrapato: 'Nunca fiquei t\u00e3o mal'",
-      "description": "Atriz disse que recebeu mensagens de seguidores preocupados com suspeitas de dengue ou febre maculosa; apesar dos sintomas, ela contou j\u00e1 estar melhor",
-      "url": "https://www.terra.com.br/diversao/gente/yanna-lavigne-comenta-sentir-febre-e-dor-no-corpo-apos-picada-de-carrapato-nunca-fiquei-tao-mal,7fd118bf009337ba499705ff920390b5qx8jktoz.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/06/1540572256-yoimlyrpszhkxprkfnlh6o7vum.png",
-      "publishedAt": "2023-07-06 18:46:03",
-      "content": "A atriz Yanna Lavigne contou que apresentou sintomas como febre, dor no corpo e dor de cabe\u00e7a ap\u00f3s ter sido picada por um carrapato nesta quinta-feira, 6. Ela disse que ainda n\u00e3o procurou atendimento\u2026 [+977 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.123854",
-      "internal_id": "16001ec6a3a2fd32f063012de020d65753073dd5ee022d8780cf87e76bc48d3d",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 134,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Rabies detected in stray kitten found in Oakland County: What to know - WDIV ClickOnDetroit",
-      "description": "Rabies detected in stray kitten found in Oakland County: What to knowWDIV ClickOnDetroit View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171322704",
-      "urlToImage": null,
-      "publishedAt": "2023-07-06 18:34:58",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-07 19:05:27.324520",
-      "internal_id": "3e318c967665c2b4caa363e3a9e4d52ee47bb2fdc6e5696a826c48487c0e018b",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 160,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Wnd.com",
-      "author": "WND News Services",
-      "title": "WHO, Bill Gates announce plans to flood Africa with ultra dangerous malaria 'vaccines'",
-      "description": "(DOSSIER TODAY) \u2013 The World Health Organization and its partner organization, the Bill Gates-controlled GAVI, announced Wednesday that they will be flooding Africa with 18 million doses of malaria vaccines. During a Wednesday press conference, WHO director Te\u2026",
-      "url": "https://www.wnd.com/2023/07/bill-gates-announce-plans-flood-africa-ultra-dangerous-malaria-vaccines/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2022/04/insect-mosquito-Pixabay.jpg",
-      "publishedAt": "2023-07-06 18:34:49",
-      "content": "(Image courtesy Pixabay) (DOSSIER TODAY) The World Health Organization and its partner organization, the Bill Gates-controlled GAVI, announced Wednesday that they will be flooding Africa with 18 mil\u2026 [+793 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.822855",
-      "internal_id": "9afbf04ecff53665948e54791157f2d9aaa42f99f14c829c04c875dd928f9057",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 136,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Multiple people treated for rabies in Gwinnett County after being bit by rabid kitten - Local 3 News",
-      "description": "Multiple people treated for rabies in Gwinnett County after being bit by rabid kittenLocal 3 News View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171322564",
-      "urlToImage": null,
-      "publishedAt": "2023-07-06 18:15:10",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-07 19:05:27.328310",
-      "internal_id": "e6bb287c6a8dfeb138a2359885cabca7a371b2ef6afcfea3bb52f8657f0b5494",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 142,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "\u00c1ngela \u00c1valos Rodr\u00edguez",
-      "title": "\u00bfDengue en vacaciones? Empresas de turismo y Salud se unen para evitar m\u00e1s enfermos",
-      "description": "Capacitan a hoteleros para eliminar criaderos de mosquito transmisor y piden a pobladores colaborar para prevenir brotes en vacaciones de medio a\u00f1o.",
-      "url": "https://www.nacion.com/el-pais/salud/dengue-en-vacaciones-empresas-de-turismo-y-salud/RO4W7W3CC5ABDIWE7DXKHQWIKM/story/",
-      "urlToImage": "https://www.nacion.com/resizer/Yy0g5qRzVsQNVcaKdqX5Qnw5eFc=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/O42ZI4XTDFAWHBBK4AU3BQ6V2Y.jpg",
-      "publishedAt": "2023-07-06 17:39:54",
-      "content": "Imag\u00ednese ir a la playa a descansar durante estas vacaciones y regresar a su hogar enfermo de dengue, experimentando fiebre, dolores corporales y corriendo incluso el riesgo de morir si desarrolla de\u2026 [+4775 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.117381",
-      "internal_id": "0513e83bf3dcb8ad5c76404420d09335149380a9cdf7467bf8769168cc482c2a",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 137,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Boston Herald",
-      "author": "Tribune News Service",
-      "title": "CDC to reduce funding for states\u2019 child vaccination programs",
-      "description": "The immunization managers who received the message are public health officials who direct state, territorial and local programs to promote vaccinations against a variety of infectious diseases, such as measles and chickenpox.",
-      "url": "https://www.bostonherald.com/2023/07/06/cdc-to-reduce-funding-for-states-child-vaccination-programs-3/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2023/07/GettyImages-178241178.jpg?w=594&h=395",
-      "publishedAt": "2023-07-06 16:41:43",
-      "content": "The Centers for Disease Control and Prevention is reducing funding to states for child vaccination programs, according to an agency email obtained by KFF Health News. The funding cut is a significan\u2026 [+3551 chars]",
-      "retrievedAt": "2023-07-07 19:05:27.790265",
-      "internal_id": "7ae8409ac4e8d25fd8ba45d7a2e138afcbee65807cfa943c1b52cc5fdf487722",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 138,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Denver Post",
-      "author": "Tribune News Service",
-      "title": "CDC to reduce funding for states\u2019 child vaccination programs",
-      "description": "The immunization managers who received the message are public health officials who direct state, territorial and local programs to promote vaccinations against a variety of infectious diseases, such as measles and chickenpox.",
-      "url": "https://www.denverpost.com/2023/07/06/cdc-to-reduce-funding-for-states-child-vaccination-programs-3/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2023/07/GettyImages-178241178.jpg?w=594&h=395",
-      "publishedAt": "2023-07-06 16:41:43",
-      "content": "The Centers for Disease Control and Prevention is reducing funding to states for child vaccination programs, according to an agency email obtained by KFF Health News. The funding cut is a significan\u2026 [+3551 chars]",
-      "retrievedAt": "2023-07-07 19:05:27.793740",
-      "internal_id": "5bffbf3938158326b98421d6c9f76da88ace474ee684e742b1071116794f3e8a",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 135,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "FOX 2 Detroit",
-      "author": "Fox 2 Detroit",
-      "title": "Rabies found in Oakland County stray kitten",
-      "description": "Pet owners are urged to vaccinate their animals after a kitten infected with rabies was found in Oakland County last month.",
-      "url": "https://www.fox2detroit.com/news/rabies-found-in-oakland-county-stray-kitten",
-      "urlToImage": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2023/07/1280/720/GettyImages-1241258573.jpg?ve=1&tl=1",
-      "publishedAt": "2023-07-06 15:56:11",
-      "content": "OAKLAND COUNTY, Mich. (Fox 2) - Pet owners are urged to vaccinate their animals after a kitten infected with rabies was found in Oakland County last month. The 9-month-old kitten initially appeared \u2026 [+1373 chars]",
-      "retrievedAt": "2023-07-07 19:05:27.326173",
-      "internal_id": "699f89b9631b719de091819d32dbf95d8085f45a4ec27b2485ec16b3d00202e5",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 139,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "Caso di duengue a Jesi: il comune anconetano dispone due giorni di disinfestazione",
-      "description": "Un caso di febbre dengue \u00e8 stato diagnosticato a Jesi, in provincia di Ancona, su un giovane rientrato da un viaggio all\u2019estero. L\u2019accertamento del virus, solitamente trasmesso dalle punture di zanzare, ha fatto scattare un piano di prevenzione del comune che\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2023/07/06/caso-di-dengue-a-jesi-il-comune-anconetano-dispone-due-giorni-di-disinfestazione/7220545/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/09/17/zanzara-.jpg",
-      "publishedAt": "2023-07-06 15:51:17",
-      "content": "Un caso di febbre dengue \u00e8 stato diagnosticato a Jesi, in provincia di Ancona, su un giovane rientrato da un viaggio all\u2019estero. L\u2019accertamento del virus, solitamente trasmesso dalle punture di zanza\u2026 [+3628 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.106580",
-      "internal_id": "9191941a3c7026f550c7423cb88bbeafe1d1a2e8c3db3f7a4811d6f3b062ea33",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 140,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
-      "title": "Jesi, accertato un caso di dengue: in citt\u00e0 parte la disinfestazione",
-      "description": "Il virus tropicale riscontrato in un giovane rientrato dall\u2019estero. Il Comune delle Marche, per precauzione, ha disposto l'immediata bonifica da zanzare in un raggio di 200 metri dalla casa dell\u2019uomo",
-      "url": "https://www.repubblica.it/cronaca/2023/07/06/news/jesi_marche_caso_dengue_disinfestazione-406880445/",
-      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/07/06/172939498-414d1180-c713-4290-b420-cd3411d80191.jpg",
-      "publishedAt": "2023-07-06 15:31:28",
-      "content": "Caso di dengue a Jesi (Ancona), accertato in un un ragazzo da poco tornato da un viaggio all'estero. L'uomo \u00e8 rimasto in casa e le sue condizioni sono in netto miglioramento. A comunicarlo al Comune\u2026 [+902 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.111753",
-      "internal_id": "e177c0c166e60b91bb670ff3004d23bbb712002466bf6bd9dd46890f27f7b3e3",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 162,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: Vaccination is the Best Bet Against Drug-Resistant Superbugs - Experts",
-      "description": "[IPS] Karachi -- Childhood vaccination, complemented with clean drinking water and improved hygiene practices, are the key to eradication of typhoid XDR, not indiscriminate use of antibiotics, say Pakistan health experts.",
-      "url": "https://allafrica.com/stories/202307060507.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-06 15:26:59",
-      "content": "Karachi \u2014 Childhood vaccination, complemented with clean drinking water and improved hygiene practices, are the key to eradication of typhoid XDR, not indiscriminate use of antibiotics, say Pakistan \u2026 [+12499 chars]",
-      "retrievedAt": "2023-07-07 19:05:30.217149",
-      "internal_id": "09d557c692f25f46cc287b226a4f4d41f86c6de6adff19c2f122f0331176c45e",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 143,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": "",
-      "title": "A Jesi dengue in giovane rientrato da viaggio all'estero",
-      "description": "Caso di dengue a Jesi, in provincia di Ancona, accertato in un un giovane rientrato da un viaggio all'estero. L'uomo ha soggiornato nella propria abitazione e le sue condizioni sono in netto miglioramento. (ANSA)",
-      "url": "https://www.ansa.it/marche/notizie/2023/07/06/a-jesi-dengue-in-giovane-rientrato-da-viaggio-allestero_745e451b-a350-4038-a648-4fdbb1bbae47.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/5/31/38a01e513c216ef9d94ce0b5a3b85c03.jpg",
-      "publishedAt": "2023-07-06 14:59:35",
-      "content": "(ANSA) - JESI, 06 LUG - Caso di dengue a Jesi, in provincia di Ancona, accertato in un un giovane rientrato da un viaggio all'estero. L'uomo ha soggiornato nella propria abitazione e le sue condiz\u2026 [+1149 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.119618",
-      "internal_id": "04834b97a3c97cc6170383d87d9651128d8ac2050bdb4b7183b33c98adcf2b30",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 154,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "UN to roll out 18 million malaria vaccines across 12 African countries by 2025 - Yahoo Canada Shine On",
-      "description": "UN to roll out 18 million malaria vaccines across 12 African countries by 2025 Yahoo Canada Shine On Africa to receive 18 million doses of malaria vaccine Reuters 18 million doses of first-ever malaria vaccine allocated to 12 Afr\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tL3VuLWFnZW5jaWVzLXJvbGwtMTgtbWlsbGlvbi0xNDU0MzczNDQuaHRtbNIBTWh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tL2FtcGh0bWwvdW4tYWdlbmNpZXMtcm9sbC0xOC1taWxsaW9uLTE0NTQzNzM0NC5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-06 14:54:37",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.806050",
-      "internal_id": "a61d1169118a77936a8554ccbd57b732c71dabaf7c634f6c74dddb3e6c390680",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 131,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Multiple people treated for rabies in Gwinnett County after being bit by rabid kitten - Local 3 News",
-      "description": "Multiple people treated for rabies in Gwinnett County after being bit by rabid kitten Local 3 NewsView Full Coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy5sb2NhbDNuZXdzLmNvbS9yZWdpb25hbC1uYXRpb25hbC9nYS9tdWx0aXBsZS1wZW9wbGUtdHJlYXRlZC1mb3ItcmFiaWVzLWluLWd3aW5uZXR0LWNvdW50eS1hZnRlci1iZWluZy1iaXQtYnktcmFiaWQta2l0dGVuL2FydGljbGVfYjRiOWZmYzItMWMwOS0xMWVlLWI5MTEtMjMwZGMwN2NjYjU5Lmh0bWzSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-06 14:30:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-07 19:05:27.315873",
-      "internal_id": "75b7dc3f6ab120a2280a98c48fdfb01b89cb7db01533d4225a5d38f5fb6c752b",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 133,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Mihaela Anca Dascalu, Evelyne Picard-Meyer, Emmanuelle Robardet, Alexandre Servat, Serghei Arseniev, Oxana Groza, Nicolae Starciuc, Vlad Vuta, Florica Barbuceanu, Oana Irina Tanase, Florentina Daraban Bocaneti, Helene Quenault, Edouard Hirchaud, Yannick Blanchard, Elena Velescu, Florence Cliquet",
-      "title": "Whole genome sequencing and phylogenetic characterisation of rabies virus strains from Moldova and north-eastern Romania",
-      "description": "Author summary High throughput sequencing has become a powerful tool for the epidemiological study of the rabies virus. Considering the lack of information from the two geographic areas included in the present research, a collection of samples from 2012 to 20\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011446",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011446.g004&size=inline",
-      "publishedAt": "2023-07-06 14:00:00",
-      "content": "Introduction Rabies is the oldest disease recognised as a neglected tropical disease. It is zoonotic and almost always has a fatal outcome in humans if not prevented by timely post-exposure prophyla\u2026 [+36465 chars]",
-      "retrievedAt": "2023-07-07 19:05:27.321922",
-      "internal_id": "fa8f0e2bd99a4fb23689b5d2948c6f4d1ce57aa96e6afca537010489407f90c2",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 149,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Guardian",
-      "author": "Kaamil Ahmed",
-      "title": "\u2018Safe and effective\u2019: first malaria vaccine to be rolled out in 12 African countries",
-      "description": "An initial 18m doses will be delivered over the next two years to combat a disease that kills nearly half a million children annuallyA long-awaited vaccine for malaria has been announced for rollout across 12 African countries over the next two years, potenti\u2026",
-      "url": "https://www.theguardian.com/global-development/2023/jul/06/safe-and-effective-first-malaria-vaccine-to-be-rolled-out-in-12-african-countries",
-      "urlToImage": "https://i.guim.co.uk/img/media/b8df0453e1228fb343914b416ee0527f5c5ee1b0/0_400_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3811b8d5e71f39275a62e6538afd342",
-      "publishedAt": "2023-07-06 13:34:11",
-      "content": "A long-awaited vaccine for malaria has been announced for rollout across 12 African countries over the next two years, potentially saving tens of thousands of lives. An initial 18m doses of the worl\u2026 [+2269 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.796057",
-      "internal_id": "2200d3f9715fea5535064629ccfc999eed2c3c06b04fb621a02a10c58c1b4880",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 144,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clicrbs.com.br",
-      "author": "Divulga\u00e7\u00e3o",
-      "title": "Nova vacina contra a dengue j\u00e1 est\u00e1 dispon\u00edvel em Porto Alegre e valor pode chegar a R$ 440; saiba onde encontrar",
-      "description": "O imunizante \u00e9 recomendado para pessoas entre quatro e 60 anos de idade",
-      "url": "http://diariogaucho.clicrbs.com.br/rs/dia-a-dia/noticia/2023/07/nova-vacina-contra-a-dengue-ja-esta-disponivel-em-porto-alegre-e-valor-pode-chegar-a-r-440-saiba-onde-encontrar-30485271.html",
-      "urlToImage": "http://diariogaucho.rbsdirect.com.br/imagesrc/43054112.jpg?w=600",
-      "publishedAt": "2023-07-06 13:09:33",
-      "content": "A nova vacina contra a dengue, desenvolvida pela farmac\u00eautica japonesa Takeda, j\u00e1 pode ser aplicada em Porto Alegre. Sem previs\u00e3o para ser oferecida pelo Sistema \u00danico de Sa\u00fade (SUS), farm\u00e1cias e cl\u00ed\u2026 [+3196 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.121418",
-      "internal_id": "6722fd1d070122f5c9beac1b390ce273d9600a198b70f810521826b7c97c6bbe",
-      "publishedAtLabel": "Jul 6"
     }
   ]
 }
