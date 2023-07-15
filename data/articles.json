@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-07-14 19:05",
+  "last_updated": "2023-07-15 07:05",
   "count_articles_total": 295,
-  "count_articles_new": 12,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 342,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Pablo Hiriart",
+      "title": "Aitana lleg\u00f3 con dengue",
+      "description": "Dengue es la afecci\u00f3n que ten\u00eda ni\u00f1a Aitana, de seis a\u00f1os, que lleg\u00f3 al IMSS de Playa del Carmen, procedente del municipio maya de Tinum, en Yucat\u00e1n, adonde regres\u00f3 muerta.",
+      "url": "https://www.elfinanciero.com.mx/opinion/pablo-hiriart/2023/07/14/aitana-llego-con-dengue/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/cPwyow-WSg-A8zoBsCOkwsamBHQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/P3B4LTIAMJEKDBNTMAOH76EIRE.jpg",
+      "publishedAt": "2023-07-14 07:05:00",
+      "content": "La ni\u00f1a Aitana Betzab\u00e9 lleg\u00f3 al hospital del IMSS de Playa del Carmen, donde muri\u00f3 prensada por un elevador, aquejada por dengue, una enfermedad de horrible desenlace que ya estaba controlada en M\u00e9xi\u2026 [+4048 chars]",
+      "retrievedAt": "2023-07-15 07:05:31.337512",
+      "internal_id": "37148c7c5e0bf31b376f88c276f654bf0b067110e6dbf176827e1be571fbd5c6",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 341,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The Times of Israel",
+      "author": null,
+      "title": "Whooping cough outbreak spreads to north with new case in town near Nahariya",
+      "description": "Infectious disease expert posits that post-COVID vaccine fatigue and skepticism, as well as 'immunological debt' are at play",
+      "url": "https://www.timesofisrael.com/whooping-cough-outbreak-spreads-to-north-with-new-case-in-town-near-nahariya/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2022/01/iStock-1290910702-1024x640.jpg",
+      "publishedAt": "2023-07-14 05:49:38",
+      "content": "A pertussis outbreak in Jerusalem that began earlier this year has spread to the north of the country, with the Health Ministry announcing Thursday that a child in the western Galilee was found to ha\u2026 [+7294 chars]",
+      "retrievedAt": "2023-07-15 07:05:30.258937",
+      "internal_id": "289dd26e69d7b72a8e7d8c8aedc3729a151a3296d3daa826bcf62173384bced3",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 347,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Regina G. Barber",
+      "title": "A week in science: A copper-age \"queen,\" a sea squirt and malaria-fighting mosquitoes",
+      "description": "NPR's Adrian Florido talks with Short Wave hosts Regina Barber and Geoff Brumfiel about a copper-age \"queen,\" a 500-million-year-old sea squirt, and a way to help mosquitoes fight malaria.",
+      "url": "https://www.npr.org/2023/07/13/1187573921/a-week-in-science-a-copper-age-queen-a-sea-squirt-and-malaria-fighting-mosquitoe",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2023-07-13 20:36:07",
+      "content": "NPR's Adrian Florido talks with Short Wave hosts Regina Barber and Geoff Brumfiel about a copper-age \"queen,\" a 500-million-year-old sea squirt, and a way to help mosquitoes fight malaria.",
+      "retrievedAt": "2023-07-15 07:05:32.272797",
+      "internal_id": "81ac1c3391697f195620acd50f4db3cf78d44015b5bdf5dfcab960e361f714b0",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
+      "id": 343,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Aos Fatos",
+      "title": "N\u00e3o \u00e9 verdade que governo Lula recusou vacina contra a dengue aprovada pela Anvisa",
+      "description": "N\u00e3o \u00e9 verdade que o governo Lula (PT) recusou a compra da vacina japonesa contra a dengue ...",
+      "url": "https://www.terra.com.br/noticias/checamos/nao-e-verdade-que-governo-lula-recusou-vacina-contra-a-dengue-aprovada-pela-anvisa,2b28c9d963ad977f04fae69ae6ac039czjjkzifz.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/13/709398032-13072023lularecusouvacinadengue.png",
+      "publishedAt": "2023-07-13 19:29:48",
+      "content": "N\u00e3o \u00e9 verdade que o governo Lula (PT) recusou a compra da vacina japonesa contra a dengue aprovada pela Anvisa (Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria) para esperar at\u00e9 que um imunizante brasileiro\u2026 [+3785 chars]",
+      "retrievedAt": "2023-07-15 07:05:31.345402",
+      "internal_id": "1ed920403d681b5291c47abfdd2b6327d76721752674587cb13a4faf7759eb7d",
+      "publishedAtLabel": "Jul 13"
+    },
     {
       "id": 330,
       "query": [
@@ -241,6 +313,24 @@
       "publishedAtLabel": "Jul 13"
     },
     {
+      "id": 344,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "P.B. avec AFP (20 Minutes)",
+      "title": "C\u2019est l\u2019heure du BIM : 3.000 places de prison en plus, dengue en Guadeloupe et col\u00e8re des acteurs \u00e0 Hollywood",
+      "description": "\u00ab 20 Minutes \u00bb compile pour vous les infos qu\u2019il ne faut pas manquer ce matin dans votre Bulletin d\u2019information matinal (BIM)",
+      "url": "https://www.20minutes.fr/societe/4045458-20230713-heure-bim-3-000-places-prison-plus-dengue-guadeloupe-colere-acteurs-hollywood",
+      "urlToImage": "https://img.20mn.fr/nAXjizFYTq68PMe0sJRJiyk/1200x768_files-detainees-exchange-small-bags-through-the-window-of-their-cells-at-the-baumettes-prison-in-marseille-southern-france-on-january-8-2013-a-new-record-of-detainees-has-been-set-in-france-with-73-162-detained-people-according-to-french-ministry-on-may-30-2023-photo-by-anne-christine-poujoulat-afp",
+      "publishedAt": "2023-07-13 05:45:42",
+      "content": "Vous avez manqu\u00e9 les infos de ce d\u00e9but de matin\u00e9e ? On vous a concoct\u00e9 un r\u00e9cap pour vous aider \u00e0 y voir plus clair. \u00ab Chiche \u00bb : face \u00e0 la crise de la surpopulation carc\u00e9rale, l\u2019Assembl\u00e9e nationale\u2026 [+2026 chars]",
+      "retrievedAt": "2023-07-15 07:05:31.349653",
+      "internal_id": "737c735ddc72a07dd79857fb790db01e730adfd1438825eab1252adcb75c10bd",
+      "publishedAtLabel": "Jul 13"
+    },
+    {
       "id": 322,
       "query": [
         "dengue"
@@ -310,6 +400,24 @@
       "content": "The United States has witnessed an uptick in locally acquired malaria cases, with at least seven reported over the past two months. This marked the first instance of local transmission of the disease\u2026 [+2880 chars]",
       "retrievedAt": "2023-07-14 07:05:50.890466",
       "internal_id": "4da265eea7246342743aa38f4a6276748207af83973021dd46ab1893aed6a1e3",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 345,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Guadeloupe : Alerte \u00e0 la dengue en avec des foyers \u00ab \u00e0 caract\u00e8re expansif \u00bb",
+      "description": "Plus de 425 cas de dengue ont \u00e9t\u00e9 enregistr\u00e9s depuis le d\u00e9but de l\u2019ann\u00e9e, et la maladie est pr\u00e9sente dans 13 communes guadeloup\u00e9ennes",
+      "url": "https://www.20minutes.fr/sante/4045455-20230713-guadeloupe-alerte-dengue-foyers-caractere-expansif",
+      "urlToImage": "https://img.20mn.fr/49BCXFjaQMWbsiDZ_DX--Ck/1200x768_file-salt-lake-city-mosquito-abatement-district-biologist-nadja-reissen-examines-a-mosquito-in-salt-lake-city-aug-26-2019-european-union-officials-warned-thursday-june-22-2023-there-is-a-growing-risk-of-mosquito-borne-viral-diseases-such-as-dengue-and-chikungunya-in-europe-due-to-climate-change-ap-photo-rick-bowmer-file-lbj101-23173281339142-file-photo-2306221102",
+      "publishedAt": "2023-07-12 23:50:49",
+      "content": "Plus de 425 cas de dengue ont \u00e9t\u00e9 enregistr\u00e9s en Guadeloupe depuis janvier 2023, a indiqu\u00e9 mercredi l\u2019Agence r\u00e9gionale de sant\u00e9 (ARS) locale, qui alerte sur une \u00ab \u00e9mergence de foyers \u00bb du virus \u00e0 \u00ab c\u2026 [+2191 chars]",
+      "retrievedAt": "2023-07-15 07:05:31.352130",
+      "internal_id": "cc106a355be02ecf2f1d105a7e96a31ed8dfe92741489ada35fc84f4936e72fb",
       "publishedAtLabel": "Jul 12"
     },
     {
@@ -580,6 +688,24 @@
       "content": "MELAKA: Melaka has recorded 265 dengue fever cases from Jan 1 to July 8 this year, which is four cases more than the 261 recorded over the corresponding period in 2022, says Ngwe Hee Sem. The Melaka\u2026 [+868 chars]",
       "retrievedAt": "2023-07-13 19:05:14.788145",
       "internal_id": "be593a9115afd3437cda8764f49a74c0d0897d71c9804fba125a9a0075e3f621",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 346,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "\u09b8\u09be\u09a6\u09c0 \u09ae\u09c1\u09b9\u09be\u09ae\u09cd\u09ae\u09be\u09a6 \u0986\u09b2\u09cb\u0995",
+      "title": "\u2018\u09a4\u09b2\u09cd\u09b2\u09be\u09b6\u09bf\u09b0 \u09a8\u09be\u09ae\u09c7 \u09ae\u09be\u09a8\u09c1\u09b7\u09c7\u09b0 \u09ae\u09cb\u09ac\u09be\u0987\u09b2 \u09ab\u09cb\u09a8 \u099a\u09c7\u0995 \u0995\u09b0\u09be \u0997\u09a3\u09b9\u09df\u09b0\u09be\u09a8\u09bf\u2019",
+      "description": "\u2018\u09a4\u09b2\u09cd\u09b2\u09be\u09b6\u09bf\u09b0 \u09a8\u09be\u09ae\u09c7 \u09ae\u09be\u09a8\u09c1\u09b7\u09c7\u09b0 \u09ae\u09cb\u09ac\u09be\u0987\u09b2 \u09ab\u09cb\u09a8 \u099a\u09c7\u0995 \u0995\u09b0\u09be \u0997\u09a3\u09b9\u09df\u09b0\u09be\u09a8\u09bf\u2019thedailystar.net",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/news-495871",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/12/moile_phone_check-01.jpg",
+      "publishedAt": "2023-07-12 11:05:21",
+      "content": "Patients from now on can get their dengue tests at Tk 50 instead of Tk 100 in all public hospitals across the country.",
+      "retrievedAt": "2023-07-15 07:05:31.356007",
+      "internal_id": "f48a2fe1787a0a3169efe74d628d13b830ffb3bec8ad948848e44563d468fa90",
       "publishedAtLabel": "Jul 12"
     },
     {
@@ -3491,132 +3617,6 @@
       "content": "A nova vacina contra a dengue, desenvolvida pela farmac\u00eautica japonesa Takeda, j\u00e1 pode ser aplicada em Porto Alegre. Sem previs\u00e3o para ser oferecida pelo Sistema \u00danico de Sa\u00fade (SUS), farm\u00e1cias e cl\u00ed\u2026 [+3196 chars]",
       "retrievedAt": "2023-07-07 19:05:28.121418",
       "internal_id": "6722fd1d070122f5c9beac1b390ce273d9600a198b70f810521826b7c97c6bbe",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 159,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "S\u00fcddeutsche Zeitung",
-      "author": "Von Berit Uhlmann",
-      "title": "Infektionskrankheiten: Erstmals steht ein Malaria-Impfstoff vor der breiten Anwendung",
-      "description": "Es hat Jahrzehnte gedauert, nun ist es soweit: Vom kommenden Jahr an werden die ersten 18 Millionen Dosen des neuen Vakzins in Afrika eingesetzt.",
-      "url": "https://www.sueddeutsche.de/gesundheit/malaria-impfstoff-anwendung-afrika-1.6003218",
-      "urlToImage": "https://www.sueddeutsche.de/image/sz.1.5765625/1200x675?v=1688643441",
-      "publishedAt": "2023-07-06 12:29:55",
-      "content": "Es hat Jahrzehnte gedauert, nun ist es soweit: Vom kommenden Jahr an werden die ersten 18 Millionen Dosen des neuen Vakzins in Afrika eingesetzt. Erstmals in der Geschichte der Malaria wird nun ein I\u2026 [+3398 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.818242",
-      "internal_id": "c7f39667da8a9c46100571bd75158644661d2d42a2a14083570a5edf86ae1c68",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 153,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "12 African countries across different regions to receive 18mn doses of first-ever malaria vaccine over next .. - ETHealthWorld",
-      "description": "12 African countries across different regions to receive 18mn doses of first-ever malaria vaccine over next .. ETHealthWorld Africa to receive 18 million doses of malaria vaccine Reuters 18 million doses of first-ever malaria vac\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiyAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcGhhcm1hL3BvbGljeS1yZWd1bGF0aW9ucy8xMi1hZnJpY2FuLWNvdW50cmllcy1hY3Jvc3MtZGlmZmVyZW50LXJlZ2lvbnMtdG8tcmVjZWl2ZS0xOG1uLWRvc2VzLW9mLWZpcnN0LWV2ZXItbWFsYXJpYS12YWNjaW5lLW92ZXItbmV4dC0yLXllYXJzLzEwMTU0NzY1N9IBzAFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL2FtcC9uZXdzL3BoYXJtYS9wb2xpY3ktcmVndWxhdGlvbnMvMTItYWZyaWNhbi1jb3VudHJpZXMtYWNyb3NzLWRpZmZlcmVudC1yZWdpb25zLXRvLXJlY2VpdmUtMThtbi1kb3Nlcy1vZi1maXJzdC1ldmVyLW1hbGFyaWEtdmFjY2luZS1vdmVyLW5leHQtMi15ZWFycy8xMDE1NDc2NTc?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-06 12:23:08",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.804418",
-      "internal_id": "37eb80e98c597581feaf1741499a361ac7786c416c6e40c029807d6d63824eed",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 157,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "2 top public health positions in Ron DeSantis' administration are vacant (Matt Dixon/NBC News)",
-      "description": "Matt Dixon / NBC News: 2 top public health positions in Ron DeSantis' administration are vacant \u2014 The positions are vacant as the CDC says Florida is seeing its first cases of malaria in two decades. \u2014 TALLAHASSEE, Fla. \u2014 Two of the top public health offi\u2026",
-      "url": "https://www.memeorandum.com/230706/p13",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230630-ron-desantis-ac-508p-fc8273.jpg",
-      "publishedAt": "2023-07-06 12:00:33",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.813768",
-      "internal_id": "0d47c7d3e9810bf44c4ce1349d112de0689f1c79a3514a1358698727a92354e0",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 147,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Aumentan a 40 decesos por meningitis en Durango",
-      "description": "Durango, Dgo., Estela Mon\u00e1rrez Mendoza, de 30 a\u00f1os de edad, falleci\u00f3 a causa de meningitis mic\u00f3tica la noche del martes; se trata del deceso n\u00famero 40 a partir de que se dio a conocer la emergencia sanitaria, el primero de noviembre de 2022; la mortandad por \u2026",
-      "url": "https://www.jornada.com.mx/2023/07/06/estados/029n2est",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-07-06 11:21:32",
-      "content": "Peri\u00f3dico La JornadaJueves 6 de julio de 2023, p. 29 Durango, Dgo., Estela Mon\u00e1rrez Mendoza, de 30 a\u00f1os de edad, falleci\u00f3 a causa de meningitis mic\u00f3tica la noche del martes; se trata del deceso n\u00fame\u2026 [+2187 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.431823",
-      "internal_id": "0bdabdb146d4c9e1d59538b9f95599324965c23722f5c726fb166e949282a05d",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 161,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Sun",
-      "author": "Isabel Shaw",
-      "title": "Urgent monkeypox warning as 8 new cases of killer disease discovered in UK",
-      "description": "MEDICS are urging people at risk of mpox to get vaccinated, following a rise in the number of cases discovered. Latest figures suggest eight new infections were diagnosed in the UK between June 1 a\u2026",
-      "url": "https://www.thesun.co.uk/health/22947746/monkeypox-mpox-symptoms-cases-uk/",
-      "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2022/07/NINTCHDBPICT000745869852.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-      "publishedAt": "2023-07-06 11:03:09",
-      "content": "MEDICS are urging people at risk of mpox to get vaccinated, following a rise in the number of cases discovered. Latest figures suggest eight new infections were diagnosed in the UK between June 1 an\u2026 [+2639 chars]",
-      "retrievedAt": "2023-07-07 19:05:30.011567",
-      "internal_id": "0b1a2e5119493bb7353cd81d13cf9229c2e541d08f4539c2baf3671b8c8cfac6",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 148,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Guardian",
-      "author": "Eric Berger",
-      "title": "Experts say climate change likely to increase US malaria cases",
-      "description": "Scientists quell fears about imminent risk after cases in Texas and Florida but warn that mosquito breeding sites set to growAlthough locally acquired malaria cases were recently discovered in the United States for the first time in 20 years, infectious disea\u2026",
-      "url": "https://www.theguardian.com/us-news/2023/jul/06/malaria-us-mosquitoes-climate-crisis",
-      "urlToImage": "https://i.guim.co.uk/img/media/36b19068e51f213bfa3858b609fa962fe3543ad4/0_130_3900_2340/master/3900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29416b5ce9edb061d330e1587fb54772",
-      "publishedAt": "2023-07-06 10:00:03",
-      "content": "Although locally acquired malaria cases were recently discovered in the United States for the first time in 20 years, infectious disease experts say they do not signal imminent danger but instead are\u2026 [+3854 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.793482",
-      "internal_id": "c5e3591d8bb591a064b2fecf5c198e1230e9257aae65317550683da0240c7619",
-      "publishedAtLabel": "Jul 6"
-    },
-    {
-      "id": 156,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "18 Millionen Impfdosen: Afrikanische L\u00e4nder starten gro\u00dfes Malaria-Impfprogramm - Tagesspiegel",
-      "description": "18 Millionen Impfdosen: Afrikanische L\u00e4nder starten gro\u00dfes Malaria-Impfprogramm Tagesspiegel",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy50YWdlc3NwaWVnZWwuZGUvd2lzc2VuLzE4LW1pbGxpb25lbi1pbXBmZG9zZW4tYWZyaWthbmlzY2hlLWxhbmRlci1zdGFydGVuLWdyb3NzZXMtbWFsYXJpYS1pbXBmcHJvZ3JhbW0tMTAxMDIwOTAuaHRtbNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-06 09:42:44",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-07 19:05:28.811431",
-      "internal_id": "b87e93f9de0cdeb47d01009828a07194e4cf971db8d554e8d94e33d74553caad",
       "publishedAtLabel": "Jul 6"
     }
   ]
