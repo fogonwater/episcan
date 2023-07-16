@@ -1,8 +1,116 @@
 {
-  "last_updated": "2023-07-16 07:05",
+  "last_updated": "2023-07-16 19:05",
   "count_articles_total": 297,
-  "count_articles_new": 12,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 402,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "5,236 suspected Mpox cases reported in DR Congo, 229 deaths: WHO",
+      "description": "A total of 5,236 suspected Mpox (monkeypox) cases and 229 deaths have been reported so far this year in the Democratic Republic of the Congo (DRC), according to a new report released by the World Health Organization (WHO). According to the report, from Januar\u2026",
+      "url": "https://sylhetmirror.com/2023/07/16/5236-suspected-mpox-cases-reported-in-dr-congo-229-deaths-who/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/e32er43r.jpg",
+      "publishedAt": "2023-07-15 18:07:40",
+      "content": "A total of 5,236 suspected Mpox (monkeypox) cases and 229 deaths have been reported so far this year in the Democratic Republic of the Congo (DRC), according to a new report released by the World Hea\u2026 [+1402 chars]",
+      "retrievedAt": "2023-07-16 19:05:12.311776",
+      "internal_id": "8642f31255286d288a82f99d6e8813e84d62d53c87ca016b63f04dca40da6993",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 399,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Lisa Bullerdiek",
+      "title": "Tropenkrankheiten wandern nach Europa: \u201eDengue-Fieber steht vor der T\u00fcr\u201c",
+      "description": "Tropenkrankheiten sind l\u00e4ngst bei uns, wei\u00df J\u00fcrgen May vom Bernhard-Nocht-Institut. Die Pharmaindustrie reagiert meist erst, wenn es wei\u00dfe Tote gibt.",
+      "url": "https://taz.de/Tropenkrankheiten-wandern-nach-Europa/!5927191/",
+      "urlToImage": "https://taz.de/picture/6391099/948/muecke-1.jpeg",
+      "publishedAt": "2023-07-15 16:00:00",
+      "content": "Tropenkrankheiten sind l\u00e4ngst bei uns, wei\u00df J\u00fcrgen May vom Bernhard-Nocht-Institut. Die Pharmaindustrie reagiert meist erst, wenn es wei\u00dfe Tote gibt. Kann zur \u00dcbertr\u00e4gerin gef\u00e4hrlicher tropischer Vi\u2026 [+6779 chars]",
+      "retrievedAt": "2023-07-16 19:05:10.688623",
+      "internal_id": "67c4bf074dac2fea6adced4e63c592c0cf43c0097e030e267486fcfb2c0db9e1",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 397,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Rabies Alert issued for parts of Marion County - Ocala News",
+      "description": "Rabies Alert issued for parts of Marion CountyOcala News Rabies alert issued for Central Florida countyWESH 2 Orlando Rabies warning in Burnet CountyDailyTrib.com Rabid Raccoon Confirmed In Camden County; Dog Possibly ExposedPatch View Full Coverage on G\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171390555",
+      "urlToImage": null,
+      "publishedAt": "2023-07-15 13:32:13",
+      "content": "How many Unix hacks does it take to change a light bulb? Let's see, can you use a shell script for that or does it need a C program?",
+      "retrievedAt": "2023-07-16 19:05:10.013832",
+      "internal_id": "3dece889b84e4b05281ead18021d790cb703b2107a6e9a0b161335b22aa537a1",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 398,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Risk of major measles outbreak in London, warns UK Health Security Agency - WION",
+      "description": "Risk of major measles outbreak in London, warns UK Health Security Agency WION UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Toronto Star Why are there fears of a London measl\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3dvcmxkL3Jpc2stb2YtbWFqb3ItbWVhc2xlcy1vdXRicmVhay1pbi1sb25kb24td2FybnMtdWstaGVhbHRoLXNlY3VyaXR5LWFnZW5jeS02MTYwMDXSAXFodHRwczovL3d3dy53aW9uZXdzLmNvbS93b3JsZC9yaXNrLW9mLW1ham9yLW1lYXNsZXMtb3V0YnJlYWstaW4tbG9uZG9uLXdhcm5zLXVrLWhlYWx0aC1zZWN1cml0eS1hZ2VuY3ktNjE2MDA1L2FtcA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-15 11:12:47",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-16 19:05:10.375254",
+      "internal_id": "2f93fc868509646e32acc5a32a879378cf43a4c610457db9caf0ed0dd9ca7475",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 401,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Dimie Ogoina: Is mpox health emergency over in the Global South?",
+      "description": "The Nigerian scientist who diagnosed the first recent mpox case discusses whether the health emergency is really over.",
+      "url": "https://www.aljazeera.com/program/talk-to-al-jazeera/2023/7/15/dimie-ogoina-is-mpox-health-emergency-over-in-the-global-south",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/image-45.jpg?resize=1920%2C1080",
+      "publishedAt": "2023-07-15 08:24:54",
+      "content": "The Nigerian scientist who diagnosed the first recent mpox case discusses whether the health emergency is really over.In 2017 in Nigeria, Dr Dimie Ogoina diagnosed the worlds first known case of mpox\u2026 [+496 chars]",
+      "retrievedAt": "2023-07-16 19:05:12.308468",
+      "internal_id": "15f45554df7a83b953e31e41bcf0691f785422b2673ec76709fc0b31a0a01e97",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Guadeloupe : la recrudescence de la dengue inqui\u00e8te les autorit\u00e9s sanitaires",
+      "description": "Depuis janvier 2023, 425 cas de dengue ont \u00e9t\u00e9 enregistr\u00e9s en Guadeloupe. Mais selon les autorit\u00e9s sanitaires locales, le nombre de contaminations de ce virus propag\u00e9 par le moustique-tigre pourrait \u00eatre bien plus \u00e9lev\u00e9 en r\u00e9alit\u00e9.",
+      "url": "https://www.francetvinfo.fr/france/guadeloupe/guadeloupe-la-recrudescence-de-la-dengue-inquiete-les-autorites-sanitaires_5951747.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/7fa2ggTsykM22NZ_7mRvywQSJwo/1500x843/2023/07/15/64b2477e38ff1_guadeloupe-dengue.jpg",
+      "publishedAt": "2023-07-15 07:15:37",
+      "content": "Le gardien d'un cimeti\u00e8re en Guadeloupe traque sans rel\u00e2che la moindre flaque stagnante. Il est \u00e0 la recherche des moustiques qui propagent la dengue. Depuis janvier dernier, 425 cas ont \u00e9t\u00e9 enregist\u2026 [+754 chars]",
+      "retrievedAt": "2023-07-16 19:05:10.691365",
+      "internal_id": "dad098a1053fd5193df08b5324f2223a0ea4241406779690ee70408cf2277ed3",
+      "publishedAtLabel": "Jul 15"
+    },
     {
       "id": 395,
       "query": [
@@ -3512,114 +3620,6 @@
       "retrievedAt": "2023-07-09 07:05:24.593011",
       "internal_id": "495a90523f0af1b9278d021fda1abccb0a78f085ce281ca36998e569b616e30f",
       "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 234,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Six locally acquired malaria cases reported in Sarasota - NBC2 News",
-      "description": "Six locally acquired malaria cases reported in SarasotaNBC2 News Florida is under a malaria alert, and there are now more cases of the mosquito illnessMiami Herald 6 total cases of malaria reported in Sarasota CountyWFLA News Channel 8 Pasco County Mosquito C\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171332661",
-      "urlToImage": null,
-      "publishedAt": "2023-07-08 01:32:43",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-11 07:05:47.764056",
-      "internal_id": "5cf6826a69f0f76746c2ce3a609eb1c973675b7086418e8b88529f634dcfac1b",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 192,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "The best ways to stay safe from mosquito-borne illnesses, according to a doctor",
-      "description": "The CDC has confirmed two new malaria cases in Florida, for a total of six in the state, as well as one case in Texas. Officials also say at least two mosquitoes in Michigan have tested positive for EEE, a deadly virus that has a 33% mortality rate. CBS News \u2026",
-      "url": "https://www.cbsnews.com/video/the-best-ways-to-stay-safe-from-mosquito-borne-illnesses-according-to-a-doctor/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/08/7c4b721a-c690-4db4-9280-991f7c5ba54d/thumbnail/1200x630/837adb913fcda7b8a35dc12d6e1cd7dc/cbsn-fusion-the-best-ways-to-stay-safe-from-mosquito-borne-illnesses-according-to-a-doctor-thumbnail-2110564-640x360.jpg?v=532947bbe7449b367b963713a282edbc",
-      "publishedAt": "2023-07-08 00:39:38",
-      "content": "Watch CBS News Copyright \u00a92023 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2023-07-09 07:05:24.599751",
-      "internal_id": "e30df0a2f97e9cea95be707c1afdf7d4d3b195d520b0803aed2559c3fbcb2723",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 188,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "More locally-acquired malaria cases reported in U.S.",
-      "description": "The first locally-acquired U.S. malaria cases in 20 years were recently reported in Florida and Texas, as hot and humid conditions have helped contribute to a more active mosquito season. Omar Villafranca has more.",
-      "url": "https://www.cbsnews.com/video/more-locally-acquired-malaria-cases-reported-in-us/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/07/50a89ac2-447a-405a-a872-ed12421a8aad/thumbnail/1200x630/1733529d0eba4283b4f9007240c84777/cbsn-fusion-more-locally-acquired-malaria-cases-reported-in-us-thumbnail-2110435-640x360.jpg?v=532947bbe7449b367b963713a282edbc",
-      "publishedAt": "2023-07-07 23:51:37",
-      "content": "Watch CBS News Copyright \u00a92023 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2023-07-09 07:05:24.590709",
-      "internal_id": "de3001a40055dda1c1ae3bace9bbe1501a53418d3573cfaa57c5fecccfa95b1e",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 187,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Six locally acquired malaria cases reported in Sarasota - NBC2 News",
-      "description": "Six locally acquired malaria cases reported in Sarasota NBC2 News Florida is under a malaria alert, and there are now more cases of the mosquito illness Miami Herald 6 total cases of malaria reported in Sarasota County WFLA News\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vbmJjLTIuY29tL25ld3MvMjAyMy8wNy8wNi9zaXgtbG9jYWxseS1hY3F1aXJlZC1tYWxhcmlhLWNhc2VzLXJlcG9ydGVkLWluLXNhcmFzb3RhL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-07 23:51:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-09 07:05:24.587674",
-      "internal_id": "283c516375486df9fa0d87d5500d2a9269428c73907498eed1136e0ad1a2c661",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 231,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Two more malaria cases as Florida is under health alert - Miami Herald",
-      "description": "Two more malaria cases as Florida is under health alertMiami Herald 6 total cases of malaria reported in Sarasota CountyWFLA News Channel 8 6 cases of malaria now reported in Sarasota10 Tampa Bay Two more malaria cases confirmed in Sarasota CountyWWSB Florida\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171332141",
-      "urlToImage": null,
-      "publishedAt": "2023-07-07 23:32:08",
-      "content": "Do not underestimate the value of print statements for debugging. Don't have aesthetic convulsions when using them, either.",
-      "retrievedAt": "2023-07-11 07:05:47.759607",
-      "internal_id": "13c6ca7ca6e971f9be97bd0f65f2d14bd2c3a047df08f137c74aa99b2fae5081",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 193,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Aria Bendix",
-      "title": "As malaria cases tick up in Florida, a doctor treating patients describes their symptoms",
-      "description": "Florida health officials identified two more cases of locally acquired malaria last week. A doctor treating the patients describes their symptoms and treatment.",
-      "url": "https://www.nbcnews.com/health/health-news/more-malaria-cases-florida-symptoms-treatment-doctor-rcna93123",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230707-florida-malaria-spraying-pesticides-se-500p-0d3eba.jpg",
-      "publishedAt": "2023-07-07 23:30:27",
-      "content": "Florida health officials reported two additional cases of malaria on Thursday. Both were identified last week and neither was linked to travel outside the country. That brings the total number of l\u2026 [+5690 chars]",
-      "retrievedAt": "2023-07-09 07:05:24.602820",
-      "internal_id": "7906628d29ea4aae3a114d2f8f2a1eb6bd5a7d6d0a6d62ad237a15873ba5276f",
-      "publishedAtLabel": "Jul 7"
     }
   ]
 }
