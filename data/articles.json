@@ -1,8 +1,135 @@
 {
-  "last_updated": "2023-07-15 19:05",
+  "last_updated": "2023-07-16 07:05",
   "count_articles_total": 297,
-  "count_articles_new": 37,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 395,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "DC-area doctor gives tips on malaria prevention - WTOP",
+      "description": "DC-area doctor gives tips on malaria preventionWTOP Latest On Florida Malaria Cases | Weather.comThe Weather Channel Experts in Florida combat mosquitos with malaria #news #florida #malaria #mosquitoABC Action News Malaria concerns have Polk mosquito control \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171388359",
+      "urlToImage": null,
+      "publishedAt": "2023-07-15 03:12:09",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-07-16 07:05:42.065012",
+      "internal_id": "8fe504f20a8202b73cf40d1df87bf50b7ea7fc13ec1ddc02c697b2cf5f125476",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 389,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "From 30 in mid-June, BMC dengue cases surge to 60 - Times of India",
+      "description": "From 30 in mid-June, BMC dengue cases surge to 60 Times of India Dengue spreads tentacles in Odisha as capital city becomes mosquito hotspot OTV News PMC reports spurt in dengue cases Hindustan Times Dengue cases reach\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkva29sa2F0YS9mcm9tLTMwLWluLW1pZC1qdW5lLWJtYy1kZW5ndWUtY2FzZXMtc3VyZ2UtdG8tNjAvYXJ0aWNsZXNob3cvMTAxNzcxMTI4LmNtc9IBdmh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkva29sa2F0YS9mcm9tLTMwLWluLW1pZC1qdW5lLWJtYy1kZW5ndWUtY2FzZXMtc3VyZ2UtdG8tNjAvYW1wX2FydGljbGVzaG93LzEwMTc3MTEyOC5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-15 02:22:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-16 07:05:40.659333",
+      "internal_id": "1343fd050fc6bf43b7bbab0a0a7026559851109a0e338d483f687438968aeb3c",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 390,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Mini Thomas",
+      "title": "Spurt in dengue: Bengaluru now seeing 30-40 cases per day",
+      "description": "The city is witnessing a spurt in dengue cases. \"Between 30 and 40 cases are being reported daily,\" said KV Thrilok Chandra, special commissioner, health, Bruhat Bengaluru Mahanagara Palike (BBMP), adding that there has been a rise in the past two months.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/spurt-in-dengue-bluru-now-seeing-30-40-cases-per-day/articleshow/101769769.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-101769778,width-1070,height-580,imgsize-442341,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-07-14 23:45:51",
+      "content": "Impressive looks of Tanya Ravichandran!",
+      "retrievedAt": "2023-07-16 07:05:40.663504",
+      "internal_id": "63e40dd0b965ffc2737efedcc05ad12fadbc3140f7a1916ce112e03561c4ce4a",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 386,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Savebritain.org",
+      "author": "Save Britain",
+      "title": "Health Warning: Measles Outbreak in Britain as Thousands of Cases\u2026",
+      "description": "Data released today by the UK Health Security Agency (UKHSA) show that measles cases have been steadily increasing this year. A new risk assessment also indicates the possibility of a measles outbreak, notably in London. In 2022, 54 instances of measles were \u2026",
+      "url": "https://savebritain.org/health-warning-measles-outbreak-in-britain-as-thousands-of-cases-predicted/",
+      "urlToImage": "https://savebritain.org/wp-content/uploads/2023/07/measles-outbreak-uk.jpg",
+      "publishedAt": "2023-07-14 21:39:52",
+      "content": "Data released today by the UK Health Security Agency (UKHSA) show that measles cases have been steadily increasing this year. A new risk assessment also indicates the possibility of a measles outbrea\u2026 [+3176 chars]",
+      "retrievedAt": "2023-07-16 07:05:39.856562",
+      "internal_id": "9ed70ba06b00ceb5d9308fedad6dcd48cd145afee37c012064eb9b8d787aa806",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 387,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newshub",
+      "author": "Ireland Hendry-tennent",
+      "title": "Health experts warn UK at 'very real risk' of outbreak of deadly Victorian disease measles due to low vaccination",
+      "description": "Health experts warn UK at 'very real risk' of outbreak of deadly Victorian disease measles due to low vaccinationnewshub.co.nz",
+      "url": "https://www.newshub.co.nz/home/lifestyle/2023/07/health-experts-warn-uk-at-very-real-risk-of-outbreak-of-deadly-victorian-disease-measles-due-to-low-vaccination.html",
+      "urlToImage": "https://www.newshub.co.nz/home/lifestyle/2023/07/health-experts-warn-uk-at-very-real-risk-of-outbreak-of-deadly-victorian-disease-measles-due-to-low-vaccination/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1689369392037/getty-MEASLES-GENERIC-1120.jpg",
+      "publishedAt": "2023-07-14 21:24:04",
+      "content": "The virus can be prevented by the MMR vaccine. It was nearly wiped out entirely in the United Kingdom in the 2010s but a drop in vaccine rates saw it return with 880 cases reported in 2019. UKHSA c\u2026 [+1654 chars]",
+      "retrievedAt": "2023-07-16 07:05:39.858049",
+      "internal_id": "f379b0e867fdb4032827201317b668cc29e1f406dca8287f81dcbdeb464c0137",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 396,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412 \u043c\u0438\u0440\u0435 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 2022 \u0433\u043e\u0434\u0430 \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043e \u0431\u043e\u043b\u0435\u0435 88 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u041f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u0412\u041e\u0417, \u0443\u043c\u0435\u0440\u043b\u0438 149 \u0447\u0435\u043b\u043e\u0432\u0435\u043a",
+      "url": "https://tass.ru/obschestvo/18280083",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/18280083?u=2023-07-14T21:05:26.326878",
+      "publishedAt": "2023-07-14 21:05:26",
+      "content": ", 15 . //. mpox (\"\", ) 2022 88 ., 149 . (). \" 1 2022 11 2023- 112 88 288 mpox, 149 \", - . 24 , mpox, 316 . 3 9 9,2% . - 21 92 , - 88, - - 35. 11 2022 (30 324). (10 961), (7 559), (4 147), (4 090\u2026 [+92 chars]",
+      "retrievedAt": "2023-07-16 07:05:43.737808",
+      "internal_id": "e190aa4dfe2091bf855cee4238339aa5d8b60fe9f488c2ec56d29576cdba1299",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 388,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Health dept alerts civic bodies on possible rise in dengue, malaria cases - Millennium Post",
+      "description": "Health dept alerts civic bodies on possible rise in dengue, malaria cases Millennium Post Dengue spreads tentacles in Odisha as capital city becomes mosquito hotspot OTV News PMC reports spurt in dengue cases Hindustan Times </\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1pbGxlbm5pdW1wb3N0LmluL2JlbmdhbC9oZWFsdGgtZGVwdC1hbGVydHMtY2l2aWMtYm9kaWVzLW9uLXBvc3NpYmxlLXJpc2UtaW4tZGVuZ3VlLW1hbGFyaWEtY2FzZXMtNTI1NzE00gF4aHR0cHM6Ly93d3cubWlsbGVubml1bXBvc3QuaW4vYW1wL2JlbmdhbC9oZWFsdGgtZGVwdC1hbGVydHMtY2l2aWMtYm9kaWVzLW9uLXBvc3NpYmxlLXJpc2UtaW4tZGVuZ3VlLW1hbGFyaWEtY2FzZXMtNTI1NzE0?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 19:52:04",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-16 07:05:40.657837",
+      "internal_id": "4601686d2ffb57849455eb4f22d2eab9d0242864f51b305f913be2bdcf5ae22e",
+      "publishedAtLabel": "Jul 14"
+    },
     {
       "id": 380,
       "query": [
@@ -74,6 +201,24 @@
       "content": "B Y t cnh b\u00e1o El Nino c\u00f3 th l\u00e0m tng s l\u00e2y truyn bnh st xut huyt v\u00e0 c\u00e1c loi virus kh\u00e1c nh Zika, Chikungunya, vi\u00eam n\u00e3o Nht Bn, trong thi gian ti.Ng\u00e0y 14/7, B Y t cho bit Vit Nam l\u00e0 nc nhit i vi kh\u00ed hu \u2026 [+2392 chars]",
       "retrievedAt": "2023-07-15 19:05:08.145997",
       "internal_id": "22380a7975ca4097a9c83c51f716ef5293f5dc71a1f35e50c1befaf79d2dafd7",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 385,
+      "query": [
+        "measles"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Why are there fears of a London measles outbreak and what can be done? - The Guardian",
+      "description": "Why are there fears of a London measles outbreak and what can be done? The Guardian UK agency issues health warning for London | WION WION Measles signs and symptoms as London to be hit by surge of deadly disease Manchester Even\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zb2NpZXR5LzIwMjMvanVsLzE0L3doeS1hcmUtdGhlcmUtZmVhcnMtb2YtYS1sb25kb24tbWVhc2xlcy1vdXRicmVhay1hbmQtd2hhdC1jYW4tYmUtZG9uZdIBdWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9zb2NpZXR5LzIwMjMvanVsLzE0L3doeS1hcmUtdGhlcmUtZmVhcnMtb2YtYS1sb25kb24tbWVhc2xlcy1vdXRicmVhay1hbmQtd2hhdC1jYW4tYmUtZG9uZQ?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 17:54:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-16 07:05:39.851265",
+      "internal_id": "31ba488da4b4f4d34dfae5a6e673045a62f0c96a2787476b5b0b7d88d6210845",
       "publishedAtLabel": "Jul 14"
     },
     {
@@ -187,7 +332,8 @@
     {
       "id": 383,
       "query": [
-        "malaria"
+        "malaria",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Plos.org",
@@ -671,6 +817,24 @@
       "publishedAtLabel": "Jul 14"
     },
     {
+      "id": 393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vietnamplus.vn",
+      "author": "VNA",
+      "title": "Laos sees strong increase in dengue case number",
+      "description": "Laos has seen a strong rise in the number of dengue fever cases recently, mostly due to ineffective preventive measures, according to the Lao Ministry of Health.",
+      "url": "https://en.vietnamplus.vn/laos-sees-strong-increase-in-dengue-case-number/256366.vnp",
+      "urlToImage": null,
+      "publishedAt": "2023-07-14 07:16:00",
+      "content": "Vientiane (VNA) Laos has seen a strong rise in the number of dengue fever cases recently, mostly due to ineffective preventive measures, according to the Lao Ministry of Health.The ministry said th\u2026 [+1198 chars]",
+      "retrievedAt": "2023-07-16 07:05:40.670107",
+      "internal_id": "6a63d3fdd4e94df0cf93fe1e436e18d8d6082369a90bd08650c1cb532464d3f3",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
       "id": 342,
       "query": [
         "dengue"
@@ -704,6 +868,24 @@
       "content": "A pertussis outbreak in Jerusalem that began earlier this year has spread to the north of the country, with the Health Ministry announcing Thursday that a child in the western Galilee was found to ha\u2026 [+7294 chars]",
       "retrievedAt": "2023-07-15 07:05:30.258937",
       "internal_id": "289dd26e69d7b72a8e7d8c8aedc3729a151a3296d3daa826bcf62173384bced3",
+      "publishedAtLabel": "Jul 14"
+    },
+    {
+      "id": 391,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Ministry urges all to continue anti-dengue drive",
+      "description": "KATHMANDU: The Ministry of Health and Population has urged all sides concerned to continue the anti-dengue drive in the wake of rising cases of dengue. The spokesperson at the Ministry, Dr Samir Kumar Adhikari, urged all employees to involve in the sanitation\u2026",
+      "url": "https://english.khabarhub.com/2023/14/310718/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2020/01/Nepal-Ministry-Of-Health-And-Population02.jpg",
+      "publishedAt": "2023-07-14 01:15:02",
+      "content": "KATHMANDU: The Ministry of Health and Population has urged all sides concerned to continue the anti-dengue drive in the wake of rising cases of dengue. The spokesperson at the Ministry, Dr Samir Kum\u2026 [+970 chars]",
+      "retrievedAt": "2023-07-16 07:05:40.668161",
+      "internal_id": "a21279e030d9cfd197912c4e0eca7c0258cdd4722adfcf35bbc1ae19871cc2b7",
       "publishedAtLabel": "Jul 14"
     },
     {
@@ -1160,6 +1342,24 @@
       "publishedAtLabel": "Jul 12"
     },
     {
+      "id": 392,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Japan\u2019s Takeda pulls dengue vaccine candidate in US",
+      "description": "Japanese pharma firm Takeda is voluntarily withdrawing its application for approval of a dengue vaccine candidate in the United States, citing \u201cdata collection\u201d issues. The decision, announced by the company in the United States on Tuesday evening, comes desp\u2026",
+      "url": "https://sylhetmirror.com/2023/07/12/japans-takeda-pulls-dengue-vaccine-candidate-in-us/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/cWUc.jpg",
+      "publishedAt": "2023-07-12 17:05:58",
+      "content": "Japanese pharma firm Takeda is voluntarily withdrawing its application for approval of a dengue vaccine candidate in the United States, citing \u201cdata collection\u201d issues. The decision, announced by th\u2026 [+1297 chars]",
+      "retrievedAt": "2023-07-16 07:05:40.669145",
+      "internal_id": "2efc5e6b3cc4d6c18e2824cd580509c902eceaffd44f0d55cecd94aa57876a8c",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
       "id": 319,
       "query": [
         "malaria"
@@ -1429,6 +1629,24 @@
       "content": "Peri\u00f3dico La JornadaMi\u00e9rcoles 12 de julio de 2023, p. a11 La Liga Nacional por fin pudo romper una larga sequ\u00eda de nueve derrotas consecutivas en el Juego de Estrellas de la MLB, al imponerse 3-2 a \u2026 [+310 chars]",
       "retrievedAt": "2023-07-13 19:05:15.545760",
       "internal_id": "3c2007ab92faab515fe34075619733189468d9eba220fdaa63be3f1a15deebab",
+      "publishedAtLabel": "Jul 12"
+    },
+    {
+      "id": 394,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Dengue spike in Bangladesh: Govt issues precautionary measures",
+      "description": "As the dengue situation has taken an alarming turn across the country, the Directorate General of Health Services (DGHS) urged people to be careful and focus on ensuring that their surroundings are clean. It also urged people not to panic over the alarming ri\u2026",
+      "url": "https://sylhetmirror.com/2023/07/12/dengue-spike-in-bangladesh-govt-issues-precautionary-measures/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/Kjgge.jpg",
+      "publishedAt": "2023-07-12 08:12:38",
+      "content": "As the dengue situation has taken an alarming turn across the country, the Directorate General of Health Services (DGHS) urged people to be careful and focus on ensuring that their surroundings are c\u2026 [+2261 chars]",
+      "retrievedAt": "2023-07-16 07:05:40.671276",
+      "internal_id": "4d70df5d681c3ccdb5d1f419c7857a6baf926095a82b39d94f05525e68d7d00b",
       "publishedAtLabel": "Jul 12"
     },
     {
@@ -3401,222 +3619,6 @@
       "content": "Florida health officials reported two additional cases of malaria on Thursday. Both were identified last week and neither was linked to travel outside the country. That brings the total number of l\u2026 [+5690 chars]",
       "retrievedAt": "2023-07-09 07:05:24.602820",
       "internal_id": "7906628d29ea4aae3a114d2f8f2a1eb6bd5a7d6d0a6d62ad237a15873ba5276f",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 191,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Raw Story",
-      "author": "Maya Boddie, Alternet",
-      "title": "Florida leaders face 'challenges in filling' critical public health roles as Malaria cases emerge",
-      "description": "Weeks after four malaria cases were detected in Florida, state officials are struggling to fill two important public health positions, Rolling Stone reports.On Thursday, July 6, NBC exclusively reported the vacant roles \"are in the Florida Health Department's\u2026",
-      "url": "https://www.rawstory.com/florida-leaders-face-challenges-in-filling-critical-public-health-roles-as-malaria-cases-emerge-2662249709/",
-      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=34292128&width=1200&height=600&coordinates=0%2C48%2C0%2C48",
-      "publishedAt": "2023-07-07 21:31:34",
-      "content": "Weeks after four malaria cases were detected in Florida, state officials are struggling to fill two important public health positions, Rolling Stone reports. On Thursday, July 6, NBC exclusively rep\u2026 [+2734 chars]",
-      "retrievedAt": "2023-07-09 07:05:24.597840",
-      "internal_id": "9ad37d2659e708d690e8e7889b0df413aef30015c939d24ac3177760bf636e52",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 186,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "S\u00edntomas de alarma por dengue en ni\u00f1os: identifica las se\u00f1ales",
-      "description": "En el siguiente art\u00edculo, abordaremos un tema de vital importancia: los s\u00edntomas de alarma por dengue en ni\u00f1os. Es fundamental estar informado y poder identificar las se\u00f1ales que podr\u00edan indicar la presencia de esta enfermedad transmitida por mosquitos. La in\u2026",
-      "url": "https://www.eluniversal.com.co/salud/sintomas-de-alarma-por-dengue-en-ninos-identifica-las-senales-YC8545364",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/800x723/0c19/800d686/none/13704/WYEY/dengue-3_8071048_20230707155624.jpg",
-      "publishedAt": "2023-07-07 20:35:36",
-      "content": "En el siguiente art\u00edculo, abordaremos un tema de vital importancia: los s\u00edntomas de alarma por dengue en ni\u00f1os. Es fundamental estar informado y poder identificar las se\u00f1ales que podr\u00edan indicar la p\u2026 [+3751 chars]",
-      "retrievedAt": "2023-07-09 07:05:23.522917",
-      "internal_id": "54d9684b7de03b1eda7c886335d4f781f6591381180bf5854055570f90ed7c38",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 240,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AlterNet",
-      "author": "Maya Boddie",
-      "title": "Florida leaders face 'challenges in filling' critical public health roles as Malaria cases emerge",
-      "description": "Weeks after four malaria cases were detected in Florida, state officials are struggling to fill two important public health positions, Rolling Stone reports. On Thursday, July 6, NBC exclusively reported the vacant roles \"are in the Florida Health Department'\u2026",
-      "url": "https://www.alternet.org/florida-public-health-roles-malaria/",
-      "urlToImage": "https://www.alternet.org/media-library/image.jpg?id=34302031&width=1200&height=600&coordinates=0%2C100%2C0%2C100",
-      "publishedAt": "2023-07-07 20:35:32",
-      "content": "Weeks after four malaria cases were detected in Florida, state officials are struggling to fill two important public health positions, Rolling Stone reports. On Thursday, July 6, NBC exclusively re\u2026 [+2731 chars]",
-      "retrievedAt": "2023-07-11 07:05:47.772639",
-      "internal_id": "5f71ec361ab7749b42cec7abb91868682cb3c0f371a667521218781ec7d93b6c",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 236,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Florida is under a malaria alert, and there are now more cases of the mosquito illness - Miami Herald",
-      "description": "Florida is under a malaria alert, and there are now more cases of the mosquito illnessMiami Herald View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171331039",
-      "urlToImage": null,
-      "publishedAt": "2023-07-07 20:12:05",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-11 07:05:47.766856",
-      "internal_id": "fd5061373e65391d76aad1329792537713fc90ef7b2de5118d077799f21801f0",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 172,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Multiple people exposed to rabies in Morgantown from feral cat colony - WBOY.com",
-      "description": "Multiple people exposed to rabies in Morgantown from feral cat colony WBOY.comView Full Coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lndib3kuY29tL25ld3MvbW9ub25nYWxpYS9yYWJpZXMtY2FzZS1jb25maXJtZWQtaW4tbW9yZ2FudG93bi1mZXJhbC1jYXQtY29sb255L9IBXmh0dHBzOi8vd3d3Lndib3kuY29tL25ld3MvbW9ub25nYWxpYS9yYWJpZXMtY2FzZS1jb25maXJtZWQtaW4tbW9yZ2FudG93bi1mZXJhbC1jYXQtY29sb255L2FtcC8?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-07 18:58:26",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-08 19:05:13.493664",
-      "internal_id": "a54d75756ab93e07ca3b34d41426a79ba7c4ce1a873efe0d74fc88b6b33e57a7",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 238,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Carma Hassan, Jen Christensen",
-      "title": "Cases of locally acquired malaria rise to six in Florida | CNN",
-      "description": "There are two more cases of locally acquired malaria in Sarasota County, according to the Florida Department of Health, bringing the total number of cases to six in the state.",
-      "url": "https://www.cnn.com/2023/07/07/health/florida-texas-malaria-cases/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230707125531-mosquito-malaria-cdc-file.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-07-07 17:51:20",
-      "content": "There are two more cases of locally acquired malaria in Sarasota County, according to the Florida Department of Health, bringing the total number of cases to six in the state. At the end of June, th\u2026 [+1842 chars]",
-      "retrievedAt": "2023-07-11 07:05:47.770056",
-      "internal_id": "2bb9ce32dc6d6d291c477ecb1a453451db0f9e8d13c381b06a52654ee01b26cf",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 181,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Boston Herald",
-      "author": "Tribune News Service",
-      "title": "Malaria in the US: A Mayo Clinic expert offers insight, tips on prevention",
-      "description": "There have been instances of people getting infected with Plasmodium vivax malaria in Florida and Texas, even though they hadn't traveled outside the country.",
-      "url": "https://www.bostonherald.com/2023/07/07/malaria-in-the-us-a-mayo-clinic-expert-offers-insight-tips-on-prevention/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2023/07/LIFE-HEALTH-MALARIA-DMT.jpg?w=1024&h=682",
-      "publishedAt": "2023-07-07 16:55:45",
-      "content": "Deb Balzer | (TNS) Mayo Clinic News Network Malaria, a severe and potentially fatal disease most often caused by the bite of an infected mosquito, has been reported in the U.S. The Centers for Disea\u2026 [+3957 chars]",
-      "retrievedAt": "2023-07-08 19:05:15.062222",
-      "internal_id": "519d0a744df9ffbc1a5eef085ae19d0ceebfea691ac8aa97b40ae8b1bc03f582",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 175,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "\u00a1Atenci\u00f3n! Declaran Alerta Roja Hospitalaria por aumento del dengue en Bol\u00edvar",
-      "description": "El progresivo aumento de los casos de dengue en Cartagena y los municipios del departamento motivaron a la Gobernaci\u00f3n de Bol\u00edvar a declarar la Alerta Roja Hospitalaria.",
-      "url": "https://www.eluniversal.com.co/regional/bolivar/atencion-declaran-alerta-roja-hospitalaria-por-aumento-del-dengue-en-bolivar-BA8543892",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1225x687/424c0/800d686/none/13704/QGMJ/dengue-en-bolivara_8069060_20230707111019.jpg",
-      "publishedAt": "2023-07-07 16:10:15",
-      "content": "El progresivo aumento de los casos de dengue en Cartagena y los municipios del departamento motivaron a la Gobernaci\u00f3n de Bol\u00edvar a declarar la Alerta Roja Hospitalaria. La medida fue adoptada duran\u2026 [+1962 chars]",
-      "retrievedAt": "2023-07-08 19:05:14.283442",
-      "internal_id": "1da67309be1a838e102ebae0169bc4d6723e6cedeb59f5d643df95766eaa9733",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 178,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Rolling Stone",
-      "author": "Ryan Bort",
-      "title": "Malaria Detected in Florida as Key Infectious Disease Positions Sit Vacant",
-      "description": "Ron DeSantis has turned the state into a hotbed of anti-science ignorance, which could turn it into a hotbed of disease",
-      "url": "https://www.rollingstone.com/politics/politics-news/malaria-detected-florida-desantis-public-health-positions-vacant-1234784402/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/07/GettyImages-1514947759.jpg?w=1600&h=900&crop=1",
-      "publishedAt": "2023-07-07 15:30:46",
-      "content": "Ron DeSantis thumbed his nose at public health experts throughout much of the Covid-19 pandemic, cracking down on institutions looking to impose preventative measures, appointing an anti-vax surgeon \u2026 [+2117 chars]",
-      "retrievedAt": "2023-07-08 19:05:15.056154",
-      "internal_id": "3e24b0328af2f9f3c0e6cf3cb6a8e0a23759f647e18f6efaeaaa3f15a712000f",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 174,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Moki Edwin Kindzeka)",
-      "title": "Cameroon Vaccinates for Measles, But Says Hesitancy Persists",
-      "description": "Officials in Cameroon say vaccine hesitancy is preventing them from inoculating millions of children for childhood diseases in the first major campaign since the COVID-19 pandemic began. The country has an outbreak of measles and rubella that has killed 18\u2026",
-      "url": "https://www.voanews.com/a/cameroon-vaccinates-for-measles-but-says-hesitancy-persists-/7171258.html",
-      "urlToImage": "https://gdb.voanews.com/57d59762-a93e-4db4-868c-c2814e8ed79e_cx0_cy12_cw0_w1200_r1.jpg",
-      "publishedAt": "2023-07-07 15:06:58",
-      "content": "Yaounde, Cameroon Officials in Cameroon say vaccine hesitancy is preventing them from inoculating millions of children for childhood diseases in the first major campaign since the COVID-19 pandemic \u2026 [+3242 chars]",
-      "retrievedAt": "2023-07-08 19:05:13.859031",
-      "internal_id": "2bb1625f5fd1c568062d8eeb1ba7f021dc5369467b9629e8420bcba683eb299f",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 180,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "First-Ever Malaria Vaccine Will Be Distributed | HealthNews - Healthnews.com",
-      "description": "First-Ever Malaria Vaccine Will Be Distributed | HealthNews Healthnews.com 18 million doses of first-ever #malaria vaccine allocated to 12 African countries for 2023\u20132025: World Health Organization (WHO) World\u2019s first malaria vac\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vaGVhbHRobmV3cy5jb20vbmV3cy9maXJzdC1ldmVyLW1hbGFyaWEtdmFjY2luZS10by1iZS1kaXN0cmlidXRlZC1pbi1hZnJpY2Ev0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-07 14:45:05",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-08 19:05:15.060371",
-      "internal_id": "dd98c0fbc73ef1f5a43d151a13f998263362e77c9674760efa3f16572a38001e",
-      "publishedAtLabel": "Jul 7"
-    },
-    {
-      "id": 183,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Thamarasee Jeewandara",
-      "title": "Developing a human malaria-on-a-chip disease model",
-      "description": "In a new report published on Scientific Reports, Michael J. Rupar, and a research team at Hesperos Inc., Florida, U.S., developed a functional, multi-organ, serum-free system to culture P. falciparum\u2014a protozoan that predominantly causes severe and fatal mala\u2026",
-      "url": "https://phys.org/news/2023-07-human-malaria-on-a-chip-disease.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/developing-a-human-mal.jpg",
-      "publishedAt": "2023-07-07 14:39:34",
-      "content": "In a new report published on Scientific Reports, Michael J. Rupar, and a research team at Hesperos Inc., Florida, U.S., developed a functional, multi-organ, serum-free system to culture P. falciparum\u2026 [+7691 chars]",
-      "retrievedAt": "2023-07-08 19:05:15.066346",
-      "internal_id": "01b5bb857c4728fa3b7ba26f0329633237b716eff9698357c67998c129a7a026",
       "publishedAtLabel": "Jul 7"
     }
   ]
