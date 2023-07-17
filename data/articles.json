@@ -1,8 +1,44 @@
 {
-  "last_updated": "2023-07-17 01:17",
+  "last_updated": "2023-07-17 07:06",
   "count_articles_total": 297,
   "count_articles_new": 2,
   "articles": [
+    {
+      "id": 405,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "7NEWS.com.au",
+      "author": "Digital Staff",
+      "title": "Queensland health alert after man goes to hospital suffering from measles",
+      "description": "The man went to a sauna, shopping centre and bottle shop after coming into southeast Queensland.",
+      "url": "https://7news.com.au/news/public-health/queensland-health-alert-after-man-goes-to-hospital-suffering-from-measles-c-11287836",
+      "urlToImage": "https://images.7news.com.au/publication/C-11287836/f03d2de3d033a3a0ffc9df65db61d04158876c33-16x9-x0y86w934h525.jpg?imwidth=1200",
+      "publishedAt": "2023-07-16 04:40:11",
+      "content": "A man who flew into Australia from overseas has triggered a health alert in Queensland after he visited shops, a service station and a bakery while infected with measles. The Department of Health ra\u2026 [+2234 chars]",
+      "retrievedAt": "2023-07-17 07:06:03.077528",
+      "internal_id": "b79d39e02b97a7636f8b220778e78964014aa199c09b880f22abdf0623e5f1dd",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 406,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Bangladesh alcanza el r\u00e9cord de infectados por dengue de este a\u00f1o",
+      "description": "Bangladesh ha reportado 1.623 nuevos casos de dengue en las 24 horas hasta la ma\u00f1ana de este s\u00e1bado, el mayor n\u00famero de hospitalizaciones en un d\u00eda por la enfermedad transmitida por mosquitos este a\u00f1o.",
+      "url": "https://www.europapress.es/internacional/noticia-bangladesh-alcanza-record-infectados-dengue-ano-20230716053156.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230716053156_1200.jpg",
+      "publishedAt": "2023-07-16 03:31:56",
+      "content": "MADRID, 16 Jul. (EUROPA PRESS) - Bangladesh ha reportado 1.623 nuevos casos de dengue en las 24 horas hasta la ma\u00f1ana de este s\u00e1bado, el mayor n\u00famero de hospitalizaciones en un d\u00eda por la enfermed\u2026 [+1192 chars]",
+      "retrievedAt": "2023-07-17 07:06:03.807883",
+      "internal_id": "550562f6c553ce69813698d55bd080fdfc8757bdfc50a907ac5bca9e459cb8e5",
+      "publishedAtLabel": "Jul 16"
+    },
     {
       "id": 403,
       "query": [
@@ -3583,42 +3619,6 @@
       "content": "The government has issued five instructions to all public and private schools and colleges to prevent further spread of dengue as most of the educational institutions are set to reopen tomorrow after\u2026 [+89 chars]",
       "retrievedAt": "2023-07-09 19:05:07.403421",
       "internal_id": "9dc7797470a9f44ce88d813b918977014d5d8fef79aa6e3a28a3adbe85442693",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 184,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "publicaffairs@voa.gov (VOA)",
-      "title": "Cameroon: Cameroon Vaccinates for Measles, but Says Hesitancy Persists",
-      "description": "[VOA] Yaounde, Cameroon -- Officials in Cameroon say vaccine hesitancy is preventing them from inoculating millions of children for childhood diseases in the first major campaign since the COVID-19 pandemic began.",
-      "url": "https://allafrica.com/stories/202307080084.html",
-      "urlToImage": "https://cdn07.allafrica.com/download/pic/main/main/csiid/00570127:7c84b3cc3a14176bc3c494b2e6d49731:arc614x376:w1200.jpg",
-      "publishedAt": "2023-07-08 06:51:15",
-      "content": "Yaounde, Cameroon \u2014 Officials in Cameroon say vaccine hesitancy is preventing them from inoculating millions of children for childhood diseases in the first major campaign since the COVID-19 pandemic\u2026 [+3620 chars]",
-      "retrievedAt": "2023-07-09 07:05:22.948250",
-      "internal_id": "bcc591a668ddd2b97e25f3ca016d01f7e1146317461bf9aa8a6215cb95467053",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 185,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Publico.pt",
-      "author": "publico@publico.pt",
-      "title": "Temos uma nova vacina para a dengue",
-      "description": "A nova vacina para a dengue est\u00e1 dispon\u00edvel em Portugal mediante prescri\u00e7\u00e3o m\u00e9dica, o que permite a recomenda\u00e7\u00e3o do seu uso por parte dos cl\u00ednicos de medicina do viajante sempre que tal se justifique.",
-      "url": "https://www.publico.pt/2023/07/08/ciencia/opiniao/nova-vacina-dengue-2055175",
-      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1739851?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Publico.png",
-      "publishedAt": "2023-07-08 05:42:00",
-      "content": "A dengue \u00e9 uma doen\u00e7a infeciosa causada por um de quatro tipos (designados serotipos) de v\u00edrus dengue, transmitidos aos seres humanos pela picada de mosquitos Aedes. A transmiss\u00e3o ocorre sobretudo em\u2026 [+434 chars]",
-      "retrievedAt": "2023-07-09 07:05:23.518063",
-      "internal_id": "ce022aad0ffb01686d1afb4ecf344f2ed27eec2132733abe62bbb81c3e8981e1",
       "publishedAtLabel": "Jul 8"
     }
   ]
