@@ -1,8 +1,26 @@
 {
-  "last_updated": "2023-07-16 19:05",
+  "last_updated": "2023-07-17 01:17",
   "count_articles_total": 297,
-  "count_articles_new": 6,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 403,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Sa\u00fade em Dia",
+      "title": "Menos interna\u00e7\u00f5es, maior mortalidade: as doen\u00e7as negligenciadas na pandemia",
+      "description": "Mal\u00e1ria, leishmaniose e dengue est\u00e3o entre as doen\u00e7as que causaram menos interna\u00e7\u00f5es, mas mais mortes durante a pandemia de Covid-19",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/menos-internacoes-maior-mortalidade-as-doencas-negligenciadas-na-pandemia,35b61c4878a42cd19f0cb31fbd41b5c19v6g975r.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/15/596615719-doencas-infecciosas.jpg",
+      "publishedAt": "2023-07-15 20:02:42",
+      "content": "Um estudo realizado pela Universidade Federal de Uberl\u00e2ndia (UFU), em parceria com a Universidade de C\u00f3rdoba, na Espanha, revelou que algumas doen\u00e7as tiveram um aumento na mortalidade, mas uma queda \u2026 [+2420 chars]",
+      "retrievedAt": "2023-07-17 01:17:23.375550",
+      "internal_id": "f6c58e1d3575acde5466ab367ab2f1e9a02381faa5d5551d26b9611d6f626bc4",
+      "publishedAtLabel": "Jul 15"
+    },
     {
       "id": 402,
       "query": [
@@ -73,6 +91,24 @@
       "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
       "retrievedAt": "2023-07-16 19:05:10.375254",
       "internal_id": "2f93fc868509646e32acc5a32a879378cf43a4c610457db9caf0ed0dd9ca7475",
+      "publishedAtLabel": "Jul 15"
+    },
+    {
+      "id": 404,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Dengue corner expanded at BSMMU",
+      "description": "The dengue corner was expanded today at Bangabandhu Sheikh Mujib Medical University (BSMMU) as part of a quick response to the growing dengue crisis in the country, reports our correspondent. It has been extended to the second floor in E-Block. The post Dengu\u2026",
+      "url": "https://sylhetmirror.com/2023/07/15/dengue-corner-expanded-at-bsmmu/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/Iuut5.jpg",
+      "publishedAt": "2023-07-15 08:54:57",
+      "content": "The dengue corner was expanded today at Bangabandhu Sheikh Mujib Medical University (BSMMU) as part of a quick response to the growing dengue crisis in the country, reports our correspondent. It has\u2026 [+45 chars]",
+      "retrievedAt": "2023-07-17 01:17:23.380627",
+      "internal_id": "9aeebb19ec85b1b020d066e8419538d1897e02c6200151d9ea5d69a8f2335b2a",
       "publishedAtLabel": "Jul 15"
     },
     {
@@ -3583,42 +3619,6 @@
       "content": "A dengue \u00e9 uma doen\u00e7a infeciosa causada por um de quatro tipos (designados serotipos) de v\u00edrus dengue, transmitidos aos seres humanos pela picada de mosquitos Aedes. A transmiss\u00e3o ocorre sobretudo em\u2026 [+434 chars]",
       "retrievedAt": "2023-07-09 07:05:23.518063",
       "internal_id": "ce022aad0ffb01686d1afb4ecf344f2ed27eec2132733abe62bbb81c3e8981e1",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 190,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "As malaria cases tick up in Florida, a doctor treating patients describes their symptoms (Aria Bendix/NBC News)",
-      "description": "Aria Bendix / NBC News: As malaria cases tick up in Florida, a doctor treating patients describes their symptoms \u2014 Two additional locally acquired malaria infections have been reported in Florida, bringing the state's total to six. \u2014 Florida health offici\u2026",
-      "url": "https://www.memeorandum.com/230707/p100",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230707-florida-malaria-spraying-pesticides-se-500p-0d3eba.jpg",
-      "publishedAt": "2023-07-08 01:40:00",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2023-07-09 07:05:24.595876",
-      "internal_id": "7b84ce21afeb51406f0d353768028f229ce1473cdf52bceaf6cf09af9ee8f724",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 189,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "7/7: CBS News Weekender",
-      "description": "Nikole Killion reports on dangerous heat impacting much of the U.S., malaria-carrying mosquitoes, and how artificial intelligence is infiltrating the online dating world.",
-      "url": "https://www.cbsnews.com/video/77-cbs-news-weekender/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/08/e0ae7c0e-19f8-4972-bf4b-6f9d4fee5211/thumbnail/1200x630/56d4d3b71419339687003728bed691e4/0707-7pm-full-2110709-640x360.jpg?v=532947bbe7449b367b963713a282edbc",
-      "publishedAt": "2023-07-08 01:38:30",
-      "content": "Watch CBS News Copyright \u00a92023 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2023-07-09 07:05:24.593011",
-      "internal_id": "495a90523f0af1b9278d021fda1abccb0a78f085ce281ca36998e569b616e30f",
       "publishedAtLabel": "Jul 8"
     }
   ]
