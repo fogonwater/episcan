@@ -1,8 +1,370 @@
 {
-  "last_updated": "2023-07-18 07:06",
+  "last_updated": "2023-07-18 19:05",
   "count_articles_total": 297,
-  "count_articles_new": 6,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 428,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "WebMD",
+      "author": "Lindsay Kalter",
+      "title": "Mosquito and Tick-Borne Illnesses on the Rise: What to Know",
+      "description": "Illnesses spread by ticks and mosquitos are on the rise, prompting warnings from doctors and scientists to take precautions and watch out for any tell-tale symptoms. Here's what to know.",
+      "url": "https://www.webmd.com/a-to-z-guides/news/20230717/mosquito-tick-borne-illnesses-on-the-rise-what-to-know",
+      "urlToImage": "https://img.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg",
+      "publishedAt": "2023-07-17 18:36:19",
+      "content": "There have been small numbers of cases each year since malaria was eradicated, said Sarah Gunter, PhD, assistant professor of pediatric tropical medicine at Baylor College of Medicine in Texas. But I\u2026 [+1924 chars]",
+      "retrievedAt": "2023-07-18 19:05:23.012457",
+      "internal_id": "ca2322ba7dccd7d45a0ddd6a3740dda9e6baf5a3f365be3b9cac25a501de363f",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 425,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsnextbd.com",
+      "author": "Newsnext Bangladesh",
+      "title": "Dengue outbreak kills some 114 people in Bangladesh",
+      "description": "Dhaka \u2013 The death toll from the dengue outbreak has rose to 114 in Bangladesh with the record eight fatalities reported in a single day on Monday. The health ministry in a press release said eight people have been died...",
+      "url": "https://newsnextbd.com/dengue-outbreak-kills-some-114-people-in-bangladesh/",
+      "urlToImage": "https://newsnextbd.com/wp-content/uploads/2020/08/Dengue-mosquito.jpg",
+      "publishedAt": "2023-07-17 18:18:29",
+      "content": "Dhaka The death toll from the dengue outbreak has rose to 114 in Bangladesh with the record eight fatalities reported in a single day on Monday. The health ministry in a press release said eight peo\u2026 [+1174 chars]",
+      "retrievedAt": "2023-07-18 19:05:22.258914",
+      "internal_id": "265d8b731c098c43d2e23c117a7c3403e2acc829c6523cc85f5a012c0b8e6544",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 426,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Dengue death toll rises to 114 with record 8 more deaths in 24 hours",
+      "description": "Eight more deaths were reported from dengue in 24 hours till Monday morning, the highest number of death in a day from the mosquito-borne disease this year, raising the fatalities in Bangladesh to 108 in 2023. During the period, 1,589 more patients were hospi\u2026",
+      "url": "https://sylhetmirror.com/2023/07/17/dengue-death-toll-rises-to-114-with-record-8-more-deaths-in-24-hours/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/r43rt54t.jpg",
+      "publishedAt": "2023-07-17 16:43:25",
+      "content": "Eight more deaths were reported from dengue in 24 hours till Monday morning, the highest number of death in a day from the mosquito-borne disease this year, raising the fatalities in Bangladesh to 10\u2026 [+640 chars]",
+      "retrievedAt": "2023-07-18 19:05:22.260222",
+      "internal_id": "5b1ffe1e583ba220ebe5014c6a007cc783c52b845acdb8d0668c401eda629594",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 429,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "UNICEF USA Contributor, UNICEF USA, \n UNICEF USA Contributor, UNICEF USA\n https://www.forbes.com/sites/unicefusa/people/unicefusacontributor/",
+      "title": "UNICEF Prepares Major Rollout Of Lifesaving Malaria Vaccine",
+      "description": "Delivery of 18 million doses to 12 African nations starting early next year marks a major step forward in the fight against malaria.",
+      "url": "https://www.forbes.com/sites/unicefusa/2023/07/17/unicef-prepares-major-rollout-of-lifesaving-malaria-vaccine/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64b560e81104270571534a0b/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-07-17 16:25:41",
+      "content": "Delivery of 18 million doses to 12 African nations starting early next year marks a major step forward in the fight against one of the leading causes of death for vulnerable children under 5. Nakach\u2026 [+5249 chars]",
+      "retrievedAt": "2023-07-18 19:05:23.014668",
+      "internal_id": "01f3d6b8ad15573f538bc3834501f0cedd904e4b764c348c40a4e0b2a5fe13e8",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 434,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsroom.gy",
+      "author": "Editor",
+      "title": "Elimination of HIV, malaria & leprosy attainable throughout Guyana \u2013 Health Minister",
+      "description": "Health Minister Dr. Frank Anthony on Monday told Regional Health Officers to maintain a proactive approach in ensuring Guyana eliminates several diseases including the Human Immunodeficiency Virus (HIV) and malaria by 2030.Addressing the Regional Hea",
+      "url": "https://newsroom.gy/2023/07/17/elimination-of-hiv-malaria-leprosy-attainable-throughout-guyana-health-minister/",
+      "urlToImage": "https://newsroom.gy/wp-content/uploads/2023/07/anthony.jpg",
+      "publishedAt": "2023-07-17 16:17:49",
+      "content": "Health Minister Dr. Frank Anthony on Monday told Regional Health Officers to maintain a proactive approach in ensuring Guyana eliminates several diseases including the Human Immunodeficiency Virus (H\u2026 [+3081 chars]",
+      "retrievedAt": "2023-07-18 19:05:23.027466",
+      "internal_id": "1701be284c29482a6b38a68dc69a5cca8e046e29da0fbf166ebf33f10628b618",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 421,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Delhi Reports 163 Dengue Cases, 43 Malaria Cases This Year",
+      "description": "Health Minister Saurabh Bharadwaj on Sunday chaired a high-level meeting on the preparedness for keeping vector-borne diseases under check.",
+      "url": "https://www.ndtv.com/india-news/delhi-reports-163-dengue-cases-43-malaria-cases-this-year-4216304",
+      "urlToImage": "https://c.ndtvimg.com/2021-09/htcmol18_dengue_625x300_20_September_21.jpg",
+      "publishedAt": "2023-07-17 15:52:12",
+      "content": "63 cases have been reported in the national capital this year till July 15 New Delhi: Over 160 dengue cases have been reported in the national capital till mid-July this year, the highest for this p\u2026 [+3796 chars]",
+      "retrievedAt": "2023-07-18 19:05:22.250555",
+      "internal_id": "69b719e694286777255438134acc7ae06392f9a12627b2220e6dbc11b76b190b",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 420,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Ludovic Jimenez",
+      "title": "Dengue, chikungunya, leishmaniose : ces maladies tropicales qui gagnent du terrain sous nos latitudes vont-elles g\u00e2cher les vacances d\u2019\u00e9t\u00e9 ?",
+      "description": "De nombreuses maladies tropicales comme la dengue, la leishmaniose, le chikungunya sont en train de progresser vers le nord \u00e0 cause du r\u00e9chauffement climatique.",
+      "url": "https://www.dhnet.be/actu/sante/2023/07/17/dengue-chikungunya-leishmaniose-ces-maladies-tropicales-qui-gagnent-du-terrain-sous-nos-latitudes-vont-elles-gacher-les-vacances-dete-6IPG2OJRVBEFXFAYBU7VCLSMKQ/",
+      "urlToImage": "https://www.dhnet.be/resizer/DdN5fxfjBDJX55_FEkFp4LeWs0c=/1200x630/filters:format(jpeg):focal(1511x1009:1521x999):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/KSYODHLMNBBMDA7B5YPJPTFVNY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/T3NT2CDWCNH4TIXW7NYVESPAAE.jpg",
+      "publishedAt": "2023-07-17 14:55:54",
+      "content": "Une nouvelle arme anti-moustique d\u00e9couverte par des chercheurs isra\u00e9liensDe nombreuses maladies tropicales comme la dengue, la leishmaniose, le chikungunya ou encore la dengue ou le paludisme sont en\u2026 [+3893 chars]",
+      "retrievedAt": "2023-07-18 19:05:22.249495",
+      "internal_id": "94581e8ae5db09740fdca3c9a11805ee0bf6dee30c0b910f1817cb94418ae24e",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 431,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Douglas O. Escrivani, Viktor Scheidt, Michele Tinti, Joana Faria, David Horn",
+      "title": "Competition among variants is predictable and contributes to the antigenic variation dynamics of African trypanosomes",
+      "description": "Author summary Human and animal parasites, including those that cause sleeping sickness, malaria and giardiasis, have evolved effective mechanisms to counter host adaptive immunity. These parasite genomes typically incorporate large gene-families encoding var\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011530",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011530.g005&size=inline",
+      "publishedAt": "2023-07-17 14:00:00",
+      "content": "Abstract Several persistent pathogens employ antigenic variation to continually evade mammalian host adaptive immune responses. African trypanosomes use variant surface glycoproteins (VSGs) for this\u2026 [+62729 chars]",
+      "retrievedAt": "2023-07-18 19:05:23.022376",
+      "internal_id": "5b57a65ae964900c4d45203c52df598245aa31501a542bdb2f96b49bd4ddd03e",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 435,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Schola K. Peter, Joshua M. Mutiso, Mercy Ngetich, Cecilia Mbae, Samuel Kariuki",
+      "title": "Seroprevalence of non-typhoidal Salmonella disease and associated factors in children in Mukuru settlement in Nairobi County, Kenya",
+      "description": "Non-typhoidal Salmonella (NTS) infections remain a significant public health challenge especially in sub-Saharan Africa. NTS disease is endemic in Kenya and is associated with sporadic fatal outbreaks in several regions of the country with poor resource setti\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288015",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0288015.g002&size=inline",
+      "publishedAt": "2023-07-17 14:00:00",
+      "content": "Abstract Non-typhoidal Salmonella (NTS) infections remain a significant public health challenge especially in sub-Saharan Africa. NTS disease is endemic in Kenya and is associated with sporadic fata\u2026 [+34208 chars]",
+      "retrievedAt": "2023-07-18 19:05:23.979957",
+      "internal_id": "da56a44e7c0519de7c9181a9528471ff4ee6b6339bc50a0e65335b575b9086d4",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 424,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09ae\u09c3\u09a4\u09cd\u09af\u09c1 \u09ee, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09e7\u09eb\u09ee\u09ef",
+      "description": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09ae\u09c3\u09a4\u09cd\u09af\u09c1 \u09ee, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09e7\u09eb\u09ee\u09efthedailystar.net",
+      "url": "https://bangla.thedailystar.net/health/disease/news-497351",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/08/19/dengue_5_1_1_1_1.jpg?itok=OSMwQQBG",
+      "publishedAt": "2023-07-17 13:34:22",
+      "content": "The country today saw eight more deaths and 1,549 more hospitalisations due to dengue fever in the last 24 hours, making it the deadliest day of this year",
+      "retrievedAt": "2023-07-18 19:05:22.256742",
+      "internal_id": "2349d37a5c287d828d51ff304ef6776d6c97fc6a9c57e611cc288b5cf1b49022",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 417,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Tata Steel UISL spearheads measure to prevent dengue in Jamshedpur - NewsDrum",
+      "description": "Tata Steel UISL spearheads measure to prevent dengue in Jamshedpur NewsDrumView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lm5ld3NkcnVtLmluL25hdGlvbmFsL3RhdGEtc3RlZWwtdWlzbC1zcGVhcmhlYWRzLW1lYXN1cmUtdG8tcHJldmVudC1kZW5ndWUtaW4tamFtc2hlZHB1ctIBY2h0dHBzOi8vd3d3Lm5ld3NkcnVtLmluL25hdGlvbmFsL3RhdGEtc3RlZWwtdWlzbC1zcGVhcmhlYWRzLW1lYXN1cmUtdG8tcHJldmVudC1kZW5ndWUtaW4tamFtc2hlZHB1cg?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-17 13:03:09",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-18 19:05:22.244076",
+      "internal_id": "e6e64515f808d09a314de24dc2335ad2044517a2d72d3979a160ccc590abf9ee",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 418,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Tata Steel UISL spearheads measure to prevent dengue in Jamshedpur - The Week",
+      "description": "Tata Steel UISL spearheads measure to prevent dengue in Jamshedpur The WeekView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoZXdlZWsuaW4vd2lyZS11cGRhdGVzL25hdGlvbmFsLzIwMjMvMDcvMTcvY2VzMTAtamgtdGF0YS1kZW5ndWUuaHRtbNIBVWh0dHBzOi8vd3d3LnRoZXdlZWsuaW4vd2lyZS11cGRhdGVzL25hdGlvbmFsLzIwMjMvMDcvMTcvY2VzMTAtamgtdGF0YS1kZW5ndWUuYW1wLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-17 12:55:26",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-18 19:05:22.246432",
+      "internal_id": "e25715b2d51fc93340259c17abe8db65704300d30d04876cf619b98d1a53e054",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 416,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "9News",
+      "author": "Allanah Sciberras",
+      "title": "Queensland and Victoria issue alert after measles case is detected",
+      "description": "Queensland and Victoria have issued a measles alert after a man travelled from Jakarta while infectious with the disease.",
+      "url": "https://www.9news.com.au/national/queensland-and-victoria-issue-alert-after-measles-case-is-detected/f023b02f-9f7d-440b-9db8-6533b0f1ba5a",
+      "urlToImage": "https://imageresizer.static9.net.au/asa4fJ9fpTEnFgs8ZUrIyHlQZfQ=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F00280340-80b0-4286-8977-07ee3f47e6fb",
+      "publishedAt": "2023-07-17 12:13:03",
+      "content": "Auto news: 2022 Maserati SUV lineup due by the end of the year - drive.com.au",
+      "retrievedAt": "2023-07-18 19:05:21.766814",
+      "internal_id": "93a3967f3d98c084c83648f187c3f44f12656865175a0f009486d953beb43f12",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 430,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Theness.com",
+      "author": "Steven Novella",
+      "title": "Using Genetic Engineering To Fight Malaria",
+      "description": "Despite robust efforts to fight it, malaria remains one of the most significant infectious diseases affecting humans. According to UNICEF \u2013 \u201d In 2021, there were 247 million malaria cases globally that led to 619,000 deaths in total. Of these deaths, 77 per c\u2026",
+      "url": "https://theness.com/neurologicablog/index.php/using-genetic-engineering-to-fight-malaria/",
+      "urlToImage": "http://theness.com/neurologicablog/wp-content/uploads/sites/3/2023/07/malaria-1-700x464.jpg",
+      "publishedAt": "2023-07-17 12:07:30",
+      "content": "Despite robust efforts to fight it, malaria remains one of the most significant infectious diseases affecting humans. According to UNICEF \u2013 \u201d In 2021, there were 247 million malaria cases globally th\u2026 [+6594 chars]",
+      "retrievedAt": "2023-07-18 19:05:23.016354",
+      "internal_id": "4da0cb361d191ef14660c57056134fe83991ee886b6ee3a1e7972e17f2f5346e",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 419,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Tata Steel UISL initiate measures to prevent and control dengue in Jamshedpur - Lagatar News (Lagatar24.com)",
+      "description": "Tata Steel UISL initiate measures to prevent and control dengue in Jamshedpur Lagatar News (Lagatar24.com)View Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbGFnYXRhcjI0LmNvbS90YXRhLXN0ZWVsLXVpc2wtaW5pdGlhdGUtbWVhc3VyZXMtdG8tcHJldmVudC1hbmQtY29udHJvbC1kZW5ndWUtaW4tamFtc2hlZHB1ci8xNjc2MzUv0gEA?oc%3D5%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-17 11:37:23",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-18 19:05:22.248069",
+      "internal_id": "e8f020247e4fea61273d36d40992704b6d72afeb49286f6604170bcad7c7a4c1",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 423,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Zee Media Bureau",
+      "title": "Delhi Floods: Waterlogging Raises Risk Of Dengue- Preventive Tips To Follow",
+      "description": "WHO Issues Advisory According to the World Health Organisation (WHO), Dengue is a viral infection caused by the dengue virus (DENV), which is transferred to humans through the bite of infected mosquitoes. An estimated 100-400 million infections of dengue occu\u2026",
+      "url": "https://zeenews.india.com/health/delhi-floods-waterlogging-raises-risk-of-dengue-preventive-tips-to-follow-2636689",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/07/17/1242771-denguefever.png",
+      "publishedAt": "2023-07-17 10:55:54",
+      "content": "Dengue fever cases in India are on the rise in recent days. It should come as no surprise that the monsoon season is accompanied with an increase in waterborne and mosquito-borne diseases including d\u2026 [+3353 chars]",
+      "retrievedAt": "2023-07-18 19:05:22.255715",
+      "internal_id": "b6de1573873fb1ff8eb7a2b2276ca636e8932d41ebdce0f333a74f63088ca4ef",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 422,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Banglanews24.com",
+      "author": null,
+      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be\u09df \u09a1\u09c7\u09a1\u09bf\u0995\u09c7\u099f\u09c7\u09a1 \u09a1\u09bf\u098f\u09a8\u09b8\u09bf\u09b8\u09bf \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
+      "description": "\u09a2\u09be\u0995\u09be: \u0995\u09cd\u09b0\u09ae\u09ac\u09b0\u09cd\u09a7\u09ae\u09be\u09a8 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09c7\u09ac\u09be \u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4 \u0995\u09b0\u09a4\u09c7 \u09b0\u09be\u099c\u09a7\u09be\u09a8\u09c0\u09b0 \u09ae\u09b9\u09be\u0996\u09be\u09b2\u09c0\u09a4\u09c7 \u09ee\u09e6\u09e6 \u09b6\u09af\u09cd\u09af\u09be\u09ac\u09bf\u09b6\u09bf\u09b7\u09cd\u099f \u09a2\u09be\u0995\u09be \u0989\u09a4\u09cd\u09a4\u09b0 \u09b8\u09bf\u099f\u09bf \u0995\u09b0\u09cd\u09aa\u09cb\u09b0\u09c7\u09b6\u09a8\u09c7\u09b0 (\u09a1\u09bf\u098f\u09a8\u09b8\u09bf\u09b8\u09bf) \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u0995\u09c7 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09a1\u09c7\u09a1\u09bf\u0995\u09c7\u099f\u09c7\u09a1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u0998\u09cb\u09b7\u09a3\u09be \u0995\u09b0\u09c7\u099b\u09c7 \u09b8\u09b0\u0995\u09be\u09b0\u0964 \u09b8\u09cb\u09ae\u09ac\u09be\u09b0 (\u09e7\u09ed \u099c\u09c1\u09b2\u09be\u0987) \u09b8\u09b0\u0995\u09be\u09b0\u09bf \u098f\u0995 \u09a4\u09a5\u09cd\u09af",
+      "url": "https://www.banglanews24.com/national/news/bd/1153462.details",
+      "urlToImage": "https://www.banglanews24.com/public/uploads/2023/07/17/social/1689590320.45.jpg",
+      "publishedAt": "2023-07-17 10:38:40",
+      "content": ": () ( ) , (https://old.dghs.gov.bd/index.php/en/home/5431-revised-guideline-for-clinical-management-of-dengue) , - ; ; , ; - ; ; ; ; - ; : , , /",
+      "retrievedAt": "2023-07-18 19:05:22.252643",
+      "internal_id": "a7e61bbd5bcc7e8d976e7a73ef6377e714a19356b95eff4308913f4cd8ea61f7",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 433,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El CSIC crea una herramienta para obtener genomas de calidad que ayudar\u00e1n a mejorar el estudio sobre la malaria",
+      "description": "Un equipo de investigadores del Instituto de Parasitolog\u00eda y Biomedicina L\u00f3pez Neyra, perteneciente al Consejo Superior de Investigaciones Cient\u00edficas (IPBLN-CSIC), en colaboraci\u00f3n con un grupo de la Universidad de Glasgow (Escocia), ha creado una herramienta\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-csic-crea-herramienta-obtener-genomas-calidad-ayudaran-mejorar-estudio-malaria-20230717110429.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230717110429_1200.jpg",
+      "publishedAt": "2023-07-17 09:04:29",
+      "content": "MADRID, 17 Jul. (EUROPA PRESS) - Un equipo de investigadores del Instituto de Parasitolog\u00eda y Biomedicina L\u00f3pez Neyra, perteneciente al Consejo Superior de Investigaciones Cient\u00edficas (IPBLN-CSIC)\u2026 [+6234 chars]",
+      "retrievedAt": "2023-07-18 19:05:23.025321",
+      "internal_id": "38350a877c9d48dd173e1e3ec8ec9197ba6981a7f51e275cef386b3d142b4275",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 432,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "SHARON LING",
+      "title": "Sarawak to host international tropical medicine, malaria congress next year",
+      "description": "KUCHING: Sarawak will host the 21st International Congress for Tropical Medicine and Malaria (ICTMM) next year, strengthening the state's position as a hub for advancing public health. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/07/17/sarawak-to-host-international-tropical-medicine-malaria-congress-next-year",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/17/2181469.jpg",
+      "publishedAt": "2023-07-17 08:55:00",
+      "content": "KUCHING: Sarawak will host the 21st International Congress for Tropical Medicine and Malaria (ICTMM) next year, strengthening the state's position as a hub for advancing public health. Sarawak Deput\u2026 [+2504 chars]",
+      "retrievedAt": "2023-07-18 19:05:23.023556",
+      "internal_id": "89da9a698f9844268a7c6bc02071f944c4514e8300d34f53119d6f347e286ee3",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 427,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Peoplesreview.com.np",
+      "author": "peoples_12ad",
+      "title": "Dengue infection close to three thousand in Nepal",
+      "description": "Kathmandu, 17 July: Since January 2023, the number of dengue infected people in Nepal has reached close to 3000. According to the data of the Epidemiology and Disease Control Division, the number of infected people has reached 2,930 from January to July 15. D\u2026",
+      "url": "https://www.peoplesreview.com.np/2023/07/17/dengue-infection-close-to-three-thousand-in-nepal/",
+      "urlToImage": "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2022/10/Dengue.jpg?fit=300%2C168&ssl=1",
+      "publishedAt": "2023-07-17 07:23:28",
+      "content": "Kathmandu, 17 July: Since January 2023, the number of dengue infected people in Nepal has reached close to 3000. According to the data of the Epidemiology and Disease Control Division, the number of \u2026 [+767 chars]",
+      "retrievedAt": "2023-07-18 19:05:22.261221",
+      "internal_id": "7fbccd43b832f47f12e23f07f74d1067bebee46f2c42121f045b1242f77f21e9",
+      "publishedAtLabel": "Jul 17"
+    },
     {
       "id": 413,
       "query": [
@@ -3260,366 +3622,6 @@
       "retrievedAt": "2023-07-11 07:05:47.749755",
       "internal_id": "a9cfb45ded7f125407326140e51f38737a4397c4eb3c8135059b58191a84c5f9",
       "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 223,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Post Reporters",
-      "title": "Dengue cases on rise: DDC",
-      "description": "The number of dengue patients recorded in the first half of this year was almost triple the figure recorded in the same period last year, according to the Department of Disease Control (DDC).",
-      "url": "https://www.bangkokpost.com/thailand/general/2608773/dengue-cases-on-rise-ddc",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20230710/c1_2608773_230710063130_700.jpg",
-      "publishedAt": "2023-07-09 21:29:00",
-      "content": "The number of dengue patients recorded in the first half of this year was almost triple the figure recorded in the same period last year, according to the Department of Disease Control (DDC). The to\u2026 [+1315 chars]",
-      "retrievedAt": "2023-07-11 07:05:46.504536",
-      "internal_id": "33d2444fdcb79b63cd26b06dbe83bb83d2bbe4f7e080d3fbdf60f4ffe7793c32",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 225,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eldiario.es",
-      "author": "David Noriega",
-      "title": "C\u00f3mo son y d\u00f3nde est\u00e1n los mosquitos que amenazan con reintroducir enfermedades erradicadas en Espa\u00f1a",
-      "description": "Europa hab\u00eda vivido sin dengue aut\u00f3ctono durante m\u00e1s de medio siglo. La aparici\u00f3n de los primeros casos en Francia y Croacia en 2010 y en Portugal en 2012 partieron el contador. En Espa\u00f1a, esta enfermedad tropical reapareci\u00f3 en 2018, con cinco ciudadanos cont\u2026",
-      "url": "https://www.eldiario.es/sociedad/son-mosquitos-amenazan-reintroducir-enfermedades-erradicadas-espana_1_10356505.html",
-      "urlToImage": "https://static.eldiario.es/clip/06b05f3b-7d9f-40df-9e17-8db1db2833a1_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-07-09 19:22:18",
-      "content": "Europa hab\u00eda vivido sin dengue aut\u00f3ctono durante m\u00e1s de medio siglo. La aparici\u00f3n de los primeros casos en Francia y Croacia en 2010 y en Portugal en 2012 partieron el contador. En Espa\u00f1a, esta enfer\u2026 [+462 chars]",
-      "retrievedAt": "2023-07-11 07:05:46.512116",
-      "internal_id": "f2c52354e3abe8f50cc1879a69dcc62dfd8a3915f5baf61f890dd38ba655eda3",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 214,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Bangladesh: Dengue death toll increases to 73 | International - Devdiscourse",
-      "description": "Bangladesh: Dengue death toll increases to 73 | International Devdiscourse Dengue outbreak: Where we are failing The Business Standard Record 6 people die of dengue in 24 hrs Prothom Alo English Declare \u2018public health \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRldmRpc2NvdXJzZS5jb20vYXJ0aWNsZS9pbnRlcm5hdGlvbmFsLzI1MTY5MDAtYmFuZ2xhZGVzaC1kZW5ndWUtZGVhdGgtdG9sbC1pbmNyZWFzZXMtdG8tNzPSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-09 17:15:12",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-10 19:05:17.381196",
-      "internal_id": "d86fb140371004772447a2dfffeb6c35bfc46de9d6e47b66af707bd20200f397",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 222,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Sabah.com.tr",
-      "author": "FATMA DAMLA KAYAYERL\u0130",
-      "title": "Sivrisinek alarm\u0131! Uzmanlar Asya Kaplan\u0131 sivrisine\u011fi i\u00e7in uyar\u0131yor",
-      "description": "T\u00fcrkiye\u2019de artan s\u0131caklarla birlikte sivrisinek art\u0131\u015f\u0131 halkta pani\u011fe neden oldu. Asya Kaplan\u0131 sine\u011fi \u0131s\u0131r\u0131klar\u0131ndan \u015fik\u00e2yet eden vatanda\u015flar ise k\u0131zar\u0131kl\u0131k, \u015fi\u015flik, a\u011fr\u0131, yanma belirtileriyle hastanelere ak\u0131n etti. Sabah.com.tr ise sivrisinek \u0131s\u0131r\u0131klar\u0131n ne t\u2026",
-      "url": "https://www.sabah.com.tr/yasam/sivrisinek-alarmi-uzmanlar-asya-kaplani-sivrisinegi-icin-uyariyor-6542150",
-      "urlToImage": "https://iasbh.tmgrup.com.tr/e9dd64/640/314/0/0/752/640?u=https://isbh.tmgrup.com.tr/sbh/2023/07/09/sivrisinek-alarmi-uzmanlar-asya-kaplani-sivrisinegi-icin-uyariyor-1688923289302.jpg&bg=1",
-      "publishedAt": "2023-07-09 17:06:54",
-      "content": "\"\u00dcLKEMZDE SEYAHAT SONRASI SITMAYI G\u00d6ZLEMLYORUZ\" Timurkaynak, sivrisinekten kaynakl hastalklarn d\u00fcnyada hangi b\u00f6lgelerde g\u00f6r\u00fcld\u00fc\u00fcn\u00fc anlatarak s\u00f6zlerine \u00f6yle devam ediyor: \"Zika vir\u00fcs daha \u00e7ok G\u00fcney A\u2026 [+4313 chars]",
-      "retrievedAt": "2023-07-10 19:05:18.503125",
-      "internal_id": "dbda5fc8f22fef91ba5241c377edf2acaf6d63e75b31b56ea8a4cdc0e91f6541",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 217,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Experts for community engagement to contain dengue outbreak",
-      "description": "Health experts have described community mobilization as the most effective initiative to control dengue outbreak as the country is in the grip of the mosquito-borne disease. \u201cCommunity engagement is very crucial to prevent dengue disease\u2026 All relevant organiz\u2026",
-      "url": "https://sylhetmirror.com/2023/07/09/experts-for-community-engagement-to-contain-dengue-outbreak/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/Iuuyt.jpg",
-      "publishedAt": "2023-07-09 16:25:25",
-      "content": "Health experts have described community mobilization as the most effective initiative to control dengue outbreak as the country is in the grip of the mosquito-borne disease. \u201cCommunity engagement is\u2026 [+3751 chars]",
-      "retrievedAt": "2023-07-10 19:05:17.393208",
-      "internal_id": "cd9d7442c3c6a3cc1602783b41463f3464ce87579b5d9bfe6eaf640bf23879d1",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 215,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "GERARD GIMINO",
-      "title": "Clean-up programme announced as dengue surges",
-      "description": "GOMBAK: Dengue cases nationwide increased by 139% from January to July 2 this year compared with the same period last year, said the Health Minister as she announced a new clean-up campaign. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/07/10/clean-up-programme-announced-as-dengue-surges",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/10/2168912.jpg",
-      "publishedAt": "2023-07-09 16:00:00",
-      "content": "GOMBAK: Dengue cases nationwide increased by 139% from January to July 2 this year compared with the same period last year, said the Health Minister as she announced a new clean-up campaign. Dr Zali\u2026 [+2851 chars]",
-      "retrievedAt": "2023-07-10 19:05:17.388876",
-      "internal_id": "025b71a6b1da663083353c31509fada6e345781214434c19f3e07ec840e29978",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 221,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Rwanda: Why Rwanda Missed Out On Inaugural Malaria Vaccine",
-      "description": "[New Times] On Wednesday, July 5, the World Health Organization and GAVI, The Vaccine Alliance, announced that 12 countries across different regions in Africa are set to receive 18 million doses of the first-ever malaria vaccine over the next two years.",
-      "url": "https://allafrica.com/stories/202307090057.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-09 15:01:26",
-      "content": "On Wednesday, July 5, the World Health Organization and GAVI, The Vaccine Alliance, announced that 12 countries across different regions in Africa are set to receive 18 million doses of the first-eve\u2026 [+3636 chars]",
-      "retrievedAt": "2023-07-10 19:05:18.257026",
-      "internal_id": "74f5512b76eb521b7f123ac3f69c82b82c693927f97435cb741acbdda95d3203",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 220,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "Stefan Parsch",
-      "title": "Die \u201eIfegenia\u201c-Methode wird weiblichen M\u00fccken zum Verh\u00e4ngnis",
-      "description": "Um Malaria zu bek\u00e4mpfen, setzen Wissenschaftler mittlerweile bei den M\u00fccken an. Die Sterilisation der M\u00e4nnchen reduziert Populationen, ist aber sehr aufwendig. Nun stellen Forscher einen neuen, vielversprechenden Ansatz vor \u2013 bei dem sie das Erbgut per Gensch\u2026",
-      "url": "https://www.welt.de/wissenschaft/article246299472/Malaria-Ifegenia-Methode-wird-weiblichen-Muecken-zum-Verhaengnis.html",
-      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile246299468/1281351197-ci16x9-w1200/Mosquito.jpg",
-      "publishedAt": "2023-07-09 13:01:18",
-      "content": "Ein neu entwickelter gentechnischer Ansatz soll bei der Bek\u00e4mpfung der durch M\u00fccken \u00fcbertragenen Malaria helfen. Dabei wird ein Gen ausgeschaltet, das weibliche M\u00fccken der Art Anopheles gambiae zum \u00dc\u2026 [+3723 chars]",
-      "retrievedAt": "2023-07-10 19:05:18.254193",
-      "internal_id": "847789e519c992497d04135ba35b266f921421d63697abd3f72e6a405222caea",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 219,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.bt.dk",
-      "author": "ofru@bt.dk (Oliver Fruergaard)",
-      "title": "Ny vaccine bliver rullet ud i 12 lande: 'Sikker og effektiv'",
-      "description": "Vaccinen kan redde titusindvis af liv.",
-      "url": "https://www.bt.dk/udland/ny-vaccine-bliver-rullet-ud-i-12-lande-sikker-og-effektiv",
-      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/203/2034359/24473110-malaria-spreder-sig-gennem-myg.jpg",
-      "publishedAt": "2023-07-09 09:19:09",
-      "content": "Verdens f\u00f8rste malariavaccine bliver over de n\u00e6ste to \u00e5r rullet ud i 12 afrikanske lande. Den har potentiale til at redde mange liv, lyder det onsdag i en pressemeddelelse fra WHO. I alt vil 18 mil\u2026 [+1009 chars]",
-      "retrievedAt": "2023-07-10 19:05:18.251609",
-      "internal_id": "d98e8868f33e9255fa1a1bb52600f29e48756f62eb4f0aaac46d8d5c39b95fc8",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 218,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "Anders Anglesey",
-      "title": "Malaria Alert Issued by CDC After New Cases in Florida",
-      "description": "Six malaria cases were confirmed to have been acquired in one Florida county - the first contracted in the U,S. in 20 years..",
-      "url": "https://www.newsweek.com/malaria-alert-issued-cdc-new-cases-florida-1811759",
-      "urlToImage": "https://d.newsweek.com/en/full/2255419/stock-image-mosquito.jpg",
-      "publishedAt": "2023-07-09 09:03:35",
-      "content": "The Centers for Disease Control and Prevention (CDC) has issued a public health alert following the first cases of malaria being acquired inside the U.S in 20 years were reported. Florida health off\u2026 [+3632 chars]",
-      "retrievedAt": "2023-07-10 19:05:18.248881",
-      "internal_id": "07f8987398d13fe797ad03c7e3967856a6ccbf00d45cc8794d7b1a6b02412e96",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 216,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Pravda.sk",
-      "author": "TASR, Pravda",
-      "title": "Na Slovensko prenik\u00e1 kom\u00e1r \u0161\u00edriaci tropick\u00e9 choroby. Zatia\u013e sa tu neusadil",
-      "description": "Vlny hor\u00fa\u010dav a z\u00e1plavy s\u00fa v d\u00f4sledku klimatickej zmeny \u010doraz \u010dastej\u0161ie. To vytv\u00e1ra priaznivej\u0161ie podmienky pre inv\u00e1zne druhy kom\u00e1rov.",
-      "url": "https://vat.pravda.sk/zem/clanok/673859-na-slovensko-prenika-komar-siriaci-tropicke-choroby-zatial-sa-tu-neusadil/",
-      "urlToImage": "http://ipravda.sk/res/2023/07/07/thumbs/komar-malaria-anopheles-fenestus-clanokW.jpg",
-      "publishedAt": "2023-07-09 08:00:00",
-      "content": "Na \u00fazemie Slovenska prenikaj\u00fa kom\u00e1re schopn\u00e9 pren\u00e1a nebezpen\u00e9 tropick\u00e9 choroby, ako je mal\u00e1ria, z\u00e1padon\u00edlska hor\u00faka i hor\u00faka dengue, no zatia sa tu neusadili, informuje TASR.Kom\u00e1r tigr\u00ed (Aedes albopi\u2026 [+3300 chars]",
-      "retrievedAt": "2023-07-10 19:05:17.389908",
-      "internal_id": "979efb5d8467c77eca267b389e40306417554b916c08f094d7bd918657238070",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 211,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Malasia registra 59.000 casos de dengue en la primera mitad de 2023, m\u00e1s del doble que el a\u00f1o anterior",
-      "description": "La ministra de Sanidad de Malasia, Zaliha Mustaf\u00e1, ha informado que se han notificado 59.057 de dengue en el pa\u00eds entre el 1 de enero y el 2 de julio de este 2023, lo que supone un incremento del 138,7 por ciento respecto a los contagios registrados en el mis\u2026",
-      "url": "https://www.europapress.es/internacional/noticia-malasia-registra-59000-casos-dengue-primera-mitad-2023-mas-doble-ano-anterior-20230709073218.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230709073218_1200.jpg",
-      "publishedAt": "2023-07-09 05:32:18",
-      "content": "MADRID, 9 Jul. (EUROPA PRESS) - La ministra de Sanidad de Malasia, Zaliha Mustaf\u00e1, ha informado que se han notificado 59.057 de dengue en el pa\u00eds entre el 1 de enero y el 2 de julio de este 2023, \u2026 [+1426 chars]",
-      "retrievedAt": "2023-07-10 07:05:52.885773",
-      "internal_id": "e1689caf4cf819e25e09f80e93d927c697f1b8bd184e525dc0cccc23c3e2cca9",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 213,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Olufunke",
-      "title": "Intermittent fasting (1)",
-      "description": "I was a guest on a radio health talk show recently and I talked about intermittent fasting. I will like to discuss it with you. Before I proceed, permit me to share a story with you. I had a bout of malaria that defied treatment in 2010. Despite my phobia for\u2026",
-      "url": "https://punchng.com/intermittent-fasting-1/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2020/02/22204250/Olufunke.jpg",
-      "publishedAt": "2023-07-09 04:11:49",
-      "content": "I was a guest on a radio health talk show recently and I talked about intermittent fasting. I will like to discuss it with you. Before I proceed, permit me to share a story with you. I had a bout of \u2026 [+6450 chars]",
-      "retrievedAt": "2023-07-10 07:05:53.743339",
-      "internal_id": "6a1085fa1db1ceaee4d69e7810e9d9c9c0b367570b349b2d4fe7e623d7c7bba9",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 212,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "TheBlaze",
-      "author": "Paul Sacca",
-      "title": "Florida issues malaria alert as 2 more cases discovered, first locally acquired US cases in 20 years",
-      "description": "Florida issued a malaria alert in several counties after two more cases of the mosquito-borne disease were recently discovered. This is the first time in 20 years that there have been locally acquired cases in the United States. For the week ending on July 1,\u2026",
-      "url": "https://www.theblaze.com/news/malaria-cases-florida-who-vaccine",
-      "urlToImage": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zNDMwNDA0Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczNDgxMjQyM30._8MKQK3js0CgncAzQ9yMwYt0cN-IFeHHIuIEtp-h9Lo/img.jpg?width=1200&height=600&coordinates=0%2C55%2C0%2C140",
-      "publishedAt": "2023-07-09 03:44:19",
-      "content": "Florida issued a malaria alert in several counties after two more cases of the mosquito-borne disease were recently discovered. This is the first time in 20 years that there have been locally acquire\u2026 [+3777 chars]",
-      "retrievedAt": "2023-07-10 07:05:53.738528",
-      "internal_id": "671f312bc129befbc31836c79943c2093f175fdc5edbae048889f5dda3b16e2e",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 232,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Two new cases of malaria found in Florida - MSNBC",
-      "description": "Two new cases of malaria found in FloridaMSNBC 2 more locally acquired cases of malaria found in Florida, bringing recent US total to 7Yahoo! Voices Cases of locally acquired malaria rise to 6 in FloridaWSVN 7News | Miami News, Weather, Sports | Fort Lauderda\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171340015",
-      "urlToImage": null,
-      "publishedAt": "2023-07-09 00:52:08",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-11 07:05:47.761416",
-      "internal_id": "7d5d4807e45bf4de8fa21629826bb8223fb7df5bb60ff1f9e6c2348759c24182",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 206,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "Why Nigeria was excluded from malaria vaccine allocation, says GAVI",
-      "description": "Fresh facts have emerged on why Nigeria was excluded from the allocation of the 18 million doses of the first-ever RTS,S/AS01 malaria vaccine from 2023 to 2025. Sunday PUNCH gathered that Nigeria\u2019s refusal to meet the deadline for the second window applicatio\u2026",
-      "url": "https://punchng.com/why-nigeria-was-excluded-from-malaria-vaccine-allocation-says-gavi/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/09/13111036/malaria-vac-750x450.gif",
-      "publishedAt": "2023-07-09 00:22:22",
-      "content": "Fresh facts have emerged on why Nigeria was excluded from the allocation of the 18 million doses of the first-ever RTS,S/AS01 malaria vaccine from 2023 to 2025. Sunday PUNCH gathered that Nigerias r\u2026 [+3892 chars]",
-      "retrievedAt": "2023-07-10 03:23:00.442918",
-      "internal_id": "6f850eea4341043257c026e70144c91e7dc71a0d569aeafbdbf8cbd467cc6239",
-      "publishedAtLabel": "Jul 9"
-    },
-    {
-      "id": 205,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Two new cases of malaria found in Florida - MSNBC",
-      "description": "Two new cases of malaria found in Florida MSNBC 2 more locally acquired cases of malaria found in Florida, bringing recent US total to 7 Yahoo! Voices Cases of locally acquired malaria rise to 6 in Florida WSVN 7News | Miami New\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC1NNY1FHWng4Mnk0mAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-08 20:30:02",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-10 03:23:00.437791",
-      "internal_id": "5690477eb0982b76e64ed587f6c814c074c831233635cf8cacef8ac4c40431cb",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 198,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Minist\u00e9rio da Sa\u00fade diz que vacina japonesa contra dengue deve chegar \u2018em breve\u2019",
-      "description": "Governo federal afirma que aguarda uma proposta oficial do laborat\u00f3rio Takeda, respons\u00e1vel pela produ\u00e7\u00e3o do imunizante",
-      "url": "http://noticias.r7.com/saude/vacina-dengue-ministerio-saude-08072023",
-      "urlToImage": "https://img.r7.com/images/mosquito-da-dengue-08072023182938398?crop_position=c&dimensions=340x191",
-      "publishedAt": "2023-07-08 18:36:00",
-      "content": "O Minist\u00e9rio da Sa\u00fade afirmou nesta semana que aguarda uma proposta oficial do laborat\u00f3rio japon\u00eas Takeda para a compra de doses da vacina contra a dengue. Segundo a pasta, os insumos devem chegar em\u2026 [+1222 chars]",
-      "retrievedAt": "2023-07-09 19:05:07.399321",
-      "internal_id": "cfe2d7579d9b51efc3f82650a6ea386af74ead9322cc68aac385487085595339",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 210,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "LA NACION",
-      "title": "Confirmaron dos nuevos casos de Malaria en Florida y crece la alerta",
-      "description": "Los primeros pacientes ya est\u00e1n recuperados; los nuevos reportes tambi\u00e9n son del condado de Sarasota, donde las autoridades mantienen una alta vigilancia",
-      "url": "https://www.lanacion.com.ar/estados-unidos/confirmaron-dos-nuevos-casos-de-malaria-en-florida-y-crece-la-alerta-nid08072023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/AkKTfKhU4PXSxFnRXmV8m0GLCI4=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/UYH6LXWQSFBDJKMRNOVYFME3NA.jpg",
-      "publishedAt": "2023-07-08 17:42:45",
-      "content": "El Departamento de Salud de Florida confirm\u00f3 dos casos m\u00e1s de malaria adquirida localmente en el condado de Sarasota, con lo cual el n\u00famero total asciende a seis en el estado y siete en todo Estados \u2026 [+2670 chars]",
-      "retrievedAt": "2023-07-10 03:23:00.452168",
-      "internal_id": "a32759c7ac98765d4baa2b4f91b96503a9ff2946e9758fd9340afdfdaffe7200",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 204,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "el-mundo",
-      "source_name": "El Mundo",
-      "author": "Esther G\u00f3mez",
-      "title": "Sarah Almagro, campeona de Europa de Surf Adaptado",
-      "description": "La joven malague\u00f1a, que perdi\u00f3 pies y manos hace cinco a\u00f1os, se ha tra\u00eddo el oro para Espa\u00f1a tras imponerse a sus rivales en un mar cambiante y fr\u00edo por culpa de la lluvia y la falta de sol. Leer",
-      "url": "https://www.elmundo.es/deportes/mas-deporte/2023/07/08/64a96dddfc6c83f76a8b45ee.html",
-      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/6c00fd02289b4e0ccb13e60b70727179/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/08/16888252158546.jpg",
-      "publishedAt": "2023-07-08 17:19:02",
-      "content": "La joven surfista malague\u00f1a Sarah Almagro, que a los 18 a\u00f1os perdi\u00f3 pies y manos como consecuencia de una meningitis meningoc\u00f3cica, ha logrado cumplir otros de sus sue\u00f1os y este viernes se ha proclam\u2026 [+3062 chars]",
-      "retrievedAt": "2023-07-09 19:05:07.908725",
-      "internal_id": "ce522572cc6d84da6dd1cafd62c5f7f7c011c84953de43313889148af84c8e26",
-      "publishedAtLabel": "Jul 8"
     }
   ]
 }
