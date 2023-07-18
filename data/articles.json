@@ -1,8 +1,116 @@
 {
-  "last_updated": "2023-07-17 19:05",
+  "last_updated": "2023-07-18 07:06",
   "count_articles_total": 297,
-  "count_articles_new": 3,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 413,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Ludovic Jimenez",
+      "title": "Moustique tigre en Belgique: \"S'il s'\u00e9tablit et se propage davantage, une transmission locale de certaines maladies comme la dengue est possible\"",
+      "description": "L\u2019ann\u00e9e derni\u00e8re, le nombre \u00e9lev\u00e9 de signalements de moustiques tigres dans les jardins \u00e9tait inattendu. En France, la dengue n\u2019est plus d\u00e9sormais une maladie tropicale. Le virus transmis par les moustiques est en effet de plus en plus un virus dit \u201cautochton\u2026",
+      "url": "https://www.dhnet.be/actu/sante/2023/07/17/moustique-tigre-en-belgique-sil-setablit-et-se-propage-davantage-une-transmission-locale-de-certaines-maladies-comme-la-dengue-est-possible-6YVP43IAZRCQDFW5LFEFPXW5JI/",
+      "urlToImage": "https://www.dhnet.be/resizer/TbdGiQ9Jix0_gt7BJSx3iEJb9lQ=/1200x630/filters:format(jpeg):focal(544.5x397.5:554.5x387.5):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/KSYODHLMNBBMDA7B5YPJPTFVNY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/ABT25IO225HY7BDTME5SYGI5FI.jpg",
+      "publishedAt": "2023-07-17 07:01:06",
+      "content": "Avant 2022, une surveillance active a \u00e9t\u00e9 men\u00e9e dans les endroits o\u00f9 nous savons que des moustiques tigres peuvent \u00eatre introduits. Il sagit notamment dentreprises qui importent des pneus doccasion o\u2026 [+6194 chars]",
+      "retrievedAt": "2023-07-18 07:06:06.462176",
+      "internal_id": "988ac304f75c90dcc21bf688fa33403acbb7a7dd3f703b37789fcbb48869be1d",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 415,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "En partenariat avec Destination Sant\u00e9",
+      "title": "Sant\u00e9. Enc\u00e9phalite \u00e0 tiques : pourquoi les cas augmentent en France ?",
+      "description": "Les tiques ne sont pas seulement les vecteurs de la maladie de Lyme. La piq\u00fbre de ces acariens qui ne se nourrissent que de sang peut \u00e9galement provoquer des inflammations du cerveau, appel\u00e9es enc\u00e9phalites \u00e0 tiques. Jusque-l\u00e0 limit\u00e9s, les cas autochtones en F\u2026",
+      "url": "https://www.ledauphine.com/magazine-sante/2023/07/17/encephalite-a-tiques-pourquoi-les-cas-augmentent-en-france",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/794F023D-056E-4120-9A1F-90777CAE8682/FB1200/photo-1689154915.jpg",
+      "publishedAt": "2023-07-17 04:15:00",
+      "content": "Depuis mai 2021, l\u2019enc\u00e9phalite \u00e0 tiques \u2013 l\u2019une des maladies que peuvent transmettre certaines tiques \u2013 fait partie des maladies \u00e0 d\u00e9claration obligatoire, au m\u00eame titre que les virus chikungunya et \u2026 [+2967 chars]",
+      "retrievedAt": "2023-07-18 07:06:07.737877",
+      "internal_id": "31a22ce35a908b53bbdfce27aff766e7f7fbbc87f5b20d0a1103f30cb1ea371c",
+      "publishedAtLabel": "Jul 17"
+    },
+    {
+      "id": 410,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "PMC records 12 dengue cases in July, but pvt hosps see more - Times of India",
+      "description": "PMC records 12 dengue cases in July, but pvt hosps see more Times of IndiaView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiggFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L3B1bmUvcG1jLXJlY29yZHMtMTItZGVuZ3VlLWNhc2VzLWluLWp1bHktYnV0LXB2dC1ob3Nwcy1zZWUtbW9yZS9hcnRpY2xlc2hvdy8xMDE4MDg0NTcuY21z0gF9aHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vY2l0eS9wdW5lL3BtYy1yZWNvcmRzLTEyLWRlbmd1ZS1jYXNlcy1pbi1qdWx5LWJ1dC1wdnQtaG9zcHMtc2VlLW1vcmUvYW1wX2FydGljbGVzaG93LzEwMTgwODQ1Ny5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-16 23:24:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-18 07:06:06.450219",
+      "internal_id": "a7c74e784e3005cb83da28a2c5b2a1d66cf828e1002873f6f5dbb2d735760f79",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 411,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Pune Municipal Corporation records 12 dengue cases in July, but private hospitals see more - IndiaTimes",
+      "description": "Pune Municipal Corporation records 12 dengue cases in July, but private hospitals see more IndiaTimesView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimAFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L3B1bmUvcHVuZS1tdW5pY2lwYWwtY29ycG9yYXRpb24tcmVjb3Jkcy0xMi1kZW5ndWUtY2FzZXMtaW4tanVseS1idXQtcHJpdmF0ZS1ob3NwaXRhbHMtc2VlLW1vcmUvYXJ0aWNsZXNob3cvMTAxODA4NDU3LmNtc9IBnAFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L3B1bmUvcHVuZS1tdW5pY2lwYWwtY29ycG9yYXRpb24tcmVjb3Jkcy0xMi1kZW5ndWUtY2FzZXMtaW4tanVseS1idXQtcHJpdmF0ZS1ob3NwaXRhbHMtc2VlLW1vcmUvYW1wX2FydGljbGVzaG93LzEwMTgwODQ1Ny5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-16 23:24:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-18 07:06:06.455624",
+      "internal_id": "88b41312cfd6b662e5bfc4d18c1b71af3209675df73ca76a23acc76c2eb8a886",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Pune Municipal Corporation records 12 dengue cases in July, but private hospitals see more - Times of India",
+      "description": "Pune Municipal Corporation records 12 dengue cases in July, but private hospitals see more Times of IndiaView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiggFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L3B1bmUvcG1jLXJlY29yZHMtMTItZGVuZ3VlLWNhc2VzLWluLWp1bHktYnV0LXB2dC1ob3Nwcy1zZWUtbW9yZS9hcnRpY2xlc2hvdy8xMDE4MDg0NTcuY21z0gGcAWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvcHVuZS9wdW5lLW11bmljaXBhbC1jb3Jwb3JhdGlvbi1yZWNvcmRzLTEyLWRlbmd1ZS1jYXNlcy1pbi1qdWx5LWJ1dC1wcml2YXRlLWhvc3BpdGFscy1zZWUtbW9yZS9hbXBfYXJ0aWNsZXNob3cvMTAxODA4NDU3LmNtcw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-16 23:24:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-18 07:06:06.458781",
+      "internal_id": "12113028f0f64b118ba9b3bf71dce55a87b91dbd4ef1126cdb6ccc287602f80f",
+      "publishedAtLabel": "Jul 16"
+    },
+    {
+      "id": 414,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Kino-zeit.de",
+      "author": "Pierpaolo",
+      "title": "Birth/Rebirth (2023)",
+      "description": "Film Shudder Birth/Rebirth (2023) von Laura Moss Nach dem pl\u00f6tzlichen Tod ihrer 6-j\u00e4hrigen Tochter Lila nach einer bakteriellen Meningitis wird die Entbindungsschwester Celi von Trauer \u00fcberw\u00e4ltigt, bis sie der Pathologin Dr. Ros\u2026",
+      "url": "https://www.kino-zeit.de/film-kritiken-trailer-streaming/birthrebirth-2023",
+      "urlToImage": null,
+      "publishedAt": "2023-07-16 21:55:43",
+      "content": "Nach dem pl\u00f6tzlichen Tod ihrer 6-j\u00e4hrigen Tochter Lila nach einer bakteriellen Meningitis wird die Entbindungsschwester Celi von Trauer \u00fcberw\u00e4ltigt, bis sie der Pathologin Dr. Rose Casper begegnet, d\u2026 [+712 chars]",
+      "retrievedAt": "2023-07-18 07:06:06.709480",
+      "internal_id": "45f27ca1967c72b37a238d009cfee138a27238e0913ccc2b4f730cc15a8f4c99",
+      "publishedAtLabel": "Jul 16"
+    },
     {
       "id": 408,
       "query": [
@@ -3511,114 +3619,6 @@
       "content": "La joven surfista malague\u00f1a Sarah Almagro, que a los 18 a\u00f1os perdi\u00f3 pies y manos como consecuencia de una meningitis meningoc\u00f3cica, ha logrado cumplir otros de sus sue\u00f1os y este viernes se ha proclam\u2026 [+3062 chars]",
       "retrievedAt": "2023-07-09 19:05:07.908725",
       "internal_id": "ce522572cc6d84da6dd1cafd62c5f7f7c011c84953de43313889148af84c8e26",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 196,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Confirmed rabies case has Monongalia County health officials on alert - West Virginia MetroNews",
-      "description": "Confirmed rabies case has Monongalia County health officials on alertWest Virginia MetroNews Multiple people exposed to rabies by cat colonyWBOY 12 News Powroznik and Smith | | wvnews.comWV News Multiple people exposed to rabies in Morgantown from feral cat c\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171337229",
-      "urlToImage": null,
-      "publishedAt": "2023-07-08 17:12:05",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-09 19:05:06.828710",
-      "internal_id": "bcf5e74453684ad0c6b758662689d6eace83903220727d1b1e96724c9c44e3f9",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 203,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "School, colleges reopen Sunday, 5 instructions issued to check dengue",
-      "description": "All educational institutes across the country will reopen on Sunday (9 July) after Eid-ul-Azha holidays. As dengue cases are increasing in the country, the government has issued five instructions to these institutions. Directorate of Secondary and Higher Educ\u2026",
-      "url": "https://sylhetmirror.com/2023/07/08/school-colleges-reopen-sunday-5-instructions-issued-to-check-dengue/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/weerff.jpg",
-      "publishedAt": "2023-07-08 16:48:19",
-      "content": "All educational institutes across the country will reopen on Sunday (9 July) after Eid-ul-Azha holidays. As dengue cases are increasing in the country, the government has issued five instructions to\u2026 [+696 chars]",
-      "retrievedAt": "2023-07-09 19:05:07.410657",
-      "internal_id": "27ec2451c9caaaad4a86c28223c3e504670de0655f37f616c568f43140f9197f",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 197,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Multiple people exposed to rabies in Morgantown from feral cat colony - WBOY.com",
-      "description": "Multiple people exposed to rabies in Morgantown from feral cat colonyWBOY.com View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171335903",
-      "urlToImage": null,
-      "publishedAt": "2023-07-08 12:32:04",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-09 19:05:06.830945",
-      "internal_id": "108b8da799f5276bced0cc97a5a4c785c3e385d16047139562c851817c30b4ed",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 239,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Sierraloaded.sl",
-      "author": "Mohamed Foday Conteh",
-      "title": "Sierra Leone, Others to Benefit From 18 Million Doses of Malaria Vaccine",
-      "description": "Sierra Leone, Ghana, Burkina Faso, Liberia and eight other African countries are set to benefit from 18 million doses of malaria vaccine in the next two years. The programme is part of the Malaria Vaccine Implementation Programme (MVIP) coordinated by WHO wit\u2026",
-      "url": "https://sierraloaded.sl/health/leone-malaria-vaccine/",
-      "urlToImage": "https://i0.wp.com/sierraloaded.sl/wp-content/uploads/2023/07/Malaria-Vaccine.jpg",
-      "publishedAt": "2023-07-08 12:08:52",
-      "content": "Sierra Leone, Ghana, Burkina Faso, Liberia and eight other African countries are set to benefit from 18 million doses of malaria vaccine in the next two years. The programme is part of the Malaria V\u2026 [+1445 chars]",
-      "retrievedAt": "2023-07-11 07:05:47.771348",
-      "internal_id": "c65f4d53c3793512e0201ee839f070d2590e73191d961b97ca3877cb6254417a",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 195,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Confirmed rabies case has Monongalia County health officials on alert - West Virginia MetroNews",
-      "description": "Confirmed rabies case has Monongalia County health officials on alert West Virginia MetroNews Multiple people exposed to rabies by cat colony WBOY 12 News Powroznik and Smith | | wvnews.com WV News Multiple people expo\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3ZtZXRyb25ld3MuY29tLzIwMjMvMDcvMDgvY29uZmlybWVkLXJhYmllcy1jYXNlLWhhcy1tb25vbmdhbGlhLWNvdW50eS1oZWFsdGgtb2ZmaWNpYWxzLW9uLWFsZXJ0L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-08 12:06:28",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-09 19:05:06.823554",
-      "internal_id": "bea2324b4b117b73e6aa5f1f4dc68b0619cef83e9330c000a510b292166be245",
-      "publishedAtLabel": "Jul 8"
-    },
-    {
-      "id": 200,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u099c\u09c7\u09b2\u0996\u09be\u09a8\u09be\u09df \u09aa\u09cd\u09b0\u09be\u09df \u09ec\u09e6 \u09b6\u09a4\u09be\u0982\u09b6 \u09ae\u09be\u09a6\u0995 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df\u09c0 \u0993 \u09b8\u09c7\u09ac\u09a8\u0995\u09be\u09b0\u09c0: \u09b8\u09cd\u09ac\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0",
-      "description": "\u09b8\u09cd\u09ac\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0 \u0986\u09b8\u09be\u09a6\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8 \u0996\u09be\u09a8 \u0995\u09be\u09ae\u09be\u09b2 \u09ac\u09b2\u09c7\u099b\u09c7\u09a8, \u099c\u09c7\u09b2\u0996\u09be\u09a8\u09be\u09df \u09af\u09be\u09b0\u09be \u0985\u09a8\u09cd\u09a4\u09b0\u09c0\u09a3 \u09b0\u09df\u09c7\u099b\u09c7 \u09a4\u09be\u09a6\u09c7\u09b0 \u09aa\u09cd\u09b0\u09be\u09df \u09ec\u09e6 \u09b6\u09a4\u09be\u0982\u09b6\u09c7\u09b0 \u0995\u09be\u099b\u09be\u0995\u09be\u099b\u09bf \u09ae\u09be\u09a6\u0995 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df\u09c0 \u0993 \u09ae\u09be\u09a6\u0995 \u09b8\u09c7\u09ac\u09a8\u0995\u09be\u09b0\u09c0\u0964 \u09b8\u09be\u0995\u09cd\u09b7\u09c0-\u09aa\u09cd\u09b0\u09ae\u09be\u09a3\u09c7\u09b0 \u0985\u09ad\u09be\u09ac\u09c7 \u098f\u09a6\u09c7\u09b0 \u0995\u09be\u09b0\u0993 \u0995\u09be\u09b0\u0993 \u09ac\u09bf\u099a\u09be\u09b0 \u09b9\u099a\u09cd\u099b\u09c7 \u09a8\u09be\u0964 \u098f\u0995 \u09a5\u09c7\u0995\u09c7 \u09a6\u09c1\u0987 \u09ae\u09be\u09b8 \u09aa\u09b0 \u09ac\u09c7\u09b0 \u09b9\u09df\u09c7 \u0986\u09b0\u0993 \u09ac\u09c7\u09b6\u09bf \u0995\u09b0\u09c7 \u09ae\u09be\u09a6\u0995 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df \u099c\u09dc\u09bf\u09df\u09c7 \u09aa\u09dc\u099b\u09c7\u0964",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/news-494616",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/08/img-20230708-wa0006.jpg",
-      "publishedAt": "2023-07-08 11:24:33",
-      "content": "The government has issued five instructions to all public and private schools and colleges to prevent further spread of dengue as most of the educational institutions are set to reopen tomorrow after\u2026 [+89 chars]",
-      "retrievedAt": "2023-07-09 19:05:07.405319",
-      "internal_id": "c2a3975991d47070e147733e50023a2ffc37bfb193451e6f0fb49a76e11950be",
       "publishedAtLabel": "Jul 8"
     }
   ]
