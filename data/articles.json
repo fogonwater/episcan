@@ -1,8 +1,279 @@
 {
-  "last_updated": "2023-07-19 19:05",
-  "count_articles_total": 297,
-  "count_articles_new": 17,
+  "last_updated": "2023-07-20 07:05",
+  "count_articles_total": 299,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 478,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Malaria cases reported in Utah, but local transmission isn\u2019t likely - Deseret News",
+      "description": "Malaria cases reported in Utah, but local transmission isn\u2019t likelyDeseret News Webinar Thursday, July 20, 2023 - Review of Malaria Diagnosis and Treatment in the United StatesCDC Emergency Preparedness U.S.-Acquired Malaria Cases Spark False Claims of Links \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171419498",
+      "urlToImage": null,
+      "publishedAt": "2023-07-19 06:52:13",
+      "content": "You may call me by my name, Wirth, or by my value, Worth. - Nicklaus Wirth",
+      "retrievedAt": "2023-07-20 07:05:32.940836",
+      "internal_id": "59b3c302b0c6458e314d4d6737a7db5aaf013cd593c4bd81128a4dcdb8f77cb4",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 479,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "You May Be Prone To Leptospirosis During Monsoon; Here's How To Prevent It",
+      "description": "Humans can become infected with Leptospira when they come into contact with water, soil, or food contaminated with the urine of infected animals. Here's how you can prevent it.",
+      "url": "https://www.ndtv.com/health/you-may-be-prone-to-leptospirosis-during-monsoon-heres-how-to-prevent-it-4221134",
+      "urlToImage": "https://c.ndtvimg.com/2022-07/5u7p238_viral-fever_625x300_17_July_22.jpg",
+      "publishedAt": "2023-07-19 06:44:23",
+      "content": "Humans can become infected with Leptospira through water, soil, or food or infected animals Leptospirosis is a bacterial infection caused by the bacteria called Leptospira. It primarily affects anim\u2026 [+3512 chars]",
+      "retrievedAt": "2023-07-20 07:05:34.496454",
+      "internal_id": "3850a009ce5ecdddcac64ed78c268ce4803d7dea1a2733581a048fdb62443e56",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 469,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue infection on the rise: 10 districts report increased cases",
+      "description": "KATHMANDU: The incidence of Dengue infection has been steadily rising in recent times, attributed to continuous rainfall. Rudra Prasad Marasini, Director at the Epidemiology and Disease Control Division, revealed that the infection rate has significantly incr\u2026",
+      "url": "https://english.khabarhub.com/2023/19/311224/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-07-19 04:45:55",
+      "content": "KATHMANDU: The incidence of Dengue infection has been steadily rising in recent times, attributed to continuous rainfall. Rudra Prasad Marasini, Director at the Epidemiology and Disease Control Divi\u2026 [+1572 chars]",
+      "retrievedAt": "2023-07-20 07:05:31.841623",
+      "internal_id": "239e9ffbe878f889b1dd2d6ace0c3154a502149e7faddc17ef2232400ed24f40",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 467,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Of India",
+      "title": "Live: Diseases surge in Mumbai amid intensifying rains",
+      "description": "Monsoon diseases have surged in the city amid intensifying rains, the BMC\u2019s public health department has cautioned. Malaria, dengue, gastroenteritis",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-mumbai-news-live-updates-rain-traffic-monsoon-session-assembly-shinde-uddhav-thackeray-shiv-sena-devendra-fadnavis-bjp-pawar-ncp-congress-july-19/liveblog/101908363.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-101908363,width-1070,height-580,imgsize-161336,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-07-19 02:55:11",
+      "content": "In the past 14 days alone, nearly 1000 confirmed cases of gastroenteritis have been recorded, although its believed that the actual numbers may be much higher. Dr Daksha Shah, executive health office\u2026 [+2368 chars]",
+      "retrievedAt": "2023-07-20 07:05:31.835127",
+      "internal_id": "c64de06f62e0a8a427312ca1a23ae8f5a3b81807639a7c98c7784f1372021927",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 477,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "New malaria case in Florida brings national total to 8, the first U.S. acquired cases in 20 years - NBC News",
+      "description": "New malaria case in Florida brings national total to 8, the first U.S. acquired cases in 20 yearsNBC News 7th case of malaria detected in Sarasota10 Tampa Bay 7th confirmed case of malaria reported in Sarasota CountyWWSB 7th malaria case reported in Sarasota \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171417698",
+      "urlToImage": null,
+      "publishedAt": "2023-07-19 00:32:07",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-07-20 07:05:32.938980",
+      "internal_id": "bfea1ce666bd4fe87a5e5525f30e97952a04aba78d1f899eb555f35556986f38",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 475,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Florida county reports its 7th case of locally contracted malaria",
+      "description": "Officials say a seventh case of malaria has been documented in a southwest Florida county",
+      "url": "https://abcnews.go.com/Health/wireStory/florida-county-reports-7th-case-locally-contracted-malaria-101449372",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-07-19 00:31:40",
+      "content": "SARASOTA, Fla. -- A southwest Florida county has document a seventh case of malaria, state authorities said. The Florida Department of Health reported a new locally acquired case of malaria in Saras\u2026 [+919 chars]",
+      "retrievedAt": "2023-07-20 07:05:32.930615",
+      "internal_id": "48342d17f67d620f33396ce77d1128db4a8799c8c58cfa956fb71e2680870527",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 474,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Florida county reports its 7th case of locally contracted malaria",
+      "description": "Officials say a seventh case of malaria has been documented in a southwest Florida county",
+      "url": "https://abcnews.go.com/US/wireStory/florida-county-reports-7th-case-locally-contracted-malaria-101449180",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-07-19 00:21:53",
+      "content": "SARASOTA, Fla. -- A southwest Florida county has document a seventh case of malaria, state authorities said. The Florida Department of Health reported a new locally acquired case of malaria in Saras\u2026 [+919 chars]",
+      "retrievedAt": "2023-07-20 07:05:32.928114",
+      "internal_id": "40daf38f66da868c76ca70c675fa3bb4242a96491d8e41f236f1f3364f6abd0f",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 471,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Florida county reports its seventh case of locally contracted malaria - Toronto Star",
+      "description": "Florida county reports its seventh case of locally contracted malaria Toronto Star 7th official case of malaria confirmed in Sarasota 10 Tampa Bay Seven malaria cases keeping mosquito control crews busy in Sarasota County FOX 13\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZXN0YXIuY29tL25ld3Mvd29ybGQvdXMvMjAyMy8wNy8xOC9mbG9yaWRhLWNvdW50eS1yZXBvcnRzLWl0cy03dGgtY2FzZS1vZi1sb2NhbGx5LWNvbnRyYWN0ZWQtbWFsYXJpYS5odG1s0gF7aHR0cHM6Ly93d3cudGhlc3Rhci5jb20vYW1wL25ld3Mvd29ybGQvdXMvMjAyMy8wNy8xOC9mbG9yaWRhLWNvdW50eS1yZXBvcnRzLWl0cy03dGgtY2FzZS1vZi1sb2NhbGx5LWNvbnRyYWN0ZWQtbWFsYXJpYS5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-19 00:18:52",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-20 07:05:32.921405",
+      "internal_id": "6ef0cae5e22ed64e34772aa4d0cbddd23549834820d85158673b4481cbfb11ba",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 476,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Toronto Star",
+      "author": "The Associated Press",
+      "title": "Florida county reports its 7th case of locally contracted malaria",
+      "description": "SARASOTA, Fla. (AP) \u2014 A southwest Florida county has document a seventh case of malaria, state authorities said.",
+      "url": "https://www.thestar.com/news/world/us/2023/07/18/florida-county-reports-its-7th-case-of-locally-contracted-malaria.html",
+      "urlToImage": "https://www.thestar.com/assets/img/thestar-ribbon.png",
+      "publishedAt": "2023-07-19 00:13:21",
+      "content": "SARASOTA, Fla. (AP) A southwest Florida county has document a seventh case of malaria, state authorities said. The Florida Department of Health reported a new locally acquired case of malaria in Sar\u2026 [+1250 chars]",
+      "retrievedAt": "2023-07-20 07:05:32.932723",
+      "internal_id": "fd2a3f38ff73416afe550266d8f3aae4749ce43945088cd9b4ce1fb3c0858da9",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 473,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Malaria cases reported in Utah, but local transmission isn\u2019t likely - Deseret News",
+      "description": "Malaria cases reported in Utah, but local transmission isn\u2019t likely Deseret News The Rising Concern of Malaria and Mosquito-Borne Diseases in the US Infection Control Today U.S.-Acquired Malaria Cases Spark False Claims of Links \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRlc2VyZXQuY29tL3V0YWgvMjAyMy83LzE4LzIzNzkzNzcyL21hbGFyaWEtdXRhaC13ZXN0LW5pbGUtdmlydXMtZmxvcmlkYS10ZXhhcy1sb2NhbC1zcHJlYWTSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-18 23:33:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-20 07:05:32.925846",
+      "internal_id": "9b40c4a946e53c4441da91d6bbb1f677633861da6c5d75b614795315b52c55c2",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 470,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "New York Daily News",
+      "author": "Evan Rosen, New York Daily News",
+      "title": "8th case of malaria found in Florida, but CDC does not expect nationwide outbreak",
+      "description": "There have now been eight total malaria infections found in the U.S. since May, after another case was reported Tuesday by Florida health officials. The...",
+      "url": "https://www.nydailynews.com/news/national/ny-malaria-cases-florida-cdc-nationwide-outbreak-predictions-20230718-cz3ioltsjfcj3ncld5tazarweq-story.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tYKQmnElKuigLLgWhdhbIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ny_daily_news_national_852/dd9a789d64139a93e13ed08105f1eda1",
+      "publishedAt": "2023-07-18 22:54:00",
+      "content": "There have now been eight total malaria infections found in the U.S. since May, after another case was reported Tuesday by Florida health officials. The recent cases, all of which have been found in\u2026 [+1501 chars]",
+      "retrievedAt": "2023-07-20 07:05:32.918662",
+      "internal_id": "1d864ac5c02c42c427324c9beee17530798c5a3687ec83399ff34b64e08d06b1",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 472,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "7th official case of malaria confirmed in Sarasota - 10 Tampa Bay",
+      "description": "7th official case of malaria confirmed in Sarasota 10 Tampa Bay Florida county reports its 7th case of locally contracted malaria AOL 7th confirmed case of malaria reported in Sarasota County WWSB 7th case of malaria d\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC0RyM2lYUWhGQmc0mAEB?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-18 21:49:12",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-20 07:05:32.923630",
+      "internal_id": "7b2a430a9f4a04756fe22fed8482e32becef9f487b0d34aa71c357a0d8b05748",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 466,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "M Ahmoudfouly",
+      "title": "Dengue fever cases detected in Upper Egypt: health ministry",
+      "description": "CAIRO, July 18 (Xinhua) -- Egypt's Health Ministry announced on Tuesday that some villagers in Upper Egypt's province of Qena have tested positive for the dengue virus. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2023/07/19/dengue-fever-cases-detected-in-upper-egypt-health-ministry",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-07-18 21:44:00",
+      "content": "CAIRO, July 18 (Xinhua) -- Egypt's Health Ministry announced on Tuesday that some villagers in Upper Egypt's province of Qena have tested positive for the dengue virus. The dengue fever cases were \u2026 [+770 chars]",
+      "retrievedAt": "2023-07-20 07:05:31.831920",
+      "internal_id": "bb7c7e138bbba431922d77a1d1ffec34506d1ccbc13c4fc077ed9a0d0d8f4736",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 465,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Bike Rally Raises Dengue Awareness In Diphu",
+      "description": "HT Bureau DIPHU, July 18: In response to the rising number of Dengue cases in Karbi Anglong, the joint director of Health Services and the Karbi Anglong Autonomous Council (KAAC) organised an awareness programme through a bike rally in Diphu town. Dr Borsin\u2026",
+      "url": "https://thehillstimes.in/assam/bike-rally-raises-dengue-awareness-in-diphu",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/07/Bike-Realy-.jpg",
+      "publishedAt": "2023-07-18 19:38:20",
+      "content": "HT Bureau DIPHU, July 18: In response to the rising number of Dengue cases in Karbi Anglong, the joint director of Health Services and the Karbi Anglong Autonomous Council (KAAC) organised an awaren\u2026 [+1109 chars]",
+      "retrievedAt": "2023-07-20 07:05:31.825535",
+      "internal_id": "aa13e5781d19d62c7e6fd17b405e8f52af841bb5da024823a7c362a87694b25b",
+      "publishedAtLabel": "Jul 18"
+    },
+    {
+      "id": 468,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "Dengue sigue en aumento: 44 casos en la \u00faltima semana",
+      "description": "En lo corrido del a\u00f1o se han registrado en la ciudad un total de 1.730 casos de dengue. Estos son los barrios en alerta.",
+      "url": "https://www.eluniversal.com.co/cartagena/dengue-sigue-en-aumento-44-casos-en-la-ultima-semana-HY8607559",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/WYIJ/dengue1_8126420_20230718142347.jpg",
+      "publishedAt": "2023-07-18 19:25:00",
+      "content": "Los casos de dengue en Cartagena siguen en escalada en este segundo periodo del 2023. El Departamento Administrativo Distrital de Salud (Dadis) dio a conocer que durante la \u00faltima semana epidemiol\u00f3g\u2026 [+3013 chars]",
+      "retrievedAt": "2023-07-20 07:05:31.838961",
+      "internal_id": "21b7112ca05f6ec0d79c2cfba2ee275c8d66133aac09917bad1e6da3d4c7333e",
+      "publishedAtLabel": "Jul 18"
+    },
     {
       "id": 459,
       "query": [
@@ -3344,281 +3615,6 @@
       "content": "SANT\u00c9 - Le moustique-tigre continue de faire des ravages. Dapr\u00e8s une \u00e9tude de Sant\u00e9 publique France (SpF) d\u00e9voil\u00e9e ce mardi 11 juillet, 378 cas import\u00e9s de dengue, 23 de chikungunya et six de Zika on\u2026 [+2846 chars]",
       "retrievedAt": "2023-07-12 19:05:23.814650",
       "internal_id": "3dfb17769cbc499f3a77ed2a6cd958bedb5e5375981f04ecaabe4ec8025dc4a3",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 272,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Aarp.org",
-      "author": "Dena Bunis",
-      "title": "Medicare ACOs Are Transforming Health Care in the U.S.",
-      "description": "Accountable care organizations aim to save money while keeping beneficiaries healthier. Learn how Medicare and ACOs are improving health care.",
-      "url": "https://www.aarp.org/health/medicare-insurance/info-2023/medicare-accountable-care-organizations-transform-health-care/",
-      "urlToImage": "https://cdn.aarp.net/content/dam/aarp/health/medicare_insurance/2023/07/1140-pat-cutillo-mobile-phone.jpg",
-      "publishedAt": "2023-07-11 12:14:02",
-      "content": "You know, my dog, Maggie, gets a reminder from the vet when she needs her rabies shot. My car gets a reminder from the Ford dealer when it needs an oil change, says Bob Rauner, M.D., chief medical of\u2026 [+11807 chars]",
-      "retrievedAt": "2023-07-12 19:05:22.989283",
-      "internal_id": "7e1705ea458b68a3fc1cb4e7b59b67ffe502ec63cf03b17b848a50a764f5e275",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 285,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Ocean Biomedical, Inc.",
-      "title": "Ocean Biomedical\u2019s (NASDAQ: OCEA) mRNA-based Vaccine Candidate Generates Over 90% Killing of Malaria Parasites in Non-human Primates, Demonstrating Broad Potential for Ocean\u2019s Program to Address Global and Emerging U.S. Malaria Challenges",
-      "description": "Multiple Patents have been received in the U.S. and Internationally for Novel Vaccine Candidate and \u201cWhole New Class\u201d of Malaria Therapeutics. ......",
-      "url": "https://www.globenewswire.com/news-release/2023/07/11/2702600/0/en/Ocean-Biomedical-s-NASDAQ-OCEA-mRNA-based-Vaccine-Candidate-Generates-Over-90-Killing-of-Malaria-Parasites-in-Non-human-Primates-Demonstrating-Broad-Potential-for-Ocean-s-Program-t.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
-      "publishedAt": "2023-07-11 12:01:00",
-      "content": "Multiple Patents have been received in the U.S. and Internationally for Novel Vaccine Candidate and Whole New Class of Malaria Therapeutics. Providence, RI, July 11, 2023 (GLOBE NEWSWIRE) -- Ocean B\u2026 [+11665 chars]",
-      "retrievedAt": "2023-07-12 19:05:24.813462",
-      "internal_id": "082f7d84ee531ccdb47babb6d843166e62531d71342c6bb7f834cf6d35390bfa",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 282,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Tolani Yesufu",
-      "title": "New malaria vaccine offers a ray of hope to Nigeria. There's just one thing ...",
-      "description": "The country's toll makes up nearly a third of the world's 619,000 malaria deaths each year. Now Nigeria has approved a new vaccine. Will it get into the arms of those who need it most?",
-      "url": "https://www.npr.org/sections/goatsandsoda/2023/07/11/1179118767/new-malaria-vaccine-offers-a-ray-of-hope-to-nigeria-theres-just-one-thing",
-      "urlToImage": "https://media.npr.org/assets/img/2023/05/31/malaria-vaccine_wide-c2a2fec97a9c173700a2ca7587b49b7b4198cb27-s1400-c100.jpg",
-      "publishedAt": "2023-07-11 11:29:11",
-      "content": "People queue for a free malaria test in Lagos, Nigeria. The country has one of the highest national death tolls from the mosquito-borne disease. A new vaccine offers hope. But logistics could prevent\u2026 [+7860 chars]",
-      "retrievedAt": "2023-07-12 19:05:24.803863",
-      "internal_id": "7d04c6e00a896922799e29b84193f30f3864a3321961190bd6de6e6c601bcce3",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 286,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slate Magazine",
-      "author": "Mary Harris",
-      "title": "Can\u2019t Stand the Heat",
-      "description": "Air-conditioning can only save you when it\u2019s working.",
-      "url": "https://slate.com/podcasts/what-next/2023/07/heat-is-ruining-summer",
-      "urlToImage": "https://compote.slate.com/images/0472643c-6a86-4f8a-9e14-640bda510ae6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "publishedAt": "2023-07-11 09:00:00",
-      "content": "The 4th of July was the hottest day yetnot just of the summer but of recorded human history. Between waves of Canadian wildfire smoke, malaria reappearing in the United States, and deaths from heat, \u2026 [+684 chars]",
-      "retrievedAt": "2023-07-12 19:05:24.817645",
-      "internal_id": "aa05599b0319442f5e13f743f4d0f9387b79dfc23b2476d3a9d7fcf64d1061ae",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 274,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue to Chikungunya: 5 common monsoon diseases and prevention tips - India TV News",
-      "description": "Dengue to Chikungunya: 5 common monsoon diseases and prevention tips India TV News Monsoon health: Include these 5 herbs in your diet to boost your immunity The Indian Express Monsoon: 10 Beauty Products You Must Include In Your \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmluZGlhdHZuZXdzLmNvbS9oZWFsdGgvZGVuZ3VlLXRvLWNoaWt1bmd1bnlhLTUtY29tbW9uLW1vbnNvb24tZGlzZWFzZXMtYW5kLXByZXZlbnRpb24tdGlwcy0yMDIzLTA3LTExLTg4MDQ2NtIBfGh0dHBzOi8vd3d3LmluZGlhdHZuZXdzLmNvbS9hbXAvaGVhbHRoL2Rlbmd1ZS10by1jaGlrdW5ndW55YS01LWNvbW1vbi1tb25zb29uLWRpc2Vhc2VzLWFuZC1wcmV2ZW50aW9uLXRpcHMtMjAyMy0wNy0xMS04ODA0NjY?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-11 07:55:08",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-12 19:05:23.818662",
-      "internal_id": "37240e0a762e1664716cedbaff89e33fce36c88d461f52bc61e2078aeefd7573",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 288,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Sascha Karberg",
-      "title": "Gentherapie f\u00fcr M\u00fccken: Moskitos vor Malara-Infektion gesch\u00fctzt",
-      "description": "Mit zwei neuen Tricks wollen Forscher die \u00dcbertragung des gef\u00e4hrlichen Malaria-Erregers von M\u00fccken auf Menschen verhindern. Und einer der Ans\u00e4tze hilft sogar den Moskitos.",
-      "url": "https://www.tagesspiegel.de/wissen/gentherapie-fur-mucken-moskitos-vor-malara-infektion-geschutzt-10121737.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/malaria1/alternates/BASE_16_9_W1400/malaria.jpeg",
-      "publishedAt": "2023-07-11 07:51:22",
-      "content": "Der Erreger der Malaria wird von Stechm\u00fccken auf den Menschen \u00fcbertragen - Eingriffe ins Erbgut der Insekten k\u00f6nnten das \u00e4ndern. Bisher zielten Ver\u00e4nderungen ihres Genoms meist darauf ab, die Zahl de\u2026 [+3104 chars]",
-      "retrievedAt": "2023-07-12 19:05:24.824382",
-      "internal_id": "5a92f598c033a231167079e5d1aa56804158659cda6b1a93e0607b0b74dcef4a",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 278,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Gary Boyle",
-      "title": "Dengue fever cases predicted to rise",
-      "description": "Thailand is currently facing what many experts predict will become a severe dengue fever outbreak, with up to 150,000 infections possible by the end of the year, according to the Department of Disease Control (DDC).",
-      "url": "https://www.bangkokpost.com/learning/easy/2610096/dengue-fever-cases-predicted-to-rise",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20230711/c1_2610096_700.jpg",
-      "publishedAt": "2023-07-11 07:34:00",
-      "content": "Thailand is currently facing what many experts predict will become a severe dengue fever outbreak, with up to 150,000 infections possible by the end of the year, according to the Department of Diseas\u2026 [+1154 chars]",
-      "retrievedAt": "2023-07-12 19:05:23.834899",
-      "internal_id": "4612654764a4e1bc51ecac303a8f3699b4aa95f942708bc4fdbfe347ee2e0a91",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 260,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Francetvinfo.fr",
-      "author": null,
-      "title": "Moustique-tigre : la situation \u00e9pid\u00e9miologique de la dengue en France m\u00e9tropolitaine a \u00e9t\u00e9 \"exceptionnelle en 2022\"",
-      "description": "Le moustique Aedes albopictus, implant\u00e9 en France m\u00e9tropolitaine depuis 2004, n'a cess\u00e9 de s'\u00e9tendre sur le territoire, selon une \u00e9tude de Sant\u00e9 publique France.",
-      "url": "https://www.francetvinfo.fr/sante/maladie/le-virus-zika/moustique-tigre-la-situation-epidemiologique-de-la-dengue-en-france-metropolitaine-a-ete-exceptionnelle-en-2022_5943677.html",
-      "urlToImage": "https://www.francetvinfo.fr/pictures/0SNtN2FyCEm0zP8YHBoxA0TEUus/1500x843/2023/07/11/64acf6d8db740_080-hl-slapeyrere-1154235.jpg",
-      "publishedAt": "2023-07-11 06:31:09",
-      "content": "Le moustique-tigre fait de plus en plus de d\u00e9gats en France. En 2022, avec 378 cas import\u00e9s de dengue, 23 de chikungunya et six de Zika, la situation a \u00e9t\u00e9 \"exceptionnelle\" en France m\u00e9tropolitaine, \u2026 [+2459 chars]",
-      "retrievedAt": "2023-07-12 07:05:56.860279",
-      "internal_id": "0b4ba8e0c96b74755c98c69efca5b5e3f63947c7586097e4b75682ed9fcb12fc",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 265,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Bangladesh reeling from record case counts of dengue fever",
-      "description": "DHAKA, July 11 (Xinhua) -- Bangladesh Monday reported three new dengue deaths and 889 new patients i",
-      "url": "http://en.people.cn/n3/2023/0711/c90000-20042505.html",
-      "urlToImage": null,
-      "publishedAt": "2023-07-11 06:22:11",
-      "content": "DHAKA, July 11 (Xinhua) -- Bangladesh Monday reported three new dengue deaths and 889 new patients in just one day, which is the country's biggest one-day tally since January this year. The highest \u2026 [+480 chars]",
-      "retrievedAt": "2023-07-12 07:05:56.871429",
-      "internal_id": "4074afd0bb153965fc4b8d6e80836ae3c2909b9831208837e5c2e8d79f50fb77",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 262,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "La r\u00e9daction avec AFP",
-      "title": "Sant\u00e9. Dengue, chikungunya et Zika : toujours plus de cas en France",
-      "description": "Le moustique-tigre continue de s'\u00e9tendre sur le territoire. Et avec lui, les arbovirus qu\u2019il peut propager : dengue, chikungunya et Zika.",
-      "url": "https://www.ledauphine.com/sante/2023/07/11/dengue-chikungunya-et-zika-toujours-plus-de-cas-en-france",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/9A038CFF-1C07-4974-9B82-D477503B9D29/FB1200/photo-1689056513.jpg",
-      "publishedAt": "2023-07-11 06:22:00",
-      "content": "En 2022, avec 378 cas import\u00e9s de dengue, 23 de chikungunya et six de Zika, la situation a \u00e9t\u00e9 \u00ab exceptionnelle \u00bb en France m\u00e9tropolitaine, souligne mardi une \u00e9tude de Sant\u00e9 publique France (SpF), qu\u2026 [+2458 chars]",
-      "retrievedAt": "2023-07-12 07:05:56.863814",
-      "internal_id": "62d7256ee522295688a4539a31c3c59d03f2f9b7805c9d46bad94349a6ac7eef",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 256,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Campagna antirabbica a Bali, Indonesia",
-      "description": "epa10736963 A veterinarian injects a dog with anti-rabies vaccine during a pet vaccination program in Denpasar, Bali, Indonesia, 10 July 2023. (ANSA)",
-      "url": "https://www.ansa.it/sito/photogallery/primopiano/2023/07/10/campagna-antirabbica-a-bali-indonesia_8484c740-2d2a-4d87-998b-65ef23265fc2.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/7/10/6ff10e9d029eafaca7ba27bf401a657a.jpg",
-      "publishedAt": "2023-07-11 04:35:21",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2023-07-12 07:05:56.139407",
-      "internal_id": "709c4063287c7313aa042efb83258ac045bd6ee3cca2e9eed824655632f06d94",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 261,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Advanced Age and Increased Risk for Severe Outcomes of Dengue Infection, Taiwan, 2014\u20132015",
-      "description": "Advanced Age and Increased Risk for Severe Outcomes of Dengue Infection, Taiwan, 2014\u20132015",
-      "url": "https://wwwnc.cdc.gov/eid/article/29/8/23-0014_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-07-11 04:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue is an Aedes aegypti\u2026 [+5556 chars]",
-      "retrievedAt": "2023-07-12 07:05:56.861986",
-      "internal_id": "76d17e84461c3f16cf06b6c8e3b0a454506b183320c5c90aebeab4fd1c150b8d",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 269,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Fatal Meningitis from Shiga Toxin\u2013Producing Escherichia coli in 2 Full-Term Neonates, France",
-      "description": "Fatal Meningitis from Shiga Toxin\u2013Producing Escherichia coli in 2 Full-Term Neonates, France",
-      "url": "https://wwwnc.cdc.gov/eid/article/29/8/23-0169_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-07-11 04:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Escherichia coli can acqui\u2026 [+6200 chars]",
-      "retrievedAt": "2023-07-12 07:05:57.274629",
-      "internal_id": "77479f5168cb7a9e158aa98cdedbddf97a4b7c08ad8293f5ecf8bcb7a84567c2",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 264,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "\u092e\u0949\u0928\u0938\u0942\u0928 \u0915\u0947 \u0938\u093e\u0925 \u0939\u0940 \u092c\u0922\u093c\u093e \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0916\u0924\u0930\u093e! \u092f\u0947 \u0930\u0939\u0947 \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u0947 \u0924\u0930\u0940\u0915\u0947",
-      "description": "Dengue Fever: \u0921\u0947\u0902\u0917\u0942 \u0939\u094b\u0928\u0947 \u092a\u0930 \u0924\u0947\u091c \u092c\u0941\u0916\u093e\u0930, \u0938\u093f\u0930\u0926\u0930\u094d\u0926, \u092e\u093e\u0902\u0938\u092a\u0947\u0936\u093f\u092f\u094b\u0902 \u0914\u0930 \u091c\u094b\u0921\u093c\u094b\u0902 \u092e\u0947\u0902 \u0926\u0930\u094d\u0926 \u0939\u094b\u0928\u0947 \u0932\u0917\u0924\u093e \u0939\u0948. \u0921\u0947\u0902\u0917\u0942 \u092e\u0947\u0902 \u0936\u0930\u0940\u0930 \u0915\u0940 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938 \u0924\u0947\u091c\u0940 \u0938\u0947 \u0917\u093f\u0930\u0928\u0947 \u0932\u0917\u0924\u0940 \u0939\u0948\u0902. \u0907\u0938\u092e\u0947\u0902 \u092e\u0930\u0940\u091c \u0915\u094b \u0924\u0941\u0930\u0902\u0924 \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u092d\u0930\u094d\u0924\u0940 \u0915\u0930\u0928\u0947 \u0915\u0940 \u091c\u0930\u0942\u0930\u0924 \u0939\u094b\u0924\u0940 \u0939\u0948, \u0935\u0930\u0928\u093e \u0938\u092e\u092f \u092a\u0930 \u0907\u0932\u093e\u091c \u0928\u093e \u092e\u093f\u0932\u0928\u0947 \u0915\u0947 \u0915\u093e\u0930\u0923 \u092e\u0930\u0940\u091c \u0915\u0940 \u091c\u093e\u0928 \u092d\u0940 \u091c\u093e \u2026",
-      "url": "https://www.aajtak.in/lifestyle/news/story/dengue-fever-ways-to-protect-your-in-monsoon-know-symtoms-diagnosis-treatment-and-prevention-tlifm-1733169-2023-07-11",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202307/1_4-sixteen_nine.jpg",
-      "publishedAt": "2023-07-11 03:37:03",
-      "content": "Dengue Fever: . . . , . . , , , . , (Dengue hemorrhagic fever) . 1. . . . 2. . . DEET, , . 3. , , . . 4. , . . , . 5. . . 6. , . .",
-      "retrievedAt": "2023-07-12 07:05:56.868403",
-      "internal_id": "6bf43c7d091b40f62af87c99c6b7b6a9a9bbcd53e137f9a19b8bc544d5db0ccd",
-      "publishedAtLabel": "Jul 11"
-    },
-    {
-      "id": 266,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "\u0986\u09b9\u09b8\u09be\u09a8 \u09b9\u09be\u09ac\u09c0\u09ac",
-      "title": "\u09a6\u09c7\u09b6\u09c7 \u09af\u09c7 \u09e7\u09e9 \u09ac\u09cd\u09af\u09be\u0982\u0995\u09c7\u09b0 \u0996\u09c7\u09b2\u09be\u09aa\u09bf \u098b\u09a3 \u09b8\u09ac\u099a\u09c7\u09af\u09bc\u09c7 \u0995\u09ae",
-      "description": "\u098f\u0987 \u09e7\u09e9 \u09ac\u09cd\u09af\u09be\u0982\u0995 \u09ad\u09be\u09b2\u09cb \u0995\u09b0\u09cd\u09aa\u09cb\u09b0\u09c7\u099f \u0997\u09ad\u09b0\u09cd\u09a8\u09c7\u09a8\u09cd\u09b8 \u0993 \u09ac\u09cd\u09af\u09be\u0982\u0995\u09bf\u0982 \u0995\u09be\u09b0\u09cd\u09af\u0995\u09cd\u09b0\u09ae\u09c7 \u09af\u09a5\u09be\u09af\u09a5 \u09aa\u09cd\u09b0\u099a\u09c7\u09b7\u09cd\u099f\u09be\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7 \u09ac\u09cd\u09af\u09be\u0982\u0995\u09bf\u0982 \u09b8\u09c7\u0995\u09cd\u099f\u09b0\u09c7 \u098b\u09a3 \u0996\u09c7\u09b2\u09be\u09aa\u09bf\u09b0 \u0985\u09a8\u09c1\u09aa\u09be\u09a4\u0995\u09c7 \u09e7\u09e6 \u09b6\u09a4\u09be\u0982\u09b6\u09c7\u09b0 \u09a8\u09bf\u099a\u09c7 \u09a4\u09a5\u09be \u09ee \u09b6\u09a4\u09be\u0982\u09b6\u09c7 \u09b0\u09be\u0996\u09a4\u09c7 \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3 \u09ad\u09c2\u09ae\u09bf\u0995\u09be \u09b0\u09c7\u0996\u09c7\u099b\u09c7\u0964",
-      "url": "https://bangla.thedailystar.net/business/news-495356",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/11/byaank.jpg?itok=4codqiTI",
-      "publishedAt": "2023-07-11 03:14:16",
-      "content": "The capitals Mugda Medical College Hospital has been struggling to cope with the steep rise in the number of dengue patients over the last few weeks.",
-      "retrievedAt": "2023-07-12 07:05:56.873708",
-      "internal_id": "23ed54dc05085f606e09a0c19d210b9a95250548e636db573b367bad0ed48909",
       "publishedAtLabel": "Jul 11"
     }
   ]
