@@ -1,8 +1,209 @@
 {
-  "last_updated": "2023-07-20 19:05",
+  "last_updated": "2023-07-21 07:05",
   "count_articles_total": 299,
-  "count_articles_new": 19,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 503,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Croatia targets latest climate-change threat: mosquitoes",
+      "description": "The release is part of a pilot project focused on eradicating invasive Asian Tiger mosquitoes known for carrying sicknesses like Dengue Fever, Chikungunya and Zika. The species has appeared to thrive in the country and across the region in recent years due \u2026",
+      "url": "https://www.france24.com/en/live-news/20230720-croatia-targets-latest-climate-change-threat-mosquitoes",
+      "urlToImage": "https://s.france24.com/media/display/1aa2a810-26c4-11ee-bba5-005056a90321/w:1280/p:16x9/5d940450c0e0b5c6591b7240fdba22384c6a6614.jpg",
+      "publishedAt": "2023-07-20 06:10:20",
+      "content": "Zagreb (AFP) Hordes of buzzing but sterile mosquitoes are being let loose in Zagreb as Croatia gets ahead of worries that climate change could bring tropical diseases to the Mediterranean nation. The\u2026 [+3474 chars]",
+      "retrievedAt": "2023-07-21 07:05:44.775062",
+      "internal_id": "7cd65a38de4110fd983066438c8ef95361db68f638ad15eee959d90af76b680e",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 509,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "SW771",
+      "title": "Research and Development Propels the Growth of Typhoid Fever Vaccines Market",
+      "description": "Other developing economies has resulted in poor sanitation and restricted access to clean water and food, putting people at risk of contracting typhoid. Typhoid fever vaccines are biological formulations that provide immunity and protection against typhoid fe\u2026",
+      "url": "https://slashdot.org/submission/17270246/research-and-development-propels-the-growth-of-typhoid-fever-vaccines-market",
+      "urlToImage": null,
+      "publishedAt": "2023-07-20 04:09:34",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-07-21 07:05:47.044934",
+      "internal_id": "8a0abcb7e4c29feed67506c420dd08711026a47bdeae76f07d7b2be060d6786d",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 504,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "La Croatie face \u00e0 la prolif\u00e9ration des moustiques tigres",
+      "description": "Ce l\u00e2cher de moustiques m\u00e2les st\u00e9riles fait partie d'un projet pilote destin\u00e9 \u00e0 \u00e9radiquer les moustiques tigres, une esp\u00e8ce invasive pouvant transmettre des maladies contagieuses comme la dengue, la fi\u00e8vre du Nil occidental, le Zika et le Chinkungunya. Ce pr\u2026",
+      "url": "https://www.france24.com/fr/info-en-continu/20230720-la-croatie-face-%C3%A0-la-prolif%C3%A9ration-des-moustiques-tigres",
+      "urlToImage": "https://s.france24.com/media/display/f9e7e1c6-26af-11ee-9add-005056a90321/w:1280/p:16x9/5d940450c0e0b5c6591b7240fdba22384c6a6614.jpg",
+      "publishedAt": "2023-07-20 03:46:15",
+      "content": "Zagreb (AFP) Une nu\u00e9e de moustiques m\u00e2les st\u00e9riles est l\u00e2ch\u00e9e \u00e0 Zagreb dans l'espoir de combattre la prolif\u00e9ration en Croatie, due au changement climatique, de ces insectes vecteurs de graves maladie\u2026 [+3721 chars]",
+      "retrievedAt": "2023-07-21 07:05:44.777389",
+      "internal_id": "2218fe2644ca1af65d3cd2a450e8a8a106963ee053eac4787c4fc30d5fee9c27",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 505,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Peoplesreview.com.np",
+      "author": "peoples_12ad",
+      "title": "Dengue infection rises, 10 districts see more cases",
+      "description": "Kathmandu, 20 July: Dengue infection has been found rising of late. With rainfall continuing, Dengue infection cases have gone up. Director at Epidemiology and Disease Control Division, Rudra Prasad Marasini shared that infection rate has whopped since the pa\u2026",
+      "url": "https://www.peoplesreview.com.np/2023/07/20/dengue-infection-rises-10-districts-see-more-cases/",
+      "urlToImage": "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2022/10/LVV7_Aedes_aegypti_Adult_Feeding_2022_0292022-10-11-03-10-03.jpeg?fit=300%2C169&ssl=1",
+      "publishedAt": "2023-07-20 00:44:50",
+      "content": "Editor-in-Chief: Pushpa Raj Pradhan Consultant Editor Emeritus: Mana Ranjan Josse Contributing Editor: Prof Dr Shashi P.B.B. Malla Guest Editor: Yug Bahadur Managing Editor: Sushma Shrestha Chie\u2026 [+420 chars]",
+      "retrievedAt": "2023-07-21 07:05:44.780794",
+      "internal_id": "7fb6c14aa33600122162112cf175ff3da7ffc09f781a536ed2c27c8cc65f1c38",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 499,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Anvisa alerta cl\u00ednicas sobre rea\u00e7\u00f5es da nova vacina contra dengue",
+      "description": "Um acontecimento recente promete suavizar a luta contra uma das doen\u00e7as mais preponderantes no territ\u00f3rio brasileiro - a dengue. A empresa japonesa",
+      "url": "https://catracalivre.com.br/saude-bem-estar/anvisa-alerta-clinicas-sobre-reacoes-da-nova-vacina-contra-dengue/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2023/07/vacina-dengue.jpg",
+      "publishedAt": "2023-07-20 00:30:58",
+      "content": "P\u00e1gina Inicial \u00bb Bem-Estar \u00bb Anvisa enfatiza a seguran\u00e7a e efic\u00e1cia de 80,2% em meio \u00e0 necessidade de monitoramento cont\u00ednuo Um acontecimento recente promete suavizar a luta contra uma das doen\u00e7as \u2026 [+2198 chars]",
+      "retrievedAt": "2023-07-21 07:05:44.763312",
+      "internal_id": "49ba5854600017bc80420334818867d57e69489923e38cfcb9988670690ec7fb",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 508,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Florida malaria outbreak still going with local cases now at 7",
+      "description": "Local officials are still working to apply insecticide by air, trucks, and crews.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171426350",
+      "urlToImage": null,
+      "publishedAt": "2023-07-19 22:32:05",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-07-21 07:05:45.713060",
+      "internal_id": "34a76d59ee6108aed3b6b916d5531f29e72621341c8865b4bc02d4beb5bf21b1",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 507,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "Florida malaria outbreak still going with local cases now at 7",
+      "description": "Local officials are still working to apply insecticide by air, trucks, and crews.",
+      "url": "https://arstechnica.com/health/2023/07/florida-malaria-outbreak-still-going-with-local-cases-now-at-7/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2013/03/Anopheles_stephensi-640x215.jpeg",
+      "publishedAt": "2023-07-19 21:05:36",
+      "content": "An Anopheles stephensi mosquito, which can carry the malaria parasite. 11 with A seventh person has been diagnosed with a locally acquired case of malaria in Florida's Sarasota County, state healt\u2026 [+3503 chars]",
+      "retrievedAt": "2023-07-21 07:05:45.705237",
+      "internal_id": "7c954dfef19c59864ea75cf8576b6c4930fe42814b8abb19b248ff778252162d",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 506,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "CNBC",
+      "author": "Annika Kim Constantino",
+      "title": "Pfizer Group B strep vaccine for infants returns encouraging mid-stage trial results",
+      "description": "Pfizer is among several drugmakers racing to develop the world's first shot targeting Group B strep disease, which kills thousands of infants each year.",
+      "url": "https://www.cnbc.com/2023/07/19/pfizer-group-b-strep-vaccine-for-infants-returns-strong-trial-results.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107273689-1689778536653-gettyimages-1289422022-941_04_bsip_016144_034.jpeg?v=1689800401&w=1920&h=1080",
+      "publishedAt": "2023-07-19 21:01:54",
+      "content": "Streptococcus agalactiae bacteria, responsible for vaginal and urinary tract infections and newborn infections including meningitis and septicemia. Optical microscopy view. Pfizer on Wednesday said \u2026 [+4952 chars]",
+      "retrievedAt": "2023-07-21 07:05:45.231562",
+      "internal_id": "9e7856e1f874a31bb588fb16c86fdf35ed8d6489e8112465bec44c4bba85dd04",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 502,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Anvisa orienta cl\u00ednicas privadas e vigil\u00e2ncias sanit\u00e1rias sobre vacina da dengue; veja as indica\u00e7\u00f5es",
+      "description": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) divulgou nesta quarta-feira, 19, orienta\u00e7\u00f5es ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/anvisa-orienta-clinicas-privadas-e-vigilancias-sanitarias-sobre-vacina-da-dengue-veja-as-indicacoes,dabaf1eb94ef9a31b69739e97d87f32eh1tesb1l.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/19/1675801497-4wpnvse7gjc3jde3s7pl2dboke.jpeg",
+      "publishedAt": "2023-07-19 20:36:13",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) divulgou nesta quarta-feira, 19, orienta\u00e7\u00f5es para cl\u00ednicas privadas e vigil\u00e2ncias sanit\u00e1rias a respeito da necessidade de notifica\u00e7\u00e3o de poss\u00edveis \u2026 [+1360 chars]",
+      "retrievedAt": "2023-07-21 07:05:44.773565",
+      "internal_id": "ef0dbf88918e43ef522f918e17947d6c8c614a9f9112a9f189419ce92f196c0c",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 500,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Anvisa orienta cl\u00ednicas privadas e vigil\u00e2ncias sanit\u00e1rias sobre vacina da dengue",
+      "description": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) divulgou nesta quarta-feira, 19, orienta\u00e7\u00f5es para cl\u00ednicas privadas e vigil\u00e2ncias...",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/anvisa-orienta-clinicas-privadas-e-vigilancias-sanitarias-sobre-vacina-da-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/07/17121214/WhatsApp-Image-2023-07-17-at-10.59.18.jpeg",
+      "publishedAt": "2023-07-19 19:14:07",
+      "content": "A Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) divulgou nesta quarta-feira, 19, orienta\u00e7\u00f5es para cl\u00ednicas privadas e vigil\u00e2ncias sanit\u00e1rias a respeito da necessidade de notifica\u00e7\u00e3o de poss\u00edveis \u2026 [+1257 chars]",
+      "retrievedAt": "2023-07-21 07:05:44.768240",
+      "internal_id": "0958b306d3d64c391c412aac3fee821398e9bd24d5abe6af6a27061dbf1f0e14",
+      "publishedAtLabel": "Jul 19"
+    },
+    {
+      "id": 501,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Yannick Simonin, Virologiste sp\u00e9cialiste en surveillance et \u00e9tude des maladies virales \u00e9mergentes. Professeur des Universit\u00e9s, Universit\u00e9 de Montpellier",
+      "title": "Virus de la dengue en France m\u00e9tropolitaine : \u00e0 quoi faut-il s\u2019attendre cette ann\u00e9e ?",
+      "description": "Les nombres de cas de dengue contract\u00e9s en France m\u00e9tropolitaine ont explos\u00e9 en 2022. Cette ann\u00e9e restera-t-elle exceptionnelle, ou marque-t-elle plut\u00f4t l\u2019entr\u00e9e dans une nouvelle normalit\u00e9 ?",
+      "url": "https://theconversation.com/virus-de-la-dengue-en-france-metropolitaine-a-quoi-faut-il-sattendre-cette-annee-209339",
+      "urlToImage": "https://images.theconversation.com/files/537585/original/file-20230715-16554-rjw3zm.jpg?ixlib=rb-1.1.0&rect=0%2C164%2C3800%2C1900&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2023-07-19 19:12:41",
+      "content": "Les vacances ne se passent pas toujours comme pr\u00e9vu\u2026 Dans notre s\u00e9rie \u00ab Une semaine en enfers ! \u00bb, nous d\u00e9cryptons ce qui peut aller de travers, depuis le mal des transports amplifi\u00e9s lors des d\u00e9part\u2026 [+8262 chars]",
+      "retrievedAt": "2023-07-21 07:05:44.771020",
+      "internal_id": "d90a0a5b7ec03d8aed5bf636d61f3c958acd1b6a0678d65c0abcbd8a0abcffff",
+      "publishedAtLabel": "Jul 19"
+    },
     {
       "id": 485,
       "query": [
@@ -3416,206 +3617,6 @@
       "content": "Patients from now on can get their dengue tests at Tk 50 instead of Tk 100 in all public hospitals across the country.",
       "retrievedAt": "2023-07-15 07:05:31.356007",
       "internal_id": "f48a2fe1787a0a3169efe74d628d13b830ffb3bec8ad948848e44563d468fa90",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 306,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Caso di Dengue a Teolo, tornato dalla Thailandia con forti dolori alle ossa - PadovaOggi",
-      "description": "Caso di Dengue a Teolo, tornato dalla Thailandia con forti dolori alle ossa PadovaOggi Febbre Dengue, un caso a Teolo. Per tre giorni si proceder\u00e0 alla disinfestazione ilgazzettino.it Caso di Dengue a Teolo, scatta la disinfestaz\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnBhZG92YW9nZ2kuaXQvYXR0dWFsaXRhL3Rvcm5hLWNhc28tZGVuZ3VlLXRlb2xvLXBhZG92YS0xMi1sdWdsaW8tMjAyMy5odG1s0gFWaHR0cHM6Ly9hbXAucGFkb3Zhb2dnaS5pdC9hdHR1YWxpdGEvdG9ybmEtY2Fzby1kZW5ndWUtdGVvbG8tcGFkb3ZhLTEyLWx1Z2xpby0yMDIzLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-12 09:35:39",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-13 19:05:14.791433",
-      "internal_id": "d5521285770fd1f42eb9456f2926438d89ba5ed494f72f2b89fc17416576f0fa",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 308,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "20 Minutes avec agences (20 Minutes)",
-      "title": "Moustique tigre : Les cas de dengue ont augment\u00e9 en 2022, Sant\u00e9 publique France pointe une situation \u00ab exceptionnelle \u00bb",
-      "description": "Une surveillance des cas, import\u00e9s et autochtones, est mise en place depuis 2006",
-      "url": "https://www.20minutes.fr/sante/4045313-20230712-moustique-tigre-cas-dengue-augmente-2022-sante-publique-france-pointe-situation-exceptionnelle",
-      "urlToImage": "https://img.20mn.fr/2ezcrCffTiqW3kmipNfJ_ik/1200x768_moustique-tigre-illustration",
-      "publishedAt": "2023-07-12 09:17:36",
-      "content": "Une situation \u00ab exceptionnelle \u00bb. En 2022, en France m\u00e9tropolitaine, 378 cas de dengue ont \u00e9t\u00e9 import\u00e9s, 23 de chikungunya et 6 de Zika, souligne mardi une \u00e9tude de Sant\u00e9 publique France, qui s\u2019inqui\u2026 [+3117 chars]",
-      "retrievedAt": "2023-07-13 19:05:14.798354",
-      "internal_id": "86ead8ee473e3148c0061aee9ccbc76606d39cbd923fee139e46f5d72677468c",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 318,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Liga Nacional rompe la Malaria",
-      "description": "La Liga Nacional por fin pudo romper una larga sequ\u00eda de nueve derrotas consecutivas en el Juego de Estrellas de la MLB, al imponerse 3-2 a la Americana. En el T-Mobile Park, El\u00edas D\u00edaz conect\u00f3 un jonr\u00f3n de dos carreras que le vali\u00f3 el triunfo al viejo circui\u2026",
-      "url": "https://www.jornada.com.mx/2023/07/12/deportes/a11n3dep",
-      "urlToImage": "https://www.jornada.com.mx/2023/07/12/fotos/a11n3dep-1.jpg",
-      "publishedAt": "2023-07-12 08:32:54",
-      "content": "Peri\u00f3dico La JornadaMi\u00e9rcoles 12 de julio de 2023, p. a11 La Liga Nacional por fin pudo romper una larga sequ\u00eda de nueve derrotas consecutivas en el Juego de Estrellas de la MLB, al imponerse 3-2 a \u2026 [+310 chars]",
-      "retrievedAt": "2023-07-13 19:05:15.545760",
-      "internal_id": "3c2007ab92faab515fe34075619733189468d9eba220fdaa63be3f1a15deebab",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 394,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Dengue spike in Bangladesh: Govt issues precautionary measures",
-      "description": "As the dengue situation has taken an alarming turn across the country, the Directorate General of Health Services (DGHS) urged people to be careful and focus on ensuring that their surroundings are clean. It also urged people not to panic over the alarming ri\u2026",
-      "url": "https://sylhetmirror.com/2023/07/12/dengue-spike-in-bangladesh-govt-issues-precautionary-measures/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/Kjgge.jpg",
-      "publishedAt": "2023-07-12 08:12:38",
-      "content": "As the dengue situation has taken an alarming turn across the country, the Directorate General of Health Services (DGHS) urged people to be careful and focus on ensuring that their surroundings are c\u2026 [+2261 chars]",
-      "retrievedAt": "2023-07-16 07:05:40.671276",
-      "internal_id": "4d70df5d681c3ccdb5d1f419c7857a6baf926095a82b39d94f05525e68d7d00b",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 298,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Bangladesh reports highest daily death toll of dengue this year till now - Xinhua",
-      "description": "Bangladesh reports highest daily death toll of dengue this year till now Xinhua Biting back: Thailand's dengue battle claims 33 lives, Public Health Office reveals Thaiger DDC warns of grim year for dengue Bangkok Post <li\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZW5nbGlzaC5uZXdzLmNuLzIwMjMwNzEyL2E4ODBkYjU4YTUyYTQ1NjJhNDcyODIzZjk2YjkyMWU1L2MuaHRtbNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-12 06:09:45",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-13 07:05:38.257258",
-      "internal_id": "d5ded2d977b98046c2b15ba90e50f55630bb94ddb58f445625b4925bc081fca2",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 303,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nation.africa",
-      "author": "Amina Wako",
-      "title": "18 million doses of vaccine a shot in the arm for malaria war",
-      "description": "18 million doses of vaccine a shot in the arm for malaria warnation.africa",
-      "url": "https://nation.africa/kenya/health/18-million-doses-of-vaccine-a-shot-in-the-arm-for-malaria-war-4299024",
-      "urlToImage": "https://nation.africa/resource/image/4171838/landscape_ratio3x2/1200/800/5e75cdf06478e6e473333cc86f89f74a/rG/vac-pix1.jpg",
-      "publishedAt": "2023-07-12 05:06:27",
-      "content": "Kenya is among 12 African countries set to receive 18 million doses of the first-ever malaria vaccine over the next two years, the global vaccine alliance (Gavi) has announced. The allocation of the\u2026 [+2445 chars]",
-      "retrievedAt": "2023-07-13 07:05:38.904367",
-      "internal_id": "245a042b55ecc709bc7c2045eec00d1328e5d22d1a17c107de8bc242288d21d0",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 301,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Americanthinker.com",
-      "author": null,
-      "title": "Why malaria returned to the USA",
-      "description": "What's the deadliest animal in the world? A tiger? A great white shark? A poisonous snake? Nope. The most dangerous animal on Earth weighs about 2/1000 of a gram, is smaller than an M&M, ...",
-      "url": "https://www.americanthinker.com/blog/2023/07/why_malaria_returned_to_the_usa.html",
-      "urlToImage": "https://www.americanthinker.com/images/bucket/2023-07/247452.jpg",
-      "publishedAt": "2023-07-12 05:00:00",
-      "content": "What's the deadliest animal in the world? A tiger? A great white shark? A poisonous snake? Nope. The most dangerous animal on Earth weighs about 2/1000 of a gram, is smaller than an M&amp;M, and\u2026 [+4934 chars]",
-      "retrievedAt": "2023-07-13 07:05:38.897767",
-      "internal_id": "a874f04175e94b153947f264bca61794e92c9bbb6b93be9be056fe1c9ce6157c",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 300,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Mycobacterium abscessus Meningitis Associated with Stem Cell Treatment During Medical Tourism",
-      "description": "M. abscessus Meningitis and Medical Tourism",
-      "url": "https://wwwnc.cdc.gov/eid/article/29/8/23-0317_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-07-12 04:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Mycobacterium abscessus is\u2026 [+9447 chars]",
-      "retrievedAt": "2023-07-13 07:05:38.496056",
-      "internal_id": "612914cf621bd07b5bb6398a92bdd5dfca6d3a677ebf55ad75150b4cdb3f28c5",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 304,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Laboratory Diagnosis of Mpox, Central African Republic, 2016\u20132022",
-      "description": "Mpox, Central African Republic, 2016\u20132022",
-      "url": "https://wwwnc.cdc.gov/eid/article/29/9/23-0514_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-07-12 04:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Mpox is caused by the monk\u2026 [+8904 chars]",
-      "retrievedAt": "2023-07-13 07:05:39.716501",
-      "internal_id": "af10f7267b2a75def3dc6c8965d6b91e876b4ea907993b570af54ecc21d0328d",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 297,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Giri Viswanathan",
-      "title": "To keep US free of dog rabies, CDC proposes updates to dog import rules for the first time in 70 years",
-      "description": "For the first time in nearly 70 years, the US Centers for Disease Control and Prevention is proposing a change in how dogs are imported into the United States.",
-      "url": "https://www.cnn.com/2023/07/11/health/cdc-dog-import-rules/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230711134354-dog-import-cdc.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-07-12 00:32:47",
-      "content": "For the first time in nearly 70 years, the US Centers for Disease Control and Prevention is proposing a change in how dogs are imported into the United States. Revisiting guidelines last revised in \u2026 [+4429 chars]",
-      "retrievedAt": "2023-07-13 07:05:37.423314",
-      "internal_id": "eb4ae878991b1f1c99583cc3a9da4e995ac6b38f94c526b712712c1f394f8add",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 302,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "national-geographic",
-      "source_name": "National Geographic",
-      "author": "Tara Haelle",
-      "title": "Is malaria making a comeback in the U.S.?",
-      "description": "Recent locally acquired cases in Florida and Texas have raised concerns about a rise in mosquito-borne diseases. How vulnerable are we?",
-      "url": "https://www.nationalgeographic.com/premium/article/malaria-florida-texas-mosquitoes",
-      "urlToImage": "https://i.natgeofe.com/n/6a391c24-bec4-4ec6-9bcb-efc9fe943db6/C0545775-Anopheles_mosquito_LM_16x9.jpg?w=1200",
-      "publishedAt": "2023-07-12 00:00:00",
-      "content": "Copyright \u00a9 1996-2015 National Geographic SocietyCopyright \u00a9 2015-2023 National Geographic Partners, LLC. All rights reserved",
-      "retrievedAt": "2023-07-13 07:05:38.900188",
-      "internal_id": "c370b142d86e4a67a7abcba58df29a73c00834b15fbf1e4a1d7adbb366b7a4a2",
       "publishedAtLabel": "Jul 12"
     }
   ]
