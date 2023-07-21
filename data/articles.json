@@ -1,8 +1,318 @@
 {
-  "last_updated": "2023-07-21 07:05",
+  "last_updated": "2023-07-21 19:05",
   "count_articles_total": 299,
-  "count_articles_new": 11,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 523,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "As temperatures rise, mosquitoes are also on the move. Scientists worry that could mean more malaria",
+      "description": "As global warming pushes temperatures up, the elevation range where malaria-carrying mosquitoes thrive is rising. Researchers have found evidence of the phenomenon from the tropical highlands of South America to the mountainous, populous regions of eastern Af\u2026",
+      "url": "https://www.bostonherald.com/2023/07/20/as-temperatures-rise-mosquitoes-are-also-on-the-move-scientists-worry-that-could-mean-more-malaria/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2023/07/Climate-Change-Infectious-Diseases-Malaria.jpg?w=1024&h=576",
+      "publishedAt": "2023-07-20 18:50:27",
+      "content": "By MARY KATHERINE WILDEMAN (Associated Press) As the planet warms, mosquitoes are slowly migrating upward. The temperature range where malaria-carrying mosquitoes thrive is rising in elevation. Re\u2026 [+5818 chars]",
+      "retrievedAt": "2023-07-21 19:05:25.345631",
+      "internal_id": "404717e15e921647cbe5fdf8e46c9c453b1c8b0db3ec68d0e9817574c9c9c1c5",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 526,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Autism Spectrum Disorder Among Children with Laboratory Evidence of Prenatal Zika Virus Exposure \u2014 Puerto Rico, 2023",
+      "description": "This report describes autism spectrum disorder diagnoses among children with possible prenatal Zika virus exposure.",
+      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7229a5.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7229a5_ASDZika_IMAGE_21July2023_1200x675.png?_=77962",
+      "publishedAt": "2023-07-20 17:23:39",
+      "content": "Nicole M. Roth, MPH1; Camille Delgado-L\u00f3pez, MPH2,3; Lisa D. Wiggins, PhD4; Nancy Nieves Mu\u00f1oz, EdM2; Sarah B. Mulkey, MD, PhD5,6,7; Leishla Nieves-Ferrer, MS2,3; Kate R. Woodworth, MD1; Glorimar Mel\u2026 [+19372 chars]",
+      "retrievedAt": "2023-07-21 19:05:25.582864",
+      "internal_id": "d0ad2b37a8d2e8176c4dbc21bbfaea831cab0ede180814f77f31bdbc8edfdc33",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 521,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "Malaria Vaccines Are Finally Here: The Top Shots And What\u2019s On The Horizon Next",
+      "description": "There are now two shots authorized for use against the mosquito-borne scourge, though companies like BioNTech and Moderna are hoping to compete using the same mRNA technology behind their successful Covid vaccines.",
+      "url": "https://www.forbes.com/sites/roberthart/2023/07/20/malaria-vaccines-are-finally-here-the-top-shots-and-whats-on-the-horizon-next/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64b9594e6f190dd475bd34f2/0x0.jpg?format=jpg&crop=2322,1305,x0,y115,safe&width=1200",
+      "publishedAt": "2023-07-20 15:57:54",
+      "content": "While researchers have spent decades searching for malaria vaccines, only two have ever been authorized, a situation many scientists hope to change as they race to leverage new technology against one\u2026 [+6384 chars]",
+      "retrievedAt": "2023-07-21 19:05:25.341836",
+      "internal_id": "2192531834b3dd3d30cdd74da5e9fc067cf8ec4c61c8d6103c7b723399e78577",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 513,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Casos de dengue disparam nas Am\u00e9ricas; Brasil responde por quase 80%",
+      "description": "No Brasil, os n\u00fameros da dengue em 2023 representam um aumento de mais de 70% na compara\u00e7\u00e3o com a m\u00e9dia dos \u00faltimos cinco anos O post Casos de dengue disparam nas Am\u00e9ricas; Brasil responde por quase 80% apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/07/20/medicina-e-saude/casos-de-dengue-disparam-nas-americas-brasil-responde-por-quase-80/",
+      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/05/Destaque-dengue.jpg",
+      "publishedAt": "2023-07-20 15:39:41",
+      "content": "O n\u00c3\u00bamero de casos de dengue nas Am\u00c3\u00a9ricas atingiu a marca de 2,9 milh\u00c3\u00b5es, entre confirmados e suspeitos, no primeiro semestre deste ano. A marca supera o total do ano passado, quando 2,8 milh\u00c3\u00b5es d\u2026 [+2640 chars]",
+      "retrievedAt": "2023-07-21 19:05:24.499003",
+      "internal_id": "e4ab925af60511ed765ec73600de426229b30a527e542cab5be0f953a042d9a5",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 511,
+      "query": [
+        "measles",
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Press release: Essential summer health tips for travellers going abroad",
+      "description": "The UK Health Security Agency (UKHSA) is reminding summer travellers of simple steps to reduce their risk of common infections when travelling abroad.",
+      "url": "https://www.gov.uk/government/news/essential-summer-health-tips-for-travellers-going-abroad",
+      "urlToImage": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/191174/s960_Deckchairs_secluded_beach.jpg",
+      "publishedAt": "2023-07-20 15:21:36",
+      "content": "Most travellers have a healthy and safe trip, however, we do see various infections in returning travellers such as: diarrhoeal illnessmeaslesmalariadengue<li\u2026 [+6162 chars]",
+      "retrievedAt": "2023-07-21 19:05:24.189557",
+      "internal_id": "2c1f3d43067ee604f9f696ece65eeb6e90b37b00b95eadb45451b5063b1558f2",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 516,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Tenerife Ahora",
+      "title": "Halladas chuchangas gigantes africanas en Tenerife, una peligrosa especie invasora que puede transmitir meningitis",
+      "description": "El pasado mi\u00e9rcoles fue detectada la chuchanga gigante africana en tres sitios de la isla de Tenerife. La lissachatina fulica est\u00e1 catalogada por la Uni\u00f3n Internacional para la Conservaci\u00f3n de la Naturaleza (UICN) como una de las 100 especies invasoras m\u00e1s pe\u2026",
+      "url": "https://www.eldiario.es/canariasahora/tenerife-ahora/chuchangas-gigantes-africanas-tenerife-peligrosa-especie-invasora-transmitir-meningitis_1_10395053.html",
+      "urlToImage": "https://static.eldiario.es/clip/5cf2823d-dd10-460b-8e0d-1edf0b4e1c35_16-9-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-07-20 15:02:26",
+      "content": "El pasado mi\u00e9rcoles fue detectada la chuchanga gigante africana en tres sitios de la isla de Tenerife. La lissachatina fulica est\u00e1 catalogada por la Uni\u00f3n Internacional para la Conservaci\u00f3n de la Nat\u2026 [+3215 chars]",
+      "retrievedAt": "2023-07-21 19:05:24.844549",
+      "internal_id": "86591c55664994f73058b699e19ef967ccb94e3c0866a18b99c7605aa2362526",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 517,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Tenerife Ahora",
+      "title": "Halladas varias chuchangas gigantes africanas en Tenerife, una peligrosa especie invasora que puede transmitir la meningitis",
+      "description": "El pasado mi\u00e9rcoles fue detectada la chuchanga gigante africana en tres sitios diferentes de la isla de Tenerife. La lissachatina fulica est\u00e1 catalogada por la Uni\u00f3n Internacional para la Conservaci\u00f3n de la Naturaleza (UICN) como una de las 100 especies invas\u2026",
+      "url": "https://www.eldiario.es/canariasahora/tenerife-ahora/halladas-chuchangas-gigantes-africanas-tenerife-peligrosa-especie-invasora-transmitir-meningitis_1_10395053.html",
+      "urlToImage": "https://static.eldiario.es/clip/7dae1b20-19f3-46b7-8111-38e09ed0b666_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-07-20 15:02:26",
+      "content": "El pasado mi\u00e9rcoles fue detectada la chuchanga gigante africana en tres sitios diferentes de la isla de Tenerife. La lissachatina fulica est\u00e1 catalogada por la Uni\u00f3n Internacional para la Conservaci\u00f3\u2026 [+3225 chars]",
+      "retrievedAt": "2023-07-21 19:05:24.847457",
+      "internal_id": "3f5bca8ba4322ebd9a96ea7976120acb248021fdfa56569c7bac4fdb6105cd31",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 514,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "TASR",
+      "title": "Chorv\u00e1tsko bojuje proti invaz\u00edvnym \u00e1zijsk\u00fdm kom\u00e1rom nezvy\u010dajne. Vyp\u00fa\u0161\u0165an\u00edm neplodn\u00fdch jedincov",
+      "description": "\u00c1zijsk\u00fd kom\u00e1r tigrovan\u00fd je pren\u00e1\u0161a\u010dom chor\u00f4b ako hor\u00fa\u010dka dengue \u010di v\u00edrusov zika a chikungunya.",
+      "url": "https://spravy.pravda.sk/svet/clanok/675351-chorvatsko-bojuje-proti-invazivnym-azijskym-komarom-nezvycajne-vypustanim-neplodnych-jedincov/",
+      "urlToImage": "http://ipravda.sk/res/2020/08/21/thumbs/komar-clanokW.jpg",
+      "publishedAt": "2023-07-20 14:06:00",
+      "content": "\u00darady v chorv\u00e1tskom hlavnom meste Z\u00e1hreb sa snaia bojova proti invaz\u00edvnym \u00e1zijsk\u00fdm kom\u00e1rom nezvyajn\u00fdm sp\u00f4sobom. Rozhodli sa toti poas leta vypusti dovedna 100-tis\u00edc kom\u00e1r\u00edch samcov bez reproduknej sc\u2026 [+1158 chars]",
+      "retrievedAt": "2023-07-21 19:05:24.504889",
+      "internal_id": "10496fa90f41ebc930421cd37796f2f5639c6c3c0a4eff4b89d527c26656adb5",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 525,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jenni A. Hayward, F. Victor Makota, Daniela Cihalova, Rachel A. Leonard, Esther Rajendran, Soraya M. Zwahlen, Laura Shuttleworth, Ursula Wiedemann, Christina Spry, Kevin J. Saliba, Alexander G. Maier, Giel G. van Dooren",
+      "title": "A screen of drug-like molecules identifies chemically diverse electron transport chain inhibitors in apicomplexan parasites",
+      "description": "Author summary Apicomplexan parasites impart major health and economic burdens on human societies. Treatment options against these parasites, which include the causative agents of toxoplasmosis (Toxoplasma gondii) and malaria (Plasmodium spp.), are limited. T\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011517",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011517.g010&size=inline",
+      "publishedAt": "2023-07-20 14:00:00",
+      "content": "Citation: Hayward JA, Makota FV, Cihalova D, Leonard RA, Rajendran E, Zwahlen SM, et al. (2023) A screen of drug-like molecules identifies chemically diverse electron transport chain inhibitors in ap\u2026 [+104472 chars]",
+      "retrievedAt": "2023-07-21 19:05:25.354223",
+      "internal_id": "0c5ad87c7780d1719b80858023b9c8b75dae3d83b123243cbb6a42a9fa70e0d3",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 524,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "WBUR",
+      "author": "WBUR",
+      "title": "Malaria cases in the U.S. hit 8",
+      "description": "In Florida, another case of malaria has been reported, bringing the total in the U.S. to 8 since May. It\u2019s the first time people have acquired the disease in the U.S. in more than two decades, though experts don\u2019t expect this to become a widespread outbreak. \u2026",
+      "url": "https://www.wbur.org/hereandnow/2023/07/20/us-malaria-cases",
+      "urlToImage": "https://wordpress.wbur.org/wp-content/uploads/2023/07/AP23177804052450-1000x669.jpg",
+      "publishedAt": "2023-07-20 13:52:00",
+      "content": "In Florida, another case of malaria has been reported, bringing the total in the U.S. to 8 since May. It's the first time people have acquired the disease in the U.S. in more than two decades, though\u2026 [+242 chars]",
+      "retrievedAt": "2023-07-21 19:05:25.348466",
+      "internal_id": "f0ddf3f2aefdef06d397b18136df2b6a85a34f20e89a2913e78f24e4c7c88495",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 519,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Suzanne Nuyen",
+      "title": "Up First briefing: Climate-conscious buildings; Texas abortion bans; GMO mosquitoes",
+      "description": "It's time for infrastructure to take climate change into account. Texas' abortion bans are in court today. Scientists want to genetically modify mosquitos to help fight malaria.",
+      "url": "https://www.npr.org/2023/07/20/1188881429/up-first-briefing-climate-change-texas-abortion-ban-mosquitoes-malaria",
+      "urlToImage": "https://media.npr.org/assets/img/2023/07/20/ap22341489459602_wide-01e553b94781a6307b5a292aebea1277df8af976-s1400-c100.jpg",
+      "publishedAt": "2023-07-20 12:01:52",
+      "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day. Today's top st\u2026 [+5781 chars]",
+      "retrievedAt": "2023-07-21 19:05:25.336939",
+      "internal_id": "5715a97defb8cd019065e98e3ee5023bfe6d1b0301878b3efe06fbc296567083",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 510,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Standforhealthfreedom.com",
+      "author": "Standforhealthfreedom",
+      "title": "Shining a light on pertussis & DPT | Stand for Health Freedom",
+      "description": "Shining a light on pertussis & DPT | Stand for Health Freedomstandforhealthfreedom.com",
+      "url": "https://standforhealthfreedom.com/blog/pertussis/",
+      "urlToImage": "https://standforhealthfreedom.com/storage/2023/07/Shot_article_Rankmath-2.png",
+      "publishedAt": "2023-07-20 11:32:38",
+      "content": "Fear is a powerful motivator. Governments know it. Marketers know it. But most people underestimate its potency. Interestingly, theres a class action lawsuit in federal court right now claiming this \u2026 [+6565 chars]",
+      "retrievedAt": "2023-07-21 19:05:23.364131",
+      "internal_id": "1d4266f7a6de8cfe9b7e82897af71c240464eef529e09b9f7bc8827b6cd55482",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 520,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Grist",
+      "author": "Mary Katherine Wildeman",
+      "title": "Mosquitos are moving to higher elevations \u2014 and so is malaria",
+      "description": "Climate change is driving mosquitoes to new heights, bringing the bugs, and the diseases they carry, to newly vulnerable populations.",
+      "url": "http://grist.org/health/mosquitoes-diseases-malaria-climate-change/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2023/07/mosquito-illustration.jpeg",
+      "publishedAt": "2023-07-20 10:45:00",
+      "content": "Climate Connections is a collaboration between Grist and the Associated Press that explores how a changing climate is accelerating the spread of infectious diseases around the world, and how mitigati\u2026 [+5776 chars]",
+      "retrievedAt": "2023-07-21 19:05:25.339151",
+      "internal_id": "60aa6fc3233e4b94410faa3828a1f06c604b7719f24bf6f66b64d23ff59866ec",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 512,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slate.fr",
+      "author": "Yannick Simonin",
+      "title": "Le virus de la dengue devient-il une nouvelle normalit\u00e9 en France m\u00e9tropolitaine?",
+      "description": "Le nombre de cas de dengue contract\u00e9s a explos\u00e9 en 2022. Cette ann\u00e9e restera-t-elle exceptionnelle, ou bien faut-il s'inqui\u00e9ter pour celles \u00e0 venir? Lire la suite",
+      "url": "https://www.slate.fr/story/250588/virus-dengue-france-metropolitaine-record-cas-transmission-moustique-tigre-arbovirus-maladies",
+      "urlToImage": "https://www.slate.fr/sites/default/files/styles/1200x680/public/afp.com-20200611-partners-080-hl_slapeyrere_1154235-highres.jpg",
+      "publishedAt": "2023-07-20 10:03:00",
+      "content": "Temps de lecture: 5 min De l'avis de tous les sp\u00e9cialistes, l'ann\u00e9e 2022 a \u00e9t\u00e9 \u00abexceptionnelle\u00bb en France m\u00e9tropolitaine sur le front de la circulation des arbovirus, ces virus transmis par les arth\u2026 [+7889 chars]",
+      "retrievedAt": "2023-07-21 19:05:24.497156",
+      "internal_id": "50f316523a4938cc942184217ba0a6dc87a2b7a69893a93b9c58aacc7ba6ef0c",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 515,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Zee Media Bureau",
+      "title": "Coconut Water Health Benefits: 7 Reasons Why You Should Add This Drink To Your Breakfast",
+      "description": "Waterborne Disease: 8 Early Signs And Symptoms of Dengue You Should NOT Ignore Here Are 7 Potential Health Benefits Of Adding Coconut Water To Your Morning Meal: Hydration Coconut water is a natural electrolyte-rich drink, containing essential minerals like p\u2026",
+      "url": "https://zeenews.india.com/health/coconut-water-health-benefits-7-reasons-why-you-should-add-this-drink-to-your-breakfast-2637884",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/07/20/1244998-coconut.jpg",
+      "publishedAt": "2023-07-20 09:15:00",
+      "content": "In recent years, health-conscious individuals have sought natural and nutrient-rich beverages to kick-start their mornings. Among these rising stars is coconut water, a refreshing and hydrating elixi\u2026 [+2708 chars]",
+      "retrievedAt": "2023-07-21 19:05:24.509667",
+      "internal_id": "deba254b359a7b5ddf7e1bdb5af79c41c60f2d979f7f7085e3dd3c8cf86f12b6",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 522,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Geoff Brumfiel",
+      "title": "Mosquitoes spread malaria. These researchers want them to fight it instead",
+      "description": "Scientists have used a gene-editing technique to make mosquitos allies in the fight against malaria. Environmentalists are troubled by the idea of genetically modifying wild animals.",
+      "url": "https://www.npr.org/sections/goatsandsoda/2023/07/20/1188631213/mosquitoes-spread-malaria-these-researchers-want-them-to-fight-it-instead",
+      "urlToImage": "https://media.npr.org/assets/img/2023/07/19/ap22301696572084_wide-e3cd48055faa4541ef9f987dccad2371ad55e317-s1400-c100.jpg",
+      "publishedAt": "2023-07-20 09:03:15",
+      "content": "Mosquitoes spread malaria. Now researchers hope that a gene drive technology could turn them into malaria fighters. Although not every scientist thinks it's a good idea to genetically modify a wild a\u2026 [+3376 chars]",
+      "retrievedAt": "2023-07-21 19:05:25.343826",
+      "internal_id": "38d8a15e0ae7d9181e27e4ea8937f3552ad906cccfd1a0fbac62fb17f7467518",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 518,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Sergi Alcalde, Sergi Alcalde",
+      "title": "Un peligroso caracol transmisor de meningitis",
+      "description": "El caracol gigante africano (Liissachatina fulica) es igual de nocivo que voluminoso, tanto por su efecto devastador sobre la agricultura como por su gran voracidad. Adem\u00e1s, es portador de pat\u00f3genos que afectan a los cultivos y transmisor de par\u00e1sitos muy pel\u2026",
+      "url": "https://www.nationalgeographic.com.es/mundo-animal/detectado-tenerife-caracol-gigante-que-puede-transmitir-meningitis_20392",
+      "urlToImage": "https://www.nationalgeographic.com.es/medio/2023/07/18/shutterstock-64912165_95f3916d_230718082322_1200x630.jpg",
+      "publishedAt": "2023-07-20 08:00:00",
+      "content": "El caracol gigante africano (Liissachatina fulica) es igual de nocivo que voluminoso, tanto por su efecto devastador sobre la agricultura como por su gran voracidad. Adem\u00e1s, es portador de pat\u00f3genos \u2026 [+5945 chars]",
+      "retrievedAt": "2023-07-21 19:05:24.849198",
+      "internal_id": "72720688d4cb3c8ac338b8c08e532c11c521ede7a35e3769859a955bc8f6d6c7",
+      "publishedAtLabel": "Jul 20"
+    },
     {
       "id": 503,
       "query": [
@@ -3311,312 +3621,6 @@
       "content": "Plus de 425 cas de dengue ont \u00e9t\u00e9 enregistr\u00e9s en Guadeloupe depuis janvier 2023, a indiqu\u00e9 mercredi l\u2019Agence r\u00e9gionale de sant\u00e9 (ARS) locale, qui alerte sur une \u00ab \u00e9mergence de foyers \u00bb du virus \u00e0 \u00ab c\u2026 [+2191 chars]",
       "retrievedAt": "2023-07-15 07:05:31.352130",
       "internal_id": "cc106a355be02ecf2f1d105a7e96a31ed8dfe92741489ada35fc84f4936e72fb",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 321,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Le Monde avec AFP",
-      "title": "Guadeloupe : l\u2019\u00e9mergence de foyers de dengue \u00ab \u00e0 caract\u00e8re expansif \u00bb alerte les autorit\u00e9s sanitaires",
-      "description": "Selon l\u2019ARS, \u00ab l\u2019augmentation r\u00e9guli\u00e8re du nombre de cas signal\u00e9s est constat\u00e9e chaque semaine depuis avril \u00bb. Certains cas ont \u00ab occasionn\u00e9 plusieurs passages aux urgences adultes et p\u00e9diatriques \u00bb, ajoute l\u2019organisme de sant\u00e9.",
-      "url": "https://www.lemonde.fr/outre-mer/article/2023/07/13/guadeloupe-l-emergence-de-foyers-de-dengue-a-caractere-expansif-alerte-les-autorites-sanitaires_6181727_1840826.html",
-      "urlToImage": "https://img.lemde.fr/2023/06/21/0/0/3543/2362/1440/960/60/0/1e8dba6_1687325262939-mg-5970.jpg",
-      "publishedAt": "2023-07-12 22:50:38",
-      "content": "Un moustique Tigre pris au pi\u00e8ge dune carte adh\u00e9sive. Le 4 mai 2023. REMY ARTIGES POUR \u00ab LE MONDE \u00bb Plus de 425 cas de dengue ont \u00e9t\u00e9 enregistr\u00e9s en Guadeloupe depuis janvier 2023, a indiqu\u00e9 mercred\u2026 [+1533 chars]",
-      "retrievedAt": "2023-07-14 07:05:50.381640",
-      "internal_id": "46a8005e5717ca70dde0908e2faf1a6d835c9237c980c4fb6ade522a8a2091b6",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 328,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Wonkette.com",
-      "author": "Doktor Zoom",
-      "title": "Florida ... Malaria ... FLALARIA!",
-      "description": "Federal health officials are keeping an eye on what seems to be an itty-bitty outbreak of malaria in Florida (six cases) and in Texas (one case), although the US Centers for Disease Control notice is careful to point out there's \"no evidence to suggest that t\u2026",
-      "url": "https://www.wonkette.com/florida-malaria-flalaria",
-      "urlToImage": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zNDMxOTcxOC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTcxMDA5NjY5Nn0.VwvwukEq7X5-Ozb2dub7IO7u4hi9UpWUAuAFCtrQ0YM/img.jpg?width=1200&height=600&coordinates=0%2C0%2C0%2C128",
-      "publishedAt": "2023-07-12 20:20:00",
-      "content": "Federal health officials are keeping an eye on what seems to be an itty-bitty outbreak of malaria in Florida (six cases) and in Texas (one case), although the US Centers for Disease Control notice is\u2026 [+5701 chars]",
-      "retrievedAt": "2023-07-14 07:05:50.897292",
-      "internal_id": "c0a6a5120f09220058bbba6cbd515b8bb28f44426fbc8c626736bf1018af749a",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 324,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Meneame.net",
-      "author": "trasier",
-      "title": "Una ni\u00f1a de seis a\u00f1os muere aplastada en un elevador del IMSS en Playa del Carmen | EL PA\u00cdS M\u00e9xico",
-      "description": "El accidente sucedi\u00f3 en la noche de este lunes cuando la peque\u00f1a era trasladada al \u00e1rea de hospitalizaci\u00f3n por un caso de dengue. Los reportes preliminares apuntan a que el elevador empez\u00f3 a subir con las puertas abiertas cuando la camilla en la que era trans\u2026",
-      "url": "https://www.meneame.net/m/actualidad/nina-seis-anos-muere-aplastada-elevador-imss-playa-carmen-pais",
-      "urlToImage": null,
-      "publishedAt": "2023-07-12 19:42:18",
-      "content": "Mira, la ni\u00f1a si, ha fallecido, pero la carga que le va a quedar a los que la met\u00edan en el montacargas, y a los padres... tiene que ser horrible",
-      "retrievedAt": "2023-07-14 07:05:50.396035",
-      "internal_id": "106e47522a7dc0c05672a060c98d5e9b3d984e46bf515b54b4cbdff5d793d2b6",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 316,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "new-scientist",
-      "source_name": "New Scientist",
-      "author": "Jason Arunn Murugesu",
-      "title": "Malaria vaccine shows promise against relapsing form of the disease",
-      "description": "A vaccine induced an immune response against the malaria parasite Plasmodium vivax, which can remain dormant in the body and cause a relapse of symptoms",
-      "url": "https://www.newscientist.com/article/2382295-malaria-vaccine-shows-promise-against-relapsing-form-of-the-disease/",
-      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/07/12154540/SEI_163798755.jpg",
-      "publishedAt": "2023-07-12 19:00:18",
-      "content": "An Anopheles mosquito, which can transmit malaria parasites, including Plasmodium vivax BIOSPHOTO/Alamy An experimental vaccine that targets a malaria parasite behind a relapsing form of the diseas\u2026 [+3244 chars]",
-      "retrievedAt": "2023-07-13 19:05:15.539258",
-      "internal_id": "97da37bd91d6155da64cec3009a1462bbb4c29efb249cbfe7e0f74c8328f1d12",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 392,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Japan\u2019s Takeda pulls dengue vaccine candidate in US",
-      "description": "Japanese pharma firm Takeda is voluntarily withdrawing its application for approval of a dengue vaccine candidate in the United States, citing \u201cdata collection\u201d issues. The decision, announced by the company in the United States on Tuesday evening, comes desp\u2026",
-      "url": "https://sylhetmirror.com/2023/07/12/japans-takeda-pulls-dengue-vaccine-candidate-in-us/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/cWUc.jpg",
-      "publishedAt": "2023-07-12 17:05:58",
-      "content": "Japanese pharma firm Takeda is voluntarily withdrawing its application for approval of a dengue vaccine candidate in the United States, citing \u201cdata collection\u201d issues. The decision, announced by th\u2026 [+1297 chars]",
-      "retrievedAt": "2023-07-16 07:05:40.669145",
-      "internal_id": "2efc5e6b3cc4d6c18e2824cd580509c902eceaffd44f0d55cecd94aa57876a8c",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 319,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Harvard School of Engineering and Applied Sciences",
-      "author": "Jay Lau",
-      "title": "Why are we seeing new malaria cases in the U.S.?",
-      "description": "The Centers for Disease Control and Prevention recently reported several cases of locally acquired malaria in Florida and Texas\u2014the first such cases in the U.S. in over two decades. Manoj Duraisingh explains the significance of the cases and how individuals a\u2026",
-      "url": "https://www.hsph.harvard.edu/news/features/new-malaria-cases-in-the-u-s-manoj-duraisingh/",
-      "urlToImage": "https://www.hsph.harvard.edu/news/wp-content/uploads/sites/21/2023/07/Manoj_Duraisingh_big3.jpg",
-      "publishedAt": "2023-07-12 16:27:30",
-      "content": "July 12, 2023 On June 26, the Centers for Disease Control and Prevention reported several cases of locally acquired malaria in Florida and Texas, meaning that patients were infected within the U.S.th\u2026 [+5179 chars]",
-      "retrievedAt": "2023-07-13 19:05:15.547208",
-      "internal_id": "d382db8f34e8b7e707dd2bcf0de7bec21010cb11c937395e647b05053f5ab756",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 315,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "el-mundo",
-      "source_name": "El Mundo",
-      "author": "TERESA GUERRERO",
-      "title": "David Baker, el cient\u00edfico que inventa nuevas prote\u00ednas: \"Estamos desarrollando esprays nasales que nos protejan de cualquier virus\"",
-      "description": "Vacunas contra el coronavirus o la malaria, f\u00e1rmacos contra el c\u00e1ncer sin efectos secundarios... Con la inteligencia artificial como aliada, el bioqu\u00edmico de la Universidad de Washington, premio Fronteras FBBVA, desarrolla prote\u00ednas a la carta para crear solu\u2026",
-      "url": "https://www.elmundo.es/papel/el-mundo-que-viene/2023/07/12/64a6a925e4d4d8335a8b4585.html",
-      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/4ab41951ddbee7a5b275aa86d5fe1c71/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/07/16887399118338.jpg",
-      "publishedAt": "2023-07-12 14:03:54",
-      "content": "Vacunas contra el coronavirus o la malaria, f\u00e1rmacos contra el c\u00e1ncer sin efectos secundarios... Con la inteligencia artificial como aliada, el bioqu\u00edmico de la Universidad de Washington, premio Fron\u2026 [+99 chars]",
-      "retrievedAt": "2023-07-13 19:05:15.537705",
-      "internal_id": "2eaccf8bcb00d691e757cfa221f9f9a82bb47e0740e4c0cbd27c110e3a27e71c",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 313,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Viswanath Pilla",
-      "title": "Serum Institute's multivalent meningococcal meningitis vaccine gets WHO prequalification",
-      "description": "The Serum Institute of India (SII), world's largest vaccine maker by volumes on Wednesday said its vaccine to protect against the five predominant causes of meningococcal meningitis in Africa has been prequalified by the World Health Organisation (WHO), makin\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/serum-institutes-multivalent-meningococcal-meningitis-vaccine-gets-who-prequalification/articleshow/101703126.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-101703128,width-1070,height-580,imgsize-55698,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-07-12 13:42:30",
-      "content": "The Serum Institute of India (SII), world's largest vaccine maker by volumes on Wednesday said its vaccine to protect against the five predominant causes of meningococcal meningitis in Africa has bee\u2026 [+2179 chars]",
-      "retrievedAt": "2023-07-13 19:05:15.024062",
-      "internal_id": "897189227b20b5329c0d2a0b42fcb101e8d39458d06b06e4ee16d60ec8597239",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 310,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Serum Institute's multivalent meningococcal meningitis vaccine gets WHO prequalification - Economic Times",
-      "description": "Serum Institute's multivalent meningococcal meningitis vaccine gets WHO prequalification Economic TimesView Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMivQFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vaW5kdXN0cnkvaGVhbHRoY2FyZS9iaW90ZWNoL2hlYWx0aGNhcmUvc2VydW0taW5zdGl0dXRlcy1tdWx0aXZhbGVudC1tZW5pbmdvY29jY2FsLW1lbmluZ2l0aXMtdmFjY2luZS1nZXRzLXdoby1wcmVxdWFsaWZpY2F0aW9uL2FydGljbGVzaG93LzEwMTcwMzEyNi5jbXPSAbgBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL2luZHVzdHJ5L2hlYWx0aGNhcmUvYmlvdGVjaC9oZWFsdGhjYXJlL3NlcnVtLWluc3RpdHV0ZXMtbXVsdGl2YWxlbnQtbWVuaW5nb2NvY2NhbC1tZW5pbmdpdGlzLXZhY2NpbmUtZ2V0cy13aG8tcHJlcXVhbGlmaWNhdGlvbi9hbXBfYXJ0aWNsZXNob3cvMTAxNzAzMTI2LmNtcw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-12 13:42:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-13 19:05:15.019364",
-      "internal_id": "92991a889e8fe1f93b3544aeba169ea07c954aa76940f9cb83b6239e1980fb81",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 311,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "SII vaccine for deadly meningitis gets WHO nod on quality & safety, can now be procured by UN - ThePrint",
-      "description": "SII vaccine for deadly meningitis gets WHO nod on quality & safety, can now be procured by UN ThePrintView Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifmh0dHBzOi8vdGhlcHJpbnQuaW4vaGVhbHRoL3NpaS12YWNjaW5lLWZvci1kZWFkbHktbWVuaW5naXRpcy1nZXRzLXdoby1ub2Qtb24tcXVhbGl0eS1zYWZldHktY2FuLW5vdy1iZS1wcm9jdXJlZC1ieS11bi8xNjY2NDQ0L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-12 13:36:41",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-13 19:05:15.020811",
-      "internal_id": "fbc35c21311b5cfea55f250fd42664d044b58dc2deabff3207f2611c91db72f4",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 307,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "Aristos Georgiou",
-      "title": "Six-Year-Old Girl With Dengue Fever Crushed to Death in Hospital Elevator",
-      "description": "Prior to the accident, a problem with the elevator had been reported and a technician had come to repair it.",
-      "url": "https://www.newsweek.com/six-year-old-girl-dengue-fever-crushed-death-hospital-elevator-1812441",
-      "urlToImage": "https://d.newsweek.com/en/full/2256572/doctors-pushing-patient-gurney.jpg",
-      "publishedAt": "2023-07-12 13:28:46",
-      "content": "A six-year-old girl has been crushed to death in an elevator accident at a hospital in the Mexican coastal resort of Playa del Carmen. The girl had been hospitalized at the medical facility sufferin\u2026 [+2390 chars]",
-      "retrievedAt": "2023-07-13 19:05:14.793172",
-      "internal_id": "41f7030bb329be53bbba4b88e567cf50d9a01499e8640b14a2627a301d43555b",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 317,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Uganda: Uganda to Get First-Ever Malaria Vaccine",
-      "description": "[Independent (Kampala)] Kampala -- In response to high demand for the first-ever malaria vaccine, Uganda has been listed among 12 countries in Africa that will be allocated a total of 18 million doses of RTS,S/AS01 for the 2023-2025 period.",
-      "url": "https://allafrica.com/stories/202307120499.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-12 12:48:32",
-      "content": "Kampala \u2014 In response to high demand for the first-ever malaria vaccine, Uganda has been listed among 12 countries in Africa that will be allocated a total of 18 million doses of RTS,S/AS01 for the 2\u2026 [+8962 chars]",
-      "retrievedAt": "2023-07-13 19:05:15.544010",
-      "internal_id": "719f9a849d348d110ef0d833c8e555238dc5d7e0e7e7daf4e171d45e1ec9a32c",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 312,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Business Today",
-      "author": "Neetu Chandra Sharma",
-      "title": "WHO prequalifies meningococcal meningitis vaccine developed by Serum Institute and PATH",
-      "description": "Meningococcal meningitis is a rapidly progressing bacterial infection that can prove fatal within hours, with a fatality rate of 50% if left untreated",
-      "url": "https://www.businesstoday.in/latest/in-focus/story/who-prequalifies-meningococcal-meningitis-vaccine-developed-by-serum-institute-and-path-389441-2023-07-12",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202307/priya_raghuvanshi_bi_74-sixteen_nine.png",
-      "publishedAt": "2023-07-12 12:30:20",
-      "content": "The World Health Organization (WHO) has prequalified the first conjugate vaccine against meningococcal meningitis named MenFive. Developed by Pune-based Serum Institute of India in a 13-year collabor\u2026 [+3786 chars]",
-      "retrievedAt": "2023-07-13 19:05:15.022791",
-      "internal_id": "55a35b88e7a7b72107a3fa67473b96d42b20dc42c88d165ec8327c28222df840",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 309,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "SII\u2019s multivalent meningococcal meningitis vaccine gets WHO prequalification - Hindustan Times",
-      "description": "SII\u2019s multivalent meningococcal meningitis vaccine gets WHO prequalification Hindustan Times",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9zZXJ1bS1pbnN0aXR1dGUtb2YtaW5kaWEtcy1tZW5maXZlLXZhY2NpbmUtcHJlcXVhbGlmaWVkLWJ5LXdoby10by1wcm90ZWN0LWFnYWluc3QtbWVuaW5nb2NvY2NhbC1tZW5pbmdpdGlzLWluLWFmcmljYS0xMDE2ODkxNjQ5OTI3NjcuaHRtbNIBtwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9zZXJ1bS1pbnN0aXR1dGUtb2YtaW5kaWEtcy1tZW5maXZlLXZhY2NpbmUtcHJlcXVhbGlmaWVkLWJ5LXdoby10by1wcm90ZWN0LWFnYWluc3QtbWVuaW5nb2NvY2NhbC1tZW5pbmdpdGlzLWluLWFmcmljYS0xMDE2ODkxNjQ5OTI3NjctYW1wLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-12 12:29:52",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-13 19:05:15.017812",
-      "internal_id": "7113accfc751cfb5af7805c6cc189450777fcad8deaeb615d2282bd5c8ea2208",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 314,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "usa-today",
-      "source_name": "USA Today",
-      "author": "USA TODAY, Carlie Procell and Janet Loehrke, USA TODAY",
-      "title": "Malaria cases in the US are on the rise: Your visual guide to symptoms and prevention",
-      "description": "Maps and graphics show the states with confirmed cases of malaria in the U.S. and how the disease is transmitted.",
-      "url": "https://www.usatoday.com/story/graphics/2023/07/12/malaria-cases-florida-texas-explained/70400044007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/11/USAT/19fdffb1-37e9-40ad-bad4-b2e6b03ea42c-usat-graphics-Malaria-US-topper.png?crop=3158,1777,x209,y95&width=3158&height=1777&format=pjpg&auto=webp",
-      "publishedAt": "2023-07-12 11:57:23",
-      "content": "At least seven cases of locally acquired malaria have been reported in the U.S. over the past two months, the first time the disease has had a local spread in 20 years. A public health alert was iss\u2026 [+3859 chars]",
-      "retrievedAt": "2023-07-13 19:05:15.535299",
-      "internal_id": "b15c235b065d158c00558410e67ca0714bbb3aacfd6101d276fb8295a1632a71",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 305,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "RSN MURALI",
-      "title": "Dengue cases in Melaka up compared to same period last year",
-      "description": "MELAKA: Melaka has recorded 265 dengue fever cases from Jan 1 to July 8 this year, which is four cases more than the 261 recorded over the corresponding period in 2022, says Ngwe Hee Sem. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/07/12/dengue-cases-in-melaka-up-compared-to-same-period-last-year",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/12/2174094.jpg",
-      "publishedAt": "2023-07-12 11:45:00",
-      "content": "MELAKA: Melaka has recorded 265 dengue fever cases from Jan 1 to July 8 this year, which is four cases more than the 261 recorded over the corresponding period in 2022, says Ngwe Hee Sem. The Melaka\u2026 [+868 chars]",
-      "retrievedAt": "2023-07-13 19:05:14.788145",
-      "internal_id": "be593a9115afd3437cda8764f49a74c0d0897d71c9804fba125a9a0075e3f621",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 346,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "\u09b8\u09be\u09a6\u09c0 \u09ae\u09c1\u09b9\u09be\u09ae\u09cd\u09ae\u09be\u09a6 \u0986\u09b2\u09cb\u0995",
-      "title": "\u2018\u09a4\u09b2\u09cd\u09b2\u09be\u09b6\u09bf\u09b0 \u09a8\u09be\u09ae\u09c7 \u09ae\u09be\u09a8\u09c1\u09b7\u09c7\u09b0 \u09ae\u09cb\u09ac\u09be\u0987\u09b2 \u09ab\u09cb\u09a8 \u099a\u09c7\u0995 \u0995\u09b0\u09be \u0997\u09a3\u09b9\u09df\u09b0\u09be\u09a8\u09bf\u2019",
-      "description": "\u2018\u09a4\u09b2\u09cd\u09b2\u09be\u09b6\u09bf\u09b0 \u09a8\u09be\u09ae\u09c7 \u09ae\u09be\u09a8\u09c1\u09b7\u09c7\u09b0 \u09ae\u09cb\u09ac\u09be\u0987\u09b2 \u09ab\u09cb\u09a8 \u099a\u09c7\u0995 \u0995\u09b0\u09be \u0997\u09a3\u09b9\u09df\u09b0\u09be\u09a8\u09bf\u2019thedailystar.net",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/news-495871",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/12/moile_phone_check-01.jpg",
-      "publishedAt": "2023-07-12 11:05:21",
-      "content": "Patients from now on can get their dengue tests at Tk 50 instead of Tk 100 in all public hospitals across the country.",
-      "retrievedAt": "2023-07-15 07:05:31.356007",
-      "internal_id": "f48a2fe1787a0a3169efe74d628d13b830ffb3bec8ad948848e44563d468fa90",
       "publishedAtLabel": "Jul 12"
     }
   ]
