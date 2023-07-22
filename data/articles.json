@@ -1,8 +1,548 @@
 {
-  "last_updated": "2023-07-22 07:05",
+  "last_updated": "2023-07-22 19:05",
   "count_articles_total": 299,
-  "count_articles_new": 18,
+  "count_articles_new": 32,
   "articles": [
+    {
+      "id": 569,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Malaria No More",
+      "title": "Malaria No More Applauds the Senate Appropriations Committee\u2019s Approval of the FY24 State, Foreign Operations, and Related Programs Bill",
+      "description": "Washington, DC, July 21, 2023 (GLOBE NEWSWIRE) -- Today, as the Senate Committee on Appropriations approved its FY 2024 State, Foreign Operations, and Related Programs (SFOPS) appropriations bill, Malaria No More CEO Martin Edlund issued the following stateme\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/07/21/2709102/0/en/Malaria-No-More-Applauds-the-Senate-Appropriations-Committee-s-Approval-of-the-FY24-State-Foreign-Operations-and-Related-Programs-Bill.html",
+      "urlToImage": null,
+      "publishedAt": "2023-07-21 18:45:00",
+      "content": "Washington, DC, July 21, 2023 (GLOBE NEWSWIRE) -- Today, as the Senate Committee on Appropriations approved its FY 2024 State, Foreign Operations, and Related Programs (SFOPS) appropriations bill, Ma\u2026 [+2128 chars]",
+      "retrievedAt": "2023-07-22 19:05:02.436905",
+      "internal_id": "5b1e30be0d64ad2437e87dcd9fa5b12e4a72286c96f65fef07405760e9726980",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 566,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Reuters)",
+      "title": "La OMS advierte de riesgo por dengue, el calentamiento global lleva casos a cerca de m\u00e1ximos hist\u00f3ricos",
+      "description": "La OMS indica que las tasas de dengue est\u00e1n aumentando en todo el mundo, y los casos registrados desde 2000 se han multiplicado por ocho, hasta alcanzar los 4,2 millones en 2022.",
+      "url": "https://www.vozdeamerica.com/a/la-oms-advierte-de-riesgo-dengue-calentamiento-global-casos-maximos-hist\u00f3ricos/7190870.html",
+      "urlToImage": "https://gdb.voanews.com/c15bece1-6bfa-43e8-b1a1-62d50aabc320_cx0_cy10_cw0_w1200_r1.jpg",
+      "publishedAt": "2023-07-21 18:24:22",
+      "content": "GINEBRA, SUIZA La Organizaci\u00f3n Mundial de la Salud advirti\u00f3 el viernes que los casos de dengue podr\u00edan acercarse este a\u00f1o a m\u00e1ximos hist\u00f3ricos, en parte debido a que el calentamiento global benefici\u2026 [+2647 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.639827",
+      "internal_id": "c05174f98a5b986828380af9e13987fd579913d61bac8e7c8cba1b619c201c6a",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 561,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue nas Am\u00e9ricas: OMS alerta para n\u00famero de casos no 1\u00b0 semestre",
+      "description": "Brasil registrou 2,3 milh\u00f5es dos 3 milh\u00f5es de notifica\u00e7\u00f5es da doen\u00e7a registradas nos primeiros seis meses de 2023",
+      "url": "https://saude.ig.com.br/2023-07-21/oms-alerta-numero-casos-dengue-americas.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2023-07-21 18:11:59",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) divulgou um relat\u00f3rio onde alerta para o n\u00famero de casos de dengue resgistrados dos pa\u00edses das Am\u00e9ricas no primeiro semestre de 2023. De acordo com a entidade, \u2026 [+1629 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.632405",
+      "internal_id": "eb1ccb67e154f641cac8828da1d9a37829f76e51ce129086f30b95255e2a6986",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 562,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Gefahr durch Dengue-Virus steigt: Tropische Stechm\u00fccken sind auf dem Vormarsch",
+      "description": "Wer im Sommer erkrankt, sollte die Gefahr tropischer Krankheiten im Blick behalten, etwa das Dengue-Virus. Denn tropische Stechm\u00fccken breiten sich aktuell weltweit aus. Auch in europ\u00e4ischen Urlaubsl\u00e4ndern gab es bereits F\u00e4lle.",
+      "url": "https://www.n-tv.de/wissen/Tropische-Stechmuecken-sind-auf-dem-Vormarsch-article24277761.html",
+      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop24277769/8041328756-cImg_16_9-w1200/bcc53f3cc7da7eac24504e7823620d7c.jpg",
+      "publishedAt": "2023-07-21 18:01:52",
+      "content": "Wer im Sommer erkrankt, sollte die Gefahr tropischer Krankheiten im Blick behalten, etwa das Dengue-Virus. Denn tropische Stechm\u00fccken breiten sich aktuell weltweit aus. Auch in europ\u00e4ischen Urlaubsl\u00e4\u2026 [+2448 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.633928",
+      "internal_id": "e3c41a12487659453f74f72323683733f02cd74c37430930c93638318574b2c5",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 564,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nos.nl",
+      "author": null,
+      "title": "WHO: risico op recordaantal dengue-besmettingen door opwarming aarde",
+      "description": "Het aantal gevallen van dengue ofwel knokkelkoorts kan dit jaar wereldwijd een recordhoogte bereiken, deels vanwege klimaatverandering. Daarvoor waarschuwt de Wereldgezondheidsorganisatie (WHO). De opwarming van de aarde is gunstig voor de muggen die de ziekt\u2026",
+      "url": "https://nos.nl/l/2483697",
+      "urlToImage": "https://cdn.nos.nl/image/2023/07/21/989554/1024x576a.jpg",
+      "publishedAt": "2023-07-21 17:50:51",
+      "content": "Het aantal gevallen van dengue ofwel knokkelkoorts kan dit jaar wereldwijd een recordhoogte bereiken, deels vanwege klimaatverandering. Daarvoor waarschuwt de Wereldgezondheidsorganisatie (WHO). De o\u2026 [+2914 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.636532",
+      "internal_id": "b1815ad206740daa90fb8d17a13a9cd0c5ee0cbcde61baf8011dfc5993cb32ec",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 570,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Idean un \"mapamundi\" interactivo de los mosquitos para ayudar a combatir la malaria",
+      "description": "El mapa cuenta con m\u00e1s de medio mill\u00f3n de im\u00e1genes aportadas al sistema por \"cient\u00edficos ciudadanos\u201d.",
+      "url": "https://www.montevideo.com.uy/Salud/Idean-un-mapamundi-interactivo-de-los-mosquitos-para-ayudar-a-combatir-la-malaria-uc860341",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202306/_W933_80/847210.jpeg",
+      "publishedAt": "2023-07-21 17:36:00",
+      "content": "Dos investigadores de Florida han ideado una aplicaci\u00f3n con una suerte de \"mapamundi\" interactivo de la poblaci\u00f3n mundial de mosquitos para ayudar a combatir las enfermedades que transmiten, como \u2026 [+4041 chars]",
+      "retrievedAt": "2023-07-22 19:05:02.440638",
+      "internal_id": "fbc30f43d8379b145fa9c6f817807f0978776275f8516333a51d038359a1c3c6",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 567,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "WHO warns of dengue risk as global warming pushes cases near historic highs - Reuters",
+      "description": "WHO warns of dengue risk as global warming pushes cases near historic highsReuters View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171440164",
+      "urlToImage": null,
+      "publishedAt": "2023-07-21 17:14:16",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.641748",
+      "internal_id": "4e9a3f66201f27d4f937854a88a8f82b081e7a184af90d48ea938e1289afa87f",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 559,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "PankajYadav",
+      "title": "Delhi gov't bans sale of Aspirin, Ibuprofen, Diclofenac drugs amid fears of Dengue outbreak",
+      "description": "NEW DELHI, July 21 (Xinhua) -- The Delhi government on Friday banned the sale of certain drugs, including Aspirin, Ibuprofen and Diclofenac without a doctor's prescription, saying these medicines cause the destruction of platelets in human blood which could b\u2026",
+      "url": "https://www.thestar.com.my/news/world/2023/07/22/delhi-gov039t-bans-sale-of-aspirin-ibuprofen-diclofenac-drugs-amid-fears-of-dengue-outbreak",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-07-21 16:48:00",
+      "content": "NEW DELHI, July 21 (Xinhua) -- The Delhi government on Friday banned the sale of certain drugs, including Aspirin, Ibuprofen and Diclofenac without a doctor's prescription, saying these medicines cau\u2026 [+1105 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.628733",
+      "internal_id": "1a7b622b10da37b12b3f0d4308cf4cb68a762a7fe85a751526c3e4862e882d62",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 553,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue, l'allarme dell'Oms: a rischio met\u00e0 della popolazione mondiale - Sky Tg24",
+      "description": "Dengue, l'allarme dell'Oms: a rischio met\u00e0 della popolazione mondiale Sky Tg24 Oms: 'Met\u00e0 della popolazione mondiale \u00e8 a rischio di Dengue' Agenzia ANSA Dengue, met\u00e0 della popolazione mondiale \u00e8 a rischio Ticinonline \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdGcyNC5za3kuaXQvc2FsdXRlLWUtYmVuZXNzZXJlLzIwMjMvMDcvMjEvZGVuZ3VlLW9tc9IBQGh0dHBzOi8vdGcyNC5za3kuaXQvc2FsdXRlLWUtYmVuZXNzZXJlLzIwMjMvMDcvMjEvZGVuZ3VlLW9tcy9hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-21 15:55:09",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.618716",
+      "internal_id": "3f65442f0d8b5b5dde5a5a8cd44103184704d46ca037d4f64ee007a6d2aaff2c",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 552,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Ivana Leskov\u00e1",
+      "title": "Po\u010det p\u0159\u00edpad\u016f hore\u010dky dengue stoup\u00e1, dal\u0161\u00ed naka\u017een\u00e1 si nemoc p\u0159ivezla z Malediv",
+      "description": "Zat\u00edmco v covidov\u00fdch letech se v \u010desk\u00fdch nemocnic\u00edch vyskytovali pacienti s hore\u010dkou dengue jen v\u00fdjime\u010dn\u011b (loni \u0161est, p\u0159edloni t\u0159i), letos jejich po\u010det op\u011bt v\u00fdrazn\u011b roste. Od za\u010d\u00e1tku ledna do konce \u010dervna jich l\u00e9ka\u0159i eviduj\u00ed ji\u017e 33. A dal\u0161\u00ed p\u0159ib\u00fdvaj\u00ed. Nap\u0159\u00edkl\u2026",
+      "url": "https://www.idnes.cz/zpravy/domaci/horecka-dengue-nemocnice-motol-maledivy.A230721_171858_domaci_tty",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2020/7/JB85141c_10.jpg",
+      "publishedAt": "2023-07-21 15:36:00",
+      "content": "Letos je to zat\u00edm n\u00e1 druh\u00fd pacient s potvrzenou n\u00e1kazou dengue, \u00edk\u00e1 Milan Troj\u00e1nek, pednosta Kliniky infekn\u00edch nemoc\u00ed a cestovn\u00ed medic\u00edny FN Motol. Nemoc se podle nj projevuje vysokou horekou, vyerp\u2026 [+883 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.616898",
+      "internal_id": "861c55fda9c9e500c657f930279e420a217782d48ef1d8de16c71e599aa4f604",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 548,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Publico.pt",
+      "author": "publico@publico.pt",
+      "title": "OMS alerta para maior risco de dengue com aquecimento global a atingir recordes",
+      "description": "Europa registou aumento de casos e OMS alerta que os n\u00fameros poder\u00e3o atingir recordes este ano por todo o mundo. Clima mais quente ajuda os mosquitos a multiplicarem-se.",
+      "url": "https://www.publico.pt/2023/07/21/azul/noticia/oms-alerta-maior-risco-dengue-aquecimento-global-atingir-recordes-2057681",
+      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1827541?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Azul.png",
+      "publishedAt": "2023-07-21 15:04:00",
+      "content": "A Organiza\u00e7\u00e3o Mundial de Sa\u00fade alertou na sexta-feira para a possibilidade de os casos de dengue poderem atingir n\u00edveis recordes este ano, em parte devido ao facto de o aquecimento global beneficiar \u2026 [+2843 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.610698",
+      "internal_id": "8f8a16af156da19a65ce2ee8fba506d8936936cb4e45304fb76c12e102b95ae3",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 557,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "OMS alerta para aumento da dengue em meio ao aquecimento global",
+      "description": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) alertou nesta sexta-feira que os casos de dengue podem se ...",
+      "url": "https://www.terra.com.br/noticias/mundo/oms-alerta-para-aumento-da-dengue-em-meio-ao-aquecimento-global,9efc199c10b2e75ff48d1ecdb71531381cz2w98p.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2023-07-21 14:59:20",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) alertou nesta sexta-feira que os casos de dengue podem se aproximar de recordes neste ano, em parte devido ao aquecimento global que favorece os mosquitos que a e\u2026 [+2147 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.625349",
+      "internal_id": "b81638371d4fa79910d4aabd0d3b3be17879a75aa4c20cd5deb8c872b390669d",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 551,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputnikglobe.com",
+      "author": "Sputnik International",
+      "title": "Three Cases of Dengue Fever Registered in Northeastern France",
+      "description": "MOSCOW (Sputnik) - At least three cases of dengue fever have been detected this week in the Bas-Rhin department in northeastern France, French broadcaster reported on Friday.",
+      "url": "https://sputnikglobe.com/20230721/three-cases-of-dengue-fever-registered-in-northeastern-france-1112043713.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1112043713.jpg?11089555861689949098",
+      "publishedAt": "2023-07-21 14:18:17",
+      "content": "Check out all the latest trending news and stories from across the globe and the Internet! Lifestyle, cultural stories, social media hits, latest science and technology news, photos, videos, and much\u2026 [+4053 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.615716",
+      "internal_id": "30560586395c8c4414db7518af87e59eeefeba100864f8f54052f40b5e44f62d",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 555,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "\u201eH\u00e4lfte der Weltbev\u00f6lkerung ist der Gefahr ausgesetzt\u201c: WHO mahnt zur Wachsamkeit wegen Dengue-Fieber",
+      "description": "Die Zahl der Ansteckungen mit Dengue-Fieber hat sich weltweit vervielfacht. Die Asiatische Tigerm\u00fccke, die die Krankheit \u00fcbertr\u00e4gt, breitet sich mittlerweile auch in Europa aus.",
+      "url": "https://www.tagesspiegel.de/gesundheit/halfte-der-weltbevolkerung-ist-der-gefahr-ausgesetzt-who-mahnt-zur-wachsamkeit-wegen-dengue-fieber-10190494.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/tigermucke/alternates/BASE_16_9_W1400/tigermuecke.jpeg",
+      "publishedAt": "2023-07-21 14:10:38",
+      "content": "Die Weltgesundheitsorganisation (WHO) ist besorgt wegen der Ausbreitung des Dengue-Virus, auch in Europa. Es wird von Aedes-Stechm\u00fccken, auch als Asiatische Tigerm\u00fccken bekannt, \u00fcbertragen. Diese sin\u2026 [+2712 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.621675",
+      "internal_id": "edc2ab9f85bdd34c12670e2c24054184e6a290a3a3ef4bf5fb16f094354ac471",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 573,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yembu Ngwengi, Guy Pascal Ngaba, Martine Nida, Dominique Enyama",
+      "title": "Evaluation of CRP as a marker for bacterial infection and malaria in febrile children at the Douala Gyneco-Obstetric and Pediatric Hospital",
+      "description": "Background C reactive protein (CRP), a marker for the presence of inflammation, has been extensively studied for distinguishing bacterial from non-bacterial infection in febrile patients, but its role in excluding malaria in the febrile child has not been tho\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289012",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0289012.g002&size=inline",
+      "publishedAt": "2023-07-21 14:00:00",
+      "content": "Citation: Ngwengi Y, Ngaba GP, Nida M, Enyama D (2023) Evaluation of CRP as a marker for bacterial infection and malaria in febrile children at the Douala Gyneco-Obstetric and Pediatric Hospital. PLo\u2026 [+26429 chars]",
+      "retrievedAt": "2023-07-22 19:05:02.444592",
+      "internal_id": "0706994f850958467479f803c8758133367af47f00338a342fc441ce90b60b91",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 549,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Dengue fever cases could skyrocket due to global warming, says WHO",
+      "description": "Climate change could contribute to record high levels of the viral infection by benefiting mosquitoes, the World Health Organization says.",
+      "url": "https://www.abc.net.au/news/2023-07-21/dengue-fever-could-reach-record-highs-in-2023/102634264",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a806698b20ae398d742858e44f2a2330?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=299&width=862&height=485",
+      "publishedAt": "2023-07-21 13:36:19",
+      "content": "Dengue fever cases could reach record highs this year due to global warming, the World Health Organization (WHO) has warned. Climate change could help mosquitoes, and dengue, multiply faste\u2026 [+2326 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.612648",
+      "internal_id": "ea87971d5b51f73daa9c3d2820791f68a79fc8020afad70671e5eee9e8517842",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 545,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "ABC 12 News",
+      "author": "Ryan Jeltema",
+      "title": "Two bats carrying rabies found in Bay County",
+      "description": "Two bats captured in Bay County this summer tested positive for rabies, so health officials are urging residents to keep themselves and pets safe from the potentially fatal illness.",
+      "url": "https://www.abc12.com/news/health/two-bats-carrying-rabies-found-in-bay-county/article_66e0b75c-27c4-11ee-8c63-c32fd088f9ef.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/1/c4/1c4e1ddb-3c9b-54f4-9375-5dfff46185a1/61983f950375e.image.jpg?crop=1130%2C593%2C0%2C16&resize=1130%2C593&order=crop%2Cresize",
+      "publishedAt": "2023-07-21 13:33:51",
+      "content": "BAY COUNTY, Mich. (WJRT) - Health officials in Bay County are warning residents to watch for signs of rabies after two bats tested positive for the potentially fatal illness. The two bats collected \u2026 [+1835 chars]",
+      "retrievedAt": "2023-07-22 19:05:00.972502",
+      "internal_id": "8512d02b85db001c2af66aa35480c36e3fceec067a3eebf8c98bc1b64adacf76",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 546,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "tagesschau.de",
+      "title": "Folge des Klimawandels: WHO warnt vor Ausbreitung des Dengue-Fiebers",
+      "description": "Durch hohe Temperaturen und starke Niederschl\u00e4ge vermehrt sich die Aedes-M\u00fccke, die das Dengue-Fieber \u00fcbertr\u00e4gt. Die WHO warnt vor einer dramatischen Ausbreitung der Krankheit. Auch in Europa gebe es immer mehr Aedes-M\u00fccken.",
+      "url": "https://www.tagesschau.de/ausland/europa/who-dengue-fieber-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/dc0104cb-1583-429c-a49d-2172cae5f879/AAABiXhLPFc/AAABg8tME_8/16x9-1280/asiatische-tiegermuecke-100.jpg",
+      "publishedAt": "2023-07-21 12:39:08",
+      "content": "Stand: 21.07.2023 14:39 Uhr Durch hohe Temperaturen und starke Niederschl\u00e4ge vermehrt sich die Aedes-M\u00fccke, die das Dengue-Fieber \u00fcbertr\u00e4gt. Die WHO warnt vor einer dramatischen Ausbreitung der Kran\u2026 [+2677 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.606419",
+      "internal_id": "f2cb2b9ce12ef4f23b26b8bbed45827883053b6c25cc54cc16f4986d582c6ba6",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 554,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Folge des Klimawandels: WHO warnt vor Ausbreitung des Dengue-Fiebers - tagesschau.de",
+      "description": "Folge des Klimawandels: WHO warnt vor Ausbreitung des Dengue-Fiebers tagesschau.de WHO warnt vor Ausbreitung des Dengue-Fiebers nach Europa - WELT WELT Tropische Stechm\u00fccken: WHO besorgt wegen Ausbreitung des Dengue-Virus zeit.d\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvYXVzbGFuZC9ldXJvcGEvd2hvLWRlbmd1ZS1maWViZXItMTAwLmh0bWzSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-21 12:39:08",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.619991",
+      "internal_id": "6d89a0a1dcfa1e0eac47328f33656997c501ddc7350d5b2d058be7a161f145d7",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 560,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "WHO warns of dengue risk as global warming pushes cases near historic highs",
+      "description": "GENEVA (Reuters) - The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes that spread it. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2023/07/21/who-warns-of-dengue-risk-as-global-warming-pushes-cases-near-historic-highs",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/21/2189598.jpg",
+      "publishedAt": "2023-07-21 12:32:00",
+      "content": "GENEVA (Reuters) - The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes that sprea\u2026 [+2288 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.630379",
+      "internal_id": "f6f8d19883febeeb4be7778d1fd747922eede8944393f16534b93187ac1f01f0",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 558,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Wissen - Christian Parth",
+      "title": "Tropische Stechm\u00fccken: WHO besorgt wegen Ausbreitung des Dengue-Virus",
+      "description": "Immer mehr Menschen stecken sich weltweit mit dem Dengue-Virus an. Auch in Europa w\u00e4chst laut WHO die Gefahr einer Erkrankung.",
+      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fwissen%2F2023-07%2Fwho-dengue-virus-stechmuecken",
+      "urlToImage": null,
+      "publishedAt": "2023-07-21 12:25:19",
+      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.627082",
+      "internal_id": "0dc3eb19725951834601762b9c3742e0fd81c107be8df239406e4eb086e8325c",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 565,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Spike in dengue cases due to global warming, warns WHO",
+      "description": "Global warming marked by higher average temperatures, precipitation and longer periods of drought, could prompt a record number of dengue infections worldwide, the World Health Organization (WHO) warned on Friday. Read Full Story on UN News The post Spike in \u2026",
+      "url": "https://news.un.org/en/story/2023/07/1138962",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/31-03-2022_Unsplash_mosquito.jpg/image770x420cropped.jpg",
+      "publishedAt": "2023-07-21 12:00:00",
+      "content": "About half of the world's population is at risk of dengue, and dengue affects approximately 129 countries, said Dr Raman Velayudhan, WHOs Head of the Global Programme on control of Neglected Tropical\u2026 [+3235 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.637654",
+      "internal_id": "8f9ade58507442b6d04ead5e6d606aa5cec564feee070b4e9ecd36937933997f",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 568,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "reuters",
+      "source_name": "Reuters",
+      "author": "Reuters",
+      "title": "WHO warns of dengue risk as global warming pushes cases near historic highs",
+      "description": "The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes that spread it.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-warns-dengue-risk-global-warming-pushes-cases-near-historic-highs-2023-07-21/",
+      "urlToImage": "https://www.reuters.com/resizer/Yfe8lrFgFM5eH3tYrYbBpUSMf8I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/H2OO7NQNWZMCRF3ZY55O4N3ITE.jpg",
+      "publishedAt": "2023-07-21 11:53:41",
+      "content": "GENEVA, July 21 (Reuters) - The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes t\u2026 [+2344 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.643947",
+      "internal_id": "be48f51442dba74297787cbbdd01fbcedf6d42ed053eb0c36eb220448ceb5757",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 547,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "WHO warnt vor Ausbreitung des Dengue-Fiebers nach Europa",
+      "description": "Die Weltgesundheitsorganisation mahnt zur Wachsamkeit wegen des Dengue-Fiebers. Die Tropenkrankheit wird durch Stechm\u00fccken \u00fcbertragen, die sich zunehmend auch in gem\u00e4\u00dfigten Klimazonen verbreiten. Die Krankheit kann f\u00fcr den Menschen lebensgef\u00e4hrlich werden.",
+      "url": "https://www.welt.de/wissenschaft/article246509250/WHO-warnt-vor-Ausbreitung-des-Dengue-Fiebers-nach-Europa.html",
+      "urlToImage": "https://img.welt.de/img/bildergalerien/mobile246509202/5661356477-ci16x9-w1200/Climate-Change-Mosquito-Diseases.jpg",
+      "publishedAt": "2023-07-21 11:48:16",
+      "content": "Auch in Europa k\u00f6nnte sich das Dengue-Fieber laut ausbreiten, bef\u00fcrchtet die WHO (Weltgesundheitsorganisation). Es wird von Aedes-Stechm\u00fccken \u00fcbertragen, die in tropischen und subtropischen Klimazone\u2026 [+1782 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.608857",
+      "internal_id": "d5e877fcdf4cf2490421c9e5b376a4418ea9fac3c3a6429efc71a331b9ba9cc2",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 556,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Reuters",
+      "title": "WHO warns of dengue risk as global warming pushes cases near historic highs",
+      "description": "(marketscreener.com) The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes that spread it. https://www.marketscreener.com/news/latest/WHO-warns\u2026",
+      "url": "https://www.marketscreener.com/news/latest/WHO-warns-of-dengue-risk-as-global-warming-pushes-cases-near-historic-highs--44389253/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-07-21 11:32:35",
+      "content": "GENEVA (Reuters) - The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes that sprea\u2026 [+2289 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.623458",
+      "internal_id": "2c07d7d626b5a01d6c5e30f0df40eeb54c1fbe1ea118aa58777b2c2281c9c249",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 575,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Sarah Mohamad",
+      "title": "UC Irvine Researchers Use Mosquito \u2018Gene Editing\u2019 in Fight Against Malaria",
+      "description": "Scientists have used a gene-editing technique to make mosquitos allies in the fight against malaria. Environmentalists are troubled by the idea of genetically modifying wild animals.",
+      "url": "https://www.kqed.org/science/1983569/uc-irvine-researchers-use-mosquito-gene-editing-in-fight-against-malaria",
+      "urlToImage": "https://ww2.kqed.org/app/uploads/sites/35/2023/07/ap22301696572084_slide-ec19a427fbda06485a3b4553972b20412623dd75-1020x680.jpg",
+      "publishedAt": "2023-07-21 11:08:57",
+      "content": "\u201cTo try to get rid of them, I don\u2019t think it\u2019s possible,\u201d he says. Instead, James and his colleagues want to try a different approach: making mosquitoes themselves into malaria-fighting warriors. To\u2026 [+1516 chars]",
+      "retrievedAt": "2023-07-22 19:05:02.448355",
+      "internal_id": "b501ddc30bea9cbb74d68ef4710808745dc2b00da10f1a60d87269ba9ef4f188",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 571,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "salute@gedi.it (Redazione di Salute)",
+      "title": "Pronto il nuovo vaccino contro la malaria, \u00e8 nato dalla tecnologia anti-Covid",
+      "description": "Gli esisti della ricerca australiana: \"Il vaccino contiene le istruzioni per le cellule, consente loro di produrre un'intera proteina della malaria debellando il parassita\"",
+      "url": "https://www.repubblica.it/salute/2023/07/21/news/vaccino_malaria_zanzara-408418491/",
+      "urlToImage": "https://www.repstatic.it/content/contenthub/img/2023/07/20/163102150-02090cf4-9ba2-4390-8fbd-ee4c4d3d93ca.jpg",
+      "publishedAt": "2023-07-21 10:20:17",
+      "content": "Un vaccino ideato con la stessa tecncnologia utlizzata per combattere il Covid. Solo che questa volta viene impiegato contro la malaria. La pandemia ha lasciato dietro di s\u00e8 un percorso di conoscenze\u2026 [+307 chars]",
+      "retrievedAt": "2023-07-22 19:05:02.442150",
+      "internal_id": "1b3928c6d7257c1ffc95d43599ec34aea3e384ff50fc91b7bcc44771e6cc69ae",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 572,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "salute@gedi.it (Redazione di Salute)",
+      "title": "Viaggi: come funziona la profilassi antimalarica per chi si reca in zone a rischio",
+      "description": "Nonostante i recenti passi in avanti, ad oggi non esiste un vaccino contro la malaria approvato a livello internazionale. Ma esiste comunque la possibilit\u00e0 di proteggersi attraverso la profilassi antimalarica. Ecco come funziona",
+      "url": "https://www.repubblica.it/salute/dossier/vaccini/2023/07/21/news/malaria_profilassi_viaggi_estero_vacanze-408477925/",
+      "urlToImage": "https://www.repstatic.it/content/contenthub/img/2023/07/21/102059157-561961b7-d872-416d-a064-ee35dd5090e6.jpg",
+      "publishedAt": "2023-07-21 09:42:26",
+      "content": "C\u00e8 chi sta per partire per la Namibia, chi per la foresta amazzonica, chi per lIndonesia, la Zambia, o ancora Zanzibar e la Tanzania. Tempo di vacanze daltronde, ma come ci si prepara al viaggio, anc\u2026 [+5125 chars]",
+      "retrievedAt": "2023-07-22 19:05:02.443439",
+      "internal_id": "341fc332f51ebe2d9a3ece90772ffd2f8ec47a2c73df0716894803e84be63283",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 550,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Delhi Govt Restricts Chemists To Sell Painkillers Without Doctor\u2019s Prescription Amid Rise In Dengue Cases - Jagran English",
+      "description": "Delhi Govt Restricts Chemists To Sell Painkillers Without Doctor\u2019s Prescription Amid Rise In Dengue Cases Jagran English Amid rise in dengue cases, Delhi govt asks chemists not to sell painkillers like Aspirin, Ibuprofen without prescriptio\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMikgFodHRwczovL2VuZ2xpc2guamFncmFuLmNvbS9pbmRpYS9kZWxoaS1nb3Z0LXJlc3RyaWN0cy1jaGVtaXN0cy10by1zZWxsLXBhaW5raWxsZXJzLXdpdGhvdXQtZG9jdG9ycy1wcmVzY3JpcHRpb24tYW1pZC1yaXNlLWluLWRlbmd1ZS1jYXNlcy0xMDA4OTA5NNIBlwFodHRwczovL2VuZ2xpc2guamFncmFuLmNvbS9saXRlL2luZGlhL2RlbGhpLWdvdnQtcmVzdHJpY3RzLWNoZW1pc3RzLXRvLXNlbGwtcGFpbmtpbGxlcnMtd2l0aG91dC1kb2N0b3JzLXByZXNjcmlwdGlvbi1hbWlkLXJpc2UtaW4tZGVuZ3VlLWNhc2VzLTEwMDg5MDk0?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-21 08:12:02",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.614220",
+      "internal_id": "88ad9d06f4060ae70d51b2356c9bd09624d65a005f79dbc47e21a939d8186eed",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 574,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Malaria Cases in Epidemic Districts Drop By 46%",
+      "description": "[Nile Post] The Minister for Health, Dr. Ruth Aceng has announced that Malaria cases at the outpatient Department (OPD) in epidemic districts have dropped from 109,938 in March 2023 to the current 58,822 a drop of 46%.",
+      "url": "https://allafrica.com/stories/202307210083.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-21 07:39:48",
+      "content": "The Minister for Health, Dr. Ruth Aceng has announced that Malaria cases at the outpatient Department (OPD) in epidemic districts have dropped from 109,938 in March 2023 to the current 58,822 a drop \u2026 [+4769 chars]",
+      "retrievedAt": "2023-07-22 19:05:02.446731",
+      "internal_id": "710f7225f8a4f0707d5ddb9b9518a8b6dac2cfba456e2081a8b9aaac8e40397e",
+      "publishedAtLabel": "Jul 21"
+    },
     {
       "id": 544,
       "query": [
@@ -55,6 +595,24 @@
       "content": "To deal with recent spike in dengue cases in Delhi, the state government has asked the chemists to exercise caution in selling drugs like aspirin, ibuprofen, and diclofenac without a valid doctor's p\u2026 [+1831 chars]",
       "retrievedAt": "2023-07-22 07:05:07.085802",
       "internal_id": "5f9f84d893a1de1729ccaebf579619c992942c489524de387a86c442ab665f0c",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 563,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 1 - Dengue in Africa and the Middle East",
+      "description": "Dengue is a risk in many parts of Africa and the Middle East. Some countries are reporting increased numbers of cases of the disease. Travelers to Africa and the Middle East can protect themselves by preventing mosquito bites.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level1/dengue-africa-middle-east",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2023-07-21 05:00:00",
+      "content": "Dengue is a disease caused by a virus spread through mosquito bites. The disease can take up to 2 weeks to develop with illness generally lasting less than a week. Health effects from dengue include\u2026 [+347 chars]",
+      "retrievedAt": "2023-07-22 19:05:01.635103",
+      "internal_id": "aa0e90c982d99762024303b07b30d8b63910640fc88f24ad159b93ab8f8447b6",
       "publishedAtLabel": "Jul 21"
     },
     {
@@ -307,6 +865,24 @@
       "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails As the planet warms, mosquitoes are slowly migrating\u2026 [+5891 chars]",
       "retrievedAt": "2023-07-22 07:05:07.773578",
       "internal_id": "f8f83fd4298d572d69e73ee1be4e1a722b3150ab6e25ba89b7cfb2cf4d07eaf2",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 576,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": "By MARY KATHERINE WILDEMAN - Associated Press",
+      "title": "As temperatures rise, mosquitoes are also on the move. Scientists worry that could mean more malaria",
+      "description": "As global warming pushes temperatures up, the elevation range where malaria-carrying mosquitoes thrive is rising. Researchers have found evidence of the phenomenon from the tropical highlands of South America to the mountainous, populous regions of eastern Af\u2026",
+      "url": "https://apnews.com/article/malariaclimate-changemosquitos-48166329d2eeb9037b49b381a1bbe598",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/b/b7/bb7d4e3c-76af-5cca-9f47-d43f2bbf48d4/64bac7c94c4ce.image.jpg?crop=1600%2C840%2C0%2C29&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-07-20 20:04:22",
+      "content": "By MARY KATHERINE WILDEMAN - Associated Press As the planet warms, mosquitoes are slowly migrating upward. The temperature range where malaria-carrying mosquitoes thrive is rising in elevation. Res\u2026 [+5949 chars]",
+      "retrievedAt": "2023-07-22 19:05:02.449439",
+      "internal_id": "af7d5ec04f4e21c367383b9301305df4e143ce9d66734277e69cc83e8c41c66a",
       "publishedAtLabel": "Jul 20"
     },
     {
@@ -3043,582 +3619,6 @@
       "retrievedAt": "2023-07-15 19:05:06.697380",
       "internal_id": "e6de2e6fb4d59a85196a510535807ad1742edf6ae3969dac15656902ba0a823f",
       "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 355,
-      "query": [
-        "measles"
-      ],
-      "source_id": "independent",
-      "source_name": "Independent",
-      "author": "Nilima Marshall",
-      "title": "London at risk of measles outbreak, health chiefs warn",
-      "description": "Parents are being urged to check their children are up to date with their MMR vaccines.",
-      "url": "https://www.independent.co.uk/news/health/mmr-london-covid-children-nhs-b2375450.html",
-      "urlToImage": "https://static.independent.co.uk/2023/07/14/14/2942226bbe3a24e9938431dc151e45e1Y29udGVudHNlYXJjaGFwaSwxNjg5NDI2OTM3-2.72014229.jpg?quality=75&width=1200&auto=webp",
-      "publishedAt": "2023-07-14 13:46:24",
-      "content": "Sign up for our free Health Check email to receive exclusive analysis on the week in health Get our free Health Check email London could see a measles outbreak with tens of thousands of cases becau\u2026 [+3843 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.704251",
-      "internal_id": "dea4c37fad71c5e2e0d69b5ee3893f02c066f65b5046056ccdfc6d5e27e1f737",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 361,
-      "query": [
-        "measles"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "London at risk of measles outbreak, health chiefs warn - Yahoo Canada Shine On",
-      "description": "London at risk of measles outbreak, health chiefs warn Yahoo Canada Shine On UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Toronto Star Why are there fears of a London measles\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tL2xvbmRvbi1yaXNrLW1lYXNsZXMtb3V0YnJlYWstaGVhbHRoLTEzNDYyNDk4Ny5odG1s0gFVaHR0cHM6Ly9jYS5zdHlsZS55YWhvby5jb20vYW1waHRtbC9sb25kb24tcmlzay1tZWFzbGVzLW91dGJyZWFrLWhlYWx0aC0xMzQ2MjQ5ODcuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-14 13:46:24",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.711235",
-      "internal_id": "ad7865f4be6bae2ca837f2b05670721c7b0d9d2571bb19493fadb4f190056ccc",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 379,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Telegraph.co.uk",
-      "author": "Ben Farmer",
-      "title": "The \u2018game-changing\u2019 vaccine that could wipe out meningitis across Africa",
-      "description": "Inoculation should save thousands of lives each year and help end deadly outbreaks across the continent",
-      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/meningitis-vaccine-africa-world-health-organization/",
-      "urlToImage": "https://www.telegraph.co.uk/content/dam/global-health/2023/07/14/TELEMMGLPICT000278925319_16893355938000_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=logo-overlay",
-      "publishedAt": "2023-07-14 13:09:42",
-      "content": "A game-changer UK-funded vaccine to wipe out deadly meningitis infections across a swathe of Africa has been judged safe and effective by the World Health Organization. The new, lower-cost MenFive v\u2026 [+2649 chars]",
-      "retrievedAt": "2023-07-15 19:05:07.428523",
-      "internal_id": "276253ae7f7b2a68b8d99b11d4b9b8e8d2ecf227d448a1e2d06665c437e1a9d4",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 364,
-      "query": [
-        "measles"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "London at 'real risk' of measles outbreak with tens of thousands of cases - The Times",
-      "description": "London at 'real risk' of measles outbreak with tens of thousands of cases The Times UK agency issues health warning for London | WION WION London measles warning: Outbreak could hit tens of thousands BBC 'Very real ris\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnRoZXRpbWVzLmNvLnVrL2FydGljbGUvbG9uZG9uLW1lYXNsZXMtb3V0YnJlYWstdWstY2FzZXMtcmlzay1wdWJsaWMtaGVhbHRoLTIwMjMtZDlidzlkeGJ30gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-14 13:00:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.714255",
-      "internal_id": "d6317a48ab4769aca36de1168bbf6d613bcde97d539becbfb526dcb0f05636ef",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 374,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Warning measles could hit tens of thousands in London - BBC",
-      "description": "Warning measles could hit tens of thousands in LondonBBC UK officials warn low measles immunization rates could lead to tens of thousands of cases in LondonThe Washington Post Doctors issue urgent warning to parents as cases of highly contagious Victorian dis\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171383195",
-      "urlToImage": null,
-      "publishedAt": "2023-07-14 12:12:11",
-      "content": "The sooner you make your first 5000 mistakes, the sooner you will be able to correct them. -- Nicolaides",
-      "retrievedAt": "2023-07-15 19:05:06.726257",
-      "internal_id": "63d59017005e38b4377c1e60fbd328183b77f07a72caa5596dff66e5e1b1ae65",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 363,
-      "query": [
-        "measles"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Measles fears: London faces 'very real risk' of 'big' outbreaks due to low vaccination rates - Yahoo Canada Sports",
-      "description": "Measles fears: London faces 'very real risk' of 'big' outbreaks due to low vaccination rates Yahoo Canada Sports UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Toronto Star Why\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vY2Euc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21lYXNsZXMtZmVhcnMtbG9uZG9uLWZhY2VzLXZlcnktMTIwNzAwNzQ3Lmh0bWzSAVdodHRwczovL2NhLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL21lYXNsZXMtZmVhcnMtbG9uZG9uLWZhY2VzLXZlcnktMTIwNzAwNzQ3Lmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-14 12:07:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.713220",
-      "internal_id": "e373a7c78c6379d5ca87ed2958b0acdd56cbdad8bfb1e5f77474c5f10fa514a6",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 350,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Guardian",
-      "author": "Nicola Davis Science correspondent",
-      "title": "Why are there fears of a London measles outbreak and what can be done?",
-      "description": "Low MMR vaccine uptake in some areas means there could be a surge in cases of the infectious diseaseLondon at risk of major measles outbreak, says UKHSAAs modelling suggests London could be at risk of a measles outbreak involving tens of tho\u2026",
-      "url": "https://www.theguardian.com/society/2023/jul/14/why-are-there-fears-of-a-london-measles-outbreak-and-what-can-be-done",
-      "urlToImage": "https://i.guim.co.uk/img/media/6a0491c59e2c253ca61c803773a741bb087b3d62/0_213_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfd3fd1ee1c094c88818ca42ead30214",
-      "publishedAt": "2023-07-14 12:01:48",
-      "content": "As modelling suggests London could be at risk of a measles outbreak involving tens of thousands of cases, here we take a look at how the situation has arisen and what can be done. What is measles? \u2026 [+3084 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.698925",
-      "internal_id": "7e94f1bf85e03236fb59f81bd07b51bdba1c400a5fb107a0604fbcb8728f116d",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 352,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Guardian",
-      "author": "Hannah Devlin Science correspondent",
-      "title": "London at risk of major measles outbreak, UK Health Security Agency warns",
-      "description": "Thousands could be hospitalised and dozens die if MMR vaccine take-up doesn\u2019t rise, say immunologistsLondon is at risk of a major measles outbreak that could result in tens of thousands of cases, the UK Health Security Agency has warned.Without an improvement\u2026",
-      "url": "https://www.theguardian.com/society/2023/jul/14/measles-outbreak-risk-london-uk-health-security-agency-mmr-vaccine-take-up",
-      "urlToImage": "https://i.guim.co.uk/img/media/50b6c5b1d03e808ce6189053f2f1f81892559080/0_190_4649_2790/master/4649.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0a7267c47d1d6203b5a4051a34a68f5",
-      "publishedAt": "2023-07-14 11:57:40",
-      "content": "London is at risk of a major measles outbreak that could result in tens of thousands of cases, the UK Health Security Agency has warned. Without an improvement in MMR vaccination rates, the capital \u2026 [+10080 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.701286",
-      "internal_id": "cadaa84e76aaadce5db5c18161d7bb2c4ab2f06da4303b2da95406bb7196ce3f",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 351,
-      "query": [
-        "measles"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Warning Over UK Measles Outbreak, With Tens Of Thousands Of Predicted Cases - Yahoo Canada Finance",
-      "description": "Warning Over UK Measles Outbreak, With Tens Of Thousands Of Predicted Cases Yahoo Canada Finance UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Toronto Star Why are there fears\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vY2EuZmluYW5jZS55YWhvby5jb20vbmV3cy93YXJuaW5nLW92ZXItdWstbWVhc2xlcy1vdXRicmVhay0xMTQ5MzM2NjYuaHRtbNIBWWh0dHBzOi8vY2EuZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL3dhcm5pbmctb3Zlci11ay1tZWFzbGVzLW91dGJyZWFrLTExNDkzMzY2Ni5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-14 11:49:33",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.700070",
-      "internal_id": "3a2703c43631f437f07f0acc454e693745f552dd88125d9995c07241777502e2",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 367,
-      "query": [
-        "measles"
-      ],
-      "source_id": "independent",
-      "source_name": "Independent",
-      "author": "Lamiat Sabin and William Mata",
-      "title": "Five measles symptoms to watch out for as health chiefs warn of fresh outbreak",
-      "description": "Warning of up to 160,000 cases in London if vaccine uptake does not pick up",
-      "url": "https://www.independent.co.uk/news/health/measles-outbreak-symptoms-warning-signs-b2375334.html",
-      "urlToImage": "https://static.independent.co.uk/2022/05/03/09/a6ae44bedddb7e55c4de7c09e143974cY29udGVudHNlYXJjaGFwaSwxNjUxNjUyMjY4-2.16366311.jpg?quality=75&width=1200&auto=webp",
-      "publishedAt": "2023-07-14 11:39:49",
-      "content": "Sign up for our free Health Check email to receive exclusive analysis on the week in health Get our free Health Check email Measles vaccination rates must improve in order to avert up to 160,000 ca\u2026 [+2542 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.718372",
-      "internal_id": "5d839c4a100162cea8eed13165e3df4ae4cd7aefd27f11d1ae8050fdee56f37b",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 368,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "UK officials warn low measles immunisation rates could lead to tens of thousands of cases in London",
-      "description": "The Health Security Agency in Britain said on Friday that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causing disease unless immunisation coverage is quickly boosted. Measl\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/uk-officials-warn-low-measles-immunisation-rates-could-lead-to-tens-of-thousands-of-cases-in-london/articleshow/101758120.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-101758150,width-1070,height-580,imgsize-71438,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-07-14 11:08:47",
-      "content": "Britain's Health Security Agency said on Friday that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causing disease\u2026 [+2275 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.719462",
-      "internal_id": "4ec0e5889b24f6ba461f3a8748fd5e4edc7bd81a2090f6356f7f56762e14deac",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 372,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "seattlepi.com",
-      "author": null,
-      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London",
-      "description": "LONDON (AP) \u2014 Britain\u2019s Health Security Agency said on Friday that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causing disease unless immunization coverage is quickly boost\u2026",
-      "url": "https://www.seattlepi.com/news/world/article/uk-officials-warn-low-measles-immunization-rates-18200467.php",
-      "urlToImage": "https://www.seattlepi.com/img/modules/siteheader/brand.png",
-      "publishedAt": "2023-07-14 11:07:07",
-      "content": "FILE - A dose of the measles, mumps and rubella vaccine is displayed at the Neighborcare Health clinics at Vashon Island High School in Vashon Island, Wash., on May 15, 2019. In a statement on Friday\u2026 [+2711 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.724174",
-      "internal_id": "56b7795753b9d0418bc396f3f6c30e2032ec1227603a468e4f9a0e5405e0c778",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 365,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Sky.com",
-      "author": "Siba Jackson, news reporter",
-      "title": "London faces 'very real risk of big measles outbreaks with up to 160,000 cases'",
-      "description": "London faces the \"very real risk\" of \"big\" measles outbreaks amid concerns 160,000 cases could occur because of low vaccination levels.",
-      "url": "https://news.sky.com/story/measles-fears-london-faces-very-real-risk-of-big-outbreaks-due-to-low-vaccination-rates-12920905",
-      "urlToImage": "https://e3.365dm.com/23/07/1600x900/skynews-measles-vaccination_6218766.jpg?20230714154550",
-      "publishedAt": "2023-07-14 11:04:00",
-      "content": "London faces the \"very real risk\" of \"big\" measles outbreaks amid concerns 160,000 cases could occur because of low vaccination levels. Among some groups of children in the capital, fewer than 70% \u2026 [+4190 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.715168",
-      "internal_id": "109c9a51f918357af23d6363ade3d9984207f53c495d71a2e6fef1efa42cc252",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 366,
-      "query": [
-        "measles"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "The Associated Press",
-      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London",
-      "description": "Britain\u2019s Health Security Agency said that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causing disease",
-      "url": "https://abcnews.go.com/Health/wireStory/uk-officials-warn-low-measles-immunization-rates-lead-101270513",
-      "urlToImage": "https://s.abcnews.com/images/Health/wirestory_6ec3b220fe9ae23f719434185e385d30_12x5_992.jpg",
-      "publishedAt": "2023-07-14 11:02:36",
-      "content": "LONDON -- Britains Health Security Agency said on Friday that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causin\u2026 [+2162 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.716918",
-      "internal_id": "1c1992b617418838d9d5338fe1113f92b39ddb30db31090b22ab80d5e89eb139",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 359,
-      "query": [
-        "measles"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London - Toronto Star",
-      "description": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Toronto Star Why are there fears of a London measles outbreak and what can be done? The Guardian Warning measles could hit tens o\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy50aGVzdGFyLmNvbS9saWZlL2hlYWx0aF93ZWxsbmVzcy8yMDIzLzA3LzE0L3VrLW9mZmljaWFscy13YXJuLWxvdy1tZWFzbGVzLWltbXVuaXphdGlvbi1yYXRlcy1jb3VsZC1sZWFkLXRvLXRlbnMtb2YtdGhvdXNhbmRzLW9mLWNhc2VzLWluLWxvbmRvbi5odG1s0gGkAWh0dHBzOi8vd3d3LnRoZXN0YXIuY29tL2FtcC9saWZlL2hlYWx0aF93ZWxsbmVzcy8yMDIzLzA3LzE0L3VrLW9mZmljaWFscy13YXJuLWxvdy1tZWFzbGVzLWltbXVuaXphdGlvbi1yYXRlcy1jb3VsZC1sZWFkLXRvLXRlbnMtb2YtdGhvdXNhbmRzLW9mLWNhc2VzLWluLWxvbmRvbi5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-14 10:58:42",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.709106",
-      "internal_id": "0870de409f3ebc41f00a9b8c1a236dc9de4848fa4f4c15a4ed5811cba7f9cad5",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 358,
-      "query": [
-        "measles"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London - Town and Country TODAY",
-      "description": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Town and Country TODAY Why are there fears of a London measles outbreak and what can be done? The Guardian Warning measles could \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy50b3duYW5kY291bnRyeXRvZGF5LmNvbS9saWZlc3R5bGUvdWstb2ZmaWNpYWxzLXdhcm4tbG93LW1lYXNsZXMtaW1tdW5pemF0aW9uLXJhdGVzLWNvdWxkLWxlYWQtdG8tdGVucy1vZi10aG91c2FuZHMtb2YtY2FzZXMtaW4tbG9uZG9uLTcyNzYwOTDSAZ0BaHR0cHM6Ly93d3cudG93bmFuZGNvdW50cnl0b2RheS5jb20vYW1wL2xpZmVzdHlsZS91ay1vZmZpY2lhbHMtd2Fybi1sb3ctbWVhc2xlcy1pbW11bml6YXRpb24tcmF0ZXMtY291bGQtbGVhZC10by10ZW5zLW9mLXRob3VzYW5kcy1vZi1jYXNlcy1pbi1sb25kb24tNzI3NjA5MA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-14 10:51:21",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.708034",
-      "internal_id": "d69772f7d8cc6053c0a08fdd446687d11124a9b85828d4606d9adc0b5f7de2a2",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 371,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Toronto Star",
-      "author": "The Associated Press",
-      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London",
-      "description": "LONDON (AP) \u2014 Britain\u2019s Health Security Agency said on Friday that measles vaccination rates in parts of London have dropped so low that the capital c...",
-      "url": "https://www.thestar.com/life/health_wellness/2023/07/14/uk-officials-warn-low-measles-immunization-rates-could-lead-to-tens-of-thousands-of-cases-in-london.html",
-      "urlToImage": "https://images.thestarimages.com/dv5mU1WCitjVlKkx4Efjr-7tCms=/1280x1024/smart/filters:cb(1689332217359):format(webp)/https://www.thestar.com/content/dam/thestar/life/health_wellness/2023/07/14/uk-officials-warn-low-measles-immunization-rates-could-lead-to-tens-of-thousands-of-cases-in-london/20230714060748-64b128a57d3cde796cd76b80jpeg.jpg",
-      "publishedAt": "2023-07-14 10:51:21",
-      "content": "LONDON (AP) Britains Health Security Agency said on Friday that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-caus\u2026 [+2494 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.723152",
-      "internal_id": "f60dacf8ede0796c8e714e6fee0dd98ca4423303760a669373d09993299de066",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 354,
-      "query": [
-        "measles"
-      ],
-      "source_id": "independent",
-      "source_name": "Independent",
-      "author": "Via AP news wire",
-      "title": "UK officials warn low measles immunization rates could lead to tens of thousands of cases in London",
-      "description": "Britain\u2019s Health Security Agency said that measles vaccination rates in parts of London have dropped so low that the capital could see tens of thousands of cases of the rash-causing disease",
-      "url": "https://www.independent.co.uk/news/ap-london-national-health-service-andrew-wakefield-who-b2375347.html",
-      "urlToImage": "https://static.independent.co.uk/2023/07/14/11/Britain_Measles_97838.jpg?quality=75&width=1200&auto=webp",
-      "publishedAt": "2023-07-14 10:50:32",
-      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Britains Health Security Agency said on Friday that \u2026 [+2299 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.703295",
-      "internal_id": "a7d18f9cf13155b43f089b87d99c0517efc829beee9165e0ef532a82f88fae4e",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 353,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Warning measles could hit tens of thousands in London",
-      "description": "The rest of the UK is considered to be at low risk of the virus taking off.",
-      "url": "https://www.bbc.co.uk/news/health-66200444",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67F0/production/_130380662_gettyimages-1266944602.jpg",
-      "publishedAt": "2023-07-14 10:45:23",
-      "content": "London could see tens of thousands of measles cases due to low levels of vaccination, the UK Health Security Agency (UKHSA) has warned. Mathematical calculations suggest an outbreak could affect bet\u2026 [+2890 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.702293",
-      "internal_id": "2359a2a635a3ce94856a82fcd0ae341daf0560a83809767644111c64d6c9372a",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 360,
-      "query": [
-        "measles"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Warning measles could hit tens of thousands in London - BBC",
-      "description": "Warning measles could hit tens of thousands in London BBC Seven symptoms you need to know as UK city on brink of Victorian disease outbreak The Mirror Urgent measles warning for London Daily Mail London 'at risk of maj\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiKmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2hlYWx0aC02NjIwMDQ0NNIBLmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2hlYWx0aC02NjIwMDQ0NC5hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-14 10:45:23",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.710275",
-      "internal_id": "81b7ebf2048ba81def68278bf1d6551488606eced7e91bf895fbe67592c2ee92",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 356,
-      "query": [
-        "measles"
-      ],
-      "source_id": "independent",
-      "source_name": "Independent",
-      "author": "Rebecca Thomas",
-      "title": "Measles outbreak alert issued as health chiefs warn 160,000 cases could hit London",
-      "description": "Health chiefs have warned London could face an outbreak of up to 160,000 new measles cases if vaccination rates do not improve.",
-      "url": "https://www.independent.co.uk/news/health/measles-outbreak-london-warning-rash-b2375320.html",
-      "urlToImage": "https://static.independent.co.uk/2023/05/04/12/iStock-1126559054.jpg?quality=75&width=1200&auto=webp",
-      "publishedAt": "2023-07-14 10:31:17",
-      "content": "Sign up for our free Health Check email to receive exclusive analysis on the week in health Get our free Health Check email Health chiefs have warned London could face an outbreak of up to 160,000 \u2026 [+2289 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.705445",
-      "internal_id": "43945bf2105b7b556a6e1d747d5991d6d13940abeb2a48529a58ccf382d0cd2a",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 375,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Sun",
-      "author": "Alice Fuller",
-      "title": "Urgent warning as UK faces 'very real risk' of new outbreak of killer Victorian disease",
-      "description": "THE UK faces a \u201cvery real risk\u201d of a new measles outbreak, experts warn. There could be tens of thousands of cases of the deadly Victorian disease in London alone unless MMR vaccination\u2026",
-      "url": "https://www.thesun.co.uk/health/23055185/measles-risk-outbreak-uk-kids-warning/",
-      "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2023/07/newspress-collage-23055185-1689327015930.jpg?1689330627&strip=all&quality=100&w=1920&h=1080&crop=1",
-      "publishedAt": "2023-07-14 09:41:15",
-      "content": "THE UK faces a \"very real risk\" of a new measles outbreak, experts warn. There could be tens of thousands of cases of the deadly Victorian disease in London alone unless MMR vaccination rates improv\u2026 [+4334 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.727691",
-      "internal_id": "9751bfff62f453b706a246bd13b691aca8bf6166e08f5f76aa5e871d35726298",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 376,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Bengaluru records 178 dengue cases in 11 days - Daijiworld.com",
-      "description": "Bengaluru records 178 dengue cases in 11 days Daijiworld.com Rise in dengue cases pushes up demand for platelets in Bengaluru The Hindu Delhi flood raises dengue risk: Why high haemoglobin levels and not platelet counts are worri\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmRhaWppd29ybGQuY29tL25ld3MvbmV3c0Rpc3BsYXk_bmV3c0lEPTEwOTk3ODnSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-14 09:37:35",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-15 19:05:07.033449",
-      "internal_id": "dc88250aabb644b763d8a01ffa92031ce94d23f02ef07c7c10d349e8f4d30c9e",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 370,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Www.gov.uk",
-      "author": "UK Health Security Agency",
-      "title": "London at risk of measles outbreaks with modelling estimating tens of thousands of cases",
-      "description": "UKHSA modelling suggests that, unless MMR vaccination rates improve, London could see a measles outbreak with tens of thousands of cases.",
-      "url": "https://www.gov.uk/government/news/london-at-risk-of-measles-outbreaks-with-modelling-estimating-tens-of-thousands-of-cases",
-      "urlToImage": "https://assets.publishing.service.gov.uk/media/64b01cb9c033c100108062bb/child_vaccination960.jpg",
-      "publishedAt": "2023-07-14 08:30:04",
-      "content": "Outside London the risk of large measles outbreaks is low but we could see smaller outbreaks in specific populations, including teenagers, young people and under vaccinated communities. Those who ha\u2026 [+5206 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.721629",
-      "internal_id": "e27f49b1b22212433e594caddb7dcf8d2fc2137203e5489a62d22e859f97ed75",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 369,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Www.gov.uk",
-      "author": "UK Health Security Agency",
-      "title": "Guidance: Measles: risk assessment for resurgence in the UK",
-      "description": "Risk assessment estimates for measles resurgence in the UK.",
-      "url": "https://www.gov.uk/government/publications/measles-risk-assessment-for-resurgence-in-the-uk",
-      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
-      "publishedAt": "2023-07-14 08:30:03",
-      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
-      "retrievedAt": "2023-07-15 19:05:06.720381",
-      "internal_id": "5b3a664ed5a94fc4cb681a0ad8f0e029b96e72482e3ce1f256f2ba63f1cc9bf5",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 393,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vietnamplus.vn",
-      "author": "VNA",
-      "title": "Laos sees strong increase in dengue case number",
-      "description": "Laos has seen a strong rise in the number of dengue fever cases recently, mostly due to ineffective preventive measures, according to the Lao Ministry of Health.",
-      "url": "https://en.vietnamplus.vn/laos-sees-strong-increase-in-dengue-case-number/256366.vnp",
-      "urlToImage": null,
-      "publishedAt": "2023-07-14 07:16:00",
-      "content": "Vientiane (VNA) Laos has seen a strong rise in the number of dengue fever cases recently, mostly due to ineffective preventive measures, according to the Lao Ministry of Health.The ministry said th\u2026 [+1198 chars]",
-      "retrievedAt": "2023-07-16 07:05:40.670107",
-      "internal_id": "6a63d3fdd4e94df0cf93fe1e436e18d8d6082369a90bd08650c1cb532464d3f3",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 342,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "Pablo Hiriart",
-      "title": "Aitana lleg\u00f3 con dengue",
-      "description": "Dengue es la afecci\u00f3n que ten\u00eda ni\u00f1a Aitana, de seis a\u00f1os, que lleg\u00f3 al IMSS de Playa del Carmen, procedente del municipio maya de Tinum, en Yucat\u00e1n, adonde regres\u00f3 muerta.",
-      "url": "https://www.elfinanciero.com.mx/opinion/pablo-hiriart/2023/07/14/aitana-llego-con-dengue/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/cPwyow-WSg-A8zoBsCOkwsamBHQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/P3B4LTIAMJEKDBNTMAOH76EIRE.jpg",
-      "publishedAt": "2023-07-14 07:05:00",
-      "content": "La ni\u00f1a Aitana Betzab\u00e9 lleg\u00f3 al hospital del IMSS de Playa del Carmen, donde muri\u00f3 prensada por un elevador, aquejada por dengue, una enfermedad de horrible desenlace que ya estaba controlada en M\u00e9xi\u2026 [+4048 chars]",
-      "retrievedAt": "2023-07-15 07:05:31.337512",
-      "internal_id": "37148c7c5e0bf31b376f88c276f654bf0b067110e6dbf176827e1be571fbd5c6",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 341,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "The Times of Israel",
-      "author": null,
-      "title": "Whooping cough outbreak spreads to north with new case in town near Nahariya",
-      "description": "Infectious disease expert posits that post-COVID vaccine fatigue and skepticism, as well as 'immunological debt' are at play",
-      "url": "https://www.timesofisrael.com/whooping-cough-outbreak-spreads-to-north-with-new-case-in-town-near-nahariya/",
-      "urlToImage": "https://static.timesofisrael.com/www/uploads/2022/01/iStock-1290910702-1024x640.jpg",
-      "publishedAt": "2023-07-14 05:49:38",
-      "content": "A pertussis outbreak in Jerusalem that began earlier this year has spread to the north of the country, with the Health Ministry announcing Thursday that a child in the western Galilee was found to ha\u2026 [+7294 chars]",
-      "retrievedAt": "2023-07-15 07:05:30.258937",
-      "internal_id": "289dd26e69d7b72a8e7d8c8aedc3729a151a3296d3daa826bcf62173384bced3",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 391,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Ministry urges all to continue anti-dengue drive",
-      "description": "KATHMANDU: The Ministry of Health and Population has urged all sides concerned to continue the anti-dengue drive in the wake of rising cases of dengue. The spokesperson at the Ministry, Dr Samir Kumar Adhikari, urged all employees to involve in the sanitation\u2026",
-      "url": "https://english.khabarhub.com/2023/14/310718/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2020/01/Nepal-Ministry-Of-Health-And-Population02.jpg",
-      "publishedAt": "2023-07-14 01:15:02",
-      "content": "KATHMANDU: The Ministry of Health and Population has urged all sides concerned to continue the anti-dengue drive in the wake of rising cases of dengue. The spokesperson at the Ministry, Dr Samir Kum\u2026 [+970 chars]",
-      "retrievedAt": "2023-07-16 07:05:40.668161",
-      "internal_id": "a21279e030d9cfd197912c4e0eca7c0258cdd4722adfcf35bbc1ae19871cc2b7",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 347,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Regina G. Barber",
-      "title": "A week in science: A copper-age \"queen,\" a sea squirt and malaria-fighting mosquitoes",
-      "description": "NPR's Adrian Florido talks with Short Wave hosts Regina Barber and Geoff Brumfiel about a copper-age \"queen,\" a 500-million-year-old sea squirt, and a way to help mosquitoes fight malaria.",
-      "url": "https://www.npr.org/2023/07/13/1187573921/a-week-in-science-a-copper-age-queen-a-sea-squirt-and-malaria-fighting-mosquitoe",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "publishedAt": "2023-07-13 20:36:07",
-      "content": "NPR's Adrian Florido talks with Short Wave hosts Regina Barber and Geoff Brumfiel about a copper-age \"queen,\" a 500-million-year-old sea squirt, and a way to help mosquitoes fight malaria.",
-      "retrievedAt": "2023-07-15 07:05:32.272797",
-      "internal_id": "81ac1c3391697f195620acd50f4db3cf78d44015b5bdf5dfcab960e361f714b0",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 343,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Aos Fatos",
-      "title": "N\u00e3o \u00e9 verdade que governo Lula recusou vacina contra a dengue aprovada pela Anvisa",
-      "description": "N\u00e3o \u00e9 verdade que o governo Lula (PT) recusou a compra da vacina japonesa contra a dengue ...",
-      "url": "https://www.terra.com.br/noticias/checamos/nao-e-verdade-que-governo-lula-recusou-vacina-contra-a-dengue-aprovada-pela-anvisa,2b28c9d963ad977f04fae69ae6ac039czjjkzifz.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/13/709398032-13072023lularecusouvacinadengue.png",
-      "publishedAt": "2023-07-13 19:29:48",
-      "content": "N\u00e3o \u00e9 verdade que o governo Lula (PT) recusou a compra da vacina japonesa contra a dengue aprovada pela Anvisa (Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria) para esperar at\u00e9 que um imunizante brasileiro\u2026 [+3785 chars]",
-      "retrievedAt": "2023-07-15 07:05:31.345402",
-      "internal_id": "1ed920403d681b5291c47abfdd2b6327d76721752674587cb13a4faf7759eb7d",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 330,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": null,
-      "title": "50-pound rabid beaver attacks girl swimming in Georgia lake",
-      "description": "\"Once that rabies virus gets into the brain of the animal - in this case, a beaver - they just act crazy,\" one official said.",
-      "url": "https://www.cbsnews.com/news/rabid-beaver-attacks-girl-lake-lanier-georgia-father-kills-animal/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/13/9151e20f-2ec9-4424-918f-098d800ebaa8/thumbnail/1200x630/4652fb53a3bcf168ed92b29054d50402/gettyimages-584647976.jpg?v=867e41af7e860d9286e5bd7e91ee0db8",
-      "publishedAt": "2023-07-13 17:45:17",
-      "content": "A rabid beaver bit a young girl while she was swimming in a northeast Georgia lake, local news outlets reported, prompting the girl's father to kill the animal. Kevin Buecker, field supervisor for H\u2026 [+3671 chars]",
-      "retrievedAt": "2023-07-14 19:05:24.033065",
-      "internal_id": "4392c5cc0ac606f5873316863824d9d65c9cfa4a7a9f5137daf907c168c608d8",
-      "publishedAtLabel": "Jul 13"
     }
   ]
 }
