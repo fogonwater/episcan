@@ -1,8 +1,332 @@
 {
-  "last_updated": "2023-07-21 19:05",
+  "last_updated": "2023-07-22 07:05",
   "count_articles_total": 299,
-  "count_articles_new": 17,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 544,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod: Leptospirosis prevention drive urged by SP",
+      "description": "Bacolod City \u2013 The Bacolod Sangguniang Panlungsod is requesting the Bacolod City Health Office, thru Mayor Alfredo Abelardo Benitez, to conduct an information dissemination and prevention drive on the health risks imposed by leptospirosis. The resolution auth\u2026",
+      "url": "https://rpnradio.com/bacolod-leptospirosis-prevention-drive-urged-by-sp/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/07/bacolod-leptospirosis-drive.jpg",
+      "publishedAt": "2023-07-21 06:54:43",
+      "content": "Bacolod City \u2013 The Bacolod Sangguniang Panlungsod is requesting the Bacolod City Health Office, thru Mayor Alfredo Abelardo Benitez, to conduct an information dissemination and prevention drive on th\u2026 [+1176 chars]",
+      "retrievedAt": "2023-07-22 07:05:08.870921",
+      "internal_id": "9d7a8089d2f2cd765cc529a59fec64f68e74052152b1ca0ff8d36077ea721604",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 533,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Dengue death toll rises to 155 in Bangladesh in 2023",
+      "description": "DHAKA, July 21 (Xinhua) -- The Bangladeshi government has confirmed another nine deaths from dengue",
+      "url": "http://en.people.cn/n3/2023/0721/c90000-20047646.html",
+      "urlToImage": null,
+      "publishedAt": "2023-07-21 06:51:28",
+      "content": "DHAKA, July 21 (Xinhua) -- The Bangladeshi government has confirmed another nine deaths from dengue fever, bringing the total number of fatalities in the country since January to 155, the Directorate\u2026 [+766 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.088365",
+      "internal_id": "d0312d6a341c97eb760a850334bad3a6adf777d607153d709ca673c30ef5869f",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 532,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Now, you will need a prescription for buying aspirin, ibuprofen, diclofinac in Delhi. Read why",
+      "description": "Delhi government has asked chemists to restrain from selling aspirin, ibuprofen and diclofenac without a valid doctor's prescription to address the recent surge in dengue cases in the state. The drugs control department has issued an advisory to chemists to m\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/now-you-will-need-a-prescription-for-buying-aspirin-ibrufin-diclofinac-in-delhi-read-why/articleshow/102003935.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-102004398,width-1070,height-580,imgsize-30082,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-07-21 05:36:40",
+      "content": "To deal with recent spike in dengue cases in Delhi, the state government has asked the chemists to exercise caution in selling drugs like aspirin, ibuprofen, and diclofenac without a valid doctor's p\u2026 [+1831 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.085802",
+      "internal_id": "5f9f84d893a1de1729ccaebf579619c992942c489524de387a86c442ab665f0c",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 535,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Group A Streptococcus Meningitis in Adults, Denmark",
+      "description": "Group A Streptococcus Meningitis in Adults, Denmark",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/9/23-0627_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-07-21 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Emergence of increased gro\u2026 [+4945 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.298334",
+      "internal_id": "3ddffb9ba2f87fa9b8e8477cf86ea8647e84b2c8a6c89bd768e287b9a90868d4",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 536,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "2-Year-Old US Boy Dies Of Brain-Eating Amoeba",
+      "description": "The medical staff originally believed he had meningitis. Later, they discovered he had the deadly brain-eating amoeba that caused widespread concern earlier this year.",
+      "url": "https://www.ndtv.com/world-news/2-year-old-us-boy-dies-of-brain-eating-amoeba-4227797",
+      "urlToImage": "https://c.ndtvimg.com/2022-08/9s5gs42o_brain-eating-amoeba-infection-650_625x300_18_August_22.jpg",
+      "publishedAt": "2023-07-21 02:41:33",
+      "content": "The symptoms of the disease appear one to 12 days after the exposure. A two-year-old boy in Nevada, United States, died on July 19 from the infection of Naegleria fowleri, commonly referred to as th\u2026 [+2343 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.300269",
+      "internal_id": "6e66bfc4490482fef3bd2c1539c8d77e87b117ea27844859faca8e8bc00a7f6b",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 530,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Don\u2019t take painkillers if you get dengue, caution experts - The New Indian Express",
+      "description": "Don\u2019t take painkillers if you get dengue, caution experts The New Indian Express Amid rise in dengue cases, Delhi govt asks chemists not to sell painkillers like Aspirin, Ibuprofen without prescription | Mint Mint Delhi chemists \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm5ld2luZGlhbmV4cHJlc3MuY29tL2NpdGllcy9kZWxoaS8yMDIzL2p1bC8yMS9kb250LXRha2UtcGFpbmtpbGxlcnMtaWYteW91LWdldC1kZW5ndWUtY2F1dGlvbi1leHBlcnRzLTI1OTcwNjQuaHRtbNIBfWh0dHBzOi8vd3d3Lm5ld2luZGlhbmV4cHJlc3MuY29tL2NpdGllcy9kZWxoaS8yMDIzL2p1bC8yMS9kb250LXRha2UtcGFpbmtpbGxlcnMtaWYteW91LWdldC1kZW5ndWUtY2F1dGlvbi1leHBlcnRzLTI1OTcwNjQuYW1w?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-21 02:02:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.079043",
+      "internal_id": "f6d62494bbeb336e9b2d9657feab236232ca464515accaaba31b0e3559ceed2d",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 527,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Cbs Baltimore Staff",
+      "title": "Owings Mills cat tests positive for rabies, alarming health officials",
+      "description": "Baltimore County Animal Services is advising anyone who may have been exposed to the cat to seek medical attention from a healthcare provider or visit a hospital emergency room.",
+      "url": "https://www.cbsnews.com/baltimore/news/owings-mills-cat-tests-positive-for-rabies-alarming-health-officials/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/21/3e880992-7001-43f5-8b6e-407775fbd61d/thumbnail/1200x630/6428a57663e3f477e17eb42aa6e544d1/gettyimages-1332536779.jpg?v=8be0a296491a12ce38351fd824e37a16",
+      "publishedAt": "2023-07-21 01:15:09",
+      "content": "BALTIMORE -- A cat found in the Owings Mills area tested positive for rabies on Wednesday, according to Baltimore County's Department of Health and Human Services. The calico-type cat was found near\u2026 [+1404 chars]",
+      "retrievedAt": "2023-07-22 07:05:06.441427",
+      "internal_id": "bf977f517d52df7899528a082f8ffb8fd07cb9b98c088dec7c093b36f40b2b04",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 528,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Naked Scientists",
+      "author": "The Naked Scientists",
+      "title": "Alzheimer's drug, and algae vegan vitamins",
+      "description": "A new drug in the fight against Alzheimer's disease: how does it work? Plus, we'll also have the latest on measles cases in London, look at the calls to reset the lunar clock, and could algae help people who are seeking to increase vitamin B12 in their diet? \u2026",
+      "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/alzheimers-drug-and-algae-vegan-vitamins",
+      "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/images/ALZHEIMER-NEURONES.png?itok=6gcFlIzq",
+      "publishedAt": "2023-07-21 00:46:52",
+      "content": "The phase 3 trial results of a new drug called donanemab has been hailed as a turning point in the fight against Alzheimers disease. Scientists say that the drug - which slowed cognitive decline by 3\u2026 [+8422 chars]",
+      "retrievedAt": "2023-07-22 07:05:06.741909",
+      "internal_id": "b616ec6ca7b79f9dc48433d914fb4d413f7f1d063671515a6273216caf9feeed",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 543,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Hannah Walsh and Ashleigh Bagshaw",
+      "title": "Fears of deadly disease outbreak like 'Russian roulette with your dog' as leptospirosis vaccine shortage bites",
+      "description": "Vet clinics say they're running out of a vaccine that protects dogs against a lethal disease. Here's what pet and working dog owners need to know.",
+      "url": "https://www.abc.net.au/news/rural/2023-07-21/vet-clinics-running-out-of-leptospirosis-vaccine/102592370",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/90fcee81bd4ad21eeb3656375f432fa8?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485",
+      "publishedAt": "2023-07-21 00:26:38",
+      "content": "As vet clinics run out of a vaccine to protect dogs against a potentially fatal bacterial disease, some vets fear the community is on the cusp of a major outbreak. Key points: Vets are runn\u2026 [+3545 chars]",
+      "retrievedAt": "2023-07-22 07:05:08.867528",
+      "internal_id": "78e9adb72538121ae5b30adda5c4433e439de1e8417aaeef8ce33aea0af530c9",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 529,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Delhi govt asks chemists not to sell painkillers without prescription - ETHealthWorld",
+      "description": "Delhi govt asks chemists not to sell painkillers without prescription ETHealthWorld Restrict sale of pain relief drugs without doctor\u2019s prescription amid rise in dengue cases: Delhi govt tellschemists | Mint Mint Don\u2019t sell paink\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihwFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcG9saWN5L2RlbGhpLWdvdnQtYXNrcy1jaGVtaXN0cy1ub3QtdG8tc2VsbC1wYWlua2lsbGVycy13aXRob3V0LXByZXNjcmlwdGlvbi8xMDE5OTg2NTTSAYsBaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9wb2xpY3kvZGVsaGktZ292dC1hc2tzLWNoZW1pc3RzLW5vdC10by1zZWxsLXBhaW5raWxsZXJzLXdpdGhvdXQtcHJlc2NyaXB0aW9uLzEwMTk5ODY1NA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-21 00:00:33",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.076818",
+      "internal_id": "8af403da77293dc12f0865f519b9740fc8e0c033e4b9e0e022b73abfc05ecd45",
+      "publishedAtLabel": "Jul 21"
+    },
+    {
+      "id": 531,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Phuoc Long Truong, Toi Vo Van, Cam Duyen Thi Vo, Van Hoi Truong",
+      "title": "A novel colorimetric biosensor for rapid detection of dengue virus upon acid-induced aggregation of colloidal gold",
+      "description": "Anal. Methods, 2023, Accepted ManuscriptDOI: 10.1039/D3AY00756A, PaperPhuoc Long Truong, Toi Vo Van, Cam Duyen Thi Vo, Van Hoi TruongThe dengue virus, once transmitted to people through a mosquito bite, causes an infectious disease called dengue fever. The de\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2023/ay/d3ay00756a",
+      "urlToImage": null,
+      "publishedAt": "2023-07-20 23:00:00",
+      "content": "P. L. Truong, T. Vo Van, C. D. T. Vo and V. H. Truong, Anal. Methods, 2023, Accepted Manuscript , DOI: 10.1039/D3AY00756A To request permission to reproduce material from this article, please go \u2026 [+617 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.083019",
+      "internal_id": "de3358521ae2c0aa933117cc642228b50dcc77d2f5d7fe0ca5b5ab9650e8dc7b",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 541,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Goo.ne.jp",
+      "author": "idconsult",
+      "title": "\u30a2\u30e1\u30ea\u30ab\u56fd\u5185\u3067\u30de\u30e9\u30ea\u30a2\u611f\u67d3\u300120\u5e74\u3076\u308a\u30fb\u30fb",
+      "description": "\u7c73\u56fd\u672c\u571f\u3067\u30de\u30e9\u30ea\u30a2\u306b\uff08=\u6d77\u5916\u304b\u3089\u306e\u6301\u3061\u8fbc\u307f\u3067\u306f\u306a\u3044\uff09\u7f79\u60a3\u3059\u308b\u3068\u3044\u3046\u4e8b\u304c\u304a\u304d\u307e\u3057\u305f\u3002\u5ffd\u90a3\u5148\u751f\u9054\u3001\u307e\u3059\u307e\u3059\u5fd9\u3057\u304f\u306a\u308a\u307e\u3059\u3002\u6c96\u7e04\u3082\u4ee5\u524d\u306f\u30de\u30e9\u30ea\u30a2\u3001\u30c7\u30f3\u30b0\u304c\u5f53\u305f\u308a\u524d\u3060\u3063\u305f\u3088\u3046\u3067\u3059\u304c\u30fb\u30fbNewmalariacaseinFloridabringsnationaltotalto8,thefirstU.S.acquiredcasesin20yearsAllsevenofFlorida\u2019scaseshavebeenfoundinSarasotaCounty.ACDCofficialsaidtheagencydoesnotexpec\u2026",
+      "url": "https://blog.goo.ne.jp/idconsult/e/478730654d69453d1cc9977851e14040",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230718-florida-malaria-pesticides-ew-1233p-f9bb65.jpg",
+      "publishedAt": "2023-07-20 22:08:04",
+      "content": "New malaria case in Florida brings national total to 8, the first U.S. acquired cases in 20 years All seven of Floridas cases have been found in Sarasota County. A CDC official said the agency does \u2026 [+43 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.782262",
+      "internal_id": "a0b8ec332cacb1f09a80721791af25f36e70ae9efaabc2f747b5bf20258b6d4f",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 539,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Amid Climate Change, Mosquitoes Migrate; Will Malaria Follow?",
+      "description": "As the planet warms, mosquitoes are slowly migrating upward. The temperature range where malaria-carrying mosquitoes thrive is rising in elevation. Researchers have found evidence of the phenomenon from the tropical highlands of South America to the mounta\u2026",
+      "url": "https://www.voanews.com/a/amid-climate-change-mosquitoes-migrate-will-malaria-follow-/7189517.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0a00-0242-d821-08db896148a5_w1200_r1.jpg",
+      "publishedAt": "2023-07-20 20:45:17",
+      "content": "As the planet warms, mosquitoes are slowly migrating upward. The temperature range where malaria-carrying mosquitoes thrive is rising in elevation. Researchers have found evidence of the phenomenon\u2026 [+3329 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.776236",
+      "internal_id": "92bc176cbcd42a2c840f6b255b92908b669667a90c7550b4a25b62d0bc1ab726",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 537,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "https://www.forbes.com/",
+      "title": "Malaria Vaccines Are Finally Here: The Top Shots And What\u2019s On The Horizon Next",
+      "description": "While researchers have spent decades searching for malaria vaccines, only two have ever been authorized, a situation many scientists hope to change as they race to leverage new technology against one of humanity\u2019s oldest and deadliest foes.",
+      "url": "https://www.forbes.com/video/6331572846112/malaria-vaccines-are-finally-here-the-top-shots-and-whats-on-the-horizon-next/",
+      "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2023/07/20/6331572846112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
+      "publishedAt": "2023-07-20 20:42:06",
+      "content": "While researchers have spent decades searching for malaria vaccines, only two have ever been authorized, a situation many scientists hope to change as they race to leverage new technology against one\u2026 [+39 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.771192",
+      "internal_id": "95d04b5e8647be6bf962f02a5cc0bef475a1494a0393723511713441366bc9aa",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 542,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "MARY KATHERINE WILDEMAN",
+      "title": "As temperatures rise, mosquitoes are also on the move. Scientists worry that could mean more malaria",
+      "description": "As the planet warms, mosquitoes are slowly migrating upward.",
+      "url": "https://www.startribune.com/as-temperatures-rise-mosquitoes-are-also-on-the-move-scientists-worry-that-could-mean-more-malaria/600291087/",
+      "urlToImage": "https://chorus.stimg.co/24799111/merlin_71400502.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2023-07-20 20:10:01",
+      "content": "As the planet warms, mosquitoes are slowly migrating upward. The temperature range where malaria-carrying mosquitoes thrive is rising in elevation. Researchers have found evidence of the phenomenon \u2026 [+5746 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.787580",
+      "internal_id": "81a924ddb9e87dab1f113d645f9586ecbe4609684ddef59b864bbcd436674bb0",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 540,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MARY KATHERINE WILDEMAN Associated Press",
+      "title": "As temperatures rise, mosquitoes are also on the move. Scientists worry that could mean more malaria",
+      "description": "As global warming pushes temperatures up, the elevation range where malaria-carrying mosquitoes thrive is rising",
+      "url": "https://abcnews.go.com/Technology/wireStory/temperatures-rise-mosquitoes-move-scientists-worry-malaria-101533933",
+      "urlToImage": "https://s.abcnews.com/images/Technology/wirestory_48166329d2eeb9037b49b381a1bbe598_12x5_992.jpg",
+      "publishedAt": "2023-07-20 20:06:31",
+      "content": "As the planet warms, mosquitoes are slowly migrating upward. The temperature range where malaria-carrying mosquitoes thrive is rising in elevation. Researchers have found evidence of the phenomenon\u2026 [+5744 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.778488",
+      "internal_id": "88b779a2063830dee7f10f0ab7289415bd511b819d56b1cb188ef90f05fa33dc",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 538,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "independent",
+      "source_name": "Independent",
+      "author": "Mary Katherine Wildeman",
+      "title": "As temperatures rise, mosquitoes are also on the move. Scientists worry that could mean more malaria",
+      "description": "As global warming pushes temperatures up, the elevation range where malaria-carrying mosquitoes thrive is rising",
+      "url": "https://www.independent.co.uk/news/ap-ethiopia-mosquitoes-scientists-south-america-b2379197.html",
+      "urlToImage": "https://static.independent.co.uk/2023/07/20/21/Climate%20Change-Infectious%20Diseases-Malaria.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-07-20 20:04:22",
+      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails As the planet warms, mosquitoes are slowly migrating\u2026 [+5891 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.773578",
+      "internal_id": "f8f83fd4298d572d69e73ee1be4e1a722b3150ab6e25ba89b7cfb2cf4d07eaf2",
+      "publishedAtLabel": "Jul 20"
+    },
+    {
+      "id": 534,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Detectan caracoles gigantes africanos que pueden transmitir la meningitis en tres zonas de Tenerife",
+      "description": "Pueden llegar a alcanzar los 30 cent\u00edmetros de longitud y transmitir la meningitis. Son las caracter\u00edsticas del caracol gigante africano (Lissachatina fulica), una especie invasora que ha sido detectada en tres zonas de Tenerife y sobre el que ya ha advertido\u2026",
+      "url": "https://www.abc.es/espana/canarias/detectan-caracoles-gigantes-africanos-pueden-transmitir-meningitis-20230720210820-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2023/07/20/Caracol1-kMKF--1024x512@abc.jpg",
+      "publishedAt": "2023-07-20 19:08:21",
+      "content": "Pueden llegar a alcanzar los 30 cent\u00edmetros de longitud y transmitir la meningitis. Son las caracter\u00edsticas del caracol gigante africano (Lissachatina fulica), una especie invasora que ha sido detect\u2026 [+2521 chars]",
+      "retrievedAt": "2023-07-22 07:05:07.296564",
+      "internal_id": "caba1fa3fad5cb5cb1e99832ba21a9001f7930b1974e862558f7975f243f92ec",
+      "publishedAtLabel": "Jul 20"
+    },
     {
       "id": 523,
       "query": [
@@ -3295,333 +3619,6 @@
       "retrievedAt": "2023-07-14 19:05:24.033065",
       "internal_id": "4392c5cc0ac606f5873316863824d9d65c9cfa4a7a9f5137daf907c168c608d8",
       "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 329,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": "Jennifer Lee",
-      "title": "Whooping cough still spreading as southern Alberta outbreak grows",
-      "description": "Dozens more cases of pertussis, also known as whooping cough, have been identified as an outbreak in southern Alberta shows no signs of letting up. And sporadic cases of the highly contagious disease, which can be prevented through vaccination, are popping up\u2026",
-      "url": "https://www.cbc.ca/news/canada/calgary/whooping-cough-still-spreading-as-southern-alberta-outbreak-grows-1.6904516",
-      "urlToImage": "https://i.cbc.ca/1.5050264.1689206825!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/child-coughing.jpg",
-      "publishedAt": "2023-07-13 17:25:51",
-      "content": "Dozens more cases of pertussis, also known as whooping cough, have been identified as an outbreak in southern Alberta shows no signs of letting up. And sporadic cases of the highly contagious diseas\u2026 [+3679 chars]",
-      "retrievedAt": "2023-07-14 19:05:23.454994",
-      "internal_id": "20f78892758b79b5e1f0c76c3774d935c5fd29db05910d5b30f52b5ffedb8c54",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 332,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Lawrence Richard",
-      "title": "Georgia girl attacked by rabid beaver while swimming in Lake Lanier",
-      "description": "A girl swimming in Lake Lanier near Gainesville, Georgia, was attacked by a beaver that later tested positive for rabies. The girl's father then beat the animal to death.",
-      "url": "https://www.foxnews.com/us/georgia-girl-attacked-rabid-beaver-swimming-lake-lanier",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/GettyImages-1517819669.jpg",
-      "publishedAt": "2023-07-13 15:31:12",
-      "content": "A rabid beaver bit a girl as she was swimming in Lake Lanier near Gainesville, Georgia, the first such attack in decades, officials said. Hall County Animal Control Field Supervisor Kevin Buecker to\u2026 [+1601 chars]",
-      "retrievedAt": "2023-07-14 19:05:24.039149",
-      "internal_id": "8f28a4eda8246deae73eb2d1eb1a11549f27cc73ff58172a3c93d288321b5854",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 337,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "The Feed",
-      "title": "Mosquito cases surge in Florida: Researcher notes tips to avoid 'mosquito-borne illnesses'",
-      "description": "Mosquito-borne illnesses have taken a surge lately, as per latest report. To counter these mishaps, here are some advices one may take into consideration.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/mosquito-cases-surge-in-florida-researcher-notes-tips-to-avoid-mosquito-borne-illnesses/articleshow/101734441.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-101734477,width-1070,height-580,imgsize-39472,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-07-13 14:56:35",
-      "content": "As malaria cases increase across the world, concerns over mosquito-borne illnesses have heightened, prompting many to question the most effective methods for eliminating these troublesome insects. Wh\u2026 [+2293 chars]",
-      "retrievedAt": "2023-07-14 19:05:26.472367",
-      "internal_id": "58b199d26b5bf13e6c2e12c1a880dde4135599d42c9349fbcd7d776b14c77360",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 336,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Singularity Hub",
-      "author": "Vanessa Bates Ramirez",
-      "title": "CRISPR\u2019d Mosquitoes With All-Male Offspring Could Help Eradicate Malaria",
-      "description": "Scientists have long searched for a vaccine against malaria, but it remains one of the deadliest diseases in the world. Almost half of the world\u2019s population lives in areas where malaria transmission occurs, and an estimated 619,000 people died of the disease\u2026",
-      "url": "https://singularityhub.com/2023/07/13/crisprd-mosquitoes-with-all-male-offspring-could-help-eradicate-malaria/",
-      "urlToImage": "https://singularityhub.com/wp-content/uploads/2023/07/Mosquito-Akbari-1200-628-7-3-23.jpg",
-      "publishedAt": "2023-07-13 14:00:48",
-      "content": "Scientists have long searched for a vaccine against malaria, but it remains one of the deadliest diseases in the world. Almost half of the worlds population lives in areas where malaria transmission \u2026 [+4067 chars]",
-      "retrievedAt": "2023-07-14 19:05:26.462190",
-      "internal_id": "c664925dd7c5a0075177543d7113e527863042e3aa274afd5b9b12b6798281b7",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 334,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Mayke Leggewie, Christina Scherer, Mine Altinli, Rommel J. Gestuveo, Vattipally B. Sreenu, Janina Fuss, Marie Vazeille, Laurence Mousson, Marlis Badusche, Alain Kohl, Anna-Bella Failloux, Esther Schnettler",
-      "title": "The Aedes aegypti RNA interference response against Zika virus in the context of co-infection with dengue and chikungunya viruses",
-      "description": "Author summary Zika virus (ZIKV) is a mosquito-borne human-pathogenic arbovirus of the Flaviviridae family, genus Flavivirus. Other arboviruses, including dengue (DENV) or chikungunya (CHIKV) virus, can occur in the same regions as ZIKV and are also transmitt\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011456",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011456.g006&size=inline",
-      "publishedAt": "2023-07-13 14:00:00",
-      "content": "Abstract Since its detection in 2015 in Brazil, Zika virus (ZIKV) has remained in the spotlight of international public health and research as an emerging arboviral pathogen. In addition to single i\u2026 [+51075 chars]",
-      "retrievedAt": "2023-07-14 19:05:25.372549",
-      "internal_id": "9b664fa6c5710297d3db1330a4011f352f8481007fa6751556fc9ccc687d2dc1",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 338,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Francis Williams Ojara, Aida N. Kawuma, Catriona Waitt",
-      "title": "A systematic review on maternal-to-infant transfer of drugs through breast milk during the treatment of malaria, tuberculosis, and neglected tropical diseases",
-      "description": "Author summary Malaria, tuberculosis, and neglected tropical diseases (NTDs) are prevalent in regions where exclusive breastfeeding is the norm and jointly contributed to more than 300 million incident cases in 2021 alone. Transfer of drugs from the mother to\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011449",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011449.g004&size=inline",
-      "publishedAt": "2023-07-13 14:00:00",
-      "content": "Introduction Malaria, tuberculosis, and neglected tropical diseases (NTDs) are among the leading causes of morbidity and mortality globally. The World Health Organization (WHO) estimated global inci\u2026 [+48176 chars]",
-      "retrievedAt": "2023-07-14 19:05:26.475042",
-      "internal_id": "ec8536a8aff18970a4cb78d625ce0fe73300b6b28b7198f35f700457de6e5dc3",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 335,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Sputnikportal.rs",
-      "author": "Sputnik \u0421\u0440\u0431\u0438\u0458\u0430",
-      "title": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434 \u0438\u0437 \u0421\u0440\u0431\u0438\u0458\u0435 \u043f\u043e\u0432\u0443\u0447\u0435\u043d \u0438\u0437 \u043f\u0440\u043e\u0434\u0430\u0458\u0435 \u0443 \u0425\u0440\u0432\u0430\u0442\u0441\u043a\u043e\u0458: \u041d\u0430\u0452\u0435\u043d\u0430 \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0458\u0430, \u043c\u043e\u0436\u0435 \u0434\u0430 \u0438\u0437\u0430\u0437\u043e\u0432\u0435 \u043c\u0435\u043d\u0438\u043d\u0433\u0438\u0442\u0438\u0441",
-      "description": "\u0425\u0440\u0432\u0430\u0442\u0441\u043a\u0438 \u0438\u043d\u0441\u043f\u0435\u043a\u0442\u043e\u0440\u0430\u0442 \u043d\u0430\u043b\u043e\u0436\u0438\u043e \u0458\u0435 \u043f\u043e\u0432\u043b\u0430\u0447\u0435\u045a\u0435 \u0438\u0437 \u043f\u0440\u043e\u0434\u0430\u0432\u043d\u0438\u0446\u0430 \u0434\u0438\u043c\u0459\u0435\u043d\u043e\u0433 \u0444\u0438\u043b\u0435\u0442\u0430 \u043b\u043e\u0441\u043e\u0441\u0430 \u0447\u0438\u0458\u0438 \u0458\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0452\u0430\u0447 \u0444\u0438\u0440\u043c\u0430 \u0438\u0437 \u0421\u0440\u0431\u0438\u0458\u0435, \u0437\u0431\u043e\u0433 \u043f\u043e\u0458\u0430\u0432\u0435 \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0458\u0435 \u043a\u043e\u0458\u0430 \u043c\u043e\u0436\u0435 \u0438\u0437\u0430\u0437\u0432\u0430\u0442\u0438 \u0447\u0430\u043a \u0438 \u043c\u0435\u043d\u0438\u043d\u0433\u0438\u0442\u0438\u0441 \u0438\u043b\u0438 \u043f\u043e\u0431\u0430\u0447\u0430\u0458 \u043a\u043e\u0434 \u0442\u0440\u0443\u0434\u043d\u0438\u0446\u0430.",
-      "url": "https://sputnikportal.rs/20230713/proizvod-iz-srbije-povucen-iz-prodaje-u-hrvatskoj-nadjena-bakterija-moze-da-izazove-meningitis-1158493165.html",
-      "urlToImage": "https://cdn1.img.sputnikportal.rs/images/sharing/article/srb/1158493165.jpg?11476321631689251002",
-      "publishedAt": "2023-07-13 12:23:21",
-      "content": "https://sputnikportal.rs/20230713/proizvod-iz-srbije-povucen-iz-prodaje-u-hrvatskoj-nadjena-bakterija-moze-da-izazove-meningitis-1158493165.html , ... 13.07.2023, Sputnik /html/head/meta[@name='o\u2026 [+767 chars]",
-      "retrievedAt": "2023-07-14 19:05:25.697654",
-      "internal_id": "96f7a94339e86c488cd0d887ccdc699d3d3c6e3b4b48c7f225895b06d26548ff",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 333,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue to Malaria: 5 common monsoon diseases and how to protect yourself - DNA India",
-      "description": "Dengue to Malaria: 5 common monsoon diseases and how to protect yourself DNA India Immunity: Follow These Tips To Lower Risk of Respiratory Infections During Monsoon NDTV Immunity boosting drink for monsoon: Try lemon and turmeri\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmRuYWluZGlhLmNvbS9oZWFsdGgvcmVwb3J0LWRlbmd1ZS10by1tYWxhcmlhLTUtY29tbW9uLW1vbnNvb24tZGlzZWFzZXMtYW5kLWhvdy10by1wcm90ZWN0LXlvdXJzZWxmLTMwNTE1MjbSAQA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-13 11:07:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-14 19:05:25.364366",
-      "internal_id": "97ab241c8ab0cdb735b262098ce1633c92f240735437c85d23c00c1d8fd4053c",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 331,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "Pandora Dewan",
-      "title": "Rabid Beaver Attacks Girl in Lake, Father Beat It to Death",
-      "description": "Officials described the animal as the \"biggest beaver\" they had ever seen.",
-      "url": "https://www.newsweek.com/rabid-beaver-attacks-girl-lake-father-beat-death-1812701",
-      "urlToImage": "https://d.newsweek.com/en/full/2256998/beaver.jpg",
-      "publishedAt": "2023-07-13 11:05:32",
-      "content": "A rabies alert has been issued in Gainesville, Georgia, after a young girl was bitten by a rabid beaver on the weekend. The incident took place on Saturday afternoon while the girl was swimming off \u2026 [+2628 chars]",
-      "retrievedAt": "2023-07-14 19:05:24.035898",
-      "internal_id": "1bd687579ba7bbc33fa57270e5edab8a11272fc912ab9279974a9ea489779639",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 340,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Monsoon can cause these illnesses - News18",
-      "description": "Monsoon can cause these illnesses News18 Leptospirosis: Beware of the unseen killer lurking in floodwaters INQUIRER.net Monsoon brings fever, gastric infections; docs warn against cold food The Indian Express How does \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5ld3MxOC5jb20vd2ViLXN0b3JpZXMvaGVhbHRoL21vbnNvb24tY2FuLWNhdXNlLXRoZXNlLWlsbG5lc3Nlcy0yNDc0MDcv0gFTaHR0cHM6Ly93d3cubmV3czE4LmNvbS93ZWItc3Rvcmllcy9oZWFsdGgvbW9uc29vbi1jYW4tY2F1c2UtdGhlc2UtaWxsbmVzc2VzLTI0NzQwNy8?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-13 09:50:50",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-14 19:05:29.116685",
-      "internal_id": "c7376e2da2fc92c9da8e62faa6b5c9530b5363ee985489405af3f62d7226836f",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 339,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Is malaria making a comeback in the U.S.? - National Geographic",
-      "description": "Is malaria making a comeback in the U.S.?National Geographic Malaria cases in Florida and Texas prompt CDC warning: What to knowUSA TODAY Sarasota County Mosquito Management taking measures to eradicate mosquitos carrying malariaCBS News Mosquito Management o\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171373639",
-      "urlToImage": null,
-      "publishedAt": "2023-07-13 07:52:17",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-14 19:05:26.480559",
-      "internal_id": "6cc604ad3b4544d719fa503cfb894e574275bb88470420a3bf37d4bc43c9df6d",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 320,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Israel National News",
-      "title": "Day camp warns parents of camper infected with pertussis",
-      "description": "Health Ministry warns of potential outbreak after child in northern Israel is diagnosed with pertussis.",
-      "url": "https://www.israelnationalnews.com/news/374084",
-      "urlToImage": "https://www.inn.co.il/static/pictures/1200x930/1126346.jpg?autocrop=1",
-      "publishedAt": "2023-07-13 06:41:02",
-      "content": "Israel's Health Ministry on Wednesday evening reported that there may be a pertussis outbreak in a day camp in northern Israel, Kikar Hashabbat reported. The camp, located in the Acre (Akko) Subdist\u2026 [+2142 chars]",
-      "retrievedAt": "2023-07-14 07:05:49.512300",
-      "internal_id": "8d15243e3c593c3681e176ab1dabec7a3d8e439091be52b994c090eac1c5ed64",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 344,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "P.B. avec AFP (20 Minutes)",
-      "title": "C\u2019est l\u2019heure du BIM : 3.000 places de prison en plus, dengue en Guadeloupe et col\u00e8re des acteurs \u00e0 Hollywood",
-      "description": "\u00ab 20 Minutes \u00bb compile pour vous les infos qu\u2019il ne faut pas manquer ce matin dans votre Bulletin d\u2019information matinal (BIM)",
-      "url": "https://www.20minutes.fr/societe/4045458-20230713-heure-bim-3-000-places-prison-plus-dengue-guadeloupe-colere-acteurs-hollywood",
-      "urlToImage": "https://img.20mn.fr/nAXjizFYTq68PMe0sJRJiyk/1200x768_files-detainees-exchange-small-bags-through-the-window-of-their-cells-at-the-baumettes-prison-in-marseille-southern-france-on-january-8-2013-a-new-record-of-detainees-has-been-set-in-france-with-73-162-detained-people-according-to-french-ministry-on-may-30-2023-photo-by-anne-christine-poujoulat-afp",
-      "publishedAt": "2023-07-13 05:45:42",
-      "content": "Vous avez manqu\u00e9 les infos de ce d\u00e9but de matin\u00e9e ? On vous a concoct\u00e9 un r\u00e9cap pour vous aider \u00e0 y voir plus clair. \u00ab Chiche \u00bb : face \u00e0 la crise de la surpopulation carc\u00e9rale, l\u2019Assembl\u00e9e nationale\u2026 [+2026 chars]",
-      "retrievedAt": "2023-07-15 07:05:31.349653",
-      "internal_id": "737c735ddc72a07dd79857fb790db01e730adfd1438825eab1252adcb75c10bd",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 322,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Dr Rommel Tickoo",
-      "title": "Preventing dengue: Have high fever? High haemoglobin levels and not platelet counts are what you should track",
-      "description": "Strap: Let me assure you that a majority of patients have mild or asymptomatic disease and a shock syndrome happens in rare cases. The only way to keep yourself away from dangerous thresholds, therefore, is to keep your fluid balance by drinking more than you\u2026",
-      "url": "https://indianexpress.com/article/health-wellness/preventing-dengue-have-high-fever-high-haemoglobin-levels-and-not-platelet-counts-are-what-you-should-track-8832572/",
-      "urlToImage": "https://images.indianexpress.com/2023/07/dengue_1200_HS.jpg",
-      "publishedAt": "2023-07-13 04:49:15",
-      "content": "As news of the unusual monsoon and waterlogging floods our newswires, it would be wise on our part to prepare for and prevent a dengue outbreak. Few patients are already coming into our hospital and \u2026 [+3915 chars]",
-      "retrievedAt": "2023-07-14 07:05:50.385344",
-      "internal_id": "6b0514d6b2433a3612b5f2f26be23bed6a8c7f3619e397c7fe7d6d2cc781e29d",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 325,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "SII's meningitis vaccine gets WHO nod on quality, safety - Indiatimes.com",
-      "description": "SII's meningitis vaccine gets WHO nod on quality, safety Indiatimes.comView Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvcHVuZS9zaWlzLW1lbmluZ2l0aXMtdmFjY2luZS1nZXRzLXdoby1ub2Qtb24tcXVhbGl0eS1zYWZldHkvYXJ0aWNsZXNob3cvMTAxNzEzNDIyLmNtc9IBeWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvcHVuZS9zaWlzLW1lbmluZ2l0aXMtdmFjY2luZS1nZXRzLXdoby1ub2Qtb24tcXVhbGl0eS1zYWZldHkvYW1wX2FydGljbGVzaG93LzEwMTcxMzQyMi5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-13 02:55:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-14 07:05:50.587029",
-      "internal_id": "1e5d767817e60421523442ff12c82c8c488b32e095a54e86d84e84d06a3b72d7",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 326,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "SII's meningitis vaccine gets WHO nod on quality, safety - Times of India",
-      "description": "SII's meningitis vaccine gets WHO nod on quality, safety Times of IndiaView Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifmh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvcHVuZS9zaWlzLW1lbmluZ2l0aXMtdmFjY2luZS1nZXRzLXdoby1ub2Qtb24tcXVhbGl0eS1zYWZldHkvYXJ0aWNsZXNob3cvMTAxNzEzNDIyLmNtc9IBeWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvcHVuZS9zaWlzLW1lbmluZ2l0aXMtdmFjY2luZS1nZXRzLXdoby1ub2Qtb24tcXVhbGl0eS1zYWZldHkvYW1wX2FydGljbGVzaG93LzEwMTcxMzQyMi5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-13 02:55:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-14 07:05:50.589556",
-      "internal_id": "7bf5661a3610b5ef91254eb1dbd67ce7916cefd83bae9b7bb2d26eeb19cafa4d",
-      "publishedAtLabel": "Jul 13"
-    },
-    {
-      "id": 327,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Medical Daily",
-      "author": "Kristine Belonio",
-      "title": "This Is How Many Malaria Cases The US Records Every Year",
-      "description": "The United States has recently witnessed an uptick in malaria cases.",
-      "url": "https://www.medicaldaily.com/this-how-many-malaria-cases-us-records-every-year-470491",
-      "urlToImage": "https://d.medicaldaily.com/en/full/469370/malaria.jpg",
-      "publishedAt": "2023-07-12 23:55:23",
-      "content": "The United States has witnessed an uptick in locally acquired malaria cases, with at least seven reported over the past two months. This marked the first instance of local transmission of the disease\u2026 [+2880 chars]",
-      "retrievedAt": "2023-07-14 07:05:50.890466",
-      "internal_id": "4da265eea7246342743aa38f4a6276748207af83973021dd46ab1893aed6a1e3",
-      "publishedAtLabel": "Jul 12"
-    },
-    {
-      "id": 345,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "20 Minutes avec AFP (20 Minutes)",
-      "title": "Guadeloupe : Alerte \u00e0 la dengue en avec des foyers \u00ab \u00e0 caract\u00e8re expansif \u00bb",
-      "description": "Plus de 425 cas de dengue ont \u00e9t\u00e9 enregistr\u00e9s depuis le d\u00e9but de l\u2019ann\u00e9e, et la maladie est pr\u00e9sente dans 13 communes guadeloup\u00e9ennes",
-      "url": "https://www.20minutes.fr/sante/4045455-20230713-guadeloupe-alerte-dengue-foyers-caractere-expansif",
-      "urlToImage": "https://img.20mn.fr/49BCXFjaQMWbsiDZ_DX--Ck/1200x768_file-salt-lake-city-mosquito-abatement-district-biologist-nadja-reissen-examines-a-mosquito-in-salt-lake-city-aug-26-2019-european-union-officials-warned-thursday-june-22-2023-there-is-a-growing-risk-of-mosquito-borne-viral-diseases-such-as-dengue-and-chikungunya-in-europe-due-to-climate-change-ap-photo-rick-bowmer-file-lbj101-23173281339142-file-photo-2306221102",
-      "publishedAt": "2023-07-12 23:50:49",
-      "content": "Plus de 425 cas de dengue ont \u00e9t\u00e9 enregistr\u00e9s en Guadeloupe depuis janvier 2023, a indiqu\u00e9 mercredi l\u2019Agence r\u00e9gionale de sant\u00e9 (ARS) locale, qui alerte sur une \u00ab \u00e9mergence de foyers \u00bb du virus \u00e0 \u00ab c\u2026 [+2191 chars]",
-      "retrievedAt": "2023-07-15 07:05:31.352130",
-      "internal_id": "cc106a355be02ecf2f1d105a7e96a31ed8dfe92741489ada35fc84f4936e72fb",
-      "publishedAtLabel": "Jul 12"
     }
   ]
 }
