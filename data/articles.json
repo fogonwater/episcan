@@ -1,8 +1,242 @@
 {
-  "last_updated": "2023-07-23 07:05",
+  "last_updated": "2023-07-23 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 15,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 604,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i",
+      "title": "Mpox. Novo surto com 37 casos em Lisboa e Vale do Tejo",
+      "description": "Quase mil diagn\u00f3sticos num ano. &etilde;",
+      "url": "https://ionline.sapo.pt/artigo/803501/mpox-novo-surto-com-37-casos-em-lisboa-e-vale-do-tejo?seccao=Portugal_i",
+      "urlToImage": "https://cdn1.newsplex.pt/media/2023/7/22/fb/856318.jpg",
+      "publishedAt": "2023-07-22 17:01:44",
+      "content": "DGS revelou que desde junho foram detetados 37 novos casos de infe\u00e7\u00e3o pelo v\u00edrus mpox, num novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo. \"Ap\u00f3s tr\u00eas meses sem novos casos de mpox\u2026 [+1188 chars]",
+      "retrievedAt": "2023-07-23 19:05:11.278304",
+      "internal_id": "b3d56d0a7186b8546ad57f8d592da531bf7a7baaec28874cd61ded6eb3e13db6",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 597,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Mary Katherine Wildeman, AP",
+      "title": "Mosquitos Are Moving to Higher Elevations\u2014and So Is Malaria",
+      "description": "As the planet warms, mosquitoes are slowly migrating to higher places \u2014 and bringing malaria to populations not used to dealing with the potentially deadly disease.Read more...",
+      "url": "https://gizmodo.com/mosquitos-higher-elevations-malaria-climate-health-1850663168",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/923612b937867e91cd1ffc521f75e4fe.jpg",
+      "publishedAt": "2023-07-22 15:00:00",
+      "content": "As the planet warms, mosquitoes are slowly migrating to higher places and bringing malaria to populations not used to dealing with the potentially deadly disease. Climate Connections is a collaborat\u2026 [+5871 chars]",
+      "retrievedAt": "2023-07-23 19:05:10.283695",
+      "internal_id": "5441f9b561b84006a424e9dbcdfa5caba594ed66ad2f9f5a62e6a686a2305445",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 592,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Gazzetta.it",
+      "author": "Redazione",
+      "title": "Febbre Dengue, l'allarme dell'Oms: \"A rischio met\u00e0 della popolazione mondiale\"",
+      "description": "Secondo l'Organizzazione Mondiale della Sanit\u00e0 i casi di Dengue potrebbero raggiungere livelli record quest'anno, ecco perch\u00e9.",
+      "url": "https://www.gazzetta.it/salute/22-07-2023/febbre-dengue-oms-a-rischio-meta-della-popolazione-mondiale.shtml",
+      "urlToImage": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2023/07/22/64bbe51a39fba.jpeg",
+      "publishedAt": "2023-07-22 14:32:39",
+      "content": "Redazione 22 luglio - MILANO Secondo l'Organizzazione mondiale della sanit\u00e0 (Oms), quest'anno i casi di Dengue potrebbero raggiungere livelli record, in parte a causa del riscaldamento globale che \u2026 [+2307 chars]",
+      "retrievedAt": "2023-07-23 19:05:09.420745",
+      "internal_id": "bcdf5ade69be6382b4cef70dc27a86ee976c518e9f910ca02f57fa8607a53d27",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 598,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Publico.pt",
+      "author": "publico@publico.pt",
+      "title": "Novo surto de mpox com 37 casos em Lisboa e Vale do Tejo",
+      "description": "De acordo a DGS, 12 casos de infec\u00e7\u00e3o foram confirmados entre 12 e 30 de Junho e os restantes 25 casos entre 1 e 20 de Julho. At\u00e9 Junho, Portugal tinha identificado 965 casos confirmados.",
+      "url": "https://www.publico.pt/2023/07/22/ciencia/noticia/novo-surto-mpox-37-casos-lisboa-vale-tejo-2057790",
+      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1827831?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "publishedAt": "2023-07-22 12:50:45",
+      "content": "Um total de 37 casos de infec\u00e7\u00e3o pelo v\u00edrus mpox foi detectado em Portugal desde Junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Direc\u00e7\u00e3o-Geral da Sa\u00fade (DGS).\u2026 [+1713 chars]",
+      "retrievedAt": "2023-07-23 19:05:11.267299",
+      "internal_id": "52e99ca10307fe1471507b63b7af3dabdc1b08b839f994e60e58fa2a894bc135",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 602,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cmjornal.pt",
+      "author": "portal@cmjornal.pt (Correio da Manh\u00e3)",
+      "title": "Novo surto de mpox com 37 casos em Lisboa e Vale do Tejo",
+      "description": "V\u00edrus transmite-se por contacto f\u00edsico pr\u00f3ximo, nomeadamente com les\u00f5es ou fluidos corporais ou por contacto com material contaminado.",
+      "url": "https://www.cmjornal.pt/sociedade/detalhe/novo-surto-de-mpox-com-37-casos-em-lisboa-e-vale-do-tejo",
+      "urlToImage": "https://cdn.cmjornal.pt/images/2022-06/img_1200x676$2022_06_28_22_16_15_1163740.jpg",
+      "publishedAt": "2023-07-22 12:48:43",
+      "content": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \"\u2026 [+1706 chars]",
+      "retrievedAt": "2023-07-23 19:05:11.274813",
+      "internal_id": "8772712549f2fb68f74a6d781825a8f3ada9dcf354cb24973caadc6a85619363",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 600,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldenegocios.pt",
+      "author": "jng@negocios.pt (Jornal de Neg\u00f3cios)",
+      "title": "Novo surto de mpox com 37 casos em Lisboa e Vale do Tejo",
+      "description": "O v\u00edrus transmite-se por contacto f\u00edsico pr\u00f3ximo, nomeadamente com as les\u00f5es ou fluidos corporais, ou por contacto com material contaminado, como len\u00e7\u00f3is, atoalhados ou utens\u00edlios pessoais.",
+      "url": "https://www.jornaldenegocios.pt/economia/saude/detalhe/novo-surto-de-mpox-com-37-casos-em-lisboa-e-vale-do-tejo",
+      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2022-06/img_1200x676$2022_06_05_16_20_28_430428.jpg",
+      "publishedAt": "2023-07-22 12:29:27",
+      "content": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \"\u2026 [+1708 chars]",
+      "retrievedAt": "2023-07-23 19:05:11.270925",
+      "internal_id": "5304586da962dbddfe105bc7f9f280172f2b835c54d7d5d867811e974f739996",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 601,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.pt",
+      "author": "DN/Lusa",
+      "title": "Novo surto de mpox com 37 casos em Lisboa e Vale do Tejo",
+      "description": "Segundo os dados agora divulgados, 12 casos de infe\u00e7\u00e3o foram confirmados entre 12 e 30 de junho e restantes 25 casos entre 01 e 20 de julho.",
+      "url": "https://www.dn.pt/sociedade/novo-surto-de-mpox-com-37-casos-em-lisboa-e-vale-do-tejo-16735336.html",
+      "urlToImage": "https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=35e2c604-8414-4bf3-9f43-5240442bf309&w=800&h=420&watermark=true&t=20230722132600",
+      "publishedAt": "2023-07-22 12:26:00",
+      "content": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \"\u2026 [+1827 chars]",
+      "retrievedAt": "2023-07-23 19:05:11.272782",
+      "internal_id": "37fab5dd52add5cf1bd68177cf33d57de0cae87d5f1e2c364cd675f0e910d10c",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 599,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Novo surto de mpox com 37 casos em Lisboa e Vale do Tejo",
+      "description": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \u201cAp\u00f3s tr\u00eas meses sem novos casos de mpox reportados em Portuga\u2026",
+      "url": "https://observador.pt/2023/07/22/novo-surto-de-mpox-com-37-casos-em-lisboa-e-vale-do-tejo/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A0%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F06%2F22093951%2F39912962.jpg",
+      "publishedAt": "2023-07-22 12:20:50",
+      "content": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). A\u2026 [+1734 chars]",
+      "retrievedAt": "2023-07-23 19:05:11.269480",
+      "internal_id": "78a7e1da05e063443e45e5efe053ba552ae48a3c23b27f945c60e9628c1e5f2a",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 603,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Expresso.pt",
+      "author": "Lusa",
+      "title": "Novo surto de monkeypox atinge 37 casos de infe\u00e7\u00e3o em Lisboa e Vale do Tejo",
+      "description": "Segundo a Dire\u00e7\u00e3o-Geral da Sa\u00fade, ap\u00f3s tr\u00eas meses sem haver casos reportados em Portugal, voltou a ressurgir o surto, na maioria em homens entre 20 e 40 anos, da infe\u00e7\u00e3o que se propaga por contacto f\u00edsico pr\u00f3ximo al\u00e9m de len\u00e7\u00f3is ou toalhas contaminados",
+      "url": "https://expresso.pt/sociedade/2023-07-22-Novo-surto-de-monkeypox-atinge-37-casos-de-infecao-em-Lisboa-e-Vale-do-Tejo-641ddb2e",
+      "urlToImage": "https://images.impresa.pt/expresso/2022-05-18-monkeypox-indonesia-6cbcde98/1.91x1?wm=true&outputFormat=jpeg",
+      "publishedAt": "2023-07-22 12:17:02",
+      "content": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \"\u2026 [+1706 chars]",
+      "retrievedAt": "2023-07-23 19:05:11.276334",
+      "internal_id": "3326070d04b9d0feff9e5800ead186e4f4b4d67da1e74af32d1b602758a8f4fb",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 595,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Risingbd.com",
+      "author": "Https://www.risingbd.com",
+      "title": "\u2018No situation created to declare health emergency over dengue\u2019",
+      "description": "Health and Family Welfare Minister Zahid Maleque said that despite the increase in the number of dengue cases and deaths across the country, no situation has been created yet to declare a health emergency.",
+      "url": "https://www.risingbd.com/english/national/news/97393",
+      "urlToImage": "https://cdn.risingbd.com/media/imgAll/2023May/en/Dengue-2307220854.jpg",
+      "publishedAt": "2023-07-22 10:01:58",
+      "content": "Health and Family Welfare Minister Zahid Maleque said that despite the increase in the number of dengue cases and deaths across the country, no situation has been created yet to declare a health emer\u2026 [+459 chars]",
+      "retrievedAt": "2023-07-23 19:05:09.438280",
+      "internal_id": "9320046ccb224a5d6ab503c0eafdef640821364abc29ab14db83494cd5c0ee62",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 593,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "WHO warnt vor Dengue-Fieber: Infektionsrisiko durch M\u00fccken steigt in Europa - echo24.de",
+      "description": "WHO warnt vor Dengue-Fieber: Infektionsrisiko durch M\u00fccken steigt in Europa echo24.de Folge des Klimawandels: WHO warnt vor Ausbreitung des Dengue-Fiebers tagesschau.de Gefahr durch Dengue-Virus steigt: Tropische Stechm\u00fccken sind\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5lY2hvMjQuZGUvd2VsdC93aG8td2FybnVuZy1nZXN1bmRoZWl0LWRlbmd1ZS1maWViZXItd2V0dGVyLW11ZWNrZW4taW5mZWt0aW9uLXJpc2lrby1ldXJvcGEtdXJsYXViLWxhZW5kZXItYXVzYnJlaXR1bmctOTI0MTYyOTQuaHRtbNIBAA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-22 09:19:53",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-23 19:05:09.428323",
+      "internal_id": "c1cf594d4553b1893b87b65a3666e1062cda786f9eff7bb3da3097fd8cf10fed",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 594,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Alerta OMS por m\u00e1ximo hist\u00f3rico de dengue",
+      "description": "Ginebra. La Organizaci\u00f3n Mundial de la Salud (OMS) advirti\u00f3 que este a\u00f1o los casos de dengue podr\u00edan acercarse a m\u00e1ximos hist\u00f3ricos, en parte debido a que el calentamiento global beneficia a los mosquitos que lo propagan.",
+      "url": "https://www.jornada.com.mx/2023/07/22/politica/010n4pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-07-22 08:38:04",
+      "content": "Peri\u00f3dico La JornadaS\u00e1bado 22 de julio de 2023, p. 10 Ginebra. La Organizaci\u00f3n Mundial de la Salud (OMS) advirti\u00f3 que este a\u00f1o los casos de dengue podr\u00edan acercarse a m\u00e1ximos hist\u00f3ricos, en parte de\u2026 [+882 chars]",
+      "retrievedAt": "2023-07-23 19:05:09.431087",
+      "internal_id": "f3984df36a10fffb3cbcede486be8681f2839f4e7629ccbc67b3511ca729a573",
+      "publishedAtLabel": "Jul 22"
+    },
+    {
+      "id": 596,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Elementarteilchen: Ist das der Durchbruch im Kampf gegen Malaria? - DER SPIEGEL",
+      "description": "Elementarteilchen: Ist das der Durchbruch im Kampf gegen Malaria? DER SPIEGEL",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5zcGllZ2VsLmRlL3dpc3NlbnNjaGFmdC9jb3ZpZC1pc3QtamV0enQtdm9lbGxpZy1ub3JtYWwtZGFzLXdpbGRlLWxpZWJlc2xlYmVuLWltLXJvZW1pc2NoZW4tcmVpY2gtZGllLWxlc2UtZW1wZmVobHVuZ2VuLWRlci13b2NoZS1hLTk4NWY1YjFlLWE1NmUtNDExYS1iZDYxLTAwMGI5ZGFiN2Y2MdIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-22 07:58:38",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-23 19:05:10.282055",
+      "internal_id": "246a029bca0038d24e99f8a17cdd2c419d3f178b75f4153791007c5085521ff2",
+      "publishedAtLabel": "Jul 22"
+    },
     {
       "id": 584,
       "query": [
@@ -3382,240 +3616,6 @@
       "retrievedAt": "2023-07-17 07:06:03.807883",
       "internal_id": "550562f6c553ce69813698d55bd080fdfc8757bdfc50a907ac5bca9e459cb8e5",
       "publishedAtLabel": "Jul 16"
-    },
-    {
-      "id": 403,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Sa\u00fade em Dia",
-      "title": "Menos interna\u00e7\u00f5es, maior mortalidade: as doen\u00e7as negligenciadas na pandemia",
-      "description": "Mal\u00e1ria, leishmaniose e dengue est\u00e3o entre as doen\u00e7as que causaram menos interna\u00e7\u00f5es, mas mais mortes durante a pandemia de Covid-19",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/menos-internacoes-maior-mortalidade-as-doencas-negligenciadas-na-pandemia,35b61c4878a42cd19f0cb31fbd41b5c19v6g975r.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/07/15/596615719-doencas-infecciosas.jpg",
-      "publishedAt": "2023-07-15 20:02:42",
-      "content": "Um estudo realizado pela Universidade Federal de Uberl\u00e2ndia (UFU), em parceria com a Universidade de C\u00f3rdoba, na Espanha, revelou que algumas doen\u00e7as tiveram um aumento na mortalidade, mas uma queda \u2026 [+2420 chars]",
-      "retrievedAt": "2023-07-17 01:17:23.375550",
-      "internal_id": "f6c58e1d3575acde5466ab367ab2f1e9a02381faa5d5551d26b9611d6f626bc4",
-      "publishedAtLabel": "Jul 15"
-    },
-    {
-      "id": 402,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "5,236 suspected Mpox cases reported in DR Congo, 229 deaths: WHO",
-      "description": "A total of 5,236 suspected Mpox (monkeypox) cases and 229 deaths have been reported so far this year in the Democratic Republic of the Congo (DRC), according to a new report released by the World Health Organization (WHO). According to the report, from Januar\u2026",
-      "url": "https://sylhetmirror.com/2023/07/16/5236-suspected-mpox-cases-reported-in-dr-congo-229-deaths-who/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/e32er43r.jpg",
-      "publishedAt": "2023-07-15 18:07:40",
-      "content": "A total of 5,236 suspected Mpox (monkeypox) cases and 229 deaths have been reported so far this year in the Democratic Republic of the Congo (DRC), according to a new report released by the World Hea\u2026 [+1402 chars]",
-      "retrievedAt": "2023-07-16 19:05:12.311776",
-      "internal_id": "8642f31255286d288a82f99d6e8813e84d62d53c87ca016b63f04dca40da6993",
-      "publishedAtLabel": "Jul 15"
-    },
-    {
-      "id": 399,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Lisa Bullerdiek",
-      "title": "Tropenkrankheiten wandern nach Europa: \u201eDengue-Fieber steht vor der T\u00fcr\u201c",
-      "description": "Tropenkrankheiten sind l\u00e4ngst bei uns, wei\u00df J\u00fcrgen May vom Bernhard-Nocht-Institut. Die Pharmaindustrie reagiert meist erst, wenn es wei\u00dfe Tote gibt.",
-      "url": "https://taz.de/Tropenkrankheiten-wandern-nach-Europa/!5927191/",
-      "urlToImage": "https://taz.de/picture/6391099/948/muecke-1.jpeg",
-      "publishedAt": "2023-07-15 16:00:00",
-      "content": "Tropenkrankheiten sind l\u00e4ngst bei uns, wei\u00df J\u00fcrgen May vom Bernhard-Nocht-Institut. Die Pharmaindustrie reagiert meist erst, wenn es wei\u00dfe Tote gibt. Kann zur \u00dcbertr\u00e4gerin gef\u00e4hrlicher tropischer Vi\u2026 [+6779 chars]",
-      "retrievedAt": "2023-07-16 19:05:10.688623",
-      "internal_id": "67c4bf074dac2fea6adced4e63c592c0cf43c0097e030e267486fcfb2c0db9e1",
-      "publishedAtLabel": "Jul 15"
-    },
-    {
-      "id": 397,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Rabies Alert issued for parts of Marion County - Ocala News",
-      "description": "Rabies Alert issued for parts of Marion CountyOcala News Rabies alert issued for Central Florida countyWESH 2 Orlando Rabies warning in Burnet CountyDailyTrib.com Rabid Raccoon Confirmed In Camden County; Dog Possibly ExposedPatch View Full Coverage on G\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171390555",
-      "urlToImage": null,
-      "publishedAt": "2023-07-15 13:32:13",
-      "content": "How many Unix hacks does it take to change a light bulb? Let's see, can you use a shell script for that or does it need a C program?",
-      "retrievedAt": "2023-07-16 19:05:10.013832",
-      "internal_id": "3dece889b84e4b05281ead18021d790cb703b2107a6e9a0b161335b22aa537a1",
-      "publishedAtLabel": "Jul 15"
-    },
-    {
-      "id": 398,
-      "query": [
-        "measles"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Risk of major measles outbreak in London, warns UK Health Security Agency - WION",
-      "description": "Risk of major measles outbreak in London, warns UK Health Security Agency WION UK officials warn low measles immunization rates could lead to tens of thousands of cases in London Toronto Star Why are there fears of a London measl\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lndpb25ld3MuY29tL3dvcmxkL3Jpc2stb2YtbWFqb3ItbWVhc2xlcy1vdXRicmVhay1pbi1sb25kb24td2FybnMtdWstaGVhbHRoLXNlY3VyaXR5LWFnZW5jeS02MTYwMDXSAXFodHRwczovL3d3dy53aW9uZXdzLmNvbS93b3JsZC9yaXNrLW9mLW1ham9yLW1lYXNsZXMtb3V0YnJlYWstaW4tbG9uZG9uLXdhcm5zLXVrLWhlYWx0aC1zZWN1cml0eS1hZ2VuY3ktNjE2MDA1L2FtcA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-15 11:12:47",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-16 19:05:10.375254",
-      "internal_id": "2f93fc868509646e32acc5a32a879378cf43a4c610457db9caf0ed0dd9ca7475",
-      "publishedAtLabel": "Jul 15"
-    },
-    {
-      "id": 404,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Dengue corner expanded at BSMMU",
-      "description": "The dengue corner was expanded today at Bangabandhu Sheikh Mujib Medical University (BSMMU) as part of a quick response to the growing dengue crisis in the country, reports our correspondent. It has been extended to the second floor in E-Block. The post Dengu\u2026",
-      "url": "https://sylhetmirror.com/2023/07/15/dengue-corner-expanded-at-bsmmu/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/Iuut5.jpg",
-      "publishedAt": "2023-07-15 08:54:57",
-      "content": "The dengue corner was expanded today at Bangabandhu Sheikh Mujib Medical University (BSMMU) as part of a quick response to the growing dengue crisis in the country, reports our correspondent. It has\u2026 [+45 chars]",
-      "retrievedAt": "2023-07-17 01:17:23.380627",
-      "internal_id": "9aeebb19ec85b1b020d066e8419538d1897e02c6200151d9ea5d69a8f2335b2a",
-      "publishedAtLabel": "Jul 15"
-    },
-    {
-      "id": 401,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Al Jazeera",
-      "title": "Dimie Ogoina: Is mpox health emergency over in the Global South?",
-      "description": "The Nigerian scientist who diagnosed the first recent mpox case discusses whether the health emergency is really over.",
-      "url": "https://www.aljazeera.com/program/talk-to-al-jazeera/2023/7/15/dimie-ogoina-is-mpox-health-emergency-over-in-the-global-south",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/image-45.jpg?resize=1920%2C1080",
-      "publishedAt": "2023-07-15 08:24:54",
-      "content": "The Nigerian scientist who diagnosed the first recent mpox case discusses whether the health emergency is really over.In 2017 in Nigeria, Dr Dimie Ogoina diagnosed the worlds first known case of mpox\u2026 [+496 chars]",
-      "retrievedAt": "2023-07-16 19:05:12.308468",
-      "internal_id": "15f45554df7a83b953e31e41bcf0691f785422b2673ec76709fc0b31a0a01e97",
-      "publishedAtLabel": "Jul 15"
-    },
-    {
-      "id": 400,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Francetvinfo.fr",
-      "author": null,
-      "title": "Guadeloupe : la recrudescence de la dengue inqui\u00e8te les autorit\u00e9s sanitaires",
-      "description": "Depuis janvier 2023, 425 cas de dengue ont \u00e9t\u00e9 enregistr\u00e9s en Guadeloupe. Mais selon les autorit\u00e9s sanitaires locales, le nombre de contaminations de ce virus propag\u00e9 par le moustique-tigre pourrait \u00eatre bien plus \u00e9lev\u00e9 en r\u00e9alit\u00e9.",
-      "url": "https://www.francetvinfo.fr/france/guadeloupe/guadeloupe-la-recrudescence-de-la-dengue-inquiete-les-autorites-sanitaires_5951747.html",
-      "urlToImage": "https://www.francetvinfo.fr/pictures/7fa2ggTsykM22NZ_7mRvywQSJwo/1500x843/2023/07/15/64b2477e38ff1_guadeloupe-dengue.jpg",
-      "publishedAt": "2023-07-15 07:15:37",
-      "content": "Le gardien d'un cimeti\u00e8re en Guadeloupe traque sans rel\u00e2che la moindre flaque stagnante. Il est \u00e0 la recherche des moustiques qui propagent la dengue. Depuis janvier dernier, 425 cas ont \u00e9t\u00e9 enregist\u2026 [+754 chars]",
-      "retrievedAt": "2023-07-16 19:05:10.691365",
-      "internal_id": "dad098a1053fd5193df08b5324f2223a0ea4241406779690ee70408cf2277ed3",
-      "publishedAtLabel": "Jul 15"
-    },
-    {
-      "id": 395,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "DC-area doctor gives tips on malaria prevention - WTOP",
-      "description": "DC-area doctor gives tips on malaria preventionWTOP Latest On Florida Malaria Cases | Weather.comThe Weather Channel Experts in Florida combat mosquitos with malaria #news #florida #malaria #mosquitoABC Action News Malaria concerns have Polk mosquito control \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171388359",
-      "urlToImage": null,
-      "publishedAt": "2023-07-15 03:12:09",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-07-16 07:05:42.065012",
-      "internal_id": "8fe504f20a8202b73cf40d1df87bf50b7ea7fc13ec1ddc02c697b2cf5f125476",
-      "publishedAtLabel": "Jul 15"
-    },
-    {
-      "id": 389,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "From 30 in mid-June, BMC dengue cases surge to 60 - Times of India",
-      "description": "From 30 in mid-June, BMC dengue cases surge to 60 Times of India Dengue spreads tentacles in Odisha as capital city becomes mosquito hotspot OTV News PMC reports spurt in dengue cases Hindustan Times Dengue cases reach\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkva29sa2F0YS9mcm9tLTMwLWluLW1pZC1qdW5lLWJtYy1kZW5ndWUtY2FzZXMtc3VyZ2UtdG8tNjAvYXJ0aWNsZXNob3cvMTAxNzcxMTI4LmNtc9IBdmh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkva29sa2F0YS9mcm9tLTMwLWluLW1pZC1qdW5lLWJtYy1kZW5ndWUtY2FzZXMtc3VyZ2UtdG8tNjAvYW1wX2FydGljbGVzaG93LzEwMTc3MTEyOC5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-15 02:22:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-16 07:05:40.659333",
-      "internal_id": "1343fd050fc6bf43b7bbab0a0a7026559851109a0e338d483f687438968aeb3c",
-      "publishedAtLabel": "Jul 15"
-    },
-    {
-      "id": 390,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Mini Thomas",
-      "title": "Spurt in dengue: Bengaluru now seeing 30-40 cases per day",
-      "description": "The city is witnessing a spurt in dengue cases. \"Between 30 and 40 cases are being reported daily,\" said KV Thrilok Chandra, special commissioner, health, Bruhat Bengaluru Mahanagara Palike (BBMP), adding that there has been a rise in the past two months.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/spurt-in-dengue-bluru-now-seeing-30-40-cases-per-day/articleshow/101769769.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-101769778,width-1070,height-580,imgsize-442341,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-07-14 23:45:51",
-      "content": "Impressive looks of Tanya Ravichandran!",
-      "retrievedAt": "2023-07-16 07:05:40.663504",
-      "internal_id": "63e40dd0b965ffc2737efedcc05ad12fadbc3140f7a1916ce112e03561c4ce4a",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 386,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Savebritain.org",
-      "author": "Save Britain",
-      "title": "Health Warning: Measles Outbreak in Britain as Thousands of Cases\u2026",
-      "description": "Data released today by the UK Health Security Agency (UKHSA) show that measles cases have been steadily increasing this year. A new risk assessment also indicates the possibility of a measles outbreak, notably in London. In 2022, 54 instances of measles were \u2026",
-      "url": "https://savebritain.org/health-warning-measles-outbreak-in-britain-as-thousands-of-cases-predicted/",
-      "urlToImage": "https://savebritain.org/wp-content/uploads/2023/07/measles-outbreak-uk.jpg",
-      "publishedAt": "2023-07-14 21:39:52",
-      "content": "Data released today by the UK Health Security Agency (UKHSA) show that measles cases have been steadily increasing this year. A new risk assessment also indicates the possibility of a measles outbrea\u2026 [+3176 chars]",
-      "retrievedAt": "2023-07-16 07:05:39.856562",
-      "internal_id": "9ed70ba06b00ceb5d9308fedad6dcd48cd145afee37c012064eb9b8d787aa806",
-      "publishedAtLabel": "Jul 14"
-    },
-    {
-      "id": 387,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newshub",
-      "author": "Ireland Hendry-tennent",
-      "title": "Health experts warn UK at 'very real risk' of outbreak of deadly Victorian disease measles due to low vaccination",
-      "description": "Health experts warn UK at 'very real risk' of outbreak of deadly Victorian disease measles due to low vaccinationnewshub.co.nz",
-      "url": "https://www.newshub.co.nz/home/lifestyle/2023/07/health-experts-warn-uk-at-very-real-risk-of-outbreak-of-deadly-victorian-disease-measles-due-to-low-vaccination.html",
-      "urlToImage": "https://www.newshub.co.nz/home/lifestyle/2023/07/health-experts-warn-uk-at-very-real-risk-of-outbreak-of-deadly-victorian-disease-measles-due-to-low-vaccination/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1689369392037/getty-MEASLES-GENERIC-1120.jpg",
-      "publishedAt": "2023-07-14 21:24:04",
-      "content": "The virus can be prevented by the MMR vaccine. It was nearly wiped out entirely in the United Kingdom in the 2010s but a drop in vaccine rates saw it return with 880 cases reported in 2019. UKHSA c\u2026 [+1654 chars]",
-      "retrievedAt": "2023-07-16 07:05:39.858049",
-      "internal_id": "f379b0e867fdb4032827201317b668cc29e1f406dca8287f81dcbdeb464c0137",
-      "publishedAtLabel": "Jul 14"
     }
   ]
 }
