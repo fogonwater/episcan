@@ -1,8 +1,171 @@
 {
-  "last_updated": "2023-07-24 07:05",
+  "last_updated": "2023-07-24 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 621,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "People on HIV meds have 'almost zero' chance of spreading virus via sex once levels are low - Livescience.com",
+      "description": "People on HIV meds have 'almost zero' chance of spreading virus via sex once levels are lowLivescience.com Day 1 at IAS 2023 Brian Minalga and Dr. Carl Dieffenbach Discuss Mpox & MoreHIV gov The risk of sexual transmission of HIV in individuals with low-level\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171452490",
+      "urlToImage": null,
+      "publishedAt": "2023-07-23 17:32:33",
+      "content": "\"Be *excellent* to each other.\" -- Bill, or Ted, in Bill and Ted's Excellent Adventure",
+      "retrievedAt": "2023-07-24 19:05:08.415151",
+      "internal_id": "dd8fdcc41a37ac1489865071f71c41985d46f3e11e8b3711a2ac73df893a7bc1",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 614,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ynetnews",
+      "author": "Attila Somfalvi, Nir Cohen",
+      "title": "Dengue fever outbreak in Egypt worries Israel",
+      "description": "The disease, whose symptoms can include extreme fever leading to immobility and loss of appetite, is mainly transmitted via mosquitos which are prevalent in Israel",
+      "url": "https://www.ynetnews.com/health_science/article/skpauqc53",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2023/07/23/ryzFnFI9ch/ryzFnFI9ch_0_33_1000_563_0_large.jpg",
+      "publishedAt": "2023-07-23 14:13:30",
+      "content": "The number of dengue fever cases worldwide is expected to reach record levels according to the World Health Organization (WHO), after a recent outbreak was reported in Egypt. The Asian tiger mosquito\u2026 [+3607 chars]",
+      "retrievedAt": "2023-07-24 19:05:06.514900",
+      "internal_id": "7e611890ccebc1901086f7cb750ae1dd99e029e6a692885edd09f1b06b1eb9c6",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 617,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Numerama",
+      "author": "Yannick Simonin",
+      "title": "\u00c0 quoi faut-il s\u2019attendre cette ann\u00e9e pour le virus de la dengue en France ?",
+      "description": "La France m\u00e9tropolitaine doit aussi faire face \u00e0 la maladie de la dengue. Quelques dizaines de cas ont \u00e9t\u00e9 rep\u00e9r\u00e9s en 2022, bien plus que les contaminations habituelles. Quel sera le sc\u00e9nario pour 2023 ?",
+      "url": "https://www.numerama.com/sciences/1455150-a-quoi-faut-il-sattendre-cette-annee-pour-le-virus-de-la-dengue-en-france.html",
+      "urlToImage": "https://www.numerama.com/wp-content/uploads/2023/07/moustique.jpg",
+      "publishedAt": "2023-07-23 14:02:00",
+      "content": "La France m\u00e9tropolitaine doit aussi faire face \u00e0 la maladie de la dengue. Quelques dizaines de cas ont \u00e9t\u00e9 rep\u00e9r\u00e9s en 2022, bien plus que les contaminations habituelles. Quel sera le sc\u00e9nario pour 20\u2026 [+7763 chars]",
+      "retrievedAt": "2023-07-24 19:05:06.521864",
+      "internal_id": "af444f1b65798e02b2cf3512fe98b8b234372ec5b962322d67819a1bd2d73660",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 616,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "\u09ae\u09be\u09b9\u09ae\u09c1\u09a6\u09c1\u09b2 \u09b9\u09be\u09b8\u09be\u09a8",
+      "title": "\u09af\u09c7\u09b8\u09ac \u0995\u09be\u099c\u09c7 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09c7 \u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f \u09ac\u09c7\u09b6\u09bf \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u09b9\u09df",
+      "description": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09c7\u09b0 \u09ac\u09c7\u09b6\u09bf\u09b0\u09ad\u09be\u0997 \u09ae\u09be\u09a8\u09c1\u09b7 \u0995\u09a5\u09be \u09ac\u09b2\u09a4\u09c7, \u09b8\u09be\u09ae\u09be\u099c\u09bf\u0995 \u09ae\u09be\u09a7\u09cd\u09af\u09ae \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7 \u0993 \u09b8\u0982\u09ac\u09be\u09a6 \u09aa\u09dc\u09a4\u09c7 \u09ac\u09c7\u09b6\u09bf \u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09c7\u09a8\u0964 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u09ac\u09cd\u09af\u09c1\u09b0\u09cb\u09b0 (\u09ac\u09bf\u09ac\u09bf\u098f\u09b8) \u09b8\u09b0\u09cd\u09ac\u09b6\u09c7\u09b7 \u099c\u09b0\u09bf\u09aa\u09c7 \u098f \u09a4\u09a5\u09cd\u09af \u0989\u09a0\u09c7 \u098f\u09b8\u09c7\u099b\u09c7\u0964",
+      "url": "https://bangla.thedailystar.net/business/news-499026",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/05/internet2.jpg?itok=rBVf8Ff2",
+      "publishedAt": "2023-07-23 13:23:41",
+      "content": "The majority of dengue patients who were admitted to different hospitals in Dhaka are from 11 areas of Dhaka city",
+      "retrievedAt": "2023-07-24 19:05:06.520377",
+      "internal_id": "be4f92819f0dba8638566af20b9ad6fc3f4b773f7beceb06c2591d4e8925294e",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 615,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Demorgen.be",
+      "author": "Dieter De Cleene, Barbara Debusschere",
+      "title": "Van dengue tot Chikungunya: \u2018Enge ziektes uit de tropen kan je nu ook op de camping in Frankrijk oplopen\u2019",
+      "description": "Als gevolg van de klimaatverandering zijn exotische muggen, teken en andere beestjes in opmars. Samen met de ziektes die ze kunnen verspreiden. \u2018E\u00e9...",
+      "url": "https://www.demorgen.be/beter-leven/van-dengue-tot-chikungunya-enge-ziektes-uit-de-tropen-kan-je-nu-ook-op-de-camping-in-frankrijk-oplopen~ba7d0621/",
+      "urlToImage": "https://img.demorgen.be/de86843c3e209bfb185bb9b3b3da1b2bfd32209f/van-dengue-tot-chikungunya-enge-ziektes-uit-de-tropen-kan-je-nu-ook-op-de-camping-in-frankrijk-oplopen",
+      "publishedAt": "2023-07-23 12:30:00",
+      "content": "Als gevolg van de klimaatverandering zijn exotische muggen, teken en andere beestjes in opmars. Samen met de ziektes die ze kunnen verspreiden. E\u00e9n besmette toerist kan de vlam in de pan doen slaan. \u2026 [+17045 chars]",
+      "retrievedAt": "2023-07-24 19:05:06.517657",
+      "internal_id": "ba04c693eb083f041197311f0b0b79aa9822dbcce6b54bfa1fad182daf3eb855",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 619,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Stephanie Colombini WSUF",
+      "title": "Florida saw its seventh case of malaria this summer. One woman shares her ordeal",
+      "description": "Malaria is still a worry in Sarasota, Fla., where officials recently confirmed the seventh locally transmitted case so far this summer. A 39-year-old woman describes her symptoms and hospital ordeal.",
+      "url": "https://www.npr.org/2023/07/23/1189659889/florida-saw-its-seventh-case-of-malaria-this-summer-one-woman-shares-her-ordeal",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2023-07-23 12:03:43",
+      "content": "Malaria is still a worry in Sarasota, Fla., where officials recently confirmed the seventh locally transmitted case so far this summer. A 39-year-old woman describes her symptoms and hospital ordeal.",
+      "retrievedAt": "2023-07-24 19:05:07.384718",
+      "internal_id": "562053a297a7060d61b067e820931c9dbb530fef28e3c34f28b44b885bbe8a68",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 620,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "WHO introduces new guidance HIV viral suppression; check details - DNA India",
+      "description": "WHO introduces new guidance HIV viral suppression; check details DNA India Day 1 at IAS 2023 Brian Minalga and Dr. Carl Dieffenbach Discuss Mpox & More HIV gov New WHO guidance on HIV viral suppression and scientific updates rele\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRuYWluZGlhLmNvbS9oZWFsdGgvcmVwb3J0LXdoby1pbnRyb2R1Y2VzLW5ldy1ndWlkYW5jZS1oaXYtdmlyYWwtc3VwcHJlc3Npb24tY2hlY2stZGV0YWlscy0zMDUzMDUx0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-23 10:59:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-24 19:05:08.412619",
+      "internal_id": "19925ffdfced01283aa6e6ea3337c0104008499842edc7b323168925672b7a22",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 618,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "11 more deaths as July turns deadliest month ever for dengue in Bangladesh",
+      "description": "Eleven more deaths were reported from dengue by the Directorate General of Health Services on Saturday, raising the fatalities from the mosquito-borne disease in Bangladesh to 167 this year. The July death toll alone rose to 120, smashing the previous highest\u2026",
+      "url": "https://sylhetmirror.com/2023/07/23/11-more-deaths-as-july-turns-deadliest-month-ever-for-dengue-in-bangladesh/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/hgjhyj.jpg",
+      "publishedAt": "2023-07-23 09:45:54",
+      "content": "Eleven more deaths were reported from dengue by the Directorate General of Health Services on Saturday, raising the fatalities from the mosquito-borne disease in Bangladesh to 167 this year. The July\u2026 [+797 chars]",
+      "retrievedAt": "2023-07-24 19:05:06.525045",
+      "internal_id": "52b44573f6273dbe564cd36718c3297ac618bb789fae2a46c3bbe52a237d746c",
+      "publishedAtLabel": "Jul 23"
+    },
+    {
+      "id": 613,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Aumentaron 2.5 veces los casos de dengue en un a\u00f1o",
+      "description": "Los casos de dengue en M\u00e9xico siguen en aumento. La Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 5 mil 623 contagios, es decir, 2.5 veces m\u00e1s que en el mismo periodo de 2022.",
+      "url": "https://www.jornada.com.mx/2023/07/23/politica/008n2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-07-23 08:09:46",
+      "content": "Peri\u00f3dico La JornadaDomingo 23 de julio de 2023, p. 8 Los casos de dengue en M\u00e9xico siguen en aumento. La Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 5 mil 623 conta\u2026 [+1845 chars]",
+      "retrievedAt": "2023-07-24 19:05:06.508495",
+      "internal_id": "aaf0dfedbf81ec9822cd22b4007fd1d3bb8d7b1c0807f38fd68a69d2c014d485",
+      "publishedAtLabel": "Jul 23"
+    },
     {
       "id": 605,
       "query": [
@@ -3454,168 +3617,6 @@
       "retrievedAt": "2023-07-18 19:05:23.016354",
       "internal_id": "4da0cb361d191ef14660c57056134fe83991ee886b6ee3a1e7972e17f2f5346e",
       "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 419,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Tata Steel UISL initiate measures to prevent and control dengue in Jamshedpur - Lagatar News (Lagatar24.com)",
-      "description": "Tata Steel UISL initiate measures to prevent and control dengue in Jamshedpur Lagatar News (Lagatar24.com)View Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vbGFnYXRhcjI0LmNvbS90YXRhLXN0ZWVsLXVpc2wtaW5pdGlhdGUtbWVhc3VyZXMtdG8tcHJldmVudC1hbmQtY29udHJvbC1kZW5ndWUtaW4tamFtc2hlZHB1ci8xNjc2MzUv0gEA?oc%3D5%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-17 11:37:23",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-18 19:05:22.248069",
-      "internal_id": "e8f020247e4fea61273d36d40992704b6d72afeb49286f6604170bcad7c7a4c1",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 423,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "India.com",
-      "author": "Zee Media Bureau",
-      "title": "Delhi Floods: Waterlogging Raises Risk Of Dengue- Preventive Tips To Follow",
-      "description": "WHO Issues Advisory According to the World Health Organisation (WHO), Dengue is a viral infection caused by the dengue virus (DENV), which is transferred to humans through the bite of infected mosquitoes. An estimated 100-400 million infections of dengue occu\u2026",
-      "url": "https://zeenews.india.com/health/delhi-floods-waterlogging-raises-risk-of-dengue-preventive-tips-to-follow-2636689",
-      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/07/17/1242771-denguefever.png",
-      "publishedAt": "2023-07-17 10:55:54",
-      "content": "Dengue fever cases in India are on the rise in recent days. It should come as no surprise that the monsoon season is accompanied with an increase in waterborne and mosquito-borne diseases including d\u2026 [+3353 chars]",
-      "retrievedAt": "2023-07-18 19:05:22.255715",
-      "internal_id": "b6de1573873fb1ff8eb7a2b2276ca636e8932d41ebdce0f333a74f63088ca4ef",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 422,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Banglanews24.com",
-      "author": null,
-      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be\u09df \u09a1\u09c7\u09a1\u09bf\u0995\u09c7\u099f\u09c7\u09a1 \u09a1\u09bf\u098f\u09a8\u09b8\u09bf\u09b8\u09bf \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2",
-      "description": "\u09a2\u09be\u0995\u09be: \u0995\u09cd\u09b0\u09ae\u09ac\u09b0\u09cd\u09a7\u09ae\u09be\u09a8 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09b0\u09cb\u0997\u09c0\u09b0 \u09b8\u09c7\u09ac\u09be \u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09a4 \u0995\u09b0\u09a4\u09c7 \u09b0\u09be\u099c\u09a7\u09be\u09a8\u09c0\u09b0 \u09ae\u09b9\u09be\u0996\u09be\u09b2\u09c0\u09a4\u09c7 \u09ee\u09e6\u09e6 \u09b6\u09af\u09cd\u09af\u09be\u09ac\u09bf\u09b6\u09bf\u09b7\u09cd\u099f \u09a2\u09be\u0995\u09be \u0989\u09a4\u09cd\u09a4\u09b0 \u09b8\u09bf\u099f\u09bf \u0995\u09b0\u09cd\u09aa\u09cb\u09b0\u09c7\u09b6\u09a8\u09c7\u09b0 (\u09a1\u09bf\u098f\u09a8\u09b8\u09bf\u09b8\u09bf) \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u0995\u09c7 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09a1\u09c7\u09a1\u09bf\u0995\u09c7\u099f\u09c7\u09a1 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u0998\u09cb\u09b7\u09a3\u09be \u0995\u09b0\u09c7\u099b\u09c7 \u09b8\u09b0\u0995\u09be\u09b0\u0964 \u09b8\u09cb\u09ae\u09ac\u09be\u09b0 (\u09e7\u09ed \u099c\u09c1\u09b2\u09be\u0987) \u09b8\u09b0\u0995\u09be\u09b0\u09bf \u098f\u0995 \u09a4\u09a5\u09cd\u09af",
-      "url": "https://www.banglanews24.com/national/news/bd/1153462.details",
-      "urlToImage": "https://www.banglanews24.com/public/uploads/2023/07/17/social/1689590320.45.jpg",
-      "publishedAt": "2023-07-17 10:38:40",
-      "content": ": () ( ) , (https://old.dghs.gov.bd/index.php/en/home/5431-revised-guideline-for-clinical-management-of-dengue) , - ; ; , ; - ; ; ; ; - ; : , , /",
-      "retrievedAt": "2023-07-18 19:05:22.252643",
-      "internal_id": "a7e61bbd5bcc7e8d976e7a73ef6377e714a19356b95eff4308913f4cd8ea61f7",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 433,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "El CSIC crea una herramienta para obtener genomas de calidad que ayudar\u00e1n a mejorar el estudio sobre la malaria",
-      "description": "Un equipo de investigadores del Instituto de Parasitolog\u00eda y Biomedicina L\u00f3pez Neyra, perteneciente al Consejo Superior de Investigaciones Cient\u00edficas (IPBLN-CSIC), en colaboraci\u00f3n con un grupo de la Universidad de Glasgow (Escocia), ha creado una herramienta\u2026",
-      "url": "https://www.infosalus.com/salud-investigacion/noticia-csic-crea-herramienta-obtener-genomas-calidad-ayudaran-mejorar-estudio-malaria-20230717110429.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230717110429_1200.jpg",
-      "publishedAt": "2023-07-17 09:04:29",
-      "content": "MADRID, 17 Jul. (EUROPA PRESS) - Un equipo de investigadores del Instituto de Parasitolog\u00eda y Biomedicina L\u00f3pez Neyra, perteneciente al Consejo Superior de Investigaciones Cient\u00edficas (IPBLN-CSIC)\u2026 [+6234 chars]",
-      "retrievedAt": "2023-07-18 19:05:23.025321",
-      "internal_id": "38350a877c9d48dd173e1e3ec8ec9197ba6981a7f51e275cef386b3d142b4275",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 432,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "SHARON LING",
-      "title": "Sarawak to host international tropical medicine, malaria congress next year",
-      "description": "KUCHING: Sarawak will host the 21st International Congress for Tropical Medicine and Malaria (ICTMM) next year, strengthening the state's position as a hub for advancing public health. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/07/17/sarawak-to-host-international-tropical-medicine-malaria-congress-next-year",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/17/2181469.jpg",
-      "publishedAt": "2023-07-17 08:55:00",
-      "content": "KUCHING: Sarawak will host the 21st International Congress for Tropical Medicine and Malaria (ICTMM) next year, strengthening the state's position as a hub for advancing public health. Sarawak Deput\u2026 [+2504 chars]",
-      "retrievedAt": "2023-07-18 19:05:23.023556",
-      "internal_id": "89da9a698f9844268a7c6bc02071f944c4514e8300d34f53119d6f347e286ee3",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 427,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Peoplesreview.com.np",
-      "author": "peoples_12ad",
-      "title": "Dengue infection close to three thousand in Nepal",
-      "description": "Kathmandu, 17 July: Since January 2023, the number of dengue infected people in Nepal has reached close to 3000. According to the data of the Epidemiology and Disease Control Division, the number of infected people has reached 2,930 from January to July 15. D\u2026",
-      "url": "https://www.peoplesreview.com.np/2023/07/17/dengue-infection-close-to-three-thousand-in-nepal/",
-      "urlToImage": "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2022/10/Dengue.jpg?fit=300%2C168&ssl=1",
-      "publishedAt": "2023-07-17 07:23:28",
-      "content": "Kathmandu, 17 July: Since January 2023, the number of dengue infected people in Nepal has reached close to 3000. According to the data of the Epidemiology and Disease Control Division, the number of \u2026 [+767 chars]",
-      "retrievedAt": "2023-07-18 19:05:22.261221",
-      "internal_id": "7fbccd43b832f47f12e23f07f74d1067bebee46f2c42121f045b1242f77f21e9",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 413,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "dh.be",
-      "author": "Ludovic Jimenez",
-      "title": "Moustique tigre en Belgique: \"S'il s'\u00e9tablit et se propage davantage, une transmission locale de certaines maladies comme la dengue est possible\"",
-      "description": "L\u2019ann\u00e9e derni\u00e8re, le nombre \u00e9lev\u00e9 de signalements de moustiques tigres dans les jardins \u00e9tait inattendu. En France, la dengue n\u2019est plus d\u00e9sormais une maladie tropicale. Le virus transmis par les moustiques est en effet de plus en plus un virus dit \u201cautochton\u2026",
-      "url": "https://www.dhnet.be/actu/sante/2023/07/17/moustique-tigre-en-belgique-sil-setablit-et-se-propage-davantage-une-transmission-locale-de-certaines-maladies-comme-la-dengue-est-possible-6YVP43IAZRCQDFW5LFEFPXW5JI/",
-      "urlToImage": "https://www.dhnet.be/resizer/TbdGiQ9Jix0_gt7BJSx3iEJb9lQ=/1200x630/filters:format(jpeg):focal(544.5x397.5:554.5x387.5):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/KSYODHLMNBBMDA7B5YPJPTFVNY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/ABT25IO225HY7BDTME5SYGI5FI.jpg",
-      "publishedAt": "2023-07-17 07:01:06",
-      "content": "Avant 2022, une surveillance active a \u00e9t\u00e9 men\u00e9e dans les endroits o\u00f9 nous savons que des moustiques tigres peuvent \u00eatre introduits. Il sagit notamment dentreprises qui importent des pneus doccasion o\u2026 [+6194 chars]",
-      "retrievedAt": "2023-07-18 07:06:06.462176",
-      "internal_id": "988ac304f75c90dcc21bf688fa33403acbb7a7dd3f703b37789fcbb48869be1d",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 415,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "En partenariat avec Destination Sant\u00e9",
-      "title": "Sant\u00e9. Enc\u00e9phalite \u00e0 tiques : pourquoi les cas augmentent en France ?",
-      "description": "Les tiques ne sont pas seulement les vecteurs de la maladie de Lyme. La piq\u00fbre de ces acariens qui ne se nourrissent que de sang peut \u00e9galement provoquer des inflammations du cerveau, appel\u00e9es enc\u00e9phalites \u00e0 tiques. Jusque-l\u00e0 limit\u00e9s, les cas autochtones en F\u2026",
-      "url": "https://www.ledauphine.com/magazine-sante/2023/07/17/encephalite-a-tiques-pourquoi-les-cas-augmentent-en-france",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/794F023D-056E-4120-9A1F-90777CAE8682/FB1200/photo-1689154915.jpg",
-      "publishedAt": "2023-07-17 04:15:00",
-      "content": "Depuis mai 2021, l\u2019enc\u00e9phalite \u00e0 tiques \u2013 l\u2019une des maladies que peuvent transmettre certaines tiques \u2013 fait partie des maladies \u00e0 d\u00e9claration obligatoire, au m\u00eame titre que les virus chikungunya et \u2026 [+2967 chars]",
-      "retrievedAt": "2023-07-18 07:06:07.737877",
-      "internal_id": "31a22ce35a908b53bbdfce27aff766e7f7fbbc87f5b20d0a1103f30cb1ea371c",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 410,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "PMC records 12 dengue cases in July, but pvt hosps see more - Times of India",
-      "description": "PMC records 12 dengue cases in July, but pvt hosps see more Times of IndiaView Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiggFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L3B1bmUvcG1jLXJlY29yZHMtMTItZGVuZ3VlLWNhc2VzLWluLWp1bHktYnV0LXB2dC1ob3Nwcy1zZWUtbW9yZS9hcnRpY2xlc2hvdy8xMDE4MDg0NTcuY21z0gF9aHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vY2l0eS9wdW5lL3BtYy1yZWNvcmRzLTEyLWRlbmd1ZS1jYXNlcy1pbi1qdWx5LWJ1dC1wdnQtaG9zcHMtc2VlLW1vcmUvYW1wX2FydGljbGVzaG93LzEwMTgwODQ1Ny5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-16 23:24:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-18 07:06:06.450219",
-      "internal_id": "a7c74e784e3005cb83da28a2c5b2a1d66cf828e1002873f6f5dbb2d735760f79",
-      "publishedAtLabel": "Jul 16"
     }
   ]
 }
