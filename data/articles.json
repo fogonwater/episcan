@@ -1,8 +1,280 @@
 {
-  "last_updated": "2023-07-25 07:05",
+  "last_updated": "2023-07-25 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 631,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": "CBC News",
+      "title": "Western N.B. sees rash of rabies cases",
+      "description": "New Brunswick is marking the highest number of rabies cases in the province since 2017.",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/carleton-county-woodstock-green-pills-rabies-1.6916014",
+      "urlToImage": "https://i.cbc.ca/1.4710983.1688590358!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/raccoon.jpg",
+      "publishedAt": "2023-07-24 17:35:15",
+      "content": "New Brunswick is marking the highest number of rabies cases in the province since 2017. So far in 2023, there have been six confirmed cases of rabies, all in raccoons, according to provincial number\u2026 [+1355 chars]",
+      "retrievedAt": "2023-07-25 19:05:13.033461",
+      "internal_id": "6ac932707b8e33f5a58fc6a088e44b7236fdbc102be2e90b62121d431ba7c43d",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 640,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Wanchalerm Pora, Natthakorn Kasamsumran, Katanyu Tharawatcharasart, Rinnara Ampol, Padet Siriyasatien, Narissara Jariyapan",
+      "title": "Enhancement of VGG16 model with multi-view and spatial dropout for classification of mosquito vectors",
+      "description": "Mosquitoes transmit pathogens that can cause numerous significant infectious diseases in humans and animals such as malaria, dengue fever, chikungunya fever, and encephalitis. Although the VGG16 model is not one of the most advanced CNN networks, it is report\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284330",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0284330.g010&size=inline",
+      "publishedAt": "2023-07-24 14:00:00",
+      "content": "Abstract Mosquitoes transmit pathogens that can cause numerous significant infectious diseases in humans and animals such as malaria, dengue fever, chikungunya fever, and encephalitis. Although the \u2026 [+35660 chars]",
+      "retrievedAt": "2023-07-25 19:05:13.686282",
+      "internal_id": "ca5b8890acddcd6101efa7565d85573349783a94389d22a97193e88e41db803e",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 643,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Alvaro Aguilar-Seti\u00e9n, M\u00f3nica Salas-Rojas, Guillermo G\u00e1lvez-Romero, Cenia Almaz\u00e1n-Mar\u00edn, Andr\u00e9s Moreira-Soto, Jorge Alfonso-Toledo, Cirani Obreg\u00f3n-Morales, Martha Garc\u00eda-Flores, Anah\u00ed Garc\u00eda-Baltazar, Jordi Serra-Cobo, Marc L\u00f3pez-Roig, Nora Reyes-Puma, Marta Piche-Ovares, Mario Romero-Vega, Daniel Felipe Barrantes Murillo, Claudio Soto-Garita, Alejandro Alfaro-Alarc\u00f3n, Eugenia Corrales-Aguilar, Osvaldo L\u00f3pez-D\u00edaz, Dominique Pontier, Ondine Filippi-Codaccioni, Jean-Baptiste Pons, Jeanne Duhayer, Jan Felix Drexler",
+      "title": "Experimental infection of Artibeus lituratus bats and no detection of Zika virus in neotropical bats from French Guiana, Peru, and Costa Rica suggests a limited role of bats in Zika transmission",
+      "description": "Author summary In previous works in 2008\u20132009, we found the presence of antibodies against flaviviruses, and viral RNA was detected in Neotropical chiropterans in Mexico, which led us to support the hypothesis that these animals could be reservoirs of flavivi\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010439",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0010439.g007&size=inline",
+      "publishedAt": "2023-07-24 14:00:00",
+      "content": "Citation: Aguilar-Seti\u00e9n A, Salas-Rojas M, G\u00e1lvez-Romero G, Almaz\u00e1n-Mar\u00edn C, Moreira-Soto A, Alfonso-Toledo J, et al. (2023) Experimental infection of Artibeus lituratus bats and no detection of Zika\u2026 [+34492 chars]",
+      "retrievedAt": "2023-07-25 19:05:14.883007",
+      "internal_id": "116f5c6ce377b581ffc787b3f94b758f7014ed96efa8641f98e917e26cf197da",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 645,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Weinan Zhu, Felipe J. Passalia, Camila Hamond, Cec\u00edlia M. Abe, Albert I. Ko, Angela S. Barbosa, Elsio A. Wunder Jr.",
+      "title": "MPL36, a major plasminogen (PLG) receptor in pathogenic Leptospira, has an essential role during infection",
+      "description": "Author summary As part of their diverse virulence machinery, bacterial pathogens bind to human plasminogen (PLG) providing them with a proteolytic platform that promotes invasiveness, dissemination, and virulence. Leptospirosis is the leading zoonotic disease\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011313",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011313.g006&size=inline",
+      "publishedAt": "2023-07-24 14:00:00",
+      "content": "Citation: Zhu W, Passalia FJ, Hamond C, Abe CM, Ko AI, Barbosa AS, et al. (2023) MPL36, a major plasminogen (PLG) receptor in pathogenic Leptospira, has an essential role during infection. PLoS Patho\u2026 [+64391 chars]",
+      "retrievedAt": "2023-07-25 19:05:15.731432",
+      "internal_id": "18b95cfe98f2d396e23ee192f8a00a373a0dd4d238d2bf161945024880b40c95",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 642,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Dr. Celine Gounder on mosquito-borne diseases and climate change",
+      "description": "CBS News medical contributor Dr. Celine Gounder joins \"CBS Mornings\" to discuss the current state of mosquito-borne diseases such as malaria, West Nile and more in the U.S. She explains what symptoms to look out for, when to seek medical attention and the imp\u2026",
+      "url": "https://www.cbsnews.com/video/dr-celine-gounder-on-mosquito-borne-diseases-and-climate-change/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/24/f5750034-2135-4871-b0a3-b2eca69f3c26/thumbnail/1200x630/45a8f7fa4e3801f9dbff9cec7f4fc374/0724-cmo-bugbites-gounder-2150041-640x360.jpg?v=8be0a296491a12ce38351fd824e37a16",
+      "publishedAt": "2023-07-24 13:12:32",
+      "content": "Watch CBS News Copyright \u00a92023 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2023-07-25 19:05:14.549400",
+      "internal_id": "c90c3e280cf85186dbbf324329de05f5f83ba7bd809faea3f0da8f5bdee9ca81",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 635,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "wirtschafts-woche",
+      "source_name": "Wirtschafts Woche",
+      "author": "Nele Antonia H\u00f6fler",
+      "title": "Investition in Baden-W\u00fcrttemberg: Darum produziert Asiens gr\u00f6\u00dfter Pharmakonzern einen Dengue-Impfstoff in Deutschland",
+      "description": "Der japanische Pharmakonzern Takeda investiert 300 Millionen Euro, um in Deutschland einen Impfstoff gegen die Tropenkrankheit Dengue-Fieber zu produzieren. Konzernchef Christophe Weber erkl\u00e4rt, was f\u00fcr den Standort spricht.",
+      "url": "https://www.wiwo.de/unternehmen/industrie/investition-in-baden-wuerttemberg-darum-produziert-asiens-groesster-pharmakonzern-einen-dengue-impfstoff-in-deutschland/29274616.html",
+      "urlToImage": "https://www.wiwo.de/images/takeda_singen_handling_der_wirkstoff-zellkulturen_c-anprom-de-corp-0037-kl/29275222/2-format11240.jpg",
+      "publishedAt": "2023-07-24 13:10:02",
+      "content": "Die Takeda-Mitarbeitenden, die in Singen am Bodensee den neuen Dengue-Impfstoff des japanischen Pharmakonzerns herstellen, sind von Kopf bis Fu\u00df in Schutzkleidung verh\u00fcllt. \u00dcber ihnen surrt die L\u00fcftu\u2026 [+8063 chars]",
+      "retrievedAt": "2023-07-25 19:05:13.670047",
+      "internal_id": "9b91ec38ff5561048b3c1dfc5dc2b6b3694fc8dbfbc54c9b176e59f0f556749f",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 632,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Syllad.com",
+      "author": "Syllad | The Rising Meghalaya",
+      "title": "Measles Rubella Elimination: Pilot Phase to be implemented in West Jaintia Hills and Ri Bhoi",
+      "description": "In the effort to achieve Measles-Rubella (MR) elimination in Meghalaya, a State Steering Committee Meeting was held on July 18, led by Chief Secretary DP Wahlang IAS. The meeting aimed to strategize the Intensified Mission Indradhanush (IMI) 5.0 campaign to r\u2026",
+      "url": "https://www.syllad.com/measles-rubella-elimination-pilot-phase-to-be-implemented-in-west-jaintia-hills-and-ri-bhoi/",
+      "urlToImage": "https://www.syllad.com/wp-content/uploads/2023/07/Steering-Committee-jpg.webp",
+      "publishedAt": "2023-07-24 09:50:00",
+      "content": "Syllad | The Rising MeghalayaJuly 24, 2023 In the effort to achieve Measles-Rubella (MR) elimination in Meghalaya, a State Steering Committee Meeting was held on July 18, led by Chief Secretary DP W\u2026 [+1417 chars]",
+      "retrievedAt": "2023-07-25 19:05:13.346974",
+      "internal_id": "0b6322bbe15fe40ea4039884d244ab2245960d308ec58b228d46f35c407cbdeb",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 636,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "24.07.23 - Welt: WHO warnt vor Anstieg der Dengue F\u00e4lle - Tropeninstitut.de",
+      "description": "24.07.23 - Welt: WHO warnt vor Anstieg der Dengue F\u00e4lle Tropeninstitut.de Asiatische Tigerm\u00fccke auf dem Vormarsch: WHO besorgt wegen Dengue-Fieber-Ausbreitung inFranken.de Kommentare - Folge des Klimawandels: WHO warnt vor Ausbre\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdHJvcGVuaW5zdGl0dXQuZGUvYWt0dWVsbGUta3JhbmtoZWl0c21lbGR1bmdlbi8yNC4wNy4yMDIzLXdlbHQtZGVuZ3Vl0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-24 09:41:12",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-25 19:05:13.672704",
+      "internal_id": "1453d69eb164a4f19e78fe779347bc4f66beb832cbfaaec6c43d0c4aaf22f26a",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 639,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue, un secondo caso a Jesi. Scatta la disinfestazione",
+      "description": "Accertato a Jesi, in provincia di Ancona, un secondo cado di dengue, la malattia infettiva trasmessa da punture di zanzare. (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2023/07/24/dengue-un-secondo-caso-a-jesi.-scatta-la-disinfestazione_c8d166a3-9696-485f-bb0c-09edfe173c13.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/7/24/ff07e28b7f736f7e86b7f6b094084f9b.jpg",
+      "publishedAt": "2023-07-24 09:18:47",
+      "content": "Accertato a Jesi, in provincia di Ancona, un secondo cado di dengue, la malattia infettiva trasmessa da punture di zanzare. Lo scorso 6 luglio ne era stato individuato un altro in un giovane rient\u2026 [+763 chars]",
+      "retrievedAt": "2023-07-25 19:05:13.683745",
+      "internal_id": "0f7844ba5916024de4b55bf821931571d1d5b43521793ebcc6ed4c52208f8e5f",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 638,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Cote d'Ivoire: Le pays face \u00e0 une nouvelle \u00e9pid\u00e9mie de dengue, la sixi\u00e8me depuis 2009",
+      "description": "[RFI] En C\u00f4te d'Ivoire, et plus particuli\u00e8rement \u00e0 Abidjan, les autorit\u00e9s sanitaires ont d\u00e9clar\u00e9 la survenue d'une \u00e9pid\u00e9mie de dengue. Deux personnes ont succomb\u00e9 \u00e0 cette maladie transmise par les moustiques. Au moins 92 cas ont \u00e9t\u00e9 recens\u00e9s, principalement d\u2026",
+      "url": "https://fr.allafrica.com/stories/202307240171.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-24 08:32:58",
+      "content": "En C\u00f4te d'Ivoire, et plus particuli\u00e8rement \u00e0 Abidjan, les autorit\u00e9s sanitaires ont d\u00e9clar\u00e9 la survenue d'une \u00e9pid\u00e9mie de dengue. Deux personnes ont succomb\u00e9 \u00e0 cette maladie transmise par les moustiqu\u2026 [+1585 chars]",
+      "retrievedAt": "2023-07-25 19:05:13.681962",
+      "internal_id": "3ab0967cc166385a784da235dd48fbebf20b9b991ee4d200390e37c2a9d2e144",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 641,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Muere mujer por meningitis mic\u00f3tica en Durango; van 41",
+      "description": "Durango, Dgo., Carmen Gonz\u00e1lez Carrera, de 29 a\u00f1os de edad, originaria del municipio de Santiago Papasquiaro, falleci\u00f3 a causa de meningitis, padecimiento que se le diagnostic\u00f3 en diciembre pasado, luego de someterse a una intervenci\u00f3n quir\u00fargica en agosto, i\u2026",
+      "url": "https://www.jornada.com.mx/2023/07/24/estados/025n3est",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-07-24 08:19:08",
+      "content": "Peri\u00f3dico La JornadaLunes 24 de julio de 2023, p. 25 Durango, Dgo., Carmen Gonz\u00e1lez Carrera, de 29 a\u00f1os de edad, originaria del municipio de Santiago Papasquiaro, falleci\u00f3 a causa de meningitis, pad\u2026 [+309 chars]",
+      "retrievedAt": "2023-07-25 19:05:14.163906",
+      "internal_id": "e39d58350bcabb707bf568a744f5840e4e48580a7a97a0773de8ba691ab429b0",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 633,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "More than 170 dead as Bangladesh grapples with dengue \u2018epidemic\u2019 - Al Jazeera English",
+      "description": "More than 170 dead as Bangladesh grapples with dengue \u2018epidemic\u2019 Al Jazeera English Bangladesh witnesses dengue surge, highest number of hospitalisations recorded in a single day | Mint Mint Over 600 dengue cases daily in India, \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzcvMjQvbW9yZS10aGFuLTE3MC1kZWFkLWFzLWJhbmdsYWRlc2gtZ3JhcHBsZXMtd2l0aC1kZW5ndWUtZXBpZGVtaWPSAWtodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjMvNy8yNC9tb3JlLXRoYW4tMTcwLWRlYWQtYXMtYmFuZ2xhZGVzaC1ncmFwcGxlcy13aXRoLWRlbmd1ZS1lcGlkZW1pYw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-24 08:17:49",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-25 19:05:13.662221",
+      "internal_id": "27a1d4530b362d82def8cb5091d3cd1520f49b0d7962ab0a47666400d54c32db",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 634,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Faisal Mahmud",
+      "title": "More than 170 dead as Bangladesh grapples with dengue \u2018epidemic\u2019",
+      "description": "At least 176 people - 31 of them children below 14 - have died of the mosquito-borne fever this year, officials say.",
+      "url": "https://www.aljazeera.com/news/2023/7/24/more-than-170-dead-as-bangladesh-grapples-with-dengue-epidemic",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/Doctors-say-that-he-hospitals-are-swamped-with-dengue-patients-1690185774.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-07-24 08:13:07",
+      "content": "Dhaka, Bangladesh Bangladesh is grappling with a deadly dengue outbreak as heavy monsoon rains in the country cause widespread infections and fill hospitals. Health experts in the South Asian nation\u2026 [+6631 chars]",
+      "retrievedAt": "2023-07-25 19:05:13.666231",
+      "internal_id": "1f5a350cf869396cfae1909a453dbf80d9e441b5e5101484004f5ad83b26e7db",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 637,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Bangkok Post Public Company Limited",
+      "title": "Mossie eradication drive to combat rising dengue fever",
+      "description": "A mosquito eradication campaign has been launched by the Public Health Ministry as the number of people infected with dengue fever nationwide is rising by about 5,000 per week, Disease Control Department director-general Thares Krassanairavirong said on Monda\u2026",
+      "url": "https://www.bangkokpost.com/thailand/general/2616802/mossie-eradication-drive-to-combat-rising-dengue-fever",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20230724/c1_2616802_230724133617_700.jpg",
+      "publishedAt": "2023-07-24 07:40:00",
+      "content": "A mosquito eradication campaign has been launched by the Public Health Ministry as the number of people infected with dengue fever nationwide is rising by about 5,000 per week, Disease Control Depart\u2026 [+1398 chars]",
+      "retrievedAt": "2023-07-25 19:05:13.677143",
+      "internal_id": "4ccf5bcc1e0aacd39ae00d60b379ecd71fb21a0c75f8913a0a0fad5756af229a",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 644,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Integrate mpox with HIV, STI prevention & control programmes: WHO - Down To Earth Magazine",
+      "description": "Integrate mpox with HIV, STI prevention & control programmes: WHO Down To Earth Magazine Day 2 at IAS 2023 How the REPRIEVE Study Findings Could Help Improve Care for People with HIV HIV gov WHO introduces new guidance HIV viral \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRvd250b2VhcnRoLm9yZy5pbi9uZXdzL2hlYWx0aC9pbnRlZ3JhdGUtbXBveC13aXRoLWhpdi1zdGktcHJldmVudGlvbi1jb250cm9sLXByb2dyYW1tZXMtd2hvLTkwNzgw0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-24 07:21:56",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-25 19:05:15.232557",
+      "internal_id": "4863eafde45cb0decb620f5510c85567557efd0983b8880053545f2364c14ff6",
+      "publishedAtLabel": "Jul 24"
+    },
     {
       "id": 625,
       "query": [
@@ -3344,277 +3616,6 @@
       "retrievedAt": "2023-07-19 07:05:47.737182",
       "internal_id": "ab7f5d432f736df6602dcddba216fdd3fca413738f38b4009dbeab8cf55e95c2",
       "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 447,
-      "query": [
-        "malaria",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Www.hln.be",
-      "author": "Natuurpunt",
-      "title": "Hoe zou een wereld zonder muggen eruit zien? \u201cJeukende muggenbeten en vervelend gezoem zijn kleine opoffering voor gezonde natuur\u201d",
-      "description": "Er zijn maar weinig mensen die een goed woord te vertellen hebben over muggen. Ze houden je \u2018s avonds wakker, bezorgen je gigantische jeuk en zijn dragers van ziektes zoals Zika en malaria. Vooral nu ze talrijk aanwezig zijn door de warmere temperaturen wordt\u2026",
-      "url": "https://www.hln.be/wetenschap-en-planeet/hoe-zou-een-wereld-zonder-muggen-eruit-zien-jeukende-muggenbeten-en-vervelend-gezoem-zijn-kleine-opoffering-voor-gezonde-natuur~ad56e0df/",
-      "urlToImage": "https://images0.persgroep.net/rcs/bEBL8oRu0UEqilSLRpoBiC3EMeE/diocontent/233390425/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
-      "publishedAt": "2023-07-18 06:00:24",
-      "content": "Je kan deze inhoud niet bekijken Deze inhoud bevat cookies van social media of andere externe platformen. Omdat je deze cookies uitgeschakeld hebt blijft deze inhoud verborgen. Aanvaard cookies van \u2026 [+3812 chars]",
-      "retrievedAt": "2023-07-19 07:05:48.393330",
-      "internal_id": "bed3471bece8a3b8ad83766f8722476ba61e2d33c241f7b3dcd18f77b42b58f3",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 443,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ooe.orf.at",
-      "author": "ORF.at",
-      "title": "Tigerm\u00fccke in Ober\u00f6sterreich angekommen",
-      "description": "Die aus Asien stammende Tigerm\u00fccke ist mittlerweile auch in Ober\u00f6sterreich angekommen. In Linz sind bereits mehrere Exemplare der Stechm\u00fccke, die unter anderem das Dengue-Fieber \u00fcbertr\u00e4gt, gesichtet worden.",
-      "url": "https://ooe.orf.at/stories/3215407/",
-      "urlToImage": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2020%2F26%2F22%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F598500_master_204822___kh_gelsenprojekt_200619_00_00_50_04.jpg%3Fs%3Da8df02357c8f2fc9e49995455f908d630f1e0545",
-      "publishedAt": "2023-07-18 04:30:44",
-      "content": "Schon einige der typisch schwarz-wei\u00df gestreiften Tigerm\u00fccken wurden in Linz entdeckt. Es d\u00fcrfte sich nicht nur um einzelne eingeschleppte Exemplare handeln, denn auch Brutst\u00e4tten in der Innenstadt w\u2026 [+883 chars]",
-      "retrievedAt": "2023-07-19 07:05:47.733932",
-      "internal_id": "3c4811237a17c5895edde920b2e0a61b47084f7611f2e9da20eec3a6c1ae1096",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 445,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Bangladesh gears up to combat dengue as caseload reaches nearly 21,000",
-      "description": "DHAKA, July 17 (Xinhua) -- The number of dengue cases in Bangladesh has surged to around 21,000 with",
-      "url": "http://en.people.cn/n3/2023/0718/c90000-20045718.html",
-      "urlToImage": null,
-      "publishedAt": "2023-07-18 02:45:50",
-      "content": "DHAKA, July 17 (Xinhua) -- The number of dengue cases in Bangladesh has surged to around 21,000 with 106 deaths so far this year, the Directorate General of Health Services (DGHS) said on Sunday. As\u2026 [+2248 chars]",
-      "retrievedAt": "2023-07-19 07:05:47.749028",
-      "internal_id": "d06032dfeb43ccfcf690c122ad7a224d6728b52d8fc89c6d9f6b0816cffdb467",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 439,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Investing.com",
-      "author": "Reuters",
-      "title": "Childhood vaccination rates begin to recover post-pandemic - but not everywhere, U.N. says",
-      "description": "Childhood vaccination rates begin to recover post-pandemic - but not everywhere, U.N. says",
-      "url": "https://www.investing.com/news/coronavirus/childhood-vaccination-rates-begin-to-recover-postpandemic--but-not-everywhere-un-says-3127312",
-      "urlToImage": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
-      "publishedAt": "2023-07-18 01:37:02",
-      "content": "By Jennifer Rigby LONDON (Reuters) - Efforts to vaccinate children worldwide against deadly diseases such as measles and diptheria began to recover in 2022 after a historic backslide caused by the C\u2026 [+2526 chars]",
-      "retrievedAt": "2023-07-19 07:05:47.201085",
-      "internal_id": "34ed339cc05f63991ad6b34bd457794759ca0474b48c1749c2cf6fc37a48a5e3",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 437,
-      "query": [
-        "measles"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Childhood Vaccination Rates Begin To Recover Post-Pandemic, UN Says - NDTV",
-      "description": "Childhood Vaccination Rates Begin To Recover Post-Pandemic, UN Says NDTV Global childhood immunisations recover after COVID-19 backslide; Status of measles vaccinations still poor The Financial Express Global childhood vaccinatio\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3Lm5kdHYuY29tL3dvcmxkLW5ld3MvY2hpbGRob29kLXZhY2NpbmF0aW9uLXJhdGVzLWJlZ2luLXRvLXJlY292ZXItcG9zdC1wYW5kZW1pYy11bi1zYXlzLTQyMTY5OTHSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-18 01:12:06",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-19 07:05:47.194082",
-      "internal_id": "9364f12a27ca6a734f38060c64dbe34928a681d5d75ddcb5041da2773435fcde",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 440,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Childhood Vaccination Rates Begin To Recover Post-Pandemic, UN Says",
-      "description": "Efforts to vaccinate children worldwide against deadly diseases such as measles and diptheria began to recover in 2022 after a historic backslide caused by the COVID-19 pandemic, according to new figures from the WHO and the UNICEF.",
-      "url": "https://www.ndtv.com/world-news/childhood-vaccination-rates-begin-to-recover-post-pandemic-un-says-4216991",
-      "urlToImage": "https://c.ndtvimg.com/2022-02/j1uavlvk_children-covid-vaccination-afp_625x300_02_February_22.jpg",
-      "publishedAt": "2023-07-18 01:12:06",
-      "content": "Despite the progress, 20.5 million children missed out on one or more routine jabs in 2022. London: Efforts to vaccinate children worldwide against deadly diseases such as measles and diptheria bega\u2026 [+2705 chars]",
-      "retrievedAt": "2023-07-19 07:05:47.203286",
-      "internal_id": "1c11723a16c711375c20e50b25d3f9acb074921f6a44e11e56e5ad062d77cfd4",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 438,
-      "query": [
-        "measles"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Childhood vaccination rates begin to recover post-pandemic - but not everywhere, U.N. says - Reuters",
-      "description": "Childhood vaccination rates begin to recover post-pandemic - but not everywhere, U.N. says Reuters Global childhood immunisations recover after COVID-19 backslide; Status of measles vaccinations still poor The Financial Express G\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy9jaGlsZGhvb2QtdmFjY2luYXRpb24tcmF0ZXMtYmVnaW4tcmVjb3Zlci1wb3N0LXBhbmRlbWljLW5vdC1ldmVyeXdoZXJlLXVuLXNheXMtMjAyMy0wNy0xOC_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-18 01:02:46",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-19 07:05:47.197954",
-      "internal_id": "05faba2cf42abdba329ebc6ef623d8ed3f87b832219fef21a6b6e84d5efdaeb0",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 442,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Jacqueline Howard",
-      "title": "Childhood immunization rates that fell during Covid are improving but still not at pre-pandemic levels, new data shows | CNN",
-      "description": "Millions of children missed routine vaccinations against diseases such as measles, diphtheria and tetanus during the Covid-19 pandemic, but data now suggests that this decline in routine childhood immunizations may be reversing.",
-      "url": "https://www.cnn.com/2023/07/18/health/childhood-immunization-rates/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230717125845-vaccination-event-india-file.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-07-18 00:31:15",
-      "content": "Millions of children around the world missed routine childhood vaccinations against diseases such as measles, diphtheria and tetanus during the Covid-19 pandemic, but new data suggests that this decl\u2026 [+5869 chars]",
-      "retrievedAt": "2023-07-19 07:05:47.210024",
-      "internal_id": "39d23ef85f3f32ac97a3d7ef665dfec2cd889d141c1f7933231102c90b2b0a00",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 436,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AOL",
-      "author": "Jennifer Rigby",
-      "title": "Childhood vaccination rates begin to recover post-pandemic - but not everywhere, U.N. says",
-      "description": "Efforts to vaccinate children worldwide against deadly diseases such as measles and diptheria began to recover in 2022 after a historic backslide caused by...",
-      "url": "https://www.aol.com/news/childhood-vaccination-rates-begin-recover-000209327.html",
-      "urlToImage": "https://media.zenfs.com/en/aol_reuters_29/a43592a6e40771bc10c369fa0675b3d5",
-      "publishedAt": "2023-07-18 00:02:09",
-      "content": "By Jennifer Rigby LONDON (Reuters) - Efforts to vaccinate children worldwide against deadly diseases such as measles and diptheria began to recover in 2022 after a historic backslide caused by the C\u2026 [+2577 chars]",
-      "retrievedAt": "2023-07-19 07:05:47.187255",
-      "internal_id": "2ea4b8610f38ea4a553f88043111f9b7cee8fd176879462c0e6cc5abb89ccbe7",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 446,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Johanna Chiesa",
-      "title": "Fabiana Liuzzi detall\u00f3 el trastorno neurol\u00f3gico que tiene Anto\u00f1ito Ventura",
-      "description": "La mam\u00e1 del peque\u00f1o de nueve a\u00f1os habl\u00f3 sobre el diagn\u00f3stico que le dieron los doctores. Leer m\u00e1s",
-      "url": "https://caras.perfil.com/noticias/celebridades/fabiana-liuzzi-detallo-el-trastorno-neurologico-que-tiene-antonito-ventura.phtml",
-      "urlToImage": "https://fotos.perfil.com/2023/07/17/trim/1140/641/fabiana-liuzzi-y-antonito-ventura-1611937.jpg",
-      "publishedAt": "2023-07-17 19:31:28",
-      "content": "Ya recuperado de la neumon\u00eda y el cuadro de dengue que tuvo que atravesar en junio, Anto\u00f1ito Ventura y su mam\u00e1Fabiana Liuzzi visitaron el ciclo de Pamela David en Am\u00e9rica TV, \"Desayuno Americano\". L\u2026 [+2507 chars]",
-      "retrievedAt": "2023-07-19 07:05:47.753005",
-      "internal_id": "9df2946a6adb2c29acc935ebb3e0eebedde41f11ca53ee0a917470dd3717430d",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 428,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "WebMD",
-      "author": "Lindsay Kalter",
-      "title": "Mosquito and Tick-Borne Illnesses on the Rise: What to Know",
-      "description": "Illnesses spread by ticks and mosquitos are on the rise, prompting warnings from doctors and scientists to take precautions and watch out for any tell-tale symptoms. Here's what to know.",
-      "url": "https://www.webmd.com/a-to-z-guides/news/20230717/mosquito-tick-borne-illnesses-on-the-rise-what-to-know",
-      "urlToImage": "https://img.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg",
-      "publishedAt": "2023-07-17 18:36:19",
-      "content": "There have been small numbers of cases each year since malaria was eradicated, said Sarah Gunter, PhD, assistant professor of pediatric tropical medicine at Baylor College of Medicine in Texas. But I\u2026 [+1924 chars]",
-      "retrievedAt": "2023-07-18 19:05:23.012457",
-      "internal_id": "ca2322ba7dccd7d45a0ddd6a3740dda9e6baf5a3f365be3b9cac25a501de363f",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 425,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Newsnextbd.com",
-      "author": "Newsnext Bangladesh",
-      "title": "Dengue outbreak kills some 114 people in Bangladesh",
-      "description": "Dhaka \u2013 The death toll from the dengue outbreak has rose to 114 in Bangladesh with the record eight fatalities reported in a single day on Monday. The health ministry in a press release said eight people have been died...",
-      "url": "https://newsnextbd.com/dengue-outbreak-kills-some-114-people-in-bangladesh/",
-      "urlToImage": "https://newsnextbd.com/wp-content/uploads/2020/08/Dengue-mosquito.jpg",
-      "publishedAt": "2023-07-17 18:18:29",
-      "content": "Dhaka The death toll from the dengue outbreak has rose to 114 in Bangladesh with the record eight fatalities reported in a single day on Monday. The health ministry in a press release said eight peo\u2026 [+1174 chars]",
-      "retrievedAt": "2023-07-18 19:05:22.258914",
-      "internal_id": "265d8b731c098c43d2e23c117a7c3403e2acc829c6523cc85f5a012c0b8e6544",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 426,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Dengue death toll rises to 114 with record 8 more deaths in 24 hours",
-      "description": "Eight more deaths were reported from dengue in 24 hours till Monday morning, the highest number of death in a day from the mosquito-borne disease this year, raising the fatalities in Bangladesh to 108 in 2023. During the period, 1,589 more patients were hospi\u2026",
-      "url": "https://sylhetmirror.com/2023/07/17/dengue-death-toll-rises-to-114-with-record-8-more-deaths-in-24-hours/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/r43rt54t.jpg",
-      "publishedAt": "2023-07-17 16:43:25",
-      "content": "Eight more deaths were reported from dengue in 24 hours till Monday morning, the highest number of death in a day from the mosquito-borne disease this year, raising the fatalities in Bangladesh to 10\u2026 [+640 chars]",
-      "retrievedAt": "2023-07-18 19:05:22.260222",
-      "internal_id": "5b1ffe1e583ba220ebe5014c6a007cc783c52b845acdb8d0668c401eda629594",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 429,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "UNICEF USA Contributor, UNICEF USA, \n UNICEF USA Contributor, UNICEF USA\n https://www.forbes.com/sites/unicefusa/people/unicefusacontributor/",
-      "title": "UNICEF Prepares Major Rollout Of Lifesaving Malaria Vaccine",
-      "description": "Delivery of 18 million doses to 12 African nations starting early next year marks a major step forward in the fight against malaria.",
-      "url": "https://www.forbes.com/sites/unicefusa/2023/07/17/unicef-prepares-major-rollout-of-lifesaving-malaria-vaccine/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64b560e81104270571534a0b/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-07-17 16:25:41",
-      "content": "Delivery of 18 million doses to 12 African nations starting early next year marks a major step forward in the fight against one of the leading causes of death for vulnerable children under 5. Nakach\u2026 [+5249 chars]",
-      "retrievedAt": "2023-07-18 19:05:23.014668",
-      "internal_id": "01f3d6b8ad15573f538bc3834501f0cedd904e4b764c348c40a4e0b2a5fe13e8",
-      "publishedAtLabel": "Jul 17"
-    },
-    {
-      "id": 434,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Newsroom.gy",
-      "author": "Editor",
-      "title": "Elimination of HIV, malaria & leprosy attainable throughout Guyana \u2013 Health Minister",
-      "description": "Health Minister Dr. Frank Anthony on Monday told Regional Health Officers to maintain a proactive approach in ensuring Guyana eliminates several diseases including the Human Immunodeficiency Virus (HIV) and malaria by 2030.Addressing the Regional Hea",
-      "url": "https://newsroom.gy/2023/07/17/elimination-of-hiv-malaria-leprosy-attainable-throughout-guyana-health-minister/",
-      "urlToImage": "https://newsroom.gy/wp-content/uploads/2023/07/anthony.jpg",
-      "publishedAt": "2023-07-17 16:17:49",
-      "content": "Health Minister Dr. Frank Anthony on Monday told Regional Health Officers to maintain a proactive approach in ensuring Guyana eliminates several diseases including the Human Immunodeficiency Virus (H\u2026 [+3081 chars]",
-      "retrievedAt": "2023-07-18 19:05:23.027466",
-      "internal_id": "1701be284c29482a6b38a68dc69a5cca8e046e29da0fbf166ebf33f10628b618",
-      "publishedAtLabel": "Jul 17"
     }
   ]
 }
