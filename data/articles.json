@@ -1,8 +1,224 @@
 {
-  "last_updated": "2023-07-25 19:05",
+  "last_updated": "2023-07-26 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 15,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 654,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Today",
+      "author": "Business Today Desk",
+      "title": "Dengue cases in Delhi hit 5-year high in 2023; 190 infections reported till July 22",
+      "description": "This is the highest since 2018 when 49 dengue cases were reported in the same period.",
+      "url": "https://www.businesstoday.in/latest/trends/story/dengue-cases-in-delhi-hit-5-year-high-in-2023-190-infections-reported-till-july-22-391140-2023-07-25",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202307/dengue-1-sixteen_nine.png",
+      "publishedAt": "2023-07-25 06:58:41",
+      "content": "Dengue cases in Delhi have hit a five-year high in 2023 as nearly 190 cases have been reported in the national capital this year from January 1 till July 22. Number of dengue cases reported in July s\u2026 [+2105 chars]",
+      "retrievedAt": "2023-07-26 07:05:38.157840",
+      "internal_id": "991213915955598f7487084464a0344c0460903403510b0fac65b757e74c1b96",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 647,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Jane Moore",
+      "title": "The 8 at 8: Tuesday",
+      "description": "Measles, public funding for IVF and Ireland at risk of failing to meet climate budgets.",
+      "url": "https://www.thejournal.ie/8-at-8-tuesday-103-6127701-Jul2023/",
+      "urlToImage": "https://img2.thejournal.ie/article/6127701/river/?height=400&version=6127718",
+      "publishedAt": "2023-07-25 06:50:07",
+      "content": "GOOD MORNING. Heres everything you need to know as you start your day. Measles 1. In our main story this morning, Valerie Flynn reports that the HSE has warned a measles outbreak could happen in I\u2026 [+2803 chars]",
+      "retrievedAt": "2023-07-26 07:05:37.857705",
+      "internal_id": "643eb44edd9cb5ac26c205b69102724a0eb09951433f6082a4b19395046d1157",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 653,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Redacci\u00f3n",
+      "title": "Piden a morelenses no bajar la guardia ante contagios por dengue",
+      "description": "El Coordinador de Asesores de la Oficina de la Gubernatura de Morelos, V\u00edctor Mercado Salgado, hizo un llamado a los ciudadanos para que mantengan la cultura de la prevenci\u00f3n contra el dengue.\u201cNo hay que bajar la guardia en estos casos, tenemos que seguir las\u2026",
+      "url": "https://www.milenio.com/estados/piden-morelenses-bajar-guardia-contagios-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/07/24/el-dengue-es-una-enfermedad.jpeg",
+      "publishedAt": "2023-07-25 04:44:04",
+      "content": "El Coordinador de Asesores de la Oficina de la Gubernatura de Morelos, V\u00edctor Mercado Salgado, hizo un llamado a los ciudadanos para que mantengan la cultura de la prevenci\u00f3n contra el dengue. No ha\u2026 [+1762 chars]",
+      "retrievedAt": "2023-07-26 07:05:38.156201",
+      "internal_id": "130fb543ef2c9f19f6e823feaf8b85bebcac3547fc4b397db96fbff8a510bf89",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 655,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 1 - Dengue in the Americas",
+      "description": "Dengue is a risk in many parts of Central and South America, Mexico, and the Caribbean. Some countries are reporting increased numbers of cases of the disease. Travelers to the Americas can protect themselves by preventing mosquito bites.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level1/dengue-americas",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2023-07-25 04:00:00",
+      "content": "Dengue is a disease caused by a virus spread through mosquito bites. The disease can take up to 2 weeks to develop with illness generally lasting less than a week. Health effects from dengue include\u2026 [+347 chars]",
+      "retrievedAt": "2023-07-26 07:05:38.159399",
+      "internal_id": "00bdb8ff13034ddf97a4bcd77cc2bee5c8f98a8c8c77450400fd5cc7b5863423",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 650,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh: Dengue Outbreak - Jul 2023 - ReliefWeb",
+      "description": "Bangladesh: Dengue Outbreak - Jul 2023 ReliefWeb More than 170 dead as Bangladesh grapples with dengue \u2018epidemic\u2019 Al Jazeera English Nine more died of dengue, 2293 hospitalised in 24 hours Daily Sun Bangladesh logs rec\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vcmVsaWVmd2ViLmludC9kaXNhc3Rlci9lcC0yMDIzLTAwMDExNy1iZ2TSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-25 03:32:18",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-26 07:05:38.148988",
+      "internal_id": "0d7fbf73f91b092d9c0e2f9a0f9a40f3898fb90998a87aa1cf3a970fa52fde73",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 652,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Haryana\u2019s dengue cases in this monsoon swell to 106 - Times of India",
+      "description": "Haryana\u2019s dengue cases in this monsoon swell to 106 Times of IndiaView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMigAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2NoYW5kaWdhcmgvaGFyeWFuYXMtZGVuZ3VlLWNhc2VzLWluLXRoaXMtbW9uc29vbi1zd2VsbC10by0xMDYvYXJ0aWNsZXNob3cvMTAyMDk0NTMzLmNtc9IBe2h0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvY2hhbmRpZ2FyaC9oYXJ5YW5hcy1kZW5ndWUtY2FzZXMtaW4tdGhpcy1tb25zb29uLXN3ZWxsLXRvLTEwNi9hbXBfYXJ0aWNsZXNob3cvMTAyMDk0NTMzLmNtcw?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-25 03:02:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-26 07:05:38.153155",
+      "internal_id": "578c4163d1f392220c3147e21ec6884b57d19705e704e4975232397a39a31529",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 649,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Over 250 dengue cases, one death reported - The Tribune India",
+      "description": "Over 250 dengue cases, one death reported The Tribune India Dengue cases surge in Ludhiana, caution advised Hindustan Times View Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRyaWJ1bmVpbmRpYS5jb20vbmV3cy9wdW5qYWIvb3Zlci0yNTAtZGVuZ3VlLWNhc2VzLW9uZS1kZWF0aC1yZXBvcnRlZC01Mjg2NjTSAVZodHRwczovL20udHJpYnVuZWluZGlhLmNvbS9uZXdzL3B1bmphYi9vdmVyLTI1MC1kZW5ndWUtY2FzZXMtb25lLWRlYXRoLXJlcG9ydGVkLTUyODY2NA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-25 00:15:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-26 07:05:38.146839",
+      "internal_id": "1f5feb27d4672dc3d6c831f29a110a7f8f47b3f9a6ae6bc23ac3cd848dd5f6ce",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 651,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "3 test +ve for dengue in city, Hry tally nears 100 - Times of India",
+      "description": "3 test +ve for dengue in city, Hry tally nears 100 Times of IndiaView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvZ3VyZ2Fvbi8zLXRlc3QtdmUtZm9yLWRlbmd1ZS1pbi1jaXR5LWhyeS10YWxseS1uZWFycy0xMDAvYXJ0aWNsZXNob3cvMTAyMDkxNzY1LmNtc9IBdmh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvZ3VyZ2Fvbi8zLXRlc3QtdmUtZm9yLWRlbmd1ZS1pbi1jaXR5LWhyeS10YWxseS1uZWFycy0xMDAvYW1wX2FydGljbGVzaG93LzEwMjA5MTc2NS5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-24 23:22:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-26 07:05:38.150702",
+      "internal_id": "413642af2bc01397100bf3b09992917acbf1ceb90b82ecbe1192bbd0e5be004f",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 648,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Valerie Flynn",
+      "title": "HSE warns measles outbreak could happen in Ireland amid faltering vaccine uptake",
+      "description": "There has been a significant increase in cases of measles in Europe in the first half of this year.",
+      "url": "https://www.thejournal.ie/mmr-ireland-measles-risk-6125448-Jul2023/",
+      "urlToImage": "https://img2.thejournal.ie/article/6125448/river/?height=400&version=6127189",
+      "publishedAt": "2023-07-24 23:05:20",
+      "content": "THE HSE HAS warned a measles outbreak could happen in Ireland and urged parents to ensure children are immunised before travelling this summer, amid vaccine uptake below the level required for herd i\u2026 [+6776 chars]",
+      "retrievedAt": "2023-07-26 07:05:37.860033",
+      "internal_id": "f86fbf3574196eb55c357cc12d09a973f36545dc1133307b3259e7d29f6afeb2",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 657,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Bureau",
+      "title": "Health Commission: \u09b2\u09be\u0987\u09ab \u09b8\u09be\u09aa\u09cb\u09b0\u09cd\u099f \u09b8\u09bf\u09b8\u09cd\u099f\u09c7\u09ae \u0996\u09c1\u09b2\u09a4\u09c7\u0987 \u09b0\u09cb\u0997\u09c0\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1! \u09a8\u09be\u09ae\u09c0 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u0995\u09c7 \u099c\u09b0\u09bf\u09ae\u09be\u09a8\u09be \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09df \u0995\u09ae\u09bf\u09b6\u09a8\u09c7\u09b0 A hospital fined by health commission for patient death in Kolkata",
+      "description": "Health Commission: \u09b2\u09be\u0987\u09ab \u09b8\u09be\u09aa\u09cb\u09b0\u09cd\u099f \u09b8\u09bf\u09b8\u09cd\u099f\u09c7\u09ae \u0996\u09c1\u09b2\u09a4\u09c7\u0987 \u09b0\u09cb\u0997\u09c0\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1! \u09a8\u09be\u09ae\u09c0 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u0995\u09c7 \u099c\u09b0\u09bf\u09ae\u09be\u09a8\u09be \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09df \u0995\u09ae\u09bf\u09b6\u09a8\u09c7\u09b0 A hospital fined by health commission for patient death in Kolkataindia.com",
+      "url": "https://zeenews.india.com/bengali/kolkata/a-hospital-fined-by-health-commission-for-patient-death-in-kolkata_481464.html",
+      "urlToImage": "https://bengali.cdn.zeenews.com/bengali/sites/default/files/2023/07/24/430906-ahospital.png",
+      "publishedAt": "2023-07-24 21:52:57",
+      "content": ": ! ? , : Dengue: ? , , ! ? , ! ? - , , , ! ' ' ,'' : Partha Chatterjee: ' '! (Zee 24 Ghanta App , , , , , , , Zee 24 Ghanta App)",
+      "retrievedAt": "2023-07-26 07:05:38.165063",
+      "internal_id": "09a190d5e4be26655b084943e65bd477b17965c72462d70ae785ebc20da8610c",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 646,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Vaccine drops for wildlife stepped up as western N.B. sees rash of rabies cases - CBC.ca",
+      "description": "Vaccine drops for wildlife stepped up as western N.B. sees rash of rabies cases CBC.ca Rabies vaccine drop starts end of July News10NBC View Full Coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9uZXctYnJ1bnN3aWNrL2NhcmxldG9uLWNvdW50eS13b29kc3RvY2stZ3JlZW4tcGlsbHMtcmFiaWVzLTEuNjkxNjAxNNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42OTE2MDE0?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-24 19:41:18",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-26 07:05:37.446535",
+      "internal_id": "36e62d9fbb0a5fb5fb60ab9e3bf833a2f766ce2df10a839a84297f41b5cc8643",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 656,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Shiv Sudhakar",
+      "title": "Dengue fever cases could reach near-record highs this year: What to know about the tropical infectious disease",
+      "description": "As the WHO warns that cases of dengue fever could reach near-record highs this year, here's what to know about the tropical infectious disease spread by mosquitoes.",
+      "url": "https://www.foxnews.com/health/dengue-fever-cases-could-reach-near-record-highs-this-yea-what-know-tropical-infectious-disease",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/woman-with-headache-with-doctor.jpg",
+      "publishedAt": "2023-07-24 19:35:38",
+      "content": "The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming and the way that climate has helped the mosquitoes \u2026 [+7104 chars]",
+      "retrievedAt": "2023-07-26 07:05:38.161881",
+      "internal_id": "3112540f445c79b4408dc0a3e1115a0e88095de5ad3f983671151afb827597df",
+      "publishedAtLabel": "Jul 24"
+    },
     {
       "id": 631,
       "query": [
@@ -3399,222 +3615,6 @@
       "content": "Santa Catarina est\u00e1 com 92,15% de ocupa\u00e7\u00e3o dos leitos de UTI (Unidade de Terapia Intensiva) nesta ter\u00e7a-feira (18). Os dados s\u00e3o da SES/SC (Secretaria do Estado da Sa\u00fade de Santa Catarina). De acor\u2026 [+2327 chars]",
       "retrievedAt": "2023-07-19 19:05:15.673734",
       "internal_id": "2c5fd87cf93665a5eec16aa8f99731a0371106d5e50bb5534fb5e55de8cd7e0f",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 457,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09b8\u09bf\u0999\u09cd\u0997\u09be\u09b0\u09c7 \u0987\u09a8\u09cd\u099f\u09be\u09b0\u09cd\u09a8\u09b6\u09bf\u09aa\u09c7\u09b0 \u09b8\u09c1\u09af\u09cb\u0997, \u09ae\u09be\u09b8\u09bf\u0995 \u09ad\u09be\u09a4\u09be \u09e7\u09eb \u09b9\u09be\u099c\u09be\u09b0 \u099f\u09be\u0995\u09be",
-      "description": "\u09b8\u09bf\u0999\u09cd\u0997\u09be\u09b0\u09c7 \u0987\u09a8\u09cd\u099f\u09be\u09b0\u09cd\u09a8\u09b6\u09bf\u09aa\u09c7\u09b0 \u09b8\u09c1\u09af\u09cb\u0997, \u09ae\u09be\u09b8\u09bf\u0995 \u09ad\u09be\u09a4\u09be \u09e7\u09eb \u09b9\u09be\u099c\u09be\u09b0 \u099f\u09be\u0995\u09bethedailystar.net",
-      "url": "https://bangla.thedailystar.net/business/organization-news/news-497651",
-      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/07/18/untitled_design_-_2023-07-18t203331.918.png",
-      "publishedAt": "2023-07-18 14:28:01",
-      "content": "Thirteen dengue patients died at different hospitals across the country during 24 hours till this morning, which is the record number of deaths in a single day due to the disease this year",
-      "retrievedAt": "2023-07-19 19:05:15.676817",
-      "internal_id": "99ac8e07e158007e833f42e4e4039203dbc2dabe8ca9b058b1ae969c980b31ce",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 458,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u098f\u0995\u09a6\u09bf\u09a8\u09c7 \u09b8\u09b0\u09cd\u09ac\u09cb\u099a\u09cd\u099a \u09e7\u09e9 \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09e7\u09eb\u09e9\u09e9",
-      "description": "\u09a6\u09c7\u09b6\u09c7 \u0997\u09a4 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09af\u09bc \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u099c\u09cd\u09ac\u09b0\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u09b9\u09af\u09bc\u09c7 \u09e7\u09e9 \u099c\u09a8 \u09ae\u09be\u09b0\u09be \u0997\u09c7\u099b\u09c7\u09a8\u0964 \u09af\u09be \u098f\u0995\u09a6\u09bf\u09a8\u09c7 \u098f \u09ac\u099b\u09b0\u09c7\u09b0 \u09b8\u09b0\u09cd\u09ac\u09cb\u099a\u09cd\u099a\u0964 \u098f\u0995\u0987 \u09b8\u09ae\u09df\u09c7 \u0986\u09b0\u0993 \u09e7 \u09b9\u09be\u099c\u09be\u09b0 \u09eb\u09e9\u09e9 \u099c\u09a8 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09ad\u09b0\u09cd\u09a4\u09bf \u09b9\u09af\u09bc\u09c7\u099b\u09c7\u09a8\u0964",
-      "url": "https://bangla.thedailystar.net/health/disease/news-497646",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/08/19/dengue_5_1_1_1_1.jpg",
-      "publishedAt": "2023-07-18 14:05:37",
-      "content": "Thirteen dengue patients died at different hospitals across the country during 24 hours till this morning, which is the record number of deaths in a single day due to the disease this year",
-      "retrievedAt": "2023-07-19 19:05:15.679184",
-      "internal_id": "f4ef05358f282de92ffc6a5fc18df6aef20ab5438bbb4c738ab972fd36233a72",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 464,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Cody E. Parker, Alina N. Hiss, Maria A. Spyrou, Gunnar U. Neumann, Philip Slavin, Elizabeth A. Nelson, Sarah Nagel, Xandra Dalidowski, Susanne Friederich, Johannes Krause, Alexander Herbig, Wolfgang Haak, Kirsten I. Bos",
-      "title": "14th century Yersinia pestis genomes support emergence of pestis secunda within Europe",
-      "description": "Author summary We present two high-coverage and three low-coverage ancient Y. pestis genomes that represent previously described diversity within a narrow time interval that immediately post-dates the Black Death (the pestis secunda), and a newly identified p\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011404",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011404.g002&size=inline",
-      "publishedAt": "2023-07-18 14:00:00",
-      "content": "Abstract Pestis secunda (13561366 CE) is the first of a series of plague outbreaks in Europe that followed the Black Death (13461353 CE). Collectively this period is called the Second Pandemic. From\u2026 [+53652 chars]",
-      "retrievedAt": "2023-07-19 19:05:18.190874",
-      "internal_id": "01eee250ad5250a9a6ef65fd1d89c87355b8f3fbbf9de73bc42c01323e702654",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 450,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.ru",
-      "author": "ABC",
-      "title": "Cujo 1983 OM BDRIP X264-WATCHABLE",
-      "description": "Awards 1 win & 3 nominations See more awards \u00bb Plot: Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town. Genre: Horror | ThrillerIMDB Rating Live: IMDB Rating: 6.1/10 From 48,432 UsersRotten Rating: 59%Metac\u2026",
-      "url": "https://rlsbb.ru/cujo-1983-om-bdrip-x264-watchable/",
-      "urlToImage": null,
-      "publishedAt": "2023-07-18 12:08:33",
-      "content": "Releases in size order, smallest at the bottom of comment.Parts Info:Free Users: Get parts different hosts at the same time to get the best speed you can.Premium Users: Get all parts from your premiu\u2026 [+1389 chars]",
-      "retrievedAt": "2023-07-19 19:05:14.655466",
-      "internal_id": "f8c509e1279b5fd2abca0a27361e5a2c9f7dcfca5333abe229c6c6242d732762",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 452,
-      "query": [
-        "measles"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Reuters",
-      "title": "Worldwide childhood vaccination rates recovering in some areas following pandemic slump",
-      "description": "Child vaccination rates across the world recovered in some places in 2022 following a dip during the pandemic. The bounceback was strongest in large lower-income countries.",
-      "url": "https://www.foxnews.com/world/worldwide-childhood-vaccination-rates-recovering-areas-following-pandemic-slump",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/2023-07-18T013240Z_2_LYNXMPEJ6H003_RTROPTP_4_HEALTH-WHO-VACCINES.jpg",
-      "publishedAt": "2023-07-18 11:37:21",
-      "content": "Efforts to vaccinate children worldwide against deadly diseases such as measles and diphtheria began to recover in 2022 after a historic backslide caused by the COVID-19 pandemic, according to new fi\u2026 [+2652 chars]",
-      "retrievedAt": "2023-07-19 19:05:15.047078",
-      "internal_id": "5ea12711c3f4fccbaeda8c74892e782880403f292b3d840b3844f3a34c96d2e7",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 454,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Mongabay",
-      "title": "",
-      "description": "O Brasil bateu o recorde de mortes por dengue em 2022, ao ultrapassar pela primeira vez na hist\u00f3ria recente a barreira dos quatro d\u00edgitos, com 1.016 \u00f3bitos. A triste marca deve ser superada em 2023.De acordo com o Centro de Opera\u00e7\u00f5es de Emerg\u00eancias de Arb",
-      "url": "https://www.uol.com.br/ecoa/colunas/noticias-da-floresta/2023/07/18/mudancas-climaticas-devem-aumentar-transmissoes-de-zika-e-dengue.htm",
-      "urlToImage": "https://conteudo.imguol.com.br/c/noticias/07/2016/08/08/david-miguel-da-costa-santos-tem-microcefalia-e-nasceu-no-mesmo-mes-que-o-paciente-zero-1470704167285_615x300.jpg",
-      "publishedAt": "2023-07-18 10:51:58",
-      "content": "O Brasil bateu o recorde de mortes por dengue em 2022, ao ultrapassar pela primeira vez na hist\u00f3ria recente a barreira dos quatro d\u00edgitos, com 1.016 \u00f3bitos. A triste marca deve ser superada em 2023. \u2026 [+7051 chars]",
-      "retrievedAt": "2023-07-19 19:05:15.664405",
-      "internal_id": "f988b34ea03a400719b505e392e4e72b61ac14c9bc15f6f5d028d4763f0b4513",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 449,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rlsbb.ru",
-      "author": "ABC",
-      "title": "Cujo 1983 1080P BLURAY H264-UNDERTAKERS",
-      "description": "Awards 1 win & 3 nominations See more awards \u00bb Plot: Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town. Genre: Horror | ThrillerIMDB Rating Live: IMDB Rating: 6.1/10 From 48,432 UsersRotten Rating: 59%Metac\u2026",
-      "url": "https://rlsbb.ru/cujo-1983-1080p-bluray-h264-undertakers/",
-      "urlToImage": null,
-      "publishedAt": "2023-07-18 10:40:59",
-      "content": "Awards 1 win &amp; 3 nominations See more awards \u00bb Plot: Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on a small American town. Genre: Horror | ThrillerIMDB Rating\u2026 [+547 chars]",
-      "retrievedAt": "2023-07-19 19:05:14.652466",
-      "internal_id": "0fd32f3bf812ca6de3d8f766030c2e386667a1ef531dc595300ffdf99ec7183c",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 448,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Ashley Westerman",
-      "title": "After a historic downturn due to the pandemic, childhood immunizations are improving",
-      "description": "New data from the World Health Organization and UNICEF show that the number of children getting vaccinated is rebounding globally.",
-      "url": "https://www.npr.org/2023/07/18/1188232006/after-a-historic-downturn-due-to-the-pandemic-childhood-immunizations-are-improv",
-      "urlToImage": "https://media.npr.org/assets/img/2023/07/18/bandaaceh.dpt.getty_wide-4e7e0eaee95a951322fb1ead4522cf5610a51157-s1400-c100.jpg",
-      "publishedAt": "2023-07-18 09:00:42",
-      "content": "A baby receives the DPT vaccine, that can prevent diphtheria, pertussis, and tetanus, as part of a monthly check-up medical program for children at an integrated services post in Banda Aceh on June 8\u2026 [+2903 chars]",
-      "retrievedAt": "2023-07-19 19:05:14.204452",
-      "internal_id": "5b5737225d0c884f5d13f05b886d052a8cab65d0096983d619d076c964211dcf",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 455,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "handelsblatt",
-      "source_name": "Handelsblatt",
-      "author": "Theresa Rauffmann, Maike Telgheder",
-      "title": "Impfstoffe: Klimawandel bringt neue Viren nach Europa",
-      "description": "Impfstoffe gegen die Tropenkrankheiten gibt es nur wenige. Die Pharmaindustrie treibt nun die Entwicklung voran \u2013 ein Konzern produziert auch in Deutschland.",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/impfstoffe-klimawandel-bringt-neue-viren-nach-europa/29264046.html",
-      "urlToImage": "https://www.handelsblatt.com/images/muecke/29264072/3-format2003.jpg",
-      "publishedAt": "2023-07-18 08:17:00",
-      "content": "D\u00fcsseldorf, Frankfurt Es ist eine Krankheit, die laut Weltgesundheitsorganisation (WHO) zu den zehn gr\u00f6\u00dften Gefahren f\u00fcr die globale Gesundheit geh\u00f6rt: das Denguefieber, das mit hohem Fieber, Hautaus\u2026 [+5927 chars]",
-      "retrievedAt": "2023-07-19 19:05:15.669854",
-      "internal_id": "bc8a70435eaf5f2606211c085da1626546a9a9954fcf95d0c4e384e596d541d0",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 462,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "MEXICONOW",
-      "title": "Confirman caso de malaria en Laredo, piden reforzar medidas preventivas",
-      "description": "El departamento de Salud de Laredo Texas detecta caso de malaria. Se\u00f1alan medidas para evitar la transmisi\u00f3n de la enfermedad.",
-      "url": "https://www.elfinanciero.com.mx/border/2023/07/18/confirman-caso-de-malaria-en-laredo-piden-reforzar-medidas-preventivas/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/Vl1nluzwJbP7h29V8GXTrnragqY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/I23G2WEIAZCRLP7W35CUBHO2TE.jpg",
-      "publishedAt": "2023-07-18 07:57:44",
-      "content": "El Departamento de Salud de Laredo ha confirmado un caso de malaria. El individuo afectado viaj\u00f3 desde una regi\u00f3n conocida por la transmisi\u00f3n local de la enfermedad y posteriormente desarroll\u00f3 s\u00edntom\u2026 [+2097 chars]",
-      "retrievedAt": "2023-07-19 19:05:16.736241",
-      "internal_id": "70f125ba40b344099cb3c1642499e0ef4e6ef11cdca98e2a7d79d320f4e71722",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 441,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Post-Covid Childhood Vaccination Rates Rise But At Selective Places: UN",
-      "description": "Efforts to vaccinate children worldwide against deadly diseases such as measles and diptheria began to recover in 2022 after a historic backslide caused by the COVID-19 pandemic, according to new figures from the WHO and the UNICEF.",
-      "url": "https://www.ndtv.com/world-news/post-covid-childhood-vaccination-rates-rise-but-at-selective-places-un-4217514",
-      "urlToImage": "https://c.ndtvimg.com/2023-07/oidmg0lg_vaccinegambia_625x300_18_July_23.jpg",
-      "publishedAt": "2023-07-18 06:24:52",
-      "content": "A health worker administers a polio vaccine in Gambia. (File) London: Efforts to vaccinate children worldwide against deadly diseases such as measles and diptheria began to recover in 2022 after a h\u2026 [+2681 chars]",
-      "retrievedAt": "2023-07-19 07:05:47.205541",
-      "internal_id": "6662767601ab8ef8a646d10fae359b22db6b010bdef1fba38de8fe8a5021e50a",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 444,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "ZAZALI MUSA",
-      "title": "Johor sees sharp rise in dengue cases as of mid-July over 2022",
-      "description": "JOHOR BARU: The number of cumulative dengue cases in Johor saw a large increase as of epidemiological week 28 (ME28) with 5,139 cases so far this year against 1,329 cases in the corresponding period last year. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/07/18/johor-sees-sharp-rise-in-dengue-cases-as-of-mid-july-over-2022",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/18/2183107.jpg",
-      "publishedAt": "2023-07-18 06:13:00",
-      "content": "JOHOR BARU: The number of cumulative dengue cases in Johor saw a large increase as of epidemiological week 28 (ME28) with 5,139 cases so far this year against 1,329 cases in the corresponding period \u2026 [+1042 chars]",
-      "retrievedAt": "2023-07-19 07:05:47.737182",
-      "internal_id": "ab7f5d432f736df6602dcddba216fdd3fca413738f38b4009dbeab8cf55e95c2",
       "publishedAtLabel": "Jul 18"
     }
   ]
