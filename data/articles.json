@@ -1,8 +1,279 @@
 {
-  "last_updated": "2023-07-26 07:05",
+  "last_updated": "2023-07-26 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 661,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Health dept issues advisory as three die of dengue in a day - Millennium Post",
+      "description": "Health dept issues advisory as three die of dengue in a day Millennium PostView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm1pbGxlbm5pdW1wb3N0LmluL2JlbmdhbC9oZWFsdGgtZGVwdC1pc3N1ZXMtYWR2aXNvcnktYXMtdGhyZWUtZGllLW9mLWRlbmd1ZS1pbi1hLWRheS01MjY5NDXSAWtodHRwczovL3d3dy5taWxsZW5uaXVtcG9zdC5pbi9hbXAvYmVuZ2FsL2hlYWx0aC1kZXB0LWlzc3Vlcy1hZHZpc29yeS1hcy10aHJlZS1kaWUtb2YtZGVuZ3VlLWluLWEtZGF5LTUyNjk0NQ?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-25 18:42:26",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-26 19:05:51.466468",
+      "internal_id": "4383a43c9748408c5e5217a91812120253c61f4549f9ac4f0c645d9a19541156",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 672,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "People with HIV, mpox not at increased risk for hospitalization unless immunosuppressed - Healio",
+      "description": "People with HIV, mpox not at increased risk for hospitalization unless immunosuppressed Healio Good news for people living with HIV & their sexual partners Queerty IAS 2023 Day 3 Dr. Bill Kapogiannis Talks About Priorities for th\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5oZWFsaW8uY29tL25ld3MvaW5mZWN0aW91cy1kaXNlYXNlLzIwMjMwNzI1L3Blb3BsZS13aXRoLWhpdi1tcG94LW5vdC1hdC1pbmNyZWFzZWQtcmlzay1mb3ItaG9zcGl0YWxpemF0aW9uLXVubGVzcy1pbW11bm9zdXBwcmVzc2Vk0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-25 18:18:35",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-26 19:05:53.816279",
+      "internal_id": "54a8e3d998c571fc1b47843fe03e9a0b72c84472341bde20fc9320b87be50c42",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 664,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "SP registra o maior n\u00famero de mortes por dengue em 8 anos",
+      "description": "Para a Sociedade Paulista de Infectologia, a dengue deve ser preocupa\u00e7\u00e3o no ano inteiro; Presidente Prudente, Taquaritinga, SP, Bauru, Ribeir\u00e3o Preto e Lins s\u00e3o os munic\u00edpios com mais \u00f3bitos",
+      "url": "https://valor.globo.com/brasil/noticia/2023/07/25/sp-registra-o-maior-numero-de-mortes-por-dengue-em-8-anos.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/Eu6CcviNM2XS5iRRDk9unb1VGE0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/U/1/huaqwQSVKP23vvGGSXRg/dengue18.jpg",
+      "publishedAt": "2023-07-25 17:24:33",
+      "content": "O n\u00famero de mortes por dengue na cidade de S\u00e3o Paulo, de janeiro at\u00e9 o dia 13 de julho de 2023, \u00e9 o maior em oito anos, segundo dados da Covisa (Coordenadoria de Vigil\u00e2ncia em Sa\u00fade), \u00f3rg\u00e3o ligado \u00e0 \u2026 [+4590 chars]",
+      "retrievedAt": "2023-07-26 19:05:51.477921",
+      "internal_id": "ec5b3505bff46eaed8eaf8e79680e04a362803d009af56ba68d89bcd1acf9596",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 673,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Coherent Market Insights Pvt. Ltd",
+      "title": "Leptospirosis Market Predicted to Reach $739.6 Million, Globally, by 2030 at 5.8% CAGR, Says Coherent Market Insights (CMI)",
+      "description": "Combatting Leptospirosis: Leptospirosis Market Addresses the Growing Need for Effective Diagnosis and Treatment Options, Expected to Experience Steady Growth with a Projected CAGR of 5.8% during 2023-2030. Combatting Leptospirosis: Leptospirosis Market Addres\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/07/25/2710692/0/en/Leptospirosis-Market-Predicted-to-Reach-739-6-Million-Globally-by-2030-at-5-8-CAGR-Says-Coherent-Market-Insights-CMI.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/450ec960-647a-4b12-8885-a4afd6739e88",
+      "publishedAt": "2023-07-25 15:41:00",
+      "content": "Burlingame, July 25, 2023 (GLOBE NEWSWIRE) -- Coherent Market Insights published a report, titled, Leptospirosis Market, by Drug (Amoxicillin, Azithromycin, Cefixime, Doxycycline, Others (Ceftriaxone\u2026 [+10335 chars]",
+      "retrievedAt": "2023-07-26 19:05:54.483756",
+      "internal_id": "5e82a5433d1c3796cbbdaf241ec44df70d40859d982cd78c330ab6e3c6424b99",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 668,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Chavanet, P., Fournel, I., Bourredjem, A., Piroth, L., Blot, M., Sixt, T., Binquet, C.",
+      "title": "Addition of daptomycin for the treatment of pneumococcal meningitis: protocol for the AddaMAP study",
+      "description": "Background The leading cause of acute bacterial meningitis in adults is Streptococcus pneumoniae . This infection is associated with high rates of mortality and morbidity related, among other factors, to the excessive host response to the pneumococcal lysis. \u2026",
+      "url": "https://bmjopen.bmj.com/content/13/7/e073032?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-07-25 15:38:14",
+      "content": "STRENGTHS AND LIMITATIONS OF THIS STUDY AddaMAP is a multicentre single-arm phase II study assessing the safety and efficacy of a combined of non-bacteriolytic antibiotic daptomycinand recom\u2026 [+8406 chars]",
+      "retrievedAt": "2023-07-26 19:05:52.019318",
+      "internal_id": "27ad8947bf1bc2ecdac08c77df245d5aa55e8f367117b91a1f60cb902a2940bf",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 667,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Andi Firdaus, Resinta S",
+      "title": "Wolbachia, dengue vaccines main topics at 2023 ASEAN Dengue Day",
+      "description": "The Health Ministry has made Wolbachia technology and dengue vaccines the main topics for discussion at the 2023 ASEAN Dengue Day (ADD) in an effort to intervene in cases of dengue fever. \"We must carry out new ...",
+      "url": "https://en.antaranews.com/news/289410/wolbachia-dengue-vaccines-main-topics-at-2023-asean-dengue-day",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2022/10/05/antarafoto-antisipasi-penyebaran-kasus-dbd-051022-irp-1.jpg",
+      "publishedAt": "2023-07-25 13:34:47",
+      "content": "Jakarta (ANTARA) - The Health Ministry has made Wolbachia technology and dengue vaccines the main topics for discussion at the 2023 ASEAN Dengue Day (ADD) in an effort to intervene in cases of dengue\u2026 [+2586 chars]",
+      "retrievedAt": "2023-07-26 19:05:51.488360",
+      "internal_id": "b7ef0eb7a7f77c6d9151f61f0bac77c5dc4c2d05be2325cd8e1c0553c7bc02a3",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 666,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09ac\u09b0\u09bf\u09b6\u09be\u09b2\u09c7 \u09e8 \u09ac\u09be\u09b8\u09c7\u09b0 \u09b8\u0982\u0998\u09b0\u09cd\u09b7\u09c7 \u09e7 \u09ac\u09be\u09b8 \u09a1\u09cb\u09ac\u09be\u09df, \u0986\u09b9\u09a4 \u0985\u09a8\u09cd\u09a4\u09a4 \u09e8\u09e6",
+      "description": "\u0987\u09b2\u09bf\u09b6 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8\u09c7\u09b0 \u09ac\u09be\u09b8\u099f\u09bf \u09ae\u09b9\u09be\u09b8\u09dc\u0995\u09c7\u09b0 \u09aa\u09be\u09b6\u09c7\u09b0 \u09a1\u09cb\u09ac\u09be\u09df \u09aa\u09dc\u09c7 \u09af\u09be\u09df\u0964 \u09b6\u09cd\u09af\u09be\u09ae\u09b2\u09c0 \u09aa\u09b0\u09bf\u09ac\u09b9\u09a8\u09c7\u09b0 \u09ac\u09be\u09b8\u099f\u09bf \u09ae\u09b9\u09be\u09b8\u09dc\u0995\u09c7\u09b0 \u09aa\u09be\u09b6\u09c7 \u0997\u09be\u099b\u09c7\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u09a7\u09be\u0995\u09cd\u0995\u09be \u09b2\u09c7\u0997\u09c7 \u09a6\u09c1\u09ae\u09dc\u09c7-\u09ae\u09c1\u099a\u09dc\u09c7 \u09af\u09be\u09df\u0964",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/accident-fire/news-499646",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/25/ddeili_sttaar_-_2023-07-25t185753.942.jpg?itok=dSbH69Lg",
+      "publishedAt": "2023-07-25 13:05:48",
+      "content": "Sixteen dengue patients died in different hospitals across the country in the 24 hours ending this morning",
+      "retrievedAt": "2023-07-26 19:05:51.484079",
+      "internal_id": "66eb5efb539174b78d5a28821eaf8b713186e47033626a1e52f60fcf92d8f6ca",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 665,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09ac\u09c7\u099e\u09cd\u099a\u09c7 \u09b6\u09c1\u09df\u09c7 \u099b\u09c7\u09b2\u09c7 \u099c\u09df, \u09ab\u09c1\u099f\u09aa\u09be\u09a4\u09c7 \u09ac\u09b8\u09c7 \u09b6\u09be\u0995\u09bf\u09ac \u0996\u09be\u09a8 \u0964 Daily Star Bangla",
+      "description": "\u09ac\u09c7\u099e\u09cd\u099a\u09c7 \u09b6\u09c1\u09df\u09c7 \u099b\u09c7\u09b2\u09c7 \u099c\u09df, \u09ab\u09c1\u099f\u09aa\u09be\u09a4\u09c7 \u09ac\u09b8\u09c7 \u09b6\u09be\u0995\u09bf\u09ac \u0996\u09be\u09a8 \u0964 Daily Star Banglathedailystar.net",
+      "url": "https://bangla.thedailystar.net/entertainment/tv-movies/dhallywood/news-499631",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/25/fb_img_1690285715019.jpg",
+      "publishedAt": "2023-07-25 12:34:28",
+      "content": "Sixteen dengue patients died in different hospitals across the country in the last 24 hours till this morning",
+      "retrievedAt": "2023-07-26 19:05:51.480681",
+      "internal_id": "85796b60e6f345d7e8b31696014a0374aa2b95e7039abf0fe1e27d44b1b8b5c3",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 662,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "First two deaths in 2023 from dengue infection in Singapore; number of cases, clusters decline",
+      "description": "SINGAPORE: Two people died of dengue infection in Singapore from April to June this year, marking the first deaths from local dengue infection in 2023, the National Environment Agency (NEA) said in its second-quarter update on Tuesday (Jul 25). According to N\u2026",
+      "url": "https://www.channelnewsasia.com/singapore/dengue-death-2023-infection-cases-clusters-nea-3652756",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--XqmYRpzf--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/09/02/istock-912054822.jpg?itok=MhseFIGG",
+      "publishedAt": "2023-07-25 11:59:04",
+      "content": "SINGAPORE: Two people died of dengue infection in Singapore from April to June this year, marking the first deaths from local dengue infection in 2023, the National Environment Agency (NEA) said in i\u2026 [+1235 chars]",
+      "retrievedAt": "2023-07-26 19:05:51.468827",
+      "internal_id": "62c2bd60dd196b435b59c3f46764681f9259056631445f94dc8a440d7b040fac",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 671,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Barrick Bulyanhulu Combats Malaria in Mining Area",
+      "description": "[Daily News] Barrick Bulyanhulu has embarked on the initiative to create awareness of the malaria pandemic among mining workers and people in the surrounding areas.",
+      "url": "https://allafrica.com/stories/202307250354.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-25 11:20:35",
+      "content": "Barrick Bulyanhulu has embarked on the initiative to create awareness of the malaria pandemic among mining workers and people in the surrounding areas. The acting Bulyanhulu General Manager, Mr Vict\u2026 [+1723 chars]",
+      "retrievedAt": "2023-07-26 19:05:52.465989",
+      "internal_id": "41c5cab3af1f47a32f31dca4327310ba1ac9c548c0562165449e8bc53c94e3c4",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 660,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh's dengue death toll spikes to 185 | MorungExpress | morungexpress.com - Morung Express",
+      "description": "Bangladesh's dengue death toll spikes to 185 | MorungExpress | morungexpress.com Morung Express Bangladesh dengue death toll jumps to 185 - Jammu Kashmir Latest News | Tourism | Breaking News J&K Daily Excelsior In Bangladesh, Ju\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vbW9ydW5nZXhwcmVzcy5jb20vYmFuZ2xhZGVzaHMtZGVuZ3VlLWRlYXRoLXRvbGwtc3Bpa2VzLXRvLTE4NdIBAA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-25 11:20:25",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-26 19:05:51.462791",
+      "internal_id": "34f3975aec56ee116a4b068dd817a060da599d8220c30e5166836dc2823d9ae7",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 658,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh dengue death toll jumps to 185 - United News of India",
+      "description": "Bangladesh dengue death toll jumps to 185 United News of India In Bangladesh, July become cruellest for dengue outbreak, situation may worsened in August-September News On AIR More than 170 dead as Bangladesh grapples with dengue\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWWh0dHA6Ly93d3cudW5paW5kaWEuY29tL2JhbmdsYWRlc2gtZGVuZ3VlLWRlYXRoLXRvbGwtanVtcHMtdG8tMTg1L3dvcmxkL25ld3MvMzAxNzM3NS5odG1s0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-25 10:25:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-26 19:05:51.453975",
+      "internal_id": "9a8f31c3cb3b9c7624fec1810870324687965ff3d2907b6e6bac973e8b7712f5",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 659,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh's dengue death toll spikes to 185 - DTNEXT",
+      "description": "Bangladesh's dengue death toll spikes to 185 DTNEXT In Bangladesh, July become cruellest for dengue outbreak, situation may worsened in August-September News On AIR More than 170 dead as Bangladesh grapples with dengue \u2018epidemic\u2019\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmR0bmV4dC5pbi9uZXdzL3dvcmxkL2JhbmdsYWRlc2hzLWRlbmd1ZS1kZWF0aC10b2xsLXNwaWtlcy10by0xODUtNzI2MjYw0gFXaHR0cHM6Ly93d3cuZHRuZXh0LmluL2FtcC9uZXdzL3dvcmxkL2JhbmdsYWRlc2hzLWRlbmd1ZS1kZWF0aC10b2xsLXNwaWtlcy10by0xODUtNzI2MjYw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-25 10:14:16",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-26 19:05:51.459700",
+      "internal_id": "095d8602cf519fb48f974cd11dcf62d80b888b03729781a99492b5623158c67a",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 663,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Mike Zeitz, Lars Fischer",
+      "title": "Der Angriff der Tigerm\u00fccke",
+      "description": "Die asiatische Tigerm\u00fccke breitet sich in Deutschland aus. Das Insekt \u00fcbertr\u00e4gt viele Krankheiten, darunter Denguefieber und Chikungunya. Wie gro\u00df ist die Gefahr?",
+      "url": "https://www.spektrum.de/video/die-tigermuecke-wir-werden-alle-sterben/2160267",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/WWAS_m__cken.jpg",
+      "publishedAt": "2023-07-25 10:11:30",
+      "content": "Der zweite Punkt ist der Klimawandel. Die M\u00fccken sind zwar relativ widerstandsf\u00e4hig, aber wenn es zu oft zu kalt ist, kommen sie nicht durch den Winter. Wo sich die Tigerm\u00fccke dauerhaft ansiedeln kan\u2026 [+2196 chars]",
+      "retrievedAt": "2023-07-26 19:05:51.473430",
+      "internal_id": "33d0e9420becf481c76fc697abcf62d559b80f46a8bfc1498da3ef394af080d2",
+      "publishedAtLabel": "Jul 25"
+    },
+    {
+      "id": 669,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Los Angeles Times",
+      "author": "Saad B. Omer",
+      "title": "Opinion: Don't panic over malaria in the U.S. \u2014 yet. But do worry about mosquitoes",
+      "description": "Malaria cases in Florida and Texas didn't lead to mass outbreaks, but climate change is altering mosquito habitats, remaking the geography of human disease.",
+      "url": "https://www.latimes.com/opinion/story/2023-07-25/diseases-climate-change-mosquitoes-malaria-warming",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/75a88b5/2147483647/strip/true/crop/3012x1581+0+213/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd1%2F52%2F5b48af9b4bbe8799775683a0c445%2Fmalaria-prevention-mosquito-arm.jpg",
+      "publishedAt": "2023-07-25 10:01:02",
+      "content": "Since May, at least eight cases of locally transmitted malaria have been reported the first such instances in the United States in 20 years. Although a relatively small number of U.S. residents contr\u2026 [+4714 chars]",
+      "retrievedAt": "2023-07-26 19:05:52.458265",
+      "internal_id": "c3e1e569bf3433b80e6b7bed35fca5b65f464368068bc4c6094eb3faff705d99",
+      "publishedAtLabel": "Jul 25"
+    },
     {
       "id": 654,
       "query": [
@@ -181,6 +452,24 @@
       "content": ": ! ? , : Dengue: ? , , ! ? , ! ? - , , , ! ' ' ,'' : Partha Chatterjee: ' '! (Zee 24 Ghanta App , , , , , , , Zee 24 Ghanta App)",
       "retrievedAt": "2023-07-26 07:05:38.165063",
       "internal_id": "09a190d5e4be26655b084943e65bd477b17965c72462d70ae785ebc20da8610c",
+      "publishedAtLabel": "Jul 24"
+    },
+    {
+      "id": 670,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Malaria has come to Sarasota and somehow that's not surprising - Sarasota Herald-Tribune",
+      "description": "Malaria has come to Sarasota and somehow that's not surprising Sarasota Herald-Tribune Florida doctor who survived malaria multiple times warns of dangers, urges community to help control spread WFLA In Florida's local malaria ou\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5oZXJhbGR0cmlidW5lLmNvbS9zdG9yeS9vcGluaW9uL2NvbHVtbnMvMjAyMy8wNy8yMy9tYWxhcmlhLWhhcy1jb21lLXRvLXNhcmFzb3RhLWFuZC1zb21laG93LXRoYXRzLW5vdC1zdXJwcmlzaW5nLzcwNDQzMDIxMDA3L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-24 21:12:14",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-26 19:05:52.461258",
+      "internal_id": "34eef6d89bb80b9a0e0fbbc5abae5eab3f38b8852567f33e4f72a597d38d266a",
       "publishedAtLabel": "Jul 24"
     },
     {
@@ -3328,294 +3617,6 @@
       "retrievedAt": "2023-07-20 07:05:32.930615",
       "internal_id": "48342d17f67d620f33396ce77d1128db4a8799c8c58cfa956fb71e2680870527",
       "publishedAtLabel": "Jul 19"
-    },
-    {
-      "id": 474,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "The Associated Press",
-      "title": "Florida county reports its 7th case of locally contracted malaria",
-      "description": "Officials say a seventh case of malaria has been documented in a southwest Florida county",
-      "url": "https://abcnews.go.com/US/wireStory/florida-county-reports-7th-case-locally-contracted-malaria-101449180",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "publishedAt": "2023-07-19 00:21:53",
-      "content": "SARASOTA, Fla. -- A southwest Florida county has document a seventh case of malaria, state authorities said. The Florida Department of Health reported a new locally acquired case of malaria in Saras\u2026 [+919 chars]",
-      "retrievedAt": "2023-07-20 07:05:32.928114",
-      "internal_id": "40daf38f66da868c76ca70c675fa3bb4242a96491d8e41f236f1f3364f6abd0f",
-      "publishedAtLabel": "Jul 19"
-    },
-    {
-      "id": 471,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Florida county reports its seventh case of locally contracted malaria - Toronto Star",
-      "description": "Florida county reports its seventh case of locally contracted malaria Toronto Star 7th official case of malaria confirmed in Sarasota 10 Tampa Bay Seven malaria cases keeping mosquito control crews busy in Sarasota County FOX 13\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZXN0YXIuY29tL25ld3Mvd29ybGQvdXMvMjAyMy8wNy8xOC9mbG9yaWRhLWNvdW50eS1yZXBvcnRzLWl0cy03dGgtY2FzZS1vZi1sb2NhbGx5LWNvbnRyYWN0ZWQtbWFsYXJpYS5odG1s0gF7aHR0cHM6Ly93d3cudGhlc3Rhci5jb20vYW1wL25ld3Mvd29ybGQvdXMvMjAyMy8wNy8xOC9mbG9yaWRhLWNvdW50eS1yZXBvcnRzLWl0cy03dGgtY2FzZS1vZi1sb2NhbGx5LWNvbnRyYWN0ZWQtbWFsYXJpYS5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-19 00:18:52",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-20 07:05:32.921405",
-      "internal_id": "6ef0cae5e22ed64e34772aa4d0cbddd23549834820d85158673b4481cbfb11ba",
-      "publishedAtLabel": "Jul 19"
-    },
-    {
-      "id": 476,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Toronto Star",
-      "author": "The Associated Press",
-      "title": "Florida county reports its 7th case of locally contracted malaria",
-      "description": "SARASOTA, Fla. (AP) \u2014 A southwest Florida county has document a seventh case of malaria, state authorities said.",
-      "url": "https://www.thestar.com/news/world/us/2023/07/18/florida-county-reports-its-7th-case-of-locally-contracted-malaria.html",
-      "urlToImage": "https://www.thestar.com/assets/img/thestar-ribbon.png",
-      "publishedAt": "2023-07-19 00:13:21",
-      "content": "SARASOTA, Fla. (AP) A southwest Florida county has document a seventh case of malaria, state authorities said. The Florida Department of Health reported a new locally acquired case of malaria in Sar\u2026 [+1250 chars]",
-      "retrievedAt": "2023-07-20 07:05:32.932723",
-      "internal_id": "fd2a3f38ff73416afe550266d8f3aae4749ce43945088cd9b4ce1fb3c0858da9",
-      "publishedAtLabel": "Jul 19"
-    },
-    {
-      "id": 473,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Malaria cases reported in Utah, but local transmission isn\u2019t likely - Deseret News",
-      "description": "Malaria cases reported in Utah, but local transmission isn\u2019t likely Deseret News The Rising Concern of Malaria and Mosquito-Borne Diseases in the US Infection Control Today U.S.-Acquired Malaria Cases Spark False Claims of Links \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmRlc2VyZXQuY29tL3V0YWgvMjAyMy83LzE4LzIzNzkzNzcyL21hbGFyaWEtdXRhaC13ZXN0LW5pbGUtdmlydXMtZmxvcmlkYS10ZXhhcy1sb2NhbC1zcHJlYWTSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-18 23:33:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-20 07:05:32.925846",
-      "internal_id": "9b40c4a946e53c4441da91d6bbb1f677633861da6c5d75b614795315b52c55c2",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 470,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "New York Daily News",
-      "author": "Evan Rosen, New York Daily News",
-      "title": "8th case of malaria found in Florida, but CDC does not expect nationwide outbreak",
-      "description": "There have now been eight total malaria infections found in the U.S. since May, after another case was reported Tuesday by Florida health officials. The...",
-      "url": "https://www.nydailynews.com/news/national/ny-malaria-cases-florida-cdc-nationwide-outbreak-predictions-20230718-cz3ioltsjfcj3ncld5tazarweq-story.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tYKQmnElKuigLLgWhdhbIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ny_daily_news_national_852/dd9a789d64139a93e13ed08105f1eda1",
-      "publishedAt": "2023-07-18 22:54:00",
-      "content": "There have now been eight total malaria infections found in the U.S. since May, after another case was reported Tuesday by Florida health officials. The recent cases, all of which have been found in\u2026 [+1501 chars]",
-      "retrievedAt": "2023-07-20 07:05:32.918662",
-      "internal_id": "1d864ac5c02c42c427324c9beee17530798c5a3687ec83399ff34b64e08d06b1",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 472,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "7th official case of malaria confirmed in Sarasota - 10 Tampa Bay",
-      "description": "7th official case of malaria confirmed in Sarasota 10 Tampa Bay Florida county reports its 7th case of locally contracted malaria AOL 7th confirmed case of malaria reported in Sarasota County WWSB 7th case of malaria d\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC0RyM2lYUWhGQmc0mAEB?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-18 21:49:12",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-20 07:05:32.923630",
-      "internal_id": "7b2a430a9f4a04756fe22fed8482e32becef9f487b0d34aa71c357a0d8b05748",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 466,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "M Ahmoudfouly",
-      "title": "Dengue fever cases detected in Upper Egypt: health ministry",
-      "description": "CAIRO, July 18 (Xinhua) -- Egypt's Health Ministry announced on Tuesday that some villagers in Upper Egypt's province of Qena have tested positive for the dengue virus. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2023/07/19/dengue-fever-cases-detected-in-upper-egypt-health-ministry",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-07-18 21:44:00",
-      "content": "CAIRO, July 18 (Xinhua) -- Egypt's Health Ministry announced on Tuesday that some villagers in Upper Egypt's province of Qena have tested positive for the dengue virus. The dengue fever cases were \u2026 [+770 chars]",
-      "retrievedAt": "2023-07-20 07:05:31.831920",
-      "internal_id": "bb7c7e138bbba431922d77a1d1ffec34506d1ccbc13c4fc077ed9a0d0d8f4736",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 465,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Bike Rally Raises Dengue Awareness In Diphu",
-      "description": "HT Bureau DIPHU, July 18: In response to the rising number of Dengue cases in Karbi Anglong, the joint director of Health Services and the Karbi Anglong Autonomous Council (KAAC) organised an awareness programme through a bike rally in Diphu town. Dr Borsin\u2026",
-      "url": "https://thehillstimes.in/assam/bike-rally-raises-dengue-awareness-in-diphu",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/07/Bike-Realy-.jpg",
-      "publishedAt": "2023-07-18 19:38:20",
-      "content": "HT Bureau DIPHU, July 18: In response to the rising number of Dengue cases in Karbi Anglong, the joint director of Health Services and the Karbi Anglong Autonomous Council (KAAC) organised an awaren\u2026 [+1109 chars]",
-      "retrievedAt": "2023-07-20 07:05:31.825535",
-      "internal_id": "aa13e5781d19d62c7e6fd17b405e8f52af841bb5da024823a7c362a87694b25b",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 468,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "Dengue sigue en aumento: 44 casos en la \u00faltima semana",
-      "description": "En lo corrido del a\u00f1o se han registrado en la ciudad un total de 1.730 casos de dengue. Estos son los barrios en alerta.",
-      "url": "https://www.eluniversal.com.co/cartagena/dengue-sigue-en-aumento-44-casos-en-la-ultima-semana-HY8607559",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/WYIJ/dengue1_8126420_20230718142347.jpg",
-      "publishedAt": "2023-07-18 19:25:00",
-      "content": "Los casos de dengue en Cartagena siguen en escalada en este segundo periodo del 2023. El Departamento Administrativo Distrital de Salud (Dadis) dio a conocer que durante la \u00faltima semana epidemiol\u00f3g\u2026 [+3013 chars]",
-      "retrievedAt": "2023-07-20 07:05:31.838961",
-      "internal_id": "21b7112ca05f6ec0d79c2cfba2ee275c8d66133aac09917bad1e6da3d4c7333e",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 459,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "New malaria case in Florida brings national total to 8, the first U.S. acquired cases in 20 years - NBC News",
-      "description": "New malaria case in Florida brings national total to 8, the first U.S. acquired cases in 20 years NBC News 7th case of malaria detected in Sarasota 10 Tampa Bay Eight cases of locally transmitted malaria discovered in Florida, Te\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL2hlYWx0aC9oZWFsdGgtbmV3cy9uZXctbWFsYXJpYS1jYXNlLWZsb3JpZGEtYnJpbmdzLW5hdGlvbmFsLXRvdGFsLTgtZmlyc3QtdXMtY2FzZXMtMjAteWVhLXJjbmE5NDg5OdIBKmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmE5NDg5OQ?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-18 18:30:47",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-19 19:05:16.727461",
-      "internal_id": "c79eb7fc77213b0a790abedfd908dabb8b452b34a416ed2e653c50fb5941d686",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 461,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Aria Bendix and Blayne Alexander",
-      "title": "New malaria case in Florida brings national total to 8, the first U.S. acquired cases in 20 years",
-      "description": "Florida health officials reported a new case of malaria on Tuesday, bringing the total number of locally acquired malaria infections in the U.S. to eight since May.",
-      "url": "https://www.nbcnews.com/health/health-news/new-malaria-case-florida-brings-national-total-8-first-us-cases-20-yea-rcna94899",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230718-florida-malaria-pesticides-ew-1233p-f9bb65.jpg",
-      "publishedAt": "2023-07-18 18:30:47",
-      "content": "Florida health officials reported a new case of malaria on Tuesday, bringing the total number of locally acquired malaria infections in the U.S. to eight since May. The cases are the first in 20 yea\u2026 [+3282 chars]",
-      "retrievedAt": "2023-07-19 19:05:16.733210",
-      "internal_id": "7a4be65fbff43b7756bb3ce893c3609499a27d438aeb9e5060fe15ee9dcb79e5",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 463,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "FactCheck.org",
-      "author": "Nora Macaluso",
-      "title": "U.S.-Acquired Malaria Cases Spark False Claims of Links to Gates-Funded Research",
-      "description": "The Bill and Melinda Gates Foundation supports research into fighting malaria, including funding a company that releases genetically modified mosquitoes that are incapable of carrying the disease. But reports of locally acquired cases of malaria in the U.S. h\u2026",
-      "url": "https://www.factcheck.org/2023/07/scicheck-u-s-acquired-malaria-cases-spark-false-claims-of-links-to-gates-funded-research/",
-      "urlToImage": "https://cdn.factcheck.org/UploadedFiles/Mosquito.jpg",
-      "publishedAt": "2023-07-18 17:22:00",
-      "content": "The Bill and Melinda Gates Foundation supports research into fighting malaria, including funding a company that releases genetically modified mosquitoes that are incapable of carrying the disease. Bu\u2026 [+6436 chars]",
-      "retrievedAt": "2023-07-19 19:05:16.741023",
-      "internal_id": "4ed0661ad670abf623906173ac109224314d988417dfca24c123d30952d7db39",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 453,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Science X",
-      "title": "Insecticide resistance is compromising control programs against dengue fever in Bangladesh, study shows",
-      "description": "A study published in Pest Management Science reveals that insecticide resistance is severely undermining efforts to control the mosquito Aedes aegypti\u2014the primary vector of dengue fever in Bangladesh.",
-      "url": "https://phys.org/news/2023-07-insecticide-resistance-compromising-dengue-fever.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/insecticide-resistance.jpg",
-      "publishedAt": "2023-07-18 16:57:23",
-      "content": "A study published in Pest Management Science reveals that insecticide resistance is severely undermining efforts to control the mosquito Aedes aegyptithe primary vector of dengue fever in Bangladesh.\u2026 [+5469 chars]",
-      "retrievedAt": "2023-07-19 19:05:15.659086",
-      "internal_id": "bcfcdb0dc7dad228ca17665dd096d78a209c88a630b6e73d70c1da52420a7ba8",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 460,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "7th case of malaria detected in Sarasota - 10 Tampa Bay",
-      "description": "7th case of malaria detected in Sarasota 10 Tampa Bay 7th confirmed case of malaria reported in Sarasota County WWSB 7th malaria case reported in Sarasota County ABC Action News Tampa Bay 7th official case of malaria c\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC05ncDYtd016eXk4mAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-18 16:15:58",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-19 19:05:16.730487",
-      "internal_id": "ed2eff4f3fd10cd01d71ae237c932a73181577329c136e6b40db71958b00f0d8",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 451,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Adam Kleczkowski, Professor of Mathematics and Statistics, University of Strathclyde",
-      "title": "Measles: how declining vaccination levels in London are threatening herd immunity",
-      "description": "Projections from the UKHSA suggest London could see a measles outbreak totalling 40,000 to 160,000 cases at current vaccination levels.",
-      "url": "https://theconversation.com/measles-how-declining-vaccination-levels-in-london-are-threatening-herd-immunity-209827",
-      "urlToImage": "https://images.theconversation.com/files/538068/original/file-20230718-23-6nl8w9.jpg?ixlib=rb-1.1.0&rect=0%2C450%2C5176%2C2584&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2023-07-18 16:10:33",
-      "content": "fotohay/Shutterstock The UK Health Security Agency (UKHSA) has warned of an increased risk of measles outbreaks, particularly in London. Although the probability of a large epidemic is still consi\u2026 [+6648 chars]",
-      "retrievedAt": "2023-07-19 19:05:15.043962",
-      "internal_id": "42a89b243e154bec15eb233c05e37d2787c80384c3afc6259d2428b3d1934041",
-      "publishedAtLabel": "Jul 18"
-    },
-    {
-      "id": 456,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ndmais.com.br",
-      "author": "ND Mais",
-      "title": "De gripe a dengue: como SC atingiu \u2018superlota\u00e7\u00e3o\u2019 com 92% dos leitos de UTI ocupados",
-      "description": "Apenas uma regi\u00e3o de Santa Catarina tem menos de 90% na ocupa\u00e7\u00e3o de leitos de UTI; doen\u00e7as sazonais impulsionam lota\u00e7\u00e3o",
-      "url": "https://ndmais.com.br/saude/de-gripe-a-dengue-como-sc-atingiu-superlotacao-com-92-dos-leitos-de-uti-ocupados/",
-      "urlToImage": "https://static.ndmais.com.br/2023/04/joinville-hospital-dengue-950x475.jpg",
-      "publishedAt": "2023-07-18 14:57:17",
-      "content": "Santa Catarina est\u00e1 com 92,15% de ocupa\u00e7\u00e3o dos leitos de UTI (Unidade de Terapia Intensiva) nesta ter\u00e7a-feira (18). Os dados s\u00e3o da SES/SC (Secretaria do Estado da Sa\u00fade de Santa Catarina). De acor\u2026 [+2327 chars]",
-      "retrievedAt": "2023-07-19 19:05:15.673734",
-      "internal_id": "2c5fd87cf93665a5eec16aa8f99731a0371106d5e50bb5534fb5e55de8cd7e0f",
-      "publishedAtLabel": "Jul 18"
     }
   ]
 }
