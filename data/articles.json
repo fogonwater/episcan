@@ -1,8 +1,134 @@
 {
-  "last_updated": "2023-07-26 19:05",
+  "last_updated": "2023-07-27 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 16,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 674,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "Yannick Simonin, Virologiste, ma\u00eetre de conf\u00e9rences en surveillance et \u00e9tude des maladies \u00e9mergentes, Universit\u00e9 de Montpellier \u2014 The Conversation",
+      "title": "Dengue en France : vers une ann\u00e9e record ?",
+      "description": "\u00catre piqu\u00e9 par un moustique, rien que de tr\u00e8s banal. Toutefois, il peut devenir votre pire cauchemar s'il est porteur de virus. Face \u00e0 l'explosion de cas de dengue \u00ab autochtones \u00bb, l'an dernier, dans des d\u00e9partements exempts de cette maladie, les experts sonn\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/maladie-vectorielle-dengue-france-vers-annee-record-106688/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/d/f/2/df28e8e82e_50204438_moustique.jpg",
+      "publishedAt": "2023-07-26 05:29:54",
+      "content": "De lavis de tous les sp\u00e9cialistes, lann\u00e9e 2022 a \u00e9t\u00e9 exceptionnelle en France m\u00e9tropolitaine sur le front de la circulation des arbovirus, ces virus transmis par les arthropodes se nourrissant de san\u2026 [+7360 chars]",
+      "retrievedAt": "2023-07-27 07:05:45.556155",
+      "internal_id": "91f5b4f48c6718c25d3f37aa4edbd0685175e098a6ef5f703008fd0b429cba99",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 679,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Shivendra Singh",
+      "title": "Dengue Havoc: \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0906\u0927\u0940 \u0906\u092c\u093e\u0926\u0940 \u092a\u0930 \u092c\u0922\u093c\u093e \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0916\u0924\u0930\u093e, WHO \u0915\u0940 \u092f\u0947 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 \u0921\u0930\u093e \u0926\u0947\u0917\u0940 \u0906\u092a\u0915\u094b!",
+      "description": "Dengue: \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0906\u0927\u0940 \u0906\u092c\u093e\u0926\u0940 \u0915\u094b \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0916\u0924\u0930\u093e \u0939\u0948. \u092f\u093e\u0928\u093f \u0932\u0917\u092d\u0917 4 \u0905\u0930\u092c \u0932\u094b\u0917 \u0909\u0928 \u091c\u0917\u0939\u094b\u0902 \u092a\u0930 \u0930\u0939\u0924\u0947 \u0939\u0948\u0902, \u091c\u0939\u093e\u0902 \u0921\u0947\u0902\u0917\u0942 \u092c\u0941\u0916\u093e\u0930 \u0906\u0938\u093e\u0928\u0940 \u0938\u0947 \u092b\u0948\u0932 \u0938\u0915\u0924\u093e \u0939\u0948. \u0939\u0930 \u0938\u093e\u0932 \u0915\u0930\u0940\u092c 40 \u0915\u0930\u094b\u0921\u093c \u0932\u094b\u0917 \u0907\u0938\u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902.",
+      "url": "https://zeenews.india.com/hindi/health/risk-of-dengue-has-increased-on-half-of-the-worlds-population-who-warning-will-scare-you/1796213",
+      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/07/26/1988276-dengue-havoc.jpg",
+      "publishedAt": "2023-07-26 04:39:07",
+      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+357 chars]",
+      "retrievedAt": "2023-07-27 07:05:45.570866",
+      "internal_id": "2cf2d21d37978a213258a5a4bcd1a1936da82682d0b23ae2b6073078b735f7b4",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 675,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh's dengue death toll hits 201 - Xinhua",
+      "description": "Bangladesh's dengue death toll hits 201 Xinhua Bangladesh fears record high dengue death toll Bangkok Post Bangladesh dengue death toll jumps to 185 - Jammu Kashmir Latest News | Tourism | Breaking News J&K Daily Excelsior </li\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZW5nbGlzaC5uZXdzLmNuLzIwMjMwNzI2LzI4M2ZlMzk1OTJlMzQ0ODdiNzI3YzI3NDlmOTc5YzNmL2MuaHRtbNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-26 03:50:15",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-27 07:05:45.559483",
+      "internal_id": "70ef1cd9b367e192c9a192f5edbb30ac2419acd86a22a6561db4a8784c32cc52",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 678,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Bangladesh's dengue death toll jumps to 185",
+      "description": "DHAKA, July 25 (Xinhua) -- The death toll from the viral dengue outbreak in Bangladesh has risen to",
+      "url": "http://en.people.cn/n3/2023/0726/c90000-20049434.html",
+      "urlToImage": null,
+      "publishedAt": "2023-07-26 03:02:27",
+      "content": "DHAKA, July 25 (Xinhua) -- The death toll from the viral dengue outbreak in Bangladesh has risen to 185 so far this year, while reported cases have reached 35,270, the Directorate General of Health S\u2026 [+932 chars]",
+      "retrievedAt": "2023-07-27 07:05:45.568808",
+      "internal_id": "ca4a44b8c9a0f98a01a727ab01a2375e9a7941c4623ff2f604dbcbfad35d9058",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 676,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Focus on surveillance amid rise in vector-borne diseases - IndiaTimes",
+      "description": "Focus on surveillance amid rise in vector-borne diseases IndiaTimes 49-yr-old is 1st suspected dengue death case in Mumbai Times of India PMC asks health practitioners to provide details of all patients affected by vector and wat\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMid2h0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvcHVuZS9mb2N1cy1vbi1zdXJ2ZWlsbGFuY2UtYW1pZC1yaXNlLWluLXZlY3Rvci1ib3JuZS1kaXNlYXNlcy9hcnRpY2xlc2hvdy8xMDIxMjA3NDIuY21z0gF7aHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vY2l0eS9wdW5lL2ZvY3VzLW9uLXN1cnZlaWxsYW5jZS1hbWlkLXJpc2UtaW4tdmVjdG9yLWJvcm5lLWRpc2Vhc2VzL2FtcF9hcnRpY2xlc2hvdy8xMDIxMjA3NDIuY21z?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-26 02:02:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-27 07:05:45.562301",
+      "internal_id": "a0aaf9a8e427d7e271d8a23dd5513a4d90a0e943e2c0bed6204914d80ee87a76",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 680,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Brussels bombers found guilty in murder trial",
+      "description": "A court found six men guilty of terrorist murder, after suicide bomb attacks killed 32 people at Brussels airport and a metro station in March 2016. Also: two pilots die in Greek firefighting plane crash, and new malaria vaccine gets green light in Burkina Fa\u2026",
+      "url": "https://www.bbc.co.uk/programmes/p0g2wxl1",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0d17xyt.jpg",
+      "publishedAt": "2023-07-26 00:31:00",
+      "content": "A court found six men guilty of terrorist murder, after suicide bomb attacks killed 32 people at Brussels airport and a metro station in March 2016. Also: two pilots die in Greek firefighting plane c\u2026 [+62 chars]",
+      "retrievedAt": "2023-07-27 07:05:46.277505",
+      "internal_id": "e477f890f9bfa4c00cbbd0c748bb0516e26d68147ba195d793ca3fdbe0e30eeb",
+      "publishedAtLabel": "Jul 26"
+    },
+    {
+      "id": 677,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": null,
+      "title": "",
+      "description": "At\u00e9 13 de julho foram dez \u00f3bitos pela doen\u00e7a na capital, maior \u00edndice ap\u00f3s epidemia de 2015; OUTRO LADO: Prefeitura diz que antecipou a\u00e7\u00f5es",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2023/07/sao-paulo-registra-o-maior-numero-de-mortes-por-dengue-em-8-anos.shtml",
+      "urlToImage": "https://f.i.uol.com.br/fotografia/2022/06/10/165486996462a34fccb23eb_1654869964_3x2_rt.jpg",
+      "publishedAt": "2023-07-25 19:50:44",
+      "content": "O n\u00famero de mortos por dengue na cidade de S\u00e3o Paulo, de janeiro at\u00e9 o dia 13 de julho de 2023, \u00e9 o maior em oito anos, segundo dados da Covisa (Coordenadoria de Vigil\u00e2ncia em Sa\u00fade), \u00f3rg\u00e3o ligado \u00e0 \u2026 [+4470 chars]",
+      "retrievedAt": "2023-07-27 07:05:45.564959",
+      "internal_id": "a3ad7d32a1022765d08fb96054ea5c1b6bf451e6be4b134f1a45dac537e55ea3",
+      "publishedAtLabel": "Jul 25"
+    },
     {
       "id": 661,
       "query": [
@@ -3489,133 +3615,6 @@
       "content": "Rwanda is one of the African countries with the best coverage for the Diphtheria, Tetanus, and Pertussis vaccine (DPT) vaccine, a new report by the World Health Organisation and UNICEF showed on Tues\u2026 [+3614 chars]",
       "retrievedAt": "2023-07-20 19:05:26.424511",
       "internal_id": "7aff4c20517fc057a05a6c77d481950d2195cc332994d48e3e7bcf02d66c738c",
-      "publishedAtLabel": "Jul 19"
-    },
-    {
-      "id": 481,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Rwanda Among African Countries With Best Vaccine Coverage - New Research",
-      "description": "[New Times] Rwanda is one of the African countries with the best coverage for the Diphtheria, Tetanus, and Pertussis vaccine (DPT), new research data shows.",
-      "url": "https://allafrica.com/stories/202307190094.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-19 07:29:12",
-      "content": "Rwanda is one of the African countries with the best coverage for the Diphtheria, Tetanus, and Pertussis vaccine (DPT), new research data shows. The DPT vaccine coverage is used as the global marker\u2026 [+3678 chars]",
-      "retrievedAt": "2023-07-20 19:05:26.428931",
-      "internal_id": "c963a86cbc9d9b6ea7632ec0b04ff91c611757ed42d412d80ed4469b69979598",
-      "publishedAtLabel": "Jul 19"
-    },
-    {
-      "id": 478,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Malaria cases reported in Utah, but local transmission isn\u2019t likely - Deseret News",
-      "description": "Malaria cases reported in Utah, but local transmission isn\u2019t likelyDeseret News Webinar Thursday, July 20, 2023 - Review of Malaria Diagnosis and Treatment in the United StatesCDC Emergency Preparedness U.S.-Acquired Malaria Cases Spark False Claims of Links \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171419498",
-      "urlToImage": null,
-      "publishedAt": "2023-07-19 06:52:13",
-      "content": "You may call me by my name, Wirth, or by my value, Worth. - Nicklaus Wirth",
-      "retrievedAt": "2023-07-20 07:05:32.940836",
-      "internal_id": "59b3c302b0c6458e314d4d6737a7db5aaf013cd593c4bd81128a4dcdb8f77cb4",
-      "publishedAtLabel": "Jul 19"
-    },
-    {
-      "id": 479,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "You May Be Prone To Leptospirosis During Monsoon; Here's How To Prevent It",
-      "description": "Humans can become infected with Leptospira when they come into contact with water, soil, or food contaminated with the urine of infected animals. Here's how you can prevent it.",
-      "url": "https://www.ndtv.com/health/you-may-be-prone-to-leptospirosis-during-monsoon-heres-how-to-prevent-it-4221134",
-      "urlToImage": "https://c.ndtvimg.com/2022-07/5u7p238_viral-fever_625x300_17_July_22.jpg",
-      "publishedAt": "2023-07-19 06:44:23",
-      "content": "Humans can become infected with Leptospira through water, soil, or food or infected animals Leptospirosis is a bacterial infection caused by the bacteria called Leptospira. It primarily affects anim\u2026 [+3512 chars]",
-      "retrievedAt": "2023-07-20 07:05:34.496454",
-      "internal_id": "3850a009ce5ecdddcac64ed78c268ce4803d7dea1a2733581a048fdb62443e56",
-      "publishedAtLabel": "Jul 19"
-    },
-    {
-      "id": 469,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infection on the rise: 10 districts report increased cases",
-      "description": "KATHMANDU: The incidence of Dengue infection has been steadily rising in recent times, attributed to continuous rainfall. Rudra Prasad Marasini, Director at the Epidemiology and Disease Control Division, revealed that the infection rate has significantly incr\u2026",
-      "url": "https://english.khabarhub.com/2023/19/311224/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-07-19 04:45:55",
-      "content": "KATHMANDU: The incidence of Dengue infection has been steadily rising in recent times, attributed to continuous rainfall. Rudra Prasad Marasini, Director at the Epidemiology and Disease Control Divi\u2026 [+1572 chars]",
-      "retrievedAt": "2023-07-20 07:05:31.841623",
-      "internal_id": "239e9ffbe878f889b1dd2d6ace0c3154a502149e7faddc17ef2232400ed24f40",
-      "publishedAtLabel": "Jul 19"
-    },
-    {
-      "id": 467,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Times Of India",
-      "title": "Live: Diseases surge in Mumbai amid intensifying rains",
-      "description": "Monsoon diseases have surged in the city amid intensifying rains, the BMC\u2019s public health department has cautioned. Malaria, dengue, gastroenteritis",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-mumbai-news-live-updates-rain-traffic-monsoon-session-assembly-shinde-uddhav-thackeray-shiv-sena-devendra-fadnavis-bjp-pawar-ncp-congress-july-19/liveblog/101908363.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-101908363,width-1070,height-580,imgsize-161336,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-07-19 02:55:11",
-      "content": "In the past 14 days alone, nearly 1000 confirmed cases of gastroenteritis have been recorded, although its believed that the actual numbers may be much higher. Dr Daksha Shah, executive health office\u2026 [+2368 chars]",
-      "retrievedAt": "2023-07-20 07:05:31.835127",
-      "internal_id": "c64de06f62e0a8a427312ca1a23ae8f5a3b81807639a7c98c7784f1372021927",
-      "publishedAtLabel": "Jul 19"
-    },
-    {
-      "id": 477,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "New malaria case in Florida brings national total to 8, the first U.S. acquired cases in 20 years - NBC News",
-      "description": "New malaria case in Florida brings national total to 8, the first U.S. acquired cases in 20 yearsNBC News 7th case of malaria detected in Sarasota10 Tampa Bay 7th confirmed case of malaria reported in Sarasota CountyWWSB 7th malaria case reported in Sarasota \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171417698",
-      "urlToImage": null,
-      "publishedAt": "2023-07-19 00:32:07",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-07-20 07:05:32.938980",
-      "internal_id": "bfea1ce666bd4fe87a5e5525f30e97952a04aba78d1f899eb555f35556986f38",
-      "publishedAtLabel": "Jul 19"
-    },
-    {
-      "id": 475,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "The Associated Press",
-      "title": "Florida county reports its 7th case of locally contracted malaria",
-      "description": "Officials say a seventh case of malaria has been documented in a southwest Florida county",
-      "url": "https://abcnews.go.com/Health/wireStory/florida-county-reports-7th-case-locally-contracted-malaria-101449372",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "publishedAt": "2023-07-19 00:31:40",
-      "content": "SARASOTA, Fla. -- A southwest Florida county has document a seventh case of malaria, state authorities said. The Florida Department of Health reported a new locally acquired case of malaria in Saras\u2026 [+919 chars]",
-      "retrievedAt": "2023-07-20 07:05:32.930615",
-      "internal_id": "48342d17f67d620f33396ce77d1128db4a8799c8c58cfa956fb71e2680870527",
       "publishedAtLabel": "Jul 19"
     }
   ]
