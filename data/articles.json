@@ -1,8 +1,171 @@
 {
-  "last_updated": "2023-07-28 19:05",
+  "last_updated": "2023-07-29 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 18,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 737,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "'\u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u0938\u0947 \u092b\u0948\u0932 \u0930\u0939\u093e \u0939\u0948 \u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942, \u0938\u0940\u092e\u093e \u092a\u0930 \u0939\u094b \u091c\u0930\u0942\u0930\u0940 \u091c\u093e\u0902\u091a', \u092c\u094b\u0932\u0940\u0902 \u092e\u092e\u0924\u093e \u092c\u0928\u0930\u094d\u091c\u0940",
+      "description": "\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u092e\u0924\u093e \u092c\u0928\u0930\u094d\u091c\u0940 \u0928\u0947 \u0915\u0939\u093e \u0939\u0948 \u0915\u093f \u0909\u0928\u0915\u0947 \u0930\u093e\u091c\u094d\u092f \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u092a\u0921\u093c\u094b\u0938\u0940 \u0926\u0947\u0936 \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u0938\u0947 \u092b\u0948\u0932 \u0930\u0939\u0940 \u0939\u0948. \u0938\u0940\u090f\u092e \u092c\u0928\u0930\u094d\u091c\u0940 \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u090f\u0902\u091f\u094d\u0930\u0940 \u0915\u094b \u0924\u094b \u0930\u094b\u0915 \u0928\u0939\u0940\u0902 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0932\u0947\u0915\u093f\u0928 \u0907\u0938\u0915\u0947 \u0932\u093f\u090f \u0938\u0940\u092e\u093e \u092a\u0930 \u091c\u0930\u0942\u0930\u0940 \u091c\u093e\u0902\u091a \u0939\u094b\u0928\u0940 \u091a\u093e\u0939\u093f\u090f.",
+      "url": "https://www.aajtak.in/india/news/story/dengue-spreading-from-bangladesh-necessary-tests-must-be-done-at-border-says-mamata-banerjee-ntc-1745655-2023-07-28",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202307/mamata_banerjee-sixteen_nine.png",
+      "publishedAt": "2023-07-28 06:37:31",
+      "content": ". . ,' . ( ) . .' ? , , . , ' . . .' , . 10 . (Severe dengue)- . - . (DHF) (DSS). . , . . WHO , . . , . . - . .",
+      "retrievedAt": "2023-07-29 07:05:34.993226",
+      "internal_id": "5078e1b99966c3fa3175b2dda5e9959cd4d0d8568d180d38842586828e5d3e01",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 733,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "West Bengal gears up to combat dengue menace; over 3,000 cases reported this year - Hindustan Times",
+      "description": "West Bengal gears up to combat dengue menace; over 3,000 cases reported this year Hindustan TimesView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2tvbGthdGEtbmV3cy93ZXN0LWJlbmdhbC1nb3Zlcm5tZW50LXJhbXBzLXVwLWVmZm9ydHMtdG8tdGFja2xlLXJpc2luZy1kZW5ndWUtbWVuYWNlLWFzLWNhc2VzLXN1cmdlLWluLW1vbnNvb24tc2Vhc29uLTEwMTY5MDUxNjg5ODgyMy5odG1s0gGzAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9jaXRpZXMva29sa2F0YS1uZXdzL3dlc3QtYmVuZ2FsLWdvdmVybm1lbnQtcmFtcHMtdXAtZWZmb3J0cy10by10YWNrbGUtcmlzaW5nLWRlbmd1ZS1tZW5hY2UtYXMtY2FzZXMtc3VyZ2UtaW4tbW9uc29vbi1zZWFzb24tMTAxNjkwNTE2ODk4ODIzLWFtcC5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-28 04:01:38",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-29 07:05:34.982938",
+      "internal_id": "512b78fa9120d0d15480b6fe8a84eb8f1687c1aa7c1a7a9ef7ebda516857921d",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 739,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Prevalence of Asymptomatic Mpox among Men Who Have Sex with Men, Japan, January\u2013March 2023",
+      "description": "Prevalence of Asymptomatic Mpox among MSM, Japan",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/9/23-0541_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-07-28 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.During the 2022 global mpo\u2026 [+9687 chars]",
+      "retrievedAt": "2023-07-29 07:05:36.309256",
+      "internal_id": "2f2cb829f4a137f803e59293cb60b220294ef88965b4b8d7984cd4bd561854bf",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 731,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Ankita Upadhyay",
+      "title": "Most severe\u2019 Type-2 strain found in majority of dengue samples",
+      "description": "Dengue Virus Type-2 is supposed to be the most severe and has a tendency to cause haemorrhagic fever and mortality.",
+      "url": "https://indianexpress.com/article/cities/delhi/most-severe-type-2-strain-found-in-majority-of-dengue-samples-8864280/",
+      "urlToImage": "https://images.indianexpress.com/2023/07/dengue.jpeg",
+      "publishedAt": "2023-07-28 00:15:09",
+      "content": "The serotyping of samples found positive for dengue in Delhi has confirmed the presence of Type-2 strain in a majority of them, officials from the state health department have said.Dengue Virus Type-\u2026 [+1900 chars]",
+      "retrievedAt": "2023-07-29 07:05:34.973526",
+      "internal_id": "012d7cb98a345f8e22aa55e3087976673256024d952b01eae7c5b3d967c4506f",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 732,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Requests for dengue test pour in at labs, positivity rate goes up in city - IndiaTimes",
+      "description": "Requests for dengue test pour in at labs, positivity rate goes up in city IndiaTimesView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiigFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L2tvbGthdGEvcmVxdWVzdHMtZm9yLWRlbmd1ZS10ZXN0LXBvdXItaW4tYXQtbGFicy1wb3NpdGl2aXR5LXJhdGUtZ29lcy11cC1pbi1jaXR5L2FydGljbGVzaG93LzEwMjE4NDg4Ni5jbXPSAY4BaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vY2l0eS9rb2xrYXRhL3JlcXVlc3RzLWZvci1kZW5ndWUtdGVzdC1wb3VyLWluLWF0LWxhYnMtcG9zaXRpdml0eS1yYXRlLWdvZXMtdXAtaW4tY2l0eS9hbXBfYXJ0aWNsZXNob3cvMTAyMTg0ODg2LmNtcw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-28 00:08:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-29 07:05:34.981000",
+      "internal_id": "04b1778bd754ba555685be4ccffaedc11aa6af3fdede5138b1382f6165bbdd3b",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 734,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Requests for dengue test pour in at labs, positivity rate goes up in city | Kolkata News - Times of India - IndiaTimes",
+      "description": "Requests for dengue test pour in at labs, positivity rate goes up in city | Kolkata News - Times of India IndiaTimesView Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiigFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L2tvbGthdGEvcmVxdWVzdHMtZm9yLWRlbmd1ZS10ZXN0LXBvdXItaW4tYXQtbGFicy1wb3NpdGl2aXR5LXJhdGUtZ29lcy11cC1pbi1jaXR5L2FydGljbGVzaG93LzEwMjE4NDg4Ni5jbXPSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-28 00:08:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-29 07:05:34.984290",
+      "internal_id": "134302ac0728244fc8698c557c7332b44d3c8a06df9a968e6e3cf3befc12b8c9",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 736,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Bangkok Post Public Company Limited",
+      "title": "Dealing with dengue, Zika",
+      "description": "Concern over an increase in mosquito-borne disease cases deserves more attention from our government and broader society.",
+      "url": "https://www.bangkokpost.com/opinion/opinion/2619323/dealing-with-dengue-zika",
+      "urlToImage": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "publishedAt": "2023-07-27 23:46:00",
+      "content": "Concern over an increase in mosquito-borne disease cases deserves more attention from our government and broader society. Since late last month, there have been reports of a rise in dengue fever and\u2026 [+3078 chars]",
+      "retrievedAt": "2023-07-29 07:05:34.989619",
+      "internal_id": "afde1c67c48d1970a08dde1f69e0aecdac63ea8329a63ba5448d2ce602c0f0a9",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 738,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Maria Jo\u00e3o Oliveira, Soraia Caetano, Ana Dalot, Filipe Sabino, Tom\u00e1s Calmeiro, Elvira Fortunato, Rodrigo Martins, Eulalia Pereira, Miguel Prud\u00eancio, Hugh J Byrne, Ricardo Franco, Hugo \u00c1guas",
+      "title": "Simple polystyrene microfluidic device for sensitive and accurate SERS-based detection of infection by malaria parasites",
+      "description": "Analyst, 2023, Accepted ManuscriptDOI: 10.1039/D3AN00971H, Paper Open Access &nbsp This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.Maria Jo\u00e3o Oliveira, Soraia Caetano, Ana Dalot, Filipe Sabino, Tom\u00e1s Calmeiro, Elvira Fortuna\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2023/an/d3an00971h",
+      "urlToImage": null,
+      "publishedAt": "2023-07-27 23:00:00",
+      "content": "M. J. Oliveira, S. Caetano, A. Dalot, F. Sabino, T. Calmeiro, E. Fortunato, R. Martins, E. Pereira, M. Prud\u00eancio, H. J. Byrne, R. Franco and H. \u00c1guas, Analyst, 2023, Accepted Manuscript , DOI: 10.\u2026 [+333 chars]",
+      "retrievedAt": "2023-07-29 07:05:35.787268",
+      "internal_id": "6d8c9eb006cf82037d47b08f3d25bb41fc40b35f282dd39e10d6738957e0a0a8",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 735,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Fabiana Liuzzi habl\u00f3 de la salud de su hijo de 9 a\u00f1os que tuvo con Luis Ventura: \u201cTiene encefalopat\u00eda cr\u00f3nica\u201d",
+      "description": "En junio, el ni\u00f1o estuvo internado por un cuadro de neumon\u00eda y dengue; la exvedette explic\u00f3 en LAM por qu\u00e9 a\u00fan no habla y c\u00f3mo es el tratamiento con alimentos espec\u00edficos que lo ayud\u00f3 en su evoluci\u00f3n",
+      "url": "https://www.lanacion.com.ar/espectaculos/fabiana-liuzzi-hablo-de-la-salud-de-su-hijo-de-9-anos-que-tuvo-con-luis-ventura-tiene-encefalopatia-nid27072023/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/lJW0JooNAHrKUKW2-jI10Z8CLfs=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/K26X3PMK3BFNBNAE6POLYNX3SM.png",
+      "publishedAt": "2023-07-27 20:35:47",
+      "content": "En 2014, una noticia sobreLuis Ventura desat\u00f3 un esc\u00e1ndalo en los medios y deriv\u00f3 en la salida del periodista de Intrusos (Am\u00e9rica). Es que el conductor de Secretos Verdaderos, mantuvo una relaci\u00f3n e\u2026 [+3025 chars]",
+      "retrievedAt": "2023-07-29 07:05:34.987180",
+      "internal_id": "c50f4e6550da7e4ce4d7f593bc754cb3edfaf0b6f8872cf54e90f10f0f0d0ced",
+      "publishedAtLabel": "Jul 27"
+    },
     {
       "id": 719,
       "query": [
@@ -3446,168 +3609,6 @@
       "retrievedAt": "2023-07-22 07:05:06.741909",
       "internal_id": "b616ec6ca7b79f9dc48433d914fb4d413f7f1d063671515a6273216caf9feeed",
       "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 543,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Hannah Walsh and Ashleigh Bagshaw",
-      "title": "Fears of deadly disease outbreak like 'Russian roulette with your dog' as leptospirosis vaccine shortage bites",
-      "description": "Vet clinics say they're running out of a vaccine that protects dogs against a lethal disease. Here's what pet and working dog owners need to know.",
-      "url": "https://www.abc.net.au/news/rural/2023-07-21/vet-clinics-running-out-of-leptospirosis-vaccine/102592370",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/90fcee81bd4ad21eeb3656375f432fa8?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485",
-      "publishedAt": "2023-07-21 00:26:38",
-      "content": "As vet clinics run out of a vaccine to protect dogs against a potentially fatal bacterial disease, some vets fear the community is on the cusp of a major outbreak. Key points: Vets are runn\u2026 [+3545 chars]",
-      "retrievedAt": "2023-07-22 07:05:08.867528",
-      "internal_id": "78e9adb72538121ae5b30adda5c4433e439de1e8417aaeef8ce33aea0af530c9",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 529,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Delhi govt asks chemists not to sell painkillers without prescription - ETHealthWorld",
-      "description": "Delhi govt asks chemists not to sell painkillers without prescription ETHealthWorld Restrict sale of pain relief drugs without doctor\u2019s prescription amid rise in dengue cases: Delhi govt tellschemists | Mint Mint Don\u2019t sell paink\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihwFodHRwczovL2hlYWx0aC5lY29ub21pY3RpbWVzLmluZGlhdGltZXMuY29tL25ld3MvcG9saWN5L2RlbGhpLWdvdnQtYXNrcy1jaGVtaXN0cy1ub3QtdG8tc2VsbC1wYWlua2lsbGVycy13aXRob3V0LXByZXNjcmlwdGlvbi8xMDE5OTg2NTTSAYsBaHR0cHM6Ly9oZWFsdGguZWNvbm9taWN0aW1lcy5pbmRpYXRpbWVzLmNvbS9hbXAvbmV3cy9wb2xpY3kvZGVsaGktZ292dC1hc2tzLWNoZW1pc3RzLW5vdC10by1zZWxsLXBhaW5raWxsZXJzLXdpdGhvdXQtcHJlc2NyaXB0aW9uLzEwMTk5ODY1NA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-21 00:00:33",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-22 07:05:07.076818",
-      "internal_id": "8af403da77293dc12f0865f519b9740fc8e0c033e4b9e0e022b73abfc05ecd45",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 531,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Royal Society of Chemistry",
-      "author": "Phuoc Long Truong, Toi Vo Van, Cam Duyen Thi Vo, Van Hoi Truong",
-      "title": "A novel colorimetric biosensor for rapid detection of dengue virus upon acid-induced aggregation of colloidal gold",
-      "description": "Anal. Methods, 2023, Accepted ManuscriptDOI: 10.1039/D3AY00756A, PaperPhuoc Long Truong, Toi Vo Van, Cam Duyen Thi Vo, Van Hoi TruongThe dengue virus, once transmitted to people through a mosquito bite, causes an infectious disease called dengue fever. The de\u2026",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2023/ay/d3ay00756a",
-      "urlToImage": null,
-      "publishedAt": "2023-07-20 23:00:00",
-      "content": "P. L. Truong, T. Vo Van, C. D. T. Vo and V. H. Truong, Anal. Methods, 2023, Accepted Manuscript , DOI: 10.1039/D3AY00756A To request permission to reproduce material from this article, please go \u2026 [+617 chars]",
-      "retrievedAt": "2023-07-22 07:05:07.083019",
-      "internal_id": "de3358521ae2c0aa933117cc642228b50dcc77d2f5d7fe0ca5b5ab9650e8dc7b",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 541,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Goo.ne.jp",
-      "author": "idconsult",
-      "title": "\u30a2\u30e1\u30ea\u30ab\u56fd\u5185\u3067\u30de\u30e9\u30ea\u30a2\u611f\u67d3\u300120\u5e74\u3076\u308a\u30fb\u30fb",
-      "description": "\u7c73\u56fd\u672c\u571f\u3067\u30de\u30e9\u30ea\u30a2\u306b\uff08=\u6d77\u5916\u304b\u3089\u306e\u6301\u3061\u8fbc\u307f\u3067\u306f\u306a\u3044\uff09\u7f79\u60a3\u3059\u308b\u3068\u3044\u3046\u4e8b\u304c\u304a\u304d\u307e\u3057\u305f\u3002\u5ffd\u90a3\u5148\u751f\u9054\u3001\u307e\u3059\u307e\u3059\u5fd9\u3057\u304f\u306a\u308a\u307e\u3059\u3002\u6c96\u7e04\u3082\u4ee5\u524d\u306f\u30de\u30e9\u30ea\u30a2\u3001\u30c7\u30f3\u30b0\u304c\u5f53\u305f\u308a\u524d\u3060\u3063\u305f\u3088\u3046\u3067\u3059\u304c\u30fb\u30fbNewmalariacaseinFloridabringsnationaltotalto8,thefirstU.S.acquiredcasesin20yearsAllsevenofFlorida\u2019scaseshavebeenfoundinSarasotaCounty.ACDCofficialsaidtheagencydoesnotexpec\u2026",
-      "url": "https://blog.goo.ne.jp/idconsult/e/478730654d69453d1cc9977851e14040",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230718-florida-malaria-pesticides-ew-1233p-f9bb65.jpg",
-      "publishedAt": "2023-07-20 22:08:04",
-      "content": "New malaria case in Florida brings national total to 8, the first U.S. acquired cases in 20 years All seven of Floridas cases have been found in Sarasota County. A CDC official said the agency does \u2026 [+43 chars]",
-      "retrievedAt": "2023-07-22 07:05:07.782262",
-      "internal_id": "a0b8ec332cacb1f09a80721791af25f36e70ae9efaabc2f747b5bf20258b6d4f",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 539,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Amid Climate Change, Mosquitoes Migrate; Will Malaria Follow?",
-      "description": "As the planet warms, mosquitoes are slowly migrating upward. The temperature range where malaria-carrying mosquitoes thrive is rising in elevation. Researchers have found evidence of the phenomenon from the tropical highlands of South America to the mounta\u2026",
-      "url": "https://www.voanews.com/a/amid-climate-change-mosquitoes-migrate-will-malaria-follow-/7189517.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0a00-0242-d821-08db896148a5_w1200_r1.jpg",
-      "publishedAt": "2023-07-20 20:45:17",
-      "content": "As the planet warms, mosquitoes are slowly migrating upward. The temperature range where malaria-carrying mosquitoes thrive is rising in elevation. Researchers have found evidence of the phenomenon\u2026 [+3329 chars]",
-      "retrievedAt": "2023-07-22 07:05:07.776236",
-      "internal_id": "92bc176cbcd42a2c840f6b255b92908b669667a90c7550b4a25b62d0bc1ab726",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 537,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "https://www.forbes.com/",
-      "title": "Malaria Vaccines Are Finally Here: The Top Shots And What\u2019s On The Horizon Next",
-      "description": "While researchers have spent decades searching for malaria vaccines, only two have ever been authorized, a situation many scientists hope to change as they race to leverage new technology against one of humanity\u2019s oldest and deadliest foes.",
-      "url": "https://www.forbes.com/video/6331572846112/malaria-vaccines-are-finally-here-the-top-shots-and-whats-on-the-horizon-next/",
-      "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2023/07/20/6331572846112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
-      "publishedAt": "2023-07-20 20:42:06",
-      "content": "While researchers have spent decades searching for malaria vaccines, only two have ever been authorized, a situation many scientists hope to change as they race to leverage new technology against one\u2026 [+39 chars]",
-      "retrievedAt": "2023-07-22 07:05:07.771192",
-      "internal_id": "95d04b5e8647be6bf962f02a5cc0bef475a1494a0393723511713441366bc9aa",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 542,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Minneapolis Star Tribune",
-      "author": "MARY KATHERINE WILDEMAN",
-      "title": "As temperatures rise, mosquitoes are also on the move. Scientists worry that could mean more malaria",
-      "description": "As the planet warms, mosquitoes are slowly migrating upward.",
-      "url": "https://www.startribune.com/as-temperatures-rise-mosquitoes-are-also-on-the-move-scientists-worry-that-could-mean-more-malaria/600291087/",
-      "urlToImage": "https://chorus.stimg.co/24799111/merlin_71400502.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
-      "publishedAt": "2023-07-20 20:10:01",
-      "content": "As the planet warms, mosquitoes are slowly migrating upward. The temperature range where malaria-carrying mosquitoes thrive is rising in elevation. Researchers have found evidence of the phenomenon \u2026 [+5746 chars]",
-      "retrievedAt": "2023-07-22 07:05:07.787580",
-      "internal_id": "81a924ddb9e87dab1f113d645f9586ecbe4609684ddef59b864bbcd436674bb0",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 540,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "MARY KATHERINE WILDEMAN Associated Press",
-      "title": "As temperatures rise, mosquitoes are also on the move. Scientists worry that could mean more malaria",
-      "description": "As global warming pushes temperatures up, the elevation range where malaria-carrying mosquitoes thrive is rising",
-      "url": "https://abcnews.go.com/Technology/wireStory/temperatures-rise-mosquitoes-move-scientists-worry-malaria-101533933",
-      "urlToImage": "https://s.abcnews.com/images/Technology/wirestory_48166329d2eeb9037b49b381a1bbe598_12x5_992.jpg",
-      "publishedAt": "2023-07-20 20:06:31",
-      "content": "As the planet warms, mosquitoes are slowly migrating upward. The temperature range where malaria-carrying mosquitoes thrive is rising in elevation. Researchers have found evidence of the phenomenon\u2026 [+5744 chars]",
-      "retrievedAt": "2023-07-22 07:05:07.778488",
-      "internal_id": "88b779a2063830dee7f10f0ab7289415bd511b819d56b1cb188ef90f05fa33dc",
-      "publishedAtLabel": "Jul 20"
-    },
-    {
-      "id": 538,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "independent",
-      "source_name": "Independent",
-      "author": "Mary Katherine Wildeman",
-      "title": "As temperatures rise, mosquitoes are also on the move. Scientists worry that could mean more malaria",
-      "description": "As global warming pushes temperatures up, the elevation range where malaria-carrying mosquitoes thrive is rising",
-      "url": "https://www.independent.co.uk/news/ap-ethiopia-mosquitoes-scientists-south-america-b2379197.html",
-      "urlToImage": "https://static.independent.co.uk/2023/07/20/21/Climate%20Change-Infectious%20Diseases-Malaria.jpg?quality=75&width=1200&auto=webp",
-      "publishedAt": "2023-07-20 20:04:22",
-      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails As the planet warms, mosquitoes are slowly migrating\u2026 [+5891 chars]",
-      "retrievedAt": "2023-07-22 07:05:07.773578",
-      "internal_id": "f8f83fd4298d572d69e73ee1be4e1a722b3150ab6e25ba89b7cfb2cf4d07eaf2",
-      "publishedAtLabel": "Jul 20"
     }
   ]
 }
