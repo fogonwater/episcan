@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-07-30 07:05",
+  "last_updated": "2023-07-30 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 762,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue, un caso in Garfagnana - LA NAZIONE",
+      "description": "Dengue, un caso in Garfagnana LA NAZIONE In Toscana un caso sospetto di febbre Dengue Toscana Media News Sospetto contagio dal virus della zanzara tigre: il comune ordina la disinfestazione La Gazzetta del Serchio Caso\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmxhbmF6aW9uZS5pdC9sdWNjYS9jcm9uYWNhL2Rlbmd1ZS1jYXN0ZWxudW92by1iMmplYnFmedIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-29 18:33:13",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-30 19:05:20.186452",
+      "internal_id": "e06aa25678ebb18c70b6aceaa3d20be4d8d0de4248c6c3cbcf8e8dcddb27dda7",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 761,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Caso di febbre Dengue a Castelnuovo di Garfagnana: scatta la disinfestazione - Luccaindiretta - LuccaInDiretta",
+      "description": "Caso di febbre Dengue a Castelnuovo di Garfagnana: scatta la disinfestazione - Luccaindiretta LuccaInDiretta In Toscana un caso sospetto di febbre Dengue Toscana Media News Sospetto contagio dal virus della zanzara tigre: il comu\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5sdWNjYWluZGlyZXR0YS5pdC9jcm9uYWNhLzIwMjMvMDcvMjkvY2Fzby1kaS1mZWJicmUtZGVuZ3VlLWEtY2FzdGVsbnVvdm8tZGktZ2FyZmFnbmFuYS1zY2F0dGEtbGEtZGlzaW5mZXN0YXppb25lLzM2MTcwMy_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-29 14:51:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-30 19:05:20.184455",
+      "internal_id": "59d7a4d8a5171b6431c5f30a55b480e8e60102779d721587a88498ac4d83264a",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 760,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Techinsider.ru",
+      "author": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0411\u0435\u043b\u044c\u0447\u0438\u043a\u043e\u0432\u0430",
+      "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0433\u043b\u0430\u0434\u0438\u0442\u044c \u0443\u043b\u0438\u0447\u043d\u044b\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043e\u0447\u0435\u043d\u044c \u043e\u043f\u0430\u0441\u043d\u043e",
+      "description": "\u041c\u043d\u043e\u0433\u0438\u0445 \u0438\u0437 \u043d\u0430\u0441 \u0443\u043c\u0438\u043b\u044f\u044e\u0442 \u043f\u0443\u0448\u0438\u0441\u0442\u044b\u0435 \u0434\u0432\u043e\u0440\u043e\u0432\u044b\u0435 \u043a\u043e\u0442\u044b \u0438 \u0437\u0430\u0431\u0430\u0432\u043d\u044b\u0435 \u0431\u0435\u0437\u0434\u043e\u043c\u043d\u044b\u0435 \u043f\u0441\u044b. \u0423\u0433\u043e\u0441\u0442\u0438\u0442\u044c \u0438\u0445 \u0438 \u043f\u043e\u0433\u043b\u0430\u0434\u0438\u0442\u044c - \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430-\u043c\u0438\u043d\u0438\u043c\u0443\u043c \u043f\u043e \u0434\u043e\u0440\u043e\u0433\u0435 \u0434\u043e\u043c\u043e\u0439. \u041e\u0434\u043d\u0430\u043a\u043e \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u044b \u043d\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u044e\u0442 \u0442\u0440\u043e\u0433\u0430\u0442\u044c \u0443\u043b\u0438\u0447\u043d\u044b\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445. \u041f\u043e\u0447\u0435\u043c\u0443?",
+      "url": "https://www.techinsider.ru/editorial/709233-pochemu-ne-stoit-gladit-ulichnyh-zhivotnyh/",
+      "urlToImage": "https://images.techinsider.ru/upload/img_cache/1a3/1a3f6d113d8d4d60eb87a734027c0174_ce_3632x1912x0x524_cropped_1200x628.jpg",
+      "publishedAt": "2023-07-29 12:30:00",
+      "content": "- . , , , . , , Rabies virus , . , . , . , , . , . , , , , . , , , , . , , .",
+      "retrievedAt": "2023-07-30 19:05:19.473056",
+      "internal_id": "e12cb0508f61b245aa0282174af28febca61047eadb4ae9c8bde38e5d74de5ed",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 763,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09ac\u09bf\u098f\u09a8\u09aa\u09bf\u09b0 \u2018\u0985\u0997\u09cd\u09a8\u09bf\u09b8\u09a8\u09cd\u09a4\u09cd\u09b0\u09be\u09b8\u09c7\u09b0\u2019 \u09ac\u09bf\u09b0\u09c1\u09a6\u09cd\u09a7\u09c7 \u0986\u0997\u09be\u09ae\u09c0\u0995\u09be\u09b2 \u09b8\u09be\u09b0\u09be\u09a6\u09c7\u09b6\u09c7 \u0986. \u09b2\u09c0\u0997\u09c7\u09b0 \u09ac\u09bf\u0995\u09cd\u09b7\u09cb\u09ad",
+      "description": "\u09ac\u09bf\u098f\u09a8\u09aa\u09bf\u09b0 \u2018\u0985\u0997\u09cd\u09a8\u09bf\u09b8\u09a8\u09cd\u09a4\u09cd\u09b0\u09be\u09b8\u09c7\u09b0\u2019 \u09ac\u09bf\u09b0\u09c1\u09a6\u09cd\u09a7\u09c7 \u0986\u0997\u09be\u09ae\u09c0\u0995\u09be\u09b2 \u09b0\u09cb\u09ac\u09ac\u09be\u09b0 \u09b8\u09be\u09b0\u09be\u09a6\u09c7\u09b6\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf\u09ac\u09be\u09a6 \u0993 \u09ac\u09bf\u0995\u09cd\u09b7\u09cb\u09ad \u09b8\u09ae\u09be\u09ac\u09c7\u09b6\u09c7\u09b0 \u09a1\u09be\u0995 \u09a6\u09bf\u09df\u09c7\u099b\u09c7 \u0986\u0993\u09df\u09be\u09ae\u09c0 \u09b2\u09c0\u0997\u0964",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/politics/news-500856",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/29/358173642_1396221354285494_8544187852832697164_n.jpg?itok=0Yo83Gp1",
+      "publishedAt": "2023-07-29 11:43:57",
+      "content": "Ten more dengue patients died while 2,202 others were hospitalised during the 24 hours till this morning, according to the Directorate General of Health Services",
+      "retrievedAt": "2023-07-30 19:05:20.194513",
+      "internal_id": "c4d95de42981404313f7c37a5f2b1cae33ed005ffbc54dfe439e21db10b585de",
+      "publishedAtLabel": "Jul 29"
+    },
     {
       "id": 756,
       "query": [
@@ -3536,78 +3608,6 @@
       "content": "Stand: 21.07.2023 14:39 Uhr Durch hohe Temperaturen und starke Niederschl\u00e4ge vermehrt sich die Aedes-M\u00fccke, die das Dengue-Fieber \u00fcbertr\u00e4gt. Die WHO warnt vor einer dramatischen Ausbreitung der Kran\u2026 [+2677 chars]",
       "retrievedAt": "2023-07-22 19:05:01.606419",
       "internal_id": "f2cb2b9ce12ef4f23b26b8bbed45827883053b6c25cc54cc16f4986d582c6ba6",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 554,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Folge des Klimawandels: WHO warnt vor Ausbreitung des Dengue-Fiebers - tagesschau.de",
-      "description": "Folge des Klimawandels: WHO warnt vor Ausbreitung des Dengue-Fiebers tagesschau.de WHO warnt vor Ausbreitung des Dengue-Fiebers nach Europa - WELT WELT Tropische Stechm\u00fccken: WHO besorgt wegen Ausbreitung des Dengue-Virus zeit.d\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnRhZ2Vzc2NoYXUuZGUvYXVzbGFuZC9ldXJvcGEvd2hvLWRlbmd1ZS1maWViZXItMTAwLmh0bWzSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-21 12:39:08",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.619991",
-      "internal_id": "6d89a0a1dcfa1e0eac47328f33656997c501ddc7350d5b2d058be7a161f145d7",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 560,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "WHO warns of dengue risk as global warming pushes cases near historic highs",
-      "description": "GENEVA (Reuters) - The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes that spread it. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2023/07/21/who-warns-of-dengue-risk-as-global-warming-pushes-cases-near-historic-highs",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/07/21/2189598.jpg",
-      "publishedAt": "2023-07-21 12:32:00",
-      "content": "GENEVA (Reuters) - The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes that sprea\u2026 [+2288 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.630379",
-      "internal_id": "f6f8d19883febeeb4be7778d1fd747922eede8944393f16534b93187ac1f01f0",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 558,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "ZEIT ONLINE: Wissen - Christian Parth",
-      "title": "Tropische Stechm\u00fccken: WHO besorgt wegen Ausbreitung des Dengue-Virus",
-      "description": "Immer mehr Menschen stecken sich weltweit mit dem Dengue-Virus an. Auch in Europa w\u00e4chst laut WHO die Gefahr einer Erkrankung.",
-      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fwissen%2F2023-07%2Fwho-dengue-virus-stechmuecken",
-      "urlToImage": null,
-      "publishedAt": "2023-07-21 12:25:19",
-      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.627082",
-      "internal_id": "0dc3eb19725951834601762b9c3742e0fd81c107be8df239406e4eb086e8325c",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 565,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "Spike in dengue cases due to global warming, warns WHO",
-      "description": "Global warming marked by higher average temperatures, precipitation and longer periods of drought, could prompt a record number of dengue infections worldwide, the World Health Organization (WHO) warned on Friday. Read Full Story on UN News The post Spike in \u2026",
-      "url": "https://news.un.org/en/story/2023/07/1138962",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/31-03-2022_Unsplash_mosquito.jpg/image770x420cropped.jpg",
-      "publishedAt": "2023-07-21 12:00:00",
-      "content": "About half of the world's population is at risk of dengue, and dengue affects approximately 129 countries, said Dr Raman Velayudhan, WHOs Head of the Global Programme on control of Neglected Tropical\u2026 [+3235 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.637654",
-      "internal_id": "8f9ade58507442b6d04ead5e6d606aa5cec564feee070b4e9ecd36937933997f",
       "publishedAtLabel": "Jul 21"
     }
   ]
