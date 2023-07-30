@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-07-29 19:05",
+  "last_updated": "2023-07-30 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 15,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 756,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Mangaluru: Mosquito population up due to incessant rains, dengue fever cases rise in DK - Daijiworld.com",
+      "description": "Mangaluru: Mosquito population up due to incessant rains, dengue fever cases rise in DK Daijiworld.com West Bengal gears up to combat dengue menace; over 3,000 cases reported this year Hindustan Times Rise in repeat cases a hint \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmRhaWppd29ybGQuY29tL25ld3MvbmV3c0Rpc3BsYXk_bmV3c0lEPTExMDQ2ODTSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-29 05:41:27",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-30 07:05:26.725642",
+      "internal_id": "cb6646437b230c85b178175b7eb62e200333e2f462967bb363984dc0a34f2819",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 755,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Rise in repeat cases a hint of dengue turning severe: Docs - IndiaTimes",
+      "description": "Rise in repeat cases a hint of dengue turning severe: Docs IndiaTimes West Bengal gears up to combat dengue menace; over 3,000 cases reported this year Hindustan Times Rain, cold weather bring on fever, dengue in Bengaluru The N\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkva29sa2F0YS9yaXNlLWluLXJlcGVhdC1jYXNlcy1hLWhpbnQtb2YtZGVuZ3VlLXR1cm5pbmctc2V2ZXJlLWRvY3MvYXJ0aWNsZXNob3cvMTAyMjE5NDMzLmNtc9IBf2h0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkva29sa2F0YS9yaXNlLWluLXJlcGVhdC1jYXNlcy1hLWhpbnQtb2YtZGVuZ3VlLXR1cm5pbmctc2V2ZXJlLWRvY3MvYW1wX2FydGljbGVzaG93LzEwMjIxOTQzMy5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-29 00:05:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-30 07:05:26.722331",
+      "internal_id": "2017b7aad95ce0a5404fe5f0df91831f9a6512e487c41fe7d2190feaa9249069",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 758,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "NCDC pledges support as meningitis kills 183",
+      "description": "Nigeria has reported a total of 287 confirmed cases out of 2,707 suspected cases of meningitis, including 183 deaths, with a case-fatality ratio of 6.8 per cent. The cases were reported from 130 local government areas in 24 states, including the Federal Capit\u2026",
+      "url": "https://punchng.com/ncdc-pledges-support-as-meningitis-kills-183/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/04/05165016/meningitis-vaccine.jpg",
+      "publishedAt": "2023-07-29 00:01:32",
+      "content": "Nigeria has reported a total of 287 confirmed cases out of 2,707 suspected cases of meningitis, including 183 deaths, with a case-fatality ratio of 6.8 per cent. The cases were reported from 130 loc\u2026 [+1770 chars]",
+      "retrievedAt": "2023-07-30 07:05:26.964927",
+      "internal_id": "36f0e5f52af332c9dfa54347114314cffd43aae416c97b308f3d44b9b9b387cb",
+      "publishedAtLabel": "Jul 29"
+    },
+    {
+      "id": 757,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "How one small community is fighting off the dengue fever scourge, as cases accelerate rapidly in Thailand",
+      "description": "Instead of being victims to the deadly disease that can cause high fever and nausea, community leaders in Pak Thang sub-district devised a controversial plan to try to rid themselves of an annual problem.",
+      "url": "https://www.channelnewsasia.com/asia/how-one-small-community-fighting-dengue-fever-scourge-cases-accelerate-rapidly-thailand-3654856",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--1OCErZeW--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/07/26/dengue_phichit-4.jpg?itok=wXiJAr9x",
+      "publishedAt": "2023-07-28 22:01:00",
+      "content": "Dengue fever is a disease closely associated with the environment. Rainfall, temperature and airflow all play a part in assisting transmission. Ongoing research shows the direct connection between c\u2026 [+1933 chars]",
+      "retrievedAt": "2023-07-30 07:05:26.728428",
+      "internal_id": "695dadec86c572a8911861fa6003803c0c471c736eaf37757bc24b67db2d61d7",
+      "publishedAtLabel": "Jul 28"
+    },
     {
       "id": 753,
       "query": [
@@ -127,6 +199,24 @@
       "content": "The vaccine helps protect children against diseases such as diphtheria, tetanus, pertussis, hepatitis B, and Haemophilus Influenzae type B. It needs to be purchased from approved international suppli\u2026 [+537 chars]",
       "retrievedAt": "2023-07-29 19:05:16.423287",
       "internal_id": "e5388fb448baf879c869d4c2ac166e3cab4fcd7997f031d7e5c0ff148c6f9200",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 759,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Setopati.com",
+      "author": "Dr Sudhamshu KC :: Tackling hepatitis",
+      "title": "Tackling hepatitis",
+      "description": "World Hepatitis Day is one of only four WHO disease specific days. The other three disease specific days are tuberculosis (March 24), malaria (April 25) and AIDS (December 1).",
+      "url": " https://en.setopati.com/view/161467 ",
+      "urlToImage": "https://en.setopati.com/uploads/posts/liver1690550347.jpg",
+      "publishedAt": "2023-07-28 13:18:00",
+      "content": "The World Health Organization (WHO) annually celebrates July 28 as World Hepatitis Day. The date was chosen for World Hepatitis Day in honor of the birthday of Nobel laureate Professor Baruch Samuel \u2026 [+9122 chars]",
+      "retrievedAt": "2023-07-30 07:05:27.355128",
+      "internal_id": "86bbbd8ab57c542fef910c2b4f6a092b000b7610959b503b7ae1ea0428945522",
       "publishedAtLabel": "Jul 28"
     },
     {
@@ -3518,96 +3608,6 @@
       "content": "About half of the world's population is at risk of dengue, and dengue affects approximately 129 countries, said Dr Raman Velayudhan, WHOs Head of the Global Programme on control of Neglected Tropical\u2026 [+3235 chars]",
       "retrievedAt": "2023-07-22 19:05:01.637654",
       "internal_id": "8f9ade58507442b6d04ead5e6d606aa5cec564feee070b4e9ecd36937933997f",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 568,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "reuters",
-      "source_name": "Reuters",
-      "author": "Reuters",
-      "title": "WHO warns of dengue risk as global warming pushes cases near historic highs",
-      "description": "The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes that spread it.",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-warns-dengue-risk-global-warming-pushes-cases-near-historic-highs-2023-07-21/",
-      "urlToImage": "https://www.reuters.com/resizer/Yfe8lrFgFM5eH3tYrYbBpUSMf8I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/H2OO7NQNWZMCRF3ZY55O4N3ITE.jpg",
-      "publishedAt": "2023-07-21 11:53:41",
-      "content": "GENEVA, July 21 (Reuters) - The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes t\u2026 [+2344 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.643947",
-      "internal_id": "be48f51442dba74297787cbbdd01fbcedf6d42ed053eb0c36eb220448ceb5757",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 547,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "WELT",
-      "title": "WHO warnt vor Ausbreitung des Dengue-Fiebers nach Europa",
-      "description": "Die Weltgesundheitsorganisation mahnt zur Wachsamkeit wegen des Dengue-Fiebers. Die Tropenkrankheit wird durch Stechm\u00fccken \u00fcbertragen, die sich zunehmend auch in gem\u00e4\u00dfigten Klimazonen verbreiten. Die Krankheit kann f\u00fcr den Menschen lebensgef\u00e4hrlich werden.",
-      "url": "https://www.welt.de/wissenschaft/article246509250/WHO-warnt-vor-Ausbreitung-des-Dengue-Fiebers-nach-Europa.html",
-      "urlToImage": "https://img.welt.de/img/bildergalerien/mobile246509202/5661356477-ci16x9-w1200/Climate-Change-Mosquito-Diseases.jpg",
-      "publishedAt": "2023-07-21 11:48:16",
-      "content": "Auch in Europa k\u00f6nnte sich das Dengue-Fieber laut ausbreiten, bef\u00fcrchtet die WHO (Weltgesundheitsorganisation). Es wird von Aedes-Stechm\u00fccken \u00fcbertragen, die in tropischen und subtropischen Klimazone\u2026 [+1782 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.608857",
-      "internal_id": "d5e877fcdf4cf2490421c9e5b376a4418ea9fac3c3a6429efc71a331b9ba9cc2",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 556,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "WHO warns of dengue risk as global warming pushes cases near historic highs",
-      "description": "(marketscreener.com) The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes that spread it. https://www.marketscreener.com/news/latest/WHO-warns\u2026",
-      "url": "https://www.marketscreener.com/news/latest/WHO-warns-of-dengue-risk-as-global-warming-pushes-cases-near-historic-highs--44389253/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-07-21 11:32:35",
-      "content": "GENEVA (Reuters) - The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming benefiting mosquitoes that sprea\u2026 [+2289 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.623458",
-      "internal_id": "2c07d7d626b5a01d6c5e30f0df40eeb54c1fbe1ea118aa58777b2c2281c9c249",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 575,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "KQED",
-      "author": "Sarah Mohamad",
-      "title": "UC Irvine Researchers Use Mosquito \u2018Gene Editing\u2019 in Fight Against Malaria",
-      "description": "Scientists have used a gene-editing technique to make mosquitos allies in the fight against malaria. Environmentalists are troubled by the idea of genetically modifying wild animals.",
-      "url": "https://www.kqed.org/science/1983569/uc-irvine-researchers-use-mosquito-gene-editing-in-fight-against-malaria",
-      "urlToImage": "https://ww2.kqed.org/app/uploads/sites/35/2023/07/ap22301696572084_slide-ec19a427fbda06485a3b4553972b20412623dd75-1020x680.jpg",
-      "publishedAt": "2023-07-21 11:08:57",
-      "content": "\u201cTo try to get rid of them, I don\u2019t think it\u2019s possible,\u201d he says. Instead, James and his colleagues want to try a different approach: making mosquitoes themselves into malaria-fighting warriors. To\u2026 [+1516 chars]",
-      "retrievedAt": "2023-07-22 19:05:02.448355",
-      "internal_id": "b501ddc30bea9cbb74d68ef4710808745dc2b00da10f1a60d87269ba9ef4f188",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 571,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "salute@gedi.it (Redazione di Salute)",
-      "title": "Pronto il nuovo vaccino contro la malaria, \u00e8 nato dalla tecnologia anti-Covid",
-      "description": "Gli esisti della ricerca australiana: \"Il vaccino contiene le istruzioni per le cellule, consente loro di produrre un'intera proteina della malaria debellando il parassita\"",
-      "url": "https://www.repubblica.it/salute/2023/07/21/news/vaccino_malaria_zanzara-408418491/",
-      "urlToImage": "https://www.repstatic.it/content/contenthub/img/2023/07/20/163102150-02090cf4-9ba2-4390-8fbd-ee4c4d3d93ca.jpg",
-      "publishedAt": "2023-07-21 10:20:17",
-      "content": "Un vaccino ideato con la stessa tecncnologia utlizzata per combattere il Covid. Solo che questa volta viene impiegato contro la malaria. La pandemia ha lasciato dietro di s\u00e8 un percorso di conoscenze\u2026 [+307 chars]",
-      "retrievedAt": "2023-07-22 19:05:02.442150",
-      "internal_id": "1b3928c6d7257c1ffc95d43599ec34aea3e384ff50fc91b7bcc44771e6cc69ae",
       "publishedAtLabel": "Jul 21"
     }
   ]
