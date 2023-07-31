@@ -1,8 +1,134 @@
 {
-  "last_updated": "2023-07-31 07:05",
+  "last_updated": "2023-07-31 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 770,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Dengue Cases in Delhi: Health Dept has given instructions to start awareness campaign, says Saurabh Bharadwaj",
+      "description": "Delhi Health Minister Saurabh Bhardwaj on July 30 said that arrangements are being made in Delhi to run a campaign to spread awareness about dengue. He said, 'We have given instructions to the Health Department and DIP to run a campaign regarding Dengue in sc\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/dengue-cases-in-delhi-health-dept-has-given-instructions-to-start-awareness-campaign-says-saurabh-bharadwaj/videoshow/102254008.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-102254008,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-07-30 16:10:27",
+      "content": "Delhi Health Minister Saurabh Bhardwaj on July 30 said that arrangements are being made in Delhi to run a campaign to spread awareness about dengue. He said, \"We have given instructions to the Health\u2026 [+416 chars]",
+      "retrievedAt": "2023-07-31 19:05:19.833955",
+      "internal_id": "ace6636873ea1064a3e564bbddce42329533f3edebb1cb80ccdc4244d1632ac3",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 773,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "By MAAYAN JAFFE-HOFFMAN",
+      "title": "Global boiling: How Israel urgently needs to adapt to climate change",
+      "description": "\"If we don't deal with [climate change], Israel will be a very unpleasant place to live in the next decade or two,\" Prof. Colin Price, head of Tel Aviv University's PlanNet Zero",
+      "url": "https://www.jpost.com/environment-and-climate-change/article-753063",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/545178",
+      "publishedAt": "2023-07-30 15:23:24",
+      "content": "Israel must respond and protect its people from \"global boiling\" - extreme heat, fatal floods, droughts, forest fires and increasing spread of zoonotic diseases like malaria and West Nile virus, some\u2026 [+6070 chars]",
+      "retrievedAt": "2023-07-31 19:05:20.670491",
+      "internal_id": "1656f94ae6c206d24af5500c70cf68d3e78308f66d8411b3b0773e7a0e9bbe82",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 775,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Giovanni Fiorentino)",
+      "title": "Caso sospetto di chikungunya in Italia: ecco come comportarsi",
+      "description": "A Santarcangelo di Romagna \u00e8 stato riscontrato un sospetto caso di chikungunya, una malattia che causa febbre e forti dolori e che si trasmette attraverso le punture di zanzara. Il comune romagnolo, su indicazione di Ausl Romagna, ha attivato le operazioni pr\u2026",
+      "url": "https://www.ilgiornale.it/news/cronaca-locale/caso-sospetto-chikungunya-italia-ecco-comportarsi-2189582.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2023/07/30/1690722365-zanzara.jpg?_=1690722365",
+      "publishedAt": "2023-07-30 13:33:47",
+      "content": "Un presunto caso di chikungunya \u00e8 stato segnalato da Ausl a Santarcangelo di Romagna. E su indicazione dell'azienda sanitaria, il Comune ha ad ogni modo gi\u00e0 provveduto a dare il via alle operazioni d\u2026 [+4041 chars]",
+      "retrievedAt": "2023-07-31 19:05:21.117192",
+      "internal_id": "28cc3d489974be3fa485e327a6d000817075c1520101105c4813ea8bb1f65d71",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 772,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Rwanda: Scientists Warn of Malaria in Northern Province As Temperatures Rise",
+      "description": "[New Times] The usually cold Northern province of Rwanda faces an alarming risk of increased malaria cases as temperatures rise, warns Faustin Munyazikwiye, Deputy Director General of the Rwanda Environment Management Authority (REMA).",
+      "url": "https://allafrica.com/stories/202307300069.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-07-30 10:08:41",
+      "content": "The usually cold Northern province of Rwanda faces an alarming risk of increased malaria cases as temperatures rise, warns Faustin Munyazikwiye, Deputy Director General of the Rwanda Environment Mana\u2026 [+3548 chars]",
+      "retrievedAt": "2023-07-31 19:05:20.664916",
+      "internal_id": "4e436ef23ed9a93ae5d09210807cc8e33e08b89022b873c8a7dee5d5c4f57103",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 774,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Sergi Alcalde, Sergi Alcalde",
+      "title": "Par\u00e1sitos: polizones invisibles de la naturaleza",
+      "description": "El joven Sebastian Deleon ten\u00eda solo 16 a\u00f1os cuando se enfrent\u00f3 a una grave infecci\u00f3n que pudo acabar con su vida. Su \u00fanica imprudencia hab\u00eda sido ba\u00f1arse en un estanque mientras disfrutaba con su familia de unas vacaciones en Orlando. Al aspirar accidentalme\u2026",
+      "url": "https://www.nationalgeographic.com.es/mundo-animal/parasitos-polizones-invisibles-naturaleza_20449",
+      "urlToImage": "https://www.nationalgeographic.com.es/medio/2023/07/25/plasmodium-shutterstock-1513969283-min_301bb7d1_230725163547_1200x630.jpg",
+      "publishedAt": "2023-07-30 10:00:00",
+      "content": "Plasmodio El pat\u00f3geno responsable de la malaria es un protozoo perteneciente al filo Apicomplexa que entra en el cuerpo humano a trav\u00e9s de la picadura de un mosquito. Se desplaza hasta el h\u00edgado a t\u2026 [+1106 chars]",
+      "retrievedAt": "2023-07-31 19:05:20.675416",
+      "internal_id": "96c5f8f983316d124ec5efd19c6ed13b1adec0f917de44d9eeb661d5045e9736",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 771,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Muere mujer en Texas por meningitis adquirida en cl\u00ednica de Matamoros",
+      "description": "Daniela Olivares, de origen estadunidense, muri\u00f3 en el sur de Texas por meningitis mic\u00f3tica, convirti\u00e9ndose en la s\u00e9ptima v\u00edctima de esta enfermedad en el vecino pa\u00eds, tras un brote del padecimiento entre personas que fueron intervenidas quir\u00fargicamente duran\u2026",
+      "url": "https://www.jornada.com.mx/2023/07/30/estados/025n1est",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-07-30 08:55:27",
+      "content": "Peri\u00f3dico La JornadaDomingo 30 de julio de 2023, p. 25 Daniela Olivares, de origen estadunidense, muri\u00f3 en el sur de Texas por meningitis mic\u00f3tica, convirti\u00e9ndose en la s\u00e9ptima v\u00edctima de esta enfer\u2026 [+2570 chars]",
+      "retrievedAt": "2023-07-31 19:05:20.109204",
+      "internal_id": "0eae53a7ca337ab961fb5d11aaa0d3248ff6baa58ed4ac2a60caab416b3fed64",
+      "publishedAtLabel": "Jul 30"
+    },
+    {
+      "id": 769,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Delhi\u2019s dengue cases reach 5-year high in July: Govt issues advisory. Details - Hindustan Times",
+      "description": "Delhi\u2019s dengue cases reach 5-year high in July: Govt issues advisory. Details Hindustan Times Delhi reports highest dengue case count in 5 years. Symptoms, helpline number, what not to do here | Mint Mint Dengue Outbreak in Delhi\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2RlbGhpLW5ld3MvZGVuZ3VlLXN5bXB0b21zLWRlbGhpLWxhdGVzdC1uZXdzLWRlbmd1ZS1jYXNlcy12aXJhbC1pbmZlY3Rpb24tcGluay1leWUtZGVsaGktZ292ZXJubWVudC1hZHZpc29yeS1kZW5ndWUtMTAxNjkwNzA0NTQ2NDc3Lmh0bWzSAbIBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2NpdGllcy9kZWxoaS1uZXdzL2Rlbmd1ZS1zeW1wdG9tcy1kZWxoaS1sYXRlc3QtbmV3cy1kZW5ndWUtY2FzZXMtdmlyYWwtaW5mZWN0aW9uLXBpbmstZXllLWRlbGhpLWdvdmVybm1lbnQtYWR2aXNvcnktZGVuZ3VlLTEwMTY5MDcwNDU0NjQ3Ny1hbXAuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-30 08:51:58",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-31 19:05:19.825686",
+      "internal_id": "2aecb6a876b65759a174481ded9c27d18dda9e05efe264a839f7cea0985c71e7",
+      "publishedAtLabel": "Jul 30"
+    },
     {
       "id": 764,
       "query": [
@@ -3482,132 +3608,6 @@
       "content": "NEW DELHI, July 21 (Xinhua) -- The Delhi government on Friday banned the sale of certain drugs, including Aspirin, Ibuprofen and Diclofenac without a doctor's prescription, saying these medicines cau\u2026 [+1105 chars]",
       "retrievedAt": "2023-07-22 19:05:01.628733",
       "internal_id": "1a7b622b10da37b12b3f0d4308cf4cb68a762a7fe85a751526c3e4862e882d62",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 588,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "BNP blames Dhaka mayors for worst dengue outbreak",
-      "description": "Blaming the gross failure of the mayors of two Dhaka city corporations for the worst dengue outbreak in the capital, BNP on Friday announced a four-point programme to stand by the dengue patients and create public awareness. Tabith Awal and Ishraq Hossain, th\u2026",
-      "url": "https://sylhetmirror.com/2023/07/21/bnp-blames-dhaka-mayors-for-worst-dengue-outbreak/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/hcvU5P.jpg",
-      "publishedAt": "2023-07-21 16:37:03",
-      "content": "Blaming the gross failure of the mayors of two Dhaka city corporations for the worst dengue outbreak in the capital, BNP on Friday announced a four-point programme to stand by the dengue patients and\u2026 [+4728 chars]",
-      "retrievedAt": "2023-07-23 07:05:19.116477",
-      "internal_id": "c0156e42ad369a42f4a90bf8484e8eb51ba27d8cfd7e77a8e1f2aab64e65ce3d",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 553,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue, l'allarme dell'Oms: a rischio met\u00e0 della popolazione mondiale - Sky Tg24",
-      "description": "Dengue, l'allarme dell'Oms: a rischio met\u00e0 della popolazione mondiale Sky Tg24 Oms: 'Met\u00e0 della popolazione mondiale \u00e8 a rischio di Dengue' Agenzia ANSA Dengue, met\u00e0 della popolazione mondiale \u00e8 a rischio Ticinonline \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vdGcyNC5za3kuaXQvc2FsdXRlLWUtYmVuZXNzZXJlLzIwMjMvMDcvMjEvZGVuZ3VlLW9tc9IBQGh0dHBzOi8vdGcyNC5za3kuaXQvc2FsdXRlLWUtYmVuZXNzZXJlLzIwMjMvMDcvMjEvZGVuZ3VlLW9tcy9hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-21 15:55:09",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.618716",
-      "internal_id": "3f65442f0d8b5b5dde5a5a8cd44103184704d46ca037d4f64ee007a6d2aaff2c",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 552,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Idnes.cz",
-      "author": "Ivana Leskov\u00e1",
-      "title": "Po\u010det p\u0159\u00edpad\u016f hore\u010dky dengue stoup\u00e1, dal\u0161\u00ed naka\u017een\u00e1 si nemoc p\u0159ivezla z Malediv",
-      "description": "Zat\u00edmco v covidov\u00fdch letech se v \u010desk\u00fdch nemocnic\u00edch vyskytovali pacienti s hore\u010dkou dengue jen v\u00fdjime\u010dn\u011b (loni \u0161est, p\u0159edloni t\u0159i), letos jejich po\u010det op\u011bt v\u00fdrazn\u011b roste. Od za\u010d\u00e1tku ledna do konce \u010dervna jich l\u00e9ka\u0159i eviduj\u00ed ji\u017e 33. A dal\u0161\u00ed p\u0159ib\u00fdvaj\u00ed. Nap\u0159\u00edkl\u2026",
-      "url": "https://www.idnes.cz/zpravy/domaci/horecka-dengue-nemocnice-motol-maledivy.A230721_171858_domaci_tty",
-      "urlToImage": "https://1gr.cz/tempimg/fb/2020/7/JB85141c_10.jpg",
-      "publishedAt": "2023-07-21 15:36:00",
-      "content": "Letos je to zat\u00edm n\u00e1 druh\u00fd pacient s potvrzenou n\u00e1kazou dengue, \u00edk\u00e1 Milan Troj\u00e1nek, pednosta Kliniky infekn\u00edch nemoc\u00ed a cestovn\u00ed medic\u00edny FN Motol. Nemoc se podle nj projevuje vysokou horekou, vyerp\u2026 [+883 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.616898",
-      "internal_id": "861c55fda9c9e500c657f930279e420a217782d48ef1d8de16c71e599aa4f604",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 548,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Publico.pt",
-      "author": "publico@publico.pt",
-      "title": "OMS alerta para maior risco de dengue com aquecimento global a atingir recordes",
-      "description": "Europa registou aumento de casos e OMS alerta que os n\u00fameros poder\u00e3o atingir recordes este ano por todo o mundo. Clima mais quente ajuda os mosquitos a multiplicarem-se.",
-      "url": "https://www.publico.pt/2023/07/21/azul/noticia/oms-alerta-maior-risco-dengue-aquecimento-global-atingir-recordes-2057681",
-      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1827541?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Azul.png",
-      "publishedAt": "2023-07-21 15:04:00",
-      "content": "A Organiza\u00e7\u00e3o Mundial de Sa\u00fade alertou na sexta-feira para a possibilidade de os casos de dengue poderem atingir n\u00edveis recordes este ano, em parte devido ao facto de o aquecimento global beneficiar \u2026 [+2843 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.610698",
-      "internal_id": "8f8a16af156da19a65ce2ee8fba506d8936936cb4e45304fb76c12e102b95ae3",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 557,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reuters",
-      "title": "OMS alerta para aumento da dengue em meio ao aquecimento global",
-      "description": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) alertou nesta sexta-feira que os casos de dengue podem se ...",
-      "url": "https://www.terra.com.br/noticias/mundo/oms-alerta-para-aumento-da-dengue-em-meio-ao-aquecimento-global,9efc199c10b2e75ff48d1ecdb71531381cz2w98p.html",
-      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2023-07-21 14:59:20",
-      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) alertou nesta sexta-feira que os casos de dengue podem se aproximar de recordes neste ano, em parte devido ao aquecimento global que favorece os mosquitos que a e\u2026 [+2147 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.625349",
-      "internal_id": "b81638371d4fa79910d4aabd0d3b3be17879a75aa4c20cd5deb8c872b390669d",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 587,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "This year\u2019s dengue death toll raises to 156",
-      "description": "One more death was reported from dengue in 24 hours till Friday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 156 this year. During the period, 896 more patients were hospitalised with the viral fever, according to the Direc\u2026",
-      "url": "https://sylhetmirror.com/2023/07/21/this-years-dengue-death-toll-raises-to-156/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/jhgfcxx.jpg",
-      "publishedAt": "2023-07-21 14:57:04",
-      "content": "One more death was reported from dengue in 24 hours till Friday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 156 this year. During the period, 896 more patients w\u2026 [+593 chars]",
-      "retrievedAt": "2023-07-23 07:05:19.114630",
-      "internal_id": "89233a854f39bfa6fa6a45d4d3390d5614c6e2b64209700ce06b36ddbbd41562",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 551,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sputnikglobe.com",
-      "author": "Sputnik International",
-      "title": "Three Cases of Dengue Fever Registered in Northeastern France",
-      "description": "MOSCOW (Sputnik) - At least three cases of dengue fever have been detected this week in the Bas-Rhin department in northeastern France, French broadcaster reported on Friday.",
-      "url": "https://sputnikglobe.com/20230721/three-cases-of-dengue-fever-registered-in-northeastern-france-1112043713.html",
-      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1112043713.jpg?11089555861689949098",
-      "publishedAt": "2023-07-21 14:18:17",
-      "content": "Check out all the latest trending news and stories from across the globe and the Internet! Lifestyle, cultural stories, social media hits, latest science and technology news, photos, videos, and much\u2026 [+4053 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.615716",
-      "internal_id": "30560586395c8c4414db7518af87e59eeefeba100864f8f54052f40b5e44f62d",
       "publishedAtLabel": "Jul 21"
     }
   ]
