@@ -1,8 +1,26 @@
 {
-  "last_updated": "2023-07-30 19:05",
+  "last_updated": "2023-07-31 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 764,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bmc: Dengue count crosses 100 in BMC areas for first time this season | Kolkata News - Times of India - IndiaTimes",
+      "description": "Bmc: Dengue count crosses 100 in BMC areas for first time this season | Kolkata News - Times of India IndiaTimes Mangaluru: Mosquito population up due to incessant rains, dengue fever cases rise in DK Daijiworld.com Highest dengu\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiggFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L2tvbGthdGEvZGVuZ3VlLWNvdW50LWNyb3NzZXMtMTAwLWluLWJtYy1hcmVhcy1mb3ItZmlyc3QtdGltZS10aGlzLXNlYXNvbi9hcnRpY2xlc2hvdy8xMDIyNDE2MTIuY21z0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-30 00:35:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-07-31 07:05:39.606332",
+      "internal_id": "4c1a898869f10e3cca751ef4ebc57628adbd75437af81164d8a74ebc235ac69f",
+      "publishedAtLabel": "Jul 30"
+    },
     {
       "id": 762,
       "query": [
@@ -307,6 +325,24 @@
       "content": "The World Health Organisation has raised the alarm that viral hepatitis could kill more people than malaria, tuberculosis, and HIV combined by 2040 if the current infection rate continues. According\u2026 [+4048 chars]",
       "retrievedAt": "2023-07-29 19:05:18.706156",
       "internal_id": "b6851e701bdb1d33d873280c794e10da395da1907a42b6c471895fd5d0ca12d5",
+      "publishedAtLabel": "Jul 28"
+    },
+    {
+      "id": 768,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Peoplesreview.com.np",
+      "author": "peoples_12ad",
+      "title": "Dengue outbreak in Dharan, five more people die",
+      "description": "Kathmandu, 28 July: In BP Koirala Institute of Health Sciences (BPKIHS), 5 more people including a girl have died due to dengue infection in the last nine days. According to Dr. Chudamani Pokharel, Deputy spokesperson of the BPKIHS, they died during the treat\u2026",
+      "url": "https://www.peoplesreview.com.np/2023/07/28/dengue-outbreak-in-dharan-five-more-people-die/",
+      "urlToImage": "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2022/10/Dengue.jpg?fit=300%2C168&ssl=1",
+      "publishedAt": "2023-07-28 12:04:36",
+      "content": "Editor-in-Chief: Pushpa Raj Pradhan Consultant Editor Emeritus: Mana Ranjan Josse Contributing Editor: Prof Dr Shashi P.B.B. Malla Guest Editor: Yug Bahadur Managing Editor: Sushma Shrestha Chie\u2026 [+420 chars]",
+      "retrievedAt": "2023-07-31 07:05:39.622772",
+      "internal_id": "12e737801707b6d09c5f46da761b5ec99ecb4c7758bec22a61ab362ccaf41890",
       "publishedAtLabel": "Jul 28"
     },
     {
@@ -671,6 +707,24 @@
       "publishedAtLabel": "Jul 27"
     },
     {
+      "id": 766,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Big News Network",
+      "author": null,
+      "title": "Xinhua Asia-Pacific news summary at 1600, July 27",
+      "description": "DHAKA -- Bangladesh recorded 2,361 new cases of dengue fever and 10 new deaths on Thursday, bringing its total tally to 42,702 with 225 deaths, the Directorate General of Health Services (DGHS) said. According to the figure reported by the DGHS under the Mini\u2026",
+      "url": "https://www.bignewsnetwork.com/news/273912814/xinhua-asia-pacific--summary-at-1600-july-27",
+      "urlToImage": "https://static.midwestradionetwork.com/story_logos/premier/malaysia-sun.jpg",
+      "publishedAt": "2023-07-27 16:18:28",
+      "content": "DHAKA -- Bangladesh recorded 2,361 new cases of dengue fever and 10 new deaths on Thursday, bringing its total tally to 42,702 with 225 deaths, the Directorate General of Health Services (DGHS) said.\u2026 [+1891 chars]",
+      "retrievedAt": "2023-07-31 07:05:39.620252",
+      "internal_id": "b01164ef6e095659a318013c26552d04f3bc65ca59119d5e10ac79955c868cea",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
       "id": 722,
       "query": [
         "dengue"
@@ -889,6 +943,24 @@
       "publishedAtLabel": "Jul 27"
     },
     {
+      "id": 767,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Virologists stress vaccination against dengue",
+      "description": "Virology experts have spoken on the need for importing dengue vaccines and administering those to people to build a shield against surge in the mosquito borne disease and fatalities. There are two types dengue vaccine available in the world getting approval b\u2026",
+      "url": "https://sylhetmirror.com/2023/07/27/virologists-stress-vaccination-against-dengue/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/Uuyyo.jpg",
+      "publishedAt": "2023-07-27 08:55:48",
+      "content": "Virology experts have spoken on the need for importing dengue vaccines and administering those to people to build a shield against surge in the mosquito borne disease and fatalities. There are two t\u2026 [+722 chars]",
+      "retrievedAt": "2023-07-31 07:05:39.621492",
+      "internal_id": "629d0ae255a737db41210f46f93245309e566acffc97bad55e0a97897d088524",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
       "id": 718,
       "query": [
         "dengue"
@@ -994,6 +1066,24 @@
       "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
       "retrievedAt": "2023-07-28 07:05:42.569894",
       "internal_id": "e9bf03ce0994e3a65cf273c459872aa9d93c91cd2726e38680d8c9526a3c2861",
+      "publishedAtLabel": "Jul 27"
+    },
+    {
+      "id": 765,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Peoplesreview.com.np",
+      "author": "peoples_12ad",
+      "title": "Dengue cases rise alarmingly",
+      "description": "Kathmandu, 27 July: At least 4,289 dengue patients have been reported across the country. According to the Epidemiology and Disease Control Division, the number of dengue patients was 2,930 as of 15 July. By provinces, Koshi Province has recorded highest 2,75\u2026",
+      "url": "https://www.peoplesreview.com.np/2023/07/27/dengue-cases-rise-alarmingly/",
+      "urlToImage": "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2022/10/Dengue.jpg?fit=300%2C168&ssl=1",
+      "publishedAt": "2023-07-27 00:43:00",
+      "content": "Kathmandu, 27 July: At least 4,289 dengue patients have been reported across the country. According to the Epidemiology and Disease Control Division, the number of dengue patients was 2,930 as of 15 \u2026 [+546 chars]",
+      "retrievedAt": "2023-07-31 07:05:39.618910",
+      "internal_id": "dc1996be1fa8320b212ab87b30d950c26e4e38dadcc23eb40c1a21b7e37be60a",
       "publishedAtLabel": "Jul 27"
     },
     {
@@ -3518,96 +3608,6 @@
       "content": "Check out all the latest trending news and stories from across the globe and the Internet! Lifestyle, cultural stories, social media hits, latest science and technology news, photos, videos, and much\u2026 [+4053 chars]",
       "retrievedAt": "2023-07-22 19:05:01.615716",
       "internal_id": "30560586395c8c4414db7518af87e59eeefeba100864f8f54052f40b5e44f62d",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 555,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "\u201eH\u00e4lfte der Weltbev\u00f6lkerung ist der Gefahr ausgesetzt\u201c: WHO mahnt zur Wachsamkeit wegen Dengue-Fieber",
-      "description": "Die Zahl der Ansteckungen mit Dengue-Fieber hat sich weltweit vervielfacht. Die Asiatische Tigerm\u00fccke, die die Krankheit \u00fcbertr\u00e4gt, breitet sich mittlerweile auch in Europa aus.",
-      "url": "https://www.tagesspiegel.de/gesundheit/halfte-der-weltbevolkerung-ist-der-gefahr-ausgesetzt-who-mahnt-zur-wachsamkeit-wegen-dengue-fieber-10190494.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/tigermucke/alternates/BASE_16_9_W1400/tigermuecke.jpeg",
-      "publishedAt": "2023-07-21 14:10:38",
-      "content": "Die Weltgesundheitsorganisation (WHO) ist besorgt wegen der Ausbreitung des Dengue-Virus, auch in Europa. Es wird von Aedes-Stechm\u00fccken, auch als Asiatische Tigerm\u00fccken bekannt, \u00fcbertragen. Diese sin\u2026 [+2712 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.621675",
-      "internal_id": "edc2ab9f85bdd34c12670e2c24054184e6a290a3a3ef4bf5fb16f094354ac471",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 573,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Yembu Ngwengi, Guy Pascal Ngaba, Martine Nida, Dominique Enyama",
-      "title": "Evaluation of CRP as a marker for bacterial infection and malaria in febrile children at the Douala Gyneco-Obstetric and Pediatric Hospital",
-      "description": "Background C reactive protein (CRP), a marker for the presence of inflammation, has been extensively studied for distinguishing bacterial from non-bacterial infection in febrile patients, but its role in excluding malaria in the febrile child has not been tho\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289012",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0289012.g002&size=inline",
-      "publishedAt": "2023-07-21 14:00:00",
-      "content": "Citation: Ngwengi Y, Ngaba GP, Nida M, Enyama D (2023) Evaluation of CRP as a marker for bacterial infection and malaria in febrile children at the Douala Gyneco-Obstetric and Pediatric Hospital. PLo\u2026 [+26429 chars]",
-      "retrievedAt": "2023-07-22 19:05:02.444592",
-      "internal_id": "0706994f850958467479f803c8758133367af47f00338a342fc441ce90b60b91",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 549,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "ABC News",
-      "title": "Dengue fever cases could skyrocket due to global warming, says WHO",
-      "description": "Climate change could contribute to record high levels of the viral infection by benefiting mosquitoes, the World Health Organization says.",
-      "url": "https://www.abc.net.au/news/2023-07-21/dengue-fever-could-reach-record-highs-in-2023/102634264",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a806698b20ae398d742858e44f2a2330?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=299&width=862&height=485",
-      "publishedAt": "2023-07-21 13:36:19",
-      "content": "Dengue fever cases could reach record highs this year due to global warming, the World Health Organization (WHO) has warned. Climate change could help mosquitoes, and dengue, multiply faste\u2026 [+2326 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.612648",
-      "internal_id": "ea87971d5b51f73daa9c3d2820791f68a79fc8020afad70671e5eee9e8517842",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 545,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "ABC 12 News",
-      "author": "Ryan Jeltema",
-      "title": "Two bats carrying rabies found in Bay County",
-      "description": "Two bats captured in Bay County this summer tested positive for rabies, so health officials are urging residents to keep themselves and pets safe from the potentially fatal illness.",
-      "url": "https://www.abc12.com/news/health/two-bats-carrying-rabies-found-in-bay-county/article_66e0b75c-27c4-11ee-8c63-c32fd088f9ef.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/1/c4/1c4e1ddb-3c9b-54f4-9375-5dfff46185a1/61983f950375e.image.jpg?crop=1130%2C593%2C0%2C16&resize=1130%2C593&order=crop%2Cresize",
-      "publishedAt": "2023-07-21 13:33:51",
-      "content": "BAY COUNTY, Mich. (WJRT) - Health officials in Bay County are warning residents to watch for signs of rabies after two bats tested positive for the potentially fatal illness. The two bats collected \u2026 [+1835 chars]",
-      "retrievedAt": "2023-07-22 19:05:00.972502",
-      "internal_id": "8512d02b85db001c2af66aa35480c36e3fceec067a3eebf8c98bc1b64adacf76",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 546,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "tagesschau.de",
-      "author": "tagesschau.de",
-      "title": "Folge des Klimawandels: WHO warnt vor Ausbreitung des Dengue-Fiebers",
-      "description": "Durch hohe Temperaturen und starke Niederschl\u00e4ge vermehrt sich die Aedes-M\u00fccke, die das Dengue-Fieber \u00fcbertr\u00e4gt. Die WHO warnt vor einer dramatischen Ausbreitung der Krankheit. Auch in Europa gebe es immer mehr Aedes-M\u00fccken.",
-      "url": "https://www.tagesschau.de/ausland/europa/who-dengue-fieber-100.html",
-      "urlToImage": "https://images.tagesschau.de/image/dc0104cb-1583-429c-a49d-2172cae5f879/AAABiXhLPFc/AAABg8tME_8/16x9-1280/asiatische-tiegermuecke-100.jpg",
-      "publishedAt": "2023-07-21 12:39:08",
-      "content": "Stand: 21.07.2023 14:39 Uhr Durch hohe Temperaturen und starke Niederschl\u00e4ge vermehrt sich die Aedes-M\u00fccke, die das Dengue-Fieber \u00fcbertr\u00e4gt. Die WHO warnt vor einer dramatischen Ausbreitung der Kran\u2026 [+2677 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.606419",
-      "internal_id": "f2cb2b9ce12ef4f23b26b8bbed45827883053b6c25cc54cc16f4986d582c6ba6",
       "publishedAtLabel": "Jul 21"
     }
   ]
