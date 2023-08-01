@@ -1,8 +1,405 @@
 {
-  "last_updated": "2023-08-01 07:05",
+  "last_updated": "2023-08-01 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 799,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Paasi, G., Okalebo, C. B., Ongodia, P., Namayanja, C., Eregu, E. E. I., Abongo, G., Olupot, M., Amorut, D., Muhindo, R., Okiror, W., Ndila, C., Olupot-Olupot, P., on behalf of the PARIST trial study group",
+      "title": "PARIST study protocol: a phase I/II randomised, controlled clinical trial to assess the feasibility, safety and effectiveness of paracetamol in resolving acute kidney injury in children with severe malaria",
+      "description": "Background Acute kidney injury (AKI) has in the past been considered a rare complication of malaria in children living in high-transmission settings. More recently, however, a growing number of paediatric case series of AKI in severe malaria studies in Africa\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/7/e068260?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-07-31 17:33:18",
+      "content": "Renal involvement in severe malaria is common in adult non-immune cases in South and South East Asia (25%50% in various series) and can progress to acute kidney injury (AKI) with anuric or oliguric r\u2026 [+3010 chars]",
+      "retrievedAt": "2023-08-01 19:05:09.094536",
+      "internal_id": "cb7acf04da4332bfa2bd759106c920a18444daaa375fbdcef31bbe2da560a138",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 789,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Amid Dengue Spike, Delhi Civic Body To Use Drones For Anti-Larval Spraying",
+      "description": "The MCD will soon float a tender for the procurement of drones that will be deployed for monitoring and concurrent anti-larval spraying on major drains and far-flung areas to prevent the breeding of mosquito larvae, officials said on Monday.",
+      "url": "https://www.ndtv.com/delhi-news/amid-dengue-spike-delhi-civic-body-to-use-drones-for-anti-larval-spraying-4256558",
+      "urlToImage": "https://c.ndtvimg.com/2022-09/usgc45g8_dengue-symptoms-and-cure_625x300_29_September_22.jpg",
+      "publishedAt": "2023-07-31 15:34:55",
+      "content": "The move comes amid a rise in dengue cases in Delhi. (Representational) New Delhi: The MCD will soon float a tender for the procurement of drones that will be deployed for monitoring and concurrent \u2026 [+2638 chars]",
+      "retrievedAt": "2023-08-01 19:05:08.514654",
+      "internal_id": "97bfb40f84bf4974fd1455412b1798a6a19d554349a14dbc7b36edbaa4a3c113",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 792,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Umwelt - Elena Erdmann, Lena Giovanazzi",
+      "title": "Asiatische Tigerm\u00fccke: Die zweitgef\u00e4hrlichste M\u00fccke der Welt kommt nach Deutschland",
+      "description": "Die Asiatische Tigerm\u00fccke \u00fcbertr\u00e4gt Tropenkrankheiten wie Dengue \u2013 und verbreitet sich nun in Deutschland. Muss man sich Sorgen machen? Besuch bei einer M\u00fcckenj\u00e4gerin",
+      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fwissen%2Fumwelt%2F2023-07%2Fasiatische-tigermuecke-ausbreitung-denguefieber-chikungunya-virus",
+      "urlToImage": null,
+      "publishedAt": "2023-07-31 15:01:33",
+      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
+      "retrievedAt": "2023-08-01 19:05:08.520277",
+      "internal_id": "14f316555a1cdbc0caaa27016006cfe6aa2336ade0b70b20f05f660a2b473a1e",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 801,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Thorey K. Jonsdottir, Brendan Elsworth, Simon Cobbold, Mikha Gabriela, Ellen Ploeger, Molly Parkyn Schneider, Sarah C. Charnaud, Madeline G. Dans, Malcolm McConville, Hayley E. Bullen, Brendan S. Crabb, Paul R. Gilson",
+      "title": "PTEX helps efficiently traffic haemoglobinases to the food vacuole in Plasmodium falciparum",
+      "description": "Author summary Plasmodium falciparum is the causative agent of the most severe form of malaria in humans, where the symptoms of the disease are derived from the continuous asexual replication of the parasite within the human red blood cells (RBCs) it infects.\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011006",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011006.g008&size=inline",
+      "publishedAt": "2023-07-31 14:00:00",
+      "content": "Citation: Jonsdottir TK, Elsworth B, Cobbold S, Gabriela M, Ploeger E, Parkyn Schneider M, et al. (2023) PTEX helps efficiently traffic haemoglobinases to the food vacuole in Plasmodium falciparum. P\u2026 [+89318 chars]",
+      "retrievedAt": "2023-08-01 19:05:09.105743",
+      "internal_id": "58e796bc366f9e11fc3507ee08ec2cdcf9bc4468be0a0b1148c3622d8ce6178e",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 802,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Francis N. Nkemngo, Lymen W. G. Raissa, Derrick N. Nebangwa, Asongha M. Nkeng, Alvine Kengne, Leon M. J. Mugenzi, Yvan G. Fotso-Toguem, Murielle J. Wondji, Robert A. Shey, Daniel Nguiffo-Nguete, Jerome Fru-Cho, Cyrille Ndo, Flobert Njiokou, Joanne P. Webster, Samuel Wanji, Charles S. Wondji",
+      "title": "Epidemiology of malaria, schistosomiasis, and geohelminthiasis amongst children 3\u201315 years of age during the dry season in Northern Cameroon",
+      "description": "Background The double burden of malaria and helminthiasis in children poses an obvious public health challenge, particularly in terms of anemia morbidity. While both diseases frequently geographically overlap, most studies focus on mono-infection and general \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288560",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0288560.g002&size=inline",
+      "publishedAt": "2023-07-31 14:00:00",
+      "content": "Citation: Nkemngo FN, W. G. Raissa L, Nebangwa DN, Nkeng AM, Kengne A, Mugenzi LMJ, et al. (2023) Epidemiology of malaria, schistosomiasis, and geohelminthiasis amongst children 315 years of age duri\u2026 [+55264 chars]",
+      "retrievedAt": "2023-08-01 19:05:09.107781",
+      "internal_id": "d51773b03946a2aa9cba954ac36f3673aee5933c2abfd656b083adb981779d7e",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 796,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vietnamplus.vn",
+      "author": "VNA",
+      "title": "Hanoi advises residents to watch out for dengue fever risks",
+      "description": "Director of the Hanoi Department of Health Tran Thi Nhi Ha has advised that people should stay vigilant on dengue fever.",
+      "url": "https://en.vietnamplus.vn/hanoi-advises-residents-to-watch-out-for-dengue-fever-risks/265335.vnp",
+      "urlToImage": null,
+      "publishedAt": "2023-07-31 13:52:00",
+      "content": "Hanoi (VNA) Director of the Hanoi Department of Health Tran Thi Nhi Ha has advised that people should stay vigilant on dengue fever. According to a report from the municipal Centre for Disease Contr\u2026 [+741 chars]",
+      "retrievedAt": "2023-08-01 19:05:08.530677",
+      "internal_id": "2607f2cee2e9478db3cd74914de8ac99091acda22f1521df34b93d6cd647c3a6",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 795,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09af\u09a4\u0987 \u0997\u09cd\u09b0\u09c7\u09aa\u09cd\u09a4\u09be\u09b0 \u0995\u09b0\u09c1\u0995, \u099c\u09a8\u0997\u09a3\u09c7\u09b0 \u09a2\u09b2 \u09a5\u09be\u09ae\u09be\u09a8\u09cb \u09af\u09be\u09ac\u09c7 \u09a8\u09be: \u09ae\u09bf\u09b0\u09cd\u099c\u09be \u09ab\u0996\u09b0\u09c1\u09b2",
+      "description": "\u09a8\u09bf\u09b0\u09cd\u09af\u09be\u09a4\u09a8 \u0995\u09b0\u09c7, \u09ae\u09be\u09ae\u09b2\u09be \u09a6\u09bf\u09df\u09c7, \u0997\u09cd\u09b0\u09c7\u09aa\u09cd\u09a4\u09be\u09b0 \u0995\u09b0\u09c7 \u099c\u09a8\u0997\u09a3\u09c7\u09b0 \u09a2\u09b2 \u09a5\u09be\u09ae\u09be\u09a8\u09cb \u09af\u09be\u09ac\u09c7 \u09a8\u09be \u09ac\u09b2\u09c7 \u09ae\u09a8\u09cd\u09a4\u09ac\u09cd\u09af \u0995\u09b0\u09c7\u099b\u09c7\u09a8 \u09ac\u09bf\u098f\u09a8\u09aa\u09bf \u09ae\u09b9\u09be\u09b8\u099a\u09bf\u09ac \u09ae\u09bf\u09b0\u09cd\u099c\u09be \u09ab\u0996\u09b0\u09c1\u09b2 \u0987\u09b8\u09b2\u09be\u09ae \u0986\u09b2\u09ae\u0997\u09c0\u09b0\u0964",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/politics/news-501471",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/31/mirza_fakhrul_1.jpg?itok=Aib5m0_K",
+      "publishedAt": "2023-07-31 12:53:51",
+      "content": "With four deaths from dengue in 24 hours till this morning, the total number of deaths from the disease this year reached 251",
+      "retrievedAt": "2023-08-01 19:05:08.528132",
+      "internal_id": "d5ddc587796b8eaebe0037f4ab0d2d816d108d4c5b50bbb25e9539af086570cd",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 800,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Jessica Colarossi-Boston University",
+      "title": "Malaria may be returning to the United States",
+      "description": "For the first time since 2003, local transmission of malaria has been found in the United States, with six cases in Florida and one in Texas.",
+      "url": "https://www.futurity.org/malaria-united-states-2951462-2/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2023/07/malaria_united_states_1600.jpg",
+      "publishedAt": "2023-07-31 12:24:59",
+      "content": "For the first time since 2003, local transmission of malaria has been found in two states, with six cases in Florida and one in Texas.When the Centers for Disease Control and Prevention (CDC) started\u2026 [+1534 chars]",
+      "retrievedAt": "2023-08-01 19:05:09.103481",
+      "internal_id": "e0f723c87029679edcd48d01a7e93ddb8edcd7dd193fdaeda23419c13c5db476",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 791,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Dengue in Delhi: MCD to float tender for procurement of drones, to also be used for anti-larval activity",
+      "description": "According to the latest report issued by the Municipal Corporation of Delhi (MCD), the tally was at 243 till July 28. \"As per our plan, we will be procuring drones for monitoring and concurrent anti-larval spray activity. The tender for the procurement of dro\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/dengue-in-delhi-mcd-to-float-tender-for-procurement-of-drones-to-also-be-used-for-anti-larval-activity/articleshow/102281427.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-102281573,width-1070,height-580,imgsize-337470,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-07-31 12:23:42",
+      "content": "The MCD will soon float a tender for the procurement of drones that will be deployed for monitoring and concurrent anti-larval spraying on major drains and far-flung areas to prevent the breeding of \u2026 [+2449 chars]",
+      "retrievedAt": "2023-08-01 19:05:08.518807",
+      "internal_id": "cccc7a452ea7f8f8010542f89f93bd2f514074972960b1c4f56b0c9ee204fd2e",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 794,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Hindi.Moneycontrol.com Team, Moneycontrol Hindi",
+      "title": "Dengue: \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0915\u0939\u0930! \u0905\u092c \u0924\u0915 8 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924 \u0914\u0930 4000 \u0938\u0947 \u0905\u0927\u093f\u0915 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924, \u0938\u0940\u090f\u092e \u0928\u0947 \u091c\u0924\u093e\u0908 \u091a\u093f\u0902\u0924\u093e",
+      "description": "\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u092e\u0924\u093e \u092c\u0928\u0930\u094d\u091c\u0940 (Mamata Banerjee) \u0928\u0947 \u0938\u094b\u092e\u0935\u093e\u0930 \u0915\u094b \u092c\u0924\u093e\u092f\u093e \u0915\u093f \u0930\u093e\u091c\u094d\u092f \u092e\u0947\u0902 26 \u091c\u0941\u0932\u093e\u0908 \u0924\u0915 \u0921\u0947\u0902\u0917\u0942 (Dengue in West Bengal) \u0915\u0947 \u0915\u093e\u0930\u0923 8 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924 \u0939\u094b \u0917\u0908, \u091c\u092c\u0915\u093f 4,401 \u0932\u094b\u0917 \u0907\u0938\u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u0941\u090f \u0939\u0948\u0902\u0964 \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0915\u093e\u0930\u0923 \u0909\u0924\u094d\u092a\u0928\u094d\u0928 \u0938\u094d\u0925\u093f\u0924\u093f \u092a\u0930 \u091a\u093f\u0902\u0924\u093e \u092d\u0940 \u092a\u094d\u0930\u0915\u091f \u0915\u0940\u0964\u2026",
+      "url": "https://hindi.moneycontrol.com/news/india/trends/dengue-havoc-in-west-bengal-after-delhi-eight-people-dead-over-4000-infected-cm-mamata-banerjee-expresses-concern-1396221.html",
+      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2023/07/Dengue_WB-637x435.jpg",
+      "publishedAt": "2023-07-31 12:07:41",
+      "content": "(Mamata Banerjee) 26 (Dengue in West Bengal) 8 , 4,401 , 24 (BJP) , 243 , 56 240 22 187 , 28 243 1 28 72 - Chandrayaan-3: , 121 , 40 23 (1 -28 ) 169 , 2021 52, 2020 31, 2019 40 2018 \u2026 [+1 chars]",
+      "retrievedAt": "2023-08-01 19:05:08.525990",
+      "internal_id": "bd38e73fb3e712d46a8d1163c88853220788a70901f5b7a11d9fa7ea00442ac9",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 798,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Meghan Bartels",
+      "title": "Mosquitoes Carry Nasty Diseases. Here's How to Protect Yourself",
+      "description": "Malaria grabs headlines, but U.S. residents are more likely to encounter West Nile virus and other mosquito-borne illnesses",
+      "url": "https://www.scientificamerican.com/article/mosquitoes-carry-nasty-diseases-heres-how-to-protect-yourself/",
+      "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/1E3F7AAF-A0CD-426A-8B39169EEFBFCB2F.jpg",
+      "publishedAt": "2023-07-31 11:30:00",
+      "content": "A mosquito bite is usually just an itchy annoyance\u2014but sometimes it can lead to serious illness. That\u2019s because mosquitoes can carry a range of microbes that infect humans, including four species of\u2026 [+10988 chars]",
+      "retrievedAt": "2023-08-01 19:05:09.086139",
+      "internal_id": "f6f4dd8405ccdd924ed0e21dd92329bd1639ac4d22569ee5a984616c6618ade3",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 797,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue infection goes unchecked in Morang",
+      "description": "BIRATNAGAR: Dengue infection continues to spread in Morang district. According to the district health office in Biratnagar, 865 dengue cases have been detected as of now from June 16. The cases include 650 in Pathari Shanishchare Municipality alone. Out of th\u2026",
+      "url": "https://english.khabarhub.com/2023/31/312731/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-07-31 11:15:51",
+      "content": "BIRATNAGAR: Dengue infection continues to spread in Morang district. According to the district health office in Biratnagar, 865 dengue cases have been detected as of now from June 16. The cases inc\u2026 [+881 chars]",
+      "retrievedAt": "2023-08-01 19:05:08.532472",
+      "internal_id": "7cdc4768c3b4251db04a4ee0e42467bed4d56309d6f1225eb108f54dd7425dc4",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 786,
+      "query": [
+        "measles"
+      ],
+      "source_id": "independent",
+      "source_name": "Independent",
+      "author": "William Mata",
+      "title": "Scientists fear \u2018tinder box effect\u2019 could spread measles in under-vaccinated London",
+      "description": "Helen Bedford, a professor of children\u2019s health at University College London, has said vaccine uptake needs to be higher to contain such diseases",
+      "url": "https://www.independent.co.uk/news/health/scientists-london-measles-vaccinated-symptoms-b2384869.html",
+      "urlToImage": "https://static.independent.co.uk/2023/07/14/14/2942226bbe3a24e9938431dc151e45e1Y29udGVudHNlYXJjaGFwaSwxNjg5NDI2OTM3-2.72014229.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-07-31 11:03:15",
+      "content": "Sign up for our free Health Check email to receive exclusive analysis on the week in health Get our free Health Check email People rejecting vaccinations could be one of the reasons behind why Lond\u2026 [+2729 chars]",
+      "retrievedAt": "2023-08-01 19:05:08.145946",
+      "internal_id": "848022e5ff9f1a3a9922cb956ed15168ff625c92cedb338b3c777eb8e8659425",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 807,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i",
+      "title": "DGS. Novo surto de mpox com 49 casos em Portugal",
+      "description": "No total j\u00e1 foram diagnosticados com a infe\u00e7\u00e3o mais de mil homens. &etilde;",
+      "url": "https://ionline.sapo.pt/artigo/804055/dgs-novo-surto-de-mpox-com-49-casos-em-portugal?seccao=Portugal_i",
+      "urlToImage": "https://cdn1.newsplex.pt/media/2023/7/31/fb/856887.jpg",
+      "publishedAt": "2023-07-31 11:00:16",
+      "content": "A Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS) revelou que desde junho foram detetados 49 novos casos de infe\u00e7\u00e3o pelo v\u00edrus mpox, num novo surto da doen\u00e7a no pa\u00eds, entre 1 de junho e 28 de julho, a maioria das infe\u00e7\u2026 [+1105 chars]",
+      "retrievedAt": "2023-08-01 19:05:09.942394",
+      "internal_id": "7739ef52cc05224f3b6da99fda96689635f654d09f5bccca1ed45832be9d7a28",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 804,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mpox. 49 casos detetados desde 1 de junho, ulrapassando 1.000 casos em Portugal",
+      "description": "O atual surto de mpox \"caracteriza-se por uma estirpe diferente do de 2022, refletindo a reintrodu\u00e7\u00e3o do v\u00edrus no grupo de maior risco em Portugal\", adiantou a Dire\u00e7\u00e3o-Geral da Sa\u00fade.",
+      "url": "https://observador.pt/2023/07/31/mpox-49-casos-detetados-desde-1-de-junho-ulrapassando-1-000-casos-em-portugal/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A770%3A433%3Anowe%3A0%3A89%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F07%2F31112244%2Frfejbref.jpg",
+      "publishedAt": "2023-07-31 10:42:59",
+      "content": "Quarenta e nove casos de mpox foram detetados em Portugal, entre 1 de junho e 28 de julho, resultantes de um novo surto, segundo dados divulgados pela Dire\u00e7\u00e3o-Geral da Sa\u00fade. Este novo surto caracte\u2026 [+1676 chars]",
+      "retrievedAt": "2023-08-01 19:05:09.935736",
+      "internal_id": "94a18cf7e1938255e48a4f197121567d6342d6e907f44ef876953d953b8061fe",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 803,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Publico.pt",
+      "author": "publico@publico.pt",
+      "title": "Mpox: Portugal ultrapassa os 1000 casos. Novo surto j\u00e1 tem 49 casos",
+      "description": "Novo surto da doen\u00e7a est\u00e1 associado a uma estirpe diferente do surto de 2022. Cadeias de transmiss\u00e3o est\u00e3o a ser potenciadas por eventos e festivais de Ver\u00e3o.",
+      "url": "https://www.publico.pt/2023/07/31/ciencia/noticia/mpox-portugal-ultrapassa-1000-casos-novo-surto-ja-49-casos-2058696",
+      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1830136?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "publishedAt": "2023-07-31 10:41:46",
+      "content": "Quarenta e nove casos de mpox foram detectados em Portugal, entre 1 de Junho e 28 de Julho, resultantes de um novo surto, segundo dados divulgados pela Direc\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \u201cEste novo surt\u2026 [+1498 chars]",
+      "retrievedAt": "2023-08-01 19:05:09.933443",
+      "internal_id": "3494787d61a67602943e672825979a2568edf3c3df6c872254f2cf57b25c520a",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 806,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cmjornal.pt",
+      "author": "portal@cmjornal.pt (Correio da Manh\u00e3)",
+      "title": "49 casos de Mpox detetados desde 1 de junho ultrapassando os mil casos em Portugal",
+      "description": "\"Dos casos confirmados, 29 (74%) s\u00e3o homens que tiveram sexo com homens\", refere a autoridade de sa\u00fade.",
+      "url": "https://www.cmjornal.pt/sociedade/detalhe/49-casos-de-mpox-detetados-desde-1-de-junho-ultrapassando-os-mil-casos-em-portugal",
+      "urlToImage": "https://cdn.cmjornal.pt/images/2022-06/img_1200x676$2022_06_28_22_16_15_1163740.jpg",
+      "publishedAt": "2023-07-31 10:03:11",
+      "content": "Quarenta e nove casos de mpox foram detetados em Portugal, entre 1 de junho e 28 de julho, resultantes de um novo surto, segundo dados divulgados pela Dire\u00e7\u00e3o-Geral da Sa\u00fade. \"Este novo surto caract\u2026 [+1526 chars]",
+      "retrievedAt": "2023-08-01 19:05:09.940345",
+      "internal_id": "7d5b1c41b5f49de3ba056ee7b226f099f9fe17ded6c7a968fe76f7d763943ad3",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 805,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.pt",
+      "author": "DN/Lusa",
+      "title": "49 casos de Mpox detetados desde 1 de junho. Mais de 1000 em Portugal desde reintrodu\u00e7\u00e3o do v\u00edrus",
+      "description": "De acordo com a DGS, todos os casos s\u00e3o homens, maioritariamente residentes na Regi\u00e3o de Lisboa e Vale do Tejo (38).",
+      "url": "https://www.dn.pt/sociedade/49-casos-de-mpox-detetados-desde-1-de-junho-mais-de-1000-em-portugal-desde-reintroducao-do-virus-16782629.html",
+      "urlToImage": "https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=fe12c8f3-9445-42e6-b045-3e6f2728c9a1&w=800&h=420&watermark=true&t=20230731110100",
+      "publishedAt": "2023-07-31 10:01:00",
+      "content": "Quarenta e nove casos de mpox foram detetados em Portugal, entre 01 de junho e 28 de julho, resultantes de um novo surto, segundo dados divulgados pela Dire\u00e7\u00e3o-Geral da Sa\u00fade. \"Este novo surto carac\u2026 [+1646 chars]",
+      "retrievedAt": "2023-08-01 19:05:09.938377",
+      "internal_id": "b3973079b2ecc6a40a9acfda2e00ab55b8287ed47643094167ad656aa2f6d378",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 793,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "8 dead, over 4,000 infected: Mamata expresses concern over dengue cases in West Bengal",
+      "description": "West Bengal has reported eight dengue-related deaths and 4,401 cases of the mosquito-borne disease until July 26th, according to Chief Minister Mamata Banerjee, who has expressed concern over the situation. Most of the cases are originating from North 24 Parg\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/8-dead-over-4000-infected-mamata-expresses-concern-over-dengue-cases-in-west-bengal/articleshow/102274033.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-102274083,width-1070,height-580,imgsize-1292390,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-07-31 09:10:46",
+      "content": "Carrier 1.5 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling,High Density Filter, Auto Cleanser, 2023 Model,ESTER Exi - CAI18ER3R32F0,White) Buy Now",
+      "retrievedAt": "2023-08-01 19:05:08.522002",
+      "internal_id": "4fb0e0fd20d23c04d8ba8608f72f398b5a4c93449f3f77bab944748750ae603e",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 790,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Dengue cases climb to 243 in Delhi, 121 in July",
+      "description": "The report said 72 malaria cases were recorded in the January 1-July 28 period. The number of dengue cases reported in July so far stood at 121, 40 in June and 23 in May. Delhi reported 169 dengue cases for the same period (January 1-July 28) in 2022, 52 in 2\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/dengue-cases-climb-to-243-in-delhi-121-in-july/articleshow/102272192.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-102272217,width-1070,height-580,imgsize-16072,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-07-31 08:26:35",
+      "content": "Delhi reported 56 fresh dengue cases in the past week, taking the tally to over 240, according to a municipal corporation report on Monday. The national capital recorded 187 cases of the vector-borne\u2026 [+851 chars]",
+      "retrievedAt": "2023-08-01 19:05:08.517291",
+      "internal_id": "c7103df6f5c0797eea396c95e826db4da3e6bbfaaed60c41912803dc829ce4b8",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 788,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "PTI",
+      "title": "Dengue cases climb to 243 in Delhi, 121 in July",
+      "description": "The national capital recorded 187 cases of the vector-borne disease till July 22.",
+      "url": "https://www.moneycontrol.com/news/india/dengue-cases-climb-to-243-in-delhi-121-in-july-11066341.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/07/Causes-symptoms-and-treatment-for-dengue-770x433.jpg",
+      "publishedAt": "2023-07-31 08:24:07",
+      "content": "Delhi reported 56 fresh dengue cases in the past week, taking the tally to over 240, according to a municipal corporation report on Monday. The national capital recorded 187 cases of the vector-born\u2026 [+751 chars]",
+      "retrievedAt": "2023-08-01 19:05:08.512158",
+      "internal_id": "2f3443a48a112fdd34448198a82e8c701d144495425efd250402d7185ee2273b",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 787,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue cases in Delhi rise to 56 last week, total 243 cases reported this year - Hindustan Times",
+      "description": "Dengue cases in Delhi rise to 56 last week, total 243 cases reported this year Hindustan Times Delhi reports highest dengue case count in 5 years. Symptoms, helpline number, what not to do here | Mint Mint Delhi Saw 121 Dengue Ca\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2RlbGhpLW5ld3MvYXQtNTYtd2Vla2x5LWRlbmd1ZS1jYXNlcy1kb3VibGVzLWluLWRlbGhpLXRvdGFsLWNvdW50LWhpZ2hlc3QtaW4tNi15ZWFycy0xMDE2OTA3ODk4MzcwMzYuaHRtbNIBkwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2RlbGhpLW5ld3MvYXQtNTYtd2Vla2x5LWRlbmd1ZS1jYXNlcy1kb3VibGVzLWluLWRlbGhpLXRvdGFsLWNvdW50LWhpZ2hlc3QtaW4tNi15ZWFycy0xMDE2OTA3ODk4MzcwMzYtYW1wLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-31 07:50:36",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-01 19:05:08.507901",
+      "internal_id": "cdf22c334161cb7349b5063a72111bc3113c9c6fae1c7c836a6a75607b6ae7c6",
+      "publishedAtLabel": "Jul 31"
+    },
     {
       "id": 783,
       "query": [
@@ -3214,402 +3611,6 @@
       "retrievedAt": "2023-07-23 19:05:11.278304",
       "internal_id": "b3d56d0a7186b8546ad57f8d592da531bf7a7baaec28874cd61ded6eb3e13db6",
       "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 597,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Mary Katherine Wildeman, AP",
-      "title": "Mosquitos Are Moving to Higher Elevations\u2014and So Is Malaria",
-      "description": "As the planet warms, mosquitoes are slowly migrating to higher places \u2014 and bringing malaria to populations not used to dealing with the potentially deadly disease.Read more...",
-      "url": "https://gizmodo.com/mosquitos-higher-elevations-malaria-climate-health-1850663168",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/923612b937867e91cd1ffc521f75e4fe.jpg",
-      "publishedAt": "2023-07-22 15:00:00",
-      "content": "As the planet warms, mosquitoes are slowly migrating to higher places and bringing malaria to populations not used to dealing with the potentially deadly disease. Climate Connections is a collaborat\u2026 [+5871 chars]",
-      "retrievedAt": "2023-07-23 19:05:10.283695",
-      "internal_id": "5441f9b561b84006a424e9dbcdfa5caba594ed66ad2f9f5a62e6a686a2305445",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 607,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "WHO warnt vor neuem Virus - MSN",
-      "description": "WHO warnt vor neuem Virus MSN Tropische Bedrohung: Wie gef\u00e4hrlich ist das Dengue-Fieber-Virus? WEB.DE News Folge des Klimawandels: WHO warnt vor Ausbreitung des Dengue-Fiebers tagesschau.de WHO warnt vor Ausbreitung de\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm1zbi5jb20vZGUtY2gvZ2VzdW5kaGVpdC9tZWRpemluaXNjaC93aG8td2FybnQtdm9yLW5ldWVtLXZpcnVzL2FyLUFBMWVkMWhY0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-22 14:38:28",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-24 07:05:52.399446",
-      "internal_id": "9b173a625c6afd2940dc891330b0c170e4547072a1e770d8b575e05e7faf5a21",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 592,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Gazzetta.it",
-      "author": "Redazione",
-      "title": "Febbre Dengue, l'allarme dell'Oms: \"A rischio met\u00e0 della popolazione mondiale\"",
-      "description": "Secondo l'Organizzazione Mondiale della Sanit\u00e0 i casi di Dengue potrebbero raggiungere livelli record quest'anno, ecco perch\u00e9.",
-      "url": "https://www.gazzetta.it/salute/22-07-2023/febbre-dengue-oms-a-rischio-meta-della-popolazione-mondiale.shtml",
-      "urlToImage": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2023/07/22/64bbe51a39fba.jpeg",
-      "publishedAt": "2023-07-22 14:32:39",
-      "content": "Redazione 22 luglio - MILANO Secondo l'Organizzazione mondiale della sanit\u00e0 (Oms), quest'anno i casi di Dengue potrebbero raggiungere livelli record, in parte a causa del riscaldamento globale che \u2026 [+2307 chars]",
-      "retrievedAt": "2023-07-23 19:05:09.420745",
-      "internal_id": "bcdf5ade69be6382b4cef70dc27a86ee976c518e9f910ca02f57fa8607a53d27",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 598,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Publico.pt",
-      "author": "publico@publico.pt",
-      "title": "Novo surto de mpox com 37 casos em Lisboa e Vale do Tejo",
-      "description": "De acordo a DGS, 12 casos de infec\u00e7\u00e3o foram confirmados entre 12 e 30 de Junho e os restantes 25 casos entre 1 e 20 de Julho. At\u00e9 Junho, Portugal tinha identificado 965 casos confirmados.",
-      "url": "https://www.publico.pt/2023/07/22/ciencia/noticia/novo-surto-mpox-37-casos-lisboa-vale-tejo-2057790",
-      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1827831?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "publishedAt": "2023-07-22 12:50:45",
-      "content": "Um total de 37 casos de infec\u00e7\u00e3o pelo v\u00edrus mpox foi detectado em Portugal desde Junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Direc\u00e7\u00e3o-Geral da Sa\u00fade (DGS).\u2026 [+1713 chars]",
-      "retrievedAt": "2023-07-23 19:05:11.267299",
-      "internal_id": "52e99ca10307fe1471507b63b7af3dabdc1b08b839f994e60e58fa2a894bc135",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 602,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cmjornal.pt",
-      "author": "portal@cmjornal.pt (Correio da Manh\u00e3)",
-      "title": "Novo surto de mpox com 37 casos em Lisboa e Vale do Tejo",
-      "description": "V\u00edrus transmite-se por contacto f\u00edsico pr\u00f3ximo, nomeadamente com les\u00f5es ou fluidos corporais ou por contacto com material contaminado.",
-      "url": "https://www.cmjornal.pt/sociedade/detalhe/novo-surto-de-mpox-com-37-casos-em-lisboa-e-vale-do-tejo",
-      "urlToImage": "https://cdn.cmjornal.pt/images/2022-06/img_1200x676$2022_06_28_22_16_15_1163740.jpg",
-      "publishedAt": "2023-07-22 12:48:43",
-      "content": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \"\u2026 [+1706 chars]",
-      "retrievedAt": "2023-07-23 19:05:11.274813",
-      "internal_id": "8772712549f2fb68f74a6d781825a8f3ada9dcf354cb24973caadc6a85619363",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 600,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldenegocios.pt",
-      "author": "jng@negocios.pt (Jornal de Neg\u00f3cios)",
-      "title": "Novo surto de mpox com 37 casos em Lisboa e Vale do Tejo",
-      "description": "O v\u00edrus transmite-se por contacto f\u00edsico pr\u00f3ximo, nomeadamente com as les\u00f5es ou fluidos corporais, ou por contacto com material contaminado, como len\u00e7\u00f3is, atoalhados ou utens\u00edlios pessoais.",
-      "url": "https://www.jornaldenegocios.pt/economia/saude/detalhe/novo-surto-de-mpox-com-37-casos-em-lisboa-e-vale-do-tejo",
-      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2022-06/img_1200x676$2022_06_05_16_20_28_430428.jpg",
-      "publishedAt": "2023-07-22 12:29:27",
-      "content": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \"\u2026 [+1708 chars]",
-      "retrievedAt": "2023-07-23 19:05:11.270925",
-      "internal_id": "5304586da962dbddfe105bc7f9f280172f2b835c54d7d5d867811e974f739996",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 601,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.pt",
-      "author": "DN/Lusa",
-      "title": "Novo surto de mpox com 37 casos em Lisboa e Vale do Tejo",
-      "description": "Segundo os dados agora divulgados, 12 casos de infe\u00e7\u00e3o foram confirmados entre 12 e 30 de junho e restantes 25 casos entre 01 e 20 de julho.",
-      "url": "https://www.dn.pt/sociedade/novo-surto-de-mpox-com-37-casos-em-lisboa-e-vale-do-tejo-16735336.html",
-      "urlToImage": "https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=35e2c604-8414-4bf3-9f43-5240442bf309&w=800&h=420&watermark=true&t=20230722132600",
-      "publishedAt": "2023-07-22 12:26:00",
-      "content": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \"\u2026 [+1827 chars]",
-      "retrievedAt": "2023-07-23 19:05:11.272782",
-      "internal_id": "37fab5dd52add5cf1bd68177cf33d57de0cae87d5f1e2c364cd675f0e910d10c",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 599,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Novo surto de mpox com 37 casos em Lisboa e Vale do Tejo",
-      "description": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \u201cAp\u00f3s tr\u00eas meses sem novos casos de mpox reportados em Portuga\u2026",
-      "url": "https://observador.pt/2023/07/22/novo-surto-de-mpox-com-37-casos-em-lisboa-e-vale-do-tejo/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A0%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F06%2F22093951%2F39912962.jpg",
-      "publishedAt": "2023-07-22 12:20:50",
-      "content": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). A\u2026 [+1734 chars]",
-      "retrievedAt": "2023-07-23 19:05:11.269480",
-      "internal_id": "78a7e1da05e063443e45e5efe053ba552ae48a3c23b27f945c60e9628c1e5f2a",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 603,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Lusa",
-      "title": "Novo surto de monkeypox atinge 37 casos de infe\u00e7\u00e3o em Lisboa e Vale do Tejo",
-      "description": "Segundo a Dire\u00e7\u00e3o-Geral da Sa\u00fade, ap\u00f3s tr\u00eas meses sem haver casos reportados em Portugal, voltou a ressurgir o surto, na maioria em homens entre 20 e 40 anos, da infe\u00e7\u00e3o que se propaga por contacto f\u00edsico pr\u00f3ximo al\u00e9m de len\u00e7\u00f3is ou toalhas contaminados",
-      "url": "https://expresso.pt/sociedade/2023-07-22-Novo-surto-de-monkeypox-atinge-37-casos-de-infecao-em-Lisboa-e-Vale-do-Tejo-641ddb2e",
-      "urlToImage": "https://images.impresa.pt/expresso/2022-05-18-monkeypox-indonesia-6cbcde98/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-07-22 12:17:02",
-      "content": "Um total de 37 casos de infe\u00e7\u00e3o pelo v\u00edrus mpox foi detetado em Portugal desde junho, um novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo, anunciou a Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \"\u2026 [+1706 chars]",
-      "retrievedAt": "2023-07-23 19:05:11.276334",
-      "internal_id": "3326070d04b9d0feff9e5800ead186e4f4b4d67da1e74af32d1b602758a8f4fb",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 595,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Risingbd.com",
-      "author": "Https://www.risingbd.com",
-      "title": "\u2018No situation created to declare health emergency over dengue\u2019",
-      "description": "Health and Family Welfare Minister Zahid Maleque said that despite the increase in the number of dengue cases and deaths across the country, no situation has been created yet to declare a health emergency.",
-      "url": "https://www.risingbd.com/english/national/news/97393",
-      "urlToImage": "https://cdn.risingbd.com/media/imgAll/2023May/en/Dengue-2307220854.jpg",
-      "publishedAt": "2023-07-22 10:01:58",
-      "content": "Health and Family Welfare Minister Zahid Maleque said that despite the increase in the number of dengue cases and deaths across the country, no situation has been created yet to declare a health emer\u2026 [+459 chars]",
-      "retrievedAt": "2023-07-23 19:05:09.438280",
-      "internal_id": "9320046ccb224a5d6ab503c0eafdef640821364abc29ab14db83494cd5c0ee62",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 593,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "WHO warnt vor Dengue-Fieber: Infektionsrisiko durch M\u00fccken steigt in Europa - echo24.de",
-      "description": "WHO warnt vor Dengue-Fieber: Infektionsrisiko durch M\u00fccken steigt in Europa echo24.de Folge des Klimawandels: WHO warnt vor Ausbreitung des Dengue-Fiebers tagesschau.de Gefahr durch Dengue-Virus steigt: Tropische Stechm\u00fccken sind\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5lY2hvMjQuZGUvd2VsdC93aG8td2FybnVuZy1nZXN1bmRoZWl0LWRlbmd1ZS1maWViZXItd2V0dGVyLW11ZWNrZW4taW5mZWt0aW9uLXJpc2lrby1ldXJvcGEtdXJsYXViLWxhZW5kZXItYXVzYnJlaXR1bmctOTI0MTYyOTQuaHRtbNIBAA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-22 09:19:53",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-23 19:05:09.428323",
-      "internal_id": "c1cf594d4553b1893b87b65a3666e1062cda786f9eff7bb3da3097fd8cf10fed",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 609,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "\u2018Time to declare a public health emergency has not yet come\u2019",
-      "description": "Although the mosquito-borne disease dengue situation has worsened in the country, the time has not yet come to declare a public health emergency, said Health Minister Zahid Maleque on Saturday. \u201cDengue has spread in 60 districts including Dhaka. But such a si\u2026",
-      "url": "https://sylhetmirror.com/2023/07/22/time-to-declare-a-public-health-emergency-has-not-yet-come/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/HYUJ.jpg",
-      "publishedAt": "2023-07-22 09:08:32",
-      "content": "Although the mosquito-borne disease dengue situation has worsened in the country, the time has not yet come to declare a public health emergency, said Health Minister Zahid Maleque on Saturday. \u201cDen\u2026 [+675 chars]",
-      "retrievedAt": "2023-07-24 07:05:52.409893",
-      "internal_id": "8e64b431d1d76597121cbbcedd050cb841511fb98f2a29b0e6341920249ecfe9",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 608,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Half of world population at risk of dengue virus: WHO",
-      "description": "Half of the world population is at risk of contracting the mosquito-borne dengue virus, the World Health Organization (WHO) warned on Friday. Raman Velayudhan, WHO\u2019s unit head on tropical diseases, told a UN press briefing in Geneva that WHO recorded an eight\u2026",
-      "url": "https://sylhetmirror.com/2023/07/22/half-of-world-population-at-risk-of-dengue-virus-who/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/GHGFHYTJ.jpg",
-      "publishedAt": "2023-07-22 09:05:41",
-      "content": "Half of the world population is at risk of contracting the mosquito-borne dengue virus, the World Health Organization (WHO) warned on Friday. Raman Velayudhan, WHO\u2019s unit head on tropical diseases, \u2026 [+1700 chars]",
-      "retrievedAt": "2023-07-24 07:05:52.407874",
-      "internal_id": "8ad6661ef0824ac66bb56b3c6a1216c65696d70c16dcd5f4142edcc6b86b76bb",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 594,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Alerta OMS por m\u00e1ximo hist\u00f3rico de dengue",
-      "description": "Ginebra. La Organizaci\u00f3n Mundial de la Salud (OMS) advirti\u00f3 que este a\u00f1o los casos de dengue podr\u00edan acercarse a m\u00e1ximos hist\u00f3ricos, en parte debido a que el calentamiento global beneficia a los mosquitos que lo propagan.",
-      "url": "https://www.jornada.com.mx/2023/07/22/politica/010n4pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-07-22 08:38:04",
-      "content": "Peri\u00f3dico La JornadaS\u00e1bado 22 de julio de 2023, p. 10 Ginebra. La Organizaci\u00f3n Mundial de la Salud (OMS) advirti\u00f3 que este a\u00f1o los casos de dengue podr\u00edan acercarse a m\u00e1ximos hist\u00f3ricos, en parte de\u2026 [+882 chars]",
-      "retrievedAt": "2023-07-23 19:05:09.431087",
-      "internal_id": "f3984df36a10fffb3cbcede486be8681f2839f4e7629ccbc67b3511ca729a573",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 596,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Elementarteilchen: Ist das der Durchbruch im Kampf gegen Malaria? - DER SPIEGEL",
-      "description": "Elementarteilchen: Ist das der Durchbruch im Kampf gegen Malaria? DER SPIEGEL",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiswFodHRwczovL3d3dy5zcGllZ2VsLmRlL3dpc3NlbnNjaGFmdC9jb3ZpZC1pc3QtamV0enQtdm9lbGxpZy1ub3JtYWwtZGFzLXdpbGRlLWxpZWJlc2xlYmVuLWltLXJvZW1pc2NoZW4tcmVpY2gtZGllLWxlc2UtZW1wZmVobHVuZ2VuLWRlci13b2NoZS1hLTk4NWY1YjFlLWE1NmUtNDExYS1iZDYxLTAwMGI5ZGFiN2Y2MdIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-22 07:58:38",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-23 19:05:10.282055",
-      "internal_id": "246a029bca0038d24e99f8a17cdd2c419d3f178b75f4153791007c5085521ff2",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 584,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "India.com",
-      "author": "Shivendra Singh",
-      "title": "Dengue In Delhi: \u0921\u0947\u0902\u0917\u0942, \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u0947 \u092c\u0922\u093c\u0924\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u0915\u0947 \u091a\u0932\u0924\u0947 \u0926\u093f\u0932\u094d\u0932\u0940 \u0938\u0930\u0915\u093e\u0930 \u0928\u0947 \u0909\u0920\u093e\u092f\u093e \u092c\u0921\u093c\u093e \u0915\u0926\u092e; \u092e\u0947\u0921\u093f\u0915\u0932 \u0938\u094d\u091f\u094b\u0930 \u092e\u0947\u0902 \u0905\u092c \u0928\u0939\u0940\u0902 \u092e\u093f\u0932\u0947\u0902\u0917\u0947 \u092f\u0947 \u0926\u0935\u093e\u0907\u092f\u093e\u0902",
-      "description": "Dengue cases in Delhi: \u092f\u092e\u0941\u0928\u093e \u092e\u0947\u0902 \u0906\u0908 \u092c\u093e\u0922\u093c \u0928\u0947 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0905\u091a\u093e\u0928\u0915 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u0905\u0928\u094d\u092f \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u094b\u0902 \u0915\u0947 \u092e\u0930\u0940\u091c \u092c\u0922\u093c\u093e \u0926\u093f\u090f \u0939\u0948\u0902. \u0907\u0938\u0915\u0947 \u092e\u0926\u094d\u0926\u0947\u0928\u091c\u0930 \u0926\u093f\u0932\u094d\u0932\u0940 \u0938\u0930\u0915\u093e\u0930 \u0928\u0947 \u090f\u0915 \u092c\u0921\u093c\u093e \u0915\u0926\u092e \u0909\u0920\u093e\u092f\u093e \u0939\u0948. \u200b",
-      "url": "https://zeenews.india.com/hindi/health/delhi-government-has-issued-advisory-on-sale-of-some-medicines-due-to-dengue-malaria-cases-on-rise-in-capital/1790600",
-      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/07/22/1977103-delhi-govt-has-issued-advisory.jpg",
-      "publishedAt": "2023-07-22 06:42:48",
-      "content": "Dengue cases in Delhi: . , . . . , . . . . . , , . , , . : , , , , , , : , , , , , , , , : , , , . . , , . .",
-      "retrievedAt": "2023-07-23 07:05:19.106310",
-      "internal_id": "7bcdfb1063ec25ca8b3e311080f2cbb2d322d1637f0cb9c3b15c82efdc574dd7",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 591,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "\u0905\u0924\u093f\u092e\u0941\u0938\u0933\u0927\u093e\u0930 \u092a\u093e\u0935\u0938\u093e\u0928\u0902\u0924\u0930 \u092e\u0941\u0902\u092c\u0908\u0915\u0930\u093e\u0902\u0928\u093e \u0928\u0935\u093e \u0927\u094b\u0915\u093e, \u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u0947\u0915\u0921\u0942\u0928 \u0938\u0930\u094d\u0935\u093e\u0902\u0938\u093e\u0920\u0940 \u092e\u0939\u0924\u094d\u0924\u094d\u0935\u093e\u091a\u0940 \u0938\u0942\u091a\u0928\u093e",
-      "description": "Mumbai Rains Latest News : \u0930\u093e\u091c\u094d\u092f\u093e\u0924 \u091d\u093e\u0932\u0947\u0932\u094d\u092f\u093e \u096b \u0926\u093f\u0935\u0938\u093e\u0902\u091a\u094d\u092f\u093e \u092a\u093e\u0935\u0938\u093e\u0928\u0947 \u092e\u0941\u0902\u092c\u0908\u0932\u093e\u0939\u0940 \u091d\u094b\u0921\u092a\u0942\u0928 \u0915\u093e\u0922\u0932\u0902 \u0906\u0939\u0947. \u092a\u0923 \u092f\u093e\u0928\u0902\u0924\u0930 \u0906\u0924\u093e \u092e\u0941\u0902\u092c\u0908\u0915\u0930\u093e\u0902\u0938\u093e\u0920\u0940 \u090f\u0915 \u091a\u093f\u0902\u0924\u093e \u0935\u093e\u0922\u0935\u0923\u093e\u0930\u0940 \u092c\u093e\u0924\u092e\u0940 \u0938\u092e\u094b\u0930 \u0906\u0932\u0940 \u0906\u0939\u0947. \u092f\u093e \u0906\u0920\u0935\u0921\u094d\u092f\u093e\u0924 \u091d\u093e\u0932\u0947\u0932\u094d\u092f\u093e \u092e\u0941\u0938\u0933\u0927\u093e\u0930 \u092a\u093e\u0935\u0938\u093e\u092e\u0927\u094d\u092f\u0947 \u091c\u0930 \u0924\u0941\u092e\u094d\u0939\u0940 \u0918\u0930\u093e\u092c\u093e\u0939\u0947\u0930 \u092a\u0921\u0932\u0947 \u0905\u0938\u093e\u0932 \u0915\u093f\u0902\u0935\u093e \u092a\u093e\u0935\u0938\u093e\u0924 \u092d\u093f\u091c\u0932\u0947 \u0905\u0938\u093e\u0932 \u0924\u0930 \u092a\u0941\u0922\u091a\u2026",
-      "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-municipal-corporation-appeals-for-lepto-prevention-after-heavy-rains-to-public-health-department/articleshow/102032221.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-28144,msid-102032382/maharashtra-times.jpg",
-      "publishedAt": "2023-07-22 06:02:30",
-      "content": ": . , (Leptospirosis) . , . ( ) . ... , . , . . , . '' '' () .Maharashtra Rain Alert : , , , ?. , ; . , , . '' . . , . - . .Maharashtra Weather Forecast : , , '' . . - . .",
-      "retrievedAt": "2023-07-23 07:05:21.941127",
-      "internal_id": "128149dc2801b3fc91e5b2ec3d2953d13ad2fd4d67a249cd00067e71ca8d86ce",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 579,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Deadly dengue sweeps Bangladesh, risks deepening economic pain - Nikkei Asia",
-      "description": "Deadly dengue sweeps Bangladesh, risks deepening economic pain Nikkei Asia Dengue: 5 kids among 12 die in Ctg in last 20 days The Business Standard Bangladesh grapples with most severe Dengue outbreak in 23 years newagebd.net <\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYXNpYS5uaWtrZWkuY29tL1Nwb3RsaWdodC9Tb2NpZXR5L0RlYWRseS1kZW5ndWUtc3dlZXBzLUJhbmdsYWRlc2gtcmlza3MtZGVlcGVuaW5nLWVjb25vbWljLXBhaW7SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-22 05:35:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-23 07:05:19.082332",
-      "internal_id": "768d3c574dd4e1deae6d960006a64da0a70d2f5837f4690eec96db55b2f1b0ce",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 577,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Sky News Australia",
-      "author": "Bryant Hevesi",
-      "title": "New cases of measles confirmed in NSW prompting fresh health alert",
-      "description": "About a dozen possible exposure sites have been identified after two new cases of measles were confirmed in New South Wales.&nbsp;",
-      "url": "https://www.skynews.com.au/australia-news/new-cases-of-measles-confirmed-in-nsw-sparking-fresh-health-alert-after-infectious-individuals-visited-multiple-locations/news-story/3770ffc8eb9872e9a863818981854e52",
-      "urlToImage": "https://content.api.news/v3/images/bin/ceeb32d8031c1b2692d673927a42e062",
-      "publishedAt": "2023-07-22 04:59:34",
-      "content": "About a dozen possible exposure sites have been identified after two new cases of measles were confirmed in New South Wales. Authorities in the state issued a public health alert on Friday after th\u2026 [+2117 chars]",
-      "retrievedAt": "2023-07-23 07:05:18.352776",
-      "internal_id": "46a52b289b79ae9da6b5ad978c0ba5313a9f4dfa261669a59cde44a960bbc3ed",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 583,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Casos de dengue em Belo Horizonte sobem de 9.007 para 9.245",
-      "description": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) fez um alerta sobre a disparada dos casos de dengue nas Am\u00e9ricas. O primeiro semestre terminou com 2,9 mi...",
-      "url": "http://noticias.r7.com/minas-gerais/mg-record/videos/casos-de-dengue-em-belo-horizonte-sobem-de-9007-para-9245-21072023",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/07/21/64bb21fd4b49552ff800022d/c6681fe31ab04036b19d62a020eaa6dc__MGR_2107_DENGUE_thumb_thumb.jpg",
-      "publishedAt": "2023-07-21 21:34:00",
-      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) fez um alerta sobre a disparada dos casos de dengue nas Am\u00e9ricas. O primeiro semestre terminou com 2,9 milh\u00f5es de casos na regi\u00e3o entre confirmados e suspeitos. I\u2026 [+336 chars]",
-      "retrievedAt": "2023-07-23 07:05:19.102251",
-      "internal_id": "6acd47b82a89aeafe8763b789fb179c02afefe8e2736d64efd7847a4db05cb3c",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 578,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "9News",
-      "author": "9news Staff",
-      "title": "Two new measles cases prompts fresh alert from NSW Health",
-      "description": "NSW Health says both cases are from the same family and while they picked up the infection from overseas, they visited several Sydney locations while infectious, prompting the warning.",
-      "url": "https://www.9news.com.au/national/sydney-measles-warning-alert-issued-flight-shops-symptoms/057c4792-b273-4a6a-b6ff-d383907940bf",
-      "urlToImage": "https://imageresizer.static9.net.au/H7lpwFvP56ME8XxEhlwWEifdR4c=/0x0:5500x3093/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F64b4ca6c-9e6e-49c8-b3ef-0bfe51bbe9d2",
-      "publishedAt": "2023-07-21 21:12:44",
-      "content": "Property News: Sunny playground where the growth is only just beginning - domain.com.au",
-      "retrievedAt": "2023-07-23 07:05:18.358800",
-      "internal_id": "f61e949f05c16d5aa99b4d24030fa6769f8eddf53b9d70b2d9872d9d275d5b34",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 581,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Brasil \u00e9 o pa\u00eds mais afetado com novo surto de dengue na Am\u00e9rica",
-      "description": "\"A quantidade de casos no Brasil representa um aumento de 13% em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado e de 73% em rela\u00e7\u00e3o \u00e0 m\u00e9dia dos \u00faltimos cinco anos\", indicou em comunicado a OMS.",
-      "url": "https://observador.pt/2023/07/21/brasil-e-o-pais-mais-afetado-com-novo-surto-de-dengue-na-america/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A81%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F11%2F18194607%2F21578224.jpg",
-      "publishedAt": "2023-07-21 20:51:15",
-      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) alertou nesta sexta-feira para o n\u00famero de casos de dengue na Am\u00e9rica com o Brasil a liderar o n\u00famero de casos com 2,3 milh\u00f5es de ocorr\u00eancias e 769 mortes. \u201cA qu\u2026 [+986 chars]",
-      "retrievedAt": "2023-07-23 07:05:19.092367",
-      "internal_id": "00c09112b682a9cfade4da7ed74a7d8657bbd0794c780d7de8b98690d5076955",
-      "publishedAtLabel": "Jul 21"
     }
   ]
 }
