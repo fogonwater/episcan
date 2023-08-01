@@ -1,8 +1,189 @@
 {
-  "last_updated": "2023-07-31 19:05",
+  "last_updated": "2023-08-01 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 783,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "WHO calling for scaling up testing and treatment for viral hepatitis - Devdiscourse",
+      "description": "WHO calling for scaling up testing and treatment for viral hepatitis Devdiscourse Hepatitis deaths to eclipse TB, HIV and malaria, WHO says Nation About 70% of liver cancer deaths related to hepatitis \u53f0\u5317\u6642\u5831 How To Preve\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRldmRpc2NvdXJzZS5jb20vYXJ0aWNsZS9oZWFsdGgvMjU0MjE2My13aG8tY2FsbGluZy1mb3Itc2NhbGluZy11cC10ZXN0aW5nLWFuZC10cmVhdG1lbnQtZm9yLXZpcmFsLWhlcGF0aXRpc9IBfGh0dHBzOi8vd3d3LmRldmRpc2NvdXJzZS5jb20vYXJ0aWNsZS9oZWFsdGgvMjU0MjE2My13aG8tY2FsbGluZy1mb3Itc2NhbGluZy11cC10ZXN0aW5nLWFuZC10cmVhdG1lbnQtZm9yLXZpcmFsLWhlcGF0aXRpcz9hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-31 07:04:39",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-01 07:05:53.970449",
+      "internal_id": "348e94036ca7f28af317a79698bc4b1b796b536c5fbbdcf5225e4ebe2b2a9717",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 785,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Unimelb.edu.au",
+      "author": null,
+      "title": "2023 D.C Blood Oration \u2013 Of Humans, Dogs, and Rodents: One Health and Leptospirosis",
+      "description": "2023 D.C Blood Oration \u2013 Of Humans, Dogs, and Rodents: One Health and Leptospirosisunimelb.edu.au",
+      "url": "https://science.unimelb.edu.au/about/news/2023-d.c-blood-oration",
+      "urlToImage": "https://science.unimelb.edu.au/__data/assets/image/0008/4715054/Hero-Image-Jane-Sykes.jpg",
+      "publishedAt": "2023-07-31 05:30:05",
+      "content": "A holistic approach to human, animal, and environmental health is key to better understanding and managing cross-species disease transmissions, an internationally renowned veterinary scientist told a\u2026 [+2563 chars]",
+      "retrievedAt": "2023-08-01 07:05:55.129273",
+      "internal_id": "71f1bb9259853135f17f28a4c1999c56d682ed5879668606a5adf9d6d755868d",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 784,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Hellen Shikanda",
+      "title": "Hepatitis deaths to eclipse TB, HIV and malaria, WHO says",
+      "description": "Global health body concerned that many people remain undiagnosed and untreated",
+      "url": "https://nation.africa/kenya/health/hepatitis-deaths-to-eclipse-tb-hiv-and-malaria-who--4321374",
+      "urlToImage": "https://nation.africa/resource/image/4321376/landscape_ratio3x2/1200/800/e4a2de5b143e46b6283497170e6b0b9/Hu/hepatitis.jpg",
+      "publishedAt": "2023-07-31 05:05:14",
+      "content": "Hepatitis, a disease that causes inflammation of the liver, will kill more people than HIV, tuberculosis and malaria combined by 2040, the World Health Organization (WHO) has warned. Read: Hepatitis\u2026 [+1898 chars]",
+      "retrievedAt": "2023-08-01 07:05:53.977377",
+      "internal_id": "94d8f834bd5ea5576ca6fe9168cf771cd443443a1e5f441f99247f41f872dc14",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 779,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "Dengue: \u00bfqu\u00e9 pas\u00f3 con la idea de liberar mosquitos con wolbachia?",
+      "description": "En el 2021, cuando Cartagena atravesaba un fuerte pico de casos de dengue, el alcalde William Dau anunci\u00f3 que implementar\u00eda una medida para combatir esta enfermedad en el largo plazo. Dicha estrategia se trataba de criar y liberar mosquitos con wolbachia, una\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/dengue-que-paso-con-la-idea-de-liberar-mosquitos-con-wolbachia-JY8724931",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/OEJU/dengue-oscar-diaz_8191396_20230730160035.jpg",
+      "publishedAt": "2023-07-31 05:00:54",
+      "content": "En el 2021, cuando Cartagena atravesaba un fuerte pico de casos de dengue, el alcalde William Dau anunci\u00f3 que implementar\u00eda una medida para combatir esta enfermedad en el largo plazo. Dicha estrategi\u2026 [+5379 chars]",
+      "retrievedAt": "2023-08-01 07:05:53.177011",
+      "internal_id": "b092b3ce486059ddcabe131f344abe803d695b9c17d7686836635e002b40d763",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 780,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "Dengue: \u00bfqu\u00e9 pas\u00f3 con la idea de liberar mosquitos con wolbachia en Cartagena?",
+      "description": "En el a\u00f1o 2021 cuando Cartagena atravesaba un fuerte pico de casos de dengue, el alcalde William Dau, anunci\u00f3 que implementar\u00eda una medida para combatir esta enfermedad en el largo plazo. Dicha estrategia se trataba de criar y liberar mosquitos con wolbachia,\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/dengue-que-paso-con-la-idea-de-liberar-mosquitos-con-wolbachia-en-cartagena-JY8724931",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/OEJU/dengue-oscar-diaz_8191396_20230730160035.jpg",
+      "publishedAt": "2023-07-31 05:00:00",
+      "content": "En el a\u00f1o 2021 cuando Cartagena atravesaba un fuerte pico de casos de dengue, el alcalde William Dau, anunci\u00f3 que implementar\u00eda una medida para combatir esta enfermedad en el largo plazo. Dicha estra\u2026 [+4791 chars]",
+      "retrievedAt": "2023-08-01 07:05:53.179228",
+      "internal_id": "3f5c324686775a2ff4257b2441b6a583a4b12ecec81a1448f2fc7fcf6d87560d",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 782,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Hepatitis deaths to eclipse TB, HIV and malaria, WHO says - Nation",
+      "description": "Hepatitis deaths to eclipse TB, HIV and malaria, WHO says Nation How To Prevent Transmission Of Hepatitis From Mother To Baby TheHealthSite About 70% of liver cancer deaths related to hepatitis \u53f0\u5317\u6642\u5831 Africa, Nigeria unl\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vbmF0aW9uLmFmcmljYS9rZW55YS9oZWFsdGgvaGVwYXRpdGlzLWRlYXRocy10by1lY2xpcHNlLXRiLWhpdi1hbmQtbWFsYXJpYS13aG8tLTQzMjEzNzTSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-07-31 05:00:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-01 07:05:53.965864",
+      "internal_id": "4c38a75bff4ee87afff4bdc31e15abd5798b1c690ca2f7eb085663f71c4a197a",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 778,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u0921\u0947\u0902\u0917\u0942 \u092e\u0947\u0902 \u092d\u0942\u0932 \u0938\u0947 \u092d\u0940 \u0928 \u0916\u093e\u090f\u0902 \u092f\u0947 \u091a\u0940\u091c\u0947\u0902, \u0907\u092e\u094d\u092f\u0942\u0928 \u0938\u093f\u0938\u094d\u091f\u092e \u0939\u094b \u091c\u093e\u090f\u0917\u093e \u0915\u092e\u091c\u094b\u0930",
+      "description": "Dengue Diet: \u0921\u0947\u0902\u0917\u0942 \u092e\u0947\u0902 \u0938\u093f\u0930 \u0926\u0930\u094d\u0926, \u0924\u0947\u091c \u092c\u0941\u0916\u093e\u0930 \u091c\u0948\u0938\u0947 \u0932\u0915\u094d\u0937\u0923 \u0926\u093f\u0916\u0928\u0947 \u0932\u0917\u0924\u0947 \u0939\u0948\u0902. \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0907\u0932\u093e\u091c \u0905\u0917\u0930 \u0938\u0939\u0940 \u0938\u092e\u092f \u092a\u0930 \u0928\u0939\u0940\u0902 \u0915\u093f\u092f\u093e \u091c\u093e\u090f \u0924\u094b \u092f\u0939 \u092c\u0947\u0939\u0926 \u0916\u0924\u0930\u0928\u093e\u0915 \u0930\u0942\u092a \u092d\u0940 \u0932\u0947 \u0938\u0915\u0924\u093e \u0939\u0948. \u0921\u0947\u0902\u0917\u0942 \u092e\u0947\u0902 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938 \u092d\u0940 \u0924\u0947\u091c\u0940 \u0938\u0947 \u0917\u093f\u0930\u0928\u0947 \u0932\u0917\u0924\u0947 \u0939\u0948\u0902. \u0924\u094b \u0906\u0907\u090f \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u0921\u0947\u0902\u0917\u0942 \u092e\u0947\u0902 \u0915\u094d\u092f\u093e \u0916\u093e\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u0914\u0930 \u0915\u094d\u092f\u093e \u0928\u0939\u0940\u0902.",
+      "url": "https://www.aajtak.in/lifestyle/news/story/dengue-diet-avoid-these-food-in-dengue-fever-it-will-be-danger-coffee-spicy-food-tlifg-1747314-2023-07-31",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202307/collage-maker-31-jul-2023-09-41-am-9563_0-sixteen_nine.jpg",
+      "publishedAt": "2023-07-31 03:37:13",
+      "content": "Dengue Diet: . , . , , . , . . . . (Spicy Food) . . . (Coffee) . , . (Avoid Non-vegetarian food) . . . (Coconut Water) . . . (Papaya leaf) . . . 30 ml . (Kiwi\u2026 [+14 chars]",
+      "retrievedAt": "2023-08-01 07:05:53.173162",
+      "internal_id": "15bc9a973d359dd53374beb55dc061d4167e5bb039e9dd245e44c64748e48d0f",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 777,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Express News Service",
+      "title": "Avoid roadside cut fruit, food, especially dairy products; use filtered water or bottled water or boiled water: Expert",
+      "description": "Using water from public tanks or contaminated groundwater taken out through hand pumps is the cause in semi-urban or rural areas.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/avoid-roadside-cut-fruit-dairy-products-filtered-water-bottled-water-boiled-water-expert-8868583/",
+      "urlToImage": "https://images.indianexpress.com/2023/07/roadside-fruits.jpg",
+      "publishedAt": "2023-07-31 02:39:54",
+      "content": "Monsoons bring a spurt in gastrointestinal infections due to bacteria, viruses, and protozoa. To make matters worse, malaria and dengue increase due to mosquitoes breeding on stagnant water. It is es\u2026 [+4154 chars]",
+      "retrievedAt": "2023-08-01 07:05:53.169078",
+      "internal_id": "16fe48cccdfa3e9ef76e6a15fe2d19ff621ce5279f3a54c79ffd8da5ce4ef0f4",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 781,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Peoplesreview.com.np",
+      "author": "peoples_12ad",
+      "title": "Dengue claims 8 lives in Dharan, over 2,300 affcted",
+      "description": "Kathmandu, 31 July: The monsoon season has hit the city of Dharan with an unexpected ferocity, not in the form of torrential downpours or floods, but through an alarming surge in dengue fever cases. Already, lives have been claimed by the outbreak, with the d\u2026",
+      "url": "https://www.peoplesreview.com.np/2023/07/31/dengue-claims-8-lives-in-dharan-over-2300-affcted/",
+      "urlToImage": "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2022/10/Dengue.jpg?fit=300%2C168&ssl=1",
+      "publishedAt": "2023-07-31 01:22:30",
+      "content": "Kathmandu, 31 July: The monsoon season has hit the city of Dharan with an unexpected ferocity, not in the form of torrential downpours or floods, but through an alarming surge in dengue fever cases. \u2026 [+594 chars]",
+      "retrievedAt": "2023-08-01 07:05:53.182955",
+      "internal_id": "db0a37a1ec5c58349fd1f56bd69ccf3a151841ee9efe980fe91323e1a2663117",
+      "publishedAtLabel": "Jul 31"
+    },
+    {
+      "id": 776,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WPXI Pittsburgh",
+      "author": "Wpxi.com News Staff",
+      "title": "Allegheny County Health Department beginning annual program to prevent rabies in raccoons",
+      "description": "The Allegheny County Health Department will begin a program that will help prevent rabies in raccoons.",
+      "url": "https://www.wpxi.com/news/local/allegheny-county-health-department-beginning-annual-program-prevent-rabies-raccoons/TJWGC6E4KRFGBGDUWEB4ZTKN2Y/",
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/euDnQQzqPU8MTEgC3jx-RY1CO08=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XWOUZD446BRZOZ3MUNQLECS534.jpg",
+      "publishedAt": "2023-07-30 20:30:09",
+      "content": "ALLEGHENY COUNTY, Pa. \u2014 The Allegheny County Health Department will begin a program that will help prevent rabies in raccoons. The program begins Monday and lasts until Sept. 1. Small bait packets \u2026 [+917 chars]",
+      "retrievedAt": "2023-08-01 07:05:52.464979",
+      "internal_id": "ebdbaba4ec2ffe746d1f236d28b543d3b7e16428d605fb92c9c1ccf54c4cb53a",
+      "publishedAtLabel": "Jul 30"
+    },
     {
       "id": 770,
       "query": [
@@ -3428,186 +3609,6 @@
       "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) alertou nesta sexta-feira para o n\u00famero de casos de dengue na Am\u00e9rica com o Brasil a liderar o n\u00famero de casos com 2,3 milh\u00f5es de ocorr\u00eancias e 769 mortes. \u201cA qu\u2026 [+986 chars]",
       "retrievedAt": "2023-07-23 07:05:19.092367",
       "internal_id": "00c09112b682a9cfade4da7ed74a7d8657bbd0794c780d7de8b98690d5076955",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 580,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Lisa Schlein)",
-      "title": "Dengue Mosquitoes Spreading Widely to More Regions, Countries",
-      "description": "The World Health Organization warns dengue fever is spreading to more regions and countries around the world due to the increased movement of people, urbanization, and climate-related issues. \"About half of the world's population is at risk of dengue,\" Rama\u2026",
-      "url": "https://www.voanews.com/a/dengue-mosquitoes-spreading-widely-to-more-regions-countries-/7191085.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-c0a8-0242-828a-08db8a24b087_cx0_cy8_cw0_w1200_r1.jpg",
-      "publishedAt": "2023-07-21 20:00:27",
-      "content": "GENEVA The World Health Organization warns dengue fever is spreading to more regions and countries around the world due to the increased movement of people, urbanization, and climate-related issues.\u2026 [+3468 chars]",
-      "retrievedAt": "2023-07-23 07:05:19.088965",
-      "internal_id": "1a66484f1276c4b52928ed559c8d9feb1be4a1dda8533f9db93ed7e1564564a2",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 582,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "nrk",
-      "source_name": "NRK",
-      "author": "NRK",
-      "title": "WHO advarer mot dengue-\u00f8kning",
-      "description": "Verdens helseorganisasjon (WHO) er bekymret over \u00f8kningen av denguefeber. Halvparten av verdens befolkning bor n\u00e5 p\u00e5 steder der de kan bli smittet av viruset. Siden \u00e5r 2000 har tilfeller av denguefeber \u00f8kt med \u00e5tte-gangeren. WHO ansl\u00e5r at 4,2 millioner mennes\u2026",
-      "url": "https://www.nrk.no/nyheter/who-advarer-mot-dengue-okning-1.16491361",
-      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.492/common/img/default.jpg",
-      "publishedAt": "2023-07-21 19:36:01",
-      "content": "21. juli2023kl.21:36Verdens helseorganisasjon (WHO) er bekymret over \u00f8kningen av denguefeber. Halvparten av verdens befolkning bor n\u00e5 p\u00e5 steder der de kan bli smittet av viruset. Siden \u00e5r 2000 har t\u2026 [+621 chars]",
-      "retrievedAt": "2023-07-23 07:05:19.095529",
-      "internal_id": "ebb61ab1b03b24baeffb8244aba7e4f4eff2a8ebe9ca798a6d69298163a7ec20",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 569,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Malaria No More",
-      "title": "Malaria No More Applauds the Senate Appropriations Committee\u2019s Approval of the FY24 State, Foreign Operations, and Related Programs Bill",
-      "description": "Washington, DC, July 21, 2023 (GLOBE NEWSWIRE) -- Today, as the Senate Committee on Appropriations approved its FY 2024 State, Foreign Operations, and Related Programs (SFOPS) appropriations bill, Malaria No More CEO Martin Edlund issued the following stateme\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/07/21/2709102/0/en/Malaria-No-More-Applauds-the-Senate-Appropriations-Committee-s-Approval-of-the-FY24-State-Foreign-Operations-and-Related-Programs-Bill.html",
-      "urlToImage": null,
-      "publishedAt": "2023-07-21 18:45:00",
-      "content": "Washington, DC, July 21, 2023 (GLOBE NEWSWIRE) -- Today, as the Senate Committee on Appropriations approved its FY 2024 State, Foreign Operations, and Related Programs (SFOPS) appropriations bill, Ma\u2026 [+2128 chars]",
-      "retrievedAt": "2023-07-22 19:05:02.436905",
-      "internal_id": "5b1e30be0d64ad2437e87dcd9fa5b12e4a72286c96f65fef07405760e9726980",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 566,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vozdeamerica.com",
-      "author": "vozdeamerica@voanews.com (Reuters)",
-      "title": "La OMS advierte de riesgo por dengue, el calentamiento global lleva casos a cerca de m\u00e1ximos hist\u00f3ricos",
-      "description": "La OMS indica que las tasas de dengue est\u00e1n aumentando en todo el mundo, y los casos registrados desde 2000 se han multiplicado por ocho, hasta alcanzar los 4,2 millones en 2022.",
-      "url": "https://www.vozdeamerica.com/a/la-oms-advierte-de-riesgo-dengue-calentamiento-global-casos-maximos-hist\u00f3ricos/7190870.html",
-      "urlToImage": "https://gdb.voanews.com/c15bece1-6bfa-43e8-b1a1-62d50aabc320_cx0_cy10_cw0_w1200_r1.jpg",
-      "publishedAt": "2023-07-21 18:24:22",
-      "content": "GINEBRA, SUIZA La Organizaci\u00f3n Mundial de la Salud advirti\u00f3 el viernes que los casos de dengue podr\u00edan acercarse este a\u00f1o a m\u00e1ximos hist\u00f3ricos, en parte debido a que el calentamiento global benefici\u2026 [+2647 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.639827",
-      "internal_id": "c05174f98a5b986828380af9e13987fd579913d61bac8e7c8cba1b619c201c6a",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 561,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Dengue nas Am\u00e9ricas: OMS alerta para n\u00famero de casos no 1\u00b0 semestre",
-      "description": "Brasil registrou 2,3 milh\u00f5es dos 3 milh\u00f5es de notifica\u00e7\u00f5es da doen\u00e7a registradas nos primeiros seis meses de 2023",
-      "url": "https://saude.ig.com.br/2023-07-21/oms-alerta-numero-casos-dengue-americas.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2023-07-21 18:11:59",
-      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) divulgou um relat\u00f3rio onde alerta para o n\u00famero de casos de dengue resgistrados dos pa\u00edses das Am\u00e9ricas no primeiro semestre de 2023. De acordo com a entidade, \u2026 [+1629 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.632405",
-      "internal_id": "eb1ccb67e154f641cac8828da1d9a37829f76e51ce129086f30b95255e2a6986",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 562,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "Gefahr durch Dengue-Virus steigt: Tropische Stechm\u00fccken sind auf dem Vormarsch",
-      "description": "Wer im Sommer erkrankt, sollte die Gefahr tropischer Krankheiten im Blick behalten, etwa das Dengue-Virus. Denn tropische Stechm\u00fccken breiten sich aktuell weltweit aus. Auch in europ\u00e4ischen Urlaubsl\u00e4ndern gab es bereits F\u00e4lle.",
-      "url": "https://www.n-tv.de/wissen/Tropische-Stechmuecken-sind-auf-dem-Vormarsch-article24277761.html",
-      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop24277769/8041328756-cImg_16_9-w1200/bcc53f3cc7da7eac24504e7823620d7c.jpg",
-      "publishedAt": "2023-07-21 18:01:52",
-      "content": "Wer im Sommer erkrankt, sollte die Gefahr tropischer Krankheiten im Blick behalten, etwa das Dengue-Virus. Denn tropische Stechm\u00fccken breiten sich aktuell weltweit aus. Auch in europ\u00e4ischen Urlaubsl\u00e4\u2026 [+2448 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.633928",
-      "internal_id": "e3c41a12487659453f74f72323683733f02cd74c37430930c93638318574b2c5",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 564,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nos.nl",
-      "author": null,
-      "title": "WHO: risico op recordaantal dengue-besmettingen door opwarming aarde",
-      "description": "Het aantal gevallen van dengue ofwel knokkelkoorts kan dit jaar wereldwijd een recordhoogte bereiken, deels vanwege klimaatverandering. Daarvoor waarschuwt de Wereldgezondheidsorganisatie (WHO). De opwarming van de aarde is gunstig voor de muggen die de ziekt\u2026",
-      "url": "https://nos.nl/l/2483697",
-      "urlToImage": "https://cdn.nos.nl/image/2023/07/21/989554/1024x576a.jpg",
-      "publishedAt": "2023-07-21 17:50:51",
-      "content": "Het aantal gevallen van dengue ofwel knokkelkoorts kan dit jaar wereldwijd een recordhoogte bereiken, deels vanwege klimaatverandering. Daarvoor waarschuwt de Wereldgezondheidsorganisatie (WHO). De o\u2026 [+2914 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.636532",
-      "internal_id": "b1815ad206740daa90fb8d17a13a9cd0c5ee0cbcde61baf8011dfc5993cb32ec",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 570,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Idean un \"mapamundi\" interactivo de los mosquitos para ayudar a combatir la malaria",
-      "description": "El mapa cuenta con m\u00e1s de medio mill\u00f3n de im\u00e1genes aportadas al sistema por \"cient\u00edficos ciudadanos\u201d.",
-      "url": "https://www.montevideo.com.uy/Salud/Idean-un-mapamundi-interactivo-de-los-mosquitos-para-ayudar-a-combatir-la-malaria-uc860341",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202306/_W933_80/847210.jpeg",
-      "publishedAt": "2023-07-21 17:36:00",
-      "content": "Dos investigadores de Florida han ideado una aplicaci\u00f3n con una suerte de \"mapamundi\" interactivo de la poblaci\u00f3n mundial de mosquitos para ayudar a combatir las enfermedades que transmiten, como \u2026 [+4041 chars]",
-      "retrievedAt": "2023-07-22 19:05:02.440638",
-      "internal_id": "fbc30f43d8379b145fa9c6f817807f0978776275f8516333a51d038359a1c3c6",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 567,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "WHO warns of dengue risk as global warming pushes cases near historic highs - Reuters",
-      "description": "WHO warns of dengue risk as global warming pushes cases near historic highsReuters View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171440164",
-      "urlToImage": null,
-      "publishedAt": "2023-07-21 17:14:16",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.641748",
-      "internal_id": "4e9a3f66201f27d4f937854a88a8f82b081e7a184af90d48ea938e1289afa87f",
-      "publishedAtLabel": "Jul 21"
-    },
-    {
-      "id": 559,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "PankajYadav",
-      "title": "Delhi gov't bans sale of Aspirin, Ibuprofen, Diclofenac drugs amid fears of Dengue outbreak",
-      "description": "NEW DELHI, July 21 (Xinhua) -- The Delhi government on Friday banned the sale of certain drugs, including Aspirin, Ibuprofen and Diclofenac without a doctor's prescription, saying these medicines cause the destruction of platelets in human blood which could b\u2026",
-      "url": "https://www.thestar.com.my/news/world/2023/07/22/delhi-gov039t-bans-sale-of-aspirin-ibuprofen-diclofenac-drugs-amid-fears-of-dengue-outbreak",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-07-21 16:48:00",
-      "content": "NEW DELHI, July 21 (Xinhua) -- The Delhi government on Friday banned the sale of certain drugs, including Aspirin, Ibuprofen and Diclofenac without a doctor's prescription, saying these medicines cau\u2026 [+1105 chars]",
-      "retrievedAt": "2023-07-22 19:05:01.628733",
-      "internal_id": "1a7b622b10da37b12b3f0d4308cf4cb68a762a7fe85a751526c3e4862e882d62",
       "publishedAtLabel": "Jul 21"
     }
   ]
