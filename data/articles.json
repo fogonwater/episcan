@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-08-01 19:05",
+  "last_updated": "2023-08-02 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 22,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 808,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": null,
+      "title": "Pockets of vaccine vulnerability threaten Mass. public health",
+      "description": "One individual carrying measles to a school with rates below the so-called network immunity threshold could set off a communitywide outbreak.",
+      "url": "https://www.bostonglobe.com/2023/08/01/opinion/letters-to-the-editor-vaccines/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9yF0NhEyj28bf3MoDeo-VoouhLU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/BUJYUX5NVJST7344RTMG3SCBIE.jpg",
+      "publishedAt": "2023-08-01 06:20:00",
+      "content": "Re Vaccine religious exemption at issue: Parents on both sides bring concerns (Metro, July 27): While Massachusetts may have one of the best vaccination rates in the country, according to the Centers\u2026 [+1017 chars]",
+      "retrievedAt": "2023-08-02 07:05:33.931048",
+      "internal_id": "07ac92feecdcf8fd4855d915415eab81aa6f1970410c44c9aadc531d5787165b",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 810,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Interview : HIV-Patienten: Neue Studien zu Mpox, STI und PrEP - \u00c4rzte Zeitung",
+      "description": "Interview : HIV-Patienten: Neue Studien zu Mpox, STI und PrEP \u00c4rzte Zeitung",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmFlcnp0ZXplaXR1bmcuZGUvTWVkaXppbi9ISVYtUGF0aWVudGVuLU5ldWUtU3R1ZGllbi16dS1NcG94LVNUSS11bmQtUHJFUC00NDE2MzkuaHRtbNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-01 02:15:19",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-02 07:05:35.614359",
+      "internal_id": "7a9302baa2a00a71b1485ec2dce3bb747c2304e785a03f4a3e92aab3e11c8f31",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 809,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Publico.pt",
+      "author": "publico@publico.pt",
+      "title": "Voltaram os casos de mpox. \u00c9 motivo de preocupa\u00e7\u00e3o?",
+      "description": "A Direc\u00e7\u00e3o-Geral da Sa\u00fade confirma que h\u00e1 49 casos de mpox desde o in\u00edcio de Junho. A maioria das pessoas infectadas reside na regi\u00e3o de Lisboa. Os primeiros casos remontam a 1958 em macacos.",
+      "url": "https://www.publico.pt/2023/07/31/ciencia/noticia/voltaram-casos-mpox-motivo-preocupacao-2058749",
+      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1830255?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "publishedAt": "2023-07-31 20:00:00",
+      "content": "Depois da quebra significativa nos casos confirmados de mpox (v\u00edrus monkeypox, anteriormente conhecido como var\u00edola-dos-macacos) desde final de Agosto do ano passado, esta infec\u00e7\u00e3o volta agora \u00e0s not\u2026 [+548 chars]",
+      "retrievedAt": "2023-08-02 07:05:35.611951",
+      "internal_id": "04abde138cd535aa10a39f06267a613059c1657aa92c4b16865fef204c468bad",
+      "publishedAtLabel": "Jul 31"
+    },
     {
       "id": 799,
       "query": [
@@ -3557,60 +3611,6 @@
       "retrievedAt": "2023-07-24 07:05:52.411893",
       "internal_id": "9dbaefad232ee9edecff32596aa8667bedf33e398e9657a751a4a583d8443032",
       "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 606,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "July records deadliest month as 109 dengue patients die; 20,465 cases in Bangladesh - Devdiscourse",
-      "description": "July records deadliest month as 109 dengue patients die; 20,465 cases in Bangladesh Devdiscourse Deadly dengue sweeps Bangladesh, risks deepening economic pain Nikkei Asia Bangladesh logs 2,242 hospitalisations from dengue in a d\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5kZXZkaXNjb3Vyc2UuY29tL2FydGljbGUvaW50ZXJuYXRpb25hbC8yNTMzMzYyLWp1bHktcmVjb3Jkcy1kZWFkbGllc3QtbW9udGgtYXMtMTA5LWRlbmd1ZS1wYXRpZW50cy1kaWUtMjA0NjUtY2FzZXMtaW4tYmFuZ2xhZGVzaNIBkAFodHRwczovL3d3dy5kZXZkaXNjb3Vyc2UuY29tL2FydGljbGUvaW50ZXJuYXRpb25hbC8yNTMzMzYyLWp1bHktcmVjb3Jkcy1kZWFkbGllc3QtbW9udGgtYXMtMTA5LWRlbmd1ZS1wYXRpZW50cy1kaWUtMjA0NjUtY2FzZXMtaW4tYmFuZ2xhZGVzaD9hbXA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-23 02:17:05",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-24 07:05:52.392751",
-      "internal_id": "1b5531010c21cbb7aa0cece9945088efc4241ee68b9b770ddcf4d4ff32e16429",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 612,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "People on HIV meds have 'almost zero' chance of spreading virus via sex once levels are low - Livescience.com",
-      "description": "People on HIV meds have 'almost zero' chance of spreading virus via sex once levels are low Livescience.com Day 1 at IAS 2023 Brian Minalga and Dr. Carl Dieffenbach Discuss Mpox & More HIV gov The risk of sexual transmission of H\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5saXZlc2NpZW5jZS5jb20vaGVhbHRoL2hpdi9wZW9wbGUtb24taGl2LW1lZHMtaGF2ZS1hbG1vc3QtemVyby1jaGFuY2Utb2Ytc3ByZWFkaW5nLXZpcnVzLXZpYS1zZXgtb25jZS1sZXZlbHMtYXJlLWxvd9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-22 23:01:23",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-24 07:05:55.030623",
-      "internal_id": "2c321d4dfbe6d3724dd87665f745ae1652c3db969a28fb50b20f6fbdc391706a",
-      "publishedAtLabel": "Jul 22"
-    },
-    {
-      "id": 604,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": "Jornal i",
-      "title": "Mpox. Novo surto com 37 casos em Lisboa e Vale do Tejo",
-      "description": "Quase mil diagn\u00f3sticos num ano. &etilde;",
-      "url": "https://ionline.sapo.pt/artigo/803501/mpox-novo-surto-com-37-casos-em-lisboa-e-vale-do-tejo?seccao=Portugal_i",
-      "urlToImage": "https://cdn1.newsplex.pt/media/2023/7/22/fb/856318.jpg",
-      "publishedAt": "2023-07-22 17:01:44",
-      "content": "DGS revelou que desde junho foram detetados 37 novos casos de infe\u00e7\u00e3o pelo v\u00edrus mpox, num novo surto da doen\u00e7a registado na regi\u00e3o de Lisboa e Vale do Tejo. \"Ap\u00f3s tr\u00eas meses sem novos casos de mpox\u2026 [+1188 chars]",
-      "retrievedAt": "2023-07-23 19:05:11.278304",
-      "internal_id": "b3d56d0a7186b8546ad57f8d592da531bf7a7baaec28874cd61ded6eb3e13db6",
-      "publishedAtLabel": "Jul 22"
     }
   ]
 }
