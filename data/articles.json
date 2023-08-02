@@ -1,8 +1,296 @@
 {
-  "last_updated": "2023-08-02 07:05",
+  "last_updated": "2023-08-02 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 3,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 813,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Pedro Borges Spadoni",
+      "title": "Agora farm\u00e1cias podem fazer quase 50 tipos de testes; veja lista",
+      "description": "Entre os testes que est\u00e3o liberados nas farm\u00e1cias est\u00e3o dengue e hepatite; at\u00e9 ent\u00e3o, s\u00f3 dava para fazer testes de Covid e glicemia O post Agora farm\u00e1cias podem fazer quase 50 tipos de testes; veja lista apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/08/01/medicina-e-saude/agora-farmacias-podem-fazer-quase-50-tipos-de-testes/",
+      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/08/Destaque-testes-de-farmacia.jpg",
+      "publishedAt": "2023-08-01 17:40:58",
+      "content": "As farm\u00c3\u00a1cias poder\u00c3\u00a3o realizar pelo menos 46 tipos de EAC (exames de an\u00c3\u00a1lises cl\u00c3\u00adnicas) a partir desta ter\u00c3\u00a7a-feira (1\u00c2\u00b0). At\u00c3\u00a9 ent\u00c3\u00a3o, a Anvisa (Ag\u00c3\u00aancia Nacional de Vigil\u00c3\u00a2ncia Sanit\u00c3\u00a1ria) s\u00c3\u00b3 l\u2026 [+5282 chars]",
+      "retrievedAt": "2023-08-02 19:05:23.044072",
+      "internal_id": "15a5b661801015bc3cb5bca026c7bed8a8d4af5159329305407acb62ee91e600",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 822,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dead mice and frozen blood labeled MALARIA: horrors in Cali lab - Daily Mail",
+      "description": "Dead mice and frozen blood labeled MALARIA: horrors in Cali lab Daily Mail Illegal lab in California carried bioengineered mice, infectious agents USA TODAY Mysterious Chinese Biolab Uncovered In California | Will The World Deman\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvaGVhbHRoL2FydGljbGUtMTIzNTg0NDcvRmlyc3QtcGhvdG9zLUNoaW5lc2UtcnVuLWxhYi1DYWxpZm9ybmlhLWV4cGVyaW1lbnRpbmctZGFuZ2Vyb3VzLXZpcnVzZXMtZW5naW5lZXJpbmctbWljZS5odG1s0gGVAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9oZWFsdGgvYXJ0aWNsZS0xMjM1ODQ0Ny9hbXAvRmlyc3QtcGhvdG9zLUNoaW5lc2UtcnVuLWxhYi1DYWxpZm9ybmlhLWV4cGVyaW1lbnRpbmctZGFuZ2Vyb3VzLXZpcnVzZXMtZW5naW5lZXJpbmctbWljZS5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-01 17:06:04",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-02 19:05:23.734333",
+      "internal_id": "c8afdfea65f12edb37fe898c7edab893c1d44dc171edab3ad3eb380cc96bd4ed",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 816,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0939\u0941\u0906 \u0916\u0924\u0930\u0928\u093e\u0915, \u0915\u093e\u0930\u094b\u092c\u093e\u0930\u0940 \u0915\u0947 \u092c\u0947\u091f\u0947 \u0906\u092f\u0941\u0937 \u0917\u094b\u092f\u0932 \u0915\u0940 \u092e\u094c\u0924",
+      "description": "Dengue News: \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u091c\u0939\u093e\u0902 \u092c\u093e\u0922\u093c \u0938\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u0930\u093e\u0939\u0924 \u092e\u093f\u0932\u0940 \u0924\u094b \u0935\u0939\u0940\u0902 \u0905\u092c \u0921\u0947\u0902\u0917\u0942 \u0915\u0940 \u0926\u0938\u094d\u0924\u0915 \u0928\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u0927\u0921\u093c\u0915\u0928\u0947\u0902 \u092c\u0922\u093c\u093e \u0926\u0940 \u0939\u0948\u0902\u0964 \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092e\u094c\u0924 \u0939\u094b \u0917\u0908 \u0939\u0948\u0964",
+      "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/businessman-son-ayush-goyal-dies-of-dengue-in-ghaziabad/articleshow/102327095.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-27124,msid-102327091/navbharat-times.jpg",
+      "publishedAt": "2023-08-01 16:44:18",
+      "content": ": 20 3 , , , 20 3 , , , , . 21 , -1 27 , . 29 , 150000 30 6:38 31 - Navbharat Times News App: - , , , , -... NBT , ... !Adv: 40% , , BJP - , 20 \u2026 [+247 chars]",
+      "retrievedAt": "2023-08-02 19:05:23.051603",
+      "internal_id": "1c4b3dbe78b44423bdbd3b320f6023cd902763ab1790d3be067e2332edc03dd6",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 823,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "info@who.int (WHO)",
+      "title": "Africa: WHO Launches 'One Life, One Liver' Campaign On World Hepatitis Day",
+      "description": "Press Release - To mark World Hepatitis Day, WHO is calling for scaling up testing and treatment for viral hepatitis, warning that the disease could kill more people than malaria, tuberculosis, and HIV combined by 2040, if current infection trends continue.",
+      "url": "https://allafrica.com/stories/202308010526.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-08-01 15:29:51",
+      "content": "To mark World Hepatitis Day, WHO is calling for scaling up testing and treatment for viral hepatitis, warning that the disease could kill more people than malaria, tuberculosis, and HIV combined by 2\u2026 [+4430 chars]",
+      "retrievedAt": "2023-08-02 19:05:23.739902",
+      "internal_id": "da8751bcfb1d31065c08b2170044e70f9c967c60ffe4f1363941a43e1ec47be7",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 820,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09ac\u09bf\u098f\u09b8\u098f\u09ae\u098f\u09ae\u0987\u0989\u09a4\u09c7 \u09ad\u09cb\u0997\u09be\u09a8\u09cd\u09a4\u09bf \u0995\u09ae\u09be\u09a4\u09c7 \u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u099a\u09be\u09b2\u09c1",
+      "description": "\u09ac\u09bf\u098f\u09b8\u098f\u09ae\u098f\u09ae\u0987\u0989\u09a4\u09c7 \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be \u09a8\u09bf\u09a4\u09c7 \u0986\u09b0 \u09b8\u0995\u09be\u09b2\u09c7 \u098f\u09b8\u09c7 \u09b2\u09be\u0987\u09a8\u09c7 \u09a6\u09be\u0981\u09dc\u09bf\u09df\u09c7 \u09ad\u09bf\u09dc\u09c7\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u099f\u09bf\u0995\u09c7\u099f \u0995\u09be\u099f\u09a4\u09c7 \u09b9\u09ac\u09c7 \u09a8\u09be\u0964",
+      "url": "https://bangla.thedailystar.net/health/health-care/hospital/news-501821",
+      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/08/01/untitled_design_-_2023-08-01t195048.966.png",
+      "publishedAt": "2023-08-01 13:53:47",
+      "content": "Ten more dengue patients have died and 2,584 others have been hospitalised in 24 hours preceding this morning",
+      "retrievedAt": "2023-08-02 19:05:23.061181",
+      "internal_id": "34fcff4cb836edb17ac8ae140b55e45590fa06a3a80f558245832d7dd93d819c",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 812,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Telegraph.co.uk",
+      "author": "Sarah Newey",
+      "title": "How surging \u2018breakbone fever\u2019 threatens mothers and their unborn babies",
+      "description": "Emerging research finds the disease can have fatal consequences or lifelong complications for both mothers and their unborn children",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/dengue-breakbone-fever-pregnancy-risk-mosquitos/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/global-health/2023/08/01/TELEMMGLPICT000342390439_16908821561210_trans_NvBQzQNjv4BqFYpEU5v-3t5SBAaEIdSmlBBVvBxOsWcvndpfMlDIAzo.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2023-08-01 13:27:07",
+      "content": "More infections, more complications Dengue, also known as breakbone fever because intense muscle pain is one of the symptoms, is a mosquito-borne virus common across much of Asia, Latin America and \u2026 [+3043 chars]",
+      "retrievedAt": "2023-08-02 19:05:23.041142",
+      "internal_id": "3860b34723177f63339225e53127ae4c709a113372087232d7378c98d557e088",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 814,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": null,
+      "title": "",
+      "description": "Lista soma mais de 40 tipos de an\u00e1lises, incluindo colesterol, hepatite, vitamina D, HIV, dengue, urina e fezes...",
+      "url": "https://www.band.uol.com.br/radio-bandeirantes/noticias/farmacias-agora-podem-fazer-exames-de-analises-clinicas-saiba-mais-16621051",
+      "urlToImage": "https://img.band.uol.com.br/image/2023/03/14/exame-de-sangue-17850.jpg",
+      "publishedAt": "2023-08-01 13:07:55",
+      "content": "A lista soma mais de 40 tipos de an\u00e1lises, incluindo colesterol, hepatite, vitamina D, HIV, dengue, urina e fezes. Para realizar os exames, \u00e9 preciso que a farm\u00e1cia tenha uma sala pr\u00f3pria e profissio\u2026 [+31 chars]",
+      "retrievedAt": "2023-08-02 19:05:23.047016",
+      "internal_id": "1d16ff2a2f0eb55c856ae67bd277c67ce94cb58c07ae837c6877d5ee6da537d8",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 824,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thechronicle.com.gh",
+      "author": "admin",
+      "title": "House of Reps committee to amend existing laws in fight against HIV/Aids, Malaria",
+      "description": "The House of Representatives Committee on HIV, Aids, Tuberculosis and Malaria has pledged to make necessary amendments to existing laws to ensure the fight against Malaria, HIV/Aids and Tuberculosis is enhanced. The Chairman of the Committee, Amobi Ogah state\u2026",
+      "url": "https://thechronicle.com.gh/house-of-reps-committee-to-amend-existing-laws-in-fight-against-hiv-aids-malaria/",
+      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2022/01/Untitled-design-5-6.jpg",
+      "publishedAt": "2023-08-01 12:54:13",
+      "content": "The House of Representatives Committee on HIV, Aids, Tuberculosis and Malaria has pledged to make necessary amendments to existing laws to ensure the fight against Malaria, HIV/Aids and Tuberculosis \u2026 [+1647 chars]",
+      "retrievedAt": "2023-08-02 19:05:23.743002",
+      "internal_id": "0dcb3cdc05af3c5a84162e0be828a23b5cc11e5533429757e964a0b843483db4",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 815,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Farm\u00e1cias habilitadas podem realizar exames cl\u00ednicos",
+      "description": "Com a mudan\u00e7a, a lista de exames cl\u00ednicos para triagem passa de mais de 40 tipos, como o do ant\u00edgeno NS1 para triagem da dengue, por exemplo",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/farmacias-habilitadas-podem-realizar-exames-clinicos/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/05/11085957/Farmacia_UBS_7_Foto-Agencia-Brasilia_2-1536x1152-1.jpeg",
+      "publishedAt": "2023-08-01 12:17:12",
+      "content": "Farm\u00e1cias agora est\u00e3o autorizadas a realizar coletas, exames e an\u00e1lises para o diagn\u00f3stico de doen\u00e7as. A resolu\u00e7\u00e3o que atualiza as normas entrou em vigor nesta ter\u00e7a-feira (1\u00ba). Entre as principais m\u2026 [+2751 chars]",
+      "retrievedAt": "2023-08-02 19:05:23.049576",
+      "internal_id": "e06d99df871e6f049532777f7053e2689079b9d482c04ae80c7a5f6c349d026c",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 821,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue: 10 districts account for 87% of infections",
+      "description": "KATHMANDU: The country is facing a significant surge in dengue fever cases, with more than 5,000 people infected, as reported by the Epidemiology and Disease Control Division. The situation is particularly concerning in Sunsari district, which alone accounts \u2026",
+      "url": "https://english.khabarhub.com/2023/01/312812/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-08-01 12:15:53",
+      "content": "KATHMANDU: The country is facing a significant surge in dengue fever cases, with more than 5,000 people infected, as reported by the Epidemiology and Disease Control Division. The situation is parti\u2026 [+1625 chars]",
+      "retrievedAt": "2023-08-02 19:05:23.063628",
+      "internal_id": "f9bab2d335be134ac79326a642d8a6f357eb93205be4dd58378c8c52cff1b865",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 825,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Rhiannon Williams",
+      "title": "The Download: China\u2019s monkeypox crisis, and fighting AI photo manipulation",
+      "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. China is suddenly dealing with another public health crisis: mpox The Chinese government is battling a new public health \u2026",
+      "url": "https://www.technologyreview.com/2023/08/01/1077084/the-download-chinas-monkeypox-crisis-and-fighting-ai-photo-manipulation/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2023/07/GettyImages-1457686356.jpeg?resize=1200,600",
+      "publishedAt": "2023-08-01 12:10:00",
+      "content": "This story is from The Algorithm, Melissas weekly AI newsletter. Sign up to receive it in your inbox every Monday. The must-reads Ive combed the internet to find you todays most fun/important/scary\u2026 [+1468 chars]",
+      "retrievedAt": "2023-08-02 19:05:24.657673",
+      "internal_id": "a5cce727e1c49af69b6807300f82eb57577e039fa467a7ad28b59c5ea78e5acc",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 811,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: Measles, mumps and rubella: lab-confirmed cases in England 2023",
+      "description": "Quarterly reports, with commentary, on cases confirmed by UK Health Security Agency's Virus Reference Department or national routine laboratory testing (mumps only).",
+      "url": "https://www.gov.uk/government/publications/measles-mumps-and-rubella-lab-confirmed-cases-in-england-2023",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+      "publishedAt": "2023-08-01 11:02:34",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2023-08-02 19:05:22.602431",
+      "internal_id": "842f19239ab79c0d2b4024cd7c7e94961598048f6cc6e2138f34ce1189104cb9",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 817,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Jan Martinek",
+      "title": "V cizin\u011b pozor na kom\u00e1ry, varuje odborn\u00edk",
+      "description": "P\u0159ednosta kliniky infek\u010dn\u00ed a cestovn\u00ed medic\u00edny v pra\u017esk\u00e9m Motole Milan Troj\u00e1nek Pr\u00e1vu \u0159ekl, na jak\u00e9 nemoci by si \u010ce\u0161i m\u011bli na cest\u00e1ch d\u00e1vat pozor.",
+      "url": "https://www.novinky.cz/clanek/cestovani-v-cizine-pozor-na-komary-varuje-odbornik-40439275",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_QR_3/pui0W/komar.jpeg?fl=cro,0,82,1800,1012%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2023-08-01 11:02:00",
+      "content": "V Motole le\u00ed pacientka s horekou dengue. Letos si tuto nemoc dovezlo z exotick\u00fdch destinac\u00ed pes dvacet ech. Jak z\u00e1van\u00e1 je tato choroba? Spolu s mal\u00e1ri\u00ed je to jedna z nejastj\u00edch importovan\u00fdch tropick\u2026 [+8714 chars]",
+      "retrievedAt": "2023-08-02 19:05:23.055208",
+      "internal_id": "8cf3f13a86db90fa657f17c06076142c4a9d1f85c24cf27bb1772f2909efd713",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 818,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Prameya.com",
+      "author": "Prameya",
+      "title": "dengue diet avoid these food in dengue fever it will be danger",
+      "description": "Dengue diet avoid these food in dengue fever it will be danger. which food will be take to increasing immunity power.",
+      "url": "https://www.prameya.com/dengue-diet-avoid-these-food-in-dengue-fever-it-will-be-danger/",
+      "urlToImage": "http://www.prameya.com/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-01-at-2.58.18-PM.jpeg",
+      "publishedAt": "2023-08-01 10:27:52",
+      "content": "PRAMEYA Prameya News Portal, Prameya Daily, Odisha Latest News, Odisha Current Headlines, Odisha News Online",
+      "retrievedAt": "2023-08-02 19:05:23.057618",
+      "internal_id": "79a231a10b28333e11ca866368b8cee7224dc4e7dd447d481c45083df79dd4b4",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 819,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Bangladesh reports over 200 dengue deaths in July",
+      "description": "DHAKA, Aug. 1 (Xinhua) -- Health officials confirmed four more dengue deaths in Bangladesh on Monday",
+      "url": "http://en.people.cn/n3/2023/0801/c90000-20052612.html",
+      "urlToImage": null,
+      "publishedAt": "2023-08-01 09:05:57",
+      "content": "(Xinhua) 16:51, August 01, 2023 DHAKA, Aug. 1 (Xinhua) -- Health officials confirmed four more dengue deaths in Bangladesh on Monday, bringing the death toll to 204 in July. According to the figure\u2026 [+892 chars]",
+      "retrievedAt": "2023-08-02 19:05:23.059684",
+      "internal_id": "525f5c7f13fc6e6970c882def51647bbbd599c550414ce5103be051a794250de",
+      "publishedAtLabel": "Aug 1"
+    },
+    {
+      "id": 826,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Zeyi Yang",
+      "title": "China is suddenly dealing with another public health crisis: mpox",
+      "description": "Hazmat suits, PCR tests, quarantines, and contact tracing\u2014it was hard not to feel d\u00e9j\u00e0 vu last week when China\u2019s Center for Disease Control and Prevention published new guidance on how to contain a disease outbreak. But what was happening was not another cov\u2026",
+      "url": "https://www.technologyreview.com/2023/08/01/1077047/china-public-health-crisis-mpox-outbreak/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2023/07/GettyImages-1457686356.jpeg?resize=1200,600",
+      "publishedAt": "2023-08-01 09:00:00",
+      "content": "To efficiently stop the spread of mpox, public health officials need to strike a delicate balance between destigmatizing the disease by dispelling the idea that it affects only gay men and prioritizi\u2026 [+2035 chars]",
+      "retrievedAt": "2023-08-02 19:05:24.659900",
+      "internal_id": "0d44b6ac1b491b55478986a605248f569befb9ec406e66ba4008b916b850f6c8",
+      "publishedAtLabel": "Aug 1"
+    },
     {
       "id": 808,
       "query": [
@@ -3322,295 +3610,6 @@
       "retrievedAt": "2023-07-25 07:05:37.704311",
       "internal_id": "c9fad87bae4809610ce84aa0f83a26ba09009b207e8d71ff6d008048f94e7c15",
       "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 629,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Rapid Epidemic Expansion of Chikungunya Virus East/Central/South African Lineage, Paraguay",
-      "description": "Epidemic Expansion of Chikungunya Virus, Paraguay",
-      "url": "https://wwwnc.cdc.gov/eid/article/29/9/23-0523_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-07-24 04:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Chikungunya is a mosquitob\u2026 [+11569 chars]",
-      "retrievedAt": "2023-07-25 07:05:39.199874",
-      "internal_id": "8f8784435c5aa276340ad881122d8897ac65a141bb5d38960c7402b537435439",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 624,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Politics.com.ph",
-      "author": "akosimuzang",
-      "title": "Garin questions Ombudsman move on Dengvaxia plaint",
-      "description": "Iloilo Rep. Janette Garin wants the Ombudsman to look into the complaint filed against her and four others regarding anti-dengue vaccine Dengvaxia. The post Garin questions Ombudsman move on Dengvaxia plaint first appeared on Politiko Visayas.",
-      "url": "https://visayas.politics.com.ph/garin-questions-ombudsman-move-on-dengvaxia-plaint/",
-      "urlToImage": "https://visayas.politics.com.ph/wp-content/uploads/2023/07/dengvaxia.jpg",
-      "publishedAt": "2023-07-24 02:36:41",
-      "content": "Former Health secretary and now Iloilo 1st District Rep. Janette Garin wants the Ombudsman to look into the complaint filed against her and four others regarding Dengvaxia, a vaccine against dengue. \u2026 [+1143 chars]",
-      "retrievedAt": "2023-07-25 07:05:37.720352",
-      "internal_id": "44cf18313706fa8f31a5249c31891ce94def504cd84b60102a132ebe254bcf16",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 626,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Huffingtonpost.es",
-      "author": "Jorge \u00c1lvarez",
-      "title": "El s\u00faper caracol de la meningitis llega a Espa\u00f1a: \"Si los ves no los toques y ll\u00e1manos enseguida\"",
-      "description": "Puede llegar a medir hasta 30 cent\u00edmetros, pero han sido suficientes para que se hayan puesto en alerta las autoridades sanitarias y medioambientales de Tenerife. Se trata del caracol gigante africano (Lissachatina fulica), una especie invasora po\u2026",
-      "url": "https://www.huffingtonpost.es/life/salud/el-super-caracol-meningitis-llega-espana-si-ves-toques-llamanos-enseguida.html",
-      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2023/07/24/ejemplar-de-caracol-africano-gigante.jpeg",
-      "publishedAt": "2023-07-24 01:40:06",
-      "content": "Puede llegar a medir hasta 30 cent\u00edmetros, pero han sido suficientes para que se hayan puesto en alerta las autoridades sanitarias y medioambientales de Tenerife. Se trata del caracol gigante african\u2026 [+2095 chars]",
-      "retrievedAt": "2023-07-25 07:05:38.038212",
-      "internal_id": "206b975c7b690d02db4c350d4beb5152d43be8885f58040b111acc3e66357172",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 627,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Metafilter.com",
-      "author": "aleph",
-      "title": "New mRNA vaccine for Malaria",
-      "description": "It stops it in the liver after the infection sets in there. That new mRNA vaccines they developed in the COVID days has now been tweaked to do Malaria. It's still early. Australian scientists developed an mRNA-based vaccine that effectively stimulates prot\u2026",
-      "url": "https://www.metafilter.com/200090/New-mRNA-vaccine-for-Malaria",
-      "urlToImage": "http://cdn.mefi.us/images/mefi/apple-touch-icon.png",
-      "publishedAt": "2023-07-23 22:37:03",
-      "content": "MetaFilter is a weblog that anyone can contribute a link or a comment to. A typical weblog is one person posting their thoughts on the unique things they find on the web. This website exists to break\u2026 [+120 chars]",
-      "retrievedAt": "2023-07-25 07:05:38.515941",
-      "internal_id": "6be07fbcea40f0129cd6f7e053aa44476bbd6041d21363c94e1ed089ebd860b6",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 628,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Metafilter.com",
-      "author": "buffy12",
-      "title": "Twitter rebrand to X imminent",
-      "description": "Twitter is being rebranded as X - The Verge X.com is now redirecting to Twitter, and their internal email systems will no longer use the Twitter domain.",
-      "url": "https://www.metafilter.com/200089/Twitter-rebrand-to-X-imminent",
-      "urlToImage": "http://cdn.mefi.us/images/mefi/apple-touch-icon.png",
-      "publishedAt": "2023-07-23 21:31:39",
-      "content": "\u00ab Older Hard to swallow | New mRNA vaccine for Malaria Newer \u00bb",
-      "retrievedAt": "2023-07-25 07:05:38.518730",
-      "internal_id": "6e16f7da558bf965fd0923499b04deb9957b8a8c8d810920b46b7acbf2c6bafa",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 621,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "People on HIV meds have 'almost zero' chance of spreading virus via sex once levels are low - Livescience.com",
-      "description": "People on HIV meds have 'almost zero' chance of spreading virus via sex once levels are lowLivescience.com Day 1 at IAS 2023 Brian Minalga and Dr. Carl Dieffenbach Discuss Mpox & MoreHIV gov The risk of sexual transmission of HIV in individuals with low-level\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171452490",
-      "urlToImage": null,
-      "publishedAt": "2023-07-23 17:32:33",
-      "content": "\"Be *excellent* to each other.\" -- Bill, or Ted, in Bill and Ted's Excellent Adventure",
-      "retrievedAt": "2023-07-24 19:05:08.415151",
-      "internal_id": "dd8fdcc41a37ac1489865071f71c41985d46f3e11e8b3711a2ac73df893a7bc1",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 614,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ynetnews",
-      "author": "Attila Somfalvi, Nir Cohen",
-      "title": "Dengue fever outbreak in Egypt worries Israel",
-      "description": "The disease, whose symptoms can include extreme fever leading to immobility and loss of appetite, is mainly transmitted via mosquitos which are prevalent in Israel",
-      "url": "https://www.ynetnews.com/health_science/article/skpauqc53",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2023/07/23/ryzFnFI9ch/ryzFnFI9ch_0_33_1000_563_0_large.jpg",
-      "publishedAt": "2023-07-23 14:13:30",
-      "content": "The number of dengue fever cases worldwide is expected to reach record levels according to the World Health Organization (WHO), after a recent outbreak was reported in Egypt. The Asian tiger mosquito\u2026 [+3607 chars]",
-      "retrievedAt": "2023-07-24 19:05:06.514900",
-      "internal_id": "7e611890ccebc1901086f7cb750ae1dd99e029e6a692885edd09f1b06b1eb9c6",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 617,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Numerama",
-      "author": "Yannick Simonin",
-      "title": "\u00c0 quoi faut-il s\u2019attendre cette ann\u00e9e pour le virus de la dengue en France ?",
-      "description": "La France m\u00e9tropolitaine doit aussi faire face \u00e0 la maladie de la dengue. Quelques dizaines de cas ont \u00e9t\u00e9 rep\u00e9r\u00e9s en 2022, bien plus que les contaminations habituelles. Quel sera le sc\u00e9nario pour 2023 ?",
-      "url": "https://www.numerama.com/sciences/1455150-a-quoi-faut-il-sattendre-cette-annee-pour-le-virus-de-la-dengue-en-france.html",
-      "urlToImage": "https://www.numerama.com/wp-content/uploads/2023/07/moustique.jpg",
-      "publishedAt": "2023-07-23 14:02:00",
-      "content": "La France m\u00e9tropolitaine doit aussi faire face \u00e0 la maladie de la dengue. Quelques dizaines de cas ont \u00e9t\u00e9 rep\u00e9r\u00e9s en 2022, bien plus que les contaminations habituelles. Quel sera le sc\u00e9nario pour 20\u2026 [+7763 chars]",
-      "retrievedAt": "2023-07-24 19:05:06.521864",
-      "internal_id": "af444f1b65798e02b2cf3512fe98b8b234372ec5b962322d67819a1bd2d73660",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 616,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "\u09ae\u09be\u09b9\u09ae\u09c1\u09a6\u09c1\u09b2 \u09b9\u09be\u09b8\u09be\u09a8",
-      "title": "\u09af\u09c7\u09b8\u09ac \u0995\u09be\u099c\u09c7 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09c7 \u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f \u09ac\u09c7\u09b6\u09bf \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u09b9\u09df",
-      "description": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09c7\u09b0 \u09ac\u09c7\u09b6\u09bf\u09b0\u09ad\u09be\u0997 \u09ae\u09be\u09a8\u09c1\u09b7 \u0995\u09a5\u09be \u09ac\u09b2\u09a4\u09c7, \u09b8\u09be\u09ae\u09be\u099c\u09bf\u0995 \u09ae\u09be\u09a7\u09cd\u09af\u09ae \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7 \u0993 \u09b8\u0982\u09ac\u09be\u09a6 \u09aa\u09dc\u09a4\u09c7 \u09ac\u09c7\u09b6\u09bf \u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0 \u0995\u09b0\u09c7\u09a8\u0964 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u09ac\u09cd\u09af\u09c1\u09b0\u09cb\u09b0 (\u09ac\u09bf\u09ac\u09bf\u098f\u09b8) \u09b8\u09b0\u09cd\u09ac\u09b6\u09c7\u09b7 \u099c\u09b0\u09bf\u09aa\u09c7 \u098f \u09a4\u09a5\u09cd\u09af \u0989\u09a0\u09c7 \u098f\u09b8\u09c7\u099b\u09c7\u0964",
-      "url": "https://bangla.thedailystar.net/business/news-499026",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/05/internet2.jpg?itok=rBVf8Ff2",
-      "publishedAt": "2023-07-23 13:23:41",
-      "content": "The majority of dengue patients who were admitted to different hospitals in Dhaka are from 11 areas of Dhaka city",
-      "retrievedAt": "2023-07-24 19:05:06.520377",
-      "internal_id": "be4f92819f0dba8638566af20b9ad6fc3f4b773f7beceb06c2591d4e8925294e",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 615,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Demorgen.be",
-      "author": "Dieter De Cleene, Barbara Debusschere",
-      "title": "Van dengue tot Chikungunya: \u2018Enge ziektes uit de tropen kan je nu ook op de camping in Frankrijk oplopen\u2019",
-      "description": "Als gevolg van de klimaatverandering zijn exotische muggen, teken en andere beestjes in opmars. Samen met de ziektes die ze kunnen verspreiden. \u2018E\u00e9...",
-      "url": "https://www.demorgen.be/beter-leven/van-dengue-tot-chikungunya-enge-ziektes-uit-de-tropen-kan-je-nu-ook-op-de-camping-in-frankrijk-oplopen~ba7d0621/",
-      "urlToImage": "https://img.demorgen.be/de86843c3e209bfb185bb9b3b3da1b2bfd32209f/van-dengue-tot-chikungunya-enge-ziektes-uit-de-tropen-kan-je-nu-ook-op-de-camping-in-frankrijk-oplopen",
-      "publishedAt": "2023-07-23 12:30:00",
-      "content": "Als gevolg van de klimaatverandering zijn exotische muggen, teken en andere beestjes in opmars. Samen met de ziektes die ze kunnen verspreiden. E\u00e9n besmette toerist kan de vlam in de pan doen slaan. \u2026 [+17045 chars]",
-      "retrievedAt": "2023-07-24 19:05:06.517657",
-      "internal_id": "ba04c693eb083f041197311f0b0b79aa9822dbcce6b54bfa1fad182daf3eb855",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 619,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Stephanie Colombini WSUF",
-      "title": "Florida saw its seventh case of malaria this summer. One woman shares her ordeal",
-      "description": "Malaria is still a worry in Sarasota, Fla., where officials recently confirmed the seventh locally transmitted case so far this summer. A 39-year-old woman describes her symptoms and hospital ordeal.",
-      "url": "https://www.npr.org/2023/07/23/1189659889/florida-saw-its-seventh-case-of-malaria-this-summer-one-woman-shares-her-ordeal",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "publishedAt": "2023-07-23 12:03:43",
-      "content": "Malaria is still a worry in Sarasota, Fla., where officials recently confirmed the seventh locally transmitted case so far this summer. A 39-year-old woman describes her symptoms and hospital ordeal.",
-      "retrievedAt": "2023-07-24 19:05:07.384718",
-      "internal_id": "562053a297a7060d61b067e820931c9dbb530fef28e3c34f28b44b885bbe8a68",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 620,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "WHO introduces new guidance HIV viral suppression; check details - DNA India",
-      "description": "WHO introduces new guidance HIV viral suppression; check details DNA India Day 1 at IAS 2023 Brian Minalga and Dr. Carl Dieffenbach Discuss Mpox & More HIV gov New WHO guidance on HIV viral suppression and scientific updates rele\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRuYWluZGlhLmNvbS9oZWFsdGgvcmVwb3J0LXdoby1pbnRyb2R1Y2VzLW5ldy1ndWlkYW5jZS1oaXYtdmlyYWwtc3VwcHJlc3Npb24tY2hlY2stZGV0YWlscy0zMDUzMDUx0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-23 10:59:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-24 19:05:08.412619",
-      "internal_id": "19925ffdfced01283aa6e6ea3337c0104008499842edc7b323168925672b7a22",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 618,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "11 more deaths as July turns deadliest month ever for dengue in Bangladesh",
-      "description": "Eleven more deaths were reported from dengue by the Directorate General of Health Services on Saturday, raising the fatalities from the mosquito-borne disease in Bangladesh to 167 this year. The July death toll alone rose to 120, smashing the previous highest\u2026",
-      "url": "https://sylhetmirror.com/2023/07/23/11-more-deaths-as-july-turns-deadliest-month-ever-for-dengue-in-bangladesh/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/hgjhyj.jpg",
-      "publishedAt": "2023-07-23 09:45:54",
-      "content": "Eleven more deaths were reported from dengue by the Directorate General of Health Services on Saturday, raising the fatalities from the mosquito-borne disease in Bangladesh to 167 this year. The July\u2026 [+797 chars]",
-      "retrievedAt": "2023-07-24 19:05:06.525045",
-      "internal_id": "52b44573f6273dbe564cd36718c3297ac618bb789fae2a46c3bbe52a237d746c",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 613,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Aumentaron 2.5 veces los casos de dengue en un a\u00f1o",
-      "description": "Los casos de dengue en M\u00e9xico siguen en aumento. La Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 5 mil 623 contagios, es decir, 2.5 veces m\u00e1s que en el mismo periodo de 2022.",
-      "url": "https://www.jornada.com.mx/2023/07/23/politica/008n2pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-07-23 08:09:46",
-      "content": "Peri\u00f3dico La JornadaDomingo 23 de julio de 2023, p. 8 Los casos de dengue en M\u00e9xico siguen en aumento. La Secretar\u00eda de Salud (Ssa) inform\u00f3 que en lo que va del a\u00f1o se han confirmado 5 mil 623 conta\u2026 [+1845 chars]",
-      "retrievedAt": "2023-07-24 19:05:06.508495",
-      "internal_id": "aaf0dfedbf81ec9822cd22b4007fd1d3bb8d7b1c0807f38fd68a69d2c014d485",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 605,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "RealClearPolitics",
-      "author": null,
-      "title": "Dr. Paul Offit: RFK Jr. Caused 83 Deaths Of Mostly Young Children In Samoa Measles Outbreak",
-      "description": "Dr. Paul Offit in an interview with PBS NewsHour blamed Robert F. Kennedy Jr. and fellow \"anti-vaccine activists\" for the deaths of 83 people, mostly children, in Samoa. GEOFF BENNETT, PBS: So, RFK Jr. is widely known as an anti-vaccine activist. He has a \u2026",
-      "url": "https://www.realclearpolitics.com/video/2023/07/22/dr_paul_offit_rfk_jr_caused_83_deaths_of_mostly_young_children_in_samoa_measles_outbreak.html",
-      "urlToImage": "https://assets.realclear.com/images/62/620173_5_.jpg",
-      "publishedAt": "2023-07-23 03:48:22",
-      "content": "GEOFF BENNETT, PBS: So, RFK Jr. is widely known as an anti-vaccine activist. He has a much larger platform now as he runs for president.He says that many if his views are misunderstood, they're taken\u2026 [+1853 chars]",
-      "retrievedAt": "2023-07-24 07:05:51.830874",
-      "internal_id": "0ee455675ba7defe8684667e413c0511535a5acb247e37f1f03ead55d6ed3295",
-      "publishedAtLabel": "Jul 23"
-    },
-    {
-      "id": 610,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue mosquitoes spreading widely to more regions, countries",
-      "description": "GENEVA: The World Health Organization warns dengue fever is spreading to more regions and countries around the world due to the increased movement of people, urbanization, and climate-related issues. \u201cAbout half of the world\u2019s population is at risk of dengue,\u2026",
-      "url": "https://english.khabarhub.com/2023/23/311683/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/07/Reuters_Dengue_Sri-Lanka.jpg",
-      "publishedAt": "2023-07-23 03:10:19",
-      "content": "A health worker fumigates in a residential area, as Sri Lanka tries to curb dengue fever across the island in Colombo, Sri Lanka/Photo: ReutersGENEVA: The World Health Organization warns dengue fever\u2026 [+3612 chars]",
-      "retrievedAt": "2023-07-24 07:05:52.411893",
-      "internal_id": "9dbaefad232ee9edecff32596aa8667bedf33e398e9657a751a4a583d8443032",
-      "publishedAtLabel": "Jul 23"
     }
   ]
 }
