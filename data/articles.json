@@ -1,8 +1,156 @@
 {
-  "last_updated": "2023-08-02 19:05",
+  "last_updated": "2023-08-03 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 16,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 834,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Bengaluru college students brave floods and typhoid to honor Kargil martyrs",
+      "description": "Two college students from Bengaluru, Krishnan A and Peddi Sai Kaushik, cycled over 3,200 km in over 60 days to pay homage to the martyrs at the war memorial on Kargil Vijay Diwas. The duo, who are both National Cadet Corps (NCC) cadets and aspire to join the \u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-college-students-brave-floods-and-typhoid-to-honor-kargil-martyrs/articleshow/102340034.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-102341227,width-1070,height-580,imgsize-385274,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-08-02 06:33:27",
+      "content": "In a remarkable display of determination and patriotism, two college students from Bengaluru embarked on a courageous journey, cycling over 3,200 km in more than 60 days, to pay homage to the martyrs\u2026 [+2793 chars]",
+      "retrievedAt": "2023-08-03 07:05:41.085428",
+      "internal_id": "701ad3ce47b81fe5e1801c168376124ba32836675aa73ee13e9537736aca276d",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 832,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Schools closed for dengue control in Dharan",
+      "description": "DHARAN: All educational institutions operational in Dharan sub-metropolis of Sunsari have been closed for an effective campaign against dengue outbreak. The executive committee meeting took the decision to engage collective efforts for prevention and control \u2026",
+      "url": "https://english.khabarhub.com/2023/02/312938/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue.webp",
+      "publishedAt": "2023-08-02 06:10:59",
+      "content": "DHARAN: All educational institutions operational in Dharan sub-metropolis of Sunsari have been closed for an effective campaign against dengue outbreak. The executive committee meeting took the deci\u2026 [+1464 chars]",
+      "retrievedAt": "2023-08-03 07:05:39.261954",
+      "internal_id": "177ef9dc9922abf316a35f53fef096be4162c1f76e1fbbc12abaf18fc1b99443",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 831,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Shivendra Singh",
+      "title": "Dengue: \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092e\u093f\u0932\u093e \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0938\u092c\u0938\u0947 \u0916\u0924\u0930\u0928\u093e\u0915 \u0938\u094d\u091f\u094d\u0930\u0947\u0928, \u092d\u092f\u093e\u0928\u0915 \u0939\u094b \u0938\u0915\u0924\u0940 \u0939\u0948 \u0938\u094d\u0925\u093f\u0924\u093f!",
+      "description": "Dengue cases in Delhi: \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u091a\u093e\u0930 (\u0921\u0947\u0928-1, \u0921\u0947\u0928-2, \u0921\u0947\u0928-3 \u0914\u0930 \u0921\u0947\u0928-4) \u0905\u0932\u0917-\u0905\u0932\u0917 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902, \u091c\u093f\u0938\u092e\u0947\u0902 \u0938\u0947 \u0921\u0947\u0928-2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0916\u0924\u0930\u0928\u093e\u0915 \u0939\u094b\u0924\u093e \u0939\u0948. \u091c\u093e\u0902\u091a \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092d\u0940 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0921\u0947\u0928-2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0939\u0941\u0908 \u0939\u0948.",
+      "url": "https://zeenews.india.com/hindi/health/dengue-dangerous-strain-den-2-found-in-delhi-situation-can-be-situation-can-be-dire-in-ncr-region/1806283",
+      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/08/02/2009810-dengue-cases-in-delhi-1.jpg",
+      "publishedAt": "2023-08-02 05:55:02",
+      "content": "Dengue in Delhi: (dengue cases) . . , . (-1, -2, -3 -4) - , -2 . -2 . . -1 -3 , -2 . , -4 . , , , , , . . . , . , , . , . -2 . . 2-3 , . 2-3 , . (Disclaimer: . . ZEE NEWS .)",
+      "retrievedAt": "2023-08-03 07:05:39.257609",
+      "internal_id": "ea4ffbd3701c879919d0c91dded1eea5fd1b82daac9cbb8c86c6647a3f415793",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 833,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Leon Lidigu",
+      "title": "Mosquitoes are migrating and that could mean more malaria",
+      "description": "Mosquitoes are migrating and that could mean more malarianation.africa",
+      "url": "https://nation.africa/kenya/health/mosquitoes-are-migrating-and-that-could-mean-more-malaria-4321838",
+      "urlToImage": "https://nation.africa/resource/image/3854296/landscape_ratio3x2/1200/800/b1e79877aa08988eea832e9262b24b68/gG/anopheles.jpg",
+      "publishedAt": "2023-08-02 05:10:46",
+      "content": "Scientists are worried that people living in areas once inhospitable to mosquitoes in Eastern Africa countries such as Kenya, Tanzania and Ethiopia could be newly exposed to malaria. This is after \u2026 [+3895 chars]",
+      "retrievedAt": "2023-08-03 07:05:40.009250",
+      "internal_id": "c4fbbdd21c7f5a1309592588dacc50c37c3b0457b3cf763f3881baecd7bd5732",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 827,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+      "title": "Dengue e West Nile: ecco come sono arrivate anche da noi",
+      "description": "I cambiamenti climatici portano anche in Italia insetti tropicali come la zanzara egiziana e virus dall'Oriente. Con il rischio di diffusione di Zika, Dengue, Chikungunya e febbre gialla",
+      "url": "https://www.repubblica.it/salute/2023/08/02/news/zanzara_west_nile_dengue_insetti_virus-409707522/",
+      "urlToImage": "https://www.repstatic.it/content/contenthub/img/2023/08/01/133258822-50d54ff2-a11a-4755-891f-8423612e300d.jpg",
+      "publishedAt": "2023-08-02 05:05:38",
+      "content": "Il caldo estremo \u00e8 un'autostrada per gli insetti tropicali, che a loro volta sono il veicolo numero uno di virus che per noi sono nuovi, mentre dall'altra parte del pianeta sono una costante. Non las\u2026 [+173 chars]",
+      "retrievedAt": "2023-08-03 07:05:39.233141",
+      "internal_id": "51f9b0d37ca93258e004113c91224304b0e20763985aaafb27c6c6a05d10eb5b",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 830,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Delhi Govt is fully prepared to handle the rise in Malaria, Dengue cases, says Mayor Shelly Oberoi",
+      "description": "Delhi Mayor Shelly Oberoi on August 01 talked about the preparation of the government to handle the rise in Malaria cases in the national capital. Talking to ANI, Shelly Oberoi said, \u201cThis year monsoon broke the past 40 years\u2019 record in Delhi. Delhi witnessed\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/delhi-govt-is-fully-prepared-to-handle-the-rise-in-malaria-dengue-cases-says-mayor-shelly-oberoi/videoshow/102335350.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-102335350,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-08-02 03:40:31",
+      "content": "Delhi Mayor Shelly Oberoi on August 01 talked about the preparation of the government to handle the rise in Malaria cases in the national capital. Talking to ANI, Shelly Oberoi said, This year monsoo\u2026 [+391 chars]",
+      "retrievedAt": "2023-08-03 07:05:39.252404",
+      "internal_id": "bb4dbd9b31a90240e95c46c8d8900daacdd35c1bf10d86df20cd23d22b95f793",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 828,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Delving into the dangers of dengue: Recognising the red flags of infection",
+      "description": "An expert provides insights on identifying and managing dengue-related symptoms, and shares when to seek appropriate medical care.",
+      "url": "https://www.channelnewsasia.com/advertorial/delving-dangers-dengue-recognising-red-flags-infection-3625661",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--xJ-os_Kg--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/07/19/Bstudio_Haleon_lead_0.jpg?itok=Xo_gUJkT",
+      "publishedAt": "2023-08-02 00:20:17",
+      "content": "For individuals diagnosed with dengue and instructed to recover at home, Dr Rakesh recommends ample rest and drinking plenty of fluids to stay hydrated. Some people may reach for non-steroidal anti\u2026 [+2198 chars]",
+      "retrievedAt": "2023-08-03 07:05:39.242861",
+      "internal_id": "f86204990bda85992fbb840fd34d38a9e01ce7c2416e4e921455f3b180675c61",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 829,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / AG",
+      "title": "Secretar\u00eda de Salud de Oaxaca acepta que us\u00f3 insecticida caducado contra dengue y zika",
+      "description": "Frente al gobernador de Oaxaca, Salom\u00f3n Jara Cruz, la titular de los SSO reconoci\u00f3 que los responsables de vectores usaron qu\u00edmicos caducados en zonas de riesgo de la entidad.",
+      "url": "https://aristeguinoticias.com/0108/mexico/secretaria-de-salud-de-oaxaca-acepta-que-uso-insecticida-caducado-contra-dengue-y-zika/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/08/secretaria-salud-oaxaca-alma-lilia-verlasco-hernandez-insecticida-caduco-dengue-zika-chikungunya-01082023.jpeg",
+      "publishedAt": "2023-08-02 00:19:33",
+      "content": "Por Diana Manzo. Oaxaca, Oax.- Tras una denuncia difundida en redes sociales, la secretaria de Servicios de Salud de Oaxaca (SSO), Alma Lilia Velasco Hern\u00e1ndez, confirm\u00f3 que usaron insecticida caduc\u2026 [+1725 chars]",
+      "retrievedAt": "2023-08-03 07:05:39.246593",
+      "internal_id": "eb233e389a5d58107f3b7e2454e92b65f6e5df7883ef8e8ca0e151a26ef4d43f",
+      "publishedAtLabel": "Aug 2"
+    },
     {
       "id": 813,
       "query": [
@@ -3465,150 +3613,6 @@
       "content": "Peri\u00f3dico La JornadaLunes 24 de julio de 2023, p. 25 Durango, Dgo., Carmen Gonz\u00e1lez Carrera, de 29 a\u00f1os de edad, originaria del municipio de Santiago Papasquiaro, falleci\u00f3 a causa de meningitis, pad\u2026 [+309 chars]",
       "retrievedAt": "2023-07-25 19:05:14.163906",
       "internal_id": "e39d58350bcabb707bf568a744f5840e4e48580a7a97a0773de8ba691ab429b0",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 633,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "More than 170 dead as Bangladesh grapples with dengue \u2018epidemic\u2019 - Al Jazeera English",
-      "description": "More than 170 dead as Bangladesh grapples with dengue \u2018epidemic\u2019 Al Jazeera English Bangladesh witnesses dengue surge, highest number of hospitalisations recorded in a single day | Mint Mint Over 600 dengue cases daily in India, \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDIzLzcvMjQvbW9yZS10aGFuLTE3MC1kZWFkLWFzLWJhbmdsYWRlc2gtZ3JhcHBsZXMtd2l0aC1kZW5ndWUtZXBpZGVtaWPSAWtodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjMvNy8yNC9tb3JlLXRoYW4tMTcwLWRlYWQtYXMtYmFuZ2xhZGVzaC1ncmFwcGxlcy13aXRoLWRlbmd1ZS1lcGlkZW1pYw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-24 08:17:49",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-25 19:05:13.662221",
-      "internal_id": "27a1d4530b362d82def8cb5091d3cd1520f49b0d7962ab0a47666400d54c32db",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 634,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Faisal Mahmud",
-      "title": "More than 170 dead as Bangladesh grapples with dengue \u2018epidemic\u2019",
-      "description": "At least 176 people - 31 of them children below 14 - have died of the mosquito-borne fever this year, officials say.",
-      "url": "https://www.aljazeera.com/news/2023/7/24/more-than-170-dead-as-bangladesh-grapples-with-dengue-epidemic",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/Doctors-say-that-he-hospitals-are-swamped-with-dengue-patients-1690185774.jpg?resize=1920%2C1440",
-      "publishedAt": "2023-07-24 08:13:07",
-      "content": "Dhaka, Bangladesh Bangladesh is grappling with a deadly dengue outbreak as heavy monsoon rains in the country cause widespread infections and fill hospitals. Health experts in the South Asian nation\u2026 [+6631 chars]",
-      "retrievedAt": "2023-07-25 19:05:13.666231",
-      "internal_id": "1f5a350cf869396cfae1909a453dbf80d9e441b5e5101484004f5ad83b26e7db",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 637,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Bangkok Post Public Company Limited",
-      "title": "Mossie eradication drive to combat rising dengue fever",
-      "description": "A mosquito eradication campaign has been launched by the Public Health Ministry as the number of people infected with dengue fever nationwide is rising by about 5,000 per week, Disease Control Department director-general Thares Krassanairavirong said on Monda\u2026",
-      "url": "https://www.bangkokpost.com/thailand/general/2616802/mossie-eradication-drive-to-combat-rising-dengue-fever",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20230724/c1_2616802_230724133617_700.jpg",
-      "publishedAt": "2023-07-24 07:40:00",
-      "content": "A mosquito eradication campaign has been launched by the Public Health Ministry as the number of people infected with dengue fever nationwide is rising by about 5,000 per week, Disease Control Depart\u2026 [+1398 chars]",
-      "retrievedAt": "2023-07-25 19:05:13.677143",
-      "internal_id": "4ccf5bcc1e0aacd39ae00d60b379ecd71fb21a0c75f8913a0a0fad5756af229a",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 644,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Integrate mpox with HIV, STI prevention & control programmes: WHO - Down To Earth Magazine",
-      "description": "Integrate mpox with HIV, STI prevention & control programmes: WHO Down To Earth Magazine Day 2 at IAS 2023 How the REPRIEVE Study Findings Could Help Improve Care for People with HIV HIV gov WHO introduces new guidance HIV viral \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmRvd250b2VhcnRoLm9yZy5pbi9uZXdzL2hlYWx0aC9pbnRlZ3JhdGUtbXBveC13aXRoLWhpdi1zdGktcHJldmVudGlvbi1jb250cm9sLXByb2dyYW1tZXMtd2hvLTkwNzgw0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-24 07:21:56",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-25 19:05:15.232557",
-      "internal_id": "4863eafde45cb0decb620f5510c85567557efd0983b8880053545f2364c14ff6",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 625,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "BPKIHS launches 30-bed dengue ward over soaring cases of dengue fever",
-      "description": "DHARAN: The BP Koirala Institute of Health Sciences, Dharan has additionally allotted 30 beds dedicated to the treatment of dengue. The 30-bed dengue ward came into operation on Sunday. Now Dharan sub-metropolis in Sunsari and adjoining areas are in a grip of\u2026",
-      "url": "https://english.khabarhub.com/2023/24/311837/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2020/03/bpkihs-dharan.jpg",
-      "publishedAt": "2023-07-24 06:45:31",
-      "content": "Building of BP Koirala Institute of Health Sciences in Dharan. (File photo)DHARAN: The BP Koirala Institute of Health Sciences, Dharan has additionally allotted 30 beds dedicated to the treatment of \u2026 [+699 chars]",
-      "retrievedAt": "2023-07-25 07:05:37.722945",
-      "internal_id": "e7da295a29236d573e0889646ac141ec1352e250cab58972c414f35ed522c988",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 630,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "New WHO scientific and normative guidance on HIV released at 12th IAS Conference - Devdiscourse",
-      "description": "New WHO scientific and normative guidance on HIV released at 12th IAS Conference Devdiscourse Day 1 at IAS 2023 Brian Minalga and Dr. Carl Dieffenbach Discuss Mpox & More HIV gov HIV-positive people with undetectable viral load p\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5kZXZkaXNjb3Vyc2UuY29tL2FydGljbGUvaGVhbHRoLzI1MzQzMDAtbmV3LXdoby1zY2llbnRpZmljLWFuZC1ub3JtYXRpdmUtZ3VpZGFuY2Utb24taGl2LXJlbGVhc2VkLWF0LTEydGgtaWFzLWNvbmZlcmVuY2XSAYgBaHR0cHM6Ly93d3cuZGV2ZGlzY291cnNlLmNvbS9hcnRpY2xlL2hlYWx0aC8yNTM0MzAwLW5ldy13aG8tc2NpZW50aWZpYy1hbmQtbm9ybWF0aXZlLWd1aWRhbmNlLW9uLWhpdi1yZWxlYXNlZC1hdC0xMnRoLWlhcy1jb25mZXJlbmNlP2FtcA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-24 05:17:02",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-25 07:05:39.659126",
-      "internal_id": "ce889541527f99a4e583ca5b40f1dcbcbdbd8a137d9aa803ce9a422350726522",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 623,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "espn-cric-info",
-      "source_name": "ESPN Cric Info",
-      "author": "Madushka Balasuriya",
-      "title": "Dilshan Madushanka handed Test cap as Sri Lanka bat against unchanged Pakistan",
-      "description": "Having recovered from a bout of dengue, seamer Asitha Fernando returned as the hosts left out Kasun Rajitha and Vishwa Fernando",
-      "url": "https://www.espncricinfo.com/series/pakistan-in-sri-lanka-2023-1385664/sri-lanka-vs-pakistan-2nd-test-1385686/match-report",
-      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/363100/363101.jpg",
-      "publishedAt": "2023-07-24 05:15:50",
-      "content": "After impressing in white-ball internationals, Dilshan Madushanka was given a Test debut for Sri Lanka \u2022 ICC via Getty Images",
-      "retrievedAt": "2023-07-25 07:05:37.715376",
-      "internal_id": "a0466a701b4e45e148b324f704731bc33a65607745e8dc3e698de56ab7e7d3ca",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 622,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "WHO warnt vor Ausbreitung - Tagesspiegel Background",
-      "description": "WHO warnt vor Ausbreitung Tagesspiegel Background WHO ist besorgt: Virus aus den Tropen breitet sich durch Klimawandel aus t-online Tropische Bedrohung: Wie gef\u00e4hrlich ist das Dengue-Fieber-Virus? WEB.DE News Tropische\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vYmFja2dyb3VuZC50YWdlc3NwaWVnZWwuZGUvZ2VzdW5kaGVpdC93aG8td2FybnQtdm9yLWF1c2JyZWl0dW5n0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-24 04:08:52",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-25 07:05:37.704311",
-      "internal_id": "c9fad87bae4809610ce84aa0f83a26ba09009b207e8d71ff6d008048f94e7c15",
       "publishedAtLabel": "Jul 24"
     }
   ]
