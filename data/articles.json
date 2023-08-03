@@ -1,8 +1,188 @@
 {
-  "last_updated": "2023-08-03 07:05",
+  "last_updated": "2023-08-03 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 835,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "14850.com",
+      "author": "Mark H. Anbinder",
+      "title": "Health alert: Kitten found on West Seneca Street in mid July had rabies",
+      "description": "Health alert: Kitten found on West Seneca Street in mid July had rabies14850.com",
+      "url": "https://www.14850.com/080232697-kitten-rabies-2308/",
+      "urlToImage": "https://www.14850.com/wp-content/uploads/2020/04/nysdoh-antibody-testing.jpg",
+      "publishedAt": "2023-08-02 18:53:11",
+      "content": "Tompkins County Environmental Health Division says a black short-haired kitten that was found at 902 West Seneca Street in Ithaca\u2019s west end on or around July 14th was confirmed to have the rabies vi\u2026 [+1748 chars]",
+      "retrievedAt": "2023-08-03 19:05:18.563490",
+      "internal_id": "711807dd5ac7fcdeb211cd9e2bb279edf36b4dd957c12e006e35de4d1b96e50c",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 838,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jungewelt.de",
+      "author": null,
+      "title": "Spiel mit der Natur: Freisetzung von \u00bbGenm\u00fccke\u00ab [Online-Abo]",
+      "description": "Die F\u00e4lle von Denguefieber haben in Brasilien einen neuen H\u00f6chststand erreicht. Eine genmanipulierte M\u00fccke soll Abhilfe schaffen, Investitionen in Abfallentsorgung und M\u00fcllvermeidung w\u00e4ren wohl sinnvoller.",
+      "url": "https://www.jungewelt.de/loginFailed.php?ref=/artikel/456104.spiel-mit-der-natur-freisetzung-von-genm%C3%BCcke.html",
+      "urlToImage": "https://www.jungewelt.de/images/junge-welt-logo-square.png",
+      "publishedAt": "2023-08-02 17:35:58",
+      "content": "Die Weltgesundheitsorganisation (WHO) schl\u00e4gt Alarm: Die Zahl der Infektionen mit dem Dengue-Virua hat auf dem amerikanischen Doppelkontinent in diesem Jahr weiter zu- und epidemische Ausma\u00dfe angenom\u2026 [+273 chars]",
+      "retrievedAt": "2023-08-03 19:05:19.885230",
+      "internal_id": "8bca7f17a5aeb1fb31d2c00d5043974d14c31b68389a406e87755abbd5dcc482",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 841,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Sudurpaschim Province reports over 1,600 dengue cases since 2022",
+      "description": "DHANGADHI: The Sudurpaschim Province has as of today reported over 1,600 cases of dengue fever since 2022. As updated by the Health Directorate, Sudurpaschim Province, dengue has been confirmed in 1,614 individuals in the province since 2022. Since 2023, it h\u2026",
+      "url": "https://english.khabarhub.com/2023/02/313018/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue.webp",
+      "publishedAt": "2023-08-02 14:45:09",
+      "content": "Image for Representation.DHANGADHI: The Sudurpaschim Province has as of today reported over 1,600 cases of dengue fever since 2022. As updated by the Health Directorate, Sudurpaschim Province, dengu\u2026 [+1354 chars]",
+      "retrievedAt": "2023-08-03 19:05:19.901455",
+      "internal_id": "8dfdb1f5b4db84a8fabd70470cbfd685c4ae2e160ca43028f2d4884ef7edfcd0",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 840,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Clicrbs.com.br",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Farm\u00e1cias podem realizar exames de an\u00e1lises cl\u00ednicas; veja a lista com os 47 testes",
+      "description": "Resolu\u00e7\u00e3o que entrou em vigor nesta ter\u00e7a-feira (1\u00ba) contempla dengue, hepatite, s\u00edfilis e colesterol, entre outras doen\u00e7as",
+      "url": "http://diariogaucho.clicrbs.com.br/rs/dia-a-dia/noticia/2023/08/farmacias-podem-realizar-exames-de-analises-clinicas-veja-a-lista-com-os-47-testes-31319002.html",
+      "urlToImage": "http://diariogaucho.rbsdirect.com.br/imagesrc/15931011.jpg?w=600",
+      "publishedAt": "2023-08-02 13:18:34",
+      "content": "Come\u00e7a a valer nesta ter\u00e7a-feira (1\u00b0) a resolu\u00e7\u00e3o que permite \u00e0s farm\u00e1cias realizar ao menos 47 tipos de exames de an\u00e1lises cl\u00ednicas (EAC). Em maio, a Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa\u2026 [+3636 chars]",
+      "retrievedAt": "2023-08-03 19:05:19.894111",
+      "internal_id": "a77a9f0eae563f994da0d3556900c7493736e8ef19f05e05653e85e93c3f65aa",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 842,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Guardian",
+      "author": "Constance Malleret in Rio de Janeiro",
+      "title": "Indigenous territory still in crisis despite Brazil\u2019s expulsion of miners",
+      "description": "Six months after Lula\u2019s government cracked down on garimpeiros, a legacy of malnutrition and malaria is taking its toll on YanomamiSix months after the Brazilian government launched an operation to turf out illegal miners from the country\u2019s largest Indigenous\u2026",
+      "url": "https://www.theguardian.com/world/2023/aug/02/brazil-indigenous-yanomami-crisis-miners-expulsion",
+      "urlToImage": "https://i.guim.co.uk/img/media/1343b0175e203b0474cb5560ccc52d6b98016283/0_219_6124_3675/master/6124.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43c87b21e26908968edc9d7606cca8be",
+      "publishedAt": "2023-08-02 13:00:05",
+      "content": "Six months after the Brazilian government launched an operation to turf out illegal miners from the countrys largest Indigenous reserve, the Yanomami population there continues to live in fear, battl\u2026 [+2650 chars]",
+      "retrievedAt": "2023-08-03 19:05:21.228836",
+      "internal_id": "6fb2f6cbc190cb073c5ff75a7124c8b1fc578e8a8b33e122f51d9c6fd4b3d83c",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 843,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Rhiannon Williams",
+      "title": "The Download: counting China\u2019s mpox cases, and Meta has blocked news in Canada",
+      "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Decoding the data of the Chinese mpox outbreak Almost exactly a year after the World Health Organization declared mpox (f\u2026",
+      "url": "https://www.technologyreview.com/2023/08/02/1077147/the-download-counting-chinas-mpox-cases-and-meta-has-blocked-news-in-canada/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2023/07/230724_ChinaMonkeypox.jpg?resize=1200,600",
+      "publishedAt": "2023-08-02 12:10:00",
+      "content": "1 Meta has started blocking news in CanadaPublishers have branded the decision an abuse of power. (The Verge)+ And the US could be next. (Vox)+ The news business is in a state of flux right now. (NY \u2026 [+1600 chars]",
+      "retrievedAt": "2023-08-03 19:05:22.476901",
+      "internal_id": "86fdc5ddb9eb2112c49bdb55295cc61a5ebecfa32535dc8db73b7a53d6bf2eeb",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 839,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Mar de Sa\u00fade: Farm\u00e1cias e consult\u00f3rios disponibilizam testes de an\u00e1lises cl\u00ednicas no Rio",
+      "description": "Farm\u00e1cias e consult\u00f3rios est\u00e3o disponibilizando testes de an\u00e1lises cl\u00ednicas no Rio de Janeiro. Para realizar exames como o de dengue, colester...",
+      "url": "http://noticias.r7.com/rio-de-janeiro/rj-no-ar/videos/mar-de-saude-farmacias-e-consultorios-disponibilizam-testes-de-analises-clinicas-no-rio-02082023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/08/02/64ca44651df97bfed6000469/6c5158b3927848349a355079d2468df9__RJA_R7_02AGO2023_MARDESAUDE_thumb.jpg",
+      "publishedAt": "2023-08-02 11:36:17",
+      "content": "Farm\u00e1cias e consult\u00f3rios est\u00e3o disponibilizando testes de an\u00e1lises cl\u00ednicas no Rio de Janeiro. Para realizar exames como o de dengue, colesterol e tipo sangu\u00edneo, o estabelecimento precisa pedir uma \u2026 [+63 chars]",
+      "retrievedAt": "2023-08-03 19:05:19.890347",
+      "internal_id": "f74ca7d252d960704b283dd548b99e37f8ec66fab74b69a26ef9ec4c4fc1ad60",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 844,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Zeyi Yang",
+      "title": "Decoding the data of the Chinese mpox outbreak",
+      "description": "This story first appeared in China Report, MIT Technology Review\u2019s newsletter about technology developments in China. Sign up to receive it in your inbox every Tuesday. Almost exactly a year after the World Health Organization declared mpox (formerly known as\u2026",
+      "url": "https://www.technologyreview.com/2023/08/02/1077113/china-mpox-outbreak-data-reporting/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2023/07/230724_ChinaMonkeypox.jpg?resize=1200,600",
+      "publishedAt": "2023-08-02 10:00:00",
+      "content": "Sounds quite bad, right? It turns out the reality is a tad more complicated. On the WHO website, the recent mpox data listed under China is the sum of cases reported in China, Taiwan, and Hong Kong\u2026 [+1694 chars]",
+      "retrievedAt": "2023-08-03 19:05:22.481027",
+      "internal_id": "482e2de1bf8a09837c80b12aa75ec077bc22645120ffd128ef996ef9f390e669",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 836,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Adults seen as increasingly susceptible to measles",
+      "description": "The growing susceptibility of adults to measles worries infectious disease experts who know how difficult this infection can be when it is experienced in adulthood.",
+      "url": "https://www.statnews.com/2023/08/02/adult-measles-infection/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2023/07/stat_measles_2000x1125_f2-1024x576.jpg",
+      "publishedAt": "2023-08-02 08:30:07",
+      "content": "Simon Matthews made three trips this spring to the emergency room of his local hospital in Eastbourne, on Englands southeast coast, before doctors managed to figure out what was making him so ill. \u2026 [+13418 chars]",
+      "retrievedAt": "2023-08-03 19:05:19.096828",
+      "internal_id": "3abbf5cd2e86cd64c1a2d37ca16f4c2164bc876c1f812983ea8050f5b756e991",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 837,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue surge: Mild to dangerous, common symptoms of different dengue strains - Hindustan Times",
+      "description": "Dengue surge: Mild to dangerous, common symptoms of different dengue strains Hindustan Times Dengue Cases Rise In Delhi: 5 Effective Ways To Prevent This Bone-Breaking Fever Jagran English From Symptoms To Precautions: Here Is Al\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vbGlmZXN0eWxlL2hlYWx0aC9kZW5ndWUtc3VyZ2UtbWlsZC10by1kYW5nZXJvdXMtY29tbW9uLXNpZ25zLWFuZC1zeW1wdG9tcy1vZi1kaWZmZXJlbnQtZGVuZ3VlLXN0cmFpbnMtMTAxNjkwOTYwMDQyNDkxLmh0bWzSAZ0BaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xpZmVzdHlsZS9oZWFsdGgvZGVuZ3VlLXN1cmdlLW1pbGQtdG8tZGFuZ2Vyb3VzLWNvbW1vbi1zaWducy1hbmQtc3ltcHRvbXMtb2YtZGlmZmVyZW50LWRlbmd1ZS1zdHJhaW5zLTEwMTY5MDk2MDA0MjQ5MS1hbXAuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-02 07:19:36",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-03 19:05:19.876014",
+      "internal_id": "fcd9db40c387ddbb540674c1e632e147bc08697626f9d59fd7a139e244fd0f67",
+      "publishedAtLabel": "Aug 2"
+    },
     {
       "id": 834,
       "query": [
@@ -3431,188 +3611,6 @@
       "content": "New Brunswick is marking the highest number of rabies cases in the province since 2017. So far in 2023, there have been six confirmed cases of rabies, all in raccoons, according to provincial number\u2026 [+1355 chars]",
       "retrievedAt": "2023-07-25 19:05:13.033461",
       "internal_id": "6ac932707b8e33f5a58fc6a088e44b7236fdbc102be2e90b62121d431ba7c43d",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 640,
-      "query": [
-        "dengue",
-        "malaria",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Wanchalerm Pora, Natthakorn Kasamsumran, Katanyu Tharawatcharasart, Rinnara Ampol, Padet Siriyasatien, Narissara Jariyapan",
-      "title": "Enhancement of VGG16 model with multi-view and spatial dropout for classification of mosquito vectors",
-      "description": "Mosquitoes transmit pathogens that can cause numerous significant infectious diseases in humans and animals such as malaria, dengue fever, chikungunya fever, and encephalitis. Although the VGG16 model is not one of the most advanced CNN networks, it is report\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284330",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0284330.g010&size=inline",
-      "publishedAt": "2023-07-24 14:00:00",
-      "content": "Abstract Mosquitoes transmit pathogens that can cause numerous significant infectious diseases in humans and animals such as malaria, dengue fever, chikungunya fever, and encephalitis. Although the \u2026 [+35660 chars]",
-      "retrievedAt": "2023-07-25 19:05:13.686282",
-      "internal_id": "ca5b8890acddcd6101efa7565d85573349783a94389d22a97193e88e41db803e",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 643,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Alvaro Aguilar-Seti\u00e9n, M\u00f3nica Salas-Rojas, Guillermo G\u00e1lvez-Romero, Cenia Almaz\u00e1n-Mar\u00edn, Andr\u00e9s Moreira-Soto, Jorge Alfonso-Toledo, Cirani Obreg\u00f3n-Morales, Martha Garc\u00eda-Flores, Anah\u00ed Garc\u00eda-Baltazar, Jordi Serra-Cobo, Marc L\u00f3pez-Roig, Nora Reyes-Puma, Marta Piche-Ovares, Mario Romero-Vega, Daniel Felipe Barrantes Murillo, Claudio Soto-Garita, Alejandro Alfaro-Alarc\u00f3n, Eugenia Corrales-Aguilar, Osvaldo L\u00f3pez-D\u00edaz, Dominique Pontier, Ondine Filippi-Codaccioni, Jean-Baptiste Pons, Jeanne Duhayer, Jan Felix Drexler",
-      "title": "Experimental infection of Artibeus lituratus bats and no detection of Zika virus in neotropical bats from French Guiana, Peru, and Costa Rica suggests a limited role of bats in Zika transmission",
-      "description": "Author summary In previous works in 2008\u20132009, we found the presence of antibodies against flaviviruses, and viral RNA was detected in Neotropical chiropterans in Mexico, which led us to support the hypothesis that these animals could be reservoirs of flavivi\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010439",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0010439.g007&size=inline",
-      "publishedAt": "2023-07-24 14:00:00",
-      "content": "Citation: Aguilar-Seti\u00e9n A, Salas-Rojas M, G\u00e1lvez-Romero G, Almaz\u00e1n-Mar\u00edn C, Moreira-Soto A, Alfonso-Toledo J, et al. (2023) Experimental infection of Artibeus lituratus bats and no detection of Zika\u2026 [+34492 chars]",
-      "retrievedAt": "2023-07-25 19:05:14.883007",
-      "internal_id": "116f5c6ce377b581ffc787b3f94b758f7014ed96efa8641f98e917e26cf197da",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 645,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Weinan Zhu, Felipe J. Passalia, Camila Hamond, Cec\u00edlia M. Abe, Albert I. Ko, Angela S. Barbosa, Elsio A. Wunder Jr.",
-      "title": "MPL36, a major plasminogen (PLG) receptor in pathogenic Leptospira, has an essential role during infection",
-      "description": "Author summary As part of their diverse virulence machinery, bacterial pathogens bind to human plasminogen (PLG) providing them with a proteolytic platform that promotes invasiveness, dissemination, and virulence. Leptospirosis is the leading zoonotic disease\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011313",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011313.g006&size=inline",
-      "publishedAt": "2023-07-24 14:00:00",
-      "content": "Citation: Zhu W, Passalia FJ, Hamond C, Abe CM, Ko AI, Barbosa AS, et al. (2023) MPL36, a major plasminogen (PLG) receptor in pathogenic Leptospira, has an essential role during infection. PLoS Patho\u2026 [+64391 chars]",
-      "retrievedAt": "2023-07-25 19:05:15.731432",
-      "internal_id": "18b95cfe98f2d396e23ee192f8a00a373a0dd4d238d2bf161945024880b40c95",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 642,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "Dr. Celine Gounder on mosquito-borne diseases and climate change",
-      "description": "CBS News medical contributor Dr. Celine Gounder joins \"CBS Mornings\" to discuss the current state of mosquito-borne diseases such as malaria, West Nile and more in the U.S. She explains what symptoms to look out for, when to seek medical attention and the imp\u2026",
-      "url": "https://www.cbsnews.com/video/dr-celine-gounder-on-mosquito-borne-diseases-and-climate-change/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/24/f5750034-2135-4871-b0a3-b2eca69f3c26/thumbnail/1200x630/45a8f7fa4e3801f9dbff9cec7f4fc374/0724-cmo-bugbites-gounder-2150041-640x360.jpg?v=8be0a296491a12ce38351fd824e37a16",
-      "publishedAt": "2023-07-24 13:12:32",
-      "content": "Watch CBS News Copyright \u00a92023 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
-      "retrievedAt": "2023-07-25 19:05:14.549400",
-      "internal_id": "c90c3e280cf85186dbbf324329de05f5f83ba7bd809faea3f0da8f5bdee9ca81",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 635,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "wirtschafts-woche",
-      "source_name": "Wirtschafts Woche",
-      "author": "Nele Antonia H\u00f6fler",
-      "title": "Investition in Baden-W\u00fcrttemberg: Darum produziert Asiens gr\u00f6\u00dfter Pharmakonzern einen Dengue-Impfstoff in Deutschland",
-      "description": "Der japanische Pharmakonzern Takeda investiert 300 Millionen Euro, um in Deutschland einen Impfstoff gegen die Tropenkrankheit Dengue-Fieber zu produzieren. Konzernchef Christophe Weber erkl\u00e4rt, was f\u00fcr den Standort spricht.",
-      "url": "https://www.wiwo.de/unternehmen/industrie/investition-in-baden-wuerttemberg-darum-produziert-asiens-groesster-pharmakonzern-einen-dengue-impfstoff-in-deutschland/29274616.html",
-      "urlToImage": "https://www.wiwo.de/images/takeda_singen_handling_der_wirkstoff-zellkulturen_c-anprom-de-corp-0037-kl/29275222/2-format11240.jpg",
-      "publishedAt": "2023-07-24 13:10:02",
-      "content": "Die Takeda-Mitarbeitenden, die in Singen am Bodensee den neuen Dengue-Impfstoff des japanischen Pharmakonzerns herstellen, sind von Kopf bis Fu\u00df in Schutzkleidung verh\u00fcllt. \u00dcber ihnen surrt die L\u00fcftu\u2026 [+8063 chars]",
-      "retrievedAt": "2023-07-25 19:05:13.670047",
-      "internal_id": "9b91ec38ff5561048b3c1dfc5dc2b6b3694fc8dbfbc54c9b176e59f0f556749f",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 632,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Syllad.com",
-      "author": "Syllad | The Rising Meghalaya",
-      "title": "Measles Rubella Elimination: Pilot Phase to be implemented in West Jaintia Hills and Ri Bhoi",
-      "description": "In the effort to achieve Measles-Rubella (MR) elimination in Meghalaya, a State Steering Committee Meeting was held on July 18, led by Chief Secretary DP Wahlang IAS. The meeting aimed to strategize the Intensified Mission Indradhanush (IMI) 5.0 campaign to r\u2026",
-      "url": "https://www.syllad.com/measles-rubella-elimination-pilot-phase-to-be-implemented-in-west-jaintia-hills-and-ri-bhoi/",
-      "urlToImage": "https://www.syllad.com/wp-content/uploads/2023/07/Steering-Committee-jpg.webp",
-      "publishedAt": "2023-07-24 09:50:00",
-      "content": "Syllad | The Rising MeghalayaJuly 24, 2023 In the effort to achieve Measles-Rubella (MR) elimination in Meghalaya, a State Steering Committee Meeting was held on July 18, led by Chief Secretary DP W\u2026 [+1417 chars]",
-      "retrievedAt": "2023-07-25 19:05:13.346974",
-      "internal_id": "0b6322bbe15fe40ea4039884d244ab2245960d308ec58b228d46f35c407cbdeb",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 636,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "24.07.23 - Welt: WHO warnt vor Anstieg der Dengue F\u00e4lle - Tropeninstitut.de",
-      "description": "24.07.23 - Welt: WHO warnt vor Anstieg der Dengue F\u00e4lle Tropeninstitut.de Asiatische Tigerm\u00fccke auf dem Vormarsch: WHO besorgt wegen Dengue-Fieber-Ausbreitung inFranken.de Kommentare - Folge des Klimawandels: WHO warnt vor Ausbre\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vdHJvcGVuaW5zdGl0dXQuZGUvYWt0dWVsbGUta3JhbmtoZWl0c21lbGR1bmdlbi8yNC4wNy4yMDIzLXdlbHQtZGVuZ3Vl0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-24 09:41:12",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-25 19:05:13.672704",
-      "internal_id": "1453d69eb164a4f19e78fe779347bc4f66beb832cbfaaec6c43d0c4aaf22f26a",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 639,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Dengue, un secondo caso a Jesi. Scatta la disinfestazione",
-      "description": "Accertato a Jesi, in provincia di Ancona, un secondo cado di dengue, la malattia infettiva trasmessa da punture di zanzare. (ANSA)",
-      "url": "https://www.ansa.it/marche/notizie/2023/07/24/dengue-un-secondo-caso-a-jesi.-scatta-la-disinfestazione_c8d166a3-9696-485f-bb0c-09edfe173c13.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/7/24/ff07e28b7f736f7e86b7f6b094084f9b.jpg",
-      "publishedAt": "2023-07-24 09:18:47",
-      "content": "Accertato a Jesi, in provincia di Ancona, un secondo cado di dengue, la malattia infettiva trasmessa da punture di zanzare. Lo scorso 6 luglio ne era stato individuato un altro in un giovane rient\u2026 [+763 chars]",
-      "retrievedAt": "2023-07-25 19:05:13.683745",
-      "internal_id": "0f7844ba5916024de4b55bf821931571d1d5b43521793ebcc6ed4c52208f8e5f",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 638,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Cote d'Ivoire: Le pays face \u00e0 une nouvelle \u00e9pid\u00e9mie de dengue, la sixi\u00e8me depuis 2009",
-      "description": "[RFI] En C\u00f4te d'Ivoire, et plus particuli\u00e8rement \u00e0 Abidjan, les autorit\u00e9s sanitaires ont d\u00e9clar\u00e9 la survenue d'une \u00e9pid\u00e9mie de dengue. Deux personnes ont succomb\u00e9 \u00e0 cette maladie transmise par les moustiques. Au moins 92 cas ont \u00e9t\u00e9 recens\u00e9s, principalement d\u2026",
-      "url": "https://fr.allafrica.com/stories/202307240171.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-24 08:32:58",
-      "content": "En C\u00f4te d'Ivoire, et plus particuli\u00e8rement \u00e0 Abidjan, les autorit\u00e9s sanitaires ont d\u00e9clar\u00e9 la survenue d'une \u00e9pid\u00e9mie de dengue. Deux personnes ont succomb\u00e9 \u00e0 cette maladie transmise par les moustiqu\u2026 [+1585 chars]",
-      "retrievedAt": "2023-07-25 19:05:13.681962",
-      "internal_id": "3ab0967cc166385a784da235dd48fbebf20b9b991ee4d200390e37c2a9d2e144",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 641,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Muere mujer por meningitis mic\u00f3tica en Durango; van 41",
-      "description": "Durango, Dgo., Carmen Gonz\u00e1lez Carrera, de 29 a\u00f1os de edad, originaria del municipio de Santiago Papasquiaro, falleci\u00f3 a causa de meningitis, padecimiento que se le diagnostic\u00f3 en diciembre pasado, luego de someterse a una intervenci\u00f3n quir\u00fargica en agosto, i\u2026",
-      "url": "https://www.jornada.com.mx/2023/07/24/estados/025n3est",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-07-24 08:19:08",
-      "content": "Peri\u00f3dico La JornadaLunes 24 de julio de 2023, p. 25 Durango, Dgo., Carmen Gonz\u00e1lez Carrera, de 29 a\u00f1os de edad, originaria del municipio de Santiago Papasquiaro, falleci\u00f3 a causa de meningitis, pad\u2026 [+309 chars]",
-      "retrievedAt": "2023-07-25 19:05:14.163906",
-      "internal_id": "e39d58350bcabb707bf568a744f5840e4e48580a7a97a0773de8ba691ab429b0",
       "publishedAtLabel": "Jul 24"
     }
   ]
