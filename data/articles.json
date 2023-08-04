@@ -1,8 +1,206 @@
 {
-  "last_updated": "2023-08-03 19:05",
+  "last_updated": "2023-08-04 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 846,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Bangladesh's dengue cases rise to 57,127, with 273 deaths",
+      "description": "DHAKA, Aug. 3 (Xinhua) -- Bangladesh reported 2,711 new dengue cases and 12 new deaths on Wednesday,",
+      "url": "http://en.people.cn/n3/2023/0803/c90000-20053652.html",
+      "urlToImage": null,
+      "publishedAt": "2023-08-03 06:01:55",
+      "content": "(Xinhua) 13:45, August 03, 2023 DHAKA, Aug. 3 (Xinhua) -- Bangladesh reported 2,711 new dengue cases and 12 new deaths on Wednesday, bringing the tally to 57,127 and death toll to 273 since January \u2026 [+539 chars]",
+      "retrievedAt": "2023-08-04 07:05:28.541896",
+      "internal_id": "7ac578caa48605cddd6d58f1944a2d43400bfc0dd48ae0935e9f138846ebc900",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 848,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "heise online",
+      "author": "Zeyi Yang",
+      "title": "Affenpocken-Ausbreitung in China: Regierung wiederholt Corona-Fehler",
+      "description": "Die mittlerweile unter dem Namen \"mpox\" laufende Viruserkrankung trifft China. Doch mit Infektionszahlen h\u00e4lt sich die Regierung bedeckt.",
+      "url": "https://www.heise.de/hintergrund/Affenpocken-Ausbreitung-in-China-Regierung-wiederholt-Corona-Fehler-9232218.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/9/6/6/4/shutterstock_1899795412-a30142ea68e43779.jpg",
+      "publishedAt": "2023-08-03 06:00:00",
+      "content": "Inhaltsverzeichnis Schutzanzug, PCR-Test, Quarant\u00e4ne und Kontaktverfolgung in China erlebt man gerade ein D\u00e9j\u00e0-vu. Auf einer Pressekonferenz in der vergangenen Woche stellte das chinesische Zentrum \u2026 [+7722 chars]",
+      "retrievedAt": "2023-08-04 07:05:30.163060",
+      "internal_id": "e035ead0b6dea4a16626deae08db1ac06a3187f4923fc58ec9069c2d23b1f629",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 849,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "heise online",
+      "author": "Zeyi Yang",
+      "title": "Affenpocken: Nun auch in China \u2013 und schwer untersch\u00e4tzt",
+      "description": "Die mittlerweile unter dem Namen \"mpox\" laufende Viruserkrankung trifft China. Doch mit Infektionszahlen h\u00e4lt sich die Regierung bedeckt.",
+      "url": "https://www.heise.de/hintergrund/Affenpocken-Nun-auch-in-China-und-schwer-unterschaetzt-9232218.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/9/6/6/4/shutterstock_1899795412-a30142ea68e43779.jpg",
+      "publishedAt": "2023-08-03 06:00:00",
+      "content": "Inhaltsverzeichnis Schutzanzug, PCR-Test, Quarant\u00e4ne und Kontaktverfolgung in China erlebt man gerade ein D\u00e9j\u00e0-vu. Auf einer Pressekonferenz in der vergangenen Woche stellte das chinesische Zentrum \u2026 [+7720 chars]",
+      "retrievedAt": "2023-08-04 07:05:30.164887",
+      "internal_id": "3a66e79c5cdf03e6565eae3f4bcf9d209be4bfbc24f223bcd4716a62d110f51d",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 852,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "GlobeNewswire",
+      "title": "Bavarian Nordic Receives USD 120 Million Contract for the Manufacturing of Smallpox and Mpox Vaccine from the U.S. Government",
+      "description": "(marketscreener.com) Contract award will support manufacturing of new bulk vaccine to partly replenish the inventory used for the mpox outbreak in 2022Aims to strengthen the long-term U.S. stockpiling of smallpox vaccinesCompany upgrades its financial guidanc\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Receives-USD-120-Million-Contract-for-the-Manufacturing-of-Smallpox-and-Mpox-Vaccine-44502322/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-08-03 05:29:02",
+      "content": "Contract award will support manufacturing of new bulk vaccine to partly replenish the inventory used for the mpox outbreak in 2022Aims to strengthen the long-term U.S. stockpiling of\u2026 [+6357 chars]",
+      "retrievedAt": "2023-08-04 07:05:30.173683",
+      "internal_id": "7ce96eec88a077c25ced06a644365aeec9aa3cdbeca806399c583afb2892d6a4",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 853,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Receives USD 120 Million Contract for the Manufacturing of Smallpox and Mpox Vaccine from the U.S. Government",
+      "description": "COPENHAGEN, Denmark, August 3, 2023 \u2013 Bavarian Nordic A/S (OMX: BAVA) announced today that the U.S. Biomedical Advanced Research and Development Authority (BARDA), part of the Administration for Strategic Preparedness and Response at the U.S. Department of He\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/08/03/2717606/0/en/Bavarian-Nordic-Receives-USD-120-Million-Contract-for-the-Manufacturing-of-Smallpox-and-Mpox-Vaccine-from-the-U-S-Government.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2023-08-03 05:28:00",
+      "content": "Contract award will support manufacturing of new bulk vaccine to partly replenish the inventory used for the mpox outbreak in 2022Aims to strengthen the long-term U.S. stockpiling of\u2026 [+6357 chars]",
+      "retrievedAt": "2023-08-04 07:05:30.175367",
+      "internal_id": "507134bc4975244a779984c476f429e70bf635c23740cd4326e2d948df2f87eb",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 854,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic modtager ordre p\u00e5 produktion af koppe- og mpoxvacciner til v\u00e6rdi af USD 120 mio. fra den amerikanske regering",
+      "description": "K\u00d8BENHAVN, Danmark, 3. august 2023 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at Biomedical Advanced Research and Development Authority (BARDA), en del af Administration for Strategic Preparedness and Response ved U.S. Department of Health and Human Se\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/08/03/2717606/0/da/Bavarian-Nordic-modtager-ordre-p%C3%A5-produktion-af-koppe-og-mpoxvacciner-til-v%C3%A6rdi-af-USD-120-mio-fra-den-amerikanske-regering.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2023-08-03 05:28:00",
+      "content": "Kontrakten underst\u00f8tter produktion af ny r\u00e5vaccine til delvis genopfyldning af lageret, der blev anvendt i forbindelse med mpox-udbruddet i 2022Sigter mod at styrke USAs langsigtede \u2026 [+6227 chars]",
+      "retrievedAt": "2023-08-04 07:05:30.177256",
+      "internal_id": "3b03316282c931c0be62448b1c8eec4f4bb7abdec36de45dd0f44d319d495a04",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 855,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Bryant Hevesi",
+      "title": "Mpox cases recorded in Victoria for the first time in several months: Health authorities confirm two new locally acquired infections",
+      "description": "Mpox cases recorded in Victoria for the first time in several months: Health authorities confirm two new locally acquired infectionsskynews.com.au",
+      "url": "https://www.skynews.com.au/australia-news/mpox-cases-recorded-in-victoria-for-the-first-time-in-several-months-health-authorities-confirm-two-new-locally-acquired-infections/news-story/305f4cf5b0f3e611cdb568fb3500ec82",
+      "urlToImage": "https://content.api.news/v3/images/bin/1dc6063bd95ab4778418f8022feff9c5",
+      "publishedAt": "2023-08-03 04:30:12",
+      "content": "Health authorities in Victoria have issued an alert after new cases of mpox - previously known as monkeypox - were recorded in the state. The Department of Health on Thursday said two locally acqui\u2026 [+1820 chars]",
+      "retrievedAt": "2023-08-04 07:05:30.178740",
+      "internal_id": "0bdcf6d390207d594917c3aee6c9ae23728722f39ad2976b001769627d620fab",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 845,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Mirror Now",
+      "title": "Delhi: 5% beds to be reserved for dengue patients in all govt hospitals",
+      "description": "The Delhi government has decided to reserve 5% beds in government hospitals for dengue patients and provide test reports within six to eight hours of admission. The Delhi government said that a meeting of all government and municipal corporation hospitals in \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/delhi-5-beds-to-be-reserved-for-dengue-patients-in-all-govt-hospitals/videoshow/102372446.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-102372446,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-08-03 03:21:23",
+      "content": "The Delhi government has decided to reserve 5% beds in government hospitals for dengue patients and provide test reports within six to eight hours of admission. The Delhi government said that a meeti\u2026 [+135 chars]",
+      "retrievedAt": "2023-08-04 07:05:28.531940",
+      "internal_id": "9c0f80264e86af595bcd65281bb41a26418ca9af5b06ae48f91f7d680c977f31",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 850,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "The disease formerly known as monkeypox has been recorded in Victoria for the first time in months",
+      "description": "Victoria's health department says two cases of mpox have been recorded in the state. They are first known cases in Victoria since November 2022.",
+      "url": "https://www.abc.net.au/news/2023-08-03/local-monkeypox-mpox-cases-reported-victoria/102683552",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7bc6fdc5903b88d2ab3a7ac8a662cbb5?impolicy=wcms_crop_resize&cropH=530&cropW=942&xPos=114&yPos=0&width=862&height=485",
+      "publishedAt": "2023-08-03 02:35:17",
+      "content": "Two locally acquired cases of monkeypox, now known as mpox, have been reported in Victoria, the state's health department said. The two new mpox infections are the first recorded cases of the diseas\u2026 [+1045 chars]",
+      "retrievedAt": "2023-08-04 07:05:30.168848",
+      "internal_id": "9d04f8e9e28797fed879991dd0f2144fac9eb6401fda0ac41f073ee63040e173",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 851,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Bangkok Post Public Company Limited",
+      "title": "Chula Uni raises the alarm on mpox",
+      "description": "More than 120 people have contracted monkeypox (mpox) in Thailand -- which now has the highest number of such cases in Southeast Asia, a Chulalongkorn University virologist said on Wednesday.",
+      "url": "https://www.bangkokpost.com/thailand/general/2622585/chula-uni-raises-the-alarm-on-mpox",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20230803/c1_2622585_230803054400_700.jpg",
+      "publishedAt": "2023-08-02 21:12:00",
+      "content": "More than 120 people have contracted monkeypox (mpox) in Thailand -- which now has the highest number of such cases in Southeast Asia, a Chulalongkorn University virologist said on Wednesday. Citing\u2026 [+659 chars]",
+      "retrievedAt": "2023-08-04 07:05:30.170843",
+      "internal_id": "c4d581c0ec6a61baeff9a23873385b3a2527cede1f8b1908aa70d680937e97e3",
+      "publishedAtLabel": "Aug 2"
+    },
+    {
+      "id": 847,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "First was COVID. Now China is facing an mpox crisis as cases spike - Yahoo Canada Sports",
+      "description": "First was COVID. Now China is facing an mpox crisis as cases spike Yahoo Canada SportsView Full Coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vY2Euc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21wb3gtY2FzZXMtcmlzaW5nLWNoaW5hLWluZmVjdGlvbnMtMjAyOTQ5Njg5Lmh0bWzSAVpodHRwczovL2NhLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL21wb3gtY2FzZXMtcmlzaW5nLWNoaW5hLWluZmVjdGlvbnMtMjAyOTQ5Njg5Lmh0bWw?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-02 20:29:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-04 07:05:30.160453",
+      "internal_id": "3c38e1af5b9a5b9e611927ae6577d9e9e8b2395170c9d36a79f00293a97b3946",
+      "publishedAtLabel": "Aug 2"
+    },
     {
       "id": 835,
       "query": [
@@ -3414,204 +3612,6 @@
       "retrievedAt": "2023-07-26 07:05:38.156201",
       "internal_id": "130fb543ef2c9f19f6e823feaf8b85bebcac3547fc4b397db96fbff8a510bf89",
       "publishedAtLabel": "Jul 25"
-    },
-    {
-      "id": 655,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Level 1 - Dengue in the Americas",
-      "description": "Dengue is a risk in many parts of Central and South America, Mexico, and the Caribbean. Some countries are reporting increased numbers of cases of the disease. Travelers to the Americas can protect themselves by preventing mosquito bites.",
-      "url": "https://wwwnc.cdc.gov/travel/notices/level1/dengue-americas",
-      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
-      "publishedAt": "2023-07-25 04:00:00",
-      "content": "Dengue is a disease caused by a virus spread through mosquito bites. The disease can take up to 2 weeks to develop with illness generally lasting less than a week. Health effects from dengue include\u2026 [+347 chars]",
-      "retrievedAt": "2023-07-26 07:05:38.159399",
-      "internal_id": "00bdb8ff13034ddf97a4bcd77cc2bee5c8f98a8c8c77450400fd5cc7b5863423",
-      "publishedAtLabel": "Jul 25"
-    },
-    {
-      "id": 650,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Bangladesh: Dengue Outbreak - Jul 2023 - ReliefWeb",
-      "description": "Bangladesh: Dengue Outbreak - Jul 2023 ReliefWeb More than 170 dead as Bangladesh grapples with dengue \u2018epidemic\u2019 Al Jazeera English Nine more died of dengue, 2293 hospitalised in 24 hours Daily Sun Bangladesh logs rec\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vcmVsaWVmd2ViLmludC9kaXNhc3Rlci9lcC0yMDIzLTAwMDExNy1iZ2TSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-25 03:32:18",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-26 07:05:38.148988",
-      "internal_id": "0d7fbf73f91b092d9c0e2f9a0f9a40f3898fb90998a87aa1cf3a970fa52fde73",
-      "publishedAtLabel": "Jul 25"
-    },
-    {
-      "id": 652,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Haryana\u2019s dengue cases in this monsoon swell to 106 - Times of India",
-      "description": "Haryana\u2019s dengue cases in this monsoon swell to 106 Times of IndiaView Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMigAFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9jaXR5L2NoYW5kaWdhcmgvaGFyeWFuYXMtZGVuZ3VlLWNhc2VzLWluLXRoaXMtbW9uc29vbi1zd2VsbC10by0xMDYvYXJ0aWNsZXNob3cvMTAyMDk0NTMzLmNtc9IBe2h0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvY2hhbmRpZ2FyaC9oYXJ5YW5hcy1kZW5ndWUtY2FzZXMtaW4tdGhpcy1tb25zb29uLXN3ZWxsLXRvLTEwNi9hbXBfYXJ0aWNsZXNob3cvMTAyMDk0NTMzLmNtcw?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-25 03:02:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-26 07:05:38.153155",
-      "internal_id": "578c4163d1f392220c3147e21ec6884b57d19705e704e4975232397a39a31529",
-      "publishedAtLabel": "Jul 25"
-    },
-    {
-      "id": 649,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Over 250 dengue cases, one death reported - The Tribune India",
-      "description": "Over 250 dengue cases, one death reported The Tribune India Dengue cases surge in Ludhiana, caution advised Hindustan Times View Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnRyaWJ1bmVpbmRpYS5jb20vbmV3cy9wdW5qYWIvb3Zlci0yNTAtZGVuZ3VlLWNhc2VzLW9uZS1kZWF0aC1yZXBvcnRlZC01Mjg2NjTSAVZodHRwczovL20udHJpYnVuZWluZGlhLmNvbS9uZXdzL3B1bmphYi9vdmVyLTI1MC1kZW5ndWUtY2FzZXMtb25lLWRlYXRoLXJlcG9ydGVkLTUyODY2NA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-25 00:15:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-26 07:05:38.146839",
-      "internal_id": "1f5feb27d4672dc3d6c831f29a110a7f8f47b3f9a6ae6bc23ac3cd848dd5f6ce",
-      "publishedAtLabel": "Jul 25"
-    },
-    {
-      "id": 651,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "3 test +ve for dengue in city, Hry tally nears 100 - Times of India",
-      "description": "3 test +ve for dengue in city, Hry tally nears 100 Times of IndiaView Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMie2h0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkvZ3VyZ2Fvbi8zLXRlc3QtdmUtZm9yLWRlbmd1ZS1pbi1jaXR5LWhyeS10YWxseS1uZWFycy0xMDAvYXJ0aWNsZXNob3cvMTAyMDkxNzY1LmNtc9IBdmh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkvZ3VyZ2Fvbi8zLXRlc3QtdmUtZm9yLWRlbmd1ZS1pbi1jaXR5LWhyeS10YWxseS1uZWFycy0xMDAvYW1wX2FydGljbGVzaG93LzEwMjA5MTc2NS5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-24 23:22:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-26 07:05:38.150702",
-      "internal_id": "413642af2bc01397100bf3b09992917acbf1ceb90b82ecbe1192bbd0e5be004f",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 648,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "TheJournal.ie",
-      "author": "Valerie Flynn",
-      "title": "HSE warns measles outbreak could happen in Ireland amid faltering vaccine uptake",
-      "description": "There has been a significant increase in cases of measles in Europe in the first half of this year.",
-      "url": "https://www.thejournal.ie/mmr-ireland-measles-risk-6125448-Jul2023/",
-      "urlToImage": "https://img2.thejournal.ie/article/6125448/river/?height=400&version=6127189",
-      "publishedAt": "2023-07-24 23:05:20",
-      "content": "THE HSE HAS warned a measles outbreak could happen in Ireland and urged parents to ensure children are immunised before travelling this summer, amid vaccine uptake below the level required for herd i\u2026 [+6776 chars]",
-      "retrievedAt": "2023-07-26 07:05:37.860033",
-      "internal_id": "f86fbf3574196eb55c357cc12d09a973f36545dc1133307b3259e7d29f6afeb2",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 657,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "India.com",
-      "author": "Bureau",
-      "title": "Health Commission: \u09b2\u09be\u0987\u09ab \u09b8\u09be\u09aa\u09cb\u09b0\u09cd\u099f \u09b8\u09bf\u09b8\u09cd\u099f\u09c7\u09ae \u0996\u09c1\u09b2\u09a4\u09c7\u0987 \u09b0\u09cb\u0997\u09c0\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1! \u09a8\u09be\u09ae\u09c0 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u0995\u09c7 \u099c\u09b0\u09bf\u09ae\u09be\u09a8\u09be \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09df \u0995\u09ae\u09bf\u09b6\u09a8\u09c7\u09b0 A hospital fined by health commission for patient death in Kolkata",
-      "description": "Health Commission: \u09b2\u09be\u0987\u09ab \u09b8\u09be\u09aa\u09cb\u09b0\u09cd\u099f \u09b8\u09bf\u09b8\u09cd\u099f\u09c7\u09ae \u0996\u09c1\u09b2\u09a4\u09c7\u0987 \u09b0\u09cb\u0997\u09c0\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1! \u09a8\u09be\u09ae\u09c0 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u0995\u09c7 \u099c\u09b0\u09bf\u09ae\u09be\u09a8\u09be \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09df \u0995\u09ae\u09bf\u09b6\u09a8\u09c7\u09b0 A hospital fined by health commission for patient death in Kolkataindia.com",
-      "url": "https://zeenews.india.com/bengali/kolkata/a-hospital-fined-by-health-commission-for-patient-death-in-kolkata_481464.html",
-      "urlToImage": "https://bengali.cdn.zeenews.com/bengali/sites/default/files/2023/07/24/430906-ahospital.png",
-      "publishedAt": "2023-07-24 21:52:57",
-      "content": ": ! ? , : Dengue: ? , , ! ? , ! ? - , , , ! ' ' ,'' : Partha Chatterjee: ' '! (Zee 24 Ghanta App , , , , , , , Zee 24 Ghanta App)",
-      "retrievedAt": "2023-07-26 07:05:38.165063",
-      "internal_id": "09a190d5e4be26655b084943e65bd477b17965c72462d70ae785ebc20da8610c",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 670,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Malaria has come to Sarasota and somehow that's not surprising - Sarasota Herald-Tribune",
-      "description": "Malaria has come to Sarasota and somehow that's not surprising Sarasota Herald-Tribune Florida doctor who survived malaria multiple times warns of dangers, urges community to help control spread WFLA In Florida's local malaria ou\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5oZXJhbGR0cmlidW5lLmNvbS9zdG9yeS9vcGluaW9uL2NvbHVtbnMvMjAyMy8wNy8yMy9tYWxhcmlhLWhhcy1jb21lLXRvLXNhcmFzb3RhLWFuZC1zb21laG93LXRoYXRzLW5vdC1zdXJwcmlzaW5nLzcwNDQzMDIxMDA3L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-24 21:12:14",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-26 19:05:52.461258",
-      "internal_id": "34eef6d89bb80b9a0e0fbbc5abae5eab3f38b8852567f33e4f72a597d38d266a",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 646,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Vaccine drops for wildlife stepped up as western N.B. sees rash of rabies cases - CBC.ca",
-      "description": "Vaccine drops for wildlife stepped up as western N.B. sees rash of rabies cases CBC.ca Rabies vaccine drop starts end of July News10NBC View Full Coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9uZXctYnJ1bnN3aWNrL2NhcmxldG9uLWNvdW50eS13b29kc3RvY2stZ3JlZW4tcGlsbHMtcmFiaWVzLTEuNjkxNjAxNNIBIGh0dHBzOi8vd3d3LmNiYy5jYS9hbXAvMS42OTE2MDE0?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-24 19:41:18",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-26 07:05:37.446535",
-      "internal_id": "36e62d9fbb0a5fb5fb60ab9e3bf833a2f766ce2df10a839a84297f41b5cc8643",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 656,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Shiv Sudhakar",
-      "title": "Dengue fever cases could reach near-record highs this year: What to know about the tropical infectious disease",
-      "description": "As the WHO warns that cases of dengue fever could reach near-record highs this year, here's what to know about the tropical infectious disease spread by mosquitoes.",
-      "url": "https://www.foxnews.com/health/dengue-fever-cases-could-reach-near-record-highs-this-yea-what-know-tropical-infectious-disease",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/woman-with-headache-with-doctor.jpg",
-      "publishedAt": "2023-07-24 19:35:38",
-      "content": "The World Health Organization warned on Friday that cases of dengue fever could reach close to record highs this year, partly due to global warming and the way that climate has helped the mosquitoes \u2026 [+7104 chars]",
-      "retrievedAt": "2023-07-26 07:05:38.161881",
-      "internal_id": "3112540f445c79b4408dc0a3e1115a0e88095de5ad3f983671151afb827597df",
-      "publishedAtLabel": "Jul 24"
-    },
-    {
-      "id": 631,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": "CBC News",
-      "title": "Western N.B. sees rash of rabies cases",
-      "description": "New Brunswick is marking the highest number of rabies cases in the province since 2017.",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/carleton-county-woodstock-green-pills-rabies-1.6916014",
-      "urlToImage": "https://i.cbc.ca/1.4710983.1688590358!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/raccoon.jpg",
-      "publishedAt": "2023-07-24 17:35:15",
-      "content": "New Brunswick is marking the highest number of rabies cases in the province since 2017. So far in 2023, there have been six confirmed cases of rabies, all in raccoons, according to provincial number\u2026 [+1355 chars]",
-      "retrievedAt": "2023-07-25 19:05:13.033461",
-      "internal_id": "6ac932707b8e33f5a58fc6a088e44b7236fdbc102be2e90b62121d431ba7c43d",
-      "publishedAtLabel": "Jul 24"
     }
   ]
 }
