@@ -1,8 +1,278 @@
 {
-  "last_updated": "2023-08-04 19:05",
+  "last_updated": "2023-08-05 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 22,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 885,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue fever: Serotype-2 more active in Nepal",
+      "description": "KATHMANDU: The current circulating serotype of dengue virus in the country is DENV-2, according to a study carried out by the Epidemiology and Infectious Diseases Control Division of the Ministry of Health and Population. Dr Gokarna Dahal of the Division said\u2026",
+      "url": "https://english.khabarhub.com/2023/04/313210/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-08-04 06:20:51",
+      "content": "KATHMANDU: The current circulating serotype of dengue virus in the country is DENV-2, according to a study carried out by the Epidemiology and Infectious Diseases Control Division of the Ministry of \u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.309668",
+      "internal_id": "62761589a5446ac4c4a7cdf3fef140ef27d1313357d04f61b1ad5413a795fb66",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 881,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue Cases at All-Time High in India: Tips to Stay Safe - Krishi Jagran",
+      "description": "Dengue Cases at All-Time High in India: Tips to Stay Safe Krishi Jagran Dengue Cases Rising In India: 5 Protective Measures To Keep Your Children Safe From Dengue Fever Zee News Dengue On The Rise In India: Early Signs of The De\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiY2h0dHBzOi8va3Jpc2hpamFncmFuLmNvbS9oZWFsdGgtbGlmZXN0eWxlL2Rlbmd1ZS1jYXNlcy1hdC1hbGwtdGltZS1oaWdoLWluLWluZGlhLXRpcHMtdG8tc3RheS1zYWZlL9IBaWh0dHBzOi8va3Jpc2hpamFncmFuLmNvbS9oZWFsdGgtbGlmZXN0eWxlL2Rlbmd1ZS1jYXNlcy1hdC1hbGwtdGltZS1oaWdoLWluLWluZGlhLXRpcHMtdG8tc3RheS1zYWZlLz9hbXA9MQ?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-04 05:28:22",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.297875",
+      "internal_id": "f025c3f6517884ebf756a1982e179e10397a0e7a2ca2d1a4159cfb91303acea8",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 891,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Chance discovery helps fight against malaria - BBC",
+      "description": "Chance discovery helps fight against malariaBBC Microbe stops mosquitoes from harboring malaria parasiteScience Bacteria in mosquito guts trialled as weapon against malariaFinancial Times Delftia tsuruhatensis TC1 symbiont suppresses malaria transmission by a\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171537984",
+      "urlToImage": null,
+      "publishedAt": "2023-08-04 03:12:12",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.883342",
+      "internal_id": "4664ee75f0436d21190a795683ac5de69979648d618c580985109d65e24021b4",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 879,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "MedPage Today",
+      "author": "Medpage Today",
+      "title": "Measles Outbreak Racked Up Dozens of Cases in Central Ohio",
+      "description": "Measles Outbreak Racked Up Dozens of Cases in Central Ohiomedpagetoday.com",
+      "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/105750",
+      "urlToImage": "https://assets.medpagetoday.net/media/images/105xxx/105750.jpg",
+      "publishedAt": "2023-08-04 03:02:36",
+      "content": "A measles outbreak swept through central Ohio at the end of 2022, infecting almost exclusively children unvaccinated against the disease, CDC researchers found. From November through December, 85 ch\u2026 [+5654 chars]",
+      "retrievedAt": "2023-08-05 07:05:13.933849",
+      "internal_id": "7ddf5d88edcbe46879189f4fc7062a7c65c9420f8b0fdac4907a1dbf8744fd4e",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 882,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "182 infected with Dengue in Tripura: Govt advises not to panic - United News of India",
+      "description": "182 infected with Dengue in Tripura: Govt advises not to panic United News of India Tripura battles surge in dengue cases; 182 positive cases reported - Tripura battles surge in dengue cases; 182 positive cases reported - India Today NE <\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibGh0dHA6Ly93d3cudW5paW5kaWEuY29tLzE4Mi1pbmZlY3RlZC13aXRoLWRlbmd1ZS1pbi10cmlwdXJhLWdvdnQtYWR2aXNlcy1ub3QtdG8tcGFuaWMvZWFzdC9uZXdzLzMwMjM5NjguaHRtbNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-04 02:50:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.299134",
+      "internal_id": "526014dd319f85ad5b8abc6adf085dc3325952de153b5c9996539653be160290",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 883,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "\u2018Dengue spreading from Bangladesh\u2019: Tripura starts tests at border checkposts",
+      "description": "AGARTALA, Aug 3 (PTI): Tripura has registered 92 cases of dengue over the past few days, and most of them were detected in the Sepahijala district along the Bangladesh border, an official said on Thursday. There has been no death due to dengue in the state ye\u2026",
+      "url": "https://thehillstimes.in/northeast/dengue-spreading-from-bangladesh-tripura-starts-tests-at-border-checkposts",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/08/\u2018Dengue-spreading-from-Bangladesh-Tripura-starts-tests-at-border-checkposts.jpg",
+      "publishedAt": "2023-08-04 00:53:29",
+      "content": "AGARTALA, Aug 3 (PTI): Tripura has registered 92 cases of dengue over the past few days, and most of them were detected in the Sepahijala district along the Bangladesh border, an official said on Thu\u2026 [+1334 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.301944",
+      "internal_id": "d7709e6edbdb569ee40e6344df576152599511ee0cde82b75d249f371ee74849",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 892,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Bbc News",
+      "title": "Chance discovery helps fight against malaria",
+      "description": "Scientists have found a strain of bacteria which they believe could prevent spread of the disease.",
+      "url": "https://www.bbc.com/news/health-66394117",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EEB0/production/_130640116_gettyimages-1449441320.jpg",
+      "publishedAt": "2023-08-04 00:41:15",
+      "content": "Scientists have found a naturally occurring strain of bacteria which can help stop the transmission of malaria from mosquitoes to humans. They found it by chance, after a colony of mosquitoes in on\u2026 [+2807 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.884636",
+      "internal_id": "847ad54c658e3f28fc75f0b74d35f92eab60e4c531a5ef0c56d667fa8a475023",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 890,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Naomi Grimley - Health Correspondent",
+      "title": "Chance discovery helps fight against malaria",
+      "description": "Scientists have found a strain of bacteria which they believe could prevent spread of the disease.",
+      "url": "https://www.bbc.com/news/health-66394117?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/ba4d9ffa3e8dd478a6b9002deeca5eb0",
+      "publishedAt": "2023-08-04 00:22:23",
+      "content": "Scientists have found a naturally occurring strain of bacteria which can help stop the transmission of malaria from mosquitoes to humans. They found it by chance, after a colony of mosquitoes in one\u2026 [+2743 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.878512",
+      "internal_id": "f30a8398837f0400d893c24ff59814879e1ac531e008f16432cc21de12f743eb",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 886,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Chance discovery helps fight against malaria",
+      "description": "Scientists have found a strain of bacteria which they believe could prevent spread of the disease.",
+      "url": "https://www.bbc.co.uk/news/health-66394117",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EEB0/production/_130640116_gettyimages-1449441320.jpg",
+      "publishedAt": "2023-08-04 00:19:25",
+      "content": "Scientists have found a naturally occurring strain of bacteria which can help stop the transmission of malaria from mosquitoes to humans. They found it by chance, after a colony of mosquitoes in on\u2026 [+2807 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.872653",
+      "internal_id": "8f2ad0e7c96b71ef9c69a440edc52c4584a9d69f8d909a94e661ded2a45e6df9",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 889,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Chance discovery helps fight against malaria - BBC",
+      "description": "Chance discovery helps fight against malaria BBC Microbe stops mosquitoes from harboring malaria parasite Science Bacteria in mosquito guts trialled as weapon against malaria Financial Times Delftia tsuruhatensis TC1 s\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNjYzOTQxMTfSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvaGVhbHRoLTY2Mzk0MTE3LmFtcA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-04 00:19:25",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.877103",
+      "internal_id": "2093a46cd729f9740a1584a671a625497e5dcbfb0ae1a3e77447fa39c6a6c3b6",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 884,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Dengue pode ser prevenida com vacina",
+      "description": "A doen\u00e7a da dengue, que \u00e9 transmitida pelo mosquito aedes aegypti, pode ser prevenida com vacina. O imunizante foi aprovado pela Anvisa e j\u00e1 t...",
+      "url": "http://recordtv.r7.com/record-tv-litoral-e-vale/sp-record/videos/dengue-pode-ser-prevenida-com-vacina-03082023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/08/03/64cbf651c012ad36c10000a0/eba8d82f1ecc4cf895e1c11792f7ba9b__Dengue_pode_ser_prevenida_com_vacina_thumb.jpg",
+      "publishedAt": "2023-08-03 20:43:00",
+      "content": "A doen\u00e7a da dengue, que \u00e9 transmitida pelo mosquito aedes aegypti, pode ser prevenida com vacina. O imunizante foi aprovado pela Anvisa e j\u00e1 tem pessoas que buscam a prote\u00e7\u00e3o. Veja na reportagem.",
+      "retrievedAt": "2023-08-05 07:05:14.305616",
+      "internal_id": "cad8cb4034f0ed515595f6afb0e9f4b762262992e70741f9ab952acae93a6b1d",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 878,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Shawlocal.com",
+      "author": "Shaw Local News Network",
+      "title": "Health officials urge public to watch out for rabid bats",
+      "description": "So far this year, 27 rabid bats have been found in 14 Illinois counties.",
+      "url": "https://www.shawlocal.com/news/2023/08/03/health-officials-urge-public-to-watch-out-for-rabid-bats/",
+      "urlToImage": "https://www.shawlocal.com/resizer/kdIlg-r1GhQZXAHgGWnY_MASe8o=/1200x630/filters:format(jpg):quality(70):focal(520x292:530x302)/cloudfront-us-east-1.images.arcpublishing.com/shawmedia/ZYBERZ6Y3EPDZT5HP7UDANMKHQ.jpg",
+      "publishedAt": "2023-08-03 20:12:04",
+      "content": "The Illinois Department of Public Health is reminding the public to be aware of the potential for exposure to rabies from infected animals. Bats are the most common source of potential infection in I\u2026 [+2416 chars]",
+      "retrievedAt": "2023-08-05 07:05:13.555683",
+      "internal_id": "0e0529bb50f1c821330009eb142674f7ea763c78afd1747146900a279c734c6b",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 887,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Very Normal! Leprosy Cases Surging in Florida, Government Says - Futurism",
+      "description": "Very Normal! Leprosy Cases Surging in Florida, Government Says Futurism Florida leprosy cases on the rise, at least 15 cases this year FOX 26 Houston Florida diseases causing alarm include malaria, leprosy and amoeba Pensacola N\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZnV0dXJpc20uY29tL25lb3Njb3BlL2xlcHJvc3ktY2FzZXMtc3VyZ2luZy1pbi1mbG9yaWRh0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-03 19:46:34",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.874896",
+      "internal_id": "fe71361f469f0b4180214df7c5820f9651ad1dbe349eb6c2f4ebe42c3275fa6c",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 880,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue Vaccine Market Anticipated to Experience Record Growth of USD 1.28 Billion by 2030 - PharmiWeb.com",
+      "description": "Dengue Vaccine Market Anticipated to Experience Record Growth of USD 1.28 Billion by 2030 PharmiWeb.com Dengue Cases Rising In India: 5 Protective Measures To Keep Your Children Safe From Dengue Fever Zee News Dengue cases on ris\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5waGFybWl3ZWIuY29tL3ByZXNzLXJlbGVhc2UvMjAyMy0wOC0wMy9kZW5ndWUtdmFjY2luZS1tYXJrZXQtYW50aWNpcGF0ZWQtdG8tZXhwZXJpZW5jZS1yZWNvcmQtZ3Jvd3RoLW9mLXVzZC0xMjgtYmlsbGlvbi1ieS0yMDMw0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-03 19:40:26",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.296487",
+      "internal_id": "b441876a36e1c2fb9e7b1d7d4602de815a8c36091dd1edf26f4d997c8ea2b779",
+      "publishedAtLabel": "Aug 3"
+    },
+    {
+      "id": 888,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bacteria, Seen as Safe for the Environment, May Help Aid Malaria Eradication - BNN Bloomberg",
+      "description": "Bacteria, Seen as Safe for the Environment, May Help Aid Malaria Eradication BNN Bloomberg Bacteria in mosquito guts trialled as weapon against malaria Financial Times Chance discovery helps fight against malaria BBC M\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJubmJsb29tYmVyZy5jYS9iYWN0ZXJpYS1zZWVuLWFzLXNhZmUtZm9yLXRoZS1lbnZpcm9ubWVudC1tYXktaGVscC1haWQtbWFsYXJpYS1lcmFkaWNhdGlvbi0xLjE5NTQ2ODLSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-03 19:34:20",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-05 07:05:14.875987",
+      "internal_id": "f1a87faf06add2f19c391ccf23c4ed8c8611149b533cbaa078af853560200e41",
+      "publishedAtLabel": "Aug 3"
+    },
     {
       "id": 872,
       "query": [
@@ -3340,276 +3610,6 @@
       "content": "Am Frankfurter Flughafen hat sich ein Mitarbeiter mit Malaria infiziert. Wie eine Sprecherin des Flughafenbetreibers Fraport best\u00e4tigte, hat das Gesundheitsamt einen Fall der seltenen Airport-Malaria\u2026 [+849 chars]",
       "retrievedAt": "2023-07-28 07:05:44.082809",
       "internal_id": "86055513f224c134fe7562e50c4f39d93c76976a9e2386ebfd3a6a7aead83474",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 711,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Bleeding Cool News",
-      "author": "Rich Johnston",
-      "title": "Wilson Fisk And The X-Men (Hellfire Gala XSpoilers)",
-      "description": "Wilson Fisk recently fled from New York where he was defeated as Mayor and charged with murder, to seek asylum by dint of marriage to Typhoid Mary on the island of Krakoa. Not everyone was pleased with the arrangement, but this was an island that had taken on\u2026",
-      "url": "https://bleedingcool.com/comics/wilson-fisk-and-the-x-men-hellfire-gala-xspoilers/",
-      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2023/07/Screenshot-2023-07-25-191349-1200x628.jpg",
-      "publishedAt": "2023-07-26 12:57:21",
-      "content": "Posted in: Comics, Comics Publishers, Current News, Marvel Comics, X-Men | Tagged: adam kubert, Gerry Duggan, hellfire gala, javier pina, jonathan hickman, Joshua Cassara, krakoa, kris anka, Luciano \u2026 [+2746 chars]",
-      "retrievedAt": "2023-07-28 07:05:46.236177",
-      "internal_id": "3d257970bafd4347c1ebe04887d5990035ad33a5a6d82272032bfadcc08ca192",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 701,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Over 4,000 dengue patients across country",
-      "description": "KATHMANDU: At least 4,289 dengue patients have been reported across the country. According to the Epidemiology and Disease Control Division, the number of dengue patients was 2,930 as of 15 July. By provinces, Koshi Province has recorded highest 2,754 patient\u2026",
-      "url": "https://english.khabarhub.com/2023/26/312125/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-07-26 12:45:09",
-      "content": "KATHMANDU: At least 4,289 dengue patients have been reported across the country. According to the Epidemiology and Disease Control Division, the number of dengue patients was 2,930 as of 15 July. B\u2026 [+639 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.600887",
-      "internal_id": "5ac285e1b1c12fbdc63d790dd7ef8c79d73fe61f9a8fa11f9c27c4d7ce28ecf9",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 697,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "Un an\u00e1lisis virtual del virus del dengue halla una diana terap\u00e9utica para evitar la infecci\u00f3n",
-      "description": "Un estudio de la Universidad Miguel Hern\u00e1ndez (UMH) de Elche (Alicante) ha demostrado en qu\u00e9 lugar espec\u00edfico del virus se puede producir la interacci\u00f3n con las c\u00e9lulas humanas y, por lo tanto, d\u00f3nde deber\u00edan dirigirse los f\u00e1rmacos para prevenir la infecci\u00f3n \u2026",
-      "url": "https://www.infosalus.com/salud-investigacion/noticia-analisis-virtual-virus-dengue-halla-diana-terapeutica-evitar-infeccion-20230726135317.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230726135317_1200.jpg",
-      "publishedAt": "2023-07-26 11:53:17",
-      "content": "ALICANTE, 26 Jul. (EUROPA PRESS) - Un estudio de la Universidad Miguel Hern\u00e1ndez (UMH) de Elche (Alicante) ha demostrado en qu\u00e9 lugar espec\u00edfico del virus se puede producir la interacci\u00f3n con las \u2026 [+4378 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.584660",
-      "internal_id": "13a3db6280ea01fc9245ffab439eefb86f0ac9f4eb19b2296602778b4c2056d7",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 688,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Jewishnews.co.uk",
-      "author": null,
-      "title": "Major measles outbreak alert for Hackney and Haringey",
-      "description": "At least 40,000 at risk in Charedi areas of north London due to lower take up of free MMR vaccination for 4-11 year olds",
-      "url": "https://www.jewishnews.co.uk/major-measles-outbreak-alert-for-hackney-and-haringey/",
-      "urlToImage": "https://static.jewishnews.co.uk/jewishnews/uploads/2023/07/vaccine-pink_thumb-1024x640.png",
-      "publishedAt": "2023-07-26 10:58:02",
-      "content": "Up to 160,000 children are at risk from a measles outbreak in Hackney and Haringey according to a risk assessment from the UK Health Security Agency (UKHSA). The government agency has estimated betw\u2026 [+3161 chars]",
-      "retrievedAt": "2023-07-28 07:05:41.765555",
-      "internal_id": "05ddb4ab312fe0d308a3b84117f9490de6e86833a8d225dadc193ce4cbafddcd",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 696,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Volkskrant.nl",
-      "author": "Tonie Mudde",
-      "title": "Tijdens je vakantie kun je nu wetenschappers helpen bij onderzoek naar muggen en teken",
-      "description": "Op vakantie de wetenschap vooruithelpen? De universitair medisch centra van Utrecht, Leiden en Rotterdam starten een onderzoek naar de verspreiding...",
-      "url": "https://www.volkskrant.nl/wetenschap/tijdens-je-vakantie-kun-je-nu-wetenschappers-helpen-bij-onderzoek-naar-muggen-en-teken~bce60c74/",
-      "urlToImage": "https://img.volkskrant.nl/28927264966ed2b502a358a8005d1eff6260d8df/tijdens-je-vakantie-kun-je-nu-wetenschappers-helpen-bij-onderzoek-naar-muggen-en-teken",
-      "publishedAt": "2023-07-26 10:45:51",
-      "content": "Als gevolg van klimaatverandering wordt Europa een steeds aantrekkelijker leefgebied voor de tijgermug, die mensen kan besmetten met dengue (knokkelkoorts).Beeld Getty Images/iStockphoto Het nieuwe \u2026 [+3086 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.581832",
-      "internal_id": "508af26ac0364d8d32616b74eb2113cc77af17ceaf5da1e2de6f2ea8258aea62",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 683,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Two year old rabies-infected girl bites 40 people before dying in UP's Jalaun",
-      "description": "A 2.5-year-old girl from Uttar Pradesh's Jalaun district died after being bitten by a stray dog. The girl was bitten, and instead of seeing a qualified doctor, was taken to a quack. Her symptoms of rabies were supposedly ignored by the family, and she started\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/two-year-old-rabies-infected-girl-bites-40-people-before-dying-in-ups-jalaun/articleshow/102137776.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-102137846,width-1070,height-580,imgsize-41602,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-07-26 10:28:22",
-      "content": "In a shocking incident, a two-and-a-half-year-old girl from Kyolari village in Uttar Pradesh's Jalaun district reportedly passed away on Monday, two weeks after being bitten by a stray dog. Shockingl\u2026 [+1577 chars]",
-      "retrievedAt": "2023-07-28 07:05:41.098794",
-      "internal_id": "eb0e7e3ff94fe743094743634d400d063389402d5acc4262d83f3542061acbb2",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 703,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Research and Markets",
-      "title": "Global Malaria Diagnostics - Strategic Business Report (2023 to 2030): China's Malaria Diagnostics Market on the Rise, Poised for Significant Growth",
-      "description": "Dublin, July 26, 2023 (GLOBE NEWSWIRE) -- The \"Malaria Diagnostics - Global Strategic Business Report\" report has been added to ResearchAndMarkets.com's offering.",
-      "url": "https://www.globenewswire.com/news-release/2023/07/26/2711082/28124/en/Global-Malaria-Diagnostics-Strategic-Business-Report-2023-to-2030-China-s-Malaria-Diagnostics-Market-on-the-Rise-Poised-for-Significant-Growth.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2023-07-26 09:33:00",
-      "content": "Dublin, July 26, 2023 (GLOBE NEWSWIRE) -- The \"Malaria Diagnostics - Global Strategic Business Report\" report has been added to ResearchAndMarkets.com's offering. Global Malaria Diagnostics Market E\u2026 [+5376 chars]",
-      "retrievedAt": "2023-07-28 07:05:44.079068",
-      "internal_id": "6436d6a3252f8217da18e663b66d5c00c70824408ddfd914481b70b8e48bf15c",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 692,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Bangkok Post Public Company Limited",
-      "title": "Bangladesh fears record high dengue death toll",
-      "description": "DHAKA: Dengue is spreading rapidly through densely populated Bangladesh this rainy season, raising fears that the mosquito-borne disease could result in a record number of deaths and infections for the second consecutive year.",
-      "url": "https://www.bangkokpost.com/world/2618251/bangladesh-fears-record-high-dengue-death-toll",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20230726/c1_2618251_700.jpeg",
-      "publishedAt": "2023-07-26 08:10:00",
-      "content": "DHAKA: Dengue is spreading rapidly through densely populated Bangladesh this rainy season, raising fears that the mosquito-borne disease could result in a record number of deaths and infections for t\u2026 [+1578 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.564623",
-      "internal_id": "9a37da8cf3f8833dd738d3e7cab81ddc7de87f355111d471b1ab508e658d80ee",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 699,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "More than 170 dead as Bangladesh grapples with dengue \u2018epidemic\u2019 - Al Jazeera English",
-      "description": "More than 170 dead as Bangladesh grapples with dengue \u2018epidemic\u2019Al Jazeera English Bangladesh fears record high death toll from dengue outbreakReuters Bangladesh Dengue Response Operation 2023 - DREF Operation (MDRBD031) - BangladeshReliefWeb Dengue toll cros\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171471378",
-      "urlToImage": null,
-      "publishedAt": "2023-07-26 07:32:13",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.589280",
-      "internal_id": "310f425951649a41329b4ad126f206fa623c28397cefea853e9a67aa237316e7",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 693,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Pune Sees Surge In Dengue Cases With 12 Confirmed Patients This Month - Punekar News",
-      "description": "Pune Sees Surge In Dengue Cases With 12 Confirmed Patients This Month Punekar News PMC to raise awareness about vector-borne diseases at crowded public places Hindustan Times Focus on surveillance amid rise in vector-borne diseas\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnB1bmVrYXJuZXdzLmluL3B1bmUtc2Vlcy1zdXJnZS1pbi1kZW5ndWUtY2FzZXMtd2l0aC0xMi1jb25maXJtZWQtcGF0aWVudHMtdGhpcy1tb250aC_SAQA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-26 07:30:14",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.566956",
-      "internal_id": "90de23dd9b63871e6ce29dde0c60c90e5614f58d99f02242c6c9ec649c53f24f",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 695,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "Bangladesh fears record high death toll from dengue outbreak",
-      "description": "(marketscreener.com) Dengue is spreading rapidly through densely populated Bangladesh this rainy season, raising fears that the mosquito-borne disease could result in a record number of deaths and infections for the second consecutive year.https://www.markets\u2026",
-      "url": "https://www.marketscreener.com/quote/index/TOPIX-INDEX-61714390/news/Bangladesh-fears-record-high-death-toll-from-dengue-outbreak-44420381/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-07-26 07:11:43",
-      "content": "DHAKA (Reuters) - Dengue is spreading rapidly through densely populated Bangladesh this rainy season, raising fears that the mosquito-borne disease could result in a record number of deaths and infec\u2026 [+1509 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.574332",
-      "internal_id": "c347f0990910641cb7265d42a821f64232300d0b7fbe3a2c2a9a0051e545be83",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 674,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Futura",
-      "author": "Yannick Simonin, Virologiste, ma\u00eetre de conf\u00e9rences en surveillance et \u00e9tude des maladies \u00e9mergentes, Universit\u00e9 de Montpellier \u2014 The Conversation",
-      "title": "Dengue en France : vers une ann\u00e9e record ?",
-      "description": "\u00catre piqu\u00e9 par un moustique, rien que de tr\u00e8s banal. Toutefois, il peut devenir votre pire cauchemar s'il est porteur de virus. Face \u00e0 l'explosion de cas de dengue \u00ab autochtones \u00bb, l'an dernier, dans des d\u00e9partements exempts de cette maladie, les experts sonn\u2026",
-      "url": "https://www.futura-sciences.com/sante/actualites/maladie-vectorielle-dengue-france-vers-annee-record-106688/",
-      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/d/f/2/df28e8e82e_50204438_moustique.jpg",
-      "publishedAt": "2023-07-26 05:29:54",
-      "content": "De lavis de tous les sp\u00e9cialistes, lann\u00e9e 2022 a \u00e9t\u00e9 exceptionnelle en France m\u00e9tropolitaine sur le front de la circulation des arbovirus, ces virus transmis par les arthropodes se nourrissant de san\u2026 [+7360 chars]",
-      "retrievedAt": "2023-07-27 07:05:45.556155",
-      "internal_id": "91f5b4f48c6718c25d3f37aa4edbd0685175e098a6ef5f703008fd0b429cba99",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 679,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "India.com",
-      "author": "Shivendra Singh",
-      "title": "Dengue Havoc: \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0906\u0927\u0940 \u0906\u092c\u093e\u0926\u0940 \u092a\u0930 \u092c\u0922\u093c\u093e \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0916\u0924\u0930\u093e, WHO \u0915\u0940 \u092f\u0947 \u091a\u0947\u0924\u093e\u0935\u0928\u0940 \u0921\u0930\u093e \u0926\u0947\u0917\u0940 \u0906\u092a\u0915\u094b!",
-      "description": "Dengue: \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0940 \u0906\u0927\u0940 \u0906\u092c\u093e\u0926\u0940 \u0915\u094b \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0916\u0924\u0930\u093e \u0939\u0948. \u092f\u093e\u0928\u093f \u0932\u0917\u092d\u0917 4 \u0905\u0930\u092c \u0932\u094b\u0917 \u0909\u0928 \u091c\u0917\u0939\u094b\u0902 \u092a\u0930 \u0930\u0939\u0924\u0947 \u0939\u0948\u0902, \u091c\u0939\u093e\u0902 \u0921\u0947\u0902\u0917\u0942 \u092c\u0941\u0916\u093e\u0930 \u0906\u0938\u093e\u0928\u0940 \u0938\u0947 \u092b\u0948\u0932 \u0938\u0915\u0924\u093e \u0939\u0948. \u0939\u0930 \u0938\u093e\u0932 \u0915\u0930\u0940\u092c 40 \u0915\u0930\u094b\u0921\u093c \u0932\u094b\u0917 \u0907\u0938\u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902.",
-      "url": "https://zeenews.india.com/hindi/health/risk-of-dengue-has-increased-on-half-of-the-worlds-population-who-warning-will-scare-you/1796213",
-      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/07/26/1988276-dengue-havoc.jpg",
-      "publishedAt": "2023-07-26 04:39:07",
-      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+357 chars]",
-      "retrievedAt": "2023-07-27 07:05:45.570866",
-      "internal_id": "2cf2d21d37978a213258a5a4bcd1a1936da82682d0b23ae2b6073078b735f7b4",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 675,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Bangladesh's dengue death toll hits 201 - Xinhua",
-      "description": "Bangladesh's dengue death toll hits 201 Xinhua Bangladesh fears record high dengue death toll Bangkok Post Bangladesh dengue death toll jumps to 185 - Jammu Kashmir Latest News | Tourism | Breaking News J&K Daily Excelsior </li\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZW5nbGlzaC5uZXdzLmNuLzIwMjMwNzI2LzI4M2ZlMzk1OTJlMzQ0ODdiNzI3YzI3NDlmOTc5YzNmL2MuaHRtbNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-26 03:50:15",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-27 07:05:45.559483",
-      "internal_id": "70ef1cd9b367e192c9a192f5edbb30ac2419acd86a22a6561db4a8784c32cc52",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 678,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Bangladesh's dengue death toll jumps to 185",
-      "description": "DHAKA, July 25 (Xinhua) -- The death toll from the viral dengue outbreak in Bangladesh has risen to",
-      "url": "http://en.people.cn/n3/2023/0726/c90000-20049434.html",
-      "urlToImage": null,
-      "publishedAt": "2023-07-26 03:02:27",
-      "content": "DHAKA, July 25 (Xinhua) -- The death toll from the viral dengue outbreak in Bangladesh has risen to 185 so far this year, while reported cases have reached 35,270, the Directorate General of Health S\u2026 [+932 chars]",
-      "retrievedAt": "2023-07-27 07:05:45.568808",
-      "internal_id": "ca4a44b8c9a0f98a01a727ab01a2375e9a7941c4623ff2f604dbcbfad35d9058",
       "publishedAtLabel": "Jul 26"
     }
   ]
