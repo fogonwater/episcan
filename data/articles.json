@@ -1,8 +1,315 @@
 {
-  "last_updated": "2023-08-05 07:05",
+  "last_updated": "2023-08-05 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 15,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 904,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Ben Coxworth",
+      "title": "To give mosquito insecticide a boost ... just pop it in the microwave?",
+      "description": "While insecticide-treated bed nets do help protect people from malaria-carrying mosquitos, the chemicals are becoming less effective as the insects develop a resistance to them. It now appears that microwaving one such insecticide, however, makes it \"good\" ag\u2026",
+      "url": "https://newatlas.com/science/mosquito-insecticide-cystal-structure-microwave/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/c4b9182/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1d%2F67%2F25c1fe5e490caee8c1af2cddf8d5%2Fdepositphotos-3658929-l.jpg&na.image_optimisation=0",
+      "publishedAt": "2023-08-04 18:11:18",
+      "content": "While insecticide-treated bed nets do help protect people from malaria-carrying mosquitos, the chemicals are becoming less effective as the insects develop a resistance to them. It now appears that m\u2026 [+1580 chars]",
+      "retrievedAt": "2023-08-05 19:05:04.319085",
+      "internal_id": "474c41f9d6f5ca1216ea0972d3133aaa74eb08d57db35ecedbfc96b4d8595c59",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 894,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Politicopro.com",
+      "author": "Chelsea Harvey, E&E News",
+      "title": "Heat Waves Could Kill Off Human-Bred Mosquitoes",
+      "description": "Rising heat could debilitate mosquitoes bred to slow the transmission of viruses such as yellow fever and dengue",
+      "url": "https://subscriber.politicopro.com/article/eenews/2023/08/04/scientists-are-releasing-disease-resistant-mosquitoes-but-heat-waves-could-kill-them-00109764",
+      "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/D6F7990C-6FF9-4812-B0AE077A2954435D.jpg",
+      "publishedAt": "2023-08-04 18:00:00",
+      "content": "CLIMATEWIRE | Scientists have warned that some mosquito-borne diseases, like malaria and dengue fever, may spread into new territories as the world warms. So they started breeding special mosquitoes \u2026 [+3611 chars]",
+      "retrievedAt": "2023-08-05 19:05:03.789789",
+      "internal_id": "df10f4407c07e9e879080c8b7bdbe66388c177b2ad6cb9b94fabae98099403f7",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 899,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Delphine Roucaute",
+      "title": "Deux premiers cas autochtones de dengue rep\u00e9r\u00e9s dans les Bouches-du-Rh\u00f4ne",
+      "description": "Depuis le 1er mai, plus de 227 cas import\u00e9s de l\u2019\u00e9tranger ont d\u00e9j\u00e0 fait l\u2019objet de signalements au niveau national.",
+      "url": "https://www.lemonde.fr/planete/article/2023/08/04/deux-premiers-cas-autochtones-de-dengue-reperes-dans-les-bouches-du-rhone_6184470_3244.html",
+      "urlToImage": "https://img.lemde.fr/2023/06/21/0/0/3543/2362/1440/960/60/0/60036d8_1687349488533-mg-4889.jpg",
+      "publishedAt": "2023-08-04 16:36:00",
+      "content": "Limoges, le 12 avril 2023. Campagne de pr\u00e9vention contre le moustique tigre (lutte anti-vectorielle) r\u00e9alis\u00e9e par la soci\u00e9t\u00e9 Altopictus \u00e0 Limoges, dans le quartier environent la rue Montlh\u00e9ry o\u00f9 un m\u2026 [+2732 chars]",
+      "retrievedAt": "2023-08-05 19:05:03.804163",
+      "internal_id": "f0f6f0bec83e22b4e7b82802dbbcb99c731ca4d8e581322badd8e9423589e365",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 909,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "CMV",
+      "title": "EL Ni\u00f1o puede aumentar la malnutrici\u00f3n y las epidemias en Latinoam\u00e9rica, advierte la OMS",
+      "description": "El fen\u00f3meno clim\u00e1tico de El Ni\u00f1o, declarado desde julio y ligado normalmente a un aumento de las temperaturas globales, podr\u00eda agravar en Am\u00e9rica Latina la malnutrici\u00f3n en algunos pa\u00edses y elevar el riesgo de enfermedades como la chikungu\u00f1a o el zika, advirti\u2026",
+      "url": "https://elmercurio.com.ec/2023/08/04/el-nino-puede-aumentar-la-malnutricion-y-las-epidemias-en-latinoamerica-advierte-la-oms/",
+      "urlToImage": null,
+      "publishedAt": "2023-08-04 15:49:25",
+      "content": "El fen\u00f3meno clim\u00e1tico de El Ni\u00f1o, declarado desde julio y ligado normalmente a un aumento de las temperaturas globales, podr\u00eda agravar en Am\u00e9rica Latina la malnutrici\u00f3n en algunos pa\u00edses y elevar el \u2026 [+2810 chars]",
+      "retrievedAt": "2023-08-05 19:05:04.548201",
+      "internal_id": "9464cb2b0e4276144103d5781c4f090b6a27adfe5c6455597ddde1b8e2903dd1",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 903,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "BNP is deadlier than dengue: Hasan",
+      "description": "Information and Broadcasting Minister Hasan Mahmud on Friday said BNP is deadlier than dengue in many cases and this party should be resisted as like as this deadly disease. \u201cDengue (aedes) mosquitoes bite people while BNP burns people alive and torch vehicle\u2026",
+      "url": "https://sylhetmirror.com/2023/08/04/bnp-is-deadlier-than-dengue-hasan/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/we34r43tgy.jpg",
+      "publishedAt": "2023-08-04 14:51:23",
+      "content": "Information and Broadcasting Minister Hasan Mahmud on Friday said BNP is deadlier than dengue in many cases and this party should be resisted as like as this deadly disease. \u201cDengue (aedes) mosquito\u2026 [+2443 chars]",
+      "retrievedAt": "2023-08-05 19:05:03.818004",
+      "internal_id": "1cd467a1f511ef66e7b2f8bda645308b26ebd05a5dfcc09efabb5b246bac484e",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 905,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "salute@gedi.it (Redazione di Salute)",
+      "title": "Da un batterio delle zanzare la chiave per sconfiggere la malaria",
+      "description": "\u00c8 stato scoperto casualmente nell'intestino degli insetti e potrebbe frenare la diffusione di questa malattia che ogni anno uccide pi\u00f9 di mezzo milione di persone al mondo.",
+      "url": "https://www.repubblica.it/salute/2023/08/04/news/terapia_malaria-410038733/",
+      "urlToImage": "https://www.repstatic.it/content/contenthub/img/2023/08/04/152850440-b6912e53-1a81-44df-8fa1-372285999eb8.jpg",
+      "publishedAt": "2023-08-04 13:49:44",
+      "content": "Serendipit\u00e0: la capacit\u00e0 o fortuna di fare per caso inattese scoperte mentre si sta cercando altro. Questo \u00e8 proprio ci\u00f2 che \u00e8 capitato a un gruppo di scienziati nei laboratori spagnoli dell'azienda \u2026 [+403 chars]",
+      "retrievedAt": "2023-08-05 19:05:04.324829",
+      "internal_id": "0dfd5185b33690c7b2830e4b9cb220636fdd0385a2abd9ece1ca92528cb5f2d9",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 901,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09ac\u09bf\u098f\u09a8\u09aa\u09bf \u099c\u09a8\u09cd\u09ae\u09b2\u0997\u09cd\u09a8 \u09a5\u09c7\u0995\u09c7\u0987 \u09b8\u0982\u09ac\u09bf\u09a7\u09be\u09a8-\u09ac\u09bf\u099a\u09be\u09b0\u09ac\u09cd\u09af\u09ac\u09b8\u09cd\u09a5\u09be\u09b0 \u0993\u09aa\u09b0 \u0986\u09b8\u09cd\u09a5\u09be\u09b9\u09c0\u09a8: \u0993\u09ac\u09be\u09df\u09a6\u09c1\u09b2 \u0995\u09be\u09a6\u09c7\u09b0",
+      "description": "\u09a4\u09bf\u09a8\u09bf \u09ac\u09b2\u09c7\u09a8, \u09a6\u09c7\u09b6\u09c7\u09b0 \u09b8\u0982\u09ac\u09bf\u09a7\u09be\u09a8, \u09ac\u09bf\u099a\u09be\u09b0\u09ac\u09cd\u09af\u09ac\u09b8\u09cd\u09a5\u09be, \u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8, \u099c\u09a8\u09ae\u09a4, \u0997\u09a3\u09a4\u09be\u09a8\u09cd\u09a4\u09cd\u09b0\u09bf\u0995 \u09b0\u09c0\u09a4\u09bf\u09a8\u09c0\u09a4\u09bf \u0995\u09cb\u09a8\u09cb \u0995\u09bf\u099b\u09c1\u09b0 \u09aa\u09cd\u09b0\u09a4\u09bf \u099c\u09a8\u09cd\u09ae\u09b2\u0997\u09cd\u09a8 \u09a5\u09c7\u0995\u09c7\u0987 \u09ac\u09bf\u098f\u09a8\u09aa\u09bf\u09b0 \u0995\u09cb\u09a8\u09cb \u09aa\u09cd\u09b0\u0995\u09be\u09b0 \u0986\u09b8\u09cd\u09a5\u09be \u09a8\u09c7\u0987\u0964",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/politics/news-502626",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/05/image-57034-1662370252.jpg",
+      "publishedAt": "2023-08-04 13:41:35",
+      "content": "At least 10 dengue patients died, eight of which in Dhaka city, in the last 24 hours till this morning",
+      "retrievedAt": "2023-08-05 19:05:03.813428",
+      "internal_id": "1ed1c15ccbb9e4cf2fd7102b7ccefeb3cd5a0d782a0b99ff27d0caaa9d02799f",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 898,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Kay Smythe",
+      "title": "Dengue Fever Outbreak Hits US After Ravaging Other Countries",
+      "description": "The Centers for Disease Control and Prevention (CDC) provisionally confirmed a major U.S. outbreak of dengue fever, Wednesday.",
+      "url": "https://dailycaller.com/2023/08/04/dengue-fever-outbreak-hits-us-cuba-bangladesh-puerto-rico-cdc/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/08/GettyImages-1258572204-scaled-e1691154228280.jpg",
+      "publishedAt": "2023-08-04 13:23:24",
+      "content": "The Centers for Disease Control and Prevention (CDC) provisionally confirmed a major U.S. outbreak of dengue fever on Wednesday. At present, there are 225 cases of dengue fever in the U.S., and 315 \u2026 [+1370 chars]",
+      "retrievedAt": "2023-08-05 19:05:03.800628",
+      "internal_id": "b84cac292c369b79b0552075e915be5a2f6ed38a538b345275b102ab74a8eb10",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 897,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Tripura Government Issues Dengue Alert, Increases Surveillance After 182 Cases Reported - Indiatimes.com",
+      "description": "Tripura Government Issues Dengue Alert, Increases Surveillance After 182 Cases Reported Indiatimes.com Dengue cases reach 182 in Tripura, government urges public to stay vigilant | Mint Mint Tripura: 182 dengue cases detected so \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmluZGlhdGltZXMuY29tL25ld3Mvbm9ydGgtZWFzdC90cmlwdXJhLWdvdmVybm1lbnQtaXNzdWVzLWRlbmd1ZS1hbGVydC02MTExNzIuaHRtbNIBYWh0dHBzOi8vd3d3LmluZGlhdGltZXMuY29tL2FtcC9uZXdzL25vcnRoLWVhc3QvdHJpcHVyYS1nb3Zlcm5tZW50LWlzc3Vlcy1kZW5ndWUtYWxlcnQtNjExMTcyLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-04 12:34:23",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-05 19:05:03.797961",
+      "internal_id": "a14506daa29ab73739ff87526f9ad123c7f221d07c5f0821e313c1f65313020e",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 907,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Quartz India",
+      "author": "Ananya Bhattacharya",
+      "title": "A naturally occurring bacteria can stop the malaria parasite right in a mosquito's gut",
+      "description": "The biggest hurdle in eradicating malaria is that the parasite is highly adaptable and resistant, and nascent vaccines are only partially effective. Genetically-engineered bacteria have long been touted as potential malaria-enders but they\u2019re complex to devel\u2026",
+      "url": "https://qz.com/a-naturally-occurring-bacteria-can-stop-the-malaria-par-1850706922",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/12703ee70d021dced5b8c09637940f5a.jpg",
+      "publishedAt": "2023-08-04 11:17:00",
+      "content": "The biggest hurdle in eradicating malaria is that the parasite is highly adaptable and resistant, and nascent vaccines are only partially effective. Genetically-engineered bacteria have long been tou\u2026 [+4643 chars]",
+      "retrievedAt": "2023-08-05 19:05:04.331278",
+      "internal_id": "f75ffce651ad30dd2dfe3a28d34311e4f327894fe38cfb84beabc4401338a51a",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 900,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "Mathilde Ceilles (20 Minutes)",
+      "title": "Bouches-du-Rh\u00f4ne : Deux cas de dengue \u00e0 Gardanne",
+      "description": "Deux cas de dengue ont \u00e9t\u00e9 d\u00e9tect\u00e9s \u00e0 Gardanne, dans les Bouches-du-Rh\u00f4ne. En cons\u00e9quence, l'ARS organise une op\u00e9ration de d\u00e9moustication",
+      "url": "https://www.20minutes.fr/sante/4047997-20230804-bouches-rhone-deux-cas-dengue-gardanne",
+      "urlToImage": "https://img.20mn.fr/3CthWEKITlaBgwJhbRKKkCk/1200x768_operations-de-demoustication-anti-larvaires-organise-par-la-mairie-de-cannes-insecticide-biologique-traitement-des-espaces-publics-susceptibles-de-servir-de-gites-aux-moustiques-notamment-le-moustique-tigre-vecteur-d-agents-infectieux-dont-la-dengue-le-chikungunya-le-zika-square-leo-callandry-cannes-france-11-07-2023-syspeo-sys-b001-credit-syspeo-sipa-2307160714",
+      "publishedAt": "2023-08-04 09:56:49",
+      "content": "Un couple r\u00e9sidant \u00e0 Gardanne, dans les Bouches-du-Rh\u00f4ne, a contract\u00e9 la dengue, selon un communiqu\u00e9 de presse de l\u2019agence r\u00e9gionale de sant\u00e9 (ARS) de Provence-Alpes-C\u00f4te d'Azur. \u00ab Ces personnes son\u2026 [+713 chars]",
+      "retrievedAt": "2023-08-05 19:05:03.808884",
+      "internal_id": "8a80f4794a61a3eec12b5f1ea2706715a92a268b2611bb49561c661252cb035f",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 896,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Tripura: 182 dengue cases detected so far, no deaths reported - Hindustan Times",
+      "description": "Tripura: 182 dengue cases detected so far, no deaths reported Hindustan Times Dengue cases reach 182 in Tripura, government urges public to stay vigilant | Mint Mint Tripura battles surge in dengue cases; 182 positive cases repor\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL290aGVycy8xODItY2FzZXMtb2YtZGVuZ3VlLWlkZW50aWZpZWQtaW4tdHJpcHVyYS0xNTgtaW4tc2VwYWhpamFsYS1kaXN0cmljdC1hbG9uZS1uby1kZWF0aHMtcmVwb3J0ZWQtMTAxNjkxMTQyNDczMjYwLmh0bWzSAaMBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2NpdGllcy9vdGhlcnMvMTgyLWNhc2VzLW9mLWRlbmd1ZS1pZGVudGlmaWVkLWluLXRyaXB1cmEtMTU4LWluLXNlcGFoaWphbGEtZGlzdHJpY3QtYWxvbmUtbm8tZGVhdGhzLXJlcG9ydGVkLTEwMTY5MTE0MjQ3MzI2MC1hbXAuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-04 09:47:52",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-05 19:05:03.796714",
+      "internal_id": "4da9853e4fe408564c3503c9e69aa6e97d80b2aaa6d30d4f8ba3427b4f332f79",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 902,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Zee News",
+      "title": "Papaya Leaf Benefits: \u0a9c\u0abe\u0aa3\u0acb \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1\u0aa8\u0ac7 \u0aae\u0abe\u0aa4 \u0a86\u0aaa\u0ab5\u0abe \u0aaa\u0aaa\u0ac8\u0aaf\u0abe\u0aa8\u0abe \u0aaa\u0abe\u0a82\u0aa6\u0aa1\u0abe\u0aa8\u0acb \u0a95\u0ac7\u0ab5\u0ac0 \u0ab0\u0ac0\u0aa4\u0ac7 \u0a95\u0ab0\u0ab5\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97?",
+      "description": "Papaya leaf in dengue: \u0aaa\u0aaa\u0ac8\u0aaf\u0abe\u0aa8\u0abe \u0aaa\u0abe\u0aa8\u0aae\u0abe\u0a82 \u0aab\u0abf\u0aa8\u0acb\u0ab2\u0abf\u0a95 \u0a95\u0aae\u0acd\u0aaa\u0abe\u0a89\u0aa8\u0acd\u0aa1, \u0aaa\u0aaa\u0ac8\u0aa8 \u0a85\u0aa8\u0ac7 \u0a86\u0ab2\u0acd\u0a95\u0ab2\u0acb\u0a88\u0aa1 \u0ab9\u0acb\u0aaf \u0a9b\u0ac7, \u0a9c\u0ac7 \u0aae\u0a9c\u0aac\u0ac2\u0aa4 \u0a8f\u0aa8\u0acd\u0a9f\u0ac0\u0a91\u0a95\u0abf\u0ab8\u0aa1\u0aa8\u0acd\u0a9f \u0aa4\u0ab0\u0ac0\u0a95\u0ac7 \u0a95\u0abe\u0aae \u0a95\u0ab0\u0ac7 \u0a9b\u0ac7 \u0a85\u0aa8\u0ac7 \u0ab6\u0ab0\u0ac0\u0ab0\u0aa8\u0ac0 \u0ab0\u0acb\u0a97\u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0a95\u0abe\u0ab0\u0a95 \u0ab6\u0a95\u0acd\u0aa4\u0abf\u0aa8\u0ac7 \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0a9b\u0ac7. \u0a86 \u0aaa\u0abe\u0a82\u0aa6\u0aa1\u0abe\u0aa8\u0abe \u0a85\u0ab0\u0acd\u0a95\u0aa5\u0ac0 \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1\u0aa8\u0abe \u0aa6\u0ab0\u0acd\u0aa6\u0ac0\u0a93\u0aae\u0abe\u0a82 \u0aaa\u0acd\u0ab2\u0ac7\u0a9f\u0ab2\u0ac7\u0a9f\u0aa8\u0ac0 \u0ab8\u0a82\u0a96\u0acd\u0aaf\u0abe\u0aae\u0abe\u0a82 \u0ab5\u0aa7\u0abe\u0ab0\u0acb \u0aa5\u0abe\u0aaf \u0a9b\u0ac7.",
+      "url": "https://zeenews.india.com/gujarati/health/papaya-leaf-benefits-in-dengue-fever-how-to-use-papaya-286644",
+      "urlToImage": "https://gujarati.cdn.zeenews.com/gujarati/sites/default/files/2023/08/04/472022-papaiya-benefits.png",
+      "publishedAt": "2023-08-04 09:36:45",
+      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+354 chars]",
+      "retrievedAt": "2023-08-05 19:05:03.815894",
+      "internal_id": "3080de8b6b2393ee751747c0b4604d8a7e538165486496cbdbfca81cf574cca6",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 908,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Very Normal! Leprosy Cases Surging in Florida, Government Says - Futurism",
+      "description": "Very Normal! Leprosy Cases Surging in Florida, Government SaysFuturism Florida leprosy cases on the rise, at least 15 cases this yearFOX 26 Houston Florida diseases causing alarm include malaria, leprosy and amoebaPensacola News Journal Leprosy may now be end\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171539416",
+      "urlToImage": null,
+      "publishedAt": "2023-08-04 08:52:08",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-08-05 19:05:04.333832",
+      "internal_id": "a7d814197bdf097a7142786c01f60c9a5ddb8479342cee90f8172a8c5f0f827a",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 895,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue cases reach 182 in Tripura, government urges public to stay vigilant | Mint - Mint",
+      "description": "Dengue cases reach 182 in Tripura, government urges public to stay vigilant | Mint Mint Tripura battles surge in dengue cases; 182 positive cases reported - Tripura battles surge in dengue cases; 182 positive cases reported - India Today N\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYS9kZW5ndWUtY2FzZXMtcmVhY2gtMTgyLWluLXRyaXB1cmEtZ292ZXJubWVudC11cmdlcy1wdWJsaWMtdG8tc3RheS12aWdpbGFudC0xMTY5MTEzNzExNDg3OS5odG1s0gGGAWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9uZXdzL2luZGlhL2Rlbmd1ZS1jYXNlcy1yZWFjaC0xODItaW4tdHJpcHVyYS1nb3Zlcm5tZW50LXVyZ2VzLXB1YmxpYy10by1zdGF5LXZpZ2lsYW50L2FtcC0xMTY5MTEzNzExNDg3OS5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-04 08:37:39",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-05 19:05:03.794544",
+      "internal_id": "adac5eb74267be82b72b32defabcd0de654df136d1f51c35c35fe750d63ec369",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 893,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u041f\u0440\u0430\u0432\u0434\u0430 \u043b\u0438, \u0447\u0442\u043e \u0420\u043e\u0441\u0441\u0438\u0438 \u0433\u0440\u043e\u0437\u0438\u0442 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044f \u043a\u043e\u043a\u043b\u044e\u0448\u0430?",
+      "description": "",
+      "url": "https://tass.ru/obschestvo/18443437",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/18443437?u=2023-08-04T08:30:01.170922",
+      "publishedAt": "2023-08-04 08:30:01",
+      "content": "\u2014 , Bordetella pertussis ( ). - . , , . . 2022 . , 2021 1,1 . , 2022 3,1 ., \u2014 2023 \u2014 4,3 . 2019 \u2014 14,4 ., 2018 \u2014 10,4 ., 2016 \u2014 8,2 . 18 \u2014 10 91,4%. : , , . , , . () . , . , \u2014 . , , , , , , , .\u2026 [+182 chars]",
+      "retrievedAt": "2023-08-05 19:05:02.811107",
+      "internal_id": "97164c7429a131ea6fcdc12dd68d9b5c924419a1b32e045af279d507cb6a422e",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 906,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Malaria disappeared in the U.S. in 2003. That changed this year - Fast Company",
+      "description": "Malaria disappeared in the U.S. in 2003. That changed this year Fast Company",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MDkzMjU3NC9tYWxhcmlhLXdhcy1lcmFkaWNhdGVkLWluLXRoZS11LXMtaW4tMjAwM9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-04 07:34:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-05 19:05:04.329148",
+      "internal_id": "4aa6c572c4ce6c913c9f93318a2e566658f856cad46e4f208d6c8b2e97ec2391",
+      "publishedAtLabel": "Aug 4"
+    },
     {
       "id": 885,
       "query": [
@@ -3305,312 +3612,6 @@
       "retrievedAt": "2023-07-28 07:05:42.569894",
       "internal_id": "e9bf03ce0994e3a65cf273c459872aa9d93c91cd2726e38680d8c9526a3c2861",
       "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 765,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Peoplesreview.com.np",
-      "author": "peoples_12ad",
-      "title": "Dengue cases rise alarmingly",
-      "description": "Kathmandu, 27 July: At least 4,289 dengue patients have been reported across the country. According to the Epidemiology and Disease Control Division, the number of dengue patients was 2,930 as of 15 July. By provinces, Koshi Province has recorded highest 2,75\u2026",
-      "url": "https://www.peoplesreview.com.np/2023/07/27/dengue-cases-rise-alarmingly/",
-      "urlToImage": "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2022/10/Dengue.jpg?fit=300%2C168&ssl=1",
-      "publishedAt": "2023-07-27 00:43:00",
-      "content": "Kathmandu, 27 July: At least 4,289 dengue patients have been reported across the country. According to the Epidemiology and Disease Control Division, the number of dengue patients was 2,930 as of 15 \u2026 [+546 chars]",
-      "retrievedAt": "2023-07-31 07:05:39.618910",
-      "internal_id": "dc1996be1fa8320b212ab87b30d950c26e4e38dadcc23eb40c1a21b7e37be60a",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 691,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Pvt hosps see rise in dengue admissions - Times of India",
-      "description": "Pvt hosps see rise in dengue admissions Times of IndiaView Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdGltZXNvZmluZGlhLmluZGlhdGltZXMuY29tL2NpdHkva29sa2F0YS9wdnQtaG9zcHMtc2VlLXJpc2UtaW4tZGVuZ3VlLWFkbWlzc2lvbnMvYXJ0aWNsZXNob3cvMTAyMTUyNzk1LmNtc9IBbWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2NpdHkva29sa2F0YS9wdnQtaG9zcHMtc2VlLXJpc2UtaW4tZGVuZ3VlLWFkbWlzc2lvbnMvYW1wX2FydGljbGVzaG93LzEwMjE1Mjc5NS5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-27 00:06:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.556634",
-      "internal_id": "817769e4ba52977f7ed87f246b3b427908ac7767ac24529797b75ebc200b0431",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 684,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "PRNewswire",
-      "title": "YS Biopharma Announces Financial Results for Fiscal Year 2023 Ended March 31, 2023",
-      "description": "(marketscreener.com) Total revenues increase by 36.3% year-over-year; gross margin improves to 77.7%; balance sheet remains robust Company's PIKA rabies vaccine approved for Phase III clinical trials in Singapore, the Philippines, and Pakistan; interim resu\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/YS-BIOPHARMA-CO-LTD-152273024/news/YS-Biopharma-Announces-Financial-Results-for-Fiscal-Year-2023-Ended-March-31-2023-44429580/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-07-26 21:01:07",
-      "content": "Total revenues increase by 36.3% year-over-year; gross margin improves to 77.7%; balance sheet remains robust Company's PIKA rabies vaccine approved for Phase III clinical trials in Singapore, the P\u2026 [+32011 chars]",
-      "retrievedAt": "2023-07-28 07:05:41.103280",
-      "internal_id": "4987342efac09271438347612a81955a80ae71c35e934b8a5b32c3fef09ec5c5",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 712,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Eva Sittig",
-      "title": "New insights into the evolution of the plague pathogen",
-      "description": "The origins of the plague go back to the Neolithic Age, with the oldest findings of the causative pathogen Yersinia pestis coming from human bones around 5,000 years old. In the history of the plague, the late antique Justinianic plague from the sixth century\u2026",
-      "url": "https://phys.org/news/2023-07-insights-evolution-plague-pathogen.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-insights-into-the-12.jpg",
-      "publishedAt": "2023-07-26 20:54:05",
-      "content": "The origins of the plague go back to the Neolithic Age, with the oldest findings of the causative pathogen Yersinia pestis coming from human bones around 5,000 years old. In the history of the plague\u2026 [+7410 chars]",
-      "retrievedAt": "2023-07-28 07:05:46.895535",
-      "internal_id": "676e675f451a09d8216bad2dd5859c07a6cf4a1bcaaf4f9713f7ec7236ba1809",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 698,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Reuters",
-      "title": "Dengue outbreak surges in Bangladesh, raising alarm over record deaths and infections",
-      "description": "Dengue outbreak surges in densely populated Bangladesh during rainy season, raising concerns over potential record fatalities and infections for the second consecutive year.",
-      "url": "https://www.foxnews.com/world/dengue-outbreak-surges-bangladesh-raising-alarm-record-deaths-infections",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Outbreaks.jpg",
-      "publishedAt": "2023-07-26 20:09:33",
-      "content": "Dengue is spreading rapidly through densely populated Bangladesh this rainy season, raising fears that the mosquito-borne disease could result in a record number of deaths and infections for the seco\u2026 [+1522 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.587193",
-      "internal_id": "742a403563a06022ea28abb27a8320cb2a7c5961662ee540b1f4b580848973d9",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 686,
-      "query": [
-        "measles"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Warning as outbreak of Victorian disease sees GPs put on high alert - Liverpool Echo",
-      "description": "Warning as outbreak of Victorian disease sees GPs put on high alert Liverpool Echo Urgent warning amid outbreak of Victorian disease as GPs placed on high alert The Mirror Major measles outbreak alert for Hackney and Haringey Je\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvbmV3cy91ay13b3JsZC1uZXdzL3dhcm5pbmctb3V0YnJlYWstdmljdG9yaWFuLWRpc2Vhc2Utc2Vlcy0yNzM5OTIzM9IBZ2h0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvbmV3cy91ay13b3JsZC1uZXdzL3dhcm5pbmctb3V0YnJlYWstdmljdG9yaWFuLWRpc2Vhc2Utc2Vlcy0yNzM5OTIzMy5hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-26 19:12:30",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-28 07:05:41.753530",
-      "internal_id": "b4a4575c14ce68f76c31e7c96915769147172bd6e8df38b9b9b5235fb8870b85",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 682,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Quebec issues rabies-infected raccoon warning in 18 municipalities - CTV News Montreal",
-      "description": "Quebec issues rabies-infected raccoon warning in 18 municipalities CTV News Montreal N.B. expanding rabies prevention program this year country94.ca Rabies bait prevention program expanding in western New Brunswick Saltwire </l\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9xdWViZWMtaXNzdWVzLXJhYmllcy1pbmZlY3RlZC1yYWNjb29uLXdhcm5pbmctaW4tMTgtbXVuaWNpcGFsaXRpZXMtMS42NDk1MDcy0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-26 18:28:57",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-28 07:05:41.095343",
-      "internal_id": "17158495b03a3591aea5ec1c18b7bbdc74fd9aeb333639f1ea96732c6958bf64",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 681,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Quebec issues rabies-infected raccoon warning in 18 municipalities - CTV News Montreal",
-      "description": "Quebec issues rabies-infected raccoon warning in 18 municipalities CTV News Montreal N.B. expanding rabies prevention program this year country94.ca Lake County to begin distributing oral rabies vaccine on July 31 News 5 Clevela\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMic2h0dHBzOi8vbW9udHJlYWwuY3R2bmV3cy5jYS9xdWViZWMtaXNzdWVzLXJhYmllcy1pbmZlY3RlZC1yYWNjb29uLXdhcm5pbmctaW4tZWFzdGVybi10b3duc2hpcHMtbW9udGVyZWdpZS0xLjY0OTUwNzLSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-26 18:28:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-28 07:05:41.085917",
-      "internal_id": "f5e2ed1c3ffe3c2efc3983b248a3ca43b41308d0132b89e40e8609587bb1c149",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 685,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WGN TV Chicago",
-      "author": "Anna Roberts",
-      "title": "Rabid bats found in Chicago area; IDPH issues warning",
-      "description": "The Illinois Department of Public Health is warning residents of the dangers of rabies after several cases of rabid bats have been reported. IDPH said so far this year, 27 rabid bats have been reported in the state with several of those in Chicago-area counti\u2026",
-      "url": "https://wgntv.com/news/illinois/rabid-bats-found-in-chicago-area-dept-of-health-issues-warning-to-residents/",
-      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2022/08/GettyImages-1365041371.jpg?w=1280",
-      "publishedAt": "2023-07-26 18:10:51",
-      "content": "The Illinois Department of Public Health is warning residents of the dangers of rabies after several cases of rabid bats have been reported. IDPH said so far this year, 27 rabid bats have been repor\u2026 [+2779 chars]",
-      "retrievedAt": "2023-07-28 07:05:41.106793",
-      "internal_id": "c2de3803f15e2cf0ca3efd94fdd48a31643669109cfb2d9807d3864cd4bcbadc",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 689,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Indian States Report Massive Surge In Dengue Cases Amidst Heavy Rainfall | TheHealthSite.com - TheHealthSite",
-      "description": "Indian States Report Massive Surge In Dengue Cases Amidst Heavy Rainfall | TheHealthSite.com TheHealthSite Bangladesh fears record high dengue death toll Bangkok Post Bangladesh dengue death toll jumps to 185 - Jammu Kashmir Late\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnRoZWhlYWx0aHNpdGUuY29tL25ld3MvaW5kaWFuLXN0YXRlcy1yZXBvcnQtbWFzc2l2ZS1zdXJnZS1pbi1kZW5ndWUtY2FzZXMtYW1pZHN0LWhlYXZ5LXJhaW5mYWxsLTk5NTc2Ny_SAXdodHRwczovL3d3dy50aGVoZWFsdGhzaXRlLmNvbS9uZXdzL2luZGlhbi1zdGF0ZXMtcmVwb3J0LW1hc3NpdmUtc3VyZ2UtaW4tZGVuZ3VlLWNhc2VzLWFtaWRzdC1oZWF2eS1yYWluZmFsbC05OTU3NjcvYW1wLw?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-26 16:30:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.547643",
-      "internal_id": "5fca37bbab4b2096fa78dd3cc1467a4c19217b8f24ad81de2d33df8084655c63",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 700,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "Grave brote de dengue deja m\u00e1s de 200 muertos en Bangladesh",
-      "description": "El n\u00famero de muertes por dengue en Bangladesh supera ya las 200 en lo que va de a\u00f1o, seg\u00fan el \u00faltimo balance publicado este mi\u00e9rcoles por las autoridades, que tratan de dar respuesta a uno de los brotes m\u00e1s mortales del virus desde que el pa\u00eds comenz\u00f3 a conta\u2026",
-      "url": "https://www.eluniversal.com.co/mundo/grave-brote-de-dengue-deja-mas-de-200-muertos-en-bangladesh-FG8697117",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/915x686/58c0/800d686/none/13704/NPBO/mosquito-trasmisor-del-dengue_8167664_20230726110718.jpg",
-      "publishedAt": "2023-07-26 16:05:30",
-      "content": "El n\u00famero de muertes por dengue en Bangladesh supera ya las 200 en lo que va de a\u00f1o, seg\u00fan el \u00faltimo balance publicado este mi\u00e9rcoles por las autoridades, que tratan de dar respuesta a uno de los bro\u2026 [+1716 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.595985",
-      "internal_id": "cfd13603157421c57644c355571f7f060c5d263f7d1f29f4e17a913b868a6b0f",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 708,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Florida woman recounts misery of locally-acquired malaria : Shots - Health News - NPR",
-      "description": "Florida woman recounts misery of locally-acquired malaria : Shots - Health NewsNPR Opinion: Malaria in the U.S.? How mosquitoes are remaking the geography of diseaseLos Angeles Times Malaria has come to Sarasota and somehow that's not surprisingSarasota Heral\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171474282",
-      "urlToImage": null,
-      "publishedAt": "2023-07-26 15:32:15",
-      "content": "If they can make penicillin out of moldy bread, they can sure make something out of you. -- Muhammad Ali",
-      "retrievedAt": "2023-07-28 07:05:44.094318",
-      "internal_id": "e6c7f414913d3c4bf3b299245a7aafa4aeb814e6f2647ac6b131c0a162590950",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 702,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Stephanie Colombini",
-      "title": "In Florida's local malaria outbreak, forgotten bite led to surprise hospitalization",
-      "description": "For the first time in two decades, the U.S. has evidence of local transmission of malaria. Most of the cases occurred in Florida's Sarasota County, which has stepped up mosquito suppression efforts.",
-      "url": "https://www.npr.org/sections/health-shots/2023/07/26/1189852024/in-floridas-local-malaria-outbreak-forgotten-bite-led-to-surprise-hospitalizatio",
-      "urlToImage": "https://media.npr.org/assets/img/2023/07/25/larvicide_wide-d4db401e5bdf4b20e4acff8c061f9568266984b9-s1400-c100.jpg",
-      "publishedAt": "2023-07-26 14:21:30",
-      "content": "Mosquito control teams in Sarasota County, Florida have been spraying larvicides, which target immature mosquitoes, in areas where standing water could serve as breeding grounds for Anopheles, the ty\u2026 [+10586 chars]",
-      "retrievedAt": "2023-07-28 07:05:44.075367",
-      "internal_id": "1abfdb4836d15b3b27c035c66bd86cd5e9dcf02225dd58cb7a528e5a6e275246",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 687,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Kento Sakamoto, Miho Konami, Shinra Kameda, Yuto Satoh, Hiroshi Wakimoto, Yoshinori Kitagawa, Bin Gotoh, Da-Peng Jiang, Hak Hotta, Masae Itoh",
-      "title": "Suppression of viral RNA polymerase activity is necessary for persistent infection during the transformation of measles virus into SSPE virus",
-      "description": "Author summary Subacute sclerosing panencephalitis (SSPE) is a rare but fatal disease in apparently healthy children, which develops 7 to 10 years after acute measles. Measles virus (MV) persistently infects the brain, accumulates mutations, and transforms in\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011528",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011528.g010&size=inline",
-      "publishedAt": "2023-07-26 14:00:00",
-      "content": "Citation: Sakamoto K, Konami M, Kameda S, Satoh Y, Wakimoto H, Kitagawa Y, et al. (2023) Suppression of viral RNA polymerase activity is necessary for persistent infection during the transformation o\u2026 [+60159 chars]",
-      "retrievedAt": "2023-07-28 07:05:41.757004",
-      "internal_id": "5e4981ac8dc5148c4453cdaa5a2e24cf4cfb4c0d1f1bac3aff22675941a96b97",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 705,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Charles Nelson Kakaire, Nicola Christofides",
-      "title": "The role of perceived threat and self-efficacy in the use of Insecticide Treated Bednets (ITNs) to prevent malaria among pregnant women in Tororo District, Uganda",
-      "description": "Background Despite increased coverage of Insecticide Treated Nets (ITNs) due to free distribution programs, ITN use in Uganda remains sub optimal among pregnant women. This study explored the relationship between constructs of a theoretical framework and Net \u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289097",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0289097.g002&size=inline",
-      "publishedAt": "2023-07-26 14:00:00",
-      "content": "Citation: Kakaire CN, Christofides N (2023) The role of perceived threat and self-efficacy in the use of Insecticide Treated Bednets (ITNs) to prevent malaria among pregnant women in Tororo District,\u2026 [+25846 chars]",
-      "retrievedAt": "2023-07-28 07:05:44.085981",
-      "internal_id": "0e371416c0d9b6015faa4df25abf490fc4e83b42bb0b806aab30c4c444be9390",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 706,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Victoria Bam, Abdulai Mohammed, Abigail Kusi-Amponsah, Jerry Armah, Alberta Yemotsoo Lomotey, Hayford Isaac Budu, Collins Atta Poku, Joana Kyei-Dompim, Catherine Dwumfour",
-      "title": "Caregivers\u2019 perception and acceptance of malaria vaccine for Children",
-      "description": "Background Malaria is a disease of public health concern and in endemic areas, pregnant women and children under-five years are vulnerable to the disease. The introduction of the pilot program of a malaria vaccine for children under-five years in Ghana is an \u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288686",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0288686.t003&size=inline",
-      "publishedAt": "2023-07-26 14:00:00",
-      "content": "Abstract Background Malaria is a disease of public health concern and in endemic areas, pregnant women and children under-five years are vulnerable to the disease. The introduction of the pilot pro\u2026 [+38198 chars]",
-      "retrievedAt": "2023-07-28 07:05:44.088108",
-      "internal_id": "8cbf3b755544c357e11cfc02153792001116405012c6c3c85e5bd10b7c06502b",
-      "publishedAtLabel": "Jul 26"
-    },
-    {
-      "id": 704,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Theresa Wei\u00df",
-      "title": "M\u00fccke an Bord. Malaria-Infektion am Flughafen Frankfurt",
-      "description": "Am Frankfurter Flughafen hat sich ein Mitarbeiter mit Malaria angesteckt \u2013 wohl, weil eine M\u00fccke aus den Tropen im Gep\u00e4ck oder einem Flugzeug \u201eeingereist\u201c ist.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/flughafen-frankfurt-malaria-infektion-durch-eingeschleppte-muecke-19060445.html",
-      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/politik/557450781/1.9060455/facebook_teaser/eine-passagiermaschine-startet.jpg",
-      "publishedAt": "2023-07-26 13:19:20",
-      "content": "Am Frankfurter Flughafen hat sich ein Mitarbeiter mit Malaria infiziert. Wie eine Sprecherin des Flughafenbetreibers Fraport best\u00e4tigte, hat das Gesundheitsamt einen Fall der seltenen Airport-Malaria\u2026 [+849 chars]",
-      "retrievedAt": "2023-07-28 07:05:44.082809",
-      "internal_id": "86055513f224c134fe7562e50c4f39d93c76976a9e2386ebfd3a6a7aead83474",
-      "publishedAtLabel": "Jul 26"
     }
   ]
 }
