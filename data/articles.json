@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-08-06 07:05",
+  "last_updated": "2023-08-06 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 11,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 924,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u098f \u09ac\u099b\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1 \u09e9\u09e6\u09e6 \u099b\u09be\u09dc\u09be\u09b2, \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u0993 \u09b0\u09c7\u0995\u09b0\u09cd\u09a1",
+      "description": "\u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u0985\u09a7\u09bf\u09a6\u09aa\u09cd\u09a4\u09b0\u09c7\u09b0 \u09a4\u09a5\u09cd\u09af \u0985\u09a8\u09c1\u09af\u09be\u09af\u09bc\u09c0, \u0997\u09a4 \u09ac\u099b\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09ae\u09cb\u099f \u09ae\u09c3\u09a4\u09cd\u09af\u09c1\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be \u099b\u09bf\u09b2 \u09e8\u09ee\u09e7 \u099c\u09a8 \u098f\u09ac\u0982 \u09ae\u09cb\u099f \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be \u099b\u09bf\u09b2 \u09ec\u09e8 \u09b9\u09be\u099c\u09be\u09b0 \u09e9\u09ee\u09e8 \u099c\u09a8\u0964",
+      "url": "https://bangla.thedailystar.net/health/disease/news-502816",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/02/dengue_5_1_1_1_1.jpg?itok=SZsiH5hR",
+      "publishedAt": "2023-08-05 14:30:44",
+      "content": "The death toll from dengue this year has crossed the 300-mark as another 10 new deaths were reported in the last 24 hours till 8:00am today",
+      "retrievedAt": "2023-08-06 19:05:12.028992",
+      "internal_id": "79534584e57469cb725c4ab7e9c976015a4b2505eb0b91dc74c4106121ba94b4",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 922,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Bangladesh grapples with record deadly outbreak of dengue fever",
+      "description": "DHAKA: Bangladesh is grappling with a record deadly outbreak of dengue fever, with hospitals struggling to make space for patients as the disease spreads rapidly in the densely-populated country. At least 293 people have died so far in 2023 and nearly 61,500 \u2026",
+      "url": "https://www.channelnewsasia.com/asia/bangladesh-grapples-record-deadly-outbreak-dengue-fever-3679791",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--rEGxLfJZ--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-26t122333z_1_lynxmpej6p0lg_rtroptp_3_health-bangladesh-dengue.jpg?itok=JGT8AV9r",
+      "publishedAt": "2023-08-05 07:42:19",
+      "content": "There is no vaccine or drug that specifically treats dengue, which is common in South Asia during the June-to-September monsoon season when the Aedes aegypti mosquito that spreads the deadly virus th\u2026 [+1044 chars]",
+      "retrievedAt": "2023-08-06 19:05:12.015137",
+      "internal_id": "48977d9febaa26ccc890720f9f4f0c3b99c72205bda47f6e5aefb7af1bbcb8a1",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 923,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Reuters",
+      "title": "Bangladesh grapples with record deadly outbreak of dengue fever",
+      "description": "(marketscreener.com) Bangladesh is grappling with a record deadly outbreak of dengue fever, with hospitals struggling to make space for patients as the disease spreads rapidly in the densely-populated country. https://www.marketscreener.com/quote/index/TOPIX-\u2026",
+      "url": "https://www.marketscreener.com/quote/index/TOPIX-INDEX-61714390/news/Bangladesh-grapples-with-record-deadly-outbreak-of-dengue-fever-44530606/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-08-05 07:13:35",
+      "content": "DHAKA (Reuters) - Bangladesh is grappling with a record deadly outbreak of dengue fever, with hospitals struggling to make space for patients as the disease spreads rapidly in the densely-populated c\u2026 [+2218 chars]",
+      "retrievedAt": "2023-08-06 19:05:12.019093",
+      "internal_id": "0b32785c299edbc19b0f27d49b96dc0036bf50fe76643f4db34358cc48748829",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 921,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh grapples with record deadly outbreak of dengue fever - Reuters",
+      "description": "Bangladesh grapples with record deadly outbreak of dengue fever Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9iYW5nbGFkZXNoLWdyYXBwbGVzLXdpdGgtcmVjb3JkLWRlYWRseS1vdXRicmVhay1kZW5ndWUtZmV2ZXItMjAyMy0wOC0wNS_SAQA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-05 07:13:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-06 19:05:12.002457",
+      "internal_id": "90300993d85cd2c96da7ca9dc2766b02bb115c31c1e61804799a93ddef34daba",
+      "publishedAtLabel": "Aug 5"
+    },
     {
       "id": 915,
       "query": [
@@ -3538,80 +3610,6 @@
       "content": "The High Court has approved a 1.95 million interim settlement for a girl who claimed there was a delay in diagnosing and treating her meningitis when she was aged seven months. The court heard the H\u2026 [+2243 chars]",
       "retrievedAt": "2023-07-28 19:05:14.256523",
       "internal_id": "935e3fd60113867ff12280c05da5840c5b09075324ebb8774ee894b740c41357",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 721,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Melveettil Kishor Sumitha, Mariapillai Kalimuthu, Mayandi Senthil Kumar, Rajaiah Paramasivan, Narendran Pradeep Kumar, Ittoop Pulikkottil Sunish, Thiruppathi Balaji, Devojit Kumar Sarma, Devendra Kumar, Devi Shankar Suman, Hemlata Srivastava, Ipsita Pal Bhowmick, Keshav Vaishnav, Om P. Singh, Prabhakar B. Patil, Suchi Tyagi, Suman S. Mohanty, Tapan Kumar Barik, Sreehari Uragayala, Ashwani Kumar, Bhavna Gupta",
-      "title": "Genetic differentiation among Aedes aegypti populations from different eco-geographical zones of India",
-      "description": "Author summary Aedes aegypti is a mosquito species that transmits several arboviruses including dengue, chikungunya, Zika, etc. This species was originally found in Africa but is now extensive in all the continents except Antarctica. The spread of this specie\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011486",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011486.g006&size=inline",
-      "publishedAt": "2023-07-27 14:00:00",
-      "content": "This study represents the first large-scale genetic analysis of 22 Ae. aegypti populations from different geo-climatic zones of India. The study was conducted to determine whether Ae. aegypti populat\u2026 [+11156 chars]",
-      "retrievedAt": "2023-07-28 19:05:13.585571",
-      "internal_id": "7a460ed694c5327b674141fad65c2e30bfde90ddd9971f9580c045706d45c76f",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 723,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Anandabazar.com",
-      "author": "\u0986\u09a8\u09a8\u09cd\u09a6\u09ac\u09be\u099c\u09be\u09b0 \u0985\u09a8\u09b2\u09be\u0987\u09a8 \u09b8\u0982\u09ac\u09be\u09a6\u09a6\u09be\u09a4\u09be",
-      "title": "Dengue | West Bengal Health Secretary gives some instructions regarding Dengue dgtl",
-      "description": "\u099a\u09bf\u09a8\u09cd\u09a4\u09be \u09ac\u09be\u09a1\u09bc\u09be\u099a\u09cd\u099b\u09c7 \u09a1\u09c7\u0999\u09cd\u0997\u09bf\u0964 \u098f\u0987 \u09aa\u09b0\u09bf\u09b8\u09cd\u09a5\u09bf\u09a4\u09bf\u09a4\u09c7 \u099c\u09c7\u09b2\u09be \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u0986\u09a7\u09bf\u0995\u09be\u09b0\u09bf\u0995 \u098f\u09ac\u0982 \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2 \u0995\u09b0\u09cd\u09a4\u09c3\u09aa\u0995\u09cd\u09b7\u09c7\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u09ac\u09c8\u09a0\u0995\u09c7 \u098f\u0995\u0997\u09c1\u099a\u09cd\u099b \u09a8\u09bf\u09b0\u09cd\u09a6\u09c7\u09b6\u09bf\u0995\u09be \u09a6\u09bf\u09b2\u09c7\u09a8 \u09b0\u09be\u099c\u09cd\u09af\u09c7\u09b0 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af\u09b8\u099a\u09bf\u09ac\u0964",
-      "url": "https://www.anandabazar.com/west-bengal/west-bengal-health-secretary-gives-some-instructions-regarding-dengue-dgtl/cid/1448033",
-      "urlToImage": "https://assets.telegraphindia.com/abp/2023/Jul/1690461526_dengue.jpg",
-      "publishedAt": "2023-07-27 13:12:48",
-      "content": "These Terms of Use govern your use of the websites, content and community services offered through www.anandabazar.com , other associated URLs (\"Site\") and all mobile applications (\"Mobile Apps\") and\u2026 [+36018 chars]",
-      "retrievedAt": "2023-07-28 19:05:13.590064",
-      "internal_id": "16aab204508c2ad777c21abac31bc8e09991d3f297d5ad99da2d415042748c7a",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 725,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "FOCUS online",
-      "title": "Gef\u00e4hrliche Stechm\u00fccke reiste im Flugzeug mit - Am Flughafen Frankfurt hat sich eine Person mit Malaria infiziert",
-      "description": "Am Flughafen Frankfurt hat sich eine Person mit Malaria infiziert. Weltweit ist Malaria eine der bedeutendsten Infektionskrankheiten, die allerdings \u00fcberwiegend in Afrika, Asien und S\u00fcdamerika auftritt.",
-      "url": "https://www.focus.de/panorama/welt/gefaehrliche-stechmuecke-reiste-im-flugzeug-mit-am-flughafen-frankfurt-hat-sich-eine-person-mit-malaria-infiziert_id_200191358.html",
-      "urlToImage": "https://p6.focus.de/img/fotos/id_200191017/imago0236215492h.jpg?im=Crop%3D%280%2C288%2C3464%2C1732%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4b6c9b7cdae77f64996cf4388ff581c37d9eb77e28c764fa128a88656edc0b13",
-      "publishedAt": "2023-07-27 12:32:02",
-      "content": "Am Flughafen Frankfurt hat sich eine Person mit Malaria infiziert. Weltweit ist Malaria eine der bedeutendsten Infektionskrankheiten, die allerdings \u00fcberwiegend in Afrika, Asien und S\u00fcdamerika auftri\u2026 [+714 chars]",
-      "retrievedAt": "2023-07-28 19:05:15.030722",
-      "internal_id": "beb07c6c6b6c1229d2375fa0d62edb8f98dde81524ca3588c8272498ae54258b",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 726,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Leaders to give update on spread of malaria in Sarasota - 10 Tampa Bay",
-      "description": "Leaders to give update on spread of malaria in Sarasota 10 Tampa Bay CDC: Malaria cases rising across the U.S. FOX 26 Houston Sarasota's malaria mosquito alert could be lifted in early September Sarasota Herald-Tribune <li\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC0stNjE5bkotR0tBmAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-27 11:47:20",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-28 19:05:15.033388",
-      "internal_id": "605fdc80ac10471a34f87528f040ebe7e0b4e7ea1a1dbce3503d3691859d17aa",
       "publishedAtLabel": "Jul 27"
     }
   ]
