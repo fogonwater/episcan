@@ -1,8 +1,207 @@
 {
-  "last_updated": "2023-08-05 19:05",
+  "last_updated": "2023-08-06 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 17,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 915,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Svenska.yle.fi",
+      "author": null,
+      "title": "Virus muterar hela tiden och ibland skapas l\u00e4skiga varianter som spanska sjukan \u2013 s\u00e5 h\u00e4r g\u00e5r det till",
+      "description": "Vi beh\u00f6ver fler virologer i Finland, menar forskare.",
+      "url": "https://svenska.yle.fi/a/7-10038661",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/f_auto,fl_progressive/q_auto/w_3000,h_1687,c_crop,x_0,y_88/w_1200/w_1200,ar_16:9/w_1320,ar_1320:675,c_pad,b_white,g_east/l_39-yle-logo-some_ywtrrc,g_west,ar_1320:675,w_1.0,fl_relative,c_crop/v1658132558/39-98328462d517c2ec0b7.jpg",
+      "publishedAt": "2023-08-05 04:18:56",
+      "content": "F\u00e5gelinfluensa, HIV, coronavirus, zika och dengue. Virusen \u00e4r m\u00e5nga och g\u00e5torna kring dem likas\u00e5, men forskningen g\u00e5r fram\u00e5t i snabb takt och nu beh\u00f6vs ocks\u00e5 fler virologer. Virus \u00e4r igen p\u00e5 nyhets\u2026 [+8764 chars]",
+      "retrievedAt": "2023-08-06 07:05:23.015522",
+      "internal_id": "91b19c0231c1d139c98c06d38891776f66bedd1873078162b6ea1106bf6e276f",
+      "publishedAtLabel": "Aug 5"
+    },
+    {
+      "id": 913,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KMOV.com",
+      "author": "Rheanna Wachter",
+      "title": "Health officials warn of Measles exposure in the St. Louis Metro",
+      "description": "Health officials urge awareness as a case of internationally-imported measles has been confirmed in the St. Louis area.",
+      "url": "https://www.kmov.com/2023/08/04/health-officials-warn-measles-exposure-st-louis-metro/",
+      "urlToImage": "https://gray-kmov-prod.cdn.arcpublishing.com/resizer/cZRALPad2kLJNsVuksaUuJ-SBks=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/Q5IEXXJDV5ETNF6OMJG3M7UBVE.jpg",
+      "publishedAt": "2023-08-04 23:24:55",
+      "content": "ST. LOUIS, Mo. (KMOV) - Health officials urge awareness as a case of internationally-imported measles has been confirmed in the St. Louis area. The Missouri Department of Health and Senior Services,\u2026 [+2191 chars]",
+      "retrievedAt": "2023-08-06 07:05:22.380415",
+      "internal_id": "a8b64c83a832dd8dc6dd2cc32c66b9840289eb34f2487354c69280d647fbd869",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 910,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Local - Liz Shultz",
+      "title": "Health Officials Issue Rabies Alert For Polk County",
+      "description": "BARTOW, Fla. \u2013 The Florida Department of Health in Polk County (DOH-Polk) issued a rabies...",
+      "url": "https://www.newsbreak.com/polk-county-fl/3112395304210-health-officials-issue-rabies-alert-for-polk-county",
+      "urlToImage": "https://img.particlenews.com/img/id/3XBIIj_0nn7G8Xq00?type=thumbnail_1600x1200",
+      "publishedAt": "2023-08-04 23:19:12",
+      "content": "BARTOW, Fla. The Florida Department of Health in Polk County (DOH-Polk) issued a rabies alert for the north Lakeland area in response to a raccoon that tested positive for rabies this week. All re\u2026 [+3189 chars]",
+      "retrievedAt": "2023-08-06 07:05:21.840474",
+      "internal_id": "9a34d9abe469c38952a3d523f8a5791e3228611153d0391ce3b64399da67ba1f",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 911,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KTVI Fox 2 St. Louis",
+      "author": "Joey Schneider",
+      "title": "Health officials warn of possible measles exposures in St. Louis, St. Charles counties",
+      "description": "Missouri health officials are warning of possible measles exposures in St. Louis and St. Charles counties after learning of an internationally-imported confirmed case of measles.",
+      "url": "https://fox2now.com/news/missouri/health-officials-warn-of-possible-measles-exposures-in-st-louis-st-charles-counties/",
+      "urlToImage": "https://fox2now.com/wp-content/uploads/sites/14/2023/08/GettyImages-1034560956.jpg?w=1280",
+      "publishedAt": "2023-08-04 22:53:46",
+      "content": "ST. LOUIS COUNTY, Mo. \u2013 Missouri health officials are warning of possible measles exposures in St. Louis and St. Charles counties after learning of an internationally-imported confirmed case of measl\u2026 [+1877 chars]",
+      "retrievedAt": "2023-08-06 07:05:22.373357",
+      "internal_id": "a4f35316fc3803be119f3fef8297ce6b872bcc982a6668477d10b2d1705e5fc0",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 920,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cmjornal.pt",
+      "author": "portal@cmjornal.pt (Correio da Manh\u00e3)",
+      "title": "Pessoas com risco acrescido de infe\u00e7\u00e3o podem agendar vacina\u00e7\u00e3o contra a var\u00edola dos macacos",
+      "description": "Lista dos locais dispon\u00edveis para vacina\u00e7\u00e3o preventiva da mpox pode ser consultada no portal da DGS.",
+      "url": "https://www.cmjornal.pt/sociedade/detalhe/pessoas-com-risco-acrescido-de-infecao-podem-agendar-vacinacao-contra-a-variola-dos-macacos",
+      "urlToImage": "https://cdn.cmjornal.pt/images/2022-06/img_1200x676$2022_06_28_22_16_15_1163740.jpg",
+      "publishedAt": "2023-08-04 22:33:45",
+      "content": "A Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS) atualizou esta sexta-feira a norma sobre a vacina\u00e7\u00e3o contra mpox permitindo que pessoas com risco acrescido da infe\u00e7\u00e3o possam agendar a vacina\u00e7\u00e3o por sua iniciativa. S\u2026 [+2267 chars]",
+      "retrievedAt": "2023-08-06 07:05:24.839826",
+      "internal_id": "c0849d2d0fcb91a5e8d313b0e21e66e5322f235c6d5f21664c427190d09c8da4",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 912,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Themessenger.com",
+      "author": "Sarah Braner",
+      "title": "More Than 90% of Children Infected in Ohio Measles Outbreak Were Unvaccinated: Report",
+      "description": "More Than 90% of Children Infected in Ohio Measles Outbreak Were Unvaccinated: Reportthemessenger.com",
+      "url": "https://themessenger.com/health/more-than-90-of-measles-cases-in-ohio-outbreak-were-unvaccinated-report",
+      "urlToImage": "https://cms.themessenger.com/wp-content/uploads/2023/08/measels-1398649946.jpg",
+      "publishedAt": "2023-08-04 21:43:12",
+      "content": "Nearly every child infected in a measles outbreak in Central Ohio last winter was unvaccinated, the Centers for Disease Control and Prevention (CDC) revealed. The report, released Friday, found that\u2026 [+1706 chars]",
+      "retrievedAt": "2023-08-06 07:05:22.377883",
+      "internal_id": "a10a6841096155946d59728008f4ded9958da6ffe71f1d1067b9fdd3ba5c0894",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 918,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Casos de Chikungunya crescem 113% em MG",
+      "description": "Os casos prov\u00e1veis de Chikungunya aumentaram mais de 113% em Minas Gerais. Os dados s\u00e3o da Secretaria de Estado da Sa\u00fade e revelam que a doen\u00e7...",
+      "url": "http://noticias.r7.com/minas-gerais/mg-record/videos/casos-de-chikungunya-crescem-113-em-mg-04082023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/08/04/64cd8913416eb9c53f000052/90be4c521af7425182b8a7ed8cfcd60f__MGR_0408_AUMENTO_CHICUNGUNYA_thumb_thumb.jpg",
+      "publishedAt": "2023-08-04 21:31:19",
+      "content": "Os casos prov\u00e1veis de Chikungunya aumentaram mais de 113% em Minas Gerais. Os dados s\u00e3o da Secretaria de Estado da Sa\u00fade e revelam que a doen\u00e7a j\u00e1 matou 33 pessoas em 2023. Ainda n\u00e3o existem vacinas \u2026 [+141 chars]",
+      "retrievedAt": "2023-08-06 07:05:24.542056",
+      "internal_id": "fedfa9f34a088bf23c8bb2eb7f93e551e8f911628e0ae2a92116ba700e074aad",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 916,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "WND News Services",
+      "title": "Illegal biolab discovered in California tied to Chinese medical firms",
+      "description": "Philip Lenczycki Daily Caller News Foundation Between April and June 2023, officials in Fresno, California discovered at least 20 potentially infectious agents, such as HIV and Malaria, as well as mice genetically-engineered to carry COVID-19, at an \u201cunlicens\u2026",
+      "url": "https://www.wnd.com/2023/08/illegal-biolab-discovered-california-tied-chinese-medical-firms/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2022/06/laboratory-microbiologist-bacteria-science-Pixabay.jpg",
+      "publishedAt": "2023-08-04 21:11:48",
+      "content": "(Image courtesy Pixabay) Philip LenczyckiDaily Caller News Foundation Between April and June 2023, officials in Fresno, California discovered at least 20 potentially infectious agents, such as \u2026 [+9818 chars]",
+      "retrievedAt": "2023-08-06 07:05:23.985390",
+      "internal_id": "d60b30e0288b642d002a24206218d4d4d3671df64850eb39978bc8b1e7aad585",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 919,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Var\u00edola dos macacos. Pessoas com risco acrescido de infe\u00e7\u00e3o podem agendar vacina\u00e7\u00e3o, disse Dire\u00e7\u00e3o-Geral da Sa\u00fade",
+      "description": "Pessoas eleg\u00edveis que se auto prop\u00f5em para a vacina\u00e7\u00e3o preventiva da mpox podem agendar o ato \"atrav\u00e9s de contacto com o ponto de vacina\u00e7\u00e3o que lhes seja mais conveniente\", definiu DGS.",
+      "url": "https://observador.pt/2023/08/04/variola-dos-macacos-pessoas-com-risco-acrescido-de-infecao-podem-agendar-vacinacao-disse-direcao-geral-da-saude/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1440%3A808%3Anowe%3A0%3A0%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F08%2F04203053%2F34695259.jpg",
+      "publishedAt": "2023-08-04 21:07:58",
+      "content": "A Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS) atualizou nesta sexta-feira a norma sobre a vacina\u00e7\u00e3o contra var\u00edola dos macacos (mpox) permitindo que pessoas com risco acrescido da infe\u00e7\u00e3o possam agendar a vacina\u00e7\u00e3o\u2026 [+2317 chars]",
+      "retrievedAt": "2023-08-06 07:05:24.837137",
+      "internal_id": "f4cdc07fb8b71007811c7a9e2b9d43436cd8e1f8452c290434c5567224d77250",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 914,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "Dengue en San Fernando: intervenciones del Dadis han sido 68% efectivas",
+      "description": "El trabajo conjunto entre el Dadis, las EPS, Veolia y la comunidad de San Fernando para reducir los casos de dengue, ha empezado a arrojar resultados positivos. As\u00ed lo revel\u00f3 la Alcald\u00eda de Cartagena tras un informe del organismo sanitario que indica que, a c\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/dengue-en-san-fernando-intervenciones-del-dadis-han-sido-68-efectivas-LA8750508",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/157c0/800d686/none/13704/WECH/dengue-en-san-fernando_8221232_20230804144703.jpg",
+      "publishedAt": "2023-08-04 20:13:17",
+      "content": "El trabajo conjunto entre el Dadis, las EPS, Veolia y la comunidad de San Fernando para reducir los casos de dengue, ha empezado a arrojar resultados positivos. As\u00ed lo revel\u00f3 la Alcald\u00eda de Cartagena\u2026 [+4915 chars]",
+      "retrievedAt": "2023-08-06 07:05:23.010931",
+      "internal_id": "33636a87880dfee9716291861a76450a22b76192e82576e7ad8da2a6bb214eb9",
+      "publishedAtLabel": "Aug 4"
+    },
+    {
+      "id": 917,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Philip Lenczycki",
+      "title": "Illegal Biolab Discovered In California Tied To Chinese Medical Firms",
+      "description": "The Nevada company allegedly operating an illegal biotech lab in California has ties to Chinese medical firms, according to a DCNF investigation.",
+      "url": "https://dailycaller.com/2023/08/04/illegal-biolab-discovered-in-california-tied-to-chinese-medical-firms/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-11.25.01-AM-e1690910770564.png",
+      "publishedAt": "2023-08-04 19:07:49",
+      "content": "Between April and June 2023, officials in Fresno, California, discovered at least 20 potentially infectious agents, such as HIV and Malaria, as well as mice genetically-engineered to carry CO\u2026 [+7883 chars]",
+      "retrievedAt": "2023-08-06 07:05:23.987622",
+      "internal_id": "40b5b320fc9b3a0508671ab45a3598abc61044d1165cdb9cf4446861331f626f",
+      "publishedAtLabel": "Aug 4"
+    },
     {
       "id": 904,
       "query": [
@@ -3413,204 +3612,6 @@
       "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
       "retrievedAt": "2023-07-28 19:05:15.033388",
       "internal_id": "605fdc80ac10471a34f87528f040ebe7e0b4e7ea1a1dbce3503d3691859d17aa",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 730,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Telegraph.co.uk",
-      "author": "Samaan Lateef, Samuel Lovett",
-      "title": "Fake British cough syrup linked to Cameroon child deaths was made in India, officials say",
-      "description": "Packaging from a highly toxic batch suggested it was British-manufactured, but the UK health regulator said no such company exists",
-      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/fake-british-cough-syrup-cameroon-child-deaths-india/",
-      "urlToImage": "https://www.telegraph.co.uk/content/dam/global-health/2023/07/27/TELEMMGLPICT000311881764_16904527052110_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay",
-      "publishedAt": "2023-07-27 10:53:00",
-      "content": "The revelations come at a time of great scrutiny for Indias pharmaceutical sector. Last month, the country recalled its typhoid vaccine from global markets due to concerns over quality. Before that, \u2026 [+2395 chars]",
-      "retrievedAt": "2023-07-28 19:05:16.429413",
-      "internal_id": "c5c5c11319f7aa423d23b10917ebf4de2223f827953dafeab4d095d7fb52f519",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 727,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Stemlynsblog.org",
-      "author": "Simon Carley",
-      "title": "JC: The TOP-ART study: Artesunate for bleeding trauma patients. St Emlyn\u2019s",
-      "description": "St.Emlyn's - Emergency Medicine #FOAMed The TOP-ART trial of Artesunate in the treatment of bleeding trauma patients. This RCT shows no benefit and potential harm, but it may be more complex than that. Further work may be needed on immunomodulation in bleedin\u2026",
-      "url": "https://www.stemlynsblog.org/jc-the-top-art-study-artesunate-for-bleeding-trauma-patients-st-emlyns/",
-      "urlToImage": "https://www.stemlynsblog.org/wp-content/uploads/2023/07/Artesunate-in-bleeding-trauma-patients.jpg",
-      "publishedAt": "2023-07-27 10:27:04",
-      "content": "It\u2019s tricky to see a direct relationship between malaria and trauma, but that is in fact what we have this week. Here at St Emlyn\u2019s we are always interested in potential therapies to improve the outc\u2026 [+6136 chars]",
-      "retrievedAt": "2023-07-28 19:05:15.036405",
-      "internal_id": "81046a28b4007506868a1cbcdc8be9efb071eb4ca20a541ee375f630822628ae",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 728,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Edziecko.pl",
-      "author": "Alicja Czarnecka",
-      "title": "Ma 21 lat i samotnie wychowuje dziecko. Jaki\u015b czas temu od lekarzy us\u0142ysza\u0142a, \u017ce umrze za dwa lata",
-      "description": "Ta m\u0142oda mama samotnie wychowuje malucha i do niedawna dobre sobie radzi\u0142a. Niestety wszystko si\u0119 zmieni\u0142o, gdy us\u0142ysza\u0142a od lekarzy, \u017ce umrze za dwa lata z powodu \u015bmiertelnej choroby. Jednak mimo to walczy o \u017cycie dla dobra dziecka, a swoj\u0105 histori\u0105 dzieli s\u2026",
-      "url": "https://www.edziecko.pl/rodzice/7,79361,30015095,ma-21-lat-i-samotnie-wychowuje-dziecko-jakis-czas-temu-od-lekarzy.html",
-      "urlToImage": "https://bi.im-g.pl/im/e6/9f/1c/z30015462IER,Ma-21-lat-i-14-miesiecznego-synka--Niedawno-uslysz.jpg",
-      "publishedAt": "2023-07-27 09:50:00",
-      "content": "Zobacz wideo Dobra strona wirusa Zika? Mo\u017ce pomaga\u0107 w leczeniu nowotwor\u00f3w Sophie White ma 21 lat i 14-miesi\u0119cznego synka Remiego Jamesa, z kt\u00f3rym mieszka w brytyjskim mie\u015bcie Rotherham. Niestety upo\u2026 [+2185 chars]",
-      "retrievedAt": "2023-07-28 19:05:15.367832",
-      "internal_id": "dbe96803b7bec35329c2b85ed9ad9a06e0e76f361f4e8b514f58c832255e7f37",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 713,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "By JUDY SIEGEL-ITZKOVICH",
-      "title": "Whooping cough outbreak in ultra-Orthodox Israeli population requires urgent vaccinations",
-      "description": "More than 225 cases of whooping cough have been reported since the beginning of this year, 13 times more than during the same period last year.",
-      "url": "https://www.jpost.com/health-and-wellness/article-752703",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/546353",
-      "publishedAt": "2023-07-27 09:13:58",
-      "content": "An outbreak of pertussis (whooping cough) among ultra-Orthodox (haredi) children whose parents have declined to take them for vaccinations has worried public health officials and the Health Ministry \u2026 [+4920 chars]",
-      "retrievedAt": "2023-07-28 19:05:12.241007",
-      "internal_id": "3f5397b6bf10c1dc2d4401c8d7c84f14b59352df90d2bafc78c199d8c6bded1b",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 767,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Virologists stress vaccination against dengue",
-      "description": "Virology experts have spoken on the need for importing dengue vaccines and administering those to people to build a shield against surge in the mosquito borne disease and fatalities. There are two types dengue vaccine available in the world getting approval b\u2026",
-      "url": "https://sylhetmirror.com/2023/07/27/virologists-stress-vaccination-against-dengue/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/07/Uuyyo.jpg",
-      "publishedAt": "2023-07-27 08:55:48",
-      "content": "Virology experts have spoken on the need for importing dengue vaccines and administering those to people to build a shield against surge in the mosquito borne disease and fatalities. There are two t\u2026 [+722 chars]",
-      "retrievedAt": "2023-07-31 07:05:39.621492",
-      "internal_id": "629d0ae255a737db41210f46f93245309e566acffc97bad55e0a97897d088524",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 718,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Goo.ne.jp",
-      "author": "idconsult",
-      "title": "\uff83\uff9e\uff9d\uff78\uff9e\u71b1\u304c\u30d1\u30f3\u30c7\u30df\u30c3\u30af\u306b\uff1f",
-      "description": "WHOWarnsofDengueRiskasGlobalWarmingPushesCasesNearHistoricHighs\u7de8\u96c6\u9577\u304c\u6614\u4f4f\u3093\u3067\u3044\u305f\u5bae\u53e4\u5cf6\u306a\u3069\u306f\u3001\u3059\u3050\u5371\u967a\u9818\u57df\u306b\u5165\u308a\u3046\u308b\u306e\u304b\u306a\u30fb\u30fbWHOWarnsofDengueRiskasGlobalWarmingPushesCasesHigherTheWorldHealthOrganizationhaswarnedthatcasesofdenguefevercouldreachclosetorecordhighsthisyear,partlyduetoglobal\u2026",
-      "url": "https://blog.goo.ne.jp/idconsult/e/d8ced2153dcf4068adb1d05fc143a936",
-      "urlToImage": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
-      "publishedAt": "2023-07-27 08:21:42",
-      "content": "WHO Warns of Dengue Risk as Global Warming Pushes Cases Higher The World Health Organization has warned that cases of dengue fever could reach close to record highs this year, partly due to global w\u2026 [+38 chars]",
-      "retrievedAt": "2023-07-28 19:05:13.576888",
-      "internal_id": "7de5b891ba4d0e56034d171f5b720c54892631dcd1159ddc0ff48316579e0a96",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 717,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Investing.com",
-      "author": "Reuters",
-      "title": "Japan's Takeda beats Q1 profit estimates on mainstay drugs, dengue vaccine",
-      "description": "Japan's Takeda beats Q1 profit estimates on mainstay drugs, dengue vaccine",
-      "url": "https://www.investing.com/news/stock-market-news/japans-takeda-pharma-posts-12-rise-in-firstquarter-profit-3135416",
-      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_L.jpg",
-      "publishedAt": "2023-07-27 08:05:41",
-      "content": "TOKYO (Reuters) -Japan's Takeda Pharmaceutical posted first-quarter profit that beat analysts' estimates, citing solid sales of mainstay drugs and the launch of new products including its dengue feve\u2026 [+1497 chars]",
-      "retrievedAt": "2023-07-28 19:05:13.575252",
-      "internal_id": "173b6fc1c21c7c936865913d4e1ff1f8d34ae601334628ca4e3bb0700f24a828",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 690,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Maharashtra: Increase in dengue, winter fever patients - Mumbai Live",
-      "description": "Maharashtra: Increase in dengue, winter fever patients Mumbai Live Pune Sees Surge In Dengue Cases With 12 Confirmed Patients This Month Punekar News PMC to raise awareness about vector-borne diseases at crowded public places Hi\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm11bWJhaWxpdmUuY29tL2VuL2hlYWx0aC9tYWhhcmFzaHRyYS1pbmNyZWFzZS1pbi1kZW5ndWUtd2ludGVyLWZldmVyLXBhdGllbnRzLTgwMDM30gFjaHR0cHM6Ly93d3cubXVtYmFpbGl2ZS5jb20vYW1wL2VuL2hlYWx0aC9tYWhhcmFzaHRyYS1pbmNyZWFzZS1pbi1kZW5ndWUtd2ludGVyLWZldmVyLXBhdGllbnRzLTgwMDM3?oc%3D5%26hl%3Den-US%26gl%3DUS%26ceid%3DUS:en&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-27 06:30:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.552041",
-      "internal_id": "72ee2484115466d338d3ae58ba36e96638504373d9bcc9395a7d1814fcf0740b",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 709,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Bangkok Post Public Company Limited",
-      "title": "110 people infected with Zika since Jan - health ministry",
-      "description": "A total of 110 people have been infected with the mosquito-borne Zika virus since January this year and the number of infections has continued rising since May, according to the Public Health Ministry.",
-      "url": "https://www.bangkokpost.com/thailand/general/2618939/110-people-infected-with-zika-virus-since-jan-says-dr-opas",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20230727/c1_2618939_230727134219_700.jpg",
-      "publishedAt": "2023-07-27 06:15:00",
-      "content": "A total of 110 people have been infected with the mosquito-borne Zika virus since January this year and the number of infections has continued rising since May, according to the Public Health Ministr\u2026 [+1756 chars]",
-      "retrievedAt": "2023-07-28 07:05:44.813080",
-      "internal_id": "8c1e262022591e76d7f43a946fe320a2a747aa9d6821ef30f5f8284a11d3fada",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 707,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "Una nueva vacuna de ARNm podr\u00eda ser la clave contra la malaria",
-      "description": "Investigadores del Instituto de Investigaci\u00f3n Ferrier de la Universidad Victoria de Wellington (Te Herenga Waka) y del Instituto Malaghan de Investigaci\u00f3n M\u00e9dica (Nueva Zelanda), as\u00ed como del Instituto Peter Doherty de Infecci\u00f3n e Inmunidad (Australia), han d\u2026",
-      "url": "https://www.infosalus.com/salud-investigacion/noticia-nueva-vacuna-arnm-podria-ser-clave-contra-malaria-20230727074949.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230727074949_1200.jpg",
-      "publishedAt": "2023-07-27 05:49:49",
-      "content": "MADRID, 27 Jul. (EUROPA PRESS) - Investigadores del Instituto de Investigaci\u00f3n Ferrier de la Universidad Victoria de Wellington (Te Herenga Waka) y del Instituto Malaghan de Investigaci\u00f3n M\u00e9dica (\u2026 [+3891 chars]",
-      "retrievedAt": "2023-07-28 07:05:44.090811",
-      "internal_id": "7a7eed71656ce377722fa6e0d01d7e4851d04f0e43ae1c828ef1040ac120d351",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 694,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Allarme dengue, scatta la disinfestazione - La Voce di Rovigo",
-      "description": "Allarme dengue, scatta la disinfestazione La Voce di Rovigo",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnBvbGVzaW5lMjQuaXQvY3JvbmFjYS8yMDIzLzA3LzI3L25ld3MvYWxsYXJtZS1kZW5ndWUtc2NhdHRhLWxhLWRpc2luZmVzdGF6aW9uZS0yMjQ5MzYv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-27 04:00:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-28 07:05:42.569894",
-      "internal_id": "e9bf03ce0994e3a65cf273c459872aa9d93c91cd2726e38680d8c9526a3c2861",
       "publishedAtLabel": "Jul 27"
     }
   ]
