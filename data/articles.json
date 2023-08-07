@@ -1,8 +1,242 @@
 {
-  "last_updated": "2023-08-07 07:05",
+  "last_updated": "2023-08-07 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 930,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "STLtoday.com",
+      "author": "By Steph Kukuljan St. Louis Post-Dispatch",
+      "title": "Health officials warn of measles exposure in St. Louis, St. Charles counties",
+      "description": "Local and state health officials are working to identify people who may have been exposed to measles after learning of an internationally imported case in the St. Louis region.",
+      "url": "https://www.stltoday.com/news/local/metro/health-officials-warn-of-measles-exposure-in-st-louis-st-charles-counties/article_411beb56-3474-11ee-b871-93b6b90677ca.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/11/411beb56-3474-11ee-b871-93b6b90677ca/64cfd02209802.preview.jpg?crop=1665%2C874%2C0%2C185&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-08-06 16:13:00",
+      "content": "ST. LOUIS COUNTY Local and state health officials are working to identify people who may have been exposed to measles after learning of an internationally imported case in the St. Louis region. Mea\u2026 [+2287 chars]",
+      "retrievedAt": "2023-08-07 19:05:12.672502",
+      "internal_id": "f0bbebde68a38ea5db41ff1fae238f9600c6e7db38735315a70602676f1ab874",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": null,
+      "title": "Dengue cases stabilising in Dhaka: DGHS",
+      "description": "According to DGHS, although there is an increase in cases outside Dhaka, the rate of increase is not as high as before",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-cases-stabilising-dhaka-dghs-677930",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/07/22/dengue-rajib-dhar.jpg",
+      "publishedAt": "2023-08-06 15:54:21",
+      "content": "Directorate General of Health Services (DGHS) expressed optimism that the number of dengue cases could decrease if the disease is effectively dealt with during the month of August. Professor Dr Md S\u2026 [+2149 chars]",
+      "retrievedAt": "2023-08-07 19:05:13.266992",
+      "internal_id": "de72cfec315d2ac75ce3c70d7af5612b6563160b228265c1107f6965d14dedc5",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 936,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Natalie Mayroth",
+      "title": "Dengue-Fieber: Alarm in Bangladesch",
+      "description": "In diesem Jahr steigen noch vor der M\u00fcckensaison die F\u00e4lle von Dengue-Fieber stark an. Krankenh\u00e4user haben M\u00fche, Platz f\u00fcr Patienten zu schaffen.",
+      "url": "https://taz.de/Dengue-Fieber/!5949109/",
+      "urlToImage": "https://taz.de/picture/6434448/948/33285233-1.jpeg",
+      "publishedAt": "2023-08-06 15:10:00",
+      "content": "In diesem Jahr steigen noch vor der M\u00fcckensaison die F\u00e4lle von Dengue-Fieber stark an. Krankenh\u00e4user haben M\u00fche, Platz f\u00fcr Patienten zu schaffen. Ein Mitarbeiter der Stadt Dhaka versucht mit Rauch D\u2026 [+2194 chars]",
+      "retrievedAt": "2023-08-07 19:05:13.260008",
+      "internal_id": "b6df10a551c45a9fc286f23114434cc34b2d91f443abbcf2a521606c681eb49d",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 937,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Zee Media Bureau",
+      "title": "Dengue Cases On Rise: 10 Ways To Help Keep Yourself Safe From Dengue Fever",
+      "description": "Study Reveals How Menopause Symptoms Like Mood Swings Is Associated With Infertility To shield yourself from the escalating threat, here\u2019s how you can keep yourself safe: 10 Ways To Stay Safe From Dengue Fever Eliminate Standing Water Mosquitoes that carry de\u2026",
+      "url": "https://zeenews.india.com/health/dengue-cases-on-rise-10-ways-to-help-keep-yourself-safe-from-dengue-fever-2645506",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/08/06/1257644-dengue.jpg",
+      "publishedAt": "2023-08-06 15:08:50",
+      "content": "As temperatures soar and mosquito activity intensifies, health officials are sounding the alarm over a worrying increase in dengue cases across our region. The spike in infections has prompted a pres\u2026 [+2149 chars]",
+      "retrievedAt": "2023-08-07 19:05:13.264780",
+      "internal_id": "f338cd80f815be8f5f188f1a0f2e55df1989bfe0857c196a2a9ff5a4fef46ff0",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 931,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue Cases On Rise: 10 Ways To Help Keep Yourself Safe From Dengue Fever - Zee News",
+      "description": "Dengue Cases On Rise: 10 Ways To Help Keep Yourself Safe From Dengue Fever Zee News Dos and don\u2019ts during dengue The Tribune India Dengue in India: How to Keep Children Safe From Dengue Virus as Cases Spike? India.com \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMid2h0dHBzOi8vemVlbmV3cy5pbmRpYS5jb20vaGVhbHRoL2Rlbmd1ZS1jYXNlcy1vbi1yaXNlLTEwLXdheXMtdG8taGVscC1rZWVwLXlvdXJzZWxmLXNhZmUtZnJvbS1kZW5ndWUtZmV2ZXItMjY0NTUwNi5odG1s0gF2aHR0cHM6Ly96ZWVuZXdzLmluZGlhLmNvbS9oZWFsdGgvZGVuZ3VlLWNhc2VzLW9uLXJpc2UtMTAtd2F5cy10by1oZWxwLWtlZXAteW91cnNlbGYtc2FmZS1mcm9tLWRlbmd1ZS1mZXZlci0yNjQ1NTA2L2FtcA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-06 14:42:35",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-07 19:05:13.237707",
+      "internal_id": "3689efb00e7707472ac620ddb70fa2031ce5b37e44f5ac8b5019dfaa8ce6fd10",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 941,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "Redacci\u00f3n El Mercurio",
+      "title": "La hepatitis podr\u00eda ser m\u00e1s letal que la malaria, la tuberculosis y el sida en 2040",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) alert\u00f3 sobre la necesidad de frenar las tendencias actuales de esta enfermedad, que podr\u00eda llegar a matar a m\u00e1s personas que la malaria, la tuberculosis y el sida combinados hacia el a\u00f1o 2040. La agencia sanitaria de \u2026",
+      "url": "https://www.elmercurio.com.ec/2023/08/06/hepatitis-letal-malaria-tuberculosis-sida-2040/",
+      "urlToImage": null,
+      "publishedAt": "2023-08-06 14:19:00",
+      "content": "Cada a\u00f1o m\u00e1s de un mill\u00f3n de personas mueren de hepatitis, siendo las m\u00e1s letales las de tipo B y C. La Organizaci\u00f3n Mundial de la Salud (OMS) alert\u00f3 sobre la necesidad de frenar las tendencias actu\u2026 [+4486 chars]",
+      "retrievedAt": "2023-08-07 19:05:14.151819",
+      "internal_id": "de0023ffb3f34a90074a9b835643fd6b06e7d687eec639444ad745f69cc28dd9",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 940,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09e7\u09e6 \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09ad\u09b0\u09cd\u09a4\u09bf \u09e8\u09ed\u09ec\u09ea",
+      "description": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09e7\u09e6 \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09ad\u09b0\u09cd\u09a4\u09bf \u09e8\u09ed\u09ec\u09eathedailystar.net",
+      "url": "https://bangla.thedailystar.net/health/disease/news-503051",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/08/19/dengue_5_1_1_1_1.jpg?itok=OSMwQQBG",
+      "publishedAt": "2023-08-06 12:07:08",
+      "content": "At least 10 dengue patients died, seven of which in Dhaka city, in the last 24 hours till 8:00am today",
+      "retrievedAt": "2023-08-07 19:05:13.273286",
+      "internal_id": "6a8f5872bfe169a770c3ca07054c95332b700d2063c204497081aaf804545ccf",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 939,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "\u09b0\u09ac\u09bf\u0989\u09b2 \u0995\u09ae\u09b2",
+      "title": "\u09aa\u09b0\u09cd\u09af\u099f\u09a8\u09c7 \u0998\u09c1\u09b0\u09c7 \u09a6\u09be\u0981\u09dc\u09be\u099a\u09cd\u099b\u09c7 \u09b6\u09cd\u09b0\u09c0\u09b2\u0999\u09cd\u0995\u09be",
+      "description": "\u099c\u09c1\u09b2\u09be\u0987\u09df\u09c7 \u09e7 \u09b2\u09be\u0996 \u09ea\u09e6 \u09b9\u09be\u099c\u09be\u09b0\u09c7\u09b0 \u09ac\u09c7\u09b6\u09bf \u09aa\u09b0\u09cd\u09af\u099f\u0995 \u09b6\u09cd\u09b0\u09c0\u09b2\u0999\u09cd\u0995\u09be \u09ad\u09cd\u09b0\u09ae\u09a3 \u0995\u09b0\u09c7\u09a8\u0964",
+      "url": "https://bangla.thedailystar.net/business/world-economy/south-asia/news-503041",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/uploads/2023/08/06/untitled_design_-_2023-08-06t175701.446.png",
+      "publishedAt": "2023-08-06 12:07:01",
+      "content": "At least 10 dengue patients died, seven of which in Dhaka city, in the last 24 hours till 8:00am today",
+      "retrievedAt": "2023-08-07 19:05:13.268883",
+      "internal_id": "d54770f9067dd163f60ea36e1f0f2c790f8a96aee886ab916aebd7a52e1dcafa",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 942,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Chance discovery helps fight against malaria",
+      "description": "Scientists have found a naturally occurring strain of bacteria which can help stop the transmission of malaria from mosquitoes to humans, reports BBC. They found it by chance, after a colony of mosquitoes in one experiment did not develop the malaria parasite\u2026",
+      "url": "https://sylhetmirror.com/2023/08/06/chance-discovery-helps-fight-against-malaria/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/87663.jpg",
+      "publishedAt": "2023-08-06 11:53:30",
+      "content": "Scientists have found a naturally occurring strain of bacteria which can help stop the transmission of malaria from mosquitoes to humans, reports BBC. They found it by chance, after a colony of mosq\u2026 [+2756 chars]",
+      "retrievedAt": "2023-08-07 19:05:14.161402",
+      "internal_id": "f66ed448853c0451aa500bffc2a16085d0e36ba3221037838c9d764802ebbe4c",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 934,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh Battles Its Worst Dengue Outbreak In 20 Years; 61,500 Infected & 293 Dead - Curly Tales",
+      "description": "Bangladesh Battles Its Worst Dengue Outbreak In 20 Years; 61,500 Infected & 293 Dead Curly Tales Deadly dengue outbreak in Bangladesh claims nearly 300 lives, 60,000+ infected Hindustan Times Bangladesh Reels Under Rising Dengue \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vY3VybHl0YWxlcy5jb20vYmFuZ2xhZGVzaC1iYXR0bGVzLWl0cy13b3JzdC1kZW5ndWUtb3V0YnJlYWstaW4tMjAteWVhcnMtNjE1MDAtaW5mZWN0ZWQtMjkzLWRlYWQv0gFsaHR0cHM6Ly9jdXJseXRhbGVzLmNvbS9iYW5nbGFkZXNoLWJhdHRsZXMtaXRzLXdvcnN0LWRlbmd1ZS1vdXRicmVhay1pbi0yMC15ZWFycy02MTUwMC1pbmZlY3RlZC0yOTMtZGVhZC9hbXAv?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-06 11:28:18",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-07 19:05:13.247989",
+      "internal_id": "ba174493a92b3d0c819df28bdd4567257f691ddb6c61c153f5c3a455b6eb5488",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 932,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh: Dengue death toll exceeds 300, caseload nears 64,000 this year - The New Indian Express",
+      "description": "Bangladesh: Dengue death toll exceeds 300, caseload nears 64,000 this year The New Indian Express Deadly dengue outbreak in Bangladesh claims nearly 300 lives, 60,000+ infected Hindustan Times Nearly 1,200 cases: State records sp\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS93b3JsZC8yMDIzL2F1Zy8wNi9iYW5nbGFkZXNoLWRlbmd1ZS1kZWF0aC10b2xsLWV4Y2VlZHMtMzAwLWNhc2Vsb2FkLW5lYXJzLTY0MDAwdGhpcy15ZWFyLTI2MDI1NzMuaHRtbNIBhQFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS93b3JsZC8yMDIzL2F1Zy8wNi9iYW5nbGFkZXNoLWRlbmd1ZS1kZWF0aC10b2xsLWV4Y2VlZHMtMzAwLWNhc2Vsb2FkLW5lYXJzLTY0MDAwdGhpcy15ZWFyLTI2MDI1NzMuYW1w?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-06 08:54:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-07 19:05:13.241797",
+      "internal_id": "dcbb530548d26f5f6bfa403236ab729ff072f8a7c700a5f3ba285f2a550a7c1f",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 933,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "B'desh's dengue death toll exceeds 300 as total cases nearing 64k - United News of India",
+      "description": "B'desh's dengue death toll exceeds 300 as total cases nearing 64k United News of India Bangladesh Reels Under Rising Dengue Cases With Nearly 300 Dead Firstpost Nearly 1,200 cases: State records spurt in dengue infections in July\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicWh0dHA6Ly93d3cudW5paW5kaWEuY29tL25ld3Mvd29ybGQvYi1kZXNoLXMtZGVuZ3VlLWRlYXRoLXRvbGwtZXhjZWVkcy0zMDAtYXMtdG90YWwtY2FzZXMtbmVhcmluZy02NGsvMzAyNTMxNC5odG1s0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-06 08:06:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-07 19:05:13.245376",
+      "internal_id": "f0c80d426b96f4bc1f692aff136438d352adf24d2bfd029bd0da55f90c36898e",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 935,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Deadly dengue outbreak in Bangladesh claims nearly 300 lives, 60,000+ infected - Hindustan Times",
+      "description": "Deadly dengue outbreak in Bangladesh claims nearly 300 lives, 60,000+ infected Hindustan Times Bangladesh Reels Under Rising Dengue Cases With Nearly 300 Dead Firstpost Bangladesh grapples with record deadly outbreak of dengue fe\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vd29ybGQtbmV3cy9kZWFkbGllc3QtZGVuZ3VlLW91dGJyZWFrLWluLWJhbmdsYWRlc2gtaW4tdHdvLWRlY2FkZXMtY2xhaW1zLW5lYXJseS0zMDAtbGl2ZXMtb3Zlci02MC0wMDAtaW5mZWN0ZWQtMTAxNjkxMzA4Mzk5NTQ0Lmh0bWzSAaYBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL3dvcmxkLW5ld3MvZGVhZGxpZXN0LWRlbmd1ZS1vdXRicmVhay1pbi1iYW5nbGFkZXNoLWluLXR3by1kZWNhZGVzLWNsYWltcy1uZWFybHktMzAwLWxpdmVzLW92ZXItNjAtMDAwLWluZmVjdGVkLTEwMTY5MTMwODM5OTU0NC1hbXAuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-06 08:00:41",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-07 19:05:13.249859",
+      "internal_id": "26b49426ae4cc0697d70a72e750423ace582f7f677f77080dc1733cb6b05492c",
+      "publishedAtLabel": "Aug 6"
+    },
     {
       "id": 926,
       "query": [
@@ -3377,241 +3611,6 @@
       "retrievedAt": "2023-07-29 19:05:17.880798",
       "internal_id": "d46e892a2824d07f82f0a3208ca4011fdf7b4f4df4c70a83b4fb83095aac48e6",
       "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 737,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "'\u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u0938\u0947 \u092b\u0948\u0932 \u0930\u0939\u093e \u0939\u0948 \u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942, \u0938\u0940\u092e\u093e \u092a\u0930 \u0939\u094b \u091c\u0930\u0942\u0930\u0940 \u091c\u093e\u0902\u091a', \u092c\u094b\u0932\u0940\u0902 \u092e\u092e\u0924\u093e \u092c\u0928\u0930\u094d\u091c\u0940",
-      "description": "\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u092e\u0924\u093e \u092c\u0928\u0930\u094d\u091c\u0940 \u0928\u0947 \u0915\u0939\u093e \u0939\u0948 \u0915\u093f \u0909\u0928\u0915\u0947 \u0930\u093e\u091c\u094d\u092f \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u092a\u0921\u093c\u094b\u0938\u0940 \u0926\u0947\u0936 \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u0938\u0947 \u092b\u0948\u0932 \u0930\u0939\u0940 \u0939\u0948. \u0938\u0940\u090f\u092e \u092c\u0928\u0930\u094d\u091c\u0940 \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u090f\u0902\u091f\u094d\u0930\u0940 \u0915\u094b \u0924\u094b \u0930\u094b\u0915 \u0928\u0939\u0940\u0902 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0932\u0947\u0915\u093f\u0928 \u0907\u0938\u0915\u0947 \u0932\u093f\u090f \u0938\u0940\u092e\u093e \u092a\u0930 \u091c\u0930\u0942\u0930\u0940 \u091c\u093e\u0902\u091a \u0939\u094b\u0928\u0940 \u091a\u093e\u0939\u093f\u090f.",
-      "url": "https://www.aajtak.in/india/news/story/dengue-spreading-from-bangladesh-necessary-tests-must-be-done-at-border-says-mamata-banerjee-ntc-1745655-2023-07-28",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202307/mamata_banerjee-sixteen_nine.png",
-      "publishedAt": "2023-07-28 06:37:31",
-      "content": ". . ,' . ( ) . .' ? , , . , ' . . .' , . 10 . (Severe dengue)- . - . (DHF) (DSS). . , . . WHO , . . , . . - . .",
-      "retrievedAt": "2023-07-29 07:05:34.993226",
-      "internal_id": "5078e1b99966c3fa3175b2dda5e9959cd4d0d8568d180d38842586828e5d3e01",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 733,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "West Bengal gears up to combat dengue menace; over 3,000 cases reported this year - Hindustan Times",
-      "description": "West Bengal gears up to combat dengue menace; over 3,000 cases reported this year Hindustan TimesView Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMirwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2tvbGthdGEtbmV3cy93ZXN0LWJlbmdhbC1nb3Zlcm5tZW50LXJhbXBzLXVwLWVmZm9ydHMtdG8tdGFja2xlLXJpc2luZy1kZW5ndWUtbWVuYWNlLWFzLWNhc2VzLXN1cmdlLWluLW1vbnNvb24tc2Vhc29uLTEwMTY5MDUxNjg5ODgyMy5odG1s0gGzAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9jaXRpZXMva29sa2F0YS1uZXdzL3dlc3QtYmVuZ2FsLWdvdmVybm1lbnQtcmFtcHMtdXAtZWZmb3J0cy10by10YWNrbGUtcmlzaW5nLWRlbmd1ZS1tZW5hY2UtYXMtY2FzZXMtc3VyZ2UtaW4tbW9uc29vbi1zZWFzb24tMTAxNjkwNTE2ODk4ODIzLWFtcC5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-28 04:01:38",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-29 07:05:34.982938",
-      "internal_id": "512b78fa9120d0d15480b6fe8a84eb8f1687c1aa7c1a7a9ef7ebda516857921d",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 739,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Prevalence of Asymptomatic Mpox among Men Who Have Sex with Men, Japan, January\u2013March 2023",
-      "description": "Prevalence of Asymptomatic Mpox among MSM, Japan",
-      "url": "https://wwwnc.cdc.gov/eid/article/29/9/23-0541_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-07-28 04:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.During the 2022 global mpo\u2026 [+9687 chars]",
-      "retrievedAt": "2023-07-29 07:05:36.309256",
-      "internal_id": "2f2cb829f4a137f803e59293cb60b220294ef88965b4b8d7984cd4bd561854bf",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 731,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Ankita Upadhyay",
-      "title": "Most severe\u2019 Type-2 strain found in majority of dengue samples",
-      "description": "Dengue Virus Type-2 is supposed to be the most severe and has a tendency to cause haemorrhagic fever and mortality.",
-      "url": "https://indianexpress.com/article/cities/delhi/most-severe-type-2-strain-found-in-majority-of-dengue-samples-8864280/",
-      "urlToImage": "https://images.indianexpress.com/2023/07/dengue.jpeg",
-      "publishedAt": "2023-07-28 00:15:09",
-      "content": "The serotyping of samples found positive for dengue in Delhi has confirmed the presence of Type-2 strain in a majority of them, officials from the state health department have said.Dengue Virus Type-\u2026 [+1900 chars]",
-      "retrievedAt": "2023-07-29 07:05:34.973526",
-      "internal_id": "012d7cb98a345f8e22aa55e3087976673256024d952b01eae7c5b3d967c4506f",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 732,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Requests for dengue test pour in at labs, positivity rate goes up in city - IndiaTimes",
-      "description": "Requests for dengue test pour in at labs, positivity rate goes up in city IndiaTimesView Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiigFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L2tvbGthdGEvcmVxdWVzdHMtZm9yLWRlbmd1ZS10ZXN0LXBvdXItaW4tYXQtbGFicy1wb3NpdGl2aXR5LXJhdGUtZ29lcy11cC1pbi1jaXR5L2FydGljbGVzaG93LzEwMjE4NDg4Ni5jbXPSAY4BaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vY2l0eS9rb2xrYXRhL3JlcXVlc3RzLWZvci1kZW5ndWUtdGVzdC1wb3VyLWluLWF0LWxhYnMtcG9zaXRpdml0eS1yYXRlLWdvZXMtdXAtaW4tY2l0eS9hbXBfYXJ0aWNsZXNob3cvMTAyMTg0ODg2LmNtcw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-28 00:08:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-29 07:05:34.981000",
-      "internal_id": "04b1778bd754ba555685be4ccffaedc11aa6af3fdede5138b1382f6165bbdd3b",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 734,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Requests for dengue test pour in at labs, positivity rate goes up in city | Kolkata News - Times of India - IndiaTimes",
-      "description": "Requests for dengue test pour in at labs, positivity rate goes up in city | Kolkata News - Times of India IndiaTimesView Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiigFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L2tvbGthdGEvcmVxdWVzdHMtZm9yLWRlbmd1ZS10ZXN0LXBvdXItaW4tYXQtbGFicy1wb3NpdGl2aXR5LXJhdGUtZ29lcy11cC1pbi1jaXR5L2FydGljbGVzaG93LzEwMjE4NDg4Ni5jbXPSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-28 00:08:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-29 07:05:34.984290",
-      "internal_id": "134302ac0728244fc8698c557c7332b44d3c8a06df9a968e6e3cf3befc12b8c9",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 736,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Bangkok Post Public Company Limited",
-      "title": "Dealing with dengue, Zika",
-      "description": "Concern over an increase in mosquito-borne disease cases deserves more attention from our government and broader society.",
-      "url": "https://www.bangkokpost.com/opinion/opinion/2619323/dealing-with-dengue-zika",
-      "urlToImage": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "publishedAt": "2023-07-27 23:46:00",
-      "content": "Concern over an increase in mosquito-borne disease cases deserves more attention from our government and broader society. Since late last month, there have been reports of a rise in dengue fever and\u2026 [+3078 chars]",
-      "retrievedAt": "2023-07-29 07:05:34.989619",
-      "internal_id": "afde1c67c48d1970a08dde1f69e0aecdac63ea8329a63ba5448d2ce602c0f0a9",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 738,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Royal Society of Chemistry",
-      "author": "Maria Jo\u00e3o Oliveira, Soraia Caetano, Ana Dalot, Filipe Sabino, Tom\u00e1s Calmeiro, Elvira Fortunato, Rodrigo Martins, Eulalia Pereira, Miguel Prud\u00eancio, Hugh J Byrne, Ricardo Franco, Hugo \u00c1guas",
-      "title": "Simple polystyrene microfluidic device for sensitive and accurate SERS-based detection of infection by malaria parasites",
-      "description": "Analyst, 2023, Accepted ManuscriptDOI: 10.1039/D3AN00971H, Paper Open Access &nbsp This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.Maria Jo\u00e3o Oliveira, Soraia Caetano, Ana Dalot, Filipe Sabino, Tom\u00e1s Calmeiro, Elvira Fortuna\u2026",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2023/an/d3an00971h",
-      "urlToImage": null,
-      "publishedAt": "2023-07-27 23:00:00",
-      "content": "M. J. Oliveira, S. Caetano, A. Dalot, F. Sabino, T. Calmeiro, E. Fortunato, R. Martins, E. Pereira, M. Prud\u00eancio, H. J. Byrne, R. Franco and H. \u00c1guas, Analyst, 2023, Accepted Manuscript , DOI: 10.\u2026 [+333 chars]",
-      "retrievedAt": "2023-07-29 07:05:35.787268",
-      "internal_id": "6d8c9eb006cf82037d47b08f3d25bb41fc40b35f282dd39e10d6738957e0a0a8",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 735,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "LA NACION",
-      "title": "Fabiana Liuzzi habl\u00f3 de la salud de su hijo de 9 a\u00f1os que tuvo con Luis Ventura: \u201cTiene encefalopat\u00eda cr\u00f3nica\u201d",
-      "description": "En junio, el ni\u00f1o estuvo internado por un cuadro de neumon\u00eda y dengue; la exvedette explic\u00f3 en LAM por qu\u00e9 a\u00fan no habla y c\u00f3mo es el tratamiento con alimentos espec\u00edficos que lo ayud\u00f3 en su evoluci\u00f3n",
-      "url": "https://www.lanacion.com.ar/espectaculos/fabiana-liuzzi-hablo-de-la-salud-de-su-hijo-de-9-anos-que-tuvo-con-luis-ventura-tiene-encefalopatia-nid27072023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/lJW0JooNAHrKUKW2-jI10Z8CLfs=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/K26X3PMK3BFNBNAE6POLYNX3SM.png",
-      "publishedAt": "2023-07-27 20:35:47",
-      "content": "En 2014, una noticia sobreLuis Ventura desat\u00f3 un esc\u00e1ndalo en los medios y deriv\u00f3 en la salida del periodista de Intrusos (Am\u00e9rica). Es que el conductor de Secretos Verdaderos, mantuvo una relaci\u00f3n e\u2026 [+3025 chars]",
-      "retrievedAt": "2023-07-29 07:05:34.987180",
-      "internal_id": "c50f4e6550da7e4ce4d7f593bc754cb3edfaf0b6f8872cf54e90f10f0f0d0ced",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 719,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": "CDC",
-      "title": "Travel-Associated Dengue Cases \u2014 United States, 2010\u20132021",
-      "description": "This report describes an increase in travel-associated dengue cases in the U.S. in 2019 compared to 2010\u20132018 and 2020\u20132021.",
-      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7230a3.htm",
-      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7230a3_DengueTravel_IMAGE_28July2023_1200x675.jpg?_=81822",
-      "publishedAt": "2023-07-27 17:09:25",
-      "content": "During 2010\u20132021, a total of 7,528 confirmed or probable travel-associated dengue cases were reported to ArboNET. Among these, 1,474 (20%) occurred in 2019, representing a 168% increase over the annu\u2026 [+3443 chars]",
-      "retrievedAt": "2023-07-28 19:05:13.580211",
-      "internal_id": "054dcf8f76babfb08a66a091608c14eedce9935abffd3cda08a2b79564daaf32",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 729,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": "CDC",
-      "title": "Demographic Disparities in Mpox Vaccination Series Completion, by Route of Vaccine Administration \u2014 California, August 9, 2022\u2013March 31, 2023",
-      "description": "This report describes demographic disparities among people who completed the 2-dose mpox vaccination series by intradermal or subcutaneous administration.",
-      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7230a4.htm",
-      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7230a4_MpoxDemographicDisparities_IMAGE_28July2023_1200x675.jpg?_=81825",
-      "publishedAt": "2023-07-27 17:09:25",
-      "content": "Tarek Salih, MD1,*; Josh Vance, MPH, MEd1,2,*; Joshua Quint, PhD1; Brenda Meza, MPP1; Louise McNitt, MD1; Webster U. Lincoln1; Robert Schechter, MD1 (View author affiliations) View suggested citatio\u2026 [+26729 chars]",
-      "retrievedAt": "2023-07-28 19:05:16.077485",
-      "internal_id": "851b8f80d8f1fd05a049724c307215fee960b20bf610db18926bfd8bbd728421",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 716,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": "CDC",
-      "title": "Travel-Associated Dengue Cases - United States, 2010-2021",
-      "description": "This report describes an increase in travel-associated dengue cases in the U.S. in 2019 compared to 2010-2018 and 2020-2021.",
-      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7230a3.htm",
-      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7230a3_DengueTravel_IMAGE_28July2023_1200x675.jpg?_=81822",
-      "publishedAt": "2023-07-27 17:00:00",
-      "content": "During 2010\u20132021, a total of 7,528 confirmed or probable travel-associated dengue cases were reported to ArboNET. Among these, 1,474 (20%) occurred in 2019, representing a 168% increase over the annu\u2026 [+3443 chars]",
-      "retrievedAt": "2023-07-28 19:05:13.572598",
-      "internal_id": "db1b9af3e19b087b24c144b2492558f3847f4a93e684fead420d6dcfcd31fbc1",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 714,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Lakemchenryscanner.com",
-      "author": "Lmcs Staff Report",
-      "title": "Health officials warn residents about rabid bats found in Lake and McHenry counties, surrounding areas",
-      "description": "The state health department is warning residents about the risk of rabies as rabid bats have been identified in Lake and McHenry counties, along with other Illinois counties.",
-      "url": "https://www.lakemchenryscanner.com/2023/07/27/health-officials-warn-residents-about-rabid-bats-found-in-lake-and-mchenry-counties-surrounding-areas/",
-      "urlToImage": "https://lakemchenryscanner.b-cdn.net/wp-content/uploads/2021/06/nils-bouillard-QLDqJV5CEWY-unsplash.jpg",
-      "publishedAt": "2023-07-27 16:41:08",
-      "content": "File Photo | Photo by Nils Bouillard (via Unsplash) The state health department is warning residents about the risk of rabies as rabid bats have been identified in Lake and McHenry counties, along w\u2026 [+2777 chars]",
-      "retrievedAt": "2023-07-28 19:05:12.570460",
-      "internal_id": "192eee401e52cb13c918fe403e324b2dd202825a9936c101382a6d305ec6963d",
-      "publishedAtLabel": "Jul 27"
     }
   ]
 }
