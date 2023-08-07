@@ -1,8 +1,99 @@
 {
-  "last_updated": "2023-08-06 19:05",
+  "last_updated": "2023-08-07 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 926,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh's dengue death toll exceeds 300 as total cases nearing 64000 - Xinhua",
+      "description": "Bangladesh's dengue death toll exceeds 300 as total cases nearing 64000 XinhuaView Full Coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZW5nbGlzaC5uZXdzLmNuL2FzaWFwYWNpZmljLzIwMjMwODA2LzdlY2FhYTM3NmJlNTRlN2U5MmVhOWQyMzI4OTE0YTg5L2MuaHRtbNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-06 06:48:45",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-07 07:05:48.794658",
+      "internal_id": "c18df4d312273db2fe7f9eb6a0b2c2b28e521e714b2c515e54351c013d0fae56",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 929,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Republic World",
+      "author": "Sadhna Mishra",
+      "title": "Monsoon: \u092c\u0930\u0938\u093e\u0924\u0940 \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u093e\u0902 \u092c\u0928\u093e \u0930\u0939\u0940 \u0939\u0948\u0902 \u0905\u092a\u0928\u093e \u0936\u093f\u0915\u093e\u0930? \u0921\u093e\u0907\u091f \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932 \u0915\u0930\u0947\u0902 \u0932\u0939\u0938\u0941\u0928, \u092e\u093f\u0932\u0947\u0902\u0917\u0947 \u091a\u094c\u0902\u0915\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092b\u093e\u092f\u0926\u0947 - Republic Bharat",
+      "description": "\u0916\u093e\u0928\u0947 \u0915\u093e \u0938\u094d\u0935\u093e\u0926 \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0915\u0940 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0932\u0939\u0938\u0941\u0928 \u0915\u0940 \u0915\u0932\u093f\u092f\u093e\u0902 \u092c\u0939\u0941\u0924 \u0939\u0940 \u0915\u093e\u092e \u0915\u0940 \u0939\u0948\u0902\u0964 \u092f\u0947 \u092e\u093e\u0928\u0938\u0942\u0928 \u092e\u0947\u0902 \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u0940 \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u094b\u0902 \u0915\u094b \u0926\u0942\u0930 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0915\u093e\u092e \u0906\u0924\u0940 \u0939\u0948\u0964",
+      "url": "https://bharat.republicworld.com/lifestyle/health/monsoon-diseases-making-their-prey-include-garlic-in-diet-get-amazing-benefits-lahsun-ke-fayde",
+      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/169129551464cf1f1a3fbd6.jpeg",
+      "publishedAt": "2023-08-06 06:32:11",
+      "content": "Garlic Benefits In Monsoon: , , , , , ..... ? -B C , ? -6- - - ? 4 , 5-7 ... Dengue: , ; Disclaimer: , - REPUBLIC BHARAT ... Rice Water: ,",
+      "retrievedAt": "2023-08-07 07:05:48.805555",
+      "internal_id": "6cdd96fab163961bd52b694509a9fcd5ce142ff1fc38a677b1034ffa015cf17b",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 928,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Republic World",
+      "author": "Sadhna Mishra",
+      "title": "Dengue: \u0921\u0947\u0902\u0917\u0942 \u0915\u094b \u092e\u093e\u0924 \u0926\u0947\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u092a\u0940\u0924\u0947 \u0915\u093e \u092b\u0932 \u0928\u0939\u0940\u0902, \u092a\u0924\u094d\u0924\u093f\u092f\u094b\u0902 \u0915\u093e \u0915\u0930\u0947\u0902 \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932; \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c\u0947\u0902\u0917\u0940 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938",
+      "description": "Dengue: \u0921\u0947\u0902\u0917\u0942 \u0915\u094b \u092e\u093e\u0924 \u0926\u0947\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u092a\u0940\u0924\u0947 \u0915\u093e \u092b\u0932 \u0928\u0939\u0940\u0902, \u092a\u0924\u094d\u0924\u093f\u092f\u094b\u0902 \u0915\u093e \u0915\u0930\u0947\u0902 \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932; \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c\u0947\u0902\u0917\u0940 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938republicworld.com",
+      "url": "https://bharat.republicworld.com/lifestyle/health/beat-dengue-use-papaya-leaves-not-fruit-platelets-increase-rapidly-papite-ki-pattiyo-se-thk-kare-dengue",
+      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/169122663864ce120e99b87.jpeg",
+      "publishedAt": "2023-08-06 01:32:39",
+      "content": "Benefits Of Papaya Leaves For Dengue: , .... ? - , , , ? , , ? ? Disclaimer: , - REPUBLIC BHARAT ... Eye Flu: ?",
+      "retrievedAt": "2023-08-07 07:05:48.803891",
+      "internal_id": "115b060591741b9d190c73eb22a64eb46a6b8bd803aaddf937f39684ec4b4075",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 927,
+      "query": [
+        "dengue",
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u092c\u091a \u0915\u0947 \u0930\u0939\u0947\u0902... \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0935\u093e\u092f\u0930\u0932, \u091f\u093e\u0907\u092b\u093e\u0907\u0921 \u0914\u0930 \u0921\u0947\u0902\u0917\u0942 \u092b\u0940\u0935\u0930 \u0915\u093e \u091f\u094d\u0930\u093f\u092a\u0932 \u0905\u091f\u0948\u0915",
+      "description": "Viral, Typhoid And Dengue Fever In Delhi: \u0926\u093f\u0932\u094d\u200d\u0932\u0940 \u092e\u0947\u0902 \u0935\u093e\u092f\u0930\u0932, \u091f\u093e\u0907\u092b\u093e\u0907\u0921 \u0914\u0930 \u0921\u0947\u0902\u0917\u0942 \u092c\u0941\u0916\u093e\u0930 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u0915\u093e\u092b\u0940 \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c\u0947 \u0939\u0948\u0902\u0964 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092c\u091a\u093e\u0935 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902, \u092c\u0924\u093e \u0930\u0939\u0947 \u0939\u0948\u0902 \u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0915\u0947 \u0928\u093e\u092e\u0940 \u0921\u0949\u0915\u094d\u200d\u091f\u0930\u094d\u0938\u0964",
+      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-viral-typhoid-and-dengue-triple-fever-attack-how-to-keep-infection-away-read-doctors-tips/articleshow/102462874.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-112424,msid-102462886/navbharat-times.jpg",
+      "publishedAt": "2023-08-06 01:07:52",
+      "content": ": 5-6 , 40 50 , , , 40 50 , , , , , 50 50 40 50 , , , , 103 104 10 15 , Navbharat Times News App: - , , , , -... NBT ! Adv: , , , ... 5 ' ' -\u2026 [+154 chars]",
+      "retrievedAt": "2023-08-07 07:05:48.798416",
+      "internal_id": "de6d2dbf9ace7ff4b61f64e3f0228aee567943d9e632d39e3ba980a0b770ef1c",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 925,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "Almost 300 dead as Bangladesh grapples with record dengue fever outbreak",
+      "description": "Bangladesh grapples with a record deadly outbreak of dengue fever, with hospitals struggling to make space for patients as the disease spreads rapidly in the densely-populated country.",
+      "url": "https://www.abc.net.au/news/2023-08-06/bangladesh-grapples-with-record-deadly-outbreak-of-dengue-fever/102694470",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9042acecdebffed0329ffb9cbb1b731e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=271&width=862&height=485",
+      "publishedAt": "2023-08-06 01:05:07",
+      "content": "Bangladesh is grappling with a record deadly outbreak of dengue fever, with hospitals struggling to make space for patients as the disease spreads rapidly in the densely-populated country. T\u2026 [+2849 chars]",
+      "retrievedAt": "2023-08-07 07:05:48.787554",
+      "internal_id": "734d89aae5fb5896b3476a60a32cb464bce89c7293c6124ba55377bae3578691",
+      "publishedAtLabel": "Aug 6"
+    },
     {
       "id": 924,
       "query": [
@@ -3520,96 +3611,6 @@
       "content": "File Photo | Photo by Nils Bouillard (via Unsplash) The state health department is warning residents about the risk of rabies as rabid bats have been identified in Lake and McHenry counties, along w\u2026 [+2777 chars]",
       "retrievedAt": "2023-07-28 19:05:12.570460",
       "internal_id": "192eee401e52cb13c918fe403e324b2dd202825a9936c101382a6d305ec6963d",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 766,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Big News Network",
-      "author": null,
-      "title": "Xinhua Asia-Pacific news summary at 1600, July 27",
-      "description": "DHAKA -- Bangladesh recorded 2,361 new cases of dengue fever and 10 new deaths on Thursday, bringing its total tally to 42,702 with 225 deaths, the Directorate General of Health Services (DGHS) said. According to the figure reported by the DGHS under the Mini\u2026",
-      "url": "https://www.bignewsnetwork.com/news/273912814/xinhua-asia-pacific--summary-at-1600-july-27",
-      "urlToImage": "https://static.midwestradionetwork.com/story_logos/premier/malaysia-sun.jpg",
-      "publishedAt": "2023-07-27 16:18:28",
-      "content": "DHAKA -- Bangladesh recorded 2,361 new cases of dengue fever and 10 new deaths on Thursday, bringing its total tally to 42,702 with 225 deaths, the Directorate General of Health Services (DGHS) said.\u2026 [+1891 chars]",
-      "retrievedAt": "2023-07-31 07:05:39.620252",
-      "internal_id": "b01164ef6e095659a318013c26552d04f3bc65ca59119d5e10ac79955c868cea",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 722,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "\u00a1Atenci\u00f3n! Cartagena sali\u00f3 de la zona de brote por dengue",
-      "description": "\u00bfC\u00f3mo avanza la lucha contra el dengue en Cartagena? Es una pregunta que se hace la ciudadan\u00eda teniendo en cuenta que ante los imprevistos ocurridos \u00faltimamente con las interrupciones en el servicio de agua potable, sumado a las fuertes temperaturas, muchas f\u2026",
-      "url": "https://www.eluniversal.com.co/cartagena/atencion-cartagena-salio-de-la-zona-de-brote-por-dengue-MN8708295",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/800x1067/0c191/800d686/none/13704/OIUU/dengue-en-cartagena_8173929_20230727104248.jpg",
-      "publishedAt": "2023-07-27 15:55:54",
-      "content": "\u00bfC\u00f3mo avanza la lucha contra el dengue en Cartagena? Es una pregunta que se hace la ciudadan\u00eda teniendo en cuenta que ante los imprevistos ocurridos \u00faltimamente con las interrupciones en el servicio \u2026 [+2361 chars]",
-      "retrievedAt": "2023-07-28 19:05:13.588119",
-      "internal_id": "3b7d711d1706e1b01e7a8fd34f40131c3dc556a6ce1e5289fabab45fb63a172f",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 720,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "salute@gedi.it (Redazione di Salute)",
-      "title": "\u00c8 possibile vaccinarsi contro la dengue. Se s\u00ec, dove?",
-      "description": "Il vaccino contro la dengue approvato anche per le persone non esposte precedentemente al virus ha completato l\u2019iter autorizzativo in Italia. Sar\u00e0 disponibile a breve nei centri vaccinali internazionali del sistema sanitario nazionale",
-      "url": "https://www.repubblica.it/salute/dossier/vaccini/2023/07/27/news/vaccino_dengue_italia_viaggi-409147370/",
-      "urlToImage": "https://www.repstatic.it/content/contenthub/img/2023/07/27/122245194-f7218f38-2b94-4724-a61f-000be07b3005.jpg",
-      "publishedAt": "2023-07-27 15:02:37",
-      "content": "La dengue \u00e8 una malattia infettiva di origine virale, trasmessa allessere umano dalla puntura di zanzare infettate del genere Aedes. \u00c8 diffusa in diverse aree nel mondo: casi frequenti si riscontrano\u2026 [+3544 chars]",
-      "retrievedAt": "2023-07-28 19:05:13.581819",
-      "internal_id": "d3cd9e8b1f848ba8f460f3eb76b5ce2e3e2efb2f24dded459f7482cc1e73e743",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 715,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Rachel Isba, Professor of Medicine, Lancaster University",
-      "title": "Measles: it's not just London that's at risk of an outbreak - it's all of the UK",
-      "description": "Seven children at a nursery in Stoke-on-Trent have caught measles. But other parts of the UK are at risk too.",
-      "url": "https://theconversation.com/measles-its-not-just-london-thats-at-risk-of-an-outbreak-its-all-of-the-uk-210233",
-      "urlToImage": "https://images.theconversation.com/files/539723/original/file-20230727-29-ju4m5h.jpg?ixlib=rb-1.1.0&rect=10%2C861%2C7169%2C3584&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2023-07-27 14:46:30",
-      "content": "Since the start of 2023, measles has been reported in a third of countries in the World Health Organization (WHO) European region. And in the first five months of the year there were 5,699 cases repo\u2026 [+5038 chars]",
-      "retrievedAt": "2023-07-28 19:05:13.106423",
-      "internal_id": "8dfc57bad8681c27b321087f3c7ce312fb6baa9c4b717e978b7b83c3a880e5f5",
-      "publishedAtLabel": "Jul 27"
-    },
-    {
-      "id": 724,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "the-irish-times",
-      "source_name": "The Irish Times",
-      "author": "Ellen O'Riordan",
-      "title": "Court approves \u20ac1.95m interim settlement for girl who claimed delay to meningitis diagnosis",
-      "description": "HSE filed full defence and denied liability in relation to alleged delay in diagnosing seven-month-old girl",
-      "url": "https://www.irishtimes.com/crime-law/courts/2023/07/27/court-approves-195m-interim-settlement-for-girl-who-claimed-delay-to-meningitis-diagnosis/",
-      "urlToImage": "https://www.irishtimes.com/resizer/zKAVJIZ2icro-JKV_GlctTQrWjk=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/H57SZDEAGCVRXGBMZB6CUWSRQM.jpg",
-      "publishedAt": "2023-07-27 14:34:14",
-      "content": "The High Court has approved a 1.95 million interim settlement for a girl who claimed there was a delay in diagnosing and treating her meningitis when she was aged seven months. The court heard the H\u2026 [+2243 chars]",
-      "retrievedAt": "2023-07-28 19:05:14.256523",
-      "internal_id": "935e3fd60113867ff12280c05da5840c5b09075324ebb8774ee894b740c41357",
       "publishedAtLabel": "Jul 27"
     }
   ]
