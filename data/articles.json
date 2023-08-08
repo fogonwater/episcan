@@ -1,8 +1,134 @@
 {
-  "last_updated": "2023-08-08 01:11",
+  "last_updated": "2023-08-08 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 953,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "lans@euroinvestor.dk (Laura N\u00f8rkj\u00e6r Seligmann)",
+      "title": "Nordnet om C25-selskab: Nye data 'vil investorer fejre med en st\u00f8rre kursstigning'",
+      "description": "L\u00e6s mere her.",
+      "url": "https://www.bt.dk/nyheder/nordnet-om-c25-selskab-nye-data-vil-investorer-fejre-med-en-stoerre-kursstigning",
+      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/204/2045808/24493500-.jpg",
+      "publishedAt": "2023-08-07 06:59:46",
+      "content": "Mandag morgen har Bavarian Nordic annonceret succesfulde Chikungunya data, og det vil investorerne fejre med en st\u00f8rre kursstigning. S\u00e5dan lyder vurderingen fra Nordnets investerings\u00f8konom, Per Hans\u2026 [+1433 chars]",
+      "retrievedAt": "2023-08-08 07:05:44.710437",
+      "internal_id": "30bb666df31209f88166034b07a6ca0748c8552c2eadf5cea7fa69a4ad2144ca",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 950,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "pesc@bt.dk (Peter Schulz)",
+      "title": "Kendt influencer og mor til tre d\u00f8d efter brystoperation - WHO advarer",
+      "description": "En meget, meget trist historie.",
+      "url": "https://www.bt.dk/udland/kendt-influencer-og-mor-til-tre-doed-efter-brystoperation-who-advarer",
+      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/204/2045221/24492653-crystal-villegas-er-dd-hun-blev-31-r-hun-efter.jpg",
+      "publishedAt": "2023-08-07 06:41:56",
+      "content": "I februar rejste en 31-\u00e5rig amerikansk influencer til Mexico for at f\u00e5 foretaget en brystoperation. Nu er hun d\u00f8d af meningitis, og WHO advarer andre kunder p\u00e5 to mexicanske klinikker. Det skriver b\u2026 [+2886 chars]",
+      "retrievedAt": "2023-08-08 07:05:43.319353",
+      "internal_id": "c65a98a4da7acf5dcf9560d3ddf976d35a37b04a0b94e48e77c58b8c4be78590",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 951,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nyheder.tv2.dk",
+      "author": "Ritzau",
+      "title": "Bavarian vil s\u00f8ge godkendelse af vaccine mod myggespredt feber",
+      "description": "Bavarian Nordic pr\u00e6senterer gode resultater for chikungunya-vaccine. Selskabet sigter mod lancering i 2025.",
+      "url": "https://nyheder.tv2.dk/business/2023-08-07-bavarian-vil-soege-godkendelse-af-vaccine-mod-myggespredt-feber",
+      "urlToImage": "https://cdn-free.tv2i.dk/e/d/i/editorial/1/c/3/1c31a111-b241-4654-af37-d5deace711fa?ixlib=js-3.2.1&w=1280&h=720&q=45&auto=format&fit=crop&rect64=NTAsMzUsMTEyOCw2MzU&s=1a7b7657b4b29a1b1fbad6c4ac150e4e",
+      "publishedAt": "2023-08-07 06:20:35",
+      "content": "Bavarian Nordic pr\u00e6senterer gode resultater for chikungunya-vaccine. Selskabet sigter mod lancering i 2025.Bavarian Nordic f\u00e5r gode resultater for selskabets vaccine mod den myggespredte chikungunya-\u2026 [+1861 chars]",
+      "retrievedAt": "2023-08-08 07:05:44.705195",
+      "internal_id": "a72e9aa9e1ea284c49b83b466cb6e767fa877518affd1a55b0cde28e2b5002c4",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 952,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "pevo@euroinvestor.dk (Peter Voergaard)",
+      "title": "Bavarian Nordic opn\u00e5r positive resultater i fase 3-fors\u00f8g",
+      "description": "L\u00e6s mere her.",
+      "url": "https://www.bt.dk/nyheder/bavarian-nordic-opnaar-positive-resultater-i-fase-3-forsoeg",
+      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/204/2045777/24493460-an-employee-of-the-vaccine-company-bavarian-nordic.jpg",
+      "publishedAt": "2023-08-07 05:40:05",
+      "content": "Et nyt l\u00e6gemiddel kan v\u00e6re p\u00e5 vej p\u00e5 markedet fra Bavarian Nordic. Det oplyser det danske vaccineselskab i en fondsb\u00f8rsmeddelelse. Det sker p\u00e5 baggrund af et fase 3-fors\u00f8g med selskabets Chikungunya\u2026 [+1334 chars]",
+      "retrievedAt": "2023-08-08 07:05:44.708129",
+      "internal_id": "be09bc7349a4079a7366b81ee91bf4a0c220cde8d9186bd8cee1d0babc752a1e",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 947,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Delhi Sees Sharp Rise in Dengue Cases with 121 cases in July; How to Prevent the Spread of the Disease - Times Now",
+      "description": "Delhi Sees Sharp Rise in Dengue Cases with 121 cases in July; How to Prevent the Spread of the Disease Times Now Dengue cases in Delhi rise to 105 last week, total 348 cases reported so far Hindustan Times Severe\u2019 dengue strain i\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL2hlYWx0aC9kZWxoaS1zZWVzLXNoYXJwLXJpc2UtaW4tZGVuZ3VlLWNhc2VzLXdpdGgtMTIxLWNhc2VzLWluLWp1bHktaG93LXRvLXByZXZlbnQtdGhlLXNwcmVhZC1vZi10aGUtZGlzZWFzZS1hcnRpY2xlLTEwMjQ4OTk3M9IBnwFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL2hlYWx0aC9kZWxoaS1zZWVzLXNoYXJwLXJpc2UtaW4tZGVuZ3VlLWNhc2VzLXdpdGgtMTIxLWNhc2VzLWluLWp1bHktaG93LXRvLXByZXZlbnQtdGhlLXNwcmVhZC1vZi10aGUtZGlzZWFzZS1hcnRpY2xlLTEwMjQ4OTk3My9hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-07 05:31:49",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-08 07:05:42.856697",
+      "internal_id": "3ec2372b489c60a81bd7f1f560ecea702ab2062b0a3d7b1f81d2a0a2d3041a6c",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 949,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "Catherine Garcia",
+      "title": "Bangladesh dealing with worst dengue fever outbreak on record",
+      "description": "In Bangladesh, dengue fever has killed more than 300 people this year and infected almost 63,700 others, with hospitals having a difficult time keeping up with all of the cases. This is the deadliest outbreak of the mosquito-borne disease since the government\u2026",
+      "url": "https://theweek.com/asia/1025592/bangladesh-dealing-with-worst-dengue-fever-outbreak-on-record",
+      "urlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1691377989/GettyImages-1546721283.jpg",
+      "publishedAt": "2023-08-07 03:58:26",
+      "content": "In Bangladesh, dengue fever has killed more than 300 people this year and infected almost 63,700 others, with hospitals having a difficult time keeping up with all of the cases. This is the deadlies\u2026 [+1464 chars]",
+      "retrievedAt": "2023-08-08 07:05:42.869824",
+      "internal_id": "0ccb16543caa9df166ec949f63202902d640c7c73ef01deba3098362e6e8a4c0",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 948,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh dealing with worst dengue fever outbreak on record - Yahoo Canada Sports",
+      "description": "Bangladesh dealing with worst dengue fever outbreak on record Yahoo Canada Sports Bangladesh battles its deadliest dengue fever outbreak on record The Washington Post Deadly dengue outbreak in Bangladesh claims nearly 300 lives, \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vY2Euc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2JhbmdsYWRlc2gtZGVhbGluZy13b3JzdC1kZW5ndWUtZmV2ZXItMDM1ODI2MDM1Lmh0bWzSAV1odHRwczovL2NhLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL2JhbmdsYWRlc2gtZGVhbGluZy13b3JzdC1kZW5ndWUtZmV2ZXItMDM1ODI2MDM1Lmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-07 03:58:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-08 07:05:42.863716",
+      "internal_id": "61b609f342de91eee35d4254f9ce40719d48c332ea0206d05d00df7fd1110af8",
+      "publishedAtLabel": "Aug 7"
+    },
     {
       "id": 946,
       "query": [
@@ -3484,132 +3610,6 @@
       "content": "Una vida, un h\u00edgado\u2026 En el marco de D\u00eda Mundial contra la Hepatitis, que se celebra este 28 de julio, la Organizaci\u00f3n Mundial de la Salud (OMS) hace un llamado para que se ampl\u00eden las pruebas y trat\u2026 [+2848 chars]",
       "retrievedAt": "2023-07-29 19:05:18.703059",
       "internal_id": "cd2f4847fc39e8ab77a59436b2b8dcce2af04a9c95bec26ab4efe08b0d192a3a",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 740,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Vietnamplus.vn",
-      "author": "VNA",
-      "title": "WHO-, UNICEF-supported 5-in-1 vaccine arrives in Vietnam",
-      "description": "The vaccine helps protect children against diseases such as diphtheria, tetanus, pertussis, hepatitis B, and Haemophilus Influenzae type B. It needs to be purchased from approved international suppliers. Like other countries around the world, routine immunisa\u2026",
-      "url": "https://en.vietnamplus.vn/who-unicefsupported-5in1-vaccine-arrives-in-vietnam/265213.vnp",
-      "urlToImage": null,
-      "publishedAt": "2023-07-28 13:34:00",
-      "content": "The vaccine helps protect children against diseases such as diphtheria, tetanus, pertussis, hepatitis B, and Haemophilus Influenzae type B. It needs to be purchased from approved international suppli\u2026 [+537 chars]",
-      "retrievedAt": "2023-07-29 19:05:16.423287",
-      "internal_id": "e5388fb448baf879c869d4c2ac166e3cab4fcd7997f031d7e5c0ff148c6f9200",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 759,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Setopati.com",
-      "author": "Dr Sudhamshu KC :: Tackling hepatitis",
-      "title": "Tackling hepatitis",
-      "description": "World Hepatitis Day is one of only four WHO disease specific days. The other three disease specific days are tuberculosis (March 24), malaria (April 25) and AIDS (December 1).",
-      "url": " https://en.setopati.com/view/161467 ",
-      "urlToImage": "https://en.setopati.com/uploads/posts/liver1690550347.jpg",
-      "publishedAt": "2023-07-28 13:18:00",
-      "content": "The World Health Organization (WHO) annually celebrates July 28 as World Hepatitis Day. The date was chosen for World Hepatitis Day in honor of the birthday of Nobel laureate Professor Baruch Samuel \u2026 [+9122 chars]",
-      "retrievedAt": "2023-07-30 07:05:27.355128",
-      "internal_id": "86bbbd8ab57c542fef910c2b4f6a092b000b7610959b503b7ae1ea0428945522",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 749,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Adetutu Sobowale",
-      "title": "Hepatitis may kill more people than malaria, TB, HIV combined \u2014 WHO",
-      "description": "The World Health Organisation has raised the alarm that viral hepatitis could kill more people than malaria, tuberculosis, and HIV combined by 2040 if the current infection rate continues. According to WHO, hepatitis causes liver damage and cancer and kills o\u2026",
-      "url": "https://punchng.com/hepatitis-may-kill-more-people-than-malaria-tb-hiv-combined-who/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/06/14155354/Hepatitis-B-806x440.jpg",
-      "publishedAt": "2023-07-28 13:10:32",
-      "content": "The World Health Organisation has raised the alarm that viral hepatitis could kill more people than malaria, tuberculosis, and HIV combined by 2040 if the current infection rate continues. According\u2026 [+4048 chars]",
-      "retrievedAt": "2023-07-29 19:05:18.706156",
-      "internal_id": "b6851e701bdb1d33d873280c794e10da395da1907a42b6c471895fd5d0ca12d5",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 768,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Peoplesreview.com.np",
-      "author": "peoples_12ad",
-      "title": "Dengue outbreak in Dharan, five more people die",
-      "description": "Kathmandu, 28 July: In BP Koirala Institute of Health Sciences (BPKIHS), 5 more people including a girl have died due to dengue infection in the last nine days. According to Dr. Chudamani Pokharel, Deputy spokesperson of the BPKIHS, they died during the treat\u2026",
-      "url": "https://www.peoplesreview.com.np/2023/07/28/dengue-outbreak-in-dharan-five-more-people-die/",
-      "urlToImage": "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2022/10/Dengue.jpg?fit=300%2C168&ssl=1",
-      "publishedAt": "2023-07-28 12:04:36",
-      "content": "Editor-in-Chief: Pushpa Raj Pradhan Consultant Editor Emeritus: Mana Ranjan Josse Contributing Editor: Prof Dr Shashi P.B.B. Malla Guest Editor: Yug Bahadur Managing Editor: Sushma Shrestha Chie\u2026 [+420 chars]",
-      "retrievedAt": "2023-07-31 07:05:39.622772",
-      "internal_id": "12e737801707b6d09c5f46da761b5ec99ecb4c7758bec22a61ab362ccaf41890",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 750,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Republica.com",
-      "author": "Rep\u00fablica/Europa Press",
-      "title": "La hepatitis podr\u00eda matar a m\u00e1s personas que la malaria, la tuberculosis y el VIH juntos en 2040, seg\u00fan la OMS",
-      "description": "Con motivo del D\u00eda Mundial contra la Hepatitis, que se celebra este viernes, la Organizaci\u00f3n Mundial de la Salud (OMS) hace un llamamiento para que se ampl\u00eden las pruebas y el tratamiento de las hepatitis v\u00edricas, advirtiendo de que esta enfermedad podr\u00eda mat\u2026",
-      "url": "https://www.republica.com/ciencia-y-tecnologia/la-hepatitis-podria-matar-a-mas-personas-que-la-malaria-la-tuberculosis-y-el-vih-juntos-en-2040-segun-la-oms-20230728-13161951446/",
-      "urlToImage": "https://www.republica.com/wp-content/uploads/2023/07/Hepatitis.jpg",
-      "publishedAt": "2023-07-28 11:16:00",
-      "content": "Con motivo del D\u00eda Mundial contra la Hepatitis, que se celebra este viernes, la Organizaci\u00f3n Mundial de la Salud (OMS) hace un llamamiento para que se ampl\u00eden las pruebas y el tratamiento de las hepa\u2026 [+5004 chars]",
-      "retrievedAt": "2023-07-29 19:05:18.708456",
-      "internal_id": "0d5b990a24baada22697906e59f6d5efa80d05f45d94e4e559d428590da04937",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 752,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "La hepatitis podr\u00eda matar a m\u00e1s personas que la malaria, la tuberculosis y el VIH juntos en 2040",
-      "description": "Con motivo del D\u00eda Mundial contra la Hepatitis, que se celebra este viernes, la Organizaci\u00f3n Mundial de la Salud (OMS) hace un llamamiento para que se ampl\u00eden las pruebas y el tratamiento de las hepatitis v\u00edricas, advirtiendo de que esta enfermedad podr\u00eda mat\u2026",
-      "url": "https://www.infosalus.com/salud-investigacion/noticia-hepatitis-podria-matar-mas-personas-malaria-tuberculosis-vih-juntos-2040-20230728124238.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230728124238_1200.jpg",
-      "publishedAt": "2023-07-28 10:42:38",
-      "content": "MADRID, 28 Jul. (EUROPA PRESS) - Con motivo del D\u00eda Mundial contra la Hepatitis, que se celebra este viernes, la Organizaci\u00f3n Mundial de la Salud (OMS) hace un llamamiento para que se ampl\u00eden las \u2026 [+5051 chars]",
-      "retrievedAt": "2023-07-29 19:05:18.714685",
-      "internal_id": "3bfdaa0f43f61469adb5ad0afc48ef18df86fad6c6b6b0a4939c5d7ddf0a2ec1",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 746,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Genome sequencing of 20 dengue-positive samples done, 19 had severe strain type-2: Delhi Health minister",
-      "description": "A total of 187 dengue cases have been reported in the national capital this year till July 22 \u2014 the highest for the period since 2018, according to a civic body report released on Monday.",
-      "url": "https://economictimes.indiatimes.com/news/india/genome-sequencing-of-20-dengue-positive-samples-done-19-had-severe-strain-type-2-delhi-health-minister/articleshow/102201289.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-102201468,width-1070,height-580,imgsize-164220,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-07-28 09:52:50",
-      "content": "Carrier 1.5 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling,High Density Filter, Auto Cleanser, 2023 Model,ESTER Exi - CAI18ER3R32F0,White) Buy Now",
-      "retrievedAt": "2023-07-29 19:05:17.894230",
-      "internal_id": "8faeedce064426c4a48de3e55aa9a3a7e88d14253c1777dbfb2391be642b58ee",
       "publishedAtLabel": "Jul 28"
     }
   ]
