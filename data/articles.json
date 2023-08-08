@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-08-07 19:05",
+  "last_updated": "2023-08-08 01:11",
   "count_articles_total": 300,
-  "count_articles_new": 13,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 946,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Telegraph.co.uk",
+      "author": "Harriet Barber",
+      "title": "Inside Porton Down: the new unit set up to fight the next pandemic",
+      "description": "More than 200 scientists will be housed at the new centre developing vaccines for bird flu, Mpox and Crimean-Congo Haemorrhagic Fever",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/porton-down-vaccine-facility-scientists-pandemic-disease-x/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/global-health/2023/08/05/TELEMMGLPICT000344861100_16912666518740_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfFMCdzn0ov5UrDuPlZv8pI.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2023-08-06 23:01:00",
+      "content": "The team is working to create tests or assays for a range of arenaviruses for use in diagnosis, contact tracing and vaccine design in future outbreaks. In a level three laboratory, we watched as sci\u2026 [+1906 chars]",
+      "retrievedAt": "2023-08-08 01:11:15.563767",
+      "internal_id": "5b155168f8f044ebba7fb337e37b417ac2beacb94927f4583c93528b3fb5fee9",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 945,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "GlobeNewswire",
+      "title": "Bavarian Nordic Reports Positive Phase 3 Topline Results for Chikungunya Virus Vaccine in Adults and Adolescents",
+      "description": "(marketscreener.com) Chikungunya vaccine candidate met all the co-primary endpoints of the Phase 3 study and was shown to be highly immunogenic in the majority of subjects 22 days post a single vaccination.A fast and durable response was confirmed with high l\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Reports-Positive-Phase-3-Topline-Results-for-Chikungunya-Virus-Vaccine-in-Adults-and-44532550/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-08-06 19:54:20",
+      "content": "Chikungunya vaccine candidate met all the co-primary endpoints of the Phase 3 study and was shown to be highly immunogenic in the majority of subjects 22 days post a single vaccination.<\u2026 [+6222 chars]",
+      "retrievedAt": "2023-08-08 01:11:15.433541",
+      "internal_id": "a657232bd084e5162ce4a2c7100b456ca5f55bd8eb151bf7c5f3f27654b30aaa",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 943,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic rapporterer positive resultater fra fase 3 fors\u00f8g med chikungunya-vaccine i unge og voksne",
+      "description": "K\u00d8BENHAVN, Danmark, 6. august 2023 \u2013 Bavarian Nordic A/S (OMX: BAVA) rapporterede i dag positive toplinjeresultater fra et randomiseret, dobbeltblindet, placebokontrolleret fase 3 klinisk fors\u00f8g (NCT05072080 ) med CHIKV-VLP (PXVX0317) - en viruslignende part\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/08/06/2719363/0/da/Bavarian-Nordic-rapporterer-positive-resultater-fra-fase-3-fors%C3%B8g-med-chikungunya-vaccine-i-unge-og-voksne.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2023-08-06 19:54:00",
+      "content": "Chikungunya vaccinekandidat n\u00e5ede alle prim\u00e6re endem\u00e5l i fase 3-fors\u00f8g og var s\u00e6rdeles immunogen i flertallet af fors\u00f8gspersonerne 22 dage efter en enkelt vaccinationEn hurtig og ved\u2026 [+6236 chars]",
+      "retrievedAt": "2023-08-08 01:11:15.418792",
+      "internal_id": "a502ef825ecb2d0dcb0a6dfa0ef38fed9d13fd3a3616694ca9411daf98b8d0f7",
+      "publishedAtLabel": "Aug 6"
+    },
+    {
+      "id": 944,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Reports Positive Phase 3 Topline Results for Chikungunya Virus Vaccine in Adults and Adolescents",
+      "description": "COPENHAGEN, Denmark, August 6, 2023 \u2013 Bavarian Nordic A/S (OMX: BAVA) announced today positive topline results from a randomized, double-blind, placebo-controlled Phase 3 clinical trial (NCT05072080 ) of its virus-like particle (VLP)-based chikungunya virus \u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/08/06/2719363/0/en/Bavarian-Nordic-Reports-Positive-Phase-3-Topline-Results-for-Chikungunya-Virus-Vaccine-in-Adults-and-Adolescents.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2023-08-06 19:54:00",
+      "content": "Chikungunya vaccine candidate met all the co-primary endpoints of the Phase 3 study and was shown to be highly immunogenic in the majority of subjects 22 days post a single vaccination.<\u2026 [+6222 chars]",
+      "retrievedAt": "2023-08-08 01:11:15.431991",
+      "internal_id": "1b9339f7619df78e1463895f7677f074ed33628dc84543e51de8d994e1cf1ba8",
+      "publishedAtLabel": "Aug 6"
+    },
     {
       "id": 930,
       "query": [
@@ -3538,78 +3610,6 @@
       "content": "Carrier 1.5 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 4-in-1 Cooling,High Density Filter, Auto Cleanser, 2023 Model,ESTER Exi - CAI18ER3R32F0,White) Buy Now",
       "retrievedAt": "2023-07-29 19:05:17.894230",
       "internal_id": "8faeedce064426c4a48de3e55aa9a3a7e88d14253c1777dbfb2391be642b58ee",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 741,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "usa-today",
-      "source_name": "USA Today",
-      "author": "USA TODAY, Emily DeLetter, USA TODAY",
-      "title": "Rabid bats sparked a public health warning in Illinois: Why rabies is dangerous to humans, pets",
-      "description": "Here's what to know about the rabies virus, and what to do if you suspect exposure in humans or pets.",
-      "url": "https://www.usatoday.com/story/news/nation/2023/07/28/what-is-rabies-humans-dogs-bats/70476231007/",
-      "urlToImage": "https://www.gannett-cdn.com/-mm-/ecb4e327eb18e95e5cb5b3cf0122404b4561340c/c=0-48-800-498/local/-/media/2021/06/20/SouthBend/f3c630f77ed9f8ce6d3ce19fd204e9f7.jpg?auto=webp&format=pjpg&width=1200",
-      "publishedAt": "2023-07-28 09:51:06",
-      "content": "As if the summer heat isn't enough, officials are also warning the public to be aware of rabid animals. As of July 12, the Illinois Department of Public Health have recorded 22 instances of rabid ba\u2026 [+5434 chars]",
-      "retrievedAt": "2023-07-29 19:05:16.864443",
-      "internal_id": "e54e0516c9ce7a92297e0e6dc2347549a47da212cbee82907ee2b6c551afd5bb",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 747,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "Meningitis spreads to 130 LGAs, kills 183",
-      "description": "Nigeria has reported a total of 287 confirmed cases out of 2,707 suspected cases of meningitis, including 183 deaths, with a case-fatality ratio of 6.8 per cent. Their cases were reported from 130 Local Government Areas in 24 states, including the Federal Cap\u2026",
-      "url": "https://punchng.com/meningitis-spreads-to-130-lgas-kills-183/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/04/03191348/medicine-Meningitis.jpg",
-      "publishedAt": "2023-07-28 09:35:38",
-      "content": "Nigeria has reported a total of 287 confirmed cases out of 2,707 suspected cases of meningitis, including 183 deaths, with a case-fatality ratio of 6.8 per cent. Their cases were reported from 130 L\u2026 [+2359 chars]",
-      "retrievedAt": "2023-07-29 19:05:18.296598",
-      "internal_id": "44b20ce7aad47f668dda778b56de212ed2fa2178761d1b0c0a3753b7b8ca1823",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 745,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Publicnow",
-      "title": "SM Prime : City Puerto Princesa activates dengue fast lane in response to alarming cases",
-      "description": "(marketscreener.com) SM City Puerto Princesa activates dengue fast lane in response to alarming cases Friday, Jul 28, 2023 Share on FacebookShare on TwitterShare on MailShare on Linked In In response to the concerning surge in mosqu\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/SM-PRIME-HOLDINGS-INC-6491488/news/SM-Prime-City-Puerto-Princesa-activates-dengue-fast-lane-in-response-to-alarming-cases-44451039/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-07-28 09:27:05",
-      "content": "In response to the concerning surge in mosquito-borne viral disease cases, SM City Puerto Princesa has taken proactive measures by activating its Dengue Fast Lane in collaboration with the City Healt\u2026 [+133 chars]",
-      "retrievedAt": "2023-07-29 19:05:17.891118",
-      "internal_id": "206b826cd063b570f18543d48f5c157fcb25b546085539f26d8b84f2953a9bda",
-      "publishedAtLabel": "Jul 28"
-    },
-    {
-      "id": 743,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue Cases Surge in Kolkata, Positivity Rate Rises; Labs Caution for Strict Vector Control - Times Now",
-      "description": "Dengue Cases Surge in Kolkata, Positivity Rate Rises; Labs Caution for Strict Vector Control Times Now West Bengal gears up to combat dengue menace; over 3,000 cases reported this year Hindustan Times Rain, cold weather bring on \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy50aW1lc25vd25ld3MuY29tL2tvbGthdGEvZGVuZ3VlLWNhc2VzLXN1cmdlLWluLWtvbGthdGEtcG9zaXRpdml0eS1yYXRlLXJpc2VzLWxhYnMtY2F1dGlvbi1mb3Itc3RyaWN0LXZlY3Rvci1jb250cm9sLWFydGljbGUtMTAyMTk0Mjc40gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-28 07:10:15",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-29 19:05:17.880798",
-      "internal_id": "d46e892a2824d07f82f0a3208ca4011fdf7b4f4df4c70a83b4fb83095aac48e6",
       "publishedAtLabel": "Jul 28"
     }
   ]
