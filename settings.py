@@ -10,7 +10,8 @@ KEYWORD_QUERIES = [
     "mpox",
     "typhoid",
     "leptospirosis",
-    "yersinia"
+    "yersinia",
+    "shigellosis"
 ]
 
 SOURCE_IGNORE = [
