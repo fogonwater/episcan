@@ -1,8 +1,280 @@
 {
-  "last_updated": "2023-08-08 19:05",
+  "last_updated": "2023-08-09 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 968,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Ludovic Jimenez",
+      "title": "Troubles neurologiques, transmission par les moustiques: faut-il s'inqui\u00e9ter du virus du Nil occidental qui se propage dans le sud de l\u2019Europe?",
+      "description": "Ce sont les oiseaux qui sont porteurs de la maladie et le moustique qui transmet ensuite le virus \u00e0 l\u2019Homme. B\u00e9nin la plupart du temps, il peut toutefois causer des complications neurologiques. Pour la premi\u00e8re fois, plusieurs cas ont \u00e9t\u00e9 signal\u00e9s dans le sud\u2026",
+      "url": "https://www.dhnet.be/actu/sante/2023/08/08/troubles-neurologiques-transmission-par-les-moustiques-faut-il-sinquieter-du-virus-du-nil-occidental-qui-se-propage-dans-le-sud-de-leurope-EJA44K5UJFGKPJAJHKPSKGH2UI/",
+      "urlToImage": "https://www.dhnet.be/resizer/Iq19nSW2lM2JcOnnsnG_0kyjGwc=/1200x630/filters:format(jpeg):focal(1351.5x929.5:1361.5x919.5):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/KSYODHLMNBBMDA7B5YPJPTFVNY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/MEVBYB6J2JFUNKPB2WQIURFO7M.jpg",
+      "publishedAt": "2023-08-08 06:50:01",
+      "content": "Moustique tigre en Belgique: \"S'il s'\u00e9tablit et se propage davantage, une transmission locale de certaines maladies comme la dengue est possible\"Linstitut Pasteur indique que depuis sa premi\u00e8re ident\u2026 [+3091 chars]",
+      "retrievedAt": "2023-08-09 07:05:41.651789",
+      "internal_id": "d2cf313748935d4ce6b2ebd87fee8fe593ace413e46e25f795c4b5c4802ce6f2",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 971,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "\u099c\u09be\u0997\u09b0\u09a3 \u099a\u09be\u0995\u09ae\u09be",
+      "title": "\u09af\u09c7 \u0995\u09be\u09b0\u09a3\u09c7 \u0989\u09ce\u09aa\u09be\u09a6\u09a8\u09c7 \u09af\u09c7\u09a4\u09c7 \u09aa\u09be\u09b0\u099b\u09c7 \u09a8\u09be \u098f\u09aa\u09bf\u0986\u0987 \u09aa\u09be\u09b0\u09cd\u0995\u09c7\u09b0 \u0993\u09b7\u09c1\u09a7 \u0995\u09be\u09b0\u0996\u09be\u09a8\u09be\u0997\u09c1\u09b2\u09cb",
+      "description": "\u098f\u0996\u09a8 \u0987\u0989\u09a8\u09bf\u099f \u099a\u09be\u09b2\u09c1\u09b0 \u0986\u0997\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8\u0997\u09c1\u09b2\u09cb\u0995\u09c7 \u09ae\u09be\u09a6\u0995\u09a6\u09cd\u09b0\u09ac\u09cd\u09af \u0985\u09a7\u09bf\u09a6\u09aa\u09cd\u09a4\u09b0, \u09ac\u09bf\u09b8\u09cd\u09ab\u09cb\u09b0\u0995 \u0985\u09a7\u09bf\u09a6\u09aa\u09cd\u09a4\u09b0 \u0993 \u09ac\u09be\u09a3\u09bf\u099c\u09cd\u09af \u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09a3\u09be\u09b2\u09af\u09bc\u09c7\u09b0 \u0985\u09a8\u09c1\u09ae\u09a4\u09bf \u09a8\u09bf\u09a4\u09c7 \u09b9\u099a\u09cd\u099b\u09c7\u0964 \u098f\u099f\u09bf \u09b8\u09ae\u09af\u09bc\u09b8\u09be\u09aa\u09c7\u0995\u09cd\u09b7 \u09ac\u09b2\u09c7 \u09ae\u09a8\u09cd\u09a4\u09ac\u09cd\u09af \u0995\u09b0\u09c7\u099b\u09c7\u09a8 \u09b8\u0982\u09b6\u09cd\u09b2\u09bf\u09b7\u09cd\u099f\u09b0\u09be\u0964",
+      "url": "https://bangla.thedailystar.net/business/news-503521",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/08/epiaai_paark.jpg",
+      "publishedAt": "2023-08-08 06:34:41",
+      "content": "Injectable saline solution, an essential fluid used for treating dengue patients, has become scarce in retail drug stores in Dhaka due to a surge in demand caused by the growing number of patients.",
+      "retrievedAt": "2023-08-09 07:05:41.659142",
+      "internal_id": "c3a67294aa1a801759c7bf5e4ab33bb8f699cfd829d3471de33722735731db84",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 970,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "India's capital records 348 dengue cases this year",
+      "description": "NEW DELHI, Aug. 7 (Xinhua) -- As many as 105 new dengue cases have been recorded in India's capital",
+      "url": "http://en.people.cn/n3/2023/0808/c90000-20055555.html",
+      "urlToImage": null,
+      "publishedAt": "2023-08-08 05:48:25",
+      "content": "(Xinhua) 13:34, August 08, 2023 NEW DELHI, Aug. 7 (Xinhua) -- As many as 105 new dengue cases have been recorded in India's capital Delhi over the past week, taking the total number of infections to\u2026 [+966 chars]",
+      "retrievedAt": "2023-08-09 07:05:41.657114",
+      "internal_id": "37028b799f5d917b132a969e0fbb58139a0d13f7ec77517091729e93791d56be",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 975,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Erster Chikungunya-Impfstoff k\u00f6nnte 2025 kommen - Pharmazeutische Zeitung",
+      "description": "Erster Chikungunya-Impfstoff k\u00f6nnte 2025 kommen Pharmazeutische Zeitung",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnBoYXJtYXpldXRpc2NoZS16ZWl0dW5nLmRlL2Vyc3Rlci1jaGlrdW5ndW55YS1pbXBmc3RvZmYta29lbm50ZS0yMDI1LWtvbW1lbi0xNDE2MDYv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-08 05:00:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-09 07:05:42.708731",
+      "internal_id": "2c5f637eaa4869b16027e6a2757fff01569bda054456988938ef3b7f8eacb247",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 964,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigeria: Enhancing Immunisation Through the Northern Nigeria States Routine Immunisation Strengthening Project",
+      "description": "[Nigeria Health Watch] Few global health and development interventions have yielded as profound an impact as vaccines. For over two centuries, these remarkable interventions have stood as a defence against vaccine preventable diseases such as polio, measles, \u2026",
+      "url": "https://allafrica.com/stories/202308080013.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-08-08 04:43:00",
+      "content": "Few global health and development interventions have yielded as profound an impact as vaccines. For over two centuries, these remarkable interventions have stood as a defence against vaccine preventa\u2026 [+9223 chars]",
+      "retrievedAt": "2023-08-09 07:05:41.235819",
+      "internal_id": "13e133bd93b9cab07360527e439c46cf2e1d32935cae17ac5b36136aa408f855",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 974,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Fatal Necrotizing Enterocolitis in Neonate Caused by Cronobacter sakazakii Sequence Type 64 Strain of CRISPR Sublineage b",
+      "description": "Necrotizing Enterocolitis Caused by C. sakazakii",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/9/23-0537_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-08-08 04:00:00",
+      "content": "Cronobacter sakazakii is a major foodborne pathogen that is associated with outbreaks of life-threatening necrotizing enterocolitis, meningitis, and sepsis in neonates and infants. Although the incid\u2026 [+8763 chars]",
+      "retrievedAt": "2023-08-09 07:05:41.868630",
+      "internal_id": "4c5188c67b15c40f7ba821ab4260957dbffdbed5bc4e3ac62c2e08c89884e7e1",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 966,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue count rises to 43 in dist - The Tribune India",
+      "description": "Dengue count rises to 43 in dist The Tribune India Dengue cases on the rise in Jamshedpur, 13 fresh cases reported Avenue Mail View Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRyaWJ1bmVpbmRpYS5jb20vbmV3cy9wYXRpYWxhL2Rlbmd1ZS1jb3VudC1yaXNlcy10by00My1pbi1kaXN0LTUzMzIyOdIBT2h0dHBzOi8vbS50cmlidW5laW5kaWEuY29tL25ld3MvcGF0aWFsYS9kZW5ndWUtY291bnQtcmlzZXMtdG8tNDMtaW4tZGlzdC01MzMyMjk?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-08 02:38:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-09 07:05:41.645585",
+      "internal_id": "c7a47a49f40314dd07bbdaf3e981044b369783964136c39b0e63b970bf6f5770",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 969,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Nicaragua reporta 3.559 casos sospechosos de dengue y 158 casos confirmados en una semana",
+      "description": "Nicaragua registr\u00f3 3.559 casos sospechosos de dengue y 158 casos confirmados en la \u00faltima semana, mientras la enfermedad sigue expandi\u00e9ndose por el pa\u00eds , inform\u00f3 este lunes la vicepresidenta nicarag\u00fcense, Rosario Murillo. \u00abTuvimos 3.559 casos sospechosos de \u2026",
+      "url": "https://www.abc.es/sociedad/nicaragua-reporta-3559-casos-sospechosos-dengue-158-20230808023919-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/sociedad/2023/08/08/dengue-abc-.jpg",
+      "publishedAt": "2023-08-08 00:39:28",
+      "content": "Nicaragua registr\u00f3 3.559 casos sospechosos de dengue y 158 casos confirmados en la \u00faltima semana, mientras la enfermedad sigue expandi\u00e9ndose por el pa\u00eds, inform\u00f3 este lunes la vicepresidenta nicarag\u00fc\u2026 [+2021 chars]",
+      "retrievedAt": "2023-08-09 07:05:41.654654",
+      "internal_id": "f1c9a7f492d246a7c910305eee6a4edbcee9c999a39d9d46c9db5ed32249a928",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 972,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Early detection, proper medical care vital for Dengue recovery",
+      "description": "KATHMANDU: The number of dengue-infected individuals in Nepal has been increasing, raising concerns about the transmission of this viral fever through mosquito bites. Dengue is primarily transmitted by female Aedes mosquitoes (Aegypti and Albopictus). The inf\u2026",
+      "url": "https://english.khabarhub.com/2023/08/313453/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/08/Khabar-Hub-Article_Dr-Sher-Bahadur-Pun-Eng-_1200px-630X-px-Final_2023.08.06-Upload.jpg",
+      "publishedAt": "2023-08-08 00:15:48",
+      "content": "KATHMANDU: The number of dengue-infected individuals in Nepal has been increasing, raising concerns about the transmission of this viral fever through mosquito bites. Dengue is primarily transmitted\u2026 [+5372 chars]",
+      "retrievedAt": "2023-08-09 07:05:41.663114",
+      "internal_id": "999e4b729ab305cd9bf5c298537f61806c74b684b1b5b1ccf3ee44403644c5e0",
+      "publishedAtLabel": "Aug 8"
+    },
+    {
+      "id": 967,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "P. P\u00c9REZ",
+      "title": "Las olas de calor espolean la acci\u00f3n de los mosquitos",
+      "description": "El control de las enfermedades transmitidas por mosquitos puede entrar en un escenario incierto en los pr\u00f3ximos a\u00f1os por el cambio clim\u00e1tico. Patolog\u00edas como la malaria, el...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2023/08/08/64d11e37fdddff60b78b45a2.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/e4b2825bd1dd09ad18ace1eed6e9ab82/resize/1200/f/jpg/assets/multimedia/imagenes/2023/08/07/16914260145758.jpg",
+      "publishedAt": "2023-08-07 23:58:38",
+      "content": "El control de las enfermedades transmitidas por mosquitos puede entrar en un escenario incierto en los pr\u00f3ximos a\u00f1os por el cambio clim\u00e1tico. Patolog\u00edas como la malaria, el dengue y el virus zika, qu\u2026 [+3771 chars]",
+      "retrievedAt": "2023-08-09 07:05:41.647765",
+      "internal_id": "4451b829be1e296d3d3bd6c480488818744fbb8f205e7300ccdc9c4b0546a530",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 965,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Saman Husain",
+      "title": "Dengue cases in Delhi double in a week",
+      "description": "A total of 348 dengue cases have been reported in the city this year, with 121 cases in July, 40 in June and 23 in May.",
+      "url": "https://indianexpress.com/article/cities/delhi/dengue-cases-in-delhi-double-in-a-week-8881457/",
+      "urlToImage": "https://images.indianexpress.com/2023/08/DENGUE-WARD.jpg",
+      "publishedAt": "2023-08-07 23:45:50",
+      "content": "Delhi reported 105 dengue cases in the past week shooting up from 56 cases the week before as per the Municipal Corporation of Delhis (MCD) vector-borne disease report issued Monday.The number of cas\u2026 [+1644 chars]",
+      "retrievedAt": "2023-08-09 07:05:41.641572",
+      "internal_id": "54b911fb8d376c5cd3e5e86f6727e5dcd167ecfbcb27869272965031cbb958e8",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 976,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Starobserver.com.au",
+      "author": "Shibu Thomas",
+      "title": "Victoria\u2019s CHO Issues Health Alert After Two Local Mpox Cases",
+      "description": "Victoria\u2019s Chief Health Officer has issued an alert after two new locally acquired cases of Mpox were reported in the state last week. The two new mpox cases are the ... The post Victoria\u2019s CHO Issues Health Alert After Two Local Mpox Cases appeared first on\u2026",
+      "url": "https://www.starobserver.com.au/news/national-news/victoria-news/victorias-cho-issues-health-alert-after-two-local-mpox-cases/225474",
+      "urlToImage": "https://www.starobserver.com.au/wp-content/uploads/2022/11/prick-pause-play-e1667822481972.jpeg",
+      "publishedAt": "2023-08-07 23:28:16",
+      "content": "Victoria\u2019s Chief Health Officer has issued an alert after two new locally acquired cases of Mpox were reported in the state last week. The two new mpox cases are the first recorded since November 2\u2026 [+1879 chars]",
+      "retrievedAt": "2023-08-09 07:05:43.033183",
+      "internal_id": "00458c7dbe2c0af400e36fb4cd8ad21b956027d4bb7dd8d36b9842ec3ee3ad6e",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 977,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Uraiwan Kositanont, Chatchawan Srisawat, Sirinapa Sripinitchai, Charin Thawornkuno, Thanyarat Chaibun, Sinthu Sinthu Karunaithas, Chamras Promptmas, Benchaporn Lertanantawong",
+      "title": "Electrochemical Aptasensor Detection of Electron Transfer Flavoprotein Subunit Beta for Leptospirosis Diagnosis",
+      "description": "Analyst, 2023, Accepted ManuscriptDOI: 10.1039/D3AN01064C, PaperUraiwan Kositanont, Chatchawan Srisawat, Sirinapa Sripinitchai, Charin Thawornkuno, Thanyarat Chaibun, Sinthu Sinthu Karunaithas, Chamras Promptmas, Benchaporn LertanantawongElectron transfer fla\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2023/an/d3an01064c",
+      "urlToImage": null,
+      "publishedAt": "2023-08-07 23:00:00",
+      "content": "U. Kositanont, C. Srisawat, S. Sripinitchai, C. Thawornkuno, T. Chaibun, S. Sinthu Karunaithas, C. Promptmas and B. Lertanantawong, Analyst, 2023, Accepted Manuscript , DOI: 10.1039/D3AN01064C To\u2026 [+688 chars]",
+      "retrievedAt": "2023-08-09 07:05:43.453118",
+      "internal_id": "1287e249e348290c9e65eb9da22022b8270cc940ff1671fd9e1fe996772840e9",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 963,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Dave Wessner, Contributor, \n Dave Wessner, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/davewessner/",
+      "title": "CDC Report Describes Measles Outbreak In Ohio",
+      "description": "A report published by the CDC describes an outbreak of measles that occurred in Ohio. Cases were almost if not entirely in unvaccinated or partially vaccinated people.",
+      "url": "https://www.forbes.com/sites/davewessner/2023/08/07/cdc-report-describes-measles-outbreak-in-ohio/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d164fa3ef925d823034c63/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-08-07 21:57:20",
+      "content": "A child about to receive the MMR (mumps, measles, rubella) vaccine. getty During the fall of 2022, an outbreak of measles occurred in Ohio, ultimately leading to 85 cases of a disease that official\u2026 [+4629 chars]",
+      "retrievedAt": "2023-08-09 07:05:41.228881",
+      "internal_id": "a3aa8b87f2f72fc6780cf002060e4d09d0405d86617157363878e650fce9d854",
+      "publishedAtLabel": "Aug 7"
+    },
+    {
+      "id": 973,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Freshnessmag.com",
+      "author": "Joseph Mardon",
+      "title": "Can an Ear Infection Cause Meningitis? Everything You Need to Know",
+      "description": "Ear infections can be a common occurrence, especially in children. They often result in symptoms like ear pain, fluid buildup, and even temporary hearing loss. But can an ear infection ... <a title=\"Can an Ear Infection Cause Me\u2026",
+      "url": "http://www.freshnessmag.com/2023/08/07/can-an-ear-infection-cause-meningitis/",
+      "urlToImage": "https://tse1.mm.bing.net/th?q=can+an+ear+infection+cause+meningitis",
+      "publishedAt": "2023-08-07 20:24:04",
+      "content": "Ear infections can be a common occurrence, especially in children. They often result in symptoms like ear pain, fluid buildup, and even temporary hearing loss. But can an ear infection lead to someth\u2026 [+7957 chars]",
+      "retrievedAt": "2023-08-09 07:05:41.865290",
+      "internal_id": "522cd469954d87f41d043f1402981f23d78fa685781e43399dc5d22145e3b1de",
+      "publishedAtLabel": "Aug 7"
+    },
     {
       "id": 958,
       "query": [
@@ -3341,276 +3613,6 @@
       "retrievedAt": "2023-08-01 07:05:53.169078",
       "internal_id": "16fe48cccdfa3e9ef76e6a15fe2d19ff621ce5279f3a54c79ffd8da5ce4ef0f4",
       "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 781,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Peoplesreview.com.np",
-      "author": "peoples_12ad",
-      "title": "Dengue claims 8 lives in Dharan, over 2,300 affcted",
-      "description": "Kathmandu, 31 July: The monsoon season has hit the city of Dharan with an unexpected ferocity, not in the form of torrential downpours or floods, but through an alarming surge in dengue fever cases. Already, lives have been claimed by the outbreak, with the d\u2026",
-      "url": "https://www.peoplesreview.com.np/2023/07/31/dengue-claims-8-lives-in-dharan-over-2300-affcted/",
-      "urlToImage": "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2022/10/Dengue.jpg?fit=300%2C168&ssl=1",
-      "publishedAt": "2023-07-31 01:22:30",
-      "content": "Kathmandu, 31 July: The monsoon season has hit the city of Dharan with an unexpected ferocity, not in the form of torrential downpours or floods, but through an alarming surge in dengue fever cases. \u2026 [+594 chars]",
-      "retrievedAt": "2023-08-01 07:05:53.182955",
-      "internal_id": "db0a37a1ec5c58349fd1f56bd69ccf3a151841ee9efe980fe91323e1a2663117",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 776,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WPXI Pittsburgh",
-      "author": "Wpxi.com News Staff",
-      "title": "Allegheny County Health Department beginning annual program to prevent rabies in raccoons",
-      "description": "The Allegheny County Health Department will begin a program that will help prevent rabies in raccoons.",
-      "url": "https://www.wpxi.com/news/local/allegheny-county-health-department-beginning-annual-program-prevent-rabies-raccoons/TJWGC6E4KRFGBGDUWEB4ZTKN2Y/",
-      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/euDnQQzqPU8MTEgC3jx-RY1CO08=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XWOUZD446BRZOZ3MUNQLECS534.jpg",
-      "publishedAt": "2023-07-30 20:30:09",
-      "content": "ALLEGHENY COUNTY, Pa. \u2014 The Allegheny County Health Department will begin a program that will help prevent rabies in raccoons. The program begins Monday and lasts until Sept. 1. Small bait packets \u2026 [+917 chars]",
-      "retrievedAt": "2023-08-01 07:05:52.464979",
-      "internal_id": "ebdbaba4ec2ffe746d1f236d28b543d3b7e16428d605fb92c9c1ccf54c4cb53a",
-      "publishedAtLabel": "Jul 30"
-    },
-    {
-      "id": 770,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ANI",
-      "title": "Dengue Cases in Delhi: Health Dept has given instructions to start awareness campaign, says Saurabh Bharadwaj",
-      "description": "Delhi Health Minister Saurabh Bhardwaj on July 30 said that arrangements are being made in Delhi to run a campaign to spread awareness about dengue. He said, 'We have given instructions to the Health Department and DIP to run a campaign regarding Dengue in sc\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/dengue-cases-in-delhi-health-dept-has-given-instructions-to-start-awareness-campaign-says-saurabh-bharadwaj/videoshow/102254008.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-102254008,width-1070,height-580,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-07-30 16:10:27",
-      "content": "Delhi Health Minister Saurabh Bhardwaj on July 30 said that arrangements are being made in Delhi to run a campaign to spread awareness about dengue. He said, \"We have given instructions to the Health\u2026 [+416 chars]",
-      "retrievedAt": "2023-07-31 19:05:19.833955",
-      "internal_id": "ace6636873ea1064a3e564bbddce42329533f3edebb1cb80ccdc4244d1632ac3",
-      "publishedAtLabel": "Jul 30"
-    },
-    {
-      "id": 773,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "By MAAYAN JAFFE-HOFFMAN",
-      "title": "Global boiling: How Israel urgently needs to adapt to climate change",
-      "description": "\"If we don't deal with [climate change], Israel will be a very unpleasant place to live in the next decade or two,\" Prof. Colin Price, head of Tel Aviv University's PlanNet Zero",
-      "url": "https://www.jpost.com/environment-and-climate-change/article-753063",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/545178",
-      "publishedAt": "2023-07-30 15:23:24",
-      "content": "Israel must respond and protect its people from \"global boiling\" - extreme heat, fatal floods, droughts, forest fires and increasing spread of zoonotic diseases like malaria and West Nile virus, some\u2026 [+6070 chars]",
-      "retrievedAt": "2023-07-31 19:05:20.670491",
-      "internal_id": "1656f94ae6c206d24af5500c70cf68d3e78308f66d8411b3b0773e7a0e9bbe82",
-      "publishedAtLabel": "Jul 30"
-    },
-    {
-      "id": 775,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Giovanni Fiorentino)",
-      "title": "Caso sospetto di chikungunya in Italia: ecco come comportarsi",
-      "description": "A Santarcangelo di Romagna \u00e8 stato riscontrato un sospetto caso di chikungunya, una malattia che causa febbre e forti dolori e che si trasmette attraverso le punture di zanzara. Il comune romagnolo, su indicazione di Ausl Romagna, ha attivato le operazioni pr\u2026",
-      "url": "https://www.ilgiornale.it/news/cronaca-locale/caso-sospetto-chikungunya-italia-ecco-comportarsi-2189582.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2023/07/30/1690722365-zanzara.jpg?_=1690722365",
-      "publishedAt": "2023-07-30 13:33:47",
-      "content": "Un presunto caso di chikungunya \u00e8 stato segnalato da Ausl a Santarcangelo di Romagna. E su indicazione dell'azienda sanitaria, il Comune ha ad ogni modo gi\u00e0 provveduto a dare il via alle operazioni d\u2026 [+4041 chars]",
-      "retrievedAt": "2023-07-31 19:05:21.117192",
-      "internal_id": "28cc3d489974be3fa485e327a6d000817075c1520101105c4813ea8bb1f65d71",
-      "publishedAtLabel": "Jul 30"
-    },
-    {
-      "id": 772,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Rwanda: Scientists Warn of Malaria in Northern Province As Temperatures Rise",
-      "description": "[New Times] The usually cold Northern province of Rwanda faces an alarming risk of increased malaria cases as temperatures rise, warns Faustin Munyazikwiye, Deputy Director General of the Rwanda Environment Management Authority (REMA).",
-      "url": "https://allafrica.com/stories/202307300069.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-07-30 10:08:41",
-      "content": "The usually cold Northern province of Rwanda faces an alarming risk of increased malaria cases as temperatures rise, warns Faustin Munyazikwiye, Deputy Director General of the Rwanda Environment Mana\u2026 [+3548 chars]",
-      "retrievedAt": "2023-07-31 19:05:20.664916",
-      "internal_id": "4e436ef23ed9a93ae5d09210807cc8e33e08b89022b873c8a7dee5d5c4f57103",
-      "publishedAtLabel": "Jul 30"
-    },
-    {
-      "id": 774,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nationalgeographic.com.es",
-      "author": "Sergi Alcalde, Sergi Alcalde",
-      "title": "Par\u00e1sitos: polizones invisibles de la naturaleza",
-      "description": "El joven Sebastian Deleon ten\u00eda solo 16 a\u00f1os cuando se enfrent\u00f3 a una grave infecci\u00f3n que pudo acabar con su vida. Su \u00fanica imprudencia hab\u00eda sido ba\u00f1arse en un estanque mientras disfrutaba con su familia de unas vacaciones en Orlando. Al aspirar accidentalme\u2026",
-      "url": "https://www.nationalgeographic.com.es/mundo-animal/parasitos-polizones-invisibles-naturaleza_20449",
-      "urlToImage": "https://www.nationalgeographic.com.es/medio/2023/07/25/plasmodium-shutterstock-1513969283-min_301bb7d1_230725163547_1200x630.jpg",
-      "publishedAt": "2023-07-30 10:00:00",
-      "content": "Plasmodio El pat\u00f3geno responsable de la malaria es un protozoo perteneciente al filo Apicomplexa que entra en el cuerpo humano a trav\u00e9s de la picadura de un mosquito. Se desplaza hasta el h\u00edgado a t\u2026 [+1106 chars]",
-      "retrievedAt": "2023-07-31 19:05:20.675416",
-      "internal_id": "96c5f8f983316d124ec5efd19c6ed13b1adec0f917de44d9eeb661d5045e9736",
-      "publishedAtLabel": "Jul 30"
-    },
-    {
-      "id": 771,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Muere mujer en Texas por meningitis adquirida en cl\u00ednica de Matamoros",
-      "description": "Daniela Olivares, de origen estadunidense, muri\u00f3 en el sur de Texas por meningitis mic\u00f3tica, convirti\u00e9ndose en la s\u00e9ptima v\u00edctima de esta enfermedad en el vecino pa\u00eds, tras un brote del padecimiento entre personas que fueron intervenidas quir\u00fargicamente duran\u2026",
-      "url": "https://www.jornada.com.mx/2023/07/30/estados/025n1est",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-07-30 08:55:27",
-      "content": "Peri\u00f3dico La JornadaDomingo 30 de julio de 2023, p. 25 Daniela Olivares, de origen estadunidense, muri\u00f3 en el sur de Texas por meningitis mic\u00f3tica, convirti\u00e9ndose en la s\u00e9ptima v\u00edctima de esta enfer\u2026 [+2570 chars]",
-      "retrievedAt": "2023-07-31 19:05:20.109204",
-      "internal_id": "0eae53a7ca337ab961fb5d11aaa0d3248ff6baa58ed4ac2a60caab416b3fed64",
-      "publishedAtLabel": "Jul 30"
-    },
-    {
-      "id": 769,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Delhi\u2019s dengue cases reach 5-year high in July: Govt issues advisory. Details - Hindustan Times",
-      "description": "Delhi\u2019s dengue cases reach 5-year high in July: Govt issues advisory. Details Hindustan Times Delhi reports highest dengue case count in 5 years. Symptoms, helpline number, what not to do here | Mint Mint Dengue Outbreak in Delhi\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2RlbGhpLW5ld3MvZGVuZ3VlLXN5bXB0b21zLWRlbGhpLWxhdGVzdC1uZXdzLWRlbmd1ZS1jYXNlcy12aXJhbC1pbmZlY3Rpb24tcGluay1leWUtZGVsaGktZ292ZXJubWVudC1hZHZpc29yeS1kZW5ndWUtMTAxNjkwNzA0NTQ2NDc3Lmh0bWzSAbIBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2NpdGllcy9kZWxoaS1uZXdzL2Rlbmd1ZS1zeW1wdG9tcy1kZWxoaS1sYXRlc3QtbmV3cy1kZW5ndWUtY2FzZXMtdmlyYWwtaW5mZWN0aW9uLXBpbmstZXllLWRlbGhpLWdvdmVybm1lbnQtYWR2aXNvcnktZGVuZ3VlLTEwMTY5MDcwNDU0NjQ3Ny1hbXAuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-30 08:51:58",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-31 19:05:19.825686",
-      "internal_id": "2aecb6a876b65759a174481ded9c27d18dda9e05efe264a839f7cea0985c71e7",
-      "publishedAtLabel": "Jul 30"
-    },
-    {
-      "id": 764,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Bmc: Dengue count crosses 100 in BMC areas for first time this season | Kolkata News - Times of India - IndiaTimes",
-      "description": "Bmc: Dengue count crosses 100 in BMC areas for first time this season | Kolkata News - Times of India IndiaTimes Mangaluru: Mosquito population up due to incessant rains, dengue fever cases rise in DK Daijiworld.com Highest dengu\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiggFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9jaXR5L2tvbGthdGEvZGVuZ3VlLWNvdW50LWNyb3NzZXMtMTAwLWluLWJtYy1hcmVhcy1mb3ItZmlyc3QtdGltZS10aGlzLXNlYXNvbi9hcnRpY2xlc2hvdy8xMDIyNDE2MTIuY21z0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-30 00:35:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-31 07:05:39.606332",
-      "internal_id": "4c1a898869f10e3cca751ef4ebc57628adbd75437af81164d8a74ebc235ac69f",
-      "publishedAtLabel": "Jul 30"
-    },
-    {
-      "id": 762,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue, un caso in Garfagnana - LA NAZIONE",
-      "description": "Dengue, un caso in Garfagnana LA NAZIONE In Toscana un caso sospetto di febbre Dengue Toscana Media News Sospetto contagio dal virus della zanzara tigre: il comune ordina la disinfestazione La Gazzetta del Serchio Caso\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmxhbmF6aW9uZS5pdC9sdWNjYS9jcm9uYWNhL2Rlbmd1ZS1jYXN0ZWxudW92by1iMmplYnFmedIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-29 18:33:13",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-30 19:05:20.186452",
-      "internal_id": "e06aa25678ebb18c70b6aceaa3d20be4d8d0de4248c6c3cbcf8e8dcddb27dda7",
-      "publishedAtLabel": "Jul 29"
-    },
-    {
-      "id": 761,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Caso di febbre Dengue a Castelnuovo di Garfagnana: scatta la disinfestazione - Luccaindiretta - LuccaInDiretta",
-      "description": "Caso di febbre Dengue a Castelnuovo di Garfagnana: scatta la disinfestazione - Luccaindiretta LuccaInDiretta In Toscana un caso sospetto di febbre Dengue Toscana Media News Sospetto contagio dal virus della zanzara tigre: il comu\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5sdWNjYWluZGlyZXR0YS5pdC9jcm9uYWNhLzIwMjMvMDcvMjkvY2Fzby1kaS1mZWJicmUtZGVuZ3VlLWEtY2FzdGVsbnVvdm8tZGktZ2FyZmFnbmFuYS1zY2F0dGEtbGEtZGlzaW5mZXN0YXppb25lLzM2MTcwMy_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-29 14:51:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-30 19:05:20.184455",
-      "internal_id": "59d7a4d8a5171b6431c5f30a55b480e8e60102779d721587a88498ac4d83264a",
-      "publishedAtLabel": "Jul 29"
-    },
-    {
-      "id": 760,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Techinsider.ru",
-      "author": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0430 \u0411\u0435\u043b\u044c\u0447\u0438\u043a\u043e\u0432\u0430",
-      "title": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0433\u043b\u0430\u0434\u0438\u0442\u044c \u0443\u043b\u0438\u0447\u043d\u044b\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043e\u0447\u0435\u043d\u044c \u043e\u043f\u0430\u0441\u043d\u043e",
-      "description": "\u041c\u043d\u043e\u0433\u0438\u0445 \u0438\u0437 \u043d\u0430\u0441 \u0443\u043c\u0438\u043b\u044f\u044e\u0442 \u043f\u0443\u0448\u0438\u0441\u0442\u044b\u0435 \u0434\u0432\u043e\u0440\u043e\u0432\u044b\u0435 \u043a\u043e\u0442\u044b \u0438 \u0437\u0430\u0431\u0430\u0432\u043d\u044b\u0435 \u0431\u0435\u0437\u0434\u043e\u043c\u043d\u044b\u0435 \u043f\u0441\u044b. \u0423\u0433\u043e\u0441\u0442\u0438\u0442\u044c \u0438\u0445 \u0438 \u043f\u043e\u0433\u043b\u0430\u0434\u0438\u0442\u044c - \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430-\u043c\u0438\u043d\u0438\u043c\u0443\u043c \u043f\u043e \u0434\u043e\u0440\u043e\u0433\u0435 \u0434\u043e\u043c\u043e\u0439. \u041e\u0434\u043d\u0430\u043a\u043e \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u044b \u043d\u0435 \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u044e\u0442 \u0442\u0440\u043e\u0433\u0430\u0442\u044c \u0443\u043b\u0438\u0447\u043d\u044b\u0445 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445. \u041f\u043e\u0447\u0435\u043c\u0443?",
-      "url": "https://www.techinsider.ru/editorial/709233-pochemu-ne-stoit-gladit-ulichnyh-zhivotnyh/",
-      "urlToImage": "https://images.techinsider.ru/upload/img_cache/1a3/1a3f6d113d8d4d60eb87a734027c0174_ce_3632x1912x0x524_cropped_1200x628.jpg",
-      "publishedAt": "2023-07-29 12:30:00",
-      "content": "- . , , , . , , Rabies virus , . , . , . , , . , . , , , , . , , , , . , , .",
-      "retrievedAt": "2023-07-30 19:05:19.473056",
-      "internal_id": "e12cb0508f61b245aa0282174af28febca61047eadb4ae9c8bde38e5d74de5ed",
-      "publishedAtLabel": "Jul 29"
-    },
-    {
-      "id": 763,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09ac\u09bf\u098f\u09a8\u09aa\u09bf\u09b0 \u2018\u0985\u0997\u09cd\u09a8\u09bf\u09b8\u09a8\u09cd\u09a4\u09cd\u09b0\u09be\u09b8\u09c7\u09b0\u2019 \u09ac\u09bf\u09b0\u09c1\u09a6\u09cd\u09a7\u09c7 \u0986\u0997\u09be\u09ae\u09c0\u0995\u09be\u09b2 \u09b8\u09be\u09b0\u09be\u09a6\u09c7\u09b6\u09c7 \u0986. \u09b2\u09c0\u0997\u09c7\u09b0 \u09ac\u09bf\u0995\u09cd\u09b7\u09cb\u09ad",
-      "description": "\u09ac\u09bf\u098f\u09a8\u09aa\u09bf\u09b0 \u2018\u0985\u0997\u09cd\u09a8\u09bf\u09b8\u09a8\u09cd\u09a4\u09cd\u09b0\u09be\u09b8\u09c7\u09b0\u2019 \u09ac\u09bf\u09b0\u09c1\u09a6\u09cd\u09a7\u09c7 \u0986\u0997\u09be\u09ae\u09c0\u0995\u09be\u09b2 \u09b0\u09cb\u09ac\u09ac\u09be\u09b0 \u09b8\u09be\u09b0\u09be\u09a6\u09c7\u09b6\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf\u09ac\u09be\u09a6 \u0993 \u09ac\u09bf\u0995\u09cd\u09b7\u09cb\u09ad \u09b8\u09ae\u09be\u09ac\u09c7\u09b6\u09c7\u09b0 \u09a1\u09be\u0995 \u09a6\u09bf\u09df\u09c7\u099b\u09c7 \u0986\u0993\u09df\u09be\u09ae\u09c0 \u09b2\u09c0\u0997\u0964",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/politics/news-500856",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/29/358173642_1396221354285494_8544187852832697164_n.jpg?itok=0Yo83Gp1",
-      "publishedAt": "2023-07-29 11:43:57",
-      "content": "Ten more dengue patients died while 2,202 others were hospitalised during the 24 hours till this morning, according to the Directorate General of Health Services",
-      "retrievedAt": "2023-07-30 19:05:20.194513",
-      "internal_id": "c4d95de42981404313f7c37a5f2b1cae33ed005ffbc54dfe439e21db10b585de",
-      "publishedAtLabel": "Jul 29"
-    },
-    {
-      "id": 756,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Mangaluru: Mosquito population up due to incessant rains, dengue fever cases rise in DK - Daijiworld.com",
-      "description": "Mangaluru: Mosquito population up due to incessant rains, dengue fever cases rise in DK Daijiworld.com West Bengal gears up to combat dengue menace; over 3,000 cases reported this year Hindustan Times Rise in repeat cases a hint \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmRhaWppd29ybGQuY29tL25ld3MvbmV3c0Rpc3BsYXk_bmV3c0lEPTExMDQ2ODTSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-07-29 05:41:27",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-07-30 07:05:26.725642",
-      "internal_id": "cb6646437b230c85b178175b7eb62e200333e2f462967bb363984dc0a34f2819",
-      "publishedAtLabel": "Jul 29"
     }
   ]
 }
