@@ -1,8 +1,44 @@
 {
-  "last_updated": "2023-08-09 19:05",
+  "last_updated": "2023-08-10 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 13,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 991,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Irish Mirror",
+      "author": "Cian O'broin",
+      "title": "Mum of Limerick boy reveals he is battling meningitis after third brain surgery",
+      "description": "Noah Quish has been battling an array of serious illnesses, with the support of his mother Noah and father John, since he was born in March 2017",
+      "url": "https://www.irishmirror.ie/news/irish-news/health-news/limerick-boy-battling-meningitis-surgery-30660360",
+      "urlToImage": "https://i2-prod.irishmirror.ie/incoming/article30660374.ece/ALTERNATES/s1200/0_Noah-Quish.jpg",
+      "publishedAt": "2023-08-09 00:35:47",
+      "content": "The mum of a brave young Limerick boy who has been fighting serious illness his whole life has revealed that he is battling meningitis after a third brain surgery. A fundraiser has been started for \u2026 [+2120 chars]",
+      "retrievedAt": "2023-08-10 07:05:32.183150",
+      "internal_id": "a4a832f84a593075a580e4eb9401a71db844e4905d5a95e5b88e5d7bc1840f90",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 992,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Inflammation slows malaria parasite growth and reproduction in the body",
+      "description": "New research found that inflammation in the body can slow down the development of malaria parasites in the bloodstream -- a discovery that may constitute a potential new strategy for preventing or limiting severe disease.",
+      "url": "https://www.sciencedaily.com/releases/2023/08/230808181913.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-08-08 22:19:13",
+      "content": "Research led by the Peter Doherty Institute for Infection and Immunity (Doherty Institute) and the Kirby Institute found that inflammation in the body can slow down the development of malaria parasit\u2026 [+3804 chars]",
+      "retrievedAt": "2023-08-10 07:05:32.540919",
+      "internal_id": "9c540347e22a8ae05b9f4a4edff07f3d4e08a0714e82e53f8a2afa0c6163e1e7",
+      "publishedAtLabel": "Aug 8"
+    },
     {
       "id": 986,
       "query": [
@@ -3574,42 +3610,6 @@
       "content": "Quarenta e nove casos de mpox foram detetados em Portugal, entre 1 de junho e 28 de julho, resultantes de um novo surto, segundo dados divulgados pela Dire\u00e7\u00e3o-Geral da Sa\u00fade. Este novo surto caracte\u2026 [+1676 chars]",
       "retrievedAt": "2023-08-01 19:05:09.935736",
       "internal_id": "94a18cf7e1938255e48a4f197121567d6342d6e907f44ef876953d953b8061fe",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 803,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Publico.pt",
-      "author": "publico@publico.pt",
-      "title": "Mpox: Portugal ultrapassa os 1000 casos. Novo surto j\u00e1 tem 49 casos",
-      "description": "Novo surto da doen\u00e7a est\u00e1 associado a uma estirpe diferente do surto de 2022. Cadeias de transmiss\u00e3o est\u00e3o a ser potenciadas por eventos e festivais de Ver\u00e3o.",
-      "url": "https://www.publico.pt/2023/07/31/ciencia/noticia/mpox-portugal-ultrapassa-1000-casos-novo-surto-ja-49-casos-2058696",
-      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1830136?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "publishedAt": "2023-07-31 10:41:46",
-      "content": "Quarenta e nove casos de mpox foram detectados em Portugal, entre 1 de Junho e 28 de Julho, resultantes de um novo surto, segundo dados divulgados pela Direc\u00e7\u00e3o-Geral da Sa\u00fade (DGS). \u201cEste novo surt\u2026 [+1498 chars]",
-      "retrievedAt": "2023-08-01 19:05:09.933443",
-      "internal_id": "3494787d61a67602943e672825979a2568edf3c3df6c872254f2cf57b25c520a",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 806,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cmjornal.pt",
-      "author": "portal@cmjornal.pt (Correio da Manh\u00e3)",
-      "title": "49 casos de Mpox detetados desde 1 de junho ultrapassando os mil casos em Portugal",
-      "description": "\"Dos casos confirmados, 29 (74%) s\u00e3o homens que tiveram sexo com homens\", refere a autoridade de sa\u00fade.",
-      "url": "https://www.cmjornal.pt/sociedade/detalhe/49-casos-de-mpox-detetados-desde-1-de-junho-ultrapassando-os-mil-casos-em-portugal",
-      "urlToImage": "https://cdn.cmjornal.pt/images/2022-06/img_1200x676$2022_06_28_22_16_15_1163740.jpg",
-      "publishedAt": "2023-07-31 10:03:11",
-      "content": "Quarenta e nove casos de mpox foram detetados em Portugal, entre 1 de junho e 28 de julho, resultantes de um novo surto, segundo dados divulgados pela Dire\u00e7\u00e3o-Geral da Sa\u00fade. \"Este novo surto caract\u2026 [+1526 chars]",
-      "retrievedAt": "2023-08-01 19:05:09.940345",
-      "internal_id": "7d5b1c41b5f49de3ba056ee7b226f099f9fe17ded6c7a968fe76f7d763943ad3",
       "publishedAtLabel": "Jul 31"
     }
   ]
