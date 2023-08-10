@@ -1,8 +1,280 @@
 {
-  "last_updated": "2023-08-10 07:05",
+  "last_updated": "2023-08-10 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 2,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 996,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Laborat\u00f3rio pede incorpora\u00e7\u00e3o da vacina contra dengue no SUS",
+      "description": "O imunizante foi aprovado pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) em mar\u00e7o, com indica\u00e7\u00e3o para pessoas de 4 a 60 anos",
+      "url": "https://valor.globo.com/brasil/noticia/2023/08/09/laboratorio-pede-incorporacao-da-vacina-contra-dengue-no-sus.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/yUn8YsxCosZrgGEV4QW0nhSzmIg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/5/z/1FTMl0Qh2KHKWhklm3jw/vacina-qdenga-do-laboratorio-takeda-pharma-contra-a-dengue-divulgacao.jpeg",
+      "publishedAt": "2023-08-09 17:12:20",
+      "content": "O laborat\u00f3rio japon\u00eas Takeda Pharma registrou solicita\u00e7\u00e3o formal para a incorpora\u00e7\u00e3o da vacina Qdenga, contra a dengue, ao Sistema \u00danico de Sa\u00fade (SUS). A informa\u00e7\u00e3o foi confirmada nesta quarta-feira\u2026 [+1752 chars]",
+      "retrievedAt": "2023-08-10 19:05:13.675482",
+      "internal_id": "e24e9ca48f07aae2c400e1dc5d4f16afd80e6254fbddb11c8be6b9ea5ca4a1fd",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 1006,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Treatments for poxviruses -- including those causing mpox and smallpox -- may already exist in licensed drugs",
+      "description": "The drug tecovirimat is currently in use for the treatment of mpox -- the disease caused by monkeypox virus -- that spread worldwide in 2022. Tecovirimat is an anti-poxviral drug, and its use is driving the emergence of drug-resistant variants of the monkeypo\u2026",
+      "url": "https://www.sciencedaily.com/releases/2023/08/230809130610.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-08-09 17:06:10",
+      "content": "Scientists studying how poxviruses evade natural defences in human cells have identified a new approach to treatment that may be more durable than current treatments.This follows their discovery of h\u2026 [+4463 chars]",
+      "retrievedAt": "2023-08-10 19:05:15.025183",
+      "internal_id": "39ec63f7298b2cd9c21eff8f5797227346a068f709a8d1adbf73807d56523942",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 993,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vnexpress.net",
+      "author": "VnExpress",
+      "title": "M\u1ed9t ng\u01b0\u1eddi c\u00f3 th\u1ec3 m\u1eafc s\u1ed1t xu\u1ea5t huy\u1ebft m\u1ea5y l\u1ea7n trong \u0111\u1eddi?",
+      "description": "M\u1ed9t ng\u01b0\u1eddi c\u00f3 th\u1ec3 b\u1ecb m\u1eafc s\u1ed1t xu\u1ea5t huy\u1ebft 4 l\u1ea7n trong \u0111\u1eddi, t\u01b0\u01a1ng \u1ee9ng v\u1edbi 4 ch\u1ee7ng virus Dengue.",
+      "url": "https://vnexpress.net/mot-nguoi-co-the-mac-sot-xuat-huyet-may-lan-trong-doi-4639094.html",
+      "urlToImage": "https://vcdn1-suckhoe.vnecdn.net/2023/08/08/closeupmosquitosuckingbloodfro-9846-6645-1691468898.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VQL92YBILtxfYXe4M6pOCw",
+      "publishedAt": "2023-08-09 17:05:00",
+      "content": "Mt ngi c\u00f3 th b mc st xut huyt 4 ln trong i, tng ng vi 4 chng virus Dengue.B\u00e0i vit c t vn chuy\u00ean m\u00f4n bi BS.CK2 Nguyn Minh Tin, Ph\u00f3 gi\u00e1m c Bnh vin Nhi ng Th\u00e0nh ph (TP HCM). St xut huyt l\u00e0 bnh truyn n\u2026 [+1010 chars]",
+      "retrievedAt": "2023-08-10 19:05:13.663282",
+      "internal_id": "6b85427fe58f9594d1ad541d4acfe82022f744e336b3d713607a5594dd69d430",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 994,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vnexpress.net",
+      "author": "VnExpress",
+      "title": "M\u1ed9t ng\u01b0\u1eddi c\u00f3 th\u1ec3 m\u1eafc s\u1ed1t xu\u1ea5t huy\u1ebft m\u1ea5y l\u1ea7n?",
+      "description": "M\u1ed9t ng\u01b0\u1eddi c\u00f3 th\u1ec3 b\u1ecb nhi\u1ec5m s\u1ed1t xu\u1ea5t huy\u1ebft 4 l\u1ea7n trong \u0111\u1eddi, t\u01b0\u01a1ng \u1ee9ng v\u1edbi 4 ch\u1ee7ng virus Dengue.",
+      "url": "https://vnexpress.net/mot-nguoi-co-the-mac-sot-xuat-huyet-may-lan-4639094.html",
+      "urlToImage": "https://vcdn1-suckhoe.vnecdn.net/2023/08/08/closeupmosquitosuckingbloodfro-9846-6645-1691468898.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VQL92YBILtxfYXe4M6pOCw",
+      "publishedAt": "2023-08-09 17:05:00",
+      "content": "Mt ngi c\u00f3 th b nhim st xut huyt 4 ln trong i, tng ng vi 4 chng virus Dengue.B\u00e0i vit c t vn chuy\u00ean m\u00f4n bi BS.CK2 Nguyn Minh Tin, Ph\u00f3 gi\u00e1m c Bnh vin Nhi ng Th\u00e0nh ph (TP HCM). St xut huyt l\u00e0 bnh truyn\u2026 [+1012 chars]",
+      "retrievedAt": "2023-08-10 19:05:13.666789",
+      "internal_id": "45946dba8503807bec5bb36f9c063ffcee99e37083ab35dafbbec50b339a038f",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 998,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Detectan por primera vez en Galicia ejemplares del 'mosquito tigre', potencial transmisor de dengue, chikungunya o Zica",
+      "description": "La Direcci\u00f3n Xeral de Sa\u00fade P\u00fablica (Sergas) ha advertido este mi\u00e9rcoles sobre la aparici\u00f3n en Moa\u00f1a (Pontevedra) de ejemplares del mosquito 'aedes albopictus', conocido como 'mosquito tigre', y es la primera vez que se detecta en la Comunidad Aut\u00f3noma de Gal\u2026",
+      "url": "https://www.europapress.es/galicia/noticia-detectan-primera-vez-galicia-ejemplares-mosquito-tigre-potencial-transmisor-dengue-chikungunya-zica-20230809181303.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230809181303_1200.jpg",
+      "publishedAt": "2023-08-09 16:13:03",
+      "content": "El Sergas reunir\u00e1 en pr\u00f3ximos d\u00edas un comit\u00e9 con departamentos de la Xunta, el \u00c1rea Sanitaria de Vigo y el Ayuntamiento de Moa\u00f1a SANTIAGO DE COMPOSTELA, 9 Ago. (EUROPA PRESS) - La Direcci\u00f3n \u2026 [+2691 chars]",
+      "retrievedAt": "2023-08-10 19:05:13.678501",
+      "internal_id": "28850e0470b1939a6d8ab972df5ddd8cd486e565de9b2ca9b6b1792e768f2d99",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 1001,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "j. v. lado",
+      "title": "Un vecino de Moa\u00f1a detecta por primera vez en Galicia el mosquito tigre, que transmite peligrosas enfermedades",
+      "description": "La Xunta ha creado una comisi\u00f3n para monitorear su presencia",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2023/08/10/detectado-moana-primera-vez-galicia-mosquito-tigre-transmite-patologias-graves/0003_202308G10P26992.htm",
+      "urlToImage": "https://www.lavozdegalicia.es/default/2023/08/09/00121691591042066647687/Foto/J18G5195.jpg",
+      "publishedAt": "2023-08-09 14:26:00",
+      "content": "En el 2005 se detect en Catalua y en el 2018 sus picaduras provocaron las primeras transmisiones locales de dengue en Cdiz y Murcia. Ese mismo ao anduvo tambin rondando la comunidad porque se documen\u2026 [+921 chars]",
+      "retrievedAt": "2023-08-10 19:05:13.681912",
+      "internal_id": "85f66f00ad462745a7d9a664409b64f5ea349523ae088eb528911f638531e166",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 995,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Esther Annan, Jes\u00fas Trevi\u00f1o, Bingxin Zhao, Alfonso J. Rodriguez-Morales, Ubydul Haque",
+      "title": "Direct and indirect effects of age on dengue severity: The mediating role of secondary infection",
+      "description": "Author summary Age has been previously found to be associated with severe dengue. However, it is unclear whether this effect is purely due to aging or the predisposition of older individuals to be exposed to secondary infection. Since secondary infection with\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011537",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011537.g002&size=inline",
+      "publishedAt": "2023-08-09 14:00:00",
+      "content": "Abstract Severe dengue occurrence has been attributed to increasing age and different dengue virus (DENV) serotypes that cause secondary infections and immune-enhancing phenomena. Therefore, we exam\u2026 [+37895 chars]",
+      "retrievedAt": "2023-08-10 19:05:13.672495",
+      "internal_id": "e903c33eaf1b3ea2e38a00a6fa237dfde4dcc6f03bae0f29e3cad888d5b204ef",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 997,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Laborat\u00f3rio pede incorpora\u00e7\u00e3o da vacina contra dengue no SUS",
+      "description": "Inclus\u00e3o do imunizante ao SUS est\u00e1 em an\u00e1lise, diz ministra",
+      "url": "http://noticias.r7.com/saude/laboratorio-pede-incorporacao-da-vacina-contra-dengue-no-sus-09082023",
+      "urlToImage": "https://img.r7.com/images/mosquito-da-dengue-08072023182938398?crop_position=c&dimensions=340x191",
+      "publishedAt": "2023-08-09 13:18:05",
+      "content": "O laborat\u00f3rio japon\u00eas Takeda Pharma registrou solicita\u00e7\u00e3o formal para a incorpora\u00e7\u00e3o da vacina Qdenga, contra a dengue, ao SUS (Sistema \u00danico de Sa\u00fade). A informa\u00e7\u00e3o foi confirmada nesta quarta-feira\u2026 [+1655 chars]",
+      "retrievedAt": "2023-08-10 19:05:13.677311",
+      "internal_id": "f5424f851b7dd0cf13ecce8ff1a9901919b6d157ec8ad7ddf8a5392f4c55984f",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 1003,
+      "query": [
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Leganerd.com",
+      "author": "Cristina Rapagn\u00e0",
+      "title": "Insetticidi: un rischio inaspettato per la salute a livello globale",
+      "description": "Gli insetticidi sono spesso utilizzati per proteggere le persone dalle malattie portate da zanzare come la malaria o il virus Zika. Ma c\u2019\u00e8 un aspetto di questa lotta che potrebbe sorprendere: il modo in cui questi insetticidi influenzano non solo le zanzare, \u2026",
+      "url": "https://leganerd.com/2023/08/09/insetticidi-un-rischio-inaspettato-per-la-salute-a-livello-globale/",
+      "urlToImage": "https://leganerd.com/wp-content/uploads/2023/08/mosquito_spray_online.jpg",
+      "publishedAt": "2023-08-09 12:46:03",
+      "content": "Gli insetticidi sono spesso utilizzati per proteggere le persone dalle malattie portate da zanzare come la malaria o il virus Zika. Ma c\u2019\u00e8 un aspetto di questa lotta che potrebbe sorprendere: il modo\u2026 [+1124 chars]",
+      "retrievedAt": "2023-08-10 19:05:14.433324",
+      "internal_id": "680fe995a1f8dffbe4ab88acd4276d3897e390160961d594d0077a19dc571f55",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 1004,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Ocean Biomedical, Inc.",
+      "title": "Ocean Biomedical (NASDAQ: OCEA) Share Price Target Now Averaging $18.21, Based on Research and Development Progress in Three Promising Programs Generating Novel Treatment Candidates for Cancer, Malaria, and Fibrosis.",
+      "description": "Ocean Biomedical will host a Research and Development Day, Live Q&A with Scientific Co-founders, Dr. Jack A. Elias, MD and Dr. Jonathan Kurtis, MD, PhD on September 14, 2023",
+      "url": "https://www.globenewswire.com/news-release/2023/08/09/2721653/0/en/Ocean-Biomedical-NASDAQ-OCEA-Share-Price-Target-Now-Averaging-18-21-Based-on-Research-and-Development-Progress-in-Three-Promising-Programs-Generating-Novel-Treatment-Candidates-for.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
+      "publishedAt": "2023-08-09 12:31:00",
+      "content": "Ocean Biomedical will host a Research and Development Day, Live Q&amp;A with Scientific Co-founders, Dr. Jack A. Elias, MD and Dr. Jonathan Kurtis, MD, PhD on September 14, 2023 Providence, RI, Aug.\u2026 [+8552 chars]",
+      "retrievedAt": "2023-08-10 19:05:14.436892",
+      "internal_id": "7da1b3d085dbbce751464f382cc85d11b308165c201ef5d03acf20869d032e11",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 1007,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Kopalniawiedzy.pl",
+      "author": null,
+      "title": "Bakteria d\u017cumy sta\u0142a si\u0119 w XIX wieku bardziej zjadliwa. Nied\u0142ugo potem zabi\u0142a 15 milion\u00f3w os\u00f3b",
+      "description": "D\u017cuma trapi ludzko\u015b\u0107 od 5000 lat. W tym czasie wywo\u0142uj\u0105ca j\u0105 Yersinia pestis ulega\u0142a wielokrotnym zmianom, zyskuj\u0105c i trac\u0105c geny. Oko\u0142o 1500 lat temu, nied\u0142ugo przed jedn\u0105 z najwi\u0119kszych pandemii \u2013 d\u017cum\u0105 Justyniana \u2013 Y. pestis sta\u0142a si\u0119 bardziej niebezpieczn\u2026",
+      "url": "https://kopalniawiedzy.pl/dzuma-pandemia-epidemia-zjadliwosc-genom-Yersinia-pestis,36538",
+      "urlToImage": "https://kopalniawiedzy.pl/media/lib/490/relief-4301270c5f10969c08116d16143c1749.jpg",
+      "publishedAt": "2023-08-09 11:10:23",
+      "content": "Duma trapi ludzko od 5000 lat. W tym czasie wywoujca j Yersinia pestis ulegaa wielokrotnym zmianom, zyskujc i tracc geny. Okoo 1500 lat temu, niedugo przed jedn z najwikszych pandemii dum Justyniana \u2026 [+3556 chars]",
+      "retrievedAt": "2023-08-10 19:05:15.874814",
+      "internal_id": "1486e50966321d07d9dacbdd7ab8d9bb501f1f1a469dc8e02a32e39e46d5ba2b",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 999,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Hanoi reports 110 active dengue fever outbreaks - VnExpress International",
+      "description": "Hanoi reports 110 active dengue fever outbreaks VnExpress International",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZS52bmV4cHJlc3MubmV0L25ld3MvbmV3cy9oYW5vaS1yZXBvcnRzLTExMC1hY3RpdmUtZGVuZ3VlLWZldmVyLW91dGJyZWFrcy00NjM5NjgxLmh0bWzSAWFodHRwczovL2FtcGUudm5leHByZXNzLm5ldC9uZXdzL25ld3MvaGFub2ktcmVwb3J0cy0xMTAtYWN0aXZlLWRlbmd1ZS1mZXZlci1vdXRicmVha3MtNDYzOTY4MS5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-09 11:00:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-10 19:05:13.679564",
+      "internal_id": "e5f25f806ac01e6fd28370d77ab1f063181b0dcf6503b8374fa77531da344884",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 1000,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vnexpress.net",
+      "author": "Le Nga",
+      "title": "Hanoi reports 110 active dengue fever outbreaks",
+      "description": "Hanoi recorded 500 dengue fever cases per week on average in the past month, up 4.3 times against last month, at 110 outbreaks across the city.",
+      "url": "https://e.vnexpress.net/news/news/hanoi-reports-110-active-dengue-fever-outbreaks-4639681.html",
+      "urlToImage": "https://vcdn1-english.vnecdn.net/2023/08/09/dengue-1691554797-8821-1691554-5468-3370-1691569056.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=XRT7g4Wti7e6HsgRsNiVsQ",
+      "publishedAt": "2023-08-09 11:00:00",
+      "content": "So far this year, the city has had 2,800 incidences, up 4.7 times against the same period last year, according to Hanois Center for Disease Control and Prevention (CDC). Thach That District suffered\u2026 [+1620 chars]",
+      "retrievedAt": "2023-08-10 19:05:13.680500",
+      "internal_id": "f4797a62e0da797891103766205bc291d0809cb4086eee1d34ada4bd10dedfaf",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 1005,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Inflammation slows malaria parasite growth and reproduction in the body, research finds",
+      "description": "Research led by the Peter Doherty Institute for Infection and Immunity (Doherty Institute) and the Kirby Institute found that inflammation in the body can slow down the development of malaria parasites in the bloodstream\u2014a discovery that may constitute a pote\u2026",
+      "url": "https://phys.org/news/2023-08-inflammation-malaria-parasite-growth-reproduction.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/inflammation-slows-mal.jpg",
+      "publishedAt": "2023-08-09 10:05:18",
+      "content": "Research led by the Peter Doherty Institute for Infection and Immunity (Doherty Institute) and the Kirby Institute found that inflammation in the body can slow down the development of malaria parasit\u2026 [+4563 chars]",
+      "retrievedAt": "2023-08-10 19:05:14.440251",
+      "internal_id": "d72ea7970c0bb885d4e09f5b4aebb5c64d217c68a880756f06386839e978c37e",
+      "publishedAtLabel": "Aug 9"
+    },
+    {
+      "id": 1002,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vietnamplus.vn",
+      "author": "VNA",
+      "title": "Dengue cases in Laos spike amid continuous rainfall",
+      "description": "Health authorities in Laos have reported a significant increase in dengue fever cases across the country, raising concerns among officials and prompting urgent preventive measures.",
+      "url": "https://en.vietnamplus.vn/dengue-cases-in-laos-spike-amid-continuous-rainfall/265917.vnp",
+      "urlToImage": null,
+      "publishedAt": "2023-08-09 09:13:00",
+      "content": "Hanoi (VNA) - Health authorities in Laos have reported a significant increase in dengue fever cases across the country, raising concerns among officials and prompting urgent preventive measures. T\u2026 [+1091 chars]",
+      "retrievedAt": "2023-08-10 19:05:13.686367",
+      "internal_id": "9c3c681f5983e35ea9151424ea378632a7313a6c75c0a6787e169804f92b4acc",
+      "publishedAtLabel": "Aug 9"
+    },
     {
       "id": 991,
       "query": [
@@ -3340,276 +3612,6 @@
       "content": "Depois da quebra significativa nos casos confirmados de mpox (v\u00edrus monkeypox, anteriormente conhecido como var\u00edola-dos-macacos) desde final de Agosto do ano passado, esta infec\u00e7\u00e3o volta agora \u00e0s not\u2026 [+548 chars]",
       "retrievedAt": "2023-08-02 07:05:35.611951",
       "internal_id": "04abde138cd535aa10a39f06267a613059c1657aa92c4b16865fef204c468bad",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 799,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Paasi, G., Okalebo, C. B., Ongodia, P., Namayanja, C., Eregu, E. E. I., Abongo, G., Olupot, M., Amorut, D., Muhindo, R., Okiror, W., Ndila, C., Olupot-Olupot, P., on behalf of the PARIST trial study group",
-      "title": "PARIST study protocol: a phase I/II randomised, controlled clinical trial to assess the feasibility, safety and effectiveness of paracetamol in resolving acute kidney injury in children with severe malaria",
-      "description": "Background Acute kidney injury (AKI) has in the past been considered a rare complication of malaria in children living in high-transmission settings. More recently, however, a growing number of paediatric case series of AKI in severe malaria studies in Africa\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/7/e068260?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-07-31 17:33:18",
-      "content": "Renal involvement in severe malaria is common in adult non-immune cases in South and South East Asia (25%50% in various series) and can progress to acute kidney injury (AKI) with anuric or oliguric r\u2026 [+3010 chars]",
-      "retrievedAt": "2023-08-01 19:05:09.094536",
-      "internal_id": "cb7acf04da4332bfa2bd759106c920a18444daaa375fbdcef31bbe2da560a138",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 789,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Amid Dengue Spike, Delhi Civic Body To Use Drones For Anti-Larval Spraying",
-      "description": "The MCD will soon float a tender for the procurement of drones that will be deployed for monitoring and concurrent anti-larval spraying on major drains and far-flung areas to prevent the breeding of mosquito larvae, officials said on Monday.",
-      "url": "https://www.ndtv.com/delhi-news/amid-dengue-spike-delhi-civic-body-to-use-drones-for-anti-larval-spraying-4256558",
-      "urlToImage": "https://c.ndtvimg.com/2022-09/usgc45g8_dengue-symptoms-and-cure_625x300_29_September_22.jpg",
-      "publishedAt": "2023-07-31 15:34:55",
-      "content": "The move comes amid a rise in dengue cases in Delhi. (Representational) New Delhi: The MCD will soon float a tender for the procurement of drones that will be deployed for monitoring and concurrent \u2026 [+2638 chars]",
-      "retrievedAt": "2023-08-01 19:05:08.514654",
-      "internal_id": "97bfb40f84bf4974fd1455412b1798a6a19d554349a14dbc7b36edbaa4a3c113",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 792,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "ZEIT ONLINE: Umwelt - Elena Erdmann, Lena Giovanazzi",
-      "title": "Asiatische Tigerm\u00fccke: Die zweitgef\u00e4hrlichste M\u00fccke der Welt kommt nach Deutschland",
-      "description": "Die Asiatische Tigerm\u00fccke \u00fcbertr\u00e4gt Tropenkrankheiten wie Dengue \u2013 und verbreitet sich nun in Deutschland. Muss man sich Sorgen machen? Besuch bei einer M\u00fcckenj\u00e4gerin",
-      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fwissen%2Fumwelt%2F2023-07%2Fasiatische-tigermuecke-ausbreitung-denguefieber-chikungunya-virus",
-      "urlToImage": null,
-      "publishedAt": "2023-07-31 15:01:33",
-      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
-      "retrievedAt": "2023-08-01 19:05:08.520277",
-      "internal_id": "14f316555a1cdbc0caaa27016006cfe6aa2336ade0b70b20f05f660a2b473a1e",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 801,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Thorey K. Jonsdottir, Brendan Elsworth, Simon Cobbold, Mikha Gabriela, Ellen Ploeger, Molly Parkyn Schneider, Sarah C. Charnaud, Madeline G. Dans, Malcolm McConville, Hayley E. Bullen, Brendan S. Crabb, Paul R. Gilson",
-      "title": "PTEX helps efficiently traffic haemoglobinases to the food vacuole in Plasmodium falciparum",
-      "description": "Author summary Plasmodium falciparum is the causative agent of the most severe form of malaria in humans, where the symptoms of the disease are derived from the continuous asexual replication of the parasite within the human red blood cells (RBCs) it infects.\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011006",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011006.g008&size=inline",
-      "publishedAt": "2023-07-31 14:00:00",
-      "content": "Citation: Jonsdottir TK, Elsworth B, Cobbold S, Gabriela M, Ploeger E, Parkyn Schneider M, et al. (2023) PTEX helps efficiently traffic haemoglobinases to the food vacuole in Plasmodium falciparum. P\u2026 [+89318 chars]",
-      "retrievedAt": "2023-08-01 19:05:09.105743",
-      "internal_id": "58e796bc366f9e11fc3507ee08ec2cdcf9bc4468be0a0b1148c3622d8ce6178e",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 802,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Francis N. Nkemngo, Lymen W. G. Raissa, Derrick N. Nebangwa, Asongha M. Nkeng, Alvine Kengne, Leon M. J. Mugenzi, Yvan G. Fotso-Toguem, Murielle J. Wondji, Robert A. Shey, Daniel Nguiffo-Nguete, Jerome Fru-Cho, Cyrille Ndo, Flobert Njiokou, Joanne P. Webster, Samuel Wanji, Charles S. Wondji",
-      "title": "Epidemiology of malaria, schistosomiasis, and geohelminthiasis amongst children 3\u201315 years of age during the dry season in Northern Cameroon",
-      "description": "Background The double burden of malaria and helminthiasis in children poses an obvious public health challenge, particularly in terms of anemia morbidity. While both diseases frequently geographically overlap, most studies focus on mono-infection and general \u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288560",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0288560.g002&size=inline",
-      "publishedAt": "2023-07-31 14:00:00",
-      "content": "Citation: Nkemngo FN, W. G. Raissa L, Nebangwa DN, Nkeng AM, Kengne A, Mugenzi LMJ, et al. (2023) Epidemiology of malaria, schistosomiasis, and geohelminthiasis amongst children 315 years of age duri\u2026 [+55264 chars]",
-      "retrievedAt": "2023-08-01 19:05:09.107781",
-      "internal_id": "d51773b03946a2aa9cba954ac36f3673aee5933c2abfd656b083adb981779d7e",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 796,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vietnamplus.vn",
-      "author": "VNA",
-      "title": "Hanoi advises residents to watch out for dengue fever risks",
-      "description": "Director of the Hanoi Department of Health Tran Thi Nhi Ha has advised that people should stay vigilant on dengue fever.",
-      "url": "https://en.vietnamplus.vn/hanoi-advises-residents-to-watch-out-for-dengue-fever-risks/265335.vnp",
-      "urlToImage": null,
-      "publishedAt": "2023-07-31 13:52:00",
-      "content": "Hanoi (VNA) Director of the Hanoi Department of Health Tran Thi Nhi Ha has advised that people should stay vigilant on dengue fever. According to a report from the municipal Centre for Disease Contr\u2026 [+741 chars]",
-      "retrievedAt": "2023-08-01 19:05:08.530677",
-      "internal_id": "2607f2cee2e9478db3cd74914de8ac99091acda22f1521df34b93d6cd647c3a6",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 795,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09af\u09a4\u0987 \u0997\u09cd\u09b0\u09c7\u09aa\u09cd\u09a4\u09be\u09b0 \u0995\u09b0\u09c1\u0995, \u099c\u09a8\u0997\u09a3\u09c7\u09b0 \u09a2\u09b2 \u09a5\u09be\u09ae\u09be\u09a8\u09cb \u09af\u09be\u09ac\u09c7 \u09a8\u09be: \u09ae\u09bf\u09b0\u09cd\u099c\u09be \u09ab\u0996\u09b0\u09c1\u09b2",
-      "description": "\u09a8\u09bf\u09b0\u09cd\u09af\u09be\u09a4\u09a8 \u0995\u09b0\u09c7, \u09ae\u09be\u09ae\u09b2\u09be \u09a6\u09bf\u09df\u09c7, \u0997\u09cd\u09b0\u09c7\u09aa\u09cd\u09a4\u09be\u09b0 \u0995\u09b0\u09c7 \u099c\u09a8\u0997\u09a3\u09c7\u09b0 \u09a2\u09b2 \u09a5\u09be\u09ae\u09be\u09a8\u09cb \u09af\u09be\u09ac\u09c7 \u09a8\u09be \u09ac\u09b2\u09c7 \u09ae\u09a8\u09cd\u09a4\u09ac\u09cd\u09af \u0995\u09b0\u09c7\u099b\u09c7\u09a8 \u09ac\u09bf\u098f\u09a8\u09aa\u09bf \u09ae\u09b9\u09be\u09b8\u099a\u09bf\u09ac \u09ae\u09bf\u09b0\u09cd\u099c\u09be \u09ab\u0996\u09b0\u09c1\u09b2 \u0987\u09b8\u09b2\u09be\u09ae \u0986\u09b2\u09ae\u0997\u09c0\u09b0\u0964",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/politics/news-501471",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/31/mirza_fakhrul_1.jpg?itok=Aib5m0_K",
-      "publishedAt": "2023-07-31 12:53:51",
-      "content": "With four deaths from dengue in 24 hours till this morning, the total number of deaths from the disease this year reached 251",
-      "retrievedAt": "2023-08-01 19:05:08.528132",
-      "internal_id": "d5ddc587796b8eaebe0037f4ab0d2d816d108d4c5b50bbb25e9539af086570cd",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 800,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Futurity: Research News",
-      "author": "Jessica Colarossi-Boston University",
-      "title": "Malaria may be returning to the United States",
-      "description": "For the first time since 2003, local transmission of malaria has been found in the United States, with six cases in Florida and one in Texas.",
-      "url": "https://www.futurity.org/malaria-united-states-2951462-2/",
-      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2023/07/malaria_united_states_1600.jpg",
-      "publishedAt": "2023-07-31 12:24:59",
-      "content": "For the first time since 2003, local transmission of malaria has been found in two states, with six cases in Florida and one in Texas.When the Centers for Disease Control and Prevention (CDC) started\u2026 [+1534 chars]",
-      "retrievedAt": "2023-08-01 19:05:09.103481",
-      "internal_id": "e0f723c87029679edcd48d01a7e93ddb8edcd7dd193fdaeda23419c13c5db476",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 791,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Dengue in Delhi: MCD to float tender for procurement of drones, to also be used for anti-larval activity",
-      "description": "According to the latest report issued by the Municipal Corporation of Delhi (MCD), the tally was at 243 till July 28. \"As per our plan, we will be procuring drones for monitoring and concurrent anti-larval spray activity. The tender for the procurement of dro\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/dengue-in-delhi-mcd-to-float-tender-for-procurement-of-drones-to-also-be-used-for-anti-larval-activity/articleshow/102281427.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-102281573,width-1070,height-580,imgsize-337470,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-07-31 12:23:42",
-      "content": "The MCD will soon float a tender for the procurement of drones that will be deployed for monitoring and concurrent anti-larval spraying on major drains and far-flung areas to prevent the breeding of \u2026 [+2449 chars]",
-      "retrievedAt": "2023-08-01 19:05:08.518807",
-      "internal_id": "cccc7a452ea7f8f8010542f89f93bd2f514074972960b1c4f56b0c9ee204fd2e",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 794,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Moneycontrol",
-      "author": "Hindi.Moneycontrol.com Team, Moneycontrol Hindi",
-      "title": "Dengue: \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0915\u0939\u0930! \u0905\u092c \u0924\u0915 8 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924 \u0914\u0930 4000 \u0938\u0947 \u0905\u0927\u093f\u0915 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924, \u0938\u0940\u090f\u092e \u0928\u0947 \u091c\u0924\u093e\u0908 \u091a\u093f\u0902\u0924\u093e",
-      "description": "\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u0915\u0940 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u092e\u0924\u093e \u092c\u0928\u0930\u094d\u091c\u0940 (Mamata Banerjee) \u0928\u0947 \u0938\u094b\u092e\u0935\u093e\u0930 \u0915\u094b \u092c\u0924\u093e\u092f\u093e \u0915\u093f \u0930\u093e\u091c\u094d\u092f \u092e\u0947\u0902 26 \u091c\u0941\u0932\u093e\u0908 \u0924\u0915 \u0921\u0947\u0902\u0917\u0942 (Dengue in West Bengal) \u0915\u0947 \u0915\u093e\u0930\u0923 8 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924 \u0939\u094b \u0917\u0908, \u091c\u092c\u0915\u093f 4,401 \u0932\u094b\u0917 \u0907\u0938\u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u0939\u0941\u090f \u0939\u0948\u0902\u0964 \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0915\u093e\u0930\u0923 \u0909\u0924\u094d\u092a\u0928\u094d\u0928 \u0938\u094d\u0925\u093f\u0924\u093f \u092a\u0930 \u091a\u093f\u0902\u0924\u093e \u092d\u0940 \u092a\u094d\u0930\u0915\u091f \u0915\u0940\u0964\u2026",
-      "url": "https://hindi.moneycontrol.com/news/india/trends/dengue-havoc-in-west-bengal-after-delhi-eight-people-dead-over-4000-infected-cm-mamata-banerjee-expresses-concern-1396221.html",
-      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2023/07/Dengue_WB-637x435.jpg",
-      "publishedAt": "2023-07-31 12:07:41",
-      "content": "(Mamata Banerjee) 26 (Dengue in West Bengal) 8 , 4,401 , 24 (BJP) , 243 , 56 240 22 187 , 28 243 1 28 72 - Chandrayaan-3: , 121 , 40 23 (1 -28 ) 169 , 2021 52, 2020 31, 2019 40 2018 \u2026 [+1 chars]",
-      "retrievedAt": "2023-08-01 19:05:08.525990",
-      "internal_id": "bd38e73fb3e712d46a8d1163c88853220788a70901f5b7a11d9fa7ea00442ac9",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 798,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Scientific American",
-      "author": "Meghan Bartels",
-      "title": "Mosquitoes Carry Nasty Diseases. Here's How to Protect Yourself",
-      "description": "Malaria grabs headlines, but U.S. residents are more likely to encounter West Nile virus and other mosquito-borne illnesses",
-      "url": "https://www.scientificamerican.com/article/mosquitoes-carry-nasty-diseases-heres-how-to-protect-yourself/",
-      "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/1E3F7AAF-A0CD-426A-8B39169EEFBFCB2F.jpg",
-      "publishedAt": "2023-07-31 11:30:00",
-      "content": "A mosquito bite is usually just an itchy annoyance\u2014but sometimes it can lead to serious illness. That\u2019s because mosquitoes can carry a range of microbes that infect humans, including four species of\u2026 [+10988 chars]",
-      "retrievedAt": "2023-08-01 19:05:09.086139",
-      "internal_id": "f6f4dd8405ccdd924ed0e21dd92329bd1639ac4d22569ee5a984616c6618ade3",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 797,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infection goes unchecked in Morang",
-      "description": "BIRATNAGAR: Dengue infection continues to spread in Morang district. According to the district health office in Biratnagar, 865 dengue cases have been detected as of now from June 16. The cases include 650 in Pathari Shanishchare Municipality alone. Out of th\u2026",
-      "url": "https://english.khabarhub.com/2023/31/312731/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-07-31 11:15:51",
-      "content": "BIRATNAGAR: Dengue infection continues to spread in Morang district. According to the district health office in Biratnagar, 865 dengue cases have been detected as of now from June 16. The cases inc\u2026 [+881 chars]",
-      "retrievedAt": "2023-08-01 19:05:08.532472",
-      "internal_id": "7cdc4768c3b4251db04a4ee0e42467bed4d56309d6f1225eb108f54dd7425dc4",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 786,
-      "query": [
-        "measles"
-      ],
-      "source_id": "independent",
-      "source_name": "Independent",
-      "author": "William Mata",
-      "title": "Scientists fear \u2018tinder box effect\u2019 could spread measles in under-vaccinated London",
-      "description": "Helen Bedford, a professor of children\u2019s health at University College London, has said vaccine uptake needs to be higher to contain such diseases",
-      "url": "https://www.independent.co.uk/news/health/scientists-london-measles-vaccinated-symptoms-b2384869.html",
-      "urlToImage": "https://static.independent.co.uk/2023/07/14/14/2942226bbe3a24e9938431dc151e45e1Y29udGVudHNlYXJjaGFwaSwxNjg5NDI2OTM3-2.72014229.jpg?quality=75&width=1200&auto=webp",
-      "publishedAt": "2023-07-31 11:03:15",
-      "content": "Sign up for our free Health Check email to receive exclusive analysis on the week in health Get our free Health Check email People rejecting vaccinations could be one of the reasons behind why Lond\u2026 [+2729 chars]",
-      "retrievedAt": "2023-08-01 19:05:08.145946",
-      "internal_id": "848022e5ff9f1a3a9922cb956ed15168ff625c92cedb338b3c777eb8e8659425",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 807,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": "Jornal i",
-      "title": "DGS. Novo surto de mpox com 49 casos em Portugal",
-      "description": "No total j\u00e1 foram diagnosticados com a infe\u00e7\u00e3o mais de mil homens. &etilde;",
-      "url": "https://ionline.sapo.pt/artigo/804055/dgs-novo-surto-de-mpox-com-49-casos-em-portugal?seccao=Portugal_i",
-      "urlToImage": "https://cdn1.newsplex.pt/media/2023/7/31/fb/856887.jpg",
-      "publishedAt": "2023-07-31 11:00:16",
-      "content": "A Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS) revelou que desde junho foram detetados 49 novos casos de infe\u00e7\u00e3o pelo v\u00edrus mpox, num novo surto da doen\u00e7a no pa\u00eds, entre 1 de junho e 28 de julho, a maioria das infe\u00e7\u2026 [+1105 chars]",
-      "retrievedAt": "2023-08-01 19:05:09.942394",
-      "internal_id": "7739ef52cc05224f3b6da99fda96689635f654d09f5bccca1ed45832be9d7a28",
-      "publishedAtLabel": "Jul 31"
-    },
-    {
-      "id": 804,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Mpox. 49 casos detetados desde 1 de junho, ulrapassando 1.000 casos em Portugal",
-      "description": "O atual surto de mpox \"caracteriza-se por uma estirpe diferente do de 2022, refletindo a reintrodu\u00e7\u00e3o do v\u00edrus no grupo de maior risco em Portugal\", adiantou a Dire\u00e7\u00e3o-Geral da Sa\u00fade.",
-      "url": "https://observador.pt/2023/07/31/mpox-49-casos-detetados-desde-1-de-junho-ulrapassando-1-000-casos-em-portugal/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A770%3A433%3Anowe%3A0%3A89%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F07%2F31112244%2Frfejbref.jpg",
-      "publishedAt": "2023-07-31 10:42:59",
-      "content": "Quarenta e nove casos de mpox foram detetados em Portugal, entre 1 de junho e 28 de julho, resultantes de um novo surto, segundo dados divulgados pela Dire\u00e7\u00e3o-Geral da Sa\u00fade. Este novo surto caracte\u2026 [+1676 chars]",
-      "retrievedAt": "2023-08-01 19:05:09.935736",
-      "internal_id": "94a18cf7e1938255e48a4f197121567d6342d6e907f44ef876953d953b8061fe",
       "publishedAtLabel": "Jul 31"
     }
   ]
