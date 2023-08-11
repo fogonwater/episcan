@@ -1,8 +1,116 @@
 {
-  "last_updated": "2023-08-11 07:05",
+  "last_updated": "2023-08-11 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 1019,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Guardian",
+      "author": "Ajit Niranjan European environment correspondent",
+      "title": "Return of El Ni\u00f1o raises risk of hunger, drought and malaria, scientists warn",
+      "description": "Hot natural weather pattern will exacerbate heat-related dangers brought about by climate crisisThe return of El Ni\u00f1o against the backdrop of the climate crisis will hurt people\u2019s health in many parts of the world, scientists have warned.The hot natural weath\u2026",
+      "url": "https://www.theguardian.com/environment/2023/aug/10/return-of-el-nino-raises-risk-of-hunger-drought-and-malaria-scientists-warn",
+      "urlToImage": "https://i.guim.co.uk/img/media/d47d2ef95ff225c77540982a2a18eed077ae50a0/0_111_3306_1984/master/3306.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4622c78ad2acb64d57eca7b098dc626",
+      "publishedAt": "2023-08-10 17:54:28",
+      "content": "The return of El Ni\u00f1o against the backdrop of the climate crisis will hurt peoples health in many parts of the world, scientists have warned. The hot natural weather pattern is back after three year\u2026 [+3288 chars]",
+      "retrievedAt": "2023-08-11 19:05:21.737404",
+      "internal_id": "f7e78546ee963875edd90418a8f7c626eee1f4e247ec398ba5d9274421f330c1",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 1018,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Dengue : Imminent saline shortage feared as demand jumps over 1,000pc",
+      "description": "As the dengue onslaught continues, demand for liquid saline in hospitals has increased exponentially, reaching 10-12 times (over 1000%) the usual requirement, leading authorities to fear an imminent shortage in supply. Several medical institutions in Dhaka, i\u2026",
+      "url": "https://sylhetmirror.com/2023/08/10/dengue-imminent-saline-shortage-feared-as-demand-jumps-over-1000pc/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/derefvrvb.jpg",
+      "publishedAt": "2023-08-10 14:14:22",
+      "content": "As the dengue onslaught continues, demand for liquid saline in hospitals has increased exponentially, reaching 10-12 times (over 1000%) the usual requirement, leading authorities to fear an imminent \u2026 [+2995 chars]",
+      "retrievedAt": "2023-08-11 19:05:20.868691",
+      "internal_id": "dbdb3294ea8306642e5b5feb7f31620f3216d16a6075505c30f6e28095d85427",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 1022,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": null,
+      "title": "Guidance: Malaria RL: reference, diagnostic and advisory services",
+      "description": "The malaria reference laboratory provides reference and diagnostic parasitology of malaria, with surveillance of all imported malaria reported in the UK.",
+      "url": "https://www.gov.uk/guidance/mrl-reference-diagnostic-and-advisory-services",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+      "publishedAt": "2023-08-10 14:02:41",
+      "content": "We no longer use a fax service. Do not attempt to fax information to the laboratory. Fax details will be removed from referral forms and handbooks at next review. The malaria reference laboratory (M\u2026 [+1985 chars]",
+      "retrievedAt": "2023-08-11 19:05:21.746963",
+      "internal_id": "815f8e4e0a749567e4378087dd892aa8e00bea5eadf2653221ea995065c7b68e",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 1020,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Juergen Eckhardt, Contributor, \n Juergen Eckhardt, Contributor\n https://www.forbes.com/sites/juergeneckhardt/",
+      "title": "The Critical Fix We Need To Rebuild Our Broken Antibiotic Pipeline",
+      "description": "Superbug infections kill more people now than HIV/AIDS or malaria. We need new antibiotics and other drugs, but developers lack incentives. A new policy could fix that.",
+      "url": "https://www.forbes.com/sites/juergeneckhardt/2023/08/10/the-most-meaningful-fix-we-need-to-rebuild-our-broken-antibiotic-pipeline/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d3dee7c76b6e892dd9d11d/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-08-10 13:00:00",
+      "content": "Drug-resistant microbes now claim the lives of more people around the world than either HIV/AIDS or ... [+] malaria. getty Recently, a Ukrainian soldier in his 50s suffered terrible burns in a vehi\u2026 [+11507 chars]",
+      "retrievedAt": "2023-08-11 19:05:21.740241",
+      "internal_id": "191bcd7ee7f4f8363c7f5944b68f1781e41eb4750b8934e4893e0fb180858706",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 1021,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Ocean Biomedical, Inc.",
+      "title": "Ocean Biomedical (NASDAQ: OCEA) Provides Latest Updates on its Broad Programs in Malaria, Fibrosis, and Multiple Cancers",
+      "description": "Ocean Biomedical will host a Research and Development Day, Live Q&A with Scientific Co-founders, Dr. Jack A. Elias, MD and Dr. Jonathan Kurtis, MD, PhD on September 14, 2023",
+      "url": "https://www.globenewswire.com/news-release/2023/08/10/2722637/0/en/Ocean-Biomedical-NASDAQ-OCEA-Provides-Latest-Updates-on-its-Broad-Programs-in-Malaria-Fibrosis-and-Multiple-Cancers.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
+      "publishedAt": "2023-08-10 12:01:00",
+      "content": "Ocean Biomedical will host a Research and Development Day, Live Q&amp;A with Scientific Co-founders, Dr. Jack A. Elias, MD and Dr. Jonathan Kurtis, MD, PhD on September 14, 2023 Providence, RI, Aug\u2026 [+12090 chars]",
+      "retrievedAt": "2023-08-11 19:05:21.744507",
+      "internal_id": "949e5c279302ef4c26c03bf82c42146b41afe601902cc9293acc432e90c6326b",
+      "publishedAtLabel": "Aug 10"
+    },
+    {
+      "id": 1023,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "epoxyowner8",
+      "title": "Discovering Prospects With Dementia (Part A,B,C ..",
+      "description": "Professor June Andrews from the university's dementia unit, shows Lorna Gordon how properties could be designed to assist individuals with the illness. They weren't in a position to confirm whether or not it was leptospirosis, which is typically contracted fr\u2026",
+      "url": "https://slashdot.org/submission/17285296/discovering-prospects-with-dementia-part-abc-",
+      "urlToImage": null,
+      "publishedAt": "2023-08-10 08:45:48",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-08-11 19:05:23.582114",
+      "internal_id": "f0d55702d1c076df337026753d02a551822c9c9c1b25dcb7a2317da4e5278d02",
+      "publishedAtLabel": "Aug 10"
+    },
     {
       "id": 1009,
       "query": [
@@ -3504,114 +3612,6 @@
       "content": ": 20 3 , , , 20 3 , , , , . 21 , -1 27 , . 29 , 150000 30 6:38 31 - Navbharat Times News App: - , , , , -... NBT , ... !Adv: 40% , , BJP - , 20 \u2026 [+247 chars]",
       "retrievedAt": "2023-08-02 19:05:23.051603",
       "internal_id": "1c4b3dbe78b44423bdbd3b320f6023cd902763ab1790d3be067e2332edc03dd6",
-      "publishedAtLabel": "Aug 1"
-    },
-    {
-      "id": 823,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "info@who.int (WHO)",
-      "title": "Africa: WHO Launches 'One Life, One Liver' Campaign On World Hepatitis Day",
-      "description": "Press Release - To mark World Hepatitis Day, WHO is calling for scaling up testing and treatment for viral hepatitis, warning that the disease could kill more people than malaria, tuberculosis, and HIV combined by 2040, if current infection trends continue.",
-      "url": "https://allafrica.com/stories/202308010526.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-08-01 15:29:51",
-      "content": "To mark World Hepatitis Day, WHO is calling for scaling up testing and treatment for viral hepatitis, warning that the disease could kill more people than malaria, tuberculosis, and HIV combined by 2\u2026 [+4430 chars]",
-      "retrievedAt": "2023-08-02 19:05:23.739902",
-      "internal_id": "da8751bcfb1d31065c08b2170044e70f9c967c60ffe4f1363941a43e1ec47be7",
-      "publishedAtLabel": "Aug 1"
-    },
-    {
-      "id": 820,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09ac\u09bf\u098f\u09b8\u098f\u09ae\u098f\u09ae\u0987\u0989\u09a4\u09c7 \u09ad\u09cb\u0997\u09be\u09a8\u09cd\u09a4\u09bf \u0995\u09ae\u09be\u09a4\u09c7 \u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u099a\u09be\u09b2\u09c1",
-      "description": "\u09ac\u09bf\u098f\u09b8\u098f\u09ae\u098f\u09ae\u0987\u0989\u09a4\u09c7 \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be \u09a8\u09bf\u09a4\u09c7 \u0986\u09b0 \u09b8\u0995\u09be\u09b2\u09c7 \u098f\u09b8\u09c7 \u09b2\u09be\u0987\u09a8\u09c7 \u09a6\u09be\u0981\u09dc\u09bf\u09df\u09c7 \u09ad\u09bf\u09dc\u09c7\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u099f\u09bf\u0995\u09c7\u099f \u0995\u09be\u099f\u09a4\u09c7 \u09b9\u09ac\u09c7 \u09a8\u09be\u0964",
-      "url": "https://bangla.thedailystar.net/health/health-care/hospital/news-501821",
-      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/08/01/untitled_design_-_2023-08-01t195048.966.png",
-      "publishedAt": "2023-08-01 13:53:47",
-      "content": "Ten more dengue patients have died and 2,584 others have been hospitalised in 24 hours preceding this morning",
-      "retrievedAt": "2023-08-02 19:05:23.061181",
-      "internal_id": "34fcff4cb836edb17ac8ae140b55e45590fa06a3a80f558245832d7dd93d819c",
-      "publishedAtLabel": "Aug 1"
-    },
-    {
-      "id": 812,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Telegraph.co.uk",
-      "author": "Sarah Newey",
-      "title": "How surging \u2018breakbone fever\u2019 threatens mothers and their unborn babies",
-      "description": "Emerging research finds the disease can have fatal consequences or lifelong complications for both mothers and their unborn children",
-      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/dengue-breakbone-fever-pregnancy-risk-mosquitos/",
-      "urlToImage": "https://www.telegraph.co.uk/content/dam/global-health/2023/08/01/TELEMMGLPICT000342390439_16908821561210_trans_NvBQzQNjv4BqFYpEU5v-3t5SBAaEIdSmlBBVvBxOsWcvndpfMlDIAzo.jpeg?impolicy=logo-overlay",
-      "publishedAt": "2023-08-01 13:27:07",
-      "content": "More infections, more complications Dengue, also known as breakbone fever because intense muscle pain is one of the symptoms, is a mosquito-borne virus common across much of Asia, Latin America and \u2026 [+3043 chars]",
-      "retrievedAt": "2023-08-02 19:05:23.041142",
-      "internal_id": "3860b34723177f63339225e53127ae4c709a113372087232d7378c98d557e088",
-      "publishedAtLabel": "Aug 1"
-    },
-    {
-      "id": 814,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": null,
-      "title": "",
-      "description": "Lista soma mais de 40 tipos de an\u00e1lises, incluindo colesterol, hepatite, vitamina D, HIV, dengue, urina e fezes...",
-      "url": "https://www.band.uol.com.br/radio-bandeirantes/noticias/farmacias-agora-podem-fazer-exames-de-analises-clinicas-saiba-mais-16621051",
-      "urlToImage": "https://img.band.uol.com.br/image/2023/03/14/exame-de-sangue-17850.jpg",
-      "publishedAt": "2023-08-01 13:07:55",
-      "content": "A lista soma mais de 40 tipos de an\u00e1lises, incluindo colesterol, hepatite, vitamina D, HIV, dengue, urina e fezes. Para realizar os exames, \u00e9 preciso que a farm\u00e1cia tenha uma sala pr\u00f3pria e profissio\u2026 [+31 chars]",
-      "retrievedAt": "2023-08-02 19:05:23.047016",
-      "internal_id": "1d16ff2a2f0eb55c856ae67bd277c67ce94cb58c07ae837c6877d5ee6da537d8",
-      "publishedAtLabel": "Aug 1"
-    },
-    {
-      "id": 824,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Thechronicle.com.gh",
-      "author": "admin",
-      "title": "House of Reps committee to amend existing laws in fight against HIV/Aids, Malaria",
-      "description": "The House of Representatives Committee on HIV, Aids, Tuberculosis and Malaria has pledged to make necessary amendments to existing laws to ensure the fight against Malaria, HIV/Aids and Tuberculosis is enhanced. The Chairman of the Committee, Amobi Ogah state\u2026",
-      "url": "https://thechronicle.com.gh/house-of-reps-committee-to-amend-existing-laws-in-fight-against-hiv-aids-malaria/",
-      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2022/01/Untitled-design-5-6.jpg",
-      "publishedAt": "2023-08-01 12:54:13",
-      "content": "The House of Representatives Committee on HIV, Aids, Tuberculosis and Malaria has pledged to make necessary amendments to existing laws to ensure the fight against Malaria, HIV/Aids and Tuberculosis \u2026 [+1647 chars]",
-      "retrievedAt": "2023-08-02 19:05:23.743002",
-      "internal_id": "0dcb3cdc05af3c5a84162e0be828a23b5cc11e5533429757e964a0b843483db4",
-      "publishedAtLabel": "Aug 1"
-    },
-    {
-      "id": 815,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Farm\u00e1cias habilitadas podem realizar exames cl\u00ednicos",
-      "description": "Com a mudan\u00e7a, a lista de exames cl\u00ednicos para triagem passa de mais de 40 tipos, como o do ant\u00edgeno NS1 para triagem da dengue, por exemplo",
-      "url": "https://jornaldebrasilia.com.br/noticias/saude/farmacias-habilitadas-podem-realizar-exames-clinicos/",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/05/11085957/Farmacia_UBS_7_Foto-Agencia-Brasilia_2-1536x1152-1.jpeg",
-      "publishedAt": "2023-08-01 12:17:12",
-      "content": "Farm\u00e1cias agora est\u00e3o autorizadas a realizar coletas, exames e an\u00e1lises para o diagn\u00f3stico de doen\u00e7as. A resolu\u00e7\u00e3o que atualiza as normas entrou em vigor nesta ter\u00e7a-feira (1\u00ba). Entre as principais m\u2026 [+2751 chars]",
-      "retrievedAt": "2023-08-02 19:05:23.049576",
-      "internal_id": "e06d99df871e6f049532777f7053e2689079b9d482c04ae80c7a5f6c349d026c",
       "publishedAtLabel": "Aug 1"
     }
   ]
