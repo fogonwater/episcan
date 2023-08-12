@@ -1,8 +1,172 @@
 {
-  "last_updated": "2023-08-11 19:05",
+  "last_updated": "2023-08-12 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 1026,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JULHAS ALAM Associated Press",
+      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year and infections rise",
+      "description": "Bangladesh is recording a higher number of casualties and infections from dengue as more than 360 people have died this year and infections of the mosquito-borne illness rise",
+      "url": "https://abcnews.go.com/Health/wireStory/dengue-outbreak-bangladesh-sparks-alarm-after-364-people-102189307",
+      "urlToImage": "https://s.abcnews.com/images/International/wirestory_0b3cfcac3ba88ab57365bdf77eb6eb82_12x5_992.jpg",
+      "publishedAt": "2023-08-11 06:47:09",
+      "content": "DHAKA,Bangladesh -- Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The gove\u2026 [+3530 chars]",
+      "retrievedAt": "2023-08-12 07:05:29.008736",
+      "internal_id": "1ee8ba91fc7615299ce7202a86d406a062bdae47089fe5621fa20e6686b80f7c",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1030,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u099f\u0999\u09cd\u0997\u09c0\u09a4\u09c7 \u099f\u09cd\u09b0\u09c7\u09a8\u09c7 \u09a1\u09be\u0995\u09be\u09a4\u09bf\u09b0 \u0998\u099f\u09a8\u09be\u09df \u0986\u099f\u0995 \u09ef",
+      "description": "\u099f\u0999\u09cd\u0997\u09c0\u09a4\u09c7 \u099f\u09cd\u09b0\u09c7\u09a8\u09c7 \u09a1\u09be\u0995\u09be\u09a4\u09bf\u09b0 \u0998\u099f\u09a8\u09be\u09df \u0986\u099f\u0995 \u09efthedailystar.net",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-504466",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/11/train.jpg?itok=EZp12EI5",
+      "publishedAt": "2023-08-11 06:44:25",
+      "content": "With her health improving, two-year-old Mayamanat Islam Sadia was spending her time playing with a balloon on her bed at the dengue ward of Mugda Medical College and Hospital.",
+      "retrievedAt": "2023-08-12 07:05:29.027034",
+      "internal_id": "baf9d6c061aa037c58c12910ff01222cfe1ab9788edfa85940f981a5f778613b",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1024,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JULHAS ALAM Associated Press",
+      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year and infections rise",
+      "description": "Bangladesh is recording a higher number of casualties and infections from dengue as more than 360 people have died this year and infections of the mosquito-borne illness rise",
+      "url": "https://abcnews.go.com/International/wireStory/dengue-outbreak-bangladesh-sparks-alarm-after-364-people-102189306",
+      "urlToImage": "https://s.abcnews.com/images/International/wirestory_0b3cfcac3ba88ab57365bdf77eb6eb82_12x5_992.jpg",
+      "publishedAt": "2023-08-11 06:38:31",
+      "content": "DHAKA,Bangladesh -- Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The gove\u2026 [+3530 chars]",
+      "retrievedAt": "2023-08-12 07:05:28.998921",
+      "internal_id": "56f96c2b491ce939218b6a9b0aea46a85e0bd2c97d2fc7c83f44a1781b1380b6",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1029,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By JULHAS ALAM, Associated Press",
+      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year and infections rise",
+      "description": "Bangladesh is recording a higher number of casualties and infections from dengue as more than 360 people have died this year and infections of the mosquito-borne illness rise. Experts say August could be deadlier, due to intermittent rains when mosquitoes gro\u2026",
+      "url": "https://www.seattlepi.com/news/world/article/dengue-outbreak-in-bangladesh-sparks-alarm-after-18290915.php",
+      "urlToImage": "https://www.seattlepi.com/img/pages/article/opengraph_default.jpg",
+      "publishedAt": "2023-08-11 06:36:16",
+      "content": "A child is carried by his mother as he receives treatment for dengue at Mugda Medical College and Hospital in Dhaka, Bangladesh, Thursday, Aug. 10, 2023. A woman suffering from dengue receives treat\u2026 [+5427 chars]",
+      "retrievedAt": "2023-08-12 07:05:29.020491",
+      "internal_id": "7c0e24a73d7744331e34dee4e9cef9fb83f489cca00cb5d7cd48b5f4bd116898",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1027,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "independent",
+      "source_name": "Independent",
+      "author": "Julhas Alam",
+      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year and infections rise",
+      "description": "Bangladesh is recording a higher number of casualties and infections from dengue as more than 360 people have died this year and infections of the mosquito-borne illness rise",
+      "url": "https://www.independent.co.uk/news/ap-dhaka-bangladesh-people-asian-b2391351.html",
+      "urlToImage": "https://static.independent.co.uk/2023/08/11/07/Bangladesh_Dengue_59976.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-08-11 06:26:29",
+      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Bangladesh is struggling to deal with higher casualt\u2026 [+3657 chars]",
+      "retrievedAt": "2023-08-12 07:05:29.012149",
+      "internal_id": "a4b178c3573867cc230b8d9499835da72c7d22abfdaac835fca6e9e612b0031f",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1028,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Peter Amenda und Tatjana Kaa",
+      "title": "Sie k\u00f6nnen Dengue-Viren \u00fcbertragen - Den Stich einer Tigerm\u00fccke merkt man kaum",
+      "description": "Diese gef\u00e4hrlichen Viren \u00fcbertr\u00e4gt die Tigerm\u00fccke \u2013 und diese nicht. Foto: picture alliance / dpa",
+      "url": "https://www.bild.de/news/inland/news-inland/tigermuecken-koennen-dengue-viren-uebertragen-den-stich-merkt-man-kaum-85006274.bild.html",
+      "urlToImage": "https://images.bild.de/64d4e02e8a21ea67b71294fe/2ea6a19326c2dbaec8c74e955e461c9f,bec4adbe?w=1280",
+      "publishedAt": "2023-08-11 06:00:04",
+      "content": "Deutschland zittert vor der Tigerm\u00fccke. In s\u00fcdlichen L\u00e4ndern \u00fcbertr\u00e4gt sie schon jetzt gef\u00e4hrliche Viren, die Tropenkrankheiten wie Dengue- oder West-Nil-Fieber oder Zika ausl\u00f6sen k\u00f6nnen. Und bei uns\u2026 [+2923 chars]",
+      "retrievedAt": "2023-08-12 07:05:29.016893",
+      "internal_id": "a2cbfef94c8f5a34d8b987ec8732bb877acbe0bc6f5c08ce33328b8d3dca8655",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1031,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "One succumbs to dengue fever in Chitwan",
+      "description": "CHITWAN: A 41-year-old man from Hetauda Sub-Metropolitan City-12 died of dengue fever while receiving treatment at Chitwan Medical College. According to Information Officer at Health Office Ram KC, the patient died on Thursday in the course of his treatment s\u2026",
+      "url": "https://english.khabarhub.com/2023/11/314104/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-08-11 05:50:00",
+      "content": "CHITWAN: A 41-year-old man from Hetauda Sub-Metropolitan City-12 died of dengue fever while receiving treatment at Chitwan Medical College. According to Information Officer at Health Office Ram KC, \u2026 [+267 chars]",
+      "retrievedAt": "2023-08-12 07:05:29.031019",
+      "internal_id": "f1b227f9e90894100bf9b0c293f1dff2062984345b97c4cd093e78959ca21d43",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1032,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Starobserver.com.au",
+      "author": "Douglas Magaletti",
+      "title": "NSW Health Issues Health Alert After Two Local Mpox Cases",
+      "description": "NSW Health has issued an alert after two new cases of Mpox were reported in the state. In a statement posted to social media, NSW Health said, \u201cTwo new cases of Mpox (monkeypox) have been notified in NSW since 4 August, bringing the total cases to 63 since Ma\u2026",
+      "url": "https://www.starobserver.com.au/news/national-news/new-south-wales-news/nsw-health-issues-health-alert-after-two-local-mpox-cases/225594",
+      "urlToImage": "https://www.starobserver.com.au/wp-content/uploads/2023/08/mpox-2.jpg",
+      "publishedAt": "2023-08-11 03:22:18",
+      "content": "NSW Health has issued an alert after two new cases of Mpox were reported in the state. In a statement posted to social media, NSW Health said, Two new cases of Mpox (monkeypox) have been notified i\u2026 [+1918 chars]",
+      "retrievedAt": "2023-08-12 07:05:30.949145",
+      "internal_id": "244c3f9cc3a2ad43b16dda72b4c20e1d0f9175bef5abb5ab875d229e48d16134",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1025,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Publico.es",
+      "author": "Agencia Atlas",
+      "title": "El calor lleva el mosquito tigre a Galicia",
+      "description": "Los vecinos de Moa\u00f1a est\u00e1n preocupados por los ocho ejemplares de mosquito tigre que pueden transmitir peligrosas enfermedades, como en dengue o el zika, aunque tras analizarlos la Xunta de Galicia asegura que ninguno es portador de estos virus tropicales. El\u2026",
+      "url": "https://www.publico.es/videos/1066223/el-calor-lleva-el-mosquito-tigre-a-galicia",
+      "urlToImage": "https://ficheracos.publico.es//images/thumbnails/2023/230810AGEWEB-10AG017HQ.jpg",
+      "publishedAt": "2023-08-10 19:40:21",
+      "content": "Los vecinos de Moa\u00f1a est\u00e1n preocupados por los ocho ejemplares de mosquito tigre que pueden transmitir peligrosas enfermedades, como en dengue o el zika, aunque tras analizarlos la Xunta de Galicia a\u2026 [+493 chars]",
+      "retrievedAt": "2023-08-12 07:05:29.005876",
+      "internal_id": "9cab8c3f35ece0849ff8d62bf2583ccf0cb18c170239e51923ff70f42594df3b",
+      "publishedAtLabel": "Aug 10"
+    },
     {
       "id": 1019,
       "query": [
@@ -3447,172 +3611,6 @@
       "retrievedAt": "2023-08-03 07:05:39.261954",
       "internal_id": "177ef9dc9922abf316a35f53fef096be4162c1f76e1fbbc12abaf18fc1b99443",
       "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 831,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "India.com",
-      "author": "Shivendra Singh",
-      "title": "Dengue: \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092e\u093f\u0932\u093e \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0938\u092c\u0938\u0947 \u0916\u0924\u0930\u0928\u093e\u0915 \u0938\u094d\u091f\u094d\u0930\u0947\u0928, \u092d\u092f\u093e\u0928\u0915 \u0939\u094b \u0938\u0915\u0924\u0940 \u0939\u0948 \u0938\u094d\u0925\u093f\u0924\u093f!",
-      "description": "Dengue cases in Delhi: \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u091a\u093e\u0930 (\u0921\u0947\u0928-1, \u0921\u0947\u0928-2, \u0921\u0947\u0928-3 \u0914\u0930 \u0921\u0947\u0928-4) \u0905\u0932\u0917-\u0905\u0932\u0917 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902, \u091c\u093f\u0938\u092e\u0947\u0902 \u0938\u0947 \u0921\u0947\u0928-2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0916\u0924\u0930\u0928\u093e\u0915 \u0939\u094b\u0924\u093e \u0939\u0948. \u091c\u093e\u0902\u091a \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092d\u0940 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0921\u0947\u0928-2 \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0939\u0941\u0908 \u0939\u0948.",
-      "url": "https://zeenews.india.com/hindi/health/dengue-dangerous-strain-den-2-found-in-delhi-situation-can-be-situation-can-be-dire-in-ncr-region/1806283",
-      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/08/02/2009810-dengue-cases-in-delhi-1.jpg",
-      "publishedAt": "2023-08-02 05:55:02",
-      "content": "Dengue in Delhi: (dengue cases) . . , . (-1, -2, -3 -4) - , -2 . -2 . . -1 -3 , -2 . , -4 . , , , , , . . . , . , , . , . -2 . . 2-3 , . 2-3 , . (Disclaimer: . . ZEE NEWS .)",
-      "retrievedAt": "2023-08-03 07:05:39.257609",
-      "internal_id": "ea4ffbd3701c879919d0c91dded1eea5fd1b82daac9cbb8c86c6647a3f415793",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 833,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nation.africa",
-      "author": "Leon Lidigu",
-      "title": "Mosquitoes are migrating and that could mean more malaria",
-      "description": "Mosquitoes are migrating and that could mean more malarianation.africa",
-      "url": "https://nation.africa/kenya/health/mosquitoes-are-migrating-and-that-could-mean-more-malaria-4321838",
-      "urlToImage": "https://nation.africa/resource/image/3854296/landscape_ratio3x2/1200/800/b1e79877aa08988eea832e9262b24b68/gG/anopheles.jpg",
-      "publishedAt": "2023-08-02 05:10:46",
-      "content": "Scientists are worried that people living in areas once inhospitable to mosquitoes in Eastern Africa countries such as Kenya, Tanzania and Ethiopia could be newly exposed to malaria. This is after \u2026 [+3895 chars]",
-      "retrievedAt": "2023-08-03 07:05:40.009250",
-      "internal_id": "c4fbbdd21c7f5a1309592588dacc50c37c3b0457b3cf763f3881baecd7bd5732",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 827,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
-      "title": "Dengue e West Nile: ecco come sono arrivate anche da noi",
-      "description": "I cambiamenti climatici portano anche in Italia insetti tropicali come la zanzara egiziana e virus dall'Oriente. Con il rischio di diffusione di Zika, Dengue, Chikungunya e febbre gialla",
-      "url": "https://www.repubblica.it/salute/2023/08/02/news/zanzara_west_nile_dengue_insetti_virus-409707522/",
-      "urlToImage": "https://www.repstatic.it/content/contenthub/img/2023/08/01/133258822-50d54ff2-a11a-4755-891f-8423612e300d.jpg",
-      "publishedAt": "2023-08-02 05:05:38",
-      "content": "Il caldo estremo \u00e8 un'autostrada per gli insetti tropicali, che a loro volta sono il veicolo numero uno di virus che per noi sono nuovi, mentre dall'altra parte del pianeta sono una costante. Non las\u2026 [+173 chars]",
-      "retrievedAt": "2023-08-03 07:05:39.233141",
-      "internal_id": "51f9b0d37ca93258e004113c91224304b0e20763985aaafb27c6c6a05d10eb5b",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 830,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ANI",
-      "title": "Delhi Govt is fully prepared to handle the rise in Malaria, Dengue cases, says Mayor Shelly Oberoi",
-      "description": "Delhi Mayor Shelly Oberoi on August 01 talked about the preparation of the government to handle the rise in Malaria cases in the national capital. Talking to ANI, Shelly Oberoi said, \u201cThis year monsoon broke the past 40 years\u2019 record in Delhi. Delhi witnessed\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/delhi-govt-is-fully-prepared-to-handle-the-rise-in-malaria-dengue-cases-says-mayor-shelly-oberoi/videoshow/102335350.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-102335350,width-1070,height-580,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-08-02 03:40:31",
-      "content": "Delhi Mayor Shelly Oberoi on August 01 talked about the preparation of the government to handle the rise in Malaria cases in the national capital. Talking to ANI, Shelly Oberoi said, This year monsoo\u2026 [+391 chars]",
-      "retrievedAt": "2023-08-03 07:05:39.252404",
-      "internal_id": "bb4dbd9b31a90240e95c46c8d8900daacdd35c1bf10d86df20cd23d22b95f793",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 828,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "Delving into the dangers of dengue: Recognising the red flags of infection",
-      "description": "An expert provides insights on identifying and managing dengue-related symptoms, and shares when to seek appropriate medical care.",
-      "url": "https://www.channelnewsasia.com/advertorial/delving-dangers-dengue-recognising-red-flags-infection-3625661",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--xJ-os_Kg--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/07/19/Bstudio_Haleon_lead_0.jpg?itok=Xo_gUJkT",
-      "publishedAt": "2023-08-02 00:20:17",
-      "content": "For individuals diagnosed with dengue and instructed to recover at home, Dr Rakesh recommends ample rest and drinking plenty of fluids to stay hydrated. Some people may reach for non-steroidal anti\u2026 [+2198 chars]",
-      "retrievedAt": "2023-08-03 07:05:39.242861",
-      "internal_id": "f86204990bda85992fbb840fd34d38a9e01ce7c2416e4e921455f3b180675c61",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 829,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Aristeguinoticias.com",
-      "author": "Redacci\u00f3n AN / AG",
-      "title": "Secretar\u00eda de Salud de Oaxaca acepta que us\u00f3 insecticida caducado contra dengue y zika",
-      "description": "Frente al gobernador de Oaxaca, Salom\u00f3n Jara Cruz, la titular de los SSO reconoci\u00f3 que los responsables de vectores usaron qu\u00edmicos caducados en zonas de riesgo de la entidad.",
-      "url": "https://aristeguinoticias.com/0108/mexico/secretaria-de-salud-de-oaxaca-acepta-que-uso-insecticida-caducado-contra-dengue-y-zika/",
-      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/08/secretaria-salud-oaxaca-alma-lilia-verlasco-hernandez-insecticida-caduco-dengue-zika-chikungunya-01082023.jpeg",
-      "publishedAt": "2023-08-02 00:19:33",
-      "content": "Por Diana Manzo. Oaxaca, Oax.- Tras una denuncia difundida en redes sociales, la secretaria de Servicios de Salud de Oaxaca (SSO), Alma Lilia Velasco Hern\u00e1ndez, confirm\u00f3 que usaron insecticida caduc\u2026 [+1725 chars]",
-      "retrievedAt": "2023-08-03 07:05:39.246593",
-      "internal_id": "eb233e389a5d58107f3b7e2454e92b65f6e5df7883ef8e8ca0e151a26ef4d43f",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 813,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Pedro Borges Spadoni",
-      "title": "Agora farm\u00e1cias podem fazer quase 50 tipos de testes; veja lista",
-      "description": "Entre os testes que est\u00e3o liberados nas farm\u00e1cias est\u00e3o dengue e hepatite; at\u00e9 ent\u00e3o, s\u00f3 dava para fazer testes de Covid e glicemia O post Agora farm\u00e1cias podem fazer quase 50 tipos de testes; veja lista apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/08/01/medicina-e-saude/agora-farmacias-podem-fazer-quase-50-tipos-de-testes/",
-      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/08/Destaque-testes-de-farmacia.jpg",
-      "publishedAt": "2023-08-01 17:40:58",
-      "content": "As farm\u00c3\u00a1cias poder\u00c3\u00a3o realizar pelo menos 46 tipos de EAC (exames de an\u00c3\u00a1lises cl\u00c3\u00adnicas) a partir desta ter\u00c3\u00a7a-feira (1\u00c2\u00b0). At\u00c3\u00a9 ent\u00c3\u00a3o, a Anvisa (Ag\u00c3\u00aancia Nacional de Vigil\u00c3\u00a2ncia Sanit\u00c3\u00a1ria) s\u00c3\u00b3 l\u2026 [+5282 chars]",
-      "retrievedAt": "2023-08-02 19:05:23.044072",
-      "internal_id": "15a5b661801015bc3cb5bca026c7bed8a8d4af5159329305407acb62ee91e600",
-      "publishedAtLabel": "Aug 1"
-    },
-    {
-      "id": 822,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dead mice and frozen blood labeled MALARIA: horrors in Cali lab - Daily Mail",
-      "description": "Dead mice and frozen blood labeled MALARIA: horrors in Cali lab Daily Mail Illegal lab in California carried bioengineered mice, infectious agents USA TODAY Mysterious Chinese Biolab Uncovered In California | Will The World Deman\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvaGVhbHRoL2FydGljbGUtMTIzNTg0NDcvRmlyc3QtcGhvdG9zLUNoaW5lc2UtcnVuLWxhYi1DYWxpZm9ybmlhLWV4cGVyaW1lbnRpbmctZGFuZ2Vyb3VzLXZpcnVzZXMtZW5naW5lZXJpbmctbWljZS5odG1s0gGVAWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9oZWFsdGgvYXJ0aWNsZS0xMjM1ODQ0Ny9hbXAvRmlyc3QtcGhvdG9zLUNoaW5lc2UtcnVuLWxhYi1DYWxpZm9ybmlhLWV4cGVyaW1lbnRpbmctZGFuZ2Vyb3VzLXZpcnVzZXMtZW5naW5lZXJpbmctbWljZS5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-01 17:06:04",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-02 19:05:23.734333",
-      "internal_id": "c8afdfea65f12edb37fe898c7edab893c1d44dc171edab3ad3eb380cc96bd4ed",
-      "publishedAtLabel": "Aug 1"
-    },
-    {
-      "id": 816,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0939\u0941\u0906 \u0916\u0924\u0930\u0928\u093e\u0915, \u0915\u093e\u0930\u094b\u092c\u093e\u0930\u0940 \u0915\u0947 \u092c\u0947\u091f\u0947 \u0906\u092f\u0941\u0937 \u0917\u094b\u092f\u0932 \u0915\u0940 \u092e\u094c\u0924",
-      "description": "Dengue News: \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u091c\u0939\u093e\u0902 \u092c\u093e\u0922\u093c \u0938\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u0930\u093e\u0939\u0924 \u092e\u093f\u0932\u0940 \u0924\u094b \u0935\u0939\u0940\u0902 \u0905\u092c \u0921\u0947\u0902\u0917\u0942 \u0915\u0940 \u0926\u0938\u094d\u0924\u0915 \u0928\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u0927\u0921\u093c\u0915\u0928\u0947\u0902 \u092c\u0922\u093c\u093e \u0926\u0940 \u0939\u0948\u0902\u0964 \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092e\u094c\u0924 \u0939\u094b \u0917\u0908 \u0939\u0948\u0964",
-      "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/businessman-son-ayush-goyal-dies-of-dengue-in-ghaziabad/articleshow/102327095.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-27124,msid-102327091/navbharat-times.jpg",
-      "publishedAt": "2023-08-01 16:44:18",
-      "content": ": 20 3 , , , 20 3 , , , , . 21 , -1 27 , . 29 , 150000 30 6:38 31 - Navbharat Times News App: - , , , , -... NBT , ... !Adv: 40% , , BJP - , 20 \u2026 [+247 chars]",
-      "retrievedAt": "2023-08-02 19:05:23.051603",
-      "internal_id": "1c4b3dbe78b44423bdbd3b320f6023cd902763ab1790d3be067e2332edc03dd6",
-      "publishedAtLabel": "Aug 1"
     }
   ]
 }
