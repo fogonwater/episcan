@@ -1,8 +1,314 @@
 {
-  "last_updated": "2023-08-12 07:05",
+  "last_updated": "2023-08-12 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 1039,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year and infections rise",
+      "description": "DHAKA, Bangladesh (AP): Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The government\u2019s Directorate General of Health Services reports th\u2026",
+      "url": "https://thehillstimes.in/international/dengue-outbreak-in-bangladesh-sparks-alarm-after-364-people-die-this-year-and-infections-rise",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/08/Anchor-9.jpg",
+      "publishedAt": "2023-08-11 19:00:33",
+      "content": "DHAKA, Bangladesh (AP): Bangladesh is struggling to deal with higher casualties and infections fromdengue this year, with officials warning that the death toll this month could break records.The gove\u2026 [+3156 chars]",
+      "retrievedAt": "2023-08-12 19:05:08.365219",
+      "internal_id": "f5d7c323db34549c1012e32772c03f2d79c6ef926239a187321611685c075561",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1038,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue, 69mila casi in Bangladesh. Oms: \"Ondata insolita\" - Adnkronos",
+      "description": "Dengue, 69mila casi in Bangladesh. Oms: \"Ondata insolita\" Adnkronos",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmFkbmtyb25vcy5jb20vaW50ZXJuYXppb25hbGUvZXN0ZXJpL2Rlbmd1ZS02OW1pbGEtY2FzaS1pbi1iYW5nbGFkZXNoLW9tcy1vbmRhdGEtaW5zb2xpdGFfNUxoV3dXdVRxQnFVYTl2Q0NvNWZOb9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-11 17:44:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-12 19:05:08.361183",
+      "internal_id": "7c1679669b6059dbc58d20435456b67ab3f507b0f63f1691560ba5b903c70ece",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1049,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Publico.pt",
+      "author": "publico@publico.pt",
+      "title": "Portugal registou mais casos de mpox no \u00faltimo m\u00eas do que o resto da Europa junta",
+      "description": "O surto identificado pela Direc\u00e7\u00e3o-Geral da Sa\u00fade no final de Julho \u00e9, para j\u00e1, caso isolado no continente europeu. A OMS alerta para a necessidade de vacinar as pessoas com maior risco de infec\u00e7\u00e3o.",
+      "url": "https://www.publico.pt/2023/08/11/ciencia/noticia/portugal-registou-casos-mpox-ultimo-mes-resto-europa-junta-2060017",
+      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1833871?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "publishedAt": "2023-08-11 17:41:34",
+      "content": "A subida de casos confirmados de mpox (v\u00edrus monkeypox, anteriormente conhecido como var\u00edola-dos-macacos) n\u00e3o \u00e9 muito significativa na Europa \u2013 com excep\u00e7\u00e3o \u00e0 regra para Portugal. Nas \u00faltimas quatro \u2026 [+492 chars]",
+      "retrievedAt": "2023-08-12 19:05:10.252138",
+      "internal_id": "6aeb563194dcff96f5755890618e6fa9e54d97615d636b5a95a95fcd550c4256",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1035,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Police Officer Dies Of Rabies 3 Months After Dog Bite",
+      "description": "A Assistant Sub-Inspector (ASI) of the Jammu and Kashmir Police died of rabies on Friday, three months after being bitten by a dog in Ramban district, an official said.",
+      "url": "https://www.ndtv.com/cities/police-officer-dies-of-rabies-3-months-after-dog-bite-4291295",
+      "urlToImage": "https://i.ndtvimg.com/i/2018-05/stray-dogs-generic_650x400_71525256961.jpg",
+      "publishedAt": "2023-08-11 17:40:55",
+      "content": "The cop was attacked by a stray dog while he was performing duty on May 11. (Representational) Banihal/Jammu: A Assistant Sub-Inspector (ASI) of the Jammu and Kashmir Police died of rabies on Friday\u2026 [+712 chars]",
+      "retrievedAt": "2023-08-12 19:05:07.600281",
+      "internal_id": "f6d9813965d2bb118905cd2b09b34abf94c42dc0ecbfe5496cb1a69410d2e1b1",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1044,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "Siguen las acciones para reducir los elevados casos de dengue en Bol\u00edvar",
+      "description": "Un mes ha pasado desde que se declar\u00f3 la Alerta Roja Hospitalaria en Bol\u00edvar. La medida fue adoptada por la Gobernaci\u00f3n del departamento debido al progresivo aumento de los casos de dengue en los distintos municipios, que hasta principios de julio contabiliza\u2026",
+      "url": "https://www.eluniversal.com.co/regional/bolivar/siguen-las-acciones-para-reducir-los-elevados-casos-de-dengue-en-bolivar-YK8783908",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/229c0/800d686/none/13704/XVES/dengue_8257340_20230811121130.jpg",
+      "publishedAt": "2023-08-11 17:21:07",
+      "content": "Un mes ha pasado desde que se declar\u00f3 la Alerta Roja Hospitalaria en Bol\u00edvar. La medida fue adoptada por la Gobernaci\u00f3n del departamento debido al progresivo aumento de los casos de dengue en los dis\u2026 [+3508 chars]",
+      "retrievedAt": "2023-08-12 19:05:08.376996",
+      "internal_id": "0fb80915aac61aea97b3c26f148304e1612cec80a3c07e9584ebd57eef8eb1a7",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1041,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+      "title": "Bologna, caso di dengue al Savena. Parte la disinfestazione, \u201ctenete chiuse le finestre di notte\u201d",
+      "description": "Ecco le vie interessate dall\u2019intervento di profilassi",
+      "url": "https://bologna.repubblica.it/cronaca/2023/08/11/news/bologna_dengue_savena-410793853/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-bologna/2023/08/11/180903161-0a4df1c8-fca6-4ad5-93af-a96c348b95ac.jpg",
+      "publishedAt": "2023-08-11 16:09:04",
+      "content": "BOLOGNA \u00c8 stato rilevato stamattina un caso importato di Dengue a Bologna, nel quartiere Savena. La dengue \u00e8 una malattia infettiva che normalmente ha un decorso benigno con una fase acuta che dura \u2026 [+1717 chars]",
+      "retrievedAt": "2023-08-12 19:05:08.369021",
+      "internal_id": "8caceabc1c62fda91baf4e116e68855d99cd0928f8461212596a00767c2ef767",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1036,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Live 5 News WCSC",
+      "author": "Patrick Phillips",
+      "title": "Health dept. confirms rabid bat in Charleston; 2 pets exposed",
+      "description": "The South Carolina Department of Health and Environmental Control confirmed two dogs were exposed to a bat that tested positive for rabies in downtown Charleston.",
+      "url": "https://www.live5news.com/2023/08/11/health-dept-confirms-rabid-bat-charleston-2-pets-exposed/",
+      "urlToImage": "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/8-KPHmXmVIh76Q6Kyp0YC2Kt6Hk=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/2SVB2NSYY5DBPLIWZWATCED4MQ.jpg",
+      "publishedAt": "2023-08-11 16:03:05",
+      "content": "CHARLESTON, S.C. (WCSC) - The South Carolina Department of Health and Environmental Control confirmed two dogs were exposed to a bat that tested positive for rabies in downtown Charleston. The bat w\u2026 [+2964 chars]",
+      "retrievedAt": "2023-08-12 19:05:07.602390",
+      "internal_id": "fea3aa4222850cd89a2beef8be70ea4cff2ebdc71fcb3c60c0e763a628914434",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1047,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Mosquito hearing could be targeted by insecticides",
+      "description": "Specific receptors in the ears of mosquitoes have been revealed to modulate their hearing, finds a new study. Scientists say, this discovery could help develop new insecticides and control the spread of harmful diseases, such as malaria.",
+      "url": "https://www.sciencedaily.com/releases/2023/08/230811115456.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-08-11 15:54:56",
+      "content": "Specific receptors in the ears of mosquitoes have been revealed to modulate their hearing, finds a new study led by researchers at UCL and University of Oldenburg. Scientists say, this discovery coul\u2026 [+2813 chars]",
+      "retrievedAt": "2023-08-12 19:05:09.489728",
+      "internal_id": "42bf2b5255c4f37e857d88ee572a2f51af4abfd9cc40e212cf15c98db1349763",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1046,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Malaria vaccine candidate appears safe and produces promising immune response in a cohort of Tanzanian infants",
+      "description": "An experimental malaria vaccine appears safe and promotes an immune response in African infants, one of the groups most vulnerable to severe malaria disease. There is currently only one malaria vaccine, 'RTS,S' that is approved by the World Health Organizatio\u2026",
+      "url": "https://www.sciencedaily.com/releases/2023/08/230811115433.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-08-11 15:54:33",
+      "content": "An experimental malaria vaccine appears safe and promotes an immune response in African infants, one of the groups most vulnerable to severe malaria disease. There is currently only one malaria vacci\u2026 [+4421 chars]",
+      "retrievedAt": "2023-08-12 19:05:09.488245",
+      "internal_id": "287c85c0e7e429cc43156c544eafd6db80848bf2404d9e533f2a0ac8b8c159fd",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1034,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Know the requirements for your pet's rabies vaccination",
+      "description": "Routine vaccinations are an essential part of your pet's veterinary care, and veterinarians typically guide owners on how often your pet needs which shots. In the case of rabies, however, owners may be asked by their veterinarian if they prefer a vaccine that\u2026",
+      "url": "https://phys.org/news/2023-08-requirements-pet-rabies-vaccination.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/pet-vaccination.jpg",
+      "publishedAt": "2023-08-11 15:50:01",
+      "content": "Routine vaccinations are an essential part of your pet's veterinary care, and veterinarians typically guide owners on how often your pet needs which shots. In the case of rabies, however, owners may \u2026 [+4058 chars]",
+      "retrievedAt": "2023-08-12 19:05:07.598629",
+      "internal_id": "de9b9c10951c109adb7c3657c7f672c0f4435355972e917339cc516b3d863ac7",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1033,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Pertussis (Whooping Cough) outbreak declared in Preeceville area - Saskatchewan Health Authority",
+      "description": "Pertussis (Whooping Cough) outbreak declared in Preeceville area Saskatchewan Health Authority",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNhc2toZWFsdGhhdXRob3JpdHkuY2EvbmV3cy1ldmVudHMvbmV3cy9wZXJ0dXNzaXMtd2hvb3BpbmctY291Z2gtb3V0YnJlYWstZGVjbGFyZWQtcHJlZWNldmlsbGUtYXJlYdIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-11 14:54:35",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-12 19:05:07.274466",
+      "internal_id": "428f4c8bc17e72486470e6b005a8cf41884f8e95979d33fcc974bf100d9ef94c",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1040,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Bangladesh grapples with record deadly outbreak of dengue fever; AP reports",
+      "description": "Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records.The government\u2019s Directorate General of Health Services reports the 2023 death toll from th\u2026",
+      "url": "https://economictimes.indiatimes.com/news/et-tv/bangladesh-grapples-with-record-deadly-outbreak-of-dengue-fever-ap-reports/videoshow/102651587.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-102651587,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-08-11 12:49:57",
+      "content": "Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records.The governments Directorate Gen\u2026 [+206 chars]",
+      "retrievedAt": "2023-08-12 19:05:08.367541",
+      "internal_id": "2af95976da100828e5485e56babc5c02741a437327cea67b7297323dab4c7d3d",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1042,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "WHO urges swift action as dengue cases surge in Bangladesh",
+      "description": "A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday, calling for efforts to control the mosquito vector population and minimize individual exposure such as using mosquito repellents and w\u2026",
+      "url": "https://news.un.org/en/story/2023/08/1139692",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-11-2019_IAEA_mosquito.jpg/image770x420cropped.jpg",
+      "publishedAt": "2023-08-11 12:00:00",
+      "content": "The outbreak, which escalated rapidly since late June, has seen a total of 69,483 confirmed cases and 327 related deaths between 1 January and 7 August, with a case fatality rate of 0.47 per cent, ac\u2026 [+3945 chars]",
+      "retrievedAt": "2023-08-12 19:05:08.371045",
+      "internal_id": "12a40ad3dd15f9fa323f6f720dcc56b86b49b5e6f4103d7ac941973c254db096",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1043,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Associated Press",
+      "title": "Death toll caused by Bangladesh dengue outbreak rises, may break records this month",
+      "description": "Bangladesh officials warn that the country's death toll caused by a dengue outbreak may break records this month. The mosquito-borne illness has caused 364 deaths this year.",
+      "url": "https://www.foxnews.com/world/death-toll-caused-bangladesh-dengue-outbreak-rises-may-break-records-month",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/kid-2.jpg",
+      "publishedAt": "2023-08-11 11:41:56",
+      "content": "Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The governments Directorate G\u2026 [+3694 chars]",
+      "retrievedAt": "2023-08-12 19:05:08.375309",
+      "internal_id": "32b46548ed217ca0b1137e267d66d2ff5794bb8e41cdee1bf205c6ebb32ce554",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1048,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "\u201eEl Nino\u201c beeinflusst Weltgesundheit",
+      "description": "Tropische Wirbelst\u00fcrme, starke Regenf\u00e4lle, schwere D\u00fcrren: Die extremen Wetterph\u00e4nomene, die mit \u201eEl Nino\u201c einhergehen, haben auch Einfluss auf die Gesundheit. Ernteausf\u00e4lle k\u00f6nnen die Ern\u00e4hrungssicherheit gef\u00e4hrden, Ausbr\u00fcche von Cholera, Malaria oder dem De\u2026",
+      "url": "https://science.orf.at/stories/3220730/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2021%2F15%2F60%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F901081_master_315460_430437_opener_142416_klimawandel_meere_immer_waermer_gy.jpg%3Fs%3D89e3d839559b88baa2e490a82c836e5039d79277",
+      "publishedAt": "2023-08-11 10:48:59",
+      "content": "Das bisher w\u00e4rmste Jahr seit Beginn der Industrialisierung war 2016, ein starkes El Nino-Jahr. Seit ein paar Wochen ist El Nino nun zur\u00fcck. Seinen H\u00f6hepunkt wird er Ende des Jahres erreichen. In Komb\u2026 [+2373 chars]",
+      "retrievedAt": "2023-08-12 19:05:09.493562",
+      "internal_id": "1bbcc3f314cf309035654936c90e65b9a81594c783470d715be25461097dc8bb",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1037,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Binitha Jacob",
+      "title": "Dengue Outbreak In Bangladesh Turns Deadly As It Claims 364 Lives This Year",
+      "description": "August could set a new, deadly record for the country as more than 100 people have died from dengue this month alone. The first week alone saw 23,000 cases of dengue fever.",
+      "url": "https://www.ibtimes.com/dengue-outbreak-bangladesh-turns-deadly-it-claims-364-lives-this-year-3708314",
+      "urlToImage": "https://d.ibtimes.com/en/full/3835250/bangladesh-authorities-managed-evacuate-around-million-people-their-homes-before-cyclone-sitrang.jpg",
+      "publishedAt": "2023-08-11 09:13:04",
+      "content": "AFP KEY POINTS More than 78,000 people have been infected since January this yearHospitals are scrambling to make space for patients suffering from the mosquito-born illness<l\u2026 [+2116 chars]",
+      "retrievedAt": "2023-08-12 19:05:08.358670",
+      "internal_id": "1f763d2acd71dfb5208eb05926f7cdaba0f082ab3a022ecce6a7c7bb90f4fb8b",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1045,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Bangladesh records highest daily spike of nearly 3,000 dengue cases, death toll rises to 364",
+      "description": "DHAKA, Aug. 11 (Xinhua) -- In a grim landmark, a total of 2,959 people were diagnosed with dengue fe",
+      "url": "http://en.people.cn/n3/2023/0811/c90000-20057241.html",
+      "urlToImage": null,
+      "publishedAt": "2023-08-11 07:48:19",
+      "content": "(Xinhua) 14:39, August 11, 2023 DHAKA, Aug. 11 (Xinhua) -- In a grim landmark, a total of 2,959 people were diagnosed with dengue fever in Bangladesh in the past 24 hours on Thursday, the highest nu\u2026 [+1145 chars]",
+      "retrievedAt": "2023-08-12 19:05:08.378580",
+      "internal_id": "55ff0eaf23c6d3ad162b0d3b1c9d45cb6c9b870b4aeac0d500cf1a8b72a9d542",
+      "publishedAtLabel": "Aug 11"
+    },
     {
       "id": 1026,
       "query": [
@@ -3305,312 +3611,6 @@
       "retrievedAt": "2023-08-04 07:05:30.177256",
       "internal_id": "3b03316282c931c0be62448b1c8eec4f4bb7abdec36de45dd0f44d319d495a04",
       "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 855,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sky News Australia",
-      "author": "Bryant Hevesi",
-      "title": "Mpox cases recorded in Victoria for the first time in several months: Health authorities confirm two new locally acquired infections",
-      "description": "Mpox cases recorded in Victoria for the first time in several months: Health authorities confirm two new locally acquired infectionsskynews.com.au",
-      "url": "https://www.skynews.com.au/australia-news/mpox-cases-recorded-in-victoria-for-the-first-time-in-several-months-health-authorities-confirm-two-new-locally-acquired-infections/news-story/305f4cf5b0f3e611cdb568fb3500ec82",
-      "urlToImage": "https://content.api.news/v3/images/bin/1dc6063bd95ab4778418f8022feff9c5",
-      "publishedAt": "2023-08-03 04:30:12",
-      "content": "Health authorities in Victoria have issued an alert after new cases of mpox - previously known as monkeypox - were recorded in the state. The Department of Health on Thursday said two locally acqui\u2026 [+1820 chars]",
-      "retrievedAt": "2023-08-04 07:05:30.178740",
-      "internal_id": "0bdcf6d390207d594917c3aee6c9ae23728722f39ad2976b001769627d620fab",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 845,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Mirror Now",
-      "title": "Delhi: 5% beds to be reserved for dengue patients in all govt hospitals",
-      "description": "The Delhi government has decided to reserve 5% beds in government hospitals for dengue patients and provide test reports within six to eight hours of admission. The Delhi government said that a meeting of all government and municipal corporation hospitals in \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/delhi-5-beds-to-be-reserved-for-dengue-patients-in-all-govt-hospitals/videoshow/102372446.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-102372446,width-1070,height-580,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-08-03 03:21:23",
-      "content": "The Delhi government has decided to reserve 5% beds in government hospitals for dengue patients and provide test reports within six to eight hours of admission. The Delhi government said that a meeti\u2026 [+135 chars]",
-      "retrievedAt": "2023-08-04 07:05:28.531940",
-      "internal_id": "9c0f80264e86af595bcd65281bb41a26418ca9af5b06ae48f91f7d680c977f31",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 850,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "ABC News",
-      "title": "The disease formerly known as monkeypox has been recorded in Victoria for the first time in months",
-      "description": "Victoria's health department says two cases of mpox have been recorded in the state. They are first known cases in Victoria since November 2022.",
-      "url": "https://www.abc.net.au/news/2023-08-03/local-monkeypox-mpox-cases-reported-victoria/102683552",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7bc6fdc5903b88d2ab3a7ac8a662cbb5?impolicy=wcms_crop_resize&cropH=530&cropW=942&xPos=114&yPos=0&width=862&height=485",
-      "publishedAt": "2023-08-03 02:35:17",
-      "content": "Two locally acquired cases of monkeypox, now known as mpox, have been reported in Victoria, the state's health department said. The two new mpox infections are the first recorded cases of the diseas\u2026 [+1045 chars]",
-      "retrievedAt": "2023-08-04 07:05:30.168848",
-      "internal_id": "9d04f8e9e28797fed879991dd0f2144fac9eb6401fda0ac41f073ee63040e173",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 851,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Bangkok Post Public Company Limited",
-      "title": "Chula Uni raises the alarm on mpox",
-      "description": "More than 120 people have contracted monkeypox (mpox) in Thailand -- which now has the highest number of such cases in Southeast Asia, a Chulalongkorn University virologist said on Wednesday.",
-      "url": "https://www.bangkokpost.com/thailand/general/2622585/chula-uni-raises-the-alarm-on-mpox",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20230803/c1_2622585_230803054400_700.jpg",
-      "publishedAt": "2023-08-02 21:12:00",
-      "content": "More than 120 people have contracted monkeypox (mpox) in Thailand -- which now has the highest number of such cases in Southeast Asia, a Chulalongkorn University virologist said on Wednesday. Citing\u2026 [+659 chars]",
-      "retrievedAt": "2023-08-04 07:05:30.170843",
-      "internal_id": "c4d581c0ec6a61baeff9a23873385b3a2527cede1f8b1908aa70d680937e97e3",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 847,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "First was COVID. Now China is facing an mpox crisis as cases spike - Yahoo Canada Sports",
-      "description": "First was COVID. Now China is facing an mpox crisis as cases spike Yahoo Canada SportsView Full Coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vY2Euc3BvcnRzLnlhaG9vLmNvbS9uZXdzL21wb3gtY2FzZXMtcmlzaW5nLWNoaW5hLWluZmVjdGlvbnMtMjAyOTQ5Njg5Lmh0bWzSAVpodHRwczovL2NhLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL21wb3gtY2FzZXMtcmlzaW5nLWNoaW5hLWluZmVjdGlvbnMtMjAyOTQ5Njg5Lmh0bWw?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-02 20:29:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-04 07:05:30.160453",
-      "internal_id": "3c38e1af5b9a5b9e611927ae6577d9e9e8b2395170c9d36a79f00293a97b3946",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 835,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "14850.com",
-      "author": "Mark H. Anbinder",
-      "title": "Health alert: Kitten found on West Seneca Street in mid July had rabies",
-      "description": "Health alert: Kitten found on West Seneca Street in mid July had rabies14850.com",
-      "url": "https://www.14850.com/080232697-kitten-rabies-2308/",
-      "urlToImage": "https://www.14850.com/wp-content/uploads/2020/04/nysdoh-antibody-testing.jpg",
-      "publishedAt": "2023-08-02 18:53:11",
-      "content": "Tompkins County Environmental Health Division says a black short-haired kitten that was found at 902 West Seneca Street in Ithaca\u2019s west end on or around July 14th was confirmed to have the rabies vi\u2026 [+1748 chars]",
-      "retrievedAt": "2023-08-03 19:05:18.563490",
-      "internal_id": "711807dd5ac7fcdeb211cd9e2bb279edf36b4dd957c12e006e35de4d1b96e50c",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 838,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jungewelt.de",
-      "author": null,
-      "title": "Spiel mit der Natur: Freisetzung von \u00bbGenm\u00fccke\u00ab [Online-Abo]",
-      "description": "Die F\u00e4lle von Denguefieber haben in Brasilien einen neuen H\u00f6chststand erreicht. Eine genmanipulierte M\u00fccke soll Abhilfe schaffen, Investitionen in Abfallentsorgung und M\u00fcllvermeidung w\u00e4ren wohl sinnvoller.",
-      "url": "https://www.jungewelt.de/loginFailed.php?ref=/artikel/456104.spiel-mit-der-natur-freisetzung-von-genm%C3%BCcke.html",
-      "urlToImage": "https://www.jungewelt.de/images/junge-welt-logo-square.png",
-      "publishedAt": "2023-08-02 17:35:58",
-      "content": "Die Weltgesundheitsorganisation (WHO) schl\u00e4gt Alarm: Die Zahl der Infektionen mit dem Dengue-Virua hat auf dem amerikanischen Doppelkontinent in diesem Jahr weiter zu- und epidemische Ausma\u00dfe angenom\u2026 [+273 chars]",
-      "retrievedAt": "2023-08-03 19:05:19.885230",
-      "internal_id": "8bca7f17a5aeb1fb31d2c00d5043974d14c31b68389a406e87755abbd5dcc482",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 841,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Sudurpaschim Province reports over 1,600 dengue cases since 2022",
-      "description": "DHANGADHI: The Sudurpaschim Province has as of today reported over 1,600 cases of dengue fever since 2022. As updated by the Health Directorate, Sudurpaschim Province, dengue has been confirmed in 1,614 individuals in the province since 2022. Since 2023, it h\u2026",
-      "url": "https://english.khabarhub.com/2023/02/313018/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue.webp",
-      "publishedAt": "2023-08-02 14:45:09",
-      "content": "Image for Representation.DHANGADHI: The Sudurpaschim Province has as of today reported over 1,600 cases of dengue fever since 2022. As updated by the Health Directorate, Sudurpaschim Province, dengu\u2026 [+1354 chars]",
-      "retrievedAt": "2023-08-03 19:05:19.901455",
-      "internal_id": "8dfdb1f5b4db84a8fabd70470cbfd685c4ae2e160ca43028f2d4884ef7edfcd0",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 840,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clicrbs.com.br",
-      "author": "Ag\u00eancia Brasil",
-      "title": "Farm\u00e1cias podem realizar exames de an\u00e1lises cl\u00ednicas; veja a lista com os 47 testes",
-      "description": "Resolu\u00e7\u00e3o que entrou em vigor nesta ter\u00e7a-feira (1\u00ba) contempla dengue, hepatite, s\u00edfilis e colesterol, entre outras doen\u00e7as",
-      "url": "http://diariogaucho.clicrbs.com.br/rs/dia-a-dia/noticia/2023/08/farmacias-podem-realizar-exames-de-analises-clinicas-veja-a-lista-com-os-47-testes-31319002.html",
-      "urlToImage": "http://diariogaucho.rbsdirect.com.br/imagesrc/15931011.jpg?w=600",
-      "publishedAt": "2023-08-02 13:18:34",
-      "content": "Come\u00e7a a valer nesta ter\u00e7a-feira (1\u00b0) a resolu\u00e7\u00e3o que permite \u00e0s farm\u00e1cias realizar ao menos 47 tipos de exames de an\u00e1lises cl\u00ednicas (EAC). Em maio, a Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa\u2026 [+3636 chars]",
-      "retrievedAt": "2023-08-03 19:05:19.894111",
-      "internal_id": "a77a9f0eae563f994da0d3556900c7493736e8ef19f05e05653e85e93c3f65aa",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 842,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Guardian",
-      "author": "Constance Malleret in Rio de Janeiro",
-      "title": "Indigenous territory still in crisis despite Brazil\u2019s expulsion of miners",
-      "description": "Six months after Lula\u2019s government cracked down on garimpeiros, a legacy of malnutrition and malaria is taking its toll on YanomamiSix months after the Brazilian government launched an operation to turf out illegal miners from the country\u2019s largest Indigenous\u2026",
-      "url": "https://www.theguardian.com/world/2023/aug/02/brazil-indigenous-yanomami-crisis-miners-expulsion",
-      "urlToImage": "https://i.guim.co.uk/img/media/1343b0175e203b0474cb5560ccc52d6b98016283/0_219_6124_3675/master/6124.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43c87b21e26908968edc9d7606cca8be",
-      "publishedAt": "2023-08-02 13:00:05",
-      "content": "Six months after the Brazilian government launched an operation to turf out illegal miners from the countrys largest Indigenous reserve, the Yanomami population there continues to live in fear, battl\u2026 [+2650 chars]",
-      "retrievedAt": "2023-08-03 19:05:21.228836",
-      "internal_id": "6fb2f6cbc190cb073c5ff75a7124c8b1fc578e8a8b33e122f51d9c6fd4b3d83c",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 843,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "MIT Technology Review",
-      "author": "Rhiannon Williams",
-      "title": "The Download: counting China\u2019s mpox cases, and Meta has blocked news in Canada",
-      "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Decoding the data of the Chinese mpox outbreak Almost exactly a year after the World Health Organization declared mpox (f\u2026",
-      "url": "https://www.technologyreview.com/2023/08/02/1077147/the-download-counting-chinas-mpox-cases-and-meta-has-blocked-news-in-canada/",
-      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2023/07/230724_ChinaMonkeypox.jpg?resize=1200,600",
-      "publishedAt": "2023-08-02 12:10:00",
-      "content": "1 Meta has started blocking news in CanadaPublishers have branded the decision an abuse of power. (The Verge)+ And the US could be next. (Vox)+ The news business is in a state of flux right now. (NY \u2026 [+1600 chars]",
-      "retrievedAt": "2023-08-03 19:05:22.476901",
-      "internal_id": "86fdc5ddb9eb2112c49bdb55295cc61a5ebecfa32535dc8db73b7a53d6bf2eeb",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 839,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Mar de Sa\u00fade: Farm\u00e1cias e consult\u00f3rios disponibilizam testes de an\u00e1lises cl\u00ednicas no Rio",
-      "description": "Farm\u00e1cias e consult\u00f3rios est\u00e3o disponibilizando testes de an\u00e1lises cl\u00ednicas no Rio de Janeiro. Para realizar exames como o de dengue, colester...",
-      "url": "http://noticias.r7.com/rio-de-janeiro/rj-no-ar/videos/mar-de-saude-farmacias-e-consultorios-disponibilizam-testes-de-analises-clinicas-no-rio-02082023",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/08/02/64ca44651df97bfed6000469/6c5158b3927848349a355079d2468df9__RJA_R7_02AGO2023_MARDESAUDE_thumb.jpg",
-      "publishedAt": "2023-08-02 11:36:17",
-      "content": "Farm\u00e1cias e consult\u00f3rios est\u00e3o disponibilizando testes de an\u00e1lises cl\u00ednicas no Rio de Janeiro. Para realizar exames como o de dengue, colesterol e tipo sangu\u00edneo, o estabelecimento precisa pedir uma \u2026 [+63 chars]",
-      "retrievedAt": "2023-08-03 19:05:19.890347",
-      "internal_id": "f74ca7d252d960704b283dd548b99e37f8ec66fab74b69a26ef9ec4c4fc1ad60",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 844,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "MIT Technology Review",
-      "author": "Zeyi Yang",
-      "title": "Decoding the data of the Chinese mpox outbreak",
-      "description": "This story first appeared in China Report, MIT Technology Review\u2019s newsletter about technology developments in China. Sign up to receive it in your inbox every Tuesday. Almost exactly a year after the World Health Organization declared mpox (formerly known as\u2026",
-      "url": "https://www.technologyreview.com/2023/08/02/1077113/china-mpox-outbreak-data-reporting/",
-      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2023/07/230724_ChinaMonkeypox.jpg?resize=1200,600",
-      "publishedAt": "2023-08-02 10:00:00",
-      "content": "Sounds quite bad, right? It turns out the reality is a tad more complicated. On the WHO website, the recent mpox data listed under China is the sum of cases reported in China, Taiwan, and Hong Kong\u2026 [+1694 chars]",
-      "retrievedAt": "2023-08-03 19:05:22.481027",
-      "internal_id": "482e2de1bf8a09837c80b12aa75ec077bc22645120ffd128ef996ef9f390e669",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 836,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "STAT",
-      "author": "Helen Branswell",
-      "title": "Adults seen as increasingly susceptible to measles",
-      "description": "The growing susceptibility of adults to measles worries infectious disease experts who know how difficult this infection can be when it is experienced in adulthood.",
-      "url": "https://www.statnews.com/2023/08/02/adult-measles-infection/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2023/07/stat_measles_2000x1125_f2-1024x576.jpg",
-      "publishedAt": "2023-08-02 08:30:07",
-      "content": "Simon Matthews made three trips this spring to the emergency room of his local hospital in Eastbourne, on Englands southeast coast, before doctors managed to figure out what was making him so ill. \u2026 [+13418 chars]",
-      "retrievedAt": "2023-08-03 19:05:19.096828",
-      "internal_id": "3abbf5cd2e86cd64c1a2d37ca16f4c2164bc876c1f812983ea8050f5b756e991",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 837,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue surge: Mild to dangerous, common symptoms of different dengue strains - Hindustan Times",
-      "description": "Dengue surge: Mild to dangerous, common symptoms of different dengue strains Hindustan Times Dengue Cases Rise In Delhi: 5 Effective Ways To Prevent This Bone-Breaking Fever Jagran English From Symptoms To Precautions: Here Is Al\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vbGlmZXN0eWxlL2hlYWx0aC9kZW5ndWUtc3VyZ2UtbWlsZC10by1kYW5nZXJvdXMtY29tbW9uLXNpZ25zLWFuZC1zeW1wdG9tcy1vZi1kaWZmZXJlbnQtZGVuZ3VlLXN0cmFpbnMtMTAxNjkwOTYwMDQyNDkxLmh0bWzSAZ0BaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2xpZmVzdHlsZS9oZWFsdGgvZGVuZ3VlLXN1cmdlLW1pbGQtdG8tZGFuZ2Vyb3VzLWNvbW1vbi1zaWducy1hbmQtc3ltcHRvbXMtb2YtZGlmZmVyZW50LWRlbmd1ZS1zdHJhaW5zLTEwMTY5MDk2MDA0MjQ5MS1hbXAuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-02 07:19:36",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-03 19:05:19.876014",
-      "internal_id": "fcd9db40c387ddbb540674c1e632e147bc08697626f9d59fd7a139e244fd0f67",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 834,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Bengaluru college students brave floods and typhoid to honor Kargil martyrs",
-      "description": "Two college students from Bengaluru, Krishnan A and Peddi Sai Kaushik, cycled over 3,200 km in over 60 days to pay homage to the martyrs at the war memorial on Kargil Vijay Diwas. The duo, who are both National Cadet Corps (NCC) cadets and aspire to join the \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-college-students-brave-floods-and-typhoid-to-honor-kargil-martyrs/articleshow/102340034.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-102341227,width-1070,height-580,imgsize-385274,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-08-02 06:33:27",
-      "content": "In a remarkable display of determination and patriotism, two college students from Bengaluru embarked on a courageous journey, cycling over 3,200 km in more than 60 days, to pay homage to the martyrs\u2026 [+2793 chars]",
-      "retrievedAt": "2023-08-03 07:05:41.085428",
-      "internal_id": "701ad3ce47b81fe5e1801c168376124ba32836675aa73ee13e9537736aca276d",
-      "publishedAtLabel": "Aug 2"
-    },
-    {
-      "id": 832,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Schools closed for dengue control in Dharan",
-      "description": "DHARAN: All educational institutions operational in Dharan sub-metropolis of Sunsari have been closed for an effective campaign against dengue outbreak. The executive committee meeting took the decision to engage collective efforts for prevention and control \u2026",
-      "url": "https://english.khabarhub.com/2023/02/312938/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue.webp",
-      "publishedAt": "2023-08-02 06:10:59",
-      "content": "DHARAN: All educational institutions operational in Dharan sub-metropolis of Sunsari have been closed for an effective campaign against dengue outbreak. The executive committee meeting took the deci\u2026 [+1464 chars]",
-      "retrievedAt": "2023-08-03 07:05:39.261954",
-      "internal_id": "177ef9dc9922abf316a35f53fef096be4162c1f76e1fbbc12abaf18fc1b99443",
-      "publishedAtLabel": "Aug 2"
     }
   ]
 }
