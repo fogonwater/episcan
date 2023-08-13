@@ -1,8 +1,174 @@
 {
-  "last_updated": "2023-08-12 19:05",
+  "last_updated": "2023-08-13 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 17,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 1055,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Perak records increase of 218.1% in dengue cases, one fatality",
+      "description": "KAMPAR: The cumulative number of dengue fever cases in Perak from January to July this year, has increased by 218.1% with 2005 cases, compared with 646 cases in the corresponding period last year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/08/12/perak-records-increase-of-2181-in-dengue-cases-one-fatality",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/12/2227637.jpg",
+      "publishedAt": "2023-08-12 07:03:00",
+      "content": "KAMPAR: The cumulative number of dengue fever cases in Perak from January to July this year, has increased by 218.1% with 2005 cases, compared with 646 cases in the corresponding period last year. S\u2026 [+1052 chars]",
+      "retrievedAt": "2023-08-13 07:05:32.513809",
+      "internal_id": "654f7b461c293784036638034bc162fb9fa8a139bc6117a2a60a14dc1b07e46a",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 1059,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mariah Aquino",
+      "title": "Brasil enfrenta escassez de testes para doen\u00e7as como chikungunya e tuberculose",
+      "description": "Em of\u00edcios, secret\u00e1rios de Sa\u00fade estaduais alertaram governo federal sobre situa\u00e7\u00e3o cr\u00edtica do abastecimento de testes laboratoriais",
+      "url": "https://www.metropoles.com/brasil/brasil-enfrenta-escassez-de-testes-para-doencas-como-chikungunya-e-tuberculose",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/08/11181119/laboratorio-testes-laboratoriais.jpg",
+      "publishedAt": "2023-08-12 05:00:25",
+      "content": "Os Laborat\u00f3rios Centrais de Sa\u00fade P\u00fablica (Lacens) s\u00e3o considerados uma refer\u00eancia do Sistema \u00danico de Sa\u00fade (SUS) para diagn\u00f3sticos laboratoriais. As unidades realizam testes para doen\u00e7as diversas e\u2026 [+4549 chars]",
+      "retrievedAt": "2023-08-13 07:05:34.702232",
+      "internal_id": "ad6c88bdc874b6d1a244c8a51b71760bc87d2467e0d4445170351030f0048e9d",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 1053,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction",
+      "title": "Infographie. Dengue, zika, chikungunya\u2026 quelles sont les r\u00e9gions les plus concern\u00e9es ?",
+      "description": "De plus en plus implant\u00e9 en Europe et en France, le moustique-tigre y propage des maladies comme la dengue, le zika ou encore le chikungunya. Cette ann\u00e9e, 256 cas ont d\u00e9j\u00e0 \u00e9t\u00e9 enregistr\u00e9s en m\u00e9tropole.",
+      "url": "https://www.ledauphine.com/sante/2023/08/12/dengue-zika-chikungunya-quelles-sont-les-regions-les-plus-concernees",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/129D1AAE-989D-47A7-BB5A-AB24CC1B1B5A/FB1200/photo-1691764448.jpg",
+      "publishedAt": "2023-08-12 05:00:00",
+      "content": "Ce n'est plus une surprise. Ann\u00e9e apr\u00e8s ann\u00e9e, le moustique-tigre continue de s'implanter en France et en Europe, propageant des maladies telles que la dengue, le zika, ou encore le chikungunya. L'O\u2026 [+2978 chars]",
+      "retrievedAt": "2023-08-13 07:05:32.507438",
+      "internal_id": "a824384a8244b635533755507b77059b540074341953105fd08d7e1fa0982a88",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 1056,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Techno-science.net",
+      "author": "Alain REDBRAN",
+      "title": "Virus \"exotiques\" en France: un sujet plus que jamais d'actualit\u00e9",
+      "description": "Virus Usutu, virus Zika, virus du chikungunya ou de la dengue... Au cours des derni\u00e8res ann\u00e9es, ces noms aux consonances exotiques se sont fait une place dans les m\u00e9dias fran\u00e7ais. Et pour...",
+      "url": "https://www.techno-science.net/actualite/virus-exotiques-france-sujet-plus-jamais-actualite-N23561.html",
+      "urlToImage": "https://www.techno-science.net/illustration/Libre/PXB/51/coronavirus-5174671-1280.jpg",
+      "publishedAt": "2023-08-12 04:00:10",
+      "content": "Virus Usutu, virus Zika, virus du chikungunya ou de la dengue... Au cours des derni\u00e8res ann\u00e9es, ces noms aux consonances exotiques se sont fait une place dans les m\u00e9dias fran\u00e7ais.Et pour cause: respo\u2026 [+16996 chars]",
+      "retrievedAt": "2023-08-13 07:05:32.516143",
+      "internal_id": "c39cc3ef1e1229f4de28546ce1ac4419cb4d928ff9d9769447303af8abd6019f",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 1054,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "La OMS insta a \"actuar con rapidez\" ante el aumento de los casos de dengue en Bangladesh",
+      "description": "Ante el aumento en los casos de dengue que est\u00e1 sufriendo Bangladesh, la Organizaci\u00f3n Mundial de la salud (OMS) ha pedido \"esfuerzos para controlar la poblaci\u00f3n de mosquitos vectores y minimizar la exposici\u00f3n individual\" con el uso de repelentes de mosquitos \u2026",
+      "url": "https://www.europapress.es/internacional/noticia-oms-insta-actuar-rapidez-aumento-casos-dengue-bangladesh-20230812051617.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230812051617_1200.jpg",
+      "publishedAt": "2023-08-12 03:16:17",
+      "content": "MADRID, 12 Ago. (EUROPA PRESS) - Ante el aumento en los casos de dengue que est\u00e1 sufriendo Bangladesh, la Organizaci\u00f3n Mundial de la salud (OMS) ha pedido \"esfuerzos para controlar la poblaci\u00f3n de\u2026 [+3623 chars]",
+      "retrievedAt": "2023-08-13 07:05:32.509636",
+      "internal_id": "86b83a8441d998f3319222828672128463976cdbc5294f7c2d0cc2a83962b1f4",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 1060,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": "Google News",
+      "title": "'I feel like I have Ebola': Hong Kong mpox patient warns fear of ... - Hong Kong Free Press",
+      "description": "Ebola -- Hong Kong'I feel like I have Ebola': Hong Kong mpox patient warns fear of ... ; ;",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimAFodHRwczovL2hvbmdrb25nZnAuY29tLzIwMjMvMDgvMTIvaS1mZWVsLWxpa2UtaS1oYXZlLWVib2xhLWhvbmcta29uZy1tcG94LXBhdGllbnQtd2FybnMtZmVhci1vZi1lbmZvcmNlZC1pc29sYXRpb24tbWF5LXN0b3AtcGVvcGxlLXJlcG9ydGluZy1pbmZlY3Rpb25zL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-12 02:00:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-13 07:05:35.123990",
+      "internal_id": "060f4554335c97f22b6a8d6d6f283916e8c5cc8793917450341bb9a1b537d502",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 1052,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Dengue Outbreak in Bangladesh Sparks Alarm After 364 People Die This Year",
+      "description": "Monsoon season can exacerbate the outbreak as infected people overwhelm hospitals",
+      "url": "https://www.voanews.com/a/dengue-outbreak-in-bangladesh-sparks-alarm-after-364-people-die-this-year-/7222219.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-6a72-08db9ac66fa2_cx0_cy10_cw0_w1200_r1.jpg",
+      "publishedAt": "2023-08-12 00:10:22",
+      "content": "DHAKA, Bangladesh Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The govern\u2026 [+3523 chars]",
+      "retrievedAt": "2023-08-13 07:05:32.504808",
+      "internal_id": "2ead40b0773d13c76164b3d5651fe3ee093e919f08292a235ad7dd0858972713",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 1061,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencialdigital.com",
+      "author": "Redacci\u00f3n",
+      "title": "\u00bfC\u00f3mo conservar bien los alimentos a pesar del calor?",
+      "description": "En la Uni\u00f3n Europea se notifican m\u00e1s de 350.000 enfermedades transmitidas por los alimentos cada a\u00f1o, seg\u00fan advierte la&nbsp;Autoridad Europea de Seguridad Alimentaria (EFSA). Las m\u00e1s comunes est\u00e1n causadas por Campylobacter, Salmonella, Yersinia,",
+      "url": "https://www.elconfidencialdigital.com/articulo/te_lo_aclaro/como-conservar-alimentos-pesar-calor/20230810193702621908.html",
+      "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/05/11/2023051111030323513.jpg",
+      "publishedAt": "2023-08-11 23:00:00",
+      "content": "En la Uni\u00f3n Europea se notifican m\u00e1s de 350.000 enfermedades transmitidas por los alimentos cada a\u00f1o, seg\u00fan advierte la Autoridad Europea de Seguridad Alimentaria (EFSA). Las m\u00e1s comunes est\u00e1n causad\u2026 [+5055 chars]",
+      "retrievedAt": "2023-08-13 07:05:36.171153",
+      "internal_id": "8ac37a85776995fb7d06ae3482e498eb5dcb3bed6db77a40431ab1cfb4ac0ee3",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1050,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bangladesh struggles to control dengue outbreak - CGTN America",
+      "description": "Bangladesh struggles to control dengue outbreak CGTN America Bangladesh grapples with record deadly outbreak of dengue fever; AP reports The Economic Times Dengue outbreak kills hundreds in Bangladesh Associated Press \u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC1czQmJiejRiUnNnmAEB?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-11 22:18:49",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-13 07:05:32.498658",
+      "internal_id": "ecc0cea969c2310a14e8ab8b53ac62b15963f0fbd95c0e0a44499d18e867d2d3",
+      "publishedAtLabel": "Aug 11"
+    },
     {
       "id": 1039,
       "query": [
@@ -91,6 +257,24 @@
       "content": "Un mes ha pasado desde que se declar\u00f3 la Alerta Roja Hospitalaria en Bol\u00edvar. La medida fue adoptada por la Gobernaci\u00f3n del departamento debido al progresivo aumento de los casos de dengue en los dis\u2026 [+3508 chars]",
       "retrievedAt": "2023-08-12 19:05:08.376996",
       "internal_id": "0fb80915aac61aea97b3c26f148304e1612cec80a3c07e9584ebd57eef8eb1a7",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1057,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Viqarunnisa teacher dies of dengue",
+      "description": "A female teacher of Viqarunnisa Noon School and College died of dengue fever at a private hospital in the capital city early Friday. Deceased Morsheda Begum, a teacher of Viqarunnisa Noon School and College. She breathed her last around 6:30 am while undergoi\u2026",
+      "url": "https://sylhetmirror.com/2023/08/11/viqarunnisa-teacher-dies-of-dengue/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/W34c34h.jpg",
+      "publishedAt": "2023-08-11 17:08:36",
+      "content": "A female teacher of Viqarunnisa Noon School and College died of dengue fever at a private hospital in the capital city early Friday. Deceased Morsheda Begum, a teacher of Viqarunnisa Noon School and\u2026 [+558 chars]",
+      "retrievedAt": "2023-08-13 07:05:32.519199",
+      "internal_id": "22892755cd7346c572b0b10a4953ebeefe407a1327e995f787a008aa9387fe4b",
       "publishedAtLabel": "Aug 11"
     },
     {
@@ -184,6 +368,24 @@
       "publishedAtLabel": "Aug 11"
     },
     {
+      "id": 1051,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue Scare: 19,126 mosquito breeding sites eliminated in Jamshedpur - Avenue Mail",
+      "description": "Dengue Scare: 19,126 mosquito breeding sites eliminated in Jamshedpur Avenue Mail 11 fresh dengue cases in Patiala district The Tribune India View Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXZlbnVlbWFpbC5pbi9kZW5ndWUtc2NhcmUtMTkxMjYtbW9zcXVpdG8tYnJlZWRpbmctc2l0ZXMtZWxpbWluYXRlZC1pbi1qYW1zaGVkcHVyL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-11 15:49:02",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-13 07:05:32.503018",
+      "internal_id": "155d6a679006a9355dcb939aff2f9d19f5a3023e68f4c0fcb9cb6edd1ba314dc",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
       "id": 1033,
       "query": [
         "pertussis"
@@ -199,6 +401,24 @@
       "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
       "retrievedAt": "2023-08-12 19:05:07.274466",
       "internal_id": "428f4c8bc17e72486470e6b005a8cf41884f8e95979d33fcc974bf100d9ef94c",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1058,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Hingga Agustus, Dinkes Kalbar Catat 1.306 Kasus DBD, 19 Kasus Meninggal Dunia",
+      "description": "KalbarOnline, Pontianak \u2013 Dinas Kesehatan Provinsi Kalimantan Barat mencatat sebanyk 1.306 kasus The post Hingga Agustus, Dinkes Kalbar Catat 1.306 Kasus DBD, 19 Kasus Meninggal Dunia appeared first on KalbarOnline.Com.",
+      "url": "https://www.kalbaronline.com/2023/08/11/hingga-agustus-dinkes-kalbar-catat-1-306-kasus-dbd-19-kasus-meninggal-dunia/",
+      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/08/IMG-20230811-WA0036.jpg",
+      "publishedAt": "2023-08-11 13:02:57",
+      "content": "KalbarOnline, Pontianak \u2013 Dinas Kesehatan Provinsi Kalimantan Barat mencatat sebanyk 1.306 kasus Demam Berdarah Dengue (DBD) terjadi sejak Januari hingga 11 Agustus 2023. Dari jumlah tersebut, 19 kas\u2026 [+1378 chars]",
+      "retrievedAt": "2023-08-13 07:05:32.521336",
+      "internal_id": "4a2090125b4757f4fac829be3d1fe4020f5ddfadaf4b63f356a1f1c8bc9705c3",
       "publishedAtLabel": "Aug 11"
     },
     {
@@ -3394,222 +3614,6 @@
       "content": "Des moustiques Aedes aegypti dans un laboratoire de Cucuta, en Colombie, le 11 f\u00e9vrier 2016. RICARDO MAZALAN / AP La moiti\u00e9 de la population mondiale est d\u00e9sormais expos\u00e9e \u00e0 la dengue. Plusieurs exp\u2026 [+2829 chars]",
       "retrievedAt": "2023-08-04 19:05:16.327699",
       "internal_id": "29b62c683beb2a4c27aa9090be94cb3b981bbd31b748742a76dd599b0f68aae9",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 864,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Foods that help recover from Dengue faster",
-      "description": "Most parts of India, including Delhi and Kolkata, are experiencing a surge in dengue cases over the past few weeks.",
-      "url": "https://economictimes.indiatimes.com/news/web-stories/foods-that-help-recover-from-dengue-faster/slideshow/102390144.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-102390301,width-900,height-460,resizemode-4.cms",
-      "publishedAt": "2023-08-03 10:42:07",
-      "content": "One of the healthiest fruits for dengue, pomegranate is packed with vitamins, minerals, and other nutrients. The iron content in the fruit helps recover blood platelet count during the disease.",
-      "retrievedAt": "2023-08-04 19:05:16.329416",
-      "internal_id": "1aa11c01ab05396074374cd9bd65cfc9be15c66196c1d3e6977b45bd5589afd8",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 875,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Mpox cases spike: After COVID-19, China is now facing an Mpox crisis - IndiaTimes",
-      "description": "Mpox cases spike: After COVID-19, China is now facing an Mpox crisis IndiaTimes First was COVID. Now China is facing an mpox crisis as cases spike ABC News Decoding the data of the Chinese mpox outbreak MIT Technology Review </\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMinAFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9saWZlLXN0eWxlL2hlYWx0aC1maXRuZXNzL2hlYWx0aC1uZXdzL21wb3gtY2FzZXMtc3Bpa2UtYWZ0ZXItY292aWQtMTktY2hpbmEtaXMtbm93LWZhY2luZy1hbi1tcG94LWNyaXNpcy9waG90b3N0b3J5LzEwMjM4OTExMS5jbXPSAaIBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vbGlmZS1zdHlsZS9oZWFsdGgtZml0bmVzcy9oZWFsdGgtbmV3cy9tcG94LWNhc2VzLXNwaWtlLWFmdGVyLWNvdmlkLTE5LWNoaW5hLWlzLW5vdy1mYWNpbmctYW4tbXBveC1jcmlzaXMvYW1wX2V0cGhvdG9zdG9yeS8xMDIzODkxMTEuY21z?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-03 10:30:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-04 19:05:18.063808",
-      "internal_id": "e343bae1ffcd175cbb37fbd1af53d0ea87360556eee17e71804fcb74a35cb1d9",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 874,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nyheder.tv2.dk",
-      "author": "David Buch",
-      "title": "Ulovligt kinesisk laboratorium afsl\u00f8ret i USA \u2013 1000 mus var inficeret med HIV, covid-19 og malaria",
-      "description": "De amerikanske sundhedsmyndigheder har fundet flere end 20 smitsomme stoffer i det ulovlige laboratorium i Californien.",
-      "url": "https://nyheder.tv2.dk/udland/2023-08-03-ulovligt-kinesisk-laboratorium-afsloeret-i-usa-1000-mus-var-inficeret-med-hiv-covid-19-og-malaria",
-      "urlToImage": "https://cdn-free.tv2i.dk/e/d/i/editorial/4/c/8/4c800147-6d77-4e95-bc02-f594cdc3d744?ixlib=js-3.2.1&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwyNjMsNDYzNCwyNjA3&s=fa0167cd4b25bbd78987c71a48ad23fe",
-      "publishedAt": "2023-08-03 09:57:40",
-      "content": "De amerikanske sundhedsmyndigheder har fundet flere end 20 smitsomme stoffer i det ulovlige laboratorium i Californien.Myndighederne i byen Reedley i Californien har afsl\u00f8ret et ulovligt kinesisk lab\u2026 [+2285 chars]",
-      "retrievedAt": "2023-08-04 19:05:16.925213",
-      "internal_id": "5191dd0fcd060d293f130a9c1ef277ebfc772b2caf1c442d04c387f5b18e9849",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 857,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue Cases Rising In India: 5 Protective Measures To Keep Your Children Safe From Dengue Fever - Zee News",
-      "description": "Dengue Cases Rising In India: 5 Protective Measures To Keep Your Children Safe From Dengue Fever Zee News Dengue cases on rise: What\u2019s the Denv-2 strain all about? Why hydration is the key to managing the infection The Indian Express </li\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijwFodHRwczovL3plZW5ld3MuaW5kaWEuY29tL3Bob3Rvcy9oZWFsdGgvZGVuZ3VlLWNhc2VzLXJpc2luZy1pbi1pbmRpYS01LXByb3RlY3RpdmUtbWVhc3VyZXMtdG8ta2VlcC15b3VyLWNoaWxkcmVuLXNhZmUtZnJvbS1kZW5ndWUtZmV2ZXItMjY0NDExMNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-03 09:57:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-04 19:05:16.318150",
-      "internal_id": "cc6058385ef7f9e63ffe96880c1b4dbaa95ea58274203116ca18f7f682104736",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 862,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Aliya Bashir",
-      "title": "How climate change is changing dengue fever",
-      "description": "India is experiencing an overwhelming increase in dengue cases. The cause is climate change. Aliya Bashir reports Dengue fever is rife in India. In 2022, 230 000 infections and 303 deaths were attributed to the disease\u2014although this is likely to be an undere\u2026",
-      "url": "https://www.bmj.com/content/382/bmj.p1690",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/382/8393.cover-source.jpg",
-      "publishedAt": "2023-08-03 09:10:53",
-      "content": "Aliya Bashir, freelance journalistDelhi aliya.bashir.k{at}gmail.com India is experiencing an overwhelming increase in dengue cases. The cause i\u2026 [+1525 chars]",
-      "retrievedAt": "2023-08-04 19:05:16.325978",
-      "internal_id": "b64a41f9f83630d66e89cdcfae2ab6b9062fcc9b133156a15f0c8c2c2354209d",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 873,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Sudan: China Extends Support to Sudan in Health Field",
-      "description": "[SNA] Port Sudan -- The representative of the delegation of the Chinese Embassy in Sudan announced that the support of the Chinese government to Sudan for the needs of the environment, epidemic control, medicines for malaria, chronic Diseases and humanitarian\u2026",
-      "url": "https://allafrica.com/stories/202308030062.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-08-03 08:05:52",
-      "content": "Port Sudan \u2014 The representative of the delegation of the Chinese Embassy in Sudan announced that the support of the Chinese government to Sudan for the needs of the environment, epidemic control, med\u2026 [+1157 chars]",
-      "retrievedAt": "2023-08-04 19:05:16.923547",
-      "internal_id": "0c96089e903c5d1c4b70e7f28973b04324f956c82fc5756137bd5447c69bc9cc",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 846,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Bangladesh's dengue cases rise to 57,127, with 273 deaths",
-      "description": "DHAKA, Aug. 3 (Xinhua) -- Bangladesh reported 2,711 new dengue cases and 12 new deaths on Wednesday,",
-      "url": "http://en.people.cn/n3/2023/0803/c90000-20053652.html",
-      "urlToImage": null,
-      "publishedAt": "2023-08-03 06:01:55",
-      "content": "(Xinhua) 13:45, August 03, 2023 DHAKA, Aug. 3 (Xinhua) -- Bangladesh reported 2,711 new dengue cases and 12 new deaths on Wednesday, bringing the tally to 57,127 and death toll to 273 since January \u2026 [+539 chars]",
-      "retrievedAt": "2023-08-04 07:05:28.541896",
-      "internal_id": "7ac578caa48605cddd6d58f1944a2d43400bfc0dd48ae0935e9f138846ebc900",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 848,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "heise online",
-      "author": "Zeyi Yang",
-      "title": "Affenpocken-Ausbreitung in China: Regierung wiederholt Corona-Fehler",
-      "description": "Die mittlerweile unter dem Namen \"mpox\" laufende Viruserkrankung trifft China. Doch mit Infektionszahlen h\u00e4lt sich die Regierung bedeckt.",
-      "url": "https://www.heise.de/hintergrund/Affenpocken-Ausbreitung-in-China-Regierung-wiederholt-Corona-Fehler-9232218.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/9/6/6/4/shutterstock_1899795412-a30142ea68e43779.jpg",
-      "publishedAt": "2023-08-03 06:00:00",
-      "content": "Inhaltsverzeichnis Schutzanzug, PCR-Test, Quarant\u00e4ne und Kontaktverfolgung in China erlebt man gerade ein D\u00e9j\u00e0-vu. Auf einer Pressekonferenz in der vergangenen Woche stellte das chinesische Zentrum \u2026 [+7722 chars]",
-      "retrievedAt": "2023-08-04 07:05:30.163060",
-      "internal_id": "e035ead0b6dea4a16626deae08db1ac06a3187f4923fc58ec9069c2d23b1f629",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 849,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "heise online",
-      "author": "Zeyi Yang",
-      "title": "Affenpocken: Nun auch in China \u2013 und schwer untersch\u00e4tzt",
-      "description": "Die mittlerweile unter dem Namen \"mpox\" laufende Viruserkrankung trifft China. Doch mit Infektionszahlen h\u00e4lt sich die Regierung bedeckt.",
-      "url": "https://www.heise.de/hintergrund/Affenpocken-Nun-auch-in-China-und-schwer-unterschaetzt-9232218.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/7/9/6/6/4/shutterstock_1899795412-a30142ea68e43779.jpg",
-      "publishedAt": "2023-08-03 06:00:00",
-      "content": "Inhaltsverzeichnis Schutzanzug, PCR-Test, Quarant\u00e4ne und Kontaktverfolgung in China erlebt man gerade ein D\u00e9j\u00e0-vu. Auf einer Pressekonferenz in der vergangenen Woche stellte das chinesische Zentrum \u2026 [+7720 chars]",
-      "retrievedAt": "2023-08-04 07:05:30.164887",
-      "internal_id": "3a66e79c5cdf03e6565eae3f4bcf9d209be4bfbc24f223bcd4716a62d110f51d",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 852,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "GlobeNewswire",
-      "title": "Bavarian Nordic Receives USD 120 Million Contract for the Manufacturing of Smallpox and Mpox Vaccine from the U.S. Government",
-      "description": "(marketscreener.com) Contract award will support manufacturing of new bulk vaccine to partly replenish the inventory used for the mpox outbreak in 2022Aims to strengthen the long-term U.S. stockpiling of smallpox vaccinesCompany upgrades its financial guidanc\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Bavarian-Nordic-Receives-USD-120-Million-Contract-for-the-Manufacturing-of-Smallpox-and-Mpox-Vaccine-44502322/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-08-03 05:29:02",
-      "content": "Contract award will support manufacturing of new bulk vaccine to partly replenish the inventory used for the mpox outbreak in 2022Aims to strengthen the long-term U.S. stockpiling of\u2026 [+6357 chars]",
-      "retrievedAt": "2023-08-04 07:05:30.173683",
-      "internal_id": "7ce96eec88a077c25ced06a644365aeec9aa3cdbeca806399c583afb2892d6a4",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 853,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Bavarian Nordic A/S",
-      "title": "Bavarian Nordic Receives USD 120 Million Contract for the Manufacturing of Smallpox and Mpox Vaccine from the U.S. Government",
-      "description": "COPENHAGEN, Denmark, August 3, 2023 \u2013 Bavarian Nordic A/S (OMX: BAVA) announced today that the U.S. Biomedical Advanced Research and Development Authority (BARDA), part of the Administration for Strategic Preparedness and Response at the U.S. Department of He\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/08/03/2717606/0/en/Bavarian-Nordic-Receives-USD-120-Million-Contract-for-the-Manufacturing-of-Smallpox-and-Mpox-Vaccine-from-the-U-S-Government.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
-      "publishedAt": "2023-08-03 05:28:00",
-      "content": "Contract award will support manufacturing of new bulk vaccine to partly replenish the inventory used for the mpox outbreak in 2022Aims to strengthen the long-term U.S. stockpiling of\u2026 [+6357 chars]",
-      "retrievedAt": "2023-08-04 07:05:30.175367",
-      "internal_id": "507134bc4975244a779984c476f429e70bf635c23740cd4326e2d948df2f87eb",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 854,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Bavarian Nordic A/S",
-      "title": "Bavarian Nordic modtager ordre p\u00e5 produktion af koppe- og mpoxvacciner til v\u00e6rdi af USD 120 mio. fra den amerikanske regering",
-      "description": "K\u00d8BENHAVN, Danmark, 3. august 2023 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at Biomedical Advanced Research and Development Authority (BARDA), en del af Administration for Strategic Preparedness and Response ved U.S. Department of Health and Human Se\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/08/03/2717606/0/da/Bavarian-Nordic-modtager-ordre-p%C3%A5-produktion-af-koppe-og-mpoxvacciner-til-v%C3%A6rdi-af-USD-120-mio-fra-den-amerikanske-regering.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
-      "publishedAt": "2023-08-03 05:28:00",
-      "content": "Kontrakten underst\u00f8tter produktion af ny r\u00e5vaccine til delvis genopfyldning af lageret, der blev anvendt i forbindelse med mpox-udbruddet i 2022Sigter mod at styrke USAs langsigtede \u2026 [+6227 chars]",
-      "retrievedAt": "2023-08-04 07:05:30.177256",
-      "internal_id": "3b03316282c931c0be62448b1c8eec4f4bb7abdec36de45dd0f44d319d495a04",
       "publishedAtLabel": "Aug 3"
     }
   ]
