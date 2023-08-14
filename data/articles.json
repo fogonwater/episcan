@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-08-14 07:05",
+  "last_updated": "2023-08-14 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 1081,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Zoom",
+      "author": "Debosmita Ghosh",
+      "title": "Rani Mukerji Reveals She Suffered Miscarriage During Pandemic; Tips On Coping With The Loss",
+      "description": "Rani Mukerji at the Indian Film Festival of Melbourne revealed that she lost her second baby five months into pregnancy during the Covid-19 pandemic. While a lot of women go through miscarriages, it is still a topic that is less spoken about. Here are a few t\u2026",
+      "url": "https://www.timesnownews.com/health/rani-mukerji-reveals-she-suffered-miscarriage-during-pandemic-tips-on-coping-with-the-loss-article-102693929",
+      "urlToImage": "https://static.tnn.in/thumb/msid-102693929,updatedat-1691911955279,width-1280,height-720,resizemode-75/102693929.jpg",
+      "publishedAt": "2023-08-13 13:13:33",
+      "content": "EXCLUSIVE! Dhruv Taras Riya Sharma, Krishna Bharadwaj Diagnosed With Dengue. Actors On Complete Bed Rest",
+      "retrievedAt": "2023-08-14 19:05:28.566389",
+      "internal_id": "4d9964b12f641d9c00451fb60bc901bbe40d417a1628988a8647d27bfe85929c",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 1080,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Weslley Neto",
+      "title": "",
+      "description": "Armando Moraes e Roberto Bettini foram os int\u00e9rpretes de Praga e Dengue, famosos assistentes de palco do \"Xou da Xuxa\" (Globo) entre os anos 1980 e 1990. Citados em \"Xuxa, o document\u00e1rio\", ambos fizeram raras participa\u00e7\u00f5es na TV ap\u00f3",
+      "url": "https://www.uol.com.br/splash/noticias/2023/08/13/xuxa-errou-o-que-rolou-com-praga-e-dengue-assistentes-da-apresentadora.htm",
+      "urlToImage": "https://conteudo.imguol.com.br/c/splash/b7/2023/08/08/dengue-e-praga-foram-assistentes-de-palco-da-comandante-do-xou-da-xuxa-1691526541632_v2_615x300.jpg",
+      "publishedAt": "2023-08-13 11:41:27",
+      "content": "Ator trabalha em escrit\u00f3rio que vende shows de artistas. \"Algumas pessoas est\u00e3o me reconhecendo por conta do document\u00e1rio, que est\u00e1 fazendo um grande sucesso\". Roberto nunca mais conversou com apres\u2026 [+860 chars]",
+      "retrievedAt": "2023-08-14 19:05:28.552205",
+      "internal_id": "d7551f27f3d542b3b092806a80ee2f660f92a0a600812a489dcef9e8292c6584",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 1079,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Kerala Nurse Gives Rabies Vaccine To Child With Fever, Terminated",
+      "description": "The Kerala government on Sunday decided to terminate the service of a nurse working on contract basis at a taluk hospital in Angamally near Ernakulam for allegedly wrongly administering a rabies vaccine to a feverish child.",
+      "url": "https://www.ndtv.com/cities/kerala-nurse-gives-rabies-vaccine-to-child-with-fever-terminated-4294619",
+      "urlToImage": "https://c.ndtvimg.com/2021-06/r6e5kmv8_vaccine-generic-650_625x300_25_June_21.jpeg?im=Resize=(1230,900)",
+      "publishedAt": "2023-08-13 11:37:53",
+      "content": "The parents have decided not to file a police complaint in this regard. (Representational) Kochi/Thiruvananthapuram: The Kerala government on Sunday decided to terminate the service of a nurse worki\u2026 [+1303 chars]",
+      "retrievedAt": "2023-08-14 19:05:27.796154",
+      "internal_id": "43683afd8ba94d83672ebd2a876e866af0354b93f2daf35aaab72a2425a46f5f",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 1082,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "WHO urges swift action as dengue cases surge in Bangladesh",
+      "description": "A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday (Aug 11), calling for efforts to control the mosquito vector population and minimize individual exposure such as using mosquito repelle\u2026",
+      "url": "https://sylhetmirror.com/2023/08/13/who-urges-swift-action-as-dengue-cases-surge-in-bangladesh-2/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/Jhgff-1.jpg",
+      "publishedAt": "2023-08-13 11:11:41",
+      "content": "A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday (Aug 11), calling for efforts to control the mosquito vector population and\u2026 [+4318 chars]",
+      "retrievedAt": "2023-08-14 19:05:28.573496",
+      "internal_id": "95b2904ae4d67983cbbaa2ed0f7788527633cbc8db1fbad76e5999b357466230",
+      "publishedAtLabel": "Aug 13"
+    },
     {
       "id": 1078,
       "query": [
@@ -3543,78 +3615,6 @@
       "retrievedAt": "2023-08-05 07:05:14.877103",
       "internal_id": "2093a46cd729f9740a1584a671a625497e5dcbfb0ae1a3e77447fa39c6a6c3b6",
       "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 884,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Dengue pode ser prevenida com vacina",
-      "description": "A doen\u00e7a da dengue, que \u00e9 transmitida pelo mosquito aedes aegypti, pode ser prevenida com vacina. O imunizante foi aprovado pela Anvisa e j\u00e1 t...",
-      "url": "http://recordtv.r7.com/record-tv-litoral-e-vale/sp-record/videos/dengue-pode-ser-prevenida-com-vacina-03082023",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/08/03/64cbf651c012ad36c10000a0/eba8d82f1ecc4cf895e1c11792f7ba9b__Dengue_pode_ser_prevenida_com_vacina_thumb.jpg",
-      "publishedAt": "2023-08-03 20:43:00",
-      "content": "A doen\u00e7a da dengue, que \u00e9 transmitida pelo mosquito aedes aegypti, pode ser prevenida com vacina. O imunizante foi aprovado pela Anvisa e j\u00e1 tem pessoas que buscam a prote\u00e7\u00e3o. Veja na reportagem.",
-      "retrievedAt": "2023-08-05 07:05:14.305616",
-      "internal_id": "cad8cb4034f0ed515595f6afb0e9f4b762262992e70741f9ab952acae93a6b1d",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 878,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Shawlocal.com",
-      "author": "Shaw Local News Network",
-      "title": "Health officials urge public to watch out for rabid bats",
-      "description": "So far this year, 27 rabid bats have been found in 14 Illinois counties.",
-      "url": "https://www.shawlocal.com/news/2023/08/03/health-officials-urge-public-to-watch-out-for-rabid-bats/",
-      "urlToImage": "https://www.shawlocal.com/resizer/kdIlg-r1GhQZXAHgGWnY_MASe8o=/1200x630/filters:format(jpg):quality(70):focal(520x292:530x302)/cloudfront-us-east-1.images.arcpublishing.com/shawmedia/ZYBERZ6Y3EPDZT5HP7UDANMKHQ.jpg",
-      "publishedAt": "2023-08-03 20:12:04",
-      "content": "The Illinois Department of Public Health is reminding the public to be aware of the potential for exposure to rabies from infected animals. Bats are the most common source of potential infection in I\u2026 [+2416 chars]",
-      "retrievedAt": "2023-08-05 07:05:13.555683",
-      "internal_id": "0e0529bb50f1c821330009eb142674f7ea763c78afd1747146900a279c734c6b",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 887,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Very Normal! Leprosy Cases Surging in Florida, Government Says - Futurism",
-      "description": "Very Normal! Leprosy Cases Surging in Florida, Government Says Futurism Florida leprosy cases on the rise, at least 15 cases this year FOX 26 Houston Florida diseases causing alarm include malaria, leprosy and amoeba Pensacola N\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZnV0dXJpc20uY29tL25lb3Njb3BlL2xlcHJvc3ktY2FzZXMtc3VyZ2luZy1pbi1mbG9yaWRh0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-03 19:46:34",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.874896",
-      "internal_id": "fe71361f469f0b4180214df7c5820f9651ad1dbe349eb6c2f4ebe42c3275fa6c",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 880,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue Vaccine Market Anticipated to Experience Record Growth of USD 1.28 Billion by 2030 - PharmiWeb.com",
-      "description": "Dengue Vaccine Market Anticipated to Experience Record Growth of USD 1.28 Billion by 2030 PharmiWeb.com Dengue Cases Rising In India: 5 Protective Measures To Keep Your Children Safe From Dengue Fever Zee News Dengue cases on ris\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5waGFybWl3ZWIuY29tL3ByZXNzLXJlbGVhc2UvMjAyMy0wOC0wMy9kZW5ndWUtdmFjY2luZS1tYXJrZXQtYW50aWNpcGF0ZWQtdG8tZXhwZXJpZW5jZS1yZWNvcmQtZ3Jvd3RoLW9mLXVzZC0xMjgtYmlsbGlvbi1ieS0yMDMw0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-03 19:40:26",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.296487",
-      "internal_id": "b441876a36e1c2fb9e7b1d7d4602de815a8c36091dd1edf26f4d997c8ea2b779",
-      "publishedAtLabel": "Aug 3"
     }
   ]
 }
