@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-08-13 19:05",
+  "last_updated": "2023-08-14 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 1078,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Businessam.be",
+      "author": "Corneel Vanfleteren",
+      "title": "Maken malaria en andere infectiezieken een comeback? \u201cEr is een verhoogde waakzaamheid\u201d, zegt arts",
+      "description": "Malaria staat bekend als een tropische ziekte, maar vroeger kwam het ook hier voor. Door de klimaatverandering trekt de malariamug noordwaarts. Sommige ziekten zouden dus terug kunnen keren, waarschuwt Ludwig Apers, arts aan het Instituut voor Tropische Genee\u2026",
+      "url": "https://businessam.be/malaria-comeback-infectieziekten/",
+      "urlToImage": "https://media.businessam.be/Microscopisch-beeld-van-de-eencellige-die-malaria-veroorzaakt-en-de-malariamug-1691673051.jpg",
+      "publishedAt": "2023-08-13 05:46:00",
+      "content": "Malaria staat bekend als een tropische ziekte, maar vroeger kwam het ook hier voor. Door de klimaatverandering trekt de malariamug noordwaarts. Sommige ziekten zouden dus terug kunnen keren, waarschu\u2026 [+1766 chars]",
+      "retrievedAt": "2023-08-14 07:05:55.418359",
+      "internal_id": "a692366c834b86ab3d507c90737e3bc5b2a665ccbef505bec230844f2a1f07aa",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 1070,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Dengue: BBMP to step up index survey in Bengaluru\u2019s vulnerable areas - The New Indian Express",
+      "description": "Dengue: BBMP to step up index survey in Bengaluru\u2019s vulnerable areas The New Indian Express Goa govt warns of dengue mosquitoes breeding in housing complexes IndiaTimes Rise in dengue cases in port town baffles doctors Herald Go\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9jaXRpZXMvYmVuZ2FsdXJ1LzIwMjMvYXVnLzEzL2Rlbmd1ZS1iYm1wLXRvLXN0ZXAtdXAtaW5kZXgtc3VydmV5LWluLWJlbmdhbHVydXMtdnVsbmVyYWJsZS1hcmVhcy0yNjA0NzQzLmh0bWzSAYwBaHR0cHM6Ly93d3cubmV3aW5kaWFuZXhwcmVzcy5jb20vY2l0aWVzL2JlbmdhbHVydS8yMDIzL2F1Zy8xMy9kZW5ndWUtYmJtcC10by1zdGVwLXVwLWluZGV4LXN1cnZleS1pbi1iZW5nYWx1cnVzLXZ1bG5lcmFibGUtYXJlYXMtMjYwNDc0My5hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-13 01:46:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-14 07:05:54.243680",
+      "internal_id": "d60f2f016316b259511a74af9d76d4825795216c4528b14e5a067346e3daef5f",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 1071,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Nagaland records 96 dengue, 7 JE cases",
+      "description": "HT Bureau GUWAHATI, Aug 12: Nagaland has recorded 96 dengue cases including seven Japanese Encephalitis cases. Sources in the state health department said, out of the 96 cases, Merapani in Wokha reported five positive cases, three in Mon while the remaining w\u2026",
+      "url": "https://thehillstimes.in/northeast/nagaland-records-96-dengue-7-je-cases",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/08/Nagaland-records.jpg",
+      "publishedAt": "2023-08-13 01:20:10",
+      "content": "HT BureauGUWAHATI, Aug 12: Nagaland has recorded 96 dengue casesincluding seven Japanese Encephalitis cases.Sources in the state health department said, out of the 96cases, Merapani in Wokha reported\u2026 [+574 chars]",
+      "retrievedAt": "2023-08-14 07:05:54.253494",
+      "internal_id": "df529d39e0fc9e311f03bdf8fa524dbf1f0a3aefdcc1c31fc10de4cc66468a25",
+      "publishedAtLabel": "Aug 13"
+    },
+    {
+      "id": 1074,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Kasus DBD Terus Meningkat, Pemkab Ketapang Kaji Penetapan Status KLB",
+      "description": "KalbarOnline, Ketapang Ketapang \u2013 Pemerintah Kabupaten Ketapang menggelar rapat lintas sektoral untuk The post Kasus DBD Terus Meningkat, Pemkab Ketapang Kaji Penetapan Status KLB appeared first on KalbarOnline.Com.",
+      "url": "https://www.kalbaronline.com/2023/08/12/kasus-dbd-terus-meningkat-pemkab-ketapang-kaji-penetapan-status-klb/",
+      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/08/IMG-20230812-WA0043.jpg",
+      "publishedAt": "2023-08-12 15:23:13",
+      "content": "KalbarOnline, Ketapang Ketapang \u2013 Pemerintah Kabupaten Ketapang menggelar rapat lintas sektoral untuk menyikapi terus meningkatnya jumlah kasus pasien penderita Demam Berdarah Dengue (DBD), Sabtu (12\u2026 [+2642 chars]",
+      "retrievedAt": "2023-08-14 07:05:54.268740",
+      "internal_id": "dc39272dafbbddbc4ed4e97582a54336a3b5a5572791941c95cf68b06e2cc028",
+      "publishedAtLabel": "Aug 12"
+    },
     {
       "id": 1069,
       "query": [
@@ -19,6 +91,24 @@
       "content": "\u00a9 Karen Ducey/Getty Images/AFP (arquivo) Portugal registou mais casos de mpox do que toda a Europa no m\u00eas passado. Enquanto a Europa n\u00e3o tem um registo significativo de novas infe\u00e7\u00f5es por esta doen\u00e7\u2026 [+2291 chars]",
       "retrievedAt": "2023-08-13 19:05:14.965441",
       "internal_id": "98e708947655e7eba6101bcf04a3809a9393de57c9877d8e456b40b99aeae713",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 1072,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "WHO urges swift action as dengue cases surge in Bangladesh",
+      "description": "The World Health Organisation (WHO) has urged Bangladesh authorities to take swift action as dengue cases are rising by the day. A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday, calli\u2026",
+      "url": "https://sylhetmirror.com/2023/08/12/who-urges-swift-action-as-dengue-cases-surge-in-bangladesh/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/r4ttg.jpg",
+      "publishedAt": "2023-08-12 14:15:06",
+      "content": "The World Health Organisation (WHO) has urged Bangladesh authorities to take swift action as dengue cases are rising by the day. A significant surge in dengue fever cases has gripped Bangladesh, the\u2026 [+4317 chars]",
+      "retrievedAt": "2023-08-14 07:05:54.263795",
+      "internal_id": "7f4767c4db55223dd2c65fcad3c487aa4efb18837f783ca2734461d798efe100",
       "publishedAtLabel": "Aug 12"
     },
     {
@@ -166,6 +256,24 @@
       "publishedAtLabel": "Aug 12"
     },
     {
+      "id": 1076,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Kasus DBD Melonjak, Edi Instruksikan Rumah Sakit dan Faskes Siaga",
+      "description": "KalbarOnline, Pontianak \u2013 Kasus Demam Berdarah Dengue (DBD) di Kota Pontianak mengalami The post Kasus DBD Melonjak, Edi Instruksikan Rumah Sakit dan Faskes Siaga appeared first on KalbarOnline.Com.",
+      "url": "https://www.kalbaronline.com/2023/08/12/kasus-dbd-melonjak-edi-instruksikan-rumah-sakit-dan-faskes-siaga/",
+      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/08/IMG-20230812-WA0015.jpg",
+      "publishedAt": "2023-08-12 05:05:33",
+      "content": "KalbarOnline, Pontianak \u2013 Kasus Demam Berdarah Dengue (DBD) di Kota Pontianak mengalami lonjakan. Menurut data Dinas Kesehatan (Dinkes) Kota Pontianak, mulai dari Januari 2023 hingga saat ini tercata\u2026 [+2685 chars]",
+      "retrievedAt": "2023-08-14 07:05:54.272675",
+      "internal_id": "a4a41068ecee618b138b040d64cfab8e4f76f8a6e72e4f608ea1c012b7a8136d",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
       "id": 1059,
       "query": [
         "chikungunya"
@@ -201,6 +309,24 @@
       "content": "Ce n'est plus une surprise. Ann\u00e9e apr\u00e8s ann\u00e9e, le moustique-tigre continue de s'implanter en France et en Europe, propageant des maladies telles que la dengue, le zika, ou encore le chikungunya. L'O\u2026 [+2978 chars]",
       "retrievedAt": "2023-08-13 07:05:32.507438",
       "internal_id": "a824384a8244b635533755507b77059b540074341953105fd08d7e1fa0982a88",
+      "publishedAtLabel": "Aug 12"
+    },
+    {
+      "id": 1075,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year",
+      "description": "DHAKA: Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The government\u2019s Directorate General of Health Services reports the 2023 death toll\u2026",
+      "url": "https://english.khabarhub.com/2023/12/314213/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/08/Dengue_Dhaka_Photo-AP.jpg",
+      "publishedAt": "2023-08-12 04:25:54",
+      "content": "A child suffering from dengue is helped by a family member as she walks inside the dengue ward of Mugda Medical College and Hospital in Dhaka, Bangladesh/Photo: APDHAKA: Bangladesh is struggling to d\u2026 [+1147 chars]",
+      "retrievedAt": "2023-08-14 07:05:54.270681",
+      "internal_id": "438da0438723971cb078dad0252353cf4c87924a4cb3f5d887fe4816ac73af1b",
       "publishedAtLabel": "Aug 12"
     },
     {
@@ -548,6 +674,24 @@
       "publishedAtLabel": "Aug 11"
     },
     {
+      "id": 1073,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Jumlah Pasien DBD di RSUD dr. Soedarso Terus Bertambah",
+      "description": "KalbarOnline, Pontianak \u2013 Kasus Demam Berdarah Dengue (DBD) mewabah di Kalimantan Barat. The post Jumlah Pasien DBD di RSUD dr. Soedarso Terus Bertambah appeared first on KalbarOnline.Com.",
+      "url": "https://www.kalbaronline.com/2023/08/11/jumlah-pasien-dbd-di-rsud-dr-soedarso-terus-bertambah/",
+      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/08/IMG-20230811-WA0041.jpg",
+      "publishedAt": "2023-08-11 13:16:04",
+      "content": "KalbarOnline, Pontianak \u2013 Kasus Demam Berdarah Dengue (DBD) mewabah di Kalimantan Barat. Direktur RSUD dr. Soedarso, Hary Agung Tjahyadi mengungkapkan, dari Januari hingga Juli ada 159 pasien DBD, da\u2026 [+1630 chars]",
+      "retrievedAt": "2023-08-14 07:05:54.267131",
+      "internal_id": "a41a0c0c08cac219e9a1c8d783b01bac74efa64d15a8bb9b9c402a3d32a058fe",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
       "id": 1058,
       "query": [
         "dengue"
@@ -653,6 +797,24 @@
       "content": "AFP KEY POINTS More than 78,000 people have been infected since January this yearHospitals are scrambling to make space for patients suffering from the mosquito-born illness<l\u2026 [+2116 chars]",
       "retrievedAt": "2023-08-12 19:05:08.358670",
       "internal_id": "1f763d2acd71dfb5208eb05926f7cdaba0f082ab3a022ecce6a7c7bb90f4fb8b",
+      "publishedAtLabel": "Aug 11"
+    },
+    {
+      "id": 1077,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Another female doctor dies of dengue",
+      "description": "Another female physician died of dengue fever at a hospital in the capital on Friday morning. Sharifa Binte Aziz, 27, of Dohar upazila in Dhaka, breathed her last at Intensive Care Unit (ICU) of Dhaka Medical College and Hospital (DMCH) around 5:00am. Sharifa\u2026",
+      "url": "https://sylhetmirror.com/2023/08/11/another-female-doctor-dies-of-dengue/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/Uyttte.jpg",
+      "publishedAt": "2023-08-11 08:20:21",
+      "content": "Another female physician died of dengue fever at a hospital in the capital on Friday morning. Sharifa Binte Aziz, 27, of Dohar upazila in Dhaka, breathed her last at Intensive Care Unit (ICU) of Dha\u2026 [+409 chars]",
+      "retrievedAt": "2023-08-14 07:05:54.275368",
+      "internal_id": "88adb89454dd443dcb71507e9de738f160179cc69f08d8b3f2d202c25c5ca488",
       "publishedAtLabel": "Aug 11"
     },
     {
@@ -3452,168 +3614,6 @@
       "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
       "retrievedAt": "2023-08-05 07:05:14.296487",
       "internal_id": "b441876a36e1c2fb9e7b1d7d4602de815a8c36091dd1edf26f4d997c8ea2b779",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 888,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Bacteria, Seen as Safe for the Environment, May Help Aid Malaria Eradication - BNN Bloomberg",
-      "description": "Bacteria, Seen as Safe for the Environment, May Help Aid Malaria Eradication BNN Bloomberg Bacteria in mosquito guts trialled as weapon against malaria Financial Times Chance discovery helps fight against malaria BBC M\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJubmJsb29tYmVyZy5jYS9iYWN0ZXJpYS1zZWVuLWFzLXNhZmUtZm9yLXRoZS1lbnZpcm9ubWVudC1tYXktaGVscC1haWQtbWFsYXJpYS1lcmFkaWNhdGlvbi0xLjE5NTQ2ODLSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-03 19:34:20",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.875987",
-      "internal_id": "f1a87faf06add2f19c391ccf23c4ed8c8611149b533cbaa078af853560200e41",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 872,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Publicnow",
-      "title": "GSK : New research published in Science highlights potential of a naturally occurring bacterium to help eradicate malaria",
-      "description": "(marketscreener.com) Download PDF of press release Attachments Original Link Original Document Permalink Disclaimer GSK plc published this content on 03 August 2023 and is solely responsible for the information contained..\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/GSK-PLC-9590199/news/GSK-New-research-published-in-Science-highlights-potential-of-a-naturally-occurring-bacterium-to-h-44513562/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-08-03 18:35:02",
-      "content": "Merck &amp; Co, Inc: A cash cow that hides some gems July 18, 2022 at 06:12 am",
-      "retrievedAt": "2023-08-04 19:05:16.919299",
-      "internal_id": "c84661c9047acb29708a45fd6bcffbc6b2027914c691bb5d8714aed1031a8a0c",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 856,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": "CDC",
-      "title": "Notes from the Field: Measles Outbreak - Central Ohio, 2022-2023",
-      "description": "This report describes a community measles outbreak in central Ohio.",
-      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7231a3.htm",
-      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7231a3_MeaslesOutbreak_IMAGE_04Aug2023_1200x675.jpg?_=86485",
-      "publishedAt": "2023-08-03 17:00:00",
-      "content": "Elizabeth C. Tiller, MSPA1,2; Nina B. Masters, PhD1; Kelley L. Raines, MPH3; Adria D. Mathis, MSPH3; Stephen N. Crooke, PhD3; Rebecca C. Zwickl, MPH2; Gavin K. French2; Emily R. Alexy, MPH2; Elizabet\u2026 [+11773 chars]",
-      "retrievedAt": "2023-08-04 19:05:15.829635",
-      "internal_id": "2b1de84cd55ddf4bb2f8d217e0975184050f0afe7fae22b06d733853605c63c2",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 876,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": "CDC",
-      "title": "Erratum: Vol. 72, No. 15",
-      "description": "Erratum for MMWR Vo. 72, No. 15",
-      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7231a5.htm",
-      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7231a5_Erratum_IMAGE_04Aug2023_1200x675.jpg?_=86490",
-      "publishedAt": "2023-08-03 17:00:00",
-      "content": "The report, \u201cEpidemiologic and Clinical Features of Mpox-Associated Deaths \u2014 United States, May 10, 2022\u2013March 7, 2023,\u201d contained several errors. On page 407, in Table 1, the eleventh row heading s\u2026 [+3238 chars]",
-      "retrievedAt": "2023-08-04 19:05:18.066931",
-      "internal_id": "50d45248a8cfb7c426228c1bc9fae465e42a1e9911e7330d5671b140068559a7",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 859,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "\u2018Dengue Spreading From Bangladesh\u2019: Tripura Govt Starts Screening At Border Checkposts Amid Surge In Cases - Jagran English",
-      "description": "\u2018Dengue Spreading From Bangladesh\u2019: Tripura Govt Starts Screening At Border Checkposts Amid Surge In Cases Jagran English Tripura battles surge in dengue cases; 182 positive cases reported - Tripura battles surge in dengue cases; 182 positi\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMilwFodHRwczovL2VuZ2xpc2guamFncmFuLmNvbS9pbmRpYS9kZW5ndWUtc3ByZWFkaW5nLWZyb20tYmFuZ2xhZGVzaC10cmlwdXJhLWdvdmVybm1lbnQtc3RhcnRzLXNjcmVlbmluZy1hdC1ib3JkZXItY2hlY2twb3N0cy1hbWlkLXN1cmdlLWluLWNhc2VzLTEwMDkxNTg40gGcAWh0dHBzOi8vZW5nbGlzaC5qYWdyYW4uY29tL2xpdGUvaW5kaWEvZGVuZ3VlLXNwcmVhZGluZy1mcm9tLWJhbmdsYWRlc2gtdHJpcHVyYS1nb3Zlcm5tZW50LXN0YXJ0cy1zY3JlZW5pbmctYXQtYm9yZGVyLWNoZWNrcG9zdHMtYW1pZC1zdXJnZS1pbi1jYXNlcy0xMDA5MTU4OA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-03 16:02:25",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-04 19:05:16.321303",
-      "internal_id": "e94316792187873844574ffeaedddfeb76a3afecb03ba378af478b5421f7cde5",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 867,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "Alerta por aumento de casos de dengue en Bol\u00edvar",
-      "description": "Debido al incremento exponencial de los casos de dengue en Bol\u00edvar, las autoridades departamentales, lideradas por la Oficina Asesora para la Gesti\u00f3n del Riesgo del departamento y la Secretar\u00eda de Salud, hicieron un en\u00e9rgico llamado a los alcaldes de cada uno\u2026",
-      "url": "https://www.eluniversal.com.co/regional/alerta-por-aumento-de-casos-de-dengue-en-bolivar-LB8740481",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/915x686/0c1/800d686/none/13704/QKNE/dengue-en-bolivar_8210431_20230802183559.jpg",
-      "publishedAt": "2023-08-03 15:00:00",
-      "content": "Debido al incremento exponencial de los casos de dengue en Bol\u00edvar, las autoridades departamentales, lideradas por la Oficina Asesora para la Gesti\u00f3n del Riesgo del departamento y la Secretar\u00eda de Sa\u2026 [+1756 chars]",
-      "retrievedAt": "2023-08-04 19:05:16.336327",
-      "internal_id": "da519c5f3bf1a62d528aee38474afb2454b75a6de95c56b601538527574e381a",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 865,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknews.lat",
-      "author": "Sputnik Mundo",
-      "title": "Argentina confirma presencia de mosquitos del dengue que son resistentes a insecticidas",
-      "description": "BUENOS AIRES (Sputnik) \u2014 En el \u00e1rea metropolitana de Buenos Aires y en dos zonas de las provincias argentinas de Jujuy y de Salta los mosquitos Aedes aegypyi, que transmiten el dengue, mostraron una modificaci\u00f3n gen\u00e9tica que los hace resistentes a los insecti\u2026",
-      "url": "https://sputniknews.lat/20230803/argentina-confirma-presencia-de-mosquitos-del-dengue-que-son-resistentes-a-insecticidas-1142221104.html",
-      "urlToImage": "https://cdn1.img.sputniknews.lat/images/sharing/article/spa/1142221104.jpg?11374873571691074073",
-      "publishedAt": "2023-08-03 14:47:00",
-      "content": "Suscr\u00edbete a nuestros canales de Telegram a trav\u00e9s de estosenlaces. Ya que la aplicaci\u00f3n Sputnik est\u00e1 bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo m\u00f3v\u2026 [+78 chars]",
-      "retrievedAt": "2023-08-04 19:05:16.331593",
-      "internal_id": "07fff169d7305fc702faf305063ba5f5026e27529716b524cf3868d9c63ca8d9",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 861,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue surge in Tripura continues, 158 cases confirmed - The Hindu",
-      "description": "Dengue surge in Tripura continues, 158 cases confirmed The Hindu 'Dengue Spreading from Bangladesh': Tripura Starts Tests at Border Checkposts News18 Tripura reports first suspected dengue death, over 30 patients in hospitals Th\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL25hdGlvbmFsL290aGVyLXN0YXRlcy9kZW5ndWUtc3VyZ2UtaW4tdHJpcHVyYS1jb250aW51ZXMtMTU4LWNhc2VzLWNvbmZpcm1lZC9hcnRpY2xlNjcxNTQ2NzIuZWNl0gGCAWh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL25hdGlvbmFsL290aGVyLXN0YXRlcy9kZW5ndWUtc3VyZ2UtaW4tdHJpcHVyYS1jb250aW51ZXMtMTU4LWNhc2VzLWNvbmZpcm1lZC9hcnRpY2xlNjcxNTQ2NzIuZWNlL2FtcC8?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-03 14:32:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-04 19:05:16.324192",
-      "internal_id": "8988d9f64ddd01d1df34817eb3f40cdf787812cd187a9177ac1c976b5ba4b8c8",
-      "publishedAtLabel": "Aug 3"
-    },
-    {
-      "id": 870,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Hamzah Hasyim, Muhammad Aandi Ihram, Fakhriyatiningrum, Misnaniarti, Haerawati Idris, Iche Andriyani Liberty, Rostika Flora, Hilda Zulkifli, Zemenu Tadesse Tessema, Fadhilah Eka Maharani, Din Syafrudin, Patricia Dale",
-      "title": "Environmental determinants and risk behaviour in the case of indigenous malaria in Muara Enim Regency, Indonesia: A case-control design",
-      "description": "Introduction Malaria is a significant public health concern in Indonesia. Muara Enim Regency is one of the districts in South Sumatra with the most important number of indigenous malaria cases in the last three years (2018\u20132020). Therefore, this study aimed t\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289354",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0289354.g001&size=inline",
-      "publishedAt": "2023-08-03 14:00:00",
-      "content": "Abstract Introduction Malaria is a significant public health concern in Indonesia. Muara Enim Regency is one of the districts in South Sumatra with the most important number of indigenous malaria c\u2026 [+27583 chars]",
-      "retrievedAt": "2023-08-04 19:05:16.913859",
-      "internal_id": "7640623895c332a2b3a0ebbec1864411c638715050b1a6e416107923bec35de0",
       "publishedAtLabel": "Aug 3"
     }
   ]
