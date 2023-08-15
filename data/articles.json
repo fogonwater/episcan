@@ -1,8 +1,188 @@
 {
-  "last_updated": "2023-08-14 19:05",
+  "last_updated": "2023-08-15 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 1083,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Bangladesh's dengue death toll nears 400, cases surpass 85,000",
+      "description": "DHAKA, Aug. 14 (Xinhua) -- Eleven more dengue deaths were confirmed in a 24-hour period in Banglades",
+      "url": "http://en.people.cn/n3/2023/0814/c90000-20057966.html",
+      "urlToImage": null,
+      "publishedAt": "2023-08-14 06:21:55",
+      "content": "(Xinhua) 14:20, August 14, 2023 DHAKA, Aug. 14 (Xinhua) -- Eleven more dengue deaths were confirmed in a 24-hour period in Bangladesh, bringing the total number of fatalities in the country so far t\u2026 [+1005 chars]",
+      "retrievedAt": "2023-08-15 07:05:46.257249",
+      "internal_id": "3e26b75bb196a8f42c29acb10ace23a829db6b3d630a76f3b4fb72f19edb5f3c",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1089,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Dow Jones",
+      "title": "Valneva Says FDA Has Delayed Chikungunya Vaccine Review Date",
+      "description": "(marketscreener.com) By Maitane Sardon Valneva said Monday that the U.S. Food and Drug Administration has delayed the target date for completing the regulatory review of the marketing application for its chikungunya vaccine candidate to the end of Novem\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Says-FDA-Has-Delayed-Chikungunya-Vaccine-Review-Date-44603972/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-08-14 06:04:04",
+      "content": "By Maitane Sardon Valneva said Monday that the U.S. Food and Drug Administration has delayed the target date for completing the regulatory review of the marketing application for its chikungunya va\u2026 [+560 chars]",
+      "retrievedAt": "2023-08-15 07:05:48.305090",
+      "internal_id": "3707a574cb2294351ba52bde785b72e4849bc2d9861befdcb4f781e18456c5a1",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1091,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "GlobeNewswire",
+      "title": "Valneva Announces PDUFA Date Extension for Chikungunya Virus Vaccine Candidate",
+      "description": "(marketscreener.com) Saint-Herblain , August 14, 2023 \u2013 Valneva SE , a specialty vaccine company, today announced that the U.S. Food and Drug Administration has revised the Prescription Drug User Fee Act action date for the Biologics License Application for V\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Announces-PDUFA-Date-Extension-for-Chikungunya-Virus-Vaccine-Candidate-44603663/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-08-14 05:01:02",
+      "content": "Saint-Herblain(France), August14, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the U.S. Food and Drug Administration (FDA) has revised the Pre\u2026 [+4786 chars]",
+      "retrievedAt": "2023-08-15 07:05:48.312624",
+      "internal_id": "26285b8b60d7997cc5c487d6a85563ff304a8cf90cb71e048a3602c411770d33",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1090,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Announces PDUFA Date Extension for Chikungunya Virus Vaccine Candidate",
+      "description": "Saint-Herblain (France), August 14, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the U.S. Food and Drug Administration (FDA) has revised the Prescription Drug User Fee Act (PDUFA) action date for the\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/08/14/2724041/0/en/Valneva-Announces-PDUFA-Date-Extension-for-Chikungunya-Virus-Vaccine-Candidate.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-08-14 05:00:00",
+      "content": "Saint-Herblain(France), August14, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the U.S. Food and Drug Administration (FDA) has revised the Pre\u2026 [+4720 chars]",
+      "retrievedAt": "2023-08-15 07:05:48.309082",
+      "internal_id": "14948c65aaa75b0a791a519a48e3d72704f6cda9b5471e68580700aa2ab340c2",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1092,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva annonce le report de la date-cible pour l\u2019examen r\u00e9glementaire de son candidat vaccin contre le chikungunya",
+      "description": "Saint-Herblain (France), 14 ao\u00fbt 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd\u2019hui que l\u2019agence de sant\u00e9 am\u00e9ricaine Food and Drug Administration (FDA) a modifi\u00e9 la date-cible, dans le cadre de la \u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/08/14/2724041/0/fr/Valneva-annonce-le-report-de-la-date-cible-pour-l-examen-r%C3%A9glementaire-de-son-candidat-vaccin-contre-le-chikungunya.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-08-14 05:00:00",
+      "content": "Saint-Herblain (France), 14 ao\u00fbt 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourdhui que lagence de sant\u00e9 am\u00e9ricaine Food and Drug Administrat\u2026 [+5054 chars]",
+      "retrievedAt": "2023-08-15 07:05:48.317200",
+      "internal_id": "ec27eb147d632c00c8fa7727a1af46592645b2ed433419a5fac230df420543f7",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1084,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Zweite Verteidigungslinie gegen Malaria - Tagesspiegel Background",
+      "description": "Zweite Verteidigungslinie gegen Malaria Tagesspiegel Background",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYmFja2dyb3VuZC50YWdlc3NwaWVnZWwuZGUvZ2VzdW5kaGVpdC96d2VpdGUtdmVydGVpZGlndW5nc2xpbmllLWdlZ2VuLW1hbGFyaWHSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-14 04:02:47",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-15 07:05:47.211796",
+      "internal_id": "146e716fd8faf79bc691742b96ca7475c6ef3c51df0846e75612ed58b6a607d7",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1085,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gatesnotes.com",
+      "author": "Bill Gates",
+      "title": "A big threat to malaria eradication",
+      "description": "Climate change could stall the world\u2019s amazing progress on health.",
+      "url": "https://www.gatesnotes.com/Climate-change-and-malaria",
+      "urlToImage": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/be653a96-38e9-44ba-9301-6df1d39b502a/20230810-MalariaClimate-social_share_1200x630.jpg",
+      "publishedAt": "2023-08-14 00:00:00",
+      "content": "Its mind-blowing how much health has improved for the worlds poorest people over the past two decades. Malaria deaths, for example, have dropped by more than a third. Eradicating the disease has beco\u2026 [+915 chars]",
+      "retrievedAt": "2023-08-15 07:05:47.217080",
+      "internal_id": "b3e17d118f490d583555935bb311c7e3fbf2c76c47ce8f284fbce46f4e7bf4d1",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1086,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gatesnotes.com",
+      "author": "Bill Gates",
+      "title": "The world's newest weapon against malaria? Mosquitoes",
+      "description": "A highly invasive, urban mosquito is driving up malaria cases in Africa. But a new technology that uses mosquitoes as allies may offer a powerful solution.",
+      "url": "https://www.gatesnotes.com/Urban-mosquitoes-and-Oxitec",
+      "urlToImage": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/2d836797-ae55-4d39-9eb0-edd725140cd5/mw_2023_oxitech_social-share_1200x630_01.jpg",
+      "publishedAt": "2023-08-14 00:00:00",
+      "content": "About 10 years ago, the African country of Djibouti had nearly succeeded in wiping out malaria. The countrys leaders hoped that getting rid of the disease would help them attract new investment, deve\u2026 [+5695 chars]",
+      "retrievedAt": "2023-08-15 07:05:47.221680",
+      "internal_id": "ef060941b8c00eb218a872610a9df0465c35eabec9943bc371f3093fa73ee7c5",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1087,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gatesnotes.com",
+      "author": "Bill Gates",
+      "title": "The malaria geneticist cultivating the next generation of African scientists",
+      "description": "Bill Gates publishes a guest essay on the importance of cultivating the next generation of African scientists to fight malaria and other mosquito-borne diseases",
+      "url": "https://www.gatesnotes.com/Charles-Wondji-malaria-research",
+      "urlToImage": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/7b953ab7-5ea7-4ecb-9d2c-91505e48b5cb/mw_2023_wondji_social-share_1200x630_01.jpg",
+      "publishedAt": "2023-08-14 00:00:00",
+      "content": "Each year, I love sharing stories from around the world about the incredible work being done to fight malaria. Sometimes, though, those stories are best told firsthand. Thats why I invited Professor \u2026 [+8235 chars]",
+      "retrievedAt": "2023-08-15 07:05:47.224993",
+      "internal_id": "e3a6f77dc127ed312fd7f0b5a1696b9bd7d91aa63fb20e8468404128a0788a97",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1088,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gatesnotes.com",
+      "author": "Bill Gates",
+      "title": "This scientist uses 80-year-old insects to help fight malaria",
+      "description": "I wrote a Heroes in the Field post about Dr. Mara Lawniczak, an evolutionary geneticist in the UK who is fighting malaria by studying the genes of mosquitoes.",
+      "url": "https://www.gatesnotes.com/Heroes-in-the-Field-Mara-Lawniczak",
+      "urlToImage": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/2336c1ee-cec1-4b5f-b0b4-1130066f2c4b/20230804-HITF-MaraLawniczak-social_share_1200x630.jpg",
+      "publishedAt": "2023-08-14 00:00:00",
+      "content": "Of all the things I thought would help fight malaria, 100-year-old mosquitoes would not have been high on the list. Then I learned about the work of Dr. Mara Lawniczak. An evolutionary geneticist at\u2026 [+4298 chars]",
+      "retrievedAt": "2023-08-15 07:05:47.227549",
+      "internal_id": "6c49122fc4dfd350a80702377df28660065a8650e706dd0224df9b38572f70c4",
+      "publishedAtLabel": "Aug 14"
+    },
     {
       "id": 1081,
       "query": [
@@ -3434,186 +3614,6 @@
       "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
       "retrievedAt": "2023-08-05 19:05:04.329148",
       "internal_id": "4aa6c572c4ce6c913c9f93318a2e566658f856cad46e4f208d6c8b2e97ec2391",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 885,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue fever: Serotype-2 more active in Nepal",
-      "description": "KATHMANDU: The current circulating serotype of dengue virus in the country is DENV-2, according to a study carried out by the Epidemiology and Infectious Diseases Control Division of the Ministry of Health and Population. Dr Gokarna Dahal of the Division said\u2026",
-      "url": "https://english.khabarhub.com/2023/04/313210/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-08-04 06:20:51",
-      "content": "KATHMANDU: The current circulating serotype of dengue virus in the country is DENV-2, according to a study carried out by the Epidemiology and Infectious Diseases Control Division of the Ministry of \u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.309668",
-      "internal_id": "62761589a5446ac4c4a7cdf3fef140ef27d1313357d04f61b1ad5413a795fb66",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 881,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue Cases at All-Time High in India: Tips to Stay Safe - Krishi Jagran",
-      "description": "Dengue Cases at All-Time High in India: Tips to Stay Safe Krishi Jagran Dengue Cases Rising In India: 5 Protective Measures To Keep Your Children Safe From Dengue Fever Zee News Dengue On The Rise In India: Early Signs of The De\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiY2h0dHBzOi8va3Jpc2hpamFncmFuLmNvbS9oZWFsdGgtbGlmZXN0eWxlL2Rlbmd1ZS1jYXNlcy1hdC1hbGwtdGltZS1oaWdoLWluLWluZGlhLXRpcHMtdG8tc3RheS1zYWZlL9IBaWh0dHBzOi8va3Jpc2hpamFncmFuLmNvbS9oZWFsdGgtbGlmZXN0eWxlL2Rlbmd1ZS1jYXNlcy1hdC1hbGwtdGltZS1oaWdoLWluLWluZGlhLXRpcHMtdG8tc3RheS1zYWZlLz9hbXA9MQ?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-04 05:28:22",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.297875",
-      "internal_id": "f025c3f6517884ebf756a1982e179e10397a0e7a2ca2d1a4159cfb91303acea8",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 891,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Chance discovery helps fight against malaria - BBC",
-      "description": "Chance discovery helps fight against malariaBBC Microbe stops mosquitoes from harboring malaria parasiteScience Bacteria in mosquito guts trialled as weapon against malariaFinancial Times Delftia tsuruhatensis TC1 symbiont suppresses malaria transmission by a\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171537984",
-      "urlToImage": null,
-      "publishedAt": "2023-08-04 03:12:12",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.883342",
-      "internal_id": "4664ee75f0436d21190a795683ac5de69979648d618c580985109d65e24021b4",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 879,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "MedPage Today",
-      "author": "Medpage Today",
-      "title": "Measles Outbreak Racked Up Dozens of Cases in Central Ohio",
-      "description": "Measles Outbreak Racked Up Dozens of Cases in Central Ohiomedpagetoday.com",
-      "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/105750",
-      "urlToImage": "https://assets.medpagetoday.net/media/images/105xxx/105750.jpg",
-      "publishedAt": "2023-08-04 03:02:36",
-      "content": "A measles outbreak swept through central Ohio at the end of 2022, infecting almost exclusively children unvaccinated against the disease, CDC researchers found. From November through December, 85 ch\u2026 [+5654 chars]",
-      "retrievedAt": "2023-08-05 07:05:13.933849",
-      "internal_id": "7ddf5d88edcbe46879189f4fc7062a7c65c9420f8b0fdac4907a1dbf8744fd4e",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 882,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "182 infected with Dengue in Tripura: Govt advises not to panic - United News of India",
-      "description": "182 infected with Dengue in Tripura: Govt advises not to panic United News of India Tripura battles surge in dengue cases; 182 positive cases reported - Tripura battles surge in dengue cases; 182 positive cases reported - India Today NE <\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibGh0dHA6Ly93d3cudW5paW5kaWEuY29tLzE4Mi1pbmZlY3RlZC13aXRoLWRlbmd1ZS1pbi10cmlwdXJhLWdvdnQtYWR2aXNlcy1ub3QtdG8tcGFuaWMvZWFzdC9uZXdzLzMwMjM5NjguaHRtbNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-04 02:50:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.299134",
-      "internal_id": "526014dd319f85ad5b8abc6adf085dc3325952de153b5c9996539653be160290",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 883,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "\u2018Dengue spreading from Bangladesh\u2019: Tripura starts tests at border checkposts",
-      "description": "AGARTALA, Aug 3 (PTI): Tripura has registered 92 cases of dengue over the past few days, and most of them were detected in the Sepahijala district along the Bangladesh border, an official said on Thursday. There has been no death due to dengue in the state ye\u2026",
-      "url": "https://thehillstimes.in/northeast/dengue-spreading-from-bangladesh-tripura-starts-tests-at-border-checkposts",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/08/\u2018Dengue-spreading-from-Bangladesh-Tripura-starts-tests-at-border-checkposts.jpg",
-      "publishedAt": "2023-08-04 00:53:29",
-      "content": "AGARTALA, Aug 3 (PTI): Tripura has registered 92 cases of dengue over the past few days, and most of them were detected in the Sepahijala district along the Bangladesh border, an official said on Thu\u2026 [+1334 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.301944",
-      "internal_id": "d7709e6edbdb569ee40e6344df576152599511ee0cde82b75d249f371ee74849",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 892,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "Bbc News",
-      "title": "Chance discovery helps fight against malaria",
-      "description": "Scientists have found a strain of bacteria which they believe could prevent spread of the disease.",
-      "url": "https://www.bbc.com/news/health-66394117",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EEB0/production/_130640116_gettyimages-1449441320.jpg",
-      "publishedAt": "2023-08-04 00:41:15",
-      "content": "Scientists have found a naturally occurring strain of bacteria which can help stop the transmission of malaria from mosquitoes to humans. They found it by chance, after a colony of mosquitoes in on\u2026 [+2807 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.884636",
-      "internal_id": "847ad54c658e3f28fc75f0b74d35f92eab60e4c531a5ef0c56d667fa8a475023",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 890,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "Naomi Grimley - Health Correspondent",
-      "title": "Chance discovery helps fight against malaria",
-      "description": "Scientists have found a strain of bacteria which they believe could prevent spread of the disease.",
-      "url": "https://www.bbc.com/news/health-66394117?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/ba4d9ffa3e8dd478a6b9002deeca5eb0",
-      "publishedAt": "2023-08-04 00:22:23",
-      "content": "Scientists have found a naturally occurring strain of bacteria which can help stop the transmission of malaria from mosquitoes to humans. They found it by chance, after a colony of mosquitoes in one\u2026 [+2743 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.878512",
-      "internal_id": "f30a8398837f0400d893c24ff59814879e1ac531e008f16432cc21de12f743eb",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 886,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Chance discovery helps fight against malaria",
-      "description": "Scientists have found a strain of bacteria which they believe could prevent spread of the disease.",
-      "url": "https://www.bbc.co.uk/news/health-66394117",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EEB0/production/_130640116_gettyimages-1449441320.jpg",
-      "publishedAt": "2023-08-04 00:19:25",
-      "content": "Scientists have found a naturally occurring strain of bacteria which can help stop the transmission of malaria from mosquitoes to humans. They found it by chance, after a colony of mosquitoes in on\u2026 [+2807 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.872653",
-      "internal_id": "8f2ad0e7c96b71ef9c69a440edc52c4584a9d69f8d909a94e661ded2a45e6df9",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 889,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Chance discovery helps fight against malaria - BBC",
-      "description": "Chance discovery helps fight against malaria BBC Microbe stops mosquitoes from harboring malaria parasite Science Bacteria in mosquito guts trialled as weapon against malaria Financial Times Delftia tsuruhatensis TC1 s\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9oZWFsdGgtNjYzOTQxMTfSASxodHRwczovL3d3dy5iYmMuY29tL25ld3MvaGVhbHRoLTY2Mzk0MTE3LmFtcA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-04 00:19:25",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-05 07:05:14.877103",
-      "internal_id": "2093a46cd729f9740a1584a671a625497e5dcbfb0ae1a3e77447fa39c6a6c3b6",
       "publishedAtLabel": "Aug 4"
     }
   ]
