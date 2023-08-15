@@ -1,8 +1,225 @@
 {
-  "last_updated": "2023-08-15 07:05",
+  "last_updated": "2023-08-15 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 1095,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsroom.gy",
+      "author": "Editor",
+      "title": "Six children died from dengue during recent surge- Health Minister",
+      "description": "Six children died over the past few weeks after they were infected with dengue, Health Minister Dr. Frank Anthony said on Monday.\u201cSince we\u2019ve seen the outbreak here, six children died at the Georgetown (Public) Hospital.\u201cIt\u2019s something that we have t",
+      "url": "https://newsroom.gy/2023/08/14/six-children-died-from-dengue-during-recent-surge-health-minister/",
+      "urlToImage": "https://newsroom.gy/wp-content/uploads/2023/07/dengue-report-1-1024x683.png",
+      "publishedAt": "2023-08-14 18:36:13",
+      "content": "Six children died over the past few weeks after they were infected with dengue, Health Minister Dr. Frank Anthony said on Monday. Since weve seen the outbreak here, six children died at the Georgeto\u2026 [+1637 chars]",
+      "retrievedAt": "2023-08-15 19:05:16.785880",
+      "internal_id": "52bfebfc87841db8f29a56dd5c33f8e9494188718944a5ca3e708837947a609b",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1104,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 Mail.ru",
+      "title": "\u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440 \u043d\u0430\u0437\u0432\u0430\u043b \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u043c \u0440\u0438\u0441\u043a \u0437\u0430\u0432\u043e\u0437\u0430 \u0447\u0443\u043c\u044b \u0438\u0437 \u041a\u0438\u0442\u0430\u044f",
+      "description": "\u0420\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0447\u0443\u043c\u044b \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0437\u0430\u0432\u043e\u0437\u0430 \u0435\u0435 \u0438\u0437 \u041a\u0438\u0442\u0430\u044f \u043c\u0430\u043b\u043e\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e, \u0441\u0447\u0438\u0442\u0430\u044e\u0442 \u0432 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440\u0435.",
+      "url": "https://news.mail.ru/society/57413921/",
+      "urlToImage": "https://resizer.mail.ru/p/b7d8fd09-eb04-580a-b413-6276c4bd835b/op:40/logo:bottom:news.png/ot:0KDQvtGB0L_QvtGC0YDQtdCx0L3QsNC00LfQvtGAINC90LDQt9Cy0LDQuyDQvNC40L3QuNC80LDQu9GM0L3Ri9C8INGA0LjRgdC6INC30LDQstC-0LfQsCDRh9GD0LzRiyDQuNC3INCa0LjRgtCw0Y8/AQAGem0hrDQk6R6WRHglgJic7PFRolTXhk9owYb-sEcPKLY-tWEEG0EaSqoWZIIpHXQf0A_A06bFKapowVccNw-n-Eo.jpg",
+      "publishedAt": "2023-08-14 18:29:16",
+      "content": "\u00ab - \u201c\u201d \u201c \u201d. \u00bb, \u2014 . Reuters, 7 () , 13 , . , , , . \u2014 Yersinia pestis. , , , , . , , - . : . , \u2014 , \u00ab\u00bb. . 7 , -, news.mn. . - 14 , . ,\u2026 [+103 chars]",
+      "retrievedAt": "2023-08-15 19:05:18.373325",
+      "internal_id": "8e0bfc43cb5a05c1f02c23373d9789cdcc2c5f0e5174b97621f80e882bd3cb20",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1094,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Dengue Outbreak In Bangladesh",
+      "description": "A deadly outbreak of dengue fever has struck Bangladesh. Infections continue to rise as 364 people have already been confirmed dead from the mosquito-borne illness.",
+      "url": "https://www.shtfplan.com/headline-news/dengue-outbreak-in-bangladesh",
+      "urlToImage": null,
+      "publishedAt": "2023-08-14 17:30:53",
+      "content": "A deadly outbreak of dengue fever has struck Bangladesh. Infections continue to rise as 364 people have already been confirmed dead from the mosquito-borne illness. According to a report by ABC News\u2026 [+2013 chars]",
+      "retrievedAt": "2023-08-15 19:05:16.776671",
+      "internal_id": "f310934de7eb35cea5b1e286c00eea23265bd2813d3b4b0aacac087803d47eb0",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1098,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Publico.es",
+      "author": "Agencia Atlas",
+      "title": "Cient\u00edficos espa\u00f1oles identifican una nueva bacteria que reduce la transmisi\u00f3n de la malaria",
+      "description": "V\u00eddeo AP-LaPresse/Agencia Atlas - Un grupo de cient\u00edficos espa\u00f1oles que lucha contra la malaria acaba de identificar una nueva bacteria que reduce estos par\u00e1sitos en los mosquitos. David Barros-Aguirre, el jefe del laboratorio de la farmac\u00e9utica GSK en Madri\u2026",
+      "url": "https://www.publico.es/videos/1066518/cientificos-espanoles-identifican-una-nueva-bacteria-que-reduce-la-transmision-de-la-malaria",
+      "urlToImage": "https://ficheracos.publico.es//images/thumbnails/2023/230814AGEWEB-14AG028HQ.jpg",
+      "publishedAt": "2023-08-14 16:40:11",
+      "content": "V\u00eddeo AP-LaPresse/Agencia Atlas - Un grupo de cient\u00edficos espa\u00f1oles que lucha contra la malaria acaba de identificar una nueva bacteria que reduce estos par\u00e1sitos en los mosquitos. David Barros-Aguir\u2026 [+1428 chars]",
+      "retrievedAt": "2023-08-15 19:05:17.242230",
+      "internal_id": "93b442f8daedcbafeb145e5354f0a0b4e91b2fa1128eea00edf0e3c18745f753",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1093,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Radio Free Europe/ Radio Liberty",
+      "author": "RFE/RL's Kyrgyz Service",
+      "title": "Two Children Die Amid Measles Outbreak In Kyrgyzstan",
+      "description": "A measles outbreak in Kyrgyzstan has led to the deaths of two unrelated children, aged 3 and 1, over the past six months, officials said on August 14.",
+      "url": "https://www.rferl.org/a/two-children-die-measles-kyrgyzstan/32547720.html",
+      "urlToImage": "https://gdb.rferl.org/01000000-0aff-0242-4166-08db48f33fa7_w1200_r1.jpg",
+      "publishedAt": "2023-08-14 16:25:36",
+      "content": "Iran has reportedly arrested nine more members of the Baha'i faith, the country's largest non-Muslim community, shutting down and confiscating more than 40 pharmacies and warehouses belonging to the \u2026 [+2449 chars]",
+      "retrievedAt": "2023-08-15 19:05:16.499910",
+      "internal_id": "e1794d093460b91f8f2d67fadebd289c1cebfa4ab0b47af5e11f41d3eb31693f",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1097,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Dengue death toll crosses 400, new deaths 18",
+      "description": "Eighteen more people died of dengue in the country in the last 24 hours. Till date, Bangladesh counted some 416 deaths from the mosquito-borne disease this year. Besides, some 2,480 people were hospitalised with dengue infection in the same period of time. Th\u2026",
+      "url": "https://sylhetmirror.com/2023/08/14/dengue-death-toll-crosses-400-new-deaths-18/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/wqeqer.jpg",
+      "publishedAt": "2023-08-14 14:40:02",
+      "content": "Eighteen more people died of dengue in the country in the last 24 hours. Till date, Bangladesh counted some 416 deaths from the mosquito-borne disease this year.Besides, some 2,480 people were hospi\u2026 [+226 chars]",
+      "retrievedAt": "2023-08-15 19:05:16.790865",
+      "internal_id": "4bd8d346f87050c96228e1393034c73f5c88fd5d4f650b17dc7c6481adc20ca8",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1102,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412\u041e\u0417 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0430 \u0431\u043e\u043b\u0435\u0435 1 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u043c\u0438\u0440\u0435 \u0441 \u0441\u0435\u0440\u0435\u0434\u0438\u043d\u044b \u0438\u044e\u043b\u044f",
+      "description": "\u041f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u043e\u0431\u0449\u0435\u0435 \u0447\u0438\u0441\u043b\u043e \u0437\u0430\u0440\u0430\u0437\u0438\u0432\u0448\u0438\u0445\u0441\u044f \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 2022 \u0433\u043e\u0434\u0430 \u043f\u0440\u0435\u0432\u044b\u0441\u0438\u043b\u043e 89 \u0442\u044b\u0441.",
+      "url": "https://tass.ru/obschestvo/18506155",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/18506155?u=2023-08-14T14:01:36.379686",
+      "publishedAt": "2023-08-14 14:01:36",
+      "content": ", 14 . //. 1 . mpox (\"\", ) 14 9 , 2022 89 ., 152 . 113 , (). \" 1 2022 9 2023- 113 89 308 mpox, 152 \", - , . 14 , mpox, 1 020 . - -, . , \" [mpox]\" 9 2022 (30 446). 10- (10 967), (7 560), (4 150), (\u2026 [+142 chars]",
+      "retrievedAt": "2023-08-15 19:05:17.763478",
+      "internal_id": "69b477ee943308e2132517f44b06b1423d27a23579f4f0433efe644b9558be6b",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1096,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Camila Perdoncini Carvalho, Junping Han, Khwannarin Khemsom, Ruifan Ren, Luis Eduardo Aranha Camargo, Shuhei Miyashita, Feng Qu",
+      "title": "Single-cell mutation rate of turnip crinkle virus (-)-strand replication intermediates",
+      "description": "Author summary Most (+) RNA viruses introduce replication errors at relatively high frequencies. As a result, it is of vital importance for these viruses to purge lethal errors in a timely manner. TCV, a plant-infecting small (+) RNA virus, was proposed to en\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011395",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011395.g003&size=inline",
+      "publishedAt": "2023-08-14 14:00:00",
+      "content": "Introduction Viruses with single-stranded, positive sense (+) RNA genomes are a major class of human, animal, and plant pathogens that include poliovirus, Dengue virus, Zika virus, and more recently\u2026 [+41383 chars]",
+      "retrievedAt": "2023-08-15 19:05:16.788295",
+      "internal_id": "138f234130b3e12cae7899b592a12e069b629d921f964f09e47155859f925014",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1099,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nu.nl",
+      "author": "Trouw/Joost van Egmond",
+      "title": "Trouw | Kunnen we malaria bestrijden door muggen doof te maken?",
+      "description": "Een opmerkelijke benadering van ziekteverwekkende muggen biedt nieuwe kansen om de dieren te bestrijden: zet in op het gehoor van het mannetje, zeggen onderzoekers.",
+      "url": "https://www.nu.nl/uit-andere-media/6276444/kunnen-we-malaria-bestrijden-door-muggen-doof-te-maken.html",
+      "urlToImage": "https://media.nu.nl/m/5ylxo36ak5sj_wd1280/kunnen-we-malaria-bestrijden-door-muggen-doof-te-maken.jpg",
+      "publishedAt": "2023-08-14 13:41:57",
+      "content": "Dit artikel is afkomstig uit Trouw. Elke dag verschijnt een selectie van de beste artikelen uit de kranten en tijdschriften op NU.nl. Daar lees je hier meer over. Behalve een aartsvijand van vele me\u2026 [+1626 chars]",
+      "retrievedAt": "2023-08-15 19:05:17.245561",
+      "internal_id": "6bb7834048e93c73af023d590ff69490df49b9103aaf2ae148a402fe708b2604",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1101,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Challenges",
+      "author": "Reuters",
+      "title": "Valneva chute apr\u00e8s le report par la FDA de la date d'examen de son vaccin contre le Chikungunya",
+      "description": "(Reuters) - Le titre Valneva chutait en Bourse lundi apr\u00e8s la d\u00e9cision de l'agence am\u00e9ricaine du m\u00e9dicament (FDA) de reporter la date-cible de l'examen r\u00e9glementaire de son vaccin contre le Chikungunya. A la Bourse de Paris, vers 08h25 GMT, l'action du fabri\u2026",
+      "url": "https://www.challenges.fr/finance-et-marche/valneva-chute-apres-le-report-par-la-fda-de-la-date-d-examen-de-son-vaccin-contre-le-chikungunya_864314",
+      "urlToImage": "https://www.challenges.fr/assets/img/2023/08/14/cover-r4x3w1200-64d9f684a7904-le-logo-de-valneva-a-vienne-en-autriche.jpg",
+      "publishedAt": "2023-08-14 09:39:43",
+      "content": "(Reuters) - Le titre Valneva chutait en Bourse lundi apr\u00e8s la d\u00e9cision de l'agence am\u00e9ricaine du m\u00e9dicament (FDA) de reporter la date-cible de l'examen r\u00e9glementaire de son vaccin contre le Chikungun\u2026 [+1282 chars]",
+      "retrievedAt": "2023-08-15 19:05:17.612477",
+      "internal_id": "c77431e623ae702ff3967b0830fac340ef0d08f8e5525d3af6e941178f2a6478",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1103,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Rg.ru",
+      "author": null,
+      "title": "\u0412 \u0423\u043b\u0430\u043d-\u0411\u0430\u0442\u043e\u0440\u0435 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0442\u0440\u0438 \u0441\u043b\u0443\u0447\u0430\u044f \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u044f \u043d\u0430 \u0431\u0443\u0431\u043e\u043d\u043d\u0443\u044e \u0447\u0443\u043c\u0443",
+      "description": "\u0412 \u0441\u0442\u043e\u043b\u0438\u0446\u0435 \u041c\u043e\u043d\u0433\u043e\u043b\u0438\u0438 \u0423\u043b\u0430\u043d-\u0411\u0430\u0442\u043e\u0440\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0442\u0440\u0438 \u0441\u043b\u0443\u0447\u0430\u044f \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f, \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e, \u0431\u0443\u0431\u043e\u043d\u043d\u043e\u0439 \u0447\u0443\u043c\u043e\u0439. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0438\u043b \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0437\u043e\u043e\u043d\u043e\u0437\u043d\u044b\u0445 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0439.",
+      "url": "https://rg.ru/2023/08/14/v-ulan-batore-zafiksirovali-tri-sluchaia-podozreniia-na-bubonnuiu-chumu.html",
+      "urlToImage": "https://cdnstatic.rg.ru/images/rg-social-dummy-logo-650x360.jpg",
+      "publishedAt": "2023-08-14 09:18:10",
+      "content": ", , , -. - . , 137 17 , . , , . , 2017 , , . - - . - , - , Yersinia pestis. . \"\", , , .",
+      "retrievedAt": "2023-08-15 19:05:18.371304",
+      "internal_id": "cca61e51bd8b46044fb0ad8e95ad8736f7c85b00d1e0ba8e8de90f6e5a9fcdca",
+      "publishedAtLabel": "Aug 14"
+    },
+    {
+      "id": 1100,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Usine Nouvelle",
+      "author": "L'Usine Nouvelle",
+      "title": "Valneva chute apr\u00e8s le report par la FDA de la date d'examen de son vaccin contre le chikungunya",
+      "description": "Le titre Valneva chutait en Bourse ce 14 ao\u00fbt apr\u00e8s la d\u00e9cision de l'agence am\u00e9ricaine du m\u00e9dicament (FDA) de reporter la date-cible de l'examen r\u00e9glementaire de son vaccin contre le chikungunya. Mauvaise journ\u00e9e pour le laboratoire fran\u00e7ais Valneva. A la Bou\u2026",
+      "url": "https://www.usinenouvelle.com/article/valneva-chute-apres-le-report-par-la-fda-de-la-date-d-examen-de-son-vaccin-contre-le-chikungunya.N2160697",
+      "urlToImage": "https://www.usinenouvelle.com/mediatheque/2/0/1/001472102_300x200_c.JPG",
+      "publishedAt": "2023-08-14 07:39:00",
+      "content": "Mauvaise journ\u00e9e pour le laboratoire fran\u00e7ais Valneva. A la Bourse de Paris, vers 08h25 GMT, l'action du fabricant fran\u00e7ais de m\u00e9dicaments c\u00e9dait 9,71% \u00e0 6,06 euros \u00e0 09h18 GMT. En cause ? Le report \u2026 [+1196 chars]",
+      "retrievedAt": "2023-08-15 19:05:17.610338",
+      "internal_id": "35ab075cbed89e9a8e5bfc716becc512cfa4532c81786818777bc6df82d50e03",
+      "publishedAtLabel": "Aug 14"
+    },
     {
       "id": 1083,
       "query": [
@@ -3398,222 +3615,6 @@
       "content": "Information and Broadcasting Minister Hasan Mahmud on Friday said BNP is deadlier than dengue in many cases and this party should be resisted as like as this deadly disease. \u201cDengue (aedes) mosquito\u2026 [+2443 chars]",
       "retrievedAt": "2023-08-05 19:05:03.818004",
       "internal_id": "1cd467a1f511ef66e7b2f8bda645308b26ebd05a5dfcc09efabb5b246bac484e",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 905,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "salute@gedi.it (Redazione di Salute)",
-      "title": "Da un batterio delle zanzare la chiave per sconfiggere la malaria",
-      "description": "\u00c8 stato scoperto casualmente nell'intestino degli insetti e potrebbe frenare la diffusione di questa malattia che ogni anno uccide pi\u00f9 di mezzo milione di persone al mondo.",
-      "url": "https://www.repubblica.it/salute/2023/08/04/news/terapia_malaria-410038733/",
-      "urlToImage": "https://www.repstatic.it/content/contenthub/img/2023/08/04/152850440-b6912e53-1a81-44df-8fa1-372285999eb8.jpg",
-      "publishedAt": "2023-08-04 13:49:44",
-      "content": "Serendipit\u00e0: la capacit\u00e0 o fortuna di fare per caso inattese scoperte mentre si sta cercando altro. Questo \u00e8 proprio ci\u00f2 che \u00e8 capitato a un gruppo di scienziati nei laboratori spagnoli dell'azienda \u2026 [+403 chars]",
-      "retrievedAt": "2023-08-05 19:05:04.324829",
-      "internal_id": "0dfd5185b33690c7b2830e4b9cb220636fdd0385a2abd9ece1ca92528cb5f2d9",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 901,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09ac\u09bf\u098f\u09a8\u09aa\u09bf \u099c\u09a8\u09cd\u09ae\u09b2\u0997\u09cd\u09a8 \u09a5\u09c7\u0995\u09c7\u0987 \u09b8\u0982\u09ac\u09bf\u09a7\u09be\u09a8-\u09ac\u09bf\u099a\u09be\u09b0\u09ac\u09cd\u09af\u09ac\u09b8\u09cd\u09a5\u09be\u09b0 \u0993\u09aa\u09b0 \u0986\u09b8\u09cd\u09a5\u09be\u09b9\u09c0\u09a8: \u0993\u09ac\u09be\u09df\u09a6\u09c1\u09b2 \u0995\u09be\u09a6\u09c7\u09b0",
-      "description": "\u09a4\u09bf\u09a8\u09bf \u09ac\u09b2\u09c7\u09a8, \u09a6\u09c7\u09b6\u09c7\u09b0 \u09b8\u0982\u09ac\u09bf\u09a7\u09be\u09a8, \u09ac\u09bf\u099a\u09be\u09b0\u09ac\u09cd\u09af\u09ac\u09b8\u09cd\u09a5\u09be, \u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8, \u099c\u09a8\u09ae\u09a4, \u0997\u09a3\u09a4\u09be\u09a8\u09cd\u09a4\u09cd\u09b0\u09bf\u0995 \u09b0\u09c0\u09a4\u09bf\u09a8\u09c0\u09a4\u09bf \u0995\u09cb\u09a8\u09cb \u0995\u09bf\u099b\u09c1\u09b0 \u09aa\u09cd\u09b0\u09a4\u09bf \u099c\u09a8\u09cd\u09ae\u09b2\u0997\u09cd\u09a8 \u09a5\u09c7\u0995\u09c7\u0987 \u09ac\u09bf\u098f\u09a8\u09aa\u09bf\u09b0 \u0995\u09cb\u09a8\u09cb \u09aa\u09cd\u09b0\u0995\u09be\u09b0 \u0986\u09b8\u09cd\u09a5\u09be \u09a8\u09c7\u0987\u0964",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/politics/news-502626",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/05/image-57034-1662370252.jpg",
-      "publishedAt": "2023-08-04 13:41:35",
-      "content": "At least 10 dengue patients died, eight of which in Dhaka city, in the last 24 hours till this morning",
-      "retrievedAt": "2023-08-05 19:05:03.813428",
-      "internal_id": "1ed1c15ccbb9e4cf2fd7102b7ccefeb3cd5a0d782a0b99ff27d0caaa9d02799f",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 898,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Caller",
-      "author": "Kay Smythe",
-      "title": "Dengue Fever Outbreak Hits US After Ravaging Other Countries",
-      "description": "The Centers for Disease Control and Prevention (CDC) provisionally confirmed a major U.S. outbreak of dengue fever, Wednesday.",
-      "url": "https://dailycaller.com/2023/08/04/dengue-fever-outbreak-hits-us-cuba-bangladesh-puerto-rico-cdc/",
-      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/08/GettyImages-1258572204-scaled-e1691154228280.jpg",
-      "publishedAt": "2023-08-04 13:23:24",
-      "content": "The Centers for Disease Control and Prevention (CDC) provisionally confirmed a major U.S. outbreak of dengue fever on Wednesday. At present, there are 225 cases of dengue fever in the U.S., and 315 \u2026 [+1370 chars]",
-      "retrievedAt": "2023-08-05 19:05:03.800628",
-      "internal_id": "b84cac292c369b79b0552075e915be5a2f6ed38a538b345275b102ab74a8eb10",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 897,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Tripura Government Issues Dengue Alert, Increases Surveillance After 182 Cases Reported - Indiatimes.com",
-      "description": "Tripura Government Issues Dengue Alert, Increases Surveillance After 182 Cases Reported Indiatimes.com Dengue cases reach 182 in Tripura, government urges public to stay vigilant | Mint Mint Tripura: 182 dengue cases detected so \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmluZGlhdGltZXMuY29tL25ld3Mvbm9ydGgtZWFzdC90cmlwdXJhLWdvdmVybm1lbnQtaXNzdWVzLWRlbmd1ZS1hbGVydC02MTExNzIuaHRtbNIBYWh0dHBzOi8vd3d3LmluZGlhdGltZXMuY29tL2FtcC9uZXdzL25vcnRoLWVhc3QvdHJpcHVyYS1nb3Zlcm5tZW50LWlzc3Vlcy1kZW5ndWUtYWxlcnQtNjExMTcyLmh0bWw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-04 12:34:23",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-05 19:05:03.797961",
-      "internal_id": "a14506daa29ab73739ff87526f9ad123c7f221d07c5f0821e313c1f65313020e",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 907,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Quartz India",
-      "author": "Ananya Bhattacharya",
-      "title": "A naturally occurring bacteria can stop the malaria parasite right in a mosquito's gut",
-      "description": "The biggest hurdle in eradicating malaria is that the parasite is highly adaptable and resistant, and nascent vaccines are only partially effective. Genetically-engineered bacteria have long been touted as potential malaria-enders but they\u2019re complex to devel\u2026",
-      "url": "https://qz.com/a-naturally-occurring-bacteria-can-stop-the-malaria-par-1850706922",
-      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/12703ee70d021dced5b8c09637940f5a.jpg",
-      "publishedAt": "2023-08-04 11:17:00",
-      "content": "The biggest hurdle in eradicating malaria is that the parasite is highly adaptable and resistant, and nascent vaccines are only partially effective. Genetically-engineered bacteria have long been tou\u2026 [+4643 chars]",
-      "retrievedAt": "2023-08-05 19:05:04.331278",
-      "internal_id": "f75ffce651ad30dd2dfe3a28d34311e4f327894fe38cfb84beabc4401338a51a",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 900,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "Mathilde Ceilles (20 Minutes)",
-      "title": "Bouches-du-Rh\u00f4ne : Deux cas de dengue \u00e0 Gardanne",
-      "description": "Deux cas de dengue ont \u00e9t\u00e9 d\u00e9tect\u00e9s \u00e0 Gardanne, dans les Bouches-du-Rh\u00f4ne. En cons\u00e9quence, l'ARS organise une op\u00e9ration de d\u00e9moustication",
-      "url": "https://www.20minutes.fr/sante/4047997-20230804-bouches-rhone-deux-cas-dengue-gardanne",
-      "urlToImage": "https://img.20mn.fr/3CthWEKITlaBgwJhbRKKkCk/1200x768_operations-de-demoustication-anti-larvaires-organise-par-la-mairie-de-cannes-insecticide-biologique-traitement-des-espaces-publics-susceptibles-de-servir-de-gites-aux-moustiques-notamment-le-moustique-tigre-vecteur-d-agents-infectieux-dont-la-dengue-le-chikungunya-le-zika-square-leo-callandry-cannes-france-11-07-2023-syspeo-sys-b001-credit-syspeo-sipa-2307160714",
-      "publishedAt": "2023-08-04 09:56:49",
-      "content": "Un couple r\u00e9sidant \u00e0 Gardanne, dans les Bouches-du-Rh\u00f4ne, a contract\u00e9 la dengue, selon un communiqu\u00e9 de presse de l\u2019agence r\u00e9gionale de sant\u00e9 (ARS) de Provence-Alpes-C\u00f4te d'Azur. \u00ab Ces personnes son\u2026 [+713 chars]",
-      "retrievedAt": "2023-08-05 19:05:03.808884",
-      "internal_id": "8a80f4794a61a3eec12b5f1ea2706715a92a268b2611bb49561c661252cb035f",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 896,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Tripura: 182 dengue cases detected so far, no deaths reported - Hindustan Times",
-      "description": "Tripura: 182 dengue cases detected so far, no deaths reported Hindustan Times Dengue cases reach 182 in Tripura, government urges public to stay vigilant | Mint Mint Tripura battles surge in dengue cases; 182 positive cases repor\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL290aGVycy8xODItY2FzZXMtb2YtZGVuZ3VlLWlkZW50aWZpZWQtaW4tdHJpcHVyYS0xNTgtaW4tc2VwYWhpamFsYS1kaXN0cmljdC1hbG9uZS1uby1kZWF0aHMtcmVwb3J0ZWQtMTAxNjkxMTQyNDczMjYwLmh0bWzSAaMBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2NpdGllcy9vdGhlcnMvMTgyLWNhc2VzLW9mLWRlbmd1ZS1pZGVudGlmaWVkLWluLXRyaXB1cmEtMTU4LWluLXNlcGFoaWphbGEtZGlzdHJpY3QtYWxvbmUtbm8tZGVhdGhzLXJlcG9ydGVkLTEwMTY5MTE0MjQ3MzI2MC1hbXAuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-04 09:47:52",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-05 19:05:03.796714",
-      "internal_id": "4da9853e4fe408564c3503c9e69aa6e97d80b2aaa6d30d4f8ba3427b4f332f79",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 902,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "India.com",
-      "author": "Zee News",
-      "title": "Papaya Leaf Benefits: \u0a9c\u0abe\u0aa3\u0acb \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1\u0aa8\u0ac7 \u0aae\u0abe\u0aa4 \u0a86\u0aaa\u0ab5\u0abe \u0aaa\u0aaa\u0ac8\u0aaf\u0abe\u0aa8\u0abe \u0aaa\u0abe\u0a82\u0aa6\u0aa1\u0abe\u0aa8\u0acb \u0a95\u0ac7\u0ab5\u0ac0 \u0ab0\u0ac0\u0aa4\u0ac7 \u0a95\u0ab0\u0ab5\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97?",
-      "description": "Papaya leaf in dengue: \u0aaa\u0aaa\u0ac8\u0aaf\u0abe\u0aa8\u0abe \u0aaa\u0abe\u0aa8\u0aae\u0abe\u0a82 \u0aab\u0abf\u0aa8\u0acb\u0ab2\u0abf\u0a95 \u0a95\u0aae\u0acd\u0aaa\u0abe\u0a89\u0aa8\u0acd\u0aa1, \u0aaa\u0aaa\u0ac8\u0aa8 \u0a85\u0aa8\u0ac7 \u0a86\u0ab2\u0acd\u0a95\u0ab2\u0acb\u0a88\u0aa1 \u0ab9\u0acb\u0aaf \u0a9b\u0ac7, \u0a9c\u0ac7 \u0aae\u0a9c\u0aac\u0ac2\u0aa4 \u0a8f\u0aa8\u0acd\u0a9f\u0ac0\u0a91\u0a95\u0abf\u0ab8\u0aa1\u0aa8\u0acd\u0a9f \u0aa4\u0ab0\u0ac0\u0a95\u0ac7 \u0a95\u0abe\u0aae \u0a95\u0ab0\u0ac7 \u0a9b\u0ac7 \u0a85\u0aa8\u0ac7 \u0ab6\u0ab0\u0ac0\u0ab0\u0aa8\u0ac0 \u0ab0\u0acb\u0a97\u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0a95\u0abe\u0ab0\u0a95 \u0ab6\u0a95\u0acd\u0aa4\u0abf\u0aa8\u0ac7 \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0a9b\u0ac7. \u0a86 \u0aaa\u0abe\u0a82\u0aa6\u0aa1\u0abe\u0aa8\u0abe \u0a85\u0ab0\u0acd\u0a95\u0aa5\u0ac0 \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1\u0aa8\u0abe \u0aa6\u0ab0\u0acd\u0aa6\u0ac0\u0a93\u0aae\u0abe\u0a82 \u0aaa\u0acd\u0ab2\u0ac7\u0a9f\u0ab2\u0ac7\u0a9f\u0aa8\u0ac0 \u0ab8\u0a82\u0a96\u0acd\u0aaf\u0abe\u0aae\u0abe\u0a82 \u0ab5\u0aa7\u0abe\u0ab0\u0acb \u0aa5\u0abe\u0aaf \u0a9b\u0ac7.",
-      "url": "https://zeenews.india.com/gujarati/health/papaya-leaf-benefits-in-dengue-fever-how-to-use-papaya-286644",
-      "urlToImage": "https://gujarati.cdn.zeenews.com/gujarati/sites/default/files/2023/08/04/472022-papaiya-benefits.png",
-      "publishedAt": "2023-08-04 09:36:45",
-      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+354 chars]",
-      "retrievedAt": "2023-08-05 19:05:03.815894",
-      "internal_id": "3080de8b6b2393ee751747c0b4604d8a7e538165486496cbdbfca81cf574cca6",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 908,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Very Normal! Leprosy Cases Surging in Florida, Government Says - Futurism",
-      "description": "Very Normal! Leprosy Cases Surging in Florida, Government SaysFuturism Florida leprosy cases on the rise, at least 15 cases this yearFOX 26 Houston Florida diseases causing alarm include malaria, leprosy and amoebaPensacola News Journal Leprosy may now be end\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171539416",
-      "urlToImage": null,
-      "publishedAt": "2023-08-04 08:52:08",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-08-05 19:05:04.333832",
-      "internal_id": "a7d814197bdf097a7142786c01f60c9a5ddb8479342cee90f8172a8c5f0f827a",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 895,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue cases reach 182 in Tripura, government urges public to stay vigilant | Mint - Mint",
-      "description": "Dengue cases reach 182 in Tripura, government urges public to stay vigilant | Mint Mint Tripura battles surge in dengue cases; 182 positive cases reported - Tripura battles surge in dengue cases; 182 positive cases reported - India Today N\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYS9kZW5ndWUtY2FzZXMtcmVhY2gtMTgyLWluLXRyaXB1cmEtZ292ZXJubWVudC11cmdlcy1wdWJsaWMtdG8tc3RheS12aWdpbGFudC0xMTY5MTEzNzExNDg3OS5odG1s0gGGAWh0dHBzOi8vd3d3LmxpdmVtaW50LmNvbS9uZXdzL2luZGlhL2Rlbmd1ZS1jYXNlcy1yZWFjaC0xODItaW4tdHJpcHVyYS1nb3Zlcm5tZW50LXVyZ2VzLXB1YmxpYy10by1zdGF5LXZpZ2lsYW50L2FtcC0xMTY5MTEzNzExNDg3OS5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-04 08:37:39",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-05 19:05:03.794544",
-      "internal_id": "adac5eb74267be82b72b32defabcd0de654df136d1f51c35c35fe750d63ec369",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 893,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": "\u0422\u0410\u0421\u0421",
-      "title": "\u041f\u0440\u0430\u0432\u0434\u0430 \u043b\u0438, \u0447\u0442\u043e \u0420\u043e\u0441\u0441\u0438\u0438 \u0433\u0440\u043e\u0437\u0438\u0442 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u044f \u043a\u043e\u043a\u043b\u044e\u0448\u0430?",
-      "description": "",
-      "url": "https://tass.ru/obschestvo/18443437",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/18443437?u=2023-08-04T08:30:01.170922",
-      "publishedAt": "2023-08-04 08:30:01",
-      "content": "\u2014 , Bordetella pertussis ( ). - . , , . . 2022 . , 2021 1,1 . , 2022 3,1 ., \u2014 2023 \u2014 4,3 . 2019 \u2014 14,4 ., 2018 \u2014 10,4 ., 2016 \u2014 8,2 . 18 \u2014 10 91,4%. : , , . , , . () . , . , \u2014 . , , , , , , , .\u2026 [+182 chars]",
-      "retrievedAt": "2023-08-05 19:05:02.811107",
-      "internal_id": "97164c7429a131ea6fcdc12dd68d9b5c924419a1b32e045af279d507cb6a422e",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 906,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Malaria disappeared in the U.S. in 2003. That changed this year - Fast Company",
-      "description": "Malaria disappeared in the U.S. in 2003. That changed this year Fast Company",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmZhc3Rjb21wYW55LmNvbS85MDkzMjU3NC9tYWxhcmlhLXdhcy1lcmFkaWNhdGVkLWluLXRoZS11LXMtaW4tMjAwM9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-04 07:34:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-05 19:05:04.329148",
-      "internal_id": "4aa6c572c4ce6c913c9f93318a2e566658f856cad46e4f208d6c8b2e97ec2391",
       "publishedAtLabel": "Aug 4"
     }
   ]
