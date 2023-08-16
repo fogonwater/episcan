@@ -1,8 +1,188 @@
 {
-  "last_updated": "2023-08-16 07:05",
+  "last_updated": "2023-08-16 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 1117,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Mpox: Canada among 10 countries with highest cumulative cases - CTV News",
+      "description": "Mpox: Canada among 10 countries with highest cumulative cases CTV News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmN0dm5ld3MuY2EvaGVhbHRoL2NhbmFkYS1hbW9uZy0xMC1jb3VudHJpZXMtcmVwb3J0aW5nLWhpZ2hlc3QtY3VtdWxhdGl2ZS1tcG94LWNhc2VzLXdoby1yZXBvcnRzLTEuNjUyMDE5NNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-15 18:00:25",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-16 19:05:21.063079",
+      "internal_id": "f5a3349c33e5577d99cb53a29d1feba59287212c12f1aba8a0ef0b6c2c777e10",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1118,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ctvnews.ca",
+      "author": "Ctv News",
+      "title": "Mpox: Canada among 10 countries with highest cumulative cases",
+      "description": "As an mpox outbreak continues to spread globally, the World Health Organization says Canada is among the top 10 countries reporting the highest cumulative cases to date.",
+      "url": "https://www.ctvnews.ca/health/canada-among-10-countries-reporting-highest-cumulative-mpox-cases-who-reports-1.6520194",
+      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/8/15/monkeypox-1-6520203-1692122327697.jpg",
+      "publishedAt": "2023-08-15 18:00:25",
+      "content": "As an mpox outbreak continues to spread globally, the World Health Organization says Canada is among the top 10 countries reporting the highest cumulative cases to date. From Jan. 1, 2022 to Aug. 9,\u2026 [+2411 chars]",
+      "retrievedAt": "2023-08-16 19:05:21.066145",
+      "internal_id": "87eb751effb1c92a1f0efa52f866322111f762faf28be756f8c4d3b21737f20e",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1112,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Julia Musto",
+      "title": "Dengue virus spreads across Florida counties, health officials say",
+      "description": "The Florida Department of Health has placed Broward County under a mosquito-borne illness alert as locally-acquired cases of dengue virus spread, according to recent data.",
+      "url": "https://www.foxnews.com/health/dengue-virus-spreads-florida-counties-health-officials",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Fort-Lauderdale.jpg",
+      "publishedAt": "2023-08-15 15:30:29",
+      "content": "Florida health officials have placed Broward County under a mosquito-borne illness alert this month as dengue virus cases spread. Broward County home to Fort Lauderdale joins Miami-Dade County as t\u2026 [+1697 chars]",
+      "retrievedAt": "2023-08-16 19:05:19.899865",
+      "internal_id": "d9f733290a4c4072787896bc495c0fb1f9c276ef62868bbb24a575d4c86413dc",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1116,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ynetnews",
+      "author": "Adir Yanko",
+      "title": "Two Israeli travelers infected in Thailand with rare strain of malaria",
+      "description": "In order to contract this strain, a mosquito must first bite an infected monkey and then bite a human; it is not common in Thailand and is extremely rare among travelers",
+      "url": "https://www.ynetnews.com/health_science/article/r19iw11thn",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2023/08/15/HJZLsuxF23/HJZLsuxF23_0_82_1000_563_0_large.jpg",
+      "publishedAt": "2023-08-15 15:01:47",
+      "content": "Two Israeli travelers who recently returned from northern Thailand have been diagnosed with a rare strain of malaria that had not been previously detected in Israel, Ynet learned on Tuesday. One of \u2026 [+4440 chars]",
+      "retrievedAt": "2023-08-16 19:05:20.488073",
+      "internal_id": "aa862d22243e4ad1d34a1bd25518c202d7d424c2776179ee463360f2accd012e",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1109,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Individual treated after being bit by rabies-positive bat - CTV News London",
+      "description": "Individual treated after being bit by rabies-positive bat CTV News London Rabid bat bites Southwestern Ontario resident: Public health officials The London Free Press View Full Coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vbG9uZG9uLmN0dm5ld3MuY2EvcmFiaWVzLXBvc2l0aXZlLWJhdC1iaXRlcy1pbmRpdmlkdWFsLWluLW5vcndpY2gtdG93bnNoaXAtMS42NTE5Nzgw0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-15 14:25:21",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-16 19:05:19.264102",
+      "internal_id": "0be435d39b525abc74691ad721d2b9fe7e0908506cc7cd3c0a0396eca0590ccc",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1110,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "By JUDY SIEGEL-ITZKOVICH",
+      "title": "Hospital accidentally injects 5 pregnant women with rabies vaccine",
+      "description": "The five pregnant women came to Hadassah-University Medical Center in Jerusalem\u2019s Ein Kerem for anti-D vaccination but were mistakenly given the \"almost identical\" rabies shot.",
+      "url": "https://www.jpost.com/health-and-wellness/article-754848",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/472949",
+      "publishedAt": "2023-08-15 14:03:24",
+      "content": "Five pregnant women at Hadassah-University Medical Center in Jerusalem\u2019s Ein Kerem who were supposed to get a routine \u201canti-D\u201d vaccination were mistakenly given rabies shots. Anti-D prophylaxis inv\u2026 [+1365 chars]",
+      "retrievedAt": "2023-08-16 19:05:19.268857",
+      "internal_id": "64016a3e21830c1caf21de5138b100dc1c7100e95b305fe053dedb275bd7541c",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1115,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "By JERUSALEM POST STAFF",
+      "title": "2 Israelis diagnosed with rare, zoonotic malaria after Thailand trip - report",
+      "description": "Two Israelis who recently returned from Thailand were diagnosed with a rare strand of malaria never seen befor",
+      "url": "https://www.jpost.com/breaking-news/article-754838",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2023-08-15 13:15:06",
+      "content": "Two Israelis who recently returned from Thailand were diagnosed with a rare strand of malaria never seen before in Israel, Ynet reported. This strain is very rare and zoonotic, with a mosquito havin\u2026 [+84 chars]",
+      "retrievedAt": "2023-08-16 19:05:20.483005",
+      "internal_id": "bbcd1935acb2c1298809cc278ec530f11a31b92b563fc1510e261f7051e59250",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1111,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Muliantari, Kenzu",
+      "title": "Bali receives 200 thousand rabies vaccine doses from Australia",
+      "description": "Bali, on Tuesday, received 200 thousand doses of rabies vaccine from the Australian Department of Agriculture, Fisheries, and Forestry. Bali Deputy Governor Tjokorda Oka Artha Ardhana Sukawati, here on Tuesday, expressed his ...",
+      "url": "https://en.antaranews.com/news/291129/bali-receives-200-thousand-rabies-vaccine-doses-from-australia",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/08/15/IMG_3931.jpeg",
+      "publishedAt": "2023-08-15 11:53:50",
+      "content": "Denpasar, Bali (ANTARA) - Bali, on Tuesday, received 200 thousand doses of rabies vaccine from the Australian Department of Agriculture, Fisheries, and Forestry.Bali Deputy Governor Tjokorda Oka Arth\u2026 [+1921 chars]",
+      "retrievedAt": "2023-08-16 19:05:19.272706",
+      "internal_id": "4553689e478e035be35bf2afa472fb4c73e2a994a37ec93bb19b0b00f2d01a78",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1113,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Dengue devastation continues in Bangladesh, hospitals crammed with patients",
+      "description": "DHAKA, Aug. 15 (Xinhua) -- Bangladesh on Monday registered 18 more deaths from dengue, the second hi",
+      "url": "http://en.people.cn/n3/2023/0815/c90000-20058639.html",
+      "urlToImage": null,
+      "publishedAt": "2023-08-15 09:00:45",
+      "content": "(Xinhua) 16:59, August 15, 2023 DHAKA, Aug. 15 (Xinhua) -- Bangladesh on Monday registered 18 more deaths from dengue, the second highest in a 24-hour count since January, taking the toll from the d\u2026 [+1941 chars]",
+      "retrievedAt": "2023-08-16 19:05:19.903727",
+      "internal_id": "ace4b37db0ba781a4588110b9eba26251e40ffe71029f2bfabbfb114d8f73b92",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1114,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Simone Schlindwein",
+      "title": "Impfstoff gegen Malaria: Der Gamechanger",
+      "description": "Jede Minute stirbt ein Kleinkind an Malaria. Kann ein neuer Impfstoff das \u00e4ndern? In Uganda ist die Hoffnung gro\u00df.",
+      "url": "https://taz.de/Impfstoff-gegen-Malaria/!5949677/",
+      "urlToImage": "https://taz.de/picture/6445741/948/33376898-1.jpeg",
+      "publishedAt": "2023-08-15 08:29:00",
+      "content": "Jede Minute stirbt ein Kleinkind an Malaria. Kann ein neuer Impfstoff das \u00e4ndern? In Uganda ist die Hoffnung gro\u00df. Faith, 3 Jahre alt, wurde in einem Pilotprogramm gegen Malaria geimpft Foto: Yasuyo\u2026 [+9006 chars]",
+      "retrievedAt": "2023-08-16 19:05:20.479805",
+      "internal_id": "15c10f381db59f1296d918e3bcb03baa75e1322a35758b0225586bbc92a4e871",
+      "publishedAtLabel": "Aug 15"
+    },
     {
       "id": 1107,
       "query": [
@@ -3434,186 +3614,6 @@
       "content": "ST. LOUIS, Mo. (KMOV) - Health officials urge awareness as a case of internationally-imported measles has been confirmed in the St. Louis area. The Missouri Department of Health and Senior Services,\u2026 [+2191 chars]",
       "retrievedAt": "2023-08-06 07:05:22.380415",
       "internal_id": "a8b64c83a832dd8dc6dd2cc32c66b9840289eb34f2487354c69280d647fbd869",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 910,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Newsbreak.com",
-      "author": "Local - Liz Shultz",
-      "title": "Health Officials Issue Rabies Alert For Polk County",
-      "description": "BARTOW, Fla. \u2013 The Florida Department of Health in Polk County (DOH-Polk) issued a rabies...",
-      "url": "https://www.newsbreak.com/polk-county-fl/3112395304210-health-officials-issue-rabies-alert-for-polk-county",
-      "urlToImage": "https://img.particlenews.com/img/id/3XBIIj_0nn7G8Xq00?type=thumbnail_1600x1200",
-      "publishedAt": "2023-08-04 23:19:12",
-      "content": "BARTOW, Fla. The Florida Department of Health in Polk County (DOH-Polk) issued a rabies alert for the north Lakeland area in response to a raccoon that tested positive for rabies this week. All re\u2026 [+3189 chars]",
-      "retrievedAt": "2023-08-06 07:05:21.840474",
-      "internal_id": "9a34d9abe469c38952a3d523f8a5791e3228611153d0391ce3b64399da67ba1f",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 911,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KTVI Fox 2 St. Louis",
-      "author": "Joey Schneider",
-      "title": "Health officials warn of possible measles exposures in St. Louis, St. Charles counties",
-      "description": "Missouri health officials are warning of possible measles exposures in St. Louis and St. Charles counties after learning of an internationally-imported confirmed case of measles.",
-      "url": "https://fox2now.com/news/missouri/health-officials-warn-of-possible-measles-exposures-in-st-louis-st-charles-counties/",
-      "urlToImage": "https://fox2now.com/wp-content/uploads/sites/14/2023/08/GettyImages-1034560956.jpg?w=1280",
-      "publishedAt": "2023-08-04 22:53:46",
-      "content": "ST. LOUIS COUNTY, Mo. \u2013 Missouri health officials are warning of possible measles exposures in St. Louis and St. Charles counties after learning of an internationally-imported confirmed case of measl\u2026 [+1877 chars]",
-      "retrievedAt": "2023-08-06 07:05:22.373357",
-      "internal_id": "a4f35316fc3803be119f3fef8297ce6b872bcc982a6668477d10b2d1705e5fc0",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 920,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cmjornal.pt",
-      "author": "portal@cmjornal.pt (Correio da Manh\u00e3)",
-      "title": "Pessoas com risco acrescido de infe\u00e7\u00e3o podem agendar vacina\u00e7\u00e3o contra a var\u00edola dos macacos",
-      "description": "Lista dos locais dispon\u00edveis para vacina\u00e7\u00e3o preventiva da mpox pode ser consultada no portal da DGS.",
-      "url": "https://www.cmjornal.pt/sociedade/detalhe/pessoas-com-risco-acrescido-de-infecao-podem-agendar-vacinacao-contra-a-variola-dos-macacos",
-      "urlToImage": "https://cdn.cmjornal.pt/images/2022-06/img_1200x676$2022_06_28_22_16_15_1163740.jpg",
-      "publishedAt": "2023-08-04 22:33:45",
-      "content": "A Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS) atualizou esta sexta-feira a norma sobre a vacina\u00e7\u00e3o contra mpox permitindo que pessoas com risco acrescido da infe\u00e7\u00e3o possam agendar a vacina\u00e7\u00e3o por sua iniciativa. S\u2026 [+2267 chars]",
-      "retrievedAt": "2023-08-06 07:05:24.839826",
-      "internal_id": "c0849d2d0fcb91a5e8d313b0e21e66e5322f235c6d5f21664c427190d09c8da4",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 912,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Themessenger.com",
-      "author": "Sarah Braner",
-      "title": "More Than 90% of Children Infected in Ohio Measles Outbreak Were Unvaccinated: Report",
-      "description": "More Than 90% of Children Infected in Ohio Measles Outbreak Were Unvaccinated: Reportthemessenger.com",
-      "url": "https://themessenger.com/health/more-than-90-of-measles-cases-in-ohio-outbreak-were-unvaccinated-report",
-      "urlToImage": "https://cms.themessenger.com/wp-content/uploads/2023/08/measels-1398649946.jpg",
-      "publishedAt": "2023-08-04 21:43:12",
-      "content": "Nearly every child infected in a measles outbreak in Central Ohio last winter was unvaccinated, the Centers for Disease Control and Prevention (CDC) revealed. The report, released Friday, found that\u2026 [+1706 chars]",
-      "retrievedAt": "2023-08-06 07:05:22.377883",
-      "internal_id": "a10a6841096155946d59728008f4ded9958da6ffe71f1d1067b9fdd3ba5c0894",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 918,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Casos de Chikungunya crescem 113% em MG",
-      "description": "Os casos prov\u00e1veis de Chikungunya aumentaram mais de 113% em Minas Gerais. Os dados s\u00e3o da Secretaria de Estado da Sa\u00fade e revelam que a doen\u00e7...",
-      "url": "http://noticias.r7.com/minas-gerais/mg-record/videos/casos-de-chikungunya-crescem-113-em-mg-04082023",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/08/04/64cd8913416eb9c53f000052/90be4c521af7425182b8a7ed8cfcd60f__MGR_0408_AUMENTO_CHICUNGUNYA_thumb_thumb.jpg",
-      "publishedAt": "2023-08-04 21:31:19",
-      "content": "Os casos prov\u00e1veis de Chikungunya aumentaram mais de 113% em Minas Gerais. Os dados s\u00e3o da Secretaria de Estado da Sa\u00fade e revelam que a doen\u00e7a j\u00e1 matou 33 pessoas em 2023. Ainda n\u00e3o existem vacinas \u2026 [+141 chars]",
-      "retrievedAt": "2023-08-06 07:05:24.542056",
-      "internal_id": "fedfa9f34a088bf23c8bb2eb7f93e551e8f911628e0ae2a92116ba700e074aad",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 916,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Wnd.com",
-      "author": "WND News Services",
-      "title": "Illegal biolab discovered in California tied to Chinese medical firms",
-      "description": "Philip Lenczycki Daily Caller News Foundation Between April and June 2023, officials in Fresno, California discovered at least 20 potentially infectious agents, such as HIV and Malaria, as well as mice genetically-engineered to carry COVID-19, at an \u201cunlicens\u2026",
-      "url": "https://www.wnd.com/2023/08/illegal-biolab-discovered-california-tied-chinese-medical-firms/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2022/06/laboratory-microbiologist-bacteria-science-Pixabay.jpg",
-      "publishedAt": "2023-08-04 21:11:48",
-      "content": "(Image courtesy Pixabay) Philip LenczyckiDaily Caller News Foundation Between April and June 2023, officials in Fresno, California discovered at least 20 potentially infectious agents, such as \u2026 [+9818 chars]",
-      "retrievedAt": "2023-08-06 07:05:23.985390",
-      "internal_id": "d60b30e0288b642d002a24206218d4d4d3671df64850eb39978bc8b1e7aad585",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 919,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Var\u00edola dos macacos. Pessoas com risco acrescido de infe\u00e7\u00e3o podem agendar vacina\u00e7\u00e3o, disse Dire\u00e7\u00e3o-Geral da Sa\u00fade",
-      "description": "Pessoas eleg\u00edveis que se auto prop\u00f5em para a vacina\u00e7\u00e3o preventiva da mpox podem agendar o ato \"atrav\u00e9s de contacto com o ponto de vacina\u00e7\u00e3o que lhes seja mais conveniente\", definiu DGS.",
-      "url": "https://observador.pt/2023/08/04/variola-dos-macacos-pessoas-com-risco-acrescido-de-infecao-podem-agendar-vacinacao-disse-direcao-geral-da-saude/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1440%3A808%3Anowe%3A0%3A0%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F08%2F04203053%2F34695259.jpg",
-      "publishedAt": "2023-08-04 21:07:58",
-      "content": "A Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS) atualizou nesta sexta-feira a norma sobre a vacina\u00e7\u00e3o contra var\u00edola dos macacos (mpox) permitindo que pessoas com risco acrescido da infe\u00e7\u00e3o possam agendar a vacina\u00e7\u00e3o\u2026 [+2317 chars]",
-      "retrievedAt": "2023-08-06 07:05:24.837137",
-      "internal_id": "f4cdc07fb8b71007811c7a9e2b9d43436cd8e1f8452c290434c5567224d77250",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 914,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "Dengue en San Fernando: intervenciones del Dadis han sido 68% efectivas",
-      "description": "El trabajo conjunto entre el Dadis, las EPS, Veolia y la comunidad de San Fernando para reducir los casos de dengue, ha empezado a arrojar resultados positivos. As\u00ed lo revel\u00f3 la Alcald\u00eda de Cartagena tras un informe del organismo sanitario que indica que, a c\u2026",
-      "url": "https://www.eluniversal.com.co/cartagena/dengue-en-san-fernando-intervenciones-del-dadis-han-sido-68-efectivas-LA8750508",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/157c0/800d686/none/13704/WECH/dengue-en-san-fernando_8221232_20230804144703.jpg",
-      "publishedAt": "2023-08-04 20:13:17",
-      "content": "El trabajo conjunto entre el Dadis, las EPS, Veolia y la comunidad de San Fernando para reducir los casos de dengue, ha empezado a arrojar resultados positivos. As\u00ed lo revel\u00f3 la Alcald\u00eda de Cartagena\u2026 [+4915 chars]",
-      "retrievedAt": "2023-08-06 07:05:23.010931",
-      "internal_id": "33636a87880dfee9716291861a76450a22b76192e82576e7ad8da2a6bb214eb9",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 917,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Caller",
-      "author": "Philip Lenczycki",
-      "title": "Illegal Biolab Discovered In California Tied To Chinese Medical Firms",
-      "description": "The Nevada company allegedly operating an illegal biotech lab in California has ties to Chinese medical firms, according to a DCNF investigation.",
-      "url": "https://dailycaller.com/2023/08/04/illegal-biolab-discovered-in-california-tied-to-chinese-medical-firms/",
-      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/08/Screenshot-2023-08-01-at-11.25.01-AM-e1690910770564.png",
-      "publishedAt": "2023-08-04 19:07:49",
-      "content": "Between April and June 2023, officials in Fresno, California, discovered at least 20 potentially infectious agents, such as HIV and Malaria, as well as mice genetically-engineered to carry CO\u2026 [+7883 chars]",
-      "retrievedAt": "2023-08-06 07:05:23.987622",
-      "internal_id": "40b5b320fc9b3a0508671ab45a3598abc61044d1165cdb9cf4446861331f626f",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 904,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "New Atlas",
-      "author": "Ben Coxworth",
-      "title": "To give mosquito insecticide a boost ... just pop it in the microwave?",
-      "description": "While insecticide-treated bed nets do help protect people from malaria-carrying mosquitos, the chemicals are becoming less effective as the insects develop a resistance to them. It now appears that microwaving one such insecticide, however, makes it \"good\" ag\u2026",
-      "url": "https://newatlas.com/science/mosquito-insecticide-cystal-structure-microwave/",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/c4b9182/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1d%2F67%2F25c1fe5e490caee8c1af2cddf8d5%2Fdepositphotos-3658929-l.jpg&na.image_optimisation=0",
-      "publishedAt": "2023-08-04 18:11:18",
-      "content": "While insecticide-treated bed nets do help protect people from malaria-carrying mosquitos, the chemicals are becoming less effective as the insects develop a resistance to them. It now appears that m\u2026 [+1580 chars]",
-      "retrievedAt": "2023-08-05 19:05:04.319085",
-      "internal_id": "474c41f9d6f5ca1216ea0972d3133aaa74eb08d57db35ecedbfc96b4d8595c59",
       "publishedAtLabel": "Aug 4"
     }
   ]
