@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-08-15 19:05",
+  "last_updated": "2023-08-16 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 1107,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "WHO urges swift action as dengue cases surge in Bangladesh - Al Jazeera English",
+      "description": "WHO urges swift action as dengue cases surge in Bangladesh Al Jazeera English Bangladesh reports 11 more dengue-related deaths, toll climbs to 398 Hindustan Times Devising new ways to fight Aedes mosquito The Financial Express B\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC2x2NlN1N0ZRU1pRmAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-15 06:55:17",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-16 07:05:33.511012",
+      "internal_id": "bd71e24a37212c465c016b59e44fbcba754c8d2eb9460ad9285b90fc01555ad1",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1105,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Rabies cases on the rise in Sarawak, says minister",
+      "description": "MIRI: Sarawak is experiencing a rise in rabies cases for humans and animals, with Kampung Narum in Marudi here being declared the latest infected area. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/08/15/rabies-cases-on-the-rise-in-sarawak-says-minister",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/15/2231988.jpeg",
+      "publishedAt": "2023-08-15 06:29:00",
+      "content": "MIRI: Sarawak is experiencing a rise in rabies cases for humans and animals, with Kampung Narum in Marudi here being declared the latest infected area. Sarawak Minister for Food Industry, Commodity \u2026 [+1787 chars]",
+      "retrievedAt": "2023-08-16 07:05:32.972717",
+      "internal_id": "1033434ea023a3fcc1c5ab480695e7320e82817ef69e37c1b9bb1d1b73b38b5d",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1108,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Bigg Boss OTT 2 winner Elvish Yadav on claims that politicians\u2019 support helped him win the show: \u2018I am shocked\u2026\u2019 - The Indian Express",
+      "description": "Bigg Boss OTT 2 winner Elvish Yadav on claims that politicians\u2019 support helped him win the show: \u2018I am shocked\u2026\u2019 The Indian Express Abhishek Malhan down with Dengue? to be hospitalised? India Forums Bigg Boss OTT 2: Elvish Yadav'\u2026",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMioQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvYmlnZy1ib3NzLW90dC0yLXdpbm5lci1lbHZpc2gteWFkYXYtb24tY2xhaW1zLXRoYXQtcG9saXRpY2lhbnMtc3VwcG9ydC1oZWxwZWQtaGltLXdpbi10aGUtc2hvdy04ODkzMTA3L9IBpgFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvYmlnZy1ib3NzLW90dC0yLXdpbm5lci1lbHZpc2gteWFkYXYtb24tY2xhaW1zLXRoYXQtcG9saXRpY2lhbnMtc3VwcG9ydC1oZWxwZWQtaGltLXdpbi10aGUtc2hvdy04ODkzMTA3L2xpdGUv?oc%3D5&gl=FR&hl=en&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-15 03:46:45",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-16 07:05:33.513141",
+      "internal_id": "fede1376fefc920021482b92d150720d1b8e6c891e792ac002e7d9dfb550d84f",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1106,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Four fresh dengue cases, count reaches 95 in Patiala district - The Tribune India",
+      "description": "Four fresh dengue cases, count reaches 95 in Patiala district The Tribune India Maximum number of dengue patients from Jamshedpur's Mango Avenue Mail View Full coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRyaWJ1bmVpbmRpYS5jb20vbmV3cy9wYXRpYWxhL2ZvdXItZnJlc2gtZGVuZ3VlLWNhc2VzLWNvdW50LXJlYWNoZXMtOTUtaW4tcGF0aWFsYS1kaXN0cmljdC01MzUxNzjSAWtodHRwczovL20udHJpYnVuZWluZGlhLmNvbS9uZXdzL3BhdGlhbGEvZm91ci1mcmVzaC1kZW5ndWUtY2FzZXMtY291bnQtcmVhY2hlcy05NS1pbi1wYXRpYWxhLWRpc3RyaWN0LTUzNTE3OA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-15 00:53:00",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-16 07:05:33.507978",
+      "internal_id": "62ddd449dcc66d21d182e910e8abfa598ec15333e8b641d56641dec2dcfe2156",
+      "publishedAtLabel": "Aug 15"
+    },
     {
       "id": 1095,
       "query": [
@@ -3542,79 +3614,6 @@
       "content": "While insecticide-treated bed nets do help protect people from malaria-carrying mosquitos, the chemicals are becoming less effective as the insects develop a resistance to them. It now appears that m\u2026 [+1580 chars]",
       "retrievedAt": "2023-08-05 19:05:04.319085",
       "internal_id": "474c41f9d6f5ca1216ea0972d3133aaa74eb08d57db35ecedbfc96b4d8595c59",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 894,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Politicopro.com",
-      "author": "Chelsea Harvey, E&E News",
-      "title": "Heat Waves Could Kill Off Human-Bred Mosquitoes",
-      "description": "Rising heat could debilitate mosquitoes bred to slow the transmission of viruses such as yellow fever and dengue",
-      "url": "https://subscriber.politicopro.com/article/eenews/2023/08/04/scientists-are-releasing-disease-resistant-mosquitoes-but-heat-waves-could-kill-them-00109764",
-      "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/D6F7990C-6FF9-4812-B0AE077A2954435D.jpg",
-      "publishedAt": "2023-08-04 18:00:00",
-      "content": "CLIMATEWIRE | Scientists have warned that some mosquito-borne diseases, like malaria and dengue fever, may spread into new territories as the world warms. So they started breeding special mosquitoes \u2026 [+3611 chars]",
-      "retrievedAt": "2023-08-05 19:05:03.789789",
-      "internal_id": "df10f4407c07e9e879080c8b7bdbe66388c177b2ad6cb9b94fabae98099403f7",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 899,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Delphine Roucaute",
-      "title": "Deux premiers cas autochtones de dengue rep\u00e9r\u00e9s dans les Bouches-du-Rh\u00f4ne",
-      "description": "Depuis le 1er mai, plus de 227 cas import\u00e9s de l\u2019\u00e9tranger ont d\u00e9j\u00e0 fait l\u2019objet de signalements au niveau national.",
-      "url": "https://www.lemonde.fr/planete/article/2023/08/04/deux-premiers-cas-autochtones-de-dengue-reperes-dans-les-bouches-du-rhone_6184470_3244.html",
-      "urlToImage": "https://img.lemde.fr/2023/06/21/0/0/3543/2362/1440/960/60/0/60036d8_1687349488533-mg-4889.jpg",
-      "publishedAt": "2023-08-04 16:36:00",
-      "content": "Limoges, le 12 avril 2023. Campagne de pr\u00e9vention contre le moustique tigre (lutte anti-vectorielle) r\u00e9alis\u00e9e par la soci\u00e9t\u00e9 Altopictus \u00e0 Limoges, dans le quartier environent la rue Montlh\u00e9ry o\u00f9 un m\u2026 [+2732 chars]",
-      "retrievedAt": "2023-08-05 19:05:03.804163",
-      "internal_id": "f0f6f0bec83e22b4e7b82802dbbcb99c731ca4d8e581322badd8e9423589e365",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 909,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Elmercurio.com.ec",
-      "author": "CMV",
-      "title": "EL Ni\u00f1o puede aumentar la malnutrici\u00f3n y las epidemias en Latinoam\u00e9rica, advierte la OMS",
-      "description": "El fen\u00f3meno clim\u00e1tico de El Ni\u00f1o, declarado desde julio y ligado normalmente a un aumento de las temperaturas globales, podr\u00eda agravar en Am\u00e9rica Latina la malnutrici\u00f3n en algunos pa\u00edses y elevar el riesgo de enfermedades como la chikungu\u00f1a o el zika, advirti\u2026",
-      "url": "https://elmercurio.com.ec/2023/08/04/el-nino-puede-aumentar-la-malnutricion-y-las-epidemias-en-latinoamerica-advierte-la-oms/",
-      "urlToImage": null,
-      "publishedAt": "2023-08-04 15:49:25",
-      "content": "El fen\u00f3meno clim\u00e1tico de El Ni\u00f1o, declarado desde julio y ligado normalmente a un aumento de las temperaturas globales, podr\u00eda agravar en Am\u00e9rica Latina la malnutrici\u00f3n en algunos pa\u00edses y elevar el \u2026 [+2810 chars]",
-      "retrievedAt": "2023-08-05 19:05:04.548201",
-      "internal_id": "9464cb2b0e4276144103d5781c4f090b6a27adfe5c6455597ddde1b8e2903dd1",
-      "publishedAtLabel": "Aug 4"
-    },
-    {
-      "id": 903,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "BNP is deadlier than dengue: Hasan",
-      "description": "Information and Broadcasting Minister Hasan Mahmud on Friday said BNP is deadlier than dengue in many cases and this party should be resisted as like as this deadly disease. \u201cDengue (aedes) mosquitoes bite people while BNP burns people alive and torch vehicle\u2026",
-      "url": "https://sylhetmirror.com/2023/08/04/bnp-is-deadlier-than-dengue-hasan/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/we34r43tgy.jpg",
-      "publishedAt": "2023-08-04 14:51:23",
-      "content": "Information and Broadcasting Minister Hasan Mahmud on Friday said BNP is deadlier than dengue in many cases and this party should be resisted as like as this deadly disease. \u201cDengue (aedes) mosquito\u2026 [+2443 chars]",
-      "retrievedAt": "2023-08-05 19:05:03.818004",
-      "internal_id": "1cd467a1f511ef66e7b2f8bda645308b26ebd05a5dfcc09efabb5b246bac484e",
       "publishedAtLabel": "Aug 4"
     }
   ]
