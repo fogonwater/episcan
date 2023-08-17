@@ -1,8 +1,207 @@
 {
-  "last_updated": "2023-08-16 19:05",
+  "last_updated": "2023-08-17 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 1124,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "salute@gedi.it (Redazione di Salute)",
+      "title": "Ci sono controindicazioni per il vaccino contro la dengue?",
+      "description": "Risponde Alessandro Bartoloni*",
+      "url": "https://www.repubblica.it/salute/dossier/vaccini/2023/08/16/news/viaggio_brasile_vaccino_dengue-410765456/",
+      "urlToImage": "https://www.repstatic.it/content/contenthub/img/2023/08/11/121648492-a0eabbcf-79ca-4861-a184-2df9c5edb9e4.jpg",
+      "publishedAt": "2023-08-16 07:00:12",
+      "content": "Devo recarmi in Brasile per un periodo di 6 mesi e vorrei informazioni circa il vaccino contro la febbre dengue. Soffro di una malattia autoimmune e in seguito al vaccino antiepatite A e B ho manifes\u2026 [+930 chars]",
+      "retrievedAt": "2023-08-17 07:05:40.394252",
+      "internal_id": "73b797099722dcf99a23b3e0d971369a6483cb8272c74481da38d7acfc6cdfb3",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 1127,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Guardian",
+      "author": "Rachel Dixon",
+      "title": "Take the high road: the man who visited every country in the world \u2013 without boarding a plane",
+      "description": "At 34, Torbj\u00f8rn Pedersen embarked on a seemingly impossible journey that would take 10 years \u2013 and involve cerebral malaria and being held up at gunpoint. He reflects on the highs, the lows and the joy of getting married en routeTorbj\u00f8rn Pedersen has always d\u2026",
+      "url": "https://www.theguardian.com/travel/2023/aug/16/take-the-high-road-the-man-who-visited-every-country-in-the-world-without-boarding-a-plane",
+      "urlToImage": "https://i.guim.co.uk/img/media/55ae527ba8f020594ea8acfd39f4398feda9bed5/0_0_4240_2544/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da4c2d441e135f92b859b824425e3160",
+      "publishedAt": "2023-08-16 04:00:37",
+      "content": "Torbj\u00f8rn Pedersen has always dreamed of being a famous adventurer. He spent his childhood building dens in the woods, pretending to be his hero, Indiana Jones. Even as an adult, he couldnt shake the \u2026 [+13503 chars]",
+      "retrievedAt": "2023-08-17 07:05:40.976069",
+      "internal_id": "68e1f48eb46e1b1a8a08fb209eafbcb98f6be7d8b8a467a5d26c055e48e6d0bc",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 1126,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Lymphocytic Choriomeningitis Virus in Person Living with HIV, Connecticut, USA, 2021",
+      "description": "Lymphocytic Choriomeningitis and HIV, Connecticut",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/9/23-0087_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-08-16 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Lymphocytic choriomeningit\u2026 [+9307 chars]",
+      "retrievedAt": "2023-08-17 07:05:40.633692",
+      "internal_id": "a70506e30c0b9975e4167b0ddcf2ac04868162fce1350d9991f400f24c54df4c",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 1128,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Wiktor Piech",
+      "title": "Walka z malari\u0105 wejdzie na nowy poziom? Przypadkowe odkrycie naukowc\u00f3w",
+      "description": "Naukowcy w trakcie swoich eksperyment\u00f3w dokonali przypadkowego odkrycia, kt\u00f3re mo\u017ce odmieni\u0107 walk\u0119 z malari\u0105. Wykryli naturalnie wyst\u0119puj\u0105cy szczep bakterii, kt\u00f3ry jest w stanie zablokowa\u0107 przenoszenie choroby z komar\u00f3w na ludzi.",
+      "url": "https://geekweek.interia.pl/medycyna/news-walka-z-malaria-wejdzie-na-nowy-poziom-przypadkowe-odkrycie-,nId,6953103",
+      "urlToImage": "https://i.iplsc.com/-/000HIE7K73TW4TUS-C429-F4.jpg",
+      "publishedAt": "2023-08-16 03:55:00",
+      "content": "Malaria jest tropikaln chorob pasoytnicz wywoan przez pierwotniaki z rodzaju Plasmodium, kt\u00f3re przenoszone s przez komary (z rodzaju Anopheles). Wanie one s ywicielem ostatecznym, z kolei czowiek jes\u2026 [+2159 chars]",
+      "retrievedAt": "2023-08-17 07:05:40.985531",
+      "internal_id": "35abb15a54a03f7a31a4582212001f167419f014bb0dd105815e381626604b8e",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 1123,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u092a\u094d\u0930\u0915\u094b\u092a, \u0905\u092c \u0924\u0915 119 \u092e\u0930\u0940\u091c \u0906\u090f \u0938\u093e\u092e\u0928\u0947, \u0928\u094b\u090f\u0921\u093e \u092e\u0947\u0902 \u092d\u0940 \u092c\u095d\u0947 \u092e\u093e\u092e\u0932\u0947",
+      "description": "Ghaziabad Dengue News: \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0932\u0917\u093e\u0924\u093e\u0930 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u0930\u0940\u091c \u0938\u093e\u092e\u0928\u0947 \u0906 \u0930\u0939\u0947 \u0939\u0948\u0902\u0964 \u0905\u092c \u0924\u0915 119 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0938\u093e\u092e\u0928\u0947 \u0906\u0908 \u0939\u0948\u0964 60 \u0938\u094d\u0925\u093e\u0928\u094b\u0902 \u0915\u094b \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0935\u093f\u092d\u093e\u0917 \u0915\u0940 \u0913\u0930 \u0938\u0947 \u0938\u0902\u0935\u0947\u0926\u0928\u0936\u0940\u0932 \u0918\u094b\u0937\u093f\u0924 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u092d\u0940 \u0928\u0917\u0930 \u0928\u093f\u0917\u092e \u0915\u0940 \u0913\u0930 \u0938\u0947 \u090f\u0902\u091f\u0940 \u0932\u093e\u0930\u094d\u0935\u093e \u091b\u093f\u095c\u0915\u093e\u0935 \u0915\u094b \u0932\u0947\u0915\u0930 \u0915\u094b\u0908 \u0935\u094d\u092f\u0935\u0938\u2026",
+      "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/ghaziabad-noida-dengue-outbreak-119-patient-till-date-question-raised-on-fogging-malaria-numbers-up/articleshow/102758447.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-59306,msid-102758564/navbharat-times.jpg",
+      "publishedAt": "2023-08-16 03:53:50",
+      "content": ": , 119 60 38 500 20 5 , , . , 11 11 39 16 , , , , , , , , , , , , , , , , , , , , , , , , , , , -, , 16 -, , , , , , , , , , , , , - 93 93 , 37 8000 159 71 . 10 5 Navbharat Times News App\u2026 [+272 chars]",
+      "retrievedAt": "2023-08-17 07:05:40.389382",
+      "internal_id": "66867857110113602355811d13e36c02aa4f1a579e91a4fcbc3b485979edcd59",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 1121,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mercola.com",
+      "author": "Dr. Mercola",
+      "title": "Is the MMR Vaccine a Fraud or Does It Just Wear Off Quickly?",
+      "description": "Editor\u2019s Note: This article is a reprint. It was originally published April 3, 2018. In 1986, public health officials stated that MMR vaccination rates for kindergarten children were in excess of 95% and that one dose of live attenuated measles, mumps and ru\u2026",
+      "url": "https://articles.mercola.com/sites/articles/archive/2023/08/16/mmr-vaccine-fraud-or-not.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2023/August/FB/mmr-vaccine-fraud-or-not-fb.jpg",
+      "publishedAt": "2023-08-16 00:00:00",
+      "content": "Mercola proudly supports these charities and organizations. View All Disclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a\u2026 [+1007 chars]",
+      "retrievedAt": "2023-08-17 07:05:40.087508",
+      "internal_id": "07fb9296c469c484a7d68448aafcbe0cea9ab72848219d8dc3e6c252e3af559a",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 1120,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Guardian",
+      "author": "Lucy Mangan",
+      "title": "Henpocalypse! review \u2013 a rude, crude pandemic comedy for Smack the Pony fans",
+      "description": "A group of wild women emerge from a weekend bender to find a deadly virus has wiped out the male population. Their survival story is daft, surreal and totally liberatingIt had me at \u201ccrab measles\u201d, to be honest. If that doesn\u2019t strike you as the perfect name \u2026",
+      "url": "https://www.theguardian.com/tv-and-radio/2023/aug/15/henpocalypse-review-bbc-pandemic-comedy",
+      "urlToImage": "https://i.guim.co.uk/img/media/d7a79891e6715928e7734aac87824096c690d189/0_82_4285_2571/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=19759581ec12e0c8a046158b5045c267",
+      "publishedAt": "2023-08-15 21:30:29",
+      "content": "It had me at crab measles, to be honest. If that doesnt strike you as the perfect name for a virus capable of wiping out the entire male population, you will still enjoy Henpocalypse! and you should \u2026 [+9595 chars]",
+      "retrievedAt": "2023-08-17 07:05:40.082723",
+      "internal_id": "393d25d93e4a427d8f4286cd4470bf7e28d7ea70650ca547b8b6cca5f41803fb",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1119,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "PRNewswire",
+      "title": "YS Biopharma Announces Unaudited Financial Results for the First Quarter of Fiscal Year 2024",
+      "description": "(marketscreener.com) Pipeline makes progress towards commercialization as robust demand for YSJA rabies vaccine continues Gross margin increases to 80.3%; balance sheet remains strong GAITHERSBURG, Md., Aug. 15, 2023 /PRNewswire/ -- YS Biopharma Co., Ltd. ,\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/YS-BIOPHARMA-CO-LTD-152273024/news/YS-Biopharma-Announces-Unaudited-Financial-Results-for-the-First-Quarter-of-Fiscal-Year-2024-44621605/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-08-15 21:01:05",
+      "content": "Pipeline makes progress towards commercialization as robust demand for YSJA rabies vaccine continues Gross margin increases to 80.3%; balance sheet remains strong GAITHERSBURG, Md., Aug. 15, 2023 /\u2026 [+25142 chars]",
+      "retrievedAt": "2023-08-17 07:05:39.698521",
+      "internal_id": "838d20e7e3b2ef3a3b64df333cb0ad899d796c8e9a2a18171f6e5a8b9260cfb1",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1122,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Pablo V\u00e1zquez",
+      "title": "En QRoo, piden a poblaci\u00f3n no automedicarse por s\u00edntomas de dengue y acudir a centros de salud",
+      "description": "Debido a que Quintana Roo se encuentra actualmente en el primer lugar nacional por incidencia, con m\u00e1s de mil 650 casos de dengue, el titular de la Secretar\u00eda Estatal de Salud (SESA), Carlos Flavio Rosado, hizo un llamado a la poblaci\u00f3n a no automedicarse en \u2026",
+      "url": "https://www.milenio.com/estados/quintana-roo-piden-evitar-automedicarse-sintomas-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/08/15/registrado-casos-dengue-quintana-roo.jpg",
+      "publishedAt": "2023-08-15 20:16:35",
+      "content": "Debido a que Quintana Roo se encuentra actualmente en el primer lugar nacional por incidencia, con m\u00e1s de mil 650 casos de dengue, el titular de la Secretar\u00eda Estatal de Salud (SESA), Carlos Flavio R\u2026 [+1391 chars]",
+      "retrievedAt": "2023-08-17 07:05:40.382644",
+      "internal_id": "a402690c549b5f03abe7ed761eedf3c2c4d158c060d66371278d678a8aacc34c",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1125,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Researchers identify novel host-based target against multiple mosquito-transmitted viruses",
+      "description": "New Cleveland Clinic research shows how mosquito-transmitted viruses\u2014like Zika, West Nile, Yellow Fever and dengue viruses\u2014hijack host cells to promote their own replication and infection. Published in Cell Host and Microbe, a recent study from the laboratory\u2026",
+      "url": "https://phys.org/news/2023-08-host-based-multiple-mosquito-transmitted-viruses.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-mosquito.jpg",
+      "publishedAt": "2023-08-15 20:00:44",
+      "content": "New Cleveland Clinic research shows how mosquito-transmitted viruseslike Zika, West Nile, Yellow Fever and dengue viruseshijack host cells to promote their own replication and infection. Published in\u2026 [+3180 chars]",
+      "retrievedAt": "2023-08-17 07:05:40.397377",
+      "internal_id": "00e0eac6c47c10bb3e8440e0eee38d902648698797bda05205674fb1b928c2a3",
+      "publishedAtLabel": "Aug 15"
+    },
+    {
+      "id": 1129,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "google-news",
+      "source_name": "Google News",
+      "author": null,
+      "title": "Canada among 10 countries reporting highest cumulative mpox cases, WHO reports - iHeartRadio.ca",
+      "description": "Canada among 10 countries reporting highest cumulative mpox cases, WHO reports iHeartRadio.caView Full Coverage on Google News",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5paGVhcnRyYWRpby5jYS92aXJnaW5yYWRpby9lZG1vbnRvbi9jYW5hZGEtYW1vbmctMTAtY291bnRyaWVzLXJlcG9ydGluZy1oaWdoZXN0LWN1bXVsYXRpdmUtbXBveC1jYXNlcy13aG8tcmVwb3J0cy0xLjIwMTMzNDcy0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-15 19:46:31",
+      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
+      "retrievedAt": "2023-08-17 07:05:41.974008",
+      "internal_id": "76d25f5f8617e7d71b5f7a5bf39ea6841d56795558c4ac310912fd0fecb0be3c",
+      "publishedAtLabel": "Aug 15"
+    },
     {
       "id": 1117,
       "query": [
@@ -3415,206 +3614,6 @@
       "retrievedAt": "2023-08-07 19:05:13.249859",
       "internal_id": "26b49426ae4cc0697d70a72e750423ace582f7f677f77080dc1733cb6b05492c",
       "publishedAtLabel": "Aug 6"
-    },
-    {
-      "id": 926,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Bangladesh's dengue death toll exceeds 300 as total cases nearing 64000 - Xinhua",
-      "description": "Bangladesh's dengue death toll exceeds 300 as total cases nearing 64000 XinhuaView Full Coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vZW5nbGlzaC5uZXdzLmNuL2FzaWFwYWNpZmljLzIwMjMwODA2LzdlY2FhYTM3NmJlNTRlN2U5MmVhOWQyMzI4OTE0YTg5L2MuaHRtbNIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-06 06:48:45",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-07 07:05:48.794658",
-      "internal_id": "c18df4d312273db2fe7f9eb6a0b2c2b28e521e714b2c515e54351c013d0fae56",
-      "publishedAtLabel": "Aug 6"
-    },
-    {
-      "id": 929,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Republic World",
-      "author": "Sadhna Mishra",
-      "title": "Monsoon: \u092c\u0930\u0938\u093e\u0924\u0940 \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u093e\u0902 \u092c\u0928\u093e \u0930\u0939\u0940 \u0939\u0948\u0902 \u0905\u092a\u0928\u093e \u0936\u093f\u0915\u093e\u0930? \u0921\u093e\u0907\u091f \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932 \u0915\u0930\u0947\u0902 \u0932\u0939\u0938\u0941\u0928, \u092e\u093f\u0932\u0947\u0902\u0917\u0947 \u091a\u094c\u0902\u0915\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u092b\u093e\u092f\u0926\u0947 - Republic Bharat",
-      "description": "\u0916\u093e\u0928\u0947 \u0915\u093e \u0938\u094d\u0935\u093e\u0926 \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0915\u0940 \u091c\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0932\u0939\u0938\u0941\u0928 \u0915\u0940 \u0915\u0932\u093f\u092f\u093e\u0902 \u092c\u0939\u0941\u0924 \u0939\u0940 \u0915\u093e\u092e \u0915\u0940 \u0939\u0948\u0902\u0964 \u092f\u0947 \u092e\u093e\u0928\u0938\u0942\u0928 \u092e\u0947\u0902 \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u0940 \u092c\u0940\u092e\u093e\u0930\u093f\u092f\u094b\u0902 \u0915\u094b \u0926\u0942\u0930 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0915\u093e\u092e \u0906\u0924\u0940 \u0939\u0948\u0964",
-      "url": "https://bharat.republicworld.com/lifestyle/health/monsoon-diseases-making-their-prey-include-garlic-in-diet-get-amazing-benefits-lahsun-ke-fayde",
-      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/169129551464cf1f1a3fbd6.jpeg",
-      "publishedAt": "2023-08-06 06:32:11",
-      "content": "Garlic Benefits In Monsoon: , , , , , ..... ? -B C , ? -6- - - ? 4 , 5-7 ... Dengue: , ; Disclaimer: , - REPUBLIC BHARAT ... Rice Water: ,",
-      "retrievedAt": "2023-08-07 07:05:48.805555",
-      "internal_id": "6cdd96fab163961bd52b694509a9fcd5ce142ff1fc38a677b1034ffa015cf17b",
-      "publishedAtLabel": "Aug 6"
-    },
-    {
-      "id": 928,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Republic World",
-      "author": "Sadhna Mishra",
-      "title": "Dengue: \u0921\u0947\u0902\u0917\u0942 \u0915\u094b \u092e\u093e\u0924 \u0926\u0947\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u092a\u0940\u0924\u0947 \u0915\u093e \u092b\u0932 \u0928\u0939\u0940\u0902, \u092a\u0924\u094d\u0924\u093f\u092f\u094b\u0902 \u0915\u093e \u0915\u0930\u0947\u0902 \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932; \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c\u0947\u0902\u0917\u0940 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938",
-      "description": "Dengue: \u0921\u0947\u0902\u0917\u0942 \u0915\u094b \u092e\u093e\u0924 \u0926\u0947\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u092a\u0940\u0924\u0947 \u0915\u093e \u092b\u0932 \u0928\u0939\u0940\u0902, \u092a\u0924\u094d\u0924\u093f\u092f\u094b\u0902 \u0915\u093e \u0915\u0930\u0947\u0902 \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932; \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c\u0947\u0902\u0917\u0940 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938republicworld.com",
-      "url": "https://bharat.republicworld.com/lifestyle/health/beat-dengue-use-papaya-leaves-not-fruit-platelets-increase-rapidly-papite-ki-pattiyo-se-thk-kare-dengue",
-      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/169122663864ce120e99b87.jpeg",
-      "publishedAt": "2023-08-06 01:32:39",
-      "content": "Benefits Of Papaya Leaves For Dengue: , .... ? - , , , ? , , ? ? Disclaimer: , - REPUBLIC BHARAT ... Eye Flu: ?",
-      "retrievedAt": "2023-08-07 07:05:48.803891",
-      "internal_id": "115b060591741b9d190c73eb22a64eb46a6b8bd803aaddf937f39684ec4b4075",
-      "publishedAtLabel": "Aug 6"
-    },
-    {
-      "id": 927,
-      "query": [
-        "dengue",
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u092c\u091a \u0915\u0947 \u0930\u0939\u0947\u0902... \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0935\u093e\u092f\u0930\u0932, \u091f\u093e\u0907\u092b\u093e\u0907\u0921 \u0914\u0930 \u0921\u0947\u0902\u0917\u0942 \u092b\u0940\u0935\u0930 \u0915\u093e \u091f\u094d\u0930\u093f\u092a\u0932 \u0905\u091f\u0948\u0915",
-      "description": "Viral, Typhoid And Dengue Fever In Delhi: \u0926\u093f\u0932\u094d\u200d\u0932\u0940 \u092e\u0947\u0902 \u0935\u093e\u092f\u0930\u0932, \u091f\u093e\u0907\u092b\u093e\u0907\u0921 \u0914\u0930 \u0921\u0947\u0902\u0917\u0942 \u092c\u0941\u0916\u093e\u0930 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u0915\u093e\u092b\u0940 \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c\u0947 \u0939\u0948\u0902\u0964 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0938\u0947 \u092c\u091a\u093e\u0935 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902, \u092c\u0924\u093e \u0930\u0939\u0947 \u0939\u0948\u0902 \u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0915\u0947 \u0928\u093e\u092e\u0940 \u0921\u0949\u0915\u094d\u200d\u091f\u0930\u094d\u0938\u0964",
-      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-viral-typhoid-and-dengue-triple-fever-attack-how-to-keep-infection-away-read-doctors-tips/articleshow/102462874.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-112424,msid-102462886/navbharat-times.jpg",
-      "publishedAt": "2023-08-06 01:07:52",
-      "content": ": 5-6 , 40 50 , , , 40 50 , , , , , 50 50 40 50 , , , , 103 104 10 15 , Navbharat Times News App: - , , , , -... NBT ! Adv: , , , ... 5 ' ' -\u2026 [+154 chars]",
-      "retrievedAt": "2023-08-07 07:05:48.798416",
-      "internal_id": "de6d2dbf9ace7ff4b61f64e3f0228aee567943d9e632d39e3ba980a0b770ef1c",
-      "publishedAtLabel": "Aug 6"
-    },
-    {
-      "id": 925,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "ABC News",
-      "title": "Almost 300 dead as Bangladesh grapples with record dengue fever outbreak",
-      "description": "Bangladesh grapples with a record deadly outbreak of dengue fever, with hospitals struggling to make space for patients as the disease spreads rapidly in the densely-populated country.",
-      "url": "https://www.abc.net.au/news/2023-08-06/bangladesh-grapples-with-record-deadly-outbreak-of-dengue-fever/102694470",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9042acecdebffed0329ffb9cbb1b731e?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=271&width=862&height=485",
-      "publishedAt": "2023-08-06 01:05:07",
-      "content": "Bangladesh is grappling with a record deadly outbreak of dengue fever, with hospitals struggling to make space for patients as the disease spreads rapidly in the densely-populated country. T\u2026 [+2849 chars]",
-      "retrievedAt": "2023-08-07 07:05:48.787554",
-      "internal_id": "734d89aae5fb5896b3476a60a32cb464bce89c7293c6124ba55377bae3578691",
-      "publishedAtLabel": "Aug 6"
-    },
-    {
-      "id": 924,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u098f \u09ac\u099b\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1 \u09e9\u09e6\u09e6 \u099b\u09be\u09dc\u09be\u09b2, \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u0993 \u09b0\u09c7\u0995\u09b0\u09cd\u09a1",
-      "description": "\u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af \u0985\u09a7\u09bf\u09a6\u09aa\u09cd\u09a4\u09b0\u09c7\u09b0 \u09a4\u09a5\u09cd\u09af \u0985\u09a8\u09c1\u09af\u09be\u09af\u09bc\u09c0, \u0997\u09a4 \u09ac\u099b\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09ae\u09cb\u099f \u09ae\u09c3\u09a4\u09cd\u09af\u09c1\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be \u099b\u09bf\u09b2 \u09e8\u09ee\u09e7 \u099c\u09a8 \u098f\u09ac\u0982 \u09ae\u09cb\u099f \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be \u099b\u09bf\u09b2 \u09ec\u09e8 \u09b9\u09be\u099c\u09be\u09b0 \u09e9\u09ee\u09e8 \u099c\u09a8\u0964",
-      "url": "https://bangla.thedailystar.net/health/disease/news-502816",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/02/dengue_5_1_1_1_1.jpg?itok=SZsiH5hR",
-      "publishedAt": "2023-08-05 14:30:44",
-      "content": "The death toll from dengue this year has crossed the 300-mark as another 10 new deaths were reported in the last 24 hours till 8:00am today",
-      "retrievedAt": "2023-08-06 19:05:12.028992",
-      "internal_id": "79534584e57469cb725c4ab7e9c976015a4b2505eb0b91dc74c4106121ba94b4",
-      "publishedAtLabel": "Aug 5"
-    },
-    {
-      "id": 922,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "Bangladesh grapples with record deadly outbreak of dengue fever",
-      "description": "DHAKA: Bangladesh is grappling with a record deadly outbreak of dengue fever, with hospitals struggling to make space for patients as the disease spreads rapidly in the densely-populated country. At least 293 people have died so far in 2023 and nearly 61,500 \u2026",
-      "url": "https://www.channelnewsasia.com/asia/bangladesh-grapples-record-deadly-outbreak-dengue-fever-3679791",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--rEGxLfJZ--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-26t122333z_1_lynxmpej6p0lg_rtroptp_3_health-bangladesh-dengue.jpg?itok=JGT8AV9r",
-      "publishedAt": "2023-08-05 07:42:19",
-      "content": "There is no vaccine or drug that specifically treats dengue, which is common in South Asia during the June-to-September monsoon season when the Aedes aegypti mosquito that spreads the deadly virus th\u2026 [+1044 chars]",
-      "retrievedAt": "2023-08-06 19:05:12.015137",
-      "internal_id": "48977d9febaa26ccc890720f9f4f0c3b99c72205bda47f6e5aefb7af1bbcb8a1",
-      "publishedAtLabel": "Aug 5"
-    },
-    {
-      "id": 923,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "Bangladesh grapples with record deadly outbreak of dengue fever",
-      "description": "(marketscreener.com) Bangladesh is grappling with a record deadly outbreak of dengue fever, with hospitals struggling to make space for patients as the disease spreads rapidly in the densely-populated country. https://www.marketscreener.com/quote/index/TOPIX-\u2026",
-      "url": "https://www.marketscreener.com/quote/index/TOPIX-INDEX-61714390/news/Bangladesh-grapples-with-record-deadly-outbreak-of-dengue-fever-44530606/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-08-05 07:13:35",
-      "content": "DHAKA (Reuters) - Bangladesh is grappling with a record deadly outbreak of dengue fever, with hospitals struggling to make space for patients as the disease spreads rapidly in the densely-populated c\u2026 [+2218 chars]",
-      "retrievedAt": "2023-08-06 19:05:12.019093",
-      "internal_id": "0b32785c299edbc19b0f27d49b96dc0036bf50fe76643f4db34358cc48748829",
-      "publishedAtLabel": "Aug 5"
-    },
-    {
-      "id": 921,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Bangladesh grapples with record deadly outbreak of dengue fever - Reuters",
-      "description": "Bangladesh grapples with record deadly outbreak of dengue fever Reuters",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9iYW5nbGFkZXNoLWdyYXBwbGVzLXdpdGgtcmVjb3JkLWRlYWRseS1vdXRicmVhay1kZW5ndWUtZmV2ZXItMjAyMy0wOC0wNS_SAQA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-05 07:13:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-06 19:05:12.002457",
-      "internal_id": "90300993d85cd2c96da7ca9dc2766b02bb115c31c1e61804799a93ddef34daba",
-      "publishedAtLabel": "Aug 5"
-    },
-    {
-      "id": 915,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Svenska.yle.fi",
-      "author": null,
-      "title": "Virus muterar hela tiden och ibland skapas l\u00e4skiga varianter som spanska sjukan \u2013 s\u00e5 h\u00e4r g\u00e5r det till",
-      "description": "Vi beh\u00f6ver fler virologer i Finland, menar forskare.",
-      "url": "https://svenska.yle.fi/a/7-10038661",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/f_auto,fl_progressive/q_auto/w_3000,h_1687,c_crop,x_0,y_88/w_1200/w_1200,ar_16:9/w_1320,ar_1320:675,c_pad,b_white,g_east/l_39-yle-logo-some_ywtrrc,g_west,ar_1320:675,w_1.0,fl_relative,c_crop/v1658132558/39-98328462d517c2ec0b7.jpg",
-      "publishedAt": "2023-08-05 04:18:56",
-      "content": "F\u00e5gelinfluensa, HIV, coronavirus, zika och dengue. Virusen \u00e4r m\u00e5nga och g\u00e5torna kring dem likas\u00e5, men forskningen g\u00e5r fram\u00e5t i snabb takt och nu beh\u00f6vs ocks\u00e5 fler virologer. Virus \u00e4r igen p\u00e5 nyhets\u2026 [+8764 chars]",
-      "retrievedAt": "2023-08-06 07:05:23.015522",
-      "internal_id": "91b19c0231c1d139c98c06d38891776f66bedd1873078162b6ea1106bf6e276f",
-      "publishedAtLabel": "Aug 5"
-    },
-    {
-      "id": 913,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "KMOV.com",
-      "author": "Rheanna Wachter",
-      "title": "Health officials warn of Measles exposure in the St. Louis Metro",
-      "description": "Health officials urge awareness as a case of internationally-imported measles has been confirmed in the St. Louis area.",
-      "url": "https://www.kmov.com/2023/08/04/health-officials-warn-measles-exposure-st-louis-metro/",
-      "urlToImage": "https://gray-kmov-prod.cdn.arcpublishing.com/resizer/cZRALPad2kLJNsVuksaUuJ-SBks=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/Q5IEXXJDV5ETNF6OMJG3M7UBVE.jpg",
-      "publishedAt": "2023-08-04 23:24:55",
-      "content": "ST. LOUIS, Mo. (KMOV) - Health officials urge awareness as a case of internationally-imported measles has been confirmed in the St. Louis area. The Missouri Department of Health and Senior Services,\u2026 [+2191 chars]",
-      "retrievedAt": "2023-08-06 07:05:22.380415",
-      "internal_id": "a8b64c83a832dd8dc6dd2cc32c66b9840289eb34f2487354c69280d647fbd869",
-      "publishedAtLabel": "Aug 4"
     }
   ]
 }
