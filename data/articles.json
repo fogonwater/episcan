@@ -1,8 +1,206 @@
 {
-  "last_updated": "2023-08-17 19:05",
+  "last_updated": "2023-08-18 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 26,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 1164,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Redazione)",
+      "title": "Un caso sospetto di Dengue a Monza Disinfestazione in tutto il quartiere",
+      "description": "Paura per la malattia virale che \u00e8 trasmessa dalle zanzare",
+      "url": "https://www.ilgiornale.it/news/caso-sospetto-dengue-monza-disinfestazione-tutto-quartiere-2197663.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2020/03/05/1583394198-disinfestazione-treno.jpg?_=1583394198",
+      "publishedAt": "2023-08-17 07:05:13",
+      "content": "Un caso sospetto di Dengue, la malattia virale trasmessa dalle zanzare a Monza. L'Ats Brianza ha subito avvertito il Comune di Monza che ha disposto con un'ordinanza una disinfestazione straordinaria\u2026 [+2074 chars]",
+      "retrievedAt": "2023-08-18 07:05:33.964131",
+      "internal_id": "776511abc7da2be1d8873e3bfe1c12d200af6f1b8556657dd34e47e07d57f8b7",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 1163,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Over 200% spike in dengue cases in Kelantan, says Health Director",
+      "description": "KOTA BHARU: A total of 1,514 cases of dengue fever were recorded in Kelantan from January to August 12, an increase of 225% compared to the same period last year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/08/17/over-200-spike-in-dengue-cases-in-kelantan-says-health-director",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/17/2235484.jpg",
+      "publishedAt": "2023-08-17 06:46:00",
+      "content": "KOTA BHARU: A total of 1,514 cases of dengue fever were recorded in Kelantan from January to August 12, an increase of 225% compared to the same period last year. Kelantan Health Department (JKNK) d\u2026 [+1716 chars]",
+      "retrievedAt": "2023-08-18 07:05:33.958484",
+      "internal_id": "c211d1eedad609652c2f721455a185410662c499340b77625fad3c0bc93c1a77",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 1165,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Buenos resultados de una vacuna experimental contra la malaria",
+      "description": "Una vacuna experimental contra la malaria parece segura y favorece la respuesta inmunitaria en lactantes africanos, uno de los grupos m\u00e1s vulnerables a la malaria grave, seg\u00fan un ensayo cl\u00ednico publicado en la revista 'Med'.",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-buenos-resultados-vacuna-experimental-contra-malaria-20230817071648.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230817071648_1200.jpg",
+      "publishedAt": "2023-08-17 05:16:48",
+      "content": "MADRID, 17 Ago. (EUROPA PRESS) - Una vacuna experimental contra la malaria parece segura y favorece la respuesta inmunitaria en lactantes africanos, uno de los grupos m\u00e1s vulnerables a la malaria \u2026 [+5141 chars]",
+      "retrievedAt": "2023-08-18 07:05:35.292893",
+      "internal_id": "3a6a403e08450322fb908e5b56e068b941b055ec5daeb01b17d56c9d891c6770",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 1166,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Thefreedictionary.com",
+      "author": null,
+      "title": "Salmonella",
+      "description": "Salmonella is a certain type of bacteria, several species of which are responsible for typhoid fever, paratyphoid fever, and food poisoning in humans. It is usually contracted from poultry, meat, or raw eggs and from food that has been cooked or frozen and no\u2026",
+      "url": "https://encyclopedia.thefreedictionary.com/Salmonella",
+      "urlToImage": "http://img.tfd.com/TFDlogo1200x1200.png",
+      "publishedAt": "2023-08-17 04:22:08",
+      "content": "Salmonella/\u02ccs\u00e6lm\u0259\u02c8n\u025bl\u0259/ is a genus of rod-shaped, Gram-negative, non-spore-forming, predominantly motileenterobacteria with diameters around 0.7 to 1.5 \u00b5m, lengths from 2 to 5 \u00b5m, and flagella that g\u2026 [+28964 chars]",
+      "retrievedAt": "2023-08-18 07:05:36.946147",
+      "internal_id": "49c9e7a970f953286eac92c6d59ed3a45f902ed3a81e674bc18978d41f4c6e9f",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 1160,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WKTV",
+      "author": "Zach Lewis",
+      "title": "4 Kittens Test Positive for Rabies in Rome; 9 People Exposed",
+      "description": "ROME, N.Y. -- The Oneida County Health Department announced that four kittens in Rome tested positive for rabies.",
+      "url": "https://www.wktv.com/news/health/4-kittens-test-positive-for-rabies-in-rome-9-people-exposed/article_6eca4c0a-3c71-11ee-a362-bb5f0909e4d6.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/1/29/129cdb58-3c73-11ee-9c85-bb942bec5d2c/64dd30e746398.image.png?crop=1712%2C899%2C0%2C155&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-08-17 01:00:08",
+      "content": "ROME, N.Y. -- The Oneida County Health Department announced that four kittens in Rome tested positive for rabies. The Oneida County Health Department announced that four kittens in Rome tested posi\u2026 [+2190 chars]",
+      "retrievedAt": "2023-08-18 07:05:32.751168",
+      "internal_id": "500bb6d75826f231cffc189a64cd2d5416c0ca82b169015b9e2fa209796420bf",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 1162,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "UPI.com",
+      "author": "Adam Schrader",
+      "title": "Florida health officials warn of spreading dengue fever cases",
+      "description": "Health officials in Florida are warning of a potential increase in dengue fever cases after two new cases were reported to have spread locally in Broward...",
+      "url": "https://www.upi.com/Top_News/US/2023/08/16/florida-health-officials-warn-spreading-dengue-fever/3231692224504/",
+      "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/5aceaf00635e3604bf906be49d6863b4",
+      "publishedAt": "2023-08-16 23:01:59",
+      "content": "Aug. 16 (UPI) -- Health officials in Florida are warning of a potential increase in dengue fever cases after two new cases were reported to have spread locally in Broward County. Those cases, the fi\u2026 [+1316 chars]",
+      "retrievedAt": "2023-08-18 07:05:33.954966",
+      "internal_id": "dad1fab4429fe648264487a5cb02dbd1a410d209c58b7f3b3526aa7362974940",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 1158,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Times of Israel",
+      "author": null,
+      "title": "In mix-up, Jerusalem hospital gives rabies shots to 5 pregnant women",
+      "description": "Hadassah Medical Center says none of the expectant mothers or their pregnancies were hurt from injections, calls them back for anti-D shots",
+      "url": "https://www.timesofisrael.com/in-mix-up-jerusalem-hospital-gives-rabies-shots-to-5-pregnant-women/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2018/10/F110526YZ06-1024x640.jpg",
+      "publishedAt": "2023-08-16 21:58:30",
+      "content": "Five pregnant women were given rabies shots at Hadassah Medical Center in Jerusalem instead of anti-D shots earlier this week, a medical publication reported. The hospital has told the women that ne\u2026 [+1126 chars]",
+      "retrievedAt": "2023-08-18 07:05:32.742417",
+      "internal_id": "116eb2d6b14ce0a24c7adf46d3e44c3d657b156c7922ba36f09cd2bf7729a9fb",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 1156,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Several vaccines associated with reduced risk of Alzheimer's disease in adults 65 and older",
+      "description": "Prior vaccination against tetanus and diphtheria, with or without pertussis (Tdap/Td); herpes zoster (HZ), better known as shingles; and pneumococcus are all associated with a reduced risk for developing Alzheimer's disease, according to new research.",
+      "url": "https://www.sciencedaily.com/releases/2023/08/230816170628.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-08-16 21:06:28",
+      "content": "Prior vaccination against tetanus and diphtheria, with or without pertussis (Tdap/Td); herpes zoster (HZ), better known as shingles; and pneumococcus are all associated with a reduced risk for develo\u2026 [+6949 chars]",
+      "retrievedAt": "2023-08-18 07:05:32.459374",
+      "internal_id": "ed495c772681fa6ac15a3fca3756fca379eea6271fb87296012682fd4e80dcd5",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 1157,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Medical Xpress",
+      "author": "Science X",
+      "title": "Several vaccines associated with reduced risk of Alzheimer's disease in adults 65 and older",
+      "description": "Prior vaccination against tetanus and diphtheria, with or without pertussis (Tdap/Td); herpes zoster (HZ), better known as shingles; and pneumococcus are all associated with a reduced risk for developing Alzheimer's disease, according to new research from UTH\u2026",
+      "url": "https://medicalxpress.com/news/2023-08-vaccines-alzheimer-disease-adults-older.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/several-vaccines-assoc.jpg",
+      "publishedAt": "2023-08-16 20:53:23",
+      "content": "Prior vaccination against tetanus and diphtheria, with or without pertussis (Tdap/Td); herpes zoster (HZ), better known as shingles; and pneumococcus are all associated with a reduced risk for develo\u2026 [+7107 chars]",
+      "retrievedAt": "2023-08-18 07:05:32.465725",
+      "internal_id": "9487c667b09c2f07ef46d914b5fad07fe2f73306865681b114a2a4aa4ed2c009",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 1159,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Detroit Free Press",
+      "author": "Detroit Free Press, Christina Hall, Detroit Free Press",
+      "title": "3 skunks test positive for rabies in Macomb County; residents urged to be cautious",
+      "description": "Macomb County health officials urge residents to be cautious after three skunks test positive for rabies, engaged with family pets.",
+      "url": "https://www.freep.com/story/news/local/michigan/macomb/2023/08/17/skunks-rabies-macomb-county-pets/70603235007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2019/10/17/PDTF/f0f3ae21-e3dd-4041-88ba-74a4f067dda5-IMG_Young_Striped_Skunk__1_.JPG?auto=webp&crop=3887,2187,x0,y197&format=pjpg&width=1200",
+      "publishedAt": "2023-08-16 19:49:30",
+      "content": "Macomb County health officials are urging the public, especially residents in Macomb and Clinton Townships, to be cautious if they see a skunk, three of which have tested positive for rabies this sum\u2026 [+3855 chars]",
+      "retrievedAt": "2023-08-18 07:05:32.747485",
+      "internal_id": "c4dadeb0d3532e83e7bba991e2a87bb8075365a2ab6e5d17102a978d07d28372",
+      "publishedAtLabel": "Aug 16"
+    },
+    {
+      "id": 1161,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "4 more cases of locally acquired dengue reported in Florida",
+      "description": "Four more cases of locally-acquired dengue have been reported in Florida bringing the total number of infections in the state this year up to 10.",
+      "url": "https://abcnews.go.com/Health/4-cases-locally-acquired-dengue-reported-florida-virus/story?id=102306525",
+      "urlToImage": "https://s.abcnews.com/images/Health/GTY_Zika_mosquito_hb_160720_16x9_992.jpg",
+      "publishedAt": "2023-08-16 19:39:23",
+      "content": "Florida health officials are issuing a warning about dengue as the virus continues to increase in South Florida. Four cases of locally acquired dengue were reported in Miami-Dade County and for the \u2026 [+2373 chars]",
+      "retrievedAt": "2023-08-18 07:05:33.950780",
+      "internal_id": "764203ca2820ac71128287464088a1263412123523ed2f93a143058543f9a1b1",
+      "publishedAtLabel": "Aug 16"
+    },
     {
       "id": 1132,
       "query": [
@@ -3416,204 +3614,6 @@
       "content": "Delhi reported 105 dengue cases in the past week shooting up from 56 cases the week before as per the Municipal Corporation of Delhis (MCD) vector-borne disease report issued Monday.The number of cas\u2026 [+1644 chars]",
       "retrievedAt": "2023-08-09 07:05:41.641572",
       "internal_id": "54b911fb8d376c5cd3e5e86f6727e5dcd167ecfbcb27869272965031cbb958e8",
-      "publishedAtLabel": "Aug 7"
-    },
-    {
-      "id": 976,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Starobserver.com.au",
-      "author": "Shibu Thomas",
-      "title": "Victoria\u2019s CHO Issues Health Alert After Two Local Mpox Cases",
-      "description": "Victoria\u2019s Chief Health Officer has issued an alert after two new locally acquired cases of Mpox were reported in the state last week. The two new mpox cases are the ... The post Victoria\u2019s CHO Issues Health Alert After Two Local Mpox Cases appeared first on\u2026",
-      "url": "https://www.starobserver.com.au/news/national-news/victoria-news/victorias-cho-issues-health-alert-after-two-local-mpox-cases/225474",
-      "urlToImage": "https://www.starobserver.com.au/wp-content/uploads/2022/11/prick-pause-play-e1667822481972.jpeg",
-      "publishedAt": "2023-08-07 23:28:16",
-      "content": "Victoria\u2019s Chief Health Officer has issued an alert after two new locally acquired cases of Mpox were reported in the state last week. The two new mpox cases are the first recorded since November 2\u2026 [+1879 chars]",
-      "retrievedAt": "2023-08-09 07:05:43.033183",
-      "internal_id": "00458c7dbe2c0af400e36fb4cd8ad21b956027d4bb7dd8d36b9842ec3ee3ad6e",
-      "publishedAtLabel": "Aug 7"
-    },
-    {
-      "id": 977,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Royal Society of Chemistry",
-      "author": "Uraiwan Kositanont, Chatchawan Srisawat, Sirinapa Sripinitchai, Charin Thawornkuno, Thanyarat Chaibun, Sinthu Sinthu Karunaithas, Chamras Promptmas, Benchaporn Lertanantawong",
-      "title": "Electrochemical Aptasensor Detection of Electron Transfer Flavoprotein Subunit Beta for Leptospirosis Diagnosis",
-      "description": "Analyst, 2023, Accepted ManuscriptDOI: 10.1039/D3AN01064C, PaperUraiwan Kositanont, Chatchawan Srisawat, Sirinapa Sripinitchai, Charin Thawornkuno, Thanyarat Chaibun, Sinthu Sinthu Karunaithas, Chamras Promptmas, Benchaporn LertanantawongElectron transfer fla\u2026",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2023/an/d3an01064c",
-      "urlToImage": null,
-      "publishedAt": "2023-08-07 23:00:00",
-      "content": "U. Kositanont, C. Srisawat, S. Sripinitchai, C. Thawornkuno, T. Chaibun, S. Sinthu Karunaithas, C. Promptmas and B. Lertanantawong, Analyst, 2023, Accepted Manuscript , DOI: 10.1039/D3AN01064C To\u2026 [+688 chars]",
-      "retrievedAt": "2023-08-09 07:05:43.453118",
-      "internal_id": "1287e249e348290c9e65eb9da22022b8270cc940ff1671fd9e1fe996772840e9",
-      "publishedAtLabel": "Aug 7"
-    },
-    {
-      "id": 963,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Dave Wessner, Contributor, \n Dave Wessner, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/davewessner/",
-      "title": "CDC Report Describes Measles Outbreak In Ohio",
-      "description": "A report published by the CDC describes an outbreak of measles that occurred in Ohio. Cases were almost if not entirely in unvaccinated or partially vaccinated people.",
-      "url": "https://www.forbes.com/sites/davewessner/2023/08/07/cdc-report-describes-measles-outbreak-in-ohio/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d164fa3ef925d823034c63/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-08-07 21:57:20",
-      "content": "A child about to receive the MMR (mumps, measles, rubella) vaccine. getty During the fall of 2022, an outbreak of measles occurred in Ohio, ultimately leading to 85 cases of a disease that official\u2026 [+4629 chars]",
-      "retrievedAt": "2023-08-09 07:05:41.228881",
-      "internal_id": "a3aa8b87f2f72fc6780cf002060e4d09d0405d86617157363878e650fce9d854",
-      "publishedAtLabel": "Aug 7"
-    },
-    {
-      "id": 973,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Freshnessmag.com",
-      "author": "Joseph Mardon",
-      "title": "Can an Ear Infection Cause Meningitis? Everything You Need to Know",
-      "description": "Ear infections can be a common occurrence, especially in children. They often result in symptoms like ear pain, fluid buildup, and even temporary hearing loss. But can an ear infection ... <a title=\"Can an Ear Infection Cause Me\u2026",
-      "url": "http://www.freshnessmag.com/2023/08/07/can-an-ear-infection-cause-meningitis/",
-      "urlToImage": "https://tse1.mm.bing.net/th?q=can+an+ear+infection+cause+meningitis",
-      "publishedAt": "2023-08-07 20:24:04",
-      "content": "Ear infections can be a common occurrence, especially in children. They often result in symptoms like ear pain, fluid buildup, and even temporary hearing loss. But can an ear infection lead to someth\u2026 [+7957 chars]",
-      "retrievedAt": "2023-08-09 07:05:41.865290",
-      "internal_id": "522cd469954d87f41d043f1402981f23d78fa685781e43399dc5d22145e3b1de",
-      "publishedAtLabel": "Aug 7"
-    },
-    {
-      "id": 958,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Kasus DBD Meningkat, 3 Rumah di Ketapang Rawat Pasien hingga ke Lorong",
-      "description": "KalbarOnline, Ketapang \u2013 Kasus Demam Berdarah Dengue (DBD) di Kabupaten Ketapang meningkat The post Kasus DBD Meningkat, 3 Rumah di Ketapang Rawat Pasien hingga ke Lorong appeared first on KalbarOnline.Com.",
-      "url": "https://www.kalbaronline.com/2023/08/07/kasus-dbd-meningkat-3-rumah-di-ketapang-rawat-pasien-hingga-ke-lorong/",
-      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/08/IMG-20230807-WA0030.jpg",
-      "publishedAt": "2023-08-07 15:05:10",
-      "content": "KalbarOnline, Ketapang \u2013 Kasus Demam Berdarah Dengue (DBD) di Kabupaten Ketapang meningkat tinggi sejak awal tahun 2023. Hal itu membuat sejumlah kamar rawat di Rumah Sakit Umum Daerah (RSUD) dr. Ago\u2026 [+2015 chars]",
-      "retrievedAt": "2023-08-08 19:05:27.922535",
-      "internal_id": "41b3f96fcc9deaf16d7acd0ba382dda56ab7906a793df4a981872bcef211e834",
-      "publishedAtLabel": "Aug 7"
-    },
-    {
-      "id": 959,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
-      "title": "Il giro del mondo senza mai prendere l\u2019aereo. I dieci anni di viaggio dell\u2019avventuriero Thor",
-      "description": "Torbj\u00f8rn C. Pedersen ha visitato 203 Paesi spostandosi con navi, treni, risci\u00f2 e persino una carrozza trainata da un cavallo. Durante il suo lungo viaggio \u00e8 stato colpito da una malaria celebrale, minacciato di morte, visitato zone di conflitto e sposato, due\u2026",
-      "url": "https://www.repubblica.it/esteri/2023/08/07/news/torbjorn_thor_pedersen_danese_viaggio_mondo_senza_aerei-410345982/",
-      "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/08/07/164300394-68714898-75e4-4349-b4ca-6842c96f7002.jpg",
-      "publishedAt": "2023-08-07 14:43:34",
-      "content": "Gli occhi delle Maldive sono quelli verdazzurri di un uomo. Gli ultimi che Torbj\u00f8rn C. Pedersen, o meglio Thor, ha fotografato prima di ritornare a casa, in Danimarca, dopo aver girato tutto il globo\u2026 [+302 chars]",
-      "retrievedAt": "2023-08-08 19:05:28.687261",
-      "internal_id": "0499abf1c849075b0d4c028208cb6b95ce4b051763712fcf97a2540433cadcaa",
-      "publishedAtLabel": "Aug 7"
-    },
-    {
-      "id": 956,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Role of three-tier government important to control dengue",
-      "description": "KATHMANDU: Secretary of the Ministry of Health and Population, Dr. Roshan Pokharel, has said the role of a three-tier government was crucial to control dengue. At an interaction program on \u2018Dengue outbreak and control\u2019 organized by Health Journalist Forum her\u2026",
-      "url": "https://english.khabarhub.com/2023/07/313660/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/01/MINISTRY-OF-HEALTH.png",
-      "publishedAt": "2023-08-07 14:16:52",
-      "content": "Image for Representation.KATHMANDU: Secretary of the Ministry of Health and Population, Dr. Roshan Pokharel, has said the role of a three-tier government was crucial to control dengue. At an interac\u2026 [+1810 chars]",
-      "retrievedAt": "2023-08-08 19:05:27.919636",
-      "internal_id": "907b91a82897db8c046ebafc42266d436c4a4eff34f69fcdfc89e859ddbaeb08",
-      "publishedAtLabel": "Aug 7"
-    },
-    {
-      "id": 955,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "L. L. Lima, A. P. F. Atman",
-      "title": "Complexity in the dengue spreading: A network analysis approach",
-      "description": "In an increasingly interconnected society, preventing epidemics has become a major challenge. Numerous infectious diseases spread between individuals by a vector, creating bipartite networks of infection with the characteristics of complex networks. In the ca\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289690",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0289690.g006&size=inline",
-      "publishedAt": "2023-08-07 14:00:00",
-      "content": "Abstract In an increasingly interconnected society, preventing epidemics has become a major challenge. Numerous infectious diseases spread between individuals by a vector, creating bipartite network\u2026 [+31735 chars]",
-      "retrievedAt": "2023-08-08 19:05:27.913882",
-      "internal_id": "129d93e3c36f2bd5530c16dd76bea4db9d47fa915eafe8ab49ea26bfb65f4538",
-      "publishedAtLabel": "Aug 7"
-    },
-    {
-      "id": 960,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Michelle R. Koenig, Ann M. Mitzey, Xiankun Zeng, Leticia Reyes, Heather A. Simmons, Terry K. Morgan, Ellie K. Bohm, Julia C. Pritchard, Jenna A. Schmidt, Emily Ren, Fernanda B. Leyva Jaimes, Eva Winston, Puja Basu, Andrea M. Weiler, Thomas C. Friedrich, Matthew T. Aliota, Emma L. Mohr, Thaddeus G. Golos",
-      "title": "Vertical transmission of African-lineage Zika virus through the fetal membranes in a rhesus macaque (Macaca mulatta) model",
-      "description": "Author summary Zika virus (ZIKV) can be vertically transmitted from mother to fetus during pregnancy resulting in adverse pregnancy outcomes. For vertical transmission to occur, ZIKV must overcome the barriers of the maternal-fetal interface, yet the exact pa\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011274",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011274.g014&size=inline",
-      "publishedAt": "2023-08-07 14:00:00",
-      "content": "Citation: Koenig MR, Mitzey AM, Zeng X, Reyes L, Simmons HA, Morgan TK, et al. (2023) Vertical transmission of African-lineage Zika virus through the fetal membranes in a rhesus macaque (Macaca mulat\u2026 [+88251 chars]",
-      "retrievedAt": "2023-08-08 19:05:28.983007",
-      "internal_id": "d8e8348784cb92afcb31680601813c1dbf7a7a3981c2f5f82412a704e5e6bc1a",
-      "publishedAtLabel": "Aug 7"
-    },
-    {
-      "id": 961,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Rabab Batool, Sonia Qureshi, Zoya Haq, Mohammad Tahir Yousafzai, Rehana A. Salam, Rafey Ali, Tahira Sadaf, Miqdad Ali, Farah Naz Qamar",
-      "title": "Coverage survey of typhoid conjugate vaccine among children aged 6 months to 15 years in an urban slum settlement of Lyari Town Karachi, Pakistan",
-      "description": "Objective To estimate the coverage rate of typhoid conjugate vaccine (TCV) among children aged 6 months to 15 years in Lyari Town Karachi, Pakistan. Methods A cross-sectional survey was conducted to estimate the vaccine coverage of Typbar TCV in Lyari Town \u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289582",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0289582.g001&size=inline",
-      "publishedAt": "2023-08-07 14:00:00",
-      "content": "Abstract Objective To estimate the coverage rate of typhoid conjugate vaccine (TCV) among children aged 6 months to 15 years in Lyari Town Karachi, Pakistan. Methods A cross-sectional survey was \u2026 [+35147 chars]",
-      "retrievedAt": "2023-08-08 19:05:29.787001",
-      "internal_id": "0766f8d47187b83f7bd297341fb9263fb13b21c0e732cd1cda147498d5f83b36",
-      "publishedAtLabel": "Aug 7"
-    },
-    {
-      "id": 962,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Jingliang Qin, Liyuan Shi, Yarong Wu, Jinjiao Kong, Xiuwei Qian, Xianglilan Zhang, Xiujuan Zuo, Hang Fan, Yan Guo, Mengnan Cui, Shanshan Dong, Hongli Tan, Youhong Zhong, Yajun Song, Ruifu Yang, Peng Wang, Yujun Cui",
-      "title": "Genomic epidemiological analysis of county-scale Yersinia pestis spread pattern over 50 years in a Southwest Chinese prefecture",
-      "description": "Author summary Yersinia pestis, the causative agent of plague, has led to three historic pandemics and remains a major public health issue. Here, genomic epidemiological analysis of 175 Y. pestis strains isolated over 50 years from the Dehong Dai\u2014Jingpo Auton\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011527",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011527.g005&size=inline",
-      "publishedAt": "2023-08-07 14:00:00",
-      "content": "Abstract Plague, one of the most devastating infectious diseases in human history, is caused by the bacterium Yersinia pestis. Since the 1950s, the Dehong DaiJingpo Autonomous Prefecture (DH) in Yun\u2026 [+34459 chars]",
-      "retrievedAt": "2023-08-08 19:05:30.242955",
-      "internal_id": "83efd039c8c29857f38efd669ce93fdf3ef46751a094abfd3c1e5cb577706fed",
       "publishedAtLabel": "Aug 7"
     }
   ]
