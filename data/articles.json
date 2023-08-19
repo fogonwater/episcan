@@ -1,8 +1,154 @@
 {
-  "last_updated": "2023-08-18 19:05",
+  "last_updated": "2023-08-19 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 21,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 1193,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: Das Virus ist noch da: Nach langer Ruhe wieder Mpox-F\u00e4lle",
+      "description": "",
+      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fnews%2F2023-08%2F18%2Fdas-virus-ist-noch-da-nach-langer-ruhe-wieder-mpox-faelle",
+      "urlToImage": null,
+      "publishedAt": "2023-08-18 05:36:16",
+      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
+      "retrievedAt": "2023-08-19 07:05:36.688896",
+      "internal_id": "aea72972b429291168b962d5066e5e95c80a05b64e11ca29c4af33a2b1036f91",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1194,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "\u00a9 dpa-infocom, dpa:230818-99-872972/2 (dpa)",
+      "title": "Krankheiten: Das Virus ist noch da: Nach langer Ruhe wieder Mpox-F\u00e4lle",
+      "description": "Die Krankheit Affenpocken, die mittlerweile offiziell Mpox hei\u00dft, konnte in letzter Zeit in Vergessenheit geraten. Das Robert Koch-Institut verzeichnete l\u00e4nger keine F\u00e4lle hierzulande. Das hat sich ge\u00e4ndert.",
+      "url": "https://www.morgenpost.de/berlin/article239221921/Das-Virus-ist-noch-da-Nach-langer-Ruhe-wieder-Mpox-Faelle.html",
+      "urlToImage": "https://img.morgenpost.de/img/berlin/crop239221919/3942602961-w820-cv16_9-q85/Affenpockenvirus.jpg",
+      "publishedAt": "2023-08-18 05:36:16",
+      "content": "Berlin. Nach mehr als einem halben Jahr ohne Nachweise von Mpox (fr\u00fcher Affenpocken) sind in Berlin wieder einzelne Infektionen mit dem Virus aufgetreten. In den vergangenen Wochen seien drei F\u00e4lle g\u2026 [+3200 chars]",
+      "retrievedAt": "2023-08-19 07:05:36.691238",
+      "internal_id": "769a67566e2bb51964891dd9d604c391513ebbaf44d5bf2f67f88d888c3aec24",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1192,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Chosun.com",
+      "author": "By Kim Chul-joong( )",
+      "title": "Malaria Alert Issued as Korea Swelters in Summer Heat",
+      "description": "Malaria is on the rise in Korea as it swelters in record heat and humidity, topping 500 cases so far this year. That is more than double the number in the same period last year.The Korea Disease Control and Prevention Agency issued this year's first malaria a\u2026",
+      "url": "https://english.chosun.com/site/data/html_dir/2023/08/18/2023081801486.html",
+      "urlToImage": "https://english.chosun.com//image.chosun.com/facebook/newson.gif",
+      "publishedAt": "2023-08-18 04:03:33",
+      "content": "Malaria is on the rise in Korea as it swelters in record heat and humidity, topping 500 cases so far this year. That is more than double the number in the same period last year. The Korea Disease Co\u2026 [+1053 chars]",
+      "retrievedAt": "2023-08-19 07:05:35.511535",
+      "internal_id": "51ca72ed0d6efec06fe69dc2b1a88a5a4ae8d75f5e17c2d897d9c0615750650f",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1190,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Miami Herald",
+      "author": "yahoo news",
+      "title": "Dengue cases prompt mosquito alert in Miami, Fort Lauderdale...",
+      "description": "Here\u2019s what we know so far.",
+      "url": "https://www.miamiherald.com/news/health-care/article278339729.html",
+      "urlToImage": "https://media.zenfs.com/en/miami_herald_mcclatchy_975/f785d463bb3745cc28ac4d5b2513eb3a",
+      "publishedAt": "2023-08-18 03:00:03",
+      "content": "Dengue cases prompt mosquito-borne illness alert in Miami, Fort Lauderdale. What to knowSeveral reported cases of the dengue virus in humans have prompted Florida\u2019s health department to issue a mosqu\u2026 [+5179 chars]",
+      "retrievedAt": "2023-08-19 07:05:34.705132",
+      "internal_id": "a3458f5bb38c49a839d4b718ef6a13c98c05a4e0dd281356f2906e6f688bc910",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1188,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "9News",
+      "author": "Serena Seyfort",
+      "title": "Measles cases: Warning to Aussie travellers as tourists bring viral illness back from Bali",
+      "description": "Aussies travelling overseas are being urged to get vaccinated against measles before they go after two cases of measles were brought back from Bali.",
+      "url": "https://www.9news.com.au/national/warning-to-aussie-travellers-as-tourists-bring-measles-back-from-bali/059be01a-2ba3-4f4f-aa9c-8c4930d4cf9d",
+      "urlToImage": "https://imageresizer.static9.net.au/sqEfdTqc9luWqnZz7s6P0kfn4pU=/0x65:1255x770/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fcc2aba79-0d4b-4593-bfba-52264cd4a56b",
+      "publishedAt": "2023-08-17 23:42:10",
+      "content": "Property News: Gold Coast home comes with a jaw-dropping man cave.",
+      "retrievedAt": "2023-08-19 07:05:34.065606",
+      "internal_id": "124abc8f45656a31ce71ac725d5a2d213b1b940a50337ca51a98dd496139a317",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 1191,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Dengue Outbreak: 45% Positivity Rate In Diphu",
+      "description": "HT Bureau DIPHU, Aug 17: The Dengue outbreak in the Diphu Municipal Board area shows no signs of abating, with the positivity rate remaining alarmingly high at 45% as of Wednesday. Tragically, the death toll from the outbreak has reached 3. According to the\u2026",
+      "url": "https://thehillstimes.in/assam/dengue-outbreak-45-positivity-rate-in-diphu",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-18-at-12.13.09-AM.jpeg",
+      "publishedAt": "2023-08-17 23:30:31",
+      "content": "HT Bureau DIPHU, Aug 17: The Dengue outbreak in the Diphu Municipal Board area shows no signs of abating, with the positivity rate remaining alarmingly high at 45% as of Wednesday. Tragically, the d\u2026 [+1011 chars]",
+      "retrievedAt": "2023-08-19 07:05:34.708010",
+      "internal_id": "8506e68063729d03d9e2ab06f786c672f75f8751d6b048a9610c635168ff6470",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 1195,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "lenta",
+      "source_name": "Lenta",
+      "author": "\u041d\u0438\u043d\u0430 \u0420\u044b\u043a\u043e\u0432\u0430",
+      "title": "\u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u0431\u0443\u0431\u043e\u043d\u043d\u0430\u044f \u0447\u0443\u043c\u0430 \u0438 \u043a\u0430\u043a \u0435\u044e \u0437\u0430\u0440\u0430\u0436\u0430\u044e\u0442\u0441\u044f? \u041d\u043e\u0432\u044b\u0435 \u0441\u043b\u0443\u0447\u0430\u0438 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0432 \u041a\u0438\u0442\u0430\u0435: \u0435\u0441\u0442\u044c \u043b\u0438 \u0443\u0433\u0440\u043e\u0437\u0430 \u0434\u043b\u044f \u0420\u043e\u0441\u0441\u0438\u0438?",
+      "description": "\u0412 \u0430\u0432\u0433\u0443\u0441\u0442\u0435 2023 \u0433\u043e\u0434\u0430 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u0431\u0443\u0431\u043e\u043d\u043d\u043e\u0439 \u0447\u0443\u043c\u044b \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0432 \u041a\u0438\u0442\u0430\u0435 \u0438 \u041c\u043e\u043d\u0433\u043e\u043b\u0438\u0438. \u0412 \u043a\u0430\u0436\u0434\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u043f\u043e \u0442\u0440\u0438 \u0441\u043b\u0443\u0447\u0430\u044f \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f. \u0427\u0443\u043c\u0430 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u043e\u0439 \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u0441\u0442\u0440\u0430\u0448\u043d\u044b\u0445 \u0431\u043e\u043b\u0435\u0437\u043d\u0435\u0439 \u2014 \u0437\u0430 \u0432\u0441\u044e \u0438\u0441\u0442\u043e\u0440\u0438\u044e \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0430 \u043e\u043d\u0430 \u0443\u043d\u0435\u0441\u043b\u0430 \u0441\u043e\u0442\u043d\u0438 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u043e\u0432 \u0436\u0438\u0437\u043d\u0435\u0439. \u00ab\u041b\u0435\u043d\u0442\u0430.\u0440\u0443\u00bb \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u2026",
+      "url": "https://lenta.ru/articles/2023/08/18/bubonnaya_chuma/",
+      "urlToImage": "https://icdn.lenta.ru/images/2023/08/17/18/20230817185939453/share_e5c419e081f452b4cf323690f0f021c1.jpeg",
+      "publishedAt": "2023-08-17 21:01:42",
+      "content": "14 2023 . . - , , . \u00ab.\u00bb , , . ? , . Yersinia pestis, \u00ab \u00bb, , . , , \u00ab.\u00bb Docma.ru . - , . \u00ab \"\" \"\", \u00bb, . : Tyrone Siu / Reuters , \u00ab \u00bb. XIV-XVII , . , , (-) , . ? : : , . 1. , . , Yersinia\u2026 [+494 chars]",
+      "retrievedAt": "2023-08-19 07:05:37.609762",
+      "internal_id": "1785da4ff76c821e42d35b53670127917ec566b9b5c0e8c74339e9664c5d3aec",
+      "publishedAtLabel": "Aug 17"
+    },
+    {
+      "id": 1189,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Sun Sentinel",
+      "author": "Cindy Krischer Goodman, South Florida Sun Sentinel",
+      "title": "Spike in international travel leads to rise in harmful mosquito-borne illness in Florida",
+      "description": "This year\u2019s spike in international travel has brought more than 200 cases of mosquito-borne illnesses to Florida, including dengue, malaria, chikungunya, and...",
+      "url": "https://www.sun-sentinel.com/2023/08/17/spike-in-international-travel-leads-to-rise-in-harmful-mosquito-borne-illness-in-florida/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZZ8u6XREEaLiSCVcizTRkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/south_florida_sun_sentinel_national_820/72e3126a4548e018bedfeeec215ff4da",
+      "publishedAt": "2023-08-17 20:44:00",
+      "content": "This years spike in international travel has brought more than 200 cases of mosquito-borne illnesses to Florida, including dengue, malaria, chikungunya, and West Nile Virus. When it comes to dengue \u2026 [+3809 chars]",
+      "retrievedAt": "2023-08-19 07:05:34.700757",
+      "internal_id": "1ea6130fb28330968078882c910c881478ea23b3c77141ae594295a3fc46b29f",
+      "publishedAtLabel": "Aug 17"
+    },
     {
       "id": 1179,
       "query": [
@@ -3469,150 +3615,6 @@
       "retrievedAt": "2023-08-10 19:05:13.679564",
       "internal_id": "e5f25f806ac01e6fd28370d77ab1f063181b0dcf6503b8374fa77531da344884",
       "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 1000,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vnexpress.net",
-      "author": "Le Nga",
-      "title": "Hanoi reports 110 active dengue fever outbreaks",
-      "description": "Hanoi recorded 500 dengue fever cases per week on average in the past month, up 4.3 times against last month, at 110 outbreaks across the city.",
-      "url": "https://e.vnexpress.net/news/news/hanoi-reports-110-active-dengue-fever-outbreaks-4639681.html",
-      "urlToImage": "https://vcdn1-english.vnecdn.net/2023/08/09/dengue-1691554797-8821-1691554-5468-3370-1691569056.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=XRT7g4Wti7e6HsgRsNiVsQ",
-      "publishedAt": "2023-08-09 11:00:00",
-      "content": "So far this year, the city has had 2,800 incidences, up 4.7 times against the same period last year, according to Hanois Center for Disease Control and Prevention (CDC). Thach That District suffered\u2026 [+1620 chars]",
-      "retrievedAt": "2023-08-10 19:05:13.680500",
-      "internal_id": "f4797a62e0da797891103766205bc291d0809cb4086eee1d34ada4bd10dedfaf",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 1005,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Science X",
-      "title": "Inflammation slows malaria parasite growth and reproduction in the body, research finds",
-      "description": "Research led by the Peter Doherty Institute for Infection and Immunity (Doherty Institute) and the Kirby Institute found that inflammation in the body can slow down the development of malaria parasites in the bloodstream\u2014a discovery that may constitute a pote\u2026",
-      "url": "https://phys.org/news/2023-08-inflammation-malaria-parasite-growth-reproduction.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/inflammation-slows-mal.jpg",
-      "publishedAt": "2023-08-09 10:05:18",
-      "content": "Research led by the Peter Doherty Institute for Infection and Immunity (Doherty Institute) and the Kirby Institute found that inflammation in the body can slow down the development of malaria parasit\u2026 [+4563 chars]",
-      "retrievedAt": "2023-08-10 19:05:14.440251",
-      "internal_id": "d72ea7970c0bb885d4e09f5b4aebb5c64d217c68a880756f06386839e978c37e",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 1002,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vietnamplus.vn",
-      "author": "VNA",
-      "title": "Dengue cases in Laos spike amid continuous rainfall",
-      "description": "Health authorities in Laos have reported a significant increase in dengue fever cases across the country, raising concerns among officials and prompting urgent preventive measures.",
-      "url": "https://en.vietnamplus.vn/dengue-cases-in-laos-spike-amid-continuous-rainfall/265917.vnp",
-      "urlToImage": null,
-      "publishedAt": "2023-08-09 09:13:00",
-      "content": "Hanoi (VNA) - Health authorities in Laos have reported a significant increase in dengue fever cases across the country, raising concerns among officials and prompting urgent preventive measures. T\u2026 [+1091 chars]",
-      "retrievedAt": "2023-08-10 19:05:13.686367",
-      "internal_id": "9c3c681f5983e35ea9151424ea378632a7313a6c75c0a6787e169804f92b4acc",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 991,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Irish Mirror",
-      "author": "Cian O'broin",
-      "title": "Mum of Limerick boy reveals he is battling meningitis after third brain surgery",
-      "description": "Noah Quish has been battling an array of serious illnesses, with the support of his mother Noah and father John, since he was born in March 2017",
-      "url": "https://www.irishmirror.ie/news/irish-news/health-news/limerick-boy-battling-meningitis-surgery-30660360",
-      "urlToImage": "https://i2-prod.irishmirror.ie/incoming/article30660374.ece/ALTERNATES/s1200/0_Noah-Quish.jpg",
-      "publishedAt": "2023-08-09 00:35:47",
-      "content": "The mum of a brave young Limerick boy who has been fighting serious illness his whole life has revealed that he is battling meningitis after a third brain surgery. A fundraiser has been started for \u2026 [+2120 chars]",
-      "retrievedAt": "2023-08-10 07:05:32.183150",
-      "internal_id": "a4a832f84a593075a580e4eb9401a71db844e4905d5a95e5b88e5d7bc1840f90",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 992,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "Inflammation slows malaria parasite growth and reproduction in the body",
-      "description": "New research found that inflammation in the body can slow down the development of malaria parasites in the bloodstream -- a discovery that may constitute a potential new strategy for preventing or limiting severe disease.",
-      "url": "https://www.sciencedaily.com/releases/2023/08/230808181913.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-08-08 22:19:13",
-      "content": "Research led by the Peter Doherty Institute for Infection and Immunity (Doherty Institute) and the Kirby Institute found that inflammation in the body can slow down the development of malaria parasit\u2026 [+3804 chars]",
-      "retrievedAt": "2023-08-10 07:05:32.540919",
-      "internal_id": "9c540347e22a8ae05b9f4a4edff07f3d4e08a0714e82e53f8a2afa0c6163e1e7",
-      "publishedAtLabel": "Aug 8"
-    },
-    {
-      "id": 986,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "Los 6 barrios con mayor n\u00famero de casos de dengue",
-      "description": "El Departamento Administrativo Distrital de Salud (Dadis) dio a conocer que durante el 24 al 30 de julio se reportaron 37 nuevos casos de dengue en Cartagena.",
-      "url": "https://www.eluniversal.com.co/cartagena/los-6-barrios-con-mayor-numero-de-casos-de-dengue-KD8764378",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/QRQK/dengue12_8238717_20230808130013.jpg",
-      "publishedAt": "2023-08-08 18:15:00",
-      "content": "El Departamento Administrativo Distrital de Salud (Dadis) dio a conocer que durante el 24 al 30 de julio se reportaron 37 nuevos casos de dengue en Cartagena. A semana epidemiol\u00f3gica 30 de 2023, el \u2026 [+1655 chars]",
-      "retrievedAt": "2023-08-09 19:05:21.737592",
-      "internal_id": "cc9dc532a64d1dbcbbd38e620782d303d09894657e54f19e62236846c715ed7a",
-      "publishedAtLabel": "Aug 8"
-    },
-    {
-      "id": 987,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "Los 6 barrios de Cartagena con m\u00e1s casos de dengue",
-      "description": "El Departamento Administrativo Distrital de Salud (Dadis) dio a conocer que durante el 24 al 30 de julio se reportaron 37 nuevos casos de dengue en Cartagena.",
-      "url": "https://www.eluniversal.com.co/cartagena/los-6-barrios-de-cartagena-con-mas-casos-de-dengue-KD8764378",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/QRQK/dengue12_8238717_20230808130013.jpg",
-      "publishedAt": "2023-08-08 18:15:00",
-      "content": "El Departamento Administrativo Distrital de Salud (Dadis) dio a conocer que durante el 24 al 30 de julio se reportaron 37 nuevos casos de dengue en Cartagena. A semana epidemiol\u00f3gica 30 de 2023, el \u2026 [+1655 chars]",
-      "retrievedAt": "2023-08-09 19:05:21.739307",
-      "internal_id": "31baa655ed6d9720fbc358b493baa042cd93164a690d78d298a3c999a50403b3",
-      "publishedAtLabel": "Aug 8"
-    },
-    {
-      "id": 980,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u093e \u0915\u0939\u0930 \u0905\u092d\u0940 \u0914\u0930 \u0915\u093f\u0924\u0928\u093e \u0938\u0924\u093e\u090f\u0917\u093e? \u090f\u0915\u094d\u0938\u092a\u0930\u094d\u091f \u0928\u0947 \u092c\u0924\u093e\u092f\u093e \u0938\u093e\u092b-\u0938\u093e\u092b",
-      "description": "Delhi Dengue Season: \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092a\u093f\u091b\u0932\u0947 5 \u0926\u093f\u0928\u094b\u0902 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u0915\u093e\u092b\u0940 \u092c\u0922\u093c \u0917\u090f \u0939\u0948\u0902\u0964 \u092a\u093f\u091b\u0932\u0947 \u090f\u0915 \u0939\u092b\u094d\u0924\u0947 \u092e\u0947\u0902 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 105, \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u0947 13 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u093e \u090f\u0915 \u0928\u092f\u093e \u092e\u093e\u092e\u0932\u093e \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e\u0964 \u0907\u0938 \u0938\u093e\u0932 5 \u0905\u0917\u0938\u094d\u0924 \u0924\u0915 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0915\u0941\u0932 \u092e\u093e\u092e\u0932\u0947 348, \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u0947 85 \u0914\u0930 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u0947 15 \u092e\u2026",
-      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/gtb-dr-harsh-bhardwaj-said-rise-in-dengue-and-malaria-cases-in-delhi-is-seasonal/articleshow/102546456.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-47938,msid-102546614/navbharat-times.jpg",
-      "publishedAt": "2023-08-08 18:05:14",
-      "content": ": () . , , , . , ' ' , , 5 105 , 3 , 105, 13 5 348, 85 15",
-      "retrievedAt": "2023-08-09 19:05:21.725037",
-      "internal_id": "ba32aedc5e714218cbb1eea7ef3f9d52963d13aee60bf1f19a1d154f46e5f463",
-      "publishedAtLabel": "Aug 8"
     }
   ]
 }
