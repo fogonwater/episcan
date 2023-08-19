@@ -1,8 +1,566 @@
 {
-  "last_updated": "2023-08-19 07:05",
+  "last_updated": "2023-08-19 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 31,
   "articles": [
+    {
+      "id": 1207,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Dengue cases in Florida: Symptoms, testing, treatment and vaccine - CNN",
+      "description": "Dengue cases in Florida: Symptoms, testing, treatment and vaccineCNN More dengue fever cases detected in South FloridaCBS Miami Dengue cases prompt mosquito-borne illness alert in Miami, Fort Lauderdale. What to knowMiami Herald Dengue fever cases spread nort\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171648322",
+      "urlToImage": null,
+      "publishedAt": "2023-08-18 18:52:09",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-08-19 19:05:09.268143",
+      "internal_id": "84836fd93e7fc2d39b2a00cb33be755f11ca4eb4dbc5da41a4173161c452aa4c",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1217,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Christian Olaniran",
+      "title": "Positive case of 'locally acquired' malaria found in Maryland, health department says",
+      "description": "Positive case of 'locally acquired' malaria found in Maryland, health department sayscbsnews.com",
+      "url": "https://www.cbsnews.com/baltimore/news/positive-case-of-locally-acquired-malaria-found-in-maryland-health-department-says/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/21/02d6c33d-17a4-42d3-9750-b347377b3fd4/thumbnail/1200x630/81b7db1ecd296ffaf38c089418439482/gettyimages-1175380941.jpg?v=0b4ae642db52799a178d90d83603a9dc",
+      "publishedAt": "2023-08-18 18:44:13",
+      "content": "BALTIMORE \u2013 The Maryland Department of Health says a person who lives in Maryland has tested positive for malaria. The case was acquired locally, not from travel, according to the department. \"Mala\u2026 [+1867 chars]",
+      "retrievedAt": "2023-08-19 19:05:10.259896",
+      "internal_id": "bd209cb12678445e391c2e1701a7816b0cc6dd52b625d56da815abed74b6115b",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1202,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sara Moniuszko",
+      "title": "What to know about dengue fever as cases are confirmed in Florida",
+      "description": "Eleven cases of dengue virus have been confirmed in Florida, prompting questions about the mosquito-borne illness, its symptoms and treatment options.",
+      "url": "https://www.cbsnews.com/news/what-is-dengue-fever-virus-symptoms-vaccine-treatment/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/18/c2425b70-9952-4767-8466-2a7c56a5c4f1/thumbnail/1200x630/0dbef84cef3f9a54ac80e8e12515e33b/gettyimages-1575494687.jpg?v=0b4ae642db52799a178d90d83603a9dc",
+      "publishedAt": "2023-08-18 18:22:03",
+      "content": "Eleven cases of dengue virus have been confirmed in Florida, prompting questions about the mosquito-borne illness. According to the Florida Department of Health, Broward County reported two cases and\u2026 [+3574 chars]",
+      "retrievedAt": "2023-08-19 19:05:09.241068",
+      "internal_id": "92fdc9c5f4b1e9e88d90592741d413e03816bf5de13e38bb123bcb21ff53288d",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1216,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "New malaria vaccine works well in infants, offers adults layered protection",
+      "description": "New vaccine targets a distinct stage in the malarial parasite's life cycle.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171647690",
+      "urlToImage": null,
+      "publishedAt": "2023-08-18 18:12:16",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-08-19 19:05:10.219885",
+      "internal_id": "6665ffdf5ccaecdb13b7538f666a9d36a093da889a47043032d1e7458836b059",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1205,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+      "title": "A Lodi un caso di infezione da virus Dengue: \u00e8 il primo certificato in Lombardia",
+      "description": "Il paziente, di oltre 70 anni, sta bene e si trova ricoverato all'ospedale di Crema. Un altro caso sospetto a Monza",
+      "url": "https://milano.repubblica.it/cronaca/2023/08/18/news/dengue_lodi_caso_lombardia_primo-411540396/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-milano/2023/08/18/192949848-7588c160-1744-4be4-a597-df21217388a5.jpg",
+      "publishedAt": "2023-08-18 17:30:10",
+      "content": "La Direzione Generale Welfare di Regione Lombardia comunica che \u00e8 stato identificato, in provincia di Lodi, un caso di Dengue, virus trasmesso da zanzare Aedes. Il paziente, di oltre 70 anni, sta ben\u2026 [+1075 chars]",
+      "retrievedAt": "2023-08-19 19:05:09.261760",
+      "internal_id": "0c5e43e0ed88c881c28732c335a28c14e8507290f2e8402e2674760b95b9462f",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1201,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Alexandra Ferguson",
+      "title": "Lo que hay que saber sobre el dengue a medida que se registran casos en Florida",
+      "description": "El Departamento de Salud de Florida puso a dos condados bajo alerta por enfermedades transmitidas por mosquitos, ya que se han registrado cinco casos de dengue en los condados de Broward y Miami-Dade, en menos de un mes.",
+      "url": "https://cnnespanol.cnn.com/2023/08/18/dengue-registran-casos-florida-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/08/230817165107-aedes-aegypti-mosquito.webp",
+      "publishedAt": "2023-08-18 16:58:55",
+      "content": "Am\u00e9rica Latina, en alerta por brote de dengue 7:34 (CNN)-- El Departamento de Salud de Florida puso a dos condados bajo alerta por enfermedades transmitidas por mosquitos, ya que se han registrado c\u2026 [+7783 chars]",
+      "retrievedAt": "2023-08-19 19:05:09.231496",
+      "internal_id": "7b036b0e40b98167fdfc286c1c7d28e37a4bb084ff7fde90193cc19f66f63e55",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1213,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Ars Contributors",
+      "title": "New malaria vaccine works well in infants, offers adults layered protection",
+      "description": "New vaccine targets a distinct stage in the malarial parasite's life cycle.",
+      "url": "https://arstechnica.com/health/2023/08/new-malaria-vaccine-works-well-in-infants-offers-adults-layered-protection/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-482803431-2-760x380.jpg",
+      "publishedAt": "2023-08-18 16:55:14",
+      "content": "6 with Even after 140 years of its discovery, malaria remains one of the deadliest infections humans have ever encountered. It affected 247 million individuals and was responsible for over 600,000 \u2026 [+4516 chars]",
+      "retrievedAt": "2023-08-19 19:05:10.207507",
+      "internal_id": "41c56c9a02e158aaf9c70c0482a25bf2fd07616e5f3287708f64002a2c1041fe",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1206,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Dengue, disinfestazione precauzionale a S. Felice Circeo",
+      "description": "Un caso di Dengue a San Felice Circeo, localit\u00e0 balneare in provincia di Latina molto frequentata in estate. (ANSA)",
+      "url": "https://www.ansa.it/lazio/notizie/2023/08/18/caso-di-dengue-disinfestazione-precauzionale-a-s.-felice-circeo_a2a6e584-b53e-4d97-9e54-112cf41d51a5.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/3/24/4c5b12de6072832a56de7e98085f8134.jpg",
+      "publishedAt": "2023-08-18 16:28:12",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2023-08-19 19:05:09.263565",
+      "internal_id": "b42093147e12c6d540e87db9bab97980dcc2a2d8da9c47d8db724c29e40425c8",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1210,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Croydon: Girl, 11, died after systemic failure of hospital, parents say",
+      "description": "Annalise Luffingham, 11, died from sepsis caused by meningitis a day after she was admitted to A&E.",
+      "url": "https://www.bbc.co.uk/news/uk-england-london-66544939",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FBD9/production/_130837446_annaliseluffinghamandparentsdec2019lapland.jpg",
+      "publishedAt": "2023-08-18 15:48:41",
+      "content": "A south London couple said that there was \"systemic failure\" in their 11-year-old daughter's care after she died from sepsis caused by meningitis. Annalise Luffingham was admitted to hospital on 11 \u2026 [+2301 chars]",
+      "retrievedAt": "2023-08-19 19:05:09.681944",
+      "internal_id": "39284662cec287aeb69d5fb0a275eff183680aa0105273200b8f88b9af59b210",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1209,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09aa\u09c7\u09a8\u09b6\u09a8 \u09b8\u09cd\u0995\u09bf\u09ae\u09c7\u09b0 \u09a8\u09be\u09ae\u09c7 \u09b8\u09b0\u0995\u09be\u09b0 \u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8\u09bf \u09ab\u09be\u09a8\u09cd\u09a1 \u09a4\u09c8\u09b0\u09bf\u09b0 \u09ab\u09a8\u09cd\u09a6\u09bf \u0995\u09b0\u099b\u09c7: \u09ae\u09bf\u09b0\u09cd\u099c\u09be \u09ab\u0996\u09b0\u09c1\u09b2",
+      "description": "\u09aa\u09c7\u09a8\u09b6\u09a8 \u09b8\u09cd\u0995\u09bf\u09ae\u09c7\u09b0 \u09a8\u09be\u09ae\u09c7 \u09b8\u09b0\u0995\u09be\u09b0\u09c7\u09b0 \u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8\u09c0 \u09ab\u09be\u09a8\u09cd\u09a1 \u09a4\u09c8\u09b0\u09bf\u09b0 \u09ab\u09a8\u09cd\u09a6\u09bf \u0995\u09b0\u099b\u09c7 \u09ac\u09b2\u09c7 \u0985\u09ad\u09bf\u09af\u09cb\u0997 \u0995\u09b0\u09c7\u099b\u09c7\u09a8 \u09ac\u09bf\u098f\u09a8\u09aa\u09bf \u09ae\u09b9\u09be\u09b8\u099a\u09bf\u09ac \u09ae\u09bf\u09b0\u09cd\u099c\u09be \u09ab\u0996\u09b0\u09c1\u09b2 \u0987\u09b8\u09b2\u09be\u09ae \u0986\u09b2\u09ae\u0997\u09c0\u09b0\u0964",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/politics/news-506696",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/18/img-20230818-wa03002.jpg?itok=yD3GyG65",
+      "publishedAt": "2023-08-18 15:37:50",
+      "content": "At least nine more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
+      "retrievedAt": "2023-08-19 19:05:09.274580",
+      "internal_id": "925abe46a1f03ec50a43149d3090c1e52b46a90b1d964e7d959a0fe8b91b2a15",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1220,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "www.nationalgeographic.com.es, www.nationalgeographic.com.es",
+      "title": "Mpox, la viruela que ha vuelto a surgir en Espa\u00f1a",
+      "description": "La Mpox, del ingl\u00e9s 'Monkeypox' y anteriormente conocida como viruela del mono, caus\u00f3 estragos en Europa en 2022. La Organizaci\u00f3n Mundial de la Salud (OMS) confirm\u00f3 un brote multinacional de esta infecci\u00f3n v\u00edrica y declar\u00f3 una emergencia de salud p\u00fablica de i\u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/salut-declara-nuevo-brote-viruela-mono-barcelona_20577",
+      "urlToImage": "https://www.nationalgeographic.com.es/medio/2023/08/18/viruela-del-mono_87b3e447_2190782151_230818151738_1200x630.jpg",
+      "publishedAt": "2023-08-18 15:00:00",
+      "content": "La Mpox, del ingl\u00e9s 'Monkeypox' y anteriormente conocida como viruela del mono, caus\u00f3 estragos en Europa en 2022. La Organizaci\u00f3n Mundial de la Salud (OMS) confirm\u00f3 un brote multinacional de esta inf\u2026 [+5388 chars]",
+      "retrievedAt": "2023-08-19 19:05:11.081053",
+      "internal_id": "46a1a3750054d331fd4f8fca68b45ed02ab1e1b95fa7612070e00342f6edf8df",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1203,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Emmanuel Detres",
+      "title": "Cheating Wife Caught on Video Inside the Wizarding World at Universal Orlando",
+      "description": "A wife on vacation with her children and husband was caught cheating while walking around the Wizarding World of Harry Potter inside Universal Orlando Resort. Related: Alleged Dengue Fever Outbreak Not Likely at Disney World Reddit and TikTok \u2013 The Places to \u2026",
+      "url": "https://insidethemagic.net/?p=617804&preview=true&preview_id=617804",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Untitled-design-57-1.jpg",
+      "publishedAt": "2023-08-18 14:47:09",
+      "content": "A wife on vacation with her children and husband was caught cheating while walking around the Wizarding World of Harry Potter inside Universal Orlando Resort. Credit: Universal Orlando Resort Relat\u2026 [+2567 chars]",
+      "retrievedAt": "2023-08-19 19:05:09.247593",
+      "internal_id": "c08a143bf7fbec96cca037f240fc517fa42312ddb509d99be92377f56e88a446",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1211,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Laura Miyara",
+      "title": "Por qu\u00e9 la meningitis mata a uno de cada 10 pacientes: \u00abEl diagn\u00f3stico debe ser lo m\u00e1s r\u00e1pido posible\u00bb",
+      "description": "La enfermedad causa una inflamaci\u00f3n de las membranas que cubren el cerebro y puede dejar secuelas a largo plazo en un 20 % de los afectados. Analizamos todos los s\u00edntomas de alerta, vacunas y tratamientos disponibles",
+      "url": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2023/08/18/meningitis-mata-10-pacientes-diagnostico-debe-rapido-posible/00031692368465126916723.htm",
+      "urlToImage": "https://www.lavozdegalicia.es/default/2023/08/18/00121692368809047707579/Foto/hospital.png",
+      "publishedAt": "2023-08-18 14:27:00",
+      "content": "La meningitis es una enfermedad en la que las membranas que recubren el cerebro y la mdula espinal (meninges) se inflaman, generalmente a causa de una infeccin. Aunque la vacunacin la ha relegado del\u2026 [+10306 chars]",
+      "retrievedAt": "2023-08-19 19:05:09.685209",
+      "internal_id": "bfaa03cb31b6bfeb7be01123ae3b3aaadbc84b1563645a7f61e07dcf5a1cf083",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1212,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz",
+      "title": "Muere un beb\u00e9 de seis meses por meningitis en Vigo",
+      "description": "El ni\u00f1o, que estaba vacunado, ingres\u00f3 muy grave el lunes en las urgencias del \u00c1lvaro Cunqueiro",
+      "url": "https://www.lavozdegalicia.es/noticia/vigo/2023/08/18/muere-bebe-seis-meses-meningitis-vigo/00031692367221434334429.htm",
+      "urlToImage": "https://www.lavozdegalicia.es/default/2023/08/18/00121692367861671552612/Foto/I10N2055.jpg",
+      "publishedAt": "2023-08-18 14:12:00",
+      "content": "Un beb de seis meses de edad ha fallecido en el Hospital lvaro Cunqueiro de Vigo debido a una sepsis fulminante. El nio ingres por Urgencias el pasado lunes. Su estado era tan grave que fue inmediata\u2026 [+1784 chars]",
+      "retrievedAt": "2023-08-19 19:05:09.688212",
+      "internal_id": "e303271692a4705e4c970911e60be7779195d1ba5a51efea198be131291c127b",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1199,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Courtney Schreiner, Andrew Basinski, Christopher Remien, Scott Nuismer",
+      "title": "Optimizing the delivery of self-disseminating vaccines in fluctuating wildlife populations",
+      "description": "Author summary Pathogens such as Ebola, rabies, and Lassa virus that usually infect wildlife can jump to the human population. In the worst case, this can lead to outbreaks or pandemics such as happened in 2014 with Ebola and 2019 with SARS-CoV-2. One approac\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011018",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011018.g010&size=inline",
+      "publishedAt": "2023-08-18 14:00:00",
+      "content": "Abstract Zoonotic pathogens spread by wildlife continue to spill into human populations and threaten human lives. A potential way to reduce this threat is by vaccinating wildlife species that harbor\u2026 [+66821 chars]",
+      "retrievedAt": "2023-08-19 19:05:08.423178",
+      "internal_id": "ecf9bda6a24b76951d44587217e76e887e6a827967076d3ec783757af1e3a0a4",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1215,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Sh\u00fcn\u00e9 Oliver, Medical scientist, National Institute for Communicable Diseases, Jaishree Raman, Principal Medical Scientist and Head of Laboratory for Antimalarial Resistance Monitoring and Malaria Operational Research, National Institute for Communicable Diseases",
+      "title": "How genetically modifying mosquitoes could strengthen the world's war on malaria",
+      "description": "Methods that don\u2019t rely on insecticides are needed to bolster the fight against mosquito-borne diseases.",
+      "url": "https://theconversation.com/how-genetically-modifying-mosquitoes-could-strengthen-the-worlds-war-on-malaria-211703",
+      "urlToImage": "https://images.theconversation.com/files/543058/original/file-20230816-19-7rtxgm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2023-08-18 13:16:43",
+      "content": "Genetic modification could make malaria-carrying mosquitoes harmless. LeliaSpb/Getty Images It\u2019s been 126 years since British medical doctor Sir Ronald Ross discovered that mosquitoes in the Anophel\u2026 [+7066 chars]",
+      "retrievedAt": "2023-08-19 19:05:10.215249",
+      "internal_id": "29270f242ba848c259e0fa166588ff54a6957b9b0eebd0479daa552cf29dc635",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1208,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NBC2 News",
+      "author": "Nbc2 News",
+      "title": "What to know about dengue as cases are reported in Florida",
+      "description": "The Florida Department of Health placed two counties under a mosquito-borne illness alert as five cases of dengue have been reported in Broward and Miami-Dade counties in less than a month, weekly reports show.",
+      "url": "https://nbc-2.com/news/health/2023/08/18/what-to-know-about-dengue-as-cases-are-reported-in-florida/",
+      "urlToImage": "https://nbc-2.com/wp-content/uploads/2023/08/Dengue.png",
+      "publishedAt": "2023-08-18 12:47:28",
+      "content": "(CNN) The Florida Department of Health placed two counties under a mosquito-borne illness alert as five cases of dengue have been reported in Broward and Miami-Dade counties in less than a month, we\u2026 [+6873 chars]",
+      "retrievedAt": "2023-08-19 19:05:09.271493",
+      "internal_id": "c350e8e4d5823a32ef86de49a97aa31b7006c2230e5aa7230a7398ba4cbac217",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1197,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Pandora Dewan",
+      "title": "Bobcat Bites Woman's Leg, Claws Other Leg",
+      "description": "Arizona Fish and Game Department officials have sent out a rabies warning and have urged walkers to stay alert.",
+      "url": "https://www.newsweek.com/bobcat-bites-woman-leg-claws-leg-1820804",
+      "urlToImage": "https://d.newsweek.com/en/full/2271487/bobcat.jpg",
+      "publishedAt": "2023-08-18 12:25:51",
+      "content": "Officials have sent out a warning after a woman was attacked by a rabid bobcat in Arizona. She was walking with her friend in the foothills of the Hualapai mountains in Mohave County when the incide\u2026 [+2549 chars]",
+      "retrievedAt": "2023-08-19 19:05:08.415085",
+      "internal_id": "70fda83646bc343c46e00c2bbc8be48085648dc4c883986ed25a50390c2cac3c",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1204,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+      "title": "Allarme Dengue al Circeo, l\u2019Asl segnala un caso: \u201cSubito la disinfestazione contro le zanzare\u201d",
+      "description": "Un turista colpito dalla malattia contratta all\u2019estero. Ma il timore \u00e8 che anche gli insetti locali possano essere diventati vettori del virus",
+      "url": "https://roma.repubblica.it/cronaca/2023/08/18/news/allarme_dengue_circeo_asl_segnala_un_caso_zanzare-411512032/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-roma/2023/08/18/140411385-99a61bcd-a1cb-4ca7-bd3f-23ec82261f45.jpg",
+      "publishedAt": "2023-08-18 12:04:12",
+      "content": "Risse, spiagge libere bloccate da paletti e cancelli, trattori impegnati nelle pulizie facendo slalom tra asciugamani e ombrelloni dei bagnanti e ora pure la zanzara infetta. A San Felice Circeo ques\u2026 [+1410 chars]",
+      "retrievedAt": "2023-08-19 19:05:09.259076",
+      "internal_id": "7e7cba3a6e876c4d04c3ea0d08ca33dd939c86f5f59faa68663a3454335fd68a",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1196,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Pertussis outbreaks in nurseries and educational settings",
+      "description": "Guidelines for pertussis outbreaks in nurseries and educational settings.",
+      "url": "https://www.gov.uk/government/publications/pertussis-outbreaks-in-nurseries-and-educational-settings",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+      "publishedAt": "2023-08-18 10:49:53",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2023-08-19 19:05:08.140553",
+      "internal_id": "2230893cbea3a497275a666dddff06205d17b3c03a238c0f5f50a152ddbfe052",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1198,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Global Rabies Diagnostics Market Analysis and Business Strategy Report 2023: Unveiling Growth Prospects and Future Trends to 2030",
+      "description": "Dublin, Aug. 18, 2023 (GLOBE NEWSWIRE) -- The \"Rabies Diagnostics - Global Strategic Business Report\" report has been added to ResearchAndMarkets.com's offering.",
+      "url": "https://www.globenewswire.com/news-release/2023/08/18/2727846/28124/en/Global-Rabies-Diagnostics-Market-Analysis-and-Business-Strategy-Report-2023-Unveiling-Growth-Prospects-and-Future-Trends-to-2030.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2023-08-18 10:33:00",
+      "content": "Dublin, Aug. 18, 2023 (GLOBE NEWSWIRE) -- The \"Rabies Diagnostics - Global Strategic Business Report\" report has been added to ResearchAndMarkets.com's offering. The global market for Rabies Diagnos\u2026 [+4544 chars]",
+      "retrievedAt": "2023-08-19 19:05:08.419740",
+      "internal_id": "e2f331b0d0cd6b89dbb02ac60247be6b05fdfba5f4ad98a3760908777178bf58",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1225,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencial.com",
+      "author": "EFE",
+      "title": "Detectan un brote de viruela del mono en Barcelona, con seis casos entre julio y agosto",
+      "description": "Dos de los casos se detectaron en julio y los otros cuatro en agosto y parece que las personas afectadas se habr\u00edan contagiado fuera de Catalu\u00f1a",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2023-08-18/brote-viruela-mono-barcelona-seis-casos-verano_3720186/",
+      "urlToImage": "https://images.ecestaticos.com/ZoJK1aI4JNgTJmncomAM1BGkszI=/0x0:2121x1414/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/9f9/b83/2c5/9f9b832c509174c55d938f4784c27a83.jpg",
+      "publishedAt": "2023-08-18 10:17:00",
+      "content": "La Agencia de Salud P\u00fablica de Barcelona ha declarado un brote de viruela del mono (Mpox) en la ciudad, a ra\u00edz de la detecci\u00f3n de seis casos en el \u00faltimo mes, sin ninguna relaci\u00f3n epidemiol\u00f3gica entr\u2026 [+1442 chars]",
+      "retrievedAt": "2023-08-19 19:05:11.092378",
+      "internal_id": "560fdd8311ecfe23c2b2f6cb0a41eada227460740877216840a5200d55b16086",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1221,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "EFE",
+      "title": "Detectan un brote de viruela del mono en Barcelona, con seis casos en el \u00faltimo mes",
+      "description": "La Agencia de Salud P\u00fablica de Barcelona ha declarado un brote de viruela del mono (Mpox) en la ciudad, a ra\u00edz de la detecci\u00f3n de seis casos en el \u00faltimo mes, sin ninguna...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2023/08/18/64df3a7821efa0cf308b4580.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/e1a80b7af970b9ae8f904006146e0412/f/jpg/assets/multimedia/imagenes/2023/08/18/16923515930811.jpg",
+      "publishedAt": "2023-08-18 09:41:29",
+      "content": "La Agencia de Salud P\u00fablica de Barcelona ha declarado un brote de viruela del mono (Mpox) en la ciudad, a ra\u00edz de la detecci\u00f3n de seis casos en el \u00faltimo mes, sin ninguna relaci\u00f3n epidemiol\u00f3gica entr\u2026 [+1070 chars]",
+      "retrievedAt": "2023-08-19 19:05:11.083509",
+      "internal_id": "c29304b8441315dced7b9caf501654eeeac440dcc9d4c5b1beee84edb9dcb8fa",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1214,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "webmasteraim@sortmoz.com (AIM)",
+      "title": "Mozambique to Introduce Vaccine Against Malaria Next Year",
+      "description": "[AIM] Maputo -- Mozambique will introduce for the first time a vaccine against malaria as of next year, according to the Ministry of Health delegate for Vertical Control of Malaria, In\u00eas Ant\u00f3nio.",
+      "url": "https://allafrica.com/stories/202308180164.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-08-18 09:07:24",
+      "content": "Maputo \u2014 Mozambique will introduce for the first time a vaccine against malaria as of next year, according to the Ministry of Health delegate for Vertical Control of Malaria, In\u00eas Ant\u00f3nio. According\u2026 [+1114 chars]",
+      "retrievedAt": "2023-08-19 19:05:10.211532",
+      "internal_id": "97c1c8c73774ff2974c7d09960dcc64b37c8b086a4da8462714230a1e2766e0e",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1224,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "WELT",
+      "title": "Mpox ist wieder da",
+      "description": "Die Infektionskrankheit Mpox, fr\u00fcher Affenpocken, konnte in letzter Zeit in Vergessenheit geraten. Das Robert Koch-Institut verzeichnete seit Januar keine F\u00e4lle in Deutschland. Nun ist das Virus zur\u00fcck. Auch andere europ\u00e4ischen L\u00e4nder sind betroffen.",
+      "url": "https://www.welt.de/gesundheit/article246970704/Affenpocken-Neue-Mpox-Faelle-in-Berlin.html",
+      "urlToImage": "https://img.welt.de/img/gesundheit/mobile246971200/2381350627-ci16x9-w1200/Affenpockenvirus.jpg",
+      "publishedAt": "2023-08-18 09:05:17",
+      "content": "Nach mehr als einem halben Jahr ohne Nachweise von Mpox (fr\u00fcher Affenpocken) sind in Deutschland wieder einzelne Infektionen mit dem Virus aufgetreten. In den vergangenen Wochen seien drei F\u00e4lle in B\u2026 [+2930 chars]",
+      "retrievedAt": "2023-08-19 19:05:11.090404",
+      "internal_id": "0cb5e46063db191c932ebc65ca2d51e3b964ddb9215338b976e4665253246320",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1218,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "aps@aps.sn (APS)",
+      "title": "S\u00e9n\u00e9gal: Fi\u00c3\u00a8vre Chikungunya - Des mesures prises pour \u00c3\u00a9viter la propagation du virus (officiel)",
+      "description": "[APS] Dakar -- Le minist\u00e8re de la Sant\u00e9 et de l'Action sociale a d\u00e9clar\u00e9 jeudi que des mesures \u00e9taient en train d'\u00eatre prises pour \u00e9viter une propagation de la fi\u00e8vre Chikungunya r\u00e9cemment apparue \u00e0 K\u00e9dougou, une r\u00e9gion du Sud-Est du S\u00e9n\u00e9gal.",
+      "url": "https://fr.allafrica.com/stories/202308180160.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-08-18 09:03:45",
+      "content": "Dakar \u2014 Le minist\u00e8re de la Sant\u00e9 et de l'Action sociale a d\u00e9clar\u00e9 jeudi que des mesures \u00e9taient en train d'\u00eatre prises pour \u00e9viter une propagation de la fi\u00e8vre Chikungunya r\u00e9cemment apparue \u00e0 K\u00e9dougo\u2026 [+2979 chars]",
+      "retrievedAt": "2023-08-19 19:05:10.770227",
+      "internal_id": "394d732716a7e7bbc1e6e5646025e0ce03e6c1d900e33a37e24b2bf6fe424882",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1222,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Die \u201eAffenpocken\u201c sind noch da: Nach langer Ruhe wieder neue Mpox-F\u00e4lle in Berlin gemeldet",
+      "description": "Die Krankheit \u201eAffenpocken\u201c, die mittlerweile offiziell Mpox hei\u00dft, konnte in letzter Zeit in Vergessenheit geraten. Das RKI verzeichnete l\u00e4nger keine F\u00e4lle. Das hat sich nun ge\u00e4ndert.",
+      "url": "https://www.tagesspiegel.de/berlin/die-affenpocken-sind-noch-da-nach-langer-ruhe-wieder-neue-mpox-falle-in-berlin-gemeldet-10327546.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/affenpocken4/alternates/BASE_16_9_W1400/affenpocken.jpeg",
+      "publishedAt": "2023-08-18 08:02:16",
+      "content": "Nach mehr als einem halben Jahr ohne Nachweise von Mpox (fr\u00fcher Affenpocken) sind in Berlin wieder einzelne Infektionen mit dem Virus aufgetreten. In den vergangenen Wochen seien drei F\u00e4lle gemeldet \u2026 [+3694 chars]",
+      "retrievedAt": "2023-08-19 19:05:11.086361",
+      "internal_id": "04bdd6a16d220c8a75ca39b2a55e895da152eb15ad00f69fc4515f9d424d6631",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1200,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Sudan: Children At Deadly Risk of Measles and Malnutrition After Fleeing Conflict in Sudan",
+      "description": "Press Release - M\u00e9decins Sans Fronti\u00e8res (MSF) teams are recording a concerning rise in measles and malnutrition cases in our facilities in South Sudan, particularly amongst returnees fleeing conflict in Sudan and host communities.",
+      "url": "https://allafrica.com/stories/202308180085.html",
+      "urlToImage": "https://cdn06.allafrica.com/download/pic/main/main/csiid/00630761:7e5a3ecc84d8a3951253c9f7eff34e23:arc614x376:w1200.jpg",
+      "publishedAt": "2023-08-18 07:39:29",
+      "content": "Juba \u2014 M\u00e9decins Sans Fronti\u00e8res (MSF) teams are recording a concerning rise in measles and malnutrition cases in our facilities in South Sudan, particularly amongst returnees fleeing conflict in Suda\u2026 [+6210 chars]",
+      "retrievedAt": "2023-08-19 19:05:08.689201",
+      "internal_id": "f47ba579941925cce4505f0782c06166c308e822c430a1af8dad91e67927bd15",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1219,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Gesundheit: Das Virus ist noch da: Nach langer Ruhe wieder Mpox",
+      "description": "",
+      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fnews%2F2023-08%2F18%2Fdas-virus-ist-noch-da-nach-langer-ruhe-wieder-mpox",
+      "urlToImage": null,
+      "publishedAt": "2023-08-18 07:07:18",
+      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
+      "retrievedAt": "2023-08-19 19:05:11.078259",
+      "internal_id": "08011b4f7c965a10f8f96d74874bd891058d04f7a1dea441ada7e5de0933a188",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1223,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "\u00a9 dpa-infocom, dpa:230818-99-872870/2 (dpa)",
+      "title": "Gesundheit: Das Virus ist noch da: Nach langer Ruhe wieder Mpox",
+      "description": "Die Krankheit Affenpocken, die nun offiziell Mpox hei\u00dft, konnte in letzter Zeit in Vergessenheit geraten. Das Robert Koch-Institut verzeichnete l\u00e4nger keine F\u00e4lle hierzulande. Das hat sich ge\u00e4ndert.",
+      "url": "https://www.morgenpost.de/web-wissen/article239222009/Das-Virus-ist-noch-da-Nach-langer-Ruhe-wieder-Mpox.html",
+      "urlToImage": "https://img.morgenpost.de/img/web-wissen/crop239222007/2312607685-w820-cv16_9-q85/Affenpockenvirus.jpg",
+      "publishedAt": "2023-08-18 07:07:18",
+      "content": "Berlin. Nach mehr als einem halben Jahr ohne Nachweise von Mpox (fr\u00fcher Affenpocken) sind in Deutschland wieder einzelne Infektionen mit dem Virus aufgetreten. In den vergangenen Wochen seien drei F\u00e4\u2026 [+2689 chars]",
+      "retrievedAt": "2023-08-19 19:05:11.087692",
+      "internal_id": "1682b9aefde863d4f9949cbc709b79ba7681d64da6f6d09fb0b46fb85e3c7684",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1226,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gesundheit: Das Virus ist noch da: Nach langer Ruhe wieder Mpox",
+      "description": "Die Krankheit Affenpocken, die nun offiziell Mpox hei\u00dft, konnte in letzter Zeit in Vergessenheit geraten. Das Robert Koch-Institut verzeichnete l\u00e4nger keine F\u00e4lle hierzulande. Das hat sich ge\u00e4ndert.",
+      "url": "https://www.stern.de/panorama/gesundheit--das-virus-ist-noch-da--nach-langer-ruhe-wieder-mpox--33746906.html",
+      "urlToImage": "https://image.stern.de/33746908/t/iQ/v1/w1440/r1.7778/-/18--urnnewsmldpacom2009010123081899872873v2w800h600l997t827r2997b2487jpeg---e0953bb05afeb0bc.jpg",
+      "publishedAt": "2023-08-18 07:07:18",
+      "content": "Die Krankheit Affenpocken, die nun offiziell Mpox hei\u00dft, konnte in letzter Zeit in Vergessenheit geraten. Das Robert Koch-Institut verzeichnete l\u00e4nger keine F\u00e4lle hierzulande. Das hat sich ge\u00e4ndert. \u2026 [+2896 chars]",
+      "retrievedAt": "2023-08-19 19:05:11.094055",
+      "internal_id": "a3486a79918e971c97bae23fa62e202656f42c1afc45a4ff1bab974a3a0661de",
+      "publishedAtLabel": "Aug 18"
+    },
     {
       "id": 1193,
       "query": [
@@ -3054,567 +3612,6 @@
       "retrievedAt": "2023-08-12 07:05:29.016893",
       "internal_id": "a2cbfef94c8f5a34d8b987ec8732bb877acbe0bc6f5c08ce33328b8d3dca8655",
       "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1031,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "One succumbs to dengue fever in Chitwan",
-      "description": "CHITWAN: A 41-year-old man from Hetauda Sub-Metropolitan City-12 died of dengue fever while receiving treatment at Chitwan Medical College. According to Information Officer at Health Office Ram KC, the patient died on Thursday in the course of his treatment s\u2026",
-      "url": "https://english.khabarhub.com/2023/11/314104/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-08-11 05:50:00",
-      "content": "CHITWAN: A 41-year-old man from Hetauda Sub-Metropolitan City-12 died of dengue fever while receiving treatment at Chitwan Medical College. According to Information Officer at Health Office Ram KC, \u2026 [+267 chars]",
-      "retrievedAt": "2023-08-12 07:05:29.031019",
-      "internal_id": "f1b227f9e90894100bf9b0c293f1dff2062984345b97c4cd093e78959ca21d43",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1032,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Starobserver.com.au",
-      "author": "Douglas Magaletti",
-      "title": "NSW Health Issues Health Alert After Two Local Mpox Cases",
-      "description": "NSW Health has issued an alert after two new cases of Mpox were reported in the state. In a statement posted to social media, NSW Health said, \u201cTwo new cases of Mpox (monkeypox) have been notified in NSW since 4 August, bringing the total cases to 63 since Ma\u2026",
-      "url": "https://www.starobserver.com.au/news/national-news/new-south-wales-news/nsw-health-issues-health-alert-after-two-local-mpox-cases/225594",
-      "urlToImage": "https://www.starobserver.com.au/wp-content/uploads/2023/08/mpox-2.jpg",
-      "publishedAt": "2023-08-11 03:22:18",
-      "content": "NSW Health has issued an alert after two new cases of Mpox were reported in the state. In a statement posted to social media, NSW Health said, Two new cases of Mpox (monkeypox) have been notified i\u2026 [+1918 chars]",
-      "retrievedAt": "2023-08-12 07:05:30.949145",
-      "internal_id": "244c3f9cc3a2ad43b16dda72b4c20e1d0f9175bef5abb5ab875d229e48d16134",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1025,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Publico.es",
-      "author": "Agencia Atlas",
-      "title": "El calor lleva el mosquito tigre a Galicia",
-      "description": "Los vecinos de Moa\u00f1a est\u00e1n preocupados por los ocho ejemplares de mosquito tigre que pueden transmitir peligrosas enfermedades, como en dengue o el zika, aunque tras analizarlos la Xunta de Galicia asegura que ninguno es portador de estos virus tropicales. El\u2026",
-      "url": "https://www.publico.es/videos/1066223/el-calor-lleva-el-mosquito-tigre-a-galicia",
-      "urlToImage": "https://ficheracos.publico.es//images/thumbnails/2023/230810AGEWEB-10AG017HQ.jpg",
-      "publishedAt": "2023-08-10 19:40:21",
-      "content": "Los vecinos de Moa\u00f1a est\u00e1n preocupados por los ocho ejemplares de mosquito tigre que pueden transmitir peligrosas enfermedades, como en dengue o el zika, aunque tras analizarlos la Xunta de Galicia a\u2026 [+493 chars]",
-      "retrievedAt": "2023-08-12 07:05:29.005876",
-      "internal_id": "9cab8c3f35ece0849ff8d62bf2583ccf0cb18c170239e51923ff70f42594df3b",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1019,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Guardian",
-      "author": "Ajit Niranjan European environment correspondent",
-      "title": "Return of El Ni\u00f1o raises risk of hunger, drought and malaria, scientists warn",
-      "description": "Hot natural weather pattern will exacerbate heat-related dangers brought about by climate crisisThe return of El Ni\u00f1o against the backdrop of the climate crisis will hurt people\u2019s health in many parts of the world, scientists have warned.The hot natural weath\u2026",
-      "url": "https://www.theguardian.com/environment/2023/aug/10/return-of-el-nino-raises-risk-of-hunger-drought-and-malaria-scientists-warn",
-      "urlToImage": "https://i.guim.co.uk/img/media/d47d2ef95ff225c77540982a2a18eed077ae50a0/0_111_3306_1984/master/3306.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4622c78ad2acb64d57eca7b098dc626",
-      "publishedAt": "2023-08-10 17:54:28",
-      "content": "The return of El Ni\u00f1o against the backdrop of the climate crisis will hurt peoples health in many parts of the world, scientists have warned. The hot natural weather pattern is back after three year\u2026 [+3288 chars]",
-      "retrievedAt": "2023-08-11 19:05:21.737404",
-      "internal_id": "f7e78546ee963875edd90418a8f7c626eee1f4e247ec398ba5d9274421f330c1",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1018,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Dengue : Imminent saline shortage feared as demand jumps over 1,000pc",
-      "description": "As the dengue onslaught continues, demand for liquid saline in hospitals has increased exponentially, reaching 10-12 times (over 1000%) the usual requirement, leading authorities to fear an imminent shortage in supply. Several medical institutions in Dhaka, i\u2026",
-      "url": "https://sylhetmirror.com/2023/08/10/dengue-imminent-saline-shortage-feared-as-demand-jumps-over-1000pc/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/derefvrvb.jpg",
-      "publishedAt": "2023-08-10 14:14:22",
-      "content": "As the dengue onslaught continues, demand for liquid saline in hospitals has increased exponentially, reaching 10-12 times (over 1000%) the usual requirement, leading authorities to fear an imminent \u2026 [+2995 chars]",
-      "retrievedAt": "2023-08-11 19:05:20.868691",
-      "internal_id": "dbdb3294ea8306642e5b5feb7f31620f3216d16a6075505c30f6e28095d85427",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1022,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.gov.uk",
-      "author": null,
-      "title": "Guidance: Malaria RL: reference, diagnostic and advisory services",
-      "description": "The malaria reference laboratory provides reference and diagnostic parasitology of malaria, with surveillance of all imported malaria reported in the UK.",
-      "url": "https://www.gov.uk/guidance/mrl-reference-diagnostic-and-advisory-services",
-      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
-      "publishedAt": "2023-08-10 14:02:41",
-      "content": "We no longer use a fax service. Do not attempt to fax information to the laboratory. Fax details will be removed from referral forms and handbooks at next review. The malaria reference laboratory (M\u2026 [+1985 chars]",
-      "retrievedAt": "2023-08-11 19:05:21.746963",
-      "internal_id": "815f8e4e0a749567e4378087dd892aa8e00bea5eadf2653221ea995065c7b68e",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1020,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Juergen Eckhardt, Contributor, \n Juergen Eckhardt, Contributor\n https://www.forbes.com/sites/juergeneckhardt/",
-      "title": "The Critical Fix We Need To Rebuild Our Broken Antibiotic Pipeline",
-      "description": "Superbug infections kill more people now than HIV/AIDS or malaria. We need new antibiotics and other drugs, but developers lack incentives. A new policy could fix that.",
-      "url": "https://www.forbes.com/sites/juergeneckhardt/2023/08/10/the-most-meaningful-fix-we-need-to-rebuild-our-broken-antibiotic-pipeline/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d3dee7c76b6e892dd9d11d/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-08-10 13:00:00",
-      "content": "Drug-resistant microbes now claim the lives of more people around the world than either HIV/AIDS or ... [+] malaria. getty Recently, a Ukrainian soldier in his 50s suffered terrible burns in a vehi\u2026 [+11507 chars]",
-      "retrievedAt": "2023-08-11 19:05:21.740241",
-      "internal_id": "191bcd7ee7f4f8363c7f5944b68f1781e41eb4750b8934e4893e0fb180858706",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1021,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Ocean Biomedical, Inc.",
-      "title": "Ocean Biomedical (NASDAQ: OCEA) Provides Latest Updates on its Broad Programs in Malaria, Fibrosis, and Multiple Cancers",
-      "description": "Ocean Biomedical will host a Research and Development Day, Live Q&A with Scientific Co-founders, Dr. Jack A. Elias, MD and Dr. Jonathan Kurtis, MD, PhD on September 14, 2023",
-      "url": "https://www.globenewswire.com/news-release/2023/08/10/2722637/0/en/Ocean-Biomedical-NASDAQ-OCEA-Provides-Latest-Updates-on-its-Broad-Programs-in-Malaria-Fibrosis-and-Multiple-Cancers.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
-      "publishedAt": "2023-08-10 12:01:00",
-      "content": "Ocean Biomedical will host a Research and Development Day, Live Q&amp;A with Scientific Co-founders, Dr. Jack A. Elias, MD and Dr. Jonathan Kurtis, MD, PhD on September 14, 2023 Providence, RI, Aug\u2026 [+12090 chars]",
-      "retrievedAt": "2023-08-11 19:05:21.744507",
-      "internal_id": "949e5c279302ef4c26c03bf82c42146b41afe601902cc9293acc432e90c6326b",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1023,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "epoxyowner8",
-      "title": "Discovering Prospects With Dementia (Part A,B,C ..",
-      "description": "Professor June Andrews from the university's dementia unit, shows Lorna Gordon how properties could be designed to assist individuals with the illness. They weren't in a position to confirm whether or not it was leptospirosis, which is typically contracted fr\u2026",
-      "url": "https://slashdot.org/submission/17285296/discovering-prospects-with-dementia-part-abc-",
-      "urlToImage": null,
-      "publishedAt": "2023-08-10 08:45:48",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-08-11 19:05:23.582114",
-      "internal_id": "f0d55702d1c076df337026753d02a551822c9c9c1b25dcb7a2317da4e5278d02",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1009,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "YLE News",
-      "author": null,
-      "title": "Thursday's papers: Presidential ambitions, back to school and measles on a ferry",
-      "description": "Finland's next presidential election is less than six months away.",
-      "url": "https://yle.fi/a/74-20044593",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_3,y_675,w_4028,h_2265/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1691563539/39-115399364d333d3e1da1",
-      "publishedAt": "2023-08-10 06:33:38",
-      "content": "Prime Minister **Petteri Orpo'**s National Coalition Party and the largest opposition party, the SDP, have yet to announce their presidential candidates. Ilta-Sanomat, however, suggests that Orpo wi\u2026 [+3124 chars]",
-      "retrievedAt": "2023-08-11 07:05:53.124590",
-      "internal_id": "cc35a7a8e7b85972a725699e6c6a29afea8866b2dd886067534d334a3546ca7e",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1016,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Starobserver.com.au",
-      "author": "Shibu Thomas",
-      "title": "Kyle Sandilands\u2019 Comments Blaming Gay Men For Mpox Breached Decency Rules: ACMA",
-      "description": "Australia\u2019s communication watchdog found that Kyle Sandilands\u2019 comments last year on his radio show blaming gay men for the spread of Mpox (monkeypox) breached decency rules under the Commercial Radio ... The post Kyle Sandilands\u2019 Comments Blaming Gay Men Fo\u2026",
-      "url": "https://www.starobserver.com.au/news/kyle-sandilands-comments-blaming-gay-men-for-mpox-breached-decency-rules-acma/225573",
-      "urlToImage": "https://www.starobserver.com.au/wp-content/uploads/2022/08/1FFD0E4A-E04D-42C8-B179-71D96BA578F8.jpeg",
-      "publishedAt": "2023-08-10 06:05:48",
-      "content": "Australia\u2019s communication watchdog found that Kyle Sandilands\u2019 comments last year on his radio show blaming gay men for the spread of Mpox (monkeypox) breached decency rules under the Commercial Rad\u2026 [+2759 chars]",
-      "retrievedAt": "2023-08-11 07:05:55.007912",
-      "internal_id": "4e03cc837f17025b67637bdd2ff1585d576015ec7f722a359651139ecf67682c",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1015,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "New Atlas",
-      "author": "Paul McClure",
-      "title": "Inflammation found to slow the progression of the malaria parasite",
-      "description": "It\u2019s not often that inflammation gets a good rap. It\u2019s been linked to heart disease, diabetes, cancer, and autoimmune diseases. But a new study may have uncovered a positive use for the body\u2019s natural response to irritants. Researchers have found that inflamm\u2026",
-      "url": "https://newatlas.com/medical/inflammation-slows-development-malaria-parasite/",
-      "urlToImage": "https://assets.newatlas.com/dims4/default/7ec408b/2147483647/strip/true/crop/1800x945+0+128/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff8%2Fc7%2F78ff29ef4a489173af1d9b73aba7%2Fdepositphotos-195283508-l.jpg&na.image_optimisation=0",
-      "publishedAt": "2023-08-10 05:29:02",
-      "content": "Its not often that inflammation gets a good rap. Its been linked to heart disease, diabetes, cancer, and autoimmune diseases. But a new study may have uncovered a positive use for the bodys natural r\u2026 [+3579 chars]",
-      "retrievedAt": "2023-08-11 07:05:54.289755",
-      "internal_id": "8a41afd1291f2cf5a576a9afbbb3acc3c34c402f0df8c4a3b6810decc321bbff",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1008,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "SHARON LING",
-      "title": "Rabies: 13 deaths in Sarawak so far this year",
-      "description": "KUCHING: Sarawak recorded 13 deaths from 15 rabies cases from Jan 1 to Aug 7, says the state Health Department. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/08/10/rabies-13-deaths-in-sarawak-so-far-this-year",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/10/2223596.jpeg",
-      "publishedAt": "2023-08-10 03:58:00",
-      "content": "KUCHING: Sarawak recorded 13 deaths from 15 rabies cases from Jan 1 to Aug 7, says the state Health Department. Its director Dr Ooi Choo Huck said this was a notable increase compared to eight cases\u2026 [+2052 chars]",
-      "retrievedAt": "2023-08-11 07:05:52.887721",
-      "internal_id": "e2c5253a127ba832ec9e33f676f7cb77043ff76fc65b2af70cc12d974e25cb27",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1017,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Superpunch.net",
-      "author": "noreply@blogger.com (John)",
-      "title": "Colorful, hyperkinetic Cable commission",
-      "description": "View this post on Instagram A post shared by Sam McKenzie (@ohnosam) Also, Typhoid Mary: View this post on Instagram A post shared by Sam McKenzie (@ohnosam)",
-      "url": "https://www.superpunch.net/2023/08/colorful-hyperkinetic-cable-commission.html",
-      "urlToImage": null,
-      "publishedAt": "2023-08-10 02:05:00",
-      "content": "As an Amazon Associate I earn from qualifying purchases. Please support Super Punch by following the affiliate links and buying from Amazon and eBay. This site also uses tracking cookies.Logo by Adam\u2026 [+52 chars]",
-      "retrievedAt": "2023-08-11 07:05:55.276366",
-      "internal_id": "008dcd894558b80acec414cbb1b847de83afebe3d5e629a85265bd481bff8f39",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1014,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infections surge, cases exceed 10,000 in Nepal",
-      "description": "KATHMANDU: The incidence of dengue fever is experiencing a significant surge across the nation. As per the latest data from the Epidemiology and Disease Control Division, this ailment has now spread to 74 districts, resulting in a reported 10,726 diagnosed ca\u2026",
-      "url": "https://english.khabarhub.com/2023/10/313933/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-08-10 01:55:17",
-      "content": "KATHMANDU: The incidence of dengue fever is experiencing a significant surge across the nation. As per the latest data from the Epidemiology and Disease Control Division, this ailment has now spread\u2026 [+1469 chars]",
-      "retrievedAt": "2023-08-11 07:05:53.496848",
-      "internal_id": "9752f9f2307c7010698355758571fe8e1d2052bc8ecca93a4710144586ea5397",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1010,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "11 fresh dengue cases in Patiala district - The Tribune India",
-      "description": "11 fresh dengue cases in Patiala district The Tribune India 11 dengue cases recorded in Patna district since July IndiaTimes Suspected dengue death in Jamshedpur Lagatar News (Lagatar24.com) Dengue prevention and contr\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRyaWJ1bmVpbmRpYS5jb20vbmV3cy9wYXRpYWxhLzExLWZyZXNoLWRlbmd1ZS1jYXNlcy1pbi1wYXRpYWxhLWRpc3RyaWN0LTUzMzY5MNIBWGh0dHBzOi8vbS50cmlidW5laW5kaWEuY29tL25ld3MvcGF0aWFsYS8xMS1mcmVzaC1kZW5ndWUtY2FzZXMtaW4tcGF0aWFsYS1kaXN0cmljdC01MzM2OTA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-10 00:19:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-11 07:05:53.473599",
-      "internal_id": "5589629914d5928aa27430d56459ed5b6d05d6634ac65ccc289142f9ed484d16",
-      "publishedAtLabel": "Aug 10"
-    },
-    {
-      "id": 1011,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Diphu Municipal Board Issues Order To Contain Spread Of Dengue",
-      "description": "HT Correspondent DIPHU, Aug 9: The Diphu Municipal Board (DMB) has issued an order directing the residents of Diphu to refrain from allowing accumulation of water in their surroundings to prevent the breeding of the dengue transmitting Ae. Aegypti mosquito. A\u2026",
-      "url": "https://thehillstimes.in/assam/diphu-municipal-board-issues-order-to-contain-spread-of-dengue",
-      "urlToImage": null,
-      "publishedAt": "2023-08-09 23:35:09",
-      "content": "HT Correspondent DIPHU, Aug 9: The Diphu Municipal Board (DMB) has issued an order directing the residents of Diphu to refrain from allowing accumulation of water in their surroundings to prevent th\u2026 [+1037 chars]",
-      "retrievedAt": "2023-08-11 07:05:53.479839",
-      "internal_id": "f7630e3427bf3a0b3f9b56e0925de9db00d64b2e2e7d91afdc862c3185c2784c",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 1012,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Mariah Aquino",
-      "title": "Laborat\u00f3rio pede incorpora\u00e7\u00e3o da vacina contra dengue no SUS",
-      "description": "Comiss\u00e3o Nacional de Incorpora\u00e7\u00e3o de Tecnologias no Sistema \u00danico de Sa\u00fade (Conitec) do Minist\u00e9rio da Sa\u00fade tem 180 dias para analisar",
-      "url": "https://www.metropoles.com/brasil/laboratorio-pede-incorporacao-da-vacina-contra-dengue-no-sus",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/22104941/Dengue_Casos_DF.jpg",
-      "publishedAt": "2023-08-09 19:37:56",
-      "content": "O laborat\u00f3rio japon\u00eas Takeda Pharma formalizou o pedido de incorpora\u00e7\u00e3o da vacina contra dengue Qdenga ao Sistema \u00danico de Sa\u00fade (SUS). A solicita\u00e7\u00e3o \u00e9 analisada pela Comiss\u00e3o Nacional de Incorpora\u00e7\u00e3\u2026 [+1457 chars]",
-      "retrievedAt": "2023-08-11 07:05:53.482296",
-      "internal_id": "6cbf6f11ac01d7ee0a440547996b23ee5ba5d1af6b6481afbe4281b54b7f1cd6",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 1013,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Takeda\u2019s dengue vaccine under analysis, says health minister - The Brazilian Report",
-      "description": "Takeda\u2019s dengue vaccine under analysis, says health minister The Brazilian Report",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYnJhemlsaWFuLnJlcG9ydC9saXZlYmxvZy9wb2xpdGljcy1pbnNpZGVyLzIwMjMvMDgvMDkvZGVuZ3VlLXZhY2NpbmUtaGVhbHRoLW1pbmlzdHJ5L9IBYWh0dHBzOi8vYnJhemlsaWFuLnJlcG9ydC9saXZlYmxvZy9wb2xpdGljcy1pbnNpZGVyLzIwMjMvMDgvMDkvZGVuZ3VlLXZhY2NpbmUtaGVhbHRoLW1pbmlzdHJ5L2FtcC8?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-09 19:17:17",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-11 07:05:53.487247",
-      "internal_id": "a037e473630ec18f56cd5805a8378b4f60c65ecfbe422836864d92b3f56e7b3e",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 996,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Laborat\u00f3rio pede incorpora\u00e7\u00e3o da vacina contra dengue no SUS",
-      "description": "O imunizante foi aprovado pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) em mar\u00e7o, com indica\u00e7\u00e3o para pessoas de 4 a 60 anos",
-      "url": "https://valor.globo.com/brasil/noticia/2023/08/09/laboratorio-pede-incorporacao-da-vacina-contra-dengue-no-sus.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/yUn8YsxCosZrgGEV4QW0nhSzmIg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/5/z/1FTMl0Qh2KHKWhklm3jw/vacina-qdenga-do-laboratorio-takeda-pharma-contra-a-dengue-divulgacao.jpeg",
-      "publishedAt": "2023-08-09 17:12:20",
-      "content": "O laborat\u00f3rio japon\u00eas Takeda Pharma registrou solicita\u00e7\u00e3o formal para a incorpora\u00e7\u00e3o da vacina Qdenga, contra a dengue, ao Sistema \u00danico de Sa\u00fade (SUS). A informa\u00e7\u00e3o foi confirmada nesta quarta-feira\u2026 [+1752 chars]",
-      "retrievedAt": "2023-08-10 19:05:13.675482",
-      "internal_id": "e24e9ca48f07aae2c400e1dc5d4f16afd80e6254fbddb11c8be6b9ea5ca4a1fd",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 1006,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "Treatments for poxviruses -- including those causing mpox and smallpox -- may already exist in licensed drugs",
-      "description": "The drug tecovirimat is currently in use for the treatment of mpox -- the disease caused by monkeypox virus -- that spread worldwide in 2022. Tecovirimat is an anti-poxviral drug, and its use is driving the emergence of drug-resistant variants of the monkeypo\u2026",
-      "url": "https://www.sciencedaily.com/releases/2023/08/230809130610.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-08-09 17:06:10",
-      "content": "Scientists studying how poxviruses evade natural defences in human cells have identified a new approach to treatment that may be more durable than current treatments.This follows their discovery of h\u2026 [+4463 chars]",
-      "retrievedAt": "2023-08-10 19:05:15.025183",
-      "internal_id": "39ec63f7298b2cd9c21eff8f5797227346a068f709a8d1adbf73807d56523942",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 993,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vnexpress.net",
-      "author": "VnExpress",
-      "title": "M\u1ed9t ng\u01b0\u1eddi c\u00f3 th\u1ec3 m\u1eafc s\u1ed1t xu\u1ea5t huy\u1ebft m\u1ea5y l\u1ea7n trong \u0111\u1eddi?",
-      "description": "M\u1ed9t ng\u01b0\u1eddi c\u00f3 th\u1ec3 b\u1ecb m\u1eafc s\u1ed1t xu\u1ea5t huy\u1ebft 4 l\u1ea7n trong \u0111\u1eddi, t\u01b0\u01a1ng \u1ee9ng v\u1edbi 4 ch\u1ee7ng virus Dengue.",
-      "url": "https://vnexpress.net/mot-nguoi-co-the-mac-sot-xuat-huyet-may-lan-trong-doi-4639094.html",
-      "urlToImage": "https://vcdn1-suckhoe.vnecdn.net/2023/08/08/closeupmosquitosuckingbloodfro-9846-6645-1691468898.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VQL92YBILtxfYXe4M6pOCw",
-      "publishedAt": "2023-08-09 17:05:00",
-      "content": "Mt ngi c\u00f3 th b mc st xut huyt 4 ln trong i, tng ng vi 4 chng virus Dengue.B\u00e0i vit c t vn chuy\u00ean m\u00f4n bi BS.CK2 Nguyn Minh Tin, Ph\u00f3 gi\u00e1m c Bnh vin Nhi ng Th\u00e0nh ph (TP HCM). St xut huyt l\u00e0 bnh truyn n\u2026 [+1010 chars]",
-      "retrievedAt": "2023-08-10 19:05:13.663282",
-      "internal_id": "6b85427fe58f9594d1ad541d4acfe82022f744e336b3d713607a5594dd69d430",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 994,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vnexpress.net",
-      "author": "VnExpress",
-      "title": "M\u1ed9t ng\u01b0\u1eddi c\u00f3 th\u1ec3 m\u1eafc s\u1ed1t xu\u1ea5t huy\u1ebft m\u1ea5y l\u1ea7n?",
-      "description": "M\u1ed9t ng\u01b0\u1eddi c\u00f3 th\u1ec3 b\u1ecb nhi\u1ec5m s\u1ed1t xu\u1ea5t huy\u1ebft 4 l\u1ea7n trong \u0111\u1eddi, t\u01b0\u01a1ng \u1ee9ng v\u1edbi 4 ch\u1ee7ng virus Dengue.",
-      "url": "https://vnexpress.net/mot-nguoi-co-the-mac-sot-xuat-huyet-may-lan-4639094.html",
-      "urlToImage": "https://vcdn1-suckhoe.vnecdn.net/2023/08/08/closeupmosquitosuckingbloodfro-9846-6645-1691468898.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VQL92YBILtxfYXe4M6pOCw",
-      "publishedAt": "2023-08-09 17:05:00",
-      "content": "Mt ngi c\u00f3 th b nhim st xut huyt 4 ln trong i, tng ng vi 4 chng virus Dengue.B\u00e0i vit c t vn chuy\u00ean m\u00f4n bi BS.CK2 Nguyn Minh Tin, Ph\u00f3 gi\u00e1m c Bnh vin Nhi ng Th\u00e0nh ph (TP HCM). St xut huyt l\u00e0 bnh truyn\u2026 [+1012 chars]",
-      "retrievedAt": "2023-08-10 19:05:13.666789",
-      "internal_id": "45946dba8503807bec5bb36f9c063ffcee99e37083ab35dafbbec50b339a038f",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 998,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Detectan por primera vez en Galicia ejemplares del 'mosquito tigre', potencial transmisor de dengue, chikungunya o Zica",
-      "description": "La Direcci\u00f3n Xeral de Sa\u00fade P\u00fablica (Sergas) ha advertido este mi\u00e9rcoles sobre la aparici\u00f3n en Moa\u00f1a (Pontevedra) de ejemplares del mosquito 'aedes albopictus', conocido como 'mosquito tigre', y es la primera vez que se detecta en la Comunidad Aut\u00f3noma de Gal\u2026",
-      "url": "https://www.europapress.es/galicia/noticia-detectan-primera-vez-galicia-ejemplares-mosquito-tigre-potencial-transmisor-dengue-chikungunya-zica-20230809181303.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230809181303_1200.jpg",
-      "publishedAt": "2023-08-09 16:13:03",
-      "content": "El Sergas reunir\u00e1 en pr\u00f3ximos d\u00edas un comit\u00e9 con departamentos de la Xunta, el \u00c1rea Sanitaria de Vigo y el Ayuntamiento de Moa\u00f1a SANTIAGO DE COMPOSTELA, 9 Ago. (EUROPA PRESS) - La Direcci\u00f3n \u2026 [+2691 chars]",
-      "retrievedAt": "2023-08-10 19:05:13.678501",
-      "internal_id": "28850e0470b1939a6d8ab972df5ddd8cd486e565de9b2ca9b6b1792e768f2d99",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 1001,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Lavozdegalicia.es",
-      "author": "j. v. lado",
-      "title": "Un vecino de Moa\u00f1a detecta por primera vez en Galicia el mosquito tigre, que transmite peligrosas enfermedades",
-      "description": "La Xunta ha creado una comisi\u00f3n para monitorear su presencia",
-      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2023/08/10/detectado-moana-primera-vez-galicia-mosquito-tigre-transmite-patologias-graves/0003_202308G10P26992.htm",
-      "urlToImage": "https://www.lavozdegalicia.es/default/2023/08/09/00121691591042066647687/Foto/J18G5195.jpg",
-      "publishedAt": "2023-08-09 14:26:00",
-      "content": "En el 2005 se detect en Catalua y en el 2018 sus picaduras provocaron las primeras transmisiones locales de dengue en Cdiz y Murcia. Ese mismo ao anduvo tambin rondando la comunidad porque se documen\u2026 [+921 chars]",
-      "retrievedAt": "2023-08-10 19:05:13.681912",
-      "internal_id": "85f66f00ad462745a7d9a664409b64f5ea349523ae088eb528911f638531e166",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 995,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Esther Annan, Jes\u00fas Trevi\u00f1o, Bingxin Zhao, Alfonso J. Rodriguez-Morales, Ubydul Haque",
-      "title": "Direct and indirect effects of age on dengue severity: The mediating role of secondary infection",
-      "description": "Author summary Age has been previously found to be associated with severe dengue. However, it is unclear whether this effect is purely due to aging or the predisposition of older individuals to be exposed to secondary infection. Since secondary infection with\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011537",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011537.g002&size=inline",
-      "publishedAt": "2023-08-09 14:00:00",
-      "content": "Abstract Severe dengue occurrence has been attributed to increasing age and different dengue virus (DENV) serotypes that cause secondary infections and immune-enhancing phenomena. Therefore, we exam\u2026 [+37895 chars]",
-      "retrievedAt": "2023-08-10 19:05:13.672495",
-      "internal_id": "e903c33eaf1b3ea2e38a00a6fa237dfde4dcc6f03bae0f29e3cad888d5b204ef",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 997,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Da Ag\u00eancia Brasil",
-      "title": "Laborat\u00f3rio pede incorpora\u00e7\u00e3o da vacina contra dengue no SUS",
-      "description": "Inclus\u00e3o do imunizante ao SUS est\u00e1 em an\u00e1lise, diz ministra",
-      "url": "http://noticias.r7.com/saude/laboratorio-pede-incorporacao-da-vacina-contra-dengue-no-sus-09082023",
-      "urlToImage": "https://img.r7.com/images/mosquito-da-dengue-08072023182938398?crop_position=c&dimensions=340x191",
-      "publishedAt": "2023-08-09 13:18:05",
-      "content": "O laborat\u00f3rio japon\u00eas Takeda Pharma registrou solicita\u00e7\u00e3o formal para a incorpora\u00e7\u00e3o da vacina Qdenga, contra a dengue, ao SUS (Sistema \u00danico de Sa\u00fade). A informa\u00e7\u00e3o foi confirmada nesta quarta-feira\u2026 [+1655 chars]",
-      "retrievedAt": "2023-08-10 19:05:13.677311",
-      "internal_id": "f5424f851b7dd0cf13ecce8ff1a9901919b6d157ec8ad7ddf8a5392f4c55984f",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 1003,
-      "query": [
-        "malaria",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Leganerd.com",
-      "author": "Cristina Rapagn\u00e0",
-      "title": "Insetticidi: un rischio inaspettato per la salute a livello globale",
-      "description": "Gli insetticidi sono spesso utilizzati per proteggere le persone dalle malattie portate da zanzare come la malaria o il virus Zika. Ma c\u2019\u00e8 un aspetto di questa lotta che potrebbe sorprendere: il modo in cui questi insetticidi influenzano non solo le zanzare, \u2026",
-      "url": "https://leganerd.com/2023/08/09/insetticidi-un-rischio-inaspettato-per-la-salute-a-livello-globale/",
-      "urlToImage": "https://leganerd.com/wp-content/uploads/2023/08/mosquito_spray_online.jpg",
-      "publishedAt": "2023-08-09 12:46:03",
-      "content": "Gli insetticidi sono spesso utilizzati per proteggere le persone dalle malattie portate da zanzare come la malaria o il virus Zika. Ma c\u2019\u00e8 un aspetto di questa lotta che potrebbe sorprendere: il modo\u2026 [+1124 chars]",
-      "retrievedAt": "2023-08-10 19:05:14.433324",
-      "internal_id": "680fe995a1f8dffbe4ab88acd4276d3897e390160961d594d0077a19dc571f55",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 1004,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Ocean Biomedical, Inc.",
-      "title": "Ocean Biomedical (NASDAQ: OCEA) Share Price Target Now Averaging $18.21, Based on Research and Development Progress in Three Promising Programs Generating Novel Treatment Candidates for Cancer, Malaria, and Fibrosis.",
-      "description": "Ocean Biomedical will host a Research and Development Day, Live Q&A with Scientific Co-founders, Dr. Jack A. Elias, MD and Dr. Jonathan Kurtis, MD, PhD on September 14, 2023",
-      "url": "https://www.globenewswire.com/news-release/2023/08/09/2721653/0/en/Ocean-Biomedical-NASDAQ-OCEA-Share-Price-Target-Now-Averaging-18-21-Based-on-Research-and-Development-Progress-in-Three-Promising-Programs-Generating-Novel-Treatment-Candidates-for.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
-      "publishedAt": "2023-08-09 12:31:00",
-      "content": "Ocean Biomedical will host a Research and Development Day, Live Q&amp;A with Scientific Co-founders, Dr. Jack A. Elias, MD and Dr. Jonathan Kurtis, MD, PhD on September 14, 2023 Providence, RI, Aug.\u2026 [+8552 chars]",
-      "retrievedAt": "2023-08-10 19:05:14.436892",
-      "internal_id": "7da1b3d085dbbce751464f382cc85d11b308165c201ef5d03acf20869d032e11",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 1007,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Kopalniawiedzy.pl",
-      "author": null,
-      "title": "Bakteria d\u017cumy sta\u0142a si\u0119 w XIX wieku bardziej zjadliwa. Nied\u0142ugo potem zabi\u0142a 15 milion\u00f3w os\u00f3b",
-      "description": "D\u017cuma trapi ludzko\u015b\u0107 od 5000 lat. W tym czasie wywo\u0142uj\u0105ca j\u0105 Yersinia pestis ulega\u0142a wielokrotnym zmianom, zyskuj\u0105c i trac\u0105c geny. Oko\u0142o 1500 lat temu, nied\u0142ugo przed jedn\u0105 z najwi\u0119kszych pandemii \u2013 d\u017cum\u0105 Justyniana \u2013 Y. pestis sta\u0142a si\u0119 bardziej niebezpieczn\u2026",
-      "url": "https://kopalniawiedzy.pl/dzuma-pandemia-epidemia-zjadliwosc-genom-Yersinia-pestis,36538",
-      "urlToImage": "https://kopalniawiedzy.pl/media/lib/490/relief-4301270c5f10969c08116d16143c1749.jpg",
-      "publishedAt": "2023-08-09 11:10:23",
-      "content": "Duma trapi ludzko od 5000 lat. W tym czasie wywoujca j Yersinia pestis ulegaa wielokrotnym zmianom, zyskujc i tracc geny. Okoo 1500 lat temu, niedugo przed jedn z najwikszych pandemii dum Justyniana \u2026 [+3556 chars]",
-      "retrievedAt": "2023-08-10 19:05:15.874814",
-      "internal_id": "1486e50966321d07d9dacbdd7ab8d9bb501f1f1a469dc8e02a32e39e46d5ba2b",
-      "publishedAtLabel": "Aug 9"
-    },
-    {
-      "id": 999,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Hanoi reports 110 active dengue fever outbreaks - VnExpress International",
-      "description": "Hanoi reports 110 active dengue fever outbreaks VnExpress International",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vZS52bmV4cHJlc3MubmV0L25ld3MvbmV3cy9oYW5vaS1yZXBvcnRzLTExMC1hY3RpdmUtZGVuZ3VlLWZldmVyLW91dGJyZWFrcy00NjM5NjgxLmh0bWzSAWFodHRwczovL2FtcGUudm5leHByZXNzLm5ldC9uZXdzL25ld3MvaGFub2ktcmVwb3J0cy0xMTAtYWN0aXZlLWRlbmd1ZS1mZXZlci1vdXRicmVha3MtNDYzOTY4MS5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-09 11:00:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-10 19:05:13.679564",
-      "internal_id": "e5f25f806ac01e6fd28370d77ab1f063181b0dcf6503b8374fa77531da344884",
-      "publishedAtLabel": "Aug 9"
     }
   ]
 }
