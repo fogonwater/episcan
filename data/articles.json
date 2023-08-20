@@ -1,8 +1,350 @@
 {
-  "last_updated": "2023-08-19 19:05",
+  "last_updated": "2023-08-20 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 31,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 1235,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Debash, H., Bisetegn, H., Ebrahim, H., Tilahun, M., Dejazmach, Z., Getu, N., Feleke, D. G.",
+      "title": "Burden and seasonal distribution of malaria in Ziquala district, Northeast Ethiopia: a 5-year multi-centre retrospective study",
+      "description": "Objective This study was aimed to determine the 5-year trend of malaria positivity rate in Ziquala district, Northeast Ethiopia. Methods Review of blood film reports from health institutions\u2019 laboratory record books using predesigned checklists was done as p\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/8/e067103?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-08-19 06:24:48",
+      "content": "Introduction Malaria is one of the major serious public health and life-threatening parasitic disease caused by the Plasmodium species.1 It is the greatest cause of death in developing countries for\u2026 [+14810 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.054459",
+      "internal_id": "ea479313d7dd27f62b561479b7ea156b599c3bf23f27a577062bf8ab2b40ade9",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1227,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Whooping cough cases in Rompin under control, says Health Dept",
+      "description": "KUANTAN: The Pahang Health Department has confirmed there are incidences of whooping cough (pertussis) in Rompin. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/08/19/whooping-cough-cases-in-rompin-under-control-says-health-dept",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/19/2239723.jpg",
+      "publishedAt": "2023-08-19 06:19:00",
+      "content": "KUANTAN: The Pahang Health Department has confirmed there are incidences of whooping cough (pertussis) in Rompin. Its director Datuk Indera Dr Nor Azimi Yunus said two children and their mother in K\u2026 [+2375 chars]",
+      "retrievedAt": "2023-08-20 07:05:22.505003",
+      "internal_id": "9bf158083e5b3363ddb3f469b19d9e01243d08b011f38299e0b16ec67e66b60a",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1245,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "New study uncovers Chikungunya virus' unique 'invisibility shield' that can help in developing effective vaccines",
+      "description": "Chikungunya fever, a mosquito-borne disease, can spread directly from cell to cell, scientists have discovered. They found the virus can hijack the proteins that support cells and maintain their shape, causing the infected cell to reach out, make contact with\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/new-study-uncovers-chikungunya-virus-unique-invisibility-shield-that-can-help-in-developing-effective-vaccines/articleshow/102849273.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102849362,width-1070,height-580,imgsize-58238,overlay-etpanache/photo.jpg",
+      "publishedAt": "2023-08-19 04:11:39",
+      "content": "Researchers have found that the virus responsible for chikungunya fever can spread directly from cell to cell, an advance that could help in developing effective vaccines or treatments for the debili\u2026 [+3391 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.763431",
+      "internal_id": "c8336e06b21d483ab7b214ed2f55862a96d092fb7a596b852f9faef03b75bcef",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1236,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Malaria diagnosed in Maryland resident who had not recently traveled: Health dept. - NBC4 Washington",
+      "description": "Malaria diagnosed in Maryland resident who had not recently traveled: Health dept.NBC4 Washington Case of locally acquired malaria reported in MarylandCNN Positive malaria case reported by Maryland health officials near DCFox Baltimore Maryland resident tests\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171650296",
+      "urlToImage": null,
+      "publishedAt": "2023-08-19 02:32:04",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.059090",
+      "internal_id": "483dac112773fcb75ede4b048536666dac68c8dd252649101773fd4534960d15",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1234,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Usutu, el otro virus que avanza en Europa por la picadura de mosquitos",
+      "description": "El animal m\u00e1s mortal del mundo no es un tibur\u00f3n ni una serpiente venenosa. El m\u00e1s aterrador es el mosquito. No lo es por su tama\u00f1o ni por su voracidad, pero s\u00ed por la capacidad de transmitir con su picadura enfermedades como la malaria , el virus del Nilo , e\u2026",
+      "url": "https://www.abc.es/sociedad/usutu-virus-avanza-europa-picadura-mosquitos-20230819143522-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2023/08/18/mosquito-culex.jpg",
+      "publishedAt": "2023-08-19 02:13:48",
+      "content": "El animal m\u00e1s mortal del mundo no es un tibur\u00f3n ni una serpiente venenosa. El m\u00e1s aterrador es el mosquito. No lo es por su tama\u00f1o ni por su voracidad, pero s\u00ed por la capacidad de transmitir con su p\u2026 [+4311 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.053154",
+      "internal_id": "9b6e99e64a1711e37e7f76a636b0f580299b20ab02890d4dea97b57a412d149f",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1233,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "usa-today",
+      "source_name": "USA Today",
+      "author": "USA TODAY, Minnah Arshad, USA TODAY",
+      "title": "Maryland reports state's first case of locally acquired malaria strain in over 40 years",
+      "description": "The Maryland Department of Health confirmed the state's first case of a locally acquired strain of malaria in more than 40 years on Friday.",
+      "url": "https://www.usatoday.com/story/news/nation/2023/08/18/maryland-resident-tests-positive-locally-acquired-malaria-strain/70625470007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/19/USAT/07be26e9-74fc-46d4-a071-09fccd7fec81-XXX_MJS_OUTBREAK.JPG?auto=webp&crop=1389,782,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2023-08-19 01:40:01",
+      "content": "A Maryland resident has tested positive for the state's first case of a locally acquired strain of malaria in more than 40 years, officials confirmed Friday. The unnamed person, who was hospitalized\u2026 [+2233 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.051464",
+      "internal_id": "f179d5fc2f03a13ba88f582585e801a57b8d9f03c42a4c106f61bfef73451d7a",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1228,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Dwhc.nl",
+      "author": null,
+      "title": "Don\u2019t touch bats with your bare hands! | Dutch Wildlife Health Centre (DWHC)",
+      "description": "In May 2015 a bat that had been submitted to the Dutch Wildlife Health Centre (DWHC) for post-mortem investigation proved to be positive for the bat form of rabies after further testing was carried out at the Central Veterinary Institute (CVI) in Lelystad. Th\u2026",
+      "url": "https://dwhc.nl/en/dont-touch-bats-with-your-bare-hands/",
+      "urlToImage": "https://dwhc.nl/wp-content/themes/dhwh_theme/images/logo_dwhc.png",
+      "publishedAt": "2023-08-19 01:28:59",
+      "content": "16 July 2015Photo: Lena Godlevska In May 2015 a bat that had been submitted to the Dutch Wildlife Health Centre (DWHC) for post-mortem investigation proved to be positive for the bat form of rabies \u2026 [+3678 chars]",
+      "retrievedAt": "2023-08-20 07:05:22.715978",
+      "internal_id": "cf44ffa7fc5e92bcf67adb4a25da6d3ed9d7f02eaf0004a39eb3047fe930e566",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1231,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UPI.com",
+      "author": "Patrick Hilsman",
+      "title": "Maryland health officials report resident with locally acquired malaria",
+      "description": "A Maryland resident has come down with malaria without travelling abroad, the Maryland Department of Health said Friday.",
+      "url": "https://www.upi.com/Health_News/2023/08/18/maryland-resident-comes-down-with-locally-acquired-malaria/7881692402689/",
+      "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/9e15a7a31cf1f38a7a58863bba2e9423",
+      "publishedAt": "2023-08-19 00:46:02",
+      "content": "Aug. 18 (UPI) -- A Maryland resident has come down with malaria without traveling abroad, the Maryland Department of Health said Friday. The MDH said it \"has confirmed and reported a positive case o\u2026 [+1129 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.046355",
+      "internal_id": "1e16e429582c681d398f6013a08b54570171139411e403f0aabeba74ff69d9a0",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1241,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FOX 5 DC",
+      "author": "Fox 5 Dc",
+      "title": "Malaria in Maryland: First local case in decades alarms health officials",
+      "description": "Maryland has confirmed a case of locally acquired malaria in the state for the first time in more than 40 years, the state's health department said Friday.",
+      "url": "https://www.fox5dc.com/news/malaria-in-maryland-first-local-case-in-decades-alarms-health-officials",
+      "urlToImage": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2023/08/1280/720/GettyImages-509399466.jpg?ve=1&tl=1",
+      "publishedAt": "2023-08-19 00:38:57",
+      "content": "ROCKVILLE, Md. - Maryland has confirmed a case of locally acquired malaria in the state for the first time in more than 40 years, the state's health department said Friday. Maryland officials said t\u2026 [+2741 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.170947",
+      "internal_id": "1e9cc7e2631df060077f2683ebec5c8badd65dafc463d4bc2902e99b819e9c3b",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1229,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Health Department Calls For United Efforts Against Dengue Outbreak In Diphu",
+      "description": "HT Bureau DIPHU, Aug 18: Despite concerted efforts, the positivity rate of dengue fever in Diphu municipal area remains alarmingly high at 45%, prompting the health department to rally for a collective battle against the ongoing outbreak. During a press con\u2026",
+      "url": "https://thehillstimes.in/assam/health-department-calls-for-united-efforts-against-dengue-outbreak-in-diphu",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/08/261.jpeg",
+      "publishedAt": "2023-08-18 23:50:19",
+      "content": "HT Bureau DIPHU, Aug 18: Despite concerted efforts, the positivity rate of dengue fever in Diphu municipal area remains alarmingly high at 45%, prompting the health department to rally for a collect\u2026 [+1318 chars]",
+      "retrievedAt": "2023-08-20 07:05:23.239608",
+      "internal_id": "0466132bece6edfa0a7aa1a04b05af233302716ffed36be1c3deb9aca7fe6e09",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1240,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Katherine Dillinger",
+      "title": "Case of locally acquired malaria reported in Maryland | CNN",
+      "description": "A case of locally acquired malaria has been confirmed in Maryland, the state Department of Health said Friday. The person was briefly hospitalized and is recovering at home.",
+      "url": "https://www.cnn.com/2023/08/18/health/malaria-maryland/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230818163307-01-anopheles-mosquito-022423-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-18 22:08:24",
+      "content": "A case of locally acquired malaria has been confirmed in Maryland, the state Department of Health said Friday. The person was briefly hospitalized and is recovering at home. The agency declined to g\u2026 [+2214 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.169398",
+      "internal_id": "c61a6ffa466b5c6c7434fab1739703c41708976beafd77f9cc2fc2ee4dcb6091",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1230,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "What is dengue fever? What to know as virus cases are confirmed in Florida - CBS News",
+      "description": "What is dengue fever? What to know as virus cases are confirmed in FloridaCBS News More dengue fever cases detected in South FloridaCBS Miami Dengue cases in Florida: Symptoms, testing, treatment and vaccineCNN New Fatal Virus Hits Florida, Disney World at Ri\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171649414",
+      "urlToImage": null,
+      "publishedAt": "2023-08-18 21:52:13",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-08-20 07:05:23.246414",
+      "internal_id": "718a8f2973980beab43871675e0d0f3a1a940e17d4c38c42a1e17258ec69dbb5",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1232,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thegatewaypundit.com",
+      "author": "Kristinn Taylor",
+      "title": "Biden\u2019s Third World America: Maryland Reports \u201cLocally Acquired\u201d Case of Malaria In D.C. Suburbs; Third State This Year",
+      "description": "Once eradicated from the United States, \u201clocally acquired\u201d malaria has now cropped up in a third state this year, this time in the Maryland suburbs just outside of the nation\u2019s capital. The post Biden\u2019s Third World America: Maryland Reports \u201cLocally Acquired\u201d\u2026",
+      "url": "https://www.thegatewaypundit.com/2023/08/bidens-third-world-america-maryland-reports-locally-acquired/",
+      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/mosquito-matrix-556px-1200x630.jpg",
+      "publishedAt": "2023-08-18 21:40:23",
+      "content": "Once eradicated from the United States, \u201clocally acquired\u201d malaria has now cropped up in a third state this year, this time in the Maryland suburbs just outside of the nation\u2019s capital. Earlier this \u2026 [+6915 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.049283",
+      "internal_id": "303f23ba6ac9072b2e4b654d411fce3ed2a29f55f8c4d938b7b0515fa4d9a85c",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1244,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ari Daniel",
+      "title": "New advancements may help fight the chikungunya virus wave in South America",
+      "description": "More than a quarter million new cases of the chikungunya virus have surfaced in South America this year. New advances may soon help us outfox the virus, which can cause debilitating joint pain.",
+      "url": "https://www.npr.org/2023/08/18/1194760921/new-advancements-may-help-fight-the-chikungunya-virus-wave-in-south-america",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2023-08-18 21:26:16",
+      "content": "More than a quarter million new cases of the chikungunya virus have surfaced in South America this year. New advances may soon help us outfox the virus, which can cause debilitating joint pain.",
+      "retrievedAt": "2023-08-20 07:05:24.761657",
+      "internal_id": "6d4e7414c121d6099e41360401670011b9c7641ba0d54091fb36f5d399c76dc3",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1238,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mocoshow.com",
+      "author": "Patrick Herron",
+      "title": "Maryland Department of Health Announces First Positive Case of Locally Acquired Malaria in Over 40 Years - The MoCo Show",
+      "description": "Per the Maryland Department of Health: Maryland Department of Health has confirmed and reported a positive case of locally acquired malaria in a Maryland resident who lives in the National\u2026",
+      "url": "https://mocoshow.com/blog/maryland-department-of-health-announces-first-positive-case-of-locally-acquired-malaria-in-over-40-years/",
+      "urlToImage": "https://mocoshow.com/wp-content/uploads/2023/08/C675DE55-8EB3-4880-A84E-DF7164CBC3D5.jpeg",
+      "publishedAt": "2023-08-18 20:55:15",
+      "content": "Per the Maryland Department of Health: Maryland Department of Health has confirmed and reported a positive case of locally acquired malaria in a Maryland resident who lives in the National Capital Re\u2026 [+2745 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.063699",
+      "internal_id": "512c03186fda785072c24c8c204a2546802e0f2f1b392abdce981cbe66b9c83b",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1239,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NBC4 Washington",
+      "author": "Andrea Swalec",
+      "title": "Malaria diagnosed in Maryland resident who had not recently traveled: Health dept.",
+      "description": "\"We have not seen a case in Maryland that was not related to travel in over 40 years,\" the state health secretary said. Here's what to know about malaria.",
+      "url": "https://www.nbcwashington.com/news/local/malaria-diagnosed-in-maryland-resident-who-had-not-recently-traveled-health-dept/3407162/",
+      "urlToImage": "https://media.nbcwashington.com/2023/08/mosquito-close-up-1.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2023-08-18 19:57:17",
+      "content": "A Maryland resident who lives in the D.C. area contracted malaria despite not having recently traveled out of the country or to states where malaria has been detected, state health officials said Fri\u2026 [+4418 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.167573",
+      "internal_id": "62233c58a1593ef1f4ac7ad3d322c4ee0774841aff22f8a50daf7799cae14549",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1242,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ari Daniel",
+      "title": "Chikungunya virus surges in South America. But a new discovery could help outfox it",
+      "description": "South America has seen a quarter million cases this year, as climate change is a boon for the mosquitoes that spread it. A study about how the virus infects cells could help inform future treatments.",
+      "url": "https://www.npr.org/sections/goatsandsoda/2023/08/18/1194392519/chikungunya-virus-surges-in-south-america-but-a-new-discovery-could-help-outfox-",
+      "urlToImage": "https://media.npr.org/assets/img/2023/08/17/ap23062506105531_wide-1c7d4e8eba3114cdcfc832624edf65f98d7fa749-s1400-c100.jpg",
+      "publishedAt": "2023-08-18 19:32:51",
+      "content": "When someone enters the hospital with the chikungunya virus, there's no mistaking it. \"The patients came here with fever and also with pain in their joints,\" says Dr. Susana Lloveras, an infectious\u2026 [+4641 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.758164",
+      "internal_id": "140c15c5dcb3cd233888a4f5369beade5504fd0c5434305edde5b4f5b6a1f7ec",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1243,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ari Daniel",
+      "title": "Chikungunya virus surges in South America. But a new discovery could help outfox it",
+      "description": "South America has seen a quarter million cases this year, as climate change is a boon for the mosquitoes that spread it. A study about how the virus infects cells could help inform future treatments.",
+      "url": "https://www.npr.org/sections/goatsandsoda/2023/08/18/1194392519/chikungunya-virus-surges-in-south-america-but-a-new-discovery-could-help-outfox",
+      "urlToImage": "https://media.npr.org/assets/img/2023/08/17/ap23062506105531_wide-1c7d4e8eba3114cdcfc832624edf65f98d7fa749-s1400-c100.jpg",
+      "publishedAt": "2023-08-18 19:32:00",
+      "content": "When someone enters the hospital with the chikungunya virus, there's no mistaking it. \"The patients came here with fever and also with pain in their joints,\" says Dr. Susana Lloveras, an infectious \u2026 [+4636 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.759917",
+      "internal_id": "0ecb75ddcc7491f968f8127c3b5da7c3389f5acd8613441ab79d6eb627be91c1",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1237,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "WBAL TV Baltimore",
+      "author": "Blair Young",
+      "title": "Maryland Department of Health confirms locally acquired malaria case",
+      "description": "The Maryland Department of Health announced that they have confirmed a positive case of locally acquired malaria in a Maryland resident.",
+      "url": "https://www.wbaltv.com/article/maryland-department-health-confirms-locally-acquired-malaria-case/44852704",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/maryland-department-of-health-1638752087.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2023-08-18 19:07:12",
+      "content": "The Maryland Department of Health announced that they have confirmed a positive case of locally acquired malaria in a Maryland resident. The person lives in the National Capital Region and was hospi\u2026 [+739 chars]",
+      "retrievedAt": "2023-08-20 07:05:24.062267",
+      "internal_id": "9dd014b783f2627aba27848d08254b7880997df18890e28fcc51280aad3465d2",
+      "publishedAtLabel": "Aug 18"
+    },
     {
       "id": 1207,
       "query": [
@@ -3268,349 +3610,6 @@
       "content": "Specific receptors in the ears of mosquitoes have been revealed to modulate their hearing, finds a new study led by researchers at UCL and University of Oldenburg. Scientists say, this discovery coul\u2026 [+2813 chars]",
       "retrievedAt": "2023-08-12 19:05:09.489728",
       "internal_id": "42bf2b5255c4f37e857d88ee572a2f51af4abfd9cc40e212cf15c98db1349763",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1046,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "Malaria vaccine candidate appears safe and produces promising immune response in a cohort of Tanzanian infants",
-      "description": "An experimental malaria vaccine appears safe and promotes an immune response in African infants, one of the groups most vulnerable to severe malaria disease. There is currently only one malaria vaccine, 'RTS,S' that is approved by the World Health Organizatio\u2026",
-      "url": "https://www.sciencedaily.com/releases/2023/08/230811115433.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-08-11 15:54:33",
-      "content": "An experimental malaria vaccine appears safe and promotes an immune response in African infants, one of the groups most vulnerable to severe malaria disease. There is currently only one malaria vacci\u2026 [+4421 chars]",
-      "retrievedAt": "2023-08-12 19:05:09.488245",
-      "internal_id": "287c85c0e7e429cc43156c544eafd6db80848bf2404d9e533f2a0ac8b8c159fd",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1034,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Science X",
-      "title": "Know the requirements for your pet's rabies vaccination",
-      "description": "Routine vaccinations are an essential part of your pet's veterinary care, and veterinarians typically guide owners on how often your pet needs which shots. In the case of rabies, however, owners may be asked by their veterinarian if they prefer a vaccine that\u2026",
-      "url": "https://phys.org/news/2023-08-requirements-pet-rabies-vaccination.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/pet-vaccination.jpg",
-      "publishedAt": "2023-08-11 15:50:01",
-      "content": "Routine vaccinations are an essential part of your pet's veterinary care, and veterinarians typically guide owners on how often your pet needs which shots. In the case of rabies, however, owners may \u2026 [+4058 chars]",
-      "retrievedAt": "2023-08-12 19:05:07.598629",
-      "internal_id": "de9b9c10951c109adb7c3657c7f672c0f4435355972e917339cc516b3d863ac7",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1051,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue Scare: 19,126 mosquito breeding sites eliminated in Jamshedpur - Avenue Mail",
-      "description": "Dengue Scare: 19,126 mosquito breeding sites eliminated in Jamshedpur Avenue Mail 11 fresh dengue cases in Patiala district The Tribune India View Full coverage on Google News",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXZlbnVlbWFpbC5pbi9kZW5ndWUtc2NhcmUtMTkxMjYtbW9zcXVpdG8tYnJlZWRpbmctc2l0ZXMtZWxpbWluYXRlZC1pbi1qYW1zaGVkcHVyL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-11 15:49:02",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-13 07:05:32.503018",
-      "internal_id": "155d6a679006a9355dcb939aff2f9d19f5a3023e68f4c0fcb9cb6edd1ba314dc",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1033,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Pertussis (Whooping Cough) outbreak declared in Preeceville area - Saskatchewan Health Authority",
-      "description": "Pertussis (Whooping Cough) outbreak declared in Preeceville area Saskatchewan Health Authority",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnNhc2toZWFsdGhhdXRob3JpdHkuY2EvbmV3cy1ldmVudHMvbmV3cy9wZXJ0dXNzaXMtd2hvb3BpbmctY291Z2gtb3V0YnJlYWstZGVjbGFyZWQtcHJlZWNldmlsbGUtYXJlYdIBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-11 14:54:35",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-12 19:05:07.274466",
-      "internal_id": "428f4c8bc17e72486470e6b005a8cf41884f8e95979d33fcc974bf100d9ef94c",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1073,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Jumlah Pasien DBD di RSUD dr. Soedarso Terus Bertambah",
-      "description": "KalbarOnline, Pontianak \u2013 Kasus Demam Berdarah Dengue (DBD) mewabah di Kalimantan Barat. The post Jumlah Pasien DBD di RSUD dr. Soedarso Terus Bertambah appeared first on KalbarOnline.Com.",
-      "url": "https://www.kalbaronline.com/2023/08/11/jumlah-pasien-dbd-di-rsud-dr-soedarso-terus-bertambah/",
-      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/08/IMG-20230811-WA0041.jpg",
-      "publishedAt": "2023-08-11 13:16:04",
-      "content": "KalbarOnline, Pontianak \u2013 Kasus Demam Berdarah Dengue (DBD) mewabah di Kalimantan Barat. Direktur RSUD dr. Soedarso, Hary Agung Tjahyadi mengungkapkan, dari Januari hingga Juli ada 159 pasien DBD, da\u2026 [+1630 chars]",
-      "retrievedAt": "2023-08-14 07:05:54.267131",
-      "internal_id": "a41a0c0c08cac219e9a1c8d783b01bac74efa64d15a8bb9b9c402a3d32a058fe",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1058,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Hingga Agustus, Dinkes Kalbar Catat 1.306 Kasus DBD, 19 Kasus Meninggal Dunia",
-      "description": "KalbarOnline, Pontianak \u2013 Dinas Kesehatan Provinsi Kalimantan Barat mencatat sebanyk 1.306 kasus The post Hingga Agustus, Dinkes Kalbar Catat 1.306 Kasus DBD, 19 Kasus Meninggal Dunia appeared first on KalbarOnline.Com.",
-      "url": "https://www.kalbaronline.com/2023/08/11/hingga-agustus-dinkes-kalbar-catat-1-306-kasus-dbd-19-kasus-meninggal-dunia/",
-      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/08/IMG-20230811-WA0036.jpg",
-      "publishedAt": "2023-08-11 13:02:57",
-      "content": "KalbarOnline, Pontianak \u2013 Dinas Kesehatan Provinsi Kalimantan Barat mencatat sebanyk 1.306 kasus Demam Berdarah Dengue (DBD) terjadi sejak Januari hingga 11 Agustus 2023. Dari jumlah tersebut, 19 kas\u2026 [+1378 chars]",
-      "retrievedAt": "2023-08-13 07:05:32.521336",
-      "internal_id": "4a2090125b4757f4fac829be3d1fe4020f5ddfadaf4b63f356a1f1c8bc9705c3",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1040,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "Bangladesh grapples with record deadly outbreak of dengue fever; AP reports",
-      "description": "Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records.The government\u2019s Directorate General of Health Services reports the 2023 death toll from th\u2026",
-      "url": "https://economictimes.indiatimes.com/news/et-tv/bangladesh-grapples-with-record-deadly-outbreak-of-dengue-fever-ap-reports/videoshow/102651587.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-102651587,width-1070,height-580,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-08-11 12:49:57",
-      "content": "Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records.The governments Directorate Gen\u2026 [+206 chars]",
-      "retrievedAt": "2023-08-12 19:05:08.367541",
-      "internal_id": "2af95976da100828e5485e56babc5c02741a437327cea67b7297323dab4c7d3d",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1042,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "WHO urges swift action as dengue cases surge in Bangladesh",
-      "description": "A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday, calling for efforts to control the mosquito vector population and minimize individual exposure such as using mosquito repellents and w\u2026",
-      "url": "https://news.un.org/en/story/2023/08/1139692",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-11-2019_IAEA_mosquito.jpg/image770x420cropped.jpg",
-      "publishedAt": "2023-08-11 12:00:00",
-      "content": "The outbreak, which escalated rapidly since late June, has seen a total of 69,483 confirmed cases and 327 related deaths between 1 January and 7 August, with a case fatality rate of 0.47 per cent, ac\u2026 [+3945 chars]",
-      "retrievedAt": "2023-08-12 19:05:08.371045",
-      "internal_id": "12a40ad3dd15f9fa323f6f720dcc56b86b49b5e6f4103d7ac941973c254db096",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1043,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Associated Press",
-      "title": "Death toll caused by Bangladesh dengue outbreak rises, may break records this month",
-      "description": "Bangladesh officials warn that the country's death toll caused by a dengue outbreak may break records this month. The mosquito-borne illness has caused 364 deaths this year.",
-      "url": "https://www.foxnews.com/world/death-toll-caused-bangladesh-dengue-outbreak-rises-may-break-records-month",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/kid-2.jpg",
-      "publishedAt": "2023-08-11 11:41:56",
-      "content": "Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The governments Directorate G\u2026 [+3694 chars]",
-      "retrievedAt": "2023-08-12 19:05:08.375309",
-      "internal_id": "32b46548ed217ca0b1137e267d66d2ff5794bb8e41cdee1bf205c6ebb32ce554",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1048,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science.orf.at",
-      "author": "ORF.at",
-      "title": "\u201eEl Nino\u201c beeinflusst Weltgesundheit",
-      "description": "Tropische Wirbelst\u00fcrme, starke Regenf\u00e4lle, schwere D\u00fcrren: Die extremen Wetterph\u00e4nomene, die mit \u201eEl Nino\u201c einhergehen, haben auch Einfluss auf die Gesundheit. Ernteausf\u00e4lle k\u00f6nnen die Ern\u00e4hrungssicherheit gef\u00e4hrden, Ausbr\u00fcche von Cholera, Malaria oder dem De\u2026",
-      "url": "https://science.orf.at/stories/3220730/",
-      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2021%2F15%2F60%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F901081_master_315460_430437_opener_142416_klimawandel_meere_immer_waermer_gy.jpg%3Fs%3D89e3d839559b88baa2e490a82c836e5039d79277",
-      "publishedAt": "2023-08-11 10:48:59",
-      "content": "Das bisher w\u00e4rmste Jahr seit Beginn der Industrialisierung war 2016, ein starkes El Nino-Jahr. Seit ein paar Wochen ist El Nino nun zur\u00fcck. Seinen H\u00f6hepunkt wird er Ende des Jahres erreichen. In Komb\u2026 [+2373 chars]",
-      "retrievedAt": "2023-08-12 19:05:09.493562",
-      "internal_id": "1bbcc3f314cf309035654936c90e65b9a81594c783470d715be25461097dc8bb",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1037,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "International Business Times",
-      "author": "Binitha Jacob",
-      "title": "Dengue Outbreak In Bangladesh Turns Deadly As It Claims 364 Lives This Year",
-      "description": "August could set a new, deadly record for the country as more than 100 people have died from dengue this month alone. The first week alone saw 23,000 cases of dengue fever.",
-      "url": "https://www.ibtimes.com/dengue-outbreak-bangladesh-turns-deadly-it-claims-364-lives-this-year-3708314",
-      "urlToImage": "https://d.ibtimes.com/en/full/3835250/bangladesh-authorities-managed-evacuate-around-million-people-their-homes-before-cyclone-sitrang.jpg",
-      "publishedAt": "2023-08-11 09:13:04",
-      "content": "AFP KEY POINTS More than 78,000 people have been infected since January this yearHospitals are scrambling to make space for patients suffering from the mosquito-born illness<l\u2026 [+2116 chars]",
-      "retrievedAt": "2023-08-12 19:05:08.358670",
-      "internal_id": "1f763d2acd71dfb5208eb05926f7cdaba0f082ab3a022ecce6a7c7bb90f4fb8b",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1077,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Another female doctor dies of dengue",
-      "description": "Another female physician died of dengue fever at a hospital in the capital on Friday morning. Sharifa Binte Aziz, 27, of Dohar upazila in Dhaka, breathed her last at Intensive Care Unit (ICU) of Dhaka Medical College and Hospital (DMCH) around 5:00am. Sharifa\u2026",
-      "url": "https://sylhetmirror.com/2023/08/11/another-female-doctor-dies-of-dengue/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/Uyttte.jpg",
-      "publishedAt": "2023-08-11 08:20:21",
-      "content": "Another female physician died of dengue fever at a hospital in the capital on Friday morning. Sharifa Binte Aziz, 27, of Dohar upazila in Dhaka, breathed her last at Intensive Care Unit (ICU) of Dha\u2026 [+409 chars]",
-      "retrievedAt": "2023-08-14 07:05:54.275368",
-      "internal_id": "88adb89454dd443dcb71507e9de738f160179cc69f08d8b3f2d202c25c5ca488",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1045,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Bangladesh records highest daily spike of nearly 3,000 dengue cases, death toll rises to 364",
-      "description": "DHAKA, Aug. 11 (Xinhua) -- In a grim landmark, a total of 2,959 people were diagnosed with dengue fe",
-      "url": "http://en.people.cn/n3/2023/0811/c90000-20057241.html",
-      "urlToImage": null,
-      "publishedAt": "2023-08-11 07:48:19",
-      "content": "(Xinhua) 14:39, August 11, 2023 DHAKA, Aug. 11 (Xinhua) -- In a grim landmark, a total of 2,959 people were diagnosed with dengue fever in Bangladesh in the past 24 hours on Thursday, the highest nu\u2026 [+1145 chars]",
-      "retrievedAt": "2023-08-12 19:05:08.378580",
-      "internal_id": "55ff0eaf23c6d3ad162b0d3b1c9d45cb6c9b870b4aeac0d500cf1a8b72a9d542",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1026,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "JULHAS ALAM Associated Press",
-      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year and infections rise",
-      "description": "Bangladesh is recording a higher number of casualties and infections from dengue as more than 360 people have died this year and infections of the mosquito-borne illness rise",
-      "url": "https://abcnews.go.com/Health/wireStory/dengue-outbreak-bangladesh-sparks-alarm-after-364-people-102189307",
-      "urlToImage": "https://s.abcnews.com/images/International/wirestory_0b3cfcac3ba88ab57365bdf77eb6eb82_12x5_992.jpg",
-      "publishedAt": "2023-08-11 06:47:09",
-      "content": "DHAKA,Bangladesh -- Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The gove\u2026 [+3530 chars]",
-      "retrievedAt": "2023-08-12 07:05:29.008736",
-      "internal_id": "1ee8ba91fc7615299ce7202a86d406a062bdae47089fe5621fa20e6686b80f7c",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1030,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u099f\u0999\u09cd\u0997\u09c0\u09a4\u09c7 \u099f\u09cd\u09b0\u09c7\u09a8\u09c7 \u09a1\u09be\u0995\u09be\u09a4\u09bf\u09b0 \u0998\u099f\u09a8\u09be\u09df \u0986\u099f\u0995 \u09ef",
-      "description": "\u099f\u0999\u09cd\u0997\u09c0\u09a4\u09c7 \u099f\u09cd\u09b0\u09c7\u09a8\u09c7 \u09a1\u09be\u0995\u09be\u09a4\u09bf\u09b0 \u0998\u099f\u09a8\u09be\u09df \u0986\u099f\u0995 \u09efthedailystar.net",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-504466",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/11/train.jpg?itok=EZp12EI5",
-      "publishedAt": "2023-08-11 06:44:25",
-      "content": "With her health improving, two-year-old Mayamanat Islam Sadia was spending her time playing with a balloon on her bed at the dengue ward of Mugda Medical College and Hospital.",
-      "retrievedAt": "2023-08-12 07:05:29.027034",
-      "internal_id": "baf9d6c061aa037c58c12910ff01222cfe1ab9788edfa85940f981a5f778613b",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1024,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "JULHAS ALAM Associated Press",
-      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year and infections rise",
-      "description": "Bangladesh is recording a higher number of casualties and infections from dengue as more than 360 people have died this year and infections of the mosquito-borne illness rise",
-      "url": "https://abcnews.go.com/International/wireStory/dengue-outbreak-bangladesh-sparks-alarm-after-364-people-102189306",
-      "urlToImage": "https://s.abcnews.com/images/International/wirestory_0b3cfcac3ba88ab57365bdf77eb6eb82_12x5_992.jpg",
-      "publishedAt": "2023-08-11 06:38:31",
-      "content": "DHAKA,Bangladesh -- Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The gove\u2026 [+3530 chars]",
-      "retrievedAt": "2023-08-12 07:05:28.998921",
-      "internal_id": "56f96c2b491ce939218b6a9b0aea46a85e0bd2c97d2fc7c83f44a1781b1380b6",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1029,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "seattlepi.com",
-      "author": "By JULHAS ALAM, Associated Press",
-      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year and infections rise",
-      "description": "Bangladesh is recording a higher number of casualties and infections from dengue as more than 360 people have died this year and infections of the mosquito-borne illness rise. Experts say August could be deadlier, due to intermittent rains when mosquitoes gro\u2026",
-      "url": "https://www.seattlepi.com/news/world/article/dengue-outbreak-in-bangladesh-sparks-alarm-after-18290915.php",
-      "urlToImage": "https://www.seattlepi.com/img/pages/article/opengraph_default.jpg",
-      "publishedAt": "2023-08-11 06:36:16",
-      "content": "A child is carried by his mother as he receives treatment for dengue at Mugda Medical College and Hospital in Dhaka, Bangladesh, Thursday, Aug. 10, 2023. A woman suffering from dengue receives treat\u2026 [+5427 chars]",
-      "retrievedAt": "2023-08-12 07:05:29.020491",
-      "internal_id": "7c0e24a73d7744331e34dee4e9cef9fb83f489cca00cb5d7cd48b5f4bd116898",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1027,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "independent",
-      "source_name": "Independent",
-      "author": "Julhas Alam",
-      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year and infections rise",
-      "description": "Bangladesh is recording a higher number of casualties and infections from dengue as more than 360 people have died this year and infections of the mosquito-borne illness rise",
-      "url": "https://www.independent.co.uk/news/ap-dhaka-bangladesh-people-asian-b2391351.html",
-      "urlToImage": "https://static.independent.co.uk/2023/08/11/07/Bangladesh_Dengue_59976.jpg?quality=75&width=1200&auto=webp",
-      "publishedAt": "2023-08-11 06:26:29",
-      "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails Sign up to our free breaking news emails Bangladesh is struggling to deal with higher casualt\u2026 [+3657 chars]",
-      "retrievedAt": "2023-08-12 07:05:29.012149",
-      "internal_id": "a4b178c3573867cc230b8d9499835da72c7d22abfdaac835fca6e9e612b0031f",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1028,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Peter Amenda und Tatjana Kaa",
-      "title": "Sie k\u00f6nnen Dengue-Viren \u00fcbertragen - Den Stich einer Tigerm\u00fccke merkt man kaum",
-      "description": "Diese gef\u00e4hrlichen Viren \u00fcbertr\u00e4gt die Tigerm\u00fccke \u2013 und diese nicht. Foto: picture alliance / dpa",
-      "url": "https://www.bild.de/news/inland/news-inland/tigermuecken-koennen-dengue-viren-uebertragen-den-stich-merkt-man-kaum-85006274.bild.html",
-      "urlToImage": "https://images.bild.de/64d4e02e8a21ea67b71294fe/2ea6a19326c2dbaec8c74e955e461c9f,bec4adbe?w=1280",
-      "publishedAt": "2023-08-11 06:00:04",
-      "content": "Deutschland zittert vor der Tigerm\u00fccke. In s\u00fcdlichen L\u00e4ndern \u00fcbertr\u00e4gt sie schon jetzt gef\u00e4hrliche Viren, die Tropenkrankheiten wie Dengue- oder West-Nil-Fieber oder Zika ausl\u00f6sen k\u00f6nnen. Und bei uns\u2026 [+2923 chars]",
-      "retrievedAt": "2023-08-12 07:05:29.016893",
-      "internal_id": "a2cbfef94c8f5a34d8b987ec8732bb877acbe0bc6f5c08ce33328b8d3dca8655",
       "publishedAtLabel": "Aug 11"
     }
   ]
