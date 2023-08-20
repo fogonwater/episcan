@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-08-20 07:05",
+  "last_updated": "2023-08-20 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 19,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 1248,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Chitwan records 108 dengue cases in a month",
+      "description": "CHITWAN: Chitwan district has recorded increasing cases of dengue infection. According to the District Health Office, 108 people were infected with dengue disease from July 17 to August 18. Such a number of dengue cases was detected in the course of conductin\u2026",
+      "url": "https://english.khabarhub.com/2023/19/315133/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue.webp",
+      "publishedAt": "2023-08-19 15:15:12",
+      "content": "Image for Representation.CHITWAN: Chitwan district has recorded increasing cases of dengue infection. According to the District Health Office, 108 people were infected with dengue disease from July 1\u2026 [+860 chars]",
+      "retrievedAt": "2023-08-20 19:05:34.352431",
+      "internal_id": "0c60690db7ab635843b30636107a55e4a4a587d977d14633522c2713785f35ac",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1246,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Dengue nel Lodigiano, disinfezione e ordinanza",
+      "description": "Disinfestazione straordinaria delle strade, sospensione delle donazioni di sangue: dopo che un settantenne di Castiglione d'Adda, nel Lodigiano, \u00e8 risultato positivo alla Dengue, malattia infettiva trasmissibile attraverso la puntura di insetti in particol...\u2026",
+      "url": "https://www.ansa.it/lombardia/notizie/2023/08/19/caso-di-dengue-nel-lodigiano-disinfezione-e-ordinanza_85974378-a645-49c0-8cee-e277c5fd67b4.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/8/19/544c6d162010ed4ddd4b1645c73ba465.jpg",
+      "publishedAt": "2023-08-19 14:01:10",
+      "content": "Disinfestazione straordinaria delle strade, sospensione delle donazioni di sangue: dopo che un settantenne di Castiglione d'Adda, nel Lodigiano, \u00e8 risultato positivo alla Dengue, malattia infettiv\u2026 [+765 chars]",
+      "retrievedAt": "2023-08-20 19:05:34.337145",
+      "internal_id": "957ef62b90516362f24bc851427a001ed1364531337c6b93262ca3bf64738ad7",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1247,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u099a\u099e\u09cd\u099a\u09b2 \u099a\u09cc\u09a7\u09c1\u09b0\u09c0 \u0993 \u099c\u09c7\u09ab\u09be\u09b0 \u09af\u09c7 \u0995\u09be\u09b0\u09a3\u09c7 \u098f\u0995\u09b8\u0999\u09cd\u0997\u09c7",
+      "description": "\u099c\u09a8\u09aa\u09cd\u09b0\u09bf\u09df \u0985\u09ad\u09bf\u09a8\u09c7\u09a4\u09be \u099a\u099e\u09cd\u099a\u09b2 \u099a\u09cc\u09a7\u09c1\u09b0\u09c0 \u0993 \u09b8\u0999\u09cd\u0997\u09c0\u09a4\u09b6\u09bf\u09b2\u09cd\u09aa\u09c0 \u099c\u09c7\u09ab\u09be\u09b0 \u09b0\u09b9\u09ae\u09be\u09a8\u0995\u09c7 \u098f\u09ac\u09be\u09b0 \u098f\u0995\u09b8\u0999\u09cd\u0997\u09c7 \u09aa\u09b0\u09cd\u09a6\u09be\u09df \u09a6\u09c7\u0996\u09be \u09af\u09be\u09ac\u09c7\u0964",
+      "url": "https://bangla.thedailystar.net/entertainment/news-506871",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/uploads/2023/08/19/untitled_design_-_2023-08-19t181804.490.png",
+      "publishedAt": "2023-08-19 12:22:10",
+      "content": "At least 13 more people died from dengue in the 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
+      "retrievedAt": "2023-08-20 19:05:34.347596",
+      "internal_id": "9cfeed8492d5d7af20c5160f6ff149dd5170a274589f1e2a6ba749a9f5c3be6c",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1249,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: How Genetically Modifying Mosquitoes Could Strengthen the World's War On Malaria",
+      "description": "[The Conversation Africa] It's been 126 years since British medical doctor Sir Ronald Ross discovered that mosquitoes in the Anopheles family are primarily responsible for transmitting malaria parasites between vertebrate hosts.",
+      "url": "https://allafrica.com/stories/202308190039.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-08-19 10:58:42",
+      "content": "It's been 126 years since British medical doctor Sir Ronald Ross discovered that mosquitoes in the Anopheles family are primarily responsible for transmitting malaria parasites between vertebrate hos\u2026 [+6936 chars]",
+      "retrievedAt": "2023-08-20 19:05:35.054555",
+      "internal_id": "41030d09466ab284f231981e52d8f539051e27f3f17ebe622703614c77ea363e",
+      "publishedAtLabel": "Aug 19"
+    },
     {
       "id": 1235,
       "query": [
@@ -3538,78 +3610,6 @@
       "content": "Un mes ha pasado desde que se declar\u00f3 la Alerta Roja Hospitalaria en Bol\u00edvar. La medida fue adoptada por la Gobernaci\u00f3n del departamento debido al progresivo aumento de los casos de dengue en los dis\u2026 [+3508 chars]",
       "retrievedAt": "2023-08-12 19:05:08.376996",
       "internal_id": "0fb80915aac61aea97b3c26f148304e1612cec80a3c07e9584ebd57eef8eb1a7",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1057,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Viqarunnisa teacher dies of dengue",
-      "description": "A female teacher of Viqarunnisa Noon School and College died of dengue fever at a private hospital in the capital city early Friday. Deceased Morsheda Begum, a teacher of Viqarunnisa Noon School and College. She breathed her last around 6:30 am while undergoi\u2026",
-      "url": "https://sylhetmirror.com/2023/08/11/viqarunnisa-teacher-dies-of-dengue/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/W34c34h.jpg",
-      "publishedAt": "2023-08-11 17:08:36",
-      "content": "A female teacher of Viqarunnisa Noon School and College died of dengue fever at a private hospital in the capital city early Friday. Deceased Morsheda Begum, a teacher of Viqarunnisa Noon School and\u2026 [+558 chars]",
-      "retrievedAt": "2023-08-13 07:05:32.519199",
-      "internal_id": "22892755cd7346c572b0b10a4953ebeefe407a1327e995f787a008aa9387fe4b",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1041,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
-      "title": "Bologna, caso di dengue al Savena. Parte la disinfestazione, \u201ctenete chiuse le finestre di notte\u201d",
-      "description": "Ecco le vie interessate dall\u2019intervento di profilassi",
-      "url": "https://bologna.repubblica.it/cronaca/2023/08/11/news/bologna_dengue_savena-410793853/",
-      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-bologna/2023/08/11/180903161-0a4df1c8-fca6-4ad5-93af-a96c348b95ac.jpg",
-      "publishedAt": "2023-08-11 16:09:04",
-      "content": "BOLOGNA \u00c8 stato rilevato stamattina un caso importato di Dengue a Bologna, nel quartiere Savena. La dengue \u00e8 una malattia infettiva che normalmente ha un decorso benigno con una fase acuta che dura \u2026 [+1717 chars]",
-      "retrievedAt": "2023-08-12 19:05:08.369021",
-      "internal_id": "8caceabc1c62fda91baf4e116e68855d99cd0928f8461212596a00767c2ef767",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1036,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Live 5 News WCSC",
-      "author": "Patrick Phillips",
-      "title": "Health dept. confirms rabid bat in Charleston; 2 pets exposed",
-      "description": "The South Carolina Department of Health and Environmental Control confirmed two dogs were exposed to a bat that tested positive for rabies in downtown Charleston.",
-      "url": "https://www.live5news.com/2023/08/11/health-dept-confirms-rabid-bat-charleston-2-pets-exposed/",
-      "urlToImage": "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/8-KPHmXmVIh76Q6Kyp0YC2Kt6Hk=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/2SVB2NSYY5DBPLIWZWATCED4MQ.jpg",
-      "publishedAt": "2023-08-11 16:03:05",
-      "content": "CHARLESTON, S.C. (WCSC) - The South Carolina Department of Health and Environmental Control confirmed two dogs were exposed to a bat that tested positive for rabies in downtown Charleston. The bat w\u2026 [+2964 chars]",
-      "retrievedAt": "2023-08-12 19:05:07.602390",
-      "internal_id": "fea3aa4222850cd89a2beef8be70ea4cff2ebdc71fcb3c60c0e763a628914434",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1047,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "Mosquito hearing could be targeted by insecticides",
-      "description": "Specific receptors in the ears of mosquitoes have been revealed to modulate their hearing, finds a new study. Scientists say, this discovery could help develop new insecticides and control the spread of harmful diseases, such as malaria.",
-      "url": "https://www.sciencedaily.com/releases/2023/08/230811115456.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-08-11 15:54:56",
-      "content": "Specific receptors in the ears of mosquitoes have been revealed to modulate their hearing, finds a new study led by researchers at UCL and University of Oldenburg. Scientists say, this discovery coul\u2026 [+2813 chars]",
-      "retrievedAt": "2023-08-12 19:05:09.489728",
-      "internal_id": "42bf2b5255c4f37e857d88ee572a2f51af4abfd9cc40e212cf15c98db1349763",
       "publishedAtLabel": "Aug 11"
     }
   ]
