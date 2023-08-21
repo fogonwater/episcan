@@ -1,8 +1,242 @@
 {
-  "last_updated": "2023-08-21 07:05",
+  "last_updated": "2023-08-21 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 1266,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "business-insider",
+      "source_name": "Business Insider",
+      "author": "kbalevic@insider.com (Katie Balevic)",
+      "title": "A Marylander who hadn't recently traveled internationally caught malaria. Officials say it's the state's first 'locally acquired' case in 40 years.",
+      "description": "Maryland officials are grappling with the state's first local case of malaria in four decades. It follows similar cases in Florida and Texas.",
+      "url": "https://www.businessinsider.com/marylander-caught-malaria-first-locally-acquired-case-years-2023-8",
+      "urlToImage": "https://i.insider.com/64e2591cb698ac0019dd9220?width=1200&format=jpeg",
+      "publishedAt": "2023-08-20 18:37:23",
+      "content": "Someone in Maryland contracted malaria, and officials are scratching their heads as they grapple with the state's first local case of the disease in four decades. The Maryland Department of Health \u2026 [+1473 chars]",
+      "retrievedAt": "2023-08-21 19:05:24.720774",
+      "internal_id": "881baf56b714fe8738d7cc0802d291a31828128ffdb2bf07e17057769b8da882",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1261,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Valeria Mart\u00ednez",
+      "title": "Fuerte aumento de casos de dengue en Alajuela",
+      "description": "Semana epidemiol\u00f3gica 31 registr\u00f3 5.178 casos, Ministerio de Salud actualiza protocolo.",
+      "url": "https://www.nacion.com/el-pais/salud/fuerte-aumento-de-casos-de-dengue-en-alajuela/VRYADXXOKJHGFGAETKPORQSOFY/story/",
+      "urlToImage": "https://www.nacion.com/resizer/LdniS2CILRin6fUOQEAyaRhUPgE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/NLM2CASCDNHTHLUMTX3WTQW6K4.jpg",
+      "publishedAt": "2023-08-20 17:48:18",
+      "content": "Las estad\u00edsticas proporcionadas por el Ministerio de Salud revelan un aumento en los casos de dengue en todo el pa\u00eds; no obstante, Alajuela experimenta el repunte m\u00e1s significativo con 232 nuevos con\u2026 [+2065 chars]",
+      "retrievedAt": "2023-08-21 19:05:23.314882",
+      "internal_id": "b69a5dd7fc0ec11a4bb02d3d0bd579eeecf47a06104f0d6bd19e37ab3e8dc481",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1267,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "Dennis Romero",
+      "title": "Maryland reports first locally acquired malaria case in 40 years",
+      "description": "Another case of rare \u201clocally acquired\u201d malaria, this one in the Washington, D.C. area, has been reported amid a string of such infections since May, officials said Aug. 18.",
+      "url": "https://www.today.com/health/news/maryland-reports-first-locally-acquired-malaria-case-40-years-rcna100854",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2023-08/230819-malaria-mosquito-cc-0920p-13c1ad.jpg",
+      "publishedAt": "2023-08-20 16:12:39",
+      "content": "Another case of rare locally acquired malaria, this one in the Washington, D.C. area, has been reported amid a string of such infections since May, officials said Aug. 18. The unidentified patient h\u2026 [+1697 chars]",
+      "retrievedAt": "2023-08-21 19:05:24.723439",
+      "internal_id": "5ac620858a3ef7a41349a7c27a9ccd42177b44085db14534186b122f2674524d",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1259,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Green Savers",
+      "title": "Dia Mundial do Mosquito: Novo teste r\u00e1pido para detetar Dengue",
+      "description": "Investigadores desenvolvem teste port\u00e1til r\u00e1pido para uma das doen\u00e7as transmitidas por mosquitos que mais rapidamente se espalha no mundo.",
+      "url": "https://greensavers.sapo.pt/dia-mundial-do-mosquito-novo-teste-rapido-para-detetar-dengue/",
+      "urlToImage": "https://greensavers.sapo.pt/wp-content/uploads/2023/08/Aedes-aegypti-scaled.jpg",
+      "publishedAt": "2023-08-20 15:55:06",
+      "content": "Os investigadores da University of the Sunshine Coast desenvolveram um teste port\u00e1til r\u00e1pido para uma das doen\u00e7as transmitidas por mosquitos que mais rapidamente se espalha no mundo, na sequ\u00eancia de \u2026 [+3122 chars]",
+      "retrievedAt": "2023-08-21 19:05:23.312038",
+      "internal_id": "7823be9b441eab5ced3bcc9c1efae803f45f411adcba79208b3a9da3421f4e39",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1268,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Malaria in US: First locally acquired malaria case in Maryland after 40 years - Hindustan Times",
+      "description": "Malaria in US: First locally acquired malaria case in Maryland after 40 yearsHindustan Times Maryland health officials report positive case of 'locally acquired' malariaFox News Malaria in Maryland: How health officials say you can protect yourself from mosqu\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171658020",
+      "urlToImage": null,
+      "publishedAt": "2023-08-20 15:32:14",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-08-21 19:05:24.726102",
+      "internal_id": "13c8e89141fc2078979bc601bad96695f72442c40d768d02c614b1ceb8d6e9d6",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1262,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09ad\u09be\u09b0\u09a4 \u09b6\u09c1\u09b2\u09cd\u0995 \u0986\u09b0\u09cb\u09aa\u09c7 \u09a6\u09c7\u09b6\u09c7 \u09aa\u09c7\u0981\u09df\u09be\u099c\u09c7\u09b0 \u09a6\u09be\u09ae\u09c7 \u09a4\u09c7\u09ae\u09a8 \u09aa\u09cd\u09b0\u09ad\u09be\u09ac \u09aa\u09dc\u09ac\u09c7 \u09a8\u09be: \u0995\u09c3\u09b7\u09bf\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0",
+      "description": "\u09ad\u09be\u09b0\u09a4 \u09b6\u09c1\u09b2\u09cd\u0995 \u0986\u09b0\u09cb\u09aa\u09c7 \u09a6\u09c7\u09b6\u09c7 \u09aa\u09c7\u0981\u09df\u09be\u099c\u09c7\u09b0 \u09a6\u09be\u09ae\u09c7 \u09a4\u09c7\u09ae\u09a8 \u09aa\u09cd\u09b0\u09ad\u09be\u09ac \u09aa\u09dc\u09ac\u09c7 \u09a8\u09be: \u0995\u09c3\u09b7\u09bf\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0thedailystar.net",
+      "url": "https://bangla.thedailystar.net/business/news-507221",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/20/agri-minister.jpg?itok=M_3131Po",
+      "publishedAt": "2023-08-20 14:58:45",
+      "content": "We need a comprehensive, long-term policy for addressing dengue and other weather-based diseases.",
+      "retrievedAt": "2023-08-21 19:05:23.319290",
+      "internal_id": "5ab86cb79bbd948dccaa9d176fac75ff7249bdb4660808aef8ecb97ed0bc1f8a",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1269,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Malaria in Maryland: How health officials say you can protect yourself from mosquitoes - WTOP",
+      "description": "Malaria in Maryland: How health officials say you can protect yourself from mosquitoesWTOP Maryland health officials report positive case of 'locally acquired' malariaFox News Maryland reports first locally acquired malaria case in 40 yearsAOL Malaria in US: \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171657782",
+      "urlToImage": null,
+      "publishedAt": "2023-08-20 14:32:16",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-08-21 19:05:24.727460",
+      "internal_id": "345d967832c415fd2d55a276e5020e1936915fa403562cf826c950a5decbe6ac",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1258,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Claudius Pr\u00f6\u00dfer",
+      "title": "Tigerm\u00fccke in Berlin: Noch kein Dengue-Alarm an der Spree",
+      "description": "Das Land entwickelt Ma\u00dfnahmen gegen die aus den Tropen eingewanderte Tigerm\u00fccke. Experten warnen aber davor, das Bad mit der M\u00fccke auszusch\u00fctten.",
+      "url": "https://taz.de/Tigermuecke-in-Berlin/!5950649/",
+      "urlToImage": "https://taz.de/picture/6460098/948/405068200-1.jpeg",
+      "publishedAt": "2023-08-20 14:26:00",
+      "content": "Das Land entwickelt Ma\u00dfnahmen gegen die aus den Tropen eingewanderte Tigerm\u00fccke. Experten warnen aber davor, das Bad mit der M\u00fccke auszusch\u00fctten. Grazil, stechfreudig und manchmal auch gef\u00e4hrlich: T\u2026 [+4629 chars]",
+      "retrievedAt": "2023-08-21 19:05:23.305699",
+      "internal_id": "db97a8ad13208cad6821313a7e39d8b3fbc31c9b3876f1eeb4a2f216ec546d39",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1260,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "iStock",
+      "title": "Recovering from Dengue? Here are 5 food items that can help",
+      "description": "A healthy diet can help you recover well from dengue fever. Here's a list of foods and drinks that can aid in fast recovery. Dengue fever\u200b",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/recovering-from-dengue-here-are-5-food-items-that-can-help/dengue-fever/slideshow/102872351.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-102872351,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-08-20 11:55:27",
+      "content": "20 Aug 2023, 05:25 PM IST A healthy diet can help you recover well from dengue fever. Here's a list of foods and drinks that can aid in fast recovery. Coconut water is a rich source of salts and mi\u2026 [+809 chars]",
+      "retrievedAt": "2023-08-21 19:05:23.313207",
+      "internal_id": "3c1067e21a58484346757c2cec26633e89509087aa7177c58a31c0c59fdeccfe",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1270,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "politico",
+      "source_name": "Politico",
+      "author": "Mia Mccarthy",
+      "title": "Florida malaria cases baffle experts",
+      "description": "\u201cWe regularly had this happen every couple of years before [2003]. So it's almost like, why hasn't this happened?\" asked one expert.",
+      "url": "https://www.politico.com/news/2023/08/20/florida-malaria-cases-baffle-experts-00111941",
+      "urlToImage": "https://static.politico.com/bd/c4/1eb0af394d56b77767e83861740e/malaria-52450.jpg",
+      "publishedAt": "2023-08-20 11:02:41",
+      "content": "Incidents of the non-contagious disease passed on by parasitic mosquitoes are regularly diagnosed in the U.S., but all are tied to people who are infected when they travel abroad to countries where m\u2026 [+4466 chars]",
+      "retrievedAt": "2023-08-21 19:05:24.730584",
+      "internal_id": "03656988f182421b3848529849daa2182ea31635d1fa9690442472e746947f20",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1265,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Study uncovers 'concerning' defect in malaria diagnosis",
+      "description": "India News: WASHINGTON: According to a new study, current methods can greatly overestimate the rates at which malaria parasites multiply in an infected person's b.",
+      "url": "https://timesofindia.indiatimes.com/india/study-uncovers-concerning-defect-in-malaria-diagnosis/articleshow/102873814.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-102873844,width-1070,height-580,imgsize-61600,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-08-20 09:38:42",
+      "content": "Real story of Gauri Sawant, the character Sushmita Sen plays in 'Taali'",
+      "retrievedAt": "2023-08-21 19:05:24.716525",
+      "internal_id": "e2e14f74d2f45c8669422bbe7f66e6c0fad8214387f67d97fcc3eb7f3c05b48b",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1263,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Republic World",
+      "author": "Sadhna Mishra",
+      "title": "Dengue Fever: \u0921\u0947\u0902\u0917\u0942 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u0947 \u0932\u0915\u094d\u0937\u0923 \u0926\u093f\u0916\u0928\u0947 \u092a\u0930 \u0916\u093e\u0928\u093e \u0936\u0941\u0930\u0942 \u0915\u0930 \u0926\u0947\u0902 \u092f\u0947 \u092b\u0942\u0921\u094d\u0938, \u0928\u0939\u0940\u0902 \u0939\u094b\u0917\u0940 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938 \u0915\u092e \u0939\u094b\u0928\u0947 \u0915\u0940 \u091f\u0947\u0902\u0936\u0928",
+      "description": "\u092c\u093e\u0930\u093f\u0936 \u0915\u0947 \u0926\u093f\u0928\u094b\u0902 \u092e\u0947\u0902 \u0939\u0930 \u0924\u0930\u092b \u0921\u0947\u0902\u0917\u0942 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u093e \u0906\u0902\u0924\u0915 \u0939\u094b\u0924\u093e \u0939\u0948\u0964 \u092f\u0947 \u092e\u091a\u094d\u091b\u0930\u094b\u0902 \u0938\u0947 \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u0939\u0948 \u091c\u094b \u091c\u093e\u0928\u0932\u0947\u0935\u093e \u0939\u094b\u0924\u0940 \u0939\u0948\u0964 \u0910\u0938\u0947 \u092e\u0947\u0902 \u0906\u0907\u090f \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902 \u0907\u0938\u0915\u0947 \u0932\u0915\u094d\u0937\u0923 \u0926\u093f\u0916\u093e\u0908 \u0926\u0947\u0928\u0947 \u092a\u0930 \u0915\u094c\u0928 \u0938\u0947 \u092b\u0942\u0921\u094d\u0938 \u0916\u093e\u090f\u0902\u0964",
+      "url": "https://bharat.republicworld.com/lifestyle/health/foods-for-dengue-fever-start-eating-foods-see-symptoms-dengue-malaria-no-tension-for-decreasing-platelets",
+      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/169250800064e19f6091d28.jpeg",
+      "publishedAt": "2023-08-20 07:18:39",
+      "content": "Foods For Dengue Fever: , , - ... -? , ? - , , C , C, , - ... Sleeping Position: ? Disclaimer: , - REPUBLIC BHARAT ... Eye Flu: , ;",
+      "retrievedAt": "2023-08-21 19:05:23.321390",
+      "internal_id": "fd81e9c5f2081711a113bf19e958fd57ffdf4a1ba74f6c53116e8267a9b0f897",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1264,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Leganerd.com",
+      "author": "Daniela Giannace",
+      "title": "Malaria: un nuovo vaccino \u00e8 in fase di sperimentazione",
+      "description": "Un nuovo vaccino contro la malaria \u00e8 attualmente in fase di sperimentazione, offrendo promettenti risultati. Questo \u00e8 un importante sviluppo, dato che finora esisteva solo un vaccino, noto come \u201cRTS,S\u201d, che offriva solo una protezione parziale contro questa g\u2026",
+      "url": "https://leganerd.com/2023/08/20/malaria-un-nuovo-vaccino-e-in-fase-di-sperimentazione/",
+      "urlToImage": "https://leganerd.com/wp-content/uploads/2023/08/vaccino-malaria.jpg",
+      "publishedAt": "2023-08-20 07:07:25",
+      "content": "Un nuovo vaccino contro la malaria \u00e8 attualmente in fase di sperimentazione, offrendo promettenti risultati. Questo \u00e8 un importante sviluppo, dato che finora esisteva solo un vaccino, noto come \u201cRTS,\u2026 [+2827 chars]",
+      "retrievedAt": "2023-08-21 19:05:24.713481",
+      "internal_id": "023d2704dcaf65a1b57fa66258a0ec6ac105105fb7155f74f64957eb910a321a",
+      "publishedAtLabel": "Aug 20"
+    },
     {
       "id": 1255,
       "query": [
@@ -3373,244 +3607,6 @@
       "content": "Sp\u00e4testens mit der Pandemie gelangte die chinesische Millionenstadt Wuhan zu zweifelhaftem Weltruhm. Schnell verbreitete sich das Ger\u00fccht das Coronavirus k\u00e4me nicht wie angenommen auf einem Wildtierm\u2026 [+2657 chars]",
       "retrievedAt": "2023-08-13 19:05:14.019710",
       "internal_id": "0206adf313b9ea2acadba2a98c0c5e8a612fd89445225490ede437f04d77f455",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1063,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0\u09c7 \u09a8\u09a6\u09c0\u09ad\u09be\u0999\u09a8 \u09b0\u09cb\u09a7 \u0995\u09b0\u09a4\u09c7 \u09a8\u09cc\u0995\u09be\u09a4\u09c7\u0987 \u09ad\u09cb\u099f \u09a6\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7: \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0",
-      "description": "\u09b6\u09c7\u0996 \u09b9\u09be\u09b8\u09bf\u09a8\u09be\u09b0 \u09a8\u09c7\u09a4\u09c3\u09a4\u09cd\u09ac\u09c7 \u0986\u0993\u09af\u09bc\u09be\u09ae\u09c0 \u09b2\u09c0\u0997 \u09b8\u09b0\u0995\u09be\u09b0\u09c7\u09b0 \u0995\u09be\u099b\u09c7 \u09b8\u09be\u09a7\u09be\u09b0\u09a3 \u09ae\u09be\u09a8\u09c1\u09b7\u09c7\u09b0 \u09aa\u09cd\u09b0\u09a4\u09cd\u09af\u09be\u09b6\u09be \u09ac\u09c7\u09b6\u09bf \u09a5\u09be\u0995\u09c7 \u098f\u09ac\u0982 \u09a4\u09be \u09a4\u09bf\u09a8\u09bf \u09aa\u09c2\u09b0\u09a3 \u0995\u09b0\u09c7 \u0986\u09b8\u099b\u09c7\u09a8 \u09ac\u09b2\u09c7 \u09ae\u09a8\u09cd\u09a4\u09ac\u09cd\u09af \u0995\u09b0\u09c7\u099b\u09c7\u09a8 \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0 \u09a6\u09c0\u09aa\u09c1 \u09ae\u09a8\u09bf\u0964",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/news-504801",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/12/chandpur_dipumoni_pic-.jpg?itok=iR3VlTp9",
-      "publishedAt": "2023-08-12 11:19:37",
-      "content": "A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday, calling for efforts to control the mosquito vector population and minimise\u2026 [+86 chars]",
-      "retrievedAt": "2023-08-13 19:05:13.207507",
-      "internal_id": "3bd867c127792e9dbec2dffbc569d3f7da495f59f4621e3ef8bca971b1d9371e",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1064,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09ad\u09be\u09b0\u09a4\u09c7 \u0985\u09cd\u09af\u09be\u09ae\u09be\u099c\u09a8-\u0989\u09ac\u09be\u09b0\u09c7\u09b0 \u09ae\u09a4\u09cb \u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8\u09c7\u09b0 \u0985\u09b8\u09cd\u09a5\u09be\u09df\u09c0 \u0995\u09b0\u09cd\u09ae\u09c0\u09a6\u09c7\u09b0 \u09b8\u09be\u09ae\u09be\u099c\u09bf\u0995 \u09b8\u09c1\u09b0\u0995\u09cd\u09b7\u09be",
-      "description": "\u09e8\u09e6\u09e8\u09e6 \u09b8\u09be\u09b2\u09c7\u09b0 \u09b8\u09be\u09ae\u09be\u099c\u09bf\u0995 \u09a8\u09bf\u09b0\u09be\u09aa\u09a4\u09cd\u09a4\u09be \u0986\u0987\u09a8 \u0985\u09a8\u09c1\u09b8\u09be\u09b0\u09c7 \u0997\u09bf\u0997 \u0995\u09b0\u09cd\u09ae\u09c0\u09a6\u09c7\u09b0 \u09a6\u09c1\u09b0\u09cd\u0998\u099f\u09a8\u09be\u09b0 \u0995\u09cd\u09b7\u09a4\u09bf\u09aa\u09c2\u09b0\u09a3, \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af\u09ac\u09bf\u09ae\u09be \u0993 \u0985\u09ac\u09b8\u09b0 \u09ad\u09be\u09a4\u09be \u09a6\u09c7\u0993\u09df\u09be\u09b0 \u09ac\u09bf\u09b7\u09df\u09c7 \u099a\u09bf\u09a8\u09cd\u09a4\u09be\u09ad\u09be\u09ac\u09a8\u09be \u099a\u09b2\u099b\u09c7\u0964",
-      "url": "https://bangla.thedailystar.net/business/news-504786",
-      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/08/12/untitled_design_-_2023-08-12t165752.644.png",
-      "publishedAt": "2023-08-12 10:54:10",
-      "content": "A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday, calling for efforts to control the mosquito vector population and minimise\u2026 [+86 chars]",
-      "retrievedAt": "2023-08-13 19:05:13.211691",
-      "internal_id": "10144383b9a2cc434ef8903ea1b1bc726f40ce844ac98b5ec5cd5bdc5806946b",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1062,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Hubnetwork.in",
-      "author": "Hub Network",
-      "title": "Young boy dies in Garo Hills due to rabid dog bite, health authorities stress on rabies vaccination",
-      "description": "A horrifying case of death due to a rabid dog bite has come to the fore from West Garo Hills, which has brought to notice the need for immediate medical attention and rabies vaccinations in case of potential rabies exposure.",
-      "url": "https://hubnetwork.in/young-boy-dies-in-garo-hills-due-to-rabid-dog-bite-health-authorities-stress-on-rabies-vaccination/",
-      "urlToImage": "https://hubnetwork.in/wp-content/uploads/2023/08/rabid-dog-rabies-header-1024x575-1.webp",
-      "publishedAt": "2023-08-12 10:17:17",
-      "content": "Tura, Aug 12: A horrifying case of death due to a rabid dog bite has come to the fore from West Garo Hills, which has brought to notice the need for immediate medical attention and rabies vaccination\u2026 [+2605 chars]",
-      "retrievedAt": "2023-08-13 19:05:12.489095",
-      "internal_id": "d2b19b70ea1373255bab11064dd652bac290230c7fb684bb98e2d5f555105c0c",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1066,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09b0\u09cb\u0997\u09c0 \u09ac\u09c7\u09a1\u09bc\u09c7\u099b\u09c7 \u09e7\u09e6 \u0997\u09c1\u09a3, \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\u09c7 \u09b8\u09cd\u09af\u09be\u09b2\u09be\u0987\u09a8 \u0986\u09ae\u09a6\u09be\u09a8\u09bf: \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0",
-      "description": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09b0\u09cb\u0997\u09c0 \u09ac\u09c7\u09a1\u09bc\u09c7\u099b\u09c7 \u09e7\u09e6 \u0997\u09c1\u09a3, \u09aa\u09cd\u09b0\u09df\u09cb\u099c\u09a8\u09c7 \u09b8\u09cd\u09af\u09be\u09b2\u09be\u0987\u09a8 \u0986\u09ae\u09a6\u09be\u09a8\u09bf: \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0thedailystar.net",
-      "url": "https://bangla.thedailystar.net/health/disease/news-504781",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/12/jahid_malek_12aug23.jpg",
-      "publishedAt": "2023-08-12 09:44:01",
-      "content": "A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday, calling for efforts to control the mosquito vector population and minimise\u2026 [+86 chars]",
-      "retrievedAt": "2023-08-13 19:05:13.215350",
-      "internal_id": "b1de5fbd2065f9edae3e384b0c429042938fd46aa7b378d39b42dad4a4560c68",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1065,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09a1\u09bf\u09ae\u09c7\u09b0 \u0985\u09b8\u09cd\u09ac\u09be\u09ad\u09be\u09ac\u09bf\u0995 \u09ae\u09c2\u09b2\u09cd\u09af\u09ac\u09c3\u09a6\u09cd\u09a7\u09bf, \u0995\u09be\u09aa\u09cd\u09a4\u09be\u09a8 \u09ac\u09be\u099c\u09be\u09b0\u09c7 \u09e9 \u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8\u0995\u09c7 \u099c\u09b0\u09bf\u09ae\u09be\u09a8\u09be",
-      "description": "\u09a1\u09bf\u09ae\u09c7\u09b0 \u0985\u09b8\u09cd\u09ac\u09be\u09ad\u09be\u09ac\u09bf\u0995 \u09ae\u09c2\u09b2\u09cd\u09af\u09ac\u09c3\u09a6\u09cd\u09a7\u09bf, \u0995\u09be\u09aa\u09cd\u09a4\u09be\u09a8 \u09ac\u09be\u099c\u09be\u09b0\u09c7 \u09e9 \u09aa\u09cd\u09b0\u09a4\u09bf\u09b7\u09cd\u09a0\u09be\u09a8\u0995\u09c7 \u099c\u09b0\u09bf\u09ae\u09be\u09a8\u09bethedailystar.net",
-      "url": "https://bangla.thedailystar.net/health/food/daily-commodity-price/news-504771",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/12/jabbar.jpg?itok=_unKQ-XI",
-      "publishedAt": "2023-08-12 09:24:03",
-      "content": "A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday, calling for efforts to control the mosquito vector population and minimise\u2026 [+86 chars]",
-      "retrievedAt": "2023-08-13 19:05:13.213844",
-      "internal_id": "2d9335dbce582289e9dd89b56d44c43d5e7a033962704e5dff7272c6c01decb9",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1055,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Perak records increase of 218.1% in dengue cases, one fatality",
-      "description": "KAMPAR: The cumulative number of dengue fever cases in Perak from January to July this year, has increased by 218.1% with 2005 cases, compared with 646 cases in the corresponding period last year. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/08/12/perak-records-increase-of-2181-in-dengue-cases-one-fatality",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/12/2227637.jpg",
-      "publishedAt": "2023-08-12 07:03:00",
-      "content": "KAMPAR: The cumulative number of dengue fever cases in Perak from January to July this year, has increased by 218.1% with 2005 cases, compared with 646 cases in the corresponding period last year. S\u2026 [+1052 chars]",
-      "retrievedAt": "2023-08-13 07:05:32.513809",
-      "internal_id": "654f7b461c293784036638034bc162fb9fa8a139bc6117a2a60a14dc1b07e46a",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1076,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Kasus DBD Melonjak, Edi Instruksikan Rumah Sakit dan Faskes Siaga",
-      "description": "KalbarOnline, Pontianak \u2013 Kasus Demam Berdarah Dengue (DBD) di Kota Pontianak mengalami The post Kasus DBD Melonjak, Edi Instruksikan Rumah Sakit dan Faskes Siaga appeared first on KalbarOnline.Com.",
-      "url": "https://www.kalbaronline.com/2023/08/12/kasus-dbd-melonjak-edi-instruksikan-rumah-sakit-dan-faskes-siaga/",
-      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/08/IMG-20230812-WA0015.jpg",
-      "publishedAt": "2023-08-12 05:05:33",
-      "content": "KalbarOnline, Pontianak \u2013 Kasus Demam Berdarah Dengue (DBD) di Kota Pontianak mengalami lonjakan. Menurut data Dinas Kesehatan (Dinkes) Kota Pontianak, mulai dari Januari 2023 hingga saat ini tercata\u2026 [+2685 chars]",
-      "retrievedAt": "2023-08-14 07:05:54.272675",
-      "internal_id": "a4a41068ecee618b138b040d64cfab8e4f76f8a6e72e4f608ea1c012b7a8136d",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1059,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Mariah Aquino",
-      "title": "Brasil enfrenta escassez de testes para doen\u00e7as como chikungunya e tuberculose",
-      "description": "Em of\u00edcios, secret\u00e1rios de Sa\u00fade estaduais alertaram governo federal sobre situa\u00e7\u00e3o cr\u00edtica do abastecimento de testes laboratoriais",
-      "url": "https://www.metropoles.com/brasil/brasil-enfrenta-escassez-de-testes-para-doencas-como-chikungunya-e-tuberculose",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/08/11181119/laboratorio-testes-laboratoriais.jpg",
-      "publishedAt": "2023-08-12 05:00:25",
-      "content": "Os Laborat\u00f3rios Centrais de Sa\u00fade P\u00fablica (Lacens) s\u00e3o considerados uma refer\u00eancia do Sistema \u00danico de Sa\u00fade (SUS) para diagn\u00f3sticos laboratoriais. As unidades realizam testes para doen\u00e7as diversas e\u2026 [+4549 chars]",
-      "retrievedAt": "2023-08-13 07:05:34.702232",
-      "internal_id": "ad6c88bdc874b6d1a244c8a51b71760bc87d2467e0d4445170351030f0048e9d",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1053,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "La r\u00e9daction",
-      "title": "Infographie. Dengue, zika, chikungunya\u2026 quelles sont les r\u00e9gions les plus concern\u00e9es ?",
-      "description": "De plus en plus implant\u00e9 en Europe et en France, le moustique-tigre y propage des maladies comme la dengue, le zika ou encore le chikungunya. Cette ann\u00e9e, 256 cas ont d\u00e9j\u00e0 \u00e9t\u00e9 enregistr\u00e9s en m\u00e9tropole.",
-      "url": "https://www.ledauphine.com/sante/2023/08/12/dengue-zika-chikungunya-quelles-sont-les-regions-les-plus-concernees",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/129D1AAE-989D-47A7-BB5A-AB24CC1B1B5A/FB1200/photo-1691764448.jpg",
-      "publishedAt": "2023-08-12 05:00:00",
-      "content": "Ce n'est plus une surprise. Ann\u00e9e apr\u00e8s ann\u00e9e, le moustique-tigre continue de s'implanter en France et en Europe, propageant des maladies telles que la dengue, le zika, ou encore le chikungunya. L'O\u2026 [+2978 chars]",
-      "retrievedAt": "2023-08-13 07:05:32.507438",
-      "internal_id": "a824384a8244b635533755507b77059b540074341953105fd08d7e1fa0982a88",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1075,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year",
-      "description": "DHAKA: Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The government\u2019s Directorate General of Health Services reports the 2023 death toll\u2026",
-      "url": "https://english.khabarhub.com/2023/12/314213/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/08/Dengue_Dhaka_Photo-AP.jpg",
-      "publishedAt": "2023-08-12 04:25:54",
-      "content": "A child suffering from dengue is helped by a family member as she walks inside the dengue ward of Mugda Medical College and Hospital in Dhaka, Bangladesh/Photo: APDHAKA: Bangladesh is struggling to d\u2026 [+1147 chars]",
-      "retrievedAt": "2023-08-14 07:05:54.270681",
-      "internal_id": "438da0438723971cb078dad0252353cf4c87924a4cb3f5d887fe4816ac73af1b",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1056,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Techno-science.net",
-      "author": "Alain REDBRAN",
-      "title": "Virus \"exotiques\" en France: un sujet plus que jamais d'actualit\u00e9",
-      "description": "Virus Usutu, virus Zika, virus du chikungunya ou de la dengue... Au cours des derni\u00e8res ann\u00e9es, ces noms aux consonances exotiques se sont fait une place dans les m\u00e9dias fran\u00e7ais. Et pour...",
-      "url": "https://www.techno-science.net/actualite/virus-exotiques-france-sujet-plus-jamais-actualite-N23561.html",
-      "urlToImage": "https://www.techno-science.net/illustration/Libre/PXB/51/coronavirus-5174671-1280.jpg",
-      "publishedAt": "2023-08-12 04:00:10",
-      "content": "Virus Usutu, virus Zika, virus du chikungunya ou de la dengue... Au cours des derni\u00e8res ann\u00e9es, ces noms aux consonances exotiques se sont fait une place dans les m\u00e9dias fran\u00e7ais.Et pour cause: respo\u2026 [+16996 chars]",
-      "retrievedAt": "2023-08-13 07:05:32.516143",
-      "internal_id": "c39cc3ef1e1229f4de28546ce1ac4419cb4d928ff9d9769447303af8abd6019f",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1054,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "La OMS insta a \"actuar con rapidez\" ante el aumento de los casos de dengue en Bangladesh",
-      "description": "Ante el aumento en los casos de dengue que est\u00e1 sufriendo Bangladesh, la Organizaci\u00f3n Mundial de la salud (OMS) ha pedido \"esfuerzos para controlar la poblaci\u00f3n de mosquitos vectores y minimizar la exposici\u00f3n individual\" con el uso de repelentes de mosquitos \u2026",
-      "url": "https://www.europapress.es/internacional/noticia-oms-insta-actuar-rapidez-aumento-casos-dengue-bangladesh-20230812051617.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230812051617_1200.jpg",
-      "publishedAt": "2023-08-12 03:16:17",
-      "content": "MADRID, 12 Ago. (EUROPA PRESS) - Ante el aumento en los casos de dengue que est\u00e1 sufriendo Bangladesh, la Organizaci\u00f3n Mundial de la salud (OMS) ha pedido \"esfuerzos para controlar la poblaci\u00f3n de\u2026 [+3623 chars]",
-      "retrievedAt": "2023-08-13 07:05:32.509636",
-      "internal_id": "86b83a8441d998f3319222828672128463976cdbc5294f7c2d0cc2a83962b1f4",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1060,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": "Google News",
-      "title": "'I feel like I have Ebola': Hong Kong mpox patient warns fear of ... - Hong Kong Free Press",
-      "description": "Ebola -- Hong Kong'I feel like I have Ebola': Hong Kong mpox patient warns fear of ... ; ;",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMimAFodHRwczovL2hvbmdrb25nZnAuY29tLzIwMjMvMDgvMTIvaS1mZWVsLWxpa2UtaS1oYXZlLWVib2xhLWhvbmcta29uZy1tcG94LXBhdGllbnQtd2FybnMtZmVhci1vZi1lbmZvcmNlZC1pc29sYXRpb24tbWF5LXN0b3AtcGVvcGxlLXJlcG9ydGluZy1pbmZlY3Rpb25zL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-12 02:00:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-13 07:05:35.123990",
-      "internal_id": "060f4554335c97f22b6a8d6d6f283916e8c5cc8793917450341bb9a1b537d502",
       "publishedAtLabel": "Aug 12"
     }
   ]
