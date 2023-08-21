@@ -1,8 +1,153 @@
 {
-  "last_updated": "2023-08-20 19:05",
+  "last_updated": "2023-08-21 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 1255,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Maryland reports first locally acquired malaria case in 40 years - NBC News",
+      "description": "Maryland reports first locally acquired malaria case in 40 yearsNBC News Maryland health officials report positive case of 'locally acquired' malariaFox News Positive case of 'locally acquired' malaria found in Maryland, health department saysWJZ First case o\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171655498",
+      "urlToImage": null,
+      "publishedAt": "2023-08-20 04:32:08",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-08-21 07:05:45.303167",
+      "internal_id": "033a0612421379f2a787f862944e3274fb2b6978160859df722b1669c5ab8dbd",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1252,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thebaltimorebanner.com",
+      "author": "Meredith Cohn, Sarah True",
+      "title": "Locally acquired case of malaria found in Maryland for first time in 40 years...",
+      "description": "The Maryland case involves a strain that is different from the strain seen so far in Florida and Texas, and can be more severe, state health officials said Friday afternoon.",
+      "url": "https://www.thebaltimorebanner.com/community/public-health/malaria-locally-acquired-maryland-5J62V5IWIJB3HOSGZV6I3QG4VI/",
+      "urlToImage": "https://www.thebaltimorebanner.com/resizer/sGOk2zNmIpQLP4nOh6E6zBPC-4o=/657x0/filters:quality(70):format(url)/cloudfront-us-east-1.images.arcpublishing.com/baltimorebanner/QLIEOKC34NHYVIFU3WT7AHGAYA.jpg",
+      "publishedAt": "2023-08-20 03:40:40",
+      "content": "Maryland has recorded its first case of locally acquired malaria in four decades, setting off concern among public health officials about the mosquito-borne disease known as a major global killer. T\u2026 [+3217 chars]",
+      "retrievedAt": "2023-08-21 07:05:45.285538",
+      "internal_id": "d8bd2f99311cda862539ea46fa532535a0b535981b4e7dc0f90575859f6eb28b",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1253,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Dennis Romero and Caryn Littler",
+      "title": "Maryland reports first locally acquired malaria case in 40 years",
+      "description": "Another case of rare \"locally acquired\" malaria, this one in the Washington, D.C. area, has been reported amid a string of such infections since May, officials said Friday.",
+      "url": "https://www.nbcnews.com/health/health-news/maryland-reports-first-locally-acquired-malaria-case-40-years-rcna100813",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230819-malaria-mosquito-cc-0920p-13c1ad.jpg",
+      "publishedAt": "2023-08-20 01:50:59",
+      "content": "Another case of rare \"locally acquired\" malaria, this one in the Washington, D.C. area, has been reported amid a string of such infections since May, officials said Friday. The unidentified patient \u2026 [+1775 chars]",
+      "retrievedAt": "2023-08-21 07:05:45.294385",
+      "internal_id": "7d727c9a2a42962ca669b00f5c8dda99342f0f363d1d27d66b721fc79d05e429",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1251,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Saman Husain",
+      "title": "150 km, 15 workers, six routes: \u2018Mosquito terminator\u2019 begins annual trip around Delhi\u2019",
+      "description": "As per MCD\u2019s August 7 report, a total of 348 dengue cases have been reported in the city so far this year. In the first week alone, the city saw 105 cases. A source in the civic body said the number has increased over the last week.",
+      "url": "https://indianexpress.com/article/cities/delhi/150-km-15-workers-six-routes-mosquito-terminator-begins-annual-trip-around-delhi-8900367/",
+      "urlToImage": "https://images.indianexpress.com/2023/08/delhi-mosquito.jpeg",
+      "publishedAt": "2023-08-20 00:26:45",
+      "content": "Around 9 am on Saturday, 15 workers from the Northern Railways and MCD, comprising health and malaria inspectors, field workers and drivers, set off on a 150-km journey to spray larvicide on railway \u2026 [+3002 chars]",
+      "retrievedAt": "2023-08-21 07:05:44.527531",
+      "internal_id": "8443c607b34fa961dd26677c3f2c8ef280529623d946e8b4f1985b0395573d83",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1250,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Whooping cough case reported in Rompin",
+      "description": "KUANTAN: The Pahang Health Department has confirmed that a pertussis (whooping cough) case has been reported in Kampung Bahagia, Rompin. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/08/20/whooping-cough-case-reported-in-rompin",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-08-19 23:00:00",
+      "content": "KUANTAN: The Pahang Health Department has confirmed that a pertussis (whooping cough) case has been reported in Kampung Bahagia, Rompin. Its director Datuk Dr Nor Azimi Yunus said the Rompin Distric\u2026 [+897 chars]",
+      "retrievedAt": "2023-08-21 07:05:43.218903",
+      "internal_id": "fc5cce0dbfc1be4dc12d6a6fa558af9d8fdf51582c539ba1073e0426866f8691",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1256,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Maryland health officials report positive case of 'locally acquired' malaria - Fox News",
+      "description": "Maryland health officials report positive case of 'locally acquired' malariaFox News Positive case of 'locally acquired' malaria found in Maryland, health department saysWJZ Case of locally acquired malaria reported in MarylandCNN Maryland resident tests posi\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171654436",
+      "urlToImage": null,
+      "publishedAt": "2023-08-19 22:52:04",
+      "content": "\"Someone's been mean to you! Tell me who it is, so I can punch him tastefully.\" -- Ralph Bakshi's Mighty Mouse",
+      "retrievedAt": "2023-08-21 07:05:45.305120",
+      "internal_id": "6d4ffbb236dd3ce79fa2cec18f70792b43e45bbb1e370b7a8dff208e912fa1a9",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1257,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Post Reporters",
+      "title": "Songkhla province detects first mpox case",
+      "description": "Songkhla: The Songkhla Provincial Public Health Office has detected the first monkeypox (mpox) case in the province.",
+      "url": "https://www.bangkokpost.com/thailand/general/2632329/songkhla-province-detects-first-mpox-case",
+      "urlToImage": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "publishedAt": "2023-08-19 22:00:00",
+      "content": "Songkhla: The Songkhla Provincial Public Health Office has detected the first monkeypox (mpox) case in the province. The patient was reported to be a 31-year-old Thai man and native of Songkhla. The\u2026 [+1899 chars]",
+      "retrievedAt": "2023-08-21 07:05:45.992434",
+      "internal_id": "b876f60871a546d386c4a4fc9ec4451c777dcc23bc67c7b7feda5460bddf280e",
+      "publishedAtLabel": "Aug 19"
+    },
+    {
+      "id": 1254,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Adam Sabes",
+      "title": "Maryland health officials report positive case of 'locally acquired' malaria",
+      "description": "Maryland health officials said on Friday that a positive case of \"locally acquired\" malaria was detected in the National Capital Region.",
+      "url": "https://www.foxnews.com/health/maryland-health-officials-report-positive-case-locally-acquired-malaria",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/Mosquito.jpg",
+      "publishedAt": "2023-08-19 20:30:13",
+      "content": "Health officials in Maryland say that a positive case of \"locally acquired\" malaria was detected in the National Capital Region. The Maryland Department of Health said it confirmed and reported the \u2026 [+1490 chars]",
+      "retrievedAt": "2023-08-21 07:05:45.300569",
+      "internal_id": "0777525a93afafddc5857646c6fe5ea9c82bab99466db0a49ae55f3670ad83bb",
+      "publishedAtLabel": "Aug 19"
+    },
     {
       "id": 1248,
       "query": [
@@ -3467,150 +3612,6 @@
       "retrievedAt": "2023-08-13 07:05:35.123990",
       "internal_id": "060f4554335c97f22b6a8d6d6f283916e8c5cc8793917450341bb9a1b537d502",
       "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1052,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Dengue Outbreak in Bangladesh Sparks Alarm After 364 People Die This Year",
-      "description": "Monsoon season can exacerbate the outbreak as infected people overwhelm hospitals",
-      "url": "https://www.voanews.com/a/dengue-outbreak-in-bangladesh-sparks-alarm-after-364-people-die-this-year-/7222219.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-6a72-08db9ac66fa2_cx0_cy10_cw0_w1200_r1.jpg",
-      "publishedAt": "2023-08-12 00:10:22",
-      "content": "DHAKA, Bangladesh Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The govern\u2026 [+3523 chars]",
-      "retrievedAt": "2023-08-13 07:05:32.504808",
-      "internal_id": "2ead40b0773d13c76164b3d5651fe3ee093e919f08292a235ad7dd0858972713",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1061,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Elconfidencialdigital.com",
-      "author": "Redacci\u00f3n",
-      "title": "\u00bfC\u00f3mo conservar bien los alimentos a pesar del calor?",
-      "description": "En la Uni\u00f3n Europea se notifican m\u00e1s de 350.000 enfermedades transmitidas por los alimentos cada a\u00f1o, seg\u00fan advierte la&nbsp;Autoridad Europea de Seguridad Alimentaria (EFSA). Las m\u00e1s comunes est\u00e1n causadas por Campylobacter, Salmonella, Yersinia,",
-      "url": "https://www.elconfidencialdigital.com/articulo/te_lo_aclaro/como-conservar-alimentos-pesar-calor/20230810193702621908.html",
-      "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/05/11/2023051111030323513.jpg",
-      "publishedAt": "2023-08-11 23:00:00",
-      "content": "En la Uni\u00f3n Europea se notifican m\u00e1s de 350.000 enfermedades transmitidas por los alimentos cada a\u00f1o, seg\u00fan advierte la Autoridad Europea de Seguridad Alimentaria (EFSA). Las m\u00e1s comunes est\u00e1n causad\u2026 [+5055 chars]",
-      "retrievedAt": "2023-08-13 07:05:36.171153",
-      "internal_id": "8ac37a85776995fb7d06ae3482e498eb5dcb3bed6db77a40431ab1cfb4ac0ee3",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1050,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Bangladesh struggles to control dengue outbreak - CGTN America",
-      "description": "Bangladesh struggles to control dengue outbreak CGTN America Bangladesh grapples with record deadly outbreak of dengue fever; AP reports The Economic Times Dengue outbreak kills hundreds in Bangladesh Associated Press \u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC1czQmJiejRiUnNnmAEB?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-11 22:18:49",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-13 07:05:32.498658",
-      "internal_id": "ecc0cea969c2310a14e8ab8b53ac62b15963f0fbd95c0e0a44499d18e867d2d3",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1039,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Dengue outbreak in Bangladesh sparks alarm after 364 people die this year and infections rise",
-      "description": "DHAKA, Bangladesh (AP): Bangladesh is struggling to deal with higher casualties and infections from dengue this year, with officials warning that the death toll this month could break records. The government\u2019s Directorate General of Health Services reports th\u2026",
-      "url": "https://thehillstimes.in/international/dengue-outbreak-in-bangladesh-sparks-alarm-after-364-people-die-this-year-and-infections-rise",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/08/Anchor-9.jpg",
-      "publishedAt": "2023-08-11 19:00:33",
-      "content": "DHAKA, Bangladesh (AP): Bangladesh is struggling to deal with higher casualties and infections fromdengue this year, with officials warning that the death toll this month could break records.The gove\u2026 [+3156 chars]",
-      "retrievedAt": "2023-08-12 19:05:08.365219",
-      "internal_id": "f5d7c323db34549c1012e32772c03f2d79c6ef926239a187321611685c075561",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1038,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue, 69mila casi in Bangladesh. Oms: \"Ondata insolita\" - Adnkronos",
-      "description": "Dengue, 69mila casi in Bangladesh. Oms: \"Ondata insolita\" Adnkronos",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmFkbmtyb25vcy5jb20vaW50ZXJuYXppb25hbGUvZXN0ZXJpL2Rlbmd1ZS02OW1pbGEtY2FzaS1pbi1iYW5nbGFkZXNoLW9tcy1vbmRhdGEtaW5zb2xpdGFfNUxoV3dXdVRxQnFVYTl2Q0NvNWZOb9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-11 17:44:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-12 19:05:08.361183",
-      "internal_id": "7c1679669b6059dbc58d20435456b67ab3f507b0f63f1691560ba5b903c70ece",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1049,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Publico.pt",
-      "author": "publico@publico.pt",
-      "title": "Portugal registou mais casos de mpox no \u00faltimo m\u00eas do que o resto da Europa junta",
-      "description": "O surto identificado pela Direc\u00e7\u00e3o-Geral da Sa\u00fade no final de Julho \u00e9, para j\u00e1, caso isolado no continente europeu. A OMS alerta para a necessidade de vacinar as pessoas com maior risco de infec\u00e7\u00e3o.",
-      "url": "https://www.publico.pt/2023/08/11/ciencia/noticia/portugal-registou-casos-mpox-ultimo-mes-resto-europa-junta-2060017",
-      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1833871?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
-      "publishedAt": "2023-08-11 17:41:34",
-      "content": "A subida de casos confirmados de mpox (v\u00edrus monkeypox, anteriormente conhecido como var\u00edola-dos-macacos) n\u00e3o \u00e9 muito significativa na Europa \u2013 com excep\u00e7\u00e3o \u00e0 regra para Portugal. Nas \u00faltimas quatro \u2026 [+492 chars]",
-      "retrievedAt": "2023-08-12 19:05:10.252138",
-      "internal_id": "6aeb563194dcff96f5755890618e6fa9e54d97615d636b5a95a95fcd550c4256",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1035,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Police Officer Dies Of Rabies 3 Months After Dog Bite",
-      "description": "A Assistant Sub-Inspector (ASI) of the Jammu and Kashmir Police died of rabies on Friday, three months after being bitten by a dog in Ramban district, an official said.",
-      "url": "https://www.ndtv.com/cities/police-officer-dies-of-rabies-3-months-after-dog-bite-4291295",
-      "urlToImage": "https://i.ndtvimg.com/i/2018-05/stray-dogs-generic_650x400_71525256961.jpg",
-      "publishedAt": "2023-08-11 17:40:55",
-      "content": "The cop was attacked by a stray dog while he was performing duty on May 11. (Representational) Banihal/Jammu: A Assistant Sub-Inspector (ASI) of the Jammu and Kashmir Police died of rabies on Friday\u2026 [+712 chars]",
-      "retrievedAt": "2023-08-12 19:05:07.600281",
-      "internal_id": "f6d9813965d2bb118905cd2b09b34abf94c42dc0ecbfe5496cb1a69410d2e1b1",
-      "publishedAtLabel": "Aug 11"
-    },
-    {
-      "id": 1044,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "Siguen las acciones para reducir los elevados casos de dengue en Bol\u00edvar",
-      "description": "Un mes ha pasado desde que se declar\u00f3 la Alerta Roja Hospitalaria en Bol\u00edvar. La medida fue adoptada por la Gobernaci\u00f3n del departamento debido al progresivo aumento de los casos de dengue en los distintos municipios, que hasta principios de julio contabiliza\u2026",
-      "url": "https://www.eluniversal.com.co/regional/bolivar/siguen-las-acciones-para-reducir-los-elevados-casos-de-dengue-en-bolivar-YK8783908",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/229c0/800d686/none/13704/XVES/dengue_8257340_20230811121130.jpg",
-      "publishedAt": "2023-08-11 17:21:07",
-      "content": "Un mes ha pasado desde que se declar\u00f3 la Alerta Roja Hospitalaria en Bol\u00edvar. La medida fue adoptada por la Gobernaci\u00f3n del departamento debido al progresivo aumento de los casos de dengue en los dis\u2026 [+3508 chars]",
-      "retrievedAt": "2023-08-12 19:05:08.376996",
-      "internal_id": "0fb80915aac61aea97b3c26f148304e1612cec80a3c07e9584ebd57eef8eb1a7",
-      "publishedAtLabel": "Aug 11"
     }
   ]
 }
