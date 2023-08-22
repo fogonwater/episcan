@@ -1,8 +1,117 @@
 {
-  "last_updated": "2023-08-21 19:05",
+  "last_updated": "2023-08-22 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 13,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 1275,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigeria: Mosquito Day - Reps Seek State of Emergency On Malaria",
+      "description": "[Leadership] House of Representatives has urged the federal government to declare a state of emergency on Malaria, describing it as a deadly parasite with potential to inflict woes on Nigerians.",
+      "url": "https://allafrica.com/stories/202308210055.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-08-21 06:37:16",
+      "content": "House of Representatives has urged the federal government to declare a state of emergency on Malaria, describing it as a deadly parasite with potential to inflict woes on Nigerians. The chairman, Ho\u2026 [+2103 chars]",
+      "retrievedAt": "2023-08-22 07:05:35.723056",
+      "internal_id": "1df527d8099bcfadf8a3bb413847a73791ecf2ad4bb072e4a1c908635883c217",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1278,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Descubren el \"escudo de invisibilidad\" del virus chikungunya, podr\u00eda conducir a vacunas o tratamientos",
+      "description": "Investigadores de la Facultad de Medicina Albert Einstein, en Estados Unidos, han descubierto que el virus responsable de la fiebre chikungunya puede propagarse directamente de c\u00e9lula a c\u00e9lula, resolviendo quiz\u00e1s el viejo misterio de c\u00f3mo el virus, que se est\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-descubren-escudo-invisibilidad-virus-chikungunya-podria-conducir-vacunas-tratamientos-20230821074949.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230821074949_1200.jpg",
+      "publishedAt": "2023-08-21 05:49:49",
+      "content": "MADRID, 21 Ago. (EUROPA PRESS) - Investigadores de la Facultad de Medicina Albert Einstein, en Estados Unidos, han descubierto que el virus responsable de la fiebre chikungunya puede propagarse di\u2026 [+4714 chars]",
+      "retrievedAt": "2023-08-22 07:05:36.547975",
+      "internal_id": "38f7a017ab76a1f0f0472546b08d239c44d93a2a05833a4c92bd482287422c26",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1274,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Mosquito Day - Declare Emergency On Malaria, Reps Urge Federal Govt",
+      "description": "[Leadership] The House of Representatives has urged the Federal Government to declare a state of emergency on Malaria, describing it as a deadly dead with potential to inflict woes on Nigerians.",
+      "url": "https://allafrica.com/stories/202308210033.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-08-21 05:35:36",
+      "content": "The House of Representatives has urged the Federal Government to declare a state of emergency on Malaria, describing it as a deadly dead with potential to inflict woes on Nigerians. The chairman, Ho\u2026 [+3945 chars]",
+      "retrievedAt": "2023-08-22 07:05:35.719814",
+      "internal_id": "5e226bf61263999af7a12e7e8ef56f254fc190ac45a7c4e8a43786698b78a9c1",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1273,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Maryland Reports First Case Of Locally Acquired Malaria After 40 Years; Know All About The Disease",
+      "description": "The unidentified patient from Maryland's National Capital Region is recovering after being hospitalized with the infection, health officials said.",
+      "url": "https://www.medicaldaily.com/maryland-reports-first-case-locally-acquired-malaria-after-40-years-know-all-about-disease-470689",
+      "urlToImage": "https://d.medicaldaily.com/en/full/433364/malaria.jpg",
+      "publishedAt": "2023-08-21 05:02:44",
+      "content": "A Maryland resident has tested positive for the state's first case of locally acquired malaria after 40 years. The unidentified patient from the National Capital Region is recovering after being hosp\u2026 [+2267 chars]",
+      "retrievedAt": "2023-08-22 07:05:35.718093",
+      "internal_id": "32435d1755487f7156bf6323189b83fd4916690f12795242b0f98623eb3af161",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1271,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "Bol\u00edvar, en el brote de dengue m\u00e1s fuerte de los \u00faltimos a\u00f1os",
+      "description": "Los municipios de Bol\u00edvar est\u00e1n en alerta roja epidemiol\u00f3gica por cuenta del aumento en los casos de dengue, una enfermedad transmitida por la picadura del mosquito Aedes aegypti, el cual se reproduce en aguas estancadas.",
+      "url": "https://www.eluniversal.com.co/regional/bolivar/bolivar-en-el-brote-de-dengue-mas-fuerte-de-los-ultimos-anos-EB8838273",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1225x686/425c0/800d686/none/13704/UCUW/dengue-archivo_8311242_20230820184923.jpg",
+      "publishedAt": "2023-08-21 05:00:00",
+      "content": "Los municipios de Bol\u00edvar est\u00e1n en alerta roja epidemiol\u00f3gica por cuenta del aumento en los casos de dengue, una enfermedad transmitida por la picadura del mosquito Aedes aegypti, el cual se reproduc\u2026 [+5415 chars]",
+      "retrievedAt": "2023-08-22 07:05:35.154975",
+      "internal_id": "e1f7a615614abb994912e1f18bd0fc39d13654c8dc285d90657fc11182476585",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1272,
+      "query": [
+        "dengue",
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod: 19 deaths from leptospirosis, dengue in NegOcc",
+      "description": "Bacolod City \u2013 Fatalities due to suspected leptospirosis and dengue cases in Negros Occidental have further increased to 19, according to the morbidity week 32 report of the Provincial Health Office, for the period from January 1 to August 12 this year. Death\u2026",
+      "url": "https://rpnradio.com/bacolod-19-deaths-from-leptospirosis-dengue-in-negocc/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/08/leptospirosis-deaths-in-negocc.jpg",
+      "publishedAt": "2023-08-21 00:43:03",
+      "content": "Bacolod City \u2013 Fatalities due to suspected leptospirosis and dengue cases in Negros Occidental have further increased to 19, according to the morbidity week 32 report of the Provincial Health Office,\u2026 [+1477 chars]",
+      "retrievedAt": "2023-08-22 07:05:35.161585",
+      "internal_id": "7d8a862433994668b9ac7a8ece912b1177cd00cb35294833ac615f933dedd6ec",
+      "publishedAtLabel": "Aug 21"
+    },
     {
       "id": 1266,
       "query": [
@@ -199,6 +308,24 @@
       "content": "Real story of Gauri Sawant, the character Sushmita Sen plays in 'Taali'",
       "retrievedAt": "2023-08-21 19:05:24.716525",
       "internal_id": "e2e14f74d2f45c8669422bbe7f66e6c0fad8214387f67d97fcc3eb7f3c05b48b",
+      "publishedAtLabel": "Aug 20"
+    },
+    {
+      "id": 1276,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "WTOP",
+      "author": "Kate Corliss",
+      "title": "Malaria in Maryland: How health officials say you can protect yourself from mosquitoes - WTOP News",
+      "description": "The Prince George\u2019s County Health Department is advising residents on how to steer clear of mosquito bites, following Maryland\u2019s first locally acquired malaria case in more than 40 years.",
+      "url": "https://wtop.com/prince-georges-county/2023/08/malaria-in-maryland-how-health-officials-say-you-can-protect-yourself-from-mosquitoes/",
+      "urlToImage": "https://wtop.com/wp-content/uploads/2023/05/MOSQUITO.GettyImages-1034036804-e1692473626523.jpg",
+      "publishedAt": "2023-08-20 08:40:48",
+      "content": "The Prince George\u2019s County Health Department is advising residents on how to steer clear of mosquito bites, following the announcement of Maryland\u2019s first locally acquired malaria case in more than 4\u2026 [+2648 chars]",
+      "retrievedAt": "2023-08-22 07:05:35.728611",
+      "internal_id": "8b5013ca9e2c7c52c115dc24fcf95dbdf2a436257ca8a310c32189cdb4cbba11",
       "publishedAtLabel": "Aug 20"
     },
     {
@@ -1190,6 +1317,24 @@
       "content": "La Agencia de Salud P\u00fablica de Barcelona ha declarado un brote de viruela del mono (Mpox) en la ciudad, a ra\u00edz de la detecci\u00f3n de seis casos en el \u00faltimo mes, sin ninguna relaci\u00f3n epidemiol\u00f3gica entr\u2026 [+1442 chars]",
       "retrievedAt": "2023-08-19 19:05:11.092378",
       "internal_id": "560fdd8311ecfe23c2b2f6cb0a41eada227460740877216840a5200d55b16086",
+      "publishedAtLabel": "Aug 18"
+    },
+    {
+      "id": 1277,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Bajura reports nine cases of scrub typhus in month",
+      "description": "BAJURA: The cases of scrub typhus have increased in the District Hospital Bajura amidst the monsoon season. According to the hospital source, in the past one month, the hospital recorded nine cases of scrub typhus. In addition to this, a case of malaria and t\u2026",
+      "url": "https://english.khabarhub.com/2023/18/314912/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/09/Scrub_typus_cover.jpg",
+      "publishedAt": "2023-08-18 09:45:09",
+      "content": "BAJURA: The cases of scrub typhus have increased in the District Hospital Bajura amidst the monsoon season. According to the hospital source, in the past one month, the hospital recorded nine cases \u2026 [+456 chars]",
+      "retrievedAt": "2023-08-22 07:05:35.730484",
+      "internal_id": "44ee0d3f634a9a5d2fb5fe802a355551549b530ecaf657fb58dc674e60ab64fb",
       "publishedAtLabel": "Aug 18"
     },
     {
@@ -3464,150 +3609,6 @@
       "retrievedAt": "2023-08-14 19:05:28.573496",
       "internal_id": "95b2904ae4d67983cbbaa2ed0f7788527633cbc8db1fbad76e5999b357466230",
       "publishedAtLabel": "Aug 13"
-    },
-    {
-      "id": 1078,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Businessam.be",
-      "author": "Corneel Vanfleteren",
-      "title": "Maken malaria en andere infectiezieken een comeback? \u201cEr is een verhoogde waakzaamheid\u201d, zegt arts",
-      "description": "Malaria staat bekend als een tropische ziekte, maar vroeger kwam het ook hier voor. Door de klimaatverandering trekt de malariamug noordwaarts. Sommige ziekten zouden dus terug kunnen keren, waarschuwt Ludwig Apers, arts aan het Instituut voor Tropische Genee\u2026",
-      "url": "https://businessam.be/malaria-comeback-infectieziekten/",
-      "urlToImage": "https://media.businessam.be/Microscopisch-beeld-van-de-eencellige-die-malaria-veroorzaakt-en-de-malariamug-1691673051.jpg",
-      "publishedAt": "2023-08-13 05:46:00",
-      "content": "Malaria staat bekend als een tropische ziekte, maar vroeger kwam het ook hier voor. Door de klimaatverandering trekt de malariamug noordwaarts. Sommige ziekten zouden dus terug kunnen keren, waarschu\u2026 [+1766 chars]",
-      "retrievedAt": "2023-08-14 07:05:55.418359",
-      "internal_id": "a692366c834b86ab3d507c90737e3bc5b2a665ccbef505bec230844f2a1f07aa",
-      "publishedAtLabel": "Aug 13"
-    },
-    {
-      "id": 1070,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Dengue: BBMP to step up index survey in Bengaluru\u2019s vulnerable areas - The New Indian Express",
-      "description": "Dengue: BBMP to step up index survey in Bengaluru\u2019s vulnerable areas The New Indian Express Goa govt warns of dengue mosquitoes breeding in housing complexes IndiaTimes Rise in dengue cases in port town baffles doctors Herald Go\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5uZXdpbmRpYW5leHByZXNzLmNvbS9jaXRpZXMvYmVuZ2FsdXJ1LzIwMjMvYXVnLzEzL2Rlbmd1ZS1iYm1wLXRvLXN0ZXAtdXAtaW5kZXgtc3VydmV5LWluLWJlbmdhbHVydXMtdnVsbmVyYWJsZS1hcmVhcy0yNjA0NzQzLmh0bWzSAYwBaHR0cHM6Ly93d3cubmV3aW5kaWFuZXhwcmVzcy5jb20vY2l0aWVzL2JlbmdhbHVydS8yMDIzL2F1Zy8xMy9kZW5ndWUtYmJtcC10by1zdGVwLXVwLWluZGV4LXN1cnZleS1pbi1iZW5nYWx1cnVzLXZ1bG5lcmFibGUtYXJlYXMtMjYwNDc0My5hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-13 01:46:00",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-14 07:05:54.243680",
-      "internal_id": "d60f2f016316b259511a74af9d76d4825795216c4528b14e5a067346e3daef5f",
-      "publishedAtLabel": "Aug 13"
-    },
-    {
-      "id": 1071,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Nagaland records 96 dengue, 7 JE cases",
-      "description": "HT Bureau GUWAHATI, Aug 12: Nagaland has recorded 96 dengue cases including seven Japanese Encephalitis cases. Sources in the state health department said, out of the 96 cases, Merapani in Wokha reported five positive cases, three in Mon while the remaining w\u2026",
-      "url": "https://thehillstimes.in/northeast/nagaland-records-96-dengue-7-je-cases",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/08/Nagaland-records.jpg",
-      "publishedAt": "2023-08-13 01:20:10",
-      "content": "HT BureauGUWAHATI, Aug 12: Nagaland has recorded 96 dengue casesincluding seven Japanese Encephalitis cases.Sources in the state health department said, out of the 96cases, Merapani in Wokha reported\u2026 [+574 chars]",
-      "retrievedAt": "2023-08-14 07:05:54.253494",
-      "internal_id": "df529d39e0fc9e311f03bdf8fa524dbf1f0a3aefdcc1c31fc10de4cc66468a25",
-      "publishedAtLabel": "Aug 13"
-    },
-    {
-      "id": 1074,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Kasus DBD Terus Meningkat, Pemkab Ketapang Kaji Penetapan Status KLB",
-      "description": "KalbarOnline, Ketapang Ketapang \u2013 Pemerintah Kabupaten Ketapang menggelar rapat lintas sektoral untuk The post Kasus DBD Terus Meningkat, Pemkab Ketapang Kaji Penetapan Status KLB appeared first on KalbarOnline.Com.",
-      "url": "https://www.kalbaronline.com/2023/08/12/kasus-dbd-terus-meningkat-pemkab-ketapang-kaji-penetapan-status-klb/",
-      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/08/IMG-20230812-WA0043.jpg",
-      "publishedAt": "2023-08-12 15:23:13",
-      "content": "KalbarOnline, Ketapang Ketapang \u2013 Pemerintah Kabupaten Ketapang menggelar rapat lintas sektoral untuk menyikapi terus meningkatnya jumlah kasus pasien penderita Demam Berdarah Dengue (DBD), Sabtu (12\u2026 [+2642 chars]",
-      "retrievedAt": "2023-08-14 07:05:54.268740",
-      "internal_id": "dc39272dafbbddbc4ed4e97582a54336a3b5a5572791941c95cf68b06e2cc028",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1069,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Www.tsf.pt",
-      "author": "Filipe Santa-B\u00e1rbara com Carolina Quaresma",
-      "title": "Infe\u00e7\u00f5es por mpox sobem em Portugal. Eis as recomenda\u00e7\u00f5es para quem pode tomar a vacina",
-      "description": "Portugal \u00e9 a exce\u00e7\u00e3o do continente europeu, com o maior n\u00famero de casos de mpox registados em julho.",
-      "url": "https://www.tsf.pt/portugal/sociedade/infecoes-por-mpox-sobem-em-portugal-eis-as-recomendacoes-para-quem-pode-tomar-a-vacina-16849218.html",
-      "urlToImage": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=2b6d680d-4644-4bb5-ac48-17c94d0e0ccd&w=800&h=420&watermark=true&t=20230812153500",
-      "publishedAt": "2023-08-12 14:35:00",
-      "content": "\u00a9 Karen Ducey/Getty Images/AFP (arquivo) Portugal registou mais casos de mpox do que toda a Europa no m\u00eas passado. Enquanto a Europa n\u00e3o tem um registo significativo de novas infe\u00e7\u00f5es por esta doen\u00e7\u2026 [+2291 chars]",
-      "retrievedAt": "2023-08-13 19:05:14.965441",
-      "internal_id": "98e708947655e7eba6101bcf04a3809a9393de57c9877d8e456b40b99aeae713",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1072,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "WHO urges swift action as dengue cases surge in Bangladesh",
-      "description": "The World Health Organisation (WHO) has urged Bangladesh authorities to take swift action as dengue cases are rising by the day. A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday, calli\u2026",
-      "url": "https://sylhetmirror.com/2023/08/12/who-urges-swift-action-as-dengue-cases-surge-in-bangladesh/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/r4ttg.jpg",
-      "publishedAt": "2023-08-12 14:15:06",
-      "content": "The World Health Organisation (WHO) has urged Bangladesh authorities to take swift action as dengue cases are rising by the day. A significant surge in dengue fever cases has gripped Bangladesh, the\u2026 [+4317 chars]",
-      "retrievedAt": "2023-08-14 07:05:54.263795",
-      "internal_id": "7f4767c4db55223dd2c65fcad3c487aa4efb18837f783ca2734461d798efe100",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1067,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Journal du geek",
-      "author": "Olivier",
-      "title": "Le changement climatique, un alli\u00e9 inattendu des moustiques et de la malaria",
-      "description": "Le changement climatique pousse les moustiques vers les hauteurs, apportant avec eux la malaria dans des r\u00e9gions o\u00f9 la population n'est pas habitu\u00e9e \u00e0 cette maladie potentiellement mortelle. Cette \u00e9volution, corrobor\u00e9e par de nombreuses \u00e9tudes, repr\u00e9sente un \u2026",
-      "url": "https://www.journaldugeek.com/2023/08/12/le-changement-climatique-un-allie-inattendu-des-moustiques-et-de-la-malaria/",
-      "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/07/sans-titre-5-50.png",
-      "publishedAt": "2023-08-12 13:00:01",
-      "content": "Le changement climatique pousse les moustiques vers les hauteurs, apportant avec eux la malaria dans des r\u00e9gions o\u00f9 la population n'est pas habitu\u00e9e \u00e0 cette maladie potentiellement mortelle. Cette \u00e9v\u2026 [+2812 chars]",
-      "retrievedAt": "2023-08-13 19:05:14.013073",
-      "internal_id": "3f39cef65244b090e1fe16216b2e5fe0662e1c5e6f16fff488a8e2b5fea8a8d2",
-      "publishedAtLabel": "Aug 12"
-    },
-    {
-      "id": 1068,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Peter Amenda und Tatjana Kaa",
-      "title": "Er forschte wegen Malaria - Biologe traf in Wuhan erstmalig auf Tigerm\u00fccke",
-      "description": "Seit der Pandemie ist die chinesische Stadt Wuhan weltber\u00fchmt. Viele Jahre zuvor lebte dort ein weiterer Verbreiter von Viren: die Tigerm\u00fccke.",
-      "url": "https://www.bild.de/news/inland/news-inland/er-forschte-wegen-malaria-biologe-traf-in-wuhan-auf-die-tigermuecke-85008222.bild.html",
-      "urlToImage": "https://images.bild.de/64d4dfa08a21ea67b71294fc/0f48fe99c281cb3e65cc261ac24a4c9b,7d5c67a5?w=1280",
-      "publishedAt": "2023-08-12 11:36:38",
-      "content": "Sp\u00e4testens mit der Pandemie gelangte die chinesische Millionenstadt Wuhan zu zweifelhaftem Weltruhm. Schnell verbreitete sich das Ger\u00fccht das Coronavirus k\u00e4me nicht wie angenommen auf einem Wildtierm\u2026 [+2657 chars]",
-      "retrievedAt": "2023-08-13 19:05:14.019710",
-      "internal_id": "0206adf313b9ea2acadba2a98c0c5e8a612fd89445225490ede437f04d77f455",
-      "publishedAtLabel": "Aug 12"
     }
   ]
 }
