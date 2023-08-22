@@ -1,8 +1,260 @@
 {
-  "last_updated": "2023-08-22 07:05",
+  "last_updated": "2023-08-22 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 1289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Another case of locally acquired malaria was found, but experts say no need for concern",
+      "description": "Another case of locally acquired malaria was found, but experts say no need for concerngo.com",
+      "url": "https://abcnews.go.com/Health/case-locally-acquired-malaria-found-experts-concern/story?id=102420397",
+      "urlToImage": "https://s.abcnews.com/images/Health/anopheles-mosquito-gty-ps-gty-230821_1692629820777_hpMain_16x9_992.jpg",
+      "publishedAt": "2023-08-21 19:05:11",
+      "content": "Another case of locally acquired malaria was recently identified, this time in Maryland, according to health officials. It's the latest in a series of infections that have popped up in the U.S., inc\u2026 [+3255 chars]",
+      "retrievedAt": "2023-08-22 19:05:30.128552",
+      "internal_id": "620b8b58dea4810d11193090c141cf4219a6fd5d08c9e0a7d203f9ea8ec0379f",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1285,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Brendan M. Lynch",
+      "title": "Data set revolutionizes understanding of beta barrels, promising targets for vaccine development",
+      "description": "Examples of infections tied to gram-negative bacteria include pneumonia, bloodstream infections, wound-site infections and meningitis, according to the Centers for Disease Control and Prevention.",
+      "url": "https://phys.org/news/2023-08-revolutionizes-beta-barrels-vaccine.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/dataset-revolutionizes.jpg",
+      "publishedAt": "2023-08-21 18:23:04",
+      "content": "Examples of infections tied to gram-negative bacteria include pneumonia, bloodstream infections, wound-site infections and meningitis, according to the Centers for Disease Control and Prevention. Sc\u2026 [+5327 chars]",
+      "retrievedAt": "2023-08-22 19:05:29.812177",
+      "internal_id": "4201f9172bc0795969ec2484339d20223bfed2bde9d599b438369cf60d7b668c",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1288,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Maryland reports case of locally acquired malaria - TODAY",
+      "description": "Maryland reports case of locally acquired malariaTODAY View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171666208",
+      "urlToImage": null,
+      "publishedAt": "2023-08-21 16:52:04",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-08-22 19:05:30.125242",
+      "internal_id": "28f22c511031e324ebfa08832653975a22fbb4d2eef824c67ac37cfa53492783",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1287,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "WGN TV Chicago",
+      "author": "Miranda Nazzaro, The Hill",
+      "title": "First locally acquired malaria case reported in Maryland in decades",
+      "description": "The Maryland Department of Health has reported its first locally acquired malaria case in more than four decades.",
+      "url": "https://wgntv.com/news/nexstar-media-wire/first-locally-acquired-malaria-case-reported-in-maryland-in-decades/",
+      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/08/malariamosquito_082123ap.jpg?w=1280",
+      "publishedAt": "2023-08-21 15:57:15",
+      "content": "(The Hill) \u2014 The Maryland Department of Health has reported its first locally acquired malaria case in more than four decades. State officials said late last week that a Maryland resident tested po\u2026 [+2003 chars]",
+      "retrievedAt": "2023-08-22 19:05:30.118610",
+      "internal_id": "3f1952a7dc2bfacbec832c2d0151d01cd73b501f96a1f63c691763f5d71908bc",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1284,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Dengue cases surpass 100,000-mark, nine deaths in a day",
+      "description": "The death from dengue fever in the country is increasing. In the last 24 hours, Bangladesh saw hospitalization of 2,097 dengue patients. With new cases, the number of infected people in the country has increased to one lakh two thousand 191 this year. Besides\u2026",
+      "url": "https://sylhetmirror.com/2023/08/21/dengue-cases-surpass-100000-mark-nine-deaths-in-a-day/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/sddfewf.jpg",
+      "publishedAt": "2023-08-21 14:22:12",
+      "content": "The death from dengue fever in the country is increasing. In the last 24 hours, Bangladesh saw hospitalization of 2,097 dengue patients. With new cases, the number of infected people in the country \u2026 [+506 chars]",
+      "retrievedAt": "2023-08-22 19:05:29.358400",
+      "internal_id": "cdef3a2fedf2b92728a44e12eab49403cf31bfda09bc75c288862294a1de951e",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1279,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Travis Andersen",
+      "title": "Five raccoons in Boston have tested positive for rabies, officials say",
+      "description": "Last week, Animal Care and Control officials learned that a raccoon found in Mission Hill had tested positive for rabies, following positive tests of three racoons in Jamaica Plain and one in Roslindale.",
+      "url": "https://www.bostonglobe.com/2023/08/21/metro/five-raccoons-boston-have-tested-positive-rabies-officials-say/",
+      "urlToImage": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=425",
+      "publishedAt": "2023-08-21 14:12:03",
+      "content": "Boston officials have issued an alert after five raccoons tested positive for rabies. Last week, Animal Care and Control officials learned that a raccoon found in Mission Hill had tested positive fo\u2026 [+1533 chars]",
+      "retrievedAt": "2023-08-22 19:05:28.657672",
+      "internal_id": "3cb4a371ad5fadfc3f9f4159543d2119dd6ae7cf3a0c9a9ed019aad6e0b9ce60",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1291,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Post Reporters",
+      "title": "Bangkok the worst hit by monkeypox virus' spread",
+      "description": "Thailand has had 217 Monkeypox (mpox) patients this year, over half of whom were diagnosed in Bangkok, according to the Department of Disease Control (DDC).",
+      "url": "https://www.bangkokpost.com/thailand/general/2633254/bangkok-the-worst-hit-by-monkeypox-virus-spread",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20230821/c1_2633254_700.jpg",
+      "publishedAt": "2023-08-21 13:56:00",
+      "content": "Thailand has had 217 Monkeypox (mpox) patients this year, over half of whom were diagnosed in Bangkok, according to the Department of Disease Control (DDC). Dr Sopon Iamsirithaworn, deputy director-\u2026 [+1516 chars]",
+      "retrievedAt": "2023-08-22 19:05:30.764644",
+      "internal_id": "044d6cf3c3644c24ed3d056e106158caf43caa74e3f768fa0941195dd94c863d",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1282,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Anandabazar.com",
+      "author": "\u0986\u09a8\u09a8\u09cd\u09a6\u09ac\u09be\u099c\u09be\u09b0 \u0985\u09a8\u09b2\u09be\u0987\u09a8 \u09b8\u0982\u09ac\u09be\u09a6\u09a6\u09be\u09a4\u09be",
+      "title": "Srijit Mukherji Health Update | Sources revealed that Tollywood Director Srijit Mukherji is slowly recovering from Dengue dgtl",
+      "description": "Srijit Mukherji Health Update | Sources revealed that Tollywood Director Srijit Mukherji is slowly recovering from Dengue dgtlanandabazar.com",
+      "url": "https://www.anandabazar.com/entertainment/sources-revealed-that-tollywood-director-srijit-mukherji-is-slowly-recovering-from-dengue-dgtl/cid/1453912",
+      "urlToImage": "https://assets.telegraphindia.com/abp/2023/Aug/1692623018_srijit-7.jpg",
+      "publishedAt": "2023-08-21 13:41:57",
+      "content": "These Terms of Use govern your use of the websites, content and community services offered through www.anandabazar.com , other associated URLs (\"Site\") and all mobile applications (\"Mobile Apps\") and\u2026 [+36018 chars]",
+      "retrievedAt": "2023-08-22 19:05:29.353174",
+      "internal_id": "7328903b744157956544406267e95769b8cb7a76235df7ebe018b8b77fc133fd",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1280,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sachkahoon.com",
+      "author": "\u0938\u091a \u0915\u0939\u0942\u0901 \u0928\u094d\u092f\u0942\u091c",
+      "title": "Dengue Diet: \u0921\u0947\u0902\u0917\u0942 \u092e\u0947\u0902 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938 \u0915\u092e \u0939\u094b \u0917\u090f \u0939\u0948\u0902 \u0924\u094b \u092b\u0949\u0932\u094b \u0915\u0930\u0947\u0902 \u092f\u0947 \u0921\u093e\u0907\u091f",
+      "description": "Dengue Diet: \u091c\u093e\u0928\u093f\u090f \u0915\u094d\u092f\u094b\u0902 \u0939\u094b\u0924\u0940 \u0939\u0948 \u0921\u0947\u0902\u0917\u0942 \u092e\u0947\u0902 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938 \u0915\u0940 \u0915\u092e\u0940 ? \u0921\u0947\u0902\u0917\u0942 \u0915\u093c\u0947 \u0932\u0915\u094d\u0937\u0923, \u092c\u091a\u093e\u0935 \u0914\u0930 \u0909\u092a\u091a\u093e\u0930 | Dengue | Health | platelets",
+      "url": "https://www.sachkahoon.com/if-platelets-have-decreased-in-dengue-then-follow-this-diet/",
+      "urlToImage": "https://www.sachkahoon.com/wp-content/uploads/2023/08/Dengue-Diet-1.jpg",
+      "publishedAt": "2023-08-21 12:51:35",
+      "content": "How To Increase Platelets: , 3-4 , , , , , , Dengue Diet , , , , , , Dengue Diet Dengue Diet : : , : | Dengue Diet : - : , : : , : , :",
+      "retrievedAt": "2023-08-22 19:05:29.348290",
+      "internal_id": "84b1af889444e07f3d25343ad13da3300e6d237e28272e2fdf2cba20b7da9094",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1281,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09b8\u0995\u09be\u09b2\u09c7 \u09e7\u09ec\u099f\u09bf \u0997\u09b0\u09c1\u0995\u09c7 \u0996\u09be\u09ac\u09be\u09b0 \u0996\u09be\u0993\u09df\u09be\u09a8, \u0995\u09bf\u099b\u09c1\u0995\u09cd\u09b7\u09a3 \u09aa\u09b0 \u09a6\u09c7\u0996\u09c7\u09a8 \u09e7\u09e7\u099f\u09bf \u09ae\u09c3\u09a4",
+      "description": "\u09aa\u09cd\u09b0\u09be\u09a5\u09ae\u09bf\u0995\u09ad\u09be\u09ac\u09c7 \u0997\u09b0\u09c1\u0997\u09c1\u09b2\u09cb \u09ae\u09be\u09b0\u09be \u09af\u09be\u0993\u09df\u09be\u09b0 \u09b8\u09c1\u09a8\u09bf\u09b0\u09cd\u09a6\u09bf\u09b7\u09cd\u099f \u0995\u09be\u09b0\u09a3 \u09a8\u09be \u099c\u09be\u09a8\u09be \u0997\u09c7\u09b2\u09c7\u0993 \u0996\u09be\u09a6\u09cd\u09af \u09ac\u09bf\u09b7\u0995\u09cd\u09b0\u09bf\u09df\u09be \u0985\u09a5\u09ac\u09be \u0995\u09be\u0981\u099a\u09be \u0998\u09be\u09b8\u09c7\u09b0 \u09a8\u09be\u0987\u099f\u09cd\u09b0\u09c7\u099f \u09ac\u09bf\u09b7\u0995\u09cd\u09b0\u09bf\u09df\u09be\u09df \u0997\u09b0\u09c1\u0997\u09c1\u09b2\u09cb \u09ae\u09be\u09b0\u09be \u0997\u09c7\u099b\u09c7 \u09ac\u09b2\u09c7 \u09a7\u09be\u09b0\u09a3\u09be \u0995\u09b0\u099b\u09c7\u09a8 \u09aa\u09b6\u09c1 \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u0995\u09b0\u09be\u0964",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/news-507466",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/21/gru.jpg?itok=qzhXy2eI",
+      "publishedAt": "2023-08-21 12:28:23",
+      "content": "At least nine more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
+      "retrievedAt": "2023-08-22 19:05:29.350703",
+      "internal_id": "a8cb49bfd482127e1216cb055c4ed158c0dbd8fe07b7b39327f94c9b0026fb3f",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1286,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "independent",
+      "source_name": "Independent",
+      "author": "Faiza Saqib",
+      "title": "First locally acquired case of malaria reported in Maryland after 40 years",
+      "description": "There have been more than 2,000 cases reported annually of the mosquito-borne disease in the United Stated",
+      "url": "https://www.independent.co.uk/news/world/americas/malaria-mosquito-cases-maryland-dc-b2396490.html",
+      "urlToImage": "https://static.independent.co.uk/2023/08/21/09/iStock-520944452.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2023-08-21 12:26:10",
+      "content": "Sign up to our Evening Headlines email for your daily guide to the latest news Sign up to our free US Evening Headlines email Officials have confirmed a case of locally acquired case of malaria in \u2026 [+3961 chars]",
+      "retrievedAt": "2023-08-22 19:05:30.112053",
+      "internal_id": "58613824176103cb2ae5d2ff5b82e599f9fe7e874b85e934a09e8c5ba4630286",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1292,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Tonix Pharmaceuticals Holding Corp.",
+      "title": "Tonix Pharmaceuticals Announces Results of Pre-IND Meeting with FDA for TNX-801 as a Potential Vaccine to Prevent Mpox and Smallpox",
+      "description": "Phase 1/2 Clinical Trial of TNX-801 for the Prevention of Mpox and Smallpox to Commence Following Submission of an IND TNX-801 is Based on a...",
+      "url": "https://www.globenewswire.com/news-release/2023/08/21/2728547/28908/en/Tonix-Pharmaceuticals-Announces-Results-of-Pre-IND-Meeting-with-FDA-for-TNX-801-as-a-Potential-Vaccine-to-Prevent-Mpox-and-Smallpox.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/16aad249-3d33-4501-b3d9-118a703fa46e",
+      "publishedAt": "2023-08-21 11:00:00",
+      "content": "Phase 1/2 Clinical Trial of TNX-801 for the Prevention of Mpox and Smallpox to Commence Following Submission of an IND TNX-801 is Based on a Proprietary Live Virus Vaccine Platform Designed to Stimu\u2026 [+14482 chars]",
+      "retrievedAt": "2023-08-22 19:05:30.768943",
+      "internal_id": "66a2f9463fc73c5f58c7240bcc1e98dc817ae7ff20e7e809b1f98044b380081e",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1283,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09ac\u09bf\u09b0\u09cb\u09a7\u09c0\u09a6\u09c7\u09b0 \u09a8\u09bf\u09b6\u09cd\u099a\u09bf\u09b9\u09cd\u09a8 \u0995\u09b0\u09a4\u09c7 \u09ad\u09df\u09be\u09ac\u09b9 \u0995\u09bf\u099b\u09c1 \u0998\u099f\u09be\u09a8\u09cb\u09b0 \u09aa\u09b0\u09bf\u0995\u09b2\u09cd\u09aa\u09a8\u09be \u0995\u09b0\u099b\u09c7 \u09b8\u09b0\u0995\u09be\u09b0: \u09ab\u0996\u09b0\u09c1\u09b2",
+      "description": "\u2018\u098f\u0996\u09be\u09a8\u09c7 \u09a4\u09be\u09b0\u09c7\u0995 \u09b0\u09b9\u09ae\u09be\u09a8 \u09b8\u09be\u09b9\u09c7\u09ac, \u09ac\u09bf\u098f\u09a8\u09aa\u09bf \u0986\u09ac\u09cd\u09a6\u09c1\u09b8 \u09b8\u09be\u09b2\u09be\u09ae \u09aa\u09bf\u09a8\u09cd\u099f\u09c1 \u09ac\u09be \u0986\u09ae\u09be\u09a6\u09c7\u09b0 \u09b2\u09c1\u09ce\u09ab\u09b0 \u099c\u09be\u09ae\u09be\u09a8 \u09ac\u09be\u09ac\u09b0\u2014\u09a4\u09be\u09b0\u09be \u0995\u09c7\u0989 \u098f\u099f\u09be\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u099c\u09dc\u09bf\u09a4 \u099b\u09bf\u09b2\u09c7\u09a8 \u09a8\u09be\u0964 \u098f\u09a6\u09c7\u09b0 \u09b0\u09be\u099c\u09a8\u09c8\u09a4\u09bf\u0995 \u0995\u09be\u09b0\u09a3\u09c7 \u099c\u09dc\u09bf\u09a4 \u0995\u09b0\u09be \u09b9\u09df\u09c7\u099b\u09c7\u2019",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/politics/news-507431",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/21/fakhrul_21aug23.jpg?itok=kMWFdU_F",
+      "publishedAt": "2023-08-21 10:30:02",
+      "content": "At least nine more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
+      "retrievedAt": "2023-08-22 19:05:29.355170",
+      "internal_id": "bdfe1a8d8be34af985b19486ea79af24aae1898692c74bd4c9ceccac760bddfc",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1290,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "NPR",
+      "title": "Advancements may help fight the chikungunya virus wave in South America",
+      "description": "More than a quarter million cases of chikungunya virus have surfaced in South America this year. The virus can cause debilitating joint pain. (Story aired on All Things Considered on Aug. 18, 2023.)",
+      "url": "https://www.npr.org/2023/08/21/1194974088/advancements-may-help-fight-the-chikungunya-virus-wave-in-south-america",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2023-08-21 09:04:33",
+      "content": "More than a quarter million cases of chikungunya virus have surfaced in South America this year. The virus can cause debilitating joint pain. (Story aired on All Things Considered on Aug. 18, 2023.)",
+      "retrievedAt": "2023-08-22 19:05:30.491183",
+      "internal_id": "cb987e4b525738b5878fa408dc0b702dc8fd72eb3fc6dc1e55bb7b1d68497921",
+      "publishedAtLabel": "Aug 21"
+    },
     {
       "id": 1275,
       "query": [
@@ -3357,258 +3609,6 @@
       "retrievedAt": "2023-08-15 19:05:17.610338",
       "internal_id": "35ab075cbed89e9a8e5bfc716becc512cfa4532c81786818777bc6df82d50e03",
       "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1083,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Bangladesh's dengue death toll nears 400, cases surpass 85,000",
-      "description": "DHAKA, Aug. 14 (Xinhua) -- Eleven more dengue deaths were confirmed in a 24-hour period in Banglades",
-      "url": "http://en.people.cn/n3/2023/0814/c90000-20057966.html",
-      "urlToImage": null,
-      "publishedAt": "2023-08-14 06:21:55",
-      "content": "(Xinhua) 14:20, August 14, 2023 DHAKA, Aug. 14 (Xinhua) -- Eleven more dengue deaths were confirmed in a 24-hour period in Bangladesh, bringing the total number of fatalities in the country so far t\u2026 [+1005 chars]",
-      "retrievedAt": "2023-08-15 07:05:46.257249",
-      "internal_id": "3e26b75bb196a8f42c29acb10ace23a829db6b3d630a76f3b4fb72f19edb5f3c",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1089,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Dow Jones",
-      "title": "Valneva Says FDA Has Delayed Chikungunya Vaccine Review Date",
-      "description": "(marketscreener.com) By Maitane Sardon Valneva said Monday that the U.S. Food and Drug Administration has delayed the target date for completing the regulatory review of the marketing application for its chikungunya vaccine candidate to the end of Novem\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Says-FDA-Has-Delayed-Chikungunya-Vaccine-Review-Date-44603972/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-08-14 06:04:04",
-      "content": "By Maitane Sardon Valneva said Monday that the U.S. Food and Drug Administration has delayed the target date for completing the regulatory review of the marketing application for its chikungunya va\u2026 [+560 chars]",
-      "retrievedAt": "2023-08-15 07:05:48.305090",
-      "internal_id": "3707a574cb2294351ba52bde785b72e4849bc2d9861befdcb4f781e18456c5a1",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1091,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "GlobeNewswire",
-      "title": "Valneva Announces PDUFA Date Extension for Chikungunya Virus Vaccine Candidate",
-      "description": "(marketscreener.com) Saint-Herblain , August 14, 2023 \u2013 Valneva SE , a specialty vaccine company, today announced that the U.S. Food and Drug Administration has revised the Prescription Drug User Fee Act action date for the Biologics License Application for V\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Announces-PDUFA-Date-Extension-for-Chikungunya-Virus-Vaccine-Candidate-44603663/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-08-14 05:01:02",
-      "content": "Saint-Herblain(France), August14, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the U.S. Food and Drug Administration (FDA) has revised the Pre\u2026 [+4786 chars]",
-      "retrievedAt": "2023-08-15 07:05:48.312624",
-      "internal_id": "26285b8b60d7997cc5c487d6a85563ff304a8cf90cb71e048a3602c411770d33",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1090,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Valneva Announces PDUFA Date Extension for Chikungunya Virus Vaccine Candidate",
-      "description": "Saint-Herblain (France), August 14, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the U.S. Food and Drug Administration (FDA) has revised the Prescription Drug User Fee Act (PDUFA) action date for the\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/08/14/2724041/0/en/Valneva-Announces-PDUFA-Date-Extension-for-Chikungunya-Virus-Vaccine-Candidate.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-08-14 05:00:00",
-      "content": "Saint-Herblain(France), August14, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the U.S. Food and Drug Administration (FDA) has revised the Pre\u2026 [+4720 chars]",
-      "retrievedAt": "2023-08-15 07:05:48.309082",
-      "internal_id": "14948c65aaa75b0a791a519a48e3d72704f6cda9b5471e68580700aa2ab340c2",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1092,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Valneva annonce le report de la date-cible pour l\u2019examen r\u00e9glementaire de son candidat vaccin contre le chikungunya",
-      "description": "Saint-Herblain (France), 14 ao\u00fbt 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd\u2019hui que l\u2019agence de sant\u00e9 am\u00e9ricaine Food and Drug Administration (FDA) a modifi\u00e9 la date-cible, dans le cadre de la \u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/08/14/2724041/0/fr/Valneva-annonce-le-report-de-la-date-cible-pour-l-examen-r%C3%A9glementaire-de-son-candidat-vaccin-contre-le-chikungunya.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-08-14 05:00:00",
-      "content": "Saint-Herblain (France), 14 ao\u00fbt 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourdhui que lagence de sant\u00e9 am\u00e9ricaine Food and Drug Administrat\u2026 [+5054 chars]",
-      "retrievedAt": "2023-08-15 07:05:48.317200",
-      "internal_id": "ec27eb147d632c00c8fa7727a1af46592645b2ed433419a5fac230df420543f7",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1084,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Zweite Verteidigungslinie gegen Malaria - Tagesspiegel Background",
-      "description": "Zweite Verteidigungslinie gegen Malaria Tagesspiegel Background",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vYmFja2dyb3VuZC50YWdlc3NwaWVnZWwuZGUvZ2VzdW5kaGVpdC96d2VpdGUtdmVydGVpZGlndW5nc2xpbmllLWdlZ2VuLW1hbGFyaWHSAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-14 04:02:47",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-15 07:05:47.211796",
-      "internal_id": "146e716fd8faf79bc691742b96ca7475c6ef3c51df0846e75612ed58b6a607d7",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1085,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Gatesnotes.com",
-      "author": "Bill Gates",
-      "title": "A big threat to malaria eradication",
-      "description": "Climate change could stall the world\u2019s amazing progress on health.",
-      "url": "https://www.gatesnotes.com/Climate-change-and-malaria",
-      "urlToImage": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/be653a96-38e9-44ba-9301-6df1d39b502a/20230810-MalariaClimate-social_share_1200x630.jpg",
-      "publishedAt": "2023-08-14 00:00:00",
-      "content": "Its mind-blowing how much health has improved for the worlds poorest people over the past two decades. Malaria deaths, for example, have dropped by more than a third. Eradicating the disease has beco\u2026 [+915 chars]",
-      "retrievedAt": "2023-08-15 07:05:47.217080",
-      "internal_id": "b3e17d118f490d583555935bb311c7e3fbf2c76c47ce8f284fbce46f4e7bf4d1",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1086,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Gatesnotes.com",
-      "author": "Bill Gates",
-      "title": "The world's newest weapon against malaria? Mosquitoes",
-      "description": "A highly invasive, urban mosquito is driving up malaria cases in Africa. But a new technology that uses mosquitoes as allies may offer a powerful solution.",
-      "url": "https://www.gatesnotes.com/Urban-mosquitoes-and-Oxitec",
-      "urlToImage": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/2d836797-ae55-4d39-9eb0-edd725140cd5/mw_2023_oxitech_social-share_1200x630_01.jpg",
-      "publishedAt": "2023-08-14 00:00:00",
-      "content": "About 10 years ago, the African country of Djibouti had nearly succeeded in wiping out malaria. The countrys leaders hoped that getting rid of the disease would help them attract new investment, deve\u2026 [+5695 chars]",
-      "retrievedAt": "2023-08-15 07:05:47.221680",
-      "internal_id": "ef060941b8c00eb218a872610a9df0465c35eabec9943bc371f3093fa73ee7c5",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1087,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Gatesnotes.com",
-      "author": "Bill Gates",
-      "title": "The malaria geneticist cultivating the next generation of African scientists",
-      "description": "Bill Gates publishes a guest essay on the importance of cultivating the next generation of African scientists to fight malaria and other mosquito-borne diseases",
-      "url": "https://www.gatesnotes.com/Charles-Wondji-malaria-research",
-      "urlToImage": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/7b953ab7-5ea7-4ecb-9d2c-91505e48b5cb/mw_2023_wondji_social-share_1200x630_01.jpg",
-      "publishedAt": "2023-08-14 00:00:00",
-      "content": "Each year, I love sharing stories from around the world about the incredible work being done to fight malaria. Sometimes, though, those stories are best told firsthand. Thats why I invited Professor \u2026 [+8235 chars]",
-      "retrievedAt": "2023-08-15 07:05:47.224993",
-      "internal_id": "e3a6f77dc127ed312fd7f0b5a1696b9bd7d91aa63fb20e8468404128a0788a97",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1088,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Gatesnotes.com",
-      "author": "Bill Gates",
-      "title": "This scientist uses 80-year-old insects to help fight malaria",
-      "description": "I wrote a Heroes in the Field post about Dr. Mara Lawniczak, an evolutionary geneticist in the UK who is fighting malaria by studying the genes of mosquitoes.",
-      "url": "https://www.gatesnotes.com/Heroes-in-the-Field-Mara-Lawniczak",
-      "urlToImage": "https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/2336c1ee-cec1-4b5f-b0b4-1130066f2c4b/20230804-HITF-MaraLawniczak-social_share_1200x630.jpg",
-      "publishedAt": "2023-08-14 00:00:00",
-      "content": "Of all the things I thought would help fight malaria, 100-year-old mosquitoes would not have been high on the list. Then I learned about the work of Dr. Mara Lawniczak. An evolutionary geneticist at\u2026 [+4298 chars]",
-      "retrievedAt": "2023-08-15 07:05:47.227549",
-      "internal_id": "6c49122fc4dfd350a80702377df28660065a8650e706dd0224df9b38572f70c4",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1081,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Zoom",
-      "author": "Debosmita Ghosh",
-      "title": "Rani Mukerji Reveals She Suffered Miscarriage During Pandemic; Tips On Coping With The Loss",
-      "description": "Rani Mukerji at the Indian Film Festival of Melbourne revealed that she lost her second baby five months into pregnancy during the Covid-19 pandemic. While a lot of women go through miscarriages, it is still a topic that is less spoken about. Here are a few t\u2026",
-      "url": "https://www.timesnownews.com/health/rani-mukerji-reveals-she-suffered-miscarriage-during-pandemic-tips-on-coping-with-the-loss-article-102693929",
-      "urlToImage": "https://static.tnn.in/thumb/msid-102693929,updatedat-1691911955279,width-1280,height-720,resizemode-75/102693929.jpg",
-      "publishedAt": "2023-08-13 13:13:33",
-      "content": "EXCLUSIVE! Dhruv Taras Riya Sharma, Krishna Bharadwaj Diagnosed With Dengue. Actors On Complete Bed Rest",
-      "retrievedAt": "2023-08-14 19:05:28.566389",
-      "internal_id": "4d9964b12f641d9c00451fb60bc901bbe40d417a1628988a8647d27bfe85929c",
-      "publishedAtLabel": "Aug 13"
-    },
-    {
-      "id": 1080,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Uol.com.br",
-      "author": "Weslley Neto",
-      "title": "",
-      "description": "Armando Moraes e Roberto Bettini foram os int\u00e9rpretes de Praga e Dengue, famosos assistentes de palco do \"Xou da Xuxa\" (Globo) entre os anos 1980 e 1990. Citados em \"Xuxa, o document\u00e1rio\", ambos fizeram raras participa\u00e7\u00f5es na TV ap\u00f3",
-      "url": "https://www.uol.com.br/splash/noticias/2023/08/13/xuxa-errou-o-que-rolou-com-praga-e-dengue-assistentes-da-apresentadora.htm",
-      "urlToImage": "https://conteudo.imguol.com.br/c/splash/b7/2023/08/08/dengue-e-praga-foram-assistentes-de-palco-da-comandante-do-xou-da-xuxa-1691526541632_v2_615x300.jpg",
-      "publishedAt": "2023-08-13 11:41:27",
-      "content": "Ator trabalha em escrit\u00f3rio que vende shows de artistas. \"Algumas pessoas est\u00e3o me reconhecendo por conta do document\u00e1rio, que est\u00e1 fazendo um grande sucesso\". Roberto nunca mais conversou com apres\u2026 [+860 chars]",
-      "retrievedAt": "2023-08-14 19:05:28.552205",
-      "internal_id": "d7551f27f3d542b3b092806a80ee2f660f92a0a600812a489dcef9e8292c6584",
-      "publishedAtLabel": "Aug 13"
-    },
-    {
-      "id": 1079,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Kerala Nurse Gives Rabies Vaccine To Child With Fever, Terminated",
-      "description": "The Kerala government on Sunday decided to terminate the service of a nurse working on contract basis at a taluk hospital in Angamally near Ernakulam for allegedly wrongly administering a rabies vaccine to a feverish child.",
-      "url": "https://www.ndtv.com/cities/kerala-nurse-gives-rabies-vaccine-to-child-with-fever-terminated-4294619",
-      "urlToImage": "https://c.ndtvimg.com/2021-06/r6e5kmv8_vaccine-generic-650_625x300_25_June_21.jpeg?im=Resize=(1230,900)",
-      "publishedAt": "2023-08-13 11:37:53",
-      "content": "The parents have decided not to file a police complaint in this regard. (Representational) Kochi/Thiruvananthapuram: The Kerala government on Sunday decided to terminate the service of a nurse worki\u2026 [+1303 chars]",
-      "retrievedAt": "2023-08-14 19:05:27.796154",
-      "internal_id": "43683afd8ba94d83672ebd2a876e866af0354b93f2daf35aaab72a2425a46f5f",
-      "publishedAtLabel": "Aug 13"
-    },
-    {
-      "id": 1082,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "WHO urges swift action as dengue cases surge in Bangladesh",
-      "description": "A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday (Aug 11), calling for efforts to control the mosquito vector population and minimize individual exposure such as using mosquito repelle\u2026",
-      "url": "https://sylhetmirror.com/2023/08/13/who-urges-swift-action-as-dengue-cases-surge-in-bangladesh-2/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/Jhgff-1.jpg",
-      "publishedAt": "2023-08-13 11:11:41",
-      "content": "A significant surge in dengue fever cases has gripped Bangladesh, the UN World Health Organization (WHO) reported on Friday (Aug 11), calling for efforts to control the mosquito vector population and\u2026 [+4318 chars]",
-      "retrievedAt": "2023-08-14 19:05:28.573496",
-      "internal_id": "95b2904ae4d67983cbbaa2ed0f7788527633cbc8db1fbad76e5999b357466230",
-      "publishedAtLabel": "Aug 13"
     }
   ]
 }
