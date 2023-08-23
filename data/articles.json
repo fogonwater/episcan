@@ -1,8 +1,99 @@
 {
-  "last_updated": "2023-08-22 19:05",
+  "last_updated": "2023-08-23 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 14,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 1294,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Bangladesh's dengue cases top 100,000, deaths near 500",
+      "description": "DHAKA, Aug. 22 (Xinhua) -- Bangladesh witnessed its worst-ever dengue outbreak so far this month as",
+      "url": "http://en.people.cn/n3/2023/0822/c90000-20061629.html",
+      "urlToImage": null,
+      "publishedAt": "2023-08-22 06:04:15",
+      "content": "(Xinhua) 13:24, August 22, 2023 DHAKA, Aug. 22 (Xinhua) -- Bangladesh witnessed its worst-ever dengue outbreak so far this month as it recorded more than 50,000 cases and 234 deaths. After reportin\u2026 [+672 chars]",
+      "retrievedAt": "2023-08-23 07:05:31.693771",
+      "internal_id": "8252e1899bf270e368516f62c8153a134d1c16c177d0fafd55c022beb3572aa9",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 1296,
+      "query": [
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Ionela St\u0103nil\u0103",
+      "title": "Veste proast\u0103: \u021b\u00e2n\u0163arul comun prezent \u00een Europa a devenit rezistent la insecticide. Ce ne a\u0219teapt\u0103",
+      "description": "De\u0219i, de obicei, sunt inofensive, \u00een\u021bep\u0103turile de \u021b\u00e2n\u021bari pot aduce cu ele boli grave, precum malaria, virusul West Nile \u0219i virusul Zika. \u00cengrijorarea este tot mai mare deoarece un studiu recent arat\u0103 c\u0103 insectele au devenit rezistente la insecticid.",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/veste-proasta-tantarul-comun-prezent-in-europa-a-2293636.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-3/3889a8c5-d4cf-4ce3-947c-1da12c80e30e/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover%26c%3D0%252C0%252C0.996%252C0.856",
+      "publishedAt": "2023-08-22 05:07:49",
+      "content": "Dei, de obicei, sunt inofensive, \u00eenepturile de \u00e2nari pot aduce cu ele boli grave, precum malaria, virusul West Nile i virusul Zika. \u00cengrijorarea este tot mai mare deoarece un studiu recent arat c ins\u2026 [+3437 chars]",
+      "retrievedAt": "2023-08-23 07:05:32.879121",
+      "internal_id": "0c656e78bf71843504ca87f9c184b572c77edf62e18c988531a9004d2462eebd",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 1293,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "John Charles",
+      "title": "\u2018How Benue IDPs give birth in toilets\u2019",
+      "description": "Two women at Agagbe Internally Displaced Persons camp in Gwer West Local Government area of Benue State have lost their children. Also, six children in the same camp are down with measles due to the horrifying conditions of the camp. The Camp Manager, Terna J\u2026",
+      "url": "https://punchng.com/how-benue-idps-give-birth-in-toilets/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2020/01/24232741/Nursing-mums-in-Benue-IDPs-camp.jpg",
+      "publishedAt": "2023-08-22 01:21:11",
+      "content": "Two women at Agagbe Internally Displaced Persons camp in Gwer West Local Government area of Benue State have lost their children. Also, six children in the same camp are down with measles due to the\u2026 [+1487 chars]",
+      "retrievedAt": "2023-08-23 07:05:31.176424",
+      "internal_id": "1a66c12d96898bd19cc64f2ad4497392c2d4d66328756cc2fd361f80fbb292e4",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 1297,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Notifica\u00e7\u00f5es de zika v\u00edrus aumentam no pa\u00eds em rela\u00e7\u00e3o a 2022",
+      "description": "O n\u00famero de casos de zika v\u00edrus no pa\u00eds subiu 20% de janeiro at\u00e9 o dia 8 de julho de 2023. As notifica\u00e7\u00f5es passaram de 5.910 para...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/notificacoes-de-zika-virus-aumentam-no-pais-em-relacao-a-2022/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2022/01/19121053/aedes_aegypti-mosquito-da-dengue-e1654030171862.png",
+      "publishedAt": "2023-08-21 23:52:06",
+      "content": "O n\u00famero de casos de zika v\u00edrus no pa\u00eds subiu 20% de janeiro at\u00e9 o dia 8 de julho de 2023. As notifica\u00e7\u00f5es passaram de 5.910 para 7.093, na compara\u00e7\u00e3o com o mesmo per\u00edodo de 2022. A Regi\u00e3o Sudeste te\u2026 [+2369 chars]",
+      "retrievedAt": "2023-08-23 07:05:33.257645",
+      "internal_id": "6984dd80ef1278cd174831f2cc8a178fdf91b3bfa2cdf526e06016cefe54226c",
+      "publishedAtLabel": "Aug 21"
+    },
+    {
+      "id": 1295,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09b9\u09be\u09b2\u09be\u09b2 \u09aa\u09a3\u09cd\u09af\u09c7\u09b0 \u09ac\u09be\u099c\u09be\u09b0 \u09b8\u09ae\u09cd\u09aa\u09cd\u09b0\u09b8\u09be\u09b0\u09a3\u09c7 \u098f\u0995\u09b8\u0999\u09cd\u0997\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09ac\u09c7 \u098f\u09ab\u09ac\u09bf\u09b8\u09bf\u09b8\u09bf\u0986\u0987-\u0986\u0987\u0993\u098f\u09ab\u098f\u09b8",
+      "description": "\u09e8\u09e6\u09e8\u09e8-\u09e8\u09e6\u09e8\u09e9 \u0985\u09b0\u09cd\u09a5\u09ac\u099b\u09b0\u09c7 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09a5\u09c7\u0995\u09c7 \u09ee\u09ea\u09e9 \u09ae\u09bf\u09b2\u09bf\u09df\u09a8 \u09a1\u09b2\u09be\u09b0 \u09ae\u09c2\u09b2\u09cd\u09af\u09c7\u09b0 \u09b9\u09be\u09b2\u09be\u09b2 \u09aa\u09a3\u09cd\u09af \u09b0\u09aa\u09cd\u09a4\u09be\u09a8\u09bf \u0995\u09b0\u09be \u09b9\u09df\u0964 \u098f\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u09ed\u09e6 \u09b6\u09a4\u09be\u0982\u09b6 \u09b9\u09be\u09b2\u09be\u09b2 \u09aa\u09a3\u09cd\u09af \u0997\u09c7\u099b\u09c7 \u09ae\u09c1\u09b8\u09b2\u09bf\u09ae \u09a6\u09c7\u09b6\u0997\u09c1\u09b2\u09cb\u09a4\u09c7\u0964",
+      "url": "https://bangla.thedailystar.net/business/news-507576",
+      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/08/22/untitled_design_-_2023-08-22t014926.651.png",
+      "publishedAt": "2023-08-21 19:58:16",
+      "content": "With 2,192 new patients admitted to hospitals yesterday, dengue cases hit a record high since its first official outbreak in 2000, crossing the 1,00,000-threshold in eight months this year.",
+      "retrievedAt": "2023-08-23 07:05:31.696388",
+      "internal_id": "a3236bcddc13d6e52412a2b62e2f32985ae80f08d4fe41819b6aa5664b5e848d",
+      "publishedAtLabel": "Aug 21"
+    },
     {
       "id": 1289,
       "query": [
@@ -3517,97 +3608,6 @@
       "content": ", 14 . //. 1 . mpox (\"\", ) 14 9 , 2022 89 ., 152 . 113 , (). \" 1 2022 9 2023- 113 89 308 mpox, 152 \", - , . 14 , mpox, 1 020 . - -, . , \" [mpox]\" 9 2022 (30 446). 10- (10 967), (7 560), (4 150), (\u2026 [+142 chars]",
       "retrievedAt": "2023-08-15 19:05:17.763478",
       "internal_id": "69b477ee943308e2132517f44b06b1423d27a23579f4f0433efe644b9558be6b",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1096,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Camila Perdoncini Carvalho, Junping Han, Khwannarin Khemsom, Ruifan Ren, Luis Eduardo Aranha Camargo, Shuhei Miyashita, Feng Qu",
-      "title": "Single-cell mutation rate of turnip crinkle virus (-)-strand replication intermediates",
-      "description": "Author summary Most (+) RNA viruses introduce replication errors at relatively high frequencies. As a result, it is of vital importance for these viruses to purge lethal errors in a timely manner. TCV, a plant-infecting small (+) RNA virus, was proposed to en\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011395",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011395.g003&size=inline",
-      "publishedAt": "2023-08-14 14:00:00",
-      "content": "Introduction Viruses with single-stranded, positive sense (+) RNA genomes are a major class of human, animal, and plant pathogens that include poliovirus, Dengue virus, Zika virus, and more recently\u2026 [+41383 chars]",
-      "retrievedAt": "2023-08-15 19:05:16.788295",
-      "internal_id": "138f234130b3e12cae7899b592a12e069b629d921f964f09e47155859f925014",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1099,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.nu.nl",
-      "author": "Trouw/Joost van Egmond",
-      "title": "Trouw | Kunnen we malaria bestrijden door muggen doof te maken?",
-      "description": "Een opmerkelijke benadering van ziekteverwekkende muggen biedt nieuwe kansen om de dieren te bestrijden: zet in op het gehoor van het mannetje, zeggen onderzoekers.",
-      "url": "https://www.nu.nl/uit-andere-media/6276444/kunnen-we-malaria-bestrijden-door-muggen-doof-te-maken.html",
-      "urlToImage": "https://media.nu.nl/m/5ylxo36ak5sj_wd1280/kunnen-we-malaria-bestrijden-door-muggen-doof-te-maken.jpg",
-      "publishedAt": "2023-08-14 13:41:57",
-      "content": "Dit artikel is afkomstig uit Trouw. Elke dag verschijnt een selectie van de beste artikelen uit de kranten en tijdschriften op NU.nl. Daar lees je hier meer over. Behalve een aartsvijand van vele me\u2026 [+1626 chars]",
-      "retrievedAt": "2023-08-15 19:05:17.245561",
-      "internal_id": "6bb7834048e93c73af023d590ff69490df49b9103aaf2ae148a402fe708b2604",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1101,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Challenges",
-      "author": "Reuters",
-      "title": "Valneva chute apr\u00e8s le report par la FDA de la date d'examen de son vaccin contre le Chikungunya",
-      "description": "(Reuters) - Le titre Valneva chutait en Bourse lundi apr\u00e8s la d\u00e9cision de l'agence am\u00e9ricaine du m\u00e9dicament (FDA) de reporter la date-cible de l'examen r\u00e9glementaire de son vaccin contre le Chikungunya. A la Bourse de Paris, vers 08h25 GMT, l'action du fabri\u2026",
-      "url": "https://www.challenges.fr/finance-et-marche/valneva-chute-apres-le-report-par-la-fda-de-la-date-d-examen-de-son-vaccin-contre-le-chikungunya_864314",
-      "urlToImage": "https://www.challenges.fr/assets/img/2023/08/14/cover-r4x3w1200-64d9f684a7904-le-logo-de-valneva-a-vienne-en-autriche.jpg",
-      "publishedAt": "2023-08-14 09:39:43",
-      "content": "(Reuters) - Le titre Valneva chutait en Bourse lundi apr\u00e8s la d\u00e9cision de l'agence am\u00e9ricaine du m\u00e9dicament (FDA) de reporter la date-cible de l'examen r\u00e9glementaire de son vaccin contre le Chikungun\u2026 [+1282 chars]",
-      "retrievedAt": "2023-08-15 19:05:17.612477",
-      "internal_id": "c77431e623ae702ff3967b0830fac340ef0d08f8e5525d3af6e941178f2a6478",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1103,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Rg.ru",
-      "author": null,
-      "title": "\u0412 \u0423\u043b\u0430\u043d-\u0411\u0430\u0442\u043e\u0440\u0435 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0442\u0440\u0438 \u0441\u043b\u0443\u0447\u0430\u044f \u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u044f \u043d\u0430 \u0431\u0443\u0431\u043e\u043d\u043d\u0443\u044e \u0447\u0443\u043c\u0443",
-      "description": "\u0412 \u0441\u0442\u043e\u043b\u0438\u0446\u0435 \u041c\u043e\u043d\u0433\u043e\u043b\u0438\u0438 \u0423\u043b\u0430\u043d-\u0411\u0430\u0442\u043e\u0440\u0435 \u0432\u044b\u044f\u0432\u0438\u043b\u0438 \u0442\u0440\u0438 \u0441\u043b\u0443\u0447\u0430\u044f \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f, \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e, \u0431\u0443\u0431\u043e\u043d\u043d\u043e\u0439 \u0447\u0443\u043c\u043e\u0439. \u041e\u0431 \u044d\u0442\u043e\u043c \u0441\u043e\u043e\u0431\u0449\u0438\u043b \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0437\u043e\u043e\u043d\u043e\u0437\u043d\u044b\u0445 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0439.",
-      "url": "https://rg.ru/2023/08/14/v-ulan-batore-zafiksirovali-tri-sluchaia-podozreniia-na-bubonnuiu-chumu.html",
-      "urlToImage": "https://cdnstatic.rg.ru/images/rg-social-dummy-logo-650x360.jpg",
-      "publishedAt": "2023-08-14 09:18:10",
-      "content": ", , , -. - . , 137 17 , . , , . , 2017 , , . - - . - , - , Yersinia pestis. . \"\", , , .",
-      "retrievedAt": "2023-08-15 19:05:18.371304",
-      "internal_id": "cca61e51bd8b46044fb0ad8e95ad8736f7c85b00d1e0ba8e8de90f6e5a9fcdca",
-      "publishedAtLabel": "Aug 14"
-    },
-    {
-      "id": 1100,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "L'Usine Nouvelle",
-      "author": "L'Usine Nouvelle",
-      "title": "Valneva chute apr\u00e8s le report par la FDA de la date d'examen de son vaccin contre le chikungunya",
-      "description": "Le titre Valneva chutait en Bourse ce 14 ao\u00fbt apr\u00e8s la d\u00e9cision de l'agence am\u00e9ricaine du m\u00e9dicament (FDA) de reporter la date-cible de l'examen r\u00e9glementaire de son vaccin contre le chikungunya. Mauvaise journ\u00e9e pour le laboratoire fran\u00e7ais Valneva. A la Bou\u2026",
-      "url": "https://www.usinenouvelle.com/article/valneva-chute-apres-le-report-par-la-fda-de-la-date-d-examen-de-son-vaccin-contre-le-chikungunya.N2160697",
-      "urlToImage": "https://www.usinenouvelle.com/mediatheque/2/0/1/001472102_300x200_c.JPG",
-      "publishedAt": "2023-08-14 07:39:00",
-      "content": "Mauvaise journ\u00e9e pour le laboratoire fran\u00e7ais Valneva. A la Bourse de Paris, vers 08h25 GMT, l'action du fabricant fran\u00e7ais de m\u00e9dicaments c\u00e9dait 9,71% \u00e0 6,06 euros \u00e0 09h18 GMT. En cause ? Le report \u2026 [+1196 chars]",
-      "retrievedAt": "2023-08-15 19:05:17.610338",
-      "internal_id": "35ab075cbed89e9a8e5bfc716becc512cfa4532c81786818777bc6df82d50e03",
       "publishedAtLabel": "Aug 14"
     }
   ]
