@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-08-23 19:05",
+  "last_updated": "2023-08-24 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 24,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 1324,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Martinique : La population appel\u00e9e \u00e0 la vigilance face \u00e0 l\u2019\u00e9pid\u00e9mie tr\u00e8s active de dengue",
+      "description": "Les autorit\u00e9s pr\u00e9conisent notamment de ne pas laisser l\u2019eau stagner mais aussi de se prot\u00e9ger avec des v\u00eatements longs et des r\u00e9pulsifs",
+      "url": "https://www.20minutes.fr/sante/4049849-20230823-martinique-population-appelee-vigilance-face-epidemie-tres-active-dengue",
+      "urlToImage": "https://img.20mn.fr/Yj-4PjnQRlqh6Ta60INxVyk/1200x768_file-this-2014-photo-made-available-by-the-u-s-centers-for-disease-control-and-prevention-shows-a-feeding-female-anopheles-gambiae-mosquito-the-species-is-a-known-vector-for-the-parasitic-disease-malaria-the-united-states-has-seen-five-cases-of-malaria-spread-by-mosquitos-in-the-last-two-months-the-first-time-there-s-been-local-spread-in-20-years-there-were-four-cases-detected-in-florida-and-one-in-texas-according-to-a-health-alert-issued-monday-june-26-2023-by-the-cdc-james-gathany-cdc-via-ap-file-nyss108-23177804052450-ap-provides-access-to-this-publicly-distributed-handout-photo-provided-by-the-u-s-centers-for-disease-control-and-prevention-mandatory-credit-file-photo-2306270030",
+      "publishedAt": "2023-08-23 03:55:51",
+      "content": "La Martinique tente actuellement de contrer la propagation de la dengue. Les autorit\u00e9s ont ainsi appel\u00e9 mardi la population \u00e0 se mobiliser pour lutter contre l\u2019\u00e9pid\u00e9mie qui circule activement dans l\u2019\u2026 [+2409 chars]",
+      "retrievedAt": "2023-08-24 07:05:40.805397",
+      "internal_id": "303c3fb2cf7f0f40a2dc631e01b1d951c4c9909dcca8470dad5d1d3d98b4cf7b",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 1323,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WGN TV Chicago",
+      "author": "Stephanie Overton",
+      "title": "Guests sue Las Vegas Strip hotel after bat found in room prompts rabies treatment",
+      "description": "The lawsuit alleges that the group from Arizona, which includes three families and four minors, had to undergo treatments after they were potentially exposed to rabies and were unable to test the bat for the disease.",
+      "url": "https://wgntv.com/news/nexstar-media-wire/guests-sue-las-vegas-strip-hotel-after-bat-found-in-room-prompts-rabies-treatment/",
+      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/08/AP489765549577.jpg?w=1280",
+      "publishedAt": "2023-08-22 23:12:43",
+      "content": "LAS VEGAS (KLAS) A group of Las Vegas guests have filed a lawsuit against New York-New York Hotel and Casino after a live bat was found in their hotel room, a Clark County District Court document sai\u2026 [+2943 chars]",
+      "retrievedAt": "2023-08-24 07:05:40.077890",
+      "internal_id": "7f8ef75e2c8eafaf518c64f67d809ded80e5884509c55523d090dff1b33b04a6",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 1325,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Guardian",
+      "author": "Nicola Davis Science correspondent",
+      "title": "British students urged to get meningitis jab to avoid serious illness",
+      "description": "Health agency reports about one in eight teenagers old enough to start college have missed out on free MenACWY vaccinationStudents heading to university should make sure they are vaccinated against four potentially deadly types of meningitis, health experts w\u2026",
+      "url": "https://www.theguardian.com/society/2023/aug/23/british-students-urged-to-get-meningitis-jab-to-avoid-serious-illness",
+      "urlToImage": "https://i.guim.co.uk/img/media/2d685fc45ded618d4bd4578e2b27f2466bdd31ca/0_5_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f1fbeafd2f2a5293a64b207bbcb444cf",
+      "publishedAt": "2023-08-22 23:01:11",
+      "content": "Students heading to university should make sure they are vaccinated against four potentially deadly types of meningitis, health experts warned after figures showed many young people remained unprotec\u2026 [+7287 chars]",
+      "retrievedAt": "2023-08-24 07:05:41.136074",
+      "internal_id": "55ff5c245341c0a9e8835ea727a789f4518dc50bb5c4d12406036d0949b41cb9",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 1322,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Nayonika Bose",
+      "title": "26 stray dogs get vaccinated against rabies at airport",
+      "description": "Near-field communication (NFC) tags have also been put around the vaccinated dogs in a bid to enhance the management of stray dogs. BMC carried out the vaccination drive in collaboration with NGO Yoda, Captain India, Zimaxx, and Mumbai Internat-ional Airport \u2026",
+      "url": "https://indianexpress.com/article/cities/mumbai/26-stray-dogs-get-vaccinated-against-rabies-at-airport-8904608/",
+      "urlToImage": "https://images.indianexpress.com/2023/08/dogs-main.jpg",
+      "publishedAt": "2023-08-22 19:33:55",
+      "content": "The Brihanmumbai Municipal Corporation (BMC) on Tuesday morning vaccinated 26 stray dogs against rabies at Terminal 2 of Chhatrapati Shivaji Maharaj International Airport in Mumbai. Near-field commu\u2026 [+2215 chars]",
+      "retrievedAt": "2023-08-24 07:05:40.070883",
+      "internal_id": "e44c90caafab687e4627458073a253522b48252151a3ad8dbac535a45762894d",
+      "publishedAtLabel": "Aug 22"
+    },
+    {
+      "id": 1326,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Weather Channel",
+      "author": "Associated Press",
+      "title": "Maryland Reports Locally Acquired Malaria Case | Weather.com",
+      "description": "A case of locally acquired malaria has been detected in Maryland for the first time in over 40 years. - Articles from The Weather Channel | weather.com",
+      "url": "https://weather.com/health/news/2023-08-22-maryland-malaria-case-reported",
+      "urlToImage": "https://s.w-x.co/mosquito_10.jpg",
+      "publishedAt": "2023-08-22 19:15:39",
+      "content": "NEW: Get breaking news delivered straight to your desktop or mobile phone. BALTIMORE (AP) Maryland has confirmed a case of locally acquired malaria in the state for the first time in more than 40 ye\u2026 [+1272 chars]",
+      "retrievedAt": "2023-08-24 07:05:41.718461",
+      "internal_id": "7792aca5d792f8e71dcf3a0fb4cad31668f7d9455dbafb027822769415c255dd",
+      "publishedAtLabel": "Aug 22"
+    },
     {
       "id": 1316,
       "query": [
@@ -3520,96 +3610,6 @@
       "retrievedAt": "2023-08-17 07:05:40.633692",
       "internal_id": "a70506e30c0b9975e4167b0ddcf2ac04868162fce1350d9991f400f24c54df4c",
       "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1128,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Wiktor Piech",
-      "title": "Walka z malari\u0105 wejdzie na nowy poziom? Przypadkowe odkrycie naukowc\u00f3w",
-      "description": "Naukowcy w trakcie swoich eksperyment\u00f3w dokonali przypadkowego odkrycia, kt\u00f3re mo\u017ce odmieni\u0107 walk\u0119 z malari\u0105. Wykryli naturalnie wyst\u0119puj\u0105cy szczep bakterii, kt\u00f3ry jest w stanie zablokowa\u0107 przenoszenie choroby z komar\u00f3w na ludzi.",
-      "url": "https://geekweek.interia.pl/medycyna/news-walka-z-malaria-wejdzie-na-nowy-poziom-przypadkowe-odkrycie-,nId,6953103",
-      "urlToImage": "https://i.iplsc.com/-/000HIE7K73TW4TUS-C429-F4.jpg",
-      "publishedAt": "2023-08-16 03:55:00",
-      "content": "Malaria jest tropikaln chorob pasoytnicz wywoan przez pierwotniaki z rodzaju Plasmodium, kt\u00f3re przenoszone s przez komary (z rodzaju Anopheles). Wanie one s ywicielem ostatecznym, z kolei czowiek jes\u2026 [+2159 chars]",
-      "retrievedAt": "2023-08-17 07:05:40.985531",
-      "internal_id": "35abb15a54a03f7a31a4582212001f167419f014bb0dd105815e381626604b8e",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1123,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u092a\u094d\u0930\u0915\u094b\u092a, \u0905\u092c \u0924\u0915 119 \u092e\u0930\u0940\u091c \u0906\u090f \u0938\u093e\u092e\u0928\u0947, \u0928\u094b\u090f\u0921\u093e \u092e\u0947\u0902 \u092d\u0940 \u092c\u095d\u0947 \u092e\u093e\u092e\u0932\u0947",
-      "description": "Ghaziabad Dengue News: \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0932\u0917\u093e\u0924\u093e\u0930 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u0930\u0940\u091c \u0938\u093e\u092e\u0928\u0947 \u0906 \u0930\u0939\u0947 \u0939\u0948\u0902\u0964 \u0905\u092c \u0924\u0915 119 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0938\u093e\u092e\u0928\u0947 \u0906\u0908 \u0939\u0948\u0964 60 \u0938\u094d\u0925\u093e\u0928\u094b\u0902 \u0915\u094b \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0935\u093f\u092d\u093e\u0917 \u0915\u0940 \u0913\u0930 \u0938\u0947 \u0938\u0902\u0935\u0947\u0926\u0928\u0936\u0940\u0932 \u0918\u094b\u0937\u093f\u0924 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u092d\u0940 \u0928\u0917\u0930 \u0928\u093f\u0917\u092e \u0915\u0940 \u0913\u0930 \u0938\u0947 \u090f\u0902\u091f\u0940 \u0932\u093e\u0930\u094d\u0935\u093e \u091b\u093f\u095c\u0915\u093e\u0935 \u0915\u094b \u0932\u0947\u0915\u0930 \u0915\u094b\u0908 \u0935\u094d\u092f\u0935\u0938\u2026",
-      "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/ghaziabad-noida-dengue-outbreak-119-patient-till-date-question-raised-on-fogging-malaria-numbers-up/articleshow/102758447.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-59306,msid-102758564/navbharat-times.jpg",
-      "publishedAt": "2023-08-16 03:53:50",
-      "content": ": , 119 60 38 500 20 5 , , . , 11 11 39 16 , , , , , , , , , , , , , , , , , , , , , , , , , , , -, , 16 -, , , , , , , , , , , , , - 93 93 , 37 8000 159 71 . 10 5 Navbharat Times News App\u2026 [+272 chars]",
-      "retrievedAt": "2023-08-17 07:05:40.389382",
-      "internal_id": "66867857110113602355811d13e36c02aa4f1a579e91a4fcbc3b485979edcd59",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1121,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Mercola.com",
-      "author": "Dr. Mercola",
-      "title": "Is the MMR Vaccine a Fraud or Does It Just Wear Off Quickly?",
-      "description": "Editor\u2019s Note: This article is a reprint. It was originally published April 3, 2018. In 1986, public health officials stated that MMR vaccination rates for kindergarten children were in excess of 95% and that one dose of live attenuated measles, mumps and ru\u2026",
-      "url": "https://articles.mercola.com/sites/articles/archive/2023/08/16/mmr-vaccine-fraud-or-not.aspx",
-      "urlToImage": "https://media.mercola.com/ImageServer/Public/2023/August/FB/mmr-vaccine-fraud-or-not-fb.jpg",
-      "publishedAt": "2023-08-16 00:00:00",
-      "content": "Mercola proudly supports these charities and organizations. View All Disclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual a\u2026 [+1007 chars]",
-      "retrievedAt": "2023-08-17 07:05:40.087508",
-      "internal_id": "07fb9296c469c484a7d68448aafcbe0cea9ab72848219d8dc3e6c252e3af559a",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1120,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Guardian",
-      "author": "Lucy Mangan",
-      "title": "Henpocalypse! review \u2013 a rude, crude pandemic comedy for Smack the Pony fans",
-      "description": "A group of wild women emerge from a weekend bender to find a deadly virus has wiped out the male population. Their survival story is daft, surreal and totally liberatingIt had me at \u201ccrab measles\u201d, to be honest. If that doesn\u2019t strike you as the perfect name \u2026",
-      "url": "https://www.theguardian.com/tv-and-radio/2023/aug/15/henpocalypse-review-bbc-pandemic-comedy",
-      "urlToImage": "https://i.guim.co.uk/img/media/d7a79891e6715928e7734aac87824096c690d189/0_82_4285_2571/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=19759581ec12e0c8a046158b5045c267",
-      "publishedAt": "2023-08-15 21:30:29",
-      "content": "It had me at crab measles, to be honest. If that doesnt strike you as the perfect name for a virus capable of wiping out the entire male population, you will still enjoy Henpocalypse! and you should \u2026 [+9595 chars]",
-      "retrievedAt": "2023-08-17 07:05:40.082723",
-      "internal_id": "393d25d93e4a427d8f4286cd4470bf7e28d7ea70650ca547b8b6cca5f41803fb",
-      "publishedAtLabel": "Aug 15"
-    },
-    {
-      "id": 1119,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "PRNewswire",
-      "title": "YS Biopharma Announces Unaudited Financial Results for the First Quarter of Fiscal Year 2024",
-      "description": "(marketscreener.com) Pipeline makes progress towards commercialization as robust demand for YSJA rabies vaccine continues Gross margin increases to 80.3%; balance sheet remains strong GAITHERSBURG, Md., Aug. 15, 2023 /PRNewswire/ -- YS Biopharma Co., Ltd. ,\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/YS-BIOPHARMA-CO-LTD-152273024/news/YS-Biopharma-Announces-Unaudited-Financial-Results-for-the-First-Quarter-of-Fiscal-Year-2024-44621605/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-08-15 21:01:05",
-      "content": "Pipeline makes progress towards commercialization as robust demand for YSJA rabies vaccine continues Gross margin increases to 80.3%; balance sheet remains strong GAITHERSBURG, Md., Aug. 15, 2023 /\u2026 [+25142 chars]",
-      "retrievedAt": "2023-08-17 07:05:39.698521",
-      "internal_id": "838d20e7e3b2ef3a3b64df333cb0ad899d796c8e9a2a18171f6e5a8b9260cfb1",
-      "publishedAtLabel": "Aug 15"
     }
   ]
 }
