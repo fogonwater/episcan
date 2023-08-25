@@ -1,8 +1,245 @@
 {
-  "last_updated": "2023-08-25 07:05",
+  "last_updated": "2023-08-25 19:05",
   "count_articles_total": 300,
   "count_articles_new": 13,
   "articles": [
+    {
+      "id": 1368,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Altri due casi di Dengue nel Lodigiano, non sono gravi",
+      "description": "A Castiglione D'Adda sono stati identificati due nuovi casi di infezione del virus Dengue trasmesso da zanzare Aedes aegypti: riguardano una bambina ricoverata all'ospedale di Lodi, non in gravi condizioni, e un 60enne gi\u00e0 guarito e tornato a lavorare. (ANSA)",
+      "url": "https://www.ansa.it/lombardia/notizie/2023/08/24/altri-due-casi-di-dengue-nel-lodigiano-non-sono-gravi_561380da-7eac-4f51-98ae-12d15ffb5be7.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2018/6/22/ded9844ee752cd4669ab5a84f8f7412f.jpg",
+      "publishedAt": "2023-08-24 18:40:37",
+      "content": "A Castiglione D'Adda sono stati identificati due nuovi casi di infezione del virus Dengue trasmesso da zanzare Aedes aegypti: riguardano una bambina ricoverata all'ospedale di Lodi, non in gravi c\u2026 [+1256 chars]",
+      "retrievedAt": "2023-08-25 19:05:29.317393",
+      "internal_id": "70a7a9ec8e5e6352a67f20bfd29d9b5301811eba27d28af0b161b4a9d05022a7",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1361,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Simone Blanes",
+      "title": "Como c\u00e1psulas de caf\u00e9 podem ajudar a diagnosticar febre amarela?",
+      "description": "Basta uma gota de sangue do paciente para o sensor identificar fragmentos do DNA da doen\u00e7a por meio de rea\u00e7\u00e3o eletroqu\u00edmica",
+      "url": "https://veja.abril.com.br/saude/como-capsulas-de-cafe-podem-ajudar-a-diagnosticar-febre-amarela",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/08/44646.jpg?quality=90&strip=info&w=680&h=369&crop=1",
+      "publishedAt": "2023-08-24 18:34:01",
+      "content": "Por apresentar sintomas semelhantes a outras doen\u00e7as transmitidas pelo mosquito Aedes aegypti, entre elas chikungunya, dengue e zika, a febre amarela n\u00e3o \u00e9 uma arbovirose de f\u00e1cil diagn\u00f3stico. Para s\u2026 [+3611 chars]",
+      "retrievedAt": "2023-08-25 19:05:29.302163",
+      "internal_id": "d9592ad8dd1ca001caa7201c7f07ca58a31329a655ff0e44cba2d3b140a719c1",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1365,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+      "title": "Virus Dengue, in Lombardia due nuovi casi autoctoni: una bambina e un 60enne. Screening volontario a Castiglione d\u2019Adda",
+      "description": "Entrambi non sono gravi, ma la Regione alza l\u2019allerta per le infezioni trasmesse dalla zanzara tigre",
+      "url": "https://milano.repubblica.it/cronaca/2023/08/24/news/virus_dengue_nuovi_casi_lombardia_screening_castiglione_adda-412170391/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-milano/2023/08/24/190723928-e5406fef-4b8d-4b08-8b6d-14d8d05d5614.jpg",
+      "publishedAt": "2023-08-24 17:07:25",
+      "content": "Identificati a Castiglione d'Adda due nuovi casi di infezione da virus Dengue, trasmesso da zanzare Aedes (zanzara tigre). \"Riguardano una bambina, attualmente ricoverata in condizioni non gravi all'\u2026 [+3109 chars]",
+      "retrievedAt": "2023-08-25 19:05:29.312861",
+      "internal_id": "f52a28ea8052103cbda807d3a33072829005440d86b61c8c6ee5055a776b0448",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1367,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Munic\u00edpio do Rio vai testar vacina contra a dengue tipo 1",
+      "description": "Teste funcionar\u00e1 como uma preven\u00e7\u00e3o dos per\u00edodos de ver\u00e3o, quando os casos da doen\u00e7a costumam aumentar",
+      "url": "https://noticias.r7.com/rio-de-janeiro/municipio-do-rio-vai-testar-vacina-contra-a-dengue-tipo-1-24082023",
+      "urlToImage": "https://img.r7.com/images/r7rio-082023-vacina-dengue-24082023144349634?crop_position=c&dimensions=340x191",
+      "publishedAt": "2023-08-24 16:07:08",
+      "content": "A cidade do Rio de Janeiro deve testar, at\u00e9 o fim deste ano, uma vacina contra a dengue em popula\u00e7\u00e3o espec\u00edfica. Segundo o Secret\u00e1rio Municipal de Sa\u00fade, Daniel Soranz, essa \u00e9 uma parceria entre o Mi\u2026 [+2556 chars]",
+      "retrievedAt": "2023-08-25 19:05:29.315865",
+      "internal_id": "9abddf83582652a9d945a7ab93ccd1834cf0dc9582e1253f748eb7c5bb9fdc5f",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1359,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "23 deaths due to whooping cough",
+      "description": "PETALING JAYA: It starts like a common cold \u2013 and can lead to death. Whooping cough is on the rise, with 23 deaths up to August this year, out of 329 cases. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/08/25/23-deaths-due-to-whooping-cough",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-08-24 16:00:00",
+      "content": "PETALING JAYA: It starts like a common cold and can lead to death. Whooping cough is on the rise, with 23 deaths up to August this year, out of 329 cases. Also known as pertussis, it is highly conta\u2026 [+2653 chars]",
+      "retrievedAt": "2023-08-25 19:05:28.400995",
+      "internal_id": "a6349c966ae7cb0032abe8138b24a413c71bc774683361bfc50bc94ebcdd161f",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1363,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Study finds higher temperatures can make dengue virus more virulent",
+      "description": "Increasing temperatures could make the Dengue virus more virulent, according to researchers at the Rajiv Gandhi Centre for Biotechnology. The study found that dengue becomes more severe in animal models when grown in mosquito cells exposed to higher temperatu\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/study-finds-higher-temperatures-can-make-dengue-virus-more-virulent/articleshow/103031335.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103031409,width-1070,height-580,imgsize-33632,overlay-etpanache/photo.jpg",
+      "publishedAt": "2023-08-24 14:44:21",
+      "content": "The Dengue virus could become more virulent due to increasing temperatures, according to a study that could help in predicting and mitigating the severity and virulence of the recurring tropical dise\u2026 [+3287 chars]",
+      "retrievedAt": "2023-08-25 19:05:29.307816",
+      "internal_id": "f22834983e9d1aaf432da720aa3ac21b51f9887d222eb84dfffbed72b66aed56",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1362,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Reuters",
+      "title": "Indian Immunologicals targets dengue vaccine launch by Jan 2026",
+      "description": "(marketscreener.com) Vaccine manufacturer Indian Immunologicals Limited expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the country's first such vaccine heats up. https://www.marketscreener.c\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/PANACEA-BIOTEC-LIMITED-9059337/news/Indian-Immunologicals-targets-dengue-vaccine-launch-by-Jan-2026-44686699/",
+      "urlToImage": "https://img.zonebourse.com/reuters/2023-08/2023-08-24T065456Z_1_LYNXMPEJ7N08N_RTROPTP_3_INDIA-HEALTH.JPG",
+      "publishedAt": "2023-08-24 14:22:21",
+      "content": "HYDERABAD (Reuters) - Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the \u2026 [+1587 chars]",
+      "retrievedAt": "2023-08-25 19:05:29.305535",
+      "internal_id": "e3141ad4802e5c237ca826c5ce80f07c10ec8a007037b8d0aca2417fa4095abf",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1366,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ana C. Alcal\u00e1, Juan E. Ludert",
+      "title": "The dengue virus NS1 protein; new roles in pathogenesis due to similarities with and affinity for the high-density lipoprotein (HDL)?",
+      "description": "",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011587",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011587.g001&size=inline",
+      "publishedAt": "2023-08-24 14:00:00",
+      "content": "Citation: Alcal\u00e1 AC, Ludert JE (2023) The dengue virus NS1 protein; new roles in pathogenesis due to similarities with and affinity for the high-density lipoprotein (HDL)? PLoS Pathog 19(8): e10115\u2026 [+23405 chars]",
+      "retrievedAt": "2023-08-25 19:05:29.314732",
+      "internal_id": "a637e5536bc83d78b73208b50a5239287c7b55639467064415a7cc3161d3463f",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1371,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Suneth Agampodi, Sajaan Gunarathna, Jung-Seok Lee, Jean-Louis Excler",
+      "title": "Global, regional, and country-level cost of leptospirosis due to loss of productivity in humans",
+      "description": "Author summary Leptospirosis is a widespread disease that affects humans and animals and is mostly affecting individuals living in resource-poor settings, in particular in tropical and subtropical regions. To understand the economic impact of this disease, we\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011291",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011291.g002&size=inline",
+      "publishedAt": "2023-08-24 14:00:00",
+      "content": "Abstract Background Leptospirosis, a prevalent zoonotic disease with One Health priority and a disease of poverty, lacks global economic burden estimates. This study aims to determine the global, r\u2026 [+33450 chars]",
+      "retrievedAt": "2023-08-25 19:05:31.463326",
+      "internal_id": "d805cc267ae0f3a9f2e3ecf43b731112730de17b9d1832c6fe26643907161ced",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1360,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Southwest Virginia Today",
+      "author": "STEPHANIE PORTER-NICHOLS Smyth County News & Messenger",
+      "title": "Aircraft to distribute oral rabies vaccine baits",
+      "description": "Over the next several months, area residents may see low-flying aircraft distributing small sachets or cubes. They\u2019re working to prevent the spread of rabies, a serious and continuing threat to health.",
+      "url": "https://swvatoday.com/news/community/article_5386ed10-4061-11ee-b25e-d7c9c7bf89f2.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/a/67/a67347aa-48e1-577f-acae-c82f8d82ea6c/64e7a325430e6.image.jpg?crop=1400%2C735%2C0%2C175&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-08-24 12:30:00",
+      "content": "STEPHANIE PORTER-NICHOLS Smyth County News &amp; Messenger WYTHEVILLE - Over the next several months, low-flying aircraft will be distributing small sachets or cubes across Southwest Virginia. They\u2026 [+4141 chars]",
+      "retrievedAt": "2023-08-25 19:05:28.697572",
+      "internal_id": "ab3d313081bc51e07f483b6c5c2fac5948e2c04935d5732139180aa239af7b9e",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1370,
+      "query": [
+        "malaria",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Poynter",
+      "author": "Enock Nyariki",
+      "title": "Fact-checkers from Nigeria, Indonesia and Brazil win GlobalFact 10 awards",
+      "description": "For years, lured by the promise of an easy cure, people across Nigeria\u2019s capital of Abuja sought relief from ailments such as malaria, typhoid, stomach ulcers and other sources of [\u2026] The post Fact-checkers from Nigeria, Indonesia and Brazil win GlobalFact 10\u2026",
+      "url": "https://www.poynter.org/fact-checking/2023/dubawa-cek-fakta-brazil-globalfact-10-awards/",
+      "urlToImage": "https://www.poynter.org/wp-content/uploads/2023/08/4_24_007-scaled.jpg",
+      "publishedAt": "2023-08-24 10:00:01",
+      "content": "For years, lured by the promise of an easy cure, people across Nigeria\u2019s capital of Abuja sought relief from ailments such as malaria, typhoid, stomach ulcers and other sources of pain through a popu\u2026 [+7727 chars]",
+      "retrievedAt": "2023-08-25 19:05:30.109865",
+      "internal_id": "b83a49682d604a56b3943409b3bf79c42a8567e925406d03c94a489a2256ec32",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1369,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Todayjaffna.com",
+      "author": "Tiva Ram",
+      "title": "\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba8\u0bcb\u0baf\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1!",
+      "description": "Meningococcal \u2013 Meningitis \u0baa\u0bb1\u0bcd\u0bb1\u0bc0\u0bb0\u0bbf\u0baf\u0bbe \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0b85\u0b9a\u0bcd\u0b9a\u0bae\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0b8e\u0ba9 \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bbe\u0ba9 \u0baa\u0bb2 \u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd \u0b9a\u0bae\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bbf\u0ba9\u0bbf\u0b95\u0bc7 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0b95\u0bbe\u0bb2\u0bbf \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u2026",
+      "url": "https://www.todayjaffna.com/335435",
+      "urlToImage": "https://www.todayjaffna.com/wp-content/uploads/2023/08/\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1-\u0ba8\u0bcb\u0baf\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1-1.png",
+      "publishedAt": "2023-08-24 07:35:54",
+      "content": "Meningococcal \u2013 Meningitis . . , Meningococcal \u2013 Meningitis . . \u201c . . . . . \u201d .",
+      "retrievedAt": "2023-08-25 19:05:29.696247",
+      "internal_id": "186500bf30572c28ee4628cf26a1f28b58f99c96412a8fba454f9096afc2e665",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1364,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Indian Immunologicals Targets Dengue Vaccine Launch By January 2026",
+      "description": "Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the country's first such vaccine heats up.",
+      "url": "https://www.ndtv.com/india-news/indian-immunologicals-limited-targets-dengue-vaccine-launch-by-january-2026-4324867",
+      "urlToImage": "https://c.ndtvimg.com/2021-06/r6e5kmv8_vaccine-generic-650_625x300_25_June_21.jpeg",
+      "publishedAt": "2023-08-24 07:09:31",
+      "content": "The company said vaccine's early-stage trials did not demonstrate any adverse effects. HYDERABAD: Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue f\u2026 [+1696 chars]",
+      "retrievedAt": "2023-08-25 19:05:29.309389",
+      "internal_id": "5400ce8c29c98e19767409bc2475cbdd6f084175df4fafc42cc94b91f327bf24",
+      "publishedAtLabel": "Aug 24"
+    },
     {
       "id": 1349,
       "query": [
@@ -3378,240 +3615,6 @@
       "retrievedAt": "2023-08-18 19:05:32.392251",
       "internal_id": "26782fab58d18839680339a025829cc48bc008685ee88763fc0c4b3306e2b1ef",
       "publishedAtLabel": "Aug 17"
-    },
-    {
-      "id": 1175,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "4 more cases of locally acquired dengue reported in Florida as virus continues to spread: Officials - ABC News",
-      "description": "4 more cases of locally acquired dengue reported in Florida as virus continues to spread: OfficialsABC News Dengue fever in Florida: What to know about virus, symptoms, prevention - The Washington PostThe Washington Post Florida officials sound alarm on dengu\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171637634",
-      "urlToImage": null,
-      "publishedAt": "2023-08-17 10:52:10",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-08-18 19:05:32.405004",
-      "internal_id": "093b677ebb06b597119efbc6cb34b26ee6be43afc3fb709d4807d84e5185955a",
-      "publishedAtLabel": "Aug 17"
-    },
-    {
-      "id": 1177,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Lyric Li",
-      "title": "Dengue fever in Florida: What to know about virus, symptoms, prevention",
-      "description": "Broward and Miami-Dade counties reported rare, locally acquired cases of dengue, a disease also known as breakbone fever that is increasingly common worldwide.",
-      "url": "https://www.washingtonpost.com/health/2023/08/17/dengue-fever-symptoms-virus-florida/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RGKLWJCLXAI63AKTS3XJPMQY2I.jpg&w=1440",
-      "publishedAt": "2023-08-17 10:33:30",
-      "content": "Comment on this story Comment Florida health officials are warning residents about the risks of mosquito-borne illnesses after five cases of dengue fever were reported this month in a part of the U\u2026 [+789 chars]",
-      "retrievedAt": "2023-08-18 19:05:32.411124",
-      "internal_id": "8c4c742cf5341bf8d01f1b2f23ce08287dbdb77853852e2bde5f998cb675352e",
-      "publishedAtLabel": "Aug 17"
-    },
-    {
-      "id": 1186,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "lesoleil@lesoleil.sn (Le Soleil)",
-      "title": "S\u00e9n\u00e9gal: Sant\u00c3\u00a9 - 47 cas de chikungunya recens\u00c3\u00a9s dans la r\u00c3\u00a9gion de K\u00c3\u00a9dougou",
-      "description": "[Le Soleil] Quarante-sept (47) cas de chikungunya ont \u00e9t\u00e9 recens\u00e9s, dans la r\u00e9gion de K\u00e9dougou, en moins deux semaines, durant le mois d'ao\u00fbt rapporte l'Agence de presse s\u00e9n\u00e9galaise (APS).",
-      "url": "https://fr.allafrica.com/stories/202308170201.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-08-17 09:03:02",
-      "content": "Quarante-sept (47) cas de chikungunya ont \u00e9t\u00e9 recens\u00e9s, dans la r\u00e9gion de K\u00e9dougou, en moins deux semaines, durant le mois d'ao\u00fbt rapporte l'Agence de presse s\u00e9n\u00e9galaise (APS). Les premiers cas ont \u2026 [+548 chars]",
-      "retrievedAt": "2023-08-18 19:05:33.604807",
-      "internal_id": "6ed3b1a82503f8fc74b16094e3a3a8b8dca1f81860c2e664d6145a0183930e29",
-      "publishedAtLabel": "Aug 17"
-    },
-    {
-      "id": 1171,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "'Veer' actress Zareen Khan back home after being hospitalised for 1 day; 4 foods to recover from dengue",
-      "description": "Khan made her debut in 2010 opposite Salman Khan in the romantic adventure-drama \u2018Veer\u2019.",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/veer-actress-zareen-khan-back-home-after-being-hospitalised-for-1-day-4-foods-to-recover-from-dengue/articleshow/102797756.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-102797976,width-1070,height-580,imgsize-22800,overlay-etpanache/photo.jpg",
-      "publishedAt": "2023-08-17 08:32:37",
-      "content": "Actress Zareen Khan is back home after being hospitalied. The stunner who debuted as Salman Khans leading lady in the 2010 period drama Veer, was admitted to a Mumbai hospital after coming down with \u2026 [+2272 chars]",
-      "retrievedAt": "2023-08-18 19:05:32.389934",
-      "internal_id": "ba6efe1b5a7d843c5e578e113806a720ae74ac9e0a7189fc163fedccb9ee410b",
-      "publishedAtLabel": "Aug 17"
-    },
-    {
-      "id": 1170,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Dietitian's Picks: The 5 Must-Have Foods For A Speedy Dengue Recovery",
-      "description": "Recovering from dengue? Here are some foods endorsed by an expert, which be your allies on the path to recuperation.",
-      "url": "https://food.ndtv.com/health/dietitians-picks-the-5-must-have-foods-for-a-speedy-dengue-recovery-4305004",
-      "urlToImage": "https://c.ndtvimg.com/2023-08/pielkh7o_dengue_625x300_17_August_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
-      "publishedAt": "2023-08-17 08:12:35",
-      "content": "Heavy and prolonged showers during the monsoon season pose a significant health challenge - mosquito-borne diseases. Stagnant water collected over the extended monsoon becomes a breeding ground for m\u2026 [+3765 chars]",
-      "retrievedAt": "2023-08-18 19:05:32.386986",
-      "internal_id": "eb0e34b9a2a20100af188fe52d84440196189707fcb128012431ab10268677fd",
-      "publishedAtLabel": "Aug 17"
-    },
-    {
-      "id": 1164,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Redazione)",
-      "title": "Un caso sospetto di Dengue a Monza Disinfestazione in tutto il quartiere",
-      "description": "Paura per la malattia virale che \u00e8 trasmessa dalle zanzare",
-      "url": "https://www.ilgiornale.it/news/caso-sospetto-dengue-monza-disinfestazione-tutto-quartiere-2197663.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2020/03/05/1583394198-disinfestazione-treno.jpg?_=1583394198",
-      "publishedAt": "2023-08-17 07:05:13",
-      "content": "Un caso sospetto di Dengue, la malattia virale trasmessa dalle zanzare a Monza. L'Ats Brianza ha subito avvertito il Comune di Monza che ha disposto con un'ordinanza una disinfestazione straordinaria\u2026 [+2074 chars]",
-      "retrievedAt": "2023-08-18 07:05:33.964131",
-      "internal_id": "776511abc7da2be1d8873e3bfe1c12d200af6f1b8556657dd34e47e07d57f8b7",
-      "publishedAtLabel": "Aug 17"
-    },
-    {
-      "id": 1163,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Over 200% spike in dengue cases in Kelantan, says Health Director",
-      "description": "KOTA BHARU: A total of 1,514 cases of dengue fever were recorded in Kelantan from January to August 12, an increase of 225% compared to the same period last year. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/08/17/over-200-spike-in-dengue-cases-in-kelantan-says-health-director",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/17/2235484.jpg",
-      "publishedAt": "2023-08-17 06:46:00",
-      "content": "KOTA BHARU: A total of 1,514 cases of dengue fever were recorded in Kelantan from January to August 12, an increase of 225% compared to the same period last year. Kelantan Health Department (JKNK) d\u2026 [+1716 chars]",
-      "retrievedAt": "2023-08-18 07:05:33.958484",
-      "internal_id": "c211d1eedad609652c2f721455a185410662c499340b77625fad3c0bc93c1a77",
-      "publishedAtLabel": "Aug 17"
-    },
-    {
-      "id": 1165,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "Buenos resultados de una vacuna experimental contra la malaria",
-      "description": "Una vacuna experimental contra la malaria parece segura y favorece la respuesta inmunitaria en lactantes africanos, uno de los grupos m\u00e1s vulnerables a la malaria grave, seg\u00fan un ensayo cl\u00ednico publicado en la revista 'Med'.",
-      "url": "https://www.infosalus.com/salud-investigacion/noticia-buenos-resultados-vacuna-experimental-contra-malaria-20230817071648.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230817071648_1200.jpg",
-      "publishedAt": "2023-08-17 05:16:48",
-      "content": "MADRID, 17 Ago. (EUROPA PRESS) - Una vacuna experimental contra la malaria parece segura y favorece la respuesta inmunitaria en lactantes africanos, uno de los grupos m\u00e1s vulnerables a la malaria \u2026 [+5141 chars]",
-      "retrievedAt": "2023-08-18 07:05:35.292893",
-      "internal_id": "3a6a403e08450322fb908e5b56e068b941b055ec5daeb01b17d56c9d891c6770",
-      "publishedAtLabel": "Aug 17"
-    },
-    {
-      "id": 1166,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Thefreedictionary.com",
-      "author": null,
-      "title": "Salmonella",
-      "description": "Salmonella is a certain type of bacteria, several species of which are responsible for typhoid fever, paratyphoid fever, and food poisoning in humans. It is usually contracted from poultry, meat, or raw eggs and from food that has been cooked or frozen and no\u2026",
-      "url": "https://encyclopedia.thefreedictionary.com/Salmonella",
-      "urlToImage": "http://img.tfd.com/TFDlogo1200x1200.png",
-      "publishedAt": "2023-08-17 04:22:08",
-      "content": "Salmonella/\u02ccs\u00e6lm\u0259\u02c8n\u025bl\u0259/ is a genus of rod-shaped, Gram-negative, non-spore-forming, predominantly motileenterobacteria with diameters around 0.7 to 1.5 \u00b5m, lengths from 2 to 5 \u00b5m, and flagella that g\u2026 [+28964 chars]",
-      "retrievedAt": "2023-08-18 07:05:36.946147",
-      "internal_id": "49c9e7a970f953286eac92c6d59ed3a45f902ed3a81e674bc18978d41f4c6e9f",
-      "publishedAtLabel": "Aug 17"
-    },
-    {
-      "id": 1160,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WKTV",
-      "author": "Zach Lewis",
-      "title": "4 Kittens Test Positive for Rabies in Rome; 9 People Exposed",
-      "description": "ROME, N.Y. -- The Oneida County Health Department announced that four kittens in Rome tested positive for rabies.",
-      "url": "https://www.wktv.com/news/health/4-kittens-test-positive-for-rabies-in-rome-9-people-exposed/article_6eca4c0a-3c71-11ee-a362-bb5f0909e4d6.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/1/29/129cdb58-3c73-11ee-9c85-bb942bec5d2c/64dd30e746398.image.png?crop=1712%2C899%2C0%2C155&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-08-17 01:00:08",
-      "content": "ROME, N.Y. -- The Oneida County Health Department announced that four kittens in Rome tested positive for rabies. The Oneida County Health Department announced that four kittens in Rome tested posi\u2026 [+2190 chars]",
-      "retrievedAt": "2023-08-18 07:05:32.751168",
-      "internal_id": "500bb6d75826f231cffc189a64cd2d5416c0ca82b169015b9e2fa209796420bf",
-      "publishedAtLabel": "Aug 17"
-    },
-    {
-      "id": 1162,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "UPI.com",
-      "author": "Adam Schrader",
-      "title": "Florida health officials warn of spreading dengue fever cases",
-      "description": "Health officials in Florida are warning of a potential increase in dengue fever cases after two new cases were reported to have spread locally in Broward...",
-      "url": "https://www.upi.com/Top_News/US/2023/08/16/florida-health-officials-warn-spreading-dengue-fever/3231692224504/",
-      "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/5aceaf00635e3604bf906be49d6863b4",
-      "publishedAt": "2023-08-16 23:01:59",
-      "content": "Aug. 16 (UPI) -- Health officials in Florida are warning of a potential increase in dengue fever cases after two new cases were reported to have spread locally in Broward County. Those cases, the fi\u2026 [+1316 chars]",
-      "retrievedAt": "2023-08-18 07:05:33.954966",
-      "internal_id": "dad1fab4429fe648264487a5cb02dbd1a410d209c58b7f3b3526aa7362974940",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1158,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Times of Israel",
-      "author": null,
-      "title": "In mix-up, Jerusalem hospital gives rabies shots to 5 pregnant women",
-      "description": "Hadassah Medical Center says none of the expectant mothers or their pregnancies were hurt from injections, calls them back for anti-D shots",
-      "url": "https://www.timesofisrael.com/in-mix-up-jerusalem-hospital-gives-rabies-shots-to-5-pregnant-women/",
-      "urlToImage": "https://static.timesofisrael.com/www/uploads/2018/10/F110526YZ06-1024x640.jpg",
-      "publishedAt": "2023-08-16 21:58:30",
-      "content": "Five pregnant women were given rabies shots at Hadassah Medical Center in Jerusalem instead of anti-D shots earlier this week, a medical publication reported. The hospital has told the women that ne\u2026 [+1126 chars]",
-      "retrievedAt": "2023-08-18 07:05:32.742417",
-      "internal_id": "116eb2d6b14ce0a24c7adf46d3e44c3d657b156c7922ba36f09cd2bf7729a9fb",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1156,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "Several vaccines associated with reduced risk of Alzheimer's disease in adults 65 and older",
-      "description": "Prior vaccination against tetanus and diphtheria, with or without pertussis (Tdap/Td); herpes zoster (HZ), better known as shingles; and pneumococcus are all associated with a reduced risk for developing Alzheimer's disease, according to new research.",
-      "url": "https://www.sciencedaily.com/releases/2023/08/230816170628.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-08-16 21:06:28",
-      "content": "Prior vaccination against tetanus and diphtheria, with or without pertussis (Tdap/Td); herpes zoster (HZ), better known as shingles; and pneumococcus are all associated with a reduced risk for develo\u2026 [+6949 chars]",
-      "retrievedAt": "2023-08-18 07:05:32.459374",
-      "internal_id": "ed495c772681fa6ac15a3fca3756fca379eea6271fb87296012682fd4e80dcd5",
-      "publishedAtLabel": "Aug 16"
     }
   ]
 }
