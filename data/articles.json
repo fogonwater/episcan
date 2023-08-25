@@ -1,8 +1,243 @@
 {
-  "last_updated": "2023-08-24 19:05",
+  "last_updated": "2023-08-25 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 19,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 1349,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Reuters",
+      "title": "Indian Immunologicals targets dengue vaccine launch by Jan 2026",
+      "description": "(marketscreener.com) Vaccine manufacturer Indian Immunologicals Limited expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the country's first such vaccine heats up. https://www.marketscreener.c\u2026",
+      "url": "https://www.marketscreener.com/news/latest/Indian-Immunologicals-targets-dengue-vaccine-launch-by-Jan-2026--44686699/",
+      "urlToImage": "https://img.zonebourse.com/reuters/2023-08/2023-08-24T065456Z_1_LYNXMPEJ7N08N_RTROPTP_3_INDIA-HEALTH.JPG",
+      "publishedAt": "2023-08-24 06:54:56",
+      "content": "HYDERABAD (Reuters) - Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the \u2026 [+1587 chars]",
+      "retrievedAt": "2023-08-25 07:05:32.308091",
+      "internal_id": "e6342da7573a251193a03d58ac94e4e9fd889013af4d096f7bb6994b4d554a13",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1350,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Indian Immunologicals targets dengue vaccine launch by January 2026",
+      "description": "Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the country's first such vaccine heats up. Dengue, a mosquito-borne disease, has over \u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-immunologicals-targets-dengue-vaccine-launch-by-jan-2026/articleshow/103012111.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103012167,width-1070,height-580,imgsize-16072,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-08-24 06:48:23",
+      "content": "Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the country's first such v\u2026 [+1575 chars]",
+      "retrievedAt": "2023-08-25 07:05:32.310413",
+      "internal_id": "d1e5e89de2f012586feff2e5ce5c6800717f60ff6613b4f8b4f50da4577abefc",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1354,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Statetimes.in",
+      "author": "statetimes_editor",
+      "title": "Jammu Mayor starts fogging to check dengue spread",
+      "description": "STATE TIMES NEWS JAMMU: To counter the increasing growth of mosquitoes in the city and to prevent the spread of deadly dengue fever, the Mayor of Jammu city, Rajinder Sharma on Wednesday started fogging process at many areas of the city.Speaking on the occasi\u2026",
+      "url": "https://statetimes.in/jammu-mayor-starts-fogging-to-check-dengue-spread/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2023/08/MAYORff.jpg",
+      "publishedAt": "2023-08-24 06:13:49",
+      "content": "STATE TIMES NEWS JAMMU: To counter the increasing growth of mosquitoes in the city and to prevent the spread of deadly dengue fever, the Mayor of Jammu city, Rajinder Sharma on Wednesday started fog\u2026 [+1059 chars]",
+      "retrievedAt": "2023-08-25 07:05:32.320226",
+      "internal_id": "04a912f96f9fdacdac239bf7c95e41f99404df43b962e4c430e2b5c31c1185d6",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1347,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Measles Outbreak in Benue IDPs Camp Escalates",
+      "description": "[Vanguard] ...10 cases recorded, other unconfirmed cases being investigated",
+      "url": "https://allafrica.com/stories/202308240052.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-08-24 06:12:59",
+      "content": "...10 cases recorded, other unconfirmed cases being investigated The measles outbreak at the Agagbe Internally Displaced Persons, IDPs, in Gwer West Local Government Area, LGA, of Benue state has es\u2026 [+1405 chars]",
+      "retrievedAt": "2023-08-25 07:05:31.856638",
+      "internal_id": "7e4839008707c2efe2aebfdee0f0058fc09b2004f3f1d8612a2839d84a1fe6a2",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1352,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Gesundheitswarnung - Gardasee schl\u00e4gt Dengue-Fieber-Alarm",
+      "description": "Innerhalb einer Woche sind am Gardasee zwei Verdachtsf\u00e4lle auf Dengue-Fieber gemeldet worden. Einwohner werden dringend gebeten, Wasseransammlungen zu meiden.",
+      "url": "https://www.focus.de/gesundheit/gesundheitswarnung-dengue-fieber-am-gardasee-aufgetreten_id_202633853.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_201434996/gettyimages-1036704984.jpg?im=Crop%3D%280%2C199%2C2121%2C1061%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=5705b86651584cc017298755d862e4fffdc497acfa7fe9576d2ff6169f96a763",
+      "publishedAt": "2023-08-24 05:42:37",
+      "content": "Innerhalb einer Woche sind am Gardasee zwei Verdachtsf\u00e4lle auf Dengue-Fieber gemeldet worden. Einwohner werden dringend gebeten, Wasseransammlungen zu meiden.Am Gardasee nehmen die Bef\u00fcrchtungen hins\u2026 [+1644 chars]",
+      "retrievedAt": "2023-08-25 07:05:32.314187",
+      "internal_id": "8bb3febee25e128671beaaa2ae297ac6f73ba43bb700690cf549a746654e6005",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1346,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Don't Skip Vaccines: New Study Says Routine Shots May Protect You From Alzheimer's",
+      "description": "The study suggests that people vaccinated against shingles, pneumococcus, tetanus and diphtheria, with or without an added pertussis vaccine, are at a 25% to 30% reduced risk of developing Alzheimer's disease.",
+      "url": "https://www.medicaldaily.com/dont-skip-vaccines-new-study-says-routine-shots-may-protect-you-alzheimers-470705",
+      "urlToImage": "https://d.medicaldaily.com/en/full/447805/vaccine.jpg",
+      "publishedAt": "2023-08-24 05:19:18",
+      "content": "Make sure you don't skip your vaccines. A new study says several routine vaccines given to adults, including those for tetanus, diphtheria and shingles, can help lower the risk of Alzheimer's disease\u2026 [+2168 chars]",
+      "retrievedAt": "2023-08-25 07:05:30.992105",
+      "internal_id": "7d0ff0a10e1e85cebc26539d7a17dfeda44fdd00124e8a7355dbef12f6f4f970",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1355,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Bernd M\u00fcller",
+      "title": "Globale Wasserkrise, D\u00fcrre und Malaria: Oxfam-Bericht warnt vor Klimafolgen",
+      "description": "Oxfams neuer Bericht \"Water Dilemmas\" zeigt alarmierende Trends auf. Zyklus aus Hitze, D\u00fcrre und \u00dcberschwemmungen k\u00f6nnte bis 2040 drastisch ansteigen. Womit zu rechnen ist.",
+      "url": "https://www.telepolis.de/features/Globale-Wasserkrise-Duerre-und-Malaria-Oxfam-Bericht-warnt-vor-Klimafolgen-9283216.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/9/0/8/7/9/climate-change-2241061_1280-2f7234a0c304c2a6.jpeg",
+      "publishedAt": "2023-08-24 05:00:00",
+      "content": "(Bild: Jody Davis, Pixabay) Oxfams neuer Bericht \"Water Dilemmas\" zeigt alarmierende Trends auf. Zyklus aus Hitze, D\u00fcrre und \u00dcberschwemmungen k\u00f6nnte bis 2040 drastisch ansteigen. Womit zu rechnen is\u2026 [+3882 chars]",
+      "retrievedAt": "2023-08-25 07:05:33.245301",
+      "internal_id": "d2c7f0140b8f3edbf50ab15a7bd729e556bf0ed2cd19158166c6587b4d9418ae",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1357,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Ibtimes.com.au",
+      "author": null,
+      "title": "Vaxxas Awarded US$3.67 million (AU$5.4 million) from global charitable foundation, Wellcome, for Human Clinical Study of Typhoid Vaccination using Needle-Free Vaccine Patch",
+      "description": "CAMBRIDGE, Mass. & BRISBANE, Queensland, Australia--(BUSINESS WIRE)--Vaxxas, a clinical-stage biotechnology company commercializing a novel vaccination platform, today announced that the global charitable foundation, Wellcome, has made an award totaling US$3.\u2026",
+      "url": "https://www.ibtimes.com.au/press-release/20230824/vaxxas-awarded-us3-67-million-au5-4-million-from-global-charitable-foundation-wellcome-for-human-clinical-study-of-typhoid-vaccination-using-needle-free-vaccine-patch",
+      "urlToImage": "",
+      "publishedAt": "2023-08-24 00:08:34",
+      "content": "Funding from Wellcome willfurther broaden Vaxxas\u2019 diverse clinical pipeline of next-generation vaccines to include Typhoid fever.Program will be jointly developed in collaboration wi\u2026 [+10129 chars]",
+      "retrievedAt": "2023-08-25 07:05:34.894849",
+      "internal_id": "64da24961ed8aeaf1888edc3ceb35d62c0456588b641ba82475752e85e56b202",
+      "publishedAtLabel": "Aug 24"
+    },
+    {
+      "id": 1356,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "79-year-old Mumbai's first Zika patient, recovered fully",
+      "description": "The first case of Zika virus infection in the city was confirmed by the BMC on Wednesday. The patient is a 79-year-old man from Chembur who has made a complete recovery.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/79-year-old-mumbais-first-zika-patient-recovered-fully/articleshow/102999191.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-102999191,width-1070,height-580,imgsize-60816,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-08-23 23:05:30",
+      "content": "10 most popular dishes in India, and Biryani is not a part of it",
+      "retrievedAt": "2023-08-25 07:05:33.866272",
+      "internal_id": "1f2cafe543a13fc0ccfdcf7d1fc90bfd041989b7bfa017d2692cb99b2b8ecc2c",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 1348,
+      "query": [
+        "dengue",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "PANUMET TANRAKSA",
+      "title": "Chiang Mai finds 2 mpox cases, dengue 'outbreak'",
+      "description": "CHIANG MAI: Two monkeypox (mpox) cases have been found in the city while the Chiang Mai Provincial Public Health Office has warned that over 5,000 people in the provincial capital currently have dengue fever.",
+      "url": "https://www.bangkokpost.com/thailand/general/2634785/chiang-mai-finds-2-mpox-cases-dengue-outbreak",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20230824/c1_2634785_230824054401_700.jpg",
+      "publishedAt": "2023-08-23 22:41:00",
+      "content": "CHIANG MAI: Two monkeypox (mpox) cases have been found in the city while the Chiang Mai Provincial Public Health Office has warned that over 5,000 people in the provincial capital currently have deng\u2026 [+1796 chars]",
+      "retrievedAt": "2023-08-25 07:05:32.305371",
+      "internal_id": "1181063b52e56d41171afc1dee847ea7bcd3cc280858c05a21794595e538af63",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 1353,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsroom.gy",
+      "author": "Editor",
+      "title": "Dengue cases on the decline \u2013 Health Minister",
+      "description": "After grappling with increased dengue cases over the past several weeks, Health Minister Dr. Frank Anthony said it appears as though cases are now on the decline.\u201cWe still have cases but we have noticed a significant decline.\u201cWe continue to test acro",
+      "url": "https://newsroom.gy/2023/08/23/dengue-cases-on-the-decline-health-minister/",
+      "urlToImage": "https://newsroom.gy/wp-content/uploads/2023/08/maxresdefault-1024x576.jpg",
+      "publishedAt": "2023-08-23 22:01:06",
+      "content": "After grappling with increased dengue cases over the past several weeks, Health Minister Dr. Frank Anthony said it appears as though cases are now on the decline. We still have cases but we have not\u2026 [+1315 chars]",
+      "retrievedAt": "2023-08-25 07:05:32.317296",
+      "internal_id": "d2cea84b893cb2f7479c32b605934938b45153d48effbe51c9e36ddd8b4c76dd",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 1358,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Gendai.media",
+      "author": null,
+      "title": "\u7a7a\u8179\u306b\u3055\u305b\u308c\u3070\u3001\u72c2\u3063\u305f\u3088\u3046\u306b\u8840\u3092\u5438\u3046\u2026\uff01\u300c\u8fd1\u4ee3\u65e5\u672c\u533b\u5b66\u306e\u7236\u300d\u304c\u898b\u3064\u3051\u305f\u30da\u30b9\u30c8\u83cc\u306f\u300c\u885d\u6483\u7684\u306b\u51f6\u66b4\u300d\u306a\u83cc\u3060\u3063\u305f",
+      "description": "1894\u5e74\u306e8\u670825\u65e5\u306f\u3001\u65e5\u672c\u306e\u533b\u5b66\u8005\u30fb\u5317\u91cc\u67f4\u4e09\u90ce\uff08\u304d\u305f\u3056\u3068\u30fb\u3057\u3070\u3055\u3076\u308d\u3046\u30011853-1931\uff09\u306b\u3088\u308b\u30da\u30b9\u30c8\u83cc\u767a\u898b\u306e\u8ad6\u6587\u304c\u767a\u8868\u3055\u308c\u305f\u65e5\u3067\u3059\uff08\u591a\u304f\u306e\u5834\u5408\u3001\u3053\u306e\u65e5\u3092\u767a\u898b\u3057\u305f\u65e5\u3068\u3057\u3066\u3044\u307e\u3059\uff09\u3002\u5317\u91cc\u306e\u767a\u898b\u306b\u3088\u308a\u3001\u30da\u30b9\u30c8\u3078\u306e\u5177\u4f53\u7684\u306a\u5bfe\u7b56\u304c\u53ef\u80fd\u3068\u306a\u308a\u3001\u9999\u6e2f\u3067\u306e\u6d41\u884c\u306f\u7d42\u606f\u306b\u5411\u304b\u3046\u3053\u3068\u3068\u306a\u308a\u307e\u3057\u305f\u3002\u307e\u305f\u3001\u305d\u306e\u6570\u5e74\u5f8c\u306b\u65e5\u672c\u306b\u3082\u30da\u30b9\u30c8\u306e\u611f\u67d3\u304c\u5e83\u307e\u3063\u305f\u3053\u3068\u304c\u3042\u308a\u307e\u3057\u305f\u304c\u3001\u5317\u91cc\u3089\u304c\u3042\u3089\u304b\u3058\u3081\u4e88\u9632\u7b56\u3092\u8b1b\u3058\u3066\u3044\u305f\u305f\u3081\u5927\u6d41\u884c\u3092\u9632\u3050\u3053\u3068\u304c\u3067\u304d\u305f\u3001\u3068\u8a00\u308f\u308c\u3066\u3044\u307e\u3059\u3002\u30da\u30b9\u30c8\u83cc\u3068\u306f\u3069\u3093\u306a\u83cc\u306a\u306e\u3067\u3057\u3087\u3046\u304b\uff1f \u767a\u75c7\u306b\u3044\u305f\u308b\u30e1\u30ab\u30cb\u30ba\u30e0\u3068\u306f\uff1f \u3057\u305f\u305f\u304b\u306a\u751f\u304d\u2026",
+      "url": "https://gendai.media/articles/-/114903",
+      "urlToImage": "https://gendai-m.ismcdn.jp/mwimgs/c/e/1200m/img_ce7980c181964446c65261c1b8948d0d344826.jpg",
+      "publishedAt": "2023-08-23 21:00:00",
+      "content": "18948251853-1931The Lancet6811 18943 Yersinia pestis Y. enterocolitica Y. pseudotuberculosis 6000Ymt1 Ymt 15412 182",
+      "retrievedAt": "2023-08-25 07:05:35.727201",
+      "internal_id": "032c85c8b1c93eb79aaad2f3811b90a9d1cde376426b3843bfcdde49452362f4",
+      "publishedAtLabel": "Aug 23"
+    },
+    {
+      "id": 1351,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Alina Popescu",
+      "title": "Num\u0103r record de cazuri de febr\u0103 dengue \u00een Bangladesh: 500 de oameni au murit de la \u00eenceputul anului",
+      "description": "Bangladesh a raportat un num\u0103r record de cazuri de febr\u0103 dengue pe fondul unui focar al acestei boli, care a ucis circa 500 de persoane de la \u00eenceputul acestui an, informeaz\u0103 DPA. Exper\u0163ii dau vina pe efectele schimb\u0103rilor climatice, pe urbanizarea masiv\u0103 \u015fi \u2026",
+      "url": "https://www.digi24.ro/stiri/externe/numar-record-de-cazuri-de-febra-dengue-in-bangladesh-500-de-oameni-au-murit-de-la-inceputul-anului-2477411",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYwOCUyRjIzJTJGMTc4NzUwN18xNzg3/NTA3X3NodXR0ZXJzdG9ja182NTE1Njk3/OTQuanBnJnc9MTIwMCZoPTYzMCZ6Yz0x/Jmhhc2g9NWYxZmQwZTQwNmY0ZTM2MDg0MGE4Njk3NTRkNDZlZjg=.thumb.jpg",
+      "publishedAt": "2023-08-23 20:39:12",
+      "content": "Bangladesh a raportat un numr record de cazuri de febr dengue pe fondul unui focar al acestei boli, care a ucis circa 500 de persoane de la \u00eenceputul acestui an, informeaz DPA. Experii dau vina pe ef\u2026 [+1340 chars]",
+      "retrievedAt": "2023-08-25 07:05:32.312703",
+      "internal_id": "a010faec7bbc81dac55174d1f39a63952959288628f85b5ed65df20f4c183d8f",
+      "publishedAtLabel": "Aug 23"
+    },
     {
       "id": 1329,
       "query": [
@@ -3376,240 +3611,6 @@
       "content": "Prior vaccination against tetanus and diphtheria, with or without pertussis (Tdap/Td); herpes zoster (HZ), better known as shingles; and pneumococcus are all associated with a reduced risk for develo\u2026 [+6949 chars]",
       "retrievedAt": "2023-08-18 07:05:32.459374",
       "internal_id": "ed495c772681fa6ac15a3fca3756fca379eea6271fb87296012682fd4e80dcd5",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1157,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Medical Xpress",
-      "author": "Science X",
-      "title": "Several vaccines associated with reduced risk of Alzheimer's disease in adults 65 and older",
-      "description": "Prior vaccination against tetanus and diphtheria, with or without pertussis (Tdap/Td); herpes zoster (HZ), better known as shingles; and pneumococcus are all associated with a reduced risk for developing Alzheimer's disease, according to new research from UTH\u2026",
-      "url": "https://medicalxpress.com/news/2023-08-vaccines-alzheimer-disease-adults-older.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/several-vaccines-assoc.jpg",
-      "publishedAt": "2023-08-16 20:53:23",
-      "content": "Prior vaccination against tetanus and diphtheria, with or without pertussis (Tdap/Td); herpes zoster (HZ), better known as shingles; and pneumococcus are all associated with a reduced risk for develo\u2026 [+7107 chars]",
-      "retrievedAt": "2023-08-18 07:05:32.465725",
-      "internal_id": "9487c667b09c2f07ef46d914b5fad07fe2f73306865681b114a2a4aa4ed2c009",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1159,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Detroit Free Press",
-      "author": "Detroit Free Press, Christina Hall, Detroit Free Press",
-      "title": "3 skunks test positive for rabies in Macomb County; residents urged to be cautious",
-      "description": "Macomb County health officials urge residents to be cautious after three skunks test positive for rabies, engaged with family pets.",
-      "url": "https://www.freep.com/story/news/local/michigan/macomb/2023/08/17/skunks-rabies-macomb-county-pets/70603235007/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2019/10/17/PDTF/f0f3ae21-e3dd-4041-88ba-74a4f067dda5-IMG_Young_Striped_Skunk__1_.JPG?auto=webp&crop=3887,2187,x0,y197&format=pjpg&width=1200",
-      "publishedAt": "2023-08-16 19:49:30",
-      "content": "Macomb County health officials are urging the public, especially residents in Macomb and Clinton Townships, to be cautious if they see a skunk, three of which have tested positive for rabies this sum\u2026 [+3855 chars]",
-      "retrievedAt": "2023-08-18 07:05:32.747485",
-      "internal_id": "c4dadeb0d3532e83e7bba991e2a87bb8075365a2ab6e5d17102a978d07d28372",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1161,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "Mary Kekatos",
-      "title": "4 more cases of locally acquired dengue reported in Florida",
-      "description": "Four more cases of locally-acquired dengue have been reported in Florida bringing the total number of infections in the state this year up to 10.",
-      "url": "https://abcnews.go.com/Health/4-cases-locally-acquired-dengue-reported-florida-virus/story?id=102306525",
-      "urlToImage": "https://s.abcnews.com/images/Health/GTY_Zika_mosquito_hb_160720_16x9_992.jpg",
-      "publishedAt": "2023-08-16 19:39:23",
-      "content": "Florida health officials are issuing a warning about dengue as the virus continues to increase in South Florida. Four cases of locally acquired dengue were reported in Miami-Dade County and for the \u2026 [+2373 chars]",
-      "retrievedAt": "2023-08-18 07:05:33.950780",
-      "internal_id": "764203ca2820ac71128287464088a1263412123523ed2f93a143058543f9a1b1",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1132,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "google-news",
-      "source_name": "Google News",
-      "author": null,
-      "title": "Sospetto caso di febbre da dengue a Monza: al via disinfestazione straordinaria - MilanoToday.it",
-      "description": "Sospetto caso di febbre da dengue a Monza: al via disinfestazione straordinaria MilanoToday.it Caso sospetto di febbre Dengue: disinfestazione straordinaria a Monza MonzaToday Caso sospetto di Dengue: ecco le vie interessate dall\u2026",
-      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lm1pbGFub3RvZGF5Lml0L2F0dHVhbGl0YS9mZWJicmUtZGVuZ3VlLXphbnphcmUtbW9uemEuaHRtbNIBRWh0dHBzOi8vYW1wLm1pbGFub3RvZGF5Lml0L2F0dHVhbGl0YS9mZWJicmUtZGVuZ3VlLXphbnphcmUtbW9uemEuaHRtbA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
-      "urlToImage": null,
-      "publishedAt": "2023-08-16 18:00:41",
-      "content": "We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud, and abuseMeasure audience engagement and site statistics to unde\u2026 [+1131 chars]",
-      "retrievedAt": "2023-08-17 19:05:29.515242",
-      "internal_id": "3ce8ca9fff057b92cc413bd33f7be1123da400a550c53220acfa818b62854c54",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1135,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jungewelt.de",
-      "author": "Thomas Berger",
-      "title": "Infektionskrankheiten: Dengue-Welle in S\u00fcdasien [Online-Abo]",
-      "description": "Bereits 380 Todesopfer in Bangladesch. Starke Ausbreitung der Infektionen in Indien.",
-      "url": "https://www.jungewelt.de/artikel/457077.infektionskrankheiten-dengue-welle-in-s\u00fcdasien.html",
-      "urlToImage": "https://www.jungewelt.de/img/1100/184346.jpg",
-      "publishedAt": "2023-08-16 17:41:37",
-      "content": "Schlimmer als je zuvor grassiert das Dengue-Fieber derzeit in mehreren Gebieten S\u00fcdasiens. Sowohl in Indien als auch im benachbarten Bangladesch warnen Beh\u00f6rden und Experten vor einer weiteren Verbre\u2026 [+273 chars]",
-      "retrievedAt": "2023-08-17 19:05:29.523812",
-      "internal_id": "8d2092b3bc87d237e4f5cd6bc7fca3e869a737d6fd5c067304e748ab8ccd30c4",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1134,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.hln.be",
-      "author": "HLA",
-      "title": "Uitbraak van knokkelkoorts in Tsjaad",
-      "description": "Begin augustus is een epidemie van knokkelkoorts uitgebroken in het oosten van Tsjaad. Dat meldt het ministerie van Volksgezondheid woensdag. Knokkelkoorts of dengue is een virale ziekte die wordt overgedragen door een mug en waarvan de ernstige vormen zeldza\u2026",
-      "url": "https://www.hln.be/buitenland/uitbraak-van-knokkelkoorts-in-tsjaad~a5d1037a/",
-      "urlToImage": "https://images0.persgroep.net/rcs/LDi-vPWH41h1jYh_aOcgab_Zozw/diocontent/234250967/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
-      "publishedAt": "2023-08-16 17:07:33",
-      "content": "De uitbraak werd geregistreerd in Ab\u00e9ch\u00e9, de hoofdstad van de regio Ouadda\u00ef, ongeveer 650 km ten oosten van hoofdstad NDjamena. Op 7 augustus werd het bestaan van de epidemie bevestigd, maar op dit m\u2026 [+947 chars]",
-      "retrievedAt": "2023-08-17 19:05:29.521224",
-      "internal_id": "078712092d51fe67faebb6236570600d92e63d38fbc785081d49956153d580ae",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1131,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "usa-today",
-      "source_name": "USA Today",
-      "author": "Ken Alltucker, USA TODAY",
-      "title": "Dengue fever in Florida on the rise. As virus cases grow, here's how to spot symptoms",
-      "description": "Dengue, spread through mosquito bites, has been found in Florida's Miami-Dade and Broward counties.",
-      "url": "https://www.usatoday.com/story/news/health/2023/08/16/dengue-fever-florida-2023/70601570007/",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GVpInTfXOjOLGgGKGunu5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_news_641/02c3eec8a8157eef1a3a6577b83dce6a",
-      "publishedAt": "2023-08-16 17:03:18",
-      "content": "Florida health officials sent a warning about a rise in cases of dengue fever, issuing a new alert after two local cases in Broward County. The two cases in the South Florida county, which includes \u2026 [+2798 chars]",
-      "retrievedAt": "2023-08-17 19:05:29.509675",
-      "internal_id": "4da0ca35223e894e96cda8d5514a74c4f36cd9dcaa46860e2aa242ec282b4cf4",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1153,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "aps@aps.sn (APS)",
-      "title": "S\u00e9n\u00e9gal: 47 cas de Chikungunya recens\u00c3\u00a9s \u00c3 K\u00c3\u00a9dougou (responsable)",
-      "description": "[APS] K\u00e9dougou 16 aout (APS) - Quarante-sept (47) cas de chikungunya ont \u00e9t\u00e9 recens\u00e9s dans la r\u00e9gion de K\u00e9dougou en moins deux semaines durant le mois d'ao\u00fbt a appris l'APS, mercredi, du directeur r\u00e9gional de la sant\u00e9, docteur Ababacar Mbaye.",
-      "url": "https://fr.allafrica.com/stories/202308160726.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-08-16 16:12:01",
-      "content": "K\u00e9dougou 16 aout (APS) - Quarante-sept (47) cas de chikungunya ont \u00e9t\u00e9 recens\u00e9s dans la r\u00e9gion de K\u00e9dougou en moins deux semaines durant le mois d'ao\u00fbt a appris l'APS, mercredi, du directeur r\u00e9gional\u2026 [+1198 chars]",
-      "retrievedAt": "2023-08-17 19:05:31.453579",
-      "internal_id": "14c9e927a3f4d5251f8100108242056c03f09364008ef8086cb09b7daaf7d5ef",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1141,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Francetvinfo.fr",
-      "author": "Ana K.",
-      "title": "Un cas de dengue import\u00e9 d\u00e9tect\u00e9 \u00e0 Lyon, la m\u00e9tropole op\u00e8re une d\u00e9moustication",
-      "description": "Il y a quelques jours un cas de dengue import\u00e9 a \u00e9t\u00e9 d\u00e9tect\u00e9 \u00e0 Couzon-au-Mont-d'or. La m\u00e9tropole de Lyon pulv\u00e9rise un insecticide tout autour du lieu de cette d\u00e9couverte pour \u00e9viter une prolif\u00e9ration de cas.",
-      "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/rhone/lyon/un-cas-de-dengue-importe-detecte-a-lyon-la-metropole-opere-une-demoustication-2825936.html",
-      "urlToImage": "https://france3-regions.francetvinfo.fr/image/dmSdyzkXhPSTiLt2e0pL54TqN9U/930x620/regions/2020/06/09/5edf6512d59a0_desk_antimoustique-00_00_02_22-3796132.jpg",
-      "publishedAt": "2023-08-16 16:05:35",
-      "content": "Il y a quelques jours un cas de dengue import\u00e9 a \u00e9t\u00e9 d\u00e9tect\u00e9 \u00e0 Couzon-au-Mont-d'or. La m\u00e9tropole de Lyon pulv\u00e9rise un insecticide tout autour du lieu de cette d\u00e9couverte pour \u00e9viter une prolif\u00e9ration\u2026 [+956 chars]",
-      "retrievedAt": "2023-08-17 19:05:29.539152",
-      "internal_id": "e93505d6410e031b1cd051bb80c2567f488a4fb403dbf27b616cf7dc701ee708",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1138,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Sospetto caso di Dengue a Monza, al via la disinfestazione",
-      "description": "\u00c8 stato segnalato a Monza un sospetto caso di Dengue, la malattia virale trasmessa dalle zanzare. (ANSA)",
-      "url": "https://www.ansa.it/lombardia/notizie/2023/08/16/sospetto-caso-di-dengue-a-monza-al-via-la-disinfestazione_8702e88e-3c94-4767-ab6f-eceaeefe4595.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/8/16/448e87737d0f6d9c2985d492c38e87ca.jpg",
-      "publishedAt": "2023-08-16 15:42:54",
-      "content": "\u00c8 stato segnalato a Monza un sospetto caso di Dengue, la malattia virale trasmessa dalle zanzare. L'Ats Brianza ha subito avvertito il Comune di Monza che ha disposto con un'ordinanza una disinfes\u2026 [+851 chars]",
-      "retrievedAt": "2023-08-17 19:05:29.531806",
-      "internal_id": "d4b71bb82e4c5fb4c90c3ae1f152e4a56a5dd8227dce1e4d5cb651a40d08e45d",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1130,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WXYZ",
-      "author": null,
-      "title": "Macomb County Health Department warns of rabid skunks",
-      "description": "The Macomb County Health Department announced that two rabies-positive skunks were recently discovered in Macomb Township, within three miles of each other.",
-      "url": "https://www.wxyz.com/news/macomb-county-health-department-warns-of-rabid-skunks",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/6454800/2147483647/strip/true/crop/617x324+0+88/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F28%2F31%2Ff526158943f998cd17d67a2bb387%2Fscreen-shot-2023-08-16-at-11-18-39-am.png",
-      "publishedAt": "2023-08-16 15:34:22",
-      "content": "(WXYZ) The Macomb County Health Department announced that two rabies-positive skunks were recently discovered in Macomb Township, within three miles of each other. The department notes a third skunk\u2026 [+1420 chars]",
-      "retrievedAt": "2023-08-17 19:05:28.705073",
-      "internal_id": "ebe18c2a1baf499d663766d3587c0ee1b01a290badb9347508e4e18a99800d42",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1147,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Su Brailsford",
-      "title": "In response to the call for black blood donors",
-      "description": "I was sorry to read about the frustration experienced by Dr Ekitumi Ofagbor when he was withdrawn from donating after malaria antibodies were found in his blood.1 We appreciate the time and generosity of people who want to save lives. We apologise for not rep\u2026",
-      "url": "https://www.bmj.com/content/382/bmj.p1894",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/382/8394.cover-source.jpg",
-      "publishedAt": "2023-08-16 15:31:24",
-      "content": "Su Brailsford, interim clinical director microbiology and public healthNHS Blood and Transplant, Bristol, UK BrailsfordPA{at}nhsbt.nhs.uk I was\u2026 [+258 chars]",
-      "retrievedAt": "2023-08-17 19:05:30.782643",
-      "internal_id": "90ed92317baeb1428513706b0e67d142d21c5108f67fc63472abe58f1e9ad591",
-      "publishedAtLabel": "Aug 16"
-    },
-    {
-      "id": 1137,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
-      "title": "Un caso di dengue a Monza, disinfestazione urgente della zona interessata",
-      "description": "Una persona infettata dalla malattia virale trasmessa dalle zanzare: sta bene e non ci sono altri casi ma l\u2019Ats dispone un intervento straordinario",
-      "url": "https://milano.repubblica.it/cronaca/2023/08/16/news/un_caso_di_dengue_a_monza_disinfestazione_urgente_della_zona_interessata-411311687/",
-      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-milano/2023/08/16/171446671-68341e69-679d-44ff-b85c-b272f7584b20.jpg",
-      "publishedAt": "2023-08-16 15:14:48",
-      "content": "\u00c8 stato segnalato a Monza un sospetto caso di Dengue, la malattia virale trasmessa dalle zanzare. L'Ats Brianza ha subito avvertito il Comune di Monza che ha disposto con un'ordinanza una disinfestaz\u2026 [+793 chars]",
-      "retrievedAt": "2023-08-17 19:05:29.528309",
-      "internal_id": "a011787f60392f974c97246bbbcd45de9d668b4a297603d349a181d36b7f77f6",
       "publishedAtLabel": "Aug 16"
     }
   ]
