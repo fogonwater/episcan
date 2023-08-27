@@ -1,8 +1,134 @@
 {
-  "last_updated": "2023-08-26 19:05",
+  "last_updated": "2023-08-27 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 16,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 1399,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Wolbachia-infected mosquitoes to be release to control dengue",
+      "description": "SEGAMAT: Wolbachia-infected Aedes mosquitoes will be continuously released in stages via the Wolbachia Mosquito Release project, at locations experiencing increased dengue cases. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/08/26/wolbachia-infected-mosquitoes-to-be-release-to-control-dengue",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/26/2251880.jpg",
+      "publishedAt": "2023-08-26 05:30:00",
+      "content": "SEGAMAT: Wolbachia-infected Aedes mosquitoes will be continuously released in stages via the Wolbachia Mosquito Release project, at locations experiencing increased dengue cases. Health Minister Dr \u2026 [+2481 chars]",
+      "retrievedAt": "2023-08-27 07:05:25.253912",
+      "internal_id": "ed3fa3129e19fa22eacb31f4075ddea134eef6f0ac2ec0e11bc853abd1106357",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 1397,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Redwan Ahmed)",
+      "title": "Surge in Dengue Fever Hits Bangladesh",
+      "description": "Health authorities in Bangladesh are wrestling with a surge in dengue fever cases as monsoon rains batter the densely populated country. According to a World Health Organization report issued this month, \"The higher incidence of dengue is taking place in th\u2026",
+      "url": "https://www.voanews.com/a/surge-in-dengue-fever-hits-bangladesh-/7242179.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-f912-08dba5f37526_cx0_cy2_cw0_w1200_r1.jpeg",
+      "publishedAt": "2023-08-26 05:28:52",
+      "content": "DHAKA, BANGLADESH Health authorities in Bangladesh are wrestling with a surge in dengue fever cases as monsoon rains batter the densely populated country. According to a World Health Organization r\u2026 [+7151 chars]",
+      "retrievedAt": "2023-08-27 07:05:25.238880",
+      "internal_id": "cf6f3d941bf572c1053007550b21e16d95d08efece5867ae297b5927b171a2c3",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 1400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "D\u00eda Internacional contra el Dengue: las alarmas est\u00e1n encendidas",
+      "description": "El dengue es una enfermedad viral aguda que afecta a miles de personas en el mundo, en especial a ni\u00f1os y adultos mayores en pa\u00edses con climas tropicales. Es causado por un virus transmitido a trav\u00e9s de la picadura de mosquitos infectados (Aedes aegypti) y ti\u2026",
+      "url": "https://www.eluniversal.com.co/salud/dia-internacional-contra-el-dengue-las-alarmas-estan-encendidas-BE8868560",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/UKQK/dengue-2_8342152_20230825191223.jpg",
+      "publishedAt": "2023-08-26 05:00:24",
+      "content": "Ante el panorama actual, este 26 de agosto, D\u00eda Internacional contra el Dengue, el doctor Emiro Buend\u00eda indic\u00f3 que tenemos que prepararnos para este escenario por medio de estrategias de mitigaci\u00f3n p\u2026 [+1190 chars]",
+      "retrievedAt": "2023-08-27 07:05:25.257798",
+      "internal_id": "e8288b6b599faff4268e3030da5b2f3d9e9b34963e1fa006340010076b307bb9",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 1401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "Fredonia, un barrio que le cierra las puertas al dengue",
+      "description": "El de ayer no fue un viernes cualquiera en Fredonia. Los habitantes de este barrio de Cartagena se levantaron recibiendo las buenas acciones de un nutrido grupo de profesionales de diversas \u00e1reas. La cancha principal se convirti\u00f3 en el epicentro para impulsar\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/fredonia-un-barrio-que-le-cierra-las-puertas-al-dengue-EE8868723",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/0c0/800d686/none/13704/AGPJ/fredonia2_8342393_20230825194006.jpg",
+      "publishedAt": "2023-08-26 05:00:00",
+      "content": "El de ayer no fue un viernes cualquiera en Fredonia. Los habitantes de este barrio de Cartagena se levantaron recibiendo las buenas acciones de un nutrido grupo de profesionales de diversas \u00e1reas. La\u2026 [+3921 chars]",
+      "retrievedAt": "2023-08-27 07:05:25.259793",
+      "internal_id": "eff2ccb42416e740800484d0e311fc33f62ffdf9d8a6893addb1e20a3f81a25e",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 1396,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "BMC to conduct rabies vax drive for strays in Feb",
+      "description": "To carry out a mass rabies vaccination drive in the city, the BMC has estimated that the total number of stray dogs has gone up to 1.64 lakh. Their population in the city was around 95,000 in the census conducted in 2014.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/bmc-to-conduct-rabies-vax-drive-for-strays-in-feb/articleshow/103077573.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103081647,width-1070,height-580,imgsize-1958480,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-08-26 02:42:51",
+      "content": "AI imagines Indians living on the Moon",
+      "retrievedAt": "2023-08-27 07:05:24.044256",
+      "internal_id": "0433fc1b75620e0e597b6471993f4c8ea6dd85b44d67588e1b73f0e3f636f787",
+      "publishedAtLabel": "Aug 26"
+    },
+    {
+      "id": 1398,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Lizeth Hern\u00e1ndez",
+      "title": "Los puntos clave detr\u00e1s del aumento de casos de dengue y otras enfermedades en M\u00e9xico",
+      "description": "Si bien no se han generado nuevas enfermedades en M\u00e9xico, las ya existentes parecen ganar terreno, por ejemplo, este 2023 se registr\u00f3 un aumento en la incidencia dedengue, enfermedad de origen zoon\u00f3tico, es decir que se transmite entre animales y seres humano\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/por-que-aumentaron-los-casos-de-dengue-y-otras-enfermedades-en-mexico",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/08/07/secretaria-salud-anuncia-hospitalizaciones-dengue.jpeg",
+      "publishedAt": "2023-08-25 21:48:01",
+      "content": "Si bien no se han generado nuevas enfermedades en M\u00e9xico, las ya existentes parecen ganar terreno, por ejemplo, este 2023 se registr\u00f3 un aumento en la incidencia de dengue, enfermedad de origen zoon\u00f3\u2026 [+6609 chars]",
+      "retrievedAt": "2023-08-27 07:05:25.245198",
+      "internal_id": "b603a3b6a98447cd829015a81c043b04a225b3d4ddc12616920ba7be38f8d067",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 1403,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Organiza\u00e7\u00e3o Mundial da Sa\u00fade adverte para aumento de casos de v\u00edrus mpox em \u00c1frica e na \u00c1sia",
+      "description": "Nos \u00faltimos 15 meses, registaram-se 90.000 casos de mpox e 156 mortes em 114 pa\u00edses. Fora de \u00c1frica, \"a maioria dos casos ocorre em homens que mant\u00eam rela\u00e7\u00f5es sexuais com outros homens\".",
+      "url": "https://observador.pt/2023/08/25/organizacao-mundial-da-saude-adverte-para-aumento-de-casos-de-virus-mpox-em-africa-e-na-asia/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1440%3A808%3Anowe%3A0%3A42%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F08%2F25191229%2F39092860-1.jpg",
+      "publishedAt": "2023-08-25 19:43:52",
+      "content": "A Organiza\u00e7\u00e3o Mundial de Sa\u00fade (OMS) alertou nesta sexta-feira para um \u201caumento dos casos\u201d do v\u00edrus mpox \u201cnos \u00faltimos dois meses em \u00c1frica e na \u00c1sia\u201d, apesar de ter declarado o fim deste tipo de infe\u2026 [+1818 chars]",
+      "retrievedAt": "2023-08-27 07:05:28.117505",
+      "internal_id": "5cf146cf798b064219847f99fc5bcca50c818c83524722ceb6fec80a6ab5cae8",
+      "publishedAtLabel": "Aug 25"
+    },
     {
       "id": 1388,
       "query": [
@@ -181,6 +307,24 @@
       "content": "Giovanni profuma di Autan. Questa mattina se l\u00e8 cosparso dalla testa ai piedi, prima di uscire di casa e recarsi a Codogno. \u00abA Castiglione dAdda ce lo stiamo mettendo un po' tutti\u00bb assicura. \u00abC\u00e8 da s\u2026 [+184 chars]",
       "retrievedAt": "2023-08-26 19:05:24.111151",
       "internal_id": "e6ab52de2f9df0615df706e2407f918afa085a58d87979379c891cc8977143c9",
+      "publishedAtLabel": "Aug 25"
+    },
+    {
+      "id": 1402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Over 50pc dengue patients died within 24hrs of hospitalisation: WHO",
+      "description": "Over half of the dengue patients died this year within 24 hours of hospitalizations, according to the observation of World Health Organisation (WHO). It said a total of 444 dengue patients died from January to till August 17. Among those, 247 patients or 56 p\u2026",
+      "url": "https://sylhetmirror.com/2023/08/25/over-50pc-dengue-patients-died-within-24hrs-of-hospitalisation-who/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/rf4gt6.jpg",
+      "publishedAt": "2023-08-25 14:10:59",
+      "content": "Over half of the dengue patients died this year within 24 hours of hospitalizations, according to the observation of World Health Organisation (WHO). It said a total of 444 dengue patients died from\u2026 [+1220 chars]",
+      "retrievedAt": "2023-08-27 07:05:25.263444",
+      "internal_id": "003acf292f4daa23d76657c89abac2f28e18935248610fc7997ca67a3e1fbdb6",
       "publishedAtLabel": "Aug 25"
     },
     {
@@ -3469,150 +3613,6 @@
       "content": "La Agencia de Salud P\u00fablica de Barcelona ha declarado un brote de viruela del mono (Mpox) en la ciudad, a ra\u00edz de la detecci\u00f3n de seis casos en el \u00faltimo mes, sin ninguna relaci\u00f3n epidemiol\u00f3gica entr\u2026 [+1070 chars]",
       "retrievedAt": "2023-08-19 19:05:11.083509",
       "internal_id": "c29304b8441315dced7b9caf501654eeeac440dcc9d4c5b1beee84edb9dcb8fa",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1214,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "webmasteraim@sortmoz.com (AIM)",
-      "title": "Mozambique to Introduce Vaccine Against Malaria Next Year",
-      "description": "[AIM] Maputo -- Mozambique will introduce for the first time a vaccine against malaria as of next year, according to the Ministry of Health delegate for Vertical Control of Malaria, In\u00eas Ant\u00f3nio.",
-      "url": "https://allafrica.com/stories/202308180164.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-08-18 09:07:24",
-      "content": "Maputo \u2014 Mozambique will introduce for the first time a vaccine against malaria as of next year, according to the Ministry of Health delegate for Vertical Control of Malaria, In\u00eas Ant\u00f3nio. According\u2026 [+1114 chars]",
-      "retrievedAt": "2023-08-19 19:05:10.211532",
-      "internal_id": "97c1c8c73774ff2974c7d09960dcc64b37c8b086a4da8462714230a1e2766e0e",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1224,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "WELT",
-      "title": "Mpox ist wieder da",
-      "description": "Die Infektionskrankheit Mpox, fr\u00fcher Affenpocken, konnte in letzter Zeit in Vergessenheit geraten. Das Robert Koch-Institut verzeichnete seit Januar keine F\u00e4lle in Deutschland. Nun ist das Virus zur\u00fcck. Auch andere europ\u00e4ischen L\u00e4nder sind betroffen.",
-      "url": "https://www.welt.de/gesundheit/article246970704/Affenpocken-Neue-Mpox-Faelle-in-Berlin.html",
-      "urlToImage": "https://img.welt.de/img/gesundheit/mobile246971200/2381350627-ci16x9-w1200/Affenpockenvirus.jpg",
-      "publishedAt": "2023-08-18 09:05:17",
-      "content": "Nach mehr als einem halben Jahr ohne Nachweise von Mpox (fr\u00fcher Affenpocken) sind in Deutschland wieder einzelne Infektionen mit dem Virus aufgetreten. In den vergangenen Wochen seien drei F\u00e4lle in B\u2026 [+2930 chars]",
-      "retrievedAt": "2023-08-19 19:05:11.090404",
-      "internal_id": "0cb5e46063db191c932ebc65ca2d51e3b964ddb9215338b976e4665253246320",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1218,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "aps@aps.sn (APS)",
-      "title": "S\u00e9n\u00e9gal: Fi\u00c3\u00a8vre Chikungunya - Des mesures prises pour \u00c3\u00a9viter la propagation du virus (officiel)",
-      "description": "[APS] Dakar -- Le minist\u00e8re de la Sant\u00e9 et de l'Action sociale a d\u00e9clar\u00e9 jeudi que des mesures \u00e9taient en train d'\u00eatre prises pour \u00e9viter une propagation de la fi\u00e8vre Chikungunya r\u00e9cemment apparue \u00e0 K\u00e9dougou, une r\u00e9gion du Sud-Est du S\u00e9n\u00e9gal.",
-      "url": "https://fr.allafrica.com/stories/202308180160.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-08-18 09:03:45",
-      "content": "Dakar \u2014 Le minist\u00e8re de la Sant\u00e9 et de l'Action sociale a d\u00e9clar\u00e9 jeudi que des mesures \u00e9taient en train d'\u00eatre prises pour \u00e9viter une propagation de la fi\u00e8vre Chikungunya r\u00e9cemment apparue \u00e0 K\u00e9dougo\u2026 [+2979 chars]",
-      "retrievedAt": "2023-08-19 19:05:10.770227",
-      "internal_id": "394d732716a7e7bbc1e6e5646025e0ce03e6c1d900e33a37e24b2bf6fe424882",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1222,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Die \u201eAffenpocken\u201c sind noch da: Nach langer Ruhe wieder neue Mpox-F\u00e4lle in Berlin gemeldet",
-      "description": "Die Krankheit \u201eAffenpocken\u201c, die mittlerweile offiziell Mpox hei\u00dft, konnte in letzter Zeit in Vergessenheit geraten. Das RKI verzeichnete l\u00e4nger keine F\u00e4lle. Das hat sich nun ge\u00e4ndert.",
-      "url": "https://www.tagesspiegel.de/berlin/die-affenpocken-sind-noch-da-nach-langer-ruhe-wieder-neue-mpox-falle-in-berlin-gemeldet-10327546.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/affenpocken4/alternates/BASE_16_9_W1400/affenpocken.jpeg",
-      "publishedAt": "2023-08-18 08:02:16",
-      "content": "Nach mehr als einem halben Jahr ohne Nachweise von Mpox (fr\u00fcher Affenpocken) sind in Berlin wieder einzelne Infektionen mit dem Virus aufgetreten. In den vergangenen Wochen seien drei F\u00e4lle gemeldet \u2026 [+3694 chars]",
-      "retrievedAt": "2023-08-19 19:05:11.086361",
-      "internal_id": "04bdd6a16d220c8a75ca39b2a55e895da152eb15ad00f69fc4515f9d424d6631",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1200,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Sudan: Children At Deadly Risk of Measles and Malnutrition After Fleeing Conflict in Sudan",
-      "description": "Press Release - M\u00e9decins Sans Fronti\u00e8res (MSF) teams are recording a concerning rise in measles and malnutrition cases in our facilities in South Sudan, particularly amongst returnees fleeing conflict in Sudan and host communities.",
-      "url": "https://allafrica.com/stories/202308180085.html",
-      "urlToImage": "https://cdn06.allafrica.com/download/pic/main/main/csiid/00630761:7e5a3ecc84d8a3951253c9f7eff34e23:arc614x376:w1200.jpg",
-      "publishedAt": "2023-08-18 07:39:29",
-      "content": "Juba \u2014 M\u00e9decins Sans Fronti\u00e8res (MSF) teams are recording a concerning rise in measles and malnutrition cases in our facilities in South Sudan, particularly amongst returnees fleeing conflict in Suda\u2026 [+6210 chars]",
-      "retrievedAt": "2023-08-19 19:05:08.689201",
-      "internal_id": "f47ba579941925cce4505f0782c06166c308e822c430a1af8dad91e67927bd15",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1219,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "ZEIT ONLINE: News -",
-      "title": "Gesundheit: Das Virus ist noch da: Nach langer Ruhe wieder Mpox",
-      "description": "",
-      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fnews%2F2023-08%2F18%2Fdas-virus-ist-noch-da-nach-langer-ruhe-wieder-mpox",
-      "urlToImage": null,
-      "publishedAt": "2023-08-18 07:07:18",
-      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
-      "retrievedAt": "2023-08-19 19:05:11.078259",
-      "internal_id": "08011b4f7c965a10f8f96d74874bd891058d04f7a1dea441ada7e5de0933a188",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1223,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Berliner Morgenpost",
-      "author": "\u00a9 dpa-infocom, dpa:230818-99-872870/2 (dpa)",
-      "title": "Gesundheit: Das Virus ist noch da: Nach langer Ruhe wieder Mpox",
-      "description": "Die Krankheit Affenpocken, die nun offiziell Mpox hei\u00dft, konnte in letzter Zeit in Vergessenheit geraten. Das Robert Koch-Institut verzeichnete l\u00e4nger keine F\u00e4lle hierzulande. Das hat sich ge\u00e4ndert.",
-      "url": "https://www.morgenpost.de/web-wissen/article239222009/Das-Virus-ist-noch-da-Nach-langer-Ruhe-wieder-Mpox.html",
-      "urlToImage": "https://img.morgenpost.de/img/web-wissen/crop239222007/2312607685-w820-cv16_9-q85/Affenpockenvirus.jpg",
-      "publishedAt": "2023-08-18 07:07:18",
-      "content": "Berlin. Nach mehr als einem halben Jahr ohne Nachweise von Mpox (fr\u00fcher Affenpocken) sind in Deutschland wieder einzelne Infektionen mit dem Virus aufgetreten. In den vergangenen Wochen seien drei F\u00e4\u2026 [+2689 chars]",
-      "retrievedAt": "2023-08-19 19:05:11.087692",
-      "internal_id": "1682b9aefde863d4f9949cbc709b79ba7681d64da6f6d09fb0b46fb85e3c7684",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1226,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "STERN.de",
-      "author": "STERN.de",
-      "title": "Gesundheit: Das Virus ist noch da: Nach langer Ruhe wieder Mpox",
-      "description": "Die Krankheit Affenpocken, die nun offiziell Mpox hei\u00dft, konnte in letzter Zeit in Vergessenheit geraten. Das Robert Koch-Institut verzeichnete l\u00e4nger keine F\u00e4lle hierzulande. Das hat sich ge\u00e4ndert.",
-      "url": "https://www.stern.de/panorama/gesundheit--das-virus-ist-noch-da--nach-langer-ruhe-wieder-mpox--33746906.html",
-      "urlToImage": "https://image.stern.de/33746908/t/iQ/v1/w1440/r1.7778/-/18--urnnewsmldpacom2009010123081899872873v2w800h600l997t827r2997b2487jpeg---e0953bb05afeb0bc.jpg",
-      "publishedAt": "2023-08-18 07:07:18",
-      "content": "Die Krankheit Affenpocken, die nun offiziell Mpox hei\u00dft, konnte in letzter Zeit in Vergessenheit geraten. Das Robert Koch-Institut verzeichnete l\u00e4nger keine F\u00e4lle hierzulande. Das hat sich ge\u00e4ndert. \u2026 [+2896 chars]",
-      "retrievedAt": "2023-08-19 19:05:11.094055",
-      "internal_id": "a3486a79918e971c97bae23fa62e202656f42c1afc45a4ff1bab974a3a0661de",
       "publishedAtLabel": "Aug 18"
     }
   ]
