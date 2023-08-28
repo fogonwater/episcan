@@ -1,8 +1,206 @@
 {
-  "last_updated": "2023-08-28 07:05",
+  "last_updated": "2023-08-28 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 1420,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "Secretar\u00eda de Salud del Atl\u00e1ntico realiza plan de choque contra el dengue",
+      "description": "En lo corrido de 2023 se han registrado 1.619 casos de dengue en los 22 municipios del Atl\u00e1ntico y por eso el llamado a la comunidad atlanticense es a consultar al m\u00e9dico cuando presente s\u00edntomas de dengue para evitar complicaciones de salud.",
+      "url": "https://www.eluniversal.com.co/regional/secretaria-de-salud-del-atlantico-realiza-plan-de-choque-contra-el-dengue-LJ8874397",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1053x686/127c0/800d686/none/13704/QFPL/el-mosquito-adedes-aeyepty_8348984_20230827120651.jpg",
+      "publishedAt": "2023-08-27 16:36:54",
+      "content": "En lo corrido de 2023 se han registrado 1.619 casos de dengue en los 22 municipios del Atl\u00e1ntico y por eso el llamado a la comunidad atlanticense es a consultar al m\u00e9dico cuando presente s\u00edntomas de \u2026 [+4292 chars]",
+      "retrievedAt": "2023-08-28 19:05:24.784542",
+      "internal_id": "ba0583636c819c6ce048235019d3dead8d0efd402d534baf4b68da0eadc2dfef",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 1417,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Casos de dengue aumentam no Bangladesh e matam mais de 500 pessoas",
+      "description": "O Fundo das Na\u00e7\u00f5es Unidas para a Inf\u00e2ncia alertou para o aumento de casos de dengue entre crian\u00e7as no Bangladesh, provocando uma epidemia que j\u00e1 fez 537 mortos.",
+      "url": "https://observador.pt/2023/08/27/casos-de-dengue-aumentam-no-bangladesh-e-matam-mais-de-500-pessoas/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2303%3Anowe%3A0%3A214%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F12%2F17200516%2FGettyImages-1277294630-scaled.jpg",
+      "publishedAt": "2023-08-27 15:09:17",
+      "content": "O Fundo das Na\u00e7\u00f5es Unidas para a Inf\u00e2ncia (Unicef) alertou este domingo para o aumento de casos de dengue entre crian\u00e7as no Bangladesh, provocando uma epidemia que j\u00e1 fez 537 mortos. De acordo com u\u2026 [+1354 chars]",
+      "retrievedAt": "2023-08-28 19:05:24.770343",
+      "internal_id": "967088ca8299e00d59fcbb5337fcbcc45ca50a6e7e461d0d4565525e1dfa84c6",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 1423,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09e7\u09e7 \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09e8\u09e9\u09e8\u09ed",
+      "description": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09e7\u09e7 \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09e8\u09e9\u09e8\u09edthedailystar.net",
+      "url": "https://bangla.thedailystar.net/health/disease/news-509191",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/02/dengue_5_1_1_1_1.jpg",
+      "publishedAt": "2023-08-27 13:48:20",
+      "content": "At least 11 more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease.",
+      "retrievedAt": "2023-08-28 19:05:24.790627",
+      "internal_id": "3f9099b586818ad0411d95118eb95ffaea075ef6ef627918b047d1f23a94a4ac",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 1419,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Nuovo caso di Dengue a Bologna, una persona di ritorno da Panama",
+      "description": "Scatta la disinfestazione in una zona del centro (ANSA)",
+      "url": "https://www.ansa.it/emiliaromagna/notizie/2023/08/27/nuovo-caso-di-dengue-a-bologna-una-persona-di-ritorno-da-panama_2a2a9d0d-55d2-4208-afdd-9558fe2ef497.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/8/27/a63f8d7e3b7cbca8df7ceb247e553e41.jpg",
+      "publishedAt": "2023-08-27 13:22:22",
+      "content": "Nuovo caso importato di Dengue registrato a Bologna, in un giovane di ritorno da Panama. Il Comune, allertato al sospetto, si sta occupando della disinfestazione delle aree limitrofe all'abitazione d\u2026 [+850 chars]",
+      "retrievedAt": "2023-08-28 19:05:24.779981",
+      "internal_id": "f14f3dd047b605b80332c457719e80dc9a00e68c576f4d6cfb2a1060493262cd",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 1422,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "\u09b6\u09be\u09b9 \u0986\u09b2\u09ae \u09b8\u09be\u099c\u09c1",
+      "title": "\u09e9-\u09ea \u09a6\u09bf\u09a8 \u09b6\u09c1\u099f\u09bf\u0982 \u0995\u09b0\u09c7 \u09b0\u09cb\u09a6\u09c7 \u09aa\u09c1\u09dc\u09c7 \u0995\u09df\u09b2\u09be \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09bf: \u09b0\u09c1\u09a8\u09be \u0996\u09be\u09a8",
+      "description": "\u2018\u09ac\u0995\u2019 \u09b8\u09bf\u09a8\u09c7\u09ae\u09be\u09b0 \u098f\u0995\u099f\u09bf \u09a6\u09c3\u09b6\u09cd\u09af \u09a7\u09be\u09b0\u09a3 \u0995\u09b0\u09a4\u09c7 \u0997\u09bf\u09df\u09c7 \u09b8\u0995\u09be\u09b2 \u09ef\u099f\u09be \u09a5\u09c7\u0995\u09c7 \u09a6\u09c1\u09aa\u09c1\u09b0 \u09e9\u099f\u09be \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4 \u099f\u09be\u09a8\u09be \u09aa\u09be\u09a8\u09bf\u09a4\u09c7 \u099b\u09bf\u09b2\u09be\u09ae\u0964",
+      "url": "https://bangla.thedailystar.net/entertainment/news-509181",
+      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/08/27/untitled_design_-_2023-08-27t185924.572.png",
+      "publishedAt": "2023-08-27 13:09:48",
+      "content": "At least 11 more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease.",
+      "retrievedAt": "2023-08-28 19:05:24.788096",
+      "internal_id": "95be974fc2356976cf5a447859fea82147c40db301aa66710a83cd7dbf7342f5",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 1426,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Tinhte.vn",
+      "author": "no-reply@tinhte.vn (TTKM), TTKM",
+      "title": "[QC] Ng\u1ecdc Huy\u1ec1n v\u00e0 Zika hai c\u00f4 n\u00e0ng k\u1eb9o ng\u1ecdt c\u00f9ng chung d\u00f2ng xe \u01b0a th\u00edch",
+      "description": "H\u00f3a th\u00e2n th\u00e0nh nh\u1eefng \u201cc\u00f4 b\u1ea1n nh\u00e0 b\u00ean\u201d, Ng\u1ecdc Huy\u1ec1n v\u00e0 Zika si\u00eau ng\u1ecdt ng\u00e0o trong b\u1ed9 \u1ea3nh m\u1edbi nh\u1ea5t c\u00f9ng em x\u1ebf y\u00eau th\u00edch. Nguy\u1ec5n Ho\u00e0ng Ng\u1ecdc Huy\u1ec1n \u2013 di\u1ec5n vi\u00ean tr\u1ebb n\u1ed5i l\u00ean t\u1eeb phim \u201cGara H\u1ea1nh Ph\u00fac\u201d - s\u1edf h\u1eefu m\u1ed9t g\u01b0\u01a1ng m\u1eb7t v\u00f4 c\u00f9ng xinh \u0111\u1eb9p\u2026",
+      "url": "https://tinhte.vn/thread/qc-ngoc-huyen-va-zika-hai-co-nang-keo-ngot-cung-chung-dong-xe-ua-thich.3709001/",
+      "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/08/8098073_CV.jpg",
+      "publishedAt": "2023-08-27 13:06:31",
+      "content": "c bit, chic Yamaha Janus Trng Hng m\u00e0 Ngc Huyn v\u00e0 Zika s hu nm trong b su tp m\u00e0u mi ra mt ca nh\u00e0 Yamaha. Ngo\u00e0i ra, bn c\u00f3 th\u00eam nhiu la chn vi nhng t\u00f4ng m\u00e0u cc trendy kh\u00e1c nh en Hng, Xanh Cyan phi en, .\u2026 [+133 chars]",
+      "retrievedAt": "2023-08-28 19:05:25.887239",
+      "internal_id": "d43791c49584ba84e63461c189bea7fa4b7645d81e69f589f26bd1d7758077fd",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 1421,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "",
+      "title": "Alerta por brote de dengue en m\u00e1s de 270 municipios de Colombia",
+      "description": "El Ministerio de Salud se mantiene en alerta frente al brote del dengue en varios departamentos del pa\u00eds, mientras alerta a la comunidad a reforzar acciones preventivas y de control, en donde los menores siguen siendo los m\u00e1s afectados.",
+      "url": "https://www.eluniversal.com.co/colombia/alerta-por-brote-de-dengue-en-mas-de-270-municipios-de-colombia-YK8873203",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/914x686/57c0/800d686/none/13704/DDYH/mosquito-transmisor-del-dengue-2_8347580_20230827081406.jpg",
+      "publishedAt": "2023-08-27 13:00:20",
+      "content": "El Ministerio de Salud se mantiene en alerta frente al brote del dengue en varios departamentos del pa\u00eds, mientras alerta a la comunidad a reforzar acciones preventivas y de control, en donde los men\u2026 [+2914 chars]",
+      "retrievedAt": "2023-08-28 19:05:24.786100",
+      "internal_id": "51ef044d7f091128eb4c729de6580b1023a40265833a39078a93232660063892",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 1416,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Minist\u00e9rio da Sa\u00fade da Col\u00f4mbia alerta para surto de dengue em 274 munic\u00edpios",
+      "description": "O Minist\u00e9rio da Sa\u00fade da Col\u00f4mbia alertou para um surto de dengue em 274 munic\u00edpios de v\u00e1rios departamentos do pa\u00eds, onde os menores continuam a ser os mais afetados.",
+      "url": "https://observador.pt/2023/08/27/ministerio-da-saude-da-colombia-alerta-para-surto-de-dengue-em-274-municipios/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F06%2F22105618%2F40879854.jpg",
+      "publishedAt": "2023-08-27 12:15:58",
+      "content": "O Minist\u00e9rio da Sa\u00fade da Col\u00f4mbia alertou para um surto de dengue em 274 munic\u00edpios de v\u00e1rios departamentos do pa\u00eds, onde os menores continuam a ser os mais afetados, informou a ag\u00eancia de not\u00edcias C\u2026 [+737 chars]",
+      "retrievedAt": "2023-08-28 19:05:24.764696",
+      "internal_id": "f538de8651b28a291d98c0108db409cd10d5a8818abcc81e4defd7a9ebfa6e2e",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 1425,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Lshtm.ac.uk",
+      "author": null,
+      "title": "Seasonal malaria vaccine-drug combo sees dramatic reductions at 5-year mark",
+      "description": "Giving young children the world\u2019s first malaria vaccine RTS,S/AS01E alongside antimalarial drugs before the rainy season has led to a significant reduction in life-threatening malaria cases and deaths for over five years, according to a landmark study.",
+      "url": "https://www.lshtm.ac.uk/newsevents/news/2023/seasonal-malaria-vaccine-drug-combination-sees-dramatic-reductions-five-year",
+      "urlToImage": "https://www.lshtm.ac.uk/sites/default/files/20230825-Brian%20Greenwood-vaccinetrial.png",
+      "publishedAt": "2023-08-27 09:58:21",
+      "content": "Giving young children the worlds first malaria vaccine RTS,S/AS01E alongside antimalarial drugs before the rainy season has led to a significant reduction in life-threatening malaria cases and deaths\u2026 [+2550 chars]",
+      "retrievedAt": "2023-08-28 19:05:25.562624",
+      "internal_id": "a44e4e118b0f680bbf4be9f841894cf32f02952ab470883584872ad73bad417f",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 1424,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Pallavi Mehra",
+      "title": "Chronic Stress And Heart Health: Expert Explains Stress Management Techniques",
+      "description": "How To Protect Yourself From Dengue - 7 Precautionary Measures To Follow How Does Chronic Stress Impact Our Overall Health? Dr Bhasin explains, that chronic stress significantly affects overall health, particularly in the development of early heart issues. P\u2026",
+      "url": "https://zeenews.india.com/health/chronic-stress-and-heart-health-expert-explains-stress-management-techniques-2654197",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/08/27/1270354-heartpain.jpg",
+      "publishedAt": "2023-08-27 08:04:29",
+      "content": "In our fast-paced world, the silent assailant of chronic stress has become an ever-present concern, with repercussions that extend beyond mental well-being. A growing body of research is shedding lig\u2026 [+5350 chars]",
+      "retrievedAt": "2023-08-28 19:05:24.792318",
+      "internal_id": "0793d543bb10f7b3ba6085d1b52ddb532cecabac909e3d11d57872e7749e51a2",
+      "publishedAtLabel": "Aug 27"
+    },
+    {
+      "id": 1418,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Piden reforzar prevenci\u00f3n contra el dengue",
+      "description": "En el D\u00eda Internacional contra el Dengue, diversas instancias sanitarias exhortaron a la poblaci\u00f3n, especialmente a quienes habitan zonas en que es end\u00e9mico, a reforzar medidas preventivas, puesto que en temporada de lluvias aumenta la reproducci\u00f3n del mosqui\u2026",
+      "url": "https://www.jornada.com.mx/2023/08/27/politica/011n2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-08-27 07:56:13",
+      "content": "Peri\u00f3dico La JornadaDomingo 27 de agosto de 2023, p. 11 En el D\u00eda Internacional contra el Dengue, diversas instancias sanitarias exhortaron a la poblaci\u00f3n, especialmente a quienes habitan zonas en q\u2026 [+1564 chars]",
+      "retrievedAt": "2023-08-28 19:05:24.773881",
+      "internal_id": "014e8a9a7c91b824ee56a6f6e4a6e72f512925b8c79b13539d6fd409b8d4ba1c",
+      "publishedAtLabel": "Aug 27"
+    },
     {
       "id": 1412,
       "query": [
@@ -3416,204 +3614,6 @@
       "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
       "retrievedAt": "2023-08-19 19:05:09.268143",
       "internal_id": "84836fd93e7fc2d39b2a00cb33be755f11ca4eb4dbc5da41a4173161c452aa4c",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1217,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Christian Olaniran",
-      "title": "Positive case of 'locally acquired' malaria found in Maryland, health department says",
-      "description": "Positive case of 'locally acquired' malaria found in Maryland, health department sayscbsnews.com",
-      "url": "https://www.cbsnews.com/baltimore/news/positive-case-of-locally-acquired-malaria-found-in-maryland-health-department-says/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/21/02d6c33d-17a4-42d3-9750-b347377b3fd4/thumbnail/1200x630/81b7db1ecd296ffaf38c089418439482/gettyimages-1175380941.jpg?v=0b4ae642db52799a178d90d83603a9dc",
-      "publishedAt": "2023-08-18 18:44:13",
-      "content": "BALTIMORE \u2013 The Maryland Department of Health says a person who lives in Maryland has tested positive for malaria. The case was acquired locally, not from travel, according to the department. \"Mala\u2026 [+1867 chars]",
-      "retrievedAt": "2023-08-19 19:05:10.259896",
-      "internal_id": "bd209cb12678445e391c2e1701a7816b0cc6dd52b625d56da815abed74b6115b",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1202,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Sara Moniuszko",
-      "title": "What to know about dengue fever as cases are confirmed in Florida",
-      "description": "Eleven cases of dengue virus have been confirmed in Florida, prompting questions about the mosquito-borne illness, its symptoms and treatment options.",
-      "url": "https://www.cbsnews.com/news/what-is-dengue-fever-virus-symptoms-vaccine-treatment/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/18/c2425b70-9952-4767-8466-2a7c56a5c4f1/thumbnail/1200x630/0dbef84cef3f9a54ac80e8e12515e33b/gettyimages-1575494687.jpg?v=0b4ae642db52799a178d90d83603a9dc",
-      "publishedAt": "2023-08-18 18:22:03",
-      "content": "Eleven cases of dengue virus have been confirmed in Florida, prompting questions about the mosquito-borne illness. According to the Florida Department of Health, Broward County reported two cases and\u2026 [+3574 chars]",
-      "retrievedAt": "2023-08-19 19:05:09.241068",
-      "internal_id": "92fdc9c5f4b1e9e88d90592741d413e03816bf5de13e38bb123bcb21ff53288d",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1216,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "New malaria vaccine works well in infants, offers adults layered protection",
-      "description": "New vaccine targets a distinct stage in the malarial parasite's life cycle.",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171647690",
-      "urlToImage": null,
-      "publishedAt": "2023-08-18 18:12:16",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-08-19 19:05:10.219885",
-      "internal_id": "6665ffdf5ccaecdb13b7538f666a9d36a093da889a47043032d1e7458836b059",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1205,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
-      "title": "A Lodi un caso di infezione da virus Dengue: \u00e8 il primo certificato in Lombardia",
-      "description": "Il paziente, di oltre 70 anni, sta bene e si trova ricoverato all'ospedale di Crema. Un altro caso sospetto a Monza",
-      "url": "https://milano.repubblica.it/cronaca/2023/08/18/news/dengue_lodi_caso_lombardia_primo-411540396/",
-      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-milano/2023/08/18/192949848-7588c160-1744-4be4-a597-df21217388a5.jpg",
-      "publishedAt": "2023-08-18 17:30:10",
-      "content": "La Direzione Generale Welfare di Regione Lombardia comunica che \u00e8 stato identificato, in provincia di Lodi, un caso di Dengue, virus trasmesso da zanzare Aedes. Il paziente, di oltre 70 anni, sta ben\u2026 [+1075 chars]",
-      "retrievedAt": "2023-08-19 19:05:09.261760",
-      "internal_id": "0c5e43e0ed88c881c28732c335a28c14e8507290f2e8402e2674760b95b9462f",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1201,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Alexandra Ferguson",
-      "title": "Lo que hay que saber sobre el dengue a medida que se registran casos en Florida",
-      "description": "El Departamento de Salud de Florida puso a dos condados bajo alerta por enfermedades transmitidas por mosquitos, ya que se han registrado cinco casos de dengue en los condados de Broward y Miami-Dade, en menos de un mes.",
-      "url": "https://cnnespanol.cnn.com/2023/08/18/dengue-registran-casos-florida-trax/",
-      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/08/230817165107-aedes-aegypti-mosquito.webp",
-      "publishedAt": "2023-08-18 16:58:55",
-      "content": "Am\u00e9rica Latina, en alerta por brote de dengue 7:34 (CNN)-- El Departamento de Salud de Florida puso a dos condados bajo alerta por enfermedades transmitidas por mosquitos, ya que se han registrado c\u2026 [+7783 chars]",
-      "retrievedAt": "2023-08-19 19:05:09.231496",
-      "internal_id": "7b036b0e40b98167fdfc286c1c7d28e37a4bb084ff7fde90193cc19f66f63e55",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1213,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "ars-technica",
-      "source_name": "Ars Technica",
-      "author": "Ars Contributors",
-      "title": "New malaria vaccine works well in infants, offers adults layered protection",
-      "description": "New vaccine targets a distinct stage in the malarial parasite's life cycle.",
-      "url": "https://arstechnica.com/health/2023/08/new-malaria-vaccine-works-well-in-infants-offers-adults-layered-protection/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-482803431-2-760x380.jpg",
-      "publishedAt": "2023-08-18 16:55:14",
-      "content": "6 with Even after 140 years of its discovery, malaria remains one of the deadliest infections humans have ever encountered. It affected 247 million individuals and was responsible for over 600,000 \u2026 [+4516 chars]",
-      "retrievedAt": "2023-08-19 19:05:10.207507",
-      "internal_id": "41c56c9a02e158aaf9c70c0482a25bf2fd07616e5f3287708f64002a2c1041fe",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1206,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Caso di Dengue, disinfestazione precauzionale a S. Felice Circeo",
-      "description": "Un caso di Dengue a San Felice Circeo, localit\u00e0 balneare in provincia di Latina molto frequentata in estate. (ANSA)",
-      "url": "https://www.ansa.it/lazio/notizie/2023/08/18/caso-di-dengue-disinfestazione-precauzionale-a-s.-felice-circeo_a2a6e584-b53e-4d97-9e54-112cf41d51a5.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/3/24/4c5b12de6072832a56de7e98085f8134.jpg",
-      "publishedAt": "2023-08-18 16:28:12",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2023-08-19 19:05:09.263565",
-      "internal_id": "b42093147e12c6d540e87db9bab97980dcc2a2d8da9c47d8db724c29e40425c8",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1210,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Croydon: Girl, 11, died after systemic failure of hospital, parents say",
-      "description": "Annalise Luffingham, 11, died from sepsis caused by meningitis a day after she was admitted to A&E.",
-      "url": "https://www.bbc.co.uk/news/uk-england-london-66544939",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FBD9/production/_130837446_annaliseluffinghamandparentsdec2019lapland.jpg",
-      "publishedAt": "2023-08-18 15:48:41",
-      "content": "A south London couple said that there was \"systemic failure\" in their 11-year-old daughter's care after she died from sepsis caused by meningitis. Annalise Luffingham was admitted to hospital on 11 \u2026 [+2301 chars]",
-      "retrievedAt": "2023-08-19 19:05:09.681944",
-      "internal_id": "39284662cec287aeb69d5fb0a275eff183680aa0105273200b8f88b9af59b210",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1209,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09aa\u09c7\u09a8\u09b6\u09a8 \u09b8\u09cd\u0995\u09bf\u09ae\u09c7\u09b0 \u09a8\u09be\u09ae\u09c7 \u09b8\u09b0\u0995\u09be\u09b0 \u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8\u09bf \u09ab\u09be\u09a8\u09cd\u09a1 \u09a4\u09c8\u09b0\u09bf\u09b0 \u09ab\u09a8\u09cd\u09a6\u09bf \u0995\u09b0\u099b\u09c7: \u09ae\u09bf\u09b0\u09cd\u099c\u09be \u09ab\u0996\u09b0\u09c1\u09b2",
-      "description": "\u09aa\u09c7\u09a8\u09b6\u09a8 \u09b8\u09cd\u0995\u09bf\u09ae\u09c7\u09b0 \u09a8\u09be\u09ae\u09c7 \u09b8\u09b0\u0995\u09be\u09b0\u09c7\u09b0 \u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8\u09c0 \u09ab\u09be\u09a8\u09cd\u09a1 \u09a4\u09c8\u09b0\u09bf\u09b0 \u09ab\u09a8\u09cd\u09a6\u09bf \u0995\u09b0\u099b\u09c7 \u09ac\u09b2\u09c7 \u0985\u09ad\u09bf\u09af\u09cb\u0997 \u0995\u09b0\u09c7\u099b\u09c7\u09a8 \u09ac\u09bf\u098f\u09a8\u09aa\u09bf \u09ae\u09b9\u09be\u09b8\u099a\u09bf\u09ac \u09ae\u09bf\u09b0\u09cd\u099c\u09be \u09ab\u0996\u09b0\u09c1\u09b2 \u0987\u09b8\u09b2\u09be\u09ae \u0986\u09b2\u09ae\u0997\u09c0\u09b0\u0964",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/politics/news-506696",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/18/img-20230818-wa03002.jpg?itok=yD3GyG65",
-      "publishedAt": "2023-08-18 15:37:50",
-      "content": "At least nine more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
-      "retrievedAt": "2023-08-19 19:05:09.274580",
-      "internal_id": "925abe46a1f03ec50a43149d3090c1e52b46a90b1d964e7d959a0fe8b91b2a15",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1220,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Nationalgeographic.com.es",
-      "author": "www.nationalgeographic.com.es, www.nationalgeographic.com.es",
-      "title": "Mpox, la viruela que ha vuelto a surgir en Espa\u00f1a",
-      "description": "La Mpox, del ingl\u00e9s 'Monkeypox' y anteriormente conocida como viruela del mono, caus\u00f3 estragos en Europa en 2022. La Organizaci\u00f3n Mundial de la Salud (OMS) confirm\u00f3 un brote multinacional de esta infecci\u00f3n v\u00edrica y declar\u00f3 una emergencia de salud p\u00fablica de i\u2026",
-      "url": "https://www.nationalgeographic.com.es/ciencia/salut-declara-nuevo-brote-viruela-mono-barcelona_20577",
-      "urlToImage": "https://www.nationalgeographic.com.es/medio/2023/08/18/viruela-del-mono_87b3e447_2190782151_230818151738_1200x630.jpg",
-      "publishedAt": "2023-08-18 15:00:00",
-      "content": "La Mpox, del ingl\u00e9s 'Monkeypox' y anteriormente conocida como viruela del mono, caus\u00f3 estragos en Europa en 2022. La Organizaci\u00f3n Mundial de la Salud (OMS) confirm\u00f3 un brote multinacional de esta inf\u2026 [+5388 chars]",
-      "retrievedAt": "2023-08-19 19:05:11.081053",
-      "internal_id": "46a1a3750054d331fd4f8fca68b45ed02ab1e1b95fa7612070e00342f6edf8df",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1203,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Emmanuel Detres",
-      "title": "Cheating Wife Caught on Video Inside the Wizarding World at Universal Orlando",
-      "description": "A wife on vacation with her children and husband was caught cheating while walking around the Wizarding World of Harry Potter inside Universal Orlando Resort. Related: Alleged Dengue Fever Outbreak Not Likely at Disney World Reddit and TikTok \u2013 The Places to \u2026",
-      "url": "https://insidethemagic.net/?p=617804&preview=true&preview_id=617804",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Untitled-design-57-1.jpg",
-      "publishedAt": "2023-08-18 14:47:09",
-      "content": "A wife on vacation with her children and husband was caught cheating while walking around the Wizarding World of Harry Potter inside Universal Orlando Resort. Credit: Universal Orlando Resort Relat\u2026 [+2567 chars]",
-      "retrievedAt": "2023-08-19 19:05:09.247593",
-      "internal_id": "c08a143bf7fbec96cca037f240fc517fa42312ddb509d99be92377f56e88a446",
       "publishedAtLabel": "Aug 18"
     }
   ]
