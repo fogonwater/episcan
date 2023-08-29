@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-08-28 19:05",
+  "last_updated": "2023-08-29 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 11,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 1427,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "\u09ae\u09bf\u09a8\u09cd\u099f\u09c1 \u09a6\u09c7\u09b6\u09cb\u09df\u09be\u09b0\u09be",
+      "title": "\u09aa\u09be\u09a8 \u099a\u09be\u09b7\u09c7\u09b0 \u09aa\u09be\u09b6\u09be\u09aa\u09be\u09b6\u09bf \u0997\u09ac\u09be\u09a6\u09bf \u09aa\u09b6\u09c1\u09aa\u09be\u09b2\u09a8\u09c7 \u09b8\u09cd\u09ac\u099a\u09cd\u099b\u09b2\u09a4\u09be \u09ab\u09bf\u09b0\u099b\u09c7 \u09aa\u09c1\u099e\u09cd\u099c\u09bf\u09ac\u09be\u09b8\u09c0\u09a6\u09c7\u09b0",
+      "description": "\u09aa\u09be\u09a8 \u099a\u09be\u09b7\u09c7\u09b0 \u09aa\u09be\u09b6\u09be\u09aa\u09be\u09b6\u09bf \u0997\u09ac\u09be\u09a6\u09bf \u09aa\u09b6\u09c1\u09aa\u09be\u09b2\u09a8\u09c7 \u09b8\u09cd\u09ac\u099a\u09cd\u099b\u09b2\u09a4\u09be \u09ab\u09bf\u09b0\u099b\u09c7 \u09aa\u09c1\u099e\u09cd\u099c\u09bf\u09ac\u09be\u09b8\u09c0\u09a6\u09c7\u09b0thedailystar.net",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/news-509336",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/uploads/2023/08/28/untitled_design_-_2023-08-28t125105.650.png",
+      "publishedAt": "2023-08-28 07:02:44",
+      "content": "With four days shy of the month-end, August has seen a higher number of dengue cases than all of last year.",
+      "retrievedAt": "2023-08-29 07:05:40.016500",
+      "internal_id": "1cfdcfa82eadc102f82f1c5ab761edef89de6855c4be07780ecad7b7005af9a5",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 1429,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "GlobeNewswire",
+      "title": "Valneva Reports Positive Initial Phase 3 Safety Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate",
+      "description": "(marketscreener.com) Saint-Herblain , August 28, 2023 \u2013 Valneva SE , a specialty vaccine company, today reported positive initial Phase 3 safety data in adolescents for its single-dose chikungunya virus vaccine candidate VLA1553. Immunogenicity data for the t\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Reports-Positive-Initial-Phase-3-Safety-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-44708926/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-08-28 05:01:02",
+      "content": "Saint-Herblain (France), August28, 2023ValnevaSE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today reported positive initial Phase 3 safety data in adolescents for its single-do\u2026 [+11872 chars]",
+      "retrievedAt": "2023-08-29 07:05:40.950970",
+      "internal_id": "b65f423ee7417d31d50d9198e8b6612a772a3a1b85821685551723c97df08496",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 1430,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Reports Positive Initial Phase 3 Safety Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate",
+      "description": "Saint-Herblain (France), August 28, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today reported positive initial Phase 3 safety data in adolescents for its single-dose chikungunya virus (CHIKV) vaccine candidate VLA1553.\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/08/28/2732286/0/en/Valneva-Reports-Positive-Initial-Phase-3-Safety-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine-Candidate.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-08-28 05:00:00",
+      "content": "Saint-Herblain (France), August28, 2023ValnevaSE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today reported positive initial Phase 3 safety data in adolescents for its single-do\u2026 [+11792 chars]",
+      "retrievedAt": "2023-08-29 07:05:40.953078",
+      "internal_id": "af3a5105719df5bb90702bb1f34d454817ec1eb30e93a2f1ce314ed549968998",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 1431,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva annonce de premi\u00e8res donn\u00e9es positives de Phase 3 concernant l\u2019innocuit\u00e9 de son candidat vaccin contre le chikungunya chez les adolescents",
+      "description": "Saint-Herblain (France), 28 ao\u00fbt 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd\u2019hui de premi\u00e8res donn\u00e9es positives de Phase 3 concernant l\u2019innocuit\u00e9, chez les adolescents, de son candidat vaccin \u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/08/28/2732286/0/fr/Valneva-annonce-de-premi%C3%A8res-donn%C3%A9es-positives-de-Phase-3-concernant-l-innocuit%C3%A9-de-son-candidat-vaccin-contre-le-chikungunya-chez-les-adolescents.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-08-28 05:00:00",
+      "content": "Saint-Herblain (France), 28 ao\u00fbt 2023ValnevaSE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourdhui de premi\u00e8res donn\u00e9es positives de Phase 3 concernant lin\u2026 [+13733 chars]",
+      "retrievedAt": "2023-08-29 07:05:40.954527",
+      "internal_id": "6ad089f9642824ebe11c03dbf74c537e05808be1665b32490d441feb5b91e024",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 1428,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Reforma.com",
+      "author": "Jaime Ugarte",
+      "title": "Cruz Azul vence 2-1 a Rayados y logra su primer triunfo",
+      "description": "Cruz Azul sali\u00f3 del fondo de la tabla y sum\u00f3 su primer triunfo en el Apertura 2023 al vencer 2-1 a Rayados, que perdi\u00f3 su racha invicta.",
+      "url": "https://www.reforma.com/cruz-azul-vence-a-rayados-y-logra-primer-triunfo/ar2665056",
+      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/550/5549519.jpg&ang=0",
+      "publishedAt": "2023-08-28 04:19:26",
+      "content": "La M\u00e1quina se quit\u00f3 la malaria y gan\u00f3 su primer juego del Apertura 2023 en Monterrey, sumado a que es su primera victoria en el Estadio BBVA en Liga MX. Cr\u00e9dito: Mexsport Mois\u00e9s Vieira marc\u00f3 su prim\u2026 [+214 chars]",
+      "retrievedAt": "2023-08-29 07:05:40.555503",
+      "internal_id": "d482c41faa7d42b7ed03ebd07e5b8575d18f996f152fe11a4df05089f5b84e45",
+      "publishedAtLabel": "Aug 28"
+    },
     {
       "id": 1420,
       "query": [
@@ -3524,96 +3614,6 @@
       "content": "Per the Maryland Department of Health: Maryland Department of Health has confirmed and reported a positive case of locally acquired malaria in a Maryland resident who lives in the National Capital Re\u2026 [+2745 chars]",
       "retrievedAt": "2023-08-20 07:05:24.063699",
       "internal_id": "512c03186fda785072c24c8c204a2546802e0f2f1b392abdce981cbe66b9c83b",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1239,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NBC4 Washington",
-      "author": "Andrea Swalec",
-      "title": "Malaria diagnosed in Maryland resident who had not recently traveled: Health dept.",
-      "description": "\"We have not seen a case in Maryland that was not related to travel in over 40 years,\" the state health secretary said. Here's what to know about malaria.",
-      "url": "https://www.nbcwashington.com/news/local/malaria-diagnosed-in-maryland-resident-who-had-not-recently-traveled-health-dept/3407162/",
-      "urlToImage": "https://media.nbcwashington.com/2023/08/mosquito-close-up-1.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2023-08-18 19:57:17",
-      "content": "A Maryland resident who lives in the D.C. area contracted malaria despite not having recently traveled out of the country or to states where malaria has been detected, state health officials said Fri\u2026 [+4418 chars]",
-      "retrievedAt": "2023-08-20 07:05:24.167573",
-      "internal_id": "62233c58a1593ef1f4ac7ad3d322c4ee0774841aff22f8a50daf7799cae14549",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1242,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Ari Daniel",
-      "title": "Chikungunya virus surges in South America. But a new discovery could help outfox it",
-      "description": "South America has seen a quarter million cases this year, as climate change is a boon for the mosquitoes that spread it. A study about how the virus infects cells could help inform future treatments.",
-      "url": "https://www.npr.org/sections/goatsandsoda/2023/08/18/1194392519/chikungunya-virus-surges-in-south-america-but-a-new-discovery-could-help-outfox-",
-      "urlToImage": "https://media.npr.org/assets/img/2023/08/17/ap23062506105531_wide-1c7d4e8eba3114cdcfc832624edf65f98d7fa749-s1400-c100.jpg",
-      "publishedAt": "2023-08-18 19:32:51",
-      "content": "When someone enters the hospital with the chikungunya virus, there's no mistaking it. \"The patients came here with fever and also with pain in their joints,\" says Dr. Susana Lloveras, an infectious\u2026 [+4641 chars]",
-      "retrievedAt": "2023-08-20 07:05:24.758164",
-      "internal_id": "140c15c5dcb3cd233888a4f5369beade5504fd0c5434305edde5b4f5b6a1f7ec",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1243,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Ari Daniel",
-      "title": "Chikungunya virus surges in South America. But a new discovery could help outfox it",
-      "description": "South America has seen a quarter million cases this year, as climate change is a boon for the mosquitoes that spread it. A study about how the virus infects cells could help inform future treatments.",
-      "url": "https://www.npr.org/sections/goatsandsoda/2023/08/18/1194392519/chikungunya-virus-surges-in-south-america-but-a-new-discovery-could-help-outfox",
-      "urlToImage": "https://media.npr.org/assets/img/2023/08/17/ap23062506105531_wide-1c7d4e8eba3114cdcfc832624edf65f98d7fa749-s1400-c100.jpg",
-      "publishedAt": "2023-08-18 19:32:00",
-      "content": "When someone enters the hospital with the chikungunya virus, there's no mistaking it. \"The patients came here with fever and also with pain in their joints,\" says Dr. Susana Lloveras, an infectious \u2026 [+4636 chars]",
-      "retrievedAt": "2023-08-20 07:05:24.759917",
-      "internal_id": "0ecb75ddcc7491f968f8127c3b5da7c3389f5acd8613441ab79d6eb627be91c1",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1237,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "WBAL TV Baltimore",
-      "author": "Blair Young",
-      "title": "Maryland Department of Health confirms locally acquired malaria case",
-      "description": "The Maryland Department of Health announced that they have confirmed a positive case of locally acquired malaria in a Maryland resident.",
-      "url": "https://www.wbaltv.com/article/maryland-department-health-confirms-locally-acquired-malaria-case/44852704",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/maryland-department-of-health-1638752087.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-      "publishedAt": "2023-08-18 19:07:12",
-      "content": "The Maryland Department of Health announced that they have confirmed a positive case of locally acquired malaria in a Maryland resident. The person lives in the National Capital Region and was hospi\u2026 [+739 chars]",
-      "retrievedAt": "2023-08-20 07:05:24.062267",
-      "internal_id": "9dd014b783f2627aba27848d08254b7880997df18890e28fcc51280aad3465d2",
-      "publishedAtLabel": "Aug 18"
-    },
-    {
-      "id": 1207,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Dengue cases in Florida: Symptoms, testing, treatment and vaccine - CNN",
-      "description": "Dengue cases in Florida: Symptoms, testing, treatment and vaccineCNN More dengue fever cases detected in South FloridaCBS Miami Dengue cases prompt mosquito-borne illness alert in Miami, Fort Lauderdale. What to knowMiami Herald Dengue fever cases spread nort\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171648322",
-      "urlToImage": null,
-      "publishedAt": "2023-08-18 18:52:09",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-08-19 19:05:09.268143",
-      "internal_id": "84836fd93e7fc2d39b2a00cb33be755f11ca4eb4dbc5da41a4173161c452aa4c",
       "publishedAtLabel": "Aug 18"
     }
   ]
