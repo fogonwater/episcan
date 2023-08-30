@@ -1,8 +1,170 @@
 {
-  "last_updated": "2023-08-29 19:05",
+  "last_updated": "2023-08-30 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 17,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 1451,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "One succumbs to dengue fever",
+      "description": "KANCHANPUR: Hikmat Khatri, 28, from Pachui of Belauri Municipality-8 in the district died of dengue infection last night. Ward No 8 Chairman of Belauri, Bisham Ram Rana, informed that Khatri breathed his last during treatment at Nova Hospital of Dhangadhi in \u2026",
+      "url": "https://english.khabarhub.com/2023/29/316326/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-08-29 05:35:45",
+      "content": "KANCHANPUR: Hikmat Khatri, 28, from Pachui of Belauri Municipality-8 in the district died of dengue infection last night. Ward No 8 Chairman of Belauri, Bisham Ram Rana, informed that Khatri breathe\u2026 [+401 chars]",
+      "retrievedAt": "2023-08-30 07:05:54.134464",
+      "internal_id": "7a15077a6a05bc45a55bcde8c8e195a7a95ad3d2a90ed8faa36972e4b510eeb4",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 1454,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La combinaci\u00f3n de vacuna y f\u00e1rmaco contra la malaria reduce dr\u00e1sticamente los casos y las muertes",
+      "description": "Los resultados finales de un estudio hist\u00f3rico publicado en 'The Lancet Infectious Diseases' confirman que los beneficios de la combinaci\u00f3n de la vacuna antipal\u00fadica RTS,S/AS01E (RTS,S) con f\u00e1rmacos antipal\u00fadicos en contextos de alta transmisi\u00f3n estacional de\u2026",
+      "url": "https://www.infosalus.com/asistencia/noticia-combinacion-vacuna-farmaco-contra-malaria-reduce-drasticamente-casos-muertes-20230829072948.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230829072948_1200.jpg",
+      "publishedAt": "2023-08-29 05:29:48",
+      "content": "MADRID, 29 Ago. (EUROPA PRESS) - Los resultados finales de un estudio hist\u00f3rico publicado en 'The Lancet Infectious Diseases' confirman que los beneficios de la combinaci\u00f3n de la vacuna antipal\u00fadi\u2026 [+7665 chars]",
+      "retrievedAt": "2023-08-30 07:05:55.091880",
+      "internal_id": "75bf05a4f1acfe76dc62107bba401524a3bdf4cdc223b7bf755fb1bc43c39321",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 1457,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "GlobeNewswire",
+      "title": "Health Canada Accepts Valneva's Chikungunya Vaccine License Application for Review",
+      "description": "(marketscreener.com) Saint-Herblain , August 29, 2023 \u2013 Valneva SE , a specialty vaccine company, today announced that Health Canada has completed screening validation of the Company\u2019s regulatory application for marketing approval of its single-shot chikungun\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Health-Canada-Accepts-Valneva-s-Chikungunya-Vaccine-License-Application-for-Review-44716511/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-08-29 05:01:02",
+      "content": "Saint-Herblain(France), August29, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that Health Canada has completed screening validation of the Company\u2026 [+10670 chars]",
+      "retrievedAt": "2023-08-30 07:05:56.233747",
+      "internal_id": "bf8e66e57ff7c0925e55bdc6dd146d4580e330f47622b121db2b51515d031c25",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 1456,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Health Canada Accepts Valneva\u2019s Chikungunya Vaccine License Application for Review",
+      "description": "Saint-Herblain (France), August 29, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that Health Canada has completed screening validation of the Company\u2019s regulatory application for marketing approval of its\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/08/29/2733039/0/en/Health-Canada-Accepts-Valneva-s-Chikungunya-Vaccine-License-Application-for-Review.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-08-29 05:00:00",
+      "content": "Saint-Herblain(France), August29, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that Health Canada has completed screening validation of the Company\u2026 [+10589 chars]",
+      "retrievedAt": "2023-08-30 07:05:56.229432",
+      "internal_id": "490e54c493e14f7dddac499f1dd72e1b04d8953fcabf51c0cfdadc826f8388dd",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 1458,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Sant\u00e9 Canada juge recevable le dossier de demande d\u2019autorisation de mise sur le march\u00e9 de Valneva pour son candidat vaccin contre le chikungunya",
+      "description": "Saint-Herblain (France), 29 ao\u00fbt 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd'hui que l\u2019agence r\u00e9glementaire Sant\u00e9 Canada a achev\u00e9 l\u2019examen de recevabilit\u00e9 de la demande d\u2019autorisation de mise sur \u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/08/29/2733039/0/fr/Sant%C3%A9-Canada-juge-recevable-le-dossier-de-demande-d-autorisation-de-mise-sur-le-march%C3%A9-de-Valneva-pour-son-candidat-vaccin-contre-le-chikungunya.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-08-29 05:00:00",
+      "content": "Saint-Herblain (France), 29 ao\u00fbt 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd'hui que lagence r\u00e9glementaire Sant\u00e9 Canada a achev\u00e9 lexamen de\u2026 [+11854 chars]",
+      "retrievedAt": "2023-08-30 07:05:56.236713",
+      "internal_id": "dfba05298d368e422b2251736648afd4fa7e487dcdc0bce5d21bfdae04a1c5f1",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 1453,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Air pollution greatest global threat to human health, says benchmark study",
+      "description": "WASHINGTON: Air pollution is more dangerous to the health of the average person on planet Earth than smoking or alcohol, with the threat worsening in its global epicentre South Asia even as China fast improves, a study showed on Tuesday (Aug 29). Yet the leve\u2026",
+      "url": "https://www.channelnewsasia.com/sustainability/air-pollution-greatest-global-threat-human-health-says-benchmark-study-3731441",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SqmXlZdA--/c_crop,h_432,w_768,x_0,y_36/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/7e7a4b8454f346968d94ce4ac098b840f23cdc12.jpg?itok=eVFkCp3O",
+      "publishedAt": "2023-08-29 04:57:30",
+      "content": "While there is an international financing partnership called the Global Fund that disburses US$4 billion annually on HIV/AIDS, malaria and tuberculosis, there is no equivalent for air pollution. \"Ye\u2026 [+2091 chars]",
+      "retrievedAt": "2023-08-30 07:05:55.088333",
+      "internal_id": "c56e32b2f51d53e6b0753bc3434ecabfc01ae26060ca98a755c0ad0808f90d89",
+      "publishedAtLabel": "Aug 29"
+    },
+    {
+      "id": 1449,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "CMV",
+      "title": "Nicaragua reporta 3.638 casos sospechosos de dengue y 235 casos confirmados en una semana",
+      "description": "Nicaragua registr\u00f3 3.638 casos sospechosos de dengue y 235 casos confirmados en la \u00faltima semana, mientras la enfermedad sigue expandi\u00e9ndose por el pa\u00eds, seg\u00fan un informe del Ministerio de Salud divulgado este lunes en Managua. \u00abTuvimos 3.638 casos sospechoso\u2026",
+      "url": "https://elmercurio.com.ec/2023/08/28/nicaragua-reporta-3-638-casos-sospechosos-de-dengue-y-235-casos-confirmados-en-una-semana/",
+      "urlToImage": null,
+      "publishedAt": "2023-08-28 20:29:42",
+      "content": "Nicaragua registr\u00f3 3.638 casos sospechosos de dengue y 235 casos confirmados en la \u00faltima semana, mientras la enfermedad sigue expandi\u00e9ndose por el pa\u00eds, seg\u00fan un informe del Ministerio de Salud divu\u2026 [+2117 chars]",
+      "retrievedAt": "2023-08-30 07:05:54.113963",
+      "internal_id": "397a651f957d687ee68fddbabf76d3a316234f149ac2ed31c3575b3604e7db9e",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 1452,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "New approach to fighting malaria",
+      "description": "Findings can open up new avenues for targeted approaches toward therapeutic strategies against the malaria-causing P. falciparum that are aimed at stopping the parasite's life cycle progression and its sexual differentiation, thus blocking the transmission of\u2026",
+      "url": "https://www.sciencedaily.com/releases/2023/08/230828162349.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-08-28 20:23:49",
+      "content": "The mosquito-borne infectious disease malaria resulted in about 241 million clinical episodes and 627,000 deaths in 2020. In young children and pregnant women living in areas where the disease is end\u2026 [+2373 chars]",
+      "retrievedAt": "2023-08-30 07:05:55.083591",
+      "internal_id": "b22597975f6fe265e55a0fd36ca84391ef2c2efb72a3996881d82c8cb16f61e4",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 1455,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Iqbal Pittalwala",
+      "title": "For a new approach to fighting malaria, study focuses on special RNA molecules in human malaria parasite",
+      "description": "The mosquito-borne infectious disease malaria resulted in about 241 million clinical episodes and 627,000 deaths in 2020. In young children and pregnant women living in areas where the disease is endemic, a major cause of death is Plasmodium falciparum, the m\u2026",
+      "url": "https://phys.org/news/2023-08-approach-malaria-focuses-special-rna.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/monoclonal-antibody-pr.jpg",
+      "publishedAt": "2023-08-28 19:25:03",
+      "content": "The mosquito-borne infectious disease malaria resulted in about 241 million clinical episodes and 627,000 deaths in 2020. In young children and pregnant women living in areas where the disease is end\u2026 [+3045 chars]",
+      "retrievedAt": "2023-08-30 07:05:55.094659",
+      "internal_id": "21e6a1b7c4ea96c4cd579b6111aa6df7611c29b6e85ce9e220ff9db5dfe008b0",
+      "publishedAtLabel": "Aug 28"
+    },
     {
       "id": 1439,
       "query": [
@@ -73,6 +235,24 @@
       "content": "Abstract Dengue represents a growing public health burden worldwide, accounting for approximately 100 million symptomatic cases and tens of thousands of fatalities yearly. Prior infection with one s\u2026 [+55761 chars]",
       "retrievedAt": "2023-08-29 19:05:28.114913",
       "internal_id": "7e54a4acae4b9eede4b2fe78f00635b6738fc2727f69ea07dc4c3e01fcc93133",
+      "publishedAtLabel": "Aug 28"
+    },
+    {
+      "id": 1450,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "UNICEF delivers medical supplies, support among children in Bangladesh",
+      "description": "With more than 21,000 cases of dengue reported among children under the age of 15, UNICEF is intensifying its support to the efforts of the Government of Bangladesh to contain the dengue outbreak in the country. To protect children and to respond to the publi\u2026",
+      "url": "https://sylhetmirror.com/2023/08/28/unicef-delivers-medical-supplies-support-among-children-in-bangladesh/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/t54t65y.jpg",
+      "publishedAt": "2023-08-28 13:49:02",
+      "content": "With more than 21,000 cases of dengue reported among children under the age of 15, UNICEF is intensifying its support to the efforts of the Government of Bangladesh to contain the dengue outbreak in \u2026 [+2391 chars]",
+      "retrievedAt": "2023-08-30 07:05:54.131593",
+      "internal_id": "44a93568b25bae17c0cccbd8b8f0ed641193e12e23e4f3e61d2f456bc48a6493",
       "publishedAtLabel": "Aug 28"
     },
     {
@@ -3434,187 +3614,6 @@
       "retrievedAt": "2023-08-21 19:05:24.713481",
       "internal_id": "023d2704dcaf65a1b57fa66258a0ec6ac105105fb7155f74f64957eb910a321a",
       "publishedAtLabel": "Aug 20"
-    },
-    {
-      "id": 1255,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Maryland reports first locally acquired malaria case in 40 years - NBC News",
-      "description": "Maryland reports first locally acquired malaria case in 40 yearsNBC News Maryland health officials report positive case of 'locally acquired' malariaFox News Positive case of 'locally acquired' malaria found in Maryland, health department saysWJZ First case o\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171655498",
-      "urlToImage": null,
-      "publishedAt": "2023-08-20 04:32:08",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-08-21 07:05:45.303167",
-      "internal_id": "033a0612421379f2a787f862944e3274fb2b6978160859df722b1669c5ab8dbd",
-      "publishedAtLabel": "Aug 20"
-    },
-    {
-      "id": 1252,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Thebaltimorebanner.com",
-      "author": "Meredith Cohn, Sarah True",
-      "title": "Locally acquired case of malaria found in Maryland for first time in 40 years...",
-      "description": "The Maryland case involves a strain that is different from the strain seen so far in Florida and Texas, and can be more severe, state health officials said Friday afternoon.",
-      "url": "https://www.thebaltimorebanner.com/community/public-health/malaria-locally-acquired-maryland-5J62V5IWIJB3HOSGZV6I3QG4VI/",
-      "urlToImage": "https://www.thebaltimorebanner.com/resizer/sGOk2zNmIpQLP4nOh6E6zBPC-4o=/657x0/filters:quality(70):format(url)/cloudfront-us-east-1.images.arcpublishing.com/baltimorebanner/QLIEOKC34NHYVIFU3WT7AHGAYA.jpg",
-      "publishedAt": "2023-08-20 03:40:40",
-      "content": "Maryland has recorded its first case of locally acquired malaria in four decades, setting off concern among public health officials about the mosquito-borne disease known as a major global killer. T\u2026 [+3217 chars]",
-      "retrievedAt": "2023-08-21 07:05:45.285538",
-      "internal_id": "d8bd2f99311cda862539ea46fa532535a0b535981b4e7dc0f90575859f6eb28b",
-      "publishedAtLabel": "Aug 20"
-    },
-    {
-      "id": 1253,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Dennis Romero and Caryn Littler",
-      "title": "Maryland reports first locally acquired malaria case in 40 years",
-      "description": "Another case of rare \"locally acquired\" malaria, this one in the Washington, D.C. area, has been reported amid a string of such infections since May, officials said Friday.",
-      "url": "https://www.nbcnews.com/health/health-news/maryland-reports-first-locally-acquired-malaria-case-40-years-rcna100813",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230819-malaria-mosquito-cc-0920p-13c1ad.jpg",
-      "publishedAt": "2023-08-20 01:50:59",
-      "content": "Another case of rare \"locally acquired\" malaria, this one in the Washington, D.C. area, has been reported amid a string of such infections since May, officials said Friday. The unidentified patient \u2026 [+1775 chars]",
-      "retrievedAt": "2023-08-21 07:05:45.294385",
-      "internal_id": "7d727c9a2a42962ca669b00f5c8dda99342f0f363d1d27d66b721fc79d05e429",
-      "publishedAtLabel": "Aug 20"
-    },
-    {
-      "id": 1251,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Saman Husain",
-      "title": "150 km, 15 workers, six routes: \u2018Mosquito terminator\u2019 begins annual trip around Delhi\u2019",
-      "description": "As per MCD\u2019s August 7 report, a total of 348 dengue cases have been reported in the city so far this year. In the first week alone, the city saw 105 cases. A source in the civic body said the number has increased over the last week.",
-      "url": "https://indianexpress.com/article/cities/delhi/150-km-15-workers-six-routes-mosquito-terminator-begins-annual-trip-around-delhi-8900367/",
-      "urlToImage": "https://images.indianexpress.com/2023/08/delhi-mosquito.jpeg",
-      "publishedAt": "2023-08-20 00:26:45",
-      "content": "Around 9 am on Saturday, 15 workers from the Northern Railways and MCD, comprising health and malaria inspectors, field workers and drivers, set off on a 150-km journey to spray larvicide on railway \u2026 [+3002 chars]",
-      "retrievedAt": "2023-08-21 07:05:44.527531",
-      "internal_id": "8443c607b34fa961dd26677c3f2c8ef280529623d946e8b4f1985b0395573d83",
-      "publishedAtLabel": "Aug 20"
-    },
-    {
-      "id": 1250,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Whooping cough case reported in Rompin",
-      "description": "KUANTAN: The Pahang Health Department has confirmed that a pertussis (whooping cough) case has been reported in Kampung Bahagia, Rompin. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/08/20/whooping-cough-case-reported-in-rompin",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-08-19 23:00:00",
-      "content": "KUANTAN: The Pahang Health Department has confirmed that a pertussis (whooping cough) case has been reported in Kampung Bahagia, Rompin. Its director Datuk Dr Nor Azimi Yunus said the Rompin Distric\u2026 [+897 chars]",
-      "retrievedAt": "2023-08-21 07:05:43.218903",
-      "internal_id": "fc5cce0dbfc1be4dc12d6a6fa558af9d8fdf51582c539ba1073e0426866f8691",
-      "publishedAtLabel": "Aug 19"
-    },
-    {
-      "id": 1256,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Maryland health officials report positive case of 'locally acquired' malaria - Fox News",
-      "description": "Maryland health officials report positive case of 'locally acquired' malariaFox News Positive case of 'locally acquired' malaria found in Maryland, health department saysWJZ Case of locally acquired malaria reported in MarylandCNN Maryland resident tests posi\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171654436",
-      "urlToImage": null,
-      "publishedAt": "2023-08-19 22:52:04",
-      "content": "\"Someone's been mean to you! Tell me who it is, so I can punch him tastefully.\" -- Ralph Bakshi's Mighty Mouse",
-      "retrievedAt": "2023-08-21 07:05:45.305120",
-      "internal_id": "6d4ffbb236dd3ce79fa2cec18f70792b43e45bbb1e370b7a8dff208e912fa1a9",
-      "publishedAtLabel": "Aug 19"
-    },
-    {
-      "id": 1257,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Post Reporters",
-      "title": "Songkhla province detects first mpox case",
-      "description": "Songkhla: The Songkhla Provincial Public Health Office has detected the first monkeypox (mpox) case in the province.",
-      "url": "https://www.bangkokpost.com/thailand/general/2632329/songkhla-province-detects-first-mpox-case",
-      "urlToImage": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "publishedAt": "2023-08-19 22:00:00",
-      "content": "Songkhla: The Songkhla Provincial Public Health Office has detected the first monkeypox (mpox) case in the province. The patient was reported to be a 31-year-old Thai man and native of Songkhla. The\u2026 [+1899 chars]",
-      "retrievedAt": "2023-08-21 07:05:45.992434",
-      "internal_id": "b876f60871a546d386c4a4fc9ec4451c777dcc23bc67c7b7feda5460bddf280e",
-      "publishedAtLabel": "Aug 19"
-    },
-    {
-      "id": 1254,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Adam Sabes",
-      "title": "Maryland health officials report positive case of 'locally acquired' malaria",
-      "description": "Maryland health officials said on Friday that a positive case of \"locally acquired\" malaria was detected in the National Capital Region.",
-      "url": "https://www.foxnews.com/health/maryland-health-officials-report-positive-case-locally-acquired-malaria",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/Mosquito.jpg",
-      "publishedAt": "2023-08-19 20:30:13",
-      "content": "Health officials in Maryland say that a positive case of \"locally acquired\" malaria was detected in the National Capital Region. The Maryland Department of Health said it confirmed and reported the \u2026 [+1490 chars]",
-      "retrievedAt": "2023-08-21 07:05:45.300569",
-      "internal_id": "0777525a93afafddc5857646c6fe5ea9c82bab99466db0a49ae55f3670ad83bb",
-      "publishedAtLabel": "Aug 19"
-    },
-    {
-      "id": 1248,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Chitwan records 108 dengue cases in a month",
-      "description": "CHITWAN: Chitwan district has recorded increasing cases of dengue infection. According to the District Health Office, 108 people were infected with dengue disease from July 17 to August 18. Such a number of dengue cases was detected in the course of conductin\u2026",
-      "url": "https://english.khabarhub.com/2023/19/315133/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue.webp",
-      "publishedAt": "2023-08-19 15:15:12",
-      "content": "Image for Representation.CHITWAN: Chitwan district has recorded increasing cases of dengue infection. According to the District Health Office, 108 people were infected with dengue disease from July 1\u2026 [+860 chars]",
-      "retrievedAt": "2023-08-20 19:05:34.352431",
-      "internal_id": "0c60690db7ab635843b30636107a55e4a4a587d977d14633522c2713785f35ac",
-      "publishedAtLabel": "Aug 19"
-    },
-    {
-      "id": 1246,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Caso di Dengue nel Lodigiano, disinfezione e ordinanza",
-      "description": "Disinfestazione straordinaria delle strade, sospensione delle donazioni di sangue: dopo che un settantenne di Castiglione d'Adda, nel Lodigiano, \u00e8 risultato positivo alla Dengue, malattia infettiva trasmissibile attraverso la puntura di insetti in particol...\u2026",
-      "url": "https://www.ansa.it/lombardia/notizie/2023/08/19/caso-di-dengue-nel-lodigiano-disinfezione-e-ordinanza_85974378-a645-49c0-8cee-e277c5fd67b4.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/8/19/544c6d162010ed4ddd4b1645c73ba465.jpg",
-      "publishedAt": "2023-08-19 14:01:10",
-      "content": "Disinfestazione straordinaria delle strade, sospensione delle donazioni di sangue: dopo che un settantenne di Castiglione d'Adda, nel Lodigiano, \u00e8 risultato positivo alla Dengue, malattia infettiv\u2026 [+765 chars]",
-      "retrievedAt": "2023-08-20 19:05:34.337145",
-      "internal_id": "957ef62b90516362f24bc851427a001ed1364531337c6b93262ca3bf64738ad7",
-      "publishedAtLabel": "Aug 19"
     }
   ]
 }
