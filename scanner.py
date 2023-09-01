@@ -115,6 +115,8 @@ class Harvester:
         publishedAt = article["publishedAt"]
         title = str_squish(article["title"])
         description = str_squish(article["description"])
+        if not publishedAt or not title:
+            return
         source_id = article["source"]["id"]
         source_name = article["source"]["name"]
         author = article["author"]
