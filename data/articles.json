@@ -1,8 +1,63 @@
 {
-  "last_updated": "2023-09-01 03:23",
+  "last_updated": "2023-09-01 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 0,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 1518,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u099c\u09cb\u09b9\u09be\u09a8\u09c7\u09b8\u09ac\u09be\u09b0\u09cd\u0997\u09c7\u09b0 \u09eb \u09a4\u09b2\u09be \u09ad\u09ac\u09a8\u09c7 \u0986\u0997\u09c1\u09a8, \u09a8\u09bf\u09b9\u09a4 \u09eb\u09e8 \u0993 \u0986\u09b9\u09a4 \u09ea\u09e9",
+      "description": "\u099c\u09cb\u09b9\u09be\u09a8\u09c7\u09b8\u09ac\u09be\u09b0\u09cd\u0997\u09c7\u09b0 \u09eb \u09a4\u09b2\u09be \u09ad\u09ac\u09a8\u09c7 \u0986\u0997\u09c1\u09a8, \u09a8\u09bf\u09b9\u09a4 \u09eb\u09e8 \u0993 \u0986\u09b9\u09a4 \u09ea\u09e9thedailystar.net",
+      "url": "https://bangla.thedailystar.net/news/world/africa-other-countries/news-510216",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/31/johannesberg.jpg?itok=IpVnxq6m",
+      "publishedAt": "2023-08-31 06:49:52",
+      "content": "The World Bank has approved a $200 million loan to help improve primary healthcare services and prevent mosquito-borne diseases like dengue in Bangladesh.",
+      "retrievedAt": "2023-09-01 07:05:38.560603",
+      "internal_id": "fafdce7ed70ea5721e5ba051f26ddd8966cf781863c9205d75d68507bab2f6d7",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 1516,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Maharashtratimes.com",
+      "author": null,
+      "title": "\u0921\u0947\u0902\u0917\u094d\u092f\u0942-\u092e\u0932\u0947\u0930\u093f\u092f\u093e\u091a\u0902 \u0928\u094b \u091f\u0947\u0928\u094d\u0936\u0928! '\u0938\u0940\u0930\u092e' \u0907\u0928\u094d\u0938\u094d\u091f\u093f\u091f\u094d\u092f\u0942\u091f\u0915\u0921\u0942\u0928 \u091c\u0940\u0935\u0918\u0947\u0923\u094d\u092f\u093e \u0906\u091c\u093e\u0930\u093e\u0902\u0935\u0930\u0940\u0932 \u0932\u0938 \u0924\u092f\u093e\u0930",
+      "description": "Dengue Malaria Vaccine : \u092a\u093e\u0935\u0938\u093e\u0933\u094d\u092f\u093e\u0924 \u0932\u093e\u0916\u094b \u0928\u093e\u0917\u0930\u093f\u0915 \u0921\u0947\u0902\u0917\u094d\u092f\u0942 \u0906\u0923\u093f \u092e\u0932\u0947\u0930\u093f\u092f\u093e\u091a\u094d\u092f\u093e \u092a\u094d\u0930\u093e\u0926\u0941\u0930\u094d\u092d\u093e\u0935\u093e\u0928\u0947 \u0906\u091c\u093e\u0930\u0940 \u092a\u0921\u0924\u093e\u0924. \u0921\u0947\u0902\u0917\u094d\u092f\u0942\u092e\u0941\u0933\u0947 \u0924\u0930 \u0905\u0928\u0947\u0915\u093e\u0902\u0928\u093e \u0906\u092a\u0932\u093e \u091c\u0940\u0935 \u0917\u092e\u0935\u093e\u0935\u093e \u0932\u093e\u0917\u0924\u094b. \u0924\u094d\u092f\u093e\u092e\u0941\u0933\u0947 \u092f\u093e \u0930\u094b\u0917\u093e\u0902\u0935\u0930 \u0932\u0938 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u0939\u094b\u0923\u094d\u092f\u093e\u091a\u0940 \u0906\u0935\u0936\u094d\u092f\u0915\u0924\u093e \u0939\u094b\u0924\u0940\u091a",
+      "url": "https://maharashtratimes.com/maharashtra/pune-news/dengue-malaria-vaccine-to-launch-soon-serum-institute-cyrus-poonawalla-announces/articleshow/103230831.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-51110,msid-103231058/maharashtra-times.jpg",
+      "publishedAt": "2023-08-31 04:27:47",
+      "content": "Marathi News App: ? . Maharashtra Politics: , , , , - , VIDEO: , ; , ...Chhatrapati Sambhajinagar News LIVE: , , , , Live</\u2026 [+97 chars]",
+      "retrievedAt": "2023-09-01 07:05:38.543611",
+      "internal_id": "ff53885c5e9da8e4e650e4264e3fcf85b2586f86cbc3d22adfa096f6898cbf4d",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 1517,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vnexpress.net",
+      "author": "Le Nga",
+      "title": "Ministry raises dengue fever alert in northern Vietnam",
+      "description": "The Health Ministry recorded a 125% increase in the number of dengue patients over the first eight months in the north, warning that the epidemic will become more complicated in the coming time.",
+      "url": "https://e.vnexpress.net/news/news/ministry-raises-dengue-fever-alert-in-northern-vietnam-4647881.html",
+      "urlToImage": "https://vcdn1-english.vnecdn.net/2023/08/30/pgstsdoduycuongthamkham7911660-5002-7156-1693384916.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=vrX82EkAUT83sWw2ScyobQ",
+      "publishedAt": "2023-08-31 04:00:00",
+      "content": "In the year to Aug. 25, Vietnam had recorded 66,386 dengue fever cases. Of them, 14 had died. The number of cases dropped 71% against the same period last year in the south, 44.4% in the central reg\u2026 [+1770 chars]",
+      "retrievedAt": "2023-09-01 07:05:38.554932",
+      "internal_id": "150531cc71301c4099e245479844de94c4c95ec698fce875511857f34a7a8764",
+      "publishedAtLabel": "Aug 31"
+    },
     {
       "id": 1511,
       "query": [
@@ -3560,60 +3615,6 @@
       "content": "A Castiglione dAdda, il Vietnam del Covid nella Bassa Lodigiana, i primi due casi lombardi di Dengue. La scorsa notte \u00e8 gi\u00e0 stata eseguita la disinfestazione durgenza dellarea residenziale colpita, d\u2026 [+3042 chars]",
       "retrievedAt": "2023-08-23 19:05:50.325842",
       "internal_id": "6032382c230284ca47551156931f890f518c5a8a11ae818dc36d3b17e7d2d2d8",
-      "publishedAtLabel": "Aug 22"
-    },
-    {
-      "id": 1309,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "webmasteraim@sortmoz.com (AIM)",
-      "title": "Mozambique: - Malaria Kills At Least 200 in First Half of 2023",
-      "description": "[AIM] Maputo -- At least 210 people died of malaria in Mozambique in the first six months of this year.",
-      "url": "https://allafrica.com/stories/202308220467.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-08-22 15:18:24",
-      "content": "Maputo \u2014 At least 210 people died of malaria in Mozambique in the first six months of this year. This is an increase of 22 percent in the number of deaths from malaria, when compared to the same per\u2026 [+1657 chars]",
-      "retrievedAt": "2023-08-23 19:05:51.310359",
-      "internal_id": "b88bf0590ac64300d7042e3b5d0e5082be9d738422be1b447ea397fcb81160b3",
-      "publishedAtLabel": "Aug 22"
-    },
-    {
-      "id": 1308,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "New antifungal therapy for fungal meningitis",
-      "description": "A team of researchers successfully tested a new antifungal therapy to treat fungal meningitis.",
-      "url": "https://www.sciencedaily.com/releases/2023/08/230822111628.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-08-22 15:16:28",
-      "content": "A team of University of Minnesota Medical School researchers successfully tested a new antifungal therapy to treat fungal meningitis. The trial results were published today in the peer-reviewed journ\u2026 [+3550 chars]",
-      "retrievedAt": "2023-08-23 19:05:50.720139",
-      "internal_id": "48a696e3ba35e4dbcd878e7f4947cdfef4193c6590f1d712ad4c7d79ca9aceae",
-      "publishedAtLabel": "Aug 22"
-    },
-    {
-      "id": 1320,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Www.gov.uk",
-      "author": "UK Health Security Agency",
-      "title": "Press release: Call for participants to new asymptomatic mpox transmission study",
-      "description": "The \u00a31 million presymptomatic mpox (monkeypox) PRIME study hopes to recruit 2,000 participants in England.",
-      "url": "https://www.gov.uk/government/news/call-for-participants-to-new-asymptomatic-mpox-transmission-study",
-      "urlToImage": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/193934/s960_man-at-desk_960x640.jpg",
-      "publishedAt": "2023-08-22 14:54:03",
-      "content": "The UK Health Security Agency (UKHSA) has today launched a new study to determine whether mpox (monkeypox) can be transmitted asymptomatically, by people without any obvious symptoms. The \u00a31 million\u2026 [+3087 chars]",
-      "retrievedAt": "2023-08-23 19:05:52.611350",
-      "internal_id": "07da7fd159e0968bb0758d924136a4003277610ca158ffa0fd5f3178752a7872",
       "publishedAtLabel": "Aug 22"
     }
   ]
