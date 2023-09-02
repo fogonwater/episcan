@@ -1,8 +1,387 @@
 {
-  "last_updated": "2023-09-02 07:05",
+  "last_updated": "2023-09-02 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 1565,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+      "title": "Castiglione d\u2019Adda, altre due persone contagiate dalla Dengue: salgono a 7 i casi autoctoni in Lombardia",
+      "description": "I due contagiati non sono gravi. I malati autoctoni sono quelli che sono stati infettati restando in Italia",
+      "url": "https://milano.repubblica.it/cronaca/2023/09/01/news/castiglione_d_adda_altre_due_persone_contagiate_dalla_dengue_salgono_a_7_i_casi_autoctoni_in_lombardia-412994707/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-milano/2023/09/01/200943970-731f0310-3d82-444f-b47e-e9bcad3cd5a4.jpg",
+      "publishedAt": "2023-09-01 18:09:45",
+      "content": "Registrati due nuovi casi di Dengue autoctona nel Lodigiano. Si tratta di persone residenti a Castiglione dAdda che non manifestano sintomi gravi della malattia. In Italia il numero di contagiati aut\u2026 [+2183 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.103976",
+      "internal_id": "e63dbb569d6237cb600b5c32465a45ea40bf5eedad51a1c7bfc6f952d3789d92",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1559,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Dengue, chikungunya e casos das 2 infec\u00e7\u00f5es juntas crescem no Brasil",
+      "description": "Pesquisadores da UFMG e de laborat\u00f3rios privados registraram 7 vezes mais resultados positivos de chikungunya e 3 de dengue em 2023",
+      "url": "https://www.metropoles.com/saude/crescem-casos-dengue-chikungunya",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/22104941/Dengue_Casos_DF.jpg",
+      "publishedAt": "2023-09-01 16:11:05",
+      "content": "Os casos de pessoas infectadas com dengue, chikungunya e com os dois v\u00edrus ao mesmo tempo cresceram no primeiro semestre deste ano no Brasil, de acordo com um levantamento feito por pesquisadores da \u2026 [+5129 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.093008",
+      "internal_id": "8cc4a63874671ca500e05e0e36cb404d6c74008d40e2b6a3df3a95409e56664a",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1569,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Gudrun Heise, Julia Vergin",
+      "title": "Meningococci: Bacteria with epidemic potential",
+      "description": "Meningococcus is the most common cause of bacterial meningitis worldwide. And as the recent outbreak in the United States shows, it can be life-threatening. In the US state of Virginia, health authorities have registered a \"statewide meningococcal outbreak.\" \u2026",
+      "url": "https://www.dw.com/en/meningococci-bacteria-with-epidemic-potential/a-66697281",
+      "urlToImage": "https://static.dw.com/image/66697633_6.jpg",
+      "publishedAt": "2023-09-01 15:27:00",
+      "content": "In the US state of Virginia, health authorities have registered a \"statewide meningococcal outbreak.\" Since June 2022, 30 people have fallen ill three times more than normal within such a period, it \u2026 [+2764 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.444139",
+      "internal_id": "c0fb1806477d8cdcecb117043e452d86d3d7cf2287529b1d2d5bdd5a68fbcabb",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1564,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "A global dengue coalition to deliver treatment within 5 years: Lancet comment",
+      "description": "The Dengue Alliance, a coalition of institutions from dengue-endemic countries, plans to develop a new treatment for dengue within five years. The alliance aims to accelerate research and development and deliver dengue therapeutics through a collaborative par\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/a-global-dengue-coalition-to-deliver-treatment-within-5-years-lancet-comment/articleshow/103290739.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103290766,width-1070,height-580,imgsize-32238,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-01 14:38:52",
+      "content": "New Delhi, A coalition of institutions from dengue-endemic countries aims to deliver a new treatment for dengue from repurposed drugs and combinations within 5 years, according to a comment published\u2026 [+3393 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.102677",
+      "internal_id": "941cd38796448fab8ce0e100c6b0472f2309d967c3f13e085ff93c0d188efedb",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1558,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "El Peri\u00f3dico",
+      "title": "El mosquito tigre, vector del dengue, ampl\u00eda su campo de acci\u00f3n en Espa\u00f1a",
+      "description": "El mosquito tigre (\"Aedes albopictus\"), especie transmisora del dengue y considerada como ex\u00f3tica invasora originaria de Asia, ha extendido su campo de acci\u00f3n en Espa\u00f1a y actualmente est\u00e1 ya en el litoral mediterr\u00e1neo, el norte y algunas zonas del interior pe\u2026",
+      "url": "https://www.elperiodico.com/es/sociedad/20230901/mosquito-tigre-dengue-extension-enfermedades-91590761",
+      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/095a19f8-df7f-498a-8835-45b94b240b50_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-09-01 14:32:23",
+      "content": "El mosquito tigre (\"Aedes albopictus\"), especie transmisora del dengue y considerada como ex\u00f3tica invasora originaria de Asia, ha extendido su campo de acci\u00f3n en Espa\u00f1a y actualmente est\u00e1 ya en el li\u2026 [+4559 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.091002",
+      "internal_id": "097801a5e8398ab0e4fc0226188df96b7021944c954b753c97064be494aa1127",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1563,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Louis Lambrechts, Robert C. Reiner Jr, M. Veronica Briesemeister, Patricia Barrera, Kanya C. Long, William H. Elson, Alfonso Vizcarra, Helvio Astete, Isabel Bazan, Crystyan Siles, Stalin Vilcarromero, Mariana Leguia, Anna B. Kawiecki, T. Alex Perkins, Alun L. Lloyd, Lance A. Waller, Uriel Kitron, Sarah A. Jenkins, Robert D. Hontz, Wesley R. Campbell, Lauren B. Carrington, Cameron P. Simmons, J. Sonia Ampuero, Gisella Vasquez, John P. Elder, Valerie A. Paz-Soldan, Gonzalo M. Vazquez-Prokopec, Alan L. Rothman, Christopher M. Barker, Thomas W. Scott, Amy C. Morrison",
+      "title": "Direct mosquito feedings on dengue-2 virus-infected people reveal dynamics of human infectiousness",
+      "description": "Author summary In this study, we examined the potential for people with mild illness to transmit dengue virus to mosquitoes. Although people with mild dengue illness can be infectious, they often are undetected by surveillance systems and research teams. Vari\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011593",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011593.g002&size=inline",
+      "publishedAt": "2023-09-01 14:00:00",
+      "content": "Abstract Dengue virus (DENV) transmission from humans to mosquitoes is a poorly documented, but critical component of DENV epidemiology. Magnitude of viremia is the primary determinant of successful\u2026 [+51333 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.100651",
+      "internal_id": "c7ea470dc272ef0b784477e677a405c3f866e8ce992478e0cb846a51e3e4cb19",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1560,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Juliette Mitoyen",
+      "title": "Sant\u00e9. Moustiques tigres : les demandes de d\u00e9moustication explosent un peu partout en France",
+      "description": "Les interventions de d\u00e9moustication visant les moustiques tigres sont en hausse cet \u00e9t\u00e9, alors que cet insecte, qui peut \u00eatre vecteur de maladies comme la dengue, s\u2019implante durablement dans toujours plus de d\u00e9partements m\u00e9tropolitains.",
+      "url": "https://www.ledauphine.com/sante/2023/09/01/moustiques-tigres-les-demandes-de-demoustication-explosent-un-peu-partout-en-france",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/ED32E94F-6058-440C-85F4-062F92F674D1/FB1200/photo-1693566540.jpg",
+      "publishedAt": "2023-09-01 13:05:00",
+      "content": "\u00ab La situation est insupportable \u00bb, \u00ab C\u2019est infernal ! \u00bb, \u00ab Je n\u2019en peux plus \u00bb, \u00ab On est envahi \u00bb\u2026 Les commentaires se suivent et se ressemblent en dessous de la p\u00e9tition lanc\u00e9e par une habitante d\u2019\u2026 [+497 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.094595",
+      "internal_id": "c0c8d393c3daba54ffbe61994830d3b496b553752b10f30ce40a3b083172ae54",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1557,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Cristina Marrone",
+      "title": "Dengue, la \u00abfebbre spaccaossa\u00bb \u00e8 ormai arrivata in Italia: gi\u00e0 sei i casi autoctoni",
+      "description": "Cinque pazienti sono di Castiglione d\u2019Adda (Lombardia) ma il ministero dela Salute non esclude nuovi casi di trasmissione indigena. I sintomi della malattia e il ruolo dei cambiamenti climatici nella diffusione",
+      "url": "https://www.corriere.it/salute/malattie_infettive/23_settembre_01/dengue-febbre-spaccaossa-arrivata-italia-gia-sei-casi-autoctoni-372309da-48a7-11ee-859b-50c2b0b05e77.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/09/01/1b225c78-48b5-11ee-859b-50c2b0b05e77.jpg",
+      "publishedAt": "2023-09-01 12:35:28",
+      "content": "di Cristina MarroneCinque pazienti sono di Castiglione d\u2019Adda (Lombardia) ma il ministero dela Salute non esclude nuovi casi di trasmissione indigena. I sintomi della malattia e il ruolo dei cambiame\u2026 [+5841 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.084984",
+      "internal_id": "c88643192d1392a823bbeaf7fadda68ca6646c76f619727db28831594f39c1ef",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1573,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.pt",
+      "author": "DN/Lusa",
+      "title": "Mpox. Quase 100 casos detetados em Portugal desde junho",
+      "description": "Segundo a DGS, a quase totalidade dos casos s\u00e3o homens (um caso do sexo feminino), com idade compreendida entre os 20 e os 55 anos, residindo maioritariamente nas regi\u00f5es de Lisboa e Vale do Tejo (89%) e do Norte (11%).",
+      "url": "https://www.dn.pt/sociedade/mpox-quase-100-casos-detetados-em-portugal-desde-junho-16950372.html",
+      "urlToImage": "https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=863381af-73fc-4936-ae74-68d61118a9de&w=800&h=420&watermark=true&t=20230901132500",
+      "publishedAt": "2023-09-01 12:25:00",
+      "content": "Quase 100 casos de Mpox foram detetados em Portugal desde junho, resultantes do segundo surto desta doen\u00e7a contagiosa que se mant\u00e9m ativo, com uma m\u00e9dia de cinco novos casos reportados por semana, se\u2026 [+3079 chars]",
+      "retrievedAt": "2023-09-02 19:05:09.208932",
+      "internal_id": "d6b7d4c3825a2f2a1c6c3350d7fe8fbc1efab62942acadf4153c72fd4f4da6b6",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1570,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Haberturk.com",
+      "author": "Habert\u00fcrk",
+      "title": "Paris\u2019te Dang Hummas\u0131 vakas\u0131 ard\u0131ndan sivrisineklere ila\u00e7lama operasyonu",
+      "description": "Fransa\u2019n\u0131n ba\u015fkenti Paris\u2019in bir b\u00f6lgesinde d\u00fcn Dang Hummas\u0131 ve Zika vir\u00fcs\u00fc ta\u015f\u0131yan kaplan sivrisineklere kar\u015f\u0131 ila\u00e7lama operasyonu yap\u0131ld\u0131. \u0130l\u00e7e Belediye Ba\u015fkan\u0131 Jerome Coumet, bir ki\u015finin seyahat sonras\u0131nda Dang Hummas\u0131 ta\u015f\u0131d\u0131\u011f\u0131 tespit edilmesi \u00fczerine ila\u00e7\u2026",
+      "url": "https://www.haberturk.com/pariste-bir-dang-hummasi-vakasi-sonrasi-sivrisineklere-ilaclama-operasyonu-yapildi-3618442",
+      "urlToImage": "https://im.haberturk.com/l/2023/09/01/ver1693570561/3618442/jpg/1200x628",
+      "publishedAt": "2023-09-01 12:24:43",
+      "content": "Paris Belediye Bakan Yardmcs Anne Souyrisin d\u00fcn erken saatlerde bizzat katld b\u00fcy\u00fck \u00e7aptaki ila\u00e7lama operasyonunun Pariste bir ilk olduu belirtildi. Souyris, Parisin 20 b\u00f6lgesinden bir tanesi olan 13\u00fc\u2026 [+635 chars]",
+      "retrievedAt": "2023-09-02 19:05:08.474941",
+      "internal_id": "31e6be76a634db773076dcef9ae9f44c227f46aa6faf07e2babc82035bce8da2",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1574,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mpox: quase 100 casos detetados em Portugal desde junho",
+      "description": "Entre 1 de junho e 30 de agosto deste ano, foram identificados 97 casos que foram laboratorialmente confirmados. Dos casos confirmados, 74 (80%) s\u00e3o homens que tiveram sexo com homens.",
+      "url": "https://observador.pt/2023/09/01/mpox-quase-100-casos-detetados-em-portugal-desde-junho/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1440%3A808%3Anowe%3A0%3A0%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F09%2F01104526%2F35180755.jpg",
+      "publishedAt": "2023-09-01 10:50:47",
+      "content": "Quase 100 casos de Mpox foram detetados em Portugal desde junho, resultantes do segundo surto desta doen\u00e7a contagiosa que se mant\u00e9m ativo, com uma m\u00e9dia de cinco novos casos reportados por semana, se\u2026 [+3079 chars]",
+      "retrievedAt": "2023-09-02 19:05:09.211013",
+      "internal_id": "c85bf4521613ba52a33d2e2624a2ffcd2aba81bcdf34eb6426b77eb8f773a090",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1575,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i",
+      "title": "Quase 100 casos de Mpox detetados em Portugal desde junho",
+      "description": "\"Em junho de 2023, foi identificado um novo surto, ap\u00f3s cerca de tr\u00eas meses sem casos reportados\", refere a DGS, em comunicado, esta sexta-feira, acrescentando que entre 1 de junho e 30 de agosto deste ano, foram identificados 97 casos laboratorialmente confi\u2026",
+      "url": "https://ionline.sapo.pt/artigo/805843/quase-100-casos-de-mpox-detetados-em-portugal-desde-junho?seccao=Portugal_i",
+      "urlToImage": "https://cdn1.newsplex.pt/media/2023/9/1/fb/858699.jpg",
+      "publishedAt": "2023-09-01 10:45:00",
+      "content": "Foram detetados, desde junho, quase uma centena de casos de Mpox em Portugal. \"Em junho de 2023, foi identificado um novo surto, ap\u00f3s cerca de tr\u00eas meses sem casos reportados\", refere a DGS, em com\u2026 [+469 chars]",
+      "retrievedAt": "2023-09-02 19:05:09.213983",
+      "internal_id": "7093c1834fd05d3e63a3a94efffa2fcbfb0255286d1812b159a23fe0244892fc",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1572,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Biziday.ro",
+      "author": "Iosif35",
+      "title": "Paris. Autorit\u0103\u021bile au desf\u0103\u0219urat, pentru prima dat\u0103, dezinfec\u021bii \u00eempotriva \u021b\u00e2n\u021barilor tigru purt\u0103tori de boli, care au \u00eenceput s\u0103 se r\u0103sp\u00e2ndeasc\u0103 \u00een capital\u0103.",
+      "description": "De\u0219i \u021b\u00e2n\u021barii tigru sunt r\u0103sp\u00e2ndi\u021bi \u00een sudul \u021b\u0103rii de mai mul\u021bi ani, este pentru prima dat\u0103 c\u00e2nd \u00een capital\u0103 au loc ac\u021biuni de dezinsec\u021bie, prin fumiga\u021bie, pentru a sc\u0103pa de insectele care transmit virusul Zika \u0219i febra Denga. \u00cen sud-estul \u0219i nord-estul Pari\u2026",
+      "url": "https://www.biziday.ro/260335-2/",
+      "urlToImage": "https://cdn.biziday.ro/wp-content/uploads/2023/09/tantaru-tigru.png",
+      "publishedAt": "2023-09-01 10:40:38",
+      "content": "Dei \u00e2narii tigru sunt rsp\u00e2ndii \u00een sudul rii de mai muli ani, este pentru prima dat c\u00e2nd \u00een capital au loc aciuni de dezinsecie, prin fumigaie, pentru a scpa de insectele care transmit virusul Zika i \u2026 [+1074 chars]",
+      "retrievedAt": "2023-09-02 19:05:08.479683",
+      "internal_id": "f5e2363e81d30aa593b03e71617ad15f9d084d24689d7da8c833b4d6332cc412",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1568,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Gudrun Heise, Julia Vergin",
+      "title": "Meningokokken: Bakterien mit Epidemie-Potential",
+      "description": "Meningokokken sind weltweit die h\u00e4ufigste Ursache f\u00fcr eine bakterielle Meningitis. Und die kann lebensgef\u00e4hrlich werden, wie der j\u00fcngste Ausbruch in den USA zeigt.",
+      "url": "https://www.dw.com/de/meningokokken-bakterien-mit-epidemie-potential/a-46390813",
+      "urlToImage": "https://static.dw.com/image/46391360_6.jpg",
+      "publishedAt": "2023-09-01 10:11:00",
+      "content": "Im US-Bundesstaat Virginia haben die Gesundheitsbeh\u00f6rden einen \"staatenweiten Meningokokken-Ausbruch\" registriert. Seit Juni 2022 seien 30 Personen erkrankt - dreimal mehr als normalerweise innerhalb\u2026 [+2986 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.441436",
+      "internal_id": "4a7d0c6484ef2d554807ff174a346d11b39a7a5564f2e03bd7b689dd93d78c6d",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1562,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Standaard.be",
+      "author": "Sylvie Van Ginneken",
+      "title": "Parijs zet grof geschut in tegen tijgermug, ook in Gent is ze al gespot: \u2018Vermijd stilstaand water in je tuin\u2019",
+      "description": "Terwijl Parijs voor het eerst op grote schaal tijgermuggen verdelgt omdat twee inwoners besmet zijn met dengue, is de exotische soort deze week in Gent gespot. Nestelt de tijgermug zich dan toch definitief in ons land? \u2018We moeten ons daar zolang mogelijk tege\u2026",
+      "url": "https://www.standaard.be/cnt/dmf20230901_93467731",
+      "urlToImage": "https://static.standaard.be/Assets/Images_Upload/2023/09/01/1deda7c8-e992-47ee-96ec-b7f2b35e49b6.jpg?maxheight=416&maxwidth=568",
+      "publishedAt": "2023-09-01 09:37:42",
+      "content": "dengue Terwijl Parijs voor het eerst op grote schaal tijgermuggen verdelgt omdat twee inwoners besmet zijn met dengue, is de exotische soort deze week in Gent gespot. Nestelt de tijgermug zich dan t\u2026 [+126 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.099340",
+      "internal_id": "54327bf333b30b58d4995f399c95b97281eabd24bece9deee30f1fcf078a1bf2",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1556,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "tagesschau.de",
+      "title": "Guatemala erkl\u00e4rt wegen Dengue-Fieber Gesundheitsnotstand",
+      "description": "Wegen immer mehr F\u00e4llen von Dengue-Fieber hat die Regierung von Guatemala den Gesundheitsnotstand ausgerufen. In den vergangenen Monaten starben 22 Menschen an der Krankheit, seit Jahresbeginn wurden mehr als 12.000 Infektionen registriert.",
+      "url": "https://www.tagesschau.de/ausland/amerika/guatemala-dengue-fieber-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/9e0ba0f8-9bd4-4634-abcd-7fecd7b4e13a/AAABik-kGJA/AAABibBxqrQ/16x9-1280/arbeiter-ausraeucherung-guatemala-100.jpg",
+      "publishedAt": "2023-09-01 09:25:49",
+      "content": "Stand: 01.09.2023 11:25 Uhr Wegen immer mehr F\u00e4llen von Dengue-Fieber hat die Regierung von Guatemala den Gesundheitsnotstand ausgerufen. In den vergangenen Monaten starben 22 Menschen an der Krankh\u2026 [+1594 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.082201",
+      "internal_id": "949c3928c733dafce801567e95aa0d047b2c7240777c5c471c84b3239ae0c98f",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1566,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "National Observer",
+      "author": "Zoya Teirstein",
+      "title": "Dengue fever cases surge as temperatures soar",
+      "description": "Experts say a tangled web of factors is driving global spikes in dengue, but one culprit stands out \u2014 climate change.",
+      "url": "https://www.nationalobserver.com/2023/09/01/news/dengue-fever-cases-surge-temperatures-soar",
+      "urlToImage": "https://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_social/public/img/2023/08/30/gettyimages-1560462785-1-e1692637380198.jpeg?itok=ceDhGNf0",
+      "publishedAt": "2023-09-01 09:14:39",
+      "content": "This story was originally published by Grist and appears here as part of the Climate Desk collaboration. This year, nearly 100,000 people in Bangladesh have contracted dengue fever, a mosquito-borne\u2026 [+8590 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.105486",
+      "internal_id": "40fc020754e2d30176b34fb59296a6e4074eacdd708d52d7c371e53579ad7931",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1555,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "Yemen: Alarming surge in measles and rubella cases, reports WHO",
+      "description": "The UN World Health Organization (WHO) issued a stark warning on Thursday over rising cases of measles and rubella among children in Yemen, as a vaccination campaign there faces cutbacks due to insufficient funding.",
+      "url": "https://www.globalsecurity.org/military/library/news/2023/08/mil-230831-unnews02.htm",
+      "urlToImage": null,
+      "publishedAt": "2023-09-01 09:10:06",
+      "content": "31 August 2023 - The UN World Health Organization (WHO) issued a stark warning on Thursday over rising cases of measles and rubella among children in Yemen, as a vaccination campaign there faces cutb\u2026 [+2366 chars]",
+      "retrievedAt": "2023-09-02 19:05:06.649582",
+      "internal_id": "23c548e45b2a8a31cd6b7875d7f1203123b57e62f3974e56bcf78fc14030a6f6",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1567,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Sant\u00e9 : la chasse aux moustiques-tigres d\u00e9j\u00e0 lanc\u00e9e",
+      "description": "Les moustiques-tigres sont de plus en plus envahissants en France, y compris dans les villes. Deux cas de dengue ont \u00e9t\u00e9 recens\u00e9s ces derniers jours. Pour y faire face, des op\u00e9rations de d\u00e9moustications sont en cours.",
+      "url": "https://www.francetvinfo.fr/sante/sante-la-chasse-aux-moustiques-tigres-deja-lancee_6037100.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/LFcTjzo5awE_yK2HOaIaGWQ_x6U/1500x843/2023/09/01/moutiques-tigres-64f194ee8ed0c278322348.png",
+      "publishedAt": "2023-09-01 07:39:05",
+      "content": "En pleine nuit, masque sur le visage, des agents de la ville de Poitiers (Vienne) tentent de tuer le moindre moustique-tigre. Il faut agir vite dans un rayon de 150 m\u00e8tres autour du domicile dun habi\u2026 [+739 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.110264",
+      "internal_id": "72a552b155776370eb5e02b6f2fd29d6f04daa6bb72192fdcc62a027355e582b",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1571,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Sozcu.com.tr",
+      "author": "S\u00f6zc\u00fc",
+      "title": "T\u00fcrkiye\u2019de de endi\u015fe yarat\u0131yor\u2026. Fransa\u2019da \u2018kaplan sivrisine\u011fi\u2019 alarm\u0131",
+      "description": "Son d\u00f6nemde kuzeydo\u011fu Avrupada h\u0131zla yay\u0131lan, zika ve dang vir\u00fcs\u00fc ta\u015f\u0131yan Asya kaplan sivrisinekleri, Fransan\u0131n ba\u015fkenti Pariste seferberli\u011fe yol a\u00e7t\u0131. Yetkililer, sineklerin \u00fclkede daha fazla yay\u0131lmas\u0131n\u0131n \u00f6n\u00fcne ge\u00e7mek amac\u0131yla Pariste ilk defa tropik sinekle\u2026",
+      "url": "https://www.sozcu.com.tr/2023/saglik/turkiyede-de-endise-yaratiyor-fransada-kaplan-sivrisinegi-alarmi-7789696/",
+      "urlToImage": "https://i.sozcucdn.com/wp-content/uploads/2023/09/01/kaplan-sinegi.jpeg?w=1200&h=675&mode=crop",
+      "publishedAt": "2023-09-01 07:38:43",
+      "content": "Yazlar b\u00fcy\u00fctYazlar k\u00fc\u00e7\u00fcltStandart boyut Son d\u00f6nemde kuzeydou Avrupada hzla yaylan, zika ve dang vir\u00fcs\u00fc tayan Asya kaplan sivrisinekleri, Fransann bakenti Pariste \u2026 [+1239 chars]",
+      "retrievedAt": "2023-09-02 19:05:08.478231",
+      "internal_id": "ff6eb7b59e8de7b7654fbdd213710bb315fc385b5f3f9bcab0437322da4bf634",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1561,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Konstantin Zimmermann",
+      "title": "Denguevirus: Guatemala ruft wegen Dengue-Ausbruch Gesundheitsnotstand aus",
+      "description": "Dengue breitet sich im zentralamerikanischen Guatemala rasant aus, es gibt mehrere Tote. Die Regierung ordnete an, mit Ausr\u00e4ucherung gegen Moskitos vorzugehen.",
+      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fgesundheit%2F2023-09%2Fdengue-guatemala-ausbruch-notstand",
+      "urlToImage": null,
+      "publishedAt": "2023-09-01 07:34:44",
+      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
+      "retrievedAt": "2023-09-02 19:05:07.098049",
+      "internal_id": "0c8a3240e805141d4f87a0dce450c70015b938055ad0a29e4a7dc3ae99ef67c0",
+      "publishedAtLabel": "Sep 1"
+    },
     {
       "id": 1546,
       "query": [
@@ -3237,388 +3616,6 @@
       "content": "See full statement from the Ministry of Health: We noticed an article published in the Village Voice on August 24, 2023 in which it asserts that the Ministry of Health (MOH) has procured dengue vac\u2026 [+1660 chars]",
       "retrievedAt": "2023-08-26 07:05:19.474168",
       "internal_id": "44f0824876e7727261d8dc576c5961d5e258ff218a1d5aad847abd59376504e5",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1379,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Livedoor.com",
-      "author": "\u73fe\u4ee3\u30d3\u30b8\u30cd\u30b9",
-      "title": "\u7a7a\u8179\u306b\u3055\u305b\u308c\u3070\u3001\u72c2\u3063\u305f\u3088\u3046\u306b\u8840\u3092\u5438\u3046\u2026\uff01\u300c\u8fd1\u4ee3\u65e5\u672c\u533b\u5b66\u306e\u7236\u300d\u304c\u898b\u3064\u3051\u305f\u30da\u30b9\u30c8\u83cc\u306f\u300c\u885d\u6483\u7684\u306b\u51f6\u66b4\u300d\u306a\u83cc\u3060\u3063\u305f",
-      "description": "1894\u5e74\u306e8\u670825\u65e5\u306f\u3001\u65e5\u672c\u306e\u533b\u5b66\u8005\u30fb\u5317\u91cc\u67f4\u4e09\u90ce\uff08\u304d\u305f\u3056\u3068\u30fb\u3057\u3070\u3055\u3076\u308d\u3046\u30011853-1931\uff09\u306b\u3088\u308b\u30da\u30b9\u30c8\u83cc\u767a\u898b\u306e\u8ad6\u6587\u304c\u533b\u5b66\u96d1\u8a8c\u300c\u30e9\u30f3\u30bb\u30c3\u30c8\uff08The Lancet\uff09\u300d\u306b\u63b2\u8f09\u3055\u308c\u305f\u65e5\u3067\u3059\uff08\u83cc\u306e\u767a\u898b\u81ea\u4f53\u306f\u6e21\u822a\u5f8c\u3001\u8abf\u67fb\u3092\u59cb\u3081\u3066\u3059\u3050\u306e6\u6708\u3001\u901f\u5831\u304c\u30e9\u30f3\u30bb\u30c3\u30c88\u670811\u65e5\u53f7\u306b\u63b2\u8f09\u3055\u308c\u305f\u3068\u8a00\u308f\u308c\u3066\u3044\u307e\u3059\uff09\u30021894\u5e74\u306b\u9999\u6e2f\u3067\u767a\u751f\u3057\u305f\u96c6\u56e3\u611f\u67d3\u304b\u3089\u59cb\u307e\u3063\u305f\u4e16\u754c\u7684\u306a\u30da\u30b9\u30c8\u306e\u6d41\u884c\u306f\u3001\u6709\u53f2\u4ee5\u67653\u5ea6\u76ee\u306e\u30d1\u30f3\u30c7\u30df\u30c3\u30af\u3068\u8003\u3048\u3089\u308c\u3066\u3044\u307e\u3059\u304c\u3001\u305d\u3093\u306a\u30da\u30b9\u30c8\u306b\u5f53\u6642\u6700\u65b0\u306e\u5b66\u554f\u3067\u3042\u3063\u305f\u7d30\u83cc\u5b66\u3092\u643a\u3048\u3066\u7acb\u3061\u5411\u304b\u3063\u305f\u306e\u304c\u3001\u5f8c \u5168\u6587\u73fe\u4ee3\u30d3\u30b8\u30cd\u30b9 08\u670825\u65e50\u2026",
-      "url": "https://news.livedoor.com/article/detail/24862487/",
-      "urlToImage": "https://image.news.livedoor.com/newsimage/stf/7/2/724ec_1413_13eeffb47212da117ec77eaa610759fd.jpg",
-      "publishedAt": "2023-08-24 21:45:00",
-      "content": "18948251853-1931The Lancet6811 18943 -- Yersinia pestis Y. enterocolitica Y. pseudotuberculosis 6000Ymt1 photo by gettyimages photo by gettyimages Ymt 15412 182 23 Oriental rat fleaphoto\u2026 [+149 chars]",
-      "retrievedAt": "2023-08-26 07:05:21.129647",
-      "internal_id": "ac45a45b9fa3f64d64b04ef6423ac82bf306dce16564d02b56228e02df5c5e03",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1377,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Sopon Iamsirithaworn, Chantana Padungtod and Wichai Satimai",
-      "title": "Keeping Thailand malaria-free",
-      "description": "Every year, we mark Aug 20 as World Mosquito Day and the anniversary of detecting malaria parasites in mosquitoes for the first time.",
-      "url": "https://www.bangkokpost.com/opinion/opinion/2635653/keeping-thailand-malaria-free",
-      "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2023/08/25/4871897_700.jpg",
-      "publishedAt": "2023-08-24 21:00:00",
-      "content": "Every year, we mark Aug 20 as World Mosquito Day and the anniversary of detecting malaria parasites in mosquitoes for the first time. This discovery has allowed countries like Thailand to make major\u2026 [+4808 chars]",
-      "retrievedAt": "2023-08-26 07:05:19.922073",
-      "internal_id": "64e9f8cec12d49187ee63ed06cfc686ff93c9039b1ab35368e3a9ac7dc2af78f",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1375,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Jacqueline Howard",
-      "title": "In the US, West Nile virus is leading cause of viral disease spread by insects, new CDC study says",
-      "description": "The United States has seen a flurry of West Nile virus deaths reported in the last few days, including most recently in Illinois, Nebraska and Colorado.",
-      "url": "https://www.cnn.com/2023/08/24/health/west-nile-mosquito-virus-cdc-wellness/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230731123047-culex-mosquito-file.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-08-24 20:41:21",
-      "content": "This summer has brought a flurry of warnings about cases of mosquito-borne illnesses, including malaria, dengue and Eastern equine encephalitis. But West Nile virus, transmitted primarily through th\u2026 [+4162 chars]",
-      "retrievedAt": "2023-08-26 07:05:19.476876",
-      "internal_id": "4e304c87622f33038f0bcbdc34ba43bf90c7f480b4c57125100f58a24a11c9e2",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1376,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Sidney Bloch, Emeritus Professor in Psychiatry, The University of Melbourne, Nick Haslam, Professor of Psychology, The University of Melbourne",
-      "title": "Friday essay: 'black bile', malaria therapy and insulin comas \u2013 a brief history of mental illness",
-      "description": "Humans have attempted to understand and treat mental illness for centuries \u2013 from ancient Greek medicine, Middle Ages exorcisms and the rise of asylums, to modern medical breakthroughs.",
-      "url": "https://theconversation.com/friday-essay-black-bile-malaria-therapy-and-insulin-comas-a-brief-history-of-mental-illness-206580",
-      "urlToImage": "https://images.theconversation.com/files/543901/original/file-20230822-25-u4eay3.jpg?ixlib=rb-1.1.0&rect=6%2C188%2C1526%2C763&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2023-08-24 20:20:46",
-      "content": "Possibly the earliest account of a disturbed mind is recorded in a 3,500-year-old Hindu text that describes a man who is \u201cgluttonous, filthy, walks naked, has lost his memory and moves about in an un\u2026 [+17882 chars]",
-      "retrievedAt": "2023-08-26 07:05:19.916369",
-      "internal_id": "b5f2bebf34fd7dcdc9631c07c29f66cd816e711a285e0bb1c3d061b7f19a7e77",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1368,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Altri due casi di Dengue nel Lodigiano, non sono gravi",
-      "description": "A Castiglione D'Adda sono stati identificati due nuovi casi di infezione del virus Dengue trasmesso da zanzare Aedes aegypti: riguardano una bambina ricoverata all'ospedale di Lodi, non in gravi condizioni, e un 60enne gi\u00e0 guarito e tornato a lavorare. (ANSA)",
-      "url": "https://www.ansa.it/lombardia/notizie/2023/08/24/altri-due-casi-di-dengue-nel-lodigiano-non-sono-gravi_561380da-7eac-4f51-98ae-12d15ffb5be7.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2018/6/22/ded9844ee752cd4669ab5a84f8f7412f.jpg",
-      "publishedAt": "2023-08-24 18:40:37",
-      "content": "A Castiglione D'Adda sono stati identificati due nuovi casi di infezione del virus Dengue trasmesso da zanzare Aedes aegypti: riguardano una bambina ricoverata all'ospedale di Lodi, non in gravi c\u2026 [+1256 chars]",
-      "retrievedAt": "2023-08-25 19:05:29.317393",
-      "internal_id": "70a7a9ec8e5e6352a67f20bfd29d9b5301811eba27d28af0b161b4a9d05022a7",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1361,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Simone Blanes",
-      "title": "Como c\u00e1psulas de caf\u00e9 podem ajudar a diagnosticar febre amarela?",
-      "description": "Basta uma gota de sangue do paciente para o sensor identificar fragmentos do DNA da doen\u00e7a por meio de rea\u00e7\u00e3o eletroqu\u00edmica",
-      "url": "https://veja.abril.com.br/saude/como-capsulas-de-cafe-podem-ajudar-a-diagnosticar-febre-amarela",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/08/44646.jpg?quality=90&strip=info&w=680&h=369&crop=1",
-      "publishedAt": "2023-08-24 18:34:01",
-      "content": "Por apresentar sintomas semelhantes a outras doen\u00e7as transmitidas pelo mosquito Aedes aegypti, entre elas chikungunya, dengue e zika, a febre amarela n\u00e3o \u00e9 uma arbovirose de f\u00e1cil diagn\u00f3stico. Para s\u2026 [+3611 chars]",
-      "retrievedAt": "2023-08-25 19:05:29.302163",
-      "internal_id": "d9592ad8dd1ca001caa7201c7f07ca58a31329a655ff0e44cba2d3b140a719c1",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1365,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
-      "title": "Virus Dengue, in Lombardia due nuovi casi autoctoni: una bambina e un 60enne. Screening volontario a Castiglione d\u2019Adda",
-      "description": "Entrambi non sono gravi, ma la Regione alza l\u2019allerta per le infezioni trasmesse dalla zanzara tigre",
-      "url": "https://milano.repubblica.it/cronaca/2023/08/24/news/virus_dengue_nuovi_casi_lombardia_screening_castiglione_adda-412170391/",
-      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-milano/2023/08/24/190723928-e5406fef-4b8d-4b08-8b6d-14d8d05d5614.jpg",
-      "publishedAt": "2023-08-24 17:07:25",
-      "content": "Identificati a Castiglione d'Adda due nuovi casi di infezione da virus Dengue, trasmesso da zanzare Aedes (zanzara tigre). \"Riguardano una bambina, attualmente ricoverata in condizioni non gravi all'\u2026 [+3109 chars]",
-      "retrievedAt": "2023-08-25 19:05:29.312861",
-      "internal_id": "f52a28ea8052103cbda807d3a33072829005440d86b61c8c6ee5055a776b0448",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1367,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Da Ag\u00eancia Brasil",
-      "title": "Munic\u00edpio do Rio vai testar vacina contra a dengue tipo 1",
-      "description": "Teste funcionar\u00e1 como uma preven\u00e7\u00e3o dos per\u00edodos de ver\u00e3o, quando os casos da doen\u00e7a costumam aumentar",
-      "url": "https://noticias.r7.com/rio-de-janeiro/municipio-do-rio-vai-testar-vacina-contra-a-dengue-tipo-1-24082023",
-      "urlToImage": "https://img.r7.com/images/r7rio-082023-vacina-dengue-24082023144349634?crop_position=c&dimensions=340x191",
-      "publishedAt": "2023-08-24 16:07:08",
-      "content": "A cidade do Rio de Janeiro deve testar, at\u00e9 o fim deste ano, uma vacina contra a dengue em popula\u00e7\u00e3o espec\u00edfica. Segundo o Secret\u00e1rio Municipal de Sa\u00fade, Daniel Soranz, essa \u00e9 uma parceria entre o Mi\u2026 [+2556 chars]",
-      "retrievedAt": "2023-08-25 19:05:29.315865",
-      "internal_id": "9abddf83582652a9d945a7ab93ccd1834cf0dc9582e1253f748eb7c5bb9fdc5f",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1359,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "23 deaths due to whooping cough",
-      "description": "PETALING JAYA: It starts like a common cold \u2013 and can lead to death. Whooping cough is on the rise, with 23 deaths up to August this year, out of 329 cases. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/08/25/23-deaths-due-to-whooping-cough",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-08-24 16:00:00",
-      "content": "PETALING JAYA: It starts like a common cold and can lead to death. Whooping cough is on the rise, with 23 deaths up to August this year, out of 329 cases. Also known as pertussis, it is highly conta\u2026 [+2653 chars]",
-      "retrievedAt": "2023-08-25 19:05:28.400995",
-      "internal_id": "a6349c966ae7cb0032abe8138b24a413c71bc774683361bfc50bc94ebcdd161f",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1363,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Study finds higher temperatures can make dengue virus more virulent",
-      "description": "Increasing temperatures could make the Dengue virus more virulent, according to researchers at the Rajiv Gandhi Centre for Biotechnology. The study found that dengue becomes more severe in animal models when grown in mosquito cells exposed to higher temperatu\u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/study-finds-higher-temperatures-can-make-dengue-virus-more-virulent/articleshow/103031335.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103031409,width-1070,height-580,imgsize-33632,overlay-etpanache/photo.jpg",
-      "publishedAt": "2023-08-24 14:44:21",
-      "content": "The Dengue virus could become more virulent due to increasing temperatures, according to a study that could help in predicting and mitigating the severity and virulence of the recurring tropical dise\u2026 [+3287 chars]",
-      "retrievedAt": "2023-08-25 19:05:29.307816",
-      "internal_id": "f22834983e9d1aaf432da720aa3ac21b51f9887d222eb84dfffbed72b66aed56",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1362,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "Indian Immunologicals targets dengue vaccine launch by Jan 2026",
-      "description": "(marketscreener.com) Vaccine manufacturer Indian Immunologicals Limited expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the country's first such vaccine heats up. https://www.marketscreener.c\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/PANACEA-BIOTEC-LIMITED-9059337/news/Indian-Immunologicals-targets-dengue-vaccine-launch-by-Jan-2026-44686699/",
-      "urlToImage": "https://img.zonebourse.com/reuters/2023-08/2023-08-24T065456Z_1_LYNXMPEJ7N08N_RTROPTP_3_INDIA-HEALTH.JPG",
-      "publishedAt": "2023-08-24 14:22:21",
-      "content": "HYDERABAD (Reuters) - Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the \u2026 [+1587 chars]",
-      "retrievedAt": "2023-08-25 19:05:29.305535",
-      "internal_id": "e3141ad4802e5c237ca826c5ce80f07c10ec8a007037b8d0aca2417fa4095abf",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1366,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Ana C. Alcal\u00e1, Juan E. Ludert",
-      "title": "The dengue virus NS1 protein; new roles in pathogenesis due to similarities with and affinity for the high-density lipoprotein (HDL)?",
-      "description": "",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011587",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011587.g001&size=inline",
-      "publishedAt": "2023-08-24 14:00:00",
-      "content": "Citation: Alcal\u00e1 AC, Ludert JE (2023) The dengue virus NS1 protein; new roles in pathogenesis due to similarities with and affinity for the high-density lipoprotein (HDL)? PLoS Pathog 19(8): e10115\u2026 [+23405 chars]",
-      "retrievedAt": "2023-08-25 19:05:29.314732",
-      "internal_id": "a637e5536bc83d78b73208b50a5239287c7b55639467064415a7cc3161d3463f",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1371,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Suneth Agampodi, Sajaan Gunarathna, Jung-Seok Lee, Jean-Louis Excler",
-      "title": "Global, regional, and country-level cost of leptospirosis due to loss of productivity in humans",
-      "description": "Author summary Leptospirosis is a widespread disease that affects humans and animals and is mostly affecting individuals living in resource-poor settings, in particular in tropical and subtropical regions. To understand the economic impact of this disease, we\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011291",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011291.g002&size=inline",
-      "publishedAt": "2023-08-24 14:00:00",
-      "content": "Abstract Background Leptospirosis, a prevalent zoonotic disease with One Health priority and a disease of poverty, lacks global economic burden estimates. This study aims to determine the global, r\u2026 [+33450 chars]",
-      "retrievedAt": "2023-08-25 19:05:31.463326",
-      "internal_id": "d805cc267ae0f3a9f2e3ecf43b731112730de17b9d1832c6fe26643907161ced",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1360,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Southwest Virginia Today",
-      "author": "STEPHANIE PORTER-NICHOLS Smyth County News & Messenger",
-      "title": "Aircraft to distribute oral rabies vaccine baits",
-      "description": "Over the next several months, area residents may see low-flying aircraft distributing small sachets or cubes. They\u2019re working to prevent the spread of rabies, a serious and continuing threat to health.",
-      "url": "https://swvatoday.com/news/community/article_5386ed10-4061-11ee-b25e-d7c9c7bf89f2.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/a/67/a67347aa-48e1-577f-acae-c82f8d82ea6c/64e7a325430e6.image.jpg?crop=1400%2C735%2C0%2C175&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-08-24 12:30:00",
-      "content": "STEPHANIE PORTER-NICHOLS Smyth County News &amp; Messenger WYTHEVILLE - Over the next several months, low-flying aircraft will be distributing small sachets or cubes across Southwest Virginia. They\u2026 [+4141 chars]",
-      "retrievedAt": "2023-08-25 19:05:28.697572",
-      "internal_id": "ab3d313081bc51e07f483b6c5c2fac5948e2c04935d5732139180aa239af7b9e",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1370,
-      "query": [
-        "malaria",
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Poynter",
-      "author": "Enock Nyariki",
-      "title": "Fact-checkers from Nigeria, Indonesia and Brazil win GlobalFact 10 awards",
-      "description": "For years, lured by the promise of an easy cure, people across Nigeria\u2019s capital of Abuja sought relief from ailments such as malaria, typhoid, stomach ulcers and other sources of [\u2026] The post Fact-checkers from Nigeria, Indonesia and Brazil win GlobalFact 10\u2026",
-      "url": "https://www.poynter.org/fact-checking/2023/dubawa-cek-fakta-brazil-globalfact-10-awards/",
-      "urlToImage": "https://www.poynter.org/wp-content/uploads/2023/08/4_24_007-scaled.jpg",
-      "publishedAt": "2023-08-24 10:00:01",
-      "content": "For years, lured by the promise of an easy cure, people across Nigeria\u2019s capital of Abuja sought relief from ailments such as malaria, typhoid, stomach ulcers and other sources of pain through a popu\u2026 [+7727 chars]",
-      "retrievedAt": "2023-08-25 19:05:30.109865",
-      "internal_id": "b83a49682d604a56b3943409b3bf79c42a8567e925406d03c94a489a2256ec32",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1369,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Todayjaffna.com",
-      "author": "Tiva Ram",
-      "title": "\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba8\u0bcb\u0baf\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8 \u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1!",
-      "description": "Meningococcal \u2013 Meningitis \u0baa\u0bb1\u0bcd\u0bb1\u0bc0\u0bb0\u0bbf\u0baf\u0bbe \u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1 \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bcd \u0ba4\u0bc7\u0bb5\u0bc8\u0baf\u0bb1\u0bcd\u0bb1 \u0b85\u0b9a\u0bcd\u0b9a\u0bae\u0bcd \u0b95\u0bca\u0bb3\u0bcd\u0bb3 \u0bb5\u0bc7\u0ba3\u0bcd\u0b9f\u0bbe\u0bae\u0bcd \u0b8e\u0ba9 \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1\u0ba8\u0bcb\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0baa\u0bbf\u0bb0\u0bbf\u0bb5\u0bc1 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1. \u0b92\u0bb5\u0bcd\u0bb5\u0bca\u0bb0\u0bc1 \u0bb5\u0bb0\u0bc1\u0b9f\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bbe\u0ba9 \u0baa\u0bb2 \u0ba8\u0bcb\u0baf\u0bbe\u0bb3\u0bbf\u0b95\u0bb3\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bc1\u0bb5\u0ba4\u0bbe\u0b95 \u0b85\u0ba4\u0ba9\u0bcd \u0baa\u0ba3\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd \u0ba8\u0bbf\u0baa\u0bc1\u0ba3\u0bb0\u0bcd \u0b9a\u0bae\u0bbf\u0ba4\u0bcd\u0ba4 \u0b95\u0bbf\u0ba9\u0bbf\u0b95\u0bc7 \u0ba4\u0bc6\u0bb0\u0bbf\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd. \u0b95\u0bbe\u0bb2\u0bbf \u0b9a\u0bbf\u0bb1\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0b95\u2026",
-      "url": "https://www.todayjaffna.com/335435",
-      "urlToImage": "https://www.todayjaffna.com/wp-content/uploads/2023/08/\u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1-\u0ba8\u0bcb\u0baf\u0bcd-\u0b95\u0bc1\u0bb1\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1-\u0b8e\u0b9a\u0bcd\u0b9a\u0bb0\u0bbf\u0b95\u0bcd\u0b95\u0bc8-\u0bb5\u0bbf\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc1-1.png",
-      "publishedAt": "2023-08-24 07:35:54",
-      "content": "Meningococcal \u2013 Meningitis . . , Meningococcal \u2013 Meningitis . . \u201c . . . . . \u201d .",
-      "retrievedAt": "2023-08-25 19:05:29.696247",
-      "internal_id": "186500bf30572c28ee4628cf26a1f28b58f99c96412a8fba454f9096afc2e665",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1364,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Indian Immunologicals Targets Dengue Vaccine Launch By January 2026",
-      "description": "Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the country's first such vaccine heats up.",
-      "url": "https://www.ndtv.com/india-news/indian-immunologicals-limited-targets-dengue-vaccine-launch-by-january-2026-4324867",
-      "urlToImage": "https://c.ndtvimg.com/2021-06/r6e5kmv8_vaccine-generic-650_625x300_25_June_21.jpeg",
-      "publishedAt": "2023-08-24 07:09:31",
-      "content": "The company said vaccine's early-stage trials did not demonstrate any adverse effects. HYDERABAD: Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue f\u2026 [+1696 chars]",
-      "retrievedAt": "2023-08-25 19:05:29.309389",
-      "internal_id": "5400ce8c29c98e19767409bc2475cbdd6f084175df4fafc42cc94b91f327bf24",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1349,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "Indian Immunologicals targets dengue vaccine launch by Jan 2026",
-      "description": "(marketscreener.com) Vaccine manufacturer Indian Immunologicals Limited expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the country's first such vaccine heats up. https://www.marketscreener.c\u2026",
-      "url": "https://www.marketscreener.com/news/latest/Indian-Immunologicals-targets-dengue-vaccine-launch-by-Jan-2026--44686699/",
-      "urlToImage": "https://img.zonebourse.com/reuters/2023-08/2023-08-24T065456Z_1_LYNXMPEJ7N08N_RTROPTP_3_INDIA-HEALTH.JPG",
-      "publishedAt": "2023-08-24 06:54:56",
-      "content": "HYDERABAD (Reuters) - Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the \u2026 [+1587 chars]",
-      "retrievedAt": "2023-08-25 07:05:32.308091",
-      "internal_id": "e6342da7573a251193a03d58ac94e4e9fd889013af4d096f7bb6994b4d554a13",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1350,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Reuters",
-      "title": "Indian Immunologicals targets dengue vaccine launch by January 2026",
-      "description": "Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the country's first such vaccine heats up. Dengue, a mosquito-borne disease, has over \u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/indian-immunologicals-targets-dengue-vaccine-launch-by-jan-2026/articleshow/103012111.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103012167,width-1070,height-580,imgsize-16072,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-08-24 06:48:23",
-      "content": "Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the country's first such v\u2026 [+1575 chars]",
-      "retrievedAt": "2023-08-25 07:05:32.310413",
-      "internal_id": "d1e5e89de2f012586feff2e5ce5c6800717f60ff6613b4f8b4f50da4577abefc",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1354,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Statetimes.in",
-      "author": "statetimes_editor",
-      "title": "Jammu Mayor starts fogging to check dengue spread",
-      "description": "STATE TIMES NEWS JAMMU: To counter the increasing growth of mosquitoes in the city and to prevent the spread of deadly dengue fever, the Mayor of Jammu city, Rajinder Sharma on Wednesday started fogging process at many areas of the city.Speaking on the occasi\u2026",
-      "url": "https://statetimes.in/jammu-mayor-starts-fogging-to-check-dengue-spread/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2023/08/MAYORff.jpg",
-      "publishedAt": "2023-08-24 06:13:49",
-      "content": "STATE TIMES NEWS JAMMU: To counter the increasing growth of mosquitoes in the city and to prevent the spread of deadly dengue fever, the Mayor of Jammu city, Rajinder Sharma on Wednesday started fog\u2026 [+1059 chars]",
-      "retrievedAt": "2023-08-25 07:05:32.320226",
-      "internal_id": "04a912f96f9fdacdac239bf7c95e41f99404df43b962e4c430e2b5c31c1185d6",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1347,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Measles Outbreak in Benue IDPs Camp Escalates",
-      "description": "[Vanguard] ...10 cases recorded, other unconfirmed cases being investigated",
-      "url": "https://allafrica.com/stories/202308240052.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-08-24 06:12:59",
-      "content": "...10 cases recorded, other unconfirmed cases being investigated The measles outbreak at the Agagbe Internally Displaced Persons, IDPs, in Gwer West Local Government Area, LGA, of Benue state has es\u2026 [+1405 chars]",
-      "retrievedAt": "2023-08-25 07:05:31.856638",
-      "internal_id": "7e4839008707c2efe2aebfdee0f0058fc09b2004f3f1d8612a2839d84a1fe6a2",
       "publishedAtLabel": "Aug 24"
     }
   ]
