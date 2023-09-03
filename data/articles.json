@@ -1,8 +1,210 @@
 {
-  "last_updated": "2023-09-02 19:05",
+  "last_updated": "2023-09-04 07:20",
   "count_articles_total": 300,
-  "count_articles_new": 21,
+  "count_articles_new": 0,
   "articles": [
+    {
+      "id": 1584,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Loopnews.com",
+      "author": "Kimmo Matthews",
+      "title": "Health ministry worried about mosquito breeding sites at schools | Loop Jamaica",
+      "description": "School administrators are being urged to be extra vigilant against mosquito breeding sites, thereby minimising the spread of the dengue virus by the Aedes aegypti mosquito. The call comes from Minister of Health and Wellness, Dr Christopher Tufton",
+      "url": "https://jamaica.loopnews.com/content/school-administrators-urged-get-rid-mosquito-breeding-sites/",
+      "urlToImage": "https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2023-07/christopher_tufton_12.7.23_jis_46c506eaf50f3600754aae4edf1bd40d.jpg",
+      "publishedAt": "2023-09-02 13:42:00",
+      "content": "School administrators are being urged to be extra vigilant against mosquito breeding sites, thereby minimising the spread of the dengue virus by the Aedes aegypti mosquito. The call comes from Minis\u2026 [+1570 chars]",
+      "retrievedAt": "2023-09-04 07:18:49.885490",
+      "internal_id": "27b87a62f02bd72bf537c31b69694eaa5512c1ec34a6875f45e2d4191facc591",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 1580,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Guatemala declara emergencia por brote de dengue que deja 22 muertos",
+      "description": "El m\u00e1ximo hist\u00f3rico de dengue en Guatemala se registr\u00f3 en 2019 cuando hubo m\u00e1s de 50.000 casos, de acuerdo con estad\u00edsticas oficiales.",
+      "url": "https://www.montevideo.com.uy/Salud/Guatemala-declara-emergencia-por-brote-de-dengue-que-deja-22-muertos-uc864407",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202304/_W933_80/841257.jpg",
+      "publishedAt": "2023-09-02 13:34:00",
+      "content": "El gobierno de Guatemala declar\u00f3 este jueves emergencia nacional por un brote de dengue que ha dejado 22 muertos y m\u00e1s de 12.000 casos en lo que va del a\u00f1o, inform\u00f3 el ministro de Salud, Francisco Co\u2026 [+1751 chars]",
+      "retrievedAt": "2023-09-04 07:18:49.868639",
+      "internal_id": "504eb5ba12e0ab29b21547b9e6546ca01191d4479cf384c2edb02efdab88ece2",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 1588,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "hijolagranputa",
+      "title": "El negocio de la malaria: la gran farmacia frente a la medicina natural",
+      "description": "China ha mantenido sus conocimientos particulares para el tratamiento de algunas enfermedades, una de ellas la malaria. Por m\u00e1s de 2000 a\u00f1os, este pa\u00eds viene tratando la enfermedad con una planta medicinal llamada Artemisia Annua (ajenjo dulce) la cual les ha\u2026",
+      "url": "https://www.meneame.net/m/actualidad/negocio-malaria-gran-farmacia-frente-medicina-natural-1",
+      "urlToImage": null,
+      "publishedAt": "2023-09-02 12:18:01",
+      "content": "#1 Esos cient\u00edficos est\u00e1n conchabados con la medicina artificial. El ajenjo funciona! Desde que bebo verm\u00fa no tengo malaria.P\u00e1salo!",
+      "retrievedAt": "2023-09-04 07:18:53.062398",
+      "internal_id": "c8f7fa6718af59e3a33ca1f52355c5201ecfea23ef6fed0fec7bb22de3e99e0e",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 1579,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Feber.se",
+      "author": "Frode Wikesj\u00f6",
+      "title": "Tigermyggan hittad i Sverige",
+      "description": "Sluta nu Tigermyggan uppt\u00e4cktes f\u00f6r f\u00f6rsta g\u00e5ngen i Sverige under veckan. Denna mygga \u00e4r bland annat k\u00e4nd f\u00f6r att b\u00e4ra p\u00e5 jobbiga virus som dengue och zika. Myggorna som uppt\u00e4cktes hittades i v\u00e4xter ink\u00f6pta fr\u00e5n Spanien och har sedan dess samlats in av \u2026",
+      "url": "https://feber.se/vetenskap/tigermyggan-hittad-i-sverige/455378/",
+      "urlToImage": "https://static.feber.se/article_images/56/97/03/569703.jpg",
+      "publishedAt": "2023-09-02 10:00:00",
+      "content": "+ L\u00e4s artiklar f\u00f6re alla andra Kommentera f\u00f6re alla andra V\u00e4lj periodJu l\u00e4ngre period, desto b\u00e4ttre pris. Du best\u00e4mmer! M\u00e5nad 39 kr/m\u00e5n Kvartal 33 kr/m\u00e5n \u00c5r 25 kr/m\u00e5n V\u00e4lj hur du vill beta\u2026 [+26592 chars]",
+      "retrievedAt": "2023-09-04 07:18:49.866106",
+      "internal_id": "d3e4608e631b1b57459ad802277a5d8df8aab3265a4eb8582b6f590e172111e4",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 1581,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vnexpress.net",
+      "author": "VnExpress",
+      "title": "Vaccine s\u1ed1t xu\u1ea5t huy\u1ebft kh\u00f3 nghi\u00ean c\u1ee9u",
+      "description": "Vaccine c\u1ea7n t\u1ea1o mi\u1ec5n d\u1ecbch l\u00e2u d\u00e0i v\u1edbi 4 ch\u1ee7ng huy\u1ebft thanh c\u1ee7a virus dengue, ch\u1ed1ng l\u1ea1i tri\u1ec7u ch\u1ee9ng l\u00e2m s\u00e0ng, song ch\u01b0a \u1ee9ng vi\u00ean n\u00e0o \u0111\u00e1p \u1ee9ng c\u00e1c \u0111i\u1ec1u ki\u1ec7n n\u00e0y.",
+      "url": "https://vnexpress.net/vaccine-sot-xuat-huyet-kho-nghien-cuu-4647891.html",
+      "urlToImage": "https://vcdn1-suckhoe.vnecdn.net/2023/08/30/syringes-5057119-1920-16933865-4534-4932-1693388086.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WLB1DyF4koHoGPsvIEoBrw",
+      "publishedAt": "2023-09-02 09:00:00",
+      "content": "Vaccine cn to min dch l\u00e2u d\u00e0i vi 4 chng huyt thanh ca virus dengue, chng li triu chng l\u00e2m s\u00e0ng, song cha ng vi\u00ean n\u00e0o \u00e1p ng c\u00e1c iu kin n\u00e0y.C\u00e1c nh\u00e0 khoa hc th gii \u00e3 theo ui vaccine st xut huyt 75 nm. n\u2026 [+2508 chars]",
+      "retrievedAt": "2023-09-04 07:18:49.875670",
+      "internal_id": "c8728a5b654cf663d22098dbe6d758ac66b3f4ed18e1c126ea443bf14a00ef2d",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 1577,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "filip.bolmgren@expressen.se (Filip Bolmgren)",
+      "title": "Tigermyggan sprider sig norrut: \u201dBara en tidsfr\u00e5ga\u201d",
+      "description": "Delar av Paris har besprutats f\u00f6r att bek\u00e4mpa den asiatiska tigermyggan, ansvarig f\u00f6r att tv\u00e5 personer insjuknat i denguefeber. Nu har n\u00e5gra \u00e4gg uppt\u00e4ckts i Sverige \u2013 och det kan finnas betydligt fler. \u2013 Det \u00e4r nog bara en tidsfr\u00e5ga innan den etablerar sig i \u2026",
+      "url": "https://www.expressen.se/nyheter/tigermyggan-sprider-sig-norrut-bara-en-tidsfraga/",
+      "urlToImage": "https://static.cdn-expressen.se/images/e9/7d/e97de994ff31449093c86fa6208e54da/16x9/original.png",
+      "publishedAt": "2023-09-02 04:40:28",
+      "content": "Under torsdagen tog fransm\u00e4nnen till drastiska \u00e5tg\u00e4rder f\u00f6r att stoppa den asiatiska tigermyggan efter att tv\u00e5 personer insjuknat i denguefeber. Personer i syd\u00f6stra Paris uppmanas att h\u00e5lla sig hem\u2026 [+1263 chars]",
+      "retrievedAt": "2023-09-04 07:18:49.859587",
+      "internal_id": "b5063e36b8f687bceed3edd0c10fdc5ba28b47b723e9d92f95e589710c9eb11d",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 1582,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thailandmedical.news",
+      "author": "Thailand Medical News",
+      "title": "Dengue News: Dengue Ravages Guatemala, Killing 22 And Infecting Thousands. Country Declares A Three Month Health Emergency!",
+      "description": "Dengue News: Dengue Ravages Guatemala, Killing 22 And Infecting Thousands. Country Declares A Three Month Health Emergency!thailandmedical.news",
+      "url": "https://www.thailandmedical.news/news/dengue-news-dengue-ravages-guatemala,-killing-22-and-infecting-thousands-country-declares-a-three-month-health-emergency",
+      "urlToImage": "https://www.thailandmedical.news/uploads/news/64f29fe81cffd_Dengue-News-Guatemala-Killing-22-Infecting-Thousands-Health-Emergency.jpg",
+      "publishedAt": "2023-09-02 02:41:35",
+      "content": "Dengue News: In a grave turn of events, Guatemala declared a national health emergency on Thursday due to a severe dengue outbreak that has already claimed 22 lives and infected thousands of people a\u2026 [+4387 chars]",
+      "retrievedAt": "2023-09-04 07:18:49.879651",
+      "internal_id": "d8918eaadd70488ebb0526d36effafbb17b9d21187e7ae4b888a2b6fa4c8f45f",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 1578,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "84 New Dengue Cases In State",
+      "description": "HT Bureau GUWAHATI, Sept 1: Dengue cases continue to surge in Assam with 84 new cases reported on Friday. Among the worst-hit areas, Karbi Anglong East reported 57 confirmed cases. In total, the state has reported 4,475 positive dengue cases this year, with\u2026",
+      "url": "https://thehillstimes.in/assam/84-new-dengue-cases-in-state",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-02-at-12.08.02-AM.jpeg",
+      "publishedAt": "2023-09-01 23:30:21",
+      "content": "HT Bureau GUWAHATI, Sept 1: Dengue cases continue to surge in Assam with 84 new cases reported on Friday. Among the worst-hit areas, Karbi Anglong East reported 57 confirmed cases. In total, the sta\u2026 [+657 chars]",
+      "retrievedAt": "2023-09-04 07:18:49.861974",
+      "internal_id": "48e04ef5e8ba8982d8a00aa0e3f017fdaae80261554657ddfb1508ddd9df4e81",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1587,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "Virginia declares statewide outbreak of meningococcal disease: 'Rare but serious'",
+      "description": "The state of Virginia is warning of a statewide outbreak of meningococcal disease, a \"rare but serious\" bacterial illness that can lead to meningitis. Here's what you need to know.",
+      "url": "https://www.foxnews.com/health/virginia-declares-statewide-outbreak-meningococcal-disease-rare-but-serious",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/meningococcal-split.jpg",
+      "publishedAt": "2023-09-01 21:53:04",
+      "content": "The state of Virginia is warning of a statewide outbreak of meningococcal disease, a \"rare but serious\" bacterial illness that can lead to meningitis. Since June 2022, there have been 27 cases of \u2026 [+3597 chars]",
+      "retrievedAt": "2023-09-04 07:18:51.198941",
+      "internal_id": "e17eb01e3061d96986db33b795899dce314575fe0fb332a64fd16e802c2977d5",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1576,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Paris bespr\u00fcht ganze Wohnviertel",
+      "description": "Die Klimaerhitzung erh\u00f6ht auch in gem\u00e4\u00dfigten Gefilden das Risiko f\u00fcr durch Gelsen, Moskitos und M\u00fccken \u00fcbertragene Krankheiten. Die Asiatische Tigerm\u00fccke (Aedes albopictus) etwa, ein bekannter \u00dcbertr\u00e4ger unter anderem von Dengue-, Zika- und Chikungunya-Viren,\u2026",
+      "url": "https://orf.at/stories/3329603/",
+      "urlToImage": "https://ibs.orf.at/news?image=https%3A%2F%2Fassets.orf.at%2Fmims%2F2023%2F35%2F29%2Fcrops%2Fw%3D1200%2Ch%3D630%2Cq%3D75%2F1923455_master_722229_paris_tigermuecke_insektizide_im.jpg%3Fs%3D464ced573c2bbf79ae80f1185a21d0b367b37b7a",
+      "publishedAt": "2023-09-01 21:37:10",
+      "content": "In den fr\u00fchen Morgenstunden am Donnerstag wurden im S\u00fcdosten von Paris Stra\u00dfen gesperrt und die Menschen aufgefordert, in ihren H\u00e4usern zu bleiben und die Fenster geschlossen zu halten, wie Le Monde \u2026 [+3679 chars]",
+      "retrievedAt": "2023-09-04 07:18:49.856132",
+      "internal_id": "4de31aeff509e791e8c7c335830c5175aa3c5c92486273af2b795d1b67d7ac7d",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1586,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Www.svt.se",
+      "author": "SVT Nyheter",
+      "title": "Experten: Tigermyggan g\u00e5r inte att stoppa",
+      "description": "Tigermyggan, som kan sprida virus som dengue och zika, hittades i veckan f\u00f6r f\u00f6rsta g\u00e5ngen i Sverige. \u2013 P\u00e5 sikt kommer den att etablera sig h\u00e4r, s\u00e4ger Anders Lindstr\u00f6m p\u00e5 Sveriges veterin\u00e4rmedicinska anstalt, SVA.",
+      "url": "https://www.svt.se/nyheter/inrikes/experten-tigermyggan-gar-inte-att-stoppa",
+      "urlToImage": "https://www.svtstatic.se/image/custom/1200/40952026/1693596143?format=auto&ratio=1.91",
+      "publishedAt": "2023-09-01 20:11:33",
+      "content": "Tigermyggan kom till Sverige som \u00e4gg i v\u00e4xter k\u00f6pta i Spanien. N\u00e4r v\u00e4xterna sedan vattnades kl\u00e4cktes \u00e4ggen. Familjen som k\u00f6pt v\u00e4xterna kontaktade d\u00e5 SVA, som h\u00e4mtade in mygglarverna f\u00f6r unders\u00f6kning.\u2026 [+1297 chars]",
+      "retrievedAt": "2023-09-04 07:18:49.890979",
+      "internal_id": "e8c114aeb4ed83e1d602bbd74be0f4b186ed5c2191eed32988954c400c2b11c8",
+      "publishedAtLabel": "Sep 1"
+    },
     {
       "id": 1565,
       "query": [
@@ -380,6 +582,24 @@
       "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
       "retrievedAt": "2023-09-02 19:05:07.098049",
       "internal_id": "0c8a3240e805141d4f87a0dce450c70015b938055ad0a29e4a7dc3ae99ef67c0",
+      "publishedAtLabel": "Sep 1"
+    },
+    {
+      "id": 1583,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u0998\u09c1\u09b0\u09c7 \u09a6\u09be\u0981\u09dc\u09be\u099a\u09cd\u099b\u09c7 \u09b6\u09cd\u09b0\u09c0\u09b2\u0999\u09cd\u0995\u09be\u09b0 \u0985\u09b0\u09cd\u09a5\u09a8\u09c0\u09a4\u09bf, \u09e7\u09e7 \u09ae\u09be\u09b8\u09c7\u09b0 \u09ac\u09cd\u09af\u09ac\u09a7\u09be\u09a8\u09c7 \u09ae\u09c2\u09b2\u09cd\u09af\u09b8\u09cd\u09ab\u09c0\u09a4\u09bf \u09ec\u09ef.\u09ee% \u09a5\u09c7\u0995\u09c7 \u09ea%",
+      "description": "\u09e8\u09e6\u09e8\u09e8 \u098f\u09b0 \u09b8\u09c7\u09aa\u09cd\u099f\u09c7\u09ae\u09cd\u09ac\u09b0\u09c7 \u09b8\u09b0\u09cd\u09ac\u09cb\u099a\u09cd\u099a \u09ec\u09ef \u09a6\u09b6\u09ae\u09bf\u0995 \u09ee \u09b6\u09a4\u09be\u0982\u09b6 \u09a5\u09c7\u0995\u09c7 \u098f \u09ac\u099b\u09b0\u09c7\u09b0 \u099c\u09c1\u09b2\u09be\u0987\u09df\u09c7\u09b0 \u09ec \u09a6\u09b6\u09ae\u09bf\u0995 \u09e9 \u09b6\u09a4\u09be\u0982\u09b6\u09c7 \u098f\u09b8\u09c7 \u09a6\u09be\u0981\u09dc\u09be\u09df \u09ae\u09c2\u09b2\u09cd\u09af\u09b8\u09cd\u09ab\u09c0\u09a4\u09bf\u09b0 \u09b9\u09be\u09b0\u0964 \u0986\u0997\u09b8\u09cd\u099f\u09c7 \u09a4\u09be \u0995\u09ae\u09c7 \u09ea \u09b6\u09a4\u09be\u0982\u09b6 \u09b9\u09b2\u0964",
+      "url": "https://bangla.thedailystar.net/news/asia/south-asia/news-510521",
+      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/09/01/untitled_design_-_2023-09-01t125501.955.png",
+      "publishedAt": "2023-09-01 07:11:05",
+      "content": "2019 was a watershed for dengue, with the highest number of cases ever reported globally. For Bangladesh too, it was a loud wake-up call, with record caseload and deaths. But the government continued\u2026 [+17 chars]",
+      "retrievedAt": "2023-09-04 07:18:49.883783",
+      "internal_id": "e9872637d5e3df931a355ae3daa30ff1d7a3d09fb63d26dc23cba38e39a19dca",
       "publishedAtLabel": "Sep 1"
     },
     {
@@ -941,6 +1161,24 @@
       "content": "di Ruggiero CorcellaLa zanzara Aedes aegypti, vettore del virus, viene infettata con il batterio naturale Wolbachia che ne riduce la capacit\u00e0 di trasmissione. Secondo l\u2019Oms, la dengue rappresenta una\u2026 [+7119 chars]",
       "retrievedAt": "2023-09-01 19:05:24.434560",
       "internal_id": "39087e32c44cee6f2183f119460f5596b49e43d4332b5f4aa62da7074ece7b96",
+      "publishedAtLabel": "Aug 31"
+    },
+    {
+      "id": 1585,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "WB provides $200m for healthcare services, dengue prevention in Bangladesh",
+      "description": "The World Bank has approved a $200 million loan to help improve primary healthcare services and prevent mosquito-borne diseases like dengue in Bangladesh. The loan was approved on Wednesday (August 30). It will help improve primary healthcare services for tre\u2026",
+      "url": "https://sylhetmirror.com/2023/08/31/wb-provides-200m-for-healthcare-services-dengue-prevention-in-bangladesh/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/76654g.jpg",
+      "publishedAt": "2023-08-31 10:55:05",
+      "content": "The World Bank has approved a $200 million loan to help improve primary healthcare services and prevent mosquito-borne diseases like dengue in Bangladesh. The loan was approved on Wednesday (August \u2026 [+3380 chars]",
+      "retrievedAt": "2023-09-04 07:18:49.888062",
+      "internal_id": "5a8b6cfa8eca48d1e8b5fbd558cea696429b3e009a3082cd4ae3d260a0df5e86",
       "publishedAtLabel": "Aug 31"
     },
     {
@@ -3383,240 +3621,6 @@
       "retrievedAt": "2023-08-26 19:05:24.738399",
       "internal_id": "5ccdd8bcc9812ae0476a10eff7b06ccb2f46fe02af434313129d8f14cfaf7661",
       "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1386,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Galileonet.it",
-      "author": "Mara Magistroni",
-      "title": "Insetti, cosa fare in caso di morsi e punture",
-      "description": "Nella maggior parte dei casi i fastidi si risolvono da soli, ma \u00e8 meglio sapere cosa fare e quando rivolgersi al medico L'articolo Insetti, cosa fare in caso di morsi e punture sembra essere il primo su Galileo.",
-      "url": "https://www.galileonet.it/insetti-cosa-fare-in-caso-di-morsi-e-punture/",
-      "urlToImage": "https://www.galileonet.it/wp-content/uploads/2023/08/pexels-jimmy-chan-2382223-scaled.jpg",
-      "publishedAt": "2023-08-25 14:56:58",
-      "content": "Quando morsi e punture di insetti diventano un pericolo. Nelle ultime ore si \u00e8 diffusa la notizia di nuovi casi accertati di febbre di Dengue, una malattia infettiva trasmessa dalle zanzare Aedes. E \u2026 [+3427 chars]",
-      "retrievedAt": "2023-08-26 19:05:24.107043",
-      "internal_id": "afffbcd634f2350dbf674aee563127591a8bda1c5619266ac31f85f07465e4e7",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1387,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
-      "title": "Per il virus Dengue screening volontario agli abitanti di Castiglione d\u2019Adda, ma la chiamata parte lenta: \u201cTroppo caldo e tanti ancora in ferie\u201d",
-      "description": "Pochissimi si sono presentati per il prelievo, soprattutto quelli che negli ultimi giorni hanno avuto la febbre o altri sintomi compatibili con la puntura della zanzara tigre",
-      "url": "https://milano.repubblica.it/cronaca/2023/08/25/news/virus_dengue_screening_castiglione_adda-412263558/",
-      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-milano/2023/08/25/164815807-e0db6913-eeaa-4c5a-b0eb-9b0c23dacf75.jpg",
-      "publishedAt": "2023-08-25 14:48:22",
-      "content": "Giovanni profuma di Autan. Questa mattina se l\u00e8 cosparso dalla testa ai piedi, prima di uscire di casa e recarsi a Codogno. \u00abA Castiglione dAdda ce lo stiamo mettendo un po' tutti\u00bb assicura. \u00abC\u00e8 da s\u2026 [+184 chars]",
-      "retrievedAt": "2023-08-26 19:05:24.111151",
-      "internal_id": "e6ab52de2f9df0615df706e2407f918afa085a58d87979379c891cc8977143c9",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1402,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Over 50pc dengue patients died within 24hrs of hospitalisation: WHO",
-      "description": "Over half of the dengue patients died this year within 24 hours of hospitalizations, according to the observation of World Health Organisation (WHO). It said a total of 444 dengue patients died from January to till August 17. Among those, 247 patients or 56 p\u2026",
-      "url": "https://sylhetmirror.com/2023/08/25/over-50pc-dengue-patients-died-within-24hrs-of-hospitalisation-who/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/rf4gt6.jpg",
-      "publishedAt": "2023-08-25 14:10:59",
-      "content": "Over half of the dengue patients died this year within 24 hours of hospitalizations, according to the observation of World Health Organisation (WHO). It said a total of 444 dengue patients died from\u2026 [+1220 chars]",
-      "retrievedAt": "2023-08-27 07:05:25.263444",
-      "internal_id": "003acf292f4daa23d76657c89abac2f28e18935248610fc7997ca67a3e1fbdb6",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1395,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Sirawit Jirawannaporn, Umaporn Limothai, Sasipha Tachaboon, Janejira Dinhuzen, Patcharakorn Kiatamornrak, Watchadaporn Chaisuriyong, Nattachai Srisawat",
-      "title": "The combination of RPA-CRISPR/Cas12a and Leptospira IgM RDT enhances the early detection of leptospirosis",
-      "description": "Author summary Lack of available sensitive point-of-care testing is one of the primary obstacles to the rapid diagnosis of leptospirosis. This study aimed to test the performance of a CRISPR/Cas12a FBDA, a Leptospira IgM RDT, and a combined test. Diagnostic a\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011596",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011596.g006&size=inline",
-      "publishedAt": "2023-08-25 14:00:00",
-      "content": "Citation: Jirawannaporn S, Limothai U, Tachaboon S, Dinhuzen J, Kiatamornrak P, Chaisuriyong W, et al. (2023) The combination of RPA-CRISPR/Cas12a and Leptospira IgM RDT enhances the early detection \u2026 [+26717 chars]",
-      "retrievedAt": "2023-08-26 19:05:28.158581",
-      "internal_id": "eb30ae0260aacd3845a4c6f34b8d2dbb7c54e5843bce0316015f010dbb8b0196",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1383,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Turn to 10",
-      "author": "Nbc 10 News",
-      "title": "Health department says Rhode Island is having 'unprecedented bat season'",
-      "description": "The Rhode Island Department of Health says the state is having an unprecedented bat season, and rabies shots are needed for some.",
-      "url": "https://turnto10.com/news/local/bat-encounters-health-department-says-rhode-island-is-having-unprecedented-bat-season-rabies-vaccination",
-      "urlToImage": "https://turnto10.com/resources/media/a3c4f42e-be72-45ab-b30e-486987a047ca-large16x9_4PVRIDOHBATWARNING.transfer_frame_506.jpeg",
-      "publishedAt": "2023-08-25 13:06:03",
-      "content": "by TAMARA SACHARCZYK | WJAR Fri, August 25th 2023, 12:25 PM UTC",
-      "retrievedAt": "2023-08-26 19:05:22.626133",
-      "internal_id": "cd93b53e3726f6e400a03eeb0afd5a124753e22ad624c9a450d40f13b54f671a",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1382,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "AZCentral",
-      "author": "Arizona Republic, Abigail Celaya, Arizona Republic",
-      "title": "Cochise County warns of rabies as animal bites increase. How to stay safe",
-      "description": "Cochise County has issued a warning for people to be mindful and watch out for animals that may have rabies.",
-      "url": "https://www.azcentral.com/story/news/local/arizona-health/2023/08/25/cochise-county-issues-rabies-warning-amid-uptick-in-animal-bites/70670577007/",
-      "urlToImage": "https://www.gannett-cdn.com/-mm-/432e79b2c463b3ad0c626ef2d7e0a1718cb936e8/c=0-115-1989-1239/local/-/media/2017/08/16/Phoenix/Phoenix/636384893003949194-GettyImages-503314667.jpg?auto=webp&format=pjpg&width=1200",
-      "publishedAt": "2023-08-25 13:01:26",
-      "content": "Cochise County has issued a warning for people to be mindful and watch out for animals that may have rabies. Earlier in August, Cochise County Health and Social Services shared on its Facebook page \u2026 [+3776 chars]",
-      "retrievedAt": "2023-08-26 19:05:22.622159",
-      "internal_id": "9597bcc9d7923e5552d35d9efd6ff51764e763209d75baa95e3736955183e4d6",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1385,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Maia Pandey",
-      "title": "Rare cases of mosquito- and tick-borne diseases, including Powassan and dengue, crop up across the U.S.",
-      "description": "Cases of rare diseases spread by mosquitoes and ticks are being reported nationwide, including dengue fever, West Nile virus, EEE and Powassan virus.",
-      "url": "https://www.nbcnews.com/health/health-news/rare-mosquito-tick-borne-disease-cases-rcna101425",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230823-mosquito-se-1153a-f4a2de.jpg",
-      "publishedAt": "2023-08-25 10:45:00",
-      "content": "As the end of summer approaches, cases of rare insect-borne diseases are cropping up weekly across the country, including eastern equine encephalitis, dengue fever and West Nile virus all spread by m\u2026 [+5970 chars]",
-      "retrievedAt": "2023-08-26 19:05:24.102951",
-      "internal_id": "25e53ac9fd57dc1c4a62066ca8ac8ea87c35b5edc7c38194c90a620a5d6445ca",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1391,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Answersingenesis.org",
-      "author": "Dr. Alan L. Gillen",
-      "title": "The Return of Malaria to the USA",
-      "description": "Did God create parasites to make us sick?",
-      "url": "https://answersingenesis.org/biology/disease/return-malaria-usa/",
-      "urlToImage": "https://assets.answersingenesis.org/img/cms/content/contentnode/og_image/plasmodium-vivax.jpg",
-      "publishedAt": "2023-08-25 10:00:00",
-      "content": "Abstract Summer 2023, the Centers for Disease Control and Prevention reported several cases of locally acquired malaria in Florida, Texas, and Maryland, meaning that patients were infected within th\u2026 [+14795 chars]",
-      "retrievedAt": "2023-08-26 19:05:25.606494",
-      "internal_id": "a276a38a3d1e1c7cd4bd4e7c7628d41c3bc1ef079bfef71d6ae1412170b081f3",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1392,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "88 Shelters Face Health Crisis Along Sudan Nile",
-      "description": "[Dabanga] Kosti / Ed Damer -- Displaced people in White Nile and River Nile states are facing harsh humanitarian conditions as heavy rains flood shelters and bring about epidemic outbreaks of malaria and 150 cases of watery diarrhoea, particularly affecting c\u2026",
-      "url": "https://allafrica.com/stories/202308250102.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-08-25 07:41:39",
-      "content": "Kosti / Ed Damer \u2014 Displaced people in White Nile and River Nile states are facing harsh humanitarian conditions as heavy rains flood shelters and bring about epidemic outbreaks of malaria and 150 ca\u2026 [+4494 chars]",
-      "retrievedAt": "2023-08-26 19:05:25.613567",
-      "internal_id": "142a3274159fe77a2c1542a6c734c56163bbe8e5cc037be1fac66333ae2cc185",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1378,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Superpunch.net",
-      "author": "noreply@blogger.com (John)",
-      "title": "New Minimates up for preorder including Typhoid Mary",
-      "description": "New toy preorders from Diamond include a Marvel Select Crimson Dynamo, and a fun batch of Minimates:",
-      "url": "https://www.superpunch.net/2023/08/new-minimates-up-for-preorder-including.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqqx6B41_qzplUyEahqFOvx5lQYACHLWEZ2J_GXkxi0N8sZwutm_lZ8wARO5gd1vACHSvELmo0D0HGK5JxY0-3aF-ENahEiKYW0KXsufkjTRrdP2Ncf04KrXhxv0oZQM7IIEyaJVSv3xLvAp6D8sqr5S488TMVUbRU7UTxuPFBK3SC71wybliyPjp1r-c/w1200-h630-p-k-no-nu/1.jpg",
-      "publishedAt": "2023-08-25 04:09:00",
-      "content": "As an Amazon Associate I earn from qualifying purchases. Please support Super Punch by following the affiliate links and buying from Amazon and eBay. This site also uses tracking cookies.Logo by Adam\u2026 [+52 chars]",
-      "retrievedAt": "2023-08-26 07:05:20.873556",
-      "internal_id": "4acfe84dd017ae09898bb0cf8e63c3fb61b9fc360a3c11ee435c44f21c2dfde9",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1372,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Ankita Upadhyay",
-      "title": "2 dengue deaths in NCR, Delhi hospitals keep eye on case spike and symptoms",
-      "description": "At Delhi\u2019s government as well as private hospitals, which have seen a spike in cases over the past two weeks, doctors said many patients are reporting a low platelet count, a high fever and body pain.",
-      "url": "https://indianexpress.com/article/cities/delhi/2-dengue-deaths-in-ncr-delhi-hospitals-keep-eye-on-case-spike-and-symptoms-8908308/",
-      "urlToImage": "https://images.indianexpress.com/2023/08/dengue-3col.jpg",
-      "publishedAt": "2023-08-24 23:00:41",
-      "content": "With NCR reporting two dengue deaths this month, hospitals in the national capital are on alert. In Gurgaon, a 30-year-old man from Mahendragarhs Ateli died of dengue hemorrhagic fever on Tuesday. In\u2026 [+3911 chars]",
-      "retrievedAt": "2023-08-26 07:05:19.456889",
-      "internal_id": "c215e31bbb288c9533e22a518c91740d75aeb1d40a20f69d6c31473c9fa4d03e",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1373,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Reuters",
-      "title": "Indian Immunologicals aims to launch dengue vaccine by early 2026 amid escalating threat",
-      "description": "Indian Immunologicals Limited (IIL), a prominent vaccine manufacturer, is on track to launch its dengue fever vaccine for commercial use by early 2026, according to a senior executive.",
-      "url": "https://www.foxnews.com/world/indian-immunologicals-aims-launch-dengue-vaccine-early-2026-amid-escalating-threat",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/4e674dfc-diseases.jpg",
-      "publishedAt": "2023-08-24 22:37:22",
-      "content": "Vaccine manufacturer Indian Immunologicals Limited (IIL) expects to commercially launch its dengue fever vaccine by early 2026, a top executive said, as the race to develop the country's first such v\u2026 [+1608 chars]",
-      "retrievedAt": "2023-08-26 07:05:19.471379",
-      "internal_id": "9ff3ba4c46ff53c0d4a253b76610b8aa9d0aeee480f04b3b500471157af0b81f",
-      "publishedAtLabel": "Aug 24"
-    },
-    {
-      "id": 1374,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Inewsguyana.com",
-      "author": "Inews",
-      "title": "Vaccines currently not part of Dengue Control Programme \u2013 Health Ministry",
-      "description": "See full statement from the Ministry of Health: We noticed an article published in the Village Voice on August 24, 2023 in which it asserts that the Ministry of Health (MOH) has procured dengue va\u2026",
-      "url": "https://www.inewsguyana.com/vaccines-currently-not-part-of-dengue-control-programme-health-ministry/",
-      "urlToImage": "https://i0.wp.com/www.inewsguyana.com/wp-content/uploads/2023/07/frank-anthony.png?fit=666%2C420&ssl=1",
-      "publishedAt": "2023-08-24 22:24:20",
-      "content": "See full statement from the Ministry of Health: We noticed an article published in the Village Voice on August 24, 2023 in which it asserts that the Ministry of Health (MOH) has procured dengue vac\u2026 [+1660 chars]",
-      "retrievedAt": "2023-08-26 07:05:19.474168",
-      "internal_id": "44f0824876e7727261d8dc576c5961d5e258ff218a1d5aad847abd59376504e5",
-      "publishedAtLabel": "Aug 24"
     }
   ]
 }

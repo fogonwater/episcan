@@ -116,13 +116,19 @@ class Harvester:
         title = str_squish(article["title"])
         description = str_squish(article["description"])
         if not publishedAt or not title:
+            print("WARNING: Missing publish date or title. Skipping.")
+            return
+        try:
+            publishedAt = datetime.strptime(publishedAt, "%Y-%m-%dT%H:%M:%SZ")
+        except ValueError:
+            print(f"WARNING: Encounted invalid publishedAt {publishedAt}. Skipping.")
             return
         source_id = article["source"]["id"]
         source_name = article["source"]["name"]
         author = article["author"]
         url = article["url"]
         urlToImage = article["urlToImage"]
-        publishedAt = datetime.strptime(article["publishedAt"], "%Y-%m-%dT%H:%M:%SZ")
+        
         content = str_squish(article["content"])
         retrievedAt = datetime.now()
 
