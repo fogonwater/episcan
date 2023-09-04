@@ -1,8 +1,121 @@
 {
-  "last_updated": "2023-09-03 19:21",
+  "last_updated": "2023-09-04 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 0,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 1592,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "danm@bt.dk (Daniel Martinsen)",
+      "title": "Tigermyg kommer l\u00e6ngere og l\u00e6ngere nordp\u00e5",
+      "description": "Er dy bekymret over, at den skal komme til Danmark?",
+      "url": "https://www.bt.dk/udland/tigermyg-kommer-laengere-og-laengere-nordpaa",
+      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/205/2057676/24516042-tigermyggen-er-registreret-flere-steder-i-europa.jpg",
+      "publishedAt": "2023-09-03 06:26:13",
+      "content": "Tigermyggen er ikke l\u00e6ngere noget, man kun kan st\u00f8de p\u00e5 i mere tropiske egne p\u00e5 jordkloden. Den kommer faktisk t\u00e6ttere og t\u00e6ttere p\u00e5 Danmark og med kan f\u00f8lge vira som zika, chikungunya og dengue. \u00bb\u2026 [+947 chars]",
+      "retrievedAt": "2023-09-04 07:05:48.481317",
+      "internal_id": "500f572ea9269b6175d8ecbffb54f70ce73bf666c56c13348afb2508fc96b2a2",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 1591,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "\"Our stand is clear\": Congress distances itself from Udhayanidhi Stalin's Sanatan rant",
+      "description": "Seeking to steer the Congress away from the statement of DMK leader Udhayanidhi Stalin, equating Sanatan Dharma with \"mosquitoes, dengue, malaria and corona\", the party's Maharashtra chief Nana Patole on Sunday said the partner in the DMK-led ruling coalition\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/our-stand-is-clear-congress-distances-itself-from-udhayanidhi-stalins-sanatan-rant/articleshow/103321555.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103321570,width-1070,height-580,imgsize-15180,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-03 05:31:32",
+      "content": "Seeking to steer the Congress away from the statement of DMK leader Udhayanidhi Stalin, equating Sanatan Dharma with \"mosquitoes, dengue, malaria and corona\", the party's Maharashtra chief Nana Patol\u2026 [+2662 chars]",
+      "retrievedAt": "2023-09-04 07:05:48.476085",
+      "internal_id": "49f1cee14243c0007f9c5c93b04b34cd5e666937b65d5940f6a5a2d96484bd0d",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 1590,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Times Now",
+      "title": "DMK's Udhayanidhi Stalin sparks controversy, says 'Sanatan Dharma like malaria, dengue & Corona'",
+      "description": "'Uprooting Sanatan Dharma is upholding humanity and human equality,' Tamil Nadu Minister for Youth Welfare Udhayanidhi Stalin said while clarifying that he had not called for 'genocide'. 'I never called for the genocide of people who are following Sanatan Dha\u2026",
+      "url": "https://economictimes.indiatimes.com/news/et-tv/dmks-udhayanidhi-stalin-sparks-controversy-says-sanatan-dharma-like-malaria-dengue-corona/videoshow/103319906.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-103319906,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-03 03:28:44",
+      "content": "\"Uprooting Sanatan Dharma is upholding humanity and human equality,\" Tamil Nadu Minister for Youth Welfare Udhayanidhi Stalin said while clarifying that he had not called for \"genocide\". \"I never cal\u2026 [+278 chars]",
+      "retrievedAt": "2023-09-04 07:05:48.468456",
+      "internal_id": "f564c2b0c013ed13228e613e5b4035a5714d18789bab1bc988c31d2e762ed249",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 1589,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "\"Sanatana Dharma Like Dengue, Malaria\": MK Stalin's Son Triggers Huge Row",
+      "description": "Udhayanidhi Stalin, Tamil Nadu minister and son of Chief Minister MK Stalin, said on Saturday that Sanatana Dharma is against the idea of social justice and must be \"eradicated\".",
+      "url": "https://www.ndtv.com/india-news/udhayanidhi-stalin-mk-stalin-sanatan-dharma-like-dengue-malaria-mk-stalins-son-triggers-row-4354704",
+      "urlToImage": "https://c.ndtvimg.com/2021-04/0m12k7uc_udhayanidhi-stalin_625x300_06_April_21.jpg",
+      "publishedAt": "2023-09-03 02:16:54",
+      "content": "Udhayanidhi Stalin's remarks came at a writers' conference in Chennai. New Delhi: Udhayanidhi Stalin, Tamil Nadu minister and son of Chief Minister MK Stalin, said on Saturday that Sanatana Dharma i\u2026 [+3948 chars]",
+      "retrievedAt": "2023-09-04 07:05:48.459665",
+      "internal_id": "cc8a049f92952a71c92febbcfd6433060e5e864eb9cb7218be5a138897288ed9",
+      "publishedAtLabel": "Sep 3"
+    },
+    {
+      "id": 1594,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Dr. Sylvester Ikhisemojie",
+      "title": "Current health challenges of developing countries",
+      "description": "Developing countries face many health challenges that affect their populations and their development prospects. Some of these challenges are related to infectious diseases, such as HIV/AIDS, tuberculosis, malaria, and neglected tropical diseases. Others are r\u2026",
+      "url": "https://punchng.com/current-health-challenges-of-developing-countries/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2018/12/15201925/Dr.-Sylvester-Ikhisemojie.jpg",
+      "publishedAt": "2023-09-02 23:32:51",
+      "content": "Developing countries face many health challenges that affect their populations and their development prospects. Some of these challenges are related to infectious diseases, such as HIV/AIDS, tubercul\u2026 [+15915 chars]",
+      "retrievedAt": "2023-09-04 07:05:49.510413",
+      "internal_id": "33539dbb5ab84ed2d6112445ff98ed5ddf10a3d1926e2faa48b69095af418d05",
+      "publishedAtLabel": "Sep 2"
+    },
+    {
+      "id": 1593,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Meningococcal disease outbreak in Virginia blamed for 5 deaths - CNN",
+      "description": "Meningococcal disease outbreak in Virginia blamed for 5 deathsCNN Virginia declares statewide outbreak of meningococcal disease: 'Rare but serious'Fox News Meningitis cases on the rise in the Commonwealth: How experts say you can stay safeWFXR NEWS 5 Dead In \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171750250",
+      "urlToImage": null,
+      "publishedAt": "2023-09-02 21:32:17",
+      "content": "\"Given the choice between accomplishing something and just lying around, I'd rather lie around. No contest.\" -- Eric Clapton",
+      "retrievedAt": "2023-09-04 07:05:48.993276",
+      "internal_id": "1af7d8ebb5e91a02b94fa604dfbe0b7f02ce7c1019dc0c7a871b4337bffba56b",
+      "publishedAtLabel": "Sep 2"
+    },
     {
       "id": 1584,
       "query": [
@@ -3512,114 +3625,6 @@
       "content": "A Organiza\u00e7\u00e3o Mundial de Sa\u00fade (OMS) alertou esta sexta-feira para um \"aumento dos casos\" do v\u00edrus mpox \"nos \u00faltimos dois meses em \u00c1frica e na \u00c1sia\", apesar de ter declarado o fim deste tipo de infe\u00e7\u2026 [+1789 chars]",
       "retrievedAt": "2023-08-26 19:05:27.164126",
       "internal_id": "5881ccaed766b0e9a9394889aa8eb1bdecee2d497440156c2cbd677d6839d54e",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1384,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "ReportLinker",
-      "title": "Dengue Fever Clinical Trial Analysis by Trial Phase, Trial Status, Trial Counts, End Points, Status, Sponsor Type, and Top Countries, 2023 Update",
-      "description": "Summary. clinical trial report, \u201cDengue Fever Clinical Trial Analysis by Trial Phase, Trial Status, Trial Counts, End Points, Status, Sponsor Type, and Top Countries, 2023 Update\" provides an overview of Dengue Fever Clinical trials scenario. Summary. clinica\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/08/25/2732049/0/en/Dengue-Fever-Clinical-Trial-Analysis-by-Trial-Phase-Trial-Status-Trial-Counts-End-Points-Status-Sponsor-Type-and-Top-Countries-2023-Update.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/3e0b82c2-02d7-44c8-b22f-561e0f321f39",
-      "publishedAt": "2023-08-25 16:36:00",
-      "content": "New York, Aug. 25, 2023 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Dengue Fever Clinical Trial Analysis by Trial Phase, Trial Status, Trial Counts, End Points, Status, \u2026 [+2983 chars]",
-      "retrievedAt": "2023-08-26 19:05:24.101230",
-      "internal_id": "161f11eef7b861f685c1e3d9ade97d867bc46ad7cfb1818fda316f1e2ee9d9b0",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1394,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "La viruela del mono sigue viva en la Comunidad de Madrid: este a\u00f1o ya hay 31 casos confirmados",
-      "description": "La gripe el mono (Mpox, por sus siglas en ingl\u00e9s ) sigue viva en la regi\u00f3n. De hecho, el \u00faltimo estudio epidemiol\u00f3gico se\u00f1ala que la Comunidad de Madrid ha registrado, en lo que va de a\u00f1o, un total de 31 casos confirmados hasta el jueves 24 de agosto. La Orga\u2026",
-      "url": "https://www.abc.es/espana/madrid/viruela-mono-sigue-viva-comunidad-madrid-casos-20230825180054-nt.html",
-      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2023/08/25/viruela-mono-U74262011165mxD-1024x512@abc.jpg",
-      "publishedAt": "2023-08-25 16:31:44",
-      "content": "La gripe el mono (Mpox, por sus siglas en ingl\u00e9s) sigue viva en la regi\u00f3n. De hecho, el \u00faltimo estudio epidemiol\u00f3gico se\u00f1ala que la Comunidad de Madrid ha registrado, en lo que va de a\u00f1o, un total de\u2026 [+3023 chars]",
-      "retrievedAt": "2023-08-26 19:05:27.167389",
-      "internal_id": "666eae15b32fef25f80730c0d3b62c2db1dc0dbc2a680da13b7b86bebde28b48",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1380,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "RAGANANTHINI VETHASALAM, GERARD GIMINO",
-      "title": "\u2018Vaccinate pregnant women against whooping cough\u2019",
-      "description": "PETALING JAYA: Providing Tetanus, Diphtheria and Acellular Pertussis (TDAP) vaccines to pregnant women nationwide will allow the country to have better control over the spread of Pertussis, otherwise known as the whooping cough, says Datuk Dr Zulkifli Ismail.\u2026",
-      "url": "https://www.thestar.com.my/news/nation/2023/08/26/vaccinate-pregnant-women-against-whooping-cough",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/26/2251736.jpg",
-      "publishedAt": "2023-08-25 16:00:00",
-      "content": "PETALING JAYA: Providing Tetanus, Diphtheria and Acellular Pertussis (TDAP) vaccines to pregnant women nationwide will allow the country to have better control over the spread of Pertussis, otherwise\u2026 [+2112 chars]",
-      "retrievedAt": "2023-08-26 19:05:21.994802",
-      "internal_id": "4866e7811f45bc0807be3f83155194705ddf207dc8731c8429730879afccc48c",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1381,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Coqueluche \u00e9 conhecida como \u2018tosse comprida\u2019; saiba quais s\u00e3o os sintomas e como \u00e9 o tratamento",
-      "description": "Doen\u00e7a causada por bact\u00e9ria \u00e9 altamente infecciosa, e quadro pode durar mais de seis semanas",
-      "url": "https://noticias.r7.com/saude/coqueluche-sintomas-e-tratamento-25082023",
-      "urlToImage": "https://img.r7.com/images/tosse-25082023154440229?crop_position=c&dimensions=340x191",
-      "publishedAt": "2023-08-25 15:46:00",
-      "content": "O Brasil registrou no ano passado 227 casos de coqueluche, uma doen\u00e7a altamente contagiosa, conhecida popularmente como \"tosse comprida\". Ela \u00e9 causada pela bact\u00e9ria Bordetella pertussis. De acordo \u2026 [+3803 chars]",
-      "retrievedAt": "2023-08-26 19:05:21.999589",
-      "internal_id": "d016bb1ae02c33b9f9133e32112da44ae3fbcdc9013a964970ff451d114cda8c",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1390,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Cracked.com",
-      "author": "Eli Yudin",
-      "title": "5 Medical Treatments Deadlier Than the U.S. Health-Care System",
-      "description": "I\u2019m gonna go ahead and prescribe you some malaria for that syphilis",
-      "url": "https://www.cracked.com/article_39217_5-medical-treatments-deadlier-than-the-us-health-care-system.html",
-      "urlToImage": "https://s3.crackedcdn.com/phpimages/article/8/3/6/911836.jpg",
-      "publishedAt": "2023-08-25 15:00:00",
-      "content": "Trusting your doctor is generally the correct choice in modern times. Sure, getting a second opinion if its particularly important might be a smart move. Deciding their years of medical education and\u2026 [+6009 chars]",
-      "retrievedAt": "2023-08-26 19:05:25.603217",
-      "internal_id": "e0b1f29d31238546497b8d48e5ac05c5aa82fb80d719e9860dc60a4afdaa2064",
-      "publishedAtLabel": "Aug 25"
-    },
-    {
-      "id": 1389,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Mediatakeout.com",
-      "author": "Lyndon Abioye",
-      "title": "Beautiful Houston Woman D*ES After BOTCHED Mexico BBL \u2026 Fungal Meningitis! (Here Are SYMPTOMS)",
-      "description": "A beautiful Houston mother Shyanne Medrano, 31, died from fungal meningitis at a hospital on May 16, 2023 and is one of four Texas women who have died from the infection after they went under the knife in the northern border city of Matamoros in Mexico. Mexic\u2026",
-      "url": "https://mediatakeout.com/beautiful-houston-woman-dies-of-botched-bbl-in-mexico-fungal-meningitis-took-over-her-body/",
-      "urlToImage": "https://mediatakeout.com/wp-content/uploads/2023/08/72174919-12198949-Ms_Medrano_felt_immediately_ill_after_the_procedure_and_suffered-a-87_1686865558949.jpg",
-      "publishedAt": "2023-08-25 14:57:04",
-      "content": "A beautiful Houston mother Shyanne Medrano, 31, died from fungal meningitis at a hospital on May 16, 2023 and is one of four Texas women who have died from the infection after they went under the kni\u2026 [+1707 chars]",
-      "retrievedAt": "2023-08-26 19:05:24.738399",
-      "internal_id": "5ccdd8bcc9812ae0476a10eff7b06ccb2f46fe02af434313129d8f14cfaf7661",
       "publishedAtLabel": "Aug 25"
     }
   ]
