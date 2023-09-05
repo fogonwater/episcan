@@ -1,8 +1,298 @@
 {
-  "last_updated": "2023-09-05 07:05",
+  "last_updated": "2023-09-05 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 1626,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Climate change makes rare diseases in US more common, how are they linked?",
+      "description": "The highest temperatures in the US were recorded in Texas and Florida and malaria was also detected in these states. Is there any relation between climate change and certain diseases?",
+      "url": "https://economictimes.indiatimes.com/news/international/us/climate-change-makes-rare-diseases-in-us-more-common-how-are-they-linked/articleshow/103368658.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103368693,width-1070,height-580,imgsize-303874,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-04 18:48:04",
+      "content": "As July 2023 recorded the hottest temperature in history and that too due to climate change, it coincided with the spread of uncommon diseases as well. Health experts in the US have warned of the hea\u2026 [+3127 chars]",
+      "retrievedAt": "2023-09-05 19:05:38.176456",
+      "internal_id": "2f386800c878f8876fcb56bf1ee8341878ad1e55a1422872769fce015e010022",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1625,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Jenny Martorell/TT",
+      "title": "F\u00f6rsv\u00e5rat h\u00e4lsoarbete i extremv\u00e4drets sp\u00e5r",
+      "description": "\u00d6versv\u00e4mningar, torka och hetta. Extremv\u00e4dret s\u00e4tter k\u00e4ppar i hjulet f\u00f6r f\u00f6rs\u00f6ken att bromsa malaria, tuberkulos och hiv/aids. \u2013 Vi kan inte riktigt stoppa \u00f6versv\u00e4mningarna, s\u00e4ger Dianne Stewart, chef f\u00f6r givarrelationer p\u00e5 hj\u00e4lporganisationen Globala fonden.",
+      "url": "https://www.svd.se/a/VP3a8r/forsvarat-halsoarbete-i-extremvadrets-spar",
+      "urlToImage": "https://svd.vgc.no/v2/images/1f197b93-87d0-49ae-ba68-7ea119bfda56?h=630&q=80&upscale=true&w=1200&s=17a5d4fbc934d17e08ac6596ea9c1333e4d4c0b6",
+      "publishedAt": "2023-09-04 17:08:25",
+      "content": "\u00d6versv\u00e4mningar, torka och hetta. Extremv\u00e4dret s\u00e4tter k\u00e4ppar i hjulet f\u00f6r f\u00f6rs\u00f6ken att bromsa malaria, tuberkulos och hiv/aids. Vi kan inte riktigt stoppa \u00f6versv\u00e4mningarna, s\u00e4ger Dianne Stewart, che\u2026 [+59 chars]",
+      "retrievedAt": "2023-09-05 19:05:38.168176",
+      "internal_id": "e42590d87b1cb72b0abe653f49760d52688828211723ef64a202bae814e88279",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1627,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "F\u00f6rsv\u00e5rat h\u00e4lsoarbete i extremv\u00e4drets sp\u00e5r",
+      "description": "\u00d6versv\u00e4mningar, torka och hetta. Extremv\u00e4dret s\u00e4tter k\u00e4ppar i hjulet f\u00f6r f\u00f6rs\u00f6ken att bromsa malaria, tuberkulos och hiv/aids. \u2013 Vi kan inte riktigt stoppa \u00f6ver",
+      "url": "https://www.aftonbladet.se/nyheter/a/2Bebx4/forsvarat-halsoarbete-i-extremvadrets-spar",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/f9398fa9-fc97-4590-815c-337ca6e77e79?fit=crop&format=auto&h=1267&q=50&w=1900&s=65a6f5e110acdec81bb18f126ff836b7c54d8390",
+      "publishedAt": "2023-09-04 17:08:23",
+      "content": "Dianne Stewart, bitr\u00e4dande chef p\u00e5 Globala fonden.1 / 4Foto: Fredrik Sandberg/TT \u00d6versv\u00e4mningar, torka och hetta. Extremv\u00e4dret s\u00e4tter k\u00e4ppar i hjulet f\u00f6r f\u00f6rs\u00f6ken att bromsa malaria, tuberkulos och \u2026 [+6307 chars]",
+      "retrievedAt": "2023-09-05 19:05:38.179203",
+      "internal_id": "13cd76e91df29e378635e7c1dcb63ef06651c2d485ce890e5f030d8deec8305c",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1618,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Benessereblog.it",
+      "author": "Carmela Di Matteo",
+      "title": "La febbre Dengue \u00e8 in Italia: di cosa si tratta e come affrontarla",
+      "description": "La febbre Dengue \u00e8 una malattia virale trasmessa dalle zanzare. I sintomi includono febbre, mal di testa, dolori muscolari e articolari, nausea e eruzioni cutanee. La prevenzione si basa sull'uso di repellenti, vestiti protettivi e zanzariere. Non esiste una \u2026",
+      "url": "https://www.benessereblog.it/febbre-dengue",
+      "urlToImage": "https://www.greenstyle.it/app/uploads/sites/4/2023/09/febbre-dengue-zanzare.jpg",
+      "publishedAt": "2023-09-04 16:14:59",
+      "content": "La febbre Dengue \u00e8 una malattia virale trasmessa dalle zanzare. I sintomi includono febbre, mal di testa, dolori muscolari e articolari, nausea e eruzioni cutanee. La prevenzione si basa sull'uso di \u2026 [+5352 chars]",
+      "retrievedAt": "2023-09-05 19:05:37.251206",
+      "internal_id": "70a27723071e1fa3caac0c29a5c3f8932d077f6a38b203a6236e84578544803f",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1617,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Silke H\u00fcmmer",
+      "title": "Warnung vor Tropenm\u00fccken - Dengue-Fieber am Gardasee",
+      "description": "Italienische Urlaubsregionen melden rund um den bei Deutschen beliebten Gardasee mehrere von Dengue-Fieber Betroffene.",
+      "url": "https://www.bild.de/ratgeber/2023/ratgeber/behoerden-warnen-vor-tropenmuecken-dengue-fieber-amgardasee-85293958.bild.html",
+      "urlToImage": "https://images.bild.de/64f5e5c09857f00a165bc96b/07510400a3930406e2e8604c6dd6f9e5,d6da5453?w=1280",
+      "publishedAt": "2023-09-04 15:34:12",
+      "content": "J\u00e4hrlich erkranken laut der Weltgesundheitsorganisation WHO 50 bis 100 Millionen Menschen am Dengue-Fieber. Die Asiatische Tigerm\u00fccke, einer der Haupt\u00fcbertr\u00e4ger des Tropen-Erregers, breitet sich zune\u2026 [+2794 chars]",
+      "retrievedAt": "2023-09-05 19:05:37.248422",
+      "internal_id": "015a3aa1c5eda544d3fd6346d1f108187682c3946ab6e5b7fd898dcf3915ffc3",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1628,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Antoni Belchi)",
+      "title": "\u00bfPor qu\u00e9 el Zika sigue siendo una preocupaci\u00f3n en las Am\u00e9ricas?",
+      "description": "La OPS alerta que las mujeres embarazadas son susceptibles a los efectos del Zika y requiere de un esfuerzo global para minimizar su impacto en la regi\u00f3n.",
+      "url": "https://www.vozdeamerica.com/a/zika-preocupacion-americas-ops/7253580.html",
+      "urlToImage": "https://gdb.voanews.com/024F4492-9B2F-4B1C-B9C5-C817229FC742_w1200_r1.jpg",
+      "publishedAt": "2023-09-04 15:00:40",
+      "content": "Miami, EEUU La fiebre del Zika, una enfermedad viral transmitida por mosquitos del g\u00e9nero Aedes causada por el virus Zika (ZIKV), a la que pr\u00e1cticamente no se le prestaba mucha atenci\u00f3n por parte de\u2026 [+6621 chars]",
+      "retrievedAt": "2023-09-05 19:05:38.660511",
+      "internal_id": "351e247959323fc8d1df8200f899396b4e6e1bd15fdb957d434992931d4e2d40",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1616,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Alison Shepherd",
+      "title": "Paris fights to halt spread of dengue mosquito",
+      "description": "bmj;382/sep04_11/p2032/FAF1faValery Hache/AFP/GettyFrench health authorities fumigate areas of Paris for the first time to kill disease carrying tiger mosquitoes (Aedes albopictus), whose rapid advance through northern Europe is thought to have been accelerat\u2026",
+      "url": "https://www.bmj.com/content/382/bmj.p2032",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/382/8396.cover-source.jpg",
+      "publishedAt": "2023-09-04 14:11:12",
+      "content": "French health authorities fumigate areas of Paris for the first time to kill disease carrying tiger mosquitoes (Aedes albopictus), whose rapid advance",
+      "retrievedAt": "2023-09-05 19:05:37.245974",
+      "internal_id": "6c033e90570c2d7cf4b07b52b5a4b1f8003539cb6e5651bea818a6a68103fa4c",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1614,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: Measles epidemiology 2023",
+      "description": "Number of confirmed cases of measles in England by month, age and region.",
+      "url": "https://www.gov.uk/government/publications/measles-epidemiology-2023",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+      "publishedAt": "2023-09-04 13:07:24",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2023-09-05 19:05:36.793820",
+      "internal_id": "48dd3a0193b750cfa0674925d362d3f73193c034ed7f1029d4046431e86bd571",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1620,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Matthias R\u00fcb",
+      "title": "Folge der Erderw\u00e4rmung: Sieben Menschen am Gardasee mit Dengue-Fieber infiziert",
+      "description": "Eigentlich gab es die Asiatische Tigerm\u00fccke nur in den Tropen. Doch nun infiziert sie auch in Italien Urlauber und Einheimische mit Dengue-Fieber. Das Ausw\u00e4rtige Amt weist deshalb schon auf ein Risiko hin.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/dengue-fieber-sieben-menschen-am-gardasee-infiziert-19149981.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/politik/1697849475/1.9150120/facebook_teaser/hier-infizieren-sich-zunehmend.jpg",
+      "publishedAt": "2023-09-04 13:03:48",
+      "content": "Wegen gut eines halben Dutzends best\u00e4tigter F\u00e4lle von Dengue-Fieber haben die Beh\u00f6rden in zwei der 20 Regionen Italiens Ma\u00dfnahmen gegen die Ausbreitung des Virus ergriffen. In der Lombardei in Nordit\u2026 [+2484 chars]",
+      "retrievedAt": "2023-09-05 19:05:37.259275",
+      "internal_id": "1b2d2e162b114c21366e3008b0f34e7fdd1e19707330cc99569891574edb5ca3",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1621,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Matthias R\u00fcb",
+      "title": "Folge der Erderw\u00e4rmung: Sieben Menschen am Gardasee mit Dengue-Fieber infiziert",
+      "description": "Eigentlich gab es die Asiatische Tigerm\u00fccke nur in den Tropen. Doch nun infiziert sie auch in Italien Urlauber und Einheimische mit Dengue-Fieber. Das Ausw\u00e4rtige Amt weist deshalb schon auf ein Risiko hin.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/sieben-menschen-am-gardasee-mit-dengue-fieber-infiziert-19149981.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/politik/1697849475/1.9150120/facebook_teaser/hier-infizieren-sich-zunehmend.jpg",
+      "publishedAt": "2023-09-04 12:43:03",
+      "content": "Wegen gut eines halben Dutzends best\u00e4tigter F\u00e4lle von Dengue-Fieber haben die Beh\u00f6rden in zwei der 20 Regionen Italiens Ma\u00dfnahmen gegen die Ausbreitung des Virus ergriffen. In der Lombardei in Nordit\u2026 [+2484 chars]",
+      "retrievedAt": "2023-09-05 19:05:37.261520",
+      "internal_id": "5a632778cb980ed89a98f7bb8efc2c1381165afdc4cf26a101982dcfdc8d85ab",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1619,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u091a\u093f\u0924\u094d\u0930\u093e \u0924\u094d\u0930\u093f\u092a\u093e\u0920\u0940",
+      "title": "\u0926\u0902\u0917\u0932: \u0938\u0928\u093e\u0924\u0928 \u092a\u0930 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u093e \u092c\u092f\u093e\u0928, \u092e\u0941\u0936\u094d\u0915\u093f\u0932 \u092e\u0947\u0902 'INDIA' \u0917\u0920\u092c\u0902\u0927\u0928?",
+      "description": "'INDIA' \u0917\u0920\u092c\u0902\u0927\u0928 \u0915\u0947 \u0918\u091f\u0915 \u0926\u0932 \u0921\u0940\u090f\u092e\u0915\u0947 \u0915\u0947 \u092e\u0902\u0924\u094d\u0930\u0940 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0938\u094d\u091f\u093e\u0932\u093f\u0928 \u0928\u0947 \u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u0915\u0940 \u0921\u0947\u0902\u0917\u0942-\u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0938\u0947 \u0924\u0941\u0932\u0928\u093e \u0915\u0930 \u0926\u0940. \u0907\u0938 \u092a\u0930 \u092c\u0940\u091c\u0947\u092a\u0940 \u0928\u0947 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u0938\u0947 \u0932\u0947\u0915\u0930 \u0932\u093e\u0932\u0942 \u092f\u093e\u0926\u0935 \u0924\u0915 \u0915\u094b \u0918\u0947\u0930\u093e \u0914\u0930 \u0938\u0935\u093e\u0932 \u0926\u093e\u0917\u0947. \u0915\u094d\u092f\u093e \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u092c\u092f\u093e\u0928 \u0928\u0947 'INDIA' \u0917\u0920\u092c\u0902\u0927\u0928 \u0915\u094b \u0927\u0930\u094d\u092e \u0938\u0902\u0915\u091f \u092e\u0947\u0902 \u0921\u093e\u0932 \u0926\u093f\u092f\u093e \u0939\u0948? \u0926\u0947\u0916\u093f\u090f \u0926\u0902\u0917\u0932.",
+      "url": "https://www.aajtak.in/programmes/dangal/video/india-opposition-alliance-in-trouble-over-udhayanidhi-stalin-sanatana-dharma-remark-bjp-news-1771927-2023-09-04",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202309/sanatana_dharma_row-sixteen_nine.png",
+      "publishedAt": "2023-09-04 12:39:35",
+      "content": "'INDIA' - . . 'INDIA' ? . DMK leader Udhayanidhi Stalin compared Sanatan Dharma with dengue-malaria. BJP fiercely attacked the entire oppossition over this. Has Udhayanidhi's statement put the 'IN\u2026 [+38 chars]",
+      "retrievedAt": "2023-09-05 19:05:37.255588",
+      "internal_id": "a687f62b6ee77a62f1330547d38368bf5328063e1f0d3e0a7975fd5f44548697",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1629,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Post Reporters",
+      "title": "Concern over spike in mpox cases",
+      "description": "The Department of Disease Control is concerned about the rise in mpox cases, or monkeypox, in Thailand, especially the growth in infections among young people.",
+      "url": "https://www.bangkokpost.com/thailand/general/2641230/concern-over-spike-in-monkeypox-cases",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20230904/c1_2641230_230904174724_700.jpg",
+      "publishedAt": "2023-09-04 11:14:00",
+      "content": "The Department of Disease Control is concerned about the rise in mpox cases, or monkeypox, in Thailand, especially the growth in infections among young people. DDC director-general Tares Krassanaira\u2026 [+1840 chars]",
+      "retrievedAt": "2023-09-05 19:05:39.329435",
+      "internal_id": "5d21bcb6150add311f6e357623d6ffa1be772cf72660eed82a055744e4e08937",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1622,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": null,
+      "title": "Bangladesben robban\u00e1sszer\u0171en terjed a dengue-l\u00e1z, m\u00e1r t\u00f6bb mint 600-an meghaltak",
+      "description": "Sz\u00fanyogok terjesztik a hal\u00e1los k\u00f3rt.",
+      "url": "https://www.origo.hu/nagyvilag/20230904-bangladesben-mar-tobb-mint-600-halalos-aldozatot-kovetelt-a-denguelaz.html",
+      "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2309/2023090448.jpg?w=671",
+      "publishedAt": "2023-09-04 09:48:57",
+      "content": "Bangladesben \u00fajabb 16 \u00e1ldozatot k\u00f6vetelt a dengue-l\u00e1z, \u00edgy az idei \u00e9vben m\u00e1r 634-en haltak meg a sz\u00fanyogok \u00e1ltal terjesztett k\u00f3rban - k\u00f6z\u00f6lte a bangladesi Eg\u00e9szs\u00e9g\u00fcgyi Szolg\u00e1ltat\u00e1sok Figazgat\u00f3s\u00e1ga (D\u2026 [+956 chars]",
+      "retrievedAt": "2023-09-05 19:05:37.263930",
+      "internal_id": "4aadec4ae861356512bfc82f8280e3418a053088d029a26cd65f775acb9a6cd4",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1624,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Sanatana Dharma Row: How Stalin Jr's remark sparked a political storm ahead of the 2024 elections",
+      "description": "Tamil Nadu Youth Welfare Minister Udhayanidhi Stalin had called for the eradication of Sanatana Dharma, alleging that it promotes inequality. He compared the Hindu religion to diseases such as malaria and dengue fever. The remarks have caused a political cont\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sanatana-dharma-row-how-stalin-jrs-remark-sparked-a-political-storm-ahead-of-the-2024-elections/articleshow/103351723.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103352005,width-1070,height-580,imgsize-48454,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-04 09:20:54",
+      "content": "Tamil Nadu Youth Welfare Minister, Udhayanidhi Stalin, on September 2 called for eradicating the Sanatana (meaning Hindu) Dharma, alleging that it is against equality and social justice. While taking\u2026 [+5683 chars]",
+      "retrievedAt": "2023-09-05 19:05:37.274689",
+      "internal_id": "2bb5039c9ec9a1a90bacbe5ff93837043e1b82fb88fa86244365cde93a8b237d",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1623,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Health alert: After dengue, infamous 'seven-day fever' is spreading fast in Kolkata, warn doctors",
+      "description": "Kolkata is currently experiencing a resurgence of the \"seven-day fever,\" a viral infection similar to dengue. Unlike previous outbreaks, this time patients are experiencing more severe symptoms such as high fever, intense body aches, muscle pain, nausea, and \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/health-alert-after-dengue-infamous-seven-day-fever-is-spreading-fast-in-kolkata-warn-doctors/articleshow/103352365.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103352818,width-1070,height-580,imgsize-2272090,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-04 08:59:30",
+      "content": "Kolkata is witnessing a resurgence of the infamous \"seven-day fever,\" a viral infection with symptoms strikingly similar to dengue. As per a TOI report, unlike its previous appearance, where low-grad\u2026 [+3345 chars]",
+      "retrievedAt": "2023-09-05 19:05:37.268860",
+      "internal_id": "21d4d3238008b9e831dd528f1cf179244e06c96641feebc940e0ef0153ef05d1",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1615,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thebulkheadseat.com",
+      "author": "The Bulkhead Seat",
+      "title": "Something New to Worry About? Dengue Fever Cases Pop Up in Italian Holiday Regions",
+      "description": "When you\u2019re trekking through the jungle, on safari, or camping far from civilization, worries\u2026 The post Something New to Worry About? Dengue Fever Cases Pop Up in Italian Holiday Regions appeared first on The Bulkhead Seat.",
+      "url": "https://thebulkheadseat.com/something-new-to-worry-about-dengue-fever-cases-pop-up-in-italian-holiday-regions/",
+      "urlToImage": "https://thebulkheadseat.com/wp-content/uploads/2023/09/iStock-1317059852-scaled.jpg",
+      "publishedAt": "2023-09-04 08:25:57",
+      "content": "5Advertiser Disclosure: The Bulkhead Seat earns an affiliate commission for anyone approved through the links below. This compensation may impact how and where links appear on this site. We work to p\u2026 [+1492 chars]",
+      "retrievedAt": "2023-09-05 19:05:37.243069",
+      "internal_id": "ee0440e372f1d23e1150c1b1741203159d2a85b1b8d39807dcfdafd7e29be7d1",
+      "publishedAtLabel": "Sep 4"
+    },
     {
       "id": 1613,
       "query": [
@@ -3345,295 +3635,6 @@
       "retrievedAt": "2023-08-29 07:05:40.950970",
       "internal_id": "b65f423ee7417d31d50d9198e8b6612a772a3a1b85821685551723c97df08496",
       "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1430,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Valneva Reports Positive Initial Phase 3 Safety Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate",
-      "description": "Saint-Herblain (France), August 28, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today reported positive initial Phase 3 safety data in adolescents for its single-dose chikungunya virus (CHIKV) vaccine candidate VLA1553.\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/08/28/2732286/0/en/Valneva-Reports-Positive-Initial-Phase-3-Safety-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine-Candidate.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-08-28 05:00:00",
-      "content": "Saint-Herblain (France), August28, 2023ValnevaSE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today reported positive initial Phase 3 safety data in adolescents for its single-do\u2026 [+11792 chars]",
-      "retrievedAt": "2023-08-29 07:05:40.953078",
-      "internal_id": "af3a5105719df5bb90702bb1f34d454817ec1eb30e93a2f1ce314ed549968998",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1431,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Valneva annonce de premi\u00e8res donn\u00e9es positives de Phase 3 concernant l\u2019innocuit\u00e9 de son candidat vaccin contre le chikungunya chez les adolescents",
-      "description": "Saint-Herblain (France), 28 ao\u00fbt 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd\u2019hui de premi\u00e8res donn\u00e9es positives de Phase 3 concernant l\u2019innocuit\u00e9, chez les adolescents, de son candidat vaccin \u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/08/28/2732286/0/fr/Valneva-annonce-de-premi%C3%A8res-donn%C3%A9es-positives-de-Phase-3-concernant-l-innocuit%C3%A9-de-son-candidat-vaccin-contre-le-chikungunya-chez-les-adolescents.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-08-28 05:00:00",
-      "content": "Saint-Herblain (France), 28 ao\u00fbt 2023ValnevaSE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourdhui de premi\u00e8res donn\u00e9es positives de Phase 3 concernant lin\u2026 [+13733 chars]",
-      "retrievedAt": "2023-08-29 07:05:40.954527",
-      "internal_id": "6ad089f9642824ebe11c03dbf74c537e05808be1665b32490d441feb5b91e024",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1428,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Reforma.com",
-      "author": "Jaime Ugarte",
-      "title": "Cruz Azul vence 2-1 a Rayados y logra su primer triunfo",
-      "description": "Cruz Azul sali\u00f3 del fondo de la tabla y sum\u00f3 su primer triunfo en el Apertura 2023 al vencer 2-1 a Rayados, que perdi\u00f3 su racha invicta.",
-      "url": "https://www.reforma.com/cruz-azul-vence-a-rayados-y-logra-primer-triunfo/ar2665056",
-      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/550/5549519.jpg&ang=0",
-      "publishedAt": "2023-08-28 04:19:26",
-      "content": "La M\u00e1quina se quit\u00f3 la malaria y gan\u00f3 su primer juego del Apertura 2023 en Monterrey, sumado a que es su primera victoria en el Estadio BBVA en Liga MX. Cr\u00e9dito: Mexsport Mois\u00e9s Vieira marc\u00f3 su prim\u2026 [+214 chars]",
-      "retrievedAt": "2023-08-29 07:05:40.555503",
-      "internal_id": "d482c41faa7d42b7ed03ebd07e5b8575d18f996f152fe11a4df05089f5b84e45",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1420,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "Secretar\u00eda de Salud del Atl\u00e1ntico realiza plan de choque contra el dengue",
-      "description": "En lo corrido de 2023 se han registrado 1.619 casos de dengue en los 22 municipios del Atl\u00e1ntico y por eso el llamado a la comunidad atlanticense es a consultar al m\u00e9dico cuando presente s\u00edntomas de dengue para evitar complicaciones de salud.",
-      "url": "https://www.eluniversal.com.co/regional/secretaria-de-salud-del-atlantico-realiza-plan-de-choque-contra-el-dengue-LJ8874397",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1053x686/127c0/800d686/none/13704/QFPL/el-mosquito-adedes-aeyepty_8348984_20230827120651.jpg",
-      "publishedAt": "2023-08-27 16:36:54",
-      "content": "En lo corrido de 2023 se han registrado 1.619 casos de dengue en los 22 municipios del Atl\u00e1ntico y por eso el llamado a la comunidad atlanticense es a consultar al m\u00e9dico cuando presente s\u00edntomas de \u2026 [+4292 chars]",
-      "retrievedAt": "2023-08-28 19:05:24.784542",
-      "internal_id": "ba0583636c819c6ce048235019d3dead8d0efd402d534baf4b68da0eadc2dfef",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1417,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Casos de dengue aumentam no Bangladesh e matam mais de 500 pessoas",
-      "description": "O Fundo das Na\u00e7\u00f5es Unidas para a Inf\u00e2ncia alertou para o aumento de casos de dengue entre crian\u00e7as no Bangladesh, provocando uma epidemia que j\u00e1 fez 537 mortos.",
-      "url": "https://observador.pt/2023/08/27/casos-de-dengue-aumentam-no-bangladesh-e-matam-mais-de-500-pessoas/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2303%3Anowe%3A0%3A214%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2021%2F12%2F17200516%2FGettyImages-1277294630-scaled.jpg",
-      "publishedAt": "2023-08-27 15:09:17",
-      "content": "O Fundo das Na\u00e7\u00f5es Unidas para a Inf\u00e2ncia (Unicef) alertou este domingo para o aumento de casos de dengue entre crian\u00e7as no Bangladesh, provocando uma epidemia que j\u00e1 fez 537 mortos. De acordo com u\u2026 [+1354 chars]",
-      "retrievedAt": "2023-08-28 19:05:24.770343",
-      "internal_id": "967088ca8299e00d59fcbb5337fcbcc45ca50a6e7e461d0d4565525e1dfa84c6",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1423,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09e7\u09e7 \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09e8\u09e9\u09e8\u09ed",
-      "description": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09e7\u09e7 \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09e8\u09e9\u09e8\u09edthedailystar.net",
-      "url": "https://bangla.thedailystar.net/health/disease/news-509191",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/02/dengue_5_1_1_1_1.jpg",
-      "publishedAt": "2023-08-27 13:48:20",
-      "content": "At least 11 more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease.",
-      "retrievedAt": "2023-08-28 19:05:24.790627",
-      "internal_id": "3f9099b586818ad0411d95118eb95ffaea075ef6ef627918b047d1f23a94a4ac",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1419,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Nuovo caso di Dengue a Bologna, una persona di ritorno da Panama",
-      "description": "Scatta la disinfestazione in una zona del centro (ANSA)",
-      "url": "https://www.ansa.it/emiliaromagna/notizie/2023/08/27/nuovo-caso-di-dengue-a-bologna-una-persona-di-ritorno-da-panama_2a2a9d0d-55d2-4208-afdd-9558fe2ef497.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/8/27/a63f8d7e3b7cbca8df7ceb247e553e41.jpg",
-      "publishedAt": "2023-08-27 13:22:22",
-      "content": "Nuovo caso importato di Dengue registrato a Bologna, in un giovane di ritorno da Panama. Il Comune, allertato al sospetto, si sta occupando della disinfestazione delle aree limitrofe all'abitazione d\u2026 [+850 chars]",
-      "retrievedAt": "2023-08-28 19:05:24.779981",
-      "internal_id": "f14f3dd047b605b80332c457719e80dc9a00e68c576f4d6cfb2a1060493262cd",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1422,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "\u09b6\u09be\u09b9 \u0986\u09b2\u09ae \u09b8\u09be\u099c\u09c1",
-      "title": "\u09e9-\u09ea \u09a6\u09bf\u09a8 \u09b6\u09c1\u099f\u09bf\u0982 \u0995\u09b0\u09c7 \u09b0\u09cb\u09a6\u09c7 \u09aa\u09c1\u09dc\u09c7 \u0995\u09df\u09b2\u09be \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09bf: \u09b0\u09c1\u09a8\u09be \u0996\u09be\u09a8",
-      "description": "\u2018\u09ac\u0995\u2019 \u09b8\u09bf\u09a8\u09c7\u09ae\u09be\u09b0 \u098f\u0995\u099f\u09bf \u09a6\u09c3\u09b6\u09cd\u09af \u09a7\u09be\u09b0\u09a3 \u0995\u09b0\u09a4\u09c7 \u0997\u09bf\u09df\u09c7 \u09b8\u0995\u09be\u09b2 \u09ef\u099f\u09be \u09a5\u09c7\u0995\u09c7 \u09a6\u09c1\u09aa\u09c1\u09b0 \u09e9\u099f\u09be \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4 \u099f\u09be\u09a8\u09be \u09aa\u09be\u09a8\u09bf\u09a4\u09c7 \u099b\u09bf\u09b2\u09be\u09ae\u0964",
-      "url": "https://bangla.thedailystar.net/entertainment/news-509181",
-      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/08/27/untitled_design_-_2023-08-27t185924.572.png",
-      "publishedAt": "2023-08-27 13:09:48",
-      "content": "At least 11 more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease.",
-      "retrievedAt": "2023-08-28 19:05:24.788096",
-      "internal_id": "95be974fc2356976cf5a447859fea82147c40db301aa66710a83cd7dbf7342f5",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1426,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Tinhte.vn",
-      "author": "no-reply@tinhte.vn (TTKM), TTKM",
-      "title": "[QC] Ng\u1ecdc Huy\u1ec1n v\u00e0 Zika hai c\u00f4 n\u00e0ng k\u1eb9o ng\u1ecdt c\u00f9ng chung d\u00f2ng xe \u01b0a th\u00edch",
-      "description": "H\u00f3a th\u00e2n th\u00e0nh nh\u1eefng \u201cc\u00f4 b\u1ea1n nh\u00e0 b\u00ean\u201d, Ng\u1ecdc Huy\u1ec1n v\u00e0 Zika si\u00eau ng\u1ecdt ng\u00e0o trong b\u1ed9 \u1ea3nh m\u1edbi nh\u1ea5t c\u00f9ng em x\u1ebf y\u00eau th\u00edch. Nguy\u1ec5n Ho\u00e0ng Ng\u1ecdc Huy\u1ec1n \u2013 di\u1ec5n vi\u00ean tr\u1ebb n\u1ed5i l\u00ean t\u1eeb phim \u201cGara H\u1ea1nh Ph\u00fac\u201d - s\u1edf h\u1eefu m\u1ed9t g\u01b0\u01a1ng m\u1eb7t v\u00f4 c\u00f9ng xinh \u0111\u1eb9p\u2026",
-      "url": "https://tinhte.vn/thread/qc-ngoc-huyen-va-zika-hai-co-nang-keo-ngot-cung-chung-dong-xe-ua-thich.3709001/",
-      "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/08/8098073_CV.jpg",
-      "publishedAt": "2023-08-27 13:06:31",
-      "content": "c bit, chic Yamaha Janus Trng Hng m\u00e0 Ngc Huyn v\u00e0 Zika s hu nm trong b su tp m\u00e0u mi ra mt ca nh\u00e0 Yamaha. Ngo\u00e0i ra, bn c\u00f3 th\u00eam nhiu la chn vi nhng t\u00f4ng m\u00e0u cc trendy kh\u00e1c nh en Hng, Xanh Cyan phi en, .\u2026 [+133 chars]",
-      "retrievedAt": "2023-08-28 19:05:25.887239",
-      "internal_id": "d43791c49584ba84e63461c189bea7fa4b7645d81e69f589f26bd1d7758077fd",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1421,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "Alerta por brote de dengue en m\u00e1s de 270 municipios de Colombia",
-      "description": "El Ministerio de Salud se mantiene en alerta frente al brote del dengue en varios departamentos del pa\u00eds, mientras alerta a la comunidad a reforzar acciones preventivas y de control, en donde los menores siguen siendo los m\u00e1s afectados.",
-      "url": "https://www.eluniversal.com.co/colombia/alerta-por-brote-de-dengue-en-mas-de-270-municipios-de-colombia-YK8873203",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/914x686/57c0/800d686/none/13704/DDYH/mosquito-transmisor-del-dengue-2_8347580_20230827081406.jpg",
-      "publishedAt": "2023-08-27 13:00:20",
-      "content": "El Ministerio de Salud se mantiene en alerta frente al brote del dengue en varios departamentos del pa\u00eds, mientras alerta a la comunidad a reforzar acciones preventivas y de control, en donde los men\u2026 [+2914 chars]",
-      "retrievedAt": "2023-08-28 19:05:24.786100",
-      "internal_id": "51ef044d7f091128eb4c729de6580b1023a40265833a39078a93232660063892",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1416,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Minist\u00e9rio da Sa\u00fade da Col\u00f4mbia alerta para surto de dengue em 274 munic\u00edpios",
-      "description": "O Minist\u00e9rio da Sa\u00fade da Col\u00f4mbia alertou para um surto de dengue em 274 munic\u00edpios de v\u00e1rios departamentos do pa\u00eds, onde os menores continuam a ser os mais afetados.",
-      "url": "https://observador.pt/2023/08/27/ministerio-da-saude-da-colombia-alerta-para-surto-de-dengue-em-274-municipios/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F06%2F22105618%2F40879854.jpg",
-      "publishedAt": "2023-08-27 12:15:58",
-      "content": "O Minist\u00e9rio da Sa\u00fade da Col\u00f4mbia alertou para um surto de dengue em 274 munic\u00edpios de v\u00e1rios departamentos do pa\u00eds, onde os menores continuam a ser os mais afetados, informou a ag\u00eancia de not\u00edcias C\u2026 [+737 chars]",
-      "retrievedAt": "2023-08-28 19:05:24.764696",
-      "internal_id": "f538de8651b28a291d98c0108db409cd10d5a8818abcc81e4defd7a9ebfa6e2e",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1425,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Lshtm.ac.uk",
-      "author": null,
-      "title": "Seasonal malaria vaccine-drug combo sees dramatic reductions at 5-year mark",
-      "description": "Giving young children the world\u2019s first malaria vaccine RTS,S/AS01E alongside antimalarial drugs before the rainy season has led to a significant reduction in life-threatening malaria cases and deaths for over five years, according to a landmark study.",
-      "url": "https://www.lshtm.ac.uk/newsevents/news/2023/seasonal-malaria-vaccine-drug-combination-sees-dramatic-reductions-five-year",
-      "urlToImage": "https://www.lshtm.ac.uk/sites/default/files/20230825-Brian%20Greenwood-vaccinetrial.png",
-      "publishedAt": "2023-08-27 09:58:21",
-      "content": "Giving young children the worlds first malaria vaccine RTS,S/AS01E alongside antimalarial drugs before the rainy season has led to a significant reduction in life-threatening malaria cases and deaths\u2026 [+2550 chars]",
-      "retrievedAt": "2023-08-28 19:05:25.562624",
-      "internal_id": "a44e4e118b0f680bbf4be9f841894cf32f02952ab470883584872ad73bad417f",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1424,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "India.com",
-      "author": "Pallavi Mehra",
-      "title": "Chronic Stress And Heart Health: Expert Explains Stress Management Techniques",
-      "description": "How To Protect Yourself From Dengue - 7 Precautionary Measures To Follow How Does Chronic Stress Impact Our Overall Health? Dr Bhasin explains, that chronic stress significantly affects overall health, particularly in the development of early heart issues. P\u2026",
-      "url": "https://zeenews.india.com/health/chronic-stress-and-heart-health-expert-explains-stress-management-techniques-2654197",
-      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/08/27/1270354-heartpain.jpg",
-      "publishedAt": "2023-08-27 08:04:29",
-      "content": "In our fast-paced world, the silent assailant of chronic stress has become an ever-present concern, with repercussions that extend beyond mental well-being. A growing body of research is shedding lig\u2026 [+5350 chars]",
-      "retrievedAt": "2023-08-28 19:05:24.792318",
-      "internal_id": "0793d543bb10f7b3ba6085d1b52ddb532cecabac909e3d11d57872e7749e51a2",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1418,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Piden reforzar prevenci\u00f3n contra el dengue",
-      "description": "En el D\u00eda Internacional contra el Dengue, diversas instancias sanitarias exhortaron a la poblaci\u00f3n, especialmente a quienes habitan zonas en que es end\u00e9mico, a reforzar medidas preventivas, puesto que en temporada de lluvias aumenta la reproducci\u00f3n del mosqui\u2026",
-      "url": "https://www.jornada.com.mx/2023/08/27/politica/011n2pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-08-27 07:56:13",
-      "content": "Peri\u00f3dico La JornadaDomingo 27 de agosto de 2023, p. 11 En el D\u00eda Internacional contra el Dengue, diversas instancias sanitarias exhortaron a la poblaci\u00f3n, especialmente a quienes habitan zonas en q\u2026 [+1564 chars]",
-      "retrievedAt": "2023-08-28 19:05:24.773881",
-      "internal_id": "014e8a9a7c91b824ee56a6f6e4a6e72f512925b8c79b13539d6fd409b8d4ba1c",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1412,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Elperiodico.com",
-      "author": "Beatriz P\u00e9rez",
-      "title": "C\u00f3mo combatir el mosquito tigre y prevenir el contagio de enfermedades",
-      "description": "Los mosquitos y las garrapatas act\u00faan como vectores de enfermedades tropicales como el dengue, el zika o la chikungu\u00f1a. Con las altas temperaturas, estos insectos proliferan m\u00e1s y el calentamiento global contribuye a que est\u00e9n presentes durante cada vez m\u00e1s m\u2026",
-      "url": "https://www.elperiodico.com/es/sanidad/20230827/combatir-mosquito-tigre-prevenir-contagio-enfermedades-91339030",
-      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/d8f52dd0-7f6a-43ab-aa6b-bb4142a14949_16-9-discover-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-08-27 05:01:38",
-      "content": "Los mosquitos y las garrapatas act\u00faan como vectores de enfermedades tropicales como el dengue, el zika o la chikungu\u00f1a. Con las altas temperaturas, estos insectos proliferan m\u00e1s y el calentamiento gl\u2026 [+3858 chars]",
-      "retrievedAt": "2023-08-28 07:05:55.368992",
-      "internal_id": "343336418067eb91822b77597a433fa62d18e6c49e0ad038ee03bb9d1b0772bb",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1413,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "El Ministerio de Salud de Colombia alerta de un brote de dengue que afecta a m\u00e1s de 270 municipios",
-      "description": "El Ministerio de Salud de Colombia ha alertado de un brote de dengue que afecta a 274 municipios de varios departamentos del pa\u00eds, donde los menores contin\u00faan siendo los m\u00e1s afectados, y ha hecho un llamamiento a la sociedad para forzar las acciones preventiv\u2026",
-      "url": "https://www.europapress.es/internacional/noticia-ministerio-salud-colombia-alerta-brote-dengue-afecta-mas-270-municipios-20230827042552.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230827042552_1200.jpg",
-      "publishedAt": "2023-08-27 02:25:52",
-      "content": "Los menores de 15 a\u00f1os son los m\u00e1s afectados por la enfermedad MADRID, 27 Ago. (EUROPA PRESS) - El Ministerio de Salud de Colombia ha alertado de un brote de dengue que afecta a 274 municipios d\u2026 [+1935 chars]",
-      "retrievedAt": "2023-08-28 07:05:55.372495",
-      "internal_id": "9c27ada87142511f9b4f46c3a2117ff90313d0b4da0b616782ffed3888d88425",
-      "publishedAtLabel": "Aug 27"
     }
   ]
 }
