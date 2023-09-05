@@ -1,8 +1,137 @@
 {
-  "last_updated": "2023-09-04 19:05",
+  "last_updated": "2023-09-05 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 1613,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Ing.dk",
+      "author": "Mie Stage",
+      "title": "Tigermyggen har kurs mod Danmark",
+      "description": "Frankrig har pt. store problemer med tigermyggen, og der bliver spr\u00f8jtet med forebyggende insektgift i tr\u00e6er og gr\u00f8nne omr\u00e5der. Tigermyggen kan nemlig sprede forskellige virusser, s\u00e5som zika og dengue, og den er med klimaforandringer og h\u00f8j rejseaktivitet ble\u2026",
+      "url": "https://ing.dk/note/tigermyggen-har-kurs-mod-danmark",
+      "urlToImage": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2013-04/aedes_albopictus_asiatisk_tigermyg_kilde_wiki.jpg?itok=NXv6cP77",
+      "publishedAt": "2023-09-04 06:36:42",
+      "content": "Frankrig har pt. store problemer med tigermyggen, og der bliver spr\u00f8jtet med forebyggende insektgift i tr\u00e6er og gr\u00f8nne omr\u00e5der. Tigermyggen kan nemlig sprede forskellige virusser, s\u00e5som zika og dengu\u2026 [+389 chars]",
+      "retrievedAt": "2023-09-05 07:05:41.610318",
+      "internal_id": "179749a454f50b824272a9110c0fa163f7f7de15c0d5b4c179c5b9b60726231f",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1610,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Redacci\u00f3n",
+      "title": "Vacuna vs. el dengue: \u00bfPor qu\u00e9 es peligrosa para ni\u00f1os de 9 a\u00f1os? Esto dice Cofepris",
+      "description": "La Cofepris emiti\u00f3 un comunicado para advertir del uso de la vacuna contra el dengue en menores de 9 a\u00f1os. Solicit\u00f3 al personal medico revisar los empaques del medicamento Dengvaxia.",
+      "url": "https://www.elfinanciero.com.mx/nacional/2023/09/04/vacuna-vs-el-dengue-por-que-es-peligrosa-para-ninos-de-9-anos-esto-dice-cofepris/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/yJaIsTbGcBazJkDJrYyykvkgoOU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FK76IRZPV5BU5DJOQNPIZVZCFI.jpg",
+      "publishedAt": "2023-09-04 06:17:02",
+      "content": "La Comisi\u00f3n Federal para la Protecci\u00f3n contra Riesgos Sanitarios (Cofepris) emiti\u00f3 un comunicado para alertar al personal m\u00e9dico general, enfermer\u00eda y pediatr\u00eda sobre el uso de la vacuna tetravalente\u2026 [+2027 chars]",
+      "retrievedAt": "2023-09-05 07:05:40.586256",
+      "internal_id": "8292600eb4733e3d3b7ff25b1e08fc8967f3d8256b2ad07d4151bf1aa4cddd17",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1609,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0930\u093e\u091c\u0940\u0935 \u0922\u094c\u0902\u0921\u093f\u092f\u093e\u0932",
+      "title": "\u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u092c\u092f\u093e\u0928 \u092a\u0930 \u0917\u0930\u094d\u092e\u093e\u0908 \u0938\u093f\u092f\u093e\u0938\u0924, \u0928\u0921\u094d\u0921\u093e-\u0936\u093e\u0939 \u0928\u0947 \u0915\u093f\u092f\u093e \u092a\u0932\u091f\u0935\u093e\u0930, \u0926\u0947\u0916\u0947\u0902 100 \u0936\u0939\u0930 100 \u0916\u092c\u0930",
+      "description": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u0915\u0947 \u0938\u0940\u090f\u092e \u0938\u094d\u091f\u093e\u0932\u093f\u0928 \u0915\u0947 \u092c\u0947\u091f\u0947 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0928\u0947 \u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u0915\u094b \u0921\u0947\u0902\u0917\u0942-\u092e\u0932\u0947\u0930\u093f\u092f\u093e-\u0915\u094b\u0930\u094b\u0928\u093e \u091c\u0948\u0938\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u092c\u0924\u093e \u0926\u093f\u092f\u093e. \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u0907\u0938 \u092c\u092f\u093e\u0928 \u092a\u0930 \u0938\u093e\u0927\u0941-\u0938\u0902\u0924\u094b\u0902 \u0928\u0947 \u0928\u093e\u0930\u093e\u091c\u0917\u0940 \u091c\u0924\u093e\u0908 \u0914\u0930 \u0938\u093f\u092f\u093e\u0938\u0940 \u0939\u092e\u0932\u093e \u092d\u0940 \u0924\u0947\u091c \u0939\u094b \u0917\u092f\u093e. \u0939\u093f\u0902\u0926\u0942 \u0938\u0947\u0928\u093e \u0928\u0947 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u0936\u093f\u0915\u093e\u092f\u0924 \u092d\u0940 \u0926\u0930\u094d\u091c \u0915\u0930\u093e\u0908 \u0939\u0948. \u0926\u0947\u0916\u0947\u0902 100 \u0936\u0939\u0930\u2026",
+      "url": "https://www.aajtak.in/programmes/100-shahar-100-khabar/video/controversy-after-sanatan-statement-of-udaynidhi-stalin-morning-updates-1771489-2023-09-04",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202309/controversy-after-sanatan-statement-of-udaynidhi-stalin-sixteen_nine.png",
+      "publishedAt": "2023-09-04 02:39:45",
+      "content": "-- . - . . 100 100 . Udhayanidhi, son of Tamil Nadu CM Stalin, described Sanatan Dharma as a disease like dengue-malaria-corona. Sages and saints expressed their displeasure over this statement of \u2026 [+53 chars]",
+      "retrievedAt": "2023-09-05 07:05:40.584394",
+      "internal_id": "a7fca5cf0c50d6404caed98e654e201619119d6876e7542a6d18030096eeca14",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1611,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Invasive species a growing and costly threat, key report to find",
+      "description": "From water hyacinth choking Lake Victoria in East Africa, to rats and brown snakes wiping out bird species in the Pacific, to mosquitoes exposing new regions to Zika, yellow fever, dengue and other diseases, tens of thousand of aliens species have taken root \u2026",
+      "url": "https://www.france24.com/en/live-news/20230904-invasive-species-a-growing-and-costly-threat-key-report-to-find-1",
+      "urlToImage": "https://s.france24.com/media/display/f3fe5bd4-4a20-11ee-9fb8-005056a90284/w:1280/p:16x9/29bc6c773920e6f7c86017b148fa00d0ceb162f7.jpg",
+      "publishedAt": "2023-09-04 01:49:11",
+      "content": "Paris (AFP) Invasive species that destroy forests, ravage crops and cause extinctions are a major and growing threat worldwide, a landmark UN-backed assessment is poised to report. From water hyacint\u2026 [+2511 chars]",
+      "retrievedAt": "2023-09-05 07:05:40.597392",
+      "internal_id": "4ec4b91f5e132870548fb7f7c773c0ed27c87d8dc1ef7923a5c5b085e42439fd",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1612,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Invasive species a growing and costly threat, key report to find",
+      "description": "From water hyacinth choking Lake Victoria in East Africa, to rats and brown snakes wiping out bird species in the Pacific, to mosquitoes exposing new regions to Zika, yellow fever, dengue and other diseases, tens of thousand of aliens species have taken root \u2026",
+      "url": "https://www.france24.com/en/live-news/20230904-invasive-species-a-growing-and-costly-threat-key-report-to-find",
+      "urlToImage": "https://s.france24.com/media/display/a17bd3c2-4ac6-11ee-9a63-005056bf30b7/w:1280/p:16x9/29bc6c773920e6f7c86017b148fa00d0ceb162f7.jpg",
+      "publishedAt": "2023-09-04 01:49:08",
+      "content": "Paris (AFP) Invasive species that destroy forests, ravage crops and cause extinctions are a major and growing threat worldwide, a landmark UN-backed assessment is poised to report. From water hyacint\u2026 [+2511 chars]",
+      "retrievedAt": "2023-09-05 07:05:41.606500",
+      "internal_id": "90076b3821de8a59c01e3d6cf9d42553f51f95fbf68737cb470eb0ef64e98104",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1608,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0930\u093e\u091c\u0940\u0935 \u0922\u094c\u0902\u0921\u093f\u092f\u093e\u0932",
+      "title": "\u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0938\u094d\u091f\u093e\u0932\u093f\u0928 \u0915\u0947 \u0935\u093f\u0935\u093e\u0926\u093f\u0924 \u092c\u092f\u093e\u0928 \u092a\u0930 \u0917\u0943\u0939 \u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0947 \u0915\u093f\u092f\u093e \u091c\u094b\u0930\u0926\u093e\u0930 \u092a\u0932\u091f\u0935\u093e\u0930, \u0926\u0947\u0916\u0947\u0902 \u0938\u0941\u092c\u0939 \u0915\u0940 \u0938\u093e\u0930\u0940 \u092c\u0921\u093c\u0940 \u0916\u092c\u0930\u0947\u0902",
+      "description": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u0915\u0947 \u0938\u0940\u090f\u092e \u0938\u094d\u091f\u093e\u0932\u093f\u0928 \u0915\u0947 \u092c\u0947\u091f\u0947 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0928\u0947 \u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u0915\u094b \u0921\u0947\u0902\u0917\u0942-\u092e\u0932\u0947\u0930\u093f\u092f\u093e-\u0915\u094b\u0930\u094b\u0928\u093e \u091c\u0948\u0938\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u092c\u0924\u093e \u0926\u093f\u092f\u093e. \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u0907\u0938 \u092c\u092f\u093e\u0928 \u092a\u0930 \u0938\u093e\u0927\u0941-\u0938\u0902\u0924\u094b\u0902 \u0928\u0947 \u0928\u093e\u0930\u093e\u091c\u0917\u0940 \u091c\u0924\u093e\u0908 \u0914\u0930 \u0938\u093f\u092f\u093e\u0938\u0940 \u0939\u092e\u0932\u093e \u092d\u0940 \u0924\u0947\u091c \u0939\u094b \u0917\u092f\u093e. \u0939\u093f\u0902\u0926\u0942 \u0938\u0947\u0928\u093e \u0928\u0947 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u0936\u093f\u0915\u093e\u092f\u0924 \u092d\u0940 \u0926\u0930\u094d\u091c \u0915\u0930\u093e\u0908 \u0939\u0948. \u0926\u0947\u0916\u0947\u0902 \u0938\u0941\u092c\u0939 \u0915\u0940\u2026",
+      "url": "https://www.aajtak.in/programmes/subah-subah/video/political-controversy-after-sanatan-statement-of-udaynidhi-stalin-morning-updates-1771480-2023-09-04",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202309/political_controversy_-sixteen_nine.png",
+      "publishedAt": "2023-09-04 01:39:22",
+      "content": "-- . - . . . Udhayanidhi, son of Tamil Nadu CM Stalin, described Sanatan Dharma as a disease like dengue-malaria-corona. Sages and saints expressed their displeasure over this statement of Udhayan\u2026 [+46 chars]",
+      "retrievedAt": "2023-09-05 07:05:40.582628",
+      "internal_id": "45d77978b145caaf8552a72124b467f07075b8b883dda670ac26031ef29ad304",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1607,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / LP",
+      "title": "Cofepris emite alerta de riesgo sobre vacuna contra el dengue",
+      "description": "Es riesgoso adquirir medicamentos a trav\u00e9s de redes sociales, plataformas de venta en l\u00ednea u otros sitios web no autorizados.",
+      "url": "https://aristeguinoticias.com/0309/mexico/cofepris-emite-alerta-de-riesgo-sobre-vacuna-contra-el-dengue/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2022/12/VACUNA.png",
+      "publishedAt": "2023-09-03 22:44:04",
+      "content": "La Comisi\u00f3n Federal para la Protecci\u00f3n contra Riesgos Sanitarios (Cofepris) ha emitido un importante Aviso de Riesgo dirigido a m\u00e9dicos generales, personal de enfermer\u00eda y pediatras, alertando sobre \u2026 [+1972 chars]",
+      "retrievedAt": "2023-09-05 07:05:40.576499",
+      "internal_id": "65addb1b2c098bacccd30d0ca145fc14f92264f506b84eed39057b94edf131df",
+      "publishedAtLabel": "Sep 3"
+    },
     {
       "id": 1602,
       "query": [
@@ -80,7 +209,8 @@
     {
       "id": 1601,
       "query": [
-        "malaria"
+        "malaria",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Aajtak.in",
@@ -3504,132 +3634,6 @@
       "retrievedAt": "2023-08-28 07:05:55.372495",
       "internal_id": "9c27ada87142511f9b4f46c3a2117ff90313d0b4da0b616782ffed3888d88425",
       "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1414,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Surge in dengue fever hits Bangladesh",
-      "description": "DHAKA: Health authorities in Bangladesh are wrestling with a surge in dengue fever cases as monsoon rains batter the densely populated country. According to a World Health Organization report issued this month, \u201cThe higher incidence of dengue is taking place \u2026",
-      "url": "https://english.khabarhub.com/2023/27/316048/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/08/Bangladesh_Dengue.jpg",
-      "publishedAt": "2023-08-27 01:15:50",
-      "content": "The dengue ward at Dhaka's Shaheed Suhrawardy Medical College and Hospital in Bangladesh. (Redwan Ahmed/VOA)DHAKA: Health authorities in Bangladesh are wrestling with a surge in dengue fever cases as\u2026 [+2078 chars]",
-      "retrievedAt": "2023-08-28 07:05:55.380896",
-      "internal_id": "110cd5bb6d330d363ba6c54a9081f6c8c1eee71cf3ec704e535564481cae1718",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1415,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Our Reporters",
-      "title": "How I lost sight to malaria, ruptured my urethra in accident \u2013 Ondo graduate",
-      "description": "Kareem Babatunde, a 30-year-old visually impaired graduate of Federal College of Education (Special) Oyo State, tells TOYOSI SANUSI how an accident that left him with a bulbar urethral stricture has changed his life How did you become visually impaired? I am \u2026",
-      "url": "https://punchng.com/how-i-lost-sight-to-malaria-ruptured-my-urethra-in-accident-ondo-graduate/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/08/26192543/KAREEM-BABATUNDE.jpg",
-      "publishedAt": "2023-08-27 00:02:15",
-      "content": "Kareem Babatunde, a 30-year-old visually impaired graduate of Federal College of Education (Special) Oyo State, tells TOYOSI SANUSI how an accident that left him with a bulbar urethral stricture has \u2026 [+8960 chars]",
-      "retrievedAt": "2023-08-28 07:05:56.340578",
-      "internal_id": "e8ba9940ed3c1eb365cdb5562ab8659fa6ec6634c2ef7200186ed3bdffb43982",
-      "publishedAtLabel": "Aug 27"
-    },
-    {
-      "id": 1411,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Move to fight back dengue",
-      "description": "SEGAMAT: Wolbachia-infected Aedes mosquitoes will be continuously released in stages via the Wolbachia Mosquito Release project in areas with increased dengue cases. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/08/27/move-to-fight-back-dengue",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-08-26 23:00:00",
-      "content": "Wolbachia-armed mosquitoes unleased in high-risk areas SEGAMAT: Wolbachia-infected Aedes mosquitoes will be continuously released in stages via the Wolbachia Mosquito Release project in areas with i\u2026 [+1970 chars]",
-      "retrievedAt": "2023-08-28 07:05:55.365808",
-      "internal_id": "25b552904e2d7eb3c7a3982fff0efb201fbb1a7019bceb01e9429a1029334d2d",
-      "publishedAtLabel": "Aug 26"
-    },
-    {
-      "id": 1410,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Jenny Cai and Iris Zhao",
-      "title": "Princess and Boombah had a 'long journey' to Australia, costing their owner $50,000. Here's why",
-      "description": "As Australia tries to control the risk of rabies from the importation of cats and dogs, these pet owners say the country's strict policy has cost them time, money and in one case, their dog's health.",
-      "url": "https://www.abc.net.au/news/2023-08-27/dog-owners-china-spend-time-and-money-to-import-pets-australia/102750436",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/b596c138b037c825ac808b4cfcefb97b?impolicy=wcms_crop_resize&cropH=704&cropW=1252&xPos=0&yPos=0&width=862&height=485",
-      "publishedAt": "2023-08-26 20:17:08",
-      "content": "Vicky Liu cried with happiness when she reunited with her two fluffy Pomeranian dogs, Princess and Boombah, at the gate of the quarantine centre in Melbourne. \"I'm very happy, it's just a huge reli\u2026 [+8411 chars]",
-      "retrievedAt": "2023-08-28 07:05:54.738769",
-      "internal_id": "75c7b66f904512c542f0ff9bc9e1bb4537fde11fb837bf3ec2a0f83aa42a844e",
-      "publishedAtLabel": "Aug 26"
-    },
-    {
-      "id": 1407,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "",
-      "title": "\u00a1No baje la guardia! Estas son las recomendaciones para prevenir el dengue",
-      "description": "Hoy, 26 de agosto, se conmemora el D\u00eda Mundial Contra el Dengue, una enfermedad transmitida por el mosquito Aedes Aegiptis, la cual registra hasta la semana epidemiol\u00f3gica 32 del 2023 un total de 67.944 casos en Colombia.",
-      "url": "https://www.eluniversal.com.co/cartagena/no-baje-la-guardia-estas-son-las-recomendaciones-para-prevenir-el-dengue-EN8870134",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1220x687/170c0/800d686/none/13704/XWTA/dengue_8343996_20230826115117.jpg",
-      "publishedAt": "2023-08-26 16:51:11",
-      "content": "Jos\u00e9 Saavedra, director del DADIS.El trabajo realizado por el ente sanitario en conjunto con otras entidades y l\u00edderes de las comunidades se ha reflejado en una disminuci\u00f3n en el n\u00famero de casos en l\u2026 [+1483 chars]",
-      "retrievedAt": "2023-08-27 19:05:16.074728",
-      "internal_id": "04df7211c3660256755ece62e8ec7f9c6fdcb0ac69ada79006b9ba1053417814",
-      "publishedAtLabel": "Aug 26"
-    },
-    {
-      "id": 1405,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "D\u00eda Internacional contra el Dengue: las recomendaciones del MSP para combatirlo",
-      "description": "El ministerio advirti\u00f3 que los s\u00edntomas se pueden confundir con la gripe, por lo que resalt\u00f3 la importancia de la consulta \u201ca tiempo\u201d.",
-      "url": "https://www.montevideo.com.uy/Salud/Dia-Internacional-contra-el-Dengue-las-recomendaciones-del-MSP-para-combatirlo-uc863748",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201404/_W933_80/443463.jpg",
-      "publishedAt": "2023-08-26 14:33:00",
-      "content": "Montevideo Portal Este 26 de agosto se celebra el D\u00eda Internacional contra el Dengue. En este marco, desde el Ministerio de Salud P\u00fablica (MSP) se busca promover acciones para prevenir y controla\u2026 [+2446 chars]",
-      "retrievedAt": "2023-08-27 19:05:16.063087",
-      "internal_id": "c51b36391f94dfe94bf37b6c4155a11645659908bdc30f5ff3503da22e4685cd",
-      "publishedAtLabel": "Aug 26"
-    },
-    {
-      "id": 1408,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Global News",
-      "author": "Katie Dangerfield",
-      "title": "Father who lost son to meningitis B urges parents to get kids vaccinated before school - National | Globalnews.ca",
-      "description": "Meningitis B, the most common and deadly strain of meningitis, is rare but can lead to severe and life-threatening complications when contracted.",
-      "url": "https://globalnews.ca/news/9895088/meningitis-b-vaccine-canada/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2023/08/Kai-Matthews-6.jpg?quality=85&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2023-08-26 14:05:10",
-      "content": "More than two years after his 19-year-old son died suddenly from meningitis B, Norrie Matthews is urging parents to get their children vaccinated against the disease before the start of the school ye\u2026 [+10706 chars]",
-      "retrievedAt": "2023-08-27 19:05:16.475777",
-      "internal_id": "08cba82283113c67e685cada97565257f99441dcf7401efc8e75a00a4199d4ae",
-      "publishedAtLabel": "Aug 26"
     }
   ]
 }
