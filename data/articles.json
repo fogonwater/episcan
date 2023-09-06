@@ -1,8 +1,351 @@
 {
-  "last_updated": "2023-09-06 07:05",
+  "last_updated": "2023-09-06 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 1639,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "Dengue: cu\u00e1ndo llegar\u00e1 a la Argentina la vacuna japonesa y qui\u00e9nes podr\u00e1n aplic\u00e1rsela",
+      "description": "La inmunizaci\u00f3n del laboratorio Takeda protege contra cualquiera de los cuatro tipos de esta enfermedad",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-cuando-llegara-a-la-argentina-la-vacuna-japonesa-y-quienes-podran-aplicarsela-nid05092023/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/este-ano-el-brote-de-dengue-genero-mas-de-130000-O462LEZ5CFEG5KF2BFXTFMLRPM.jpg?auth=4a5493de0136b4da0928c93072dd6b2b1da7c63a4639d6d7550b4bb3adee1af2&width=768&quality=70&smart=false",
+      "publishedAt": "2023-09-05 18:55:07",
+      "content": "La vacuna contra el dengue, el virus que transmite el mosquito Aedes aegypti que este a\u00f1o gener\u00f3 un brote de m\u00e1s de 130.000 casos y 65 muertes en el pa\u00eds, llegar\u00e1 a la Argentina entre los \u00faltimos d\u00eda\u2026 [+5466 chars]",
+      "retrievedAt": "2023-09-06 19:05:29.530485",
+      "internal_id": "d59e543c334246f262cf22d650f54d590aba923614486ea051c01fa6f162fa38",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1643,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Maharashtratimes.com",
+      "author": null,
+      "title": "\u091a\u093f\u0902\u0924\u093e\u091c\u0928\u0915! \u0928\u093e\u0936\u093f\u0915 \u0921\u0947\u0902\u0917\u094d\u092f\u0942\u091a\u093e \u0939\u0949\u091f\u0938\u094d\u092a\u0949\u091f; \u0930\u093e\u091c\u094d\u092f\u093e\u091a\u094d\u092f\u093e \u0906\u0930\u094b\u0917\u094d\u092f \u0935\u093f\u092d\u093e\u0917\u093e\u0915\u0921\u0942\u0928 \u0917\u0902\u092d\u0940\u0930 \u0926\u0916\u0932, \u0928\u0947\u092e\u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u0940 \u0915\u093e\u092f?",
+      "description": "Dengue Patient : \u0917\u0947\u0932\u094d\u092f\u093e \u0935\u0930\u094d\u0937\u0940\u091a\u094d\u092f\u093e \u0924\u0941\u0932\u0928\u0947\u0924 \u092a\u093e\u090a\u0938 \u0915\u092e\u0940 \u0905\u0938\u0924\u093e\u0928\u093e\u0939\u0940 \u0936\u0939\u0930\u093e\u0924\u0940\u0932 \u0930\u0941\u0917\u094d\u0923\u0938\u0902\u0916\u094d\u092f\u0947\u0924 \u092e\u093e\u0924\u094d\u0930 \u0935\u093e\u0922 \u0939\u094b\u0924 \u0905\u0938\u0932\u094d\u092f\u093e\u0928\u0947 \u0906\u0930\u094b\u0917\u094d\u092f \u0935\u093f\u092d\u093e\u0917 '\u0905\u0945\u0932\u0930\u094d\u091f \u092e\u094b\u0921'\u0935\u0930 \u0906\u0932\u093e \u0906\u0939\u0947. \u092a\u0930\u0902\u0924\u0941 \u0905\u0936\u093e\u0924\u091a \u090f\u0915 \u0905\u091c\u092c \u0926\u093e\u0935\u093e\u0939\u0940 \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u093e \u0906\u0939\u0947.",
+      "url": "https://maharashtratimes.com/maharashtra/nashik/nashik-dengue-hotspot-the-state-health-department-took-serious-notice/articleshow/103405614.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-32322,msid-103405627/maharashtra-times.jpg",
+      "publishedAt": "2023-09-05 18:16:52",
+      "content": ". . , : . '' . , . . . . , . . . . , .. . . . ' ' , . . . . . . . Devendra Fadnavis : ? . . , . , . , . . , . ... - - - - - - - - - ' ' - ... - - - - - - - - \u2026 [+17 chars]",
+      "retrievedAt": "2023-09-06 19:05:29.544806",
+      "internal_id": "65d841fc7a2b39b369fb6439267f9e34ecde681ceb39f5aa207cc5daeb9dfdbb",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1637,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Pilar Arias",
+      "title": "Rabid bats found in Utah, prompting warning from health officials",
+      "description": "Salt Lake County Health Department is reminding people to avoid contact with bats after two found have tested positive for the infectious viral disease rabies.",
+      "url": "https://www.foxnews.com/us/rabid-bats-found-uttah-prompting-warning-health-officials",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/bat-utah-2.jpg",
+      "publishedAt": "2023-09-05 17:59:37",
+      "content": "Health officials issued a warning after two bats in Salt Lake County, Utah, tested positive for rabies and hundreds infiltrated a school. One bat was found Aug. 26 at 1000 West and 6970 South in Mid\u2026 [+1989 chars]",
+      "retrievedAt": "2023-09-06 19:05:28.213095",
+      "internal_id": "fafa5fb1d6928ed59e5532f054af9de53597d1cde8089f7827c938e2cea35b33",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1636,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Ghaziabad Teen Hides Dog Bite From Parents, Dies Of Rabies A Month Later",
+      "description": "A 14-year-old boy who was bitten by a dog over a month ago and hid the incident from his parents died of rabies here, police said on Tuesday.",
+      "url": "https://www.ndtv.com/india-news/14-year-old-dies-of-rabies-a-month-after-dog-bite-in-ghaziabad-4363159",
+      "urlToImage": "https://i.ndtvimg.com/i/2018-05/stray-dogs-generic_650x400_71525256961.jpg",
+      "publishedAt": "2023-09-05 17:51:40",
+      "content": "The boy hid the dog bite incident from parents out of fear. (Representational) Ghaziabad: A 14-year-old boy who was bitten by a dog over a month ago and hid the incident from his parents died of rab\u2026 [+1186 chars]",
+      "retrievedAt": "2023-09-06 19:05:28.206181",
+      "internal_id": "b26bfa57c43c92dec9c6c4e82af94f30c9a9467bff6bac4ed72a08b38e64b13e",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1653,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "New study shows effectiveness of mpox vaccine",
+      "description": "A new international study has shown mpox (formerly known as monkeypox) infections to be less severe among those who are vaccinated or had a previous infection in 2022, underlining the importance and effectiveness of vaccination.",
+      "url": "https://www.sciencedaily.com/releases/2023/09/230905124929.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-09-05 16:49:29",
+      "content": "A new international study led by Queen Mary University of London has shown mpox (formerly known as monkeypox) infections to be less severe among those who are vaccinated or had a previous infection i\u2026 [+2999 chars]",
+      "retrievedAt": "2023-09-06 19:05:31.810130",
+      "internal_id": "c295e484451167e02fd315fc3419465bb6153aa577b64e72d30b80a3c8d80176",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1646,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Guia do Estudante",
+      "title": "Dengue: transmiss\u00e3o, sintomas, tratamento e preven\u00e7\u00e3o. Leia aqui",
+      "description": "A OMS declarou que a dengue possa virar uma \"amea\u00e7a pand\u00eamica\" em 2023. Entenda aqui tudo sobre essa doen\u00e7a, velha conhecida dos brasileiros",
+      "url": "https://guiadoestudante.abril.com.br/estudo/dengue-transmissao-sintomas-tratamento-e-prevencao-leia-aqui/",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/09/05/93121088-untitled-design-22.png",
+      "publishedAt": "2023-09-05 16:44:09",
+      "content": "Hoje, a dengue \u00e9 a doen\u00e7a tropical que mais se espalha no mundo e representa uma \"amea\u00e7a pand\u00eamica\", segundo a Organiza\u00e7\u00e3o Mundial da Sa\u00fade ( OMS). A organiza\u00e7\u00e3o fez um comunicado recente alertando \u2026 [+7331 chars]",
+      "retrievedAt": "2023-09-06 19:05:29.556086",
+      "internal_id": "182a2a9bdcd723062a7e80c7b993bf8a3d4a3de59f3b8772cb6308ca315921d2",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1647,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Dr. Dave Campbell, Contributor, \n Dr. Dave Campbell, Contributor\n https://www.forbes.com/sites/davecampbell/",
+      "title": "Bipartisan Lifesaving AIDS Relief Plan At Risk Due to Pro-Life Opposition",
+      "description": "PEPFAR also targets tuberculosis and malaria, and funding restrictions could allow these diseases to gain a foothold.",
+      "url": "https://www.forbes.com/sites/davecampbell/2023/09/05/bipartisan-lifesaving-aids-relief-plan-at-risk-due-to-pro-life-opposition/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64f752c4d2e2fd9dd61e813e/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-09-05 16:37:38",
+      "content": "Dr. Dave Campbell US President George W. Bush in Abuja, Nigeria. AFP PHOTO TIM SLOAN (Photo credit should read ... [+] TIM SLOAN/AFP via Getty Images) AFP via Getty Images The United States Presid\u2026 [+6131 chars]",
+      "retrievedAt": "2023-09-06 19:05:30.616209",
+      "internal_id": "5d07edf10305cf8944b32d1afcb078567a6b8d3c6bd38baaab8461944f3e8838",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1642,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "\u00daltimas noticias y \u00faltima hora de hoy martes, 5, septiembre 2023 en sociedad",
+      "description": "Si quieres estar al d\u00eda de todas las novedades informativas de hoy, ABC pone a disposici\u00f3n de los lectores un resumen con los mejores titulares del martes, 5 de septiembre que no te puedes perder, como estos: Un menor en Reus, primer caso de dengue aut\u00f3cto\u2026",
+      "url": "https://www.abc.es/ultimas-noticias/abci-noticia-ultima-hora-martes-05-09-2023-sociedad-202309051700_noticia.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2023/09/05/dengue-RtOouxuCuvun6akHwnfhMhP-758x531@abc.jpg",
+      "publishedAt": "2023-09-05 15:00:34",
+      "content": "Tu mensaje se ha enviado con \u00e9xito Muchas gracias por tu participaci\u00f3n",
+      "retrievedAt": "2023-09-06 19:05:29.539149",
+      "internal_id": "677896098e1af7eadbfe7ee872e8135b8ce7fbc5dcacb84b710ab4a1e8a54123",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1648,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "2 Cases Of Zika Virus Detected In Mumbai",
+      "description": "A second case of Zika virus has been found in Mumbai, the Brihanmumbai Municipal Corporation (BMC) said on Tuesday. The first case was reported on August 23.",
+      "url": "https://www.ndtv.com/mumbai-news/2-cases-of-zika-virus-detected-in-mumbai-4362622",
+      "urlToImage": "https://c.ndtvimg.com/2018-10/hd49pvno_zika-virus-_625x300_10_October_18.jpg",
+      "publishedAt": "2023-09-05 14:56:34",
+      "content": "No need to panic, Zika infection is a \"self-limiting disease\", said Mumbai civic body (Representational) Mumbai: A second case of Zika virus has been found in Mumbai, the Brihanmumbai Municipal Corp\u2026 [+1172 chars]",
+      "retrievedAt": "2023-09-06 19:05:31.056007",
+      "internal_id": "af04aab62c70d8c02cc1c7d01dbf28b11645f5fcccdeff98cf123a8fd3cde606",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1650,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "Mumbai reports second Zika case; 15-year-old girl in hospital and stable: BMC",
+      "description": "A second case of Zika virus has been found in Mumbai.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-reports-second-zika-case-15-year-old-girl-in-hospital-and-stable-bmc/articleshow/103402869.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103402841,width-1070,height-580,imgsize-16048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-05 14:45:55",
+      "content": "79-year-old Mumbai's first Zika patient, recovered fullyThe first case of Zika virus infection in the city was confirmed by the BMC on Wednesday. The patient is a 79-year-old man from Chembur who has\u2026 [+25 chars]",
+      "retrievedAt": "2023-09-06 19:05:31.064372",
+      "internal_id": "fad5b28fca42a3c1184048e95b1158152f0eb47ea22fa5e4ba0f52ff21111c87",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1649,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Mumbai reports second Zika case; 15-year-old girl in hospital and stable: BMC",
+      "description": "The girl, who had other comorbidities, complained of fever and headache since August 20 and received treatment from a private hospital, the release said. She was on Tuesday shifted to a government hospital where her condition is stable, the corporation said.",
+      "url": "https://economictimes.indiatimes.com/news/india/mumbai-reports-second-zika-case-15-year-old-girl-in-hospital-and-stable-bmc/articleshow/103402223.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103402223,width-1070,height-580,imgsize-23034,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-05 14:15:34",
+      "content": "A second case of Zika virus has been found in Mumbai, the Brihanmumbai Municipal Corporation (BMC) said on Tuesday. The first case was reported on August 23. The second patient is a 15-year-old girl \u2026 [+1032 chars]",
+      "retrievedAt": "2023-09-06 19:05:31.060084",
+      "internal_id": "95bf7af0fdea8672f73dbed4cb5744bb37bb3d88a1a9b0e7abb6aee0a113e1fd",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1638,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Ricarda Dieckmann",
+      "title": "Dengue-Fieber droht auch in Europa",
+      "description": "Mindestens sieben Menschen haben sich am Gardasee in Norditalien mit Dengue infiziert. L\u00e4ngst kann man sich mit dieser Infektionskrankheit nicht nur in tropischen L\u00e4ndern anstecken. Wichtig ist der richtige Schutz bei Reisen in Risikogebiete.",
+      "url": "https://www.welt.de/wissenschaft/article247308206/Dengue-Fieber-Diese-Infektionskrankheit-droht-auch-in-Europa.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile247308204/5801359407-ci16x9-w1200/Was-Reisende-ueber-das-Dengue-Fieber-wissen-sollten.jpg",
+      "publishedAt": "2023-09-05 13:41:04",
+      "content": "M\u00fcckenarten, die das Dengue-Fieber \u00fcbertragen k\u00f6nnen, gibt es in allen tropischen Regionen in Asien, S\u00fcdamerika und Afrika. Doch auch in Europa k\u00f6nnen M\u00fccken Menschen damit infizieren. In diesen Tage\u2026 [+3073 chars]",
+      "retrievedAt": "2023-09-06 19:05:29.527835",
+      "internal_id": "267ba68cc9a63183f3f370a9b30aa2b94713d70000af8e9a35e4310a50448860",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1641,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Republica.com",
+      "author": "Rep\u00fablica/EFE",
+      "title": "Un ni\u00f1o en Reus, primer caso de dengue aut\u00f3ctono en Catalu\u00f1a en cuatro a\u00f1os",
+      "description": "Un ni\u00f1o que ingres\u00f3 con fiebre en el Hospital de Sant Joan de D\u00e9u de Reus (Tarragona) y que ya ha sido dado de alta es el primer caso en cuatro a\u00f1os de dengue aut\u00f3ctono en Catalu\u00f1a, ha informado el Departamento de Salud de la Generalitat. El dengue es una enf\u2026",
+      "url": "https://www.republica.com/ciencia-y-tecnologia/un-nino-en-reus-primer-caso-de-dengue-autoctono-en-cataluna-en-cuatro-anos-20230905-14311960866/",
+      "urlToImage": "https://www.republica.com/wp-content/uploads/2023/06/Mosquito.jpg",
+      "publishedAt": "2023-09-05 12:31:15",
+      "content": "Un ni\u00f1o que ingres\u00f3 con fiebre en el Hospital de Sant Joan de D\u00e9u de Reus (Tarragona) y que ya ha sido dado de alta es el primer caso en cuatro a\u00f1os de dengue aut\u00f3ctono en Catalu\u00f1a, ha informado el D\u2026 [+2423 chars]",
+      "retrievedAt": "2023-09-06 19:05:29.536738",
+      "internal_id": "06aa59cae2b68f1312c821500da67095d332ba58bd0b4202e0c02e150faa1ae5",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1640,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Silke H\u00fcmmer",
+      "title": "Tropeninfektion am Gardasee - Fieber nach dem Urlaub? Es k\u00f6nnte Dengue sein",
+      "description": "Was genau ist das Dengue-Fieber, wie gef\u00e4hrlich kann das werden und kann das auch zu uns kommen?",
+      "url": "https://www.bild.de/ratgeber/2023/ratgeber/tropeninfektion-jetzt-auch-am-gardasee-fieber-nach-dem-urlaub-es-koennte-dengue-85300068.bild.html",
+      "urlToImage": "https://images.bild.de/64f6ea137a4df45ab5a2a71c/71fc647eae8885fbcb247975f8c1e2fb,a174fc64?w=1280",
+      "publishedAt": "2023-09-05 12:18:40",
+      "content": "J\u00e4hrlich gibt es in Deutschland mehrere 100 bis \u00fcber 1000 Dengue-Infizierte. Sie haben das gef\u00e4hrliche Fieber zumeist aus tropischen Regionen in Asien, S\u00fcdamerika und Afrika mit nach Hause gebracht. \u2026 [+3501 chars]",
+      "retrievedAt": "2023-09-06 19:05:29.533504",
+      "internal_id": "c00df26cd23cd1acf19e4abe622c88787ec145bdfaf463d7190a050ba16a5ddb",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1652,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Post Reporters",
+      "title": "BMA grapples with mpox surge",
+      "description": "The Bangkok Metropolitan Administration (BMA) is offering monkeypox (mpox) treatment and prevention consultations at clinics after a sharp rise in the number of cases of the disease.",
+      "url": "https://www.bangkokpost.com/thailand/general/2641930/bma-grapples-with-mpox-surge",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20230905/c1_2641930_700.jpg",
+      "publishedAt": "2023-09-05 10:54:00",
+      "content": "The Bangkok Metropolitan Administration (BMA) is offering monkeypox (mpox) treatment and prevention consultations at clinics after a sharp rise in the number of cases of the disease. Eighty monkeypo\u2026 [+3351 chars]",
+      "retrievedAt": "2023-09-06 19:05:31.806873",
+      "internal_id": "d7eb04ef3fe9bfac4aeb3b3d40044d094fcd1b0cb46d247e81173defdec8062a",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1654,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Post Reporters",
+      "title": "BMA grapples with monkeypox surge",
+      "description": "The Bangkok Metropolitan Administration (BMA) is offering monkeypox (mpox) treatment and prevention consultations at clinics after a sharp rise in the number of cases of the disease.",
+      "url": "https://www.bangkokpost.com/thailand/general/2641930/bangkok-metropolitan-administration-bma-grapples-with-monkeypox-surge",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20230905/c1_2641930_700.jpg",
+      "publishedAt": "2023-09-05 10:54:00",
+      "content": "The Bangkok Metropolitan Administration (BMA) is offering monkeypox (mpox) treatment and prevention consultations at clinics after a sharp rise in the number of cases of the disease. Eighty monkeypo\u2026 [+3351 chars]",
+      "retrievedAt": "2023-09-06 19:05:31.811828",
+      "internal_id": "dc42e84c36abc1075de61796a7abc8524e2effe4d73131e1518d008fccf4d711",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1644,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "El Peri\u00f3dico",
+      "title": "Mosquito tigre: c\u00f3mo distinguirlo y consejos para evitarlo",
+      "description": "Los mosquitos suelen aparecer en esta \u00e9poca del a\u00f1o con el aumento de las temperaturas. Estos insectos son conocidos por sus picaduras, pero tambi\u00e9n por ser transmisores de enfermedades alrededor del mundo como: la malaria, el virus del Dengue, la fiebre amar\u2026",
+      "url": "https://www.elperiodico.com/es/sociedad/20230905/mosquito-tigre-distinguirlo-consejos-evitarlo-89049333",
+      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/f62ceae5-868f-484e-952f-cd82fb4f678b_16-9-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-09-05 09:40:00",
+      "content": "Los mosquitos suelen aparecer en esta \u00e9poca del a\u00f1o con el aumento de las temperaturas. Estos insectos son conocidos por sus picaduras, pero tambi\u00e9n por ser transmisores de enfermedades alrededor del\u2026 [+2800 chars]",
+      "retrievedAt": "2023-09-06 19:05:29.549958",
+      "internal_id": "a3eb3c34c9848ce6d81862493aa44bc0ac7f5b5b4e954f502b54232f0003f555",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1651,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Beatriz P\u00e9rez",
+      "title": "C\u00f3mo combatir el mosquito tigre y prevenir el contagio de enfermedades",
+      "description": "Los mosquitos y las garrapatas act\u00faan como vectores de enfermedades tropicales como el dengue, el zika o la chikungu\u00f1a. Con las altas temperaturas, estos insectos proliferan m\u00e1s y el calentamiento global contribuye a que est\u00e9n presentes durante cada vez m\u00e1s m\u2026",
+      "url": "https://www.elperiodico.com/es/sanidad/20230905/combatir-mosquito-tigre-prevenir-contagio-enfermedades-91339030",
+      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/d8f52dd0-7f6a-43ab-aa6b-bb4142a14949_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-09-05 09:30:00",
+      "content": "Los mosquitos y las garrapatas act\u00faan como vectores de enfermedades tropicales como el dengue, el zika o la chikungu\u00f1a. Con las altas temperaturas, estos insectos proliferan m\u00e1s y el calentamiento gl\u2026 [+3858 chars]",
+      "retrievedAt": "2023-09-06 19:05:31.068986",
+      "internal_id": "e58d58b5146bf6a7b6284b1c559940a4c04011900c5abc7f2da30c4f0adb8577",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1645,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Dengue cases increase threefold in Johor",
+      "description": "JOHOR BARU: The number of cumulative dengue cases in Johor has increased in epidemiology week 35 (ME35), with 6,896 cases this year compared with 1,965 cases in the corresponding 2022 period. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/09/05/dengue-cases-increase-threefold-in-johor",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/05/2268605.jpg",
+      "publishedAt": "2023-09-05 08:32:00",
+      "content": "JOHOR BARU: The number of cumulative dengue cases in Johor has increased in epidemiology week 35 (ME35), with 6,896 cases this year compared with 1,965 cases in the corresponding 2022 period. State \u2026 [+1897 chars]",
+      "retrievedAt": "2023-09-06 19:05:29.553093",
+      "internal_id": "1142bb33f74256382726b71646a8dc687bdeab6a3ae38f3f5caccbcae1890134",
+      "publishedAtLabel": "Sep 5"
+    },
     {
       "id": 1635,
       "query": [
@@ -3295,348 +3638,6 @@
       "retrievedAt": "2023-08-30 07:05:55.088333",
       "internal_id": "c56e32b2f51d53e6b0753bc3434ecabfc01ae26060ca98a755c0ad0808f90d89",
       "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1449,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Elmercurio.com.ec",
-      "author": "CMV",
-      "title": "Nicaragua reporta 3.638 casos sospechosos de dengue y 235 casos confirmados en una semana",
-      "description": "Nicaragua registr\u00f3 3.638 casos sospechosos de dengue y 235 casos confirmados en la \u00faltima semana, mientras la enfermedad sigue expandi\u00e9ndose por el pa\u00eds, seg\u00fan un informe del Ministerio de Salud divulgado este lunes en Managua. \u00abTuvimos 3.638 casos sospechoso\u2026",
-      "url": "https://elmercurio.com.ec/2023/08/28/nicaragua-reporta-3-638-casos-sospechosos-de-dengue-y-235-casos-confirmados-en-una-semana/",
-      "urlToImage": null,
-      "publishedAt": "2023-08-28 20:29:42",
-      "content": "Nicaragua registr\u00f3 3.638 casos sospechosos de dengue y 235 casos confirmados en la \u00faltima semana, mientras la enfermedad sigue expandi\u00e9ndose por el pa\u00eds, seg\u00fan un informe del Ministerio de Salud divu\u2026 [+2117 chars]",
-      "retrievedAt": "2023-08-30 07:05:54.113963",
-      "internal_id": "397a651f957d687ee68fddbabf76d3a316234f149ac2ed31c3575b3604e7db9e",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1452,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "New approach to fighting malaria",
-      "description": "Findings can open up new avenues for targeted approaches toward therapeutic strategies against the malaria-causing P. falciparum that are aimed at stopping the parasite's life cycle progression and its sexual differentiation, thus blocking the transmission of\u2026",
-      "url": "https://www.sciencedaily.com/releases/2023/08/230828162349.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-08-28 20:23:49",
-      "content": "The mosquito-borne infectious disease malaria resulted in about 241 million clinical episodes and 627,000 deaths in 2020. In young children and pregnant women living in areas where the disease is end\u2026 [+2373 chars]",
-      "retrievedAt": "2023-08-30 07:05:55.083591",
-      "internal_id": "b22597975f6fe265e55a0fd36ca84391ef2c2efb72a3996881d82c8cb16f61e4",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1455,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Iqbal Pittalwala",
-      "title": "For a new approach to fighting malaria, study focuses on special RNA molecules in human malaria parasite",
-      "description": "The mosquito-borne infectious disease malaria resulted in about 241 million clinical episodes and 627,000 deaths in 2020. In young children and pregnant women living in areas where the disease is endemic, a major cause of death is Plasmodium falciparum, the m\u2026",
-      "url": "https://phys.org/news/2023-08-approach-malaria-focuses-special-rna.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/monoclonal-antibody-pr.jpg",
-      "publishedAt": "2023-08-28 19:25:03",
-      "content": "The mosquito-borne infectious disease malaria resulted in about 241 million clinical episodes and 627,000 deaths in 2020. In young children and pregnant women living in areas where the disease is end\u2026 [+3045 chars]",
-      "retrievedAt": "2023-08-30 07:05:55.094659",
-      "internal_id": "21e6a1b7c4ea96c4cd579b6111aa6df7611c29b6e85ce9e220ff9db5dfe008b0",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1540,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Important Updates on Locally Acquired Malaria Cases Identified in Florida, Texas, and Maryland - Health Alert Network (HAN) No. 496",
-      "description": "The Centers for Disease Control and Prevention (CDC) is issuing this Health Alert Network (HAN) Health Update to share new information with clinicians, public health authorities, and the public about locally acquired malaria cases identified in the United Sta\u2026",
-      "url": "https://emergency.cdc.gov/han/2023/han00496.asp",
-      "urlToImage": null,
-      "publishedAt": "2023-08-28 19:15:00",
-      "content": "Distributed via the CDC Health Alert NetworkAugust 28, 2023, 2:15 PM ETCDCHAN-00496Summary The Centers for Disease Control and Prevention (CDC) is issuing this Health Alert Network (HAN) Health Upda\u2026 [+15082 chars]",
-      "retrievedAt": "2023-09-01 19:05:25.311763",
-      "internal_id": "e374ff069dca67cf4eea6a4d7540cf7d74c8e759cb2ebbba5f3b8b310fac1585",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1515,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Survivalblog.com",
-      "author": "James Wesley Rawles",
-      "title": "The Editors\u2019 Quote of the Day:",
-      "description": "\u201cWe\u2019re told cars cause pollution. A hundred years ago city streets were ankle-deep in horse excrement. What kind of pollution do you want? Would you rather die of cancer at eighty or typhoid fever at nine?\u201d \u2013 P. J. O\u2019Rourke The post The Editors\u2019 Quote of the \u2026",
-      "url": "https://survivalblog.com/2023/08/30/editors-quote-day-2245/",
-      "urlToImage": "https://survivalblog.com/wp-content/uploads/2022/02/P.J.ORourke.jpg",
-      "publishedAt": "2023-08-28 17:49:09",
-      "content": "A $3/month subscription. That\u2019s only $0.10/day for some of the finest Survival/Prepping content around! \u2014-A One-Time Donation (You choose the amount): \u2014- A $5 Dollar bill, a 5 Euro bill, a few Pr\u2026 [+264 chars]",
-      "retrievedAt": "2023-09-01 15:22:04.114889",
-      "internal_id": "f3d4ddbe21089704fd123365bd7a5a06457ac4affd77cabfbe873278515c772e",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1439,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clicrbs.com.br",
-      "author": null,
-      "title": "Ap\u00f3s mais de 30 anos, Dengue, do \"Xou da Xuxa\", reaparece na TV",
-      "description": "Ex-assistente de palco de Xuxa Meneghel participou do \"Doming\u00e3o\"",
-      "url": "http://diariogaucho.clicrbs.com.br/rs/entretenimento/noticia/2023/08/apos-mais-de-30-anos-dengue-do-xou-da-xuxa-reaparece-na-tv-32313363.html",
-      "urlToImage": "http://diariogaucho.rbsdirect.com.br/imagesrc/43670612.jpg?w=600",
-      "publishedAt": "2023-08-28 16:56:44",
-      "content": "Uma sess\u00e3o de nostalgia fez parte da reestreia do quadro Acredite em Quem Quiser, do Doming\u00e3o, apresentado por Luciano Huck, no domingo (27), e repercutiu na web. Depois de mais de 30 anos longe da T\u2026 [+2421 chars]",
-      "retrievedAt": "2023-08-29 19:05:28.119802",
-      "internal_id": "f4f7437cf0a061a621d2f9281b1dc8a9f398c5888f1c778f4a1d3452a47f648a",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1446,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Hindustan Times",
-      "author": "Parmita Uniyal",
-      "title": "Dengue prevention diet: Foods to eat and avoid for boosting immunity",
-      "description": "Give a boost to your immune system by including seasonal foods, drinking plenty of fluids and avoiding roadside food. Here are expert tips to prevent dengue. | Health",
-      "url": "https://www.hindustantimes.com/lifestyle/health/dengue-prevention-diet-foods-to-eat-and-avoid-for-boosting-immunity-and-preventing-infection-101693235040793.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/28/1600x900/dengue_diet_1693235240697_1693235253081.jpg",
-      "publishedAt": "2023-08-28 15:32:14",
-      "content": "Dengue cases have been increasing at an exponential rate this year across the country due to incessant rains, waterlogging and floods. It is important to build immunity against the disease by doing r\u2026 [+5546 chars]",
-      "retrievedAt": "2023-08-29 19:05:28.133356",
-      "internal_id": "efc5dd0d6a03e2df513d89fdab249021f459e6569b30b9d36ae21961918ee972",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1436,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Sociedade Brasileira de Pediatria recomenda nova vacina da dengue para crian\u00e7as e adolescentes",
-      "description": "A Sociedade Brasileira de Pediatria (SBP) publicou um documento cient\u00edfico recomendando a vacina ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/sociedade-brasileira-de-pediatria-recomenda-nova-vacina-da-dengue-para-criancas-e-adolescentes,4fb0f226e9c044c60237062d168b487au8udtmph.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/08/28/1723035330-gwaucdxknrccpidrflch7nxiim.jpg",
-      "publishedAt": "2023-08-28 14:06:53",
-      "content": "A Sociedade Brasileira de Pediatria (SBP) publicou um documento cient\u00edfico recomendando a vacina contra a dengue produzida pelo laborat\u00f3rio japon\u00eas Takeda como escolha preferencial para imunizar cria\u2026 [+2589 chars]",
-      "retrievedAt": "2023-08-29 19:05:28.113404",
-      "internal_id": "bfb7b8df00227a629f76ba3d93de465b38bf8eb6fc45590ceaea5246db89d5dd",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1437,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Adam D. Wegman, Mitchell J. Waldran, Lauren E. Bahr, Joseph Q. Lu, Kristen E. Baxter, Stephen J. Thomas, Adam T. Waickman",
-      "title": "DENV-specific IgA contributes protective and non-pathologic function during antibody-dependent enhancement of DENV infection",
-      "description": "Author summary Dengue virus is a widespread and growing public health challenge, causing an estimated 100 million symptomatic infections every year. A unique feature of dengue is that sub-neutralizing levels of virion-specific antibodies generated by a prior \u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011616",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011616.g005&size=inline",
-      "publishedAt": "2023-08-28 14:00:00",
-      "content": "Abstract Dengue represents a growing public health burden worldwide, accounting for approximately 100 million symptomatic cases and tens of thousands of fatalities yearly. Prior infection with one s\u2026 [+55761 chars]",
-      "retrievedAt": "2023-08-29 19:05:28.114913",
-      "internal_id": "7e54a4acae4b9eede4b2fe78f00635b6738fc2727f69ea07dc4c3e01fcc93133",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1450,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "UNICEF delivers medical supplies, support among children in Bangladesh",
-      "description": "With more than 21,000 cases of dengue reported among children under the age of 15, UNICEF is intensifying its support to the efforts of the Government of Bangladesh to contain the dengue outbreak in the country. To protect children and to respond to the publi\u2026",
-      "url": "https://sylhetmirror.com/2023/08/28/unicef-delivers-medical-supplies-support-among-children-in-bangladesh/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/t54t65y.jpg",
-      "publishedAt": "2023-08-28 13:49:02",
-      "content": "With more than 21,000 cases of dengue reported among children under the age of 15, UNICEF is intensifying its support to the efforts of the Government of Bangladesh to contain the dengue outbreak in \u2026 [+2391 chars]",
-      "retrievedAt": "2023-08-30 07:05:54.131593",
-      "internal_id": "44a93568b25bae17c0cccbd8b8f0ed641193e12e23e4f3e61d2f456bc48a6493",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1435,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Euronews",
-      "author": null,
-      "title": "Wolbachia: the wonder bug that could prevent mosquitoes spreading dengue fever",
-      "description": "Honduras is the latest country to try beating the tropical disease by releasing lab-grown mosquitoes infected with the bacteria.",
-      "url": "https://www.euronews.com/2023/08/28/wolbachia-the-wonder-bug-that-could-prevent-mosquitoes-spreading-dengue-fever",
-      "urlToImage": "https://static.euronews.com/articles/stories/07/85/22/72/1000x563_cmsv2_ee06fe3e-3f41-50ac-8216-dc91b656b707-7852272.jpg",
-      "publishedAt": "2023-08-28 13:34:09",
-      "content": "Honduras is the latest country to try beating the tropical disease by releasing lab-grown mosquitoes infected with the bacteria. The government of Honduras is to release lab-grown mosquitoes that h\u2026 [+2162 chars]",
-      "retrievedAt": "2023-08-29 19:05:28.105547",
-      "internal_id": "a5031b0e13e048086e99795e7939c1dcbd295636c1270af7b48cde979e899cc6",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1438,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "20 Minutes avec agence (20 Minutes)",
-      "title": "Moustique tigre: Ces communes qui sont envahies en Seine-et-Marne",
-      "description": "Pour l'heure, les seuls cas de dengue signal\u00e9s \u00e9taient des cas import\u00e9s",
-      "url": "https://www.20minutes.fr/sante/4050477-20230828-moustique-tigre-communes-envahies-seine-marne",
-      "urlToImage": "https://img.20mn.fr/8bN98DGHQLio1MaEUUc6cik/1200x768_moustique_tigre_un_cas_de_dengue_detecte_dans_les_hauts_de_seine1",
-      "publishedAt": "2023-08-28 13:24:04",
-      "content": "D\u00e9tect\u00e9 pour la premi\u00e8re fois en Seine-et-Marne en 2018 \u00e0 Brie-Comte-Robert, le moustique tigre continue son d\u00e9veloppement partout en France et dans le d\u00e9partement, rapporte La R\u00e9publique de Seine-et\u2026 [+1025 chars]",
-      "retrievedAt": "2023-08-29 19:05:28.118334",
-      "internal_id": "c74e0f4b92edd73d5735fc706898c5b1f41ffca6df51bbcd2f041776b083d5d5",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1447,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09ee \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09e8\u09e9\u09e9\u09e7",
-      "description": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09df \u09ee \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09e8\u09e9\u09e9\u09e7thedailystar.net",
-      "url": "https://bangla.thedailystar.net/health/disease/news-509481",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/08/19/dengue_5_1_1_1_1.jpg",
-      "publishedAt": "2023-08-28 12:29:05",
-      "content": "At least eight more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
-      "retrievedAt": "2023-08-29 19:05:28.135470",
-      "internal_id": "0a822023f4cdc6827e7616d96624c3d31bd1f1930e6794bc3de887f9144ceefc",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1445,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Sun",
-      "author": "Isabel Shaw",
-      "title": "Holidaymakers at risk after killer dengue fever is detected at tourist hotspot",
-      "description": "HOLIDAYMAKERS heading across the channel this summer have been warned of an outbreak of killer bug. Four cases of Dengue fever have been detected in Italy in August. Three of the infections were fr\u2026",
-      "url": "https://www.thesun.co.uk/health/23678942/dengue-italy-holiday-warning/",
-      "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2023/08/dangerous-zika-infected-mosquito-skin-831320189.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-      "publishedAt": "2023-08-28 12:26:45",
-      "content": "HOLIDAYMAKERS heading across the channel this summer have been warned of an outbreak of killer bug. Four cases of Dengue fever have been detected in Italy in August. Four cases of Dengue fever have\u2026 [+3261 chars]",
-      "retrievedAt": "2023-08-29 19:05:28.130723",
-      "internal_id": "fdbcd05f6629f25eeccd444d36949b4b2d4e6221490317699ed90f9009ef3df8",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1442,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u0986\u0997\u09be\u09ae\u09c0\u0995\u09be\u09b2 \u09ac\u09bf\u0995\u09c7\u09b2 \u09ea\u099f\u09be\u09df \u09aa\u09cd\u09b0\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0\u09b0 \u09b8\u0982\u09ac\u09be\u09a6 \u09b8\u09ae\u09cd\u09ae\u09c7\u09b2\u09a8",
-      "description": "\u09e7\u09eb\u09a4\u09ae \u09ac\u09cd\u09b0\u09bf\u0995\u09b8 \u09b8\u09ae\u09cd\u09ae\u09c7\u09b2\u09a8\u09c7 \u09af\u09cb\u0997 \u09a6\u09bf\u09a4\u09c7 \u09e8\u09e8 \u0986\u0997\u09b8\u09cd\u099f \u09b0\u09be\u09a4\u09c7 \u099c\u09cb\u09b9\u09be\u09a8\u09c7\u09b8\u09ac\u09be\u09b0\u09cd\u0997\u09c7 \u09aa\u09cc\u0981\u099b\u09be\u09a8 \u09aa\u09cd\u09b0\u09a7\u09be\u09a8\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0\u0964",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/news-509446",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/uploads/2023/08/28/untitled_design_-_2023-08-28t172144.782.png",
-      "publishedAt": "2023-08-28 11:20:41",
-      "content": "With four days shy of the month-end, August has seen a higher number of dengue cases than all of last year.",
-      "retrievedAt": "2023-08-29 19:05:28.126579",
-      "internal_id": "8a26f918b5f568a3ebc0f250b81575378e889e5c0a621e2bfd5fa4342db29d3f",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1432,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "GERARD GIMINO",
-      "title": "Free TDAP vaccines to be given to expectant mothers in bid to prevent spread of Pertussis, says Health Ministry",
-      "description": "PETALING JAYA: A Tetanus, Diphtheria and Acellular Pertussis (TDAP) vaccine rollout for all pregnant women, including non-citizens, is being planned for implementation in 2024, says the Health Ministry. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/08/28/free-tdap-vaccines-to-be-given-to-expectant-mothers-in-bid-to-prevent-spread-of-pertussis-says-health-ministry",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/28/2254858.jpg",
-      "publishedAt": "2023-08-28 09:19:00",
-      "content": "PETALING JAYA: A Tetanus, Diphtheria and Acellular Pertussis (TDAP) vaccine rollout for all pregnant women, including non-citizens, is being planned for implementation in 2024, says the Health Minist\u2026 [+2371 chars]",
-      "retrievedAt": "2023-08-29 19:05:26.775939",
-      "internal_id": "dbf5da5612c0d8641bbb00275654640f88876c48476a65b4627458fdc347e811",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1433,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Fransiskus Salu Weking, Cindy Frishanti Octavia",
-      "title": "West Papua implements steps to prevent rabies transmission",
-      "description": "The Livestock and Animal Health Service of West Papua Province implements steps to prevent rabies transmission despite no increase in the number of cases of the disease in the area. Head of the Livestock and Animal Health ...",
-      "url": "https://en.antaranews.com/news/292173/west-papua-implements-steps-to-prevent-rabies-transmission",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/08/28/IMG-20230828-WA0013.jpg",
-      "publishedAt": "2023-08-28 09:11:02",
-      "content": "Manokwari (ANTARA) - The Livestock and Animal Health Service of West Papua Province implements steps to prevent rabies transmission despite no increase in the number of cases of the disease in the ar\u2026 [+2449 chars]",
-      "retrievedAt": "2023-08-29 19:05:27.001691",
-      "internal_id": "80bf9a53bc88edc6a8fd360f2b0a172069ca6830e82c0a03a39d67e3478b486e",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1441,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09a1\u09be\u09ac \u0995\u09c7\u09a8\u09be-\u09ac\u09c7\u099a\u09be\u09b0 \u09aa\u09be\u0995\u09be \u09ad\u09be\u0989\u099a\u09be\u09b0 \u09b0\u09be\u0996\u09a4\u09c7 \u09b9\u09ac\u09c7: \u09ad\u09cb\u0995\u09cd\u09a4\u09be \u0985\u09a7\u09bf\u09a6\u09aa\u09cd\u09a4\u09b0",
-      "description": "\u09a1\u09be\u09ac \u0995\u09c7\u09a8\u09be-\u09ac\u09c7\u099a\u09be\u09b0 \u09aa\u09be\u0995\u09be \u09ad\u09be\u0989\u099a\u09be\u09b0 \u09b0\u09be\u0996\u09a4\u09c7 \u09b9\u09ac\u09c7: \u09ad\u09cb\u0995\u09cd\u09a4\u09be \u0985\u09a7\u09bf\u09a6\u09aa\u09cd\u09a4\u09b0thedailystar.net",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/news-509391",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/uploads/2023/08/28/untitled_design_-_2023-08-28t145218.183.png",
-      "publishedAt": "2023-08-28 09:08:55",
-      "content": "With four days shy of the month-end, August has seen a higher number of dengue cases than all of last year.",
-      "retrievedAt": "2023-08-29 19:05:28.125460",
-      "internal_id": "f8b4694f0a73667f192b0bc8b9df12da8abd17f07ecf7f32070ac719166f4451",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1443,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09ac\u09cd\u09b0\u09be\u09b9\u09cd\u09ae\u09a3\u09ac\u09be\u09a1\u09bc\u09bf\u09af\u09bc\u09be\u09af\u09bc \u09ad\u09cb\u099f\u09be\u09b0 \u09ac\u09c7\u09a1\u09bc\u09c7\u099b\u09c7 \u09ea \u09b2\u09be\u0996",
-      "description": "\u09ad\u09cb\u099f\u09be\u09b0 \u09b8\u0982\u0996\u09cd\u09af\u09be \u09e8\u09e9 \u09b2\u09be\u0996 \u09ed\u09e6 \u09b9\u09be\u099c\u09be\u09b0 \u09ed\u09e7\u09ea\u0964 \u098f\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u09aa\u09c1\u09b0\u09c1\u09b7 \u09ad\u09cb\u099f\u09be\u09b0 \u09e7\u09e8 \u09b2\u09be\u0996 \u09e9\u09e7 \u09b9\u09be\u099c\u09be\u09b0 \u09ee\u09ed\u09ed \u099c\u09a8 \u098f\u09ac\u0982 \u09a8\u09be\u09b0\u09c0 \u09ad\u09cb\u099f\u09be\u09b0 \u09e7\u09e7 \u09b2\u09be\u0996 \u09e9\u09ee \u09b9\u09be\u099c\u09be\u09b0 \u09ee\u09e8\u09ef\u0964",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/election/news-509381",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/28/370571715_635669571967101_51660321429576513_n.jpg?itok=4Ly-Jjud",
-      "publishedAt": "2023-08-28 09:08:51",
-      "content": "With four days shy of the month-end, August has seen a higher number of dengue cases than all of last year.",
-      "retrievedAt": "2023-08-29 19:05:28.127836",
-      "internal_id": "72e8aee0198d91c1883916f5e55590e8b32e27b6c2bbab730c0375003b32cd9b",
-      "publishedAtLabel": "Aug 28"
     }
   ]
 }
