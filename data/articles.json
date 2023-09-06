@@ -1,8 +1,100 @@
 {
-  "last_updated": "2023-09-05 19:05",
+  "last_updated": "2023-09-06 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 16,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 1635,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041c\u0438\u0445\u0430\u0438\u043b \u041f\u043e\u0434\u0440\u0435\u0437\u043e\u0432",
+      "title": "\u0427\u0435\u0440\u043d\u0430\u044f \u0441\u043c\u0435\u0440\u0442\u044c \u043f\u0440\u0438\u0432\u0435\u043b\u0430 \u043a \u0438\u0437\u0431\u044b\u0442\u043e\u0447\u043d\u043e\u0439 \u0441\u043c\u0435\u0440\u0442\u043d\u043e\u0441\u0442\u0438 \u0441\u0440\u0435\u0434\u0438 \u043c\u043e\u043b\u043e\u0434\u0435\u0436\u0438 \u0425\u0435\u0440\u0435\u0444\u043e\u0440\u0434\u0430",
+      "description": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043b\u0438 \u043e\u0441\u0442\u0430\u043d\u043a\u0438 177 \u0441\u0440\u0435\u0434\u043d\u0435\u0432\u0435\u043a\u043e\u0432\u044b\u0445 \u043b\u044e\u0434\u0435\u0439, \u0440\u0430\u0441\u043a\u043e\u043f\u0430\u043d\u043d\u044b\u0435 \u0432 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c \u0433\u043e\u0440\u043e\u0434\u0435 \u0425\u0435\u0440\u0435\u0444\u043e\u0440\u0434. \u041e\u043d\u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438, \u0447\u0442\u043e \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445, \u0441\u0442\u0430\u0432\u0448\u0438\u0445 \u0436\u0435\u0440\u0442\u0432\u0430\u043c\u0438 \u0447\u0443\u043c\u044b \u0438 \u043f\u043e\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u043d\u044b\u0445 \u0432 \u043a\u043e\u043b\u043b\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f\u0445, \u0443\u043c\u0435\u0440\u043b\u0438 \u0432 \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0435 \u043e\u0442 15 \u0434\u043e 35 \u043b\u0435\u0442. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c, \u0441\u0440\u2026",
+      "url": "https://nplus1.ru/news/2023/09/05/black-death-in-england",
+      "urlToImage": "https://minio.nplus1.ru/app-images/829632/64f6900617083_cover_share.jpeg",
+      "publishedAt": "2023-09-05 06:32:00",
+      "content": "177 , . , , , 15 35 . , , 15 25 . , American Journal of Biological Anthropology, 34,2 , 18,3 . , Yersinia pestis, (Xenopsylla cheopsis). . , \u00ab \u00bb . -, \u2026 [+469 chars]",
+      "retrievedAt": "2023-09-06 07:05:47.442516",
+      "internal_id": "443214117c41e2768650a528539ce6924f4b4e30eb3e1c173ea3d95b761d8fa2",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1631,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Sanatan Dharma remark row: Security heightened at Udhayanidhi Stalin's residence in Chennai",
+      "description": "Earlier Udyanidhi Stalin had come under severe criticism since he mentioned on Saturday that Sanatan Dharma should not merely be opposed but eradicated. \"Few things cannot be opposed, they should only be abolished. We can't oppose Dengue, mosquitoes, Malaria,\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sanatan-dharma-remark-row-security-heightened-at-udhayanidhis-residence-in-chennai/articleshow/103381687.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103381733,width-1070,height-580,imgsize-24948,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-05 06:26:45",
+      "content": "A day after receiving a death threat regarding his 'Sanatana Dharma should be eradicated' remark, security has been tightened outside the residence of Tamil Nadu Minister Udhayanidhi Stalin in Chenna\u2026 [+2143 chars]",
+      "retrievedAt": "2023-09-06 07:05:44.998150",
+      "internal_id": "1d53998732746682b7e8c541110c193546d2552070db1261049854dafee9c483",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1634,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Jaroslav Zbo\u017e\u00ednek",
+      "title": "Pa\u0159\u00ed\u017e poprv\u00e9 vyt\u00e1hla do boje proti kom\u00e1rovi tygrovan\u00e9mu",
+      "description": "Francouzsk\u00e1 metropole Pa\u0159\u00ed\u017e poprv\u00e9 v historii ude\u0159ila proti kom\u00e1r\u016fm, kte\u0159\u00ed p\u0159en\u00e1\u0161ej\u00ed tropick\u00e9 nemoci jako hore\u010dku dengue, \u017elutou zimnici nebo virus zika. V noci ze st\u0159edy na \u010dtvrtek provedla rozs\u00e1hlou dezinfekci v \u010d\u00e1sti 13. obvodu v ji\u017en\u00ed \u010d\u00e1sti m\u011bsta.",
+      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-pariz-poprve-vytahla-do-boje-proti-komarovi-tygrovanemu-40442316",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_QO_BC/dJ4zA/komar-tygrovany-komar.jpeg?fl=cro,0,66,1800,1012%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2023-09-05 04:38:47",
+      "content": "Podle televizn\u00ed stanice BFM TV byla sanit\u00e1rn\u00ed akce zamena hlavn na kom\u00e1ra tygrovan\u00e9ho. \u00daady uzavely nkter\u00e9 silnice a vyzvaly obyvatele pilehl\u00fdch dom, aby nevych\u00e1zeli. Pracovn\u00edci dezinfekn\u00ed sluby mezi\u2026 [+2048 chars]",
+      "retrievedAt": "2023-09-06 07:05:46.190017",
+      "internal_id": "0b36eff6f32e3059ac47ad394c374bf16dd11f1c66c17086c6120428a8e61dc7",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1632,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "What is \"Jivet Sharada Shatam\"?",
+      "description": "\u200bThis Sanskrit phrase translates to \"May you live for 100 autumns\". Mostly elders bless the young ones on their birthdays with this phrase. Let's understand the significance of this text.\u200b",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/web-stories/jivet-sharada-shatam-why-elders-traditionally-blessed-for-longevity-in-autumn/photostory/103362021.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103362434,imgsize-551553,width-900,height-1200,resizemode-6/103362434.jpg",
+      "publishedAt": "2023-09-05 03:30:00",
+      "content": "During this season, several illnesses like fever, digestive problem, dengue, malaria, etc. spread at a faster rate.",
+      "retrievedAt": "2023-09-06 07:05:44.999825",
+      "internal_id": "ee91e16de3afee0804702ad238f95f48b14a8d554a0251efe388bc34a432a1ec",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1630,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Redaktion",
+      "title": "Reisewarnung: Dengue-Fieber am Gardasee: Was Urlauber jetzt wissen m\u00fcssen",
+      "description": "Am Gardasee wurden mehrere F\u00e4lle von Dengue-Fieber gemeldet. Das Ausw\u00e4rtige Abend hat seine Reisehinweise daraufhin aktualisiert.",
+      "url": "https://www.morgenpost.de/vermischtes/article239369775/dengue-fieber-gardasee-italien-schutz-tipps.html",
+      "urlToImage": "https://img.morgenpost.de/img/vermischtes/crop235981855/3812609438-w820-cv16_9-q85/7432c410-0bf8-11ed-99cb-91ed38d7c799.jpg",
+      "publishedAt": "2023-09-04 19:17:56",
+      "content": "Vor allem in tropischen Regionen k\u00f6nnen Urlauber auf M\u00fcckenarten treffen, die das Dengue-Fieber \u00fcbertragen. Doch auch in Europa k\u00f6nnen M\u00fccken Menschen damit infizieren. Mehrere F\u00e4lle sind nun am Gard\u2026 [+3300 chars]",
+      "retrievedAt": "2023-09-06 07:05:44.986104",
+      "internal_id": "335f5fc5bb2b0ed9d9cf82392f989a08b2132027ed7446520b29d0a85fb21b63",
+      "publishedAtLabel": "Sep 4"
+    },
     {
       "id": 1626,
       "query": [
@@ -218,6 +310,24 @@
       "content": "The Department of Disease Control is concerned about the rise in mpox cases, or monkeypox, in Thailand, especially the growth in infections among young people. DDC director-general Tares Krassanaira\u2026 [+1840 chars]",
       "retrievedAt": "2023-09-05 19:05:39.329435",
       "internal_id": "5d21bcb6150add311f6e357623d6ffa1be772cf72660eed82a055744e4e08937",
+      "publishedAtLabel": "Sep 4"
+    },
+    {
+      "id": 1633,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Getty Images",
+      "title": "Increasing cases of dengue: Signs to look out for",
+      "description": "A persistent fever of more than 100.4 F may indicate dengue symptoms. It includes skin bruising, blood in the urine, and blood in the stool, and is also known as the seven-day fever. Continual high fever",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/increasing-cases-of-dengue-signs-to-look-out-for/continual-high-fever/slideshow/103356503.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-103356503,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-04 10:17:14",
+      "content": "04 Sep 2023, 03:47 PM IST A persistent fever of more than 100.4 F may indicate dengue symptoms. It includes skin bruising, blood in the urine, and blood in the stool, and is also known as the seven-\u2026 [+1006 chars]",
+      "retrievedAt": "2023-09-06 07:05:45.002906",
+      "internal_id": "eb274ba9172717756ca105d5492ec69ca33b65877f5db4c7a9ce9619d49f0f88",
       "publishedAtLabel": "Sep 4"
     },
     {
@@ -3526,114 +3636,6 @@
       "content": "With four days shy of the month-end, August has seen a higher number of dengue cases than all of last year.",
       "retrievedAt": "2023-08-29 19:05:28.127836",
       "internal_id": "72e8aee0198d91c1883916f5e55590e8b32e27b6c2bbab730c0375003b32cd9b",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1444,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u0986\u09ab\u0997\u09be\u09a8 \u09a8\u09be\u09b0\u09c0 \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0\u09a6\u09c7\u09b0 \u09ac\u09c3\u09a4\u09cd\u09a4\u09bf \u09a8\u09bf\u09df\u09c7 \u09ac\u09bf\u09a6\u09c7\u09b6\u09c7 \u09af\u09c7\u09a4\u09c7 \u09a4\u09be\u09b2\u09c7\u09ac\u09be\u09a8 \u09a8\u09bf\u09b7\u09c7\u09a7\u09be\u099c\u09cd\u099e\u09be",
-      "description": "\u09e8\u09e6\u09e8\u09e8 \u098f\u09b0 \u09a1\u09bf\u09b8\u09c7\u09ae\u09cd\u09ac\u09b0\u09c7 \u0986\u09b0\u09ac \u0986\u09ae\u09bf\u09b0\u09be\u09a4\u09c7\u09b0 \u09a7\u09a8\u0995\u09c1\u09ac\u09c7\u09b0 \u09b6\u09c7\u0996 \u0996\u09be\u09b2\u09be\u09ab \u0986\u09b9\u09ae\u09be\u09a6 \u0986\u09b2 \u09b9\u09be\u09ac\u09a4\u09c1\u09b0\u09c7\u09b0 \u09aa\u09c3\u09b7\u09cd\u09a0\u09aa\u09cb\u09b7\u0995\u09a4\u09be\u09df \u098f\u0987 \u09ac\u09c3\u09a4\u09cd\u09a4\u09bf \u099a\u09be\u09b2\u09c1 \u0995\u09b0\u09c7 \u09a6\u09c1\u09ac\u09be\u0987 \u09ac\u09bf\u09b6\u09cd\u09ac\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df\u0964 \u09ac\u09bf\u09ac\u09bf\u09b8\u09bf\u09b0 \u09ae\u09a4\u09c7, \u098f\u0996\u09a8 \u09aa\u09b0\u09cd\u09af\u09a8\u09cd\u09a4 \u09aa\u09cd\u09b0\u09be\u09df \u09e7\u09e6\u09e6 \u0986\u09ab\u0997\u09be\u09a8 \u09a8\u09be\u09b0\u09c0 \u098f\u0987 \u09ac\u09c3\u09a4\u09cd\u09a4\u09bf \u09aa\u09c7\u09df\u09c7\u099b\u09c7\u09a8\u0964 \u09a6\u09c7\u09b6\u09c7\u09b0 \u09ac\u09be\u0987\u09b0\u09c7 \u09a5\u09be\u0995\u09be \u0995\u09bf\u099b\u09c1 \u0986\u09ab\u0997\u09be\u09a8 \u09a8\u09be\u09b0\u09c0 \u0987\u09a4\u09cb\u09ae\u09a7\u09cd\u09af\u09c7 \u09a6\u09c1\u09ac\u09be\u0987\u09a4\u09c7 \u09aa\u09cc\u0981\u099b\u09c7\u099b\u09c7\u09a8\u0964",
-      "url": "https://bangla.thedailystar.net/news/asia/south-asia/news-509371",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/28/kabul.jpg",
-      "publishedAt": "2023-08-28 09:08:51",
-      "content": "With four days shy of the month-end, August has seen a higher number of dengue cases than all of last year.",
-      "retrievedAt": "2023-08-29 19:05:28.128948",
-      "internal_id": "4a8dfc0beec4cacd63926c4c264d7868502c0f2ecc3ec04497240f2f04dfd693",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1448,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "S\u00e9n\u00e9gal: Campagne de pr\u00c3\u00a9vention suite \u00c3 l'apparition de cas de chikungunya",
-      "description": "[RFI] Au S\u00e9n\u00e9gal, une \u00e9pid\u00e9mie de chikungunya a \u00e9t\u00e9 signal\u00e9e, courant ao\u00fbt, avec 112 cas confirm\u00e9s, dans les trois d\u00e9partements de la r\u00e9gion de K\u00e9dougou, au sud du pays.",
-      "url": "https://fr.allafrica.com/stories/202308280118.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-08-28 08:45:24",
-      "content": "Au S\u00e9n\u00e9gal, une \u00e9pid\u00e9mie de chikungunya a \u00e9t\u00e9 signal\u00e9e, courant ao\u00fbt, avec 112 cas confirm\u00e9s, dans les trois d\u00e9partements de la r\u00e9gion de K\u00e9dougou, au sud du pays. Cette maladie virale se transmet \u2026 [+1751 chars]",
-      "retrievedAt": "2023-08-29 19:05:29.490228",
-      "internal_id": "2c0e6d5740e4ba1df8e602a44ab2ccefbfa7866e5a64b5f90133ec572e24fe9d",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1440,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u0986\u0987\u09a8\u099c\u09c0\u09ac\u09c0\u09a6\u09c7\u09b0 \u09ac\u09bf\u09b6\u09c3\u0999\u09cd\u0996\u09b2\u09be, \u098f\u099c\u09b2\u09be\u09b8 \u099b\u09be\u09dc\u09b2\u09c7\u09a8 \u09b9\u09be\u0987\u0995\u09cb\u09b0\u09cd\u099f\u09c7\u09b0 \u09e8 \u09ac\u09bf\u099a\u09be\u09b0\u09aa\u09a4\u09bf",
-      "description": "\u0986\u0987\u09a8\u099c\u09c0\u09ac\u09c0\u09a6\u09c7\u09b0 \u09ac\u09bf\u09b6\u09c3\u0999\u09cd\u0996\u09b2\u09be, \u098f\u099c\u09b2\u09be\u09b8 \u099b\u09be\u09dc\u09b2\u09c7\u09a8 \u09b9\u09be\u0987\u0995\u09cb\u09b0\u09cd\u099f\u09c7\u09b0 \u09e8 \u09ac\u09bf\u099a\u09be\u09b0\u09aa\u09a4\u09bfthedailystar.net",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/crime-justice/news-509356",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/high-court-1_4.jpg",
-      "publishedAt": "2023-08-28 07:42:48",
-      "content": "With four days shy of the month-end, August has seen a higher number of dengue cases than all of last year.",
-      "retrievedAt": "2023-08-29 19:05:28.123363",
-      "internal_id": "cddf06f041899af34344367b1fe77ff5b893e77a7d984659ba7edaf8dc98ac88",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1434,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "OCHA - Hundreds of Children Die of Hunger in Sudan, More Funding Needed",
-      "description": "[Dabanga] Port Sudan / Nyala -- At least 4,5 million people have fled their homes since war between the Sudanese army and the Rapid Support Forces erupted in mid-April. At least 498 children in Sudan died from hunger. Measles and other diseases are spreading \u2026",
-      "url": "https://allafrica.com/stories/202308280076.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-08-28 07:39:24",
-      "content": "Port Sudan / Nyala \u2014 At least 4,5 million people have fled their homes since war between the Sudanese army and the Rapid Support Forces erupted in mid-April. At least 498 children in Sudan died from \u2026 [+3171 chars]",
-      "retrievedAt": "2023-08-29 19:05:27.432597",
-      "internal_id": "3340345424bd58dba711072e1ac6749c6555cff7982d5574d00d09bea1310398",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1427,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "\u09ae\u09bf\u09a8\u09cd\u099f\u09c1 \u09a6\u09c7\u09b6\u09cb\u09df\u09be\u09b0\u09be",
-      "title": "\u09aa\u09be\u09a8 \u099a\u09be\u09b7\u09c7\u09b0 \u09aa\u09be\u09b6\u09be\u09aa\u09be\u09b6\u09bf \u0997\u09ac\u09be\u09a6\u09bf \u09aa\u09b6\u09c1\u09aa\u09be\u09b2\u09a8\u09c7 \u09b8\u09cd\u09ac\u099a\u09cd\u099b\u09b2\u09a4\u09be \u09ab\u09bf\u09b0\u099b\u09c7 \u09aa\u09c1\u099e\u09cd\u099c\u09bf\u09ac\u09be\u09b8\u09c0\u09a6\u09c7\u09b0",
-      "description": "\u09aa\u09be\u09a8 \u099a\u09be\u09b7\u09c7\u09b0 \u09aa\u09be\u09b6\u09be\u09aa\u09be\u09b6\u09bf \u0997\u09ac\u09be\u09a6\u09bf \u09aa\u09b6\u09c1\u09aa\u09be\u09b2\u09a8\u09c7 \u09b8\u09cd\u09ac\u099a\u09cd\u099b\u09b2\u09a4\u09be \u09ab\u09bf\u09b0\u099b\u09c7 \u09aa\u09c1\u099e\u09cd\u099c\u09bf\u09ac\u09be\u09b8\u09c0\u09a6\u09c7\u09b0thedailystar.net",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/news-509336",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/uploads/2023/08/28/untitled_design_-_2023-08-28t125105.650.png",
-      "publishedAt": "2023-08-28 07:02:44",
-      "content": "With four days shy of the month-end, August has seen a higher number of dengue cases than all of last year.",
-      "retrievedAt": "2023-08-29 07:05:40.016500",
-      "internal_id": "1cfdcfa82eadc102f82f1c5ab761edef89de6855c4be07780ecad7b7005af9a5",
-      "publishedAtLabel": "Aug 28"
-    },
-    {
-      "id": 1429,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "GlobeNewswire",
-      "title": "Valneva Reports Positive Initial Phase 3 Safety Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate",
-      "description": "(marketscreener.com) Saint-Herblain , August 28, 2023 \u2013 Valneva SE , a specialty vaccine company, today reported positive initial Phase 3 safety data in adolescents for its single-dose chikungunya virus vaccine candidate VLA1553. Immunogenicity data for the t\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Reports-Positive-Initial-Phase-3-Safety-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-44708926/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-08-28 05:01:02",
-      "content": "Saint-Herblain (France), August28, 2023ValnevaSE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today reported positive initial Phase 3 safety data in adolescents for its single-do\u2026 [+11872 chars]",
-      "retrievedAt": "2023-08-29 07:05:40.950970",
-      "internal_id": "b65f423ee7417d31d50d9198e8b6612a772a3a1b85821685551723c97df08496",
       "publishedAtLabel": "Aug 28"
     }
   ]
