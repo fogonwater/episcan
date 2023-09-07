@@ -1,8 +1,296 @@
 {
-  "last_updated": "2023-09-07 07:05",
+  "last_updated": "2023-09-07 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 1677,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "El Peri\u00f3dico",
+      "title": "Muere a los 17 a\u00f1os Naomi Mendoza, joven promesa del f\u00fatbol femenino",
+      "description": "La futbolista canaria Naomi Mendoza ha fallecido a los 17 a\u00f1os tras no haber podido superar una meningitis. El adi\u00f3s de la joven, que fue portera del Club Deportivo Guiniguada Femenino y tambi\u00e9n de la Selecci\u00f3n Canaria, ha dejado a m\u00e1s de uno helado. Seguir l\u2026",
+      "url": "https://www.elperiodico.com/es/deportes/20230906/muere-17-anos-naomi-mendoza-portera-futbol-femenino-canarias-91785533",
+      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/de67cd9d-2675-4d45-a3c8-1e741da4ed92_16-9-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-09-06 18:04:12",
+      "content": "La futbolista canaria Naomi Mendoza ha fallecido a los 17 a\u00f1os tras no haber podido superar una meningitis. El adi\u00f3s de la joven, que fue portera del Club Deportivo Guiniguada Femenino y tambi\u00e9n de l\u2026 [+1109 chars]",
+      "retrievedAt": "2023-09-07 19:05:39.613273",
+      "internal_id": "e11175666c0904b8d22a518e6cc6bc6c408e49c366407a7a3f1af82ac550123e",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1675,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Publico.es",
+      "author": "P\u00fablico",
+      "title": "Muere la futbolista canaria Naomi Mendoza a los 17 a\u00f1os",
+      "description": "La guardameta era una de las promesas del f\u00fatbol femenino insular y hab\u00eda formado parte del combinado canario sub-17.",
+      "url": "https://www.publico.es/sociedad/muere-futbolista-canaria-naomi-mendoza-17-anos.html",
+      "urlToImage": "https://www.publico.es/uploads/2023/09/06/64f8ae8bccb42.jpeg",
+      "publishedAt": "2023-09-06 17:13:00",
+      "content": "Conmoci\u00f3n en el mundo del f\u00fatbol. La joven guardameta canaria Naomi Mendoza ha fallecido a los 17 a\u00f1os despu\u00e9s de sufrir unas complicaciones derivadas de una meningitis, que acab\u00f3 dej\u00e1ndola en coma d\u2026 [+1184 chars]",
+      "retrievedAt": "2023-09-07 19:05:39.607944",
+      "internal_id": "898c7c7e28024d2a7bb714762a1d90bb8e396ac2046fa0112f6f1f9db3693ddb",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1669,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Agence France-Presse)",
+      "title": "WHO: Bangladesh Hit by Worst Dengue Outbreak on Record",
+      "description": "Bangladesh is experiencing its most severe dengue outbreak on record, the World Health Organization said Wednesday, partly blaming climate change for contributing to the spread of such mosquito-borne diseases. Since the outbreak began in April, more than 1\u2026",
+      "url": "https://www.voanews.com/a/who-bangladesh-hit-by-worst-dengue-outbreak-on-record-/7256884.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-7fa8-08dbaef72510_cx0_cy10_cw0_w1200_r1.jpg",
+      "publishedAt": "2023-09-06 16:40:11",
+      "content": "Bangladesh is experiencing its most severe dengue outbreak on record, the World Health Organization said Wednesday, partly blaming climate change for contributing to the spread of such mosquito-borne\u2026 [+1635 chars]",
+      "retrievedAt": "2023-09-07 19:05:39.280016",
+      "internal_id": "1366fb1cdf6c08232e28b0c1203dd6adb7053260e7f5c0c18e457dcee409297b",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1670,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Sv\u00e5rt utbrott av denguefeber i Bangladesh",
+      "description": "\u25b8 Bangladesh har drabbats av ett av de v\u00e4rsta utbrotten av denguefeber enligt V\u00e4rldsh\u00e4lsoorganisationen (WHO).",
+      "url": "https://www.aftonbladet.se/nyheter/a/onGybm/svart-utbrott-av-denguefeber-i-bangladesh",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/7d2b7d2e-64e6-4c0a-a16d-7fe0fb3925ab?fit=crop&format=auto&h=1267&q=50&w=1900&s=9d67398869b3f68f52fc600101b843119b12a7f9",
+      "publishedAt": "2023-09-06 16:15:21",
+      "content": "Bangladesh har drabbats av ett av de v\u00e4rsta utbrotten av denguefeber enligt V\u00e4rldsh\u00e4lsoorganisationen (WHO). Sedan utbrottet i april i \u00e5r har fler \u00e4n 135 000 fall av denguefeber rapporterats. 650 d\u00f6\u2026 [+432 chars]",
+      "retrievedAt": "2023-09-07 19:05:39.282604",
+      "internal_id": "2821006ee27502c5367dc1d58635c9ad874828420d191ca6ce9df78ab96409ab",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1673,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.lat",
+      "author": "Sputnik Mundo",
+      "title": "Expansi\u00f3n del dengue en Rep\u00fablica Dominicana alarma a profesionales de la salud",
+      "description": "SAN SALVADOR (Sputnik) \u2014 La expansi\u00f3n de los casos de dengue en Rep\u00fablica Dominicana genera alarma entre los profesionales de la salud, mientras las autoridades insisten en combatir los criaderos de mosquitos (zancudos) para encarar un eventual brote.",
+      "url": "https://sputniknews.lat/20230906/expansion-del-dengue-en-republica-dominicana-alarma-a-profesionales-de-la-salud-1143422825.html",
+      "urlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1143422825.jpg?11375743121694013661",
+      "publishedAt": "2023-09-06 15:21:00",
+      "content": "Suscr\u00edbete a nuestros canales de Telegram a trav\u00e9s de estosenlaces. Ya que la aplicaci\u00f3n Sputnik est\u00e1 bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo m\u00f3v\u2026 [+78 chars]",
+      "retrievedAt": "2023-09-07 19:05:39.300262",
+      "internal_id": "a48a3a0eb182e68f6367c23d1a67cd8a61c995221e410317f5b25552a8289c38",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1676,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Zeltzin Zamora",
+      "title": "Muri\u00f3 futbolista Naomi Mendoza a los 17 a\u00f1os",
+      "description": "El mundo del futbol se encuentra de luto tras darse a conocer la muerte de la portera Naomi Mendoza a los 17 a\u00f1os, quien estuvo luchando contra una repentina enfermedad que la llev\u00f3 a estar en coma.La jugadora hab\u00eda sido diagnosticada con meningitis, pero con\u2026",
+      "url": "https://www.milenio.com/deportes/futbol-internacional/naomi-mendoza-muere-futbolista-canaria-a-los-17-anos",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/09/06/muere-futbolista-naomi-mendoza-anos.jpg",
+      "publishedAt": "2023-09-06 15:10:00",
+      "content": "El mundo del futbol se encuentra de luto tras darse a conocer la muerte de la portera Naomi Mendoza a los 17 a\u00f1os, quien estuvo luchando contra una repentina enfermedad que la llev\u00f3 a estar en coma. \u2026 [+2488 chars]",
+      "retrievedAt": "2023-09-07 19:05:39.610818",
+      "internal_id": "02dc80e3d9d712db796ab05877ac95bf293dfcfeded8be0785a75b9bce85f5ff",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1668,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Tom Kattwinkel",
+      "title": "Dengue-Fieber: \"Dengue ist eine Pandemie, die wir im Westen gerne ignorieren\"",
+      "description": "In Paris gehen Kammerj\u00e4ger gegen M\u00fccken vor, in Italien haben sich sechs Menschen infiziert. Breitet sich das Dengue-Virus in Europa aus? Ein Tropenmediziner kl\u00e4rt auf.",
+      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fgesundheit%2F2023-09%2Fdengue-fieber-europa-erreger-impfung",
+      "urlToImage": null,
+      "publishedAt": "2023-09-06 14:26:08",
+      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
+      "retrievedAt": "2023-09-07 19:05:39.275908",
+      "internal_id": "ad420d0ef7621043e49705ff99a06c66229c4935423fcbf73e0caea255d2d89b",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1665,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Shabani Iddi, Farida Mlenga, Kayo Hamasaki, Stanley Mwita, Eveline Konje",
+      "title": "Assessment of knowledge, attitude, and practice of dog owners to rabies disease in Kahama town council, Shinyanga region, Tanzania",
+      "description": "Author summary Rabies is a fatal zoonotic disease of significant public health importance. Domestic dogs are the main reservoir and transmitter of this disease, particularly in developing countries. Community awareness about rabies is one of the key component\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011580",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011580.t006&size=inline",
+      "publishedAt": "2023-09-06 14:00:00",
+      "content": "Abstract Background Rabies is a fatal zoonotic disease of significant public health importance. Domestic dogs are the main reservoir and transmitter of this disease, particularly in developing coun\u2026 [+25881 chars]",
+      "retrievedAt": "2023-09-07 19:05:37.986608",
+      "internal_id": "0b38acdf6e05e5001e6bf2129b8589ec0a87e9d002ed90619a013acbae0721cb",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1679,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Walter R. J. Taylor, Niamh Meagher, Benedikt Ley, Kamala Thriemer, Germana Bancone, Ari Satyagraha, Ashenafi Assefa, Krisin Chand, Nguyen Hoang Chau, Mehul Dhorda, Tamiru S. Degaga, Lenny L. Ekawati, Asrat Hailu, Mohammad Anwar Hasanzai, Mohammad Nader Naddim, Ayodhia Pitaloka Pasaribu, Awab Ghulam Rahim, Inge Sutanto, Ngo Viet Thanh, Nguyen Thi Tuyet-Trinh, Naomi Waithira, Adugna Woyessa, Arjen Dondorp, Lorenz von Seidlein, Julie A. Simpson, Nicholas J. White, J. Kevin Baird, Nicholas P. Day, Ric N. Price",
+      "title": "Weekly primaquine for radical cure of patients with Plasmodium vivax malaria and glucose-6-phosphate dehydrogenase deficiency",
+      "description": "Author summary Fifty patients with P. vivax malaria and glucose-6-phosphate dehydrogenase (G6PD) deficiency were given the WHO-recommended, primaquine regimen of 0.75 mg/kg body weight once per week for 8 weeks. Treatment was highly effective and well tolerat\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011522",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011522.g004&size=inline",
+      "publishedAt": "2023-09-06 14:00:00",
+      "content": "Abstract Background The World Health Organization recommends that primaquine should be given once weekly for 8-weeks to patients with Plasmodium vivax malaria and glucose-6-phosphate dehydrogenase \u2026 [+39013 chars]",
+      "retrievedAt": "2023-09-07 19:05:40.416742",
+      "internal_id": "25cc17572594ff46e2aa39b4a8541500d1f18cd5febb0c6ebfe8cc7a301aa11d",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1680,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Marie Moinet, Hedwich Oosterhof, Shahista Nisa, Neville Haack, David A. Wilkinson, Danielle Aberdein, James C. Russell, Emilie Vall\u00e9e, Julie Collins-Emerson, Cord Heuer, Jackie Benschop",
+      "title": "A cross-sectional investigation of Leptospira at the wildlife-livestock interface in New Zealand",
+      "description": "Author summary Leptospirosis is a bacterial disease that can be transmitted through the urine of infected animals. Recently, the number of human cases of leptospirosis in New Zealand has increased, and wildlife is suspected to be an emerging source. To better\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011624",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011624.g002&size=inline",
+      "publishedAt": "2023-09-06 14:00:00",
+      "content": "Introduction Leptospirosis is a zoonosis caused by pathogenic bacteria of the genus Leptospira affecting a wide range of vertebrates worldwide. The advent of genomic methods has shed light on this c\u2026 [+38192 chars]",
+      "retrievedAt": "2023-09-07 19:05:42.230344",
+      "internal_id": "d385e193f550cee91538d46a7036b601ee63fd6be21c79f58d00415a39f15d33",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1674,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Muere a los 17 a\u00f1os la futbolista canaria Naomi Mendoza",
+      "description": "Conmoci\u00f3n en el f\u00fatbol canario por la muerte de la joven futbolista Naomi Mendoza, de 17 a\u00f1os . La portera se encontraba en coma despu\u00e9s de sufrir las complicaciones de una meningitis que le sobrevino de forma repentina hace unas semanas. C\u00f3digo Desktop Siemp\u2026",
+      "url": "https://www.abc.es/deportes/futbol/muere-anos-futbolista-canaria-naomi-mendoza-20230906155414-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2023/09/06/noemi-kRj--1024x512@abc.jpg",
+      "publishedAt": "2023-09-06 13:54:15",
+      "content": "Conmoci\u00f3n en el f\u00fatbol canario por la muerte de la joven futbolista Naomi Mendoza, de 17 a\u00f1os. La portera se encontraba en coma despu\u00e9s de sufrir las complicaciones de una meningitis que le sobrevin\u2026 [+646 chars]",
+      "retrievedAt": "2023-09-07 19:05:39.604631",
+      "internal_id": "d2df6b3554b8e671297902cdf9d6f3f6f9dc13f6c9238b6d757cb96d09a83bfc",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1667,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Jewishnews.co.uk",
+      "author": null,
+      "title": "Health professionals push for measles vaccinations as cases soar",
+      "description": "Unprotected children could be at risk of contracting the extremely infectious disease at family gatherings over Rosh Hashanah",
+      "url": "https://www.jewishnews.co.uk/health-professionals-push-for-measles-vaccinations-as-cases-soar/",
+      "urlToImage": "https://static.jewishnews.co.uk/jewishnews/uploads/2023/09/Personal-child_health_record-redbook.jpg-1024x640.jpeg",
+      "publishedAt": "2023-09-06 12:55:38",
+      "content": "Ahead of the High Holy Days, medical professionals are renewing calls for families to ensure their measles vaccinations are up to date. The plea comes as cases of the disease continue to rise in Lon\u2026 [+2197 chars]",
+      "retrievedAt": "2023-09-07 19:05:38.543838",
+      "internal_id": "fd124d984a6082f11cda2fd9e14136ebcd4c8097fc441001eb76d969793872a5",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1678,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": null,
+      "title": "Muere Naomi Mendoza, futbolista canaria, a los 17 a\u00f1os",
+      "description": "La futbolista canaria Naomi Mendoza ha muerto a los 17 a\u00f1os tras una prolongada fase de coma en la que desemboc\u00f3 el err\u00f3neo diagn\u00f3stico de una meningitis. Una muerte que ha...",
+      "url": "https://www.elmundo.es/deportes/futbol/2023/09/06/64f86b8dfc6c83406b8b45cd.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/d13aeba51fd0530d70d6d011f3d0b10a/crop/0x14/1170x794/f/jpg/assets/multimedia/imagenes/2023/09/06/16940038539893.jpg",
+      "publishedAt": "2023-09-06 12:46:55",
+      "content": "La futbolista canaria Naomi Mendoza ha muerto a los 17 a\u00f1os tras una prolongada fase de coma en la que desemboc\u00f3 el err\u00f3neo diagn\u00f3stico de una meningitis. Una muerte que ha consternado al f\u00fatbol fe\u2026 [+957 chars]",
+      "retrievedAt": "2023-09-07 19:05:39.615307",
+      "internal_id": "9ea46d93de0c9a15fb5fd72e4ce59a848e068ffed1f44787cfcc7d8394b4b79e",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1671,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u092c\u0922\u093c\u0940 \u0921\u0947\u0902\u0917\u0942 \u0915\u0940 \u0930\u092b\u094d\u0924\u093e\u0930, 300 \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u092a\u0939\u0941\u0902\u091a\u0947 \u0915\u0947\u0938 \u0924\u094b \u0938\u0940\u090f\u092e \u0928\u0940\u0924\u0940\u0936 \u0928\u0947 \u0915\u0940 \u092c\u0921\u093c\u0940 \u092c\u0948\u0920\u0915",
+      "description": "Bihar News: \u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u092c\u0922\u093c\u0924\u0947 \u0939\u0940 \u091c\u093e \u0930\u0939\u0947\u0964 \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0935\u093f\u092d\u093e\u0917 \u0905\u0932\u0930\u094d\u091f \u092a\u0930 \u0906 \u0917\u092f\u093e \u0939\u0948\u0964 \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u094b \u0915\u094b\u0908 \u092a\u0930\u0947\u0936\u093e\u0928\u0940 \u0928\u0939\u0940\u0902 \u0939\u094b \u0907\u0938\u0915\u093e \u0935\u093f\u0936\u0947\u0937 \u0927\u094d\u092f\u093e\u0928 \u0930\u0916\u093e \u091c\u093e \u0930\u0939\u093e\u0964 \u0938\u0940\u090f\u092e \u0928\u0940\u0924\u0940\u0936 \u092d\u0940 \u0907\u0938\u0947 \u0932\u0947\u0915\u0930 \u092c\u0947\u0939\u0926 \u0917\u0902\u092d\u0940\u0930 \u0939\u0948\u0902\u0964 \u092f\u0939\u0940 \u0935\u091c\u0939 \u0939\u0948 \u0915\u093f \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u092c\u0921\u093c\u0940 \u092c\u0948\u0920\u0915 \u0915\u0940\u0964 \u091c\u093e\u0928\u093f\u090f \u2026",
+      "url": "https://navbharattimes.indiatimes.com/state/bihar/patna/dengue-cases-increased-bihar-more-than-300-cm-nitish-kumar-high-profile-meeting-patna/articleshow/103434827.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-107159,msid-102670894/navbharat-times.jpg",
+      "publishedAt": "2023-09-06 11:51:37",
+      "content": ": (Bihar Dengue Updates) , , 300 325 (Bihar Dengue Cases) 119 99 119 , 99 , , , Jharkhand: 10 , - , , Bhagalpur News Live Today: 47 , , ,",
+      "retrievedAt": "2023-09-07 19:05:39.291075",
+      "internal_id": "6701c4061665304afa2f33554a7da471eb3ca8e879b93c0e04d8947a6acf3ebd",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1672,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "After Langur Cutouts, Mosquito Eating Fish To Fight Dengue During G20 Meet",
+      "description": "Special forces, bulletproof cars and men hired to chase away monkeys are among India's elaborate G20 preparations as Prime Minister Narendra Modi readies for a weekend in the global spotlight.",
+      "url": "https://www.ndtv.com/india-news/after-langur-cutouts-mosquito-eating-fish-to-keep-dengue-in-check-during-g20-meet-4364248",
+      "urlToImage": "https://c.ndtvimg.com/2023-09/pjf74v58_g20-summit_625x300_05_September_23.jpg",
+      "publishedAt": "2023-09-06 08:11:17",
+      "content": "New Delhi: Special forces, bulletproof cars and men hired to chase away monkeys are among India's elaborate G20 preparations as Prime Minister Narendra Modi readies for a weekend in the global spotli\u2026 [+3184 chars]",
+      "retrievedAt": "2023-09-07 19:05:39.297050",
+      "internal_id": "79a05dbfb7cc39c1e34f50945f9386ea7693e9b6f359f5e21d31209db8b5faae",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1666,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Business Today",
+      "author": "Business Today Desk",
+      "title": "Ghaziabad: 14-year-old dies of rabies, hid dog bite from parents for over a month",
+      "description": "A 14-year-old boy died of rabies in Uttar Pradesh's Ghaziabad after he hid a dog bite from his parents for over a month. Reportedly, the boy was bitten by his neighbour's dog over a month ago but hid it from his parents out of fear",
+      "url": "https://www.businesstoday.in/latest/trends/story/ghaziabad-14-year-old-dies-of-rabies-hid-dog-bite-from-parents-for-over-a-month-397111-2023-09-06",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202309/ezgif-sixteen_nine_79.jpg",
+      "publishedAt": "2023-09-06 07:43:52",
+      "content": "A 14-year-old boy died of rabies in Uttar Pradesh's Ghaziabad after he hid a dog bite from his parents for over a month. Reportedly, the boy was bitten by his neighbour's dog over a month ago but hid\u2026 [+1926 chars]",
+      "retrievedAt": "2023-09-07 19:05:37.993688",
+      "internal_id": "5bbd0577330820bb9d850b16dfaabaecd93b03f3ef7a4f500f4388bea5ae7b6b",
+      "publishedAtLabel": "Sep 6"
+    },
     {
       "id": 1655,
       "query": [
@@ -3348,295 +3636,6 @@
       "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
       "retrievedAt": "2023-09-01 15:21:31.019473",
       "internal_id": "3cdbe2d52a3ff2de7e5252121a988372267b506a3c6bfa46c196eae33a87767f",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1470,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Sources - Bills' Von Miller to stay on PUP, out at least 4 games - ESPN - ESPN",
-      "description": "Sources - Bills' Von Miller to stay on PUP, out at least 4 games - ESPNESPN Bills' Von Miller To Start Season On PUP List, Will Miss FIRST 4 Games I CBS SportsCBS Sports Bills LB Von Miller to begin 2023 NFL season on PUP, out at least four gamesNFL.com Buffa\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722476",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:32:33",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.016214",
-      "internal_id": "0980b70b7990795d683b3af9e7dafb69da15f702d94ed87489f7dc53d72f47f0",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1473,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Prescriptions For Produce? Patient Health Improves When Programs Pay For Fruits And Veggies, New Study Says - Forbes",
-      "description": "Prescriptions For Produce? Patient Health Improves When Programs Pay For Fruits And Veggies, New Study SaysForbes How 'prescribing' fruits and vegetables can lead to better health - The Washington PostThe Washington Post Fruit and vegetable \"prescriptions\" li\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722472",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:32:10",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.024127",
-      "internal_id": "1757663851990fb182a1b6ea345bdc84328a514325d3c57b3475b9f53b88b360",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1472,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "MightyMait",
-      "title": "Study: Streamers Now Wasting Record Amounts of Time Finding Something to Watch",
-      "description": "Are you old enough to remember channel surfing? When there were only a handful of broadcast channels, it wasn't a big deal, but when we got cable/satelite, one could spend inordinate amounts of time flipping through the channels looking for something decent t\u2026",
-      "url": "https://slashdot.org/submission/17292502/study-streamers-now-wasting-record-amounts-of-time-finding-something-to-watch",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:27:52",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.021935",
-      "internal_id": "de79faf3ad19d8a6b6a1b52862273c9c2bab2cc4ed6785d54ec86794be58d1d4",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1476,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "TCL's new budget phones are the first to feature NXTPAPER displays - Engadget",
-      "description": "TCL's new budget phones are the first to feature NXTPAPER displaysEngadget The TCL NXTPAPER 40 and 40 5G come with paper-like matte displaysThe Verge TCL's New Phone Line Includes Its Paper-Like Screen TechnologyCNET TCL Debuts World's First Nxtpaper Smartpho\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722398",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:15:32",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.030711",
-      "internal_id": "2fe0ac2e800480fdd16c26fe86ea675b19db616d6ea40f42397ec065caac1122",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1464,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Bob Dylan Gave Post Malone Some Lyrics to Record. Then Things Got Weird - Rolling Stone",
-      "description": "Bob Dylan Gave Post Malone Some Lyrics to Record. Then Things Got WeirdRolling Stone...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722388",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:15:12",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.000376",
-      "internal_id": "52f4e158c2bb5938ba6f44f8cdf472e4ecb528ad11a0e1f9d56b328594fe1fd4",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1478,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "\u2018Suits\u2019 Boss on the Series\u2019 Origins and the Meghan Markle Line the Palace Had Removed - Hollywood Reporter",
-      "description": "\u2018Suits\u2019 Boss on the Series\u2019 Origins and the Meghan Markle Line the Palace Had RemovedHollywood Reporter Suits Creator Gets Honest About Season 9 Cancellation, Discusses Reboot Idea ChallengesScreen Rant Why 'Suits,' 'Ugly Betty' and other comfort food shows a\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722386",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:14:52",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.040898",
-      "internal_id": "816c0cdf91078f9d9ddc93aaebe87bf93620013fa321dd4954fe7d391d1ccbc5",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1465,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Brooks Koepka among Zach Johnson's picks for U.S. Ryder Cup team - ESPN - ESPN",
-      "description": "Brooks Koepka among Zach Johnson's picks for U.S. Ryder Cup team - ESPNESPN Report: Zach Johnson makes huge Justin Thomas decision as Ryder Cup wildcard picks revealedGolfWRX Think the LIV Golf/PGA Tour rivalry is dead? The Brooks Koepka pick says otherwiseGo\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722378",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:14:34",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.002626",
-      "internal_id": "53c0ad2caf0c6475b5392b4bcc1d08d0dab8738b684fadbd7220e8e6f482a4be",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1477,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Rare blue supermoon brightens the night sky this week in the closest full moon of the year - NBC Bay Area",
-      "description": "Rare blue supermoon brightens the night sky this week in the closest full moon of the yearNBC Bay Area What time is the Super Blue Moon of 2023?Space.com AP Trending SummaryBrief at 8:30 a.m. EDT | Ap | berkshireeagle.comBerkshire Eagle Brightest and fullest \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722372",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:14:14",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.033212",
-      "internal_id": "e59c46293631fe625ca45d731b6518ad551a43553592907975ebcbf6a1c20232",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1475,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Kremlin plays down moon landing failure, says space programme will continue - Reuters",
-      "description": "Kremlin plays down moon landing failure, says space programme will continueReuters View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722370",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:13:54",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.028596",
-      "internal_id": "2e852d85ae1bdd6fe78adbc1894a611351a6fc9a2441805ff0eb7373d6b53567",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1466,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Today Only: Get a Free Stainless Peel When You Grab the New Pi Prime Pizza Oven from Solo Stove - CNET",
-      "description": "You can make hand-crafted pizza at home with this portable propane-powered pizza oven -- and you'll get a stainless steel pizza peel valued at $40 thrown in for free.",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722366",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:13:22",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.004875",
-      "internal_id": "9b387ae359de8dee544dcc34ada03ef6ca59ccadbc34984a026c4e24ba3b7c0f",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1494,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "El ECDC notifica m\u00e1s de 3,7 millones de casos y m\u00e1s de 2.000 muertes por dengue en todo el mundo en lo que va de a\u00f1o",
-      "description": "El Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC) ha notificado, en lo que va de a\u00f1o y hasta el 23 de agosto, m\u00e1s de 3,7 millones de casos y m\u00e1s de 2.000 muertes relacionadas con el dengue en 70 pa\u00edses/territorios de todo el mundo.",
-      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-37-millones-casos-mas-2000-muertes-dengue-todo-mundo-va-ano-20230829180304.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230829180304_1200.jpg",
-      "publishedAt": "2023-08-29 16:03:04",
-      "content": "El organismo advierte de que la probabilidad de transmisi\u00f3n local de dengue y chikungunya en Europa es \"alta\" MADRID, 29 Ago. (EUROPA PRESS) - El Centro Europeo para la Prevenci\u00f3n y Control de E\u2026 [+3383 chars]",
-      "retrievedAt": "2023-09-01 15:21:33.439118",
-      "internal_id": "5a5eb9fde770e59401e7f47ca300abebb36b3222b5dad8cb8a00df6670ec1e3d",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1514,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Em parceria, Fiocruz e Hospital Em\u00edlio Ribas iniciam estudo sobre vacina contra mpox",
-      "description": "Poder\u00e3o ser vacinados volunt\u00e1rios que tiveram contato \u00edntimo com pacientes infectados entre 4 e 14 dias",
-      "url": "https://noticias.r7.com/saude/em-parceria-fiocruz-e-hospital-emilio-ribas-iniciam-estudo-sobre-vacina-contra-mpox-29082023",
-      "urlToImage": "https://img.r7.com/images/vacina-28082023152846387?crop_position=c&dimensions=340x191",
-      "publishedAt": "2023-08-29 15:48:54",
-      "content": "O Hospital Em\u00edlio Ribas, da SES-SP (Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo), em parceria com a Fiocruz (Funda\u00e7\u00e3o Oswaldo Cruz), passa a recrutar, a paritr desta ter\u00e7a-feira (29), volunt\u00e1rios para\u2026 [+1572 chars]",
-      "retrievedAt": "2023-09-01 15:22:03.803469",
-      "internal_id": "eb13eee5d2eb1814f10bb7875802fc95e5ddc05eca0ee7e4c47b164bc5f83a6f",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1491,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Farofafa.com.br",
-      "author": "Jotab\u00ea Medeiros",
-      "title": "\u2018Nunca tocamos a linha do mainstream\u2019, diz Dengue, da Na\u00e7\u00e3o Zumbi",
-      "description": "Embates jur\u00eddicos e burocracia levam a Na\u00e7\u00e3o Zumbi a regravar seu pr\u00f3prio cl\u00e1ssico, 'Da Lama ao Caos', de 30 anos atr\u00e1s, como uma nova vers\u00e3o para a s\u00e9rie 'Canga\u00e7o Novo', da Amazon Embates jur\u00eddicos e burocracia levam a Na\u00e7\u00e3o Zumbi a regravar seu pr\u00f3prio cl\u00e1s\u2026",
-      "url": "https://farofafa.com.br/2023/08/29/nunca-tocamos-a-linha-do-mainstream-diz-dengue-da-nacao-zumbi/",
-      "urlToImage": "https://farofafa.com.br/wp-content/uploads/2023/08/Foto-1-Nacao-Zumbi-@olucalima-m-scaled.jpg",
-      "publishedAt": "2023-08-29 14:48:15",
-      "content": "Em 2024, celebraremos 30 anos de lan\u00e7amento do disco Da Lama ao Caos, do grupo pernambucano Chico Science &amp; Na\u00e7\u00e3o Zumbi, o mais influente artefato musical produzido nos \u00faltimos 40 anos no Brasil.\u2026 [+14159 chars]",
-      "retrievedAt": "2023-09-01 15:21:33.425817",
-      "internal_id": "f9a04f1f7a0fc23c800d9b513d7bf4d0c0a1eeaff2e88bd4c8ba3566903c9bc1",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1482,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "new-scientist",
-      "source_name": "New Scientist",
-      "author": "Jason Arunn Murugesu",
-      "title": "Why is it so difficult to make an effective vaccine against dengue?",
-      "description": "The dengue virus has four subtypes, which each circulate at different levels in different countries, regularly fluctuating in prevalence. Developing a vaccine that effectively targets all of these subtypes has been notoriously challenging",
-      "url": "https://www.newscientist.com/article/2389373-why-is-it-so-difficult-to-make-an-effective-vaccine-against-dengue/",
-      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/08/25160222/SEI_168658577.jpg",
-      "publishedAt": "2023-08-29 12:00:38",
-      "content": "People with dengue in hospital in Dhaka, Bangladesh, in July SK Hasan Ali/Alamy Amid growing dengue outbreaks around the world, 2023 could turn out to be one of the worst years on record for the in\u2026 [+385 chars]",
-      "retrievedAt": "2023-09-01 15:21:33.389043",
-      "internal_id": "1bb5f7cb3938cee455a42115f28ca440cfcdd48201a0d0a975a29df7db8f26f0",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1462,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "The Massive Campaign to Air-Drop Tiny Rabies Vaccines to Raccoons",
-      "description": "Raccoons are a main carrier of rabies in the US. A government effort distributes millions of tasty vaccines to protect both animals and people.",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171720876",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 11:15:09",
-      "content": "Humanity has the stars in its future, and that future is too important to be lost under the burden of juvenile folly and ignorant superstition. - Isaac Asimov",
-      "retrievedAt": "2023-09-01 15:21:30.995260",
-      "internal_id": "d3b87e630c9026764ee6d03cb38217f4b24b5389fbdbee1e4c4a4fe9135871c4",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1459,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "wired",
-      "source_name": "Wired",
-      "author": "Emily Mullin",
-      "title": "The Massive Campaign to Air-Drop Tiny Rabies Vaccines to Raccoons",
-      "description": "Raccoons are a main carrier of rabies in the US. A government effort distributes millions of tasty vaccines to protect both animals and people.",
-      "url": "https://www.wired.com/story/the-massive-campaign-to-air-drop-tiny-rabies-vaccines-to-raccoons/",
-      "urlToImage": "https://media.wired.com/photos/64ecaae34d1a4cf83a89c96e/191:100/w_1280,c_limit/raccoon-science-GettyImages-1385415518.jpg",
-      "publishedAt": "2023-08-29 11:00:00",
-      "content": "The National Rabies Management Program was established in 1997 to prevent the further spread of wildlife rabies. In 2007, canine rabies was eliminated in the US thanks to mandatory vaccination and li\u2026 [+3685 chars]",
-      "retrievedAt": "2023-09-01 15:21:30.979754",
-      "internal_id": "c3e01964062d191e8e43321ebbb643c14236792097a9265257aff109853b744b",
       "publishedAtLabel": "Aug 29"
     }
   ]
