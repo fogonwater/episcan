@@ -1,8 +1,188 @@
 {
-  "last_updated": "2023-09-06 19:05",
+  "last_updated": "2023-09-07 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 19,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 1655,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "14-year-old boy dies of rabies after hiding dog bite from parents",
+      "description": "A 14-year-old boy from Ghaziabad, Uttar Pradesh, died from rabies after concealing a dog bite from his parents for over a month. The boy's treatment was delayed as he kept the incident hidden. His family rushed him to the hospital when he began displaying sym\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/14-year-old-boy-dies-of-rabies-after-hiding-dog-bite-from-parents/articleshow/103421919.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103422029,width-1070,height-580,imgsize-9646,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-06 06:53:13",
+      "content": "In a tragic incident, a 14-year-old boy from Uttar Pradesh's Ghaziabad lost his life to rabies after concealing a dog bite from his parents for over a month. The student of class 8, Shahvaz, died on \u2026 [+1979 chars]",
+      "retrievedAt": "2023-09-07 07:05:35.988272",
+      "internal_id": "1c3c06b4d360ab2a1c1f1e80ce564176ee8706bd927d583ec796198887b5f8db",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1664,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Hindi.Moneycontrol.com Team, Moneycontrol Hindi",
+      "title": "Zika Virus: \u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938 \u0915\u093e \u092a\u094d\u0930\u0915\u094b\u092a, 15 \u0938\u093e\u0932 \u0915\u0940 \u0932\u0921\u093c\u0915\u0940 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924, \u091c\u093e\u0928\u093f\u090f \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935",
+      "description": "Zika Virus: \u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938 (Zika Virus) \u0915\u093e \u0926\u0942\u0938\u0930\u093e \u092e\u093e\u092e\u0932\u093e \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948\u0964 \u092a\u0939\u0932\u093e \u092e\u093e\u092e\u0932\u093e 23 \u0905\u0917\u0938\u094d\u0924 \u0915\u094b \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0925\u093e\u0964 \u0926\u0942\u0938\u0930\u0947 \u0915\u0947\u0938 \u092e\u0947\u0902 \u092e\u0941\u0902\u092c\u0908 \u0915\u0947 \u0915\u0941\u0930\u094d\u0932\u093e \u0907\u0932\u093e\u0915\u0947 \u092e\u0947\u0902 15 \u0938\u093e\u0932 \u0915\u0940 \u090f\u0915 \u0932\u0921\u093c\u0915\u0940 \u0939\u0948\u0964 \u0926\u094b\u0928\u094b\u0902 \u092e\u093e\u092e\u0932\u0947 \u0938\u093f\u0930\u094d\u092b 15 \u0926\u093f\u0928 \u0915\u0947 \u092d\u0940\u0924\u0930 \u0906\u090f \u0939\u0948\u0902\u0964 \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938 \u0915\u093e \u092a\u0939\u0932\u093e \u092e\u093e\u092e\u0932\u093e \u092e\u0941\u0902\u092c\u0908 \u0915\u0947 \u091a\u0947\u0902\u092c\u0942\u0930 \u0938\u0947\u2026",
+      "url": "https://hindi.moneycontrol.com/news/india/trends/zika-virus-mumbai-second-case-infection-in-mumbai-15-year-old-girl-found-positive-know-symptoms-and-prevention-tips-1467741.html",
+      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2023/09/Zika-637x435.jpg",
+      "publishedAt": "2023-09-06 06:41:55",
+      "content": "Zika Virus: (Zika Virus) 23 15 15 79 (Brihanmumbai Municipal Corporation -BMC) - , 1947 - 1952 - (World Health Organization WHO) , , , , - , , 1 - 2 - - 3 - 4 - 5 -",
+      "retrievedAt": "2023-09-07 07:05:37.669287",
+      "internal_id": "a109f3d7b6814290df5ffe209b3069ad597efa3dea79f7469352befc159d3670",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1658,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "UP \u092e\u0947\u0902 \u0907\u0938 \u0938\u093e\u0932 \u0938\u092c\u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u0921\u0947\u0902\u0917\u0942 \u092e\u0930\u0940\u091c \u0928\u094b\u090f\u0921\u093e \u092e\u0947\u0902, 28 \u0938\u093e\u0932 \u0915\u0940 \u092e\u0939\u093f\u0932\u093e \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0940 \u092e\u094c\u0924 \u0915\u0947 \u092c\u093e\u0926 \u092c\u0922\u093c\u0940 \u092e\u0941\u0938\u094d\u200d\u0924\u0948\u0926\u0940",
+      "description": "Noida Dengue News: \u091a\u093e\u0930 \u0926\u093f\u0928 \u092a\u0939\u0932\u0947 \u0930\u0935\u093f\u0935\u093e\u0930 \u0915\u094b \u0936\u0939\u0930 \u0915\u0947 \u090f\u0915 \u092a\u094d\u0930\u093e\u0907\u0935\u0947\u091f \u0905\u0938\u094d\u200d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u092d\u0930\u094d\u0924\u0940 28 \u0938\u093e\u0932 \u0915\u0940 \u0921\u0949\u0915\u094d\u200d\u091f\u0930 \u0905\u0915\u094d\u0937\u093f\u0924\u093e \u0938\u093f\u0902\u0939 \u0915\u0940 \u092e\u094c\u0924 \u0939\u094b \u0917\u0908 \u0925\u0940\u0964 \u0938\u094d\u200d\u0935\u093e\u0938\u094d\u200d\u0925\u094d\u200d\u092f \u0935\u093f\u092d\u093e\u0917 \u0928\u0947 \u092e\u093e\u0928\u093e \u0939\u0948 \u0915\u093f \u0921\u0949\u0915\u094d\u200d\u091f\u0930 \u0915\u0940 \u092e\u094c\u0924 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u091a\u0932\u0924\u0947 \u0939\u0941\u0908\u0964 \u092a\u0939\u0932\u0947 \u0909\u0928\u094d\u200d\u0939\u0947\u0902 \u0938\u0930\u0915\u093e\u0930\u0940 \u0905\u0938\u094d\u200d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u092d\u0930\u094d\u0924\u0940 \u0915\u0930\u093e\u092f\u093e \u0917\u092f\u093e \u0925\u093e\u0964 \u0939\u093e\u0932\u0924 \u092c\u093f\u0917\u0921\u093c\u0928\u2026",
+      "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/noida/noida-has-the-highest-number-of-dengue-patients-in-all-over-uttar-pradesh/articleshow/103418625.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-81314,msid-98051597/navbharat-times.jpg",
+      "publishedAt": "2023-09-06 05:45:16",
+      "content": ", : -27 (Dengue Death News) -122 -39 -29 -122 28 -122 10 289 5500 - 35 - 27 6 2023 - 289 (5 )2022- 4342021- 6672020- 272019- 402018- 28",
+      "retrievedAt": "2023-09-07 07:05:36.733018",
+      "internal_id": "d551e070c47c1b3accc673a455b45e1093e151171a659d5e57bb71becb1c1f75",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1656,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "NEA urges immediate action to avoid surge in dengue cases, flags large clusters and another serotype",
+      "description": "The National Environment Agency highlighted \u201clarge and persistent\u201d dengue clusters in areas such as Toa Payoh, Sin Ming and Eng Kong Road in Bukit Timah.",
+      "url": "https://www.channelnewsasia.com/singapore/dengue-nea-warns-possible-surge-large-clusters-serotype-3749546",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--KXzKDy_m--/c_crop,h_540,w_960,x_0,y_0/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/aedes-mosquito-dengue.jpg?itok=Cjl_LyuT",
+      "publishedAt": "2023-09-06 05:35:50",
+      "content": "SINGAPORE: Singapore is at risk of a surge in dengue cases, the National Environment Agency (NEA) warned on Wednesday (Sep 6) as it urged members of the public to take immediate action to prevent mos\u2026 [+1504 chars]",
+      "retrievedAt": "2023-09-07 07:05:36.720326",
+      "internal_id": "716642bacff23c928b61b49c7b942bbd539b75b0f98c0dce25c4cac743aad8d6",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1660,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Sanatana Dharma Row: FIR filed against Udhayanidhi Stalin, Priyank Kharge for 'hurting religious sentiments' in UP",
+      "description": "DMK leader Udhayanidhi Stalin and Priyank Kharge, son of Congress president Mallikarjun Kharge, have been named in an FIR for allegedly outraging religious feelings. Stalin compared Sanatana Dharma to diseases like dengue and malaria during an event, which sp\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/udhayanidhi-stalin-priyank-kharge-booked-for-hurting-religious-sentiments-in-ups-rampur/articleshow/103418301.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103418348,width-1070,height-580,imgsize-100114,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-06 05:26:59",
+      "content": "An FIR was filed against DMK leader Udhayanidhi Stalin and Congress president Mallikarjun Kharge's son Priyank Kharge on Wednesday for allegedly hurting religious feelings. Stalin, who is the son of \u2026 [+1754 chars]",
+      "retrievedAt": "2023-09-07 07:05:37.404051",
+      "internal_id": "890ebc138e679c463370379279808d6c7b73a024676f6b76808ce062719ff76b",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1657,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Maharashtratimes.com",
+      "author": null,
+      "title": "\u0921\u0947\u0902\u0917\u094d\u092f\u0942\u091a\u0902 \u0928\u093f\u0926\u093e\u0928, \u0909\u092a\u091a\u093e\u0930\u093e\u0932\u093e \u091c\u093e\u0924\u093e\u0928\u093e \u0930\u0938\u094d\u0924\u094d\u092f\u093e\u0924\u091a \u092e\u0943\u0924\u094d\u092f\u0942\u0928\u0947 \u0917\u093e\u0920\u0932\u0902, \u0907\u0902\u091c\u093f\u0928\u093f\u0905\u0930\u093f\u0902\u0917 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u093f\u0928\u0940\u091a\u093e \u0915\u0930\u0941\u0923 \u0905\u0902\u0924",
+      "description": "Dengue Death : \u0906\u0902\u092c\u093f\u0935\u0932\u0940 \u092a\u0930\u093f\u0938\u0930\u093e\u0924 \u0930\u093e\u0939\u0923\u093e\u0930\u0940 \u092a\u094d\u0930\u093e\u091a\u0940 \u0924\u0930\u0947 \u0939\u0940 \u0924\u0930\u0941\u0923\u0940 \u0907\u0902\u091c\u093f\u0928\u0940\u0905\u0930\u093f\u0902\u0917\u091a\u094d\u092f\u093e \u0936\u0947\u0935\u091f\u091a\u094d\u092f\u093e \u0935\u0930\u094d\u0937\u093e\u0924 \u0936\u093f\u0915\u0924 \u0939\u094b\u0924\u0940. \u0915\u093e\u0939\u0940 \u0926\u093f\u0935\u0938\u093e\u0902\u092a\u093e\u0938\u0942\u0928 \u0924\u093f\u0932\u093e \u0924\u093e\u092a \u092f\u0947\u0924 \u0939\u094b\u0924\u093e. \u091c\u0935\u0933\u091a\u094d\u092f\u093e \u0916\u093e\u0938\u0917\u0940 \u0921\u0949\u0915\u094d\u091f\u0930\u093e\u0902\u0915\u0921\u0942\u0928 \u0924\u093f\u091a\u094d\u092f\u093e\u0935\u0930 \u0909\u092a\u091a\u093e\u0930 \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u0947",
+      "url": "https://maharashtratimes.com/maharashtra/thane/kalyan-20-years-old-engineering-student-dies-of-dengue/articleshow/103411540.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-18612,msid-103411613/maharashtra-times.jpg",
+      "publishedAt": "2023-09-06 02:58:18",
+      "content": ". . , : - . , . . . . . . .! ; , ?. , , . ... , , - . , , , , , . Marathi News App: ? . , ; '' . 28,990/- ! ; , ? ... - , , 70% , , <l\u2026 [+160 chars]",
+      "retrievedAt": "2023-09-07 07:05:36.731052",
+      "internal_id": "7180b98d919eb3c1f8b039977cadf8a3580bb38d5ffd41699f1809407a2334e7",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1662,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Maharashtratimes.com",
+      "author": null,
+      "title": "\u091a\u093f\u0902\u0924\u093e \u0935\u093e\u0922\u0932\u0940... \u092e\u0941\u0902\u092c\u0908\u0924 \u091d\u093f\u0915\u093e\u091a\u093e \u0926\u0941\u0938\u0930\u093e \u0930\u0941\u0917\u094d\u0923 \u0906\u0922\u0933\u0932\u093e, \u0967\u096b \u0935\u0930\u094d\u0937\u093e\u0902\u091a\u094d\u092f\u093e \u092e\u0941\u0932\u0940\u0932\u093e \u0932\u093e\u0917\u0923, \u091c\u093e\u0923\u0942\u0928 \u0918\u094d\u092f\u093e \u0932\u0915\u094d\u0937\u0923\u0902",
+      "description": "Mumbai Zika Virus: \u091d\u093f\u0915\u093e\u092c\u093e\u0927\u093f\u0924 \u092e\u0941\u0932\u0940\u0932\u093e \u0968\u0966 \u0911\u0917\u0938\u094d\u091f\u092a\u093e\u0938\u0942\u0928 \u0924\u093e\u092a \u0906\u0923\u093f \u0921\u094b\u0915\u0947\u0926\u0941\u0916\u0940\u091a\u093e \u0924\u094d\u0930\u093e\u0938 \u0939\u094b\u0924 \u0939\u094b\u0924\u093e. \u0938\u0941\u0930\u0941\u0935\u093e\u0924\u0940\u0932\u093e \u0924\u093f\u0928\u0947 \u0916\u093e\u0938\u0917\u0940 \u0930\u0941\u0917\u094d\u0923\u093e\u0932\u092f\u093e\u0924 \u0909\u092a\u091a\u093e\u0930 \u0918\u0947\u0924\u0932\u0947. \u092e\u093e\u0924\u094d\u0930, \u096b \u0938\u092a\u094d\u091f\u0947\u0902\u092c\u0930\u0932\u093e \u0924\u093f\u0932\u093e \u0938\u093e\u0930\u094d\u0935\u091c\u0928\u093f\u0915 \u0930\u0941\u0917\u094d\u0923\u093e\u0932\u092f\u093e\u0924 \u0926\u093e\u0916\u0932 \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u0947.",
+      "url": "https://maharashtratimes.com/maharashtra/mumbai-news/second-case-of-zika-found-in-mumbai-15-year-old-girl-infected-know-the-symptoms/articleshow/103410111.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-47570,msid-103410130/maharashtra-times.jpg",
+      "publishedAt": "2023-09-06 01:02:41",
+      "content": " , ; !. 28,990/- ... ; , , - , , 70% : , ; , Live ? ?! ; , ? - . , Memes: , Tea\u2026 [+66 chars]",
+      "retrievedAt": "2023-09-07 07:05:37.660151",
+      "internal_id": "2ed0ca95f11100fa8d9682ff7e5e3f0fbc9c22a15bcf7dd9d6f2064cb90cc666",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1663,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "15-year-old Kurla girl Mumbai's 2nd Zika case; has no travel history",
+      "description": "The city has recorded a second case of Zika virus in a 15-year-old girl from Kurla, the BMC confirmed on Tuesday. The previous one was reported on August 23, and involved a 79-year-old Chembur resident.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/15-year-old-kurla-girl-mumbais-2nd-zika-case-has-no-travel-history/articleshow/103409463.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103409463,width-1070,height-580,imgsize-17004,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-05 23:20:31",
+      "content": "Sridevi, Divya Bharti: 10 Actresses Whose Lives Ended in Mystery",
+      "retrievedAt": "2023-09-07 07:05:37.665566",
+      "internal_id": "80dfde170fef39e368fe8ba3094053da39ed6656df2b3a349b58f02b2449f0d1",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1661,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Drunkenstepfather.com",
+      "author": "Montana Banks",
+      "title": "Selena Gomez Playing With Her Titty of the Day",
+      "description": "Big fat headed Selena Gomez, who is built like Stewie from Family Guy, all double the size of a regular head, probably because of ZIKA or some shit, or maybe it\u2019s because she is also fat as fuck, is the star of more than just the Disney series Murder in the B\u2026",
+      "url": "https://drunkenstepfather.com/2023/09/05/selena-gomez-playing-with-her-titty",
+      "urlToImage": null,
+      "publishedAt": "2023-09-05 20:39:00",
+      "content": "Big fat headed Selena Gomez, who is built like Stewie from Family Guy, all double the size of a regular head, probably because of ZIKA or some shit, or maybe it\u2019s because she is also fat as fuck, is \u2026 [+1005 chars]",
+      "retrievedAt": "2023-09-07 07:05:37.656905",
+      "internal_id": "1ae4bafd7ec6223629fb48f09fb6b7e20ee54db7fdaed3b8244712549b649912",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1659,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "marca",
+      "source_name": "Marca",
+      "author": "JES\u00daS IZQUIERDO",
+      "title": "El f\u00fatbol canario llora el adi\u00f3s de Naomi Mendoza",
+      "description": "El f\u00fatbol canario est\u00e1 de luto. Hoy ha despedido con tristeza a Naomi Mendoza, portera de la Selecci\u00f3n Canaria sub 17 Femenina, tras no poder superar una repentina meningitis. La F",
+      "url": "https://www.marca.com/futbol/futbol-femenino/2023/09/05/64f7889222601d054f8b4594.html",
+      "urlToImage": "https://phantom-marca.unidadeditorial.es/9d7d136e5fc607a66e29046663efafdd/resize/1200/f/jpg/assets/multimedia/imagenes/2023/09/05/16939438016911.jpg",
+      "publishedAt": "2023-09-05 19:59:38",
+      "content": "El f\u00fatbol canario est\u00e1 de luto. Hoy ha despedido con tristeza a Naomi Mendoza, portera de la Selecci\u00f3n Canaria sub 17 Femenina, tras no poder superar una repentina meningitis. La FIFLP ha emitido una\u2026 [+930 chars]",
+      "retrievedAt": "2023-09-07 07:05:36.894117",
+      "internal_id": "1314b9922244f90e6b23e0ab1403be5167a24b96048a521103f457cc531ed6b9",
+      "publishedAtLabel": "Sep 5"
+    },
     {
       "id": 1639,
       "query": [
@@ -3457,186 +3637,6 @@
       "content": "The National Rabies Management Program was established in 1997 to prevent the further spread of wildlife rabies. In 2007, canine rabies was eliminated in the US thanks to mandatory vaccination and li\u2026 [+3685 chars]",
       "retrievedAt": "2023-09-01 15:21:30.979754",
       "internal_id": "c3e01964062d191e8e43321ebbb643c14236792097a9265257aff109853b744b",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1489,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
-      "title": "Dengue, 14 casi nel Lazio: due gravi allo Spallanzani. Sintomi e trasmissione, ecco cosa sappiamo",
-      "description": "Secondo i dati dell'Istituto Superiore di Sanit\u00e0, in Italia i casi importati dall'estero sono 79, dei cinque autoctoni, il paziente zero \u00e8 stato accertato a Roma. Attivati l'isolamento e la disinfestazione dalle zanzare nelle zone del XIV Municipio e della Ce\u2026",
-      "url": "https://roma.repubblica.it/cronaca/2023/08/29/news/dengue_casi_lazio_roma_gravi_spallanzani_sintomi_trasmissione_cosa_sappiamo-412631295/",
-      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-roma/2023/08/29/111014816-fc2789aa-4b57-4c56-9058-6e1e5e19f5a8.jpg",
-      "publishedAt": "2023-08-29 09:10:16",
-      "content": "Si moltiplicano le segnalazioni di casi di Dengue in Italia. Nel Lazio, come riporta Il Messaggero sono stati 14 i casi, ma due persone sono ricoverate in gravi condizioni allIstituto Spallanzani di \u2026 [+3991 chars]",
-      "retrievedAt": "2023-09-01 15:21:33.413465",
-      "internal_id": "7b3929e1bf8f765aa982503078cd954f341da7d7fceb4f178b301221fcee0853",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1506,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Clipset.com",
-      "author": "mixx.io",
-      "title": "Por fin lo he entendido",
-      "description": "Explicando el euro digital / Drones de cart\u00f3n vs cazabombarderos rusos / Dominios por 100 a\u00f1os / Gran avance biotech contra la malaria / Firefox importa extensiones de Chrome Este interesante post Por fin lo he entendido se public\u00f3 primero en el maravilloso b\u2026",
-      "url": "https://clipset.com/por-fin-lo-he-entendido/",
-      "urlToImage": "https://clipset.com/wp-content/uploads/2023/08/98798789.jpeg",
-      "publishedAt": "2023-08-29 09:07:05",
-      "content": "Suscr\u00edbete a mixx.io y recibe un email con los mejores enlaces tecnol\u00f3gicos del d\u00eda. El Banco de Espa\u00f1a aclara puntos importantes del euro digital. En espera de la decisi\u00f3n de octubre, se buscan var\u2026 [+3662 chars]",
-      "retrievedAt": "2023-09-01 15:21:45.383017",
-      "internal_id": "fa1eae5365d9aedb1e9a10ed635b177024250888bf1999e8cfd9f2bb8bfdf9cf",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1483,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "F. Q.",
-      "title": "Dengue, due ricoverati allo Spallanzani di Roma. Nel Lodigiano screening 309 persone, un caso accertato a Prato",
-      "description": "Si moltiplicano le segnalazioni di casi di Dengue in Italia. Nel Lazio, come riporta Il Messaggero sono stati 14 i casi, ma due persone sono ricoverate \u201cin gravi condizioni\u201d all\u2019Istituto Spallanzani di Roma. Si tratta perlopi\u00f9 di casi importanti, ma in Lombar\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2023/08/29/dengue-due-ricoverati-allo-spallanzani-di-roma-nel-lodigiano-screening-309-persone-un-caso-accertato-a-prato/7274922/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/07/18/Dengue_1200.jpg",
-      "publishedAt": "2023-08-29 08:15:12",
-      "content": "Si moltiplicano le segnalazioni di casi di Dengue in Italia. Nel Lazio, come riporta Il Messaggero sono stati 14 i casi, ma due persone sono ricoverate \u201cin gravi condizioni\u201d all\u2019Istituto Spallanzani \u2026 [+3920 chars]",
-      "retrievedAt": "2023-09-01 15:21:33.392484",
-      "internal_id": "54f9d19405efd0c3e44f570da67e6dd2e09f8ba344b9ce4470b593621a173205",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1512,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Journal des Entreprises",
-      "author": null,
-      "title": "Avanc\u00e9e au Canada pour le vaccin contre le chikungunya de Valneva",
-      "description": "L\u2019agence r\u00e9glementaire Sant\u00e9 Canada juge recevable le dossier de demande d\u2019autorisation de mise sur le march\u00e9 de Valneva pour son candidat vaccin contre le chikungunya. L\u2019examen r\u00e9glementaire devrait\u2026",
-      "url": "https://www.lejournaldesentreprises.com/loire-atlantique-vendee/breve/avancee-au-canada-pour-le-vaccin-contre-le-chikungunya-de-valneva-2066759",
-      "urlToImage": "https://www.lejournaldesentreprises.com/sites/lejournaldesentreprises.com/files/styles/facebook_share/public/2023-08/Franck-Grimaud-prsident-dAtlanpole-Biothrapi-9883753.jpeg?h=2446463a&itok=5Cg2BGdV",
-      "publishedAt": "2023-08-29 07:20:58",
-      "content": "Lagence r\u00e9glementaire Sant\u00e9 Canada juge recevable le dossier de demande dautorisation de mise sur le march\u00e9 de Valneva pour son candidat vaccin contre le chikungunya. Lexamen r\u00e9glementaire devrait \u00eat\u2026 [+661 chars]",
-      "retrievedAt": "2023-09-01 15:22:03.440542",
-      "internal_id": "bbf84776312003fa510abbe18d3fafe440ec8638d06d3c706f9b228d64b0a256",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1451,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "One succumbs to dengue fever",
-      "description": "KANCHANPUR: Hikmat Khatri, 28, from Pachui of Belauri Municipality-8 in the district died of dengue infection last night. Ward No 8 Chairman of Belauri, Bisham Ram Rana, informed that Khatri breathed his last during treatment at Nova Hospital of Dhangadhi in \u2026",
-      "url": "https://english.khabarhub.com/2023/29/316326/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-08-29 05:35:45",
-      "content": "KANCHANPUR: Hikmat Khatri, 28, from Pachui of Belauri Municipality-8 in the district died of dengue infection last night. Ward No 8 Chairman of Belauri, Bisham Ram Rana, informed that Khatri breathe\u2026 [+401 chars]",
-      "retrievedAt": "2023-08-30 07:05:54.134464",
-      "internal_id": "7a15077a6a05bc45a55bcde8c8e195a7a95ad3d2a90ed8faa36972e4b510eeb4",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1454,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "La combinaci\u00f3n de vacuna y f\u00e1rmaco contra la malaria reduce dr\u00e1sticamente los casos y las muertes",
-      "description": "Los resultados finales de un estudio hist\u00f3rico publicado en 'The Lancet Infectious Diseases' confirman que los beneficios de la combinaci\u00f3n de la vacuna antipal\u00fadica RTS,S/AS01E (RTS,S) con f\u00e1rmacos antipal\u00fadicos en contextos de alta transmisi\u00f3n estacional de\u2026",
-      "url": "https://www.infosalus.com/asistencia/noticia-combinacion-vacuna-farmaco-contra-malaria-reduce-drasticamente-casos-muertes-20230829072948.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230829072948_1200.jpg",
-      "publishedAt": "2023-08-29 05:29:48",
-      "content": "MADRID, 29 Ago. (EUROPA PRESS) - Los resultados finales de un estudio hist\u00f3rico publicado en 'The Lancet Infectious Diseases' confirman que los beneficios de la combinaci\u00f3n de la vacuna antipal\u00fadi\u2026 [+7665 chars]",
-      "retrievedAt": "2023-08-30 07:05:55.091880",
-      "internal_id": "75bf05a4f1acfe76dc62107bba401524a3bdf4cdc223b7bf755fb1bc43c39321",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1457,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "GlobeNewswire",
-      "title": "Health Canada Accepts Valneva's Chikungunya Vaccine License Application for Review",
-      "description": "(marketscreener.com) Saint-Herblain , August 29, 2023 \u2013 Valneva SE , a specialty vaccine company, today announced that Health Canada has completed screening validation of the Company\u2019s regulatory application for marketing approval of its single-shot chikungun\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Health-Canada-Accepts-Valneva-s-Chikungunya-Vaccine-License-Application-for-Review-44716511/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-08-29 05:01:02",
-      "content": "Saint-Herblain(France), August29, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that Health Canada has completed screening validation of the Company\u2026 [+10670 chars]",
-      "retrievedAt": "2023-08-30 07:05:56.233747",
-      "internal_id": "bf8e66e57ff7c0925e55bdc6dd146d4580e330f47622b121db2b51515d031c25",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1456,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Health Canada Accepts Valneva\u2019s Chikungunya Vaccine License Application for Review",
-      "description": "Saint-Herblain (France), August 29, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that Health Canada has completed screening validation of the Company\u2019s regulatory application for marketing approval of its\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/08/29/2733039/0/en/Health-Canada-Accepts-Valneva-s-Chikungunya-Vaccine-License-Application-for-Review.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-08-29 05:00:00",
-      "content": "Saint-Herblain(France), August29, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that Health Canada has completed screening validation of the Company\u2026 [+10589 chars]",
-      "retrievedAt": "2023-08-30 07:05:56.229432",
-      "internal_id": "490e54c493e14f7dddac499f1dd72e1b04d8953fcabf51c0cfdadc826f8388dd",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1458,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Sant\u00e9 Canada juge recevable le dossier de demande d\u2019autorisation de mise sur le march\u00e9 de Valneva pour son candidat vaccin contre le chikungunya",
-      "description": "Saint-Herblain (France), 29 ao\u00fbt 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd'hui que l\u2019agence r\u00e9glementaire Sant\u00e9 Canada a achev\u00e9 l\u2019examen de recevabilit\u00e9 de la demande d\u2019autorisation de mise sur \u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/08/29/2733039/0/fr/Sant%C3%A9-Canada-juge-recevable-le-dossier-de-demande-d-autorisation-de-mise-sur-le-march%C3%A9-de-Valneva-pour-son-candidat-vaccin-contre-le-chikungunya.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-08-29 05:00:00",
-      "content": "Saint-Herblain (France), 29 ao\u00fbt 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd'hui que lagence r\u00e9glementaire Sant\u00e9 Canada a achev\u00e9 lexamen de\u2026 [+11854 chars]",
-      "retrievedAt": "2023-08-30 07:05:56.236713",
-      "internal_id": "dfba05298d368e422b2251736648afd4fa7e487dcdc0bce5d21bfdae04a1c5f1",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1453,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "Air pollution greatest global threat to human health, says benchmark study",
-      "description": "WASHINGTON: Air pollution is more dangerous to the health of the average person on planet Earth than smoking or alcohol, with the threat worsening in its global epicentre South Asia even as China fast improves, a study showed on Tuesday (Aug 29). Yet the leve\u2026",
-      "url": "https://www.channelnewsasia.com/sustainability/air-pollution-greatest-global-threat-human-health-says-benchmark-study-3731441",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--SqmXlZdA--/c_crop,h_432,w_768,x_0,y_36/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/7e7a4b8454f346968d94ce4ac098b840f23cdc12.jpg?itok=eVFkCp3O",
-      "publishedAt": "2023-08-29 04:57:30",
-      "content": "While there is an international financing partnership called the Global Fund that disburses US$4 billion annually on HIV/AIDS, malaria and tuberculosis, there is no equivalent for air pollution. \"Ye\u2026 [+2091 chars]",
-      "retrievedAt": "2023-08-30 07:05:55.088333",
-      "internal_id": "c56e32b2f51d53e6b0753bc3434ecabfc01ae26060ca98a755c0ad0808f90d89",
       "publishedAtLabel": "Aug 29"
     }
   ]
