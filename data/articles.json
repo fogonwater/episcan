@@ -1,8 +1,136 @@
 {
-  "last_updated": "2023-09-07 19:05",
+  "last_updated": "2023-09-08 07:06",
   "count_articles_total": 300,
-  "count_articles_new": 16,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 1683,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Helen Regan",
+      "title": "Bangladesh's worst ever dengue outbreak a 'canary in the coal mine' for climate crisis, WHO expert warns",
+      "description": "Bangladesh is battling its worst dengue outbreak on record, with more than 600 people killed and 135,000 cases reported since April, the World Health Organization said Wednesday, as one of its experts blamed the climate crisis and El Nino weather pattern for \u2026",
+      "url": "https://www.cnn.com/2023/09/07/asia/who-bangladesh-worst-dengue-outbreak-climate-scn-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230906230100-01-bangladesh-dengue-090623.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-09-07 05:07:57",
+      "content": "Bangladesh is battling its worst dengue outbreak on record, with more than 600 people killed and 135,000 cases reported since April, the World Health Organization said Wednesday, as one of its expert\u2026 [+4583 chars]",
+      "retrievedAt": "2023-09-08 07:06:01.527735",
+      "internal_id": "630e12b902ce6c10a389445a6f83c2a199962dfca0e2669b7846468fffdfb187",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1686,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "\"No one can challenge our Dharma\": Smriti Irani on Udhayanidhi Stalin's remarks",
+      "description": "The Union Minister took a dig at Udhayanidhi Stalin and those who supported his \"Sanatan Dharma\" remark at the Janmashtami celebration in Delhi's Dwarka. \"Our voices must reach those people who challenged 'Sanatan Dharma'. Till devotees are alive, no one can \u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/no-one-can-challenge-our-dharma-smriti-irani-on-udhayanidhi-stalins-remarks/articleshow/103455051.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103455096,width-1070,height-580,imgsize-17548,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-07 05:01:13",
+      "content": "Coming down heavily on DMK leader and Tamil Nadu minister Udhayanidhi Stalin for his remark equating 'Sanatan Dharma' with \"mosquitoes, dengue, malaria, fever and corona\", Union Minister Smriti Irani\u2026 [+1576 chars]",
+      "retrievedAt": "2023-09-08 07:06:01.547081",
+      "internal_id": "a18d77be5ec5519ca0a3097bf83ea156aaa87e7bc9d0b6905b10ce71ae26ad8f",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1684,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "\"No One Can Challenge Our Dharma\": Smriti Irani On 'Sanatana' Remark",
+      "description": "Coming down heavily on DMK leader and Tamil Nadu minister Udhayanidhi Stalin for his remark equating 'Sanatana Dharma' with \"mosquitoes, dengue, malaria, fever and corona\", Union Minister Smriti Irani on Wednesday said that the",
+      "url": "https://www.ndtv.com/india-news/no-one-can-challenge-our-dharma-smriti-irani-on-dmk-leader-udhayanidhi-stalins-sanatana-remark-4367087",
+      "urlToImage": "https://c.ndtvimg.com/2023-08/tf0h5sdg_smriti-irani-lok-sabha-650_650x400_09_August_23.jpg",
+      "publishedAt": "2023-09-07 04:25:44",
+      "content": "\"Our voices must reach those people who challenged 'Sanatans Dharma'.\" New Delhi: Coming down heavily on DMK leader and Tamil Nadu minister Udhayanidhi Stalin for his remark equating 'Sanatana Dharm\u2026 [+1697 chars]",
+      "retrievedAt": "2023-09-08 07:06:01.537958",
+      "internal_id": "bcc84e5cec660ccddbda6d904f8b5869a6d6b856d4ea85dc210932ef3a6f8895",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1681,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u0932\u093e\u0907\u0932\u093e\u091c \u0939\u0948 \u0930\u0947\u092c\u0940\u091c...\u0915\u094d\u092f\u093e \u0915\u0941\u0924\u094d\u0924\u0947 \u0915\u0947 \u091a\u093e\u091f\u0928\u0947 \u092a\u0930 \u092d\u0940 \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948 \u0938\u0902\u0915\u094d\u0930\u092e\u0923? \u091c\u093e\u0928\u093f\u090f \u090f\u0915\u094d\u0938\u092a\u0930\u094d\u091f \u0915\u0940 \u0930\u093e\u092f",
+      "description": "\u0939\u093e\u0932 \u0939\u0940 \u092e\u0947\u0902 \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0930\u0947\u092c\u0940\u091c \u0938\u0947 14 \u0938\u093e\u0932 \u0915\u0947 \u092c\u091a\u094d\u091a\u0947 \u0915\u0940 \u092e\u094c\u0924 \u0939\u094b \u0917\u0908 \u0939\u0948\u0964 \u091c\u093f\u0938\u0915\u0947 \u092c\u093e\u0926 \u090f\u0915 \u092c\u093e\u0930 \u092b\u093f\u0930 \u0938\u0947 \u0921\u0949\u0917\u094d\u0938 \u0915\u0947 \u0935\u0948\u0915\u094d\u0938\u0940\u0928\u0947\u0936\u0928 \u0915\u093e \u092e\u093e\u092e\u0932\u093e \u091a\u0930\u094d\u091a\u093e \u092e\u0947\u0902 \u0906 \u0917\u092f\u093e \u0939\u0948\u0964 \u0910\u0938\u0947 \u092e\u0947\u0902 \u0921\u0949\u0917\u094d\u0938 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u092a\u0930 \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u0947 \u0930\u0947\u092c\u093f\u091c \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0915\u094b \u0932\u0947\u0915\u0930 \u090f\u0915\u094d\u0938\u092a\u0930\u094d\u091f \u0915\u094d\u092f\u093e \u0939\u0948\u0902? \u0906\u0907\u090f \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902...",
+      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/no-cure-for-rabies-infection-death-is-certain-even-dog-licks-you-then-take-rabies-injection-within-24-hours/articleshow/103451699.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-46570,msid-103453268/navbharat-times.jpg",
+      "publishedAt": "2023-09-07 03:57:30",
+      "content": "100% , , 14 , 24 , , , Ghaziabad News: , Anti Rabies Injection , -",
+      "retrievedAt": "2023-09-08 07:06:00.187953",
+      "internal_id": "55d4523ecce33c6e297c032c65faddc5f7a739b5676149a81261b6fbd8ae9985",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1687,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": null,
+      "title": "Record number of leptospirosis cases in Hawke\u2019s Bay after floods",
+      "description": "There have been 35 cases in the region this year alone.",
+      "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/record-number-of-leptospirosis-cases-in-hawkes-bay-after-floods/BUXUJQTR4JEOHMRIHQLWNM3L3Y/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/0ZhJqpi5r81NZameTe-nOXxUQ5Y=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/XPZJXHYP3BGTTIC6Z5DKPAGE6M.jpg",
+      "publishedAt": "2023-09-07 02:54:43",
+      "content": "Farmer Steve Wyn-Harris believes he contracted Leptospirosis during lambing. Photo / Te Whatu Ora Hawke's BayCentral Hawkes Bay farmer Steve Wyn-Harris was absolutely flattened when he contracted lep\u2026 [+2878 chars]",
+      "retrievedAt": "2023-09-08 07:06:05.766665",
+      "internal_id": "3def9b32dafe7f136cd73d26704e5a5ba5b9bf96253dd734bcde4f1560217d26",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1682,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u0930\u0947\u092c\u0940\u091c \u0938\u0947 14 \u0938\u093e\u0932 \u0915\u0947 \u092c\u091a\u094d\u091a\u0947 \u0915\u0940 \u092e\u094c\u0924: \u0926\u0939\u0936\u0924 \u092e\u0947\u0902 \u0939\u0930 \u092e\u093e\u0902-\u092c\u093e\u092a, \u0907\u0928 \u0915\u0941\u0924\u094d\u0924\u094b\u0902 \u0915\u093e \u0939\u0948 \u0915\u094d\u092f\u093e \u0907\u0932\u093e\u091c?",
+      "description": "Anti Rabies Injection: \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0915\u0941\u0924\u094d\u0924\u0947 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0930\u0948\u092c\u0940\u091c \u092b\u0948\u0938\u0932\u0928\u0947 \u0938\u0947 \u092c\u091a\u094d\u091a\u0947 \u0915\u0940 \u092e\u094c\u0924 \u0915\u0940 \u091a\u0930\u094d\u091a\u093e \u0939\u0930 \u0915\u094b\u0908 \u0915\u0930 \u0930\u0939\u093e \u0939\u0948\u0964 \u0907\u0938 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0932\u093e\u0907\u0928 \u0932\u0902\u092c\u0940 \u0939\u094b \u0917\u0908 \u0939\u0948\u0964 \u092b\u093f\u0932\u0939\u093e\u0932 500 \u0932\u094b\u0917 \u0939\u0930 \u0926\u093f\u0928 \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u092c\u0902\u0926\u0930 \u092f\u093e \u0915\u0941\u0924\u094d\u0924\u0947 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u092a\u0930 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0932\u0917\u0935\u093e \u0930\u0939\u0947 \u0939\u0948\u0902\u0964",
+      "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/dog-bite-increased-tension-huge-line-in-hospitals-for-anti-rabies-injection-ghaziabad-news/articleshow/103447568.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-48376,msid-103455590/navbharat-times.jpg",
+      "publishedAt": "2023-09-07 01:09:25",
+      "content": ", : 14 - - , , 500 , , 24 , NBT , 2022 6542 688 , 24580 , , 15 , 24 2022 6542 688 , 24580 15 , , . , , , , , 24 , , , , , , , - , , , , , , RWA RWA , , , Navbharat Times News App\u2026 [+325 chars]",
+      "retrievedAt": "2023-09-08 07:06:00.195557",
+      "internal_id": "57865f3ea1fdb282edd9ff84dfff736fe436d45e8824761996b39712b80c8ab0",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1685,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Dengue pone a Costa Rica en alerta sanitaria",
+      "description": "Aumento del dengue en las \u00faltimas semanas motiva declaratoria de alerta sanitaria; Sarapiqu\u00ed, Siquirres, Pococ\u00ed y Puntarenas son los cantones con mayor incidencia",
+      "url": "https://www.nacion.com/ciencia/salud/dengue-pone-a-costa-rica-en-alerta-sanitaria/ZW5O5ECAGNDZ3JN7F5PXOGEN7Y/story/",
+      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
+      "publishedAt": "2023-09-06 20:15:43",
+      "content": "El dengue no cede en Costa Rica. La tarde de este 6 de setiembre, el Ministerio de Salud declar\u00f3 alerta sanitaria por esta enfermedad transmitida por el mosquito Aedes aegypti.Datos de Salud indican \u2026 [+4111 chars]",
+      "retrievedAt": "2023-09-08 07:06:01.545070",
+      "internal_id": "c89c17be499dd80ca78adbf520279f5d832a96a576a47dd052baa6373a784776",
+      "publishedAtLabel": "Sep 6"
+    },
     {
       "id": 1677,
       "query": [
@@ -366,7 +494,8 @@
     {
       "id": 1660,
       "query": [
-        "malaria"
+        "malaria",
+        "dengue"
       ],
       "source_id": "the-times-of-india",
       "source_name": "The Times of India",
@@ -3510,132 +3639,6 @@
       "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
       "retrievedAt": "2023-09-01 15:21:31.006963",
       "internal_id": "3e6a9ad6ab80b6e4e10894d06b017161f60354a4e39225dc7f10769fc0561e10",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1468,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Worm plucked from brain of woman in Australia - NBC News",
-      "description": "Worm plucked from brain of woman in AustraliaNBC News Australian neurosurgeon finds parasitic worm in woman\u2019s brain while investigating 'mystery illness'Fox News Neurosurgeon removes live worm from woman's brain in world-first discovery | DW NewsDW News Dem f\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722496",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:34:51",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.009409",
-      "internal_id": "fd0401a7e0db98055524966d6f7a27cde2892dda73379dc717ee1b43a3d2f94e",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1480,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "UNC-Chapel Hill graduate student charged with murder in fatal shooting of faculty member - NBC News",
-      "description": "UNC-Chapel Hill graduate student charged with murder in fatal shooting of faculty memberNBC News University of North Carolina faculty member is killed in campus shooting, and a suspect is in custody, school saysCNN UNC shooting leaves 1 dead and a campus trau\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722494",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:34:33",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.045922",
-      "internal_id": "cead0f619f8a63ab9108e466122cedf702f2ac2dd624316826128c9fa3f2501c",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1479,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "The hospital bill was 'adjusted.' Does the patient's widow need to pay more? : Shots - Health News - NPR",
-      "description": "The hospital bill was 'adjusted.' Does the patient's widow need to pay more? : Shots - Health NewsNPR View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722492",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:34:14",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.043535",
-      "internal_id": "a6d36125db1cab1ace41e981d2b51591369a86b9666a497e707c5ae92d1b5eb0",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1474,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Prigozhin buried in private funeral - Wagner chief's press service - BBC",
-      "description": "Prigozhin buried in private funeral - Wagner chief's press serviceBBC Russia-Ukraine War LIVE: Russian mercenaries bid farewell to Prigozhin's deputies killed in crashWION Putin's former speechwriter: Putin's position has 'greatly improved' after Prigozhin's \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722488",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:33:54",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.026199",
-      "internal_id": "262ddccedbc4cb7fef208583d70cc68f41da4267339bc99b011704e1bc158d05",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1469,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Vatican Tries to Clean Up Pope's 'Great Mother Russia' Mess - The Daily Beast",
-      "description": "Vatican Tries to Clean Up Pope's 'Great Mother Russia' MessThe Daily Beast Pope Francis praises Russian empire, sparking Ukraine furyNBC News Pope Francis Praises Historical Russian Imperialism Amid War in UkraineThe Wall Street Journal Why is Pope Francis pr\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722486",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:33:34",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.012565",
-      "internal_id": "d46ff0e4ed221a40f733ed095d09ee281b5156d395835ca9229d1b378c480b6f",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1463,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Apple sends invites for Sept. 12 launch event, new iPhone 15 expected - CNBC",
-      "description": "Apple sends invites for Sept. 12 launch event, new iPhone 15 expectedCNBC Apple's September Event: New Products to Expect Beyond the iPhone 15MacRumors Apple iPhone 15 event just announced for September 12 \u2014 here's all the detailsTom's Guide Apple announces S\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722484",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:33:14",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:30.998219",
-      "internal_id": "c8d3ec07e920d1d91d7dd6217c444c81fa70d85a96517cce78d9a14e06e65286",
-      "publishedAtLabel": "Aug 29"
-    },
-    {
-      "id": 1471,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Google's Duet AI is now available in Gmail, Docs, and more for $30 a month - The Verge",
-      "description": "Google's Duet AI is now available in Gmail, Docs, and more for $30 a monthThe Verge Google's AI feature in Gmail and productivity apps will cost big businesses $30 a month per userCNBC Google Chat redesign brings new homescreen, huddles, Duet AI9to5Google Due\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171722480",
-      "urlToImage": null,
-      "publishedAt": "2023-08-29 16:32:53",
-      "content": "\"You don't go out and kick a mad dog. If you have a mad dog with rabies, you take a gun and shoot him.\" -- Pat Robertson, TV Evangelist, about Muammar Kadhafy",
-      "retrievedAt": "2023-09-01 15:21:31.019473",
-      "internal_id": "3cdbe2d52a3ff2de7e5252121a988372267b506a3c6bfa46c196eae33a87767f",
       "publishedAtLabel": "Aug 29"
     }
   ]
