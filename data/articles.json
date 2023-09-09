@@ -1,8 +1,171 @@
 {
-  "last_updated": "2023-09-08 19:05",
+  "last_updated": "2023-09-09 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 14,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 1705,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "CNA Explains: Why is Singapore at risk of a surge in dengue cases?",
+      "description": "Following news that Singapore is at risk of a surge in dengue cases, CNA looks at what causes an outbreak to happen and why certain areas are more susceptible to dengue.",
+      "url": "https://www.channelnewsasia.com/singapore/dengue-clusters-surge-aedes-mosquito-toa-payoh-3753571",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--wyZEvDk0--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/07/istock-513235504.jpg?itok=4pUVGe1i",
+      "publishedAt": "2023-09-08 03:57:00",
+      "content": "In 2016, NEA started the first field release of Project Wolbachia-Singapore. The idea behind the project is to release male Aedes aegypti mosquitoes that carry the Wolbachia bacteria so that they mat\u2026 [+3555 chars]",
+      "retrievedAt": "2023-09-09 07:05:42.253345",
+      "internal_id": "371d324b808dd0682527e4b8145783367b3998211673e556941252e8aac44329",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1712,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "Mosabber Hossain,Aadesh Subedi",
+      "title": "Mosquito-borne dengue grows deadlier in South Asia as planet warms",
+      "description": "Mosquito-borne dengue fever is taking a heavy toll on South Asian nations this year as Bangladesh grapples with record deaths and Nepal faces cases in new areas, with disease experts linking worsening outbreaks to the impacts of climate change.",
+      "url": "https://www.japantimes.co.jp/environment/2023/09/08/wildlife/warming-planet-mosquito-dengue-threat/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/09/08/250609.jpg",
+      "publishedAt": "2023-09-08 03:17:00",
+      "content": "DHAKA/KATHMANDU Mosquito-borne dengue fever is taking a heavy toll on South Asian nations this year as Bangladesh grapples with record deaths and Nepal faces cases in new areas, with disease experts \u2026 [+6950 chars]",
+      "retrievedAt": "2023-09-09 07:05:42.278012",
+      "internal_id": "6052afbf7b9546296241d6fde4dd65b60ead095051e2b6085555754534c601b5",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1715,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Mpox infections reported for first time since spring, but Covid cases are falling",
+      "description": "The first cases of mpox since late April have been detected in Ireland, but reported Covid-19 infections continue to fall.",
+      "url": "https://www.independent.ie/irish-news/mpox-infections-reported-for-first-time-since-spring-but-covid-cases-are-falling/a199690019.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/qvAk7nton1Ys7sOlSLP7hr9X1fc=/0x0:4473x2982/4473x2982/prod-mh-ireland/4090f654-0cdf-44a8-be7d-12d9bb2db0e6/afc1cf2c-da6e-4b10-b9a2-6c5744db4916/4090f654-0cdf-44a8-be7d-12d9bb2db0e6.jpg",
+      "publishedAt": "2023-09-08 01:30:00",
+      "content": "The first cases of mpox since late April have been detected in Ireland, but reported Covid-19 infections continue to fall.Five cases of mpox formerly known as monkeypox were notified last month and s\u2026 [+2439 chars]",
+      "retrievedAt": "2023-09-09 07:05:44.675634",
+      "internal_id": "a98591ecdab1fbff0840fadfb5f160e5b05e7814742a879d5235ad8fa4cd988c",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1707,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Niranjan Kaggere",
+      "title": "Bengaluru reports first dengue deaths in 3 years",
+      "description": "Seven deaths have been reported in the city in the last three months among patients hospitalised with symptoms for dengue, with three of those deaths said to have been caused directly by the virus - the first confirmed dengue-related deaths in Bengaluru in th\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-reports-first-dengue-deaths-in-3-years/articleshow/103484596.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103484605,width-1070,height-580,imgsize-798384,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-07 23:31:14",
+      "content": "Sweet pictures of Jawan actress Nayanthara",
+      "retrievedAt": "2023-09-09 07:05:42.265691",
+      "internal_id": "baa80532f89e86bad65681f7f891490fe07af01ed370b1d6425fbc8269671eab",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1703,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Paula Vansack",
+      "title": "Bat tests positive for rabies in eastern Racine County",
+      "description": "Rabies can be fatal to humans without proper medical treatment.",
+      "url": "https://www.wisn.com/article/bat-tests-positive-for-rabies-in-eastern-racine-county/45039080",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wisn/20444368-20444368.jpg?crop=0.998xw:1.00xh;0.00163xw,0&resize=1200:*",
+      "publishedAt": "2023-09-07 21:25:20",
+      "content": "RACINE COUNTY, Wis. \u2014The Racine County Public Health Division says a bat has tested positive for rabies. The bat was tested after being captured in the eastern part of Racine County. Rabies can sp\u2026 [+958 chars]",
+      "retrievedAt": "2023-09-09 07:05:41.356918",
+      "internal_id": "d4ae56f459a82dbd931cabe88ab31005fe1199e96a00a1f5bbad802f99d0ae36",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1702,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "fox6now.com",
+      "author": "Fox6 News",
+      "title": "Racine County bat rabies case; eastern part of county",
+      "description": "The Racine County Public Health Division announced it is advising the public regarding a positive report of rabies found in a bat.",
+      "url": "https://www.fox6now.com/news/racine-county-bat-rabies-case-eastern-county",
+      "urlToImage": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2020/07/1280/720/4bd4e49d-untitled49.jpg?ve=1&tl=1",
+      "publishedAt": "2023-09-07 20:23:59",
+      "content": "RACINE COUNTY, Wis. - The Racine County Public Health Division announced on Thursday, Sept. 7 that it is advising the public regarding a positive report of rabies found in a bat. The bat was found in\u2026 [+1646 chars]",
+      "retrievedAt": "2023-09-09 07:05:41.350196",
+      "internal_id": "d209746b35fa48c3e21098a0b1e768e8b5324fd6eaa565ccd71c23d8b9c0d9e1",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1704,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Dengue Outbreak In Bangladesh Is Being Blamed On \u201cClimate Change\u201d",
+      "description": "It shouldn't come as a big surprise that the ruling classes are blaming all disease and plandemics on \"climate change.\" Bangladesh's dengue fever outbreak is the \"canary in the coal mine\" as far as The World Health Organization is concerned.",
+      "url": "https://www.shtfplan.com/headline-news/dengue-outbreak-in-bangladesh-is-being-blamed-on-climate-change",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2017/09/mosquito-1-e1505219927469.jpg",
+      "publishedAt": "2023-09-07 20:00:03",
+      "content": "It shouldn\u2019t come as a big surprise that the ruling classes are blaming all disease and plandemics on \u201cclimate change.\u201d Bangladesh\u2019s dengue fever outbreak is the \u201ccanary in the coal mine\u201d as far as T\u2026 [+2101 chars]",
+      "retrievedAt": "2023-09-09 07:05:42.251186",
+      "internal_id": "b9306bc4e0b44ea5068f9197535557bda1fae4cff6a80bbbfa7117afd06579c6",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1706,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "\"DMK Means Dengue Malaria Kosu\": Tamil Nadu BJP President K Annamalai",
+      "description": "Tamil Nadu BJP President K Annamalai on Thursday launched a scathing attack on DMK and equated the party's name with \"Dengue Malaria Kosu\".",
+      "url": "https://www.ndtv.com/india-news/dmk-means-dengue-malaria-kosu-tamil-nadu-bjp-president-k-annamalai-4369777",
+      "urlToImage": "https://c.ndtvimg.com/2023-04/fuiod5kg_k-annamalai_625x300_29_April_23.jpg",
+      "publishedAt": "2023-09-07 19:23:55",
+      "content": "Tamil Nadu BJP President K Annamalai slammed Udhayanidhi Stalin over his comment on Sanatan Dharma Chennai: Tamil Nadu BJP President K Annamalai on Thursday launched a scathing attack on DMK and equ\u2026 [+2640 chars]",
+      "retrievedAt": "2023-09-09 07:05:42.258461",
+      "internal_id": "bcb85c80e90d166d18b7906de71bca373f48b6e3f0248cda9a74ef061f3bbb78",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1716,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Johnny Brew",
+      "title": "Mpox: all you need to know about the disease formerly known as monkeypox",
+      "description": "Mpox: all you need to know about the disease formerly known as monkeypox.",
+      "url": "https://www.independent.ie/videos/mpox-all-you-need-to-know-about-the-disease-formerly-known-as-monkeypox/a1515224396.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/XnAK9h0cXgnxgMK5hNZtrjUoIo4=/61x0:736x450/675x450/prod-mh-ireland/311b0fb7-4109-47bc-a32e-456285b192f3/1fe1df42-5ae5-4648-b60f-1f7e0d548a54/video/video.jpg",
+      "publishedAt": "2023-09-07 19:06:05",
+      "content": "Mpox: all you need to know about the disease formerly known as monkeypox.",
+      "retrievedAt": "2023-09-09 07:05:44.678649",
+      "internal_id": "23b87bf0ad2f5b07dff58c3f0d530bc322fc37de2c9885eae3d2406e54df9aea",
+      "publishedAtLabel": "Sep 7"
+    },
     {
       "id": 1690,
       "query": [
@@ -55,6 +218,24 @@
       "content": "During May 12, 2022\u2013May 18, 2023, persons with mpox who had received 1 or 2 preexposure doses of JYNNEOS vaccine or had received JYNNEOS as PEP had lower odds of being hospitalized than did unvaccina\u2026 [+4691 chars]",
       "retrievedAt": "2023-09-08 19:05:24.307638",
       "internal_id": "9b87d985dfa567fad79cef567684414fd20a5749071d904a975c4764018db75f",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
+      "id": 1708,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "\u00bfCu\u00e1les son los s\u00edntomas del dengue?",
+      "description": "Costa Rica se encuentra en alerta sanitaria por dengue, por eso es bueno repasar los s\u00edntomas de esta enfermedad y ver c\u00f3mo podemos cuidarnos.",
+      "url": "https://www.nacion.com/ciencia/salud/cuales-son-los-sintomas-del-dengue/BSPKLYG5HNGURB3N5DZIO4X3I4/story/",
+      "urlToImage": "https://www.nacion.com/resizer/F2SeQyID7V_Zcyo8iMeoenkansQ=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/RLGZA6Y4Q5BNFIO2WJQ7HHOAJE.jpg",
+      "publishedAt": "2023-09-07 15:57:20",
+      "content": "Las autoridades de salud piden estar atentos a los siguientes manifestaciones y, de ser as\u00ed, acudir al centro de salud m\u00e1s cercano: Fiebre, con temperaturas superiores a los 38 \u00b0C.D\u2026 [+2051 chars]",
+      "retrievedAt": "2023-09-09 07:05:42.270941",
+      "internal_id": "fa23b6a78d72a1185e27ba6b137dddede81dad0f1e486cba1ae09b8f52efceab",
       "publishedAtLabel": "Sep 7"
     },
     {
@@ -783,6 +964,24 @@
       "publishedAtLabel": "Sep 6"
     },
     {
+      "id": 1709,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "As\u00ed se transmite el dengue: atento a los s\u00edntomas y las claves para detectarlo",
+      "description": "El virus del dengue es una enfermedad que afecta cada a\u00f1o a alrededor de 400 millones de personas. Afecta especialmente en zonas de Am\u00e9ricas, \u00c1frica, Medio Oriente, Asia y las Islas del Pac\u00edfico y cualquier persona que viva en un \u00e1rea con riesgo de dengue o v\u2026",
+      "url": "https://www.abc.es/sociedad/transmite-dengue-atento-sintomas-claves-detectarlo-20230906035506-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2023/09/06/mosquito-kspD--1024x512@abc.jpg",
+      "publishedAt": "2023-09-06 01:55:23",
+      "content": "El virus del dengue es una enfermedad que afecta cada a\u00f1o a alrededor de 400 millones de personas. Afecta especialmente en zonas de Am\u00e9ricas, \u00c1frica, Medio Oriente, Asia y las Islas del Pac\u00edfico y cu\u2026 [+3149 chars]",
+      "retrievedAt": "2023-09-09 07:05:42.272983",
+      "internal_id": "42dbe6d7c2408dee41012b112e6c959d6a7ac492edfad5ba8b4c6fecbcf32e8f",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
       "id": 1662,
       "query": [
         "zika"
@@ -1071,6 +1270,24 @@
       "publishedAtLabel": "Sep 5"
     },
     {
+      "id": 1710,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Un menor en Reus, primer caso de dengue aut\u00f3ctono en Catalu\u00f1a desde 2019",
+      "description": "El departamento de Salud de la Generalitat de Catalu\u00f1a ha confirmado el primer caso de dengue aut\u00f3ctono en Catalu\u00f1a desde 2019. Se trata de un menor de Reus (Tarragona) que estuvo ingresado en el hospital de la localidad y actualmente est\u00e1 dado de alta en su \u2026",
+      "url": "https://www.abc.es/sociedad/confirman-menor-primer-dengue-autoctono-cataluna-2019-20230905143037-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2023/09/05/dengue-U26470275735zEw-1024x512@abc.jpg",
+      "publishedAt": "2023-09-05 13:22:15",
+      "content": "El departamento de Salud de la Generalitat de Catalu\u00f1a ha confirmado el primer caso de dengue aut\u00f3ctono en Catalu\u00f1a desde 2019. Se trata de un menor de Reus (Tarragona) que estuvo ingresado en el hos\u2026 [+1666 chars]",
+      "retrievedAt": "2023-09-09 07:05:42.274745",
+      "internal_id": "0f99bf3ec6b84ec18bfeb9c231a39d6213b108e64f0a72341976e88527e398f7",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
       "id": 1641,
       "query": [
         "dengue"
@@ -1140,6 +1357,24 @@
       "content": "The Bangkok Metropolitan Administration (BMA) is offering monkeypox (mpox) treatment and prevention consultations at clinics after a sharp rise in the number of cases of the disease. Eighty monkeypo\u2026 [+3351 chars]",
       "retrievedAt": "2023-09-06 19:05:31.811828",
       "internal_id": "dc42e84c36abc1075de61796a7abc8524e2effe4d73131e1518d008fccf4d711",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1711,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "Il focolaio di dengue in provincia di Lodi",
+      "description": "\u00c8 stata avviata una campagna di screening per limitare i contagi dopo la scoperta di otto casi a Castiglione d'Adda, in Lombardia",
+      "url": "https://www.ilpost.it/2023/09/05/focolaio-dengue-lombardia/",
+      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2023/09/05/1693908659-AP23173281339142.jpg",
+      "publishedAt": "2023-09-05 10:43:10",
+      "content": "Italiamarted\u00ec 5 Settembre 2023 La scorsa settimana in provincia di Lodi, in Lombardia, oltre 300 persone si sono sottoposte agli esami per trovare nuovi eventuali casi di \u2026 [+4780 chars]",
+      "retrievedAt": "2023-09-09 07:05:42.276183",
+      "internal_id": "0fd37a53fce2ce53f6bc57837aa256592218bb9e794fe12046ef149665197318",
       "publishedAtLabel": "Sep 5"
     },
     {
@@ -1269,6 +1504,42 @@
       "content": "During this season, several illnesses like fever, digestive problem, dengue, malaria, etc. spread at a faster rate.",
       "retrievedAt": "2023-09-06 07:05:44.999825",
       "internal_id": "ee91e16de3afee0804702ad238f95f48b14a8d554a0251efe388bc34a432a1ec",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1714,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u092c\u093e\u0926 \u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u092a\u0930 \u092a\u094d\u0930\u093f\u092f\u093e\u0902\u0915 \u0916\u0921\u093c\u0917\u0947 \u0928\u0947 \u0926\u093f\u092f\u093e \u092c\u092f\u093e\u0928, \u0926\u0947\u0916\u0947\u0902 \u0915\u094d\u092f\u093e \u0915\u0939\u093e",
+      "description": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u0915\u0947 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u090f\u092e\u0915\u0947 \u0938\u094d\u091f\u093e\u0932\u093f\u0928 \u0915\u0947 \u092c\u0947\u091f\u0947 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u0940 \u0924\u0930\u0939 \u0939\u0948 \u0914\u0930 \u0907\u0938\u0947 \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0938\u0947 \u092e\u093f\u091f\u093e \u0926\u0947\u0928\u093e \u091a\u093e\u0939\u093f\u090f. \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u092a\u094d\u0930\u093f\u092f\u093e\u0902\u0915 \u0916\u0921\u093c\u0917\u0947 \u0928\u0947 \u092d\u0940 \u0938\u0928\u093e\u0924\u0928 \u092a\u0930 \u092c\u092f\u093e\u0928 \u0926\u0947\u0924\u0947 \u0939\u0941\u090f \u0915\u0939\u093e \u0915\u093f \u091c\u094b \u0918\u0930\u094d\u092e \u0938\u092e\u093e\u0928\u0924\u093e \u0928\u093e \u0926\u0947 \u0935\u094b \u0927\u0930\u094d\u092e \u0928\u0939\u0940\u0902. \u0926\u0947\u0916\u0947\u0902",
+      "url": "https://www.aajtak.in/india/politics/video/udhayanidhi-stalin-sanatana-dharma-remark-priyank-kharge-also-gives-controversial-statement-1772282-2023-09-05",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202309/priyank-kharge-also-gives-controversial-statement-sixteen_nine.png",
+      "publishedAt": "2023-09-05 02:39:03",
+      "content": ". . Tamil Nadu Chief Minister MK Stalin's son Udhayanidhi said that Sanatan Dharma is like dengue and malaria and should be eradicated completely The culture is Dravidian culture. And now in this \u2026 [+65 chars]",
+      "retrievedAt": "2023-09-09 07:05:43.308546",
+      "internal_id": "b71f5815b034b844df633f7c8d645a9502c62a70896f9993aa0905cc4dceaa62",
+      "publishedAtLabel": "Sep 5"
+    },
+    {
+      "id": 1713,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u092a\u0930 \u0938\u0940\u090f\u092e \u0915\u0947 \u092c\u0947\u091f\u0947 \u0915\u093e \u0935\u093e\u092f\u0930\u0932 \u092c\u092f\u093e\u0928 \u0915\u093f\u0924\u0928\u093e \u0938\u0939\u0940? \u0926\u0947\u0916\u0947\u0902 \u092a\u0942\u0930\u093e \u0935\u093f\u0936\u094d\u0932\u0947\u0937\u0923",
+      "description": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u0915\u0947 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u090f\u092e\u0915\u0947 \u0938\u094d\u091f\u093e\u0932\u093f\u0928 \u0915\u0947 \u092c\u0947\u091f\u0947 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u0940 \u0924\u0930\u0939 \u0939\u0948 \u0914\u0930 \u0907\u0938\u0947 \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0938\u0947 \u092e\u093f\u091f\u093e \u0926\u0947\u0928\u093e \u091a\u093e\u0939\u093f\u090f, \u0907\u0924\u0928\u093e \u0939\u0940 \u0928\u0939\u0940\u0902, \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0935\u094b \u0905\u092a\u0928\u0947 \u092a\u0941\u0930\u093e\u0928\u0947 \u092c\u092f\u093e\u0928 \u092a\u0930 \u0905\u092c \u092d\u0940 \u0915\u093e\u092f\u092e \u0939\u0948\u0902 \u0914\u0930 \u0938\u0928\u093e\u0924\u092e \u0927\u0930\u094d\u092e \u0938\u0947 \u0905\u091a\u094d\u091b\u0940 \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u0926\u094d\u0930\u0935\u093f\u0921\u093c \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u0939\u0948.",
+      "url": "https://www.aajtak.in/india/politics/video/udhayanidhi-stalin-sanatana-dharma-remark-creates-new-controversy-full-analysis-1772266-2023-09-05",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202309/udhayanidhi-stalin-sanatana-dharma-remark-sixteen_nine_0.png",
+      "publishedAt": "2023-09-05 01:39:33",
+      "content": ", , . Tamil Nadu Chief Minister MK Stalin's son Udhayanidhi said that Sanatan Dharma is like dengue and malaria and should be eradicated completely The culture is Dravidian culture. Watch full ana\u2026 [+5 chars]",
+      "retrievedAt": "2023-09-09 07:05:43.305664",
+      "internal_id": "ab3e17b67bec055a59d0f9f12371d484eb1a93d6084b75ed3566b514126128a4",
       "publishedAtLabel": "Sep 5"
     },
     {
@@ -3368,278 +3639,6 @@
       "retrievedAt": "2023-09-01 07:05:38.554932",
       "internal_id": "150531cc71301c4099e245479844de94c4c95ec698fce875511857f34a7a8764",
       "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1511,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Standaard.be",
-      "author": "Pascal Sertyn",
-      "title": "Grote investering in Belgi\u00eb voor de productie van \u2019s werelds eerste malariavaccin",
-      "description": "Het Britse farmaconcern GSK is fors aan het investeren in zijn Belgische vaccintak. Het investeert 250 miljoen euro in een nieuwe en grotere vriesdroogfabriek. Die is onder meer nodig voor \u2019s werelds eerste malaria\u00advaccin.",
-      "url": "https://www.standaard.be/cnt/dmf20230830_96091105",
-      "urlToImage": "https://static.standaard.be/Assets/Images_Upload/2023/08/30/42a7a7c5-4fe6-49ac-be2c-9563fc492673.jpg?maxheight=416&maxwidth=568",
-      "publishedAt": "2023-08-31 03:00:00",
-      "content": "Het Britse farmaconcern GSK is fors aan het investeren in zijn Belgische vaccintak. Het investeert 250 miljoen euro in een nieuwe en grotere vriesdroogfabriek. Die is onder meer nodig voor s werelds \u2026 [+2458 chars]",
-      "retrievedAt": "2023-09-01 15:21:45.398598",
-      "internal_id": "8e8a6d48bca9dc2d94d28ca372446a20c409d21c0009c1047bba7ea4a279c4a8",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1500,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "UPI.com",
-      "author": "Sheri Walsh",
-      "title": "Texas swimmer dies from infection caused by brain-eating amoeba",
-      "description": "A swimmer in Texas has died after developing a meningitis infection caused by a brain-eating amoeba from an Austin area lake, health officials announced...",
-      "url": "https://www.upi.com/Top_News/US/2023/08/30/texas-swimmer-dies-brain-eating-amoeba/8701693446714/",
-      "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/c247452a4cdbe2554ea9e51b1fc75ab8",
-      "publishedAt": "2023-08-31 02:38:56",
-      "content": "Aug. 30 (UPI) -- A swimmer in Texas has died after developing a meningitis infection caused by a brain-eating amoeba from an Austin area lake, health officials announced Wednesday. Austin Public Hea\u2026 [+2637 chars]",
-      "retrievedAt": "2023-09-01 15:21:44.165754",
-      "internal_id": "b0efb656ae052e995371e86d8b108ed8b4c5f23f500a5b32ba99bf081b1b606b",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1496,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Bangladesh's dengue cases soar to 119,133 with 569 deaths",
-      "description": "DHAKA, Aug. 30 (Xinhua) -- Bangladesh reported 2,291 new dengue cases and 13 more deaths on Tuesday,",
-      "url": "http://en.people.cn/n3/2023/0831/c90000-20065777.html",
-      "urlToImage": null,
-      "publishedAt": "2023-08-31 01:44:32",
-      "content": "(Xinhua) 09:37, August 31, 2023 DHAKA, Aug. 30 (Xinhua) -- Bangladesh reported 2,291 new dengue cases and 13 more deaths on Tuesday, bringing the tally to 119,133 and the death toll to 569 since Jan\u2026 [+673 chars]",
-      "retrievedAt": "2023-09-01 15:21:33.455335",
-      "internal_id": "bcda792c997fccb5346034dfd880fed841d5d0d9d851201bd8d0d55da1e61250",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1499,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Aliza Chasan",
-      "title": "Swimmer in Texas dies after infection caused by brain-eating amoeba",
-      "description": "The swimmer developed amebic meningitis infection after swimming in Lake Lyndon B. Johnson in August.",
-      "url": "https://www.cbsnews.com/news/texas-swimmer-dies-after-infection-caused-by-brain-eating-amoeba/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/30/c90db1c2-9c56-4a98-b4ad-b42f14b4b147/thumbnail/1200x630/2a4b1a9ba80159d1cb54d3f227f71757/gettyimages-508890748-1.jpg?v=a8a34dbc23229a263a09ea92e9d5b7dc",
-      "publishedAt": "2023-08-30 23:28:14",
-      "content": "A Texas resident contracted an illness caused by a brain-eating amoeba and died after going for a swim, officials said Wednesday. The swimmer developed amebic meningitis infection, which is caused \u2026 [+2664 chars]",
-      "retrievedAt": "2023-09-01 15:21:44.159995",
-      "internal_id": "22c6a47ba95dafbdba881aa3f7da247157f5df50d262447da26b917718249a87",
-      "publishedAtLabel": "Aug 30"
-    },
-    {
-      "id": 1460,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "usa-today",
-      "source_name": "USA Today",
-      "author": "USA TODAY, Mary Walrath-Holdridge, USA TODAY",
-      "title": "More than half of dog owners are suspicious of rabies and other vaccines, new study finds",
-      "description": "Another 40% were concerned that routine vaccines could cause their dog to develop autism, a belief that has long since been disproven in humans.",
-      "url": "https://www.usatoday.com/story/news/nation/2023/08/30/more-than-half-dog-owners-skeptical-rabies-vaccine-study/70721283007/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2023/08/30/USAT/1913fbe5-30d9-47f8-a890-f836f38dd5ef-GettyImages-1159854121.jpg?auto=webp&crop=2120,1193,x0,y107&format=pjpg&width=1200",
-      "publishedAt": "2023-08-30 23:02:00",
-      "content": "A new wave of vaccine suspicion has extended to our pets, a new study found. Published Sunday in the journal Vaccine, the study surveyed 2,200 people on their opinions regarding routine vaccinations\u2026 [+6827 chars]",
-      "retrievedAt": "2023-09-01 15:21:30.988564",
-      "internal_id": "a51fd8b7f3b6c7cac24755ec62f085e92d9850b0608e91e2d7cde783efeec1e8",
-      "publishedAtLabel": "Aug 30"
-    },
-    {
-      "id": 1490,
-      "query": [
-        "dengue",
-        "malaria",
-        "leptospirosis"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Sumitra Debroy",
-      "title": "Mumbai boy tests +ve for malaria, lepto & dengue together, dies",
-      "description": "In a rare case, doctors at the civic-run BYL Nair Hospital recently treated a 14-year-old boy from Kurla who was simultaneously infected with all three monsoon ailments-dengue, malaria and leptospirosis-and despite their best efforts, succumbed to the complic\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/kurla-boy-tests-ve-for-malaria-lepto-dengue-together-dies/articleshow/103224662.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103224745,width-1070,height-580,imgsize-16072,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-08-30 22:55:24",
-      "content": "Japanese exercises for trimming your belly fat",
-      "retrievedAt": "2023-09-01 15:21:33.421318",
-      "internal_id": "954e78f40217a2b0b268dbd29689fe9d41ea6ad2d45b7a15e2312390c6d47c54",
-      "publishedAtLabel": "Aug 30"
-    },
-    {
-      "id": 1502,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Louis Casiano",
-      "title": "Texas resident dies from rare amoeba infection after swimming in lake",
-      "description": "A Texas resident is dead after contracting an amebic meningitis infection from a lake, health officials said Wednesday.",
-      "url": "https://www.foxnews.com/us/texas-resident-dies-from-rare-amoeba-infection-after-swimming-in-lake",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/lake-lbj.jpg",
-      "publishedAt": "2023-08-30 20:38:35",
-      "content": "A Texas resident has died from an illness caused by an amebic meningitis infection after swimming at a lake, health officials said Wednesday. The unnamed Travis County resident developed the infect\u2026 [+1096 chars]",
-      "retrievedAt": "2023-09-01 15:21:44.169869",
-      "internal_id": "c24db8c70c57aaa2a01cfa3357582e8e145a83875e035a108860d2415e08f317",
-      "publishedAtLabel": "Aug 30"
-    },
-    {
-      "id": 1505,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Vox",
-      "author": "Keren Landman",
-      "title": "What could cause a malaria comeback in the US \u2014 and what could stop it",
-      "description": "Americans shouldn\u2019t take a malaria-free future for granted.",
-      "url": "https://www.vox.com/2023/7/4/23778786/malaria-us-florida-texas-maryland-climate-change-travel-resurgence-comeback",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JVrMOLrrJpdGlvTdZjQNHG3awr8=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24762549/594886104.jpg",
-      "publishedAt": "2023-08-30 18:03:22",
-      "content": "Over the last few months, nine people in the US (seven in Florida, one in Texas, and, in late August, one in Maryland) have acquired malaria within the countrys borders. Thats pretty uncommon at leas\u2026 [+11898 chars]",
-      "retrievedAt": "2023-09-01 15:21:45.377832",
-      "internal_id": "59b07f27cebf21a92b3e91439ee07d06d6d46fce8afcbe57c6f00af2fd1158a8",
-      "publishedAtLabel": "Aug 30"
-    },
-    {
-      "id": 1484,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "La Vanguardia",
-      "author": "Esteban Garc\u00eda Marcos",
-      "title": "Bill Gates y su idea m\u00e1s disparatada para luchar contra el cambio clim\u00e1tico: tapar el sol",
-      "description": "Existen una serie de multimillonarios con planes realmente locos que buscan mejorar la salud de nuestro planeta. De hecho, el propio Bill Gates tiene una granja de mosquitos que sirve para luchar contra enfermedades como el dengue o la fiebre amarilla. Aunque\u2026",
-      "url": "https://www.lavanguardia.com/andro4all/series/bill-gates-y-su-idea-mas-disparatada-para-luchar-contra-el-cambio-climatico-tapar-el-sol",
-      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/08/bill-gates-quiere-tapar-el-sol.png?width=1200",
-      "publishedAt": "2023-08-30 16:01:17",
-      "content": "Muchos millonarios quieren tapar el sol, entre ellos Bill Gates Existen una serie de multimillonarios con planes realmente locos que buscan mejorar la salud de nuestro planeta. De hecho, el propio B\u2026 [+3143 chars]",
-      "retrievedAt": "2023-09-01 15:21:33.396379",
-      "internal_id": "0ea2ef41814e8a5c7bb2806d9a852764e1d92d3c99fbb7ab3903b4b471d229e8",
-      "publishedAtLabel": "Aug 30"
-    },
-    {
-      "id": 1504,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "KVUE.com",
-      "author": "Britny Eubank",
-      "title": "Travis County resident dies after amebic meningitis infection",
-      "description": "The person became ill after swimming in Lake LBJ, according to Austin Public Health.",
-      "url": "https://www.kvue.com/article/news/health/lake-lbj-amebic-meningitis-death/269-92f10f45-561d-48dc-8ef9-b9ea3e90e0af",
-      "urlToImage": "https://media.kvue.com/assets/KVUE/images/472e5b58-7929-44ac-b467-a708baf0a642/472e5b58-7929-44ac-b467-a708baf0a642_1140x641.jpg",
-      "publishedAt": "2023-08-30 15:35:12",
-      "content": "AUSTIN, Texas A Travis County resident has died after developing an illness caused by an amebic meningitis infection, Austin Public Health (APH) announced Wednesday. The public health agency said th\u2026 [+1928 chars]",
-      "retrievedAt": "2023-09-01 15:21:44.174680",
-      "internal_id": "8a2f08f70538d5e2ad0e394fad11a81d13bd54aa1ddf00e0fc2bdef0832114d4",
-      "publishedAtLabel": "Aug 30"
-    },
-    {
-      "id": 1481,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "ComingSoon.net",
-      "author": "Tyler Treese",
-      "title": "Shot in the Arm Clip & Theatrical Release Details: Robert F. Kennedy Jr. Talks Samoa Measles Outbreak",
-      "description": "ComingSoon is excited to debut a Shot in the Arm clip from the upcoming vaccine documentary from executive producer Neil deGrasse Tyson and director Scott Hamilton Kennedy and share the theatrical release details. The film began documenting the 2019 measles o\u2026",
-      "url": "https://www.comingsoon.net/movies/news/1329359-shot-in-the-arm-clip-robert-f-kennedy-jr",
-      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/08/RFK.jpg?resize=1200,630",
-      "publishedAt": "2023-08-30 15:00:00",
-      "content": "ComingSoon is excited to debut a Shot in the Arm clip from the upcoming vaccine documentary from executive producer Neil deGrasse Tyson and director Scott Hamilton Kennedy and share the theatrical re\u2026 [+2855 chars]",
-      "retrievedAt": "2023-09-01 15:21:31.666636",
-      "internal_id": "2ffff444cdba3a9b453849438e6a79eab216e2614f74cdd3533763dc17645d6f",
-      "publishedAtLabel": "Aug 30"
-    },
-    {
-      "id": 1488,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0939\u094b\u0917\u093e \u0926 \u090f\u0902\u0921, \u090f\u0915 \u0938\u093e\u0932 \u092e\u0947\u0902 \u0906 \u091c\u093e\u090f\u0917\u0940 \u0935\u0948\u0915\u094d\u0938\u0940\u0928, \u0938\u093e\u0907\u0930\u0938 \u092a\u0942\u0928\u093e\u0935\u093e\u0932\u093e \u0915\u093e \u092c\u095c\u093e \u0910\u0932\u093e\u0928",
-      "description": "Dengue vaccine schedule: \u092d\u093e\u0930\u0924 \u0915\u0947 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0915\u093f\u0902\u0917 \u0938\u093e\u0907\u0930\u0938 \u092a\u0942\u0928\u093e\u0935\u093e\u0932\u093e \u0928\u0947 \u0915\u094b\u0930\u094b\u0928\u093e \u0915\u0947 \u0932\u093f\u090f \u0915\u094b\u0935\u093f\u0936\u0940\u0932\u094d\u0921 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0924\u0948\u092f\u093e\u0930 \u0915\u0930\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0905\u092c \u090f\u0915 \u092c\u095c\u093e \u0910\u0932\u093e\u0928 \u0915\u093f\u092f\u093e \u0939\u0948\u0964 \u0938\u093e\u0907\u0930\u0938 \u092a\u0942\u0928\u093e\u0935\u093e\u0932\u093e \u0928\u0947 \u0915\u0939\u093e \u0939\u0948 \u0915\u093f \u0938\u0940\u0930\u092e \u0907\u0902\u0938\u094d\u091f\u0940\u091f\u094d\u092f\u0942\u091f \u0905\u0917\u0932\u0947 \u090f\u0915 \u0938\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0907\u0932\u093e\u091c \u0938\u0941\u0928\u093f\u0936\u094d\u091a\u093f\u0924 \u0915\u0930 \u0926\u0947\u0917\u093e\u0964 \u092a\u0942\u0928\u093e\u0935\u093e\u0932\u093e \u0928\u0947 \u0935\u0939 \u090f\u0915 \u0938\u093e\u0932 \u092e\u0947\u0902 \u0921\u2026",
-      "url": "https://navbharattimes.indiatimes.com/metro/mumbai/other-news/dengue-vaccine-cyrus-poonawala-annouced-will-develop-dengue-cure-in-a-year/articleshow/103218169.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-38448,msid-103218367/navbharat-times.jpg",
-      "publishedAt": "2023-08-30 14:43:49",
-      "content": ": ( Cyrus Poonawala) ( Dengue) ( Cyrus Poonawala) , SII (Dengue vaccine) - () collaborate (WHO) 10 40 5 105 , 3",
-      "retrievedAt": "2023-09-01 15:21:33.409454",
-      "internal_id": "6fecbd3e005033189359cc93856731d853e12608f9f0387063314bbd5bcda345",
-      "publishedAtLabel": "Aug 30"
-    },
-    {
-      "id": 1503,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "KXAN.com",
-      "author": "Abigail Jones",
-      "title": "Person gets sick, dies from amebic infection after swimming in Texas lake",
-      "description": "A Travis County resident got sick and died after developing an illness caused by an amebic meningitis infection after swimming in Lake Lyndon B. Johnson earlier this month.",
-      "url": "https://www.kxan.com/news/texas/person-gets-sick-dies-from-amebic-infection-after-swimming-in-lake-lyndon-b-johnson/",
-      "urlToImage": "https://www.kxan.com/wp-content/uploads/sites/40/2016/08/bf-1374_01-ff_41488556_ver1.0.jpg?w=1280",
-      "publishedAt": "2023-08-30 14:42:37",
-      "content": "Editor\u2019s Note: The video in this story displays the top headlines for Wednesday, Aug. 30, 2023. TRAVIS COUNTY, Texas (KXAN) A Travis County resident got sick and died after developing an illness ca\u2026 [+3373 chars]",
-      "retrievedAt": "2023-09-01 15:21:44.172294",
-      "internal_id": "cba6a9bf2b7499f39997298babaa0eefc914bc9a1a22b96d900bebce131e66d7",
-      "publishedAtLabel": "Aug 30"
-    },
-    {
-      "id": 1509,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Aquel Rene Lopez, Charles Addoquaye Brown",
-      "title": "Knowledge, attitudes and practices regarding malaria prevention and control in communities in the Eastern Region, Ghana, 2020",
-      "description": "Background In sub-Saharan Africa countries including Ghana, the malaria burden remains unacceptably high and still a serious health challenge. Evaluating a community\u2019s level of knowledge, attitude, and practice (KAP) regarding malaria is essential to enabling\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290822",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0290822.g003&size=inline",
-      "publishedAt": "2023-08-30 14:00:00",
-      "content": "Citation: Lopez AR, Brown CA (2023) Knowledge, attitudes and practices regarding malaria prevention and control in communities in the Eastern Region, Ghana, 2020. PLoS ONE 18(8): e0290822. https:/\u2026 [+26322 chars]",
-      "retrievedAt": "2023-09-01 15:21:45.393889",
-      "internal_id": "2a5b3886395a9eca824bd598e9d626090717d4ddd769d36b06172b634b6284da",
-      "publishedAtLabel": "Aug 30"
-    },
-    {
-      "id": 1486,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.tsf.pt",
-      "author": "Rita Carvalho Pereira",
-      "title": "Combater a dengue com... mosquitos? M\u00e9dicos Sem Fronteiras p\u00f5em em pr\u00e1tica m\u00e9todo inovador",
-      "description": "Metade da popula\u00e7\u00e3o mundial est\u00e1 em risco de contrair dengue. A doen\u00e7a, transmitida por mosquitos, pode ser combatida gra\u00e7as a uma bact\u00e9ria especial.",
-      "url": "https://www.tsf.pt/mundo/combater-a-dengue-com-mosquitos-medicos-sem-fronteiras-poem-em-pratica-metodo-inovador-16939960.html",
-      "urlToImage": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=30864299-91cb-456d-a1a3-76b0be4a53ab&w=800&h=420&watermark=true&t=20230830140700",
-      "publishedAt": "2023-08-30 13:07:00",
-      "content": "Combater a dengue, uma doen\u00e7a transmitida por mosquitos, recorrendo precisamente a... mosquitos. \u00c9 um m\u00e9todo inovador, que est\u00e1 a ser usado num projeto nas Honduras, conduzido pelos M\u00e9dicos Sem Front\u2026 [+2627 chars]",
-      "retrievedAt": "2023-09-01 15:21:33.402354",
-      "internal_id": "b14bd9a82341a0392109f6c8ceee3c7cbe4fe0eb5e5bf3afef0d656c195f6c55",
-      "publishedAtLabel": "Aug 30"
     }
   ]
 }
