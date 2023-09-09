@@ -1,8 +1,134 @@
 {
-  "last_updated": "2023-09-09 07:05",
+  "last_updated": "2023-09-09 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 15,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 1722,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Worksinprogress.co",
+      "author": null,
+      "title": "Why we didn\u2019t get a malaria vaccine sooner",
+      "description": "Hundreds of thousands of people die from malaria each year, but it took 141 years to develop a vaccine for it. Advance market commitments could speed things up next time.",
+      "url": "https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner",
+      "urlToImage": "https://wip.gatspress.com/wp-content/uploads/2023/09/Malaria-Image-Primary-1-scaled.jpg",
+      "publishedAt": "2023-09-08 18:49:21",
+      "content": "In 1969, just 14 years after it was initiated, the World Health Assembly stepped back from its program to eradicate malaria worldwide, declaring that it was no longer feasible in the near future. G\u2026 [+58207 chars]",
+      "retrievedAt": "2023-09-09 19:05:12.644022",
+      "internal_id": "977d7cabeddf29315d4529b3f522b381bba89682e0285a2dac811bc214232d20",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1723,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Julii Brainard, Louise E. Smith, Henry W. W. Potts, G. James Rubin",
+      "title": "The relationship between age and sex partner counts during the mpox outbreak in the UK, 2022",
+      "description": "Background Understanding the dynamics of an infectious disease outbreak linked to sexual activity requires valid expectations of likely counts of unique sex partners during the infectious period. Typically, age is the key demographic trait linked to expected \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291001",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0291001.g001&size=inline",
+      "publishedAt": "2023-09-08 14:00:00",
+      "content": "Abstract Background Understanding the dynamics of an infectious disease outbreak linked to sexual activity requires valid expectations of likely counts of unique sex partners during the infectious \u2026 [+40350 chars]",
+      "retrievedAt": "2023-09-09 19:05:13.514762",
+      "internal_id": "9e60bf4b57051dd222c89e64852a456cb7609035b334b1da71d3401c155813ca",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1718,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Kristen V Brown",
+      "title": "Since the pandemic, some dog owners have become concerned about vaccinations",
+      "description": "Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.",
+      "url": "https://www.startribune.com/since-the-pandemic-some-dog-owners-have-become-concerned-about-vaccinations/600302990/",
+      "urlToImage": "https://chorus.stimg.co/24899396/08_1notownbrfs040115.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2023-09-08 12:55:00",
+      "content": "More than half of U.S. dog owners expressed concerns about vaccinating their dogs, including against rabies, according to a study published recently in the journal Vaccine. The study comes as anti-v\u2026 [+3028 chars]",
+      "retrievedAt": "2023-09-09 19:05:10.923391",
+      "internal_id": "39fc84f7e14174937011f4e7db7bc7e96d25569c2a7842dd232b2603074f5e05",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1719,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Global warming, longer monsoon rains making dengue deadlier in South Asia",
+      "description": "Experts say rising temperatures and longer monsoon seasons are providing ideal breeding conditions for mosquitoes.",
+      "url": "https://www.aljazeera.com/news/2023/9/8/global-warming-longer-monsoon-rains-making-dengue-deadlier-in-south-asia",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-08-24T095906Z_281751847_RC26U2A3NZC4_RTRMADP_3_BANGLADESH-HEALTH-1694172611.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-09-08 12:16:44",
+      "content": "Mosquito-borne dengue fever is taking a heavy toll on South Asian nations this year as Bangladesh grapples with record deaths and Nepal faces cases in new areas, with disease experts linking worsenin\u2026 [+7048 chars]",
+      "retrievedAt": "2023-09-09 19:05:11.807881",
+      "internal_id": "9fb2f69977e96e3eec53dcf2854b2545b0ccf56935585c1d8e94410efa6dcdd7",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1717,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Parenting Desk",
+      "title": "14-year-old dies from rabies; how can parents protect their children from dog bites",
+      "description": "According to the World Health Organization, once clinical symptoms appear, rabies is virtually 100% fatal. It is present in all continents except Antartica, with over 95% of human deaths in Asia and Africa. Additionally, children between age of 5 and 14 years\u2026",
+      "url": "https://indianexpress.com/article/parenting/health-fitness/14-year-old-dies-from-rabies-how-can-parents-protect-their-children-from-dog-bites-8930189/",
+      "urlToImage": "https://images.indianexpress.com/2023/09/rabies.jpg",
+      "publishedAt": "2023-09-08 11:30:09",
+      "content": "After a teenager succumbed to rabies after being bitten by a dog, there has been a new concern among parents on how to safeguard their children from dog bites.The 14-year-old named Sabez from Ghaziab\u2026 [+4570 chars]",
+      "retrievedAt": "2023-09-09 19:05:10.918436",
+      "internal_id": "bdc608da9051f547581d8620cfecb0dbf1cf0decb1f210e5378e5e18df802720",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1721,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+      "title": "Virus Dengue, il virologo Baldanti: \u201cCon i cambiamenti climatici un rischio in Pianura padana, servono screening di massa\u201d",
+      "description": "Il direttore della Microbiologia e Virologia del San Matteo di Pavia dopo i casi nel Lodigiano: \u201cEventi di trasmissione locale come questo rischiano di essere sempre pi\u00f9 frequenti\u201d",
+      "url": "https://milano.repubblica.it/cronaca/2023/09/08/news/virus_dengue_lodigiano_vorologo_baldanti-413714700/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-milano/2023/09/08/092629135-26c1f54b-36d5-4a04-8854-808b063f7f35.jpg",
+      "publishedAt": "2023-09-08 07:26:33",
+      "content": "\u00abQuanto accaduto nel Lodigiano dimostra come la tropicalizzazione delle estati in Pianura padana, possa comportare dei rischi per la salute: virus come il Dengue, o come il West Nile, un tempo non es\u2026 [+362 chars]",
+      "retrievedAt": "2023-09-09 19:05:11.822124",
+      "internal_id": "55ade150f72c3aa2970f983c30d87f3ca04a182097c4c01b1aa44f1bae16b0bc",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1720,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Alexander Freund",
+      "title": "Dengue-Fieber: Was hilft und wie sch\u00fctzt man sich?",
+      "description": "Dengue-Fieber ist in Europa angekommen. Obwohl die Tropenkrankheit in Asien und S\u00fcdamerika schon lange bekannt ist, wird sie oft falsch behandelt. Ein \u00dcberblick \u00fcber wirksame Medikamente und Schutzma\u00dfnahmen. Heftige Dengue-Ausbr\u00fcche werden aktuell aus vielen \u2026",
+      "url": "https://www.dw.com/de/dengue-fieber-was-hilft-und-wie-sch%C3%BCtzt-man-sich/a-66747246",
+      "urlToImage": "https://static.dw.com/image/62358404_6.jpg",
+      "publishedAt": "2023-09-08 07:16:00",
+      "content": "Heftige Dengue-Ausbr\u00fcche werden aktuell aus vielen L\u00e4ndern S\u00fcdamerikas und Asiens gemeldet. Guatemala musste den Gesundheitsnotstand ausrufen, in Bangladesch gibt es bereits rund 120.000 Infektions- \u2026 [+5388 chars]",
+      "retrievedAt": "2023-09-09 19:05:11.810376",
+      "internal_id": "4da97f9804569beb31241ae50515f2a6d21854a2e239bedc15159669a8fb2ebf",
+      "publishedAtLabel": "Sep 8"
+    },
     {
       "id": 1705,
       "query": [
@@ -3507,137 +3633,6 @@
       "content": "The World Bank has approved a $200 million loan to help improve primary healthcare services and prevent mosquito-borne diseases like dengue in Bangladesh. The loan was approved on Wednesday (August \u2026 [+3380 chars]",
       "retrievedAt": "2023-09-04 07:18:49.888062",
       "internal_id": "5a8b6cfa8eca48d1e8b5fbd558cea696429b3e009a3082cd4ae3d260a0df5e86",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1544,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Cheikh Sokhna, Directeur de recherche \u00e0 l'IRD, Institut de recherche pour le d\u00e9veloppement (IRD)",
-      "title": "S\u00e9n\u00e9gal : le chikungunya s\u00e9vit dans le pays, voici comment l'\u00e9viter",
-      "description": "Le meilleur moyen de lutter contre la transmission du chikungunya est de se prot\u00e9ger individuellement contre les piq\u00fbres de moustique et de ralentir leur reproduction.",
-      "url": "https://theconversation.com/senegal-le-chikungunya-sevit-dans-le-pays-voici-comment-leviter-212392",
-      "urlToImage": "https://images.theconversation.com/files/545341/original/file-20230829-29-oh1h42.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2023-08-31 10:38:32",
-      "content": "Au cours du mois d'ao\u00fbt 2023, une \u00e9pid\u00e9mie de chikungunya a \u00e9t\u00e9 identifi\u00e9e au S\u00e9n\u00e9gal, touchant la r\u00e9gion de K\u00e9dougou, dans le sud du pays. Les trois d\u00e9partements de cette r\u00e9gion ont signal\u00e9 112 cas \u2026 [+5394 chars]",
-      "retrievedAt": "2023-09-01 19:05:25.808966",
-      "internal_id": "74faf5a0813d825c445cdb740a5b1aa41e12e868f7f3aa01916a35c65a59d556",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1529,
-      "query": [
-        "dengue",
-        "malaria",
-        "leptospirosis"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "14-year-old Mumbai boy tests positive for malaria, leptospirosis & dengue at the same time",
-      "description": "As per city doctors, while cases of leptospirosis are relatively less now, dengue and malaria are surging. BMC statistics released on Tuesday showed a rise in both malaria and dengue cases in August. There were 959 reported cases of malaria, an increase from \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/14-year-old-mumbai-boy-tests-positive-for-malaria-leptospirosis-dengue-at-the-same-time/articleshow/103243180.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103243287,width-1070,height-580,imgsize-1554500,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-08-31 09:22:24",
-      "content": "A 14-year-old resident of Kurla (west) had contracted all three monsoon diseasesdengue, malaria, and leptospirosissimultaneously. Despite the diligent efforts of the medical team, he ultimately succu\u2026 [+2446 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.453430",
-      "internal_id": "94f3fb38b161e5f992f7d6faeceb55d0fbc67e87b86d8d5f7b1575b1fd8d731c",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1532,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "salute@gedi.it (Redazione di Salute)",
-      "title": "Dengue, West Nile Virus, Chikungunya: l\u2019Italia come un paese tropicale?",
-      "description": "Alcune malattie esotiche trasportate dalle zanzare stanno comparendo anche in Italia, e non solo in persone che le hanno contratte all\u2019estero. Ma la situazione \u00e8 sotto controllo",
-      "url": "https://www.repubblica.it/salute/2023/08/31/news/dengue_west_nile_virus_chikungunya_italia-412756097/",
-      "urlToImage": "https://www.repstatic.it/content/contenthub/img/2023/08/30/164805071-2d51ee4f-2089-4a88-a9c0-fa311469306f.jpg",
-      "publishedAt": "2023-08-31 08:28:39",
-      "content": "Sentire parlare di casi di una malattia infettiva esotica a Codogno pu\u00f2 evocare ricordi inquietanti, ma la segnalazione di diversi pazienti con una possibile o confermata diagnosi di dengue in Lombar\u2026 [+284 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.460697",
-      "internal_id": "b901508dc0a877bbfa7babeaabe7a6462131da47a900f75538d030b0a48c9b58",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1530,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "\u090f\u0915\u093e\u091a \u0935\u0947\u0933\u0940 \u0921\u0947\u0902\u0917\u094d\u092f\u0942, \u092e\u0932\u0947\u0930\u093f\u092f\u093e, \u0932\u0947\u092a\u094d\u091f\u094b\u091a\u0940 \u0932\u093e\u0917\u0923; \u092e\u0941\u0902\u092c\u0908\u0924 \u0967\u096a \u0935\u0930\u094d\u0937\u0940\u092f \u092e\u0941\u0932\u093e\u091a\u093e \u0924\u0921\u092b\u0921\u0942\u0928 \u092e\u0943\u0924\u094d\u092f\u0942",
-      "description": "Mumbai Boy dies of Dengue Malaria Lepto : \u092e\u0932\u0947\u0930\u093f\u092f\u093e, \u0921\u0947\u0902\u0917\u094d\u092f\u0942 \u0906\u0923\u093f \u0932\u0947\u092a\u094d\u091f\u094b\u0938\u094d\u092a\u093e\u092f\u0930\u094b\u0938\u093f\u0938\u091a\u0940 \u090f\u0915\u0924\u094d\u0930\u091a \u0932\u093e\u0917\u0923 \u091d\u093e\u0932\u094d\u092f\u093e\u091a\u0947 \u092e\u0941\u0902\u092c\u0908\u0924\u0940\u0932 \u0967\u096a \u0935\u0930\u094d\u0937\u0940\u092f \u092e\u0941\u0932\u093e\u091a\u094d\u092f\u093e \u0935\u0948\u0926\u094d\u092f\u0915\u0940\u092f \u0905\u0939\u0935\u093e\u0932\u093e\u0924\u0942\u0928 \u0938\u092e\u094b\u0930 \u0906\u0932\u0947 \u0939\u094b\u0924\u0947. \u0924\u094d\u092f\u093e\u091a\u093e \u091c\u0940\u0935 \u0935\u093e\u091a\u0932\u093e\u0939\u0940 \u0905\u0938\u0924\u093e, \u092e\u093e\u0924\u094d\u0930 \u090f\u0915 \u091a\u0942\u0915 \u091c\u0940\u0935\u093e\u0935\u0930 \u092c\u0947\u0924\u0932\u0940.",
-      "url": "https://maharashtratimes.com/maharashtra/mumbai-news/mumbai-14-years-old-boy-dies-who-tested-positive-for-malaria-leptospirosis-dengue-together/articleshow/103239851.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-31620,msid-103240256/maharashtra-times.jpg",
-      "publishedAt": "2023-08-31 08:18:08",
-      "content": ": , . . . , . . , , NS1 . . , . . . Dengue Malaria Vaccine: - ! '' , . . . ! , , , . , . . , ., , . - . .",
-      "retrievedAt": "2023-09-01 19:05:24.455519",
-      "internal_id": "d4c7217d28f5e71d1660cefc1295d6993dde54ff4be9c25bd794df4dfd3e6aa6",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1518,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u099c\u09cb\u09b9\u09be\u09a8\u09c7\u09b8\u09ac\u09be\u09b0\u09cd\u0997\u09c7\u09b0 \u09eb \u09a4\u09b2\u09be \u09ad\u09ac\u09a8\u09c7 \u0986\u0997\u09c1\u09a8, \u09a8\u09bf\u09b9\u09a4 \u09eb\u09e8 \u0993 \u0986\u09b9\u09a4 \u09ea\u09e9",
-      "description": "\u099c\u09cb\u09b9\u09be\u09a8\u09c7\u09b8\u09ac\u09be\u09b0\u09cd\u0997\u09c7\u09b0 \u09eb \u09a4\u09b2\u09be \u09ad\u09ac\u09a8\u09c7 \u0986\u0997\u09c1\u09a8, \u09a8\u09bf\u09b9\u09a4 \u09eb\u09e8 \u0993 \u0986\u09b9\u09a4 \u09ea\u09e9thedailystar.net",
-      "url": "https://bangla.thedailystar.net/news/world/africa-other-countries/news-510216",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/31/johannesberg.jpg?itok=IpVnxq6m",
-      "publishedAt": "2023-08-31 06:49:52",
-      "content": "The World Bank has approved a $200 million loan to help improve primary healthcare services and prevent mosquito-borne diseases like dengue in Bangladesh.",
-      "retrievedAt": "2023-09-01 07:05:38.560603",
-      "internal_id": "fafdce7ed70ea5721e5ba051f26ddd8966cf781863c9205d75d68507bab2f6d7",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1516,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "\u0921\u0947\u0902\u0917\u094d\u092f\u0942-\u092e\u0932\u0947\u0930\u093f\u092f\u093e\u091a\u0902 \u0928\u094b \u091f\u0947\u0928\u094d\u0936\u0928! '\u0938\u0940\u0930\u092e' \u0907\u0928\u094d\u0938\u094d\u091f\u093f\u091f\u094d\u092f\u0942\u091f\u0915\u0921\u0942\u0928 \u091c\u0940\u0935\u0918\u0947\u0923\u094d\u092f\u093e \u0906\u091c\u093e\u0930\u093e\u0902\u0935\u0930\u0940\u0932 \u0932\u0938 \u0924\u092f\u093e\u0930",
-      "description": "Dengue Malaria Vaccine : \u092a\u093e\u0935\u0938\u093e\u0933\u094d\u092f\u093e\u0924 \u0932\u093e\u0916\u094b \u0928\u093e\u0917\u0930\u093f\u0915 \u0921\u0947\u0902\u0917\u094d\u092f\u0942 \u0906\u0923\u093f \u092e\u0932\u0947\u0930\u093f\u092f\u093e\u091a\u094d\u092f\u093e \u092a\u094d\u0930\u093e\u0926\u0941\u0930\u094d\u092d\u093e\u0935\u093e\u0928\u0947 \u0906\u091c\u093e\u0930\u0940 \u092a\u0921\u0924\u093e\u0924. \u0921\u0947\u0902\u0917\u094d\u092f\u0942\u092e\u0941\u0933\u0947 \u0924\u0930 \u0905\u0928\u0947\u0915\u093e\u0902\u0928\u093e \u0906\u092a\u0932\u093e \u091c\u0940\u0935 \u0917\u092e\u0935\u093e\u0935\u093e \u0932\u093e\u0917\u0924\u094b. \u0924\u094d\u092f\u093e\u092e\u0941\u0933\u0947 \u092f\u093e \u0930\u094b\u0917\u093e\u0902\u0935\u0930 \u0932\u0938 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u0939\u094b\u0923\u094d\u092f\u093e\u091a\u0940 \u0906\u0935\u0936\u094d\u092f\u0915\u0924\u093e \u0939\u094b\u0924\u0940\u091a",
-      "url": "https://maharashtratimes.com/maharashtra/pune-news/dengue-malaria-vaccine-to-launch-soon-serum-institute-cyrus-poonawalla-announces/articleshow/103230831.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-51110,msid-103231058/maharashtra-times.jpg",
-      "publishedAt": "2023-08-31 04:27:47",
-      "content": "Marathi News App: ? . Maharashtra Politics: , , , , - , VIDEO: , ; , ...Chhatrapati Sambhajinagar News LIVE: , , , , Live</\u2026 [+97 chars]",
-      "retrievedAt": "2023-09-01 07:05:38.543611",
-      "internal_id": "ff53885c5e9da8e4e650e4264e3fcf85b2586f86cbc3d22adfa096f6898cbf4d",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1517,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vnexpress.net",
-      "author": "Le Nga",
-      "title": "Ministry raises dengue fever alert in northern Vietnam",
-      "description": "The Health Ministry recorded a 125% increase in the number of dengue patients over the first eight months in the north, warning that the epidemic will become more complicated in the coming time.",
-      "url": "https://e.vnexpress.net/news/news/ministry-raises-dengue-fever-alert-in-northern-vietnam-4647881.html",
-      "urlToImage": "https://vcdn1-english.vnecdn.net/2023/08/30/pgstsdoduycuongthamkham7911660-5002-7156-1693384916.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=vrX82EkAUT83sWw2ScyobQ",
-      "publishedAt": "2023-08-31 04:00:00",
-      "content": "In the year to Aug. 25, Vietnam had recorded 66,386 dengue fever cases. Of them, 14 had died. The number of cases dropped 71% against the same period last year in the south, 44.4% in the central reg\u2026 [+1770 chars]",
-      "retrievedAt": "2023-09-01 07:05:38.554932",
-      "internal_id": "150531cc71301c4099e245479844de94c4c95ec698fce875511857f34a7a8764",
       "publishedAtLabel": "Aug 31"
     }
   ]
