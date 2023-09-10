@@ -1,8 +1,46 @@
 {
-  "last_updated": "2023-09-09 19:05",
+  "last_updated": "2023-09-10 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 1725,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "\u00c1ngel Paniagua",
+      "title": "Manuel \u00c1lvarez Corti\u00f1as, jefe de Sanidad Ambiental: \u00abProbablemente, el mosquito tigre lleg\u00f3 a Galicia en un veh\u00edculo\u00bb",
+      "description": "El experto asegura que, de momento, el riesgo de transmisi\u00f3n de virus es muy bajo",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2023/09/08/manuel-alvarez-cortinas-jefe-sanidad-ambiental-probablemente-mosquito-tigre-llego-galicia-vehiculo/00031694192053593369407.htm",
+      "urlToImage": "https://www.lavozdegalicia.es/default/2023/09/08/00121694192101608397934/Foto/S_20230908_132843000.jpg",
+      "publishedAt": "2023-09-09 03:00:00",
+      "content": "El mes pasado se notific por primera vez en Galicia la presencia del mosquito tigre capaz de transmitir infecciones tropicales como el dengue, el chikungunya o el zika. El Aedes albopictus, originari\u2026 [+309 chars]",
+      "retrievedAt": "2023-09-10 07:05:27.316906",
+      "internal_id": "fbf52e1617a75147cf8c7b294e7f235704247b2940460c98a3faef2cf4d311b8",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 1724,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WKTV",
+      "author": "Zach Lewis",
+      "title": "3 Residents Receiving Post-Exposure Treatment After Bat Tests Positive for Rabies in Rome",
+      "description": "3 Residents Receiving Post-Exposure Treatment After Bat Tests Positive for Rabies in Romewktv.com",
+      "url": "https://www.wktv.com/news/health/3-residents-receiving-post-exposure-treatment-after-bat-tests-positive-for-rabies-in-rome/article_9b456346-4e6e-11ee-b406-5bfe64ccbd67.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/a/a4/aa4a8104-2809-11ee-9397-5b1fe151c563/64baf20ed4083.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-09-08 22:00:10",
+      "content": "ROME, N.Y. -- A bat in Rome tested positive for rabies this week. The bat was sent out for testing on Sept. 5; positive results were returned on Sept. 6. Three people have received post-exposure t\u2026 [+1625 chars]",
+      "retrievedAt": "2023-09-10 07:05:26.505145",
+      "internal_id": "b7415f78f5075edb9be576f8835cbb1c877e3288a67da92909f2583b3d3c28e4",
+      "publishedAtLabel": "Sep 8"
+    },
     {
       "id": 1722,
       "query": [
@@ -181,6 +219,24 @@
       "content": "The first cases of mpox since late April have been detected in Ireland, but reported Covid-19 infections continue to fall.Five cases of mpox formerly known as monkeypox were notified last month and s\u2026 [+2439 chars]",
       "retrievedAt": "2023-09-09 07:05:44.675634",
       "internal_id": "a98591ecdab1fbff0840fadfb5f160e5b05e7814742a879d5235ad8fa4cd988c",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1733,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "MedPage Today",
+      "author": "Medpage Today",
+      "title": "CDC Details Local Malaria Spread in Florida, Texas",
+      "description": "CDC Details Local Malaria Spread in Florida, Texasmedpagetoday.com",
+      "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/106233",
+      "urlToImage": "https://assets.medpagetoday.net/media/images/106xxx/106233.jpg",
+      "publishedAt": "2023-09-08 00:46:42",
+      "content": "After identifying eight cases of locally transmitted malaria in Florida and Texas this summer, the CDC is recommending that healthcare providers consider malaria in the differential diagnoses of pati\u2026 [+6281 chars]",
+      "retrievedAt": "2023-09-10 07:05:28.145264",
+      "internal_id": "440711f6c3a8c6b5a2fd0596225823d93c35154b8e3e8005054711fcb94172b2",
       "publishedAtLabel": "Sep 8"
     },
     {
@@ -439,6 +495,24 @@
       "publishedAtLabel": "Sep 7"
     },
     {
+      "id": 1731,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u0986\u099c \u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09ae\u09be\u09b0\u09be \u0997\u09c7\u099b\u09c7\u09a8 \u0986\u09b0\u0993 \u09e8\u09e6 \u099c\u09a8",
+      "description": "\u0986\u099c \u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09ae\u09be\u09b0\u09be \u0997\u09c7\u099b\u09c7\u09a8 \u0986\u09b0\u0993 \u09e8\u09e6 \u099c\u09a8thedailystar.net",
+      "url": "https://bangla.thedailystar.net/health/disease/news-512391",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/08/19/dengue_5_1_1_1_1.jpg?itok=OSMwQQBG",
+      "publishedAt": "2023-09-07 13:56:49",
+      "content": "At least 20 more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
+      "retrievedAt": "2023-09-10 07:05:27.327358",
+      "internal_id": "8f1fa527f70286a67a08fd414324daad73c066031d314fa92a73003a1dd6c46d",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
       "id": 1692,
       "query": [
         "dengue"
@@ -657,6 +731,24 @@
       "publishedAtLabel": "Sep 7"
     },
     {
+      "id": 1732,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Statetimes.in",
+      "author": "statetimes_editor",
+      "title": "Monsoon menace: Dengue fever",
+      "description": "Dr Shivani Gandhi Dengue fever or Dengue continues to pose a significant public health problem in tropical and sub tropical areas of theworld, including parts of Asia, Africa, the Caribbean, and Central and South America\u2026",
+      "url": "https://statetimes.in/monsoon-menace-dengue-fever/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2023/09/Dr-Shivani-Gandhi.png",
+      "publishedAt": "2023-09-07 01:09:38",
+      "content": "Dr Shivani Gandhi Dengue fever or Dengue continues to pose a significant public health problem in tropical and sub tropical areas of theworld, including parts of Asia, Africa, the Caribbean, and Cen\u2026 [+6239 chars]",
+      "retrievedAt": "2023-09-10 07:05:27.328748",
+      "internal_id": "d2d8e84227a872510fa2dfe856a2d074d671a652413b2729c846341a40a86019",
+      "publishedAtLabel": "Sep 7"
+    },
+    {
       "id": 1682,
       "query": [
         "rabies"
@@ -801,6 +893,24 @@
       "publishedAtLabel": "Sep 6"
     },
     {
+      "id": 1728,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u0985\u09aa\u09b9\u09c3\u09a4 \u09b8\u09c7\u0987 \u09a2\u09be\u09ac\u09bf \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0 \u0989\u09a6\u09cd\u09a7\u09be\u09b0",
+      "description": "\u09b0\u09be\u0999\u09cd\u0997\u09be\u09ae\u09be\u099f\u09bf\u09b0 \u09ac\u09be\u0998\u09be\u0987\u099b\u09dc\u09bf \u0989\u09aa\u099c\u09c7\u09b2\u09be\u09b0 \u09aa\u09b0\u09cd\u09af\u099f\u09a8\u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0 \u09b8\u09be\u099c\u09c7\u0995\u09c7 \u09ac\u09c7\u09dc\u09be\u09a4\u09c7 \u09af\u09be\u0993\u09df\u09be\u09b0 \u09aa\u09a5\u09c7 \u0985\u09aa\u09b9\u09c3\u09a4 \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09b6\u09cd\u09ac\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df\u09c7\u09b0 (\u09a2\u09be\u09ac\u09bf) \u09b6\u09bf\u0995\u09cd\u09b7\u09be\u09b0\u09cd\u09a5\u09c0\u0995\u09c7 \u0989\u09a6\u09cd\u09a7\u09be\u09b0 \u0995\u09b0\u09c7\u099b\u09c7 \u09aa\u09c1\u09b2\u09bf\u09b6\u0964",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/news-512126",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/09/16/rangamati_8.jpg",
+      "publishedAt": "2023-09-06 14:56:36",
+      "content": "At least 14 more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
+      "retrievedAt": "2023-09-10 07:05:27.322954",
+      "internal_id": "f3d974aa57c34ace7fd5015ed5a6460e8dbc4e83159f30bf8137e9c3298af998",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
       "id": 1668,
       "query": [
         "dengue"
@@ -891,6 +1001,24 @@
       "publishedAtLabel": "Sep 6"
     },
     {
+      "id": 1730,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1: \u0986\u099c \u09e7\u09ea \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09e8\u09e7\u09e7\u09eb",
+      "description": "\u098f \u09a8\u09bf\u09df\u09c7 \u099a\u09b2\u09a4\u09bf \u09ac\u099b\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09ae\u09cb\u099f \u09ec\u09ed\u09e7 \u099c\u09a8 \u09ae\u09be\u09b0\u09be \u0997\u09c7\u09b2\u09c7\u09a8\u0964 \u098f\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u09ea\u09ee\u09ec \u099c\u09a8 \u09a2\u09be\u0995\u09be\u09b0\u0964",
+      "url": "https://bangla.thedailystar.net/health/disease/news-512106",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/11/09/dengue-story_ds.jpg?itok=lkMIaw5K",
+      "publishedAt": "2023-09-06 13:45:18",
+      "content": "At least 14 more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
+      "retrievedAt": "2023-09-10 07:05:27.325943",
+      "internal_id": "5e990750c581c0e70bbcf10d84b4c9d105bef83b76d51056a93dce6f0bf14895",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
       "id": 1667,
       "query": [
         "measles"
@@ -906,6 +1034,24 @@
       "content": "Ahead of the High Holy Days, medical professionals are renewing calls for families to ensure their measles vaccinations are up to date. The plea comes as cases of the disease continue to rise in Lon\u2026 [+2197 chars]",
       "retrievedAt": "2023-09-07 19:05:38.543838",
       "internal_id": "fd124d984a6082f11cda2fd9e14136ebcd4c8097fc441001eb76d969793872a5",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1729,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u099f\u09be\u09a8\u09be \u09a4\u09c3\u09a4\u09c0\u09af\u09bc \u09a6\u09bf\u09a8 \u09a1\u09b2\u09be\u09b0\u09c7\u09b0 \u09ac\u09bf\u09aa\u09b0\u09c0\u09a4\u09c7 \u09ad\u09be\u09b0\u09a4\u09c0\u09df \u09b0\u09c1\u09aa\u09bf\u09b0 \u09a6\u09b0\u09aa\u09a4\u09a8",
+      "description": "\u099f\u09be\u09a8\u09be \u09a4\u09c3\u09a4\u09c0\u09af\u09bc \u09a6\u09bf\u09a8 \u09a1\u09b2\u09be\u09b0\u09c7\u09b0 \u09ac\u09bf\u09aa\u09b0\u09c0\u09a4\u09c7 \u09ad\u09be\u09b0\u09a4\u09c0\u09df \u09b0\u09c1\u09aa\u09bf\u09b0 \u09a6\u09b0\u09aa\u09a4\u09a8thedailystar.net",
+      "url": "https://bangla.thedailystar.net/business/world-economy/india/news-512091",
+      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/09/06/untitled_design_-_2023-09-06t195118.709.png",
+      "publishedAt": "2023-09-06 12:47:04",
+      "content": "At least 14 more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
+      "retrievedAt": "2023-09-10 07:05:27.324409",
+      "internal_id": "f0d4467d14121572d59d396c7ca36b21440811a246bd279c6356e1ef9021897e",
       "publishedAtLabel": "Sep 6"
     },
     {
@@ -942,6 +1088,42 @@
       "content": ": (Bihar Dengue Updates) , , 300 325 (Bihar Dengue Cases) 119 99 119 , 99 , , , Jharkhand: 10 , - , , Bhagalpur News Live Today: 47 , , ,",
       "retrievedAt": "2023-09-07 19:05:39.291075",
       "internal_id": "6701c4061665304afa2f33554a7da471eb3ca8e879b93c0e04d8947a6acf3ebd",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1727,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "El Peri\u00f3dico",
+      "title": "El c\u00e1ncer en menores de 50 a\u00f1os aument\u00f3 a nivel global durante las \u00faltimas tres d\u00e9cadas",
+      "description": "Los cambios en los h\u00e1bitos de vida o la exposici\u00f3n a nuevos agentes, m\u00e1s frecuentes ahora que en 1990, pueden estar detr\u00e1s. Un ni\u00f1o en Reus, primer caso de dengue aut\u00f3ctono en Catalunya en cuatro a\u00f1os. El covid persistente lanza a la precariedad a los enfermo\u2026",
+      "url": "https://www.elperiodico.com/es/sanidad/20230906/cancer-menores-50-anos-aumenta-incidencia-mundo-ultimas-decadas-91766114",
+      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/1f486fe8-e863-48cd-a64d-f327d005e77f_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-09-06 11:39:48",
+      "content": "La incidencia y las muertes por c\u00e1nceres de inicio temprano, en adolescentes y adultos j\u00f3venes, han aumentado sustancialmente a nivel mundial desde 1990, seg\u00fan las principales conclusiones de un estu\u2026 [+3398 chars]",
+      "retrievedAt": "2023-09-10 07:05:27.321538",
+      "internal_id": "4e7414d9263016e76e5c6d06c838cc678ef8ce43d6582b0d586933abe1dac850",
+      "publishedAtLabel": "Sep 6"
+    },
+    {
+      "id": 1726,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Moustique tigre : une op\u00e9ration de d\u00e9moustication en plein coeur de Paris",
+      "description": "Pour limiter la propagation de la dengue, une op\u00e9ration de d\u00e9moustication a \u00e9t\u00e9 d\u00e9clench\u00e9e pour la premi\u00e8re fois fin ao\u00fbt en plein c\u0153ur de Paris. Le moustique tigre, issu d\u2019Asie tropicale est pr\u00e9sent depuis 2015 dans le Val de Marne. D\u00e9sormais tous les d\u00e9part\u2026",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20230906-moustique-tigre-une-op%C3%A9ration-de-d%C3%A9moustication-en-plein-coeur-de-paris",
+      "urlToImage": "https://s.france24.com/media/display/4ae0f6f2-4c95-11ee-91e1-005056bfb2b6/w:1280/p:16x9/m:{\"brand\":\"FRANCE24\",\"lang\":\"FR\",\"program\":\"\",\"cartouche\":\"MOUSTIQUE%20TIGRE\",\"hash\":\"7fcdf8834bda803a28adde10a5ed3bb8bb6f330f164c6567301b6ced6e012e45\",\"title\":\"Une%20op%C3%A9ration%20de%20d%C3%A9moustication%20en%20plein%20Paris\",\"id\":\"5535ce5c-cd7e-11ed-854c-005056bf30b7\"}/FR_20230906_011116_011252_CS.jpg",
+      "publishedAt": "2023-09-06 09:11:05",
+      "content": "Publi\u00e9 le : 06/09/2023 - 11:11Modifi\u00e9 le : 06/09/2023 - 11:18 Pour limiter la propagation de la dengue, une op\u00e9ration de d\u00e9moustication a \u00e9t\u00e9 d\u00e9clench\u00e9e pour la premi\u00e8re fois fin ao\u00fbt en plein cur d\u2026 [+263 chars]",
+      "retrievedAt": "2023-09-10 07:05:27.319303",
+      "internal_id": "4f9f49d27c0af07e249d80419abe36e1c428cbddd226f05db688b88f71cc0779",
       "publishedAtLabel": "Sep 6"
     },
     {
@@ -3451,188 +3633,6 @@
       "content": "FRANCE - Op\u00e9ration d\u00e9moustication. Dans la nuit du mercredi 30 au jeudi 31 ao\u00fbt, une partie du XIIIe arrondissement de Paris a \u00e9t\u00e9 boucl\u00e9e pour tenter d\u00e9radiquer les moustiques tigres. Une op\u00e9ration \u2026 [+3599 chars]",
       "retrievedAt": "2023-09-01 19:05:24.437626",
       "internal_id": "80ae289fd3a4b687a967236fc8f2e37af3452e4d7e19661803852e94272e5835",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1525,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Raw Story",
-      "author": "Travis Gettys",
-      "title": "Election denial lawyer donates maximum allowed to Arizona Democrat",
-      "description": "A former Republican now running for Congress as a Democrat has a financial backer with ties to Arizona election deniers, according to a report.Marlene Galan Woods, a former TV journalist in Phoenix whose late husband was once the GOP state attorney general, h\u2026",
-      "url": "https://www.rawstory.com/marlene-galan-woods/",
-      "urlToImage": "https://www.rawstory.com/media-library/marlene-galan-woods.png?id=36087061&width=1200&height=600&coordinates=0%2C0%2C0%2C50",
-      "publishedAt": "2023-08-31 16:14:00",
-      "content": "Such scenes are a regular occurrence in tropical cities and becoming increasingly common in Europe as the tiger mosquito, which can carry the dengue, chikungunya and zika viruses, spreads from its na\u2026 [+2703 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.444510",
-      "internal_id": "d54e01ac9743eda4e8cd2851c598e686da1348106aab9b189b0c01c094aad2d4",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1528,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Elmercurio.com.ec",
-      "author": "CMV",
-      "title": "Guatemala declara emergencia sanitaria por epidemia de dengue",
-      "description": "Las autoridades de Guatemala declararon este jueves 31 de agosto de 2023 una emergencia sanitaria en todo el territorio debido a los altos niveles de propagaci\u00f3n de dengue que afectan a la naci\u00f3n centroamericana. Esta medida estar\u00e1 vigente durante un plazo de\u2026",
-      "url": "https://elmercurio.com.ec/2023/08/31/guatemala-declara-emergencia-sanitaria-por-epidemia-de-dengue/",
-      "urlToImage": null,
-      "publishedAt": "2023-08-31 15:47:00",
-      "content": "Las autoridades de Guatemala declararon este jueves 31 de agosto de 2023 una emergencia sanitaria en todo el territorio debido a los altos niveles de propagaci\u00f3n de dengue que afectan a la naci\u00f3n cen\u2026 [+1109 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.450950",
-      "internal_id": "6e9f5533edb72088f1afd22917c3f3ffa18eff864c77886c42872966daed4fed",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1542,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Marina Bisia, Carlos Alberto Montenegro-Quino\u00f1ez, Peter Dambach, Andreas Deckert, Olaf Horstick, Antonios Kolimenakis, Val\u00e9rie R. Louis, Pablo Manrique-Saide, Antonios Michaelakis, Silvia Runge-Ranzinger, Amy C. Morrison",
-      "title": "Secondary vectors of Zika Virus, a systematic review of laboratory vector competence studies",
-      "description": "Author summary The mosquitoes Aedes aegypti and Ae. albopictus are known to transmit Zika virus (ZIKV) but it is important to identify other potential secondary vectors. We conducted a systematic review of the literature to answer this question. We searched f\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011591",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011591.g002&size=inline",
-      "publishedAt": "2023-08-31 14:00:00",
-      "content": "Citation: Bisia M, Montenegro-Quino\u00f1ez CA, Dambach P, Deckert A, Horstick O, Kolimenakis A, et al. (2023) Secondary vectors of Zika Virus, a systematic review of laboratory vector competence studies.\u2026 [+68310 chars]",
-      "retrievedAt": "2023-09-01 19:05:25.530978",
-      "internal_id": "797ef0f0e6dcc5c86ed2de3bfea3cdbb968ddd8a4e6d1be5e05ec9a9921dbbcd",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1534,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Umn.edu",
-      "author": "a-smith",
-      "title": "New antifungal therapy for fungal meningitis",
-      "description": "A team of University of Minnesota Medical School researchers successfully tested a new antifungal therapy to treat fungal meningitis. The trial results were published today in the peer-reviewed journal Clinical Infectious Diseases.",
-      "url": "https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis",
-      "urlToImage": null,
-      "publishedAt": "2023-08-31 13:24:05",
-      "content": "MINNEAPOLIS/ST. PAUL (08/22/2023) A team of University of Minnesota Medical School researchers successfully tested a new antifungal therapy to treat fungal meningitis. The trial results were publishe\u2026 [+4342 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.868035",
-      "internal_id": "2604ceea440c77f88244b54e8de5b943ee08cc3d926527456063760e97ae1cf4",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1541,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Shiv Sudhakar",
-      "title": "Unexplained fever? Malaria might be a possible diagnosis regardless of travel history, says CDC",
-      "description": "A recent health alert from the CDC indicated malaria isn't always contracted during international travel \u2014 there have been recent reports of locally acquired cases.",
-      "url": "https://www.foxnews.com/health/unexplained-fever-malaria-possible-diagnosis-regardless-travel-history-cdc",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/Mosquito.jpg",
-      "publishedAt": "2023-08-31 12:00:51",
-      "content": "Dont rule out malaria just because you havent traveled anywhere. In light of recent locally acquired cases in the U.S., the lack of international travel should not exclude a diagnosis of malaria whe\u2026 [+6238 chars]",
-      "retrievedAt": "2023-09-01 19:05:25.314115",
-      "internal_id": "862fd06053fd40af411ddfada887c475fb7229b9b201cb479b7ec53824895f6a",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1520,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "Yemen: Alarming surge in measles and rubella cases, reports WHO",
-      "description": "The UN World Health Organization (WHO) issued a stark warning on Thursday over rising cases of measles and rubella among children in Yemen, as a vaccination campaign there faces cutbacks due to insufficient funding. Read Full Story on UN News The post Yemen: \u2026",
-      "url": "https://news.un.org/en/story/2023/08/1140272",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/31-08-2023_UNICEF_Yemen.jpg/image770x420cropped.jpg",
-      "publishedAt": "2023-08-31 12:00:00",
-      "content": "As of July, there have been more than 34,000 suspected cases of measles and rubella reported, resulting in 413 deaths; a significant increase compared to the 27,000 cases and 220 associated deaths re\u2026 [+2020 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.000238",
-      "internal_id": "442b76dee58e00af7a2bbd60276a36c0a964e14ff8570bda5450083a8a1c2db1",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1535,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Richmond.com",
-      "author": "ERIC KOLENICH Richmond Times-Dispatch",
-      "title": "Virginia experiencing outbreak of disease that causes meningitis",
-      "description": "The statewide outbreak has resulted in 27 cases and five deaths since June 2022. In all but one case, the patient was unvaccinated.",
-      "url": "https://richmond.com/news/local/virginia-experiencing-outbreak-of-disease-that-causes-meningitis/article_c2a9ed4c-476d-11ee-8d11-ff9a4dcf7697.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/f6/ff6aa501-caf7-5fad-a125-14c862e5a89b/64f07d636dcb1.preview.jpg?crop=920%2C483%2C0%2C11&resize=920%2C483&order=crop%2Cresize",
-      "publishedAt": "2023-08-31 12:00:00",
-      "content": "A statewide outbreak of the disease that causes meningitis has occurred, the state health department said Wednesday. Twenty-seven people in Virginia have been infected by the rare-but-deadly bacteria\u2026 [+1652 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.872437",
-      "internal_id": "8358951904b931c5a8f38e79c72b0ad04fd1c026e235474dfd87cca7f26f43a2",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1526,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Ssa fortalece vigilancia ante aumento de casos de dengue",
-      "description": "Debido a la alerta emitida por la Organizaci\u00f3n Mundial de la Salud (OMS) sobre el aumento del dengue a escala global y ya que la cifra acumulada a julio en Am\u00e9rica supera la totalidad de casos registrados en 2022, en M\u00e9xico, la Secretar\u00eda de Salud (Ssa) publi\u2026",
-      "url": "https://www.jornada.com.mx/2023/08/31/politica/016n3pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-08-31 11:53:17",
-      "content": "Peri\u00f3dico La JornadaJueves 31 de agosto de 2023, p. 16 Debido a la alerta emitida por la Organizaci\u00f3n Mundial de la Salud (OMS) sobre el aumento del dengue a escala global y ya que la cifra acumulad\u2026 [+1964 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.446618",
-      "internal_id": "da6276cf90b5ebe273b904df6ac8c618284fb77acd8f069908f056fc98207860",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1521,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Corriere.it",
-      "author": "Ruggiero Corcella",
-      "title": "Dengue, febbre spaccaossa: in Honduras si combatte con zanzare modificate in laboratorio",
-      "description": "La zanzara Aedes aegypti, vettore del virus, viene infettata con il batterio naturale Wolbachia che ne riduce la capacit\u00e0 di trasmissione. Secondo l\u2019Oms, la dengue rappresenta una minaccia a livello pandemico. A ottobre il vaccino in Italia",
-      "url": "https://www.corriere.it/salute/malattie_infettive/23_agosto_31/dengue-febbre-spaccaossa-honduras-si-combatte-zanzare-modificate-laboratorio-877a13d8-47e4-11ee-9f25-836bb120d659.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/08/31/d3c9c9b6-47f0-11ee-9f25-836bb120d659.jpg",
-      "publishedAt": "2023-08-31 11:48:42",
-      "content": "di Ruggiero CorcellaLa zanzara Aedes aegypti, vettore del virus, viene infettata con il batterio naturale Wolbachia che ne riduce la capacit\u00e0 di trasmissione. Secondo l\u2019Oms, la dengue rappresenta una\u2026 [+7119 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.434560",
-      "internal_id": "39087e32c44cee6f2183f119460f5596b49e43d4332b5f4aa62da7074ece7b96",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1585,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "WB provides $200m for healthcare services, dengue prevention in Bangladesh",
-      "description": "The World Bank has approved a $200 million loan to help improve primary healthcare services and prevent mosquito-borne diseases like dengue in Bangladesh. The loan was approved on Wednesday (August 30). It will help improve primary healthcare services for tre\u2026",
-      "url": "https://sylhetmirror.com/2023/08/31/wb-provides-200m-for-healthcare-services-dengue-prevention-in-bangladesh/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/08/76654g.jpg",
-      "publishedAt": "2023-08-31 10:55:05",
-      "content": "The World Bank has approved a $200 million loan to help improve primary healthcare services and prevent mosquito-borne diseases like dengue in Bangladesh. The loan was approved on Wednesday (August \u2026 [+3380 chars]",
-      "retrievedAt": "2023-09-04 07:18:49.888062",
-      "internal_id": "5a8b6cfa8eca48d1e8b5fbd558cea696429b3e009a3082cd4ae3d260a0df5e86",
       "publishedAtLabel": "Aug 31"
     }
   ]
