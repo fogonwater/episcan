@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-09-10 07:05",
+  "last_updated": "2023-09-10 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 1734,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sciences et Avenir",
+      "author": "AFP",
+      "title": "L'\u00e9pid\u00e9mie de dengue progresse en Guadeloupe et Martinique",
+      "description": "Remont\u00e9e des cas, hospitalisations en hausse: l'\u00e9pid\u00e9mie de dengue poursuit sa progression aux Antilles, o\u00f9 les autorit\u00e9s sanitaires surveillent les profils \u00e0 risque de formes graves, notamment les patients atteints de dr\u00e9panocytose, une maladie tr\u00e8s r\u00e9pandue\u2026",
+      "url": "https://www.sciencesetavenir.fr/sante/l-epidemie-de-dengue-progresse-en-guadeloupe-et-martinique_173728",
+      "urlToImage": "https://www.sciencesetavenir.fr/assets/afp/2023/09/10/bc8a85881acce4d6e07f00ac562ff40c50abf59a.jpg",
+      "publishedAt": "2023-09-09 16:38:09",
+      "content": "Remont\u00e9e des cas, hospitalisations en hausse: l'\u00e9pid\u00e9mie de dengue poursuit sa progression aux Antilles, o\u00f9 les autorit\u00e9s sanitaires surveillent les profils \u00e0 risque de formes graves, notamment les p\u2026 [+4199 chars]",
+      "retrievedAt": "2023-09-10 19:05:11.234937",
+      "internal_id": "7e5bd4177e04fd4dc86eab08364c9fac626700dd57e3ab673b1f934279a35aa5",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 1737,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Wie Sie sich sch\u00fctzen k\u00f6nnen - Dengue-Fieber in Deutschland? \u201eNur eine Frage der Zeit\u201c, sagt Virologe",
+      "description": "Dengue-Fieber gilt als Tropenkrankheit. Doch durch steigende Temperaturen ist die \u00dcbertr\u00e4gerin - die Tigerm\u00fccke - mittlerweile auch in Deutschland heimisch. Kommt es also auch hier bald zu autochthonen, also lokalen F\u00e4llen? Ja, sagen Experten.",
+      "url": "https://www.focus.de/gesundheit/news/nach-faellen-am-gardasee-dengue-fieber-in-deutschland-nur-eine-frage-der-zeit-sagt-virologe-schmidt-chanasit_id_204157205.html",
+      "urlToImage": "https://p6.focus.de/img/panorama/welt/id_197987829/eine-asiatische-tigermuecke.-infektionskrankheiten-werden-aus-sicht-von-infektiologen-allein-durch-die-klimakrise-in-den-kommenden-jahrzehnten-deutlich-zunehmen..jpg?im=Crop%3D%280%2C171%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=85c8d9622a8820c34447569471866018b008199b945725a576aaec892cb3d145",
+      "publishedAt": "2023-09-09 15:51:37",
+      "content": "Dengue-Fieber gilt als Tropenkrankheit. Doch durch steigende Temperaturen ist die \u00dcbertr\u00e4gerin - die Tigerm\u00fccke - mittlerweile auch in Deutschland heimisch. Kommt es also auch hier bald zu autochthon\u2026 [+4805 chars]",
+      "retrievedAt": "2023-09-10 19:05:11.259713",
+      "internal_id": "84c969af4afd0f730df466b947d14433cc870a35c5009147c072526e3a3f0545",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 1736,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thairath.co.th",
+      "author": "Thairath",
+      "title": "\u0e41\u0e1e\u0e17\u0e22\u0e4c\u0e40\u0e15\u0e37\u0e2d\u0e19 4 \u0e42\u0e23\u0e04\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e1e\u0e1a\u0e1a\u0e48\u0e2d\u0e22\u0e0a\u0e48\u0e27\u0e07 \"\u0e24\u0e14\u0e39\u0e1d\u0e19\" \u0e41\u0e19\u0e30\u0e1c\u0e39\u0e49\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e04\u0e27\u0e23\u0e40\u0e1d\u0e49\u0e32\u0e23\u0e30\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e49\u0e25\u0e39\u0e01\u0e19\u0e49\u0e2d\u0e22",
+      "description": "\"\u0e01\u0e23\u0e21\u0e01\u0e32\u0e23\u0e41\u0e1e\u0e17\u0e22\u0e4c\" \u0e40\u0e15\u0e37\u0e2d\u0e19 4 \u0e42\u0e23\u0e04\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e1e\u0e1a\u0e1a\u0e48\u0e2d\u0e22\u0e43\u0e19\u0e0a\u0e48\u0e27\u0e07 \"\u0e24\u0e14\u0e39\u0e1d\u0e19\" \u0e2a\u0e48\u0e27\u0e19\u0e21\u0e32\u0e01\u0e21\u0e31\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e42\u0e23\u0e04\u0e23\u0e30\u0e1a\u0e1a\u0e17\u0e32\u0e07\u0e40\u0e14\u0e34\u0e19\u0e2b\u0e32\u0e22\u0e43\u0e08 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e41\u0e19\u0e30\u0e1c\u0e39\u0e49\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e04\u0e27\u0e23\u0e40\u0e1d\u0e49\u0e32\u0e23\u0e30\u0e27\u0e31\u0e07\u0e43\u0e2b\u0e49\u0e1a\u0e38\u0e15\u0e23\u0e2b\u0e25\u0e32\u0e19\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e43\u0e01\u0e25\u0e49\u0e0a\u0e34\u0e14",
+      "url": "https://www.thairath.co.th/news/society/2723850",
+      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5LBY1M6KWyLFx8XE3GxIILt1WqLpNM4VlLRHi8u0yiG78m90PdT.jpg",
+      "publishedAt": "2023-09-09 12:55:00",
+      "content": ", , (RSV) , (RSV) 1-3 (Enterovirus) (Dengue) 7 2 3 .",
+      "retrievedAt": "2023-09-10 19:05:11.245974",
+      "internal_id": "eb4add496718d30a3efb4815f544972f616463dcdeadb9f998198f29301aee8f",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 1735,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Finofilipino.org",
+      "author": "Fino",
+      "title": "Caso de dengue aut\u00f3ctono en Catalu\u00f1a",
+      "description": "Puede sonar a co\u00f1a pero se denomina aut\u00f3ctono cuando un mosquito pica a un infectado y luego se lo pasa a otro. @MicroClinicBCN enviado por JoseO. Ver post completo: Caso de dengue aut\u00f3ctono en Catalu\u00f1a",
+      "url": "https://finofilipino.org/caso-de-dengue-autoctono-en-cataluna/",
+      "urlToImage": "https://finofilipino.org/wp-content/uploads/2023/09/sdrgwergfertyhrtyjrtherg.jpg",
+      "publishedAt": "2023-09-09 10:30:27",
+      "content": "El actor que interpret\u00f3 a Jesse Pinkman durante cinco temporadas en AMC y en la pel\u00edcula El camino, levant\u00f3 la voz contra la plataforma en la que se populariz\u00f3 la serie. \u201cNo recibo nada de Netflix po\u2026 [+361 chars]",
+      "retrievedAt": "2023-09-10 19:05:11.242153",
+      "internal_id": "acac4aced7cadaba237aade85313df16b2e5e1c2db14e08170b224f18e44b58b",
+      "publishedAtLabel": "Sep 9"
+    },
     {
       "id": 1725,
       "query": [
@@ -3561,78 +3633,6 @@
       "content": "Last week, the Maryland Department of Public Health announced a case of locally acquired malaria in a Maryland resident who lives in the greater Washington, D.C. area. The news, which comes on the he\u2026 [+5760 chars]",
       "retrievedAt": "2023-09-01 19:05:25.299032",
       "internal_id": "a7194b7d812faac19e2e31cc2a7b5d355586b9b7cb2f788bc8975014af64b775",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1545,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": "CDC",
-      "title": "Possible Exposures Among Mpox Patients Without Reported Male-to-Male Sexual Contact - Six U.S. Jurisdictions, November 1-December 14, 2022",
-      "description": "This report describes possible mpox exposures among patients who did not report male-to-male sexual contact.",
-      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7235a2.htm",
-      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7235a2_MpoxExposures-_IMAGE_01September2023_1200x675.jpg?_=91171",
-      "publishedAt": "2023-08-31 17:00:00",
-      "content": "* These authors contributed equally to this report. \u2020 MMSC is defined as cisgender male-to-cisgender male sexual (e.g., oral or anal sex) or intimate contact (e.g., cuddling, kissing, touching partn\u2026 [+3212 chars]",
-      "retrievedAt": "2023-09-01 19:05:26.050370",
-      "internal_id": "ee23d5e64e1cca0bfcff499fb0dd9f8a83741ff48774a2607fe5d1a02d61bf91",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1543,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Sputnikportal.rs",
-      "author": "Sputnik \u0421\u0440\u0431\u0438\u0458\u0430",
-      "title": "\u041b\u0435\u0441\u043a\u043e\u0432\u0430\u0447\u043a\u0438 \u0444\u0435\u0441\u0442\u0438\u0432\u0430\u043b \u0444\u0438\u043b\u043c\u0441\u043a\u0435 \u0440\u0435\u0436\u0438\u0458\u0435: \u041c\u0438\u0448\u0438 \u0420\u0430\u0434\u0438\u0432\u043e\u0458\u0435\u0432\u0438\u045b\u0443 \u043d\u0430\u0433\u0440\u0430\u0434\u0430 \u201e\u0416\u0438\u0432\u043e\u0458\u0438\u043d \u0416\u0438\u043a\u0430 \u041f\u0430\u0432\u043b\u043e\u0432\u0438\u045b\u201c",
-      "description": "\u041b\u0435\u0441\u043a\u043e\u0432\u0430\u0447\u043a\u0438 \u0438\u043d\u0442\u0435\u0440\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u0438 \u0444\u0435\u0441\u0442\u0438\u0432\u0430\u043b \u0444\u0438\u043b\u043c\u0441\u043a\u0435 \u0440\u0435\u0436\u0438\u0458\u0435 \u041b\u0418\u0424\u0424\u0415 \u0431\u0438\u045b\u0435 \u043e\u0434\u0440\u0436\u0430\u043d \u043e\u0434 14. \u0434\u043e 19. \u0441\u0435\u043f\u0442\u0435\u043c\u0431\u0440\u0430 \u0443 \u041b\u0435\u0441\u043a\u043e\u0432\u0446\u0443 \u043f\u043e\u0434 \u0441\u043b\u043e\u0433\u0430\u043d\u043e\u043c \u201e\u0410\u043a\u0446\u0438\u0458\u0430!\u201c, \u0430 \u0434\u043e\u0431\u0438\u0442\u043d\u0438\u043a \u043d\u0430\u0433\u0440\u0430\u0434\u0435 \u0444\u0435\u0441\u0442\u0438\u0432\u0430\u043b\u0430 \u201e\u0416\u0438\u0432\u043e\u0458\u0438\u043d \u0416\u0438\u043a\u0430 \u041f\u0430\u0432\u043b\u043e\u0432\u0438\u045b\u201c \u043e\u0432\u0435 \u0433\u043e\u0434\u0438\u043d\u0435 \u0458\u0435 \u0447\u0443\u0432\u0435\u043d\u0438 \u0440\u0435\u0434\u0438\u0442\u0435\u0459 \u041c\u0438\u043b\u043e\u0448 \u041c\u0438\u0448\u0430 \u0420\u0430\u0434\u0438\u0432\u043e\u0458\u0435\u0432\u0438\u045b.",
-      "url": "https://sputnikportal.rs/20230831/leskovacki-festival-filmske-rezije-misi-radivojevicu-nagrada-zivojin-zika-pavlovic-marija-jakovljevic-1160643842.html",
-      "urlToImage": "https://cdn1.img.sputnikportal.rs/images/sharing/article/srb/1160643842.jpg?11606395331693498984",
-      "publishedAt": "2023-08-31 16:23:04",
-      "content": "https://lat.sputnikportal.rs/20230831/leskovacki-festival-filmske-rezije-misi-radivojevicu-nagrada-zivojin-zika-pavlovic-marija-jakovljevic-1160643842.html 14. 19. !, ... 31.08.2023, Sputnik /htm\u2026 [+978 chars]",
-      "retrievedAt": "2023-09-01 19:05:25.535634",
-      "internal_id": "a654d319e2b6e6a77115bc1662cf1fc5499833b96f0a9d5f2623ddbdc8fe1681",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1531,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknews.lat",
-      "author": "Sputnik Mundo",
-      "title": "Guatemala declara emergencia sanitaria nacional por epidemia de dengue",
-      "description": "SAN SALVADOR (Sputnik) \u2014 El Ministerio de Salud P\u00fablica y Asistencia Social de Guatemala declar\u00f3 emergencia sanitaria nacional para enfrentar una epidemia de dengue que hasta el momento ha provocado 22 muertes y 12. 263 contagios, la mayor\u00eda en menores de 14 \u2026",
-      "url": "https://sputniknews.lat/20230831/guatemala-declara-emergencia-sanitaria-nacional-por-epidemia-de-dengue-1143227591.html",
-      "urlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1143227591.jpg?10920306751693498861",
-      "publishedAt": "2023-08-31 16:21:00",
-      "content": "Suscr\u00edbete a nuestros canales de Telegram a trav\u00e9s de estosenlaces. Ya que la aplicaci\u00f3n Sputnik est\u00e1 bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo m\u00f3v\u2026 [+78 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.457649",
-      "internal_id": "c62affb0daed0e294e6a7f6c4dd6faea4be744eadbe388fe35ff9b6365be9000",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1522,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le HuffPost",
-      "author": "Le HuffPost",
-      "title": "Des op\u00e9rations contre le moustique tigre apr\u00e8s des cas de dengue d\u00e9tect\u00e9s en \u00cele-de-France",
-      "description": "Deux op\u00e9rations d\u2019\u00e9radication des moustiques tigres ont \u00e9t\u00e9 organis\u00e9es par l\u2019Autorit\u00e9 r\u00e9gionale de Sant\u00e9 apr\u00e8s la d\u00e9couverte de deux cas de dengue en r\u00e9gion parisienne.",
-      "url": "https://www.huffingtonpost.fr/france/article/des-operations-contre-le-moustique-tigre-apres-des-cas-de-dengue-detectes-en-ile-de-france_222469.html",
-      "urlToImage": "https://huffpost-focus.sirius.press/2023/08/31/318/0/5400/3037/1820/1023/75/0/0ad40a5_1693496260130-gettyimages-541048906.jpg",
-      "publishedAt": "2023-08-31 16:14:33",
-      "content": "FRANCE - Op\u00e9ration d\u00e9moustication. Dans la nuit du mercredi 30 au jeudi 31 ao\u00fbt, une partie du XIIIe arrondissement de Paris a \u00e9t\u00e9 boucl\u00e9e pour tenter d\u00e9radiquer les moustiques tigres. Une op\u00e9ration \u2026 [+3599 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.437626",
-      "internal_id": "80ae289fd3a4b687a967236fc8f2e37af3452e4d7e19661803852e94272e5835",
       "publishedAtLabel": "Aug 31"
     }
   ]
