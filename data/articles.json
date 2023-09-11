@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-09-10 19:05",
+  "last_updated": "2023-09-11 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 1738,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Thomson Reuters Foundation)",
+      "title": "Mosquito-Borne Dengue Grows Deadlier in South Asia as Planet Warms",
+      "description": "Mosquito-borne dengue fever is taking a heavy toll on South Asian nations this year as Bangladesh grapples with record deaths and Nepal faces cases in new areas, with disease experts linking worsening outbreaks to the impacts of climate change. Authorities \u2026",
+      "url": "https://www.voanews.com/a/mosquito-borne-dengue-grows-deadlier-in-south-asia-as-planet-warms/7259434.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-10ec-08dbb016eb3e_cx0_cy7_cw0_w1200_r1.jpg",
+      "publishedAt": "2023-09-10 07:03:32",
+      "content": "DHAKA/KATHMANDU Mosquito-borne dengue fever is taking a heavy toll on South Asian nations this year as Bangladesh grapples with record deaths and Nepal faces cases in new areas, with disease experts\u2026 [+6819 chars]",
+      "retrievedAt": "2023-09-11 07:05:45.285751",
+      "internal_id": "3f0c6f1043addbce441b32bee6c8cba92763ab7c633e291c505c52577200daf8",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 1739,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "AFP -",
+      "title": "L'\u00e9pid\u00e9mie de dengue progresse en Guadeloupe et Martinique",
+      "description": "Remont\u00e9e des cas, hospitalisations en hausse: l'\u00e9pid\u00e9mie de dengue poursuit sa progression aux Antilles, o\u00f9 les autorit\u00e9s sanitaires surveillent les profils \u00e0 risque de formes graves, notamment les patients atteints de dr\u00e9panocytose, une maladie tr\u00e8s r\u00e9pandue\u2026",
+      "url": "https://www.lavenir.net/fil-info/belgiqueetmonde/2023/09/10/lepidemie-de-dengue-progresse-en-guadeloupe-et-martinique-YZZ6RVGWRBF2VOQTF5RN5UTDPY/",
+      "urlToImage": "https://www.lavenir.net/resizer/1wXpYp8K_ZXY1rh9vgz9tIkq2RU=/1200x630/filters:format(jpeg):focal(251x176.5:261x166.5):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/UFVD77VYQZHRHBUO5OR7E7I6TY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/CUKEFPSW2BBNXFCTDHIJXNXMUI.jpg",
+      "publishedAt": "2023-09-10 05:55:43",
+      "content": "Dans une proportion bien moindre, Saint-Martin et Saint-Barth\u00e9lemy sont \u00e9galement touch\u00e9es, avec des premiers cas confirm\u00e9s sur ces deux \u00eeles du nord de l'arc antillais. Guadeloupe et Martinique son\u2026 [+3395 chars]",
+      "retrievedAt": "2023-09-11 07:05:45.293214",
+      "internal_id": "8c5e26146f174cac6691f4f8d60fadbd30ffac0407a9cb0c33af4b3a6cc84311",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 1743,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Sudurpaschim Province faces significant risk of dengue spread",
+      "description": "BAITADI: Sudurpaschim Province is facing a significant risk of dengue spread, as indicated by data from the Sudurpaschim Province Health Directorate. Hemraj Joshi, the focal person at the Directorate, expressed growing concern over the increasing number of de\u2026",
+      "url": "https://english.khabarhub.com/2023/10/317737/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue.webp",
+      "publishedAt": "2023-09-10 00:15:43",
+      "content": "BAITADI: Sudurpaschim Province is facing a significant risk of dengue spread, as indicated by data from the Sudurpaschim Province Health Directorate. Hemraj Joshi, the focal person at the Directorat\u2026 [+1038 chars]",
+      "retrievedAt": "2023-09-11 07:05:45.306580",
+      "internal_id": "dbbce3ce8dfe8e5e3919bd719000e0092d6ef49407d768a9fc29b2b674ae67dd",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 1745,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Malathy Iyer",
+      "title": "In a 1st, scientists map how chikungunya affects Indians",
+      "description": "Scientists in India have mapped out how the chikungunya virus affects individuals across various states for the first time. The study found that rashes, which are considered a common symptom of chikungunya globally, have recently appeared in India. The resear\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/in-a-1st-scientists-map-how-chikungunya-affects-indians/articleshow/103541334.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103541382,width-1070,height-580,imgsize-1393685,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-09 19:41:11",
+      "content": "South actresses' sizzling pictures of this week",
+      "retrievedAt": "2023-09-11 07:05:46.589106",
+      "internal_id": "5f59794b013b4cb9bef93e98827aad6313f2d2c54958956fb25b0fb5d20521ed",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
+      "id": 1740,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Ecuador declara alerta epidemiol\u00f3gica en tres provincias por un brote de dengue",
+      "description": "En lo que va del 2023, unas 17 personas murieron a causa de la enfermedad; registraron 16.492 casos.",
+      "url": "https://www.montevideo.com.uy/Salud/Ecuador-declara-alerta-epidemiologica-en-tres-provincias-por-un-brote-de-dengue-uc865069",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202304/_W933_80/841257.jpg",
+      "publishedAt": "2023-09-09 19:39:00",
+      "content": "El Gobierno de Ecuador declar\u00f3 una alerta epidemiol\u00f3gica en tres provincias costeras del norte del pa\u00eds, ante el incremento significativo de dengue, una enfermedad provocada por la picadura del mosqu\u2026 [+1417 chars]",
+      "retrievedAt": "2023-09-11 07:05:45.296616",
+      "internal_id": "9912c94f131604f6b76047cdff63a51215f44b07d812485cf50c11793d51c390",
+      "publishedAtLabel": "Sep 9"
+    },
     {
       "id": 1734,
       "query": [
@@ -96,6 +186,24 @@
       "publishedAtLabel": "Sep 9"
     },
     {
+      "id": 1744,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod: 82 percent drop in NegOcc dengue cases",
+      "description": "Bacolod City \u2013 Negros Occidental recorded an 82 percent drop in dengue cases, from January to August this year, compared to the same period in 2022, according to a report of the Department of Health Western Visayas \u2013 Center for Health and Development. Dengue \u2026",
+      "url": "https://rpnradio.com/bacolod-82-percent-drop-in-negocc-dengue-cases/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/09/82-drop-dengue-cases.jpg",
+      "publishedAt": "2023-09-09 00:47:47",
+      "content": "Bacolod City \u2013 Negros Occidental recorded an 82 percent drop in dengue cases, from January to August this year, compared to the same period in 2022, according to a report of the Department of Health \u2026 [+981 chars]",
+      "retrievedAt": "2023-09-11 07:05:45.308195",
+      "internal_id": "95d2029639e4bf380ea26126407681284d215ea575f6d38fa46190a933a43ab9",
+      "publishedAtLabel": "Sep 9"
+    },
+    {
       "id": 1724,
       "query": [
         "rabies"
@@ -129,6 +237,42 @@
       "content": "In 1969, just 14 years after it was initiated, the World Health Assembly stepped back from its program to eradicate malaria worldwide, declaring that it was no longer feasible in the near future. G\u2026 [+58207 chars]",
       "retrievedAt": "2023-09-09 19:05:12.644022",
       "internal_id": "977d7cabeddf29315d4529b3f522b381bba89682e0285a2dac811bc214232d20",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1742,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Bangladesh hit by worst dengue outbreak on record: WHO",
+      "description": "Bangladesh is experiencing its most severe dengue outbreak on record, the World Health Organization said Wednesday, partly blaming climate change for contributing to the spread of such mosquito-borne diseases. Since the outbreak began in April, more than 135,\u2026",
+      "url": "https://sylhetmirror.com/2023/09/08/bangladesh-hit-by-worst-dengue-outbreak-on-record-who/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/09/ert45tty.jpg",
+      "publishedAt": "2023-09-08 14:49:34",
+      "content": "Bangladesh is experiencing its most severe dengue outbreak on record, the World Health Organization said Wednesday, partly blaming climate change for contributing to the spread of such mosquito-borne\u2026 [+1663 chars]",
+      "retrievedAt": "2023-09-11 07:05:45.305401",
+      "internal_id": "7a496950bbb5239b9b6b264b03818845a4942b0a870a9d1c6a7d78b4849172e6",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1741,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Sean M, Kenzu",
+      "title": "DPR, Health Ministry launch joint coalition against dengue",
+      "description": "The Health Caucus of the House of Representatives (DPR) and the Health Ministry have launched the Joint Coalition Movement Against Dengue to bring down the dengue fever fatality rate to zero by 2030. \"We believe that the ...",
+      "url": "https://en.antaranews.com/news/293247/dpr-health-ministry-launch-joint-coalition-against-dengue",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/09/08/IMG_20230908_174446.jpg",
+      "publishedAt": "2023-09-08 14:09:29",
+      "content": "Jakarta (ANTARA) - The Health Caucus of the House of Representatives (DPR) and the Health Ministry have launched the Joint Coalition Movement Against Dengue to bring down the dengue fever fatality ra\u2026 [+1810 chars]",
+      "retrievedAt": "2023-09-11 07:05:45.303902",
+      "internal_id": "b6012989edb5ff87111fabd615a1c1a5d5f07b7f52a8d4b09b110623d3167d8a",
       "publishedAtLabel": "Sep 8"
     },
     {
@@ -3489,150 +3633,6 @@
       "content": "Selon les donn\u00e9es du minist\u00e8re de la Sant\u00e9, 22 personnes sont mortes de la dengue dans le pays entre janvier et ao\u00fbt. En outre, 12.263 cas ont \u00e9t\u00e9 signal\u00e9s, soit 152% de plus qu'au cours de la m\u00eame p\u2026 [+1052 chars]",
       "retrievedAt": "2023-09-01 19:05:24.448458",
       "internal_id": "81b61199502c45d18cf99acc1df352e1852392435fb0b6892bce14a2c72fefef",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1536,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Wnd.com",
-      "author": "WND News Services",
-      "title": "Warning issued after deadly brain-eating infection identified in lake",
-      "description": "(FOX NEWS) \u2013 A Texas resident has died from an illness caused by an amebic meningitis infection after swimming at a lake, health officials said Wednesday. The unnamed Travis County resident developed the infection after swimming in Lake Lyndon B. Johnson (LBJ\u2026",
-      "url": "https://www.wnd.com/2023/08/warning-issued-deadly-brain-eating-infection-identified-lake/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2021/11/lake-water-sunset-Pixabay.jpg",
-      "publishedAt": "2023-08-31 18:46:06",
-      "content": "(FOX NEWS) A Texas resident has died from an illness caused by an amebic meningitis infection after swimming at a lake, health officials said Wednesday. The unnamed Travis County resident developed\u2026 [+699 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.875622",
-      "internal_id": "1727c01927b4ee185f1461c427d67f7bdd8ea7d9d9b6c4d9d58781242257adc2",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1524,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sciences et Avenir",
-      "author": "AFP",
-      "title": "Le Guatemala d\u00e9clare l'\u00e9tat d'urgence sanitaire en raison d'une \u00e9pid\u00e9mie de dengue",
-      "description": "Le Guatemala a d\u00e9clar\u00e9 jeudi l'\u00e9tat d'urgence sanitaire dans le pays en raison d'une \u00e9pid\u00e9mie de dengue qui a fait au moins 22 morts depuis le d\u00e9but de l'ann\u00e9e et infect\u00e9 plus de 12.000 personnes, a annonc\u00e9 le gouvernement. \"Nous avons pris la d\u00e9cision de d\u00e9\u2026",
-      "url": "https://www.sciencesetavenir.fr/sante/le-guatemala-declare-l-etat-d-urgence-sanitaire-en-raison-d-une-epidemie-de-dengue_173554",
-      "urlToImage": "https://www.sciencesetavenir.fr/assets/afp/2023/08/31/48d856f847551d75792821e9d5ab6280ba2df9d8.jpg",
-      "publishedAt": "2023-08-31 18:45:29",
-      "content": "Le Guatemala a d\u00e9clar\u00e9 jeudi l'\u00e9tat d'urgence sanitaire dans le pays en raison d'une \u00e9pid\u00e9mie de dengue qui a fait au moins 22 morts depuis le d\u00e9but de l'ann\u00e9e et infect\u00e9 plus de 12.000 personnes, a \u2026 [+1514 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.442513",
-      "internal_id": "80164e698daac7778b120b3ac6049981ffa35be77c24755aefee67fcc4b443b6",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1539,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Meneame.net",
-      "author": "Andaui",
-      "title": "Delftia: una nueva bacteria para luchar contra la malaria",
-      "description": "Se estima que en 2021 hubo casi 250 millones de casos de malaria o paludismo en 84 pa\u00edses end\u00e9micos, lo que acarre\u00f3 m\u00e1s de 600 000 muertes, principalmente en ni\u00f1os menores de cinco a\u00f1os. La enfermedad est\u00e1 causada por par\u00e1sitos del g\u00e9nero Plasmodium que se pr\u2026",
-      "url": "https://www.meneame.net/m/ciencia/delftia-nueva-bacteria-luchar-contra-malaria",
-      "urlToImage": null,
-      "publishedAt": "2023-08-31 18:31:41",
-      "content": "La bacteria milagrosa de la semana.",
-      "retrievedAt": "2023-09-01 19:05:25.302499",
-      "internal_id": "8df0d00f4a463c51fe53623626756e5418463bfb00e13d442a25f7252d93da59",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1519,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "Nearly half of dog owners are hesitant to vaccinate their pets",
-      "description": "A new study found that more than half of people who own dogs expressed some level of canine vaccine hesitancy -- i.e. skepticism about vaccinating their pets against rabies and other diseases. An estimated 45 percent of US households own a dog; according to t\u2026",
-      "url": "https://www.sciencedaily.com/releases/2023/08/230831142809.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-08-31 18:28:09",
-      "content": "A new study has found that US dog owners who harbor mistrust in the safety and efficacy of childhood and adult vaccines are also more likely to hold negative views about vaccinating their four-legged\u2026 [+5707 chars]",
-      "retrievedAt": "2023-09-01 19:05:23.619440",
-      "internal_id": "b4f57b7e6de551f1c34831d5178840750065a30221383aa229c796c10f87fc7c",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1523,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Sof\u00eda Benavides",
-      "title": "Declaran emergencia sanitaria nacional por tres meses por aumento de casos de dengue en Guatemala",
-      "description": "El gobierno de Guatemala declar\u00f3 este jueves una emergencia sanitaria en todo el pa\u00eds por un plazo de tres meses debido al incremento de casos reportados y para redoblar los esfuerzos y prevenir esta enfermedad que trasmite el mosquito.",
-      "url": "https://cnnespanol.cnn.com/2023/08/31/emergencia-sanitaria-tres-meses-dengue-guatemala-orix/",
-      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/08/GettyImages-1635076814-e1693505257840.jpg?quality=100&strip=info",
-      "publishedAt": "2023-08-31 18:11:55",
-      "content": "Aprueban vacuna contra el dengue en Argentina: \u00bfqui\u00e9nes podr\u00e1n recibirla? 0:57 (CNN Espa\u00f1ol) -- El gobierno de Guatemala declar\u00f3 este jueves una emergencia sanitaria en todo el pa\u00eds por un plazo de \u2026 [+1078 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.440972",
-      "internal_id": "13f14db4ea8c7f731b0b8268d5cb19c68489a4d20fd180f4af2cfcde034034e4",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1533,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09b9\u09bf\u09b2\u09be\u09b0\u09bf \u0995\u09cd\u09b2\u09bf\u09a8\u099f\u09a8\u09c7\u09b0 \u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8\u09c7 \u099f\u09be\u0995\u09be \u09a6\u09bf\u09af\u09bc\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 \u09a1. \u0987\u0989\u09a8\u09c2\u09b8: \u0986\u0987\u09a8\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0",
-      "description": "\u0986\u0987\u09a8\u09ae\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0 \u09ac\u09b2\u09c7\u09a8, '\u09b9\u09bf\u09b2\u09be\u09b0\u09bf \u0995\u09cd\u09b2\u09bf\u09a8\u099f\u09a8 \u098f\u0996\u09a8 \u09a1\u0995\u09cd\u099f\u09b0 \u09ae\u09c1\u09b9\u09be\u09ae\u09cd\u09ae\u09a6 \u0987\u0989\u09a8\u09c2\u09b8\u0995\u09c7 \u09ac\u09be\u0981\u099a\u09be\u09a8\u09cb\u09b0 \u09b8\u0982\u0997\u09cd\u09b0\u09be\u09ae\u09c7 \u09b8\u09ac\u09be\u0987\u0995\u09c7 \u0990\u0995\u09cd\u09af\u09ac\u09a6\u09cd\u09a7 \u09b9\u09a4\u09c7 \u09ac\u09b2\u099b\u09c7\u09a8\u0964 \u098f\u099f\u09be \u0995\u09c0\u09b8\u09c7\u09b0 \u09b8\u0982\u0997\u09cd\u09b0\u09be\u09ae? \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09c7\u09b0 \u09ae\u09be\u09a8\u09c1\u09b7\u09c7\u09b0 \u09ac\u09bf\u09b0\u09c1\u09a6\u09cd\u09a7\u09c7 \u09b8\u0982\u0997\u09cd\u09b0\u09be\u09ae?'",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/news-510446",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/08/31/5e60ea24-0327-48e3-84d7-3a698f1cd935.jpeg",
-      "publishedAt": "2023-08-31 18:06:23",
-      "content": "2019 was a crucial year for dengue, with the highest number of cases ever reported globally. For Bangladesh too, it was a loud wake-up call, with record caseload and deaths. But the government contin\u2026 [+20 chars]",
-      "retrievedAt": "2023-09-01 19:05:24.469518",
-      "internal_id": "9622780e06f29598f80c3b4eccf7bff9092e9dfbbf8f4ebdc8bc617915fae12b",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1537,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Boing Boing",
-      "author": "Carla Sinclair",
-      "title": "Donald Trump pounces on Ron DeSantis during aftermath of Hurricane Idalia",
-      "description": "As everyone knows, the limping Ron DeSantis has had a rough summer, what with at least four major insurance companies pulling out of Florida, a malaria outbreak to deal with, his tumbling poll numbers, and now Hurricane Idalia. The climate catastrophe has bee\u2026",
-      "url": "https://boingboing.net/2023/08/31/donald-trump-pounces-on-ron-desantis-during-aftermath-of-hurricane-idalia.html",
-      "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/Donald-Trump-Mugshot.jpg?fit=1200%2C869&ssl=1",
-      "publishedAt": "2023-08-31 17:28:00",
-      "content": "As everyone knows, the limping Ron DeSantis has had a rough summer, what with at least four major insurance companies pulling out of Florida, a malaria outbreak to deal with, his tumbling poll number\u2026 [+1115 chars]",
-      "retrievedAt": "2023-09-01 19:05:25.295048",
-      "internal_id": "966867467aca39677b137aaf6aa2b160324344f870faa1b8c3bc5a5329497fb3",
-      "publishedAtLabel": "Aug 31"
-    },
-    {
-      "id": 1538,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "David Walton",
-      "title": "Keeping Americans Safe from Malaria Is a Global Effort | Opinion",
-      "description": "Let ours be the generation that ends malaria once and for all\u2014because whether in Maryland or Madagascar or the Mekong, no one should die of a mosquito bite.",
-      "url": "https://www.newsweek.com/keeping-americans-safe-malaria-global-effort-opinion-1823792",
-      "urlToImage": "https://d.newsweek.com/en/full/2276886/malaria.jpg",
-      "publishedAt": "2023-08-31 17:27:47",
-      "content": "Last week, the Maryland Department of Public Health announced a case of locally acquired malaria in a Maryland resident who lives in the greater Washington, D.C. area. The news, which comes on the he\u2026 [+5760 chars]",
-      "retrievedAt": "2023-09-01 19:05:25.299032",
-      "internal_id": "a7194b7d812faac19e2e31cc2a7b5d355586b9b7cb2f788bc8975014af64b775",
       "publishedAtLabel": "Aug 31"
     }
   ]
