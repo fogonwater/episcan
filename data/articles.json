@@ -1,8 +1,116 @@
 {
-  "last_updated": "2023-09-12 07:05",
+  "last_updated": "2023-09-12 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 1764,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Nigeria\u2019s malaria death rate drops by 55% \u2013 WHO",
+      "description": "The World Health Organisation Regional Director for Africa, Dr Matshidiso Moeti, on Monday, said the malaria death rate in Nigeria has fallen by 55 per cent. Moeti said this on Monday, at the launch of the 2022 Nigeria Malaria Report in Abuja. Moeti also said\u2026",
+      "url": "https://punchng.com/nigerias-malaria-death-rate-drops-by-55-who/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/05/13101855/logo-who.tmb-1200v.jpg",
+      "publishedAt": "2023-09-11 18:52:55",
+      "content": "The World Health Organisation Regional Director for Africa, Dr Matshidiso Moeti, on Monday, said the malaria death rate in Nigeria has fallen by 55 per cent. Moeti said this on Monday, at the launch\u2026 [+2469 chars]",
+      "retrievedAt": "2023-09-12 19:05:25.861866",
+      "internal_id": "d33fe6cebcf83741cf5367da5fb820b08e789a905fe05975259fcfc71c4ea335",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 1763,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Malaria-causing parasites resistant to both treatment and detection have emerged in Ethiopia",
+      "description": "Genomic surveillance has revealed mutations in malaria-causing parasites that will complicate efforts to eradicate the disease in Africa.",
+      "url": "https://www.sciencedaily.com/releases/2023/09/230911141113.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-09-11 18:11:13",
+      "content": "Scientists have detected new strains of malaria-causing parasites in Ethiopia that are both resistant to current treatments and escape detection by common diagnostic tests -- a development that could\u2026 [+4673 chars]",
+      "retrievedAt": "2023-09-12 19:05:25.859468",
+      "internal_id": "4b5d6a4edbe33a5c975cbe83fd88cb5959d9d3da61528143be68c2e1ac88dda3",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 1765,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "The Neglected Tropical Diseases Staff",
+      "title": "Correction: Correction: Asymptomatic Plasmodium vivax malaria in the Brazilian Amazon: Submicroscopic parasitemic blood infects Nyssorhynchus darlingi",
+      "description": "",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011623",
+      "urlToImage": null,
+      "publishedAt": "2023-09-11 14:00:00",
+      "content": "The byline in the previous Correction published June 16, 2023, is incorrect. The correct byline is The PLOS Neglected Tropical Diseases Staff. The publisher apologizes for the error.Citation: The Neg\u2026 [+597 chars]",
+      "retrievedAt": "2023-09-12 19:05:25.865214",
+      "internal_id": "5f9b58d6fac03adc233524ba73bc81b5be8532040b15bc48bddf679c0610e18d",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 1762,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec agence (20 Minutes)",
+      "title": "Dengue en Hauts-de-Seine : D\u00e9moustication d\u2019un quartier de Ch\u00e2tillon o\u00f9 habitent deux malades",
+      "description": "Les sp\u00e9cialistes ont r\u00e9pandu un insecticide depuis l\u2019arri\u00e8re d\u2019un pick-up circulant \u00e0 faible allure",
+      "url": "https://www.20minutes.fr/sante/4052468-20230911-dengue-hauts-seine-demoustication-quartier-chatillon-habitent-deux-malades",
+      "urlToImage": "https://img.20mn.fr/8bN98DGHQLio1MaEUUc6cik/1200x768_moustique_tigre_un_cas_de_dengue_detecte_dans_les_hauts_de_seine1",
+      "publishedAt": "2023-09-11 13:11:57",
+      "content": "Face \u00e0 la multiplication des moustiques-tigres \u00e0 Ch\u00e2tillon (Hauts-de-Seine) des habitants et la Mairie r\u00e9clamaient des mesures sanitaires \u00e0 l\u2019Agence r\u00e9gionale de la sant\u00e9 (ARS). Deux cas de dengue d\u00e9\u2026 [+950 chars]",
+      "retrievedAt": "2023-09-12 19:05:25.135143",
+      "internal_id": "054185207a102b2dc4a27ca98d9f17910b15c307112dd513d224fae2ed5477cb",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 1761,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "La Palma Ahora",
+      "title": "Sanidad considera erradicado el mosquito del dengue en La Palma",
+      "description": "La Consejer\u00eda de Sanidad del Gobierno de Canarias, a trav\u00e9s de la Direcci\u00f3n General de Salud P\u00fablica, informa que tras los trabajos exhaustivos de vigilancia entomol\u00f3gica puede considerarse superado el episodio y erradicado el mosquito 'Aedes aegypti' en la I\u2026",
+      "url": "https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/sanidad-considera-superado-episodio-erradicado-mosquito-dengue-palma_1_10504042.html",
+      "urlToImage": "https://static.eldiario.es/clip/69fa8bcf-52f3-46d7-bdc7-e33ab32eeba7_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-09-11 11:09:56",
+      "content": "La Consejer\u00eda de Sanidad del Gobierno de Canarias, a trav\u00e9s de la Direcci\u00f3n General de Salud P\u00fablica, informa que tras los trabajos exhaustivos de vigilancia entomol\u00f3gica puede considerarse superado \u2026 [+5011 chars]",
+      "retrievedAt": "2023-09-12 19:05:25.131648",
+      "internal_id": "3f53c79294eef49a2f1f98228a1c6adf0a05ce3f8beec623e86877a9ff3f1e1e",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 1766,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Allied Market Research",
+      "title": "Typhoid Treatment Market to Reach $4.8Billion, Globally, by 2032 at 5.1% CAGR: Allied Market Research",
+      "description": "The growth of the global typhoid treatment market is driven by rise in the prevalence of typhoid infection, availability of generic antibiotics and rise in R&D activities. The growth of the global typhoid treatment market is driven by rise in the prevalence o\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/09/11/2740624/0/en/Typhoid-Treatment-Market-to-Reach-4-8Billion-Globally-by-2032-at-5-1-CAGR-Allied-Market-Research.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/9c430095-89f7-48b4-b8f0-e1f4ed1a5660",
+      "publishedAt": "2023-09-11 10:40:00",
+      "content": "New Castle, Delaware, Sept. 11, 2023 (GLOBE NEWSWIRE) -- Allied Market Research published a report, titled, Typhoid Treatment Market by Treatment Type (Antibiotics, Pain Medication, Others), by Route\u2026 [+10177 chars]",
+      "retrievedAt": "2023-09-12 19:05:26.867194",
+      "internal_id": "51ae4bdb35098d1bfcedfa1a6ee2e64c1da360155f6ac2200140a5d3e818e24a",
+      "publishedAtLabel": "Sep 11"
+    },
     {
       "id": 1759,
       "query": [
@@ -489,6 +597,24 @@
       "content": "In 1969, just 14 years after it was initiated, the World Health Assembly stepped back from its program to eradicate malaria worldwide, declaring that it was no longer feasible in the near future. G\u2026 [+58207 chars]",
       "retrievedAt": "2023-09-09 19:05:12.644022",
       "internal_id": "977d7cabeddf29315d4529b3f522b381bba89682e0285a2dac811bc214232d20",
+      "publishedAtLabel": "Sep 8"
+    },
+    {
+      "id": 1760,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Alexander Freund",
+      "title": "Dengue: una enfermedad tropical, ahora tambi\u00e9n en Europa",
+      "description": "Aunque este virus es m\u00e1s com\u00fan en Asia y Sudam\u00e9rica, varios casos en Italia han hecho saltar las alarmas. DW repasa cu\u00e1les son los s\u00edntomas y qu\u00e9 hacer para protegerse. Actualmente se est\u00e1n registrando graves brotes de dengue en muchos pa\u00edses de Sudam\u00e9rica y \u2026",
+      "url": "https://www.dw.com/es/dengue-una-enfermedad-tropical-ahora-tambi%C3%A9n-en-europa/a-66763505",
+      "urlToImage": "https://static.dw.com/image/62358404_6.jpg",
+      "publishedAt": "2023-09-08 17:54:00",
+      "content": "Actualmente se est\u00e1n registrando graves brotes de dengue en muchos pa\u00edses de Sudam\u00e9rica y Asia. Guatemala tuvo que declarar el estado de emergencia sanitaria, en Bangladesh ya hay unos 120.000 casos \u2026 [+3594 chars]",
+      "retrievedAt": "2023-09-12 19:05:25.121963",
+      "internal_id": "d71b0fcfbbc5da9b8dcc6c8cb1e435574c9158455b922eebfe466b19951658ff",
       "publishedAtLabel": "Sep 8"
     },
     {
@@ -3506,132 +3632,6 @@
       "content": "Im US-Bundesstaat Virginia haben die Gesundheitsbeh\u00f6rden einen staatenweiten Meningokokken-Ausbruch registriert. Seit Juni 2022 seien 30 Personen erkrankt - dreimal mehr als normalerweise innerhalb e\u2026 [+2785 chars]",
       "retrievedAt": "2023-09-04 19:05:29.297720",
       "internal_id": "2895ef40913cedb57b5ec3270bda939b114be09b90506a4699a15432f242bf2e",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1575,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": "Jornal i",
-      "title": "Quase 100 casos de Mpox detetados em Portugal desde junho",
-      "description": "\"Em junho de 2023, foi identificado um novo surto, ap\u00f3s cerca de tr\u00eas meses sem casos reportados\", refere a DGS, em comunicado, esta sexta-feira, acrescentando que entre 1 de junho e 30 de agosto deste ano, foram identificados 97 casos laboratorialmente confi\u2026",
-      "url": "https://ionline.sapo.pt/artigo/805843/quase-100-casos-de-mpox-detetados-em-portugal-desde-junho?seccao=Portugal_i",
-      "urlToImage": "https://cdn1.newsplex.pt/media/2023/9/1/fb/858699.jpg",
-      "publishedAt": "2023-09-01 10:45:00",
-      "content": "Foram detetados, desde junho, quase uma centena de casos de Mpox em Portugal. \"Em junho de 2023, foi identificado um novo surto, ap\u00f3s cerca de tr\u00eas meses sem casos reportados\", refere a DGS, em com\u2026 [+469 chars]",
-      "retrievedAt": "2023-09-02 19:05:09.213983",
-      "internal_id": "7093c1834fd05d3e63a3a94efffa2fcbfb0255286d1812b159a23fe0244892fc",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1572,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Biziday.ro",
-      "author": "Iosif35",
-      "title": "Paris. Autorit\u0103\u021bile au desf\u0103\u0219urat, pentru prima dat\u0103, dezinfec\u021bii \u00eempotriva \u021b\u00e2n\u021barilor tigru purt\u0103tori de boli, care au \u00eenceput s\u0103 se r\u0103sp\u00e2ndeasc\u0103 \u00een capital\u0103.",
-      "description": "De\u0219i \u021b\u00e2n\u021barii tigru sunt r\u0103sp\u00e2ndi\u021bi \u00een sudul \u021b\u0103rii de mai mul\u021bi ani, este pentru prima dat\u0103 c\u00e2nd \u00een capital\u0103 au loc ac\u021biuni de dezinsec\u021bie, prin fumiga\u021bie, pentru a sc\u0103pa de insectele care transmit virusul Zika \u0219i febra Denga. \u00cen sud-estul \u0219i nord-estul Pari\u2026",
-      "url": "https://www.biziday.ro/260335-2/",
-      "urlToImage": "https://cdn.biziday.ro/wp-content/uploads/2023/09/tantaru-tigru.png",
-      "publishedAt": "2023-09-01 10:40:38",
-      "content": "Dei \u00e2narii tigru sunt rsp\u00e2ndii \u00een sudul rii de mai muli ani, este pentru prima dat c\u00e2nd \u00een capital au loc aciuni de dezinsecie, prin fumigaie, pentru a scpa de insectele care transmit virusul Zika i \u2026 [+1074 chars]",
-      "retrievedAt": "2023-09-02 19:05:08.479683",
-      "internal_id": "f5e2363e81d30aa593b03e71617ad15f9d084d24689d7da8c833b4d6332cc412",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1568,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Gudrun Heise, Julia Vergin",
-      "title": "Meningokokken: Bakterien mit Epidemie-Potential",
-      "description": "Meningokokken sind weltweit die h\u00e4ufigste Ursache f\u00fcr eine bakterielle Meningitis. Und die kann lebensgef\u00e4hrlich werden, wie der j\u00fcngste Ausbruch in den USA zeigt.",
-      "url": "https://www.dw.com/de/meningokokken-bakterien-mit-epidemie-potential/a-46390813",
-      "urlToImage": "https://static.dw.com/image/46391360_6.jpg",
-      "publishedAt": "2023-09-01 10:11:00",
-      "content": "Im US-Bundesstaat Virginia haben die Gesundheitsbeh\u00f6rden einen \"staatenweiten Meningokokken-Ausbruch\" registriert. Seit Juni 2022 seien 30 Personen erkrankt - dreimal mehr als normalerweise innerhalb\u2026 [+2986 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.441436",
-      "internal_id": "4a7d0c6484ef2d554807ff174a346d11b39a7a5564f2e03bd7b689dd93d78c6d",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1562,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Standaard.be",
-      "author": "Sylvie Van Ginneken",
-      "title": "Parijs zet grof geschut in tegen tijgermug, ook in Gent is ze al gespot: \u2018Vermijd stilstaand water in je tuin\u2019",
-      "description": "Terwijl Parijs voor het eerst op grote schaal tijgermuggen verdelgt omdat twee inwoners besmet zijn met dengue, is de exotische soort deze week in Gent gespot. Nestelt de tijgermug zich dan toch definitief in ons land? \u2018We moeten ons daar zolang mogelijk tege\u2026",
-      "url": "https://www.standaard.be/cnt/dmf20230901_93467731",
-      "urlToImage": "https://static.standaard.be/Assets/Images_Upload/2023/09/01/1deda7c8-e992-47ee-96ec-b7f2b35e49b6.jpg?maxheight=416&maxwidth=568",
-      "publishedAt": "2023-09-01 09:37:42",
-      "content": "dengue Terwijl Parijs voor het eerst op grote schaal tijgermuggen verdelgt omdat twee inwoners besmet zijn met dengue, is de exotische soort deze week in Gent gespot. Nestelt de tijgermug zich dan t\u2026 [+126 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.099340",
-      "internal_id": "54327bf333b30b58d4995f399c95b97281eabd24bece9deee30f1fcf078a1bf2",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1556,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "tagesschau.de",
-      "author": "tagesschau.de",
-      "title": "Guatemala erkl\u00e4rt wegen Dengue-Fieber Gesundheitsnotstand",
-      "description": "Wegen immer mehr F\u00e4llen von Dengue-Fieber hat die Regierung von Guatemala den Gesundheitsnotstand ausgerufen. In den vergangenen Monaten starben 22 Menschen an der Krankheit, seit Jahresbeginn wurden mehr als 12.000 Infektionen registriert.",
-      "url": "https://www.tagesschau.de/ausland/amerika/guatemala-dengue-fieber-100.html",
-      "urlToImage": "https://images.tagesschau.de/image/9e0ba0f8-9bd4-4634-abcd-7fecd7b4e13a/AAABik-kGJA/AAABibBxqrQ/16x9-1280/arbeiter-ausraeucherung-guatemala-100.jpg",
-      "publishedAt": "2023-09-01 09:25:49",
-      "content": "Stand: 01.09.2023 11:25 Uhr Wegen immer mehr F\u00e4llen von Dengue-Fieber hat die Regierung von Guatemala den Gesundheitsnotstand ausgerufen. In den vergangenen Monaten starben 22 Menschen an der Krankh\u2026 [+1594 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.082201",
-      "internal_id": "949c3928c733dafce801567e95aa0d047b2c7240777c5c471c84b3239ae0c98f",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1566,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "National Observer",
-      "author": "Zoya Teirstein",
-      "title": "Dengue fever cases surge as temperatures soar",
-      "description": "Experts say a tangled web of factors is driving global spikes in dengue, but one culprit stands out \u2014 climate change.",
-      "url": "https://www.nationalobserver.com/2023/09/01/news/dengue-fever-cases-surge-temperatures-soar",
-      "urlToImage": "https://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_social/public/img/2023/08/30/gettyimages-1560462785-1-e1692637380198.jpeg?itok=ceDhGNf0",
-      "publishedAt": "2023-09-01 09:14:39",
-      "content": "This story was originally published by Grist and appears here as part of the Climate Desk collaboration. This year, nearly 100,000 people in Bangladesh have contracted dengue fever, a mosquito-borne\u2026 [+8590 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.105486",
-      "internal_id": "40fc020754e2d30176b34fb59296a6e4074eacdd708d52d7c371e53579ad7931",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1555,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Globalsecurity.org",
-      "author": "John Pike",
-      "title": "Yemen: Alarming surge in measles and rubella cases, reports WHO",
-      "description": "The UN World Health Organization (WHO) issued a stark warning on Thursday over rising cases of measles and rubella among children in Yemen, as a vaccination campaign there faces cutbacks due to insufficient funding.",
-      "url": "https://www.globalsecurity.org/military/library/news/2023/08/mil-230831-unnews02.htm",
-      "urlToImage": null,
-      "publishedAt": "2023-09-01 09:10:06",
-      "content": "31 August 2023 - The UN World Health Organization (WHO) issued a stark warning on Thursday over rising cases of measles and rubella among children in Yemen, as a vaccination campaign there faces cutb\u2026 [+2366 chars]",
-      "retrievedAt": "2023-09-02 19:05:06.649582",
-      "internal_id": "23c548e45b2a8a31cd6b7875d7f1203123b57e62f3974e56bcf78fc14030a6f6",
       "publishedAtLabel": "Sep 1"
     }
   ]
