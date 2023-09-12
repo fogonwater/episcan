@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-09-11 19:05",
+  "last_updated": "2023-09-12 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 1759,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue grows deadlier in South Asia as planet warms",
+      "description": "DHAKA/KATHMANDU: Mosquito-borne dengue fever is taking a heavy toll on South Asian nations this year as Bangladesh grapples with record deaths and Nepal faces cases in new areas, with disease experts linking worsening outbreaks to the impacts of climate chang\u2026",
+      "url": "https://english.khabarhub.com/2023/11/317863/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/09/Dengue_Bangladesh_AP.jpg",
+      "publishedAt": "2023-09-11 01:15:47",
+      "content": "A paramedic gives an injection to a child suffering from dengue at Mugda Medical College and Hospital in Dhaka, Bangladesh/File Photo: AP DHAKA/KATHMANDU: Mosquito-borne dengue fever is taking a hea\u2026 [+6965 chars]",
+      "retrievedAt": "2023-09-12 07:05:47.581960",
+      "internal_id": "b7cce294daceb0e361b281325adcc3befa02024fdea70ec5e838040d0429ca97",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 1757,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "Morrissey posterga su show en Buenos Aires luego de contraer dengue en M\u00e9xico",
+      "description": "El reencuentro con el p\u00fablico porte\u00f1o estaba previsto para el 23 de este mes, en el Movistar Arena; aun no se dio a conocer la nueva fecha",
+      "url": "https://www.lanacion.com.ar/espectaculos/morrissey-posterga-su-show-en-buenos-aires-luego-de-contraer-dengue-en-mexico-nid10092023/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/fotos-de-agustin-OCZ7EWHJIND3VLGCAIMYJZ2EOE.jpg?auth=b35bd12d7e66778f0ed37f0e5ae359f587952f165ff5b57cfdf61b6a69710b1f&width=768&quality=70&smart=false",
+      "publishedAt": "2023-09-10 23:25:42",
+      "content": "A finales de junio se anunci\u00f3 el regreso de Morrissey a Buenos Aires con un nuevo show que buscaba celebrar sus 40 a\u00f1os de trayectoria. De este modo se iba a producir el reencuentro con sus fans port\u2026 [+3139 chars]",
+      "retrievedAt": "2023-09-12 07:05:47.572702",
+      "internal_id": "c0f555922167f476fc965cd92df3677c9a3b8afe0efdd246cf15a0edcba5cade",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 1756,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Reforma.com",
+      "author": "Grupo REFORMA",
+      "title": "Contrae Morrissey dengue durante su visita a M\u00e9xico",
+      "description": "Morrissey tuvo que posponer su presentaci\u00f3n en la Ciudad de M\u00e9xico porque contrajo dengue durante su estancia en el Pa\u00eds, seg\u00fan reporte.",
+      "url": "https://www.reforma.com/contrae-morrissey-dengue-durante-su-visita-a-mexico/ar2672957",
+      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/559/5558571.jpg&ang=0",
+      "publishedAt": "2023-09-10 19:20:14",
+      "content": "Morrissey tuvo que posponer su presentaci\u00f3n en la Ciudad de M\u00e9xico debido a que contrajo dengue durante su estancia en el Pa\u00eds. Cr\u00e9dito: Archivo",
+      "retrievedAt": "2023-09-12 07:05:47.562120",
+      "internal_id": "e132dfb1af19b0caeb55708ec8c389f55a834c5305287e7c13b066858712fb1c",
+      "publishedAtLabel": "Sep 10"
+    },
+    {
+      "id": 1758,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": null,
+      "title": "Corruption in health sector turns dengue into epidemic: Mirza Fakhrul",
+      "description": "He further said hospitals cannot accommodate all patients, on the other hand, people are becoming destitute to meet the medical expenses.",
+      "url": "https://www.tbsnews.net/bangladesh/politics/dengue-became-epidemic-due-corruption-health-sector-fakhrul-697894",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/10/bnp_secretary_general_mizra_fakhrul.jpg",
+      "publishedAt": "2023-09-10 19:13:51",
+      "content": "The country is grappling with a dengue outbreak that has now reached the stage of an epidemic because of the corruption in the country's health sector, said BNP Secretary General Mirza Fakhrul Islam \u2026 [+2235 chars]",
+      "retrievedAt": "2023-09-12 07:05:47.577519",
+      "internal_id": "8a7a9be9af8d2bb5d8cd24c5072e01f6b2df8e2ed24b28229dcbfd96b9c48cff",
+      "publishedAtLabel": "Sep 10"
+    },
     {
       "id": 1752,
       "query": [
@@ -3560,78 +3632,6 @@
       "content": "31 August 2023 - The UN World Health Organization (WHO) issued a stark warning on Thursday over rising cases of measles and rubella among children in Yemen, as a vaccination campaign there faces cutb\u2026 [+2366 chars]",
       "retrievedAt": "2023-09-02 19:05:06.649582",
       "internal_id": "23c548e45b2a8a31cd6b7875d7f1203123b57e62f3974e56bcf78fc14030a6f6",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1567,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Francetvinfo.fr",
-      "author": null,
-      "title": "Sant\u00e9 : la chasse aux moustiques-tigres d\u00e9j\u00e0 lanc\u00e9e",
-      "description": "Les moustiques-tigres sont de plus en plus envahissants en France, y compris dans les villes. Deux cas de dengue ont \u00e9t\u00e9 recens\u00e9s ces derniers jours. Pour y faire face, des op\u00e9rations de d\u00e9moustications sont en cours.",
-      "url": "https://www.francetvinfo.fr/sante/sante-la-chasse-aux-moustiques-tigres-deja-lancee_6037100.html",
-      "urlToImage": "https://www.francetvinfo.fr/pictures/LFcTjzo5awE_yK2HOaIaGWQ_x6U/1500x843/2023/09/01/moutiques-tigres-64f194ee8ed0c278322348.png",
-      "publishedAt": "2023-09-01 07:39:05",
-      "content": "En pleine nuit, masque sur le visage, des agents de la ville de Poitiers (Vienne) tentent de tuer le moindre moustique-tigre. Il faut agir vite dans un rayon de 150 m\u00e8tres autour du domicile dun habi\u2026 [+739 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.110264",
-      "internal_id": "72a552b155776370eb5e02b6f2fd29d6f04daa6bb72192fdcc62a027355e582b",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1571,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Sozcu.com.tr",
-      "author": "S\u00f6zc\u00fc",
-      "title": "T\u00fcrkiye\u2019de de endi\u015fe yarat\u0131yor\u2026. Fransa\u2019da \u2018kaplan sivrisine\u011fi\u2019 alarm\u0131",
-      "description": "Son d\u00f6nemde kuzeydo\u011fu Avrupada h\u0131zla yay\u0131lan, zika ve dang vir\u00fcs\u00fc ta\u015f\u0131yan Asya kaplan sivrisinekleri, Fransan\u0131n ba\u015fkenti Pariste seferberli\u011fe yol a\u00e7t\u0131. Yetkililer, sineklerin \u00fclkede daha fazla yay\u0131lmas\u0131n\u0131n \u00f6n\u00fcne ge\u00e7mek amac\u0131yla Pariste ilk defa tropik sinekle\u2026",
-      "url": "https://www.sozcu.com.tr/2023/saglik/turkiyede-de-endise-yaratiyor-fransada-kaplan-sivrisinegi-alarmi-7789696/",
-      "urlToImage": "https://i.sozcucdn.com/wp-content/uploads/2023/09/01/kaplan-sinegi.jpeg?w=1200&h=675&mode=crop",
-      "publishedAt": "2023-09-01 07:38:43",
-      "content": "Yazlar b\u00fcy\u00fctYazlar k\u00fc\u00e7\u00fcltStandart boyut Son d\u00f6nemde kuzeydou Avrupada hzla yaylan, zika ve dang vir\u00fcs\u00fc tayan Asya kaplan sivrisinekleri, Fransann bakenti Pariste \u2026 [+1239 chars]",
-      "retrievedAt": "2023-09-02 19:05:08.478231",
-      "internal_id": "ff6eb7b59e8de7b7654fbdd213710bb315fc385b5f3f9bcab0437322da4bf634",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1561,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "ZEIT ONLINE: Gesundheit - Konstantin Zimmermann",
-      "title": "Denguevirus: Guatemala ruft wegen Dengue-Ausbruch Gesundheitsnotstand aus",
-      "description": "Dengue breitet sich im zentralamerikanischen Guatemala rasant aus, es gibt mehrere Tote. Die Regierung ordnete an, mit Ausr\u00e4ucherung gegen Moskitos vorzugehen.",
-      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fgesundheit%2F2023-09%2Fdengue-guatemala-ausbruch-notstand",
-      "urlToImage": null,
-      "publishedAt": "2023-09-01 07:34:44",
-      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.098049",
-      "internal_id": "0c8a3240e805141d4f87a0dce450c70015b938055ad0a29e4a7dc3ae99ef67c0",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1583,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u0998\u09c1\u09b0\u09c7 \u09a6\u09be\u0981\u09dc\u09be\u099a\u09cd\u099b\u09c7 \u09b6\u09cd\u09b0\u09c0\u09b2\u0999\u09cd\u0995\u09be\u09b0 \u0985\u09b0\u09cd\u09a5\u09a8\u09c0\u09a4\u09bf, \u09e7\u09e7 \u09ae\u09be\u09b8\u09c7\u09b0 \u09ac\u09cd\u09af\u09ac\u09a7\u09be\u09a8\u09c7 \u09ae\u09c2\u09b2\u09cd\u09af\u09b8\u09cd\u09ab\u09c0\u09a4\u09bf \u09ec\u09ef.\u09ee% \u09a5\u09c7\u0995\u09c7 \u09ea%",
-      "description": "\u09e8\u09e6\u09e8\u09e8 \u098f\u09b0 \u09b8\u09c7\u09aa\u09cd\u099f\u09c7\u09ae\u09cd\u09ac\u09b0\u09c7 \u09b8\u09b0\u09cd\u09ac\u09cb\u099a\u09cd\u099a \u09ec\u09ef \u09a6\u09b6\u09ae\u09bf\u0995 \u09ee \u09b6\u09a4\u09be\u0982\u09b6 \u09a5\u09c7\u0995\u09c7 \u098f \u09ac\u099b\u09b0\u09c7\u09b0 \u099c\u09c1\u09b2\u09be\u0987\u09df\u09c7\u09b0 \u09ec \u09a6\u09b6\u09ae\u09bf\u0995 \u09e9 \u09b6\u09a4\u09be\u0982\u09b6\u09c7 \u098f\u09b8\u09c7 \u09a6\u09be\u0981\u09dc\u09be\u09df \u09ae\u09c2\u09b2\u09cd\u09af\u09b8\u09cd\u09ab\u09c0\u09a4\u09bf\u09b0 \u09b9\u09be\u09b0\u0964 \u0986\u0997\u09b8\u09cd\u099f\u09c7 \u09a4\u09be \u0995\u09ae\u09c7 \u09ea \u09b6\u09a4\u09be\u0982\u09b6 \u09b9\u09b2\u0964",
-      "url": "https://bangla.thedailystar.net/news/asia/south-asia/news-510521",
-      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/09/01/untitled_design_-_2023-09-01t125501.955.png",
-      "publishedAt": "2023-09-01 07:11:05",
-      "content": "2019 was a watershed for dengue, with the highest number of cases ever reported globally. For Bangladesh too, it was a loud wake-up call, with record caseload and deaths. But the government continued\u2026 [+17 chars]",
-      "retrievedAt": "2023-09-04 07:18:49.883783",
-      "internal_id": "e9872637d5e3df931a355ae3daa30ff1d7a3d09fb63d26dc23cba38e39a19dca",
       "publishedAtLabel": "Sep 1"
     }
   ]
