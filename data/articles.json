@@ -1,8 +1,224 @@
 {
-  "last_updated": "2023-09-12 19:05",
+  "last_updated": "2023-09-13 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 1775,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Malaria: Health minister commends US, partners over $900m investment",
+      "description": "The Coordinating Minister of Health and Social Welfare, Prof. Ali Pate, has commended the United States Government and other partners for investing about $900 million in Nigeria\u2019s malaria, HIV/AIDS and tuberculosis programmes. He made the commendation in Abuj\u2026",
+      "url": "https://punchng.com/malaria-health-minister-commends-us-partners-over-900m-investment/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/11124341/Pate_cropped_h1-2.jpg",
+      "publishedAt": "2023-09-12 07:02:24",
+      "content": "The Coordinating Minister of Health and Social Welfare, Prof. Ali Pate, has commended the United States Government and other partners for investing about $900 million in Nigerias malaria, HIV/AIDS an\u2026 [+2686 chars]",
+      "retrievedAt": "2023-09-13 07:05:55.963184",
+      "internal_id": "f5cb721a7fb55361d3b45a72dffa28587a6a94ae0dcb5bccf310e04ed9f23cb9",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1776,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CounterPunch",
+      "author": "Ralph Nader",
+      "title": "Second and Third-Stage Consequences of Fossil-Fueled Climate Disruptions Emerging Fast",
+      "description": "The record heat wave and flooding that left one-third of Pakistan under water have unleashed \u201cdark clouds of mosquitoes\u201d spreading malaria. Food supplies were reduced by drenched fields unable to grow crops. The article depicted a world map with color-coded m\u2026",
+      "url": "https://www.counterpunch.org/2023/09/12/second-and-third-stage-consequences-of-fossil-fueled-climate-disruptions-emerging-fast/",
+      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2023/09/ehimetalor-akhere-unuabona-TUTPOWbrSAc-unsplash-scaled.jpg",
+      "publishedAt": "2023-09-12 05:57:42",
+      "content": "Image by Ehimetalor Akhere Unuabona. The headlines on climate catastrophes are becoming more informative as they become more ominous. For years the media headlines have been describing record floods\u2026 [+5905 chars]",
+      "retrievedAt": "2023-09-13 07:05:55.965767",
+      "internal_id": "002dcbb54495532e3a1489b5843afc2cb96b2d8635778f05e2e390d3c32e9333",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1773,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigeria: Nigeria Records 55% Drop in Malaria Deaths - WHO",
+      "description": "[Daily Trust] Nigeria has recorded a 55 percent drop in malaria deaths, the World Health Organization (WHO) has said.",
+      "url": "https://allafrica.com/stories/202309120014.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-12 04:59:01",
+      "content": "Nigeria has recorded a 55 percent drop in malaria deaths, the World Health Organization (WHO) has said. WHO Regional Director for Africa, Dr Matshidiso Moeti, said it fell from 2.1 per 1,000 populat\u2026 [+2184 chars]",
+      "retrievedAt": "2023-09-13 07:05:55.957716",
+      "internal_id": "9536f083e7ff864cb30c1926036e78b36db8d3dedaf58cce54d7b56ea5999fef",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1772,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "FOX 10 News Phoenix",
+      "author": "Marissa Sarbak",
+      "title": "Phoenix woman nearly dies after getting plastic surgery in Mexico, and she's not alone",
+      "description": "A woman in Phoenix trusted that she found a reputable plastic surgery clinic in Mexico, but soon learned that she was part of a group of people coming down with a deadly infection. She started seeing patients pass away one by one and hoped she wasn't next.",
+      "url": "https://www.fox10phoenix.com/news/phoenix-woman-nearly-dies-after-getting-plastic-surgery-in-mexico-and-shes-not-alone",
+      "urlToImage": "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/09/1280/720/snapshot-5.jpg?ve=1&tl=1",
+      "publishedAt": "2023-09-12 04:22:51",
+      "content": "PHOENIX - A warning is coming down from the Centers for Disease Control and Prevention (CDC) after a dozen fungal meningitis deaths were tied to clinics in Mexico where Americans have been getting co\u2026 [+6295 chars]",
+      "retrievedAt": "2023-09-13 07:05:55.611407",
+      "internal_id": "109b40fa75a36d9caf54d67f4cc591b200862f9c83cfdbb48710a4046422c5e7",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1771,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Anita Ward",
+      "title": "Even healthy people are getting sick with pneumonia this year \u2014 why?",
+      "description": "An expert says there's been a spike in pneumonia infections in people with healthy immune systems. Circus performer Caitlyn Larsson, who had the infection for three months this year, is one of them.",
+      "url": "https://www.abc.net.au/news/2023-09-12/more-healthy-people-sick-with-pneumonia-this-year/102781648",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/92ea1fcca13048a67be772badadf25cb?impolicy=wcms_crop_resize&cropH=1229&cropW=2184&xPos=790&yPos=315&width=862&height=485",
+      "publishedAt": "2023-09-12 01:00:13",
+      "content": "More people have been sick this year with pneumococcal infections that can cause pneumonia and meningitis, according to health data from a number of states. Key points: Experts say more peo\u2026 [+4706 chars]",
+      "retrievedAt": "2023-09-13 07:05:55.608067",
+      "internal_id": "b8186e3062fb5a46c320fd8d55cd47b41c4516224eb2d87a158545f78c5749b5",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1770,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod dengue cases decrease",
+      "description": "Bacolod City \u2013 Cases of dengue in Bacolod City continue to decrease this year, compared to cases covering the same period last year, from January 1 to August 26. Records of the Bacolod City Health Office (CHO) showed that the total cases of dengue as of Augus\u2026",
+      "url": "https://rpnradio.com/bacolod-dengue-cases-decrease/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/09/dengue-down-in-bc.jpg",
+      "publishedAt": "2023-09-12 00:44:16",
+      "content": "Bacolod City \u2013 Cases of dengue in Bacolod City continue to decrease this year, compared to cases covering the same period last year, from January 1 to August 26. Records of the Bacolod City Health O\u2026 [+831 chars]",
+      "retrievedAt": "2023-09-13 07:05:55.194743",
+      "internal_id": "bac41944251405367404221e02d8ba80806cb11533fc01ab1bd7959104aee629",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1774,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Nigeria\u2019s malaria death rate drops by 55% \u2014 WHO",
+      "description": "The World Health Organisation Regional Director for Africa, Dr Matshidiso Moeti, said on Monday that the malaria death rate in Nigeria has fallen by 55 per cent. She said this at the launch of the 2022 Nigeria Malaria Report in Abuja on Monday. Moeti also sai\u2026",
+      "url": "https://punchng.com/nigerias-malaria-death-rate-drops-by-55-who-2/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/22015336/malaria.jpg",
+      "publishedAt": "2023-09-12 00:11:24",
+      "content": "The World Health Organisation Regional Director for Africa, Dr Matshidiso Moeti, said on Monday that the malaria death rate in Nigeria has fallen by 55 per cent. She said this at the launch of the 2\u2026 [+3041 chars]",
+      "retrievedAt": "2023-09-13 07:05:55.960718",
+      "internal_id": "267777c35257868b069eb0fb488c50252c081654c0703894f8f9ebc6ee1df93b",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1777,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "megan.carey@lshtm.ac.uk (Abdoulie Kanteh), megan.carey@lshtm.ac.uk (Abhilasha Karkey), megan.carey@lshtm.ac.uk (AC Lauer), megan.carey@lshtm.ac.uk (Afreenish Amir), megan.carey@lshtm.ac.uk (Agila Kumari Pragasam), megan.carey@lshtm.ac.uk (Andrew J Pollard), megan.carey@lshtm.ac.uk (Andrew R Greenhill), megan.carey@lshtm.ac.uk (Ankur Mutreja), megan.carey@lshtm.ac.uk (Anna P Alexander), megan.carey@lshtm.ac.uk (Anthony M Smith), megan.carey@lshtm.ac.uk (Anuradha De), megan.carey@lshtm.ac.uk (Arif Mohammed Tanmoy), megan.carey@lshtm.ac.uk (Arti Kapil), megan.carey@lshtm.ac.uk (Ashish Bavdekar), megan.carey@lshtm.ac.uk (Ashita Singh), megan.carey@lshtm.ac.uk (Ayorinde Oluwatobiloba Afolayan), megan.carey@lshtm.ac.uk (Balaji Veeraraghavan), megan.carey@lshtm.ac.uk (Benjamin P Howden), megan.carey@lshtm.ac.uk (Buddha Basnyat), megan.carey@lshtm.ac.uk (Chelsey Griffin), megan.carey@lshtm.ac.uk (Chisomo Msefula), megan.carey@lshtm.ac.uk (Christiane Dolecek), megan.carey@lshtm.ac.uk (Christopher M Parry), megan.carey@lshtm.ac.uk (Claire Jenkins), megan.carey@lshtm.ac.uk (Danielle J Ingle), megan.carey@lshtm.ac.uk (Dasaratha Ramaiah Jinka), megan.carey@lshtm.ac.uk (David A Rasko), megan.carey@lshtm.ac.uk (David M Aanensen), megan.carey@lshtm.ac.uk (Denise O Garrett), megan.carey@lshtm.ac.uk (Dipesh Tamrakar), megan.carey@lshtm.ac.uk (Elisabeth Njamkepo), megan.carey@lshtm.ac.uk (Farah N Qamar), megan.carey@lshtm.ac.uk (Firdausi Qadri), megan.carey@lshtm.ac.uk (Fran\u00e7ois-Xavier Weill), megan.carey@lshtm.ac.uk (Gagandeep Kang), megan.carey@lshtm.ac.uk (Gauri Godbole), megan.carey@lshtm.ac.uk (Geetha Nagaraj), megan.carey@lshtm.ac.uk (Gordon Dougan), megan.carey@lshtm.ac.uk (Grant Austin Mackenzie), megan.carey@lshtm.ac.uk (Hattie E Webb), megan.carey@lshtm.ac.uk (Iruka N Okeke), megan.carey@lshtm.ac.uk (Isaac I Bogoch), megan.carey@lshtm.ac.uk (Jackie Wright), megan.carey@lshtm.ac.uk (Jacob John), megan.carey@lshtm.ac.uk (Jacqueline A Keane), megan.carey@lshtm.ac.uk (Jason R A\u2026",
+      "title": "Global diversity and antimicrobial resistance of typhoid fever pathogens: Insights from a meta-analysis of 13,000 Salmonella Typhi genomes",
+      "description": "An analysis of the largest Salmonella Typhi genome collection to date (n=13,000) provides an updated overview of global genome diversity and antimicrobial resistance trends over time to inform public health action.",
+      "url": "https://elifesciences.org/articles/85867",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2023-09-12 00:00:00",
+      "content": "Essential revisions: 1) Reviewer #2 has several recommendations for improving clarity in reporting. Please see detailed responses below. 2) Reviewer #3 has questions and concerns related to the ge\u2026 [+26008 chars]",
+      "retrievedAt": "2023-09-13 07:05:57.146785",
+      "internal_id": "36efe2b19c66d875c1ffffdb23d2a01976856378988d11defa46deb8c7a13644",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1778,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "jonine.figueroa@ed.ac.uk (Evropi Theodoratou), jonine.figueroa@ed.ac.uk (Jonine Figueroa), jonine.figueroa@ed.ac.uk (Marshall Dozier), jonine.figueroa@ed.ac.uk (Reagan Lee), jonine.figueroa@ed.ac.uk (Ruth McQuillan), jonine.figueroa@ed.ac.uk (Wei Xu)",
+      "title": "A rapid review on the COVID-19's global impact on breast cancer screening participation rates and volumes from January-December 2020",
+      "description": "COVID-19 has strained population breast mammography screening programs that aim to diagnose and treat breast cancers earlier. As the pandemic has affected countries differently, we aimed to quantify changes in breast screening volume and uptake during the fir\u2026",
+      "url": "https://elifesciences.org/articles/85680",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2023-09-12 00:00:00",
+      "content": "Background: The Global Typhoid Genomics Consortium was established to bring together the typhoid research community to aggregate and analyse Salmonella enterica serovar Typhi (Typhi) genomic data to\u2026 [+2228 chars]",
+      "retrievedAt": "2023-09-13 07:05:57.154274",
+      "internal_id": "4d1016bdcf69a2326c54d35ace29cf2c4bfdf37c3ba4c671ee7b6970635ccc11",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1768,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Mini Thomas",
+      "title": "Dengue cases up, B'luru faces shortage of platelets",
+      "description": ": With dengue cases rising in the city, many blood banks are organising blood donation camps to tide over shortage of platelets.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-up-bluru-faces-shortage-of-platelets/articleshow/103590332.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103590386,width-1070,height-580,imgsize-21154,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-11 23:15:31",
+      "content": "First Ladies, Diplomats shine in Indian attire at G20",
+      "retrievedAt": "2023-09-13 07:05:55.184217",
+      "internal_id": "297add58d6ce93d93c37098d838ee182fb1b2ead94f68889adb0113b635d5e3a",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 1767,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Pipoca Moderna",
+      "title": "Morrissey adia shows no Brasil ap\u00f3s pegar dengue no M\u00e9xico",
+      "description": "Morrissey, ex-vocalista da banda The Smiths, adiou diversos shows na Am\u00e9rica Latina, inclusive ...",
+      "url": "https://www.terra.com.br/diversao/morrissey-adia-shows-no-brasil-apos-pegar-dengue-no-mexico,f4efc04bf9ad8994c1e717fb575ad55942f58l3n.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/09/11/1479303470-morrissey.jpg",
+      "publishedAt": "2023-09-11 22:14:59",
+      "content": "Morrissey, ex-vocalista da banda The Smiths, adiou diversos shows na Am\u00e9rica Latina, inclusive os que faria no Brasil, ap\u00f3s ser diagnosticado com dengue no M\u00e9xico. A informa\u00e7\u00e3o foi divulgada pelo sit\u2026 [+1342 chars]",
+      "retrievedAt": "2023-09-13 07:05:55.176196",
+      "internal_id": "3862756bcf5248d5070dc6028e2420be5fce7ffbe9e183e41f6f490c57642298",
+      "publishedAtLabel": "Sep 11"
+    },
+    {
+      "id": 1769,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Guadeloupe/Martinique : les cas de dengue se multiplient",
+      "description": "Dans les Antilles, le nombre de personnes contamin\u00e9es par le virus de la dengue continue de progresser ce lundi 11 septembre. En Guadeloupe et en Martinique, trois personnes sont d\u00e9c\u00e9d\u00e9es.",
+      "url": "https://www.francetvinfo.fr/sante/maladie/guadeloupe-martinique-les-cas-de-dengue-se-multiplient_6056757.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/tgXXfZaOTk25ZRJrI1yOOXdrXKE/1500x843/2023/09/11/guadeloupemartinique-64ff79f696410723882515.jpg",
+      "publishedAt": "2023-09-11 20:47:12",
+      "content": "Avec le retour de la dengue, les Guadeloup\u00e9ens sont en alerte. Une m\u00e8re de famille surveille attentivement les points d'eau dans son jardin, par peur d'\u00eatre \u00e0 son tour contamin\u00e9e par le moustique. \"O\u2026 [+729 chars]",
+      "retrievedAt": "2023-09-13 07:05:55.190250",
+      "internal_id": "d7c664234d5a9dbf11f708f652b5c5f82af98a2d60896d01c4a689bab749534e",
+      "publishedAtLabel": "Sep 11"
+    },
     {
       "id": 1764,
       "query": [
@@ -3415,223 +3631,6 @@
       "content": "Tigermyggan kom till Sverige som \u00e4gg i v\u00e4xter k\u00f6pta i Spanien. N\u00e4r v\u00e4xterna sedan vattnades kl\u00e4cktes \u00e4ggen. Familjen som k\u00f6pt v\u00e4xterna kontaktade d\u00e5 SVA, som h\u00e4mtade in mygglarverna f\u00f6r unders\u00f6kning.\u2026 [+1297 chars]",
       "retrievedAt": "2023-09-04 07:18:49.890979",
       "internal_id": "e8c114aeb4ed83e1d602bbd74be0f4b186ed5c2191eed32988954c400c2b11c8",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1565,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
-      "title": "Castiglione d\u2019Adda, altre due persone contagiate dalla Dengue: salgono a 7 i casi autoctoni in Lombardia",
-      "description": "I due contagiati non sono gravi. I malati autoctoni sono quelli che sono stati infettati restando in Italia",
-      "url": "https://milano.repubblica.it/cronaca/2023/09/01/news/castiglione_d_adda_altre_due_persone_contagiate_dalla_dengue_salgono_a_7_i_casi_autoctoni_in_lombardia-412994707/",
-      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-milano/2023/09/01/200943970-731f0310-3d82-444f-b47e-e9bcad3cd5a4.jpg",
-      "publishedAt": "2023-09-01 18:09:45",
-      "content": "Registrati due nuovi casi di Dengue autoctona nel Lodigiano. Si tratta di persone residenti a Castiglione dAdda che non manifestano sintomi gravi della malattia. In Italia il numero di contagiati aut\u2026 [+2183 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.103976",
-      "internal_id": "e63dbb569d6237cb600b5c32465a45ea40bf5eedad51a1c7bfc6f952d3789d92",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1559,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "Dengue, chikungunya e casos das 2 infec\u00e7\u00f5es juntas crescem no Brasil",
-      "description": "Pesquisadores da UFMG e de laborat\u00f3rios privados registraram 7 vezes mais resultados positivos de chikungunya e 3 de dengue em 2023",
-      "url": "https://www.metropoles.com/saude/crescem-casos-dengue-chikungunya",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/22104941/Dengue_Casos_DF.jpg",
-      "publishedAt": "2023-09-01 16:11:05",
-      "content": "Os casos de pessoas infectadas com dengue, chikungunya e com os dois v\u00edrus ao mesmo tempo cresceram no primeiro semestre deste ano no Brasil, de acordo com um levantamento feito por pesquisadores da \u2026 [+5129 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.093008",
-      "internal_id": "8cc4a63874671ca500e05e0e36cb404d6c74008d40e2b6a3df3a95409e56664a",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1569,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Gudrun Heise, Julia Vergin",
-      "title": "Meningococci: Bacteria with epidemic potential",
-      "description": "Meningococcus is the most common cause of bacterial meningitis worldwide. And as the recent outbreak in the United States shows, it can be life-threatening. In the US state of Virginia, health authorities have registered a \"statewide meningococcal outbreak.\" \u2026",
-      "url": "https://www.dw.com/en/meningococci-bacteria-with-epidemic-potential/a-66697281",
-      "urlToImage": "https://static.dw.com/image/66697633_6.jpg",
-      "publishedAt": "2023-09-01 15:27:00",
-      "content": "In the US state of Virginia, health authorities have registered a \"statewide meningococcal outbreak.\" Since June 2022, 30 people have fallen ill three times more than normal within such a period, it \u2026 [+2764 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.444139",
-      "internal_id": "c0fb1806477d8cdcecb117043e452d86d3d7cf2287529b1d2d5bdd5a68fbcabb",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1564,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "A global dengue coalition to deliver treatment within 5 years: Lancet comment",
-      "description": "The Dengue Alliance, a coalition of institutions from dengue-endemic countries, plans to develop a new treatment for dengue within five years. The alliance aims to accelerate research and development and deliver dengue therapeutics through a collaborative par\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/a-global-dengue-coalition-to-deliver-treatment-within-5-years-lancet-comment/articleshow/103290739.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103290766,width-1070,height-580,imgsize-32238,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-01 14:38:52",
-      "content": "New Delhi, A coalition of institutions from dengue-endemic countries aims to deliver a new treatment for dengue from repurposed drugs and combinations within 5 years, according to a comment published\u2026 [+3393 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.102677",
-      "internal_id": "941cd38796448fab8ce0e100c6b0472f2309d967c3f13e085ff93c0d188efedb",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1558,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Elperiodico.com",
-      "author": "El Peri\u00f3dico",
-      "title": "El mosquito tigre, vector del dengue, ampl\u00eda su campo de acci\u00f3n en Espa\u00f1a",
-      "description": "El mosquito tigre (\"Aedes albopictus\"), especie transmisora del dengue y considerada como ex\u00f3tica invasora originaria de Asia, ha extendido su campo de acci\u00f3n en Espa\u00f1a y actualmente est\u00e1 ya en el litoral mediterr\u00e1neo, el norte y algunas zonas del interior pe\u2026",
-      "url": "https://www.elperiodico.com/es/sociedad/20230901/mosquito-tigre-dengue-extension-enfermedades-91590761",
-      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/095a19f8-df7f-498a-8835-45b94b240b50_16-9-discover-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-09-01 14:32:23",
-      "content": "El mosquito tigre (\"Aedes albopictus\"), especie transmisora del dengue y considerada como ex\u00f3tica invasora originaria de Asia, ha extendido su campo de acci\u00f3n en Espa\u00f1a y actualmente est\u00e1 ya en el li\u2026 [+4559 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.091002",
-      "internal_id": "097801a5e8398ab0e4fc0226188df96b7021944c954b753c97064be494aa1127",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1563,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Louis Lambrechts, Robert C. Reiner Jr, M. Veronica Briesemeister, Patricia Barrera, Kanya C. Long, William H. Elson, Alfonso Vizcarra, Helvio Astete, Isabel Bazan, Crystyan Siles, Stalin Vilcarromero, Mariana Leguia, Anna B. Kawiecki, T. Alex Perkins, Alun L. Lloyd, Lance A. Waller, Uriel Kitron, Sarah A. Jenkins, Robert D. Hontz, Wesley R. Campbell, Lauren B. Carrington, Cameron P. Simmons, J. Sonia Ampuero, Gisella Vasquez, John P. Elder, Valerie A. Paz-Soldan, Gonzalo M. Vazquez-Prokopec, Alan L. Rothman, Christopher M. Barker, Thomas W. Scott, Amy C. Morrison",
-      "title": "Direct mosquito feedings on dengue-2 virus-infected people reveal dynamics of human infectiousness",
-      "description": "Author summary In this study, we examined the potential for people with mild illness to transmit dengue virus to mosquitoes. Although people with mild dengue illness can be infectious, they often are undetected by surveillance systems and research teams. Vari\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011593",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011593.g002&size=inline",
-      "publishedAt": "2023-09-01 14:00:00",
-      "content": "Abstract Dengue virus (DENV) transmission from humans to mosquitoes is a poorly documented, but critical component of DENV epidemiology. Magnitude of viremia is the primary determinant of successful\u2026 [+51333 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.100651",
-      "internal_id": "c7ea470dc272ef0b784477e677a405c3f866e8ce992478e0cb846a51e3e4cb19",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1560,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "Juliette Mitoyen",
-      "title": "Sant\u00e9. Moustiques tigres : les demandes de d\u00e9moustication explosent un peu partout en France",
-      "description": "Les interventions de d\u00e9moustication visant les moustiques tigres sont en hausse cet \u00e9t\u00e9, alors que cet insecte, qui peut \u00eatre vecteur de maladies comme la dengue, s\u2019implante durablement dans toujours plus de d\u00e9partements m\u00e9tropolitains.",
-      "url": "https://www.ledauphine.com/sante/2023/09/01/moustiques-tigres-les-demandes-de-demoustication-explosent-un-peu-partout-en-france",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/ED32E94F-6058-440C-85F4-062F92F674D1/FB1200/photo-1693566540.jpg",
-      "publishedAt": "2023-09-01 13:05:00",
-      "content": "\u00ab La situation est insupportable \u00bb, \u00ab C\u2019est infernal ! \u00bb, \u00ab Je n\u2019en peux plus \u00bb, \u00ab On est envahi \u00bb\u2026 Les commentaires se suivent et se ressemblent en dessous de la p\u00e9tition lanc\u00e9e par une habitante d\u2019\u2026 [+497 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.094595",
-      "internal_id": "c0c8d393c3daba54ffbe61994830d3b496b553752b10f30ce40a3b083172ae54",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1557,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Corriere.it",
-      "author": "Cristina Marrone",
-      "title": "Dengue, la \u00abfebbre spaccaossa\u00bb \u00e8 ormai arrivata in Italia: gi\u00e0 sei i casi autoctoni",
-      "description": "Cinque pazienti sono di Castiglione d\u2019Adda (Lombardia) ma il ministero dela Salute non esclude nuovi casi di trasmissione indigena. I sintomi della malattia e il ruolo dei cambiamenti climatici nella diffusione",
-      "url": "https://www.corriere.it/salute/malattie_infettive/23_settembre_01/dengue-febbre-spaccaossa-arrivata-italia-gia-sei-casi-autoctoni-372309da-48a7-11ee-859b-50c2b0b05e77.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/09/01/1b225c78-48b5-11ee-859b-50c2b0b05e77.jpg",
-      "publishedAt": "2023-09-01 12:35:28",
-      "content": "di Cristina MarroneCinque pazienti sono di Castiglione d\u2019Adda (Lombardia) ma il ministero dela Salute non esclude nuovi casi di trasmissione indigena. I sintomi della malattia e il ruolo dei cambiame\u2026 [+5841 chars]",
-      "retrievedAt": "2023-09-02 19:05:07.084984",
-      "internal_id": "c88643192d1392a823bbeaf7fadda68ca6646c76f619727db28831594f39c1ef",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1573,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.pt",
-      "author": "DN/Lusa",
-      "title": "Mpox. Quase 100 casos detetados em Portugal desde junho",
-      "description": "Segundo a DGS, a quase totalidade dos casos s\u00e3o homens (um caso do sexo feminino), com idade compreendida entre os 20 e os 55 anos, residindo maioritariamente nas regi\u00f5es de Lisboa e Vale do Tejo (89%) e do Norte (11%).",
-      "url": "https://www.dn.pt/sociedade/mpox-quase-100-casos-detetados-em-portugal-desde-junho-16950372.html",
-      "urlToImage": "https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=863381af-73fc-4936-ae74-68d61118a9de&w=800&h=420&watermark=true&t=20230901132500",
-      "publishedAt": "2023-09-01 12:25:00",
-      "content": "Quase 100 casos de Mpox foram detetados em Portugal desde junho, resultantes do segundo surto desta doen\u00e7a contagiosa que se mant\u00e9m ativo, com uma m\u00e9dia de cinco novos casos reportados por semana, se\u2026 [+3079 chars]",
-      "retrievedAt": "2023-09-02 19:05:09.208932",
-      "internal_id": "d6b7d4c3825a2f2a1c6c3350d7fe8fbc1efab62942acadf4153c72fd4f4da6b6",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1570,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Haberturk.com",
-      "author": "Habert\u00fcrk",
-      "title": "Paris\u2019te Dang Hummas\u0131 vakas\u0131 ard\u0131ndan sivrisineklere ila\u00e7lama operasyonu",
-      "description": "Fransa\u2019n\u0131n ba\u015fkenti Paris\u2019in bir b\u00f6lgesinde d\u00fcn Dang Hummas\u0131 ve Zika vir\u00fcs\u00fc ta\u015f\u0131yan kaplan sivrisineklere kar\u015f\u0131 ila\u00e7lama operasyonu yap\u0131ld\u0131. \u0130l\u00e7e Belediye Ba\u015fkan\u0131 Jerome Coumet, bir ki\u015finin seyahat sonras\u0131nda Dang Hummas\u0131 ta\u015f\u0131d\u0131\u011f\u0131 tespit edilmesi \u00fczerine ila\u00e7\u2026",
-      "url": "https://www.haberturk.com/pariste-bir-dang-hummasi-vakasi-sonrasi-sivrisineklere-ilaclama-operasyonu-yapildi-3618442",
-      "urlToImage": "https://im.haberturk.com/l/2023/09/01/ver1693570561/3618442/jpg/1200x628",
-      "publishedAt": "2023-09-01 12:24:43",
-      "content": "Paris Belediye Bakan Yardmcs Anne Souyrisin d\u00fcn erken saatlerde bizzat katld b\u00fcy\u00fck \u00e7aptaki ila\u00e7lama operasyonunun Pariste bir ilk olduu belirtildi. Souyris, Parisin 20 b\u00f6lgesinden bir tanesi olan 13\u00fc\u2026 [+635 chars]",
-      "retrievedAt": "2023-09-02 19:05:08.474941",
-      "internal_id": "31e6be76a634db773076dcef9ae9f44c227f46aa6faf07e2babc82035bce8da2",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1574,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Mpox: quase 100 casos detetados em Portugal desde junho",
-      "description": "Entre 1 de junho e 30 de agosto deste ano, foram identificados 97 casos que foram laboratorialmente confirmados. Dos casos confirmados, 74 (80%) s\u00e3o homens que tiveram sexo com homens.",
-      "url": "https://observador.pt/2023/09/01/mpox-quase-100-casos-detetados-em-portugal-desde-junho/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1440%3A808%3Anowe%3A0%3A0%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F09%2F01104526%2F35180755.jpg",
-      "publishedAt": "2023-09-01 10:50:47",
-      "content": "Quase 100 casos de Mpox foram detetados em Portugal desde junho, resultantes do segundo surto desta doen\u00e7a contagiosa que se mant\u00e9m ativo, com uma m\u00e9dia de cinco novos casos reportados por semana, se\u2026 [+3079 chars]",
-      "retrievedAt": "2023-09-02 19:05:09.211013",
-      "internal_id": "c85bf4521613ba52a33d2e2624a2ffcd2aba81bcdf34eb6426b77eb8f773a090",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1600,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "Deutsche Welle Wissenschaft/Umwelt",
-      "title": "Wissenschaft - Meningokokken: Bakterien mit Epidemie-Potential",
-      "description": "Meningokokken sind weltweit die h\u00e4ufigste Ursache f\u00fcr eine bakterielle Meningitis. Und die kann lebensgef\u00e4hrlich werden, wie der j\u00fcngste Ausbruch in den USA zeigt.",
-      "url": "https://www.focus.de/gesundheit/news/wissenschaft-meningokokken-bakterien-mit-epidemie-potential_id_203420088.html",
-      "urlToImage": "https://p6.focus.de/img/fotos/id_203688201/gettyimages-1148110394-2-.jpg?im=Crop%3D%280%2C177%2C2121%2C1060%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=2a09598e412fddf0fcb93a1ac3fc592309330f759b351967e27b5395c167db29",
-      "publishedAt": "2023-09-01 10:45:07",
-      "content": "Im US-Bundesstaat Virginia haben die Gesundheitsbeh\u00f6rden einen staatenweiten Meningokokken-Ausbruch registriert. Seit Juni 2022 seien 30 Personen erkrankt - dreimal mehr als normalerweise innerhalb e\u2026 [+2785 chars]",
-      "retrievedAt": "2023-09-04 19:05:29.297720",
-      "internal_id": "2895ef40913cedb57b5ec3270bda939b114be09b90506a4699a15432f242bf2e",
       "publishedAtLabel": "Sep 1"
     }
   ]
