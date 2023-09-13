@@ -1,8 +1,387 @@
 {
-  "last_updated": "2023-09-13 07:05",
+  "last_updated": "2023-09-13 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 1780,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Reuters",
+      "title": "Most US dog owners doubt canine vaccines: study",
+      "description": "(marketscreener.com) STORY: The anti-vaccination movement, which intensified during the COVID-19 pandemic, appears to also extend to some American dog owners - who are now wary over vaccinating their pets against diseases such as rabies and canine hepatitis.h\u2026",
+      "url": "https://www.marketscreener.com/news/latest/Most-US-dog-owners-doubt-canine-vaccines-study--44826515/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-09-12 18:01:40",
+      "content": "STORY: The anti-vaccination movement, which intensified during the COVID-19 pandemic, appears to also extend to some American dog owners - who are now wary over vaccinating their pets against disease\u2026 [+1623 chars]",
+      "retrievedAt": "2023-09-13 19:05:25.396608",
+      "internal_id": "9fa6165948213e0057b176a1e96c7142934f015c822107bbf8aa10baa0e64e27",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1784,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Mohua Chatterjee",
+      "title": "Chandrababu Naidu arrest: INDIA bloc leaders 'reach out' to TDP chief",
+      "description": "The arrest of former Andhra Pradesh chief minister N Chandrababu Naidu by the Jagan Mohan Reddy-led state government has led to support from the INDIA bloc parties. West Bengal chief minister Mamata Banerjee, a key ally of the bloc, criticized the arrest and \u2026",
+      "url": "https://timesofindia.indiatimes.com/india/chandrababu-naidu-arrest-india-bloc-leaders-reach-out-to-tdp-chief/articleshow/103614822.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103614880,width-1070,height-580,imgsize-28288,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-12 17:26:47",
+      "content": "Dengue: Foods that help increase platelet count",
+      "retrievedAt": "2023-09-13 19:05:26.359007",
+      "internal_id": "e84c42e08ba39efe5afb6f9d062f2ecf8f698c52cb8664ee1cea0db2d2349dea",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1788,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "North Korea's Kim in Russia for Putin talks as US warns on arms deal",
+      "description": "North Korean leader Kim Jong Un arrived in Russia on Tuesday ahead of a meeting with President Vladimir Putin that the United States has warned could see an arms deal to support Moscow's assault on Ukraine.Making a rare foreign trip and his first since the pa\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/north-koreas-kim-in-russia-for-putin-talks-as-us-warns-on-arms-deal/articleshow/103614878.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103614890,width-1070,height-580,imgsize-49572,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-12 17:19:58",
+      "content": "Dengue: Foods that help increase platelet count",
+      "retrievedAt": "2023-09-13 19:05:26.369019",
+      "internal_id": "1489ddd579c506e45f6fcfefacf4501360604e6be0c141f3e1a9f1c5426957d4",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1787,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "A Raja stirs another controversy; calls Hindu religion a menace",
+      "description": "CHENNAI: DMK MP A Raja continued to stir the pot with his remarks on Sanatana Dharma and Hindu religion.",
+      "url": "https://timesofindia.indiatimes.com/india/a-raja-stirs-another-controversy-calls-hindu-religion-a-menace/articleshow/103614724.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103614710,width-1070,height-580,imgsize-739339,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-12 17:14:56",
+      "content": "Dengue: Foods that help increase platelet count",
+      "retrievedAt": "2023-09-13 19:05:26.364717",
+      "internal_id": "e0724974a499dae3faf1bf3dc54235388847abcaa9688d17c3fc458a70975bf9",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1786,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Bharti Jain",
+      "title": "Polling staff now required to cast vote at facilitation centre at place of duty",
+      "description": "Accepting the Election Commission's recommendation in September 2022, the law ministry amended the Conduct of Election Rules, 1961, to make it mandatory for officers and staff on election duty, including police officers, to vote at the voter facilitation cent\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/polling-staff-now-required-to-cast-vote-at-facilitation-centre-at-place-of-duty/articleshow/103614691.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103614707,width-1070,height-580,imgsize-48750,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-12 17:08:37",
+      "content": "Dengue: Foods that help increase platelet count",
+      "retrievedAt": "2023-09-13 19:05:26.362822",
+      "internal_id": "ae15c88df1053baabd12ef634990d060179256292662c8901721d3ecd46ca4f3",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1783,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Rashmi Drolia",
+      "title": "Chhattisgarh: BJP\u2019s \u2018parivartan yatra\u2019 idea is copy of Congress",
+      "description": "Amidst BJP launching its \u2018Parivartan Yatra\u2019 in Bastar with an eye on assembly polls in November, Chhattisgarh Pradesh Congress chief Deepak Baij called it a \u2018copying the Congress\u2019 idea\u2019 and that the party will not benefit at all from this yatra because BJP ha\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/chhattisgarh-bjps-parivartan-yatra-idea-is-copy-of-congress/articleshow/103614564.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103614574,width-1070,height-580,imgsize-117444,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-12 16:57:19",
+      "content": "Dengue: Foods that help increase platelet count",
+      "retrievedAt": "2023-09-13 19:05:26.356576",
+      "internal_id": "6fcc28ea9ee7345dbe4724e19845ed21dca09621e1db1a27e933ee6b6df94439",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1791,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Somit Sen",
+      "title": "Transporters threaten protest unless border check posts are abolished",
+      "description": "The All India Motor Transport Congress (AIMTC) has demanded abolition of border check posts in the country, starting with Maharashtra, Chhattisgarh and Karnataka.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/transporters-threaten-protest-unless-border-check-posts-are-abolished/articleshow/103614497.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103614554,width-1070,height-580,imgsize-100780,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-12 16:56:09",
+      "content": "Dengue: Foods that help increase platelet count",
+      "retrievedAt": "2023-09-13 19:05:26.379545",
+      "internal_id": "ed4c632cdc0b84f2cb072d0855dadfce4f2dad6aa5df3b220db34c55aaa69fe5",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1789,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Swati Bharadwaj",
+      "title": "Aurobindo forays into Indonesia with acquisition of 15 brands for $48 million",
+      "description": "Aurobindo Pharma announced on Tuesday that it is entering the Indonesian market by acquiring 15 formulations brands from Viatris Inc and Pfizer Inc for a cash consideration of US$48 million (approximately Rs 398 crore).",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/aurobindo-forays-into-indonesia-with-acquisition-of-15-brands-for-48-million/articleshow/103614483.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103614486,width-1070,height-580,imgsize-26424,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-12 16:49:22",
+      "content": "Dengue: Foods that help increase platelet count",
+      "retrievedAt": "2023-09-13 19:05:26.373040",
+      "internal_id": "c810cea203cb9690e91780929b6bb786965fff5641733400b8f5353959ef3393",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1785,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "India completes 90 new border infrastructure projects to reduce huge differential with China",
+      "description": "NEW DELHI: Continuing with the massive ongoing effort to reduce the huge border infrastructure differential with China, as many as 90 projects includi.",
+      "url": "https://timesofindia.indiatimes.com/india/india-completes-90-new-border-infrastructure-projects-to-reduce-huge-differential-with-china/articleshow/103614258.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103614287,width-1070,height-580,imgsize-51422,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-12 16:33:19",
+      "content": "Dengue: Foods that help increase platelet count",
+      "retrievedAt": "2023-09-13 19:05:26.360903",
+      "internal_id": "99ada1c187931d4e03d9d7c333c453ee845bffef251f7dce950a47694193e4ac",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1790,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Halep to appeal four-year ban for anti-doping rule violations",
+      "description": "Romania's former world number one Simona Halep said on Tuesday that she would appeal to sport's highest court against the International Tennis Integrity Agency (ITIA) decision to ban her for four years after two separate anti-doping rule violations.",
+      "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/simona-halep-to-appeal-four-year-ban-for-anti-doping-rule-violations/articleshow/103614262.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103614265,width-1070,height-580,imgsize-38484,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-12 16:31:29",
+      "content": "Dengue: Foods that help increase platelet count",
+      "retrievedAt": "2023-09-13 19:05:26.375881",
+      "internal_id": "41fa623715960b62e329e949aae80949f10faec4beb332e1610add31326bafd5",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1799,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigeria: Nigeria's Malaria Death Rate Dropped By 55% in 21 Years - WHO",
+      "description": "[Premium Times] Although Nigeria accounted for about 27 per cent of the global burden of malaria cases, the country has made significant progress.",
+      "url": "https://allafrica.com/stories/202309120513.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-12 14:29:14",
+      "content": "Although Nigeria accounted for about 27 per cent of the global burden of malaria cases, the country has made significant progress. The World Health Organisation (WHO) on Monday said malaria death ra\u2026 [+4566 chars]",
+      "retrievedAt": "2023-09-13 19:05:26.980003",
+      "internal_id": "47a5ecffad8bf6e0ef99665e5124facaa9bf36ad8fa9b8ecd9502ea36c2c60c0",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1796,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N CARTAGENA",
+      "title": "Reportan 39 nuevos casos de dengue en Cartagena: van 1.885 este a\u00f1o",
+      "description": "El Departamento Administrativo Distrital de Salud (Dadis) reporta durante la \u00faltima semana epidemiol\u00f3gica 39 nuevos casos de dengue en el distrito de Cartagena, uno de ellos corresponde a dengue grave y cero fallecidos. Lea: Bol\u00edvar, en el brote de dengue m\u00e1s\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/reportan-39-nuevos-casos-de-dengue-en-cartagena-van-1885-este-ano-MH8988068",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1220x686/210c0/800d686/none/13704/SLWC/labores-de-control-larbario-del-dadis_8468670_20230912092636.jpg",
+      "publishedAt": "2023-09-12 14:26:34",
+      "content": "El Departamento Administrativo Distrital de Salud (Dadis) reporta durante la \u00faltima semana epidemiol\u00f3gica 39 nuevos casos de dengue en el distrito de Cartagena, uno de ellos corresponde a dengue grav\u2026 [+1783 chars]",
+      "retrievedAt": "2023-09-13 19:05:26.394471",
+      "internal_id": "383c365f401a6d2f2a8520f7b472f0c05d823ece6e0317b47da636fa34a43556",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1779,
+      "query": [
+        "rabies",
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Boing Boing",
+      "author": "Jason Weisberger",
+      "title": "Anti-vaxxers put dogs at high risk",
+      "description": "Based on long-debunked fables, the anti-vaccine movement has pets as their targets. Purportedly, 53% of dog owners no longer trust vaccines. Vaccines for Rabies, Parvo, Leptospirosis, I do not want my dog to get any of these. I once volunteered at the Mar\u2026",
+      "url": "https://boingboing.net/2023/09/12/anti-vaxxers-put-dogs-at-high-risk.html",
+      "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/doggy-daycare.jpeg?fit=1200%2C800&ssl=1",
+      "publishedAt": "2023-09-12 14:25:53",
+      "content": "Based on long-debunked fables, the anti-vaccine movement has pets as their targets. Purportedly, 53% of dog owners no longer trust vaccines. Vaccines for Rabies, Parvo, Leptospirosis, I do not want\u2026 [+766 chars]",
+      "retrievedAt": "2023-09-13 19:05:25.387850",
+      "internal_id": "e3c637e7d20dbb5a423aa9c0c0c37fd85375f90a553885879fd2d0d746493f61",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1781,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Checkyourfact.com",
+      "author": "Anna Mock",
+      "title": "FACT CHECK: No, Posters Warning Of Various Ailments Were Not Shared At Burning Man",
+      "description": "A photo claims posters were shared during Burning Man Festival warning of various symptoms of sickness.",
+      "url": "https://checkyourfact.com/2023/09/12/fact-check-posters-burning-man-ailments/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/09/2023-09-04T230720Z_1872180995_RC2Y13AA7QHF_RTRMADP_3_USA-BURNINGMAN-e1694200540202.jpg",
+      "publishedAt": "2023-09-12 13:47:33",
+      "content": "A photo shared on Facebook claims posters were shared during Burning Man Festival warning of various symptoms of sickness. Verdict: False The graphic was altered from one detailing dengue fever sym\u2026 [+1595 chars]",
+      "retrievedAt": "2023-09-13 19:05:26.350933",
+      "internal_id": "44c6ca5b8494f1db12a2e75599b8081a29f6b2f3a4a1ef73484752fdeff4e00a",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1797,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Corrie Pikul-Brown",
+      "title": "New malaria parasites evade detection and are hard to treat",
+      "description": "Newly-detected strains of malaria-causing parasites in Ethiopia are resistant to current treatments and are able to evade detection.",
+      "url": "https://www.futurity.org/malaria-parasites-mutations-ethiopia-2972972/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2023/09/malaria-parasite-mosquitoes-1600.jpg",
+      "publishedAt": "2023-09-12 13:38:45",
+      "content": "Researchers have detected new strains of malaria-causing parasites in Ethiopia that are both resistant to current treatments and escape detection by common diagnostic tests, according to a new study.\u2026 [+4695 chars]",
+      "retrievedAt": "2023-09-13 19:05:26.968741",
+      "internal_id": "785cd82aedc5f81055c93456bceae6e9fd15e86d3899dcd229b36eb7dca1c7f2",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1795,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Morrissey \u00e9 diagnosticado com dengue no M\u00e9xico e adia shows no Brasil; saiba mais",
+      "description": "O cantor e compositor Steven Patrick Morrissey adiou os shows que faria em S\u00e3o Paulo e Bras\u00edlia ...",
+      "url": "https://www.terra.com.br/diversao/musica/morrissey-e-diagnosticado-com-dengue-no-mexico-e-adia-shows-no-brasil-saiba-mais,9bfd27bf8f40d1ad5a79dc64e6de2975b7xskrou.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2023-09-12 12:31:11",
+      "content": "O cantor e compositor Steven Patrick Morrissey adiou os shows que faria em S\u00e3o Paulo e Bras\u00edlia nos dias 27 e 30 de setembro no Brasil. A decis\u00e3o aconteceuap\u00f3s ele ser diagnosticado com dengue no \u00falt\u2026 [+961 chars]",
+      "retrievedAt": "2023-09-13 19:05:26.390456",
+      "internal_id": "8cf0d69f8a22dd86c835a6678c13594413bb9fb4cd26dc68c3dbfbab2b42ebeb",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1794,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Andrea Gentil",
+      "title": "C\u00f3mo son los mosquitos resistentes a los insecticidas",
+      "description": "Los Aedes aegypti, transmisores del dengue entre otras enfermedades, tienen mutaciones que les permiten sobrevivir al uso de piretroides. Leer m\u00e1s",
+      "url": "https://noticias.perfil.com/noticias/ciencia/cientificos-del-conicet-detectan-mosquitos-resistentes-a-los-insecticidas.phtml",
+      "urlToImage": "https://fotos.perfil.com/2023/09/11/trim/1280/720/mosquitos-aedes-aegypti-en-misiones-1651134.jpg",
+      "publishedAt": "2023-09-12 11:41:00",
+      "content": "Se calcula que cada a\u00f1o hay 390 millones de infecciones por el virus del dengue, de las cuales 96 millones tienen manifestaciones cl\u00ednicas, es decir, signos y s\u00edntomas. Y de acuerdo con la Organizaci\u2026 [+8344 chars]",
+      "retrievedAt": "2023-09-13 19:05:26.387997",
+      "internal_id": "e99b75b2444906fe70d5400e56c072aa2d621e62a20662acaa4d39dcf2fb647f",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1782,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Maghreb Arabe Presse",
+      "title": "Epid\u00e9mie de dengue au Burkina: au moins 31 morts depuis le d\u00e9but de l'ann\u00e9e",
+      "description": "Au moins 31 d\u00e9c\u00e8s li\u00e9s \u00e0 la dengue ont \u00e9t\u00e9 d\u00e9j\u00e0 notifi\u00e9s cette ann\u00e9e au Burkina Faso, a annonc\u00e9 le 11 septembre le ministre de la Sant\u00e9 et de l'Hygi\u00e8ne publique, Robert Kargougou.",
+      "url": "https://fr.sputniknews.africa/20230912/epidemie-de-dengue-au-burkina-au-moins-31-morts-depuis-le-debut-de-lannee-1062054729.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1062054729.jpg?10518504521694516530",
+      "publishedAt": "2023-09-12 11:02:09",
+      "content": "https://fr.sputniknews.africa/20230912/epidemie-de-dengue-au-burkina-au-moins-31-morts-depuis-le-debut-de-lannee-1062054729.html Epid\u00e9mie de dengue au Burkina: au moins 31 morts depuis le d\u00e9but de l\u2026 [+2145 chars]",
+      "retrievedAt": "2023-09-13 19:05:26.353755",
+      "internal_id": "c1dbae2472ee736139f7f7fbd34ff7af15d27b96987c503401f9d9931c7d67f7",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1798,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Sarah Emminghaus",
+      "title": "Genver\u00e4nderte Malaria-M\u00fccken: Genetisch unsch\u00e4dlich",
+      "description": "Lie\u00dfe sich die DNA von M\u00fccken so ver\u00e4ndern, dass diese kein Malaria mehr \u00fcbertragen? Ein internationales Forschungsinstitut arbeitet daran.",
+      "url": "https://taz.de/Genveraenderte-Malaria-Muecken/!5956386/",
+      "urlToImage": "https://taz.de/picture/6505642/948/genetik-Malaria-Muecken-1.jpeg",
+      "publishedAt": "2023-09-12 10:28:00",
+      "content": "Lie\u00dfe sich die DNA von M\u00fccken so ver\u00e4ndern, dass diese kein Malaria mehr \u00fcbertragen? Ein internationales Forschungsinstitut arbeitet daran. M\u00fccken auf einem Moskitonetz in Nairobi, Kenia Foto: Steph\u2026 [+9597 chars]",
+      "retrievedAt": "2023-09-13 19:05:26.976505",
+      "internal_id": "142b668a634bc5ec2e8a137b0381a4dab5c6d0bf6aa7ba31871503d83fb144ec",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1793,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Burkina Faso: Flamb\u00e9e de cas de Dengue",
+      "description": "[L'Observateur Paalga] 3000 cas de dengue. C'est...dingue ! La riposte doit \u00eatre de taille et le Comit\u00e9 national de gestion des \u00e9pid\u00e9mies s'est r\u00e9uni, \u00e0 cet effet le lundi 11 septembre 2023 \u00e0 Ouagadougou en vue d'examiner la situation et de proposer des actio\u2026",
+      "url": "https://fr.allafrica.com/stories/202309120134.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-12 08:33:51",
+      "content": "3000 cas de dengue. C'est...dingue ! La riposte doit \u00eatre de taille et le Comit\u00e9 national de gestion des \u00e9pid\u00e9mies s'est r\u00e9uni, \u00e0 cet effet le lundi 11 septembre 2023 \u00e0 Ouagadougou en vue d'examiner \u2026 [+2526 chars]",
+      "retrievedAt": "2023-09-13 19:05:26.383220",
+      "internal_id": "8d541ffec83373e70551d2173d347a89f6cd59b532f80dbbf90464f9e2ce5759",
+      "publishedAtLabel": "Sep 12"
+    },
+    {
+      "id": 1792,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "J.U. (20 Minutes)",
+      "title": "Moustique tigre : Op\u00e9ration de d\u00e9moustication apr\u00e8s un cas de dengue pr\u00e8s de Nantes",
+      "description": "Un traitement insecticide a \u00e9t\u00e9 r\u00e9alis\u00e9 cette nuit \u00e0 Saint-S\u00e9bastien-sur-Loire, sur demande de l'Agence r\u00e9gionale de sant\u00e9",
+      "url": "https://www.20minutes.fr/societe/4052578-20230912-moustique-tigre-operation-demoustication-apres-cas-dengue-pres-nantes",
+      "urlToImage": "https://img.20mn.fr/znFnSfqvSYK2BeLT6oJ-uQ/1200x768_moustique-tigre-illustration",
+      "publishedAt": "2023-09-12 08:25:52",
+      "content": "Les habitants du quartier de la Baugerie, \u00e0 Saint-S\u00e9bastien-sur-Loire, ont peut-\u00eatre vu passer des agents \u00e9quip\u00e9s de combinaisons blanches et de masques, cette nuit. Entre 23 heures et 3 heures du ma\u2026 [+1024 chars]",
+      "retrievedAt": "2023-09-13 19:05:26.381347",
+      "internal_id": "8e90135d5511f873f80cb0974069e58383f8f4e4aa09074e019e1f9732227cd3",
+      "publishedAtLabel": "Sep 12"
+    },
     {
       "id": 1775,
       "query": [
@@ -3243,395 +3622,6 @@
       "retrievedAt": "2023-09-04 19:05:30.466987",
       "internal_id": "b399dc84d94d8a1d6f76e664c2e605ed7ac2fe129c930569ac70403ef2dd3480",
       "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1606,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "Zika Virus : \u0930\u093e\u091c\u094d\u092f\u093e\u0924\u0940\u0932 \u091c\u0928\u0924\u0947\u091a\u0940 \u0915\u093e\u0933\u091c\u0940 \u0935\u093e\u0922\u0935\u0923\u093e\u0930\u0940 \u0905\u092a\u0921\u0947\u091f, \u091d\u093f\u0915\u093e \u0935\u093f\u0937\u093e\u0923\u0942\u091a\u0947 \u0928\u0935\u0947 \u0924\u0940\u0928 \u0930\u0941\u0917\u094d\u0923, \u091c\u093e\u0923\u0942\u0928 \u0918\u094d\u092f\u093e \u0915\u0938\u093e \u092c\u091a\u093e\u0935 \u0915\u0930\u093e\u092f\u091a\u093e?",
-      "description": "Kolhapur News : \u0915\u094b\u0932\u094d\u0939\u093e\u092a\u0942\u0930 \u091c\u093f\u0932\u094d\u0939\u094d\u092f\u093e\u0924\u0940\u0932 \u0907\u091a\u0932\u0915\u0930\u0902\u091c\u0940\u092e\u0927\u094d\u092f\u0947 \u091d\u093f\u0915\u093e \u0935\u093f\u0937\u093e\u0923\u0942\u091a\u0947 \u0924\u0940\u0928 \u0930\u0941\u0917\u094d\u0923 \u0906\u0922\u0933\u0942\u0928 \u0906\u0932\u094d\u092f\u093e\u0928\u0902 \u0916\u0933\u092c\u0933 \u0909\u0921\u093e\u0932\u0940 \u0906\u0939\u0947. \u092e\u0941\u0902\u092c\u0908\u0924 \u0926\u0947\u0916\u0940\u0932 \u0915\u093e\u0939\u0940 \u0926\u093f\u0935\u0938\u093e\u0902\u092a\u0942\u0930\u094d\u0935\u0940 \u090f\u0915 \u0930\u0941\u0917\u094d\u0923 \u0906\u0922\u0933\u0932\u093e \u0939\u094b\u0924\u093e.",
-      "url": "https://maharashtratimes.com/maharashtra/kolhapur/kolhapur-news-three-zika-virus-infected-patient-found-in-ichalkaranji-how-to-prevent-spread-of-deceaese/articleshow/103329335.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-214976,msid-103329349/maharashtra-times.jpg",
-      "publishedAt": "2023-09-03 13:36:51",
-      "content": ", : . . . . . . ., . . . . . . . . . . : SP ; ? . . . , . . . ? . . . . , . ? . , , , , , , . . ? . . , . ... ? , . . , . . .Monsoon 2023 : , , , Marathi News App: ? .",
-      "retrievedAt": "2023-09-04 19:05:30.468893",
-      "internal_id": "6d027a79026afc491a537691cde4aebb053a5bc3c44f4a0d76c1bce85928e4b0",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1597,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "'Sanatana Dharma like Malaria, Dengue': Udhayanidhi Stalin sparks huge row, political leaders react",
-      "description": "Tamil Nadu minister for Sports and Youth affairs and son of Chief Minister, M.K. Stalin, Udayanidhi Stalin said that Sanatan dharma was like mosquitoes, dengue and malaria and has to be eradicated. He was speaking at a Sanatanam (Sanatan Dharma) Abolition Con\u2026",
-      "url": "https://economictimes.indiatimes.com/news/et-tv/sanatana-dharma-like-malaria-dengue-udhayanidhi-stalin-sparks-huge-row-political-leaders-react/videoshow/103327421.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-103327421,width-1070,height-580,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-03 11:14:23",
-      "content": "Tamil Nadu minister for Sports and Youth affairs and son of Chief Minister, M.K. Stalin, Udayanidhi Stalin said that Sanatan dharma was like mosquitoes, dengue and malaria and has to be eradicated. H\u2026 [+119 chars]",
-      "retrievedAt": "2023-09-04 19:05:28.974077",
-      "internal_id": "672c81bda60e5b7f697d10485d20a5856a5adeeeeee114feb360854b720f2e33",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1595,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "19-year-old Nishat Ara Alvida dies of Dengue",
-      "description": "Nishat Ara Alvida, a 19-year-old aspiring actress from Bangladesh, passed away on August 31 due to dengue fever. A close friend, Mohammad Hridoy, confirmed her death and revealed that despite initial improvement, Nishat underestimated her condition. Born in N\u2026",
-      "url": "https://timesofindia.indiatimes.com/entertainment/bengali/movies/news/19-year-old-nishat-ara-alvida-dies-of-dengue-last-facebook-post-of-the-actress-goes-viral/articleshow/103324830.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103324805,width-1070,height-580,imgsize-42880,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-03 08:40:17",
-      "content": "Veteran actor Dipankar De mentally broken after daughters demiseVaishali Kuriakose, 52, daughter of Bengali actor Dipankar De, has died in a Kolkata hospital due to heart and kidney issues. Her fathe\u2026 [+164 chars]",
-      "retrievedAt": "2023-09-04 19:05:28.962639",
-      "internal_id": "bc779300d8bc03117e939a156dc56a8e6272446e439dba527b5ba3a5211d5597",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1598,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Business Today",
-      "author": "Business Today Desk",
-      "title": "'Like Covid and dengue, Sanatana dharma is...': MK Stalin's son sticks to his words; is this what was agreed by INDIA in Mumbai, asks BJP",
-      "description": "Udhayanidhi Stalin said that rather than opposing Sanatana, it should be eradicated. &quot;The name Sanatana is from Sanskrit. It is against social justice and equality.&quot;",
-      "url": "https://www.businesstoday.in/latest/story/like-covid-and-dengue-sanatana-dharma-is-mk-stalins-son-udhayanidhi-sticks-to-his-words-is-this-what-was-agreed-by-india-in-mumbai-asks-bjp-396642-2023-09-03",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202309/stalin-sixteen_nine.jpg",
-      "publishedAt": "2023-09-03 07:23:44",
-      "content": "Tamil Nadu Chief Minister MK Stalin's son Udhayanidhi Stalin on Saturday sparked a massive controversy after he compared Sanatana dharma with \"dengue\" and \"malaria\" and said that it should be \"eradic\u2026 [+4037 chars]",
-      "retrievedAt": "2023-09-04 19:05:28.976937",
-      "internal_id": "fbfcf5bfb5d082dbe29ba817b56fedb760109fd9edea086c25aae3ed9601b676",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1592,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Www.bt.dk",
-      "author": "danm@bt.dk (Daniel Martinsen)",
-      "title": "Tigermyg kommer l\u00e6ngere og l\u00e6ngere nordp\u00e5",
-      "description": "Er dy bekymret over, at den skal komme til Danmark?",
-      "url": "https://www.bt.dk/udland/tigermyg-kommer-laengere-og-laengere-nordpaa",
-      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/205/2057676/24516042-tigermyggen-er-registreret-flere-steder-i-europa.jpg",
-      "publishedAt": "2023-09-03 06:26:13",
-      "content": "Tigermyggen er ikke l\u00e6ngere noget, man kun kan st\u00f8de p\u00e5 i mere tropiske egne p\u00e5 jordkloden. Den kommer faktisk t\u00e6ttere og t\u00e6ttere p\u00e5 Danmark og med kan f\u00f8lge vira som zika, chikungunya og dengue. \u00bb\u2026 [+947 chars]",
-      "retrievedAt": "2023-09-04 07:05:48.481317",
-      "internal_id": "500f572ea9269b6175d8ecbffb54f70ce73bf666c56c13348afb2508fc96b2a2",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1591,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ANI",
-      "title": "\"Our stand is clear\": Congress distances itself from Udhayanidhi Stalin's Sanatan rant",
-      "description": "Seeking to steer the Congress away from the statement of DMK leader Udhayanidhi Stalin, equating Sanatan Dharma with \"mosquitoes, dengue, malaria and corona\", the party's Maharashtra chief Nana Patole on Sunday said the partner in the DMK-led ruling coalition\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/our-stand-is-clear-congress-distances-itself-from-udhayanidhi-stalins-sanatan-rant/articleshow/103321555.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103321570,width-1070,height-580,imgsize-15180,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-03 05:31:32",
-      "content": "Seeking to steer the Congress away from the statement of DMK leader Udhayanidhi Stalin, equating Sanatan Dharma with \"mosquitoes, dengue, malaria and corona\", the party's Maharashtra chief Nana Patol\u2026 [+2662 chars]",
-      "retrievedAt": "2023-09-04 07:05:48.476085",
-      "internal_id": "49f1cee14243c0007f9c5c93b04b34cd5e666937b65d5940f6a5a2d96484bd0d",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1590,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Times Now",
-      "title": "DMK's Udhayanidhi Stalin sparks controversy, says 'Sanatan Dharma like malaria, dengue & Corona'",
-      "description": "'Uprooting Sanatan Dharma is upholding humanity and human equality,' Tamil Nadu Minister for Youth Welfare Udhayanidhi Stalin said while clarifying that he had not called for 'genocide'. 'I never called for the genocide of people who are following Sanatan Dha\u2026",
-      "url": "https://economictimes.indiatimes.com/news/et-tv/dmks-udhayanidhi-stalin-sparks-controversy-says-sanatan-dharma-like-malaria-dengue-corona/videoshow/103319906.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-103319906,width-1070,height-580,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-03 03:28:44",
-      "content": "\"Uprooting Sanatan Dharma is upholding humanity and human equality,\" Tamil Nadu Minister for Youth Welfare Udhayanidhi Stalin said while clarifying that he had not called for \"genocide\". \"I never cal\u2026 [+278 chars]",
-      "retrievedAt": "2023-09-04 07:05:48.468456",
-      "internal_id": "f564c2b0c013ed13228e613e5b4035a5714d18789bab1bc988c31d2e762ed249",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1589,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "\"Sanatana Dharma Like Dengue, Malaria\": MK Stalin's Son Triggers Huge Row",
-      "description": "Udhayanidhi Stalin, Tamil Nadu minister and son of Chief Minister MK Stalin, said on Saturday that Sanatana Dharma is against the idea of social justice and must be \"eradicated\".",
-      "url": "https://www.ndtv.com/india-news/udhayanidhi-stalin-mk-stalin-sanatan-dharma-like-dengue-malaria-mk-stalins-son-triggers-row-4354704",
-      "urlToImage": "https://c.ndtvimg.com/2021-04/0m12k7uc_udhayanidhi-stalin_625x300_06_April_21.jpg",
-      "publishedAt": "2023-09-03 02:16:54",
-      "content": "Udhayanidhi Stalin's remarks came at a writers' conference in Chennai. New Delhi: Udhayanidhi Stalin, Tamil Nadu minister and son of Chief Minister MK Stalin, said on Saturday that Sanatana Dharma i\u2026 [+3948 chars]",
-      "retrievedAt": "2023-09-04 07:05:48.459665",
-      "internal_id": "cc8a049f92952a71c92febbcfd6433060e5e864eb9cb7218be5a138897288ed9",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1594,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Dr. Sylvester Ikhisemojie",
-      "title": "Current health challenges of developing countries",
-      "description": "Developing countries face many health challenges that affect their populations and their development prospects. Some of these challenges are related to infectious diseases, such as HIV/AIDS, tuberculosis, malaria, and neglected tropical diseases. Others are r\u2026",
-      "url": "https://punchng.com/current-health-challenges-of-developing-countries/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2018/12/15201925/Dr.-Sylvester-Ikhisemojie.jpg",
-      "publishedAt": "2023-09-02 23:32:51",
-      "content": "Developing countries face many health challenges that affect their populations and their development prospects. Some of these challenges are related to infectious diseases, such as HIV/AIDS, tubercul\u2026 [+15915 chars]",
-      "retrievedAt": "2023-09-04 07:05:49.510413",
-      "internal_id": "33539dbb5ab84ed2d6112445ff98ed5ddf10a3d1926e2faa48b69095af418d05",
-      "publishedAtLabel": "Sep 2"
-    },
-    {
-      "id": 1593,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Meningococcal disease outbreak in Virginia blamed for 5 deaths - CNN",
-      "description": "Meningococcal disease outbreak in Virginia blamed for 5 deathsCNN Virginia declares statewide outbreak of meningococcal disease: 'Rare but serious'Fox News Meningitis cases on the rise in the Commonwealth: How experts say you can stay safeWFXR NEWS 5 Dead In \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171750250",
-      "urlToImage": null,
-      "publishedAt": "2023-09-02 21:32:17",
-      "content": "\"Given the choice between accomplishing something and just lying around, I'd rather lie around. No contest.\" -- Eric Clapton",
-      "retrievedAt": "2023-09-04 07:05:48.993276",
-      "internal_id": "1af7d8ebb5e91a02b94fa604dfbe0b7f02ce7c1019dc0c7a871b4337bffba56b",
-      "publishedAtLabel": "Sep 2"
-    },
-    {
-      "id": 1584,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Loopnews.com",
-      "author": "Kimmo Matthews",
-      "title": "Health ministry worried about mosquito breeding sites at schools | Loop Jamaica",
-      "description": "School administrators are being urged to be extra vigilant against mosquito breeding sites, thereby minimising the spread of the dengue virus by the Aedes aegypti mosquito. The call comes from Minister of Health and Wellness, Dr Christopher Tufton",
-      "url": "https://jamaica.loopnews.com/content/school-administrators-urged-get-rid-mosquito-breeding-sites/",
-      "urlToImage": "https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2023-07/christopher_tufton_12.7.23_jis_46c506eaf50f3600754aae4edf1bd40d.jpg",
-      "publishedAt": "2023-09-02 13:42:00",
-      "content": "School administrators are being urged to be extra vigilant against mosquito breeding sites, thereby minimising the spread of the dengue virus by the Aedes aegypti mosquito. The call comes from Minis\u2026 [+1570 chars]",
-      "retrievedAt": "2023-09-04 07:18:49.885490",
-      "internal_id": "27b87a62f02bd72bf537c31b69694eaa5512c1ec34a6875f45e2d4191facc591",
-      "publishedAtLabel": "Sep 2"
-    },
-    {
-      "id": 1580,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Guatemala declara emergencia por brote de dengue que deja 22 muertos",
-      "description": "El m\u00e1ximo hist\u00f3rico de dengue en Guatemala se registr\u00f3 en 2019 cuando hubo m\u00e1s de 50.000 casos, de acuerdo con estad\u00edsticas oficiales.",
-      "url": "https://www.montevideo.com.uy/Salud/Guatemala-declara-emergencia-por-brote-de-dengue-que-deja-22-muertos-uc864407",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202304/_W933_80/841257.jpg",
-      "publishedAt": "2023-09-02 13:34:00",
-      "content": "El gobierno de Guatemala declar\u00f3 este jueves emergencia nacional por un brote de dengue que ha dejado 22 muertos y m\u00e1s de 12.000 casos en lo que va del a\u00f1o, inform\u00f3 el ministro de Salud, Francisco Co\u2026 [+1751 chars]",
-      "retrievedAt": "2023-09-04 07:18:49.868639",
-      "internal_id": "504eb5ba12e0ab29b21547b9e6546ca01191d4479cf384c2edb02efdab88ece2",
-      "publishedAtLabel": "Sep 2"
-    },
-    {
-      "id": 1588,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Meneame.net",
-      "author": "hijolagranputa",
-      "title": "El negocio de la malaria: la gran farmacia frente a la medicina natural",
-      "description": "China ha mantenido sus conocimientos particulares para el tratamiento de algunas enfermedades, una de ellas la malaria. Por m\u00e1s de 2000 a\u00f1os, este pa\u00eds viene tratando la enfermedad con una planta medicinal llamada Artemisia Annua (ajenjo dulce) la cual les ha\u2026",
-      "url": "https://www.meneame.net/m/actualidad/negocio-malaria-gran-farmacia-frente-medicina-natural-1",
-      "urlToImage": null,
-      "publishedAt": "2023-09-02 12:18:01",
-      "content": "#1 Esos cient\u00edficos est\u00e1n conchabados con la medicina artificial. El ajenjo funciona! Desde que bebo verm\u00fa no tengo malaria.P\u00e1salo!",
-      "retrievedAt": "2023-09-04 07:18:53.062398",
-      "internal_id": "c8f7fa6718af59e3a33ca1f52355c5201ecfea23ef6fed0fec7bb22de3e99e0e",
-      "publishedAtLabel": "Sep 2"
-    },
-    {
-      "id": 1579,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Feber.se",
-      "author": "Frode Wikesj\u00f6",
-      "title": "Tigermyggan hittad i Sverige",
-      "description": "Sluta nu Tigermyggan uppt\u00e4cktes f\u00f6r f\u00f6rsta g\u00e5ngen i Sverige under veckan. Denna mygga \u00e4r bland annat k\u00e4nd f\u00f6r att b\u00e4ra p\u00e5 jobbiga virus som dengue och zika. Myggorna som uppt\u00e4cktes hittades i v\u00e4xter ink\u00f6pta fr\u00e5n Spanien och har sedan dess samlats in av \u2026",
-      "url": "https://feber.se/vetenskap/tigermyggan-hittad-i-sverige/455378/",
-      "urlToImage": "https://static.feber.se/article_images/56/97/03/569703.jpg",
-      "publishedAt": "2023-09-02 10:00:00",
-      "content": "+ L\u00e4s artiklar f\u00f6re alla andra Kommentera f\u00f6re alla andra V\u00e4lj periodJu l\u00e4ngre period, desto b\u00e4ttre pris. Du best\u00e4mmer! M\u00e5nad 39 kr/m\u00e5n Kvartal 33 kr/m\u00e5n \u00c5r 25 kr/m\u00e5n V\u00e4lj hur du vill beta\u2026 [+26592 chars]",
-      "retrievedAt": "2023-09-04 07:18:49.866106",
-      "internal_id": "d3e4608e631b1b57459ad802277a5d8df8aab3265a4eb8582b6f590e172111e4",
-      "publishedAtLabel": "Sep 2"
-    },
-    {
-      "id": 1581,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vnexpress.net",
-      "author": "VnExpress",
-      "title": "Vaccine s\u1ed1t xu\u1ea5t huy\u1ebft kh\u00f3 nghi\u00ean c\u1ee9u",
-      "description": "Vaccine c\u1ea7n t\u1ea1o mi\u1ec5n d\u1ecbch l\u00e2u d\u00e0i v\u1edbi 4 ch\u1ee7ng huy\u1ebft thanh c\u1ee7a virus dengue, ch\u1ed1ng l\u1ea1i tri\u1ec7u ch\u1ee9ng l\u00e2m s\u00e0ng, song ch\u01b0a \u1ee9ng vi\u00ean n\u00e0o \u0111\u00e1p \u1ee9ng c\u00e1c \u0111i\u1ec1u ki\u1ec7n n\u00e0y.",
-      "url": "https://vnexpress.net/vaccine-sot-xuat-huyet-kho-nghien-cuu-4647891.html",
-      "urlToImage": "https://vcdn1-suckhoe.vnecdn.net/2023/08/30/syringes-5057119-1920-16933865-4534-4932-1693388086.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WLB1DyF4koHoGPsvIEoBrw",
-      "publishedAt": "2023-09-02 09:00:00",
-      "content": "Vaccine cn to min dch l\u00e2u d\u00e0i vi 4 chng huyt thanh ca virus dengue, chng li triu chng l\u00e2m s\u00e0ng, song cha ng vi\u00ean n\u00e0o \u00e1p ng c\u00e1c iu kin n\u00e0y.C\u00e1c nh\u00e0 khoa hc th gii \u00e3 theo ui vaccine st xut huyt 75 nm. n\u2026 [+2508 chars]",
-      "retrievedAt": "2023-09-04 07:18:49.875670",
-      "internal_id": "c8728a5b654cf663d22098dbe6d758ac66b3f4ed18e1c126ea443bf14a00ef2d",
-      "publishedAtLabel": "Sep 2"
-    },
-    {
-      "id": 1577,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Expressen.se",
-      "author": "filip.bolmgren@expressen.se (Filip Bolmgren)",
-      "title": "Tigermyggan sprider sig norrut: \u201dBara en tidsfr\u00e5ga\u201d",
-      "description": "Delar av Paris har besprutats f\u00f6r att bek\u00e4mpa den asiatiska tigermyggan, ansvarig f\u00f6r att tv\u00e5 personer insjuknat i denguefeber. Nu har n\u00e5gra \u00e4gg uppt\u00e4ckts i Sverige \u2013 och det kan finnas betydligt fler. \u2013 Det \u00e4r nog bara en tidsfr\u00e5ga innan den etablerar sig i \u2026",
-      "url": "https://www.expressen.se/nyheter/tigermyggan-sprider-sig-norrut-bara-en-tidsfraga/",
-      "urlToImage": "https://static.cdn-expressen.se/images/e9/7d/e97de994ff31449093c86fa6208e54da/16x9/original.png",
-      "publishedAt": "2023-09-02 04:40:28",
-      "content": "Under torsdagen tog fransm\u00e4nnen till drastiska \u00e5tg\u00e4rder f\u00f6r att stoppa den asiatiska tigermyggan efter att tv\u00e5 personer insjuknat i denguefeber. Personer i syd\u00f6stra Paris uppmanas att h\u00e5lla sig hem\u2026 [+1263 chars]",
-      "retrievedAt": "2023-09-04 07:18:49.859587",
-      "internal_id": "b5063e36b8f687bceed3edd0c10fdc5ba28b47b723e9d92f95e589710c9eb11d",
-      "publishedAtLabel": "Sep 2"
-    },
-    {
-      "id": 1582,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thailandmedical.news",
-      "author": "Thailand Medical News",
-      "title": "Dengue News: Dengue Ravages Guatemala, Killing 22 And Infecting Thousands. Country Declares A Three Month Health Emergency!",
-      "description": "Dengue News: Dengue Ravages Guatemala, Killing 22 And Infecting Thousands. Country Declares A Three Month Health Emergency!thailandmedical.news",
-      "url": "https://www.thailandmedical.news/news/dengue-news-dengue-ravages-guatemala,-killing-22-and-infecting-thousands-country-declares-a-three-month-health-emergency",
-      "urlToImage": "https://www.thailandmedical.news/uploads/news/64f29fe81cffd_Dengue-News-Guatemala-Killing-22-Infecting-Thousands-Health-Emergency.jpg",
-      "publishedAt": "2023-09-02 02:41:35",
-      "content": "Dengue News: In a grave turn of events, Guatemala declared a national health emergency on Thursday due to a severe dengue outbreak that has already claimed 22 lives and infected thousands of people a\u2026 [+4387 chars]",
-      "retrievedAt": "2023-09-04 07:18:49.879651",
-      "internal_id": "d8918eaadd70488ebb0526d36effafbb17b9d21187e7ae4b888a2b6fa4c8f45f",
-      "publishedAtLabel": "Sep 2"
-    },
-    {
-      "id": 1578,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "84 New Dengue Cases In State",
-      "description": "HT Bureau GUWAHATI, Sept 1: Dengue cases continue to surge in Assam with 84 new cases reported on Friday. Among the worst-hit areas, Karbi Anglong East reported 57 confirmed cases. In total, the state has reported 4,475 positive dengue cases this year, with\u2026",
-      "url": "https://thehillstimes.in/assam/84-new-dengue-cases-in-state",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-02-at-12.08.02-AM.jpeg",
-      "publishedAt": "2023-09-01 23:30:21",
-      "content": "HT Bureau GUWAHATI, Sept 1: Dengue cases continue to surge in Assam with 84 new cases reported on Friday. Among the worst-hit areas, Karbi Anglong East reported 57 confirmed cases. In total, the sta\u2026 [+657 chars]",
-      "retrievedAt": "2023-09-04 07:18:49.861974",
-      "internal_id": "48e04ef5e8ba8982d8a00aa0e3f017fdaae80261554657ddfb1508ddd9df4e81",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1587,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Melissa Rudy",
-      "title": "Virginia declares statewide outbreak of meningococcal disease: 'Rare but serious'",
-      "description": "The state of Virginia is warning of a statewide outbreak of meningococcal disease, a \"rare but serious\" bacterial illness that can lead to meningitis. Here's what you need to know.",
-      "url": "https://www.foxnews.com/health/virginia-declares-statewide-outbreak-meningococcal-disease-rare-but-serious",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/meningococcal-split.jpg",
-      "publishedAt": "2023-09-01 21:53:04",
-      "content": "The state of Virginia is warning of a statewide outbreak of meningococcal disease, a \"rare but serious\" bacterial illness that can lead to meningitis. Since June 2022, there have been 27 cases of \u2026 [+3597 chars]",
-      "retrievedAt": "2023-09-04 07:18:51.198941",
-      "internal_id": "e17eb01e3061d96986db33b795899dce314575fe0fb332a64fd16e802c2977d5",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1576,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Orf.at",
-      "author": "ORF.at",
-      "title": "Paris bespr\u00fcht ganze Wohnviertel",
-      "description": "Die Klimaerhitzung erh\u00f6ht auch in gem\u00e4\u00dfigten Gefilden das Risiko f\u00fcr durch Gelsen, Moskitos und M\u00fccken \u00fcbertragene Krankheiten. Die Asiatische Tigerm\u00fccke (Aedes albopictus) etwa, ein bekannter \u00dcbertr\u00e4ger unter anderem von Dengue-, Zika- und Chikungunya-Viren,\u2026",
-      "url": "https://orf.at/stories/3329603/",
-      "urlToImage": "https://ibs.orf.at/news?image=https%3A%2F%2Fassets.orf.at%2Fmims%2F2023%2F35%2F29%2Fcrops%2Fw%3D1200%2Ch%3D630%2Cq%3D75%2F1923455_master_722229_paris_tigermuecke_insektizide_im.jpg%3Fs%3D464ced573c2bbf79ae80f1185a21d0b367b37b7a",
-      "publishedAt": "2023-09-01 21:37:10",
-      "content": "In den fr\u00fchen Morgenstunden am Donnerstag wurden im S\u00fcdosten von Paris Stra\u00dfen gesperrt und die Menschen aufgefordert, in ihren H\u00e4usern zu bleiben und die Fenster geschlossen zu halten, wie Le Monde \u2026 [+3679 chars]",
-      "retrievedAt": "2023-09-04 07:18:49.856132",
-      "internal_id": "4de31aeff509e791e8c7c335830c5175aa3c5c92486273af2b795d1b67d7ac7d",
-      "publishedAtLabel": "Sep 1"
-    },
-    {
-      "id": 1586,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Www.svt.se",
-      "author": "SVT Nyheter",
-      "title": "Experten: Tigermyggan g\u00e5r inte att stoppa",
-      "description": "Tigermyggan, som kan sprida virus som dengue och zika, hittades i veckan f\u00f6r f\u00f6rsta g\u00e5ngen i Sverige. \u2013 P\u00e5 sikt kommer den att etablera sig h\u00e4r, s\u00e4ger Anders Lindstr\u00f6m p\u00e5 Sveriges veterin\u00e4rmedicinska anstalt, SVA.",
-      "url": "https://www.svt.se/nyheter/inrikes/experten-tigermyggan-gar-inte-att-stoppa",
-      "urlToImage": "https://www.svtstatic.se/image/custom/1200/40952026/1693596143?format=auto&ratio=1.91",
-      "publishedAt": "2023-09-01 20:11:33",
-      "content": "Tigermyggan kom till Sverige som \u00e4gg i v\u00e4xter k\u00f6pta i Spanien. N\u00e4r v\u00e4xterna sedan vattnades kl\u00e4cktes \u00e4ggen. Familjen som k\u00f6pt v\u00e4xterna kontaktade d\u00e5 SVA, som h\u00e4mtade in mygglarverna f\u00f6r unders\u00f6kning.\u2026 [+1297 chars]",
-      "retrievedAt": "2023-09-04 07:18:49.890979",
-      "internal_id": "e8c114aeb4ed83e1d602bbd74be0f4b186ed5c2191eed32988954c400c2b11c8",
-      "publishedAtLabel": "Sep 1"
     }
   ]
 }
