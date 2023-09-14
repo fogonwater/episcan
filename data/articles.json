@@ -1,8 +1,171 @@
 {
-  "last_updated": "2023-09-13 19:05",
+  "last_updated": "2023-09-14 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 21,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 1806,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Transforming mosquitoes from foes to friends in the battle against dengue fever; Everything explained",
+      "description": "In Honduras, where 10,000 people are known to be sickened by dengue each year, Doctors Without Borders is partnering with the mosquito program over the next six months to release close to 9 million mosquitoes carrying the Wolbachia bacteria.",
+      "url": "https://economictimes.indiatimes.com/news/science/transforming-mosquitoes-from-foes-to-friends-in-the-battle-against-dengue-fever-everything-explained/articleshow/103626637.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103626662,width-1070,height-580,imgsize-30182,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-13 06:20:40",
+      "content": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to contro\u2026 [+8813 chars]",
+      "retrievedAt": "2023-09-14 07:05:47.389830",
+      "internal_id": "ac9be938b5e397ceb4b39ba603546774d44fe4d9daff9607cf0cea6f9438de2f",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 1802,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MAR\u00cdA VERZA Associated Press, MADDIE BURAKOFF Associated Press",
+      "title": "Mosquitoes, long the enemy, are now bred to help prevent the spread of dengue fever",
+      "description": "Preventing dengue fever has long meant teaching people to fear mosquitoes and avoid their bites",
+      "url": "https://abcnews.go.com/Technology/wireStory/mosquitoes-long-enemy-now-bred-prevent-spread-dengue-103142195",
+      "urlToImage": "https://i.abcnewsfe.com/a/73fd24be-a1b6-475c-bfe3-959c0c2c5b24/wirestory_9ecf4ebc8a67937e9db7feb0901c861e_12x5.jpg?w=992",
+      "publishedAt": "2023-09-13 04:22:13",
+      "content": "TEGUCIGALPA, Honduras -- For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially mor\u2026 [+9054 chars]",
+      "retrievedAt": "2023-09-14 07:05:47.378146",
+      "internal_id": "01e0a5dc051b2b523b1450f82572c84c4804ddef187d2d747de0f073c358a087",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 1801,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MAR\u00cdA VERZA Associated Press, MADDIE BURAKOFF Associated Press",
+      "title": "Mosquitoes, long the enemy, are now bred to help prevent the spread of dengue fever",
+      "description": "Preventing dengue fever has long meant teaching people to fear mosquitoes and avoid their bites",
+      "url": "https://abcnews.go.com/Technology/wireStory/mosquitoes-long-enemy-now-bred-prevent-spread-dengue-103142200",
+      "urlToImage": "https://i.abcnewsfe.com/a/d64db736-3f6d-4550-89b0-7109d958ae27/wirestory_81fb0fb5071b9a025a431594594fbe6a_16x9.jpg?w=992",
+      "publishedAt": "2023-09-13 04:17:00",
+      "content": "TEGUCIGALPA, Honduras -- For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially mor\u2026 [+6276 chars]",
+      "retrievedAt": "2023-09-14 07:05:47.375458",
+      "internal_id": "d0b319b7d67ac41c06f95d9ad8eb62ef333c5585ccf2588c9771e7ed8ea9b28e",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 1805,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MAR\u00cdA VERZA Associated Press, MADDIE BURAKOFF Associated Press",
+      "title": "Mosquitoes, long the enemy, are now bred to help prevent the spread of dengue fever",
+      "description": "Preventing dengue fever has long meant teaching people to fear mosquitoes and avoid their bites",
+      "url": "https://abcnews.go.com/Health/wireStory/mosquitoes-long-enemy-now-bred-prevent-spread-dengue-103142196",
+      "urlToImage": "https://i.abcnewsfe.com/a/d64db736-3f6d-4550-89b0-7109d958ae27/wirestory_81fb0fb5071b9a025a431594594fbe6a_16x9.jpg?w=992",
+      "publishedAt": "2023-09-13 04:16:55",
+      "content": "TEGUCIGALPA, Honduras -- For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially mor\u2026 [+6276 chars]",
+      "retrievedAt": "2023-09-14 07:05:47.385142",
+      "internal_id": "3c43d5bae40ffd305f152a5653e0240affc101b89ccb7face0ea59f87b3cdc80",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 1804,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MAR\u00cdA VERZA Associated Press, MADDIE BURAKOFF Associated Press",
+      "title": "Mosquitoes, long the enemy, are now bred to help prevent the spread of dengue fever",
+      "description": "Preventing dengue fever has long meant teaching people to fear mosquitoes and avoid their bites",
+      "url": "https://abcnews.go.com/Health/wireStory/mosquitoes-long-enemy-now-bred-prevent-spread-dengue-103142193",
+      "urlToImage": "https://i.abcnewsfe.com/a/73fd24be-a1b6-475c-bfe3-959c0c2c5b24/wirestory_9ecf4ebc8a67937e9db7feb0901c861e_12x5.jpg?w=992",
+      "publishedAt": "2023-09-13 04:16:53",
+      "content": "TEGUCIGALPA, Honduras -- For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially mor\u2026 [+9054 chars]",
+      "retrievedAt": "2023-09-14 07:05:47.383904",
+      "internal_id": "08920066190c93d9c751250776ddcf2fe7c2775f4d4711a205040c7b8f15c3e4",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 1808,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Food Safety News",
+      "author": "Joe Whitworth",
+      "title": "Majority of foodborne infections rose in 2022 in the Netherlands",
+      "description": "Most foodborne infections increased in the Netherlands in 2022 compared to the year before, according to the latest figures. The most notable outbreak was when 72 people contracted typhoid fever on a ship that housed asylum seekers. It was likely that they we\u2026",
+      "url": "https://www.foodsafetynews.com/?p=231929",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/042/068/557/0Mn5r3E1XY0NoZaP6WPoD9kg7/0154aee721bd0d75b931033b1403b8bbdf2f7330.png",
+      "publishedAt": "2023-09-13 04:01:00",
+      "content": "Most foodborne infections increased in the Netherlands in 2022 compared to the year before, according to the latest figures. The most notable outbreak was when 72 people contracted typhoid fever on \u2026 [+5311 chars]",
+      "retrievedAt": "2023-09-14 07:05:49.000350",
+      "internal_id": "3bfb3dce578d8e4182f0985e2fad73f169380dcb10bc027905602f8a76cd7988",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 1807,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Congenital Mpox Syndrome (Clade I) in Stillborn Fetus after Placental Infection and Intrauterine Transmission, Democratic Republic of the Congo, 2008",
+      "description": "Congenital Mpox in Stillborn Fetus, DRC, 2008",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/11/23-0606_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-09-13 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Monkeypox virus, which cau\u2026 [+14199 chars]",
+      "retrievedAt": "2023-09-14 07:05:48.781445",
+      "internal_id": "b9b987d7287e762aa8714f96ba7881066bab00f4ad53961d3fd7da16e16a0e07",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 1800,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u090f\u0915 \u0905\u092a\u0940\u0932 \u092c\u0928\u0940 \u092e\u0941\u0939\u093f\u092e, \u092a\u0942\u0930\u0947 \u0926\u0947\u0936 \u0928\u0947 \u20b910.5 \u0915\u0930\u094b\u0921\u093c \u0915\u093e \u0907\u0902\u091c\u0947\u0915\u094d\u0936\u0928 \u0926\u093f\u0932\u093e\u0915\u0930 \u092c\u091a\u094d\u091a\u0947 \u0915\u094b \u0926\u0940 \u0928\u0908 \u091c\u093f\u0902\u0926\u0917\u0940",
+      "description": "\u090f\u0915 \u0926\u0941\u0930\u094d\u0932\u092d \u091c\u0947\u0928\u0947\u091f\u093f\u0915 \u092c\u0940\u092e\u093e\u0930\u0940 \u0938\u0947 \u092a\u0940\u0921\u093c\u093f\u0924 \u0921\u0947\u0922\u093c \u0938\u093e\u0932 \u0915\u0947 \u092c\u091a\u094d\u091a\u0947 \u0915\u0928\u0935 \u0915\u0940 \u092e\u0926\u0926 \u0915\u0947 \u0932\u093f\u090f \u0926\u0947\u0936\u092d\u0930 \u0938\u0947 \u0939\u091c\u093e\u0930\u094b\u0902 \u0939\u093e\u0925 \u0906\u0917\u0947 \u0906\u090f\u0964 \u0938\u0947\u0932\u093f\u092c\u094d\u0930\u093f\u091f\u0940\u091c \u0915\u0940 \u0905\u092a\u0940\u0932 \u092a\u0930 \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 \u092c\u091a\u094d\u091a\u0947 \u0915\u0940 \u091c\u093e\u0928 \u092c\u091a\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0938\u093e\u0922\u093c\u0947 10 \u0915\u0930\u094b\u0921\u093c \u0930\u0941\u092a\u092f\u0947 \u091c\u0941\u091f\u093e \u0932\u093f\u090f, \u091c\u093f\u0938\u0938\u0947 \u0926\u093f\u0932\u094d\u0932\u0940 \u0915\u0947 \u0915\u0935\u0928 \u0915\u0940 \u091c\u093e\u0928 \u092c\u091a \u0938\u0915\u0940\u0964",
+      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/people-helped-through-crowd-funding-child-given-injection-worth-rs-10-5-crore/articleshow/103619990.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-132926,msid-103620061/navbharat-times.jpg",
+      "publishedAt": "2023-09-13 00:31:34",
+      "content": ": (SMA) - - Zolgensma 17.5 , 8 ' , ' 28 , 2022 , , , , , , , , , , , , 5 Rabies, , 6 6 , , 6 3 , , - , : , ... , - (SMA) 9 - - , , , 17.5 24 , Navbharat Times News App: - , , , , -... NBT \u2026 [+306 chars]",
+      "retrievedAt": "2023-09-14 07:05:46.686783",
+      "internal_id": "3752885b543de1412175b7afab9fe6f4e678aa43d92c9adc93f39c4c3ad0b622",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 1803,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Hindu religion a menace not only to India, but to the entire world: DMK MP A Raja",
+      "description": "DMK MP A Raja has made controversial remarks about Hinduism, stating that it is a menace not only to India but to the entire world. This comes after sports minister Udhayanidhi Stalin equated Sanatan Dharma to diseases such as dengue and malaria. BJP leader K\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/hindu-religion-a-menace-not-only-to-india-but-to-the-entire-world-dmk-mp-a-raja/articleshow/103617071.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103617077,width-1070,height-580,imgsize-916240,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-12 21:01:15",
+      "content": "A low down on Amber Heards dating history",
+      "retrievedAt": "2023-09-14 07:05:47.381916",
+      "internal_id": "11d18a728ac351682cf38727d13331dd17781323615b38a1c544a4777161871e",
+      "publishedAtLabel": "Sep 12"
+    },
     {
       "id": 1780,
       "query": [
@@ -3456,172 +3619,6 @@
       "retrievedAt": "2023-09-05 07:05:41.606500",
       "internal_id": "90076b3821de8a59c01e3d6cf9d42553f51f95fbf68737cb470eb0ef64e98104",
       "publishedAtLabel": "Sep 4"
-    },
-    {
-      "id": 1608,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "\u0930\u093e\u091c\u0940\u0935 \u0922\u094c\u0902\u0921\u093f\u092f\u093e\u0932",
-      "title": "\u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0938\u094d\u091f\u093e\u0932\u093f\u0928 \u0915\u0947 \u0935\u093f\u0935\u093e\u0926\u093f\u0924 \u092c\u092f\u093e\u0928 \u092a\u0930 \u0917\u0943\u0939 \u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0947 \u0915\u093f\u092f\u093e \u091c\u094b\u0930\u0926\u093e\u0930 \u092a\u0932\u091f\u0935\u093e\u0930, \u0926\u0947\u0916\u0947\u0902 \u0938\u0941\u092c\u0939 \u0915\u0940 \u0938\u093e\u0930\u0940 \u092c\u0921\u093c\u0940 \u0916\u092c\u0930\u0947\u0902",
-      "description": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u0915\u0947 \u0938\u0940\u090f\u092e \u0938\u094d\u091f\u093e\u0932\u093f\u0928 \u0915\u0947 \u092c\u0947\u091f\u0947 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0928\u0947 \u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u0915\u094b \u0921\u0947\u0902\u0917\u0942-\u092e\u0932\u0947\u0930\u093f\u092f\u093e-\u0915\u094b\u0930\u094b\u0928\u093e \u091c\u0948\u0938\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u092c\u0924\u093e \u0926\u093f\u092f\u093e. \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u0907\u0938 \u092c\u092f\u093e\u0928 \u092a\u0930 \u0938\u093e\u0927\u0941-\u0938\u0902\u0924\u094b\u0902 \u0928\u0947 \u0928\u093e\u0930\u093e\u091c\u0917\u0940 \u091c\u0924\u093e\u0908 \u0914\u0930 \u0938\u093f\u092f\u093e\u0938\u0940 \u0939\u092e\u0932\u093e \u092d\u0940 \u0924\u0947\u091c \u0939\u094b \u0917\u092f\u093e. \u0939\u093f\u0902\u0926\u0942 \u0938\u0947\u0928\u093e \u0928\u0947 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u0936\u093f\u0915\u093e\u092f\u0924 \u092d\u0940 \u0926\u0930\u094d\u091c \u0915\u0930\u093e\u0908 \u0939\u0948. \u0926\u0947\u0916\u0947\u0902 \u0938\u0941\u092c\u0939 \u0915\u0940\u2026",
-      "url": "https://www.aajtak.in/programmes/subah-subah/video/political-controversy-after-sanatan-statement-of-udaynidhi-stalin-morning-updates-1771480-2023-09-04",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202309/political_controversy_-sixteen_nine.png",
-      "publishedAt": "2023-09-04 01:39:22",
-      "content": "-- . - . . . Udhayanidhi, son of Tamil Nadu CM Stalin, described Sanatan Dharma as a disease like dengue-malaria-corona. Sages and saints expressed their displeasure over this statement of Udhayan\u2026 [+46 chars]",
-      "retrievedAt": "2023-09-05 07:05:40.582628",
-      "internal_id": "45d77978b145caaf8552a72124b467f07075b8b883dda670ac26031ef29ad304",
-      "publishedAtLabel": "Sep 4"
-    },
-    {
-      "id": 1607,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Aristeguinoticias.com",
-      "author": "Redacci\u00f3n AN / LP",
-      "title": "Cofepris emite alerta de riesgo sobre vacuna contra el dengue",
-      "description": "Es riesgoso adquirir medicamentos a trav\u00e9s de redes sociales, plataformas de venta en l\u00ednea u otros sitios web no autorizados.",
-      "url": "https://aristeguinoticias.com/0309/mexico/cofepris-emite-alerta-de-riesgo-sobre-vacuna-contra-el-dengue/",
-      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2022/12/VACUNA.png",
-      "publishedAt": "2023-09-03 22:44:04",
-      "content": "La Comisi\u00f3n Federal para la Protecci\u00f3n contra Riesgos Sanitarios (Cofepris) ha emitido un importante Aviso de Riesgo dirigido a m\u00e9dicos generales, personal de enfermer\u00eda y pediatras, alertando sobre \u2026 [+1972 chars]",
-      "retrievedAt": "2023-09-05 07:05:40.576499",
-      "internal_id": "65addb1b2c098bacccd30d0ca145fc14f92264f506b84eed39057b94edf131df",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1602,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u200d\u091f\u094d\u0930 \u092e\u0947\u0902 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u091a\u093f\u0902\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0935\u093e\u0932\u0940 \u0916\u092c\u0930, \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938 \u0915\u0947 3 \u0928\u090f \u092e\u0930\u0940\u091c, \u091c\u093e\u0928\u0947\u0902 \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 \u092c\u091a\u093e\u0935",
-      "description": "Zika Virus Case In Kolhapur: \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u200d\u091f\u094d\u0930 \u0915\u0947 \u0915\u094b\u0932\u094d\u0939\u093e\u092a\u0941\u0930 \u091c\u093f\u0932\u0947 \u092e\u0947\u0902 \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938 \u0928\u0947 \u0916\u094c\u092b\u0928\u093e\u0915 \u0926\u0938\u094d\u200d\u0924\u0915 \u0926\u0940 \u0939\u0948\u0964 \u091c\u093f\u0932\u0947 \u0915\u0947 \u0907\u091a\u0932\u0915\u0930\u0902\u091c\u0940 \u092e\u0947\u0902 \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938 \u0915\u0947 \u0924\u0940\u0928 \u0938\u0902\u0926\u093f\u0917\u094d\u0927 \u092e\u093e\u092e\u0932\u0947 \u092a\u093e\u090f \u0917\u090f \u0939\u0948\u0902\u0964 \u0907\u0928 \u0938\u092d\u0940 \u0915\u093e \u0907\u0932\u093e\u091c \u0915\u093f\u092f\u093e \u091c\u093e \u091a\u0941\u0915\u093e \u0939\u0948 \u0914\u0930 \u0924\u0940\u0928 \u092e\u0930\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u0938\u0947 \u090f\u0915 \u092a\u0947\u0936\u0947 \u0938\u0947 \u0921\u0949\u0915\u094d\u091f\u0930 \u0939\u0948\u0964 \u0926\u094b \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u093e \u0907\u0932\u093e\u091c \u0907\u091a\u0932\u0915\u2026",
-      "url": "https://navbharattimes.indiatimes.com/metro/mumbai/other-news/three-zika-virus-infected-patient-found-in-kolhapur-maharashtra-how-prevent-spread-of-deceaese/articleshow/103332496.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-102304,msid-103332491/navbharat-times.jpg",
-      "publishedAt": "2023-09-03 18:28:04",
-      "content": ": 2 , 38 , ? ? ?80 , , , , , ? Navbharat Times News App: - , , , , -... NBT , , 5 , , ... , -3 , ... 'BJP 2 ', MP !<li\u2026 [+107 chars]",
-      "retrievedAt": "2023-09-04 19:05:30.458909",
-      "internal_id": "942db08b702f3635d54c79f858ea3f7e36078356c49428d1c2e0cdc2496e9d04",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1603,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "\u092b\u0921\u0923\u0935\u0940\u0938\u093e\u0902\u091a\u094d\u092f\u093e \u0938\u0902\u0915\u091f\u092e\u094b\u091a\u0915\u093e\u0902\u0928\u093e \u0905\u092a\u092f\u0936; \u0909\u092a\u094b\u0937\u0923 \u0938\u094b\u0921\u0923\u094d\u092f\u093e\u0938\u093e\u0920\u0940 \u0917\u0947\u0932\u0947\u0932\u094d\u092f\u093e \u092e\u0939\u093e\u091c\u0928\u093e\u0902\u0928\u093e \u091c\u0930\u093e\u0902\u0917\u0947 \u092a\u093e\u091f\u0932\u093e\u0902\u091a\u0947 \u0968 \u092a\u0930\u094d\u092f\u093e\u092f",
-      "description": "Jalna Maratha Agitation : \u092e\u0928\u094b\u091c \u091c\u0930\u093e\u0902\u0917\u0947 \u092a\u093e\u091f\u0940\u0932 \u0939\u0947 \u0924\u094d\u092f\u093e\u0902\u091a\u094d\u092f\u093e \u092e\u093e\u0917\u0923\u0940\u0935\u0930 \u0920\u093e\u092e \u0930\u093e\u0939\u093f\u0932\u0947 \u0905\u0938\u0942\u0928 \u0924\u094b\u0921\u0917\u093e \u0915\u093e\u0922\u0923\u094d\u092f\u093e\u0938\u093e\u0920\u0940 \u0906\u0932\u0947\u0932\u094d\u092f\u093e \u0917\u093f\u0930\u0940\u0936 \u092e\u0939\u093e\u091c\u0928 \u0906\u0923\u093f \u0928\u093f\u0924\u0947\u0936 \u0930\u093e\u0923\u0947 \u092f\u093e\u0902\u0928\u093e \u0930\u093f\u0915\u093e\u092e\u094d\u092f\u093e \u0939\u093e\u0924\u0940\u091a \u092e\u093e\u0918\u093e\u0930\u0940 \u092a\u0930\u0924\u093e\u0935\u0902 \u0932\u093e\u0917\u0932\u0902.",
-      "url": "https://maharashtratimes.com/maharashtra/jalna/maratha-reservation-manoj-jarange-refusal-to-call-off-his-fast-despite-the-request-of-bjp-leaders-girish-mahajan-and-nitesh-rane/articleshow/103331458.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-39270,msid-103331501/maharashtra-times.jpg",
-      "publishedAt": "2023-09-03 16:29:31",
-      "content": ": . . . . , . , . , , ' . . .' , , . , , . . , . . . . Marathi News App: ? . ; , , , ? , , : PMP , ? , , ?Zika Virus : , , ? ... <li\u2026 [+128 chars]",
-      "retrievedAt": "2023-09-04 19:05:30.461809",
-      "internal_id": "e259fca82ceb2fc24692b124d3da8ad972535644116d5e018c982e9077651a8b",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1596,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Udayanidhi Stalin should be arrested: Sushil Modi on DMK leader's Sanatan Dharma remarks",
-      "description": "\"Udayanidhi Stalin should be arrested and sent to jail for having compared Sanatana Dharma to ailments like dengue and malaria,\" the former Bihar Deputy CM told reporters.",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/udayanidhi-stalin-should-be-arrested-sushil-modi-on-dmk-leaders-sanatan-dharma-remarks/articleshow/103331447.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103331455,width-1070,height-580,imgsize-93184,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-03 16:24:39",
-      "content": "Senior BJP leader Sushil Kumar Modi on Sunday dubbed as \"treason\" the remarks on 'Sanatan Dharma' made by Tamil Nadu minister and DMK leader Udayanidhi Stalin and demanded his arrest. The Rajya Sabha\u2026 [+2364 chars]",
-      "retrievedAt": "2023-09-04 19:05:28.971109",
-      "internal_id": "25530c07210a63669f2c84884692b11c7c4148d7953037e8f89676c7a07c48aa",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1599,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Bureau",
-      "title": "Tamil Nadu minister Stalin Jr\u2019s comments on Sanatana Dharma triggers rebuke across South",
-      "description": "Udhayanidhi Stalin said at an event in Chennai on Saturday that the Sanatana Dharma was like dengue and malaria, and that they should think of not fighting it but eradicating it. Congress MP Karti Chidambaram\u2019s endorsement of the statement fuelled demands for\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/tamil-nadu-minister-stalin-jrs-comments-on-sanatana-dharma-triggers-rebuke-across-south/articleshow/103331303.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103331299,width-1070,height-580,imgsize-7762,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-03 16:03:56",
-      "content": "Tamil Nadu minister Udhayanidhi Stalins remarks on the Hindu religion sparked sharp reactions across southern India with the BJP units in Karnataka and Tamil Nadu coming down heavily on the young DMK\u2026 [+3218 chars]",
-      "retrievedAt": "2023-09-04 19:05:28.985172",
-      "internal_id": "8517dcd6c64fb4f5aa9a6299dfa4cef9e6a707de144a1c07e86a3ff8d45be876",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1601,
-      "query": [
-        "malaria",
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "\u0906\u0936\u0941\u0924\u094b\u0937 \u091a\u0924\u0941\u0930\u094d\u0935\u0947\u0926\u0940",
-      "title": "\u0936\u0902\u0916\u0928\u093e\u0926: \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u092c\u092f\u093e\u0928 \u092a\u0930 \u0938\u093f\u092f\u093e\u0938\u0940 \u0909\u092c\u093e\u0932, \u092d\u095c\u0915\u0947 \u0938\u093e\u0927\u0941-\u0938\u0902\u0924",
-      "description": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u0915\u0947 \u0938\u0940\u090f\u092e \u090f\u092e\u0915\u0947 \u0938\u094d\u091f\u093e\u0932\u093f\u0928 \u0915\u0947 \u092c\u0947\u091f\u0947 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u092c\u092f\u093e\u0928 \u0938\u0947 \u0938\u093f\u092f\u093e\u0938\u0940 \u0938\u0930\u0917\u0930\u094d\u092e\u0940 \u092c\u0922\u093c \u0917\u0908 \u0939\u0948. \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u0915\u094b \u0921\u0947\u0902\u0917\u0942-\u092e\u0932\u0947\u0930\u093f\u092f\u093e \u091c\u0948\u0938\u0940 \u092c\u0940\u092e\u093e\u0930\u0940 \u092c\u0924\u093e \u0926\u093f\u092f\u093e. \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u0907\u0938 \u092c\u092f\u093e\u0928 \u092a\u0930 \u0938\u093e\u0927\u0941-\u0938\u0902\u0924\u094b\u0902 \u0928\u0947 \u0928\u093e\u0930\u093e\u091c\u0917\u0940 \u091c\u0924\u093e\u0908 \u0914\u0930 \u0938\u093f\u092f\u093e\u0938\u0940 \u0939\u092e\u0932\u093e \u092d\u0940 \u0924\u0947\u091c \u0939\u094b \u0917\u092f\u093e. \u0926\u0947\u0916\u093f\u090f \u0936\u0902\u0916\u0928\u093e\u0926.",
-      "url": "https://www.aajtak.in/programmes/shankh-naad/video/bjp-and-hindu-groups-slam-udhayanidhi-stalin-over-sanatana-dharma-statement-2024-polls-1771346-2023-09-03",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202309/udhayanidhi_statement_on_sanatana-sixteen_nine.png",
-      "publishedAt": "2023-09-03 14:39:41",
-      "content": ". - . - . . Tamil Nadu CM MK Stalin's son Udhayanidhi said that Sanatan dharma is like malaria and dengue. Saints expressed their displeasure over this statement and the politics also stirred up. \u2026 [+16 chars]",
-      "retrievedAt": "2023-09-04 19:05:30.058028",
-      "internal_id": "8c7dfeda8f836b09270754ef1a485a480df2379144e585da45ebe3df93130afa",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1604,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "\u0924\u0930\u0941\u0923 \u091c\u0940\u0935\u0928 \u0938\u0902\u092a\u0935\u0923\u094d\u092f\u093e\u091a\u094d\u092f\u093e \u0924\u092f\u093e\u0930\u0940\u0924; \u092a\u094b\u0932\u093f\u0938\u093e\u0902\u0928\u093e \u092e\u0947\u0932 \u0906\u0932\u093e, \u0924\u092a\u093e\u0938 \u0938\u0941\u0930\u0942, \u0928\u0902\u0924\u0930 \u0935\u0947\u0917\u0933\u091a\u0902 \u0938\u0924\u094d\u092f \u0938\u092e\u094b\u0930, \u0915\u093e\u092f \u0918\u0921\u0932\u0902?",
-      "description": "Mumbai News: \u0924\u0930\u0941\u0923 \u0935\u093f\u0937\u093e\u0930\u0940 \u0907\u0902\u091c\u0947\u0915\u094d\u0936\u0928 \u0918\u0947\u090a\u0928 \u0906\u0924\u094d\u092e\u0939\u0924\u094d\u092f\u093e \u0915\u0930\u0923\u093e\u0930 \u0905\u0938\u0932\u094d\u092f\u093e\u091a\u093e \u092e\u0947\u0932 \u092a\u094b\u0932\u093f\u0938\u093e\u0902\u0928\u093e \u0906\u0932\u093e. \u0924\u094d\u092f\u093e\u0928\u0902\u0924\u0930 \u0924\u094d\u092f\u093e\u0902\u0928\u0940 \u0924\u092a\u093e\u0938 \u0938\u0941\u0930\u0942 \u0915\u0947\u0932\u093e. \u092e\u093e\u0924\u094d\u0930 \u0924\u092a\u093e\u0938\u093e\u0924 \u0935\u0947\u0917\u0933\u091a\u0902 \u0938\u0924\u094d\u092f \u0938\u092e\u094b\u0930 \u0906\u0932\u0947 \u0906\u0939\u0947. \u0935\u093e\u091a\u093e \u0928\u0947\u092e\u0915\u0902 \u092a\u094d\u0930\u0915\u0930\u0923 \u0915\u093e\u092f?",
-      "url": "https://maharashtratimes.com/maharashtra/mumbai-news/youth-thinking-of-ended-life-due-to-depression-was-saved-by-police-in-mumbai/articleshow/103329585.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-1904274,msid-103330054/maharashtra-times.jpg",
-      "publishedAt": "2023-09-03 14:12:59",
-      "content": " : SP ; LiveMarathi News LIVE Updates: ... : PMP , ?Zika Virus : , , ?Loans Expensive : , ; , ? , , ... ? E\u2026 [+66 chars]",
-      "retrievedAt": "2023-09-04 19:05:30.465021",
-      "internal_id": "2ee5c395ddb77decf2d400a816eb05a0541d30e1c33831b7aa53f84309692ebe",
-      "publishedAtLabel": "Sep 3"
-    },
-    {
-      "id": 1605,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "\u092a\u0941\u0923\u094d\u092f\u093e\u0924\u0940\u0932 \u092a\u094d\u0930\u0935\u093e\u0936\u093e\u0902\u0928\u093e \u092e\u094b\u0920\u093e \u0926\u093f\u0932\u093e\u0938\u093e: PMP \u092c\u0938\u092c\u093e\u092c\u0924 \u092e\u0939\u0924\u094d\u0924\u094d\u0935\u093e\u091a\u093e \u0928\u093f\u0930\u094d\u0923\u092f, \u0915\u093e\u092f \u092b\u093e\u092f\u0926\u093e \u0939\u094b\u0923\u093e\u0930?",
-      "description": "Pune Bus News : \u2018\u092a\u0940\u090f\u092e\u0906\u0930\u0921\u0940\u090f\u2019\u091a\u094d\u092f\u093e \u0939\u0926\u094d\u0926\u0940\u0924 \u0928\u093e\u0917\u0930\u093f\u0915\u093e\u0902\u0928\u093e \u0924\u093f\u0915\u0940\u091f \u0915\u093e\u0922\u0942\u0928\u091a \u092a\u094d\u0930\u0935\u093e\u0938 \u0915\u0930\u093e\u0935\u093e \u0932\u093e\u0917\u0924 \u0939\u094b\u0924\u093e. \u092e\u093e\u0924\u094d\u0930 \u0906\u0924\u093e \u0926\u093f\u0935\u092d\u0930\u093e\u0924 \u0915\u0941\u0920\u0947\u0939\u0940 \u0967\u0968\u0966 \u0930\u0941\u092a\u092f\u093e\u0902\u0924 \u092b\u093f\u0930\u0924\u093e \u092f\u0947\u0923\u093e\u0930 \u0905\u0938\u0932\u094d\u092f\u093e\u0928\u0947 \u092a\u094d\u0930\u0935\u093e\u0936\u093e\u0902\u0928\u093e \u092e\u094b\u0920\u093e \u092b\u093e\u092f\u0926\u093e \u0939\u094b\u0923\u093e\u0930 \u0906\u0939\u0947.",
-      "url": "https://maharashtratimes.com/maharashtra/pune-news/big-relief-for-pune-commuters-important-decision-on-pmp-buses/articleshow/103329774.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-47308,msid-103329809/maharashtra-times.jpg",
-      "publishedAt": "2023-09-03 13:46:18",
-      "content": ".., , , ; , Maharashtra Kesari : ? '' Zika Virus : , , ? , , ... , ? ; , ... ; , ? , ... ' ' ' ' ; \u2026 [+33 chars]",
-      "retrievedAt": "2023-09-04 19:05:30.466987",
-      "internal_id": "b399dc84d94d8a1d6f76e664c2e605ed7ac2fe129c930569ac70403ef2dd3480",
-      "publishedAtLabel": "Sep 3"
     }
   ]
 }
