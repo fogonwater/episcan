@@ -1,8 +1,206 @@
 {
-  "last_updated": "2023-09-14 19:05",
+  "last_updated": "2023-09-15 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 13,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 1825,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u0939\u0932\u094d\u0915\u0947 \u092e\u0947\u0902 \u0928 \u0932\u0947\u0902 \u0921\u0947\u0902\u0917\u0942, \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948 \u091c\u093e\u0928\u0932\u0947\u0935\u093e, \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092a\u093f\u091b\u0932\u0947 \u0926\u094b \u0939\u092b\u094d\u0924\u094b\u0902 \u0915\u0947 \u0928\u0902\u092c\u0930\u094d\u0938 \u0915\u094d\u092f\u093e \u092c\u0924\u093e \u0930\u0939\u0947, \u0926\u0947\u0916 \u0932\u0940\u091c\u093f\u090f",
+      "description": "Delhi Dengue Cases: \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0915\u094b\u0930\u094b\u0928\u093e \u0915\u0940 \u0930\u093e\u0939\u0924 \u0915\u0947 \u092c\u093e\u0926 \u0905\u092c \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0924\u0947\u091c\u0940 \u0926\u0947\u0916\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948\u0964 \u092a\u093f\u091b\u0932\u0947 \u090f\u0915 \u0926\u094b \u0939\u092b\u094d\u0924\u094b\u0902 \u092e\u0947\u0902 \u0907\u0938\u0915\u0947 \u0915\u0947\u0938 \u0915\u0947 \u0928\u0902\u092c\u0930 \u092c\u0922\u093c\u0947 \u0939\u0948\u0902\u0964 \u0921\u0949\u0915\u094d\u091f\u0930\u094b\u0902 \u0928\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u0905\u0915\u094d\u091f\u0942\u092c\u0930 \u0924\u0915 \u0938\u0924\u0930\u094d\u0915 \u0930\u0939\u0928\u0947 \u0915\u0940 \u0938\u0932\u093e\u0939 \u0926\u0940 \u0939\u0948\u0964",
+      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-update-it-can-be-fatal-doctors-said-numbers-may-increase/articleshow/103652949.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-96924,msid-103653085/navbharat-times.jpg",
+      "publishedAt": "2023-09-14 05:35:18",
+      "content": ": , 23 , 40 121 7 , 105 . , , ' 40% 40% ' . 15 6 , 300 . 15 50 . - , ,. , 10 . 50 , - . , 10-15 - , 101-102 - , - (DENV) - , - - () - - - :- , 48 - - - , , , , - , -",
+      "retrievedAt": "2023-09-15 07:05:35.187390",
+      "internal_id": "d54fe534ef03423e27452dfb182078f766a818d738b6a529f9292c885f3f2fad",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1830,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Robohub.org",
+      "author": "Frontiers Science News",
+      "title": "High-tech microscope with ML software for detecting malaria in returning travellers",
+      "description": "By Deborah Pirchner Malaria is an infectious disease claiming more than half a million lives each year. Because traditional diagnosis takes expertise and the workload is high, an international team of researchers investigated if diagnosis using a new system c\u2026",
+      "url": "https://robohub.org/high-tech-microscope-with-ml-software-for-detecting-malaria-in-returning-travellers/",
+      "urlToImage": "https://robohub.org/wp-content/uploads/2023/09/passport-2733068_1280-425x273.jpg",
+      "publishedAt": "2023-09-14 05:29:24",
+      "content": "By Deborah Pirchner Malaria is an infectious disease claiming more than half a million lives each year. Because traditional diagnosis takes expertise and the workload is high, an international team \u2026 [+4219 chars]",
+      "retrievedAt": "2023-09-15 07:05:35.877091",
+      "internal_id": "9faae5bbd128a0f7aadf8dd6cd753e302d9c887ad67a5174a4432e4a44d0180a",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1826,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092e\u094c\u0924, 1300 \u0915\u0947 \u092a\u093e\u0930 \u092a\u0939\u0941\u0902\u091a\u0947 \u092e\u093e\u092e\u0932\u0947 \u0924\u094b \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a, \u0938\u0930\u0915\u093e\u0930 \u0928\u0947 \u0915\u0940 \u0939\u093e\u0908 \u092a\u094d\u0930\u094b\u092b\u093e\u0907\u0932 \u092c\u0948\u0920\u0915",
+      "description": "Bihar Dengue Case: \u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u092e\u093e\u0928\u0938\u0942\u0928\u0940 \u092c\u093e\u0930\u093f\u0936 \u0915\u0947 \u092c\u0940\u091a \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0924\u0947\u091c\u0940 \u0938\u0947 \u0907\u091c\u093e\u092b\u093e \u0926\u0947\u0916\u0928\u0947 \u0915\u094b \u092e\u093f\u0932 \u0930\u0939\u093e\u0964 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u0940 \u092c\u0922\u093c\u0924\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u0915\u094b \u0926\u0947\u0916\u0924\u0947 \u0939\u0941\u090f \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0935\u093f\u092d\u093e\u0917 \u0905\u0932\u0930\u094d\u091f \u092e\u094b\u0921 \u092a\u0930 \u0939\u0948\u0964 \u0907\u0938\u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u094b \u0932\u0947\u0915\u0930 \u0938\u0930\u0915\u093e\u0930 \u0915\u0940 \u0913\u0930 \u0938\u0947 \u0939\u093e\u0908 \u092a\u094d\u0930\u094b\u092b\u093e\u0907\u0932 \u092e\u0940\u091f\u093f\u0902\u0917 \u092d\u0940 \u0939\u0941\u0908, \u091c\u093f\u0938\u092e\u0947\u0902 \u091c\u093f\u0932\u093e \u092a\u094d\u0930\u0936\u093e\u0938\u0928 \u0915\u094b \u0915\u0908\u2026",
+      "url": "https://navbharattimes.indiatimes.com/state/bihar/patna/bihar-dengue-cases-above-1300-health-department-alert-mode-1st-death-reports-state/articleshow/103652352.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-55250,msid-103637972/navbharat-times.jpg",
+      "publishedAt": "2023-09-14 05:17:44",
+      "content": ": 1300 200 1332 , 40 , , () - , 200 67 28, 12, 9 8 1332 1057 '' , 1100 , - 242 127 () 35 () 21 , 18 , -- , , Navbharat Times News App: - , , , , -... NBT ? , Adv: , , 65% \u2026 [+234 chars]",
+      "retrievedAt": "2023-09-15 07:05:35.190000",
+      "internal_id": "8bbc358220148d8bd6387b7211fbd7a414411f7a5a4f18f156d7b8117d11b81a",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1822,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "9News",
+      "author": "Josh Hohne",
+      "title": "Measles alert after patient flies in from Bali to Bunnings",
+      "description": "The full range of the person&#x27;s movements are not known, but officials confirmed several locations that may have been exposed.",
+      "url": "https://www.9news.com.au/national/western-australia-measles-measles-alert-in-wa-after-infected-person-visits-bunnings/a2e95e53-fed6-480b-a862-1fe579f4d449",
+      "urlToImage": "https://imageresizer.static9.net.au/YtWliUbikPr6FiYJY3n8aghrRk4=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F6ea23bc9-5780-4132-bead-9c3190bc4553",
+      "publishedAt": "2023-09-14 03:26:35",
+      "content": "Auto news: Controversial luxury car charge axed by manufacturer.",
+      "retrievedAt": "2023-09-15 07:05:34.668076",
+      "internal_id": "db858756db52ff62ea4661b9ff834eaee56082cd1ab99dbb4ce253bde8f36ed0",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1829,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Setopati.com",
+      "author": "AP :: Special mosquitoes being bred to fight dengue",
+      "title": "Special mosquitoes being bred to fight dengue",
+      "description": "Models estimate that around 400 million people across some 130 countries are infected each year with dengue. Mortality rates from dengue are low \u2013 an estimated 40,000 people die each year from it \u2013 but outbreaks can overwhelm health systems and force many peo\u2026",
+      "url": " https://en.setopati.com/International/161745 ",
+      "urlToImage": "https://en.setopati.com/uploads/posts/Mosquito11694661757.png",
+      "publishedAt": "2023-09-14 03:14:00",
+      "content": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to contro\u2026 [+8649 chars]",
+      "retrievedAt": "2023-09-15 07:05:35.203870",
+      "internal_id": "a9810e25ff6511e3852e3b869b69142a4f5350dabfb324539662ea548dca8cea",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1828,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Zee News",
+      "title": "Health Tips: \u0ab0\u0ab8\u0acb\u0aa1\u0abe\u0aa8\u0abe \u0a86 5 \u0aae\u0ab8\u0abe\u0ab2\u0abe \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1\u0aa5\u0ac0 \u0a85\u0aaa\u0abe\u0ab5\u0ab6\u0ac7 \u0aae\u0ac1\u0a95\u0acd\u0aa4\u0abf, \u0a98\u0ab0 \u0aac\u0ac7\u0aa0\u0abe \u0aa5\u0a88 \u0a9c\u0ab6\u0ac7 \u0aa4\u0abe\u0ab5\u0aa8\u0acb \u0a88\u0ab2\u0abe\u0a9c",
+      "description": "[node:summary] Dengue Home Remedies: \u0ab5\u0abe\u0aa4\u0abe\u0ab5\u0ab0\u0aa3 \u0aaa\u0aa3 \u0ab8\u0aa4\u0aa4 \u0aac\u0aa6\u0ab2\u0aa4\u0ac1\u0a82 \u0ab0\u0ab9\u0ac7 \u0a9b\u0ac7 \u0a9c\u0ac7\u0aa8\u0abe \u0a95\u0abe\u0ab0\u0aa3\u0ac7 \u0aaa\u0aa3 \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1 \u0ab8\u0ab9\u0abf\u0aa4\u0aa8\u0ac0 \u0aac\u0ac0\u0aae\u0abe\u0ab0\u0ac0 \u0a9d\u0aa1\u0aaa\u0aa5\u0ac0 \u0ab5\u0a95\u0ab0\u0ac7 \u0a9b\u0ac7. \u0a9c\u0acb\u0a95\u0ac7 \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1 \u0a9c\u0ac7\u0ab5\u0ac0 \u0aac\u0ac0\u0aae\u0abe\u0ab0\u0ac0\u0aa8\u0ac7 \u0a98\u0ab0 \u0aac\u0ac7\u0aa0\u0abe \u0aa6\u0ac2\u0ab0 \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0ab0\u0ab8\u0acb\u0aa1\u0abe\u0aa8\u0abe \u0aaa\u0abe\u0a82\u0a9a \u0aae\u0ab8\u0abe\u0ab2\u0abe \u0a89\u0aaa\u0aaf\u0acb\u0a97\u0ac0 \u0ab8\u0abe\u0aac\u0abf\u0aa4 \u0aa5\u0a88 \u0ab6\u0a95\u0ac7 \u0a9b\u0ac7. \u0a86 \u0aaa\u0abe\u0a82\u0a9a \u0aae\u0ab8\u0abe\u0ab2\u0abe \u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0ac0\u0aa8\u0ac7 \u0aa4\u0aae\u0ac7 \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1\u0aa8\u0abe \u0ab2\u0a95\u0acd\u0ab7\u0aa3\u2026",
+      "url": "https://zeenews.india.com/gujarati/health/these-5-kitchen-spices-will-get-rid-of-dengue-cure-fever-at-home-294944",
+      "urlToImage": "https://gujarati.cdn.zeenews.com/gujarati/sites/default/files/2023/09/14/483460-fever.jpg",
+      "publishedAt": "2023-09-14 02:23:36",
+      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+354 chars]",
+      "retrievedAt": "2023-09-15 07:05:35.200699",
+      "internal_id": "835878b0dabe53450e2d785404d124e4fad9b20cf2b87c7ac32398fa6da780ea",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1824,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Raquel Nogueira",
+      "title": "Mosquitos que 'comen' virus: el innovador tratamiento de MSF contra el dengue",
+      "description": "M\u00e1s de la mitad de la poblaci\u00f3n mundial est\u00e1 en riesgo de padecer esta enfermedad, y el cambio clim\u00e1tico no har\u00e1 m\u00e1s que empeorar la situaci\u00f3n.",
+      "url": "https://www.elespanol.com/enclave-ods/historias/20230914/mosquitos-comen-virus-innovador-tratamiento-msf-dengue/793670754_0.html",
+      "urlToImage": "https://s1.eestatic.com/2023/09/11/enclave-ods/historias/793680893_236033777_1200x630.jpg",
+      "publishedAt": "2023-09-14 00:11:28",
+      "content": "10.000 casos de dengue al a\u00f1o tan solo en Honduras. Los brotes de esta infecci\u00f3n v\u00edrica son cada vez m\u00e1s graves en el pa\u00eds latinoamericano. En toda la regi\u00f3n de las Am\u00e9ricas se considera, adem\u00e1s, una\u2026 [+6118 chars]",
+      "retrievedAt": "2023-09-15 07:05:35.181962",
+      "internal_id": "a43965e40fc9abb65253fa7e9b31840cf62368153aacbb1131bb7ebcd5f68b3c",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1831,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "likenney@utmb.edu (Dasvit Shetty), likenney@utmb.edu (Linda J Kenney)",
+      "title": "A pH-sensitive switch activates virulence in Salmonella",
+      "description": "The transcriptional regulator SsrB acts as a switch between virulent and biofilm lifestyles of non-typhoidal Salmonella enterica serovar Typhimurium. During infection, phosphorylated SsrB activates genes on Salmonella Pathogenicity Island-2 (SPI-2) essential \u2026",
+      "url": "https://elifesciences.org/articles/85690",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2023-09-14 00:00:00",
+      "content": "Background: The Global Typhoid Genomics Consortium was established to bring together the typhoid research community to aggregate and analyse Salmonella enterica serovar Typhi (Typhi) genomic data to\u2026 [+2228 chars]",
+      "retrievedAt": "2023-09-15 07:05:36.849406",
+      "internal_id": "4ed3d0c0c5818f36d407906ccd6fe59465d30f95cf5c4c84af7f4484ee516948",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1827,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Mini Thomas",
+      "title": "Dengue cases spike among kids in Bengaluru",
+      "description": "More than 4,000 dengue cases have been reported in the country's tech capital in the past few days. But what has set alarm bells ringing is the rise in the number of infections among children.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-spike-among-kids-docs-say-cold-feet-rashes-warning-signs/articleshow/103647251.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103647261,width-1070,height-580,imgsize-1185717,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-13 23:56:41",
+      "content": "Mrunal Thakur turns enthralling ethnic diva",
+      "retrievedAt": "2023-09-15 07:05:35.191534",
+      "internal_id": "3d86b43adf0246acdedcdb3c62ea2b111421a538d76f689b3c203b5709869d7f",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 1823,
+      "query": [
+        "measles"
+      ],
+      "source_id": "news-com-au",
+      "source_name": "News.com.au",
+      "author": "Nathan Schmidt",
+      "title": "Bali tourist sparks health alert in WA after visiting hotel, Bunnings with measles",
+      "description": "A tourist returning from Bali has triggered a health alert in Western Australian after officials discovered the traveller had visited a hotel and shops while infected with measles.",
+      "url": "https://www.news.com.au/travel/travel-updates/warnings/bali-tourist-sparks-health-alert-after-being-hospitalised-with-measles/news-story/30781f84f46879a0476976435223c061",
+      "urlToImage": "https://content.api.news/v3/images/bin/b35798a34e17ca43a69bac71ac8cd975",
+      "publishedAt": "2023-09-13 23:55:19",
+      "content": "A tourist returning from Bali has triggered a health alert in Western Australian after officials discovered the traveller had visited a hotel and shops while infected with measles. The Department of\u2026 [+2538 chars]",
+      "retrievedAt": "2023-09-15 07:05:34.674370",
+      "internal_id": "8045df92e1fadf032e7475aa167a0534735bd277c3e7a95db943036a9b4d8d45",
+      "publishedAtLabel": "Sep 13"
+    },
+    {
+      "id": 1832,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "Foodpoisonjournal.com",
+      "author": "Jenny Schell",
+      "title": "Shigella Outbreak hits conference at Westin Bonventure in Los Angeles",
+      "description": "Outbreak of Shigellosis likely associated with a Conference at Westin Bonventure Hotel Venue in Downtown Los Angeles, August 21-24, 2023. Alameda County Public Health Department, in coordination with the California Department of Public Health (CDPH), is inves\u2026",
+      "url": "https://www.foodpoisonjournal.com/food-poisoning-information/shigella-outbreak-hits-conference-at-westin-bonventure-in-los-angeles/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/042/105/957/0Mn5r3E1XY0NbGpP6WPoD9kg7/926bba7037bd3ebe6c6afebbd515b6d7885021e9.png",
+      "publishedAt": "2023-09-13 22:45:01",
+      "content": "Outbreak of Shigellosis likely associated with a Conference at Westin Bonventure Hotel Venue in Downtown Los Angeles, August 21-24, 2023. Alameda County Public Health Department, in coordination wit\u2026 [+1806 chars]",
+      "retrievedAt": "2023-09-15 07:05:37.625954",
+      "internal_id": "0e608ffe5dbd1e90667558d580cd00f4d9130c7d2ec6becdddb684128bb0462a",
+      "publishedAtLabel": "Sep 13"
+    },
     {
       "id": 1811,
       "query": [
@@ -3417,204 +3615,6 @@
       "retrievedAt": "2023-09-09 07:05:43.308546",
       "internal_id": "b71f5815b034b844df633f7c8d645a9502c62a70896f9993aa0905cc4dceaa62",
       "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1713,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "\u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u092a\u0930 \u0938\u0940\u090f\u092e \u0915\u0947 \u092c\u0947\u091f\u0947 \u0915\u093e \u0935\u093e\u092f\u0930\u0932 \u092c\u092f\u093e\u0928 \u0915\u093f\u0924\u0928\u093e \u0938\u0939\u0940? \u0926\u0947\u0916\u0947\u0902 \u092a\u0942\u0930\u093e \u0935\u093f\u0936\u094d\u0932\u0947\u0937\u0923",
-      "description": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u0915\u0947 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u090f\u092e\u0915\u0947 \u0938\u094d\u091f\u093e\u0932\u093f\u0928 \u0915\u0947 \u092c\u0947\u091f\u0947 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u0940 \u0924\u0930\u0939 \u0939\u0948 \u0914\u0930 \u0907\u0938\u0947 \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0938\u0947 \u092e\u093f\u091f\u093e \u0926\u0947\u0928\u093e \u091a\u093e\u0939\u093f\u090f, \u0907\u0924\u0928\u093e \u0939\u0940 \u0928\u0939\u0940\u0902, \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0935\u094b \u0905\u092a\u0928\u0947 \u092a\u0941\u0930\u093e\u0928\u0947 \u092c\u092f\u093e\u0928 \u092a\u0930 \u0905\u092c \u092d\u0940 \u0915\u093e\u092f\u092e \u0939\u0948\u0902 \u0914\u0930 \u0938\u0928\u093e\u0924\u092e \u0927\u0930\u094d\u092e \u0938\u0947 \u0905\u091a\u094d\u091b\u0940 \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u0926\u094d\u0930\u0935\u093f\u0921\u093c \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u0939\u0948.",
-      "url": "https://www.aajtak.in/india/politics/video/udhayanidhi-stalin-sanatana-dharma-remark-creates-new-controversy-full-analysis-1772266-2023-09-05",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202309/udhayanidhi-stalin-sanatana-dharma-remark-sixteen_nine_0.png",
-      "publishedAt": "2023-09-05 01:39:33",
-      "content": ", , . Tamil Nadu Chief Minister MK Stalin's son Udhayanidhi said that Sanatan Dharma is like dengue and malaria and should be eradicated completely The culture is Dravidian culture. Watch full ana\u2026 [+5 chars]",
-      "retrievedAt": "2023-09-09 07:05:43.305664",
-      "internal_id": "ab3e17b67bec055a59d0f9f12371d484eb1a93d6084b75ed3566b514126128a4",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1630,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Berliner Morgenpost",
-      "author": "Redaktion",
-      "title": "Reisewarnung: Dengue-Fieber am Gardasee: Was Urlauber jetzt wissen m\u00fcssen",
-      "description": "Am Gardasee wurden mehrere F\u00e4lle von Dengue-Fieber gemeldet. Das Ausw\u00e4rtige Abend hat seine Reisehinweise daraufhin aktualisiert.",
-      "url": "https://www.morgenpost.de/vermischtes/article239369775/dengue-fieber-gardasee-italien-schutz-tipps.html",
-      "urlToImage": "https://img.morgenpost.de/img/vermischtes/crop235981855/3812609438-w820-cv16_9-q85/7432c410-0bf8-11ed-99cb-91ed38d7c799.jpg",
-      "publishedAt": "2023-09-04 19:17:56",
-      "content": "Vor allem in tropischen Regionen k\u00f6nnen Urlauber auf M\u00fcckenarten treffen, die das Dengue-Fieber \u00fcbertragen. Doch auch in Europa k\u00f6nnen M\u00fccken Menschen damit infizieren. Mehrere F\u00e4lle sind nun am Gard\u2026 [+3300 chars]",
-      "retrievedAt": "2023-09-06 07:05:44.986104",
-      "internal_id": "335f5fc5bb2b0ed9d9cf82392f989a08b2132027ed7446520b29d0a85fb21b63",
-      "publishedAtLabel": "Sep 4"
-    },
-    {
-      "id": 1626,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "The Feed",
-      "title": "Climate change makes rare diseases in US more common, how are they linked?",
-      "description": "The highest temperatures in the US were recorded in Texas and Florida and malaria was also detected in these states. Is there any relation between climate change and certain diseases?",
-      "url": "https://economictimes.indiatimes.com/news/international/us/climate-change-makes-rare-diseases-in-us-more-common-how-are-they-linked/articleshow/103368658.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103368693,width-1070,height-580,imgsize-303874,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-04 18:48:04",
-      "content": "As July 2023 recorded the hottest temperature in history and that too due to climate change, it coincided with the spread of uncommon diseases as well. Health experts in the US have warned of the hea\u2026 [+3127 chars]",
-      "retrievedAt": "2023-09-05 19:05:38.176456",
-      "internal_id": "2f386800c878f8876fcb56bf1ee8341878ad1e55a1422872769fce015e010022",
-      "publishedAtLabel": "Sep 4"
-    },
-    {
-      "id": 1625,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "Jenny Martorell/TT",
-      "title": "F\u00f6rsv\u00e5rat h\u00e4lsoarbete i extremv\u00e4drets sp\u00e5r",
-      "description": "\u00d6versv\u00e4mningar, torka och hetta. Extremv\u00e4dret s\u00e4tter k\u00e4ppar i hjulet f\u00f6r f\u00f6rs\u00f6ken att bromsa malaria, tuberkulos och hiv/aids. \u2013 Vi kan inte riktigt stoppa \u00f6versv\u00e4mningarna, s\u00e4ger Dianne Stewart, chef f\u00f6r givarrelationer p\u00e5 hj\u00e4lporganisationen Globala fonden.",
-      "url": "https://www.svd.se/a/VP3a8r/forsvarat-halsoarbete-i-extremvadrets-spar",
-      "urlToImage": "https://svd.vgc.no/v2/images/1f197b93-87d0-49ae-ba68-7ea119bfda56?h=630&q=80&upscale=true&w=1200&s=17a5d4fbc934d17e08ac6596ea9c1333e4d4c0b6",
-      "publishedAt": "2023-09-04 17:08:25",
-      "content": "\u00d6versv\u00e4mningar, torka och hetta. Extremv\u00e4dret s\u00e4tter k\u00e4ppar i hjulet f\u00f6r f\u00f6rs\u00f6ken att bromsa malaria, tuberkulos och hiv/aids. Vi kan inte riktigt stoppa \u00f6versv\u00e4mningarna, s\u00e4ger Dianne Stewart, che\u2026 [+59 chars]",
-      "retrievedAt": "2023-09-05 19:05:38.168176",
-      "internal_id": "e42590d87b1cb72b0abe653f49760d52688828211723ef64a202bae814e88279",
-      "publishedAtLabel": "Sep 4"
-    },
-    {
-      "id": 1627,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "TT",
-      "title": "F\u00f6rsv\u00e5rat h\u00e4lsoarbete i extremv\u00e4drets sp\u00e5r",
-      "description": "\u00d6versv\u00e4mningar, torka och hetta. Extremv\u00e4dret s\u00e4tter k\u00e4ppar i hjulet f\u00f6r f\u00f6rs\u00f6ken att bromsa malaria, tuberkulos och hiv/aids. \u2013 Vi kan inte riktigt stoppa \u00f6ver",
-      "url": "https://www.aftonbladet.se/nyheter/a/2Bebx4/forsvarat-halsoarbete-i-extremvadrets-spar",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/f9398fa9-fc97-4590-815c-337ca6e77e79?fit=crop&format=auto&h=1267&q=50&w=1900&s=65a6f5e110acdec81bb18f126ff836b7c54d8390",
-      "publishedAt": "2023-09-04 17:08:23",
-      "content": "Dianne Stewart, bitr\u00e4dande chef p\u00e5 Globala fonden.1 / 4Foto: Fredrik Sandberg/TT \u00d6versv\u00e4mningar, torka och hetta. Extremv\u00e4dret s\u00e4tter k\u00e4ppar i hjulet f\u00f6r f\u00f6rs\u00f6ken att bromsa malaria, tuberkulos och \u2026 [+6307 chars]",
-      "retrievedAt": "2023-09-05 19:05:38.179203",
-      "internal_id": "13cd76e91df29e378635e7c1dcb63ef06651c2d485ce890e5f030d8deec8305c",
-      "publishedAtLabel": "Sep 4"
-    },
-    {
-      "id": 1618,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Benessereblog.it",
-      "author": "Carmela Di Matteo",
-      "title": "La febbre Dengue \u00e8 in Italia: di cosa si tratta e come affrontarla",
-      "description": "La febbre Dengue \u00e8 una malattia virale trasmessa dalle zanzare. I sintomi includono febbre, mal di testa, dolori muscolari e articolari, nausea e eruzioni cutanee. La prevenzione si basa sull'uso di repellenti, vestiti protettivi e zanzariere. Non esiste una \u2026",
-      "url": "https://www.benessereblog.it/febbre-dengue",
-      "urlToImage": "https://www.greenstyle.it/app/uploads/sites/4/2023/09/febbre-dengue-zanzare.jpg",
-      "publishedAt": "2023-09-04 16:14:59",
-      "content": "La febbre Dengue \u00e8 una malattia virale trasmessa dalle zanzare. I sintomi includono febbre, mal di testa, dolori muscolari e articolari, nausea e eruzioni cutanee. La prevenzione si basa sull'uso di \u2026 [+5352 chars]",
-      "retrievedAt": "2023-09-05 19:05:37.251206",
-      "internal_id": "70a27723071e1fa3caac0c29a5c3f8932d077f6a38b203a6236e84578544803f",
-      "publishedAtLabel": "Sep 4"
-    },
-    {
-      "id": 1617,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Silke H\u00fcmmer",
-      "title": "Warnung vor Tropenm\u00fccken - Dengue-Fieber am Gardasee",
-      "description": "Italienische Urlaubsregionen melden rund um den bei Deutschen beliebten Gardasee mehrere von Dengue-Fieber Betroffene.",
-      "url": "https://www.bild.de/ratgeber/2023/ratgeber/behoerden-warnen-vor-tropenmuecken-dengue-fieber-amgardasee-85293958.bild.html",
-      "urlToImage": "https://images.bild.de/64f5e5c09857f00a165bc96b/07510400a3930406e2e8604c6dd6f9e5,d6da5453?w=1280",
-      "publishedAt": "2023-09-04 15:34:12",
-      "content": "J\u00e4hrlich erkranken laut der Weltgesundheitsorganisation WHO 50 bis 100 Millionen Menschen am Dengue-Fieber. Die Asiatische Tigerm\u00fccke, einer der Haupt\u00fcbertr\u00e4ger des Tropen-Erregers, breitet sich zune\u2026 [+2794 chars]",
-      "retrievedAt": "2023-09-05 19:05:37.248422",
-      "internal_id": "015a3aa1c5eda544d3fd6346d1f108187682c3946ab6e5b7fd898dcf3915ffc3",
-      "publishedAtLabel": "Sep 4"
-    },
-    {
-      "id": 1628,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Vozdeamerica.com",
-      "author": "vozdeamerica@voanews.com (Antoni Belchi)",
-      "title": "\u00bfPor qu\u00e9 el Zika sigue siendo una preocupaci\u00f3n en las Am\u00e9ricas?",
-      "description": "La OPS alerta que las mujeres embarazadas son susceptibles a los efectos del Zika y requiere de un esfuerzo global para minimizar su impacto en la regi\u00f3n.",
-      "url": "https://www.vozdeamerica.com/a/zika-preocupacion-americas-ops/7253580.html",
-      "urlToImage": "https://gdb.voanews.com/024F4492-9B2F-4B1C-B9C5-C817229FC742_w1200_r1.jpg",
-      "publishedAt": "2023-09-04 15:00:40",
-      "content": "Miami, EEUU La fiebre del Zika, una enfermedad viral transmitida por mosquitos del g\u00e9nero Aedes causada por el virus Zika (ZIKV), a la que pr\u00e1cticamente no se le prestaba mucha atenci\u00f3n por parte de\u2026 [+6621 chars]",
-      "retrievedAt": "2023-09-05 19:05:38.660511",
-      "internal_id": "351e247959323fc8d1df8200f899396b4e6e1bd15fdb957d434992931d4e2d40",
-      "publishedAtLabel": "Sep 4"
-    },
-    {
-      "id": 1616,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Alison Shepherd",
-      "title": "Paris fights to halt spread of dengue mosquito",
-      "description": "bmj;382/sep04_11/p2032/FAF1faValery Hache/AFP/GettyFrench health authorities fumigate areas of Paris for the first time to kill disease carrying tiger mosquitoes (Aedes albopictus), whose rapid advance through northern Europe is thought to have been accelerat\u2026",
-      "url": "https://www.bmj.com/content/382/bmj.p2032",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/382/8396.cover-source.jpg",
-      "publishedAt": "2023-09-04 14:11:12",
-      "content": "French health authorities fumigate areas of Paris for the first time to kill disease carrying tiger mosquitoes (Aedes albopictus), whose rapid advance",
-      "retrievedAt": "2023-09-05 19:05:37.245974",
-      "internal_id": "6c033e90570c2d7cf4b07b52b5a4b1f8003539cb6e5651bea818a6a68103fa4c",
-      "publishedAtLabel": "Sep 4"
-    },
-    {
-      "id": 1614,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Www.gov.uk",
-      "author": "UK Health Security Agency",
-      "title": "Research: Measles epidemiology 2023",
-      "description": "Number of confirmed cases of measles in England by month, age and region.",
-      "url": "https://www.gov.uk/government/publications/measles-epidemiology-2023",
-      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
-      "publishedAt": "2023-09-04 13:07:24",
-      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
-      "retrievedAt": "2023-09-05 19:05:36.793820",
-      "internal_id": "48dd3a0193b750cfa0674925d362d3f73193c034ed7f1029d4046431e86bd571",
-      "publishedAtLabel": "Sep 4"
-    },
-    {
-      "id": 1620,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "Matthias R\u00fcb",
-      "title": "Folge der Erderw\u00e4rmung: Sieben Menschen am Gardasee mit Dengue-Fieber infiziert",
-      "description": "Eigentlich gab es die Asiatische Tigerm\u00fccke nur in den Tropen. Doch nun infiziert sie auch in Italien Urlauber und Einheimische mit Dengue-Fieber. Das Ausw\u00e4rtige Amt weist deshalb schon auf ein Risiko hin.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/dengue-fieber-sieben-menschen-am-gardasee-infiziert-19149981.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/politik/1697849475/1.9150120/facebook_teaser/hier-infizieren-sich-zunehmend.jpg",
-      "publishedAt": "2023-09-04 13:03:48",
-      "content": "Wegen gut eines halben Dutzends best\u00e4tigter F\u00e4lle von Dengue-Fieber haben die Beh\u00f6rden in zwei der 20 Regionen Italiens Ma\u00dfnahmen gegen die Ausbreitung des Virus ergriffen. In der Lombardei in Nordit\u2026 [+2484 chars]",
-      "retrievedAt": "2023-09-05 19:05:37.259275",
-      "internal_id": "1b2d2e162b114c21366e3008b0f34e7fdd1e19707330cc99569891574edb5ca3",
-      "publishedAtLabel": "Sep 4"
     }
   ]
 }
