@@ -1,8 +1,225 @@
 {
-  "last_updated": "2023-09-15 07:05",
+  "last_updated": "2023-09-15 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 11,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 1836,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "En partenariat avec Destination Sant\u00e9",
+      "title": "Sant\u00e9. Moustiques tigres : en quoi consistent les op\u00e9rations de d\u00e9moustication qui se multiplient ?",
+      "description": "Les op\u00e9rations de d\u00e9moustication s\u2019encha\u00eenent en France en cette fin d\u2019\u00e9t\u00e9. Alors que plusieurs cas de dengue import\u00e9e ont \u00e9t\u00e9 diagnostiqu\u00e9s, la forte pr\u00e9sence du moustique-tigre d\u00e9sormais bien implant\u00e9 presque partout dans l\u2019Hexagone fait craindre aux autori\u2026",
+      "url": "https://www.ledauphine.com/magazine-sante/2023/09/14/moustiques-tigres-en-quoi-consistent-les-operations-de-demoustication-qui-se-multiplient",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/226CEB07-5974-4ABF-BB06-44BD043BC37C/FB1200/photo-1694530647.jpg",
+      "publishedAt": "2023-09-14 17:00:00",
+      "content": "Saint-S\u00e9bastien-sur-Loire (Loire-Atlantique) dans la nuit de lundi \u00e0 mardi. Ch\u00e2tillon (Hauts-de-Seine) en fin de semaine derni\u00e8re, Paris dans la nuit du 30 au 31 ao\u00fbt. Les op\u00e9rations de d\u00e9mousticatio\u2026 [+3509 chars]",
+      "retrievedAt": "2023-09-15 19:05:29.034741",
+      "internal_id": "44699a9212f0093b456d7d138bcfae70a57f2abdae78ccabb258a84180133176",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1838,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di febbre dengue nelle Marche, scatta la disinfestazione",
+      "description": "Registrato un caso di febbre Dengue sul territorio di Senigallia (Ancona): al via la profilassi. (ANSA)",
+      "url": "https://www.ansa.it/marche/notizie/2023/09/14/caso-di-febbre-dengue-nelle-marche-scatta-la-disinfestazione_2dcd896c-d76c-41da-82f1-11f43c7deeeb.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/9/6/ec653cf59a220475e2cd717f77758bfa.jpg",
+      "publishedAt": "2023-09-14 15:29:31",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2023-09-15 19:05:29.045831",
+      "internal_id": "9fd37d8aef232dcb80e2471da85c5f3f82fc9e93e3afba9fa0006523dd38080a",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1843,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Queerty.com",
+      "author": "David Hudson",
+      "title": "New study throws light on the sex lives of gay men over 70",
+      "description": "And it seems they\u2019re getting way more sex than their straight peers.",
+      "url": "https://www.queerty.com/new-study-throws-light-on-the-sex-lives-of-gay-men-over-70-20230914",
+      "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2023/09/gay-senior-rainbow-flag-shutterstock.jpg?auto=format&auto=compress&fit=crop&gravity=face&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=70",
+      "publishedAt": "2023-09-14 15:00:00",
+      "content": "Posed by model (Photo: Shutterstock) A new study has shown that older gay men tend to enjoy sex with more partners than their straight peers. The study was prompted by last years mpox outbreak (for\u2026 [+3562 chars]",
+      "retrievedAt": "2023-09-15 19:05:31.090968",
+      "internal_id": "1615cce24a8df29fae0af2ac48f350d0184cd92f4cd089d8f58a5a2ddddd7629",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1840,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "D. Herbert Opi, Carolyne M. Ndila, Sophie Uyoga, Alex W. Macharia, Clare Fennell, Lucy B. Ochola, Gideon Nyutu, Bethseba R. Siddondo, John Ojal, Mohammed Shebe, Kennedy O. Awuondo, Neema Mturi, Norbert Peshu, Benjamin Tsofa, Gavin Band, Kathryn Maitland, Dominic P. Kwiatkowski, Kirk A. Rockett, Thomas N. Williams, J. Alexandra Rowe",
+      "title": "Non-O ABO blood group genotypes differ in their associations with Plasmodium falciparum rosetting and severe malaria",
+      "description": "Author summary The most common human blood group, ABO, affects susceptibility to multiple diseases including malaria, whereby the non-O blood groups A, B and AB are associated with an increased risk of severe malaria in comparison to blood group O. This may o\u2026",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010910",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1010910.g001&size=inline",
+      "publishedAt": "2023-09-14 14:00:00",
+      "content": "Abstract Blood group O is associated with protection against severe malaria and reduced size and stability of P. falciparum-host red blood cell (RBC) rosettes compared to non-O blood groups. Whether\u2026 [+70699 chars]",
+      "retrievedAt": "2023-09-15 19:05:30.041162",
+      "internal_id": "82fba6afc83407b634a6ae0fd9d0883eb6563f661f97938e253b7c736433e7a8",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1842,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mattia Manica, Giovanni Marini, Angelo Solimini, Giorgio Guzzetta, Piero Poletti, Paola Scognamiglio, Chiara Virgillito, Alessandra della Torre, Stefano Merler, Roberto Ros\u00e0, Francesco Vairo, Beniamino Caputo",
+      "title": "Reporting delays of chikungunya cases during the 2017 outbreak in Lazio region, Italy",
+      "description": "Author summary Timely detection of arboviral introduction and transmission is paramount to decrease the probability of further autochthonous transmission in non-endemic countries. When, despite all efforts, autochthonous transmission occurs, then an early det\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011610",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011610.g003&size=inline",
+      "publishedAt": "2023-09-14 14:00:00",
+      "content": "Abstract Background Emerging arboviral diseases in Europe pose a challenge due to difficulties in detecting and diagnosing cases during the initial circulation of the pathogen. Early outbreak detec\u2026 [+36167 chars]",
+      "retrievedAt": "2023-09-15 19:05:30.830580",
+      "internal_id": "06584b2310d1c5b28bb0a2cc59fe08650e26e91a777db21c1777d9fd0409277b",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1844,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Xu Chen, Shi-Jun Li, David M. Ojcius, Ai-Hua Sun, Wei-Lin Hu, Xu\u2019ai Lin, Jie Yan",
+      "title": "Correction: Mononuclear-macrophages but not neutrophils act as major infiltrating anti-leptospiral phagocytes during leptospirosis",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291717",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0291717.g001&size=inline",
+      "publishedAt": "2023-09-14 14:00:00",
+      "content": "During preparation of Fig 6A of this article [1], the Normal/Lung Mononuclear-macrophages panel was inadvertently duplicated and used to represent the Normal/Lung Neutrophils results. The updated Fig\u2026 [+2726 chars]",
+      "retrievedAt": "2023-09-15 19:05:31.641758",
+      "internal_id": "746de6bec5e375a56cda12265bd947bb84d996fe77c4fb048dd53a57be9b3c3e",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1835,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "Opinion : \u0915\u092d\u0940 \u0939\u093f\u0902\u0926\u0942, \u0915\u092d\u0940 \u0939\u093f\u0902\u0926\u0940...\u092f\u0947 \u0935\u093f\u0930\u094b\u0927 \u0928\u0939\u0940\u0902 \u0928\u092b\u0930\u0924 \u0939\u0948, \u0915\u094d\u092f\u093e \u0910\u0938\u0947 \u091a\u0932\u0947\u0917\u0940 I.N.D.I.A. \u0915\u0940 '\u092e\u094b\u0939\u092c\u094d\u092c\u0924 \u0915\u0940 \u0926\u0941\u0915\u093e\u0928'?",
+      "description": "Sanatan Dharm issue: \u0935\u093f\u092a\u0915\u094d\u0937\u0940 \u0917\u0920\u092c\u0902\u0927\u0928 \u0915\u0947 \u0928\u0947\u0924\u093e \u0915\u092d\u0940 \u0938\u0928\u093e\u0924\u0928 \u0915\u0947 \u0928\u093e\u092e \u092a\u0930 \u0939\u093f\u0902\u0926\u0942 \u0924\u094b \u0915\u092d\u0940 \u0939\u093f\u0902\u0926\u0940 \u0915\u093e \u0935\u093f\u0930\u094b\u0927 \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902\u0964 \u0921\u0940\u090f\u092e\u0915\u0947 \u0928\u0947\u0924\u093e \u0924\u094b \u0938\u0940\u0927\u0947-\u0938\u0940\u0927\u0947 \u092f\u0947 \u0915\u0939 \u0930\u0939\u0947 \u0915\u093f \u0938\u0928\u093e\u0924\u0928 \u0915\u093e \u0935\u093f\u0930\u094b\u0927 \u0915\u0930\u0928\u0947 \u0915\u0940 \u0928\u0939\u0940\u0902 \u092c\u0932\u094d\u0915\u093f \u0909\u0938\u0947 \u091c\u0921\u093c \u0938\u0947 \u092e\u093f\u091f\u093e\u0928\u0947 \u0915\u0940 \u091c\u0930\u0942\u0930\u0924 \u0939\u0948\u0964 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u092e\u094b\u0939\u092c\u094d\u092c\u0924 \u0915\u0940 \u0926\u0941\u0915\u093e\u0928 \u0915\u0940 \u092c\u093e\u0924 \u0915\u0930\u0924\u0940 \u0939\u0948 \u0932\u0947\u0915\u093f\u0928 \u0915\u094d\u092f\u093e \u2026",
+      "url": "https://navbharattimes.indiatimes.com/india/anti-sanatan-anti-hindi-comments-of-leaders-are-harmful-for-india-alliance-especially-congress/articleshow/103666076.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-43994,msid-103666505/navbharat-times.jpg",
+      "publishedAt": "2023-09-14 12:39:23",
+      "content": ": I.N.D.I.A. ' ' (Sanatan Dharm controversy) ' ' ? (call to eradicate Sanatan Dharm), (Comparing Sanatan with dengue, HIV) ? ' ' ? I.N.D.I.A. , ? (Hindi Diwas news) ' ' I.N.D.I.A. ' ' ' ' 14 1949 14 \u2026 [+235 chars]",
+      "retrievedAt": "2023-09-15 19:05:29.031618",
+      "internal_id": "3563b6704c49260c5e8a2e9b9ead76a38504abe399178f8f86d60c86f805c8bd",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1841,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Ocean Biomedical, Inc.",
+      "title": "Ocean Biomedical (NASDAQ: OCEA) Will Host an R&D Update Today on Malaria, and Fibrosis Programs with Scientific Co-founders Jack A. Elias, MD, and Jonathan Kurtis, MD PhD.",
+      "description": "Presentation will be hosted live on Ocean Biomedical\u2019s Youtube Channel at 2:00pm ET Providence, RI, Sept. 14, 2023 (GLOBE NEWSWIRE) -- Ocean...",
+      "url": "https://www.globenewswire.com/news-release/2023/09/14/2743215/0/en/Ocean-Biomedical-NASDAQ-OCEA-Will-Host-an-R-D-Update-Today-on-Malaria-and-Fibrosis-Programs-with-Scientific-Co-founders-Jack-A-Elias-MD-and-Jonathan-Kurtis-MD-PhD.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
+      "publishedAt": "2023-09-14 12:01:00",
+      "content": "Presentation will be hosted live on Ocean Biomedicals Youtube Channel at 2:00pm ET Providence, RI, Sept. 14, 2023 (GLOBE NEWSWIRE) -- Ocean Biomedical, Inc. (NASDAQ: OCEA), a next-generation biophar\u2026 [+6819 chars]",
+      "retrievedAt": "2023-09-15 19:05:30.047442",
+      "internal_id": "e28532d6fadc1e5147502d86fbacf8be791fad234db24fb8e4f2058b3cd15611",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1839,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Dylan Matthews",
+      "title": "Lead poisoning could be killing more people than HIV, malaria, and car accidents combined",
+      "description": "However bad you think lead poisoning is for the world, it\u2019s worse.",
+      "url": "https://www.vox.com/future-perfect/2023/9/14/23868347/lead-poisoning-death-toll-world-bank-pure-earth",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xoFj4K4o94mKRBjAHaN3cuPCkSw=/0x481:6720x3999/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24919015/1193579475.jpg",
+      "publishedAt": "2023-09-14 11:30:00",
+      "content": "Everyone knows lead is bad for you. Weve known this for a very long time: in the first century BCE, the Roman architect Vitruvius warned against using lead in pipes, observing the pallid color of plu\u2026 [+6537 chars]",
+      "retrievedAt": "2023-09-15 19:05:30.037693",
+      "internal_id": "dcb866d3cf802a8d10c9632c1a8b6214ecb12add627f9bde2546287683f85470",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1833,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Iasbaba.com",
+      "author": "IASbaba",
+      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 14th September 2023",
+      "description": "Archives (PRELIMS & MAINS Focus) Practice MCQs ANSWERS FOR 13th September \u2013 Daily Practice MCQs The post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 14th September 2023 appeared first on IASbaba.",
+      "url": "https://iasbaba.com/2023/09/daily-current-affairs-ias-upsc-prelims-and-mains-exam-14th-september-2023/",
+      "urlToImage": "https://iasbaba.com/wp-content/uploads/2023/09/nipah.jpg",
+      "publishedAt": "2023-09-14 10:59:17",
+      "content": "Q1) Consider the following pairs: DiseasePathogen1.Common coldRhino Virus2.MeaslesRubeola virus3.Small\u2026 [+1687 chars]",
+      "retrievedAt": "2023-09-15 19:05:28.637689",
+      "internal_id": "16c3e5624aabea21ff51d695b331910f2996d12b91ce997a6200a2d14f9b23ef",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1837,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Business Today",
+      "author": "Business Today Desk",
+      "title": "'INDIA wants to destroy Sanatan Dharma': PM Modi slams Opposition over comments by Udhayanidhi Stalin",
+      "description": "Earlier this month, Udhayanidhi, the son of Tamil Nadu Chief Minister MK Stalin, sparked a controversy after he compared 'Sanatan Dharma' with dengue and malaria, and said that it should be eradicated. He alleged that &quot;Sanatan Dharma is a principle that \u2026",
+      "url": "https://www.businesstoday.in/latest/story/india-wants-to-destroy-sanatan-dharma-pm-modi-slams-opposition-over-comments-by-udhayanidhi-stalin-398442-2023-09-14",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202309/modi-bina-sixteen_nine.jpg",
+      "publishedAt": "2023-09-14 10:36:08",
+      "content": "Prime Minister Narendra Modi on Thursday attacked the Opposition's INDIA alliance, saying it is making efforts to divide the society and the country. \"This INDI-alliance doesn't have a leader. There \u2026 [+2775 chars]",
+      "retrievedAt": "2023-09-15 19:05:29.039375",
+      "internal_id": "4b1be5c2a492385b1b18728d8097af56aafe163b4cd5d630d71c4f88ffc45450",
+      "publishedAtLabel": "Sep 14"
+    },
+    {
+      "id": 1834,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Special Mosquitoes are Being Bred to Fight Dengue",
+      "description": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to control the disease \u2014 and it goes against everything they've learn\u2026",
+      "url": "https://www.voanews.com/a/special-mosquitoes-are-being-bred-to-fight-dengue/7267919.html",
+      "urlToImage": "https://gdb.voanews.com/21341308-6C7F-4FB2-A0E1-C12D88AD5FD0.jpg",
+      "publishedAt": "2023-09-14 07:34:46",
+      "content": "TEGUCIGALPA, Honduras For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more \u2026 [+9091 chars]",
+      "retrievedAt": "2023-09-15 19:05:29.022015",
+      "internal_id": "e6f92849e880ba78284978a3adb349ff82359f5e927589b3283de4f3ab6b77e1",
+      "publishedAtLabel": "Sep 14"
+    },
     {
       "id": 1825,
       "query": [
@@ -3395,225 +3612,6 @@
       "content": "Un ni\u00f1o que ingres\u00f3 con fiebre en el Hospital de Sant Joan de D\u00e9u de Reus (Tarragona) y que ya ha sido dado de alta es el primer caso en cuatro a\u00f1os de dengue aut\u00f3ctono en Catalu\u00f1a, ha informado el D\u2026 [+2423 chars]",
       "retrievedAt": "2023-09-06 19:05:29.536738",
       "internal_id": "06aa59cae2b68f1312c821500da67095d332ba58bd0b4202e0c02e150faa1ae5",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1640,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Silke H\u00fcmmer",
-      "title": "Tropeninfektion am Gardasee - Fieber nach dem Urlaub? Es k\u00f6nnte Dengue sein",
-      "description": "Was genau ist das Dengue-Fieber, wie gef\u00e4hrlich kann das werden und kann das auch zu uns kommen?",
-      "url": "https://www.bild.de/ratgeber/2023/ratgeber/tropeninfektion-jetzt-auch-am-gardasee-fieber-nach-dem-urlaub-es-koennte-dengue-85300068.bild.html",
-      "urlToImage": "https://images.bild.de/64f6ea137a4df45ab5a2a71c/71fc647eae8885fbcb247975f8c1e2fb,a174fc64?w=1280",
-      "publishedAt": "2023-09-05 12:18:40",
-      "content": "J\u00e4hrlich gibt es in Deutschland mehrere 100 bis \u00fcber 1000 Dengue-Infizierte. Sie haben das gef\u00e4hrliche Fieber zumeist aus tropischen Regionen in Asien, S\u00fcdamerika und Afrika mit nach Hause gebracht. \u2026 [+3501 chars]",
-      "retrievedAt": "2023-09-06 19:05:29.533504",
-      "internal_id": "c00df26cd23cd1acf19e4abe622c88787ec145bdfaf463d7190a050ba16a5ddb",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1652,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Post Reporters",
-      "title": "BMA grapples with mpox surge",
-      "description": "The Bangkok Metropolitan Administration (BMA) is offering monkeypox (mpox) treatment and prevention consultations at clinics after a sharp rise in the number of cases of the disease.",
-      "url": "https://www.bangkokpost.com/thailand/general/2641930/bma-grapples-with-mpox-surge",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20230905/c1_2641930_700.jpg",
-      "publishedAt": "2023-09-05 10:54:00",
-      "content": "The Bangkok Metropolitan Administration (BMA) is offering monkeypox (mpox) treatment and prevention consultations at clinics after a sharp rise in the number of cases of the disease. Eighty monkeypo\u2026 [+3351 chars]",
-      "retrievedAt": "2023-09-06 19:05:31.806873",
-      "internal_id": "d7eb04ef3fe9bfac4aeb3b3d40044d094fcd1b0cb46d247e81173defdec8062a",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1654,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Post Reporters",
-      "title": "BMA grapples with monkeypox surge",
-      "description": "The Bangkok Metropolitan Administration (BMA) is offering monkeypox (mpox) treatment and prevention consultations at clinics after a sharp rise in the number of cases of the disease.",
-      "url": "https://www.bangkokpost.com/thailand/general/2641930/bangkok-metropolitan-administration-bma-grapples-with-monkeypox-surge",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20230905/c1_2641930_700.jpg",
-      "publishedAt": "2023-09-05 10:54:00",
-      "content": "The Bangkok Metropolitan Administration (BMA) is offering monkeypox (mpox) treatment and prevention consultations at clinics after a sharp rise in the number of cases of the disease. Eighty monkeypo\u2026 [+3351 chars]",
-      "retrievedAt": "2023-09-06 19:05:31.811828",
-      "internal_id": "dc42e84c36abc1075de61796a7abc8524e2effe4d73131e1518d008fccf4d711",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1711,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilpost.it",
-      "author": null,
-      "title": "Il focolaio di dengue in provincia di Lodi",
-      "description": "\u00c8 stata avviata una campagna di screening per limitare i contagi dopo la scoperta di otto casi a Castiglione d'Adda, in Lombardia",
-      "url": "https://www.ilpost.it/2023/09/05/focolaio-dengue-lombardia/",
-      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2023/09/05/1693908659-AP23173281339142.jpg",
-      "publishedAt": "2023-09-05 10:43:10",
-      "content": "Italiamarted\u00ec 5 Settembre 2023 La scorsa settimana in provincia di Lodi, in Lombardia, oltre 300 persone si sono sottoposte agli esami per trovare nuovi eventuali casi di \u2026 [+4780 chars]",
-      "retrievedAt": "2023-09-09 07:05:42.276183",
-      "internal_id": "0fd37a53fce2ce53f6bc57837aa256592218bb9e794fe12046ef149665197318",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1644,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Elperiodico.com",
-      "author": "El Peri\u00f3dico",
-      "title": "Mosquito tigre: c\u00f3mo distinguirlo y consejos para evitarlo",
-      "description": "Los mosquitos suelen aparecer en esta \u00e9poca del a\u00f1o con el aumento de las temperaturas. Estos insectos son conocidos por sus picaduras, pero tambi\u00e9n por ser transmisores de enfermedades alrededor del mundo como: la malaria, el virus del Dengue, la fiebre amar\u2026",
-      "url": "https://www.elperiodico.com/es/sociedad/20230905/mosquito-tigre-distinguirlo-consejos-evitarlo-89049333",
-      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/f62ceae5-868f-484e-952f-cd82fb4f678b_16-9-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-09-05 09:40:00",
-      "content": "Los mosquitos suelen aparecer en esta \u00e9poca del a\u00f1o con el aumento de las temperaturas. Estos insectos son conocidos por sus picaduras, pero tambi\u00e9n por ser transmisores de enfermedades alrededor del\u2026 [+2800 chars]",
-      "retrievedAt": "2023-09-06 19:05:29.549958",
-      "internal_id": "a3eb3c34c9848ce6d81862493aa44bc0ac7f5b5b4e954f502b54232f0003f555",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1651,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Elperiodico.com",
-      "author": "Beatriz P\u00e9rez",
-      "title": "C\u00f3mo combatir el mosquito tigre y prevenir el contagio de enfermedades",
-      "description": "Los mosquitos y las garrapatas act\u00faan como vectores de enfermedades tropicales como el dengue, el zika o la chikungu\u00f1a. Con las altas temperaturas, estos insectos proliferan m\u00e1s y el calentamiento global contribuye a que est\u00e9n presentes durante cada vez m\u00e1s m\u2026",
-      "url": "https://www.elperiodico.com/es/sanidad/20230905/combatir-mosquito-tigre-prevenir-contagio-enfermedades-91339030",
-      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/d8f52dd0-7f6a-43ab-aa6b-bb4142a14949_16-9-discover-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-09-05 09:30:00",
-      "content": "Los mosquitos y las garrapatas act\u00faan como vectores de enfermedades tropicales como el dengue, el zika o la chikungu\u00f1a. Con las altas temperaturas, estos insectos proliferan m\u00e1s y el calentamiento gl\u2026 [+3858 chars]",
-      "retrievedAt": "2023-09-06 19:05:31.068986",
-      "internal_id": "e58d58b5146bf6a7b6284b1c559940a4c04011900c5abc7f2da30c4f0adb8577",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1645,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "ZAZALI MUSA",
-      "title": "Dengue cases increase threefold in Johor",
-      "description": "JOHOR BARU: The number of cumulative dengue cases in Johor has increased in epidemiology week 35 (ME35), with 6,896 cases this year compared with 1,965 cases in the corresponding 2022 period. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/09/05/dengue-cases-increase-threefold-in-johor",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/05/2268605.jpg",
-      "publishedAt": "2023-09-05 08:32:00",
-      "content": "JOHOR BARU: The number of cumulative dengue cases in Johor has increased in epidemiology week 35 (ME35), with 6,896 cases this year compared with 1,965 cases in the corresponding 2022 period. State \u2026 [+1897 chars]",
-      "retrievedAt": "2023-09-06 19:05:29.553093",
-      "internal_id": "1142bb33f74256382726b71646a8dc687bdeab6a3ae38f3f5caccbcae1890134",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1635,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Nplus1.ru",
-      "author": "\u041c\u0438\u0445\u0430\u0438\u043b \u041f\u043e\u0434\u0440\u0435\u0437\u043e\u0432",
-      "title": "\u0427\u0435\u0440\u043d\u0430\u044f \u0441\u043c\u0435\u0440\u0442\u044c \u043f\u0440\u0438\u0432\u0435\u043b\u0430 \u043a \u0438\u0437\u0431\u044b\u0442\u043e\u0447\u043d\u043e\u0439 \u0441\u043c\u0435\u0440\u0442\u043d\u043e\u0441\u0442\u0438 \u0441\u0440\u0435\u0434\u0438 \u043c\u043e\u043b\u043e\u0434\u0435\u0436\u0438 \u0425\u0435\u0440\u0435\u0444\u043e\u0440\u0434\u0430",
-      "description": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0435 \u0443\u0447\u0435\u043d\u044b\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043b\u0438 \u043e\u0441\u0442\u0430\u043d\u043a\u0438 177 \u0441\u0440\u0435\u0434\u043d\u0435\u0432\u0435\u043a\u043e\u0432\u044b\u0445 \u043b\u044e\u0434\u0435\u0439, \u0440\u0430\u0441\u043a\u043e\u043f\u0430\u043d\u043d\u044b\u0435 \u0432 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c \u0433\u043e\u0440\u043e\u0434\u0435 \u0425\u0435\u0440\u0435\u0444\u043e\u0440\u0434. \u041e\u043d\u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438, \u0447\u0442\u043e \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445, \u0441\u0442\u0430\u0432\u0448\u0438\u0445 \u0436\u0435\u0440\u0442\u0432\u0430\u043c\u0438 \u0447\u0443\u043c\u044b \u0438 \u043f\u043e\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u043d\u044b\u0445 \u0432 \u043a\u043e\u043b\u043b\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0445 \u043f\u043e\u0433\u0440\u0435\u0431\u0435\u043d\u0438\u044f\u0445, \u0443\u043c\u0435\u0440\u043b\u0438 \u0432 \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0435 \u043e\u0442 15 \u0434\u043e 35 \u043b\u0435\u0442. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c, \u0441\u0440\u2026",
-      "url": "https://nplus1.ru/news/2023/09/05/black-death-in-england",
-      "urlToImage": "https://minio.nplus1.ru/app-images/829632/64f6900617083_cover_share.jpeg",
-      "publishedAt": "2023-09-05 06:32:00",
-      "content": "177 , . , , , 15 35 . , , 15 25 . , American Journal of Biological Anthropology, 34,2 , 18,3 . , Yersinia pestis, (Xenopsylla cheopsis). . , \u00ab \u00bb . -, \u2026 [+469 chars]",
-      "retrievedAt": "2023-09-06 07:05:47.442516",
-      "internal_id": "443214117c41e2768650a528539ce6924f4b4e30eb3e1c173ea3d95b761d8fa2",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1631,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ANI",
-      "title": "Sanatan Dharma remark row: Security heightened at Udhayanidhi Stalin's residence in Chennai",
-      "description": "Earlier Udyanidhi Stalin had come under severe criticism since he mentioned on Saturday that Sanatan Dharma should not merely be opposed but eradicated. \"Few things cannot be opposed, they should only be abolished. We can't oppose Dengue, mosquitoes, Malaria,\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sanatan-dharma-remark-row-security-heightened-at-udhayanidhis-residence-in-chennai/articleshow/103381687.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103381733,width-1070,height-580,imgsize-24948,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-05 06:26:45",
-      "content": "A day after receiving a death threat regarding his 'Sanatana Dharma should be eradicated' remark, security has been tightened outside the residence of Tamil Nadu Minister Udhayanidhi Stalin in Chenna\u2026 [+2143 chars]",
-      "retrievedAt": "2023-09-06 07:05:44.998150",
-      "internal_id": "1d53998732746682b7e8c541110c193546d2552070db1261049854dafee9c483",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1634,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Novinky.cz",
-      "author": "Jaroslav Zbo\u017e\u00ednek",
-      "title": "Pa\u0159\u00ed\u017e poprv\u00e9 vyt\u00e1hla do boje proti kom\u00e1rovi tygrovan\u00e9mu",
-      "description": "Francouzsk\u00e1 metropole Pa\u0159\u00ed\u017e poprv\u00e9 v historii ude\u0159ila proti kom\u00e1r\u016fm, kte\u0159\u00ed p\u0159en\u00e1\u0161ej\u00ed tropick\u00e9 nemoci jako hore\u010dku dengue, \u017elutou zimnici nebo virus zika. V noci ze st\u0159edy na \u010dtvrtek provedla rozs\u00e1hlou dezinfekci v \u010d\u00e1sti 13. obvodu v ji\u017en\u00ed \u010d\u00e1sti m\u011bsta.",
-      "url": "https://www.novinky.cz/clanek/zahranicni-evropa-pariz-poprve-vytahla-do-boje-proti-komarovi-tygrovanemu-40442316",
-      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_QO_BC/dJ4zA/komar-tygrovany-komar.jpeg?fl=cro,0,66,1800,1012%7Cres,1200,,1%7Cwebp,75",
-      "publishedAt": "2023-09-05 04:38:47",
-      "content": "Podle televizn\u00ed stanice BFM TV byla sanit\u00e1rn\u00ed akce zamena hlavn na kom\u00e1ra tygrovan\u00e9ho. \u00daady uzavely nkter\u00e9 silnice a vyzvaly obyvatele pilehl\u00fdch dom, aby nevych\u00e1zeli. Pracovn\u00edci dezinfekn\u00ed sluby mezi\u2026 [+2048 chars]",
-      "retrievedAt": "2023-09-06 07:05:46.190017",
-      "internal_id": "0b36eff6f32e3059ac47ad394c374bf16dd11f1c66c17086c6120428a8e61dc7",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1632,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TIMESOFINDIA.COM",
-      "title": "What is \"Jivet Sharada Shatam\"?",
-      "description": "\u200bThis Sanskrit phrase translates to \"May you live for 100 autumns\". Mostly elders bless the young ones on their birthdays with this phrase. Let's understand the significance of this text.\u200b",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/web-stories/jivet-sharada-shatam-why-elders-traditionally-blessed-for-longevity-in-autumn/photostory/103362021.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103362434,imgsize-551553,width-900,height-1200,resizemode-6/103362434.jpg",
-      "publishedAt": "2023-09-05 03:30:00",
-      "content": "During this season, several illnesses like fever, digestive problem, dengue, malaria, etc. spread at a faster rate.",
-      "retrievedAt": "2023-09-06 07:05:44.999825",
-      "internal_id": "ee91e16de3afee0804702ad238f95f48b14a8d554a0251efe388bc34a432a1ec",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1714,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "\u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0915\u0947 \u092c\u093e\u0926 \u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u092a\u0930 \u092a\u094d\u0930\u093f\u092f\u093e\u0902\u0915 \u0916\u0921\u093c\u0917\u0947 \u0928\u0947 \u0926\u093f\u092f\u093e \u092c\u092f\u093e\u0928, \u0926\u0947\u0916\u0947\u0902 \u0915\u094d\u092f\u093e \u0915\u0939\u093e",
-      "description": "\u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u0915\u0947 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u090f\u092e\u0915\u0947 \u0938\u094d\u091f\u093e\u0932\u093f\u0928 \u0915\u0947 \u092c\u0947\u091f\u0947 \u0909\u0926\u092f\u0928\u093f\u0927\u093f \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0938\u0928\u093e\u0924\u0928 \u0927\u0930\u094d\u092e \u0921\u0947\u0902\u0917\u0942 \u0914\u0930 \u092e\u0932\u0947\u0930\u093f\u092f\u093e \u0915\u0940 \u0924\u0930\u0939 \u0939\u0948 \u0914\u0930 \u0907\u0938\u0947 \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0938\u0947 \u092e\u093f\u091f\u093e \u0926\u0947\u0928\u093e \u091a\u093e\u0939\u093f\u090f. \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u092a\u094d\u0930\u093f\u092f\u093e\u0902\u0915 \u0916\u0921\u093c\u0917\u0947 \u0928\u0947 \u092d\u0940 \u0938\u0928\u093e\u0924\u0928 \u092a\u0930 \u092c\u092f\u093e\u0928 \u0926\u0947\u0924\u0947 \u0939\u0941\u090f \u0915\u0939\u093e \u0915\u093f \u091c\u094b \u0918\u0930\u094d\u092e \u0938\u092e\u093e\u0928\u0924\u093e \u0928\u093e \u0926\u0947 \u0935\u094b \u0927\u0930\u094d\u092e \u0928\u0939\u0940\u0902. \u0926\u0947\u0916\u0947\u0902",
-      "url": "https://www.aajtak.in/india/politics/video/udhayanidhi-stalin-sanatana-dharma-remark-priyank-kharge-also-gives-controversial-statement-1772282-2023-09-05",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/video/202309/priyank-kharge-also-gives-controversial-statement-sixteen_nine.png",
-      "publishedAt": "2023-09-05 02:39:03",
-      "content": ". . Tamil Nadu Chief Minister MK Stalin's son Udhayanidhi said that Sanatan Dharma is like dengue and malaria and should be eradicated completely The culture is Dravidian culture. And now in this \u2026 [+65 chars]",
-      "retrievedAt": "2023-09-09 07:05:43.308546",
-      "internal_id": "b71f5815b034b844df633f7c8d645a9502c62a70896f9993aa0905cc4dceaa62",
       "publishedAtLabel": "Sep 5"
     }
   ]
