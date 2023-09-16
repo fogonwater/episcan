@@ -1,8 +1,226 @@
 {
-  "last_updated": "2023-09-16 07:05",
+  "last_updated": "2023-09-16 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 1856,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Bangladesh Dengue Outbreak Kills 778 People",
+      "description": "Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease. The World Health Organization recently warned that diseases such as dengue, \u2026",
+      "url": "https://www.voanews.com/a/bangladesh-dengue-outbreak-kills-778-people-/7270130.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-bc9e-08dbb60fc491_w1200_r1.jpg",
+      "publishedAt": "2023-09-15 17:22:34",
+      "content": "DHAKA, Bangladesh Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease. \u2026 [+1806 chars]",
+      "retrievedAt": "2023-09-16 19:05:14.400805",
+      "internal_id": "562f6f5c7f70562ca8b97ad33b8f8a0ccaa3933e5f56555ee8fc73a73ec40ba2",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1862,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Purdue Research Foundation",
+      "title": "Purdue researcher awarded $1.3 million for malaria drug trials in Southeast Asia and Africa",
+      "description": "Philip Low looks to validate previous trial results and test whether the number of days of an anti-malaria drug therapy can be reduced Philip Low looks to validate previous trial results and test whether the number of days of an anti-malaria drug therapy can \u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/09/15/2744154/18360/en/Purdue-researcher-awarded-1-3-million-for-malaria-drug-trials-in-Southeast-Asia-and-Africa.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d995b381-464d-4d66-a6e3-6e3f00f70da9",
+      "publishedAt": "2023-09-15 16:48:00",
+      "content": "WEST LAFAYETTE, Ind., Sept. 15, 2023 (GLOBE NEWSWIRE) -- A Purdue researcher is taking a giant leap forward in the fight against drug-resistant strains of malaria in developing countries. Open Phila\u2026 [+6503 chars]",
+      "retrievedAt": "2023-09-16 19:05:15.244043",
+      "internal_id": "675371d9b8635eed705a2bd5b1d9930d2408287bca5787dea89c3c152171c1c2",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1859,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Bengal man develops robot \u2018Bravo\u2019 to help autistic children learn about diseases",
+      "description": "A West Bengal man has developed a robot that can help autistic children learn, spread awareness on diseases such as dengue, and even work as a waiter. Atanu Ghosh, a resident of Howrah city, built his robot \u2018Bravo\u2019 at his own expense. He learned to design rob\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/bengal-man-develops-robot-bravo-to-help-autistic-children-learn-about-diseases/videoshow/103697896.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-103697896,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-15 16:10:01",
+      "content": "A West Bengal man has developed a robot that can help autistic children learn, spread awareness on diseases such as dengue, and even work as a waiter. Atanu Ghosh, a resident of Howrah city, built hi\u2026 [+171 chars]",
+      "retrievedAt": "2023-09-16 19:05:14.419641",
+      "internal_id": "884cf5c885d33646ceefe44593cf0f8d5399a6d7ade91532009aa16f0c20b03d",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1863,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Greta E. Weiss, Robert J. Ragotte, Doris Quinkert, Amelia M. Lias, Madeline G. Dans, Coralie Boulet, Oliver Looker, Olivia D. Ventura, Barnabas G. Williams, Brendan S. Crabb, Simon J. Draper, Paul R. Gilson",
+      "title": "The dual action of human antibodies specific to Plasmodium falciparum PfRH5 and PfCyRPA: Blocking invasion and inactivating extracellular merozoites",
+      "description": "Author summary Malaria is a sometimes-fatal disease caused by protozoan parasites of which Plasmodium falciparum is the deadliest species that causes hundreds of millions of infections and half a million deaths per year. A partially effective vaccine is avail\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011182",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011182.g004&size=inline",
+      "publishedAt": "2023-09-15 14:00:00",
+      "content": "Citation: Weiss GE, Ragotte RJ, Quinkert D, Lias AM, Dans MG, Boulet C, et al. (2023) The dual action of human antibodies specific to Plasmodium falciparum PfRH5 and PfCyRPA: Blocking invasion and in\u2026 [+66768 chars]",
+      "retrievedAt": "2023-09-16 19:05:15.253748",
+      "internal_id": "8a6b08c3294d7a9b03aff58f8ae8d0f6c3c48c6ce604502fc89d10ce6a1af8eb",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1855,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": "di Francesca Cerati",
+      "title": "Febbre Dengue, primi casi autoctoni in Italia. Cosa c'\u00e8 da sapere e come proteggersi",
+      "description": "La malattia nella maggior parte dei casi \u00e8 asintomatica, in altri pu\u00f2 causare febbre e sintomi influenzali, nausea, vomito, irritazioni della pelle, e nei casi pi\u00f9 gravi anche emorragie potenzialmente fatali (in meno dell'1% delle persone)",
+      "url": "https://www.ilsole24ore.com/art/febbre-dengue-primi-casi-autoctoni-italia-cosa-c-e-sapere-e-come-proteggersi-AFLEvWr",
+      "urlToImage": "https://i2.res.24o.it/images2010/2023/09/AFLEvWr/images/731984d8-53c3-11ee-ae0f-a3f1ccb89d40-fotohome0.jpg",
+      "publishedAt": "2023-09-15 12:30:00",
+      "content": "Ascolta la versione audio dell'articolo 3' di lettura Sono 165 i casi di Dengue diagnosticati in Italia, 146 importati e 19 autoctoni, secondo lultimo aggiornamento settimanale dellIss. Lombardia, \u2026 [+1436 chars]",
+      "retrievedAt": "2023-09-16 19:05:14.396741",
+      "internal_id": "406c606dfe1ea576c0b8f87b7444df3ca1be871e69d31f694298ca29beddf852",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1860,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "BBC News Brasil",
+      "title": "Olimp\u00edadas 2024: Fran\u00e7a recorre a fumac\u00ea ap\u00f3s aumento de dengue, chikungunya e zika",
+      "description": "Nas cidades de Paris e Colombes, os fumac\u00eas ocorreram ap\u00f3s a notifica\u00e7\u00e3o de casos de pessoas que contra\u00edram dengue durante viagens ao exterior.",
+      "url": "https://www.bbc.com/portuguese/articles/c51kr2lykqko",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/09/15/1747317385-42515d10-5294-11ee-9fbb-2b52d1ba00a8.jpg",
+      "publishedAt": "2023-09-15 10:43:28",
+      "content": "A prolifera\u00e7\u00e3o na Fran\u00e7a do mosquito-tigre-asi\u00e1tico, vetor de transmiss\u00e3o de doen\u00e7as como dengue, zika e chikungunya, tem provocado o uso de fumac\u00eas em v\u00e1rias cidades, incluindo Paris, que realizou p\u2026 [+6780 chars]",
+      "retrievedAt": "2023-09-16 19:05:14.423020",
+      "internal_id": "9b0621a145ac6da53929a976193de2c4db887165caa3baa7f1df229590e1a3fe",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1854,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Isolation warning for London children without measles jab",
+      "description": "The capital has a low vaccination rate compared with the rest of the UK and is at risk of an outbreak.",
+      "url": "https://www.bbc.co.uk/news/uk-england-london-66819021",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BCFB/production/_131097384_28e7bdf8-b002-4299-b988-7a755e4ab201.jpg",
+      "publishedAt": "2023-09-15 10:35:38",
+      "content": "Children whose measles vaccinations are not up to date may have to isolate for 21 days if they are exposed to the disease, parents have been warned. Councils in London have written to households to \u2026 [+2009 chars]",
+      "retrievedAt": "2023-09-16 19:05:13.835279",
+      "internal_id": "2ea758cafeaf8a3faa52715b08008608230f90fc937c8a27060d8c398c940857",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1857,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Bangladesh is struggling to cope with a record dengue outbreak in which 778 people have died",
+      "description": "Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease",
+      "url": "https://abcnews.go.com/International/wireStory/bangladesh-struggling-cope-record-dengue-outbreak-778-people-103213722",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-09-15 10:21:44",
+      "content": "DHAKA, Bangladesh -- Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease\u2026 [+1787 chars]",
+      "retrievedAt": "2023-09-16 19:05:14.406407",
+      "internal_id": "9968cd856912d6555e0381f036555ef02b4f4c58da29622d9236560ca912e789",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1858,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Bangladesh is struggling to cope with a record dengue outbreak in which 778 people have died",
+      "description": "Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease",
+      "url": "https://abcnews.go.com/Health/wireStory/bangladesh-struggling-cope-record-dengue-outbreak-778-people-103213723",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-09-15 10:16:31",
+      "content": "DHAKA, Bangladesh -- Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease\u2026 [+1787 chars]",
+      "retrievedAt": "2023-09-16 19:05:14.412250",
+      "internal_id": "f9a99503db4346d8990d981a49a855030294f1711f6c82b6b2015c909ac4498a",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1865,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod: 26 leptospirosis deaths in province",
+      "description": "Bacolod City \u2013 Negros Occidental, including highly urbanized Bacolod City, has logged 178 leptospirosis cases from January 1 to September 2 this year, including 26 deaths. Of the fatalities, 12 are recorded in Bacolod City, while 14 in the province, records o\u2026",
+      "url": "https://rpnradio.com/bacolod-26-leptospirosis-deaths-in-province/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/09/bacolod-leptospirosis.jpg",
+      "publishedAt": "2023-09-15 08:15:45",
+      "content": "Bacolod City \u2013 Negros Occidental, including highly urbanized Bacolod City, has logged 178 leptospirosis cases from January 1 to September 2 this year, including 26 deaths. Of the fatalities, 12 are \u2026 [+1596 chars]",
+      "retrievedAt": "2023-09-16 19:05:16.677279",
+      "internal_id": "5c7915e63dbc99c840521cc519199be8f6dbc7885c2b75424ec8672d5b76ebd7",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1864,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "China to manage mpox as disease on par with COVID-19",
+      "description": "China plans to manage mpox, formerly know as monkeypox, in the same way it handles infectious diseases such as COVID-19 after detecting around 500 cases of the viral infection in August.",
+      "url": "https://www.abc.net.au/news/2023-09-15/china-to-treat-mpox-cases-on-par-with-covid/102863404",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/287111080734cd9d5571ed9ab6c77486?impolicy=wcms_crop_resize&cropH=1802&cropW=3203&xPos=0&yPos=167&width=862&height=485",
+      "publishedAt": "2023-09-15 07:54:34",
+      "content": "China plans to manage mpox formerly know as monkeypox in the same way it handles infectious diseases such as COVID-19 after detecting around 500 cases of the viral infection in August. China\u2026 [+1814 chars]",
+      "retrievedAt": "2023-09-16 19:05:16.065674",
+      "internal_id": "682485dbff52b7eacd00e45e08d1779a75145bd457002dd8403fcef68222f37e",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1861,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "GERARD GIMINO",
+      "title": "Dengue cases rose almost 19% in early September, says Health Ministry",
+      "description": "PETALING JAYA: Dengue cases have risen by almost 19% in early September compared to late August, says the Health Ministry. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/09/15/dengue-cases-rose-almost-19-in-early-september-says-health-ministry",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/15/2286043.jpg",
+      "publishedAt": "2023-09-15 07:20:00",
+      "content": "PETALING JAYA: Dengue cases have risen by almost 19% in early September compared to late August, says the Health Ministry. Health director-general Datuk Dr Muhammad Radzi Abu Hassan said 2,284 dengu\u2026 [+1893 chars]",
+      "retrievedAt": "2023-09-16 19:05:14.425433",
+      "internal_id": "f32fcbdcb06450d9648dad42199792d581833e3cff34b96f4f1a46a8e3ba90db",
+      "publishedAtLabel": "Sep 15"
+    },
     {
       "id": 1849,
       "query": [
@@ -3396,223 +3614,6 @@
       "retrievedAt": "2023-09-07 07:05:36.720326",
       "internal_id": "716642bacff23c928b61b49c7b942bbd539b75b0f98c0dce25c4cac743aad8d6",
       "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1660,
-      "query": [
-        "malaria",
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Sanatana Dharma Row: FIR filed against Udhayanidhi Stalin, Priyank Kharge for 'hurting religious sentiments' in UP",
-      "description": "DMK leader Udhayanidhi Stalin and Priyank Kharge, son of Congress president Mallikarjun Kharge, have been named in an FIR for allegedly outraging religious feelings. Stalin compared Sanatana Dharma to diseases like dengue and malaria during an event, which sp\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/udhayanidhi-stalin-priyank-kharge-booked-for-hurting-religious-sentiments-in-ups-rampur/articleshow/103418301.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103418348,width-1070,height-580,imgsize-100114,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-06 05:26:59",
-      "content": "An FIR was filed against DMK leader Udhayanidhi Stalin and Congress president Mallikarjun Kharge's son Priyank Kharge on Wednesday for allegedly hurting religious feelings. Stalin, who is the son of \u2026 [+1754 chars]",
-      "retrievedAt": "2023-09-07 07:05:37.404051",
-      "internal_id": "890ebc138e679c463370379279808d6c7b73a024676f6b76808ce062719ff76b",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1657,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "\u0921\u0947\u0902\u0917\u094d\u092f\u0942\u091a\u0902 \u0928\u093f\u0926\u093e\u0928, \u0909\u092a\u091a\u093e\u0930\u093e\u0932\u093e \u091c\u093e\u0924\u093e\u0928\u093e \u0930\u0938\u094d\u0924\u094d\u092f\u093e\u0924\u091a \u092e\u0943\u0924\u094d\u092f\u0942\u0928\u0947 \u0917\u093e\u0920\u0932\u0902, \u0907\u0902\u091c\u093f\u0928\u093f\u0905\u0930\u093f\u0902\u0917 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u093f\u0928\u0940\u091a\u093e \u0915\u0930\u0941\u0923 \u0905\u0902\u0924",
-      "description": "Dengue Death : \u0906\u0902\u092c\u093f\u0935\u0932\u0940 \u092a\u0930\u093f\u0938\u0930\u093e\u0924 \u0930\u093e\u0939\u0923\u093e\u0930\u0940 \u092a\u094d\u0930\u093e\u091a\u0940 \u0924\u0930\u0947 \u0939\u0940 \u0924\u0930\u0941\u0923\u0940 \u0907\u0902\u091c\u093f\u0928\u0940\u0905\u0930\u093f\u0902\u0917\u091a\u094d\u092f\u093e \u0936\u0947\u0935\u091f\u091a\u094d\u092f\u093e \u0935\u0930\u094d\u0937\u093e\u0924 \u0936\u093f\u0915\u0924 \u0939\u094b\u0924\u0940. \u0915\u093e\u0939\u0940 \u0926\u093f\u0935\u0938\u093e\u0902\u092a\u093e\u0938\u0942\u0928 \u0924\u093f\u0932\u093e \u0924\u093e\u092a \u092f\u0947\u0924 \u0939\u094b\u0924\u093e. \u091c\u0935\u0933\u091a\u094d\u092f\u093e \u0916\u093e\u0938\u0917\u0940 \u0921\u0949\u0915\u094d\u091f\u0930\u093e\u0902\u0915\u0921\u0942\u0928 \u0924\u093f\u091a\u094d\u092f\u093e\u0935\u0930 \u0909\u092a\u091a\u093e\u0930 \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u0947",
-      "url": "https://maharashtratimes.com/maharashtra/thane/kalyan-20-years-old-engineering-student-dies-of-dengue/articleshow/103411540.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-18612,msid-103411613/maharashtra-times.jpg",
-      "publishedAt": "2023-09-06 02:58:18",
-      "content": ". . , : - . , . . . . . . .! ; , ?. , , . ... , , - . , , , , , . Marathi News App: ? . , ; '' . 28,990/- ! ; , ? ... - , , 70% , , <l\u2026 [+160 chars]",
-      "retrievedAt": "2023-09-07 07:05:36.731052",
-      "internal_id": "7180b98d919eb3c1f8b039977cadf8a3580bb38d5ffd41699f1809407a2334e7",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1709,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "As\u00ed se transmite el dengue: atento a los s\u00edntomas y las claves para detectarlo",
-      "description": "El virus del dengue es una enfermedad que afecta cada a\u00f1o a alrededor de 400 millones de personas. Afecta especialmente en zonas de Am\u00e9ricas, \u00c1frica, Medio Oriente, Asia y las Islas del Pac\u00edfico y cualquier persona que viva en un \u00e1rea con riesgo de dengue o v\u2026",
-      "url": "https://www.abc.es/sociedad/transmite-dengue-atento-sintomas-claves-detectarlo-20230906035506-nt.html",
-      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2023/09/06/mosquito-kspD--1024x512@abc.jpg",
-      "publishedAt": "2023-09-06 01:55:23",
-      "content": "El virus del dengue es una enfermedad que afecta cada a\u00f1o a alrededor de 400 millones de personas. Afecta especialmente en zonas de Am\u00e9ricas, \u00c1frica, Medio Oriente, Asia y las Islas del Pac\u00edfico y cu\u2026 [+3149 chars]",
-      "retrievedAt": "2023-09-09 07:05:42.272983",
-      "internal_id": "42dbe6d7c2408dee41012b112e6c959d6a7ac492edfad5ba8b4c6fecbcf32e8f",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1662,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "\u091a\u093f\u0902\u0924\u093e \u0935\u093e\u0922\u0932\u0940... \u092e\u0941\u0902\u092c\u0908\u0924 \u091d\u093f\u0915\u093e\u091a\u093e \u0926\u0941\u0938\u0930\u093e \u0930\u0941\u0917\u094d\u0923 \u0906\u0922\u0933\u0932\u093e, \u0967\u096b \u0935\u0930\u094d\u0937\u093e\u0902\u091a\u094d\u092f\u093e \u092e\u0941\u0932\u0940\u0932\u093e \u0932\u093e\u0917\u0923, \u091c\u093e\u0923\u0942\u0928 \u0918\u094d\u092f\u093e \u0932\u0915\u094d\u0937\u0923\u0902",
-      "description": "Mumbai Zika Virus: \u091d\u093f\u0915\u093e\u092c\u093e\u0927\u093f\u0924 \u092e\u0941\u0932\u0940\u0932\u093e \u0968\u0966 \u0911\u0917\u0938\u094d\u091f\u092a\u093e\u0938\u0942\u0928 \u0924\u093e\u092a \u0906\u0923\u093f \u0921\u094b\u0915\u0947\u0926\u0941\u0916\u0940\u091a\u093e \u0924\u094d\u0930\u093e\u0938 \u0939\u094b\u0924 \u0939\u094b\u0924\u093e. \u0938\u0941\u0930\u0941\u0935\u093e\u0924\u0940\u0932\u093e \u0924\u093f\u0928\u0947 \u0916\u093e\u0938\u0917\u0940 \u0930\u0941\u0917\u094d\u0923\u093e\u0932\u092f\u093e\u0924 \u0909\u092a\u091a\u093e\u0930 \u0918\u0947\u0924\u0932\u0947. \u092e\u093e\u0924\u094d\u0930, \u096b \u0938\u092a\u094d\u091f\u0947\u0902\u092c\u0930\u0932\u093e \u0924\u093f\u0932\u093e \u0938\u093e\u0930\u094d\u0935\u091c\u0928\u093f\u0915 \u0930\u0941\u0917\u094d\u0923\u093e\u0932\u092f\u093e\u0924 \u0926\u093e\u0916\u0932 \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u0947.",
-      "url": "https://maharashtratimes.com/maharashtra/mumbai-news/second-case-of-zika-found-in-mumbai-15-year-old-girl-infected-know-the-symptoms/articleshow/103410111.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-47570,msid-103410130/maharashtra-times.jpg",
-      "publishedAt": "2023-09-06 01:02:41",
-      "content": " , ; !. 28,990/- ... ; , , - , , 70% : , ; , Live ? ?! ; , ? - . , Memes: , Tea\u2026 [+66 chars]",
-      "retrievedAt": "2023-09-07 07:05:37.660151",
-      "internal_id": "2ed0ca95f11100fa8d9682ff7e5e3f0fbc9c22a15bcf7dd9d6f2064cb90cc666",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1663,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "15-year-old Kurla girl Mumbai's 2nd Zika case; has no travel history",
-      "description": "The city has recorded a second case of Zika virus in a 15-year-old girl from Kurla, the BMC confirmed on Tuesday. The previous one was reported on August 23, and involved a 79-year-old Chembur resident.",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/15-year-old-kurla-girl-mumbais-2nd-zika-case-has-no-travel-history/articleshow/103409463.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103409463,width-1070,height-580,imgsize-17004,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-05 23:20:31",
-      "content": "Sridevi, Divya Bharti: 10 Actresses Whose Lives Ended in Mystery",
-      "retrievedAt": "2023-09-07 07:05:37.665566",
-      "internal_id": "80dfde170fef39e368fe8ba3094053da39ed6656df2b3a349b58f02b2449f0d1",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1661,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Drunkenstepfather.com",
-      "author": "Montana Banks",
-      "title": "Selena Gomez Playing With Her Titty of the Day",
-      "description": "Big fat headed Selena Gomez, who is built like Stewie from Family Guy, all double the size of a regular head, probably because of ZIKA or some shit, or maybe it\u2019s because she is also fat as fuck, is the star of more than just the Disney series Murder in the B\u2026",
-      "url": "https://drunkenstepfather.com/2023/09/05/selena-gomez-playing-with-her-titty",
-      "urlToImage": null,
-      "publishedAt": "2023-09-05 20:39:00",
-      "content": "Big fat headed Selena Gomez, who is built like Stewie from Family Guy, all double the size of a regular head, probably because of ZIKA or some shit, or maybe it\u2019s because she is also fat as fuck, is \u2026 [+1005 chars]",
-      "retrievedAt": "2023-09-07 07:05:37.656905",
-      "internal_id": "1ae4bafd7ec6223629fb48f09fb6b7e20ee54db7fdaed3b8244712549b649912",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1659,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "marca",
-      "source_name": "Marca",
-      "author": "JES\u00daS IZQUIERDO",
-      "title": "El f\u00fatbol canario llora el adi\u00f3s de Naomi Mendoza",
-      "description": "El f\u00fatbol canario est\u00e1 de luto. Hoy ha despedido con tristeza a Naomi Mendoza, portera de la Selecci\u00f3n Canaria sub 17 Femenina, tras no poder superar una repentina meningitis. La F",
-      "url": "https://www.marca.com/futbol/futbol-femenino/2023/09/05/64f7889222601d054f8b4594.html",
-      "urlToImage": "https://phantom-marca.unidadeditorial.es/9d7d136e5fc607a66e29046663efafdd/resize/1200/f/jpg/assets/multimedia/imagenes/2023/09/05/16939438016911.jpg",
-      "publishedAt": "2023-09-05 19:59:38",
-      "content": "El f\u00fatbol canario est\u00e1 de luto. Hoy ha despedido con tristeza a Naomi Mendoza, portera de la Selecci\u00f3n Canaria sub 17 Femenina, tras no poder superar una repentina meningitis. La FIFLP ha emitido una\u2026 [+930 chars]",
-      "retrievedAt": "2023-09-07 07:05:36.894117",
-      "internal_id": "1314b9922244f90e6b23e0ab1403be5167a24b96048a521103f457cc531ed6b9",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1639,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Alejandro Horvat",
-      "title": "Dengue: cu\u00e1ndo llegar\u00e1 a la Argentina la vacuna japonesa y qui\u00e9nes podr\u00e1n aplic\u00e1rsela",
-      "description": "La inmunizaci\u00f3n del laboratorio Takeda protege contra cualquiera de los cuatro tipos de esta enfermedad",
-      "url": "https://www.lanacion.com.ar/sociedad/dengue-cuando-llegara-a-la-argentina-la-vacuna-japonesa-y-quienes-podran-aplicarsela-nid05092023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/este-ano-el-brote-de-dengue-genero-mas-de-130000-O462LEZ5CFEG5KF2BFXTFMLRPM.jpg?auth=4a5493de0136b4da0928c93072dd6b2b1da7c63a4639d6d7550b4bb3adee1af2&width=768&quality=70&smart=false",
-      "publishedAt": "2023-09-05 18:55:07",
-      "content": "La vacuna contra el dengue, el virus que transmite el mosquito Aedes aegypti que este a\u00f1o gener\u00f3 un brote de m\u00e1s de 130.000 casos y 65 muertes en el pa\u00eds, llegar\u00e1 a la Argentina entre los \u00faltimos d\u00eda\u2026 [+5466 chars]",
-      "retrievedAt": "2023-09-06 19:05:29.530485",
-      "internal_id": "d59e543c334246f262cf22d650f54d590aba923614486ea051c01fa6f162fa38",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1643,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "\u091a\u093f\u0902\u0924\u093e\u091c\u0928\u0915! \u0928\u093e\u0936\u093f\u0915 \u0921\u0947\u0902\u0917\u094d\u092f\u0942\u091a\u093e \u0939\u0949\u091f\u0938\u094d\u092a\u0949\u091f; \u0930\u093e\u091c\u094d\u092f\u093e\u091a\u094d\u092f\u093e \u0906\u0930\u094b\u0917\u094d\u092f \u0935\u093f\u092d\u093e\u0917\u093e\u0915\u0921\u0942\u0928 \u0917\u0902\u092d\u0940\u0930 \u0926\u0916\u0932, \u0928\u0947\u092e\u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u0940 \u0915\u093e\u092f?",
-      "description": "Dengue Patient : \u0917\u0947\u0932\u094d\u092f\u093e \u0935\u0930\u094d\u0937\u0940\u091a\u094d\u092f\u093e \u0924\u0941\u0932\u0928\u0947\u0924 \u092a\u093e\u090a\u0938 \u0915\u092e\u0940 \u0905\u0938\u0924\u093e\u0928\u093e\u0939\u0940 \u0936\u0939\u0930\u093e\u0924\u0940\u0932 \u0930\u0941\u0917\u094d\u0923\u0938\u0902\u0916\u094d\u092f\u0947\u0924 \u092e\u093e\u0924\u094d\u0930 \u0935\u093e\u0922 \u0939\u094b\u0924 \u0905\u0938\u0932\u094d\u092f\u093e\u0928\u0947 \u0906\u0930\u094b\u0917\u094d\u092f \u0935\u093f\u092d\u093e\u0917 '\u0905\u0945\u0932\u0930\u094d\u091f \u092e\u094b\u0921'\u0935\u0930 \u0906\u0932\u093e \u0906\u0939\u0947. \u092a\u0930\u0902\u0924\u0941 \u0905\u0936\u093e\u0924\u091a \u090f\u0915 \u0905\u091c\u092c \u0926\u093e\u0935\u093e\u0939\u0940 \u0915\u0930\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u093e \u0906\u0939\u0947.",
-      "url": "https://maharashtratimes.com/maharashtra/nashik/nashik-dengue-hotspot-the-state-health-department-took-serious-notice/articleshow/103405614.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-32322,msid-103405627/maharashtra-times.jpg",
-      "publishedAt": "2023-09-05 18:16:52",
-      "content": ". . , : . '' . , . . . . , . . . . , .. . . . ' ' , . . . . . . . Devendra Fadnavis : ? . . , . , . , . . , . ... - - - - - - - - - ' ' - ... - - - - - - - - \u2026 [+17 chars]",
-      "retrievedAt": "2023-09-06 19:05:29.544806",
-      "internal_id": "65d841fc7a2b39b369fb6439267f9e34ecde681ceb39f5aa207cc5daeb9dfdbb",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1637,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Pilar Arias",
-      "title": "Rabid bats found in Utah, prompting warning from health officials",
-      "description": "Salt Lake County Health Department is reminding people to avoid contact with bats after two found have tested positive for the infectious viral disease rabies.",
-      "url": "https://www.foxnews.com/us/rabid-bats-found-uttah-prompting-warning-health-officials",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/bat-utah-2.jpg",
-      "publishedAt": "2023-09-05 17:59:37",
-      "content": "Health officials issued a warning after two bats in Salt Lake County, Utah, tested positive for rabies and hundreds infiltrated a school. One bat was found Aug. 26 at 1000 West and 6970 South in Mid\u2026 [+1989 chars]",
-      "retrievedAt": "2023-09-06 19:05:28.213095",
-      "internal_id": "fafa5fb1d6928ed59e5532f054af9de53597d1cde8089f7827c938e2cea35b33",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1636,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Ghaziabad Teen Hides Dog Bite From Parents, Dies Of Rabies A Month Later",
-      "description": "A 14-year-old boy who was bitten by a dog over a month ago and hid the incident from his parents died of rabies here, police said on Tuesday.",
-      "url": "https://www.ndtv.com/india-news/14-year-old-dies-of-rabies-a-month-after-dog-bite-in-ghaziabad-4363159",
-      "urlToImage": "https://i.ndtvimg.com/i/2018-05/stray-dogs-generic_650x400_71525256961.jpg",
-      "publishedAt": "2023-09-05 17:51:40",
-      "content": "The boy hid the dog bite incident from parents out of fear. (Representational) Ghaziabad: A 14-year-old boy who was bitten by a dog over a month ago and hid the incident from his parents died of rab\u2026 [+1186 chars]",
-      "retrievedAt": "2023-09-06 19:05:28.206181",
-      "internal_id": "b26bfa57c43c92dec9c6c4e82af94f30c9a9467bff6bac4ed72a08b38e64b13e",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1653,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "New study shows effectiveness of mpox vaccine",
-      "description": "A new international study has shown mpox (formerly known as monkeypox) infections to be less severe among those who are vaccinated or had a previous infection in 2022, underlining the importance and effectiveness of vaccination.",
-      "url": "https://www.sciencedaily.com/releases/2023/09/230905124929.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-09-05 16:49:29",
-      "content": "A new international study led by Queen Mary University of London has shown mpox (formerly known as monkeypox) infections to be less severe among those who are vaccinated or had a previous infection i\u2026 [+2999 chars]",
-      "retrievedAt": "2023-09-06 19:05:31.810130",
-      "internal_id": "c295e484451167e02fd315fc3419465bb6153aa577b64e72d30b80a3c8d80176",
-      "publishedAtLabel": "Sep 5"
     }
   ]
 }
