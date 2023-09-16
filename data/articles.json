@@ -1,8 +1,170 @@
 {
-  "last_updated": "2023-09-15 19:05",
+  "last_updated": "2023-09-16 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 1849,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Gavi to Prioritise Nigeria in Malaria Vaccine Rollout - Minister",
+      "description": "[Premium Times] Nigeria, Africa's most populous nation, also accounts for a high percentage of malaria burden globally",
+      "url": "https://allafrica.com/stories/202309150089.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-15 06:43:33",
+      "content": "Nigeria, Africa's most populous nation, also accounts for a high percentage of malaria burden globally The Coordinating Minister of Health and Social Welfare, Muhammad Pate, on Thursday said the Glo\u2026 [+4013 chars]",
+      "retrievedAt": "2023-09-16 07:05:26.155727",
+      "internal_id": "d07196d0ba22e11456463ac6928ddaba63893ebd6acd3467808f4cb9c24c4c25",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1851,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Kina skal h\u00e5ndtere apekopper p\u00e5 linje med covid-19",
+      "description": "I Kina ble rundt 500 mennesker smittet av Mpox (apekopper) i august. N\u00e5 skal myndighetene h\u00e5ndtere viruset p\u00e5 samme m\u00e5te som de h\u00e5ndterer covid-19, skriver Reuters. Mpox vil fra 20. september h\u00e5ndteres som en kategori B-sykdom. Det gir kinesiske myndigheter t\u2026",
+      "url": "https://www.nrk.no/nyheter/kina-skal-handtere-apekopper-pa-linje-med-covid-19-1.16558554",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.494/common/img/default.jpg",
+      "publishedAt": "2023-09-15 05:17:51",
+      "content": "15. september2023kl.07:17I Kina ble rundt 500 mennesker smittet av Mpox (apekopper) i august. N\u00e5 skal myndighetene h\u00e5ndtere viruset p\u00e5 samme m\u00e5te som de h\u00e5ndterer covid-19, skriver Reuters. Mpox vil\u2026 [+744 chars]",
+      "retrievedAt": "2023-09-16 07:05:26.843271",
+      "internal_id": "40918e5d54d1367e2f47d66898aa07b6a3ab6040f477f19ff0467631cb5256f9",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1853,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "Foodpoisonjournal.com",
+      "author": "Jenny Schell",
+      "title": "Marler Clark files first Shigella Lawsuit against the Westin Bonventure Hotel in Los Angeles",
+      "description": "Outbreak of Shigellosis likely associated with a Conference at Westin Bonventure Hotel Venue in Downtown Los Angeles, August 21-24, 2023. Alameda County Public Health Department, in coordination with the California Department of Public Health (CDPH), is inves\u2026",
+      "url": "https://www.foodpoisonjournal.com/food-poisoning-information/marler-clark-files-first-shigella-lawsuit-against-the-westin-bonventure-hotel-in-los-angeles/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/042/170/584/5R7NlW8nEzjqq4gBYmvbxgLyP/8092674edd44747557661a6ecb489f27ad4e85ee.png",
+      "publishedAt": "2023-09-15 05:12:23",
+      "content": "Outbreak of Shigellosis likely associated with a Conference at Westin Bonventure Hotel Venue in Downtown Los Angeles, August 21-24, 2023. Alameda County Public Health Department, in coordination wit\u2026 [+1806 chars]",
+      "retrievedAt": "2023-09-16 07:05:27.750093",
+      "internal_id": "442478d39892b09dc1febb6d61bcc1af38e2f14ad7c4884faf992f9984c38a35",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1847,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "AP Week in Pictures: Latin America and Caribbean",
+      "description": "Sept. 8-14, 2023 Scientists in Colombia are breeding mosquitoes to fight dengue fever, Chileans marked the 50 year anniversary of a coup that ushered in a brutal military dictatorship, forward Jenni Hermoso, who has accused now-suspended president of the Spa\u2026",
+      "url": "https://abcnews.go.com/International/wireStory/ap-week-pictures-latin-america-caribbean-103210229",
+      "urlToImage": "https://i.abcnewsfe.com/a/ba6b4571-0103-4798-a813-b2cec249b94a/wirestory_725405165f1a06f99890576bf6f431e2_16x9.jpg?w=992",
+      "publishedAt": "2023-09-15 04:16:53",
+      "content": "Sept. 8-14, 2023 Scientists in Colombia are breeding mosquitoes to fight dengue fever, Chileans marked the 50 year anniversary of a coup that ushered in a brutal military dictatorship, forward Jenni\u2026 [+574 chars]",
+      "retrievedAt": "2023-09-16 07:05:25.485934",
+      "internal_id": "5a5ea56e338daede39b64137dbfff6d2d9a9e4297970100e499599ad8a6cf6ef",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1846,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Reemergence of Cosmopolitan Genotype Dengue Virus Serotype 2, Southern Vietnam",
+      "description": "Reemergence of Cosmopolitan Genotype Dengue Virus Serotype 2, Southern Vietnam",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/10/23-0529_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-09-15 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue virus (DENV) repres\u2026 [+7401 chars]",
+      "retrievedAt": "2023-09-16 07:05:25.475792",
+      "internal_id": "4cb9c879a1b82bceeae89d1ae56618d41bdae19f9e51d034d50c4ec1a2736ed7",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1850,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Trouw.nl",
+      "author": "Elianne Moene",
+      "title": "Het bestrijden van ziekte houdt niet op bij de grens",
+      "description": "We debatteren wel over de zorg, maar vergeten het internationale perspectief, vindt Elianne Moens, student Global Health. Tuberculose eist meer lev...",
+      "url": "https://www.trouw.nl/opinie/zijn-we-de-coronacrisis-alweer-vergeten-bestrijden-van-ziekte-houdt-niet-op-bij-de-grens~b44f9be1/",
+      "urlToImage": "https://img.trouw.nl/71ffc7acec4010b086225d63446ab1f46c9220d8/zijn-we-de-coronacrisis-alweer-vergeten-bestrijden-van-ziekte-houdt-niet-op-bij-de-grens",
+      "publishedAt": "2023-09-15 04:00:00",
+      "content": "We debatteren wel over de zorg, maar vergeten het internationale perspectief, vindt Elianne Moens, student Global Health. Tuberculose eist meer levens dan malaria, oorlog en doodslag samen. Elianne \u2026 [+4540 chars]",
+      "retrievedAt": "2023-09-16 07:05:26.164244",
+      "internal_id": "5e57ff654d89c268017fdfdfcee8d485e906a7d3328ad16ee0f4f07625645f9a",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1848,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Gavi to prioritise Nigeria in malaria vaccine rollout, says FG",
+      "description": "The Coordinating Minister of Health and Social Welfare, Prof Ali Pate, on Thursday, said an international organisation, the Vaccine Alliance, promised to prioritise Nigeria in the rollout of malaria vaccine over time. Pate made this known during Gavi\u2019s visit\u2026",
+      "url": "https://punchng.com/gavi-to-prioritise-nigeria-in-malaria-vaccine-rollout-says-fg/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/11124341/Pate_cropped_h1-2.jpg",
+      "publishedAt": "2023-09-15 02:37:06",
+      "content": "The Coordinating Minister of Health and Social Welfare, Prof Ali Pate, on Thursday, said an international organisation, the Vaccine Alliance, promised to prioritise Nigeria in the rollout of malaria\u2026 [+3821 chars]",
+      "retrievedAt": "2023-09-16 07:05:26.151663",
+      "internal_id": "ce2fd8e928832baf8656eeb35bfe973694868b998dcdedf3daa0eba2e45b1617",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1852,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Odisha Govt on alert mode after Scrub Typhus kills 5 people",
+      "description": "The Odisha Government has instructed district health authorities to increase surveillance for Scrub Typhus and Leptospirosis, following five recent deaths in Bargarh District. The Health and Family Welfare Department has directed various officers and medical \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/odisha-govt-on-alert-mode-after-scrub-typhus-kills-5-people/articleshow/103677120.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103677139,width-1070,height-580,imgsize-7902,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-15 02:27:23",
+      "content": "The Odisha Government has asked district health authorities to increase the surveillance for seasonal upsurge of Scrub Typhus and Leptospirosis in the state. This came in the wake of five deaths repo\u2026 [+1641 chars]",
+      "retrievedAt": "2023-09-16 07:05:27.327600",
+      "internal_id": "1da37de5fee17109df8b6cccb2dc6a6fa5715ab5ca36c8a575fff822edd8af36",
+      "publishedAtLabel": "Sep 15"
+    },
+    {
+      "id": 1845,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Richmond.com",
+      "author": "",
+      "title": "Henrico County reports 8th rabies case this year",
+      "description": "Henrico County has reported its eighth case of rabies this year.",
+      "url": "https://richmond.com/news/local/rabies-henrico-county/article_265c01e2-5347-11ee-9d33-5370be07abb2.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/2/65/265c01e2-5347-11ee-9d33-5370be07abb2/6503810b30ec3.preview.jpg?crop=633%2C332%2C0%2C41&resize=633%2C332&order=crop%2Cresize",
+      "publishedAt": "2023-09-14 21:39:00",
+      "content": "Henrico County has reported its eighth case of rabies this year. The viral disease was detected in a cat, which was reported to be acting abnormally and may have been exposed. Police responded to th\u2026 [+2751 chars]",
+      "retrievedAt": "2023-09-16 07:05:24.579667",
+      "internal_id": "6f9ec08b5265b39fa58e3c539bb468c1b65e3f2c298057acf59cde60c7ecc83b",
+      "publishedAtLabel": "Sep 14"
+    },
     {
       "id": 1836,
       "query": [
@@ -3450,168 +3612,6 @@
       "content": "A new international study led by Queen Mary University of London has shown mpox (formerly known as monkeypox) infections to be less severe among those who are vaccinated or had a previous infection i\u2026 [+2999 chars]",
       "retrievedAt": "2023-09-06 19:05:31.810130",
       "internal_id": "c295e484451167e02fd315fc3419465bb6153aa577b64e72d30b80a3c8d80176",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1646,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Guia do Estudante",
-      "title": "Dengue: transmiss\u00e3o, sintomas, tratamento e preven\u00e7\u00e3o. Leia aqui",
-      "description": "A OMS declarou que a dengue possa virar uma \"amea\u00e7a pand\u00eamica\" em 2023. Entenda aqui tudo sobre essa doen\u00e7a, velha conhecida dos brasileiros",
-      "url": "https://guiadoestudante.abril.com.br/estudo/dengue-transmissao-sintomas-tratamento-e-prevencao-leia-aqui/",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/09/05/93121088-untitled-design-22.png",
-      "publishedAt": "2023-09-05 16:44:09",
-      "content": "Hoje, a dengue \u00e9 a doen\u00e7a tropical que mais se espalha no mundo e representa uma \"amea\u00e7a pand\u00eamica\", segundo a Organiza\u00e7\u00e3o Mundial da Sa\u00fade ( OMS). A organiza\u00e7\u00e3o fez um comunicado recente alertando \u2026 [+7331 chars]",
-      "retrievedAt": "2023-09-06 19:05:29.556086",
-      "internal_id": "182a2a9bdcd723062a7e80c7b993bf8a3d4a3de59f3b8772cb6308ca315921d2",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1647,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Dr. Dave Campbell, Contributor, \n Dr. Dave Campbell, Contributor\n https://www.forbes.com/sites/davecampbell/",
-      "title": "Bipartisan Lifesaving AIDS Relief Plan At Risk Due to Pro-Life Opposition",
-      "description": "PEPFAR also targets tuberculosis and malaria, and funding restrictions could allow these diseases to gain a foothold.",
-      "url": "https://www.forbes.com/sites/davecampbell/2023/09/05/bipartisan-lifesaving-aids-relief-plan-at-risk-due-to-pro-life-opposition/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64f752c4d2e2fd9dd61e813e/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-09-05 16:37:38",
-      "content": "Dr. Dave Campbell US President George W. Bush in Abuja, Nigeria. AFP PHOTO TIM SLOAN (Photo credit should read ... [+] TIM SLOAN/AFP via Getty Images) AFP via Getty Images The United States Presid\u2026 [+6131 chars]",
-      "retrievedAt": "2023-09-06 19:05:30.616209",
-      "internal_id": "5d07edf10305cf8944b32d1afcb078567a6b8d3c6bd38baaab8461944f3e8838",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1642,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "\u00daltimas noticias y \u00faltima hora de hoy martes, 5, septiembre 2023 en sociedad",
-      "description": "Si quieres estar al d\u00eda de todas las novedades informativas de hoy, ABC pone a disposici\u00f3n de los lectores un resumen con los mejores titulares del martes, 5 de septiembre que no te puedes perder, como estos: Un menor en Reus, primer caso de dengue aut\u00f3cto\u2026",
-      "url": "https://www.abc.es/ultimas-noticias/abci-noticia-ultima-hora-martes-05-09-2023-sociedad-202309051700_noticia.html",
-      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2023/09/05/dengue-RtOouxuCuvun6akHwnfhMhP-758x531@abc.jpg",
-      "publishedAt": "2023-09-05 15:00:34",
-      "content": "Tu mensaje se ha enviado con \u00e9xito Muchas gracias por tu participaci\u00f3n",
-      "retrievedAt": "2023-09-06 19:05:29.539149",
-      "internal_id": "677896098e1af7eadbfe7ee872e8135b8ce7fbc5dcacb84b710ab4a1e8a54123",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1648,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "2 Cases Of Zika Virus Detected In Mumbai",
-      "description": "A second case of Zika virus has been found in Mumbai, the Brihanmumbai Municipal Corporation (BMC) said on Tuesday. The first case was reported on August 23.",
-      "url": "https://www.ndtv.com/mumbai-news/2-cases-of-zika-virus-detected-in-mumbai-4362622",
-      "urlToImage": "https://c.ndtvimg.com/2018-10/hd49pvno_zika-virus-_625x300_10_October_18.jpg",
-      "publishedAt": "2023-09-05 14:56:34",
-      "content": "No need to panic, Zika infection is a \"self-limiting disease\", said Mumbai civic body (Representational) Mumbai: A second case of Zika virus has been found in Mumbai, the Brihanmumbai Municipal Corp\u2026 [+1172 chars]",
-      "retrievedAt": "2023-09-06 19:05:31.056007",
-      "internal_id": "af04aab62c70d8c02cc1c7d01dbf28b11645f5fcccdeff98cf123a8fd3cde606",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1650,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TIMESOFINDIA.COM",
-      "title": "Mumbai reports second Zika case; 15-year-old girl in hospital and stable: BMC",
-      "description": "A second case of Zika virus has been found in Mumbai.",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-reports-second-zika-case-15-year-old-girl-in-hospital-and-stable-bmc/articleshow/103402869.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103402841,width-1070,height-580,imgsize-16048,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-05 14:45:55",
-      "content": "79-year-old Mumbai's first Zika patient, recovered fullyThe first case of Zika virus infection in the city was confirmed by the BMC on Wednesday. The patient is a 79-year-old man from Chembur who has\u2026 [+25 chars]",
-      "retrievedAt": "2023-09-06 19:05:31.064372",
-      "internal_id": "fad5b28fca42a3c1184048e95b1158152f0eb47ea22fa5e4ba0f52ff21111c87",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1649,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Mumbai reports second Zika case; 15-year-old girl in hospital and stable: BMC",
-      "description": "The girl, who had other comorbidities, complained of fever and headache since August 20 and received treatment from a private hospital, the release said. She was on Tuesday shifted to a government hospital where her condition is stable, the corporation said.",
-      "url": "https://economictimes.indiatimes.com/news/india/mumbai-reports-second-zika-case-15-year-old-girl-in-hospital-and-stable-bmc/articleshow/103402223.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103402223,width-1070,height-580,imgsize-23034,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-05 14:15:34",
-      "content": "A second case of Zika virus has been found in Mumbai, the Brihanmumbai Municipal Corporation (BMC) said on Tuesday. The first case was reported on August 23. The second patient is a 15-year-old girl \u2026 [+1032 chars]",
-      "retrievedAt": "2023-09-06 19:05:31.060084",
-      "internal_id": "95bf7af0fdea8672f73dbed4cb5744bb37bb3d88a1a9b0e7abb6aee0a113e1fd",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1638,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "DIE WELT",
-      "author": "Ricarda Dieckmann",
-      "title": "Dengue-Fieber droht auch in Europa",
-      "description": "Mindestens sieben Menschen haben sich am Gardasee in Norditalien mit Dengue infiziert. L\u00e4ngst kann man sich mit dieser Infektionskrankheit nicht nur in tropischen L\u00e4ndern anstecken. Wichtig ist der richtige Schutz bei Reisen in Risikogebiete.",
-      "url": "https://www.welt.de/wissenschaft/article247308206/Dengue-Fieber-Diese-Infektionskrankheit-droht-auch-in-Europa.html",
-      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile247308204/5801359407-ci16x9-w1200/Was-Reisende-ueber-das-Dengue-Fieber-wissen-sollten.jpg",
-      "publishedAt": "2023-09-05 13:41:04",
-      "content": "M\u00fcckenarten, die das Dengue-Fieber \u00fcbertragen k\u00f6nnen, gibt es in allen tropischen Regionen in Asien, S\u00fcdamerika und Afrika. Doch auch in Europa k\u00f6nnen M\u00fccken Menschen damit infizieren. In diesen Tage\u2026 [+3073 chars]",
-      "retrievedAt": "2023-09-06 19:05:29.527835",
-      "internal_id": "267ba68cc9a63183f3f370a9b30aa2b94713d70000af8e9a35e4310a50448860",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1710,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Un menor en Reus, primer caso de dengue aut\u00f3ctono en Catalu\u00f1a desde 2019",
-      "description": "El departamento de Salud de la Generalitat de Catalu\u00f1a ha confirmado el primer caso de dengue aut\u00f3ctono en Catalu\u00f1a desde 2019. Se trata de un menor de Reus (Tarragona) que estuvo ingresado en el hospital de la localidad y actualmente est\u00e1 dado de alta en su \u2026",
-      "url": "https://www.abc.es/sociedad/confirman-menor-primer-dengue-autoctono-cataluna-2019-20230905143037-nt.html",
-      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2023/09/05/dengue-U26470275735zEw-1024x512@abc.jpg",
-      "publishedAt": "2023-09-05 13:22:15",
-      "content": "El departamento de Salud de la Generalitat de Catalu\u00f1a ha confirmado el primer caso de dengue aut\u00f3ctono en Catalu\u00f1a desde 2019. Se trata de un menor de Reus (Tarragona) que estuvo ingresado en el hos\u2026 [+1666 chars]",
-      "retrievedAt": "2023-09-09 07:05:42.274745",
-      "internal_id": "0f99bf3ec6b84ec18bfeb9c231a39d6213b108e64f0a72341976e88527e398f7",
-      "publishedAtLabel": "Sep 5"
-    },
-    {
-      "id": 1641,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Republica.com",
-      "author": "Rep\u00fablica/EFE",
-      "title": "Un ni\u00f1o en Reus, primer caso de dengue aut\u00f3ctono en Catalu\u00f1a en cuatro a\u00f1os",
-      "description": "Un ni\u00f1o que ingres\u00f3 con fiebre en el Hospital de Sant Joan de D\u00e9u de Reus (Tarragona) y que ya ha sido dado de alta es el primer caso en cuatro a\u00f1os de dengue aut\u00f3ctono en Catalu\u00f1a, ha informado el Departamento de Salud de la Generalitat. El dengue es una enf\u2026",
-      "url": "https://www.republica.com/ciencia-y-tecnologia/un-nino-en-reus-primer-caso-de-dengue-autoctono-en-cataluna-en-cuatro-anos-20230905-14311960866/",
-      "urlToImage": "https://www.republica.com/wp-content/uploads/2023/06/Mosquito.jpg",
-      "publishedAt": "2023-09-05 12:31:15",
-      "content": "Un ni\u00f1o que ingres\u00f3 con fiebre en el Hospital de Sant Joan de D\u00e9u de Reus (Tarragona) y que ya ha sido dado de alta es el primer caso en cuatro a\u00f1os de dengue aut\u00f3ctono en Catalu\u00f1a, ha informado el D\u2026 [+2423 chars]",
-      "retrievedAt": "2023-09-06 19:05:29.536738",
-      "internal_id": "06aa59cae2b68f1312c821500da67095d332ba58bd0b4202e0c02e150faa1ae5",
       "publishedAtLabel": "Sep 5"
     }
   ]
