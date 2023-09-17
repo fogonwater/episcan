@@ -1,8 +1,44 @@
 {
-  "last_updated": "2023-09-17 07:05",
+  "last_updated": "2023-09-17 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 1875,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "Le HuffPost",
+      "title": "Dengue : quels sont les sympt\u00f4mes de cette maladie transmise par le moustique tigre et comment la pr\u00e9venir ?",
+      "description": "Des cas de dengue ont \u00e9t\u00e9 identifi\u00e9s \u00e0 Paris. Comment d\u00e9tecter cette \u00ab grippe tropicale \u00bb ? Quels sont les signes \u00e0 surveiller ? Et y a-t-il un traitement ? On fait le point.",
+      "url": "https://www.huffingtonpost.fr/life/article/dengue-quels-sont-les-symptomes-de-cette-maladie-transmise-par-le-moustique-tigre-et-comment-la-prevenir_223117.html",
+      "urlToImage": "https://huffpost-focus.sirius.press/2023/09/15/531/0/4000/2250/1820/1023/75/0/ff47ee0_1694770031849-moustique.jpeg",
+      "publishedAt": "2023-09-16 15:00:11",
+      "content": "DENGUE - \u00ab La grippe tropicale \u00bb est de retour. Une op\u00e9ration de d\u00e9moustication a \u00e9t\u00e9 organis\u00e9e dans le XVe arrondissement de Paris dans la nuit de vendredi \u00e0 samedi 16 septembre. La cause ? Trois ca\u2026 [+4084 chars]",
+      "retrievedAt": "2023-09-17 19:05:23.135086",
+      "internal_id": "3977b336b112b77332bbed35c9e8aa2d349d478ee9e198ba486ab140c5639076",
+      "publishedAtLabel": "Sep 16"
+    },
+    {
+      "id": 1876,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "aps@aps.sn (APS)",
+      "title": "S\u00e9n\u00e9gal: Tambacounda - 42 cas de chikungunya enregistr\u00c3\u00a9s, un d\u00c3\u00a9c\u00c3\u00a8s",
+      "description": "[APS] Tambacounda -- Quarante-deux cas de chikungunya, parmi lesquels figurent un d\u00e9c\u00e8s, ont \u00e9t\u00e9 enregistr\u00e9s dans la r\u00e9gion de Tambacounda (est), a indiqu\u00e9 vendredi le directeur r\u00e9gional de la sant\u00e9, Dr. Bayal Ciss\u00e9.",
+      "url": "https://fr.allafrica.com/stories/202309160141.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-16 13:25:27",
+      "content": "Tambacounda \u2014 Quarante-deux cas de chikungunya, parmi lesquels figurent un d\u00e9c\u00e8s, ont \u00e9t\u00e9 enregistr\u00e9s dans la r\u00e9gion de Tambacounda (est), a indiqu\u00e9 vendredi le directeur r\u00e9gional de la sant\u00e9, Dr. Ba\u2026 [+2048 chars]",
+      "retrievedAt": "2023-09-17 19:05:24.533341",
+      "internal_id": "678869ab90d655a8322ae76f5210b95267e535dbf11ab7f64970440b57098386",
+      "publishedAtLabel": "Sep 16"
+    },
     {
       "id": 1873,
       "query": [
@@ -3577,42 +3613,6 @@
       "content": "Ahead of the High Holy Days, medical professionals are renewing calls for families to ensure their measles vaccinations are up to date. The plea comes as cases of the disease continue to rise in Lon\u2026 [+2197 chars]",
       "retrievedAt": "2023-09-07 19:05:38.543838",
       "internal_id": "fd124d984a6082f11cda2fd9e14136ebcd4c8097fc441001eb76d969793872a5",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1729,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u099f\u09be\u09a8\u09be \u09a4\u09c3\u09a4\u09c0\u09af\u09bc \u09a6\u09bf\u09a8 \u09a1\u09b2\u09be\u09b0\u09c7\u09b0 \u09ac\u09bf\u09aa\u09b0\u09c0\u09a4\u09c7 \u09ad\u09be\u09b0\u09a4\u09c0\u09df \u09b0\u09c1\u09aa\u09bf\u09b0 \u09a6\u09b0\u09aa\u09a4\u09a8",
-      "description": "\u099f\u09be\u09a8\u09be \u09a4\u09c3\u09a4\u09c0\u09af\u09bc \u09a6\u09bf\u09a8 \u09a1\u09b2\u09be\u09b0\u09c7\u09b0 \u09ac\u09bf\u09aa\u09b0\u09c0\u09a4\u09c7 \u09ad\u09be\u09b0\u09a4\u09c0\u09df \u09b0\u09c1\u09aa\u09bf\u09b0 \u09a6\u09b0\u09aa\u09a4\u09a8thedailystar.net",
-      "url": "https://bangla.thedailystar.net/business/world-economy/india/news-512091",
-      "urlToImage": "https://images-bn.thedailystar.net/sites/default/files/uploads/2023/09/06/untitled_design_-_2023-09-06t195118.709.png",
-      "publishedAt": "2023-09-06 12:47:04",
-      "content": "At least 14 more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
-      "retrievedAt": "2023-09-10 07:05:27.324409",
-      "internal_id": "f0d4467d14121572d59d396c7ca36b21440811a246bd279c6356e1ef9021897e",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1678,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "el-mundo",
-      "source_name": "El Mundo",
-      "author": null,
-      "title": "Muere Naomi Mendoza, futbolista canaria, a los 17 a\u00f1os",
-      "description": "La futbolista canaria Naomi Mendoza ha muerto a los 17 a\u00f1os tras una prolongada fase de coma en la que desemboc\u00f3 el err\u00f3neo diagn\u00f3stico de una meningitis. Una muerte que ha...",
-      "url": "https://www.elmundo.es/deportes/futbol/2023/09/06/64f86b8dfc6c83406b8b45cd.html",
-      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/d13aeba51fd0530d70d6d011f3d0b10a/crop/0x14/1170x794/f/jpg/assets/multimedia/imagenes/2023/09/06/16940038539893.jpg",
-      "publishedAt": "2023-09-06 12:46:55",
-      "content": "La futbolista canaria Naomi Mendoza ha muerto a los 17 a\u00f1os tras una prolongada fase de coma en la que desemboc\u00f3 el err\u00f3neo diagn\u00f3stico de una meningitis. Una muerte que ha consternado al f\u00fatbol fe\u2026 [+957 chars]",
-      "retrievedAt": "2023-09-07 19:05:39.615307",
-      "internal_id": "9ea46d93de0c9a15fb5fd72e4ce59a848e068ffed1f44787cfcc7d8394b4b79e",
       "publishedAtLabel": "Sep 6"
     }
   ]
