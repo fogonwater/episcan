@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-09-17 19:05",
+  "last_updated": "2023-09-18 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 2,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 1877,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Special Mosquitoes Being Bred to Fight Dengue",
+      "description": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to control the disease \u2014 and it goes against everything they've learn\u2026",
+      "url": "https://www.voanews.com/a/special-mosquitoes-being-bred-to-fight-dengue/7267919.html",
+      "urlToImage": "https://gdb.voanews.com/21341308-6C7F-4FB2-A0E1-C12D88AD5FD0.jpg",
+      "publishedAt": "2023-09-17 06:55:46",
+      "content": "TEGUCIGALPA, Honduras For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more \u2026 [+9099 chars]",
+      "retrievedAt": "2023-09-18 07:05:46.218739",
+      "internal_id": "e0efb0cb0600c91e72c32f571dd8c2da0c12bbada2f15887a04f9f31ad6a85d3",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 1880,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "By MAAYAN JAFFE-HOFFMAN",
+      "title": "Ethiopia's warming may trigger year-round malaria in Addis Ababa - study",
+      "description": "According to the report, the city\u2019s extreme daily maximum temperature would increase by about 1.7\u00b0 Celsius by 2060.",
+      "url": "https://www.jpost.com/environment-and-climate-change/article-759417",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/552968",
+      "publishedAt": "2023-09-17 06:23:41",
+      "content": "Ethiopian residents of Addis Ababa could be at risk of year-round malaria transmission if average daily temperatures continue to rise, an Ethiopian post-doctoral student living in the United States w\u2026 [+3739 chars]",
+      "retrievedAt": "2023-09-18 07:05:46.838830",
+      "internal_id": "0f7cf502611cb7fd33b333a0622a1dbf4d9d612a4cc7f5b397b3ea06ed470faf",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 1878,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Morgan Barthelemy",
+      "title": "Comment le virus de la dengue arrive en France",
+      "description": "Avec le tourisme et le dereglement climatique, la dengue accelere sa propagation. Desormais, Antilles francaises et metropole sont liees lors des pics epidemiques.",
+      "url": "https://www.lepoint.fr/sante/comment-le-virus-de-la-dengue-arrive-en-france-17-09-2023-2535696_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2023/09/17/25198230lpw-25198427-mega-une-jpg_9771672.jpg",
+      "publishedAt": "2023-09-17 05:00:00",
+      "content": "Fi\u00e8vre, douleurs musculaires, vomissements, saignements Entre le 21 ao\u00fbt et le 3 septembre dernier, l'agence Sant\u00e9 publique France a enregistr\u00e9 une flamb\u00e9e des cas de dengue dans l'archipel des Antil\u2026 [+6110 chars]",
+      "retrievedAt": "2023-09-18 07:05:46.228129",
+      "internal_id": "8181b317fdf4b045f7b8cf02d3545e840ffd3ab11ac1080cb642ae349475e6cf",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 1879,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "El n\u00famero de muertos por dengue en Bangladesh alcanza los 800",
+      "description": "Con 14 fallecidos en las \u00faltimas 24 horas, el n\u00famero de muertes por dengue de este a\u00f1o en Bangladesh ha alcanzado ya las 804 personas, seg\u00fan los datos de la Direcci\u00f3n General de Servicios de Salud (DGHS) del pa\u00eds.",
+      "url": "https://www.europapress.es/internacional/noticia-numero-muertos-dengue-bangladesh-alcanza-800-20230917063807.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230917063807_1200.jpg",
+      "publishedAt": "2023-09-17 04:38:07",
+      "content": "MADRID, 17 Sep. (EUROPA PRESS) - Con 14 fallecidos en las \u00faltimas 24 horas, el n\u00famero de muertes por dengue de este a\u00f1o en Bangladesh ha alcanzado ya las 804 personas, seg\u00fan los datos de la Direcc\u2026 [+1718 chars]",
+      "retrievedAt": "2023-09-18 07:05:46.230888",
+      "internal_id": "c7dcf1d45dfdc1b7a500dfb6bb116fdff9490974a2b9859f546b56891baca5f4",
+      "publishedAtLabel": "Sep 17"
+    },
     {
       "id": 1875,
       "query": [
@@ -3541,78 +3613,6 @@
       "content": "Abstract Background The World Health Organization recommends that primaquine should be given once weekly for 8-weeks to patients with Plasmodium vivax malaria and glucose-6-phosphate dehydrogenase \u2026 [+39013 chars]",
       "retrievedAt": "2023-09-07 19:05:40.416742",
       "internal_id": "25cc17572594ff46e2aa39b4a8541500d1f18cd5febb0c6ebfe8cc7a301aa11d",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1680,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Marie Moinet, Hedwich Oosterhof, Shahista Nisa, Neville Haack, David A. Wilkinson, Danielle Aberdein, James C. Russell, Emilie Vall\u00e9e, Julie Collins-Emerson, Cord Heuer, Jackie Benschop",
-      "title": "A cross-sectional investigation of Leptospira at the wildlife-livestock interface in New Zealand",
-      "description": "Author summary Leptospirosis is a bacterial disease that can be transmitted through the urine of infected animals. Recently, the number of human cases of leptospirosis in New Zealand has increased, and wildlife is suspected to be an emerging source. To better\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011624",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011624.g002&size=inline",
-      "publishedAt": "2023-09-06 14:00:00",
-      "content": "Introduction Leptospirosis is a zoonosis caused by pathogenic bacteria of the genus Leptospira affecting a wide range of vertebrates worldwide. The advent of genomic methods has shed light on this c\u2026 [+38192 chars]",
-      "retrievedAt": "2023-09-07 19:05:42.230344",
-      "internal_id": "d385e193f550cee91538d46a7036b601ee63fd6be21c79f58d00415a39f15d33",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1674,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Muere a los 17 a\u00f1os la futbolista canaria Naomi Mendoza",
-      "description": "Conmoci\u00f3n en el f\u00fatbol canario por la muerte de la joven futbolista Naomi Mendoza, de 17 a\u00f1os . La portera se encontraba en coma despu\u00e9s de sufrir las complicaciones de una meningitis que le sobrevino de forma repentina hace unas semanas. C\u00f3digo Desktop Siemp\u2026",
-      "url": "https://www.abc.es/deportes/futbol/muere-anos-futbolista-canaria-naomi-mendoza-20230906155414-nt.html",
-      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2023/09/06/noemi-kRj--1024x512@abc.jpg",
-      "publishedAt": "2023-09-06 13:54:15",
-      "content": "Conmoci\u00f3n en el f\u00fatbol canario por la muerte de la joven futbolista Naomi Mendoza, de 17 a\u00f1os. La portera se encontraba en coma despu\u00e9s de sufrir las complicaciones de una meningitis que le sobrevin\u2026 [+646 chars]",
-      "retrievedAt": "2023-09-07 19:05:39.604631",
-      "internal_id": "d2df6b3554b8e671297902cdf9d6f3f6f9dc13f6c9238b6d757cb96d09a83bfc",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1730,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1: \u0986\u099c \u09e7\u09ea \u099c\u09a8\u09c7\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1, \u09b9\u09be\u09b8\u09aa\u09be\u09a4\u09be\u09b2\u09c7 \u09e8\u09e7\u09e7\u09eb",
-      "description": "\u098f \u09a8\u09bf\u09df\u09c7 \u099a\u09b2\u09a4\u09bf \u09ac\u099b\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u09ae\u09cb\u099f \u09ec\u09ed\u09e7 \u099c\u09a8 \u09ae\u09be\u09b0\u09be \u0997\u09c7\u09b2\u09c7\u09a8\u0964 \u098f\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u09ea\u09ee\u09ec \u099c\u09a8 \u09a2\u09be\u0995\u09be\u09b0\u0964",
-      "url": "https://bangla.thedailystar.net/health/disease/news-512106",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/11/09/dengue-story_ds.jpg?itok=lkMIaw5K",
-      "publishedAt": "2023-09-06 13:45:18",
-      "content": "At least 14 more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
-      "retrievedAt": "2023-09-10 07:05:27.325943",
-      "internal_id": "5e990750c581c0e70bbcf10d84b4c9d105bef83b76d51056a93dce6f0bf14895",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1667,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Jewishnews.co.uk",
-      "author": null,
-      "title": "Health professionals push for measles vaccinations as cases soar",
-      "description": "Unprotected children could be at risk of contracting the extremely infectious disease at family gatherings over Rosh Hashanah",
-      "url": "https://www.jewishnews.co.uk/health-professionals-push-for-measles-vaccinations-as-cases-soar/",
-      "urlToImage": "https://static.jewishnews.co.uk/jewishnews/uploads/2023/09/Personal-child_health_record-redbook.jpg-1024x640.jpeg",
-      "publishedAt": "2023-09-06 12:55:38",
-      "content": "Ahead of the High Holy Days, medical professionals are renewing calls for families to ensure their measles vaccinations are up to date. The plea comes as cases of the disease continue to rise in Lon\u2026 [+2197 chars]",
-      "retrievedAt": "2023-09-07 19:05:38.543838",
-      "internal_id": "fd124d984a6082f11cda2fd9e14136ebcd4c8097fc441001eb76d969793872a5",
       "publishedAtLabel": "Sep 6"
     }
   ]
