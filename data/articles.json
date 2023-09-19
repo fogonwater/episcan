@@ -1,8 +1,296 @@
 {
-  "last_updated": "2023-09-18 19:05",
+  "last_updated": "2023-09-19 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 1891,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Dengue patients of countryside in great trouble",
+      "description": "The dengue patients in the countryside have got into deep trouble due to manyfold problems, including lack of facilities for better treatment and saline and test kit crises. The problems have been deepened as health authorities have asked local health officia\u2026",
+      "url": "https://sylhetmirror.com/2023/09/18/dengue-patients-of-countryside-in-great-trouble/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/09/776651-1.jpg",
+      "publishedAt": "2023-09-18 06:50:19",
+      "content": "The dengue patients in the countryside have got into deep trouble due to manyfold problems, including lack of facilities for better treatment and saline and test kit crises. The problems have been d\u2026 [+3966 chars]",
+      "retrievedAt": "2023-09-19 07:05:42.367393",
+      "internal_id": "32262666c31ad44f3282ef1f912703f8943a98e31f8f9ef5134828beb5bad319",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 1896,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El cambio clim\u00e1tico y los conflictos ralentizan los avances en la lucha contra el sida, la tuberculosis y la malaria",
+      "description": "A pesar de los numerosos avances en la lucha contra el VIH, la tuberculosis y la malaria despu\u00e9s de haber perdido terreno por la pandemia de Covid-19, el \u00faltimo Informe 2023 de resultados del Fondo Mundial (FM) muestra que existen m\u00faltiples desaf\u00edos como el c\u2026",
+      "url": "https://www.infosalus.com/actualidad/noticia-cambio-climatico-conflictos-ralentizan-avances-lucha-contra-sida-tuberculosis-malaria-20230918070452.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230918070452_1200.jpg",
+      "publishedAt": "2023-09-18 05:04:52",
+      "content": "MADRID, 18 Sep. (EUROPA PRESS) - A pesar de los numerosos avances en la lucha contra el VIH, la tuberculosis y la malaria despu\u00e9s de haber perdido terreno por la pandemia de Covid-19, el \u00faltimo In\u2026 [+7139 chars]",
+      "retrievedAt": "2023-09-19 07:05:43.374618",
+      "internal_id": "e943322b60d1861310acbe2b9afdc330d21810dccaa96257ce96cf9721986c8a",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 1889,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Hindustan Times",
+      "author": "Zarafshan Shiraz",
+      "title": "Dengue: Top tips to prevent and protect yourself amid record fever outbreak",
+      "description": "Protection against dengue is crucial, especially in India and Bangladesh where cases are rising amid worst-ever dengue fever outbreak. Here are some top tips | Health",
+      "url": "https://www.hindustantimes.com/lifestyle/health/dengue-top-tips-to-prevent-and-protect-yourself-amid-record-fever-outbreak-101695009518955.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/18/1600x900/PMC-has-reported-47-dengue-cases-and-7-chikungunya_1693676888851_1695009689977.jpg",
+      "publishedAt": "2023-09-18 04:30:07",
+      "content": "Health departments in India and Bangladesh have swung into action after dengue cases surge amidst heavy rainfall this monsoon, with over 7,000 dengue cases reported in Karnataka, nearly 3,475 dengue \u2026 [+4392 chars]",
+      "retrievedAt": "2023-09-19 07:05:42.361229",
+      "internal_id": "bb7e3db8e869601eee1c000407964421ee4610a67dc12d4a79cd897f66ba3041",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 1887,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Myggor ska stoppa denguefeber",
+      "description": "Ont ska med ont f\u00f6rdrivas. I ett projekt i Honduras testas nu en ovanlig metod f\u00f6r att f\u00e5 bukt med den tropiska infektionssjukdomen denguefeber. Viruset som spr",
+      "url": "https://www.aftonbladet.se/nyheter/a/y6jmrK/myggor-ska-stoppa-denguefeber",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/e86b5f9b-4c27-4975-b641-2225f51f2fb6?fit=crop&format=auto&h=1267&q=50&w=1900&s=028730d10fa1f0bf2d649f31c5757bd0ab1e4fa0",
+      "publishedAt": "2023-09-18 04:25:05",
+      "content": "Edgard Boqu\u00edn, projektledare p\u00e5 L\u00e4kare utan gr\u00e4nser, studerar burken med myggor som snart ska sl\u00e4ppas ut i Tegucigalpa i Honduras. Myggorna b\u00e4r p\u00e5 bakterien Wolbachia som hindrar att myggan f\u00f6r vidar\u2026 [+2303 chars]",
+      "retrievedAt": "2023-09-19 07:05:42.351059",
+      "internal_id": "38bb1224e0df4309d08b49c62ec4ebce87ddbddc5820798de76bb60638c6b9d1",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 1897,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "Christine Leitner",
+      "title": "Bilanz des Global Fund: Bis 2030 sollen Malaria, HIV und Tuberkulose ausgerottet sein. Doch das Ziel scheint unerreichbar",
+      "description": "Eine Welt ohne Malaria und Co. klingt utopisch. Die Organisation Global Fund h\u00e4lt das dennoch f\u00fcr realistisch \u2013 obwohl bereits die Zwischenziele verfehlt wurden und der Klimawandel den Kampf zus\u00e4tzlich erschwert.",
+      "url": "https://www.stern.de/gesundheit/malaria-und-co--bald-ausgerottet--bericht-gibt-wenig-grund-zu-optimismus-33829932.html",
+      "urlToImage": "https://image.stern.de/33833800/t/kS/v4/w1440/r1.7778/-/malaria-moskitonetz.jpg",
+      "publishedAt": "2023-09-18 04:06:00",
+      "content": "Bis 2030 sollen Malaria, HIV und Tuberkulose ausgerottet sein. Das Ziel der Weltgesundheitsorganisation (WHO) erscheint utopisch, ist aber nach Einsch\u00e4tzung des Chefs des Global Funds, Peter Sands, n\u2026 [+4507 chars]",
+      "retrievedAt": "2023-09-19 07:05:43.378766",
+      "internal_id": "57de18f7c16064b159f3677a4c5376751e74a7678b277df9b4136adb06ebcc36",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 1902,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Stability of Monkeypox Virus in Body Fluids and Wastewater",
+      "description": "Stability of Monkeypox Virus",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/10/23-0824_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-09-18 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Human mpox is an infectiou\u2026 [+21440 chars]",
+      "retrievedAt": "2023-09-19 07:05:44.293867",
+      "internal_id": "24ce33142e0157d5b798c436e4f185f87206a85d5116321a129d459a1f4cd86b",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 1890,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Zee Bihar-jharkhand Web Team",
+      "title": "Dengue Alert in Bihar:\u0932\u0916\u0940\u0938\u0930\u093e\u092f \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092c\u0922\u093c\u0924\u0947 \u092a\u094d\u0930\u0915\u094b\u092a \u0915\u094b \u0932\u0947\u0915\u0930 \u0928\u0917\u0930 \u092a\u0930\u093f\u0937\u0926 \u0905\u0932\u0930\u094d\u091f, \u0915\u0930\u093e\u092f\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948 \u092b\u0949\u0917\u093f\u0902\u0917 \u0914\u0930 \u091b\u093f\u0921\u093c\u0915\u093e\u0935",
+      "description": "Dengue Alert in Bihar: \u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u090f\u0915 \u092c\u093e\u0930 \u092b\u093f\u0930 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u092c\u0922\u093c\u0928\u0947 \u0932\u0917\u0940 \u0939\u0948. \u0907\u0938\u0938\u0947 \u092c\u091a\u093e\u0935 \u0915\u0947 \u0932\u093f\u090f \u092c\u093f\u0939\u093e\u0930 \u0915\u0947 \u0939\u0930 \u091c\u093f\u0932\u0947 \u092e\u0947\u0902 \u0928\u0917\u0930 \u0928\u093f\u0917\u092e \u0926\u094d\u0935\u093e\u0930\u093e \u092f\u0941\u0926\u094d\u0927 \u0938\u094d\u0924\u0930 \u092a\u0930 \u092b\u0949\u0917\u093f\u0902\u0917 \u0914\u0930 \u090f\u0902\u091f\u0940 \u0932\u093e\u0930\u094d\u0935\u093e \u0915\u093e \u091b\u093f\u0921\u093c\u0915\u093e\u0935 \u0915\u093f\u092f\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948.",
+      "url": "https://zeenews.india.com/hindi/india/bihar-jharkhand/health/dengue-alert-in-bihar-municipal-council-alert-in-lakhisarai-fogging-and-spraying-is-being-done/1876495",
+      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/09/18/2200528-dengue.jpg",
+      "publishedAt": "2023-09-18 03:41:39",
+      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+357 chars]",
+      "retrievedAt": "2023-09-19 07:05:42.363949",
+      "internal_id": "c19e7141fa81fcc6240226166c1e2e0fa32052d9a1649fbecc421909998a1e74",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 1899,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Climate change hitting fight against AIDS, TB and malaria - AOL",
+      "description": "Climate change hitting fight against AIDS, TB and malariaAOL View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171845102",
+      "urlToImage": null,
+      "publishedAt": "2023-09-18 01:12:08",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
+      "retrievedAt": "2023-09-19 07:05:43.386577",
+      "internal_id": "ce92e933f0fa47eb3732eaf0d8aac6815d85cd3eee80561a7ca23afda408fac3",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 1894,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.ad.nl",
+      "author": "Buitenlandredactie",
+      "title": "Rapport: Klimaatverandering belemmert strijd tegen dodelijke ziektes",
+      "description": "Klimaatverandering en conflicten belemmeren de inspanningen om drie van \u2018s wereld meest dodelijke ziektes aan te pakken, waarschuwt het hoofd van het Global Fund. Dit wereldwijde fonds bestrijdt aids, tuberculose en malaria.",
+      "url": "https://www.ad.nl/buitenland/rapport-klimaatverandering-belemmert-strijd-tegen-dodelijke-ziektes~a546400f/",
+      "urlToImage": "https://images0.persgroep.net/rcs/fE83dNB5lbKAYS7X5LdF60tscvg/diocontent/235318226/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
+      "publishedAt": "2023-09-17 23:48:05",
+      "content": "Internationale initiatieven om de ziekten te bestrijden werden de afgelopen jaren zwaar getroffen door de Covid-19-pandemie, maar zijn inmiddels grotendeels hersteld, zo blijkt uit het rapport van he\u2026 [+1610 chars]",
+      "retrievedAt": "2023-09-19 07:05:43.368418",
+      "internal_id": "4fcd7f8573a024b10b5afda5edd01a7464c586860225167971f457043b742310",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 1898,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.hln.be",
+      "author": "JAH",
+      "title": "Klimaatverandering belemmert strijd tegen dodelijke ziektes",
+      "description": "Klimaatverandering en conflicten belemmeren de inspanningen om drie van \u2018s wereld meest dodelijke ziektes aan te pakken, waarschuwt het hoofd van het Global Fund. Dit wereldwijde fonds bestrijdt aids, tuberculose en malaria.",
+      "url": "https://www.hln.be/wetenschap-en-planeet/klimaatverandering-belemmert-strijd-tegen-dodelijke-ziektes~a89cf268/",
+      "urlToImage": "https://images0.persgroep.net/rcs/1Rf2AoAn631XQUIcYkIdVk5g0Z4/diocontent/235035076/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
+      "publishedAt": "2023-09-17 23:04:00",
+      "content": "Internationale initiatieven om de ziekten te bestrijden zijn grotendeels hersteld na zwaar getroffen te zijn door de Covid-19-pandemie, blijkt uit het rapport van het Global Fund voor 2023 dat maanda\u2026 [+890 chars]",
+      "retrievedAt": "2023-09-19 07:05:43.382953",
+      "internal_id": "d9c99236d3a724879b725e85f8178ecaa07180cbbf4a5a8c1ce6fa033d270219",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 1888,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "FATIMAH ZAINAL, HO JIA WEN",
+      "title": "Everyone must do their part",
+      "description": "PETALING JAYA: With the number of dengue cases this year projected to break a new record, health experts say a whole of society approach is what it takes to contain the surge. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/09/18/everyone-must-do-their-part",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/18/2289901.jpg",
+      "publishedAt": "2023-09-17 23:00:00",
+      "content": "'CLICK TO ENLARGE' PETALING JAYA: With the number of dengue cases this year projected to break a new record, health experts say a whole of society approach is what it takes to contain the surge. Th\u2026 [+4580 chars]",
+      "retrievedAt": "2023-09-19 07:05:42.358120",
+      "internal_id": "7e6c95c6fb4bc9ded52d806f1eb1f838d3af77f591fe78835c60444aba830e00",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 1901,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "reuters",
+      "source_name": "Reuters",
+      "author": "Jennifer Rigby",
+      "title": "Climate change hitting fight against AIDS, TB and malaria",
+      "description": "Climate change and conflict are hitting efforts to tackle three of the world's deadliest infectious diseases, the head of the Global Fund to Fight AIDS, Tuberculosis and Malaria has warned.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/climate-change-hitting-fight-against-aids-tb-malaria-2023-09-17/",
+      "urlToImage": "https://www.reuters.com/resizer/g8_hdCNvepcBJ5VQ79CSzcLyAmM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GGLI4TKW3FMJHIGEYUJEXHXFCM.jpg",
+      "publishedAt": "2023-09-17 22:15:13",
+      "content": "LONDON, Sept 18 (Reuters) - Climate change and conflict are hitting efforts to tackle three of the world's deadliest infectious diseases, the head of the Global Fund to Fight AIDS, Tuberculosis and M\u2026 [+2356 chars]",
+      "retrievedAt": "2023-09-19 07:05:43.391578",
+      "internal_id": "068890faf182b9d946c579c9a12f98fd6090837754606e760e29424e6bd6afa6",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 1900,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Jennifer Rigby",
+      "title": "Climate change hitting fight against AIDS, TB and malaria",
+      "description": "LONDON (Reuters) - Climate change and conflict are hitting efforts to tackle three of the world's deadliest infectious diseases, the head of the Global Fund to Fight AIDS, Tuberculosis and Malaria has warned. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2023/09/18/climate-change-hitting-fight-against-aids-tb-and-malaria",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/18/2289892.jpg",
+      "publishedAt": "2023-09-17 22:12:00",
+      "content": "LONDON (Reuters) - Climate change and conflict are hitting efforts to tackle three of the world's deadliest infectious diseases, the head of the Global Fund to Fight AIDS, Tuberculosis and Malaria ha\u2026 [+1805 chars]",
+      "retrievedAt": "2023-09-19 07:05:43.388369",
+      "internal_id": "3453d3a8a219406326d9973fa0fdf1279b03b1fb9a05d07fcd4c513d6484f52b",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 1895,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "Climate change hitting fight against AIDS, TB and malaria",
+      "description": "Climate change hitting fight against AIDS, TB and malaria",
+      "url": "https://www.investing.com/news/coronavirus/climate-change-hitting-fight-against-aids-tb-and-malaria-3176132",
+      "urlToImage": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg",
+      "publishedAt": "2023-09-17 22:10:39",
+      "content": "By Jennifer Rigby LONDON (Reuters) - Climate change and conflict are hitting efforts to tackle three of the world's deadliest infectious diseases, the head of the Global Fund to Fight AIDS, Tubercul\u2026 [+1765 chars]",
+      "retrievedAt": "2023-09-19 07:05:43.372162",
+      "internal_id": "0d2045e8f4c5b113972823f7d5680d7fd8b08a7e2d4b95edef0b59aed94b0bac",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 1893,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Nina Stefanovski",
+      "title": "Door verandering van het klimaat ontstaan er steeds meer malariagebieden",
+      "description": "Klimaatverandering: Infectieziekten als malaria, tuberculose en hiv zullen zich als gevolg van klimaatverandering makkelijker over de wereld verspreiden, blijkt uit een rapport van het wereldfonds ter bestrijding van die ziekten.",
+      "url": "https://www.nrc.nl/nieuws/2023/09/17/door-verandering-van-het-klimaat-ontstaan-er-steeds-meer-malariagebieden-a4174667",
+      "urlToImage": "https://images.nrc.nl/SvNYqfHKywWLSix1GX435M18BZM=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data105438861-a31b91.jpg",
+      "publishedAt": "2023-09-17 22:01:10",
+      "content": "Klimaatverandering en politieke conflicten bemoeilijken het terugdringen van hiv, tuberculose en malaria. Het doel om in 2030 een einde te maken aan deze infectieziekten lijkt niet haalbaar. Dat mel\u2026 [+5233 chars]",
+      "retrievedAt": "2023-09-19 07:05:43.365422",
+      "internal_id": "031f8bbab380713472472de1f2fa39110619f43bd2c74a7f23251941c1717e0f",
+      "publishedAtLabel": "Sep 17"
+    },
+    {
+      "id": 1892,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Martha Casas",
+      "title": "Meningitis en Durango: Hospital de la \u2018zona cero\u2019 pagar\u00e1 40 millones de pesos por indemnizaci\u00f3n",
+      "description": "El Hospital del Parque, donde comenzaron los contagios de meningitis en Durango, pagar\u00e1 una millonaria indemnizaci\u00f3n.",
+      "url": "https://www.elfinanciero.com.mx/estados/2023/09/17/meningitis-en-durango-hospital-de-la-zona-cero-pagara-40-millones-de-pesos-por-indemnizacion/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/x29gZiB545YfnzvqidAvweO1Cs8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HXMYXNURHRFEVHZ25IX4BCMJIU.jpeg",
+      "publishedAt": "2023-09-17 20:58:27",
+      "content": "A un a\u00f1o de los primeros casos de meningitis f\u00fangica en Durango, los da\u00f1os son cuantiosos, mientras se siguen las v\u00edas legales y hay detenidos, el Hospital del Parque, considerado como la zona cero, \u2026 [+2526 chars]",
+      "retrievedAt": "2023-09-19 07:05:42.855733",
+      "internal_id": "e699f836ae90a62f364c358148b0531bbd9c7b113f934191e817f146492be3f3",
+      "publishedAtLabel": "Sep 17"
+    },
     {
       "id": 1882,
       "query": [
@@ -3324,296 +3612,6 @@
       "retrievedAt": "2023-09-08 19:05:22.116072",
       "internal_id": "7c1a36233d0acbb386f425aafd12e30e002f7702a54c8f288af9820be909d9b9",
       "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1693,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "Amandine Brioude",
-      "title": "Ard\u00e8che. Apr\u00e8s un cas de dengue \u00e0 Cornas, une op\u00e9ration anti-moustiques sera men\u00e9e cette nuit",
-      "description": "Un habitant de Cornas est rentr\u00e9 de voyage en ayant contract\u00e9 la dengue, maladie virale transmise par le moustique tigre. L\u2019Agence r\u00e9gionale de sant\u00e9 (ARS) va mener une op\u00e9ration de d\u00e9moustication en centre-village dans la nuit du jeudi 7 au vendredi 8 septem\u2026",
-      "url": "https://www.ledauphine.com/sante/2023/09/07/apres-un-cas-de-dengue-a-cornas-une-operation-anti-moustiques-sera-menee-cette-nuit",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/13E57A86-ABCE-40D2-8B6F-BE552DB8290D/FB1200/photo-1694082915.jpg",
-      "publishedAt": "2023-09-07 10:38:00",
-      "content": "Les habitants du centre-village de Cornas sont invit\u00e9s \u00e0 fermer leurs fen\u00eatres cette nuit. Une op\u00e9ration de d\u00e9moustication est pr\u00e9vue dans la nuit de ce jeudi 7 \u00e0 ce vendredi 8 septembre apr\u00e8s quun h\u2026 [+704 chars]",
-      "retrievedAt": "2023-09-08 19:05:22.111684",
-      "internal_id": "3de21f36142e5924acef3d7ae7dd750074d7e90c51c2f790267151c39846892a",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1689,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Moneycontrol",
-      "author": "Hindi.Moneycontrol.com Team, Moneycontrol Hindi",
-      "title": "Rabies Infection: \u0915\u0941\u0924\u094d\u0924\u093e \u0939\u0940 \u0928\u0939\u0940\u0902 \u092f\u0947 \u091c\u093e\u0928\u0935\u0930 \u092d\u0940 \u092b\u0948\u0932\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0930\u0947\u092c\u0940\u091c, \u091c\u093e\u0928\u0947\u0902 \u0907\u0938\u0915\u0947 \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u0915\u093f\u0924\u0928\u0940 \u0916\u0924\u0930\u0928\u093e\u0915 \u0939\u0948 \u092f\u0939 \u092c\u0940\u092e\u093e\u0930\u0940",
-      "description": "Rabies Infection: \u0915\u0941\u0924\u094d\u0924\u0947 \u0915\u093e \u0915\u093e\u091f\u0928\u093e \u0915\u093e\u092b\u0940 \u0916\u0924\u0930\u0928\u093e\u0915 \u0939\u094b\u0924\u093e \u0939\u0948\u0964 \u0917\u0932\u0940-\u092e\u0941\u0939\u0932\u094d\u0932\u0947 \u0914\u0930 \u0938\u0921\u093c\u0915 \u092a\u0930 \u0918\u0942\u092e\u0924\u0947 \u0915\u0941\u0924\u094d\u0924\u0947 \u0905\u0915\u094d\u0938\u0930 \u0906\u0924\u0947-\u091c\u093e\u0924\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u0915\u093e\u091f \u0932\u0947\u0924\u0947 \u0939\u0948\u0902\u0964 \u092a\u0948\u0930 \u092f\u093e \u0936\u0930\u0940\u0930 \u0915\u0947 \u0915\u093f\u0938\u0940 \u092d\u0940 \u0905\u0902\u0917 \u092e\u0947\u0902 \u0915\u093e\u091f \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964 \u0910\u0938\u0947 \u092e\u0947\u0902 \u0905\u0917\u0930 \u0915\u0941\u0924\u094d\u0924\u094b\u0902 \u092e\u0947\u0902 \u091c\u0939\u0930 \u0916\u0924\u094d\u092e \u0915\u0930\u0928\u0947 \u0915\u093e \u091f\u0940\u0915\u093e \u0928 \u0932\u0917\u093e \u0939\u094b \u0924\u094b \u0935\u0939 \u091c\u094d\u092f\u093e\u0926\u093e \u0916\u0924\u0930\u0928\u093e\u0915 \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948\u2026",
-      "url": "https://hindi.moneycontrol.com/news/india/trends/rabies-infection-what-to-do-after-dog-monkey-horse-fox-bite-know-symptoms-treatment-1470881.html",
-      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2023/09/DogB-637x435.jpg",
-      "publishedAt": "2023-09-07 10:20:49",
-      "content": "Rabies Infection: - - (Dog Bite Injection) , , , 1 3 , 24 5 24 , 7 , 14 28 - ,",
-      "retrievedAt": "2023-09-08 19:05:21.420720",
-      "internal_id": "96004a794f108e9d7ea8b86f7b29bf2659a1437ab6f7ff2d4c35505064c81c7b",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1698,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Bethlehem Feleke, Larry Madowo",
-      "title": "Kenya's hard won gains against malaria threatened by surging temperatures",
-      "description": "There are fears that the deadly disease is spreading to new communities in the country -- and just at a time when the development of the world's first mosquito vaccine is raising hopes malaria could one day be eradicated.",
-      "url": "https://www.cnn.com/2023/09/07/africa/malaria-mosquitoes-kenya-climate-change-intl/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230906154603-01-malaria-kenya-mosquitoes-climate-intl.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-09-07 08:36:15",
-      "content": "Mary Achiengs family is in the malaria ward at Nightingale Hospital in western Kenya almost every month. On this visit in late August, shes being treated along with her two sons, aged 4 and 12. All t\u2026 [+4946 chars]",
-      "retrievedAt": "2023-09-08 19:05:22.943642",
-      "internal_id": "0bc03f82ac8f1dc004b079ddaf12f4cdb7848ec4deda46cbda13a7131fd313fc",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1688,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": "Manya Singh",
-      "title": "Rabies: Signs, Treatment & How To Prevent Animal Bites",
-      "description": "Below we discuss the signs, treatments, and prevention tips for rabies.",
-      "url": "https://doctor.ndtv.com/living-healthy/rabies-signs-treatment-how-to-prevent-animal-bites-4367684",
-      "urlToImage": "https://c.ndtvimg.com/2022-10/2vffr38g_anti-rabies-_625x300_18_October_22.jpg",
-      "publishedAt": "2023-09-07 08:11:26",
-      "content": "Rabies is a viral disease that primarily affects mammals, including humans. It is caused by the rabies virus and is usually transmitted through the bite or scratch of an infected animal. The virus af\u2026 [+4022 chars]",
-      "retrievedAt": "2023-09-08 19:05:21.410017",
-      "internal_id": "117c19845918adb27ebe9ec4e1d3b6ff7e8d2fef7c142e23c2d6dca73e0b763c",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1683,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Helen Regan",
-      "title": "Bangladesh's worst ever dengue outbreak a 'canary in the coal mine' for climate crisis, WHO expert warns",
-      "description": "Bangladesh is battling its worst dengue outbreak on record, with more than 600 people killed and 135,000 cases reported since April, the World Health Organization said Wednesday, as one of its experts blamed the climate crisis and El Nino weather pattern for \u2026",
-      "url": "https://www.cnn.com/2023/09/07/asia/who-bangladesh-worst-dengue-outbreak-climate-scn-intl-hnk/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230906230100-01-bangladesh-dengue-090623.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-09-07 05:07:57",
-      "content": "Bangladesh is battling its worst dengue outbreak on record, with more than 600 people killed and 135,000 cases reported since April, the World Health Organization said Wednesday, as one of its expert\u2026 [+4583 chars]",
-      "retrievedAt": "2023-09-08 07:06:01.527735",
-      "internal_id": "630e12b902ce6c10a389445a6f83c2a199962dfca0e2669b7846468fffdfb187",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1686,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ANI",
-      "title": "\"No one can challenge our Dharma\": Smriti Irani on Udhayanidhi Stalin's remarks",
-      "description": "The Union Minister took a dig at Udhayanidhi Stalin and those who supported his \"Sanatan Dharma\" remark at the Janmashtami celebration in Delhi's Dwarka. \"Our voices must reach those people who challenged 'Sanatan Dharma'. Till devotees are alive, no one can \u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/no-one-can-challenge-our-dharma-smriti-irani-on-udhayanidhi-stalins-remarks/articleshow/103455051.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103455096,width-1070,height-580,imgsize-17548,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-07 05:01:13",
-      "content": "Coming down heavily on DMK leader and Tamil Nadu minister Udhayanidhi Stalin for his remark equating 'Sanatan Dharma' with \"mosquitoes, dengue, malaria, fever and corona\", Union Minister Smriti Irani\u2026 [+1576 chars]",
-      "retrievedAt": "2023-09-08 07:06:01.547081",
-      "internal_id": "a18d77be5ec5519ca0a3097bf83ea156aaa87e7bc9d0b6905b10ce71ae26ad8f",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1684,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "\"No One Can Challenge Our Dharma\": Smriti Irani On 'Sanatana' Remark",
-      "description": "Coming down heavily on DMK leader and Tamil Nadu minister Udhayanidhi Stalin for his remark equating 'Sanatana Dharma' with \"mosquitoes, dengue, malaria, fever and corona\", Union Minister Smriti Irani on Wednesday said that the",
-      "url": "https://www.ndtv.com/india-news/no-one-can-challenge-our-dharma-smriti-irani-on-dmk-leader-udhayanidhi-stalins-sanatana-remark-4367087",
-      "urlToImage": "https://c.ndtvimg.com/2023-08/tf0h5sdg_smriti-irani-lok-sabha-650_650x400_09_August_23.jpg",
-      "publishedAt": "2023-09-07 04:25:44",
-      "content": "\"Our voices must reach those people who challenged 'Sanatans Dharma'.\" New Delhi: Coming down heavily on DMK leader and Tamil Nadu minister Udhayanidhi Stalin for his remark equating 'Sanatana Dharm\u2026 [+1697 chars]",
-      "retrievedAt": "2023-09-08 07:06:01.537958",
-      "internal_id": "bcc84e5cec660ccddbda6d904f8b5869a6d6b856d4ea85dc210932ef3a6f8895",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1681,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u0932\u093e\u0907\u0932\u093e\u091c \u0939\u0948 \u0930\u0947\u092c\u0940\u091c...\u0915\u094d\u092f\u093e \u0915\u0941\u0924\u094d\u0924\u0947 \u0915\u0947 \u091a\u093e\u091f\u0928\u0947 \u092a\u0930 \u092d\u0940 \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948 \u0938\u0902\u0915\u094d\u0930\u092e\u0923? \u091c\u093e\u0928\u093f\u090f \u090f\u0915\u094d\u0938\u092a\u0930\u094d\u091f \u0915\u0940 \u0930\u093e\u092f",
-      "description": "\u0939\u093e\u0932 \u0939\u0940 \u092e\u0947\u0902 \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0930\u0947\u092c\u0940\u091c \u0938\u0947 14 \u0938\u093e\u0932 \u0915\u0947 \u092c\u091a\u094d\u091a\u0947 \u0915\u0940 \u092e\u094c\u0924 \u0939\u094b \u0917\u0908 \u0939\u0948\u0964 \u091c\u093f\u0938\u0915\u0947 \u092c\u093e\u0926 \u090f\u0915 \u092c\u093e\u0930 \u092b\u093f\u0930 \u0938\u0947 \u0921\u0949\u0917\u094d\u0938 \u0915\u0947 \u0935\u0948\u0915\u094d\u0938\u0940\u0928\u0947\u0936\u0928 \u0915\u093e \u092e\u093e\u092e\u0932\u093e \u091a\u0930\u094d\u091a\u093e \u092e\u0947\u0902 \u0906 \u0917\u092f\u093e \u0939\u0948\u0964 \u0910\u0938\u0947 \u092e\u0947\u0902 \u0921\u0949\u0917\u094d\u0938 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u092a\u0930 \u0939\u094b\u0928\u0947 \u0935\u093e\u0932\u0947 \u0930\u0947\u092c\u093f\u091c \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0915\u094b \u0932\u0947\u0915\u0930 \u090f\u0915\u094d\u0938\u092a\u0930\u094d\u091f \u0915\u094d\u092f\u093e \u0939\u0948\u0902? \u0906\u0907\u090f \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902...",
-      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/no-cure-for-rabies-infection-death-is-certain-even-dog-licks-you-then-take-rabies-injection-within-24-hours/articleshow/103451699.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-46570,msid-103453268/navbharat-times.jpg",
-      "publishedAt": "2023-09-07 03:57:30",
-      "content": "100% , , 14 , 24 , , , Ghaziabad News: , Anti Rabies Injection , -",
-      "retrievedAt": "2023-09-08 07:06:00.187953",
-      "internal_id": "55d4523ecce33c6e297c032c65faddc5f7a739b5676149a81261b6fbd8ae9985",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1687,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": null,
-      "title": "Record number of leptospirosis cases in Hawke\u2019s Bay after floods",
-      "description": "There have been 35 cases in the region this year alone.",
-      "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/record-number-of-leptospirosis-cases-in-hawkes-bay-after-floods/BUXUJQTR4JEOHMRIHQLWNM3L3Y/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/0ZhJqpi5r81NZameTe-nOXxUQ5Y=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/XPZJXHYP3BGTTIC6Z5DKPAGE6M.jpg",
-      "publishedAt": "2023-09-07 02:54:43",
-      "content": "Farmer Steve Wyn-Harris believes he contracted Leptospirosis during lambing. Photo / Te Whatu Ora Hawke's BayCentral Hawkes Bay farmer Steve Wyn-Harris was absolutely flattened when he contracted lep\u2026 [+2878 chars]",
-      "retrievedAt": "2023-09-08 07:06:05.766665",
-      "internal_id": "3def9b32dafe7f136cd73d26704e5a5ba5b9bf96253dd734bcde4f1560217d26",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1732,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Statetimes.in",
-      "author": "statetimes_editor",
-      "title": "Monsoon menace: Dengue fever",
-      "description": "Dr Shivani Gandhi Dengue fever or Dengue continues to pose a significant public health problem in tropical and sub tropical areas of theworld, including parts of Asia, Africa, the Caribbean, and Central and South America\u2026",
-      "url": "https://statetimes.in/monsoon-menace-dengue-fever/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2023/09/Dr-Shivani-Gandhi.png",
-      "publishedAt": "2023-09-07 01:09:38",
-      "content": "Dr Shivani Gandhi Dengue fever or Dengue continues to pose a significant public health problem in tropical and sub tropical areas of theworld, including parts of Asia, Africa, the Caribbean, and Cen\u2026 [+6239 chars]",
-      "retrievedAt": "2023-09-10 07:05:27.328748",
-      "internal_id": "d2d8e84227a872510fa2dfe856a2d074d671a652413b2729c846341a40a86019",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1682,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u0930\u0947\u092c\u0940\u091c \u0938\u0947 14 \u0938\u093e\u0932 \u0915\u0947 \u092c\u091a\u094d\u091a\u0947 \u0915\u0940 \u092e\u094c\u0924: \u0926\u0939\u0936\u0924 \u092e\u0947\u0902 \u0939\u0930 \u092e\u093e\u0902-\u092c\u093e\u092a, \u0907\u0928 \u0915\u0941\u0924\u094d\u0924\u094b\u0902 \u0915\u093e \u0939\u0948 \u0915\u094d\u092f\u093e \u0907\u0932\u093e\u091c?",
-      "description": "Anti Rabies Injection: \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0915\u0941\u0924\u094d\u0924\u0947 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0930\u0948\u092c\u0940\u091c \u092b\u0948\u0938\u0932\u0928\u0947 \u0938\u0947 \u092c\u091a\u094d\u091a\u0947 \u0915\u0940 \u092e\u094c\u0924 \u0915\u0940 \u091a\u0930\u094d\u091a\u093e \u0939\u0930 \u0915\u094b\u0908 \u0915\u0930 \u0930\u0939\u093e \u0939\u0948\u0964 \u0907\u0938 \u0918\u091f\u0928\u093e \u0915\u0947 \u092c\u093e\u0926 \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0932\u093e\u0907\u0928 \u0932\u0902\u092c\u0940 \u0939\u094b \u0917\u0908 \u0939\u0948\u0964 \u092b\u093f\u0932\u0939\u093e\u0932 500 \u0932\u094b\u0917 \u0939\u0930 \u0926\u093f\u0928 \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u092c\u0902\u0926\u0930 \u092f\u093e \u0915\u0941\u0924\u094d\u0924\u0947 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u092a\u0930 \u0935\u0948\u0915\u094d\u0938\u0940\u0928 \u0932\u0917\u0935\u093e \u0930\u0939\u0947 \u0939\u0948\u0902\u0964",
-      "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/ghaziabad/dog-bite-increased-tension-huge-line-in-hospitals-for-anti-rabies-injection-ghaziabad-news/articleshow/103447568.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-48376,msid-103455590/navbharat-times.jpg",
-      "publishedAt": "2023-09-07 01:09:25",
-      "content": ", : 14 - - , , 500 , , 24 , NBT , 2022 6542 688 , 24580 , , 15 , 24 2022 6542 688 , 24580 15 , , . , , , , , 24 , , , , , , , - , , , , , , RWA RWA , , , Navbharat Times News App\u2026 [+325 chars]",
-      "retrievedAt": "2023-09-08 07:06:00.195557",
-      "internal_id": "57865f3ea1fdb282edd9ff84dfff736fe436d45e8824761996b39712b80c8ab0",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1685,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "Dengue pone a Costa Rica en alerta sanitaria",
-      "description": "Aumento del dengue en las \u00faltimas semanas motiva declaratoria de alerta sanitaria; Sarapiqu\u00ed, Siquirres, Pococ\u00ed y Puntarenas son los cantones con mayor incidencia",
-      "url": "https://www.nacion.com/ciencia/salud/dengue-pone-a-costa-rica-en-alerta-sanitaria/ZW5O5ECAGNDZ3JN7F5PXOGEN7Y/story/",
-      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
-      "publishedAt": "2023-09-06 20:15:43",
-      "content": "El dengue no cede en Costa Rica. La tarde de este 6 de setiembre, el Ministerio de Salud declar\u00f3 alerta sanitaria por esta enfermedad transmitida por el mosquito Aedes aegypti.Datos de Salud indican \u2026 [+4111 chars]",
-      "retrievedAt": "2023-09-08 07:06:01.545070",
-      "internal_id": "c89c17be499dd80ca78adbf520279f5d832a96a576a47dd052baa6373a784776",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1677,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Elperiodico.com",
-      "author": "El Peri\u00f3dico",
-      "title": "Muere a los 17 a\u00f1os Naomi Mendoza, joven promesa del f\u00fatbol femenino",
-      "description": "La futbolista canaria Naomi Mendoza ha fallecido a los 17 a\u00f1os tras no haber podido superar una meningitis. El adi\u00f3s de la joven, que fue portera del Club Deportivo Guiniguada Femenino y tambi\u00e9n de la Selecci\u00f3n Canaria, ha dejado a m\u00e1s de uno helado. Seguir l\u2026",
-      "url": "https://www.elperiodico.com/es/deportes/20230906/muere-17-anos-naomi-mendoza-portera-futbol-femenino-canarias-91785533",
-      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/de67cd9d-2675-4d45-a3c8-1e741da4ed92_16-9-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-09-06 18:04:12",
-      "content": "La futbolista canaria Naomi Mendoza ha fallecido a los 17 a\u00f1os tras no haber podido superar una meningitis. El adi\u00f3s de la joven, que fue portera del Club Deportivo Guiniguada Femenino y tambi\u00e9n de l\u2026 [+1109 chars]",
-      "retrievedAt": "2023-09-07 19:05:39.613273",
-      "internal_id": "e11175666c0904b8d22a518e6cc6bc6c408e49c366407a7a3f1af82ac550123e",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1675,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Publico.es",
-      "author": "P\u00fablico",
-      "title": "Muere la futbolista canaria Naomi Mendoza a los 17 a\u00f1os",
-      "description": "La guardameta era una de las promesas del f\u00fatbol femenino insular y hab\u00eda formado parte del combinado canario sub-17.",
-      "url": "https://www.publico.es/sociedad/muere-futbolista-canaria-naomi-mendoza-17-anos.html",
-      "urlToImage": "https://www.publico.es/uploads/2023/09/06/64f8ae8bccb42.jpeg",
-      "publishedAt": "2023-09-06 17:13:00",
-      "content": "Conmoci\u00f3n en el mundo del f\u00fatbol. La joven guardameta canaria Naomi Mendoza ha fallecido a los 17 a\u00f1os despu\u00e9s de sufrir unas complicaciones derivadas de una meningitis, que acab\u00f3 dej\u00e1ndola en coma d\u2026 [+1184 chars]",
-      "retrievedAt": "2023-09-07 19:05:39.607944",
-      "internal_id": "898c7c7e28024d2a7bb714762a1d90bb8e396ac2046fa0112f6f1f9db3693ddb",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1669,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Agence France-Presse)",
-      "title": "WHO: Bangladesh Hit by Worst Dengue Outbreak on Record",
-      "description": "Bangladesh is experiencing its most severe dengue outbreak on record, the World Health Organization said Wednesday, partly blaming climate change for contributing to the spread of such mosquito-borne diseases. Since the outbreak began in April, more than 1\u2026",
-      "url": "https://www.voanews.com/a/who-bangladesh-hit-by-worst-dengue-outbreak-on-record-/7256884.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-7fa8-08dbaef72510_cx0_cy10_cw0_w1200_r1.jpg",
-      "publishedAt": "2023-09-06 16:40:11",
-      "content": "Bangladesh is experiencing its most severe dengue outbreak on record, the World Health Organization said Wednesday, partly blaming climate change for contributing to the spread of such mosquito-borne\u2026 [+1635 chars]",
-      "retrievedAt": "2023-09-07 19:05:39.280016",
-      "internal_id": "1366fb1cdf6c08232e28b0c1203dd6adb7053260e7f5c0c18e457dcee409297b",
-      "publishedAtLabel": "Sep 6"
-    },
-    {
-      "id": 1670,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "TT",
-      "title": "Sv\u00e5rt utbrott av denguefeber i Bangladesh",
-      "description": "\u25b8 Bangladesh har drabbats av ett av de v\u00e4rsta utbrotten av denguefeber enligt V\u00e4rldsh\u00e4lsoorganisationen (WHO).",
-      "url": "https://www.aftonbladet.se/nyheter/a/onGybm/svart-utbrott-av-denguefeber-i-bangladesh",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/7d2b7d2e-64e6-4c0a-a16d-7fe0fb3925ab?fit=crop&format=auto&h=1267&q=50&w=1900&s=9d67398869b3f68f52fc600101b843119b12a7f9",
-      "publishedAt": "2023-09-06 16:15:21",
-      "content": "Bangladesh har drabbats av ett av de v\u00e4rsta utbrotten av denguefeber enligt V\u00e4rldsh\u00e4lsoorganisationen (WHO). Sedan utbrottet i april i \u00e5r har fler \u00e4n 135 000 fall av denguefeber rapporterats. 650 d\u00f6\u2026 [+432 chars]",
-      "retrievedAt": "2023-09-07 19:05:39.282604",
-      "internal_id": "2821006ee27502c5367dc1d58635c9ad874828420d191ca6ce9df78ab96409ab",
-      "publishedAtLabel": "Sep 6"
     }
   ]
 }
