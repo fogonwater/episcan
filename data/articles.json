@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-09-19 19:05",
+  "last_updated": "2023-09-20 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 16,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 1922,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "Climate Change Impeding Fight Against AIDS, TB and Malaria",
+      "description": "Climate change and conflict are hitting efforts to tackle three of the world's deadliest infectious diseases, the head of the Global Fund to Fight AIDS, Tuberculosis and Malaria has warned. International initiatives to fight the diseases have largely recove\u2026",
+      "url": "https://www.voanews.com/a/climate-change-impeding-fight-against-aids-tb-and-malaria/7274203.html",
+      "urlToImage": "https://gdb.voanews.com/49560779-5E6C-495E-B328-D81C02F2B5E8.jpg",
+      "publishedAt": "2023-09-19 04:27:01",
+      "content": "LONDON Climate change and conflict are hitting efforts to tackle three of the world's deadliest infectious diseases, the head of the Global Fund to Fight AIDS, Tuberculosis and Malaria has warned. \u2026 [+1984 chars]",
+      "retrievedAt": "2023-09-20 07:05:51.022144",
+      "internal_id": "398664314126984fd866bb84d3f843f3afc6c09e6925e720763542ea039a86d2",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 1919,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "victor.tse@health.slu.edu (Arivianda M DeSilva), victor.tse@health.slu.edu (Deanna Zhu), victor.tse@health.slu.edu (Devina Thiono), victor.tse@health.slu.edu (Laura J White), victor.tse@health.slu.edu (Lisa J Snoderly-Foster), victor.tse@health.slu.edu (Longping V Tse), victor.tse@health.slu.edu (Ralph S Baric), victor.tse@health.slu.edu (Rita M Meganck), victor.tse@health.slu.edu (Stephanie Dong), victor.tse@health.slu.edu (Yago R Dalben)",
+      "title": "Evolution of a functionally intact but antigenically distinct DENV fusion loop",
+      "description": "A hallmark of dengue virus (DENV) pathogenesis is the potential for antibody-dependent enhancement, which is associated with deadly DENV secondary infection, complicates the identification of correlates of protection, and negatively impacts the safety and eff\u2026",
+      "url": "https://elifesciences.org/articles/87555",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2023-09-19 00:00:00",
+      "content": "The following is the authors response to the original reviews. Reviewer #1 (Public Review): Summary of the major findings - 1. The authors used saturation mutagenesis and directed evolution to mut\u2026 [+27202 chars]",
+      "retrievedAt": "2023-09-20 07:05:50.037426",
+      "internal_id": "6bb744bc73092b1c66a68292628939b92fab8b8d0399bb4d7c3c0b9b3a0c09c6",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 1920,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Roanoke Times",
+      "author": "MAR\u00cdA VERZA and MADDIE BURAKOFF Associated Press",
+      "title": "Special mosquitoes are being bred to fight dengue. How the old enemies are now becoming allies",
+      "description": "Preventing dengue fever has long meant teaching people to fear mosquitoes. Now scientists are promoting a potentially more effective way to control the disease \u2014 with the help of mosquitoes themselves.",
+      "url": "https://roanoke.com/news/nation-world/science/dengue-mosquitoes-infectious-diseases-honduras/article_355427d7-4339-5d6d-9ed0-a29a3d8d5464.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/3/55/355427d7-4339-5d6d-9ed0-a29a3d8d5464/65028c3e87744.preview.jpg?crop=1563%2C821%2C11%2C180&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-09-18 20:45:00",
+      "content": "TEGUCIGALPA, Honduras For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more e\u2026 [+8864 chars]",
+      "retrievedAt": "2023-09-20 07:05:50.046982",
+      "internal_id": "4b4c3167ccec842e4e777623183fda7b5ee1abc9f84a951e5b4f7f705f485a57",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 1921,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Casos de Dengue na Baixada Santista tem grande aumento",
+      "description": "Casos de Dengue na Baixada Santista tem grande aumento. Cidade de Guaruj\u00e1 intensifica a\u00e7\u00f5es ap\u00f3s liderar ranking da doen\u00e7a. Veja na reportagem!",
+      "url": "https://recordtv.r7.com/record-tv-litoral-e-vale/balanco-geral-litoral/videos/casos-de-dengue-na-baixada-santista-tem-grande-aumento-18092023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/09/18/650868c14b495517bf000ef3/73c63d2b9ae44464909820aeadc65a6c__Casos_de_Dengue_na_Baixada_Santista_tem_grande_aumento_thumb.jpg",
+      "publishedAt": "2023-09-18 20:27:42",
+      "content": "Casos de Dengue na Baixada Santista tem grande aumento. Cidade de Guaruj\u00e1 intensifica a\u00e7\u00f5es ap\u00f3s liderar ranking da doen\u00e7a. Veja na reportagem!",
+      "retrievedAt": "2023-09-20 07:05:50.051914",
+      "internal_id": "f9449aa226bc503d2a028664e7479e12f111591068a69bd1b6d08d48d43c557f",
+      "publishedAtLabel": "Sep 18"
+    },
+    {
+      "id": 1923,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Global Fund 2023, salvati 59 milioni di vite",
+      "description": "Nairobi, Burbo (Nisg): \"Impegnati nella lotta ad Hiv, tubercolosi e malaria\" (ANSA)",
+      "url": "https://www.ansa.it/sito/videogallery/mondo/2023/09/18/global-fund-2023-salvati-59-milioni-di-vite_0df28798-0c3e-46c3-b463-e336067eda56.html",
+      "urlToImage": "https://www.ansa.it",
+      "publishedAt": "2023-09-18 19:50:48",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2023-09-20 07:05:51.029246",
+      "internal_id": "c0df077c50a965f929f7ced66a87e46a4f6699d8bba11701d99270b2c6d267d8",
+      "publishedAtLabel": "Sep 18"
+    },
     {
       "id": 1908,
       "query": [
@@ -3519,96 +3609,6 @@
       "retrievedAt": "2023-09-09 07:05:42.253345",
       "internal_id": "371d324b808dd0682527e4b8145783367b3998211673e556941252e8aac44329",
       "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 1712,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Japan Times",
-      "author": "Mosabber Hossain,Aadesh Subedi",
-      "title": "Mosquito-borne dengue grows deadlier in South Asia as planet warms",
-      "description": "Mosquito-borne dengue fever is taking a heavy toll on South Asian nations this year as Bangladesh grapples with record deaths and Nepal faces cases in new areas, with disease experts linking worsening outbreaks to the impacts of climate change.",
-      "url": "https://www.japantimes.co.jp/environment/2023/09/08/wildlife/warming-planet-mosquito-dengue-threat/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/09/08/250609.jpg",
-      "publishedAt": "2023-09-08 03:17:00",
-      "content": "DHAKA/KATHMANDU Mosquito-borne dengue fever is taking a heavy toll on South Asian nations this year as Bangladesh grapples with record deaths and Nepal faces cases in new areas, with disease experts \u2026 [+6950 chars]",
-      "retrievedAt": "2023-09-09 07:05:42.278012",
-      "internal_id": "6052afbf7b9546296241d6fde4dd65b60ead095051e2b6085555754534c601b5",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 1715,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Independent.ie",
-      "author": "Eilish O'Regan",
-      "title": "Mpox infections reported for first time since spring, but Covid cases are falling",
-      "description": "The first cases of mpox since late April have been detected in Ireland, but reported Covid-19 infections continue to fall.",
-      "url": "https://www.independent.ie/irish-news/mpox-infections-reported-for-first-time-since-spring-but-covid-cases-are-falling/a199690019.html",
-      "urlToImage": "https://focus.independent.ie/thumbor/qvAk7nton1Ys7sOlSLP7hr9X1fc=/0x0:4473x2982/4473x2982/prod-mh-ireland/4090f654-0cdf-44a8-be7d-12d9bb2db0e6/afc1cf2c-da6e-4b10-b9a2-6c5744db4916/4090f654-0cdf-44a8-be7d-12d9bb2db0e6.jpg",
-      "publishedAt": "2023-09-08 01:30:00",
-      "content": "The first cases of mpox since late April have been detected in Ireland, but reported Covid-19 infections continue to fall.Five cases of mpox formerly known as monkeypox were notified last month and s\u2026 [+2439 chars]",
-      "retrievedAt": "2023-09-09 07:05:44.675634",
-      "internal_id": "a98591ecdab1fbff0840fadfb5f160e5b05e7814742a879d5235ad8fa4cd988c",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 1733,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "MedPage Today",
-      "author": "Medpage Today",
-      "title": "CDC Details Local Malaria Spread in Florida, Texas",
-      "description": "CDC Details Local Malaria Spread in Florida, Texasmedpagetoday.com",
-      "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/106233",
-      "urlToImage": "https://assets.medpagetoday.net/media/images/106xxx/106233.jpg",
-      "publishedAt": "2023-09-08 00:46:42",
-      "content": "After identifying eight cases of locally transmitted malaria in Florida and Texas this summer, the CDC is recommending that healthcare providers consider malaria in the differential diagnoses of pati\u2026 [+6281 chars]",
-      "retrievedAt": "2023-09-10 07:05:28.145264",
-      "internal_id": "440711f6c3a8c6b5a2fd0596225823d93c35154b8e3e8005054711fcb94172b2",
-      "publishedAtLabel": "Sep 8"
-    },
-    {
-      "id": 1707,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Niranjan Kaggere",
-      "title": "Bengaluru reports first dengue deaths in 3 years",
-      "description": "Seven deaths have been reported in the city in the last three months among patients hospitalised with symptoms for dengue, with three of those deaths said to have been caused directly by the virus - the first confirmed dengue-related deaths in Bengaluru in th\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-reports-first-dengue-deaths-in-3-years/articleshow/103484596.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103484605,width-1070,height-580,imgsize-798384,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-07 23:31:14",
-      "content": "Sweet pictures of Jawan actress Nayanthara",
-      "retrievedAt": "2023-09-09 07:05:42.265691",
-      "internal_id": "baa80532f89e86bad65681f7f891490fe07af01ed370b1d6425fbc8269671eab",
-      "publishedAtLabel": "Sep 7"
-    },
-    {
-      "id": 1703,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WISN Milwaukee",
-      "author": "Paula Vansack",
-      "title": "Bat tests positive for rabies in eastern Racine County",
-      "description": "Rabies can be fatal to humans without proper medical treatment.",
-      "url": "https://www.wisn.com/article/bat-tests-positive-for-rabies-in-eastern-racine-county/45039080",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wisn/20444368-20444368.jpg?crop=0.998xw:1.00xh;0.00163xw,0&resize=1200:*",
-      "publishedAt": "2023-09-07 21:25:20",
-      "content": "RACINE COUNTY, Wis. \u2014The Racine County Public Health Division says a bat has tested positive for rabies. The bat was tested after being captured in the eastern part of Racine County. Rabies can sp\u2026 [+958 chars]",
-      "retrievedAt": "2023-09-09 07:05:41.356918",
-      "internal_id": "d4ae56f459a82dbd931cabe88ab31005fe1199e96a00a1f5bbad802f99d0ae36",
-      "publishedAtLabel": "Sep 7"
     }
   ]
 }
