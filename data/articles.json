@@ -1,8 +1,119 @@
 {
-  "last_updated": "2023-09-20 19:05",
+  "last_updated": "2023-09-21 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 23,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 1948,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "State Health Dept: Human rabies cases in Sarawak on the rise this year with 17 recorded so far, 15 deaths",
+      "description": "KUCHING, Sept 20 \u2014 The State Health Department (JKN) has recorded an increase of rabies cases in humans between January 1 and September 17 this year compared to the same period...",
+      "url": "https://www.malaymail.com/news/malaysia/2023/09/20/state-health-dept-human-rabies-cases-in-sarawak-on-the-rise-this-year-with-17-recorded-so-far-15-deaths/91902",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2023/09/20/thumbs/400x400/148313.jpg",
+      "publishedAt": "2023-09-20 06:54:13",
+      "content": "KUCHING, Sept 20 The State Health Department (JKN) has recorded an increase of rabies cases in humans between January 1 and September 17 this year compared to the same period last year. State Health\u2026 [+3012 chars]",
+      "retrievedAt": "2023-09-21 07:05:52.881838",
+      "internal_id": "c05ea7d266190eb8a1ee2f0eb289a5a6214e723d6d4dc2836824bd2d92c176db",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1947,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Ministry to Raise Awareness on Rabies Disease",
+      "description": "[Daily News] THE Ministry of Livestock and Fisheries plans to conduct countrywide awareness education about rabies disease ahead of the 17th World Rabies Day to be marked on September 28.",
+      "url": "https://allafrica.com/stories/202309200038.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-20 05:54:59",
+      "content": "THE Ministry of Livestock and Fisheries plans to conduct countrywide awareness education about rabies disease ahead of the 17th World Rabies Day to be marked on September 28. Rabies is a fatal, but \u2026 [+2066 chars]",
+      "retrievedAt": "2023-09-21 07:05:52.863031",
+      "internal_id": "92aa1bdc67a5257f8a638a23426f3be407bceb399633aa479033233536848a82",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1951,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "Aajtak Bangla",
+      "title": "Dengue and malaria situation kolkata, all leave of Kolkata Municipal Corporation's health workers canceled for next two months in",
+      "description": "Dengue Situation in Kolkata: \u09aa\u09c1\u09b0\u09b8\u09ad\u09be\u09b0 \u0995\u09a1\u09bc\u09be \u09a8\u09bf\u09b0\u09cd\u09a6\u09c7\u09b6, \u09a1\u09c7\u0999\u09cd\u0997\u09bf\u09a4\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u0996\u09ac\u09b0 \u09aa\u09be\u0993\u09af\u09bc\u09be\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u09b8\u0999\u09cd\u0997\u09c7 \u09b8\u09c7\u0987 \u09ac\u09be\u09a1\u09bc\u09bf\u09a4\u09c7 \u09ad\u09c7\u0995\u09cd\u099f\u09b0 \u0995\u09a8\u09cd\u099f\u09cd\u09b0\u09cb\u09b2 \u0995\u09b0\u09cd\u09ae\u09c0\u09a6\u09c7\u09b0 \u09a8\u09bf\u09af\u09bc\u09c7 \u09aa\u09cc\u0981\u099b\u09a4\u09c7 \u09b9\u09ac\u09c7\u0964 \u098f\u0996\u09a8 \u09a4\u09a5\u09cd\u09af \u09ad\u09bf\u09a4\u09cd\u09a4\u09bf\u0995 \u0995\u09be\u099c \u0995\u09b0\u09a4\u09c7 \u09b9\u09ac\u09c7 \u09aa\u09c1\u09b0\u09b8\u09ad\u09be\u09b0 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af\u0995\u09b0\u09cd\u09ae\u09c0\u09a6\u09c7\u09b0\u0964 \u09ae\u09b6\u09be\u09ac\u09be\u09b9\u09bf\u09a4 \u09b0\u09cb\u0997\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09ac\u09be\u09a1\u09bc\u09bf\u09a4\u09c7 \u09aa\u09cc\u0981\u099b\u09c7 \u09af\u09c7\u09a4\u09c7 \u09b9\u09ac\u09c7\u0964",
+      "url": "https://bangla.aajtak.in/kolkata/story/dengue-and-malaria-situation-kolkata-all-leave-of-kolkata-municipal-corporations-health-workers-canceled-for-next-two-months-including-durga-puja-2023-orders-deputy-mayor-atin-ghosh-arg-680972-2023-09-20",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/lingo/atbn/images/story/202309/daenagai_akaraanata-sixteen_nine.jpg",
+      "publishedAt": "2023-09-20 04:52:00",
+      "content": "Dengue and Malaria Situation in Kolkata: ' , , , , , , , - , , , , , , , , ,",
+      "retrievedAt": "2023-09-21 07:05:53.888845",
+      "internal_id": "c0943cf715f62944872f01245bf764ee40e0f71ea4c20af2e7bf31ad5356fbc5",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1949,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Romero-Leiton, J. P., Acharya, K. R., Parmley, J. E., Arino, J., Nasri, B.",
+      "title": "Modelling the transmission of dengue, zika and chikungunya: a scoping review protocol",
+      "description": "Introduction Aedes mosquitoes are the primary vectors for the spread of viruses like dengue (DENV), zika (ZIKV) and chikungunya (CHIKV), all of which affect humans. Those diseases contribute to global public health issues because of their great dispersion i\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/9/e074385?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-09-20 03:45:48",
+      "content": "Introduction Dengue, zika and chikungunya are arboviral diseases transmitted primarily by the mosquito Aedes aegypti, which thrives in tropical and subtropical regions. Despite sharing a common vect\u2026 [+789 chars]",
+      "retrievedAt": "2023-09-21 07:05:53.863604",
+      "internal_id": "a818d418d5ef713f077762773a52eea42a45bbc33c63816a6cf259e7c2bc5cd8",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1952,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Wiebke Zika, Andreas Leng, Rene Weiss, Simone Pinter, Christoph Schuesslbauer, Tim Clark, Andreas Hirsch, Dirk M. Guldi",
+      "title": "Driving the Quadricyclane-to-Norbornadiene Isomerization by Charge Separation",
+      "description": "Chem. Sci., 2023, Accepted ManuscriptDOI: 10.1039/D3SC03679K, Edge Article Open Access &nbsp This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.Wiebke Zika, Andreas Leng, Rene Weiss, Simone Pinter, Christoph Schuesslbauer, Tim \u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03679k",
+      "urlToImage": null,
+      "publishedAt": "2023-09-19 23:00:00",
+      "content": "W. Zika, A. Leng, R. Weiss, S. Pinter, C. Schuesslbauer, T. Clark, A. Hirsch and D. M. Guldi, Chem. Sci., 2023, Accepted Manuscript , DOI: 10.1039/D3SC03679K This article is licensed under a C\u2026 [+279 chars]",
+      "retrievedAt": "2023-09-21 07:05:54.969281",
+      "internal_id": "ac066984775c8aee365e42ba75d8e659392c6bd04c23c94b3cf1a7502106242e",
+      "publishedAtLabel": "Sep 19"
+    },
+    {
+      "id": 1950,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": null,
+      "title": "Breeding Special Mosquitoes to Fight Dengue",
+      "description": "",
+      "url": "https://learningenglish.voanews.com/a/7274917.html",
+      "urlToImage": "https://gdb.voanews.com/DF5465F8-7DF2-4AE4-9C05-E62A5DEAC9EE_w1200_r1.jpg",
+      "publishedAt": "2023-09-19 19:53:38",
+      "content": "No media source currently available",
+      "retrievedAt": "2023-09-21 07:05:53.877183",
+      "internal_id": "c2f21db42a2c3503d8fe41668d6963251047f1391529d7de5b9eed9470e488c0",
+      "publishedAtLabel": "Sep 19"
+    },
     {
       "id": 1931,
       "query": [
@@ -3498,114 +3609,6 @@
       "content": "4 : ... . , , . , , , , . . . . , . . . , . ! .",
       "retrievedAt": "2023-09-11 19:05:24.016009",
       "internal_id": "a9ec94d70818ef92e9a5f3784b9dcd9ab7de4610f7d7fb550a915c93c8f11744",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1753,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "20 Minutes avec AFP (20 Minutes)",
-      "title": "Outre-mer : L\u2019\u00e9pid\u00e9mie de dengue progresse en Guadeloupe et Martinique",
-      "description": "Elle se transmet essentiellement par les piq\u00fbres de moustique et peut se manifester par de fortes fi\u00e8vres, des maux de t\u00eate, des courbatures, des naus\u00e9es et des \u00e9ruptions cutan\u00e9es",
-      "url": "https://www.20minutes.fr/sante/4052318-20230910-outre-mer-epidemie-dengue-progresse-guadeloupe-martinique",
-      "urlToImage": "https://img.20mn.fr/PvYFdWoqRS6Fc13s7bhRLCk/1200x768_illustration-moustique-tigre-aedes-albopictus-credit-lodi-franck-sipa-1506161743",
-      "publishedAt": "2023-09-10 10:26:30",
-      "content": "Remont\u00e9e des cas, hospitalisations en hausse : l\u2019\u00e9pid\u00e9mie de dengue poursuit sa progression aux Antilles, o\u00f9 les autorit\u00e9s sanitaires surveillent les profils \u00e0 risque de formes graves, notamment les \u2026 [+4030 chars]",
-      "retrievedAt": "2023-09-11 19:05:24.011426",
-      "internal_id": "650b1f2d74eda80d1a35955fae71eee8bdd78063fd0dedbd9d375c2a9645f1b7",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1746,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Rabies: Is it curable, what are the first signs, what happens in case of infection. Here is all you should know",
-      "description": "There is no known cure for rabies once severe symptoms appear. Prompt medical attention is crucial after a dog bite, including cleaning the wound thoroughly, receiving rabies vaccination, antibodies, and tetanus shots. Rabies can cause erratic behavior, anxie\u2026",
-      "url": "https://economictimes.indiatimes.com/news/how-to/rabies-is-it-curable-what-are-the-first-signs-what-happens-in-case-of-infection-here-is-all-you-should-know/articleshow/103546165.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103552102,width-1070,height-580,imgsize-2706426,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-10 08:56:16",
-      "content": "Rabies, a viral disease primarily transmitted through animal bites, is caused by the rabies virus. It is primarily an animal disease, but sick animals can transmit the virus to people. It persists in\u2026 [+4672 chars]",
-      "retrievedAt": "2023-09-11 19:05:22.841751",
-      "internal_id": "490552022d019d84cb2bb20af4c792fb66beaa065cf67ccb0aedc68c4bef2883",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1749,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Dengue Outbreak Sweeps Through Uttarakhand With Over 1,000 Cases",
-      "description": "The Raipur area of Dehradun has been engulfed by a concerning dengue fever outbreak, with reports indicating that it has become a major hotspot for the disease.",
-      "url": "https://www.ndtv.com/india-news/dengue-outbreak-sweeps-through-uttarakhand-with-over-1-000-cases-4376625",
-      "urlToImage": "https://c.ndtvimg.com/2022-09/ha7jqn5o_dengue-mosquito-generic_625x300_19_September_22.jpg",
-      "publishedAt": "2023-09-10 08:11:29",
-      "content": "An alarming 58 per cent of these cases are concentrated in Dehradun. Dehradun: The Raipur area of Dehradun has been engulfed by a concerning dengue fever outbreak, with reports indicating that it ha\u2026 [+1896 chars]",
-      "retrievedAt": "2023-09-11 19:05:23.993663",
-      "internal_id": "cac0d17c47f9583d0074b0d19cf2a3e6c78116d8a7f5ee1f1ed91c395ed57c6c",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1751,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Francetvinfo.fr",
-      "author": null,
-      "title": "L'\u00e9pid\u00e9mie de dengue continue de progresser en Guadeloupe et Martinique",
-      "description": "Entre le 28 ao\u00fbt et le 3 septembre, l'agence Sant\u00e9 publique France a enregistr\u00e9 770 cas cliniquement \u00e9vocateurs de dengue en Martinique et 600 en Guadeloupe.",
-      "url": "https://www.francetvinfo.fr/sante/l-epidemie-de-dengue-progresse-en-guadeloupe-et-martinique_6054095.html",
-      "urlToImage": "https://www.francetvinfo.fr/pictures/lpVam77JiGj0XvriLMdRjLQm05Y/1500x843/2023/09/10/000-33qw2bd-64fd79299cc0f177367565.jpg",
-      "publishedAt": "2023-09-10 08:08:08",
-      "content": "Remont\u00e9e des cas, hospitalisations en hausse... L'\u00e9pid\u00e9mie de dengue poursuit sa progression aux Antilles, o\u00f9 les autorit\u00e9s sanitaires surveillent les profils \u00e0 risque de formes graves, notamment les\u2026 [+1357 chars]",
-      "retrievedAt": "2023-09-11 19:05:24.005455",
-      "internal_id": "9e2564fc50c15f0b927677c2637bdad1f17a20926932b5f141032134ea8efab8",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1747,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Confirman 14 mil 972 contagios de dengue en lo que va del a\u00f1o",
-      "description": "Los casos de dengue en M\u00e9xico mantienen un crecimiento sostenido, pues en lo que va del a\u00f1o se han confirmado 14 mil 972 contagios, de los cuales 6 mil 750 fueron con signos de alarma o dengue grave, lo que pone en riesgo la vida de los pacientes. El Informe \u2026",
-      "url": "https://www.jornada.com.mx/2023/09/10/politica/009n4pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-09-10 07:54:47",
-      "content": "Peri\u00f3dico La JornadaDomingo 10 de septiembre de 2023, p. 9 Los casos de dengue en M\u00e9xico mantienen un crecimiento sostenido, pues en lo que va del a\u00f1o se han confirmado 14 mil 972 contagios, de los \u2026 [+1661 chars]",
-      "retrievedAt": "2023-09-11 19:05:23.987304",
-      "internal_id": "cc71733da62d5da15474e9134122ce8614d3df80fe94d7cd2c818acea8d2210c",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1750,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "La r\u00e9daction avec AFP",
-      "title": "Antilles. L'\u00e9pid\u00e9mie de dengue progresse en Guadeloupe et Martinique",
-      "description": "Cette maladie tropicale, qui se transmet essentiellement par les piq\u00fbres de moustique et peut se manifester par de fortes fi\u00e8vres, des maux de t\u00eate, des courbatures, des naus\u00e9es et des \u00e9ruptions cutan\u00e9es. A ce jour, il n'existe aucun traitement.",
-      "url": "https://www.ledauphine.com/sante/2023/09/10/l-epidemie-de-dengue-progresse-en-guadeloupe-et-martinique",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/7AF8CD62-1DA2-485F-9F89-647A6269A130/FB1200/photo-1694332237.jpg",
-      "publishedAt": "2023-09-10 07:52:00",
-      "content": "Remont\u00e9e des cas, hospitalisations en hausse: l'\u00e9pid\u00e9mie de dengue poursuit sa progression aux Antilles, o\u00f9 les autorit\u00e9s sanitaires surveillent les profils \u00e0 risque de formes graves, notamment les p\u2026 [+4504 chars]",
-      "retrievedAt": "2023-09-11 19:05:23.995753",
-      "internal_id": "4d2e86d58901866aff10c23c0fffa0d713f1256cd2e671f83647ba7d4995546a",
       "publishedAtLabel": "Sep 10"
     }
   ]
