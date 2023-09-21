@@ -1,8 +1,296 @@
 {
-  "last_updated": "2023-09-21 07:05",
+  "last_updated": "2023-09-21 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 1960,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Dengue outbreak in Jorhat district",
+      "description": "HT Correspondent JORHAT, Sept 20: Jorhat district has reported a total of 87 dengue cases this year, with 41 cases identified in the urban areas of Jorhat. In response to the rising cases, the Health department is taking comprehensive measures to combat the c\u2026",
+      "url": "https://thehillstimes.in/assam/dengue-outbreak-in-jorhat-district",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/09/dengue.jpg",
+      "publishedAt": "2023-09-20 19:02:56",
+      "content": "HT Correspondent JORHAT, Sept 20: Jorhat district has reported a total of 87 dengue cases this year, with 41 cases identified in the urban areas of Jorhat. In response to the rising cases, the Healt\u2026 [+1256 chars]",
+      "retrievedAt": "2023-09-21 19:05:23.200475",
+      "internal_id": "7c18a61399122ae14215b74b188daf4b15e06a719a722d27022fac24a7c9a621",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1962,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "Julie Urbach (20 Minutes)",
+      "title": "Nantes : Un cas de dengue \u00e0 Trentemoult, la d\u00e9moustication impossible",
+      "description": "Un nouveau cas de dengue a \u00e9t\u00e9 signal\u00e9 dans l'agglom\u00e9ration de Nantes, cette fois \u00e0 Rez\u00e9. La proximit\u00e9 de la Loire emp\u00eache le traitement insecticide contre le moustique tigre.",
+      "url": "https://www.20minutes.fr/nantes/4053973-20230920-nantes-cas-dengue-trentemoult-demoustication-impossible",
+      "urlToImage": "https://img.20mn.fr/-MZ-Jd0ZQTu_p592a23vAg/1200x768_quartier-trentemoult-reze",
+      "publishedAt": "2023-09-20 16:38:32",
+      "content": "Apr\u00e8s celui de Saint-S\u00e9bastien-sur-Loire la semaine derni\u00e8re, un deuxi\u00e8me cas de dengue a \u00e9t\u00e9 signal\u00e9 lundi dans l\u2019agglom\u00e9ration nantaise. Cette fois, c\u2019est \u00e0 Rez\u00e9 dans le quartier Trentemoult qu\u2019un \u2026 [+1275 chars]",
+      "retrievedAt": "2023-09-21 19:05:23.231970",
+      "internal_id": "c955bf7cecb6541bf73a5461dc5cae8c50b5e7c2061870c58f76ea7c13f17a8c",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1965,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Kelsey Piper",
+      "title": "Lead poisoning kills millions annually. One country is showing the way forward.",
+      "description": "How Bangladesh removed lead from turmeric spice \u2014 and saved lives.",
+      "url": "https://www.vox.com/future-perfect/2023/9/20/23881981/bangladesh-tumeric-lead-poisoning-contamination-public-health",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/fKxyzm3316OisB6gjnqYo5GaDhU=/0x287:4000x2381/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24937026/GettyImages_626582116.jpg",
+      "publishedAt": "2023-09-20 16:15:00",
+      "content": "My colleague Dylan Matthews recently wrote about the horrific global toll of lead poisoning, which contributes to as many as 5.5 million premature deaths a year more than HIV, malaria, and car accide\u2026 [+6404 chars]",
+      "retrievedAt": "2023-09-21 19:05:24.012820",
+      "internal_id": "1658221df800b2aa53da92b041c3ebb6012ada7053b687d22216f429b49968a5",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1968,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Discover Magazine",
+      "author": "Gabe Allen",
+      "title": "Florida Malaria Cases: Why an Outbreak Returned to the U.S. This Summer",
+      "description": "A vector-borne outbreak of Florida malaria cases is now under control. Here\u2019s what to expect going forward.",
+      "url": "https://www.discovermagazine.com/planet-earth/florida-malaria-cases-why-an-outbreak-returned-to-the-u-s-this-summer",
+      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/6WnToEZT350rukcmoUpO4V/416509348ed312dc2102c0ed0620e5c9/Untitled_design_-_2023-09-19T143949.542.png",
+      "publishedAt": "2023-09-20 15:00:00",
+      "content": "In May 2023, a person caught malaria from a bug bite in Sarasota County, Florida. In response, the Florida Department of Public Health went to war with Anopheles, better known as the marsh mosquito. \u2026 [+3447 chars]",
+      "retrievedAt": "2023-09-21 19:05:24.047263",
+      "internal_id": "b797ae59f4b4bf8a630d7dccafc20fd1bd0d9290aa1a481a5a74f1dc1e3e0334",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1957,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "radiodabanga@gmail.com (Dabanga)",
+      "title": "UN Agencies Warn of Malnutrition and Measles 'Catastrophe' in Sudan",
+      "description": "[Dabanga] Geneva / Washington DC -- The United Nations High Commissioner for Refugees (UNHCR) and the World Health Organisation (WHO) are sounding the alarm on the deteriorating health situation in Sudan which already claimed thousands of lives. The latest FE\u2026",
+      "url": "https://allafrica.com/stories/202309200533.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-20 14:21:23",
+      "content": "Geneva / Washington DC \u2014 The United Nations High Commissioner for Refugees (UNHCR) and the World Health Organisation (WHO) are sounding the alarm on the deteriorating health situation in Sudan which \u2026 [+3036 chars]",
+      "retrievedAt": "2023-09-21 19:05:22.772646",
+      "internal_id": "4ab826bba2d6bb0608284ef356f9f9f5284c7bbd7d7b6d3029b812e53024f27f",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1967,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Armel Dj\u00e8nontin, Daleb Alfa, Aziz Bouraima, Christophe Soares, Amal Dahounto, Sylvie Corn\u00e9lie, Marc Egrot, Georgia Damien, Franck Remou\u00e9, Andr\u00e9 Barembaye Sagna, Nicolas Moiroux, C\u00e9dric Pennetier",
+      "title": "Durability of the deltamethrin-treated polypropylene long-lasting net LifeNet\u00ae in a pyrethroid resistance area in south western Benin: A phase III trial",
+      "description": "Background Long-lasting insecticidal bed nets (LLINs) are a key measure for preventing malaria and their evaluation is coordinated by the World Health Organization Pesticide Evaluation Scheme (WHOPES). LifeNet\u00ae was granted WHOPES time-limited interim recommen\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291755",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0291755.g004&size=inline",
+      "publishedAt": "2023-09-20 14:00:00",
+      "content": "Abstract Background Long-lasting insecticidal bed nets (LLINs) are a key measure for preventing malaria and their evaluation is coordinated by the World Health Organization Pesticide Evaluation Sch\u2026 [+41053 chars]",
+      "retrievedAt": "2023-09-21 19:05:24.024458",
+      "internal_id": "712409104deb0589da4c03cfbb0914614e9a17eedbe0fd95bdcc04b7d89f31f1",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1953,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Amy McGorry",
+      "title": "New Mexico puppy is euthanized after it contracted rabies: This is a '100% preventable disease'",
+      "description": "A puppy recently tested positive for rabies and was euthanized in New Mexico, according to a news release from the state\u2019s health department. Here's what to know about treatment, prevention and risks.",
+      "url": "https://www.foxnews.com/health/new-mexico-puppy-euthanized-contracted-rabies-this-is-100-percent-preventable-disease",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/holding-dog-paw.jpg",
+      "publishedAt": "2023-09-20 12:30:52",
+      "content": "A puppy recently tested positive for rabies and was euthanized in New Mexico , according to a news release from the states health department. The animal, located in Bernalillo County, had shown sig\u2026 [+5537 chars]",
+      "retrievedAt": "2023-09-21 19:05:22.492539",
+      "internal_id": "adefbf837fec5705a99ef3da90966feacf8fc367f070f0f866a81c2dce056909",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1964,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Coberturas vacinais est\u00e3o melhores que em 2021 e 2022, diz SBIm",
+      "description": "Especialistas est\u00e3o reunidos na Jornada Nacional de Imuniza\u00e7\u00f5es",
+      "url": "https://noticias.r7.com/saude/coberturas-vacinais-estao-melhores-que-em-2021-e-2022-diz-sbim-20092023",
+      "urlToImage": "https://img.r7.com/images/r7rio-072023-vacina-crianca-27072023143859764?crop_position=c&dimensions=340x191",
+      "publishedAt": "2023-09-20 10:52:54",
+      "content": "Novidades como as vacinas para a dengue e para o v\u00edrus sincicial respirat\u00f3rio, al\u00e9m dos obst\u00e1culos j\u00e1 conhecidos do PNI (Programa Nacional de Imuniza\u00e7\u00f5es) como o antivacinismo e a hesita\u00e7\u00e3o vacinal s\u2026 [+8866 chars]",
+      "retrievedAt": "2023-09-21 19:05:23.250137",
+      "internal_id": "0b6348759ba290a21d9241a1c09bc0beecf05390804b9f638947d1d75d69b579",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1956,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Zosia Kmietowicz",
+      "title": "Sudan\u2019s worsening health conditions see children die of measles and malnutrition",
+      "description": "A lack of global attention on the crisis in Sudan is leading to the deaths of hundreds of children from preventable diseases and malnutrition, the UN refugee agency (UNHCR) has warned.The agency said that more than 1200 refugee children aged under 5 died in n\u2026",
+      "url": "https://www.bmj.com/content/382/bmj.p2158",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/382/8398.cover-source.jpg",
+      "publishedAt": "2023-09-20 10:06:08",
+      "content": "A lack of global attention on the crisis in Sudan is leading to the deaths of hundreds of children from preventable diseases and malnutrition, the UN refugee agency (UNHCR) has warned. The agency sa\u2026 [+256 chars]",
+      "retrievedAt": "2023-09-21 19:05:22.758978",
+      "internal_id": "d98df02531c3832ad11b5cf61c697df8566ff7aa42edb0f6562498eeff73c0af",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1963,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Hindi.Moneycontrol.com Team, Moneycontrol Hindi",
+      "title": "Dengue New Variant: \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0932\u0915\u094d\u0937\u0923\u094b\u0902 \u092e\u0947\u0902 \u092c\u0921\u093c\u093e \u092c\u0926\u0932\u093e\u0935, \u0924\u092c\u093e\u0939\u0940 \u092e\u091a\u093e \u0930\u0939\u093e \u0939\u0948 \u0928\u092f\u093e \u0935\u0947\u0930\u093f\u090f\u0902\u091f DEN2, \u091c\u093e\u0928\u093f\u090f \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 \u092c\u091a\u093e\u0935",
+      "description": "Dengue New Variant: \u0926\u0947\u0936 \u0915\u0947 \u0915\u0908 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0924\u0947\u091c\u0940 \u0938\u0947 \u092b\u0948\u0932 \u0930\u0939\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u0928\u090f \u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u0947 \u0939\u093e\u0939\u093e\u0915\u093e\u0930 \u092e\u091a\u093e \u0939\u0941\u0906 \u0939\u0948\u0964 \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 \u0915\u0947 \u0928\u094b\u090f\u0921\u093e \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0928\u092f\u093e \u0935\u0947\u0930\u093f\u090f\u0902\u091f \u0938\u093e\u092e\u0928\u0947 \u0906\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0928\u092f\u093e \u0935\u0947\u0930\u093f\u090f\u0902\u091f DEN2 \u0939\u0948, \u091c\u094b \u0918\u093e\u0924\u0915 \u0938\u093e\u092c\u093f\u0924 \u0939\u094b \u0930\u0939\u093e \u0939\u0948\u0964 \u0921\u0949\u0915\u094d\u091f\u0930\u094b\u0902 \u0915\u093e \u0915\u0939\u0928\u093e \u0939\u0948 \u0915\u093f \u092f\u0939 \u0928\u092f\u093e \u0938\u094d\u091f\u094d\u0930\u0947\u0928 \u0917\u0902\u092d\u0940\u2026",
+      "url": "https://hindi.moneycontrol.com/news/india/trends/dengue-new-variant-den2-found-in-noida-higly-infectious-and-spreads-faster-know-symptoms-and-prevention-1495401.html",
+      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2023/09/dengu-637x435.jpg",
+      "publishedAt": "2023-09-20 09:35:41",
+      "content": "Dengue New Variant: DEN2 , - (dengue tiger mosquito) 4 DENV-1. DENV-2, DENV-3 DENV-4 , -NCR Aedes Aegypti DEN2 , , , , - DENV-2 2012 D1 D3 , D2 DEN2 DENV-2 RT-PCR -",
+      "retrievedAt": "2023-09-21 19:05:23.245803",
+      "internal_id": "cf40f73acb5265231d01ba53ed2a4bce3ca0d47d3e1d9c6b67f01b2cace9f34e",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1961,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "UP On Alert, Monitoring Cases: Deputy Chief Minister Amid Rise In Dengue",
+      "description": "Amidst a surge in dengue cases in the state, Uttar Pradesh deputy chief minister Brajesh Pathak has said there is no case for serious concern and that authorities are monitoring cases in a day-to-day basis.",
+      "url": "https://www.ndtv.com/india-news/up-dengue-cases-up-on-alert-monitoring-cases-deputy-chief-minister-brajesh-pathak-amid-rise-in-dengue-4406738",
+      "urlToImage": "https://i.ndtvimg.com/i/2017-02/brajesh-pathak_650x400_61486692716.jpg",
+      "publishedAt": "2023-09-20 09:35:16",
+      "content": "Dengue Cases in UP: Brajesh Pathak further said the leave of officials has been cancelled. Lucknow: Amidst a surge in dengue cases in the state, Uttar Pradesh deputy chief minister Brajesh Pathak ha\u2026 [+1345 chars]",
+      "retrievedAt": "2023-09-21 19:05:23.211642",
+      "internal_id": "09c0b3aaa35546146e2f4b14dad948fc1ca2eb28af9eeec7374b9faac58a8eb6",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1959,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Hundreds of children dying of malnutrition in Sudan refugee camps, says UN",
+      "description": "The UN said on Tuesday that more than 1,200 children have died of malnutrition and suspected measles in refugee camps in Sudan amid nearly six months of fighting between the RSF paramilitary group and the Sudanese army, with fears that number could continue r\u2026",
+      "url": "https://www.france24.com/en/video/20230920-hundreds-of-children-dying-of-malnutrition-in-sudan-refugee-camps-says-un",
+      "urlToImage": "https://s.france24.com/media/display/8b11813a-5797-11ee-80f9-005056bf30b7/w:1280/p:16x9/EN_20230919_224549_224721_CS.jpg",
+      "publishedAt": "2023-09-20 09:24:55",
+      "content": "Issued on: 20/09/2023 - 11:24 The UN said on Tuesday that more than 1,200 children have died of malnutrition and suspected measles in refugee camps in Sudan amid nearly six months of fighting betwee\u2026 [+110 chars]",
+      "retrievedAt": "2023-09-21 19:05:22.784825",
+      "internal_id": "32e4e8f1b88c81680ec99b810c429ba82adaf2c82514293d60c7f805ed671686",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1966,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ari Daniel",
+      "title": "Bangladesh has been effective at fighting malaria. Can it eliminate the disease?",
+      "description": "Bangladesh has slashed its malaria numbers dramatically. But the parasite that causes the disease has a history of fighting back \u2014 and it seems it's doing so once again.",
+      "url": "https://www.npr.org/2023/09/20/1200528621/bangladesh-has-been-effective-at-fighting-malaria-can-it-eliminate-the-disease",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2023-09-20 09:04:38",
+      "content": "Bangladesh has slashed its malaria numbers dramatically. But the parasite that causes the disease has a history of fighting back and it seems it's doing so once again.",
+      "retrievedAt": "2023-09-21 19:05:24.019929",
+      "internal_id": "7541f40506f644f6fb616fcc09fe80bbab53cbcdbf575244c71d2bc725ae147f",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1954,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Another rabies death reported in Sarawak, fourth in two months",
+      "description": "KUCHING: The Sarawak Health Department has detected another death, believed to be from a rabies infection, of a victim who failed to seek medical treatment. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/09/20/another-rabies-death-reported-in-sarawak-fourth-in-two-months",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/20/2294378.jpg",
+      "publishedAt": "2023-09-20 07:55:00",
+      "content": "KUCHING: The Sarawak Health Department has detected another death, believed to be from a rabies infection, of a victim who failed to seek medical treatment. Its director Dr Ooi Choo Huck said that t\u2026 [+1366 chars]",
+      "retrievedAt": "2023-09-21 19:05:22.502588",
+      "internal_id": "6f31f813f6eb9fbe7ddcf5e02e56dac91e821a8890badc5c6d4d14ec07c31341",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1955,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Sudan: Children Dying Amid Healthcare System Collapse - UN Humanitarians",
+      "description": "[UN News] In war-torn Sudan, more than 1,200 children under five have died in camps in the space of four months from a combination of measles and malnutrition, UN humanitarians said on Tuesday.",
+      "url": "https://allafrica.com/stories/202309200088.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-20 07:18:21",
+      "content": "In war-torn Sudan, more than 1,200 children under five have died in camps in the space of four months from a combination of measles and malnutrition, UN humanitarians said on Tuesday. According to t\u2026 [+3091 chars]",
+      "retrievedAt": "2023-09-21 19:05:22.751864",
+      "internal_id": "e9817788251230effbbc16e1e586c7183159e68b54544d19a62a770384531d47",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1958,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "info@who.int (WHO)",
+      "title": "UNHCR, WHO Raise Alarm as 1,200 Children Die of Suspected Measles, Malnutrition",
+      "description": "Press Release - UNHCR, the UN Refugee Agency, and the World Health Organization (WHO) are again sounding the alarm on the worsening health situation caused by the Sudan crisis.",
+      "url": "https://allafrica.com/stories/202309200078.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-20 07:10:23",
+      "content": "UNHCR, the UN Refugee Agency, and the World Health Organization (WHO) are again sounding the alarm on the worsening health situation caused by the Sudan crisis. According to UNHCR teams in Sudan's W\u2026 [+5327 chars]",
+      "retrievedAt": "2023-09-21 19:05:22.780108",
+      "internal_id": "1626a1114cc580729d6bff272da031caa3f504265da8e449f132fcc3c191af0d",
+      "publishedAtLabel": "Sep 20"
+    },
     {
       "id": 1948,
       "query": [
@@ -3322,294 +3610,6 @@
       "retrievedAt": "2023-09-13 07:05:55.184217",
       "internal_id": "297add58d6ce93d93c37098d838ee182fb1b2ead94f68889adb0113b635d5e3a",
       "publishedAtLabel": "Sep 11"
-    },
-    {
-      "id": 1767,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Pipoca Moderna",
-      "title": "Morrissey adia shows no Brasil ap\u00f3s pegar dengue no M\u00e9xico",
-      "description": "Morrissey, ex-vocalista da banda The Smiths, adiou diversos shows na Am\u00e9rica Latina, inclusive ...",
-      "url": "https://www.terra.com.br/diversao/morrissey-adia-shows-no-brasil-apos-pegar-dengue-no-mexico,f4efc04bf9ad8994c1e717fb575ad55942f58l3n.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/09/11/1479303470-morrissey.jpg",
-      "publishedAt": "2023-09-11 22:14:59",
-      "content": "Morrissey, ex-vocalista da banda The Smiths, adiou diversos shows na Am\u00e9rica Latina, inclusive os que faria no Brasil, ap\u00f3s ser diagnosticado com dengue no M\u00e9xico. A informa\u00e7\u00e3o foi divulgada pelo sit\u2026 [+1342 chars]",
-      "retrievedAt": "2023-09-13 07:05:55.176196",
-      "internal_id": "3862756bcf5248d5070dc6028e2420be5fce7ffbe9e183e41f6f490c57642298",
-      "publishedAtLabel": "Sep 11"
-    },
-    {
-      "id": 1769,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Francetvinfo.fr",
-      "author": null,
-      "title": "Guadeloupe/Martinique : les cas de dengue se multiplient",
-      "description": "Dans les Antilles, le nombre de personnes contamin\u00e9es par le virus de la dengue continue de progresser ce lundi 11 septembre. En Guadeloupe et en Martinique, trois personnes sont d\u00e9c\u00e9d\u00e9es.",
-      "url": "https://www.francetvinfo.fr/sante/maladie/guadeloupe-martinique-les-cas-de-dengue-se-multiplient_6056757.html",
-      "urlToImage": "https://www.francetvinfo.fr/pictures/tgXXfZaOTk25ZRJrI1yOOXdrXKE/1500x843/2023/09/11/guadeloupemartinique-64ff79f696410723882515.jpg",
-      "publishedAt": "2023-09-11 20:47:12",
-      "content": "Avec le retour de la dengue, les Guadeloup\u00e9ens sont en alerte. Une m\u00e8re de famille surveille attentivement les points d'eau dans son jardin, par peur d'\u00eatre \u00e0 son tour contamin\u00e9e par le moustique. \"O\u2026 [+729 chars]",
-      "retrievedAt": "2023-09-13 07:05:55.190250",
-      "internal_id": "d7c664234d5a9dbf11f708f652b5c5f82af98a2d60896d01c4a689bab749534e",
-      "publishedAtLabel": "Sep 11"
-    },
-    {
-      "id": 1764,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "Nigeria\u2019s malaria death rate drops by 55% \u2013 WHO",
-      "description": "The World Health Organisation Regional Director for Africa, Dr Matshidiso Moeti, on Monday, said the malaria death rate in Nigeria has fallen by 55 per cent. Moeti said this on Monday, at the launch of the 2022 Nigeria Malaria Report in Abuja. Moeti also said\u2026",
-      "url": "https://punchng.com/nigerias-malaria-death-rate-drops-by-55-who/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/05/13101855/logo-who.tmb-1200v.jpg",
-      "publishedAt": "2023-09-11 18:52:55",
-      "content": "The World Health Organisation Regional Director for Africa, Dr Matshidiso Moeti, on Monday, said the malaria death rate in Nigeria has fallen by 55 per cent. Moeti said this on Monday, at the launch\u2026 [+2469 chars]",
-      "retrievedAt": "2023-09-12 19:05:25.861866",
-      "internal_id": "d33fe6cebcf83741cf5367da5fb820b08e789a905fe05975259fcfc71c4ea335",
-      "publishedAtLabel": "Sep 11"
-    },
-    {
-      "id": 1763,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "Malaria-causing parasites resistant to both treatment and detection have emerged in Ethiopia",
-      "description": "Genomic surveillance has revealed mutations in malaria-causing parasites that will complicate efforts to eradicate the disease in Africa.",
-      "url": "https://www.sciencedaily.com/releases/2023/09/230911141113.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-09-11 18:11:13",
-      "content": "Scientists have detected new strains of malaria-causing parasites in Ethiopia that are both resistant to current treatments and escape detection by common diagnostic tests -- a development that could\u2026 [+4673 chars]",
-      "retrievedAt": "2023-09-12 19:05:25.859468",
-      "internal_id": "4b5d6a4edbe33a5c975cbe83fd88cb5959d9d3da61528143be68c2e1ac88dda3",
-      "publishedAtLabel": "Sep 11"
-    },
-    {
-      "id": 1765,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "The Neglected Tropical Diseases Staff",
-      "title": "Correction: Correction: Asymptomatic Plasmodium vivax malaria in the Brazilian Amazon: Submicroscopic parasitemic blood infects Nyssorhynchus darlingi",
-      "description": "",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011623",
-      "urlToImage": null,
-      "publishedAt": "2023-09-11 14:00:00",
-      "content": "The byline in the previous Correction published June 16, 2023, is incorrect. The correct byline is The PLOS Neglected Tropical Diseases Staff. The publisher apologizes for the error.Citation: The Neg\u2026 [+597 chars]",
-      "retrievedAt": "2023-09-12 19:05:25.865214",
-      "internal_id": "5f9b58d6fac03adc233524ba73bc81b5be8532040b15bc48bddf679c0610e18d",
-      "publishedAtLabel": "Sep 11"
-    },
-    {
-      "id": 1762,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "20 Minutes avec agence (20 Minutes)",
-      "title": "Dengue en Hauts-de-Seine : D\u00e9moustication d\u2019un quartier de Ch\u00e2tillon o\u00f9 habitent deux malades",
-      "description": "Les sp\u00e9cialistes ont r\u00e9pandu un insecticide depuis l\u2019arri\u00e8re d\u2019un pick-up circulant \u00e0 faible allure",
-      "url": "https://www.20minutes.fr/sante/4052468-20230911-dengue-hauts-seine-demoustication-quartier-chatillon-habitent-deux-malades",
-      "urlToImage": "https://img.20mn.fr/8bN98DGHQLio1MaEUUc6cik/1200x768_moustique_tigre_un_cas_de_dengue_detecte_dans_les_hauts_de_seine1",
-      "publishedAt": "2023-09-11 13:11:57",
-      "content": "Face \u00e0 la multiplication des moustiques-tigres \u00e0 Ch\u00e2tillon (Hauts-de-Seine) des habitants et la Mairie r\u00e9clamaient des mesures sanitaires \u00e0 l\u2019Agence r\u00e9gionale de la sant\u00e9 (ARS). Deux cas de dengue d\u00e9\u2026 [+950 chars]",
-      "retrievedAt": "2023-09-12 19:05:25.135143",
-      "internal_id": "054185207a102b2dc4a27ca98d9f17910b15c307112dd513d224fae2ed5477cb",
-      "publishedAtLabel": "Sep 11"
-    },
-    {
-      "id": 1761,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eldiario.es",
-      "author": "La Palma Ahora",
-      "title": "Sanidad considera erradicado el mosquito del dengue en La Palma",
-      "description": "La Consejer\u00eda de Sanidad del Gobierno de Canarias, a trav\u00e9s de la Direcci\u00f3n General de Salud P\u00fablica, informa que tras los trabajos exhaustivos de vigilancia entomol\u00f3gica puede considerarse superado el episodio y erradicado el mosquito 'Aedes aegypti' en la I\u2026",
-      "url": "https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/sanidad-considera-superado-episodio-erradicado-mosquito-dengue-palma_1_10504042.html",
-      "urlToImage": "https://static.eldiario.es/clip/69fa8bcf-52f3-46d7-bdc7-e33ab32eeba7_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-09-11 11:09:56",
-      "content": "La Consejer\u00eda de Sanidad del Gobierno de Canarias, a trav\u00e9s de la Direcci\u00f3n General de Salud P\u00fablica, informa que tras los trabajos exhaustivos de vigilancia entomol\u00f3gica puede considerarse superado \u2026 [+5011 chars]",
-      "retrievedAt": "2023-09-12 19:05:25.131648",
-      "internal_id": "3f53c79294eef49a2f1f98228a1c6adf0a05ce3f8beec623e86877a9ff3f1e1e",
-      "publishedAtLabel": "Sep 11"
-    },
-    {
-      "id": 1766,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Allied Market Research",
-      "title": "Typhoid Treatment Market to Reach $4.8Billion, Globally, by 2032 at 5.1% CAGR: Allied Market Research",
-      "description": "The growth of the global typhoid treatment market is driven by rise in the prevalence of typhoid infection, availability of generic antibiotics and rise in R&D activities. The growth of the global typhoid treatment market is driven by rise in the prevalence o\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/09/11/2740624/0/en/Typhoid-Treatment-Market-to-Reach-4-8Billion-Globally-by-2032-at-5-1-CAGR-Allied-Market-Research.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/9c430095-89f7-48b4-b8f0-e1f4ed1a5660",
-      "publishedAt": "2023-09-11 10:40:00",
-      "content": "New Castle, Delaware, Sept. 11, 2023 (GLOBE NEWSWIRE) -- Allied Market Research published a report, titled, Typhoid Treatment Market by Treatment Type (Antibiotics, Pain Medication, Others), by Route\u2026 [+10177 chars]",
-      "retrievedAt": "2023-09-12 19:05:26.867194",
-      "internal_id": "51ae4bdb35098d1bfcedfa1a6ee2e64c1da360155f6ac2200140a5d3e818e24a",
-      "publishedAtLabel": "Sep 11"
-    },
-    {
-      "id": 1759,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue grows deadlier in South Asia as planet warms",
-      "description": "DHAKA/KATHMANDU: Mosquito-borne dengue fever is taking a heavy toll on South Asian nations this year as Bangladesh grapples with record deaths and Nepal faces cases in new areas, with disease experts linking worsening outbreaks to the impacts of climate chang\u2026",
-      "url": "https://english.khabarhub.com/2023/11/317863/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/09/Dengue_Bangladesh_AP.jpg",
-      "publishedAt": "2023-09-11 01:15:47",
-      "content": "A paramedic gives an injection to a child suffering from dengue at Mugda Medical College and Hospital in Dhaka, Bangladesh/File Photo: AP DHAKA/KATHMANDU: Mosquito-borne dengue fever is taking a hea\u2026 [+6965 chars]",
-      "retrievedAt": "2023-09-12 07:05:47.581960",
-      "internal_id": "b7cce294daceb0e361b281325adcc3befa02024fdea70ec5e838040d0429ca97",
-      "publishedAtLabel": "Sep 11"
-    },
-    {
-      "id": 1757,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": null,
-      "title": "Morrissey posterga su show en Buenos Aires luego de contraer dengue en M\u00e9xico",
-      "description": "El reencuentro con el p\u00fablico porte\u00f1o estaba previsto para el 23 de este mes, en el Movistar Arena; aun no se dio a conocer la nueva fecha",
-      "url": "https://www.lanacion.com.ar/espectaculos/morrissey-posterga-su-show-en-buenos-aires-luego-de-contraer-dengue-en-mexico-nid10092023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/fotos-de-agustin-OCZ7EWHJIND3VLGCAIMYJZ2EOE.jpg?auth=b35bd12d7e66778f0ed37f0e5ae359f587952f165ff5b57cfdf61b6a69710b1f&width=768&quality=70&smart=false",
-      "publishedAt": "2023-09-10 23:25:42",
-      "content": "A finales de junio se anunci\u00f3 el regreso de Morrissey a Buenos Aires con un nuevo show que buscaba celebrar sus 40 a\u00f1os de trayectoria. De este modo se iba a producir el reencuentro con sus fans port\u2026 [+3139 chars]",
-      "retrievedAt": "2023-09-12 07:05:47.572702",
-      "internal_id": "c0f555922167f476fc965cd92df3677c9a3b8afe0efdd246cf15a0edcba5cade",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1756,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Reforma.com",
-      "author": "Grupo REFORMA",
-      "title": "Contrae Morrissey dengue durante su visita a M\u00e9xico",
-      "description": "Morrissey tuvo que posponer su presentaci\u00f3n en la Ciudad de M\u00e9xico porque contrajo dengue durante su estancia en el Pa\u00eds, seg\u00fan reporte.",
-      "url": "https://www.reforma.com/contrae-morrissey-dengue-durante-su-visita-a-mexico/ar2672957",
-      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?wm=1&img=https://img.gruporeforma.com/imagenes/960x640/6/559/5558571.jpg&ang=0",
-      "publishedAt": "2023-09-10 19:20:14",
-      "content": "Morrissey tuvo que posponer su presentaci\u00f3n en la Ciudad de M\u00e9xico debido a que contrajo dengue durante su estancia en el Pa\u00eds. Cr\u00e9dito: Archivo",
-      "retrievedAt": "2023-09-12 07:05:47.562120",
-      "internal_id": "e132dfb1af19b0caeb55708ec8c389f55a834c5305287e7c13b066858712fb1c",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1758,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": null,
-      "title": "Corruption in health sector turns dengue into epidemic: Mirza Fakhrul",
-      "description": "He further said hospitals cannot accommodate all patients, on the other hand, people are becoming destitute to meet the medical expenses.",
-      "url": "https://www.tbsnews.net/bangladesh/politics/dengue-became-epidemic-due-corruption-health-sector-fakhrul-697894",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/10/bnp_secretary_general_mizra_fakhrul.jpg",
-      "publishedAt": "2023-09-10 19:13:51",
-      "content": "The country is grappling with a dengue outbreak that has now reached the stage of an epidemic because of the corruption in the country's health sector, said BNP Secretary General Mirza Fakhrul Islam \u2026 [+2235 chars]",
-      "retrievedAt": "2023-09-12 07:05:47.577519",
-      "internal_id": "8a7a9be9af8d2bb5d8cd24c5072e01f6b2df8e2ed24b28229dcbfd96b9c48cff",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1752,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "FRANCE 24 English",
-      "author": "FRANCE24",
-      "title": "L'\u00e9pid\u00e9mie de dengue progresse en Guadeloupe et Martinique",
-      "description": "Entre le 28 ao\u00fbt et le 3 septembre, l'agence Sant\u00e9 publique France a enregistr\u00e9 770 cas cliniquement \u00e9vocateurs de dengue en Martinique et 600 en Guadeloupe. Dans une proportion bien moindre, Saint-Martin et Saint-Barth\u00e9lemy sont \u00e9galement touch\u00e9es, avec des\u2026",
-      "url": "https://www.france24.com/fr/info-en-continu/20230910-l-%C3%A9pid%C3%A9mie-de-dengue-progresse-en-guadeloupe-et-martinique",
-      "urlToImage": "https://s.france24.com/media/display/17361268-5007-11ee-b3a1-005056a90321/w:1280/p:16x9/8d6f4a1127c424e512f8dda624944c4fc51ddf06.jpg",
-      "publishedAt": "2023-09-10 18:23:08",
-      "content": "Pointe-\u00e0-Pitre (AFP) Remont\u00e9e des cas, hospitalisations en hausse: l'\u00e9pid\u00e9mie de dengue poursuit sa progression aux Antilles, o\u00f9 les autorit\u00e9s sanitaires surveillent les profils \u00e0 risque de formes gr\u2026 [+3876 chars]",
-      "retrievedAt": "2023-09-11 19:05:24.008882",
-      "internal_id": "fc006f97662cb0ae3c2dbfb86dc157902fdc454b8c7029eab1287e23d7dfb79c",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1755,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Pamela Sakina, Raka Adji",
-      "title": "Health Ministry studies dengue vaccination",
-      "description": "The Ministry of Health is studying the provision of the dengue vaccine, known as the Tetravalent Dengue Vaccine (TDV), as a national vaccination program. The ministry's Director of Communicable Disease Prevention and ...",
-      "url": "https://en.antaranews.com/news/293361/health-ministry-studies-dengue-vaccination",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/09/10/IMG_4139.jpg",
-      "publishedAt": "2023-09-10 16:23:43",
-      "content": "Jakarta (ANTARA) - The Ministry of Health is studying the provision of the dengue vaccine, known as the Tetravalent Dengue Vaccine (TDV), as a national vaccination program.The ministry's Director of \u2026 [+1856 chars]",
-      "retrievedAt": "2023-09-11 19:05:24.019242",
-      "internal_id": "a4eaac1498782711dd8d689f0d2651b4afb42779a8c0e690b255bc957cef5675",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1748,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Amandine Ascensio",
-      "title": "La Guadeloupe et la Martinique confront\u00e9es \u00e0 une \u00e9pid\u00e9mie de dengue virulente",
-      "description": "Dans la semaine du 7 septembre, plus de 1 300 cas dits \u00ab \u00e9vocateurs \u00bb ont \u00e9t\u00e9 recens\u00e9s par Sant\u00e9 publique France, en Guadeloupe et en Martinique.",
-      "url": "https://www.lemonde.fr/planete/article/2023/09/10/la-guadeloupe-et-la-martinique-confrontees-a-une-epidemie-de-dengue-virulente_6188747_3244.html",
-      "urlToImage": "https://img.lemde.fr/2023/08/24/0/0/4222/2815/1440/960/60/0/3bdd7b0_2023-08-24t095529z-1566278502-rc25u2av8ol8-rtrmadp-3-bangladesh-health.JPG",
-      "publishedAt": "2023-09-10 15:00:17",
-      "content": "Aux Antilles, les services sanitaires sont sur le qui-vive. La dengue, affection tr\u00e8s invalidante transmise par les moustiques, m\u00eame si elle ne dispara\u00eet jamais totalement des territoires carib\u00e9ens, \u2026 [+2941 chars]",
-      "retrievedAt": "2023-09-11 19:05:23.991362",
-      "internal_id": "04ffcccf3a4abc8922cab48aaffdabbd704bb61378278ce966305aac3675364b",
-      "publishedAtLabel": "Sep 10"
-    },
-    {
-      "id": 1754,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Puthiyathalaimurai.com",
-      "author": "Pt Web",
-      "title": "\u0b9a\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bbf\u0ba9\u0bcd \u0ba4\u0bbe\u0baf\u0bcd \u0bb5\u0bc7\u0ba4\u0ba9\u0bc8!/Four year old boy died due to dengue fever in chennai",
-      "description": "\u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8 \u0bae\u0ba4\u0bc1\u0bb0\u0bb5\u0bbe\u0baf\u0bb2\u0bcd \u0b9a\u0b9f\u0bcd\u0b9f\u0bae\u0ba9\u0bcd\u0bb1 \u0ba4\u0bca\u0b95\u0bc1\u0ba4\u0bbf, \u0bb5\u0bb3\u0b9a\u0bb0\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd \u0bae\u0ba3\u0bcd\u0b9f\u0bb2\u0bae\u0bcd 7 \u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8\u0baf\u0bbe\u0bb0\u0bcd \u0b95\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd \u0ba4\u0bc6\u0bb0\u0bc1\u0bb5\u0bc8 \u0b9a\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bb5\u0bb0\u0bcd \u0b85\u0baf\u0bcd\u0baf\u0ba9\u0bbe\u0bb0\u0bcd, \u0b9a\u0bcb\u0ba9\u0bbf\u0baf\u0bbe \u0ba4\u0bae\u0bcd\u0baa\u0ba4\u0bbf\u0baf\u0bbf\u0ba9\u0bb0\u0bcd. \u0b87\u0bb5\u0bb0\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0ba8\u0bbe\u0ba9\u0bcd\u0b95\u0bc1 \u0bb5\u0baf\u0ba4\u0bbf\u0bb2\u0bcd \u0b92\u0bb0\u0bc1 \u0b86\u0ba3\u0bcd \u0b95\u0bc1\u0bb4\u0ba8",
-      "url": "https://www.puthiyathalaimurai.com/health/four-year-old-boy-died-due-to-dengue-fever-in-chennai",
-      "urlToImage": "https://gumlet.assettype.com/puthiyathalaimurai%2F2023-09%2F1a0bd9cc-9951-4afe-b69e-d0c130aa6990%2Fdelhi.png?rect=0%2C0%2C800%2C420&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
-      "publishedAt": "2023-09-10 13:50:02",
-      "content": "4 : ... . , , . , , , , . . . . , . . . , . ! .",
-      "retrievedAt": "2023-09-11 19:05:24.016009",
-      "internal_id": "a9ec94d70818ef92e9a5f3784b9dcd9ab7de4610f7d7fb550a915c93c8f11744",
-      "publishedAtLabel": "Sep 10"
     }
   ]
 }
