@@ -1,8 +1,207 @@
 {
-  "last_updated": "2023-09-21 19:05",
+  "last_updated": "2023-09-22 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 16,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 1977,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Student's 'freshers' flu' turned out to be meningitis",
+      "description": "A student who ignored the symptoms of meningitis urges others to be aware of the signs.",
+      "url": "https://www.bbc.co.uk/news/uk-wales-66872803",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/24DA/production/_131143490_freshersflu.png",
+      "publishedAt": "2023-09-21 05:27:20",
+      "content": "A student who mistook the symptoms of meningitis for so-called freshers' flu believes his housemate saved his life. Levi Lawrence, 21, was sick for three weeks with a \"continuous cold\" until one day\u2026 [+2574 chars]",
+      "retrievedAt": "2023-09-22 07:05:40.659887",
+      "internal_id": "cc5adc38be65e7a6a4643a563152cf378aae4ca42882cf850f2f47e1fa7f4a19",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1973,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "Sensex, Nifty trade lower on weak global cues",
+      "description": "NEW DELHI: Tracking Asian peers, both Indian indices-sensex and Nifty-opened lower on Thursday.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-nifty-indian-rupee-us-federal-reserve-indian-stock-markets/articleshow/103825230.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103825321,width-1070,height-580,imgsize-23998,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-21 03:54:01",
+      "content": "13 natural foods for faster recovery from dengue fever",
+      "retrievedAt": "2023-09-22 07:05:40.267978",
+      "internal_id": "21025fa41ef907a9761f8b7d6879159288a05ef3b92397c95058975602ec4546",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1970,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "REBECCA BOONE Associated Press",
+      "title": "An Idaho man has measles. Health officials are trying to see if the contagious disease has spread.",
+      "description": "An Idaho man has contracted measles, and health officials are working to contact anyone who may have been exposed to the highly contagious disease",
+      "url": "https://abcnews.go.com/Health/wireStory/idaho-man-measles-health-officials-contagious-disease-spread-103364223",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-09-21 00:31:35",
+      "content": "An Idaho man has contracted measles, and health officials are working to contact anyone who may have been exposed to the highly contagious disease. The man was unvaccinated, the Idaho Department of\u2026 [+2266 chars]",
+      "retrievedAt": "2023-09-22 07:05:39.804895",
+      "internal_id": "a91c54bc09f7b659ad4c0db40f6a4a592a6c904421c17e84d664401c04da462c",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1974,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Pearl D'souza",
+      "title": "B'luru: Dengue cases soar in Sept; daily avg up from 77 to 109",
+      "description": "Bengaluru is experiencing a significant increase in dengue cases this month, with over 2,000 cases recorded between September 1 and 20. The areas most affected are East, South, and Mahadevapura zones. Karnataka has seen a total of 9,208 dengue cases this year\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-soar-in-septdaily-avg-up-from-77-to-109/articleshow/103822211.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103822223,width-1070,height-580,imgsize-16072,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-21 00:13:28",
+      "content": "8 foods one should not eat with eggs, and why",
+      "retrievedAt": "2023-09-22 07:05:40.272884",
+      "internal_id": "b8ad20b995802f0fb141e2a367b3efd0fad3a5fc8c882a7ce6d41c08ce48524e",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1975,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Mumbai: September records over 700 dengue, malaria cases",
+      "description": "MUMBAI: The city continues to see a significant surge in vector-borne diseases, specifically malaria and dengue.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/sept-records-over-700-dengue-malaria-cases/articleshow/103822119.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103822130,width-1070,height-580,imgsize-985377,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-20 23:53:03",
+      "content": "8 foods one should not eat with eggs, and why",
+      "retrievedAt": "2023-09-22 07:05:40.279584",
+      "internal_id": "d933b0f2e6dc667574622623d3fc700956d4377edeb7bb14c1ab661a5ae6ab9c",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1980,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "ExxonMobil, others train 8,000 public health advocates",
+      "description": "In its bid to create public health awareness among Nigerian youths, ExxonMobil, through its Power Forward programme, has raised over 8,000 malaria champions and public health advocates. The Power Forward youth development programme has provided life skills an\u2026",
+      "url": "https://punchng.com/exxonmobil-others-train-8000-public-health-advocates/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2018/02/11221912/ExxonMobil.jpg",
+      "publishedAt": "2023-09-20 23:38:26",
+      "content": "In its bid to create public health awareness among Nigerian youths, ExxonMobil, through its Power Forward programme, has raised over 8,000 malaria champions and public health advocates. The Power Fo\u2026 [+1415 chars]",
+      "retrievedAt": "2023-09-22 07:05:41.162205",
+      "internal_id": "6bdddebf4b71bdbead0d573fcd8df719d49e4fb9ca956018ea5d40fd5e495cb4",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1978,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Umana, E., Mills, C., Norman-Bruce, H., Wilson, K., Mitchell, H., McFetridge, L., Woolfall, K., Lynn, F. A., McKeeman, G., Foster, S., Barrett, M., Roland, D., Lyttle, M. D., Watson, C., Waterfield, T.",
+      "title": "Applying clinical decision aids for the assessment and management of febrile infants presenting to emergency care in the UK and Ireland: Febrile Infant Diagnostic Assessment and Outcome (FIDO) Study protocol",
+      "description": "Introduction Febrile infants 90 days and younger are at risk of invasive bacterial infections (bacteraemia and meningitis) and urinary tract infections. Together this is previously termed serious bacterial infection with an incidence of approximately 10\u201320%. \u2026",
+      "url": "https://bmjopen.bmj.com/content/13/9/e075823?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-09-20 23:27:42",
+      "content": "Introduction Febrile infants under 90 days of age are at a higher risk of invasive bacterial infections (IBIs) and urinary tract infections (UTIs) than older children. Several studies have reported \u2026 [+5323 chars]",
+      "retrievedAt": "2023-09-22 07:05:40.663792",
+      "internal_id": "82d710fee4defd88a7d72a78a03e519e871b5133cd1aefe5ba579ade79032246",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1969,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "John Charles",
+      "title": "Displaced by bandits, diseases compound women, children\u2019s woes in Benue IDP camps",
+      "description": "Though they had come to seek refuge at the internally displaced persons camps from the aggression of herdsmen, farmers in Benue State are battling another scare: The fear of losing their children to the outbreak of measles and smallpox as basic medical facil\u2026",
+      "url": "https://punchng.com/displaced-by-bandits-diseases-compound-women-childrens-woes-in-benue-idp-camps/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/20201110/IDP-camps.jpg",
+      "publishedAt": "2023-09-20 23:05:26",
+      "content": "Though they had come to seek refuge at the internally displaced persons camps from the aggression of herdsmen, farmers in Benue State are battling another scare: The fear of losing their children to \u2026 [+10601 chars]",
+      "retrievedAt": "2023-09-22 07:05:39.797424",
+      "internal_id": "aad9befc7fc23793e7f1f047072d148eb0fa67b8208e257ce8b3358697f99682",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1972,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Project Wolbachia: 300 million mosquitoes released but not a silver bullet to stem out dengue, says NEA",
+      "description": "In areas with many mosquitos, the Wolbachia mosquitos cannot compete with them and will be \u201coverwhelmed\u201d, says the National Environment Agency.",
+      "url": "https://www.channelnewsasia.com/singapore/project-wolbachia-mosquito-dengue-nea-facility-3773176",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--GH3dxd4U--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/15/ray_0022.jpg?itok=SoiC72Xh",
+      "publishedAt": "2023-09-20 22:00:00",
+      "content": "How are male Wolbachia-Aedes aegypti mosquitoes produced? NEA scientist Deng Lu shows CNA how it's done. Step 1: Egg production Mosquito eggs are produced in the adult insectary room, and these eg\u2026 [+2829 chars]",
+      "retrievedAt": "2023-09-22 07:05:40.256775",
+      "internal_id": "8f2cdacb18b2148c8be73554fea6a733a1ee2fc6557dff727488f7661ceaca90",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1971,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FactCheck.org",
+      "author": "Saranac Hale Spencer",
+      "title": "Flu Shots, MMR Vaccines Have Saved Millions of Lives, Contrary to Online Claim",
+      "description": "Flu shots and vaccines that protect children against measles, mumps and rubella have been effective in preventing illness, serious disease and death. But a meme has been circulating with the false suggestion that those vaccines are ineffective. Actually, they\u2026",
+      "url": "https://www.factcheck.org/2023/09/scicheck-flu-shots-mmr-vaccines-have-saved-millions-of-lives-contrary-to-online-claim/",
+      "urlToImage": "https://cdn.factcheck.org/UploadedFiles/FluMMRstamp.jpg",
+      "publishedAt": "2023-09-20 21:52:43",
+      "content": "Flu shots and vaccines that protect children against measles, mumps and rubella have been effective in preventing illness, serious disease and death. But a meme has been circulating with the false su\u2026 [+15296 chars]",
+      "retrievedAt": "2023-09-22 07:05:39.810994",
+      "internal_id": "d18781c73369c64d7baf29d6d5f33b9f50d379ad60a374a9c6e5bee238625fae",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1979,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ari Daniel",
+      "title": "Malaria is on the ropes in Bangladesh. But the parasite is punching back",
+      "description": "What does it take to beat malaria? Thousands of moccasins walking down rural roads, overnight bus rides for lab tests ... and a highly effective drug. But the parasite isn't going along with the plan.",
+      "url": "https://www.npr.org/sections/goatsandsoda/2023/09/20/1199485212/malaria-is-on-the-ropes-in-bangladesh-but-the-parasite-is-punching-back",
+      "urlToImage": "https://media.npr.org/assets/img/2023/09/19/fatima_tuj_johora_malariabangladesh_0026-toned_wide-93a75e03da2893bac3cdb633b9f27215d9bac09d-s1400-c100.jpg",
+      "publishedAt": "2023-09-20 19:22:37",
+      "content": "Bulbul Aktar, a shasthya kormi, or community health worker, with the malaria elimination program in Bangladesh, goes door to door to treat malaria patients. \"This is my job, my duty,\" says Aktar. \"Ev\u2026 [+10371 chars]",
+      "retrievedAt": "2023-09-22 07:05:41.158396",
+      "internal_id": "a361b61682dcacb97bec4d3f8b05fc9d528116e4d5fe7374f1ca6d6554b31d5f",
+      "publishedAtLabel": "Sep 20"
+    },
     {
       "id": 1960,
       "query": [
@@ -91,6 +290,24 @@
       "content": "Geneva / Washington DC \u2014 The United Nations High Commissioner for Refugees (UNHCR) and the World Health Organisation (WHO) are sounding the alarm on the deteriorating health situation in Sudan which \u2026 [+3036 chars]",
       "retrievedAt": "2023-09-21 19:05:22.772646",
       "internal_id": "4ab826bba2d6bb0608284ef356f9f9f5284c7bbd7d7b6d3029b812e53024f27f",
+      "publishedAtLabel": "Sep 20"
+    },
+    {
+      "id": 1976,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Govt to procure 20 lakh pieces of saline for dengue patients",
+      "description": "The government on Wednesday approved a proposal in principle for procuring some 12 lakh pieces of normal saline 1000 ml and 8 lakh pieces of glucose saline 1000 ml under the Direct Procurement Method (DPM) on urgent basis in order to facilitate the treatment \u2026",
+      "url": "https://sylhetmirror.com/2023/09/20/govt-to-procure-20-lakh-pieces-of-saline-for-dengue-patients/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/09/ewrt54.jpg",
+      "publishedAt": "2023-09-20 14:09:04",
+      "content": "The government on Wednesday approved a proposal in principle for procuring some 12 lakh pieces of normal saline 1000 ml and 8 lakh pieces of glucose saline 1000 ml under the Direct Procurement Method\u2026 [+1032 chars]",
+      "retrievedAt": "2023-09-22 07:05:40.300014",
+      "internal_id": "738ce04070ab352d08f9bd1d1de8ccd4af26ebb818d85149b2c239180402879f",
       "publishedAtLabel": "Sep 20"
     },
     {
@@ -3394,222 +3611,6 @@
       "retrievedAt": "2023-09-13 19:05:26.976505",
       "internal_id": "142b668a634bc5ec2e8a137b0381a4dab5c6d0bf6aa7ba31871503d83fb144ec",
       "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1793,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Burkina Faso: Flamb\u00e9e de cas de Dengue",
-      "description": "[L'Observateur Paalga] 3000 cas de dengue. C'est...dingue ! La riposte doit \u00eatre de taille et le Comit\u00e9 national de gestion des \u00e9pid\u00e9mies s'est r\u00e9uni, \u00e0 cet effet le lundi 11 septembre 2023 \u00e0 Ouagadougou en vue d'examiner la situation et de proposer des actio\u2026",
-      "url": "https://fr.allafrica.com/stories/202309120134.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-12 08:33:51",
-      "content": "3000 cas de dengue. C'est...dingue ! La riposte doit \u00eatre de taille et le Comit\u00e9 national de gestion des \u00e9pid\u00e9mies s'est r\u00e9uni, \u00e0 cet effet le lundi 11 septembre 2023 \u00e0 Ouagadougou en vue d'examiner \u2026 [+2526 chars]",
-      "retrievedAt": "2023-09-13 19:05:26.383220",
-      "internal_id": "8d541ffec83373e70551d2173d347a89f6cd59b532f80dbbf90464f9e2ce5759",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1792,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "J.U. (20 Minutes)",
-      "title": "Moustique tigre : Op\u00e9ration de d\u00e9moustication apr\u00e8s un cas de dengue pr\u00e8s de Nantes",
-      "description": "Un traitement insecticide a \u00e9t\u00e9 r\u00e9alis\u00e9 cette nuit \u00e0 Saint-S\u00e9bastien-sur-Loire, sur demande de l'Agence r\u00e9gionale de sant\u00e9",
-      "url": "https://www.20minutes.fr/societe/4052578-20230912-moustique-tigre-operation-demoustication-apres-cas-dengue-pres-nantes",
-      "urlToImage": "https://img.20mn.fr/znFnSfqvSYK2BeLT6oJ-uQ/1200x768_moustique-tigre-illustration",
-      "publishedAt": "2023-09-12 08:25:52",
-      "content": "Les habitants du quartier de la Baugerie, \u00e0 Saint-S\u00e9bastien-sur-Loire, ont peut-\u00eatre vu passer des agents \u00e9quip\u00e9s de combinaisons blanches et de masques, cette nuit. Entre 23 heures et 3 heures du ma\u2026 [+1024 chars]",
-      "retrievedAt": "2023-09-13 19:05:26.381347",
-      "internal_id": "8e90135d5511f873f80cb0974069e58383f8f4e4aa09074e019e1f9732227cd3",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1775,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "Malaria: Health minister commends US, partners over $900m investment",
-      "description": "The Coordinating Minister of Health and Social Welfare, Prof. Ali Pate, has commended the United States Government and other partners for investing about $900 million in Nigeria\u2019s malaria, HIV/AIDS and tuberculosis programmes. He made the commendation in Abuj\u2026",
-      "url": "https://punchng.com/malaria-health-minister-commends-us-partners-over-900m-investment/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/11124341/Pate_cropped_h1-2.jpg",
-      "publishedAt": "2023-09-12 07:02:24",
-      "content": "The Coordinating Minister of Health and Social Welfare, Prof. Ali Pate, has commended the United States Government and other partners for investing about $900 million in Nigerias malaria, HIV/AIDS an\u2026 [+2686 chars]",
-      "retrievedAt": "2023-09-13 07:05:55.963184",
-      "internal_id": "f5cb721a7fb55361d3b45a72dffa28587a6a94ae0dcb5bccf310e04ed9f23cb9",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1776,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "CounterPunch",
-      "author": "Ralph Nader",
-      "title": "Second and Third-Stage Consequences of Fossil-Fueled Climate Disruptions Emerging Fast",
-      "description": "The record heat wave and flooding that left one-third of Pakistan under water have unleashed \u201cdark clouds of mosquitoes\u201d spreading malaria. Food supplies were reduced by drenched fields unable to grow crops. The article depicted a world map with color-coded m\u2026",
-      "url": "https://www.counterpunch.org/2023/09/12/second-and-third-stage-consequences-of-fossil-fueled-climate-disruptions-emerging-fast/",
-      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2023/09/ehimetalor-akhere-unuabona-TUTPOWbrSAc-unsplash-scaled.jpg",
-      "publishedAt": "2023-09-12 05:57:42",
-      "content": "Image by Ehimetalor Akhere Unuabona. The headlines on climate catastrophes are becoming more informative as they become more ominous. For years the media headlines have been describing record floods\u2026 [+5905 chars]",
-      "retrievedAt": "2023-09-13 07:05:55.965767",
-      "internal_id": "002dcbb54495532e3a1489b5843afc2cb96b2d8635778f05e2e390d3c32e9333",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1773,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Nigeria: Nigeria Records 55% Drop in Malaria Deaths - WHO",
-      "description": "[Daily Trust] Nigeria has recorded a 55 percent drop in malaria deaths, the World Health Organization (WHO) has said.",
-      "url": "https://allafrica.com/stories/202309120014.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-12 04:59:01",
-      "content": "Nigeria has recorded a 55 percent drop in malaria deaths, the World Health Organization (WHO) has said. WHO Regional Director for Africa, Dr Matshidiso Moeti, said it fell from 2.1 per 1,000 populat\u2026 [+2184 chars]",
-      "retrievedAt": "2023-09-13 07:05:55.957716",
-      "internal_id": "9536f083e7ff864cb30c1926036e78b36db8d3dedaf58cce54d7b56ea5999fef",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1772,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "FOX 10 News Phoenix",
-      "author": "Marissa Sarbak",
-      "title": "Phoenix woman nearly dies after getting plastic surgery in Mexico, and she's not alone",
-      "description": "A woman in Phoenix trusted that she found a reputable plastic surgery clinic in Mexico, but soon learned that she was part of a group of people coming down with a deadly infection. She started seeing patients pass away one by one and hoped she wasn't next.",
-      "url": "https://www.fox10phoenix.com/news/phoenix-woman-nearly-dies-after-getting-plastic-surgery-in-mexico-and-shes-not-alone",
-      "urlToImage": "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2023/09/1280/720/snapshot-5.jpg?ve=1&tl=1",
-      "publishedAt": "2023-09-12 04:22:51",
-      "content": "PHOENIX - A warning is coming down from the Centers for Disease Control and Prevention (CDC) after a dozen fungal meningitis deaths were tied to clinics in Mexico where Americans have been getting co\u2026 [+6295 chars]",
-      "retrievedAt": "2023-09-13 07:05:55.611407",
-      "internal_id": "109b40fa75a36d9caf54d67f4cc591b200862f9c83cfdbb48710a4046422c5e7",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1771,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Anita Ward",
-      "title": "Even healthy people are getting sick with pneumonia this year \u2014 why?",
-      "description": "An expert says there's been a spike in pneumonia infections in people with healthy immune systems. Circus performer Caitlyn Larsson, who had the infection for three months this year, is one of them.",
-      "url": "https://www.abc.net.au/news/2023-09-12/more-healthy-people-sick-with-pneumonia-this-year/102781648",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/92ea1fcca13048a67be772badadf25cb?impolicy=wcms_crop_resize&cropH=1229&cropW=2184&xPos=790&yPos=315&width=862&height=485",
-      "publishedAt": "2023-09-12 01:00:13",
-      "content": "More people have been sick this year with pneumococcal infections that can cause pneumonia and meningitis, according to health data from a number of states. Key points: Experts say more peo\u2026 [+4706 chars]",
-      "retrievedAt": "2023-09-13 07:05:55.608067",
-      "internal_id": "b8186e3062fb5a46c320fd8d55cd47b41c4516224eb2d87a158545f78c5749b5",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1770,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Bacolod dengue cases decrease",
-      "description": "Bacolod City \u2013 Cases of dengue in Bacolod City continue to decrease this year, compared to cases covering the same period last year, from January 1 to August 26. Records of the Bacolod City Health Office (CHO) showed that the total cases of dengue as of Augus\u2026",
-      "url": "https://rpnradio.com/bacolod-dengue-cases-decrease/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/09/dengue-down-in-bc.jpg",
-      "publishedAt": "2023-09-12 00:44:16",
-      "content": "Bacolod City \u2013 Cases of dengue in Bacolod City continue to decrease this year, compared to cases covering the same period last year, from January 1 to August 26. Records of the Bacolod City Health O\u2026 [+831 chars]",
-      "retrievedAt": "2023-09-13 07:05:55.194743",
-      "internal_id": "bac41944251405367404221e02d8ba80806cb11533fc01ab1bd7959104aee629",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1774,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "Nigeria\u2019s malaria death rate drops by 55% \u2014 WHO",
-      "description": "The World Health Organisation Regional Director for Africa, Dr Matshidiso Moeti, said on Monday that the malaria death rate in Nigeria has fallen by 55 per cent. She said this at the launch of the 2022 Nigeria Malaria Report in Abuja on Monday. Moeti also sai\u2026",
-      "url": "https://punchng.com/nigerias-malaria-death-rate-drops-by-55-who-2/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/22015336/malaria.jpg",
-      "publishedAt": "2023-09-12 00:11:24",
-      "content": "The World Health Organisation Regional Director for Africa, Dr Matshidiso Moeti, said on Monday that the malaria death rate in Nigeria has fallen by 55 per cent. She said this at the launch of the 2\u2026 [+3041 chars]",
-      "retrievedAt": "2023-09-13 07:05:55.960718",
-      "internal_id": "267777c35257868b069eb0fb488c50252c081654c0703894f8f9ebc6ee1df93b",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1777,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Elifesciences.org",
-      "author": "megan.carey@lshtm.ac.uk (Abdoulie Kanteh), megan.carey@lshtm.ac.uk (Abhilasha Karkey), megan.carey@lshtm.ac.uk (AC Lauer), megan.carey@lshtm.ac.uk (Afreenish Amir), megan.carey@lshtm.ac.uk (Agila Kumari Pragasam), megan.carey@lshtm.ac.uk (Andrew J Pollard), megan.carey@lshtm.ac.uk (Andrew R Greenhill), megan.carey@lshtm.ac.uk (Ankur Mutreja), megan.carey@lshtm.ac.uk (Anna P Alexander), megan.carey@lshtm.ac.uk (Anthony M Smith), megan.carey@lshtm.ac.uk (Anuradha De), megan.carey@lshtm.ac.uk (Arif Mohammed Tanmoy), megan.carey@lshtm.ac.uk (Arti Kapil), megan.carey@lshtm.ac.uk (Ashish Bavdekar), megan.carey@lshtm.ac.uk (Ashita Singh), megan.carey@lshtm.ac.uk (Ayorinde Oluwatobiloba Afolayan), megan.carey@lshtm.ac.uk (Balaji Veeraraghavan), megan.carey@lshtm.ac.uk (Benjamin P Howden), megan.carey@lshtm.ac.uk (Buddha Basnyat), megan.carey@lshtm.ac.uk (Chelsey Griffin), megan.carey@lshtm.ac.uk (Chisomo Msefula), megan.carey@lshtm.ac.uk (Christiane Dolecek), megan.carey@lshtm.ac.uk (Christopher M Parry), megan.carey@lshtm.ac.uk (Claire Jenkins), megan.carey@lshtm.ac.uk (Danielle J Ingle), megan.carey@lshtm.ac.uk (Dasaratha Ramaiah Jinka), megan.carey@lshtm.ac.uk (David A Rasko), megan.carey@lshtm.ac.uk (David M Aanensen), megan.carey@lshtm.ac.uk (Denise O Garrett), megan.carey@lshtm.ac.uk (Dipesh Tamrakar), megan.carey@lshtm.ac.uk (Elisabeth Njamkepo), megan.carey@lshtm.ac.uk (Farah N Qamar), megan.carey@lshtm.ac.uk (Firdausi Qadri), megan.carey@lshtm.ac.uk (Fran\u00e7ois-Xavier Weill), megan.carey@lshtm.ac.uk (Gagandeep Kang), megan.carey@lshtm.ac.uk (Gauri Godbole), megan.carey@lshtm.ac.uk (Geetha Nagaraj), megan.carey@lshtm.ac.uk (Gordon Dougan), megan.carey@lshtm.ac.uk (Grant Austin Mackenzie), megan.carey@lshtm.ac.uk (Hattie E Webb), megan.carey@lshtm.ac.uk (Iruka N Okeke), megan.carey@lshtm.ac.uk (Isaac I Bogoch), megan.carey@lshtm.ac.uk (Jackie Wright), megan.carey@lshtm.ac.uk (Jacob John), megan.carey@lshtm.ac.uk (Jacqueline A Keane), megan.carey@lshtm.ac.uk (Jason R A\u2026",
-      "title": "Global diversity and antimicrobial resistance of typhoid fever pathogens: Insights from a meta-analysis of 13,000 Salmonella Typhi genomes",
-      "description": "An analysis of the largest Salmonella Typhi genome collection to date (n=13,000) provides an updated overview of global genome diversity and antimicrobial resistance trends over time to inform public health action.",
-      "url": "https://elifesciences.org/articles/85867",
-      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
-      "publishedAt": "2023-09-12 00:00:00",
-      "content": "Essential revisions: 1) Reviewer #2 has several recommendations for improving clarity in reporting. Please see detailed responses below. 2) Reviewer #3 has questions and concerns related to the ge\u2026 [+26008 chars]",
-      "retrievedAt": "2023-09-13 07:05:57.146785",
-      "internal_id": "36efe2b19c66d875c1ffffdb23d2a01976856378988d11defa46deb8c7a13644",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1778,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Elifesciences.org",
-      "author": "jonine.figueroa@ed.ac.uk (Evropi Theodoratou), jonine.figueroa@ed.ac.uk (Jonine Figueroa), jonine.figueroa@ed.ac.uk (Marshall Dozier), jonine.figueroa@ed.ac.uk (Reagan Lee), jonine.figueroa@ed.ac.uk (Ruth McQuillan), jonine.figueroa@ed.ac.uk (Wei Xu)",
-      "title": "A rapid review on the COVID-19's global impact on breast cancer screening participation rates and volumes from January-December 2020",
-      "description": "COVID-19 has strained population breast mammography screening programs that aim to diagnose and treat breast cancers earlier. As the pandemic has affected countries differently, we aimed to quantify changes in breast screening volume and uptake during the fir\u2026",
-      "url": "https://elifesciences.org/articles/85680",
-      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
-      "publishedAt": "2023-09-12 00:00:00",
-      "content": "Background: The Global Typhoid Genomics Consortium was established to bring together the typhoid research community to aggregate and analyse Salmonella enterica serovar Typhi (Typhi) genomic data to\u2026 [+2228 chars]",
-      "retrievedAt": "2023-09-13 07:05:57.154274",
-      "internal_id": "4d1016bdcf69a2326c54d35ace29cf2c4bfdf37c3ba4c671ee7b6970635ccc11",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1768,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Mini Thomas",
-      "title": "Dengue cases up, B'luru faces shortage of platelets",
-      "description": ": With dengue cases rising in the city, many blood banks are organising blood donation camps to tide over shortage of platelets.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/dengue-cases-up-bluru-faces-shortage-of-platelets/articleshow/103590332.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103590386,width-1070,height-580,imgsize-21154,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-11 23:15:31",
-      "content": "First Ladies, Diplomats shine in Indian attire at G20",
-      "retrievedAt": "2023-09-13 07:05:55.184217",
-      "internal_id": "297add58d6ce93d93c37098d838ee182fb1b2ead94f68889adb0113b635d5e3a",
-      "publishedAtLabel": "Sep 11"
     }
   ]
 }
