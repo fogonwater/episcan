@@ -1,8 +1,171 @@
 {
-  "last_updated": "2023-09-22 07:05",
+  "last_updated": "2023-09-22 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 1982,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Conspiracy hatched to end TDP chief N Chandrababu Naidu's life in jail, alleges son Nara Lokesh",
+      "description": "\u200b\u200bHe is currently serving a 14-day remand in the Rajamahendravaram central prison. \"Remand prisoner Ganjeti Veera Venkata Satyanarayana from Dowleswaram, Rajamundry Rural Mandal succumbed to dengue. Conspiracies have been plotted to subject Babu (Chandrababu)\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/conspiracy-hatched-to-end-tdp-chief-n-chandrababu-naidus-life-in-jail-alleges-son-nara-lokesh/articleshow/103845256.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-103845276,width-1200,height-630,imgsize-36214,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-21 17:01:35",
+      "content": "Tata Consumer Leads Race for Maker of Ching\u2019s SecretTata Consumer Products Ltd (TCPL) has emerged as the frontrunner to acquire Capital Foods Pvt Ltd, the maker of condiments, food products and ingre\u2026 [+143 chars]",
+      "retrievedAt": "2023-09-22 19:05:15.884473",
+      "internal_id": "b2e972581ee80b55cddf37ae6c8f50e18ecf320da13e9e6322254a20d14a0a7d",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1989,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Marie Bourdon, Caroline Manet, Laurine Conquet, Corentin Ramaug\u00e9 Parra, Etienne Kornobis, Eliette Bonnefoy, Xavier Montagutelli",
+      "title": "Susceptibility to Zika virus in a Collaborative Cross mouse strain is induced by Irf3 deficiency in vitro but requires other variants in vivo",
+      "description": "Author summary Recent ZIKV outbreaks led to millions of infected people, with rare but severe complications such as Guillain-Barr\u00e9 syndrome and encephalitis in adults suggesting that host genes influence the susceptibility to severe forms of infection. We pre\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011446",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011446.g007&size=inline",
+      "publishedAt": "2023-09-21 14:00:00",
+      "content": "Abstract Zika virus (ZIKV) is a Flavivirus responsible for recent epidemics in Pacific Islands and in the Americas. In humans, the consequences of ZIKV infection range from asymptomatic infection to\u2026 [+65409 chars]",
+      "retrievedAt": "2023-09-22 19:05:17.050072",
+      "internal_id": "61bc996bc57e4e4e73e99f619bd8c2466868f5a4976369d6d055f509e093480b",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1988,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Peter Sands",
+      "title": "Stopping Malaria from Killing Children is a Matter of Urgency | Opinion",
+      "description": "We must do more\u2014and do so now.",
+      "url": "https://www.newsweek.com/stopping-malaria-killing-children-matter-urgency-opinion-1828850",
+      "urlToImage": "https://d.newsweek.com/en/full/2285013/nurse-prepares-shot.jpg",
+      "publishedAt": "2023-09-21 13:32:33",
+      "content": "I was in Kano, an ancient city in the north of Nigeria recently, visiting health facilities with Nigeria's impressive new health minister professor Muhammad Ali Pate. This week I'll be in New York, a\u2026 [+5527 chars]",
+      "retrievedAt": "2023-09-22 19:05:16.634686",
+      "internal_id": "6e22e25d019aabca6c52908158ff4eb63ff4435e6c8f2aeae031983324121d38",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1987,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "FAZ.NET",
+      "title": "Pop-Anthologie (173): \u201ePeople Get Ready\u201c von Jeff Beck und Rod Stewart",
+      "description": "Wessen Augen bei der Tribut-Veranstaltung zum Tod von Jeff Beck trocken geblieben waren, dem wurden sie feucht, als Rod Stewart f\u00fcr den verstorbenen Freund \u201ePeople Get Ready\u201c zu singen begann. Eine Erinnerung.",
+      "url": "https://www.faz.net/aktuell/feuilleton/pop/pop-anthologie/interpretation-des-songs-people-get-ready-von-jeff-beck-und-rod-stewart-19187466.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/feuilleton/3184695823/1.9187521/facebook_teaser/rod-stewart-auf-einem-konzert.jpg",
+      "publishedAt": "2023-09-21 13:26:18",
+      "content": "Das Jahr 2023 war noch keine zwei Wochen alt, da starb Jeff Beck, britische Gitarrenlegende, achtfacher Grammy-Gewinner, an bakterieller Meningitis. W\u00e4hrend Fans und Kollegen unter Schock standen, be\u2026 [+4168 chars]",
+      "retrievedAt": "2023-09-22 19:05:16.202476",
+      "internal_id": "e3c2eca7e4b59723f50967df4810d7afa1f12c87426cf32eb002eda3e11430c6",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1985,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09b8\u09ae\u09c1\u09a6\u09cd\u09b0\u09aa\u09a5\u09c7 \u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8 \u09a5\u09c7\u0995\u09c7 \u09ae\u09be\u0982\u09b8 \u0986\u09ae\u09a6\u09be\u09a8\u09bf \u09a8\u09bf\u09b7\u09bf\u09a6\u09cd\u09a7 \u0995\u09b0\u09b2 \u0986\u09b0\u09ac \u0986\u09ae\u09bf\u09b0\u09be\u09a4",
+      "description": "\u09ae\u09be\u0982\u09b8\u09c7\u09b0 \u099a\u09be\u09b2\u09be\u09a8\u09c7 \u099b\u09a4\u09cd\u09b0\u09be\u0995 \u09aa\u09be\u0993\u09af\u09bc\u09be\u09af\u09bc \u09aa\u09be\u0995\u09bf\u09b8\u09cd\u09a4\u09be\u09a8 \u09a5\u09c7\u0995\u09c7 \u09b8\u09ae\u09c1\u09a6\u09cd\u09b0\u09aa\u09a5\u09c7 \u09b9\u09bf\u09ae\u09be\u09af\u09bc\u09bf\u09a4 \u09ae\u09be\u0982\u09b8 \u0986\u09ae\u09a6\u09be\u09a8\u09bf \u09a8\u09bf\u09b7\u09bf\u09a6\u09cd\u09a7 \u0995\u09b0\u09c7\u099b\u09c7 \u09b8\u0982\u09af\u09c1\u0995\u09cd\u09a4 \u0986\u09b0\u09ac \u0986\u09ae\u09bf\u09b0\u09be\u09a4\u0964",
+      "url": "https://bangla.thedailystar.net/business/world-economy/south-asia/news-516541",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/09/21/korachi.jpg",
+      "publishedAt": "2023-09-21 12:35:44",
+      "content": "At least eight more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
+      "retrievedAt": "2023-09-22 19:05:15.904666",
+      "internal_id": "bfa8b1b0e7bb27f7cc1b40372047d3343b1b22caba58769dab5014614d56d135",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1984,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Caroline Vandenabeele",
+      "title": "Des cas de dengue inqui\u00e8tent la France: des risques pour la Belgique ?",
+      "description": "Ces derni\u00e8res ann\u00e9es, plusieurs cas de dengue ont \u00e9t\u00e9 recens\u00e9s en Europe, dont en France et en Italie. Cette maladie risque-t-elle d'atteindre la Belgique ?",
+      "url": "https://www.lalibre.be/planete/sante/2023/09/21/des-cas-de-dengue-inquietent-la-france-des-risques-pour-la-belgique-KLJEM3OI45GZFCUMCNOMETLZWI/",
+      "urlToImage": "https://www.lalibre.be/resizer/rQPxnxumPQTxFl5oN6kJI8imYMI=/1200x630/filters:format(jpeg):focal(595x405:605x395):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/OIO44DUUUNC2DB5T3FIJECBT5U.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/LILT5TIJ2FELXLZOQT3YX6ZDXI.jpg",
+      "publishedAt": "2023-09-21 12:22:12",
+      "content": "Steven Van Gucht, virologue et chef du service maladies virales de l'institut national de sant\u00e9 publique Sciensano, explique que la dengue se manifeste principalement par un \u00e9tat grippal, g\u00e9n\u00e9ralemen\u2026 [+2637 chars]",
+      "retrievedAt": "2023-09-22 19:05:15.901195",
+      "internal_id": "f8c7c6e2252ddf818e32b2a4edd55872baac81364a236deab0dde5bff53b8b8e",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1981,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KUTV 2News",
+      "author": "Rebecca Boone Associated Press",
+      "title": "An Idaho man has measles. Health officials are trying to see if the contagious disease has spread.",
+      "description": "An Idaho man has contracted measles, and health officials are working to contact anyone who may have been exposed to the highly contagious disease.The man was u",
+      "url": "https://kutv.com/news/nation-world/an-idaho-man-has-measles-health-officials-are-trying-to-see-if-the-contagious-disease-has-spread",
+      "urlToImage": "https://kutv.com/resources/media/833367d4-92ba-4881-a083-bbe5029798f3-large16x9_kutvhayleysamoameaslesoutbreak1206195.PNG",
+      "publishedAt": "2023-09-21 11:45:00",
+      "content": "by REBECCA BOONE Associated Press Thu, September 21st 2023, 11:42 AM UTC",
+      "retrievedAt": "2023-09-22 19:05:15.573790",
+      "internal_id": "5b53e8f46e2e2c4f3f2cf1ca001633eef20036ffb57c1216565fee24ae882a59",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1986,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": "Tomos Evans",
+      "title": "Student could 'barely walk' after freshers' flu turned out to be meningitis",
+      "description": "A student could \"barely walk\" after what he thought was freshers' flu turned out to be meningitis.",
+      "url": "https://news.sky.com/story/swansea-university-student-could-barely-walk-after-freshers-flu-turned-out-to-be-meningitis-12966133",
+      "urlToImage": "https://e3.365dm.com/23/09/1600x900/skynews-wales-swansea-meningitis_6292379.jpg?20230921095940",
+      "publishedAt": "2023-09-21 08:32:00",
+      "content": "A student could \"barely walk\" after what he thought was freshers' flu turned out to be meningitis. Levi Lawrence, 21, is a psychology student from Wolverhampton. He fell seriously ill after he caug\u2026 [+1735 chars]",
+      "retrievedAt": "2023-09-22 19:05:16.198425",
+      "internal_id": "c79b14e3c2aa795837dca4e6b6d4282bab64ac0624b6463a4a3eb1bdf724ab2b",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 1983,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "radiodabanga@gmail.com (Dabanga)",
+      "title": "North Darfur Hospitals Overwhelmed As Malaria, Dengue Surge",
+      "description": "[Dabanga] El Fasher -- Doctors in the North Darfur capital of El Fasher have voiced concern at the rising tide of malaria cases, especially among children. Hospitals in the city report being overwhelmed by hundreds of cases daily. This is exacerbated by under\u2026",
+      "url": "https://allafrica.com/stories/202309210097.html",
+      "urlToImage": "https://cdn04.allafrica.com/download/pic/main/main/csiid/00561430:adc519d8f499e9a09b2958c6347b31cc:arc614x376:w1200.jpg",
+      "publishedAt": "2023-09-21 07:46:59",
+      "content": "El Fasher \u2014 Doctors in the North Darfur capital of El Fasher have voiced concern at the rising tide of malaria cases, especially among children. Hospitals in the city report being overwhelmed by hund\u2026 [+3418 chars]",
+      "retrievedAt": "2023-09-22 19:05:15.889883",
+      "internal_id": "3c81b93a1e5484742a5eaed5ca90ee9b58431e8156ae0982e6a4e31f5cffaab4",
+      "publishedAtLabel": "Sep 21"
+    },
     {
       "id": 1977,
       "query": [
@@ -3447,169 +3610,6 @@
       "content": "Dengue: Foods that help increase platelet count",
       "retrievedAt": "2023-09-13 19:05:26.375881",
       "internal_id": "41fa623715960b62e329e949aae80949f10faec4beb332e1610add31326bafd5",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1799,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Nigeria: Nigeria's Malaria Death Rate Dropped By 55% in 21 Years - WHO",
-      "description": "[Premium Times] Although Nigeria accounted for about 27 per cent of the global burden of malaria cases, the country has made significant progress.",
-      "url": "https://allafrica.com/stories/202309120513.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-12 14:29:14",
-      "content": "Although Nigeria accounted for about 27 per cent of the global burden of malaria cases, the country has made significant progress. The World Health Organisation (WHO) on Monday said malaria death ra\u2026 [+4566 chars]",
-      "retrievedAt": "2023-09-13 19:05:26.980003",
-      "internal_id": "47a5ecffad8bf6e0ef99665e5124facaa9bf36ad8fa9b8ecd9502ea36c2c60c0",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1796,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "REDACCI\u00d3N CARTAGENA",
-      "title": "Reportan 39 nuevos casos de dengue en Cartagena: van 1.885 este a\u00f1o",
-      "description": "El Departamento Administrativo Distrital de Salud (Dadis) reporta durante la \u00faltima semana epidemiol\u00f3gica 39 nuevos casos de dengue en el distrito de Cartagena, uno de ellos corresponde a dengue grave y cero fallecidos. Lea: Bol\u00edvar, en el brote de dengue m\u00e1s\u2026",
-      "url": "https://www.eluniversal.com.co/cartagena/reportan-39-nuevos-casos-de-dengue-en-cartagena-van-1885-este-ano-MH8988068",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1220x686/210c0/800d686/none/13704/SLWC/labores-de-control-larbario-del-dadis_8468670_20230912092636.jpg",
-      "publishedAt": "2023-09-12 14:26:34",
-      "content": "El Departamento Administrativo Distrital de Salud (Dadis) reporta durante la \u00faltima semana epidemiol\u00f3gica 39 nuevos casos de dengue en el distrito de Cartagena, uno de ellos corresponde a dengue grav\u2026 [+1783 chars]",
-      "retrievedAt": "2023-09-13 19:05:26.394471",
-      "internal_id": "383c365f401a6d2f2a8520f7b472f0c05d823ece6e0317b47da636fa34a43556",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1779,
-      "query": [
-        "rabies",
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Boing Boing",
-      "author": "Jason Weisberger",
-      "title": "Anti-vaxxers put dogs at high risk",
-      "description": "Based on long-debunked fables, the anti-vaccine movement has pets as their targets. Purportedly, 53% of dog owners no longer trust vaccines. Vaccines for Rabies, Parvo, Leptospirosis, I do not want my dog to get any of these. I once volunteered at the Mar\u2026",
-      "url": "https://boingboing.net/2023/09/12/anti-vaxxers-put-dogs-at-high-risk.html",
-      "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/doggy-daycare.jpeg?fit=1200%2C800&ssl=1",
-      "publishedAt": "2023-09-12 14:25:53",
-      "content": "Based on long-debunked fables, the anti-vaccine movement has pets as their targets. Purportedly, 53% of dog owners no longer trust vaccines. Vaccines for Rabies, Parvo, Leptospirosis, I do not want\u2026 [+766 chars]",
-      "retrievedAt": "2023-09-13 19:05:25.387850",
-      "internal_id": "e3c637e7d20dbb5a423aa9c0c0c37fd85375f90a553885879fd2d0d746493f61",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1781,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Checkyourfact.com",
-      "author": "Anna Mock",
-      "title": "FACT CHECK: No, Posters Warning Of Various Ailments Were Not Shared At Burning Man",
-      "description": "A photo claims posters were shared during Burning Man Festival warning of various symptoms of sickness.",
-      "url": "https://checkyourfact.com/2023/09/12/fact-check-posters-burning-man-ailments/",
-      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/09/2023-09-04T230720Z_1872180995_RC2Y13AA7QHF_RTRMADP_3_USA-BURNINGMAN-e1694200540202.jpg",
-      "publishedAt": "2023-09-12 13:47:33",
-      "content": "A photo shared on Facebook claims posters were shared during Burning Man Festival warning of various symptoms of sickness. Verdict: False The graphic was altered from one detailing dengue fever sym\u2026 [+1595 chars]",
-      "retrievedAt": "2023-09-13 19:05:26.350933",
-      "internal_id": "44c6ca5b8494f1db12a2e75599b8081a29f6b2f3a4a1ef73484752fdeff4e00a",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1797,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Futurity: Research News",
-      "author": "Corrie Pikul-Brown",
-      "title": "New malaria parasites evade detection and are hard to treat",
-      "description": "Newly-detected strains of malaria-causing parasites in Ethiopia are resistant to current treatments and are able to evade detection.",
-      "url": "https://www.futurity.org/malaria-parasites-mutations-ethiopia-2972972/",
-      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2023/09/malaria-parasite-mosquitoes-1600.jpg",
-      "publishedAt": "2023-09-12 13:38:45",
-      "content": "Researchers have detected new strains of malaria-causing parasites in Ethiopia that are both resistant to current treatments and escape detection by common diagnostic tests, according to a new study.\u2026 [+4695 chars]",
-      "retrievedAt": "2023-09-13 19:05:26.968741",
-      "internal_id": "785cd82aedc5f81055c93456bceae6e9fd15e86d3899dcd229b36eb7dca1c7f2",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1795,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Morrissey \u00e9 diagnosticado com dengue no M\u00e9xico e adia shows no Brasil; saiba mais",
-      "description": "O cantor e compositor Steven Patrick Morrissey adiou os shows que faria em S\u00e3o Paulo e Bras\u00edlia ...",
-      "url": "https://www.terra.com.br/diversao/musica/morrissey-e-diagnosticado-com-dengue-no-mexico-e-adia-shows-no-brasil-saiba-mais,9bfd27bf8f40d1ad5a79dc64e6de2975b7xskrou.html",
-      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2023-09-12 12:31:11",
-      "content": "O cantor e compositor Steven Patrick Morrissey adiou os shows que faria em S\u00e3o Paulo e Bras\u00edlia nos dias 27 e 30 de setembro no Brasil. A decis\u00e3o aconteceuap\u00f3s ele ser diagnosticado com dengue no \u00falt\u2026 [+961 chars]",
-      "retrievedAt": "2023-09-13 19:05:26.390456",
-      "internal_id": "8cf0d69f8a22dd86c835a6678c13594413bb9fb4cd26dc68c3dbfbab2b42ebeb",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1794,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Andrea Gentil",
-      "title": "C\u00f3mo son los mosquitos resistentes a los insecticidas",
-      "description": "Los Aedes aegypti, transmisores del dengue entre otras enfermedades, tienen mutaciones que les permiten sobrevivir al uso de piretroides. Leer m\u00e1s",
-      "url": "https://noticias.perfil.com/noticias/ciencia/cientificos-del-conicet-detectan-mosquitos-resistentes-a-los-insecticidas.phtml",
-      "urlToImage": "https://fotos.perfil.com/2023/09/11/trim/1280/720/mosquitos-aedes-aegypti-en-misiones-1651134.jpg",
-      "publishedAt": "2023-09-12 11:41:00",
-      "content": "Se calcula que cada a\u00f1o hay 390 millones de infecciones por el virus del dengue, de las cuales 96 millones tienen manifestaciones cl\u00ednicas, es decir, signos y s\u00edntomas. Y de acuerdo con la Organizaci\u2026 [+8344 chars]",
-      "retrievedAt": "2023-09-13 19:05:26.387997",
-      "internal_id": "e99b75b2444906fe70d5400e56c072aa2d621e62a20662acaa4d39dcf2fb647f",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1782,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknews.africa",
-      "author": "Maghreb Arabe Presse",
-      "title": "Epid\u00e9mie de dengue au Burkina: au moins 31 morts depuis le d\u00e9but de l'ann\u00e9e",
-      "description": "Au moins 31 d\u00e9c\u00e8s li\u00e9s \u00e0 la dengue ont \u00e9t\u00e9 d\u00e9j\u00e0 notifi\u00e9s cette ann\u00e9e au Burkina Faso, a annonc\u00e9 le 11 septembre le ministre de la Sant\u00e9 et de l'Hygi\u00e8ne publique, Robert Kargougou.",
-      "url": "https://fr.sputniknews.africa/20230912/epidemie-de-dengue-au-burkina-au-moins-31-morts-depuis-le-debut-de-lannee-1062054729.html",
-      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1062054729.jpg?10518504521694516530",
-      "publishedAt": "2023-09-12 11:02:09",
-      "content": "https://fr.sputniknews.africa/20230912/epidemie-de-dengue-au-burkina-au-moins-31-morts-depuis-le-debut-de-lannee-1062054729.html Epid\u00e9mie de dengue au Burkina: au moins 31 morts depuis le d\u00e9but de l\u2026 [+2145 chars]",
-      "retrievedAt": "2023-09-13 19:05:26.353755",
-      "internal_id": "c1dbae2472ee736139f7f7fbd34ff7af15d27b96987c503401f9d9931c7d67f7",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1798,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Sarah Emminghaus",
-      "title": "Genver\u00e4nderte Malaria-M\u00fccken: Genetisch unsch\u00e4dlich",
-      "description": "Lie\u00dfe sich die DNA von M\u00fccken so ver\u00e4ndern, dass diese kein Malaria mehr \u00fcbertragen? Ein internationales Forschungsinstitut arbeitet daran.",
-      "url": "https://taz.de/Genveraenderte-Malaria-Muecken/!5956386/",
-      "urlToImage": "https://taz.de/picture/6505642/948/genetik-Malaria-Muecken-1.jpeg",
-      "publishedAt": "2023-09-12 10:28:00",
-      "content": "Lie\u00dfe sich die DNA von M\u00fccken so ver\u00e4ndern, dass diese kein Malaria mehr \u00fcbertragen? Ein internationales Forschungsinstitut arbeitet daran. M\u00fccken auf einem Moskitonetz in Nairobi, Kenia Foto: Steph\u2026 [+9597 chars]",
-      "retrievedAt": "2023-09-13 19:05:26.976505",
-      "internal_id": "142b668a634bc5ec2e8a137b0381a4dab5c6d0bf6aa7ba31871503d83fb144ec",
       "publishedAtLabel": "Sep 12"
     }
   ]
