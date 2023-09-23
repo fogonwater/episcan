@@ -1,8 +1,99 @@
 {
-  "last_updated": "2023-09-23 07:05",
+  "last_updated": "2023-09-23 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 2001,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Discovery in mosquitoes could lead to new strategy against dengue fever and other mosquito-borne vectors",
+      "description": "Researchers from the Johns Hopkins Malaria Research Institute at the Johns Hopkins Bloomberg School of Public Health have made an important finding about Aedes aegypti mosquitoes\u2014one that could one day lead to better methods for reducing the mosquito-to-human\u2026",
+      "url": "https://phys.org/news/2023-09-discovery-mosquitoes-strategy-dengue-fever.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/discovery-in-mosquitoe.jpg",
+      "publishedAt": "2023-09-22 18:30:11",
+      "content": "Generation of Ago2 knockout Ae. aegypti lines and the effect of Ago2 disruption on arbovirus infection and transmission. a flowchart of experiment design. b gene structure of Ago2, predicted function\u2026 [+7674 chars]",
+      "retrievedAt": "2023-09-23 19:05:09.261846",
+      "internal_id": "27852468ba596bdc02d9465b70593b05ba87290a5b8d6f1993e07cc8749f8f83",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 1999,
+      "query": [
+        "measles"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Lenin Ndebele",
+      "title": "News24 | Tired of a costly war, Sudan rivals say they want peace - each on their own terms",
+      "description": "The two warring factions in Sudan are tired of war and both want a ceasefire, but on their own terms, if their latest public speeches are to be taken at face value.",
+      "url": "https://www.news24.com/news24/africa/news/tired-of-a-costly-war-sudan-rivals-say-they-want-peace-each-on-their-own-terms-20230922",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9419/c8af674cce264b59b408a3a0c984be67.jpg",
+      "publishedAt": "2023-09-22 17:08:29",
+      "content": "More than 5.25 million people - or one in every 10 people - in Sudan have been displaced by its civil war.More than 1 000 suspected measles cases were recorded, increasing the total \u2026 [+4407 chars]",
+      "retrievedAt": "2023-09-23 19:05:08.783741",
+      "internal_id": "ea2d432780acb7b40a9317984a6c8e646aeed4a3ed021cc0f21ec2d963a44174",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 2002,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "aps@aps.sn (APS)",
+      "title": "S\u00e9n\u00e9gal: Chikungunya - Un site sentinelle mis en place \u00c3 Ziguinchor",
+      "description": "[APS] Ziguinchor -- Un site sentinelle a \u00e9t\u00e9 mis en place \u00e0 Ziguinchor (sud) pour lutter contre la fi\u00e8vre chikungunya r\u00e9cemment apparue \u00e0 K\u00e9dougou, a annonc\u00e9, jeudi, le directeur r\u00e9gional de la sant\u00e9 de la r\u00e9gion \u00e9ponyme, Dr Youssouf Tine.",
+      "url": "https://fr.allafrica.com/stories/202309220425.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-22 13:14:21",
+      "content": "Ziguinchor \u2014 Un site sentinelle a \u00e9t\u00e9 mis en place \u00e0 Ziguinchor (sud) pour lutter contre la fi\u00e8vre chikungunya r\u00e9cemment apparue \u00e0 K\u00e9dougou, a annonc\u00e9, jeudi, le directeur r\u00e9gional de la sant\u00e9 de la \u2026 [+2914 chars]",
+      "retrievedAt": "2023-09-23 19:05:11.044070",
+      "internal_id": "642ccf3a4b6ad1ca54eec4bd4e42cfa83896b99010bb98feff5aab8832617fab",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 2000,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Singapura lepaskan 300 juta nyamuk Wolbachia untuk atasi demam berdarah dengue",
+      "description": "Namun menurut Badan Lingkungan Nasional (NEA) Singapura, nyamuk-nyamuk Wolbachia tidak akan bisa bersaing dan akan \"kalah\" di wilayah dengan banyak nyamuk penyebab demam berdarah dengue.",
+      "url": "https://www.channelnewsasia.com/indonesia/jutaan-nyamuk-wolbachia-singapura-3791391",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--GH3dxd4U--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/15/ray_0022.jpg?itok=SoiC72Xh",
+      "publishedAt": "2023-09-22 09:41:28",
+      "content": "Bagaimana nyamuk jantan Wolbachia-Aedes aegypti dikembangbiakkan? Ilmuwan NEA, Deng Lu, menunjukkan caranya kepada CNA. Tahap 1: Produksi telur Telur nyamuk diproduksi di ruang insektarium dewasa. \u2026 [+3169 chars]",
+      "retrievedAt": "2023-09-23 19:05:09.243886",
+      "internal_id": "848e4cff9ff0989d584f214eac6a259c0f8850ae7e48e51abaf3821b4c676a97",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 1998,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Jonathan Howard",
+      "title": "Doctors on Measles: \u201cNEVER Listen to the Anti-Vax Cult When They Say This \u2018Natural\u2019 Disease is Harmless\u201d. Doctors on COVID:",
+      "description": "Measles and COVID are different, of course, but they are not categorically different. With both viruses, unvaccinated children suffer the most. Yet, doctors who rightly said \"measles can be a devastating childhood illness\" also said it was \"breathless fear-mo\u2026",
+      "url": "https://sciencebasedmedicine.org/doctors-on-measles-never-listen-to-the-anti-vax-cult-when-they-say-this-natural-disease-is-harmless-doctors-on-covid-%f0%9f%98%82/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2029/09/Picture2-1.jpg",
+      "publishedAt": "2023-09-22 07:10:52",
+      "content": "Measles: The New Red Scare In 2019, an article titled Measles: The New Red Scare revealed several key anti-vaccine techniques. It ridiculed parents who wanted to protect their children against measl\u2026 [+11989 chars]",
+      "retrievedAt": "2023-09-23 19:05:08.767137",
+      "internal_id": "4e7d312e9805a20aba386c572b6a55d773f362f90f6d4d68e70cfd7872f3e06c",
+      "publishedAtLabel": "Sep 22"
+    },
     {
       "id": 1997,
       "query": [
@@ -3520,97 +3611,6 @@
       "retrievedAt": "2023-09-14 07:05:49.000350",
       "internal_id": "3bfb3dce578d8e4182f0985e2fad73f169380dcb10bc027905602f8a76cd7988",
       "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1807,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Congenital Mpox Syndrome (Clade I) in Stillborn Fetus after Placental Infection and Intrauterine Transmission, Democratic Republic of the Congo, 2008",
-      "description": "Congenital Mpox in Stillborn Fetus, DRC, 2008",
-      "url": "https://wwwnc.cdc.gov/eid/article/29/11/23-0606_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-09-13 04:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Monkeypox virus, which cau\u2026 [+14199 chars]",
-      "retrievedAt": "2023-09-14 07:05:48.781445",
-      "internal_id": "b9b987d7287e762aa8714f96ba7881066bab00f4ad53961d3fd7da16e16a0e07",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1800,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u090f\u0915 \u0905\u092a\u0940\u0932 \u092c\u0928\u0940 \u092e\u0941\u0939\u093f\u092e, \u092a\u0942\u0930\u0947 \u0926\u0947\u0936 \u0928\u0947 \u20b910.5 \u0915\u0930\u094b\u0921\u093c \u0915\u093e \u0907\u0902\u091c\u0947\u0915\u094d\u0936\u0928 \u0926\u093f\u0932\u093e\u0915\u0930 \u092c\u091a\u094d\u091a\u0947 \u0915\u094b \u0926\u0940 \u0928\u0908 \u091c\u093f\u0902\u0926\u0917\u0940",
-      "description": "\u090f\u0915 \u0926\u0941\u0930\u094d\u0932\u092d \u091c\u0947\u0928\u0947\u091f\u093f\u0915 \u092c\u0940\u092e\u093e\u0930\u0940 \u0938\u0947 \u092a\u0940\u0921\u093c\u093f\u0924 \u0921\u0947\u0922\u093c \u0938\u093e\u0932 \u0915\u0947 \u092c\u091a\u094d\u091a\u0947 \u0915\u0928\u0935 \u0915\u0940 \u092e\u0926\u0926 \u0915\u0947 \u0932\u093f\u090f \u0926\u0947\u0936\u092d\u0930 \u0938\u0947 \u0939\u091c\u093e\u0930\u094b\u0902 \u0939\u093e\u0925 \u0906\u0917\u0947 \u0906\u090f\u0964 \u0938\u0947\u0932\u093f\u092c\u094d\u0930\u093f\u091f\u0940\u091c \u0915\u0940 \u0905\u092a\u0940\u0932 \u092a\u0930 \u0932\u094b\u0917\u094b\u0902 \u0928\u0947 \u092c\u091a\u094d\u091a\u0947 \u0915\u0940 \u091c\u093e\u0928 \u092c\u091a\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0938\u093e\u0922\u093c\u0947 10 \u0915\u0930\u094b\u0921\u093c \u0930\u0941\u092a\u092f\u0947 \u091c\u0941\u091f\u093e \u0932\u093f\u090f, \u091c\u093f\u0938\u0938\u0947 \u0926\u093f\u0932\u094d\u0932\u0940 \u0915\u0947 \u0915\u0935\u0928 \u0915\u0940 \u091c\u093e\u0928 \u092c\u091a \u0938\u0915\u0940\u0964",
-      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/people-helped-through-crowd-funding-child-given-injection-worth-rs-10-5-crore/articleshow/103619990.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-132926,msid-103620061/navbharat-times.jpg",
-      "publishedAt": "2023-09-13 00:31:34",
-      "content": ": (SMA) - - Zolgensma 17.5 , 8 ' , ' 28 , 2022 , , , , , , , , , , , , 5 Rabies, , 6 6 , , 6 3 , , - , : , ... , - (SMA) 9 - - , , , 17.5 24 , Navbharat Times News App: - , , , , -... NBT \u2026 [+306 chars]",
-      "retrievedAt": "2023-09-14 07:05:46.686783",
-      "internal_id": "3752885b543de1412175b7afab9fe6f4e678aa43d92c9adc93f39c4c3ad0b622",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1803,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Hindu religion a menace not only to India, but to the entire world: DMK MP A Raja",
-      "description": "DMK MP A Raja has made controversial remarks about Hinduism, stating that it is a menace not only to India but to the entire world. This comes after sports minister Udhayanidhi Stalin equated Sanatan Dharma to diseases such as dengue and malaria. BJP leader K\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/hindu-religion-a-menace-not-only-to-india-but-to-the-entire-world-dmk-mp-a-raja/articleshow/103617071.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103617077,width-1070,height-580,imgsize-916240,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-12 21:01:15",
-      "content": "A low down on Amber Heards dating history",
-      "retrievedAt": "2023-09-14 07:05:47.381916",
-      "internal_id": "11d18a728ac351682cf38727d13331dd17781323615b38a1c544a4777161871e",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1780,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "Most US dog owners doubt canine vaccines: study",
-      "description": "(marketscreener.com) STORY: The anti-vaccination movement, which intensified during the COVID-19 pandemic, appears to also extend to some American dog owners - who are now wary over vaccinating their pets against diseases such as rabies and canine hepatitis.h\u2026",
-      "url": "https://www.marketscreener.com/news/latest/Most-US-dog-owners-doubt-canine-vaccines-study--44826515/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-09-12 18:01:40",
-      "content": "STORY: The anti-vaccination movement, which intensified during the COVID-19 pandemic, appears to also extend to some American dog owners - who are now wary over vaccinating their pets against disease\u2026 [+1623 chars]",
-      "retrievedAt": "2023-09-13 19:05:25.396608",
-      "internal_id": "9fa6165948213e0057b176a1e96c7142934f015c822107bbf8aa10baa0e64e27",
-      "publishedAtLabel": "Sep 12"
-    },
-    {
-      "id": 1784,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Mohua Chatterjee",
-      "title": "Chandrababu Naidu arrest: INDIA bloc leaders 'reach out' to TDP chief",
-      "description": "The arrest of former Andhra Pradesh chief minister N Chandrababu Naidu by the Jagan Mohan Reddy-led state government has led to support from the INDIA bloc parties. West Bengal chief minister Mamata Banerjee, a key ally of the bloc, criticized the arrest and \u2026",
-      "url": "https://timesofindia.indiatimes.com/india/chandrababu-naidu-arrest-india-bloc-leaders-reach-out-to-tdp-chief/articleshow/103614822.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103614880,width-1070,height-580,imgsize-28288,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-12 17:26:47",
-      "content": "Dengue: Foods that help increase platelet count",
-      "retrievedAt": "2023-09-13 19:05:26.359007",
-      "internal_id": "e84c42e08ba39efe5afb6f9d062f2ecf8f698c52cb8664ee1cea0db2d2349dea",
-      "publishedAtLabel": "Sep 12"
     }
   ]
 }
