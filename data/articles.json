@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-09-23 19:05",
+  "last_updated": "2023-09-24 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 2005,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Thefreedictionary.com",
+      "author": null,
+      "title": "Typhoid Mary (1869)",
+      "description": "Mary Mallon was the first person in the US to be identified as a healthy carrier of typhoid fever. In 1904, a typhoid epidemic was traced to homes where she had been a cook. She fled but was located by authorities and forcibly quarantined for several years. I\u2026",
+      "url": "https://encyclopedia.thefreedictionary.com/Mary+Mallon",
+      "urlToImage": "http://img.tfd.com/TFDlogo1200x1200.png",
+      "publishedAt": "2023-09-23 04:11:05",
+      "content": "Mary Mallon (September 23, 1869 \u2013 November 11, 1938), better known as Typhoid Mary, was the first person in the United States identified as an asymptomatic carrier of the pathogen associated with typ\u2026 [+15778 chars]",
+      "retrievedAt": "2023-09-24 07:05:34.672619",
+      "internal_id": "1468e2c725b6c66ea0165f55ce68b70142a10fce314330dca9d1faa16a83edb9",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 2003,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Temitope Adetunji",
+      "title": "My hearing problems blessing in disguise \u2013 Bauchi undergraduate",
+      "description": "A student at Aminu Saleh College of Education, Azare, in Bauchi State, Dayyabu Azare, tells TEMITOPE ADETUNJI how he lost his ability to hear due to meningitis and why he does not see his condition as a limitation Were you born with hearing impairment? My nam\u2026",
+      "url": "https://punchng.com/my-hearing-problems-blessing-in-disguise-bauchi-undergraduate/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/22195057/DAYYABU-AZARE.jpg",
+      "publishedAt": "2023-09-22 23:28:32",
+      "content": "A student at Aminu Saleh College of Education, Azare, in Bauchi State, Dayyabu Azare, tells TEMITOPE ADETUNJI how he lost his ability to hear due to meningitis and why he does not see his condition a\u2026 [+10153 chars]",
+      "retrievedAt": "2023-09-24 07:05:31.729850",
+      "internal_id": "ceafb87d68c7074049ae690ca9d2b7e8d554f505f16ea4b471d59b264221e6c6",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
+      "id": 2004,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Brote de malaria en zona sur obliga a Salud a tomar acciones inmediatas",
+      "description": "Ocho casos de malaria, siete de ellos hospitalizados, encendieron alerta en Bah\u00eda Ballena de Osa; Salud dar\u00e1 seguimiento con pruebas r\u00e1pidas este fin de semana.",
+      "url": "https://www.nacion.com/ciencia/salud/brote-de-malaria-en-zona-sur-obliga-a-salud-a/O7DHFLTUWNDRVBZG7T2TP5JW5M/story/",
+      "urlToImage": "https://www.nacion.com/resizer/ie7J7DQY8xOp_Gn-I5mq1lzpLQw=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/IIVRJKWH6JE7JGDFRXCM5NISNE.JPG",
+      "publishedAt": "2023-09-22 22:58:01",
+      "content": "Un brote de malaria fue detectado en Bah\u00eda Ballena de Osa, en la zona sur del pa\u00eds, seg\u00fan confirm\u00f3 este viernes el Ministerio de Salud. La entidad precis\u00f3 que se trata de ocho casos, cuatro hombres y\u2026 [+4385 chars]",
+      "retrievedAt": "2023-09-24 07:05:32.506541",
+      "internal_id": "a07aa5fefb5c5590c6687b530d88340114c87e3237e26dc07a0d921ed377be36",
+      "publishedAtLabel": "Sep 22"
+    },
     {
       "id": 2001,
       "query": [
@@ -3556,60 +3610,6 @@
       "content": "TEGUCIGALPA, Honduras -- For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially mor\u2026 [+6276 chars]",
       "retrievedAt": "2023-09-14 07:05:47.375458",
       "internal_id": "d0b319b7d67ac41c06f95d9ad8eb62ef333c5585ccf2588c9771e7ed8ea9b28e",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1805,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "MAR\u00cdA VERZA Associated Press, MADDIE BURAKOFF Associated Press",
-      "title": "Mosquitoes, long the enemy, are now bred to help prevent the spread of dengue fever",
-      "description": "Preventing dengue fever has long meant teaching people to fear mosquitoes and avoid their bites",
-      "url": "https://abcnews.go.com/Health/wireStory/mosquitoes-long-enemy-now-bred-prevent-spread-dengue-103142196",
-      "urlToImage": "https://i.abcnewsfe.com/a/d64db736-3f6d-4550-89b0-7109d958ae27/wirestory_81fb0fb5071b9a025a431594594fbe6a_16x9.jpg?w=992",
-      "publishedAt": "2023-09-13 04:16:55",
-      "content": "TEGUCIGALPA, Honduras -- For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially mor\u2026 [+6276 chars]",
-      "retrievedAt": "2023-09-14 07:05:47.385142",
-      "internal_id": "3c43d5bae40ffd305f152a5653e0240affc101b89ccb7face0ea59f87b3cdc80",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1804,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "MAR\u00cdA VERZA Associated Press, MADDIE BURAKOFF Associated Press",
-      "title": "Mosquitoes, long the enemy, are now bred to help prevent the spread of dengue fever",
-      "description": "Preventing dengue fever has long meant teaching people to fear mosquitoes and avoid their bites",
-      "url": "https://abcnews.go.com/Health/wireStory/mosquitoes-long-enemy-now-bred-prevent-spread-dengue-103142193",
-      "urlToImage": "https://i.abcnewsfe.com/a/73fd24be-a1b6-475c-bfe3-959c0c2c5b24/wirestory_9ecf4ebc8a67937e9db7feb0901c861e_12x5.jpg?w=992",
-      "publishedAt": "2023-09-13 04:16:53",
-      "content": "TEGUCIGALPA, Honduras -- For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially mor\u2026 [+9054 chars]",
-      "retrievedAt": "2023-09-14 07:05:47.383904",
-      "internal_id": "08920066190c93d9c751250776ddcf2fe7c2775f4d4711a205040c7b8f15c3e4",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1808,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Food Safety News",
-      "author": "Joe Whitworth",
-      "title": "Majority of foodborne infections rose in 2022 in the Netherlands",
-      "description": "Most foodborne infections increased in the Netherlands in 2022 compared to the year before, according to the latest figures. The most notable outbreak was when 72 people contracted typhoid fever on a ship that housed asylum seekers. It was likely that they we\u2026",
-      "url": "https://www.foodsafetynews.com/?p=231929",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/042/068/557/0Mn5r3E1XY0NoZaP6WPoD9kg7/0154aee721bd0d75b931033b1403b8bbdf2f7330.png",
-      "publishedAt": "2023-09-13 04:01:00",
-      "content": "Most foodborne infections increased in the Netherlands in 2022 compared to the year before, according to the latest figures. The most notable outbreak was when 72 people contracted typhoid fever on \u2026 [+5311 chars]",
-      "retrievedAt": "2023-09-14 07:05:49.000350",
-      "internal_id": "3bfb3dce578d8e4182f0985e2fad73f169380dcb10bc027905602f8a76cd7988",
       "publishedAtLabel": "Sep 13"
     }
   ]
