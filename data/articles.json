@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-09-24 07:05",
+  "last_updated": "2023-09-24 19:05",
   "count_articles_total": 300,
   "count_articles_new": 3,
   "articles": [
+    {
+      "id": 2008,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Greg Norman",
+      "title": "Jamaica declares Dengue fever outbreak with hundreds of confirmed and suspected cases",
+      "description": "Jamaica\u2019s Ministry of Health and Wellness has declared a fresh dengue fever outbreak on the island Saturday with six deaths being investigated.",
+      "url": "https://www.foxnews.com/health/jamaica-declares-dengue-fever-outbreak-hundreds-confirmed-suspected-cases",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/05/mosquito-istock.jpg",
+      "publishedAt": "2023-09-23 18:10:20",
+      "content": "Health officials in Jamaica have declared an outbreak of the dengue fever Saturday with at least 565 suspected, presumed and confirmed cases in the Caribbean nation. Jamaicas Ministry of Health and\u2026 [+2198 chars]",
+      "retrievedAt": "2023-09-24 19:05:06.828146",
+      "internal_id": "6a67c86a5c1b33bb90dbfc1525e1655e1204fdb131c747db6ed168cc3547f752",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 2007,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Erik Loomis",
+      "title": "Music Notes",
+      "description": "Another show I saw recently was Iris Dement, in Natick, Massachusetts. On the legacy of the late, great Jaimie Branch. If you don\u2019t know Dengue Fever, you should check out this discussion of the band that combines the pre-Khmer Rouge Cambodia music with moder\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2023/09/music-notes-168",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2023/09/Iris_Dement_-_Ron_Baker_-_2007.jpg",
+      "publishedAt": "2023-09-23 11:00:00",
+      "content": "Another show I saw recently was Iris Dement, in Natick, Massachusetts. On the legacy of the late, great Jaimie Branch. If you don\u2019t know Dengue Fever, you should check out this discussion of the b\u2026 [+4481 chars]",
+      "retrievedAt": "2023-09-24 19:05:06.811439",
+      "internal_id": "de9c3ac90018c25d53056b6570598ffef9743c18a00f8865cc6a039c6cef0ccf",
+      "publishedAtLabel": "Sep 23"
+    },
+    {
+      "id": 2006,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "BL Mumbai Bureau",
+      "title": "Boehringer Ingelheim joins campaign along with BMC to stop rabies",
+      "description": "Boehringer Ingelheim India has signed a Memorandum of Understanding (MoU) with the Pet Practitioners Association of Mumbai, a non-profit charitable organisation, to combat rabies in the Greater Mumbai area.",
+      "url": "https://www.thehindubusinessline.com/news/national/boehringer-ingelheim-joins-campaign-along-with-bmc-to-stop-rabies/article67337588.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/q2bwwt/article67337688.ece/alternates/LANDSCAPE_1200/2023-08-21T162404Z_1848620853_RC2FS2AS9GPK_RTRMADP_3_HEALTH-USA-DRUGPRICING-BOEHRINGER-INGELHEIM.JPG",
+      "publishedAt": "2023-09-23 10:29:23",
+      "content": "Boehringer Ingelheim India has signed a Memorandum of Understanding (MoU) with the Pet Practitioners Association of Mumbai, a non-profit charitable organisation, to combat rabies in the Greater Mumba\u2026 [+1545 chars]",
+      "retrievedAt": "2023-09-24 19:05:05.904466",
+      "internal_id": "4f6ddc26df3af708cb0126bb674066f3c5d40bd751162b193b3d8ddd27c432f6",
+      "publishedAtLabel": "Sep 23"
+    },
     {
       "id": 2005,
       "query": [
@@ -3556,60 +3610,6 @@
       "content": "A traveller returning from Bali has triggered a health alert in WA after they visited a hotel and shops while infected with measles. The Department of Health has raised the alarm after the person wh\u2026 [+1198 chars]",
       "retrievedAt": "2023-09-14 19:05:06.745918",
       "internal_id": "25bb858a2c82ad9300293e3d8f211b7b57a77e8cbae45acbe8e7649d0ee8c02d",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1806,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "Transforming mosquitoes from foes to friends in the battle against dengue fever; Everything explained",
-      "description": "In Honduras, where 10,000 people are known to be sickened by dengue each year, Doctors Without Borders is partnering with the mosquito program over the next six months to release close to 9 million mosquitoes carrying the Wolbachia bacteria.",
-      "url": "https://economictimes.indiatimes.com/news/science/transforming-mosquitoes-from-foes-to-friends-in-the-battle-against-dengue-fever-everything-explained/articleshow/103626637.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-103626662,width-1070,height-580,imgsize-30182,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-13 06:20:40",
-      "content": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to contro\u2026 [+8813 chars]",
-      "retrievedAt": "2023-09-14 07:05:47.389830",
-      "internal_id": "ac9be938b5e397ceb4b39ba603546774d44fe4d9daff9607cf0cea6f9438de2f",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1802,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "MAR\u00cdA VERZA Associated Press, MADDIE BURAKOFF Associated Press",
-      "title": "Mosquitoes, long the enemy, are now bred to help prevent the spread of dengue fever",
-      "description": "Preventing dengue fever has long meant teaching people to fear mosquitoes and avoid their bites",
-      "url": "https://abcnews.go.com/Technology/wireStory/mosquitoes-long-enemy-now-bred-prevent-spread-dengue-103142195",
-      "urlToImage": "https://i.abcnewsfe.com/a/73fd24be-a1b6-475c-bfe3-959c0c2c5b24/wirestory_9ecf4ebc8a67937e9db7feb0901c861e_12x5.jpg?w=992",
-      "publishedAt": "2023-09-13 04:22:13",
-      "content": "TEGUCIGALPA, Honduras -- For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially mor\u2026 [+9054 chars]",
-      "retrievedAt": "2023-09-14 07:05:47.378146",
-      "internal_id": "01e0a5dc051b2b523b1450f82572c84c4804ddef187d2d747de0f073c358a087",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1801,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "MAR\u00cdA VERZA Associated Press, MADDIE BURAKOFF Associated Press",
-      "title": "Mosquitoes, long the enemy, are now bred to help prevent the spread of dengue fever",
-      "description": "Preventing dengue fever has long meant teaching people to fear mosquitoes and avoid their bites",
-      "url": "https://abcnews.go.com/Technology/wireStory/mosquitoes-long-enemy-now-bred-prevent-spread-dengue-103142200",
-      "urlToImage": "https://i.abcnewsfe.com/a/d64db736-3f6d-4550-89b0-7109d958ae27/wirestory_81fb0fb5071b9a025a431594594fbe6a_16x9.jpg?w=992",
-      "publishedAt": "2023-09-13 04:17:00",
-      "content": "TEGUCIGALPA, Honduras -- For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially mor\u2026 [+6276 chars]",
-      "retrievedAt": "2023-09-14 07:05:47.375458",
-      "internal_id": "d0b319b7d67ac41c06f95d9ad8eb62ef333c5585ccf2588c9771e7ed8ea9b28e",
       "publishedAtLabel": "Sep 13"
     }
   ]
