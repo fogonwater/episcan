@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-09-24 19:05",
+  "last_updated": "2023-09-25 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 3,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 2011,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0921\u0902\u0915 \u0938\u0947 \u0938\u093e\u0935\u0927\u093e\u0928! \u0939\u0930 \u0926\u093f\u0928 \u090f\u0915 \u092e\u0930\u0940\u091c \u0915\u0940 \u0939\u094b \u0930\u0939\u0940 \u092e\u094c\u0924, \u0915\u094d\u092f\u093e \u0915\u0939 \u0930\u0939\u0947 \u090f\u0915\u094d\u0938\u092a\u0930\u094d\u091f\u094d\u0938",
+      "description": "\u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0907\u0928 \u0926\u093f\u0928\u094b\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u0915\u093e\u092b\u0940 \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c \u0930\u0939\u0947 \u0939\u0948\u0902\u0964 \u0930\u094b\u091c\u093e\u0928\u093e \u090f\u0915 \u092e\u0930\u0940\u091c \u0915\u0940 \u092e\u094c\u0924 \u0921\u0947\u0902\u0917\u0942 \u0915\u0940 \u0935\u091c\u0939 \u0938\u0947 \u0939\u094b \u0930\u0939\u0940 \u0939\u0948\u0964 \u0921\u0949\u0915\u094d\u091f\u0930\u094b\u0902 \u0915\u093e \u0915\u0939\u0928\u093e \u0939\u0948 \u0915\u093f \u092a\u0948\u0928\u093f\u0915 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0928\u0939\u0940\u0902 \u0939\u0948 \u0932\u0947\u0915\u093f\u0928 \u0939\u092e\u0947\u0902 \u0905\u0932\u0930\u094d\u091f \u0930\u0939\u0928\u0947 \u0915\u0940 \u091c\u0930\u0942\u0930\u0924 \u0939\u0948\u0964",
+      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/one-patient-dies-every-day-due-to-dengue-in-aiims/articleshow/103903146.cms",
+      "urlToImage": "https://navbharattimes.indiatimes.com/photo/imgsize-39850,msid-103903241/navbharat-times.jpg",
+      "publishedAt": "2023-09-24 06:13:49",
+      "content": ": (RML) 4 , , , 219 , 430 74 Delhi Dengue Alert: 100 , ... , , , 260 , - , , , , : 35 , ...",
+      "retrievedAt": "2023-09-25 07:05:43.365474",
+      "internal_id": "7dba5e2baed61f70f7352c26908a7ce640aab507ed4bcd0bbe859febe9d2c26a",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 2009,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Rs 16 lakh spl package for waste collection, drainage clearance in Dimapur",
+      "description": "DIMAPUR, Sept 22: Amid rising cases of dengue and perennial water logging woes in Dimapur, the Dimapur District Planning and Development Board (DPDB), under the MLA Common Pool, allocated a special package of Rs 16 lakh to the Dimapur Municipal Council (DMC) \u2026",
+      "url": "https://thehillstimes.in/northeast/rs-16-lakh-spl-package-for-waste-collection-drainage-clearance-in-dimapur",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/09/lead8.jpg",
+      "publishedAt": "2023-09-24 01:20:23",
+      "content": "DIMAPUR, Sept 22: Amid rising cases of dengue andperennial water logging woes in Dimapur, the DimapurDistrict Planning and Development Board (DPDB), under theMLA Common Pool, allocated a special pack\u2026 [+1807 chars]",
+      "retrievedAt": "2023-09-25 07:05:43.354553",
+      "internal_id": "37b609b8793ae2b91d791225577fdb27e040d484d033196e50962370082bafa9",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 2013,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod: Despite 9 deaths, dengue cases declining",
+      "description": "Bacolod City \u2013 Dengue cases may have been declining in Negros Occidental, but there were nine deaths, according to reports released by the Provincial Health Office (PHO) and the Bacolod City Health Office (CHO), respectively. The PHO logged 1,077 cases from J\u2026",
+      "url": "https://rpnradio.com/bacolod-despite-9-deaths-dengue-cases-declining/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/09/dengue-deaths-declining.jpg",
+      "publishedAt": "2023-09-24 00:40:51",
+      "content": "Bacolod City \u2013 Dengue cases may have been declining in Negros Occidental, but there were nine deaths, according to reports released by the Provincial Health Office (PHO) and the Bacolod City Health O\u2026 [+982 chars]",
+      "retrievedAt": "2023-09-25 07:05:43.382303",
+      "internal_id": "abcdff67649c79ba45dde134e2c44a4bc01df67812877158d0d5c8618556f3e6",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 2012,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Clicrbs.com.br",
+      "author": "Agencia RBS",
+      "title": "Porto Alegre registra alta em infec\u00e7\u00f5es por dengue, e prefeitura avalia o cen\u00e1rio com preocupa\u00e7\u00e3o",
+      "description": "Balan\u00e7o da Secretaria Municipal de Sa\u00fade registra mais casos at\u00e9 a metade de setembro de 2023 do que em todo o ano passado",
+      "url": "http://diariogaucho.clicrbs.com.br/rs/dia-a-dia/noticia/2023/09/porto-alegre-registra-alta-em-infeccoes-por-dengue-e-prefeitura-avalia-o-cenario-com-preocupacao-34227235.html",
+      "urlToImage": "http://diariogaucho.rbsdirect.com.br/imagesrc/43740238.jpg?w=600",
+      "publishedAt": "2023-09-24 00:40:43",
+      "content": "At\u00e9 meados de setembro, 5.106 casos de dengue haviam sido confirmados em Porto Alegre. Destes, 4.583 foram contra\u00eddos na cidade, a maioria na Zona Leste. Apesar de ainda restarem tr\u00eas meses at\u00e9 o t\u2026 [+2976 chars]",
+      "retrievedAt": "2023-09-25 07:05:43.373823",
+      "internal_id": "12b7e6bf61e256a4b6840deec85a1b051ea39e526a7c4884296dfea65a1dddd6",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 2010,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "12-Year-Old Kolkata Girl Tests Positive For Dengue, Dies In Hospital",
+      "description": "A 12-year-old girl from Kolkata's Jadavpur area, who tested positive for dengue, died at a state-run hospital on Saturday afternoon, an official said.",
+      "url": "https://www.ndtv.com/kolkata-news/12-year-old-kolkata-girl-tests-positive-for-dengue-dies-in-hospital-4418260",
+      "urlToImage": "https://c.ndtvimg.com/2022-09/3jpf0c1o_dengue-home-remedies_625x300_24_September_22.jpg",
+      "publishedAt": "2023-09-23 20:32:16",
+      "content": "The girl died at a state-run hospital on Saturday afternoon (Representational) Kolkata: A 12-year-old girl from Kolkata's Jadavpur area, who tested positive for dengue, died at a state-run hospital \u2026 [+739 chars]",
+      "retrievedAt": "2023-09-25 07:05:43.361781",
+      "internal_id": "7b602e9cab3ed576f9de8fbab09045936ea0eef96467570e815c90c88d734551",
+      "publishedAtLabel": "Sep 23"
+    },
     {
       "id": 2008,
       "query": [
@@ -3520,96 +3610,6 @@
       "content": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to contro\u2026 [+9368 chars]",
       "retrievedAt": "2023-09-14 19:05:07.354248",
       "internal_id": "c9e5d917fac1dae317b8e33322d231b2e96fa82d907a05c648c2ee7655cf6bf6",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1815,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Associated Press",
-      "title": "Mosquitos, feared for spreading dengue, now being bred to fight the disease",
-      "description": "Modified mosquitos carrying bacteria meant to interrupt the transmission of dengue have been released in Honduras, where 10,000 people are known to be sickened by the disease each year.",
-      "url": "https://www.foxnews.com/world/mosquitos-feared-spreading-dengue-now-being-bred-fight-disease",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/bottle.jpg",
-      "publishedAt": "2023-09-13 12:14:08",
-      "content": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to contro\u2026 [+6168 chars]",
-      "retrievedAt": "2023-09-14 19:05:07.363837",
-      "internal_id": "a3e7a413f1a298f94799cd26a5fd9e5e2a6173016bc1f32eb07e4539ee8eedf2",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1818,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "732 dengue-infected people in Tanahun district",
-      "description": "DAMAULI: Seven hundred thirty-two people have been confirmed infected with dengue in Tanahun district. One has died and 732 people have been confirmed infected with the diseases in the district in the past three months, said the health office, Tanahun. Engine\u2026",
-      "url": "https://english.khabarhub.com/2023/13/318244/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-09-13 12:05:29",
-      "content": "Image for Representation.DAMAULI: Seven hundred thirty-two people have been confirmed infected with dengue in Tanahun district. One has died and 732 people have been confirmed infected with the dise\u2026 [+2413 chars]",
-      "retrievedAt": "2023-09-14 19:05:07.381489",
-      "internal_id": "1e4b5bca89a4e2409d2debe90845b945f0cddd14853f229e261ed26b93795f1e",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1819,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "business-insider",
-      "source_name": "Business Insider",
-      "author": "Polly Thompson,Grace Dean",
-      "title": "Elon Musk once caught malaria on safari and was 'hours from death,' book says",
-      "description": "Walter Isaacson's new biography of Elon Musk gives more insight into why the Tesla and SpaceX billionaire seems to dislike taking time off.",
-      "url": "https://www.businessinsider.com/elon-musk-caught-malaria-safari-south-africa-biography-walter-isaacson-2023-9",
-      "urlToImage": "https://i.insider.com/64fdd5693d3923001977bfec?width=1200&format=jpeg",
-      "publishedAt": "2023-09-13 12:00:21",
-      "content": "Elon Musk did take some time off in July 2022 when he visited the Greek island of Mykonos.MEGA/GC/Getty Images Walter Isaacson's biography of Elon Musk shines new light on the world's riches\u2026 [+4228 chars]",
-      "retrievedAt": "2023-09-14 19:05:08.424860",
-      "internal_id": "4b58bcced328fb9e790c125818d2031d5803505991c92d8b1bd6e6b5afcd5792",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1809,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Mukhopadhya, I.",
-      "title": "Is HBx protein the X factor in the pathogenesis of IBD?",
-      "description": "The role of viruses in the aetiopathogenesis of inflammatory bowel disease (IBD) has been a topic of conjecture for decades. Initial focus on specific viral agents in IBD like norovirus, rotaviruses and measles virus did not gain ground. The advent of metagen\u2026",
-      "url": "https://gut.bmj.com/content/72/10/1808",
-      "urlToImage": "https://gut.bmj.com/sites/default/files/highwire/gutjnl/72/10.cover-source.jpg",
-      "publishedAt": "2023-09-13 09:04:42",
-      "content": "The role of viruses in the aetiopathogenesis of inflammatory bowel disease (IBD) has been a topic of conjecture for decades. Initial focus on specific viral agents in IBD like norovirus, rotaviruses \u2026 [+1190 chars]",
-      "retrievedAt": "2023-09-14 19:05:06.738828",
-      "internal_id": "38a3b2e1e9a99e463b4e3765103c37ff610dc91707109a7ee0cc69999c30c414",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1810,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The West Australian",
-      "author": "Claire Sadler",
-      "title": "WA measles: Perth and Midwest residents should check for symptoms after Bali traveller returned with disease",
-      "description": "The Department of Health has raised the alarm after a traveller returned from Bali triggered a health alert in WA after they visited a hotel and shops while infected with measles.",
-      "url": "https://thewest.com.au/news/health/wa-measles-perth-and-midwest-residents-should-check-for-symptoms-after-bali-traveller-returned-with-disease-c-11893283",
-      "urlToImage": "https://images.thewest.com.au/publication/C-11893283/77d1d7611ea6baac29b2e54d34d47ebbd5086fc0-16x9-x0y240w4600h2588.jpg?imwidth=1200",
-      "publishedAt": "2023-09-13 08:57:02",
-      "content": "A traveller returning from Bali has triggered a health alert in WA after they visited a hotel and shops while infected with measles. The Department of Health has raised the alarm after the person wh\u2026 [+1198 chars]",
-      "retrievedAt": "2023-09-14 19:05:06.745918",
-      "internal_id": "25bb858a2c82ad9300293e3d8f211b7b57a77e8cbae45acbe8e7649d0ee8c02d",
       "publishedAtLabel": "Sep 13"
     }
   ]
