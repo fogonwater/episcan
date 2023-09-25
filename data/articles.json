@@ -1,8 +1,116 @@
 {
-  "last_updated": "2023-09-25 07:05",
+  "last_updated": "2023-09-25 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 2018,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u2018\u09ea\u09ee \u0998\u09a3\u09cd\u099f\u09be\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u0996\u09be\u09b2\u09c7\u09a6\u09be \u099c\u09bf\u09df\u09be\u0995\u09c7 \u09ae\u09c1\u0995\u09cd\u09a4\u09bf \u09a6\u09bf\u09df\u09c7 \u099a\u09bf\u0995\u09bf\u09ce\u09b8\u09be\u09b0 \u099c\u09a8\u09cd\u09af \u09ac\u09bf\u09a6\u09c7\u09b6\u09c7 \u09aa\u09be\u09a0\u09be\u09a4\u09c7 \u09b9\u09ac\u09c7\u2019",
+      "description": "\u09ac\u09bf\u098f\u09a8\u09aa\u09bf \u099a\u09c7\u09df\u09be\u09b0\u09aa\u09be\u09b0\u09b8\u09a8 \u0996\u09be\u09b2\u09c7\u09a6\u09be \u099c\u09bf\u09df\u09be\u0995\u09c7 \u09ea\u09ee \u0998\u09a3\u09cd\u099f\u09be\u09b0 \u09ae\u09a7\u09cd\u09af\u09c7 \u09ae\u09c1\u0995\u09cd\u09a4\u09bf\u09b0 \u09aa\u09be\u09b6\u09be\u09aa\u09be\u09b6\u09bf \u09a4\u09be\u0995\u09c7 \u09a6\u09cd\u09b0\u09c1\u09a4 \u09ac\u09bf\u09a6\u09c7\u09b6\u09c7 \u09aa\u09be\u09a0\u09be\u09a8\u09cb\u09b0 \u0986\u09b2\u09cd\u099f\u09bf\u09ae\u09c7\u099f\u09be\u09ae \u09a6\u09bf\u09df\u09c7\u099b\u09c7\u09a8 \u09a6\u09b2\u09c7\u09b0 \u09ae\u09b9\u09be\u09b8\u099a\u09bf\u09ac \u09ae\u09bf\u09b0\u09cd\u099c\u09be \u09ab\u0996\u09b0\u09c1\u09b2 \u0987\u09b8\u09b2\u09be\u09ae \u0986\u09b2\u09ae\u0997\u09c0\u09b0\u0964",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/politics/news-517496",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/09/24/fakhrul_2.jpg?itok=CzrFCxe2",
+      "publishedAt": "2023-09-24 15:17:08",
+      "content": "This month witnessed more than 300 dengue deaths as the toll crossed 600-mark on Sept 2; 700 on Sept 8; and 800 on Sept 16",
+      "retrievedAt": "2023-09-25 19:05:31.789428",
+      "internal_id": "ea4197a1c0ae350d2c5d4d0ecd7a316b012defe987740fb299bc3e239686ebc5",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 2015,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u0995\u09cb\u09a8\u09cb \u09ad\u09bf\u09b8\u09be \u09a8\u09c0\u09a4\u09bf \u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8\u09c7 \u09aa\u09cd\u09b0\u09ad\u09be\u09ac \u09b0\u09be\u0996\u09a4\u09c7 \u09aa\u09be\u09b0\u09ac\u09c7 \u09a8\u09be: \u0993\u09ac\u09be\u09df\u09a6\u09c1\u09b2 \u0995\u09be\u09a6\u09c7\u09b0",
+      "description": "\u09a4\u09bf\u09a8\u09bf \u09ac\u09b2\u09c7\u09a8, '\u09a6\u09c7\u09b6\u09bf-\u09ac\u09bf\u09a6\u09c7\u09b6\u09bf \u09b7\u09a1\u09bc\u09af\u09a8\u09cd\u09a4\u09cd\u09b0\u09c7\u09b0 \u09ae\u09be\u09a7\u09cd\u09af\u09ae\u09c7 \u09a8\u09bf\u09b0\u09cd\u09ac\u09be\u099a\u09a8\u0995\u09c7 \u09ac\u09be\u09a7\u09be\u0997\u09cd\u09b0\u09b8\u09cd\u09a4 \u0995\u09b0\u09be\u09b0 \u09af\u09c7\u0995\u09cb\u09a8\u09cb \u09a7\u09b0\u09a8\u09c7\u09b0 \u0985\u09aa\u09a4\u09ce\u09aa\u09b0\u09a4\u09be\u0995\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf\u09b9\u09a4 \u0995\u09b0\u09ac\u09c7 \u09a6\u09c7\u09b6\u09c7\u09b0 \u099c\u09a8\u0997\u09a3\u0964'",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/politics/news-517471",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/obaidul-quader-1wb_0.jpg?itok=ArRg9iiZ",
+      "publishedAt": "2023-09-24 13:56:24",
+      "content": "This month witnessed more than 300 dengue deaths as the toll crossed 600-mark on Sept 2; 700 on Sept 8; and 800 on Sept 16",
+      "retrievedAt": "2023-09-25 19:05:31.782140",
+      "internal_id": "398d925cd344013a72b80bd36d0bd137cc1841eb9d1bc519a1e9870958bc3cda",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 2020,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1\u09a4\u09c7 \u098f \u09ac\u099b\u09b0 \u09ae\u09c3\u09a4\u09cd\u09af\u09c1 \u09ef\u09e6\u09e6 \u099b\u09be\u09dc\u09be\u09b2",
+      "description": "\u09a6\u09c7\u09b6\u09c7 \u0997\u09a4 \u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be\u09af\u09bc \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u099c\u09cd\u09ac\u09b0\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u09b9\u09af\u09bc\u09c7 \u0986\u09b0\u0993 \u09e7\u09ec \u099c\u09a8 \u09ae\u09be\u09b0\u09be \u0997\u09c7\u099b\u09c7\u09a8\u0964",
+      "url": "https://bangla.thedailystar.net/health/disease/news-517461",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/08/19/dengue_5_1_1_1_1.jpg?itok=OSMwQQBG",
+      "publishedAt": "2023-09-24 13:46:32",
+      "content": "This month witnessed more than 300 dengue deaths as the toll crossed 600-mark on Sept 2; 700 on Sept 8; and 800 on Sept 16",
+      "retrievedAt": "2023-09-25 19:05:31.792833",
+      "internal_id": "4f010d98835582e91a7ea869f59695e1cdfbf99427bbb01a219413dd4578e0e9",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 2017,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09b8\u09b9\u0995\u09be\u09b0\u09c0 \u099c\u099c \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u09a8\u09bf\u09df\u09cb\u0997 \u09aa\u09be\u099a\u09cd\u099b\u09c7\u09a8 \u09e7\u09e6\u09ea \u099c\u09a8",
+      "description": "\u09b8\u09b9\u0995\u09be\u09b0\u09c0 \u099c\u099c \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u09a8\u09bf\u09df\u09cb\u0997 \u09aa\u09be\u099a\u09cd\u099b\u09c7\u09a8 \u09e7\u09e6\u09ea \u099c\u09a8thedailystar.net",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/news-517451",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2021/09/27/court_act.jpg?itok=UA9hUJKZ",
+      "publishedAt": "2023-09-24 13:44:39",
+      "content": "This month witnessed more than 300 dengue deaths as the toll crossed 600-mark on Sept 2; 700 on Sept 8; and 800 on Sept 16",
+      "retrievedAt": "2023-09-25 19:05:31.787748",
+      "internal_id": "bb0cc7351c4140e9241af865259d06fc638f4f8e62b08611366d0a0e88e0bebb",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 2016,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u0993\u09ae\u09be\u09a8\u09c7\u09b0 \u099c\u09bf\u09a1\u09bf\u09aa\u09bf \u09ef.\u09eb \u09b6\u09a4\u09be\u0982\u09b6 \u0995\u09ae\u09c7\u099b\u09c7",
+      "description": "\u09e8\u09e6\u09e8\u09e9 \u09b8\u09be\u09b2\u09c7\u09b0 \u09a6\u09cd\u09ac\u09bf\u09a4\u09c0\u09af\u09bc \u09aa\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09bf\u0995\u09c7 \u0993\u09ae\u09be\u09a8\u09c7\u09b0 \u099c\u09bf\u09a1\u09bf\u09aa\u09bf \u0997\u09a4 \u09ac\u099b\u09b0\u09c7\u09b0 \u098f\u0995\u0987 \u09b8\u09ae\u09af\u09bc\u09c7\u09b0 \u099a\u09c7\u09df\u09c7 \u09ef \u09a6\u09b6\u09ae\u09bf\u0995 \u09eb \u09b6\u09a4\u09be\u0982\u09b6 \u0995\u09ae\u09c7\u099b\u09c7\u0964",
+      "url": "https://bangla.thedailystar.net/business/world-economy/news-517441",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/09/24/oman.jpg",
+      "publishedAt": "2023-09-24 13:35:35",
+      "content": "This month witnessed more than 300 dengue deaths as the toll crossed 600-mark on Sept 2; 700 on Sept 8; and 800 on Sept 16",
+      "retrievedAt": "2023-09-25 19:05:31.785875",
+      "internal_id": "dfc56ebc9fa62b384d68797f0dfdcb3ea7cb6f24ec96dc3e19ca42d730e10ec5",
+      "publishedAtLabel": "Sep 24"
+    },
+    {
+      "id": 2019,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "The Daily Star",
+      "title": "\u09b9\u09a0\u09be\u09ce \u09ac\u09be\u099c\u09be\u09b0 \u09a5\u09c7\u0995\u09c7 \u0986\u09b2\u09c1 \u0989\u09a7\u09be\u0993, \u0987\u0989\u098f\u09a8\u0993 \u0986\u09b8\u09be\u09b0 \u09aa\u09b0 \u09ac\u09bf\u0995\u09cd\u09b0\u09bf \u09b6\u09c1\u09b0\u09c1",
+      "description": "\u099c\u09be\u09a8\u09be \u09af\u09be\u09df, \u0986\u0997\u09c7\u09b0 \u09a6\u09bf\u09a8 \u09b8\u0995\u09be\u09b2\u09c7 \u098f\u0987 \u09ac\u09be\u099c\u09be\u09b0\u09c7 \u09a6\u09cd\u09b0\u09ac\u09cd\u09af\u09ae\u09c2\u09b2\u09cd\u09af \u09aa\u09b0\u09cd\u09af\u09ac\u09c7\u0995\u09cd\u09b7\u09a3 \u0995\u09b0\u09a4\u09c7 \u098f\u09b8\u09c7\u099b\u09bf\u09b2\u09c7\u09a8 \u0989\u09aa\u099c\u09c7\u09b2\u09be \u09aa\u09cd\u09b0\u09b6\u09be\u09b8\u09a8\u09c7\u09b0 \u0995\u09b0\u09cd\u09ae\u0995\u09b0\u09cd\u09a4\u09be\u09b0\u09be\u0964 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df\u09c0\u09a6\u09c7\u09b0\u0995\u09c7 \u09a4\u09be\u09b0\u09be \u09ac\u09b2\u09c7\u09a8, \u09af\u09be\u09b0\u09be \u09ac\u09c7\u0981\u09a7\u09c7 \u09a6\u09c7\u0993\u09df\u09be \u09a6\u09be\u09ae\u09c7\u09b0 \u099a\u09c7\u09df\u09c7 \u09ac\u09c7\u09b6\u09bf \u09a6\u09be\u09ae\u09c7 \u0986\u09b2\u09c1 \u09ac\u09bf\u0995\u09cd\u09b0\u09bf \u0995\u09b0\u09ac\u09c7\u09a8 \u09a4\u09be\u09a6\u09c7\u09b0 \u09ac\u09bf\u09b0\u09c1\u09a6\u09cd\u09a7\u09c7 \u09ac\u09cd\u09af\u09ac\u09b8\u09cd\u09a5\u09be \u09a8\u09c7\u0993\u09df\u09be \u09b9\u09ac\u09c7\u0964 \u09b9\u09c1\u09ae\u0995\u09bf\u09b0 \u09ae\u09c1\u0996\u09c7 \u09ac\u09be\u099c\u09be\u09b0 \u09a5\u09c7\u0995\u09c7 \u0986\u09b2\u09c1 \u09b8\u09b0\u09bf\u09df\u09c7 \u09ab\u09c7\u09b2\u09c7\u09a8 \u09ac\u09cd\u09af\u2026",
+      "url": "https://bangla.thedailystar.net/health/food/daily-commodity-price/news-517406",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/09/24/ghoraghat_news_photo_24.09.23.jpg",
+      "publishedAt": "2023-09-24 11:56:27",
+      "content": "This month witnessed more than 300 dengue deaths as the toll crossed 600-mark on Sept 2; 700 on Sept 8; and 800 on Sept 16",
+      "retrievedAt": "2023-09-25 19:05:31.791074",
+      "internal_id": "a980cb7056068cbe4fd4fcfa9aefb00e60779b9742708caedcf08cd11fed00f5",
+      "publishedAtLabel": "Sep 24"
+    },
     {
       "id": 2011,
       "query": [
@@ -221,6 +329,26 @@
       "publishedAtLabel": "Sep 22"
     },
     {
+      "id": 2014,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Discovery in mosquitoes could lead to new strategy against dengue fever and other mosquito-borne vectors",
+      "description": "Researchers have made an important finding about Aedes aegypti mosquitoes -- one that could one day lead to better methods for reducing the mosquito-to-human transmission of dengue, yellow fever, Zika, and other harmful and sometimes deadly viruses.",
+      "url": "https://www.sciencedaily.com/releases/2023/09/230922141259.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-09-22 18:12:59",
+      "content": "Researchers from the Johns Hopkins Malaria Research Institute at the Johns Hopkins Bloomberg School of Public Health have made an important finding about Aedes aegypti mosquitoes -- one that could on\u2026 [+5040 chars]",
+      "retrievedAt": "2023-09-25 19:05:31.764982",
+      "internal_id": "a2088cf642054ca3699e5f90a407b810752b239ab644e515c5bebbcaaebb2983",
+      "publishedAtLabel": "Sep 22"
+    },
+    {
       "id": 1999,
       "query": [
         "measles"
@@ -434,6 +562,24 @@
       "content": "Jigang Wang and colleagues have made significant progress in unraveling the antimalarial mechanisms of artemisinin (ART) and its derivatives. Their latest research, published in the journal Engineeri\u2026 [+2995 chars]",
       "retrievedAt": "2023-09-23 07:05:20.082339",
       "internal_id": "1c7d3480d77755ec1673279c6a806b61c8b666bd485f65a3b7d3162e53f10c0d",
+      "publishedAtLabel": "Sep 21"
+    },
+    {
+      "id": 2021,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "New strategies reduce treatment failure in malaria by up to 81%",
+      "description": "To slow artemisinin resistance and reduce treatment failures, an international research team investigated various drug policy interventions in Rwanda, where artemisinin resistance was first reported in 2020. Among other strategies, the team found that next-ge\u2026",
+      "url": "https://www.sciencedaily.com/releases/2023/09/230921154541.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-09-21 19:45:41",
+      "content": "Artemisinin-based combination therapies (ACTs) are the globally-accepted first-line treatments for malaria -- a mosquito-borne disease caused by the Plasmodium falciparum parasite that annually kills\u2026 [+6059 chars]",
+      "retrievedAt": "2023-09-25 19:05:32.267626",
+      "internal_id": "263467424f3d7ae64c8889af0319119e1062df8d53daf5add281b2e41df28832",
       "publishedAtLabel": "Sep 21"
     },
     {
@@ -3466,150 +3612,6 @@
       "content": "Outbreak of Shigellosis likely associated with a Conference at Westin Bonventure Hotel Venue in Downtown Los Angeles, August 21-24, 2023. Alameda County Public Health Department, in coordination wit\u2026 [+1806 chars]",
       "retrievedAt": "2023-09-15 07:05:37.625954",
       "internal_id": "0e608ffe5dbd1e90667558d580cd00f4d9130c7d2ec6becdddb684128bb0462a",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1811,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Boston Herald",
-      "author": "Associated Press",
-      "title": "Special mosquitoes are being bred to fight dengue. How the old enemies are now becoming allies",
-      "description": "By MAR\u00cdA VERZA and MADDIE BURAKOFF (Associated Press) TEGUCIGALPA, Honduras (AP) \u2014 For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more \u2026",
-      "url": "https://www.bostonherald.com/2023/09/13/special-mosquitoes-are-being-bred-to-fight-dengue-how-the-old-enemies-are-now-becoming-allies/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2023/09/Honduras_Mosquitoes_Fighting_Dengue_16046-1.jpg?w=1024&h=682",
-      "publishedAt": "2023-09-13 18:20:48",
-      "content": "By MAR\u00cdA VERZA and MADDIE BURAKOFF (Associated Press) TEGUCIGALPA, Honduras (AP) \u2014 For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites\u2026 [+6393 chars]",
-      "retrievedAt": "2023-09-14 19:05:07.337935",
-      "internal_id": "249e6eae811089ef528fe02c142a56b0e1046a847a5c2ff864adfa9951eab828",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1814,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Denver Post",
-      "author": "The Associated Press",
-      "title": "Special mosquitoes are being bred to fight dengue. How the old enemies are now becoming allies",
-      "description": "Preventing dengue fever has long meant teaching people to fear mosquitoes and avoid their bites. Now scientists are promoting a potentially more effective way to control the disease with the help of mosquitoes. These aren\u2019t just any insects: Mosquitoes are br\u2026",
-      "url": "https://www.denverpost.com/2023/09/13/special-mosquitoes-are-being-bred-to-fight-dengue-how-the-old-enemies-are-now-becoming-allies-2/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2023/09/Honduras_Mosquitoes_Fighting_Dengue_16046.jpg?w=1024&h=682",
-      "publishedAt": "2023-09-13 18:20:19",
-      "content": "By MAR\u00cdA VERZA and MADDIE BURAKOFF (Associated Press) TEGUCIGALPA, Honduras (AP) \u2014 For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites\u2026 [+9201 chars]",
-      "retrievedAt": "2023-09-14 19:05:07.358298",
-      "internal_id": "8af8b5b9d5463402937c8e6a881c3f70cbbd4b7678ef7e0159f20bdd6cc2f493",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1812,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "2 Dengue Deaths In Puducherry",
-      "description": "Two people have died of dengue in Puducherry, a top Health department official said on Wednesday.",
-      "url": "https://www.ndtv.com/india-news/2-dengue-deaths-in-puducherry-4387752",
-      "urlToImage": "https://c.ndtvimg.com/2022-10/pilhkv5o_dengue-_625x300_21_October_22.jpg",
-      "publishedAt": "2023-09-13 18:17:57",
-      "content": "Puducherry's health department constituted a committee to review the situation. (Representational) Puducherry: Two people have died of dengue in Puducherry, a top Health department official said on \u2026 [+1232 chars]",
-      "retrievedAt": "2023-09-14 19:05:07.345933",
-      "internal_id": "be264c417eeba670dd7ea9492d0b0a714f537eb5f499207fb72cdf42ecbff481",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1820,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Sascha Karberg",
-      "title": "Preisgekr\u00f6nte Immunologin Rose Leke: \u201eAuch in Deutschland ist man vor Malaria nicht v\u00f6llig sicher\u201c",
-      "description": "Rose Leke, Koryph\u00e4e aus Kamerun, z\u00e4hlt zu den anerkanntesten Malariaforscherinnen der Welt. Wie eine Infektionskrankheit ausgerottet werden kann, an der j\u00e4hrlich \u00fcber 600.000 Menschen sterben.",
-      "url": "https://www.tagesspiegel.de/wissen/preisgekronte-immunologin-rose-leke-auch-in-deutschland-ist-man-vor-malaria-nicht-vollig-sicher-10452844.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/dr-rose-leke-immunologin-aus-kamerun/alternates/BASE_16_9_W1400/dr-rose-leke-immunologin-aus-kamerun.jpeg",
-      "publishedAt": "2023-09-13 14:52:02",
-      "content": "Frau Leke, als Immunologin haben Sie ein Leben lang an Malaria geforscht. Wurden Sie selbst je infiziert?Oh ja, das ist der Grund, warum ich an Malaria arbeite. Ich hatte in meinem Leben zahllose Mal\u2026 [+285 chars]",
-      "retrievedAt": "2023-09-14 19:05:08.434003",
-      "internal_id": "abbfe7ca01bd66c2bcf10f9a1287c5aee0e04ca2d9b2c5a2f27383309835cb8c",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1817,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Special mosquitoes are being bred to fight dengue",
-      "description": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to control the disease \u2014 and it goes against everything they\u2019ve learn\u2026",
-      "url": "https://sylhetmirror.com/2023/09/13/special-mosquitoes-are-being-bred-to-fight-dengue/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/09/t56yt6y7.jpg",
-      "publishedAt": "2023-09-13 14:11:54",
-      "content": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to contro\u2026 [+8851 chars]",
-      "retrievedAt": "2023-09-14 19:05:07.373783",
-      "internal_id": "9990f39154318d6328a2eb8e29c88825375e7ce2ff72eb4c8cdbc102d50a14f9",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1821,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Justin Nicholas, Sai Lata De, Pongsakorn Thawornpan, Awtum M. Brashear, Surendra Kumar Kolli, Pradeep Annamalai Subramani, Samantha J. Barnes, Liwang Cui, Patchanee Chootong, Francis Babila Ntumngia, John H. Adams",
-      "title": "Preliminary characterization of Plasmodium vivax sporozoite antigens as pre-erythrocytic vaccine candidates",
-      "description": "Author summary Plasmodium vivax infections are the most common cause of malaria outside of Sub-Saharan Africa and often prevalent in areas with limited healthcare. A vaccine that interrupts parasite transmission from the mosquito would help limit the burden o\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011598",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011598.g005&size=inline",
-      "publishedAt": "2023-09-13 14:00:00",
-      "content": "Citation: Nicholas J, De SL, Thawornpan P, Brashear AM, Kolli SK, Subramani PA, et al. (2023) Preliminary characterization of Plasmodium vivax sporozoite antigens as pre-erythrocytic vaccine candidat\u2026 [+38312 chars]",
-      "retrievedAt": "2023-09-14 19:05:08.440054",
-      "internal_id": "54039c3e440227d99bc64c70fd119d6563ee4dc9c3638beac948986da6c47a9c",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1816,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Svenska.yle.fi",
-      "author": null,
-      "title": "Nu testas myggor som kan motarbeta dengue \u2013 ny bakterie har arbetats fram",
-      "description": "Vanligtvis kan myggbett inneb\u00e4ra en risk f\u00f6r sjukdom.",
-      "url": "https://svenska.yle.fi/a/7-10041581",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/f_auto,fl_progressive/q_auto/w_649,h_364,c_crop,x_0,y_14/w_1200/w_1200,ar_16:9/w_1320,ar_1320:675,c_pad,b_white,g_east/l_39-yle-logo-some_ywtrrc,g_west,ar_1320:675,w_1.0,fl_relative,c_crop/v1694610689/39-11716016501b47ab6350.jpg",
-      "publishedAt": "2023-09-13 13:44:52",
-      "content": "Vanligtvis ska man undvika att l\u00e5ta sig stickas av myggor eftersom myggorna kan sprida sjukdomar, till exempel dengue. I Honduras testar man nu n\u00e5got unikt n\u00e4mligen myggornas f\u00f6rm\u00e5ga att avbryta \u00f6ver\u2026 [+719 chars]",
-      "retrievedAt": "2023-09-14 19:05:07.368514",
-      "internal_id": "072dd6d577473956749c051ced71d6f2545acd01d96207819a5d556b91fabb30",
-      "publishedAtLabel": "Sep 13"
-    },
-    {
-      "id": 1813,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "National Observer",
-      "author": "Mar\u00eda Verza, Maddie Burakoff",
-      "title": "Turning enemies into friends: special mosquitoes bred to fight dengue",
-      "description": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to control the disease \u2014 and it goes against everything they\u2019ve learn\u2026",
-      "url": "https://www.nationalobserver.com/2023/09/13/news/special-mosquitoes-bred-fight-dengue",
-      "urlToImage": "https://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_social/public/img/2023/09/13/2023091300094-650134c0d6e63156c1dfc81ejpeg.jpg?itok=jj_k7B9z",
-      "publishedAt": "2023-09-13 12:57:34",
-      "content": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to contro\u2026 [+9368 chars]",
-      "retrievedAt": "2023-09-14 19:05:07.354248",
-      "internal_id": "c9e5d917fac1dae317b8e33322d231b2e96fa82d907a05c648c2ee7655cf6bf6",
       "publishedAtLabel": "Sep 13"
     }
   ]
