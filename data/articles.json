@@ -1,8 +1,155 @@
 {
-  "last_updated": "2023-09-26 07:05",
+  "last_updated": "2023-09-26 19:05",
   "count_articles_total": 300,
   "count_articles_new": 8,
   "articles": [
+    {
+      "id": 2030,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "West Bengal governor cancels US trip over dengue upsurge in state",
+      "description": "West Bengal Governor Dr CV Ananda Bose has cancelled his trip to the USA to attend the World Culture Festival. He felt it would be inappropriate to accept foreign hospitality while the state is facing financial difficulties and dengue deaths. The governor's d\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/west-bengal-governor-cancels-us-trip-over-dengue-upsurge-in-state/articleshow/103939200.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103939204,width-1070,height-580,imgsize-280440,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-25 16:00:21",
+      "content": "Parineeti to Kiara: Brides who wore most stunning jewellery on their wedding day",
+      "retrievedAt": "2023-09-26 19:05:28.755454",
+      "internal_id": "bdfbda37e890334e0ba6f03b202f08cad732ea42a46071d206c98d512bc5fa91",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 2034,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "Elsa Provenzano (20 Minutes)",
+      "title": "Nouvelle-Aquitaine : Pourquoi ne peut-on pas d\u00e9moustiquer davantage pour lutter contre le moustique tigre ?",
+      "description": "Les op\u00e9rations de d\u00e9moustication sont d\u00e9clench\u00e9es lorsque des cas av\u00e9r\u00e9s de dengue, zika ou chikungunya sont signal\u00e9s et les traitements se concentrent sur un p\u00e9rim\u00e8tre restreint d\u2019environ six hectares",
+      "url": "https://www.20minutes.fr/sante/4054654-20230925-nouvelle-aquitaine-pourquoi-peut-demoustiquer-davantage-lutter-contre-moustique-tigre",
+      "urlToImage": "https://img.20mn.fr/Ml9ZY8SPSBCU0zs2HwO0ayk/1200x768_operations-de-demoustication-anti-larvaires-organise-par-la-mairie-de-cannes-insecticide-biologique-traitement-des-espaces-publics-susceptibles-de-servir-de-gites-aux-moustiques-notamment-le-moustique-tigre-vecteur-d-agents-infectieux-dont-la-dengue-le-chikungunya-le-zika-square-leo-callandry-cannes-france-11-07-2023-syspeo-sys-b003-credit-syspeo-sipa-2307160802",
+      "publishedAt": "2023-09-25 15:31:32",
+      "content": "L\u2019\u00e9t\u00e9 est derri\u00e8re nous, on est le 25 septembre mais les op\u00e9rations de d\u00e9moustication se poursuivent en Nouvelle-Aquitaine, l\u2019une des tr\u00e8s nombreuses r\u00e9gions fran\u00e7aises colonis\u00e9es par le moustique ti\u2026 [+3315 chars]",
+      "retrievedAt": "2023-09-26 19:05:28.783998",
+      "internal_id": "5d45af7d2edbec31b79bd78d0110b8bf5a045aea7fba7f3cad40a442149232ca",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 2033,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yang Zhang, Monica Zahreddine, Kellyanne Abreu, Mayana Azevedo Dantas, Katia Charland, Laura Pierce, Valery Ridde, Kate Zinszer",
+      "title": "Knowledge, attitude and practice (KAP) and risk factors on dengue fever among children in Brazil, Fortaleza: A cross-sectional study",
+      "description": "Author summary Dengue fever has become an increasing threat to public health, with its global expansion and increased presence in dengue endemic countries. This study provides insight into the prevalence of dengue seropositivity in children in Fortaleza, Braz\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011110",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011110.t004&size=inline",
+      "publishedAt": "2023-09-25 14:00:00",
+      "content": "Citation: Zhang Y, Zahreddine M, Abreu K, Dantas MA, Charland K, Pierce L, et al. (2023) Knowledge, attitude and practice (KAP) and risk factors on dengue fever among children in Brazil, Fortaleza: A\u2026 [+27336 chars]",
+      "retrievedAt": "2023-09-26 19:05:28.777549",
+      "internal_id": "1937ad501cdd08810c9ddbfb4d599ea90ade93bf5ad9142118833c1c16c5aedd",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 2037,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Fabio.com.ar",
+      "author": "Fabio Baccaglioni",
+      "title": "Typhoid Mary, Mar\u00eda Tifoidea, la portadora asintom\u00e1tica",
+      "description": "En m\u00e1s de una ocasi\u00f3n me encontr\u00e9 con alguna referencia a ella y no la entend\u00eda, resulta que Mary Mallon era conocida como \"Typhoid Mary\" (Mar\u00eda Tifoidea) por ser portadora de Tifoidea asintom\u00e1tica y haber infectado a decenas de personas, inclusive causando l\u2026",
+      "url": "https://www.fabio.com.ar/9168-typhoid_mary_maria_tifoidea_la_portadora_asintomatica",
+      "urlToImage": "https://www.fabio.com.ar/images/reviews34/typhoid_mary_00.jpg",
+      "publishedAt": "2023-09-25 13:30:00",
+      "content": "25/09/2023 - 10:30:00 por Fabio Baccaglioni - 77 - 0 - En Curiosidades En m\u00e1s de una ocasi\u00f3n me encontr\u00e9 con alguna referencia a ella y no la entend\u00eda, resulta que Mary Mallon era conocida como \"T\u2026 [+6356 chars]",
+      "retrievedAt": "2023-09-26 19:05:30.251372",
+      "internal_id": "e4a89b9a367c5c99090ab242c89e78e9dadca3f5e69136f9f6dab7feb5aaecb7",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 2035,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Un descubrimiento en mosquitos podr\u00eda conducir a una nueva estrategia contra el dengue y otros vectores",
+      "description": "Investigadores del Instituto de Investigaci\u00f3n de Malaria Johns Hopkins de la Escuela de Salud P\u00fablica Bloomberg de Johns Hopkins, en Estados Unidos, han hecho un hallazgo importante sobre los mosquitos 'Aedes aegypti', uno que podr\u00eda conducir a mejores m\u00e9todo\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-descubrimiento-mosquitos-podria-conducir-nueva-estrategia-contra-dengue-otros-vectores-20230925151905.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230925151905_1200.jpg",
+      "publishedAt": "2023-09-25 13:19:05",
+      "content": "MADRID, 25 Sep. (EUROPA PRESS) - Investigadores del Instituto de Investigaci\u00f3n de Malaria Johns Hopkins de la Escuela de Salud P\u00fablica Bloomberg de Johns Hopkins, en Estados Unidos, han hecho un h\u2026 [+4189 chars]",
+      "retrievedAt": "2023-09-26 19:05:28.788449",
+      "internal_id": "40d6f6804bacfcc340ea0ef86100d803688244051026edd3ef11816b278069bc",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 2032,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Dengue, Flu, and Scrub Typhus cases rising in cities and villages, warn doctors",
+      "description": "Doctors are witnessing a rise in cases of dengue, flu, and scrub typhus, with patients often presenting a combination of these illnesses. This surge in cases is particularly concerning for immunocompromised individuals, children, and the elderly. Dengue, typi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/dengue-flu-and-scrub-typhus-cases-rising-in-cities-and-villages-warn-doctors/articleshow/103932269.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-103932356,width-1200,height-630,imgsize-17696,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-25 11:05:27",
+      "content": "In a concerning development, doctors are reporting a significant increase in cases of dengue, flu, and scrub typhus, with several patients presenting a combination of these illnesses, making diagnosi\u2026 [+1828 chars]",
+      "retrievedAt": "2023-09-26 19:05:28.774692",
+      "internal_id": "1fe0653ba943fff3a0495cfcbe335191ff3677e350dcef85aae2dce49a39f843",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 2036,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Bangladesh's dengue death toll exceeds 900",
+      "description": "DHAKA, Sept. 25 (Xinhua) -- More than 900 people have died of dengue fever, out of 187,725 cases rep",
+      "url": "http://en.people.cn/n3/2023/0925/c90000-20076640.html",
+      "urlToImage": null,
+      "publishedAt": "2023-09-25 08:14:28",
+      "content": "(Xinhua) 14:10, September 25, 2023 DHAKA, Sept. 25 (Xinhua) -- More than 900 people have died of dengue fever, out of 187,725 cases reported across Bangladesh so far this year, health department fig\u2026 [+771 chars]",
+      "retrievedAt": "2023-09-26 19:05:28.796823",
+      "internal_id": "994de6df9ea13f3032bc7d5145e1d9094e91c7cdb9a48770a3df9f8a0ba7b8c2",
+      "publishedAtLabel": "Sep 25"
+    },
+    {
+      "id": 2031,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Buscan en Irapuato proteger del dengue a los extranjeros",
+      "description": "Irapuato, Gto., La Secretar\u00eda de Salud de Guanajuato llev\u00f3 a cabo una nebulizaci\u00f3n en las inmediaciones del puente Siglo XXI para prevenir contagios de dengue entre migrantes que est\u00e1n varados en el municipio de Irapuato.",
+      "url": "https://www.jornada.com.mx/2023/09/25/politica/002n3pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-09-25 07:57:12",
+      "content": "Peri\u00f3dico La JornadaLunes 25 de septiembre de 2023, p. 2 Irapuato, Gto., La Secretar\u00eda de Salud de Guanajuato llev\u00f3 a cabo una nebulizaci\u00f3n en las inmediaciones del puente Siglo XXI para prevenir co\u2026 [+1376 chars]",
+      "retrievedAt": "2023-09-26 19:05:28.766818",
+      "internal_id": "5be78cc6a1de89745b7ef3817b1d4100aeec8848477f23f62c17670cb7912228",
+      "publishedAtLabel": "Sep 25"
+    },
     {
       "id": 2028,
       "query": [
@@ -3467,151 +3614,6 @@
       "content": ": I.N.D.I.A. ' ' (Sanatan Dharm controversy) ' ' ? (call to eradicate Sanatan Dharm), (Comparing Sanatan with dengue, HIV) ? ' ' ? I.N.D.I.A. , ? (Hindi Diwas news) ' ' I.N.D.I.A. ' ' ' ' 14 1949 14 \u2026 [+235 chars]",
       "retrievedAt": "2023-09-15 19:05:29.031618",
       "internal_id": "3563b6704c49260c5e8a2e9b9ead76a38504abe399178f8f86d60c86f805c8bd",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 1841,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Ocean Biomedical, Inc.",
-      "title": "Ocean Biomedical (NASDAQ: OCEA) Will Host an R&D Update Today on Malaria, and Fibrosis Programs with Scientific Co-founders Jack A. Elias, MD, and Jonathan Kurtis, MD PhD.",
-      "description": "Presentation will be hosted live on Ocean Biomedical\u2019s Youtube Channel at 2:00pm ET Providence, RI, Sept. 14, 2023 (GLOBE NEWSWIRE) -- Ocean...",
-      "url": "https://www.globenewswire.com/news-release/2023/09/14/2743215/0/en/Ocean-Biomedical-NASDAQ-OCEA-Will-Host-an-R-D-Update-Today-on-Malaria-and-Fibrosis-Programs-with-Scientific-Co-founders-Jack-A-Elias-MD-and-Jonathan-Kurtis-MD-PhD.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
-      "publishedAt": "2023-09-14 12:01:00",
-      "content": "Presentation will be hosted live on Ocean Biomedicals Youtube Channel at 2:00pm ET Providence, RI, Sept. 14, 2023 (GLOBE NEWSWIRE) -- Ocean Biomedical, Inc. (NASDAQ: OCEA), a next-generation biophar\u2026 [+6819 chars]",
-      "retrievedAt": "2023-09-15 19:05:30.047442",
-      "internal_id": "e28532d6fadc1e5147502d86fbacf8be791fad234db24fb8e4f2058b3cd15611",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 1839,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Vox",
-      "author": "Dylan Matthews",
-      "title": "Lead poisoning could be killing more people than HIV, malaria, and car accidents combined",
-      "description": "However bad you think lead poisoning is for the world, it\u2019s worse.",
-      "url": "https://www.vox.com/future-perfect/2023/9/14/23868347/lead-poisoning-death-toll-world-bank-pure-earth",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xoFj4K4o94mKRBjAHaN3cuPCkSw=/0x481:6720x3999/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24919015/1193579475.jpg",
-      "publishedAt": "2023-09-14 11:30:00",
-      "content": "Everyone knows lead is bad for you. Weve known this for a very long time: in the first century BCE, the Roman architect Vitruvius warned against using lead in pipes, observing the pallid color of plu\u2026 [+6537 chars]",
-      "retrievedAt": "2023-09-15 19:05:30.037693",
-      "internal_id": "dcb866d3cf802a8d10c9632c1a8b6214ecb12add627f9bde2546287683f85470",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 1833,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Iasbaba.com",
-      "author": "IASbaba",
-      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 14th September 2023",
-      "description": "Archives (PRELIMS & MAINS Focus) Practice MCQs ANSWERS FOR 13th September \u2013 Daily Practice MCQs The post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 14th September 2023 appeared first on IASbaba.",
-      "url": "https://iasbaba.com/2023/09/daily-current-affairs-ias-upsc-prelims-and-mains-exam-14th-september-2023/",
-      "urlToImage": "https://iasbaba.com/wp-content/uploads/2023/09/nipah.jpg",
-      "publishedAt": "2023-09-14 10:59:17",
-      "content": "Q1) Consider the following pairs: DiseasePathogen1.Common coldRhino Virus2.MeaslesRubeola virus3.Small\u2026 [+1687 chars]",
-      "retrievedAt": "2023-09-15 19:05:28.637689",
-      "internal_id": "16c3e5624aabea21ff51d695b331910f2996d12b91ce997a6200a2d14f9b23ef",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 1837,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Business Today",
-      "author": "Business Today Desk",
-      "title": "'INDIA wants to destroy Sanatan Dharma': PM Modi slams Opposition over comments by Udhayanidhi Stalin",
-      "description": "Earlier this month, Udhayanidhi, the son of Tamil Nadu Chief Minister MK Stalin, sparked a controversy after he compared 'Sanatan Dharma' with dengue and malaria, and said that it should be eradicated. He alleged that &quot;Sanatan Dharma is a principle that \u2026",
-      "url": "https://www.businesstoday.in/latest/story/india-wants-to-destroy-sanatan-dharma-pm-modi-slams-opposition-over-comments-by-udhayanidhi-stalin-398442-2023-09-14",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202309/modi-bina-sixteen_nine.jpg",
-      "publishedAt": "2023-09-14 10:36:08",
-      "content": "Prime Minister Narendra Modi on Thursday attacked the Opposition's INDIA alliance, saying it is making efforts to divide the society and the country. \"This INDI-alliance doesn't have a leader. There \u2026 [+2775 chars]",
-      "retrievedAt": "2023-09-15 19:05:29.039375",
-      "internal_id": "4b1be5c2a492385b1b18728d8097af56aafe163b4cd5d630d71c4f88ffc45450",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 1834,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Special Mosquitoes are Being Bred to Fight Dengue",
-      "description": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to control the disease \u2014 and it goes against everything they've learn\u2026",
-      "url": "https://www.voanews.com/a/special-mosquitoes-are-being-bred-to-fight-dengue/7267919.html",
-      "urlToImage": "https://gdb.voanews.com/21341308-6C7F-4FB2-A0E1-C12D88AD5FD0.jpg",
-      "publishedAt": "2023-09-14 07:34:46",
-      "content": "TEGUCIGALPA, Honduras For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more \u2026 [+9091 chars]",
-      "retrievedAt": "2023-09-15 19:05:29.022015",
-      "internal_id": "e6f92849e880ba78284978a3adb349ff82359f5e927589b3283de4f3ab6b77e1",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 1825,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u0939\u0932\u094d\u0915\u0947 \u092e\u0947\u0902 \u0928 \u0932\u0947\u0902 \u0921\u0947\u0902\u0917\u0942, \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948 \u091c\u093e\u0928\u0932\u0947\u0935\u093e, \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092a\u093f\u091b\u0932\u0947 \u0926\u094b \u0939\u092b\u094d\u0924\u094b\u0902 \u0915\u0947 \u0928\u0902\u092c\u0930\u094d\u0938 \u0915\u094d\u092f\u093e \u092c\u0924\u093e \u0930\u0939\u0947, \u0926\u0947\u0916 \u0932\u0940\u091c\u093f\u090f",
-      "description": "Delhi Dengue Cases: \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0915\u094b\u0930\u094b\u0928\u093e \u0915\u0940 \u0930\u093e\u0939\u0924 \u0915\u0947 \u092c\u093e\u0926 \u0905\u092c \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0924\u0947\u091c\u0940 \u0926\u0947\u0916\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948\u0964 \u092a\u093f\u091b\u0932\u0947 \u090f\u0915 \u0926\u094b \u0939\u092b\u094d\u0924\u094b\u0902 \u092e\u0947\u0902 \u0907\u0938\u0915\u0947 \u0915\u0947\u0938 \u0915\u0947 \u0928\u0902\u092c\u0930 \u092c\u0922\u093c\u0947 \u0939\u0948\u0902\u0964 \u0921\u0949\u0915\u094d\u091f\u0930\u094b\u0902 \u0928\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u0905\u0915\u094d\u091f\u0942\u092c\u0930 \u0924\u0915 \u0938\u0924\u0930\u094d\u0915 \u0930\u0939\u0928\u0947 \u0915\u0940 \u0938\u0932\u093e\u0939 \u0926\u0940 \u0939\u0948\u0964",
-      "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/delhi-dengue-cases-update-it-can-be-fatal-doctors-said-numbers-may-increase/articleshow/103652949.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-96924,msid-103653085/navbharat-times.jpg",
-      "publishedAt": "2023-09-14 05:35:18",
-      "content": ": , 23 , 40 121 7 , 105 . , , ' 40% 40% ' . 15 6 , 300 . 15 50 . - , ,. , 10 . 50 , - . , 10-15 - , 101-102 - , - (DENV) - , - - () - - - :- , 48 - - - , , , , - , -",
-      "retrievedAt": "2023-09-15 07:05:35.187390",
-      "internal_id": "d54fe534ef03423e27452dfb182078f766a818d738b6a529f9292c885f3f2fad",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 1830,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Robohub.org",
-      "author": "Frontiers Science News",
-      "title": "High-tech microscope with ML software for detecting malaria in returning travellers",
-      "description": "By Deborah Pirchner Malaria is an infectious disease claiming more than half a million lives each year. Because traditional diagnosis takes expertise and the workload is high, an international team of researchers investigated if diagnosis using a new system c\u2026",
-      "url": "https://robohub.org/high-tech-microscope-with-ml-software-for-detecting-malaria-in-returning-travellers/",
-      "urlToImage": "https://robohub.org/wp-content/uploads/2023/09/passport-2733068_1280-425x273.jpg",
-      "publishedAt": "2023-09-14 05:29:24",
-      "content": "By Deborah Pirchner Malaria is an infectious disease claiming more than half a million lives each year. Because traditional diagnosis takes expertise and the workload is high, an international team \u2026 [+4219 chars]",
-      "retrievedAt": "2023-09-15 07:05:35.877091",
-      "internal_id": "9faae5bbd128a0f7aadf8dd6cd753e302d9c887ad67a5174a4432e4a44d0180a",
-      "publishedAtLabel": "Sep 14"
-    },
-    {
-      "id": 1826,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0938\u0947 \u092a\u0939\u0932\u0940 \u092e\u094c\u0924, 1300 \u0915\u0947 \u092a\u093e\u0930 \u092a\u0939\u0941\u0902\u091a\u0947 \u092e\u093e\u092e\u0932\u0947 \u0924\u094b \u092e\u091a\u093e \u0939\u0921\u093c\u0915\u0902\u092a, \u0938\u0930\u0915\u093e\u0930 \u0928\u0947 \u0915\u0940 \u0939\u093e\u0908 \u092a\u094d\u0930\u094b\u092b\u093e\u0907\u0932 \u092c\u0948\u0920\u0915",
-      "description": "Bihar Dengue Case: \u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u092e\u093e\u0928\u0938\u0942\u0928\u0940 \u092c\u093e\u0930\u093f\u0936 \u0915\u0947 \u092c\u0940\u091a \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0924\u0947\u091c\u0940 \u0938\u0947 \u0907\u091c\u093e\u092b\u093e \u0926\u0947\u0916\u0928\u0947 \u0915\u094b \u092e\u093f\u0932 \u0930\u0939\u093e\u0964 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u0940 \u092c\u0922\u093c\u0924\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u0915\u094b \u0926\u0947\u0916\u0924\u0947 \u0939\u0941\u090f \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0935\u093f\u092d\u093e\u0917 \u0905\u0932\u0930\u094d\u091f \u092e\u094b\u0921 \u092a\u0930 \u0939\u0948\u0964 \u0907\u0938\u0938\u0947 \u0928\u093f\u092a\u091f\u0928\u0947 \u0915\u094b \u0932\u0947\u0915\u0930 \u0938\u0930\u0915\u093e\u0930 \u0915\u0940 \u0913\u0930 \u0938\u0947 \u0939\u093e\u0908 \u092a\u094d\u0930\u094b\u092b\u093e\u0907\u0932 \u092e\u0940\u091f\u093f\u0902\u0917 \u092d\u0940 \u0939\u0941\u0908, \u091c\u093f\u0938\u092e\u0947\u0902 \u091c\u093f\u0932\u093e \u092a\u094d\u0930\u0936\u093e\u0938\u0928 \u0915\u094b \u0915\u0908\u2026",
-      "url": "https://navbharattimes.indiatimes.com/state/bihar/patna/bihar-dengue-cases-above-1300-health-department-alert-mode-1st-death-reports-state/articleshow/103652352.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-55250,msid-103637972/navbharat-times.jpg",
-      "publishedAt": "2023-09-14 05:17:44",
-      "content": ": 1300 200 1332 , 40 , , () - , 200 67 28, 12, 9 8 1332 1057 '' , 1100 , - 242 127 () 35 () 21 , 18 , -- , , Navbharat Times News App: - , , , , -... NBT ? , Adv: , , 65% \u2026 [+234 chars]",
-      "retrievedAt": "2023-09-15 07:05:35.190000",
-      "internal_id": "8bbc358220148d8bd6387b7211fbd7a414411f7a5a4f18f156d7b8117d11b81a",
       "publishedAtLabel": "Sep 14"
     }
   ]
