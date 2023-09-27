@@ -1,8 +1,224 @@
 {
-  "last_updated": "2023-09-27 07:05",
+  "last_updated": "2023-09-27 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 2048,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Checkyourfact.com",
+      "author": "Anna Mock",
+      "title": "FACT CHECK: Is Sudden Infant Death Syndrome Linked To The DTaP Vaccine?",
+      "description": "A post claims Sudden Infant Death Syndrome (SIDS) is linked to the vaccine for Diphtheria and Tetanus Toxoids and Acellular Pertussis (DTaP).",
+      "url": "https://checkyourfact.com/2023/09/26/fact-check-sudden-infant-death-syndrome-dtap-vaccine/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/09/2023-09-12T172330Z_1031750240_RC22JT9X7H4T_RTRMADP_3_HEALTH-CORONAVIRUS-CANADA-scaled-e1695660258497.jpg",
+      "publishedAt": "2023-09-26 15:03:34",
+      "content": "A post shared on Instagram claims Sudden Infant Death Syndrome (SIDS) is linked to the vaccine for Diphtheria and Tetanus Toxoids and Acellular Pertussis (DTaP). Verdict: False The claim is unfoun\u2026 [+2538 chars]",
+      "retrievedAt": "2023-09-27 19:05:26.876420",
+      "internal_id": "e937614fd49eb00b286d44ca6dc95416a3f6f09c523b06b7ceff108d8402af3f",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2049,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "PRNewswire",
+      "title": "YS Biopharma Announces First Subject Enrollment in Pivotal Phase 3 Clinical Trial of PIKA Rabies Vaccine",
+      "description": "(marketscreener.com) GAITHERSBURG, Md., Sept. 26, 2023 /PRNewswire/ -- YS Biopharma Co., Ltd. , a global biopharmaceutical company dedicated to discovering, developing, manufacturing, and delivering new generations of vaccines and therapeutic biologics for \u2026",
+      "url": "https://www.marketscreener.com/quote/stock/YS-BIOPHARMA-CO-LTD-152273024/news/YS-Biopharma-Announces-First-Subject-Enrollment-in-Pivotal-Phase-3-Clinical-Trial-of-PIKA-Rabies-Vac-44922506/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-09-26 12:31:09",
+      "content": "GAITHERSBURG, Md., Sept. 26, 2023 /PRNewswire/ -- YS Biopharma Co., Ltd. (NASDAQ: YS) (\"YS Biopharma\" or the \"Company\"), a global biopharmaceutical company dedicated to discovering, developing, manuf\u2026 [+9377 chars]",
+      "retrievedAt": "2023-09-27 19:05:27.050163",
+      "internal_id": "fb1f5fb5945969fa19eb5e86a1522cc9e80fb4918c90c0b7e6590988251aada5",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2055,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u0926\u0940\u0926\u0940 \u0915\u0940 \u0926\u0947\u0928 \u0939\u0948...\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0938\u0902\u0915\u091f, \u0938\u094d\u092a\u0947\u0928 \u0915\u0940 \u092f\u093e\u0924\u094d\u0930\u093e \u092a\u0930 \u0917\u0908 \u0938\u0940\u090f\u092e \u092e\u092e\u0924\u093e \u092c\u0928\u0930\u094d\u091c\u0940 \u092a\u0930 \u0905\u0927\u0940\u0930 \u0930\u0902\u091c\u0928 \u091a\u094c\u0927\u0930\u0940 \u0915\u093e \u0938\u0940\u0927\u093e \u0905\u091f\u0948\u0915",
+      "description": "West Bengal Dengue Crisis: \u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0938\u0902\u0915\u091f \u0915\u0947 \u092c\u0940\u091a \u0938\u094d\u092a\u0947\u0928 \u0915\u0940 \u092f\u093e\u0924\u094d\u0930\u093e \u092a\u0930 \u0917\u0908 \u0930\u093e\u091c\u094d\u092f \u0915\u0940 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u092e\u0924\u093e \u092c\u0928\u0930\u094d\u091c\u0940 \u092a\u0930 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u0928\u0947\u0924\u093e \u0905\u0927\u0940\u0930 \u0930\u0902\u091c\u0928 \u091a\u094c\u0927\u0930\u0940 \u0928\u0947 \u0915\u095c\u093e \u0939\u092e\u0932\u093e \u092c\u094b\u0932\u093e \u0939\u0948\u0964 \u091a\u094c\u0927\u0930\u0940 \u0928\u0947 \u0930\u093e\u091c\u094d\u092f \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0915\u0947 \u0932\u093f\u090f \u0938\u0940\u090f\u092e \u0915\u094b \u091c\u093f\u092e\u094d\u092e\u0947\u0926\u093e\u0930 \u0920\u0939\u0930\u093e\u092f\u093e \u0939\u0948\u0964 \u091a\u094c\u0927\u0930\u0940 \u0928\u0947 \u0915\u0939\u093e \u0907\u0938\u0915\u0940\u2026",
+      "url": "https://navbharattimes.indiatimes.com/state/west-bengal/kolkata/west-bengal-dengue-crisis-congress-leader-adhir-ranjan-chowdhury-takes-a-swipe-at-mamata-banerjee-spain-trip/articleshow/103962509.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-23722,msid-103963084/navbharat-times.jpg",
+      "publishedAt": "2023-09-26 11:51:52",
+      "content": ": , ' ', - 38 30 ( ) - () 22 , Navbharat Times News App: - , , , , -... NBT : MNC , NBT World Heart Day? , , , ' ' ' ' Adv: , , 65% ... \u2026 [+190 chars]",
+      "retrievedAt": "2023-09-27 19:05:27.896223",
+      "internal_id": "9ddb89f97a33ca0f0e90467135d057d7a4a730b0192a515968e42fcf7528cec5",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2057,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Associated Press",
+      "title": "Cholera, dengue outbreaks reported in Sudan as conflict between armed forces continue, UN says",
+      "description": "As Sudan\u2019s military and rival paramilitary force continue its deadly fighting, outbreaks of cholera and dengue fever have been reported in the impoverished nation.",
+      "url": "https://www.foxnews.com/world/cholera-dengue-outbreaks-reported-sudan-conflict-between-armed-forces-continue-un-says",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/sudan-3.jpg",
+      "publishedAt": "2023-09-26 11:03:32",
+      "content": "Outbreaks of cholera and dengue fever have been reported in eastern Sudan, where thousands of people are sheltering as deadly fighting grinds on between the country's military and a rival paramilitar\u2026 [+2924 chars]",
+      "retrievedAt": "2023-09-27 19:05:27.909421",
+      "internal_id": "5133bc5664ca01a59bdcaef28c23f5f9628433d42806ac6a5ef7bf0587808b7c",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2059,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Business Wire",
+      "title": "AN2 Therapeutics Signs Grant Agreement to Discover Novel, Boron Based Therapies for Tuberculosis and Malaria",
+      "description": "(marketscreener.com) Grant from Bill & Melinda Gates Foundation https://www.marketscreener.com/quote/stock/AN2-THERAPEUTICS-INC-135486295/news/AN2-Therapeutics-Signs-Grant-Agreement-to-Discover-Novel-Boron-Based-Therapies-for-Tuberculosis-and-44921668/?utm_\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/AN2-THERAPEUTICS-INC-135486295/news/AN2-Therapeutics-Signs-Grant-Agreement-to-Discover-Novel-Boron-Based-Therapies-for-Tuberculosis-and-44921668/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-09-26 11:02:02",
+      "content": "AN2 Therapeutics, Inc. (Nasdaq: ANTX), a clinical-stage biopharmaceutical company focused on developing treatments for rare, chronic, and serious infectious diseases with high unmet needs, today anno\u2026 [+4504 chars]",
+      "retrievedAt": "2023-09-27 19:05:28.634939",
+      "internal_id": "50dbdb0b0c1b9689ee5356a285b89cfe45b930a6f73d06bedcb8dba0e25ab417",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2050,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Hindustan Times",
+      "author": "Parmita Uniyal",
+      "title": "World Rabies Day: Can rabies be cured? Symptoms and stages of the infection",
+      "description": "Rabies is a deadly viral infection that affects humans and animals, transmitted primarily through the saliva of infected animals. | Health",
+      "url": "https://www.hindustantimes.com/lifestyle/health/world-rabies-day-can-rabies-be-cured-symptoms-and-stages-of-the-infection-in-humans-101695723253518.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/26/1600x900/rabies_1695723334298_1695723351038.jpg",
+      "publishedAt": "2023-09-26 10:22:31",
+      "content": "World Rabies Day is observed every year on September 28 in order to bring awareness about the worlds deadliest infectious disease. Rabies is a deadly viral infection that is spread by the bite of an \u2026 [+2494 chars]",
+      "retrievedAt": "2023-09-27 19:05:27.056383",
+      "internal_id": "8bb1b74a7809f2929b15041023eaad91c4014c6e75cfe436ef5c683cdb72f9bd",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2058,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.hs.fi",
+      "author": "Elina Saarilahti HS",
+      "title": "Sudan | YK: \u201dKatastrofi koputtaa Sudanin ovella\u201d \u2013 Denguekuume tappanut jo satoja",
+      "description": "Sota ja pakolaisuus k\u00e4rjist\u00e4v\u00e4t terveydenhuollon kriisi\u00e4 Sudanissa.",
+      "url": "https://www.hs.fi/ulkomaat/art-2000009880393.html",
+      "urlToImage": "https://hs.mediadelivery.fi/img/some/default/fa0862263169f93eb8c310280979b436.jpg",
+      "publishedAt": "2023-09-26 09:59:00",
+      "content": "Sota ja pakolaisuus k\u00e4rjist\u00e4v\u00e4t terveydenhuollon kriisi\u00e4 Sudanissa.Denguekuume-epidemiat ja ripuli ovat tappaneet jo satoja sodan runtelemassa Sudanissa, Sudanin l\u00e4\u00e4k\u00e4rien liitto kertoi maanantaina u\u2026 [+2470 chars]",
+      "retrievedAt": "2023-09-27 19:05:27.924783",
+      "internal_id": "33fec0aa9e67273138012e9c9b9d5b8d8524f46f0d22a3a34b0b98c68e6b848a",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2054,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "SAMY MAGDY Associated Press",
+      "title": "UN says cholera and dengue outbreaks have been reported in eastern Sudan as conflict grinds on",
+      "description": "The U.N. health agency says cholera and dengue outbreaks have been reported in eastern Sudan, where thousands of people are sheltering as deadly fighting grinds on between the country\u2019s military and a rival paramilitary force",
+      "url": "https://abcnews.go.com/Health/wireStory/cholera-dengue-outbreaks-reported-eastern-sudan-conflict-grinds-103486123",
+      "urlToImage": "https://i.abcnewsfe.com/a/a67f2e1f-51a4-403f-8929-dc1534b8f291/wirestory_9ddbd342ff00e4a4f170b93b5142ef62_16x9.jpg?w=992",
+      "publishedAt": "2023-09-26 09:34:23",
+      "content": "CAIRO -- Outbreaks of cholera and dengue fever have been reported in eastern Sudan, where thousands of people are sheltering as deadly fighting grinds on between the country's military and a rival pa\u2026 [+2704 chars]",
+      "retrievedAt": "2023-09-27 19:05:27.888062",
+      "internal_id": "00a1b7cfd8b1ab314c6c70f644375361ddd3aeae22156f7a580abc2f436f1989",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2051,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "SAMY MAGDY",
+      "title": "UN says cholera and dengue outbreaks have been reported in eastern Sudan as conflict grinds on",
+      "description": "Outbreaks of cholera and dengue fever have been reported in eastern Sudan, where thousands of people are sheltering as deadly fighting grinds on between the country\u2019s military and a rival paramilitary force, the UN health agency said on Tuesday.",
+      "url": "https://www.bostonglobe.com/2023/09/26/world/un-says-cholera-dengue-outbreaks-have-been-reported-eastern-sudan-conflict-grinds/",
+      "urlToImage": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=431",
+      "publishedAt": "2023-09-26 09:33:39",
+      "content": "CAIRO Outbreaks of cholera and dengue fever have been reported in eastern Sudan, where thousands of people are sheltering as deadly fighting grinds on between the countrys military and a rival parami\u2026 [+2689 chars]",
+      "retrievedAt": "2023-09-27 19:05:27.875393",
+      "internal_id": "b5dd57f7e69fe68da789ff8f06ca982de1e455f5b540ee5fdc8f996e4683f0f7",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2053,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Au Soudan, des \u00ab centaines de morts \u00bb de la dengue",
+      "description": "Apr\u00e8s l\u2019apparition de cas de rougeole, de paludisme et chol\u00e9ra, des m\u00e9decins sonnent l\u2019alarme sur la propagation de la maladie qui provoque fi\u00e8vres et h\u00e9morragies fatales.",
+      "url": "https://www.lemonde.fr/afrique/article/2023/09/26/au-soudan-des-centaines-de-morts-de-la-dengue_6191036_3212.html",
+      "urlToImage": "https://img.lemde.fr/2023/09/26/0/0/1023/682/1440/960/60/0/5b25dc7_1695719139799-000-33v4322.jpg",
+      "publishedAt": "2023-09-26 09:17:11",
+      "content": "La dengue et les diarrh\u00e9es aigu\u00ebs connaissent une augmentation alarmante au Soudan o\u00f9 la guerre a entra\u00een\u00e9 la fermeture de 100 h\u00f4pitaux, alertent des m\u00e9decins, lundi 25 septembre, appelant \u00e0 endiguer\u2026 [+4837 chars]",
+      "retrievedAt": "2023-09-27 19:05:27.885933",
+      "internal_id": "9da88e0b6a298f3731fe9736d8ee3396f8eb79c799b5221ceb48d1edbac9c935",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2056,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Dengue cases increased by more than 200% in Johor",
+      "description": "JOHOR BARU: Johor recorded an increase in cumulative dengue cases in epidemiology week 38 (ME38), with 7,543 cases against 2,272 cases in the corresponding period in 2022. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/09/26/dengue-cases-increased-by-more-than-200-in-johor",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/26/2304680.jpg",
+      "publishedAt": "2023-09-26 08:59:00",
+      "content": "JOHOR BARU: Johor recorded an increase in cumulative dengue cases in epidemiology week 38 (ME38), with 7,543 cases against 2,272 cases in the corresponding period in 2022. The state health and unity\u2026 [+1900 chars]",
+      "retrievedAt": "2023-09-27 19:05:27.901001",
+      "internal_id": "24e26706065f92706187a5ea509e70b64ae2e97bb7620218af3f6d00ee55b15b",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2052,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Dengue Outbreak In Jamaica: Know Symptoms, Steps To Prevent The Mosquito-Borne Illness",
+      "description": "Jamaica has reported 565 cases of dengue. Although there are no confirmed dengue-related deaths in the country so far, six deaths are being investigated, health officials said.",
+      "url": "https://www.medicaldaily.com/dengue-outbreak-jamaica-know-symptoms-steps-prevent-mosquito-borne-illness-470875",
+      "urlToImage": "https://d.medicaldaily.com/en/full/470202/mosquito.jpg",
+      "publishedAt": "2023-09-26 07:52:37",
+      "content": "A dengue outbreak has been declared in Jamaica after 565 \"suspected, presumed and confirmed\" cases were reported in the country. The Caribbean nation witnessed an increasing number of cases in the l\u2026 [+2314 chars]",
+      "retrievedAt": "2023-09-27 19:05:27.882485",
+      "internal_id": "c25038ee92b4ecd70ef61c1a033a2dc4c1ab69e8dc5977c9e9b1927502f714a1",
+      "publishedAtLabel": "Sep 26"
+    },
     {
       "id": 2047,
       "query": [
@@ -3398,222 +3614,6 @@
       "content": "Children whose measles vaccinations are not up to date may have to isolate for 21 days if they are exposed to the disease, parents have been warned. Councils in London have written to households to \u2026 [+2009 chars]",
       "retrievedAt": "2023-09-16 19:05:13.835279",
       "internal_id": "2ea758cafeaf8a3faa52715b08008608230f90fc937c8a27060d8c398c940857",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1857,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "The Associated Press",
-      "title": "Bangladesh is struggling to cope with a record dengue outbreak in which 778 people have died",
-      "description": "Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease",
-      "url": "https://abcnews.go.com/International/wireStory/bangladesh-struggling-cope-record-dengue-outbreak-778-people-103213722",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "publishedAt": "2023-09-15 10:21:44",
-      "content": "DHAKA, Bangladesh -- Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease\u2026 [+1787 chars]",
-      "retrievedAt": "2023-09-16 19:05:14.406407",
-      "internal_id": "9968cd856912d6555e0381f036555ef02b4f4c58da29622d9236560ca912e789",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1858,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "The Associated Press",
-      "title": "Bangladesh is struggling to cope with a record dengue outbreak in which 778 people have died",
-      "description": "Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease",
-      "url": "https://abcnews.go.com/Health/wireStory/bangladesh-struggling-cope-record-dengue-outbreak-778-people-103213723",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "publishedAt": "2023-09-15 10:16:31",
-      "content": "DHAKA, Bangladesh -- Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease\u2026 [+1787 chars]",
-      "retrievedAt": "2023-09-16 19:05:14.412250",
-      "internal_id": "f9a99503db4346d8990d981a49a855030294f1711f6c82b6b2015c909ac4498a",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1871,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Red Cross initiates a campaign to check dengue infection",
-      "description": "SANKHUWASABHA: The district Red Cross Society has stepped up its three-month-long campaign to check the outbreak of dengue infection in Sankhuwasabha. The Red Cross has initiated the campaign with the dengue infection widely spreading in the district. As info\u2026",
-      "url": "https://english.khabarhub.com/2023/15/318441/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-09-15 10:15:52",
-      "content": "SANKHUWASABHA: The district Red Cross Society has stepped up its three-month-long campaign to check the outbreak of dengue infection in Sankhuwasabha. The Red Cross has initiated the campaign with t\u2026 [+1032 chars]",
-      "retrievedAt": "2023-09-17 07:05:33.806832",
-      "internal_id": "79431b7ae033f857b02fa031d0d639c31e72e79e44fb36db446b5075967b0e6a",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1865,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Bacolod: 26 leptospirosis deaths in province",
-      "description": "Bacolod City \u2013 Negros Occidental, including highly urbanized Bacolod City, has logged 178 leptospirosis cases from January 1 to September 2 this year, including 26 deaths. Of the fatalities, 12 are recorded in Bacolod City, while 14 in the province, records o\u2026",
-      "url": "https://rpnradio.com/bacolod-26-leptospirosis-deaths-in-province/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/09/bacolod-leptospirosis.jpg",
-      "publishedAt": "2023-09-15 08:15:45",
-      "content": "Bacolod City \u2013 Negros Occidental, including highly urbanized Bacolod City, has logged 178 leptospirosis cases from January 1 to September 2 this year, including 26 deaths. Of the fatalities, 12 are \u2026 [+1596 chars]",
-      "retrievedAt": "2023-09-16 19:05:16.677279",
-      "internal_id": "5c7915e63dbc99c840521cc519199be8f6dbc7885c2b75424ec8672d5b76ebd7",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1864,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "ABC News",
-      "title": "China to manage mpox as disease on par with COVID-19",
-      "description": "China plans to manage mpox, formerly know as monkeypox, in the same way it handles infectious diseases such as COVID-19 after detecting around 500 cases of the viral infection in August.",
-      "url": "https://www.abc.net.au/news/2023-09-15/china-to-treat-mpox-cases-on-par-with-covid/102863404",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/287111080734cd9d5571ed9ab6c77486?impolicy=wcms_crop_resize&cropH=1802&cropW=3203&xPos=0&yPos=167&width=862&height=485",
-      "publishedAt": "2023-09-15 07:54:34",
-      "content": "China plans to manage mpox formerly know as monkeypox in the same way it handles infectious diseases such as COVID-19 after detecting around 500 cases of the viral infection in August. China\u2026 [+1814 chars]",
-      "retrievedAt": "2023-09-16 19:05:16.065674",
-      "internal_id": "682485dbff52b7eacd00e45e08d1779a75145bd457002dd8403fcef68222f37e",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1861,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "GERARD GIMINO",
-      "title": "Dengue cases rose almost 19% in early September, says Health Ministry",
-      "description": "PETALING JAYA: Dengue cases have risen by almost 19% in early September compared to late August, says the Health Ministry. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/09/15/dengue-cases-rose-almost-19-in-early-september-says-health-ministry",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/15/2286043.jpg",
-      "publishedAt": "2023-09-15 07:20:00",
-      "content": "PETALING JAYA: Dengue cases have risen by almost 19% in early September compared to late August, says the Health Ministry. Health director-general Datuk Dr Muhammad Radzi Abu Hassan said 2,284 dengu\u2026 [+1893 chars]",
-      "retrievedAt": "2023-09-16 19:05:14.425433",
-      "internal_id": "f32fcbdcb06450d9648dad42199792d581833e3cff34b96f4f1a46a8e3ba90db",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1849,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Gavi to Prioritise Nigeria in Malaria Vaccine Rollout - Minister",
-      "description": "[Premium Times] Nigeria, Africa's most populous nation, also accounts for a high percentage of malaria burden globally",
-      "url": "https://allafrica.com/stories/202309150089.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-15 06:43:33",
-      "content": "Nigeria, Africa's most populous nation, also accounts for a high percentage of malaria burden globally The Coordinating Minister of Health and Social Welfare, Muhammad Pate, on Thursday said the Glo\u2026 [+4013 chars]",
-      "retrievedAt": "2023-09-16 07:05:26.155727",
-      "internal_id": "d07196d0ba22e11456463ac6928ddaba63893ebd6acd3467808f4cb9c24c4c25",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1851,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "nrk",
-      "source_name": "NRK",
-      "author": "NRK",
-      "title": "Kina skal h\u00e5ndtere apekopper p\u00e5 linje med covid-19",
-      "description": "I Kina ble rundt 500 mennesker smittet av Mpox (apekopper) i august. N\u00e5 skal myndighetene h\u00e5ndtere viruset p\u00e5 samme m\u00e5te som de h\u00e5ndterer covid-19, skriver Reuters. Mpox vil fra 20. september h\u00e5ndteres som en kategori B-sykdom. Det gir kinesiske myndigheter t\u2026",
-      "url": "https://www.nrk.no/nyheter/kina-skal-handtere-apekopper-pa-linje-med-covid-19-1.16558554",
-      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.494/common/img/default.jpg",
-      "publishedAt": "2023-09-15 05:17:51",
-      "content": "15. september2023kl.07:17I Kina ble rundt 500 mennesker smittet av Mpox (apekopper) i august. N\u00e5 skal myndighetene h\u00e5ndtere viruset p\u00e5 samme m\u00e5te som de h\u00e5ndterer covid-19, skriver Reuters. Mpox vil\u2026 [+744 chars]",
-      "retrievedAt": "2023-09-16 07:05:26.843271",
-      "internal_id": "40918e5d54d1367e2f47d66898aa07b6a3ab6040f477f19ff0467631cb5256f9",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1853,
-      "query": [
-        "shigellosis"
-      ],
-      "source_id": null,
-      "source_name": "Foodpoisonjournal.com",
-      "author": "Jenny Schell",
-      "title": "Marler Clark files first Shigella Lawsuit against the Westin Bonventure Hotel in Los Angeles",
-      "description": "Outbreak of Shigellosis likely associated with a Conference at Westin Bonventure Hotel Venue in Downtown Los Angeles, August 21-24, 2023. Alameda County Public Health Department, in coordination with the California Department of Public Health (CDPH), is inves\u2026",
-      "url": "https://www.foodpoisonjournal.com/food-poisoning-information/marler-clark-files-first-shigella-lawsuit-against-the-westin-bonventure-hotel-in-los-angeles/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/042/170/584/5R7NlW8nEzjqq4gBYmvbxgLyP/8092674edd44747557661a6ecb489f27ad4e85ee.png",
-      "publishedAt": "2023-09-15 05:12:23",
-      "content": "Outbreak of Shigellosis likely associated with a Conference at Westin Bonventure Hotel Venue in Downtown Los Angeles, August 21-24, 2023. Alameda County Public Health Department, in coordination wit\u2026 [+1806 chars]",
-      "retrievedAt": "2023-09-16 07:05:27.750093",
-      "internal_id": "442478d39892b09dc1febb6d61bcc1af38e2f14ad7c4884faf992f9984c38a35",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1847,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "The Associated Press",
-      "title": "AP Week in Pictures: Latin America and Caribbean",
-      "description": "Sept. 8-14, 2023 Scientists in Colombia are breeding mosquitoes to fight dengue fever, Chileans marked the 50 year anniversary of a coup that ushered in a brutal military dictatorship, forward Jenni Hermoso, who has accused now-suspended president of the Spa\u2026",
-      "url": "https://abcnews.go.com/International/wireStory/ap-week-pictures-latin-america-caribbean-103210229",
-      "urlToImage": "https://i.abcnewsfe.com/a/ba6b4571-0103-4798-a813-b2cec249b94a/wirestory_725405165f1a06f99890576bf6f431e2_16x9.jpg?w=992",
-      "publishedAt": "2023-09-15 04:16:53",
-      "content": "Sept. 8-14, 2023 Scientists in Colombia are breeding mosquitoes to fight dengue fever, Chileans marked the 50 year anniversary of a coup that ushered in a brutal military dictatorship, forward Jenni\u2026 [+574 chars]",
-      "retrievedAt": "2023-09-16 07:05:25.485934",
-      "internal_id": "5a5ea56e338daede39b64137dbfff6d2d9a9e4297970100e499599ad8a6cf6ef",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1846,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Reemergence of Cosmopolitan Genotype Dengue Virus Serotype 2, Southern Vietnam",
-      "description": "Reemergence of Cosmopolitan Genotype Dengue Virus Serotype 2, Southern Vietnam",
-      "url": "https://wwwnc.cdc.gov/eid/article/29/10/23-0529_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-09-15 04:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue virus (DENV) repres\u2026 [+7401 chars]",
-      "retrievedAt": "2023-09-16 07:05:25.475792",
-      "internal_id": "4cb9c879a1b82bceeae89d1ae56618d41bdae19f9e51d034d50c4ec1a2736ed7",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1850,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Trouw.nl",
-      "author": "Elianne Moene",
-      "title": "Het bestrijden van ziekte houdt niet op bij de grens",
-      "description": "We debatteren wel over de zorg, maar vergeten het internationale perspectief, vindt Elianne Moens, student Global Health. Tuberculose eist meer lev...",
-      "url": "https://www.trouw.nl/opinie/zijn-we-de-coronacrisis-alweer-vergeten-bestrijden-van-ziekte-houdt-niet-op-bij-de-grens~b44f9be1/",
-      "urlToImage": "https://img.trouw.nl/71ffc7acec4010b086225d63446ab1f46c9220d8/zijn-we-de-coronacrisis-alweer-vergeten-bestrijden-van-ziekte-houdt-niet-op-bij-de-grens",
-      "publishedAt": "2023-09-15 04:00:00",
-      "content": "We debatteren wel over de zorg, maar vergeten het internationale perspectief, vindt Elianne Moens, student Global Health. Tuberculose eist meer levens dan malaria, oorlog en doodslag samen. Elianne \u2026 [+4540 chars]",
-      "retrievedAt": "2023-09-16 07:05:26.164244",
-      "internal_id": "5e57ff654d89c268017fdfdfcee8d485e906a7d3328ad16ee0f4f07625645f9a",
       "publishedAtLabel": "Sep 15"
     }
   ]
