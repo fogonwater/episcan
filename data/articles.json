@@ -1,8 +1,228 @@
 {
-  "last_updated": "2023-09-27 19:05",
+  "last_updated": "2023-09-28 07:05",
   "count_articles_total": 300,
   "count_articles_new": 12,
   "articles": [
+    {
+      "id": 2070,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue claims 17 lives and infects over 30,000 in Koshi Province",
+      "description": "BIRATNAGAR: The Koshi province has been grappling with a devastating dengue outbreak since mid-July, resulting in the tragic loss of 17 lives and infecting more than 30,000 individuals. Sunsari district, in particular, has borne the brunt of this crisis, repo\u2026",
+      "url": "https://english.khabarhub.com/2023/27/319971/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-09-27 07:00:52",
+      "content": "BIRATNAGAR: The Koshi province has been grappling with a devastating dengue outbreak since mid-July, resulting in the tragic loss of 17 lives and infecting more than 30,000 individuals. Sunsari dist\u2026 [+1372 chars]",
+      "retrievedAt": "2023-09-28 07:05:45.168514",
+      "internal_id": "a2ee4bffeb559ac055b54940521515240c19186b3569a181328a7948feb4670e",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2060,
+      "query": [
+        "rabies",
+        "malaria",
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ANDY CHUA",
+      "title": "Sarawak still threatened by zoonotic diseases like rabies, says Abang Jo",
+      "description": "SIBU: Sarawak is still faced with the threat of rabies and many other zoonotic diseases like malaria and leptospirosis, says Premier Tan Sri Abang Johari Tun Openg. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/09/27/sarawak-still-threatened-by-zoonotic-diseases-like-rabies-says-abang-jo",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/27/2306147.jpg",
+      "publishedAt": "2023-09-27 06:25:00",
+      "content": "SIBU: Sarawak is still faced with the threat of rabies and many other zoonotic diseases like malaria and leptospirosis, says Premier Tan Sri Abang Johari Tun Openg. This is despite the average life \u2026 [+1460 chars]",
+      "retrievedAt": "2023-09-28 07:05:44.219386",
+      "internal_id": "9e6de6fb674d644ff6a062337c31d67855523a7f557a7fad861ebd6a9baf2208",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2061,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "World Rabies Day: How Infection Gets Transmitted, What The Symptoms And Preventive Measures Are",
+      "description": "Rabies is nearly fatal once the symptoms appear, but it is 100% preventable through medical care.",
+      "url": "https://www.medicaldaily.com/world-rabies-day-how-infection-gets-transmitted-what-symptoms-preventive-measures-are-470883",
+      "urlToImage": "https://d.medicaldaily.com/en/full/470211/rabies.jpg",
+      "publishedAt": "2023-09-27 04:47:40",
+      "content": "World Rabies Day is observed on Sept. 28 every year to raise awareness of the deadliest viral infection in the world, which takes around 59,000 lives annually. The theme for this year's World Rabies\u2026 [+2407 chars]",
+      "retrievedAt": "2023-09-28 07:05:44.231529",
+      "internal_id": "a673fa954b8fa97cea4ac317e4a7b3385efc85ce408a52bb6516384c47146d15",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2066,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Julien Lemaignen",
+      "title": "\u00ab Je ne sais pas si je suis rassur\u00e9e mais au moins, il y a une explication \u00bb : \u00e0 Maisons-Alfort, les al\u00e9as de la lutte contre le moustique tigre",
+      "description": "V\u00e9ritable menace sanitaire en raison de sa capacit\u00e9 \u00e0 transmettre la dengue, le chikungunya et le virus Zika, l\u2019insecte fait l\u2019objet d\u2019op\u00e9rations de d\u00e9moustication pas toujours bien comprises des riverains, \u00e0 l\u2019instar d\u2019un quartier de Maisons-Alfort, lundi so\u2026",
+      "url": "https://www.lemonde.fr/planete/article/2023/09/27/je-ne-sais-pas-si-je-suis-rassuree-mais-au-moins-il-y-a-une-explication-a-maisons-alfort-les-aleas-de-la-lutte-contre-le-moustique-tigre_6191142_3244.html",
+      "urlToImage": "https://img.lemde.fr/2023/09/26/0/0/4999/3333/1440/960/60/0/fb7fa20_1695744536129-bg-25-26sept23-fr-demoustication019.JPG",
+      "publishedAt": "2023-09-27 03:00:10",
+      "content": "C\u00e9line Pernot-Burlet a beaucoup appris, lundi 25 septembre. De nombreux d\u00e9tails sur le moustique tigre, mais aussi des rudiments daction militante. Cette illustratrice de 49 ans avait \u00e9t\u00e9 ulc\u00e9r\u00e9e de \u2026 [+2531 chars]",
+      "retrievedAt": "2023-09-28 07:05:45.118384",
+      "internal_id": "39efc0b1105b2f3cfa4a2b2ffdb5118f821fcfd4372454dbaa5aab563abc563a",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2063,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Florida man gets bitten by rabies-infested otter while feeding ducks: officials - Fox News",
+      "description": "Florida man gets bitten by rabies-infested otter while feeding ducks: officialsFox News Rabid otter bites man and dog in FloridaNBC News Rabid otter attacks Florida man, bites him 41 timesWESH 2 Orlando Elderly Florida man savagely attacked, bitten by rabid o\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171903633",
+      "urlToImage": null,
+      "publishedAt": "2023-09-27 02:52:12",
+      "content": "The first time, it's a KLUDGE! The second, a trick. Later, it's a well-established technique! -- Mike Broido, Intermetrics",
+      "retrievedAt": "2023-09-28 07:05:44.241428",
+      "internal_id": "06ab2ac4c2111bc9369686319ef767d6c31a65bb334e978419915504185c58fb",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2065,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Siddharth Singhal",
+      "title": "Does your health insurance adequately cover you against diseases like Dengue and Nipah?",
+      "description": "With the escalating costs of medical treatment, purchasing a comprehensive healthcare policy with a sum insured of at least Rs 25 lakh or above is non-negotiable.",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/does-your-health-insurance-adequately-cover-you-against-diseases-like-dengue-and-nipah-11434651.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/07/Causes-symptoms-and-treatment-for-dengue-770x433.jpg",
+      "publishedAt": "2023-09-27 02:24:48",
+      "content": "While the fear of a prolonged Covid-19 outbreak is behind us now, several other infectious diseases continue to loom over. The rise in diseases like Dengue and the outbreak of the Nipah virus once a\u2026 [+4305 chars]",
+      "retrievedAt": "2023-09-28 07:05:45.105800",
+      "internal_id": "1046ec8637b03a3b1e793c7a5f60ecce78b8b5139bab5e354ee15ad187e173e2",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2071,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Breaking Belize News",
+      "author": "Bbnteam",
+      "title": "Belize officially declared Malaria-Free by the World Health Organization!",
+      "description": "Belize officially declared Malaria-Free by the World Health Organization!breakingbelizenews.com",
+      "url": "https://www.breakingbelizenews.com/2023/09/26/belize-officially-declared-malaria-free-by-the-world-health-organization/",
+      "urlToImage": "https://www.breakingbelizenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-26-at-14-03-03-Facebook.jpg",
+      "publishedAt": "2023-09-27 00:55:08",
+      "content": "Posted: Tuesday, September 26, 2023. 3:35 pm CST. By Zoila Palma Gonzalez: Today, Belize was officially declared Malaria-Free by the World Health Organization. The Ministry of Health and Wellness (\u2026 [+1506 chars]",
+      "retrievedAt": "2023-09-28 07:05:45.971944",
+      "internal_id": "dd6900f6825b8748d969bf8ffe06b93b77d58cb91e02f000258e85f208aa662a",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2062,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Andrea Vacchiano",
+      "title": "Florida man gets bitten by rabies-infested otter while feeding ducks: officials",
+      "description": "A 74-year-old man in Florida was attacked and wounded by a rabies-infested otter last week, officials say. A dog was also bitten by the rabid otter.",
+      "url": "https://www.foxnews.com/us/florida-man-gets-bitten-rabies-infested-otter-feeding-ducks-officials",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Otter-2.jpg",
+      "publishedAt": "2023-09-27 00:13:51",
+      "content": "A 74-year-old man in Florida was recently scratched and bitten by an otter that later tested positive for rabies, officials say. The Florida Department of Health confirmed that the 3-year-old male o\u2026 [+1501 chars]",
+      "retrievedAt": "2023-09-28 07:05:44.237893",
+      "internal_id": "b941d54e968a0b01a40a612b9fce6a67cd0e4e1ed57fd5987cc378aed41e0580",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2068,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Michelle Chin",
+      "title": "Weekly dengue cases in Singapore exceed 300 over past 2 weeks",
+      "description": "The latest cases bring the total number of dengue cases in 2023 to more than 7,000. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/weekly-dengue-cases-in-singapore-exceed-300-over-past-2-weeks",
+      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/27/IMGdengue11N547DJO.jpg",
+      "publishedAt": "2023-09-27 00:04:34",
+      "content": "SINGAPORE Reported dengue cases here have surpassed 300 weekly for the first time in 2023 over the past two weeks. There were 330 reported cases between Sept 10 and Sept 16, and 303 reported cases \u2026 [+1502 chars]",
+      "retrievedAt": "2023-09-28 07:05:45.150405",
+      "internal_id": "5ab27aadac2394613dfa57bb9d45c4ee7fa7955ebc80b2763e591d0a8f9f6109",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2067,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Sumitra Debroy",
+      "title": "Mumbai dengue cases up 3 times in June-Sept than all of last yr",
+      "description": "A 27-year-old man in Mumbai fell into a coma due to acute liver failure caused by dengue encephalopathy, making it one of the most severe cases of dengue this year. There has been a significant increase in dengue cases this monsoon season, with the city repor\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/city-dengue-cases-up-3x-in-june-sept-than-all-of-last-yr/articleshow/103973218.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-103973219,width-1070,height-580,imgsize-713569,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-09-26 23:04:59",
+      "content": "How much vitamin D you need as per your age",
+      "retrievedAt": "2023-09-28 07:05:45.133527",
+      "internal_id": "238858863143f24597c1f62df18dd2b20935d05ba34bd39fef173a550d39d7e4",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2064,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "David Wu",
+      "title": "Victorian health authorities report new measles case in overseas traveller as Woolworths exposure site named",
+      "description": "Victorian residents have been told to remain vigilant for any symptoms related to measles, after a case was detected in an overseas traveller returning home.",
+      "url": "https://www.skynews.com.au/lifestyle/health/victorian-health-authorities-report-new-measles-case-in-overseas-traveller-as-woolworths-exposure-site-named/news-story/deccda2a50d4c1883b8304ccffe61419",
+      "urlToImage": "https://content.api.news/v3/images/bin/37a9cffe00a45de19e057627b025cae8",
+      "publishedAt": "2023-09-26 22:04:17",
+      "content": "Victorian residents have been told to remain vigilant for any symptoms related to measles, after a case was detected in an overseas traveller returning home. The state's Department of Health announc\u2026 [+1940 chars]",
+      "retrievedAt": "2023-09-28 07:05:44.515359",
+      "internal_id": "37780074272014d61fc7b146585b308f0065eb08ae3a64f3b545c095714c9910",
+      "publishedAtLabel": "Sep 26"
+    },
+    {
+      "id": 2069,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Antonio Vazquez, Chercheur, Universit\u00e9 de Perpignan, Annia Alba Men\u00e9ndez, Chercheur contractuel en Parasitologie fonctionnel et \u00e9volutive et en Biologie des syst\u00e8mes",
+      "title": "Pourquoi la grande douve du foie est une menace latente, m\u00eame en France",
+      "description": "La douve du foie est un ver parasite qui infecte les animaux d\u2019\u00e9levage et l\u2019\u00eatre humain, via la consommation de v\u00e9g\u00e9taux crus. Sa r\u00e9\u00e9mergence appelle \u00e0 la vigilance, notamment dans le sud de l\u2019Europe.",
+      "url": "https://theconversation.com/pourquoi-la-grande-douve-du-foie-est-une-menace-latente-meme-en-france-213800",
+      "urlToImage": "https://images.theconversation.com/files/549751/original/file-20230922-17-8sdegr.jpg?ixlib=rb-1.1.0&rect=26%2C94%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2023-09-26 19:08:02",
+      "content": "Certains vecteurs de maladies infectieuses font l\u2019actualit\u00e9. C\u2019est le cas du moustique tigre dont la piq\u00fbre peut provoquer la dengue ou de la tique, qui peut transmettre la maladie de Lyme. Mais une\u2026 [+9364 chars]",
+      "retrievedAt": "2023-09-28 07:05:45.154248",
+      "internal_id": "e4669c56716dcd0750476df423489f5abfd02a4d2181968e50fe9fb6972a5b93",
+      "publishedAtLabel": "Sep 26"
+    },
     {
       "id": 2048,
       "query": [
@@ -3397,224 +3617,6 @@
       "retrievedAt": "2023-09-17 07:05:33.773202",
       "internal_id": "33af4b31616a6b369cebd00ff181b4c0d569ffef45bf873db08e681d62b552c4",
       "publishedAtLabel": "Sep 16"
-    },
-    {
-      "id": 1866,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Student dies of rabies after dog bite, govt asks people to get pets vaccinated",
-      "description": "ITANAGAR, Sept 15: An 18-year-old college student died of rabies after being bitten by a dog in Itanagar, officials said on Friday. The incident created a flutter, following which the district administration issued an advisory, asking people to get their pets\u2026",
-      "url": "https://thehillstimes.in/northeast/student-dies-of-rabies-after-dog-bite-govt-asks-people-to-get-pets-vaccinated",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/09/Student-dies-of-rabies-after-dog-bite-govt-asks-people-to-get-pets-vaccinated.jpg",
-      "publishedAt": "2023-09-16 00:35:39",
-      "content": "ITANAGAR, Sept 15: An 18-year-old college student died of rabies afterbeing bitten by a dog in Itanagar, officials said on Friday.The incident created a flutter, following which the districtadministr\u2026 [+1114 chars]",
-      "retrievedAt": "2023-09-17 07:05:32.436659",
-      "internal_id": "341fc61fb6bd77280f72998f286bd5a7958ff1584cbe4a03a2fcd349e32816b1",
-      "publishedAtLabel": "Sep 16"
-    },
-    {
-      "id": 1874,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Capcity.news",
-      "author": "Cap City Staff",
-      "title": "Rare bacterial infections reported in Wyoming",
-      "description": "CHEYENNE, Wyo. \u2014 A rare, potentially serious bacterial infection known as leptospirosis has been recently diagnosed in several dogs and one human in",
-      "url": "https://capcity.news/community/health/2023/09/15/rare-bacterial-infections-reported-in-wyoming/",
-      "urlToImage": "https://d1r1iwjkgtakfo.cloudfront.net/wp-content/uploads/2019/10/shutterstock_43556290.jpg",
-      "publishedAt": "2023-09-16 00:20:51",
-      "content": "CHEYENNE, Wyo. A rare, potentially serious bacterial infection known as leptospirosis has been recently diagnosed in several dogs and one human in Laramie County, according to the Wyoming Department \u2026 [+2107 chars]",
-      "retrievedAt": "2023-09-17 07:05:36.882774",
-      "internal_id": "2897be8b5fcbcf6d265e93c2a3aa6495a15e6ecd636ef629b19d89f3694a1e74",
-      "publishedAtLabel": "Sep 16"
-    },
-    {
-      "id": 1869,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "GERARD GIMINO",
-      "title": "Dengue cases on the rise",
-      "description": "PETALING JAYA: Dengue cases have risen by almost 19% in early September compared to late August, says the Health Ministry. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/09/16/dengue-cases-on-the-rise",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/16/2287157.jpg",
-      "publishedAt": "2023-09-15 23:00:00",
-      "content": "PETALING JAYA: Dengue cases have risen by almost 19% in early September compared to late August, says the Health Ministry. Health director-general Datuk Dr Muhammad Radzi Abu Hassan said 2,284 dengu\u2026 [+1915 chars]",
-      "retrievedAt": "2023-09-17 07:05:33.795763",
-      "internal_id": "26a2a59171af68e90a7bba256d57aa0c547d98b6e0d4684a40ffb42db5ac2cad",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1868,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nos.nl",
-      "author": null,
-      "title": "Recordaantal doden na besmetting met dengue-virus in Bangladesh",
-      "description": "In Bangladesh is dit jaar een recordaantal mensen overleden na een besmetting met dengue, ofwel knokkelkoorts. Dit jaar zijn al 778 mensen aan een besmetting bezweken. In totaal zijn er dit jaar ruim 157.000 mensen besmet geraakt met het virus. Ook dat is een\u2026",
-      "url": "https://nos.nl/l/2490613",
-      "urlToImage": "https://cdn.nos.nl/image/2023/09/15/1008294/1024x576a.jpg",
-      "publishedAt": "2023-09-15 21:04:08",
-      "content": "In Bangladesh is dit jaar een recordaantal mensen overleden na een besmetting met dengue, ofwel knokkelkoorts. Dit jaar zijn al 778 mensen aan een besmetting bezweken. In totaal zijn er dit jaar ruim\u2026 [+2311 chars]",
-      "retrievedAt": "2023-09-17 07:05:33.791632",
-      "internal_id": "093f36e8709b8e3479e24244ec5ba1591d0875322d91156df6748b0d09ca9b01",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1856,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Bangladesh Dengue Outbreak Kills 778 People",
-      "description": "Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease. The World Health Organization recently warned that diseases such as dengue, \u2026",
-      "url": "https://www.voanews.com/a/bangladesh-dengue-outbreak-kills-778-people-/7270130.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-bc9e-08dbb60fc491_w1200_r1.jpg",
-      "publishedAt": "2023-09-15 17:22:34",
-      "content": "DHAKA, Bangladesh Bangladesh is struggling with a record outbreak of dengue fever, with experts saying a lack of a coordinated response is causing more deaths from the mosquito-transmitted disease. \u2026 [+1806 chars]",
-      "retrievedAt": "2023-09-16 19:05:14.400805",
-      "internal_id": "562f6f5c7f70562ca8b97ad33b8f8a0ccaa3933e5f56555ee8fc73a73ec40ba2",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1862,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Purdue Research Foundation",
-      "title": "Purdue researcher awarded $1.3 million for malaria drug trials in Southeast Asia and Africa",
-      "description": "Philip Low looks to validate previous trial results and test whether the number of days of an anti-malaria drug therapy can be reduced Philip Low looks to validate previous trial results and test whether the number of days of an anti-malaria drug therapy can \u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/09/15/2744154/18360/en/Purdue-researcher-awarded-1-3-million-for-malaria-drug-trials-in-Southeast-Asia-and-Africa.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d995b381-464d-4d66-a6e3-6e3f00f70da9",
-      "publishedAt": "2023-09-15 16:48:00",
-      "content": "WEST LAFAYETTE, Ind., Sept. 15, 2023 (GLOBE NEWSWIRE) -- A Purdue researcher is taking a giant leap forward in the fight against drug-resistant strains of malaria in developing countries. Open Phila\u2026 [+6503 chars]",
-      "retrievedAt": "2023-09-16 19:05:15.244043",
-      "internal_id": "675371d9b8635eed705a2bd5b1d9930d2408287bca5787dea89c3c152171c1c2",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1859,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ANI",
-      "title": "Bengal man develops robot \u2018Bravo\u2019 to help autistic children learn about diseases",
-      "description": "A West Bengal man has developed a robot that can help autistic children learn, spread awareness on diseases such as dengue, and even work as a waiter. Atanu Ghosh, a resident of Howrah city, built his robot \u2018Bravo\u2019 at his own expense. He learned to design rob\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/bengal-man-develops-robot-bravo-to-help-autistic-children-learn-about-diseases/videoshow/103697896.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-103697896,width-1070,height-580,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-15 16:10:01",
-      "content": "A West Bengal man has developed a robot that can help autistic children learn, spread awareness on diseases such as dengue, and even work as a waiter. Atanu Ghosh, a resident of Howrah city, built hi\u2026 [+171 chars]",
-      "retrievedAt": "2023-09-16 19:05:14.419641",
-      "internal_id": "884cf5c885d33646ceefe44593cf0f8d5399a6d7ade91532009aa16f0c20b03d",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1863,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Greta E. Weiss, Robert J. Ragotte, Doris Quinkert, Amelia M. Lias, Madeline G. Dans, Coralie Boulet, Oliver Looker, Olivia D. Ventura, Barnabas G. Williams, Brendan S. Crabb, Simon J. Draper, Paul R. Gilson",
-      "title": "The dual action of human antibodies specific to Plasmodium falciparum PfRH5 and PfCyRPA: Blocking invasion and inactivating extracellular merozoites",
-      "description": "Author summary Malaria is a sometimes-fatal disease caused by protozoan parasites of which Plasmodium falciparum is the deadliest species that causes hundreds of millions of infections and half a million deaths per year. A partially effective vaccine is avail\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011182",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011182.g004&size=inline",
-      "publishedAt": "2023-09-15 14:00:00",
-      "content": "Citation: Weiss GE, Ragotte RJ, Quinkert D, Lias AM, Dans MG, Boulet C, et al. (2023) The dual action of human antibodies specific to Plasmodium falciparum PfRH5 and PfCyRPA: Blocking invasion and in\u2026 [+66768 chars]",
-      "retrievedAt": "2023-09-16 19:05:15.253748",
-      "internal_id": "8a6b08c3294d7a9b03aff58f8ae8d0f6c3c48c6ce604502fc89d10ce6a1af8eb",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1855,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "il-sole-24-ore",
-      "source_name": "Il Sole 24 Ore",
-      "author": "di Francesca Cerati",
-      "title": "Febbre Dengue, primi casi autoctoni in Italia. Cosa c'\u00e8 da sapere e come proteggersi",
-      "description": "La malattia nella maggior parte dei casi \u00e8 asintomatica, in altri pu\u00f2 causare febbre e sintomi influenzali, nausea, vomito, irritazioni della pelle, e nei casi pi\u00f9 gravi anche emorragie potenzialmente fatali (in meno dell'1% delle persone)",
-      "url": "https://www.ilsole24ore.com/art/febbre-dengue-primi-casi-autoctoni-italia-cosa-c-e-sapere-e-come-proteggersi-AFLEvWr",
-      "urlToImage": "https://i2.res.24o.it/images2010/2023/09/AFLEvWr/images/731984d8-53c3-11ee-ae0f-a3f1ccb89d40-fotohome0.jpg",
-      "publishedAt": "2023-09-15 12:30:00",
-      "content": "Ascolta la versione audio dell'articolo 3' di lettura Sono 165 i casi di Dengue diagnosticati in Italia, 146 importati e 19 autoctoni, secondo lultimo aggiornamento settimanale dellIss. Lombardia, \u2026 [+1436 chars]",
-      "retrievedAt": "2023-09-16 19:05:14.396741",
-      "internal_id": "406c606dfe1ea576c0b8f87b7444df3ca1be871e69d31f694298ca29beddf852",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1870,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Viral fever and dengue cases up in Sarlahi",
-      "description": "SARLAHI: Cases of viral fever and dengue have been increasing in Sarlahi district for the past few days. The number of patients visiting private and government health facilities to avail of treatment has been growing lately. The infection of viral fever is sp\u2026",
-      "url": "https://english.khabarhub.com/2023/15/318509/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-09-15 11:15:23",
-      "content": "Image for Representation.SARLAHI: Cases of viral fever and dengue have been increasing in Sarlahi district for the past few days. The number of patients visiting private and government health facili\u2026 [+1307 chars]",
-      "retrievedAt": "2023-09-17 07:05:33.800962",
-      "internal_id": "d2b999b7f2667549bafbfe3478581b30e44f84aa62ac23df4a982a1a1acdb48a",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1860,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "BBC News Brasil",
-      "title": "Olimp\u00edadas 2024: Fran\u00e7a recorre a fumac\u00ea ap\u00f3s aumento de dengue, chikungunya e zika",
-      "description": "Nas cidades de Paris e Colombes, os fumac\u00eas ocorreram ap\u00f3s a notifica\u00e7\u00e3o de casos de pessoas que contra\u00edram dengue durante viagens ao exterior.",
-      "url": "https://www.bbc.com/portuguese/articles/c51kr2lykqko",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/09/15/1747317385-42515d10-5294-11ee-9fbb-2b52d1ba00a8.jpg",
-      "publishedAt": "2023-09-15 10:43:28",
-      "content": "A prolifera\u00e7\u00e3o na Fran\u00e7a do mosquito-tigre-asi\u00e1tico, vetor de transmiss\u00e3o de doen\u00e7as como dengue, zika e chikungunya, tem provocado o uso de fumac\u00eas em v\u00e1rias cidades, incluindo Paris, que realizou p\u2026 [+6780 chars]",
-      "retrievedAt": "2023-09-16 19:05:14.423020",
-      "internal_id": "9b0621a145ac6da53929a976193de2c4db887165caa3baa7f1df229590e1a3fe",
-      "publishedAtLabel": "Sep 15"
-    },
-    {
-      "id": 1854,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Isolation warning for London children without measles jab",
-      "description": "The capital has a low vaccination rate compared with the rest of the UK and is at risk of an outbreak.",
-      "url": "https://www.bbc.co.uk/news/uk-england-london-66819021",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BCFB/production/_131097384_28e7bdf8-b002-4299-b988-7a755e4ab201.jpg",
-      "publishedAt": "2023-09-15 10:35:38",
-      "content": "Children whose measles vaccinations are not up to date may have to isolate for 21 days if they are exposed to the disease, parents have been warned. Councils in London have written to households to \u2026 [+2009 chars]",
-      "retrievedAt": "2023-09-16 19:05:13.835279",
-      "internal_id": "2ea758cafeaf8a3faa52715b08008608230f90fc937c8a27060d8c398c940857",
-      "publishedAtLabel": "Sep 15"
     }
   ]
 }
