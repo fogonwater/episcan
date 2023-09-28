@@ -1,8 +1,301 @@
 {
-  "last_updated": "2023-09-28 07:05",
+  "last_updated": "2023-09-28 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 2078,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "Rising dengue cases call for enhanced public sanitation and waste management systems",
+      "description": "Dengue cases in India have reached nearly 95,000 between January and July 31, with numbers spiking after excessive rains caused waterlogging. The rise in cases is not limited to India, as other regions such as northern-eastern Africa, West Asia, and South and\u2026",
+      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/rising-dengue-cases-call-for-enhanced-public-sanitation-and-waste-management-systems/articleshow/103997607.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-103997642,width-1200,height-630,imgsize-13048,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-27 17:40:43",
+      "content": "Dengue is again a major public health concern. The National Centre for Vector Borne Diseases Control reported nearly 95,000 cases in the country between January and July 31. Ground-level reports sugg\u2026 [+1666 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.460340",
+      "internal_id": "41a46927063189339947fd6b629b08eb245df221a0cf808b1f65c64a7a1282af",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2081,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Dengue a Pisa, disinfestazione in zona dell'ospedale",
+      "description": "Il sindaco di Pisa, Michele Conti, dopo la segnalazione dell'Asl Toscana Nord ovest di un caso dell'esistenza di un caso di Dengue in una persona rientrata da un paese tropicale, ha ordinato precauzionalmente un intervento urgente di disinfestazione \"media...\u2026",
+      "url": "https://www.ansa.it/toscana/notizie/2023/09/27/caso-di-dengue-a-pisa-disinfestazione-in-zona-dellospedale_7f7130f5-7e1c-42c4-86fd-0e03ce99a0ed.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/9/6/ec653cf59a220475e2cd717f77758bfa.jpg",
+      "publishedAt": "2023-09-27 17:28:47",
+      "content": "Il sindaco di Pisa, Michele Conti, dopo la segnalazione dell'Asl Toscana Nord ovest di un caso dell'esistenza di un caso di Dengue in una persona rientrata da un paese tropicale, ha ordinato preca\u2026 [+1094 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.485157",
+      "internal_id": "07b689b4daac03b5558ca47145be8bb9e0301b55a8f3deef86ffc772500ab2d2",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2079,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": null,
+      "title": "Foi identificado em Lisboa mosquito que pode transmitir dengue e zika",
+      "description": "Apesar de a presen\u00e7a do mosquito n\u00e3o ser in\u00e9dita no pa\u00eds, em Lisboa n\u00e3o tinha sido detetada at\u00e9 agora. &etilde;",
+      "url": "https://ionline.sapo.pt/artigo/806948/foi-identificado-em-lisboa-mosquito-que-pode-transmitir-dengue-e-zika?seccao=Portugal_i",
+      "urlToImage": "https://cdn1.newsplex.pt/media/2023/9/27/fb/859853.jpg",
+      "publishedAt": "2023-09-27 17:06:00",
+      "content": "A Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS) anunciou, esta quarta-feira, que a esp\u00e9cie Aedes albopictus, que pode transmitir \u00e0s pessoas doen\u00e7as como chikungunya, dengue e zika, \u201cfoi identificada pela primeira vez\u2026 [+1870 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.473912",
+      "internal_id": "dcd4accabbb369f365d390eb969116d26ba8f5917d5b6e7347bc949458d541b9",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2077,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "In\u00eas Andr\u00e9 Figueiredo",
+      "title": "Mosquito que transmite dengue e zika detetado em Lisboa pela primeira vez",
+      "description": "DGS refor\u00e7ou a vigil\u00e2ncia entomol\u00f3gica e epidemiol\u00f3gica, mas garantiu que n\u00e3o foram identificados nestes mosquitos quaisquer agentes de doen\u00e7as que possam ser transmitidas \u00e0s pessoas.",
+      "url": "https://observador.pt/2023/09/27/mosquito-que-transmite-dengue-e-zika-detetado-em-lisboa-pela-primeira-vez/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1998%3A1126%3Anowe%3A0%3A100%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F04%2F15200407%2F20319704.jpg",
+      "publishedAt": "2023-09-27 16:25:37",
+      "content": "A Dire\u00e7\u00e3o-Geral de Sa\u00fade (DGS) revelou que a esp\u00e9cie de mosquitos Aedes albopictus foi identificada pela primeira vez em Lisboa e alertou que este mosquito pode transmitir doen\u00e7as como chikungunya, d\u2026 [+1110 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.454859",
+      "internal_id": "b25b32399eebd5dc11a095986bc6c5f109fca118880ffd18ac9085f1107481d5",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2073,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "'Be careful with feeding wildlife': Jupiter man attacked by rabid otter - WPBF West Palm Beach",
+      "description": "'Be careful with feeding wildlife': Jupiter man attacked by rabid otterWPBF West Palm Beach Florida man describes rabid otter 'lunging' at him during attackNBC News Florida man gets bitten by rabies-infested otter while feeding ducks: officialsFox News Florid\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171906807",
+      "urlToImage": null,
+      "publishedAt": "2023-09-27 16:12:04",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-09-28 19:05:27.746704",
+      "internal_id": "2d6ffa12c81c5533cfcf10eb04ade6c20eddc4639c8ad18ea0d263330003407d",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2076,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.pt",
+      "author": "DN",
+      "title": "Mosquito do dengue e do zika identificado pela primeira vez em Lisboa",
+      "description": "A presen\u00e7a desta esp\u00e9cie n\u00e3o \u00e9 in\u00e9dita em Portugal, uma vez que foi detetado pela primeira vez no pa\u00eds em 2017, na regi\u00e3o Norte, tendo entretanto aparecido no Algarve em 2018 e no Alentejo em 2022.",
+      "url": "https://www.dn.pt/sociedade/dgs-alerta-para-mosquito-identificado-em-lisboa-17083619.html",
+      "urlToImage": "https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=5e0b1326-5129-4678-8086-4ff4b00fb46e&w=800&h=420&watermark=true&t=20230927170300",
+      "publishedAt": "2023-09-27 16:03:00",
+      "content": "A Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS) alertou esta quarta-feira que a esp\u00e9cie de mosquitos Aedes albopictus foi identificada pela primeira vez no Munic\u00edpio de Lisboa. \"Este mosquito pode transmitir \u00e0s pess\u2026 [+1421 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.451224",
+      "internal_id": "2b4bf12eded460ad0c47271090f89c8f93d8099e58f4306992b060c797e12491",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2086,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Clevelandclinic.org",
+      "author": "Cleveland Clinic",
+      "title": "Rat Lungworm",
+      "description": "Slugs and snails are slimy \u2014 and they sometimes carry parasites that can make you sick. How you get rat lungworm and what you can do to prevent it.",
+      "url": "https://my.clevelandclinic.org/health/diseases/25096-rat-lungworm",
+      "urlToImage": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/social-share-health-library",
+      "publishedAt": "2023-09-27 15:32:17",
+      "content": "What are the symptoms of rat lungworm? Symptoms of eosinophilic meningitis caused by rat lungworm include: Severe headache.Neck pain or stiffness. It may be so severe that you cant\u2026 [+1584 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.820159",
+      "internal_id": "3b92137faf28b9871a2387089f7bb57b79987703d6b3b418ca448a76bbac5fa5",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2072,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Canadian Animal Health Institute",
+      "title": "2023 CAHI World Rabies Day Webinar: Empowering Communities through Innovation: One Health for All",
+      "description": "TORONTO, Sept. 27, 2023 (GLOBE NEWSWIRE) -- The Canadian Animal Health Institute (CAHI) is thrilled to return this year to host another important webinar as a part of World Rabies Day 2023. In partnership with Zoetis, Ceva, and Boehringer Ingelheim, this year\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/09/27/2750405/0/en/2023-CAHI-World-Rabies-Day-Webinar-Empowering-Communities-through-Innovation-One-Health-for-All.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/197c2953-84e0-435d-8524-c68da19d27e9",
+      "publishedAt": "2023-09-27 12:49:00",
+      "content": "TORONTO, Sept. 27, 2023 (GLOBE NEWSWIRE) -- The Canadian Animal Health Institute (CAHI) is thrilled to return this year to host another important webinar as a part of World Rabies Day 2023. In partne\u2026 [+2385 chars]",
+      "retrievedAt": "2023-09-28 19:05:27.732402",
+      "internal_id": "cb98cb6f1ac6c34db008a43f202b9fc61e02d4d69e59f0e49c1a45f8a14d8337",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2082,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "Micka\u00ebl Bosredon (20 Minutes)",
+      "title": "West Nile, Usutu, dengue\u2026 Ces virus li\u00e9s aux moustiques circulent de plus en plus en Nouvelle-Aquitaine",
+      "description": "Le dernier point \u00e9pid\u00e9miologique de Sant\u00e9 Publique France montre une acc\u00e9l\u00e9ration de la circulation de ces virus li\u00e9s aux moustiques en Nouvelle-Aquitaine, notamment en Gironde",
+      "url": "https://www.20minutes.fr/sante/4055006-20230927-west-nile-usutu-dengue-virus-lies-moustiques-circulent-plus-plus-nouvelle-aquitaine",
+      "urlToImage": "https://img.20mn.fr/Ml9ZY8SPSBCU0zs2HwO0ayk/1200x768_operations-de-demoustication-anti-larvaires-organise-par-la-mairie-de-cannes-insecticide-biologique-traitement-des-espaces-publics-susceptibles-de-servir-de-gites-aux-moustiques-notamment-le-moustique-tigre-vecteur-d-agents-infectieux-dont-la-dengue-le-chikungunya-le-zika-square-leo-callandry-cannes-france-11-07-2023-syspeo-sys-b003-credit-syspeo-sipa-2307160802",
+      "publishedAt": "2023-09-27 12:26:09",
+      "content": "Une \u00ab circulation active des virus West Nile et Usutu en Gironde, en Charente-Maritime, en Haute-Vienne et dans les Landes \u00bb note ce mercredi Sant\u00e9 Publique France, dans son dernier bilan \u00e9pid\u00e9miolog\u2026 [+2532 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.495325",
+      "internal_id": "8291e65d3b2381f6ad82625feaff2ebbb85ce1e4a75d71380cc0e813bb9e59fc",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2075,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Dr. Adiba Matin",
+      "title": "Genetically modified mosquitoes and vaccines -- what to know about dengue fever",
+      "description": "More than 3 million cases of dengue fever have been reported in the Americas this year with over 882 in the United States, according to the CDC.",
+      "url": "https://abcnews.go.com/Health/genetically-modified-mosquitoes-vaccines-dengue-fever/story?id=103511659",
+      "urlToImage": "https://i.abcnewsfe.com/a/ba730ece-5adb-4829-a640-b83594f8f23e/mosquito-dengue-fever-gty-lv-230926_1695769504532_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2023-09-27 11:11:43",
+      "content": "More than 3 million cases of dengue fever have been reported in the Americas this year with over 882 in the United States, according to the CDC. This is the second highest annual rate in the Americas\u2026 [+4834 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.443195",
+      "internal_id": "64b61070f0944d2e431bc33fb54820eb14685e8ff900d129c49deaa9cecd5c2f",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2085,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Promotional material: Meningitis: signs and symptoms leaflet and poster",
+      "description": "Poster and leaflet for teenagers and young people, especially new college and university students, highlighting the signs and symptoms of meningitis.",
+      "url": "https://www.gov.uk/government/publications/meningitis-signs-and-symptoms-poster",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+      "publishedAt": "2023-09-27 10:32:39",
+      "content": "These resources describe the warning signs of meningitis, so that teenagers and young people, those entering a new college or university in particular, know what to look out for if someone falls ill.\u2026 [+339 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.815039",
+      "internal_id": "d669a06ed61d287966192532891548645014f219f03151390a4d46ba23f11bb1",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2084,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Sean Muhamad, Resinta S",
+      "title": "Indonesia aims to reduce dengue cases to 10 per 100,000 people by 2030",
+      "description": "The Indonesian Health Ministry aims to reduce cases of dengue hemorrhagic fever (DHF) in the country, currently averaging 20-50 cases per 100 thousand people, to 10 cases per 100 thousand, with zero deaths by 2030. During the ...",
+      "url": "https://en.antaranews.com/news/294675/indonesia-aims-to-reduce-dengue-cases-to-10-per-100000-people-by-2030",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/04/15/Fogging-Pencegahan-Wabah-DBD-Di-Palangka-Raya-150423-MZ-3.jpg",
+      "publishedAt": "2023-09-27 10:29:11",
+      "content": "Jakarta (ANTARA) - The Indonesian Health Ministry aims to reduce cases of dengue hemorrhagic fever (DHF) in the country, currently averaging 20-50 cases per 100 thousand people, to 10 cases per 100 t\u2026 [+1696 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.520053",
+      "internal_id": "f762e463eff42539a573efe36ba5927ece3a2a5a1f16f6c5bcbe8b00a821c63a",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2087,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u4f4f\u53cb\u30d5\u30a1\u30fc\u30de\u3001\u7530\u8fba\u4e09\u83f1\u88fd\u85ac\u306a\u3069\u306b\u3088\u308b\u30de\u30e9\u30ea\u30a2\u306e\u88fd\u54c1\u958b\u767a\u3084\u9867\u307f\u3089\u308c\u306a\u3044\u71b1\u5e2f\u75c5\u5bfe\u7b56\u306b\u5408\u8a08\u7d0411.8\u5104\u5186\u306e\u6295\u8cc7\u3092\u6c7a\u5b9a",
+      "description": "[GHIT Fund] [\u753b\u50cf: https://prtimes.jp/i/120361/7/resize/d120361-7-27ac447201012c4464c8-0.jpg ] \u30de\u30e9\u30ea\u30a2\u306f\u3001\u4e16\u754c\u3067\u5e74\u9593\u7d042\u51045,000\u4e07\u4eba\u304c\u7f79\u60a3\u3057\u30012021\u5e74\u306b\u306f\u7d0462\u4e07\u4eba*2\u304c\u6b7b\u4ea1\u3057\u3066\u3044\u307e\u3059\u3002\u307e\u305f\u3001\u9867\u307f\u3089\u308c\u306a\u3044\u71b1\u5e2f\u75c5\uff08NT...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000120361.html",
+      "urlToImage": "https://prtimes.jp/i/120361/7/ogp/d120361-7-27ac447201012c4464c8-0.jpg",
+      "publishedAt": "2023-09-27 09:40:02",
+      "content": "25,000202162*2NTDs1620*3GHIT Fund 5.7 EVIInstituto de Biologia Experimental e Tecnologica (iBET) 5.7 Medicines for Malaria Venture (MMV)3.3 1.5Drugs &amp; Diagnostics for Tropical Diseases (DDTD)\u2026 [+418 chars]",
+      "retrievedAt": "2023-09-28 19:05:29.111641",
+      "internal_id": "ecd177834e584f733ede2527b9344b664dd640b37090c61a35c0995ec7673174",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2083,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Republic World",
+      "author": "Nidhi Mudgill",
+      "title": "\u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092c\u0922\u093c\u0947 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u0930\u0940\u091c, 3000 \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u092e\u093f\u0932\u0947 \u092a\u0949\u091c\u093f\u091f\u093f\u0935 \u0915\u0947\u0938; \u0907\u0928 \u0932\u0915\u094d\u0937\u0923\u094b\u0902 \u0915\u094b \u0928\u093e \u0915\u0930\u0947\u0902 \u0928\u091c\u0930\u0905\u0902\u0926\u093e\u091c",
+      "description": "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0907\u0938 \u0938\u093e\u0932 \u0905\u092c \u0924\u0915 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0924\u0940\u0928 \u0939\u091c\u093e\u0930 \u0938\u0947 \u092d\u0940 \u091c\u094d\u092f\u093e\u0926\u093e \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906 \u091a\u0941\u0915\u0947 \u0939\u0948\u0902\u0964 \u0926\u093f\u0932\u094d\u0932\u0940 \u0928\u0917\u0930 \u0928\u093f\u0917\u092e \u0928\u0947 \u0938\u0926\u0928 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 (Dengue) \u0915\u0947 \u0906\u0902\u0915\u0921\u093c\u0947 \u092d\u0940 \u092a\u0947\u0936 \u0915\u093f\u090f \u0939\u0948\u0902\u0964",
+      "url": "https://bharat.republicworld.com/lifestyle/health/the-number-of-dengue-patients-broke-the-record-more-than-3000-positive-cases-were-found-do-not-ignore-these-symptoms-at-all",
+      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/16957928826513bef29d09b.jpeg",
+      "publishedAt": "2023-09-27 09:27:13",
+      "content": "Dengue Positive Patients: - (Dengue) ... , 4 (2023) 2,95,69,150 , 73 36 640 (Dengue) , (Dengue) , 2-3 3 , , , (Dengue) : - -3",
+      "retrievedAt": "2023-09-28 19:05:28.505558",
+      "internal_id": "80e45d4ce87b5ed05cfd73aaaf08278b9dfccd06986870ae01073e9043cc6be5",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2074,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "World News in Brief: Crisis deepens for Mali's children, human rights updates from Brazil, Montenegro",
+      "description": "In Mali, one million children under five are at risk of malnutrition amid polio and measles outbreaks, increased armed violence and displacement, the UN Children's Fund (UNICEF) said on Tuesday.",
+      "url": "https://www.globalsecurity.org/military/library/news/2023/09/mil-230926-unnews03.htm",
+      "urlToImage": null,
+      "publishedAt": "2023-09-27 09:07:47",
+      "content": "26 September 2023 - In Mali, one million children under five are at risk of malnutrition amid polio and measles outbreaks, increased armed violence and displacement, the UN Children's Fund (UNICEF) s\u2026 [+4141 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.061039",
+      "internal_id": "6a2884ffc5773978edfc6bb1626bd0c2bb600c4da0c78c0e2ad5e564fc28e6b2",
+      "publishedAtLabel": "Sep 27"
+    },
+    {
+      "id": 2080,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Dengue: Symptoms, precautions and how to treat it at home",
+      "description": "The disease is transmitted by infected mosquitoes and has four virus subtypes. Initial symptoms include high fever, headache, eye pain, nausea, and joint pain. Severe complications can arise with subsequent infections of different subtypes. Home treatment mea\u2026",
+      "url": "https://economictimes.indiatimes.com/news/how-to/dengue-symptoms-precautions-and-how-to-treat-it-at-home/articleshow/103983660.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-103983842,width-1200,height-630,imgsize-23506,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-27 07:59:07",
+      "content": "Byju\u2019s New India CEO to Cut More Than 4,500 JobsArjun Mohan, who took charge as the new chief executive of the India business at Byjus last Wednesday, is set to unveil a series of changes at the fina\u2026 [+860 chars]",
+      "retrievedAt": "2023-09-28 19:05:28.476961",
+      "internal_id": "a0d23c3f198b07b8a27cb65a6e69d825ac6c00f1b21588b0cadc132025e4c3de",
+      "publishedAtLabel": "Sep 27"
+    },
     {
       "id": 2070,
       "query": [
@@ -3329,294 +3622,6 @@
       "retrievedAt": "2023-09-19 07:05:43.365422",
       "internal_id": "031f8bbab380713472472de1f2fa39110619f43bd2c74a7f23251941c1717e0f",
       "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1892,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "Martha Casas",
-      "title": "Meningitis en Durango: Hospital de la \u2018zona cero\u2019 pagar\u00e1 40 millones de pesos por indemnizaci\u00f3n",
-      "description": "El Hospital del Parque, donde comenzaron los contagios de meningitis en Durango, pagar\u00e1 una millonaria indemnizaci\u00f3n.",
-      "url": "https://www.elfinanciero.com.mx/estados/2023/09/17/meningitis-en-durango-hospital-de-la-zona-cero-pagara-40-millones-de-pesos-por-indemnizacion/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/x29gZiB545YfnzvqidAvweO1Cs8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HXMYXNURHRFEVHZ25IX4BCMJIU.jpeg",
-      "publishedAt": "2023-09-17 20:58:27",
-      "content": "A un a\u00f1o de los primeros casos de meningitis f\u00fangica en Durango, los da\u00f1os son cuantiosos, mientras se siguen las v\u00edas legales y hay detenidos, el Hospital del Parque, considerado como la zona cero, \u2026 [+2526 chars]",
-      "retrievedAt": "2023-09-19 07:05:42.855733",
-      "internal_id": "e699f836ae90a62f364c358148b0531bbd9c7b113f934191e817f146492be3f3",
-      "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1882,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "Arrest warrant against Zareen in cheating case",
-      "description": "A Kolkata court on Sunday issued an arrest warrant against Zareen Khan in connection with an alleged cheating case. When asked about the arrest warrant, Zareen said that she had no clarity on the matter and believes that there's no truth to this.",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/a-kolkata-court-issues-arrest-warrant-against-zareen-khan-in-2018-cheating-case-actress-expresses-shock/articleshow/103736810.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103736795,width-1070,height-580,imgsize-34514,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-17 14:41:07",
-      "content": "Zareen Khan Hospitalized Due to Dengue, Urges Fans to Prioritize PrecautionsBollywood actress Zareen Khan has been hospitalized due to a severe case of dengue fever, highlighting the need for individ\u2026 [+174 chars]",
-      "retrievedAt": "2023-09-18 19:05:31.145723",
-      "internal_id": "778ddcd8ff7a448b7e8298be9f4ac0e7e5cf6ee2446805a604c9cfa35330a66b",
-      "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1881,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Elmercurio.com.ec",
-      "author": "Nancy Negrete",
-      "title": "Experto espera que incidencia del dengue en R.Dominicana baje en cuatros semanas",
-      "description": "Santo Domingo.- En las pr\u00f3ximas cuatro semanas se espera que comience a reducirse la incidencia del dengue en la Rep\u00fablica Dominicana, en situaci\u00f3n de brote epid\u00e9mico con 7.222 contagios contabilizados en lo que va de a\u00f1o, seg\u00fan las \u00faltimas cifras aportadas p\u2026",
-      "url": "https://elmercurio.com.ec/2023/09/17/experto-espera-que-incidencia-del-dengue-en-r-dominicana-baje-en-cuatros-semanas/",
-      "urlToImage": null,
-      "publishedAt": "2023-09-17 14:03:21",
-      "content": "Santo Domingo.- En las pr\u00f3ximas cuatro semanas se espera que comience a reducirse la incidencia del dengue en la Rep\u00fablica Dominicana, en situaci\u00f3n de brote epid\u00e9mico con 7.222 contagios contabilizad\u2026 [+1207 chars]",
-      "retrievedAt": "2023-09-18 19:05:31.136658",
-      "internal_id": "29b5f64b30eb2974f444bd8f65689fac738cadfcc2a73c34fc1c8daf2cdc7f9b",
-      "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1885,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.hln.be",
-      "author": "Joost van Egmond",
-      "title": "Een dove mug kan niet meer paren. Waarom is dat goed nieuws in de strijd tegen ziektes?",
-      "description": "Knoeien met het gehoor van een mannetjesmug kan een doorbraak zijn in de strijd tegen muggen die ziektes overdragen. Dat hebben Britse en Duitse onderzoekers ontdekt. Waarom is horen voor een mug zo cruciaal? En op welke manier kan het dan ziektes als malaria\u2026",
-      "url": "https://www.hln.be/wetenschap-en-planeet/een-dove-mug-kan-niet-meer-paren-waarom-is-dat-goed-nieuws-in-de-strijd-tegen-ziektes~a655433c/",
-      "urlToImage": "https://images0.persgroep.net/rcs/1Rf2AoAn631XQUIcYkIdVk5g0Z4/diocontent/235035076/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
-      "publishedAt": "2023-09-17 14:00:24",
-      "content": "Behalve een aartsvijand van vele mensen, is de mug ook een heel interessant wezen. Het mannetje is bijvoorbeeld in staat om voornamelijk op gehoor een geschikte partner te vinden in een zwerm van dui\u2026 [+1464 chars]",
-      "retrievedAt": "2023-09-18 19:05:31.670089",
-      "internal_id": "d6d8459945d859c5147857f1325d5f65178804ae24afa6b5ad2c9a92bb85e2f8",
-      "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1884,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09b9\u09bf\u09ae\u09be\u0997\u09be\u09b0\u09c7 \u09e8\u09ed \u099f\u09be\u0995\u09be \u09a6\u09b0\u09c7 \u0986\u09b2\u09c1 \u09ac\u09bf\u0995\u09cd\u09b0\u09bf \u09a8\u09be \u0995\u09b0\u09be\u09df \u099c\u09df\u09aa\u09c1\u09b0\u09b9\u09be\u099f\u09c7 \u09e9 \u09ac\u09cd\u09af\u09ac\u09b8\u09be\u09df\u09c0\u0995\u09c7 \u099c\u09b0\u09bf\u09ae\u09be\u09a8\u09be",
-      "description": "\u09b9\u09bf\u09ae\u09be\u0997\u09be\u09b0 \u09a5\u09c7\u0995\u09c7 \u09aa\u09cd\u09b0\u09a4\u09bf \u0995\u09c7\u099c\u09bf \u0986\u09b2\u09c1\u09b0 \u09aa\u09be\u0987\u0995\u09be\u09b0\u09bf \u09a6\u09b0 \u09e8\u09ed \u099f\u09be\u0995\u09be \u09ac\u09c7\u0981\u09a7\u09c7 \u09a6\u09bf\u09df\u09c7\u099b\u09c7 \u09b8\u09b0\u0995\u09be\u09b0\u0964 \u0995\u09bf\u09a8\u09cd\u09a4\u09c1 \u09b9\u09bf\u09ae\u09be\u0997\u09be\u09b0\u099f\u09bf \u09a5\u09c7\u0995\u09c7 \u09e9\u09eb \u099f\u09be\u0995\u09be \u09a6\u09b0\u09c7 \u0986\u09b2\u09c1 \u09ac\u09bf\u0995\u09cd\u09b0\u09bf \u0995\u09b0\u09be \u09b9\u099a\u09cd\u099b\u09bf\u09b2\u0964",
-      "url": "https://bangla.thedailystar.net/health/food/daily-commodity-price/news-515246",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/joypurhat_0.jpg?itok=TmEim3BI",
-      "publishedAt": "2023-09-17 13:46:35",
-      "content": "At least 18 more people died from dengue in 24 hours preceding 8:00am today as the country grapples with a record outbreak of the mosquito-borne disease",
-      "retrievedAt": "2023-09-18 19:05:31.158883",
-      "internal_id": "339be92d28f75da1eb9898b034229966c7ed3ede7fb2d2263dcbe1178339fd23",
-      "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1886,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Cientistas de Campinas mapeiam danos do v\u00edrus mayaro em tecidos pela primeira vez em 3D; V\u00cdDEO",
-      "description": "'Primo' do chikungunya \u00e9 end\u00eamico na regi\u00e3o Amaz\u00f4nica, e infec\u00e7\u00e3o pode causar dor e incha\u00e7o intensos nos m\u00fasculos e articula\u00e7\u00f5es. Imagens foram obtidas por meio do acelerador de part\u00edculas UVX. Com ajuda de acelerador de part\u00edculas, cientisas mapeiam m\u00fasculos\u2026",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/09/17/cientistas-de-campinas-mapeiam-danos-do-virus-mayaro-em-tecidos-pela-primeira-vez-em-3d-video.ghtml",
-      "urlToImage": "https://s2-g1.glbimg.com/2u9H34ewMbcV3mWlmPpqn6Ro_34=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/11950834.jpg",
-      "publishedAt": "2023-09-17 10:01:19",
-      "content": "Primo do chikungunya, o mayaro \u00e9 end\u00eamico na regi\u00e3o Amaz\u00f4nica e transmitido pelos mosquitos do g\u00eanero Haemagogus, que tamb\u00e9m \u00e9 conhecido por propagar a febre amarela silvestre. Segundo o Minist\u00e9rio d\u2026 [+4098 chars]",
-      "retrievedAt": "2023-09-18 19:05:32.123214",
-      "internal_id": "9383356963f53b3fa95b45b2b685c547dda055c9830b7395e4b890ffac65d9ba",
-      "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1883,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Star",
-      "author": "The Daily Star",
-      "title": "\u09ed \u09b2\u09be\u0996 \u099f\u09be\u0995\u09be \u0998\u09c1\u09b7 \u09a6\u09be\u09ac\u09bf\u09b0 \u0985\u09a1\u09bf\u0993 \u09ab\u09be\u0981\u09b8, \u099a\u09be\u09b0\u0998\u09be\u099f \u09a5\u09be\u09a8\u09be\u09b0 \u0993\u09b8\u09bf \u09aa\u09cd\u09b0\u09a4\u09cd\u09af\u09be\u09b9\u09be\u09b0",
-      "description": "\u09ed \u09b2\u09be\u0996 \u099f\u09be\u0995\u09be \u0998\u09c1\u09b7 \u09a6\u09be\u09ac\u09bf\u09b0 \u0985\u09a1\u09bf\u0993 \u09ab\u09be\u0981\u09b8, \u099a\u09be\u09b0\u0998\u09be\u099f \u09a5\u09be\u09a8\u09be\u09b0 \u0993\u09b8\u09bf \u09aa\u09cd\u09b0\u09a4\u09cd\u09af\u09be\u09b9\u09be\u09b0thedailystar.net",
-      "url": "https://bangla.thedailystar.net/news/bangladesh/news-515131",
-      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/09/17/377618505_636876815222813_3239467215979830409_n.jpg?itok=1pwj-h1L",
-      "publishedAt": "2023-09-17 09:26:31",
-      "content": "The health directorate has instructed all health officials across the country not to send any dengue patients to Dhaka from outside the capital for treatment",
-      "retrievedAt": "2023-09-18 19:05:31.156518",
-      "internal_id": "3e9411829d58e7d26125ca7144f419a149954d26042015289813c31ed7e3ad2a",
-      "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1877,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Special Mosquitoes Being Bred to Fight Dengue",
-      "description": "For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more effective way to control the disease \u2014 and it goes against everything they've learn\u2026",
-      "url": "https://www.voanews.com/a/special-mosquitoes-being-bred-to-fight-dengue/7267919.html",
-      "urlToImage": "https://gdb.voanews.com/21341308-6C7F-4FB2-A0E1-C12D88AD5FD0.jpg",
-      "publishedAt": "2023-09-17 06:55:46",
-      "content": "TEGUCIGALPA, Honduras For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more \u2026 [+9099 chars]",
-      "retrievedAt": "2023-09-18 07:05:46.218739",
-      "internal_id": "e0efb0cb0600c91e72c32f571dd8c2da0c12bbada2f15887a04f9f31ad6a85d3",
-      "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1880,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "By MAAYAN JAFFE-HOFFMAN",
-      "title": "Ethiopia's warming may trigger year-round malaria in Addis Ababa - study",
-      "description": "According to the report, the city\u2019s extreme daily maximum temperature would increase by about 1.7\u00b0 Celsius by 2060.",
-      "url": "https://www.jpost.com/environment-and-climate-change/article-759417",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/552968",
-      "publishedAt": "2023-09-17 06:23:41",
-      "content": "Ethiopian residents of Addis Ababa could be at risk of year-round malaria transmission if average daily temperatures continue to rise, an Ethiopian post-doctoral student living in the United States w\u2026 [+3739 chars]",
-      "retrievedAt": "2023-09-18 07:05:46.838830",
-      "internal_id": "0f7cf502611cb7fd33b333a0622a1dbf4d9d612a4cc7f5b397b3ea06ed470faf",
-      "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1878,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Morgan Barthelemy",
-      "title": "Comment le virus de la dengue arrive en France",
-      "description": "Avec le tourisme et le dereglement climatique, la dengue accelere sa propagation. Desormais, Antilles francaises et metropole sont liees lors des pics epidemiques.",
-      "url": "https://www.lepoint.fr/sante/comment-le-virus-de-la-dengue-arrive-en-france-17-09-2023-2535696_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2023/09/17/25198230lpw-25198427-mega-une-jpg_9771672.jpg",
-      "publishedAt": "2023-09-17 05:00:00",
-      "content": "Fi\u00e8vre, douleurs musculaires, vomissements, saignements Entre le 21 ao\u00fbt et le 3 septembre dernier, l'agence Sant\u00e9 publique France a enregistr\u00e9 une flamb\u00e9e des cas de dengue dans l'archipel des Antil\u2026 [+6110 chars]",
-      "retrievedAt": "2023-09-18 07:05:46.228129",
-      "internal_id": "8181b317fdf4b045f7b8cf02d3545e840ffd3ab11ac1080cb642ae349475e6cf",
-      "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1879,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "El n\u00famero de muertos por dengue en Bangladesh alcanza los 800",
-      "description": "Con 14 fallecidos en las \u00faltimas 24 horas, el n\u00famero de muertes por dengue de este a\u00f1o en Bangladesh ha alcanzado ya las 804 personas, seg\u00fan los datos de la Direcci\u00f3n General de Servicios de Salud (DGHS) del pa\u00eds.",
-      "url": "https://www.europapress.es/internacional/noticia-numero-muertos-dengue-bangladesh-alcanza-800-20230917063807.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230917063807_1200.jpg",
-      "publishedAt": "2023-09-17 04:38:07",
-      "content": "MADRID, 17 Sep. (EUROPA PRESS) - Con 14 fallecidos en las \u00faltimas 24 horas, el n\u00famero de muertes por dengue de este a\u00f1o en Bangladesh ha alcanzado ya las 804 personas, seg\u00fan los datos de la Direcc\u2026 [+1718 chars]",
-      "retrievedAt": "2023-09-18 07:05:46.230888",
-      "internal_id": "c7dcf1d45dfdc1b7a500dfb6bb116fdff9490974a2b9859f546b56891baca5f4",
-      "publishedAtLabel": "Sep 17"
-    },
-    {
-      "id": 1875,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le HuffPost",
-      "author": "Le HuffPost",
-      "title": "Dengue : quels sont les sympt\u00f4mes de cette maladie transmise par le moustique tigre et comment la pr\u00e9venir ?",
-      "description": "Des cas de dengue ont \u00e9t\u00e9 identifi\u00e9s \u00e0 Paris. Comment d\u00e9tecter cette \u00ab grippe tropicale \u00bb ? Quels sont les signes \u00e0 surveiller ? Et y a-t-il un traitement ? On fait le point.",
-      "url": "https://www.huffingtonpost.fr/life/article/dengue-quels-sont-les-symptomes-de-cette-maladie-transmise-par-le-moustique-tigre-et-comment-la-prevenir_223117.html",
-      "urlToImage": "https://huffpost-focus.sirius.press/2023/09/15/531/0/4000/2250/1820/1023/75/0/ff47ee0_1694770031849-moustique.jpeg",
-      "publishedAt": "2023-09-16 15:00:11",
-      "content": "DENGUE - \u00ab La grippe tropicale \u00bb est de retour. Une op\u00e9ration de d\u00e9moustication a \u00e9t\u00e9 organis\u00e9e dans le XVe arrondissement de Paris dans la nuit de vendredi \u00e0 samedi 16 septembre. La cause ? Trois ca\u2026 [+4084 chars]",
-      "retrievedAt": "2023-09-17 19:05:23.135086",
-      "internal_id": "3977b336b112b77332bbed35c9e8aa2d349d478ee9e198ba486ab140c5639076",
-      "publishedAtLabel": "Sep 16"
-    },
-    {
-      "id": 1876,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "aps@aps.sn (APS)",
-      "title": "S\u00e9n\u00e9gal: Tambacounda - 42 cas de chikungunya enregistr\u00c3\u00a9s, un d\u00c3\u00a9c\u00c3\u00a8s",
-      "description": "[APS] Tambacounda -- Quarante-deux cas de chikungunya, parmi lesquels figurent un d\u00e9c\u00e8s, ont \u00e9t\u00e9 enregistr\u00e9s dans la r\u00e9gion de Tambacounda (est), a indiqu\u00e9 vendredi le directeur r\u00e9gional de la sant\u00e9, Dr. Bayal Ciss\u00e9.",
-      "url": "https://fr.allafrica.com/stories/202309160141.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-16 13:25:27",
-      "content": "Tambacounda \u2014 Quarante-deux cas de chikungunya, parmi lesquels figurent un d\u00e9c\u00e8s, ont \u00e9t\u00e9 enregistr\u00e9s dans la r\u00e9gion de Tambacounda (est), a indiqu\u00e9 vendredi le directeur r\u00e9gional de la sant\u00e9, Dr. Ba\u2026 [+2048 chars]",
-      "retrievedAt": "2023-09-17 19:05:24.533341",
-      "internal_id": "678869ab90d655a8322ae76f5210b95267e535dbf11ab7f64970440b57098386",
-      "publishedAtLabel": "Sep 16"
-    },
-    {
-      "id": 1873,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Moneycontrol",
-      "author": "Hindi.Moneycontrol.com Team, Moneycontrol Hindi",
-      "title": "Scrub Typhus: \u0907\u0938 \u0915\u0940\u0921\u093c\u0947 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u0938\u0947 \u0913\u0921\u093f\u0936\u093e \u092e\u0947\u0902 5 \u0914\u0930 \u0936\u093f\u092e\u0932\u093e \u092e\u0947\u0902 9 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924, \u092f\u0947 \u0932\u0915\u094d\u0937\u0923 \u0926\u093f\u0916\u0924\u0947 \u0939\u0940 \u092b\u094c\u0930\u0928 \u092d\u093e\u0917\u0947\u0902 \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0947 \u092a\u093e\u0938",
-      "description": "Scrub Typhus: \u0926\u0947\u0936 \u092e\u0947\u0902 \u0938\u094d\u0915\u094d\u0930\u092c \u091f\u093e\u0907\u092b\u0938 (Scrub Typhus) \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c \u0930\u0939\u0947 \u0939\u0948\u0902\u0964 \u092f\u0939 \u092c\u0939\u0941\u0924 \u0924\u0947\u091c\u0940 \u0938\u0947 \u092b\u0948\u0932\u0924\u093e \u0939\u0948\u0964 \u092d\u093e\u0930\u0924 \u092e\u0947\u0902 \u092f\u0939 \u091c\u093e\u0928\u0935\u0932\u0947\u0935\u093e \u0938\u093e\u092c\u093f\u0924 \u0939\u094b \u0930\u0939\u093e \u0939\u0948\u0964 \u0913\u0921\u093f\u0936\u093e \u0915\u0947 \u092c\u093e\u0930\u0917\u0922\u093c \u091c\u093f\u0932\u0947 \u092e\u0947\u0902 \u0938\u094d\u0915\u094d\u0930\u092c \u091f\u093e\u0907\u092b\u0938 \u0938\u0947 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 5 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924 \u0939\u094b \u0917\u0908 \u0939\u0948\u0964 \u0935\u0939\u0940\u0902 \u0939\u093f\u092e\u093e\u091a\u0932 \u092a\u094d\u0930\u0926\u0947\u0936 \u0915\u0947 \u0936\u093f\u092e\u0932\u093e \u092e\u0947\u0902 9 \u0932\u094b\u0917\u094b\u0902 \u2026",
-      "url": "https://hindi.moneycontrol.com/news/india/trends/scrub-typhus-kills-5-in-odisha-9-in-shimla-know-symptoms-treatment-causes-and-prevention-1487651.html",
-      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2023/09/Scrubtyphus-637x435.jpg",
-      "publishedAt": "2023-09-16 03:11:50",
-      "content": "Scrub Typhus: (Scrub Typhus) 5 9 (Scrub Typhus) (Leptospirosis) 5 (Sadhu Charan Das) 2 , 4 (ndira Gandhi Medical College and Hospital (IGMC) 295 9 6 , 2 IGMC OPD ? ( ) (ref.) (Orientia tsut\u2026 [+60 chars]",
-      "retrievedAt": "2023-09-17 07:05:36.879887",
-      "internal_id": "20a1656594f964b99a5181849b6fc73c8f6721983f84519c6b41d5e2f80649d4",
-      "publishedAtLabel": "Sep 16"
-    },
-    {
-      "id": 1872,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Lavozdegalicia.es",
-      "author": "Fernando Salgado",
-      "title": "Inducir la malaria para curar la s\u00edfilis",
-      "description": "",
-      "url": "https://www.lavozdegalicia.es/noticia/opinion/2023/09/16/inducir-malaria-curar-sifilis/0003_202309G16P13994.htm",
-      "urlToImage": "https://www.lavozdegalicia.es/default/2023/09/15/00121694795701726876551/Foto/eup_20230915_121015270.jpg",
-      "publishedAt": "2023-09-16 03:00:00",
-      "content": "Alguien ha recordado, a propsito de la ltima subida de los tipos de inters por parte del BCE, la terapia patentada por el neuropsiquiatra Julius Wagner-Jauregg para combatir la sfilis: inocular el pa\u2026 [+298 chars]",
-      "retrievedAt": "2023-09-17 07:05:35.034604",
-      "internal_id": "4d1e2520fe4fdd694d4401a673f31c4137e16e7d10ca568a2c916941ab3fe2b9",
-      "publishedAtLabel": "Sep 16"
-    },
-    {
-      "id": 1867,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Express News Service",
-      "title": "28-year-old doctor dies of dengue in Kolkata",
-      "description": "Chatterjee was a resident of Shaheed Nagar. After he developed fever, he was initially treated at home for around four days, sources said. However, he was subsequently admitted to a private hospital due to low platelet count.",
-      "url": "https://indianexpress.com/article/cities/kolkata/28-year-old-doctor-dies-of-dengue-in-kolkata-8941999/",
-      "urlToImage": "https://images.indianexpress.com/2023/09/DENGUE-WARD.jpg",
-      "publishedAt": "2023-09-16 00:52:46",
-      "content": "AN OPHTHALMOLOGIST who had tested positive for dengue died at a private nursing home in Kolkata on Friday. Dr Devdyuti Chatterjee, 28, was working with the Regional Institute of Ophthalmology Departm\u2026 [+579 chars]",
-      "retrievedAt": "2023-09-17 07:05:33.773202",
-      "internal_id": "33af4b31616a6b369cebd00ff181b4c0d569ffef45bf873db08e681d62b552c4",
-      "publishedAtLabel": "Sep 16"
     }
   ]
 }
