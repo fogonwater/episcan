@@ -1,8 +1,316 @@
 {
-  "last_updated": "2023-09-29 07:05",
+  "last_updated": "2023-09-29 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 14,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 2103,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "politico",
+      "source_name": "Politico",
+      "author": null,
+      "title": "Ami Bera hopes to address the high cost of treating rabies after his brush with a rabid Capitol Fox.",
+      "description": "Bera said rabies treatment \"should never break the bank.\"",
+      "url": "https://www.politico.com/live-updates/2023/09/28/congress/capitol-fox-rabies-bera-house-treatment-00118836",
+      "urlToImage": "https://static.politico.com/44/97/22e9cc5a495ab5688e3853de7932/https-delivery-gettyimages.com/downloads/1198807447",
+      "publishedAt": "2023-09-28 18:52:46",
+      "content": "",
+      "retrievedAt": "2023-09-29 19:05:22.264164",
+      "internal_id": "4cf7409f0ecfb9c8eeeee2b09f2a230d470398228aa74c6c9e315e182cfa729a",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2102,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Influenza, Tdap, and COVID-19 Vaccination Coverage and Hesitancy Among Pregnant Women - United States, April 2023",
+      "description": "This report describes influenza, Tdap, and COVID-19 vaccination coverage and hesitancy among pregnant people.",
+      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7239a4.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7239a4_FluTdapCOVIDVaxPregnantPeople_IMAGE_29Sep2023_1200x675.jpg?_=25612",
+      "publishedAt": "2023-09-28 17:00:00",
+      "content": "Summary What is already known about this topic? Influenza, tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap), and COVID-19 vaccines can reduce the risk for severe respirator\u2026 [+35878 chars]",
+      "retrievedAt": "2023-09-29 19:05:21.887089",
+      "internal_id": "a3a5010dab552b9b01fdcc85afccd2bea4ea8ee5dbe475fce0d21e2b22394fd7",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2107,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Rizka Khaerunnisa, Resinta S",
+      "title": "Rabies vaccination coverage at 91.45% in Jakarta: official",
+      "description": "At least 41,826 rabies-transmitting animals (HPR) in Jakarta, or 91.45 percent of the targeted 45,735 HPR, have been administered the rabies vaccine as of September 2023, the Jakarta Food, Maritime, and Agricultural Security ...",
+      "url": "https://en.antaranews.com/news/294783/rabies-vaccination-coverage-at-9145-in-jakarta-official",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/09/21/antarafoto-vaksinasi-rabies-di-jakarta-210923-ies-7.jpg",
+      "publishedAt": "2023-09-28 14:57:01",
+      "content": "Jakarta (ANTARA) - At least 41,826 rabies-transmitting animals (HPR) in Jakarta, or 91.45 percent of the targeted 45,735 HPR, have been administered the rabies vaccine as of September 2023, the Jakar\u2026 [+2126 chars]",
+      "retrievedAt": "2023-09-29 19:05:22.287246",
+      "internal_id": "48485d534fb762a1a3e434f7c554f65c355f729ade24265acd1d16ca9b84bf4a",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2118,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Filipe Romero Rebello Moreira, Mariane Talon de Menezes, Clarisse Salgado-Benvindo, Charles Whittaker, Victoria Cox, Nilani Chandradeva, Hury Hellen Souza de Paula, Andr\u00e9 Frederico Martins, Raphael Rangel das Chagas, Rodrigo Decembrino Vargas Brasil, Darlan da Silva C\u00e2ndido, Alice Laschuk Herlinger, Marisa de Oliveira Ribeiro, Monica Barcellos Arruda, Patricia Alvarez, Marcelo Calado de Paula T\u00f4rres, Ilaria Dorigatti, Oliver Brady, Carolina Moreira Voloch, Amilcar Tanuri, Felipe Iani, William Marciel de Souza, Sergian Vianna Cardozo, Nuno Rodrigues Faria, Renato Santana Aguiar",
+      "title": "Epidemiological and genomic investigation of chikungunya virus in Rio de Janeiro state, Brazil, between 2015 and 2018",
+      "description": "Author summary Chikungunya is a mosquito-borne viral disease that has emerged as a significant public health concern in many regions worldwide. The state of Rio de Janeiro, a key economic and tourism hub in Brazil, has experienced multiple outbreaks of chikun\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011536",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011536.g004&size=inline",
+      "publishedAt": "2023-09-28 14:00:00",
+      "content": "Abstract Since 2014, Brazil has experienced an unprecedented epidemic caused by chikungunya virus (CHIKV), with several waves of East-Central-South-African (ECSA) lineage transmission reported acros\u2026 [+58811 chars]",
+      "retrievedAt": "2023-09-29 19:05:24.652737",
+      "internal_id": "dfb6e529e8feba58c7aa1faabe8293abc25a9e9821b271f87a86a32994680d1f",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2105,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Matthew Ochei",
+      "title": "Rabies: Delta records five death, 60 cases in two months",
+      "description": "The Delta State Government says it has recorded over 60 cases of rabies and five deaths within two months in the state. The State Commissioner for Health, Dr Joseph Onojaeme, disclosed this on Thursday shortly after a walk to mark the World Rabies Day in Asab\u2026",
+      "url": "https://punchng.com/rabies-delta-records-five-death-60-cases-in-two-months/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/11/19164251/When-dogs-attack-e1574178185329.jpg",
+      "publishedAt": "2023-09-28 13:50:44",
+      "content": "The Delta State Government says it has recorded over 60 cases of rabies and five deaths within two months in the state. The State Commissioner for Health, Dr Joseph Onojaeme, disclosed this on Thurs\u2026 [+1700 chars]",
+      "retrievedAt": "2023-09-29 19:05:22.269234",
+      "internal_id": "41185850a9ba307b7fff55255cf544ca184d8f6f25734082a2d1580ef3d17333",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2113,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Zee Bihar-jharkhand Web Team",
+      "title": "Jharkhand Dengue: \u091d\u093e\u0930\u0916\u0902\u0921 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0906\u0924\u0902\u0915, \u092a\u0936\u094d\u091a\u093f\u092e\u0940 \u0938\u093f\u0902\u0939\u092d\u0942\u092e \u092c\u0928\u093e \u0939\u0949\u091f\u0938\u094d\u092a\u0949\u091f, \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u092c\u0947\u0921 \u092b\u0942\u0932",
+      "description": "Jhakhand Dengue: \u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0930\u093e\u0902\u091a\u0940 \u0938\u0939\u093f\u0924 \u092a\u0942\u0930\u0947 \u091d\u093e\u0930\u0916\u0902\u0921 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0906\u0924\u0902\u0915 \u0926\u0947\u0916\u0928\u0947 \u0915\u094b \u092e\u093f\u0932 \u0930\u0939\u093e \u0939\u0948. \u0939\u093e\u0932\u093e\u0902\u0915\u093f \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0940 \u092e\u093e\u0928\u0947 \u0924\u094b \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 \u092a\u0939\u0932\u0947 \u0915\u0940 \u0905\u092a\u0947\u0915\u094d\u0937\u093e \u0915\u092e\u0940 \u0906\u0908 \u0939\u0948 \u092c\u093e\u0935\u091c\u0942\u0926 \u0907\u0938\u0915\u0947 \u0938\u0930\u0915\u093e\u0930\u0940 \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u092c\u0947\u0921 \u0932\u0917\u092d\u0917 \u092b\u0942\u0932 \u0939\u0948.",
+      "url": "https://zeenews.india.com/hindi/india/bihar-jharkhand/health/dengue-havoc-in-jharkhand-west-singhbhum-becomes-hotspot-beds-filled-in-hospitals/1891755",
+      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/09/28/2247517-dengue.png",
+      "publishedAt": "2023-09-28 12:45:19",
+      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+357 chars]",
+      "retrievedAt": "2023-09-29 19:05:22.983113",
+      "internal_id": "48dc6e5cd605ae7d95a4beafb5d39c4d934455b274f92987d6e7aa59a23064e2",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2114,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Thanmay Arun",
+      "title": "What Is Eosinophilic Meningitis? Here's Everything About The Rare Infection That Spreads From Rodents",
+      "description": "Angiostrongylus cantonensis or rat lungworm worm causes a rare form of infection known as eosinophilic meningitis, which can cause paralysis and even death in severe cases.",
+      "url": "https://www.medicaldaily.com/what-eosinophilic-meningitis-heres-everything-about-rare-infection-that-spreads-rodents-470894",
+      "urlToImage": "https://d.medicaldaily.com/en/full/470225/representative-image-rat-parasitic-infections.jpg",
+      "publishedAt": "2023-09-28 12:17:23",
+      "content": "A parasitic worm that can affect the human brain and lead to coma or even death is spreading in the Southeastern United States. A new study, led by the Centers for Disease Control and Prevention (CD\u2026 [+2799 chars]",
+      "retrievedAt": "2023-09-29 19:05:23.493224",
+      "internal_id": "e94f2dfab3ae98cf7b23e5c2edcb6295d02d5ca4919bd2db1a145cb4c491101e",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2115,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Standforhealthfreedom.com",
+      "author": null,
+      "title": "Shining a light on meningitis - STAND FOR HEALTH FREEDOM",
+      "description": "Many people have been wanting to know the story behind the meningitis vaccine. We must pause for a fact check: There is no meningitis vaccine.",
+      "url": "https://standforhealthfreedom.com/meningitis/",
+      "urlToImage": "https://standforhealthfreedom.com/wp-content/uploads/2023/09/Shot_article_Rankmath-3.png",
+      "publishedAt": "2023-09-28 11:19:43",
+      "content": "Many people have been wanting to know the story behind the meningitis vaccine. We must pause for a fact check: There is no meningitis vaccine. Say what? There is a shot referred to as the meningiti\u2026 [+19211 chars]",
+      "retrievedAt": "2023-09-29 19:05:23.501748",
+      "internal_id": "9f46d6208081113131c16475295a0b3a691ae8a2f388d0b0736552a82bfcdd5b",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2116,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Alberto G. Palomo",
+      "title": "La malaria se hace resistente a su ant\u00eddoto: se complican las opciones de una cura en el futuro",
+      "description": "El par\u00e1sito 'Plasmodium falciparum' ha desarrollado defensas a las artemisininas, el elemento principal de los tratamientos actuales.",
+      "url": "https://www.elespanol.com/ciencia/20230928/malaria-hace-resistente-antidoto-complican-opciones-cura-futuro/797920355_0.html",
+      "urlToImage": "https://s1.eestatic.com/2022/06/03/ciencia/677442947_236375923_1200x630.jpg",
+      "publishedAt": "2023-09-28 11:13:45",
+      "content": "La malaria es una de esas enfermedades que a\u00fan se escapan al control de la medicina. Seg\u00fan la Organizaci\u00f3n Mundial de la Salud, millones de personas cada a\u00f1o, sobre todo en \u00c1frica, acaban siendo cont\u2026 [+5689 chars]",
+      "retrievedAt": "2023-09-29 19:05:23.902145",
+      "internal_id": "681bacfcbd46086b77881f67eb7c383618fc1d6582a6afcdd85604a2962f25f3",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2112,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Mar\u00eda Hermida",
+      "title": "El atleta Gustavo Dacal, que estuvo entre la vida y la muerte, cada vez m\u00e1s campe\u00f3n: \u00abDucharme o vestirme es ahora una batalla, pero estoy aqu\u00ed\u00bb",
+      "description": "Con secuelas importantes nueve meses despu\u00e9s de contagiarse dengue, el lanzador de jabalina transmiti\u00f3 su entusiasmo por el deporte a los ni\u00f1os de su tierra, Ponte Caldelas",
+      "url": "https://www.lavozdegalicia.es/noticia/pontevedra/pontecaldelas/2023/09/28/atleta-gustavo-dacal-estuvo-vida-muerte-vez-campeon-ducharme-vestirme-batalla-/00031695888961763218424.htm",
+      "urlToImage": "https://www.lavozdegalicia.es/default/2023/09/28/00121695893822004673643/Foto/P_20230928_100429000.jpg",
+      "publishedAt": "2023-09-28 09:39:00",
+      "content": "Diciembre del 2022 avanzaba en el calendario cuando a la familia del atleta Gustavo Dacal (Ponte Caldelas, 1977) recibi noticias preocupantes desde Mxico. El atleta, diez veces campen de Espaa en lan\u2026 [+3178 chars]",
+      "retrievedAt": "2023-09-29 19:05:22.969025",
+      "internal_id": "053d84d4059f677ea71a71354c03fd971d91005c3d9bb8392b03d10179fa1107",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2104,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "World Rabies Day: NVMA advocates responsible pet ownership",
+      "description": "The Nigerian Veterinary Medical Association has urged pet owners to keep their pets within their premises and ensure they are fully vaccinated against rabies. The National President of the association, Dr. Oluwatoyin Adetuberu, made the call in an interview w\u2026",
+      "url": "https://punchng.com/world-rabies-day-nvma-advocates-responsible-pet-ownership/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/28103704/NVMA.jpg",
+      "publishedAt": "2023-09-28 09:37:24",
+      "content": "The Nigerian Veterinary Medical Association has urged pet owners to keep their pets within their premises and ensure they are fully vaccinated against rabies. The National President of the associati\u2026 [+1741 chars]",
+      "retrievedAt": "2023-09-29 19:05:22.266666",
+      "internal_id": "1f93c11e488ca665ebff0f3a64ae7b7f8915755c1abcac862546abf9d835b2d0",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2106,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "National Observer",
+      "author": "Emily Mullin",
+      "title": "The massive campaign to air-drop tasty rabies vaccines to raccoons",
+      "description": "Raccoons are a main carrier of rabies in the U.S. A government effort wants to distribute millions of tasty vaccines to protect both animals and people.",
+      "url": "https://www.nationalobserver.com/2023/09/28/news/massive-campaign-air-drop-tasty-rabies-vaccines-raccoons",
+      "urlToImage": "https://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_social/public/img/2023/09/25/52369711305_641353836b_h.jpg?itok=pGFbw8BE",
+      "publishedAt": "2023-09-28 09:14:36",
+      "content": "This story was originally published by Wired and appears here as part of the Climate Desk collaboration. This August, government airplanes and helicopters were dropping tiny parcels from the sky for\u2026 [+9097 chars]",
+      "retrievedAt": "2023-09-29 19:05:22.277469",
+      "internal_id": "136efe5eb549c35d498469fc1075b9af27d2fc80083730757a61c8eed69b94b8",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2110,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Ana Sofia Neto",
+      "title": "Mosquito que transmite dengue e zika aterrou em Lisboa pela primeira vez",
+      "description": "Embora tenha sido detetada no norte de Portugal, em 2017, esta foi a primeira vez que a esp\u00e9cie de mosquitos aterrou em Lisboa. H\u00e1 infe\u00e7\u00f5es que, a menos que viajemos, nos s\u00e3o muito distantes,...",
+      "url": "https://pplware.sapo.pt/ciencia/mosquito-que-transmite-dengue-e-zika-aterrou-em-lisboa-pela-primeira-vez/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2023/09/Aedes-Albopictus_B00.jpg",
+      "publishedAt": "2023-09-28 08:40:24",
+      "content": "Embora tenha sido detetada no norte de Portugal, em 2017, esta foi a primeira vez que a esp\u00e9cie de mosquitos aterrou em Lisboa. H\u00e1 infe\u00e7\u00f5es que, a menos que viajemos, nos s\u00e3o muito distantes, pois n\u2026 [+1448 chars]",
+      "retrievedAt": "2023-09-29 19:05:22.926226",
+      "internal_id": "fd64be5622497db7bf3807e8cf4520c9f2ad6b63614470912d7d0dc9e191e9ff",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2117,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "Burkina Faso: 89 cas confirm\u00e9s de chikungunya dans la r\u00e9gion du Centre-Est",
+      "description": "Le Burkina Faso a enregistr\u00e9 89 cas confirm\u00e9s de chikungunya \u00e0 Pouytengan, dans la r\u00e9gion du Centre-Est, a annonc\u00e9 le 27 septembre le minist\u00e8re burkinab\u00e8 de la Sant\u00e9 et de l'Hygi\u00e8ne publique.",
+      "url": "https://fr.sputniknews.africa/20230928/burkina-faso-89-cas-confirmes-de-chikungunya-dans-la-region-du-centre-est-1062406737.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1062406737.jpg?10623517331695888013",
+      "publishedAt": "2023-09-28 08:00:12",
+      "content": "https://fr.sputniknews.africa/20230928/burkina-faso-89-cas-confirmes-de-chikungunya-dans-la-region-du-centre-est-1062406737.html Burkina Faso: 89 cas confirm\u00e9s de chikungunya dans la r\u00e9gion du Centr\u2026 [+2608 chars]",
+      "retrievedAt": "2023-09-29 19:05:24.646678",
+      "internal_id": "33d85f1019b510e43aebfebb03c348340db7af42c542013f04627df258a2b3e4",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2109,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Derek Cai - BBC News, Singapore",
+      "title": "Bangladesh: Nearly 1,000 people die of dengue in severe outbreak",
+      "description": "Worst outbreak on record is blamed on wet weather allowing virus-carrying mosquitoes to spread.",
+      "url": "https://www.bbc.com/news/world-asia-66944315?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/1748684cb7e60fcc45f5d849dc829053",
+      "publishedAt": "2023-09-28 07:52:55",
+      "content": "Nearly 1,000 people have died of dengue in Bangladesh in recent weeks, in what authorities say is the country's most severe outbreak of the disease yet. Extraordinarily wet monsoons have made it eas\u2026 [+1939 chars]",
+      "retrievedAt": "2023-09-29 19:05:22.922201",
+      "internal_id": "39f801269c364f1f9e03a73a598d4059a9ddd04107c83e8205b53dac13357fd3",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2108,
+      "query": [
+        "measles",
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "radiodabanga@gmail.com (Dabanga)",
+      "title": "Dengue Fever, Cholera, and Measles On the Rise in Sudan",
+      "description": "[Dabanga] El Gedaref / El Gezira / Khartoum / Omdurman -- The federal Ministry of Health, working from Port Sudan, capital of Red Sea state, has registered hundreds of suspected cases of dengue fever and watery diarrhoea in El Gedaref and El Gezira. Cholera a\u2026",
+      "url": "https://allafrica.com/stories/202309280083.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-28 07:45:34",
+      "content": "El Gedaref / El Gezira / Khartoum / Omdurman \u2014 The federal Ministry of Health, working from Port Sudan, capital of Red Sea state, has registered hundreds of suspected cases of dengue fever and watery\u2026 [+6337 chars]",
+      "retrievedAt": "2023-09-29 19:05:22.544288",
+      "internal_id": "fb5898d320b49212951630fb0fcb245d009be060fd620a2fc3bf30c52b8e363c",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2111,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Bangladesh: Nearly 1,000 people die of dengue in severe outbreak",
+      "description": "Extraordinarily wet monsoons have given dengue-carrying mosquitoes fertile breeding ground.",
+      "url": "https://www.bbc.co.uk/news/world-asia-66944315",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BA15/production/_131273674_bangladeshdengue.png",
+      "publishedAt": "2023-09-28 07:29:44",
+      "content": "Nearly 1,000 people have died of dengue in Bangladesh in recent weeks, in what authorities say is the country's most severe outbreak of the disease yet. Extraordinarily wet monsoons have made it eas\u2026 [+1868 chars]",
+      "retrievedAt": "2023-09-29 19:05:22.937058",
+      "internal_id": "f1f97dc583418dcacefcabe1c853c1851cf2d88780574cf66b4d9723d95d894e",
+      "publishedAtLabel": "Sep 28"
+    },
     {
       "id": 2089,
       "query": [
@@ -3317,312 +3625,6 @@
       "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
       "retrievedAt": "2023-09-20 07:05:51.029246",
       "internal_id": "c0df077c50a965f929f7ced66a87e46a4f6699d8bba11701d99270b2c6d267d8",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1908,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jamaica Observer",
-      "author": null,
-      "title": "Health ministry to intensify efforts to prevent dengue outbreak, says Tufton",
-      "description": "KINGSTON, Jamaica \u2013 With an almost five-fold increase in suspected and confirmed cases of dengue fever, the Ministry of Health and Wellness has ramped up measures to prevent an outbreak of the mosquit...",
-      "url": "https://www.jamaicaobserver.com/latest-news/health-ministry-to-intensify-efforts-to-prevent-dengue-outbreak-says-tufton/",
-      "urlToImage": "https://imengine.public.prod.jam.navigacloud.com/?uuid=8f785ef2-66ec-5733-9fd2-0738f1259c8d&function=fit&type=preview",
-      "publishedAt": "2023-09-18 18:02:19",
-      "content": "Minister of Health and Wellness, Dr Christopher Tufton, speaks during a press conference on Wednesday, September 13 at the Ministrys offices in Kingston. (Photo: JIS) KINGSTON, Jamaica With an almos\u2026 [+3419 chars]",
-      "retrievedAt": "2023-09-19 19:05:30.666197",
-      "internal_id": "59b21c4cb092700aecbda929c2b027894f34417cec61ee87c4d94f64874a6423",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1917,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Zion Market Research",
-      "title": "Typhoid Antibody Testing Market Size, Outlook: Exploring the 6.55% CAGR and USD 12.36 Billion Projection by 2030",
-      "description": "[222 + Pages Report] According to a market research study published by Zion Market Research, the demand analysis of Global Typhoid Antibody Testing Market size & share revenue was valued at around USD 7.42 billion in 2022 and is estimated to grow about USD 12\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/09/18/2745145/0/en/Typhoid-Antibody-Testing-Market-Size-Outlook-Exploring-the-6-55-CAGR-and-USD-12-36-Billion-Projection-by-2030.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/1f4cf0ab-7d76-4136-a6dc-a5545f80f538",
-      "publishedAt": "2023-09-18 17:32:00",
-      "content": "New York, NY, Sept. 18, 2023 (GLOBE NEWSWIRE) -- Zion Market Research has published a new research report titled Typhoid Antibody Testing Market By End-User (Hospitals, Serological Testing Centers, C\u2026 [+20978 chars]",
-      "retrievedAt": "2023-09-19 19:05:32.096776",
-      "internal_id": "148cb3855406631eeb1368216e12f2aea0c917b99a7ee9fa7076a34e8f97e323",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1905,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Dengue, anche a Latina disinfestazione",
-      "description": "Al via, a partire dalla giornata di oggi, un nuovo ciclo di disinfestazione contro le zanzare nella citt\u00e0 di Latina, effettuata anche per prevenire possibili casi di virus Dengue. Gli interventi si svolgeranno dal 18 al 22 settembre, dalle ore 23 alle ore 4. \u2026",
-      "url": "https://www.ansa.it/lazio/notizie/2023/09/18/dengue-anche-a-latina-disinfestazione_7a531a98-fdc1-4c4e-a25b-868d792c574a.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/9/6/ec653cf59a220475e2cd717f77758bfa.jpg",
-      "publishedAt": "2023-09-18 17:03:24",
-      "content": "Al via, a partire dalla giornata di oggi, un nuovo ciclo di disinfestazione contro le zanzare nella citt\u00e0 di Latina, effettuata anche per prevenire possibili casi di virus Dengue. Gli interventi\u2026 [+921 chars]",
-      "retrievedAt": "2023-09-19 19:05:30.656401",
-      "internal_id": "e69e10cdec48e2988b4417b5028ecbc945f64c808a7073bafb65f7599252c67a",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1918,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Livemint",
-      "author": "Nidhi Verma",
-      "title": "How do I file a complaint against rejection of insurance claim?",
-      "description": "Since, the amount of claim is only \u20b92 lakh, you can file a complaint with the district consumer disputes redressal forum.",
-      "url": "https://www.livemint.com/money/personal-finance/insurance-claim-denied-for-typhoid-hospitalization-what-are-my-options-for-getting-compensation-11695056576299.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/18/600x338/You-can-file-a-complaint-with-the-consumer-Court--_1695056545046.jpg",
-      "publishedAt": "2023-09-18 17:02:55",
-      "content": "I bought my health insurance policy in 2016 for myself and my wife. I renewed the policy every year by paying timely premiums till last year. In December 2022, I suffered from typhoid and was admitte\u2026 [+2097 chars]",
-      "retrievedAt": "2023-09-19 19:05:32.098834",
-      "internal_id": "eb47e0d48de679e380bc9f63ef27f1465d74367f5512c47d82dd27341d8c2177",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1906,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Effetto clima, salgono i casi febbre del Nilo e Dengue",
-      "description": "Andreoni: \"La tropicalizzazione del Paese porta malattie nuove\" (ANSA)",
-      "url": "https://www.ansa.it/sito/videogallery/italia/2023/09/18/effetto-clima-salgono-i-casi-febbre-del-nilo-e-dengue_08924f2b-a514-4213-9555-66fff6389d89.html",
-      "urlToImage": "https://www.ansa.it",
-      "publishedAt": "2023-09-18 16:06:08",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2023-09-19 19:05:30.657864",
-      "internal_id": "d797eccf810d96ee5fb8908e8912aab783cec2b2690424d11abe52c73cd34b80",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1903,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Standaard.be",
-      "author": "Maxie Eckert",
-      "title": "\u2018Tropische\u2019 ziekte dengue is stilaan ook een Europese ziekte",
-      "description": "In Itali\u00eb en Frankrijk hebben deze zomer al minstens 25 mensen via een steek van de Aziatische tijgermug de tropische ziekte dengue opgelopen. Het virus spint er garen bij dat de muggen die de ziekte doorgeven, wereldwijd oprukken \u2013 ook in Europa.",
-      "url": "https://www.standaard.be/cnt/dmf20230918_94084675",
-      "urlToImage": "https://static.standaard.be/Assets/Images_Upload/2023/09/18/e6bb6e67-0ab1-451a-81b8-733b25b930d9.jpg?maxheight=416&maxwidth=568",
-      "publishedAt": "2023-09-18 14:30:00",
-      "content": "Gezondheid In Itali\u00eb en Frankrijk hebben deze zomer al minstens 25 mensen via een steek van de Aziatische tijgermug de tropische ziekte dengue opgelopen. Het virus spint er garen bij dat de muggen d\u2026 [+57 chars]",
-      "retrievedAt": "2023-09-19 19:05:30.646267",
-      "internal_id": "868b7dba56ade026ad42e5a4f0563e4eeea5c248629edff5ad4148c57b7d9756",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1907,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Abubakar Shettima, Intan Haslina Ishak, Benjamin Lau, Hadura Abu Hasan, Noorizan Miswan, Nurulhasanah Othman",
-      "title": "Quantitative proteomics analysis of permethrin and temephos-resistant Ae. aegypti revealed diverse differentially expressed proteins associated with insecticide resistance from Penang Island, Malaysia",
-      "description": "Author summary The study aimed to understand the protein expression profiles in Ae. aegypti mosquitoes resistant to permethrin and temephos insecticides using quantitative proteomics. The results revealed permethrin and temephos resistance in Ae. aegypti deng\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011604",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011604.g008&size=inline",
-      "publishedAt": "2023-09-18 14:00:00",
-      "content": "1. Introduction Insecticide resistance in the Ae. aegypti contributes to the dengue burden in Malaysia and other tropical countries. Apart from dengue, Ae. aegypti is also a vector for transmitting \u2026 [+73592 chars]",
-      "retrievedAt": "2023-09-19 19:05:30.660190",
-      "internal_id": "ce9ce027584bc399d96d5cb4f88ecccc01aa21736994bb10918c1db51df3b3f8",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1915,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Christopher E. Overton, Sam Abbott, Rachel Christie, Fergus Cumming, Julie Day, Owen Jones, Rob Paton, Charlie Turner, Thomas Ward",
-      "title": "Nowcasting the 2022 mpox outbreak in England",
-      "description": "Author summary During 2022, outbreaks of mpox, the disease caused by the monkeypox virus, occurred simultaneously in multiple non-endemic countries, including England. These outbreaks were distinct from historic outbreaks with a majority of cases in gay, bise\u2026",
-      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011463",
-      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1011463.g010&size=inline",
-      "publishedAt": "2023-09-18 14:00:00",
-      "content": "Citation: Overton CE, Abbott S, Christie R, Cumming F, Day J, Jones O, et al. (2023) Nowcasting the 2022 mpox outbreak in England. PLoS Comput Biol 19(9): e1011463. https://doi.org/10.1371/journal\u2026 [+54466 chars]",
-      "retrievedAt": "2023-09-19 19:05:31.948766",
-      "internal_id": "f2df2652b56eb536f6c55af803c7e8a6bfec427057de87f511feac05258a1029",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1914,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "handelsblatt",
-      "source_name": "Handelsblatt",
-      "author": "Handelsblatt",
-      "title": "Pharmaindustrie: Biontech will Mpox-Impstoff entwickeln \u2013 Geldspritze von CEPI",
-      "description": "Die CEPI unterst\u00fctzt das Biotechunternehmen bei der Entwicklung mit bis zu 90 Millionen Dollar. 2022 hatte der Ausbruch der Affenpocken in Europa f\u00fcr Schlagzeilen gesorgt.",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/pharmaindustrie-biontech-will-mpox-impstoff-entwickeln-geldspritze-von-cepi/29397444.html",
-      "urlToImage": "https://www.handelsblatt.com/images/biontech/29397474/2-format2003.jpg",
-      "publishedAt": "2023-09-18 13:17:00",
-      "content": "BiontechEine klinische Studie der Phase-1/2 f\u00fcr das Impfstoffprogramm gegen das ehemals als Affenpocken bekannte Virus befindet sich in Vorbereitung. (Foto: Reuters) Frankfurt Das Biotechunternehme\u2026 [+1231 chars]",
-      "retrievedAt": "2023-09-19 19:05:31.946975",
-      "internal_id": "8a01d1ba3078f0b044b478a568ff79379d7b18d04d2dd9d52e2ec2217c9a89b1",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1916,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "MarketWatch",
-      "author": "Ciara Linnane",
-      "title": ": BioNTech and CEPI to partner to advance an mRNA-based Mpox vaccine",
-      "description": "BioNTech SE BNTX and the Norwegian-based Coalition for Epidemic Preparedness Innovations, or CEPI, said Monday they are partnering to advance an mRNA-based Mpox vaccine. BioNTech will start a Phase 1/2 clinical trial of the vaccine called BNT166, while CEPI w\u2026",
-      "url": "https://www.marketwatch.com/story/biontech-and-cepi-to-partner-to-advance-an-mrna-based-mpox-vaccine-73acaa71",
-      "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-      "publishedAt": "2023-09-18 11:07:18",
-      "content": "BioNTech SE BNTX, -0.66% and the Norwegian-based Coalition for Epidemic Preparedness Innovations, or CEPI, said Monday they are partnering to advance an mRNA-based Mpox vaccine. BioNTech will s\u2026 [+919 chars]",
-      "retrievedAt": "2023-09-19 19:05:31.950077",
-      "internal_id": "e3f90217d45dcf65af3af71bd330e9df10edb18bf993a0e0d7e9d8b1f37990cc",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1909,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "lenta",
-      "source_name": "Lenta",
-      "author": "\u041d\u0438\u043d\u0430 \u0422\u0430\u0448\u0435\u0432\u0441\u043a\u0430\u044f",
-      "title": "\u0427\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0443 \u043f\u0440\u0435\u0434\u0440\u0435\u043a\u043b\u0438 \u043f\u0440\u043e\u0432\u0430\u043b \u0432 \u0431\u043e\u0440\u044c\u0431\u0435 \u0441 \u0442\u0440\u0435\u043c\u044f \u043e\u043f\u0430\u0441\u043d\u0435\u0439\u0448\u0438\u043c\u0438 \u0431\u043e\u043b\u0435\u0437\u043d\u044f\u043c\u0438",
-      "description": "\u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u043e\u0435 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043a\u043b\u0438\u043c\u0430\u0442\u0430 \u0438 \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0435 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u044b \u0432 \u043c\u0438\u0440\u0435 \u043c\u0435\u0448\u0430\u044e\u0442 \u043b\u044e\u0434\u044f\u043c \u043f\u043e\u0431\u043e\u0440\u043e\u0442\u044c \u0421\u041f\u0418\u0414, \u0442\u0443\u0431\u0435\u0440\u043a\u0443\u043b\u0435\u0437 \u0438 \u043c\u0430\u043b\u044f\u0440\u0438\u044e. \u041f\u0440\u043e\u0432\u0430\u043b \u0432 \u0438\u0437\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u043e\u0442 \u0442\u0440\u0435\u0445 \u043e\u043f\u0430\u0441\u043d\u0435\u0439\u0448\u0438\u0445 \u0431\u043e\u043b\u0435\u0437\u043d\u0435\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0435\u0441\u0442\u0432\u0443 \u043f\u0440\u0435\u0434\u0440\u0435\u043a\u043b\u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u044b The Global Fund to Fight AIDS, Tuberculosis and Malaria \u0432 \u0441\u0432\u043e\u0435\u043c \u0435\u0436\u2026",
-      "url": "https://lenta.ru/news/2023/09/18/proval/",
-      "urlToImage": "https://icdn.lenta.ru/images/2023/09/18/13/20230918135704433/share_e8048cbf98c263ee709d04e6b52ea970.jpg",
-      "publishedAt": "2023-09-18 10:52:00",
-      "content": ", . The Global Fund to Fight AIDS, Tuberculosis and Malaria (\u00ab , \u00bb, The Global Fund) . , 2030 \u00ab \u00bb. , , , , . . , 2070 . , , COVID-19, . , .",
-      "retrievedAt": "2023-09-19 19:05:31.219370",
-      "internal_id": "0d9f55ceba5bc3c815b70a09771524ac72851d4c848eae75722c3a5d01c53a1c",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1912,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "GlobeNewswire",
-      "title": "BioNTech and CEPI Announce Partnership to Advance mRNA Mpox Vaccine Development and Support CEPI's 100 Days Mission",
-      "description": "(marketscreener.com) BioNTech is initiating a Phase 1/2 clinical trial of the mRNA-based mpox vaccine program, BNT166The Coalition for Epidemic Preparedness Innovations commits funding of up to $90 million for the development of vaccine candidatesData generat\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/BIONTECH-SE-66771992/news/BioNTech-and-CEPI-Announce-Partnership-to-Advance-mRNA-Mpox-Vaccine-Development-and-Support-CEPI-s-1-44864549/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-09-18 10:46:03",
-      "content": "BioNTech is initiating a Phase 1/2 clinical trial of the mRNA-based mpox vaccine program, BNT166The Coalition for Epidemic Preparedness Innovations (CEPI) commits funding of up to $9\u2026 [+14478 chars]",
-      "retrievedAt": "2023-09-19 19:05:31.943866",
-      "internal_id": "dc71b5cdc6e1560a3662d562e9d162741a3794b1b6818f073dec4cc7baa8f1ba",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1911,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "BioNTech SE",
-      "title": "BioNTech und CEPI geben Partnerschaft zur Entwicklung eines mRNA-Mpox-Impfstoffs und zur Unterst\u00fctzung von CEPIs 100-Tage-Ziel bekannt",
-      "description": "MAINZ, Deutschland und OSLO, Norwegen, 18. September 2023 \u2014 BioNTech SE (Nasdaq: BNTX, \u201eBioNTech\u201c, \u201edas Unternehmen\u201c) und die Coalition for Epidemic Preparedness Innovations (\u201eCEPI\u201c) gaben heute den Abschluss einer strategischen Partnerschaft bekannt, um \u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/09/18/2744601/0/de/BioNTech-und-CEPI-geben-Partnerschaft-zur-Entwicklung-eines-mRNA-Mpox-Impfstoffs-und-zur-Unterst%C3%BCtzung-von-CEPIs-100-Tage-Ziel-bekannt.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/b9e2e00e-f790-4d54-a01f-4c85716b01bd",
-      "publishedAt": "2023-09-18 10:45:00",
-      "content": "BioNTech bereitet klinische Phase-1/2-Studie f\u00fcr das mRNA-basierte Mpox-Impfstoffprogramm BNT166 vorDie Coalition for Epidemic Preparedness Innovations (CEPI) stellt bis zu 90 Millio\u2026 [+17288 chars]",
-      "retrievedAt": "2023-09-19 19:05:31.941550",
-      "internal_id": "fc647ff91704eabc84a77dac90130455834babbc78d3f4190e3cc97627bad2f9",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1913,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "BioNTech SE",
-      "title": "BioNTech and CEPI Announce Partnership to Advance mRNA Mpox Vaccine Development and Support CEPI\u2019s 100 Days Mission",
-      "description": "MAINZ, Germany, and OSLO, Norway, September 18, 2023 \u2014 BioNTech SE (Nasdaq: BNTX, \u201cBioNTech\u201d, \"the Company\") and the Coalition for Epidemic Preparedness Innovations (CEPI) today announced a strategic partnership to advance mRNA-based vaccine candidates wi\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/09/18/2744601/0/en/BioNTech-and-CEPI-Announce-Partnership-to-Advance-mRNA-Mpox-Vaccine-Development-and-Support-CEPI-s-100-Days-Mission.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/b9e2e00e-f790-4d54-a01f-4c85716b01bd",
-      "publishedAt": "2023-09-18 10:45:00",
-      "content": "BioNTech is initiating a Phase 1/2 clinical trial of the mRNA-based mpox vaccine program, BNT166The Coalition for Epidemic Preparedness Innovations (CEPI) commits funding of up to $9\u2026 [+14478 chars]",
-      "retrievedAt": "2023-09-19 19:05:31.945727",
-      "internal_id": "750193779e9f6d1d6a820f895c0e47e23ab00ee080529c64fd1481271c6cd9cf",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1910,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Climate change hitting fight against AIDS, TB and malaria - Reuters",
-      "description": "Climate change hitting fight against AIDS, TB and malariaReuters View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171846922",
-      "urlToImage": null,
-      "publishedAt": "2023-09-18 09:32:09",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
-      "retrievedAt": "2023-09-19 19:05:31.230176",
-      "internal_id": "4eda39a2c74825485a22784f3b41291d7fca782e388745d71c9e5a32f08e9938",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1904,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TIMESOFINDIA.COM",
-      "title": "New dengue strain found in Delhi NCR",
-      "description": "\u200bThe new dengue strain in discussion is the DENV 2 strain or the D2 strain. This strain of the virus is spreading rapidly and has become a serious concern for health experts. As per reports, nearly one-third of the samples obtained in Delhi-NCR have the D2 st\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/new-dengue-strain-found-in-delhi-ncr-symptoms-prevention/photostory/103752188.cms",
-      "urlToImage": "https://static.toiimg.com/photo/103752220.cms",
-      "publishedAt": "2023-09-18 08:30:00",
-      "content": "The common symptoms seen in those infected with the D2 strain of the virus are a sudden drop in platelet count, a higher risk of dengue hemorrhagic fever, high fever, headache, pain behind the eyes, \u2026 [+221 chars]",
-      "retrievedAt": "2023-09-19 19:05:30.654263",
-      "internal_id": "a6c45c929f5e37732a3e4884b219b87adf986385549ff867c8f0ec746ef6f961",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1891,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Dengue patients of countryside in great trouble",
-      "description": "The dengue patients in the countryside have got into deep trouble due to manyfold problems, including lack of facilities for better treatment and saline and test kit crises. The problems have been deepened as health authorities have asked local health officia\u2026",
-      "url": "https://sylhetmirror.com/2023/09/18/dengue-patients-of-countryside-in-great-trouble/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/09/776651-1.jpg",
-      "publishedAt": "2023-09-18 06:50:19",
-      "content": "The dengue patients in the countryside have got into deep trouble due to manyfold problems, including lack of facilities for better treatment and saline and test kit crises. The problems have been d\u2026 [+3966 chars]",
-      "retrievedAt": "2023-09-19 07:05:42.367393",
-      "internal_id": "32262666c31ad44f3282ef1f912703f8943a98e31f8f9ef5134828beb5bad319",
       "publishedAtLabel": "Sep 18"
     }
   ]
