@@ -1,8 +1,350 @@
 {
-  "last_updated": "2023-09-30 07:05",
+  "last_updated": "2023-09-30 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 2126,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Mumbai Civic Body Plans To Vaccinate 15,000 Stray Dogs During 10-Day Drive",
+      "description": "A total of 15,000 stray dogs will be vaccinated in Mumbai during a 10-day drive to make the metropolis rabies free, a civic official said on Friday.",
+      "url": "https://www.ndtv.com/mumbai-news/mumbai-civic-body-plans-to-vaccinate-15-000-stray-dogs-during-10-day-drive-4436870",
+      "urlToImage": "https://i.ndtvimg.com/i/2017-09/stray-dog-generic-stockshot-650_650x400_51505906887.jpg",
+      "publishedAt": "2023-09-29 18:20:25",
+      "content": "A total of 15,000 stray dogs will be vaccinated in Mumbai during a 10-day drive. (Representational) Mumbai: A total of 15,000 stray dogs will be vaccinated in Mumbai during a 10-day drive to make th\u2026 [+1581 chars]",
+      "retrievedAt": "2023-09-30 19:05:08.499192",
+      "internal_id": "0491dd05cc3a549e220f6e7b30e6016089f504dd3cfe518073fa0d5a722477dc",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2142,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Christiane  Oelrich, dpa",
+      "title": "Neue \u00c4ra der HIV-Pr\u00e4vention: Vaginalringe sollen in S\u00fcdafrika Infektionen verhindern",
+      "description": "Ein neues Produkt im Kampf gegen Aids soll Frauen mehr Kontrolle \u00fcber ihre Gesundheit geben. Andere L\u00e4nder sollen dem Beispiel S\u00fcdafrikas folgen, hofft man beim Globalen Fonds.",
+      "url": "https://www.tagesspiegel.de/wissen/neue-ara-der-hiv-pravention-vaginalringe-sollen-in-sudafrika-infektionen-verhindern-10549147.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/genf-schweiz-27-mai-2021-das-emblem-von-unaids-in-genf-welche-zur-who-world-health-organization-gehort/alternates/BASE_16_9_W1400/genf-schweiz---27-mai-2021-das-emblem-von-unaids-in-genf-welche-zur-who-world-health-organization-gehoert.jpeg",
+      "publishedAt": "2023-09-29 15:55:16",
+      "content": "In S\u00fcdafrika beginnt der Einsatz eines neuen Produkts im Kampf gegen HIV-Infektionen. Der Globale Fonds zur Bek\u00e4mpfung von Aids, Tuberkulose und Malaria spricht von einer neuen \u00c4ra, wie er am Freitag\u2026 [+2097 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.675077",
+      "internal_id": "b372bc5fd3083d49f37c4041e6113b642611ff1b6af4dfcd8b35ad284c230f07",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2135,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Nel Lazio incremento estivo di dengue, durer\u00e0 tutto ottobre",
+      "description": "Nei mesi estivi nel Lazio vi \u00e8 stato un incremento di casi di febbre dengue, malattia di origine virale trasmessa agli esseri umani dalle zanzare che hanno, a loro volta, punto una persona infetta; non si ha contagio diretto tra esseri umani, anche se l'uo...\u2026",
+      "url": "https://www.ansa.it/lazio/notizie/2023/09/29/nel-lazio-incremento-estivo-di-dengue-durera-tutto-ottobre_8d19d6b0-4217-41e6-91e0-af20525c724a.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2020/1/31/11f8adf2ed6afa23cb9f065d93e37713.jpg",
+      "publishedAt": "2023-09-29 15:27:46",
+      "content": "Nei mesi estivi nel Lazio vi \u00e8 stato un incremento di casi di febbre dengue, malattia di origine virale trasmessa agli esseri umani dalle zanzare che hanno, a loro volta, punto una persona infetta\u2026 [+1761 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.062055",
+      "internal_id": "189bb0ff9ebb51dabeba82e5b7a18f6e7891a870c72017e9dc2179f6911a8e76",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2132,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "A.B.",
+      "title": "Dr\u00f4me. Suspicion de deux cas autochtones de dengue : bient\u00f4t une op\u00e9ration de d\u00e9moustication ?",
+      "description": "L\u2019agence r\u00e9gionale de sant\u00e9 a men\u00e9, ce vendredi 29 septembre, une enqu\u00eate dans la ville de Bourg-l\u00e8s-Valence (Dr\u00f4me) apr\u00e8s une suspicion de deux cas autochtones de dengue, c\u2019est-\u00e0-dire non import\u00e9s. Il s\u2019agirait des premiers en Auvergne-Rh\u00f4ne-Alpes pour cette\u2026",
+      "url": "https://www.ledauphine.com/sante/2023/09/29/suspicion-de-deux-cas-autochtones-de-dengue-bientot-une-operation-de-demoustication",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/BF5030AD-C7BD-4B31-850B-2863D6CD748F/FB1200/photo-1695998609.jpg",
+      "publishedAt": "2023-09-29 14:43:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.048367",
+      "internal_id": "fa2014b91cefcba5608711e90511a529a769c96c4ca0b96f93f3854f737b97fe",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2136,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "\u010cTK",
+      "title": "Najhor\u0161ia epid\u00e9mia v\u00f4bec. Dengue v Banglad\u00e9\u0161i zabila tento rok tis\u00edc \u013eud\u00ed",
+      "description": "Mimoriadne da\u017ediv\u00e9 monz\u00fanov\u00e9 obdobie \u0161\u00edrenie hor\u00fa\u010dky u\u013eah\u010dilo.",
+      "url": "https://spravy.pravda.sk/svet/clanok/683291-najhorsia-epidemia-vobec-dengue-v-bangladesi-zabila-tento-rok-tisic-ludi/",
+      "urlToImage": "http://ipravda.sk/res/2023/09/29/thumbs/dengue-clanokW.jpg",
+      "publishedAt": "2023-09-29 14:35:00",
+      "content": "Takmer tis\u00edcka ud\u00ed u v tomto roku zomrela v Banglad\u00e9i na hor\u00faku dengue. Poda \u00faradov ide o doteraz najv\u00e1nejiu epid\u00e9miu tejto choroby, ak\u00fa krajina zaila od zaiatku vyhotovovania z\u00e1znamov v roku 2000. I\u2026 [+536 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.066305",
+      "internal_id": "1adeaa6ee19316c40ef878c287489517cef7777813192bcf55b0a036cbe66c67",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2125,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "How disordered proteins contribute to the properties of the rabies virus",
+      "description": "A large team of international researchers have used techniques at ANSTO's Australian Synchrotron to understand how key proteins contribute to the virulence of the rabies virus, sometimes called the \"zombie virus.\"",
+      "url": "https://phys.org/news/2023-09-disordered-proteins-contribute-properties-rabies.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/how-disordered-protein.jpg",
+      "publishedAt": "2023-09-29 13:57:04",
+      "content": "A large team of international researchers have used techniques at ANSTO's Australian Synchrotron to understand how key proteins contribute to the virulence of the rabies virus, sometimes called the \"\u2026 [+4401 chars]",
+      "retrievedAt": "2023-09-30 19:05:08.480911",
+      "internal_id": "fdf29c3d89cb2f5f65263040176c672e977648edf5466b2361eb23c372b63b1d",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2128,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Science Skepticism Fuels Vaccine Hesitancy, Climate Denial",
+      "description": "[allAfrica] Climate change and vaccine hesitancy pose serious threats to public health",
+      "url": "https://allafrica.com/stories/202309290632.html",
+      "urlToImage": "https://cdn04.allafrica.com/download/pic/main/main/csiid/00590484:e39d89461e86ddbc12193912fb5f52ed:arc614x376:w1200.jpg",
+      "publishedAt": "2023-09-29 13:36:43",
+      "content": "Climate change and vaccine hesitancy pose serious threats to public health Vaccination is one of the most important ways to protect people against diseases such as measles, mumps, rubella, polio, di\u2026 [+20698 chars]",
+      "retrievedAt": "2023-09-30 19:05:08.733049",
+      "internal_id": "1065c23191fad32e090d6fb93e5743f17a11e58e8e265f5ef38195e76860dcb8",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2138,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Sun Daily",
+      "author": null,
+      "title": "Health DG: Dengue cases down 2.9%, three deaths reported",
+      "description": "PUTRAJAYA: The number of dengue fever cases dropped by 2.9 per cent to 2,310 cases in the 38th Epidemiological Week (ME38) for Sept 17 to 23, compared...",
+      "url": "https://www.thesundaily.my/local/health-dg-dengue-cases-down-29-three-deaths-reported-GA11555838",
+      "urlToImage": "https://www.thesundaily.my/binrepository/480x321/0c46/480d250/none/11808/VGBI/20200617181420-0t2a5187-01-3057783-20230322210655-3158685-20230511212302-3254647-20230627113520_3508680_20230929203648.jpg",
+      "publishedAt": "2023-09-29 12:46:36",
+      "content": "PUTRAJAYA: The number of dengue fever cases dropped by 2.9 per cent to 2,310 cases in the 38th Epidemiological Week (ME38) for Sept 17 to 23, compared with 2,380 cases reported in the previous week. \u2026 [+1318 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.076096",
+      "internal_id": "a2295bad5752caa8253e8b6c8dee99bfa086ab061baf72e2ed83772158fad61d",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2137,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Times of Israel",
+      "author": null,
+      "title": "Un Isra\u00e9lien positif \u00e0 la dengue apr\u00e8s un voyage au Mexique",
+      "description": "Les autorit\u00e9s luttent contre la prolif\u00e9ration des moustiques et de leurs \u0153ufs dans un rayon de 100 \u00e0 300 m\u00e8tres du domicile du malade",
+      "url": "https://fr.timesofisrael.com/un-israelien-positif-a-la-dengue-apres-un-voyage-au-mexique/",
+      "urlToImage": "https://static.timesofisrael.com/fr/uploads/2018/05/dengue-cropped-640x400-1024x640.jpg",
+      "publishedAt": "2023-09-29 11:29:47",
+      "content": "Un Isra\u00e9lien originaire de Kochav Yair, dans le nord du pays, a \u00e9t\u00e9 diagnostiqu\u00e9 positif \u00e0 la dengue apr\u00e8s un s\u00e9jour au Mexique ce mois-ci, a annonc\u00e9 vendredi le minist\u00e8re de la Sant\u00e9. Le minist\u00e8re \u2026 [+1671 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.068139",
+      "internal_id": "76344cd5b47ad25426eb1ef4bfd20905521047b9968fce424101f5cea64c9535",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2133,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nieuwsblad.be",
+      "author": "lto",
+      "title": "Cholera uitgebroken in conflictgebied Soedan",
+      "description": "In het door oorlog geteisterde Soedan is nu ook cholera uitgebroken. In de regio Gedaref, waar eerder al dengue werd vastgesteld, zijn al zestien mensen overleden als gevolg van de ziekte. Vermoedelijk zijn bijna driehonderd inwoners besmet. Dat meldt de Were\u2026",
+      "url": "https://www.nieuwsblad.be/cnt/dmf20230929_94175554",
+      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2023/09/29/8667d08a-90ef-4d7a-8b75-5265a649ea00.jpg?maxheight=460&maxwidth=638",
+      "publishedAt": "2023-09-29 11:26:40",
+      "content": "In het door oorlog geteisterde Soedan is nu ook cholera uitgebroken. In de regio Gedaref, waar eerder al dengue werd vastgesteld, zijn al zestien mensen overleden als gevolg van de ziekte. Vermoedeli\u2026 [+1642 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.050130",
+      "internal_id": "34ad1f277c33be49067060c75819e969bbc9a19de959597516f3554a78e1fba6",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2129,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Times of Israel",
+      "author": null,
+      "title": "Israel man diagnosed with dengue fever after returning from trip to Mexico",
+      "description": "Authorities carrying out extermination efforts against mosquitos within 100-meter radius of patient's home, breeding spots within 300-meter radius",
+      "url": "https://www.timesofisrael.com/israel-man-diagnosed-with-dengue-fever-after-returning-from-trip-to-mexico/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2018/03/dengue-cropped-1024x640.jpg",
+      "publishedAt": "2023-09-29 10:03:33",
+      "content": "An Israeli man living in the northern town of Kochav Yair was diagnosed with dengue fever after returning home from a trip to Mexico earlier this month, the Health Ministry said Friday. The ministry\u2026 [+1323 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.031083",
+      "internal_id": "30c14ab52273d304d823ea5d19ec8aeef1b37c201d78dc336ac0e7b03f46edf6",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2131,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "title": "Bourg-l\u00e8s-Valence . Suspicion de deux cas autochtones de dengue dans la Dr\u00f4me, les premiers en Auvergne Rh\u00f4ne-Alpes cette ann\u00e9e",
+      "description": "Les personnes concern\u00e9es auraient contract\u00e9 la maladie sur le territoire hexagonal et non pas au cours d\u2019un voyage \u00e0 l\u2019\u00e9tranger.",
+      "url": "https://www.ledauphine.com/sante/2023/09/29/suspicion-de-deux-cas-autochtones-de-dengue-dans-la-drome-les-premiers-en-auvergne-rhone-alpes-cette-annee",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/C3378E2B-65DE-4528-A8C1-77C3090AE6C4/FB1200/photo-1695981379.jpg",
+      "publishedAt": "2023-09-29 09:56:00",
+      "content": "Deux personnes pourraient avoir contract\u00e9 la dengue tout en \u00e9tant rest\u00e9es dans la Dr\u00f4me. C\u2019est ce que craint l\u2019Agence r\u00e9gionale de sant\u00e9 (ARS) Auvergne-Rh\u00f4ne-Alpes. Elle a en effet re\u00e7u le signalemen\u2026 [+1813 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.043207",
+      "internal_id": "0446e5454a78d998711c61882244aaaedc2eb2f32fb564f7aceceffc1b0fed47",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2140,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Yoliswa Sobuwa",
+      "title": "News24 | Partners in saving lives: Biovac and EuBiologics collaborate to produce meningitis vaccine in Africa",
+      "description": "South African biopharmaceutical manufacturer Biovac has signed a memorandum of understanding with Korea-based vaccine manufacturer EuBiologics for the technology transfer of a meningococcal meningitis pentavalent vaccine.",
+      "url": "https://www.news24.com/news24/southafrica/news/partners-in-saving-lives-biovac-and-eubiologics-collaborate-to-produce-meningitis-vaccine-in-africa-20230929",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9453/ce1f2bddc2b648fd8ec8a126f4b738bf.jpg",
+      "publishedAt": "2023-09-29 09:50:53",
+      "content": "South Africa's Biovac and Korean vaccines manufacturer EuBiologics have partnered up to produce a meningitis vaccine on African soil.Biovac says meningococcal disease is endemic in S\u2026 [+3717 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.389512",
+      "internal_id": "28a7673798e26fe50d9b76f321dded92f316c7eb9001fcf97c36a31b06b21956",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2130,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "By JERUSALEM POST STAFF",
+      "title": "Israeli infected with Dengue fever after trip abroad",
+      "description": "The Dengue virus is spread through the bite of female Asian tiger mosquitos. The virus does not spread directly between humans.",
+      "url": "https://www.jpost.com/health-and-wellness/article-760984",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/554536",
+      "publishedAt": "2023-09-29 09:31:37",
+      "content": "A resident of Kochav Yair-Tzur Yigal in central Israel was infected with Dengue fever after returning from a trip to Mexico, the Environmental Protection Ministry announced on Friday. According to t\u2026 [+1693 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.038116",
+      "internal_id": "e561f3a8587f628b69ac2ef1c451c4ae2e8eb9490475f315744393c527781880",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2141,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "S\u00fcdafrika: Vaginalring soll neue \u00c4ra der HIV-Pr\u00e4vention einleiten",
+      "description": "",
+      "url": "https://orf.at/stories/3332932/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2023-09-29 09:16:02",
+      "content": "In S\u00fcdafrika beginnt der Einsatz eines neuen Produkts im Kampf gegen HIV-Infektionen. Der Globale Fonds zur Bek\u00e4mpfung von Aids, Tuberkulose und Malaria spricht von einer neuen \u00c4ra, wie er heute in G\u2026 [+1633 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.670603",
+      "internal_id": "29835dea90481042bbda6c25f88c9e2ced658aa590042ce3ad8dcc8f5d841fbf",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2127,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigeria: 4.6 Billion People At Risk of Rabies Infection - WMA",
+      "description": "[Vanguard] ... Advocate incorporation of disease education in school curricula",
+      "url": "https://allafrica.com/stories/202309290097.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-29 08:02:24",
+      "content": "... Advocate incorporation of disease education in school curricula With 4.6 billion people at risk of rabies infection, the World Veterinary Association, WVA, and the World Medical Association, WMA\u2026 [+3089 chars]",
+      "retrievedAt": "2023-09-30 19:05:08.502809",
+      "internal_id": "5698a41bc1a1e8d118ec00130b25025b6eaeafb56567c374ddc29b6f23c20322",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2139,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Successful trial of dengue vaccine conducted in Bangladesh",
+      "description": "Icddr,b, and the Larner College of Medicine at the University of Vermont (UVM), jointly conducted trial of dengue vaccine for the first time in Bangladesh. The Larner College of Medicine at the University of Vermont (UVM) and icddr,b, are the first to study a\u2026",
+      "url": "https://sylhetmirror.com/2023/09/29/successful-trial-of-dengue-vaccine-conducted-in-bangladesh/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/09/766546.jpg",
+      "publishedAt": "2023-09-29 07:20:36",
+      "content": "Icddr,b, and the Larner College of Medicine at the University of Vermont (UVM), jointly conducted trial of dengue vaccine for the first time in Bangladesh. The Larner College of Medicine at the Univ\u2026 [+4648 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.082344",
+      "internal_id": "2b67f377833cc85eddca138f381be6738939226519e830201b83c704a02a4ead",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2134,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "radiodabanga@gmail.com (Dabanga)",
+      "title": "Sudan: Medics 'Sound the Alarm' On Cholera and Dengue",
+      "description": "[Dabanga] Sudan -- Medical professionals throughout Sudan report escalating numbers of Cholera and Dengue* fever rates, heightened by the arrival of seasonal rains and shortages in medical supplies.",
+      "url": "https://allafrica.com/stories/202309290078.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-09-29 07:17:45",
+      "content": "Sudan \u2014 Medical professionals throughout Sudan report escalating numbers of Cholera and Dengue* fever rates, heightened by the arrival of seasonal rains and shortages in medical supplies. The Federa\u2026 [+3865 chars]",
+      "retrievedAt": "2023-09-30 19:05:09.060083",
+      "internal_id": "e425fea7057fb6929f2d6c434c468c9e2433f1b62db6c640a3c0a8f3dcd86061",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2143,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Mayor Benjamin Magalong nagpaalaala sa kahalagahan ng kalinisan sa kalikasan dahil sa tumataas na bilang ng kaso ng leptospirosis sa Baguio City",
+      "description": "Baguio City \u2013 Pinaalalahanan ni Mayor Benjamin B. Magalong ang publiko na panatilihin na malinis ang kanilang kapaligiran at tiyakin na sumusunod ang lahat sa mga Pamantayan sa Kalinisan dahil sa tumataas na mga kaso ng leptospirosis. Naalarma o nabahala ang \u2026",
+      "url": "https://rpnradio.com/mayor-benjamin-magalong-nagpaalaala-sa-kahalagahan-ng-kalinisan-sa-kalikasan-dahil-sa-tumataas-na-bilang-ng-kaso-ng-leptospirosis-sa-baguio-city/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/09/Mayor-Benjie-Magalong-2.jpg",
+      "publishedAt": "2023-09-29 07:08:17",
+      "content": "Baguio City \u2013 Pinaalalahanan ni Mayor Benjamin B. Magalong ang publiko na panatilihin na malinis ang kanilang kapaligiran at tiyakin na sumusunod ang lahat sa mga Pamantayan sa Kalinisan dahil sa tum\u2026 [+1455 chars]",
+      "retrievedAt": "2023-09-30 19:05:10.798494",
+      "internal_id": "a4a3ad67492d1649967cacb84bb51fd64f62050e983bc8293d0b40892f4b2f27",
+      "publishedAtLabel": "Sep 29"
+    },
     {
       "id": 2120,
       "query": [
@@ -3283,348 +3625,6 @@
       "content": "Wereldwijd is het denguevirus de snelst verspreidende virale ziekte die muggen overdragen. In Itali\u00eb en Frankrijk werden al 25 mensen besmet door een prik van de Aziatische tijgermug. Hoe gevaarlijk \u2026 [+264 chars]",
       "retrievedAt": "2023-09-20 19:05:39.835603",
       "internal_id": "6cc398499acc4390a61ff608cdf22a5079ed8188b4bf5595102da558bdcc4c34",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1943,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.hln.be",
-      "author": "Priscilla van Agteren, Martijn Peters",
-      "title": "Ook in Itali\u00eb en Frankrijk al besmettingen met denguevirus: hoe gevaarlijk is de ziekte? En komen de tijgermuggen die het verspreiden ook in Belgi\u00eb voor?",
-      "description": "Wereldwijd is het denguevirus de snelst verspreidende virale ziekte die muggen overdragen. In Itali\u00eb en Frankrijk werden al 25 mensen besmet door een prik van de Aziatische tijgermug. Hoe gevaarlijk is deze tropische ziekte? Komen de besmette muggen ook naar \u2026",
-      "url": "https://www.hln.be/wetenschap-en-planeet/ook-in-italie-en-frankrijk-al-besmettingen-met-denguevirus-hoe-gevaarlijk-is-de-ziekte-en-komen-de-tijgermuggen-die-het-verspreiden-ook-in-belgie-voor~a450ffb8/",
-      "urlToImage": "https://images0.persgroep.net/rcs/KbXbAVr26oIxPzF7C9ymvQRouCU/diocontent/232683648/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
-      "publishedAt": "2023-09-19 16:27:00",
-      "content": "Wereldwijd is het denguevirus de snelst verspreidende virale ziekte die muggen overdragen. In Itali\u00eb en Frankrijk werden al 25 mensen besmet door een prik van de Aziatische tijgermug. Hoe gevaarlijk \u2026 [+264 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.866902",
-      "internal_id": "e6c0a6e66ca17b4b0941207f77e87509888054bd9c1740c24e177172ed2c2121",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1927,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Akmal Dawi)",
-      "title": "WHO: Hundreds of Children Die in Sudan Health Crisis",
-      "description": "Measles, diarrhea and malnutrition, among other preventable diseases, kill about 100 children every month in Sudan where armed conflicts have uprooted more than five million people from their homes, according to the United Nations. Between May 15 and Septem\u2026",
-      "url": "https://www.voanews.com/a/who-hundreds-of-children-die-in-sudan-health-crisis-/7274733.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-49f3-08dba5954f4a_w1200_r1.jpg",
-      "publishedAt": "2023-09-19 16:11:50",
-      "content": "Washington Measles, diarrhea and malnutrition, among other preventable diseases, kill about 100 children every month in Sudan where armed conflicts have uprooted more than five million people from t\u2026 [+2841 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.052820",
-      "internal_id": "d7ccba82996a837d8ccb519c06697876729ab7dce10725e3b3e60f1710c16b62",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1924,
-      "query": [
-        "measles"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "SAMY MAGDY Associated Press",
-      "title": "Over 1,200 children have died in the past 5 months in conflict-wrecked Sudan, UN says",
-      "description": "The U.N.\u2019s refugee agency says more than 1,200 children under age 5 have died in nine camps in war-scarred Sudan in the past five months because of a deadly combination of measles and malnutrition",
-      "url": "https://abcnews.go.com/International/wireStory/1200-children-died-past-5-months-conflict-wrecked-103312319",
-      "urlToImage": "https://i.abcnewsfe.com/a/afd38b47-fe72-4570-9bf5-2dfecbbcb809/wirestory_ec7bb2a1f49d74e7b5f01afa12f16d99_16x9.jpg?w=992",
-      "publishedAt": "2023-09-19 16:09:49",
-      "content": "CAIRO -- More than 1,200 children under age 5 have died in nine camps in war-scarred Sudan in the past five months because of a deadly combination of measles and malnutrition, the U.N.s refugee agenc\u2026 [+2403 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.041072",
-      "internal_id": "936339bcf37fdf21a0fbc251ed46af98b3f6ad24ee94a60f86de202fd7f155a1",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1929,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Reuters",
-      "title": "UN raises alarm over child deaths in Sudan as health crisis deepens",
-      "description": "GENEVA: More than 1,200 children have died of suspected measles and malnutrition in Sudan refugee camps, while many thousands more, including newborns.",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/un-raises-alarm-over-child-deaths-in-sudan-as-health-crisis-deepens/articleshow/103789425.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103789509,width-1070,height-580,imgsize-65358,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-19 15:58:49",
-      "content": "8 Things that are auspicious about Indian village homes",
-      "retrievedAt": "2023-09-20 19:05:39.056852",
-      "internal_id": "3cb774736b12e844e7a1d5385e679f3584ead93ba1c4f1c4e5bc5ecaa273e6b5",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1945,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Peter Sands, Contributor, \n Peter Sands, Contributor\n https://www.forbes.com/sites/petersands/",
-      "title": "For The Fight Against HIV, TB And Malaria, A Moment Of Reckoning",
-      "description": "While the 17 SDGs present a sweeping vision for improving the lives of people across the world, progress against them is, at best, mixed.",
-      "url": "https://www.forbes.com/sites/petersands/2023/09/19/for-the-fight-against-hiv-tb-and-malaria-a-moment-of-reckoning/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6509adfb66faf245d501661f/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-09-19 14:31:34",
-      "content": "Community health worker Marc Ilboudo uses a mobile application during a consultation with a child in ... [+] Pousghin, Burkina Faso. The Global Fund/Olympia de Maismont This week, the heads of stat\u2026 [+5988 chars]",
-      "retrievedAt": "2023-09-20 19:05:40.844610",
-      "internal_id": "a55b64f0980578212eee1b762735f525091d3dcbb1778ef9f8b1411fe46a88f6",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1941,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Ansa",
-      "title": "Mudan\u00e7as clim\u00e1ticas levam dengue ao territ\u00f3rio italiano",
-      "description": "Com ver\u00f5es cada vez mais quentes, a It\u00e1lia registrou um aumento no n\u00famero de infec\u00e7\u00f5es ...",
-      "url": "https://www.terra.com.br/noticias/mundo/mudancas-climaticas-levam-dengue-ao-territorio-italiano,1ea20a16f9ebd0a0749961b26dc0ae98ie4qnrrz.html",
-      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2023-09-19 14:26:05",
-      "content": "Com ver\u00f5es cada vez mais quentes, a It\u00e1lia registrou um aumento no n\u00famero de infec\u00e7\u00f5es transmitidas por mosquitos, incluindo o agente transmissor da dengue. Desde o in\u00edcio do ver\u00e3o at\u00e9 hoje, 2\u2026 [+2338 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.856087",
-      "internal_id": "0b36e8cee9f599a57a5b7d279f04a08179e2d64f0f922d9e81811973e00f8a6b",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1932,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "UN raises alarm over child deaths in Sudan as health crisis deepens",
-      "description": "GENEVA (Reuters) -More than 1,200 children have died of suspected measles and malnutrition in Sudan refugee camps, while many thousands more, including newborns, are at risk of death before year-end, United Nations (U.N.) agencies said on Tuesday. Read full s\u2026",
-      "url": "https://www.thestar.com.my/news/world/2023/09/19/un-raises-alarm-over-child-deaths-in-sudan-as-health-crisis-deepens",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/19/2293110.jpg",
-      "publishedAt": "2023-09-19 14:23:00",
-      "content": "GENEVA (Reuters) -More than 1,200 children have died of suspected measles and malnutrition in Sudan refugee camps, while many thousands more, including newborns, are at risk of death before year-end,\u2026 [+1945 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.063363",
-      "internal_id": "8b97b82a967219bf74fc0d672850f44d46639014216b7ecf190d7ac6fec3c784",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1934,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Gazzetta.it",
-      "author": "Redazione",
-      "title": "Aumentano i casi di febbre Dengue in Italia diffusa dalle zanzare: quali sono i sintomi?",
-      "description": "Aumentano i casi di febbre Dengue in Italia, c'\u00e8 il rischio che possa diventare endemica. Quali sono i sintomi per riconoscere la malattia trasmessa da zanzare.",
-      "url": "https://www.gazzetta.it/salute/19-09-2023/febbre-dengue-casi-in-aumento-in-italia-sintomi-per-riconoscerla.shtml",
-      "urlToImage": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2023/09/19/65099f6a46c64.jpeg",
-      "publishedAt": "2023-09-19 13:43:32",
-      "content": "Redazione 19 settembre - MILANO I casi di febbre Dengue stanno aumentando rapidamente anche in Italia. L'ultimo bollettino dell'Istituto Superiore di Sanit\u00e0 riporta un totale di 165 casi concentrat\u2026 [+2725 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.828946",
-      "internal_id": "c5bb462193e644b4964bd794979a0a2a42bb018e669156028a205a1374bae35c",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1946,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.gov.uk",
-      "author": null,
-      "title": "Guidance: Malaria: news and updates",
-      "description": "Information regarding malaria incidents, announcements and guidance amendments from the UKHSA Advisory Committee on Malaria Prevention (ACMP).",
-      "url": "https://www.gov.uk/guidance/malaria-news-and-updates",
-      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
-      "publishedAt": "2023-09-19 13:14:01",
-      "content": "Ongoing 23 June 2023 Proguanil discontinued in the UK Information for health professionals about discontinuation of proguanil and the resulting change to malaria recommendations. Both Paludrine (\u2026 [+4081 chars]",
-      "retrievedAt": "2023-09-20 19:05:40.856211",
-      "internal_id": "126e5bc6efc7417bbe1200ff9d304ea88d0aea4f7d9bf6a792a0b61df9eda67e",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1928,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Deutsche Welle",
-      "title": "Sudan: UN sounds alarm over thousands of child deaths",
-      "description": "Malnutrition and disease in the midst of a violent conflict have claimed thousands of young lives. UNICEF has warned that many thousands more are likely to die.",
-      "url": "https://www.dw.com/en/sudan-un-sounds-alarm-over-thousands-of-child-deaths/a-66863221",
-      "urlToImage": "https://static.dw.com/image/66349425_6.jpg",
-      "publishedAt": "2023-09-19 11:48:00",
-      "content": "More than 1,200 children have died from malnutrition and diseases such as measles in refugee camps housing people displaced by the ongoing conflict in Sudan, the UN said on Tuesday. The figure refer\u2026 [+1422 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.054850",
-      "internal_id": "3d2671747c201ec4223533ba9d27d22dce049079ea50d4207734d4cdf46c4ec5",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1944,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Rappler",
-      "author": "Rommel Rebollido",
-      "title": "Increase in dengue cases in Davao alarms health officials",
-      "description": "Officials say that from January to August alone, over 1,500 Davao residents were affected by dengue, which is more than the 1,052 cases reported during the same period in 2022",
-      "url": "https://www.rappler.com/nation/mindanao/increase-dengue-cases-davao-alarms-health-officials/",
-      "urlToImage": "https://www.rappler.com/tachyon/2022/07/dengue-mosquito-shutterstock-20150825-1.jpg",
-      "publishedAt": "2023-09-19 11:27:06",
-      "content": "GENERAL SANTOS, Philippines Health authorities in Davao City have stepped up efforts to fight a surge in the number of dengue fever cases in the city, blaming the increase on many residents\u2019 reluctan\u2026 [+2964 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.872156",
-      "internal_id": "d06cec9730a1470993e2ee670cf14855346d11dc787af1f08506ec530a7741ba",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1935,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Dagospia.com",
-      "author": null,
-      "title": "ARIDANGHE, ARIDENGUE! - AUMENTANO I CASI IN ITALIA DELLA MALATTIA INFETTIVA, CHE SI TRASMETTE ATTRAVERSO LA PUNTURA DI ZANZARE DEL GENERE \"AEDES\" - IL BOLLETTINO DELL'ISS: I CONTAGI SONO 165, CON 50 IN LOMBARDIA E 28 NEL LAZIO (PER LA PRIMA VOLTA QUESTO DATO \u00c8 IN CRESCITA NELLA REGIONE) - TUTTO SUL VIRUS: COME SI TRASMETTE, I SINTOMI E LE CURE\u2026",
-      "description": "Estratto da www.adnkronos.it Zanzara Aedes Salgono i casi di Dengue in Italia, con i contagi in aumento anche a Roma e nel Lazio per la prima volta secondo le news di oggi. \"Dai colleghi ci stanno arrivando decine di segnalazioni di quadri febbrili sospetti\u2026",
-      "url": "https://www.dagospia.com/rubrica-29/cronache/aridanghe-aridengue-aumentano-casi-italia-malattia-infettiva-367599.htm",
-      "urlToImage": "https://cdn-static.dagospia.com/img/patch/06-2022/dengue-1669576.jpeg",
-      "publishedAt": "2023-09-19 10:37:00",
-      "content": "Estratto da www.adnkronos.it Zanzara Aedes Salgono i casi di Dengue in Italia, con i contagi in aumento anche a Roma e nel Lazio per la prima volta secondo le news di oggi. \"Dai colleghi ci stanno \u2026 [+3332 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.832279",
-      "internal_id": "bcd4f27f7c138d340c4cb2d3b01ae7d33f43a7db0dd05c43df7d7b86a24c4954",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1930,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "UN raises alarm over child deaths in Sudan as health crisis deepens",
-      "description": "(marketscreener.com) More than 1,200 children have died of suspected measles and malnutrition in Sudan refugee camps, while many thousands more, including newborns, are at risk of death before year-end, United Nations agencies said on Tuesday.https://www.mark\u2026",
-      "url": "https://www.marketscreener.com/news/latest/UN-raises-alarm-over-child-deaths-in-Sudan-as-health-crisis-deepens--44874727/",
-      "urlToImage": "https://img.zonebourse.com/reuters/2023-09/2023-09-19T101733Z_1_LYNXMPEJ8I0BB_RTROPTP_3_SUDAN-POLITICS-UN-CHILDREN.JPG",
-      "publishedAt": "2023-09-19 10:17:33",
-      "content": "GENEVA (Reuters) - More than 1,200 children have died of suspected measles and malnutrition in Sudan refugee camps, while many thousands more, including newborns, are at risk of death before year-end\u2026 [+1305 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.058515",
-      "internal_id": "119bfe0d00fb447bc1f7442d6faa5d45308cf893f873287b34c6494ca62ca017",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1926,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Elisabeth Mahase",
-      "title": "Measles: Unvaccinated children may need to isolate as threat of outbreak looms in London",
-      "description": "Parents in London have been warned that if their children are unvaccinated and come into close contact with a measles case, they may need to self-isolate for up to 21 days.In a letter seen by The BMJ, Barnet Council asked parents to ensure their families are \u2026",
-      "url": "https://www.bmj.com/content/382/bmj.p2139",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/382/8398.cover-source.jpg",
-      "publishedAt": "2023-09-19 09:31:12",
-      "content": "Parents in London have been warned that if their children are unvaccinated and come into close contact with a measles case, they may need to self-isolate for up to 21 days. In a letter seen by The B\u2026 [+249 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.050982",
-      "internal_id": "3356cb58422f1ad492217560ea34dff80c99396475b26a3100bd1ed05d902dc8",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1933,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Corriere.it",
-      "author": "Silvia Turin",
-      "title": "Dengue, in aumento in Italia i casi autoctoni La mappatura del focolaio nel Lodigiano",
-      "description": "L\u2019infezione non si trasmette da uomo a uomo, ma tramite la zanzara tigre. Importante la disinfestazione anche nelle case private e proteggersi dalle punture. Anche i medici devono imparare a riconoscere i sintomi, come la febbre alta e \u00abstrana\u00bb",
-      "url": "https://www.corriere.it/salute/malattie_infettive/23_settembre_19/febbre-dengue-sintomi-italia-f39db3bc-56c6-11ee-a17f-69493a54d671.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/09/19/455b3a3a-56cc-11ee-a17f-69493a54d671.jpg",
-      "publishedAt": "2023-09-19 09:27:07",
-      "content": "di Silvia Turin L\u2019infezione non si trasmette da uomo a uomo, ma tramite la zanzara tigre. Importante la disinfestazione anche nelle case private e proteggersi dalle punture. Anche i medici devono imp\u2026 [+4097 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.825867",
-      "internal_id": "c7f43a23813ebb9cd4696394e4afbdcc5ffab71ed31ae9aaae124c20dc27b245",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1925,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "This pediatrician has a stark warning about the risks of 'anti-science'",
-      "description": "A pediatrician, author and co-inventor of a low-cost COVID-19 vaccine warns that the anti-vaccine movement has morphed into a political force that threatens the world's gains against deadly childhood infections like measles.",
-      "url": "https://www.cbc.ca/news/health/peter-hotez-vaccinations-anti-science-1.6963049",
-      "urlToImage": "https://i.cbc.ca/1.6966069.1694644262!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/zika-texas.jpg",
-      "publishedAt": "2023-09-19 08:00:00",
-      "content": "A pediatrician, author and co-inventor of a low-cost COVID-19 vaccine warns that the anti-vaccine movement has morphed into a political force that threatens the world's gains against deadly childhood\u2026 [+4719 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.048355",
-      "internal_id": "8803199d1f43960b960b78437c242f52ce9cd6f1aa5e90d6883fcbd325df4294",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1938,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Hbvl.be",
-      "author": "Maxie Eckert",
-      "title": "De tropische ziekte die zich wereldwijd het snelst verspreidt: dengue rukt ook op naar Europa",
-      "description": "In Itali\u00eb en Frankrijk hebben deze zomer al minstens 25 mensen via een steek van de Aziatische tijgermug de tropische ziekte dengue opgelopen. Het virus spint er garen bij dat de muggen die de ziekte doorgeven, wereldwijd oprukken \u2013 ook in Europa.",
-      "url": "https://www.hbvl.be/cnt/dmf20230919_92828314",
-      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2023/09/18/e6bb6e67-0ab1-451a-81b8-733b25b930d9.jpg?maxheight=460&maxwidth=629",
-      "publishedAt": "2023-09-19 07:51:15",
-      "content": "Gezondheid In Itali\u00eb en Frankrijk hebben deze zomer al minstens 25 mensen via een steek van de Aziatische tijgermug de tropische ziekte dengue opgelopen. Het virus spint er garen bij dat de muggen d\u2026 [+57 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.845219",
-      "internal_id": "1556949d93475bfe67eb0b4a418a410e8133b034e39b2856a2699f7e291e3403",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1940,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.gva.be",
-      "author": "Maxie Eckert",
-      "title": "De tropische ziekte die zich wereldwijd het snelst verspreidt: dengue rukt ook op naar Europa",
-      "description": "In Itali\u00eb en Frankrijk hebben deze zomer al minstens 25 mensen via een steek van de Aziatische tijgermug de tropische ziekte dengue opgelopen. Het virus spint er garen bij dat de muggen die de ziekte doorgeven, wereldwijd oprukken \u2013 ook in Europa.",
-      "url": "https://www.gva.be/cnt/dmf20230919_92786656",
-      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2023/09/18/e6bb6e67-0ab1-451a-81b8-733b25b930d9.jpg?maxheight=460&maxwidth=629",
-      "publishedAt": "2023-09-19 07:43:09",
-      "content": "In Itali\u00eb en Frankrijk hebben deze zomer al minstens 25 mensen via een steek van de Aziatische tijgermug de tropische ziekte dengue opgelopen. Het virus spint er garen bij dat de muggen die de ziekte\u2026 [+45 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.850234",
-      "internal_id": "05d25d48d214235a564ea207467121982e0693dc56bfeed17fc181bbff4e06da",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1942,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "Sudan: Dengue Infection Cases Rise in Sudan",
-      "description": "[Dabanga] El Gedaref in eastern Sudan is witnessing an increase in dengue fever* infections, with 70 confirmed cases and two deaths reported last week alone. The El Gedaref state government announced the start of a house-to-house campaign to combat the spread\u2026",
-      "url": "https://allafrica.com/stories/202309190106.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-19 07:41:49",
-      "content": "El Gedaref in eastern Sudan is witnessing an increase in dengue fever* infections, with 70 confirmed cases and two deaths reported last week alone. The El Gedaref state government announced the start\u2026 [+3032 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.861052",
-      "internal_id": "0ad97e3cceb36377056abdb599f8a51e5ec2083da04f688095faaa698915eb92",
       "publishedAtLabel": "Sep 19"
     }
   ]
