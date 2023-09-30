@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-09-29 19:05",
+  "last_updated": "2023-09-30 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 17,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 2120,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Wyrta.com",
+      "author": "Wyrta Staff",
+      "title": "Du ha kawi ka Health Centre ha Jowai da em 199 ngut kiwa wan chim Inject wa chah dait ksaw",
+      "description": "Ka 28 tarik u Naikhynde da man ko leh kam ka World Rabies Day kam chibynta ka thong wow yakhun pyndooh pyndam yei kjut Rabies wa yabi na ki mrad cha u bru deiwa chah dait, chah phrat, kamt\u00e6 ka Megh\u2026",
+      "url": "https://wyrta.com/du-ha-kawi-ka-health-centre-ha-jowai-da-em-199-ngut-kiwa-wan-chim-inject-wa-chah-dait-ksaw/",
+      "urlToImage": "https://i0.wp.com/wyrta.com/wp-content/uploads/2023/09/chfgk.jpg?fit=960%2C540&ssl=1",
+      "publishedAt": "2023-09-29 06:35:54",
+      "content": "Ka 28 tarik u Naikhynde da man ko leh kam ka World Rabies Day kam chibynta ka thong wow yakhun pyndooh pyndam yei kjut Rabies wa yabi na ki mrad cha u bru deiwa chah dait, chah phrat, kamt\u00e6 ka Meghal\u2026 [+3008 chars]",
+      "retrievedAt": "2023-09-30 07:05:35.692976",
+      "internal_id": "b228abfb363c49f9eb318715bffa0128755937f1acc66f94a251824a2e949e1e",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2121,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Ashleigh Furlong",
+      "title": "Why dengue in Europe could spell disaster for the rest of the world",
+      "description": "Increased investment into previously neglected diseases could see poorer countries left behind.",
+      "url": "https://www.politico.eu/article/why-dengue-in-europe-could-spell-disaster-for-the-rest-of-the-world/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/08/21/GettyImages-506748274.jpg",
+      "publishedAt": "2023-09-29 04:00:00",
+      "content": "In the early morning of the last day of August, Parisians experienced for the first time a practice normally confined to tropical regions authorities fumigating the city against the tiger mosquito. T\u2026 [+5858 chars]",
+      "retrievedAt": "2023-09-30 07:05:36.601504",
+      "internal_id": "63a25d2adcf39039215e0acd7bf472ab0e9ab024e477e11580155a93d1300a45",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2124,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Nzasabimana, P., Ignatowicz, A., Alayande, B. T., Abdul-Latif, A.-M., Odland, M. L., Davies, J., Bekele, A., Byiringiro, J. C.",
+      "title": "Barriers to equitable access to quality trauma care in Rwanda: a qualitative study",
+      "description": "Objectives Using the \u2018Four Delay\u2019 framework, our study aimed to identify and explore barriers to accessing quality injury care from the injured patients\u2019, caregivers\u2019 and community leaders\u2019 perspectives. Design A qualitative study assessing barriers to traum\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/9/e075117?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-09-29 01:01:41",
+      "content": "Introduction Historically, global health initiatives have prioritised infectious diseases. However, in 2019 alone, the world recorded 4.3 million deaths from trauma, more deaths than malaria, tuberc\u2026 [+16033 chars]",
+      "retrievedAt": "2023-09-30 07:05:37.367245",
+      "internal_id": "f56f62db2d8770490c64eb153ac03f89c91b0db257bcae4280d7c1a1b83bfc36",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2119,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Collins Sunday",
+      "title": "Veterinary doctors advocate vaccination against rabies",
+      "description": "The Nigerian Veterinary Medical Association has urged pet owners to keep their pets within their premises and ensure they are fully vaccinated against rabies. The National President of the association, Dr Oluwatoyin Adetuberu, made the call in an interview wi\u2026",
+      "url": "https://punchng.com/veterinary-doctors-advocate-vaccination-against-rabies/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/16030335/veterinary-services.jpg",
+      "publishedAt": "2023-09-28 23:50:11",
+      "content": "The Nigerian Veterinary Medical Association has urged pet owners to keep their pets within their premises and ensure they are fully vaccinated against rabies. The National President of the associati\u2026 [+1581 chars]",
+      "retrievedAt": "2023-09-30 07:05:35.669766",
+      "internal_id": "68686727a91ea17ac382c8f12a4bf84ce7ceef3aa5ed9ea3b3a69691dcda128b",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2122,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Teena Thacker",
+      "title": "Dengue causing blood pressure, heart rate changes",
+      "description": "In India, dengue infection is spreading rapidly in Delhi, West Bengal, Maharashtra and Jharkhand. Mumbai has reported a significant upsurge in infections, recording 3,068 cases between June and September 25, a threefold increase from the previous year.",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/dengue-causing-blood-pressure-heart-rate-changes/articleshow/104026798.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104026814,width-1200,height-630,imgsize-23506,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-09-28 19:21:33",
+      "content": "As cases of dengue fever rise in the country, some doctors say that the dominant strain of dengue virus is also causing autonomic disturbances like slow heart rate and fluctuation in blood pressure.\"\u2026 [+2186 chars]",
+      "retrievedAt": "2023-09-30 07:05:36.618774",
+      "internal_id": "e8c5dd0143198aaeb7d607167c3fab62ad9fa61abfa1f45ec2247e9512ab1d3f",
+      "publishedAtLabel": "Sep 28"
+    },
     {
       "id": 2103,
       "query": [
@@ -55,6 +145,24 @@
       "content": "Jakarta (ANTARA) - At least 41,826 rabies-transmitting animals (HPR) in Jakarta, or 91.45 percent of the targeted 45,735 HPR, have been administered the rabies vaccine as of September 2023, the Jakar\u2026 [+2126 chars]",
       "retrievedAt": "2023-09-29 19:05:22.287246",
       "internal_id": "48485d534fb762a1a3e434f7c554f65c355f729ade24265acd1d16ca9b84bf4a",
+      "publishedAtLabel": "Sep 28"
+    },
+    {
+      "id": 2123,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "No immediate relief from fatal dengue",
+      "description": "There is no immediate relief from the deadly dengue disease in the country as the numbers of patients and deaths are still high at the end of September. Experts fear that the dengue surge may also continue in October and may come under control at the end of t\u2026",
+      "url": "https://sylhetmirror.com/2023/09/28/no-immediate-relief-from-fatal-dengue/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/09/Iyytre.jpg",
+      "publishedAt": "2023-09-28 14:31:43",
+      "content": "There is no immediate relief from the deadly dengue disease in the country as the numbers of patients and deaths are still high at the end of September. Experts fear that the dengue surge may also c\u2026 [+4149 chars]",
+      "retrievedAt": "2023-09-30 07:05:36.639123",
+      "internal_id": "2db25c00cd3838517048dc3c77b1d94fcbe42da1d8bc62568f95a75d458c1eee",
       "publishedAtLabel": "Sep 28"
     },
     {
@@ -3518,114 +3626,6 @@
       "retrievedAt": "2023-09-20 19:05:39.861052",
       "internal_id": "0ad97e3cceb36377056abdb599f8a51e5ec2083da04f688095faaa698915eb92",
       "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1939,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nieuwsblad.be",
-      "author": "Maxie Eckert",
-      "title": "De tropische ziekte die zich wereldwijd het snelst verspreidt: dengue rukt ook op naar Europa",
-      "description": "In Itali\u00eb en Frankrijk hebben deze zomer al minstens 25 mensen via een steek van de Aziatische tijgermug de tropische ziekte dengue opgelopen. Het virus spint er garen bij dat de muggen die de ziekte doorgeven, wereldwijd oprukken \u2013 ook in Europa.",
-      "url": "https://www.nieuwsblad.be/cnt/dmf20230919_92667183",
-      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2023/09/18/e6bb6e67-0ab1-451a-81b8-733b25b930d9.jpg?maxheight=460&maxwidth=638",
-      "publishedAt": "2023-09-19 07:24:04",
-      "content": "In Itali\u00eb en Frankrijk hebben deze zomer al minstens 25 mensen via een steek van de Aziatische tijgermug de tropische ziekte dengue opgelopen. Het virus spint er garen bij dat de muggen die de ziekte\u2026 [+45 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.847352",
-      "internal_id": "b03594fb6d7b671c6be540fc8e36ba958c0a534d2f494716a75a86a048264c4f",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1922,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Reuters)",
-      "title": "Climate Change Impeding Fight Against AIDS, TB and Malaria",
-      "description": "Climate change and conflict are hitting efforts to tackle three of the world's deadliest infectious diseases, the head of the Global Fund to Fight AIDS, Tuberculosis and Malaria has warned. International initiatives to fight the diseases have largely recove\u2026",
-      "url": "https://www.voanews.com/a/climate-change-impeding-fight-against-aids-tb-and-malaria/7274203.html",
-      "urlToImage": "https://gdb.voanews.com/49560779-5E6C-495E-B328-D81C02F2B5E8.jpg",
-      "publishedAt": "2023-09-19 04:27:01",
-      "content": "LONDON Climate change and conflict are hitting efforts to tackle three of the world's deadliest infectious diseases, the head of the Global Fund to Fight AIDS, Tuberculosis and Malaria has warned. \u2026 [+1984 chars]",
-      "retrievedAt": "2023-09-20 07:05:51.022144",
-      "internal_id": "398664314126984fd866bb84d3f843f3afc6c09e6925e720763542ea039a86d2",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1919,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Elifesciences.org",
-      "author": "victor.tse@health.slu.edu (Arivianda M DeSilva), victor.tse@health.slu.edu (Deanna Zhu), victor.tse@health.slu.edu (Devina Thiono), victor.tse@health.slu.edu (Laura J White), victor.tse@health.slu.edu (Lisa J Snoderly-Foster), victor.tse@health.slu.edu (Longping V Tse), victor.tse@health.slu.edu (Ralph S Baric), victor.tse@health.slu.edu (Rita M Meganck), victor.tse@health.slu.edu (Stephanie Dong), victor.tse@health.slu.edu (Yago R Dalben)",
-      "title": "Evolution of a functionally intact but antigenically distinct DENV fusion loop",
-      "description": "A hallmark of dengue virus (DENV) pathogenesis is the potential for antibody-dependent enhancement, which is associated with deadly DENV secondary infection, complicates the identification of correlates of protection, and negatively impacts the safety and eff\u2026",
-      "url": "https://elifesciences.org/articles/87555",
-      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
-      "publishedAt": "2023-09-19 00:00:00",
-      "content": "The following is the authors response to the original reviews. Reviewer #1 (Public Review): Summary of the major findings - 1. The authors used saturation mutagenesis and directed evolution to mut\u2026 [+27202 chars]",
-      "retrievedAt": "2023-09-20 07:05:50.037426",
-      "internal_id": "6bb744bc73092b1c66a68292628939b92fab8b8d0399bb4d7c3c0b9b3a0c09c6",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1920,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Roanoke Times",
-      "author": "MAR\u00cdA VERZA and MADDIE BURAKOFF Associated Press",
-      "title": "Special mosquitoes are being bred to fight dengue. How the old enemies are now becoming allies",
-      "description": "Preventing dengue fever has long meant teaching people to fear mosquitoes. Now scientists are promoting a potentially more effective way to control the disease \u2014 with the help of mosquitoes themselves.",
-      "url": "https://roanoke.com/news/nation-world/science/dengue-mosquitoes-infectious-diseases-honduras/article_355427d7-4339-5d6d-9ed0-a29a3d8d5464.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/3/55/355427d7-4339-5d6d-9ed0-a29a3d8d5464/65028c3e87744.preview.jpg?crop=1563%2C821%2C11%2C180&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-09-18 20:45:00",
-      "content": "TEGUCIGALPA, Honduras For decades, preventing dengue fever in Honduras has meant teaching people to fear mosquitoes and avoid their bites. Now, Hondurans are being educated about a potentially more e\u2026 [+8864 chars]",
-      "retrievedAt": "2023-09-20 07:05:50.046982",
-      "internal_id": "4b4c3167ccec842e4e777623183fda7b5ee1abc9f84a951e5b4f7f705f485a57",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1921,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Casos de Dengue na Baixada Santista tem grande aumento",
-      "description": "Casos de Dengue na Baixada Santista tem grande aumento. Cidade de Guaruj\u00e1 intensifica a\u00e7\u00f5es ap\u00f3s liderar ranking da doen\u00e7a. Veja na reportagem!",
-      "url": "https://recordtv.r7.com/record-tv-litoral-e-vale/balanco-geral-litoral/videos/casos-de-dengue-na-baixada-santista-tem-grande-aumento-18092023",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/09/18/650868c14b495517bf000ef3/73c63d2b9ae44464909820aeadc65a6c__Casos_de_Dengue_na_Baixada_Santista_tem_grande_aumento_thumb.jpg",
-      "publishedAt": "2023-09-18 20:27:42",
-      "content": "Casos de Dengue na Baixada Santista tem grande aumento. Cidade de Guaruj\u00e1 intensifica a\u00e7\u00f5es ap\u00f3s liderar ranking da doen\u00e7a. Veja na reportagem!",
-      "retrievedAt": "2023-09-20 07:05:50.051914",
-      "internal_id": "f9449aa226bc503d2a028664e7479e12f111591068a69bd1b6d08d48d43c557f",
-      "publishedAtLabel": "Sep 18"
-    },
-    {
-      "id": 1923,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Global Fund 2023, salvati 59 milioni di vite",
-      "description": "Nairobi, Burbo (Nisg): \"Impegnati nella lotta ad Hiv, tubercolosi e malaria\" (ANSA)",
-      "url": "https://www.ansa.it/sito/videogallery/mondo/2023/09/18/global-fund-2023-salvati-59-milioni-di-vite_0df28798-0c3e-46c3-b463-e336067eda56.html",
-      "urlToImage": "https://www.ansa.it",
-      "publishedAt": "2023-09-18 19:50:48",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2023-09-20 07:05:51.029246",
-      "internal_id": "c0df077c50a965f929f7ced66a87e46a4f6699d8bba11701d99270b2c6d267d8",
-      "publishedAtLabel": "Sep 18"
     }
   ]
 }
