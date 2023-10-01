@@ -1,8 +1,46 @@
 {
-  "last_updated": "2023-10-01 07:05",
+  "last_updated": "2023-10-01 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 2149,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Rupsa Chakraborty",
+      "title": "Over 21,000 cases of dengue, malaria this monsoon",
+      "description": "In 2019 the total number of malaria cases reported in the state was 8,866 increasing to 15,215 in 2020 and further escalating to 17,341 in 2021.",
+      "url": "https://indianexpress.com/article/cities/mumbai/over-21000-cases-of-dengue-malaria-this-monsoon-8963286/",
+      "urlToImage": "https://images.indianexpress.com/2023/10/malaria.jpg",
+      "publishedAt": "2023-09-30 18:52:39",
+      "content": "With the monsoon gradually withdrawing in several regions of Maharashtra, data from the public health department showed that during this rainy season, Maharashtra has reported over 21,000 cases of mo\u2026 [+3191 chars]",
+      "retrievedAt": "2023-10-01 19:05:23.883294",
+      "internal_id": "40f43d00c0140aee4c066f549005d4d1c7a2a8389af70e82dc25b156490bd91d",
+      "publishedAtLabel": "Sep 30"
+    },
+    {
+      "id": 2150,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Mosquitoes Are a Growing Public Health Threat, Reversing Years of Progress (New York Times)",
+      "description": "New York Times: Mosquitoes Are a Growing Public Health Threat, Reversing Years of Progress \u2014 Climate change and the rapid evolution of the insect have helped drive up malaria deaths and brought dengue and other mosquito-borne viruses to places that never ha\u2026",
+      "url": "https://www.memeorandum.com/230930/p8",
+      "urlToImage": "https://static01.nyt.com/images/2023/08/10/multimedia/xx-mosquitoes-overview-promo/xx-mosquitoes-overview-promo-facebookJumbo.jpg",
+      "publishedAt": "2023-09-30 14:50:04",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2023-10-01 19:05:23.902291",
+      "internal_id": "eee16d10814a3d81e24bb95b220172b865cb95f8e776589931cd3df1e52331e0",
+      "publishedAtLabel": "Sep 30"
+    },
     {
       "id": 2147,
       "query": [
@@ -3586,45 +3624,6 @@
       "content": "THE Ministry of Livestock and Fisheries plans to conduct countrywide awareness education about rabies disease ahead of the 17th World Rabies Day to be marked on September 28. Rabies is a fatal, but \u2026 [+2066 chars]",
       "retrievedAt": "2023-09-21 07:05:52.863031",
       "internal_id": "92aa1bdc67a5257f8a638a23426f3be407bceb399633aa479033233536848a82",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1951,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "Aajtak Bangla",
-      "title": "Dengue and malaria situation kolkata, all leave of Kolkata Municipal Corporation's health workers canceled for next two months in",
-      "description": "Dengue Situation in Kolkata: \u09aa\u09c1\u09b0\u09b8\u09ad\u09be\u09b0 \u0995\u09a1\u09bc\u09be \u09a8\u09bf\u09b0\u09cd\u09a6\u09c7\u09b6, \u09a1\u09c7\u0999\u09cd\u0997\u09bf\u09a4\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u0996\u09ac\u09b0 \u09aa\u09be\u0993\u09af\u09bc\u09be\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u09b8\u0999\u09cd\u0997\u09c7 \u09b8\u09c7\u0987 \u09ac\u09be\u09a1\u09bc\u09bf\u09a4\u09c7 \u09ad\u09c7\u0995\u09cd\u099f\u09b0 \u0995\u09a8\u09cd\u099f\u09cd\u09b0\u09cb\u09b2 \u0995\u09b0\u09cd\u09ae\u09c0\u09a6\u09c7\u09b0 \u09a8\u09bf\u09af\u09bc\u09c7 \u09aa\u09cc\u0981\u099b\u09a4\u09c7 \u09b9\u09ac\u09c7\u0964 \u098f\u0996\u09a8 \u09a4\u09a5\u09cd\u09af \u09ad\u09bf\u09a4\u09cd\u09a4\u09bf\u0995 \u0995\u09be\u099c \u0995\u09b0\u09a4\u09c7 \u09b9\u09ac\u09c7 \u09aa\u09c1\u09b0\u09b8\u09ad\u09be\u09b0 \u09b8\u09cd\u09ac\u09be\u09b8\u09cd\u09a5\u09cd\u09af\u0995\u09b0\u09cd\u09ae\u09c0\u09a6\u09c7\u09b0\u0964 \u09ae\u09b6\u09be\u09ac\u09be\u09b9\u09bf\u09a4 \u09b0\u09cb\u0997\u09c7 \u0986\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4\u09c7\u09b0 \u09ac\u09be\u09a1\u09bc\u09bf\u09a4\u09c7 \u09aa\u09cc\u0981\u099b\u09c7 \u09af\u09c7\u09a4\u09c7 \u09b9\u09ac\u09c7\u0964",
-      "url": "https://bangla.aajtak.in/kolkata/story/dengue-and-malaria-situation-kolkata-all-leave-of-kolkata-municipal-corporations-health-workers-canceled-for-next-two-months-including-durga-puja-2023-orders-deputy-mayor-atin-ghosh-arg-680972-2023-09-20",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/lingo/atbn/images/story/202309/daenagai_akaraanata-sixteen_nine.jpg",
-      "publishedAt": "2023-09-20 04:52:00",
-      "content": "Dengue and Malaria Situation in Kolkata: ' , , , , , , , - , , , , , , , , ,",
-      "retrievedAt": "2023-09-21 07:05:53.888845",
-      "internal_id": "c0943cf715f62944872f01245bf764ee40e0f71ea4c20af2e7bf31ad5356fbc5",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1949,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Romero-Leiton, J. P., Acharya, K. R., Parmley, J. E., Arino, J., Nasri, B.",
-      "title": "Modelling the transmission of dengue, zika and chikungunya: a scoping review protocol",
-      "description": "Introduction Aedes mosquitoes are the primary vectors for the spread of viruses like dengue (DENV), zika (ZIKV) and chikungunya (CHIKV), all of which affect humans. Those diseases contribute to global public health issues because of their great dispersion i\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/9/e074385?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-09-20 03:45:48",
-      "content": "Introduction Dengue, zika and chikungunya are arboviral diseases transmitted primarily by the mosquito Aedes aegypti, which thrives in tropical and subtropical regions. Despite sharing a common vect\u2026 [+789 chars]",
-      "retrievedAt": "2023-09-21 07:05:53.863604",
-      "internal_id": "a818d418d5ef713f077762773a52eea42a45bbc33c63816a6cf259e7c2bc5cd8",
       "publishedAtLabel": "Sep 20"
     }
   ]
