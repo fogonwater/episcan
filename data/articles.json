@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-09-30 19:05",
+  "last_updated": "2023-10-01 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 19,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 2147,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue cases increase in Kathmandu; risks to continue for a month",
+      "description": "KATHMANDU: The number of dengue patients has recently surged in the Kathmandu Metropolitan City (KMC) area. According to the KMC Department of Health, dengue cases have been on the rise in all 32 wards of Kathmandu for the past week. Ram Prasad Poudel, Chief \u2026",
+      "url": "https://english.khabarhub.com/2023/30/320335/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-09-30 06:25:47",
+      "content": "KATHMANDU: The number of dengue patients has recently surged in the Kathmandu Metropolitan City (KMC) area. According to the KMC Department of Health, dengue cases have been on the rise in all 32 wa\u2026 [+1289 chars]",
+      "retrievedAt": "2023-10-01 07:05:36.716053",
+      "internal_id": "99e8ef9c39c89a2787f848b96fd98312739456eb267e82eb8fb03e08908b1536",
+      "publishedAtLabel": "Sep 30"
+    },
+    {
+      "id": 2146,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Techno-science.net",
+      "author": "Alain REDBRAN",
+      "title": "La grande douve du foie: une menace grave latente, m\u00eame en France",
+      "description": "Certains vecteurs de maladies infectieuses font l'actualit\u00e9. C'est le cas du moustique tigre, dont la piq\u00fbre peut provoquer la dengue, ou des tiques, qui peuvent notamment transmettre la maladie de...",
+      "url": "https://www.techno-science.net/actualite/grande-douve-foie-menace-grave-latente-meme-france-N23780.html",
+      "urlToImage": "https://www.techno-science.net/illustration/Source/The-Conversation/2023/09/27/file-20230926-17-1kj9d1.jpg",
+      "publishedAt": "2023-09-30 06:00:02",
+      "content": "Certains vecteurs de maladies infectieuses font l'actualit\u00e9. C'est le cas du moustique tigre, dont la piq\u00fbre peut provoquer la dengue, ou des tiques, qui peuvent notamment transmettre la maladie de L\u2026 [+9168 chars]",
+      "retrievedAt": "2023-10-01 07:05:36.699271",
+      "internal_id": "ab693a86e0f852bdf94c5eda7b05dc2f00e56d9ea48f4b1aa30656acde1b3c7c",
+      "publishedAtLabel": "Sep 30"
+    },
+    {
+      "id": 2144,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Enfermos de dengue en Costa Rica siguen en aumento",
+      "description": "Ministerio de Salud y CCSS muestran ligera tendencia al alza en casos de dengue; 16 cantones de la regi\u00f3n Atl\u00e1ntica y Pac\u00edfico Central concentran la mayor cantidad de reportes.",
+      "url": "https://www.nacion.com/el-pais/salud/enfermos-de-dengue-en-costa-rica-siguen-en-aumento/JJND4EHBMVBLBADI3M6KJN5JNM/story/",
+      "urlToImage": "https://www.nacion.com/resizer/kztWeqs-_WG0LHaDnVnUJeFqbQc=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/2QNJOPFN25CITMXGEZ43VINKDQ.jpg",
+      "publishedAt": "2023-09-29 23:10:54",
+      "content": "El dengue contin\u00faa en aumento en Costa Rica. Este 29 de setiembre, el Ministerio de Salud describi\u00f3 este incremento como ligera tendencia al aumento, y reconoci\u00f3 que deben continuar las acciones para\u2026 [+2136 chars]",
+      "retrievedAt": "2023-10-01 07:05:36.655184",
+      "internal_id": "c7d0704fb9b81910ac5c8f6f3a63130821413b159fc2a25bcd053ec3b1bff84d",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2148,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "WISHTV.com",
+      "author": "Gregg Montgomery",
+      "title": "Health official: Bloomington elementary school student may have meningitis",
+      "description": "Rogers Elementary School in Bloomington, Indiana, has about 370 students in kindergarten through Grade 2, the district says.",
+      "url": "https://www.wishtv.com/news/health-spotlight/health-official-bloomington-elementary-school-student-may-have-meningitis/",
+      "urlToImage": "https://www.wishtv.com/wp-content/uploads/2023/09/rogers-elementary-school-from-Monroe-County-Community-School-Corp.-scaled-e1696028502799.jpg",
+      "publishedAt": "2023-09-29 23:06:43",
+      "content": "BLOOMINGTON, Ind. (WISH) \u2014 A student at a Monroe County Community School Corp. elementary may have contacted meningitis, the county health department says. The disease is a viral or bacterial infect\u2026 [+1134 chars]",
+      "retrievedAt": "2023-10-01 07:05:37.235278",
+      "internal_id": "b823fa69c98d3df5f85ba48475c4169691c1db50f24668f105c9ee136fa383e4",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2145,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Dong Xiuzhu",
+      "title": "Xinhua Middle East news summary at 2200 GMT, Sept. 29",
+      "description": "JERUSALEM -- Israel has detected a new case of dengue fever, the country's Ministry of Environmental Protection said in a statement on Friday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2023/09/30/xinhua-middle-east-news-summary-at-2200-gmt-sept-29",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-09-29 21:38:00",
+      "content": "JERUSALEM -- Israel has detected a new case of dengue fever, the country's Ministry of Environmental Protection said in a statement on Friday. The patient, a student in her 20s, resides in the town\u2026 [+1386 chars]",
+      "retrievedAt": "2023-10-01 07:05:36.680148",
+      "internal_id": "bc856ed8dc87ae672d5896064696540b1da58ccb8cbd2297d4bf146be5d437d7",
+      "publishedAtLabel": "Sep 29"
+    },
     {
       "id": 2126,
       "query": [
@@ -3536,96 +3626,6 @@
       "retrievedAt": "2023-09-21 07:05:53.863604",
       "internal_id": "a818d418d5ef713f077762773a52eea42a45bbc33c63816a6cf259e7c2bc5cd8",
       "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1952,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Royal Society of Chemistry",
-      "author": "Wiebke Zika, Andreas Leng, Rene Weiss, Simone Pinter, Christoph Schuesslbauer, Tim Clark, Andreas Hirsch, Dirk M. Guldi",
-      "title": "Driving the Quadricyclane-to-Norbornadiene Isomerization by Charge Separation",
-      "description": "Chem. Sci., 2023, Accepted ManuscriptDOI: 10.1039/D3SC03679K, Edge Article Open Access &nbsp This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.Wiebke Zika, Andreas Leng, Rene Weiss, Simone Pinter, Christoph Schuesslbauer, Tim \u2026",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03679k",
-      "urlToImage": null,
-      "publishedAt": "2023-09-19 23:00:00",
-      "content": "W. Zika, A. Leng, R. Weiss, S. Pinter, C. Schuesslbauer, T. Clark, A. Hirsch and D. M. Guldi, Chem. Sci., 2023, Accepted Manuscript , DOI: 10.1039/D3SC03679K This article is licensed under a C\u2026 [+279 chars]",
-      "retrievedAt": "2023-09-21 07:05:54.969281",
-      "internal_id": "ac066984775c8aee365e42ba75d8e659392c6bd04c23c94b3cf1a7502106242e",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1950,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": null,
-      "title": "Breeding Special Mosquitoes to Fight Dengue",
-      "description": "",
-      "url": "https://learningenglish.voanews.com/a/7274917.html",
-      "urlToImage": "https://gdb.voanews.com/DF5465F8-7DF2-4AE4-9C05-E62A5DEAC9EE_w1200_r1.jpg",
-      "publishedAt": "2023-09-19 19:53:38",
-      "content": "No media source currently available",
-      "retrievedAt": "2023-09-21 07:05:53.877183",
-      "internal_id": "c2f21db42a2c3503d8fe41668d6963251047f1391529d7de5b9eed9470e488c0",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1931,
-      "query": [
-        "measles"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Associated Press",
-      "title": "In war-scarred Sudan, over 1,200 children under 5 years old have died in last 5 months, UN says",
-      "description": "Dozens of children have been dying every day from malnutrition and measles in war-torn Sudan, according to the U.N. The death toll among kids under age 5 reached 1,200 in five months.",
-      "url": "https://www.foxnews.com/world/war-scarred-sudan-1200-children-5-years-old-died-last-5-months-un-says",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/sudan-2.jpg",
-      "publishedAt": "2023-09-19 17:37:32",
-      "content": "More than 1,200 children under age 5 have died in nine camps in war-scarred Sudan in the past five months because of a deadly combination of measles and malnutrition, the U.N.s refugee agency said Tu\u2026 [+2624 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.060761",
-      "internal_id": "be09e832091d3c8bc7e0639eb9e2a0223efd7cdf104718d6c7ea7ebf90d81d1f",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1937,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Several Delhi Hospitals Witnessing Rise In Dengue Cases: Report",
-      "description": "Several hospitals in Delhi are seeing an increased footfall of dengue patients, doctors said on Tuesday, even as the city's civic body has not released reports on vector-borne diseases for the last several weeks.",
-      "url": "https://www.ndtv.com/india-news/several-delhi-hospitals-witnessing-rise-in-dengue-cases-report-4405345",
-      "urlToImage": "https://c.ndtvimg.com/2022-09/3jpf0c1o_dengue-home-remedies_625x300_24_September_22.jpg",
-      "publishedAt": "2023-09-19 17:29:40",
-      "content": "Current dengue outbreak is caused by particularly aggressive strain, said a doctor (Representational) New Delhi: Several hospitals in Delhi are seeing an increased footfall of dengue patients, docto\u2026 [+3558 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.841076",
-      "internal_id": "4ff43a2c06fd67316c0add1332f5e48d6d3bc7ef9cbdfd2f50aecb15238c063e",
-      "publishedAtLabel": "Sep 19"
-    },
-    {
-      "id": 1936,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.hln.be",
-      "author": "Priscilla van Agteren, Martijn Peters",
-      "title": "Nu tijgermuggen de ziekte ook al in Frankrijk verspreiden: hoe gevaarlijk is dengue?",
-      "description": "Wereldwijd is het denguevirus de snelst verspreidende virale ziekte die muggen overdragen. In Itali\u00eb en Frankrijk werden al 25 mensen besmet door een prik van de Aziatische tijgermug. Hoe gevaarlijk is deze tropische ziekte? Komen de besmette muggen ook naar \u2026",
-      "url": "https://www.hln.be/wetenschap-en-planeet/nu-tijgermuggen-de-ziekte-ook-al-in-frankrijk-verspreiden-hoe-gevaarlijk-is-dengue~a450ffb8/",
-      "urlToImage": "https://images0.persgroep.net/rcs/KbXbAVr26oIxPzF7C9ymvQRouCU/diocontent/232683648/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
-      "publishedAt": "2023-09-19 16:27:00",
-      "content": "Wereldwijd is het denguevirus de snelst verspreidende virale ziekte die muggen overdragen. In Itali\u00eb en Frankrijk werden al 25 mensen besmet door een prik van de Aziatische tijgermug. Hoe gevaarlijk \u2026 [+264 chars]",
-      "retrievedAt": "2023-09-20 19:05:39.835603",
-      "internal_id": "6cc398499acc4390a61ff608cdf22a5079ed8188b4bf5595102da558bdcc4c34",
-      "publishedAtLabel": "Sep 19"
     }
   ]
 }
