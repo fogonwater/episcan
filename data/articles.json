@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-10-01 19:05",
+  "last_updated": "2023-10-02 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 2,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 2154,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Food Safety News",
+      "author": "News Desk",
+      "title": "Spain records Salmonella and Yersinia increases in 2022",
+      "description": "Salmonella and Yersinia infections went up in Spain in 2022, based on the latest figures. A total of 8,777 Salmonella infections were reported, as well as 39 imported cases. In the previous year, 6,156 infections and four imported cases were recorded. Salmone\u2026",
+      "url": "https://www.foodsafetynews.com/2023/10/spain-records-salmonella-and-yersinia-increases-in-2022/",
+      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/042/874/310/nGPeXKvLJY7KO1mEYd81p93OM/0d4d3f79df553f9f5196c05e24c361c6b0a4dd76.png",
+      "publishedAt": "2023-10-01 04:03:00",
+      "content": "Salmonella and Yersinia infections went up in Spain in 2022, based on the latest figures. A total of 8,777 Salmonella infections were reported, as well as 39 imported cases. In the previous year, 6,\u2026 [+2670 chars]",
+      "retrievedAt": "2023-10-02 07:05:55.027181",
+      "internal_id": "2ad057d927a6e224c0bafbee48613d45d9718fb465402dac6bf9e494705a24ea",
+      "publishedAtLabel": "Oct 1"
+    },
+    {
+      "id": 2151,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Thegatewaypundit.com",
+      "author": "Anthony Scott",
+      "title": "Tennessee Will Airdrop Vaccines from Helicopters and Small Planes to Combat Spread of Rabies",
+      "description": "It\u2019s a bird, it\u2019s a plane, oh wait, it\u2019s vaccines. The post Tennessee Will Airdrop Vaccines from Helicopters and Small Planes to Combat Spread of Rabies appeared first on The Gateway Pundit.",
+      "url": "https://www.thegatewaypundit.com/2023/09/tennessee-will-airdrop-vaccines-helicopters-small-planes-combat/",
+      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/Screenshot-2023-09-30-at-8.30.59\u202fPM_16x9-1200x630.jpg",
+      "publishedAt": "2023-10-01 01:20:17",
+      "content": "It\u2019s a bird, it\u2019s a plane, oh wait, it\u2019s vaccines. The U.S. Department of Agriculture has teamed up with the Tennessee Department of Health in an attempt to combat the spread of rabies. In the firs\u2026 [+2485 chars]",
+      "retrievedAt": "2023-10-02 07:05:52.331359",
+      "internal_id": "10f532a7c1dc211192d9d4a78c63934acbda92e9950e2d4d21659bca8550fee8",
+      "publishedAtLabel": "Oct 1"
+    },
+    {
+      "id": 2153,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N COLOMBIA",
+      "title": "Exministro Fernando Ruiz respondi\u00f3 a denuncia sobre compra de medicamentos",
+      "description": "Ruiz manifest\u00f3: \u201cMe he enterado por diferentes medios de comunicaci\u00f3n de una eventual denuncia interpuesta por el Ministerio de Salud y Protecci\u00f3n Social alrededor de la compra de medicamentos contra la malaria realizada durante mi gesti\u00f3n. Al respecto, quier\u2026",
+      "url": "https://www.eluniversal.com.co/colombia/exministro-fernando-ruiz-respondio-a-denuncia-sobre-compra-de-medicamentos-XD9126990",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/186c0/800d686/none/13704/PDUF/jiirs6wmmvgyphho7zbxg57ow4_8616157_20230930200951.jpg",
+      "publishedAt": "2023-10-01 01:09:42",
+      "content": "Ruiz manifest\u00f3: Me he enterado por diferentes medios de comunicaci\u00f3n de una eventual denuncia interpuesta por el Ministerio de Salud y Protecci\u00f3n Social alrededor de la compra de medicamentos contra \u2026 [+1996 chars]",
+      "retrievedAt": "2023-10-02 07:05:53.541182",
+      "internal_id": "a16ba4eec37d658a89dfd187755b5974140fa3ddd15bb9b1f594eb02735e2199",
+      "publishedAtLabel": "Oct 1"
+    },
     {
       "id": 2149,
       "query": [
@@ -147,6 +201,24 @@
       "content": "A total of 15,000 stray dogs will be vaccinated in Mumbai during a 10-day drive. (Representational) Mumbai: A total of 15,000 stray dogs will be vaccinated in Mumbai during a 10-day drive to make th\u2026 [+1581 chars]",
       "retrievedAt": "2023-09-30 19:05:08.499192",
       "internal_id": "0491dd05cc3a549e220f6e7b30e6016089f504dd3cfe518073fa0d5a722477dc",
+      "publishedAtLabel": "Sep 29"
+    },
+    {
+      "id": 2152,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Malaria: Treatment of Plasmodium falciparum malaria patients under threat in the Horn of Africa",
+      "description": "Diagnosis of Plasmodium falciparum malaria using rapid diagnostic tests and treatment with artemisinin derivatives, the main component of the malaria treatments recommended by the World Health Organization (WHO), are under threat in the Horn of Africa. Scient\u2026",
+      "url": "https://www.sciencedaily.com/releases/2023/09/230929130947.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-09-29 17:09:47",
+      "content": "Diagnosis of Plasmodium falciparum malaria using rapid diagnostic tests and treatment with artemisinin derivatives, the main component of the malaria treatments recommended by the World Health Organi\u2026 [+5495 chars]",
+      "retrievedAt": "2023-10-02 07:05:53.525709",
+      "internal_id": "490b771ff311ea23e07f4704f550470b531207269b86ee0a00f76f5391c45669",
       "publishedAtLabel": "Sep 29"
     },
     {
@@ -3552,78 +3624,6 @@
       "content": "KUCHING: The Sarawak Health Department has detected another death, believed to be from a rabies infection, of a victim who failed to seek medical treatment. Its director Dr Ooi Choo Huck said that t\u2026 [+1366 chars]",
       "retrievedAt": "2023-09-21 19:05:22.502588",
       "internal_id": "6f31f813f6eb9fbe7ddcf5e02e56dac91e821a8890badc5c6d4d14ec07c31341",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1955,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Sudan: Children Dying Amid Healthcare System Collapse - UN Humanitarians",
-      "description": "[UN News] In war-torn Sudan, more than 1,200 children under five have died in camps in the space of four months from a combination of measles and malnutrition, UN humanitarians said on Tuesday.",
-      "url": "https://allafrica.com/stories/202309200088.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-20 07:18:21",
-      "content": "In war-torn Sudan, more than 1,200 children under five have died in camps in the space of four months from a combination of measles and malnutrition, UN humanitarians said on Tuesday. According to t\u2026 [+3091 chars]",
-      "retrievedAt": "2023-09-21 19:05:22.751864",
-      "internal_id": "e9817788251230effbbc16e1e586c7183159e68b54544d19a62a770384531d47",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1958,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "info@who.int (WHO)",
-      "title": "UNHCR, WHO Raise Alarm as 1,200 Children Die of Suspected Measles, Malnutrition",
-      "description": "Press Release - UNHCR, the UN Refugee Agency, and the World Health Organization (WHO) are again sounding the alarm on the worsening health situation caused by the Sudan crisis.",
-      "url": "https://allafrica.com/stories/202309200078.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-20 07:10:23",
-      "content": "UNHCR, the UN Refugee Agency, and the World Health Organization (WHO) are again sounding the alarm on the worsening health situation caused by the Sudan crisis. According to UNHCR teams in Sudan's W\u2026 [+5327 chars]",
-      "retrievedAt": "2023-09-21 19:05:22.780108",
-      "internal_id": "1626a1114cc580729d6bff272da031caa3f504265da8e449f132fcc3c191af0d",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1948,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Malay Mail",
-      "author": "Malay Mail",
-      "title": "State Health Dept: Human rabies cases in Sarawak on the rise this year with 17 recorded so far, 15 deaths",
-      "description": "KUCHING, Sept 20 \u2014 The State Health Department (JKN) has recorded an increase of rabies cases in humans between January 1 and September 17 this year compared to the same period...",
-      "url": "https://www.malaymail.com/news/malaysia/2023/09/20/state-health-dept-human-rabies-cases-in-sarawak-on-the-rise-this-year-with-17-recorded-so-far-15-deaths/91902",
-      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2023/09/20/thumbs/400x400/148313.jpg",
-      "publishedAt": "2023-09-20 06:54:13",
-      "content": "KUCHING, Sept 20 The State Health Department (JKN) has recorded an increase of rabies cases in humans between January 1 and September 17 this year compared to the same period last year. State Health\u2026 [+3012 chars]",
-      "retrievedAt": "2023-09-21 07:05:52.881838",
-      "internal_id": "c05ea7d266190eb8a1ee2f0eb289a5a6214e723d6d4dc2836824bd2d92c176db",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1947,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Ministry to Raise Awareness on Rabies Disease",
-      "description": "[Daily News] THE Ministry of Livestock and Fisheries plans to conduct countrywide awareness education about rabies disease ahead of the 17th World Rabies Day to be marked on September 28.",
-      "url": "https://allafrica.com/stories/202309200038.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-20 05:54:59",
-      "content": "THE Ministry of Livestock and Fisheries plans to conduct countrywide awareness education about rabies disease ahead of the 17th World Rabies Day to be marked on September 28. Rabies is a fatal, but \u2026 [+2066 chars]",
-      "retrievedAt": "2023-09-21 07:05:52.863031",
-      "internal_id": "92aa1bdc67a5257f8a638a23426f3be407bceb399633aa479033233536848a82",
       "publishedAtLabel": "Sep 20"
     }
   ]
