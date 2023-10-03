@@ -1,8 +1,136 @@
 {
-  "last_updated": "2023-10-02 19:05",
+  "last_updated": "2023-10-03 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 2162,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "Bangladesh dengue deaths top 1,000 in worst outbreak on record",
+      "description": "More than 1,000 people in Bangladesh have died of dengue fever since the start of the year, official figures showed, in the country\u2019s worst recorded outbreak of the mosquito-borne disease. Figures from the country\u2019s Directorate General of Health Services publ\u2026",
+      "url": "https://punchng.com/bangladesh-dengue-deaths-top-1000-in-worst-outbreak-on-record/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/10/02080337/4030431-1646861282.jpg",
+      "publishedAt": "2023-10-02 07:05:26",
+      "content": "More than 1,000 people in Bangladesh have died of dengue fever since the start of the year, official figures showed, in the country\u2019s worst recorded outbreak of the mosquito-borne disease. Figures f\u2026 [+959 chars]",
+      "retrievedAt": "2023-10-03 07:05:51.298707",
+      "internal_id": "84828e31250ebac12fcb5e50ed40d5fd226203e1367aac52daa368f8ced2e8f0",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2161,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sciences et Avenir",
+      "author": "AFP",
+      "title": "Le Bangladesh frapp\u00e9 par sa pire \u00e9pid\u00e9mie de dengue, avec plus de 1.000 morts cette ann\u00e9e",
+      "description": "Plus de 1.000 personnes sont mortes de la dengue au Bangladesh depuis le d\u00e9but de l'ann\u00e9e, selon les chiffres officiels, repr\u00e9sentant la pire \u00e9pid\u00e9mie de cette maladie, transmise par les moustiques, jamais enregistr\u00e9e dans le pays. Les chiffres de la directi\u2026",
+      "url": "https://www.sciencesetavenir.fr/sante/le-bangladesh-frappe-par-sa-pire-epidemie-de-dengue-avec-plus-de-1-000-morts-cette-annee_174244",
+      "urlToImage": "https://www.sciencesetavenir.fr/assets/img/2023/10/02/cover-r4x3w1200-651ace8a87715-ad11d4cef39d76286654494c9f793c415431a8f7-jpg.jpg",
+      "publishedAt": "2023-10-02 06:33:50",
+      "content": "Plus de 1.000 personnes sont mortes de la dengue au Bangladesh depuis le d\u00e9but de l'ann\u00e9e, selon les chiffres officiels, repr\u00e9sentant la pire \u00e9pid\u00e9mie de cette maladie, transmise par les moustiques, \u2026 [+1229 chars]",
+      "retrievedAt": "2023-10-03 07:05:51.289193",
+      "internal_id": "a3123bb4ade1bde253e8d925c22ca21b287b6592bcfb1676120f315ace739b8b",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2160,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: World Rabies Day 2023 Campaign - 'All for 1 One Health for All'",
+      "description": "Press Release - What is Rabies?",
+      "url": "https://allafrica.com/stories/202310020008.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-02 04:49:22",
+      "content": "What is Rabies? According to the US CDC, rabies is a fatal but preventable viral disease. It can spread to people and pets if they are bitten or scratched by a rabid animal. In the United States, ra\u2026 [+3306 chars]",
+      "retrievedAt": "2023-10-03 07:05:50.362380",
+      "internal_id": "23378e6742b444c4c559bae29bcdde26b2647cb76aba3882581872d6a01afc56",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2164,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Bangladesh notifica m\u00e1s de 1.000 muertos este 2023 por un brote de dengue",
+      "description": "La Direcci\u00f3n General de Servicios Sanitarios de Bangladesh ha notificado 1.006 muertos y m\u00e1s de 200.000 contagiados por un brote de dengue en lo que va de 2023, superando por mucho las cifras del a\u00f1o anterior, con 281 muertes y unos 62.000 casos confirmados.",
+      "url": "https://www.europapress.es/internacional/noticia-bangladesh-notifica-mas-1000-muertos-2023-brote-dengue-20231002051449.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231002051449_1200.jpg",
+      "publishedAt": "2023-10-02 03:14:49",
+      "content": "DACA (BANGLADESH), 2 Oct. (DPA/EP) - La Direcci\u00f3n General de Servicios Sanitarios de Bangladesh ha notificado 1.006 muertos y m\u00e1s de 200.000 contagiados por un brote de dengue en lo que va de 2023\u2026 [+746 chars]",
+      "retrievedAt": "2023-10-03 07:05:51.318083",
+      "internal_id": "75fce63fa49f64867cd258b68cf92ec94870e6ad7adf20fea61df46cbf090569",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2165,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "RAGANANTHINI VETHASALAM",
+      "title": "Malaria makes a scary comeback",
+      "description": "PETALING JAYA: The spike in the number of malaria cases in several parts of the country so far this year is causing concern among public health experts, who cite climate change as among the contributory factors. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/02/malaria-makes-a-scary-comeback",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/02/2313881.jpg",
+      "publishedAt": "2023-10-01 23:00:00",
+      "content": "PETALING JAYA: The spike in the number of malaria cases in several parts of the country so far this year is causing concern among public health experts, who cite climate change as among the contribut\u2026 [+3926 chars]",
+      "retrievedAt": "2023-10-03 07:05:52.306959",
+      "internal_id": "74b2fd277a0e4ff86e0189b9d38e007ca7b040b7ff9fba0e4ebe4dd48be0a13d",
+      "publishedAtLabel": "Oct 1"
+    },
+    {
+      "id": 2166,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "WHO sounds alarm over rise in malaria case numbers",
+      "description": "PETALING JAYA: Various international medical groups have sounded the alarm over the rise in malaria cases around the world. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/02/who-sounds-alarm-over-rise-in-malaria-case-numbers",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/02/2313887.jpg",
+      "publishedAt": "2023-10-01 23:00:00",
+      "content": "PETALING JAYA: Various international medical groups have sounded the alarm over the rise in malaria cases around the world. In a message in conjunction with World Malaria Day in April, the World Hea\u2026 [+3018 chars]",
+      "retrievedAt": "2023-10-03 07:05:52.309957",
+      "internal_id": "a80ac1e4793ae8f5a16c6cd70396b9874287afa4f065079e11763848aa36818c",
+      "publishedAtLabel": "Oct 1"
+    },
+    {
+      "id": 2163,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / LP",
+      "title": "Drones vs mosquitos: una batalla para prevenir enfermedades",
+      "description": "Los drones pueden operar en cualquier momento del d\u00eda y ofrecen una mayor resoluci\u00f3n espacial.",
+      "url": "https://aristeguinoticias.com/0110/mexico/drones-vs-mosquitos-una-batalla-para-prevenir-enfermedades/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/10/drones-mosquitos-previenen-enfermedades-011023-1.jpg",
+      "publishedAt": "2023-10-01 20:10:55",
+      "content": "En un esfuerzo innovador por controlar y prevenir enfermedades transmitidas por vectores como el dengue, zika y chikungunya, un proyecto de investigaci\u00f3n pionero en M\u00e9xico ha demostrado la efectivida\u2026 [+2486 chars]",
+      "retrievedAt": "2023-10-03 07:05:51.303468",
+      "internal_id": "b037668ead752690e315bda05a6321a4c571421fa3c10694ca610530d4c7bb9f",
+      "publishedAtLabel": "Oct 1"
+    },
     {
       "id": 2158,
       "query": [
@@ -3502,132 +3630,6 @@
       "content": "My colleague Dylan Matthews recently wrote about the horrific global toll of lead poisoning, which contributes to as many as 5.5 million premature deaths a year more than HIV, malaria, and car accide\u2026 [+6404 chars]",
       "retrievedAt": "2023-09-21 19:05:24.012820",
       "internal_id": "1658221df800b2aa53da92b041c3ebb6012ada7053b687d22216f429b49968a5",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1968,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Discover Magazine",
-      "author": "Gabe Allen",
-      "title": "Florida Malaria Cases: Why an Outbreak Returned to the U.S. This Summer",
-      "description": "A vector-borne outbreak of Florida malaria cases is now under control. Here\u2019s what to expect going forward.",
-      "url": "https://www.discovermagazine.com/planet-earth/florida-malaria-cases-why-an-outbreak-returned-to-the-u-s-this-summer",
-      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/6WnToEZT350rukcmoUpO4V/416509348ed312dc2102c0ed0620e5c9/Untitled_design_-_2023-09-19T143949.542.png",
-      "publishedAt": "2023-09-20 15:00:00",
-      "content": "In May 2023, a person caught malaria from a bug bite in Sarasota County, Florida. In response, the Florida Department of Public Health went to war with Anopheles, better known as the marsh mosquito. \u2026 [+3447 chars]",
-      "retrievedAt": "2023-09-21 19:05:24.047263",
-      "internal_id": "b797ae59f4b4bf8a630d7dccafc20fd1bd0d9290aa1a481a5a74f1dc1e3e0334",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1957,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "UN Agencies Warn of Malnutrition and Measles 'Catastrophe' in Sudan",
-      "description": "[Dabanga] Geneva / Washington DC -- The United Nations High Commissioner for Refugees (UNHCR) and the World Health Organisation (WHO) are sounding the alarm on the deteriorating health situation in Sudan which already claimed thousands of lives. The latest FE\u2026",
-      "url": "https://allafrica.com/stories/202309200533.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-20 14:21:23",
-      "content": "Geneva / Washington DC \u2014 The United Nations High Commissioner for Refugees (UNHCR) and the World Health Organisation (WHO) are sounding the alarm on the deteriorating health situation in Sudan which \u2026 [+3036 chars]",
-      "retrievedAt": "2023-09-21 19:05:22.772646",
-      "internal_id": "4ab826bba2d6bb0608284ef356f9f9f5284c7bbd7d7b6d3029b812e53024f27f",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1976,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Govt to procure 20 lakh pieces of saline for dengue patients",
-      "description": "The government on Wednesday approved a proposal in principle for procuring some 12 lakh pieces of normal saline 1000 ml and 8 lakh pieces of glucose saline 1000 ml under the Direct Procurement Method (DPM) on urgent basis in order to facilitate the treatment \u2026",
-      "url": "https://sylhetmirror.com/2023/09/20/govt-to-procure-20-lakh-pieces-of-saline-for-dengue-patients/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/09/ewrt54.jpg",
-      "publishedAt": "2023-09-20 14:09:04",
-      "content": "The government on Wednesday approved a proposal in principle for procuring some 12 lakh pieces of normal saline 1000 ml and 8 lakh pieces of glucose saline 1000 ml under the Direct Procurement Method\u2026 [+1032 chars]",
-      "retrievedAt": "2023-09-22 07:05:40.300014",
-      "internal_id": "738ce04070ab352d08f9bd1d1de8ccd4af26ebb818d85149b2c239180402879f",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1967,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Armel Dj\u00e8nontin, Daleb Alfa, Aziz Bouraima, Christophe Soares, Amal Dahounto, Sylvie Corn\u00e9lie, Marc Egrot, Georgia Damien, Franck Remou\u00e9, Andr\u00e9 Barembaye Sagna, Nicolas Moiroux, C\u00e9dric Pennetier",
-      "title": "Durability of the deltamethrin-treated polypropylene long-lasting net LifeNet\u00ae in a pyrethroid resistance area in south western Benin: A phase III trial",
-      "description": "Background Long-lasting insecticidal bed nets (LLINs) are a key measure for preventing malaria and their evaluation is coordinated by the World Health Organization Pesticide Evaluation Scheme (WHOPES). LifeNet\u00ae was granted WHOPES time-limited interim recommen\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291755",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0291755.g004&size=inline",
-      "publishedAt": "2023-09-20 14:00:00",
-      "content": "Abstract Background Long-lasting insecticidal bed nets (LLINs) are a key measure for preventing malaria and their evaluation is coordinated by the World Health Organization Pesticide Evaluation Sch\u2026 [+41053 chars]",
-      "retrievedAt": "2023-09-21 19:05:24.024458",
-      "internal_id": "712409104deb0589da4c03cfbb0914614e9a17eedbe0fd95bdcc04b7d89f31f1",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1953,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Amy McGorry",
-      "title": "New Mexico puppy is euthanized after it contracted rabies: This is a '100% preventable disease'",
-      "description": "A puppy recently tested positive for rabies and was euthanized in New Mexico, according to a news release from the state\u2019s health department. Here's what to know about treatment, prevention and risks.",
-      "url": "https://www.foxnews.com/health/new-mexico-puppy-euthanized-contracted-rabies-this-is-100-percent-preventable-disease",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/holding-dog-paw.jpg",
-      "publishedAt": "2023-09-20 12:30:52",
-      "content": "A puppy recently tested positive for rabies and was euthanized in New Mexico , according to a news release from the states health department. The animal, located in Bernalillo County, had shown sig\u2026 [+5537 chars]",
-      "retrievedAt": "2023-09-21 19:05:22.492539",
-      "internal_id": "adefbf837fec5705a99ef3da90966feacf8fc367f070f0f866a81c2dce056909",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1964,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Da Ag\u00eancia Brasil",
-      "title": "Coberturas vacinais est\u00e3o melhores que em 2021 e 2022, diz SBIm",
-      "description": "Especialistas est\u00e3o reunidos na Jornada Nacional de Imuniza\u00e7\u00f5es",
-      "url": "https://noticias.r7.com/saude/coberturas-vacinais-estao-melhores-que-em-2021-e-2022-diz-sbim-20092023",
-      "urlToImage": "https://img.r7.com/images/r7rio-072023-vacina-crianca-27072023143859764?crop_position=c&dimensions=340x191",
-      "publishedAt": "2023-09-20 10:52:54",
-      "content": "Novidades como as vacinas para a dengue e para o v\u00edrus sincicial respirat\u00f3rio, al\u00e9m dos obst\u00e1culos j\u00e1 conhecidos do PNI (Programa Nacional de Imuniza\u00e7\u00f5es) como o antivacinismo e a hesita\u00e7\u00e3o vacinal s\u2026 [+8866 chars]",
-      "retrievedAt": "2023-09-21 19:05:23.250137",
-      "internal_id": "0b6348759ba290a21d9241a1c09bc0beecf05390804b9f638947d1d75d69b579",
-      "publishedAtLabel": "Sep 20"
-    },
-    {
-      "id": 1956,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Zosia Kmietowicz",
-      "title": "Sudan\u2019s worsening health conditions see children die of measles and malnutrition",
-      "description": "A lack of global attention on the crisis in Sudan is leading to the deaths of hundreds of children from preventable diseases and malnutrition, the UN refugee agency (UNHCR) has warned.The agency said that more than 1200 refugee children aged under 5 died in n\u2026",
-      "url": "https://www.bmj.com/content/382/bmj.p2158",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/382/8398.cover-source.jpg",
-      "publishedAt": "2023-09-20 10:06:08",
-      "content": "A lack of global attention on the crisis in Sudan is leading to the deaths of hundreds of children from preventable diseases and malnutrition, the UN refugee agency (UNHCR) has warned. The agency sa\u2026 [+256 chars]",
-      "retrievedAt": "2023-09-21 19:05:22.758978",
-      "internal_id": "d98df02531c3832ad11b5cf61c697df8566ff7aa42edb0f6562498eeff73c0af",
       "publishedAtLabel": "Sep 20"
     }
   ]
