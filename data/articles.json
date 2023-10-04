@@ -1,8 +1,280 @@
 {
-  "last_updated": "2023-10-04 07:05",
+  "last_updated": "2023-10-04 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 26,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 2267,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Fr\u00e9d\u00e9rique Fa\u00ffs",
+      "title": "Dr\u00f4me. \u00ab Je me dis que j\u2019ai bien respir\u00e9 cet insecticide \u00bb : face au moustique tigre, une op\u00e9ration passe mal chez des habitants",
+      "description": "Une op\u00e9ration de d\u00e9moustication a eu lieu dans la nuit de lundi 2 \u00e0 mardi 3 octobre \u00e0 Bourg-l\u00e8s-Valence (Dr\u00f4me) \u00e0 la suite de deux cas de dengue autochtones. Probl\u00e8me : des riverains n\u2019ont pas \u00e9t\u00e9 avertis et s\u2019inqui\u00e8tent des cons\u00e9quences de cette pulv\u00e9risatio\u2026",
+      "url": "https://www.ledauphine.com/environnement/2023/10/03/je-me-dis-que-j-ai-bien-respire-cet-insecticide-face-au-moustique-tigre-une-operation-passe-mal-chez-des-habitants",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/76C05DE7-BED4-4673-A388-7ED183DD8F3C/FB1200/photo-1696357838.jpg",
+      "publishedAt": "2023-10-03 18:44:00",
+      "content": "Ils sont sid\u00e9r\u00e9s et m\u00eame choqu\u00e9s. Sur les hauteurs de Bourg-l\u00e8s-Valence, les riverains des rues Marcel-Pagnol et Fran\u00e7ois-Mauriac et une partie de la rue Edmond-Rostand \u2013 une zone pavillonnaire du qu\u2026 [+564 chars]",
+      "retrievedAt": "2023-10-04 19:05:24.891575",
+      "internal_id": "9bd53dd8664d0e28cfcfea5c56b9aa5079562677a20fb81b7403f6585b096316",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2273,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Metafilter.com",
+      "author": "NoxAeternum",
+      "title": "Vaccines Fuck Yeah",
+      "description": "In major news in the fight against malaria, the World Health Organization has approved the R21 vaccine - which can be produced cheaply at scale.Researchers from the University of Chicago have made promising discoveries with the concept of an \"inverse vaccine\"\u2026",
+      "url": "https://www.metafilter.com/200914/Vaccines-Fuck-Yeah",
+      "urlToImage": "http://cdn.mefi.us/images/mefi/apple-touch-icon.png",
+      "publishedAt": "2023-10-03 17:17:20",
+      "content": "posted by NoxAeternum (6 comments total) 9 users marked this as a favorite \u00ab Older Notes on a Criminal Conspiracy: Google's...",
+      "retrievedAt": "2023-10-04 19:05:25.484704",
+      "internal_id": "d6cfc0697d785eb4537b4acdc55c65c791a42f47cd085e586427d2c0240c7c0f",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2278,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Castillo, J. S., Bellantuono, A. J., DeGennaro, M.",
+      "title": "Quantifying Mosquito Attraction Behavior Using Olfactometry",
+      "description": "When blood feeding from human hosts, female mosquitoes can transmit life-threatening pathogens to humans, including dengue virus, chikungunya virus, and Zika virus. Olfaction is the primary sense mosquitoes use to locate and differentiate hosts and studying i\u2026",
+      "url": "https://cshprotocols.cshlp.org/content/2023/10/pdb.top107660.full?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2023-10-03 15:26:32",
+      "content": "",
+      "retrievedAt": "2023-10-04 19:05:25.812247",
+      "internal_id": "e007f3da9f57bf192ea7168047a5411c5f94c1d8e43f9bf6050358cd99b86d08",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2270,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "L\u2019Oms raccomanda un secondo vaccino contro la malaria",
+      "description": "L\u2019Organizzazione mondiale della sanit\u00e0 (Oms) ha raccomandato il 2 ottobre di somministrare ai bambini un secondo vaccino contro la malaria, che potrebbe salvare centinaia di migliaia di vite. Leggi",
+      "url": "https://www.internazionale.it/ultime-notizie/2023/10/03/salute-oms-malaria-africa",
+      "urlToImage": "https://media.internazionale.it/images/2023/10/02/186489-sd.jpeg",
+      "publishedAt": "2023-10-03 15:02:28",
+      "content": "La somministrazione di un vaccino contro la malaria in Kenya (Yasuyoshi Chiba, Afp) LOrganizzazione mondiale della sanit\u00e0 (Oms) ha raccomandato il 2 ottobre di somministrare ai bambini un secondo v\u2026 [+3079 chars]",
+      "retrievedAt": "2023-10-04 19:05:25.467047",
+      "internal_id": "791b57a3f6e333aaafee2562da2ecd7ca7c515f9046939e6a58b3c2963ebfb7e",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2272,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Feber.se",
+      "author": "Wille Wilhelmsson",
+      "title": "WHO rekommenderar nytt vaccin mot malaria",
+      "description": "R21 \u00e4r billigare och enklare att producera \u00e4n tidigare vaccin V\u00e4rldsh\u00e4lsoorganisationen WHO har rekommenderat ett nytt vaccin mot malaria, sjukdomen som d\u00f6dar hundratusentals m\u00e4nniskor varje \u00e5r. Det nya vaccinet kallas f\u00f6r R21 och \u00e4r det andra vaccinet \u2026",
+      "url": "https://feber.se/samhalle/who-rekommenderar-nytt-vaccin-mot-malaria/456608/",
+      "urlToImage": "https://static.feber.se/article_images/57/22/67/572267.jpg",
+      "publishedAt": "2023-10-03 14:20:00",
+      "content": "+ L\u00e4s artiklar f\u00f6re alla andra Kommentera f\u00f6re alla andra V\u00e4lj periodJu l\u00e4ngre period, desto b\u00e4ttre pris. Du best\u00e4mmer! M\u00e5nad 39 kr/m\u00e5n Kvartal 33 kr/m\u00e5n \u00c5r 25 kr/m\u00e5n V\u00e4lj hur du vill beta\u2026 [+33670 chars]",
+      "retrievedAt": "2023-10-04 19:05:25.481130",
+      "internal_id": "80a79184a8675325872bf85029b9727e1714476b338514755bcdb62af8cbd6da",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2274,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Daniel Merino, Associate Science Editor & Co-Host of The Conversation Weekly Podcast, The Conversation, Nehal El-Hadi, Science + Technology Editor & Co-Host of The Conversation Weekly Podcast, The Conversation",
+      "title": "The long road to a new malaria vaccine, told by the scientists behind the breakthrough \u2013 podcast",
+      "description": "In this episode of The Conversation Weekly, we hear from the scientists behind a new malaria vaccine developed by the University of Oxford.",
+      "url": "https://theconversation.com/the-long-road-to-a-new-malaria-vaccine-told-by-the-scientists-behind-the-breakthrough-podcast-214885",
+      "urlToImage": "https://images.theconversation.com/files/551732/original/file-20231003-17-vu9c9t.jpg?ixlib=rb-1.1.0&rect=35%2C512%2C2936%2C1466&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2023-10-03 14:19:16",
+      "content": "Darkdiamond67 via Shutterstock The world has waited decades for a malaria vaccine, and now two have come along in quick succession. On October 2, the World Health Organization (WHO) recommended that\u2026 [+3965 chars]",
+      "retrievedAt": "2023-10-04 19:05:25.488324",
+      "internal_id": "c3d2a260fd014736d0b2d77a29c811b6044257d81c86ac3dfb6a96a8ab4aaebc",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2269,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Victor Hugo Aquino, Marcilio J. Fumagalli, Ang\u00e9lica Silva, Bento Vidal de Moura Negrini, Alejandra Rojas, Yvalena Guillen, Cynthia Bernal, Luiz Tadeu Moraes Figueiredo",
+      "title": "Linear epitope mapping in the E and NS1 proteins of dengue and Zika viruses: Prospection of peptides for vaccines and diagnostics",
+      "description": "The arrival of the Zika virus (ZIKV) in dengue virus (DENV)-endemic areas has posed challenges for both differential diagnosis and vaccine development. Peptides have shown promise in addressing these issues. The aim of this study was to identify the linear ep\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292451",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0292451.g002&size=inline",
+      "publishedAt": "2023-10-03 14:00:00",
+      "content": "Citation: Aquino VH, Fumagalli MJ, Silva A, de Moura Negrini BV, Rojas A, Guillen Y, et al. (2023) Linear epitope mapping in the E and NS1 proteins of dengue and Zika viruses: Prospection of peptides\u2026 [+27132 chars]",
+      "retrievedAt": "2023-10-04 19:05:24.907250",
+      "internal_id": "826b71a41df9f47136f17ed048b84ea43bdfbe0a34c844a2c2b746678219e576",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2275,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Clare Wilson",
+      "title": "Cheaper malaria vaccine recommended by the WHO",
+      "description": "A second vaccine against the mosquito-borne disease should be available from next year, adding to the first that was launched in 2019",
+      "url": "https://www.newscientist.com/article/2395634-cheaper-malaria-vaccine-recommended-by-the-who/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/10/03125525/SEI_174423534.jpg",
+      "publishedAt": "2023-10-03 13:11:18",
+      "content": "An Anopheles gambiae mosquito, which can transmit malaria James Gathany/CDC/AP/Alamy A second vaccine against malaria has been recommended by the World Health Organization (WHO), which says it is h\u2026 [+1927 chars]",
+      "retrievedAt": "2023-10-04 19:05:25.497309",
+      "internal_id": "02efb1524347c52f6f44deeb3eeb21e52c9669510bce4a94cfe9cf7583241003",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2271,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Themorningnews.org",
+      "author": "The Morning News LLC; www.themorningnews.org",
+      "title": "Tuesday headlines: Cerebral vortex",
+      "description": "Climate change and the rapid evolution of mosquitoes are driving up malaria deaths.&nbsp;/&nbsp;The New York Times [+]Related: A cheap malaria vaccine that can be produced on a massive scale has&#8230;",
+      "url": "https://themorningnews.org/post/tuesday-headlines-cerebral-vortex",
+      "urlToImage": "https://themorningnews.org/images/tmn-logo-share.png",
+      "publishedAt": "2023-10-03 13:11:00",
+      "content": "Climate change and the rapid evolution of mosquitoes are driving up malaria deaths. / The New York Times [+] Related: A cheap malaria vaccine that can be produced on a massive scale has been recomme\u2026 [+1208 chars]",
+      "retrievedAt": "2023-10-04 19:05:25.473894",
+      "internal_id": "024b6b31eb5f1b8bde66b039e25912f2bdbd5004c28cae631ec394ff606b94c2",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2268,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "It\u00e1lia aprova primeira vacina contra dengue",
+      "description": "A Ag\u00eancia de Medicamentos da It\u00e1lia (Aifa) aprovou pela primeira vez uma vacina contra a dengue ...",
+      "url": "https://www.terra.com.br/byte/ciencia/italia-aprova-primeira-vacina-contra-dengue,50b502cadfbda052970966e56786a93abpstsfza.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2023-10-03 12:43:15",
+      "content": "A Ag\u00eancia de Medicamentos da It\u00e1lia (Aifa) aprovou pela primeira vez uma vacina contra a dengue que tamb\u00e9m pode ser usada em pessoas que nunca contra\u00edram a doen\u00e7a, que pode se tornar mais comum no pa\u2026 [+1229 chars]",
+      "retrievedAt": "2023-10-04 19:05:24.897799",
+      "internal_id": "6a129500421d728a39b6242571973ab0163c2adf861de331a9f77f6710bea494",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2264,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Ausbruch in Bangladesch: Dengue-Fieber fordert mehr als 1000 Leben",
+      "description": "In Bangladesch sterben so viele Menschen wie nie zuvor seit offizieller Z\u00e4hlungen an Dengue-Fieber. Die Krankheit, die von M\u00fccken \u00fcbertragen wird, grassiert in dem s\u00fcdasiatischen Land. Fachleute sehen einen Zusammenhang zu Klimawandel und Erderw\u00e4rmung.",
+      "url": "https://www.n-tv.de/wissen/Dengue-Fieber-fordert-mehr-als-1000-Leben-article24438546.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop24438550/9851327728-cImg_16_9-w1200/426114304.jpg",
+      "publishedAt": "2023-10-03 12:34:46",
+      "content": "In Bangladesch sterben so viele Menschen wie nie zuvor seit offizieller Z\u00e4hlungen an Dengue-Fieber. Die Krankheit, die von M\u00fccken \u00fcbertragen wird, grassiert in dem s\u00fcdasiatischen Land. Fachleute sehe\u2026 [+2754 chars]",
+      "retrievedAt": "2023-10-04 19:05:24.848451",
+      "internal_id": "b9c28636c29db48f110e09c4ae32f59a84b3d795faeeb1cbe8843a0345617c8c",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2276,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - David Gutensohn",
+      "title": "Malaria: WHO empfiehlt neuen Malaria-Impfstoff",
+      "description": "Die Weltgesundheitsorganisation empfiehlt einen zweiten Malaria-Impfstoff. R21/Matrix-M soll schon bald dazu beitragen, die hohe Nachfrage in Afrika zu decken.",
+      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fgesundheit%2F2023-10%2Fmalaria-impfstoff-who-r21-mosquirix",
+      "urlToImage": null,
+      "publishedAt": "2023-10-03 11:30:47",
+      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
+      "retrievedAt": "2023-10-04 19:05:25.507256",
+      "internal_id": "df8bc161d2225b2ff63a56da9ba3edaff6e69b60b70791fa6044c0394b5b3728",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2277,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Business Today",
+      "author": "Business Today Desk",
+      "title": "\u2018Combined efforts of Serum Institute, Oxford University have come to fruition,\u2019 says Adar Poonawalla as WHO recommends Malaria vaccine",
+      "description": "Adar Poonawalla added that the vaccine will help save several lives afflicted due to malaria in Africa.",
+      "url": "https://www.businesstoday.in/industry/pharma/story/combined-efforts-of-serum-institute-oxford-university-have-come-to-fruition-says-adar-poonawalla-as-who-recommends-malaria-vaccine-400501-2023-10-03",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202310/adar_poonawalla-sixteen_nine-sixteen_nine.jpg",
+      "publishedAt": "2023-10-03 09:18:29",
+      "content": "Serum Institute of India (SII) CEO Adar Poonawalla on Tuesday said that the combined efforts of the Pune-based biotech firm and Oxford University have come to fruition after the World Health Organisa\u2026 [+3278 chars]",
+      "retrievedAt": "2023-10-04 19:05:25.518802",
+      "internal_id": "78384a0f119406155aabb196edcd959325d026976c1c05e153a0ad047bbb4db6",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2265,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Hombre_de_Estado",
+      "title": "Por primera vez, la OMS recomienda el uso de una vacuna en contra el dengue",
+      "description": "La OMS recomend\u00f3 el uso la vacuna TAK-003 contra el dengue desarrollada por la farmac\u00e9utica japonesa Takeda. Aunque ya exist\u00edan vacunas en contra el dengue, es la primera vez que la OMS recomienda una. Al contrario a otras, se puede aplicar en personas que nu\u2026",
+      "url": "https://www.meneame.net/m/ciencia/primera-vez-oms-recomienda-uso-vacuna-contra-dengue",
+      "urlToImage": null,
+      "publishedAt": "2023-10-03 08:49:15",
+      "content": "Antivacunas diciendo que las vacunas son una estupidez, que no hacen nada, que matan a la gente en 3,2,1 Voy preparando las",
+      "retrievedAt": "2023-10-04 19:05:24.876019",
+      "internal_id": "dc61a744c874714dda238137985180c324b8810aafffda4a44c6a209a5a8de2a",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2266,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Reuters",
+      "title": "Bangladesh dengue deaths top 1,000 in worst outbreak",
+      "description": "The death toll from Bangladesh\u2019s worst dengue outbreak on record has topped 1,000 this year, official data showed.",
+      "url": "https://www.nbcnews.com/news/world/bangladesh-dengue-deaths-top-1000-worst-outbreak-rcna118528",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-10/231003-dengue-bangladesh-mb-0832-0c6835.jpg",
+      "publishedAt": "2023-10-03 07:48:56",
+      "content": "DHAKA, Bangladesh The death toll from Bangladeshs worst dengue outbreak on record has topped 1,000 this year, official data showed, with hospitals struggling to make space for patients as the disease\u2026 [+1033 chars]",
+      "retrievedAt": "2023-10-04 19:05:24.883735",
+      "internal_id": "54c1c7ea5473fc28a2c56822fd1221d41fd4658132b7244019ff24958e9cd0fe",
+      "publishedAtLabel": "Oct 3"
+    },
     {
       "id": 2254,
       "query": [
@@ -3353,280 +3625,6 @@
       "content": "Une \u00ab circulation active des virus West Nile et Usutu en Gironde, en Charente-Maritime, en Haute-Vienne et dans les Landes \u00bb note ce mercredi Sant\u00e9 Publique France, dans son dernier bilan \u00e9pid\u00e9miolog\u2026 [+2532 chars]",
       "retrievedAt": "2023-09-28 19:05:28.495325",
       "internal_id": "8291e65d3b2381f6ad82625feaff2ebbb85ce1e4a75d71380cc0e813bb9e59fc",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2075,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "Dr. Adiba Matin",
-      "title": "Genetically modified mosquitoes and vaccines -- what to know about dengue fever",
-      "description": "More than 3 million cases of dengue fever have been reported in the Americas this year with over 882 in the United States, according to the CDC.",
-      "url": "https://abcnews.go.com/Health/genetically-modified-mosquitoes-vaccines-dengue-fever/story?id=103511659",
-      "urlToImage": "https://i.abcnewsfe.com/a/ba730ece-5adb-4829-a640-b83594f8f23e/mosquito-dengue-fever-gty-lv-230926_1695769504532_hpMain_16x9.jpg?w=992",
-      "publishedAt": "2023-09-27 11:11:43",
-      "content": "More than 3 million cases of dengue fever have been reported in the Americas this year with over 882 in the United States, according to the CDC. This is the second highest annual rate in the Americas\u2026 [+4834 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.443195",
-      "internal_id": "64b61070f0944d2e431bc33fb54820eb14685e8ff900d129c49deaa9cecd5c2f",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2085,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.gov.uk",
-      "author": "UK Health Security Agency",
-      "title": "Promotional material: Meningitis: signs and symptoms leaflet and poster",
-      "description": "Poster and leaflet for teenagers and young people, especially new college and university students, highlighting the signs and symptoms of meningitis.",
-      "url": "https://www.gov.uk/government/publications/meningitis-signs-and-symptoms-poster",
-      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
-      "publishedAt": "2023-09-27 10:32:39",
-      "content": "These resources describe the warning signs of meningitis, so that teenagers and young people, those entering a new college or university in particular, know what to look out for if someone falls ill.\u2026 [+339 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.815039",
-      "internal_id": "d669a06ed61d287966192532891548645014f219f03151390a4d46ba23f11bb1",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2084,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Sean Muhamad, Resinta S",
-      "title": "Indonesia aims to reduce dengue cases to 10 per 100,000 people by 2030",
-      "description": "The Indonesian Health Ministry aims to reduce cases of dengue hemorrhagic fever (DHF) in the country, currently averaging 20-50 cases per 100 thousand people, to 10 cases per 100 thousand, with zero deaths by 2030. During the ...",
-      "url": "https://en.antaranews.com/news/294675/indonesia-aims-to-reduce-dengue-cases-to-10-per-100000-people-by-2030",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/04/15/Fogging-Pencegahan-Wabah-DBD-Di-Palangka-Raya-150423-MZ-3.jpg",
-      "publishedAt": "2023-09-27 10:29:11",
-      "content": "Jakarta (ANTARA) - The Indonesian Health Ministry aims to reduce cases of dengue hemorrhagic fever (DHF) in the country, currently averaging 20-50 cases per 100 thousand people, to 10 cases per 100 t\u2026 [+1696 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.520053",
-      "internal_id": "f762e463eff42539a573efe36ba5927ece3a2a5a1f16f6c5bcbe8b00a821c63a",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2087,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Prtimes.jp",
-      "author": null,
-      "title": "\u4f4f\u53cb\u30d5\u30a1\u30fc\u30de\u3001\u7530\u8fba\u4e09\u83f1\u88fd\u85ac\u306a\u3069\u306b\u3088\u308b\u30de\u30e9\u30ea\u30a2\u306e\u88fd\u54c1\u958b\u767a\u3084\u9867\u307f\u3089\u308c\u306a\u3044\u71b1\u5e2f\u75c5\u5bfe\u7b56\u306b\u5408\u8a08\u7d0411.8\u5104\u5186\u306e\u6295\u8cc7\u3092\u6c7a\u5b9a",
-      "description": "[GHIT Fund] [\u753b\u50cf: https://prtimes.jp/i/120361/7/resize/d120361-7-27ac447201012c4464c8-0.jpg ] \u30de\u30e9\u30ea\u30a2\u306f\u3001\u4e16\u754c\u3067\u5e74\u9593\u7d042\u51045,000\u4e07\u4eba\u304c\u7f79\u60a3\u3057\u30012021\u5e74\u306b\u306f\u7d0462\u4e07\u4eba*2\u304c\u6b7b\u4ea1\u3057\u3066\u3044\u307e\u3059\u3002\u307e\u305f\u3001\u9867\u307f\u3089\u308c\u306a\u3044\u71b1\u5e2f\u75c5\uff08NT...",
-      "url": "https://prtimes.jp/main/html/rd/p/000000007.000120361.html",
-      "urlToImage": "https://prtimes.jp/i/120361/7/ogp/d120361-7-27ac447201012c4464c8-0.jpg",
-      "publishedAt": "2023-09-27 09:40:02",
-      "content": "25,000202162*2NTDs1620*3GHIT Fund 5.7 EVIInstituto de Biologia Experimental e Tecnologica (iBET) 5.7 Medicines for Malaria Venture (MMV)3.3 1.5Drugs &amp; Diagnostics for Tropical Diseases (DDTD)\u2026 [+418 chars]",
-      "retrievedAt": "2023-09-28 19:05:29.111641",
-      "internal_id": "ecd177834e584f733ede2527b9344b664dd640b37090c61a35c0995ec7673174",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2083,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Republic World",
-      "author": "Nidhi Mudgill",
-      "title": "\u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u092c\u0922\u093c\u0947 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u0930\u0940\u091c, 3000 \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u092e\u093f\u0932\u0947 \u092a\u0949\u091c\u093f\u091f\u093f\u0935 \u0915\u0947\u0938; \u0907\u0928 \u0932\u0915\u094d\u0937\u0923\u094b\u0902 \u0915\u094b \u0928\u093e \u0915\u0930\u0947\u0902 \u0928\u091c\u0930\u0905\u0902\u0926\u093e\u091c",
-      "description": "\u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0926\u093f\u0932\u094d\u0932\u0940 \u092e\u0947\u0902 \u0907\u0938 \u0938\u093e\u0932 \u0905\u092c \u0924\u0915 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0924\u0940\u0928 \u0939\u091c\u093e\u0930 \u0938\u0947 \u092d\u0940 \u091c\u094d\u092f\u093e\u0926\u093e \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906 \u091a\u0941\u0915\u0947 \u0939\u0948\u0902\u0964 \u0926\u093f\u0932\u094d\u0932\u0940 \u0928\u0917\u0930 \u0928\u093f\u0917\u092e \u0928\u0947 \u0938\u0926\u0928 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 (Dengue) \u0915\u0947 \u0906\u0902\u0915\u0921\u093c\u0947 \u092d\u0940 \u092a\u0947\u0936 \u0915\u093f\u090f \u0939\u0948\u0902\u0964",
-      "url": "https://bharat.republicworld.com/lifestyle/health/the-number-of-dengue-patients-broke-the-record-more-than-3000-positive-cases-were-found-do-not-ignore-these-symptoms-at-all",
-      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/16957928826513bef29d09b.jpeg",
-      "publishedAt": "2023-09-27 09:27:13",
-      "content": "Dengue Positive Patients: - (Dengue) ... , 4 (2023) 2,95,69,150 , 73 36 640 (Dengue) , (Dengue) , 2-3 3 , , , (Dengue) : - -3",
-      "retrievedAt": "2023-09-28 19:05:28.505558",
-      "internal_id": "80e45d4ce87b5ed05cfd73aaaf08278b9dfccd06986870ae01073e9043cc6be5",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2074,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Globalsecurity.org",
-      "author": "John Pike",
-      "title": "World News in Brief: Crisis deepens for Mali's children, human rights updates from Brazil, Montenegro",
-      "description": "In Mali, one million children under five are at risk of malnutrition amid polio and measles outbreaks, increased armed violence and displacement, the UN Children's Fund (UNICEF) said on Tuesday.",
-      "url": "https://www.globalsecurity.org/military/library/news/2023/09/mil-230926-unnews03.htm",
-      "urlToImage": null,
-      "publishedAt": "2023-09-27 09:07:47",
-      "content": "26 September 2023 - In Mali, one million children under five are at risk of malnutrition amid polio and measles outbreaks, increased armed violence and displacement, the UN Children's Fund (UNICEF) s\u2026 [+4141 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.061039",
-      "internal_id": "6a2884ffc5773978edfc6bb1626bd0c2bb600c4da0c78c0e2ad5e564fc28e6b2",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2080,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Dengue: Symptoms, precautions and how to treat it at home",
-      "description": "The disease is transmitted by infected mosquitoes and has four virus subtypes. Initial symptoms include high fever, headache, eye pain, nausea, and joint pain. Severe complications can arise with subsequent infections of different subtypes. Home treatment mea\u2026",
-      "url": "https://economictimes.indiatimes.com/news/how-to/dengue-symptoms-precautions-and-how-to-treat-it-at-home/articleshow/103983660.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-103983842,width-1200,height-630,imgsize-23506,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-27 07:59:07",
-      "content": "Byju\u2019s New India CEO to Cut More Than 4,500 JobsArjun Mohan, who took charge as the new chief executive of the India business at Byjus last Wednesday, is set to unveil a series of changes at the fina\u2026 [+860 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.476961",
-      "internal_id": "a0d23c3f198b07b8a27cb65a6e69d825ac6c00f1b21588b0cadc132025e4c3de",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2070,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue claims 17 lives and infects over 30,000 in Koshi Province",
-      "description": "BIRATNAGAR: The Koshi province has been grappling with a devastating dengue outbreak since mid-July, resulting in the tragic loss of 17 lives and infecting more than 30,000 individuals. Sunsari district, in particular, has borne the brunt of this crisis, repo\u2026",
-      "url": "https://english.khabarhub.com/2023/27/319971/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-09-27 07:00:52",
-      "content": "BIRATNAGAR: The Koshi province has been grappling with a devastating dengue outbreak since mid-July, resulting in the tragic loss of 17 lives and infecting more than 30,000 individuals. Sunsari dist\u2026 [+1372 chars]",
-      "retrievedAt": "2023-09-28 07:05:45.168514",
-      "internal_id": "a2ee4bffeb559ac055b54940521515240c19186b3569a181328a7948feb4670e",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2060,
-      "query": [
-        "rabies",
-        "malaria",
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "ANDY CHUA",
-      "title": "Sarawak still threatened by zoonotic diseases like rabies, says Abang Jo",
-      "description": "SIBU: Sarawak is still faced with the threat of rabies and many other zoonotic diseases like malaria and leptospirosis, says Premier Tan Sri Abang Johari Tun Openg. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/09/27/sarawak-still-threatened-by-zoonotic-diseases-like-rabies-says-abang-jo",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/27/2306147.jpg",
-      "publishedAt": "2023-09-27 06:25:00",
-      "content": "SIBU: Sarawak is still faced with the threat of rabies and many other zoonotic diseases like malaria and leptospirosis, says Premier Tan Sri Abang Johari Tun Openg. This is despite the average life \u2026 [+1460 chars]",
-      "retrievedAt": "2023-09-28 07:05:44.219386",
-      "internal_id": "9e6de6fb674d644ff6a062337c31d67855523a7f557a7fad861ebd6a9baf2208",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2061,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Medical Daily",
-      "author": "Suneeta Sunny",
-      "title": "World Rabies Day: How Infection Gets Transmitted, What The Symptoms And Preventive Measures Are",
-      "description": "Rabies is nearly fatal once the symptoms appear, but it is 100% preventable through medical care.",
-      "url": "https://www.medicaldaily.com/world-rabies-day-how-infection-gets-transmitted-what-symptoms-preventive-measures-are-470883",
-      "urlToImage": "https://d.medicaldaily.com/en/full/470211/rabies.jpg",
-      "publishedAt": "2023-09-27 04:47:40",
-      "content": "World Rabies Day is observed on Sept. 28 every year to raise awareness of the deadliest viral infection in the world, which takes around 59,000 lives annually. The theme for this year's World Rabies\u2026 [+2407 chars]",
-      "retrievedAt": "2023-09-28 07:05:44.231529",
-      "internal_id": "a673fa954b8fa97cea4ac317e4a7b3385efc85ce408a52bb6516384c47146d15",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2066,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Julien Lemaignen",
-      "title": "\u00ab Je ne sais pas si je suis rassur\u00e9e mais au moins, il y a une explication \u00bb : \u00e0 Maisons-Alfort, les al\u00e9as de la lutte contre le moustique tigre",
-      "description": "V\u00e9ritable menace sanitaire en raison de sa capacit\u00e9 \u00e0 transmettre la dengue, le chikungunya et le virus Zika, l\u2019insecte fait l\u2019objet d\u2019op\u00e9rations de d\u00e9moustication pas toujours bien comprises des riverains, \u00e0 l\u2019instar d\u2019un quartier de Maisons-Alfort, lundi so\u2026",
-      "url": "https://www.lemonde.fr/planete/article/2023/09/27/je-ne-sais-pas-si-je-suis-rassuree-mais-au-moins-il-y-a-une-explication-a-maisons-alfort-les-aleas-de-la-lutte-contre-le-moustique-tigre_6191142_3244.html",
-      "urlToImage": "https://img.lemde.fr/2023/09/26/0/0/4999/3333/1440/960/60/0/fb7fa20_1695744536129-bg-25-26sept23-fr-demoustication019.JPG",
-      "publishedAt": "2023-09-27 03:00:10",
-      "content": "C\u00e9line Pernot-Burlet a beaucoup appris, lundi 25 septembre. De nombreux d\u00e9tails sur le moustique tigre, mais aussi des rudiments daction militante. Cette illustratrice de 49 ans avait \u00e9t\u00e9 ulc\u00e9r\u00e9e de \u2026 [+2531 chars]",
-      "retrievedAt": "2023-09-28 07:05:45.118384",
-      "internal_id": "39efc0b1105b2f3cfa4a2b2ffdb5118f821fcfd4372454dbaa5aab563abc563a",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2063,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Florida man gets bitten by rabies-infested otter while feeding ducks: officials - Fox News",
-      "description": "Florida man gets bitten by rabies-infested otter while feeding ducks: officialsFox News Rabid otter bites man and dog in FloridaNBC News Rabid otter attacks Florida man, bites him 41 timesWESH 2 Orlando Elderly Florida man savagely attacked, bitten by rabid o\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171903633",
-      "urlToImage": null,
-      "publishedAt": "2023-09-27 02:52:12",
-      "content": "The first time, it's a KLUDGE! The second, a trick. Later, it's a well-established technique! -- Mike Broido, Intermetrics",
-      "retrievedAt": "2023-09-28 07:05:44.241428",
-      "internal_id": "06ab2ac4c2111bc9369686319ef767d6c31a65bb334e978419915504185c58fb",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2065,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Moneycontrol",
-      "author": "Siddharth Singhal",
-      "title": "Does your health insurance adequately cover you against diseases like Dengue and Nipah?",
-      "description": "With the escalating costs of medical treatment, purchasing a comprehensive healthcare policy with a sum insured of at least Rs 25 lakh or above is non-negotiable.",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/does-your-health-insurance-adequately-cover-you-against-diseases-like-dengue-and-nipah-11434651.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/07/Causes-symptoms-and-treatment-for-dengue-770x433.jpg",
-      "publishedAt": "2023-09-27 02:24:48",
-      "content": "While the fear of a prolonged Covid-19 outbreak is behind us now, several other infectious diseases continue to loom over. The rise in diseases like Dengue and the outbreak of the Nipah virus once a\u2026 [+4305 chars]",
-      "retrievedAt": "2023-09-28 07:05:45.105800",
-      "internal_id": "1046ec8637b03a3b1e793c7a5f60ecce78b8b5139bab5e354ee15ad187e173e2",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2071,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Breaking Belize News",
-      "author": "Bbnteam",
-      "title": "Belize officially declared Malaria-Free by the World Health Organization!",
-      "description": "Belize officially declared Malaria-Free by the World Health Organization!breakingbelizenews.com",
-      "url": "https://www.breakingbelizenews.com/2023/09/26/belize-officially-declared-malaria-free-by-the-world-health-organization/",
-      "urlToImage": "https://www.breakingbelizenews.com/wp-content/uploads/2023/09/Screenshot-2023-09-26-at-14-03-03-Facebook.jpg",
-      "publishedAt": "2023-09-27 00:55:08",
-      "content": "Posted: Tuesday, September 26, 2023. 3:35 pm CST. By Zoila Palma Gonzalez: Today, Belize was officially declared Malaria-Free by the World Health Organization. The Ministry of Health and Wellness (\u2026 [+1506 chars]",
-      "retrievedAt": "2023-09-28 07:05:45.971944",
-      "internal_id": "dd6900f6825b8748d969bf8ffe06b93b77d58cb91e02f000258e85f208aa662a",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2062,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Andrea Vacchiano",
-      "title": "Florida man gets bitten by rabies-infested otter while feeding ducks: officials",
-      "description": "A 74-year-old man in Florida was attacked and wounded by a rabies-infested otter last week, officials say. A dog was also bitten by the rabid otter.",
-      "url": "https://www.foxnews.com/us/florida-man-gets-bitten-rabies-infested-otter-feeding-ducks-officials",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Otter-2.jpg",
-      "publishedAt": "2023-09-27 00:13:51",
-      "content": "A 74-year-old man in Florida was recently scratched and bitten by an otter that later tested positive for rabies, officials say. The Florida Department of Health confirmed that the 3-year-old male o\u2026 [+1501 chars]",
-      "retrievedAt": "2023-09-28 07:05:44.237893",
-      "internal_id": "b941d54e968a0b01a40a612b9fce6a67cd0e4e1ed57fd5987cc378aed41e0580",
       "publishedAtLabel": "Sep 27"
     }
   ]
