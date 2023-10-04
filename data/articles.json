@@ -1,8 +1,477 @@
 {
-  "last_updated": "2023-10-03 19:05",
+  "last_updated": "2023-10-04 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 71,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 2254,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "WHO recommends 2nd Malaria vaccine R21/Matrix-M made by Oxford-Serum Institute; says cheap, more effective",
+      "description": "The R21/Matrix-M malaria vaccine developed by the University of Oxford and the Serum Institute of India has been recommended for use by the World Health Organisation (WHO) after meeting required safety, quality and effectiveness standards. Following a rigorou\u2026",
+      "url": "https://economictimes.indiatimes.com/news/et-tv/who-recommends-2nd-malaria-vaccine-r21/matrix-m-made-by-oxford-serum-institute-says-cheap-more-effective/videoshow/104124563.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104124563,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-03 07:02:23",
+      "content": "The R21/Matrix-M malaria vaccine developed by the University of Oxford and the Serum Institute of India has been recommended for use by the World Health Organisation (WHO) after meeting required safe\u2026 [+284 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.323189",
+      "internal_id": "b2f7575a66dcfc5e2a2abb052269718e0d5a4281f3eb6d5049e835b86273d7fe",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2250,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "PT Jyothi Datta",
+      "title": "WHO recommends second malaria vaccine",
+      "description": "WHO recommends 2nd malaria vaccine, R21/Matrix-M, for prevention of malaria in children. SII & Bharat Biotech have role in supply. R21/Matrix-M licensed in Ghana, Nigeria & Burkina Faso. High efficacy & cost-effectiveness. 28 African countries plan to introdu\u2026",
+      "url": "https://www.thehindubusinessline.com/news/who-recommends-second-malaria-vaccine/article67374684.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/wz7n3v/article67298086.ece/alternates/LANDSCAPE_1200/IMG_vaccine__2__4_1_QNA38ACD.jpg",
+      "publishedAt": "2023-10-03 05:34:14",
+      "content": "A second malaria vaccine has been recommended by the World Health Organisation (WHO) - R21/Matrix-M, for the prevention of malaria in children. This follows WHO recommendation for the RTS,S/AS01 va\u2026 [+3963 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.301705",
+      "internal_id": "ceed3ec1bb0afe23f6dbb3d697e358597a55d381c2d010305db71447962ddb22",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2238,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Hvg.hu",
+      "author": "hvg@hvg.hu",
+      "title": "Egyre t\u00f6bb a betegs\u00e9get terjeszt\u0151 tigrissz\u00fanyog Eur\u00f3p\u00e1ban, ez a gy\u00f3gyszeripart sem hagyja hidegen",
+      "description": "2022-ben Eur\u00f3p\u00e1ban t\u00f6bb helyi eredet\u0171, a tigrissz\u00fanyogok \u00e1ltal terjesztett dengue megbeteged\u00e9s fordult el\u0151, mint az el\u0151z\u0151 \u00e9vtizedben \u00f6sszesen - \u00edrja a Politico. A gy\u00f3gyszeripar m\u00e1r elkezdte n\u00f6velni a vakcin\u00e1val kapcsolatos beruh\u00e1z\u00e1sokat.",
+      "url": "https://hvg.hu/gazdasag/20231003_Egyre_tobb_a_betegseget_terjeszto_tigrisszunyog_Europaban_ez_a_gyogyszeripart_sem_hagyja_hidegen",
+      "urlToImage": "https://api.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/ba8e5999-e96d-4848-9e4c-fea6d408f8d4.jpg",
+      "publishedAt": "2023-10-03 05:33:00",
+      "content": "2022-ben Eur\u00f3p\u00e1ban t\u00f6bb helyi eredet, a tigrissz\u00fanyogok \u00e1ltal terjesztett dengue megbeteged\u00e9s fordult el, mint az elz \u00e9vtizedben \u00f6sszesen - \u00edrja a Politico. A gy\u00f3gyszeripar m\u00e1r elkezdte n\u00f6velni a vak\u2026 [+2116 chars]",
+      "retrievedAt": "2023-10-04 07:05:39.734078",
+      "internal_id": "fe3ee33617a4320e976fce3bc7f478af2408d19db8ffd022efc26b669854292a",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2260,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: WHO Approves Second Malaria Vaccine for Children",
+      "description": "[UN News] The World Health Organization (WHO) on Monday recommended a new anti-malaria vaccine for children, a move that could offer countries a cheaper and more readily available option than the world's first shot against the parasitic disease.",
+      "url": "https://allafrica.com/stories/202310030014.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-03 04:57:24",
+      "content": "The World Health Organization (WHO) on Monday recommended a new anti-malaria vaccine for children, a move that could offer countries a cheaper and more readily available option than the world's first\u2026 [+3442 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.354983",
+      "internal_id": "4116d087d05ef221f73733ea4e6bec0fab13ebf791e8e386b03941129b643d4c",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2262,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigeria: WHO Recommends R21/Matrix-M Vaccine for Use Against Malaria",
+      "description": "[Premium Times] The R21/Matrix-M vaccine is the second vaccine against malaria to be approved by WHO.",
+      "url": "https://allafrica.com/stories/202310030006.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-03 04:49:38",
+      "content": "The R21/Matrix-M vaccine is the second vaccine against malaria to be approved by WHO. The World Health Organisation (WHO) has recommended a new vaccine, R21/Matrix-M, for the prevention of malaria i\u2026 [+3946 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.367373",
+      "internal_id": "f1dd5b2136500d1dac30e1e917e0517b07df6d5e4d7afc6c2d72d3a044b1f963",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2239,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Helen Regan",
+      "title": "Bangladesh's worst ever dengue outbreak has now killed more than 1,000 people",
+      "description": "More than 1,000 people have died from dengue in Bangladesh's worst outbreak on record, official data shows, with rising temperatures due to the climate crisis driving the ongoing spread as more cases are reported away from dense urban centers for the first ti\u2026",
+      "url": "https://www.cnn.com/2023/10/03/asia/bangladesh-dengue-fever-1000-deaths-intl-hnk-climate/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231003111848-01-gladesh-dengue-deaths.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-03 04:30:00",
+      "content": "More than 1,000 people have died from dengue in Bangladeshs worst outbreak on record, official data shows, with rising temperatures due to the climate crisis driving the ongoing spread as more cases \u2026 [+3612 chars]",
+      "retrievedAt": "2023-10-04 07:05:39.747039",
+      "internal_id": "054e5c88c55f29c0d32c0a77f42b408565febb6d324173f4ce2834b929aa2bbc",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2259,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "PTI",
+      "title": "WHO approves world\u2019s 2nd malaria vaccine by Oxford-Serum Institute, to be rolled out next year",
+      "description": "WHO approves malaria vaccine developed by Oxford Univ. & SII, paving way for global roll-out. Vaccine has good safety & efficacy, 100M doses/annum capacity. WHO recommendation marks milestone in fighting malaria, additional regulatory approvals expected soon.\u2026",
+      "url": "https://www.thehindubusinessline.com/news/world/who-approves-worlds-2nd-malaria-vaccine-by-oxford-serum-institute-to-be-rolled-out-next-year/article67374544.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/n9x2om/article67374557.ece/alternates/LANDSCAPE_1200/2023-10-02T155427Z_1035183302_RC2V2V9JU26X_RTRMADP_3_HEALTH-MALARIA-WHO.JPG",
+      "publishedAt": "2023-10-03 03:26:11",
+      "content": "Serum Institute of India on Monday said the World Health Organisation (WHO) has approved a malaria vaccine, paving the way for the global roll-out of the world's second such vaccine. The recommendat\u2026 [+1541 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.344134",
+      "internal_id": "66736791f9ba1275e32dcf2105bff73a70e6ad830c0d92a8e05f815e6454253c",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2256,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Business Today",
+      "author": "Business Today Desk",
+      "title": "WHO recommends malaria vaccine made by Oxford University, Serum Institute; roll out expected in mid-2024",
+      "description": "The World Health Organization (WHO) on Monday recommended a new malaria vaccine, R21/Matrix-M, to curb the life-threatening disease spread to humans by some mosquitoes",
+      "url": "https://www.businesstoday.in/industry/pharma/story/who-recommends-malaria-vaccine-made-by-oxford-university-serum-institute-roll-out-expected-in-mid-2024-400421-2023-10-03",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202310/ezgif-sixteen_nine_22.jpg",
+      "publishedAt": "2023-10-03 03:07:23",
+      "content": "The World Health Organization (WHO) on Monday recommended a new malaria vaccine, R21/Matrix-M, to curb the life-threatening disease spread to humans by certain mosquitoes. The R21/Matrix-M vaccine is\u2026 [+2066 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.332131",
+      "internal_id": "1b7073966f182989a0f873e1e06b3d66fd4d5086ffcb3239b31015cca56ed6dd",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2242,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Bangladesh dengue outbreak: Death toll crosses 1000",
+      "description": "Bangladesh is experiencing its worst recorded outbreak of dengue fever, with over 1,000 deaths and nearly 209,000 infections reported in the first nine months of 2023. Hospitals are struggling to accommodate the rapidly spreading disease in the densely popula\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/bangladesh-dengue-outbreak-death-toll-crosses-1000/articleshow/104117346.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104117383,width-1070,height-580,imgsize-912650,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-03 01:41:37",
+      "content": "15 Indian states and their traditional weaves and fabrics",
+      "retrievedAt": "2023-10-04 07:05:39.779462",
+      "internal_id": "f709a7f6a8e609e666ba9c3e1f4c3e13f89755ce5388b6d86e89a6911548e9f6",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2245,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Bangladesh dengue deaths top 1,000 in worst outbreak",
+      "description": "At least 1,017 people have died so far in 2023 and nearly 209,000 infected, the data showed, making this the deadliest year since the first recorded epidemic in 2000.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/bangladesh-dengue-deaths-top-1000-in-worst-outbreak/articleshow/104117309.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104117324,width-1200,height-630,imgsize-23506,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-03 01:39:31",
+      "content": "The death toll from Bangladesh's worst dengue outbreak on record has topped 1,000 this year, official data showed, with hospitals struggling to make space for patients as the disease spreads rapidly \u2026 [+2094 chars]",
+      "retrievedAt": "2023-10-04 07:05:39.797773",
+      "internal_id": "2a89ff92c6cb8b41f1a6d1d24e0bf48158cd3f6c4c627887b646679ce8ad39f1",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2244,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Maharashtratimes.com",
+      "author": null,
+      "title": "\u0928\u093e\u0936\u093f\u0915 \u092c\u0928\u0932\u0947 \u0921\u0947\u0902\u0917\u094d\u092f\u0942\u091a\u093e '\u0939\u0949\u091f\u0938\u094d\u092a\u0949\u091f'; \u0938\u092a\u094d\u091f\u0947\u0902\u092c\u0930 \u092e\u0939\u093f\u0928\u094d\u092f\u093e\u0924 \u0967,\u0966\u096c\u096c \u0938\u0902\u0936\u092f\u093f\u0924, \u0924\u0930 \u092a\u0949\u091d\u093f\u091f\u093f\u0935\u094d\u0939 \u0930\u0941\u0917\u094d\u0923\u0939\u0940 \u0905\u0921\u0940\u091a\u0936\u0947 \u092a\u093e\u0930",
+      "description": "Dengue Cases In Nashik : \u0936\u0939\u0930\u093e\u0924 \u092f\u0902\u0926\u093e \u092a\u093e\u0935\u0938\u093e\u091a\u0947 \u092a\u094d\u0930\u092e\u093e\u0923 \u0915\u092e\u0940 \u0905\u0938\u0924\u093e\u0928\u093e\u0939\u0940 \u0921\u0947\u0902\u0917\u094d\u092f\u0942\u092c\u093e\u0927\u093f\u0924 \u0930\u0941\u0917\u094d\u0923\u093e\u0902\u091a\u093e \u090f\u0915\u0942\u0923 \u0906\u0915\u0921\u093e \u096b\u0968\u0968 \u0935\u0930 \u092a\u094b\u0939\u094b\u091a\u0932\u094d\u092f\u093e\u0928\u0947 \u0928\u093e\u0936\u093f\u0915 \u0921\u0947\u0902\u0917\u094d\u092f\u0942\u091a\u0947 \u2018\u0939\u0949\u091f\u0938\u094d\u092a\u0949\u091f\u2019 \u092c\u0928\u0932\u0947 \u0906\u0939\u0947.",
+      "url": "https://maharashtratimes.com/maharashtra/nashik/nashik-became-dengue-hotspot-1066-suspected-261-positive-in-september/articleshow/104117046.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-31838,msid-104117091/maharashtra-times.jpg",
+      "publishedAt": "2023-10-03 01:26:25",
+      "content": ". . , : . , , . . , . , . .. . . , . . . . , . . . . . , . , . . . . . . . . . . . , . , ; , ... - - - - - - - - - - Marathi News App: ? . LiveMarathi Breaking News Today: \u2026 [+213 chars]",
+      "retrievedAt": "2023-10-04 07:05:39.789695",
+      "internal_id": "0cd906afcc2b1694ff5c6e36dbf9addf1abf38fe4247475ed4011ff959d67d3f",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2247,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Reuters",
+      "title": "WHO recommends malaria vaccine that will be rolled out next year",
+      "description": "&quot;Almost exactly two years ago, WHO recommended the broad use of the world's first malaria vaccine called RTS,S,&quot; WHO chief Tedros Adhanom Ghebreyesus told a briefing in Geneva.",
+      "url": "https://www.moneycontrol.com/news/world/who-recommends-malaria-vaccine-that-will-be-rolled-out-next-year-11466031.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/08/JJs-vaccine-picture-via-AFP-770x433.jpg",
+      "publishedAt": "2023-10-03 00:57:00",
+      "content": "The World Health Organization (WHO) recommended on Monday the use of a second malaria vaccine to curb the life-threatening disease spread to humans by some mosquitoes. \"Almost exactly two years ago,\u2026 [+3319 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.288237",
+      "internal_id": "b3547fd7870c13e9eea2358dd897609c63db9ed9633ce56aec0ddeaff59ff4bc",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2248,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Bloomberg",
+      "title": "World\u00e2\u0080\u0099s biggest vaccine maker sees malaria shot saving kids\u00e2\u0080\u0099 lives",
+      "description": "The vaccine developed with researchers at the University of Oxford, known as R21, was recommended Monday by the WHO for use in Africa for children under five years old, the age group and continent that bear the brunt of a disease that kills more than 600,000 \u2026",
+      "url": "https://www.moneycontrol.com/news/world/worlds-biggest-vaccine-maker-sees-malaria-shot-saving-kids-lives-11466021.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/01/Cancer-vaccine-770x433.jpg",
+      "publishedAt": "2023-10-03 00:50:40",
+      "content": "Serum Institute of India Ltd., the worlds biggest vaccine maker, said its shot that gained a World Health Organization recommendation has the potential to significantly reduce fatalities from malaria\u2026 [+2661 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.291745",
+      "internal_id": "70044f1242856a35423e0c254e9252e54b7731ff22035aa7f17f0501ea377173",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2261,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (VOA News)",
+      "title": "WHO Announces 2nd Malaria Vaccine Recommendation",
+      "description": "The World Health Organization on Monday announced the recommendation of a second malaria vaccine, with the aim of giving countries a cheaper and more readily available option to tackle the deadly disease. Developed by Oxford University with the help of the \u2026",
+      "url": "https://www.voanews.com/a/who-announces-2nd-malaria-vaccine-recommendation-/7293949.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-aadd-08dbc3833ea3_w1200_r1.jpg",
+      "publishedAt": "2023-10-03 00:33:15",
+      "content": "The World Health Organization on Monday announced the recommendation of a second malaria vaccine, with the aim of giving countries a cheaper and more readily available option to tackle the deadly dis\u2026 [+1833 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.365105",
+      "internal_id": "22c5eb6d020d85e17dcf30ec5cfc596aa6ea00bd593a2215afcb48cd747ec16a",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2252,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "WHO Recommends Malaria Vaccine Made By Oxford University, Serum Institute",
+      "description": "The R21/Matrix-M malaria vaccine developed by the University of Oxford and the Serum Institute of India has been recommended for use by the World Health Organisation (WHO) after meeting required safety, quality and effectiveness standards.",
+      "url": "https://www.ndtv.com/india-news/who-recommends-malaria-vaccine-made-by-oxford-university-serum-institute-4444140",
+      "urlToImage": "https://c.ndtvimg.com/2021-07/op395kok_vaccine-generic_625x300_14_July_21.jpg",
+      "publishedAt": "2023-10-03 00:00:40",
+      "content": "To date, the R21/Matrix-M malaria vaccine has been licensed for use in Ghana, Nigeria and Burkina Faso. Pune: The R21/Matrix-M malaria vaccine developed by the University of Oxford and the Serum Ins\u2026 [+3328 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.318005",
+      "internal_id": "426d0418013fc80dd7aa525d2388d2f9bf275c413140101dd475b134efdc2892",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2255,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "WHO recommends second malaria vax, it will be rolled out next year",
+      "description": "Europe News: GENEVA: The World Health Organization recommended on Monday the use of a second malaria vaccine to curb the life-threatening disease spread to humans .",
+      "url": "https://timesofindia.indiatimes.com/world/europe/who-recommends-second-malaria-vax-it-will-be-rolled-out-next-year/articleshow/104116369.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104116409,width-1070,height-580,imgsize-889896,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-02 23:46:35",
+      "content": "15 Indian states and their traditional weaves and fabrics",
+      "retrievedAt": "2023-10-04 07:05:40.328777",
+      "internal_id": "25805178de97b6b23069d62fa4b0fa42e6d34101a9f4897f44d153807f66396e",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2251,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "Nigeria to get malaria vaccine 2024, says FG",
+      "description": "The Federal Government said there is high hope that Nigeria will get the World Health Organisation newly-recommended R21/Matrix-M vaccine for the prevention of malaria in children by mid-2024. The Executive Director and Chief Executive Officer of NPHCDA, Dr F\u2026",
+      "url": "https://punchng.com/nigeria-to-get-malaria-vaccine-2024-says-fg/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/22015336/malaria.jpg",
+      "publishedAt": "2023-10-02 23:31:44",
+      "content": "The Federal Government said there is high hope that Nigeria will get the World Health Organisation newly-recommended R21/Matrix-M vaccine for the prevention of malaria in children by mid-2024. The E\u2026 [+895 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.307922",
+      "internal_id": "2bd568b95d0fd14c39b979c7abae96f6ef59deab87273cd998f71d99d7e16951",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2249,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "UN authorises a second malaria vaccine, but experts warn it's not enough to stop the disease spreading",
+      "description": "The new three shot vaccine is said to be more than 75 per cent effective, while experts say the jab won't stop malaria but could play a part in reducing deaths and severe illness.",
+      "url": "https://www.abc.net.au/news/2023-10-03/un-second-malaria-vaccine-experts-warn-not-enough-dengue/102927554",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/315c3414ff6c8aa49e65f29e6e01ee07?impolicy=wcms_crop_resize&cropH=2812&cropW=5000&xPos=0&yPos=32&width=862&height=485",
+      "publishedAt": "2023-10-02 23:05:14",
+      "content": "The World Health Organization (WHO) has authorised a second malaria vaccine, in a decision that could offer countries a cheaper and a more readily available option than the world's first shot against\u2026 [+4891 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.296732",
+      "internal_id": "9a17476942ad4f7bf83f6116d6d46d25ea37ffdb4201445115cad14bcb83f170",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2240,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "OMS recomenda vacinas contra mal\u00e1ria e dengue diante de onda de mosquitos",
+      "description": "Entidade fez alerta sobre risco das doen\u00e7as principalmente para crian\u00e7as; Qdenga foi aprovada para uso no Brasil em mar\u00e7o",
+      "url": "https://veja.abril.com.br/saude/oms-recomenda-vacinas-contra-malaria-e-dengue-diante-de-onda-de-mosquitos",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/aedes_aegypti-dengue2.webp?w=680&h=453&crop=1",
+      "publishedAt": "2023-10-02 22:47:48",
+      "content": "Diante do aumento das doen\u00e7as transmitidas por mosquitos em diferentes partes do mundo, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) divulgou nesta segunda-feira, 2, um comunicado recomendando a nova vacina \u2026 [+2768 chars]",
+      "retrievedAt": "2023-10-04 07:05:39.753532",
+      "internal_id": "011c2c32394c2fe1a6ade323001db644971adfd188d2e6b265028759bcf43d3b",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2263,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Associated Press)",
+      "title": "La OMS autoriza segunda vacuna contra la malaria",
+      "description": "La OMS autoriz\u00f3 una segunda vacuna para la malaria, basada en las recomendaci\u00f3n de dos grupos de expertos. Algunos pa\u00edses podr\u00edan tenerla el pr\u00f3ximo a\u00f1o si se consigue el financiamiento.",
+      "url": "https://www.vozdeamerica.com/a/oms-autoriza-segunda-vacuna-contra-malaria/7293861.html",
+      "urlToImage": "https://gdb.voanews.com/d00ef53f-48b7-47d8-b863-94865bdacf0a_w1200_r1.jpg",
+      "publishedAt": "2023-10-02 21:51:33",
+      "content": "LONDRES La Organizaci\u00f3n Mundial de Salud (OMS) autoriz\u00f3 el lunes una segunda vacuna para la malaria, una decisi\u00f3n que podr\u00eda ofrecer a los gobiernos una opci\u00f3n m\u00e1s barata y accesible que la primera \u2026 [+2183 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.369939",
+      "internal_id": "9b51b8cec6761830ad4176e042bd7458be90c776d2be2a5b9645f4527ee08a6d",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2246,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Inexpensive new malaria vaccine is a 'vital tool' to protect tens of millions of people",
+      "description": "The World Health Organization has recommended the use of a malaria vaccine called Matrix-M, which is anticipated to boost the vaccine supply.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/inexpensive-new-malaria-vaccine-is-a-vital-tool-to-protect-tens-of-millions-of-people",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oDUWhJayYUsw7kMqQ3bbbU-1200-80.jpg",
+      "publishedAt": "2023-10-02 21:42:58",
+      "content": "The World Health Organization (WHO) has just recommended a second vaccine to prevent malaria in children, almost exactly two years after it recommended the world's first . When given seasonally, th\u2026 [+2631 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.279639",
+      "internal_id": "a3794db2794409977ff747da7534876de9d3f47c1f8c4e492838032b7565d6b8",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2241,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "EFE",
+      "title": "Primera vacuna contra dengue recomendada por la OMS: \u00bfCu\u00e1l es su eficacia?",
+      "description": "La primera vacuna contra el dengue llega en un momento en el que la transmisi\u00f3n de la enfermedad incrementa a nivel mundial debido al cambio clim\u00e1tico.",
+      "url": "https://www.elfinanciero.com.mx/mundo/2023/10/02/primera-vacuna-contra-dengue-recomendada-por-la-oms-cual-es-su-eficacia/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/1QqLaFLyQG6iahuv37n7RRz7yos=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MFE5QPLJB5FIDGGILMBXRL4B34.jpg",
+      "publishedAt": "2023-10-02 21:37:31",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) recomend\u00f3 hoy la primera vacuna contra el dengue, desarrollada por la farmac\u00e9utica japonesa Takeda, en un momento en el que la transmisi\u00f3n de esta enfermedad\u2026 [+3282 chars]",
+      "retrievedAt": "2023-10-04 07:05:39.772443",
+      "internal_id": "d5d12eca499a39fc4374789b98d9cb9e4dea1c4712a7dc8e6480d41a266a7afb",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2253,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": null,
+      "title": "WHO recommends new malaria vaccine",
+      "description": "The World Health Organization has recommended a new vaccine that is 75% effective against malaria, a disease which claims hundreds of thousands of children\u2019s lives each year. We speak to one of the scientists who developed it. Also in the programme: Former U\u2026",
+      "url": "https://www.bbc.co.uk/programmes/w172z09myy2h1hc",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0gj0zmr.jpg",
+      "publishedAt": "2023-10-02 21:29:00",
+      "content": "The World Health Organization has recommended a new vaccine that is 75% effective against malaria, a disease which claims hundreds of thousands of childrens lives each year. We speak to one of the sc\u2026 [+462 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.320997",
+      "internal_id": "d6f3d6e0742e8d42d7fa11d23e3cb02b45a35e4e9b37bff4a9d4ceabf7e6a1ba",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2243,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Alma Preta",
+      "title": "Estudo da Fiocruz aponta elevada coinfec\u00e7\u00e3o de dengue e chikungunya no Brasil",
+      "description": "Os resultados revelaram que o n\u00famero de casos de chikungunya em 2023 \u00e9 quase sete vezes superior ao registrado em 2022; prolifera\u00e7\u00e3o da dengue preocupa em territ\u00f3rios perif\u00e9ricos O post Estudo da Fiocruz aponta elevada coinfec\u00e7\u00e3o de dengue e chikungunya no Br\u2026",
+      "url": "https://www.terra.com.br/nos/estudo-da-fiocruz-aponta-elevada-coinfeccao-de-dengue-e-chikungunya-no-brasil,5cb0f8c8ce693015f70c57658b3780900ce74ngu.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2023-10-02 21:01:16",
+      "content": "A partir da pesquisa conduzida pelo Instituto de Ci\u00eancias Biol\u00f3gicas (ICB) da Universidade Federal de Minas Gerais (UFMG), o Instituto de Tecnologia em Imunobiol\u00f3gicos (Bio-Manguinhos/Fiocruz) criou \u2026 [+2401 chars]",
+      "retrievedAt": "2023-10-04 07:05:39.785227",
+      "internal_id": "abc4072f65bd2889552671067c2e0736b367af763b8bf2da6308268e5d0f430c",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2258,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Giuseppe Remuzzi",
+      "title": "Non solo pandemia. Dalla malaria ai tumori questa tecnologia salver\u00e0 molte altre vite",
+      "description": "I due scienziati ai quali \u00e8 stato assegnato il Nobel per la Medicina e il valore del loro lavoro",
+      "url": "https://www.corriere.it/cronache/23_ottobre_02/non-solo-pandemia-malaria-tumori-questa-tecnologia-salvera-molte-altre-vite-83261396-615b-11ee-ad73-20266ed94fc1.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/10/02/13152460-615c-11ee-ad73-20266ed94fc1.jpg",
+      "publishedAt": "2023-10-02 19:49:21",
+      "content": "di Giuseppe RemuzziI due scienziati ai quali \u00e8 stato assegnato il Nobel per la Medicina e il valore del loro lavoro I l 7 ottobre del 2021 il New England Journal of Medicine pubblica un lavoro di Ly\u2026 [+3031 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.340321",
+      "internal_id": "ded3c01a8731713c838ada6c89bbe76a9bc0ea4296e92ba59acbb60cf55f8a14",
+      "publishedAtLabel": "Oct 2"
+    },
+    {
+      "id": 2257,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Viswanath Pilla",
+      "title": "Oxford-Serum malaria vaccine wins WHO's recommendation",
+      "description": "The R21/Matrix-M malaria vaccine is an easily deployable vaccine that can be manufactured at mass scale at a modest cost, enabling as many as hundreds of millions of doses to be supplied to countries which are suffering a significant malaria burden, according\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/oxford-serum-malaria-vaccine-wins-whos-recommendation/articleshow/104113600.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104113614,width-1200,height-630,imgsize-67210,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-02 19:07:20",
+      "content": "Mumbai: A malaria vaccine jointly developed by University of Oxford and Serum Institute of India (SII), leveraging Novavax's adjuvant, has been recommended for use by the World Health Organization's \u2026 [+1797 chars]",
+      "retrievedAt": "2023-10-04 07:05:40.336296",
+      "internal_id": "d267a09a5eade57265ea10c933a2c4738212328325080589dc69ea59e5fdf1b3",
+      "publishedAtLabel": "Oct 2"
+    },
     {
       "id": 2169,
       "query": [
@@ -3159,474 +3628,6 @@
       "retrievedAt": "2023-09-28 07:05:44.237893",
       "internal_id": "b941d54e968a0b01a40a612b9fce6a67cd0e4e1ed57fd5987cc378aed41e0580",
       "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2068,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Michelle Chin",
-      "title": "Weekly dengue cases in Singapore exceed 300 over past 2 weeks",
-      "description": "The latest cases bring the total number of dengue cases in 2023 to more than 7,000. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/health/weekly-dengue-cases-in-singapore-exceed-300-over-past-2-weeks",
-      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/09/27/IMGdengue11N547DJO.jpg",
-      "publishedAt": "2023-09-27 00:04:34",
-      "content": "SINGAPORE Reported dengue cases here have surpassed 300 weekly for the first time in 2023 over the past two weeks. There were 330 reported cases between Sept 10 and Sept 16, and 303 reported cases \u2026 [+1502 chars]",
-      "retrievedAt": "2023-09-28 07:05:45.150405",
-      "internal_id": "5ab27aadac2394613dfa57bb9d45c4ee7fa7955ebc80b2763e591d0a8f9f6109",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2067,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Sumitra Debroy",
-      "title": "Mumbai dengue cases up 3 times in June-Sept than all of last yr",
-      "description": "A 27-year-old man in Mumbai fell into a coma due to acute liver failure caused by dengue encephalopathy, making it one of the most severe cases of dengue this year. There has been a significant increase in dengue cases this monsoon season, with the city repor\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/city-dengue-cases-up-3x-in-june-sept-than-all-of-last-yr/articleshow/103973218.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-103973219,width-1070,height-580,imgsize-713569,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-09-26 23:04:59",
-      "content": "How much vitamin D you need as per your age",
-      "retrievedAt": "2023-09-28 07:05:45.133527",
-      "internal_id": "238858863143f24597c1f62df18dd2b20935d05ba34bd39fef173a550d39d7e4",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2064,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Sky News Australia",
-      "author": "David Wu",
-      "title": "Victorian health authorities report new measles case in overseas traveller as Woolworths exposure site named",
-      "description": "Victorian residents have been told to remain vigilant for any symptoms related to measles, after a case was detected in an overseas traveller returning home.",
-      "url": "https://www.skynews.com.au/lifestyle/health/victorian-health-authorities-report-new-measles-case-in-overseas-traveller-as-woolworths-exposure-site-named/news-story/deccda2a50d4c1883b8304ccffe61419",
-      "urlToImage": "https://content.api.news/v3/images/bin/37a9cffe00a45de19e057627b025cae8",
-      "publishedAt": "2023-09-26 22:04:17",
-      "content": "Victorian residents have been told to remain vigilant for any symptoms related to measles, after a case was detected in an overseas traveller returning home. The state's Department of Health announc\u2026 [+1940 chars]",
-      "retrievedAt": "2023-09-28 07:05:44.515359",
-      "internal_id": "37780074272014d61fc7b146585b308f0065eb08ae3a64f3b545c095714c9910",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2069,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Antonio Vazquez, Chercheur, Universit\u00e9 de Perpignan, Annia Alba Men\u00e9ndez, Chercheur contractuel en Parasitologie fonctionnel et \u00e9volutive et en Biologie des syst\u00e8mes",
-      "title": "Pourquoi la grande douve du foie est une menace latente, m\u00eame en France",
-      "description": "La douve du foie est un ver parasite qui infecte les animaux d\u2019\u00e9levage et l\u2019\u00eatre humain, via la consommation de v\u00e9g\u00e9taux crus. Sa r\u00e9\u00e9mergence appelle \u00e0 la vigilance, notamment dans le sud de l\u2019Europe.",
-      "url": "https://theconversation.com/pourquoi-la-grande-douve-du-foie-est-une-menace-latente-meme-en-france-213800",
-      "urlToImage": "https://images.theconversation.com/files/549751/original/file-20230922-17-8sdegr.jpg?ixlib=rb-1.1.0&rect=26%2C94%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2023-09-26 19:08:02",
-      "content": "Certains vecteurs de maladies infectieuses font l\u2019actualit\u00e9. C\u2019est le cas du moustique tigre dont la piq\u00fbre peut provoquer la dengue ou de la tique, qui peut transmettre la maladie de Lyme. Mais une\u2026 [+9364 chars]",
-      "retrievedAt": "2023-09-28 07:05:45.154248",
-      "internal_id": "e4669c56716dcd0750476df423489f5abfd02a4d2181968e50fe9fb6972a5b93",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2048,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Checkyourfact.com",
-      "author": "Anna Mock",
-      "title": "FACT CHECK: Is Sudden Infant Death Syndrome Linked To The DTaP Vaccine?",
-      "description": "A post claims Sudden Infant Death Syndrome (SIDS) is linked to the vaccine for Diphtheria and Tetanus Toxoids and Acellular Pertussis (DTaP).",
-      "url": "https://checkyourfact.com/2023/09/26/fact-check-sudden-infant-death-syndrome-dtap-vaccine/",
-      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/09/2023-09-12T172330Z_1031750240_RC22JT9X7H4T_RTRMADP_3_HEALTH-CORONAVIRUS-CANADA-scaled-e1695660258497.jpg",
-      "publishedAt": "2023-09-26 15:03:34",
-      "content": "A post shared on Instagram claims Sudden Infant Death Syndrome (SIDS) is linked to the vaccine for Diphtheria and Tetanus Toxoids and Acellular Pertussis (DTaP). Verdict: False The claim is unfoun\u2026 [+2538 chars]",
-      "retrievedAt": "2023-09-27 19:05:26.876420",
-      "internal_id": "e937614fd49eb00b286d44ca6dc95416a3f6f09c523b06b7ceff108d8402af3f",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2049,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "PRNewswire",
-      "title": "YS Biopharma Announces First Subject Enrollment in Pivotal Phase 3 Clinical Trial of PIKA Rabies Vaccine",
-      "description": "(marketscreener.com) GAITHERSBURG, Md., Sept. 26, 2023 /PRNewswire/ -- YS Biopharma Co., Ltd. , a global biopharmaceutical company dedicated to discovering, developing, manufacturing, and delivering new generations of vaccines and therapeutic biologics for \u2026",
-      "url": "https://www.marketscreener.com/quote/stock/YS-BIOPHARMA-CO-LTD-152273024/news/YS-Biopharma-Announces-First-Subject-Enrollment-in-Pivotal-Phase-3-Clinical-Trial-of-PIKA-Rabies-Vac-44922506/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-09-26 12:31:09",
-      "content": "GAITHERSBURG, Md., Sept. 26, 2023 /PRNewswire/ -- YS Biopharma Co., Ltd. (NASDAQ: YS) (\"YS Biopharma\" or the \"Company\"), a global biopharmaceutical company dedicated to discovering, developing, manuf\u2026 [+9377 chars]",
-      "retrievedAt": "2023-09-27 19:05:27.050163",
-      "internal_id": "fb1f5fb5945969fa19eb5e86a1522cc9e80fb4918c90c0b7e6590988251aada5",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2055,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u0926\u0940\u0926\u0940 \u0915\u0940 \u0926\u0947\u0928 \u0939\u0948...\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0938\u0902\u0915\u091f, \u0938\u094d\u092a\u0947\u0928 \u0915\u0940 \u092f\u093e\u0924\u094d\u0930\u093e \u092a\u0930 \u0917\u0908 \u0938\u0940\u090f\u092e \u092e\u092e\u0924\u093e \u092c\u0928\u0930\u094d\u091c\u0940 \u092a\u0930 \u0905\u0927\u0940\u0930 \u0930\u0902\u091c\u0928 \u091a\u094c\u0927\u0930\u0940 \u0915\u093e \u0938\u0940\u0927\u093e \u0905\u091f\u0948\u0915",
-      "description": "West Bengal Dengue Crisis: \u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0938\u0902\u0915\u091f \u0915\u0947 \u092c\u0940\u091a \u0938\u094d\u092a\u0947\u0928 \u0915\u0940 \u092f\u093e\u0924\u094d\u0930\u093e \u092a\u0930 \u0917\u0908 \u0930\u093e\u091c\u094d\u092f \u0915\u0940 \u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u092e\u092e\u0924\u093e \u092c\u0928\u0930\u094d\u091c\u0940 \u092a\u0930 \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u0928\u0947\u0924\u093e \u0905\u0927\u0940\u0930 \u0930\u0902\u091c\u0928 \u091a\u094c\u0927\u0930\u0940 \u0928\u0947 \u0915\u095c\u093e \u0939\u092e\u0932\u093e \u092c\u094b\u0932\u093e \u0939\u0948\u0964 \u091a\u094c\u0927\u0930\u0940 \u0928\u0947 \u0930\u093e\u091c\u094d\u092f \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0940 \u0938\u094d\u0925\u093f\u0924\u093f \u0915\u0947 \u0932\u093f\u090f \u0938\u0940\u090f\u092e \u0915\u094b \u091c\u093f\u092e\u094d\u092e\u0947\u0926\u093e\u0930 \u0920\u0939\u0930\u093e\u092f\u093e \u0939\u0948\u0964 \u091a\u094c\u0927\u0930\u0940 \u0928\u0947 \u0915\u0939\u093e \u0907\u0938\u0915\u0940\u2026",
-      "url": "https://navbharattimes.indiatimes.com/state/west-bengal/kolkata/west-bengal-dengue-crisis-congress-leader-adhir-ranjan-chowdhury-takes-a-swipe-at-mamata-banerjee-spain-trip/articleshow/103962509.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-23722,msid-103963084/navbharat-times.jpg",
-      "publishedAt": "2023-09-26 11:51:52",
-      "content": ": , ' ', - 38 30 ( ) - () 22 , Navbharat Times News App: - , , , , -... NBT : MNC , NBT World Heart Day? , , , ' ' ' ' Adv: , , 65% ... \u2026 [+190 chars]",
-      "retrievedAt": "2023-09-27 19:05:27.896223",
-      "internal_id": "9ddb89f97a33ca0f0e90467135d057d7a4a730b0192a515968e42fcf7528cec5",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2057,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Associated Press",
-      "title": "Cholera, dengue outbreaks reported in Sudan as conflict between armed forces continue, UN says",
-      "description": "As Sudan\u2019s military and rival paramilitary force continue its deadly fighting, outbreaks of cholera and dengue fever have been reported in the impoverished nation.",
-      "url": "https://www.foxnews.com/world/cholera-dengue-outbreaks-reported-sudan-conflict-between-armed-forces-continue-un-says",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/sudan-3.jpg",
-      "publishedAt": "2023-09-26 11:03:32",
-      "content": "Outbreaks of cholera and dengue fever have been reported in eastern Sudan, where thousands of people are sheltering as deadly fighting grinds on between the country's military and a rival paramilitar\u2026 [+2924 chars]",
-      "retrievedAt": "2023-09-27 19:05:27.909421",
-      "internal_id": "5133bc5664ca01a59bdcaef28c23f5f9628433d42806ac6a5ef7bf0587808b7c",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2059,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Business Wire",
-      "title": "AN2 Therapeutics Signs Grant Agreement to Discover Novel, Boron Based Therapies for Tuberculosis and Malaria",
-      "description": "(marketscreener.com) Grant from Bill & Melinda Gates Foundation https://www.marketscreener.com/quote/stock/AN2-THERAPEUTICS-INC-135486295/news/AN2-Therapeutics-Signs-Grant-Agreement-to-Discover-Novel-Boron-Based-Therapies-for-Tuberculosis-and-44921668/?utm_\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/AN2-THERAPEUTICS-INC-135486295/news/AN2-Therapeutics-Signs-Grant-Agreement-to-Discover-Novel-Boron-Based-Therapies-for-Tuberculosis-and-44921668/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-09-26 11:02:02",
-      "content": "AN2 Therapeutics, Inc. (Nasdaq: ANTX), a clinical-stage biopharmaceutical company focused on developing treatments for rare, chronic, and serious infectious diseases with high unmet needs, today anno\u2026 [+4504 chars]",
-      "retrievedAt": "2023-09-27 19:05:28.634939",
-      "internal_id": "50dbdb0b0c1b9689ee5356a285b89cfe45b930a6f73d06bedcb8dba0e25ab417",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2050,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Hindustan Times",
-      "author": "Parmita Uniyal",
-      "title": "World Rabies Day: Can rabies be cured? Symptoms and stages of the infection",
-      "description": "Rabies is a deadly viral infection that affects humans and animals, transmitted primarily through the saliva of infected animals. | Health",
-      "url": "https://www.hindustantimes.com/lifestyle/health/world-rabies-day-can-rabies-be-cured-symptoms-and-stages-of-the-infection-in-humans-101695723253518.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/09/26/1600x900/rabies_1695723334298_1695723351038.jpg",
-      "publishedAt": "2023-09-26 10:22:31",
-      "content": "World Rabies Day is observed every year on September 28 in order to bring awareness about the worlds deadliest infectious disease. Rabies is a deadly viral infection that is spread by the bite of an \u2026 [+2494 chars]",
-      "retrievedAt": "2023-09-27 19:05:27.056383",
-      "internal_id": "8bb1b74a7809f2929b15041023eaad91c4014c6e75cfe436ef5c683cdb72f9bd",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2058,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.hs.fi",
-      "author": "Elina Saarilahti HS",
-      "title": "Sudan | YK: \u201dKatastrofi koputtaa Sudanin ovella\u201d \u2013 Denguekuume tappanut jo satoja",
-      "description": "Sota ja pakolaisuus k\u00e4rjist\u00e4v\u00e4t terveydenhuollon kriisi\u00e4 Sudanissa.",
-      "url": "https://www.hs.fi/ulkomaat/art-2000009880393.html",
-      "urlToImage": "https://hs.mediadelivery.fi/img/some/default/fa0862263169f93eb8c310280979b436.jpg",
-      "publishedAt": "2023-09-26 09:59:00",
-      "content": "Sota ja pakolaisuus k\u00e4rjist\u00e4v\u00e4t terveydenhuollon kriisi\u00e4 Sudanissa.Denguekuume-epidemiat ja ripuli ovat tappaneet jo satoja sodan runtelemassa Sudanissa, Sudanin l\u00e4\u00e4k\u00e4rien liitto kertoi maanantaina u\u2026 [+2470 chars]",
-      "retrievedAt": "2023-09-27 19:05:27.924783",
-      "internal_id": "33fec0aa9e67273138012e9c9b9d5b8d8524f46f0d22a3a34b0b98c68e6b848a",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2054,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "SAMY MAGDY Associated Press",
-      "title": "UN says cholera and dengue outbreaks have been reported in eastern Sudan as conflict grinds on",
-      "description": "The U.N. health agency says cholera and dengue outbreaks have been reported in eastern Sudan, where thousands of people are sheltering as deadly fighting grinds on between the country\u2019s military and a rival paramilitary force",
-      "url": "https://abcnews.go.com/Health/wireStory/cholera-dengue-outbreaks-reported-eastern-sudan-conflict-grinds-103486123",
-      "urlToImage": "https://i.abcnewsfe.com/a/a67f2e1f-51a4-403f-8929-dc1534b8f291/wirestory_9ddbd342ff00e4a4f170b93b5142ef62_16x9.jpg?w=992",
-      "publishedAt": "2023-09-26 09:34:23",
-      "content": "CAIRO -- Outbreaks of cholera and dengue fever have been reported in eastern Sudan, where thousands of people are sheltering as deadly fighting grinds on between the country's military and a rival pa\u2026 [+2704 chars]",
-      "retrievedAt": "2023-09-27 19:05:27.888062",
-      "internal_id": "00a1b7cfd8b1ab314c6c70f644375361ddd3aeae22156f7a580abc2f436f1989",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2051,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "SAMY MAGDY",
-      "title": "UN says cholera and dengue outbreaks have been reported in eastern Sudan as conflict grinds on",
-      "description": "Outbreaks of cholera and dengue fever have been reported in eastern Sudan, where thousands of people are sheltering as deadly fighting grinds on between the country\u2019s military and a rival paramilitary force, the UN health agency said on Tuesday.",
-      "url": "https://www.bostonglobe.com/2023/09/26/world/un-says-cholera-dengue-outbreaks-have-been-reported-eastern-sudan-conflict-grinds/",
-      "urlToImage": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=431",
-      "publishedAt": "2023-09-26 09:33:39",
-      "content": "CAIRO Outbreaks of cholera and dengue fever have been reported in eastern Sudan, where thousands of people are sheltering as deadly fighting grinds on between the countrys military and a rival parami\u2026 [+2689 chars]",
-      "retrievedAt": "2023-09-27 19:05:27.875393",
-      "internal_id": "b5dd57f7e69fe68da789ff8f06ca982de1e455f5b540ee5fdc8f996e4683f0f7",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2053,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Le Monde avec AFP",
-      "title": "Au Soudan, des \u00ab centaines de morts \u00bb de la dengue",
-      "description": "Apr\u00e8s l\u2019apparition de cas de rougeole, de paludisme et chol\u00e9ra, des m\u00e9decins sonnent l\u2019alarme sur la propagation de la maladie qui provoque fi\u00e8vres et h\u00e9morragies fatales.",
-      "url": "https://www.lemonde.fr/afrique/article/2023/09/26/au-soudan-des-centaines-de-morts-de-la-dengue_6191036_3212.html",
-      "urlToImage": "https://img.lemde.fr/2023/09/26/0/0/1023/682/1440/960/60/0/5b25dc7_1695719139799-000-33v4322.jpg",
-      "publishedAt": "2023-09-26 09:17:11",
-      "content": "La dengue et les diarrh\u00e9es aigu\u00ebs connaissent une augmentation alarmante au Soudan o\u00f9 la guerre a entra\u00een\u00e9 la fermeture de 100 h\u00f4pitaux, alertent des m\u00e9decins, lundi 25 septembre, appelant \u00e0 endiguer\u2026 [+4837 chars]",
-      "retrievedAt": "2023-09-27 19:05:27.885933",
-      "internal_id": "9da88e0b6a298f3731fe9736d8ee3396f8eb79c799b5221ceb48d1edbac9c935",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2056,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "ZAZALI MUSA",
-      "title": "Dengue cases increased by more than 200% in Johor",
-      "description": "JOHOR BARU: Johor recorded an increase in cumulative dengue cases in epidemiology week 38 (ME38), with 7,543 cases against 2,272 cases in the corresponding period in 2022. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/09/26/dengue-cases-increased-by-more-than-200-in-johor",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/26/2304680.jpg",
-      "publishedAt": "2023-09-26 08:59:00",
-      "content": "JOHOR BARU: Johor recorded an increase in cumulative dengue cases in epidemiology week 38 (ME38), with 7,543 cases against 2,272 cases in the corresponding period in 2022. The state health and unity\u2026 [+1900 chars]",
-      "retrievedAt": "2023-09-27 19:05:27.901001",
-      "internal_id": "24e26706065f92706187a5ea509e70b64ae2e97bb7620218af3f6d00ee55b15b",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2052,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Medical Daily",
-      "author": "Suneeta Sunny",
-      "title": "Dengue Outbreak In Jamaica: Know Symptoms, Steps To Prevent The Mosquito-Borne Illness",
-      "description": "Jamaica has reported 565 cases of dengue. Although there are no confirmed dengue-related deaths in the country so far, six deaths are being investigated, health officials said.",
-      "url": "https://www.medicaldaily.com/dengue-outbreak-jamaica-know-symptoms-steps-prevent-mosquito-borne-illness-470875",
-      "urlToImage": "https://d.medicaldaily.com/en/full/470202/mosquito.jpg",
-      "publishedAt": "2023-09-26 07:52:37",
-      "content": "A dengue outbreak has been declared in Jamaica after 565 \"suspected, presumed and confirmed\" cases were reported in the country. The Caribbean nation witnessed an increasing number of cases in the l\u2026 [+2314 chars]",
-      "retrievedAt": "2023-09-27 19:05:27.882485",
-      "internal_id": "c25038ee92b4ecd70ef61c1a033a2dc4c1ab69e8dc5977c9e9b1927502f714a1",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2047,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Three die of dengue infection in Tanahu",
-      "description": "TANAHU: Three persons died of dengue infection in Tanahu in recent two months. All three fatalities are from Byas Municipality. The health section of Byas Municipality informed that those losing lives to dengue infection were a 35-year-old man from ward no 10\u2026",
-      "url": "https://english.khabarhub.com/2023/26/319851/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-09-26 07:00:58",
-      "content": "TANAHU: Three persons died of dengue infection in Tanahu in recent two months. All three fatalities are from Byas Municipality. The health section of Byas Municipality informed that those losing liv\u2026 [+1190 chars]",
-      "retrievedAt": "2023-09-27 07:05:40.046467",
-      "internal_id": "475d709a0a051e154fd253e0545cae1821f69771441979451801bfea039ac3a4",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2046,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Bacolod: Possible dengue outbreak in San Carlos barangay",
-      "description": "Bacolod City \u2013 The possibility of a dengue outbreak in Brgy. Rizal, San Carlos City, Negros Occidental, was raised by local health authorities, after 137 cases of dengue, with two fatalities, were recorded in the barangay. Dr. Mary Genevieve Monta\u00f1o, Medical \u2026",
-      "url": "https://rpnradio.com/bacolod-possible-dengue-outbreak-in-san-carlos-barangay/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/09/possible-dengue-outbreak-in-san-carlos.jpg",
-      "publishedAt": "2023-09-26 01:13:45",
-      "content": "Bacolod City \u2013 The possibility of a dengue outbreak in Brgy. Rizal, San Carlos City, Negros Occidental, was raised by local health authorities, after 137 cases of dengue, with two fatalities, were re\u2026 [+1649 chars]",
-      "retrievedAt": "2023-09-27 07:05:40.043929",
-      "internal_id": "47dee610aebfcf1c28c18fcbbf8514e13b327d1fb14df8ba6f0fb1f71540142a",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2039,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": null,
-      "title": "Learning English Podcast",
-      "description": "On today\u2019s podcast, do you know about the solar eclipse in October?; learn how researchers are releasing mosquitos around the world aiming to stop the spread of Dengue fever followed by a discussion about \u2018one and done\u2019; then, ways to talk about differences o\u2026",
-      "url": "https://learningenglish.voanews.com/a/7263994.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-e785-08db45a50883_w1200_r1.jpg",
-      "publishedAt": "2023-09-26 00:30:00",
-      "content": "On todays podcast, do you know about the solar eclipse in October?; learn how researchers are releasing mosquitos around the world aiming to stop the spread of Dengue fever followed by a discussion a\u2026 [+76 chars]",
-      "retrievedAt": "2023-09-27 07:05:40.001018",
-      "internal_id": "309344b2be3724d148846ef241fddaa9c304b1812efe0bc9550db3f418e93634",
-      "publishedAtLabel": "Sep 26"
-    },
-    {
-      "id": 2042,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Japan Times",
-      "author": "The Japan Times",
-      "title": "Hundreds dead from dengue fever in war-torn Sudan, medics say",
-      "description": "Outbreaks of dengue fever and acute watery diarrhea have \"killed hundreds\" in war-torn Sudan, medics reported on Monday, warning of \"catastrophic spreads\" that could overwhelm the country's decimated health system.",
-      "url": "https://www.japantimes.co.jp/news/2023/09/26/world/science-health/dengue-fever-sudan-deaths/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/09/26/253944.jpg",
-      "publishedAt": "2023-09-25 23:52:00",
-      "content": "Port Sudan, Sudan Outbreaks of dengue fever and acute watery diarrhea have \"killed hundreds\" in war-torn Sudan, medics reported on Monday, warning of \"catastrophic spreads\" that could overwhelm the c\u2026 [+489 chars]",
-      "retrievedAt": "2023-09-27 07:05:40.017944",
-      "internal_id": "66757ce8280600d8656a1563a9facb44f0f781fbbe596e3db646615cff2ce00e",
-      "publishedAtLabel": "Sep 25"
-    },
-    {
-      "id": 2041,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Foreign Policy",
-      "author": "Christina Lu",
-      "title": "Biden Boosts Pacific Diplomacy",
-      "description": "But countering China\u2019s growing regional clout is proving to be an uphill battle.",
-      "url": "https://foreignpolicy.com/2023/09/25/biden-pacific-china-summit-diplomacy-solomon-islands/",
-      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2023/09/GettyImages-1700695991.jpg?w=1000",
-      "publishedAt": "2023-09-25 23:00:57",
-      "content": "Welcome back to World Brief, where were looking at U.S. efforts to counter Chinas Pacific diplomacy, the exodus from Nagorno-Karabakh, and Bangladeshs deadly dengue outbreak.Welcome back to World Bri\u2026 [+5319 chars]",
-      "retrievedAt": "2023-09-27 07:05:40.005810",
-      "internal_id": "b54439394d0495fef1230b7ac012f3a4611fe91b76027611ce0ec44238d8be97",
-      "publishedAtLabel": "Sep 25"
-    },
-    {
-      "id": 2038,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "VOA Learning English",
-      "title": "Breeding Special Mosquitoes to Fight Dengue",
-      "description": "Scientists are raising millions of mosquitos that carry bacteria that they hope will stop the spread of dengue fever and other viral diseases.",
-      "url": "https://learningenglish.voanews.com/a/breeding-special-mosquitoes-to-fight-dengue/7269991.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-20aa-08dbb604bc5c_cx0_cy8_cw0_w1200_r1.jpg",
-      "publishedAt": "2023-09-25 22:05:13",
-      "content": "For many years, preventing dengue fever in Honduras has meant teaching people to avoid mosquito bites. Now, Hondurans are being taught a more effective way to control the disease and it goes against \u2026 [+6194 chars]",
-      "retrievedAt": "2023-09-27 07:05:39.993777",
-      "internal_id": "e0a144682e92fe03957306e0d1e3bb2b6a36eb0b75b0cb94cb4c4556792ba905",
-      "publishedAtLabel": "Sep 25"
-    },
-    {
-      "id": 2045,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Melissa Rudy",
-      "title": "Dengue fever: What you need to know about the mosquito-borne illness sweeping Jamaica",
-      "description": "Amid the outbreak of dengue fever currently sweeping Jamaica, health experts are warning about the dangers of the mosquito-borne illness. Here's what to know.",
-      "url": "https://www.foxnews.com/health/dengue-fever-what-you-need-know-mosquito-borne-illness-sweeping-jamaica",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/mosquito-on-skin.jpg",
-      "publishedAt": "2023-09-25 21:21:47",
-      "content": "Amid the outbreak of dengue fever currently sweeping Jamaica, health experts are warning about the dangers of the mosquito-borne illness. Jamaicas Ministry of Health &amp; Wellness announced the out\u2026 [+5070 chars]",
-      "retrievedAt": "2023-09-27 07:05:40.027670",
-      "internal_id": "5eabd1762a87b36c9af68f4cee540ade7e8097fc6d20063197d9610ca5ca274f",
-      "publishedAtLabel": "Sep 25"
-    },
-    {
-      "id": 2044,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Agence France-Presse)",
-      "title": "Medics: Hundreds Dead From Dengue Fever in War-Torn Sudan",
-      "description": "Outbreaks of dengue fever and acute watery diarrhea have \"killed hundreds\" in war-torn Sudan, medics reported on Monday, warning of \"catastrophic spreads\" that could overwhelm the country's decimated health system. In a statement, the Sudanese doctors' unio\u2026",
-      "url": "https://www.voanews.com/a/medics-hundreds-dead-from-dengue-fever-in-war-torn-sudan-/7283459.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0a00-0242-17b0-08dbbe084c40_w1200_r1.jpg",
-      "publishedAt": "2023-09-25 20:48:10",
-      "content": "Port Sudan, Sudan Outbreaks of dengue fever and acute watery diarrhea have \"killed hundreds\" in war-torn Sudan, medics reported on Monday, warning of \"catastrophic spreads\" that could overwhelm the \u2026 [+3853 chars]",
-      "retrievedAt": "2023-09-27 07:05:40.023409",
-      "internal_id": "02626477965a6af47ff92e9e67df1dd05c64d80c56d616deb124ae6c7abde9a0",
-      "publishedAtLabel": "Sep 25"
-    },
-    {
-      "id": 2040,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Propaga\u00e7\u00e3o de dengue est\u00e1 a ser \u201ccatastr\u00f3fica\u201d e causa centenas de mortes no Sud\u00e3o",
-      "description": "Dengue propaga-se e mata de forma \"catastr\u00f3fica\". \"Em cada casa, h\u00e1 pelo menos tr\u00eas pessoas doentes\", diz um habitante do Sud\u00e3o. Conflito no pa\u00eds destruiu o sistema de sa\u00fade que j\u00e1 era insuficiente.",
-      "url": "https://observador.pt/2023/09/25/propagacao-de-dengue-esta-a-ser-catastrofica-e-causa-centenas-de-mortes-no-sudao/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1126%3Anowe%3A0%3A59%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F09%2F25173651%2F41460404.jpg",
-      "publishedAt": "2023-09-25 20:39:56",
-      "content": "A dengue e a diarreia aguda est\u00e3o a aumentar \u201ca um ritmo alarmante\u201d, causando \u201ccentenas de mortes\u201d, no Sud\u00e3o, onde a guerra for\u00e7ou o encerramento de 100 hospitais, alertaram esta segunda-feira m\u00e9dico\u2026 [+2126 chars]",
-      "retrievedAt": "2023-09-27 07:05:40.003545",
-      "internal_id": "f2e5382fa03c86b272f79da792ddba35cd67d1dcfcabfc1cf37c28ac47c19358",
-      "publishedAtLabel": "Sep 25"
-    },
-    {
-      "id": 2043,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Wnd.com",
-      "author": "WND News Services",
-      "title": "Jamaica declares Dengue fever outbreak",
-      "description": "(FOX NEWS) \u2013 Health officials in Jamaica have declared an outbreak of the dengue fever Saturday with at least 565 suspected, presumed and confirmed cases in the Caribbean nation. Jamaica\u2019s Ministry of Health and Wellness says the outbreak comes as its Nationa\u2026",
-      "url": "https://www.wnd.com/2023/09/jamaica-declares-dengue-fever-outbreak/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2022/04/insect-mosquito-Pixabay.jpg",
-      "publishedAt": "2023-09-25 19:42:49",
-      "content": "(Image courtesy Pixabay) (FOX NEWS) Health officials in Jamaica have declared an outbreak of the dengue fever Saturday with at least 565 suspected, presumed and confirmed cases in the Caribbean nati\u2026 [+713 chars]",
-      "retrievedAt": "2023-09-27 07:05:40.020650",
-      "internal_id": "631695897d6985782ab1f74f40aed21f11544079b5d7fedcf613fc690eecbe9d",
-      "publishedAtLabel": "Sep 25"
     }
   ]
 }
