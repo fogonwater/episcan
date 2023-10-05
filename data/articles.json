@@ -1,8 +1,209 @@
 {
-  "last_updated": "2023-10-05 07:05",
+  "last_updated": "2023-10-05 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 2301,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Bernard Cazelles, Ecologie, Epidemiologie, Sorbonne Universit\u00e9",
+      "title": "Maladies transmises par les moustiques, m\u00e9t\u00e9o et climat : des liaisons dangereuses",
+      "description": "Les maladies transmises par les moustiques progressent sous l\u2019influence du climat. Des analyses statistiques pouss\u00e9es des donn\u00e9es \u00e9pid\u00e9miologiques permettraient de mieux pr\u00e9voir les flamb\u00e9es.",
+      "url": "https://theconversation.com/maladies-transmises-par-les-moustiques-meteo-et-climat-des-liaisons-dangereuses-214779",
+      "urlToImage": "https://images.theconversation.com/files/551419/original/file-20231002-17-o3uqig.jpg?ixlib=rb-1.1.0&rect=0%2C159%2C1024%2C512&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2023-10-04 18:39:57",
+      "content": "Aedes aegypti est une esp\u00e8ce d'insectes dipt\u00e8res, un moustique qui est le vecteur principal de la dengue, de l'infection \u00e0 virus Zika, du chikungunya et de la fi\u00e8vre jaune. U.S. NAVY Lors de la cri\u2026 [+9310 chars]",
+      "retrievedAt": "2023-10-05 19:05:28.204478",
+      "internal_id": "0740df541b715cd6f56c30911bf9c24a2ecf0d308a1cb23f76f8d76abe765455",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2294,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Awareness campaign on Dengue held",
+      "description": "HT Bureau GUWAHATI, Oct 4: An awareness rally on pertaining issue related to dengue was organised by the medical department of Dima Hasao in collaboration with Haflong Municipal Board in Haflong town area starting from Haflong Municipal Board field (Lal field\u2026",
+      "url": "https://thehillstimes.in/assam/awareness-campaign-on-dengue-held",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/Awareness-campaign.jpg",
+      "publishedAt": "2023-10-04 18:33:20",
+      "content": "HT BureauGUWAHATI, Oct 4: An awareness rally on pertaining issuerelated to dengue was organised by the medical department ofDima Hasao in collaboration with Haflong Municipal Board inHaflong town are\u2026 [+789 chars]",
+      "retrievedAt": "2023-10-05 19:05:27.022728",
+      "internal_id": "55e3b263e4c1379f93423ba3c409352b44d6ab5cc930f8fd9c0b622b5d9ea9f8",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2291,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Politicopro.com",
+      "author": "Ashleigh Furlong, E&E News",
+      "title": "Dengue's Spread in Europe Could Spur Vaccine Development",
+      "description": "But dengue in wealthy countries could divert medication away from poorer nations that may need it more",
+      "url": "https://subscriber.politicopro.com/article/eenews/2023/10/04/why-dengue-in-europe-could-spell-disaster-for-the-rest-of-the-world-ee-00119710",
+      "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/82EBAA1E-6CA8-4F07-8D6321994576B6CB.jpg",
+      "publishedAt": "2023-10-04 17:00:00",
+      "content": "CLIMATEWIRE | In the early morning of the last day of August, Parisians experienced for the first time a practice normally confined to tropical regions \u2014 authorities fumigating the city against the t\u2026 [+6073 chars]",
+      "retrievedAt": "2023-10-05 19:05:26.985325",
+      "internal_id": "f0bcdb5301e8b9c6ff424fbc0130569a2f98474283d1d662214d194115b742c6",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2297,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Carolyn Pere",
+      "title": "October 5 is World Meningitis Day: \u2018Mana Wahine Toa\u2019: Carolyn Pere\u2019s transformation after meningitis",
+      "description": "She was at the peak of her career. Then the headaches started.",
+      "url": "https://www.nzherald.co.nz/kahu/world-meningitis-day-i-wasnt-going-to-let-meningitis-keep-me-downso-i-took-up-triathlons/GUORA6TSFVEKBBF5WBONVZ4OD4/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/l_2vwF79FvErdRdqFfklfj3rTkI=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/UQY3PPNROVGKDBFHQGGQNT6OKM.jpg",
+      "publishedAt": "2023-10-04 17:00:00",
+      "content": "Carolyn Peres battle with meningitis led to her triathlons.Carolyn Peres life took a drastic and dramatic turn when she contracted bacterial meningitis, sepsis and thrombocytopenia at 57 years old, r\u2026 [+6922 chars]",
+      "retrievedAt": "2023-10-05 19:05:27.265416",
+      "internal_id": "870ff757a3a3e8b36d190e843803c19146a04917b338bc3a804af8c7155e347b",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2295,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Khider Alsedig, Mawahib H. Eldigail, Adel Hussein Elduma, Arwa Elaagip, Omnia Altahir, Hanaa Adli Siam, Yousif Ali, Tajeldin Abdallah",
+      "title": "Prevalence of malaria and dengue co-infections among febrile patients during dengue transmission season in Kassala, eastern Sudan",
+      "description": "Author summary Malaria and dengue are common vector-borne diseases in eastern Sudan. However, co-infections with these two diseases are not reported among febrile patients. Malaria and dengue co-infections need a particular concern because this may increase m\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011660",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011660.g001&size=inline",
+      "publishedAt": "2023-10-04 14:00:00",
+      "content": "Abstract Background Malaria and dengue are common mosquito-borne diseases around the world that cause high mortality and morbidity. The number of cases of both diseases is currently rising in Sudan\u2026 [+29461 chars]",
+      "retrievedAt": "2023-10-05 19:05:27.051765",
+      "internal_id": "7032ceb7b14484ab518decd0f4664b2846c9024924f304511072800f34a9525e",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2300,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Abiodun Nejo",
+      "title": "Ekiti distributes anti-malaria drugs to health facilities",
+      "description": "The Ekiti State Government has restated its commitment to the eradication of malaria in the state with the distribution of drugs and commodities to over 200 health facilities across the 16 local government areas of the state. The Commissioner for Health, Dr O\u2026",
+      "url": "https://punchng.com/ekiti-distributes-anti-malaria-drugs-to-health-facilities/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/22015336/malaria.jpg",
+      "publishedAt": "2023-10-04 12:58:16",
+      "content": "The Ekiti State Government has restated its commitment to the eradication of malaria in the state with the distribution of drugs and commodities to over 200 health facilities across the 16 local gove\u2026 [+2387 chars]",
+      "retrievedAt": "2023-10-05 19:05:27.683688",
+      "internal_id": "0b02f53fb77a7c552746d1fa0deb2983b2c72f25e58afd8dd06893b0ef223dba",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2298,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ari Daniel",
+      "title": "There are now 2 vaccines to slash the frightful toll of malaria",
+      "description": "The World Health Organization has recommended usage of a second vaccine for the prevention of malaria in children. (Story aired on All Things Considered on Oct. 3, 2023.)",
+      "url": "https://www.npr.org/2023/10/04/1203558955/there-are-now-2-vaccines-to-slash-the-frightful-toll-of-malaria",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2023-10-04 11:21:00",
+      "content": "The World Health Organization has recommended usage of a second vaccine for the prevention of malaria in children. (Story aired on All Things Considered on Oct. 3, 2023.)",
+      "retrievedAt": "2023-10-05 19:05:27.671606",
+      "internal_id": "99baa474f81ecb244ddd9e41d8444a47b7492d910ba288e8a362abaccb68d2ca",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2293,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Reforma.com",
+      "author": "Natalia Vitela",
+      "title": "Reportan m\u00e1s dengue y se triplican muertes",
+      "description": "Un repunte de casos y decesos por dengue azota a la Pen\u00ednsula de Yucat\u00e1n y algunos estados del centro del Pa\u00eds como Morelos y Puebla.",
+      "url": "https://www.reforma.com/reportan-mas-dengue-se-triplican-muertes/ar2686599",
+      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/5/590/4589618.jpg&wm=1&ang=0",
+      "publishedAt": "2023-10-04 11:01:24",
+      "content": "Un repunte de casos y decesos por dengue azota a la Pen\u00ednsula de Yucat\u00e1n y a algunos estados del centro del Pa\u00eds como Morelos y Puebla. Cr\u00e9dito: Archivo",
+      "retrievedAt": "2023-10-05 19:05:27.007623",
+      "internal_id": "fbfb361ddf3a1565ce1f2a6bafede5bfe0c3357ebf407378564d6d6f77b310a0",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2296,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El 45% de los padres desconoce que las vacunas frente a la meningitis meningoc\u00f3cica est\u00e1n incluidas en el SNS",
+      "description": "El 45 por ciento de los padres espa\u00f1oles afirma no conocer que las vacunas frente a la meningitis meningoc\u00f3cica A, C, W, Y y B est\u00e1n incluidas en el calendario de vacunaci\u00f3n del Sistema Nacional de Salud (SNS), seg\u00fan una nueva encuesta internacional realizada\u2026",
+      "url": "https://www.infosalus.com/asistencia/noticia-45-padres-desconoce-vacunas-frente-meningitis-meningococica-estan-incluidas-sns-20231004120208.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231004120208_1200.jpg",
+      "publishedAt": "2023-10-04 10:02:08",
+      "content": "MADRID, 4 Oct. (EUROPA PRESS) - El 45 por ciento de los padres espa\u00f1oles afirma no conocer que las vacunas frente a la meningitis meningoc\u00f3cica A, C, W, Y y B est\u00e1n incluidas en el calendario de v\u2026 [+4105 chars]",
+      "retrievedAt": "2023-10-05 19:05:27.260496",
+      "internal_id": "41da544458c129c2da25e1198733323df127dcd90e1d45b5c8fcdbdc244fc3b9",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2299,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Elisabeth Mahase",
+      "title": "WHO recommends second vaccine for malaria prevention in children",
+      "description": "The World Health Organization has recommended a second malaria vaccine, R21/Matrix-M, for prevention of the disease in children, after a review found it to be safe and effective.Researchers and clinicians have welcomed the decision, which they hope will go so\u2026",
+      "url": "https://www.bmj.com/content/383/bmj.p2291",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/382/8400.cover-source.jpg",
+      "publishedAt": "2023-10-04 09:51:09",
+      "content": "The World Health Organization has recommended a second malaria vaccine, R21/Matrix-M, for prevention of the disease in children, after a review found it to be safe and effective. Researchers and cli\u2026 [+407 chars]",
+      "retrievedAt": "2023-10-05 19:05:27.679331",
+      "internal_id": "cb9af983a7d031e3aa5c2359f5989f042256df416988f37fb6c664758058d201",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2292,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "radiodabanga@gmail.com (Dabanga)",
+      "title": "Sudan: Ministry of Health 'Absent' As Dengue Fever Spreads - Doctor",
+      "description": "[Dabanga] El Fasher / Um Rawaba / East Nile -- The director of the El Salam Diabetes Centre in El Fasher, capital of North Darfur, expressed his concern about the rapid spread of dengue fever* and malaria. Health sources reported an increase of dengue fever c\u2026",
+      "url": "https://allafrica.com/stories/202310040112.html",
+      "urlToImage": "https://cdn07.allafrica.com/download/pic/main/main/csiid/00271299:fc9f868307bec7694ac50f20c7e21a50:arc614x376:w1200.jpg",
+      "publishedAt": "2023-10-04 07:48:35",
+      "content": "El Fasher / Um Rawaba / East Nile \u2014 The director of the El Salam Diabetes Centre in El Fasher, capital of North Darfur, expressed his concern about the rapid spread of dengue fever* and malaria. Heal\u2026 [+3399 chars]",
+      "retrievedAt": "2023-10-05 19:05:27.000935",
+      "internal_id": "e9af3af8a50bb975098e89baf3270f34b1cad8350a654614cd9d24e68751a98a",
+      "publishedAtLabel": "Oct 4"
+    },
     {
       "id": 2280,
       "query": [
@@ -3421,204 +3622,6 @@
       "retrievedAt": "2023-09-29 19:05:22.937058",
       "internal_id": "f1f97dc583418dcacefcabe1c853c1851cf2d88780574cf66b4d9723d95d894e",
       "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2089,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Iasbaba.com",
-      "author": "IASbaba",
-      "title": "UPSC Quiz \u2013 2023 : IASbaba\u2019s Daily Current Affairs Quiz 28th September 2023",
-      "description": "For Previous Daily Quiz (ARCHIVES) \u2013 CLICK HERE The Current Affairs questions are based on sources like \u2018The Hindu\u2019, \u2018Indian Express\u2019 and \u2018PIB\u2019, which are very important sources for UPSC Prelims Exam. The questions are focused on both the concepts and facts. \u2026",
-      "url": "https://iasbaba.com/2023/09/upsc-quiz-2023-iasbabas-daily-current-affairs-quiz-28th-september-2023/",
-      "urlToImage": "https://iasbaba.com/wp-content/uploads/2023/02/Quiz_2023-01-scaled.webp",
-      "publishedAt": "2023-09-28 05:52:48",
-      "content": "Rabies is a zoonotic, viral disease affecting the central nervous system. It causes progressive and fatal inflammation of the brain and spinal cord.Rabies Virus, its scientific name is genus Lyssavir\u2026 [+1296 chars]",
-      "retrievedAt": "2023-09-29 07:05:33.917152",
-      "internal_id": "19e23c3a2dce4aceae926d8914897b8a518c71d3fa86be9cdc6d133deed071b3",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2093,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "World Rabies Day being observed today",
-      "description": "KATHMANDU: The World Rabies Day is being observed today including in Nepal by organising various programs. September 28 each year is observed as World Rabies Day to raise awareness about rabies including prevention measures and accomplishments in the global f\u2026",
-      "url": "https://english.khabarhub.com/2023/28/320103/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/04/dog-bite.png",
-      "publishedAt": "2023-09-28 05:30:02",
-      "content": "KATHMANDU: The World Rabies Day is being observed today including in Nepal by organising various programs. September 28 each year is observed as World Rabies Day to raise awareness about rabies incl\u2026 [+1964 chars]",
-      "retrievedAt": "2023-09-29 07:05:33.938361",
-      "internal_id": "05fc03932f130d59a4800dbe1dc3a32c5195694a0d5e3111f2fb2ef89feb28a4",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2096,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Isabel Zamudio",
-      "title": "Trasladan a menor grave por dengue de IMSS en Orizaba a hospital de La Raza",
-      "description": "Un adolescente de 14 a\u00f1os con complicaciones graves por dengue fue trasladado v\u00eda a\u00e9rea del hospital del Instituto Mexicano del Seguro Social (IMMS) de Orizaba al Centro M\u00e9dico Nacional (CMN) \u201cLa Raza\u201d en la Ciudad de M\u00e9xico.La Delegaci\u00f3n Sur del IMSS inform\u00f3\u2026",
-      "url": "https://www.milenio.com/estados/trasladan-via-aerea-menor-grave-dengue-imss-orizaba",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/09/27/ayuda-ambulancia-aerea-traslado-menor.jpeg",
-      "publishedAt": "2023-09-28 03:17:10",
-      "content": "Un adolescente de 14 a\u00f1os con complicaciones graves por dengue fue trasladado v\u00eda a\u00e9rea del hospital del Instituto Mexicano del Seguro Social (IMMS) de Orizaba al Centro M\u00e9dico Nacional (CMN) La Raza\u2026 [+1274 chars]",
-      "retrievedAt": "2023-09-29 07:05:34.729400",
-      "internal_id": "dab88e031a20cafb6547c92e5bc9d909b7764942fbc464e8a7bb6c585944ccca",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2090,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "World Rabies Day 2023: Date, significance, history and theme; everything you need to know about the day",
-      "description": "World Rabies Day, organized by the Global Alliance for Rabies Control, is celebrated on September 28 each year to raise awareness and advocate for the global elimination of rabies. The day commemorates French scientist Louis Pasteur, whose work led to the dev\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/world-rabies-day-2023-date-significance-history-and-theme-everything-you-need-to-know-about-the-day/articleshow/103993386.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-103993843,width-1200,height-630,imgsize-42412,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-28 01:00:00",
-      "content": "In a concerted effort to raise awareness and rally against the scourge of rabies, World Rabies Day is celebrated globally each year on September 28. This significant observance is organized by the Gl\u2026 [+2764 chars]",
-      "retrievedAt": "2023-09-29 07:05:33.924279",
-      "internal_id": "8218350e07d7aaf7aec3763b8da88b29de6631b2ef08ef2dd46216edf114bd47",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2092,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Statetimes.in",
-      "author": "statetimes_editor",
-      "title": "Understanding Rabies: A deadly threat that can be prevented",
-      "description": "Dr. Shalli & Dr. Sanjolly Gupta Rabies, a viral disease that has haunted humanity for centuries, remains a significant public health concern around the world. Despite being almost entirely preventable, rabies continues to take lives, particularly in regions w\u2026",
-      "url": "https://statetimes.in/understanding-rabies-a-deadly-threat-that-can-be-prevented/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2023/09/FINAL-7.jpg",
-      "publishedAt": "2023-09-28 00:35:13",
-      "content": "Dr. Shalli &amp; Dr. Sanjolly Gupta Rabies, a viral disease that has haunted humanity for centuries, remains a significant public health concern around the world. Despite being almost entirely preve\u2026 [+4620 chars]",
-      "retrievedAt": "2023-09-29 07:05:33.935475",
-      "internal_id": "246b68ee864dfc5b085fdee2c9a033d1f94fd0861604a0acd5b9ab45b75d4c74",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2097,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Nova vacina da dengue, Qdenga j\u00e1 est\u00e1 dispon\u00edvel; veja quem pode tomar e quanto custa",
-      "description": "O imunizante \u00e9 composto por quatro sorotipos do v\u00edrus que provoca a doen\u00e7a",
-      "url": "https://valor.globo.com/brasil/noticia/2023/09/27/nova-vacina-da-dengue-qdenga-ja-esta-disponivel-veja-quem-pode-tomar-e-quanto-custa.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/Eu6CcviNM2XS5iRRDk9unb1VGE0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/U/1/huaqwQSVKP23vvGGSXRg/dengue18.jpg",
-      "publishedAt": "2023-09-27 22:48:04",
-      "content": "Uma nova vacina contra a dengue j\u00e1 est\u00e1 dispon\u00edvel no Brasil. Fabricada pelo laborat\u00f3rio japon\u00eas Takeda Pharma, a Qdenga teve o registro aprovado em mar\u00e7o deste ano pela Ag\u00eancia Nacional de Vigil\u00e2nci\u2026 [+4154 chars]",
-      "retrievedAt": "2023-09-29 07:05:34.742082",
-      "internal_id": "a61bd7f470e7b9264daf1f83fc334f84655d604212e9c8da0ec6e03794ab214f",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2100,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Loopnews.com",
-      "author": "Reginald Allen",
-      "title": "Some health centre opening hours being extended re dengue fight | Loop Jamaica",
-      "description": "Starting Monday, October 2, Jamaicans will be able to take advantage of extended opening hours at all type three to five health centres island-wide as the country faces a dengue outbreak. Speaking during Wednesday\u2019s post-Cabinet press briefing a",
-      "url": "https://jamaica.loopnews.com/content/some-health-centre-opening-hours-being-extended-re-dengue-fight",
-      "urlToImage": "https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2023-09/dr_nadine_williams_65f5bb71aa3d6ce7d6216995a0d39bcf.jpg",
-      "publishedAt": "2023-09-27 22:32:35",
-      "content": "Starting Monday, October 2, Jamaicans will be able to take advantage of extended opening hours at all type three to five health centres island-wide as the country faces a dengue outbreak. Speaking d\u2026 [+2274 chars]",
-      "retrievedAt": "2023-09-29 07:05:34.772339",
-      "internal_id": "470eb9254d68aa0ce4b8649a7ee7d11c7aee3bfd39a3f0ab56898c40308f43ec",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2088,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Caitlin O'Kane",
-      "title": "Florida man is bitten by a rabid otter. How is rabies treated?",
-      "description": "After the attack in Jupiter, Florida, animal control picked up the otter and it tested positive for rabies, a disease that can be fatal. Here's how it is handled.",
-      "url": "https://www.cbsnews.com/news/rabid-otter-bites-florida-attacks-dog-rabies-symptoms-treatment/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/24/c268a809-bd4a-4f67-ba13-6db9ef458b1d/thumbnail/1200x630/b90b49cfec0e6ace836810102699f04d/gettyimages-521179376.jpg?v=5d20a95f0d3613235e1178046ae6add4",
-      "publishedAt": "2023-09-27 22:18:16",
-      "content": "A rabid otter bit a man and a dog in Florida last week, prompting authorities to issue a warning. After the attack in Jupiter, Florida, local animal control officers picked up the otter and it tested\u2026 [+6673 chars]",
-      "retrievedAt": "2023-09-29 07:05:33.906521",
-      "internal_id": "83fcd61057a8c3a55e941e8bd162f427aa101da53c8303970d8a4500d1d87d88",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2091,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Anti-vax pet parents put animals at risk, study shows. Why experts say you shouldn't skip your dog's shots. - CBS News",
-      "description": "Anti-vax pet parents put animals at risk, study shows. Why experts say you shouldn't skip your dog's shots.CBS News The inevitable rise of Rabies Babies (and kids and adults) in the U.S. This is not satire.Daily Kos Anti-vax pet parents put animals and people\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171908677",
-      "urlToImage": null,
-      "publishedAt": "2023-09-27 22:12:47",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-09-29 07:05:33.932838",
-      "internal_id": "07dd38658077890f6db6be60870e434aa1823446b9a35a595414b0a8085146cd",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2094,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Leganerd.com",
-      "author": "Daniela Giannace",
-      "title": "Dengue: l\u2019AIFA ha dato il via libera al vaccino in Italia",
-      "description": "In Italia, l\u2019Agenzia Italiana del Farmaco (AIFA) ha dato il via libera al vaccino anti-Dengue denominato Tak-003 (commercialmente noto come Qdenga*) prodotto da Takeda. Questo vaccino \u00e8 stato approvato per la profilassi della malattia di Dengue causata da uno\u2026",
-      "url": "https://leganerd.com/2023/09/27/dengue-laifa-ha-dato-il-via-libera-al-vaccino-in-italia/",
-      "urlToImage": "https://leganerd.com/wp-content/uploads/2023/09/vaccino-dengue.jpeg",
-      "publishedAt": "2023-09-27 21:17:26",
-      "content": "In Italia, l\u2019Agenzia Italiana del Farmaco (AIFA) ha dato il via libera al vaccino anti-Dengue denominato Tak-003 (commercialmente noto come Qdenga*) prodotto da Takeda. Questo vaccino \u00e8 stato approva\u2026 [+1945 chars]",
-      "retrievedAt": "2023-09-29 07:05:34.711297",
-      "internal_id": "9a1e1646d5a410244de70242c21dcb65a2c7823a2b025a92e82715e0b478b233",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2101,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "La malaria se hace resistente al f\u00e1rmaco m\u00e1s eficaz en \u00c1frica",
-      "description": "En \u00c1frica oriental, el par\u00e1sito de la malaria - Plasmodium falciparum - ha desarrollado resistencia a las artemisininas, la columna vertebral de los reg\u00edmenes de tratamiento actuales, una situaci\u00f3n que podr\u00eda empeorar dram\u00e1ticamente el impacto de la malaria s\u2026",
-      "url": "https://www.abc.es/salud/enfermedades/malaria-resistente-farmaco-eficaz-africa-20230927135021-nt.html",
-      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/salud/2023/09/27/image_20230927134544-U38081485177pCW-1024x512@abc.png",
-      "publishedAt": "2023-09-27 21:13:02",
-      "content": "En \u00c1frica oriental, el par\u00e1sito de la malaria -Plasmodium falciparum- ha desarrollado resistencia a las artemisininas, la columna vertebral de los reg\u00edmenes de tratamiento actuales, una situaci\u00f3n que\u2026 [+4061 chars]",
-      "retrievedAt": "2023-09-29 07:05:35.493932",
-      "internal_id": "00dabddc0c2d914c4b223fe47a015eaae0971f3b8e0c1bbbd6ca0d964ff6c47f",
-      "publishedAtLabel": "Sep 27"
     }
   ]
 }
