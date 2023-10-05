@@ -1,8 +1,224 @@
 {
-  "last_updated": "2023-10-04 19:05",
+  "last_updated": "2023-10-05 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 15,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 2280,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "J\u00falia Dal Rovere",
+      "title": "OMS recomenda vacina contra a dengue para crian\u00e7as",
+      "description": "Organiza\u00e7\u00e3o Mundial da Sa\u00fade indica vacina Qdenga produzida por farmac\u00eautica japonesa para imuniza\u00e7\u00e3o de crian\u00e7as e adolescentes no Brasil O post OMS recomenda vacina contra a dengue para crian\u00e7as apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/10/04/medicina-e-saude/oms-recomenda-vacina-contra-a-dengue-para-criancas/",
+      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2022/01/vacinacao-crianca-covid.jpg",
+      "publishedAt": "2023-10-04 05:20:00",
+      "content": "A OMS (Organiza\u00c3\u00a7\u00c3\u00a3o Mundial da Sa\u00c3\u00bade) passou a recomendar a vacina\u00c3\u00a7\u00c3\u00a3o contra a dengue, doen\u00c3\u00a7a transmitida pelo mosquito\u00c2 Aedes aegypti, para crian\u00c3\u00a7as e adolescentes. O imunizante indicado \u00c3\u00a9 o \u2026 [+2670 chars]",
+      "retrievedAt": "2023-10-05 07:05:50.643727",
+      "internal_id": "a78808cc7310bc6fa9970ec2bf68ffb065e1729eefe3870879d9e459b376d013",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2288,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: 'We Could Eradicate Malaria By 2040' Says Expert After Revolutionary Vaccine Is Approved By Who",
+      "description": "[The Conversation Africa] The World Health Organization has approved a new vaccine that scientists argue will be a game-changer in the fight against malaria, which kills half a million people in Africa every year. Trials have shown that the R21/Matrix vaccine\u2026",
+      "url": "https://allafrica.com/stories/202310040007.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-04 04:48:39",
+      "content": "The World Health Organization has approved a new vaccine that scientists argue will be a game-changer in the fight against malaria, which kills half a million people in Africa every year. Trials have\u2026 [+6887 chars]",
+      "retrievedAt": "2023-10-05 07:05:51.658246",
+      "internal_id": "0884ec7c4fef8215066373319dba646ab58e7def3c19a1ff6c060c2bdcdcfa54",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2279,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Express News Service",
+      "title": "Back home, TMC faces heat over corruption, dengue",
+      "description": "BJP MLAs staged a protest outside the West Bengal Assembly over the alleged corruption in the government.",
+      "url": "https://indianexpress.com/article/cities/kolkata/tmc-kolkata-bjp-protest-corruption-dengue-8967408/",
+      "urlToImage": "https://images.indianexpress.com/2023/10/bjp-protest-2.jpg",
+      "publishedAt": "2023-10-04 02:52:42",
+      "content": "While the TMC launched a protest against the non-payment of dues under central schemes in Delhi, back home in Kolkata, multiple organisations staged protests against the ruling party Tuesday over iss\u2026 [+1208 chars]",
+      "retrievedAt": "2023-10-05 07:05:50.635899",
+      "internal_id": "dd6cd937a4bab5e1b201b4c8df62b3b7a3c649e3672de6d57ee8a3f075b7f022",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2285,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Malaria, dengue cases in Mumbai saw big jump in September",
+      "description": "MUMBAI: Mumbai recorded 1,360 dengue in September, an increase of over 300 from August.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/malaria-dengue-cases-in-mumbai-saw-big-jump-in-september/articleshow/104144409.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104144422,width-1070,height-580,imgsize-793301,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-04 01:34:56",
+      "content": "Indian dishes that taste better the next day",
+      "retrievedAt": "2023-10-05 07:05:50.706183",
+      "internal_id": "a787204c5139cae430565d426d734de47f885b1a72d892c5120fa86fed495440",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2281,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "By JERUSALEM POST STAFF",
+      "title": "Israel to target mosquitoes in effort to prevent Dengue fever",
+      "description": "After an Israeli citizen contracted Dengue fever during a trip abroad, Israel is preparing to eliminate populations of the mosquito responsible for the disease.",
+      "url": "https://www.jpost.com/health-and-wellness/article-761579",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/554536",
+      "publishedAt": "2023-10-03 23:54:05",
+      "content": "The Environmental Protection Ministry will take steps to curb the population of a species of Mosquito in Israel in order to prevent further cases of Dengue fever, the Health Ministry announced on Tue\u2026 [+1803 chars]",
+      "retrievedAt": "2023-10-05 07:05:50.664923",
+      "internal_id": "4bd1e69ae0e9d4db42a3dcaba35df74c1b0abaedc9f5ede110424513b547468a",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2284,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "eEranLahav",
+      "title": "Israel reports new case of dengue fever",
+      "description": "JERUSALEM, Oct. 3 (Xinhua) -- The Israeli Ministry of Health on Tuesday reported a new case of dengue fever. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2023/10/04/israel-reports-new-case-of-dengue-fever",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-10-03 21:42:00",
+      "content": "JERUSALEM, Oct. 3 (Xinhua) -- The Israeli Ministry of Health on Tuesday reported a new case of dengue fever. The ministry noted in a statement that the patient in the new case returned from Thailan\u2026 [+983 chars]",
+      "retrievedAt": "2023-10-05 07:05:50.698901",
+      "internal_id": "c2d78d65ba91e3d6204f99d52d916e2f53990579146e375b3023f42b9990014d",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2283,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Dow Jones",
+      "title": "Takeda Pharmaceutical's Dengue Vaccine Recommended by WHO Advisory Group",
+      "description": "(marketscreener.com) By Denny Jacob Takeda Pharmaceutical's vaccine to prevent dengue, qdenga, was recommended by a World Health Organization advisory group. The company, which develops and manufactures pharmaceutical drugs, said WHO's strategic advi\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/Takeda-Pharmaceutical-s-Dengue-Vaccine-Recommended-by-WHO-Advisory-Group-44976256/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-10-03 21:32:03",
+      "content": "By Denny Jacob Takeda Pharmaceutical's vaccine to prevent dengue, qdenga, was recommended by a World Health Organization advisory group. The company, which develops and manufactures pharmaceutica\u2026 [+1394 chars]",
+      "retrievedAt": "2023-10-05 07:05:50.682192",
+      "internal_id": "140369caae69c195888a39c883cf37dd88e5aff74f22c7bbef8c189dae211603",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2282,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Business Wire",
+      "title": "Takeda's Dengue Vaccine Recommended by World Health Organization Advisory Group for Introduction in High Dengue Burden and Transmission Areas in Children Ages Six to 16 Years",
+      "description": "(marketscreener.com) Experts Reviewed Data from QDENGA\u2019s Clinical Program Across 19 Phase 1, 2 and 3 Trials with More Than 28,000 Participants WHO Will Consider the SAGE Recommendation and Provide Final Guidance on the Use of QDENGA in Public Vaccination\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/Takeda-s-Dengue-Vaccine-Recommended-by-World-Health-Organization-Advisory-Group-for-Introduction-in-44975967/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-10-03 20:51:02",
+      "content": "Experts Reviewed Data from QDENGAs Clinical Program Across 19 Phase 1, 2 and 3 Trials with More Than 28,000 Participants WHO Will Consider the SAGE Recommendation and Provide Final Guidance on the U\u2026 [+19324 chars]",
+      "retrievedAt": "2023-10-05 07:05:50.677435",
+      "internal_id": "18729e6eb398e4b1fa0681c73d5a1d27d7f4f52e661e9fe4e22e2b1909a224db",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2287,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": null,
+      "title": "WHO Approves a Second Malaria Vaccine",
+      "description": "",
+      "url": "https://learningenglish.voanews.com/a/7295386.html",
+      "urlToImage": "https://gdb.voanews.com/DF5465F8-7DF2-4AE4-9C05-E62A5DEAC9EE_w1200_r1.jpg",
+      "publishedAt": "2023-10-03 20:39:19",
+      "content": "No media source currently available",
+      "retrievedAt": "2023-10-05 07:05:51.649058",
+      "internal_id": "aafe911ac4217267aa10cb3a926003e187c6b8c20b792faca93bd47e3dd7c72e",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2286,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ari Daniel",
+      "title": "A 'dream' come true: Now there are 2 vaccines to slash the frightful toll of malaria",
+      "description": "The head of the World Health Organization, Tedros Adhanom Ghebreyesus.Tedros, says he used to \"dream of the day when we would have a ... vaccine against malaria. Now, we have two.\"",
+      "url": "https://www.npr.org/sections/goatsandsoda/2023/10/03/1203306031/a-dream-come-true-now-there-are-2-vaccines-to-slash-the-frightful-toll-of-malari",
+      "urlToImage": "https://media.npr.org/assets/img/2023/10/03/gettyimages-1247904856_wide-c68791bcbbbbd00f8cc5a2037eb7833e09f02c4c-s1400-c100.jpg",
+      "publishedAt": "2023-10-03 20:19:09",
+      "content": "A Kenyan child receives the world's first malaria vaccine, approved nearly two years ago. This week, the World Health Organization approved a second vaccine for the mosquito-borne disease. It's calle\u2026 [+3599 chars]",
+      "retrievedAt": "2023-10-05 07:05:51.639539",
+      "internal_id": "2c4ecc572de666f1fd85d90330e5984f227f7ac4fb299e9e51043d967378eb3b",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2290,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "World\u2019s second malaria vaccine gets WHO approval: Serum Institute of India",
+      "description": "NEW DELHI, Oct 2: Serum Institute of India on Monday said the World Health Organisation (WHO) has approved a malaria vaccine, paving the way for the global roll-out of the world\u2019s second such vaccine. The recommendation is based on pre-clinical and clinical t\u2026",
+      "url": "https://thehillstimes.in/business/worlds-second-malaria-vaccine-gets-who-approval-serum-institute-of-india",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/anchor-1.jpg",
+      "publishedAt": "2023-10-03 20:10:12",
+      "content": "NEW DELHI, Oct 2: Serum Institute of India on Monday said the World Health Organisation (WHO) has approved a malaria vaccine, paving the way for the global roll-out of the worlds second such vaccine.\u2026 [+1547 chars]",
+      "retrievedAt": "2023-10-05 07:05:51.686659",
+      "internal_id": "b96819ec4f4d31278e10d7070d23f585e42c14c4e26fa718886f34450799233f",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Adrian Hill, Director of the Jenner Institute, University of Oxford",
+      "title": "'We could eradicate malaria by 2040' says expert after revolutionary vaccine is approved by WHO",
+      "description": "People have been trying to make malaria vaccines for over 100 years. With the help of the revolutionary new R21/Matrix vaccine the disease could be eradicated by 2040.",
+      "url": "https://theconversation.com/we-could-eradicate-malaria-by-2040-says-expert-after-revolutionary-vaccine-is-approved-by-who-214798",
+      "urlToImage": "https://images.theconversation.com/files/551708/original/file-20231003-15-hdcwqu.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2023-10-03 19:50:49",
+      "content": "The World Health Organization has approved a new vaccine that scientists argue will be a game-changer in the fight against malaria, which kills half a million people in Africa every year. Trials have\u2026 [+6704 chars]",
+      "retrievedAt": "2023-10-05 07:05:51.666434",
+      "internal_id": "18cdac6f1a5cbd4305b9899e08b9a14549a210a46e70f44c48da28fa99823144",
+      "publishedAtLabel": "Oct 3"
+    },
     {
       "id": 2267,
       "query": [
@@ -3402,229 +3618,6 @@
       "content": "En \u00c1frica oriental, el par\u00e1sito de la malaria -Plasmodium falciparum- ha desarrollado resistencia a las artemisininas, la columna vertebral de los reg\u00edmenes de tratamiento actuales, una situaci\u00f3n que\u2026 [+4061 chars]",
       "retrievedAt": "2023-09-29 07:05:35.493932",
       "internal_id": "00dabddc0c2d914c4b223fe47a015eaae0971f3b8e0c1bbbd6ca0d964ff6c47f",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2095,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Carolina Sobral",
-      "title": "Mosquito que transmite dengue e zika chegou a Lisboa. Representa perigo para a popula\u00e7\u00e3o? S\u00f3 se estiver infetado",
-      "description": "Foi confirmada esta quarta-feira a presen\u00e7a do mosquito Aedes albopictus, que pode transmitir dengue, zika ou chikungunya, em Lisboa. Qu\u00e3o perigosa \u00e9 a esp\u00e9cie para a popula\u00e7\u00e3o?",
-      "url": "https://observador.pt/especiais/mosquito-que-transmite-dengue-e-zika-chegou-a-lisboa-quao-perigosa-e-a-especie-para-a-populacao/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1996%3A1122%3Anowe%3A0%3A99%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F07%2F17154803%2Faedes_albopictus.jpg",
-      "publishedAt": "2023-09-27 20:40:07",
-      "content": "Conhecido como mosquito tigre asi\u00e1tico, o Aedes albopictus chegou a Portugal em setembro de 2017, quando foi detetado pela primeira vez numa f\u00e1brica de pneus no norte do pa\u00eds.Chegou \u00e0 regi\u00e3o do Algar\u2026 [+873 chars]",
-      "retrievedAt": "2023-09-29 07:05:34.716064",
-      "internal_id": "950e5ddcd4a0929fd4b8a72e7ce3da8637c49481ad0a65be42616e986f4d990a",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2098,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reuters",
-      "title": "M\u00e9dicos do Sud\u00e3o alertam que c\u00f3lera e dengue est\u00e3o se espalhando com conflitos no pa\u00eds",
-      "description": "M\u00e9dicos no Sud\u00e3o alertaram que os casos de c\u00f3lera e dengue est\u00e3o se espalhando pelo pa\u00eds devido ...",
-      "url": "https://www.terra.com.br/noticias/mundo/medicos-do-sudao-alertam-que-colera-e-dengue-estao-se-espalhando-com-conflitos-no-pais,b097c4807791bfc2d931d67876c2beb4ypgup5dn.html",
-      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2023-09-27 20:01:55",
-      "content": "M\u00e9dicos no Sud\u00e3o alertaram que os casos de c\u00f3lera e dengue est\u00e3o se espalhando pelo pa\u00eds devido \u00e0 chegada de chuvas sazonais e ao impacto de mais de cinco meses de guerra em um sistema de sa\u00fade que j\u2026 [+1548 chars]",
-      "retrievedAt": "2023-09-29 07:05:34.748999",
-      "internal_id": "ed64f7c991648ef3dc59f0723adfbfa6a1a9bdd477ab6d500d3fdbe1c0db09ed",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2099,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "KGO-TV",
-      "author": "Dr. Adiba Matin",
-      "title": "Dengue fever: What to know about the disease and genetically modified mosquitoes, vaccines",
-      "description": "More than 3 million cases of dengue fever have been reported in the Americas this year with over 882 in the United States, according to the CDC.",
-      "url": "https://abc7news.com/dengue-fever-aedes-aegypti-mosquitoes-genetically-modified-mosquitos/13835011/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/13835130_aedesaegyptimosquitos.jpg?w=1600",
-      "publishedAt": "2023-09-27 19:31:33",
-      "content": "More than 3 million cases of dengue fever have been reported in the Americas this year with over 882 in the United States, according to the CDC. This is the second highest annual rate in the Americas\u2026 [+4931 chars]",
-      "retrievedAt": "2023-09-29 07:05:34.768567",
-      "internal_id": "2bb93500bd5ce0f3d991a5fa3029955639ce6d4db17f9c5d2dab1b1c0f61f2bb",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2078,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "Rising dengue cases call for enhanced public sanitation and waste management systems",
-      "description": "Dengue cases in India have reached nearly 95,000 between January and July 31, with numbers spiking after excessive rains caused waterlogging. The rise in cases is not limited to India, as other regions such as northern-eastern Africa, West Asia, and South and\u2026",
-      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/rising-dengue-cases-call-for-enhanced-public-sanitation-and-waste-management-systems/articleshow/103997607.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-103997642,width-1200,height-630,imgsize-13048,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-27 17:40:43",
-      "content": "Dengue is again a major public health concern. The National Centre for Vector Borne Diseases Control reported nearly 95,000 cases in the country between January and July 31. Ground-level reports sugg\u2026 [+1666 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.460340",
-      "internal_id": "41a46927063189339947fd6b629b08eb245df221a0cf808b1f65c64a7a1282af",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2081,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Caso di Dengue a Pisa, disinfestazione in zona dell'ospedale",
-      "description": "Il sindaco di Pisa, Michele Conti, dopo la segnalazione dell'Asl Toscana Nord ovest di un caso dell'esistenza di un caso di Dengue in una persona rientrata da un paese tropicale, ha ordinato precauzionalmente un intervento urgente di disinfestazione \"media...\u2026",
-      "url": "https://www.ansa.it/toscana/notizie/2023/09/27/caso-di-dengue-a-pisa-disinfestazione-in-zona-dellospedale_7f7130f5-7e1c-42c4-86fd-0e03ce99a0ed.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/9/6/ec653cf59a220475e2cd717f77758bfa.jpg",
-      "publishedAt": "2023-09-27 17:28:47",
-      "content": "Il sindaco di Pisa, Michele Conti, dopo la segnalazione dell'Asl Toscana Nord ovest di un caso dell'esistenza di un caso di Dengue in una persona rientrata da un paese tropicale, ha ordinato preca\u2026 [+1094 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.485157",
-      "internal_id": "07b689b4daac03b5558ca47145be8bb9e0301b55a8f3deef86ffc772500ab2d2",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2079,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": null,
-      "title": "Foi identificado em Lisboa mosquito que pode transmitir dengue e zika",
-      "description": "Apesar de a presen\u00e7a do mosquito n\u00e3o ser in\u00e9dita no pa\u00eds, em Lisboa n\u00e3o tinha sido detetada at\u00e9 agora. &etilde;",
-      "url": "https://ionline.sapo.pt/artigo/806948/foi-identificado-em-lisboa-mosquito-que-pode-transmitir-dengue-e-zika?seccao=Portugal_i",
-      "urlToImage": "https://cdn1.newsplex.pt/media/2023/9/27/fb/859853.jpg",
-      "publishedAt": "2023-09-27 17:06:00",
-      "content": "A Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS) anunciou, esta quarta-feira, que a esp\u00e9cie Aedes albopictus, que pode transmitir \u00e0s pessoas doen\u00e7as como chikungunya, dengue e zika, \u201cfoi identificada pela primeira vez\u2026 [+1870 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.473912",
-      "internal_id": "dcd4accabbb369f365d390eb969116d26ba8f5917d5b6e7347bc949458d541b9",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2077,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "In\u00eas Andr\u00e9 Figueiredo",
-      "title": "Mosquito que transmite dengue e zika detetado em Lisboa pela primeira vez",
-      "description": "DGS refor\u00e7ou a vigil\u00e2ncia entomol\u00f3gica e epidemiol\u00f3gica, mas garantiu que n\u00e3o foram identificados nestes mosquitos quaisquer agentes de doen\u00e7as que possam ser transmitidas \u00e0s pessoas.",
-      "url": "https://observador.pt/2023/09/27/mosquito-que-transmite-dengue-e-zika-detetado-em-lisboa-pela-primeira-vez/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1998%3A1126%3Anowe%3A0%3A100%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F04%2F15200407%2F20319704.jpg",
-      "publishedAt": "2023-09-27 16:25:37",
-      "content": "A Dire\u00e7\u00e3o-Geral de Sa\u00fade (DGS) revelou que a esp\u00e9cie de mosquitos Aedes albopictus foi identificada pela primeira vez em Lisboa e alertou que este mosquito pode transmitir doen\u00e7as como chikungunya, d\u2026 [+1110 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.454859",
-      "internal_id": "b25b32399eebd5dc11a095986bc6c5f109fca118880ffd18ac9085f1107481d5",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2073,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "'Be careful with feeding wildlife': Jupiter man attacked by rabid otter - WPBF West Palm Beach",
-      "description": "'Be careful with feeding wildlife': Jupiter man attacked by rabid otterWPBF West Palm Beach Florida man describes rabid otter 'lunging' at him during attackNBC News Florida man gets bitten by rabies-infested otter while feeding ducks: officialsFox News Florid\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171906807",
-      "urlToImage": null,
-      "publishedAt": "2023-09-27 16:12:04",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-09-28 19:05:27.746704",
-      "internal_id": "2d6ffa12c81c5533cfcf10eb04ade6c20eddc4639c8ad18ea0d263330003407d",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2076,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.pt",
-      "author": "DN",
-      "title": "Mosquito do dengue e do zika identificado pela primeira vez em Lisboa",
-      "description": "A presen\u00e7a desta esp\u00e9cie n\u00e3o \u00e9 in\u00e9dita em Portugal, uma vez que foi detetado pela primeira vez no pa\u00eds em 2017, na regi\u00e3o Norte, tendo entretanto aparecido no Algarve em 2018 e no Alentejo em 2022.",
-      "url": "https://www.dn.pt/sociedade/dgs-alerta-para-mosquito-identificado-em-lisboa-17083619.html",
-      "urlToImage": "https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=5e0b1326-5129-4678-8086-4ff4b00fb46e&w=800&h=420&watermark=true&t=20230927170300",
-      "publishedAt": "2023-09-27 16:03:00",
-      "content": "A Dire\u00e7\u00e3o-Geral da Sa\u00fade (DGS) alertou esta quarta-feira que a esp\u00e9cie de mosquitos Aedes albopictus foi identificada pela primeira vez no Munic\u00edpio de Lisboa. \"Este mosquito pode transmitir \u00e0s pess\u2026 [+1421 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.451224",
-      "internal_id": "2b4bf12eded460ad0c47271090f89c8f93d8099e58f4306992b060c797e12491",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2086,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Clevelandclinic.org",
-      "author": "Cleveland Clinic",
-      "title": "Rat Lungworm",
-      "description": "Slugs and snails are slimy \u2014 and they sometimes carry parasites that can make you sick. How you get rat lungworm and what you can do to prevent it.",
-      "url": "https://my.clevelandclinic.org/health/diseases/25096-rat-lungworm",
-      "urlToImage": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/social-share-health-library",
-      "publishedAt": "2023-09-27 15:32:17",
-      "content": "What are the symptoms of rat lungworm? Symptoms of eosinophilic meningitis caused by rat lungworm include: Severe headache.Neck pain or stiffness. It may be so severe that you cant\u2026 [+1584 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.820159",
-      "internal_id": "3b92137faf28b9871a2387089f7bb57b79987703d6b3b418ca448a76bbac5fa5",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2072,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Canadian Animal Health Institute",
-      "title": "2023 CAHI World Rabies Day Webinar: Empowering Communities through Innovation: One Health for All",
-      "description": "TORONTO, Sept. 27, 2023 (GLOBE NEWSWIRE) -- The Canadian Animal Health Institute (CAHI) is thrilled to return this year to host another important webinar as a part of World Rabies Day 2023. In partnership with Zoetis, Ceva, and Boehringer Ingelheim, this year\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/09/27/2750405/0/en/2023-CAHI-World-Rabies-Day-Webinar-Empowering-Communities-through-Innovation-One-Health-for-All.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/197c2953-84e0-435d-8524-c68da19d27e9",
-      "publishedAt": "2023-09-27 12:49:00",
-      "content": "TORONTO, Sept. 27, 2023 (GLOBE NEWSWIRE) -- The Canadian Animal Health Institute (CAHI) is thrilled to return this year to host another important webinar as a part of World Rabies Day 2023. In partne\u2026 [+2385 chars]",
-      "retrievedAt": "2023-09-28 19:05:27.732402",
-      "internal_id": "cb98cb6f1ac6c34db008a43f202b9fc61e02d4d69e59f0e49c1a45f8a14d8337",
-      "publishedAtLabel": "Sep 27"
-    },
-    {
-      "id": 2082,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "Micka\u00ebl Bosredon (20 Minutes)",
-      "title": "West Nile, Usutu, dengue\u2026 Ces virus li\u00e9s aux moustiques circulent de plus en plus en Nouvelle-Aquitaine",
-      "description": "Le dernier point \u00e9pid\u00e9miologique de Sant\u00e9 Publique France montre une acc\u00e9l\u00e9ration de la circulation de ces virus li\u00e9s aux moustiques en Nouvelle-Aquitaine, notamment en Gironde",
-      "url": "https://www.20minutes.fr/sante/4055006-20230927-west-nile-usutu-dengue-virus-lies-moustiques-circulent-plus-plus-nouvelle-aquitaine",
-      "urlToImage": "https://img.20mn.fr/Ml9ZY8SPSBCU0zs2HwO0ayk/1200x768_operations-de-demoustication-anti-larvaires-organise-par-la-mairie-de-cannes-insecticide-biologique-traitement-des-espaces-publics-susceptibles-de-servir-de-gites-aux-moustiques-notamment-le-moustique-tigre-vecteur-d-agents-infectieux-dont-la-dengue-le-chikungunya-le-zika-square-leo-callandry-cannes-france-11-07-2023-syspeo-sys-b003-credit-syspeo-sipa-2307160802",
-      "publishedAt": "2023-09-27 12:26:09",
-      "content": "Une \u00ab circulation active des virus West Nile et Usutu en Gironde, en Charente-Maritime, en Haute-Vienne et dans les Landes \u00bb note ce mercredi Sant\u00e9 Publique France, dans son dernier bilan \u00e9pid\u00e9miolog\u2026 [+2532 chars]",
-      "retrievedAt": "2023-09-28 19:05:28.495325",
-      "internal_id": "8291e65d3b2381f6ad82625feaff2ebbb85ce1e4a75d71380cc0e813bb9e59fc",
       "publishedAtLabel": "Sep 27"
     }
   ]
