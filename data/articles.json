@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-10-05 19:05",
+  "last_updated": "2023-10-06 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 11,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 2302,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "9News",
+      "author": "Sarah Swain",
+      "title": "Measles alert at Sydney Airport after infectious passenger arrives",
+      "description": "NSW Health has issued an alert for airline passengers to be alert for symptoms of measles after a person flew into Sydney from overseas with the infection.",
+      "url": "https://www.9news.com.au/national/measles-nsw-health-sydney-airport-flight-alert/65578a53-b52c-4809-912b-de0de830d8e5",
+      "urlToImage": "https://imageresizer.static9.net.au/VlvcbssHtSqpsAQ0AOdF_K1lgUo=/0x34:365x239/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F4ecefcfa-f4e1-48c2-8ceb-075234be9d1d",
+      "publishedAt": "2023-10-05 06:55:59",
+      "content": "Auto news: Legitimate reasons to actually get out of a parking fine.",
+      "retrievedAt": "2023-10-06 07:05:36.050391",
+      "internal_id": "34a93f9f7dc49f29cba6b3f510b86194916f32bfd7a6ad0a79c117fe40fa283d",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2308,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Arkansas Reports 1 Case Of Locally Acquired Malaria: Know Symptoms, Complications",
+      "description": "Health officials in Arkansas have issued a warning against malaria after a locally transmitted case of the mosquito-borne disease was confirmed in the state.",
+      "url": "https://www.medicaldaily.com/arkansas-reports-1-case-locally-acquired-malaria-know-symptoms-complications-470928",
+      "urlToImage": "https://d.medicaldaily.com/en/full/470255/fever.jpg",
+      "publishedAt": "2023-10-05 06:53:37",
+      "content": "Health officials in Arkansas have issued a warning against malaria after a locally transmitted case of the mosquito-borne disease was confirmed in the state. \"The Arkansas Department of Health (ADH)\u2026 [+2536 chars]",
+      "retrievedAt": "2023-10-06 07:05:38.252197",
+      "internal_id": "6109c3caedfea9f0132946a47b710a064a23edbe989ba5a4229d4dc54c15340e",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2303,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "Bangladesh swamped by record dengue deaths",
+      "description": "Bangladesh is currently facing its deadliest dengue outbreak, with more than 1,000 deaths and over 210,000 confirmed cases this year. The outbreak is believed to be a result of climate change, as the frequency of the mosquito-borne disease is increasing. The \u2026",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-swamped-by-record-dengue-deaths/articleshow/104179167.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104179254,width-1070,height-580,imgsize-1121934,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-05 06:28:58",
+      "content": "This semi-precious yellow stone is said to bring in good luck, wealth",
+      "retrievedAt": "2023-10-06 07:05:36.789336",
+      "internal_id": "2edb520bcf381fec48e2a7831dc8d832e467f1e4c0bbe91770ea6faf3a3c203b",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2306,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Michelle Boyle, Snow Medical Fellow & CSL Centenary Fellow, Burnet Institute, Brendan Crabb, Director and CEO, Burnet Institute",
+      "title": "New malaria vaccine: no silver bullet but an important step towards eradication",
+      "description": "Currently we see more than 600,000 deaths from this mosquito-borne disease each year. This new vaccine \u2013 the second approved to treat malaria \u2013 could change things.",
+      "url": "https://theconversation.com/new-malaria-vaccine-no-silver-bullet-but-an-important-step-towards-eradication-215052",
+      "urlToImage": "https://images.theconversation.com/files/552229/original/file-20231005-31-m9pka.jpg?ixlib=rb-1.1.0&rect=0%2C271%2C5491%2C2741&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2023-10-05 04:04:34",
+      "content": "In what was very big news for global health, this week the World Health Organisation (WHO) recommended a new vaccine for the prevention of malaria in children, called R21/Matrix-M. Malaria, caused b\u2026 [+6949 chars]",
+      "retrievedAt": "2023-10-06 07:05:38.221733",
+      "internal_id": "0e15c88acc0de8794396488a243e9192027ac9d486faf24fdb3a956ba00edbd3",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2309,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Racial and Socioeconomic Equity of Tecovirimat Treatment during the 2022 Mpox Emergency, New York, New York, USA",
+      "description": "Equity of Treatment during Mpox, New York, USA",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/11/23-0814_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-10-05 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.In May 2022, mpox cases we\u2026 [+10234 chars]",
+      "retrievedAt": "2023-10-06 07:05:40.026901",
+      "internal_id": "a8e33cbd564ff14f6390b70bfba2cf67def46b7218c27be04f8ea25034e88fdb",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2305,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Cinthya Mart\u00ednez",
+      "title": "Esther sufre agnosia visual provocada por una meningitis: \u00abVeo, pero no s\u00e9 lo que estoy viendo\u00bb",
+      "description": "La infecci\u00f3n caus\u00f3 una lesi\u00f3n en su cerebro y, en consecuencia, aunque su sistema visual es correcto, no reconoce lo que ve. Es uno de los pocos casos en el mundo que sufre esta enfermedad",
+      "url": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2023/10/04/esther-sufre-agnosia-visual-consecuencia-meningitis-veo-se-viendo/00031696415531881248993.htm",
+      "urlToImage": "https://www.lavozdegalicia.es/default/2023/10/04/00121696430300871786381/Foto/esthermeningitis2.png",
+      "publishedAt": "2023-10-05 03:00:00",
+      "content": "Entre que me ha dado una crisis de epilepsia y que luego he estado con el cro.... As empieza la conversacin de Esther Chumillas con La Voz de la Salud. Sorprende que alguien exprese con tanta normali\u2026 [+9756 chars]",
+      "retrievedAt": "2023-10-06 07:05:37.083906",
+      "internal_id": "7cdcd4067c30ad44c1815a9de5cea9388f1debede56d420eaa62c06069a733e7",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2304,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Bloomberg",
+      "title": "Top vaccine maker seeks growth by selling shots to globetrotters",
+      "description": "Over the next three years, Pune-based Serum plans to start production of yellow fever and dengue shots for European and American travelers to countries where those diseases are endemic, Chief Executive Officer Adar Poonawalla said in an interview.",
+      "url": "https://www.moneycontrol.com/news/business/top-vaccine-maker-seeks-growth-by-selling-shots-to-globetrotters-11479481.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/10/402700434-770x433.jpg",
+      "publishedAt": "2023-10-05 01:31:56",
+      "content": "Employees monitor the production of line for Covishield, the local name for the Covid-19 vaccine developed by AstraZeneca Plc. and the University of Oxford, at the Serum Institute of India Ltd. Hadas\u2026 [+4650 chars]",
+      "retrievedAt": "2023-10-06 07:05:36.795170",
+      "internal_id": "851c3d912a196891ddd167360bcc64684326321d5c69fb061604c186e395a130",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2307,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "The Conversation",
+      "title": "Vacuna contra la malaria: OMS aprueba la R21/Matrix, que erradicar\u00eda la enfermedad en 2040",
+      "description": "Cada a\u00f1o nacen alrededor de 40 millones de ni\u00f1os en zonas africanas con malaria.",
+      "url": "https://www.elfinanciero.com.mx/salud/2023/10/04/vacuna-contra-la-malaria-oms-aprueba-la-r21matrix-que-erradicaria-la-enfermedad-en-2040/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/7NJWFMWSfSz-EXDVO-s8qpPaJbs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JYC3HFLH75HONEPYELCASLYTLE.jpg",
+      "publishedAt": "2023-10-04 21:55:08",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) aprob\u00f3 una nueva vacuna que, seg\u00fan los cient\u00edficos, cambiar\u00e1 las reglas del juego en la lucha contra la malaria, que mata a medio mill\u00f3n de personas en \u00c1fric\u2026 [+6569 chars]",
+      "retrievedAt": "2023-10-06 07:05:38.247096",
+      "internal_id": "13d78a1bebba8dcf94fc1e84fbf2e0511bc82b62f28a87df5d2e230ecca40aec",
+      "publishedAtLabel": "Oct 4"
+    },
     {
       "id": 2301,
       "query": [
@@ -3475,152 +3619,6 @@
       "content": "La malaria es una de esas enfermedades que a\u00fan se escapan al control de la medicina. Seg\u00fan la Organizaci\u00f3n Mundial de la Salud, millones de personas cada a\u00f1o, sobre todo en \u00c1frica, acaban siendo cont\u2026 [+5689 chars]",
       "retrievedAt": "2023-09-29 19:05:23.902145",
       "internal_id": "681bacfcbd46086b77881f67eb7c383618fc1d6582a6afcdd85604a2962f25f3",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2112,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Lavozdegalicia.es",
-      "author": "Mar\u00eda Hermida",
-      "title": "El atleta Gustavo Dacal, que estuvo entre la vida y la muerte, cada vez m\u00e1s campe\u00f3n: \u00abDucharme o vestirme es ahora una batalla, pero estoy aqu\u00ed\u00bb",
-      "description": "Con secuelas importantes nueve meses despu\u00e9s de contagiarse dengue, el lanzador de jabalina transmiti\u00f3 su entusiasmo por el deporte a los ni\u00f1os de su tierra, Ponte Caldelas",
-      "url": "https://www.lavozdegalicia.es/noticia/pontevedra/pontecaldelas/2023/09/28/atleta-gustavo-dacal-estuvo-vida-muerte-vez-campeon-ducharme-vestirme-batalla-/00031695888961763218424.htm",
-      "urlToImage": "https://www.lavozdegalicia.es/default/2023/09/28/00121695893822004673643/Foto/P_20230928_100429000.jpg",
-      "publishedAt": "2023-09-28 09:39:00",
-      "content": "Diciembre del 2022 avanzaba en el calendario cuando a la familia del atleta Gustavo Dacal (Ponte Caldelas, 1977) recibi noticias preocupantes desde Mxico. El atleta, diez veces campen de Espaa en lan\u2026 [+3178 chars]",
-      "retrievedAt": "2023-09-29 19:05:22.969025",
-      "internal_id": "053d84d4059f677ea71a71354c03fd971d91005c3d9bb8392b03d10179fa1107",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2104,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Agency Report",
-      "title": "World Rabies Day: NVMA advocates responsible pet ownership",
-      "description": "The Nigerian Veterinary Medical Association has urged pet owners to keep their pets within their premises and ensure they are fully vaccinated against rabies. The National President of the association, Dr. Oluwatoyin Adetuberu, made the call in an interview w\u2026",
-      "url": "https://punchng.com/world-rabies-day-nvma-advocates-responsible-pet-ownership/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/28103704/NVMA.jpg",
-      "publishedAt": "2023-09-28 09:37:24",
-      "content": "The Nigerian Veterinary Medical Association has urged pet owners to keep their pets within their premises and ensure they are fully vaccinated against rabies. The National President of the associati\u2026 [+1741 chars]",
-      "retrievedAt": "2023-09-29 19:05:22.266666",
-      "internal_id": "1f93c11e488ca665ebff0f3a64ae7b7f8915755c1abcac862546abf9d835b2d0",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2106,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "National Observer",
-      "author": "Emily Mullin",
-      "title": "The massive campaign to air-drop tasty rabies vaccines to raccoons",
-      "description": "Raccoons are a main carrier of rabies in the U.S. A government effort wants to distribute millions of tasty vaccines to protect both animals and people.",
-      "url": "https://www.nationalobserver.com/2023/09/28/news/massive-campaign-air-drop-tasty-rabies-vaccines-raccoons",
-      "urlToImage": "https://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_social/public/img/2023/09/25/52369711305_641353836b_h.jpg?itok=pGFbw8BE",
-      "publishedAt": "2023-09-28 09:14:36",
-      "content": "This story was originally published by Wired and appears here as part of the Climate Desk collaboration. This August, government airplanes and helicopters were dropping tiny parcels from the sky for\u2026 [+9097 chars]",
-      "retrievedAt": "2023-09-29 19:05:22.277469",
-      "internal_id": "136efe5eb549c35d498469fc1075b9af27d2fc80083730757a61c8eed69b94b8",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2110,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": "Ana Sofia Neto",
-      "title": "Mosquito que transmite dengue e zika aterrou em Lisboa pela primeira vez",
-      "description": "Embora tenha sido detetada no norte de Portugal, em 2017, esta foi a primeira vez que a esp\u00e9cie de mosquitos aterrou em Lisboa. H\u00e1 infe\u00e7\u00f5es que, a menos que viajemos, nos s\u00e3o muito distantes,...",
-      "url": "https://pplware.sapo.pt/ciencia/mosquito-que-transmite-dengue-e-zika-aterrou-em-lisboa-pela-primeira-vez/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2023/09/Aedes-Albopictus_B00.jpg",
-      "publishedAt": "2023-09-28 08:40:24",
-      "content": "Embora tenha sido detetada no norte de Portugal, em 2017, esta foi a primeira vez que a esp\u00e9cie de mosquitos aterrou em Lisboa. H\u00e1 infe\u00e7\u00f5es que, a menos que viajemos, nos s\u00e3o muito distantes, pois n\u2026 [+1448 chars]",
-      "retrievedAt": "2023-09-29 19:05:22.926226",
-      "internal_id": "fd64be5622497db7bf3807e8cf4520c9f2ad6b63614470912d7d0dc9e191e9ff",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2117,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknews.africa",
-      "author": "Sputnik Afrique",
-      "title": "Burkina Faso: 89 cas confirm\u00e9s de chikungunya dans la r\u00e9gion du Centre-Est",
-      "description": "Le Burkina Faso a enregistr\u00e9 89 cas confirm\u00e9s de chikungunya \u00e0 Pouytengan, dans la r\u00e9gion du Centre-Est, a annonc\u00e9 le 27 septembre le minist\u00e8re burkinab\u00e8 de la Sant\u00e9 et de l'Hygi\u00e8ne publique.",
-      "url": "https://fr.sputniknews.africa/20230928/burkina-faso-89-cas-confirmes-de-chikungunya-dans-la-region-du-centre-est-1062406737.html",
-      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1062406737.jpg?10623517331695888013",
-      "publishedAt": "2023-09-28 08:00:12",
-      "content": "https://fr.sputniknews.africa/20230928/burkina-faso-89-cas-confirmes-de-chikungunya-dans-la-region-du-centre-est-1062406737.html Burkina Faso: 89 cas confirm\u00e9s de chikungunya dans la r\u00e9gion du Centr\u2026 [+2608 chars]",
-      "retrievedAt": "2023-09-29 19:05:24.646678",
-      "internal_id": "33d85f1019b510e43aebfebb03c348340db7af42c542013f04627df258a2b3e4",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2109,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "Derek Cai - BBC News, Singapore",
-      "title": "Bangladesh: Nearly 1,000 people die of dengue in severe outbreak",
-      "description": "Worst outbreak on record is blamed on wet weather allowing virus-carrying mosquitoes to spread.",
-      "url": "https://www.bbc.com/news/world-asia-66944315?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/1748684cb7e60fcc45f5d849dc829053",
-      "publishedAt": "2023-09-28 07:52:55",
-      "content": "Nearly 1,000 people have died of dengue in Bangladesh in recent weeks, in what authorities say is the country's most severe outbreak of the disease yet. Extraordinarily wet monsoons have made it eas\u2026 [+1939 chars]",
-      "retrievedAt": "2023-09-29 19:05:22.922201",
-      "internal_id": "39f801269c364f1f9e03a73a598d4059a9ddd04107c83e8205b53dac13357fd3",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2108,
-      "query": [
-        "measles",
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "Dengue Fever, Cholera, and Measles On the Rise in Sudan",
-      "description": "[Dabanga] El Gedaref / El Gezira / Khartoum / Omdurman -- The federal Ministry of Health, working from Port Sudan, capital of Red Sea state, has registered hundreds of suspected cases of dengue fever and watery diarrhoea in El Gedaref and El Gezira. Cholera a\u2026",
-      "url": "https://allafrica.com/stories/202309280083.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-28 07:45:34",
-      "content": "El Gedaref / El Gezira / Khartoum / Omdurman \u2014 The federal Ministry of Health, working from Port Sudan, capital of Red Sea state, has registered hundreds of suspected cases of dengue fever and watery\u2026 [+6337 chars]",
-      "retrievedAt": "2023-09-29 19:05:22.544288",
-      "internal_id": "fb5898d320b49212951630fb0fcb245d009be060fd620a2fc3bf30c52b8e363c",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2111,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Bangladesh: Nearly 1,000 people die of dengue in severe outbreak",
-      "description": "Extraordinarily wet monsoons have given dengue-carrying mosquitoes fertile breeding ground.",
-      "url": "https://www.bbc.co.uk/news/world-asia-66944315",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BA15/production/_131273674_bangladeshdengue.png",
-      "publishedAt": "2023-09-28 07:29:44",
-      "content": "Nearly 1,000 people have died of dengue in Bangladesh in recent weeks, in what authorities say is the country's most severe outbreak of the disease yet. Extraordinarily wet monsoons have made it eas\u2026 [+1868 chars]",
-      "retrievedAt": "2023-09-29 19:05:22.937058",
-      "internal_id": "f1f97dc583418dcacefcabe1c853c1851cf2d88780574cf66b4d9723d95d894e",
       "publishedAtLabel": "Sep 28"
     }
   ]
