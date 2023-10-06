@@ -1,8 +1,172 @@
 {
-  "last_updated": "2023-10-06 07:05",
+  "last_updated": "2023-10-06 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 2317,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Alyssa B. Evans, Clayton W. Winkler, Sarah L. Anzick, Stacy M. Ricklefs, Dan E. Sturdevant, Karin E. Peterson",
+      "title": "Zika virus diversity in mice is maintained during early vertical transmission from placenta to fetus, but reduced in fetal bodies and brains at late stages of infection",
+      "description": "Author summary Zika virus (ZIKV) is known to cause congenital disease in humans through vertical transmission of the virus from mothers to fetuses during pregnancy. How the virus populations change during this process is currently not well understood. To eval\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011657",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011657.g004&size=inline",
+      "publishedAt": "2023-10-05 14:00:00",
+      "content": "Citation: Evans AB, Winkler CW, Anzick SL, Ricklefs SM, Sturdevant DE, Peterson KE (2023) Zika virus diversity in mice is maintained during early vertical transmission from placenta to fetus, but red\u2026 [+59181 chars]",
+      "retrievedAt": "2023-10-06 19:05:21.843396",
+      "internal_id": "993ad6091d16dc156413528e969e7553e2596ac01860621c5eb3f7616d38143b",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2316,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "autosport.com",
+      "author": "Stefan Mackley",
+      "title": "The meningitis survivor thriving in motorsport management",
+      "description": "For Ludovic Peze, November this year will serve as a solemn reminder of a time when the French-Mauritian\u2019s life hung in the balance as it marks a decade since he contracted meningitis.Since that uncertain time, the now 31-year-old has developed his passion fo\u2026",
+      "url": "https://www.autosport.com/general/news/the-meningitis-survivor-thriving-in-motorsport-management/10528799/",
+      "urlToImage": "https://cdn-4.motorsport.com/images/amp/2y3XzGm6/s6/ludovic-peze-1.jpg",
+      "publishedAt": "2023-10-05 13:42:43",
+      "content": "For Ludovic Peze, November this year will serve as a solemn reminder of a time when the French-Mauritians life hung in the balance as it marks a decade since he contracted meningitis. Since that unc\u2026 [+6062 chars]",
+      "retrievedAt": "2023-10-06 19:05:20.722548",
+      "internal_id": "b3a1e2737b5b974e62fa1a3d15d28dbb9e51d4bfbf5093b74125c8f8f512c533",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2314,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Muyinteresante.es",
+      "author": "Ana S\u00e1nchez",
+      "title": "Meningitis bacteriana: una enfermedad sin erradicar que sigue presente",
+      "description": "La infecci\u00f3n presenta un \u00edndice de mortalidad del 10% y puede dejar secuelas en el 20% por ciento de los supervivientes.",
+      "url": "https://www.muyinteresante.es/salud/61622.html",
+      "urlToImage": "https://imagenes.muyinteresante.es/files/article_social//uploads/2023/10/05/651e948d1d9fa.jpeg",
+      "publishedAt": "2023-10-05 10:55:26",
+      "content": "La meningitis es una enfermedad que provoca inflamaci\u00f3n de las membranas que recubren el cerebro y la m\u00e9dula espinal. Seg\u00fan datos del Ministerio de Sanidad, supone un problema de salud p\u00fablica debido\u2026 [+3051 chars]",
+      "retrievedAt": "2023-10-06 19:05:20.712648",
+      "internal_id": "cb16f86bfad335706ce68532bc1eb6ab8c9024c5324b018c7d12c1f79e690eff",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2312,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "More Than 1,000 Killed In Worst Recorded Dengue Outbreak In Bangladesh",
+      "description": "The World Health Organization (WHO) has warned that dengue -- and other diseases caused by mosquito-borne viruses such as chikungunya, yellow fever and Zika -- are spreading faster and further due to climate change.",
+      "url": "https://www.ndtv.com/world-news/record-dengue-deaths-in-bangladesh-1-000-killed-in-the-countries-deadliest-dengue-outbreak-with-more-than-210-000-cases-confirmed-4452577",
+      "urlToImage": "https://i.ndtvimg.com/i/2017-08/mosquito-dengue-delhi_650x400_81503397599.jpg",
+      "publishedAt": "2023-10-05 10:37:33",
+      "content": "In the crowded fever ward in Bangladesh's Mugda hospital, every bed is taken, as the country struggles in the brink of its deadliest dengue outbreak. More than 1,000 people have died this year in the\u2026 [+4084 chars]",
+      "retrievedAt": "2023-10-06 19:05:20.375299",
+      "internal_id": "893d62bc6ab0ecdc0e8838caab7b9380e5672470f5fcaa591272ccdcd6c81977",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2313,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "AFP -",
+      "title": "\"C\u2019est une urgence\" : le Bangladesh en proie \u00e0 une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent",
+      "description": "A l\u2019h\u00f4pital Mugda de Dacca, les m\u00e9decins ne savent plus o\u00f9 donner de la t\u00eate : trois des dix \u00e9tages de l\u2019\u00e9tablissement d\u00e9bordent de malades victimes d\u2019une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent.",
+      "url": "https://www.lalibre.be/international/asie/2023/10/05/cest-une-urgence-le-bangladesh-en-proie-a-une-epidemie-de-dengue-sans-precedent-BZDJYQOX2REOTITBIQCT3TFRGA/",
+      "urlToImage": "https://www.lalibre.be/resizer/3iZWJ5AYVtB0k0D9qWc1SiBU0ss=/1200x630/filters:format(jpeg):focal(2498x2690:2508x2680):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/OIO44DUUUNC2DB5T3FIJECBT5U.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/7JGUT3ZJ3JC25NBH7ELD2BB2QY.jpg",
+      "publishedAt": "2023-10-05 08:55:34",
+      "content": "Depuis, Nupur Akter guette des signes dam\u00e9lioration. Mais il a limpression que la fillette sest affaiblie. Cette ann\u00e9e, l\u00e9pid\u00e9mie de dengue, maladie transmise par les moustiques, est la pire jamais \u2026 [+3608 chars]",
+      "retrievedAt": "2023-10-06 19:05:20.395275",
+      "internal_id": "09380b08b90e5dc988b111d90b8e1037e4a75539d0e1d65decf4fde095cffb83",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2310,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sciences et Avenir",
+      "author": "AFP",
+      "title": "Le Bangladesh en proie \u00e0 une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent",
+      "description": "A l'h\u00f4pital Mugda de Dacca, les m\u00e9decins ne savent plus o\u00f9 donner de la t\u00eate: trois des dix \u00e9tages de l'\u00e9tablissement d\u00e9bordent de malades victimes d'une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent. Nupur Akter, 21 ans, s'efforce de faire manger sa petite s\u0153ur Payel q\u2026",
+      "url": "https://www.sciencesetavenir.fr/nature-environnement/le-bangladesh-en-proie-a-une-epidemie-de-dengue-sans-precedent_174309",
+      "urlToImage": "https://www.sciencesetavenir.fr/assets/afp/2023/10/05/167c50c6896f362a39595742dd5d121b6ba4b05c.jpg",
+      "publishedAt": "2023-10-05 08:47:47",
+      "content": "A l'h\u00f4pital Mugda de Dacca, les m\u00e9decins ne savent plus o\u00f9 donner de la t\u00eate: trois des dix \u00e9tages de l'\u00e9tablissement d\u00e9bordent de malades victimes d'une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent. Nupur Ak\u2026 [+4339 chars]",
+      "retrievedAt": "2023-10-06 19:05:20.337384",
+      "internal_id": "c545626553c1abfa5a4a4408a35c1b1244faae87ae4697f9d813ed5d1127f0a9",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2311,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Challenges",
+      "author": "AFP",
+      "title": "Le Bangladesh en proie \u00e0 une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent",
+      "description": "A l'h\u00f4pital Mugda de Dacca, les m\u00e9decins ne savent plus o\u00f9 donner de la t\u00eate: trois des dix \u00e9tages de l'\u00e9tablissement d\u00e9bordent de malades victimes d'une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent. Nupur Akter, 21 ans, s'efforce de faire manger sa petite s\u0153ur Payel q\u2026",
+      "url": "https://www.challenges.fr/monde/le-bangladesh-en-proie-a-une-epidemie-de-dengue-sans-precedent_869665",
+      "urlToImage": "https://www.challenges.fr/assets/img/2023/10/05/cover-r4x3w1200-651e78855ea75-5d42f1e1c5bf63bc2e1ad3ac437cc2c66aa323b4-jpg.jpg",
+      "publishedAt": "2023-10-05 08:47:47",
+      "content": "A l'h\u00f4pital Mugda de Dacca, les m\u00e9decins ne savent plus o\u00f9 donner de la t\u00eate: trois des dix \u00e9tages de l'\u00e9tablissement d\u00e9bordent de malades victimes d'une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent. Nupur Ak\u2026 [+4020 chars]",
+      "retrievedAt": "2023-10-06 19:05:20.352580",
+      "internal_id": "a1aabc3df4d2474e969b0a768d8a90e4d8fea145bd8c7dc494e40297015640e1",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2315,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Publicnow",
+      "title": "GSK : survey finds parents know less about meningitis compared to some other childhood diseases",
+      "description": "(marketscreener.com) New multi-country survey finds 93% of parents couldn't identify all three of the most common meningitis symptoms.1 While 88% considered meningitis to be a serious childhood disease, one in three are not aware that there are menin\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/GSK-PLC-9590199/news/GSK-survey-finds-parents-know-less-about-meningitis-compared-to-some-other-childhood-diseases-44989756/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-10-05 08:05:06",
+      "content": "New multi-country survey finds 93% of parents couldn't identify all three of the most common meningitis symptoms.1While 88% considered meningitis to be a serious childhood disease, o\u2026 [+9400 chars]",
+      "retrievedAt": "2023-10-06 19:05:20.717456",
+      "internal_id": "3885d6bcde25b0db0da0f2063eda5e20415cacbfa9bb95a55cd64d060fa826c4",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2318,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "30science per Il Fatto",
+      "title": "Grazie all\u2019Rna messaggero sviluppato un vaccino contro il vaiolo delle scimmie",
+      "description": "La tecnologia a Rna messaggero (mRNA) \u2013 premiata con il Nobel per la Medicina a Katalin Karik\u00f3 e Drew Weissman \u2013 sta allargando come \u00e8 noto la ricerca a nuovi vaccini su vasta scala. Tra questi c\u2019\u00e8 anche quello contro il Mpox, ovvero il vaiolo delle scimmie d\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2023/10/05/grazie-allrna-messaggero-sviluppato-un-vaccino-contro-il-vaiolo-delle-scimmie/7313989/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/05/02/med-1200x630-1.jpg",
+      "publishedAt": "2023-10-05 07:51:04",
+      "content": "La tecnologia a Rna messaggero (mRNA) \u2013 premiata con il Nobel per la Medicina a Katalin Karik\u00f3 e Drew Weissman \u2013 sta allargando come \u00e8 noto la ricerca a nuovi vaccini su vasta scala. Tra questi c\u2019\u00e8 a\u2026 [+2156 chars]",
+      "retrievedAt": "2023-10-06 19:05:22.626946",
+      "internal_id": "aafc5498fd4e9bef9755da58fcc4e8e54fdd1baf5ba0e0427f147bbc51d39926",
+      "publishedAtLabel": "Oct 5"
+    },
     {
       "id": 2302,
       "query": [
@@ -3457,168 +3621,6 @@
       "content": "",
       "retrievedAt": "2023-09-29 19:05:22.264164",
       "internal_id": "4cf7409f0ecfb9c8eeeee2b09f2a230d470398228aa74c6c9e315e182cfa729a",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2102,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": "CDC",
-      "title": "Influenza, Tdap, and COVID-19 Vaccination Coverage and Hesitancy Among Pregnant Women - United States, April 2023",
-      "description": "This report describes influenza, Tdap, and COVID-19 vaccination coverage and hesitancy among pregnant people.",
-      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7239a4.htm",
-      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7239a4_FluTdapCOVIDVaxPregnantPeople_IMAGE_29Sep2023_1200x675.jpg?_=25612",
-      "publishedAt": "2023-09-28 17:00:00",
-      "content": "Summary What is already known about this topic? Influenza, tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap), and COVID-19 vaccines can reduce the risk for severe respirator\u2026 [+35878 chars]",
-      "retrievedAt": "2023-09-29 19:05:21.887089",
-      "internal_id": "a3a5010dab552b9b01fdcc85afccd2bea4ea8ee5dbe475fce0d21e2b22394fd7",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2107,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Rizka Khaerunnisa, Resinta S",
-      "title": "Rabies vaccination coverage at 91.45% in Jakarta: official",
-      "description": "At least 41,826 rabies-transmitting animals (HPR) in Jakarta, or 91.45 percent of the targeted 45,735 HPR, have been administered the rabies vaccine as of September 2023, the Jakarta Food, Maritime, and Agricultural Security ...",
-      "url": "https://en.antaranews.com/news/294783/rabies-vaccination-coverage-at-9145-in-jakarta-official",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/09/21/antarafoto-vaksinasi-rabies-di-jakarta-210923-ies-7.jpg",
-      "publishedAt": "2023-09-28 14:57:01",
-      "content": "Jakarta (ANTARA) - At least 41,826 rabies-transmitting animals (HPR) in Jakarta, or 91.45 percent of the targeted 45,735 HPR, have been administered the rabies vaccine as of September 2023, the Jakar\u2026 [+2126 chars]",
-      "retrievedAt": "2023-09-29 19:05:22.287246",
-      "internal_id": "48485d534fb762a1a3e434f7c554f65c355f729ade24265acd1d16ca9b84bf4a",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2123,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "No immediate relief from fatal dengue",
-      "description": "There is no immediate relief from the deadly dengue disease in the country as the numbers of patients and deaths are still high at the end of September. Experts fear that the dengue surge may also continue in October and may come under control at the end of t\u2026",
-      "url": "https://sylhetmirror.com/2023/09/28/no-immediate-relief-from-fatal-dengue/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/09/Iyytre.jpg",
-      "publishedAt": "2023-09-28 14:31:43",
-      "content": "There is no immediate relief from the deadly dengue disease in the country as the numbers of patients and deaths are still high at the end of September. Experts fear that the dengue surge may also c\u2026 [+4149 chars]",
-      "retrievedAt": "2023-09-30 07:05:36.639123",
-      "internal_id": "2db25c00cd3838517048dc3c77b1d94fcbe42da1d8bc62568f95a75d458c1eee",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2118,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Filipe Romero Rebello Moreira, Mariane Talon de Menezes, Clarisse Salgado-Benvindo, Charles Whittaker, Victoria Cox, Nilani Chandradeva, Hury Hellen Souza de Paula, Andr\u00e9 Frederico Martins, Raphael Rangel das Chagas, Rodrigo Decembrino Vargas Brasil, Darlan da Silva C\u00e2ndido, Alice Laschuk Herlinger, Marisa de Oliveira Ribeiro, Monica Barcellos Arruda, Patricia Alvarez, Marcelo Calado de Paula T\u00f4rres, Ilaria Dorigatti, Oliver Brady, Carolina Moreira Voloch, Amilcar Tanuri, Felipe Iani, William Marciel de Souza, Sergian Vianna Cardozo, Nuno Rodrigues Faria, Renato Santana Aguiar",
-      "title": "Epidemiological and genomic investigation of chikungunya virus in Rio de Janeiro state, Brazil, between 2015 and 2018",
-      "description": "Author summary Chikungunya is a mosquito-borne viral disease that has emerged as a significant public health concern in many regions worldwide. The state of Rio de Janeiro, a key economic and tourism hub in Brazil, has experienced multiple outbreaks of chikun\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011536",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011536.g004&size=inline",
-      "publishedAt": "2023-09-28 14:00:00",
-      "content": "Abstract Since 2014, Brazil has experienced an unprecedented epidemic caused by chikungunya virus (CHIKV), with several waves of East-Central-South-African (ECSA) lineage transmission reported acros\u2026 [+58811 chars]",
-      "retrievedAt": "2023-09-29 19:05:24.652737",
-      "internal_id": "dfb6e529e8feba58c7aa1faabe8293abc25a9e9821b271f87a86a32994680d1f",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2105,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Matthew Ochei",
-      "title": "Rabies: Delta records five death, 60 cases in two months",
-      "description": "The Delta State Government says it has recorded over 60 cases of rabies and five deaths within two months in the state. The State Commissioner for Health, Dr Joseph Onojaeme, disclosed this on Thursday shortly after a walk to mark the World Rabies Day in Asab\u2026",
-      "url": "https://punchng.com/rabies-delta-records-five-death-60-cases-in-two-months/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/11/19164251/When-dogs-attack-e1574178185329.jpg",
-      "publishedAt": "2023-09-28 13:50:44",
-      "content": "The Delta State Government says it has recorded over 60 cases of rabies and five deaths within two months in the state. The State Commissioner for Health, Dr Joseph Onojaeme, disclosed this on Thurs\u2026 [+1700 chars]",
-      "retrievedAt": "2023-09-29 19:05:22.269234",
-      "internal_id": "41185850a9ba307b7fff55255cf544ca184d8f6f25734082a2d1580ef3d17333",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2113,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "India.com",
-      "author": "Zee Bihar-jharkhand Web Team",
-      "title": "Jharkhand Dengue: \u091d\u093e\u0930\u0916\u0902\u0921 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0906\u0924\u0902\u0915, \u092a\u0936\u094d\u091a\u093f\u092e\u0940 \u0938\u093f\u0902\u0939\u092d\u0942\u092e \u092c\u0928\u093e \u0939\u0949\u091f\u0938\u094d\u092a\u0949\u091f, \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u092c\u0947\u0921 \u092b\u0942\u0932",
-      "description": "Jhakhand Dengue: \u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0930\u093e\u0902\u091a\u0940 \u0938\u0939\u093f\u0924 \u092a\u0942\u0930\u0947 \u091d\u093e\u0930\u0916\u0902\u0921 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0906\u0924\u0902\u0915 \u0926\u0947\u0916\u0928\u0947 \u0915\u094b \u092e\u093f\u0932 \u0930\u0939\u093e \u0939\u0948. \u0939\u093e\u0932\u093e\u0902\u0915\u093f \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0940 \u092e\u093e\u0928\u0947 \u0924\u094b \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 \u092a\u0939\u0932\u0947 \u0915\u0940 \u0905\u092a\u0947\u0915\u094d\u0937\u093e \u0915\u092e\u0940 \u0906\u0908 \u0939\u0948 \u092c\u093e\u0935\u091c\u0942\u0926 \u0907\u0938\u0915\u0947 \u0938\u0930\u0915\u093e\u0930\u0940 \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u092c\u0947\u0921 \u0932\u0917\u092d\u0917 \u092b\u0942\u0932 \u0939\u0948.",
-      "url": "https://zeenews.india.com/hindi/india/bihar-jharkhand/health/dengue-havoc-in-jharkhand-west-singhbhum-becomes-hotspot-beds-filled-in-hospitals/1891755",
-      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/09/28/2247517-dengue.png",
-      "publishedAt": "2023-09-28 12:45:19",
-      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+357 chars]",
-      "retrievedAt": "2023-09-29 19:05:22.983113",
-      "internal_id": "48dc6e5cd605ae7d95a4beafb5d39c4d934455b274f92987d6e7aa59a23064e2",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2114,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Medical Daily",
-      "author": "Thanmay Arun",
-      "title": "What Is Eosinophilic Meningitis? Here's Everything About The Rare Infection That Spreads From Rodents",
-      "description": "Angiostrongylus cantonensis or rat lungworm worm causes a rare form of infection known as eosinophilic meningitis, which can cause paralysis and even death in severe cases.",
-      "url": "https://www.medicaldaily.com/what-eosinophilic-meningitis-heres-everything-about-rare-infection-that-spreads-rodents-470894",
-      "urlToImage": "https://d.medicaldaily.com/en/full/470225/representative-image-rat-parasitic-infections.jpg",
-      "publishedAt": "2023-09-28 12:17:23",
-      "content": "A parasitic worm that can affect the human brain and lead to coma or even death is spreading in the Southeastern United States. A new study, led by the Centers for Disease Control and Prevention (CD\u2026 [+2799 chars]",
-      "retrievedAt": "2023-09-29 19:05:23.493224",
-      "internal_id": "e94f2dfab3ae98cf7b23e5c2edcb6295d02d5ca4919bd2db1a145cb4c491101e",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2115,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Standforhealthfreedom.com",
-      "author": null,
-      "title": "Shining a light on meningitis - STAND FOR HEALTH FREEDOM",
-      "description": "Many people have been wanting to know the story behind the meningitis vaccine. We must pause for a fact check: There is no meningitis vaccine.",
-      "url": "https://standforhealthfreedom.com/meningitis/",
-      "urlToImage": "https://standforhealthfreedom.com/wp-content/uploads/2023/09/Shot_article_Rankmath-3.png",
-      "publishedAt": "2023-09-28 11:19:43",
-      "content": "Many people have been wanting to know the story behind the meningitis vaccine. We must pause for a fact check: There is no meningitis vaccine. Say what? There is a shot referred to as the meningiti\u2026 [+19211 chars]",
-      "retrievedAt": "2023-09-29 19:05:23.501748",
-      "internal_id": "9f46d6208081113131c16475295a0b3a691ae8a2f388d0b0736552a82bfcdd5b",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2116,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Elespanol.com",
-      "author": "Alberto G. Palomo",
-      "title": "La malaria se hace resistente a su ant\u00eddoto: se complican las opciones de una cura en el futuro",
-      "description": "El par\u00e1sito 'Plasmodium falciparum' ha desarrollado defensas a las artemisininas, el elemento principal de los tratamientos actuales.",
-      "url": "https://www.elespanol.com/ciencia/20230928/malaria-hace-resistente-antidoto-complican-opciones-cura-futuro/797920355_0.html",
-      "urlToImage": "https://s1.eestatic.com/2022/06/03/ciencia/677442947_236375923_1200x630.jpg",
-      "publishedAt": "2023-09-28 11:13:45",
-      "content": "La malaria es una de esas enfermedades que a\u00fan se escapan al control de la medicina. Seg\u00fan la Organizaci\u00f3n Mundial de la Salud, millones de personas cada a\u00f1o, sobre todo en \u00c1frica, acaban siendo cont\u2026 [+5689 chars]",
-      "retrievedAt": "2023-09-29 19:05:23.902145",
-      "internal_id": "681bacfcbd46086b77881f67eb7c383618fc1d6582a6afcdd85604a2962f25f3",
       "publishedAtLabel": "Sep 28"
     }
   ]
