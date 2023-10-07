@@ -1,8 +1,424 @@
 {
-  "last_updated": "2023-10-07 07:05",
+  "last_updated": "2023-10-07 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 36,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 2359,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Aquecimento global provocar\u00e1 disparada dos casos de dengue, alerta OMS",
+      "description": "Aumento das temperaturas tornar\u00e1 a dengue end\u00eamica em partes dos EUA, Europa e \u00c1frica at\u00e9 o final desta d\u00e9cada O post Aquecimento global provocar\u00e1 disparada dos casos de dengue, alerta OMS apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/10/06/medicina-e-saude/aquecimento-global-provocara-disparada-dos-casos-de-dengue-alerta-oms/",
+      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue.jpg",
+      "publishedAt": "2023-10-06 18:36:30",
+      "content": "A dengue j\u00c3\u00a1 \u00c3\u00a9 um problema de sa\u00c3\u00bade p\u00c3\u00bablica em diversas regi\u00c3\u00b5es da Terra, inclusive no Brasil. Mas o aumento das temperaturas globais, provocado pela crise clim\u00c3\u00a1tica, far\u00c3\u00a1 com que a amea\u00c3\u00a7a che\u2026 [+2786 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.630374",
+      "internal_id": "59b7ceb975af14f07c06078c0e9eebb0dfa8310c9662f8a6da32b8fe76a1cb80",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2376,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tan Jingjing",
+      "title": "U.S. Arkansas reports first locally acquired malaria case",
+      "description": "LOS ANGELES, Oct. 6 (Xinhua) -- The U.S. state of Arkansas has identified its first locally acquired malaria case, the fourth state in the country that has reported locally acquired cases of one of the world's most dangerous infectious diseases. Read full sto\u2026",
+      "url": "https://www.thestar.com.my/news/world/2023/10/07/us-arkansas-reports-first-locally-acquired-malaria-case",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-10-06 18:35:00",
+      "content": "LOS ANGELES, Oct. 6 (Xinhua) -- The U.S. state of Arkansas has identified its first locally acquired malaria case, the fourth state in the country that has reported locally acquired cases of one of t\u2026 [+1278 chars]",
+      "retrievedAt": "2023-10-07 19:05:11.462157",
+      "internal_id": "f976dd45a900d788a62816c0adc6b74bb595d6b48ba2143f0378920bfc59a26f",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2356,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Mini Thomas",
+      "title": "Karnataka govt to provide free anti-rabies vaccine to animal bite victims",
+      "description": "The Karnataka government has decided to provide free anti-rabies vaccine (ARV) and Rabies Immunoglobulin (RIG) to people bitten by animals.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-to-provide-free-anti-rabies-vaccine-to-animal-bite-victims/articleshow/104222748.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104222782,width-1070,height-580,imgsize-1159390,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-06 17:49:17",
+      "content": "10 inspiring Sanskrit shlokas for your kid's room",
+      "retrievedAt": "2023-10-07 19:05:09.728258",
+      "internal_id": "1ff691902e6f06ee3ab382867137a0b7ca25a4296d4726c6590711f8eaf78b8f",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2373,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "La malaria llega a Arkansas: el estado informa el primer caso adquirido localmente",
+      "description": "Una de las enfermedades infecciosas m\u00e1s peligrosas del mundo est\u00e1 invadiendo m\u00e1s los EE. UU. Esta semana, funcionarios de salud en Arkansas informaron sobre un caso adquirido localmente de malaria, la primera documentada en el estado. Al menos otros tres esta\u2026",
+      "url": "https://es.gizmodo.com/malaria-arkansas-casos-adquiridos-localmente-mosquitos-1850907141",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6dfe2e21fa5ce9311ca3b8adc02ba04.jpg",
+      "publishedAt": "2023-10-06 17:07:25",
+      "content": "Una de las enfermedades infecciosas m\u00e1s peligrosas del mundo est\u00e1 invadiendo m\u00e1s los EE. UU. Esta semana, funcionarios de salud en Arkansas informaron sobre un caso adquirido localmente de malaria, l\u2026 [+3202 chars]",
+      "retrievedAt": "2023-10-07 19:05:11.421618",
+      "internal_id": "92c251e87af5025eab7ee1b353d908a7e424c8f7be18748ceddfa7bf83b6ee9d",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2375,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "Malaria Comes to Arkansas: State Reports First Locally Acquired Case",
+      "description": "One of the world\u2019s most dangerous infectious diseases is encroaching further into the U.S. This week, health officials in Arkansas reported a locally acquired case of malaria, the first ever documented in the state. At least three other states have reported l\u2026",
+      "url": "https://gizmodo.com/malaria-arkansas-locally-acquired-case-mosquitoes-1850907092",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6dfe2e21fa5ce9311ca3b8adc02ba04.jpg",
+      "publishedAt": "2023-10-06 17:07:25",
+      "content": "One of the worlds most dangerous infectious diseases is encroaching further into the U.S. This week, health officials in Arkansas reported a locally acquired case of malaria, the first ever documente\u2026 [+2648 chars]",
+      "retrievedAt": "2023-10-07 19:05:11.434150",
+      "internal_id": "f31fc9acac0d156c2ca10ddadfaea92f48abcfc745dfbf957b5428392a7f5866",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2364,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "El dengue se propagar\u00e1 en el sur de Europa, EU y \u00c1frica esta d\u00e9cada, advierte OMS",
+      "description": "Forbes M\u00e9xico. El dengue se propagar\u00e1 en el sur de Europa, EU y \u00c1frica esta d\u00e9cada, advierte OMS Seg\u00fan expertos, el aumento de las temperaturas derivado del cambio clim\u00e1tico, propiciar\u00e1n el desarrollo y propagaci\u00f3n del dengue. El dengue se propagar\u00e1 en el \u2026",
+      "url": "https://www.forbes.com.mx/el-dengue-se-propagara-en-el-sur-de-europa-eu-y-africa-esta-decada-advierte-oms/",
+      "urlToImage": "https://cdn.forbes.com.mx/2021/05/dengue-mosquito-CDC-scaled.jpg",
+      "publishedAt": "2023-10-06 16:57:07",
+      "content": "El dengue se convertir\u00e1 esta d\u00e9cada en una grave amenaza en el sur de Estados Unidos, el sur de Europa y nuevas zonas de \u00c1frica, seg\u00fan el cient\u00edfico jefe de la OMS, ya que las temperaturas m\u00e1s c\u00e1lida\u2026 [+2857 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.651689",
+      "internal_id": "8218affab8ad14a0bf4c2b7b75088e6d10573a59a02256e7bac9e95622bc0d55",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2362,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Foreign Policy",
+      "author": "Bibek Bhandari",
+      "title": "A Dangerous Disease Spreads in a Hotter Nepal",
+      "description": "Dengue-carrying mosquitoes are spreading to mountains where they were once unknown.",
+      "url": "https://foreignpolicy.com/2023/10/06/nepal-disease-dengue-climate-change-global-warming-himalayas/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2023/10/NEPAL-DENGUE-CLIMATE-GettyImages-1243420993.png?w=1000",
+      "publishedAt": "2023-10-06 16:34:26",
+      "content": "The district of Dolpa is remote and high, from 1,500 meters (4,921 feet) above sea level up to more than 7,500 meters (24,606 feet). Its Himalayan peaks, the turquoise Phoksundo Lake, and arduous tre\u2026 [+13398 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.647535",
+      "internal_id": "3388c171c9a3f52b99db4ec886c8d68c137315c543b3cefd583e9579aa9c83f7",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2369,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue vai se tornar end\u00eamica na Europa, EUA e \u00c1frica, diz OMS",
+      "description": "Alta de temperaturas do planeta deve favorecer o aparecimento dos mosquitos causadores da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2023-10-06/dengue-endemica-europa-eua-africa-oms.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c4/1z/dr/c41zdr4sztch6kcgg0ab3ryg7.jpg",
+      "publishedAt": "2023-10-06 16:07:36",
+      "content": "Nesta d\u00e9cada, a dengue vai se tornar uma grande amea\u00e7a no Sul dos Estados Unidos, no Sul da Europa e em novas partes da \u00c1frica, alertou o especialista em doen\u00e7as infecciosas da Organiza\u00e7\u00e3o Mundial \u2026 [+1688 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.692997",
+      "internal_id": "7d2c7aa98a122114fcd4fad3d682066dcd396e68fd99f312fbe992526914703d",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2361,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Simon Bishop, Associate Professor, Faculty of Health, Anglia Ruskin University",
+      "title": "Dengue: why is this sometimes fatal disease increasing around the world?",
+      "description": "Something unusual seems to be happening with dengue, a potentially fatal mosquito-borne viral disease.",
+      "url": "https://theconversation.com/dengue-why-is-this-sometimes-fatal-disease-increasing-around-the-world-215008",
+      "urlToImage": "https://images.theconversation.com/files/552523/original/file-20231006-21-efz04.jpg?ixlib=rb-1.1.0&rect=0%2C444%2C4473%2C2236&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2023-10-06 15:47:18",
+      "content": "Something unusual seems to be happening with dengue, a potentially fatal mosquito-borne viral disease found across swathes of tropical Africa, Asia and the Americas. As with most infectious diseases,\u2026 [+4366 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.645467",
+      "internal_id": "c2e8edea9feb874644d3338bd7dd80dc35e27bfb0d6271c616088dbf8990b9a4",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2372,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "GoodHousekeeping.com",
+      "author": "Lisa Mulcahy",
+      "title": "What Parents Should Know About Meningitis B",
+      "description": "What Parents Should Know About Meningitis Bgoodhousekeeping.com",
+      "url": "https://www.goodhousekeeping.com/health/a43659828/a-teen-parents-discussion-guide-about-meningitis/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-171581797-170667a-64419558b2693.jpg?crop=1.00xw:0.752xh;0,0.120xh&resize=1200:*",
+      "publishedAt": "2023-10-06 15:19:22",
+      "content": "Every parents goal is to keep their child safe. As your kids grow older, though, it gets harder to do so when it comes to their health. For one thing, as teens head to college, they are more exposed \u2026 [+4832 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.956344",
+      "internal_id": "fd5b76f746299c3ddc0a7e56f35bc08b3f7632f0f6d16d809301fe4918d24a61",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2374,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "How male mosquitoes compensate for having only one X chromosome",
+      "description": "Researchers have discovered the master regulator responsible for balancing the expression of X chromosome genes between males and females in the malaria mosquito. This discovery helps scientists better understand the evolution of the epigenetic mechanisms res\u2026",
+      "url": "https://www.sciencedaily.com/releases/2023/10/231006104515.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-10-06 14:45:15",
+      "content": "The research group of Dr. Claudia Keller Valsecchi at the Institute of Molecular Biology (IMB) in Mainz and their collaborators have discovered the master regulator responsible for balancing the expr\u2026 [+3899 chars]",
+      "retrievedAt": "2023-10-07 19:05:11.431733",
+      "internal_id": "7540a7b9b98f9e3d40ac4dfaf42de7cda1a049c4e57df7bac9343c9c4de07bc6",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2371,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Tsujimoto, H., Adelman, Z. N.",
+      "title": "An 11-point time course midgut transcriptome across 72 h after bloodfeeding provides detailed temporal resolution of transcript expression in the arbovirus vector, Aedes aegypti [RESOURCES]",
+      "description": "As the major vector for dengue, Zika, yellow fever, and chikungunya viruses, the mosquito Aedes aegypti is one of the most important insects in public health. These viruses are transmitted by bloodfeeding, which is also necessary for the reproduction of the m\u2026",
+      "url": "https://genome.cshlp.org/content/early/2023/10/06/gr.277808.123.short?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2023-10-06 14:40:38",
+      "content": "As the major vector for dengue, Zika, yellow fever, and chikungunya viruses, the mosquito Aedes aegypti is one of the most important insects in public health. These viruses are transmitted by bloodfe\u2026 [+1694 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.699279",
+      "internal_id": "310310fd031ba662794887ec1d78dbf168c0910490776d0281a092398b7e02f3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2365,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Text: Christina Berndt, Infografik: Lina Moreno und Sead Mujic",
+      "title": "Klimawandel und Gesundheit: Leben mit der Tigerm\u00fccke",
+      "description": "In Paris ziehen Insektenbek\u00e4mpfer mit Gasmasken durch die Stra\u00dfen, am Gardasee sind 14 Menschen erkrankt. Wie gef\u00e4hrlich ist das Dengue-Fieber f\u00fcr Europa?",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/wissen/dengue-fieber-tigermuecke-gardasee-e619137/",
+      "urlToImage": "https://www.sueddeutsche.de/projekte/artikel/wissen/dengue-fieber-tigermuecke-gardasee-e619137/62679b1418467cea6fb84867c863ea1c5fd387b652e84e7f7270e919b76e1d26_w2400_h1256_r75,0,1920,1005_oszplus_q70.png",
+      "publishedAt": "2023-10-06 14:18:13",
+      "content": "In Paris ziehen Insektenbek\u00e4mpfer mit Gasmasken durch die Stra\u00dfen, am Gardasee sind 14 Menschen erkrankt. Wie gef\u00e4hrlich ist das Dengue-Fieber f\u00fcr Europa?",
+      "retrievedAt": "2023-10-07 19:05:10.653745",
+      "internal_id": "3e16957b7269d4350bcc11ac62cfe3328a7cfb0a2d4b2cb3ec9fa6efaf18bb64",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2370,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Dengue vai disparar no sul da Europa, EUA e \u00c1frica nesta d\u00e9cada, diz OMS",
+      "description": "A dengue se tornar\u00e1 uma grande amea\u00e7a no sul dos Estados Unidos, no sul da Europa e em novas ...",
+      "url": "https://www.terra.com.br/noticias/mundo/dengue-vai-disparar-no-sul-da-europa-eua-e-africa-nesta-decada-diz-oms,ea012bbf40b3f973bdd9a92b32fffe62x2enyb2n.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2023-10-06 14:16:56",
+      "content": "A dengue se tornar\u00e1 uma grande amea\u00e7a no sul dos Estados Unidos, no sul da Europa e em novas partes da \u00c1frica nesta d\u00e9cada, disse um especialista da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS), uma vez que as\u2026 [+2667 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.697049",
+      "internal_id": "9031daee52235bbb211b7bf4d1e0ab900121b1030af5ce628a55512e8bc96791",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2367,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Reuters",
+      "title": "Dengue to plague US, Europe, Africa by 2030 - WHO",
+      "description": "(marketscreener.com) STORY: Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist has warned.https://www.marketscreener.com/news/latest/Dengue-to-plague-US-Europe-\u2026",
+      "url": "https://www.marketscreener.com/news/latest/Dengue-to-plague-US-Europe-Africa-by-2030-WHO--45002445/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-10-06 13:44:04",
+      "content": "STORY: Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist has warned. Warmer temperatures are crea\u2026 [+1811 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.664291",
+      "internal_id": "76d8a4b90ebafa6fafe7405cc4ad0ec0469b78abdbc4e2fc42149895be597501",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2377,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Federico Garau)",
+      "title": "Nuovo caso di virus Chikungunya: cosa sappiamo dell'infezione",
+      "description": "L'episodio pi\u00f9 recente, dopo i tre casi accertati in Veneto, si \u00e8 verificato a Sansepolcro, in provincia di Arezzo",
+      "url": "https://www.ilgiornale.it/news/nazionale/nuovo-caso-virus-chikungunya-quarto-cosa-sappiamo-2222030.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2023/07/30/1690722365-zanzara.jpg?_=1690722365",
+      "publishedAt": "2023-10-06 13:29:19",
+      "content": "Dopo i tre casi verificatisi in Veneto, anche dalla Toscana arriva la notizia di un'infezione causata dal virus Chikungunya. L'allarme arriva da Sansepolcro, comune della provincia di Arezzo, anche s\u2026 [+3128 chars]",
+      "retrievedAt": "2023-10-07 19:05:12.213654",
+      "internal_id": "5554d0477b3a669d77d2cc2f2a289ca1dbc2bb927c3fda638b9b01107b64d6e7",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2360,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Szatm\u00e1ri No\u00e9mi",
+      "title": "Figyelmeztet a WHO: vesz\u00e9lyes k\u00f3r terjedhet el Eur\u00f3p\u00e1ban",
+      "description": "Figyelmeztet a WHO: vesz\u00e9lyes k\u00f3r terjedhet el Eur\u00f3p\u00e1ban - Egyre t\u00f6bb hal\u00e1los \u00e1ldozatot szed a j\u00e1rv\u00e1ny.",
+      "url": "https://index.hu/kulfold/2023/10/06/who-europa-amerika-jarvany-halalos-betegseg-jarvany-kor-virus-fertozobetegseg-dangue-laz/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/5123/51233/512338/51233859_3905975_e36ccd68cfc401a3f07b64c8cebda901_wm.jpg",
+      "publishedAt": "2023-10-06 13:19:00",
+      "content": "A dengue-l\u00e1zat az egyiptomi cs\u00edpsz\u00fanyog \u00e1ltal terjesztett dengue-v\u00edrus okozza. A betegs\u00e9g hossz\u00fa ideje jelen van \u00c1zsi\u00e1ban \u00e9s D\u00e9l-Amerik\u00e1ban is, \u00e9vente mintegy 20 ezer ember hal\u00e1l\u00e1t okozza. 2000 \u00f3ta a\u2026 [+1603 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.636065",
+      "internal_id": "741ae4f6fd9c309eb1500fac625338898cf4c9ac00df7587b4db4170d6eadccf",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2358,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Arutz Sheva Staff",
+      "title": "Tel Aviv: Four children diagnosed with measles",
+      "description": "Health Ministry opens epidemiological investigation after four children are diagnosed with measles in Tel Aviv, with a fifth case suspected.",
+      "url": "https://www.israelnationalnews.com/news/377988",
+      "urlToImage": "https://www.inn.co.il/static/pictures/1200x930/1134283.jpg?autocrop=1",
+      "publishedAt": "2023-10-06 11:46:00",
+      "content": "The Israeli Health Ministry on Friday reported that four children of about two years old have been diagnosed with measles. The children all attend the same preschool in Tel Aviv, and a fifth child f\u2026 [+593 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.082137",
+      "internal_id": "b5f8e393dff1cc96ba9e1ff53f495e256bcf9ff3c78e18febe26bda8384453df",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2357,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "By JERUSALEM POST STAFF",
+      "title": "Four children infected in measles outbreak at Tel Aviv kindergarten",
+      "description": "Four children from the same kindergarten in Tel Aviv have been confirmed to be infected with measles, the Heal",
+      "url": "https://www.jpost.com/breaking-news/article-761977",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2023-10-06 11:38:50",
+      "content": "Four children from the same kindergarten in Tel Aviv have been confirmed to be infected with measles, the Health Ministry said Friday. A fifth child is suspected of being infected but has not been c\u2026 [+248 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.076734",
+      "internal_id": "b7b881f81951514610ebec4d2d3eea8b4049a708f6d7c455586adea255c533bc",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2363,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Challenges",
+      "author": "Reuters",
+      "title": "La dengue va se propager dans le sud de l'Europe, aux USA et en Afrique au cours de la d\u00e9cennie, selon l'OMS",
+      "description": "LONDRES (Reuters) - La dengue va devenir une menace majeure dans le sud des \u00c9tats-Unis, le sud de l'Europe et de nouvelles r\u00e9gions d'Afrique au cours de cette d\u00e9cennie, a d\u00e9clar\u00e9 le scientifique en chef de l'Organisation mondiale de la sant\u00e9 (OMS), Jeremy Far\u2026",
+      "url": "https://www.challenges.fr/monde/la-dengue-va-se-propager-dans-le-sud-de-l-europe-aux-usa-et-en-afrique-au-cours-de-la-decennie-selon-l-oms_869892",
+      "urlToImage": "https://www.challenges.fr/assets/img/2023/10/06/cover-r4x3w1200-651ff22e17093-un-homme-vaporise-un-insecticide-dans-une-rue-de-karachi-au.jpg",
+      "publishedAt": "2023-10-06 11:33:58",
+      "content": "LONDRES (Reuters) - La dengue va devenir une menace majeure dans le sud des \u00c9tats-Unis, le sud de l'Europe et de nouvelles r\u00e9gions d'Afrique au cours de cette d\u00e9cennie, a d\u00e9clar\u00e9 le scientifique en c\u2026 [+1817 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.649613",
+      "internal_id": "0cd552381318813e33e44ae03c062600071fd58d669e081e69803add903340d3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2368,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": null,
+      "title": "WHO: \u00faj j\u00e1rv\u00e1ny j\u00f6het Eur\u00f3p\u00e1ban",
+      "description": "A dengue-l\u00e1z m\u00e1r ebben az \u00e9vtizedben tov\u00e1bb terjedhet az Egyes\u00fclt \u00c1llamok \u00e9s Eur\u00f3pa d\u00e9li r\u00e9szei fel\u00e9.",
+      "url": "https://www.origo.hu/tudomany/20231006-who-uj-jarvany-johet-europaban.html",
+      "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2309/20230919tigrisszunyog2.jpg?w=1024",
+      "publishedAt": "2023-10-06 09:29:47",
+      "content": "A dengue-l\u00e1z m\u00e1r ebben az \u00e9vtizedben tov\u00e1bb terjedhet az Egyes\u00fclt \u00c1llamok \u00e9s Eur\u00f3pa d\u00e9li r\u00e9szei fel\u00e9, \u00e9s Afrika tov\u00e1bbi ter\u00fcletein is megjelenhet - figyelmeztetett az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WHO\u2026 [+1828 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.689565",
+      "internal_id": "57d26cf18c6085dd0a4fd5162efd3bac0a86a6f506a91c9e67a9f0b088bfc383",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2366,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France avec NG",
+      "title": "\u00c9pid\u00e9mie de dengue en Martinique : trois d\u00e9c\u00e8s en quinze jours, dont un enfant de 9 ans",
+      "description": "En Martinique, l\u2019\u00e9pid\u00e9mie de dengue a fait trois morts en l\u2019espace de quinze jours. Un enfant de 9 ans figure parmi les victimes. Il est d\u00e9c\u00e9d\u00e9 apr\u00e8s plusieurs jours d\u2019hospitalisation.",
+      "url": "https://www.ouest-france.fr/sante/epidemie-de-dengue-en-martinique-trois-deces-en-quinze-jours-dont-un-enfant-de-9-ans-02491202-6429-11ee-ac02-c502cc724ccb",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMzEwYWY3MmQ4MGUwN2E3OTJhOGFmZDQ2ZGRmYTY5YjFiYmY?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=7c3fd3aab2856d63e27db3a7d7b8e9f1866a930d505d132c72d4102be2e009d8",
+      "publishedAt": "2023-10-06 09:22:35",
+      "content": "La situation sanitaire ne sarrange pas en Martinique, o\u00f9 l\u00e9pid\u00e9mie de dengue continue de progresser. Depuis le 18 septembre 2023, trois personnes en sont mortes, a indiqu\u00e9 lAgence r\u00e9gionale de sant\u00e9 \u2026 [+1454 chars]",
+      "retrievedAt": "2023-10-07 19:05:10.657145",
+      "internal_id": "f93528d7fd1b2db5bdc52f32a94ad1a360b638cb5f292b1af6347cd1ec2dd869",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2355,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Surge in dog bite cases across Karnataka, but total number of rabies deaths decrease",
+      "description": "Karnataka has experienced a significant increase in dog bite incidents, with an average of 596 cases per day in the first nine months of 2023. This marks a 34% and 37% rise compared to 2022 and 2021, respectively. However, the number of rabies-related deaths \u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/surge-in-dog-bite-cases-across-karnataka-but-total-number-of-rabies-deaths-decrease/articleshow/104210439.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104210539,width-1200,height-630,imgsize-2706426,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-06 08:49:18",
+      "content": "Karnataka has seen a sharp increase in dog bite incidents this year, with an average of 596 cases per day during the first nine months of 2023. This represents a significant spike, marking a 34% and \u2026 [+3167 chars]",
+      "retrievedAt": "2023-10-07 19:05:09.721461",
+      "internal_id": "3974541f8b0034e5ed30a77c232d300ecb21c47a5757ed80b1deaca6ec31512c",
+      "publishedAtLabel": "Oct 6"
+    },
     {
       "id": 2350,
       "query": [
@@ -3199,428 +3615,6 @@
       "retrievedAt": "2023-10-03 19:05:26.434283",
       "internal_id": "41c5e1a28e84854a0687f86054b621d325c40faaee2660e3ff6fd5189fdee6c3",
       "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2197,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.hln.be",
-      "author": "ADN",
-      "title": "Bangladesh getroffen door ergste dengue-epidemie ooit, meer dan duizend doden",
-      "description": "Meer dan duizend mensen zijn sinds begin dit jaar overleden aan dengue in Bangladesh. Dat blijkt uit de offici\u00eble cijfers. Het is de ergste epidemie van dengue, een ziekte die via muggen overgedragen wordt, ooit in het land. Wereldwijd is het denguevirus de s\u2026",
-      "url": "https://www.hln.be/buitenland/bangladesh-getroffen-door-ergste-dengue-epidemie-ooit-meer-dan-duizend-doden~a7bc97f8/",
-      "urlToImage": "https://images0.persgroep.net/rcs/u5_7-JxCge2RbZVoQk5AgVcmAVw/diocontent/235333737/_focus/0.62/0.48/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
-      "publishedAt": "2023-10-02 09:34:58",
-      "content": "Dengue is een endemische ziekte in met name tropische regios, die hevige koorts, hoofdpijn, misselijkheid, braken en spierpijn veroorzaakt. In de ergste gevallen veroorzaakt de ziekte bloedingen, die\u2026 [+1908 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.442890",
-      "internal_id": "a29a91cc0c5b3556a4a6c55a923bf2a91c98cf63f0761c4f823fc0385c533776",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2182,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Hbvl.be",
-      "author": "jvh",
-      "title": "Bangladesh getroffen door ergste dengue-epidemie ooit, al meer dan duizend doden",
-      "description": "Meer dan duizend personen zijn sinds begin dit jaar overleden aan dengue in Bangladesh. Dat blijkt uit de offici\u00eble cijfers. Het is de ergste epidemie van dengue, een ziekte die via muggen overgedragen wordt, ooit in het land.",
-      "url": "https://www.hbvl.be/cnt/dmf20231002_93429896",
-      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2023/10/02/9639342f-df63-437d-943b-dbc9b9dceb0f.jpg?maxheight=460&maxwidth=629",
-      "publishedAt": "2023-10-02 09:31:25",
-      "content": "Meer dan duizend personen zijn sinds begin dit jaar overleden aan dengue in Bangladesh. Dat blijkt uit de offici\u00eble cijfers. Het is de ergste epidemie van dengue, een ziekte die via muggen overgedrag\u2026 [+1049 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.398894",
-      "internal_id": "3c6c7ee4f06d9fe470750ef967c8b04c0e8f9365fd96754a0d570ed95a4e4cac",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2196,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Ren\u00e9 Garzke",
-      "title": "Denguefieber in Bangladesch - 1000 Tote durch die Tigerm\u00fccke!",
-      "description": "Unter den Opfern sind etliche Kinder.Foto: Mahmud Hossain Opu/AP",
-      "url": "https://www.bild.de/ratgeber/2023/ratgeber/dramatischer-denguefieber-ausbruch-in-bangladesch-1000-tote-durch-die-tigermueck-85606644.bild.html",
-      "urlToImage": "https://images.bild.de/651a7bab9829af1f248b8e66/74cf5e348941d9da333b00b92d73dbba,6214171?w=1280",
-      "publishedAt": "2023-10-02 09:23:20",
-      "content": "Wieder sorgt ein Virus f\u00fcr zahlreiche Tote: Bangladesch hat den schlimmsten Ausbruch des Denguefiebers gemeldet, den das Land je erlebt hat! Die Schock-Zahlen der Gesundheitsbeh\u00f6rde: Seit Jahresbegi\u2026 [+2137 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.440864",
-      "internal_id": "2ae3599a0b95fee3bd29b05c4c798bd18db29d4a4e9cfeacba7ae6543b4e3312",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2183,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nieuwsblad.be",
-      "author": "jvh",
-      "title": "Bangladesh getroffen door ergste dengue-epidemie ooit, al meer dan duizend doden",
-      "description": "Meer dan duizend personen zijn sinds begin dit jaar overleden aan dengue in Bangladesh. Dat blijkt uit de offici\u00eble cijfers. Het is de ergste epidemie van dengue, een ziekte die via muggen overgedragen wordt, ooit in het land.",
-      "url": "https://www.nieuwsblad.be/cnt/dmf20231002_93397322",
-      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2023/10/02/9639342f-df63-437d-943b-dbc9b9dceb0f.jpg?maxheight=460&maxwidth=638",
-      "publishedAt": "2023-10-02 09:20:34",
-      "content": "Meer dan duizend personen zijn sinds begin dit jaar overleden aan dengue in Bangladesh. Dat blijkt uit de offici\u00eble cijfers. Het is de ergste epidemie van dengue, een ziekte die via muggen overgedrag\u2026 [+1049 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.400893",
-      "internal_id": "9ba1d1b3b0020544662b3183d30a99c4c9b88fd44e9b5c2988685e0d8d64a932",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2187,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Deutsche Welle",
-      "title": "Bangladesh records 1,000 deaths in record dengue outbreak",
-      "description": "The South Asian country, where dengue is endemic, is suffering the worst outbreak of the disease in its history. Bangladesh is reeling from the worst-ever outbreak of dengue this year which has claimed more than 1,000 lives since the start of this year. The \u2026",
-      "url": "https://www.dw.com/en/bangladesh-records-1000-deaths-in-record-dengue-outbreak/a-66978744",
-      "urlToImage": "https://static.dw.com/image/66791415_6.jpg",
-      "publishedAt": "2023-10-02 09:07:00",
-      "content": "Bangladesh is reeling from the worst-ever outbreak of dengue this year which has claimed more than 1,000 lives since the start of this year. The death toll due to the endemic disease has seen a stag\u2026 [+1807 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.412015",
-      "internal_id": "18471a0c6417322ff888c3e7c9481f7149cae22c47ba712ae310b9ab079a60e1",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2184,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Klimawandel beschleunigt Ausbreitung: Bangladesch meldet schlimmsten Ausbruch des Denguefiebers",
-      "description": "Mehr als 1000 Menschen starben seit Jahresbeginn an der Krankheit, die durch Stechm\u00fccken \u00fcbertragen wird. Auch in Deutschland k\u00f6nnte die Wahrscheinlichkeit einer Infektion laut WHO zunehmen.",
-      "url": "https://www.tagesspiegel.de/gesellschaft/klimawandel-beschleunigt-ausbreitung-bangladesch-meldet-schlimmsten-ausbruch-des-denguefiebers-10559662.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/dengue-fieber-in-bangladesch/alternates/BASE_16_9_W1400/dengue-fieber-in-bangladesch.jpeg",
-      "publishedAt": "2023-10-02 08:58:12",
-      "content": "Bangladesch hat den schlimmsten Ausbruch des Denguefiebers gemeldet, den das Land je erlebt hat. Seit Jahresbeginn starben in dem s\u00fcdasiatischen Land mehr als 1000 Menschen an der durch Stechm\u00fccken \u00fc\u2026 [+2520 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.403136",
-      "internal_id": "187541ebfa3a265155ac799671a9b8f3b492eca9002b099786b5f91a0f570a9a",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2172,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "ZEIT ONLINE: Gesundheit - Konstantin Zimmermann",
-      "title": "Dengue-Fieber: Bangladesch beklagt schlimmsten Dengue-Ausbruch jemals",
-      "description": "Seit Jahresbeginn sind im s\u00fcdasiatischen Bangladesch mehr als Tausend Dengue-Tote gemeldet worden. Wissenschaftler sehen den Grund in idealen Brutbedingungen f\u00fcr M\u00fccken.",
-      "url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fgesundheit%2F2023-10%2Fbangladesch-dengue-ausbruch",
-      "urlToImage": null,
-      "publishedAt": "2023-10-02 08:56:26",
-      "content": "When browsing with ads: We collect personal data and also transmit it to third-party providers that help us improve and finance our digital content. Some of the information stored on your device, \u2026 [+821 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.365841",
-      "internal_id": "c93e0b9eae7abade4490e7ea5ae406a4aee08aa0611563f365fe4cbbd7cdbd6a",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2186,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "7sur7.be",
-      "author": "R\u00e9daction",
-      "title": "Le Bangladesh frapp\u00e9 par sa pire \u00e9pid\u00e9mie de dengue: plus de 1.000 morts cette ann\u00e9e",
-      "description": "Plus de 1.000 personnes sont mortes de la dengue au Bangladesh depuis le d\u00e9but de l\u2019ann\u00e9e, selon les chiffres officiels, repr\u00e9sentant la pire \u00e9pid\u00e9mie de cette maladie, transmise par les moustiques, jamais enregistr\u00e9e dans le pays. Les chiffres de la directio\u2026",
-      "url": "https://www.7sur7.be/monde/le-bangladesh-frappe-par-sa-pire-epidemie-de-dengue-plus-de-1-000-morts-cette-annee~a39b74f1/",
-      "urlToImage": "https://images0.persgroep.net/rcs/Zgc3ikwLAcSmZ6dCKnc3OUmO-Os/diocontent/235569986/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
-      "publishedAt": "2023-10-02 08:16:03",
-      "content": "Selon lancien directeur de des services de Sant\u00e9, Be-Nazir Ahmed, le nombre de d\u00e9c\u00e8s enregistr\u00e9s depuis le d\u00e9but de lann\u00e9e est sup\u00e9rieur \u00e0 celui de toutes les ann\u00e9es pr\u00e9c\u00e9dentes combin\u00e9es depuis 2000\u2026 [+968 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.409815",
-      "internal_id": "ff64ac57f6c424223fb242726e39a5b457e42d661af07e6dd995a74e0843a6dc",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2193,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Origo.hu",
-      "author": null,
-      "title": "Nagy a baj Bangladesben, egyre t\u00f6bben halnak bele a vesz\u00e9lyes betegs\u00e9gbe",
-      "description": "Az idei sz\u00e1mok t\u00f6bb esetet mutatnak, mint amennyi 2000 \u00f3ta \u00f6sszesen volt az orsz\u00e1gban.",
-      "url": "https://www.origo.hu/nagyvilag/20231002-ezer-fole-emelkedett-a-halottak-szama-bangladesben-dengue-laz-miatt.html",
-      "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2310/20231002laz.jpg?w=624",
-      "publishedAt": "2023-10-02 08:14:50",
-      "content": "Minden kor\u00e1bbi rekordot megd\u00f6ntve ezer f\u00f6l\u00e9 emelkedett azoknak a sz\u00e1ma Bangladesben, akik \u00e9v eleje \u00f3ta \u00e9let\u00fcket vesztett\u00e9k dengue-l\u00e1zban - der\u00fcl ki a h\u00e9tfn k\u00f6zz\u00e9tett hivatalos adatokb\u00f3l.A dakkai eg\u00e9s\u2026 [+1327 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.431697",
-      "internal_id": "ddacb14274db3264872c39760c69f35604a6430833c04c36592cfeef61303aab",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2188,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Over 1,000 People Have Died Of Dengue In Bangladesh This Year",
-      "description": "More than 1,000 people in Bangladesh have died of dengue fever since the start of the year, official figures showed, in the country's worst recorded outbreak of the mosquito-borne disease.",
-      "url": "https://www.ndtv.com/world-news/over-1-000-people-have-died-of-dengue-in-bangladesh-this-year-4442287",
-      "urlToImage": "https://c.ndtvimg.com/2022-09/ha7jqn5o_dengue-mosquito-generic_625x300_19_September_22.jpg",
-      "publishedAt": "2023-10-02 08:11:56",
-      "content": "Among the dead are 112 children aged 15 and under, including infants. Dhaka: More than 1,000 people in Bangladesh have died of dengue fever since the start of the year, official figures showed, in t\u2026 [+2793 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.414046",
-      "internal_id": "70778334df74298a78074f6a470eb019cc0015d61ad3bfd99d2def7da724743d",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2191,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Drones, viables para estudiar insectos vectores",
-      "description": "Para comprender la din\u00e1mica de transmisi\u00f3n de vectores, como el mosquito Aedes aegypti, que ocasiona el dengue, zika y chikungunya, es viable el uso de drones, con los cuales se pueden obtener informaci\u00f3n e im\u00e1genes precisas del entorno urbano en que se repro\u2026",
-      "url": "https://www.jornada.com.mx/2023/10/02/politica/017n1pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-10-02 07:13:51",
-      "content": "Peri\u00f3dico La JornadaLunes 2 de octubre de 2023, p. 17 Para comprender la din\u00e1mica de transmisi\u00f3n de vectores, como el mosquito Aedes aegypti, que ocasiona el dengue, zika y chikungunya, es viable el\u2026 [+1737 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.425260",
-      "internal_id": "74108c2b051abb98f7f9afa37d85436baf4e40ed1c09c9db06e1b0b624c843a2",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2162,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Agency Report",
-      "title": "Bangladesh dengue deaths top 1,000 in worst outbreak on record",
-      "description": "More than 1,000 people in Bangladesh have died of dengue fever since the start of the year, official figures showed, in the country\u2019s worst recorded outbreak of the mosquito-borne disease. Figures from the country\u2019s Directorate General of Health Services publ\u2026",
-      "url": "https://punchng.com/bangladesh-dengue-deaths-top-1000-in-worst-outbreak-on-record/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/10/02080337/4030431-1646861282.jpg",
-      "publishedAt": "2023-10-02 07:05:26",
-      "content": "More than 1,000 people in Bangladesh have died of dengue fever since the start of the year, official figures showed, in the country\u2019s worst recorded outbreak of the mosquito-borne disease. Figures f\u2026 [+959 chars]",
-      "retrievedAt": "2023-10-03 07:05:51.298707",
-      "internal_id": "84828e31250ebac12fcb5e50ed40d5fd226203e1367aac52daa368f8ced2e8f0",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2161,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sciences et Avenir",
-      "author": "AFP",
-      "title": "Le Bangladesh frapp\u00e9 par sa pire \u00e9pid\u00e9mie de dengue, avec plus de 1.000 morts cette ann\u00e9e",
-      "description": "Plus de 1.000 personnes sont mortes de la dengue au Bangladesh depuis le d\u00e9but de l'ann\u00e9e, selon les chiffres officiels, repr\u00e9sentant la pire \u00e9pid\u00e9mie de cette maladie, transmise par les moustiques, jamais enregistr\u00e9e dans le pays. Les chiffres de la directi\u2026",
-      "url": "https://www.sciencesetavenir.fr/sante/le-bangladesh-frappe-par-sa-pire-epidemie-de-dengue-avec-plus-de-1-000-morts-cette-annee_174244",
-      "urlToImage": "https://www.sciencesetavenir.fr/assets/img/2023/10/02/cover-r4x3w1200-651ace8a87715-ad11d4cef39d76286654494c9f793c415431a8f7-jpg.jpg",
-      "publishedAt": "2023-10-02 06:33:50",
-      "content": "Plus de 1.000 personnes sont mortes de la dengue au Bangladesh depuis le d\u00e9but de l'ann\u00e9e, selon les chiffres officiels, repr\u00e9sentant la pire \u00e9pid\u00e9mie de cette maladie, transmise par les moustiques, \u2026 [+1229 chars]",
-      "retrievedAt": "2023-10-03 07:05:51.289193",
-      "internal_id": "a3123bb4ade1bde253e8d925c22ca21b287b6592bcfb1676120f315ace739b8b",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2160,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: World Rabies Day 2023 Campaign - 'All for 1 One Health for All'",
-      "description": "Press Release - What is Rabies?",
-      "url": "https://allafrica.com/stories/202310020008.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-02 04:49:22",
-      "content": "What is Rabies? According to the US CDC, rabies is a fatal but preventable viral disease. It can spread to people and pets if they are bitten or scratched by a rabid animal. In the United States, ra\u2026 [+3306 chars]",
-      "retrievedAt": "2023-10-03 07:05:50.362380",
-      "internal_id": "23378e6742b444c4c559bae29bcdde26b2647cb76aba3882581872d6a01afc56",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2164,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Bangladesh notifica m\u00e1s de 1.000 muertos este 2023 por un brote de dengue",
-      "description": "La Direcci\u00f3n General de Servicios Sanitarios de Bangladesh ha notificado 1.006 muertos y m\u00e1s de 200.000 contagiados por un brote de dengue en lo que va de 2023, superando por mucho las cifras del a\u00f1o anterior, con 281 muertes y unos 62.000 casos confirmados.",
-      "url": "https://www.europapress.es/internacional/noticia-bangladesh-notifica-mas-1000-muertos-2023-brote-dengue-20231002051449.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231002051449_1200.jpg",
-      "publishedAt": "2023-10-02 03:14:49",
-      "content": "DACA (BANGLADESH), 2 Oct. (DPA/EP) - La Direcci\u00f3n General de Servicios Sanitarios de Bangladesh ha notificado 1.006 muertos y m\u00e1s de 200.000 contagiados por un brote de dengue en lo que va de 2023\u2026 [+746 chars]",
-      "retrievedAt": "2023-10-03 07:05:51.318083",
-      "internal_id": "75fce63fa49f64867cd258b68cf92ec94870e6ad7adf20fea61df46cbf090569",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2165,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "RAGANANTHINI VETHASALAM",
-      "title": "Malaria makes a scary comeback",
-      "description": "PETALING JAYA: The spike in the number of malaria cases in several parts of the country so far this year is causing concern among public health experts, who cite climate change as among the contributory factors. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/02/malaria-makes-a-scary-comeback",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/02/2313881.jpg",
-      "publishedAt": "2023-10-01 23:00:00",
-      "content": "PETALING JAYA: The spike in the number of malaria cases in several parts of the country so far this year is causing concern among public health experts, who cite climate change as among the contribut\u2026 [+3926 chars]",
-      "retrievedAt": "2023-10-03 07:05:52.306959",
-      "internal_id": "74b2fd277a0e4ff86e0189b9d38e007ca7b040b7ff9fba0e4ebe4dd48be0a13d",
-      "publishedAtLabel": "Oct 1"
-    },
-    {
-      "id": 2166,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "WHO sounds alarm over rise in malaria case numbers",
-      "description": "PETALING JAYA: Various international medical groups have sounded the alarm over the rise in malaria cases around the world. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/02/who-sounds-alarm-over-rise-in-malaria-case-numbers",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/02/2313887.jpg",
-      "publishedAt": "2023-10-01 23:00:00",
-      "content": "PETALING JAYA: Various international medical groups have sounded the alarm over the rise in malaria cases around the world. In a message in conjunction with World Malaria Day in April, the World Hea\u2026 [+3018 chars]",
-      "retrievedAt": "2023-10-03 07:05:52.309957",
-      "internal_id": "a80ac1e4793ae8f5a16c6cd70396b9874287afa4f065079e11763848aa36818c",
-      "publishedAtLabel": "Oct 1"
-    },
-    {
-      "id": 2163,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Aristeguinoticias.com",
-      "author": "Redacci\u00f3n AN / LP",
-      "title": "Drones vs mosquitos: una batalla para prevenir enfermedades",
-      "description": "Los drones pueden operar en cualquier momento del d\u00eda y ofrecen una mayor resoluci\u00f3n espacial.",
-      "url": "https://aristeguinoticias.com/0110/mexico/drones-vs-mosquitos-una-batalla-para-prevenir-enfermedades/",
-      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/10/drones-mosquitos-previenen-enfermedades-011023-1.jpg",
-      "publishedAt": "2023-10-01 20:10:55",
-      "content": "En un esfuerzo innovador por controlar y prevenir enfermedades transmitidas por vectores como el dengue, zika y chikungunya, un proyecto de investigaci\u00f3n pionero en M\u00e9xico ha demostrado la efectivida\u2026 [+2486 chars]",
-      "retrievedAt": "2023-10-03 07:05:51.303468",
-      "internal_id": "b037668ead752690e315bda05a6321a4c571421fa3c10694ca610530d4c7bb9f",
-      "publishedAtLabel": "Oct 1"
-    },
-    {
-      "id": 2158,
-      "query": [
-        "dengue",
-        "malaria",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Www.ad.nl",
-      "author": "Esther Elligens",
-      "title": "Ga je een verre reis maken? Zo bescherm je jezelf tegen reizigersziektes als malaria en buiktyfus",
-      "description": "Ook dit najaar reizen er weer veel Nederlanders af naar een (sub)tropische vakantiebestemming. Maar dit is niet zonder risico: reizigersziektes als malaria, dengue, buiktyfus en chikungunya kunnen soms blijvende gevolgen hebben voor je gezondheid. Hoe bescher\u2026",
-      "url": "https://www.ad.nl/gezond/ga-je-een-verre-reis-maken-zo-bescherm-je-jezelf-tegen-reizigersziektes-als-malaria-en-buiktyfus~a52d3f9a/",
-      "urlToImage": "https://images0.persgroep.net/rcs/q5Ro-bgjXIWXLAkqmkbu5rJmims/diocontent/235813710/_focus/0.45/0.49/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
-      "publishedAt": "2023-10-01 14:15:36",
-      "content": "Ook dit najaar reizen er weer veel Nederlanders af naar een (sub)tropische vakantiebestemming. Maar dit is niet zonder risico: reizigersziektes als malaria, dengue, buiktyfus en chikungunya kunnen so\u2026 [+141 chars]",
-      "retrievedAt": "2023-10-02 19:05:23.504690",
-      "internal_id": "e7cafc51d2326ed809592f988ad7dfa1b8936901a780231d56f66f081f8aaaab",
-      "publishedAtLabel": "Oct 1"
-    },
-    {
-      "id": 2159,
-      "query": [
-        "dengue",
-        "malaria",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Www.ad.nl",
-      "author": "Esther Elligens",
-      "title": "\u2018De beet van die ene mug heeft mijn leven veranderd\u2019: dit kan je doen tegen reizigersziektes",
-      "description": "Ook dit najaar reizen er weer veel Nederlanders af naar een (sub)tropische vakantiebestemming. Maar dit is niet zonder risico: reizigersziektes als malaria, dengue, buiktyfus en chikungunya kunnen soms blijvende gevolgen hebben voor je gezondheid. Hoe bescher\u2026",
-      "url": "https://www.ad.nl/gezond/de-beet-van-die-ene-mug-heeft-mijn-leven-veranderd-dit-kan-je-doen-tegen-reizigersziektes~a52d3f9a/",
-      "urlToImage": "https://images0.persgroep.net/rcs/q5Ro-bgjXIWXLAkqmkbu5rJmims/diocontent/235813710/_focus/0.45/0.49/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
-      "publishedAt": "2023-10-01 14:15:36",
-      "content": "Ook dit najaar reizen er weer veel Nederlanders af naar een (sub)tropische vakantiebestemming. Maar dit is niet zonder risico: reizigersziektes als malaria, dengue, buiktyfus en chikungunya kunnen so\u2026 [+141 chars]",
-      "retrievedAt": "2023-10-02 19:05:23.511854",
-      "internal_id": "125e844fd80f07ab6ce1179a5bf26234189d6b074ca887c28b5f47db155ca55b",
-      "publishedAtLabel": "Oct 1"
-    },
-    {
-      "id": 2156,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Dineshkhabar.com",
-      "author": "editor",
-      "title": "3,000 Stray Dogs Receive Free Rabies Vaccination in Dhangadhi",
-      "description": "Dhangadhi: In a commendable initiative, approximately 3,000 dogs in Dhangadhi, Kailali, have been vaccinated against rabies, all free of cost. This mass vaccination drive was launched in response to a notable increase in the population of stray dogs in Dhan\u2026",
-      "url": "https://dineshkhabar.com/article/102925",
-      "urlToImage": "https://dineshkhabar.com/sites/default/files/styles/featured/public/field/image/rabies-khop-2-2992023054611-1000x0_0.jpg?itok=CbPF0udw",
-      "publishedAt": "2023-10-01 11:11:16",
-      "content": "Dhangadhi: In a commendable initiative, approximately 3,000 dogs in Dhangadhi, Kailali, have been vaccinated against rabies, all free of cost. This mass vaccination drive was launched in response to\u2026 [+2366 chars]",
-      "retrievedAt": "2023-10-02 19:05:22.574599",
-      "internal_id": "0ea32f58b20db21b4de934040a1691fc8531c76f974f2314f43017ba819488f8",
-      "publishedAtLabel": "Oct 1"
-    },
-    {
-      "id": 2157,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Bihar Records 6,146 Dengue Cases In September, Highest In 5 Years",
-      "description": "Bihar is witnessing an alarming rise in dengue cases, with 6,146 cases reported in September, the highest for the month in the last five years, according to the health department's data.",
-      "url": "https://www.ndtv.com/india-news/bihar-records-6-146-dengue-cases-in-september-highest-in-5-years-4440322",
-      "urlToImage": "https://c.ndtvimg.com/2022-09/3jpf0c1o_dengue-home-remedies_625x300_24_September_22.jpg",
-      "publishedAt": "2023-10-01 10:56:53",
-      "content": "As per health department's data, a total of 13,972 cases were reported last year. (Representational) Patna: Bihar is witnessing an alarming rise in dengue cases, with 6,146 cases reported in Septemb\u2026 [+2064 chars]",
-      "retrievedAt": "2023-10-02 19:05:23.493345",
-      "internal_id": "75a92884c824337601bc1afa755b1674883225d035f03cd028e3c09376e9a28e",
-      "publishedAtLabel": "Oct 1"
-    },
-    {
-      "id": 2155,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Rabies: Govt targets vaccinating 40,000 pets in Sarawak this year",
-      "description": "KUALA LUMPUR: The government is targeting to vaccinate 40,000 pets in Sarawak this year in an effort to curb the spread of rabies. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/01/rabies-govt-targets-vaccinating-40000-pets-in-sarawak-this-year",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/01/2313182.jpg",
-      "publishedAt": "2023-10-01 09:53:00",
-      "content": "KUALA LUMPUR: The government is targeting to vaccinate 40,000 pets in Sarawak this year in an effort to curb the spread of rabies. Deputy Agriculture and Food Security Minister Chan Foong Hin said a\u2026 [+919 chars]",
-      "retrievedAt": "2023-10-02 19:05:22.564242",
-      "internal_id": "7f90eed2d81f606b6485fcc882653ff2ca97289324320fff262b078614633d07",
-      "publishedAtLabel": "Oct 1"
     }
   ]
 }
