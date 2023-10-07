@@ -1,8 +1,422 @@
 {
-  "last_updated": "2023-10-06 19:05",
+  "last_updated": "2023-10-07 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 36,
   "articles": [
+    {
+      "id": 2350,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Publicnow",
+      "title": "GlobalData : Influencers on X hail WHO-approved R21/Matrix-M malaria vaccine as game changer, reveals GlobalData",
+      "description": "(marketscreener.com) 06 Oct, 2023 Influencers on X hail WHO-approved R21/Matrix-M malaria vaccine as game changer, reveals GlobalData Share Print page Posted in Business Fundamentals The R21/Matrix-M malaria vaccine developed by th\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/GLOBALDATA-PLC-13101755/news/GlobalData-Influencers-on-X-hail-WHO-approved-R21-Matrix-M-malaria-vaccine-as-game-changer-reveal-44998819/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-10-06 07:04:06",
+      "content": "The R21/Matrix-Mmalaria vaccine developed by the University of Oxford and the Serum Institute of India, leveraging Novavax's adjuvant technology, has been recommended for use by the World Health Orga\u2026 [+2734 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.947449",
+      "internal_id": "5f041bb0b811f1c5555ff917deccbe6096e03d47437c9061cc14050bd3ef5c0a",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2320,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Hvg.hu",
+      "author": "hvg@hvg.hu",
+      "title": "WHO: \u00c1tterjedhet a dengue-l\u00e1z Eur\u00f3pa d\u00e9li r\u00e9sz\u00e9re",
+      "description": "A betegs\u00e9g \u00c1zsi\u00e1ban \u00e9s D\u00e9l-Amerik\u00e1ban \u00e9vente mintegy 20 ezer ember hal\u00e1l\u00e1t okozza.",
+      "url": "https://hvg.hu/vilag/20231006_WHO_Atterjedhet_a_denguelaz_Europa_deli_reszere",
+      "urlToImage": "https://api.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/1e4a39b9-38af-4d12-bddf-8b5f10a712ed.jpg",
+      "publishedAt": "2023-10-06 06:57:00",
+      "content": "A betegs\u00e9g \u00c1zsi\u00e1ban \u00e9s D\u00e9l-Amerik\u00e1ban \u00e9vente mintegy 20 ezer ember hal\u00e1l\u00e1t okozza. A dengue-l\u00e1z m\u00e1r ebben az \u00e9vtizedben tov\u00e1bb terjedhet az Egyes\u00fclt \u00c1llamok \u00e9s Eur\u00f3pa d\u00e9li r\u00e9szei fel\u00e9, \u00e9s Afrika to\u2026 [+1951 chars]",
+      "retrievedAt": "2023-10-07 07:05:30.972582",
+      "internal_id": "764933c190e71bf3df2202771c00cbb3a5ac5b79816ffb9e88aae1ddce17993d",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2322,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Adrian Dumitru",
+      "title": "Febra dengue va deveni o problem\u0103 major\u0103 \u00een Europa \u0219i SUA \u00een urm\u0103torii zece ani din cauza \u00eenc\u0103lzirii globale, avertizeaz\u0103 OMS",
+      "description": "Febra Dengue va deveni o amenin\u021bare major\u0103 \u00een sudul Europei, \u00een sudul Statelor Unite \u0219i \u00een p\u0103r\u021bi ale Africii, pe parcursul acestui deceniu, a declarat principalul cercet\u0103tor de la Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii, conform Reuters. Amenin\u021barea acestei boli tro\u2026",
+      "url": "https://www.digi24.ro/stiri/externe/febra-dengue-va-deveni-o-problema-majora-in-europa-si-sua-in-urmatorii-zece-ani-din-cauza-incalzirii-globale-avertizeaza-oms-2531853",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjA2JTJGMTgxMjM0Nl8xODEy/MzQ2X3Byb2ZpbWVkaWEtMDIwNjk4NTEy/MC5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD1kYmFkNzg1MzFhZjg4NDlhNmJjMzY3NzUwYzlmM2M3NQ==.thumb.jpg",
+      "publishedAt": "2023-10-06 06:40:05",
+      "content": "Febra Dengue va deveni o ameninare major \u00een sudul Europei, \u00een sudul Statelor Unite i \u00een pri ale Africii, pe parcursul acestui deceniu, a declarat principalul cercettor de la Organizaia Mondial a Snti\u2026 [+2874 chars]",
+      "retrievedAt": "2023-10-07 07:05:30.990971",
+      "internal_id": "5b13f78f66722fca06268c97ef0b3b8e8629b87c90473ee5905582f7f08ca2a3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2321,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "Gyilkos k\u00f3r t\u00e1madhatja meg Eur\u00f3p\u00e1t \u00e9s az Egyes\u00fclt \u00c1llamokat",
+      "description": "A dengue-l\u00e1z m\u00e1r ebben az \u00e9vtizedben tov\u00e1bb terjedhet az Egyes\u00fclt \u00c1llamok \u00e9s Eur\u00f3pa d\u00e9li r\u00e9szei fel\u00e9, \u00e9s Afrika tov\u00e1bbi ter\u00fcletein is megjelenhet - figyelmeztetett az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WHO) vezet\u0151 tud\u00f3sa, akinek magyar\u00e1zata szerint a magasabb h\u0151m\u00e9r\u2026",
+      "url": "https://www.portfolio.hu/gazdasag/20231006/gyilkos-kor-tamadhatja-meg-europat-es-az-egyesult-allamokat-644005",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1403390266-581428.jpg",
+      "publishedAt": "2023-10-06 06:32:00",
+      "content": "A dangue-l\u00e1zat az egyiptomi cs\u00edpsz\u00fanyog \u00e1ltal terjesztett dengue-v\u00edrus okozza. A betegs\u00e9g hossz\u00fa ideje jelen van \u00c1zsi\u00e1ban \u00e9s D\u00e9l-Amerik\u00e1ban is, \u00e9vente mintegy 20 ezer ember hal\u00e1l\u00e1t okozza. 2000 \u00f3ta \u2026 [+2135 chars]",
+      "retrievedAt": "2023-10-07 07:05:30.986190",
+      "internal_id": "d8f1f58f097984524611537dfae94ed7b81e961c5d9e004b5c6da8c5d0cfd214",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2342,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Jennifer Rigby",
+      "title": "Dengue will \u2018take off\u2019 in Europe, US and Africa this decade, WHO scientist says",
+      "description": "Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the conditions for the mosquitoes carrying the infection to spread.",
+      "url": "https://www.independent.ie/world-news/dengue-will-take-off-in-europe-us-and-africa-this-decade-who-scientist-says/a1902249529.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/lSpEhcwN7KGxJ1-ORviq2kFehWM=/0x0:960x640/960x640/prod-mh-ireland/8fe16d27-f25e-4541-b458-6c5a05581201/f65ebc23-7116-4fe7-ad22-8207faa59f8a/8fe16d27-f25e-4541-b458-6c5a05581201.jpg",
+      "publishedAt": "2023-10-06 06:16:13",
+      "content": "Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the condition\u2026 [+53 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.081894",
+      "internal_id": "f130d7db51145f0c4da4fbd591589465a02a614b72d9da231ebe7600d8948dc3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2323,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
+      "description": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
+      "url": "https://www.investing.com/news/stock-market-news/dengue-will-take-off-in-southern-europe-us-africa-this-decade-who-scientist-says-3191904",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_L.jpg",
+      "publishedAt": "2023-10-06 05:13:02",
+      "content": "By Jennifer Rigby LONDON (Reuters) - Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as wa\u2026 [+3387 chars]",
+      "retrievedAt": "2023-10-07 07:05:30.997170",
+      "internal_id": "087b898a99fd579213bcafb2fe395f11b24e33f8b4c0797212d9e7de047049a5",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2348,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Naked Scientists",
+      "author": "The Naked Scientists",
+      "title": "Malaria vaccine, Fukushima wastewater & Nobel prizes",
+      "description": "In the news pod: the WHO have recommended the Oxford Covid jab for use - we talk to someone who helped design it. We also speak with the scientist who questions whether the Fukushima wastewater disposal plans are as controversial as some would have us believe\u2026",
+      "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/malaria-vaccine-fukushima-wastewater-nobel-prizes",
+      "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/images/ec31b30e2df21c22d2524518b74b4197e572ead504b014459cf5c278a0ecb7_960.jpg?itok=Wh1GUiJh",
+      "publishedAt": "2023-10-06 05:07:36",
+      "content": "Evolution is considered a long and slow process, especially when it comes to the formation of new species... Since Charles Darwin and other scientists of the 19th Century drafted the first theories\u2026 [+10529 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.934500",
+      "internal_id": "b212206b9027b004080fe2db1286bc8686269e9aa6dc20cf403aaffd2bc9e063",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2349,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "The New Malaria Vaccines",
+      "description": "Editorial - The new vaccine is a welcome relief",
+      "url": "https://allafrica.com/stories/202310060035.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-06 05:07:04",
+      "content": "The new vaccine is a welcome relief For Nigerians and many people across the world who have for decades looked forward to a medical solution for the malaria scourge, there is now another reason to r\u2026 [+3713 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.943025",
+      "internal_id": "cc7e6433ab3442bf1c7b79feeb31e7f5e82e5d837b76c83c0c29c5790068517e",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2328,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Reuters",
+      "title": "CHINA, VIETNAM PREPARE FOR POSSIBLE XI VISIT TO HANOI IN NEXT MO\u2026",
+      "description": "(marketscreener.com) CHINA, VIETNAM PREPARE FOR POSSIBLE XI VISIT TO HANOI IN NEXT MONTH -SOURCES https://www.marketscreener.com/news/latest/CHINA-VIETNAM-PREPARE-FOR-POSSIBLE-XI-VISIT-TO-HANOI-IN-NEXT-MO-8230--44997552/?utm_medium=RSS&utm_content=20231006",
+      "url": "https://www.marketscreener.com/news/latest/CHINA-VIETNAM-PREPARE-FOR-POSSIBLE-XI-VISIT-TO-HANOI-IN-NEXT-MO-8230--44997552/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-10-06 05:02:01",
+      "content": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
+      "retrievedAt": "2023-10-07 07:05:31.019929",
+      "internal_id": "101387e32090a7ac7f97d04822b4c756a03cd50ff033c51acd8fcb3e55a048a6",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2326,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": "Reuters",
+      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
+      "description": "(marketscreener.com) Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the conditions for the mosquitoes carrying the infec\u2026",
+      "url": "https://www.marketscreener.com/quote/index/DOW-JONES-AFRICA-TITANS-5-3966403/news/Dengue-will-take-off-in-southern-Europe-US-Africa-this-decade-WHO-scientist-says-44997542/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-10-06 05:00:00",
+      "content": "LONDON, Oct 6 (Reuters) - Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temp\u2026 [+3512 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.011156",
+      "internal_id": "2dd5bd159dea8a20c8aa8aeff1d1340a87c975c9124e084ca046ed79fd181728",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2347,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REVISTA VIERNES",
+      "title": "La meningitis apaga vidas: la vacunaci\u00f3n, la mejor herramienta",
+      "description": "La meningitis es una enfermedad infecciosa, que provoca la inflamaci\u00f3n de los tejidos que rodean el cerebro y la m\u00e9dula espinal. Suele deberse a una infecci\u00f3n causada por varias especies de bacterias, virus, hongos y par\u00e1sitos, puede ser mortal y requiere ate\u2026",
+      "url": "https://www.eluniversal.com.co/viernes/la-meningitis-apaga-vidas-la-vacunacion-la-mejor-herramienta-FX9189520",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1386x687/587c0/800d686/none/13704/CUBE/06meningitis_8654803_20231005182550.jpg",
+      "publishedAt": "2023-10-06 05:00:00",
+      "content": "La meningitis es una enfermedad infecciosa, que provoca la inflamaci\u00f3n de los tejidos que rodean el cerebro y la m\u00e9dula espinal. Suele deberse a una infecci\u00f3n causada por varias especies de bacterias\u2026 [+3805 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.396387",
+      "internal_id": "924eb57bb06f7388aeae37dc309e0141ff3328f0cdf766592fb25038db9d95d3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2329,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Business Today",
+      "author": "Business Today Desk",
+      "title": "World Cup 2023: Shubman Gill reportedly down with dengue, might miss opener match against Australia",
+      "description": "Gill, who has played some spectacular innings in ODI cricket in recent times, is reportedly down with high fever and will be tested for dengue on Friday before a final call is taken on the matter.",
+      "url": "https://www.businesstoday.in/latest/trends/story/world-cup-2023-shubman-gill-reportedly-down-with-dengue-might-miss-opener-match-against-australia-400962-2023-10-06",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202310/ezgif-sixteen_nine_78.jpg",
+      "publishedAt": "2023-10-06 04:04:33",
+      "content": "In-form Shubman Gill is reportedly down with dengue and could miss the World Cup 2023 opener clash against Australia on October 8 (Sunday) in Chennai. Gill, who has has had played some spectuclar inn\u2026 [+2369 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.031394",
+      "internal_id": "393565f6bd0df8f1c9e1ae2159e303ad83e968a0cb3ab8ee8920a24789bcbbd9",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2332,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "Shubman Gill unwell: Likely to miss World Cup?",
+      "description": "Indian cricketer Shubhman Gill's participation in the World Cup opener is uncertain due to his battle with dengue fever. Gill has been experiencing a high fever since arriving in Chennai, and tests are being conducted to determine his condition. Dengue, also \u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/cricketer-shubman-gill-unwell-likely-to-miss-world-cup/articleshow/104202084.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104202091,width-1070,height-580,imgsize-1115459,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-06 03:58:32",
+      "content": "Strange illness hits Kenya: 90 school kids paralyzedOver 90 schoolgirls in Kenya's St. Theresa's Eregi Girls High School have been paralyzed by a mysterious illness. The girls experienced difficulty \u2026 [+142 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.046204",
+      "internal_id": "46b85a75a0c800ecbb9f09625d2054b04a6acf0144d3e39bdc3ef179202bfcb4",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2331,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "Shafiqul ALAM",
+      "title": "Bangladesh swamped by record deaths from dengue fever",
+      "description": "In the crowded fever ward in Bangladesh's Mugda hospital, every bed is taken as the country struggles in the grip of its deadliest dengue outbreak.",
+      "url": "https://www.japantimes.co.jp/news/2023/10/06/asia-pacific/science-health/bangladesh-record-dengue-deaths/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/06/256058.jpg",
+      "publishedAt": "2023-10-06 03:34:00",
+      "content": "Dhaka In the crowded fever ward in Bangladesh's Mugda hospital, every bed is taken as the country struggles in the grip of its deadliest dengue outbreak. More than 1,000 people have died this year i\u2026 [+237 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.041928",
+      "internal_id": "1409795937fb83e02203820f05ccd35e2aa0e9baf27b0377679323f5162f4b8d",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2330,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "ICC World Cup 2023: Shubman Gill tests positive for dengue, big worries for Team India",
+      "description": "Shubman Gill, the in-form batter of the Indian cricket team, is a doubtful starter for the team's opening World Cup game against Australia due to health issues. Gill has reportedly tested positive for dengue and is currently suffering from high fever. Ishan K\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/icc-world-cup-2023-shubman-gill-tests-positive-for-dengue-big-worries-for-team-india/articleshow/104199807.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104199876,width-1200,height-630,imgsize-37302,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-06 02:18:20",
+      "content": "India Inc may Log a Nifty Performance in Second QtrCompanies making up the Nifty 50 are expected to report another quarter of robust aggregate profit growth in the three months to September, helped b\u2026 [+948 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.037402",
+      "internal_id": "98a7318489be5746fd7a562d87644e39b41476764d3582d84f27b9027242b129",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2333,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Sports Desk",
+      "title": "India vs Australia: Shubman Gill doubtful for World Cup opener",
+      "description": "Indian cricketer Shubman Gill's participation in the opening World Cup match against Australia is doubtful due to health issues. Gill, who has been in good form recently, is suffering from high fever and is scheduled for dengue testing. If diagnosed with deng\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/shubman-gills-world-cup-opener-in-doubt-due-to-health-concerns/articleshow/104199732.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104199779,width-1070,height-580,imgsize-37302,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-06 02:09:46",
+      "content": "Virat, Smith, Kane &amp; Root: The Big-4's stats in the ODI WC",
+      "retrievedAt": "2023-10-07 07:05:31.049465",
+      "internal_id": "01fefbd1772ac9990d7586163b9a33c71d71ff2896018d1d047a3123d95f3184",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2335,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Devendra Pandey",
+      "title": "Shubman Gill tests positive for dengue, doubtful for Sunday\u2019s opening World Cup game against Australia",
+      "description": "Indian team management is monitoring Gill's progress and a call on his availability will be taken after another round of tests on Friday.",
+      "url": "https://indianexpress.com/article/sports/cricket/shubman-gill-tests-positive-for-dengue-doubtful-for-sundays-opening-world-cup-game-against-australia-8970542/",
+      "urlToImage": "https://images.indianexpress.com/2023/09/Gill-2.jpg",
+      "publishedAt": "2023-10-06 01:43:26",
+      "content": "The Indian team is likely to take the field without star batsman Shubman Gill for their first World Cup game against Australia in Chennai on Sunday. It is learnt that the in-form opener, who missed t\u2026 [+1417 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.057746",
+      "internal_id": "485b9910e18f405823b4e50759775a3a2dc5047e8cd81dafd176e94b7d462fa0",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2334,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u0936\u0941\u092d\u092e\u0928 \u0917\u093f\u0932 \u0915\u094b \u0939\u0941\u0906 \u0921\u0947\u0902\u0917\u0942, \u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u094b \u0935\u0930\u094d\u0932\u094d\u0921 \u0915\u092a \u092e\u0948\u091a \u0938\u0947 \u092a\u0939\u0932\u0947 \u0932\u0917\u093e \u092c\u0921\u093c\u093e \u091d\u091f\u0915\u093e",
+      "description": "\u0936\u0941\u092d\u092e\u0928 \u0917\u093f\u0932 \u0915\u094b \u0921\u0947\u0902\u0917\u0942 \u0939\u094b \u0917\u092f\u093e \u0939\u0948. \u0909\u0928\u0915\u0940 \u091c\u093e\u0902\u091a \u0915\u0940 \u0917\u0908, \u091c\u093f\u0938\u0915\u0947 \u092c\u093e\u0926 \u0909\u0928\u0915\u0940 \u0930\u093f\u092a\u094b\u0930\u094d\u091f \u092a\u0949\u091c\u093f\u091f\u093f\u0935 \u0906\u0908. \u0935\u0939 \u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u200d\u093f\u092f\u093e \u0915\u0947 \u0916\u200d\u093f\u0932\u093e\u092b \u092e\u0948\u091a \u0938\u0947 \u092a\u0939\u0932\u0947 \u092c\u0940\u092e\u093e\u0930 \u0939\u094b \u0917\u090f \u0939\u0948\u0902. \u0910\u0938\u0947 \u092e\u0947\u0902 \u092f\u0939 \u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e \u0915\u0947 \u0932\u093f\u090f \u092d\u092f\u0902\u0915\u0930 \u091d\u091f\u0915\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948. \u0939\u093e\u0932\u093e\u0902\u0915\u093f, \u0935\u094b \u092a\u0939\u0932\u093e \u092e\u0948\u091a \u0916\u0947\u0932 \u092a\u093e\u090f\u0902\u0917\u0947 \u092f\u093e \u0928\u0939\u0940\u0902? \u0907\u0938 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0938\u094d\u0925\u200d\u093f\u0924\u200d\u093f \u0938\u094d\u092a\u0937\u2026",
+      "url": "https://www.aajtak.in/sports/cricket/story/shubman-gill-tests-positive-for-dengue-doubtful-for-sunday-opening-icc-world-cup-2023-match-against-australia-ind-vs-aus-chennai-odi-tspo-1793423-2023-10-06",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202310/gill_century_number_5_vs_ban_2-sixteen_nine.png",
+      "publishedAt": "2023-10-06 01:40:26",
+      "content": "Shubman Gill tested positive for dengue: . . . . . , ? . . . . , . . . .",
+      "retrievedAt": "2023-10-07 07:05:31.054576",
+      "internal_id": "41d12c972361d59687ee5e2458883c398f8c9a1aed94dbdb5210349c64949923",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2325,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Source AFP",
+      "title": "Trois personnes, dont un enfant, d\u00e9c\u00e8dent de la dengue en Martinique",
+      "description": "L'epidemie de dengue continue de progresser en Martinique, ou trois personnes, dont un enfant, sont mortes depuis le 18 septembre.",
+      "url": "https://www.lepoint.fr/sante/trois-personnes-dont-un-enfant-decedent-de-la-dengue-en-martinique-06-10-2023-2538237_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2023/10/06/25311575lpw-25311576-mega-une-jpg_9814283.jpg",
+      "publishedAt": "2023-10-06 01:36:00",
+      "content": "Cela fait presque deux mois que la Martinique est en proie \u00e0 une \u00e9pid\u00e9mie de dengue que le d\u00e9partement d'outre-mer n'arrive pas \u00e0 endiguer. Depuis le 18 septembre, trois personnes sont d\u00e9c\u00e9d\u00e9es, dont\u2026 [+1926 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.003701",
+      "internal_id": "30fba72e807a110b6e6692e04ffbbbc0f1b90e8f3f57c2f263861720ca2950d6",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2319,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Risk of large measles outbreaks in Ireland as uptake of MMR vaccine declines",
+      "description": "The uptake of the MMR vaccine has fallen below 90pc, leaving Ireland at risk of large outbreaks, according to a new report.",
+      "url": "https://www.independent.ie/irish-news/risk-of-large-measles-outbreaks-in-ireland-as-uptake-of-mmr-vaccine-declines/a65128386.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/_SBqEYrAFsEGOYp79OIQAuJs13g=/0x1:5992x3995/5992x3994/prod-mh-ireland/fb47468f-da70-4230-8a8d-d0fc26a53181/c0b65649-ba85-4ecc-bf34-00836d0a8034/fb47468f-da70-4230-8a8d-d0fc26a53181.jpg",
+      "publishedAt": "2023-10-06 01:30:00",
+      "content": "The uptake of the MMR vaccine has fallen below 90pc, leaving Ireland at risk of large outbreaks, according to a new report.An outbreak of measles was recently reported and related to contact with a p\u2026 [+2198 chars]",
+      "retrievedAt": "2023-10-07 07:05:30.517825",
+      "internal_id": "db23ea2c0201e821e7f9f0d876b8adf9651a0e536cbe4ff38e33d33e0c6d51b4",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2351,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Pablo Garc\u00eda Santos",
+      "title": "Por qu\u00e9 la OMS ha tardado m\u00e1s de 40 a\u00f1os en recomendar una vacuna contra la malaria",
+      "description": "Los expertos consideran que las primeras vacunas \"han tardado mucho\" por dificultades t\u00e9cnicas y porque \"no afecta a todo el mundo por igual\".",
+      "url": "https://www.elespanol.com/ciencia/salud/20231006/oms-tardado-anos-recomendar-vacuna-malaria/799670248_0.html",
+      "urlToImage": "https://s1.eestatic.com/2017/02/15/ciencia/salud/epidemias-malaria-salud_193992232_236597842_1200x630.jpg",
+      "publishedAt": "2023-10-06 00:45:50",
+      "content": "La imagen de Tedros Adhanom Ghebreyesus, director de la Organizaci\u00f3n Mundial de la Salud, quedar\u00e1 ligada de por vida con la Covid-19. Sin embargo, desde que el l\u00edder et\u00edope se hizo con las riendas de\u2026 [+6184 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.952219",
+      "internal_id": "3b01a2b10ff0cab693456ede8abd72a664a0e613802b81e7df3cdade90e70ad0",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2324,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Pablo V\u00e1zquez",
+      "title": "Suman siete muertes por dengue en Quintana Roo; hay m\u00e1s de tres mil casos confirmados",
+      "description": "El Sistema Especial de Vigilancia Epidemiol\u00f3gica de dengue en M\u00e9xico confirm\u00f3 que ya van siete casos de personas que murieron por dengue en Quintana Roo durante lo que va del a\u00f1o.\u200bLas \u00faltimas tres defunciones correspondieron a menores de edad: Uno de 13 a\u00f1os \u2026",
+      "url": "https://www.milenio.com/estados/en-qroo-suman-siete-muertes-por-dengue-en-el-estado",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/09/26/menor-muere-dengue-cifra-cuadruplico.jpeg",
+      "publishedAt": "2023-10-05 23:53:53",
+      "content": "El Sistema Especial de Vigilancia Epidemiol\u00f3gica de dengue en M\u00e9xico confirm\u00f3 que ya van siete casos de personas que murieron por dengue en Quintana Roo durante lo que va del a\u00f1o. Las \u00faltimas tres \u2026 [+1506 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.000423",
+      "internal_id": "4fec18850d55083dfa643045352a8ca1b88470e029c85431b0ea4b5ca88fb039",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2327,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "\u00d3scar Rodr\u00edguez",
+      "title": "Emiten alerta epidemiol\u00f3gica en 46 municipios de Oaxaca ante aumento de casos de dengue",
+      "description": "La Secretar\u00eda de Salud de Oaxaca emiti\u00f3 una alerta epidemiol\u00f3gica en 46 municipios del estado, donde se identificaron m\u00e1s de mil pacientes contagiados con dengue.\u200bAnte el incremento de casos, se exhort\u00f3 a las autoridades municipales a establecer medidas de ap\u2026",
+      "url": "https://www.milenio.com/estados/emiten-alerta-epidemiologica-municipios-oaxaca-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/titular-secretaria-salud-oaxaca-sso.jpg",
+      "publishedAt": "2023-10-05 20:55:43",
+      "content": "La Secretar\u00eda de Salud de Oaxaca emiti\u00f3 una alerta epidemiol\u00f3gica en 46 municipios del estado, donde se identificaron m\u00e1s de mil pacientes contagiados con dengue. Ante el incremento de casos, se ex\u2026 [+3231 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.015644",
+      "internal_id": "eb78148957f6e0f10792b9ea77c62fb5ded536a9ec2a20da1f64339aa7b6999c",
+      "publishedAtLabel": "Oct 5"
+    },
     {
       "id": 2317,
       "query": [
@@ -93,6 +507,24 @@
       "content": "Depuis, Nupur Akter guette des signes dam\u00e9lioration. Mais il a limpression que la fillette sest affaiblie. Cette ann\u00e9e, l\u00e9pid\u00e9mie de dengue, maladie transmise par les moustiques, est la pire jamais \u2026 [+3608 chars]",
       "retrievedAt": "2023-10-06 19:05:20.395275",
       "internal_id": "09380b08b90e5dc988b111d90b8e1037e4a75539d0e1d65decf4fde095cffb83",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
+      "id": 2338,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Le Bangladesh en proie \u00e0 une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent",
+      "description": "Nupur Akter, 21 ans, s'efforce de faire manger sa petite s\u0153ur Payel qui n'a plus d'app\u00e9tit. Il y a deux semaines, l'enfant de six ans a \u00e9t\u00e9 hospitalis\u00e9e en urgence apr\u00e8s avoir \u00e9t\u00e9 \"prise de tremblements incontr\u00f4lables\". Depuis, Nupur Akter guette des signes \u2026",
+      "url": "https://www.france24.com/fr/info-en-continu/20231005-le-bangladesh-en-proie-%C3%A0-une-%C3%A9pid%C3%A9mie-de-dengue-sans-pr%C3%A9c%C3%A9dent",
+      "urlToImage": "https://s.france24.com/media/display/13a1cd46-635c-11ee-a955-005056a90284/w:1280/p:16x9/ce702ebf72f9354aac2b732259b54a46af2eefc0.jpg",
+      "publishedAt": "2023-10-05 08:49:22",
+      "content": "Dacca (AFP) A l'h\u00f4pital Mugda de Dacca, les m\u00e9decins ne savent plus o\u00f9 donner de la t\u00eate: trois des dix \u00e9tages de l'\u00e9tablissement d\u00e9bordent de malades victimes d'une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent\u2026 [+4006 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.069383",
+      "internal_id": "414f75e665abb322313d1ffbf039b4275e1fed923114c935a1e006c0f006d40b",
       "publishedAtLabel": "Oct 5"
     },
     {
@@ -294,6 +726,24 @@
       "publishedAtLabel": "Oct 5"
     },
     {
+      "id": 2353,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Ohene-Adjei, K., Asante, K. P., Akuffo, K. O., Tounaikok, N., Asiamah, M., Owiredu, D., Manu, A. A., Danso-Appiah, A.",
+      "title": "Malaria vaccine-related adverse events among children under 5 in sub-Saharan Africa: systematic review and meta-analysis protocol",
+      "description": "Introduction The RTS,S vaccine has been approved for use in children under 5 living in moderate to high malaria transmission areas. However, clinically important adverse events have been reported in countries in sub-Saharan Africa. This systematic review ai\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/10/e076985?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-10-04 23:25:21",
+      "content": "Introduction An estimated 241million cases and 627000 deaths from malaria occurred globally in 2020.1 Sub-Saharan Africa (SSA) accounted for 228million (95%) of global malaria cases1 and children un\u2026 [+1505 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.974326",
+      "internal_id": "c38ac84cb22e29c0f35e616f7b5680c2d2c88f50d9388e9fa7b690b8b5839d2a",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
       "id": 2307,
       "query": [
         "malaria"
@@ -422,6 +872,42 @@
       "publishedAtLabel": "Oct 4"
     },
     {
+      "id": 2336,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Clicrbs.com.br",
+      "author": "Reprodu\u00e7\u00e3o",
+      "title": "Virginia Fonseca \u00e9 diagnosticada com dengue e nega gravidez",
+      "description": "Influenciadora havia relatado sintomas aos seus mais de 44 milh\u00f5es de seguidores do Instagram",
+      "url": "http://diariogaucho.clicrbs.com.br/rs/entretenimento/noticia/2023/10/virginia-fonseca-e-diagnosticada-com-dengue-e-nega-gravidez-34272258.html",
+      "urlToImage": "http://diariogaucho.rbsdirect.com.br/imagesrc/45381393.jpg?w=600",
+      "publishedAt": "2023-10-04 12:58:01",
+      "content": "Ap\u00f3s precisar de atendimento m\u00e9dico no final de semana, a influenciadora digital Virginia Fonseca foi diagnosticada com dengue, confirmou sua assessoria \u00e0 revista Quem nesta segunda-feira (2). Ela ha\u2026 [+1198 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.062988",
+      "internal_id": "e4766e1af6f5e898bcd5bb833d012c8ef89821ce643e3feb0eeef92208e77b97",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2339,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "J\u00e9r\u00f4me Diesnis (20 Minutes)",
+      "title": "Gard : D\u00e9couverte de cinq nouveaux cas autochtones de dengue",
+      "description": "Ce sont au total sept personnes qui ont \u00e9t\u00e9 infect\u00e9es par cette maladie tropicale, sans avoir voyag\u00e9 dans des zones \u00e0 risques, apr\u00e8s avoir \u00e9t\u00e9 piqu\u00e9es par des moustiques",
+      "url": "https://www.20minutes.fr/sante/4056148-20231004-gard-decouverte-cinq-nouveaux-cas-autochtones-dengue",
+      "urlToImage": "https://img.20mn.fr/YFaDoGR2Rw6m1rJSaXAhEg/1200x768_moustique-tigre-plein-repas-illustration",
+      "publishedAt": "2023-10-04 12:20:04",
+      "content": "Le 19 septembre, l\u2019ARS (Agence r\u00e9gionale de sant\u00e9) avait \u00e9voqu\u00e9 la d\u00e9couverte de deux cas autochtones de dengue dans le Gard. Ces deux personnes avaient \u00e9t\u00e9 infect\u00e9es, selon toute vraisemblance, dans\u2026 [+2059 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.072043",
+      "internal_id": "e28b4a7fe8812467bdb2580f9a8a91a48155adc5d934c703f3a6a346f4e0abf8",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
       "id": 2298,
       "query": [
         "malaria"
@@ -455,6 +941,24 @@
       "content": "Un repunte de casos y decesos por dengue azota a la Pen\u00ednsula de Yucat\u00e1n y a algunos estados del centro del Pa\u00eds como Morelos y Puebla. Cr\u00e9dito: Archivo",
       "retrievedAt": "2023-10-05 19:05:27.007623",
       "internal_id": "fbfb361ddf3a1565ce1f2a6bafede5bfe0c3357ebf407378564d6d6f77b310a0",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2341,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec agence (20 Minutes)",
+      "title": "Dr\u00f4me : Au moins deux cas de dengue autochtones annonc\u00e9s par l'ARS \u00e0 Bourg-les-Valence",
+      "description": "Une op\u00e9ration massive de d\u00e9moustication curative a \u00e9t\u00e9 men\u00e9e",
+      "url": "https://www.20minutes.fr/sante/4056109-20231004-drome-moins-deux-cas-dengue-autochtones-annonces-ars-bourg-valence",
+      "urlToImage": "https://img.20mn.fr/EIm3bcBuSwC6WgkXq7trQCk/1200x768_la-nature-de-la-pathologie-d-un-troisieme-malade-est-en-cours-de-determination-illustration",
+      "publishedAt": "2023-10-04 10:44:00",
+      "content": "L'Agence R\u00e9gionale de Sant\u00e9 (ARS) Auvergne-Rh\u00f4ne-Alpes a indiqu\u00e9 ce lundi que le Centre national de r\u00e9f\u00e9rence Arbovirus (CNR) avait confirm\u00e9 la d\u00e9tection de deux cas autochtones de dengue \u00e0 Bourg-l\u00e8s\u2026 [+935 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.078373",
+      "internal_id": "c34438171d55fa37854c5139e51101b4a3e0b5e70d06d77aa018b4effecc8b3b",
       "publishedAtLabel": "Oct 4"
     },
     {
@@ -531,6 +1035,24 @@
       "publishedAtLabel": "Oct 4"
     },
     {
+      "id": 2352,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: The Long Road to a New Malaria Vaccine, Told By the Scientists Behind the Breakthrough - Podcast",
+      "description": "[The Conversation Africa] The world has waited decades for a malaria vaccine, and now two have come along in quick succession. On October 2, the World Health Organization (WHO) recommended that a new malaria vaccine, R21, developed by the University of Oxford\u2026",
+      "url": "https://allafrica.com/stories/202310040016.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-04 04:56:14",
+      "content": "The world has waited decades for a malaria vaccine, and now two have come along in quick succession. On October 2, the World Health Organization (WHO) recommended that a new malaria vaccine, R21, dev\u2026 [+3962 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.970948",
+      "internal_id": "495e8bc8a9328a6df46eaafddd220c24dbb90daaa97eb20cbb9752f8bfef4ba4",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
       "id": 2288,
       "query": [
         "malaria"
@@ -569,7 +1091,8 @@
     {
       "id": 2285,
       "query": [
-        "dengue"
+        "dengue",
+        "malaria"
       ],
       "source_id": "the-times-of-india",
       "source_name": "The Times of India",
@@ -784,6 +1307,24 @@
       "publishedAtLabel": "Oct 3"
     },
     {
+      "id": 2337,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Le Bangladesh face \u00e0 une flamb\u00e9e meurtri\u00e8re de dengue",
+      "description": "Des dizaines de patients sont soign\u00e9s dans un h\u00f4pital \u00e0 Dacca, au Bangladesh alors que plus de mille personnes sont mortes de la dengue dans le pays depuis le d\u00e9but de l'ann\u00e9e, selon les chiffres officiels. C'est la pire \u00e9pid\u00e9mie de cette maladie, transmise p\u2026",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20231003-le-bangladesh-face-%C3%A0-une-flamb%C3%A9e-meurtri%C3%A8re-de-dengue",
+      "urlToImage": "https://s.france24.com/media/display/a4c8bfae-61fa-11ee-a6d7-005056a90321/w:1280/p:16x9/m:{\"brand\":\"FRANCE24\",\"lang\":\"FR\",\"program\":\"\",\"cartouche\":\"BANGLADESH\",\"hash\":\"88fa7298d8801066c58b03dcd59839c83552aa3c47502380d8b9652f58bd3be7\",\"title\":\"Flamb%C3%A9e%20meurtri%C3%A8re%20de%20dengue\",\"id\":\"5535ce5c-cd7e-11ed-854c-005056bf30b7\"}/Capture%20d%E2%80%99e%CC%81cran%202023-10-03%20a%CC%80%2016.38.53.png",
+      "publishedAt": "2023-10-03 15:12:25",
+      "content": "Publi\u00e9 le : 03/10/2023 - 17:12 Des dizaines de patients sont soign\u00e9s dans un h\u00f4pital \u00e0 Dacca, au Bangladesh alors que plus de mille personnes sont mortes de la dengue dans le pays depuis le d\u00e9but de\u2026 [+191 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.066040",
+      "internal_id": "bdc839e35bb3daed217fcaf46e65d7c026be27abf2bd967ba0412bfb99860087",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
       "id": 2270,
       "query": [
         "malaria"
@@ -799,6 +1340,24 @@
       "content": "La somministrazione di un vaccino contro la malaria in Kenya (Yasuyoshi Chiba, Afp) LOrganizzazione mondiale della sanit\u00e0 (Oms) ha raccomandato il 2 ottobre di somministrare ai bambini un secondo v\u2026 [+3079 chars]",
       "retrievedAt": "2023-10-04 19:05:25.467047",
       "internal_id": "791b57a3f6e333aaafee2562da2ecd7ca7c515f9046939e6a58b3c2963ebfb7e",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2340,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Brasil pode viver epidemia de dengue tipo 3 em 2024, diz consultor da OMS",
+      "description": "H\u00e1 mais de 15 anos, o sorotipo 3 da dengue n\u00e3o causa epidemias no Brasil, mas a baixa imunidade da popula\u00e7\u00e3o abre margem para o seu retorno como epidemia",
+      "url": "https://valor.globo.com/brasil/noticia/2023/10/03/brasil-pode-viver-epidemia-de-dengue-tipo-3-em-2024-diz-consultor-da-oms.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/bEQ2snw7r87LZvdm4QuhbkNzD3Q=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/p/t/EbxdgKRbWBXnRA3oM9rg/aedesebc.jpg",
+      "publishedAt": "2023-10-03 14:32:45",
+      "content": "A probabilidade do ressurgimento do sorotipo 3 do v\u00edrus da dengue no Brasil acende alerta para epidemia em 2024, \"importante e com mortes\", segundo Kleber Luz, coordenador do Comit\u00ea de Arboviroses da\u2026 [+3976 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.074758",
+      "internal_id": "b63c1d1486fc26f8e29b548385e5f3523b77d737480bd82621d8f4900b6aa811",
       "publishedAtLabel": "Oct 3"
     },
     {
@@ -854,6 +1413,24 @@
       "content": "Citation: Aquino VH, Fumagalli MJ, Silva A, de Moura Negrini BV, Rojas A, Guillen Y, et al. (2023) Linear epitope mapping in the E and NS1 proteins of dengue and Zika viruses: Prospection of peptides\u2026 [+27132 chars]",
       "retrievedAt": "2023-10-04 19:05:24.907250",
       "internal_id": "826b71a41df9f47136f17ed048b84ea43bdfbe0a34c844a2c2b746678219e576",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2343,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Bangladesh dengue deaths top 1,000 in worst outbreak - NBC News",
+      "description": "Bangladesh dengue deaths top 1,000 in worst outbreakNBC News Bangladesh\u2019s worst ever dengue outbreak has now killed more than 1,000 peopleCNN Dengue outbreak kills over 1,000 in BangladeshSouth China Morning Post Dengue death now 1,017 as 11 more die in 24hrs\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171944407",
+      "urlToImage": null,
+      "publishedAt": "2023-10-03 13:12:04",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.085292",
+      "internal_id": "cd96cd8de25bd66142c0b90b8ed4139a462dae44cb55901c61c0bf39034efddf",
       "publishedAtLabel": "Oct 3"
     },
     {
@@ -947,6 +1524,24 @@
       "publishedAtLabel": "Oct 3"
     },
     {
+      "id": 2354,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Casos de malaria a setiembre superaron la cifra de todo 2022",
+      "description": "En 37 semanas del 2023, que terminaron el 16 de setiembre, se lleg\u00f3 a 464 enfermos de maalaria; el a\u00f1o pasado cerr\u00f3 con 462",
+      "url": "https://www.nacion.com/el-pais/salud/casos-de-malaria-a-setiembre-superaron-la-cifra-de/KMAR2XHAV5FCRA6WTNAIY7RG4Q/story/",
+      "urlToImage": "https://www.nacion.com/resizer/rMid2BhO_tw4GpPxju5RqMqqFRY=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/RUNXL3QRO5A7NDCDLSFV4XTXQE.jpg",
+      "publishedAt": "2023-10-03 11:18:00",
+      "content": "Los casos de malaria registrados hasta mediados de setiembre en Costa Rica, sobrepasaron la cantidad reportada en todo el 2022. Datos del Ministerio de Salud se\u00f1alan que, a la semana 37 del a\u00f1o, que \u2026 [+4329 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.978428",
+      "internal_id": "6782d394fde8579d097da56b727005174c71b36742510c49229ad7e05c5e560c",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
       "id": 2277,
       "query": [
         "malaria"
@@ -1019,6 +1614,24 @@
       "publishedAtLabel": "Oct 3"
     },
     {
+      "id": 2344,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Bangladesh dengue: More than 1,000 people killed in country's worst outbreak on record - CNN",
+      "description": "Bangladesh dengue: More than 1,000 people killed in country's worst outbreak on recordCNN Dengue outbreak kills over 1,000 in BangladeshSouth China Morning Post Bangladesh faces deadliest dengue outbreak on record with over 1,000 deathsFox News Dengue death t\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171942879",
+      "urlToImage": null,
+      "publishedAt": "2023-10-03 05:52:10",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.088047",
+      "internal_id": "180d056cc3560b15d4687018af0396b62b244cf44c6f49915b1267fa3d8cea68",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
       "id": 2250,
       "query": [
         "malaria"
@@ -1052,6 +1665,42 @@
       "content": "2022-ben Eur\u00f3p\u00e1ban t\u00f6bb helyi eredet, a tigrissz\u00fanyogok \u00e1ltal terjesztett dengue megbeteged\u00e9s fordult el, mint az elz \u00e9vtizedben \u00f6sszesen - \u00edrja a Politico. A gy\u00f3gyszeripar m\u00e1r elkezdte n\u00f6velni a vak\u2026 [+2116 chars]",
       "retrievedAt": "2023-10-04 07:05:39.734078",
       "internal_id": "fe3ee33617a4320e976fce3bc7f478af2408d19db8ffd022efc26b669854292a",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2345,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Bangladesh\u2019s worst ever dengue outbreak has now killed more than 1,000 people - CNN",
+      "description": "Bangladesh\u2019s worst ever dengue outbreak has now killed more than 1,000 peopleCNN Dengue outbreak kills over 1,000 in BangladeshSouth China Morning Post Bangladesh faces deadliest dengue outbreak on record with over 1,000 deathsFox News Dengue death toll cross\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171942823",
+      "urlToImage": null,
+      "publishedAt": "2023-10-03 05:32:12",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.091117",
+      "internal_id": "2c283d5682a060bf38756879eeeccebc6781829dbcf879580992ba23822263c7",
+      "publishedAtLabel": "Oct 3"
+    },
+    {
+      "id": 2346,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Bangladesh dengue deaths cross 1,000 in worst outbreak on record - Al Jazeera English",
+      "description": "Bangladesh dengue deaths cross 1,000 in worst outbreak on recordAl Jazeera English Bangladesh records over 1,000 dengue fever deaths in nation\u2019s worst outbreak of virusSouth China Morning Post Bangladesh faces deadliest dengue outbreak on record with over 1,0\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171942769",
+      "urlToImage": null,
+      "publishedAt": "2023-10-03 05:12:07",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-07 07:05:31.094481",
+      "internal_id": "015d1bb6e3b09cc4d796309e6fb3d0c1c4ef945c0b5c91427782f7771bebe11f",
       "publishedAtLabel": "Oct 3"
     },
     {
@@ -2972,656 +3621,6 @@
       "retrievedAt": "2023-10-02 19:05:22.564242",
       "internal_id": "7f90eed2d81f606b6485fcc882653ff2ca97289324320fff262b078614633d07",
       "publishedAtLabel": "Oct 1"
-    },
-    {
-      "id": 2154,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Food Safety News",
-      "author": "News Desk",
-      "title": "Spain records Salmonella and Yersinia increases in 2022",
-      "description": "Salmonella and Yersinia infections went up in Spain in 2022, based on the latest figures. A total of 8,777 Salmonella infections were reported, as well as 39 imported cases. In the previous year, 6,156 infections and four imported cases were recorded. Salmone\u2026",
-      "url": "https://www.foodsafetynews.com/2023/10/spain-records-salmonella-and-yersinia-increases-in-2022/",
-      "urlToImage": "https://images.bannerbear.com/direct/y0aJ23zRDdqMxX4OGl/requests/000/042/874/310/nGPeXKvLJY7KO1mEYd81p93OM/0d4d3f79df553f9f5196c05e24c361c6b0a4dd76.png",
-      "publishedAt": "2023-10-01 04:03:00",
-      "content": "Salmonella and Yersinia infections went up in Spain in 2022, based on the latest figures. A total of 8,777 Salmonella infections were reported, as well as 39 imported cases. In the previous year, 6,\u2026 [+2670 chars]",
-      "retrievedAt": "2023-10-02 07:05:55.027181",
-      "internal_id": "2ad057d927a6e224c0bafbee48613d45d9718fb465402dac6bf9e494705a24ea",
-      "publishedAtLabel": "Oct 1"
-    },
-    {
-      "id": 2151,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Thegatewaypundit.com",
-      "author": "Anthony Scott",
-      "title": "Tennessee Will Airdrop Vaccines from Helicopters and Small Planes to Combat Spread of Rabies",
-      "description": "It\u2019s a bird, it\u2019s a plane, oh wait, it\u2019s vaccines. The post Tennessee Will Airdrop Vaccines from Helicopters and Small Planes to Combat Spread of Rabies appeared first on The Gateway Pundit.",
-      "url": "https://www.thegatewaypundit.com/2023/09/tennessee-will-airdrop-vaccines-helicopters-small-planes-combat/",
-      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/Screenshot-2023-09-30-at-8.30.59\u202fPM_16x9-1200x630.jpg",
-      "publishedAt": "2023-10-01 01:20:17",
-      "content": "It\u2019s a bird, it\u2019s a plane, oh wait, it\u2019s vaccines. The U.S. Department of Agriculture has teamed up with the Tennessee Department of Health in an attempt to combat the spread of rabies. In the firs\u2026 [+2485 chars]",
-      "retrievedAt": "2023-10-02 07:05:52.331359",
-      "internal_id": "10f532a7c1dc211192d9d4a78c63934acbda92e9950e2d4d21659bca8550fee8",
-      "publishedAtLabel": "Oct 1"
-    },
-    {
-      "id": 2153,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "REDACCI\u00d3N COLOMBIA",
-      "title": "Exministro Fernando Ruiz respondi\u00f3 a denuncia sobre compra de medicamentos",
-      "description": "Ruiz manifest\u00f3: \u201cMe he enterado por diferentes medios de comunicaci\u00f3n de una eventual denuncia interpuesta por el Ministerio de Salud y Protecci\u00f3n Social alrededor de la compra de medicamentos contra la malaria realizada durante mi gesti\u00f3n. Al respecto, quier\u2026",
-      "url": "https://www.eluniversal.com.co/colombia/exministro-fernando-ruiz-respondio-a-denuncia-sobre-compra-de-medicamentos-XD9126990",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/186c0/800d686/none/13704/PDUF/jiirs6wmmvgyphho7zbxg57ow4_8616157_20230930200951.jpg",
-      "publishedAt": "2023-10-01 01:09:42",
-      "content": "Ruiz manifest\u00f3: Me he enterado por diferentes medios de comunicaci\u00f3n de una eventual denuncia interpuesta por el Ministerio de Salud y Protecci\u00f3n Social alrededor de la compra de medicamentos contra \u2026 [+1996 chars]",
-      "retrievedAt": "2023-10-02 07:05:53.541182",
-      "internal_id": "a16ba4eec37d658a89dfd187755b5974140fa3ddd15bb9b1f594eb02735e2199",
-      "publishedAtLabel": "Oct 1"
-    },
-    {
-      "id": 2149,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Rupsa Chakraborty",
-      "title": "Over 21,000 cases of dengue, malaria this monsoon",
-      "description": "In 2019 the total number of malaria cases reported in the state was 8,866 increasing to 15,215 in 2020 and further escalating to 17,341 in 2021.",
-      "url": "https://indianexpress.com/article/cities/mumbai/over-21000-cases-of-dengue-malaria-this-monsoon-8963286/",
-      "urlToImage": "https://images.indianexpress.com/2023/10/malaria.jpg",
-      "publishedAt": "2023-09-30 18:52:39",
-      "content": "With the monsoon gradually withdrawing in several regions of Maharashtra, data from the public health department showed that during this rainy season, Maharashtra has reported over 21,000 cases of mo\u2026 [+3191 chars]",
-      "retrievedAt": "2023-10-01 19:05:23.883294",
-      "internal_id": "40f43d00c0140aee4c066f549005d4d1c7a2a8389af70e82dc25b156490bd91d",
-      "publishedAtLabel": "Sep 30"
-    },
-    {
-      "id": 2150,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Mosquitoes Are a Growing Public Health Threat, Reversing Years of Progress (New York Times)",
-      "description": "New York Times: Mosquitoes Are a Growing Public Health Threat, Reversing Years of Progress \u2014 Climate change and the rapid evolution of the insect have helped drive up malaria deaths and brought dengue and other mosquito-borne viruses to places that never ha\u2026",
-      "url": "https://www.memeorandum.com/230930/p8",
-      "urlToImage": "https://static01.nyt.com/images/2023/08/10/multimedia/xx-mosquitoes-overview-promo/xx-mosquitoes-overview-promo-facebookJumbo.jpg",
-      "publishedAt": "2023-09-30 14:50:04",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2023-10-01 19:05:23.902291",
-      "internal_id": "eee16d10814a3d81e24bb95b220172b865cb95f8e776589931cd3df1e52331e0",
-      "publishedAtLabel": "Sep 30"
-    },
-    {
-      "id": 2147,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue cases increase in Kathmandu; risks to continue for a month",
-      "description": "KATHMANDU: The number of dengue patients has recently surged in the Kathmandu Metropolitan City (KMC) area. According to the KMC Department of Health, dengue cases have been on the rise in all 32 wards of Kathmandu for the past week. Ram Prasad Poudel, Chief \u2026",
-      "url": "https://english.khabarhub.com/2023/30/320335/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-09-30 06:25:47",
-      "content": "KATHMANDU: The number of dengue patients has recently surged in the Kathmandu Metropolitan City (KMC) area. According to the KMC Department of Health, dengue cases have been on the rise in all 32 wa\u2026 [+1289 chars]",
-      "retrievedAt": "2023-10-01 07:05:36.716053",
-      "internal_id": "99e8ef9c39c89a2787f848b96fd98312739456eb267e82eb8fb03e08908b1536",
-      "publishedAtLabel": "Sep 30"
-    },
-    {
-      "id": 2146,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Techno-science.net",
-      "author": "Alain REDBRAN",
-      "title": "La grande douve du foie: une menace grave latente, m\u00eame en France",
-      "description": "Certains vecteurs de maladies infectieuses font l'actualit\u00e9. C'est le cas du moustique tigre, dont la piq\u00fbre peut provoquer la dengue, ou des tiques, qui peuvent notamment transmettre la maladie de...",
-      "url": "https://www.techno-science.net/actualite/grande-douve-foie-menace-grave-latente-meme-france-N23780.html",
-      "urlToImage": "https://www.techno-science.net/illustration/Source/The-Conversation/2023/09/27/file-20230926-17-1kj9d1.jpg",
-      "publishedAt": "2023-09-30 06:00:02",
-      "content": "Certains vecteurs de maladies infectieuses font l'actualit\u00e9. C'est le cas du moustique tigre, dont la piq\u00fbre peut provoquer la dengue, ou des tiques, qui peuvent notamment transmettre la maladie de L\u2026 [+9168 chars]",
-      "retrievedAt": "2023-10-01 07:05:36.699271",
-      "internal_id": "ab693a86e0f852bdf94c5eda7b05dc2f00e56d9ea48f4b1aa30656acde1b3c7c",
-      "publishedAtLabel": "Sep 30"
-    },
-    {
-      "id": 2144,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "Enfermos de dengue en Costa Rica siguen en aumento",
-      "description": "Ministerio de Salud y CCSS muestran ligera tendencia al alza en casos de dengue; 16 cantones de la regi\u00f3n Atl\u00e1ntica y Pac\u00edfico Central concentran la mayor cantidad de reportes.",
-      "url": "https://www.nacion.com/el-pais/salud/enfermos-de-dengue-en-costa-rica-siguen-en-aumento/JJND4EHBMVBLBADI3M6KJN5JNM/story/",
-      "urlToImage": "https://www.nacion.com/resizer/kztWeqs-_WG0LHaDnVnUJeFqbQc=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/2QNJOPFN25CITMXGEZ43VINKDQ.jpg",
-      "publishedAt": "2023-09-29 23:10:54",
-      "content": "El dengue contin\u00faa en aumento en Costa Rica. Este 29 de setiembre, el Ministerio de Salud describi\u00f3 este incremento como ligera tendencia al aumento, y reconoci\u00f3 que deben continuar las acciones para\u2026 [+2136 chars]",
-      "retrievedAt": "2023-10-01 07:05:36.655184",
-      "internal_id": "c7d0704fb9b81910ac5c8f6f3a63130821413b159fc2a25bcd053ec3b1bff84d",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2148,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "WISHTV.com",
-      "author": "Gregg Montgomery",
-      "title": "Health official: Bloomington elementary school student may have meningitis",
-      "description": "Rogers Elementary School in Bloomington, Indiana, has about 370 students in kindergarten through Grade 2, the district says.",
-      "url": "https://www.wishtv.com/news/health-spotlight/health-official-bloomington-elementary-school-student-may-have-meningitis/",
-      "urlToImage": "https://www.wishtv.com/wp-content/uploads/2023/09/rogers-elementary-school-from-Monroe-County-Community-School-Corp.-scaled-e1696028502799.jpg",
-      "publishedAt": "2023-09-29 23:06:43",
-      "content": "BLOOMINGTON, Ind. (WISH) \u2014 A student at a Monroe County Community School Corp. elementary may have contacted meningitis, the county health department says. The disease is a viral or bacterial infect\u2026 [+1134 chars]",
-      "retrievedAt": "2023-10-01 07:05:37.235278",
-      "internal_id": "b823fa69c98d3df5f85ba48475c4169691c1db50f24668f105c9ee136fa383e4",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2145,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Dong Xiuzhu",
-      "title": "Xinhua Middle East news summary at 2200 GMT, Sept. 29",
-      "description": "JERUSALEM -- Israel has detected a new case of dengue fever, the country's Ministry of Environmental Protection said in a statement on Friday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2023/09/30/xinhua-middle-east-news-summary-at-2200-gmt-sept-29",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-09-29 21:38:00",
-      "content": "JERUSALEM -- Israel has detected a new case of dengue fever, the country's Ministry of Environmental Protection said in a statement on Friday. The patient, a student in her 20s, resides in the town\u2026 [+1386 chars]",
-      "retrievedAt": "2023-10-01 07:05:36.680148",
-      "internal_id": "bc856ed8dc87ae672d5896064696540b1da58ccb8cbd2297d4bf146be5d437d7",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2126,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Mumbai Civic Body Plans To Vaccinate 15,000 Stray Dogs During 10-Day Drive",
-      "description": "A total of 15,000 stray dogs will be vaccinated in Mumbai during a 10-day drive to make the metropolis rabies free, a civic official said on Friday.",
-      "url": "https://www.ndtv.com/mumbai-news/mumbai-civic-body-plans-to-vaccinate-15-000-stray-dogs-during-10-day-drive-4436870",
-      "urlToImage": "https://i.ndtvimg.com/i/2017-09/stray-dog-generic-stockshot-650_650x400_51505906887.jpg",
-      "publishedAt": "2023-09-29 18:20:25",
-      "content": "A total of 15,000 stray dogs will be vaccinated in Mumbai during a 10-day drive. (Representational) Mumbai: A total of 15,000 stray dogs will be vaccinated in Mumbai during a 10-day drive to make th\u2026 [+1581 chars]",
-      "retrievedAt": "2023-09-30 19:05:08.499192",
-      "internal_id": "0491dd05cc3a549e220f6e7b30e6016089f504dd3cfe518073fa0d5a722477dc",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2152,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "Malaria: Treatment of Plasmodium falciparum malaria patients under threat in the Horn of Africa",
-      "description": "Diagnosis of Plasmodium falciparum malaria using rapid diagnostic tests and treatment with artemisinin derivatives, the main component of the malaria treatments recommended by the World Health Organization (WHO), are under threat in the Horn of Africa. Scient\u2026",
-      "url": "https://www.sciencedaily.com/releases/2023/09/230929130947.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-09-29 17:09:47",
-      "content": "Diagnosis of Plasmodium falciparum malaria using rapid diagnostic tests and treatment with artemisinin derivatives, the main component of the malaria treatments recommended by the World Health Organi\u2026 [+5495 chars]",
-      "retrievedAt": "2023-10-02 07:05:53.525709",
-      "internal_id": "490b771ff311ea23e07f4704f550470b531207269b86ee0a00f76f5391c45669",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2142,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Christiane  Oelrich, dpa",
-      "title": "Neue \u00c4ra der HIV-Pr\u00e4vention: Vaginalringe sollen in S\u00fcdafrika Infektionen verhindern",
-      "description": "Ein neues Produkt im Kampf gegen Aids soll Frauen mehr Kontrolle \u00fcber ihre Gesundheit geben. Andere L\u00e4nder sollen dem Beispiel S\u00fcdafrikas folgen, hofft man beim Globalen Fonds.",
-      "url": "https://www.tagesspiegel.de/wissen/neue-ara-der-hiv-pravention-vaginalringe-sollen-in-sudafrika-infektionen-verhindern-10549147.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/genf-schweiz-27-mai-2021-das-emblem-von-unaids-in-genf-welche-zur-who-world-health-organization-gehort/alternates/BASE_16_9_W1400/genf-schweiz---27-mai-2021-das-emblem-von-unaids-in-genf-welche-zur-who-world-health-organization-gehoert.jpeg",
-      "publishedAt": "2023-09-29 15:55:16",
-      "content": "In S\u00fcdafrika beginnt der Einsatz eines neuen Produkts im Kampf gegen HIV-Infektionen. Der Globale Fonds zur Bek\u00e4mpfung von Aids, Tuberkulose und Malaria spricht von einer neuen \u00c4ra, wie er am Freitag\u2026 [+2097 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.675077",
-      "internal_id": "b372bc5fd3083d49f37c4041e6113b642611ff1b6af4dfcd8b35ad284c230f07",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2135,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Nel Lazio incremento estivo di dengue, durer\u00e0 tutto ottobre",
-      "description": "Nei mesi estivi nel Lazio vi \u00e8 stato un incremento di casi di febbre dengue, malattia di origine virale trasmessa agli esseri umani dalle zanzare che hanno, a loro volta, punto una persona infetta; non si ha contagio diretto tra esseri umani, anche se l'uo...\u2026",
-      "url": "https://www.ansa.it/lazio/notizie/2023/09/29/nel-lazio-incremento-estivo-di-dengue-durera-tutto-ottobre_8d19d6b0-4217-41e6-91e0-af20525c724a.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2020/1/31/11f8adf2ed6afa23cb9f065d93e37713.jpg",
-      "publishedAt": "2023-09-29 15:27:46",
-      "content": "Nei mesi estivi nel Lazio vi \u00e8 stato un incremento di casi di febbre dengue, malattia di origine virale trasmessa agli esseri umani dalle zanzare che hanno, a loro volta, punto una persona infetta\u2026 [+1761 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.062055",
-      "internal_id": "189bb0ff9ebb51dabeba82e5b7a18f6e7891a870c72017e9dc2179f6911a8e76",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2132,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "A.B.",
-      "title": "Dr\u00f4me. Suspicion de deux cas autochtones de dengue : bient\u00f4t une op\u00e9ration de d\u00e9moustication ?",
-      "description": "L\u2019agence r\u00e9gionale de sant\u00e9 a men\u00e9, ce vendredi 29 septembre, une enqu\u00eate dans la ville de Bourg-l\u00e8s-Valence (Dr\u00f4me) apr\u00e8s une suspicion de deux cas autochtones de dengue, c\u2019est-\u00e0-dire non import\u00e9s. Il s\u2019agirait des premiers en Auvergne-Rh\u00f4ne-Alpes pour cette\u2026",
-      "url": "https://www.ledauphine.com/sante/2023/09/29/suspicion-de-deux-cas-autochtones-de-dengue-bientot-une-operation-de-demoustication",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/BF5030AD-C7BD-4B31-850B-2863D6CD748F/FB1200/photo-1695998609.jpg",
-      "publishedAt": "2023-09-29 14:43:00",
-      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.048367",
-      "internal_id": "fa2014b91cefcba5608711e90511a529a769c96c4ca0b96f93f3854f737b97fe",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2136,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Pravda.sk",
-      "author": "\u010cTK",
-      "title": "Najhor\u0161ia epid\u00e9mia v\u00f4bec. Dengue v Banglad\u00e9\u0161i zabila tento rok tis\u00edc \u013eud\u00ed",
-      "description": "Mimoriadne da\u017ediv\u00e9 monz\u00fanov\u00e9 obdobie \u0161\u00edrenie hor\u00fa\u010dky u\u013eah\u010dilo.",
-      "url": "https://spravy.pravda.sk/svet/clanok/683291-najhorsia-epidemia-vobec-dengue-v-bangladesi-zabila-tento-rok-tisic-ludi/",
-      "urlToImage": "http://ipravda.sk/res/2023/09/29/thumbs/dengue-clanokW.jpg",
-      "publishedAt": "2023-09-29 14:35:00",
-      "content": "Takmer tis\u00edcka ud\u00ed u v tomto roku zomrela v Banglad\u00e9i na hor\u00faku dengue. Poda \u00faradov ide o doteraz najv\u00e1nejiu epid\u00e9miu tejto choroby, ak\u00fa krajina zaila od zaiatku vyhotovovania z\u00e1znamov v roku 2000. I\u2026 [+536 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.066305",
-      "internal_id": "1adeaa6ee19316c40ef878c287489517cef7777813192bcf55b0a036cbe66c67",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2125,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Science X",
-      "title": "How disordered proteins contribute to the properties of the rabies virus",
-      "description": "A large team of international researchers have used techniques at ANSTO's Australian Synchrotron to understand how key proteins contribute to the virulence of the rabies virus, sometimes called the \"zombie virus.\"",
-      "url": "https://phys.org/news/2023-09-disordered-proteins-contribute-properties-rabies.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/how-disordered-protein.jpg",
-      "publishedAt": "2023-09-29 13:57:04",
-      "content": "A large team of international researchers have used techniques at ANSTO's Australian Synchrotron to understand how key proteins contribute to the virulence of the rabies virus, sometimes called the \"\u2026 [+4401 chars]",
-      "retrievedAt": "2023-09-30 19:05:08.480911",
-      "internal_id": "fdf29c3d89cb2f5f65263040176c672e977648edf5466b2361eb23c372b63b1d",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2128,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: Science Skepticism Fuels Vaccine Hesitancy, Climate Denial",
-      "description": "[allAfrica] Climate change and vaccine hesitancy pose serious threats to public health",
-      "url": "https://allafrica.com/stories/202309290632.html",
-      "urlToImage": "https://cdn04.allafrica.com/download/pic/main/main/csiid/00590484:e39d89461e86ddbc12193912fb5f52ed:arc614x376:w1200.jpg",
-      "publishedAt": "2023-09-29 13:36:43",
-      "content": "Climate change and vaccine hesitancy pose serious threats to public health Vaccination is one of the most important ways to protect people against diseases such as measles, mumps, rubella, polio, di\u2026 [+20698 chars]",
-      "retrievedAt": "2023-09-30 19:05:08.733049",
-      "internal_id": "1065c23191fad32e090d6fb93e5743f17a11e58e8e265f5ef38195e76860dcb8",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2138,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Sun Daily",
-      "author": null,
-      "title": "Health DG: Dengue cases down 2.9%, three deaths reported",
-      "description": "PUTRAJAYA: The number of dengue fever cases dropped by 2.9 per cent to 2,310 cases in the 38th Epidemiological Week (ME38) for Sept 17 to 23, compared...",
-      "url": "https://www.thesundaily.my/local/health-dg-dengue-cases-down-29-three-deaths-reported-GA11555838",
-      "urlToImage": "https://www.thesundaily.my/binrepository/480x321/0c46/480d250/none/11808/VGBI/20200617181420-0t2a5187-01-3057783-20230322210655-3158685-20230511212302-3254647-20230627113520_3508680_20230929203648.jpg",
-      "publishedAt": "2023-09-29 12:46:36",
-      "content": "PUTRAJAYA: The number of dengue fever cases dropped by 2.9 per cent to 2,310 cases in the 38th Epidemiological Week (ME38) for Sept 17 to 23, compared with 2,380 cases reported in the previous week. \u2026 [+1318 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.076096",
-      "internal_id": "a2295bad5752caa8253e8b6c8dee99bfa086ab061baf72e2ed83772158fad61d",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2137,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Times of Israel",
-      "author": null,
-      "title": "Un Isra\u00e9lien positif \u00e0 la dengue apr\u00e8s un voyage au Mexique",
-      "description": "Les autorit\u00e9s luttent contre la prolif\u00e9ration des moustiques et de leurs \u0153ufs dans un rayon de 100 \u00e0 300 m\u00e8tres du domicile du malade",
-      "url": "https://fr.timesofisrael.com/un-israelien-positif-a-la-dengue-apres-un-voyage-au-mexique/",
-      "urlToImage": "https://static.timesofisrael.com/fr/uploads/2018/05/dengue-cropped-640x400-1024x640.jpg",
-      "publishedAt": "2023-09-29 11:29:47",
-      "content": "Un Isra\u00e9lien originaire de Kochav Yair, dans le nord du pays, a \u00e9t\u00e9 diagnostiqu\u00e9 positif \u00e0 la dengue apr\u00e8s un s\u00e9jour au Mexique ce mois-ci, a annonc\u00e9 vendredi le minist\u00e8re de la Sant\u00e9. Le minist\u00e8re \u2026 [+1671 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.068139",
-      "internal_id": "76344cd5b47ad25426eb1ef4bfd20905521047b9968fce424101f5cea64c9535",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2133,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nieuwsblad.be",
-      "author": "lto",
-      "title": "Cholera uitgebroken in conflictgebied Soedan",
-      "description": "In het door oorlog geteisterde Soedan is nu ook cholera uitgebroken. In de regio Gedaref, waar eerder al dengue werd vastgesteld, zijn al zestien mensen overleden als gevolg van de ziekte. Vermoedelijk zijn bijna driehonderd inwoners besmet. Dat meldt de Were\u2026",
-      "url": "https://www.nieuwsblad.be/cnt/dmf20230929_94175554",
-      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2023/09/29/8667d08a-90ef-4d7a-8b75-5265a649ea00.jpg?maxheight=460&maxwidth=638",
-      "publishedAt": "2023-09-29 11:26:40",
-      "content": "In het door oorlog geteisterde Soedan is nu ook cholera uitgebroken. In de regio Gedaref, waar eerder al dengue werd vastgesteld, zijn al zestien mensen overleden als gevolg van de ziekte. Vermoedeli\u2026 [+1642 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.050130",
-      "internal_id": "34ad1f277c33be49067060c75819e969bbc9a19de959597516f3554a78e1fba6",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2129,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Times of Israel",
-      "author": null,
-      "title": "Israel man diagnosed with dengue fever after returning from trip to Mexico",
-      "description": "Authorities carrying out extermination efforts against mosquitos within 100-meter radius of patient's home, breeding spots within 300-meter radius",
-      "url": "https://www.timesofisrael.com/israel-man-diagnosed-with-dengue-fever-after-returning-from-trip-to-mexico/",
-      "urlToImage": "https://static.timesofisrael.com/www/uploads/2018/03/dengue-cropped-1024x640.jpg",
-      "publishedAt": "2023-09-29 10:03:33",
-      "content": "An Israeli man living in the northern town of Kochav Yair was diagnosed with dengue fever after returning home from a trip to Mexico earlier this month, the Health Ministry said Friday. The ministry\u2026 [+1323 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.031083",
-      "internal_id": "30c14ab52273d304d823ea5d19ec8aeef1b37c201d78dc336ac0e7b03f46edf6",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2131,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "title": "Bourg-l\u00e8s-Valence . Suspicion de deux cas autochtones de dengue dans la Dr\u00f4me, les premiers en Auvergne Rh\u00f4ne-Alpes cette ann\u00e9e",
-      "description": "Les personnes concern\u00e9es auraient contract\u00e9 la maladie sur le territoire hexagonal et non pas au cours d\u2019un voyage \u00e0 l\u2019\u00e9tranger.",
-      "url": "https://www.ledauphine.com/sante/2023/09/29/suspicion-de-deux-cas-autochtones-de-dengue-dans-la-drome-les-premiers-en-auvergne-rhone-alpes-cette-annee",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/C3378E2B-65DE-4528-A8C1-77C3090AE6C4/FB1200/photo-1695981379.jpg",
-      "publishedAt": "2023-09-29 09:56:00",
-      "content": "Deux personnes pourraient avoir contract\u00e9 la dengue tout en \u00e9tant rest\u00e9es dans la Dr\u00f4me. C\u2019est ce que craint l\u2019Agence r\u00e9gionale de sant\u00e9 (ARS) Auvergne-Rh\u00f4ne-Alpes. Elle a en effet re\u00e7u le signalemen\u2026 [+1813 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.043207",
-      "internal_id": "0446e5454a78d998711c61882244aaaedc2eb2f32fb564f7aceceffc1b0fed47",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2140,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "Yoliswa Sobuwa",
-      "title": "News24 | Partners in saving lives: Biovac and EuBiologics collaborate to produce meningitis vaccine in Africa",
-      "description": "South African biopharmaceutical manufacturer Biovac has signed a memorandum of understanding with Korea-based vaccine manufacturer EuBiologics for the technology transfer of a meningococcal meningitis pentavalent vaccine.",
-      "url": "https://www.news24.com/news24/southafrica/news/partners-in-saving-lives-biovac-and-eubiologics-collaborate-to-produce-meningitis-vaccine-in-africa-20230929",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9453/ce1f2bddc2b648fd8ec8a126f4b738bf.jpg",
-      "publishedAt": "2023-09-29 09:50:53",
-      "content": "South Africa's Biovac and Korean vaccines manufacturer EuBiologics have partnered up to produce a meningitis vaccine on African soil.Biovac says meningococcal disease is endemic in S\u2026 [+3717 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.389512",
-      "internal_id": "28a7673798e26fe50d9b76f321dded92f316c7eb9001fcf97c36a31b06b21956",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2130,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "By JERUSALEM POST STAFF",
-      "title": "Israeli infected with Dengue fever after trip abroad",
-      "description": "The Dengue virus is spread through the bite of female Asian tiger mosquitos. The virus does not spread directly between humans.",
-      "url": "https://www.jpost.com/health-and-wellness/article-760984",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/554536",
-      "publishedAt": "2023-09-29 09:31:37",
-      "content": "A resident of Kochav Yair-Tzur Yigal in central Israel was infected with Dengue fever after returning from a trip to Mexico, the Environmental Protection Ministry announced on Friday. According to t\u2026 [+1693 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.038116",
-      "internal_id": "e561f3a8587f628b69ac2ef1c451c4ae2e8eb9490475f315744393c527781880",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2141,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Orf.at",
-      "author": "ORF.at",
-      "title": "S\u00fcdafrika: Vaginalring soll neue \u00c4ra der HIV-Pr\u00e4vention einleiten",
-      "description": "",
-      "url": "https://orf.at/stories/3332932/",
-      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
-      "publishedAt": "2023-09-29 09:16:02",
-      "content": "In S\u00fcdafrika beginnt der Einsatz eines neuen Produkts im Kampf gegen HIV-Infektionen. Der Globale Fonds zur Bek\u00e4mpfung von Aids, Tuberkulose und Malaria spricht von einer neuen \u00c4ra, wie er heute in G\u2026 [+1633 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.670603",
-      "internal_id": "29835dea90481042bbda6c25f88c9e2ced658aa590042ce3ad8dcc8f5d841fbf",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2127,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Nigeria: 4.6 Billion People At Risk of Rabies Infection - WMA",
-      "description": "[Vanguard] ... Advocate incorporation of disease education in school curricula",
-      "url": "https://allafrica.com/stories/202309290097.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-29 08:02:24",
-      "content": "... Advocate incorporation of disease education in school curricula With 4.6 billion people at risk of rabies infection, the World Veterinary Association, WVA, and the World Medical Association, WMA\u2026 [+3089 chars]",
-      "retrievedAt": "2023-09-30 19:05:08.502809",
-      "internal_id": "5698a41bc1a1e8d118ec00130b25025b6eaeafb56567c374ddc29b6f23c20322",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2139,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Successful trial of dengue vaccine conducted in Bangladesh",
-      "description": "Icddr,b, and the Larner College of Medicine at the University of Vermont (UVM), jointly conducted trial of dengue vaccine for the first time in Bangladesh. The Larner College of Medicine at the University of Vermont (UVM) and icddr,b, are the first to study a\u2026",
-      "url": "https://sylhetmirror.com/2023/09/29/successful-trial-of-dengue-vaccine-conducted-in-bangladesh/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/09/766546.jpg",
-      "publishedAt": "2023-09-29 07:20:36",
-      "content": "Icddr,b, and the Larner College of Medicine at the University of Vermont (UVM), jointly conducted trial of dengue vaccine for the first time in Bangladesh. The Larner College of Medicine at the Univ\u2026 [+4648 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.082344",
-      "internal_id": "2b67f377833cc85eddca138f381be6738939226519e830201b83c704a02a4ead",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2134,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "Sudan: Medics 'Sound the Alarm' On Cholera and Dengue",
-      "description": "[Dabanga] Sudan -- Medical professionals throughout Sudan report escalating numbers of Cholera and Dengue* fever rates, heightened by the arrival of seasonal rains and shortages in medical supplies.",
-      "url": "https://allafrica.com/stories/202309290078.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-09-29 07:17:45",
-      "content": "Sudan \u2014 Medical professionals throughout Sudan report escalating numbers of Cholera and Dengue* fever rates, heightened by the arrival of seasonal rains and shortages in medical supplies. The Federa\u2026 [+3865 chars]",
-      "retrievedAt": "2023-09-30 19:05:09.060083",
-      "internal_id": "e425fea7057fb6929f2d6c434c468c9e2433f1b62db6c640a3c0a8f3dcd86061",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2143,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Mayor Benjamin Magalong nagpaalaala sa kahalagahan ng kalinisan sa kalikasan dahil sa tumataas na bilang ng kaso ng leptospirosis sa Baguio City",
-      "description": "Baguio City \u2013 Pinaalalahanan ni Mayor Benjamin B. Magalong ang publiko na panatilihin na malinis ang kanilang kapaligiran at tiyakin na sumusunod ang lahat sa mga Pamantayan sa Kalinisan dahil sa tumataas na mga kaso ng leptospirosis. Naalarma o nabahala ang \u2026",
-      "url": "https://rpnradio.com/mayor-benjamin-magalong-nagpaalaala-sa-kahalagahan-ng-kalinisan-sa-kalikasan-dahil-sa-tumataas-na-bilang-ng-kaso-ng-leptospirosis-sa-baguio-city/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/09/Mayor-Benjie-Magalong-2.jpg",
-      "publishedAt": "2023-09-29 07:08:17",
-      "content": "Baguio City \u2013 Pinaalalahanan ni Mayor Benjamin B. Magalong ang publiko na panatilihin na malinis ang kanilang kapaligiran at tiyakin na sumusunod ang lahat sa mga Pamantayan sa Kalinisan dahil sa tum\u2026 [+1455 chars]",
-      "retrievedAt": "2023-09-30 19:05:10.798494",
-      "internal_id": "a4a3ad67492d1649967cacb84bb51fd64f62050e983bc8293d0b40892f4b2f27",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2120,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Wyrta.com",
-      "author": "Wyrta Staff",
-      "title": "Du ha kawi ka Health Centre ha Jowai da em 199 ngut kiwa wan chim Inject wa chah dait ksaw",
-      "description": "Ka 28 tarik u Naikhynde da man ko leh kam ka World Rabies Day kam chibynta ka thong wow yakhun pyndooh pyndam yei kjut Rabies wa yabi na ki mrad cha u bru deiwa chah dait, chah phrat, kamt\u00e6 ka Megh\u2026",
-      "url": "https://wyrta.com/du-ha-kawi-ka-health-centre-ha-jowai-da-em-199-ngut-kiwa-wan-chim-inject-wa-chah-dait-ksaw/",
-      "urlToImage": "https://i0.wp.com/wyrta.com/wp-content/uploads/2023/09/chfgk.jpg?fit=960%2C540&ssl=1",
-      "publishedAt": "2023-09-29 06:35:54",
-      "content": "Ka 28 tarik u Naikhynde da man ko leh kam ka World Rabies Day kam chibynta ka thong wow yakhun pyndooh pyndam yei kjut Rabies wa yabi na ki mrad cha u bru deiwa chah dait, chah phrat, kamt\u00e6 ka Meghal\u2026 [+3008 chars]",
-      "retrievedAt": "2023-09-30 07:05:35.692976",
-      "internal_id": "b228abfb363c49f9eb318715bffa0128755937f1acc66f94a251824a2e949e1e",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2121,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "POLITICO.eu",
-      "author": "Ashleigh Furlong",
-      "title": "Why dengue in Europe could spell disaster for the rest of the world",
-      "description": "Increased investment into previously neglected diseases could see poorer countries left behind.",
-      "url": "https://www.politico.eu/article/why-dengue-in-europe-could-spell-disaster-for-the-rest-of-the-world/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/08/21/GettyImages-506748274.jpg",
-      "publishedAt": "2023-09-29 04:00:00",
-      "content": "In the early morning of the last day of August, Parisians experienced for the first time a practice normally confined to tropical regions authorities fumigating the city against the tiger mosquito. T\u2026 [+5858 chars]",
-      "retrievedAt": "2023-09-30 07:05:36.601504",
-      "internal_id": "63a25d2adcf39039215e0acd7bf472ab0e9ab024e477e11580155a93d1300a45",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2124,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Nzasabimana, P., Ignatowicz, A., Alayande, B. T., Abdul-Latif, A.-M., Odland, M. L., Davies, J., Bekele, A., Byiringiro, J. C.",
-      "title": "Barriers to equitable access to quality trauma care in Rwanda: a qualitative study",
-      "description": "Objectives Using the \u2018Four Delay\u2019 framework, our study aimed to identify and explore barriers to accessing quality injury care from the injured patients\u2019, caregivers\u2019 and community leaders\u2019 perspectives. Design A qualitative study assessing barriers to traum\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/9/e075117?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-09-29 01:01:41",
-      "content": "Introduction Historically, global health initiatives have prioritised infectious diseases. However, in 2019 alone, the world recorded 4.3 million deaths from trauma, more deaths than malaria, tuberc\u2026 [+16033 chars]",
-      "retrievedAt": "2023-09-30 07:05:37.367245",
-      "internal_id": "f56f62db2d8770490c64eb153ac03f89c91b0db257bcae4280d7c1a1b83bfc36",
-      "publishedAtLabel": "Sep 29"
-    },
-    {
-      "id": 2119,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Collins Sunday",
-      "title": "Veterinary doctors advocate vaccination against rabies",
-      "description": "The Nigerian Veterinary Medical Association has urged pet owners to keep their pets within their premises and ensure they are fully vaccinated against rabies. The National President of the association, Dr Oluwatoyin Adetuberu, made the call in an interview wi\u2026",
-      "url": "https://punchng.com/veterinary-doctors-advocate-vaccination-against-rabies/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/16030335/veterinary-services.jpg",
-      "publishedAt": "2023-09-28 23:50:11",
-      "content": "The Nigerian Veterinary Medical Association has urged pet owners to keep their pets within their premises and ensure they are fully vaccinated against rabies. The National President of the associati\u2026 [+1581 chars]",
-      "retrievedAt": "2023-09-30 07:05:35.669766",
-      "internal_id": "68686727a91ea17ac382c8f12a4bf84ce7ceef3aa5ed9ea3b3a69691dcda128b",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2122,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Teena Thacker",
-      "title": "Dengue causing blood pressure, heart rate changes",
-      "description": "In India, dengue infection is spreading rapidly in Delhi, West Bengal, Maharashtra and Jharkhand. Mumbai has reported a significant upsurge in infections, recording 3,068 cases between June and September 25, a threefold increase from the previous year.",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/dengue-causing-blood-pressure-heart-rate-changes/articleshow/104026798.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104026814,width-1200,height-630,imgsize-23506,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-09-28 19:21:33",
-      "content": "As cases of dengue fever rise in the country, some doctors say that the dominant strain of dengue virus is also causing autonomic disturbances like slow heart rate and fluctuation in blood pressure.\"\u2026 [+2186 chars]",
-      "retrievedAt": "2023-09-30 07:05:36.618774",
-      "internal_id": "e8c5dd0143198aaeb7d607167c3fab62ad9fa61abfa1f45ec2247e9512ab1d3f",
-      "publishedAtLabel": "Sep 28"
-    },
-    {
-      "id": 2103,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "politico",
-      "source_name": "Politico",
-      "author": null,
-      "title": "Ami Bera hopes to address the high cost of treating rabies after his brush with a rabid Capitol Fox.",
-      "description": "Bera said rabies treatment \"should never break the bank.\"",
-      "url": "https://www.politico.com/live-updates/2023/09/28/congress/capitol-fox-rabies-bera-house-treatment-00118836",
-      "urlToImage": "https://static.politico.com/44/97/22e9cc5a495ab5688e3853de7932/https-delivery-gettyimages.com/downloads/1198807447",
-      "publishedAt": "2023-09-28 18:52:46",
-      "content": "",
-      "retrievedAt": "2023-09-29 19:05:22.264164",
-      "internal_id": "4cf7409f0ecfb9c8eeeee2b09f2a230d470398228aa74c6c9e315e182cfa729a",
-      "publishedAtLabel": "Sep 28"
     }
   ]
 }
