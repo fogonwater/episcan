@@ -1,8 +1,189 @@
 {
-  "last_updated": "2023-10-07 19:05",
+  "last_updated": "2023-10-08 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 23,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 2385,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Dwaipayan Datta",
+      "title": "Kishan may open against Australia in Gill's absence",
+      "description": "Indian cricket team coach Rahul Dravid is uncertain about the availability of opener Shubman Gill for the team's opening match against Australia. Gill has been down with fever, suspected to be dengue, and has missed practice sessions. Dravid stated that Gill'\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/world-cup-ishan-kishan-may-open-against-australia-in-shubman-gills-absence/articleshow/104227217.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104227214,width-1070,height-580,imgsize-38330,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-07 02:06:17",
+      "content": "Shubman Gill may miss India's opener against Australia",
+      "retrievedAt": "2023-10-08 07:05:24.240491",
+      "internal_id": "1d2542129496d2f6318cfe8d83b79bed420fa85c2d7840099294b7eb54eaa360",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 2382,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Sputnikglobe.com",
+      "author": "Egor Shapovalov",
+      "title": "Dengue Fever May Spread to Europe & US by End of 2030 - WHO",
+      "description": "Dengue fever is transmitted by Aedes aegypti mosquitoes, which differ from the Anopheles mosquitoes responsible for spreading malaria. These mosquitoes are active during both day and night and can be found indoors and outdoors.",
+      "url": "https://sputnikglobe.com/20231007/dengue-fever-may-spread-to-europe--us-by-end-of-2030-1113994496.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1113994496.jpg?11063239951696639776",
+      "publishedAt": "2023-10-07 00:52:43",
+      "content": "Symptoms of dengue include fever, muscle spasms, nausea, and, in severe cases, excruciating joint pain, earning it the nickname 'bone-break fever.' Fortunately, most patients recover within two weeks\u2026 [+240 chars]",
+      "retrievedAt": "2023-10-08 07:05:24.188572",
+      "internal_id": "a90e6d039a7b8ba21505bf9c4b7158ba81bf43f8f6ade2a68feab37346b5d51a",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 2381,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newshub",
+      "author": "Molly Swift",
+      "title": "Student with measles recently visited popular Wellington spots including zoo, school, health centre",
+      "description": "Student with measles recently visited popular Wellington spots including zoo, school, health centrenewshub.co.nz",
+      "url": "https://www.newshub.co.nz/home/new-zealand/2023/10/student-with-measles-recently-visited-popular-wellington-spots-including-zoo-school-health-centre.html",
+      "urlToImage": "https://www.newshub.co.nz/home/new-zealand/2023/10/student-with-measles-recently-visited-popular-wellington-spots-including-zoo-school-health-centre/_jcr_content/par/image.dynimg.1280.q75.jpg/v1696638763088/measles-disease-GETTY1120.jpg",
+      "publishedAt": "2023-10-07 00:46:39",
+      "content": "The individual was in contact with students who attended a week-long Shakespeare Globe Theatre New Zealand (SGCNZ) National Shakespeare Schools Production event at Scots College, Wellington. These st\u2026 [+1348 chars]",
+      "retrievedAt": "2023-10-08 07:05:23.734125",
+      "internal_id": "43710f0e9e3098a1a70b16eae72996861690958cc42743f01ee196dc04b4e385",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 2384,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Dengue vai disparar no Sul da Europa, EUA e \u00c1frica nesta d\u00e9cada, segundo OMS",
+      "description": "A doen\u00e7a tem sido um flagelo em grande parte da \u00c1sia e da Am\u00e9rica Latina, causando cerca de 20 mil mortes por ano",
+      "url": "https://brasil.perfil.com/mundo/oms-dengue-vai-disparar-no-sul-da-europa-eua-e-africa-nesta-decada.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/10/06/1547063320-ebc.png",
+      "publishedAt": "2023-10-06 21:52:17",
+      "content": "A dengue se tornar\u00e1 uma grande amea\u00e7a no Sul dos Estados Unidos, no Sul da Europa e em novas partes da \u00c1frica nesta d\u00e9cada, disse Jeremy Farrar, especialista em doen\u00e7as infecciosas da Organiza\u00e7\u00e3o M\u2026 [+2596 chars]",
+      "retrievedAt": "2023-10-08 07:05:24.235745",
+      "internal_id": "69093dd89b5379bd86a5dcca1a58ed031abfba0aa3ee47e29dc17b04495222e1",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2383,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Shubman Gill Down With Suspected Dengue, Could Be Out For Multiple Games",
+      "description": "Chennai, Oct 6 (PTI) The Indian team\u2019s worries ahead of its opening World Cup game against Australia have been compounded with in-form Shubman Gill suspected to be suffering from dengue and the batter is a doubtful starter for Sunday\u2019s match against Australia\u2026",
+      "url": "https://thehillstimes.in/sports/shubman-gill-down-with-suspected-dengue-could-be-out-for-multiple-games",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-06-at-11.46.04-PM.jpeg",
+      "publishedAt": "2023-10-06 21:40:27",
+      "content": "Chennai, Oct 6 (PTI) The Indian team\u2019s worries ahead of its opening World Cup game against Australia have been compounded with in-form Shubman Gill suspected to be suffering from dengue and the batte\u2026 [+1666 chars]",
+      "retrievedAt": "2023-10-08 07:05:24.214474",
+      "internal_id": "9b33842e4a9d9f8c506de51547af57d23e8551e68a56dde8089b2de586020837",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2378,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Military Times",
+      "author": "Sarah Sicard",
+      "title": "Pentagon Finds Cure for Rabies?",
+      "description": "Pentagon Finds Cure for Rabies? (Third column, 6th story, link) Drudge Report Feed needs your support! Become a Patron",
+      "url": "https://www.militarytimes.com/news/your-military/2023/10/06/defense-department-may-have-discovered-a-cure-for-rabies/",
+      "urlToImage": "https://www.militarytimes.com/resizer/_HWTI7MnPHkbp3pplX3jwcUSUzk=/1024x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/72SNMCWU4FHSZBIRCGBMR2IW7Q.png",
+      "publishedAt": "2023-10-06 21:10:38",
+      "content": "The fatal rhabdovirus known as rabies has been associated with madness as far back as ancient Greece. The zoonotic disease, which causes hydrophobia, as well as inflammation of the brain and spinal c\u2026 [+2051 chars]",
+      "retrievedAt": "2023-10-08 07:05:23.208843",
+      "internal_id": "3c93fc450d40a5b2ec94a425ac716621150e2976f8680631e1d4adf07446b1be",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2386,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Dengue fever bound to 'take off' in parts of US, Europe and Africa this decade",
+      "description": "WHO chief scientist Jeremy Farrar says dengue is bound to 'take off' and become endemic in parts of the United States, Europe and Africa. Global warming is making these areas more hospitable to the mosquitoes that spread dengue. The disease causes an estimate\u2026",
+      "url": "https://www.france24.com/en/video/20231006-dengue-fever-bound-to-take-off-in-parts-of-us-europe-and-africa-this-decade",
+      "urlToImage": "https://s.france24.com/media/display/452a2f94-648c-11ee-9d21-005056bfb2b6/w:1280/p:16x9/m:{\"brand\":\"FRANCE24\",\"lang\":\"EN\",\"program\":\"\",\"cartouche\":\"\",\"hash\":\"f7dfec44e5d277c9ef5f87810d5cbb146e60773d0befe549aef8b6f11d5876ed\",\"title\":\"Dengue%20to%20'take%20off'%20in%20US%2C%20Europe%20%26%20Africa%2C%20WHO%20says\",\"id\":\"370459ea-9cdb-11ed-b690-005056bf30b7\"}/EN_20231006_221149_221344_CS.jpg",
+      "publishedAt": "2023-10-06 21:06:58",
+      "content": "Issued on: 06/10/2023 - 23:06Modified: 06/10/2023 - 23:15 WHO chief scientist Jeremy Farrar says dengue is bound to 'take off' and become endemic in parts of the United States, Europe and Africa. Gl\u2026 [+271 chars]",
+      "retrievedAt": "2023-10-08 07:05:24.244379",
+      "internal_id": "84f155588211f726997e9e70c08ffd52229feabc0ddeb9eb2681bba165847fbd",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2388,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Ad Ancona un caso di Dengue, due interventi di disinfestazione",
+      "description": "A seguito dell'avvenuta comunicazione di un caso accertato di Dengue, infezione contratta da un cittadino italiano rientrato nella sua abitazione di Via Flaminia da un viaggio in Centro America, ricoverato successivamente presso l'Azienda ospedaliera di To...\u2026",
+      "url": "https://www.ansa.it/marche/notizie/2023/10/06/ad-ancona-un-caso-di-dengue-due-interventi-di-disinfestazione_fc02964d-1e1f-4370-9859-e4706e046469.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/9/6/ec653cf59a220475e2cd717f77758bfa.jpg",
+      "publishedAt": "2023-10-06 20:58:31",
+      "content": "A seguito dell'avvenuta comunicazione di un caso accertato di Dengue, infezione contratta da un cittadino italiano rientrato nella sua abitazione di Via Flaminia da un viaggio in Centro America, \u2026 [+2048 chars]",
+      "retrievedAt": "2023-10-08 07:05:24.253904",
+      "internal_id": "4a3e347cb83d646a196c5357c5c7068bf80331198f7ccad19f80a5c9205325e4",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2379,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Times of Israel",
+      "author": null,
+      "title": "Health authorities issue warning after 4 toddlers in Tel Aviv infected with measles",
+      "description": "Children from same daycare all in good condition; initial probe finds patient was on recent flights between Israel and Budapest; pediatricians urge parents to check vaccinations",
+      "url": "https://www.timesofisrael.com/health-authorities-issue-warning-after-4-toddlers-in-tel-aviv-infected-with-measles/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2019/09/AP_19246191808016-1024x640.jpg",
+      "publishedAt": "2023-10-06 20:26:45",
+      "content": "Four toddlers in Tel Aviv have been infected with measles, the Health Ministry said Friday, raising fears of a wider outbreak. The children are around 2 years old and attend the same daycare center.\u2026 [+2030 chars]",
+      "retrievedAt": "2023-10-08 07:05:23.722165",
+      "internal_id": "e7cdecaecb61f1677785eff92b9e9c5a2168213abebce4b990ab59b680fa3005",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2380,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "eEranLahav",
+      "title": "4 Israeli toddlers diagnosed with measles",
+      "description": "JERUSALEM, Oct. 6 (Xinhua) -- Four Israeli toddlers, all about two years old, have been diagnosed with measles, the Israeli Ministry of Health said in a statement on Friday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2023/10/07/4-israeli-toddlers-diagnosed-with-measles",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-10-06 19:43:00",
+      "content": "JERUSALEM, Oct. 6 (Xinhua) -- Four Israeli toddlers, all about two years old, have been diagnosed with measles, the Israeli Ministry of Health said in a statement on Friday. The ministry noted that\u2026 [+645 chars]",
+      "retrievedAt": "2023-10-08 07:05:23.731073",
+      "internal_id": "ec2325e91ea6fdade6198072683be8936ebae4de1826ee958a3616f204abdc5e",
+      "publishedAtLabel": "Oct 6"
+    },
     {
       "id": 2359,
       "query": [
@@ -37,6 +218,24 @@
       "content": "LOS ANGELES, Oct. 6 (Xinhua) -- The U.S. state of Arkansas has identified its first locally acquired malaria case, the fourth state in the country that has reported locally acquired cases of one of t\u2026 [+1278 chars]",
       "retrievedAt": "2023-10-07 19:05:11.462157",
       "internal_id": "f976dd45a900d788a62816c0adc6b74bb595d6b48ba2143f0378920bfc59a26f",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2387,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Reuters)",
+      "title": "El dengue se propagar\u00e1 en el sur de Europa, EEUU y \u00c1frica esta d\u00e9cada, dice cient\u00edfico de la OMS",
+      "description": "El m\u00e1s alto directivo cient\u00edfico de la Organizaci\u00f3n Mundial de la Salud (OMS) vaticin\u00f3 que el dengue puede convertirse en una amenaza mort\u00edfera en la d\u00e9cada actual, debido a las condiciones ambientales que se viven en zonas de EEUU, \u00c1frica y Europa.",
+      "url": "https://www.vozdeamerica.com/a/dengue-propaga-europa-eeuu-africa-/7300027.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-f13d-08dbc6933b74_w1200_r1.jpg",
+      "publishedAt": "2023-10-06 18:25:05",
+      "content": "LONDRES El dengue se convertir\u00e1 esta d\u00e9cada en una grave amenaza en el sur de Estados Unidos, el sur de Europa y nuevas zonas de \u00c1frica, seg\u00fan el cient\u00edfico jefe de la OMS, ya que las temperaturas m\u2026 [+2837 chars]",
+      "retrievedAt": "2023-10-08 07:05:24.248191",
+      "internal_id": "21a88e836b91c5e0416d33f6719549cc1aebcec11a96b0dc949392f3292e19ce",
       "publishedAtLabel": "Oct 6"
     },
     {
@@ -184,6 +383,24 @@
       "publishedAtLabel": "Oct 6"
     },
     {
+      "id": 2389,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
+      "description": "Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the conditions for the mosquitoes carrying the infection to spread. The i\u2026",
+      "url": "https://www.france24.com/en/video/20231006-dengue-will-take-off-in-southern-europe-us-africa-this-decade-who-scientist-says",
+      "urlToImage": "https://s.france24.com/media/display/a972977e-645b-11ee-8ff2-005056bf30b7/w:1280/p:16x9/m:{\"brand\":\"FRANCE24\",\"lang\":\"EN\",\"program\":\"\",\"cartouche\":\"HEALTH\",\"hash\":\"4f6d164546b2897b7a31c0982d964c628b66c25f75b3d18f8fa4fb2f2c83c942\",\"title\":\"Dengue%20will%20'take%20off'%20this%20%250Adecade%2C%20WHO%20scientist%20warns\",\"id\":\"5535ce5c-cd7e-11ed-854c-005056bf30b7\"}/EN_20231006_171041_171233_CS.jpg",
+      "publishedAt": "2023-10-06 15:19:03",
+      "content": "Issued on: 06/10/2023 - 17:19Modified: 06/10/2023 - 17:20 Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief \u2026 [+259 chars]",
+      "retrievedAt": "2023-10-08 07:05:24.258378",
+      "internal_id": "0f17496a2b6afa905aaf614b364c052ada462dac07daed40c0072b9bd2111f33",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
       "id": 2374,
       "query": [
         "malaria"
@@ -258,6 +475,24 @@
       "publishedAtLabel": "Oct 6"
     },
     {
+      "id": 2393,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Oleksiy Tsebriy, Andrii Khomiak, Celia Miguel-Blanco, Penny C. Sparkes, Maurizio Gioli, Marco Santelli, Edgar Whitley, Francisco-Javier Gamo, Michael J. Delves",
+      "title": "Machine learning-based phenotypic imaging to characterise the targetable biology of Plasmodium falciparum male gametocytes for the development of transmission-blocking antimalarials",
+      "description": "Author summary Interventions that prevent malaria parasite Plasmodium falciparum from transmitting from humans to mosquitoes are highly desirable to prevent both the spread of malaria and crucially the spread of drug resistance. Transmission is caused by the \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011711",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011711.g008&size=inline",
+      "publishedAt": "2023-10-06 14:00:00",
+      "content": "1. Identification of molecules targeting the functional viability of male and female P. falciparum gametocytes A subset of 564 molecules from the Tres Cantos Antimalarial Set (TCAMS) with establishe\u2026 [+29407 chars]",
+      "retrievedAt": "2023-10-08 07:05:25.713089",
+      "internal_id": "ef78116242b22d6148619d5f290d88686ba80cf270c1e3e061649516a89d0b5d",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
       "id": 2367,
       "query": [
         "dengue"
@@ -309,6 +544,24 @@
       "content": "A dengue-l\u00e1zat az egyiptomi cs\u00edpsz\u00fanyog \u00e1ltal terjesztett dengue-v\u00edrus okozza. A betegs\u00e9g hossz\u00fa ideje jelen van \u00c1zsi\u00e1ban \u00e9s D\u00e9l-Amerik\u00e1ban is, \u00e9vente mintegy 20 ezer ember hal\u00e1l\u00e1t okozza. 2000 \u00f3ta a\u2026 [+1603 chars]",
       "retrievedAt": "2023-10-07 19:05:10.636065",
       "internal_id": "741ae4f6fd9c309eb1500fac625338898cf4c9ac00df7587b4db4170d6eadccf",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2392,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Rwanda Receives Vital Antimalarial Medications Worth Over Rwf450 Million",
+      "description": "[New Times] Rwanda Medical Supply (RMS) has made a procurement of over 150,000 doses of antimalarial medicines, Artemisinin-based Combination Therapy (ACTs), valued at more than $370,000 (over Rwf450 million).",
+      "url": "https://allafrica.com/stories/202310060349.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-06 12:09:43",
+      "content": "Rwanda Medical Supply (RMS) has made a procurement of over 150,000 doses of antimalarial medicines, Artemisinin-based Combination Therapy (ACTs), valued at more than $370,000 (over Rwf450 million). \u2026 [+1988 chars]",
+      "retrievedAt": "2023-10-08 07:05:25.709340",
+      "internal_id": "b81b3d679adcf591f7f478326e9dccf8947c6878b1240526e047aaedbf8245d8",
       "publishedAtLabel": "Oct 6"
     },
     {
@@ -420,6 +673,24 @@
       "publishedAtLabel": "Oct 6"
     },
     {
+      "id": 2390,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Martinique : L\u2019\u00e9pid\u00e9mie de dengue fait trois d\u00e9c\u00e8s en quinze jours, dont un enfant",
+      "description": "Martinique et Guadeloupe se trouvent depuis la mi-ao\u00fbt en phase \u00e9pid\u00e9mique pour cette maladie tropicale",
+      "url": "https://www.20minutes.fr/sante/4056442-20231006-martinique-epidemie-dengue-fait-trois-deces-quinze-jours-dont-enfant",
+      "urlToImage": "https://img.20mn.fr/DtEu4dZvSBWfz-9RvOC5dik/1200x768_a-culex-tarsalis-mosquito-is-shown-at-the-salt-lake-city-mosquito-abatement-district-on-monday-aug-28-2023-in-salt-lake-city-mosquitoes-can-carry-viruses-including-dengue-yellow-fever-chikungunya-and-zika-they-are-especially-threatening-to-public-health-in-asia-and-africa-but-are-also-closely-monitored-in-the-united-states-ap-photo-rick-bowmer-cli704-23251815588774-2309101407",
+      "publishedAt": "2023-10-06 07:41:50",
+      "content": "C\u2019est une maladie tropicale qui se transmet essentiellement par les piq\u00fbres de moustique. La dengue fait son retour en Martinique et l\u2019\u00e9pid\u00e9mie continue de progresser. Trois personnes en sont mortes \u2026 [+1394 chars]",
+      "retrievedAt": "2023-10-08 07:05:24.262042",
+      "internal_id": "faf0a716ac4c543ee5155793388b2cef7d99478abc06f8ee863bee48fb190d79",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
       "id": 2350,
       "query": [
         "malaria"
@@ -471,6 +742,24 @@
       "content": "Febra Dengue va deveni o ameninare major \u00een sudul Europei, \u00een sudul Statelor Unite i \u00een pri ale Africii, pe parcursul acestui deceniu, a declarat principalul cercettor de la Organizaia Mondial a Snti\u2026 [+2874 chars]",
       "retrievedAt": "2023-10-07 07:05:30.990971",
       "internal_id": "5b13f78f66722fca06268c97ef0b3b8e8629b87c90473ee5905582f7f08ca2a3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2391,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says - Reuters",
+      "description": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist saysReuters View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171961633",
+      "urlToImage": null,
+      "publishedAt": "2023-10-06 06:32:29",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-08 07:05:24.272200",
+      "internal_id": "03b1e82c6ac96aa29d70c9583509faa34bab03603c7a6d77ced929ee03272391",
       "publishedAtLabel": "Oct 6"
     },
     {
@@ -870,6 +1159,24 @@
       "publishedAtLabel": "Oct 5"
     },
     {
+      "id": 2394,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "E.E.",
+      "title": "La OMS recomienda una segunda vacuna contra la malaria, que proteger\u00e1 a los ni\u00f1os",
+      "description": "El organismo internacional ha recomendado una segunda vacuna contra la malaria, una enfermedad que causa medio mill\u00f3n de muertes al a\u00f1o.",
+      "url": "https://www.elespanol.com/ciencia/salud/20231005/oms-recomienda-segunda-vacuna-malaria-protegera-ninos/799670198_0.html",
+      "urlToImage": "https://s1.eestatic.com/2023/06/27/ciencia/salud/774682606_234272657_1200x630.jpg",
+      "publishedAt": "2023-10-05 11:05:44",
+      "content": "El director de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedro Adhanom Ghebreyesus, ha anunciado la recomendaci\u00f3n de una segunda vacuna contra la malaria, 'R21/Matrix-M', desarrollada por la Univers\u2026 [+3863 chars]",
+      "retrievedAt": "2023-10-08 07:05:25.716814",
+      "internal_id": "e4e89c19f498c12706ac86b0e2b95c29a7b4aa1738f0c849e17caa7f7cd72c42",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
       "id": 2314,
       "query": [
         "meningitis"
@@ -1142,6 +1449,24 @@
       "publishedAtLabel": "Oct 5"
     },
     {
+      "id": 2396,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "matthew.higgins@bioch.ox.ac.uk (Abhishek Jamwal), matthew.higgins@bioch.ox.ac.uk (Bernd Fakler), matthew.higgins@bioch.ox.ac.uk (Cristina F Constantin), matthew.higgins@bioch.ox.ac.uk (Matthew K Higgins), matthew.higgins@bioch.ox.ac.uk (Sebastian Henrich), matthew.higgins@bioch.ox.ac.uk (Simon J Draper), matthew.higgins@bioch.ox.ac.uk (Stephan Hirshi), matthew.higgins@bioch.ox.ac.uk (Uwe Schulte), matthew.higgins@bioch.ox.ac.uk (Wolfgang Bildl)",
+      "title": "Erythrocyte invasion-neutralising antibodies prevent Plasmodium falciparum RH5 from binding to basigin-containing membrane protein complexes",
+      "description": "Basigin is an essential host receptor for invasion of Plasmodium falciparum into human erythrocytes, interacting with parasite surface protein PfRH5. PfRH5 is a leading blood-stage malaria vaccine candidate and a target of growth-inhibitory antibodies. Here w\u2026",
+      "url": "https://elifesciences.org/articles/83681",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2023-10-05 00:00:00",
+      "content": "Biochemistry and Chemical BiologyMicrobiology and Infectious Disease Across bacteria, protein-based organelles called bacterial microcompartments (BMCs) encapsulate ke\u2026 [+4421 chars]",
+      "retrievedAt": "2023-10-08 07:05:25.724452",
+      "internal_id": "5e7b22e8a8158f4c9e44a0784cfb889675251800e0189d1e418e6bd5c03be18c",
+      "publishedAtLabel": "Oct 5"
+    },
+    {
       "id": 2353,
       "query": [
         "malaria"
@@ -1157,6 +1482,24 @@
       "content": "Introduction An estimated 241million cases and 627000 deaths from malaria occurred globally in 2020.1 Sub-Saharan Africa (SSA) accounted for 228million (95%) of global malaria cases1 and children un\u2026 [+1505 chars]",
       "retrievedAt": "2023-10-07 07:05:31.974326",
       "internal_id": "c38ac84cb22e29c0f35e616f7b5680c2d2c88f50d9388e9fa7b690b8b5839d2a",
+      "publishedAtLabel": "Oct 4"
+    },
+    {
+      "id": 2395,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Robsky, K. O., Tram, K. H., Dowdy, D. W., Zelner, J.",
+      "title": "Methods for measuring short-term geographical mobility used in infectious disease research: a scoping review protocol",
+      "description": "Introduction Geographical mobility, the movement of individuals or populations, may increase an individual\u2019s risk of acquiring or transmitting infectious diseases, including HIV, tuberculosis, malaria and COVID-19. Many studies have collected information on s\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/10/e072439?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-10-04 23:25:21",
+      "content": "Introduction Human movement occurs across many scales of distance (neighbourhood, intraurban, regional, international) and time (daily, periodic, seasonal, long term, migration) and can also vary in\u2026 [+4752 chars]",
+      "retrievedAt": "2023-10-08 07:05:25.721235",
+      "internal_id": "bd23e89f63b029c4dccc18b8a6845caa8d9598609ca0b12a8ce2fe0c764348c3",
       "publishedAtLabel": "Oct 4"
     },
     {
@@ -1181,7 +1524,8 @@
       "id": 2301,
       "query": [
         "zika",
-        "chikungunya"
+        "chikungunya",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "The Conversation Africa",
@@ -3272,348 +3616,6 @@
       "content": "GENEVA (Reuters) -The World Health Organization (WHO) recommended on Monday the use of a second malaria vaccine to curb the life-threatening disease spread to humans by some mosquitoes. \"Almost exa\u2026 [+2169 chars]",
       "retrievedAt": "2023-10-03 19:05:26.941833",
       "internal_id": "a15e7c74b20f47730c0ee2061ec5d50ce5174f6b1f85e4738829e116b94a28f5",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2229,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "UN authorises second malaria vaccine; experts warn it's not enough to stop the disease spreading",
-      "description": "The World Health Organisation (WHO) has approved a second malaria vaccine, offering a potentially cheaper and more effective option than the first vaccine. Developed by Oxford University and the Serum Institute of India, the three-dose vaccine is over 75% eff\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/un-authorises-second-malaria-vaccine-experts-warn-its-not-enough-to-stop-the-disease-spreading/articleshow/104110981.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104110985,width-1200,height-630,imgsize-44492,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-02 14:30:12",
-      "content": "The World Health Organisation authorised a second malaria vaccine on Monday, a decision that could offer countries a cheaper and more effective option than the world's first shot against the parasiti\u2026 [+3903 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.974405",
-      "internal_id": "2042fa6928dcf92d776ae56b21ad851e15b5c82c0762a63d16e0797a3a0377a0",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2217,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "\"Now We Have Two\": WHO Recommends 2nd Malaria Vaccine For Children",
-      "description": "The World Health Organization said Monday that its experts had recommended a second malaria vaccine for children, R21/Matrix-M, developed by Britain's Oxford University.",
-      "url": "https://www.ndtv.com/world-news/now-we-have-two-who-recommends-2nd-malaria-vaccine-for-children-4443369",
-      "urlToImage": "https://c.ndtvimg.com/2020-04/md54p5i_world-health-organization-_625x300_25_April_20.jpg",
-      "publishedAt": "2023-10-02 14:18:35",
-      "content": "The new vaccine is developed by Britain's Oxford University. (Representational) Geneva, Switzerland: The World Health Organization said Monday that its experts had recommended a second malaria vacci\u2026 [+1107 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.947168",
-      "internal_id": "4ba247f5346bb0763ecedc2ba0f2596f031743e526b29554c50f17867034e624",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2236,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "AP",
-      "title": "Premio Nobel de Medicina: Premian a cient\u00edficos por desarrollar vacuna ARNm contra COVID-19",
-      "description": "Antes del COVID ya se estaban probando vacunas de ARN mensajero para otras enfermedades como el zika, la gripe y la rabia, confesaron los galardonados.",
-      "url": "https://www.elfinanciero.com.mx/ciencia/2023/10/02/premio-nobel-de-medicina-2023-premian-a-cientificos-por-desarrollar-vacuna-arnm-contra-covid/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/Cx8boDCaUNZ-zqZXNEZCr2DOMUI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DKAFYC7NCFFUHDTB24YO5RJSKU.jpg",
-      "publishedAt": "2023-10-02 14:18:12",
-      "content": "Dos cient\u00edficos ganaron este lunes 2 de octubre el premio Nobel de Medicina por descubrimientos que permitieron el desarrollo de vacunas efectivas ARNm contra el COVID-19 y podr\u00edan utilizarse para cr\u2026 [+4545 chars]",
-      "retrievedAt": "2023-10-03 19:05:27.241378",
-      "internal_id": "91f6d5c7bff4c40c422b83f2d759e47c8194f399df0f1b559e8d0f556b8a03a1",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2215,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "WHO recommends malaria vaccine, roll out in early 2024 in some African countries",
-      "description": "(marketscreener.com) The World Health Organization recommended on Monday the use of a second malaria vaccine to curb the life-threatening disease spread to humans by some mosquitoes.https://www.marketscreener.com/news/latest/WHO-recommends-malaria-vaccine-rol\u2026",
-      "url": "https://www.marketscreener.com/news/latest/WHO-recommends-malaria-vaccine-roll-out-in-early-2024-in-some-African-countries--44965123/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-10-02 14:12:28",
-      "content": "GENEVA (Reuters) - The World Health Organization (WHO) recommended on Monday the use of a second malaria vaccine to curb the life-threatening disease spread to humans by some mosquitoes. \"Almost ex\u2026 [+665 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.939829",
-      "internal_id": "b159a59ef55ec5acd5c91cf9aa9ee699d55d40df68d34b6d232441b3d067833f",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2214,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "New, cheap malaria vaccine backed by WHO",
-      "description": "Deals are in place to make 100 million doses of the vaccine each year to fight the complex disease.",
-      "url": "https://www.bbc.co.uk/news/health-66985273",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3678/production/_129344931_r21vaccinationsattanzaniaclinicalsite-credittomwilkinsonuniversityofoxford-1.jpg",
-      "publishedAt": "2023-10-02 14:09:55",
-      "content": "A cheap malaria vaccine that can be produced on a massive scale has been recommended for use by the World Health Organization. The vaccine has been developed by the University of Oxford and is only\u2026 [+2221 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.936246",
-      "internal_id": "c3a3c3546587e840ada3ea5b99253f412ab271a32603f4b9992bdd0415cc3a2b",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2185,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "Bangladesh dengue deaths top 1,000 in worst outbreak",
-      "description": "(marketscreener.com) The death toll from Bangladesh's worst dengue outbreak on record has topped 1,000 this year, official data showed, with hospitals struggling to make space for patients as the disease spreads rapidly in the densely-populated country.https:\u2026",
-      "url": "https://www.marketscreener.com/quote/index/TOPIX-INDEX-61714390/news/Bangladesh-dengue-deaths-top-1-000-in-worst-outbreak-44965104/",
-      "urlToImage": "https://img.zonebourse.com/reuters/2023-07/2023-07-26T122541Z_1_LYNXMPEJ6P0LN_RTROPTP_3_HEALTH-BANGLADESH-DENGUE.JPG",
-      "publishedAt": "2023-10-02 14:08:25",
-      "content": "DHAKA (Reuters) - The death toll from Bangladesh's worst dengue outbreak on record has topped 1,000 this year, official data showed, with hospitals struggling to make space for patients as the diseas\u2026 [+2200 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.406313",
-      "internal_id": "66545cf00c97d573c5a13e51a5208a416ed5e399050d267bc5274f66391743a7",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2199,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "FRANCE 24 English",
-      "author": "FRANCE24",
-      "title": "Le Bangladesh frapp\u00e9 par sa pire \u00e9pid\u00e9mie de dengue, avec plus de 1.000 morts cette ann\u00e9e",
-      "description": "Les chiffres de la direction g\u00e9n\u00e9rale des services de Sant\u00e9 publi\u00e9s dimanche soir indiquent que 1.006 personnes sont d\u00e9c\u00e9d\u00e9es sur plus de 200.000 cas confirm\u00e9s. Selon l'ancien directeur de des services de Sant\u00e9, Be-Nazir Ahmed, le nombre de d\u00e9c\u00e8s enregistr\u00e9s\u2026",
-      "url": "https://www.france24.com/fr/info-en-continu/20231002-le-bangladesh-frapp%C3%A9-par-sa-pire-%C3%A9pid%C3%A9mie-de-dengue-avec-plus-de-1-000-morts-cette-ann%C3%A9e",
-      "urlToImage": "https://s.france24.com/media/display/b23daa88-612c-11ee-9d6b-005056bfb2b6/w:1280/p:16x9/c682598ebe44db1556384edec54f5b1b075abf54.jpg",
-      "publishedAt": "2023-10-02 14:05:09",
-      "content": "Dacca (AFP) Plus de 1.000 personnes sont mortes de la dengue au Bangladesh depuis le d\u00e9but de l'ann\u00e9e, selon les chiffres officiels, repr\u00e9sentant la pire \u00e9pid\u00e9mie de cette maladie, transmise par les \u2026 [+1251 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.447716",
-      "internal_id": "5e603ef824b27ed967a23288ff1f8fb6ba397519205757581617f01630279264",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2237,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Emma C. Boehm, Anna S. Jaeger, Hunter J. Ries, David Casta\u00f1eda, Andrea M. Weiler, Corina C. Valencia, James Weger-Lucarelli, Gregory D. Ebel, Shelby L. O\u2019Connor, Thomas C. Friedrich, Mostafa Zamanian, Matthew T. Aliota",
-      "title": "Wolbachia-mediated resistance to Zika virus infection in Aedes aegypti is dominated by diverse transcriptional regulation and weak evolutionary pressures",
-      "description": "Author summary When Wolbachia bacteria infect Aedes aegypti mosquitoes, they dramatically reduce the mosquitoes\u2019 susceptibility to infection with a range of arthropod-borne viruses, including Zika virus (ZIKV). Although this pathogen-blocking effect has been \u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011674",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011674.g008&size=inline",
-      "publishedAt": "2023-10-02 14:00:00",
-      "content": "Citation: Boehm EC, Jaeger AS, Ries HJ, Casta\u00f1eda D, Weiler AM, Valencia CC, et al. (2023) Wolbachia-mediated resistance to Zika virus infection in Aedes aegypti is dominated by diverse transcription\u2026 [+63883 chars]",
-      "retrievedAt": "2023-10-03 19:05:27.250003",
-      "internal_id": "ddf58e038a03135b2f3476eeaab9c91666e85d6488460e30d164732f45745879",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2175,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "Bangladesh dengue deaths top 1,000 in worst outbreak on record",
-      "description": "DHAKA: More than 1,000 people in Bangladesh have died of dengue fever this year, the country's worst recorded outbreak of the mosquito-borne disease, which is increasing in frequency",
-      "url": "https://www.channelnewsasia.com/asia/bangladesh-dengue-deaths-worst-outbreak-record-mosquitoes-climate-change-3814286",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--pcUJ64k2--/c_crop,h_432,w_768,x_0,y_80/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/ad11d4cef39d76286654494c9f793c415431a8f7.jpg?itok=czr3L_HD",
-      "publishedAt": "2023-10-02 13:59:11",
-      "content": "DHAKA: More than 1,000 people in Bangladesh have died of dengue fever this year, the country's worst recorded outbreak of the mosquito-borne disease, which is increasing in frequency due to climate c\u2026 [+4047 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.373755",
-      "internal_id": "7092ab0a3e69a06b52ad722433f36f2e416d20bd157faf3e5efabe22b9e2fecd",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2200,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Ag\u00eancia EFE",
-      "title": "Com transmiss\u00e3o em alta na Am\u00e9rica Latina, OMS recomenda primeira vacina contra dengue",
-      "description": "Efic\u00e1cia foi comprovada entre pessoas dos quatro aos 16 anos",
-      "url": "https://noticias.r7.com/saude/com-transmissao-em-alta-na-america-latina-oms-recomenda-primeira-vacina-contra-dengue-02102023",
-      "urlToImage": "https://img.r7.com/images/aedes-aegypti-04052023110456383?crop_position=c&dimensions=340x191",
-      "publishedAt": "2023-10-02 13:47:01",
-      "content": "Dengue est\u00e1 aumentando por mudan\u00e7as clim\u00e1ticas Wikimedia Commons A OMS (Organiza\u00e7\u00e3o Mundial da Sa\u00fade) recomendou nesta segunda-feira a primeira vacina contra a dengue, em um momento em que a \u2026 [+3263 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.454655",
-      "internal_id": "5188049dc6dd0cb981b109859d52b8c63ea2b84c73ec98429d46f8a14ff3728c",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2180,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Lusa",
-      "title": "Epidemia de dengue fez mais de mil mortos no Bangladesh desde janeiro",
-      "description": "Segundo fontes oficiais, o n\u00famero de mortes registadas desde o in\u00edcio do ano \u00e9 superior aos balan\u00e7os de todos os anos anteriores combinados desde o ano 2000",
-      "url": "https://expresso.pt/internacional/asia/2023-10-02-Epidemia-de-dengue-fez-mais-de-mil-mortos-no-Bangladesh-desde-janeiro-5233c72e",
-      "urlToImage": "https://images.impresa.pt/expresso/2023-10-02-Bangladesh-ac8e357e/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-10-02 12:08:48",
-      "content": "Mais de mil pessoas morreram de dengue no Bangladesh desde o in\u00edcio do ano, segundo dados oficiais, no que representa a pior epidemia daquela doen\u00e7a transmitida por mosquitos jamais registada no pa\u00eds\u2026 [+1182 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.393029",
-      "internal_id": "5e06351fbe373fe592d3bb2e4c1062c10ab6fb894f0928ade52b2fb14ad69768",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2231,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "WHO approves second malaria vaccine for children",
-      "description": "The World Health Organization (WHO) on Monday recommended a new anti-malaria vaccine for children, a move that could offer countries a cheaper and more readily available option than the world\u2019s first shot against the parasitic disease. Read Full Story on UN N\u2026",
-      "url": "https://news.un.org/en/story/2023/10/1141787",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/04/23-04-2019-Malaria-Malawi-Path2.jpg/image770x420cropped.jpg",
-      "publishedAt": "2023-10-02 12:00:00",
-      "content": "The R21/Matrix-M vaccine, developed by Britains Oxford University, can be used to curb the life-threatening illness spread to humans by mosquitoes, the WHO said, stating that both vaccines are shown \u2026 [+2807 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.978956",
-      "internal_id": "0b539b43487ae1dae4b8e7cbac85ff3ec297dc724202fa19bc8dd570d3b6fa93",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2220,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Corriere.it",
-      "author": "Laura Cuppini",
-      "title": "Le tredici donne che hanno vinto il Nobel per la Medicina, dal 1947 ad oggi (una sola \u00e8 italiana)",
-      "description": "Prima di Katalin Karik\u00f3, sono state premiate la farmacologa cinese Youyou Tu per i suoi studi sulla malaria e la neuroscienziata norvegese May-Britt Moser",
-      "url": "https://www.corriere.it/salute/cards/tredici-donne-che-hanno-vinto-nobel-la-medicina-1947-ad-oggi-una-sola-italiana/katalin-kariko-2023_principale.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/10/02/7d5dad5c-6115-11ee-ad73-20266ed94fc1.jpg",
-      "publishedAt": "2023-10-02 11:35:26",
-      "content": "Katalin Karik\u00f3, premio Nobel per la Medicina 2023, \u00e8 una biochimica ungherese, premiata insieme al medico americano Drew Weissman \u00abper le scoperte sulle modifiche delle basi nucleosidiche che hanno p\u2026 [+103 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.953990",
-      "internal_id": "60336cece2232d3b1afe067ea7331d839fceb7bdd7bf3318482d4cb7b85a6d0d",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2170,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Internazionale.it",
-      "author": "Internazionale",
-      "title": "Un\u2019epidemia di dengue ha causato pi\u00f9 di mille vittime in Bangladesh",
-      "description": "Dall\u2019inizio dell\u2019anno pi\u00f9 di mille persone sono morte in un\u2019epidemia di dengue in Bangladesh. Si tratta della peggiore epidemia di dengue, una malattia trasmessa dalle zanzare, mai registrata nel paese. Leggi",
-      "url": "https://www.internazionale.it/ultime-notizie/2023/10/02/bangladesh-salute-dengue",
-      "urlToImage": "https://media.internazionale.it/images/2023/10/02/186437-sd.jpeg",
-      "publishedAt": "2023-10-02 11:15:20",
-      "content": "Dallinizio dellanno pi\u00f9 di mille persone sono morte in unepidemia di dengue in Bangladesh. Si tratta della peggiore epidemia di dengue, una malattia trasmessa dalle zanzare, mai registrata nel paese.\u2026 [+3005 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.361647",
-      "internal_id": "563d42d46c64bd50707319deb89652d467695e35ebdbb40bc7beb5bc3754b090",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2174,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (VOA News)",
-      "title": "Deadly Dengue Outbreak in Bangladesh",
-      "description": "More than 1,000 people have died from dengue fever in Bangladesh this year, making 2023 the deadliest year due to dengue, since the disease was first detected in the country, according to government figures. The Directorate General of Health Services said t\u2026",
-      "url": "https://www.voanews.com/a/deadly-dengue-outbreak-in-bangladesh-/7293018.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-c0a8-0242-7e1d-08dbc336821d_cx0_cy10_cw0_w1200_r1.jpg",
-      "publishedAt": "2023-10-02 11:02:04",
-      "content": "More than 1,000 people have died from dengue fever in Bangladesh this year, making 2023 the deadliest year due to dengue, since the disease was first detected in the country, according to government \u2026 [+907 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.371733",
-      "internal_id": "cc87b89e7dedb45f29eba4d0e7118eff22a80ab2fffa8b32ac020203e2ccaee4",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2167,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Yves Smith",
-      "title": "Links 10/3/2023",
-      "description": "#COVID-19 Why some vaccines stop transmission & others don\u2019t: Vaccines that stop transmission are often against viruses that replicate internally first and only then transmit (like measles). So if the vaccine stops internal replication, it stops transmissi\u2026",
-      "url": "https://www.nakedcapitalism.com/2023/10/links-10-3-2023.html",
-      "urlToImage": null,
-      "publishedAt": "2023-10-02 10:55:41",
-      "content": "University of Alberta's chancellor in the 1980s, Peter Savaryn, was a Ukrainian Waffen SS veteran. Savaryn cofounded UofA's Canadian Institute for Ukrainian Studies program, which set up endowments f\u2026 [+125 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.096984",
-      "internal_id": "ac35b9779c621836a25633f6d3b524cb20cbc5b1ddb61acebc851cd5b78d0a19",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2198,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilpost.it",
-      "author": null,
-      "title": "L\u2019epidemia di dengue in corso in Bangladesh ha causato pi\u00f9 di mille morti",
-      "description": "",
-      "url": "https://www.ilpost.it/2023/10/02/epidemia-dengue-bangladesh-morti/",
-      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2023/10/02/1696241055-dengue.jpg",
-      "publishedAt": "2023-10-02 10:07:40",
-      "content": "Mondoluned\u00ec 2 Ottobre 2023 L\u2019epidemia di dengue in Bangladesh, iniziata a luglio, ha causato pi\u00f9 di mille morti. Si tratta della pi\u00f9 grave mai verificatasi nel paese: ne s\u2026 [+1923 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.445521",
-      "internal_id": "0355f56c65d4c89da898463cc283cf592a31f8411e5ea09626184dee4f2228ea",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2173,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "International Business Times",
-      "author": "Mohammad MAZED",
-      "title": "Bangladesh Dengue Deaths Top 1,000 In Worst Outbreak On Record",
-      "description": "More than 1,000 people in Bangladesh have died of dengue fever since the start of the year, official figures showed, in the country's worst recorded outbreak of the mosquito-borne disease.",
-      "url": "https://www.ibtimes.com/bangladesh-dengue-deaths-top-1000-worst-outbreak-record-3713727",
-      "urlToImage": "https://d.ibtimes.com/en/full/4489842/patients-receive-treatment-dengue-fever-dhakas-shaheed-suhrawardy-medical-college-hospital-more.jpg",
-      "publishedAt": "2023-10-02 09:51:31",
-      "content": "More than 1,000 people in Bangladesh have died of dengue fever since the start of the year, official figures showed, in the country's worst recorded outbreak of the mosquito-borne disease. Dengue is\u2026 [+3060 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.369240",
-      "internal_id": "3558b869939fd861529b79fba4bdc9afa60f148493a4e6d168137aa9e2153c57",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2194,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "FRANCE 24 English",
-      "author": "FRANCE24",
-      "title": "Bangladesh dengue deaths top 1,000 in worst outbreak on record",
-      "description": "Dengue is a disease endemic to tropical areas and causes high fevers, headaches, nausea, vomiting, muscle pain and, in the most serious cases, bleeding that can lead to death. The World Health Organization (WHO) has warned that dengue -- and other diseases c\u2026",
-      "url": "https://www.france24.com/en/live-news/20231002-bangladesh-dengue-deaths-top-1-000-in-worst-outbreak-on-record",
-      "urlToImage": "https://s.france24.com/media/display/36381130-6109-11ee-8476-005056a90284/w:1280/p:16x9/c682598ebe44db1556384edec54f5b1b075abf54.jpg",
-      "publishedAt": "2023-10-02 09:51:09",
-      "content": "Dhaka (AFP) More than 1,000 people in Bangladesh have died of dengue fever since the start of the year, official figures showed, in the country's worst recorded outbreak of the mosquito-borne disease\u2026 [+3132 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.434283",
-      "internal_id": "41c5e1a28e84854a0687f86054b621d325c40faaee2660e3ff6fd5189fdee6c3",
       "publishedAtLabel": "Oct 2"
     }
   ]
