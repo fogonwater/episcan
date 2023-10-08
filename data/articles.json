@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-10-08 07:05",
+  "last_updated": "2023-10-08 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 19,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 2397,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Medical Xpress",
+      "author": "Dennis Thompson",
+      "title": "Is the first cure for advanced rabies near?",
+      "description": "Rabies virus is incurable and almost always fatal once it has invaded the central nervous system, with the victim doomed to suffer a horrible death.",
+      "url": "https://medicalxpress.com/news/2023-09-advanced-rabies.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/is-the-first-cure-for.jpg",
+      "publishedAt": "2023-10-07 18:38:47",
+      "content": "Rabies virus is incurable and almost always fatal once it has invaded the central nervous system, with the victim doomed to suffer a horrible death. But researchers now think they've found an effect\u2026 [+4708 chars]",
+      "retrievedAt": "2023-10-08 19:05:12.862933",
+      "internal_id": "911696a3c1659953f31f3b30b3549211a5ada5c5e30259f5e33b1345a3fd2d41",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 2399,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Adrian Hill, The Conversation",
+      "title": "Malaria Could Be Eliminated by 2040: New Vaccine Offers Hope",
+      "description": "The World Health Organization has approved a new vaccine that scientists argue will be a game-changer in the fight against malaria, which kills half a million people in Africa every year.",
+      "url": "https://www.sciencealert.com/malaria-could-be-eliminated-by-2040-new-vaccine-offers-hope",
+      "urlToImage": "https://www.sciencealert.com/images/2023/10/MosquitoCloseUpWithProboscisSunkIntoHumanSkin-1.jpg",
+      "publishedAt": "2023-10-07 10:34:07",
+      "content": "The World Health Organization has approved a new vaccine that scientists argue will be a game-changer in the fight against malaria, which kills half a million people in Africa every year. Trials ha\u2026 [+6614 chars]",
+      "retrievedAt": "2023-10-08 19:05:14.248865",
+      "internal_id": "a1a63c21dabf34a20f948e4c7676b341bf01fd4cdf6c85cd56895b5c34be46f4",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 2398,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Surge in dengue cases in Uttarakhand crosses 3,000 mark",
+      "description": "The number of dengue cases in Uttarakhand, India, has exceeded 3,000, with Dehradun reporting over 1,000 cases and Pauri district recording 736 cases. The state has seen 59 new cases recently, bringing the total to 3,046, with Dehradun accounting for 1,023 ca\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/surge-in-dengue-cases-in-uttarakhand-crosses-3000-mark/articleshow/104236140.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104236290,width-1200,height-630,imgsize-1755339,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-07 08:47:56",
+      "content": "The incidence of dengue cases in Uttarakhand has risen significantly, surpassing the 3,000 mark. Notably, Dehradun alone has reported over 1,000 cases, and an additional 736 cases have emerged in the\u2026 [+1655 chars]",
+      "retrievedAt": "2023-10-08 19:05:13.650966",
+      "internal_id": "a5045ae9f331d57d7ab385206f47f35ca56e706e01653fab34975caac1339fd9",
+      "publishedAtLabel": "Oct 7"
+    },
     {
       "id": 2385,
       "query": [
@@ -3562,60 +3616,6 @@
       "content": "Katalin Kariko, Drew Weissman get Nobel Prize in medicine for study that led to development of mRNA vaccines",
       "retrievedAt": "2023-10-03 19:05:26.951629",
       "internal_id": "819cb176adb3838df18e55f995f27dab717e21279995ebef42a493a03a67ac13",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2218,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "MARIA CHENG AP medical writer",
-      "title": "UN authorizes a second malaria vaccine. Experts warn it's not enough to stop the disease spreading",
-      "description": "The World Health Organization has authorized a second malaria vaccine in a decision that could offer countries a cheaper and a more readily available option than the world\u2019s first shot against the parasitic disease",
-      "url": "https://abcnews.go.com/Health/wireStory/authorizes-malaria-vaccine-experts-warn-stop-disease-spreading-103658062",
-      "urlToImage": "https://i.abcnewsfe.com/a/8ed3626b-be0d-4350-a4d2-ae6186f5eec0/wirestory_f2dbc55cb7f92f82af52f7898a8260d0_16x9.jpg?w=992",
-      "publishedAt": "2023-10-02 14:38:47",
-      "content": "LONDON -- The World Health Organization authorized a second malaria vaccine on Monday, a decision that could offer countries a cheaper and a more readily available option than the world's first shot \u2026 [+4188 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.949581",
-      "internal_id": "cd141ead77871e9ed6461cfcfa3a3fd40e06e3d3f3958faa56acfb265c4e9544",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2221,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nrk",
-      "source_name": "NRK",
-      "author": "NRK",
-      "title": "WHO anbefaler ny malariavaksine for barn",
-      "description": "En ny malariavaksine for barn f\u00e5r gr\u00f8nt lys av Verdens helseorganisasjon (WHO). Vaksinen kan redde hundretusenvis av liv. Vaksinen b\u00e6rer navnet R21/Matrix-M og er den andre malariavaksinen som f\u00e5r godkjentstempel av WHO. Den f\u00f8rste har v\u00e6rt anbefalt siden 202\u2026",
-      "url": "https://www.nrk.no/nyheter/who-anbefaler-ny-malariavaksine-for-barn-1.16579704",
-      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.495/common/img/default.jpg",
-      "publishedAt": "2023-10-02 14:36:25",
-      "content": "2. oktober2023kl.16:36En ny malariavaksine for barn f\u00e5r gr\u00f8nt lys av Verdens helseorganisasjon (WHO). Vaksinen kan redde hundretusenvis av liv. Vaksinen b\u00e6rer navnet R21/Matrix-M og er den andre mal\u2026 [+514 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.956208",
-      "internal_id": "a34d38fbc271b7039d5079729576da40f1d0d0d1d31cab7010b8edfa70e08979",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2216,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "WHO recommends malaria vaccine, roll out in early 2024 in some African countries",
-      "description": "(marketscreener.com) GENEVA -The World Health Organization recommended on Monday the use of a second malaria vaccine to curb the life-threatening disease spread to humans by some mosquitoes.https://www.marketscreener.com/quote/stock/NOVAVAX-INC-58256108/news/\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/NOVAVAX-INC-58256108/news/WHO-recommends-malaria-vaccine-roll-out-in-early-2024-in-some-African-countries-44965123/",
-      "urlToImage": "https://img.zonebourse.com/reuters/2023-10/2023-10-02T141228Z_1_LYNXNPEJ910NS_RTROPTP_3_HEALTH-GLOBAL-FUND-HIV.JPG",
-      "publishedAt": "2023-10-02 14:34:43",
-      "content": "GENEVA (Reuters) -The World Health Organization (WHO) recommended on Monday the use of a second malaria vaccine to curb the life-threatening disease spread to humans by some mosquitoes. \"Almost exa\u2026 [+2169 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.941833",
-      "internal_id": "a15e7c74b20f47730c0ee2061ec5d50ce5174f6b1f85e4738829e116b94a28f5",
       "publishedAtLabel": "Oct 2"
     }
   ]
