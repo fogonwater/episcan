@@ -1,8 +1,26 @@
 {
-  "last_updated": "2023-10-08 19:05",
+  "last_updated": "2023-10-09 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 3,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 2401,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "IANS",
+      "title": "'The blood of Sanatan Dharma is in our veins', warns ex-K'taka CM Basavaraj Bommai",
+      "description": "Karnataka Chief Minister Basavaraj Bommai warned that the sentiments of Hindus will not be hurt if their Sanatan Dharma is compared to diseases like malaria. He also highlighted attempts to hinder Hindu Ganpati celebrations and emphasized the strength of Lord\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/the-blood-of-sanatan-dharma-is-in-our-veins-warns-ex-ktaka-cm-basavaraj-bommai/articleshow/104250481.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104251500,width-1200,height-630,imgsize-100746,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-08 01:53:38",
+      "content": "\"Should we have to keep quiet if our Sanatan Dharma is compared with malaria? The blood of Sanathan Dharma is flowing in our veins. We will not keep quiet if someone tries to hurt our sentiments,\" Bo\u2026 [+2561 chars]",
+      "retrievedAt": "2023-10-09 07:05:48.540468",
+      "internal_id": "36a69f2da5542cff2efc6dc893e389e60116aa942f9c7183336bb9fcb1412b0a",
+      "publishedAtLabel": "Oct 8"
+    },
     {
       "id": 2397,
       "query": [
@@ -19,6 +37,24 @@
       "content": "Rabies virus is incurable and almost always fatal once it has invaded the central nervous system, with the victim doomed to suffer a horrible death. But researchers now think they've found an effect\u2026 [+4708 chars]",
       "retrievedAt": "2023-10-08 19:05:12.862933",
       "internal_id": "911696a3c1659953f31f3b30b3549211a5ada5c5e30259f5e33b1345a3fd2d41",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 2400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "AFP",
+      "title": "Bangladesh enfrenta epidemia de dengue sem precedentes",
+      "description": "Doen\u00e7a alcan\u00e7ou o recorde de 1.030 mortes e j\u00e1 tem mais de 210 mil casos confirmados desde o in\u00edcio de 2023",
+      "url": "https://noticias.r7.com/internacional/bangladesh-enfrenta-epidemia-de-dengue-sem-precedentes-07102023",
+      "urlToImage": "https://img.r7.com/images/dengue-em-bangladesh-07102023153241600?crop_position=c&dimensions=340x191",
+      "publishedAt": "2023-10-07 15:54:00",
+      "content": "Pacientes se acumulam nos leitos de hospitais do pa\u00eds Mohammad Ponir Hossain/File Photo/Reuters - 7.10.2023 Os m\u00e9dicos do Hospital Mugda, em Daca, capital de Bangladesh, est\u00e3o sobrecarregados\u2026 [+3972 chars]",
+      "retrievedAt": "2023-10-09 07:05:48.012877",
+      "internal_id": "3d8fd239df401cdf7b988742cca1baba81103df0452d4904b8d1e8634d489324",
       "publishedAtLabel": "Oct 7"
     },
     {
@@ -73,6 +109,42 @@
       "content": "Shubman Gill may miss India's opener against Australia",
       "retrievedAt": "2023-10-08 07:05:24.240491",
       "internal_id": "1d2542129496d2f6318cfe8d83b79bed420fa85c2d7840099294b7eb54eaa360",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 2404,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_300943",
+      "title": "U.S. Arkansas reports first locally acquired malaria case",
+      "description": "LOS ANGELES, Oct. 6 (Xinhua) -- The U.S. state of Arkansas has identified its first locally acquired",
+      "url": "http://en.people.cn/n3/2023/1007/c90000-20080026.html",
+      "urlToImage": null,
+      "publishedAt": "2023-10-07 01:37:58",
+      "content": "(Xinhua) 09:18, October 07, 2023 LOS ANGELES, Oct. 6 (Xinhua) -- The U.S. state of Arkansas has identified its first locally acquired malaria case, the fourth state in the country that has reported \u2026 [+1347 chars]",
+      "retrievedAt": "2023-10-09 07:05:48.554026",
+      "internal_id": "8385c2e648f0b998ad3912164ccf28a0734cad9d18e8ea3611b871a86eafb7bf",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 2403,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_300943",
+      "title": "U.S. records more homegrown malaria cases for first time in 20 years",
+      "description": "LOS ANGELES, Oct. 6 (Xinhua) -- The United States has identified at least 10 locally acquired malari",
+      "url": "http://en.people.cn/n3/2023/1007/c90000-20079980.html",
+      "urlToImage": null,
+      "publishedAt": "2023-10-07 01:03:55",
+      "content": "By Xinhua writer Tan Jingjing (Xinhua) 08:56, October 07, 2023 LOS ANGELES, Oct. 6 (Xinhua) -- The United States has identified at least 10 locally acquired malaria cases, the first time in 20 years\u2026 [+2514 chars]",
+      "retrievedAt": "2023-10-09 07:05:48.551847",
+      "internal_id": "ed2e074b7ef27b24b47e9632c8dc997a990066d64171fa814a041de693081056",
       "publishedAtLabel": "Oct 7"
     },
     {
@@ -200,6 +272,24 @@
       "content": "A seguito dell'avvenuta comunicazione di un caso accertato di Dengue, infezione contratta da un cittadino italiano rientrato nella sua abitazione di Via Flaminia da un viaggio in Centro America, \u2026 [+2048 chars]",
       "retrievedAt": "2023-10-08 07:05:24.253904",
       "internal_id": "4a3e347cb83d646a196c5357c5c7068bf80331198f7ccad19f80a5c9205325e4",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2402,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tan Jingjing",
+      "title": "Roundup: U.S. records more homegrown malaria cases for first time in 20 years",
+      "description": "by Xinhua writer Tan Jingjing Read full story",
+      "url": "https://www.thestar.com.my/news/world/2023/10/07/roundup-us-records-more-homegrown-malaria-cases-for-first-time-in-20-years",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-10-06 20:46:00",
+      "content": "by Xinhua writer Tan Jingjing LOS ANGELES, Oct. 6 (Xinhua) -- The United States has identified at least 10 locally acquired malaria cases, the first time in 20 years since the highly infectious dis\u2026 [+2454 chars]",
+      "retrievedAt": "2023-10-09 07:05:48.548879",
+      "internal_id": "b926df8bdc4156278c08563eb90705f712f0b4c33febd42d46929c8124a05721",
       "publishedAtLabel": "Oct 6"
     },
     {
@@ -850,6 +940,24 @@
       "content": "Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the condition\u2026 [+53 chars]",
       "retrievedAt": "2023-10-07 07:05:31.081894",
       "internal_id": "f130d7db51145f0c4da4fbd591589465a02a614b72d9da231ebe7600d8948dc3",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2405,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Katherine Dillinger",
+      "title": "Locally acquired malaria case reported in Arkansas | CNN",
+      "description": "A case of locally acquired malaria has been reported in Arkansas, the state Department of Health says, bringing to 10 the number of cases in the US this year.",
+      "url": "https://www.cnn.com/2023/10/05/health/locally-acquired-malaria-arkansas/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/151124141940-malaria-mosquito-anopheles-stephensi.jpg?q=h_619,w_1024,x_0,y_27,c_crop/h_619,w_1100,c_lpad,b_rgb:061015/w_800",
+      "publishedAt": "2023-10-06 05:34:35",
+      "content": "A case of locally acquired malaria has been reported in Arkansas, the state Department of Health says, bringing to 10 the number of cases in the US this year. The person, a Saline County resident, h\u2026 [+677 chars]",
+      "retrievedAt": "2023-10-09 07:05:48.556273",
+      "internal_id": "252fc891242bedf082563aa866b6e27b08f7af781936727e242b432373aadcd0",
       "publishedAtLabel": "Oct 6"
     },
     {
@@ -3506,116 +3614,6 @@
       "content": "In Bangladesch steigen die Zahlen der Todesopfer nach einer Infektion mit dem Dengue-Virus. Die Aedes-Stechm\u00fccken, die das Vorus \u00fcbertragen, gibt es auch schon in Europa. Bei Bangladeschs schlimmste\u2026 [+2645 chars]",
       "retrievedAt": "2023-10-03 19:05:26.437828",
       "internal_id": "9fb0056c63cc6e416a7cffa35a95aef1283393a05cb448b18fc7329925a7d3a8",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2210,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "JUST IN: WHO recommends new malaria vaccine",
-      "description": "\u2026vaccine to become available mid-2024 The World Health Organisation has recommended a new vaccine, R21/Matrix-M, for the prevention of malaria in children. The recommendation follows advice from the WHO Strategic Advisory Group of Experts on Immunisation and \u2026",
-      "url": "https://punchng.com/just-in-who-recommends-new-malaria-vaccine/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/05/13101855/logo-who.tmb-1200v.jpg",
-      "publishedAt": "2023-10-02 15:25:28",
-      "content": "\u2026vaccine to become available mid-2024 The World Health Organisation has recommended a new vaccine, R21/Matrix-M, for the prevention of malaria in children. The recommendation follows advice from th\u2026 [+4136 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.925917",
-      "internal_id": "8e50a71d3a76f48702825c0efaae31e9cb51f9ddff52eb6929aac08592981914",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2211,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "svenska-dagbladet",
-      "source_name": "Svenska Dagbladet",
-      "author": "TT-AFP",
-      "title": "WHO rekommenderar nytt malariavaccin f\u00f6r barn",
-      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO:s experter rekommenderar ytterligare ett malariavaccin f\u00f6r barn. Vaccinet R21/Matrix-M har utvecklats i Storbritannien, tillverkas i Indien och \u00e4r redan godk\u00e4nt f\u00f6r anv\u00e4ndning i flera afrikanska l\u00e4nder. \u2013 Som malariaforskare bruk\u2026",
-      "url": "https://www.svd.se/a/rlRjKw/who-rekommenderar-nytt-malariavaccin-for-barn",
-      "urlToImage": "https://svd.vgc.no/v2/images/9ae7a26a-4b03-4340-8916-a41c22f9b406?h=630&q=80&upscale=true&w=1200&s=33eacafb6aac40827ad32ad24168afd65b3eeed5",
-      "publishedAt": "2023-10-02 15:22:10",
-      "content": "V\u00e4rldsh\u00e4lsoorganisationen WHO:s experter rekommenderar ytterligare ett malariavaccin f\u00f6r barn. Vaccinet R21/Matrix-M har utvecklats i Storbritannien, tillverkas i Indien och \u00e4r redan godk\u00e4nt f\u00f6r anv\u00e4\u2026 [+201 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.928226",
-      "internal_id": "d6de33815d27447e646648f90e1d9b7df9dd9bc377a0fbfbbc80020cdd1ef79f",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2223,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "TT",
-      "title": "WHO rekommenderar nytt malariavaccin f\u00f6r barn",
-      "description": "V\u00e4rldsh\u00e4lsoorganisationen WHO:s experter rekommenderar ytterligare ett malariavaccin f\u00f6r barn. Vaccinet R21/Matrix-M har utvecklats i Storbritannien, tillverkas",
-      "url": "https://www.aftonbladet.se/nyheter/a/mQ9jdq/who-rekommenderar-nytt-malariavaccin-for-barn",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/e75183ea-069b-4384-b771-6b3981c43cd0?fit=crop&format=auto&h=1268&q=50&w=1900&s=baf62bc838e4200c61799f0746a0518730226532",
-      "publishedAt": "2023-10-02 15:22:10",
-      "content": "V\u00e4rldsh\u00e4lsoorganisationen WHO:s experter rekommenderar ytterligare ett malariavaccin f\u00f6r barn. Vaccinet R21/Matrix-M har utvecklats i Storbritannien, tillverkas i Indien och \u00e4r redan godk\u00e4nt f\u00f6r anv\u00e4\u2026 [+529 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.961297",
-      "internal_id": "d15c977503c9408df92e657da288bfceeb9f61b06741c05b898d766b48359a26",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2212,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Deutsche Welle",
-      "title": "La OMS aprueba una segunda vacuna antimalaria para ni\u00f1os",
-      "description": "El nuevo preparado desarrollado por cient\u00edficos de la Universidad de Oxford ofrece una protecci\u00f3n de hasta un 75%. La malaria es una enfermedad potencialmente mortal que se transmite a las personas a trav\u00e9s de mosquitos. La Organizaci\u00f3n Mundial de la Salud (O\u2026",
-      "url": "https://www.dw.com/es/la-oms-aprueba-una-segunda-vacuna-antimalaria-para-ni%C3%B1os/a-66982772",
-      "urlToImage": "https://static.dw.com/image/65427115_6.jpg",
-      "publishedAt": "2023-10-02 15:16:00",
-      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) aprob\u00f3 este lunes (02.10.2023) el uso en ni\u00f1os de una segunda vacuna contra la malaria, enfermedad transmitida por mosquitos que mata a cientos de miles de p\u2026 [+2427 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.930273",
-      "internal_id": "3fe80bed25c2a28de94965579cbc62de40e6035d73ac692d4c1d5b6b2437d954",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2192,
-      "query": [
-        "dengue",
-        "meningitis",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "La OMS anuncia la aprobaci\u00f3n de una segunda vacuna contra la malaria",
-      "description": "El director de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, ha anunciado la recomendaci\u00f3n de una segunda vacuna contra la malaria, 'R21/Matrix-M', desarrollada por la Universidad de Oxford (Reino Unido).",
-      "url": "https://www.infosalus.com/actualidad/noticia-oms-anuncia-aprobacion-segunda-vacuna-contra-malaria-20231002171311.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231002171311_1200.jpg",
-      "publishedAt": "2023-10-02 15:13:11",
-      "content": "Tambi\u00e9n ha anunciado la recomendaci\u00f3n de una vacuna contra el dengue y otra contra la meningitis MADRID, 2 Oct. (EUROPA PRESS) - El director de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros \u2026 [+6314 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.427203",
-      "internal_id": "26049628828ccff3021825cedca3eb288cc8f2256ebda0064e69ca8d465235b3",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2219,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Reuters",
-      "title": "WHO recommends malaria vaccine roll out in some African countries",
-      "description": "The World Health Organization (WHO) has recommended the use of a second malaria vaccine, called R21/Matrix-M, to combat the spread of the disease. The vaccine, developed by the University of Oxford, will be rolled out in African countries in early 2024. It is\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/who-recommends-malaria-vaccine-roll-out-in-early-2024-in-some-african-countries/articleshow/104111248.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104111285,width-1070,height-580,imgsize-1459725,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-02 14:49:52",
-      "content": "Katalin Kariko, Drew Weissman get Nobel Prize in medicine for study that led to development of mRNA vaccines",
-      "retrievedAt": "2023-10-03 19:05:26.951629",
-      "internal_id": "819cb176adb3838df18e55f995f27dab717e21279995ebef42a493a03a67ac13",
       "publishedAtLabel": "Oct 2"
     }
   ]
