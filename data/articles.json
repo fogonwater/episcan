@@ -1,8 +1,369 @@
 {
-  "last_updated": "2023-10-10 07:05",
+  "last_updated": "2023-10-10 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 2425,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WOWT",
+      "author": "6 News Staff Reports",
+      "title": "Douglas County Health Department warning of kitten infected with rabies",
+      "description": "The Douglas County Health Department is asking the public to take extra care around stray animals -- a stray kitten in the county was found to have rabies.",
+      "url": "https://www.wowt.com/2023/10/09/douglas-county-health-department-warning-kitten-infected-with-rabies/",
+      "urlToImage": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/DtaSE0kvM3np_2wC7FQJGAmTLxE=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/MWTMNNK37RCG5HYRJ3BXGYQZNU.png",
+      "publishedAt": "2023-10-09 17:56:24",
+      "content": "OMAHA, Neb. (WOWT) - The Douglas County Health Department is asking the public to take extra care around stray animals -- a stray kitten in the county was found to have rabies. DCHD said there were \u2026 [+493 chars]",
+      "retrievedAt": "2023-10-10 19:05:14.591913",
+      "internal_id": "6cae883e6a6f0887b6273e5a1afa4e67965a1105873d6cd65a4a5b4cca1dab38",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2439,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "info@scidev.net (SciDev.Net)",
+      "title": "Africa: African Firms 'Need Know-How to Make New Malaria Jab'",
+      "description": "[SciDev.Net] London/Douala/Lagos -- Vaccine developers must share the know-how behind a groundbreaking new malaria jab so it can be rolled out efficiently to poor populations in Africa that need it most, according to a senior malaria advisor to the continent'\u2026",
+      "url": "https://allafrica.com/stories/202310090600.html",
+      "urlToImage": "https://cdn03.allafrica.com/download/pic/main/main/csiid/00640231:611c5fe270bd22ba8a7084f4a423f1a7:arc614x376:w1200.jpg",
+      "publishedAt": "2023-10-09 17:21:42",
+      "content": "London/Douala/Lagos \u2014 Vaccine developers must share the know-how behind a groundbreaking new malaria jab so it can be rolled out efficiently to poor populations in Africa that need it most, according\u2026 [+5705 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.865852",
+      "internal_id": "5e0d7b8c4829f3f47ad37a52be50fd02b8c9980ce51d92073b65b18580a96291",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2443,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Joan Guix",
+      "title": "\u00bfCu\u00e1ndo ser\u00e1 la pr\u00f3xima pandemia?",
+      "description": "Que sufrimos pandemias, no es extraordinario. Hace 46 a\u00f1os sufr\u00edamos la gripe rusa, que supuso unas 700.000 muertes en todo el mundo. Ya no lo recordamos. Posteriormente SIDA, gripe aviar, la gripe porcina en 2008, el MERS, la Zika... Muchas de estas, ocasion\u2026",
+      "url": "https://www.elperiodico.com/es/opinion/20231009/proxima-pandemia-futuro-articulo-joan-guix-aniversario-periodico-92968794",
+      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/89bd1a4c-b729-4930-b1ca-c7cf99cd1b8c_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-10-09 16:54:02",
+      "content": "Que sufrimos pandemias, no es extraordinario. Hace 46 a\u00f1os sufr\u00edamos la gripe rusa, que supuso unas 700.000 muertes en todo el mundo. Ya no lo recordamos. Posteriormente SIDA, gripe aviar, la gripe p\u2026 [+3939 chars]",
+      "retrievedAt": "2023-10-10 19:05:16.110934",
+      "internal_id": "9929f94f593336d3bfa6477f46cb8565ff8c9af0c0c113cac94f728421660f76",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2438,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Djimde, M., Tshiongo, J. K., Muhindo, H. M., Tinto, H., Sevene, E., Traore, M., Vala, A., Macuacua, S., Kabore, B., Dabira, E. D., Erhart, A., Diakite, H., Keita, M., Piqueras, M., Gonzalez, R., Menendez, C., Dorlo, T. P., Sagara, I., Mens, P., Schallig, H., D'Alessandro, U., Kayentao, K.",
+      "title": "Efficacy and safety of pyronaridine-artesunate (PYRAMAX) for the treatment of P. falciparum uncomplicated malaria in African pregnant women (PYRAPREG): study protocol for a phase 3, non-inferiority, randomised open-label clinical trial",
+      "description": "Introduction Malaria infection during pregnancy increases the risk of low birth weight and infant mortality and should be prevented and treated. Artemisinin-based combination treatments are generally well tolerated, safe and effective; the most used being a\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/10/e065295?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-10-09 15:40:19",
+      "content": "Introduction Pregnancy is associated with hormonal changes and reduced immunity that make pregnant women more vulnerable to malaria.1 Malaria during pregnancy increases the risk of low birth weight \u2026 [+4690 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.862444",
+      "internal_id": "f5bcba6f68b038431b5534c69423d055dcc54577446a6e7a0435bb0dc7e9eef4",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2436,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Mart\u00edn Bastos",
+      "title": "Carolina Molas, suegra de Tamara Falc\u00f3: \u00abSomos exiliados de ETA. Nos fuimos de madrugada y nunca pudimos volver\u00bb",
+      "description": "La madre de \u00cd\u00f1igo Onieva revela en una entrevista que a los 25 a\u00f1os ya ten\u00eda cuatro hijos y uno de ellos falleci\u00f3 con 7 a\u00f1os a causa de una meningitis",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2023/10/09/carolina-molas-suegra-tamara-falco-exiliados-eta-fuimos-madrugada-nunca-pudimos-volver/00031696859030294218793.htm",
+      "urlToImage": "https://www.lavozdegalicia.es/default/2023/10/09/00121696859922691641655/Foto/carolinamolas.jpg",
+      "publishedAt": "2023-10-09 14:58:00",
+      "content": "Ha saltado a la fama de forma repentina a raz del noviazgo de su hijo, igo Onieva, con Tamara Falc y muy especialmente con motivo de la breve y polmica ruptura de la pareja. Esta relacin hadado relev\u2026 [+3317 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.514442",
+      "internal_id": "3ef06ab8594d8f3af516b4241c6ffd7b5a810110daceb66e58a26c7ad4d2586a",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2434,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jay Lubow, Lisa M. Levoir, Duncan K. Ralph, Laura Belmont, Maya Contreras, Catiana H. Cartwright-Acar, Caroline Kikawa, Shruthi Kannan, Edgar Davidson, Veronica Duran, David E. Rebellon-Sanchez, Ana M. Sanz, Fernando Rosso, Benjamin J. Doranz, Shirit Einav, Frederick A. Matsen IV, Leslie Goo",
+      "title": "Single B cell transcriptomics identifies multiple isotypes of broadly neutralizing antibodies against flaviviruses",
+      "description": "Author summary A central challenge for developing clinical interventions for dengue virus or the closely related Zika virus is the ability of IgG antibodies to enhance, rather than neutralize infection under certain conditions. When present prior to infection\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011722",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011722.g007&size=inline",
+      "publishedAt": "2023-10-09 14:00:00",
+      "content": "Citation: Lubow J, Levoir LM, Ralph DK, Belmont L, Contreras M, Cartwright-Acar CH, et al. (2023) Single B cell transcriptomics identifies multiple isotypes of broadly neutralizing antibodies against\u2026 [+87858 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.320355",
+      "internal_id": "d171fc9f84a2cbacc9ea608b9e1f9cb119c8a6a73dfc62b1591bdd85802a7243",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2437,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Maria Holly Herawati, Besral, Dina Bisara Lolong, Noer Endah Pracoyo, Noor Edi Widya Sukoco, Hadi Supratikta, Meita Veruswati, Al Asyary",
+      "title": "Correction: Service availability and readiness of malaria surveillance information systems implementation at primary health centers in Indonesia",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292827",
+      "urlToImage": null,
+      "publishedAt": "2023-10-09 14:00:00",
+      "content": "There are errors in the Funding section. The correct Funding statement is: This publication of this study is funded by the Universitas Indonesia PUTI 2023 Award: NKB-432/UN2.RST/HKP.05.00/2023. This \u2026 [+941 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.851901",
+      "internal_id": "bf00032fcfef771d189ad8077a5c3455ed50f749f26acfe536ea1848397427eb",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2440,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sarah K. Wideman, Joe N. Frost, Felix C. Richter, Caitlin Naylor, Jos\u00e9 M. Lopes, Nicole Viveiros, Megan R. Teh, Alexandra E. Preston, Natasha White, Shamsideen Yusuf, Simon J. Draper, Andrew E. Armitage, Tiago L. Duarte, Hal Drakesmith",
+      "title": "Cellular iron governs the host response to malaria",
+      "description": "Author summary Malaria is a serious and potentially lethal infectious disease that affects nearly 250 million people each year. It is caused by Plasmodium species parasites that are transmitted between humans by mosquitoes. Iron deficiency is prevalent in mal\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011679",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011679.g007&size=inline",
+      "publishedAt": "2023-10-09 14:00:00",
+      "content": "Abstract Malaria and iron deficiency are major global health problems with extensive epidemiological overlap. Iron deficiency-induced anaemia can protect the host from malaria by limiting parasite g\u2026 [+84731 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.869327",
+      "internal_id": "4cb907c3db7496220727780e56a615f9e346f93791adefac81184162c6f74ac6",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2445,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Jennifer S. Lord, Michael B. Bonsall",
+      "title": "Mechanistic modelling of within-mosquito viral dynamics: Insights into infection and dissemination patterns",
+      "description": "Author summary Mosquitoes are vectors of viruses, like dengue or Zika, that can cause disease in humans. However, not all mosquito species and not all individuals are equally likely to become infected and subsequently transmit virus. To study the virus infect\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011520",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1011520.g006&size=inline",
+      "publishedAt": "2023-10-09 14:00:00",
+      "content": "Abstract Vector or host competence can be defined as the ability of an individual to become infected and subsequently transmit a pathogen. Assays to measure competence play a key part in the assessm\u2026 [+52152 chars]",
+      "retrievedAt": "2023-10-10 19:05:16.123119",
+      "internal_id": "eff1166181ed7bdf58554d69f12070d61a91b513c63d10d6450245535383195a",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2444,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Investigan f\u00e1rmacos que inactiven virus como el dengue, el VIH, el Zika o el Covid-19",
+      "description": "Un grupo de cient\u00edficos del Instituto de Medicina Molecular (IMM) de Lisboa y de la Universidad Pompeu Fabra de Barcelona est\u00e1 trabajando en el desarrollo de f\u00e1rmacos antivirales innovadores capaces de llegar al cerebro e inactivar virus como el dengue, el Zi\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-investigan-farmacos-inactiven-virus-dengue-vih-zika-covid-19-20231009133504.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231009133504_1200.jpg",
+      "publishedAt": "2023-10-09 11:35:04",
+      "content": "MADRID, 9 Oct. (EUROPA PRESS) - Un grupo de cient\u00edficos del Instituto de Medicina Molecular (IMM) de Lisboa y de la Universidad Pompeu Fabra de Barcelona est\u00e1 trabajando en el desarrollo de f\u00e1rmac\u2026 [+1870 chars]",
+      "retrievedAt": "2023-10-10 19:05:16.119650",
+      "internal_id": "969bc9e83190ebcf38120e61bf18daeec4b552410024b02aaea2677d0f416a2f",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2441,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "New Malaria Vaccines Offer a Real Shot at Fighting the Disease",
+      "description": "A malaria vaccine that could protect millions of children against the parasite-borne disease is expected to roll out early next year. It follows another formula that has already had moderate success.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171980221",
+      "urlToImage": null,
+      "publishedAt": "2023-10-09 11:14:49",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.877425",
+      "internal_id": "6b734088305b9e7861fe65565d1c5b1351e7dd72500cac913a9b946e924fd445",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2442,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Maryn McKenna",
+      "title": "New Malaria Vaccines Offer a Real Shot at Fighting the Disease",
+      "description": "A malaria vaccine that could protect millions of children against the parasite-borne disease is expected to roll out early next year. It follows another formula that has already had moderate success.",
+      "url": "https://www.wired.com/story/malaria-vaccine-oxford-approval/",
+      "urlToImage": "https://media.wired.com/photos/65209d3927a2ce331fadfa6d/191:100/w_1280,c_limit/Malaria-Vaccines-Science-1235759746.jpg",
+      "publishedAt": "2023-10-09 11:00:00",
+      "content": "Though homegrown malaria recently flared in the US, theres no high-income market for this product, says Aur\u00e9lia Nguyen, the chief program officer of Gavi, the Vaccine Alliance, which has made an init\u2026 [+2273 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.887897",
+      "internal_id": "0a31663ca0781abc48ae75f270e8387c691bff249032505bc0ac58f9d23d6ccf",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2427,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "India's Gill to miss Afghanistan match",
+      "description": "Shubman Gill will miss India's World Cup meeting with Afghanistan, the country's cricket board (BCCI) said on Monday, as the in-form opener continues his recovery from dengue fever.Gill is the leading run-scorer in one-day internationals this year and has for\u2026",
+      "url": "https://www.channelnewsasia.com/sport/indias-gill-miss-afghanistan-match-3832256",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--bWXHnKtb--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-09t103202z_2_lynxmpej980c7_rtroptp_3_cricket-worldcup-ind-aus.jpg?itok=da4xpOYx",
+      "publishedAt": "2023-10-09 10:32:02",
+      "content": "Shubman Gill will miss India's World Cup meeting with Afghanistan, the country's cricket board (BCCI) said on Monday, as the in-form opener continues his recovery from dengue fever. Gill is the lead\u2026 [+580 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.259273",
+      "internal_id": "bd09acfc235af9bf6ff84f479ffec6fc637b7b274a1477e647b852b8e6d79b8e",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2428,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Sports Desk",
+      "title": "ODI WC: Shubman Gill to miss match against Afghanistan",
+      "description": "Having already missed the opening World Cup match against Australia in Chennai on Sunday due to dengue fever, India's opener Subhman Gill will remain unavailable for the team's next game against Afghanistan, confirmed BCCI.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-shubman-gill-to-miss-match-against-afghanistan/articleshow/104283493.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104283510,width-1070,height-580,imgsize-45228,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-09 10:15:10",
+      "content": "IND VS AUS World Cup Thriller: Kohli-Rahul's record 4th wicket partnership powers India to 6 wicket victory",
+      "retrievedAt": "2023-10-10 19:05:15.294786",
+      "internal_id": "e14da611a0e776362d50dcf70f5e7448b83fba978e54b186c3158d529c7263af",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2426,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "espn-cric-info",
+      "source_name": "ESPN Cric Info",
+      "author": "ESPNcricinfo staff",
+      "title": "Shubman Gill to miss Afghanistan game as well",
+      "description": "The opener is recovering from a bout of dengue and will not travel to Delhi with the team",
+      "url": "https://www.espncricinfo.com/story/shubman-gill-to-miss-afghanistan-game-as-well-1402086",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/367700/367703.9.jpg",
+      "publishedAt": "2023-10-09 10:05:11",
+      "content": "Shubman Gill is recovering from a bout of dengue \u2022 AFP/Getty Images",
+      "retrievedAt": "2023-10-10 19:05:15.245588",
+      "internal_id": "3d55061101f8f6d241336d76b92111f5c5be236f50d3d1d507bae5beb00ec2de",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2431,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Aumentano casi di febbre dengue in Bangladesh",
+      "description": "epa10908675 People receive treatment for dengue fever at Mugda Medical College and Hospital in Dhaka, Bangladesh, 09 October 2023. (ANSA)",
+      "url": "https://www.ansa.it/sito/photogallery/curiosita/2023/10/09/aumentano-casi-di-febbre-dengue-in-bangladesh_af9816ae-66ea-4bd0-8b08-580e9d842007.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/9/bc22ee2065fb6f64e7927652242758c0.jpg",
+      "publishedAt": "2023-10-09 09:01:36",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.307227",
+      "internal_id": "ca474e5334df5834fa7273566cb921359ee260ae421c54a5519790763cfa2372",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2430,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Aumentano casi di febbre dengue in Bangladesh",
+      "description": "epa10908675 People receive treatment for dengue fever at Mugda Medical College and Hospital in Dhaka, Bangladesh, 09 October 2023. (ANSA)",
+      "url": "https://www.ansa.it/sito/photogallery/moda/2023/10/09/aumentano-casi-di-febbre-dengue-in-bangladesh_db43ed21-4423-4fa2-9a9c-335cd3cde711.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/9/bc22ee2065fb6f64e7927652242758c0.jpg",
+      "publishedAt": "2023-10-09 09:01:34",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.304447",
+      "internal_id": "1b86273717cf1a42a96a9f3089ce5fab0a8b7d1a31b833405731400b3c4707a2",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2433,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Aumentano casi di febbre dengue in Bangladesh",
+      "description": "epa10908675 People receive treatment for dengue fever at Mugda Medical College and Hospital in Dhaka, Bangladesh, 09 October 2023. (ANSA)",
+      "url": "https://www.ansa.it/sito/photogallery/sport/2023/10/09/aumentano-casi-di-febbre-dengue-in-bangladesh_a1c332fd-0756-40f0-9458-6014260de03c.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/9/bc22ee2065fb6f64e7927652242758c0.jpg",
+      "publishedAt": "2023-10-09 09:01:33",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.315220",
+      "internal_id": "1b675a54e46129fc774e6b11602b235b184d47872d1a80fca8aa22a36d6333c1",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2432,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Aumentano casi di febbre dengue in Bangladesh",
+      "description": "epa10908675 People receive treatment for dengue fever at Mugda Medical College and Hospital in Dhaka, Bangladesh, 09 October 2023. (ANSA)",
+      "url": "https://www.ansa.it/sito/photogallery/primopiano/2023/10/09/aumentano-casi-di-febbre-dengue-in-bangladesh_5f2742d0-625e-4085-b1c4-8096e561bb96.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/9/bc22ee2065fb6f64e7927652242758c0.jpg",
+      "publishedAt": "2023-10-09 09:01:30",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.312007",
+      "internal_id": "fd69b54e5df5702f42ea5840d3831641e04d7719b4a75fa195192b4676b1fca8",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2429,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Johor records 218% increase in dengue cases up to ME40 over last year",
+      "description": "JOHOR BARU: The number of cumulative dengue cases in Johor for epidemiological week 40 (ME40), Oct 1 to 7, went up to 7,994 cases compared with 2,518 in the corresponding period last year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/09/johor-records-218-increase-in-dengue-cases-up-to-me40-over-last-year",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/09/2326656.jpg",
+      "publishedAt": "2023-10-09 08:28:00",
+      "content": "JOHOR BARU: The number of cumulative dengue cases in Johor for epidemiological week 40 (ME40), Oct 1 to 7, went up to 7,994 cases compared with 2,518 in the corresponding period last year. This repr\u2026 [+1916 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.301439",
+      "internal_id": "acc475214c7e92fe64dff14e4b6eac65f37983bb48ac09a2b4683ab6b8a50606",
+      "publishedAtLabel": "Oct 9"
+    },
     {
       "id": 2415,
       "query": [
@@ -794,6 +1155,24 @@
       "content": "Nesta d\u00e9cada, a dengue vai se tornar uma grande amea\u00e7a no Sul dos Estados Unidos, no Sul da Europa e em novas partes da \u00c1frica, alertou o especialista em doen\u00e7as infecciosas da Organiza\u00e7\u00e3o Mundial \u2026 [+1688 chars]",
       "retrievedAt": "2023-10-07 19:05:10.692997",
       "internal_id": "7d2c7aa98a122114fcd4fad3d682066dcd396e68fd99f312fbe992526914703d",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2435,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "Compounding Risk Alerts",
+      "description": "FDA issues compounding risk alerts to communicate information to alert health care professionals to adverse events and outbreaks related to compounded drugs so that practitioners can more effectively protect patients from unsafe, ineffective, and poor quality\u2026",
+      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-risk-alerts",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2023-10-06 15:59:58",
+      "content": "Many serious patient illnesses and deaths linked to poor quality compounded drugs have occurred since the 2012 fungal meningitis outbreak. In response, FDA has established an Incidents Program to ide\u2026 [+2670 chars]",
+      "retrievedAt": "2023-10-10 19:05:15.509679",
+      "internal_id": "7d89b9c3040ac3028447a948f27e07960afd12d8f65bbcbf72cdbe44c3ca411f",
       "publishedAtLabel": "Oct 6"
     },
     {
@@ -3235,385 +3614,6 @@
       "content": "The World Health Organization (WHO) has authorised a second malaria vaccine, in a decision that could offer countries a cheaper and a more readily available option than the world's first shot against\u2026 [+4891 chars]",
       "retrievedAt": "2023-10-04 07:05:40.296732",
       "internal_id": "9a17476942ad4f7bf83f6116d6d46d25ea37ffdb4201445115cad14bcb83f170",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2240,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Paula Felix",
-      "title": "OMS recomenda vacinas contra mal\u00e1ria e dengue diante de onda de mosquitos",
-      "description": "Entidade fez alerta sobre risco das doen\u00e7as principalmente para crian\u00e7as; Qdenga foi aprovada para uso no Brasil em mar\u00e7o",
-      "url": "https://veja.abril.com.br/saude/oms-recomenda-vacinas-contra-malaria-e-dengue-diante-de-onda-de-mosquitos",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/aedes_aegypti-dengue2.webp?w=680&h=453&crop=1",
-      "publishedAt": "2023-10-02 22:47:48",
-      "content": "Diante do aumento das doen\u00e7as transmitidas por mosquitos em diferentes partes do mundo, a Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) divulgou nesta segunda-feira, 2, um comunicado recomendando a nova vacina \u2026 [+2768 chars]",
-      "retrievedAt": "2023-10-04 07:05:39.753532",
-      "internal_id": "011c2c32394c2fe1a6ade323001db644971adfd188d2e6b265028759bcf43d3b",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2263,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Vozdeamerica.com",
-      "author": "vozdeamerica@voanews.com (Associated Press)",
-      "title": "La OMS autoriza segunda vacuna contra la malaria",
-      "description": "La OMS autoriz\u00f3 una segunda vacuna para la malaria, basada en las recomendaci\u00f3n de dos grupos de expertos. Algunos pa\u00edses podr\u00edan tenerla el pr\u00f3ximo a\u00f1o si se consigue el financiamiento.",
-      "url": "https://www.vozdeamerica.com/a/oms-autoriza-segunda-vacuna-contra-malaria/7293861.html",
-      "urlToImage": "https://gdb.voanews.com/d00ef53f-48b7-47d8-b863-94865bdacf0a_w1200_r1.jpg",
-      "publishedAt": "2023-10-02 21:51:33",
-      "content": "LONDRES La Organizaci\u00f3n Mundial de Salud (OMS) autoriz\u00f3 el lunes una segunda vacuna para la malaria, una decisi\u00f3n que podr\u00eda ofrecer a los gobiernos una opci\u00f3n m\u00e1s barata y accesible que la primera \u2026 [+2183 chars]",
-      "retrievedAt": "2023-10-04 07:05:40.369939",
-      "internal_id": "9b51b8cec6761830ad4176e042bd7458be90c776d2be2a5b9645f4527ee08a6d",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2246,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Live Science",
-      "author": "Nicoletta Lanese",
-      "title": "Inexpensive new malaria vaccine is a 'vital tool' to protect tens of millions of people",
-      "description": "The World Health Organization has recommended the use of a malaria vaccine called Matrix-M, which is anticipated to boost the vaccine supply.",
-      "url": "https://www.livescience.com/health/viruses-infections-disease/inexpensive-new-malaria-vaccine-is-a-vital-tool-to-protect-tens-of-millions-of-people",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oDUWhJayYUsw7kMqQ3bbbU-1200-80.jpg",
-      "publishedAt": "2023-10-02 21:42:58",
-      "content": "The World Health Organization (WHO) has just recommended a second vaccine to prevent malaria in children, almost exactly two years after it recommended the world's first . When given seasonally, th\u2026 [+2631 chars]",
-      "retrievedAt": "2023-10-04 07:05:40.279639",
-      "internal_id": "a3794db2794409977ff747da7534876de9d3f47c1f8c4e492838032b7565d6b8",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2241,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "EFE",
-      "title": "Primera vacuna contra dengue recomendada por la OMS: \u00bfCu\u00e1l es su eficacia?",
-      "description": "La primera vacuna contra el dengue llega en un momento en el que la transmisi\u00f3n de la enfermedad incrementa a nivel mundial debido al cambio clim\u00e1tico.",
-      "url": "https://www.elfinanciero.com.mx/mundo/2023/10/02/primera-vacuna-contra-dengue-recomendada-por-la-oms-cual-es-su-eficacia/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/1QqLaFLyQG6iahuv37n7RRz7yos=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MFE5QPLJB5FIDGGILMBXRL4B34.jpg",
-      "publishedAt": "2023-10-02 21:37:31",
-      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) recomend\u00f3 hoy la primera vacuna contra el dengue, desarrollada por la farmac\u00e9utica japonesa Takeda, en un momento en el que la transmisi\u00f3n de esta enfermedad\u2026 [+3282 chars]",
-      "retrievedAt": "2023-10-04 07:05:39.772443",
-      "internal_id": "d5d12eca499a39fc4374789b98d9cb9e4dea1c4712a7dc8e6480d41a266a7afb",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2253,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": null,
-      "title": "WHO recommends new malaria vaccine",
-      "description": "The World Health Organization has recommended a new vaccine that is 75% effective against malaria, a disease which claims hundreds of thousands of children\u2019s lives each year. We speak to one of the scientists who developed it. Also in the programme: Former U\u2026",
-      "url": "https://www.bbc.co.uk/programmes/w172z09myy2h1hc",
-      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0gj0zmr.jpg",
-      "publishedAt": "2023-10-02 21:29:00",
-      "content": "The World Health Organization has recommended a new vaccine that is 75% effective against malaria, a disease which claims hundreds of thousands of childrens lives each year. We speak to one of the sc\u2026 [+462 chars]",
-      "retrievedAt": "2023-10-04 07:05:40.320997",
-      "internal_id": "d6f3d6e0742e8d42d7fa11d23e3cb02b45a35e4e9b37bff4a9d4ceabf7e6a1ba",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2243,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Alma Preta",
-      "title": "Estudo da Fiocruz aponta elevada coinfec\u00e7\u00e3o de dengue e chikungunya no Brasil",
-      "description": "Os resultados revelaram que o n\u00famero de casos de chikungunya em 2023 \u00e9 quase sete vezes superior ao registrado em 2022; prolifera\u00e7\u00e3o da dengue preocupa em territ\u00f3rios perif\u00e9ricos O post Estudo da Fiocruz aponta elevada coinfec\u00e7\u00e3o de dengue e chikungunya no Br\u2026",
-      "url": "https://www.terra.com.br/nos/estudo-da-fiocruz-aponta-elevada-coinfeccao-de-dengue-e-chikungunya-no-brasil,5cb0f8c8ce693015f70c57658b3780900ce74ngu.html",
-      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2023-10-02 21:01:16",
-      "content": "A partir da pesquisa conduzida pelo Instituto de Ci\u00eancias Biol\u00f3gicas (ICB) da Universidade Federal de Minas Gerais (UFMG), o Instituto de Tecnologia em Imunobiol\u00f3gicos (Bio-Manguinhos/Fiocruz) criou \u2026 [+2401 chars]",
-      "retrievedAt": "2023-10-04 07:05:39.785227",
-      "internal_id": "abc4072f65bd2889552671067c2e0736b367af763b8bf2da6308268e5d0f430c",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2258,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Corriere.it",
-      "author": "Giuseppe Remuzzi",
-      "title": "Non solo pandemia. Dalla malaria ai tumori questa tecnologia salver\u00e0 molte altre vite",
-      "description": "I due scienziati ai quali \u00e8 stato assegnato il Nobel per la Medicina e il valore del loro lavoro",
-      "url": "https://www.corriere.it/cronache/23_ottobre_02/non-solo-pandemia-malaria-tumori-questa-tecnologia-salvera-molte-altre-vite-83261396-615b-11ee-ad73-20266ed94fc1.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/10/02/13152460-615c-11ee-ad73-20266ed94fc1.jpg",
-      "publishedAt": "2023-10-02 19:49:21",
-      "content": "di Giuseppe RemuzziI due scienziati ai quali \u00e8 stato assegnato il Nobel per la Medicina e il valore del loro lavoro I l 7 ottobre del 2021 il New England Journal of Medicine pubblica un lavoro di Ly\u2026 [+3031 chars]",
-      "retrievedAt": "2023-10-04 07:05:40.340321",
-      "internal_id": "ded3c01a8731713c838ada6c89bbe76a9bc0ea4296e92ba59acbb60cf55f8a14",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2257,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Viswanath Pilla",
-      "title": "Oxford-Serum malaria vaccine wins WHO's recommendation",
-      "description": "The R21/Matrix-M malaria vaccine is an easily deployable vaccine that can be manufactured at mass scale at a modest cost, enabling as many as hundreds of millions of doses to be supplied to countries which are suffering a significant malaria burden, according\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/oxford-serum-malaria-vaccine-wins-whos-recommendation/articleshow/104113600.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104113614,width-1200,height-630,imgsize-67210,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-02 19:07:20",
-      "content": "Mumbai: A malaria vaccine jointly developed by University of Oxford and Serum Institute of India (SII), leveraging Novavax's adjuvant, has been recommended for use by the World Health Organization's \u2026 [+1797 chars]",
-      "retrievedAt": "2023-10-04 07:05:40.336296",
-      "internal_id": "d267a09a5eade57265ea10c933a2c4738212328325080589dc69ea59e5fdf1b3",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2169,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "al-jazeera-english",
-      "source_name": "Al Jazeera English",
-      "author": "Al Jazeera",
-      "title": "Bangladesh dengue deaths cross 1,000 in worst outbreak on record",
-      "description": "At least 1,017 die and nearly 209,000 infected, making 2023 the deadliest year since first recorded epidemic in 2000.",
-      "url": "https://www.aljazeera.com/news/2023/10/2/bangladesh-dengue-deaths-cross-1000-in-worst-outbreak-on-record",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-07-26T120217Z_331744566_RC2XA2ABJ6LD_RTRMADP_3_HEALTH-BANGLADESH-DENGUE-1696270106.jpg?resize=1920%2C1440",
-      "publishedAt": "2023-10-02 19:04:48",
-      "content": "More than 1,000 people in Bangladesh have died of dengue fever this year, official data shows nearly four times more than in the whole of last year. At least 1,017 people have died in the first nine\u2026 [+2625 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.358139",
-      "internal_id": "892e1ea0882f45d47bafa91617505c76051db5e813807ff6f76fc94387f0bf81",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2171,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Anuradha Mascarenhas",
-      "title": "Indian scientists welcome Nobel Prize for medicine, say mRNA vaccines can be developed for TB, dengue, other diseases",
-      "description": "Dr Vinod Paul, member, the National Institution for Transforming India (NITI Aayog),said the mRNA pathway for vaccines has opened new doors.",
-      "url": "https://indianexpress.com/article/cities/pune/indian-scientists-welcome-nobel-prize-for-medicine-say-mrna-vaccines-can-be-developed-for-tb-dengue-other-diseases-8965746/",
-      "urlToImage": "https://images.indianexpress.com/2023/10/mRNA.jpg",
-      "publishedAt": "2023-10-02 19:03:00",
-      "content": "Two scientists, Hungarian-born American Katalin Karik\u00f3 and American Drew Weissman, won the Nobel Prize in medicine on Monday for discoveries that enabled the creation of mRNA vaccines against Covid-1\u2026 [+2431 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.363839",
-      "internal_id": "956f2d8f93efe07a3199df193d833e0267d8409339d05f08e1359376f317dca8",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2224,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: New Malaria Vaccine Will Save Lives of Millions of Children",
-      "description": "[allAfrica] Harare -- The World Health Organization (WHO) has recommended a new, inexpensive malaria vaccine to prevent malaria in children that can be produced on a massive scale.",
-      "url": "https://allafrica.com/stories/202310020616.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-02 18:47:02",
-      "content": "Harare \u2014 The World Health Organization (WHO) has recommended a new, inexpensive malaria vaccine to prevent malaria in children that can be produced on a massive scale. The new vaccine, R21/Matrix-M,\u2026 [+4134 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.963281",
-      "internal_id": "ec986c3ca8126302c1894dbcf75325e6d69371a8f1f4f605b12804ae38a74745",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2201,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Virginia Fonseca \u00e9 diagnosticada com dengue e se recupera em mans\u00e3o: 'Fecho o olho e tudo roda'",
-      "description": "No \u00faltimo s\u00e1bado (30), a influenciadora j\u00e1 havia passado mal, foi atendida por uma equipe m\u00e9dica e medicada; marido e filhas passam bem",
-      "url": "https://entretenimento.r7.com/famosos-e-tv/virginia-fonseca-e-diagnosticada-com-dengue-e-se-recupera-em-mansao-fecho-o-olho-e-tudo-roda-02102023",
-      "urlToImage": "https://img.r7.com/images/virginia-fonseca-02102023120932991?crop_position=c&dimensions=340x191",
-      "publishedAt": "2023-10-02 18:46:00",
-      "content": "Virginia Fonseca \u00e9 diagnosticada com dengue Reprodu\u00e7\u00e3o/Instagram A influenciadora Virginia Fonseca, dona de um perfil com mais de 44 milh\u00f5es de seguidores apenas no Instagram, foi diagnostic\u2026 [+1338 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.457197",
-      "internal_id": "d960e20e2c6eac9dc4a39756757719c5342b6a8fdc8b84b29334f51fd4b1a817",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2202,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "tagesschau.de",
-      "author": "tagesschau.de",
-      "title": "WHO empfiehlt neuen Malaria-Impfstoff f\u00fcr Kinder",
-      "description": "Etwa 500.000 Kinder sterben jedes Jahr an Malaria. Die WHO hat nun einen zweiten Impfstoff gegen die Tropenkrankheit f\u00fcr Kinder empfohlen. Er kostet nur rund vier Dollar und ist laut Studien sehr wirksam.",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/who-malaria-impfstoff-kinder-100.html",
-      "urlToImage": "https://images.tagesschau.de/image/e01f1271-de89-4296-b040-715ef29531f5/AAABivGyEPo/AAABibBxqrQ/16x9-1280/malaria-126.jpg",
-      "publishedAt": "2023-10-02 18:41:33",
-      "content": "Stand: 02.10.2023 20:41 Uhr Etwa 500.000 Kinder sterben jedes Jahr an Malaria. Die WHO hat nun einen zweiten Impfstoff gegen die Tropenkrankheit f\u00fcr Kinder empfohlen. Er kostet nur rund vier Dollar \u2026 [+1297 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.901532",
-      "internal_id": "8f54cdf303dbc8e68b2c74d8b85d7b5723d388cc0dc7d85d5eb1a393172a2dec",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2235,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "news24",
-      "title": "News24 | WHO recommends a second malaria vaccine for children, plugging supply gap",
-      "description": "The UN's health agency on Monday recommended a second malaria vaccine for children, which could save hundreds of thousands of lives by plugging a huge supply and demand gap.",
-      "url": "https://www.news24.com/news24/world/news/who-recommends-a-second-malaria-vaccine-for-children-plugging-supply-gap-20231002",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10788/687a0709bf6d4503b8de6dba832877dc.jpg",
-      "publishedAt": "2023-10-02 18:38:04",
-      "content": "The World Health Organisation has added a second malaria vaccine to its recommendation for children.The current vaccine, RTS,S, is in short supply. With R21/Matrix-M on the recommend\u2026 [+3514 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.987331",
-      "internal_id": "7c59882644420d8925787e714ca8acede9c98ecba64ab2c6f6223d111a374bf8",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2228,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "info@who.int (WHO)",
-      "title": "Africa: WHO Recommends R21/Matrix-M Vaccine for Malaria Prevention in Updated Advice On Immunization",
-      "description": "Press Release - The World Health Organization (WHO) has recommended a new vaccine, R21/Matrix-M, for the prevention of malaria in children. The recommendation follows advice from the WHO: Strategic Advisory Group of Experts on Immunization (SAGE) and the Mala\u2026",
-      "url": "https://allafrica.com/stories/202310020615.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-02 18:36:02",
-      "content": "The World Health Organization (WHO) has recommended a new vaccine, R21/Matrix-M, for the prevention of malaria in children. The recommendation follows advice from the WHO: Strategic Advisory Group of\u2026 [+9421 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.972001",
-      "internal_id": "c334b6cd1b8b13997f10131f827cc27b83917cefd4e73a159f7b1ba3a610ac78",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2234,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Svenska.yle.fi",
-      "author": null,
-      "title": "WHO gav gr\u00f6nt ljus f\u00f6r ett nytt malariavaccin f\u00f6r barn",
-      "description": "Enligt WHO d\u00f6r ett barn i malaria varje minut.",
-      "url": "https://svenska.yle.fi/a/7-10042770",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/f_auto,fl_progressive/q_auto/w_3000,h_1679,c_crop,x_0,y_62/w_1200/w_1200,ar_16:9/w_1320,ar_1320:675,c_pad,b_white,g_east/l_39-yle-logo-some_ywtrrc,g_west,ar_1320:675,w_1.0,fl_relative,c_crop/v1696271166/39-1180269651b0b1bd477e.jpg",
-      "publishedAt": "2023-10-02 18:34:05",
-      "content": "Malaria \u00e4r en av v\u00e4rldens d\u00f6dligaste sjukdomar. Enligt WHO d\u00f6r ett barn i malaria varje minut. V\u00e4rldsh\u00e4lsoorganisationen WHO gav p\u00e5 m\u00e5ndagen gr\u00f6nt ljus f\u00f6r ett nytt malariavaccin f\u00f6r barn. F\u00f6r n\u00e4s\u2026 [+1285 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.984922",
-      "internal_id": "f16e144380943bf7e2a202e86f849f60e3056e2e1f2b2717b9f5ac3c7a8c52c2",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2225,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: RBM Partnership to End Malaria welcomes WHO's recommendation of world's second malaria vaccine",
-      "description": "Press Release - Global malaria community calls for increased investment in development and scale-up of malaria innovations following R21 vaccine announcement- but RBM Partnership warns \u201cit\u2019s not the only solution\u201d.",
-      "url": "https://allafrica.com/stories/202310020613.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-02 18:27:29",
-      "content": "Global malaria community calls for increased investment in development and scale-up of malaria innovations following R21 vaccine announcement- but RBM Partnership warns \u201cit\u2019s not the only solution\u201d. \u2026 [+6555 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.965438",
-      "internal_id": "c282a638393f526aeb2abdb31c6d9f404d9f8c56775af4f420ed2ea15fe49ede",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2230,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: Oxford R21/Matrix-M\u2122 malaria vaccine receives World Health Organization recommendation for use paving the way for global roll-out",
-      "description": "[Oxford University] The highly effective vaccine developed by the University of Oxford and the Serum Institute of India, leveraging Novavax's adjuvant is critical to reducing over half a million malaria-related deaths annually.",
-      "url": "https://allafrica.com/stories/202310020612.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-02 18:21:31",
-      "content": "The highly effective vaccine developed by the University of Oxford and the Serum Institute of India, leveraging Novavax's adjuvant is critical to reducing over half a million malaria-related deaths a\u2026 [+8868 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.976389",
-      "internal_id": "2c3ffa9a1c6052b1d6b4125a4d5654bfd08535ac2ee7240c33129c4fc26bfc1b",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2226,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Viswanath Pilla",
-      "title": "Malaria vaccine by Oxford-Serum Institute of India gets WHO recommendation",
-      "description": "The University of Oxford and Serum Institute of India (SII) have developed a malaria vaccine, which has been recommended for use by the World Health Organization (WHO). The R21/Matrix-M vaccine can be produced at a large scale and low cost, making it accessib\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/malaria-vaccine-by-oxford-serum-institute-of-india-gets-who-recommendation/articleshow/104113137.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104113127,width-1200,height-630,imgsize-22258,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-02 18:09:25",
-      "content": "A malaria vaccine jointly developed by University of Oxford and Serum Institute of India (SII), leveraging Novavax's adjuvant, has been recommended for use by the World Health Organization's Strategi\u2026 [+1150 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.967356",
-      "internal_id": "65bcc036487b005bee4b2be53b11fd81ed48d43abfa3b59a2558e055b4eda5ec",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2233,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Viswanath Pilla",
-      "title": "Malaria vaccine by Oxford & Serum Institute of India gets WHO recommendation",
-      "description": "The University of Oxford and Serum Institute of India (SII) have developed a malaria vaccine, which has been recommended for use by the World Health Organization (WHO). The R21/Matrix-M vaccine can be produced at a large scale and low cost, making it accessib\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/malaria-vaccine-by-oxford-serum-institute-of-india-gets-who-recommendation/articleshow/104113083.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104113127,width-1200,height-630,imgsize-22258,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-02 18:09:25",
-      "content": "A malaria vaccine jointly developed by University of Oxford and Serum Institute of India (SII), leveraging Novavax's adjuvant, has been recommended for use by the World Health Organization's Strategi\u2026 [+1491 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.982893",
-      "internal_id": "4c6326c3b2b1dc8a10640a384565a4ff659fd8d3c07a12a25e2c19af98ce8825",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2181,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Lusa",
-      "title": "OMS recomenda vacina contra dengue em zonas com elevada preval\u00eancia",
-      "description": "Com a transmiss\u00e3o de dengue a aumentar, em especial na Am\u00e9rica Latina, a OMS recomenda a vacina\u00e7\u00e3o para tentar controlar a doen\u00e7a",
-      "url": "https://expresso.pt/sociedade/saude/2023-10-02-OMS-recomenda-vacina-contra-dengue-em-zonas-com-elevada-prevalencia-8976f0c0",
-      "urlToImage": "https://images.impresa.pt/expresso/2023-10-02-Dengue-29789f11-1/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-10-02 17:32:01",
-      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) recomendou hoje a vacina contra a febre dengue em zonas com elevada preval\u00eancia, como a Am\u00e9rica Latina, onde a transmiss\u00e3o est\u00e1 a aumentar, devido a fatores que i\u2026 [+1360 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.395763",
-      "internal_id": "22e2c167b9f488c1d8017fb114849590590955d2367e512834c708e06b28faae",
       "publishedAtLabel": "Oct 2"
     }
   ]
