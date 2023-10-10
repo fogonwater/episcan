@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-10-09 19:05",
+  "last_updated": "2023-10-10 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 2415,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "Shubman Gill likely to skip match against Afghanistan, will travel with team to Delhi: Source",
+      "description": "Indian opener Subhman Gill, who missed the opening match of the ODI World Cup due to dengue, is recovering and will be traveling with the team to Delhi. However, his participation in the game against Afghanistan will depend on his next medical report. In Indi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/shubman-gill-likely-to-skip-match-against-afghanistan-will-travel-with-team-to-delhi-source/articleshow/104276029.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104276315,width-1200,height-630,imgsize-80744,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-09 06:23:21",
+      "content": "Team India's opener Subhman Gill is recovering fast from Dengue, the batsman missed the opener of the ODI World Cup and now he could miss the game against Afghanistan also as he is in the mode of rec\u2026 [+1991 chars]",
+      "retrievedAt": "2023-10-10 07:05:40.123885",
+      "internal_id": "45f8f6a5a966df109e7c25012b7d64415ac875a737f841492895703c364bfd09",
+      "publishedAtLabel": "Oct 9"
+    },
+    {
+      "id": 2414,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "M. Albert Hern\u00e1ndez",
+      "title": "Dengue en Tabasco: alertan por ocho muertes",
+      "description": "La Secretar\u00eda de Salud de Tabasco confirm\u00f3 m\u00e1s de 930 casos de dengue y hay m\u00e1s de 7 mil probables a\u00fan en estudio.",
+      "url": "https://www.elfinanciero.com.mx/estados/2023/10/08/dengue-en-tabasco-alertan-por-ocho-muertes/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/fjqLpcOJMkA4Ug6IXRwGOSX66hE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FQGTRZU63BFNRLWH6DV6ZRIZPY.jpg",
+      "publishedAt": "2023-10-08 23:40:52",
+      "content": "Tabasco enfrenta una emergencia epidemiol\u00f3gica en el estado debido al brote de dengue que ha afectado a la regi\u00f3n en las \u00faltimas semanas y que podr\u00eda agravarse con la temporada de lluvias. La Secret\u2026 [+2093 chars]",
+      "retrievedAt": "2023-10-10 07:05:40.099517",
+      "internal_id": "86a1c28addb2f3d4917a3b65d27c4249089bc89c6c66310ca2f5cf50b07f7d68",
+      "publishedAtLabel": "Oct 8"
+    },
+    {
+      "id": 2413,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Wolbachia-infected mozzies to the rescue",
+      "description": "MELAKA: The state Health Department will release mosquitoes infected with Wolbachia in more areas, especially in Melaka Tengah, in stages in an effort to reduce dengue cases. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/09/wolbachia-infected-mozzies-to-the-rescue",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/09/2325888.jpg",
+      "publishedAt": "2023-10-08 23:00:00",
+      "content": "MELAKA: The state Health Department will release mosquitoes infected with Wolbachia in more areas, especially in Melaka Tengah, in stages in an effort to reduce dengue cases. Its director Datuk Dr R\u2026 [+890 chars]",
+      "retrievedAt": "2023-10-10 07:05:40.083423",
+      "internal_id": "29e84f28d8d5d4ef2a17fa1092e48f082250896b2cbf2fd3b71ef82bc266a27d",
+      "publishedAtLabel": "Oct 8"
+    },
     {
       "id": 2406,
       "query": [
@@ -40,6 +94,24 @@
       "publishedAtLabel": "Oct 8"
     },
     {
+      "id": 2418,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Stvincenttimes.com",
+      "author": "Lee Yan Lasur",
+      "title": "Barbados dengue fever outbreak confirmed by the Islands Health Ministry",
+      "description": "Barbados' Ministry of Health and Wellness has verified a dengue disease outbreak. Dr Kenneth George, Chief Medical Offic",
+      "url": "https://www.stvincenttimes.com/barbados-dengue-fever-outbreak-confirmed-by-the-islands-health-ministry/",
+      "urlToImage": "https://www.stvincenttimes.com/wp-content/uploads/2021/11/dengue.jpg",
+      "publishedAt": "2023-10-08 14:24:39",
+      "content": "Barbados\u2019 Ministry of Health and Wellness has verified a dengue disease outbreak. Dr Kenneth George, Chief Medical Officer, revealed that the threshold was surpassed at the end of September, when 51\u2026 [+1849 chars]",
+      "retrievedAt": "2023-10-10 07:05:40.144583",
+      "internal_id": "556d6bf973477e3fd30cd5a21c81ea275a1bf7bba0f3a6f7bf07ae6c9eba0887",
+      "publishedAtLabel": "Oct 8"
+    },
+    {
       "id": 2410,
       "query": [
         "dengue"
@@ -73,6 +145,42 @@
       "content": ", Getty Images Article informationAuthor, Role, BBC Future , ? , , . 14 , , , Yersinia pestis, . , , . , . - , , . , , \" \". , . . , , . , , , . ,\u2026 [+809 chars]",
       "retrievedAt": "2023-10-09 19:05:33.218412",
       "internal_id": "5d0e47d23e61c77ad343e811d794da47e2151126bcab3893aa2ca5a9c6e6405b",
+      "publishedAtLabel": "Oct 8"
+    },
+    {
+      "id": 2416,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Hindi.Moneycontrol.com Team, Moneycontrol Hindi",
+      "title": "Dengue: \u092a\u092a\u0940\u0924\u093e \u0915\u093e \u092b\u0932 \u0928\u0939\u0940\u0902 \u092a\u0924\u094d\u0924\u094b\u0902 \u0938\u0947 \u0921\u0947\u0902\u0917\u0942 \u092d\u0917\u093e\u090f\u0902, \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c\u0947\u0902\u0917\u0940 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938, \u091c\u093e\u0928\u093f\u090f \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 \u0938\u0947\u0935\u0928",
+      "description": "Dengue: \u0926\u093f\u0932\u094d\u0932\u0940- NCR \u0938\u092e\u0947\u0924 \u0926\u0947\u0936 \u0915\u0947 \u0915\u0908 \u0907\u0932\u093e\u0915\u094b\u0902 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0940 \u0932\u0939\u0930 \u091a\u0932 \u0930\u0939\u0940 \u0939\u0948\u0964 \u090f\u0921\u0940\u091c \u092e\u091a\u094d\u091b\u0930 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u0938\u0947 \u0921\u0947\u0902\u0917\u0942 \u092c\u0941\u0916\u093e\u0930 (dengue fever) \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c \u0930\u0939\u0947 \u0939\u0948\u0902\u0964 \u0921\u0947\u0902\u0917\u0942 \u090f\u0915 \u0917\u0902\u092d\u0940\u0930 \u0935\u093e\u092f\u0930\u0932 \u092c\u0940\u092e\u093e\u0930\u0940 \u0939\u0948\u0964 \u091c\u093f\u0938\u0938\u0947 \u0939\u0930 \u0938\u093e\u0932 \u092d\u093e\u0930\u0924 \u092e\u0947\u0902 \u0939\u091c\u093e\u0930\u094b\u0902 \u0932\u094b\u0917 \u092a\u094d\u0930\u092d\u093e\u0935\u093f\u0924 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964 \u091c\u092c \u092d\u0940 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u092a\u094d\u0930\u0915\u094b\u092a \u092b\u0948\u0932\u2026",
+      "url": "https://hindi.moneycontrol.com/news/india/trends/dengue-papaya-leaves-increase-platelets-fever-patient-know-how-to-consume-it-1532221.html",
+      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2023/10/papayaLeaf-637x435.jpg",
+      "publishedAt": "2023-10-08 10:35:15",
+      "content": "Dengue: - NCR (dengue fever) (platelets count) , (how to increase platelets count) - (papain), (chymopapain), (cystatin), - (L-tocopherol), (ascorbic acid), (flavonoids), (cyanogenic glucosides)\u2026 [+63 chars]",
+      "retrievedAt": "2023-10-10 07:05:40.137998",
+      "internal_id": "84f446617404b253ea3fe86b541ac7163c7d7d1760ae12f7e0fe852f06ee8c30",
+      "publishedAtLabel": "Oct 8"
+    },
+    {
+      "id": 2423,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "PTI",
+      "title": "Cricket World Cup 2023: Australia opt to bat against India; Ishan Kishan replaces Gill",
+      "description": "Cummins won the toss and chose to bat first in the World Cup opener between India and Australia. Shubman Gill was replaced by Ishan Kishan due to dengue. India: Rohit Sharma (c), Ishan Kishan, Virat Kohli, Shreyas Iyer, KL Rahul (wk), Hardik Pandya, Ravindra \u2026",
+      "url": "https://www.thehindubusinessline.com/news/sports/cricket-world-cup-2023-australia-opt-to-bat-against-india-ishan-kishan-replaces-gill/article67395739.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/gr1u9p/article67395743.ece/alternates/LANDSCAPE_1200/image%20-%202023-10-08T142253.310.jpg",
+      "publishedAt": "2023-10-08 08:57:52",
+      "content": "Australia captain Pat Cummins opted to bat first against India after winning the toss in their World Cup opener here on Sunday. Talented India opener Shubman Gill, who is down with dengue, could no\u2026 [+604 chars]",
+      "retrievedAt": "2023-10-10 07:05:40.155651",
+      "internal_id": "1051afc091703b59da6581207bfcd7c63f3c65804ddd9f23ca576d6487a329a7",
       "publishedAtLabel": "Oct 8"
     },
     {
@@ -130,6 +238,24 @@
       "publishedAtLabel": "Oct 8"
     },
     {
+      "id": 2422,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Republic World",
+      "author": "Sadhna Mishra",
+      "title": "Curry Leaf: \u0915\u0930\u0940 \u092a\u0924\u094d\u0924\u0947 \u092e\u0947\u0902 \u091b\u0941\u092a\u0947 \u0939\u0948\u0902 \u0938\u0947\u0939\u0924 \u0915\u0947 \u0915\u0908 \u0930\u093e\u091c, \u0916\u093e\u0928\u0947 \u0915\u093e \u0938\u094d\u0935\u093e\u0926 \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0905\u0932\u093e\u0935\u093e \u091c\u093e\u0928\u093f\u090f \u092f\u0947 \u092b\u093e\u092f\u0926\u0947",
+      "description": "\u0915\u0930\u0940 \u092a\u0924\u094d\u0924\u0947 \u092e\u0947\u0902 \u0915\u0908 \u0910\u0938\u0947 \u0917\u0941\u0923 \u091b\u0941\u092a\u0947 \u0939\u0941\u090f \u0939\u0948 \u091c\u093f\u0938\u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092c\u0939\u0941\u0924 \u0939\u0940 \u0915\u092e \u0932\u094b\u0917 \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902\u0964 \u0906\u0907\u090f \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902 \u0916\u093e\u0928\u0947 \u0915\u093e \u0938\u094d\u0935\u093e\u0926 \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0905\u0932\u093e\u0935\u093e \u0907\u0938\u0915\u0947 \u0915\u094d\u092f\u093e \u092b\u093e\u092f\u0926\u0947 \u0939\u0948\u0902\u0964",
+      "url": "https://bharat.republicworld.com/lifestyle/health/curry-leaf-many-health-secrets-hidden-in-curry-leaves-apart-from-enhancing-taste-of-food-know-these-benefits",
+      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/16966712786521262eb5e8a.jpeg",
+      "publishedAt": "2023-10-08 03:55:34",
+      "content": "Curry Leaf Benefits: ... , - ... - ? , , , , C 4, , - - ? ... Dengue: , , Disclaimer: , - REPUBLIC BHARAT ... , ,",
+      "retrievedAt": "2023-10-10 07:05:40.153340",
+      "internal_id": "8de2bdcc8ef26029890f43c709f4cebcbe911d78c9907442cda25ab8ccaf04a0",
+      "publishedAtLabel": "Oct 8"
+    },
+    {
       "id": 2401,
       "query": [
         "malaria"
@@ -146,6 +272,24 @@
       "retrievedAt": "2023-10-09 07:05:48.540468",
       "internal_id": "36a69f2da5542cff2efc6dc893e389e60116aa942f9c7183336bb9fcb1412b0a",
       "publishedAtLabel": "Oct 8"
+    },
+    {
+      "id": 2419,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jamaica Observer",
+      "author": null,
+      "title": "Barbados Ministry of Health confirms outbreak of dengue fever",
+      "description": "BRIDGETOWN, Barbados, CMC \u2013 The Barbados Ministry of Health and Wellness has confirmed a dengue fever outbreak in Barbados. Chief Medical Officer, Dr Kenneth George, disclosed that the threshold was r...",
+      "url": "https://www.jamaicaobserver.com/latest-news/barbados-ministry-of-health-confirms-outbreak-of-dengue-fever/",
+      "urlToImage": "https://imengine.public.prod.jam.navigacloud.com/?uuid=5E596B50-CE93-491B-876A-CEA7D229063B&function=fit&type=preview",
+      "publishedAt": "2023-10-07 20:30:52",
+      "content": "BRIDGETOWN, Barbados, CMC The Barbados Ministry of Health and Wellness has confirmed a dengue fever outbreak in Barbados. Chief Medical Officer, Dr Kenneth George, disclosed that the threshold was r\u2026 [+1135 chars]",
+      "retrievedAt": "2023-10-10 07:05:40.146856",
+      "internal_id": "a0b6db0702f5f34dde2efef58c5d32bdd37f97ff099b9fb281a7e957355eac8e",
+      "publishedAtLabel": "Oct 7"
     },
     {
       "id": 2397,
@@ -199,6 +343,24 @@
       "content": "The World Health Organization has approved a new vaccine that scientists argue will be a game-changer in the fight against malaria, which kills half a million people in Africa every year. Trials ha\u2026 [+6614 chars]",
       "retrievedAt": "2023-10-08 19:05:14.248865",
       "internal_id": "a1a63c21dabf34a20f948e4c7676b341bf01fd4cdf6c85cd56895b5c34be46f4",
+      "publishedAtLabel": "Oct 7"
+    },
+    {
+      "id": 2424,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cricinformer.com",
+      "author": "Sudhanshu Ranjan Pandey",
+      "title": "\"He is feeling better...\": Rahul Dravid Provided Major Update On Shubman Gill's Health",
+      "description": "Amidst the uncertainty, there's a glimmer of hope for Indian cricket enthusiasts. Rahul Dravid, the man at the helm, provided an update that may soothe their",
+      "url": "https://cricinformer.com/he-is-feeling-better-rahul-dravid-provided-major-update-on-shubman-gills-health/",
+      "urlToImage": "https://cricinformer.com/wp-content/uploads/2023/03/rahul.png",
+      "publishedAt": "2023-10-07 09:36:19",
+      "content": "In an unexpected turn of events, India\u2019s star opener, Shubman Gill, received unwelcome news on October 6 \u2013 he had tested positive for dengue fever. This revelation cast a shadow of doubt over his par\u2026 [+1962 chars]",
+      "retrievedAt": "2023-10-10 07:05:40.158005",
+      "internal_id": "d8d76e495647b402cf5a67b4fd693c795ef9d8bab88dfbdff2b1aa0ffd343ca8",
       "publishedAtLabel": "Oct 7"
     },
     {
@@ -488,6 +650,24 @@
       "content": "LOS ANGELES, Oct. 6 (Xinhua) -- The U.S. state of Arkansas has identified its first locally acquired malaria case, the fourth state in the country that has reported locally acquired cases of one of t\u2026 [+1278 chars]",
       "retrievedAt": "2023-10-07 19:05:11.462157",
       "internal_id": "f976dd45a900d788a62816c0adc6b74bb595d6b48ba2143f0378920bfc59a26f",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2421,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Zee Bihar-jharkhand Web Team",
+      "title": "Dengue In Patna: \u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0921\u0902\u0915 \u0928\u0947 \u0915\u093f\u092f\u093e \u092a\u0930\u0947\u0936\u093e\u0928, \u092a\u091f\u0928\u093e \u092e\u0947\u0902 \u092e\u093f\u0932\u0947 100 \u0938\u0947 \u0905\u0927\u093f\u0915 \u092e\u0930\u0940\u091c",
+      "description": "Bihar Dengue: \u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0921\u0902\u0915 \u0928\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u092a\u0930\u0947\u0936\u093e\u0928 \u0915\u093f\u092f\u093e \u0939\u0948. \u092a\u091f\u0928\u093e \u092e\u0947\u0902 \u0926\u094b \u0926\u093f\u0928\u094b\u0902 \u0915\u0947 \u092c\u093e\u0926 \u092b\u093f\u0930 100 \u0938\u0947 \u0905\u0927\u093f\u0915 \u092e\u0930\u0940\u091c \u092a\u093e\u090f \u0917\u090f \u0939\u0948.",
+      "url": "https://zeenews.india.com/hindi/india/bihar-jharkhand/health/dengue-sting-troubled-bihar-more-than-100-patients-found-in-patna/1903672",
+      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/10/06/2287159-dengue.png",
+      "publishedAt": "2023-10-06 18:27:18",
+      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+357 chars]",
+      "retrievedAt": "2023-10-10 07:05:40.151400",
+      "internal_id": "6262060f3092f819e0637850a1db8eac7efc6017149fb68eb7050b259429a8d6",
       "publishedAtLabel": "Oct 6"
     },
     {
@@ -1087,6 +1267,24 @@
       "publishedAtLabel": "Oct 6"
     },
     {
+      "id": 2420,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "reuters",
+      "source_name": "Reuters",
+      "author": "Jennifer Rigby",
+      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
+      "description": "Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the conditions for the mosquitoes carrying the infection to spread.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-will-take-off-southern-europe-us-africa-this-decade-who-scientist-says-2023-10-06/",
+      "urlToImage": "https://www.reuters.com/resizer/RvV4xXJSQk97sYROaS9K5Ys6M0g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UMUKCF3ORFO6TM4MYZZCY3LIAE.jpg",
+      "publishedAt": "2023-10-06 05:22:46",
+      "content": "LONDON, Oct 6 (Reuters) - Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer tempera\u2026 [+4002 chars]",
+      "retrievedAt": "2023-10-10 07:05:40.148959",
+      "internal_id": "3f130e0445dfb1cad9fec6e8286dfff2f5e59101a0963ac81cdd0108d1bbe1b1",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
       "id": 2323,
       "query": [
         "dengue"
@@ -1102,6 +1300,24 @@
       "content": "By Jennifer Rigby LONDON (Reuters) - Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as wa\u2026 [+3387 chars]",
       "retrievedAt": "2023-10-07 07:05:30.997170",
       "internal_id": "087b898a99fd579213bcafb2fe395f11b24e33f8b4c0797212d9e7de047049a5",
+      "publishedAtLabel": "Oct 6"
+    },
+    {
+      "id": 2417,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Jennifer Rigby",
+      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
+      "description": "LONDON (Reuters) - Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the conditions for the mosquitoes carrying the infecti\u2026",
+      "url": "https://www.thestar.com.my/news/world/2023/10/06/dengue-will-039take-off039-in-southern-europe-us-africa-this-decade-who-scientist-says",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/06/2321899.jpg",
+      "publishedAt": "2023-10-06 05:11:00",
+      "content": "LONDON (Reuters) - Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures c\u2026 [+3450 chars]",
+      "retrievedAt": "2023-10-10 07:05:40.142233",
+      "internal_id": "d3d0152af944ae79628d0a5b40c6b343f873f58b58613c043d1528ada4f9755b",
       "publishedAtLabel": "Oct 6"
     },
     {
@@ -3398,222 +3614,6 @@
       "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) recomendou hoje a vacina contra a febre dengue em zonas com elevada preval\u00eancia, como a Am\u00e9rica Latina, onde a transmiss\u00e3o est\u00e1 a aumentar, devido a fatores que i\u2026 [+1360 chars]",
       "retrievedAt": "2023-10-03 19:05:26.395763",
       "internal_id": "22e2c167b9f488c1d8017fb114849590590955d2367e512834c708e06b28faae",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2205,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Deutsche Welle",
-      "title": "WHO empfiehlt zweiten Malaria-Impfstoff f\u00fcr Kinder",
-      "description": "Ein gro\u00dfer Schritt im Kampf gegen die j\u00e4hrlich Hunderttausende Todesf\u00e4lle durch Malaria: Die Weltgesundheitsorganisation r\u00e4t dazu, Kindern den neuen Impfstoff R21 / Matrix-M zu verabreichen. Zwei Jahre nach der ersten derartigen Empfehlung hat die Weltgesundh\u2026",
-      "url": "https://www.dw.com/de/who-empfiehlt-zweiten-malaria-impfstoff-f%C3%BCr-kinder/a-66984290",
-      "urlToImage": "https://static.dw.com/image/65427115_6.jpg",
-      "publishedAt": "2023-10-02 17:22:00",
-      "content": "Zwei Jahre nach der ersten derartigen Empfehlung hat die Weltgesundheitsorganisation (WHO) einen zweiten Malaria-Impfstoff f\u00fcr Kinder in betroffenen Regionen empfohlen. Die in Genf ans\u00e4ssige UN-Organ\u2026 [+3280 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.913438",
-      "internal_id": "31c05772b54b8d419ff67f3f0094172cf040609713a81041210adabe4c38bdcf",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2179,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Weltgesundheitsorganisation besorgt: Mehr als Tausend Tote wegen Dengue-Fieber in Bangladesch",
-      "description": "In Bangladesch ist der Dengue-Virus ausgebrochen, die Todeszahl sei deutlich h\u00f6her als in den vergangenen Jahren. Auch in S\u00fcdeuropa k\u00f6nnte es k\u00fcnftig zu mehr \u00dcbertragungen kommen.",
-      "url": "https://www.tagesspiegel.de/gesundheit/weltgesundheitsorganisation-besorgt-mehr-als-tausend-tote-wegen-dengue-fieber-in-bangladesch-10562566.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/bangladesh-health-dengue/alternates/BASE_16_9_W1400/bangladesh-health-dengue.jpeg",
-      "publishedAt": "2023-10-02 17:20:27",
-      "content": "Bei Bangladeschs schlimmsten Dengue-Ausbruch seit Statistikbeginn sind inzwischen mehr als Tausend Menschen an der Krankheit gestorben. Die Todeszahl sei deutlich h\u00f6her als in den Vorjahren, hie\u00df es \u2026 [+2615 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.389152",
-      "internal_id": "432beb1228521be02e187503adaa61006b3d42172417d8687e1914971ca74fb5",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2222,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "wired",
-      "source_name": "Wired",
-      "author": "Stephen Buranyi",
-      "title": "Katalin Karik\u00f3\u2019s Nobel Prize Marks the Beginning of a Vaccine Revolution",
-      "description": "Nobel Prize winners Katalin Karik\u00f3 and Drew Weissman pioneered the technology that produced a Covid-19 vaccine in record time. Next, mRNA could tackle flu, malaria, and HIV.",
-      "url": "https://www.wired.com/story/mrna-vaccine-revolution-katalin-kariko/",
-      "urlToImage": "https://media.wired.com/photos/651adec86d975091e1fa675b/191:100/w_1280,c_limit/UK_science-GettyImages-1245723449-(1).jpg",
-      "publishedAt": "2023-10-02 17:13:53",
-      "content": "No one expected the first Covid-19 vaccine to be as good as it was. We were hoping for around 70 percent, thats a success, says Dr Ann Falsey, a professor of medicine at the University of Rochester, \u2026 [+3984 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.959133",
-      "internal_id": "ac789c93b6cf65585358e3c2c6ff24ff39b2c032fb3b22fb458ff236c1af2acb",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2176,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "OMS recomenda vacina contra dengue em zonas com elevada preval\u00eancia",
-      "description": "A vacina quadrivalente TAK-003, baseada numa vers\u00e3o enfraquecida do v\u00edrus, \u00e9 recomendada para crian\u00e7as entre os seis e os 16 anos em \u00e1reas onde a doen\u00e7a se tornou um grande problema de sa\u00fade.",
-      "url": "https://observador.pt/2023/10/02/oms-recomenda-vacina-contra-dengue-em-zonas-com-elevada-prevalencia/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A96%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F09%2F27185422%2F41460403.jpg",
-      "publishedAt": "2023-10-02 17:11:14",
-      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) recomendou esta segunda-feira a vacina contra a febre dengue em zonas com elevada preval\u00eancia, como a Am\u00e9rica Latina, onde a transmiss\u00e3o est\u00e1 a aumentar, devido a\u2026 [+1585 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.377266",
-      "internal_id": "82ab8b34dc9f5a3e05fc3dcaa77bb7e4a5b43857f888e354f63c1d2d008a0a6a",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2207,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "WHO backs new malaria vaccine that's cheaper, more available, but won't replace other measures",
-      "description": "Research suggests the new three-dose vaccine, called R21/Matrix-M, is more than 75 per cent effective and protection is maintained for at least another year with a booster. It's cheaper and more available than the current vaccine, but won't replace other meas\u2026",
-      "url": "https://www.cbc.ca/news/health/malaria-vaccine-cheaper-1.6984415",
-      "urlToImage": "https://i.cbc.ca/1.6984455.1696263393!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/health-malaria-who.JPG",
-      "publishedAt": "2023-10-02 17:01:40",
-      "content": "The World Health Organization authorized a second malaria vaccine on Monday, in a decision that could offer countries a cheaper and more readily available option than the world's first shot against t\u2026 [+4895 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.919003",
-      "internal_id": "68418b88fd5bf09260b7a6d49a8bed0e902287df8e9e33db7615f48f5e0d7499",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2206,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "International Business Times",
-      "author": "AFP News",
-      "title": "WHO Recommends Second Malaria Vaccine For Children",
-      "description": "The UN's health agency on Monday recommended a second malaria vaccine for children, which could save hundreds of thousands of lives by plugging a huge supply and demand gap.",
-      "url": "https://www.ibtimes.com/who-recommends-second-malaria-vaccine-children-3713773",
-      "urlToImage": "https://d.ibtimes.com/en/full/4489912/child-kenya-receives-shot-first-approved-malaria-vaccine-earlier-this-year.jpg",
-      "publishedAt": "2023-10-02 16:57:38",
-      "content": "The UN's health agency on Monday recommended a second malaria vaccine for children, which could save hundreds of thousands of lives by plugging a huge supply and demand gap. Nearly half a million ch\u2026 [+3194 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.916913",
-      "internal_id": "b977e84f0b279eee561cef8db871d6a3187074e402d263efe2af0c496d0c148f",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2227,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "FRANCE 24 English",
-      "author": "FRANCE24",
-      "title": "WHO recommends second malaria vaccine for children",
-      "description": "Nearly half a million children in the African region die every year from the disease, which is caused by a parasite carried by mosquitoes. \"As a malaria researcher, I used to dream of the day we would have a safe and effective vaccine against malaria. Now w\u2026",
-      "url": "https://www.france24.com/en/live-news/20231002-who-recommends-second-malaria-vaccine-for-children",
-      "urlToImage": "https://s.france24.com/media/display/74257a24-6144-11ee-bbdc-005056bfb2b6/w:1280/p:16x9/9c2ce887803c5eaba78305e38da7f3db04014561.jpg",
-      "publishedAt": "2023-10-02 16:55:13",
-      "content": "Geneva (AFP) The UN's health agency on Monday recommended a second malaria vaccine for children, which could save hundreds of thousands of lives by plugging a huge supply and demand gap. Nearly half \u2026 [+3089 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.969795",
-      "internal_id": "3e98c24714311f87757428426f8efe8a4022bc6be798e5aed0a6d80d1f4909de",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2208,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "La OMS aprueba una vacuna contra la malaria que podr\u00eda salvar la vida a 500.000 ni\u00f1os",
-      "description": "La malaria ocasiona medio mill\u00f3n de muertes infantiles en el continente africano. Hasta 2021 no exist\u00eda una vacuna para aminorar tal cantidad de fallecimientos. La producci\u00f3n de la primera vacuna aprobada por la Organizaci\u00f3n Mundial de la Salud (OMS) era, sin\u2026",
-      "url": "https://www.abc.es/antropia/oms-aprueba-vacuna-malaria-salvar-vida-500000-20231002185246-nt.html",
-      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/antropia/2023/10/02/malaria-R4slK7kkDoXIgmQKZSZtWVN-1200x840@RC.jpg",
-      "publishedAt": "2023-10-02 16:53:14",
-      "content": "La malaria ocasiona medio mill\u00f3n de muertes infantiles en el continente africano. Hasta 2021 no exist\u00eda una vacuna para aminorar tal cantidad de fallecimientos. La producci\u00f3n de la primera vacuna apr\u2026 [+2678 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.921341",
-      "internal_id": "894bf72e14b9317e52c95ea0a2282a45c7d2fcade8e5b4846302bf125d33f207",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2209,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Sky.com",
-      "author": "Tom Clarke",
-      "title": "Cheap malaria vaccine approved for global rollout",
-      "description": "The World Health Organisation (WHO) has approved a low-cost, readily available vaccine for malaria that promises to help ease one of the greatest disease burdens on the developing world.",
-      "url": "https://news.sky.com/story/cheap-malaria-vaccine-developed-with-help-of-oxford-scientists-approved-for-global-rollout-12975213",
-      "urlToImage": "https://e3.365dm.com/23/06/1600x900/skynews-florida-malaria-texas_6200096.jpg?20230627081740",
-      "publishedAt": "2023-10-02 16:50:00",
-      "content": "The World Health Organisation (WHO) has approved a low-cost, readily available vaccine for malaria that promises to help ease one of the greatest disease burdens on the developing world. The R21 vac\u2026 [+3106 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.923564",
-      "internal_id": "313e797036210bb1c76945143e27df50ef3fda0a7ff80f00e5f56488448d2019",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2177,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Laura Krimmer",
-      "title": "BILD-Redakteurin \u00fcber Dengue - \u201eIch war tagelang kaum ansprechbar\u201c",
-      "description": "Dengue-Fieber ist in Bangladesch ausgebrochen. Grund zur Sorge? Eine BILD-Redakteurin berichtet, wie schmerzhaft der Krankheitsverlauf bei ihr war.",
-      "url": "https://www.bild.de/ratgeber/2023/ratgeber/dengue-fieber-ich-war-tagelang-kaum-ansprechbar-85428744.bild.html",
-      "urlToImage": "https://images.bild.de/650565763a011448790b563c/d1a2225c593195af81a08942be9fb3bd,77b53237?w=1280",
-      "publishedAt": "2023-10-02 16:43:51",
-      "content": "Bangladesch hat den schlimmsten Ausbruch des Denguefiebers gemeldet, den das Land je erlebt hat! (BILD berichtete) Seit Jahresbeginn sind mehr als 1000 Menschen an der von Tigerm\u00fccken \u00fcbertragenen\u2026 [+2979 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.379442",
-      "internal_id": "55f5c739d228866ab9c6340bc21b92cf78abfaaa0c51bd6916a3ef3a1554af86",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2189,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "OMS recomienda la primera vacuna contra el dengue, cuya transmisi\u00f3n crece en Latinoam\u00e9rica",
-      "description": "Se apuntar\u00e1 a menores de entre 6 y 16 a\u00f1os en zonas donde la enfermedad se haya convertido en un problema de salud p\u00fablica.",
-      "url": "https://www.montevideo.com.uy/Salud/OMS-recomienda-la-primera-vacuna-contra-el-dengue-cuya-transmision-crece-en-Latinoamerica-uc867129",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201702/_W933_80/602597.jpg",
-      "publishedAt": "2023-10-02 16:41:00",
-      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) recomend\u00f3 hoy la primera vacuna contra el dengue, desarrollada por la farmac\u00e9utica japonesa Takeda, en un momento en el que la transmisi\u00f3n de esta enfermed\u2026 [+3451 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.417905",
-      "internal_id": "78b43a7a793f50c5ecba7c9589df712aed3efa8b2792a0f885ba6f9cc213a414",
-      "publishedAtLabel": "Oct 2"
-    },
-    {
-      "id": 2232,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Viswanath Pilla",
-      "title": "WHO expert panel recommends Oxford University-Serum Institute's anti-malaria vaccine",
-      "description": "The R21/Matrix-M\u2122 malaria vaccine is an easily deployable vaccine that can be manufactured at mass scale and modest cost, enabling as many as hundreds of millions of doses to be supplied to countries which are suffering a significant malaria burden.",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/who-expert-panel-recommends-oxford-university-serum-institutes-anti-malaria-vaccine/articleshow/104112239.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104112227,width-1200,height-630,imgsize-38678,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-02 16:28:45",
-      "content": "The malaria vaccine jointly developed by the University of Oxford and the Serum Institute of India (SII), leveraging Novavax's adjuvant, has now been recommended for use by the World Health Organizat\u2026 [+3464 chars]",
-      "retrievedAt": "2023-10-03 19:05:26.980920",
-      "internal_id": "77a0710110d58946c1d30632b4785ee36849bfb727efa4427e1ce759f234ba5d",
       "publishedAtLabel": "Oct 2"
     }
   ]
