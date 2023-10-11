@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-10-11 07:05",
+  "last_updated": "2023-10-11 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 2463,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "13-year-old boy dies at Mumbai school, cause unclear",
+      "description": "A 13-year-old boy died at a school in Kandivali of unknown reasons on Monday. Police said the boy, who hails from Gujarat and lived at the school hostel, had recently recovered from dengue.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/13-year-old-boy-dies-at-mumbai-school-cause-unclear/articleshow/104323423.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104323448,width-1070,height-580,imgsize-24774,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-10 17:29:50",
+      "content": "Indias most picturesque villages",
+      "retrievedAt": "2023-10-11 19:05:28.192067",
+      "internal_id": "8b9f4b226b22330715133180eb0950f2c362f468006592dfe8f573d5bc0a033a",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 2460,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Prefeitura de SP opta por armadilha contra mosquito da dengue 40 vezes mais cara que modelo nacional",
+      "description": "Gest\u00e3o Ricardo Nunes gastou R$ 19 milh\u00f5es com equipamentos fornecidos por empresa holandesa, quando Fiocruz produz o mesmo sistema em parceria com o Minist\u00e9rio da Sa\u00fade",
+      "url": "https://valor.globo.com/politica/noticia/2023/10/10/prefeitura-de-sp-opta-por-armadilha-contra-mosquito-da-dengue-40-vezes-mais-cara-que-modelo-nacional.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/G3W3apmDPMSMD_x6Ur-bWXK8Yd8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/h/D/mp1TnITu6D5lnUZRxutg/290323-20ricardo-20nunes-20008.jpg",
+      "publishedAt": "2023-10-10 15:19:10",
+      "content": "A Prefeitura de S\u00e3o Paulo gastou R$ 400 por unidade de uma armadilha contra o Aedes aegypti, mosquito transmissor da dengue, que tem uma vers\u00e3o similar desenvolvida pela Fiocruz (Funda\u00e7\u00e3o Oswaldo Cru\u2026 [+5898 chars]",
+      "retrievedAt": "2023-10-11 19:05:28.166480",
+      "internal_id": "830da466c3670b768d2f5e9fae314b6be8934e870f9fb58f548a1b762f315537",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 2458,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "Painful Dengue May \u2018Take Off\u2019 In United States\u2014What To Know About The \u2018Breakbone Fever\u2019 Virus",
+      "description": "Four states\u2014Florida, Hawaii, Texas and Arizona\u2014have already documented locally acquired cases of dengue, which is also known as \u201cbreakbone fever\u201d on account of the severe pain it causes.",
+      "url": "https://www.forbes.com/sites/roberthart/2023/10/10/painful-dengue-may-take-off-in-united-states-what-to-know-about-the-breakbone-fever-virus/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6525594516127031e70b6bcd/0x0.jpg?format=jpg&crop=3291,1851,x0,y176,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-10-10 14:06:27",
+      "content": "The World Health Organizations chief scientist Jeremy Farrar has warned dengue fever could soon take off and become a constant presence in the United States, one of many emerging health threats drive\u2026 [+4286 chars]",
+      "retrievedAt": "2023-10-11 19:05:28.149108",
+      "internal_id": "6dacc1026b462212749beb6cc0479ee7d0c3a597ac52c4bd8a765509300f27a5",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 2459,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "St\u00e9phanie Le Guillou, Journaliste Sant\u00e9",
+      "title": "L\u2019OMS s\u2019inqui\u00e8te de la progression de la dengue en Europe, aux \u00c9tats-Unis et en Afrique subsaharienne",
+      "description": "Face \u00e0 la mont\u00e9e des temp\u00e9ratures, la dengue menace de s'\u00e9tendre dans le sud des \u00c9tats-Unis, le sud de l'Europe et l'Afrique. L'OMS appelle \u00e0 une pr\u00e9paration renforc\u00e9e face \u00e0 cette maladie en expansion rapide, exacerb\u00e9e par le changement climatique et l'urban\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/moustique-oms-inquiete-progression-dengue-europe-etats-unis-afrique-subsaharienne-108261/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/8/e/b/8eb71216b3_50207266_moustique-ai-generative.jpg",
+      "publishedAt": "2023-10-10 14:03:00",
+      "content": "Cela vous int\u00e9ressera aussi [EN VID\u00c9O]Interview : la lutte contre les moustiques est-elle sans fin ? Avec la venue de l\u00e9t\u00e9, arrivent des visiteurs quelque peu ind\u00e9sirables, ce sont les moustiques...\u2026 [+1569 chars]",
+      "retrievedAt": "2023-10-11 19:05:28.157887",
+      "internal_id": "17288139f8d4441482a1cbc56a4cb3b74b2938ff680daa7eb688310363d65c1f",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 2461,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elmercurio.com.ec",
+      "author": "CMV",
+      "title": "Casos de dengue en Caracas aumentaron un 37% en una semana, alerta ONG venezolana",
+      "description": "En Caracas se computaron 332 casos de dengue entre el 17 y el 23 de septiembre, un incremento del 37% respecto a la semana anterior. La entrada Casos de dengue en Caracas aumentaron un 37% en una semana, alerta ONG venezolana se public\u00f3 primero en Diario El M\u2026",
+      "url": "https://elmercurio.com.ec/2023/10/10/casos-dengue-caracas-aumentaron-ong-venezolana/",
+      "urlToImage": null,
+      "publishedAt": "2023-10-10 13:00:00",
+      "content": "En Caracas se computaron 332 casos de dengue entre el 17 y el 23 de septiembre, un incremento del 37% respecto a la semana anterior, cuando se registraron 242, inform\u00f3 este martes la ONG venezolana M\u2026 [+1374 chars]",
+      "retrievedAt": "2023-10-11 19:05:28.171383",
+      "internal_id": "d4bc25706b1bfc141a8157a17b3279f98fc26a2aa2dc50de0bc16ce04678dfd2",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 2465,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wolnemedia.net",
+      "author": "Admin WM",
+      "title": "WHO zatwierdza drug\u0105 szczepionk\u0119 przeciwko malarii",
+      "description": "W badaniu wzi\u0119\u0142o udzia\u0142 4800 dzieci.",
+      "url": "https://wolnemedia.net/who-zatwierdza-druga-szczepionke-przeciwko-malarii/",
+      "urlToImage": null,
+      "publishedAt": "2023-10-10 11:54:33",
+      "content": "Liczba wywietle: 106 Nowy lek jest taszy i atwiejszy w produkcji. Szacuje si, e szczepionka uratuje ycie dziesitkom tysicy dzieci. Malaria pozostaje powanym problemem w regionie Afryki, gdzie co rok\u2026 [+2408 chars]",
+      "retrievedAt": "2023-10-11 19:05:29.265514",
+      "internal_id": "fead748efd9343674848875f1342a270a6585cfa9cfc072cbbfb1490ff696ef0",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 2462,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Publico.es",
+      "author": "Andrea J. Arratibel (SINC)",
+      "title": "Dengue y factores socioculturales: los claroscuros para conseguir vacunas ante una amenaza mundial",
+      "description": "El dengue golpea m\u00e1s fuerte que nunca en Am\u00e9rica Latina y contin\u00faa conquistando el mundo. Los expertos alertan de que ya hay zonas de Europa bajo amenaza. Sin un tratamiento espec\u00edfico para curarla, las dos vacunas disponibles presentan soluciones demasiado c\u2026",
+      "url": "https://www.publico.es/ciencias/dengue-factores-socioculturales-claroscuros-vacunas-amenaza-mundial.html",
+      "urlToImage": "https://www.publico.es/uploads/2023/10/10/65251b51cd177.jpeg",
+      "publishedAt": "2023-10-10 10:59:00",
+      "content": "La mayor\u00eda de los casos de dengue, hasta el 75 %, suceden de forma asintom\u00e1tica. Pero, una vez desatados los primeros signos, fiebre muy alta, cefalea, n\u00e1useas, dolor abdominal, detr\u00e1s de los ojos, m\u2026 [+15102 chars]",
+      "retrievedAt": "2023-10-11 19:05:28.186113",
+      "internal_id": "0d236d7e91083da35f7f92b59593e3ab4b72e0ae3e2e6fd61ae89963d7efc901",
+      "publishedAtLabel": "Oct 10"
+    },
+    {
+      "id": 2464,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Ethiopia: Amidst Alarming Surge in Malaria Cases, Amhara Regional Health Institute to Launch Antimalarial Chemical Spraying Program",
+      "description": "[Addis Standard] Addis Abeba -- In the wake of the doubling of nationwide malaria cases in the past three months, reaching a staggering 2.4 million, the Amhara Regional Public Health Institute has announced plans to implement an antimalarial chemical spraying\u2026",
+      "url": "https://allafrica.com/stories/202310100106.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-10 07:18:55",
+      "content": "Addis Abeba \u2014 In the wake of the doubling of nationwide malaria cases in the past three months, reaching a staggering 2.4 million, the Amhara Regional Public Health Institute has announced plans to i\u2026 [+3157 chars]",
+      "retrievedAt": "2023-10-11 19:05:29.262100",
+      "internal_id": "41214f3cbc280fc1096360bd3b8ef81028f4355ed96c08bce4164a5031494a50",
+      "publishedAtLabel": "Oct 10"
+    },
     {
       "id": 2453,
       "query": [
@@ -3472,150 +3616,6 @@
       "content": "The R21/Matrix-M malaria vaccine developed by the University of Oxford and the Serum Institute of India has been recommended for use by the World Health Organisation (WHO) after meeting required safe\u2026 [+284 chars]",
       "retrievedAt": "2023-10-04 07:05:40.323189",
       "internal_id": "b2f7575a66dcfc5e2a2abb052269718e0d5a4281f3eb6d5049e835b86273d7fe",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2344,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Bangladesh dengue: More than 1,000 people killed in country's worst outbreak on record - CNN",
-      "description": "Bangladesh dengue: More than 1,000 people killed in country's worst outbreak on recordCNN Dengue outbreak kills over 1,000 in BangladeshSouth China Morning Post Bangladesh faces deadliest dengue outbreak on record with over 1,000 deathsFox News Dengue death t\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171942879",
-      "urlToImage": null,
-      "publishedAt": "2023-10-03 05:52:10",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.088047",
-      "internal_id": "180d056cc3560b15d4687018af0396b62b244cf44c6f49915b1267fa3d8cea68",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2250,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "PT Jyothi Datta",
-      "title": "WHO recommends second malaria vaccine",
-      "description": "WHO recommends 2nd malaria vaccine, R21/Matrix-M, for prevention of malaria in children. SII & Bharat Biotech have role in supply. R21/Matrix-M licensed in Ghana, Nigeria & Burkina Faso. High efficacy & cost-effectiveness. 28 African countries plan to introdu\u2026",
-      "url": "https://www.thehindubusinessline.com/news/who-recommends-second-malaria-vaccine/article67374684.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/wz7n3v/article67298086.ece/alternates/LANDSCAPE_1200/IMG_vaccine__2__4_1_QNA38ACD.jpg",
-      "publishedAt": "2023-10-03 05:34:14",
-      "content": "A second malaria vaccine has been recommended by the World Health Organisation (WHO) - R21/Matrix-M, for the prevention of malaria in children. This follows WHO recommendation for the RTS,S/AS01 va\u2026 [+3963 chars]",
-      "retrievedAt": "2023-10-04 07:05:40.301705",
-      "internal_id": "ceed3ec1bb0afe23f6dbb3d697e358597a55d381c2d010305db71447962ddb22",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2238,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Hvg.hu",
-      "author": "hvg@hvg.hu",
-      "title": "Egyre t\u00f6bb a betegs\u00e9get terjeszt\u0151 tigrissz\u00fanyog Eur\u00f3p\u00e1ban, ez a gy\u00f3gyszeripart sem hagyja hidegen",
-      "description": "2022-ben Eur\u00f3p\u00e1ban t\u00f6bb helyi eredet\u0171, a tigrissz\u00fanyogok \u00e1ltal terjesztett dengue megbeteged\u00e9s fordult el\u0151, mint az el\u0151z\u0151 \u00e9vtizedben \u00f6sszesen - \u00edrja a Politico. A gy\u00f3gyszeripar m\u00e1r elkezdte n\u00f6velni a vakcin\u00e1val kapcsolatos beruh\u00e1z\u00e1sokat.",
-      "url": "https://hvg.hu/gazdasag/20231003_Egyre_tobb_a_betegseget_terjeszto_tigrisszunyog_Europaban_ez_a_gyogyszeripart_sem_hagyja_hidegen",
-      "urlToImage": "https://api.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/ba8e5999-e96d-4848-9e4c-fea6d408f8d4.jpg",
-      "publishedAt": "2023-10-03 05:33:00",
-      "content": "2022-ben Eur\u00f3p\u00e1ban t\u00f6bb helyi eredet, a tigrissz\u00fanyogok \u00e1ltal terjesztett dengue megbeteged\u00e9s fordult el, mint az elz \u00e9vtizedben \u00f6sszesen - \u00edrja a Politico. A gy\u00f3gyszeripar m\u00e1r elkezdte n\u00f6velni a vak\u2026 [+2116 chars]",
-      "retrievedAt": "2023-10-04 07:05:39.734078",
-      "internal_id": "fe3ee33617a4320e976fce3bc7f478af2408d19db8ffd022efc26b669854292a",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2345,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Bangladesh\u2019s worst ever dengue outbreak has now killed more than 1,000 people - CNN",
-      "description": "Bangladesh\u2019s worst ever dengue outbreak has now killed more than 1,000 peopleCNN Dengue outbreak kills over 1,000 in BangladeshSouth China Morning Post Bangladesh faces deadliest dengue outbreak on record with over 1,000 deathsFox News Dengue death toll cross\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171942823",
-      "urlToImage": null,
-      "publishedAt": "2023-10-03 05:32:12",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.091117",
-      "internal_id": "2c283d5682a060bf38756879eeeccebc6781829dbcf879580992ba23822263c7",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2346,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Bangladesh dengue deaths cross 1,000 in worst outbreak on record - Al Jazeera English",
-      "description": "Bangladesh dengue deaths cross 1,000 in worst outbreak on recordAl Jazeera English Bangladesh records over 1,000 dengue fever deaths in nation\u2019s worst outbreak of virusSouth China Morning Post Bangladesh faces deadliest dengue outbreak on record with over 1,0\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171942769",
-      "urlToImage": null,
-      "publishedAt": "2023-10-03 05:12:07",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.094481",
-      "internal_id": "015d1bb6e3b09cc4d796309e6fb3d0c1c4ef945c0b5c91427782f7771bebe11f",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2260,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: WHO Approves Second Malaria Vaccine for Children",
-      "description": "[UN News] The World Health Organization (WHO) on Monday recommended a new anti-malaria vaccine for children, a move that could offer countries a cheaper and more readily available option than the world's first shot against the parasitic disease.",
-      "url": "https://allafrica.com/stories/202310030014.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-03 04:57:24",
-      "content": "The World Health Organization (WHO) on Monday recommended a new anti-malaria vaccine for children, a move that could offer countries a cheaper and more readily available option than the world's first\u2026 [+3442 chars]",
-      "retrievedAt": "2023-10-04 07:05:40.354983",
-      "internal_id": "4116d087d05ef221f73733ea4e6bec0fab13ebf791e8e386b03941129b643d4c",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2262,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Nigeria: WHO Recommends R21/Matrix-M Vaccine for Use Against Malaria",
-      "description": "[Premium Times] The R21/Matrix-M vaccine is the second vaccine against malaria to be approved by WHO.",
-      "url": "https://allafrica.com/stories/202310030006.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-03 04:49:38",
-      "content": "The R21/Matrix-M vaccine is the second vaccine against malaria to be approved by WHO. The World Health Organisation (WHO) has recommended a new vaccine, R21/Matrix-M, for the prevention of malaria i\u2026 [+3946 chars]",
-      "retrievedAt": "2023-10-04 07:05:40.367373",
-      "internal_id": "f1dd5b2136500d1dac30e1e917e0517b07df6d5e4d7afc6c2d72d3a044b1f963",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2239,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Helen Regan",
-      "title": "Bangladesh's worst ever dengue outbreak has now killed more than 1,000 people",
-      "description": "More than 1,000 people have died from dengue in Bangladesh's worst outbreak on record, official data shows, with rising temperatures due to the climate crisis driving the ongoing spread as more cases are reported away from dense urban centers for the first ti\u2026",
-      "url": "https://www.cnn.com/2023/10/03/asia/bangladesh-dengue-fever-1000-deaths-intl-hnk-climate/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231003111848-01-gladesh-dengue-deaths.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-10-03 04:30:00",
-      "content": "More than 1,000 people have died from dengue in Bangladeshs worst outbreak on record, official data shows, with rising temperatures due to the climate crisis driving the ongoing spread as more cases \u2026 [+3612 chars]",
-      "retrievedAt": "2023-10-04 07:05:39.747039",
-      "internal_id": "054e5c88c55f29c0d32c0a77f42b408565febb6d324173f4ce2834b929aa2bbc",
       "publishedAtLabel": "Oct 3"
     }
   ]
