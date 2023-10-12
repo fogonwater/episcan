@@ -1,8 +1,298 @@
 {
-  "last_updated": "2023-10-12 07:05",
+  "last_updated": "2023-10-12 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 14,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 2490,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "KaulaNhongo",
+      "title": "Resistant mosquito strains intensify malaria threat in southern Africa",
+      "description": "WINDHOEK, Oct. 11 (Xinhua) -- Emerging mosquito strains resistant to current treatments are intensifying the malaria threat in the Southern African Development Community (SADC) region, an official said on Wednesday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2023/10/12/resistant-mosquito-strains-intensify-malaria-threat-in-southern-africa",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-10-11 17:18:00",
+      "content": "WINDHOEK, Oct. 11 (Xinhua) -- Emerging mosquito strains resistant to current treatments are intensifying the malaria threat in the Southern African Development Community (SADC) region, an official sa\u2026 [+1700 chars]",
+      "retrievedAt": "2023-10-12 19:05:23.735905",
+      "internal_id": "55b689f706599579cdb16e2b87a7fb4bc372c7d2b5edb3d09aaebea2a1853acb",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2480,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Pien Huang",
+      "title": "Vaccine hesitancy affects dog-owners, too, with many questioning the rabies shot",
+      "description": "A survey finds that more than half of dog parents are doubtful about giving their pups the vaccine for rabies \u2014 a lethal disease that vaccination brought under control in the U.S.",
+      "url": "https://www.npr.org/sections/health-shots/2023/10/11/1205016558/canine-vaccine-hesitancy-dogs-rabies",
+      "urlToImage": "https://media.npr.org/assets/img/2023/10/10/gettyimages-165997986_wide-f57b65cef4f78f7b59a3bd709c2594f0a242c298-s1400-c100.jpg",
+      "publishedAt": "2023-10-11 17:13:24",
+      "content": "Rabies shots are mandatory in most of the U.S. but some dog owners are hesitant about giving their pets the vaccine. fotografixx/Getty Images Cindy Marabito runs a pit bull rescue out of her house \u2026 [+8383 chars]",
+      "retrievedAt": "2023-10-12 19:05:22.610963",
+      "internal_id": "98e9b511c0c8e76d9d8871d00465e9145ece30f80c0dd5e852cb2b5ad711d25e",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2495,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC ha notificado 175 casos de mpox en 13 pa\u00edses en las \u00faltimas cuatro semanas",
+      "description": "En las \u00faltimas 4 semanas, se han identificado 175 casos de viruela del mono procedentes de 13 pa\u00edses, seg\u00fan el \u00faltimo informe del Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s), que ya ha notificado un total de 26\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-notificado-175-casos-mpox-13-paises-ultimas-cuatro-semanas-20231011184309.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231011184309_1200.jpg",
+      "publishedAt": "2023-10-11 16:43:09",
+      "content": "MADRID, 11 Oct. (EUROPA PRESS) - En las \u00faltimas 4 semanas, se han identificado 175 casos de viruela del mono procedentes de 13 pa\u00edses, seg\u00fan el \u00faltimo informe del Centro Europeo para la Prevenci\u00f3n\u2026 [+1394 chars]",
+      "retrievedAt": "2023-10-12 19:05:24.325768",
+      "internal_id": "7cbc9a6998c4767a34e0cddabb29c95161b19fc9e2728b36b542d5ba8d61d0b0",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2488,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abstvradio.com",
+      "author": "Abs Tv Radio",
+      "title": "HEALTH MINISTRY REVEALS LATEST FIGURES ON DENGUE FEVER; ASSURES THERE IS NO EPIDEMIC",
+      "description": "The Health Ministry says there have been 20 cases of dengue fever so far this year, but this does not constitute an epidemic. Acting Chief Medical Officer, Dr",
+      "url": "https://abstvradio.com/health-ministry-reveals-latest-figures-on-dengue-fever-assures-there-is-no-epidemic/",
+      "urlToImage": "https://abstvradio.com/wp-content/uploads/2023/10/health-ministry-reveals-latest-f.jpg",
+      "publishedAt": "2023-10-11 16:34:20",
+      "content": "The Health Ministry says there have been 20 cases of dengue fever so far this year, but this does not constitute an epidemic.Acting Chief Medical Officer, Dr Teri-Ann Joseph says the 12 cases recorde\u2026 [+236 chars]",
+      "retrievedAt": "2023-10-12 19:05:23.230990",
+      "internal_id": "1f561cc6e382f19b6c991da0c0153b7d9276526969226e8a719ba430afc0bc34",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2493,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Valneva to Present on Chikungunya at Several Leading Scientific Conferences",
+      "description": "(marketscreener.com) Saint-Herblain , October 11, 2023 \u2013 Valneva SE , a specialty vaccine company, announces today it will present on the mosquito-borne chikungunya disease at several leading scientific conferences during the fourth quarter of 2023. At IDWeek\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-to-Present-on-Chikungunya-at-Several-Leading-Scientific-Conferences-45041873/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-10-11 15:46:03",
+      "content": "Saint-Herblain (France), October 11, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, announces today it will present on the mosquito-borne chikungunya disease at seve\u2026 [+7161 chars]",
+      "retrievedAt": "2023-10-12 19:05:24.197826",
+      "internal_id": "6f54b84d6e1c67271403053abc594d69d4ef7bd77683628b62c5ffc88e1f3369",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2492,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva to Present on Chikungunya at Several Leading Scientific Conferences",
+      "description": "Saint-Herblain (France), October 11, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, announces today it will present on the mosquito-borne chikungunya disease at several leading scientific conferences during the fourth quar\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/10/11/2758633/0/en/Valneva-to-Present-on-Chikungunya-at-Several-Leading-Scientific-Conferences.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-10-11 15:45:00",
+      "content": "Saint-Herblain (France), October 11, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, announces today it will present on the mosquito-borne chikungunya disease at seve\u2026 [+7092 chars]",
+      "retrievedAt": "2023-10-12 19:05:24.195272",
+      "internal_id": "2eac7411486844e6d5a098e574dd1e4e4e97587af582579810f416eabc15a426",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2494,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva effectuera des pr\u00e9sentations sur le chikungunya lors de diff\u00e9rentes conf\u00e9rences scientifiques de premier plan",
+      "description": "Saint-Herblain (France), 11 octobre 2023 - Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd'hui qu'elle fera des pr\u00e9sentations sur le chikungunya, une maladie transmise par les moustiques, durant diff\u00e9rente\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/10/11/2758633/0/fr/Valneva-effectuera-des-pr%C3%A9sentations-sur-le-chikungunya-lors-de-diff%C3%A9rentes-conf%C3%A9rences-scientifiques-de-premier-plan.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-10-11 15:45:00",
+      "content": "Saint-Herblain (France), 11 octobre 2023 - Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd'hui qu'elle fera des pr\u00e9sentations sur le chikungunya,\u2026 [+7879 chars]",
+      "retrievedAt": "2023-10-12 19:05:24.200482",
+      "internal_id": "5aaa51f129ffa432b715e67931212ab75f12aaa35afe90270b279611bb8bc91c",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2489,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bill Gates Is Investing $40 Million For mRNA \u201cVaccine\u201d Development In Africa",
+      "description": "The Gates Foundation, spearheaded by diabolical \"entrepreneur\" Bill Gates is investing $40 million in new mRNA vaccine creation efforts to prevent diseases like tuberculosis and malaria in countries in Africa. The announcement was made on Monday while the ne\u2026",
+      "url": "https://www.shtfplan.com/headline-news/bill-gates-is-investing-40-million-for-mrna-vaccine-development-in-africa",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2020/04/bill-gates-e1587987043100.jpg",
+      "publishedAt": "2023-10-11 15:00:21",
+      "content": "The Gates Foundation, spearheaded by diabolical \u201centrepreneur\u201d Bill Gates is investing $40 million in new mRNA vaccine creation efforts to prevent diseases like tuberculosis and malaria in countries \u2026 [+2478 chars]",
+      "retrievedAt": "2023-10-12 19:05:23.730829",
+      "internal_id": "3f1e216b4cd75f2a611946efff4d05e1a3036e21f25e260e21c9495fbc6d7ce9",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2491,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Nunu, W. N., Ndirangu, J., Tsoka-Gwegweni, J.",
+      "title": "Effects of COVID-19 on malaria elimination initiatives in sub-Saharan Africa: a scoping review protocol",
+      "description": "Introduction The occurrence of the COVID-19 pandemic significantly impacted health systems, resulting in varied outcomes of different variables in terms of health. Due to the nature of the causative organism that is spread mainly in the air, the disease rap\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/10/e076140?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-10-11 14:53:50",
+      "content": "Introduction The COVID-19 pandemic significantly impacted health systems, resulting in varied outcomes of different health variables.1 Generally, future health programme planning presents challenges\u2026 [+3357 chars]",
+      "retrievedAt": "2023-10-12 19:05:23.740246",
+      "internal_id": "5d8d599afdceee913ddc2589536cf179f1ab3840b5148b1222d79a7f2cc1bb0f",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2484,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Expresso.pt",
+      "author": "Tom\u00e1s Guerreiro",
+      "title": "\u201cEm Portugal e Espanha, a \u00e1gua pot\u00e1vel ser\u00e1 racionada, as secas ser\u00e3o mais frequentes e os inc\u00eandios mais r\u00e1pidos e causar\u00e3o mais mortes\u201d",
+      "description": "O cientista Diarmid Campbell-Lendrum investiga h\u00e1 20 anos os efeitos do aquecimento global na sa\u00fade p\u00fablica. Diretor do departamento da Organiza\u00e7\u00e3o Mundial de Sa\u00fade (OMS) para as Altera\u00e7\u00f5es Clim\u00e1ticas foi pioneiro na elabora\u00e7\u00e3o de previs\u00f5es cient\u00edficas sobre \u2026",
+      "url": "https://expresso.pt/sociedade/2023-10-11-Em-Portugal-e-Espanha-a-agua-potavel-sera-racionada-as-secas-serao-mais-frequentes-e-os-incendios-mais-rapidos-e-causarao-mais-mortes-98c0ae8d",
+      "urlToImage": "https://images.impresa.pt/expresso/2023-08-18-incendio-de-Odemira.jpg-6aacd677/1.91x1?wm=true&outputFormat=jpeg",
+      "publishedAt": "2023-10-11 10:14:26",
+      "content": "Quais as consequ\u00eancias das altera\u00e7\u00f5es clim\u00e1ticas na sa\u00fade da popula\u00e7\u00e3o mundial?O aumento do stress t\u00e9rmico prejudica os idosos e os residentes urbanos. As doen\u00e7as infecciosas a mal\u00e1ria, o dengue, a c\u2026 [+1976 chars]",
+      "retrievedAt": "2023-10-12 19:05:23.188391",
+      "internal_id": "52fd1757dbbafa471c224dd636f2d91cdf9fff4554f088a86be401f0c47ae155",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2482,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "espn-cric-info",
+      "source_name": "ESPN Cric Info",
+      "author": "ESPNcricinfo staff",
+      "title": "Shubman Gill to rejoin Indian team in Ahmedabad but still doubtful for Pakistan fixture",
+      "description": "India opener is recovering from dengue and has missed the first two games of their World Cup campaign",
+      "url": "https://www.espncricinfo.com/story/shubman-gill-to-rejoin-indian-team-in-ahmedabad-1402478",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/367900/367976.jpg",
+      "publishedAt": "2023-10-11 09:51:24",
+      "content": "NewsIndia opener is recovering from dengue and has missed the first two games of their World Cup campaign",
+      "retrievedAt": "2023-10-12 19:05:23.179353",
+      "internal_id": "b82b3213456bb280808bb7db490857cfea1d0ac084c872567022ffb5976e4d57",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2485,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Shubman Gill to reach Ahmedabad on Wednesday but remains doubtful for Pakistan game",
+      "description": "Indian cricketer Shubman Gill, who is recovering from dengue fever, may not be able to participate in the World Cup clash against Pakistan on Saturday. Although Gill is expected to reach Ahmedabad, it is uncertain whether he will be able to have a light train\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/shubman-gill-to-reach-ahmedabad-on-wednesday-but-remains-doubtful-for-pakistan-game/articleshow/104339043.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104339147,width-1200,height-630,imgsize-30548,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-11 09:09:11",
+      "content": "New Delhi, Recovering steadily from a bout of dengue fever, India opener Shubman Gill will be reaching Ahmedabad on Wednesday but still remains a doubtful starter for the marquee World Cup clash agai\u2026 [+1153 chars]",
+      "retrievedAt": "2023-10-12 19:05:23.192159",
+      "internal_id": "c76661b9e20a501823d77d8b0a62ef6d04c04ec1c8ec672beb32bafea5ec1386",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2487,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Sports Desk",
+      "title": "Shubman Gill to reach Ahmedabad on Wednesday",
+      "description": "Recovering from dengue fever, Shubman Gill may not be able to play in the World Cup match against Pakistan. While Gill is making progress in his recovery, it is uncertain whether he will be fit to play. He missed the opening match against Australia and the ma\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-india-vs-pakistan-doubtful-for-pakistan-game-shubman-gill-to-reach-ahmedabad-on-wednesday/articleshow/104338935.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104338913,width-1070,height-580,imgsize-41340,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-11 09:07:54",
+      "content": "Will the ODI World Cup set Shubman Gill on the path to greatness?",
+      "retrievedAt": "2023-10-12 19:05:23.220864",
+      "internal_id": "b912b9947c8eb1d264ed3f05d7b7c6de8cccd1d310a94ad88842b8a65cc79158",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2483,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Recomienda la OMS nueva vacuna contra el dengue",
+      "description": "Por primera vez, la Organizaci\u00f3n Mundial de la Salud (OMS) recomend\u00f3 a los pa\u00edses con elevada carga de dengue y alta intensidad de transmisi\u00f3n, la aplicaci\u00f3n de la vacuna desarrollada por el laboratorio farmac\u00e9utico Takeda. El producto demostr\u00f3 eficacia para \u2026",
+      "url": "https://www.jornada.com.mx/2023/10/11/politica/022n1pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-10-11 08:55:31",
+      "content": "Peri\u00f3dico La JornadaMi\u00e9rcoles 11 de octubre de 2023, p. 22 Por primera vez, la Organizaci\u00f3n Mundial de la Salud (OMS) recomend\u00f3 a los pa\u00edses con elevada carga de dengue y alta intensidad de transmis\u2026 [+2890 chars]",
+      "retrievedAt": "2023-10-12 19:05:23.182200",
+      "internal_id": "ce87ba9fc043cc855467f7882b2916907aec70cc0f253292125bbb8cc1d48fbb",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2486,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Will Shubman Gill play in India-Pakistan World Cup match? Here is the latest update",
+      "description": "Shubman Gill's participation in the upcoming important world cup game against Pakistan is uncertain due to his health condition. Gill's platelet count dropped to 90,000 per micro litre following his battle with dengue. Although he may recover physically, expe\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/will-shubman-gills-play-in-india-pakistan-world-cup-game-here-is-a-latest-update/articleshow/104337575.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104337782,width-1200,height-630,imgsize-45228,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-11 08:44:36",
+      "content": "India's star opener Shubman Gill's participation in India's upcoming game against Pakistan on October 14 is uncertain due to his health condition. Sources reveal that Gill's platelet count dropped to\u2026 [+1688 chars]",
+      "retrievedAt": "2023-10-12 19:05:23.194723",
+      "internal_id": "a0d1ea1da8b51a54ee1f4f17692339385cebdb244911cbf42ed95ed44eacd199",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2481,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Mun-Keat Looi",
+      "title": "The mosquito factory fighting disease",
+      "description": "Mosquitoes infected with bacteria are becoming a cost-effective way to stop some of the greatest disease threats in the world, including dengue, chikungunya, and Zika viruses. Mun-Keat Looi visits the sites where these are \u201cmade\u201d The stench of pond water is \u2026",
+      "url": "https://www.bmj.com/content/383/bmj.p2082",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/383/8401.cover-source.jpg",
+      "publishedAt": "2023-10-11 08:40:45",
+      "content": "Mosquitoes infected with bacteria are becoming a cost-effective way to stop some of the greatest disease threats in the world, including dengue, chikungunya, and Zika viruses. Mun-Keat Looi visits th\u2026 [+1360 chars]",
+      "retrievedAt": "2023-10-12 19:05:23.169439",
+      "internal_id": "3318722f6a7a4a1bd234ed5921c5b3e337c3eecd76634b4e69e81c35ef2edbc6",
+      "publishedAtLabel": "Oct 11"
+    },
     {
       "id": 2478,
       "query": [
@@ -3327,296 +3617,6 @@
       "retrievedAt": "2023-10-05 07:05:51.658246",
       "internal_id": "0884ec7c4fef8215066373319dba646ab58e7def3c19a1ff6c060c2bdcdcfa54",
       "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2279,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Express News Service",
-      "title": "Back home, TMC faces heat over corruption, dengue",
-      "description": "BJP MLAs staged a protest outside the West Bengal Assembly over the alleged corruption in the government.",
-      "url": "https://indianexpress.com/article/cities/kolkata/tmc-kolkata-bjp-protest-corruption-dengue-8967408/",
-      "urlToImage": "https://images.indianexpress.com/2023/10/bjp-protest-2.jpg",
-      "publishedAt": "2023-10-04 02:52:42",
-      "content": "While the TMC launched a protest against the non-payment of dues under central schemes in Delhi, back home in Kolkata, multiple organisations staged protests against the ruling party Tuesday over iss\u2026 [+1208 chars]",
-      "retrievedAt": "2023-10-05 07:05:50.635899",
-      "internal_id": "dd6cd937a4bab5e1b201b4c8df62b3b7a3c649e3672de6d57ee8a3f075b7f022",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2285,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Malaria, dengue cases in Mumbai saw big jump in September",
-      "description": "MUMBAI: Mumbai recorded 1,360 dengue in September, an increase of over 300 from August.",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/malaria-dengue-cases-in-mumbai-saw-big-jump-in-september/articleshow/104144409.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104144422,width-1070,height-580,imgsize-793301,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-04 01:34:56",
-      "content": "Indian dishes that taste better the next day",
-      "retrievedAt": "2023-10-05 07:05:50.706183",
-      "internal_id": "a787204c5139cae430565d426d734de47f885b1a72d892c5120fa86fed495440",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2281,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "By JERUSALEM POST STAFF",
-      "title": "Israel to target mosquitoes in effort to prevent Dengue fever",
-      "description": "After an Israeli citizen contracted Dengue fever during a trip abroad, Israel is preparing to eliminate populations of the mosquito responsible for the disease.",
-      "url": "https://www.jpost.com/health-and-wellness/article-761579",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/554536",
-      "publishedAt": "2023-10-03 23:54:05",
-      "content": "The Environmental Protection Ministry will take steps to curb the population of a species of Mosquito in Israel in order to prevent further cases of Dengue fever, the Health Ministry announced on Tue\u2026 [+1803 chars]",
-      "retrievedAt": "2023-10-05 07:05:50.664923",
-      "internal_id": "4bd1e69ae0e9d4db42a3dcaba35df74c1b0abaedc9f5ede110424513b547468a",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2284,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "eEranLahav",
-      "title": "Israel reports new case of dengue fever",
-      "description": "JERUSALEM, Oct. 3 (Xinhua) -- The Israeli Ministry of Health on Tuesday reported a new case of dengue fever. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2023/10/04/israel-reports-new-case-of-dengue-fever",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-10-03 21:42:00",
-      "content": "JERUSALEM, Oct. 3 (Xinhua) -- The Israeli Ministry of Health on Tuesday reported a new case of dengue fever. The ministry noted in a statement that the patient in the new case returned from Thailan\u2026 [+983 chars]",
-      "retrievedAt": "2023-10-05 07:05:50.698901",
-      "internal_id": "c2d78d65ba91e3d6204f99d52d916e2f53990579146e375b3023f42b9990014d",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2283,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Dow Jones",
-      "title": "Takeda Pharmaceutical's Dengue Vaccine Recommended by WHO Advisory Group",
-      "description": "(marketscreener.com) By Denny Jacob Takeda Pharmaceutical's vaccine to prevent dengue, qdenga, was recommended by a World Health Organization advisory group. The company, which develops and manufactures pharmaceutical drugs, said WHO's strategic advi\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/Takeda-Pharmaceutical-s-Dengue-Vaccine-Recommended-by-WHO-Advisory-Group-44976256/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-10-03 21:32:03",
-      "content": "By Denny Jacob Takeda Pharmaceutical's vaccine to prevent dengue, qdenga, was recommended by a World Health Organization advisory group. The company, which develops and manufactures pharmaceutica\u2026 [+1394 chars]",
-      "retrievedAt": "2023-10-05 07:05:50.682192",
-      "internal_id": "140369caae69c195888a39c883cf37dd88e5aff74f22c7bbef8c189dae211603",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2282,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Business Wire",
-      "title": "Takeda's Dengue Vaccine Recommended by World Health Organization Advisory Group for Introduction in High Dengue Burden and Transmission Areas in Children Ages Six to 16 Years",
-      "description": "(marketscreener.com) Experts Reviewed Data from QDENGA\u2019s Clinical Program Across 19 Phase 1, 2 and 3 Trials with More Than 28,000 Participants WHO Will Consider the SAGE Recommendation and Provide Final Guidance on the Use of QDENGA in Public Vaccination\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/TAKEDA-PHARMACEUTICAL-COM-6491073/news/Takeda-s-Dengue-Vaccine-Recommended-by-World-Health-Organization-Advisory-Group-for-Introduction-in-44975967/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-10-03 20:51:02",
-      "content": "Experts Reviewed Data from QDENGAs Clinical Program Across 19 Phase 1, 2 and 3 Trials with More Than 28,000 Participants WHO Will Consider the SAGE Recommendation and Provide Final Guidance on the U\u2026 [+19324 chars]",
-      "retrievedAt": "2023-10-05 07:05:50.677435",
-      "internal_id": "18729e6eb398e4b1fa0681c73d5a1d27d7f4f52e661e9fe4e22e2b1909a224db",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2287,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": null,
-      "title": "WHO Approves a Second Malaria Vaccine",
-      "description": "",
-      "url": "https://learningenglish.voanews.com/a/7295386.html",
-      "urlToImage": "https://gdb.voanews.com/DF5465F8-7DF2-4AE4-9C05-E62A5DEAC9EE_w1200_r1.jpg",
-      "publishedAt": "2023-10-03 20:39:19",
-      "content": "No media source currently available",
-      "retrievedAt": "2023-10-05 07:05:51.649058",
-      "internal_id": "aafe911ac4217267aa10cb3a926003e187c6b8c20b792faca93bd47e3dd7c72e",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2286,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Ari Daniel",
-      "title": "A 'dream' come true: Now there are 2 vaccines to slash the frightful toll of malaria",
-      "description": "The head of the World Health Organization, Tedros Adhanom Ghebreyesus.Tedros, says he used to \"dream of the day when we would have a ... vaccine against malaria. Now, we have two.\"",
-      "url": "https://www.npr.org/sections/goatsandsoda/2023/10/03/1203306031/a-dream-come-true-now-there-are-2-vaccines-to-slash-the-frightful-toll-of-malari",
-      "urlToImage": "https://media.npr.org/assets/img/2023/10/03/gettyimages-1247904856_wide-c68791bcbbbbd00f8cc5a2037eb7833e09f02c4c-s1400-c100.jpg",
-      "publishedAt": "2023-10-03 20:19:09",
-      "content": "A Kenyan child receives the world's first malaria vaccine, approved nearly two years ago. This week, the World Health Organization approved a second vaccine for the mosquito-borne disease. It's calle\u2026 [+3599 chars]",
-      "retrievedAt": "2023-10-05 07:05:51.639539",
-      "internal_id": "2c4ecc572de666f1fd85d90330e5984f227f7ac4fb299e9e51043d967378eb3b",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2290,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "World\u2019s second malaria vaccine gets WHO approval: Serum Institute of India",
-      "description": "NEW DELHI, Oct 2: Serum Institute of India on Monday said the World Health Organisation (WHO) has approved a malaria vaccine, paving the way for the global roll-out of the world\u2019s second such vaccine. The recommendation is based on pre-clinical and clinical t\u2026",
-      "url": "https://thehillstimes.in/business/worlds-second-malaria-vaccine-gets-who-approval-serum-institute-of-india",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/anchor-1.jpg",
-      "publishedAt": "2023-10-03 20:10:12",
-      "content": "NEW DELHI, Oct 2: Serum Institute of India on Monday said the World Health Organisation (WHO) has approved a malaria vaccine, paving the way for the global roll-out of the worlds second such vaccine.\u2026 [+1547 chars]",
-      "retrievedAt": "2023-10-05 07:05:51.686659",
-      "internal_id": "b96819ec4f4d31278e10d7070d23f585e42c14c4e26fa718886f34450799233f",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2289,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Adrian Hill, Director of the Jenner Institute, University of Oxford",
-      "title": "'We could eradicate malaria by 2040' says expert after revolutionary vaccine is approved by WHO",
-      "description": "People have been trying to make malaria vaccines for over 100 years. With the help of the revolutionary new R21/Matrix vaccine the disease could be eradicated by 2040.",
-      "url": "https://theconversation.com/we-could-eradicate-malaria-by-2040-says-expert-after-revolutionary-vaccine-is-approved-by-who-214798",
-      "urlToImage": "https://images.theconversation.com/files/551708/original/file-20231003-15-hdcwqu.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2023-10-03 19:50:49",
-      "content": "The World Health Organization has approved a new vaccine that scientists argue will be a game-changer in the fight against malaria, which kills half a million people in Africa every year. Trials have\u2026 [+6704 chars]",
-      "retrievedAt": "2023-10-05 07:05:51.666434",
-      "internal_id": "18cdac6f1a5cbd4305b9899e08b9a14549a210a46e70f44c48da28fa99823144",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2267,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "Fr\u00e9d\u00e9rique Fa\u00ffs",
-      "title": "Dr\u00f4me. \u00ab Je me dis que j\u2019ai bien respir\u00e9 cet insecticide \u00bb : face au moustique tigre, une op\u00e9ration passe mal chez des habitants",
-      "description": "Une op\u00e9ration de d\u00e9moustication a eu lieu dans la nuit de lundi 2 \u00e0 mardi 3 octobre \u00e0 Bourg-l\u00e8s-Valence (Dr\u00f4me) \u00e0 la suite de deux cas de dengue autochtones. Probl\u00e8me : des riverains n\u2019ont pas \u00e9t\u00e9 avertis et s\u2019inqui\u00e8tent des cons\u00e9quences de cette pulv\u00e9risatio\u2026",
-      "url": "https://www.ledauphine.com/environnement/2023/10/03/je-me-dis-que-j-ai-bien-respire-cet-insecticide-face-au-moustique-tigre-une-operation-passe-mal-chez-des-habitants",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/76C05DE7-BED4-4673-A388-7ED183DD8F3C/FB1200/photo-1696357838.jpg",
-      "publishedAt": "2023-10-03 18:44:00",
-      "content": "Ils sont sid\u00e9r\u00e9s et m\u00eame choqu\u00e9s. Sur les hauteurs de Bourg-l\u00e8s-Valence, les riverains des rues Marcel-Pagnol et Fran\u00e7ois-Mauriac et une partie de la rue Edmond-Rostand \u2013 une zone pavillonnaire du qu\u2026 [+564 chars]",
-      "retrievedAt": "2023-10-04 19:05:24.891575",
-      "internal_id": "9bd53dd8664d0e28cfcfea5c56b9aa5079562677a20fb81b7403f6585b096316",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2273,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Metafilter.com",
-      "author": "NoxAeternum",
-      "title": "Vaccines Fuck Yeah",
-      "description": "In major news in the fight against malaria, the World Health Organization has approved the R21 vaccine - which can be produced cheaply at scale.Researchers from the University of Chicago have made promising discoveries with the concept of an \"inverse vaccine\"\u2026",
-      "url": "https://www.metafilter.com/200914/Vaccines-Fuck-Yeah",
-      "urlToImage": "http://cdn.mefi.us/images/mefi/apple-touch-icon.png",
-      "publishedAt": "2023-10-03 17:17:20",
-      "content": "posted by NoxAeternum (6 comments total) 9 users marked this as a favorite \u00ab Older Notes on a Criminal Conspiracy: Google's...",
-      "retrievedAt": "2023-10-04 19:05:25.484704",
-      "internal_id": "d6cfc0697d785eb4537b4acdc55c65c791a42f47cd085e586427d2c0240c7c0f",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2278,
-      "query": [
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Cshlp.org",
-      "author": "Castillo, J. S., Bellantuono, A. J., DeGennaro, M.",
-      "title": "Quantifying Mosquito Attraction Behavior Using Olfactometry",
-      "description": "When blood feeding from human hosts, female mosquitoes can transmit life-threatening pathogens to humans, including dengue virus, chikungunya virus, and Zika virus. Olfaction is the primary sense mosquitoes use to locate and differentiate hosts and studying i\u2026",
-      "url": "https://cshprotocols.cshlp.org/content/2023/10/pdb.top107660.full?rss=1",
-      "urlToImage": null,
-      "publishedAt": "2023-10-03 15:26:32",
-      "content": "",
-      "retrievedAt": "2023-10-04 19:05:25.812247",
-      "internal_id": "e007f3da9f57bf192ea7168047a5411c5f94c1d8e43f9bf6050358cd99b86d08",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2337,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "FRANCE 24 English",
-      "author": "FRANCE24",
-      "title": "Le Bangladesh face \u00e0 une flamb\u00e9e meurtri\u00e8re de dengue",
-      "description": "Des dizaines de patients sont soign\u00e9s dans un h\u00f4pital \u00e0 Dacca, au Bangladesh alors que plus de mille personnes sont mortes de la dengue dans le pays depuis le d\u00e9but de l'ann\u00e9e, selon les chiffres officiels. C'est la pire \u00e9pid\u00e9mie de cette maladie, transmise p\u2026",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20231003-le-bangladesh-face-%C3%A0-une-flamb%C3%A9e-meurtri%C3%A8re-de-dengue",
-      "urlToImage": "https://s.france24.com/media/display/a4c8bfae-61fa-11ee-a6d7-005056a90321/w:1280/p:16x9/m:{\"brand\":\"FRANCE24\",\"lang\":\"FR\",\"program\":\"\",\"cartouche\":\"BANGLADESH\",\"hash\":\"88fa7298d8801066c58b03dcd59839c83552aa3c47502380d8b9652f58bd3be7\",\"title\":\"Flamb%C3%A9e%20meurtri%C3%A8re%20de%20dengue\",\"id\":\"5535ce5c-cd7e-11ed-854c-005056bf30b7\"}/Capture%20d%E2%80%99e%CC%81cran%202023-10-03%20a%CC%80%2016.38.53.png",
-      "publishedAt": "2023-10-03 15:12:25",
-      "content": "Publi\u00e9 le : 03/10/2023 - 17:12 Des dizaines de patients sont soign\u00e9s dans un h\u00f4pital \u00e0 Dacca, au Bangladesh alors que plus de mille personnes sont mortes de la dengue dans le pays depuis le d\u00e9but de\u2026 [+191 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.066040",
-      "internal_id": "bdc839e35bb3daed217fcaf46e65d7c026be27abf2bd967ba0412bfb99860087",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2270,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Internazionale.it",
-      "author": "Internazionale",
-      "title": "L\u2019Oms raccomanda un secondo vaccino contro la malaria",
-      "description": "L\u2019Organizzazione mondiale della sanit\u00e0 (Oms) ha raccomandato il 2 ottobre di somministrare ai bambini un secondo vaccino contro la malaria, che potrebbe salvare centinaia di migliaia di vite. Leggi",
-      "url": "https://www.internazionale.it/ultime-notizie/2023/10/03/salute-oms-malaria-africa",
-      "urlToImage": "https://media.internazionale.it/images/2023/10/02/186489-sd.jpeg",
-      "publishedAt": "2023-10-03 15:02:28",
-      "content": "La somministrazione di un vaccino contro la malaria in Kenya (Yasuyoshi Chiba, Afp) LOrganizzazione mondiale della sanit\u00e0 (Oms) ha raccomandato il 2 ottobre di somministrare ai bambini un secondo v\u2026 [+3079 chars]",
-      "retrievedAt": "2023-10-04 19:05:25.467047",
-      "internal_id": "791b57a3f6e333aaafee2562da2ecd7ca7c515f9046939e6a58b3c2963ebfb7e",
-      "publishedAtLabel": "Oct 3"
-    },
-    {
-      "id": 2340,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Brasil pode viver epidemia de dengue tipo 3 em 2024, diz consultor da OMS",
-      "description": "H\u00e1 mais de 15 anos, o sorotipo 3 da dengue n\u00e3o causa epidemias no Brasil, mas a baixa imunidade da popula\u00e7\u00e3o abre margem para o seu retorno como epidemia",
-      "url": "https://valor.globo.com/brasil/noticia/2023/10/03/brasil-pode-viver-epidemia-de-dengue-tipo-3-em-2024-diz-consultor-da-oms.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/bEQ2snw7r87LZvdm4QuhbkNzD3Q=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/p/t/EbxdgKRbWBXnRA3oM9rg/aedesebc.jpg",
-      "publishedAt": "2023-10-03 14:32:45",
-      "content": "A probabilidade do ressurgimento do sorotipo 3 do v\u00edrus da dengue no Brasil acende alerta para epidemia em 2024, \"importante e com mortes\", segundo Kleber Luz, coordenador do Comit\u00ea de Arboviroses da\u2026 [+3976 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.074758",
-      "internal_id": "b63c1d1486fc26f8e29b548385e5f3523b77d737480bd82621d8f4900b6aa811",
-      "publishedAtLabel": "Oct 3"
     }
   ]
 }
