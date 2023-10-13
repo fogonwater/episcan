@@ -1,8 +1,296 @@
 {
-  "last_updated": "2023-10-13 07:05",
+  "last_updated": "2023-10-13 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 2511,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Estrella \u00c1lvarez",
+      "title": "Aumentan contagios por dengue en Quer\u00e9taro",
+      "description": "La secretaria de Salud queretana, Martina P\u00e9rez Rend\u00f3n, inform\u00f3 que aument\u00f3 el n\u00famero de casos de dengue en el estado de Quer\u00e9taro. En menos de una semana, estos subieron de 17 a 23.Inform\u00f3 que los casos se han focalizado principalmente en dos municipios: Pe\u00f1\u2026",
+      "url": "https://www.milenio.com/estados/en-queretaro-aumentan-casos-de-dengue",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/09/incrementan-casos-dengue-mexico-mil.jpeg",
+      "publishedAt": "2023-10-12 18:50:36",
+      "content": "La secretaria de Salud queretana, Martina P\u00e9rez Rend\u00f3n, inform\u00f3 que aument\u00f3 el n\u00famero de casos de dengue en el estado de Quer\u00e9taro. En menos de una semana, estos subieron de 17 a 23. Inform\u00f3 que los\u2026 [+496 chars]",
+      "retrievedAt": "2023-10-13 19:05:27.920114",
+      "internal_id": "0c0aa3548148fcac83a043b86905a2ba9b643959ad0cfb6138555b1470de7209",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2519,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Locally Acquired Mosquito-Transmitted (Autochthonous) Plasmodium falciparum Malaria \u2014 National Capital Region, Maryland, August 2023",
+      "description": "This report describes cases of locally acquired mosquito-transmitted malaria in Maryland in August2023.",
+      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7241a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7241a3_MosquitoTransmittedMalaria_IMAGE_13October2023__1200x675.jpg?_=37770",
+      "publishedAt": "2023-10-12 17:26:13",
+      "content": "Monique Duwell, MD1; Timothy DeVita, MD2; David Torpey, PhD3; Jenny Chen3; Robert A. Myers, PhD3; Kimberly Mace, PhD2; Alison D. Ridpath, MD2; Wycliffe Odongo2; Brian H. Raphael, PhD2; Audrey Lenhart\u2026 [+9187 chars]",
+      "retrievedAt": "2023-10-13 19:05:28.851125",
+      "internal_id": "88765a831817cea4c89591fdac2c44c7aaff95ec09201fb652d3adfb5a370813",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2514,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Sports Desk",
+      "title": "'Gill ko maine tagda kar diya hai': Yuvraj hopeful of Shubman's recovery",
+      "description": "Former Indian cricketer Yuvraj Singh is optimistic that Shubman Gill, India's opener, will recover in time for the ICC World Cup 2023 match between India and Pakistan. Gill missed the team's first two World Cup games due to an illness. Singh, who played a piv\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/gill-ko-maine-tagda-kar-diya-hai-yuvraj-singh-hopeful-of-shubman-gills-recovery-for-india-pakistan-clash/articleshow/104379658.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104379721,width-1070,height-580,imgsize-36864,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-12 16:32:23",
+      "content": "ODI World Cup: Eye on Pakistan game, Shubman Gill back in nets for hour-long sessionThe Indian camp had a reason to be optimistic on Thursday as Shubman Gill, who was recovering from dengue, returned\u2026 [+108 chars]",
+      "retrievedAt": "2023-10-13 19:05:27.966695",
+      "internal_id": "daf9056e3ed71daec0cbc1ec6f0f5b83921a81f7969b06ea608e5d79b38032a1",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2523,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Smith, L. E., Potts, H. W., Brainard, J., May, T., Oliver, I., Amlot, R., Yardley, L., Rubin, G. J.",
+      "title": "Did mpox knowledge, attitudes and beliefs affect intended behaviour in the general population and men who are gay, bisexual and who have sex with men? An online cross-sectional survey in the UK",
+      "description": "Objectives To investigate rates of mpox beliefs, knowledge and intended behaviours in the general population and in gay, bisexual or other men who have sex with men (GBMSM), and factors associated with intended behaviours. To test the impact of motivational m\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/10/e070882?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-10-12 15:45:11",
+      "content": "Introduction Mpox (also known as monkeypox) is an orthopox virus that causes fever, headache, exhaustion, swollen glands and aches (joint, muscle, back), followed by a rash with blisters.1 It spread\u2026 [+23177 chars]",
+      "retrievedAt": "2023-10-13 19:05:29.603167",
+      "internal_id": "fb99cb5744beed16c5edec398d1e0f8de5eb8aea9c96aae977b8ca99a1146a6e",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2522,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Mpox in Berlin: Weitere Ansteckungen gemeldet",
+      "description": "Seit Ende Juli sind in Berlin zehn Affenpocken-F\u00e4lle gemeldet worden. Einige Patienten waren geimpft.",
+      "url": "https://www.tagesspiegel.de/berlin/mpox-in-berlin-weitere-ansteckungen-gemeldet-10614385.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/affenpockenvirus6/alternates/BASE_16_9_W1400/affenpockenvirus.jpeg",
+      "publishedAt": "2023-10-12 14:30:21",
+      "content": "In Berlin sind in den vergangenen Wochen nachweislich wieder Menschen an Mpox erkrankt. Zwei F\u00e4lle der Krankheit, die vormals als Affenpocken bezeichnet wurde, seien vergangene Woche gemeldet geworde\u2026 [+1469 chars]",
+      "retrievedAt": "2023-10-13 19:05:29.598964",
+      "internal_id": "90033fbe1406e65e07e036c93081cabdec0759b48da9a8e474a14a136037076a",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2516,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bilal Ahmad Rahim, Niamatullah Ishaq, Ghulam Mohayuddin Mudaser, Walter R. Taylor",
+      "title": "Correction: Outcome of acute bacterial meningitis among children in Kandahar, Afghanistan: A prospective observational cohort study",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293150",
+      "urlToImage": null,
+      "publishedAt": "2023-10-12 14:00:00",
+      "content": "There are errors in the Funding section. The correct Funding statement is: This study did not receive any specific funding. WR Taylor is part funded by Wellcome under grant 220211. For the purpose of\u2026 [+702 chars]",
+      "retrievedAt": "2023-10-13 19:05:28.308825",
+      "internal_id": "a45466e6ea2b43ee4d06b5e94fe74de0381d3a90abaab0b6515c2795ecada6c5",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2520,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rabindra K. Mandal, Nathan W. Schmidt",
+      "title": "Mechanistic insights into the interaction between the host gut microbiome and malaria",
+      "description": "Malaria is a devastating infectious disease and significant global health burden caused by the bite of a Plasmodium-infected female Anopheles mosquito. Gut microbiota was recently discovered as a risk factor of severe malaria. This review entails the recent a\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011665",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011665.g003&size=inline",
+      "publishedAt": "2023-10-12 14:00:00",
+      "content": "Abstract Malaria is a devastating infectious disease and significant global health burden caused by the bite of a Plasmodium-infected female Anopheles mosquito. Gut microbiota was recently discovere\u2026 [+81946 chars]",
+      "retrievedAt": "2023-10-13 19:05:28.858104",
+      "internal_id": "9e67f8b1432df5a0f6e575b135982fdd89aa7afc7833d4a750ad9fa1352eb47f",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2521,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Vanessa Tita Jugha, Juliana Adjem Anchang, Germain Sotoing Taiwe, Helen Kuokuo Kimbi, Judith Kuoh Anchang-Kimbi",
+      "title": "Association between malaria and undernutrition among pregnant women at presentation for antenatal care in health facilities in the Mount Cameroon region",
+      "description": "In resource limited settings, malaria and undernutrition are major public health problems in pregnancy. Therefore, this study assessed the association between malaria infection and undernutrition among pregnant women in the Mount Cameroon area. This cross-sec\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292550",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0292550.g002&size=inline",
+      "publishedAt": "2023-10-12 14:00:00",
+      "content": "Abstract In resource limited settings, malaria and undernutrition are major public health problems in pregnancy. Therefore, this study assessed the association between malaria infection and undernut\u2026 [+58899 chars]",
+      "retrievedAt": "2023-10-13 19:05:28.869602",
+      "internal_id": "a688e58e89c15b5c2efc537deba054a7895d130c43a26b748f035f96d880c95d",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2515,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Sports Desk",
+      "title": "These India vs Pakistan stats for 2023 make it tough to pick a winner",
+      "description": "India and Pakistan face off in a round-robin fixture at the Narendra Modi Stadium in Ahmedabad. India started their campaign with a six-wicket victory over Australia and an eight-wicket win over Afghanistan. Pakistan, on the other hand, showed their red-hot f\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/icc-world-cup-these-india-vs-pakistan-stats-for-2023-make-it-tough-to-pick-a-winner/articleshow/104376766.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104377080,width-1070,height-580,imgsize-41584,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-12 13:59:05",
+      "content": "ODI World Cup: Eye on Pakistan game, Shubman Gill back in nets for hour-long sessionThe Indian camp had a reason to be optimistic on Thursday as Shubman Gill, who was recovering from dengue, returned\u2026 [+108 chars]",
+      "retrievedAt": "2023-10-13 19:05:27.970679",
+      "internal_id": "9e1062bf2f836e6b89a44407a5eb629584d6a87fe243abf2a774a1fa761f1613",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2513,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Sports Desk",
+      "title": "Watch: Pakistan team receives traditional warm welcome in Ahmedabad",
+      "description": "The renowned Indian hospitality once again shone brightly as the Pakistan squad was given a grand reception at their team hotel in Ahmedabad, following a jubilant in-flight celebration. This warm welcome preceded their highly anticipated World Cup clash again\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-pakistan-team-receives-traditional-warm-welcome-in-ahmedabad/articleshow/104376772.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104376869,width-1070,height-580,imgsize-58804,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-12 13:43:27",
+      "content": "ODI World Cup: Eye on Pakistan game, Shubman Gill back in nets for hour-long sessionThe Indian camp had a reason to be optimistic on Thursday as Shubman Gill, who was recovering from dengue, returned\u2026 [+108 chars]",
+      "retrievedAt": "2023-10-13 19:05:27.960422",
+      "internal_id": "8f2265e2f02797a9b726403ad86af434d88cf848f76fdb75dea0fe8f3b75064b",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2512,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Sports Desk",
+      "title": "Eye on Pakistan game, Gill back in nets for hour-long session",
+      "description": "The Indian camp had a reason to be optimistic on Thursday as Shubman Gill, who was recovering from dengue, returned to the practice nets, fueling hopes of his possible comeback in Saturday's World Cup match against Pakistan.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-eye-on-pakistan-game-shubman-gill-back-in-nets-for-hour-long-session/articleshow/104375965.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104376092,width-1070,height-580,imgsize-89530,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-12 13:08:26",
+      "content": "WATCH: Shubman Gill reaches Ahmedabad ahead of Pakistan clashRecovering steadily from dengue fever, Indian opener Shubman Gill arrived in Ahmedabad on Wednesday. However, the elegant right-handed bat\u2026 [+159 chars]",
+      "retrievedAt": "2023-10-13 19:05:27.952459",
+      "internal_id": "8dca258b9e2e92dcb9ca248e59a2c58f440e2c36047a25b4010b2ab7e2cb2626",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2518,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Kolumne von Lillian Ikulumet",
+      "title": "SZ-Kolumne Typisch deutsch: Die Malaria der M\u00fcnchner",
+      "description": "Die Wiesngrippe hat die Landeshauptstadt im Griff wie selten. Unsere Autorin hat es diesmal besonders erwischt, aber sie stellt fest: Ugandisches Unkraut vergeht nicht.",
+      "url": "https://www.sueddeutsche.de/muenchen/typisch-deutsch-wiesngrippe-malaria-der-muenchner-1.6286533",
+      "urlToImage": "https://www.sueddeutsche.de/image/sz.1.5710227/1200x675?v=1697113866",
+      "publishedAt": "2023-10-12 12:31:19",
+      "content": "Die Wiesngrippe hat die Landeshauptstadt im Griff wie selten. Unsere Autorin hat es diesmal besonders erwischt, aber sie stellt fest: Ugandisches Unkraut vergeht nicht.Das Niesen nach der Wiesn, es i\u2026 [+217 chars]",
+      "retrievedAt": "2023-10-13 19:05:28.845353",
+      "internal_id": "c042ce14cda9ba584db1795c5c0025b63056b7ffebf0f2a5a5076f78fad17e50",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2510,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": "di Nicola Barone",
+      "title": "Crescono i casi di Dengue in Italia, cos\u2019\u00e8 il virus e perch\u00e9 si continua a diffondere",
+      "description": "Anche se con numeri limitati, lentamente aumentano le infezioni. La temperatura ancora piuttosto alta contribuisce alla circolazione delle zanzare",
+      "url": "https://www.ilsole24ore.com/art/crescono-casi-dengue-italia-cos-e-virus-e-perche-si-continua-diffondere-AFP9btCB",
+      "urlToImage": "https://i2.res.24o.it/images2010/2023/10/AFP9btCB/images/ae95a7ba-68f6-11ee-9db9-90658403dbb7-fotohome0.jpg",
+      "publishedAt": "2023-10-12 11:56:15",
+      "content": "Ascolta la versione audio dell'articolo 2' di lettura Non accennano a calare i casi di Dengue in Italia, che in totale si attestano a 261 quando erano 249 la scorsa settimana. Di questi i casi auto\u2026 [+2339 chars]",
+      "retrievedAt": "2023-10-13 19:05:27.906293",
+      "internal_id": "d911f0d77c65c445ac08972d299196b789a60fb39ccb85203ecd6be202720acf",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2517,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "La malaria cambia zona",
+      "description": "\u25c6 Il cambiamento climatico potrebbe ridurre la diffusione della malaria, almeno in alcune aree geografiche. \u00c8 una delle ipotesi formulate dai ricercatori che studiano le... Leggi",
+      "url": "https://www.internazionale.it/magazine/2023/10/12/la-malaria-cambia-zona",
+      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "publishedAt": "2023-10-12 10:18:43",
+      "content": "Il cambiamento climatico potrebbe ridurre la diffusione della malaria, almeno in alcune aree geografiche. \u00c8 una delle ipotesi formulate dai ricercatori che studiano le conseguenze del fenomeno sulla \u2026 [+1534 chars]",
+      "retrievedAt": "2023-10-13 19:05:28.835307",
+      "internal_id": "d667e6f7c46fdd8290dca9e48eb1ad5358f0b4047ad4f375eaea05ceec553d70",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2508,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "SHARON LING",
+      "title": "15 rabies deaths in Sarawak so far this year",
+      "description": "KUCHING: Sarawak has recorded 15 deaths from 17 rabies cases so far this year, while 100 animals have tested positive for the virus, says Datuk Seri Dr Stephen Rundi. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/12/15-rabies-deaths-in-sarawak-so-far-this-year",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/12/2332448.jpeg",
+      "publishedAt": "2023-10-12 09:44:00",
+      "content": "KUCHING: Sarawak has recorded 15 deaths from 17 rabies cases so far this year, while 100 animals have tested positive for the virus, says Datuk Seri Dr Stephen Rundi. The state Food Industry, Commod\u2026 [+1522 chars]",
+      "retrievedAt": "2023-10-13 19:05:26.792910",
+      "internal_id": "88fadf45bc75b0b9572d2b2e83d5a3184625b18727cea650c5bbaa47f9046d86",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2509,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Pien Huang",
+      "title": "Vaccine hesitancy affects dog-owners, too, with many questioning the rabies shot",
+      "description": "A survey finds more than half of U.S. dog owners question the safety, efficacy or usefulness of the vaccine for rabies, which is a lethal disease. (Story aired on ATC on Oct. 11, 2023.)",
+      "url": "https://www.npr.org/2023/10/12/1205361332/vaccine-hesitancy-affects-dog-owners-too-with-many-questioning-the-rabies-shot",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2023-10-12 09:08:15",
+      "content": "A survey finds more than half of U.S. dog owners question the safety, efficacy or usefulness of the vaccine for rabies, which is a lethal disease. (Story aired on ATC on Oct. 11, 2023.)",
+      "retrievedAt": "2023-10-13 19:05:26.803363",
+      "internal_id": "d053f002dbb0afa4de4809fdda26d7d8c590185386b4d7c384e04c4fdf0b8f38",
+      "publishedAtLabel": "Oct 12"
+    },
     {
       "id": 2507,
       "query": [
@@ -3326,297 +3614,6 @@
       "retrievedAt": "2023-10-06 19:05:22.626946",
       "internal_id": "aafc5498fd4e9bef9755da58fcc4e8e54fdd1baf5ba0e0427f147bbc51d39926",
       "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 2302,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "9News",
-      "author": "Sarah Swain",
-      "title": "Measles alert at Sydney Airport after infectious passenger arrives",
-      "description": "NSW Health has issued an alert for airline passengers to be alert for symptoms of measles after a person flew into Sydney from overseas with the infection.",
-      "url": "https://www.9news.com.au/national/measles-nsw-health-sydney-airport-flight-alert/65578a53-b52c-4809-912b-de0de830d8e5",
-      "urlToImage": "https://imageresizer.static9.net.au/VlvcbssHtSqpsAQ0AOdF_K1lgUo=/0x34:365x239/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F4ecefcfa-f4e1-48c2-8ceb-075234be9d1d",
-      "publishedAt": "2023-10-05 06:55:59",
-      "content": "Auto news: Legitimate reasons to actually get out of a parking fine.",
-      "retrievedAt": "2023-10-06 07:05:36.050391",
-      "internal_id": "34a93f9f7dc49f29cba6b3f510b86194916f32bfd7a6ad0a79c117fe40fa283d",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 2308,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Medical Daily",
-      "author": "Suneeta Sunny",
-      "title": "Arkansas Reports 1 Case Of Locally Acquired Malaria: Know Symptoms, Complications",
-      "description": "Health officials in Arkansas have issued a warning against malaria after a locally transmitted case of the mosquito-borne disease was confirmed in the state.",
-      "url": "https://www.medicaldaily.com/arkansas-reports-1-case-locally-acquired-malaria-know-symptoms-complications-470928",
-      "urlToImage": "https://d.medicaldaily.com/en/full/470255/fever.jpg",
-      "publishedAt": "2023-10-05 06:53:37",
-      "content": "Health officials in Arkansas have issued a warning against malaria after a locally transmitted case of the mosquito-borne disease was confirmed in the state. \"The Arkansas Department of Health (ADH)\u2026 [+2536 chars]",
-      "retrievedAt": "2023-10-06 07:05:38.252197",
-      "internal_id": "6109c3caedfea9f0132946a47b710a064a23edbe989ba5a4229d4dc54c15340e",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 2303,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AFP",
-      "title": "Bangladesh swamped by record dengue deaths",
-      "description": "Bangladesh is currently facing its deadliest dengue outbreak, with more than 1,000 deaths and over 210,000 confirmed cases this year. The outbreak is believed to be a result of climate change, as the frequency of the mosquito-borne disease is increasing. The \u2026",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-swamped-by-record-dengue-deaths/articleshow/104179167.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104179254,width-1070,height-580,imgsize-1121934,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-05 06:28:58",
-      "content": "This semi-precious yellow stone is said to bring in good luck, wealth",
-      "retrievedAt": "2023-10-06 07:05:36.789336",
-      "internal_id": "2edb520bcf381fec48e2a7831dc8d832e467f1e4c0bbe91770ea6faf3a3c203b",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 2306,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Michelle Boyle, Snow Medical Fellow & CSL Centenary Fellow, Burnet Institute, Brendan Crabb, Director and CEO, Burnet Institute",
-      "title": "New malaria vaccine: no silver bullet but an important step towards eradication",
-      "description": "Currently we see more than 600,000 deaths from this mosquito-borne disease each year. This new vaccine \u2013 the second approved to treat malaria \u2013 could change things.",
-      "url": "https://theconversation.com/new-malaria-vaccine-no-silver-bullet-but-an-important-step-towards-eradication-215052",
-      "urlToImage": "https://images.theconversation.com/files/552229/original/file-20231005-31-m9pka.jpg?ixlib=rb-1.1.0&rect=0%2C271%2C5491%2C2741&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2023-10-05 04:04:34",
-      "content": "In what was very big news for global health, this week the World Health Organisation (WHO) recommended a new vaccine for the prevention of malaria in children, called R21/Matrix-M. Malaria, caused b\u2026 [+6949 chars]",
-      "retrievedAt": "2023-10-06 07:05:38.221733",
-      "internal_id": "0e15c88acc0de8794396488a243e9192027ac9d486faf24fdb3a956ba00edbd3",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 2309,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Racial and Socioeconomic Equity of Tecovirimat Treatment during the 2022 Mpox Emergency, New York, New York, USA",
-      "description": "Equity of Treatment during Mpox, New York, USA",
-      "url": "https://wwwnc.cdc.gov/eid/article/29/11/23-0814_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-10-05 04:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.In May 2022, mpox cases we\u2026 [+10234 chars]",
-      "retrievedAt": "2023-10-06 07:05:40.026901",
-      "internal_id": "a8e33cbd564ff14f6390b70bfba2cf67def46b7218c27be04f8ea25034e88fdb",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 2305,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Lavozdegalicia.es",
-      "author": "Cinthya Mart\u00ednez",
-      "title": "Esther sufre agnosia visual provocada por una meningitis: \u00abVeo, pero no s\u00e9 lo que estoy viendo\u00bb",
-      "description": "La infecci\u00f3n caus\u00f3 una lesi\u00f3n en su cerebro y, en consecuencia, aunque su sistema visual es correcto, no reconoce lo que ve. Es uno de los pocos casos en el mundo que sufre esta enfermedad",
-      "url": "https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2023/10/04/esther-sufre-agnosia-visual-consecuencia-meningitis-veo-se-viendo/00031696415531881248993.htm",
-      "urlToImage": "https://www.lavozdegalicia.es/default/2023/10/04/00121696430300871786381/Foto/esthermeningitis2.png",
-      "publishedAt": "2023-10-05 03:00:00",
-      "content": "Entre que me ha dado una crisis de epilepsia y que luego he estado con el cro.... As empieza la conversacin de Esther Chumillas con La Voz de la Salud. Sorprende que alguien exprese con tanta normali\u2026 [+9756 chars]",
-      "retrievedAt": "2023-10-06 07:05:37.083906",
-      "internal_id": "7cdcd4067c30ad44c1815a9de5cea9388f1debede56d420eaa62c06069a733e7",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 2304,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Moneycontrol",
-      "author": "Bloomberg",
-      "title": "Top vaccine maker seeks growth by selling shots to globetrotters",
-      "description": "Over the next three years, Pune-based Serum plans to start production of yellow fever and dengue shots for European and American travelers to countries where those diseases are endemic, Chief Executive Officer Adar Poonawalla said in an interview.",
-      "url": "https://www.moneycontrol.com/news/business/top-vaccine-maker-seeks-growth-by-selling-shots-to-globetrotters-11479481.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/10/402700434-770x433.jpg",
-      "publishedAt": "2023-10-05 01:31:56",
-      "content": "Employees monitor the production of line for Covishield, the local name for the Covid-19 vaccine developed by AstraZeneca Plc. and the University of Oxford, at the Serum Institute of India Ltd. Hadas\u2026 [+4650 chars]",
-      "retrievedAt": "2023-10-06 07:05:36.795170",
-      "internal_id": "851c3d912a196891ddd167360bcc64684326321d5c69fb061604c186e395a130",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 2396,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Elifesciences.org",
-      "author": "matthew.higgins@bioch.ox.ac.uk (Abhishek Jamwal), matthew.higgins@bioch.ox.ac.uk (Bernd Fakler), matthew.higgins@bioch.ox.ac.uk (Cristina F Constantin), matthew.higgins@bioch.ox.ac.uk (Matthew K Higgins), matthew.higgins@bioch.ox.ac.uk (Sebastian Henrich), matthew.higgins@bioch.ox.ac.uk (Simon J Draper), matthew.higgins@bioch.ox.ac.uk (Stephan Hirshi), matthew.higgins@bioch.ox.ac.uk (Uwe Schulte), matthew.higgins@bioch.ox.ac.uk (Wolfgang Bildl)",
-      "title": "Erythrocyte invasion-neutralising antibodies prevent Plasmodium falciparum RH5 from binding to basigin-containing membrane protein complexes",
-      "description": "Basigin is an essential host receptor for invasion of Plasmodium falciparum into human erythrocytes, interacting with parasite surface protein PfRH5. PfRH5 is a leading blood-stage malaria vaccine candidate and a target of growth-inhibitory antibodies. Here w\u2026",
-      "url": "https://elifesciences.org/articles/83681",
-      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
-      "publishedAt": "2023-10-05 00:00:00",
-      "content": "Biochemistry and Chemical BiologyMicrobiology and Infectious Disease Across bacteria, protein-based organelles called bacterial microcompartments (BMCs) encapsulate ke\u2026 [+4421 chars]",
-      "retrievedAt": "2023-10-08 07:05:25.724452",
-      "internal_id": "5e7b22e8a8158f4c9e44a0784cfb889675251800e0189d1e418e6bd5c03be18c",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 2353,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Ohene-Adjei, K., Asante, K. P., Akuffo, K. O., Tounaikok, N., Asiamah, M., Owiredu, D., Manu, A. A., Danso-Appiah, A.",
-      "title": "Malaria vaccine-related adverse events among children under 5 in sub-Saharan Africa: systematic review and meta-analysis protocol",
-      "description": "Introduction The RTS,S vaccine has been approved for use in children under 5 living in moderate to high malaria transmission areas. However, clinically important adverse events have been reported in countries in sub-Saharan Africa. This systematic review ai\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/10/e076985?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-10-04 23:25:21",
-      "content": "Introduction An estimated 241million cases and 627000 deaths from malaria occurred globally in 2020.1 Sub-Saharan Africa (SSA) accounted for 228million (95%) of global malaria cases1 and children un\u2026 [+1505 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.974326",
-      "internal_id": "c38ac84cb22e29c0f35e616f7b5680c2d2c88f50d9388e9fa7b690b8b5839d2a",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2395,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Robsky, K. O., Tram, K. H., Dowdy, D. W., Zelner, J.",
-      "title": "Methods for measuring short-term geographical mobility used in infectious disease research: a scoping review protocol",
-      "description": "Introduction Geographical mobility, the movement of individuals or populations, may increase an individual\u2019s risk of acquiring or transmitting infectious diseases, including HIV, tuberculosis, malaria and COVID-19. Many studies have collected information on s\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/10/e072439?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-10-04 23:25:21",
-      "content": "Introduction Human movement occurs across many scales of distance (neighbourhood, intraurban, regional, international) and time (daily, periodic, seasonal, long term, migration) and can also vary in\u2026 [+4752 chars]",
-      "retrievedAt": "2023-10-08 07:05:25.721235",
-      "internal_id": "bd23e89f63b029c4dccc18b8a6845caa8d9598609ca0b12a8ce2fe0c764348c3",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2307,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "The Conversation",
-      "title": "Vacuna contra la malaria: OMS aprueba la R21/Matrix, que erradicar\u00eda la enfermedad en 2040",
-      "description": "Cada a\u00f1o nacen alrededor de 40 millones de ni\u00f1os en zonas africanas con malaria.",
-      "url": "https://www.elfinanciero.com.mx/salud/2023/10/04/vacuna-contra-la-malaria-oms-aprueba-la-r21matrix-que-erradicaria-la-enfermedad-en-2040/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/7NJWFMWSfSz-EXDVO-s8qpPaJbs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JYC3HFLH75HONEPYELCASLYTLE.jpg",
-      "publishedAt": "2023-10-04 21:55:08",
-      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) aprob\u00f3 una nueva vacuna que, seg\u00fan los cient\u00edficos, cambiar\u00e1 las reglas del juego en la lucha contra la malaria, que mata a medio mill\u00f3n de personas en \u00c1fric\u2026 [+6569 chars]",
-      "retrievedAt": "2023-10-06 07:05:38.247096",
-      "internal_id": "13d78a1bebba8dcf94fc1e84fbf2e0511bc82b62f28a87df5d2e230ecca40aec",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2301,
-      "query": [
-        "zika",
-        "chikungunya",
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Bernard Cazelles, Ecologie, Epidemiologie, Sorbonne Universit\u00e9",
-      "title": "Maladies transmises par les moustiques, m\u00e9t\u00e9o et climat : des liaisons dangereuses",
-      "description": "Les maladies transmises par les moustiques progressent sous l\u2019influence du climat. Des analyses statistiques pouss\u00e9es des donn\u00e9es \u00e9pid\u00e9miologiques permettraient de mieux pr\u00e9voir les flamb\u00e9es.",
-      "url": "https://theconversation.com/maladies-transmises-par-les-moustiques-meteo-et-climat-des-liaisons-dangereuses-214779",
-      "urlToImage": "https://images.theconversation.com/files/551419/original/file-20231002-17-o3uqig.jpg?ixlib=rb-1.1.0&rect=0%2C159%2C1024%2C512&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2023-10-04 18:39:57",
-      "content": "Aedes aegypti est une esp\u00e8ce d'insectes dipt\u00e8res, un moustique qui est le vecteur principal de la dengue, de l'infection \u00e0 virus Zika, du chikungunya et de la fi\u00e8vre jaune. U.S. NAVY Lors de la cri\u2026 [+9310 chars]",
-      "retrievedAt": "2023-10-05 19:05:28.204478",
-      "internal_id": "0740df541b715cd6f56c30911bf9c24a2ecf0d308a1cb23f76f8d76abe765455",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2294,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Awareness campaign on Dengue held",
-      "description": "HT Bureau GUWAHATI, Oct 4: An awareness rally on pertaining issue related to dengue was organised by the medical department of Dima Hasao in collaboration with Haflong Municipal Board in Haflong town area starting from Haflong Municipal Board field (Lal field\u2026",
-      "url": "https://thehillstimes.in/assam/awareness-campaign-on-dengue-held",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/Awareness-campaign.jpg",
-      "publishedAt": "2023-10-04 18:33:20",
-      "content": "HT BureauGUWAHATI, Oct 4: An awareness rally on pertaining issuerelated to dengue was organised by the medical department ofDima Hasao in collaboration with Haflong Municipal Board inHaflong town are\u2026 [+789 chars]",
-      "retrievedAt": "2023-10-05 19:05:27.022728",
-      "internal_id": "55e3b263e4c1379f93423ba3c409352b44d6ab5cc930f8fd9c0b622b5d9ea9f8",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2291,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Politicopro.com",
-      "author": "Ashleigh Furlong, E&E News",
-      "title": "Dengue's Spread in Europe Could Spur Vaccine Development",
-      "description": "But dengue in wealthy countries could divert medication away from poorer nations that may need it more",
-      "url": "https://subscriber.politicopro.com/article/eenews/2023/10/04/why-dengue-in-europe-could-spell-disaster-for-the-rest-of-the-world-ee-00119710",
-      "urlToImage": "https://static.scientificamerican.com/sciam/cache/file/82EBAA1E-6CA8-4F07-8D6321994576B6CB.jpg",
-      "publishedAt": "2023-10-04 17:00:00",
-      "content": "CLIMATEWIRE | In the early morning of the last day of August, Parisians experienced for the first time a practice normally confined to tropical regions \u2014 authorities fumigating the city against the t\u2026 [+6073 chars]",
-      "retrievedAt": "2023-10-05 19:05:26.985325",
-      "internal_id": "f0bcdb5301e8b9c6ff424fbc0130569a2f98474283d1d662214d194115b742c6",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2297,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "Carolyn Pere",
-      "title": "October 5 is World Meningitis Day: \u2018Mana Wahine Toa\u2019: Carolyn Pere\u2019s transformation after meningitis",
-      "description": "She was at the peak of her career. Then the headaches started.",
-      "url": "https://www.nzherald.co.nz/kahu/world-meningitis-day-i-wasnt-going-to-let-meningitis-keep-me-downso-i-took-up-triathlons/GUORA6TSFVEKBBF5WBONVZ4OD4/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/l_2vwF79FvErdRdqFfklfj3rTkI=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/UQY3PPNROVGKDBFHQGGQNT6OKM.jpg",
-      "publishedAt": "2023-10-04 17:00:00",
-      "content": "Carolyn Peres battle with meningitis led to her triathlons.Carolyn Peres life took a drastic and dramatic turn when she contracted bacterial meningitis, sepsis and thrombocytopenia at 57 years old, r\u2026 [+6922 chars]",
-      "retrievedAt": "2023-10-05 19:05:27.265416",
-      "internal_id": "870ff757a3a3e8b36d190e843803c19146a04917b338bc3a804af8c7155e347b",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2295,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Khider Alsedig, Mawahib H. Eldigail, Adel Hussein Elduma, Arwa Elaagip, Omnia Altahir, Hanaa Adli Siam, Yousif Ali, Tajeldin Abdallah",
-      "title": "Prevalence of malaria and dengue co-infections among febrile patients during dengue transmission season in Kassala, eastern Sudan",
-      "description": "Author summary Malaria and dengue are common vector-borne diseases in eastern Sudan. However, co-infections with these two diseases are not reported among febrile patients. Malaria and dengue co-infections need a particular concern because this may increase m\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011660",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011660.g001&size=inline",
-      "publishedAt": "2023-10-04 14:00:00",
-      "content": "Abstract Background Malaria and dengue are common mosquito-borne diseases around the world that cause high mortality and morbidity. The number of cases of both diseases is currently rising in Sudan\u2026 [+29461 chars]",
-      "retrievedAt": "2023-10-05 19:05:27.051765",
-      "internal_id": "7032ceb7b14484ab518decd0f4664b2846c9024924f304511072800f34a9525e",
-      "publishedAtLabel": "Oct 4"
     }
   ]
 }
