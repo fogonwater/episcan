@@ -1,8 +1,171 @@
 {
-  "last_updated": "2023-10-12 19:05",
+  "last_updated": "2023-10-13 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 16,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 2507,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "FOCUS online",
+      "title": "Von M\u00fccken \u00fcbertragen - Chikungunya-Virus in Triest - B\u00fcrgermeister l\u00e4sst Bezirk desinfizieren",
+      "description": "In Triest ist ein weiterer Fall von Chikungunya aufgetreten. Es handelt sich um den f\u00fcnften Fall in Italien. Der B\u00fcrgermeister greift zu drastischen Ma\u00dfnahmen.",
+      "url": "https://www.focus.de/panorama/welt/von-muecken-uebertragen-chikungunya-virus-in-triest-buergermeister-laesst-bezirk-desinfizieren_id_223282068.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_223281519/muecke.jpg?im=Crop%3D%280%2C288%2C3464%2C1732%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4383eb64dc14a4494279118adcffed79e90dd1b952fe1398ea6706275b340079",
+      "publishedAt": "2023-10-12 05:50:39",
+      "content": "In Triest ist ein weiterer Fall von Chikungunya aufgetreten. Es handelt sich um den f\u00fcnften Fall in Italien. Der B\u00fcrgermeister greift zu drastischen Ma\u00dfnahmen.In Triest ist der f\u00fcnfte italienweite Fa\u2026 [+1641 chars]",
+      "retrievedAt": "2023-10-13 07:05:38.736984",
+      "internal_id": "122581cca04acbf17f6a42e3a2707c0531cc4753962febb269e427326b27917e",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2505,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Vice President Yadav diagnosed with Dengue",
+      "description": "KATHMANDU: Vice President Ramsahay Prasad Yadav has been confirmed to have contracted dengue fever. He is currently receiving treatment at the Civil Hospital in New Baneshwar. According to his private physician, Dr. Shivaji Silwal, there has been a noticeable\u2026",
+      "url": "https://english.khabarhub.com/2023/12/322048/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/12/Ramsahaya-Prasad-Yadav-JSP.png",
+      "publishedAt": "2023-10-12 05:45:56",
+      "content": "KATHMANDU: Vice President Ramsahay Prasad Yadav has been confirmed to have contracted dengue fever. He is currently receiving treatment at the Civil Hospital in New Baneshwar. According to his priv\u2026 [+317 chars]",
+      "retrievedAt": "2023-10-13 07:05:37.294635",
+      "internal_id": "5a88a968e10bcca5b0af49707bbe3870028d85ce6de233098158b07b249e9e72",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2499,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Fruits and vegetables to help you recover from dengue faster",
+      "description": "Here are the best fruits and vegetables a dengue patient should eat everyday to recover faster.",
+      "url": "https://economictimes.indiatimes.com/news/web-stories/fruits-and-vegetables-to-help-you-recover-from-dengue-faster/slideshow/104360441.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104360528,width-900,height-460,resizemode-4.cms",
+      "publishedAt": "2023-10-12 05:26:16",
+      "content": "Papayas have active compunds such as papain, caricain, chymopapain, acetogenin and more that are required to reduce dengue-related inflammation.",
+      "retrievedAt": "2023-10-13 07:05:37.226884",
+      "internal_id": "1e5dcca20018d6fe9aeedb07439a41ecc6afa5c7ae80807a089637c1f51bdd35",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2500,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Stephanie Nolen, Natalija Gormalova",
+      "title": "The gamble: can genetically-modified mosquitoes end disease?",
+      "description": "Scientists are battling both disease such as malaria and dengue fever and also local unease over nature of experiments",
+      "url": "https://www.irishtimes.com/business/innovation/2023/10/12/the-gamble-can-genetically-modified-mosquitoes-end-disease/",
+      "urlToImage": "https://www.irishtimes.com/resizer/l4pX5A_trVCB89m-5SGWyBHR-KY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/XCOEDK2LXBA4RMAEOOUSG7BBAQ.jpg",
+      "publishedAt": "2023-10-12 04:00:00",
+      "content": "On a muggy evening in July on the island of Pr\u00edncipe, part of a volcanic archipelago 200 miles off the west African mainland, 11,000 mosquitoes dusted in fluorescent green powder flew together into t\u2026 [+11558 chars]",
+      "retrievedAt": "2023-10-13 07:05:37.238949",
+      "internal_id": "669a65651bcfe8ee94abcc0514676150eb868ead0c05e35613ea0c36f6c7bc03",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2497,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "INFOGRAPHIES. Moustique tigre : comment les cas de dengue ont explos\u00e9 dans l'Hexagone en 2023",
+      "description": "Entre le 1er mai et le 6 octobre 2023, 1 167 cas de dengue import\u00e9s ont \u00e9t\u00e9 d\u00e9tect\u00e9s par Sant\u00e9 publique France. C'est un record depuis la mise en place d'un dispositif de surveillance renforc\u00e9e en 2006.",
+      "url": "https://www.francetvinfo.fr/sante/infographies-moustique-tigre-comment-les-cas-de-dengue-ont-explose-dans-l-hexagone-en-2023_6115131.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/BCLBFPLPxul1H9ruW4pYhVbTXHY/1500x843/2022/07/30/phpVvfFvI.jpg",
+      "publishedAt": "2023-10-12 03:57:48",
+      "content": "En mati\u00e8re de dengue, l'ann\u00e9e 2023 s'annonce d\u00e9j\u00e0 comme celle des records en France. Aussi appel\u00e9e grippe tropicale, cette maladie infectieuse saisonni\u00e8re peut se manifester par de fortes fi\u00e8vres, de\u2026 [+4190 chars]",
+      "retrievedAt": "2023-10-13 07:05:37.206921",
+      "internal_id": "14ba1bfa3ae21f46550c129ee6e1ca9f51c85217b70a55622aff0daf38d4c025",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2501,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Sports Desk",
+      "title": "WATCH: Shubman Gill reaches Ahmedabad ahead of Pakistan clash",
+      "description": "Recovering steadily from dengue fever, Indian opener Shubman Gill arrived in Ahmedabad on Wednesday. However, the elegant right-handed batsman's participation in the highly anticipated World Cup showdown against arch-rivals Pakistan on Saturday remains uncert\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-shubman-gill-reaches-ahmedabad-ahead-of-pakistan-clash/articleshow/104357113.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104357132,width-1070,height-580,imgsize-40984,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-12 03:08:48",
+      "content": "Rohit Sharma breaks Sachin Tendulkars this World Cup record, slams 31st ODI hundred against Afghanistan",
+      "retrievedAt": "2023-10-13 07:05:37.248087",
+      "internal_id": "5be3cf442a2feeece46f869ddcf44fc71f07657f9911a5f652e9a448de5ae524",
+      "publishedAtLabel": "Oct 12"
+    },
+    {
+      "id": 2506,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "The prevalence of malaria infections varies among migrant populations",
+      "description": "The prevalence of malaria infections among migrants from sub-Saharan Africa is considerably high (8%), while Asian and Latin American migrants have a much lower prevalence, according to a new study.",
+      "url": "https://www.sciencedaily.com/releases/2023/10/231011182227.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-10-11 22:22:27",
+      "content": "The prevalence of malaria infections among migrants from sub-Saharan Africa is considerably high (8%), while Asian and Latin American migrants have a much lower prevalence, according to a study by th\u2026 [+2495 chars]",
+      "retrievedAt": "2023-10-13 07:05:38.252734",
+      "internal_id": "80b4e5fa1362ad90127022fce26734d8f79099e3880259c9b774611390407a2f",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2496,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WKTV",
+      "author": "Zach Lewis",
+      "title": "Rabid Skunk Found in Utica",
+      "description": "A skunk from Utica has tested positive for rabies.",
+      "url": "https://www.wktv.com/news/health/rabid-skunk-found-in-utica/article_3eb6fef6-686c-11ee-998c-83787de4764d.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/1/29/129cdb58-3c73-11ee-9c85-bb942bec5d2c/64dd30e746398.image.png?crop=1712%2C899%2C0%2C155&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-10-11 22:03:33",
+      "content": "UTICA, N.Y. -- A skunk from Utica has tested positive for rabies. The animal was sent to the New York State Department of Health Wadsworth Center for testing on Oct. 10. The positive results were \u2026 [+991 chars]",
+      "retrievedAt": "2023-10-13 07:05:36.536278",
+      "internal_id": "449d07c02a4db093a6d5b2540c6a19ba7d8d9da876d9cade225809defbc88a43",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2498,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "\u00d3scar Rodr\u00edguez",
+      "title": "En Oaxaca, mantienen alerta epidemiol\u00f3gica por dengue en 46 municipios",
+      "description": "En Oaxaca, persiste la alerta epidemiol\u00f3gica en aproximadamente 46 municipios debido a los contagios de dengue, inform\u00f3Ignacio Z\u00e1rate Blas, director de Prevenci\u00f3n y Promoci\u00f3n de la Salud en Oaxaca.En este contexto, se han registrado siete nuevas defunciones: \u2026",
+      "url": "https://www.milenio.com/estados/continua-alerta-epidemiologica-dengue-municipios-oaxaca",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/11/ignacio-zarate-blas-director-prevencion.jpg",
+      "publishedAt": "2023-10-11 21:57:00",
+      "content": "En Oaxaca, persiste la alerta epidemiol\u00f3gica en aproximadamente 46 municipios debido a los contagios de dengue, inform\u00f3 Ignacio Z\u00e1rate Blas, director de Prevenci\u00f3n y Promoci\u00f3n de la Salud en Oaxaca. \u2026 [+1648 chars]",
+      "retrievedAt": "2023-10-13 07:05:37.214515",
+      "internal_id": "74f36bae097b66ccd3cb08baa4b2ac7847857cb2b4364cc43c5a603b8b48cf16",
+      "publishedAtLabel": "Oct 11"
+    },
     {
       "id": 2490,
       "query": [
@@ -130,6 +293,24 @@
       "publishedAtLabel": "Oct 11"
     },
     {
+      "id": 2504,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Kaski records 1,481 dengue cases so far",
+      "description": "KASKI: At least 1,481 infection cases have been confirmed in Kaski district, said the district health office. The number of patients with dengue visiting Pokhara Hospital has increased in recent days, said the hospital. A total of 11 dengue patients are recei\u2026",
+      "url": "https://english.khabarhub.com/2023/11/321972/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-10-11 15:15:50",
+      "content": "Image for Representation.KASKI: At least 1,481 infection cases have been confirmed in Kaski district, said the district health office. The number of patients with dengue visiting Pokhara Hospital has\u2026 [+1669 chars]",
+      "retrievedAt": "2023-10-13 07:05:37.289850",
+      "internal_id": "99ac3aec3a94a61181cb14a8416c968407fce4d4ec8cf317f73296ec4306ef39",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
       "id": 2489,
       "query": [
         "malaria"
@@ -166,6 +347,24 @@
       "publishedAtLabel": "Oct 11"
     },
     {
+      "id": 2502,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue infections till September reach 38,059",
+      "description": "KATHMANDU: The Ministry of Health and Population has said the number of dengue infections till September of the year 2023 exceeded 38,000. According to the data of the Epidemiology and Disease Control Division, the infection has so far spread to 76 districts,\u2026",
+      "url": "https://english.khabarhub.com/2023/11/321976/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/10/Epidemiology-and-Disease-Control-Division.jpeg",
+      "publishedAt": "2023-10-11 14:15:42",
+      "content": "Epidemiology and Disease Control Division/File photo.KATHMANDU: The Ministry of Health and Population has said the number of dengue infections till September of the year 2023 exceeded 38,000. Accord\u2026 [+1322 chars]",
+      "retrievedAt": "2023-10-13 07:05:37.283357",
+      "internal_id": "0d8cbecbf180b4bd56a357211f3efa32d3309f881aa4c543d55fcc25e0ddaebf",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
       "id": 2484,
       "query": [
         "dengue"
@@ -199,6 +398,24 @@
       "content": "NewsIndia opener is recovering from dengue and has missed the first two games of their World Cup campaign",
       "retrievedAt": "2023-10-12 19:05:23.179353",
       "internal_id": "b82b3213456bb280808bb7db490857cfea1d0ac084c872567022ffb5976e4d57",
+      "publishedAtLabel": "Oct 11"
+    },
+    {
+      "id": 2503,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "China to donate dengue testing kits to Bangladesh",
+      "description": "The Embassy of China in Bangladesh will donate dengue testing kits to Enam Medical College Hospital in Savar, on the outskirts of the capital, on Tuesday (October 11). As part of the initiative to assist Bangladesh in addressing the ongoing dengue surge, the \u2026",
+      "url": "https://sylhetmirror.com/2023/10/11/china-to-donate-dengue-testing-kits-to-bangladesh/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/10/Iiuyt.jpg",
+      "publishedAt": "2023-10-11 09:13:47",
+      "content": "The Embassy of China in Bangladesh will donate dengue testing kits to Enam Medical College Hospital in Savar, on the outskirts of the capital, on Tuesday (October 11). As part of the initiative to a\u2026 [+317 chars]",
+      "retrievedAt": "2023-10-13 07:05:37.287028",
+      "internal_id": "2b29e6f971bb7b37ac5edb21d5b737afeda68fb071ec9305c8c1172fc076a23e",
       "publishedAtLabel": "Oct 11"
     },
     {
@@ -3399,223 +3616,6 @@
       "content": "Abstract Background Malaria and dengue are common mosquito-borne diseases around the world that cause high mortality and morbidity. The number of cases of both diseases is currently rising in Sudan\u2026 [+29461 chars]",
       "retrievedAt": "2023-10-05 19:05:27.051765",
       "internal_id": "7032ceb7b14484ab518decd0f4664b2846c9024924f304511072800f34a9525e",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2300,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Abiodun Nejo",
-      "title": "Ekiti distributes anti-malaria drugs to health facilities",
-      "description": "The Ekiti State Government has restated its commitment to the eradication of malaria in the state with the distribution of drugs and commodities to over 200 health facilities across the 16 local government areas of the state. The Commissioner for Health, Dr O\u2026",
-      "url": "https://punchng.com/ekiti-distributes-anti-malaria-drugs-to-health-facilities/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/22015336/malaria.jpg",
-      "publishedAt": "2023-10-04 12:58:16",
-      "content": "The Ekiti State Government has restated its commitment to the eradication of malaria in the state with the distribution of drugs and commodities to over 200 health facilities across the 16 local gove\u2026 [+2387 chars]",
-      "retrievedAt": "2023-10-05 19:05:27.683688",
-      "internal_id": "0b02f53fb77a7c552746d1fa0deb2983b2c72f25e58afd8dd06893b0ef223dba",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2336,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clicrbs.com.br",
-      "author": "Reprodu\u00e7\u00e3o",
-      "title": "Virginia Fonseca \u00e9 diagnosticada com dengue e nega gravidez",
-      "description": "Influenciadora havia relatado sintomas aos seus mais de 44 milh\u00f5es de seguidores do Instagram",
-      "url": "http://diariogaucho.clicrbs.com.br/rs/entretenimento/noticia/2023/10/virginia-fonseca-e-diagnosticada-com-dengue-e-nega-gravidez-34272258.html",
-      "urlToImage": "http://diariogaucho.rbsdirect.com.br/imagesrc/45381393.jpg?w=600",
-      "publishedAt": "2023-10-04 12:58:01",
-      "content": "Ap\u00f3s precisar de atendimento m\u00e9dico no final de semana, a influenciadora digital Virginia Fonseca foi diagnosticada com dengue, confirmou sua assessoria \u00e0 revista Quem nesta segunda-feira (2). Ela ha\u2026 [+1198 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.062988",
-      "internal_id": "e4766e1af6f5e898bcd5bb833d012c8ef89821ce643e3feb0eeef92208e77b97",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2339,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "J\u00e9r\u00f4me Diesnis (20 Minutes)",
-      "title": "Gard : D\u00e9couverte de cinq nouveaux cas autochtones de dengue",
-      "description": "Ce sont au total sept personnes qui ont \u00e9t\u00e9 infect\u00e9es par cette maladie tropicale, sans avoir voyag\u00e9 dans des zones \u00e0 risques, apr\u00e8s avoir \u00e9t\u00e9 piqu\u00e9es par des moustiques",
-      "url": "https://www.20minutes.fr/sante/4056148-20231004-gard-decouverte-cinq-nouveaux-cas-autochtones-dengue",
-      "urlToImage": "https://img.20mn.fr/YFaDoGR2Rw6m1rJSaXAhEg/1200x768_moustique-tigre-plein-repas-illustration",
-      "publishedAt": "2023-10-04 12:20:04",
-      "content": "Le 19 septembre, l\u2019ARS (Agence r\u00e9gionale de sant\u00e9) avait \u00e9voqu\u00e9 la d\u00e9couverte de deux cas autochtones de dengue dans le Gard. Ces deux personnes avaient \u00e9t\u00e9 infect\u00e9es, selon toute vraisemblance, dans\u2026 [+2059 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.072043",
-      "internal_id": "e28b4a7fe8812467bdb2580f9a8a91a48155adc5d934c703f3a6a346f4e0abf8",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2298,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Ari Daniel",
-      "title": "There are now 2 vaccines to slash the frightful toll of malaria",
-      "description": "The World Health Organization has recommended usage of a second vaccine for the prevention of malaria in children. (Story aired on All Things Considered on Oct. 3, 2023.)",
-      "url": "https://www.npr.org/2023/10/04/1203558955/there-are-now-2-vaccines-to-slash-the-frightful-toll-of-malaria",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "publishedAt": "2023-10-04 11:21:00",
-      "content": "The World Health Organization has recommended usage of a second vaccine for the prevention of malaria in children. (Story aired on All Things Considered on Oct. 3, 2023.)",
-      "retrievedAt": "2023-10-05 19:05:27.671606",
-      "internal_id": "99baa474f81ecb244ddd9e41d8444a47b7492d910ba288e8a362abaccb68d2ca",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2293,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Reforma.com",
-      "author": "Natalia Vitela",
-      "title": "Reportan m\u00e1s dengue y se triplican muertes",
-      "description": "Un repunte de casos y decesos por dengue azota a la Pen\u00ednsula de Yucat\u00e1n y algunos estados del centro del Pa\u00eds como Morelos y Puebla.",
-      "url": "https://www.reforma.com/reportan-mas-dengue-se-triplican-muertes/ar2686599",
-      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/5/590/4589618.jpg&wm=1&ang=0",
-      "publishedAt": "2023-10-04 11:01:24",
-      "content": "Un repunte de casos y decesos por dengue azota a la Pen\u00ednsula de Yucat\u00e1n y a algunos estados del centro del Pa\u00eds como Morelos y Puebla. Cr\u00e9dito: Archivo",
-      "retrievedAt": "2023-10-05 19:05:27.007623",
-      "internal_id": "fbfb361ddf3a1565ce1f2a6bafede5bfe0c3357ebf407378564d6d6f77b310a0",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2341,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "20 Minutes avec agence (20 Minutes)",
-      "title": "Dr\u00f4me : Au moins deux cas de dengue autochtones annonc\u00e9s par l'ARS \u00e0 Bourg-les-Valence",
-      "description": "Une op\u00e9ration massive de d\u00e9moustication curative a \u00e9t\u00e9 men\u00e9e",
-      "url": "https://www.20minutes.fr/sante/4056109-20231004-drome-moins-deux-cas-dengue-autochtones-annonces-ars-bourg-valence",
-      "urlToImage": "https://img.20mn.fr/EIm3bcBuSwC6WgkXq7trQCk/1200x768_la-nature-de-la-pathologie-d-un-troisieme-malade-est-en-cours-de-determination-illustration",
-      "publishedAt": "2023-10-04 10:44:00",
-      "content": "L'Agence R\u00e9gionale de Sant\u00e9 (ARS) Auvergne-Rh\u00f4ne-Alpes a indiqu\u00e9 ce lundi que le Centre national de r\u00e9f\u00e9rence Arbovirus (CNR) avait confirm\u00e9 la d\u00e9tection de deux cas autochtones de dengue \u00e0 Bourg-l\u00e8s\u2026 [+935 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.078373",
-      "internal_id": "c34438171d55fa37854c5139e51101b4a3e0b5e70d06d77aa018b4effecc8b3b",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2296,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "El 45% de los padres desconoce que las vacunas frente a la meningitis meningoc\u00f3cica est\u00e1n incluidas en el SNS",
-      "description": "El 45 por ciento de los padres espa\u00f1oles afirma no conocer que las vacunas frente a la meningitis meningoc\u00f3cica A, C, W, Y y B est\u00e1n incluidas en el calendario de vacunaci\u00f3n del Sistema Nacional de Salud (SNS), seg\u00fan una nueva encuesta internacional realizada\u2026",
-      "url": "https://www.infosalus.com/asistencia/noticia-45-padres-desconoce-vacunas-frente-meningitis-meningococica-estan-incluidas-sns-20231004120208.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231004120208_1200.jpg",
-      "publishedAt": "2023-10-04 10:02:08",
-      "content": "MADRID, 4 Oct. (EUROPA PRESS) - El 45 por ciento de los padres espa\u00f1oles afirma no conocer que las vacunas frente a la meningitis meningoc\u00f3cica A, C, W, Y y B est\u00e1n incluidas en el calendario de v\u2026 [+4105 chars]",
-      "retrievedAt": "2023-10-05 19:05:27.260496",
-      "internal_id": "41da544458c129c2da25e1198733323df127dcd90e1d45b5c8fcdbdc244fc3b9",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2299,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Elisabeth Mahase",
-      "title": "WHO recommends second vaccine for malaria prevention in children",
-      "description": "The World Health Organization has recommended a second malaria vaccine, R21/Matrix-M, for prevention of the disease in children, after a review found it to be safe and effective.Researchers and clinicians have welcomed the decision, which they hope will go so\u2026",
-      "url": "https://www.bmj.com/content/383/bmj.p2291",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/382/8400.cover-source.jpg",
-      "publishedAt": "2023-10-04 09:51:09",
-      "content": "The World Health Organization has recommended a second malaria vaccine, R21/Matrix-M, for prevention of the disease in children, after a review found it to be safe and effective. Researchers and cli\u2026 [+407 chars]",
-      "retrievedAt": "2023-10-05 19:05:27.679331",
-      "internal_id": "cb9af983a7d031e3aa5c2359f5989f042256df416988f37fb6c664758058d201",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2292,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "Sudan: Ministry of Health 'Absent' As Dengue Fever Spreads - Doctor",
-      "description": "[Dabanga] El Fasher / Um Rawaba / East Nile -- The director of the El Salam Diabetes Centre in El Fasher, capital of North Darfur, expressed his concern about the rapid spread of dengue fever* and malaria. Health sources reported an increase of dengue fever c\u2026",
-      "url": "https://allafrica.com/stories/202310040112.html",
-      "urlToImage": "https://cdn07.allafrica.com/download/pic/main/main/csiid/00271299:fc9f868307bec7694ac50f20c7e21a50:arc614x376:w1200.jpg",
-      "publishedAt": "2023-10-04 07:48:35",
-      "content": "El Fasher / Um Rawaba / East Nile \u2014 The director of the El Salam Diabetes Centre in El Fasher, capital of North Darfur, expressed his concern about the rapid spread of dengue fever* and malaria. Heal\u2026 [+3399 chars]",
-      "retrievedAt": "2023-10-05 19:05:27.000935",
-      "internal_id": "e9af3af8a50bb975098e89baf3270f34b1cad8350a654614cd9d24e68751a98a",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2280,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "J\u00falia Dal Rovere",
-      "title": "OMS recomenda vacina contra a dengue para crian\u00e7as",
-      "description": "Organiza\u00e7\u00e3o Mundial da Sa\u00fade indica vacina Qdenga produzida por farmac\u00eautica japonesa para imuniza\u00e7\u00e3o de crian\u00e7as e adolescentes no Brasil O post OMS recomenda vacina contra a dengue para crian\u00e7as apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/10/04/medicina-e-saude/oms-recomenda-vacina-contra-a-dengue-para-criancas/",
-      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2022/01/vacinacao-crianca-covid.jpg",
-      "publishedAt": "2023-10-04 05:20:00",
-      "content": "A OMS (Organiza\u00c3\u00a7\u00c3\u00a3o Mundial da Sa\u00c3\u00bade) passou a recomendar a vacina\u00c3\u00a7\u00c3\u00a3o contra a dengue, doen\u00c3\u00a7a transmitida pelo mosquito\u00c2 Aedes aegypti, para crian\u00c3\u00a7as e adolescentes. O imunizante indicado \u00c3\u00a9 o \u2026 [+2670 chars]",
-      "retrievedAt": "2023-10-05 07:05:50.643727",
-      "internal_id": "a78808cc7310bc6fa9970ec2bf68ffb065e1729eefe3870879d9e459b376d013",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2352,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: The Long Road to a New Malaria Vaccine, Told By the Scientists Behind the Breakthrough - Podcast",
-      "description": "[The Conversation Africa] The world has waited decades for a malaria vaccine, and now two have come along in quick succession. On October 2, the World Health Organization (WHO) recommended that a new malaria vaccine, R21, developed by the University of Oxford\u2026",
-      "url": "https://allafrica.com/stories/202310040016.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-04 04:56:14",
-      "content": "The world has waited decades for a malaria vaccine, and now two have come along in quick succession. On October 2, the World Health Organization (WHO) recommended that a new malaria vaccine, R21, dev\u2026 [+3962 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.970948",
-      "internal_id": "495e8bc8a9328a6df46eaafddd220c24dbb90daaa97eb20cbb9752f8bfef4ba4",
-      "publishedAtLabel": "Oct 4"
-    },
-    {
-      "id": 2288,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: 'We Could Eradicate Malaria By 2040' Says Expert After Revolutionary Vaccine Is Approved By Who",
-      "description": "[The Conversation Africa] The World Health Organization has approved a new vaccine that scientists argue will be a game-changer in the fight against malaria, which kills half a million people in Africa every year. Trials have shown that the R21/Matrix vaccine\u2026",
-      "url": "https://allafrica.com/stories/202310040007.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-04 04:48:39",
-      "content": "The World Health Organization has approved a new vaccine that scientists argue will be a game-changer in the fight against malaria, which kills half a million people in Africa every year. Trials have\u2026 [+6887 chars]",
-      "retrievedAt": "2023-10-05 07:05:51.658246",
-      "internal_id": "0884ec7c4fef8215066373319dba646ab58e7def3c19a1ff6c060c2bdcdcfa54",
       "publishedAtLabel": "Oct 4"
     }
   ]
