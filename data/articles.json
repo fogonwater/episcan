@@ -1,8 +1,224 @@
 {
-  "last_updated": "2023-10-14 07:05",
+  "last_updated": "2023-10-14 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 2545,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Maryland\u2019s first local malaria case in 40 years initially duped doctors",
+      "description": "The misdiagnosis is a global problem that could worsen as malaria territory expands.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172011129",
+      "urlToImage": null,
+      "publishedAt": "2023-10-13 18:15:00",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-14 19:05:13.425975",
+      "internal_id": "30a1c60d3fcd282f155891ac84fbae3c24eff6c2182d57d62cf0f07216e99b03",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2540,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "Maryland\u2019s first local malaria case in 40 years initially duped doctors",
+      "description": "The misdiagnosis is a global problem that could worsen as malaria territory expands.",
+      "url": "https://arstechnica.com/health/2023/10/in-the-us-malaria-can-easily-masquerade-as-an-endemic-parasite/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/612-760x380.png",
+      "publishedAt": "2023-10-13 17:17:54",
+      "content": "Enlarge/ Under a magnification of 1,125x, this photomicrograph of a blood specimen revealed the presence of intraerythrocytic Plasmodium falciparum ring-form trophozoites. Note the erythrocyte in the\u2026 [+3295 chars]",
+      "retrievedAt": "2023-10-14 19:05:13.381375",
+      "internal_id": "d8c5cb3ca7a97486698e586f82627a170b3ca2d987ba8169ca18eadf26472687",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2536,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Bikash Singh",
+      "title": "In strife-torn Manipur, there are outbreaks of dengue, with 1338 dengue cases",
+      "description": "This worrying development comes at a time when the hill state is struggling to get back to normalcy from the unprecedented ethnic strife that flared up on 3 May and has ravaged the lives of hundreds and displaced over 60,000 people who are being sheltered in \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/in-strife-torn-manipur-there-are-outbreaks-of-dengue-with-1338-dengue-cases/articleshow/104407183.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104407184,width-1200,height-630,imgsize-17824,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-13 16:53:29",
+      "content": "Guwahati: Manipur is yet again under the heat. This time it is a worsening of the Dengue outbreak with 1338 dengue cases officially registered till Friday. There are around five deaths due to dengue.\u2026 [+4304 chars]",
+      "retrievedAt": "2023-10-14 19:05:12.104324",
+      "internal_id": "a2016ab215e52f944fbab9716a2ae7f847df870cc8059a95f16b9a28b26b6544",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2539,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N SALUD",
+      "title": "Mitigue el contagio de dengue en temporada de vacaciones",
+      "description": "En medio de la semana de receso y partiendo de los altos \u00edndices en los casos de dengue reportados en regiones como Atl\u00e1ntico, Huila y Santander, se hace importante que los viajeros tengan en cuenta la necesidad de prevenir y mitigar los contagios por este vi\u2026",
+      "url": "https://www.eluniversal.com.co/salud/dengue-mitigue-el-contagio-en-esta-temporada-de-vacaciones-MD9243439",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/XBSA/dengue1-8126420-20230718142347_8709448_20231013115440.jpg",
+      "publishedAt": "2023-10-13 16:50:26",
+      "content": "En medio de la semana de receso y partiendo de los altos \u00edndices en los casos de dengue reportados en regiones como Atl\u00e1ntico, Huila y Santander, se hace importante que los viajeros tengan en cuenta \u2026 [+2618 chars]",
+      "retrievedAt": "2023-10-14 19:05:12.168393",
+      "internal_id": "deb0021dc4fc3669908e09f6f0aad388e242ed069495b17efdc20f8dba925ae4",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2542,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "NaftaliMwaura",
+      "title": "Chinese manufactured injectable drug boosting Kenya's war against malaria",
+      "description": "NAIROBI, Oct. 13 (Xinhua) -- Kenya's battle against malaria has gained new momentum through the widespread deployment of an injectable drug manufactured by the Chinese pharmaceutical company, Fosun Pharma, Kenyan officials said Thursday, during a forum in the\u2026",
+      "url": "https://www.thestar.com.my/news/world/2023/10/14/chinese-manufactured-injectable-drug-boosting-kenya039s-war-against-malaria",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-10-13 16:14:00",
+      "content": "NAIROBI, Oct. 13 (Xinhua) -- Kenya's battle against malaria has gained new momentum through the widespread deployment of an injectable drug manufactured by the Chinese pharmaceutical company, Fosun P\u2026 [+2748 chars]",
+      "retrievedAt": "2023-10-14 19:05:13.405352",
+      "internal_id": "c22727e3b41fa543823a40483daf8abdfc15590e9b752491d3169e4301c54c40",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2537,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "In Pics: Team India's practice session ahead of Pakistan clash",
+      "description": "Read more on TOI Sports",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/icc-world-cup-photos/world-cup-team-indias-practice-session-ahead-of-pakistan-clash/photostory/104406400.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104406433,imgsize-42312,width-900,height-1200,resizemode-6/104406433.jpg",
+      "publishedAt": "2023-10-13 15:47:29",
+      "content": "Indias young sensation Shubman Gill, who is recovering from dengue fever, participated in the practice session.",
+      "retrievedAt": "2023-10-14 19:05:12.137428",
+      "internal_id": "1ccb95b9cbf490fbcf462316529533f8bcc0ecaee2e3747c46c0e457720e159f",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2534,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WebMD",
+      "author": "Webmd Editorial",
+      "title": "Rabies in Dogs",
+      "description": "Learn about rabies in dogs, including vaccines, rabies symptoms, diagnosis, and treatment.",
+      "url": "https://www.webmd.com/pets/dogs/rabies-dogs",
+      "urlToImage": "https://img.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg",
+      "publishedAt": "2023-10-13 14:04:13",
+      "content": "Rabies is an incurable virus that attacks the brain and spinal cord. All mammals, including dogs and humans, can catch rabies. While its preventable and even treatable, it must be caught early on. \u2026 [+2468 chars]",
+      "retrievedAt": "2023-10-14 19:05:10.700066",
+      "internal_id": "c2666a4aeba0316625c5ef3e11c9aae90b9e77f119982616bb3ddb80aaa46e4d",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2543,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Mwangi, M. N., Mzembe, G., Ngwira, C. C., Vokhiwa, M., Kapulula, M. D., Larson, L. M., Braat, S., Harding, R., McLean, A. R. D., Hamadani, J. D., Biggs, B.-A., Ataide, R., Phiri, K. S., Pasricha, S.-R.",
+      "title": "Protocol for a randomised, multicentre, four-arm, double-blinded, placebo-controlled trial to assess the benefits and safety of iron supplementation with malaria chemoprevention to children in Malawi: IRMA trial",
+      "description": "Introduction Approximately 40% of children aged 6\u201359 months worldwide are anaemic. Iron-containing multiple micronutrient powders (MNPs) and iron supplements (syrup/drops) are used to combat anaemia in children in different parts of the world. However, evid\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/10/e069011?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-10-13 13:15:13",
+      "content": "Introduction Anaemia remains a critical global health problem affecting up to 39.8% of children aged 659 months worldwide and 60.2% in Africa.13 In Malawi, 63% of children aged 659 months are anaemi\u2026 [+3494 chars]",
+      "retrievedAt": "2023-10-14 19:05:13.408905",
+      "internal_id": "eabab9d3827129014aae4571f6a6e94c3f172522f0305295a0ec7b6ea679306b",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2535,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Meghalaya records massive rise in dengue cases, 44 reported from Garo Hills",
+      "description": "Meghalaya has reported 44 confirmed dengue cases, including one fatality, primarily in the Garo Hills' flatland regions on October 13. Health Minister Ampareen Lyngdoh urged the citizens not to panic, stating the situation is under control.",
+      "url": "https://thehillstimes.in/northeast/meghalaya-records-massive-rise-in-dengue-cases-44-reported-from-garo-hills",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/New-Project-2023-10-13T174132.024.jpg",
+      "publishedAt": "2023-10-13 12:12:01",
+      "content": "HT Digital, Shillong, Oct 13: Meghalaya has reported 44 confirmed dengue cases, including one fatality, primarily in the Garo Hills\u2019 flatland regions on October 13. Health Minister Ampareen Lyngdoh \u2026 [+724 chars]",
+      "retrievedAt": "2023-10-14 19:05:12.096272",
+      "internal_id": "47af01aa6b77f588ecd8a49e433afe2411b9bdcc67768b3b105897874209975e",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2541,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marginalrevolution.com",
+      "author": "Alex Tabarrok",
+      "title": "What is an Emergency? The Case for Rapid Malaria Vaccination",
+      "description": "Compare two otherwise similar towns. In Town A there have always been 1000 deaths every month from disease X. In contrast, Town B has been free of disease X for as long as anyone can remember until very recently when disease X suddenly started to kill 1000 p\u2026",
+      "url": "https://marginalrevolution.com/marginalrevolution/2023/10/what-is-an-emergency-the-case-of-rapid-malaria-vaccination.html",
+      "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+      "publishedAt": "2023-10-13 11:20:26",
+      "content": "Compare two otherwise similar towns. In Town A there have always been 1000 deaths every month from disease X. In contrast, Town B has been free of disease X for as long as anyone can remember until \u2026 [+3915 chars]",
+      "retrievedAt": "2023-10-14 19:05:13.388375",
+      "internal_id": "071dec7c4989aef498ad68fa0e199966ab560f65071b51579854a8b40f31c50b",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2538,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases up 5.9%, two deaths reported in ME40, says Health DG",
+      "description": "PUTRAJAYA: The number of dengue fever cases increased by 5.9% to 2,436 cases in the 40th Epidemiological Week (ME40) for the period Oct 1 to 7, compared to 2,299 cases in the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/13/dengue-cases-up-59-two-deaths-reported-in-me40-says-health-dg",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/13/2334463.jpg",
+      "publishedAt": "2023-10-13 11:14:00",
+      "content": "PUTRAJAYA: The number of dengue fever cases increased by 5.9% to 2,436 cases in the 40th Epidemiological Week (ME40) for the period Oct 1 to 7, compared to 2,299 cases in the previous week. Health d\u2026 [+905 chars]",
+      "retrievedAt": "2023-10-14 19:05:12.145874",
+      "internal_id": "acc8a41d82339620512ec709bdee4a32245316f35ec7d3e171c891794e9697e2",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2544,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "UNICEF anuncia un acuerdo para garantizar el suministro de la segunda vacuna contra la malaria aprobada por la OMS",
+      "description": "UNICEF ha anunciado un acuerdo para garantizar el suministro de la segunda vacuna mundial contra la malaria, la 'R21/Matrix-M', aprobada recientemente por la Organizaci\u00f3n Mundial de la Salud (OMS).",
+      "url": "https://www.europapress.es/epsocial/derechos-humanos/noticia-unicef-anuncia-acuerdo-garantizar-suministro-segunda-vacuna-contra-malaria-aprobada-oms-20231013121044.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231013121044_1200.jpg",
+      "publishedAt": "2023-10-13 10:10:44",
+      "content": "MADRID, 13 Oct. (EUROPA PRESS) - UNICEF ha anunciado un acuerdo para garantizar el suministro de la segunda vacuna mundial contra la malaria, la 'R21/Matrix-M', aprobada recientemente por la Organ\u2026 [+1714 chars]",
+      "retrievedAt": "2023-10-14 19:05:13.420047",
+      "internal_id": "2d1b78530063bb8800f93af800a6f5975c1f530472e914e6b26840c337f9f8f5",
+      "publishedAtLabel": "Oct 13"
+    },
     {
       "id": 2526,
       "query": [
@@ -3396,222 +3612,6 @@
       "retrievedAt": "2023-10-07 07:05:31.031394",
       "internal_id": "393565f6bd0df8f1c9e1ae2159e303ad83e968a0cb3ab8ee8920a24789bcbbd9",
       "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2332,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TIMESOFINDIA.COM",
-      "title": "Shubman Gill unwell: Likely to miss World Cup?",
-      "description": "Indian cricketer Shubhman Gill's participation in the World Cup opener is uncertain due to his battle with dengue fever. Gill has been experiencing a high fever since arriving in Chennai, and tests are being conducted to determine his condition. Dengue, also \u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/cricketer-shubman-gill-unwell-likely-to-miss-world-cup/articleshow/104202084.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104202091,width-1070,height-580,imgsize-1115459,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-06 03:58:32",
-      "content": "Strange illness hits Kenya: 90 school kids paralyzedOver 90 schoolgirls in Kenya's St. Theresa's Eregi Girls High School have been paralyzed by a mysterious illness. The girls experienced difficulty \u2026 [+142 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.046204",
-      "internal_id": "46b85a75a0c800ecbb9f09625d2054b04a6acf0144d3e39bdc3ef179202bfcb4",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2331,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Japan Times",
-      "author": "Shafiqul ALAM",
-      "title": "Bangladesh swamped by record deaths from dengue fever",
-      "description": "In the crowded fever ward in Bangladesh's Mugda hospital, every bed is taken as the country struggles in the grip of its deadliest dengue outbreak.",
-      "url": "https://www.japantimes.co.jp/news/2023/10/06/asia-pacific/science-health/bangladesh-record-dengue-deaths/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/06/256058.jpg",
-      "publishedAt": "2023-10-06 03:34:00",
-      "content": "Dhaka In the crowded fever ward in Bangladesh's Mugda hospital, every bed is taken as the country struggles in the grip of its deadliest dengue outbreak. More than 1,000 people have died this year i\u2026 [+237 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.041928",
-      "internal_id": "1409795937fb83e02203820f05ccd35e2aa0e9baf27b0377679323f5162f4b8d",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2330,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "ICC World Cup 2023: Shubman Gill tests positive for dengue, big worries for Team India",
-      "description": "Shubman Gill, the in-form batter of the Indian cricket team, is a doubtful starter for the team's opening World Cup game against Australia due to health issues. Gill has reportedly tested positive for dengue and is currently suffering from high fever. Ishan K\u2026",
-      "url": "https://economictimes.indiatimes.com/news/sports/icc-world-cup-2023-shubman-gill-tests-positive-for-dengue-big-worries-for-team-india/articleshow/104199807.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104199876,width-1200,height-630,imgsize-37302,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-06 02:18:20",
-      "content": "India Inc may Log a Nifty Performance in Second QtrCompanies making up the Nifty 50 are expected to report another quarter of robust aggregate profit growth in the three months to September, helped b\u2026 [+948 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.037402",
-      "internal_id": "98a7318489be5746fd7a562d87644e39b41476764d3582d84f27b9027242b129",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2333,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Sports Desk",
-      "title": "India vs Australia: Shubman Gill doubtful for World Cup opener",
-      "description": "Indian cricketer Shubman Gill's participation in the opening World Cup match against Australia is doubtful due to health issues. Gill, who has been in good form recently, is suffering from high fever and is scheduled for dengue testing. If diagnosed with deng\u2026",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/shubman-gills-world-cup-opener-in-doubt-due-to-health-concerns/articleshow/104199732.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104199779,width-1070,height-580,imgsize-37302,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-06 02:09:46",
-      "content": "Virat, Smith, Kane &amp; Root: The Big-4's stats in the ODI WC",
-      "retrievedAt": "2023-10-07 07:05:31.049465",
-      "internal_id": "01fefbd1772ac9990d7586163b9a33c71d71ff2896018d1d047a3123d95f3184",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2335,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Devendra Pandey",
-      "title": "Shubman Gill tests positive for dengue, doubtful for Sunday\u2019s opening World Cup game against Australia",
-      "description": "Indian team management is monitoring Gill's progress and a call on his availability will be taken after another round of tests on Friday.",
-      "url": "https://indianexpress.com/article/sports/cricket/shubman-gill-tests-positive-for-dengue-doubtful-for-sundays-opening-world-cup-game-against-australia-8970542/",
-      "urlToImage": "https://images.indianexpress.com/2023/09/Gill-2.jpg",
-      "publishedAt": "2023-10-06 01:43:26",
-      "content": "The Indian team is likely to take the field without star batsman Shubman Gill for their first World Cup game against Australia in Chennai on Sunday. It is learnt that the in-form opener, who missed t\u2026 [+1417 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.057746",
-      "internal_id": "485b9910e18f405823b4e50759775a3a2dc5047e8cd81dafd176e94b7d462fa0",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2334,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "\u0936\u0941\u092d\u092e\u0928 \u0917\u093f\u0932 \u0915\u094b \u0939\u0941\u0906 \u0921\u0947\u0902\u0917\u0942, \u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u094b \u0935\u0930\u094d\u0932\u094d\u0921 \u0915\u092a \u092e\u0948\u091a \u0938\u0947 \u092a\u0939\u0932\u0947 \u0932\u0917\u093e \u092c\u0921\u093c\u093e \u091d\u091f\u0915\u093e",
-      "description": "\u0936\u0941\u092d\u092e\u0928 \u0917\u093f\u0932 \u0915\u094b \u0921\u0947\u0902\u0917\u0942 \u0939\u094b \u0917\u092f\u093e \u0939\u0948. \u0909\u0928\u0915\u0940 \u091c\u093e\u0902\u091a \u0915\u0940 \u0917\u0908, \u091c\u093f\u0938\u0915\u0947 \u092c\u093e\u0926 \u0909\u0928\u0915\u0940 \u0930\u093f\u092a\u094b\u0930\u094d\u091f \u092a\u0949\u091c\u093f\u091f\u093f\u0935 \u0906\u0908. \u0935\u0939 \u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u200d\u093f\u092f\u093e \u0915\u0947 \u0916\u200d\u093f\u0932\u093e\u092b \u092e\u0948\u091a \u0938\u0947 \u092a\u0939\u0932\u0947 \u092c\u0940\u092e\u093e\u0930 \u0939\u094b \u0917\u090f \u0939\u0948\u0902. \u0910\u0938\u0947 \u092e\u0947\u0902 \u092f\u0939 \u092d\u093e\u0930\u0924\u0940\u092f \u091f\u0940\u092e \u0915\u0947 \u0932\u093f\u090f \u092d\u092f\u0902\u0915\u0930 \u091d\u091f\u0915\u093e \u092e\u093e\u0928\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948. \u0939\u093e\u0932\u093e\u0902\u0915\u093f, \u0935\u094b \u092a\u0939\u0932\u093e \u092e\u0948\u091a \u0916\u0947\u0932 \u092a\u093e\u090f\u0902\u0917\u0947 \u092f\u093e \u0928\u0939\u0940\u0902? \u0907\u0938 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0938\u094d\u0925\u200d\u093f\u0924\u200d\u093f \u0938\u094d\u092a\u0937\u2026",
-      "url": "https://www.aajtak.in/sports/cricket/story/shubman-gill-tests-positive-for-dengue-doubtful-for-sunday-opening-icc-world-cup-2023-match-against-australia-ind-vs-aus-chennai-odi-tspo-1793423-2023-10-06",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202310/gill_century_number_5_vs_ban_2-sixteen_nine.png",
-      "publishedAt": "2023-10-06 01:40:26",
-      "content": "Shubman Gill tested positive for dengue: . . . . . , ? . . . . , . . . .",
-      "retrievedAt": "2023-10-07 07:05:31.054576",
-      "internal_id": "41d12c972361d59687ee5e2458883c398f8c9a1aed94dbdb5210349c64949923",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2325,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Source AFP",
-      "title": "Trois personnes, dont un enfant, d\u00e9c\u00e8dent de la dengue en Martinique",
-      "description": "L'epidemie de dengue continue de progresser en Martinique, ou trois personnes, dont un enfant, sont mortes depuis le 18 septembre.",
-      "url": "https://www.lepoint.fr/sante/trois-personnes-dont-un-enfant-decedent-de-la-dengue-en-martinique-06-10-2023-2538237_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2023/10/06/25311575lpw-25311576-mega-une-jpg_9814283.jpg",
-      "publishedAt": "2023-10-06 01:36:00",
-      "content": "Cela fait presque deux mois que la Martinique est en proie \u00e0 une \u00e9pid\u00e9mie de dengue que le d\u00e9partement d'outre-mer n'arrive pas \u00e0 endiguer. Depuis le 18 septembre, trois personnes sont d\u00e9c\u00e9d\u00e9es, dont\u2026 [+1926 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.003701",
-      "internal_id": "30fba72e807a110b6e6692e04ffbbbc0f1b90e8f3f57c2f263861720ca2950d6",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2319,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Independent.ie",
-      "author": "Eilish O'Regan",
-      "title": "Risk of large measles outbreaks in Ireland as uptake of MMR vaccine declines",
-      "description": "The uptake of the MMR vaccine has fallen below 90pc, leaving Ireland at risk of large outbreaks, according to a new report.",
-      "url": "https://www.independent.ie/irish-news/risk-of-large-measles-outbreaks-in-ireland-as-uptake-of-mmr-vaccine-declines/a65128386.html",
-      "urlToImage": "https://focus.independent.ie/thumbor/_SBqEYrAFsEGOYp79OIQAuJs13g=/0x1:5992x3995/5992x3994/prod-mh-ireland/fb47468f-da70-4230-8a8d-d0fc26a53181/c0b65649-ba85-4ecc-bf34-00836d0a8034/fb47468f-da70-4230-8a8d-d0fc26a53181.jpg",
-      "publishedAt": "2023-10-06 01:30:00",
-      "content": "The uptake of the MMR vaccine has fallen below 90pc, leaving Ireland at risk of large outbreaks, according to a new report.An outbreak of measles was recently reported and related to contact with a p\u2026 [+2198 chars]",
-      "retrievedAt": "2023-10-07 07:05:30.517825",
-      "internal_id": "db23ea2c0201e821e7f9f0d876b8adf9651a0e536cbe4ff38e33d33e0c6d51b4",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2351,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Elespanol.com",
-      "author": "Pablo Garc\u00eda Santos",
-      "title": "Por qu\u00e9 la OMS ha tardado m\u00e1s de 40 a\u00f1os en recomendar una vacuna contra la malaria",
-      "description": "Los expertos consideran que las primeras vacunas \"han tardado mucho\" por dificultades t\u00e9cnicas y porque \"no afecta a todo el mundo por igual\".",
-      "url": "https://www.elespanol.com/ciencia/salud/20231006/oms-tardado-anos-recomendar-vacuna-malaria/799670248_0.html",
-      "urlToImage": "https://s1.eestatic.com/2017/02/15/ciencia/salud/epidemias-malaria-salud_193992232_236597842_1200x630.jpg",
-      "publishedAt": "2023-10-06 00:45:50",
-      "content": "La imagen de Tedros Adhanom Ghebreyesus, director de la Organizaci\u00f3n Mundial de la Salud, quedar\u00e1 ligada de por vida con la Covid-19. Sin embargo, desde que el l\u00edder et\u00edope se hizo con las riendas de\u2026 [+6184 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.952219",
-      "internal_id": "3b01a2b10ff0cab693456ede8abd72a664a0e613802b81e7df3cdade90e70ad0",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2324,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Pablo V\u00e1zquez",
-      "title": "Suman siete muertes por dengue en Quintana Roo; hay m\u00e1s de tres mil casos confirmados",
-      "description": "El Sistema Especial de Vigilancia Epidemiol\u00f3gica de dengue en M\u00e9xico confirm\u00f3 que ya van siete casos de personas que murieron por dengue en Quintana Roo durante lo que va del a\u00f1o.\u200bLas \u00faltimas tres defunciones correspondieron a menores de edad: Uno de 13 a\u00f1os \u2026",
-      "url": "https://www.milenio.com/estados/en-qroo-suman-siete-muertes-por-dengue-en-el-estado",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/09/26/menor-muere-dengue-cifra-cuadruplico.jpeg",
-      "publishedAt": "2023-10-05 23:53:53",
-      "content": "El Sistema Especial de Vigilancia Epidemiol\u00f3gica de dengue en M\u00e9xico confirm\u00f3 que ya van siete casos de personas que murieron por dengue en Quintana Roo durante lo que va del a\u00f1o. Las \u00faltimas tres \u2026 [+1506 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.000423",
-      "internal_id": "4fec18850d55083dfa643045352a8ca1b88470e029c85431b0ea4b5ca88fb039",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 2327,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "\u00d3scar Rodr\u00edguez",
-      "title": "Emiten alerta epidemiol\u00f3gica en 46 municipios de Oaxaca ante aumento de casos de dengue",
-      "description": "La Secretar\u00eda de Salud de Oaxaca emiti\u00f3 una alerta epidemiol\u00f3gica en 46 municipios del estado, donde se identificaron m\u00e1s de mil pacientes contagiados con dengue.\u200bAnte el incremento de casos, se exhort\u00f3 a las autoridades municipales a establecer medidas de ap\u2026",
-      "url": "https://www.milenio.com/estados/emiten-alerta-epidemiologica-municipios-oaxaca-dengue",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/05/titular-secretaria-salud-oaxaca-sso.jpg",
-      "publishedAt": "2023-10-05 20:55:43",
-      "content": "La Secretar\u00eda de Salud de Oaxaca emiti\u00f3 una alerta epidemiol\u00f3gica en 46 municipios del estado, donde se identificaron m\u00e1s de mil pacientes contagiados con dengue. Ante el incremento de casos, se ex\u2026 [+3231 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.015644",
-      "internal_id": "eb78148957f6e0f10792b9ea77c62fb5ded536a9ec2a20da1f64339aa7b6999c",
-      "publishedAtLabel": "Oct 5"
-    },
-    {
-      "id": 2317,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Alyssa B. Evans, Clayton W. Winkler, Sarah L. Anzick, Stacy M. Ricklefs, Dan E. Sturdevant, Karin E. Peterson",
-      "title": "Zika virus diversity in mice is maintained during early vertical transmission from placenta to fetus, but reduced in fetal bodies and brains at late stages of infection",
-      "description": "Author summary Zika virus (ZIKV) is known to cause congenital disease in humans through vertical transmission of the virus from mothers to fetuses during pregnancy. How the virus populations change during this process is currently not well understood. To eval\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011657",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011657.g004&size=inline",
-      "publishedAt": "2023-10-05 14:00:00",
-      "content": "Citation: Evans AB, Winkler CW, Anzick SL, Ricklefs SM, Sturdevant DE, Peterson KE (2023) Zika virus diversity in mice is maintained during early vertical transmission from placenta to fetus, but red\u2026 [+59181 chars]",
-      "retrievedAt": "2023-10-06 19:05:21.843396",
-      "internal_id": "993ad6091d16dc156413528e969e7553e2596ac01860621c5eb3f7616d38143b",
-      "publishedAtLabel": "Oct 5"
     }
   ]
 }
