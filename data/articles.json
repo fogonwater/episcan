@@ -1,8 +1,207 @@
 {
-  "last_updated": "2023-10-15 07:05",
+  "last_updated": "2023-10-15 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 2566,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Philippe GAMBERT.",
+      "title": "\u00c0 Nantes, Valneva, sp\u00e9cialiste du moustique tigre, travaille sur des vaccins",
+      "description": "Apr\u00e8s l\u2019aventure du vaccin contre le Covid qui a apport\u00e9 de la notori\u00e9t\u00e9 \u00e0 la soci\u00e9t\u00e9 franco-autrichienne, Valneva est tr\u00e8s avanc\u00e9e sur le vaccin contre le chikungunya. Elle pourrait obtenir le feu vert des autorit\u00e9s am\u00e9ricaines avant la fin de l\u2019ann\u00e9e.",
+      "url": "https://www.ouest-france.fr/sante/a-nantes-valneva-specialiste-du-moustique-tigre-travaille-sur-des-vaccins-c732c388-69c9-11ee-8fa0-55979078a607",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMzEwZjc3ZTMyM2Y1MzBiMWI4ZjRjZTM4MWQ5NDM5Y2VkOGM?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=c09d832c0b883de6009f81dda61188a034bef9cf22ce9abced7812c292b25d05",
+      "publishedAt": "2023-10-14 18:44:06",
+      "content": "Valneva a fait parler delle pendant le Covid. Comme dautres et notamment les multinationales, mais sans en avoir la puissance, elle sest lanc\u00e9e dans la bataille du vaccin du Covid. Et elle a fini par\u2026 [+1207 chars]",
+      "retrievedAt": "2023-10-15 19:05:25.374810",
+      "internal_id": "49bf6e2c25f26e9424c95a020df5ddac8800d556ff8cd45937096ed571372516",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2561,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Bikash Singh",
+      "title": "Violence-hit Manipur now battling dengue and African Swine Fever",
+      "description": "The State Malaria Officer of the National Vector-Borne Disease Control Programme, S Priyokumar, confirmed the official figures recorded from across the state since January, with Imphal West classified as the worst hit district with 898 cases, including 3 susp\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/violence-hit-manipur-now-battling-dengue-and-african-swine-fever/articleshow/104428997.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104429042,width-1200,height-630,imgsize-39034,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-14 16:30:17",
+      "content": "Ethnic violence-hit Manipur is battling a spike in cases of dengue and Africa Swine Fever (AFS).Till Friday, five people in the northeastern state are suspected to have died due to dengue, as per the\u2026 [+2248 chars]",
+      "retrievedAt": "2023-10-15 19:05:23.014548",
+      "internal_id": "17529b6aa930c64d971e9ecfbebaf6a1cb43bd12d71c1b0423888f060c6618aa",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2556,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Mark Kortepeter, Contributor, \n Mark Kortepeter, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/markkortepeter/",
+      "title": "New Study Offers Hope For Future Rabies Cure",
+      "description": "When you were growing up, your parents may have told you to stay away from stray or wild animals.",
+      "url": "https://www.forbes.com/sites/markkortepeter/2023/10/14/new-study-offers-hope-for-future-rabies-cure/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/652abedc93ded7991241de5c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-10-14 16:29:22",
+      "content": "A male German shepherd bites a man by the hand. getty When you were growing up, your parents may have told you to stay away from stray or wild animals. Along with hand washing before eating, this w\u2026 [+5483 chars]",
+      "retrievedAt": "2023-10-15 19:05:21.787036",
+      "internal_id": "f5efc01a0960f86a2119a29825da57cd4da995a2c87cdeb6c2dbd39666d107a4",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2565,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Lesswrong.com",
+      "author": "Metacelsus",
+      "title": "Will no one rid me of this turbulent pest?",
+      "description": "Published on October 14, 2023 3:27 PM GMTLast year, I wrote about the promise of gene drives to wipe out mosquito species and end malaria.In the time since my previous writing, gene drives have still not been used in the wild, and over 600,000 people have die\u2026",
+      "url": "https://www.lesswrong.com/posts/gjs3q83hA4giubaAw/will-no-one-rid-me-of-this-turbulent-pest",
+      "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/gjs3q83hA4giubaAw/j7v6wkmwuqhklibocjre",
+      "publishedAt": "2023-10-14 15:27:22",
+      "content": "Last year, I wrote about the promise of gene drives to wipe out mosquito species and end malaria. In the time since my previous writing, gene drives have still not been used in the wild, and over 60\u2026 [+22871 chars]",
+      "retrievedAt": "2023-10-15 19:05:24.195209",
+      "internal_id": "dd3b4a69f5432d4a35a471aba7394af3675b71a79cae919c077b9273dd7e74c0",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2557,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "2 Outaouais residents contract measles, spend time in Ottawa hospital",
+      "description": "Western Quebec's health authority says two people who contracted measles abroad recently spent time in a hospital in Ottawa.",
+      "url": "https://www.cbc.ca/news/canada/ottawa/2-outaouais-residens-measles-ottawa-hospital-1.6996416",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1681665163!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2023-10-14 15:09:35",
+      "content": "Western Quebec's health authority says two people who contracted measles abroad recently spent time in a hospital in Ottawa. Centre int\u00e9gr\u00e9 de sant\u00e9 et de services sociaux de l'Outaouais (CISSSO) sa\u2026 [+1076 chars]",
+      "retrievedAt": "2023-10-15 19:05:22.091936",
+      "internal_id": "31a7511e8c15c3ab8e1bfcdd38e74171e7167e3ae1f646cfa545486428059009",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2560,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Bikash Singh",
+      "title": "Manipur reels under dengue and outbreak of Africa Swine Fever",
+      "description": "Five people are suspected to have died due to dengue. This time it is a worsening of the Dengue outbreak with 1338 dengue cases officially registered till Friday. This is the highest infection figure that the state has recorded in recent times. There were onl\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/manipur-reels-under-dengue-and-outbreak-of-africa-swine-fever/articleshow/104426502.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104426490,width-1200,height-630,imgsize-40130,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-14 13:20:52",
+      "content": "The state of Manipur is battling woes one after another. After several months of ethnic strife, the state is now reeling under dengue and outbreak of Africa Swine Fever (AFS) in the state. Five peopl\u2026 [+3596 chars]",
+      "retrievedAt": "2023-10-15 19:05:22.996975",
+      "internal_id": "c867f4ec9fb2fb976f7d581738860b626244c06160369dd700afac360f1c6b7a",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2559,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLS-TV",
+      "author": "Abc 7 Chicago",
+      "title": "Illinois reports first measles case in 4 years, state health officials confirm",
+      "description": "The person, who was exposed to the measles virus in another country, was unvaccinated, the IDPH said.",
+      "url": "https://abc7chicago.com/illinois-measles-vaccine-symptoms-cook-county/13912362/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/13410252_062123-kfsn-fresno-co-measles-vid.jpg?w=1600",
+      "publishedAt": "2023-10-14 12:50:29",
+      "content": "COOK COUNTY, Ill. -- Illinois health officials reported the state's first case of measles in four years Friday. The Cook County Health Department reported the suspected case Tuesday to the Illinois \u2026 [+1213 chars]",
+      "retrievedAt": "2023-10-15 19:05:22.105502",
+      "internal_id": "ce708a0cf0089bd2231065af75dce7dca90d56f9780e8eac69f3d353d3fce14a",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2558,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Illinois identifies first measles case since 2019, public health officials say - Chicago Tribune",
+      "description": "Illinois identifies first measles case since 2019, public health officials sayChicago Tribune Milwaukee suspected measles cases; contact tracing underway | FOX6 News MilwaukeeFOX6 News Milwaukee Measles contact tracing continues after confirmed case in Milwau\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172014775",
+      "urlToImage": null,
+      "publishedAt": "2023-10-14 10:12:36",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-15 19:05:22.096822",
+      "internal_id": "95a196622c2b35ab91e5ced2c6e64b38b4b3d7d30cea88275e5b4c1ad2cef33a",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2562,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "India win toss, elect to bowl against Pakistan; Shubman Gill returns in place of Ishan Kishan",
+      "description": "India won the toss and elected to bowl against Pakistan in the World Cup match here on Saturday. Indian captain Rohit Sharma said Shubman Gill, who missed the first two matches because of dengue, will play in place of Ishan Kishan.",
+      "url": "https://economictimes.indiatimes.com/news/sports/india-win-toss-elect-to-bowl-against-pakistan-shubman-gill-returns-in-place-of-kishan/articleshow/104420409.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104420425,width-1200,height-630,imgsize-54638,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-14 08:46:54",
+      "content": "India won the toss and chose to field against Pakistan. Captain Rohit Sharma confirmed that Shubman Gill, who missed the first two matches due to dengue, would be playing in place of Ishan Kishan.\"Gi\u2026 [+1894 chars]",
+      "retrievedAt": "2023-10-15 19:05:23.023464",
+      "internal_id": "c8d6bed349dce487ff56c1a615bae9844568bd897c3b27d06d4a0e5435f81797",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2563,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Crictoday.com",
+      "author": "Venkat Narayanan",
+      "title": "Aakash Chopra raises concerns over Shubman Gill's fitness ahead of IND-PAK clash",
+      "description": "Shubman Gill, who missed the first two games of the 2023 Cricket World Cup due to dengue, is believed to be virtually fully fit",
+      "url": "http://crictoday.com/cricket/daily-cricket-news/aakash-chopra-raises-concerns-over-shubman-gills-fitness-ahead-of-ind-pak-clash/",
+      "urlToImage": "https://crictoday.com/wp-content/uploads/2023/10/Untitled-design-2023-10-10T113549.215.jpg",
+      "publishedAt": "2023-10-14 08:15:24",
+      "content": "Renowned cricket commentator Aakash Chopra expressed optimism about Shubman Gill\u2018s inclusion in India\u2019s playing XI for the much-anticipated World Cup 2023 clash against Pakistan. Rohit Sharma believe\u2026 [+1164 chars]",
+      "retrievedAt": "2023-10-15 19:05:23.053026",
+      "internal_id": "4dae58a4ec3ae4ba7fab3d77784eeb6c126e6b5182021df2c3f396f3d940da18",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2564,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "\u201eBahnbrechende Pionier- und Forschungsarbeit\u201c: Immunologin Rose Gana Fomban Leke erh\u00e4lt Virchow-Preis in Berlin",
+      "description": "Das zweite Jahr in Folge vergibt die Virchow Stiftung einen Preis f\u00fcr besondere Leistungen im Gesundheitsbereich. Die Jury ehrt die diesj\u00e4hrige Preistr\u00e4gerin f\u00fcr ihren Kampf gegen Malaria - und noch aus einem anderen Grund.",
+      "url": "https://www.tagesspiegel.de/berlin/bahnbrechende-pionier-und-forschungsarbeit-immunologin-rose-gana-fomban-leke-erhalt-virchow-preis-in-berlin-10624066.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/dr-rose-leke-immunologin-aus-kamerun/alternates/BASE_16_9_W1400/dr-rose-leke-immunologin-aus-kamerun.jpeg",
+      "publishedAt": "2023-10-14 07:33:36",
+      "content": "Die kamerunische Immunologin Rose Gana Fomban Leke bekommt am Samstagabend im Roten Rathaus den mit 500 000 Euro dotierten Virchow-Preis f\u00fcr Globale Gesundheit verliehen. Leke w\u00fcrde unter anderem f\u00fcr\u2026 [+1882 chars]",
+      "retrievedAt": "2023-10-15 19:05:24.158882",
+      "internal_id": "89f66a1dff508db6e7234563b7b16b3aa0e615081e40aa4716ef690f739ba536",
+      "publishedAtLabel": "Oct 14"
+    },
     {
       "id": 2554,
       "query": [
@@ -3415,204 +3614,6 @@
       "content": "Four children from the same kindergarten in Tel Aviv have been confirmed to be infected with measles, the Health Ministry said Friday. A fifth child is suspected of being infected but has not been c\u2026 [+248 chars]",
       "retrievedAt": "2023-10-07 19:05:10.076734",
       "internal_id": "b7b881f81951514610ebec4d2d3eea8b4049a708f6d7c455586adea255c533bc",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2363,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Challenges",
-      "author": "Reuters",
-      "title": "La dengue va se propager dans le sud de l'Europe, aux USA et en Afrique au cours de la d\u00e9cennie, selon l'OMS",
-      "description": "LONDRES (Reuters) - La dengue va devenir une menace majeure dans le sud des \u00c9tats-Unis, le sud de l'Europe et de nouvelles r\u00e9gions d'Afrique au cours de cette d\u00e9cennie, a d\u00e9clar\u00e9 le scientifique en chef de l'Organisation mondiale de la sant\u00e9 (OMS), Jeremy Far\u2026",
-      "url": "https://www.challenges.fr/monde/la-dengue-va-se-propager-dans-le-sud-de-l-europe-aux-usa-et-en-afrique-au-cours-de-la-decennie-selon-l-oms_869892",
-      "urlToImage": "https://www.challenges.fr/assets/img/2023/10/06/cover-r4x3w1200-651ff22e17093-un-homme-vaporise-un-insecticide-dans-une-rue-de-karachi-au.jpg",
-      "publishedAt": "2023-10-06 11:33:58",
-      "content": "LONDRES (Reuters) - La dengue va devenir une menace majeure dans le sud des \u00c9tats-Unis, le sud de l'Europe et de nouvelles r\u00e9gions d'Afrique au cours de cette d\u00e9cennie, a d\u00e9clar\u00e9 le scientifique en c\u2026 [+1817 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.649613",
-      "internal_id": "0cd552381318813e33e44ae03c062600071fd58d669e081e69803add903340d3",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2368,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Origo.hu",
-      "author": null,
-      "title": "WHO: \u00faj j\u00e1rv\u00e1ny j\u00f6het Eur\u00f3p\u00e1ban",
-      "description": "A dengue-l\u00e1z m\u00e1r ebben az \u00e9vtizedben tov\u00e1bb terjedhet az Egyes\u00fclt \u00c1llamok \u00e9s Eur\u00f3pa d\u00e9li r\u00e9szei fel\u00e9.",
-      "url": "https://www.origo.hu/tudomany/20231006-who-uj-jarvany-johet-europaban.html",
-      "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2309/20230919tigrisszunyog2.jpg?w=1024",
-      "publishedAt": "2023-10-06 09:29:47",
-      "content": "A dengue-l\u00e1z m\u00e1r ebben az \u00e9vtizedben tov\u00e1bb terjedhet az Egyes\u00fclt \u00c1llamok \u00e9s Eur\u00f3pa d\u00e9li r\u00e9szei fel\u00e9, \u00e9s Afrika tov\u00e1bbi ter\u00fcletein is megjelenhet - figyelmeztetett az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WHO\u2026 [+1828 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.689565",
-      "internal_id": "57d26cf18c6085dd0a4fd5162efd3bac0a86a6f506a91c9e67a9f0b088bfc383",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2366,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ouest-France",
-      "author": "Ouest-France avec NG",
-      "title": "\u00c9pid\u00e9mie de dengue en Martinique : trois d\u00e9c\u00e8s en quinze jours, dont un enfant de 9 ans",
-      "description": "En Martinique, l\u2019\u00e9pid\u00e9mie de dengue a fait trois morts en l\u2019espace de quinze jours. Un enfant de 9 ans figure parmi les victimes. Il est d\u00e9c\u00e9d\u00e9 apr\u00e8s plusieurs jours d\u2019hospitalisation.",
-      "url": "https://www.ouest-france.fr/sante/epidemie-de-dengue-en-martinique-trois-deces-en-quinze-jours-dont-un-enfant-de-9-ans-02491202-6429-11ee-ac02-c502cc724ccb",
-      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMzEwYWY3MmQ4MGUwN2E3OTJhOGFmZDQ2ZGRmYTY5YjFiYmY?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=7c3fd3aab2856d63e27db3a7d7b8e9f1866a930d505d132c72d4102be2e009d8",
-      "publishedAt": "2023-10-06 09:22:35",
-      "content": "La situation sanitaire ne sarrange pas en Martinique, o\u00f9 l\u00e9pid\u00e9mie de dengue continue de progresser. Depuis le 18 septembre 2023, trois personnes en sont mortes, a indiqu\u00e9 lAgence r\u00e9gionale de sant\u00e9 \u2026 [+1454 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.657145",
-      "internal_id": "f93528d7fd1b2db5bdc52f32a94ad1a360b638cb5f292b1af6347cd1ec2dd869",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2355,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Surge in dog bite cases across Karnataka, but total number of rabies deaths decrease",
-      "description": "Karnataka has experienced a significant increase in dog bite incidents, with an average of 596 cases per day in the first nine months of 2023. This marks a 34% and 37% rise compared to 2022 and 2021, respectively. However, the number of rabies-related deaths \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/surge-in-dog-bite-cases-across-karnataka-but-total-number-of-rabies-deaths-decrease/articleshow/104210439.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104210539,width-1200,height-630,imgsize-2706426,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-06 08:49:18",
-      "content": "Karnataka has seen a sharp increase in dog bite incidents this year, with an average of 596 cases per day during the first nine months of 2023. This represents a significant spike, marking a 34% and \u2026 [+3167 chars]",
-      "retrievedAt": "2023-10-07 19:05:09.721461",
-      "internal_id": "3974541f8b0034e5ed30a77c232d300ecb21c47a5757ed80b1deaca6ec31512c",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2390,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "20 Minutes avec AFP (20 Minutes)",
-      "title": "Martinique : L\u2019\u00e9pid\u00e9mie de dengue fait trois d\u00e9c\u00e8s en quinze jours, dont un enfant",
-      "description": "Martinique et Guadeloupe se trouvent depuis la mi-ao\u00fbt en phase \u00e9pid\u00e9mique pour cette maladie tropicale",
-      "url": "https://www.20minutes.fr/sante/4056442-20231006-martinique-epidemie-dengue-fait-trois-deces-quinze-jours-dont-enfant",
-      "urlToImage": "https://img.20mn.fr/DtEu4dZvSBWfz-9RvOC5dik/1200x768_a-culex-tarsalis-mosquito-is-shown-at-the-salt-lake-city-mosquito-abatement-district-on-monday-aug-28-2023-in-salt-lake-city-mosquitoes-can-carry-viruses-including-dengue-yellow-fever-chikungunya-and-zika-they-are-especially-threatening-to-public-health-in-asia-and-africa-but-are-also-closely-monitored-in-the-united-states-ap-photo-rick-bowmer-cli704-23251815588774-2309101407",
-      "publishedAt": "2023-10-06 07:41:50",
-      "content": "C\u2019est une maladie tropicale qui se transmet essentiellement par les piq\u00fbres de moustique. La dengue fait son retour en Martinique et l\u2019\u00e9pid\u00e9mie continue de progresser. Trois personnes en sont mortes \u2026 [+1394 chars]",
-      "retrievedAt": "2023-10-08 07:05:24.262042",
-      "internal_id": "faf0a716ac4c543ee5155793388b2cef7d99478abc06f8ee863bee48fb190d79",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2350,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Publicnow",
-      "title": "GlobalData : Influencers on X hail WHO-approved R21/Matrix-M malaria vaccine as game changer, reveals GlobalData",
-      "description": "(marketscreener.com) 06 Oct, 2023 Influencers on X hail WHO-approved R21/Matrix-M malaria vaccine as game changer, reveals GlobalData Share Print page Posted in Business Fundamentals The R21/Matrix-M malaria vaccine developed by th\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/GLOBALDATA-PLC-13101755/news/GlobalData-Influencers-on-X-hail-WHO-approved-R21-Matrix-M-malaria-vaccine-as-game-changer-reveal-44998819/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-10-06 07:04:06",
-      "content": "The R21/Matrix-Mmalaria vaccine developed by the University of Oxford and the Serum Institute of India, leveraging Novavax's adjuvant technology, has been recommended for use by the World Health Orga\u2026 [+2734 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.947449",
-      "internal_id": "5f041bb0b811f1c5555ff917deccbe6096e03d47437c9061cc14050bd3ef5c0a",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2320,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Hvg.hu",
-      "author": "hvg@hvg.hu",
-      "title": "WHO: \u00c1tterjedhet a dengue-l\u00e1z Eur\u00f3pa d\u00e9li r\u00e9sz\u00e9re",
-      "description": "A betegs\u00e9g \u00c1zsi\u00e1ban \u00e9s D\u00e9l-Amerik\u00e1ban \u00e9vente mintegy 20 ezer ember hal\u00e1l\u00e1t okozza.",
-      "url": "https://hvg.hu/vilag/20231006_WHO_Atterjedhet_a_denguelaz_Europa_deli_reszere",
-      "urlToImage": "https://api.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/1e4a39b9-38af-4d12-bddf-8b5f10a712ed.jpg",
-      "publishedAt": "2023-10-06 06:57:00",
-      "content": "A betegs\u00e9g \u00c1zsi\u00e1ban \u00e9s D\u00e9l-Amerik\u00e1ban \u00e9vente mintegy 20 ezer ember hal\u00e1l\u00e1t okozza. A dengue-l\u00e1z m\u00e1r ebben az \u00e9vtizedben tov\u00e1bb terjedhet az Egyes\u00fclt \u00c1llamok \u00e9s Eur\u00f3pa d\u00e9li r\u00e9szei fel\u00e9, \u00e9s Afrika to\u2026 [+1951 chars]",
-      "retrievedAt": "2023-10-07 07:05:30.972582",
-      "internal_id": "764933c190e71bf3df2202771c00cbb3a5ac5b79816ffb9e88aae1ddce17993d",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2322,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Digi24.ro",
-      "author": "Adrian Dumitru",
-      "title": "Febra dengue va deveni o problem\u0103 major\u0103 \u00een Europa \u0219i SUA \u00een urm\u0103torii zece ani din cauza \u00eenc\u0103lzirii globale, avertizeaz\u0103 OMS",
-      "description": "Febra Dengue va deveni o amenin\u021bare major\u0103 \u00een sudul Europei, \u00een sudul Statelor Unite \u0219i \u00een p\u0103r\u021bi ale Africii, pe parcursul acestui deceniu, a declarat principalul cercet\u0103tor de la Organiza\u021bia Mondial\u0103 a S\u0103n\u0103t\u0103\u021bii, conform Reuters. Amenin\u021barea acestei boli tro\u2026",
-      "url": "https://www.digi24.ro/stiri/externe/febra-dengue-va-deveni-o-problema-majora-in-europa-si-sua-in-urmatorii-zece-ani-din-cauza-incalzirii-globale-avertizeaza-oms-2531853",
-      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMCUyRjA2JTJGMTgxMjM0Nl8xODEy/MzQ2X3Byb2ZpbWVkaWEtMDIwNjk4NTEy/MC5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD1kYmFkNzg1MzFhZjg4NDlhNmJjMzY3NzUwYzlmM2M3NQ==.thumb.jpg",
-      "publishedAt": "2023-10-06 06:40:05",
-      "content": "Febra Dengue va deveni o ameninare major \u00een sudul Europei, \u00een sudul Statelor Unite i \u00een pri ale Africii, pe parcursul acestui deceniu, a declarat principalul cercettor de la Organizaia Mondial a Snti\u2026 [+2874 chars]",
-      "retrievedAt": "2023-10-07 07:05:30.990971",
-      "internal_id": "5b13f78f66722fca06268c97ef0b3b8e8629b87c90473ee5905582f7f08ca2a3",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2391,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says - Reuters",
-      "description": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist saysReuters View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=171961633",
-      "urlToImage": null,
-      "publishedAt": "2023-10-06 06:32:29",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-08 07:05:24.272200",
-      "internal_id": "03b1e82c6ac96aa29d70c9583509faa34bab03603c7a6d77ced929ee03272391",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2321,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Portfolio.hu",
-      "author": "Portfolio.hu",
-      "title": "Gyilkos k\u00f3r t\u00e1madhatja meg Eur\u00f3p\u00e1t \u00e9s az Egyes\u00fclt \u00c1llamokat",
-      "description": "A dengue-l\u00e1z m\u00e1r ebben az \u00e9vtizedben tov\u00e1bb terjedhet az Egyes\u00fclt \u00c1llamok \u00e9s Eur\u00f3pa d\u00e9li r\u00e9szei fel\u00e9, \u00e9s Afrika tov\u00e1bbi ter\u00fcletein is megjelenhet - figyelmeztetett az Eg\u00e9szs\u00e9g\u00fcgyi Vil\u00e1gszervezet (WHO) vezet\u0151 tud\u00f3sa, akinek magyar\u00e1zata szerint a magasabb h\u0151m\u00e9r\u2026",
-      "url": "https://www.portfolio.hu/gazdasag/20231006/gyilkos-kor-tamadhatja-meg-europat-es-az-egyesult-allamokat-644005",
-      "urlToImage": "https://pcdn.hu/articles/images-xl/g/e/t/gettyimages-1403390266-581428.jpg",
-      "publishedAt": "2023-10-06 06:32:00",
-      "content": "A dangue-l\u00e1zat az egyiptomi cs\u00edpsz\u00fanyog \u00e1ltal terjesztett dengue-v\u00edrus okozza. A betegs\u00e9g hossz\u00fa ideje jelen van \u00c1zsi\u00e1ban \u00e9s D\u00e9l-Amerik\u00e1ban is, \u00e9vente mintegy 20 ezer ember hal\u00e1l\u00e1t okozza. 2000 \u00f3ta \u2026 [+2135 chars]",
-      "retrievedAt": "2023-10-07 07:05:30.986190",
-      "internal_id": "d8f1f58f097984524611537dfae94ed7b81e961c5d9e004b5c6da8c5d0cfd214",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2342,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Independent.ie",
-      "author": "Jennifer Rigby",
-      "title": "Dengue will \u2018take off\u2019 in Europe, US and Africa this decade, WHO scientist says",
-      "description": "Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the conditions for the mosquitoes carrying the infection to spread.",
-      "url": "https://www.independent.ie/world-news/dengue-will-take-off-in-europe-us-and-africa-this-decade-who-scientist-says/a1902249529.html",
-      "urlToImage": "https://focus.independent.ie/thumbor/lSpEhcwN7KGxJ1-ORviq2kFehWM=/0x0:960x640/960x640/prod-mh-ireland/8fe16d27-f25e-4541-b458-6c5a05581201/f65ebc23-7116-4fe7-ad22-8207faa59f8a/8fe16d27-f25e-4541-b458-6c5a05581201.jpg",
-      "publishedAt": "2023-10-06 06:16:13",
-      "content": "Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the condition\u2026 [+53 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.081894",
-      "internal_id": "f130d7db51145f0c4da4fbd591589465a02a614b72d9da231ebe7600d8948dc3",
       "publishedAtLabel": "Oct 6"
     }
   ]
