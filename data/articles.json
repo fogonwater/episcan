@@ -1,8 +1,136 @@
 {
-  "last_updated": "2023-10-14 19:05",
+  "last_updated": "2023-10-15 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 2554,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Preise: Immunologin aus Kamerun wird mit Virchow-Preis ausgezeichnet",
+      "description": "Das zweite Jahr in Folge vergibt die Virchow Stiftung einen Preis f\u00fcr besondere Leistungen im Gesundheitsbereich. Die Jury ehrt die diesj\u00e4hrige Preistr\u00e4gerin f\u00fcr ihren Kampf gegen Malaria - und noch aus einem anderen Grund.",
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/preise--immunologin-aus-kamerun-wird-mit-virchow-preis-ausgezeichnet-33912474.html",
+      "urlToImage": "https://image.stern.de/6681672/t/31/v5/w1440/r1.7778/-/video-fallback-image.jpg",
+      "publishedAt": "2023-10-14 06:52:14",
+      "content": "Das zweite Jahr in Folge vergibt die Virchow Stiftung einen Preis f\u00fcr besondere Leistungen im Gesundheitsbereich. Die Jury ehrt die diesj\u00e4hrige Preistr\u00e4gerin f\u00fcr ihren Kampf gegen Malaria - und noch \u2026 [+1745 chars]",
+      "retrievedAt": "2023-10-15 07:05:27.984000",
+      "internal_id": "b92a757e73279ea30911006301b216bed452adbaefd67dc3c1a7b94ad55744ef",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2550,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "Marie Pomme",
+      "title": "Vid\u00e9o. 2023, une ann\u00e9e record pour la dengue en France",
+      "description": "Bzzzzz bzzzz... Le moustique est l'ennemi p\u00e9nible de la nuit. Plus fourbe : le moustique tigre, qui transmet la dengue. En 2023, 1 167 cas ont \u00e9t\u00e9 recens\u00e9s en France entre le 1er mai et le 6 octobre.",
+      "url": "https://www.ledauphine.com/sante/2023/10/14/2023-une-annee-record-pour-la-dengue-en-france",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/C37209DD-81C4-4668-8FA2-A03D230945B0/FB1200/photo-1697225957.jpg",
+      "publishedAt": "2023-10-14 06:30:00",
+      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
+      "retrievedAt": "2023-10-15 07:05:27.110022",
+      "internal_id": "e263ec2c50b29fc6103a5c1119d203770adc953f05d2d450620d1e14c7eca40f",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2555,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Jean-Paul NACKART",
+      "title": "Zikadonf f\u00eate ses quinze ans",
+      "description": "Deux semaines apr\u00e8s l\u2019harmonie, c\u2019est au tour du street band de faire la f\u00eate ce samedi \u00e0 la Bascule d\u2019Esplechin.",
+      "url": "https://www.lavenir.net/regions/wallonie-picarde/tournai/2023/10/14/zikadonf-fete-ses-quinze-ans-K7D25FHUE5A4HA72NPTUAZT7K4/",
+      "urlToImage": "https://www.lavenir.net/resizer/mFgA18kVjIgUAnSZuR9mAA-7KNA=/1200x630/filters:format(jpeg):focal(475x335.5:485x325.5):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/UFVD77VYQZHRHBUO5OR7E7I6TY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/D7RJLICYS5FS5P7HUKR6XWNZL4.jpg",
+      "publishedAt": "2023-10-14 04:00:00",
+      "content": "C\u00e9tait en 2008. Phalange de lharmonie-fanfare, le papy musette participait \u00e0 de nombreuses f\u00eates r\u00e9gionales. Devenu Zikadonf, lensemble aujourdhui dirig\u00e9 par Sevan De Rycke (apr\u00e8s Gregory Lecul) a po\u2026 [+1335 chars]",
+      "retrievedAt": "2023-10-15 07:05:28.243485",
+      "internal_id": "48a99e1eb44fb190d44eee226ec1073cadb8b6da967c5a826fc6fca326799b9f",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2546,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Milwaukee health officials are following a few suspected measles cases. Why that is causing such concern? - Milwaukee Journal Sentinel",
+      "description": "Milwaukee health officials are following a few suspected measles cases. Why that is causing such concern?Milwaukee Journal Sentinel Milwaukee suspected measles cases; contact tracing underway | FOX6 News MilwaukeeFOX6 News Milwaukee Measles case identified in\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172012489",
+      "urlToImage": null,
+      "publishedAt": "2023-10-13 23:12:06",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-15 07:05:26.328317",
+      "internal_id": "346a2d608ae7a7205537ab4ad16c410a4969d7ab649f14ac461784039ad0b6e7",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2547,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Chicago Tribune",
+      "author": "Caroline Kubzansky",
+      "title": "Illinois identifies first Measles case since 2019, public health officials say",
+      "description": "State public health officials urged Illinois residents to be up-to-date on their vaccinations after the first case of Measles in state since 2019 was recently identified.",
+      "url": "https://www.chicagotribune.com/news/breaking/ct-illinois-measles-first-case-20231013-c3v75yzi4bdofcagtf6riez6ei-story.html",
+      "urlToImage": "https://www.chicagotribune.com/resizer/srJny-3Nwg8-TbeUtpAAdNeSwYs=/1200x630/filters:format(jpg):quality(70):focal(2460x1295:2470x1305)/cloudfront-us-east-1.images.arcpublishing.com/tronc/YCXW63XQ3ZELHI6Y5WDHMCJV2I.JPG",
+      "publishedAt": "2023-10-13 21:54:12",
+      "content": "Illinois public health officials said Friday they have confirmed the first case of Measles in the state since 2019 and urged Illinoisans to make sure they are vaccinated against the disease. The inf\u2026 [+1782 chars]",
+      "retrievedAt": "2023-10-15 07:05:26.337496",
+      "internal_id": "d2c7502516fb4dd4a96f3b4e771e7f08624503c2aa49197222f22f08ac18b79d",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2548,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WDJT",
+      "author": "Tajma Hall",
+      "title": "Milwaukee health officials continue to investigate measles case; encourage vaccination",
+      "description": "MILWAUKEE (CBS 58) --- It's been three days since the Milwaukee Health Department announced that someone had tested positive for measles.Measles can be very contagious and right now vaccination rates are",
+      "url": "https://cbs58.com/news/milwaukee-health-officials-continue-to-investigate-measles-case",
+      "urlToImage": "https://newscdn2.weigelbroadcasting.com/EfQl3-1697230103-266127-blog-0400P_MEASLES%20OUTBREAK__WDJTEIMF.JPG",
+      "publishedAt": "2023-10-13 20:58:42",
+      "content": "MILWAUKEE (CBS 58) --- It's been three days since the Milwaukee Health Department announced that someone had tested positive for measles. Measles can be very contagious and right now vaccination rat\u2026 [+1532 chars]",
+      "retrievedAt": "2023-10-15 07:05:26.341556",
+      "internal_id": "ddd5ed746232720332202e63bacbff2c96f90866ebd3f548452ae578e9d0d786",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2549,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Tsujimoto, H., Adelman, Z. N.",
+      "title": "An 11-point time course midgut transcriptome across 72 h after bloodfeeding provides detailed temporal resolution of transcript expression in the arbovirus vector, Aedes aegypti [RESOURCES]",
+      "description": "As the major vector for dengue, Zika, yellow fever, and chikungunya viruses, the mosquito Aedes aegypti is one of the most important insects in public health. These viruses are transmitted by bloodfeeding, which is also necessary for the reproduction of the m\u2026",
+      "url": "https://genome.cshlp.org/content/33/9/1638.short?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2023-10-13 19:47:41",
+      "content": "As the major vector for dengue, Zika, yellow fever, and chikungunya viruses, the mosquito Aedes aegypti is one of the most important insects in public health. These viruses are transmitted by bloodfe\u2026 [+1694 chars]",
+      "retrievedAt": "2023-10-15 07:05:27.105970",
+      "internal_id": "0303c707aa2c4c86e161d88c85e43073db99e1762484a4bf9c64dae6c76f84b6",
+      "publishedAtLabel": "Oct 13"
+    },
     {
       "id": 2545,
       "query": [
@@ -130,6 +258,24 @@
       "publishedAtLabel": "Oct 13"
     },
     {
+      "id": 2551,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Syllad.com",
+      "author": "Syllad | The Rising Meghalaya",
+      "title": "Syllad ka jingpang \u2018Dengue\u2019 ia ki bynta ka jylla iap uwei, shah ktah 44 ngut",
+      "description": "Ka jylla Meghalaya ka la sakhi halor ka jingsyllad jong ka jingpang Dengue naduh kine ki khyndiat sngi ba la dep kaba la shim ruh ia ka jingim jong uwei u briew bad ka jingioh pang jong ki 44 ngut kiwei pat, ong ka Myntri ka Tnat ka koit ka khiah ka Kong Ampa\u2026",
+      "url": "https://www.syllad.com/syllad-ka-jingpang-dengue-ia-ki-bynta-ka-jylla-iap-uwei-shah-ktah-44-ngut/",
+      "urlToImage": "https://www.syllad.com/wp-content/uploads/2023/10/Mosquito-jpg.webp",
+      "publishedAt": "2023-10-13 13:46:00",
+      "content": "Syllad | The Rising MeghalayaOctober 13, 2023 Ka jylla Meghalaya ka la sakhi halor ka jingsyllad jong ka jingpang Dengue naduh kine ki khyndiat sngi ba la dep kaba la shim ruh ia ka jingim jong uwei\u2026 [+1754 chars]",
+      "retrievedAt": "2023-10-15 07:05:27.147594",
+      "internal_id": "087d4421896099b2f0a3360936faf0e4dfefd9b3bf3111bfa79d4ec711a9d2f8",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
       "id": 2543,
       "query": [
         "malaria"
@@ -217,6 +363,42 @@
       "content": "MADRID, 13 Oct. (EUROPA PRESS) - UNICEF ha anunciado un acuerdo para garantizar el suministro de la segunda vacuna mundial contra la malaria, la 'R21/Matrix-M', aprobada recientemente por la Organ\u2026 [+1714 chars]",
       "retrievedAt": "2023-10-14 19:05:13.420047",
       "internal_id": "2d1b78530063bb8800f93af800a6f5975c1f530472e914e6b26840c337f9f8f5",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2552,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Syllad.com",
+      "author": "Syllad | The Rising Meghalaya",
+      "title": "Meghalaya registers over 44 cases of dengue, one death",
+      "description": "Meghalaya has registered over 44 cases of dengue and one death during the past few days, Health Minister Ampareen Lyngdoh said on Firday. \u201cThe dengue cases that have been indicated in the entire state of Meghalaya is predominantly present in the plaint belt \u2026",
+      "url": "https://www.syllad.com/meghalaya-registers-over-44-cases-of-dengue-one-death/",
+      "urlToImage": "https://www.syllad.com/wp-content/uploads/2023/10/Mosquito-jpg.webp",
+      "publishedAt": "2023-10-13 10:03:00",
+      "content": "Syllad | The Rising MeghalayaOctober 13, 2023 Meghalaya has registered over 44 cases of dengue and one death during the past few days, Health Minister Ampareen Lyngdoh said on Firday. \u201cThe dengue \u2026 [+2054 chars]",
+      "retrievedAt": "2023-10-15 07:05:27.156093",
+      "internal_id": "9d526a2a0e41e7ff8cc70f31c99a68a0a9f8bcd62fb976740285430bb324d1a2",
+      "publishedAtLabel": "Oct 13"
+    },
+    {
+      "id": 2553,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Child dies of dengue in Tanahu",
+      "description": "DAMAULI: A six-year-old child of Vyas municipality-4 in Tanahu district died of dengue infection this morning in the course of treatment at Gandaki Medical College. With this, the number of people who died of dengue has reached five in Vyas municipality. He w\u2026",
+      "url": "https://english.khabarhub.com/2023/13/322189/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-10-13 08:45:18",
+      "content": "Image for Representation.DAMAULI: A six-year-old child of Vyas municipality-4 in Tanahu district died of dengue infection this morning in the course of treatment at Gandaki Medical College. With thi\u2026 [+583 chars]",
+      "retrievedAt": "2023-10-15 07:05:27.160118",
+      "internal_id": "c96c15a85b6a9fb3b31127d878ee29da8d73a828f1c0261f70398ec0fc30b0f7",
       "publishedAtLabel": "Oct 13"
     },
     {
@@ -3431,186 +3613,6 @@
       "content": "Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the condition\u2026 [+53 chars]",
       "retrievedAt": "2023-10-07 07:05:31.081894",
       "internal_id": "f130d7db51145f0c4da4fbd591589465a02a614b72d9da231ebe7600d8948dc3",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2405,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Katherine Dillinger",
-      "title": "Locally acquired malaria case reported in Arkansas | CNN",
-      "description": "A case of locally acquired malaria has been reported in Arkansas, the state Department of Health says, bringing to 10 the number of cases in the US this year.",
-      "url": "https://www.cnn.com/2023/10/05/health/locally-acquired-malaria-arkansas/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/151124141940-malaria-mosquito-anopheles-stephensi.jpg?q=h_619,w_1024,x_0,y_27,c_crop/h_619,w_1100,c_lpad,b_rgb:061015/w_800",
-      "publishedAt": "2023-10-06 05:34:35",
-      "content": "A case of locally acquired malaria has been reported in Arkansas, the state Department of Health says, bringing to 10 the number of cases in the US this year. The person, a Saline County resident, h\u2026 [+677 chars]",
-      "retrievedAt": "2023-10-09 07:05:48.556273",
-      "internal_id": "252fc891242bedf082563aa866b6e27b08f7af781936727e242b432373aadcd0",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2420,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "reuters",
-      "source_name": "Reuters",
-      "author": "Jennifer Rigby",
-      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
-      "description": "Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the conditions for the mosquitoes carrying the infection to spread.",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/dengue-will-take-off-southern-europe-us-africa-this-decade-who-scientist-says-2023-10-06/",
-      "urlToImage": "https://www.reuters.com/resizer/RvV4xXJSQk97sYROaS9K5Ys6M0g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UMUKCF3ORFO6TM4MYZZCY3LIAE.jpg",
-      "publishedAt": "2023-10-06 05:22:46",
-      "content": "LONDON, Oct 6 (Reuters) - Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer tempera\u2026 [+4002 chars]",
-      "retrievedAt": "2023-10-10 07:05:40.148959",
-      "internal_id": "3f130e0445dfb1cad9fec6e8286dfff2f5e59101a0963ac81cdd0108d1bbe1b1",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2323,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Investing.com",
-      "author": "Reuters",
-      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
-      "description": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
-      "url": "https://www.investing.com/news/stock-market-news/dengue-will-take-off-in-southern-europe-us-africa-this-decade-who-scientist-says-3191904",
-      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_L.jpg",
-      "publishedAt": "2023-10-06 05:13:02",
-      "content": "By Jennifer Rigby LONDON (Reuters) - Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as wa\u2026 [+3387 chars]",
-      "retrievedAt": "2023-10-07 07:05:30.997170",
-      "internal_id": "087b898a99fd579213bcafb2fe395f11b24e33f8b4c0797212d9e7de047049a5",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2417,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Jennifer Rigby",
-      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
-      "description": "LONDON (Reuters) - Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the conditions for the mosquitoes carrying the infecti\u2026",
-      "url": "https://www.thestar.com.my/news/world/2023/10/06/dengue-will-039take-off039-in-southern-europe-us-africa-this-decade-who-scientist-says",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/06/2321899.jpg",
-      "publishedAt": "2023-10-06 05:11:00",
-      "content": "LONDON (Reuters) - Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures c\u2026 [+3450 chars]",
-      "retrievedAt": "2023-10-10 07:05:40.142233",
-      "internal_id": "d3d0152af944ae79628d0a5b40c6b343f873f58b58613c043d1528ada4f9755b",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2348,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Naked Scientists",
-      "author": "The Naked Scientists",
-      "title": "Malaria vaccine, Fukushima wastewater & Nobel prizes",
-      "description": "In the news pod: the WHO have recommended the Oxford Covid jab for use - we talk to someone who helped design it. We also speak with the scientist who questions whether the Fukushima wastewater disposal plans are as controversial as some would have us believe\u2026",
-      "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/malaria-vaccine-fukushima-wastewater-nobel-prizes",
-      "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/images/ec31b30e2df21c22d2524518b74b4197e572ead504b014459cf5c278a0ecb7_960.jpg?itok=Wh1GUiJh",
-      "publishedAt": "2023-10-06 05:07:36",
-      "content": "Evolution is considered a long and slow process, especially when it comes to the formation of new species... Since Charles Darwin and other scientists of the 19th Century drafted the first theories\u2026 [+10529 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.934500",
-      "internal_id": "b212206b9027b004080fe2db1286bc8686269e9aa6dc20cf403aaffd2bc9e063",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2349,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "The New Malaria Vaccines",
-      "description": "Editorial - The new vaccine is a welcome relief",
-      "url": "https://allafrica.com/stories/202310060035.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-06 05:07:04",
-      "content": "The new vaccine is a welcome relief For Nigerians and many people across the world who have for decades looked forward to a medical solution for the malaria scourge, there is now another reason to r\u2026 [+3713 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.943025",
-      "internal_id": "cc7e6433ab3442bf1c7b79feeb31e7f5e82e5d837b76c83c0c29c5790068517e",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2328,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "CHINA, VIETNAM PREPARE FOR POSSIBLE XI VISIT TO HANOI IN NEXT MO\u2026",
-      "description": "(marketscreener.com) CHINA, VIETNAM PREPARE FOR POSSIBLE XI VISIT TO HANOI IN NEXT MONTH -SOURCES https://www.marketscreener.com/news/latest/CHINA-VIETNAM-PREPARE-FOR-POSSIBLE-XI-VISIT-TO-HANOI-IN-NEXT-MO-8230--44997552/?utm_medium=RSS&utm_content=20231006",
-      "url": "https://www.marketscreener.com/news/latest/CHINA-VIETNAM-PREPARE-FOR-POSSIBLE-XI-VISIT-TO-HANOI-IN-NEXT-MO-8230--44997552/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-10-06 05:02:01",
-      "content": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
-      "retrievedAt": "2023-10-07 07:05:31.019929",
-      "internal_id": "101387e32090a7ac7f97d04822b4c756a03cd50ff033c51acd8fcb3e55a048a6",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2326,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
-      "description": "(marketscreener.com) Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the conditions for the mosquitoes carrying the infec\u2026",
-      "url": "https://www.marketscreener.com/quote/index/DOW-JONES-AFRICA-TITANS-5-3966403/news/Dengue-will-take-off-in-southern-Europe-US-Africa-this-decade-WHO-scientist-says-44997542/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-10-06 05:00:00",
-      "content": "LONDON, Oct 6 (Reuters) - Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temp\u2026 [+3512 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.011156",
-      "internal_id": "2dd5bd159dea8a20c8aa8aeff1d1340a87c975c9124e084ca046ed79fd181728",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2347,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "REVISTA VIERNES",
-      "title": "La meningitis apaga vidas: la vacunaci\u00f3n, la mejor herramienta",
-      "description": "La meningitis es una enfermedad infecciosa, que provoca la inflamaci\u00f3n de los tejidos que rodean el cerebro y la m\u00e9dula espinal. Suele deberse a una infecci\u00f3n causada por varias especies de bacterias, virus, hongos y par\u00e1sitos, puede ser mortal y requiere ate\u2026",
-      "url": "https://www.eluniversal.com.co/viernes/la-meningitis-apaga-vidas-la-vacunacion-la-mejor-herramienta-FX9189520",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1386x687/587c0/800d686/none/13704/CUBE/06meningitis_8654803_20231005182550.jpg",
-      "publishedAt": "2023-10-06 05:00:00",
-      "content": "La meningitis es una enfermedad infecciosa, que provoca la inflamaci\u00f3n de los tejidos que rodean el cerebro y la m\u00e9dula espinal. Suele deberse a una infecci\u00f3n causada por varias especies de bacterias\u2026 [+3805 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.396387",
-      "internal_id": "924eb57bb06f7388aeae37dc309e0141ff3328f0cdf766592fb25038db9d95d3",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2329,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Business Today",
-      "author": "Business Today Desk",
-      "title": "World Cup 2023: Shubman Gill reportedly down with dengue, might miss opener match against Australia",
-      "description": "Gill, who has played some spectacular innings in ODI cricket in recent times, is reportedly down with high fever and will be tested for dengue on Friday before a final call is taken on the matter.",
-      "url": "https://www.businesstoday.in/latest/trends/story/world-cup-2023-shubman-gill-reportedly-down-with-dengue-might-miss-opener-match-against-australia-400962-2023-10-06",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202310/ezgif-sixteen_nine_78.jpg",
-      "publishedAt": "2023-10-06 04:04:33",
-      "content": "In-form Shubman Gill is reportedly down with dengue and could miss the World Cup 2023 opener clash against Australia on October 8 (Sunday) in Chennai. Gill, who has has had played some spectuclar inn\u2026 [+2369 chars]",
-      "retrievedAt": "2023-10-07 07:05:31.031394",
-      "internal_id": "393565f6bd0df8f1c9e1ae2159e303ad83e968a0cb3ab8ee8920a24789bcbbd9",
       "publishedAtLabel": "Oct 6"
     }
   ]
