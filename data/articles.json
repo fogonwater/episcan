@@ -1,8 +1,44 @@
 {
-  "last_updated": "2023-10-16 07:05",
+  "last_updated": "2023-10-16 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 2571,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Ahmad Muzdaffar Fauzan, Cindy Frishanti Octavia",
+      "title": "BRIN initiates development of dengue vaccine in Indonesia",
+      "description": "National Research and Innovation Agency (BRIN) plans to initiate the development of a dengue hemorrhagic fever (DBD) vaccine made in Indonesia. Vaccine Development Researcher at the Vaccine and Drug Research Center of Health ...",
+      "url": "https://en.antaranews.com/news/296277/brin-initiates-development-of-dengue-vaccine-in-indonesia",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/15/1697360066685.jpg",
+      "publishedAt": "2023-10-15 15:35:18",
+      "content": "Jakarta (ANTARA) - National Research and Innovation Agency (BRIN) plans to initiate the development of a dengue hemorrhagic fever (DBD) vaccine made in Indonesia.Vaccine Development Researcher at the\u2026 [+1685 chars]",
+      "retrievedAt": "2023-10-16 19:05:40.254353",
+      "internal_id": "d84766ca08aafbca32b32733506840344dd83f644a1d369f9a78e64c186bd76f",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 2572,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Preise: Immunologin aus Kamerun mit Virchow-Preis ausgezeichnet",
+      "description": "Das zweite Jahr in Folge vergibt die Virchow Stiftung einen Preis f\u00fcr besondere Leistungen in der Gesundheitsforschung. Die Jury ehrt die diesj\u00e4hrige Preistr\u00e4gerin f\u00fcr ihren Kampf gegen Malaria - und noch aus einem anderen Grund.",
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/preise--immunologin-aus-kamerun-mit-virchow-preis-ausgezeichnet--33912474.html",
+      "urlToImage": "https://image.stern.de/6681672/t/31/v5/w1440/r1.7778/-/video-fallback-image.jpg",
+      "publishedAt": "2023-10-15 08:39:15",
+      "content": "Das zweite Jahr in Folge vergibt die Virchow Stiftung einen Preis f\u00fcr besondere Leistungen in der Gesundheitsforschung. Die Jury ehrt die diesj\u00e4hrige Preistr\u00e4gerin f\u00fcr ihren Kampf gegen Malaria - und\u2026 [+1859 chars]",
+      "retrievedAt": "2023-10-16 19:05:41.089767",
+      "internal_id": "cf31e08355e773a5012233738568562c9938d55319f4fe88682a0873c0912446",
+      "publishedAtLabel": "Oct 15"
+    },
     {
       "id": 2570,
       "query": [
@@ -3578,42 +3614,6 @@
       "content": "1. Identification of molecules targeting the functional viability of male and female P. falciparum gametocytes A subset of 564 molecules from the Tres Cantos Antimalarial Set (TCAMS) with establishe\u2026 [+29407 chars]",
       "retrievedAt": "2023-10-08 07:05:25.713089",
       "internal_id": "ef78116242b22d6148619d5f290d88686ba80cf270c1e3e061649516a89d0b5d",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2367,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": "Reuters",
-      "title": "Dengue to plague US, Europe, Africa by 2030 - WHO",
-      "description": "(marketscreener.com) STORY: Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist has warned.https://www.marketscreener.com/news/latest/Dengue-to-plague-US-Europe-\u2026",
-      "url": "https://www.marketscreener.com/news/latest/Dengue-to-plague-US-Europe-Africa-by-2030-WHO--45002445/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-10-06 13:44:04",
-      "content": "STORY: Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist has warned. Warmer temperatures are crea\u2026 [+1811 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.664291",
-      "internal_id": "76d8a4b90ebafa6fafe7405cc4ad0ec0469b78abdbc4e2fc42149895be597501",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2377,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Federico Garau)",
-      "title": "Nuovo caso di virus Chikungunya: cosa sappiamo dell'infezione",
-      "description": "L'episodio pi\u00f9 recente, dopo i tre casi accertati in Veneto, si \u00e8 verificato a Sansepolcro, in provincia di Arezzo",
-      "url": "https://www.ilgiornale.it/news/nazionale/nuovo-caso-virus-chikungunya-quarto-cosa-sappiamo-2222030.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2023/07/30/1690722365-zanzara.jpg?_=1690722365",
-      "publishedAt": "2023-10-06 13:29:19",
-      "content": "Dopo i tre casi verificatisi in Veneto, anche dalla Toscana arriva la notizia di un'infezione causata dal virus Chikungunya. L'allarme arriva da Sansepolcro, comune della provincia di Arezzo, anche s\u2026 [+3128 chars]",
-      "retrievedAt": "2023-10-07 19:05:12.213654",
-      "internal_id": "5554d0477b3a669d77d2cc2f2a289ca1dbc2bb927c3fda638b9b01107b64d6e7",
       "publishedAtLabel": "Oct 6"
     }
   ]
