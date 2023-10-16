@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-10-15 19:05",
+  "last_updated": "2023-10-16 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 11,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 2570,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DIE WELT",
+      "author": "Norbert Lossau",
+      "title": "\u201eWichtig die n\u00e4chste Generation von Forschern auszubilden, die unsere Arbeiten fortsetzen k\u00f6nnen\u201c",
+      "description": "In Berlin ist der mit 500.000 Euro dotierte Virchow-Preis an eine Wissenschaftlerin aus Kamerun verliehen worden. Professor Rose Leke wurde f\u00fcr ihre Beitr\u00e4ge zur Malariaforschung und die F\u00f6rderung von Frauen in der Wissenschaft ausgezeichnet.",
+      "url": "https://www.welt.de/wissenschaft/article248007934/Virchow-Preis-fuer-Malariaforscherin-Rose-Leke-aus-Kamerun.html",
+      "urlToImage": "https://img.welt.de/img/wissenschaft/mobile248007932/1821350477-ci16x9-w1200/Virchow-Prize-Ceremony.jpg",
+      "publishedAt": "2023-10-15 06:38:35",
+      "content": "F\u00fcr bahnbrechende Pionier- und Forschungsarbeit im Kampf gegen Malaria ist die kamerunische Immunologin Rose Gana Fomban Leke am Samstagabend im Roten Rathaus von Berlin mit dem Virchow-Preis f\u00fcr Glo\u2026 [+10233 chars]",
+      "retrievedAt": "2023-10-16 07:05:44.792451",
+      "internal_id": "461aca2879eb239d8667d78594c458a411aace9f2dfee990ee8141ce170aca4f",
+      "publishedAtLabel": "Oct 15"
+    },
+    {
+      "id": 2569,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Commentary: Why are dengue fever cases increasing around the world?",
+      "description": "A warmer, wetter and less reliable climate will likely bring about many more - and less predictable - mosquito-related disease outbreaks, says this Anglia Ruskin University professor.",
+      "url": "https://www.channelnewsasia.com/commentary/dengue-fever-cases-world-bangladesh-deaths-aedes-mosquito-climate-change-3843756",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--zkamTqHP--/c_crop,h_439,w_781,x_85,y_1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/aedes-aegypti-mosquitoes-are-seen-at-the-laboratory-of-entomology-and-ecology-of-the-dengue-branch---2597676.png?itok=ItcfG4xT",
+      "publishedAt": "2023-10-14 22:01:12",
+      "content": "CAMBRIDGE, England: Something unusual seems to be happening with dengue, a potentially fatal mosquito-borne viral disease found across swathes of tropical Africa, Asia and the Americas. As with most \u2026 [+2206 chars]",
+      "retrievedAt": "2023-10-16 07:05:43.784897",
+      "internal_id": "711635eacedbad936be88f9101bdea71c78c34b245f5020a4dd60131b69f1104",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2568,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Illinois reports first measles case in 4 years, state health officials confirm - WLS-TV",
+      "description": "Illinois reports first measles case in 4 years, state health officials confirmWLS-TV Milwaukee suspected measles cases; contact tracing underway | FOX6 News MilwaukeeFOX6 News Milwaukee First measles case in Illinois since 2019 confirmed in Cook CountyNBC Chi\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172017179",
+      "urlToImage": null,
+      "publishedAt": "2023-10-14 21:12:04",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-16 07:05:43.359521",
+      "internal_id": "3fbee6b580710ca0281b9d07d4b86184a6f319d5c529ab542974259a469c4629",
+      "publishedAtLabel": "Oct 14"
+    },
+    {
+      "id": 2567,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "First measles case in Illinois since 2019 confirmed in Cook County - NBC Chicago",
+      "description": "First measles case in Illinois since 2019 confirmed in Cook CountyNBC Chicago Milwaukee suspected measles cases; contact tracing underway | FOX6 News MilwaukeeFOX6 News Milwaukee Illinois reports first measles case in 4 years, state health officials confirmWL\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172016711",
+      "urlToImage": null,
+      "publishedAt": "2023-10-14 19:12:11",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-16 07:05:43.349106",
+      "internal_id": "2caa888f6957ee3803a90a90be3128349d743b3c54063a3470ac9896f1d2b203",
+      "publishedAtLabel": "Oct 14"
+    },
     {
       "id": 2566,
       "query": [
@@ -3542,78 +3614,6 @@
       "content": "Dopo i tre casi verificatisi in Veneto, anche dalla Toscana arriva la notizia di un'infezione causata dal virus Chikungunya. L'allarme arriva da Sansepolcro, comune della provincia di Arezzo, anche s\u2026 [+3128 chars]",
       "retrievedAt": "2023-10-07 19:05:12.213654",
       "internal_id": "5554d0477b3a669d77d2cc2f2a289ca1dbc2bb927c3fda638b9b01107b64d6e7",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2360,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Index.hu",
-      "author": "Szatm\u00e1ri No\u00e9mi",
-      "title": "Figyelmeztet a WHO: vesz\u00e9lyes k\u00f3r terjedhet el Eur\u00f3p\u00e1ban",
-      "description": "Figyelmeztet a WHO: vesz\u00e9lyes k\u00f3r terjedhet el Eur\u00f3p\u00e1ban - Egyre t\u00f6bb hal\u00e1los \u00e1ldozatot szed a j\u00e1rv\u00e1ny.",
-      "url": "https://index.hu/kulfold/2023/10/06/who-europa-amerika-jarvany-halalos-betegseg-jarvany-kor-virus-fertozobetegseg-dangue-laz/",
-      "urlToImage": "https://kep.cdn.index.hu/1/0/5123/51233/512338/51233859_3905975_e36ccd68cfc401a3f07b64c8cebda901_wm.jpg",
-      "publishedAt": "2023-10-06 13:19:00",
-      "content": "A dengue-l\u00e1zat az egyiptomi cs\u00edpsz\u00fanyog \u00e1ltal terjesztett dengue-v\u00edrus okozza. A betegs\u00e9g hossz\u00fa ideje jelen van \u00c1zsi\u00e1ban \u00e9s D\u00e9l-Amerik\u00e1ban is, \u00e9vente mintegy 20 ezer ember hal\u00e1l\u00e1t okozza. 2000 \u00f3ta a\u2026 [+1603 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.636065",
-      "internal_id": "741ae4f6fd9c309eb1500fac625338898cf4c9ac00df7587b4db4170d6eadccf",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2392,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Rwanda Receives Vital Antimalarial Medications Worth Over Rwf450 Million",
-      "description": "[New Times] Rwanda Medical Supply (RMS) has made a procurement of over 150,000 doses of antimalarial medicines, Artemisinin-based Combination Therapy (ACTs), valued at more than $370,000 (over Rwf450 million).",
-      "url": "https://allafrica.com/stories/202310060349.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-06 12:09:43",
-      "content": "Rwanda Medical Supply (RMS) has made a procurement of over 150,000 doses of antimalarial medicines, Artemisinin-based Combination Therapy (ACTs), valued at more than $370,000 (over Rwf450 million). \u2026 [+1988 chars]",
-      "retrievedAt": "2023-10-08 07:05:25.709340",
-      "internal_id": "b81b3d679adcf591f7f478326e9dccf8947c6878b1240526e047aaedbf8245d8",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2358,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Arutz Sheva Staff",
-      "title": "Tel Aviv: Four children diagnosed with measles",
-      "description": "Health Ministry opens epidemiological investigation after four children are diagnosed with measles in Tel Aviv, with a fifth case suspected.",
-      "url": "https://www.israelnationalnews.com/news/377988",
-      "urlToImage": "https://www.inn.co.il/static/pictures/1200x930/1134283.jpg?autocrop=1",
-      "publishedAt": "2023-10-06 11:46:00",
-      "content": "The Israeli Health Ministry on Friday reported that four children of about two years old have been diagnosed with measles. The children all attend the same preschool in Tel Aviv, and a fifth child f\u2026 [+593 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.082137",
-      "internal_id": "b5f8e393dff1cc96ba9e1ff53f495e256bcf9ff3c78e18febe26bda8384453df",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2357,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "By JERUSALEM POST STAFF",
-      "title": "Four children infected in measles outbreak at Tel Aviv kindergarten",
-      "description": "Four children from the same kindergarten in Tel Aviv have been confirmed to be infected with measles, the Heal",
-      "url": "https://www.jpost.com/breaking-news/article-761977",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
-      "publishedAt": "2023-10-06 11:38:50",
-      "content": "Four children from the same kindergarten in Tel Aviv have been confirmed to be infected with measles, the Health Ministry said Friday. A fifth child is suspected of being infected but has not been c\u2026 [+248 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.076734",
-      "internal_id": "b7b881f81951514610ebec4d2d3eea8b4049a708f6d7c455586adea255c533bc",
       "publishedAtLabel": "Oct 6"
     }
   ]
