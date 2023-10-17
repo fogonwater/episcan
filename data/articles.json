@@ -1,8 +1,189 @@
 {
-  "last_updated": "2023-10-17 07:06",
+  "last_updated": "2023-10-17 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 1,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 2580,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Feature: Chinese-made drug transforms malaria treatment in Kenya",
+      "description": "NAIROBI, Oct. 16 (Xinhua) -- Beaming with excitement, dozens of patients braved the humid afternoon weather to queue for a Chinese-manufactured anti-malaria injectable drug at a private hospital in the western Kenyan county of Kisumu, where the tropical disea\u2026",
+      "url": "https://www.thestar.com.my/news/world/2023/10/17/feature-chinese-made-drug-transforms-malaria-treatment-in-kenya",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-10-16 17:09:00",
+      "content": "NAIROBI, Oct. 16 (Xinhua) -- Beaming with excitement, dozens of patients braved the humid afternoon weather to queue for a Chinese-manufactured anti-malaria injectable drug at a private hospital in t\u2026 [+4189 chars]",
+      "retrievedAt": "2023-10-17 19:05:26.317832",
+      "internal_id": "edf8d673987d78d97a8c4e718ba782680af95f882c65c116ec8a08548bd7ca00",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 2574,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Richa Pinto",
+      "title": "Mumbai: BMC vaccinates 9,493 stray dogs, 4,698 stray cats",
+      "description": "The campaign commenced on the World Rabies Day on September 29, and spanned across six administrative divisions including R North, R Central, R South, P North, S, and T, covering areas such as Dahisar, Borivali, Kandivli, Malad, Powai, Kanjurmarg, Bhandup, Na\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-bmc-vaccinates-9493-stray-dogs-4698-stray-cats/articleshow/104475664.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104475652,width-1070,height-580,imgsize-24260,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-16 16:00:14",
+      "content": "AI imagines Durga Maa's 9 forms that are worshiped in Navratri",
+      "retrievedAt": "2023-10-17 19:05:25.078514",
+      "internal_id": "3ba60534a535450c2b5d38539ec27617ceddf3443973a912246bdd930fe92940",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 2576,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Federico Giuliani)",
+      "title": "\"Febbre e dolori muscolari\": la nuova infezione che spaventa l'Asia",
+      "description": "Il virus della dengue viene trasmesso agli esseri umani dalle punture di zanzare che hanno, a loro volta, precedentemente punto una persona infetta. In Nepal la situazione \u00e8 delicata",
+      "url": "https://www.ilgiornale.it/news/cronaca-internazionale/linfezione-virale-che-spaventa-nepal-2226324.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2023/04/17/1681733072-mosquito-ged576423a-1920.jpg?_=1681733072",
+      "publishedAt": "2023-10-16 15:40:42",
+      "content": "\"Al 13 ottobre sono stati identificati un totale di 39.230 casi in 76 distretti\". Inizia cos\u00ec l'ennesimo bollettino quotidiano diffuso dai media del Nepal. Non stiamo parlando di Covid, ma di un altr\u2026 [+2862 chars]",
+      "retrievedAt": "2023-10-17 19:05:25.687276",
+      "internal_id": "ce640406ee709964f7e3099eb729ca19c485bc629cccab549fb7e9b06f70f34e",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 2582,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "NCDC, partners launch research project on mpox",
+      "description": "The Nigeria Centre for Disease Control and Prevention, the National Veterinary Research Institute, the Niger Delta University Teaching Hospital, the Pandemic Sciences Institute at the University of Oxford, the United Kingdom Public Health Rapid Support Team, \u2026",
+      "url": "https://punchng.com/ncdc-partners-launch-research-project-on-mpox-2/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2023-10-16 15:27:11",
+      "content": "The Nigeria Centre for Disease Control and Prevention, the National Veterinary Research Institute, the Niger Delta University Teaching Hospital, the Pandemic Sciences Institute at the University of O\u2026 [+4401 chars]",
+      "retrievedAt": "2023-10-17 19:05:27.015710",
+      "internal_id": "bf3f49e4000ce4b3b5a16dbbf9f5544959894b2aef2e73d7c66fbc96e2c0055c",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 2581,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "NCDC, partners launch research project on mpox",
+      "description": "The Nigeria Centre for Disease Control and Prevention, the National Veterinary Research Institute, the Niger Delta University Teaching Hospital, the Pandemic Sciences Institute at the University of Oxford, the United Kingdom Public Health Rapid Support Team, \u2026",
+      "url": "https://punchng.com/ncdc-partners-launch-research-project-on-mpox/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2023-10-16 14:52:47",
+      "content": "The Nigeria Centre for Disease Control and Prevention, the National Veterinary Research Institute, the Niger Delta University Teaching Hospital, the Pandemic Sciences Institute at the University of O\u2026 [+4382 chars]",
+      "retrievedAt": "2023-10-17 19:05:27.010461",
+      "internal_id": "980fc967ecf9671100ceb2da1b45e5a74c084a8257e94a0ed1a42428b83ed34d",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 2575,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Cumulative dengue cases in Johor for 2023 up by 221%",
+      "description": "JOHOR BARU: Johor recorded an increase in cumulative dengue cases in epidemiology week 41 (ME41) to 8,233 cases compared with 2,648 in the corresponding period in 2022. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/16/cumulative-dengue-cases-in-johor-for-2023-up-by-221",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/16/2339097.jpg",
+      "publishedAt": "2023-10-16 14:51:00",
+      "content": "JOHOR BARU: Johor recorded an increase in cumulative dengue cases in epidemiology week 41 (ME41) to 8,233 cases compared with 2,648 in the corresponding period in 2022. State health and unity commit\u2026 [+2025 chars]",
+      "retrievedAt": "2023-10-17 19:05:25.680273",
+      "internal_id": "bfb9a26edfcd190832ac7c207e340be71ba667df030d02657a7ad4735af47ab5",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 2578,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vietnamplus.vn",
+      "author": "VNA",
+      "title": "Indonesia plans to develop homegrown vaccine against dengue fever",
+      "description": "Indonesia\u2019s National Research and Innovation Agency (BRIN) plans to initiate the development of a homegrown dengue hemorrhagic fever (DBD) vaccine.",
+      "url": "https://en.vietnamplus.vn/indonesia-plans-to-develop-homegrown-vaccine-against-dengue-fever/269719.vnp",
+      "urlToImage": null,
+      "publishedAt": "2023-10-16 14:30:00",
+      "content": "Jakarta (VNA) - Indonesias National Research and Innovation Agency (BRIN) plans to initiate the development of a homegrown dengue hemorrhagic fever (DBD) vaccine.As reported by the national news ag\u2026 [+763 chars]",
+      "retrievedAt": "2023-10-17 19:05:25.730187",
+      "internal_id": "91d3f4d821555b9b8fa25af1f33aefe3b770edb5c48ae99864b91c901458bfa8",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 2579,
+      "query": [
+        "meningitis",
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Eliana L. Parra Barrera, Reales-Gonz\u00e1lez Jhonatan, Daniela Salas, Elizabeth Reyes Santamar\u00eda, Solmara Bello, Ang\u00e9lica Rico, Lissethe Pardo, Edgar Parra, Karina Rodriguez, Zon\u00eda Alarcon, Angela Patricia Guerra Vega, Mayra A. Porras, Sergio Yebrail Gomez-Rangel, Carolina Duarte, Jaime Moreno",
+      "title": "Fatal acute undifferentiated febrile illness among clinically suspected leptospirosis cases in Colombia, 2016\u20132019",
+      "description": "Author summary Leptospirosis is a potentially fatal disease caused by the bacteria Leptospira. Its signs and symptoms typically appear one to two weeks following infection, range from mild (e.g., fever, headache) to severe (e.g., meningitis). Despite knowledg\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011683",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011683.g002&size=inline",
+      "publishedAt": "2023-10-16 14:00:00",
+      "content": "Introduction Febrile illness is among the most common reasons for people seeking healthcare globally [13]. Acute undifferentiated febrile illness (AUFI) can be caused by a wide range of causes, incl\u2026 [+33044 chars]",
+      "retrievedAt": "2023-10-17 19:05:25.988275",
+      "internal_id": "fc187a30565d1e9f4362dd406e0a1e8a58ab2ac1518df01f8766da3a02aa7188",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 2583,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Chathuranga Lakmal Fonseka, Niroshana Jathun Dahanayake, Denagama J. D. Mihiran, Kalani Mithunika Wijesinghe, Lakshani Nawanjana Liyanage, Hesaru S. Wickramasuriya, Gaya Bandara Wijayaratne, Kelum Sanjaya, Champica K. Bodinayake",
+      "title": "Pulmonary haemorrhage as a frequent cause of death among patients with severe complicated Leptospirosis in Southern Sri Lanka",
+      "description": "Author summary Leptospirosis is a tropical infectious disease predominantly affecting the lower socioeconomic groups in Sri Lanka. It is associated with significant morbidity and mortality, especially in an endemic setting. Hence, it is vital to identify clin\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011352",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011352.g001&size=inline",
+      "publishedAt": "2023-10-16 14:00:00",
+      "content": "Abstract Background Leptospirosis is a tropical disease associated with life threatening complications. Identifying clinical and investigation-based parameters that predict mortality and morbidity \u2026 [+46201 chars]",
+      "retrievedAt": "2023-10-17 19:05:27.573958",
+      "internal_id": "5b5cc0183c3142e48cfd146af2a9fc76612e235f42f1aa0f77eb780cb106ba6f",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 2577,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thewire.in",
+      "author": "Simon Bishop",
+      "title": "Why Dengue Outbreaks Are Becoming Larger and Less Predictable",
+      "description": "Although no one is certain about what\u2019s driving the increase and instability of dengue, climate change may be contributing as much of the world is getting both warmer and wetter.",
+      "url": "https://science.thewire.in/health/dengue-outbreaks-larger-less-predictable/",
+      "urlToImage": "https://cdn.thewire.in/wp-content/uploads/2023/10/16121849/Lodge2lit_474360283.jpg",
+      "publishedAt": "2023-10-16 07:11:37",
+      "content": "Representative image of a mosquito net. Photo: Bezons/Wikimedia Commons, CC BY 2.0 Something unusual seems to be happening with dengue, a potentially fatal mosquito-borne viral disease found across\u2026 [+4346 chars]",
+      "retrievedAt": "2023-10-17 19:05:25.716574",
+      "internal_id": "3f7fda44f6cf817ecf71c9ede3c2f47b61a28a6b34dc48ddf3474514a13886af",
+      "publishedAtLabel": "Oct 16"
+    },
     {
       "id": 2573,
       "query": [
@@ -3432,188 +3613,6 @@
       "content": "El dengue se convertir\u00e1 esta d\u00e9cada en una grave amenaza en el sur de Estados Unidos, el sur de Europa y nuevas zonas de \u00c1frica, seg\u00fan el cient\u00edfico jefe de la OMS, ya que las temperaturas m\u00e1s c\u00e1lida\u2026 [+2857 chars]",
       "retrievedAt": "2023-10-07 19:05:10.651689",
       "internal_id": "8218affab8ad14a0bf4c2b7b75088e6d10573a59a02256e7bac9e95622bc0d55",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2362,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Foreign Policy",
-      "author": "Bibek Bhandari",
-      "title": "A Dangerous Disease Spreads in a Hotter Nepal",
-      "description": "Dengue-carrying mosquitoes are spreading to mountains where they were once unknown.",
-      "url": "https://foreignpolicy.com/2023/10/06/nepal-disease-dengue-climate-change-global-warming-himalayas/",
-      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2023/10/NEPAL-DENGUE-CLIMATE-GettyImages-1243420993.png?w=1000",
-      "publishedAt": "2023-10-06 16:34:26",
-      "content": "The district of Dolpa is remote and high, from 1,500 meters (4,921 feet) above sea level up to more than 7,500 meters (24,606 feet). Its Himalayan peaks, the turquoise Phoksundo Lake, and arduous tre\u2026 [+13398 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.647535",
-      "internal_id": "3388c171c9a3f52b99db4ec886c8d68c137315c543b3cefd583e9579aa9c83f7",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2369,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Dengue vai se tornar end\u00eamica na Europa, EUA e \u00c1frica, diz OMS",
-      "description": "Alta de temperaturas do planeta deve favorecer o aparecimento dos mosquitos causadores da doen\u00e7a",
-      "url": "https://saude.ig.com.br/2023-10-06/dengue-endemica-europa-eua-africa-oms.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c4/1z/dr/c41zdr4sztch6kcgg0ab3ryg7.jpg",
-      "publishedAt": "2023-10-06 16:07:36",
-      "content": "Nesta d\u00e9cada, a dengue vai se tornar uma grande amea\u00e7a no Sul dos Estados Unidos, no Sul da Europa e em novas partes da \u00c1frica, alertou o especialista em doen\u00e7as infecciosas da Organiza\u00e7\u00e3o Mundial \u2026 [+1688 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.692997",
-      "internal_id": "7d2c7aa98a122114fcd4fad3d682066dcd396e68fd99f312fbe992526914703d",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2435,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "FDA.gov",
-      "author": "FDA",
-      "title": "Compounding Risk Alerts",
-      "description": "FDA issues compounding risk alerts to communicate information to alert health care professionals to adverse events and outbreaks related to compounded drugs so that practitioners can more effectively protect patients from unsafe, ineffective, and poor quality\u2026",
-      "url": "https://www.fda.gov/drugs/human-drug-compounding/compounding-risk-alerts",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2023-10-06 15:59:58",
-      "content": "Many serious patient illnesses and deaths linked to poor quality compounded drugs have occurred since the 2012 fungal meningitis outbreak. In response, FDA has established an Incidents Program to ide\u2026 [+2670 chars]",
-      "retrievedAt": "2023-10-10 19:05:15.509679",
-      "internal_id": "7d89b9c3040ac3028447a948f27e07960afd12d8f65bbcbf72cdbe44c3ca411f",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2361,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Simon Bishop, Associate Professor, Faculty of Health, Anglia Ruskin University",
-      "title": "Dengue: why is this sometimes fatal disease increasing around the world?",
-      "description": "Something unusual seems to be happening with dengue, a potentially fatal mosquito-borne viral disease.",
-      "url": "https://theconversation.com/dengue-why-is-this-sometimes-fatal-disease-increasing-around-the-world-215008",
-      "urlToImage": "https://images.theconversation.com/files/552523/original/file-20231006-21-efz04.jpg?ixlib=rb-1.1.0&rect=0%2C444%2C4473%2C2236&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2023-10-06 15:47:18",
-      "content": "Something unusual seems to be happening with dengue, a potentially fatal mosquito-borne viral disease found across swathes of tropical Africa, Asia and the Americas. As with most infectious diseases,\u2026 [+4366 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.645467",
-      "internal_id": "c2e8edea9feb874644d3338bd7dd80dc35e27bfb0d6271c616088dbf8990b9a4",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2372,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "GoodHousekeeping.com",
-      "author": "Lisa Mulcahy",
-      "title": "What Parents Should Know About Meningitis B",
-      "description": "What Parents Should Know About Meningitis Bgoodhousekeeping.com",
-      "url": "https://www.goodhousekeeping.com/health/a43659828/a-teen-parents-discussion-guide-about-meningitis/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-171581797-170667a-64419558b2693.jpg?crop=1.00xw:0.752xh;0,0.120xh&resize=1200:*",
-      "publishedAt": "2023-10-06 15:19:22",
-      "content": "Every parents goal is to keep their child safe. As your kids grow older, though, it gets harder to do so when it comes to their health. For one thing, as teens head to college, they are more exposed \u2026 [+4832 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.956344",
-      "internal_id": "fd5b76f746299c3ddc0a7e56f35bc08b3f7632f0f6d16d809301fe4918d24a61",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2389,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "FRANCE 24 English",
-      "author": "FRANCE24",
-      "title": "Dengue will 'take off' in southern Europe, US, Africa this decade, WHO scientist says",
-      "description": "Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief scientist said, as warmer temperatures create the conditions for the mosquitoes carrying the infection to spread. The i\u2026",
-      "url": "https://www.france24.com/en/video/20231006-dengue-will-take-off-in-southern-europe-us-africa-this-decade-who-scientist-says",
-      "urlToImage": "https://s.france24.com/media/display/a972977e-645b-11ee-8ff2-005056bf30b7/w:1280/p:16x9/m:{\"brand\":\"FRANCE24\",\"lang\":\"EN\",\"program\":\"\",\"cartouche\":\"HEALTH\",\"hash\":\"4f6d164546b2897b7a31c0982d964c628b66c25f75b3d18f8fa4fb2f2c83c942\",\"title\":\"Dengue%20will%20'take%20off'%20this%20%250Adecade%2C%20WHO%20scientist%20warns\",\"id\":\"5535ce5c-cd7e-11ed-854c-005056bf30b7\"}/EN_20231006_171041_171233_CS.jpg",
-      "publishedAt": "2023-10-06 15:19:03",
-      "content": "Issued on: 06/10/2023 - 17:19Modified: 06/10/2023 - 17:20 Dengue fever will become a major threat in the southern United States, southern Europe and new parts of Africa this decade, the WHO's chief \u2026 [+259 chars]",
-      "retrievedAt": "2023-10-08 07:05:24.258378",
-      "internal_id": "0f17496a2b6afa905aaf614b364c052ada462dac07daed40c0072b9bd2111f33",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2374,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "How male mosquitoes compensate for having only one X chromosome",
-      "description": "Researchers have discovered the master regulator responsible for balancing the expression of X chromosome genes between males and females in the malaria mosquito. This discovery helps scientists better understand the evolution of the epigenetic mechanisms res\u2026",
-      "url": "https://www.sciencedaily.com/releases/2023/10/231006104515.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-10-06 14:45:15",
-      "content": "The research group of Dr. Claudia Keller Valsecchi at the Institute of Molecular Biology (IMB) in Mainz and their collaborators have discovered the master regulator responsible for balancing the expr\u2026 [+3899 chars]",
-      "retrievedAt": "2023-10-07 19:05:11.431733",
-      "internal_id": "7540a7b9b98f9e3d40ac4dfaf42de7cda1a049c4e57df7bac9343c9c4de07bc6",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2371,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Cshlp.org",
-      "author": "Tsujimoto, H., Adelman, Z. N.",
-      "title": "An 11-point time course midgut transcriptome across 72 h after bloodfeeding provides detailed temporal resolution of transcript expression in the arbovirus vector, Aedes aegypti [RESOURCES]",
-      "description": "As the major vector for dengue, Zika, yellow fever, and chikungunya viruses, the mosquito Aedes aegypti is one of the most important insects in public health. These viruses are transmitted by bloodfeeding, which is also necessary for the reproduction of the m\u2026",
-      "url": "https://genome.cshlp.org/content/early/2023/10/06/gr.277808.123.short?rss=1",
-      "urlToImage": null,
-      "publishedAt": "2023-10-06 14:40:38",
-      "content": "As the major vector for dengue, Zika, yellow fever, and chikungunya viruses, the mosquito Aedes aegypti is one of the most important insects in public health. These viruses are transmitted by bloodfe\u2026 [+1694 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.699279",
-      "internal_id": "310310fd031ba662794887ec1d78dbf168c0910490776d0281a092398b7e02f3",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2365,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "S\u00fcddeutsche Zeitung",
-      "author": "Text: Christina Berndt, Infografik: Lina Moreno und Sead Mujic",
-      "title": "Klimawandel und Gesundheit: Leben mit der Tigerm\u00fccke",
-      "description": "In Paris ziehen Insektenbek\u00e4mpfer mit Gasmasken durch die Stra\u00dfen, am Gardasee sind 14 Menschen erkrankt. Wie gef\u00e4hrlich ist das Dengue-Fieber f\u00fcr Europa?",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/wissen/dengue-fieber-tigermuecke-gardasee-e619137/",
-      "urlToImage": "https://www.sueddeutsche.de/projekte/artikel/wissen/dengue-fieber-tigermuecke-gardasee-e619137/62679b1418467cea6fb84867c863ea1c5fd387b652e84e7f7270e919b76e1d26_w2400_h1256_r75,0,1920,1005_oszplus_q70.png",
-      "publishedAt": "2023-10-06 14:18:13",
-      "content": "In Paris ziehen Insektenbek\u00e4mpfer mit Gasmasken durch die Stra\u00dfen, am Gardasee sind 14 Menschen erkrankt. Wie gef\u00e4hrlich ist das Dengue-Fieber f\u00fcr Europa?",
-      "retrievedAt": "2023-10-07 19:05:10.653745",
-      "internal_id": "3e16957b7269d4350bcc11ac62cfe3328a7cfb0a2d4b2cb3ec9fa6efaf18bb64",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2370,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reuters",
-      "title": "Dengue vai disparar no sul da Europa, EUA e \u00c1frica nesta d\u00e9cada, diz OMS",
-      "description": "A dengue se tornar\u00e1 uma grande amea\u00e7a no sul dos Estados Unidos, no sul da Europa e em novas ...",
-      "url": "https://www.terra.com.br/noticias/mundo/dengue-vai-disparar-no-sul-da-europa-eua-e-africa-nesta-decada-diz-oms,ea012bbf40b3f973bdd9a92b32fffe62x2enyb2n.html",
-      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2023-10-06 14:16:56",
-      "content": "A dengue se tornar\u00e1 uma grande amea\u00e7a no sul dos Estados Unidos, no sul da Europa e em novas partes da \u00c1frica nesta d\u00e9cada, disse um especialista da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS), uma vez que as\u2026 [+2667 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.697049",
-      "internal_id": "9031daee52235bbb211b7bf4d1e0ab900121b1030af5ce628a55512e8bc96791",
       "publishedAtLabel": "Oct 6"
     }
   ]
