@@ -1,8 +1,26 @@
 {
-  "last_updated": "2023-10-16 19:05",
+  "last_updated": "2023-10-17 07:06",
   "count_articles_total": 300,
-  "count_articles_new": 2,
+  "count_articles_new": 1,
   "articles": [
+    {
+      "id": 2573,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Treatment of Mpox with Suspected Tecovirimat Resistance in Immunocompromised Patient, United States, 2022",
+      "description": "Mpox with Suspected Tecovirimat Resistance",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/12/23-0849_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-10-16 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Tecovirimat is an antivira\u2026 [+8964 chars]",
+      "retrievedAt": "2023-10-17 07:06:00.917757",
+      "internal_id": "731d70f2cef28f7bff656203eb1dc57d601ee51e2bad014013c21f8d2298c35f",
+      "publishedAtLabel": "Oct 16"
+    },
     {
       "id": 2571,
       "query": [
@@ -3596,24 +3614,6 @@
       "content": "A dengue se tornar\u00e1 uma grande amea\u00e7a no sul dos Estados Unidos, no sul da Europa e em novas partes da \u00c1frica nesta d\u00e9cada, disse um especialista da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS), uma vez que as\u2026 [+2667 chars]",
       "retrievedAt": "2023-10-07 19:05:10.697049",
       "internal_id": "9031daee52235bbb211b7bf4d1e0ab900121b1030af5ce628a55512e8bc96791",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2393,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Oleksiy Tsebriy, Andrii Khomiak, Celia Miguel-Blanco, Penny C. Sparkes, Maurizio Gioli, Marco Santelli, Edgar Whitley, Francisco-Javier Gamo, Michael J. Delves",
-      "title": "Machine learning-based phenotypic imaging to characterise the targetable biology of Plasmodium falciparum male gametocytes for the development of transmission-blocking antimalarials",
-      "description": "Author summary Interventions that prevent malaria parasite Plasmodium falciparum from transmitting from humans to mosquitoes are highly desirable to prevent both the spread of malaria and crucially the spread of drug resistance. Transmission is caused by the \u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011711",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011711.g008&size=inline",
-      "publishedAt": "2023-10-06 14:00:00",
-      "content": "1. Identification of molecules targeting the functional viability of male and female P. falciparum gametocytes A subset of 564 molecules from the Tres Cantos Antimalarial Set (TCAMS) with establishe\u2026 [+29407 chars]",
-      "retrievedAt": "2023-10-08 07:05:25.713089",
-      "internal_id": "ef78116242b22d6148619d5f290d88686ba80cf270c1e3e061649516a89d0b5d",
       "publishedAtLabel": "Oct 6"
     }
   ]
