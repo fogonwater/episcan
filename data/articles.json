@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-10-17 19:05",
+  "last_updated": "2023-10-18 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 2584,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Health officials warn against rare rabies case in Omaha - WOWT",
+      "description": "Health officials warn against rare rabies case in OmahaWOWT Raccoon-based rabies found in metroKETV NewsWatch 7 Kitten with unusual rabies strain sparks unusual response in Douglas County to prevent 'snowball'Nebraska Examiner Raccoons to be trapped, vaccinat\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172031685",
+      "urlToImage": null,
+      "publishedAt": "2023-10-17 03:52:12",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-18 07:05:35.442805",
+      "internal_id": "d9591717563982381f13be9c4ddb1af3ba530730ab6a76c0cd2a5bb178784026",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 2585,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "CDC, USDA to start trapping, testing and vaccinating wildlife in Omaha area after stray kitten found with rabies - KETV Omaha",
+      "description": "CDC, USDA to start trapping, testing and vaccinating wildlife in Omaha area after stray kitten found with rabiesKETV Omaha Kitten with unusual rabies strain sparks unusual response in Douglas County to prevent 'snowball'Nebraska Examiner Raccoon-based rabies \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172030813",
+      "urlToImage": null,
+      "publishedAt": "2023-10-16 23:52:38",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-18 07:05:35.452857",
+      "internal_id": "3e99e4f63b5e213b41b7350aee67a67969415fda263e7b907fd3cef7597299cd",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 2586,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WOWT",
+      "author": "Bella Caracta",
+      "title": "National, local health officials warn against rare rabies case in Omaha",
+      "description": "National, local health officials warn against rare rabies case in Omahawowt.com",
+      "url": "https://www.wowt.com/2023/10/16/national-local-health-officials-warn-against-rare-rabies-case-omaha/",
+      "urlToImage": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/whXxtJRNIWzzuzDTEj7CbcjPm6Y=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/XQRPXEVXBRGHZBKEUQO4NQZNDM.jpg",
+      "publishedAt": "2023-10-16 23:07:57",
+      "content": "OMAHA, Neb. (WOWT) - A dead kitten and the instincts of a local veterinarian sparked a multi-agency effort to stop the spread of a new rabies variant in the Omaha metro. That local veterinarian chos\u2026 [+1632 chars]",
+      "retrievedAt": "2023-10-18 07:05:35.456920",
+      "internal_id": "a09449ccd7f146143cbc7c1cb47711179bdcb66057b1467bdc078304d7809f4b",
+      "publishedAtLabel": "Oct 16"
+    },
     {
       "id": 2580,
       "query": [
@@ -3559,60 +3613,6 @@
       "content": "10 inspiring Sanskrit shlokas for your kid's room",
       "retrievedAt": "2023-10-07 19:05:09.728258",
       "internal_id": "1ff691902e6f06ee3ab382867137a0b7ca25a4296d4726c6590711f8eaf78b8f",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2373,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Ed Cara",
-      "title": "La malaria llega a Arkansas: el estado informa el primer caso adquirido localmente",
-      "description": "Una de las enfermedades infecciosas m\u00e1s peligrosas del mundo est\u00e1 invadiendo m\u00e1s los EE. UU. Esta semana, funcionarios de salud en Arkansas informaron sobre un caso adquirido localmente de malaria, la primera documentada en el estado. Al menos otros tres esta\u2026",
-      "url": "https://es.gizmodo.com/malaria-arkansas-casos-adquiridos-localmente-mosquitos-1850907141",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6dfe2e21fa5ce9311ca3b8adc02ba04.jpg",
-      "publishedAt": "2023-10-06 17:07:25",
-      "content": "Una de las enfermedades infecciosas m\u00e1s peligrosas del mundo est\u00e1 invadiendo m\u00e1s los EE. UU. Esta semana, funcionarios de salud en Arkansas informaron sobre un caso adquirido localmente de malaria, l\u2026 [+3202 chars]",
-      "retrievedAt": "2023-10-07 19:05:11.421618",
-      "internal_id": "92c251e87af5025eab7ee1b353d908a7e424c8f7be18748ceddfa7bf83b6ee9d",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2375,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Ed Cara",
-      "title": "Malaria Comes to Arkansas: State Reports First Locally Acquired Case",
-      "description": "One of the world\u2019s most dangerous infectious diseases is encroaching further into the U.S. This week, health officials in Arkansas reported a locally acquired case of malaria, the first ever documented in the state. At least three other states have reported l\u2026",
-      "url": "https://gizmodo.com/malaria-arkansas-locally-acquired-case-mosquitoes-1850907092",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6dfe2e21fa5ce9311ca3b8adc02ba04.jpg",
-      "publishedAt": "2023-10-06 17:07:25",
-      "content": "One of the worlds most dangerous infectious diseases is encroaching further into the U.S. This week, health officials in Arkansas reported a locally acquired case of malaria, the first ever documente\u2026 [+2648 chars]",
-      "retrievedAt": "2023-10-07 19:05:11.434150",
-      "internal_id": "f31fc9acac0d156c2ca10ddadfaea92f48abcfc745dfbf957b5428392a7f5866",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2364,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Forbes.com.mx",
-      "author": "Forbes Staff",
-      "title": "El dengue se propagar\u00e1 en el sur de Europa, EU y \u00c1frica esta d\u00e9cada, advierte OMS",
-      "description": "Forbes M\u00e9xico. El dengue se propagar\u00e1 en el sur de Europa, EU y \u00c1frica esta d\u00e9cada, advierte OMS Seg\u00fan expertos, el aumento de las temperaturas derivado del cambio clim\u00e1tico, propiciar\u00e1n el desarrollo y propagaci\u00f3n del dengue. El dengue se propagar\u00e1 en el \u2026",
-      "url": "https://www.forbes.com.mx/el-dengue-se-propagara-en-el-sur-de-europa-eu-y-africa-esta-decada-advierte-oms/",
-      "urlToImage": "https://cdn.forbes.com.mx/2021/05/dengue-mosquito-CDC-scaled.jpg",
-      "publishedAt": "2023-10-06 16:57:07",
-      "content": "El dengue se convertir\u00e1 esta d\u00e9cada en una grave amenaza en el sur de Estados Unidos, el sur de Europa y nuevas zonas de \u00c1frica, seg\u00fan el cient\u00edfico jefe de la OMS, ya que las temperaturas m\u00e1s c\u00e1lida\u2026 [+2857 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.651689",
-      "internal_id": "8218affab8ad14a0bf4c2b7b75088e6d10573a59a02256e7bac9e95622bc0d55",
       "publishedAtLabel": "Oct 6"
     }
   ]
