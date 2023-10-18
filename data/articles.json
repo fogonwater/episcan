@@ -1,8 +1,134 @@
 {
-  "last_updated": "2023-10-18 07:05",
+  "last_updated": "2023-10-18 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 3,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 2592,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N CARTAGENA",
+      "title": "As\u00ed avanza la campa\u00f1a de movilizaci\u00f3n social contra el dengue en Cartagena",
+      "description": "El Departamento Administrativo Distrital de Salud (Dadis), con apoyo del IDER, inici\u00f3 el pasado domingo 15 de octubre una campa\u00f1a de movilizaci\u00f3n social en algunos sectores de la ciudad, con el fin de promover las acciones preventivas en cuanto a la lucha con\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/asi-avanza-la-campana-de-movilizacion-social-contra-el-dengue-en-cartagena-ME9262860",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/915x687/88c0/800d686/none/13704/AQEU/dengue_8732481_20231017130020.jpg",
+      "publishedAt": "2023-10-17 18:07:04",
+      "content": "El Departamento Administrativo Distrital de Salud (Dadis), con apoyo del IDER, inici\u00f3 el pasado domingo 15 de octubre una campa\u00f1a de movilizaci\u00f3n social en algunos sectores de la ciudad, con el fin d\u2026 [+1410 chars]",
+      "retrievedAt": "2023-10-18 19:05:41.088051",
+      "internal_id": "9f9d51be084efa6c67676ce0fd241a7006e17e03dfd218259895c40e750d3759",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 2589,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Dengue : un cas autochtone recens\u00e9 pour la premi\u00e8re fois en Ile-de-France",
+      "description": "La personne infect\u00e9e se trouve \u00e0 Limeil-Br\u00e9vannes (Val-de-Marne), \u00e0 une quinzaine de kilom\u00e8tres au sud-est de Paris. Dans un communiqu\u00e9, l\u2019agence r\u00e9gionale de sant\u00e9 a confirm\u00e9 mardi qu\u2019il s\u2019agissait du premier cas francilien.",
+      "url": "https://www.lemonde.fr/planete/article/2023/10/17/dengue-un-cas-autochtone-recense-pour-la-premiere-fois-en-ile-de-france_6195069_3244.html",
+      "urlToImage": "https://img.lemde.fr/2023/06/14/715/0/2362/1574/1440/960/60/0/d980a77_1686755740199-mg-6003.jpg",
+      "publishedAt": "2023-10-17 18:05:21",
+      "content": "Il sagit dune premi\u00e8re en France m\u00e9tropolitaine sous pareille latitude : un cas autochtone de dengue, cest-\u00e0-dire probablement transmis sur place par un moustique, a \u00e9t\u00e9 recens\u00e9 en Ile-de-France, ont\u2026 [+2024 chars]",
+      "retrievedAt": "2023-10-18 19:05:41.065266",
+      "internal_id": "02e8a40d2de058760a173569dcb8a41a38f8e0adc310d55f08a9808d013d23b2",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 2588,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": "Emmanuelle Hunzinger, AFP",
+      "title": "Moustique tigre : un cas de dengue \"autochtone\" d\u00e9t\u00e9ct\u00e9 dans le Val-de-Marne",
+      "description": "Un cas \"autochtone\" de dengue, transmis sur place par un moustique, a \u00e9t\u00e9 recens\u00e9 pour la premi\u00e8re fois \u00e0 Limeil-Br\u00e9vannes dans le Val-de-Marne. Une premi\u00e8re pour une r\u00e9gion aussi au nord selon les autorit\u00e9s sanitaires.",
+      "url": "https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/moustique-tigre-un-cas-de-dengue-autochtone-detecte-dans-le-val-de-marne-2858057.html",
+      "urlToImage": "https://france3-regions.francetvinfo.fr/image/IEg7mPn4DfgrqIWXdusAx7Vt9-o/930x620/regions/2023/06/21/649317d5bc5d7_couv-pic.jpg",
+      "publishedAt": "2023-10-17 17:10:06",
+      "content": "Un cas \"autochtone\" de dengue, transmis sur place par un moustique, a \u00e9t\u00e9 recens\u00e9 pour la premi\u00e8re fois \u00e0 Limeil-Br\u00e9vannes dans le Val-de-Marne. Une premi\u00e8re pour une r\u00e9gion aussi au nord selon les a\u2026 [+1608 chars]",
+      "retrievedAt": "2023-10-18 19:05:41.059037",
+      "internal_id": "82910b91f68f469379fff4cf3927c8df685902c829c59d0ab1e251150eb13e19",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 2587,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Johor fights dengue with Wolbachia mosquitoes",
+      "description": "JOHOR BARU: Adult mosquitoes infected with the Wolbachia bacteria have been released as a control measure following the alarming increase in dengue fever cases in Johor, says health and unity committee chairman Ling Tian Soon. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/18/johor-fights-dengue-with-wolbachia-mosquitoes",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-10-17 16:00:00",
+      "content": "JOHOR BARU: Adult mosquitoes infected with the Wolbachia bacteria have been released as a control measure following the alarming increase in dengue fever cases in Johor, says health and unity committ\u2026 [+770 chars]",
+      "retrievedAt": "2023-10-18 19:05:41.042804",
+      "internal_id": "3cd69dbe1eae0fda52194c05e508932fdb19c92d0ef7799062061e65c8339496",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 2591,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Keenan Elliott, Paola A. Caicedo, Norbert H. Haunerland, Carl Lowenberger",
+      "title": "Profiling lipidomic changes in dengue-resistant and dengue-susceptible strains of Colombian Aedes aegypti after dengue virus challenge",
+      "description": "Author summary Dengue virus (DENV) is a mosquito-transmitted pathogen that can lead to severe complications for infected humans, including hemorrhagic fever or death. Approximately 390 million people are infected with DENV yearly, and reported cases are risin\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011676",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011676.g007&size=inline",
+      "publishedAt": "2023-10-17 14:00:00",
+      "content": "Citation: Elliott K, Caicedo PA, Haunerland NH, Lowenberger C (2023) Profiling lipidomic changes in dengue-resistant and dengue-susceptible strains of Colombian Aedes aegypti after dengue virus chall\u2026 [+58452 chars]",
+      "retrievedAt": "2023-10-18 19:05:41.081375",
+      "internal_id": "5102372de724e22d3a2b391d3db69d9f96735ecc7d36967b57d5811efa244d60",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 2590,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "El repunte de dengue este a\u00f1o responde a los ciclos de la enfermedad, precisa la Ssa",
+      "description": "La Secretar\u00eda de Salud (Ssa) prev\u00e9 que la cifra de enfermos de dengue supere a los registrados en 2019, cuando se confirmaron m\u00e1s de 41 mil casos; hasta el pasado 7 de octubre iban 30 mil 320. El subsecretario de Prevenci\u00f3n y Promoci\u00f3n de la Salud, Ruy L\u00f3pez \u2026",
+      "url": "https://www.jornada.com.mx/2023/10/17/politica/022n2pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-10-17 08:50:36",
+      "content": "Peri\u00f3dico La JornadaMartes 17 de octubre de 2023, p. 22 La Secretar\u00eda de Salud (Ssa) prev\u00e9 que la cifra de enfermos de dengue supere a los registrados en 2019, cuando se confirmaron m\u00e1s de 41 mil ca\u2026 [+1632 chars]",
+      "retrievedAt": "2023-10-18 19:05:41.074143",
+      "internal_id": "2931310cf8fe8c82b81dc06c2b7ca949c38f937324b712b87e9b8d908e8660c3",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 2594,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Andi Firdaus, Resinta Sulistiyandari",
+      "title": "Monkeypox case in Jakarta comes from local transmission: Ministry",
+      "description": "The Indonesian Health Ministry reported that one case of monkeypox, or Mpox, found in Jakarta was the result of local transmission, as the sufferer had no history of overseas travel. \"The patient has no history of foreign ...",
+      "url": "https://en.antaranews.com/news/296403/monkeypox-case-in-jakarta-comes-from-local-transmission-ministry",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/17/Screenshot_20231017_125939_Gallery.jpg",
+      "publishedAt": "2023-10-17 08:32:18",
+      "content": "Jakarta (ANTARA) - The Indonesian Health Ministry reported that one case of monkeypox, or Mpox, found in Jakarta was the result of local transmission, as the sufferer had no history of overseas trave\u2026 [+1849 chars]",
+      "retrievedAt": "2023-10-18 19:05:42.916655",
+      "internal_id": "7dbef76686da5b9160fde4777dcbab77e197100b52ee92ad3c16c7338aa32e94",
+      "publishedAtLabel": "Oct 17"
+    },
     {
       "id": 2584,
       "query": [
@@ -218,6 +344,24 @@
       "content": "Abstract Background Leptospirosis is a tropical disease associated with life threatening complications. Identifying clinical and investigation-based parameters that predict mortality and morbidity \u2026 [+46201 chars]",
       "retrievedAt": "2023-10-17 19:05:27.573958",
       "internal_id": "5b5cc0183c3142e48cfd146af2a9fc76612e235f42f1aa0f77eb780cb106ba6f",
+      "publishedAtLabel": "Oct 16"
+    },
+    {
+      "id": 2593,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Malaria-Forschung: Virchow-Preis f\u00fcr Immunologin aus Kamerun",
+      "description": "Das zweite Jahr in Folge vergibt die Virchow Stiftung einen Preis f\u00fcr besondere Leistungen in der Gesundheitsforschung. Die Jury ehrt die diesj\u00e4hrige Preistr\u00e4gerin f\u00fcr ihren Kampf gegen Malaria - und noch aus einem anderen Grund.",
+      "url": "https://www.stern.de/panorama/wissen/malaria-forschung--virchow-preis-fuer-immunologin-aus-kamerun-33922754.html",
+      "urlToImage": "https://image.stern.de/33922756/t/Tp/v1/w1440/r1.7778/-/18--urnnewsmldpacom2009010123101699581137v2w800h600l0t118r1956b1509jpeg---e572998950d8295a.jpg",
+      "publishedAt": "2023-10-16 09:06:28",
+      "content": "Das zweite Jahr in Folge vergibt die Virchow Stiftung einen Preis f\u00fcr besondere Leistungen in der Gesundheitsforschung. Die Jury ehrt die diesj\u00e4hrige Preistr\u00e4gerin f\u00fcr ihren Kampf gegen Malaria - und\u2026 [+1748 chars]",
+      "retrievedAt": "2023-10-18 19:05:41.741134",
+      "internal_id": "1332793873e24261b6196b9ed3443c490a6ebd57eab19440d41676bb2a22f50e",
       "publishedAtLabel": "Oct 16"
     },
     {
@@ -3469,150 +3613,6 @@
       "content": "A seguito dell'avvenuta comunicazione di un caso accertato di Dengue, infezione contratta da un cittadino italiano rientrato nella sua abitazione di Via Flaminia da un viaggio in Centro America, \u2026 [+2048 chars]",
       "retrievedAt": "2023-10-08 07:05:24.253904",
       "internal_id": "4a3e347cb83d646a196c5357c5c7068bf80331198f7ccad19f80a5c9205325e4",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2402,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tan Jingjing",
-      "title": "Roundup: U.S. records more homegrown malaria cases for first time in 20 years",
-      "description": "by Xinhua writer Tan Jingjing Read full story",
-      "url": "https://www.thestar.com.my/news/world/2023/10/07/roundup-us-records-more-homegrown-malaria-cases-for-first-time-in-20-years",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-10-06 20:46:00",
-      "content": "by Xinhua writer Tan Jingjing LOS ANGELES, Oct. 6 (Xinhua) -- The United States has identified at least 10 locally acquired malaria cases, the first time in 20 years since the highly infectious dis\u2026 [+2454 chars]",
-      "retrievedAt": "2023-10-09 07:05:48.548879",
-      "internal_id": "b926df8bdc4156278c08563eb90705f712f0b4c33febd42d46929c8124a05721",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2379,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Times of Israel",
-      "author": null,
-      "title": "Health authorities issue warning after 4 toddlers in Tel Aviv infected with measles",
-      "description": "Children from same daycare all in good condition; initial probe finds patient was on recent flights between Israel and Budapest; pediatricians urge parents to check vaccinations",
-      "url": "https://www.timesofisrael.com/health-authorities-issue-warning-after-4-toddlers-in-tel-aviv-infected-with-measles/",
-      "urlToImage": "https://static.timesofisrael.com/www/uploads/2019/09/AP_19246191808016-1024x640.jpg",
-      "publishedAt": "2023-10-06 20:26:45",
-      "content": "Four toddlers in Tel Aviv have been infected with measles, the Health Ministry said Friday, raising fears of a wider outbreak. The children are around 2 years old and attend the same daycare center.\u2026 [+2030 chars]",
-      "retrievedAt": "2023-10-08 07:05:23.722165",
-      "internal_id": "e7cdecaecb61f1677785eff92b9e9c5a2168213abebce4b990ab59b680fa3005",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2380,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "eEranLahav",
-      "title": "4 Israeli toddlers diagnosed with measles",
-      "description": "JERUSALEM, Oct. 6 (Xinhua) -- Four Israeli toddlers, all about two years old, have been diagnosed with measles, the Israeli Ministry of Health said in a statement on Friday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2023/10/07/4-israeli-toddlers-diagnosed-with-measles",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-10-06 19:43:00",
-      "content": "JERUSALEM, Oct. 6 (Xinhua) -- Four Israeli toddlers, all about two years old, have been diagnosed with measles, the Israeli Ministry of Health said in a statement on Friday. The ministry noted that\u2026 [+645 chars]",
-      "retrievedAt": "2023-10-08 07:05:23.731073",
-      "internal_id": "ec2325e91ea6fdade6198072683be8936ebae4de1826ee958a3616f204abdc5e",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2359,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Alessandro Di Lorenzo",
-      "title": "Aquecimento global provocar\u00e1 disparada dos casos de dengue, alerta OMS",
-      "description": "Aumento das temperaturas tornar\u00e1 a dengue end\u00eamica em partes dos EUA, Europa e \u00c1frica at\u00e9 o final desta d\u00e9cada O post Aquecimento global provocar\u00e1 disparada dos casos de dengue, alerta OMS apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/10/06/medicina-e-saude/aquecimento-global-provocara-disparada-dos-casos-de-dengue-alerta-oms/",
-      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue.jpg",
-      "publishedAt": "2023-10-06 18:36:30",
-      "content": "A dengue j\u00c3\u00a1 \u00c3\u00a9 um problema de sa\u00c3\u00bade p\u00c3\u00bablica em diversas regi\u00c3\u00b5es da Terra, inclusive no Brasil. Mas o aumento das temperaturas globais, provocado pela crise clim\u00c3\u00a1tica, far\u00c3\u00a1 com que a amea\u00c3\u00a7a che\u2026 [+2786 chars]",
-      "retrievedAt": "2023-10-07 19:05:10.630374",
-      "internal_id": "59b7ceb975af14f07c06078c0e9eebb0dfa8310c9662f8a6da32b8fe76a1cb80",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2376,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tan Jingjing",
-      "title": "U.S. Arkansas reports first locally acquired malaria case",
-      "description": "LOS ANGELES, Oct. 6 (Xinhua) -- The U.S. state of Arkansas has identified its first locally acquired malaria case, the fourth state in the country that has reported locally acquired cases of one of the world's most dangerous infectious diseases. Read full sto\u2026",
-      "url": "https://www.thestar.com.my/news/world/2023/10/07/us-arkansas-reports-first-locally-acquired-malaria-case",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-10-06 18:35:00",
-      "content": "LOS ANGELES, Oct. 6 (Xinhua) -- The U.S. state of Arkansas has identified its first locally acquired malaria case, the fourth state in the country that has reported locally acquired cases of one of t\u2026 [+1278 chars]",
-      "retrievedAt": "2023-10-07 19:05:11.462157",
-      "internal_id": "f976dd45a900d788a62816c0adc6b74bb595d6b48ba2143f0378920bfc59a26f",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2421,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "India.com",
-      "author": "Zee Bihar-jharkhand Web Team",
-      "title": "Dengue In Patna: \u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0921\u0902\u0915 \u0928\u0947 \u0915\u093f\u092f\u093e \u092a\u0930\u0947\u0936\u093e\u0928, \u092a\u091f\u0928\u093e \u092e\u0947\u0902 \u092e\u093f\u0932\u0947 100 \u0938\u0947 \u0905\u0927\u093f\u0915 \u092e\u0930\u0940\u091c",
-      "description": "Bihar Dengue: \u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0921\u0902\u0915 \u0928\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u092a\u0930\u0947\u0936\u093e\u0928 \u0915\u093f\u092f\u093e \u0939\u0948. \u092a\u091f\u0928\u093e \u092e\u0947\u0902 \u0926\u094b \u0926\u093f\u0928\u094b\u0902 \u0915\u0947 \u092c\u093e\u0926 \u092b\u093f\u0930 100 \u0938\u0947 \u0905\u0927\u093f\u0915 \u092e\u0930\u0940\u091c \u092a\u093e\u090f \u0917\u090f \u0939\u0948.",
-      "url": "https://zeenews.india.com/hindi/india/bihar-jharkhand/health/dengue-sting-troubled-bihar-more-than-100-patients-found-in-patna/1903672",
-      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/10/06/2287159-dengue.png",
-      "publishedAt": "2023-10-06 18:27:18",
-      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+357 chars]",
-      "retrievedAt": "2023-10-10 07:05:40.151400",
-      "internal_id": "6262060f3092f819e0637850a1db8eac7efc6017149fb68eb7050b259429a8d6",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2387,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vozdeamerica.com",
-      "author": "vozdeamerica@voanews.com (Reuters)",
-      "title": "El dengue se propagar\u00e1 en el sur de Europa, EEUU y \u00c1frica esta d\u00e9cada, dice cient\u00edfico de la OMS",
-      "description": "El m\u00e1s alto directivo cient\u00edfico de la Organizaci\u00f3n Mundial de la Salud (OMS) vaticin\u00f3 que el dengue puede convertirse en una amenaza mort\u00edfera en la d\u00e9cada actual, debido a las condiciones ambientales que se viven en zonas de EEUU, \u00c1frica y Europa.",
-      "url": "https://www.vozdeamerica.com/a/dengue-propaga-europa-eeuu-africa-/7300027.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-f13d-08dbc6933b74_w1200_r1.jpg",
-      "publishedAt": "2023-10-06 18:25:05",
-      "content": "LONDRES El dengue se convertir\u00e1 esta d\u00e9cada en una grave amenaza en el sur de Estados Unidos, el sur de Europa y nuevas zonas de \u00c1frica, seg\u00fan el cient\u00edfico jefe de la OMS, ya que las temperaturas m\u2026 [+2837 chars]",
-      "retrievedAt": "2023-10-08 07:05:24.248191",
-      "internal_id": "21a88e836b91c5e0416d33f6719549cc1aebcec11a96b0dc949392f3292e19ce",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2356,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Mini Thomas",
-      "title": "Karnataka govt to provide free anti-rabies vaccine to animal bite victims",
-      "description": "The Karnataka government has decided to provide free anti-rabies vaccine (ARV) and Rabies Immunoglobulin (RIG) to people bitten by animals.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-to-provide-free-anti-rabies-vaccine-to-animal-bite-victims/articleshow/104222748.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104222782,width-1070,height-580,imgsize-1159390,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-06 17:49:17",
-      "content": "10 inspiring Sanskrit shlokas for your kid's room",
-      "retrievedAt": "2023-10-07 19:05:09.728258",
-      "internal_id": "1ff691902e6f06ee3ab382867137a0b7ca25a4296d4726c6590711f8eaf78b8f",
       "publishedAtLabel": "Oct 6"
     }
   ]
