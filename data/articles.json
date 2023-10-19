@@ -1,8 +1,242 @@
 {
-  "last_updated": "2023-10-19 07:05",
+  "last_updated": "2023-10-19 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 2601,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "https://www.forbes.com/",
+      "title": "Kitten With \u2018New\u2019 Rabies Strain Triggers Health Push In Nebraska To Stop Deadly Virus Gaining A Foothold",
+      "description": "Health and wildlife officials in Nebraska are scrambling to stave off an outbreak of rabies after a kitten was found to be infected with an unexpected strain of the killer virus.",
+      "url": "https://www.forbes.com/video/6339404603112/kitten-with-new-rabies-strain-triggers-health-push-in-nebraska-to-stop-deadly-virus-gaining-a-foothold/",
+      "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2023/10/18/6339404603112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
+      "publishedAt": "2023-10-18 18:36:44",
+      "content": "Health and wildlife officials in Nebraska are scrambling to stave off an outbreak of rabies after a kitten was found to be infected with an unexpected strain of the killer virus.",
+      "retrievedAt": "2023-10-19 19:05:23.654446",
+      "internal_id": "a2d6d2ed43cf836947ac4413a934901ae1cdb341b0555367dff9cff3143123c0",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2611,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "Dengue death toll crosses 1200-mark in Bangladesh",
+      "description": "Bangladesh exceeded 1,200 dengue deaths as 16 new deaths were reported in the past 24 hours till 8am Wednesday, while 2,495 were admitted to different hospitals during the same period. On September 20, Bangladesh witnessed 21 dengue deaths, the highest in a s\u2026",
+      "url": "https://sylhetmirror.com/2023/10/18/dengue-death-toll-crosses-1200-mark-in-bangladesh/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/10/rtrt.jpg",
+      "publishedAt": "2023-10-18 17:10:23",
+      "content": "Bangladesh exceeded 1,200 dengue deaths as 16 new deaths were reported in the past 24 hours till 8am Wednesday, while 2,495 were admitted to different hospitals during the same period. On September \u2026 [+3581 chars]",
+      "retrievedAt": "2023-10-19 19:05:24.494665",
+      "internal_id": "672e7cb0e2390a76b197e811fdb8bed9aa897718d926122040e12abf9594d183",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2607,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Charlotte Van Breusegem",
+      "title": "Moustique tigre : un cas de dengue autochtone d\u00e9tect\u00e9 en r\u00e9gion parisienne pour la premi\u00e8re fois",
+      "description": "Un tout premier cas de dengue autochtone a \u00e9t\u00e9 recens\u00e9 \u00e0 une quinzaine de kilom\u00e8tres au sud-est de Paris. Dans un communiqu\u00e9, l\u2019agence r\u00e9gionale de sant\u00e9 a confirm\u00e9 mardi qu\u2019il s\u2019agissait du premier cas francilien.",
+      "url": "https://www.lavenir.net/actu/2023/10/18/moustique-tigre-un-cas-de-dengue-autochtone-detecte-en-region-parisienne-pour-la-premiere-fois-KLX32ZGMYJHGTC7RSD4W7TJUXI/",
+      "urlToImage": "https://www.lavenir.net/resizer/3Mqwjeeytw13s5zRfNvJ87xHoJA=/1200x630/filters:format(jpeg):focal(1511x1009:1521x999):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/UFVD77VYQZHRHBUO5OR7E7I6TY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/T3NT2CDWCNH4TIXW7NYVESPAAE.jpg",
+      "publishedAt": "2023-10-18 16:52:07",
+      "content": "Le moustique tigre sinstalle en Europe: faut-il avoir peur de la dengue?Les Antilles sont en phase \u00e9pid\u00e9mique depuis la mi-ao\u00fbt. Entre le 28 ao\u00fbt et le 3 septembre, l'agence Sant\u00e9 publique France a e\u2026 [+1280 chars]",
+      "retrievedAt": "2023-10-19 19:05:24.470284",
+      "internal_id": "03860bc4ef797d959757d38b552ae859fcfd61d3a9770880153021f9095159bf",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2604,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Omprokash Dutta, Ajay Prasanth, Ashu Kumari, Kumari Akanksha, Farah Deeba, Nasir Salam",
+      "title": "Burden of dengue, leishmaniasis and lymphatic filariasis in India and its states from 1990\u20132019: Analysis from the Global Burden of Disease study (GBD 2019)",
+      "description": "Vector-borne diseases such as dengue, leishmaniasis, and lymphatic filariasis, constitute significant sources of illness, disability, and mortality among the poor and vulnerable in many countries around the world, including India. Based on the global burden o\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292723",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0292723.g006&size=inline",
+      "publishedAt": "2023-10-18 14:00:00",
+      "content": "Abstract Vector-borne diseases such as dengue, leishmaniasis, and lymphatic filariasis, constitute significant sources of illness, disability, and mortality among the poor and vulnerable in many cou\u2026 [+24970 chars]",
+      "retrievedAt": "2023-10-19 19:05:24.456067",
+      "internal_id": "62ec15bc928d93e82e6c3025ba05770bc92d41de98dae5705d0b8c165fc0be07",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2608,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Andrew Teo, Hao Dong Tan, Thomas Loy, Po Ying Chia, Caroline Lin Lin Chua",
+      "title": "Correction: Understanding antibody-dependent enhancement in dengue: Are afucosylated IgG1s a concern?",
+      "description": "",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011736",
+      "urlToImage": null,
+      "publishedAt": "2023-10-18 14:00:00",
+      "content": "In the Funding statement, one of the funders is listed incorrectly as Ministry of Education (MOE). The correct statement is: CLLC receives support from Ministry of Higher Education (MOHE) Malaysia, u\u2026 [+1071 chars]",
+      "retrievedAt": "2023-10-19 19:05:24.476554",
+      "internal_id": "84366a68b96ad09944bc819b5456c320533b3995ee27eb03001e11b0a7d5c06c",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2612,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Christopher LeBoa, Sneha Shrestha, Jivan Shakya, Shiva Ram Naga, Sony Shrestha, Mudita Shakya, Alexander T. Yu, Rajeev Shrestha, Krista Vaidya, Nishan Katuwal, Kristen Aiemjoy, Isaac I. Bogoch, Christopher B. Uzzell, Denise O. Garrett, Stephen P. Luby, Jason R. Andrews, Dipesh Tamrakar",
+      "title": "Environmental sampling for typhoidal Salmonellas in household and surface waters in Nepal identifies potential transmission pathways",
+      "description": "Author summary Understanding the dominant route of transmission of a pathogen is important for designing and implementing effective control strategies. Salmonella Typhi and Paratyphi A, which cause enteric fever, infect approximately 10 million people and cau\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011341",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011341.g004&size=inline",
+      "publishedAt": "2023-10-18 14:00:00",
+      "content": "Abstract Introduction Salmonella Typhi and Salmonella Paratyphi, fecal-oral transmitted bacterium, have temporally and geographically heterogeneous pathways of transmission. Previous work in Kathma\u2026 [+55160 chars]",
+      "retrievedAt": "2023-10-19 19:05:25.921281",
+      "internal_id": "22fddba1396592b8e51431bcb92cac4a309c156dbf3a67d50e4353f00a5ccf9d",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2605,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Ashleigh Furlong",
+      "title": "France faces massive increase in dengue cases by 2030",
+      "description": "Rising temperatures could spur 50-fold increase, new modeling projects.",
+      "url": "https://www.politico.eu/article/rising-temperatures-could-spur-50-fold-increase-in-dengue-cases-in-france-by-2030/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/10/18/GettyImages-594749620-scaled.jpg",
+      "publishedAt": "2023-10-18 13:57:21",
+      "content": "If temperatures continue to increase at the current rate, France could see local cases of dengue grow to more than 3,000 a year by the end of the decade, up from the 65 cases seen in 2022, according \u2026 [+1216 chars]",
+      "retrievedAt": "2023-10-19 19:05:24.460530",
+      "internal_id": "94b11dde536b71ec4b5e22adefe57405b388d9c97b66f25a5e844285ea34d694",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2600,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "Kitten With \u2018New\u2019 Rabies Strain Triggers Health Push In Nebraska To Stop Deadly Virus Gaining A Foothold",
+      "description": "Officials said the variant, normally found in raccoons, is \u201csomething that can snowball very quickly\u201d and could \u201cput many people in danger.\u201d",
+      "url": "https://www.forbes.com/sites/roberthart/2023/10/18/kitten-with-new-rabies-strain-triggers-health-push-in-nebraska-to-stop-deadly-virus-gaining-a-foothold/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/652fd1cae3b4e7e510659ae8/0x0.jpg?format=jpg&crop=1860,1047,x309,y201,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-10-18 12:41:55",
+      "content": "Health and wildlife officials in Nebraska are scrambling to stave off an outbreak of rabies after a kitten was found to be infected with an unexpected strain of the killer virus, warning that humans \u2026 [+5523 chars]",
+      "retrievedAt": "2023-10-19 19:05:23.644142",
+      "internal_id": "19c4e8fafe8450bf884ef1ba997ed554659bc617b024bb467257185f61ec0208",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2603,
+      "query": [
+        "measles"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Nicole McCain",
+      "title": "News24 | Cape Town healthcare workers on alert amid German measles outbreak",
+      "description": "Western Cape healthcare workers have been placed on alert following an outbreak of German measles, also known as rubella, in Cape Town.",
+      "url": "https://www.news24.com/news24/southafrica/news/cape-town-healthcare-workers-on-alert-amid-german-measles-outbreak-20231018",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9610/84071c6e8cf44855a1ad8867411f486b.jpg",
+      "publishedAt": "2023-10-18 11:40:46",
+      "content": "Western Cape healthcare workers have been placed on alert following an outbreak of German measles, also known as rubella, in Cape Town. The National Institute for Communicable Diseases (NICD) issued\u2026 [+304 chars]",
+      "retrievedAt": "2023-10-19 19:05:23.919028",
+      "internal_id": "15db5327ed88eca34ff7de6b0a1429dc13a9d6ea07c3e19ff1695f26b60df998",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2602,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Anders Anglesey",
+      "title": "Ten People In Treatment As Kitten Tests Positive For 'New' Rabies Strain",
+      "description": "Dr. Lindsay Huse said it was vital the disease does not spread as it could result in \"a significant increase in the number of rabies cases and human exposures.\"",
+      "url": "https://www.newsweek.com/people-treatment-new-rabies-strain-kitten-omaha-nebraska-1835689",
+      "urlToImage": "https://d.newsweek.com/en/full/2296074/rabies-kitten-carrier.jpg",
+      "publishedAt": "2023-10-18 11:18:06",
+      "content": "Ten people have been treated in Nebraska after a dead feral kitten was found to have tested positive for a raccoon rabies strain that was previously undetected in the state. The strain of rabies det\u2026 [+4110 chars]",
+      "retrievedAt": "2023-10-19 19:05:23.657706",
+      "internal_id": "99326a2201df8ce10e5792578e319976cdc54440849d7b2cb8502326ca12c5b3",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2606,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France avec NG",
+      "title": "Moustique tigre. Un cas autochtone de dengue d\u00e9tect\u00e9 en Ile-de-France, une premi\u00e8re dans la r\u00e9gion",
+      "description": "Un cas autochtone de dengue a \u00e9t\u00e9 d\u00e9tect\u00e9 \u00e0 Limeil-Br\u00e9vannes (Val-de-Marne), ont annonc\u00e9 ce mardi 17 octobre 2023 les autorit\u00e9s sanitaires. Il s\u2019agit du premier patient infect\u00e9 en Ile-de-France par ce virus transmis par les moustiques tigres.",
+      "url": "https://www.ouest-france.fr/ile-de-france/limeil-brevannes-94450/moustique-tigre-un-cas-autochtone-de-dengue-detecte-en-ile-de-france-une-premiere-dans-la-region-7609c940-6d96-11ee-98fd-eadf136a8465",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMzEwNDQ0ZWFhYjgyYTY5NjRlNTMzNGEzYTZhYWE2MDMyMWI?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=7b4a0fd0f0d0bba7ccc816aa68426f80e240b704cae38e56fc4f8c8ede31f242",
+      "publishedAt": "2023-10-18 09:27:42",
+      "content": "Le moustique tigre est encore bien pr\u00e9sent en France. Un cas autochtone de dengue vient ainsi d\u00eatre recens\u00e9 pour la premi\u00e8re fois en \u00cele-de-France. Il a \u00e9t\u00e9 identifi\u00e9 \u00e0 Limeil-Br\u00e9vannes (Val-de-Marn\u2026 [+2016 chars]",
+      "retrievedAt": "2023-10-19 19:05:24.465814",
+      "internal_id": "9519148373b6d7be1892c5f95933e16fb73705dc07df8a23667f716c8635c5cb",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2610,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di dengue a Trieste, prevista oggi disinfestazione",
+      "description": "Il Comune di Trieste ha informato che, per alcune ore dal pomeriggio in poi saranno effettuate misure preventive di disinfestazione radicale dopo che \u00e8 stato accertato dall' Asugi, Dip.Prevenzione, Igiene e Sanit\u00e0, un caso di dengue. (ANSA)",
+      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2023/10/18/caso-di-dengue-a-trieste-prevista-oggi-disinfestazione_00b506ba-04ba-438a-b1c0-2f863c95a28e.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/18/c9c296c27f1d0f2e92c80e2da922eeb7.jpg",
+      "publishedAt": "2023-10-18 08:40:32",
+      "content": "Il Comune di Trieste ha informato che, per alcune ore dal pomeriggio in poi saranno effettuate misure preventive di disinfestazione radicale dopo che \u00e8 stato accertato dall' Asugi, Dip.Prevenzione\u2026 [+845 chars]",
+      "retrievedAt": "2023-10-19 19:05:24.484862",
+      "internal_id": "89548d33b5128fb3d55f7e684ebe163bf50c705627244f1f2b2389dd950c37c7",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2609,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di dengue a Trieste, prevista oggi disinfestazione",
+      "description": "Il Comune di Trieste ha informato che, per alcune ore dal pomeriggio in poi saranno effettuate misure preventive di disinfestazione radicale dopo che \u00e8 stato accertato dall' Asugi, Dip.Prevenzione, Igiene e Sanit\u00e0, un caso di dengue. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2023/10/18/caso-di-dengue-a-trieste-prevista-oggi-disinfestazione_1267ffe7-5817-4aab-b97e-1971c3bd95ea.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/18/c9c296c27f1d0f2e92c80e2da922eeb7.jpg",
+      "publishedAt": "2023-10-18 08:31:33",
+      "content": "Il Comune di Trieste ha informato che, per alcune ore dal pomeriggio in poi saranno effettuate misure preventive di disinfestazione radicale dopo che \u00e8 stato accertato dall' Asugi, Dip.Prevenzione\u2026 [+844 chars]",
+      "retrievedAt": "2023-10-19 19:05:24.479478",
+      "internal_id": "0bdd27bcca6a9f30a99395ce702d5753eba097f6a634f98588f154e162f185c5",
+      "publishedAtLabel": "Oct 18"
+    },
     {
       "id": 2599,
       "query": [
@@ -3379,241 +3613,6 @@
       "retrievedAt": "2023-10-09 19:05:29.517159",
       "internal_id": "02235538576f578938ab7c86d959b9a4ad16663e540ffa83ff39aa17542b86c0",
       "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2422,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Republic World",
-      "author": "Sadhna Mishra",
-      "title": "Curry Leaf: \u0915\u0930\u0940 \u092a\u0924\u094d\u0924\u0947 \u092e\u0947\u0902 \u091b\u0941\u092a\u0947 \u0939\u0948\u0902 \u0938\u0947\u0939\u0924 \u0915\u0947 \u0915\u0908 \u0930\u093e\u091c, \u0916\u093e\u0928\u0947 \u0915\u093e \u0938\u094d\u0935\u093e\u0926 \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0905\u0932\u093e\u0935\u093e \u091c\u093e\u0928\u093f\u090f \u092f\u0947 \u092b\u093e\u092f\u0926\u0947",
-      "description": "\u0915\u0930\u0940 \u092a\u0924\u094d\u0924\u0947 \u092e\u0947\u0902 \u0915\u0908 \u0910\u0938\u0947 \u0917\u0941\u0923 \u091b\u0941\u092a\u0947 \u0939\u0941\u090f \u0939\u0948 \u091c\u093f\u0938\u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092c\u0939\u0941\u0924 \u0939\u0940 \u0915\u092e \u0932\u094b\u0917 \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902\u0964 \u0906\u0907\u090f \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902 \u0916\u093e\u0928\u0947 \u0915\u093e \u0938\u094d\u0935\u093e\u0926 \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0905\u0932\u093e\u0935\u093e \u0907\u0938\u0915\u0947 \u0915\u094d\u092f\u093e \u092b\u093e\u092f\u0926\u0947 \u0939\u0948\u0902\u0964",
-      "url": "https://bharat.republicworld.com/lifestyle/health/curry-leaf-many-health-secrets-hidden-in-curry-leaves-apart-from-enhancing-taste-of-food-know-these-benefits",
-      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/16966712786521262eb5e8a.jpeg",
-      "publishedAt": "2023-10-08 03:55:34",
-      "content": "Curry Leaf Benefits: ... , - ... - ? , , , , C 4, , - - ? ... Dengue: , , Disclaimer: , - REPUBLIC BHARAT ... , ,",
-      "retrievedAt": "2023-10-10 07:05:40.153340",
-      "internal_id": "8de2bdcc8ef26029890f43c709f4cebcbe911d78c9907442cda25ab8ccaf04a0",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2401,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "IANS",
-      "title": "'The blood of Sanatan Dharma is in our veins', warns ex-K'taka CM Basavaraj Bommai",
-      "description": "Karnataka Chief Minister Basavaraj Bommai warned that the sentiments of Hindus will not be hurt if their Sanatan Dharma is compared to diseases like malaria. He also highlighted attempts to hinder Hindu Ganpati celebrations and emphasized the strength of Lord\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/the-blood-of-sanatan-dharma-is-in-our-veins-warns-ex-ktaka-cm-basavaraj-bommai/articleshow/104250481.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104251500,width-1200,height-630,imgsize-100746,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-08 01:53:38",
-      "content": "\"Should we have to keep quiet if our Sanatan Dharma is compared with malaria? The blood of Sanathan Dharma is flowing in our veins. We will not keep quiet if someone tries to hurt our sentiments,\" Bo\u2026 [+2561 chars]",
-      "retrievedAt": "2023-10-09 07:05:48.540468",
-      "internal_id": "36a69f2da5542cff2efc6dc893e389e60116aa942f9c7183336bb9fcb1412b0a",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2419,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jamaica Observer",
-      "author": null,
-      "title": "Barbados Ministry of Health confirms outbreak of dengue fever",
-      "description": "BRIDGETOWN, Barbados, CMC \u2013 The Barbados Ministry of Health and Wellness has confirmed a dengue fever outbreak in Barbados. Chief Medical Officer, Dr Kenneth George, disclosed that the threshold was r...",
-      "url": "https://www.jamaicaobserver.com/latest-news/barbados-ministry-of-health-confirms-outbreak-of-dengue-fever/",
-      "urlToImage": "https://imengine.public.prod.jam.navigacloud.com/?uuid=5E596B50-CE93-491B-876A-CEA7D229063B&function=fit&type=preview",
-      "publishedAt": "2023-10-07 20:30:52",
-      "content": "BRIDGETOWN, Barbados, CMC The Barbados Ministry of Health and Wellness has confirmed a dengue fever outbreak in Barbados. Chief Medical Officer, Dr Kenneth George, disclosed that the threshold was r\u2026 [+1135 chars]",
-      "retrievedAt": "2023-10-10 07:05:40.146856",
-      "internal_id": "a0b6db0702f5f34dde2efef58c5d32bdd37f97ff099b9fb281a7e957355eac8e",
-      "publishedAtLabel": "Oct 7"
-    },
-    {
-      "id": 2397,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Medical Xpress",
-      "author": "Dennis Thompson",
-      "title": "Is the first cure for advanced rabies near?",
-      "description": "Rabies virus is incurable and almost always fatal once it has invaded the central nervous system, with the victim doomed to suffer a horrible death.",
-      "url": "https://medicalxpress.com/news/2023-09-advanced-rabies.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/is-the-first-cure-for.jpg",
-      "publishedAt": "2023-10-07 18:38:47",
-      "content": "Rabies virus is incurable and almost always fatal once it has invaded the central nervous system, with the victim doomed to suffer a horrible death. But researchers now think they've found an effect\u2026 [+4708 chars]",
-      "retrievedAt": "2023-10-08 19:05:12.862933",
-      "internal_id": "911696a3c1659953f31f3b30b3549211a5ada5c5e30259f5e33b1345a3fd2d41",
-      "publishedAtLabel": "Oct 7"
-    },
-    {
-      "id": 2400,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "AFP",
-      "title": "Bangladesh enfrenta epidemia de dengue sem precedentes",
-      "description": "Doen\u00e7a alcan\u00e7ou o recorde de 1.030 mortes e j\u00e1 tem mais de 210 mil casos confirmados desde o in\u00edcio de 2023",
-      "url": "https://noticias.r7.com/internacional/bangladesh-enfrenta-epidemia-de-dengue-sem-precedentes-07102023",
-      "urlToImage": "https://img.r7.com/images/dengue-em-bangladesh-07102023153241600?crop_position=c&dimensions=340x191",
-      "publishedAt": "2023-10-07 15:54:00",
-      "content": "Pacientes se acumulam nos leitos de hospitais do pa\u00eds Mohammad Ponir Hossain/File Photo/Reuters - 7.10.2023 Os m\u00e9dicos do Hospital Mugda, em Daca, capital de Bangladesh, est\u00e3o sobrecarregados\u2026 [+3972 chars]",
-      "retrievedAt": "2023-10-09 07:05:48.012877",
-      "internal_id": "3d8fd239df401cdf7b988742cca1baba81103df0452d4904b8d1e8634d489324",
-      "publishedAtLabel": "Oct 7"
-    },
-    {
-      "id": 2399,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "ScienceAlert",
-      "author": "Adrian Hill, The Conversation",
-      "title": "Malaria Could Be Eliminated by 2040: New Vaccine Offers Hope",
-      "description": "The World Health Organization has approved a new vaccine that scientists argue will be a game-changer in the fight against malaria, which kills half a million people in Africa every year.",
-      "url": "https://www.sciencealert.com/malaria-could-be-eliminated-by-2040-new-vaccine-offers-hope",
-      "urlToImage": "https://www.sciencealert.com/images/2023/10/MosquitoCloseUpWithProboscisSunkIntoHumanSkin-1.jpg",
-      "publishedAt": "2023-10-07 10:34:07",
-      "content": "The World Health Organization has approved a new vaccine that scientists argue will be a game-changer in the fight against malaria, which kills half a million people in Africa every year. Trials ha\u2026 [+6614 chars]",
-      "retrievedAt": "2023-10-08 19:05:14.248865",
-      "internal_id": "a1a63c21dabf34a20f948e4c7676b341bf01fd4cdf6c85cd56895b5c34be46f4",
-      "publishedAtLabel": "Oct 7"
-    },
-    {
-      "id": 2424,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Cricinformer.com",
-      "author": "Sudhanshu Ranjan Pandey",
-      "title": "\"He is feeling better...\": Rahul Dravid Provided Major Update On Shubman Gill's Health",
-      "description": "Amidst the uncertainty, there's a glimmer of hope for Indian cricket enthusiasts. Rahul Dravid, the man at the helm, provided an update that may soothe their",
-      "url": "https://cricinformer.com/he-is-feeling-better-rahul-dravid-provided-major-update-on-shubman-gills-health/",
-      "urlToImage": "https://cricinformer.com/wp-content/uploads/2023/03/rahul.png",
-      "publishedAt": "2023-10-07 09:36:19",
-      "content": "In an unexpected turn of events, India\u2019s star opener, Shubman Gill, received unwelcome news on October 6 \u2013 he had tested positive for dengue fever. This revelation cast a shadow of doubt over his par\u2026 [+1962 chars]",
-      "retrievedAt": "2023-10-10 07:05:40.158005",
-      "internal_id": "d8d76e495647b402cf5a67b4fd693c795ef9d8bab88dfbdff2b1aa0ffd343ca8",
-      "publishedAtLabel": "Oct 7"
-    },
-    {
-      "id": 2398,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Surge in dengue cases in Uttarakhand crosses 3,000 mark",
-      "description": "The number of dengue cases in Uttarakhand, India, has exceeded 3,000, with Dehradun reporting over 1,000 cases and Pauri district recording 736 cases. The state has seen 59 new cases recently, bringing the total to 3,046, with Dehradun accounting for 1,023 ca\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/surge-in-dengue-cases-in-uttarakhand-crosses-3000-mark/articleshow/104236140.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104236290,width-1200,height-630,imgsize-1755339,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-07 08:47:56",
-      "content": "The incidence of dengue cases in Uttarakhand has risen significantly, surpassing the 3,000 mark. Notably, Dehradun alone has reported over 1,000 cases, and an additional 736 cases have emerged in the\u2026 [+1655 chars]",
-      "retrievedAt": "2023-10-08 19:05:13.650966",
-      "internal_id": "a5045ae9f331d57d7ab385206f47f35ca56e706e01653fab34975caac1339fd9",
-      "publishedAtLabel": "Oct 7"
-    },
-    {
-      "id": 2385,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Dwaipayan Datta",
-      "title": "Kishan may open against Australia in Gill's absence",
-      "description": "Indian cricket team coach Rahul Dravid is uncertain about the availability of opener Shubman Gill for the team's opening match against Australia. Gill has been down with fever, suspected to be dengue, and has missed practice sessions. Dravid stated that Gill'\u2026",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/world-cup-ishan-kishan-may-open-against-australia-in-shubman-gills-absence/articleshow/104227217.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104227214,width-1070,height-580,imgsize-38330,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-07 02:06:17",
-      "content": "Shubman Gill may miss India's opener against Australia",
-      "retrievedAt": "2023-10-08 07:05:24.240491",
-      "internal_id": "1d2542129496d2f6318cfe8d83b79bed420fa85c2d7840099294b7eb54eaa360",
-      "publishedAtLabel": "Oct 7"
-    },
-    {
-      "id": 2404,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_300943",
-      "title": "U.S. Arkansas reports first locally acquired malaria case",
-      "description": "LOS ANGELES, Oct. 6 (Xinhua) -- The U.S. state of Arkansas has identified its first locally acquired",
-      "url": "http://en.people.cn/n3/2023/1007/c90000-20080026.html",
-      "urlToImage": null,
-      "publishedAt": "2023-10-07 01:37:58",
-      "content": "(Xinhua) 09:18, October 07, 2023 LOS ANGELES, Oct. 6 (Xinhua) -- The U.S. state of Arkansas has identified its first locally acquired malaria case, the fourth state in the country that has reported \u2026 [+1347 chars]",
-      "retrievedAt": "2023-10-09 07:05:48.554026",
-      "internal_id": "8385c2e648f0b998ad3912164ccf28a0734cad9d18e8ea3611b871a86eafb7bf",
-      "publishedAtLabel": "Oct 7"
-    },
-    {
-      "id": 2403,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_300943",
-      "title": "U.S. records more homegrown malaria cases for first time in 20 years",
-      "description": "LOS ANGELES, Oct. 6 (Xinhua) -- The United States has identified at least 10 locally acquired malari",
-      "url": "http://en.people.cn/n3/2023/1007/c90000-20079980.html",
-      "urlToImage": null,
-      "publishedAt": "2023-10-07 01:03:55",
-      "content": "By Xinhua writer Tan Jingjing (Xinhua) 08:56, October 07, 2023 LOS ANGELES, Oct. 6 (Xinhua) -- The United States has identified at least 10 locally acquired malaria cases, the first time in 20 years\u2026 [+2514 chars]",
-      "retrievedAt": "2023-10-09 07:05:48.551847",
-      "internal_id": "ed2e074b7ef27b24b47e9632c8dc997a990066d64171fa814a041de693081056",
-      "publishedAtLabel": "Oct 7"
-    },
-    {
-      "id": 2382,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Sputnikglobe.com",
-      "author": "Egor Shapovalov",
-      "title": "Dengue Fever May Spread to Europe & US by End of 2030 - WHO",
-      "description": "Dengue fever is transmitted by Aedes aegypti mosquitoes, which differ from the Anopheles mosquitoes responsible for spreading malaria. These mosquitoes are active during both day and night and can be found indoors and outdoors.",
-      "url": "https://sputnikglobe.com/20231007/dengue-fever-may-spread-to-europe--us-by-end-of-2030-1113994496.html",
-      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1113994496.jpg?11063239951696639776",
-      "publishedAt": "2023-10-07 00:52:43",
-      "content": "Symptoms of dengue include fever, muscle spasms, nausea, and, in severe cases, excruciating joint pain, earning it the nickname 'bone-break fever.' Fortunately, most patients recover within two weeks\u2026 [+240 chars]",
-      "retrievedAt": "2023-10-08 07:05:24.188572",
-      "internal_id": "a90e6d039a7b8ba21505bf9c4b7158ba81bf43f8f6ade2a68feab37346b5d51a",
-      "publishedAtLabel": "Oct 7"
-    },
-    {
-      "id": 2381,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Newshub",
-      "author": "Molly Swift",
-      "title": "Student with measles recently visited popular Wellington spots including zoo, school, health centre",
-      "description": "Student with measles recently visited popular Wellington spots including zoo, school, health centrenewshub.co.nz",
-      "url": "https://www.newshub.co.nz/home/new-zealand/2023/10/student-with-measles-recently-visited-popular-wellington-spots-including-zoo-school-health-centre.html",
-      "urlToImage": "https://www.newshub.co.nz/home/new-zealand/2023/10/student-with-measles-recently-visited-popular-wellington-spots-including-zoo-school-health-centre/_jcr_content/par/image.dynimg.1280.q75.jpg/v1696638763088/measles-disease-GETTY1120.jpg",
-      "publishedAt": "2023-10-07 00:46:39",
-      "content": "The individual was in contact with students who attended a week-long Shakespeare Globe Theatre New Zealand (SGCNZ) National Shakespeare Schools Production event at Scots College, Wellington. These st\u2026 [+1348 chars]",
-      "retrievedAt": "2023-10-08 07:05:23.734125",
-      "internal_id": "43710f0e9e3098a1a70b16eae72996861690958cc42743f01ee196dc04b4e385",
-      "publishedAtLabel": "Oct 7"
     }
   ]
 }
