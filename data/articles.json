@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-10-18 19:05",
+  "last_updated": "2023-10-19 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 2599,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Instituto Nacional de Sa\u00fade defende rede informal de laborat\u00f3rios para doen\u00e7as como tuberculose ou Mpox",
+      "description": "Proposta \"\u00e9 de cria\u00e7\u00e3o de uma rede informal de laborat\u00f3rios do SNS numa primeira fase\", diz presidente do Instituto, que quer um \"refor\u00e7o de reflex\u00e3o conjunta em outras patologias como a Mpox\".",
+      "url": "https://observador.pt/2023/10/17/instituto-nacional-de-saude-defende-rede-informal-de-laboratorios-para-doencas-como-tuberculose-ou-mpox/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F03%2F20050207%2F36396255.jpg",
+      "publishedAt": "2023-10-17 22:20:24",
+      "content": "O presidente do Instituto Nacional de Sa\u00fade Dr. Ricardo Jorge (Insa) defendeu esta ter\u00e7a-feira a cria\u00e7\u00e3o de uma rede informal de laborat\u00f3rios para doen\u00e7as como a tuberculose ou a Mpox. Uma rede semel\u2026 [+1719 chars]",
+      "retrievedAt": "2023-10-19 07:05:57.875656",
+      "internal_id": "f1b13ba7fa9fa598d3e32adb9d39f643bc6229dd55a05c8a14d72d0b6812c918",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 2595,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Kitten with unusual rabies strain sparks unprecedented public health operation in Nebraska to prevent 'snowbal - Daily Mail",
+      "description": "Kitten with unusual rabies strain sparks unprecedented public health operation in Nebraska to prevent 'snowbalDaily Mail Health officials warn against rare rabies case in OmahaWOWT Raccoons to be trapped, vaccinated for rabies in OmahaOmaha World-Herald CDC, \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172036447",
+      "urlToImage": null,
+      "publishedAt": "2023-10-17 22:12:17",
+      "content": "The rule on staying alive as a forecaster is to give 'em a number or give 'em a date, but never give 'em both at once. -- Jane Bryant Quinn",
+      "retrievedAt": "2023-10-19 07:05:56.276602",
+      "internal_id": "ff9fecb21a88187d8460ca20166913cae3a3fbd63717853520a0699d5d1fff90",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 2597,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "\u00d3scar Rodr\u00edguez",
+      "title": "En Oaxaca, detectan migrantes con casos de deshidrataci\u00f3n, gripe y dengue",
+      "description": "En el Centro de Movilidad Migratoria de San Sebasti\u00e1n Tutla, en la zona del Valle Central de Oaxaca, han sido detectados m\u00e1s de 700 migrantes con gripe, deshidrataciones, dengue y padecimientos diarreicos.Tambi\u00e9n, los responsables de las brigadas m\u00e9dicas, de \u2026",
+      "url": "https://www.milenio.com/policia/detectan-migrantes-casos-deshidratacion-gripe-dengue-oaxaca",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/17/secretaria-salud-atiende-casos-mujeres.jfif",
+      "publishedAt": "2023-10-17 21:27:20",
+      "content": "En el Centro de Movilidad Migratoria de San Sebasti\u00e1n Tutla, en la zona del Valle Central de Oaxaca, han sido detectados m\u00e1s de 700 migrantes con gripe, deshidrataciones, dengue y padecimientos diarr\u2026 [+1150 chars]",
+      "retrievedAt": "2023-10-19 07:05:56.691681",
+      "internal_id": "814561230eeaccc6261173c612c8f5420aa12d7bee5192e5ca50a1948841e1e7",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 2598,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Paris : Un cas autochtone de dengue en r\u00e9gion parisienne, une premi\u00e8re",
+      "description": "Un \u00ab cas autochtone \u00bb signifie que la personne n'a pas voyag\u00e9 r\u00e9cemment dans les r\u00e9gions du monde, comme les Antilles, o\u00f9 circule largement ce virus",
+      "url": "https://www.20minutes.fr/sante/4058308-20231017-paris-cas-autochtone-dengue-region-parisienne-premiere",
+      "urlToImage": "https://img.20mn.fr/SjuwGtS_RhSM5Ast-kW85ik/1200x768_mosquitoes-lay-eggs-inside-the-world-mosquito-program-s-factory-in-medellin-colombia-thursday-aug-10-2023-scientists-are-breeding-the-mosquitoes-to-carry-the-bacteria-wolbachia-which-interrupts-the-transmission-of-dengue-ap-photo-jaime-saldarriaga-xab307-23257824543413-aug-10-2023-photo-2309150156",
+      "publishedAt": "2023-10-17 19:35:32",
+      "content": "Un cas autochtone de dengue, c\u2019est-\u00e0-dire probablement transmis sur place par un moustique, a \u00e9t\u00e9 recens\u00e9 pour la premi\u00e8re fois en \u00cele-de-France, ont annonc\u00e9 mardi les autorit\u00e9s sanitaires, du jamais\u2026 [+1983 chars]",
+      "retrievedAt": "2023-10-19 07:05:56.698219",
+      "internal_id": "863d08e0d9c2bd361bf85e0f1214573a8836061aa10a2d7a585d1e8628140876",
+      "publishedAtLabel": "Oct 17"
+    },
+    {
+      "id": 2596,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WKTV",
+      "author": "Zach Lewis",
+      "title": "Raccoon from Town of Schuyler Tests Positive for Rabies",
+      "description": "Raccoon from Town of Schuyler Tests Positive for Rabieswktv.com",
+      "url": "https://www.wktv.com/news/health/raccoon-from-town-of-schuyler-tests-positive-for-rabies/article_d3086dbc-6d06-11ee-8b60-ab83d78b3285.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/2/60/260a1040-6d09-11ee-ac1f-e3d38642ed52/652eb477bc84b.image.png?crop=1712%2C899%2C0%2C155&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-10-17 19:15:00",
+      "content": "SCHUYLER, N.Y. -- There's another report of a rabid animal in the area. A rabid raccoon was found in Schuyler. The family dog killed the raccoon on Tuesday, Oct. 10. The dead raccoon was sent t\u2026 [+1040 chars]",
+      "retrievedAt": "2023-10-19 07:05:56.298194",
+      "internal_id": "89a8b0a895eeee2e90fcb48065ef4aead7d28e7e7c98ce99f922158636b39813",
+      "publishedAtLabel": "Oct 17"
+    },
     {
       "id": 2592,
       "query": [
@@ -3524,96 +3614,6 @@
       "retrievedAt": "2023-10-08 07:05:23.734125",
       "internal_id": "43710f0e9e3098a1a70b16eae72996861690958cc42743f01ee196dc04b4e385",
       "publishedAtLabel": "Oct 7"
-    },
-    {
-      "id": 2384,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Perfil Brasil",
-      "title": "Dengue vai disparar no Sul da Europa, EUA e \u00c1frica nesta d\u00e9cada, segundo OMS",
-      "description": "A doen\u00e7a tem sido um flagelo em grande parte da \u00c1sia e da Am\u00e9rica Latina, causando cerca de 20 mil mortes por ano",
-      "url": "https://brasil.perfil.com/mundo/oms-dengue-vai-disparar-no-sul-da-europa-eua-e-africa-nesta-decada.phtml",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/10/06/1547063320-ebc.png",
-      "publishedAt": "2023-10-06 21:52:17",
-      "content": "A dengue se tornar\u00e1 uma grande amea\u00e7a no Sul dos Estados Unidos, no Sul da Europa e em novas partes da \u00c1frica nesta d\u00e9cada, disse Jeremy Farrar, especialista em doen\u00e7as infecciosas da Organiza\u00e7\u00e3o M\u2026 [+2596 chars]",
-      "retrievedAt": "2023-10-08 07:05:24.235745",
-      "internal_id": "69093dd89b5379bd86a5dcca1a58ed031abfba0aa3ee47e29dc17b04495222e1",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2383,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Shubman Gill Down With Suspected Dengue, Could Be Out For Multiple Games",
-      "description": "Chennai, Oct 6 (PTI) The Indian team\u2019s worries ahead of its opening World Cup game against Australia have been compounded with in-form Shubman Gill suspected to be suffering from dengue and the batter is a doubtful starter for Sunday\u2019s match against Australia\u2026",
-      "url": "https://thehillstimes.in/sports/shubman-gill-down-with-suspected-dengue-could-be-out-for-multiple-games",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-06-at-11.46.04-PM.jpeg",
-      "publishedAt": "2023-10-06 21:40:27",
-      "content": "Chennai, Oct 6 (PTI) The Indian team\u2019s worries ahead of its opening World Cup game against Australia have been compounded with in-form Shubman Gill suspected to be suffering from dengue and the batte\u2026 [+1666 chars]",
-      "retrievedAt": "2023-10-08 07:05:24.214474",
-      "internal_id": "9b33842e4a9d9f8c506de51547af57d23e8551e68a56dde8089b2de586020837",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2378,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Military Times",
-      "author": "Sarah Sicard",
-      "title": "Pentagon Finds Cure for Rabies?",
-      "description": "Pentagon Finds Cure for Rabies? (Third column, 6th story, link) Drudge Report Feed needs your support! Become a Patron",
-      "url": "https://www.militarytimes.com/news/your-military/2023/10/06/defense-department-may-have-discovered-a-cure-for-rabies/",
-      "urlToImage": "https://www.militarytimes.com/resizer/_HWTI7MnPHkbp3pplX3jwcUSUzk=/1024x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/72SNMCWU4FHSZBIRCGBMR2IW7Q.png",
-      "publishedAt": "2023-10-06 21:10:38",
-      "content": "The fatal rhabdovirus known as rabies has been associated with madness as far back as ancient Greece. The zoonotic disease, which causes hydrophobia, as well as inflammation of the brain and spinal c\u2026 [+2051 chars]",
-      "retrievedAt": "2023-10-08 07:05:23.208843",
-      "internal_id": "3c93fc450d40a5b2ec94a425ac716621150e2976f8680631e1d4adf07446b1be",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2386,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "FRANCE 24 English",
-      "author": "FRANCE24",
-      "title": "Dengue fever bound to 'take off' in parts of US, Europe and Africa this decade",
-      "description": "WHO chief scientist Jeremy Farrar says dengue is bound to 'take off' and become endemic in parts of the United States, Europe and Africa. Global warming is making these areas more hospitable to the mosquitoes that spread dengue. The disease causes an estimate\u2026",
-      "url": "https://www.france24.com/en/video/20231006-dengue-fever-bound-to-take-off-in-parts-of-us-europe-and-africa-this-decade",
-      "urlToImage": "https://s.france24.com/media/display/452a2f94-648c-11ee-9d21-005056bfb2b6/w:1280/p:16x9/m:{\"brand\":\"FRANCE24\",\"lang\":\"EN\",\"program\":\"\",\"cartouche\":\"\",\"hash\":\"f7dfec44e5d277c9ef5f87810d5cbb146e60773d0befe549aef8b6f11d5876ed\",\"title\":\"Dengue%20to%20'take%20off'%20in%20US%2C%20Europe%20%26%20Africa%2C%20WHO%20says\",\"id\":\"370459ea-9cdb-11ed-b690-005056bf30b7\"}/EN_20231006_221149_221344_CS.jpg",
-      "publishedAt": "2023-10-06 21:06:58",
-      "content": "Issued on: 06/10/2023 - 23:06Modified: 06/10/2023 - 23:15 WHO chief scientist Jeremy Farrar says dengue is bound to 'take off' and become endemic in parts of the United States, Europe and Africa. Gl\u2026 [+271 chars]",
-      "retrievedAt": "2023-10-08 07:05:24.244379",
-      "internal_id": "84f155588211f726997e9e70c08ffd52229feabc0ddeb9eb2681bba165847fbd",
-      "publishedAtLabel": "Oct 6"
-    },
-    {
-      "id": 2388,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Ad Ancona un caso di Dengue, due interventi di disinfestazione",
-      "description": "A seguito dell'avvenuta comunicazione di un caso accertato di Dengue, infezione contratta da un cittadino italiano rientrato nella sua abitazione di Via Flaminia da un viaggio in Centro America, ricoverato successivamente presso l'Azienda ospedaliera di To...\u2026",
-      "url": "https://www.ansa.it/marche/notizie/2023/10/06/ad-ancona-un-caso-di-dengue-due-interventi-di-disinfestazione_fc02964d-1e1f-4370-9859-e4706e046469.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/9/6/ec653cf59a220475e2cd717f77758bfa.jpg",
-      "publishedAt": "2023-10-06 20:58:31",
-      "content": "A seguito dell'avvenuta comunicazione di un caso accertato di Dengue, infezione contratta da un cittadino italiano rientrato nella sua abitazione di Via Flaminia da un viaggio in Centro America, \u2026 [+2048 chars]",
-      "retrievedAt": "2023-10-08 07:05:24.253904",
-      "internal_id": "4a3e347cb83d646a196c5357c5c7068bf80331198f7ccad19f80a5c9205325e4",
-      "publishedAtLabel": "Oct 6"
     }
   ]
 }
