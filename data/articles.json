@@ -1,8 +1,224 @@
 {
-  "last_updated": "2023-10-20 07:05",
+  "last_updated": "2023-10-20 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 2624,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Casos de Dengue aumentam no Rio de Janeiro; quatro pessoas morreram em 2023",
+      "description": "Os casos de Dengue aumentaram no Rio de Janeiro. Neste ano, quatro pessoas morreram v\u00edtimas da doen\u00e7a e 1.000 foram internadas. At\u00e9 agora, for...",
+      "url": "https://recordtv.r7.com/balanco-geral-rj/videos/casos-de-dengue-aumentam-no-rio-de-janeiro-quatro-pessoas-morreram-em-2023-19102023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/10/19/6531709dcd77c069c200073c/f03e2404b9fc4c988540c0d1c2a874fa__BGT_R7_19OUT23_AUMENTODENGUE_thumb_thumb.jpg",
+      "publishedAt": "2023-10-19 18:52:54",
+      "content": "Os casos de Dengue aumentaram no Rio de Janeiro. Neste ano, quatro pessoas morreram v\u00edtimas da doen\u00e7a e 1.000 foram internadas. At\u00e9 agora, foram confirmados mais de 18 mil casos no estado, o maior n\u00fa\u2026 [+112 chars]",
+      "retrievedAt": "2023-10-20 19:05:21.258747",
+      "internal_id": "f7e7707a922ddb7db9f0256e40deb29384be10dea837573dc84acf5ac2590a97",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2619,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Progress Toward Measles and Rubella Elimination - Indonesia, 2013-2022",
+      "description": "This report describes progress made toward measles and rubella elimination in Indonesia.",
+      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7242a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7242a2_MeaslesandRubella_IMAGE_20October23_1200x675.jpg?_=38420",
+      "publishedAt": "2023-10-19 17:00:00",
+      "content": "Stephen Chacko, MD1; Mushtofa Kamal, MD1; Endang Budi Hastuti, MD2; Fristika Mildya, MD2; Cornelia Kelyombar, MD2; Vivi Voronika, M; Epid2; Prima Yosephine, MD2; Gertrudis Tandy, MD2; Devi Anisiska, \u2026 [+32213 chars]",
+      "retrievedAt": "2023-10-20 19:05:20.789950",
+      "internal_id": "bb330b8af0a3e9eb3104b18a1c328f8ff64fe6f5ba0b4d02ec6baf4939aed0c1",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2630,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Nabil Ihsan, Resinta Sulistiyandari",
+      "title": "Govt prioritizing monkeypox vaccines for vulnerable groups: official",
+      "description": "Internist and consultant on tropical and infectious diseases from the state-run Dr. Cipto Mangunkusumo Hospital (RSCM), Dr. Robert Sinto SpPD, K-PTI, revealed that the government is prioritizing the provision of monkeypox (Mpox) ...",
+      "url": "https://en.antaranews.com/news/296655/govt-prioritizing-monkeypox-vaccines-for-vulnerable-groups-official",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/19/Screenshot_20231017_125939_Gallery.jpg",
+      "publishedAt": "2023-10-19 16:36:29",
+      "content": "Jakarta (ANTARA) - Internist and consultant on tropical and infectious diseases from the state-run Dr. Cipto Mangunkusumo Hospital (RSCM), Dr. Robert Sinto SpPD, K-PTI, revealed that the government i\u2026 [+2243 chars]",
+      "retrievedAt": "2023-10-20 19:05:23.590808",
+      "internal_id": "1bc65a6276d8d563e5c37c92cfb9c9c5afdae380bc3b1c142bdc5acbf5460e7c",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2629,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Natthida Sriboonvorakul, Kesinee Chotivanich, Udomsak Silachamroon, Weerapong Phumratanaprapin, John H. Adams, Arjen M. Dondorp, Stije J. Leopold",
+      "title": "Intestinal injury and the gut microbiota in patients with Plasmodium falciparum malaria",
+      "description": "The pathophysiology of severe falciparum malaria involves a complex interaction between the host, parasite, and gut microbes. In this review, we focus on understanding parasite-induced intestinal injury and changes in the human intestinal microbiota compositi\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011661",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011661.t001&size=inline",
+      "publishedAt": "2023-10-19 14:00:00",
+      "content": "Abstract The pathophysiology of severe falciparum malaria involves a complex interaction between the host, parasite, and gut microbes. In this review, we focus on understanding parasite-induced inte\u2026 [+37507 chars]",
+      "retrievedAt": "2023-10-20 19:05:22.539636",
+      "internal_id": "013519eb6f9fc8e1b1617fcedf8dc548db0592c5dad7ae0af481b5a5718ea70d",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2625,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "Warmer weather towards year-end could worsen dengue situation: NEA",
+      "description": "Warmer weather caused by El Nino will make it more conducive for mosquitoes to breed. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/warmer-weather-towards-end-of-the-year-could-worsen-dengue-situation-nea",
+      "urlToImage": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/10/19/2023101947336147snapseed.jpg",
+      "publishedAt": "2023-10-19 13:45:14",
+      "content": "SINGAPORE - Even though the number of dengue cases here has dipped in recent weeks, warmer weather in the coming months due to the El Nino phenomenon could see the situation getting worse, the Nation\u2026 [+2028 chars]",
+      "retrievedAt": "2023-10-20 19:05:21.263996",
+      "internal_id": "4bc837b091e306e28c46a8e3df32a3a76daed0be2899e5c620785e5b2deb83f0",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2628,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Sixty Degrees Pharmaceuticals",
+      "title": "60 Degrees Pharma to Present Review of Safety, Efficacy Data of 8-Aminoquinolines for Malaria and Babesiosis Treatment at ILADS Annual Scientific Meeting in Boston",
+      "description": "60 Degrees Pharma Presents Review of Safety, Efficacy Data of 8-Aminoquinolines for Malaria and Babesiosis Treatment at ILADS Annual Scientific Meeting...",
+      "url": "https://www.globenewswire.com/news-release/2023/10/19/2763200/0/en/60-Degrees-Pharma-to-Present-Review-of-Safety-Efficacy-Data-of-8-Aminoquinolines-for-Malaria-and-Babesiosis-Treatment-at-ILADS-Annual-Scientific-Meeting-in-Boston.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/c950cab5-27b1-476f-befc-4d92a7389fdd",
+      "publishedAt": "2023-10-19 12:31:00",
+      "content": "60 Degrees Pharmaceuticals will present scientific poster on new, long-term safety data on the use of tafenoquine for malaria prevention at the ILADS 2023 annual scientific meeting60\u2026 [+11104 chars]",
+      "retrievedAt": "2023-10-20 19:05:22.531815",
+      "internal_id": "82a451950f59bec0b58bc26701e1f7f67f9948d72300fc955634f2cf7de44a9d",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2621,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "info@who.int (WHO)",
+      "title": "Chad: Chad Reports Its First Dengue Outbreak",
+      "description": "[WHO] On 15 August 2023, the Ministry of Public Health and Prevention of the Republic of Chad officially declared an outbreak of dengue in Ab\u00e9ch\u00e9 health district, Ouadda\u00ef province, in the east of the country, representing the first dengue outbreak ever report\u2026",
+      "url": "https://allafrica.com/stories/202310190270.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-19 10:26:17",
+      "content": "Situation at a Glance On 15 August 2023, a dengue outbreak was declared by the Ministry of Public Health and Prevention in Chad. As of 1 October, there have been 1,342 suspected cases, including 41 \u2026 [+13565 chars]",
+      "retrievedAt": "2023-10-20 19:05:21.228713",
+      "internal_id": "7eac08070c233e8f8efddc3bcaa73929b54afc0eb9a7b5e9ba704e06a8512ef4",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2623,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "NEA urges 'urgent collective action' to prevent year-end surge in dengue cases",
+      "description": "",
+      "url": "https://www.channelnewsasia.com/singapore/nea-dengue-urgent-collective-action-year-end-surge-cases-3857916",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--uAZPsstr--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/de2e7f9bb56583bd0de3e6045ce0b62fe9000645.jpg?itok=qrx2YvmO",
+      "publishedAt": "2023-10-19 09:21:00",
+      "content": "SINGAPORE: The National Environment Agency (NEA) has urged the public to take \"urgent collective action to control mosquito breeding\" in order to prevent a year-end surge in dengue cases. In a press\u2026 [+831 chars]",
+      "retrievedAt": "2023-10-20 19:05:21.252240",
+      "internal_id": "4285d844724202de983706a77be7824758a574b9acf8afb38e21b3ff88195ccc",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2622,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Le Monde avec AFP",
+      "title": "Au Soudan, le nombre de familles souffrant de la faim a presque doubl\u00e9, selon l\u2019ONU",
+      "description": "Malnutrition aigu\u00eb, chol\u00e9ra, dengue, rougeole, paludisme : des millions d\u2019enfants sont expos\u00e9s alors que le syst\u00e8me de sant\u00e9 est extr\u00eamement perturb\u00e9 par la guerre.",
+      "url": "https://www.lemonde.fr/afrique/article/2023/10/19/au-soudan-le-nombre-de-familles-souffrant-de-la-faim-a-presque-double-selon-l-onu_6195377_3212.html",
+      "urlToImage": "https://img.lemde.fr/2023/10/19/0/0/3174/2116/1440/960/60/0/dbdad95_1697702895394-000-33y43lq.jpg",
+      "publishedAt": "2023-10-19 08:29:16",
+      "content": "Pulv\u00e9risation dinsecticide pour lutter contre les moustiques vecteurs de la dengue et le paludisme \u00e0 Khartoum, capitale du Soudan, le 13 octobre 2023. EBRAHIM HAMID / AFP Le nombre de familles souff\u2026 [+2991 chars]",
+      "retrievedAt": "2023-10-20 19:05:21.242785",
+      "internal_id": "20b289e5a615338b6d53b818bf9328fc3ed36d608ae30a2ed9f9e7fef6db7e5a",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2626,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Trouw.nl",
+      "author": "Maurice Timmermans",
+      "title": "Lindsey verloor haar dochter Maeve (1) aan meningitis. \u2018Ze heeft geen schijn van kans gehad\u2019",
+      "description": "In drie dagen tijd zijn Lindsey en haar man hun dochtertje kwijtgeraakt. Huisartsen hebben via het beeldbellen haar klachten verkeerd ingeschat, ze...",
+      "url": "https://www.trouw.nl/zorg/lindsey-verloor-haar-dochter-maeve-1-aan-meningitis-ze-heeft-geen-schijn-van-kans-gehad~b092da45/",
+      "urlToImage": "https://img.trouw.nl/98f283674c4228d49e61633b3ff13f1d30a38ec0/lindsey-verloor-haar-dochter-maeve-1-aan-meningitis-ze-heeft-geen-schijn-van-kans-gehad",
+      "publishedAt": "2023-10-19 07:38:00",
+      "content": "In drie dagen tijd zijn Lindsey en haar man hun dochtertje kwijtgeraakt. Huisartsen hebben via het beeldbellen haar klachten verkeerd ingeschat, zeggen de ouders. Maurice Timmermans19 oktober 2023, \u2026 [+9956 chars]",
+      "retrievedAt": "2023-10-20 19:05:21.794977",
+      "internal_id": "1458f7eb4489c59f516139cd7bc10cdc20282dcb231bf8906a35f980ed3b91cb",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2620,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Measles Cases In Wisconsin, Illinois: Know All About The Disease That Was Once Eliminated From US",
+      "description": "Health officials urge people to stay up to date on immunizations after a case of measles has been confirmed in each state.",
+      "url": "https://www.medicaldaily.com/measles-cases-wisconsin-illinois-know-all-about-disease-that-was-once-eliminated-us-471001",
+      "urlToImage": "https://d.medicaldaily.com/en/full/470364/vaccine.jpg",
+      "publishedAt": "2023-10-19 07:25:52",
+      "content": "Measles, a highly infectious viral infection that was declared eliminated in the U.S. in 2000, is back in Wisconsin and Illinois. Health officials urge people to stay up to date on immunizations afte\u2026 [+2846 chars]",
+      "retrievedAt": "2023-10-20 19:05:20.797443",
+      "internal_id": "0fc6130ceb5582291b150b8f7df5e91d37c5e0b3b95112799f75acf37a63fe35",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2627,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Ethiopia: Malaria Wreaks Havoc in Conflict-Hit Western Oromia",
+      "description": "[Addis Standard] Addis Abeba -- Ongoing malaria outbreak, in conflict ravaged Western Oromia, particularly in the West Wollega and Kellem Wollega zones, has already caused significant harm on human lives including children, sources told Addis Standard. Despit\u2026",
+      "url": "https://allafrica.com/stories/202310190059.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-19 07:08:14",
+      "content": "Addis Abeba \u2014 Ongoing malaria outbreak, in conflict ravaged Western Oromia, particularly in the West Wollega and Kellem Wollega zones, has already caused significant harm on human lives including chi\u2026 [+6687 chars]",
+      "retrievedAt": "2023-10-20 19:05:22.528061",
+      "internal_id": "63d5945e82e4cc202ac5a2e31f6f72a326878aeedb7bdef7e216a9278138eb17",
+      "publishedAtLabel": "Oct 19"
+    },
     {
       "id": 2613,
       "query": [
@@ -3399,222 +3615,6 @@
       "retrievedAt": "2023-10-10 19:05:15.307227",
       "internal_id": "ca474e5334df5834fa7273566cb921359ee260ae421c54a5519790763cfa2372",
       "publishedAtLabel": "Oct 9"
-    },
-    {
-      "id": 2430,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Aumentano casi di febbre dengue in Bangladesh",
-      "description": "epa10908675 People receive treatment for dengue fever at Mugda Medical College and Hospital in Dhaka, Bangladesh, 09 October 2023. (ANSA)",
-      "url": "https://www.ansa.it/sito/photogallery/moda/2023/10/09/aumentano-casi-di-febbre-dengue-in-bangladesh_db43ed21-4423-4fa2-9a9c-335cd3cde711.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/9/bc22ee2065fb6f64e7927652242758c0.jpg",
-      "publishedAt": "2023-10-09 09:01:34",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2023-10-10 19:05:15.304447",
-      "internal_id": "1b86273717cf1a42a96a9f3089ce5fab0a8b7d1a31b833405731400b3c4707a2",
-      "publishedAtLabel": "Oct 9"
-    },
-    {
-      "id": 2433,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Aumentano casi di febbre dengue in Bangladesh",
-      "description": "epa10908675 People receive treatment for dengue fever at Mugda Medical College and Hospital in Dhaka, Bangladesh, 09 October 2023. (ANSA)",
-      "url": "https://www.ansa.it/sito/photogallery/sport/2023/10/09/aumentano-casi-di-febbre-dengue-in-bangladesh_a1c332fd-0756-40f0-9458-6014260de03c.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/9/bc22ee2065fb6f64e7927652242758c0.jpg",
-      "publishedAt": "2023-10-09 09:01:33",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2023-10-10 19:05:15.315220",
-      "internal_id": "1b675a54e46129fc774e6b11602b235b184d47872d1a80fca8aa22a36d6333c1",
-      "publishedAtLabel": "Oct 9"
-    },
-    {
-      "id": 2432,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Aumentano casi di febbre dengue in Bangladesh",
-      "description": "epa10908675 People receive treatment for dengue fever at Mugda Medical College and Hospital in Dhaka, Bangladesh, 09 October 2023. (ANSA)",
-      "url": "https://www.ansa.it/sito/photogallery/primopiano/2023/10/09/aumentano-casi-di-febbre-dengue-in-bangladesh_5f2742d0-625e-4085-b1c4-8096e561bb96.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/9/bc22ee2065fb6f64e7927652242758c0.jpg",
-      "publishedAt": "2023-10-09 09:01:30",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2023-10-10 19:05:15.312007",
-      "internal_id": "fd69b54e5df5702f42ea5840d3831641e04d7719b4a75fa195192b4676b1fca8",
-      "publishedAtLabel": "Oct 9"
-    },
-    {
-      "id": 2429,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "ZAZALI MUSA",
-      "title": "Johor records 218% increase in dengue cases up to ME40 over last year",
-      "description": "JOHOR BARU: The number of cumulative dengue cases in Johor for epidemiological week 40 (ME40), Oct 1 to 7, went up to 7,994 cases compared with 2,518 in the corresponding period last year. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/09/johor-records-218-increase-in-dengue-cases-up-to-me40-over-last-year",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/09/2326656.jpg",
-      "publishedAt": "2023-10-09 08:28:00",
-      "content": "JOHOR BARU: The number of cumulative dengue cases in Johor for epidemiological week 40 (ME40), Oct 1 to 7, went up to 7,994 cases compared with 2,518 in the corresponding period last year. This repr\u2026 [+1916 chars]",
-      "retrievedAt": "2023-10-10 19:05:15.301439",
-      "internal_id": "acc475214c7e92fe64dff14e4b6eac65f37983bb48ac09a2b4683ab6b8a50606",
-      "publishedAtLabel": "Oct 9"
-    },
-    {
-      "id": 2415,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ANI",
-      "title": "Shubman Gill likely to skip match against Afghanistan, will travel with team to Delhi: Source",
-      "description": "Indian opener Subhman Gill, who missed the opening match of the ODI World Cup due to dengue, is recovering and will be traveling with the team to Delhi. However, his participation in the game against Afghanistan will depend on his next medical report. In Indi\u2026",
-      "url": "https://economictimes.indiatimes.com/news/sports/shubman-gill-likely-to-skip-match-against-afghanistan-will-travel-with-team-to-delhi-source/articleshow/104276029.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104276315,width-1200,height-630,imgsize-80744,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-09 06:23:21",
-      "content": "Team India's opener Subhman Gill is recovering fast from Dengue, the batsman missed the opener of the ODI World Cup and now he could miss the game against Afghanistan also as he is in the mode of rec\u2026 [+1991 chars]",
-      "retrievedAt": "2023-10-10 07:05:40.123885",
-      "internal_id": "45f8f6a5a966df109e7c25012b7d64415ac875a737f841492895703c364bfd09",
-      "publishedAtLabel": "Oct 9"
-    },
-    {
-      "id": 2455,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Bacolod: NegOcc dengue cases trending down despite 10 deaths",
-      "description": "Bacolod City \u2013 Dengue cases in Negros Occidental, including highly urbanized Bacolod City, still on a downward trend, but 10 deaths were recorded as of September 30. The Provincial Health Office reported a decrease of dengue cases to 1,158, from January to Se\u2026",
-      "url": "https://rpnradio.com/bacolod-negocc-dengue-cases-trending-down-despite-10-deaths/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/10/dengue-cases-trending-down.jpg",
-      "publishedAt": "2023-10-09 00:33:21",
-      "content": "Bacolod City \u2013 Dengue cases in Negros Occidental, including highly urbanized Bacolod City, still on a downward trend, but 10 deaths were recorded as of September 30. The Provincial Health Office rep\u2026 [+970 chars]",
-      "retrievedAt": "2023-10-11 07:05:52.915529",
-      "internal_id": "358730197a7e22b5254e004f0a2b1ef156547369a613a53b71b0da0f8c0457c3",
-      "publishedAtLabel": "Oct 9"
-    },
-    {
-      "id": 2414,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "M. Albert Hern\u00e1ndez",
-      "title": "Dengue en Tabasco: alertan por ocho muertes",
-      "description": "La Secretar\u00eda de Salud de Tabasco confirm\u00f3 m\u00e1s de 930 casos de dengue y hay m\u00e1s de 7 mil probables a\u00fan en estudio.",
-      "url": "https://www.elfinanciero.com.mx/estados/2023/10/08/dengue-en-tabasco-alertan-por-ocho-muertes/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/fjqLpcOJMkA4Ug6IXRwGOSX66hE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FQGTRZU63BFNRLWH6DV6ZRIZPY.jpg",
-      "publishedAt": "2023-10-08 23:40:52",
-      "content": "Tabasco enfrenta una emergencia epidemiol\u00f3gica en el estado debido al brote de dengue que ha afectado a la regi\u00f3n en las \u00faltimas semanas y que podr\u00eda agravarse con la temporada de lluvias. La Secret\u2026 [+2093 chars]",
-      "retrievedAt": "2023-10-10 07:05:40.099517",
-      "internal_id": "86a1c28addb2f3d4917a3b65d27c4249089bc89c6c66310ca2f5cf50b07f7d68",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2413,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Wolbachia-infected mozzies to the rescue",
-      "description": "MELAKA: The state Health Department will release mosquitoes infected with Wolbachia in more areas, especially in Melaka Tengah, in stages in an effort to reduce dengue cases. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/09/wolbachia-infected-mozzies-to-the-rescue",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/09/2325888.jpg",
-      "publishedAt": "2023-10-08 23:00:00",
-      "content": "MELAKA: The state Health Department will release mosquitoes infected with Wolbachia in more areas, especially in Melaka Tengah, in stages in an effort to reduce dengue cases. Its director Datuk Dr R\u2026 [+890 chars]",
-      "retrievedAt": "2023-10-10 07:05:40.083423",
-      "internal_id": "29e84f28d8d5d4ef2a17fa1092e48f082250896b2cbf2fd3b71ef82bc266a27d",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2406,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Training program on snake bite control and rabies eradication conducted in Tezpur",
-      "description": "HT Correspondent TEZPUR, Oct 8: The SBCP (Snakebite Control Program), NRCP (National Rabies Control Program), and the Sonitpur District Health Society jointly organized a daylong training program for medical officers on \u2018Emergency Management and Treatment of \u2026",
-      "url": "https://thehillstimes.in/assam/training-program-on-snake-bite-control-and-rabies-eradication-conducted-in-tezpur",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/Training-program-on-snake-bite-control-and-rabies-eradication-conducted-in-Tezpur.jpg",
-      "publishedAt": "2023-10-08 18:57:55",
-      "content": "HT Correspondent TEZPUR, Oct 8: The SBCP (Snakebite Control Program), NRCP (National Rabies Control Program), and the Sonitpur District Health Society jointly organized a daylong training program fo\u2026 [+1711 chars]",
-      "retrievedAt": "2023-10-09 19:05:29.506088",
-      "internal_id": "24d3dade6b142f3d67f0becb47740756828d232a75c69c7b31838366bcb800f5",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2409,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Elmercurio.com.ec",
-      "author": "Nancy Negrete",
-      "title": "La epidemia de dengue causa seis muertos en Martinica, entre ellos un ni\u00f1o de 9 a\u00f1os",
-      "description": "San Juan.- La isla caribe\u00f1a de Martinica, una regi\u00f3n de ultramar francesa, ha registrado seis muertes por dengue desde que comenz\u00f3 una epidemia de esta enfermedad transmitida por mosquitos a finales del pasado agosto. Seg\u00fan informaron este domingo las autorid\u2026",
-      "url": "https://elmercurio.com.ec/2023/10/08/la-epidemia-de-dengue-causa-seis-muertos-en-martinica-entre-ellos-un-nino-de-9-anos/",
-      "urlToImage": null,
-      "publishedAt": "2023-10-08 18:49:22",
-      "content": "San Juan.- La isla caribe\u00f1a de Martinica, una regi\u00f3n de ultramar francesa, ha registrado seis muertes por dengue desde que comenz\u00f3 una epidemia de esta enfermedad transmitida por mosquitos a finales \u2026 [+1174 chars]",
-      "retrievedAt": "2023-10-09 19:05:30.348631",
-      "internal_id": "cf1dffd5e2b868733de17f30ed397637074abb763e201d3133b13e9164feaa7d",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2418,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Stvincenttimes.com",
-      "author": "Lee Yan Lasur",
-      "title": "Barbados dengue fever outbreak confirmed by the Islands Health Ministry",
-      "description": "Barbados' Ministry of Health and Wellness has verified a dengue disease outbreak. Dr Kenneth George, Chief Medical Offic",
-      "url": "https://www.stvincenttimes.com/barbados-dengue-fever-outbreak-confirmed-by-the-islands-health-ministry/",
-      "urlToImage": "https://www.stvincenttimes.com/wp-content/uploads/2021/11/dengue.jpg",
-      "publishedAt": "2023-10-08 14:24:39",
-      "content": "Barbados\u2019 Ministry of Health and Wellness has verified a dengue disease outbreak. Dr Kenneth George, Chief Medical Officer, revealed that the threshold was surpassed at the end of September, when 51\u2026 [+1849 chars]",
-      "retrievedAt": "2023-10-10 07:05:40.144583",
-      "internal_id": "556d6bf973477e3fd30cd5a21c81ea275a1bf7bba0f3a6f7bf07ae6c9eba0887",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2410,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: Dengue - Why Is This Sometimes Fatal Disease Increasing Around the World?",
-      "description": "[The Conversation Africa] Something unusual seems to be happening with dengue, a potentially fatal mosquito-borne viral disease found across swathes of tropical Africa, Asia and the Americas. As with most infectious diseases, the number of cases tends to rise\u2026",
-      "url": "https://allafrica.com/stories/202310080061.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-08 14:17:50",
-      "content": "Something unusual seems to be happening with dengue, a potentially fatal mosquito-borne viral disease found across swathes of tropical Africa, Asia and the Americas. As with most infectious diseases,\u2026 [+4561 chars]",
-      "retrievedAt": "2023-10-09 19:05:30.376091",
-      "internal_id": "f1e55276c4fa6cb12e297066c320ddd451cfa627160f61fd6ad3007aa7387b88",
-      "publishedAtLabel": "Oct 8"
     }
   ]
 }
