@@ -1,8 +1,100 @@
 {
-  "last_updated": "2023-10-19 19:05",
+  "last_updated": "2023-10-20 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 13,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 2613,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Dengue: \u201cprimo\u201d do Aedes aegypti \u00e9 respons\u00e1vel por alta dos casos no Brasil",
+      "description": "A chegada do mosquito Aedes albopictus ao Brasil tem rela\u00e7\u00e3o com o aquecimento global e deixa as autoridades sanit\u00e1rias em alerta O post Dengue: \u201cprimo\u201d do Aedes aegypti \u00e9 respons\u00e1vel por alta dos casos no Brasil apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/10/19/medicina-e-saude/dengue-primo-do-aedes-aegypti-e-responsavel-por-alta-dos-casos-no-brasil/",
+      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/10/Aedes-albopictus-1-1.jpg",
+      "publishedAt": "2023-10-19 06:00:00",
+      "content": "A dengue, infelizmente, j\u00c3\u00a1 \u00c3\u00a9 uma conhecida do Brasil. Mas agora, al\u00c3\u00a9m do mosquito Aedes aegypti, a presen\u00c3\u00a7a do \u00e2\u0080\u009cprimo\u00e2\u0080\u009d dele, o Aedes\u00c2 albopictus, preocupa as autoridades brasileiras. Leia ma\u2026 [+1817 chars]",
+      "retrievedAt": "2023-10-20 07:05:40.684381",
+      "internal_id": "55f0bb850066f6a724a72432a83e8dc69b49e6fee6a416bada6b34f4bf048023",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2617,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Vietnamplus.vn",
+      "author": "VNA",
+      "title": "Australia hands over malariamolecular identification equipment to Vietnam",
+      "description": "The Australian Department of Defence handed over the HumaLoop LAMP system, which uses the molecular biology technique to diagnoses malaria parasites, to the Military Institute of Preventive Medicine under the Department of Military Medicine on October 18.",
+      "url": "https://en.vietnamplus.vn/australia-hands-over-malariamolecular-identification-equipment-to-vietnam/269863.vnp",
+      "urlToImage": null,
+      "publishedAt": "2023-10-19 04:34:00",
+      "content": "Hanoi (VNA) The Australian Department of Defence handed over the HumaLoop LAMP system, which uses the molecular biology technique to diagnoses malaria parasites, to the Military Institute of Preventi\u2026 [+2002 chars]",
+      "retrievedAt": "2023-10-20 07:05:41.376931",
+      "internal_id": "01210cf3adaafc25411ba42a24bb2abf3a5d996d818e05afdfc3fe3ad9e06197",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2614,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "UP CM Yogi Adityanath reviews status of medical colleges, efforts to prevent dengue in state",
+      "description": "Uttar Pradesh Chief Minister Yogi Adityanath reviewed the implementation of the Ayushman Bharat Scheme, the status of medical colleges under construction, and efforts to prevent dengue in the state. Adityanath emphasized the need for additional beds in hospit\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/up-cm-yogi-adityanath-reviews-status-of-medical-colleges-efforts-to-prevent-dengue-in-state/articleshow/104542750.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104542833,width-1070,height-580,imgsize-24902,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-19 04:10:49",
+      "content": "Offbeat Himachal getaways for Dussehra long weekend",
+      "retrievedAt": "2023-10-20 07:05:40.700023",
+      "internal_id": "912081f63b594be4361cd4d1a8a865640b5f7fabfd25eb9875ee02fea2673497",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2618,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Tecovirimat Resistance in Mpox Patients, United States, 2022\u20132023",
+      "description": "Tecovirimat Resistance in Mpox Patients",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/12/23-1146_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-10-19 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.In May 2022, an outbreak o\u2026 [+14441 chars]",
+      "retrievedAt": "2023-10-20 07:05:42.115352",
+      "internal_id": "e5cb6177a9b13550e18fc1df3ebddbb0e707b5ed11cb6e16557bbbed72905bf9",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2615,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Sumitra Debroy",
+      "title": "Juhu, Andheri emerge hotspots of dengue, malaria cases in city",
+      "description": "The K West ward in Mumbai, which covers areas like Andheri, Vile Parle, and Juhu, has been identified as a hotspot for dengue, malaria, and chikungunya cases. The state government has called for a thorough investigation into the reasons behind this concentrat\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/juhu-andheri-emerge-hotspots-of-dengue-malaria-cases-in-city/articleshow/104538814.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104538822,width-1070,height-580,imgsize-985377,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-18 23:12:38",
+      "content": "Offbeat Himachal getaways for Dussehra long weekend",
+      "retrievedAt": "2023-10-20 07:05:40.711778",
+      "internal_id": "0b1da2571a794dbcd926e3257b3d335a4ed5f3e64cdfec732fc4e634a7c7241c",
+      "publishedAtLabel": "Oct 18"
+    },
     {
       "id": 2601,
       "query": [
@@ -55,6 +147,24 @@
       "content": "Le moustique tigre sinstalle en Europe: faut-il avoir peur de la dengue?Les Antilles sont en phase \u00e9pid\u00e9mique depuis la mi-ao\u00fbt. Entre le 28 ao\u00fbt et le 3 septembre, l'agence Sant\u00e9 publique France a e\u2026 [+1280 chars]",
       "retrievedAt": "2023-10-19 19:05:24.470284",
       "internal_id": "03860bc4ef797d959757d38b552ae859fcfd61d3a9770880153021f9095159bf",
+      "publishedAtLabel": "Oct 18"
+    },
+    {
+      "id": 2616,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "AI identifies antimalarial drug as possible osteoporosis treatment",
+      "description": "Artificial intelligence has exploded in popularity and is being harnessed by some scientists to predict which molecules could treat illnesses, or to quickly screen existing medicines for new applications. Researchers have used one such deep learning algorithm\u2026",
+      "url": "https://www.sciencedaily.com/releases/2023/10/231018115637.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-10-18 15:56:37",
+      "content": "Artificial intelligence has exploded in popularity and is being harnessed by some scientists to predict which molecules could treat illnesses, or to quickly screen existing medicines for new applicat\u2026 [+2916 chars]",
+      "retrievedAt": "2023-10-20 07:05:41.367023",
+      "internal_id": "423420bb96e8afde4b1bf7b1cb80921969b9b79a21769108718bf5a905cf3680",
       "publishedAtLabel": "Oct 18"
     },
     {
@@ -3504,114 +3614,6 @@
       "content": "Something unusual seems to be happening with dengue, a potentially fatal mosquito-borne viral disease found across swathes of tropical Africa, Asia and the Americas. As with most infectious diseases,\u2026 [+4561 chars]",
       "retrievedAt": "2023-10-09 19:05:30.376091",
       "internal_id": "f1e55276c4fa6cb12e297066c320ddd451cfa627160f61fd6ad3007aa7387b88",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2412,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "http://www.facebook.com/bbcnews",
-      "title": "\u0425\u0432\u043e\u0440\u043e\u0431\u0438, \u0443\u0440\u0430\u0433\u0430\u043d\u0438 \u0456 \u0441\u043c\u0435\u0440\u0442\u044c. \u0427\u043e\u043c\u0443 \u044f\u0432\u0438\u0449\u0430, \u044f\u043a\u0456 \u043d\u0430\u0441 \u043b\u044f\u043a\u0430\u044e\u0442\u044c, \u0441\u0442\u0430\u044e\u0442\u044c \u201c\u043b\u044e\u0434\u044c\u043c\u0438\u201d",
-      "description": "\u041d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e \u0432\u0456\u0434 \u0442\u043e\u0433\u043e, \u043a\u0440\u0438\u0447\u0438\u043c\u043e \u043c\u0438 \u043d\u0430 \u0441\u0432\u043e\u0457 \u043d\u043e\u0443\u0442\u0431\u0443\u043a\u0438, \u0443\u043d\u0438\u043a\u0430\u0454\u043c\u043e \u043f\u0430\u043d\u0430 \u041a\u043e\u0440\u043e\u043d\u0430\u0432\u0456\u0440\u0443\u0441\u0430, \u0431\u043e\u0457\u043c\u043e\u0441\u044f \u0442\u0440\u043e\u043f\u0456\u0447\u043d\u043e\u0433\u043e \u0448\u0442\u043e\u0440\u043c\u0443 \u041c\u0430\u0440\u0433\u043e \u0447\u0438 \u0434\u044f\u043a\u0443\u0454\u043c\u043e \u043f\u0430\u043d\u0456 \u0423\u0434\u0430\u0447\u0456, \u0437\u0434\u0430\u0454\u0442\u044c\u0441\u044f, \u043b\u044e\u0434\u0438 \u043d\u0435 \u043c\u043e\u0436\u0443\u0442\u044c \u043d\u0435 \u043d\u0430\u0441\u0435\u043b\u044f\u0442\u0438 \u0441\u0432\u0456\u0442 \u0443\u044f\u0432\u043d\u0438\u043c\u0438 \u0456\u0441\u0442\u043e\u0442\u0430\u043c\u0438, \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u043c\u0438 \u0437\u0430 \u0441\u0432\u043e\u0454\u044e \u043f\u043e\u0434\u043e\u0431\u043e\u044e.",
-      "url": "https://www.bbc.com/ukrainian/articles/c25qnqpllw2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_ukrainian/af9c/live/871b1200-5ed4-11ee-954a-413268577267.jpg",
-      "publishedAt": "2023-10-08 13:58:58",
-      "content": ", Getty Images Article informationAuthor, Role, BBC Future , ? , , . 14 , , , Yersinia pestis, . , , . , . - , , . , , \" \". , . . , , . , , , . ,\u2026 [+809 chars]",
-      "retrievedAt": "2023-10-09 19:05:33.218412",
-      "internal_id": "5d0e47d23e61c77ad343e811d794da47e2151126bcab3893aa2ca5a9c6e6405b",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2416,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Moneycontrol",
-      "author": "Hindi.Moneycontrol.com Team, Moneycontrol Hindi",
-      "title": "Dengue: \u092a\u092a\u0940\u0924\u093e \u0915\u093e \u092b\u0932 \u0928\u0939\u0940\u0902 \u092a\u0924\u094d\u0924\u094b\u0902 \u0938\u0947 \u0921\u0947\u0902\u0917\u0942 \u092d\u0917\u093e\u090f\u0902, \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c\u0947\u0902\u0917\u0940 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938, \u091c\u093e\u0928\u093f\u090f \u0915\u0948\u0938\u0947 \u0915\u0930\u0947\u0902 \u0938\u0947\u0935\u0928",
-      "description": "Dengue: \u0926\u093f\u0932\u094d\u0932\u0940- NCR \u0938\u092e\u0947\u0924 \u0926\u0947\u0936 \u0915\u0947 \u0915\u0908 \u0907\u0932\u093e\u0915\u094b\u0902 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0940 \u0932\u0939\u0930 \u091a\u0932 \u0930\u0939\u0940 \u0939\u0948\u0964 \u090f\u0921\u0940\u091c \u092e\u091a\u094d\u091b\u0930 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u0938\u0947 \u0921\u0947\u0902\u0917\u0942 \u092c\u0941\u0916\u093e\u0930 (dengue fever) \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u0924\u0947\u091c\u0940 \u0938\u0947 \u092c\u0922\u093c \u0930\u0939\u0947 \u0939\u0948\u0902\u0964 \u0921\u0947\u0902\u0917\u0942 \u090f\u0915 \u0917\u0902\u092d\u0940\u0930 \u0935\u093e\u092f\u0930\u0932 \u092c\u0940\u092e\u093e\u0930\u0940 \u0939\u0948\u0964 \u091c\u093f\u0938\u0938\u0947 \u0939\u0930 \u0938\u093e\u0932 \u092d\u093e\u0930\u0924 \u092e\u0947\u0902 \u0939\u091c\u093e\u0930\u094b\u0902 \u0932\u094b\u0917 \u092a\u094d\u0930\u092d\u093e\u0935\u093f\u0924 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964 \u091c\u092c \u092d\u0940 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u092a\u094d\u0930\u0915\u094b\u092a \u092b\u0948\u0932\u2026",
-      "url": "https://hindi.moneycontrol.com/news/india/trends/dengue-papaya-leaves-increase-platelets-fever-patient-know-how-to-consume-it-1532221.html",
-      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2023/10/papayaLeaf-637x435.jpg",
-      "publishedAt": "2023-10-08 10:35:15",
-      "content": "Dengue: - NCR (dengue fever) (platelets count) , (how to increase platelets count) - (papain), (chymopapain), (cystatin), - (L-tocopherol), (ascorbic acid), (flavonoids), (cyanogenic glucosides)\u2026 [+63 chars]",
-      "retrievedAt": "2023-10-10 07:05:40.137998",
-      "internal_id": "84f446617404b253ea3fe86b541ac7163c7d7d1760ae12f7e0fe852f06ee8c30",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2423,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "PTI",
-      "title": "Cricket World Cup 2023: Australia opt to bat against India; Ishan Kishan replaces Gill",
-      "description": "Cummins won the toss and chose to bat first in the World Cup opener between India and Australia. Shubman Gill was replaced by Ishan Kishan due to dengue. India: Rohit Sharma (c), Ishan Kishan, Virat Kohli, Shreyas Iyer, KL Rahul (wk), Hardik Pandya, Ravindra \u2026",
-      "url": "https://www.thehindubusinessline.com/news/sports/cricket-world-cup-2023-australia-opt-to-bat-against-india-ishan-kishan-replaces-gill/article67395739.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/gr1u9p/article67395743.ece/alternates/LANDSCAPE_1200/image%20-%202023-10-08T142253.310.jpg",
-      "publishedAt": "2023-10-08 08:57:52",
-      "content": "Australia captain Pat Cummins opted to bat first against India after winning the toss in their World Cup opener here on Sunday. Talented India opener Shubman Gill, who is down with dengue, could no\u2026 [+604 chars]",
-      "retrievedAt": "2023-10-10 07:05:40.155651",
-      "internal_id": "1051afc091703b59da6581207bfcd7c63f3c65804ddd9f23ca576d6487a329a7",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2411,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Melaka to release Wolbachia-infected mosquitoes in more areas",
-      "description": "MELAKA: The Melaka Health Department will release mosquitoes infected with the Wolbachia micro-organism in more areas in the state, especially in Melaka Tengah, in stages in an effort to reduce dengue cases in the state. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/08/melaka-to-release-wolbachia-infected-mosquitoes-in-more-areas",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/08/2325016.jpg",
-      "publishedAt": "2023-10-08 08:47:00",
-      "content": "MELAKA: The Melaka Health Department will release mosquitoes infected with the Wolbachia micro-organism in more areas in the state, especially in Melaka Tengah, in stages in an effort to reduce dengu\u2026 [+1213 chars]",
-      "retrievedAt": "2023-10-09 19:05:30.379972",
-      "internal_id": "d074e3d1e97e423f45b944a38c6651d04766a61a7de9736fd1c7c63c37d6af5a",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2407,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Ratusan Hewan di Kapuas Hulu Dapatkan Vaksin Rabies",
-      "description": "KalbarOnline, Putussibau \u2013 Dinas Pertanian dan Pangan Kabupaten Kapuas Hulu menggelar peringatan The post Ratusan Hewan di Kapuas Hulu Dapatkan Vaksin Rabies appeared first on KalbarOnline.Com.",
-      "url": "https://www.kalbaronline.com/2023/10/08/ratusan-hewan-di-kapuas-hulu-dapatkan-vaksin-rabies/",
-      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/10/IMG-20231008-WA0002.jpg",
-      "publishedAt": "2023-10-08 08:30:13",
-      "content": "KalbarOnline, Putussibau \u2013 Dinas Pertanian dan Pangan Kabupaten Kapuas Hulu menggelar peringatan Hari Rabies Sedunia di Putussibau Utara, Kabupaten Kapuas Hulu, Kalimantan Barat, Sabtu (07/10/2023). \u2026 [+1634 chars]",
-      "retrievedAt": "2023-10-09 19:05:29.515016",
-      "internal_id": "075b8ea18b8d6b5cb8738a2f70952eaa9fb680f83495df6973bbaeff171d6398",
-      "publishedAtLabel": "Oct 8"
-    },
-    {
-      "id": 2408,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Batac: Ilocos Norte LGUs urged to help eradicate rabies",
-      "description": "Ilocos Norte Governor Matthew Joseph Manotoc is urging local government units (LGUs) in the province to contribute to the control and eradication of human and animal rabies incidents. \u201cWe have procured some vaccines (anti-rabies) but at the same time, I hope \u2026",
-      "url": "https://rpnradio.com/batac-ilocos-norte-lgus-urged-to-help-eradicate-rabies/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/10/dog-vax.png",
-      "publishedAt": "2023-10-08 07:40:10",
-      "content": "Ilocos Norte Governor Matthew Joseph Manotoc is urging local government units (LGUs) in the province to contribute to the control and eradication of human and animal rabies incidents. We have procur\u2026 [+2170 chars]",
-      "retrievedAt": "2023-10-09 19:05:29.517159",
-      "internal_id": "02235538576f578938ab7c86d959b9a4ad16663e540ffa83ff39aa17542b86c0",
       "publishedAtLabel": "Oct 8"
     }
   ]
