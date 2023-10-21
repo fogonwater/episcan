@@ -1,8 +1,82 @@
 {
-  "last_updated": "2023-10-20 19:05",
+  "last_updated": "2023-10-21 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 2632,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "India's Gill recovers from dengue to post first World Cup fifty",
+      "description": "PUNE, India : Shubman Gill lost a few kilos during a battle with dengue fever but was back to his best against Bangladesh as he posted his first World Cup fifty to help hosts India keep their perfect record intact at the tournament.The opener was rested from \u2026",
+      "url": "https://www.channelnewsasia.com/sport/indias-gill-recovers-dengue-post-first-world-cup-fifty-3860626",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--_PoSYunx--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-20t052141z_1_lynxmpej9j06s_rtroptp_3_cricket-worldcup-ind-bgd.jpg?itok=Swciz1vT",
+      "publishedAt": "2023-10-20 05:21:41",
+      "content": "PUNE, India : Shubman Gill lost a few kilos during a battle with dengue fever but was back to his best against Bangladesh as he posted his first World Cup fifty to help hosts India keep their perfect\u2026 [+2040 chars]",
+      "retrievedAt": "2023-10-21 07:05:32.632478",
+      "internal_id": "9947711f6ddcce8be0a264d03185d1917af7b226ad62f64de688bc002c8104fa",
+      "publishedAtLabel": "Oct 20"
+    },
+    {
+      "id": 2631,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Gonzalo Jimenez",
+      "title": "Rep\u00fablica Dominicana confirma 11 muertes por dengue y anuncia un nuevo plan contra la enfermedad",
+      "description": "Rep\u00fablica Dominicana ha registrado m\u00e1s de 12.000 casos de dengue y 11 muertes derivadas de esa enfermedad en lo que va del a\u00f1o, confirm\u00f3 el ministro de Salud P\u00fablica, el doctor Daniel Rivera.",
+      "url": "https://cnnespanol.cnn.com/2023/10/20/republica-dominicana-muertes-dengue-nuevo-plan-contra-enfermedad-orix/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2020/03/57b39096ae902_1004x669.jpg?quality=100&strip=info",
+      "publishedAt": "2023-10-20 05:05:26",
+      "content": "Am\u00e9rica Latina, en alerta por brote de dengue 7:34 (CNN Espa\u00f1ol) -- Rep\u00fablica Dominicana ha registrado m\u00e1s de 12.000 casos de dengue y 11 muertes derivadas de esa enfermedad en lo que va del a\u00f1o, co\u2026 [+2357 chars]",
+      "retrievedAt": "2023-10-21 07:05:32.614447",
+      "internal_id": "66cbc263006b7bda9a3a6cb592a3f553d38338acebed34a6c81784dfdfdd0fcb",
+      "publishedAtLabel": "Oct 20"
+    },
+    {
+      "id": 2633,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "A 3rd of group surveyed say kin hit by mosquito menace",
+      "description": "A recent survey conducted by LocalCircles reveals that almost a third of respondents in India have had family members fall ill with mosquito-borne diseases such as malaria, dengue, or chikungunya in the past three years. Although progress has been made in red\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/a-3rd-of-group-surveyed-say-kin-hit-by-mosquito-menace/articleshow/104567003.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104567008,width-1070,height-580,imgsize-1755339,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-19 23:25:46",
+      "content": "Goddess Durga as a kid: AI imagines Maa Durga's free-spirited childhood",
+      "retrievedAt": "2023-10-21 07:05:32.657673",
+      "internal_id": "7001c8298fa5e80c120518c8112a0e18170a6b173db2513f73108f94af3633c4",
+      "publishedAtLabel": "Oct 19"
+    },
+    {
+      "id": 2634,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "Dengue Fever Kills Hundreds in Burkina Faso as Cases Spike",
+      "description": "Burkina Faso's health ministry has declared a dengue fever epidemic amid the deadliest outbreak in years. More than 200 people have died, and new cases are rising sharply. There have been 50,478 suspected cases and 214 deaths of the mosquito-borne illness th\u2026",
+      "url": "https://www.voanews.com/a/dengue-fever-kills-hundreds-in-burkina-faso-as-cases-spike/7318171.html",
+      "urlToImage": "https://gdb.voanews.com/5AC08CB3-9930-4C56-80B7-6733DAA3FB1E.jpg",
+      "publishedAt": "2023-10-19 19:41:29",
+      "content": "OUAGADOUGOU, BURKINA FASO Burkina Faso's health ministry has declared a dengue fever epidemic amid the deadliest outbreak in years. More than 200 people have died, and new cases are rising sharply. \u2026 [+1352 chars]",
+      "retrievedAt": "2023-10-21 07:05:32.662156",
+      "internal_id": "012568acdc32d860d8cac65a2ca22bd0da7bd3f6144ef34c3fba4dde049be737",
+      "publishedAtLabel": "Oct 19"
+    },
     {
       "id": 2624,
       "query": [
@@ -3542,78 +3616,6 @@
       "content": "Though homegrown malaria recently flared in the US, theres no high-income market for this product, says Aur\u00e9lia Nguyen, the chief program officer of Gavi, the Vaccine Alliance, which has made an init\u2026 [+2273 chars]",
       "retrievedAt": "2023-10-10 19:05:15.887897",
       "internal_id": "0a31663ca0781abc48ae75f270e8387c691bff249032505bc0ac58f9d23d6ccf",
-      "publishedAtLabel": "Oct 9"
-    },
-    {
-      "id": 2427,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "India's Gill to miss Afghanistan match",
-      "description": "Shubman Gill will miss India's World Cup meeting with Afghanistan, the country's cricket board (BCCI) said on Monday, as the in-form opener continues his recovery from dengue fever.Gill is the leading run-scorer in one-day internationals this year and has for\u2026",
-      "url": "https://www.channelnewsasia.com/sport/indias-gill-miss-afghanistan-match-3832256",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--bWXHnKtb--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-09t103202z_2_lynxmpej980c7_rtroptp_3_cricket-worldcup-ind-aus.jpg?itok=da4xpOYx",
-      "publishedAt": "2023-10-09 10:32:02",
-      "content": "Shubman Gill will miss India's World Cup meeting with Afghanistan, the country's cricket board (BCCI) said on Monday, as the in-form opener continues his recovery from dengue fever. Gill is the lead\u2026 [+580 chars]",
-      "retrievedAt": "2023-10-10 19:05:15.259273",
-      "internal_id": "bd09acfc235af9bf6ff84f479ffec6fc637b7b274a1477e647b852b8e6d79b8e",
-      "publishedAtLabel": "Oct 9"
-    },
-    {
-      "id": 2428,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Sports Desk",
-      "title": "ODI WC: Shubman Gill to miss match against Afghanistan",
-      "description": "Having already missed the opening World Cup match against Australia in Chennai on Sunday due to dengue fever, India's opener Subhman Gill will remain unavailable for the team's next game against Afghanistan, confirmed BCCI.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-shubman-gill-to-miss-match-against-afghanistan/articleshow/104283493.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104283510,width-1070,height-580,imgsize-45228,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-09 10:15:10",
-      "content": "IND VS AUS World Cup Thriller: Kohli-Rahul's record 4th wicket partnership powers India to 6 wicket victory",
-      "retrievedAt": "2023-10-10 19:05:15.294786",
-      "internal_id": "e14da611a0e776362d50dcf70f5e7448b83fba978e54b186c3158d529c7263af",
-      "publishedAtLabel": "Oct 9"
-    },
-    {
-      "id": 2426,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "espn-cric-info",
-      "source_name": "ESPN Cric Info",
-      "author": "ESPNcricinfo staff",
-      "title": "Shubman Gill to miss Afghanistan game as well",
-      "description": "The opener is recovering from a bout of dengue and will not travel to Delhi with the team",
-      "url": "https://www.espncricinfo.com/story/shubman-gill-to-miss-afghanistan-game-as-well-1402086",
-      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/367700/367703.9.jpg",
-      "publishedAt": "2023-10-09 10:05:11",
-      "content": "Shubman Gill is recovering from a bout of dengue \u2022 AFP/Getty Images",
-      "retrievedAt": "2023-10-10 19:05:15.245588",
-      "internal_id": "3d55061101f8f6d241336d76b92111f5c5be236f50d3d1d507bae5beb00ec2de",
-      "publishedAtLabel": "Oct 9"
-    },
-    {
-      "id": 2431,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Aumentano casi di febbre dengue in Bangladesh",
-      "description": "epa10908675 People receive treatment for dengue fever at Mugda Medical College and Hospital in Dhaka, Bangladesh, 09 October 2023. (ANSA)",
-      "url": "https://www.ansa.it/sito/photogallery/curiosita/2023/10/09/aumentano-casi-di-febbre-dengue-in-bangladesh_af9816ae-66ea-4bd0-8b08-580e9d842007.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/9/bc22ee2065fb6f64e7927652242758c0.jpg",
-      "publishedAt": "2023-10-09 09:01:36",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2023-10-10 19:05:15.307227",
-      "internal_id": "ca474e5334df5834fa7273566cb921359ee260ae421c54a5519790763cfa2372",
       "publishedAtLabel": "Oct 9"
     }
   ]
