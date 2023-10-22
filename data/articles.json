@@ -1,8 +1,190 @@
 {
-  "last_updated": "2023-10-22 07:05",
+  "last_updated": "2023-10-22 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 2665,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Cientistas infectam volunt\u00e1rios com Zika, em busca de vacinas e tratamentos",
+      "description": "Pesquisadores nos Estados Unidos demonstraram pela primeira vez que conseguem, de maneira segura ...",
+      "url": "https://www.terra.com.br/noticias/mundo/cientistas-infectam-voluntarios-com-zika-em-busca-de-vacinas-e-tratamentos,aafdc2bc57ff2adc6afc0deb728c9526ur0s4gi6.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2023-10-21 18:43:33",
+      "content": "Pesquisadores nos Estados Unidos demonstraram pela primeira vez que conseguem, de maneira segura e efetiva, infectar volunt\u00e1rios humanos com o v\u00edrus Zika, um passo \u00e0 frente para aprender mais sobre a\u2026 [+2261 chars]",
+      "retrievedAt": "2023-10-22 19:05:26.948158",
+      "internal_id": "91ea216cf67190d01e7c51cb0f3ec43d48ce99c77592cb14b79270bce04631c7",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 2666,
+      "query": [
+        "zika"
+      ],
+      "source_id": "reuters",
+      "source_name": "Reuters",
+      "author": "Jennifer Rigby",
+      "title": "Scientists infect volunteers with Zika in hunt for vaccines, treatments",
+      "description": "Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step towards learning more about the disease and developing vaccines and treatments.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-infect-volunteers-with-zika-hunt-vaccines-treatments-2023-10-21/",
+      "urlToImage": "https://www.reuters.com/resizer/JufWcS3hY6qimvnfwBAX40Bm6kg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O46RG2OBXRMONO245N5KDDZMRI.jpg",
+      "publishedAt": "2023-10-21 18:10:45",
+      "content": "Oct 21 (Reuters) - Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step towards learning more about the disea\u2026 [+2881 chars]",
+      "retrievedAt": "2023-10-22 19:05:26.954725",
+      "internal_id": "95f33573cfded18bfe9876ba03650ace7d5e22118755f3b5f65ce23c2f3d18b5",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 2661,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "'Extremely rare' case of dengue virus found in California - Fox News",
+      "description": "'Extremely rare' case of dengue virus found in CaliforniaFox News Extremely rare case of dengue confirmed in PasadenaKTLA Los Angeles Rare case of mosquito-borne dengue diagnosed in PasadenaLos Angeles Times Rare case of locally-acquired dengue confirmed in S\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172065499",
+      "urlToImage": null,
+      "publishedAt": "2023-10-21 17:12:46",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-22 19:05:25.924901",
+      "internal_id": "da281dfecaf33aeafc3f512c471c48b1c59108d645209da11a14c1ad37f76774",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 2664,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Scientists infect volunteers with Zika in hunt for vaccines, treatments",
+      "description": "Researchers at the Johns Hopkins Bloomberg School of Public Health have successfully infected human volunteers with the Zika virus in a controlled environment. This study, approved by US regulators and the World Health Organization, aims to gain a better unde\u2026",
+      "url": "https://timesofindia.indiatimes.com/home/science/scientists-infect-volunteers-with-zika-in-hunt-for-vaccines-treatments/articleshow/104614227.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104614252,width-1070,height-580,imgsize-985889,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-21 16:52:30",
+      "content": "News Scientists infect volunteers with Zika in hunt for vaccines, treatments Researchers at the Johns Hopkins Bloomberg School of Public Health have successfully infected\u2026 [+450 chars]",
+      "retrievedAt": "2023-10-22 19:05:26.944816",
+      "internal_id": "6cf07593cc77f2f9a4c96713a56b39a163fa61a86b9efdecf7a10bb57464c273",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 2663,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "Scientists infect volunteers with Zika in hunt for vaccines, treatments",
+      "description": "Scientists infect volunteers with Zika in hunt for vaccines, treatments",
+      "url": "https://www.investing.com/news/world-news/scientists-infect-volunteers-with-zika-in-hunt-for-vaccines-treatments-3204882",
+      "urlToImage": "https://i-invdn-com.investing.com/news/news_headline_open_108x81._800x533_L_1419519630.jpg",
+      "publishedAt": "2023-10-21 16:25:38",
+      "content": "By Jennifer Rigby (Reuters) - Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step towards learning more abo\u2026 [+2289 chars]",
+      "retrievedAt": "2023-10-22 19:05:26.941028",
+      "internal_id": "f32c67d5bddaf68d70f01c9c55352b81f5f931e7806a037af60c254124f5c0f7",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 2660,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Chris Eberhart",
+      "title": "'Extremely rare' case of dengue virus found in California",
+      "description": "The first locally acquired case of dengue virus, also known as \"break-bone fever\" because of the pain, was confirmed in a Pasadena, California, resident this week.",
+      "url": "https://www.foxnews.com/us/extremely-rare-case-dengue-virus-found-california",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/mosquito-on-skin.jpg",
+      "publishedAt": "2023-10-21 15:25:35",
+      "content": "The first locally acquired case of dengue virus often referred to as \"break-bone fever\" was contracted by a resident in Pasadena, California, public health officials said Friday. This is the first l\u2026 [+2552 chars]",
+      "retrievedAt": "2023-10-22 19:05:25.921820",
+      "internal_id": "d52db05646b4520b76e47e2788df77db531399096830c6cf290c139d41cd29c8",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 2659,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Levif.be",
+      "author": "Muriel Lefevre",
+      "title": "Escargots d\u2019eau douce : ils causent la mort de 200.000 personnes par an",
+      "description": "Personne n'ignore que le moustique est l'animal le plus mortel pour l'homme. Peu savent en revanche qu'un escargot fait lui aussi un nombre impressionnant de victimes. The post Escargots d\u2019eau douce : ils causent la mort de 200.000 personnes par an appeared f\u2026",
+      "url": "https://www.levif.be/societe/sante/escargots-ils-causent-la-mort-de-plus-de-200-000-personnes-par-an/",
+      "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/3883152/7016d3ce2688deee3230b68ec270a490-jpg.jpg",
+      "publishedAt": "2023-10-21 14:35:05",
+      "content": "Avec les maladies qu\u2019il entra\u00eene (malaria, dengue, zika\u2026), le moustique est l\u2019animal le plus mortel pour l\u2019homme. Mais l\u2019escargot d\u2019eau douce est lui aussi mortel et fait un nombre impressionnant de \u2026 [+5013 chars]",
+      "retrievedAt": "2023-10-22 19:05:25.916401",
+      "internal_id": "2b69e12443fc32fc177057108188946be1d9b2a6e02744abf08dc77a4f618643",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 2658,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "Une flamb\u00e9e de dengue d\u00e9clar\u00e9e au Burkina Faso, plus de 200 morts",
+      "description": "Le Burkina Faso enregistre une hausse inqui\u00e9tante de cas de dengue, infection virale caus\u00e9e par des moustiques: 214 personnes sont mortes, plus de 50.000 cas suspects ont \u00e9t\u00e9 signal\u00e9s d\u00e8s le d\u00e9but de l\u2019ann\u00e9e. Pour ma\u00eetriser la situation, les autorit\u00e9s organis\u2026",
+      "url": "https://fr.sputniknews.africa/20231021/une-flambee-de-dengue-declaree-au-burkina-faso-plus-de-200-morts-1062979929.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1062979929.jpg?10626405641697897929",
+      "publishedAt": "2023-10-21 14:18:48",
+      "content": "https://fr.sputniknews.africa/20231021/une-flambee-de-dengue-declaree-au-burkina-faso-plus-de-200-morts-1062979929.html Une flamb\u00e9e de dengue d\u00e9clar\u00e9e au Burkina Faso, plus de 200 morts Une flamb\u00e9e\u2026 [+3872 chars]",
+      "retrievedAt": "2023-10-22 19:05:25.896073",
+      "internal_id": "a9df679b0088472c26af2a08ee9ad499f4d6e1367836202a1b70b5b51e61aa9d",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 2657,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Los Angeles Times",
+      "author": "Jeremy Childs",
+      "title": "Rare case of mosquito-borne dengue diagnosed in Pasadena",
+      "description": "A case of locally-transmitted dengue, the first ever recorded in California, was detected in Pasadena on Friday, according to public health officials.",
+      "url": "https://www.latimes.com/california/story/2023-10-21/rare-case-of-mosquito-borne-dengue-diagnosed-in-pasadena",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/99b1bf0/2147483647/strip/true/crop/1160x609+0+86/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fae%2F47%2F764c276a485a975844e35c430059%2Fsd-me-mosquitos.jpg",
+      "publishedAt": "2023-10-21 12:00:31",
+      "content": "A case of locally acquired dengue, a virus transmitted by mosquitoes, was detected in Pasadena on Friday, according to the Pasadena Public Health Department. The instance is extremely rare, official\u2026 [+1800 chars]",
+      "retrievedAt": "2023-10-22 19:05:25.882578",
+      "internal_id": "0842cb923634540810f31f3ed4a42c231c7e3cbe2c1bf871f7ce8ee8d890b42f",
+      "publishedAtLabel": "Oct 21"
+    },
+    {
+      "id": 2662,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "Pieter Van Hecke",
+      "title": "17-jarige leerling overleden aan bacteri\u00eble hersenvliesontsteking: \u201cOnwezenlijk en onnoemelijk verlies\u201d",
+      "description": "Een 17-jarige jongen van het Sint-Jorisinstituut in Bazel is overleden aan een bacteri\u00eble hersenvliesontsteking. \u201cDit is onwezenlijk en een onnoemelijk verlies\u201d, zegt burgemeester Antoine Denert. \u201cDe leerlingen van zijn klas kregen vrijdagochtend psychologisc\u2026",
+      "url": "https://www.hbvl.be/cnt/dmf20231021_93728569",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2023/10/20/745af27f-4d7f-4a0c-8f47-fb37d7907a6e.png?maxheight=460&maxwidth=629",
+      "publishedAt": "2023-10-21 10:21:04",
+      "content": "De jongen werd het ziekenhuis binnengebracht maar stierf amper een dag later aan de gevolgen van bacteri\u00eble meningitis. Een tragedie voor familie en vrienden. Zijn omgeving en Kruibeeks burgemeester \u2026 [+1094 chars]",
+      "retrievedAt": "2023-10-22 19:05:26.129931",
+      "internal_id": "0f3d8fb655e6c4623f65e648d5f72a32c96750c71cc7bd2e51913ea0ab5f0722",
+      "publishedAtLabel": "Oct 21"
+    },
     {
       "id": 2656,
       "query": [
@@ -3433,186 +3615,6 @@
       "content": "MILWAUKEE The City of Milwaukee Health Department announced Tuesday they have received a report of a confirmed case of measles in a Milwaukee resident. Leaders with the City of Milwaukee Health Depa\u2026 [+3935 chars]",
       "retrievedAt": "2023-10-12 07:05:49.203513",
       "internal_id": "39796b97ce8b356c68df06047a8933857d3f7a9ca687a818c807285ef0b5103e",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2469,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WDJT",
-      "author": "Cbs 58 Newsroom",
-      "title": "Health department: Measles case confirmed in Milwaukee resident",
-      "description": "MILWAUKEE (CBS 58) -- The City of Milwaukee Health Department has identified a confirmed case of measles in a Milwaukee resident who is employed in Waukesha County. According to a news release, the indiv",
-      "url": "https://cbs58.com/news/health-department-measles-case-confirmed-in-milwaukee-resident",
-      "urlToImage": "https://newscdn2.weigelbroadcasting.com/nQ4He-1696965402-265815-blog-1000P_MEASLES%20EXPOSURE__WDJT680F.JPG",
-      "publishedAt": "2023-10-10 19:26:36",
-      "content": "MILWAUKEE (CBS 58) -- The City of Milwaukee Health Department has identified a confirmed case of measles in a Milwaukee resident who is employed in Waukesha County. According to a news release, the\u2026 [+1602 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.201225",
-      "internal_id": "262142bd08e1a0d6eb950bfdcff32eea6ebe1749e6ce595024e2a7974bc48cba",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2463,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "13-year-old boy dies at Mumbai school, cause unclear",
-      "description": "A 13-year-old boy died at a school in Kandivali of unknown reasons on Monday. Police said the boy, who hails from Gujarat and lived at the school hostel, had recently recovered from dengue.",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/13-year-old-boy-dies-at-mumbai-school-cause-unclear/articleshow/104323423.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104323448,width-1070,height-580,imgsize-24774,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-10 17:29:50",
-      "content": "Indias most picturesque villages",
-      "retrievedAt": "2023-10-11 19:05:28.192067",
-      "internal_id": "8b9f4b226b22330715133180eb0950f2c362f468006592dfe8f573d5bc0a033a",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2460,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Prefeitura de SP opta por armadilha contra mosquito da dengue 40 vezes mais cara que modelo nacional",
-      "description": "Gest\u00e3o Ricardo Nunes gastou R$ 19 milh\u00f5es com equipamentos fornecidos por empresa holandesa, quando Fiocruz produz o mesmo sistema em parceria com o Minist\u00e9rio da Sa\u00fade",
-      "url": "https://valor.globo.com/politica/noticia/2023/10/10/prefeitura-de-sp-opta-por-armadilha-contra-mosquito-da-dengue-40-vezes-mais-cara-que-modelo-nacional.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/G3W3apmDPMSMD_x6Ur-bWXK8Yd8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/h/D/mp1TnITu6D5lnUZRxutg/290323-20ricardo-20nunes-20008.jpg",
-      "publishedAt": "2023-10-10 15:19:10",
-      "content": "A Prefeitura de S\u00e3o Paulo gastou R$ 400 por unidade de uma armadilha contra o Aedes aegypti, mosquito transmissor da dengue, que tem uma vers\u00e3o similar desenvolvida pela Fiocruz (Funda\u00e7\u00e3o Oswaldo Cru\u2026 [+5898 chars]",
-      "retrievedAt": "2023-10-11 19:05:28.166480",
-      "internal_id": "830da466c3670b768d2f5e9fae314b6be8934e870f9fb58f548a1b762f315537",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2458,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
-      "title": "Painful Dengue May \u2018Take Off\u2019 In United States\u2014What To Know About The \u2018Breakbone Fever\u2019 Virus",
-      "description": "Four states\u2014Florida, Hawaii, Texas and Arizona\u2014have already documented locally acquired cases of dengue, which is also known as \u201cbreakbone fever\u201d on account of the severe pain it causes.",
-      "url": "https://www.forbes.com/sites/roberthart/2023/10/10/painful-dengue-may-take-off-in-united-states-what-to-know-about-the-breakbone-fever-virus/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6525594516127031e70b6bcd/0x0.jpg?format=jpg&crop=3291,1851,x0,y176,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-10-10 14:06:27",
-      "content": "The World Health Organizations chief scientist Jeremy Farrar has warned dengue fever could soon take off and become a constant presence in the United States, one of many emerging health threats drive\u2026 [+4286 chars]",
-      "retrievedAt": "2023-10-11 19:05:28.149108",
-      "internal_id": "6dacc1026b462212749beb6cc0479ee7d0c3a597ac52c4bd8a765509300f27a5",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2459,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Futura",
-      "author": "St\u00e9phanie Le Guillou, Journaliste Sant\u00e9",
-      "title": "L\u2019OMS s\u2019inqui\u00e8te de la progression de la dengue en Europe, aux \u00c9tats-Unis et en Afrique subsaharienne",
-      "description": "Face \u00e0 la mont\u00e9e des temp\u00e9ratures, la dengue menace de s'\u00e9tendre dans le sud des \u00c9tats-Unis, le sud de l'Europe et l'Afrique. L'OMS appelle \u00e0 une pr\u00e9paration renforc\u00e9e face \u00e0 cette maladie en expansion rapide, exacerb\u00e9e par le changement climatique et l'urban\u2026",
-      "url": "https://www.futura-sciences.com/sante/actualites/moustique-oms-inquiete-progression-dengue-europe-etats-unis-afrique-subsaharienne-108261/",
-      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/8/e/b/8eb71216b3_50207266_moustique-ai-generative.jpg",
-      "publishedAt": "2023-10-10 14:03:00",
-      "content": "Cela vous int\u00e9ressera aussi [EN VID\u00c9O]Interview : la lutte contre les moustiques est-elle sans fin ? Avec la venue de l\u00e9t\u00e9, arrivent des visiteurs quelque peu ind\u00e9sirables, ce sont les moustiques...\u2026 [+1569 chars]",
-      "retrievedAt": "2023-10-11 19:05:28.157887",
-      "internal_id": "17288139f8d4441482a1cbc56a4cb3b74b2938ff680daa7eb688310363d65c1f",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2461,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Elmercurio.com.ec",
-      "author": "CMV",
-      "title": "Casos de dengue en Caracas aumentaron un 37% en una semana, alerta ONG venezolana",
-      "description": "En Caracas se computaron 332 casos de dengue entre el 17 y el 23 de septiembre, un incremento del 37% respecto a la semana anterior. La entrada Casos de dengue en Caracas aumentaron un 37% en una semana, alerta ONG venezolana se public\u00f3 primero en Diario El M\u2026",
-      "url": "https://elmercurio.com.ec/2023/10/10/casos-dengue-caracas-aumentaron-ong-venezolana/",
-      "urlToImage": null,
-      "publishedAt": "2023-10-10 13:00:00",
-      "content": "En Caracas se computaron 332 casos de dengue entre el 17 y el 23 de septiembre, un incremento del 37% respecto a la semana anterior, cuando se registraron 242, inform\u00f3 este martes la ONG venezolana M\u2026 [+1374 chars]",
-      "retrievedAt": "2023-10-11 19:05:28.171383",
-      "internal_id": "d4bc25706b1bfc141a8157a17b3279f98fc26a2aa2dc50de0bc16ce04678dfd2",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2465,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Wolnemedia.net",
-      "author": "Admin WM",
-      "title": "WHO zatwierdza drug\u0105 szczepionk\u0119 przeciwko malarii",
-      "description": "W badaniu wzi\u0119\u0142o udzia\u0142 4800 dzieci.",
-      "url": "https://wolnemedia.net/who-zatwierdza-druga-szczepionke-przeciwko-malarii/",
-      "urlToImage": null,
-      "publishedAt": "2023-10-10 11:54:33",
-      "content": "Liczba wywietle: 106 Nowy lek jest taszy i atwiejszy w produkcji. Szacuje si, e szczepionka uratuje ycie dziesitkom tysicy dzieci. Malaria pozostaje powanym problemem w regionie Afryki, gdzie co rok\u2026 [+2408 chars]",
-      "retrievedAt": "2023-10-11 19:05:29.265514",
-      "internal_id": "fead748efd9343674848875f1342a270a6585cfa9cfc072cbbfb1490ff696ef0",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2462,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Publico.es",
-      "author": "Andrea J. Arratibel (SINC)",
-      "title": "Dengue y factores socioculturales: los claroscuros para conseguir vacunas ante una amenaza mundial",
-      "description": "El dengue golpea m\u00e1s fuerte que nunca en Am\u00e9rica Latina y contin\u00faa conquistando el mundo. Los expertos alertan de que ya hay zonas de Europa bajo amenaza. Sin un tratamiento espec\u00edfico para curarla, las dos vacunas disponibles presentan soluciones demasiado c\u2026",
-      "url": "https://www.publico.es/ciencias/dengue-factores-socioculturales-claroscuros-vacunas-amenaza-mundial.html",
-      "urlToImage": "https://www.publico.es/uploads/2023/10/10/65251b51cd177.jpeg",
-      "publishedAt": "2023-10-10 10:59:00",
-      "content": "La mayor\u00eda de los casos de dengue, hasta el 75 %, suceden de forma asintom\u00e1tica. Pero, una vez desatados los primeros signos, fiebre muy alta, cefalea, n\u00e1useas, dolor abdominal, detr\u00e1s de los ojos, m\u2026 [+15102 chars]",
-      "retrievedAt": "2023-10-11 19:05:28.186113",
-      "internal_id": "0d236d7e91083da35f7f92b59593e3ab4b72e0ae3e2e6fd61ae89963d7efc901",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2464,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Ethiopia: Amidst Alarming Surge in Malaria Cases, Amhara Regional Health Institute to Launch Antimalarial Chemical Spraying Program",
-      "description": "[Addis Standard] Addis Abeba -- In the wake of the doubling of nationwide malaria cases in the past three months, reaching a staggering 2.4 million, the Amhara Regional Public Health Institute has announced plans to implement an antimalarial chemical spraying\u2026",
-      "url": "https://allafrica.com/stories/202310100106.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-10 07:18:55",
-      "content": "Addis Abeba \u2014 In the wake of the doubling of nationwide malaria cases in the past three months, reaching a staggering 2.4 million, the Amhara Regional Public Health Institute has announced plans to i\u2026 [+3157 chars]",
-      "retrievedAt": "2023-10-11 19:05:29.262100",
-      "internal_id": "41214f3cbc280fc1096360bd3b8ef81028f4355ed96c08bce4164a5031494a50",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2453,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Divyabhaskar.co.in",
-      "author": "Divya Bhaskar",
-      "title": "Shubman Gill Dengue Health Updates India Vs Afghanistan World Cup 2023 Match",
-      "description": "\u0a9f\u0ac0\u0aae \u0a88\u0aa8\u0acd\u0aa1\u0abf\u0aaf\u0abe\u0aa8\u0abe \u0a93\u0aaa\u0aa8\u0ab0 \u0ab6\u0ac1\u0aad\u0aae\u0aa8 \u0a97\u0abf\u0ab2\u0aa8\u0ac7 \u0a9a\u0ac7\u0aa8\u0acd\u0aa8\u0abe\u0a88\u0aa8\u0ac0 \u0ab9\u0acb\u0ab8\u0acd\u0aaa\u0abf\u0a9f\u0ab2\u0aae\u0abe\u0a82\u0aa5\u0ac0 \u0aa1\u0abf\u0ab8\u0acd\u0a9a\u0abe\u0ab0\u0acd\u0a9c \u0aa5\u0a88 \u0a97\u0aaf\u0acb \u0a9b\u0ac7. \u0a97\u0abf\u0ab2\u0aa8\u0abe \u0aaa\u0acd\u0ab2\u0ac7\u0a9f\u0ab2\u0ac7\u0a9f\u0acd\u0ab8 \u0a98\u0a9f\u0ac0 \u0a97\u0aaf\u0abe \u0ab9\u0acb\u0ab5\u0abe\u0aa5\u0ac0 \u0aa4\u0ac7\u0aa8\u0ac7 \u0aa6\u0abe\u0a96\u0ab2 \u0a95\u0ab0\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0acd\u0aaf\u0acb \u0ab9\u0aa4\u0acb. \u0a97\u0abf\u0ab2\u0aa8\u0ac7 \u0a97\u0aaf\u0abe \u0a85\u0aa0\u0ab5\u0abe\u0aa1\u0abf\u0aaf\u0ac7 \u0aa1\u0ac7\u0aa8\u0acd\u0a97\u0acd\u0aaf\u0ac1 \u0aa5\u0aaf\u0acb \u0ab9\u0aa4\u0acb. \u0a95\u0acd\u0ab0\u0abf\u0a95\u0ac7\u0a9f \u0ab5\u0ac7\u0aac\u0ab8\u0abe\u0a88\u0a9f \u0a95\u0acd\u0ab0\u0abf\u0a95\u0aac\u0a9d\u0aa8\u0abe \u0a85\u0ab9\u0ac7\u0ab5\u0abe\u0ab2 \u0aae\u0ac1\u0a9c\u0aac, \u0a97\u0abf\u0ab2\u0aa8\u0ac7 \u0ab8\u0acb\u0aae\u0ab5\u0abe\u0ab0\u0ac7 \u0ab8\u0ab5\u0abe\u0ab0\u0ac7 \u0a95\u0abe\u0ab5\u0ac7\u0ab0\u0ac0 \u0ab9\u0acb\u0ab8\u0acd\u0aaa\u0abf\u0a9f\u0ab2\u0aae\u0abe\u0a82 \u0aa6\u0abe\u0a96\u0ab2 \u0a95\u0ab0\u2026",
-      "url": "https://www.divyabhaskar.co.in/sports/cricket/news/shubman-gill-dengue-health-updates-india-vs-afghanistan-world-cup-2023-match-131969089.html",
-      "urlToImage": "https://images.bhaskarassets.com/web2images/960/2023/10/10/untitled-design-2023-10-10t095849756_1696912141.jpg",
-      "publishedAt": "2023-10-10 06:10:57",
-      "content": ". . . , . (BCCI) . . , , . . . 14 . . . . . . . . BCCI 6 . . 2023 ODI . 2023 ODI . 2023 20 ODI 72.35 105.03 1,230 . 6 ODI 5 . ...",
-      "retrievedAt": "2023-10-11 07:05:52.909043",
-      "internal_id": "a9a9fdbc2a506f9646f8f60e202e3bdddc7d3e7eb200d5c32df2ced17ad4ca3c",
       "publishedAtLabel": "Oct 10"
     }
   ]
