@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-10-23 07:05",
+  "last_updated": "2023-10-23 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 2674,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "Malaria: Kwara gov\u2019s wife pledges support for children",
+      "description": "The First Lady of Kwara State, Olufolake Abdulrazaq, has pledged to use her office to ensure that children in the state no longer die of malaria. She made the pledge on Saturday in Abuja after her investiture as Malaria Ambassador for the state by the Society\u2026",
+      "url": "https://punchng.com/malaria-kwara-govs-wife-pledges-support-for-children/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/10/22125930/Olufolake-Abdulrazaq.jpg",
+      "publishedAt": "2023-10-22 12:00:57",
+      "content": "The First Lady of Kwara State, Olufolake Abdulrazaq, has pledged to use her office to ensure that children in the state no longer die of malaria. She made the pledge on Saturday in Abuja after her i\u2026 [+3813 chars]",
+      "retrievedAt": "2023-10-23 19:05:39.681324",
+      "internal_id": "c9f75b7ffbdcc484e3e012b50a397517cbebb47d94c60545fe688715b17f2b8b",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 2677,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
+      "title": "Indonesia continues Monkeypox prevention efforts",
+      "description": "The Jakarta Provincial Government and Health Ministry continue to make detection and prevention efforts to halt the spread of Monkeypox (Mpox) in Indonesia, especially Jakarta. \"The two parties continue to make ...",
+      "url": "https://en.antaranews.com/news/296850/indonesia-continues-monkeypox-prevention-efforts",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/19/Screenshot_2023-10-18-22-30-17-554_com.miui.gallery.jpg",
+      "publishedAt": "2023-10-22 11:38:14",
+      "content": "Jakarta (ANTARA) - The Jakarta Provincial Government and Health Ministry continue to make detection and prevention efforts to halt the spread of Monkeypox (Mpox) in Indonesia, especially Jakarta.\"The\u2026 [+2827 chars]",
+      "retrievedAt": "2023-10-23 19:05:40.398858",
+      "internal_id": "2a7f6ddacff751523e57ed59a10026d02bd3500a929095f622e9b6b8a41965af",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 2675,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "F.A.Z./zos.",
+      "title": "Genregulation aufgekl\u00e4rt: Wie Moskito-M\u00e4nnchen das fehlende X-Chromosom ausgleichen",
+      "description": "Neue Ans\u00e4tze zur Malariabek\u00e4mpfung k\u00f6nnten Erkenntnisse von Mainzer Wissenschaftlern er\u00f6ffnen. Sie haben einen Mechanismus zur geschlechtsspezifischen Genregulation bei Anopheles-M\u00fccken entdeckt.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/erkenntnisse-zur-genregulation-bei-moskitos-19246761.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/783294661/1.9246760/facebook_teaser/gefaehrlicher-blutsauger.jpg",
+      "publishedAt": "2023-10-22 11:10:25",
+      "content": "Forscher des Mainzer Instituts f\u00fcr molekulare Biologie haben bei Moskitos einen Genregulator gefunden, der f\u00fcr die Entwicklung der m\u00e4nnlichen Stechm\u00fccken bedeutsam ist. Die Entdeckung k\u00f6nnte neue Weg\u2026 [+967 chars]",
+      "retrievedAt": "2023-10-23 19:05:39.690046",
+      "internal_id": "43e878f38817129a01dd24b1ccb51cfe178abac441b3e4e7145cf3039c6d873f",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 2676,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Kvinne fra Troms\u00f8 d\u00f8d av malaria",
+      "description": "Forrige helg d\u00f8de en Troms\u00f8-kvinne i 50-\u00e5rene av malaria i Gambia, skriver Nordlys. Kvinnen skal ha blitt fraktet til sykehus i hovedstaden Banjul, men livet sto ikke til \u00e5 redde. Pressetalsperson i Utenriksdepartementet, Ane Haavardsdatter Lunde, bekrefter o\u2026",
+      "url": "https://www.nrk.no/tromsogfinnmark/kvinne-fra-tromso-dod-av-malaria-1.16605631",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.495/common/img/default.jpg",
+      "publishedAt": "2023-10-22 10:12:46",
+      "content": "22. oktober2023kl.12:12Forrige helg d\u00f8de en Troms\u00f8-kvinne i 50-\u00e5rene av malaria i Gambia, skriver Nordlys. Kvinnen skal ha blitt fraktet til sykehus i hovedstaden Banjul, men livet sto ikke til \u00e5 red\u2026 [+133 chars]",
+      "retrievedAt": "2023-10-23 19:05:39.693764",
+      "internal_id": "e8594845185819189095b18e2acc4be5a5a6987ed6f3199ce6c297b023bfae84",
+      "publishedAtLabel": "Oct 22"
+    },
     {
       "id": 2672,
       "query": [
@@ -3543,78 +3615,6 @@
       "content": "About 44,000 girls and women die every year in Africa from female genital mutilation, a new study published in Nature Scientific Reports has revealed. Two researchers from the universities of Birmin\u2026 [+2997 chars]",
       "retrievedAt": "2023-10-12 07:05:49.187771",
       "internal_id": "a881db6a44ede011c43714aafea6de8efa2abb6328a797ca9cc29c4b42e7dba9",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2473,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": "NDTV Sports Desk",
-      "title": "World Cup Live: India Aim To Tackle Afghanistan's Spin-Challenge",
-      "description": "India vs Afghanistan, Cricket World Cup Live Updates: With Shubman Gill ruled out of the game due to dengue, Ishan Kishan will get another opportunity at the top of the order as India take on Afghanistan.",
-      "url": "https://sports.ndtv.com/icc-cricket-world-cup-2023/india-vs-afghanistan-live-score-icc-world-cup-ind-vs-afg-latest-updates-4469927",
-      "urlToImage": "https://c.ndtvimg.com/2023-10/vcuka7h_rohit-sharma-hashmatullah-shahidi-afp_625x300_11_October_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
-      "publishedAt": "2023-10-11 06:10:28",
-      "content": "India vs Afghanistan, Cricket World Cup Live Updates: With Shubman Gill ruled out of the game due to dengue, Ishan Kishan will get another opportunity at the top of the order as India take on Afghani\u2026 [+433 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.728918",
-      "internal_id": "035f4bb98d24bd6588ed5ccc65f95a8d63770477bfa935549d2453198222f669",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2475,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Boy (13) dies in school, had dengue recently",
-      "description": "MUMBAI: A 13-year-old boy died at a school in Kandivli of unknown reasons on Monday.",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/boy-13-dies-in-school-had-dengue-recently/articleshow/104328707.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104333517,width-1070,height-580,imgsize-985377,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-11 02:42:01",
-      "content": "Indias most picturesque villages",
-      "retrievedAt": "2023-10-12 07:05:49.737611",
-      "internal_id": "370571b5cad5d9a0e06c0f95a0ad3879fe4d75d48ed39f9b00729bbe7f15d5fb",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2477,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "aajtak.in",
-      "title": "\u0936\u0941\u092d\u092e\u0928 \u0917\u093f\u0932 \u0915\u094b '\u0930\u200d\u093f\u092a\u094d\u0932\u0947\u0938' \u0915\u0930\u0947\u0902\u0917\u0947 \u092f\u0947 2 \u0927\u093e\u0915\u0921\u093c \u0916\u200d\u093f\u0932\u093e\u0921\u093c\u0940? \u090f\u0936\u200d\u093f\u092f\u0928 \u0917\u0947\u092e\u094d\u0938 \u092e\u0947\u0902 \u092e\u091a\u093e\u0908 \u0925\u0940 \u0927\u0942\u092e",
-      "description": "Shubman Gill World cup 2023 Update: \u0921\u0947\u0902\u0917\u0942 \u0938\u0947 \u091c\u0942\u091d \u0930\u0939\u0947 \u0936\u0941\u092d\u092e\u0928 \u0917\u093f\u0932 \u0915\u0947 \u0915\u0935\u0930 \u0915\u0947 \u0924\u094c\u0930 \u092a\u0930 \u090f\u0936\u200d\u093f\u092f\u0928 \u0917\u0947\u092e\u094d\u0938 \u092e\u0947\u0902 \u0927\u0942\u092e \u092e\u091a\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u0926\u094b \u0916\u200d\u093f\u0932\u093e\u0921\u093c\u200d\u093f\u092f\u094b\u0902 \u0915\u094b \u0936\u093e\u092e\u093f\u0932 \u0915\u093f\u092f\u093e \u091c\u093e \u0938\u0915\u0924\u093e \u0939\u0948. \u0936\u0941\u092d\u092e\u0928 \u0917\u093f\u0932 \u0915\u094b \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u0938\u0947 \u091b\u0941\u091f\u094d\u091f\u0940 \u092e\u093f\u0932 \u0917\u0908 \u0939\u0948, \u0932\u0947\u0915\u093f\u0928 \u0935\u094b \u0915\u092c \u091f\u0940\u092e \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u0947 \u0932\u093f\u090f \u092a\u0939\u0932\u093e \u092e\u0948\u091a \u0916\u0947\u0932 \u092a\u093e\u090f\u0902\u0917\u0947. \u092f\u0939 \u092c\u093e\u0924 \u0915\u094d\u0932\u200d\u093f\u2026",
-      "url": "https://www.aajtak.in/sports/cricket/story/shubman-gill-replacemnet-in-icc-odi-world-cup-2023-yashasvi-jaiswal-or-ruturaj-gaikwad-who-were-super-star-in-asian-games-tspo-1796716-2023-10-11",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202310/yashsvi_jaiswal_shubhman_gill_ruturaj_gaikwad-sixteen_nine.jpg",
-      "publishedAt": "2023-10-11 02:40:04",
-      "content": "Shubman Gill Replacement in World cup 2023: 2023 (ICC ODI World Cup) (Shubma Gill Dengue) . , . 14 . . . . ' ' , . . . (11 ) . (Shubman Gill) (10 ) . ? . 8 . 8 . . . . 2023 (\u2026 [+223 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.752507",
-      "internal_id": "dba2172d9e6019e7f61b3879c435da728513db07608e167b1962c12c08db5598",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2472,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Guillermo Hinojosa",
-      "title": "Inician limpieza de panteones en Cuernavaca ante incremento de contagios de dengue",
-      "description": "Omar Israel Albavera V\u00e1zquez, secretario de Desarrollo Sustentable de Cuernavaca, detall\u00f3 que, se ha comenzado con una limpieza general de los siete panteones del municipio, adem\u00e1s de que se tendr\u00e1n termonebulizaciones para evitar que se incrementen los conta\u2026",
-      "url": "https://www.milenio.com/estados/inician-limpieza-panteones-cuernavaca-incremento-dengue",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/10/se-ha-comenzado-con-una.jpg",
-      "publishedAt": "2023-10-11 01:36:42",
-      "content": "Omar Israel Albavera V\u00e1zquez, secretario de Desarrollo Sustentable de Cuernavaca, Morelos, detall\u00f3 que, se ha comenzado con una limpieza general de los siete panteones del municipio, adem\u00e1s de que se\u2026 [+1283 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.726606",
-      "internal_id": "d68bf93e57466c5065c3e42b2ae3f7f8249cbc9f5e25d5039fda1daab6923fa1",
       "publishedAtLabel": "Oct 11"
     }
   ]
