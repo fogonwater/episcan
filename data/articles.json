@@ -1,8 +1,116 @@
 {
-  "last_updated": "2023-10-22 19:05",
+  "last_updated": "2023-10-23 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 2672,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Felipe Galindo",
+      "title": "Tigres le remonta de forma ag\u00f3nica a Cruz Azul con golazo de Rafa Carioca",
+      "description": "Tigres rompe la malaria contra la M\u00e1quina al ganar 2-1 con un golazo de Rafael Carioca en la \u00faltima jugada del partido. Lo \u00fanico malo, es que perder\u00e1n a su m\u00e1xima estrella, el franc\u00e9s Andr\u00e9-Pierre Gignac en su pr\u00f3ximo encuentro ante Guadalajara.El primero en \u2026",
+      "url": "https://www.milenio.com/futbol/liga-mx/tigres-vs-cruz-azul-resumen-y-goles-jornada-13-liga-mx",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/21/tigres-dramatico-triunfo-frente-cruz.jpg",
+      "publishedAt": "2023-10-22 04:45:00",
+      "content": "Tigres rompe la malaria contra la M\u00e1quina al ganar 2-1 con un golazo de Rafael Carioca en la \u00faltima jugada del partido. Lo \u00fanico malo, es que perder\u00e1n a su m\u00e1xima estrella, el franc\u00e9s Andr\u00e9-Pierre Gi\u2026 [+3556 chars]",
+      "retrievedAt": "2023-10-23 07:05:42.400670",
+      "internal_id": "00779994805d5dea9a4482493ab46da705e04fb0952ce8d2273183ed6773fc53",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 2667,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NBC Southern California",
+      "author": "City News Service",
+      "title": "Rare case of mosquito-borne dengue diagnosed in Southern California...",
+      "description": "Pasadena health officials Friday reported what they call an \u201cextremely rare\u201d case of local transmission of the mosquito-borne dengue virus, the first known case in California to occur in a person who had not recently traveled.",
+      "url": "http://www.nbclosangeles.com/news/local/pasadena-reports-extremely-rare-case-of-locally-transmitted-dengue-virus/3249216/",
+      "urlToImage": "https://media.nbclosangeles.com/2023/06/GettyImages-1139714839-e1697871131303.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2023-10-22 04:07:40",
+      "content": "Pasadena health officials Friday reported what they call an \"extremely rare\" case of local transmission of the mosquito-borne dengue virus, the first known case in California to occur in a person who\u2026 [+2803 chars]",
+      "retrievedAt": "2023-10-23 07:05:41.488378",
+      "internal_id": "8048f7b25cf28c7ceeee491e2459bf81f47d585a7161a8b23bf1161a4409bc0f",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 2669,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Rare case of mosquito-borne dengue diagnosed in Pasadena - Los Angeles Times",
+      "description": "Rare case of mosquito-borne dengue diagnosed in PasadenaLos Angeles Times 'Extremely rare' case of dengue virus found in CaliforniaFox News Extremely rare case of dengue confirmed in PasadenaKTLA Los Angeles Rare case of locally-acquired dengue confirmed in S\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172073165",
+      "urlToImage": null,
+      "publishedAt": "2023-10-22 01:12:15",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-23 07:05:41.533037",
+      "internal_id": "6229325919567925a36ec74c5f5e98ed3cbe0e118d171d951124a1b570f797ba",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 2668,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Jared Stokes",
+      "title": "Public Health Officials in California Warn Of Rare, Locally-Acquired, Mosquito-Borne Virus",
+      "description": "A rare mosquito-born virus has been discovered in Pasadena, California, according to the Pasadena Public Health Department.",
+      "url": "https://dailycaller.com/2023/10/21/public-health-officials-pasadena-california-rare-mosquito-borne-virus-dengue/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-21-at-2.22.42-PM-e1697925095441.png",
+      "publishedAt": "2023-10-22 00:34:06",
+      "content": "A rare mosquito-born virus has been discovered in Pasadena, California, according to a Friday press release by the Pasadena Public Health Department (PPHD). The virus, known as dengue, has until now\u2026 [+2614 chars]",
+      "retrievedAt": "2023-10-23 07:05:41.508326",
+      "internal_id": "f675132325ae990af86b6ef4d4dccfefbb82794f6aa72072465fc044560855de",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 2673,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "Scientists Infect Volunteers With Zika in Hunt for Vaccines, Treatments",
+      "description": "Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step toward learning more about the disease and developing vaccines and treatments. The study \u2013 known as a \"controlle\u2026",
+      "url": "https://www.voanews.com/a/scientists-infect-volunteers-with-zika-in-hunt-for-vaccines-treatments-/7321193.html",
+      "urlToImage": "https://gdb.voanews.com/DDE4222A-A932-46CF-9955-F4ADB21543ED_w1200_r1.jpg",
+      "publishedAt": "2023-10-22 00:25:38",
+      "content": "Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step toward learning more about the disease and developing va\u2026 [+2261 chars]",
+      "retrievedAt": "2023-10-23 07:05:42.611897",
+      "internal_id": "8c02f7b46c9ddfb48d6f1da5b4c84872ddc25f329a56e15b7d1ed0f0b66b4690",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 2670,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "Antonio Mart\u00ednez Ron",
+      "title": "\u00bfHa escuchado hablar del m\u00e9todo 'Wolbachia'? Instrucciones para desactivar al mosquito del dengue",
+      "description": "\u201cBuenos d\u00edas, \u00bfha escuchado hablar del m\u00e9todo Wolbachia?\u201d. Quienes llaman a la puerta de las casas en el distrito de El Manch\u00e9n, en Tegucigalpa, no son predicadores de ninguna religi\u00f3n ni repartidores de comida a domicilio, como sugiere el aspecto de su motoc\u2026",
+      "url": "https://www.eldiario.es/sociedad/metodo-wolbachia-desactivar-mosquito-dengue_1_10595134.html",
+      "urlToImage": "https://static.eldiario.es/clip/17fd0aad-e168-4466-a4bc-6290dbf056af_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-10-21 20:09:52",
+      "content": "\u201cBuenos d\u00edas, \u00bfha escuchado hablar del m\u00e9todo Wolbachia?\u201d. Quienes llaman a la puerta de las casas en el distrito de El Manch\u00e9n, en Tegucigalpa, no son predicadores de ninguna religi\u00f3n ni repartidore\u2026 [+1265 chars]",
+      "retrievedAt": "2023-10-23 07:05:41.537936",
+      "internal_id": "3cdefc279a2913e813302b50ab43b9832b43b34d7d5e0dc74415c49129b20f41",
+      "publishedAtLabel": "Oct 21"
+    },
     {
       "id": 2665,
       "query": [
@@ -435,6 +543,24 @@
       "content": "MONTGOMERY COUNTY \u2014 Health officials are issuing a warning about a rise in pertussis cases in Montgomery County. There have been 44 cases, including 30 cases occurring in the past three months, acco\u2026 [+1090 chars]",
       "retrievedAt": "2023-10-21 19:05:14.973830",
       "internal_id": "b8e5225afa1fdbe007ee344d295053ec05974219e254cc0203fc0edf07252657",
+      "publishedAtLabel": "Oct 20"
+    },
+    {
+      "id": 2671,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Potential for injectable 'chemical vaccine' for malaria using atovaquone",
+      "description": "Researchers looking to develop a long-acting, injectable malaria preventive using atovaquone have shown in a new study that resistance may not be the challenge scientists thought it was, particularly when using atovaquone as a malaria preventive. Malaria para\u2026",
+      "url": "https://www.sciencedaily.com/releases/2023/10/231020105656.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-10-20 14:56:56",
+      "content": "Johns Hopkins researchers looking to develop a long-acting, injectable malaria preventive using atovaquone have shown in a new study that resistance may not be the challenge scientists thought it was\u2026 [+6158 chars]",
+      "retrievedAt": "2023-10-23 07:05:42.392006",
+      "internal_id": "fed1cb9716355587fa1d7d0ffde40c656140b37780964a6e83a7cef84fb6fe9f",
       "publishedAtLabel": "Oct 20"
     },
     {
@@ -3490,132 +3616,6 @@
       "retrievedAt": "2023-10-12 07:05:49.726606",
       "internal_id": "d68bf93e57466c5065c3e42b2ae3f7f8249cbc9f5e25d5039fda1daab6923fa1",
       "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2479,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Independent.ie",
-      "author": "Sinead Ryan",
-      "title": "Sinead Ryan: Perhaps it\u2019s time to stop vilifying \u2018super-spreader\u2019 Typhoid Mary",
-      "description": "Next month marks the 85th anniversary of the death of Mary Mallon. Born in 1869 in Co Tyrone, she lived her life under various aliases, but is best known for the one that dogged her for life: Typhoid Mary.",
-      "url": "https://www.independent.ie/opinion/comment/sinead-ryan-perhaps-its-time-to-stop-vilifying-super-spreader-typhoid-mary/a223566831.html",
-      "urlToImage": "https://focus.independent.ie/thumbor/htQLENRM_GsFK9YwLLwxWZKGqiY=/0x0:960x640/960x640/prod-mh-ireland/68985201-1270-41e5-b7a9-9a72a630620b/1cc4175d-d3ae-4cf1-bf7e-6130b7371bfe/68985201-1270-41e5-b7a9-9a72a630620b.jpg",
-      "publishedAt": "2023-10-11 01:30:00",
-      "content": "Next month marks the 85th anniversary of the death of Mary Mallon. Born in 1869 in Co Tyrone, she lived her life under various aliases, but is best known for the one that dogged her for life: Typhoid\u2026 [+157 chars]",
-      "retrievedAt": "2023-10-12 07:05:51.195611",
-      "internal_id": "4eb8ae8d6c7649d4077e68232fbb49d72888d7f100b31dc42d4a510438e689dc",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2476,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "India vs Afghanistan: Men in blue aim for error-free fight against Afghanistan in World Cup match",
-      "description": "India will be looking for a strong performance against Afghanistan in their second match of the ODI World Cup. The team's biggest challenge will be adapting quickly to the different conditions in each venue. With Shubman Gill ruled out due to dengue, Ishan Ki\u2026",
-      "url": "https://economictimes.indiatimes.com/news/sports/india-vs-afghanistan-men-in-blue-aim-for-error-free-fight-against-afghanistan-in-world-cup-match/articleshow/104306232.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104307681,width-1200,height-630,imgsize-135212,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-11 00:31:00",
-      "content": "India's cricket team started its ICC World Cup 2023 with a win against mighty Australians with initial hiccups but it would now eye to get a thumping win against Afghanistan. India's captain Rohit Sh\u2026 [+3725 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.740817",
-      "internal_id": "10cfff5bbf794d4aa1cce533b48e0a6ff85405a65595635292cce1434542eada",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2471,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Xataka.com.mx",
-      "author": "Steve Salda\u00f1a",
-      "title": "Estallan los casos de dengue en M\u00e9xico: hay 400% m\u00e1s casos en 2023 respecto al a\u00f1o pasado, estos son los estados m\u00e1s afectados",
-      "description": "Es octubre y 2023 ya lleva el doble de casos de dengue que los totales reportados en 2022. Si la comparaci\u00f3n se hace respecto a octubre pasado, el resultado es m\u00e1s dram\u00e1tico: el aumento de casos es de 408%. El panorama epidemiol\u00f3gico de dengu\u2026",
-      "url": "https://www.xataka.com.mx/medicina-y-salud/estallan-casos-dengue-mexico-hay-400-casos-2023-respecto-al-ano-pasado-estos-estados-afectados",
-      "urlToImage": "https://i.blogs.es/372fec/mosquito-dengue/840_560.jpeg",
-      "publishedAt": "2023-10-10 23:01:17",
-      "content": "Es octubre y 2023 ya lleva el doble de casos de dengue que los totales reportados en 2022. Si la comparaci\u00f3n se hace respecto a octubre pasado, el resultado es m\u00e1s dram\u00e1tico: el aumento de casos es d\u2026 [+2706 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.715808",
-      "internal_id": "7928cd6ed5d0efb86dbb4cedbfd28f6aec409b67b193fa9fa8af434dba163926",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2474,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Shubman Gill Discharged From Hospital But Likely To Miss Match Against Pakistan",
-      "description": "New Delhi, Oct 10 (PTI) Recovering from a bout of dengue fever, Shubman Gill has been discharged from a hospital in Chennai but the India opener will most likely miss the marquee World Cup clash against Pakistan on Saturday in Ahmedabad. Gill had to be admitt\u2026",
-      "url": "https://thehillstimes.in/sports/shubman-gill-discharged-from-hospital-but-likely-to-miss-match-against-pakistan",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/4.webp",
-      "publishedAt": "2023-10-10 22:00:19",
-      "content": "New Delhi, Oct 10 (PTI) Recovering from a bout of dengue fever, Shubman Gill has been discharged from a hospital in Chennai but the India opener will most likely miss the marquee World Cup clash agai\u2026 [+2070 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.732572",
-      "internal_id": "a74578a5b0c369ab9ab819aab5f67d69d4059204e4300cb72478701d82cf9444",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2467,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "fox6now.com",
-      "author": "Fox6 News",
-      "title": "Measles case confirmed, Milwaukee resident working in Waukesha County",
-      "description": "The Milwaukee Health Department reported a confirmed case of measles Tuesday, Oct. 10 in a city resident who works in Waukesha County.",
-      "url": "https://www.fox6now.com/news/milwaukee-measles-case-confirmed-waukesha-101023",
-      "urlToImage": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2023/08/1280/720/CALVI-5pm-PKG-MHD-FIGHT-8_31_WITI71ba_186_mp4_00.01.29.24.jpg?ve=1&tl=1",
-      "publishedAt": "2023-10-10 20:38:38",
-      "content": "MILWAUKEE - The Milwaukee Health Department reported a confirmed case of measles Tuesday, Oct. 10 in a city resident who works in Waukesha County. The individual took necessary precautions after sy\u2026 [+3668 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.195582",
-      "internal_id": "8b14de0427c7086bbfc2de4ba577d56ef4954eb81d2e5308aa2d1d983cb67dfc",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2468,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WISN Milwaukee",
-      "author": "Wisn.com Staff",
-      "title": "Confirmed case of measles in Milwaukee",
-      "description": "The Milwaukee Health Department is issuing a warning to those who might have been exposed at various locations in the city.",
-      "url": "https://www.wisn.com/article/milwaukee-confirmed-case-of-measles/45498923",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/measles-0060-6525a928ca6cc.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-      "publishedAt": "2023-10-10 20:03:27",
-      "content": "MILWAUKEE \u2014The Milwaukee Health Department says they have a confirmed case of measles in a city resident employed in Waukesha County. They add that the individual took necessary precautions after s\u2026 [+2217 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.198796",
-      "internal_id": "2c4e640d58da930c0433c92da8431658f8007239d0a27dc3a035ba031f961100",
-      "publishedAtLabel": "Oct 10"
-    },
-    {
-      "id": 2470,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WTMJ-TV",
-      "author": "Https://www.tmj4.com/madison-goldbeck",
-      "title": "Measles case confirmed in Milwaukee, health department says",
-      "description": "The City of Milwaukee Health Department announced Tuesday they have received a report of a confirmed case of measles in a Milwaukee resident.",
-      "url": "https://www.tmj4.com/news/local-news/measles-case-confirmed-in-milwaukee-health-department-says",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/9b61446/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.tmj4.com%2Fsharescnn%2Fphoto%2F2015%2F01%2F29%2FMeasles-Rash_1422549451629_12864105_ver1.0_640_480.jpg",
-      "publishedAt": "2023-10-10 19:59:54",
-      "content": "MILWAUKEE The City of Milwaukee Health Department announced Tuesday they have received a report of a confirmed case of measles in a Milwaukee resident. Leaders with the City of Milwaukee Health Depa\u2026 [+3935 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.203513",
-      "internal_id": "39796b97ce8b356c68df06047a8933857d3f7a9ca687a818c807285ef0b5103e",
-      "publishedAtLabel": "Oct 10"
     }
   ]
 }
