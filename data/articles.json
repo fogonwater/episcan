@@ -1,8 +1,101 @@
 {
-  "last_updated": "2023-10-23 19:05",
+  "last_updated": "2023-10-24 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 2681,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Scientists infect volunteers with Zika in hunt for vaccines, treatments",
+      "description": "WASHINGTON: Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step toward learning more about the disease and developing vaccines and treatments. The study \u2013 known as a \u201cc\u2026",
+      "url": "https://english.khabarhub.com/2023/23/323322/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/10/Zica_Mosquito_AP.png",
+      "publishedAt": "2023-10-23 03:15:39",
+      "content": "A female Aedes aegypti mosquito known to carry diseases such as dengue, Zika and yellow fever acquires a blood meal on the arm of a researcher at the Biomedical Sciences Institute of Sao Paulo Univer\u2026 [+2516 chars]",
+      "retrievedAt": "2023-10-24 07:05:40.367456",
+      "internal_id": "00f0c2e13959970882fa03812f606208a35f503bcd048a8ef1bf0e55bb6db36c",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2683,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Darner A. Mora Alvarado",
+      "title": "Aportaci\u00f3n del canal de Panam\u00e1 a la salud p\u00fablica",
+      "description": "Determinar la causa de la malaria y la fiebre amarilla fue una de las labores durante la construcci\u00f3n de la megaobra.",
+      "url": "https://www.nacion.com/opinion/foros/aportacion-del-canal-de-panama-a-la-salud-publica/QAWEEY6KGNA37C4FLC2DEIXWSY/story/",
+      "urlToImage": "https://www.nacion.com/resizer/xAxFjNqcLSJx_Ns4vmDg7efkhCo=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/WWHKWSDKSRH63DM3LFR3OQOVQE.jpg",
+      "publishedAt": "2023-10-23 03:00:00",
+      "content": "Despu\u00e9s del fracaso de los franceses en la construcci\u00f3n del canal de Panam\u00e1, la labor de los ingenieros se vio truncada por la malaria y la fiebre amarilla, causadas por un protozoario y un virus des\u2026 [+2737 chars]",
+      "retrievedAt": "2023-10-24 07:05:41.154700",
+      "internal_id": "c42e60af6ea2b72d2dd0e57ed1e9cfd28f61afeb8d743f0e27bc0a96f6330deb",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2678,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Cases of 'unusual' fever and full-body rash reported in Mumbai",
+      "description": "An unusual fever with perplexing symptoms, including a full-body rash, is affecting many people in Mumbai. The fever lasts for 4-5 days with temperatures between 99 and 102 degrees. Patients are testing negative for common culprits like dengue and malaria. Th\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/cases-of-unusual-fever-and-full-body-rash-reported-in-mumb/articleshow/104636026.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104636028,width-1070,height-580,imgsize-25348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-22 23:01:33",
+      "content": "Why are potatoes and tomatoes banned in Lord Jagannaths kitchen?",
+      "retrievedAt": "2023-10-24 07:05:40.331591",
+      "internal_id": "21bb4a839545b568f732810fd8d905ea94337739c540e0ac2adfe18e01ae9684",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 2679,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Cases of 'unusual' fever and full-body rash reported in city",
+      "description": "An unusual fever with perplexing symptoms, including a full-body rash, is affecting many people in Mumbai. The fever lasts for 4-5 days with temperatures between 99 and 102 degrees. Patients are testing negative for common culprits like dengue and malaria. Th\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/cases-of-unusual-fever-and-full-body-rash-reported-in-city/articleshow/104636026.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104636028,width-1070,height-580,imgsize-25348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-22 23:01:33",
+      "content": "Why are potatoes and tomatoes banned in Lord Jagannaths kitchen?",
+      "retrievedAt": "2023-10-24 07:05:40.343427",
+      "internal_id": "7ebf5a3e6e9ad19647aa54139f129071b315753385e72b3488451e7357168d72",
+      "publishedAtLabel": "Oct 22"
+    },
+    {
+      "id": 2680,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Dengue cresce no Rio e cinco munic\u00edpios t\u00eam situa\u00e7\u00e3o epid\u00eamica",
+      "description": "A an\u00e1lise \u00e9 do InfoDengue, sistema de alerta para arboviroses desenvolvido por pesquisadores da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz) e da Funda\u00e7\u00e3o Get\u00falio Vargas (FGV)",
+      "url": "https://brasil.perfil.com/brasil/dengue-cresce-no-rio-e-cinco-municipios-tem-situacao-epidemica.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/10/22/358957011-ebc.png",
+      "publishedAt": "2023-10-22 22:40:17",
+      "content": "O n\u00famero de casos de dengue no estado do Rio de Janeiro preocupa as autoridades e acende um alerta a quase dois meses do ver\u00e3o. A tend\u00eancia \u00e9 que o per\u00edodo, marcado por mais chuvas e calor, favore\u00e7a \u2026 [+3645 chars]",
+      "retrievedAt": "2023-10-24 07:05:40.354941",
+      "internal_id": "1de38c0a43345081e48f171afd6d8bc0c8f9cf921644e69f7b491b9bd806a578",
+      "publishedAtLabel": "Oct 22"
+    },
     {
       "id": 2674,
       "query": [
@@ -435,6 +528,24 @@
       "content": "Um comprimido para dengue desenvolvido pela farmac\u00eautica Johnson &amp; Johnson pareceu proteger contra uma forma do v\u00edrus em um punhado de pacientes em um pequeno teste de desafio em humanos, conheci\u2026 [+3007 chars]",
       "retrievedAt": "2023-10-22 07:05:27.412204",
       "internal_id": "7550671c5eccacb8a664eadacb93213d03e6ed0900724a97e27d4027844555dd",
+      "publishedAtLabel": "Oct 20"
+    },
+    {
+      "id": 2682,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tecnovortex.com",
+      "author": "Cecilia Verino",
+      "title": "Para paliar la malaria: 5 juegos online totalmente gratis en Steam",
+      "description": "Lamentablemente estamos en \u00e9pocas muy complicadas en Argentina. Hace unos d\u00edas habl\u00e1bamos de que est\u00e1bamos en un momento horrible para comprar Hardware y lo mismo est\u00e1 sucediendo con los videojuegos. Y es que es as\u00ed, la devaluaci\u00f3n galopante que nos golpea no\u2026",
+      "url": "https://tecnovortex.com/para-paliar-la-malaria-en-steam-5-juegos-online-free-to-play/",
+      "urlToImage": "https://tecnovortex.com/wp-content/uploads/2023/10/pc-antigua-steam.jpg",
+      "publishedAt": "2023-10-20 21:00:32",
+      "content": "Lamentablemente estamos en \u00e9pocas muy complicadas en Argentina. Hace unos d\u00edas habl\u00e1bamos de que est\u00e1bamos en un momento horrible para comprar Hardware y lo mismo est\u00e1 sucediendo con los videojuegos.\u2026 [+4980 chars]",
+      "retrievedAt": "2023-10-24 07:05:41.146576",
+      "internal_id": "74344854858004bcbd73dd07e7eb8b5d7f6e92198063a31587d1672510e2a376",
       "publishedAtLabel": "Oct 20"
     },
     {
@@ -3504,117 +3615,6 @@
       "content": "New Delhi, Recovering steadily from a bout of dengue fever, India opener Shubman Gill will be reaching Ahmedabad on Wednesday but still remains a doubtful starter for the marquee World Cup clash agai\u2026 [+1153 chars]",
       "retrievedAt": "2023-10-12 19:05:23.192159",
       "internal_id": "c76661b9e20a501823d77d8b0a62ef6d04c04ec1c8ec672beb32bafea5ec1386",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2487,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Sports Desk",
-      "title": "Shubman Gill to reach Ahmedabad on Wednesday",
-      "description": "Recovering from dengue fever, Shubman Gill may not be able to play in the World Cup match against Pakistan. While Gill is making progress in his recovery, it is uncertain whether he will be fit to play. He missed the opening match against Australia and the ma\u2026",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-india-vs-pakistan-doubtful-for-pakistan-game-shubman-gill-to-reach-ahmedabad-on-wednesday/articleshow/104338935.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104338913,width-1070,height-580,imgsize-41340,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-11 09:07:54",
-      "content": "Will the ODI World Cup set Shubman Gill on the path to greatness?",
-      "retrievedAt": "2023-10-12 19:05:23.220864",
-      "internal_id": "b912b9947c8eb1d264ed3f05d7b7c6de8cccd1d310a94ad88842b8a65cc79158",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2483,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Recomienda la OMS nueva vacuna contra el dengue",
-      "description": "Por primera vez, la Organizaci\u00f3n Mundial de la Salud (OMS) recomend\u00f3 a los pa\u00edses con elevada carga de dengue y alta intensidad de transmisi\u00f3n, la aplicaci\u00f3n de la vacuna desarrollada por el laboratorio farmac\u00e9utico Takeda. El producto demostr\u00f3 eficacia para \u2026",
-      "url": "https://www.jornada.com.mx/2023/10/11/politica/022n1pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-10-11 08:55:31",
-      "content": "Peri\u00f3dico La JornadaMi\u00e9rcoles 11 de octubre de 2023, p. 22 Por primera vez, la Organizaci\u00f3n Mundial de la Salud (OMS) recomend\u00f3 a los pa\u00edses con elevada carga de dengue y alta intensidad de transmis\u2026 [+2890 chars]",
-      "retrievedAt": "2023-10-12 19:05:23.182200",
-      "internal_id": "ce87ba9fc043cc855467f7882b2916907aec70cc0f253292125bbb8cc1d48fbb",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2486,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Will Shubman Gill play in India-Pakistan World Cup match? Here is the latest update",
-      "description": "Shubman Gill's participation in the upcoming important world cup game against Pakistan is uncertain due to his health condition. Gill's platelet count dropped to 90,000 per micro litre following his battle with dengue. Although he may recover physically, expe\u2026",
-      "url": "https://economictimes.indiatimes.com/news/sports/will-shubman-gills-play-in-india-pakistan-world-cup-game-here-is-a-latest-update/articleshow/104337575.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104337782,width-1200,height-630,imgsize-45228,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-11 08:44:36",
-      "content": "India's star opener Shubman Gill's participation in India's upcoming game against Pakistan on October 14 is uncertain due to his health condition. Sources reveal that Gill's platelet count dropped to\u2026 [+1688 chars]",
-      "retrievedAt": "2023-10-12 19:05:23.194723",
-      "internal_id": "a0d1ea1da8b51a54ee1f4f17692339385cebdb244911cbf42ed95ed44eacd199",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2481,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Mun-Keat Looi",
-      "title": "The mosquito factory fighting disease",
-      "description": "Mosquitoes infected with bacteria are becoming a cost-effective way to stop some of the greatest disease threats in the world, including dengue, chikungunya, and Zika viruses. Mun-Keat Looi visits the sites where these are \u201cmade\u201d The stench of pond water is \u2026",
-      "url": "https://www.bmj.com/content/383/bmj.p2082",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/383/8401.cover-source.jpg",
-      "publishedAt": "2023-10-11 08:40:45",
-      "content": "Mosquitoes infected with bacteria are becoming a cost-effective way to stop some of the greatest disease threats in the world, including dengue, chikungunya, and Zika viruses. Mun-Keat Looi visits th\u2026 [+1360 chars]",
-      "retrievedAt": "2023-10-12 19:05:23.169439",
-      "internal_id": "3318722f6a7a4a1bd234ed5921c5b3e337c3eecd76634b4e69e81c35ef2edbc6",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2478,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Hindustan Times",
-      "author": "Ht Sports Desk",
-      "title": "Shubman Gill's latest health update is bittersweet, India look at other options",
-      "description": "Gill has been advised to rest for at least a week. That means he is unlikely to do any physical training let alone pick up the cricket bat till October 17. | Cricket",
-      "url": "https://www.hindustantimes.com/cricket/shubman-gills-latest-health-update-is-bittersweet-india-look-at-ishan-kishan-and-other-options-for-pak-and-ban-match-101697005129077.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/11/1600x900/ANI-20230924185-0_1697006093843_1697006122832.jpg",
-      "publishedAt": "2023-10-11 06:46:54",
-      "content": "The good news for India is that Shubman Gill has been discharged from the hospital and is showing good signs of recovery. He had tested positive for dengue fever a couple of days before India's World\u2026 [+3976 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.773245",
-      "internal_id": "1816fd2b09c03d64ab44cb2206adc31c6033f4552a76ce3c4ccc6a15099910c2",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2466,
-      "query": [
-        "measles",
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Nation.africa",
-      "author": "Kamau Maichuhie",
-      "title": "FGM killing 44,000 girls in Africa annually, study shows",
-      "description": "Practice now among the primary causes of death among girls, surpassing even HIV/Aids, measles, meningitis and whooping cough.",
-      "url": "https://nation.africa/kenya/news/gender/fgm-killing-44-000-girls-in-africa-annually-study-shows-4396558",
-      "urlToImage": "https://nation.africa/resource/image/4303424/landscape_ratio3x2/1200/800/8d19f92a9f5b5c099e6fdbd1ab30d0e5/Wi/fgm-1-.jpg",
-      "publishedAt": "2023-10-11 06:31:55",
-      "content": "About 44,000 girls and women die every year in Africa from female genital mutilation, a new study published in Nature Scientific Reports has revealed. Two researchers from the universities of Birmin\u2026 [+2997 chars]",
-      "retrievedAt": "2023-10-12 07:05:49.187771",
-      "internal_id": "a881db6a44ede011c43714aafea6de8efa2abb6328a797ca9cc29c4b42e7dba9",
       "publishedAtLabel": "Oct 11"
     }
   ]
