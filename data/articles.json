@@ -1,8 +1,296 @@
 {
-  "last_updated": "2023-10-24 07:05",
+  "last_updated": "2023-10-24 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 2693,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Jalopnik",
+      "author": "Bradley Brownell",
+      "title": "Cars Are Killing Humans And Not Just In Traffic Crashes",
+      "description": "Every year, pollution is a contributing factor in more deaths than war, terrorism, malaria, HIV, tuberculosis, drugs, or alcohol. Doctors say long-term exposure to exhaust fumes and air particulates can cause or exacerbate heart disease, respiratory health is\u2026",
+      "url": "https://jalopnik.com/cars-are-killing-humans-and-not-just-in-traffic-crashes-1850950663",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7ecd1b3eb9836cc97d243ff62dd45818.png",
+      "publishedAt": "2023-10-23 18:35:29",
+      "content": "Every year, pollution is a contributing factor in more deaths than war, terrorism, malaria, HIV, tuberculosis, drugs, or alcohol. Doctors say long-term exposure to exhaust fumes and air particulates \u2026 [+2367 chars]",
+      "retrievedAt": "2023-10-24 19:05:25.492823",
+      "internal_id": "1495cbfe24130c72d19230754c3c5ab3e7dde665a3b6a965e62326c0e0f5a525",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2694,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "vice-news",
+      "source_name": "Vice News",
+      "author": "Ella Glossop, Zing Tsjeng",
+      "title": "It's Time to Tax Billionaires, New Report Says",
+      "description": "Research funded by the European Union shows that a global tax on the super-rich might raise up to \u00a3205 billion.",
+      "url": "https://www.vice.com/en/article/qjvxk3/billionaire-tax-new-report",
+      "urlToImage": "https://video-images.vice.com/articles/65367d6faff5d70f0e9239c7/lede/1698071078290-christianfilardo29.jpeg?image-resize-opts=Y3JvcD0xeHc6MC4zNzI1eGg7MHh3LDAuMjQ2MnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+      "publishedAt": "2023-10-23 14:48:01",
+      "content": "There are around 2,500 billionaires in the world right now, with a combined wealth of over \u00a310 trillion. Just a fraction of that money is enough to, say, end global poverty, eradicate malaria and re-\u2026 [+1968 chars]",
+      "retrievedAt": "2023-10-24 19:05:25.498200",
+      "internal_id": "b6c3a111dc2a3e21ff37e37c511551a54b0e091d71850812b40e84d1aa0e61a7",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2697,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "U.S. Scientists Deliberately Infected People With Zika\u2014Here\u2019s Why",
+      "description": "Human challenge studies, although controversial, can help researchers develop treatments for the disease.",
+      "url": "https://www.forbes.com/sites/roberthart/2023/10/23/us-scientists-deliberately-infected-people-with-zika-heres-why/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/653686bc90713861e7e702d7/0x0.jpg?format=jpg&crop=1794,1008,x623,y124,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-10-23 14:46:54",
+      "content": "Researchers in the United States have for the first time deliberately infected people with Zika virus, a breakthrough that could help advance our understanding of the disease and accelerate efforts t\u2026 [+5159 chars]",
+      "retrievedAt": "2023-10-24 19:05:25.815250",
+      "internal_id": "d4fbd42a6c934bdc4912ad75bede3a9815038afdf8ff8ec64698b12db1ccda90",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2691,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "\u0930\u093e\u092e \u0915\u093f\u0902\u0915\u0930 \u0938\u093f\u0902\u0939, \u092e\u0928\u091c\u0940\u0924 \u0938\u0939\u0917\u0932, \u092a\u0930\u092e\u091c\u0940\u0924 \u092a\u0935\u093e\u0930, \u0938\u0941\u0936\u093e\u0902\u0924 \u092e\u0947\u0939\u0930\u093e",
+      "title": "\u0926\u093f\u0932\u094d\u0932\u0940 \u0915\u0947 \u0928\u093f\u091c\u0940 \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0939\u0930 \u0926\u0942\u0938\u0930\u093e \u092e\u0930\u0940\u091c \u0921\u0947\u0902\u0917\u0942 \u0915\u093e, \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u092c\u091a\u094d\u091a\u094b\u0902 \u092e\u0947\u0902 \u092c\u0922\u093c \u0930\u0939\u093e \u0916\u0924\u0930\u093e, \u092c\u0930\u0924\u0947\u0902 \u092f\u0947 \u0938\u093e\u0935\u0927\u093e\u0928\u093f\u092f\u093e\u0902",
+      "description": "\u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u0915\u0947 \u091c\u093f\u0932\u093e \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u092e\u0930\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u0938\u092c\u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u0939\u0948. \u0928\u0930\u094d\u0938\u093f\u0902\u0917 \u0938\u094d\u091f\u093e\u092b \u0915\u093e \u0915\u0939\u0928\u093e \u0939\u0948 \u0915\u093f \u092f\u0939\u093e\u0902 \u0939\u0930 \u0930\u094b\u091c \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0906\u0927\u093e \u0926\u0930\u094d\u091c\u0928 \u092e\u0930\u0940\u091c \u0930\u094b\u091c \u0906 \u0930\u0939\u0947 \u0939\u0948\u0902. \u091c\u093f\u0932\u093e \u092a\u094d\u0930\u0936\u093e\u0938\u0928 \u0915\u0947 \u092e\u0941\u0924\u093e\u092c\u093f\u0915, \u0936\u0928\u093f\u0935\u093e\u0930 \u0915\u094b 69 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u093e \u091a\u0947\u0915\u0905\u092a \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u091a\u093e\u0930 \u092c\u091a\u094d\u091a\u094b\u0902 \u0938\u092e\u0947\u0924 \u0921\u0947\u0902\u0917\u0942 12 \u0928\u2026",
+      "url": "https://www.aajtak.in/india/news/story/dengue-cases-in-delhi-ncr-punjab-ghaziabad-haryana-jind-mosquito-hospitals-ntc-1805075-2023-10-23",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202310/dengue_650_1-sixteen_nine.jpg",
+      "publishedAt": "2023-10-23 14:40:03",
+      "content": ". . 15 . . . . 113 . . . , 69 12 . 924 . . 10 . 214 . 13 . , , . 10 . . . . 267 . . , . 12 . . DEN-1, DEN-2, DEN-3, DEN-4 . - . - . . (Complications in Dengue) . . . 5-6 . (De\u2026 [+38 chars]",
+      "retrievedAt": "2023-10-24 19:05:24.523762",
+      "internal_id": "08f12c63dc1b908886fa41759ecfa6df8aba6e4881ad697d79f244c3b9276dbd",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2698,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Moch Mardiansyah, Raka Adji",
+      "title": "Health Ministry applies four measures to handle mpox cases",
+      "description": "The Ministry of Health is intensifying the handling of mpox (monkeypox) cases through four measures \u2014 surveillance, therapeutics, vaccinations, and risk communication. This was conveyed by the ministry's director ...",
+      "url": "https://en.antaranews.com/news/296928/health-ministry-applies-four-measures-to-handle-mpox-cases",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/23/BFE0D6E4-9285-45AE-B399-A93BCCD77FBB.jpeg",
+      "publishedAt": "2023-10-23 14:22:38",
+      "content": "Jakarta (ANTARA) - The Ministry of Health is intensifying the handling of mpox (monkeypox) cases through four measures \u2014 surveillance, therapeutics, vaccinations, and risk communication.This was conv\u2026 [+2077 chars]",
+      "retrievedAt": "2023-10-24 19:05:26.249493",
+      "internal_id": "11fd2abf1ce49eb52adbe979759be2198f640eb623c1263122bfaac692889ca5",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2684,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Isaac Dah, Rodrigue Simonet Poueme Namegni, Mohamed Moctar Mouiche Mouliom, Simon Dickmu Jumbo, Ranyl Nguena Guefack Noumedem, Isabelle Conclois, Liegeois Florian, Laurent God-Yang, Jean Marc Feussom Kameni, Abel Wade, Doroth\u00e9e Miss\u00e9, Julius Awah-Ndukum",
+      "title": "Prevalence and public health significance of rabies virus in bats in the North Region of Cameroon",
+      "description": "Author summary Rabies is a zoonotic disease caused by a virus of the genus Lyssavirus. It affects all warm-blooded animals including humans. Canine and human rabies are well documented as endemic in Cameroon, but little is known about this disease in wildlife\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010803",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0010803.g002&size=inline",
+      "publishedAt": "2023-10-23 14:00:00",
+      "content": "Abstract Background Rabies is a zoonotic disease of all warm-blooded animals including humans. There is a paucity of data on the status of rabies in wild animals in Cameroon and the disease is ende\u2026 [+39917 chars]",
+      "retrievedAt": "2023-10-24 19:05:23.455998",
+      "internal_id": "04473ef9f694e030afb81282e73764ccc63a14d77761f88f910cf9dd87d9d1cf",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2687,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Xerxes Seposo, Sary Valenzuela, Geminn Louis Apostol",
+      "title": "Socio-economic factors and its influence on the association between temperature and dengue incidence in 61 Provinces of the Philippines, 2010\u20132019",
+      "description": "Author summary This study examined the effect of temperature on dengue in the 61 Provinces of the Philippines. We found that as temperature increases, so does the risk of dengue. However, the increase in the risk of dengue plateaus at 27.5 degrees Celsius, an\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011700",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011700.g005&size=inline",
+      "publishedAt": "2023-10-23 14:00:00",
+      "content": "Citation: Seposo X, Valenzuela S, Apostol GL (2023) Socio-economic factors and its influence on the association between temperature and dengue incidence in 61 Provinces of the Philippines, 20102019. \u2026 [+28134 chars]",
+      "retrievedAt": "2023-10-24 19:05:24.501226",
+      "internal_id": "bd209ff994c3f38362a59a26507574fe3d9f315abbadfbaaced6843fccc8ea46",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2695,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Ethiopia: Call for Urgent Malaria Relief Response in Western Oromia",
+      "description": "[Addis Standard] Addis Abeba -- Two local charity organizations Harmee International Charity Organization and Biiftuu Holistic Development Foundation, said the malaria epidemic in Western Oromia could worsen in the coming two months if not timely and adequate\u2026",
+      "url": "https://allafrica.com/stories/202310230595.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-23 13:58:04",
+      "content": "Addis Abeba \u2014 Two local charity organizations Harmee International Charity Organization and Biiftuu Holistic Development Foundation, said the malaria epidemic in Western Oromia could worsen in the co\u2026 [+1501 chars]",
+      "retrievedAt": "2023-10-24 19:05:25.502613",
+      "internal_id": "50f16a70947a9774616593c29dd99ffa2a97a25dd0dcdde9804af1a9cbeb0945",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2689,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "RJ registra aumento de casos de Dengue; cinco munic\u00edpios t\u00eam situa\u00e7\u00e3o epid\u00eamica",
+      "description": "A tend\u00eancia \u00e9 que o ver\u00e3o, marcado por chuvas e calor, favore\u00e7a a prolifera\u00e7\u00e3o do mosquito Aedes aegypti",
+      "url": "https://noticias.r7.com/rio-de-janeiro/dengue-cresce-no-rio-cinco-municipios-tem-situacao-epidemica-23102023",
+      "urlToImage": "https://img.r7.com/images/mosquito-da-dengue-08072023182938398?crop_position=c&dimensions=340x191",
+      "publishedAt": "2023-10-23 12:37:00",
+      "content": "N\u00e3o h\u00e1 casos registrados do sorotipo 3 no Rio Reprodu\u00e7\u00e3o Site/Minist\u00e9rio da Sa\u00fade O n\u00famero de casos de dengue no estado do Rio de Janeiro preocupa as autoridades e acende um alerta a quase do\u2026 [+4452 chars]",
+      "retrievedAt": "2023-10-24 19:05:24.510623",
+      "internal_id": "c84917d45abdbb40ec0de76f210a88faee223303e2d22d8e1c1125c646f3494a",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2685,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Dengue cases up in Johor, says exco",
+      "description": "JOHOR BARU: The number of cumulative dengue cases in Johor in epidemiology week 42 (ME42) went up to 8,442 cases, says state Health and Unity committee chairman Ling Tian Soon. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/23/dengue-cases-up-in-johor-says-exco",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/23/2350896.jpg",
+      "publishedAt": "2023-10-23 12:27:00",
+      "content": "JOHOR BARU: The number of cumulative dengue cases in Johor in epidemiology week 42 (ME42) went up to 8,442 cases, says state Health and Unity committee chairman Ling Tian Soon. He said this represen\u2026 [+2035 chars]",
+      "retrievedAt": "2023-10-24 19:05:24.484431",
+      "internal_id": "470e69d5dae779414def9298fcd84a5bd8ff378ec0153717131837ca3d00781a",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2690,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Nuovo caso di dengue a Trieste, stasera disinfestazione",
+      "description": "Il Comune di Trieste ha reso noto che stasera dalle ore 19.00, sar\u00e0 disinfestata in modo radicale e preventivamente una zona in un raggio di 200 metri di riva Massimiliano e Carlotta a Grignano dopo che l' Asugi, Dipartimento di Prevenzione, S.C. (ANSA)",
+      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2023/10/23/nuovo-caso-di-dengue-a-trieste-stasera-disinfestazione_9d91b298-dfb6-4098-bda9-1eb54e066f94.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/23/9011f7992cde07047f9fe1d3c2e916f8.jpg",
+      "publishedAt": "2023-10-23 10:38:29",
+      "content": "Il Comune di Trieste ha reso noto che stasera dalle ore 19.00, sar\u00e0 disinfestata in modo radicale e preventivamente una zona in un raggio di 200 metri di riva Massimiliano e Carlotta a Grignano do\u2026 [+1537 chars]",
+      "retrievedAt": "2023-10-24 19:05:24.517248",
+      "internal_id": "07be955e9d1a222e170bf6d5b1a1c600c2279a4bc5e5d6a6865bb3afdd943f95",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2686,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Nuovo caso di dengue a Trieste, stasera disinfestazione",
+      "description": "Il Comune di Trieste ha reso noto che stasera dalle ore 19.00, sar\u00e0 disinfestata in modo radicale e preventivamente una zona in un raggio di 200 metri di riva Massimiliano e Carlotta a Grignano dopo che l' Asugi, Dipartimento di Prevenzione, S.C. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2023/10/23/nuovo-caso-di-dengue-a-trieste-stasera-disinfestazione_c73d789d-675a-4bff-bd18-b6228aa4d499.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/23/9011f7992cde07047f9fe1d3c2e916f8.jpg",
+      "publishedAt": "2023-10-23 10:24:56",
+      "content": "Il Comune di Trieste ha reso noto che stasera dalle ore 19.00, sar\u00e0 disinfestata in modo radicale e preventivamente una zona in un raggio di 200 metri di riva Massimiliano e Carlotta a Grignano do\u2026 [+1537 chars]",
+      "retrievedAt": "2023-10-24 19:05:24.497342",
+      "internal_id": "1e61ce3652dd89cb146f89d2741f83d66ca0e402647afe10294e2c6d165ecaf7",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2696,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "de Graeff, N., Jongsma, K. R., Bredenoord, A. L.",
+      "title": "Alleviating the burden of malaria with gene drive technologies? A biocentric analysis of the moral permissibility of modifying malaria mosquitoes",
+      "description": "Gene drive technologies (GDTs) have been proposed as a potential new way to alleviate the burden of malaria, yet have also raised ethical questions. A central ethical question regarding GDTs relates to whether it is morally permissible to intentionally modify\u2026",
+      "url": "https://jme.bmj.com/content/49/11/765",
+      "urlToImage": "https://jme.bmj.com/sites/default/files/highwire/medethics/49/11.cover-source.jpg",
+      "publishedAt": "2023-10-23 09:40:18",
+      "content": "Gene drive technologies (GDTs) have been proposed as a potential new way to alleviate the burden of malaria, yet have also raised ethical questions. A central ethical question regarding GDTs relates \u2026 [+1317 chars]",
+      "retrievedAt": "2023-10-24 19:05:25.514758",
+      "internal_id": "56805568b1fe6e6c983e9cb1677dde86a00a13e5373a4a663d1b96982bf6553a",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2692,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "40,531 dengue cases confirmed in Nepal this year",
+      "description": "KATHMANDU: A total of 40,531 cases of dengue have been confirmed in Nepal leading to the loss of 20 lives since the beginning of 2023. While the rate of infection is declining in districts, including Sunsari, Jhapa, Dhading, Morang, and other previously heavi\u2026",
+      "url": "https://english.khabarhub.com/2023/23/323360/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-10-23 09:15:58",
+      "content": "KATHMANDU: A total of 40,531 cases of dengue have been confirmed in Nepal leading to the loss of 20 lives since the beginning of 2023. While the rate of infection is declining in districts, includin\u2026 [+1680 chars]",
+      "retrievedAt": "2023-10-24 19:05:24.542906",
+      "internal_id": "96ccb71e9d4f274ec961b9cd5118a8ea47886a92f6532e51fdab81604f344b05",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2688,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: antiviral mostra efeito pela primeira vez",
+      "description": "At\u00e9 o momento, o Brasil j\u00e1 registrou 1,55 milh\u00e3o de casos de dengue em 2023",
+      "url": "https://saude.ig.com.br/2023-10-23/dengue--antiviral-mostra-efeito-pela-primeira-vez.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2023-10-23 09:00:00",
+      "content": "Um antiviral contra a dengue, desenvolvido pela Janssen, mostrou resultado satisfat\u00f3rio contra o v\u00edrus quando testado em humanos. A empresa divulgou as conclus\u00f5es da segunda fase de tr\u00eas etapas no En\u2026 [+2689 chars]",
+      "retrievedAt": "2023-10-24 19:05:24.505854",
+      "internal_id": "8cce281ce8bd9c303fbd7c2d1eac334e677c082ab7def1f7111b8fbaac623f5e",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2699,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Sean Muhamad, Raka Adji",
+      "title": "Health Ministry confirms seven active cases of mpox in Indonesia",
+      "description": "The Ministry of Health confirmed the presence of seven active cases of monkeypox (mpox) in Indonesia, with all of them being detected in Jakarta. \"Currently, there are seven active cases of mpox with local ...",
+      "url": "https://en.antaranews.com/news/296883/health-ministry-confirms-seven-active-cases-of-mpox-in-indonesia",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/23/IMG_20231023_122729.jpg",
+      "publishedAt": "2023-10-23 07:47:33",
+      "content": "Jakarta (ANTARA) - The Ministry of Health confirmed the presence of seven active cases of monkeypox (mpox) in Indonesia, with all of them being detected in Jakarta.\"Currently, there are seven active \u2026 [+1990 chars]",
+      "retrievedAt": "2023-10-24 19:05:26.252836",
+      "internal_id": "0c1e9bd68d7a7f936b38b31df6908e70526fbdf82c883b5155b1d4e65e52f1d3",
+      "publishedAtLabel": "Oct 23"
+    },
     {
       "id": 2681,
       "query": [
@@ -3327,294 +3615,6 @@
       "content": "UTICA, N.Y. -- A skunk from Utica has tested positive for rabies. The animal was sent to the New York State Department of Health Wadsworth Center for testing on Oct. 10. The positive results were \u2026 [+991 chars]",
       "retrievedAt": "2023-10-13 07:05:36.536278",
       "internal_id": "449d07c02a4db093a6d5b2540c6a19ba7d8d9da876d9cade225809defbc88a43",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2498,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "\u00d3scar Rodr\u00edguez",
-      "title": "En Oaxaca, mantienen alerta epidemiol\u00f3gica por dengue en 46 municipios",
-      "description": "En Oaxaca, persiste la alerta epidemiol\u00f3gica en aproximadamente 46 municipios debido a los contagios de dengue, inform\u00f3Ignacio Z\u00e1rate Blas, director de Prevenci\u00f3n y Promoci\u00f3n de la Salud en Oaxaca.En este contexto, se han registrado siete nuevas defunciones: \u2026",
-      "url": "https://www.milenio.com/estados/continua-alerta-epidemiologica-dengue-municipios-oaxaca",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/11/ignacio-zarate-blas-director-prevencion.jpg",
-      "publishedAt": "2023-10-11 21:57:00",
-      "content": "En Oaxaca, persiste la alerta epidemiol\u00f3gica en aproximadamente 46 municipios debido a los contagios de dengue, inform\u00f3 Ignacio Z\u00e1rate Blas, director de Prevenci\u00f3n y Promoci\u00f3n de la Salud en Oaxaca. \u2026 [+1648 chars]",
-      "retrievedAt": "2023-10-13 07:05:37.214515",
-      "internal_id": "74f36bae097b66ccd3cb08baa4b2ac7847857cb2b4364cc43c5a603b8b48cf16",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2490,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "KaulaNhongo",
-      "title": "Resistant mosquito strains intensify malaria threat in southern Africa",
-      "description": "WINDHOEK, Oct. 11 (Xinhua) -- Emerging mosquito strains resistant to current treatments are intensifying the malaria threat in the Southern African Development Community (SADC) region, an official said on Wednesday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2023/10/12/resistant-mosquito-strains-intensify-malaria-threat-in-southern-africa",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-10-11 17:18:00",
-      "content": "WINDHOEK, Oct. 11 (Xinhua) -- Emerging mosquito strains resistant to current treatments are intensifying the malaria threat in the Southern African Development Community (SADC) region, an official sa\u2026 [+1700 chars]",
-      "retrievedAt": "2023-10-12 19:05:23.735905",
-      "internal_id": "55b689f706599579cdb16e2b87a7fb4bc372c7d2b5edb3d09aaebea2a1853acb",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2480,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Pien Huang",
-      "title": "Vaccine hesitancy affects dog-owners, too, with many questioning the rabies shot",
-      "description": "A survey finds that more than half of dog parents are doubtful about giving their pups the vaccine for rabies \u2014 a lethal disease that vaccination brought under control in the U.S.",
-      "url": "https://www.npr.org/sections/health-shots/2023/10/11/1205016558/canine-vaccine-hesitancy-dogs-rabies",
-      "urlToImage": "https://media.npr.org/assets/img/2023/10/10/gettyimages-165997986_wide-f57b65cef4f78f7b59a3bd709c2594f0a242c298-s1400-c100.jpg",
-      "publishedAt": "2023-10-11 17:13:24",
-      "content": "Rabies shots are mandatory in most of the U.S. but some dog owners are hesitant about giving their pets the vaccine. fotografixx/Getty Images Cindy Marabito runs a pit bull rescue out of her house \u2026 [+8383 chars]",
-      "retrievedAt": "2023-10-12 19:05:22.610963",
-      "internal_id": "98e9b511c0c8e76d9d8871d00465e9145ece30f80c0dd5e852cb2b5ad711d25e",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2495,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "El ECDC ha notificado 175 casos de mpox en 13 pa\u00edses en las \u00faltimas cuatro semanas",
-      "description": "En las \u00faltimas 4 semanas, se han identificado 175 casos de viruela del mono procedentes de 13 pa\u00edses, seg\u00fan el \u00faltimo informe del Centro Europeo para la Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s), que ya ha notificado un total de 26\u2026",
-      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-notificado-175-casos-mpox-13-paises-ultimas-cuatro-semanas-20231011184309.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231011184309_1200.jpg",
-      "publishedAt": "2023-10-11 16:43:09",
-      "content": "MADRID, 11 Oct. (EUROPA PRESS) - En las \u00faltimas 4 semanas, se han identificado 175 casos de viruela del mono procedentes de 13 pa\u00edses, seg\u00fan el \u00faltimo informe del Centro Europeo para la Prevenci\u00f3n\u2026 [+1394 chars]",
-      "retrievedAt": "2023-10-12 19:05:24.325768",
-      "internal_id": "7cbc9a6998c4767a34e0cddabb29c95161b19fc9e2728b36b542d5ba8d61d0b0",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2488,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abstvradio.com",
-      "author": "Abs Tv Radio",
-      "title": "HEALTH MINISTRY REVEALS LATEST FIGURES ON DENGUE FEVER; ASSURES THERE IS NO EPIDEMIC",
-      "description": "The Health Ministry says there have been 20 cases of dengue fever so far this year, but this does not constitute an epidemic. Acting Chief Medical Officer, Dr",
-      "url": "https://abstvradio.com/health-ministry-reveals-latest-figures-on-dengue-fever-assures-there-is-no-epidemic/",
-      "urlToImage": "https://abstvradio.com/wp-content/uploads/2023/10/health-ministry-reveals-latest-f.jpg",
-      "publishedAt": "2023-10-11 16:34:20",
-      "content": "The Health Ministry says there have been 20 cases of dengue fever so far this year, but this does not constitute an epidemic.Acting Chief Medical Officer, Dr Teri-Ann Joseph says the 12 cases recorde\u2026 [+236 chars]",
-      "retrievedAt": "2023-10-12 19:05:23.230990",
-      "internal_id": "1f561cc6e382f19b6c991da0c0153b7d9276526969226e8a719ba430afc0bc34",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2493,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": null,
-      "title": "Valneva to Present on Chikungunya at Several Leading Scientific Conferences",
-      "description": "(marketscreener.com) Saint-Herblain , October 11, 2023 \u2013 Valneva SE , a specialty vaccine company, announces today it will present on the mosquito-borne chikungunya disease at several leading scientific conferences during the fourth quarter of 2023. At IDWeek\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-to-Present-on-Chikungunya-at-Several-Leading-Scientific-Conferences-45041873/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-10-11 15:46:03",
-      "content": "Saint-Herblain (France), October 11, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, announces today it will present on the mosquito-borne chikungunya disease at seve\u2026 [+7161 chars]",
-      "retrievedAt": "2023-10-12 19:05:24.197826",
-      "internal_id": "6f54b84d6e1c67271403053abc594d69d4ef7bd77683628b62c5ffc88e1f3369",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2492,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Valneva to Present on Chikungunya at Several Leading Scientific Conferences",
-      "description": "Saint-Herblain (France), October 11, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, announces today it will present on the mosquito-borne chikungunya disease at several leading scientific conferences during the fourth quar\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/10/11/2758633/0/en/Valneva-to-Present-on-Chikungunya-at-Several-Leading-Scientific-Conferences.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-10-11 15:45:00",
-      "content": "Saint-Herblain (France), October 11, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, announces today it will present on the mosquito-borne chikungunya disease at seve\u2026 [+7092 chars]",
-      "retrievedAt": "2023-10-12 19:05:24.195272",
-      "internal_id": "2eac7411486844e6d5a098e574dd1e4e4e97587af582579810f416eabc15a426",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2494,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Valneva effectuera des pr\u00e9sentations sur le chikungunya lors de diff\u00e9rentes conf\u00e9rences scientifiques de premier plan",
-      "description": "Saint-Herblain (France), 11 octobre 2023 - Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd'hui qu'elle fera des pr\u00e9sentations sur le chikungunya, une maladie transmise par les moustiques, durant diff\u00e9rente\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/10/11/2758633/0/fr/Valneva-effectuera-des-pr%C3%A9sentations-sur-le-chikungunya-lors-de-diff%C3%A9rentes-conf%C3%A9rences-scientifiques-de-premier-plan.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-10-11 15:45:00",
-      "content": "Saint-Herblain (France), 11 octobre 2023 - Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd'hui qu'elle fera des pr\u00e9sentations sur le chikungunya,\u2026 [+7879 chars]",
-      "retrievedAt": "2023-10-12 19:05:24.200482",
-      "internal_id": "5aaa51f129ffa432b715e67931212ab75f12aaa35afe90270b279611bb8bc91c",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2504,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Kaski records 1,481 dengue cases so far",
-      "description": "KASKI: At least 1,481 infection cases have been confirmed in Kaski district, said the district health office. The number of patients with dengue visiting Pokhara Hospital has increased in recent days, said the hospital. A total of 11 dengue patients are recei\u2026",
-      "url": "https://english.khabarhub.com/2023/11/321972/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-10-11 15:15:50",
-      "content": "Image for Representation.KASKI: At least 1,481 infection cases have been confirmed in Kaski district, said the district health office. The number of patients with dengue visiting Pokhara Hospital has\u2026 [+1669 chars]",
-      "retrievedAt": "2023-10-13 07:05:37.289850",
-      "internal_id": "99ac3aec3a94a61181cb14a8416c968407fce4d4ec8cf317f73296ec4306ef39",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2489,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Bill Gates Is Investing $40 Million For mRNA \u201cVaccine\u201d Development In Africa",
-      "description": "The Gates Foundation, spearheaded by diabolical \"entrepreneur\" Bill Gates is investing $40 million in new mRNA vaccine creation efforts to prevent diseases like tuberculosis and malaria in countries in Africa. The announcement was made on Monday while the ne\u2026",
-      "url": "https://www.shtfplan.com/headline-news/bill-gates-is-investing-40-million-for-mrna-vaccine-development-in-africa",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2020/04/bill-gates-e1587987043100.jpg",
-      "publishedAt": "2023-10-11 15:00:21",
-      "content": "The Gates Foundation, spearheaded by diabolical \u201centrepreneur\u201d Bill Gates is investing $40 million in new mRNA vaccine creation efforts to prevent diseases like tuberculosis and malaria in countries \u2026 [+2478 chars]",
-      "retrievedAt": "2023-10-12 19:05:23.730829",
-      "internal_id": "3f1e216b4cd75f2a611946efff4d05e1a3036e21f25e260e21c9495fbc6d7ce9",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2491,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Nunu, W. N., Ndirangu, J., Tsoka-Gwegweni, J.",
-      "title": "Effects of COVID-19 on malaria elimination initiatives in sub-Saharan Africa: a scoping review protocol",
-      "description": "Introduction The occurrence of the COVID-19 pandemic significantly impacted health systems, resulting in varied outcomes of different variables in terms of health. Due to the nature of the causative organism that is spread mainly in the air, the disease rap\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/10/e076140?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-10-11 14:53:50",
-      "content": "Introduction The COVID-19 pandemic significantly impacted health systems, resulting in varied outcomes of different health variables.1 Generally, future health programme planning presents challenges\u2026 [+3357 chars]",
-      "retrievedAt": "2023-10-12 19:05:23.740246",
-      "internal_id": "5d8d599afdceee913ddc2589536cf179f1ab3840b5148b1222d79a7f2cc1bb0f",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2502,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infections till September reach 38,059",
-      "description": "KATHMANDU: The Ministry of Health and Population has said the number of dengue infections till September of the year 2023 exceeded 38,000. According to the data of the Epidemiology and Disease Control Division, the infection has so far spread to 76 districts,\u2026",
-      "url": "https://english.khabarhub.com/2023/11/321976/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/10/Epidemiology-and-Disease-Control-Division.jpeg",
-      "publishedAt": "2023-10-11 14:15:42",
-      "content": "Epidemiology and Disease Control Division/File photo.KATHMANDU: The Ministry of Health and Population has said the number of dengue infections till September of the year 2023 exceeded 38,000. Accord\u2026 [+1322 chars]",
-      "retrievedAt": "2023-10-13 07:05:37.283357",
-      "internal_id": "0d8cbecbf180b4bd56a357211f3efa32d3309f881aa4c543d55fcc25e0ddaebf",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2484,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Tom\u00e1s Guerreiro",
-      "title": "\u201cEm Portugal e Espanha, a \u00e1gua pot\u00e1vel ser\u00e1 racionada, as secas ser\u00e3o mais frequentes e os inc\u00eandios mais r\u00e1pidos e causar\u00e3o mais mortes\u201d",
-      "description": "O cientista Diarmid Campbell-Lendrum investiga h\u00e1 20 anos os efeitos do aquecimento global na sa\u00fade p\u00fablica. Diretor do departamento da Organiza\u00e7\u00e3o Mundial de Sa\u00fade (OMS) para as Altera\u00e7\u00f5es Clim\u00e1ticas foi pioneiro na elabora\u00e7\u00e3o de previs\u00f5es cient\u00edficas sobre \u2026",
-      "url": "https://expresso.pt/sociedade/2023-10-11-Em-Portugal-e-Espanha-a-agua-potavel-sera-racionada-as-secas-serao-mais-frequentes-e-os-incendios-mais-rapidos-e-causarao-mais-mortes-98c0ae8d",
-      "urlToImage": "https://images.impresa.pt/expresso/2023-08-18-incendio-de-Odemira.jpg-6aacd677/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-10-11 10:14:26",
-      "content": "Quais as consequ\u00eancias das altera\u00e7\u00f5es clim\u00e1ticas na sa\u00fade da popula\u00e7\u00e3o mundial?O aumento do stress t\u00e9rmico prejudica os idosos e os residentes urbanos. As doen\u00e7as infecciosas a mal\u00e1ria, o dengue, a c\u2026 [+1976 chars]",
-      "retrievedAt": "2023-10-12 19:05:23.188391",
-      "internal_id": "52fd1757dbbafa471c224dd636f2d91cdf9fff4554f088a86be401f0c47ae155",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2482,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "espn-cric-info",
-      "source_name": "ESPN Cric Info",
-      "author": "ESPNcricinfo staff",
-      "title": "Shubman Gill to rejoin Indian team in Ahmedabad but still doubtful for Pakistan fixture",
-      "description": "India opener is recovering from dengue and has missed the first two games of their World Cup campaign",
-      "url": "https://www.espncricinfo.com/story/shubman-gill-to-rejoin-indian-team-in-ahmedabad-1402478",
-      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/367900/367976.jpg",
-      "publishedAt": "2023-10-11 09:51:24",
-      "content": "NewsIndia opener is recovering from dengue and has missed the first two games of their World Cup campaign",
-      "retrievedAt": "2023-10-12 19:05:23.179353",
-      "internal_id": "b82b3213456bb280808bb7db490857cfea1d0ac084c872567022ffb5976e4d57",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2503,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "China to donate dengue testing kits to Bangladesh",
-      "description": "The Embassy of China in Bangladesh will donate dengue testing kits to Enam Medical College Hospital in Savar, on the outskirts of the capital, on Tuesday (October 11). As part of the initiative to assist Bangladesh in addressing the ongoing dengue surge, the \u2026",
-      "url": "https://sylhetmirror.com/2023/10/11/china-to-donate-dengue-testing-kits-to-bangladesh/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/10/Iiuyt.jpg",
-      "publishedAt": "2023-10-11 09:13:47",
-      "content": "The Embassy of China in Bangladesh will donate dengue testing kits to Enam Medical College Hospital in Savar, on the outskirts of the capital, on Tuesday (October 11). As part of the initiative to a\u2026 [+317 chars]",
-      "retrievedAt": "2023-10-13 07:05:37.287028",
-      "internal_id": "2b29e6f971bb7b37ac5edb21d5b737afeda68fb071ec9305c8c1172fc076a23e",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2485,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Shubman Gill to reach Ahmedabad on Wednesday but remains doubtful for Pakistan game",
-      "description": "Indian cricketer Shubman Gill, who is recovering from dengue fever, may not be able to participate in the World Cup clash against Pakistan on Saturday. Although Gill is expected to reach Ahmedabad, it is uncertain whether he will be able to have a light train\u2026",
-      "url": "https://economictimes.indiatimes.com/news/sports/shubman-gill-to-reach-ahmedabad-on-wednesday-but-remains-doubtful-for-pakistan-game/articleshow/104339043.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104339147,width-1200,height-630,imgsize-30548,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-11 09:09:11",
-      "content": "New Delhi, Recovering steadily from a bout of dengue fever, India opener Shubman Gill will be reaching Ahmedabad on Wednesday but still remains a doubtful starter for the marquee World Cup clash agai\u2026 [+1153 chars]",
-      "retrievedAt": "2023-10-12 19:05:23.192159",
-      "internal_id": "c76661b9e20a501823d77d8b0a62ef6d04c04ec1c8ec672beb32bafea5ec1386",
       "publishedAtLabel": "Oct 11"
     }
   ]
