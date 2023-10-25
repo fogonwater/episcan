@@ -1,8 +1,261 @@
 {
-  "last_updated": "2023-10-25 07:05",
+  "last_updated": "2023-10-25 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 2710,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Arden Dier",
+      "title": "5th State Reports Spread of Dengue",
+      "description": "California has reported its first locally acquired case of dengue, a mosquito-borne virus typically associated with tropical environments\u2014part of a trend that has seen the virus spread in new areas affected by climate change. A person living in Pasadena teste\u2026",
+      "url": "https://www.newser.com/story/341792/5th-state-reports-spread-of-dengue.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1498763-12-20231024133045.jpeg",
+      "publishedAt": "2023-10-24 18:17:00",
+      "content": "California has reported its first locally acquired case of dengue, a mosquito-borne virus typically associated with tropical environments\u2014part of a trend that has seen the virus spread in new areas a\u2026 [+2033 chars]",
+      "retrievedAt": "2023-10-25 19:05:20.862237",
+      "internal_id": "7a170eaac9223c473826dc665e12615db17cab9a7137cd2bc8e384497345d610",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2717,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "How eggs of the Zika-carrying mosquito survive desiccation",
+      "description": "Eggs of the mosquito that carries Zika virus can tolerate extended desiccation by altering their metabolism, according to a new study published October 24th in the open access journal PLOS Biology by Anjana Prasad, Sunil Laxman, and colleagues at the Institut\u2026",
+      "url": "https://phys.org/news/2023-10-eggs-zika-carrying-mosquito-survive-desiccation.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/how-eggs-of-the-zika-c.jpg",
+      "publishedAt": "2023-10-24 18:00:02",
+      "content": "Eggs of the mosquito that carries Zika virus can tolerate extended desiccation by altering their metabolism, according to a new study published October 24th in the open access journal PLOS Biology by\u2026 [+4149 chars]",
+      "retrievedAt": "2023-10-25 19:05:21.876148",
+      "internal_id": "917c334fb48abb9c570443d0f2e73841201a747b0a5ff6bf694a3e3a8cdf736a",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2706,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Anna Skinner",
+      "title": "States Most At Risk For Painful Breakbone Fever",
+      "description": "A California resident was diagnosed with the first locally acquired case of dengue virus last week.",
+      "url": "https://www.newsweek.com/states-risk-breakbone-fever-1837368",
+      "urlToImage": "https://d.newsweek.com/en/full/2298781/states-risk-painful-breakbone-fever.jpg",
+      "publishedAt": "2023-10-24 17:03:49",
+      "content": "A Pasadena, California, resident was diagnosed with the first locally acquired case of dengue virus last week, and the news has reignited a warning from the World Health Organization (WHO) issued ear\u2026 [+2991 chars]",
+      "retrievedAt": "2023-10-25 19:05:20.839113",
+      "internal_id": "c76fb286c210cd579409df25c80098a7ea20a1acc6e750371fdc16bd51d4e9f1",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2705,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "WHO chief scientist warns of endemic dengue in Europe, US (Politico)",
+      "description": "Politico: WHO chief scientist warns of endemic dengue in Europe, US \u2014 Jeremy Farrar, the World Health Organization's chief scientist, has warned that climate change will result in the infectious disease dengue becoming endemic in parts of Europe and the Uni\u2026",
+      "url": "https://www.memeorandum.com/231024/p29",
+      "urlToImage": "http://www.memeorandum.com/m/config/politics/iicon.gif",
+      "publishedAt": "2023-10-24 15:25:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2023-10-25 19:05:20.827991",
+      "internal_id": "c4b6e6584f435bd5171e722f9dbca07f4081a96778e26a5188b90e4955e49775",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2718,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Vietnamplus.vn",
+      "author": "VNA",
+      "title": "Indonesia works to tackle risk of monkeypox outbreak",
+      "description": "The Indonesian Ministry of Health confirmed the presence of seven active cases of monkeypox (mpox) in the country, with all of them detected in Jakarta, as reported by the national news agency Antara.",
+      "url": "https://en.vietnamplus.vn/indonesia-works-to-tackle-risk-of-monkeypox-outbreak/270129.vnp",
+      "urlToImage": null,
+      "publishedAt": "2023-10-24 14:39:00",
+      "content": "Jakarta (VNA) - The Indonesian Ministry of Health confirmed the presence of seven active cases of monkeypox (mpox) in the country, with all of them detected in Jakarta, as reported by the national\u2026 [+636 chars]",
+      "retrievedAt": "2023-10-25 19:05:22.258567",
+      "internal_id": "bf5b30e86e96576bb1357f7978019025b99833a8774150525c74a640bb17ef05",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2716,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Stephen P. Mwangungulu, Deus Dorothea, Zakaria R. Ngereja, Emmanuel W. Kaindoa",
+      "title": "Geospatial based model for malaria risk prediction in Kilombero valley, South-eastern, Tanzania",
+      "description": "Background Malaria continues to pose a major public health challenge in tropical regions. Despite significant efforts to control malaria in Tanzania, there are still residual transmission cases. Unfortunately, little is known about where these residual malari\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293201",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0293201.g007&size=inline",
+      "publishedAt": "2023-10-24 14:00:00",
+      "content": "Abstract Background Malaria continues to pose a major public health challenge in tropical regions. Despite significant efforts to control malaria in Tanzania, there are still residual transmission \u2026 [+68237 chars]",
+      "retrievedAt": "2023-10-25 19:05:21.540020",
+      "internal_id": "188a2ae6da92c073e590858fcd3c2dfc22c1037dc080cf43dedb0fc969e58760",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2707,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Ouest-France",
+      "title": "Dengue : 36 cas autochtones d\u00e9tect\u00e9s en France m\u00e9tropolitaine depuis le mois de mai",
+      "description": "En France m\u00e9tropolitaine, 36 cas autochtones de dengues ont \u00e9t\u00e9 enregistr\u00e9s entre le 1er mai et le 20 octobre 2023. D\u2019apr\u00e8s Sant\u00e9 Publique France, ces cas ont \u00e9t\u00e9 recens\u00e9s en Paca, en Occitanie et notamment en Auvergne Rh\u00f4ne-Alpes.",
+      "url": "https://www.ouest-france.fr/sante/moustique/dengue-36-cas-autochtones-detectes-en-france-metropolitaine-depuis-le-mois-de-mai-7aed4c04-7267-11ee-8ee4-6d23d2858b34",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMzEwN2Q3ZTM1OWVkMTI3NjcyZDUyZjE2YTAzMDY1M2Q4Mzk?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=fd1f97829c4c4b77d57c33cf0dc8b094509c1374c7e8a5a7d03bc8e335b36ed0",
+      "publishedAt": "2023-10-24 13:34:51",
+      "content": "36 cas autochtones de dengue ont \u00e9t\u00e9 d\u00e9tect\u00e9s en France m\u00e9tropolitaine depuis le d\u00e9but de la surveillance, \u00e0 savoir entre le 1er mai et le 20 octobre 2023, a fait savoir Sant\u00e9 Publique France. Couran\u2026 [+1473 chars]",
+      "retrievedAt": "2023-10-25 19:05:20.844622",
+      "internal_id": "284c9de77819adc25263a4cdafe94f88aa3407766ac73cff031e0e3141f6bc73",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2709,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.lat",
+      "author": "Sputnik Mundo",
+      "title": "El dengue \"llegar\u00e1 a ser end\u00e9mico\" en EEUU y Europa debido al cambio clim\u00e1tico",
+      "description": "MOSC\u00da (Sputnik) \u2014 El cient\u00edfico de la Organizaci\u00f3n Mundial de la Salud (OMS) Jeremy Farrar declar\u00f3 que el cambio clim\u00e1tico llevar\u00e1 a que el virus del dengue, hoy difundido en las regiones de clima tropical y subtropical, llegue a ser end\u00e9mico en algunas regio\u2026",
+      "url": "https://sputniknews.lat/20231024/el-dengue-llegara-a-ser-endemico-en-eeuu-y-europa-debido-al-cambio-climatico-1145071903.html",
+      "urlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1145071903.jpg?11374873571698149998",
+      "publishedAt": "2023-10-24 12:12:00",
+      "content": "Suscr\u00edbete a nuestros canales de Telegram a trav\u00e9s de estosenlaces. Ya que la aplicaci\u00f3n Sputnik est\u00e1 bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo m\u00f3v\u2026 [+78 chars]",
+      "retrievedAt": "2023-10-25 19:05:20.857040",
+      "internal_id": "f6aa62caf6edfd5b7333285f536db192e28becd7eb6edfe1aa3f9e14a65383c5",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2713,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Crossway.org",
+      "author": "Chris Castaldo",
+      "title": "God\u2019s Blessing Goes Deeper than Any Gift or Experience",
+      "description": "We often think of God's blessing as an achievement or an experience, but it actually goes far deeper. Chris Castaldo started learning this lesson at age nineteen in a hospital.",
+      "url": "https://www.crossway.org/articles/gods-blessing-goes-deeper-than-any-gift-or-experience/",
+      "urlToImage": "https://static.crossway.org/articles/images/Gods-Blessing-Goes-Deeper-than-Any-Gift-or-Experience.jpg",
+      "publishedAt": "2023-10-24 11:00:00",
+      "content": "Big Questions We often think of Gods blessing as an achievement or an experience, but it actually goes far deeper. I started learning this lesson at age nineteen. I had meningitis. I was in the hos\u2026 [+2606 chars]",
+      "retrievedAt": "2023-10-25 19:05:21.145087",
+      "internal_id": "41e7094fac9f2a87eedc9478218553175a911135925a884851b5afd1b06a4854",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2714,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Ocean Biomedical, Inc.",
+      "title": "Ocean Biomedical (NASDAQ: OCEA) Announces $1 Million Falk Award for Malaria Drug Candidate Addressing Evolving Resistance to Artemisinin-Based Therapeutics to Chief Scientist Dr. Jonathan Kurtis",
+      "description": "Providence, RI, Oct. 24, 2023 (GLOBE NEWSWIRE) -- Ocean Biomedical, Inc. (NASDAQ: OCEA), today announced that its Chief Scientist, Jonathan Kurtis MD, PhD has received the prestigious Falk Medical Research Trust Transformational Award to advance a new class o\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/10/24/2765418/0/en/Ocean-Biomedical-NASDAQ-OCEA-Announces-1-Million-Falk-Award-for-Malaria-Drug-Candidate-Addressing-Evolving-Resistance-to-Artemisinin-Based-Therapeutics-to-Chief-Scientist-Dr-Jonath.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
+      "publishedAt": "2023-10-24 10:30:00",
+      "content": "Providence, RI, Oct. 24, 2023 (GLOBE NEWSWIRE) -- Ocean Biomedical, Inc. (NASDAQ:OCEA), today announced that its Chief Scientist, Jonathan Kurtis MD, PhD has received the prestigious Falk Medical Res\u2026 [+8214 chars]",
+      "retrievedAt": "2023-10-25 19:05:21.526765",
+      "internal_id": "01a93351e38bc90c0144983162c5134ba825513d2058b84f68d22aa5aaaa3908",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2708,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Ashleigh Furlong, Helen Collis",
+      "title": "WHO chief scientist warns of endemic dengue in Europe, US",
+      "description": "This will have a significant impact on Europe\u2019s health systems, top professor says.",
+      "url": "https://www.politico.eu/article/who-chief-scientist-warns-of-endemic-dengue-in-europe-us/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/10/24/GettyImages-1173055853-scaled.jpg",
+      "publishedAt": "2023-10-24 08:13:35",
+      "content": "Jeremy Farrar, the World Health Organizations chief scientist, has warned that climate change will result in the infectious disease dengue becoming endemic in parts of Europe and the United States, i\u2026 [+910 chars]",
+      "retrievedAt": "2023-10-25 19:05:20.849800",
+      "internal_id": "bb8773d1d6a9039fd6ec99b0e87f3e58778ba1fb81bd5cbe2dbba2e1832a3d8c",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2712,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "N.B. (20 Minutes)",
+      "title": "Montpellier : Deux cas de dengue signal\u00e9s dans le quartier Estanove, les premiers dans l\u2019H\u00e9rault cette ann\u00e9e",
+      "description": "L\u2019\u00e9tat de sant\u00e9 des personnes malades n\u2019inspire toutefois pas d\u2019inqui\u00e9tude",
+      "url": "https://www.20minutes.fr/faits_divers/4059208-20231024-montpellier-deux-cas-dengue-signales-quartier-estanove-premiers-herault-annee",
+      "urlToImage": "https://img.20mn.fr/ovu8fs56RAig8B3UNGIWZik/1200x768_illustration-moustique-tigre-aedes-albopictus-credit-lodi-franck-sipa-1506161743",
+      "publishedAt": "2023-10-24 08:04:26",
+      "content": "Deux cas de dengue, chez des personnes n\u2019ayant pas voyag\u00e9 r\u00e9cemment en zone tropicale, ont \u00e9t\u00e9 signal\u00e9s \u00e0 Montpellier (H\u00e9rault), rapporte l\u2019Agence r\u00e9gionale de sant\u00e9 (ARS) d\u2019Occitanie, dans un commun\u2026 [+1156 chars]",
+      "retrievedAt": "2023-10-25 19:05:20.887037",
+      "internal_id": "f90a022c0bc543b29c90788c1a2b07219a7a5afb8996242f09a79ab653a1db10",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2715,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "Leo MCGUINN",
+      "title": "Two hostages freed by Hamas as talks break down to release 50 more",
+      "description": "IN THE PRESS \u2013 Tuesday, October 24: We take a look at press reaction to two more hostages being released by Hamas, as well as the US and EU disagreeing on the need for a ceasefire. Also, the Washington Post has a long read on the spread of malaria. Finally, t\u2026",
+      "url": "https://www.france24.com/en/tv-shows/in-the-press/20231024-two-hostages-freed-by-hamas-as-talks-break-down-to-release-50-more",
+      "urlToImage": "https://s.france24.com/media/display/008e3e22-7231-11ee-8100-005056bfb2b6/w:1280/p:16x9/ANGL231024-0721-Live_CS0721.jpg",
+      "publishedAt": "2023-10-24 08:00:44",
+      "content": "Issued on: 24/10/2023 - 10:00 IN THE PRESS Tuesday, October 24: We take a look at press reaction to two more hostages being released by Hamas, as well as the US and EU disagreeing on the need for a \u2026 [+250 chars]",
+      "retrievedAt": "2023-10-25 19:05:21.535070",
+      "internal_id": "5f7dcaaec2b2e47b1f1a0d4cfeabf620f53eb3194ce2d020e6592d5c7f495253",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2711,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "radiodabanga@gmail.com (Dabanga)",
+      "title": "Health Services in Disarray - Thousands of Children Will Die By the End of This Year, Say Unicef, WHO",
+      "description": "[Dabanga] Khartoum / El Gedaref / En Nahud -- The Coalition of Civilian Forces in Eastern Sudan has condemned the way the de facto military authorities are dealing with a worsening cholera epidemic, as well as malaria and dengue fever in El Gedaref state. UNI\u2026",
+      "url": "https://allafrica.com/stories/202310240073.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-24 07:22:05",
+      "content": "Khartoum / El Gedaref / En Nahud \u2014 The Coalition of Civilian Forces in Eastern Sudan has condemned the way the de facto military authorities are dealing with a worsening cholera epidemic, as well as \u2026 [+5255 chars]",
+      "retrievedAt": "2023-10-25 19:05:20.870596",
+      "internal_id": "7096ea1bf6da6a67b7750e4d6814bd5959b932de81d7a46b07716ae14989d2ad",
+      "publishedAtLabel": "Oct 24"
+    },
     {
       "id": 2700,
       "query": [
@@ -3364,258 +3617,6 @@
       "content": "Abstract Malaria is a devastating infectious disease and significant global health burden caused by the bite of a Plasmodium-infected female Anopheles mosquito. Gut microbiota was recently discovere\u2026 [+81946 chars]",
       "retrievedAt": "2023-10-13 19:05:28.858104",
       "internal_id": "9e67f8b1432df5a0f6e575b135982fdd89aa7afc7833d4a750ad9fa1352eb47f",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2521,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Vanessa Tita Jugha, Juliana Adjem Anchang, Germain Sotoing Taiwe, Helen Kuokuo Kimbi, Judith Kuoh Anchang-Kimbi",
-      "title": "Association between malaria and undernutrition among pregnant women at presentation for antenatal care in health facilities in the Mount Cameroon region",
-      "description": "In resource limited settings, malaria and undernutrition are major public health problems in pregnancy. Therefore, this study assessed the association between malaria infection and undernutrition among pregnant women in the Mount Cameroon area. This cross-sec\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292550",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0292550.g002&size=inline",
-      "publishedAt": "2023-10-12 14:00:00",
-      "content": "Abstract In resource limited settings, malaria and undernutrition are major public health problems in pregnancy. Therefore, this study assessed the association between malaria infection and undernut\u2026 [+58899 chars]",
-      "retrievedAt": "2023-10-13 19:05:28.869602",
-      "internal_id": "a688e58e89c15b5c2efc537deba054a7895d130c43a26b748f035f96d880c95d",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2515,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Sports Desk",
-      "title": "These India vs Pakistan stats for 2023 make it tough to pick a winner",
-      "description": "India and Pakistan face off in a round-robin fixture at the Narendra Modi Stadium in Ahmedabad. India started their campaign with a six-wicket victory over Australia and an eight-wicket win over Afghanistan. Pakistan, on the other hand, showed their red-hot f\u2026",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/icc-world-cup-these-india-vs-pakistan-stats-for-2023-make-it-tough-to-pick-a-winner/articleshow/104376766.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104377080,width-1070,height-580,imgsize-41584,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-12 13:59:05",
-      "content": "ODI World Cup: Eye on Pakistan game, Shubman Gill back in nets for hour-long sessionThe Indian camp had a reason to be optimistic on Thursday as Shubman Gill, who was recovering from dengue, returned\u2026 [+108 chars]",
-      "retrievedAt": "2023-10-13 19:05:27.970679",
-      "internal_id": "9e1062bf2f836e6b89a44407a5eb629584d6a87fe243abf2a774a1fa761f1613",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2528,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "13 more die from dengue, 2,344 hospitalised in 24hr",
-      "description": "Thirteen more from dengue patients died across the country in 24 hours till Thursday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,135 this year. Of the 13 deaths, six were reported in the capital. According to the Directo\u2026",
-      "url": "https://sylhetmirror.com/2023/10/12/13-more-die-from-dengue-2344-hospitalised-in-24hr/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/10/dfgdrth.jpg",
-      "publishedAt": "2023-10-12 13:44:32",
-      "content": "Thirteen more from dengue patients died across the country in 24 hours till Thursday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,135 this year. Of the 13 death\u2026 [+692 chars]",
-      "retrievedAt": "2023-10-14 07:05:27.862324",
-      "internal_id": "f16bc10d68a7d9871ef444735fcfdb6f131375d8b9f85549851734acf94ad32a",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2513,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Sports Desk",
-      "title": "Watch: Pakistan team receives traditional warm welcome in Ahmedabad",
-      "description": "The renowned Indian hospitality once again shone brightly as the Pakistan squad was given a grand reception at their team hotel in Ahmedabad, following a jubilant in-flight celebration. This warm welcome preceded their highly anticipated World Cup clash again\u2026",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-pakistan-team-receives-traditional-warm-welcome-in-ahmedabad/articleshow/104376772.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104376869,width-1070,height-580,imgsize-58804,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-12 13:43:27",
-      "content": "ODI World Cup: Eye on Pakistan game, Shubman Gill back in nets for hour-long sessionThe Indian camp had a reason to be optimistic on Thursday as Shubman Gill, who was recovering from dengue, returned\u2026 [+108 chars]",
-      "retrievedAt": "2023-10-13 19:05:27.960422",
-      "internal_id": "8f2265e2f02797a9b726403ad86af434d88cf848f76fdb75dea0fe8f3b75064b",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2512,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Sports Desk",
-      "title": "Eye on Pakistan game, Gill back in nets for hour-long session",
-      "description": "The Indian camp had a reason to be optimistic on Thursday as Shubman Gill, who was recovering from dengue, returned to the practice nets, fueling hopes of his possible comeback in Saturday's World Cup match against Pakistan.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/odi-world-cup-eye-on-pakistan-game-shubman-gill-back-in-nets-for-hour-long-session/articleshow/104375965.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104376092,width-1070,height-580,imgsize-89530,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-12 13:08:26",
-      "content": "WATCH: Shubman Gill reaches Ahmedabad ahead of Pakistan clashRecovering steadily from dengue fever, Indian opener Shubman Gill arrived in Ahmedabad on Wednesday. However, the elegant right-handed bat\u2026 [+159 chars]",
-      "retrievedAt": "2023-10-13 19:05:27.952459",
-      "internal_id": "8dca258b9e2e92dcb9ca248e59a2c58f440e2c36047a25b4010b2ab7e2cb2626",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2518,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "S\u00fcddeutsche Zeitung",
-      "author": "Kolumne von Lillian Ikulumet",
-      "title": "SZ-Kolumne Typisch deutsch: Die Malaria der M\u00fcnchner",
-      "description": "Die Wiesngrippe hat die Landeshauptstadt im Griff wie selten. Unsere Autorin hat es diesmal besonders erwischt, aber sie stellt fest: Ugandisches Unkraut vergeht nicht.",
-      "url": "https://www.sueddeutsche.de/muenchen/typisch-deutsch-wiesngrippe-malaria-der-muenchner-1.6286533",
-      "urlToImage": "https://www.sueddeutsche.de/image/sz.1.5710227/1200x675?v=1697113866",
-      "publishedAt": "2023-10-12 12:31:19",
-      "content": "Die Wiesngrippe hat die Landeshauptstadt im Griff wie selten. Unsere Autorin hat es diesmal besonders erwischt, aber sie stellt fest: Ugandisches Unkraut vergeht nicht.Das Niesen nach der Wiesn, es i\u2026 [+217 chars]",
-      "retrievedAt": "2023-10-13 19:05:28.845353",
-      "internal_id": "c042ce14cda9ba584db1795c5c0025b63056b7ffebf0f2a5a5076f78fad17e50",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2510,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "il-sole-24-ore",
-      "source_name": "Il Sole 24 Ore",
-      "author": "di Nicola Barone",
-      "title": "Crescono i casi di Dengue in Italia, cos\u2019\u00e8 il virus e perch\u00e9 si continua a diffondere",
-      "description": "Anche se con numeri limitati, lentamente aumentano le infezioni. La temperatura ancora piuttosto alta contribuisce alla circolazione delle zanzare",
-      "url": "https://www.ilsole24ore.com/art/crescono-casi-dengue-italia-cos-e-virus-e-perche-si-continua-diffondere-AFP9btCB",
-      "urlToImage": "https://i2.res.24o.it/images2010/2023/10/AFP9btCB/images/ae95a7ba-68f6-11ee-9db9-90658403dbb7-fotohome0.jpg",
-      "publishedAt": "2023-10-12 11:56:15",
-      "content": "Ascolta la versione audio dell'articolo 2' di lettura Non accennano a calare i casi di Dengue in Italia, che in totale si attestano a 261 quando erano 249 la scorsa settimana. Di questi i casi auto\u2026 [+2339 chars]",
-      "retrievedAt": "2023-10-13 19:05:27.906293",
-      "internal_id": "d911f0d77c65c445ac08972d299196b789a60fb39ccb85203ecd6be202720acf",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2517,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Internazionale.it",
-      "author": "Internazionale",
-      "title": "La malaria cambia zona",
-      "description": "\u25c6 Il cambiamento climatico potrebbe ridurre la diffusione della malaria, almeno in alcune aree geografiche. \u00c8 una delle ipotesi formulate dai ricercatori che studiano le... Leggi",
-      "url": "https://www.internazionale.it/magazine/2023/10/12/la-malaria-cambia-zona",
-      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
-      "publishedAt": "2023-10-12 10:18:43",
-      "content": "Il cambiamento climatico potrebbe ridurre la diffusione della malaria, almeno in alcune aree geografiche. \u00c8 una delle ipotesi formulate dai ricercatori che studiano le conseguenze del fenomeno sulla \u2026 [+1534 chars]",
-      "retrievedAt": "2023-10-13 19:05:28.835307",
-      "internal_id": "d667e6f7c46fdd8290dca9e48eb1ad5358f0b4047ad4f375eaea05ceec553d70",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2508,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "SHARON LING",
-      "title": "15 rabies deaths in Sarawak so far this year",
-      "description": "KUCHING: Sarawak has recorded 15 deaths from 17 rabies cases so far this year, while 100 animals have tested positive for the virus, says Datuk Seri Dr Stephen Rundi. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/12/15-rabies-deaths-in-sarawak-so-far-this-year",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/12/2332448.jpeg",
-      "publishedAt": "2023-10-12 09:44:00",
-      "content": "KUCHING: Sarawak has recorded 15 deaths from 17 rabies cases so far this year, while 100 animals have tested positive for the virus, says Datuk Seri Dr Stephen Rundi. The state Food Industry, Commod\u2026 [+1522 chars]",
-      "retrievedAt": "2023-10-13 19:05:26.792910",
-      "internal_id": "88fadf45bc75b0b9572d2b2e83d5a3184625b18727cea650c5bbaa47f9046d86",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2509,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Pien Huang",
-      "title": "Vaccine hesitancy affects dog-owners, too, with many questioning the rabies shot",
-      "description": "A survey finds more than half of U.S. dog owners question the safety, efficacy or usefulness of the vaccine for rabies, which is a lethal disease. (Story aired on ATC on Oct. 11, 2023.)",
-      "url": "https://www.npr.org/2023/10/12/1205361332/vaccine-hesitancy-affects-dog-owners-too-with-many-questioning-the-rabies-shot",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "publishedAt": "2023-10-12 09:08:15",
-      "content": "A survey finds more than half of U.S. dog owners question the safety, efficacy or usefulness of the vaccine for rabies, which is a lethal disease. (Story aired on ATC on Oct. 11, 2023.)",
-      "retrievedAt": "2023-10-13 19:05:26.803363",
-      "internal_id": "d053f002dbb0afa4de4809fdda26d7d8c590185386b4d7c384e04c4fdf0b8f38",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2529,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Peoplesreview.com.np",
-      "author": "peoples_12ad",
-      "title": "VP Yadav suffering from Dengue",
-      "description": "Kathmandu, 12 October: Vice President Ramsahaya Prasad Yadav was admitted to the Civil Hospital in New Baneswar on Wednesday evening after feeling sick. He is suffering from dengue. He is recovering his health, according to the hospital source. People\u2019s News \u2026",
-      "url": "https://www.peoplesreview.com.np/2023/10/12/vp-yadav-suffering-from-dengue/",
-      "urlToImage": "https://i0.wp.com/www.peoplesreview.com.np/wp-content/uploads/2023/08/VP-Yadav.jpeg?fit=300%2C200&ssl=1",
-      "publishedAt": "2023-10-12 07:30:36",
-      "content": "Editor-in-Chief: Pushpa Raj Pradhan Consultant Editor Emeritus: Mana Ranjan Josse Contributing Editor: Prof Dr Shashi P.B.B. Malla Guest Editor: Yug Bahadur Managing Editor: Sushma Shrestha Chie\u2026 [+474 chars]",
-      "retrievedAt": "2023-10-14 07:05:27.865023",
-      "internal_id": "d1fa03a36c1e0954f47aeee6b34b636f427e69c703ae82a56aa79cdba7c61d95",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2507,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "FOCUS online",
-      "title": "Von M\u00fccken \u00fcbertragen - Chikungunya-Virus in Triest - B\u00fcrgermeister l\u00e4sst Bezirk desinfizieren",
-      "description": "In Triest ist ein weiterer Fall von Chikungunya aufgetreten. Es handelt sich um den f\u00fcnften Fall in Italien. Der B\u00fcrgermeister greift zu drastischen Ma\u00dfnahmen.",
-      "url": "https://www.focus.de/panorama/welt/von-muecken-uebertragen-chikungunya-virus-in-triest-buergermeister-laesst-bezirk-desinfizieren_id_223282068.html",
-      "urlToImage": "https://p6.focus.de/img/fotos/id_223281519/muecke.jpg?im=Crop%3D%280%2C288%2C3464%2C1732%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=4383eb64dc14a4494279118adcffed79e90dd1b952fe1398ea6706275b340079",
-      "publishedAt": "2023-10-12 05:50:39",
-      "content": "In Triest ist ein weiterer Fall von Chikungunya aufgetreten. Es handelt sich um den f\u00fcnften Fall in Italien. Der B\u00fcrgermeister greift zu drastischen Ma\u00dfnahmen.In Triest ist der f\u00fcnfte italienweite Fa\u2026 [+1641 chars]",
-      "retrievedAt": "2023-10-13 07:05:38.736984",
-      "internal_id": "122581cca04acbf17f6a42e3a2707c0531cc4753962febb269e427326b27917e",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2505,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Vice President Yadav diagnosed with Dengue",
-      "description": "KATHMANDU: Vice President Ramsahay Prasad Yadav has been confirmed to have contracted dengue fever. He is currently receiving treatment at the Civil Hospital in New Baneshwar. According to his private physician, Dr. Shivaji Silwal, there has been a noticeable\u2026",
-      "url": "https://english.khabarhub.com/2023/12/322048/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/12/Ramsahaya-Prasad-Yadav-JSP.png",
-      "publishedAt": "2023-10-12 05:45:56",
-      "content": "KATHMANDU: Vice President Ramsahay Prasad Yadav has been confirmed to have contracted dengue fever. He is currently receiving treatment at the Civil Hospital in New Baneshwar. According to his priv\u2026 [+317 chars]",
-      "retrievedAt": "2023-10-13 07:05:37.294635",
-      "internal_id": "5a88a968e10bcca5b0af49707bbe3870028d85ce6de233098158b07b249e9e72",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2499,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Fruits and vegetables to help you recover from dengue faster",
-      "description": "Here are the best fruits and vegetables a dengue patient should eat everyday to recover faster.",
-      "url": "https://economictimes.indiatimes.com/news/web-stories/fruits-and-vegetables-to-help-you-recover-from-dengue-faster/slideshow/104360441.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104360528,width-900,height-460,resizemode-4.cms",
-      "publishedAt": "2023-10-12 05:26:16",
-      "content": "Papayas have active compunds such as papain, caricain, chymopapain, acetogenin and more that are required to reduce dengue-related inflammation.",
-      "retrievedAt": "2023-10-13 07:05:37.226884",
-      "internal_id": "1e5dcca20018d6fe9aeedb07439a41ecc6afa5c7ae80807a089637c1f51bdd35",
       "publishedAtLabel": "Oct 12"
     }
   ]
