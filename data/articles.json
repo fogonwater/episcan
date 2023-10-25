@@ -1,8 +1,100 @@
 {
-  "last_updated": "2023-10-24 19:05",
+  "last_updated": "2023-10-25 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 16,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 2700,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Hipertextual",
+      "author": "Juan Carlos Figueroa",
+      "title": "Avanza con \u00e9xito la prueba de la primera pastilla contra el dengue",
+      "description": "Una prometedora pastilla contra el dengue ha demostrado ser efectivo sobre un grupo de pacientes. El f\u00e1rmaco es desarrollado por el laboratorio Johnson & Johnson. \u00abEs el primero que muestra actividad antiviral contra el dengue\u00bb, dijo Marnix Van Loock, l\u00edder d\u2026",
+      "url": "http://hipertextual.com/2023/10/avanza-con-exito-la-prueba-de-la-primera-pastilla-contra-el-dengue",
+      "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/10/transmisor-del-dengue.jpg?fit=1600%2C1066&quality=50&strip=all&ssl=1",
+      "publishedAt": "2023-10-23 23:49:00",
+      "content": "Una prometedora pastilla contra el dengue ha demostrado ser efectivo sobre un grupo de pacientes. El f\u00e1rmaco es desarrollado por el laboratorio Johnson &amp; Johnson. \u00abEs el primero que muestra activ\u2026 [+3669 chars]",
+      "retrievedAt": "2023-10-25 07:05:47.975226",
+      "internal_id": "f42ea00edcec23b3e0d3a76f866067c30ba2b8015ded9d916ef3c345ed0b359c",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2701,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.pt",
+      "author": "Ana Mafalda In\u00e1cio",
+      "title": "Instituto de Medicina Tropical pede \u00e0 popula\u00e7\u00e3o que ajude a localizar mosquito invasor",
+      "description": "O mosquito Aedes albopictus, fonte de doen\u00e7as graves, como dengue, Zika, chikungunya e febre-amarela, foi identificado pela primeira vez em Lisboa h\u00e1 tr\u00eas semanas. E tal s\u00f3 foi poss\u00edvel porque uma cidad\u00e3 estranhou-o, fotografou-o e enviou-o para o pr\u2026",
+      "url": "https://www.dn.pt/sociedade/instituto-de-medicina-tropical-pede-a-populacao-que-ajude-a-localizar-mosquito-invasor-17211458.html",
+      "urlToImage": "https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=d37e995b-70c7-489d-a85b-b295f9cceaa2&w=800&h=420&watermark=true&t=20231024000400",
+      "publishedAt": "2023-10-23 23:04:00",
+      "content": "Aedes albopictus \u00e9 uma das esp\u00e9cies de mosquitos invasores mais perigosas, capaz de transmitir doen\u00e7as como dengue, Zika, chikungunya e febre-amarela. Antes, as regi\u00f5es da \u00c1sia eram os seus territ\u00f3ri\u2026 [+9897 chars]",
+      "retrievedAt": "2023-10-25 07:05:47.989425",
+      "internal_id": "c9991a0de20053688469cf36ad1dec7d8eda27a9e7358a18314986590f1a71f9",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2704,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Where malaria is spreading - Rachel Chason and Jahi Chikwendiu traveled to Nampula ... (Washington Post)",
+      "description": "Washington Post: Where malaria is spreading \u2014 Rachel Chason and Jahi Chikwendiu traveled to Nampula, Maputo and Niassa provinces in Mozambique to report on how malaria is making new inroads in a warming world. Kevin Crowe analyzed the potential for spread \u2026",
+      "url": "https://www.memeorandum.com/231023/p50",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QYWIQ2TBFDMXOWUJ3XCKF4VAQ.jpg&w=1200",
+      "publishedAt": "2023-10-23 22:30:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2023-10-25 07:05:48.550260",
+      "internal_id": "58701e2e26a3b5a274ab20cf89099e748d9592459ecfa307826bc9a8a21c5b3e",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2703,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "WebMD",
+      "author": "Ralph Ellis",
+      "title": "FDA Approves Pfizer\u2019s Vaccine for Meningococcal Disease",
+      "description": "The U.S. Food and Drug Administration has approved Pfizer\u2019s application for Penbraya, a vaccine for people 10 through 25 that will offer protection against the five main kinds of bacteria that cause meningitis and blood poisoning.",
+      "url": "https://www.webmd.com/a-to-z-guides/news/20231023/fda-approves-pfizers-vaccine-for-meningococcal-disease",
+      "urlToImage": "https://img.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/visual_guide_meningitis_slideshow/1800x1200_visual_guide_meningitis_slideshow.jpg",
+      "publishedAt": "2023-10-23 22:06:24",
+      "content": "Oct. 23, 2023 -- The U.S. Food and Drug Administration has approved Pfizers application for Penbraya, a vaccine for people 10 through 25 that will offer protection against the five main kinds of bact\u2026 [+1033 chars]",
+      "retrievedAt": "2023-10-25 07:05:48.247405",
+      "internal_id": "31eb794b71874aba7f54091e514296d4f73057d059079e35887d97078d640bc9",
+      "publishedAtLabel": "Oct 23"
+    },
+    {
+      "id": 2702,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Themessenger.com",
+      "author": "Mansur Shaheen",
+      "title": "Deadly Virus Surfaces in California for First Time",
+      "description": "The dengue virus has appeared in Calirfonia for the first time ever, with officials reporting a domestic-borne case of the disease",
+      "url": "https://themessenger.com/health/california-dengue-pasadena-jamaica-bangladesh-deadly-virus",
+      "urlToImage": "https://cms.themessenger.com/wp-content/uploads/2023/10/Pasadena-1491566199.jpg",
+      "publishedAt": "2023-10-23 22:02:17",
+      "content": "The dengue virus is circulating in California for the first time, health officials warn. An unnamed person in Pasadena, just northeast of Los Angeles, has tested positive for the virus after having \u2026 [+1869 chars]",
+      "retrievedAt": "2023-10-25 07:05:48.009151",
+      "internal_id": "601021042dee3e9facc7c2b0c501a325806a8b9a5ce3cb12cd1b38d51b0ff545",
+      "publishedAtLabel": "Oct 23"
+    },
     {
       "id": 2693,
       "query": [
@@ -3525,97 +3617,6 @@
       "retrievedAt": "2023-10-13 07:05:37.226884",
       "internal_id": "1e5dcca20018d6fe9aeedb07439a41ecc6afa5c7ae80807a089637c1f51bdd35",
       "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2500,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-irish-times",
-      "source_name": "The Irish Times",
-      "author": "Stephanie Nolen, Natalija Gormalova",
-      "title": "The gamble: can genetically-modified mosquitoes end disease?",
-      "description": "Scientists are battling both disease such as malaria and dengue fever and also local unease over nature of experiments",
-      "url": "https://www.irishtimes.com/business/innovation/2023/10/12/the-gamble-can-genetically-modified-mosquitoes-end-disease/",
-      "urlToImage": "https://www.irishtimes.com/resizer/l4pX5A_trVCB89m-5SGWyBHR-KY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/XCOEDK2LXBA4RMAEOOUSG7BBAQ.jpg",
-      "publishedAt": "2023-10-12 04:00:00",
-      "content": "On a muggy evening in July on the island of Pr\u00edncipe, part of a volcanic archipelago 200 miles off the west African mainland, 11,000 mosquitoes dusted in fluorescent green powder flew together into t\u2026 [+11558 chars]",
-      "retrievedAt": "2023-10-13 07:05:37.238949",
-      "internal_id": "669a65651bcfe8ee94abcc0514676150eb868ead0c05e35613ea0c36f6c7bc03",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2497,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Francetvinfo.fr",
-      "author": null,
-      "title": "INFOGRAPHIES. Moustique tigre : comment les cas de dengue ont explos\u00e9 dans l'Hexagone en 2023",
-      "description": "Entre le 1er mai et le 6 octobre 2023, 1 167 cas de dengue import\u00e9s ont \u00e9t\u00e9 d\u00e9tect\u00e9s par Sant\u00e9 publique France. C'est un record depuis la mise en place d'un dispositif de surveillance renforc\u00e9e en 2006.",
-      "url": "https://www.francetvinfo.fr/sante/infographies-moustique-tigre-comment-les-cas-de-dengue-ont-explose-dans-l-hexagone-en-2023_6115131.html",
-      "urlToImage": "https://www.francetvinfo.fr/pictures/BCLBFPLPxul1H9ruW4pYhVbTXHY/1500x843/2022/07/30/phpVvfFvI.jpg",
-      "publishedAt": "2023-10-12 03:57:48",
-      "content": "En mati\u00e8re de dengue, l'ann\u00e9e 2023 s'annonce d\u00e9j\u00e0 comme celle des records en France. Aussi appel\u00e9e grippe tropicale, cette maladie infectieuse saisonni\u00e8re peut se manifester par de fortes fi\u00e8vres, de\u2026 [+4190 chars]",
-      "retrievedAt": "2023-10-13 07:05:37.206921",
-      "internal_id": "14ba1bfa3ae21f46550c129ee6e1ca9f51c85217b70a55622aff0daf38d4c025",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2501,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Sports Desk",
-      "title": "WATCH: Shubman Gill reaches Ahmedabad ahead of Pakistan clash",
-      "description": "Recovering steadily from dengue fever, Indian opener Shubman Gill arrived in Ahmedabad on Wednesday. However, the elegant right-handed batsman's participation in the highly anticipated World Cup showdown against arch-rivals Pakistan on Saturday remains uncert\u2026",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-shubman-gill-reaches-ahmedabad-ahead-of-pakistan-clash/articleshow/104357113.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104357132,width-1070,height-580,imgsize-40984,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-12 03:08:48",
-      "content": "Rohit Sharma breaks Sachin Tendulkars this World Cup record, slams 31st ODI hundred against Afghanistan",
-      "retrievedAt": "2023-10-13 07:05:37.248087",
-      "internal_id": "5be3cf442a2feeece46f869ddcf44fc71f07657f9911a5f652e9a448de5ae524",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2506,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "The prevalence of malaria infections varies among migrant populations",
-      "description": "The prevalence of malaria infections among migrants from sub-Saharan Africa is considerably high (8%), while Asian and Latin American migrants have a much lower prevalence, according to a new study.",
-      "url": "https://www.sciencedaily.com/releases/2023/10/231011182227.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-10-11 22:22:27",
-      "content": "The prevalence of malaria infections among migrants from sub-Saharan Africa is considerably high (8%), while Asian and Latin American migrants have a much lower prevalence, according to a study by th\u2026 [+2495 chars]",
-      "retrievedAt": "2023-10-13 07:05:38.252734",
-      "internal_id": "80b4e5fa1362ad90127022fce26734d8f79099e3880259c9b774611390407a2f",
-      "publishedAtLabel": "Oct 11"
-    },
-    {
-      "id": 2496,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WKTV",
-      "author": "Zach Lewis",
-      "title": "Rabid Skunk Found in Utica",
-      "description": "A skunk from Utica has tested positive for rabies.",
-      "url": "https://www.wktv.com/news/health/rabid-skunk-found-in-utica/article_3eb6fef6-686c-11ee-998c-83787de4764d.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/1/29/129cdb58-3c73-11ee-9c85-bb942bec5d2c/64dd30e746398.image.png?crop=1712%2C899%2C0%2C155&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-10-11 22:03:33",
-      "content": "UTICA, N.Y. -- A skunk from Utica has tested positive for rabies. The animal was sent to the New York State Department of Health Wadsworth Center for testing on Oct. 10. The positive results were \u2026 [+991 chars]",
-      "retrievedAt": "2023-10-13 07:05:36.536278",
-      "internal_id": "449d07c02a4db093a6d5b2540c6a19ba7d8d9da876d9cade225809defbc88a43",
-      "publishedAtLabel": "Oct 11"
     }
   ]
 }
