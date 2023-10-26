@@ -1,8 +1,224 @@
 {
-  "last_updated": "2023-10-26 07:05",
+  "last_updated": "2023-10-26 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 2738,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "US CDC panel recommends Bavarian Nordic's vaccine for adults at risk of mpox",
+      "description": "(marketscreener.com) Bavarian Nordic said on Wednesday the U.S. Centers for Disease Control and Prevention's Advisory Committee on Immunization Practices has voted in favor of recommending the routine use of Jynneos vaccine for adults at risk of mpox. htt\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/US-CDC-panel-recommends-Bavarian-Nordic-s-vaccine-for-adults-at-risk-of-mpox-45150119/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-10-25 18:15:11",
+      "content": "October 25, 2023 at 02:15 pm EDT Oct 25 (Reuters) - Bavarian Nordic said on Wednesday the U.S. Centers for Disease Control and Prevention's (CDC) Advisory Committee on Immunization Practices (ACIP\u2026 [+167 chars]",
+      "retrievedAt": "2023-10-26 19:05:29.335592",
+      "internal_id": "05b14451c7b98073459944277fa52fa079b91be840b48e5ed97eb5f7cb26c8e9",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2735,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordics mpox-vaccine anbefales til rutinem\u00e6ssig brug i risikogrupper af de amerikanske sundhedsmyndigheders r\u00e5dgivningskomit\u00e9",
+      "description": "K\u00d8BENHAVN, Danmark, 25. oktober 2023 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at den r\u00e5dgivende vaccinekomit\u00e9 (ACIP) hos det det amerikanske center for infektionsforebyggelse og folkesundhed (CDC) har stemt for at anbefale rutinem\u00e6ssig brug af JYNNEO\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/10/25/2766883/0/da/Bavarian-Nordics-mpox-vaccine-anbefales-til-rutinem%C3%A6ssig-brug-i-risikogrupper-af-de-amerikanske-sundhedsmyndigheders-r%C3%A5dgivningskomit%C3%A9.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2023-10-25 18:03:00",
+      "content": "K\u00d8BENHAVN, Danmark, 25. oktober 2023 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at den r\u00e5dgivende vaccinekomit\u00e9 (ACIP) hos det det amerikanske center for infektionsforebyggelse og folkesundhed (\u2026 [+5864 chars]",
+      "retrievedAt": "2023-10-26 19:05:29.325346",
+      "internal_id": "467159b90061b5b3a7701ee73e8ef9c02c4888c5e9c6a88d81695e1467e06be2",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2736,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic\u2019s Mpox Vaccine Receives Recommendation from U.S. CDC Advisory Committee for Routine Use in Adults at Risk",
+      "description": "COPENHAGEN, Denmark, October 25, 2023 \u2013 Bavarian Nordic A/S (OMX: BAVA) announced today that the U.S. Centers for Disease Control and Prevention\u2019s (CDC) Advisory Committee on Immunization Practices (ACIP) has voted in favor of recommending the routine use of \u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/10/25/2766883/0/en/Bavarian-Nordic-s-Mpox-Vaccine-Receives-Recommendation-from-U-S-CDC-Advisory-Committee-for-Routine-Use-in-Adults-at-Risk.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2023-10-25 18:03:00",
+      "content": "COPENHAGEN, Denmark, October 25, 2023 Bavarian Nordic A/S (OMX: BAVA) announced today that the U.S. Centers for Disease Control and Preventions (CDC) Advisory Committee on Immunization Practices (ACI\u2026 [+5949 chars]",
+      "retrievedAt": "2023-10-26 19:05:29.329609",
+      "internal_id": "89554e515f46b72c873ac9ee5bf83b992a63b924b2f9867f9e3ea50bcc08e640",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2737,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MIKE STOBBE AP medical writer",
+      "title": "Mpox vaccinations should be recommended for high-risk men, even after outbreak ends, advisers say",
+      "description": "Government health advisers say gay and bisexual men at high risk for mpox infection should get vaccinated for the virus even after the current outbreak ends",
+      "url": "https://abcnews.go.com/Health/wireStory/mpox-vaccinations-recommended-high-risk-men-after-outbreak-104288392",
+      "urlToImage": "https://i.abcnewsfe.com/a/c075ab9d-11d3-4083-baf0-198e7b508d84/wirestory_0b95274c0f6e2a2e37e45a853a54daa6_16x9.jpg?w=992",
+      "publishedAt": "2023-10-25 17:58:45",
+      "content": "NEW YORK -- Gay and bisexual men at high risk for mpox infection should get vaccinated for the virus even after the current outbreak ends, government health advisers said Wednesday. The committee's \u2026 [+2361 chars]",
+      "retrievedAt": "2023-10-26 19:05:29.332537",
+      "internal_id": "d05c6845ac1b69669905b7871d5f1ceff95e0722250605009f8abf641c0d8557",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2730,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Sainsbury recalls chorizo over presence of bacteria causing meningitis",
+      "description": "Sainsbury's has warned customers to return packs of its own-label chorizo product due to possible listeria contamination. The affected product is Taste the Difference Spanish chorizo Iberico ring with use-by dates between November 23 and January 16. Listeria \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/uk/sainsbury-recalls-chorizo-over-presence-of-meningitis-causing-bacteria/articleshow/104706606.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104706572,width-1200,height-630,imgsize-265540,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-10-25 17:25:13",
+      "content": "Big-ticket Buys Light Up Festive Sales in First LegDiscretionary spending by consumers on big-ticket items such as cars, smartphones, televisions, two-wheelers and household appliances is off to a fl\u2026 [+933 chars]",
+      "retrievedAt": "2023-10-26 19:05:27.574354",
+      "internal_id": "a13f6aa7c82a73c1c6f95b3f7692858c047e513d1115453968ed3f2520e1eb60",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2732,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Valneva Submits Chikungunya Vaccine Marketing Application to EMA and Announces CHMP Accelerated Assessment",
+      "description": "(marketscreener.com) Saint-Herblain , October 25, 2023 \u2013 Valneva SE , a specialty vaccine company, today announces the submission of a marketing application with the European Medicines Agency for approval of the Company\u2019s single-shot chikungunya vaccine candi\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Submits-Chikungunya-Vaccine-Marketing-Application-to-EMA-and-Announces-CHMP-Accelerated-Asse-45148978/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-10-25 16:16:01",
+      "content": "Saint-Herblain (France), October 25, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announces the submission of a marketing application with the European Medic\u2026 [+10095 chars]",
+      "retrievedAt": "2023-10-26 19:05:28.811445",
+      "internal_id": "1fac6c4736d252ee11ff1375111b29e46457bd410d1548acee9f63540b220d11",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2733,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Submits Chikungunya Vaccine Marketing Application to EMA and Announces CHMP Accelerated Assessment",
+      "description": "Saint-Herblain (France), October 25, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announces the submission of a marketing application with the European Medicines Agency (EMA) for approval of the Company\u2019s single-sh\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/10/25/2766798/0/en/Valneva-Submits-Chikungunya-Vaccine-Marketing-Application-to-EMA-and-Announces-CHMP-Accelerated-Assessment.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-10-25 16:15:00",
+      "content": "Saint-Herblain (France), October 25, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announces the submission of a marketing application with the European Medic\u2026 [+10034 chars]",
+      "retrievedAt": "2023-10-26 19:05:28.815608",
+      "internal_id": "5512604139bc1410d5aebcc65cfa28a5abe715e7897b5ff60f7ed60ec90a3872",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2734,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva d\u00e9pose une demande d\u2019autorisation aupr\u00e8s de l\u2019EMA pour son candidat vaccin contre le chikungunya et annonce une revue acc\u00e9l\u00e9r\u00e9e par le CHMP",
+      "description": "Saint-Herblain (France), 25 octobre 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd\u2019hui avoir d\u00e9pos\u00e9 une demande d\u2019autorisation de mise sur le march\u00e9 aupr\u00e8s de l\u2019Agence europ\u00e9enne des m\u00e9dicaments (E\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/10/25/2766798/0/fr/Valneva-d%C3%A9pose-une-demande-d-autorisation-aupr%C3%A8s-de-l-EMA-pour-son-candidat-vaccin-contre-le-chikungunya-et-annonce-une-revue-acc%C3%A9l%C3%A9r%C3%A9e-par-le-CHMP.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-10-25 16:15:00",
+      "content": "Saint-Herblain (France), 25 octobre 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourdhui avoir d\u00e9pos\u00e9 une demande dautorisation de mise sur le \u2026 [+12170 chars]",
+      "retrievedAt": "2023-10-26 19:05:28.819422",
+      "internal_id": "efdbe14721aaea36726156b2df54899abdae77112888a2fdb2a9943e57c2c651",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2731,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Chisambo Mwaba, Sody Munsaka, Bruce Bvulani, David Mwakazanga, Brian Chanda Chiluba, Kaiser Fitzwanga, Evans Mpabalwani",
+      "title": "Malaria is the leading cause of acute kidney injury among a Zambian paediatric renal service cohort retrospectively evaluated for aetiologies, predictors of the need for dialysis, and outcomes",
+      "description": "Background Whilst malaria is a prominent aetiology associated with acute kidney injury (AKI) in many parts of Africa, a shift in the traditional AKI aetiologies has been witnessed in sections of the continent. Additionally, limited access to dialysis worsens \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293037",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0293037.g002&size=inline",
+      "publishedAt": "2023-10-25 14:00:00",
+      "content": "Introduction The link between the acute kidney injury (AKI) syndrome and adverse clinical outcomes is well established [14]. Reports on the outcomes of paediatric AKI in Africa are scanty [58]. A re\u2026 [+42094 chars]",
+      "retrievedAt": "2023-10-26 19:05:28.020742",
+      "internal_id": "92c05d63fe79a62e80c11ef6cd6a7dbaf830c2614fdc8def70d9998e28490d37",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2727,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Dengue, i dati dell\u2019Iss: \u201cCasi autoctoni salgono a 66. La trasmissione \u00e8 in evoluzione\u201d",
+      "description": "Sono saliti a 66 i casi confermati di Dengue trasmessi localmente in Italia, in aumento rispetto ai 58 notificati la scorsa settimana. Sono riferiti a quattro episodi di trasmissione non collegati tra loro in provincia di Lodi (36 casi confermati), in provinc\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2023/10/25/dengue-i-dati-delliss-casi-autoctoni-salgono-a-66-la-trasmissione-e-in-evoluzione/7333909/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/07/18/Dengue_1200.jpg",
+      "publishedAt": "2023-10-25 11:53:21",
+      "content": "Sono saliti a 66 i casi confermati di Dengue trasmessi localmente in Italia, in aumento rispetto ai 58 notificati la scorsa settimana. Sono riferiti a quattro episodi di trasmissione non collegati tr\u2026 [+2581 chars]",
+      "retrievedAt": "2023-10-26 19:05:26.997218",
+      "internal_id": "218254bf28d9867711ac3a121493cb70a52e25154e2ca0a3a158995b1812bedf",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2729,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "Sant\u00e9 : la dengue s'installe en m\u00e9tropole",
+      "description": "Les cas de dengue se multiplient en France. Sant\u00e9 publique France a ainsi d\u00e9nombr\u00e9 36 cas de dengue dits autochtones, c'est-\u00e0-dire contract\u00e9s directement en m\u00e9tropole.",
+      "url": "https://www.francetvinfo.fr/sante/sante-la-dengue-s-installe-en-metropole_6143550.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/Ox4KgwUdiP3VGE5p3XWs2UGs_zE/1500x843/2023/10/25/dengue-6538d2e0e6731259052557.png",
+      "publishedAt": "2023-10-25 08:34:16",
+      "content": "\u00c0 Limeil-Br\u00e9vannes (Val-de-Marne), le premier cas d'\u00cele-de-France de dengue autochtone a \u00e9t\u00e9 d\u00e9tect\u00e9, durant la semaine du lundi 16 octobre. La dengue, maladie aux sympt\u00f4mes similaires \u00e0 la grippe, e\u2026 [+779 chars]",
+      "retrievedAt": "2023-10-26 19:05:27.046707",
+      "internal_id": "6262857c598c5b12ab54a02d019bc4eb2be03237aaa6e5260bc37926d22e2939",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2728,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "radiodabanga@gmail.com (Dabanga)",
+      "title": "Sudan: Health Services Deteriorate As Disease Spreads",
+      "description": "[Dabanga] El Gedaref / Nyala / Sharg El Nil -- Cases of dengue fever* and cholera continue to spread across Sudan. The Federal Ministry of Health announced that 3,414 cases of dengue fever were recorded, including 38 deaths, in the period from April 15 to Oct\u2026",
+      "url": "https://allafrica.com/stories/202310250100.html",
+      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00630541:a9d7ef45bcee31a22e6194c4e377734a:arc614x376:w1200.jpg",
+      "publishedAt": "2023-10-25 08:04:58",
+      "content": "El Gedaref / Nyala / Sharg El Nil \u2014 Cases of dengue fever* and cholera continue to spread across Sudan. The Federal Ministry of Health announced that 3,414 cases of dengue fever were recorded, includ\u2026 [+3724 chars]",
+      "retrievedAt": "2023-10-26 19:05:27.017756",
+      "internal_id": "05fc9ab0f08c2c6f22c014603e7999d1a2eb88fd8769c3770b132a0a573c7ac7",
+      "publishedAtLabel": "Oct 25"
+    },
     {
       "id": 2726,
       "query": [
@@ -3404,222 +3620,6 @@
       "retrievedAt": "2023-10-14 19:05:12.096272",
       "internal_id": "47af01aa6b77f588ecd8a49e433afe2411b9bdcc67768b3b105897874209975e",
       "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2541,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Marginalrevolution.com",
-      "author": "Alex Tabarrok",
-      "title": "What is an Emergency? The Case for Rapid Malaria Vaccination",
-      "description": "Compare two otherwise similar towns. In Town A there have always been 1000 deaths every month from disease X. In contrast, Town B has been free of disease X for as long as anyone can remember until very recently when disease X suddenly started to kill 1000 p\u2026",
-      "url": "https://marginalrevolution.com/marginalrevolution/2023/10/what-is-an-emergency-the-case-of-rapid-malaria-vaccination.html",
-      "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
-      "publishedAt": "2023-10-13 11:20:26",
-      "content": "Compare two otherwise similar towns. In Town A there have always been 1000 deaths every month from disease X. In contrast, Town B has been free of disease X for as long as anyone can remember until \u2026 [+3915 chars]",
-      "retrievedAt": "2023-10-14 19:05:13.388375",
-      "internal_id": "071dec7c4989aef498ad68fa0e199966ab560f65071b51579854a8b40f31c50b",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2538,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Dengue cases up 5.9%, two deaths reported in ME40, says Health DG",
-      "description": "PUTRAJAYA: The number of dengue fever cases increased by 5.9% to 2,436 cases in the 40th Epidemiological Week (ME40) for the period Oct 1 to 7, compared to 2,299 cases in the previous week. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/13/dengue-cases-up-59-two-deaths-reported-in-me40-says-health-dg",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/13/2334463.jpg",
-      "publishedAt": "2023-10-13 11:14:00",
-      "content": "PUTRAJAYA: The number of dengue fever cases increased by 5.9% to 2,436 cases in the 40th Epidemiological Week (ME40) for the period Oct 1 to 7, compared to 2,299 cases in the previous week. Health d\u2026 [+905 chars]",
-      "retrievedAt": "2023-10-14 19:05:12.145874",
-      "internal_id": "acc8a41d82339620512ec709bdee4a32245316f35ec7d3e171c891794e9697e2",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2544,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "UNICEF anuncia un acuerdo para garantizar el suministro de la segunda vacuna contra la malaria aprobada por la OMS",
-      "description": "UNICEF ha anunciado un acuerdo para garantizar el suministro de la segunda vacuna mundial contra la malaria, la 'R21/Matrix-M', aprobada recientemente por la Organizaci\u00f3n Mundial de la Salud (OMS).",
-      "url": "https://www.europapress.es/epsocial/derechos-humanos/noticia-unicef-anuncia-acuerdo-garantizar-suministro-segunda-vacuna-contra-malaria-aprobada-oms-20231013121044.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231013121044_1200.jpg",
-      "publishedAt": "2023-10-13 10:10:44",
-      "content": "MADRID, 13 Oct. (EUROPA PRESS) - UNICEF ha anunciado un acuerdo para garantizar el suministro de la segunda vacuna mundial contra la malaria, la 'R21/Matrix-M', aprobada recientemente por la Organ\u2026 [+1714 chars]",
-      "retrievedAt": "2023-10-14 19:05:13.420047",
-      "internal_id": "2d1b78530063bb8800f93af800a6f5975c1f530472e914e6b26840c337f9f8f5",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2552,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Syllad.com",
-      "author": "Syllad | The Rising Meghalaya",
-      "title": "Meghalaya registers over 44 cases of dengue, one death",
-      "description": "Meghalaya has registered over 44 cases of dengue and one death during the past few days, Health Minister Ampareen Lyngdoh said on Firday. \u201cThe dengue cases that have been indicated in the entire state of Meghalaya is predominantly present in the plaint belt \u2026",
-      "url": "https://www.syllad.com/meghalaya-registers-over-44-cases-of-dengue-one-death/",
-      "urlToImage": "https://www.syllad.com/wp-content/uploads/2023/10/Mosquito-jpg.webp",
-      "publishedAt": "2023-10-13 10:03:00",
-      "content": "Syllad | The Rising MeghalayaOctober 13, 2023 Meghalaya has registered over 44 cases of dengue and one death during the past few days, Health Minister Ampareen Lyngdoh said on Firday. \u201cThe dengue \u2026 [+2054 chars]",
-      "retrievedAt": "2023-10-15 07:05:27.156093",
-      "internal_id": "9d526a2a0e41e7ff8cc70f31c99a68a0a9f8bcd62fb976740285430bb324d1a2",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2553,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Child dies of dengue in Tanahu",
-      "description": "DAMAULI: A six-year-old child of Vyas municipality-4 in Tanahu district died of dengue infection this morning in the course of treatment at Gandaki Medical College. With this, the number of people who died of dengue has reached five in Vyas municipality. He w\u2026",
-      "url": "https://english.khabarhub.com/2023/13/322189/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-10-13 08:45:18",
-      "content": "Image for Representation.DAMAULI: A six-year-old child of Vyas municipality-4 in Tanahu district died of dengue infection this morning in the course of treatment at Gandaki Medical College. With thi\u2026 [+583 chars]",
-      "retrievedAt": "2023-10-15 07:05:27.160118",
-      "internal_id": "c96c15a85b6a9fb3b31127d878ee29da8d73a828f1c0261f70398ec0fc30b0f7",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2526,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Business Today",
-      "author": "Business Today Desk",
-      "title": "India vs Pakistan World Cup 2023: Will Shubman Gill play on Oct 14? Here's what we know",
-      "description": "Opener Shubman Gill was out of the final lineup for two crucial matches against Australia and Afghanistan after he was diagnosed with dengue.",
-      "url": "https://www.businesstoday.in/latest/trends/story/india-vs-pakistan-world-cup-2023-will-shubman-gill-play-on-oct-14-heres-what-we-know-401842-2023-10-13",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202310/ezgif-sixteen_nine_181.jpg",
-      "publishedAt": "2023-10-13 04:41:18",
-      "content": "Opener Shubman Gill's inclusion in the team for the big-ticket World Cup 2023 clash against Pakistan on October 14 has become the talk of the town. Gill was out of the final lineup for two crucial ma\u2026 [+3495 chars]",
-      "retrievedAt": "2023-10-14 07:05:27.831977",
-      "internal_id": "fe10861f95f0965b7df171ef8af423e8d9c03ff15a8ce4abb3d870723ed4dd5e",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2527,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vnexpress.net",
-      "author": "VNA",
-      "title": "Vietnam to join Japanese dengue vaccine trials",
-      "description": "Vietnam will be one of the countries joining in the trial injection of a dengue fever vaccine of Japan, Prof. Dr Nguyen Van Kinh, Vice Chairman of the Vietnam Medical Association, said Thursday.",
-      "url": "https://e.vnexpress.net/news/news/vietnam-to-join-japanese-dengue-vaccine-trials-4664376.html",
-      "urlToImage": "https://vcdn1-english.vnecdn.net/2023/10/13/sotxuathuyet-1697170264-169717-7839-6821-1697170333.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=YmkJydE19XrceyVxgfhNxQ",
-      "publishedAt": "2023-10-13 04:19:10",
-      "content": "According to the World Health Organization (WHO), dengue fever is among the top 10 threats to global health as 40% of the world's population reside in the areas at risk of dengue infection. It is on\u2026 [+1118 chars]",
-      "retrievedAt": "2023-10-14 07:05:27.855695",
-      "internal_id": "c132fc687a35ea4249cfe20d56116ffae561c4e18672593ffa5b03c14faa01e0",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2533,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Prevalence of Undiagnosed Monkeypox Virus Infections during Global Mpox Outbreak, United States, June\u2013September 2022",
-      "description": "Undiagnosed Monkeypox, United States, 2022",
-      "url": "https://wwwnc.cdc.gov/eid/article/29/11/23-0940_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-10-13 04:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Since May 2022, monkeypox \u2026 [+17940 chars]",
-      "retrievedAt": "2023-10-14 07:05:30.149916",
-      "internal_id": "f4b8a5fd58a88334966497075aadc809bc89570a0d19a18d3eb3867885911e9d",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2530,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vietnamplus.vn",
-      "author": "VNA",
-      "title": "Vietnam to join Japanese dengue vaccine trials",
-      "description": "Vietnam will be one of the countries joining in the trial injection of a dengue fever vaccine of Japan, said Prof. Dr Nguyen Van Kinh, Vice Chairman of the Vietnam Medical Association.",
-      "url": "https://en.vietnamplus.vn/vietnam-to-join-japanese-dengue-vaccine-trials/269570.vnp",
-      "urlToImage": null,
-      "publishedAt": "2023-10-13 03:14:00",
-      "content": "Hanoi (VNA) - Vietnam will be one of the countries joining in the trial injection of a dengue fever vaccine of Japan, said Prof. Dr Nguyen Van Kinh, Vice Chairman of the Vietnam Medical Association\u2026 [+1450 chars]",
-      "retrievedAt": "2023-10-14 07:05:27.870657",
-      "internal_id": "d51d65ee5d4e8932154c87df76f5efe845a2c4a1ef1e620657c00ce175c049fb",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2531,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Assam Rifles conducts malaria awareness lecture",
-      "description": "HT Correspondent BISWANATH CHARIALI, Oct 12: The Assam Rifles, under the HQ Inspector General Assam Rifles (East), organized an awareness lecture on \u201cMalaria Prevention\u201d in Bamgaon, Sonitpur district, on Wednesday. The lecture was delivered by Assistant Comma\u2026",
-      "url": "https://thehillstimes.in/assam/assam-rifles-conducts-malaria-awareness-lecture",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/Assam-Rifles-conducts-malaria-awareness-lecture.jpg",
-      "publishedAt": "2023-10-12 22:50:41",
-      "content": "HT Correspondent BISWANATH CHARIALI, Oct 12: The Assam Rifles, under the HQ Inspector General Assam Rifles (East), organized an awareness lecture on Malaria Prevention in Bamgaon, Sonitpur district,\u2026 [+738 chars]",
-      "retrievedAt": "2023-10-14 07:05:29.110171",
-      "internal_id": "a13b5d90336a6398e0edd56838d2ba50db99dd95b6b57c4e9b588e27ba205db5",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2525,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Eye On Pakistan Game, Shubman Gill Back In Nets For Hour-Long Session",
-      "description": "Ahmedabad, Oct 12 (PTI) The Indian camp had reasons to smile on Thursday as Shubman Gill, recovering from dengue, was back in the nets, raising hopes of a return for Saturday\u2019s World Cup game against Pakistan. However, it can\u2019t be said with a degree of certai\u2026",
-      "url": "https://thehillstimes.in/sports/eye-on-pakistan-game-shubman-gill-back-in-nets-for-hour-long-session",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-12-at-11.26.09-PM.jpeg",
-      "publishedAt": "2023-10-12 21:30:29",
-      "content": "Ahmedabad, Oct 12 (PTI) The Indian camp had reasons to smile on Thursday as Shubman Gill, recovering from dengue, was back in the nets, raising hopes of a return for Saturday\u2019s World Cup game against\u2026 [+1495 chars]",
-      "retrievedAt": "2023-10-14 07:05:27.824933",
-      "internal_id": "c304a76b2f4877f01df171d8398018281d2f375a160951e8ee4ff3eff5763300",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2524,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Ed Cara",
-      "title": "A Lot of Pet Owners (Wrongly) Think Vaccines Are Bad for Dogs",
-      "description": "The anti-vaccination movement is going to the dogs. Recent survey data has suggested that a substantial proportion of American dog owners have doubts about their pets\u2019 vaccines, including the rabies shot. Rabies is almost always fatal if not treated promptly,\u2026",
-      "url": "https://gizmodo.com/antivax-pets-dogs-vaccines-rabies-shot-1850923272",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fdaea0f8654f7eaa0fff14df38b83d7d.jpg",
-      "publishedAt": "2023-10-12 21:26:00",
-      "content": "The anti-vaccination movement is going to the dogs. Recent survey data has suggested that a substantial proportion of American dog owners have doubts about their pets vaccines, including the rabies s\u2026 [+3092 chars]",
-      "retrievedAt": "2023-10-14 07:05:26.750952",
-      "internal_id": "f0801b71d5b43b06cb1f16e347ec80520683890b0137d5d946c82f6f3db109b8",
-      "publishedAtLabel": "Oct 12"
     }
   ]
 }
