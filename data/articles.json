@@ -1,8 +1,154 @@
 {
-  "last_updated": "2023-10-25 19:05",
+  "last_updated": "2023-10-26 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 14,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 2726,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.vn",
+      "author": "Sputnik Vi\u1ec7t Nam",
+      "title": "Vi\u1ec7t Nam c\u00f3 ca \u0111\u1eadu m\u00f9a kh\u1ec9 \u0111\u1ea7u ti\u00ean t\u1eed vong",
+      "description": "H\u00c0 N\u1ed8I (Sputnik) - S\u00e1ng 25/10, S\u1edf Y t\u1ebf TPHCM \u0111\u00e3 th\u00f4ng tin nhanh v\u1ec1 tr\u01b0\u1eddng h\u1ee3p t\u1eed vong c\u00f3 li\u00ean quan \u0111\u1ebfn Mpox (\u0111\u1eadu m\u00f9a kh\u1ec9) t\u1ea1i \u0111\u1ecba ph\u01b0\u01a1ng.",
+      "url": "https://sputniknews.vn/20231025/viet-nam-co-ca-dau-mua-khi-dau-tien-tu-vong--26062276.html",
+      "urlToImage": "https://cdn1.img.sputniknews.vn/images/sharing/article/vie/26062276.jpg?108497421698210569",
+      "publishedAt": "2023-10-25 05:08:03",
+      "content": "https://sputniknews.vn/20231025/viet-nam-co-ca-dau-mua-khi-dau-tien-tu-vong--26062276.html Vit Nam c\u00f3 ca u m\u00f9a kh u ti\u00ean t vong Vit Nam c\u00f3 ca u m\u00f9a kh u ti\u00ean t vong H\u00c0 NI (Sputnik) - S\u00e1ng 25/10,\u2026 [+3837 chars]",
+      "retrievedAt": "2023-10-26 07:05:52.883376",
+      "internal_id": "fabfe1dc97d59171764311cdac1d97769c8c9a9c6a14f48d60f62dd51553ba8d",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2721,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "New York Times",
+      "title": "What to know about dengue fever as cases spread",
+      "description": "NEW YORK - Cases of dengue fever, a mosquito-borne viral illness that can be fatal, are surging around the world. The increase is occurring both in places that have long struggled with the disease and in areas where its spread was unheard-of until the last ye\u2026",
+      "url": "https://www.bangkokpost.com/world/2671131/what-to-know-about-dengue-fever-as-cases-spread-to-new-places",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20231025/c1_2671131_700.jpg",
+      "publishedAt": "2023-10-25 04:02:00",
+      "content": "NEW YORK - Cases of dengue fever, a mosquito-borne viral illness that can be fatal, are surging around the world. The increase is occurring both in places that have long struggled with the disease an\u2026 [+8276 chars]",
+      "retrievedAt": "2023-10-26 07:05:51.831609",
+      "internal_id": "5af81fa778c26ab111a02492ae9c2ce8b3095ab4384d42c7d247605791d35dca",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2720,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Bacteria can enhance host insect's fertility with implications for disease control",
+      "description": "New research reveals how the bacteria strain Wolbachia pipientis enhances the fertility of the insects it infects, an insight that could help scientists increase the populations of mosquitoes that do not carry human disease.",
+      "url": "https://www.sciencedaily.com/releases/2023/10/231024234018.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-10-25 03:40:18",
+      "content": "Mosquitoes and other insects can carry human diseases such as dengue and Zika virus, but when those insects are infected with certain strains of the bacteria Wolbachia, this bacteria reduces levels o\u2026 [+5249 chars]",
+      "retrievedAt": "2023-10-26 07:05:51.824244",
+      "internal_id": "215a7c47605cd26ac136890c555a41ebc6d5af254818084aa005e0f5e8b7e2a0",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2724,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "What to Know About Dengue Fever as Cases Spread to New Places - The New York Times",
+      "description": "What to Know About Dengue Fever as Cases Spread to New PlacesThe New York Times Yellow fever, scourge from the 1800s, is coming back \u2014 and the US is woefully unpreparedNew York Post Experts Warn of Potential Yellow Fever ResurgenceNewsmax Infectious Disease E\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172101419",
+      "urlToImage": null,
+      "publishedAt": "2023-10-25 01:12:06",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-10-26 07:05:51.871558",
+      "internal_id": "0d764a6ada07e4cf935c9cc57ec78b9371a74bc2711be14eb4ddeebc72a4e74b",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2725,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Fatunetwork.net",
+      "author": "Hadram Hydara",
+      "title": "Three Senior Health Officials Face 13 Charges, Including Corruption, Theft, And Forgery \u2013 The Fatu Network",
+      "description": "Three Senior Health Officials Face 13 Charges, Including Corruption, Theft, And Forgery \u2013 The Fatu Networkfatunetwork.net",
+      "url": "https://fatunetwork.net/senior-health-officials-face-13-charges-including-corruption-theft-and-forgery/",
+      "urlToImage": "https://fatunetwork.net/wp-content/uploads/2023/10/gotg_page-0001-1.jpg",
+      "publishedAt": "2023-10-24 22:09:20",
+      "content": "By: Jawo Three senior health officials, including Muhammadou Lamin Jaiteh, the permanent secretary at the Ministry of Health, Balla Kandeh, the program manager of the Malaria Control Programme, and \u2026 [+1893 chars]",
+      "retrievedAt": "2023-10-26 07:05:52.358016",
+      "internal_id": "82a7d4e0f6900b6f924311b946384cb5a75d926d8fc402bcc464e5043fd8bac8",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2719,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Ankita Upadhyay",
+      "title": "Dengue cases in Delhi touch nearly 5,000 \u2014 highest in at least 5 years",
+      "description": "While the corporation has not been releasing weekly dengue reports since August, data accessed by The Indian Express revealed that the spike in cases was the highest in the month of September with 2,141 cases.",
+      "url": "https://indianexpress.com/article/cities/delhi/dengue-cases-in-delhi-touch-nearly-5000-highest-in-at-least-5-years-8998121/",
+      "urlToImage": "https://images.indianexpress.com/2023/10/dengue-4col-1.jpg",
+      "publishedAt": "2023-10-24 21:21:29",
+      "content": "Dengue cases in Delhi have seen a sharp rise this year, with nearly 5,000 cases (4,965) reported till October 21 more than double that of cases seen in the same period in 2022 and the highest in the \u2026 [+3089 chars]",
+      "retrievedAt": "2023-10-26 07:05:51.813678",
+      "internal_id": "0142b731fd3c1c247064ddb5dec0f282a2704b536449eec52bd4d8b40a98de1d",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2723,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Ram\u00f3n Braga\u00f1a",
+      "title": "M\u00e9dicos Sin Fronteras alertan aumento de casos de dengue y malaria en migrantes de Oaxaca",
+      "description": "Perla G\u00f3mez, l\u00edderesa del equipo m\u00e9dico de la brigada de \"M\u00e9dicos Sin Fronteras\", que brinda atenci\u00f3n m\u00e9dica en el Centro de Movilidad Migratoria de Juchit\u00e1n, en el Istmo de Tehuantepec, inform\u00f3 a MILENIO sobre la creciente preocupaci\u00f3n debido al aumento de c\u2026",
+      "url": "https://www.milenio.com/estados/alertan-incremento-dengue-malaria-migrantes-oaxaca",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/24/preocupacion-dengue-malaria-migrantes-juchitan.jpg",
+      "publishedAt": "2023-10-24 20:52:46",
+      "content": "Perla G\u00f3mez, l\u00edderesa del equipo m\u00e9dico de la brigada de \"M\u00e9dicos Sin Fronteras\", que brinda atenci\u00f3n m\u00e9dica en el Centro de Movilidad Migratoria de Juchit\u00e1n, en el Istmo de Tehuantepec, inform\u00f3 a MI\u2026 [+1582 chars]",
+      "retrievedAt": "2023-10-26 07:05:51.846640",
+      "internal_id": "9a6441a87ecd3150b3813b3563a90776a0155166f0ca2f54cb9f381f396a2bc4",
+      "publishedAtLabel": "Oct 24"
+    },
+    {
+      "id": 2722,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Gabriel Negreanu",
+      "title": "Boala infec\u0163ioas\u0103 dengue ar putea deveni endemic\u0103 \u00een Europa. Avertisment al cercet\u0103torul-\u015fef al OMS",
+      "description": "Jeremy Farrar, cercet\u0103torul-\u015fef al Organiza\u0163iei Mondiale a S\u0103n\u0103t\u0103\u0163ii, a avertizat c\u0103 schimb\u0103rile climatice vor face ca boala infec\u0163ioas\u0103 dengue s\u0103 devin\u0103 endemic\u0103 \u00een unele p\u0103r\u0163i ale Europei \u015fi Statelor Unite, \u00eentr-un interviu acordat \u00een deschiderea summitului\u2026",
+      "url": "https://www.mediafax.ro/stiinta-sanatate/boala-infectioasa-dengue-ar-putea-deveni-endemica-in-europa-avertisment-al-cercetatorul-sef-al-oms-22167021",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/7627/22167021/2/47238970-l.jpg?width=640",
+      "publishedAt": "2023-10-24 19:43:34",
+      "content": "\u00e2narilor care transmit virusul le plac climatele calde i umede i s-au rsp\u00e2ndit deja mai mult \u00een Europa \u00een aceast var, a spus el. Av\u00e2nd \u00een vedere c rile se \u00eenclzesc de la an la an, \"dengue va deven\u2026 [+1163 chars]",
+      "retrievedAt": "2023-10-26 07:05:51.836976",
+      "internal_id": "c0e6afd287ff52ff13a8e8d3de6e941edfcdbdfb73b5382410da0177fe79bb9f",
+      "publishedAtLabel": "Oct 24"
+    },
     {
       "id": 2710,
       "query": [
@@ -3473,150 +3619,6 @@
       "content": "The anti-vaccination movement is going to the dogs. Recent survey data has suggested that a substantial proportion of American dog owners have doubts about their pets vaccines, including the rabies s\u2026 [+3092 chars]",
       "retrievedAt": "2023-10-14 07:05:26.750952",
       "internal_id": "f0801b71d5b43b06cb1f16e347ec80520683890b0137d5d946c82f6f3db109b8",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2532,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Sixty Degrees Pharmaceuticals",
-      "title": "60 Degrees Pharmaceuticals Suspends Phase IIB Study of Tafenoquine for COVID-19, Pivots to Refocus on Commercialization of Treatments for Malaria and Tick-Borne Diseases",
-      "description": "60 Degrees Pharma Suspends Phase IIB COVID Study, Pivots to Commercialization of Treatments for Malaria and Tick-borne Illness......",
-      "url": "https://www.globenewswire.com/news-release/2023/10/12/2759672/0/en/60-Degrees-Pharmaceuticals-Suspends-Phase-IIB-Study-of-Tafenoquine-for-COVID-19-Pivots-to-Refocus-on-Commercialization-of-Treatments-for-Malaria-and-Tick-Borne-Diseases.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/c950cab5-27b1-476f-befc-4d92a7389fdd",
-      "publishedAt": "2023-10-12 20:16:00",
-      "content": "FDA advice to Company suggested execution of ACLR8-LR, a placebo-controlled Phase IIB study of tafenoquine in COVID-19 patients, may not be feasible in the U.S.Company will \u2026 [+14150 chars]",
-      "retrievedAt": "2023-10-14 07:05:29.112922",
-      "internal_id": "c939f0787f8f86fe3c7eda8f8d6537349a5672431614a53e6dfa1bc395525994",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2511,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Estrella \u00c1lvarez",
-      "title": "Aumentan contagios por dengue en Quer\u00e9taro",
-      "description": "La secretaria de Salud queretana, Martina P\u00e9rez Rend\u00f3n, inform\u00f3 que aument\u00f3 el n\u00famero de casos de dengue en el estado de Quer\u00e9taro. En menos de una semana, estos subieron de 17 a 23.Inform\u00f3 que los casos se han focalizado principalmente en dos municipios: Pe\u00f1\u2026",
-      "url": "https://www.milenio.com/estados/en-queretaro-aumentan-casos-de-dengue",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/09/incrementan-casos-dengue-mexico-mil.jpeg",
-      "publishedAt": "2023-10-12 18:50:36",
-      "content": "La secretaria de Salud queretana, Martina P\u00e9rez Rend\u00f3n, inform\u00f3 que aument\u00f3 el n\u00famero de casos de dengue en el estado de Quer\u00e9taro. En menos de una semana, estos subieron de 17 a 23. Inform\u00f3 que los\u2026 [+496 chars]",
-      "retrievedAt": "2023-10-13 19:05:27.920114",
-      "internal_id": "0c0aa3548148fcac83a043b86905a2ba9b643959ad0cfb6138555b1470de7209",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2519,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": "CDC",
-      "title": "Notes from the Field: Locally Acquired Mosquito-Transmitted (Autochthonous) Plasmodium falciparum Malaria \u2014 National Capital Region, Maryland, August 2023",
-      "description": "This report describes cases of locally acquired mosquito-transmitted malaria in Maryland in August2023.",
-      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7241a3.htm",
-      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7241a3_MosquitoTransmittedMalaria_IMAGE_13October2023__1200x675.jpg?_=37770",
-      "publishedAt": "2023-10-12 17:26:13",
-      "content": "Monique Duwell, MD1; Timothy DeVita, MD2; David Torpey, PhD3; Jenny Chen3; Robert A. Myers, PhD3; Kimberly Mace, PhD2; Alison D. Ridpath, MD2; Wycliffe Odongo2; Brian H. Raphael, PhD2; Audrey Lenhart\u2026 [+9187 chars]",
-      "retrievedAt": "2023-10-13 19:05:28.851125",
-      "internal_id": "88765a831817cea4c89591fdac2c44c7aaff95ec09201fb652d3adfb5a370813",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2514,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TOI Sports Desk",
-      "title": "'Gill ko maine tagda kar diya hai': Yuvraj hopeful of Shubman's recovery",
-      "description": "Former Indian cricketer Yuvraj Singh is optimistic that Shubman Gill, India's opener, will recover in time for the ICC World Cup 2023 match between India and Pakistan. Gill missed the team's first two World Cup games due to an illness. Singh, who played a piv\u2026",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/gill-ko-maine-tagda-kar-diya-hai-yuvraj-singh-hopeful-of-shubman-gills-recovery-for-india-pakistan-clash/articleshow/104379658.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104379721,width-1070,height-580,imgsize-36864,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-12 16:32:23",
-      "content": "ODI World Cup: Eye on Pakistan game, Shubman Gill back in nets for hour-long sessionThe Indian camp had a reason to be optimistic on Thursday as Shubman Gill, who was recovering from dengue, returned\u2026 [+108 chars]",
-      "retrievedAt": "2023-10-13 19:05:27.966695",
-      "internal_id": "daf9056e3ed71daec0cbc1ec6f0f5b83921a81f7969b06ea608e5d79b38032a1",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2523,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Smith, L. E., Potts, H. W., Brainard, J., May, T., Oliver, I., Amlot, R., Yardley, L., Rubin, G. J.",
-      "title": "Did mpox knowledge, attitudes and beliefs affect intended behaviour in the general population and men who are gay, bisexual and who have sex with men? An online cross-sectional survey in the UK",
-      "description": "Objectives To investigate rates of mpox beliefs, knowledge and intended behaviours in the general population and in gay, bisexual or other men who have sex with men (GBMSM), and factors associated with intended behaviours. To test the impact of motivational m\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/10/e070882?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-10-12 15:45:11",
-      "content": "Introduction Mpox (also known as monkeypox) is an orthopox virus that causes fever, headache, exhaustion, swollen glands and aches (joint, muscle, back), followed by a rash with blisters.1 It spread\u2026 [+23177 chars]",
-      "retrievedAt": "2023-10-13 19:05:29.603167",
-      "internal_id": "fb99cb5744beed16c5edec398d1e0f8de5eb8aea9c96aae977b8ca99a1146a6e",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2522,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Mpox in Berlin: Weitere Ansteckungen gemeldet",
-      "description": "Seit Ende Juli sind in Berlin zehn Affenpocken-F\u00e4lle gemeldet worden. Einige Patienten waren geimpft.",
-      "url": "https://www.tagesspiegel.de/berlin/mpox-in-berlin-weitere-ansteckungen-gemeldet-10614385.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/affenpockenvirus6/alternates/BASE_16_9_W1400/affenpockenvirus.jpeg",
-      "publishedAt": "2023-10-12 14:30:21",
-      "content": "In Berlin sind in den vergangenen Wochen nachweislich wieder Menschen an Mpox erkrankt. Zwei F\u00e4lle der Krankheit, die vormals als Affenpocken bezeichnet wurde, seien vergangene Woche gemeldet geworde\u2026 [+1469 chars]",
-      "retrievedAt": "2023-10-13 19:05:29.598964",
-      "internal_id": "90033fbe1406e65e07e036c93081cabdec0759b48da9a8e474a14a136037076a",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2516,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Bilal Ahmad Rahim, Niamatullah Ishaq, Ghulam Mohayuddin Mudaser, Walter R. Taylor",
-      "title": "Correction: Outcome of acute bacterial meningitis among children in Kandahar, Afghanistan: A prospective observational cohort study",
-      "description": "",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293150",
-      "urlToImage": null,
-      "publishedAt": "2023-10-12 14:00:00",
-      "content": "There are errors in the Funding section. The correct Funding statement is: This study did not receive any specific funding. WR Taylor is part funded by Wellcome under grant 220211. For the purpose of\u2026 [+702 chars]",
-      "retrievedAt": "2023-10-13 19:05:28.308825",
-      "internal_id": "a45466e6ea2b43ee4d06b5e94fe74de0381d3a90abaab0b6515c2795ecada6c5",
-      "publishedAtLabel": "Oct 12"
-    },
-    {
-      "id": 2520,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Rabindra K. Mandal, Nathan W. Schmidt",
-      "title": "Mechanistic insights into the interaction between the host gut microbiome and malaria",
-      "description": "Malaria is a devastating infectious disease and significant global health burden caused by the bite of a Plasmodium-infected female Anopheles mosquito. Gut microbiota was recently discovered as a risk factor of severe malaria. This review entails the recent a\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011665",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011665.g003&size=inline",
-      "publishedAt": "2023-10-12 14:00:00",
-      "content": "Abstract Malaria is a devastating infectious disease and significant global health burden caused by the bite of a Plasmodium-infected female Anopheles mosquito. Gut microbiota was recently discovere\u2026 [+81946 chars]",
-      "retrievedAt": "2023-10-13 19:05:28.858104",
-      "internal_id": "9e67f8b1432df5a0f6e575b135982fdd89aa7afc7833d4a750ad9fa1352eb47f",
       "publishedAtLabel": "Oct 12"
     }
   ]
