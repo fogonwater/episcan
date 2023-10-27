@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-10-26 19:05",
+  "last_updated": "2023-10-27 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 2739,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "MOHD FARHAAN SHAH",
+      "title": "Rabies situation in Sarawak critical, owners should vaccinate their pets, says Lukanisman",
+      "description": "JOHOR BARU: Dog and cat owners in Sarawak must make sure that their pets have received vaccination against rabies, says Datuk Lukanisman Awang Sauni. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/26/rabies-situation-in-sarawak-critical-owners-should-vaccinate-their-pets-says-lukanisman",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/26/2355968.jpeg",
+      "publishedAt": "2023-10-26 05:44:00",
+      "content": "JOHOR BARU: Dog and cat owners in Sarawak must make sure that their pets have received vaccination against rabies, says Datuk Lukanisman Awang Sauni. The Deputy Health Minister said the ministry was\u2026 [+1358 chars]",
+      "retrievedAt": "2023-10-27 07:05:54.903438",
+      "internal_id": "9cc43aad348e73af3ed2b47f27daf736cdd22313fdfa0e14f5ffeacf96b2e353",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2743,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "KPRC Click2Houston",
+      "author": "Mike Stobbe",
+      "title": "Mpox vaccinations should be recommended for high-risk men, even after outbreak ends, advisers say",
+      "description": "Government health advisers say gay and bisexual men at high risk for mpox infection should get vaccinated for the virus even after the current outbreak ends.",
+      "url": "https://www.click2houston.com/health/2023/10/25/mpox-vaccinations-should-be-recommended-for-high-risk-men-even-after-outbreak-ends-advisers-say/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QILLXDNEGVGUDNP2QYMPG4UTGE.jpg?_a=ATAPphC0",
+      "publishedAt": "2023-10-26 03:38:23",
+      "content": "NEW YORK Gay and bisexual men at high risk for mpox infection should get vaccinated for the virus even after the current outbreak ends, government health advisers said Wednesday. The committee's rec\u2026 [+2511 chars]",
+      "retrievedAt": "2023-10-27 07:05:58.102418",
+      "internal_id": "0ce32b12ccc8ad27987c2dd1c67c243d29eb13f08fc4aee2fb2b6bde47819aa4",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2742,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "ABC 12 News",
+      "author": "Courtesy Patti Wukovits",
+      "title": "Patients may soon have vaccine to protect from deadly meningitis",
+      "description": "Patti Wukovits still thinks about how she had to bury her daughter in her prom dress.",
+      "url": "https://www.abc12.com/news/health/patients-may-soon-have-vaccine-to-protect-from-deadly-meningitis/article_9f7c2b9e-3f94-54fc-9df2-c4cb0f49fd20.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/1/d1/1d1b3937-a384-5f82-ba44-9d42afd051b2/653ab8151a4ee.image.jpg?crop=1600%2C840%2C0%2C29&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-10-26 02:43:00",
+      "content": "Patti Wukovits still thinks about how she had to bury her daughter in her prom dress. In June 2012, 17-year-old Kimberly Coffey had a fever and body aches. She told her mom it felt like her ankles w\u2026 [+7728 chars]",
+      "retrievedAt": "2023-10-27 07:05:56.118291",
+      "internal_id": "6aae39aa05cf447adc15dbccb2fca011cdc3b2b83c721b3dbd28efa05a80aba2",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2740,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "CNYcentral.com",
+      "author": "Emma Misiaszek",
+      "title": "Man seen on video attacked by rabid fox treated for rabies, health department confirms",
+      "description": "The Onondaga County Health Department can confirm that all individuals in the videos shared regarding the rabid fox have been identified and have undergone trea",
+      "url": "https://cnycentral.com/news/local/man-seen-on-video-attacked-by-rabid-fox-treated-for-rabies-health-department-confirms",
+      "urlToImage": "https://cnycentral.com/resources/media/bca95756-f433-477c-92f1-65f812e3b0ae-large16x9_FOXVIDEO.transfer_frame_40.jpeg",
+      "publishedAt": "2023-10-25 21:20:54",
+      "content": "The Onondaga County Health Department can confirm that all individuals in the videos shared regarding the rabid fox have been identified and have undergone treatment as deemed necessary. MORE: Syrac\u2026 [+462 chars]",
+      "retrievedAt": "2023-10-27 07:05:54.915539",
+      "internal_id": "aa52969206d589568e6a1becd5194dcc0180b3825238497ed2b2f010e9c23669",
+      "publishedAtLabel": "Oct 25"
+    },
+    {
+      "id": 2741,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Dengue Fever Cases Rise In Rome",
+      "description": "Dengue fever cases are surging in Rome and Lazio. Italy's capital city is facing a concerning surge, with a total of 66 native cases reported in the latest update from the National Institute of Health (ISS). This represents a sharp increase from the 288 case\u2026",
+      "url": "https://www.shtfplan.com/headline-news/dengue-fever-cases-rise-in-rome",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2017/09/mosquito-1-e1505219927469.jpg",
+      "publishedAt": "2023-10-25 20:00:08",
+      "content": "Dengue fever cases are surging in Rome and Lazio. Italy\u2019s capital city is facing a concerning surge, with a total of 66 native cases reported in the latest update from the National Institute of Heal\u2026 [+1740 chars]",
+      "retrievedAt": "2023-10-27 07:05:55.597016",
+      "internal_id": "94d8cf6086f3cdf001aae189893ae83256096a2220d89d08e5df714b54732769",
+      "publishedAtLabel": "Oct 25"
+    },
     {
       "id": 2738,
       "query": [
@@ -3529,96 +3619,6 @@
       "content": "NAIROBI, Oct. 13 (Xinhua) -- Kenya's battle against malaria has gained new momentum through the widespread deployment of an injectable drug manufactured by the Chinese pharmaceutical company, Fosun P\u2026 [+2748 chars]",
       "retrievedAt": "2023-10-14 19:05:13.405352",
       "internal_id": "c22727e3b41fa543823a40483daf8abdfc15590e9b752491d3169e4301c54c40",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2537,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TIMESOFINDIA.COM",
-      "title": "In Pics: Team India's practice session ahead of Pakistan clash",
-      "description": "Read more on TOI Sports",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/icc-world-cup-photos/world-cup-team-indias-practice-session-ahead-of-pakistan-clash/photostory/104406400.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104406433,imgsize-42312,width-900,height-1200,resizemode-6/104406433.jpg",
-      "publishedAt": "2023-10-13 15:47:29",
-      "content": "Indias young sensation Shubman Gill, who is recovering from dengue fever, participated in the practice session.",
-      "retrievedAt": "2023-10-14 19:05:12.137428",
-      "internal_id": "1ccb95b9cbf490fbcf462316529533f8bcc0ecaee2e3747c46c0e457720e159f",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2534,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WebMD",
-      "author": "Webmd Editorial",
-      "title": "Rabies in Dogs",
-      "description": "Learn about rabies in dogs, including vaccines, rabies symptoms, diagnosis, and treatment.",
-      "url": "https://www.webmd.com/pets/dogs/rabies-dogs",
-      "urlToImage": "https://img.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg",
-      "publishedAt": "2023-10-13 14:04:13",
-      "content": "Rabies is an incurable virus that attacks the brain and spinal cord. All mammals, including dogs and humans, can catch rabies. While its preventable and even treatable, it must be caught early on. \u2026 [+2468 chars]",
-      "retrievedAt": "2023-10-14 19:05:10.700066",
-      "internal_id": "c2666a4aeba0316625c5ef3e11c9aae90b9e77f119982616bb3ddb80aaa46e4d",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2551,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Syllad.com",
-      "author": "Syllad | The Rising Meghalaya",
-      "title": "Syllad ka jingpang \u2018Dengue\u2019 ia ki bynta ka jylla iap uwei, shah ktah 44 ngut",
-      "description": "Ka jylla Meghalaya ka la sakhi halor ka jingsyllad jong ka jingpang Dengue naduh kine ki khyndiat sngi ba la dep kaba la shim ruh ia ka jingim jong uwei u briew bad ka jingioh pang jong ki 44 ngut kiwei pat, ong ka Myntri ka Tnat ka koit ka khiah ka Kong Ampa\u2026",
-      "url": "https://www.syllad.com/syllad-ka-jingpang-dengue-ia-ki-bynta-ka-jylla-iap-uwei-shah-ktah-44-ngut/",
-      "urlToImage": "https://www.syllad.com/wp-content/uploads/2023/10/Mosquito-jpg.webp",
-      "publishedAt": "2023-10-13 13:46:00",
-      "content": "Syllad | The Rising MeghalayaOctober 13, 2023 Ka jylla Meghalaya ka la sakhi halor ka jingsyllad jong ka jingpang Dengue naduh kine ki khyndiat sngi ba la dep kaba la shim ruh ia ka jingim jong uwei\u2026 [+1754 chars]",
-      "retrievedAt": "2023-10-15 07:05:27.147594",
-      "internal_id": "087d4421896099b2f0a3360936faf0e4dfefd9b3bf3111bfa79d4ec711a9d2f8",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2543,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Mwangi, M. N., Mzembe, G., Ngwira, C. C., Vokhiwa, M., Kapulula, M. D., Larson, L. M., Braat, S., Harding, R., McLean, A. R. D., Hamadani, J. D., Biggs, B.-A., Ataide, R., Phiri, K. S., Pasricha, S.-R.",
-      "title": "Protocol for a randomised, multicentre, four-arm, double-blinded, placebo-controlled trial to assess the benefits and safety of iron supplementation with malaria chemoprevention to children in Malawi: IRMA trial",
-      "description": "Introduction Approximately 40% of children aged 6\u201359 months worldwide are anaemic. Iron-containing multiple micronutrient powders (MNPs) and iron supplements (syrup/drops) are used to combat anaemia in children in different parts of the world. However, evid\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/10/e069011?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-10-13 13:15:13",
-      "content": "Introduction Anaemia remains a critical global health problem affecting up to 39.8% of children aged 659 months worldwide and 60.2% in Africa.13 In Malawi, 63% of children aged 659 months are anaemi\u2026 [+3494 chars]",
-      "retrievedAt": "2023-10-14 19:05:13.408905",
-      "internal_id": "eabab9d3827129014aae4571f6a6e94c3f172522f0305295a0ec7b6ea679306b",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2535,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Meghalaya records massive rise in dengue cases, 44 reported from Garo Hills",
-      "description": "Meghalaya has reported 44 confirmed dengue cases, including one fatality, primarily in the Garo Hills' flatland regions on October 13. Health Minister Ampareen Lyngdoh urged the citizens not to panic, stating the situation is under control.",
-      "url": "https://thehillstimes.in/northeast/meghalaya-records-massive-rise-in-dengue-cases-44-reported-from-garo-hills",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/New-Project-2023-10-13T174132.024.jpg",
-      "publishedAt": "2023-10-13 12:12:01",
-      "content": "HT Digital, Shillong, Oct 13: Meghalaya has reported 44 confirmed dengue cases, including one fatality, primarily in the Garo Hills\u2019 flatland regions on October 13. Health Minister Ampareen Lyngdoh \u2026 [+724 chars]",
-      "retrievedAt": "2023-10-14 19:05:12.096272",
-      "internal_id": "47af01aa6b77f588ecd8a49e433afe2411b9bdcc67768b3b105897874209975e",
       "publishedAtLabel": "Oct 13"
     }
   ]
