@@ -1,8 +1,334 @@
 {
-  "last_updated": "2023-10-27 07:05",
+  "last_updated": "2023-10-27 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 2751,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Jen Christensen",
+      "title": "Patients could have a shot to protect them from deadly meningitis",
+      "description": "The CDC's independent vaccine advisors recommended a new vaccine that could potentially prevent meningitis B.",
+      "url": "https://www.wisn.com/article/new-shot-deadly-meningitis/45646778",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1308847591-653ab27f3afe9.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
+      "publishedAt": "2023-10-26 18:57:07",
+      "content": "Patti Wukovits still thinks about how she had to bury her daughter in her prom dress. In June 2012, 17-year-old Kimberly Coffey had a fever and body aches. She told her mom it felt like her ankles w\u2026 [+7666 chars]",
+      "retrievedAt": "2023-10-27 19:05:14.587780",
+      "internal_id": "04eb9bffd7064fa5075404b79bb836d9b3608eb2a21ac4810a01056d38ec8a9f",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2752,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "WebMD",
+      "author": "Lisa O\u2019Mary",
+      "title": "New Vaccine for Meningitis Could Soon Be Available",
+      "description": "A new meningococcal vaccine that better protects against the rare but potentially deadly disease will soon be available.",
+      "url": "https://www.webmd.com/children/vaccines/news/20231026/new-vaccine-meningitis-could-soon-be-available",
+      "urlToImage": "https://img.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg",
+      "publishedAt": "2023-10-26 18:32:44",
+      "content": "Oct. 26, 2023 A new meningococcal vaccine that better protects against the rare but potentially deadly disease will soon be available. Vaccines are already available that protect against the forms \u2026 [+1864 chars]",
+      "retrievedAt": "2023-10-27 19:05:14.591772",
+      "internal_id": "39023d064e22a7aa35439d44a80bcced5455fd28e726481af6ce6d1263f72598",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2761,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Sean Muhamad, Raka Adji",
+      "title": "157 people at risk for mpox vaccinated: ministry",
+      "description": "The Ministry of Health has so far vaccinated 157 of the 477 targeted recipients who are at risk of contracting monkeypox (mpox), according to the ministry's director general of disease prevention and control, Maxi Rein ...",
+      "url": "https://en.antaranews.com/news/297243/157-people-at-risk-for-mpox-vaccinated-ministry",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/25/InShot_20231022_170510499.jpg",
+      "publishedAt": "2023-10-26 18:20:45",
+      "content": "Jakarta (ANTARA) - The Ministry of Health has so far vaccinated 157 of the 477 targeted recipients who are at risk of contracting monkeypox (mpox), according to the ministry's director general of dis\u2026 [+2035 chars]",
+      "retrievedAt": "2023-10-27 19:05:18.090339",
+      "internal_id": "618f9059a30a16dbbacfb37615e4aa32968ff7cc027c752ac69f1608577522f3",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2744,
+      "query": [
+        "pertussis",
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Routine Vaccination Coverage - Worldwide, 2022",
+      "description": "From 2021 to 2022, global coverage with the first dose of diphtheria-tetanus-pertussis-containing vaccine increased from 86% to 89%, and with the first dose of measles-containing vaccine from 81% to 84%, but neither returned to 2019 prepandemic coverage level\u2026",
+      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7243a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7243a1_VaccinationCoverage_IMAGE_27October23_1200x675.jpg?_=46352",
+      "publishedAt": "2023-10-26 17:00:00",
+      "content": "Diphtheria-Tetanus-Pertussis\u2013Containing Vaccines WHO and UNICEF estimates of global DTPcv1 coverage increased from 86% in 2021 to 89% in 2022, but remained below 2019 coverage (90%) (Figure). Simila\u2026 [+3510 chars]",
+      "retrievedAt": "2023-10-27 19:05:12.739153",
+      "internal_id": "08e551e8432f9fc1ef2b49c3af104c7c399993d816e3bee07ff40d1f9ea985f4",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2760,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Sean Muhamad, Raka Adji",
+      "title": "Mpox: 14 cases confirmed in Indonesia so far",
+      "description": "Director general of disease prevention and control at the Ministry of Health, Maxi Rein Rondonuwu, has said that 14 confirmed cases of monkeypox (mpox) have been recorded in Indonesia so far. \"In Indonesia, as of today, ...",
+      "url": "https://en.antaranews.com/news/297231/mpox-14-cases-confirmed-in-indonesia-so-far",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/26/WhatsApp-Image-2023-10-26-at-15.47.06.jpeg",
+      "publishedAt": "2023-10-26 16:53:40",
+      "content": "Jakarta (ANTARA) - Director general of disease prevention and control at the Ministry of Health, Maxi Rein Rondonuwu, has said that 14 confirmed cases of monkeypox (mpox) have been recorded in Indone\u2026 [+2672 chars]",
+      "retrievedAt": "2023-10-27 19:05:18.087857",
+      "internal_id": "e39dc2dc3b19941db375f7cf0e7d5769bc82b3ae779d8fe52730f70629a5b3b3",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2758,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "The Associated Press",
+      "title": "Mpox vaccinations should be recommended for high-risk men, even after outbreak ends, advisers say",
+      "description": "Gay and bisexual men at high risk for mpox infection should get vaccinated for the virus even after the current outbreak ends, government health advisers said Wednesday.",
+      "url": "https://www.nbcnews.com/nbc-out/out-health-and-wellness/mpox-vaccinations-recommended-high-risk-men-even-outbreak-ends-adviser-rcna122314",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-10/231022-mpox-vaccine-se-1022a-6ca1af.jpg",
+      "publishedAt": "2023-10-26 15:53:51",
+      "content": "Gay and bisexual men at high risk for mpox infection should get vaccinated for the virus even after the current outbreak ends, government health advisers said Wednesday. The committees recommendatio\u2026 [+2145 chars]",
+      "retrievedAt": "2023-10-27 19:05:18.071746",
+      "internal_id": "585aeb346f30bc2b099916e691d42cdee073f7fcd2f558a35b37f74bd74dcef2",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2747,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Smithsonian.com",
+      "author": "Will Sullivan",
+      "title": "'Extremely Rare' Case of Locally Acquired Dengue Fever Detected in California",
+      "description": "Officials say the risk of exposure to the virus, which is spread by mosquito bites, is very low for residents",
+      "url": "https://www.smithsonianmag.com/smart-news/extremely-rare-case-of-locally-acquired-dengue-fever-detected-in-california-180983133/",
+      "urlToImage": "https://th-thumbnailer.cdn-si-edu.com/dTnjPqnke_p6_DL0xqqdF5NDzBE=/fit-in/1600x0/filters:focal(2464x1643:2465x1644)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F09%2Fa6%2F09a6fc6d-db85-453f-97d7-6ace722d8be0%2Fgettyimages-456534652.jpg",
+      "publishedAt": "2023-10-26 15:02:13",
+      "content": "Aedes aegypti mosquitoes can spread dengue fever to humans via bites. CHRISTOPHE SIMON / AFP via Getty Images A person in Pasadena, California, has caught a case of dengue fever without traveling \u2026 [+4603 chars]",
+      "retrievedAt": "2023-10-27 19:05:14.018614",
+      "internal_id": "ce099c5ad7fbf6f332929717fa28222b333cecf4636917359bad2c0d8e9eef63",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2754,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Malaria protein discovery offers path for novel antimalarial intervention strategies",
+      "description": "The discovery of a malaria protein that helps the parasite grow inside red blood cells and plays a key regulatory role in the parasite's immune evasion tactics could pave the way for new vaccines or therapeutics to combat the deadly infection.",
+      "url": "https://phys.org/news/2023-10-malaria-protein-discovery-path-antimalarial.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/malaria-protein-discov.jpg",
+      "publishedAt": "2023-10-26 15:00:02",
+      "content": "The discovery of a malaria protein that helps the parasite grow inside red blood cells and plays a key regulatory role in the parasite's immune evasion tactics could pave the way for new vaccines or \u2026 [+3428 chars]",
+      "retrievedAt": "2023-10-27 19:05:16.385463",
+      "internal_id": "f3ad80ddb4da973645de03e6fc59e137ad7bbf5874fa0ffb46bea3ff42f49ba6",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2749,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Wei-Xin Chin, Hao Yuin Kong, Isabelle Xin Yu Zhu, Zi Yun Teo, Regina Faruk, Regina Ching Hua Lee, Si Xian Ho, Zhen Qin Aw, Bowen Yi, Xin Jun Hou, Antson Kiat Yee Tan, Thinesshwary Yogarajah, Roland G. Huber, Yu Cai, Yue Wan, Justin Jang Hann Chu",
+      "title": "Flavivirus genome recoding by codon optimisation confers genetically stable in vivo attenuation in both mice and mosquitoes",
+      "description": "Author summary The mosquito-borne flaviviruses such as dengue virus (DENV) and Zika virus (ZIKV) have established themselves as major human pathogens. Live attenuated vaccines are seen as the most effective method for preventing flavivirus infection. Flavivir\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011753",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011753.g005&size=inline",
+      "publishedAt": "2023-10-26 14:00:00",
+      "content": "Citation: Chin W-X, Kong HY, Zhu IXY, Teo ZY, Faruk R, Lee RCH, et al. (2023) Flavivirus genome recoding by codon optimisation confers genetically stable in vivo attenuation in both mice and mosquito\u2026 [+72471 chars]",
+      "retrievedAt": "2023-10-27 19:05:14.040084",
+      "internal_id": "cdc1c03e045ac8d0224f1b250d0a9a946cc1e087dd4cf74b39dd3305d502127e",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2755,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Megan Okada, Paul A. Sigala",
+      "title": "The interdependence of isoprenoid synthesis and apicoplast biogenesis in malaria parasites",
+      "description": "Isoprenoid precursor synthesis is an ancient and fundamental function of plastid organelles and a critical metabolic activity of the apicoplast in Plasmodium malaria parasites [1\u20133]. Over the past decade, our understanding of apicoplast properties and functio\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011713",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011713.g002&size=inline",
+      "publishedAt": "2023-10-26 14:00:00",
+      "content": "Abstract Isoprenoid precursor synthesis is an ancient and fundamental function of plastid organelles and a critical metabolic activity of the apicoplast in Plasmodium malaria parasites [13]. Over th\u2026 [+21790 chars]",
+      "retrievedAt": "2023-10-27 19:05:16.392021",
+      "internal_id": "6a0f39986b8b83e8d4585ff23762eaefe4c5d48cc268bb08151616e485f44c74",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2756,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Andy Fell-UC Davis",
+      "title": "Zika virus in pregnant monkeys stymies fetal growth",
+      "description": "Zika virus infection in pregnant rhesus macaques slows fetal growth and affects how infants and mothers interact in the first month of life.",
+      "url": "https://www.futurity.org/zika-virus-pregnant-macaques-2991792/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2023/10/zika-virus-macaques-pregnant-fetal-growth-1600.jpg",
+      "publishedAt": "2023-10-26 13:32:32",
+      "content": "Zika virus infection in pregnant rhesus macaques slows fetal growth and affects how infants and mothers interact in the first month of life, according to a new study. The findings have has implicati\u2026 [+4063 chars]",
+      "retrievedAt": "2023-10-27 19:05:16.951176",
+      "internal_id": "c667258d09cb4fb648b712258ad43af2e9cbd6863f2e8aa11e83426a88a20e63",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2757,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "CDC Advisors Recommend Mpox Shots For Routine Prevention Among At-Risk Adults\u2014Here\u2019s What To Know",
+      "description": "There have been more than 30,000 mpox cases and 54 deaths reported in the U.S. but vaccine maker Bavarian Nordic said \u201ca significant number of people\u201d are still vulnerable to infection.",
+      "url": "https://www.forbes.com/sites/roberthart/2023/10/26/cdc-advisors-recommend-mpox-shots-for-routine-prevention-among-at-risk-adults-heres-what-to-know/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/653a6439d42a7a034a452853/0x0.jpg?format=jpg&crop=3119,1755,x0,y213,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-10-26 13:15:36",
+      "content": "A Centers for Disease Control and Prevention committee voted Wednesday to recommend the routine use of Bavarian Nordics mpox vaccine in at-risk adults, paving the way for commercialization and issuin\u2026 [+4372 chars]",
+      "retrievedAt": "2023-10-27 19:05:18.068616",
+      "internal_id": "10bd260d2f7c9ecae495b814c307109bfcc1be54c8569da0712b7848fc495188",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2746,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Brisbane Times",
+      "author": "Tony Moore",
+      "title": "Queensland Health says state at risk of measles, mumps and whooping cough outbreaks",
+      "description": "\u201cAlarming\u201d low vaccination rates in Queensland show the state is at risk of outbreaks of children\u2019s diseases including tetanus, measles, mumps, rubella and whooping cough.",
+      "url": "https://www.brisbanetimes.com.au/national/queensland/queensland-health-says-state-at-risk-of-measles-mumps-and-whooping-cough-outbreaks-20231026-p5efb4.html",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3137%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_79%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_rebranded_no_label_no_age_social_wm/cc81057ca74b64639bd89a7fd7f673d9fc37e5ce",
+      "publishedAt": "2023-10-26 11:02:45",
+      "content": "Queensland also has the third-lowest vaccination rate for two-year-old children. The study also shows parents are not taking up free school immunisation programs. Additionally, 2022 saw the lowest \u2026 [+2599 chars]",
+      "retrievedAt": "2023-10-27 19:05:13.530538",
+      "internal_id": "464393d32f4d20b769f7be4140146c92ae9ee6ad725ca3ad5a3226079ec869ad",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2753,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Jen Christensen",
+      "title": "A \u2018new turning point\u2019: Patients could soon have a new shot to protect them from deadly meningitis | CNN",
+      "description": "Pfizer\u2019s new meningococcal vaccine, Penbraya, protects against five kinds of bacteria and could soon be an option that offers people broad protection from meningococcal disease with fewer shots.",
+      "url": "https://www.cnn.com/2023/10/25/health/meningitis-vaccine-changes/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231025142219-pfizer-office-belgium.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-26 10:36:35",
+      "content": "Patti Wukovits still thinks about how she had to bury her daughter in her prom dress. In June 2012, 17-year-old Kimberly Coffey had a fever and body aches. She told her mom it felt like her ankles w\u2026 [+7565 chars]",
+      "retrievedAt": "2023-10-27 19:05:14.594445",
+      "internal_id": "341a271e0b614af66764b34bd64953abf0dbcb26f29bc537d82fe71e71460d9d",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2750,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: MenACWY vaccine: information for young people",
+      "description": "A guide to the MenACWY vaccine \u2013 to protect teenagers and young people from meningitis and septicaemia",
+      "url": "https://www.gov.uk/government/publications/menacwy-vaccine-information-for-young-people",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+      "publishedAt": "2023-10-26 10:36:23",
+      "content": "This leaflet explains the MenACWY vaccine that protects against 4 types of meningococcal disease (group A, group C, group W and group Y) which can cause severe illness including septicaemia. The Men\u2026 [+478 chars]",
+      "retrievedAt": "2023-10-27 19:05:14.584553",
+      "internal_id": "345312b661004ec22fd15b3ae6338251dd30acf7371dac1c4384826285d3c985",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2759,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Siti Nurhaliza, Raka Adji",
+      "title": "Mpox: Jakarta continues close contact tracing to fight transmission",
+      "description": "The Jakarta Health Office continues to conduct case detection efforts against mpox by tracing close contacts for 24 hours to prevent spread of the disease. \u201cWe carry out a 24-hour investigation, including close contact ...",
+      "url": "https://en.antaranews.com/news/297180/mpox-jakarta-continues-close-contact-tracing-to-fight-transmission",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/26/InShot_20231026_121542019.jpg",
+      "publishedAt": "2023-10-26 09:23:57",
+      "content": "Jakarta (ANTARA) - The Jakarta Health Office continues to conduct case detection efforts against mpox by tracing close contacts for 24 hours to prevent spread of the disease.\u201cWe carry out a 24-hour i\u2026 [+2040 chars]",
+      "retrievedAt": "2023-10-27 19:05:18.084593",
+      "internal_id": "0d81938807cc9198269c1a836df1d3ca50316aed620dfa8508b79da4573d0d6b",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2748,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u0907\u0924\u0928\u0947 \u0922\u0940\u0920 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u091a\u094d\u091b\u0930, \u0924\u092a\u0924\u0940-\u091c\u0932\u0924\u0940 \u091a\u0941\u092d\u0928 \u092e\u0947\u0902 \u092d\u0940 \u091c\u093f\u0902\u0926\u093e \u0930\u0939 \u0932\u0947\u0924\u0947 \u0939\u0948\u0902: \u0938\u094d\u091f\u0921\u0940",
+      "description": "Dengue Study News: \u0926\u093f\u0932\u094d\u0932\u0940 \u0938\u0939\u093f\u0924 \u0915\u0908 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0906\u0902\u0924\u0915 \u092c\u0922\u093c\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 \u0915\u0947\u0938 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u092c\u0922\u093c\u0924\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948\u0964 \u0907\u0938 \u092c\u0940\u091a \u090f\u0915 \u0938\u094d\u091f\u0921\u0940 \u0928\u0947 \u0938\u092c\u0915\u093e \u0927\u094d\u092f\u093e\u0928 \u0916\u0940\u0902\u091a\u093e \u0939\u0948\u0964 \u0938\u094d\u091f\u0921\u0940 \u092e\u0947\u0902 \u092a\u0924\u093e \u091a\u0932\u093e \u0939\u0948 \u0915\u093f \u0921\u0947\u0902\u0917\u0942 \u092e\u091a\u094d\u091b\u0930 \u0915\u0947 \u0905\u0902\u0921\u0947 \u0915\u0920\u093f\u0928 \u092a\u0930\u093f\u0938\u094d\u0925\u093f\u0924\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u092d\u0940 \u0928\u0939\u0940\u0902 \u0916\u0930\u093e\u092c \u0939\u094b\u0924\u0947 \u0939\u0948\u0902 \u0914\u0930 \u0905\u0928\u0941\u0915\u0942\u0932 \u092e\u093e\u0939\u094c\u0932 \u092e\u0947\u0902 \u092b\u093f\u0930 \u2026",
+      "url": "https://navbharattimes.indiatimes.com/india/dengue-eggs-can-resist-in-tough-condition-can-grow-in-familiar-conditions-new-study/articleshow/104722623.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-41510,msid-104722670/navbharat-times.jpg",
+      "publishedAt": "2023-10-26 08:37:52",
+      "content": "Navbharat Times News App: - , , , , -... NBT , ? 0 5 - ' ' ' ' , , G7 , Samsung Galaxy S23 FE , Galaxy S series , , ... <\u2026 [+154 chars]",
+      "retrievedAt": "2023-10-27 19:05:14.024371",
+      "internal_id": "529708ac0780e3c5c83f8c9430a0f9179ef35bb6ff3f0e1d184dbb64b502e19a",
+      "publishedAtLabel": "Oct 26"
+    },
+    {
+      "id": 2745,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "By JUDY SIEGEL-ITZKOVICH",
+      "title": "More measles cases diagnosed in Tel Aviv",
+      "description": "If symptoms of fever and headache appear followed a few days later by a rash, you should contact your doctor.",
+      "url": "https://www.jpost.com/health-and-wellness/article-770224",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/555568",
+      "publishedAt": "2023-10-26 08:30:07",
+      "content": "A total of nine cases of measles cases were discovered in Tel Aviv last month, according to the Health Ministry, whose epidemiologists found a connection among all of them. Although those infected we\u2026 [+797 chars]",
+      "retrievedAt": "2023-10-27 19:05:13.522082",
+      "internal_id": "dfa5f8ce7d2ce439397a2d8aea0729e431582b9e6f7df1c936823d434223e9c4",
+      "publishedAtLabel": "Oct 26"
+    },
     {
       "id": 2739,
       "query": [
@@ -3294,332 +3620,6 @@
       "retrievedAt": "2023-10-15 19:05:22.091936",
       "internal_id": "31a7511e8c15c3ab8e1bfcdd38e74171e7167e3ae1f646cfa545486428059009",
       "publishedAtLabel": "Oct 14"
-    },
-    {
-      "id": 2560,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Bikash Singh",
-      "title": "Manipur reels under dengue and outbreak of Africa Swine Fever",
-      "description": "Five people are suspected to have died due to dengue. This time it is a worsening of the Dengue outbreak with 1338 dengue cases officially registered till Friday. This is the highest infection figure that the state has recorded in recent times. There were onl\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/manipur-reels-under-dengue-and-outbreak-of-africa-swine-fever/articleshow/104426502.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104426490,width-1200,height-630,imgsize-40130,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-14 13:20:52",
-      "content": "The state of Manipur is battling woes one after another. After several months of ethnic strife, the state is now reeling under dengue and outbreak of Africa Swine Fever (AFS) in the state. Five peopl\u2026 [+3596 chars]",
-      "retrievedAt": "2023-10-15 19:05:22.996975",
-      "internal_id": "c867f4ec9fb2fb976f7d581738860b626244c06160369dd700afac360f1c6b7a",
-      "publishedAtLabel": "Oct 14"
-    },
-    {
-      "id": 2559,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WLS-TV",
-      "author": "Abc 7 Chicago",
-      "title": "Illinois reports first measles case in 4 years, state health officials confirm",
-      "description": "The person, who was exposed to the measles virus in another country, was unvaccinated, the IDPH said.",
-      "url": "https://abc7chicago.com/illinois-measles-vaccine-symptoms-cook-county/13912362/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/13410252_062123-kfsn-fresno-co-measles-vid.jpg?w=1600",
-      "publishedAt": "2023-10-14 12:50:29",
-      "content": "COOK COUNTY, Ill. -- Illinois health officials reported the state's first case of measles in four years Friday. The Cook County Health Department reported the suspected case Tuesday to the Illinois \u2026 [+1213 chars]",
-      "retrievedAt": "2023-10-15 19:05:22.105502",
-      "internal_id": "ce708a0cf0089bd2231065af75dce7dca90d56f9780e8eac69f3d353d3fce14a",
-      "publishedAtLabel": "Oct 14"
-    },
-    {
-      "id": 2558,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Illinois identifies first measles case since 2019, public health officials say - Chicago Tribune",
-      "description": "Illinois identifies first measles case since 2019, public health officials sayChicago Tribune Milwaukee suspected measles cases; contact tracing underway | FOX6 News MilwaukeeFOX6 News Milwaukee Measles contact tracing continues after confirmed case in Milwau\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172014775",
-      "urlToImage": null,
-      "publishedAt": "2023-10-14 10:12:36",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-15 19:05:22.096822",
-      "internal_id": "95a196622c2b35ab91e5ced2c6e64b38b4b3d7d30cea88275e5b4c1ad2cef33a",
-      "publishedAtLabel": "Oct 14"
-    },
-    {
-      "id": 2562,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "India win toss, elect to bowl against Pakistan; Shubman Gill returns in place of Ishan Kishan",
-      "description": "India won the toss and elected to bowl against Pakistan in the World Cup match here on Saturday. Indian captain Rohit Sharma said Shubman Gill, who missed the first two matches because of dengue, will play in place of Ishan Kishan.",
-      "url": "https://economictimes.indiatimes.com/news/sports/india-win-toss-elect-to-bowl-against-pakistan-shubman-gill-returns-in-place-of-kishan/articleshow/104420409.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104420425,width-1200,height-630,imgsize-54638,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-14 08:46:54",
-      "content": "India won the toss and chose to field against Pakistan. Captain Rohit Sharma confirmed that Shubman Gill, who missed the first two matches due to dengue, would be playing in place of Ishan Kishan.\"Gi\u2026 [+1894 chars]",
-      "retrievedAt": "2023-10-15 19:05:23.023464",
-      "internal_id": "c8d6bed349dce487ff56c1a615bae9844568bd897c3b27d06d4a0e5435f81797",
-      "publishedAtLabel": "Oct 14"
-    },
-    {
-      "id": 2563,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Crictoday.com",
-      "author": "Venkat Narayanan",
-      "title": "Aakash Chopra raises concerns over Shubman Gill's fitness ahead of IND-PAK clash",
-      "description": "Shubman Gill, who missed the first two games of the 2023 Cricket World Cup due to dengue, is believed to be virtually fully fit",
-      "url": "http://crictoday.com/cricket/daily-cricket-news/aakash-chopra-raises-concerns-over-shubman-gills-fitness-ahead-of-ind-pak-clash/",
-      "urlToImage": "https://crictoday.com/wp-content/uploads/2023/10/Untitled-design-2023-10-10T113549.215.jpg",
-      "publishedAt": "2023-10-14 08:15:24",
-      "content": "Renowned cricket commentator Aakash Chopra expressed optimism about Shubman Gill\u2018s inclusion in India\u2019s playing XI for the much-anticipated World Cup 2023 clash against Pakistan. Rohit Sharma believe\u2026 [+1164 chars]",
-      "retrievedAt": "2023-10-15 19:05:23.053026",
-      "internal_id": "4dae58a4ec3ae4ba7fab3d77784eeb6c126e6b5182021df2c3f396f3d940da18",
-      "publishedAtLabel": "Oct 14"
-    },
-    {
-      "id": 2564,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "\u201eBahnbrechende Pionier- und Forschungsarbeit\u201c: Immunologin Rose Gana Fomban Leke erh\u00e4lt Virchow-Preis in Berlin",
-      "description": "Das zweite Jahr in Folge vergibt die Virchow Stiftung einen Preis f\u00fcr besondere Leistungen im Gesundheitsbereich. Die Jury ehrt die diesj\u00e4hrige Preistr\u00e4gerin f\u00fcr ihren Kampf gegen Malaria - und noch aus einem anderen Grund.",
-      "url": "https://www.tagesspiegel.de/berlin/bahnbrechende-pionier-und-forschungsarbeit-immunologin-rose-gana-fomban-leke-erhalt-virchow-preis-in-berlin-10624066.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/dr-rose-leke-immunologin-aus-kamerun/alternates/BASE_16_9_W1400/dr-rose-leke-immunologin-aus-kamerun.jpeg",
-      "publishedAt": "2023-10-14 07:33:36",
-      "content": "Die kamerunische Immunologin Rose Gana Fomban Leke bekommt am Samstagabend im Roten Rathaus den mit 500 000 Euro dotierten Virchow-Preis f\u00fcr Globale Gesundheit verliehen. Leke w\u00fcrde unter anderem f\u00fcr\u2026 [+1882 chars]",
-      "retrievedAt": "2023-10-15 19:05:24.158882",
-      "internal_id": "89f66a1dff508db6e7234563b7b16b3aa0e615081e40aa4716ef690f739ba536",
-      "publishedAtLabel": "Oct 14"
-    },
-    {
-      "id": 2554,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "STERN.de",
-      "author": "STERN.de",
-      "title": "Preise: Immunologin aus Kamerun wird mit Virchow-Preis ausgezeichnet",
-      "description": "Das zweite Jahr in Folge vergibt die Virchow Stiftung einen Preis f\u00fcr besondere Leistungen im Gesundheitsbereich. Die Jury ehrt die diesj\u00e4hrige Preistr\u00e4gerin f\u00fcr ihren Kampf gegen Malaria - und noch aus einem anderen Grund.",
-      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/preise--immunologin-aus-kamerun-wird-mit-virchow-preis-ausgezeichnet-33912474.html",
-      "urlToImage": "https://image.stern.de/6681672/t/31/v5/w1440/r1.7778/-/video-fallback-image.jpg",
-      "publishedAt": "2023-10-14 06:52:14",
-      "content": "Das zweite Jahr in Folge vergibt die Virchow Stiftung einen Preis f\u00fcr besondere Leistungen im Gesundheitsbereich. Die Jury ehrt die diesj\u00e4hrige Preistr\u00e4gerin f\u00fcr ihren Kampf gegen Malaria - und noch \u2026 [+1745 chars]",
-      "retrievedAt": "2023-10-15 07:05:27.984000",
-      "internal_id": "b92a757e73279ea30911006301b216bed452adbaefd67dc3c1a7b94ad55744ef",
-      "publishedAtLabel": "Oct 14"
-    },
-    {
-      "id": 2550,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "Marie Pomme",
-      "title": "Vid\u00e9o. 2023, une ann\u00e9e record pour la dengue en France",
-      "description": "Bzzzzz bzzzz... Le moustique est l'ennemi p\u00e9nible de la nuit. Plus fourbe : le moustique tigre, qui transmet la dengue. En 2023, 1 167 cas ont \u00e9t\u00e9 recens\u00e9s en France entre le 1er mai et le 6 octobre.",
-      "url": "https://www.ledauphine.com/sante/2023/10/14/2023-une-annee-record-pour-la-dengue-en-france",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/C37209DD-81C4-4668-8FA2-A03D230945B0/FB1200/photo-1697225957.jpg",
-      "publishedAt": "2023-10-14 06:30:00",
-      "content": "Le Dauphin\u00e9 Lib\u00e9r\u00e9, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistr\u00e9es dans un fichier informatis\u00e9 par son Service Relations Clients, la finali\u2026 [+854 chars]",
-      "retrievedAt": "2023-10-15 07:05:27.110022",
-      "internal_id": "e263ec2c50b29fc6103a5c1119d203770adc953f05d2d450620d1e14c7eca40f",
-      "publishedAtLabel": "Oct 14"
-    },
-    {
-      "id": 2555,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Lavenir.net",
-      "author": "Jean-Paul NACKART",
-      "title": "Zikadonf f\u00eate ses quinze ans",
-      "description": "Deux semaines apr\u00e8s l\u2019harmonie, c\u2019est au tour du street band de faire la f\u00eate ce samedi \u00e0 la Bascule d\u2019Esplechin.",
-      "url": "https://www.lavenir.net/regions/wallonie-picarde/tournai/2023/10/14/zikadonf-fete-ses-quinze-ans-K7D25FHUE5A4HA72NPTUAZT7K4/",
-      "urlToImage": "https://www.lavenir.net/resizer/mFgA18kVjIgUAnSZuR9mAA-7KNA=/1200x630/filters:format(jpeg):focal(475x335.5:485x325.5):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/UFVD77VYQZHRHBUO5OR7E7I6TY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/D7RJLICYS5FS5P7HUKR6XWNZL4.jpg",
-      "publishedAt": "2023-10-14 04:00:00",
-      "content": "C\u00e9tait en 2008. Phalange de lharmonie-fanfare, le papy musette participait \u00e0 de nombreuses f\u00eates r\u00e9gionales. Devenu Zikadonf, lensemble aujourdhui dirig\u00e9 par Sevan De Rycke (apr\u00e8s Gregory Lecul) a po\u2026 [+1335 chars]",
-      "retrievedAt": "2023-10-15 07:05:28.243485",
-      "internal_id": "48a99e1eb44fb190d44eee226ec1073cadb8b6da967c5a826fc6fca326799b9f",
-      "publishedAtLabel": "Oct 14"
-    },
-    {
-      "id": 2546,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Milwaukee health officials are following a few suspected measles cases. Why that is causing such concern? - Milwaukee Journal Sentinel",
-      "description": "Milwaukee health officials are following a few suspected measles cases. Why that is causing such concern?Milwaukee Journal Sentinel Milwaukee suspected measles cases; contact tracing underway | FOX6 News MilwaukeeFOX6 News Milwaukee Measles case identified in\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172012489",
-      "urlToImage": null,
-      "publishedAt": "2023-10-13 23:12:06",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-15 07:05:26.328317",
-      "internal_id": "346a2d608ae7a7205537ab4ad16c410a4969d7ab649f14ac461784039ad0b6e7",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2547,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Chicago Tribune",
-      "author": "Caroline Kubzansky",
-      "title": "Illinois identifies first Measles case since 2019, public health officials say",
-      "description": "State public health officials urged Illinois residents to be up-to-date on their vaccinations after the first case of Measles in state since 2019 was recently identified.",
-      "url": "https://www.chicagotribune.com/news/breaking/ct-illinois-measles-first-case-20231013-c3v75yzi4bdofcagtf6riez6ei-story.html",
-      "urlToImage": "https://www.chicagotribune.com/resizer/srJny-3Nwg8-TbeUtpAAdNeSwYs=/1200x630/filters:format(jpg):quality(70):focal(2460x1295:2470x1305)/cloudfront-us-east-1.images.arcpublishing.com/tronc/YCXW63XQ3ZELHI6Y5WDHMCJV2I.JPG",
-      "publishedAt": "2023-10-13 21:54:12",
-      "content": "Illinois public health officials said Friday they have confirmed the first case of Measles in the state since 2019 and urged Illinoisans to make sure they are vaccinated against the disease. The inf\u2026 [+1782 chars]",
-      "retrievedAt": "2023-10-15 07:05:26.337496",
-      "internal_id": "d2c7502516fb4dd4a96f3b4e771e7f08624503c2aa49197222f22f08ac18b79d",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2548,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WDJT",
-      "author": "Tajma Hall",
-      "title": "Milwaukee health officials continue to investigate measles case; encourage vaccination",
-      "description": "MILWAUKEE (CBS 58) --- It's been three days since the Milwaukee Health Department announced that someone had tested positive for measles.Measles can be very contagious and right now vaccination rates are",
-      "url": "https://cbs58.com/news/milwaukee-health-officials-continue-to-investigate-measles-case",
-      "urlToImage": "https://newscdn2.weigelbroadcasting.com/EfQl3-1697230103-266127-blog-0400P_MEASLES%20OUTBREAK__WDJTEIMF.JPG",
-      "publishedAt": "2023-10-13 20:58:42",
-      "content": "MILWAUKEE (CBS 58) --- It's been three days since the Milwaukee Health Department announced that someone had tested positive for measles. Measles can be very contagious and right now vaccination rat\u2026 [+1532 chars]",
-      "retrievedAt": "2023-10-15 07:05:26.341556",
-      "internal_id": "ddd5ed746232720332202e63bacbff2c96f90866ebd3f548452ae578e9d0d786",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2549,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Cshlp.org",
-      "author": "Tsujimoto, H., Adelman, Z. N.",
-      "title": "An 11-point time course midgut transcriptome across 72 h after bloodfeeding provides detailed temporal resolution of transcript expression in the arbovirus vector, Aedes aegypti [RESOURCES]",
-      "description": "As the major vector for dengue, Zika, yellow fever, and chikungunya viruses, the mosquito Aedes aegypti is one of the most important insects in public health. These viruses are transmitted by bloodfeeding, which is also necessary for the reproduction of the m\u2026",
-      "url": "https://genome.cshlp.org/content/33/9/1638.short?rss=1",
-      "urlToImage": null,
-      "publishedAt": "2023-10-13 19:47:41",
-      "content": "As the major vector for dengue, Zika, yellow fever, and chikungunya viruses, the mosquito Aedes aegypti is one of the most important insects in public health. These viruses are transmitted by bloodfe\u2026 [+1694 chars]",
-      "retrievedAt": "2023-10-15 07:05:27.105970",
-      "internal_id": "0303c707aa2c4c86e161d88c85e43073db99e1762484a4bf9c64dae6c76f84b6",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2545,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Maryland\u2019s first local malaria case in 40 years initially duped doctors",
-      "description": "The misdiagnosis is a global problem that could worsen as malaria territory expands.",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172011129",
-      "urlToImage": null,
-      "publishedAt": "2023-10-13 18:15:00",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-14 19:05:13.425975",
-      "internal_id": "30a1c60d3fcd282f155891ac84fbae3c24eff6c2182d57d62cf0f07216e99b03",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2540,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "ars-technica",
-      "source_name": "Ars Technica",
-      "author": "Beth Mole",
-      "title": "Maryland\u2019s first local malaria case in 40 years initially duped doctors",
-      "description": "The misdiagnosis is a global problem that could worsen as malaria territory expands.",
-      "url": "https://arstechnica.com/health/2023/10/in-the-us-malaria-can-easily-masquerade-as-an-endemic-parasite/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/612-760x380.png",
-      "publishedAt": "2023-10-13 17:17:54",
-      "content": "Enlarge/ Under a magnification of 1,125x, this photomicrograph of a blood specimen revealed the presence of intraerythrocytic Plasmodium falciparum ring-form trophozoites. Note the erythrocyte in the\u2026 [+3295 chars]",
-      "retrievedAt": "2023-10-14 19:05:13.381375",
-      "internal_id": "d8c5cb3ca7a97486698e586f82627a170b3ca2d987ba8169ca18eadf26472687",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2536,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Bikash Singh",
-      "title": "In strife-torn Manipur, there are outbreaks of dengue, with 1338 dengue cases",
-      "description": "This worrying development comes at a time when the hill state is struggling to get back to normalcy from the unprecedented ethnic strife that flared up on 3 May and has ravaged the lives of hundreds and displaced over 60,000 people who are being sheltered in \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/in-strife-torn-manipur-there-are-outbreaks-of-dengue-with-1338-dengue-cases/articleshow/104407183.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104407184,width-1200,height-630,imgsize-17824,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-13 16:53:29",
-      "content": "Guwahati: Manipur is yet again under the heat. This time it is a worsening of the Dengue outbreak with 1338 dengue cases officially registered till Friday. There are around five deaths due to dengue.\u2026 [+4304 chars]",
-      "retrievedAt": "2023-10-14 19:05:12.104324",
-      "internal_id": "a2016ab215e52f944fbab9716a2ae7f847df870cc8059a95f16b9a28b26b6544",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2539,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "REDACCI\u00d3N SALUD",
-      "title": "Mitigue el contagio de dengue en temporada de vacaciones",
-      "description": "En medio de la semana de receso y partiendo de los altos \u00edndices en los casos de dengue reportados en regiones como Atl\u00e1ntico, Huila y Santander, se hace importante que los viajeros tengan en cuenta la necesidad de prevenir y mitigar los contagios por este vi\u2026",
-      "url": "https://www.eluniversal.com.co/salud/dengue-mitigue-el-contagio-en-esta-temporada-de-vacaciones-MD9243439",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/XBSA/dengue1-8126420-20230718142347_8709448_20231013115440.jpg",
-      "publishedAt": "2023-10-13 16:50:26",
-      "content": "En medio de la semana de receso y partiendo de los altos \u00edndices en los casos de dengue reportados en regiones como Atl\u00e1ntico, Huila y Santander, se hace importante que los viajeros tengan en cuenta \u2026 [+2618 chars]",
-      "retrievedAt": "2023-10-14 19:05:12.168393",
-      "internal_id": "deb0021dc4fc3669908e09f6f0aad388e242ed069495b17efdc20f8dba925ae4",
-      "publishedAtLabel": "Oct 13"
-    },
-    {
-      "id": 2542,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "NaftaliMwaura",
-      "title": "Chinese manufactured injectable drug boosting Kenya's war against malaria",
-      "description": "NAIROBI, Oct. 13 (Xinhua) -- Kenya's battle against malaria has gained new momentum through the widespread deployment of an injectable drug manufactured by the Chinese pharmaceutical company, Fosun Pharma, Kenyan officials said Thursday, during a forum in the\u2026",
-      "url": "https://www.thestar.com.my/news/world/2023/10/14/chinese-manufactured-injectable-drug-boosting-kenya039s-war-against-malaria",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-10-13 16:14:00",
-      "content": "NAIROBI, Oct. 13 (Xinhua) -- Kenya's battle against malaria has gained new momentum through the widespread deployment of an injectable drug manufactured by the Chinese pharmaceutical company, Fosun P\u2026 [+2748 chars]",
-      "retrievedAt": "2023-10-14 19:05:13.405352",
-      "internal_id": "c22727e3b41fa543823a40483daf8abdfc15590e9b752491d3169e4301c54c40",
-      "publishedAtLabel": "Oct 13"
     }
   ]
 }
