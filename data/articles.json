@@ -1,8 +1,45 @@
 {
-  "last_updated": "2023-10-28 19:05",
+  "last_updated": "2023-10-29 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 11,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 2782,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Ucsc.edu",
+      "author": "Hooke",
+      "title": "Bacteria enhances host insect's fertility with implications for disease control",
+      "description": "New research led at UC Santa Cruz reveals how the bacteria strain Wolbachia pipientis enhances the fertility of the insects it infects, an insight that could help scientists increase the populations of mosquitoes that do not carry human disease.",
+      "url": "https://news.ucsc.edu/2023/10/russell-plos-23.html",
+      "urlToImage": "https://news.ucsc.edu/2023/10/images/figure_415.png",
+      "publishedAt": "2023-10-27 23:47:58",
+      "content": "Mosquitoes and other insects can carry human diseases such as dengue and Zika virus, but when those insects are infected with certain strains of the bacteria Wolbachia, this bacteria reduces levels o\u2026 [+5485 chars]",
+      "retrievedAt": "2023-10-29 07:05:22.342343",
+      "internal_id": "f601648d920f7f14b290f0d30f7204c4be5401cc870ac4b365d5fa3a50189a2e",
+      "publishedAtLabel": "Oct 27"
+    },
+    {
+      "id": 2781,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "The New York Times",
+      "title": "F\u00e1brica de mosquitos: el incre\u00edble m\u00e9todo para terminar con el dengue y la fiebre amarilla",
+      "description": "En Colombia, cada semana se producen, en laboratorios, m\u00e1s de 30 millones de mosquitos adultos Aedes aegypti; tienen una particularidad: llevan un tipo de bacteria que puede neutralizar esos virus mortales",
+      "url": "https://www.lanacion.com.ar/sociedad/fabrica-de-mosquitos-el-increible-metodo-para-terminar-con-el-dengue-y-la-fiebre-amarilla-nid27102023/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-aedes-aegypti-propaga-arbovirus-como-el-dengue-KONL3K4O6VATLGBMTRBZR3AIDY?auth=ce8efa931008ea10824e3c45d5b9adf9e415c1d3dc1a5f9447e4e6b68cf4d806&width=768&quality=70&smart=true",
+      "publishedAt": "2023-10-27 20:45:40",
+      "content": "NUEVA YORK.- En un laboratorio en el centro de Medell\u00edn, Colombia, es la hora del almuerzo: una t\u00e9cnica con bata blanca lleva una bandeja cargada a un criadero lleno de vapor. Camina entre hileras de\u2026 [+13783 chars]",
+      "retrievedAt": "2023-10-29 07:05:22.294779",
+      "internal_id": "590041e928ad76e0f1ce7dba73de995131dd14434082d7c73008588c45b3d20a",
+      "publishedAtLabel": "Oct 27"
+    },
     {
       "id": 2777,
       "query": [
@@ -3582,42 +3619,6 @@
       "content": "AI imagines Durga Maa's 9 forms that are worshiped in Navratri",
       "retrievedAt": "2023-10-17 19:05:25.078514",
       "internal_id": "3ba60534a535450c2b5d38539ec27617ceddf3443973a912246bdd930fe92940",
-      "publishedAtLabel": "Oct 16"
-    },
-    {
-      "id": 2576,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Federico Giuliani)",
-      "title": "\"Febbre e dolori muscolari\": la nuova infezione che spaventa l'Asia",
-      "description": "Il virus della dengue viene trasmesso agli esseri umani dalle punture di zanzare che hanno, a loro volta, precedentemente punto una persona infetta. In Nepal la situazione \u00e8 delicata",
-      "url": "https://www.ilgiornale.it/news/cronaca-internazionale/linfezione-virale-che-spaventa-nepal-2226324.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2023/04/17/1681733072-mosquito-ged576423a-1920.jpg?_=1681733072",
-      "publishedAt": "2023-10-16 15:40:42",
-      "content": "\"Al 13 ottobre sono stati identificati un totale di 39.230 casi in 76 distretti\". Inizia cos\u00ec l'ennesimo bollettino quotidiano diffuso dai media del Nepal. Non stiamo parlando di Covid, ma di un altr\u2026 [+2862 chars]",
-      "retrievedAt": "2023-10-17 19:05:25.687276",
-      "internal_id": "ce640406ee709964f7e3099eb729ca19c485bc629cccab549fb7e9b06f70f34e",
-      "publishedAtLabel": "Oct 16"
-    },
-    {
-      "id": 2582,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "NCDC, partners launch research project on mpox",
-      "description": "The Nigeria Centre for Disease Control and Prevention, the National Veterinary Research Institute, the Niger Delta University Teaching Hospital, the Pandemic Sciences Institute at the University of Oxford, the United Kingdom Public Health Rapid Support Team, \u2026",
-      "url": "https://punchng.com/ncdc-partners-launch-research-project-on-mpox-2/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
-      "publishedAt": "2023-10-16 15:27:11",
-      "content": "The Nigeria Centre for Disease Control and Prevention, the National Veterinary Research Institute, the Niger Delta University Teaching Hospital, the Pandemic Sciences Institute at the University of O\u2026 [+4401 chars]",
-      "retrievedAt": "2023-10-17 19:05:27.015710",
-      "internal_id": "bf3f49e4000ce4b3b5a16dbbf9f5544959894b2aef2e73d7c66fbc96e2c0055c",
       "publishedAtLabel": "Oct 16"
     }
   ]
