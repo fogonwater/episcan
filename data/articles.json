@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-10-30 07:05",
+  "last_updated": "2023-10-30 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 1,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 2795,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Solihull farmer takes on Atlantic row in son's memory",
+      "description": "Rod Adlington wants to raise money and awareness after losing son Barney to meningitis.",
+      "url": "https://www.bbc.co.uk/news/uk-england-birmingham-67256362",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11E64/production/_131561337_de22.jpg",
+      "publishedAt": "2023-10-29 18:00:50",
+      "content": "A farmer is preparing to row across the Atlantic ocean in memory of his son who died from meningitis. Rod Adlington, from Balsall Common in Solihull, will be part of a four-man crew taking on the u\u2026 [+1583 chars]",
+      "retrievedAt": "2023-10-30 19:05:28.093220",
+      "internal_id": "c89cf730968189e40ab496a62e205bf137c0a7f9f5de17297c75ff0740430d47",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 2791,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "La r\u00e9daction avec AFP",
+      "title": "Sant\u00e9. Le moustique tigre continue de prosp\u00e9rer, d\u00e9j\u00e0 une quarantaine de cas de dengue en 2023",
+      "description": "Apr\u00e8s une ann\u00e9e 2022 marqu\u00e9e par un nombre record de cas de dengue dans l'Hexagone, les experts s'attendent \u00e0 un bilan 2023 comparable. Ils incitent \u00e0 se pr\u00e9parer \u00e0 une menace croissante, notamment en vue des JO.",
+      "url": "https://www.ledauphine.com/sante/2023/10/29/le-moustique-tigre-continue-de-prosperer-deja-une-quarantaine-de-cas-de-dengue-en-2023",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/3329EA5E-8C36-4EB9-801E-1C0E2D0AB750/FB1200/photo-1698594722.jpg",
+      "publishedAt": "2023-10-29 16:40:00",
+      "content": "Le moustique tigre est toujours bien pr\u00e9sent dans l'Hexagone. L\u2019an dernier, l\u2019Aedes albopictus - le nom scientifique de l\u2019insecte - reconnaissable \u00e0 ses rayures noires et blanches, avait laiss\u00e9 un ma\u2026 [+2425 chars]",
+      "retrievedAt": "2023-10-30 19:05:27.676348",
+      "internal_id": "0bd3075ec25332a654e7e51900e2a7ad018debd5e6da8788bfc53520fe596ef0",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 2789,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Vijay Singh",
+      "title": "Good coordination helped in rabies vaccination drive for dogs, cats by BMC and animal activists",
+      "description": "MUMBAI: A successful rabies vaccination drive was recently conducted by the Brihanmumbai Municipal Corporation and the animal activists in the areas o.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/good-coordination-helped-in-rabies-vaccination-drive-for-dogs-cats-by-bmc-and-animal-activists/articleshow/104803621.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104803621,width-1070,height-580,imgsize-878087,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-29 14:31:47",
+      "content": "10 superfoods to increase stamina",
+      "retrievedAt": "2023-10-30 19:05:27.126644",
+      "internal_id": "5f607eb70bf6fa653a0cfd5ab6832c2ac1fa2c68f0a5a11c7dfd40c02d086a07",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 2792,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "L'Express",
+      "author": "L\u2019Express",
+      "title": "Dengue en France : une tendance \u00e0 la hausse et des cas toujours plus au nord",
+      "description": "Comme en 2022, l\u2019ann\u00e9e 2023 s\u2019appr\u00eate \u00e0 \u00eatre une ann\u00e9e record de recensement des cas de dengue, qu\u2019ils soient autochtones ou import\u00e9s. Les d\u00e9partements du nord sont de moins en moins \u00e9pargn\u00e9s.",
+      "url": "https://www.lexpress.fr/sciences-sante/sante/dengue-en-france-une-tendance-a-la-hausse-et-des-cas-toujours-plus-au-nord-2IS4IR3MKBDK5BUOUVG2NFMNXU/",
+      "urlToImage": "https://www.lexpress.fr/resizer/mssG8diFzJX3jyOLDMoQ8k2fAak=/1200x630/filters:focal(852x506:862x516)/cloudfront-eu-central-1.images.arcpublishing.com/lexpress/FUB4S762FBFSXDJRWYD4ZN3NHU.jpg",
+      "publishedAt": "2023-10-29 14:26:52",
+      "content": "Bien quelle soit la plupart du temps sans gravit\u00e9, la dengue peut causer des maux de t\u00eate intenses, des vomissements, une forte fi\u00e8vre et, dans de rares cas lors des cas de dengue h\u00e9morragique, se co\u2026 [+3289 chars]",
+      "retrievedAt": "2023-10-30 19:05:27.691396",
+      "internal_id": "33c15126f2c312ebb7031e7d3064c95696418090b27aded5f68ce5e570391b8a",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 2793,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "20 Minutes avec AFP (20 Minutes)",
+      "title": "Moustique tigre : La hausse des cas de dengue se poursuit en m\u00e9tropole, y compris au nord de la Loire",
+      "description": "Les experts s\u2019attendent \u00e0 enregistrer en 2023 autant de cas de dengue autochtones dans l\u2019Hexagone qu\u2019en 2022, ann\u00e9e pourtant record. Il faut dire que le moustique tigre s\u00e9vit encore au mois d\u2019octobre",
+      "url": "https://www.20minutes.fr/sante/4059946-20231029-moustique-tigre-hausse-cas-dengue-poursuit-metropole-compris-nord-loire",
+      "urlToImage": "https://img.20mn.fr/WCjZ4CgsT_Kl3fUuYZQYTQ/1200x768_moustique-tigre",
+      "publishedAt": "2023-10-29 09:46:17",
+      "content": "Favoris\u00e9 par le r\u00e9chauffement climatique, le moustique tigre continue de prosp\u00e9rer dans l\u2019Hexagone, y compris en plein automne. Et apr\u00e8s une ann\u00e9e 2022 marqu\u00e9e par un nombre record de cas de dengue e\u2026 [+4004 chars]",
+      "retrievedAt": "2023-10-30 19:05:27.694386",
+      "internal_id": "fc3f1f031ae27a35702e860927d3a5dfc0c45690d913865b858d32c13b2f32f9",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 2796,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Devika Rao, The Week US)",
+      "title": "Malaria is spreading, but we can stop it",
+      "description": "Climate change is hastening the disease but medicine is catching up",
+      "url": "https://theweek.com/health/malaria-is-spreading-but-we-can-stop-it",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PcK5kKkK5iRPYyjDJGPboS-1200-80.jpg",
+      "publishedAt": "2023-10-29 09:00:08",
+      "content": "The mosquito-borne illness malaria has been spreading wider and faster as the climate changes. The disease can kill up to 600,000 people every year, per The Guardian . Malaria cases have been larg\u2026 [+4506 chars]",
+      "retrievedAt": "2023-10-30 19:05:28.439226",
+      "internal_id": "005be2a4444999c0cd1af4eed1c92cba7285bcef5362bede246f8e61175409d2",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 2794,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mumbaitak.in",
+      "author": "\u092d\u093e\u0917\u0935\u0924 \u0939\u093f\u0930\u0947\u0915\u0930",
+      "title": "Ajit Pawar Health : \u0905\u091c\u093f\u0924 \u092a\u0935\u093e\u0930\u093e\u0902\u0928\u093e \u0921\u0947\u0902\u0917\u094d\u092f\u0942, \u092a\u094d\u0930\u092b\u0941\u0932\u094d\u0932 \u092a\u091f\u0947\u0932\u093e\u0902\u0928\u0940 \u0915\u093e\u092f \u0926\u093f\u0932\u0940 \u092e\u093e\u0939\u093f\u0924\u0940?",
+      "description": "\u0905\u091c\u093f\u0924 \u092a\u0935\u093e\u0930 \u092f\u093e\u0902\u0928\u093e \u0921\u0947\u0902\u0917\u094d\u092f\u0942 \u091d\u093e\u0932\u094d\u092f\u093e\u091a\u0940 \u092e\u093e\u0939\u093f\u0924\u0940 \u092a\u094d\u0930\u092b\u0941\u0932\u094d\u0932 \u092a\u091f\u0947\u0932 \u092f\u093e\u0902\u0928\u0940 \u0926\u093f\u0932\u0940 \u0906\u0939\u0947. \u0924\u094d\u092f\u093e\u0902\u0928\u093e \u092a\u0941\u0922\u0940\u0932 \u0915\u093e\u0939\u0940 \u0926\u093f\u0935\u0938 \u0935\u093f\u0936\u094d\u0930\u093e\u0902\u0924\u0940\u091a\u093e \u0938\u0932\u094d\u0932\u093e \u0926\u0947\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u093e \u0905\u0938\u0932\u094d\u092f\u093e\u091a\u0940 \u092e\u093e\u0939\u093f\u0924\u0940 \u0924\u094d\u092f\u093e\u0902\u0928\u0940 \u0926\u093f\u0932\u0940.",
+      "url": "https://www.mumbaitak.in/city-news/ajit-pawar-diagnosed-with-dengue-praful-patel-inform-via-tweet/",
+      "urlToImage": "https://www.mumbaitak.in/wp-content/uploads/2023/10/Marathi_Latest_News-2023-10-29T113012.509.png",
+      "publishedAt": "2023-10-29 07:30:27",
+      "content": "Ajit Pawar dengue News : . . . (Ajit Pawar has been diagnosed with dengue) . . . . , .\u201c . , ( ) . . . , \u201d, .Contrary to speculative media reports suggesting that Shri Ajit Pawar is not attending publ\u2026 [+246 chars]",
+      "retrievedAt": "2023-10-30 19:05:27.700600",
+      "internal_id": "1297a88a871ae5a5e377b2bae4a111da43b86c377ef0f7219a7052b30fc74bb6",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 2790,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Ajit Pawar Diagnosed With Dengue, Advised Rest",
+      "description": "Maharashtra Deputy Chief Minister Ajit Pawar had been diagnosed with dengue and advised medical guidance and rest for the next few days, his party leader Praful Patel said on Sunday.",
+      "url": "https://www.ndtv.com/india-news/ajit-pawar-diagnosed-with-dengue-advised-rest-4524681",
+      "urlToImage": "https://c.ndtvimg.com/2023-09/i8k655sg_ajit-pawar_625x300_25_September_23.jpg",
+      "publishedAt": "2023-10-29 07:08:18",
+      "content": "Ajit Pawar was not attending public events from the past few days (File) Mumbai: Maharashtra Deputy Chief Minister Ajit Pawar had been diagnosed with dengue and advised medical guidance and rest for\u2026 [+1372 chars]",
+      "retrievedAt": "2023-10-30 19:05:27.673299",
+      "internal_id": "4fcdc1a9e315854d505515c1ae68ef7e1b9667fbdfdc2b39778c4a19d1e60192",
+      "publishedAtLabel": "Oct 29"
+    },
     {
       "id": 2788,
       "query": [
@@ -3476,150 +3620,6 @@
       "content": "En el Centro de Movilidad Migratoria de San Sebasti\u00e1n Tutla, en la zona del Valle Central de Oaxaca, han sido detectados m\u00e1s de 700 migrantes con gripe, deshidrataciones, dengue y padecimientos diarr\u2026 [+1150 chars]",
       "retrievedAt": "2023-10-19 07:05:56.691681",
       "internal_id": "814561230eeaccc6261173c612c8f5420aa12d7bee5192e5ca50a1948841e1e7",
-      "publishedAtLabel": "Oct 17"
-    },
-    {
-      "id": 2598,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "20 Minutes avec AFP (20 Minutes)",
-      "title": "Paris : Un cas autochtone de dengue en r\u00e9gion parisienne, une premi\u00e8re",
-      "description": "Un \u00ab cas autochtone \u00bb signifie que la personne n'a pas voyag\u00e9 r\u00e9cemment dans les r\u00e9gions du monde, comme les Antilles, o\u00f9 circule largement ce virus",
-      "url": "https://www.20minutes.fr/sante/4058308-20231017-paris-cas-autochtone-dengue-region-parisienne-premiere",
-      "urlToImage": "https://img.20mn.fr/SjuwGtS_RhSM5Ast-kW85ik/1200x768_mosquitoes-lay-eggs-inside-the-world-mosquito-program-s-factory-in-medellin-colombia-thursday-aug-10-2023-scientists-are-breeding-the-mosquitoes-to-carry-the-bacteria-wolbachia-which-interrupts-the-transmission-of-dengue-ap-photo-jaime-saldarriaga-xab307-23257824543413-aug-10-2023-photo-2309150156",
-      "publishedAt": "2023-10-17 19:35:32",
-      "content": "Un cas autochtone de dengue, c\u2019est-\u00e0-dire probablement transmis sur place par un moustique, a \u00e9t\u00e9 recens\u00e9 pour la premi\u00e8re fois en \u00cele-de-France, ont annonc\u00e9 mardi les autorit\u00e9s sanitaires, du jamais\u2026 [+1983 chars]",
-      "retrievedAt": "2023-10-19 07:05:56.698219",
-      "internal_id": "863d08e0d9c2bd361bf85e0f1214573a8836061aa10a2d7a585d1e8628140876",
-      "publishedAtLabel": "Oct 17"
-    },
-    {
-      "id": 2596,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WKTV",
-      "author": "Zach Lewis",
-      "title": "Raccoon from Town of Schuyler Tests Positive for Rabies",
-      "description": "Raccoon from Town of Schuyler Tests Positive for Rabieswktv.com",
-      "url": "https://www.wktv.com/news/health/raccoon-from-town-of-schuyler-tests-positive-for-rabies/article_d3086dbc-6d06-11ee-8b60-ab83d78b3285.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/2/60/260a1040-6d09-11ee-ac1f-e3d38642ed52/652eb477bc84b.image.png?crop=1712%2C899%2C0%2C155&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-10-17 19:15:00",
-      "content": "SCHUYLER, N.Y. -- There's another report of a rabid animal in the area. A rabid raccoon was found in Schuyler. The family dog killed the raccoon on Tuesday, Oct. 10. The dead raccoon was sent t\u2026 [+1040 chars]",
-      "retrievedAt": "2023-10-19 07:05:56.298194",
-      "internal_id": "89a8b0a895eeee2e90fcb48065ef4aead7d28e7e7c98ce99f922158636b39813",
-      "publishedAtLabel": "Oct 17"
-    },
-    {
-      "id": 2592,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "REDACCI\u00d3N CARTAGENA",
-      "title": "As\u00ed avanza la campa\u00f1a de movilizaci\u00f3n social contra el dengue en Cartagena",
-      "description": "El Departamento Administrativo Distrital de Salud (Dadis), con apoyo del IDER, inici\u00f3 el pasado domingo 15 de octubre una campa\u00f1a de movilizaci\u00f3n social en algunos sectores de la ciudad, con el fin de promover las acciones preventivas en cuanto a la lucha con\u2026",
-      "url": "https://www.eluniversal.com.co/cartagena/asi-avanza-la-campana-de-movilizacion-social-contra-el-dengue-en-cartagena-ME9262860",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/915x687/88c0/800d686/none/13704/AQEU/dengue_8732481_20231017130020.jpg",
-      "publishedAt": "2023-10-17 18:07:04",
-      "content": "El Departamento Administrativo Distrital de Salud (Dadis), con apoyo del IDER, inici\u00f3 el pasado domingo 15 de octubre una campa\u00f1a de movilizaci\u00f3n social en algunos sectores de la ciudad, con el fin d\u2026 [+1410 chars]",
-      "retrievedAt": "2023-10-18 19:05:41.088051",
-      "internal_id": "9f9d51be084efa6c67676ce0fd241a7006e17e03dfd218259895c40e750d3759",
-      "publishedAtLabel": "Oct 17"
-    },
-    {
-      "id": 2589,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Le Monde avec AFP",
-      "title": "Dengue : un cas autochtone recens\u00e9 pour la premi\u00e8re fois en Ile-de-France",
-      "description": "La personne infect\u00e9e se trouve \u00e0 Limeil-Br\u00e9vannes (Val-de-Marne), \u00e0 une quinzaine de kilom\u00e8tres au sud-est de Paris. Dans un communiqu\u00e9, l\u2019agence r\u00e9gionale de sant\u00e9 a confirm\u00e9 mardi qu\u2019il s\u2019agissait du premier cas francilien.",
-      "url": "https://www.lemonde.fr/planete/article/2023/10/17/dengue-un-cas-autochtone-recense-pour-la-premiere-fois-en-ile-de-france_6195069_3244.html",
-      "urlToImage": "https://img.lemde.fr/2023/06/14/715/0/2362/1574/1440/960/60/0/d980a77_1686755740199-mg-6003.jpg",
-      "publishedAt": "2023-10-17 18:05:21",
-      "content": "Il sagit dune premi\u00e8re en France m\u00e9tropolitaine sous pareille latitude : un cas autochtone de dengue, cest-\u00e0-dire probablement transmis sur place par un moustique, a \u00e9t\u00e9 recens\u00e9 en Ile-de-France, ont\u2026 [+2024 chars]",
-      "retrievedAt": "2023-10-18 19:05:41.065266",
-      "internal_id": "02e8a40d2de058760a173569dcb8a41a38f8e0adc310d55f08a9808d013d23b2",
-      "publishedAtLabel": "Oct 17"
-    },
-    {
-      "id": 2588,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Francetvinfo.fr",
-      "author": "Emmanuelle Hunzinger, AFP",
-      "title": "Moustique tigre : un cas de dengue \"autochtone\" d\u00e9t\u00e9ct\u00e9 dans le Val-de-Marne",
-      "description": "Un cas \"autochtone\" de dengue, transmis sur place par un moustique, a \u00e9t\u00e9 recens\u00e9 pour la premi\u00e8re fois \u00e0 Limeil-Br\u00e9vannes dans le Val-de-Marne. Une premi\u00e8re pour une r\u00e9gion aussi au nord selon les autorit\u00e9s sanitaires.",
-      "url": "https://france3-regions.francetvinfo.fr/paris-ile-de-france/val-de-marne/moustique-tigre-un-cas-de-dengue-autochtone-detecte-dans-le-val-de-marne-2858057.html",
-      "urlToImage": "https://france3-regions.francetvinfo.fr/image/IEg7mPn4DfgrqIWXdusAx7Vt9-o/930x620/regions/2023/06/21/649317d5bc5d7_couv-pic.jpg",
-      "publishedAt": "2023-10-17 17:10:06",
-      "content": "Un cas \"autochtone\" de dengue, transmis sur place par un moustique, a \u00e9t\u00e9 recens\u00e9 pour la premi\u00e8re fois \u00e0 Limeil-Br\u00e9vannes dans le Val-de-Marne. Une premi\u00e8re pour une r\u00e9gion aussi au nord selon les a\u2026 [+1608 chars]",
-      "retrievedAt": "2023-10-18 19:05:41.059037",
-      "internal_id": "82910b91f68f469379fff4cf3927c8df685902c829c59d0ab1e251150eb13e19",
-      "publishedAtLabel": "Oct 17"
-    },
-    {
-      "id": 2587,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Johor fights dengue with Wolbachia mosquitoes",
-      "description": "JOHOR BARU: Adult mosquitoes infected with the Wolbachia bacteria have been released as a control measure following the alarming increase in dengue fever cases in Johor, says health and unity committee chairman Ling Tian Soon. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/18/johor-fights-dengue-with-wolbachia-mosquitoes",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-10-17 16:00:00",
-      "content": "JOHOR BARU: Adult mosquitoes infected with the Wolbachia bacteria have been released as a control measure following the alarming increase in dengue fever cases in Johor, says health and unity committ\u2026 [+770 chars]",
-      "retrievedAt": "2023-10-18 19:05:41.042804",
-      "internal_id": "3cd69dbe1eae0fda52194c05e508932fdb19c92d0ef7799062061e65c8339496",
-      "publishedAtLabel": "Oct 17"
-    },
-    {
-      "id": 2591,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Keenan Elliott, Paola A. Caicedo, Norbert H. Haunerland, Carl Lowenberger",
-      "title": "Profiling lipidomic changes in dengue-resistant and dengue-susceptible strains of Colombian Aedes aegypti after dengue virus challenge",
-      "description": "Author summary Dengue virus (DENV) is a mosquito-transmitted pathogen that can lead to severe complications for infected humans, including hemorrhagic fever or death. Approximately 390 million people are infected with DENV yearly, and reported cases are risin\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011676",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011676.g007&size=inline",
-      "publishedAt": "2023-10-17 14:00:00",
-      "content": "Citation: Elliott K, Caicedo PA, Haunerland NH, Lowenberger C (2023) Profiling lipidomic changes in dengue-resistant and dengue-susceptible strains of Colombian Aedes aegypti after dengue virus chall\u2026 [+58452 chars]",
-      "retrievedAt": "2023-10-18 19:05:41.081375",
-      "internal_id": "5102372de724e22d3a2b391d3db69d9f96735ecc7d36967b57d5811efa244d60",
-      "publishedAtLabel": "Oct 17"
-    },
-    {
-      "id": 2590,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "El repunte de dengue este a\u00f1o responde a los ciclos de la enfermedad, precisa la Ssa",
-      "description": "La Secretar\u00eda de Salud (Ssa) prev\u00e9 que la cifra de enfermos de dengue supere a los registrados en 2019, cuando se confirmaron m\u00e1s de 41 mil casos; hasta el pasado 7 de octubre iban 30 mil 320. El subsecretario de Prevenci\u00f3n y Promoci\u00f3n de la Salud, Ruy L\u00f3pez \u2026",
-      "url": "https://www.jornada.com.mx/2023/10/17/politica/022n2pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-10-17 08:50:36",
-      "content": "Peri\u00f3dico La JornadaMartes 17 de octubre de 2023, p. 22 La Secretar\u00eda de Salud (Ssa) prev\u00e9 que la cifra de enfermos de dengue supere a los registrados en 2019, cuando se confirmaron m\u00e1s de 41 mil ca\u2026 [+1632 chars]",
-      "retrievedAt": "2023-10-18 19:05:41.074143",
-      "internal_id": "2931310cf8fe8c82b81dc06c2b7ca949c38f937324b712b87e9b8d908e8660c3",
       "publishedAtLabel": "Oct 17"
     }
   ]
