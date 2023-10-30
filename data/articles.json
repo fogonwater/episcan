@@ -1,8 +1,26 @@
 {
-  "last_updated": "2023-10-29 19:05",
+  "last_updated": "2023-10-30 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 1,
   "articles": [
+    {
+      "id": 2788,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "Nagaland records over 2,900 dengue cases since June",
+      "description": "HT Bureau GUWAHATI, Oct 28: Nagaland has reported a significant spike in dengue cases, with 2,909 confirmed infections recorded since June this year, marking the highest tally in nearly two decades, according to a senior official from the health department. E\u2026",
+      "url": "https://thehillstimes.in/northeast/nagaland-records-over-2900-dengue-cases-since-june",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/Nagaland-records-over-2900-dengue-cases-since-June.jpg",
+      "publishedAt": "2023-10-29 01:15:32",
+      "content": "HT BureauGUWAHATI, Oct 28: Nagaland has reported a significant spike in dengue cases, with 2,909 confirmedinfections recorded since June this year, marking the highest tally in nearly two decades, ac\u2026 [+1124 chars]",
+      "retrievedAt": "2023-10-30 07:05:55.708462",
+      "internal_id": "fb120387e50b2d2010bb24f6a07189e801dc09e098613612970078e8fdd85d27",
+      "publishedAtLabel": "Oct 29"
+    },
     {
       "id": 2786,
       "query": [
@@ -3602,24 +3620,6 @@
       "content": "Peri\u00f3dico La JornadaMartes 17 de octubre de 2023, p. 22 La Secretar\u00eda de Salud (Ssa) prev\u00e9 que la cifra de enfermos de dengue supere a los registrados en 2019, cuando se confirmaron m\u00e1s de 41 mil ca\u2026 [+1632 chars]",
       "retrievedAt": "2023-10-18 19:05:41.074143",
       "internal_id": "2931310cf8fe8c82b81dc06c2b7ca949c38f937324b712b87e9b8d908e8660c3",
-      "publishedAtLabel": "Oct 17"
-    },
-    {
-      "id": 2594,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Andi Firdaus, Resinta Sulistiyandari",
-      "title": "Monkeypox case in Jakarta comes from local transmission: Ministry",
-      "description": "The Indonesian Health Ministry reported that one case of monkeypox, or Mpox, found in Jakarta was the result of local transmission, as the sufferer had no history of overseas travel. \"The patient has no history of foreign ...",
-      "url": "https://en.antaranews.com/news/296403/monkeypox-case-in-jakarta-comes-from-local-transmission-ministry",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/17/Screenshot_20231017_125939_Gallery.jpg",
-      "publishedAt": "2023-10-17 08:32:18",
-      "content": "Jakarta (ANTARA) - The Indonesian Health Ministry reported that one case of monkeypox, or Mpox, found in Jakarta was the result of local transmission, as the sufferer had no history of overseas trave\u2026 [+1849 chars]",
-      "retrievedAt": "2023-10-18 19:05:42.916655",
-      "internal_id": "7dbef76686da5b9160fde4777dcbab77e197100b52ee92ad3c16c7338aa32e94",
       "publishedAtLabel": "Oct 17"
     }
   ]
