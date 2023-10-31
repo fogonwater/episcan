@@ -1,8 +1,278 @@
 {
-  "last_updated": "2023-10-31 07:05",
+  "last_updated": "2023-10-31 19:06",
   "count_articles_total": 300,
-  "count_articles_new": 3,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 2808,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Greta Friar",
+      "title": "CLAMP complex helps parasites enter human cells",
+      "description": "Apicomplexan parasites are a group of single-celled organisms responsible for several serious and prevalent diseases, from malaria, to a severe childhood diarrhea (cryptosporidiosis), to toxoplasmosis\u2014a disease that endangers pregnant women and fetuses, and i\u2026",
+      "url": "https://phys.org/news/2023-10-clamp-complex-parasites-human-cells.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/clamp-complex-helps-pa.jpg",
+      "publishedAt": "2023-10-30 19:03:04",
+      "content": "Apicomplexan parasites are a group of single-celled organisms responsible for several serious and prevalent diseases, from malaria, to a severe childhood diarrhea (cryptosporidiosis), to toxoplasmosi\u2026 [+7057 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.712229",
+      "internal_id": "1c577e57865aeff242f4c48acae6b0ca610f8eba5885538222422ee5aaee6485",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2803,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Amazonas instala armadilhas contra dengue para deter surto",
+      "description": "As armadilhas usam um recipiente de pl\u00e1stico, um peda\u00e7o de pano, \u00e1gua e 5g do pesticida Pyriproxyfen e facilitam a dissemina\u00e7\u00e3o pelos pr\u00f3prios mosquitos",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2023-10-30/amazonas-instala-armadilhas-contra-dengue-para-deter-surto.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/77/uq/z0/77uqz0vdz1vedze678u9cgcgf.jpg",
+      "publishedAt": "2023-10-30 18:40:14",
+      "content": "A partir desta segunda-feira (30), a prefeitura de Manaus, no Amazonas, vai passar a instalar 1,2 mil armadilhas contra o mosquito Aedes aegypti, o mosquito da dengue. A ideia \u00e9 ajudar a deter o surt\u2026 [+3819 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.030621",
+      "internal_id": "ccabe2ca477d085795f8c2250d80fe7ed15a3b2e0a000114c6763e7de02f003a",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2811,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Specific gut bacteria increase risk of severe malaria",
+      "description": "Researchers have identified multiple species of bacteria that, when present in the gut, are linked to an increased risk of developing severe malaria in humans and mice.",
+      "url": "https://www.sciencedaily.com/releases/2023/10/231030141339.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-10-30 18:13:39",
+      "content": "Indiana University School of Medicine researchers have identified multiple species of bacteria that, when present in the gut, are linked to an increased risk of developing severe malaria in humans an\u2026 [+4256 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.727916",
+      "internal_id": "ecf4c9ba0b46a0309298bb62bfc4211760fb7b42a1cc1b629f22736f1a3230c4",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2800,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Dengue dispara no Sudeste e deixa autoridades em alerta",
+      "description": "Os estados do Rio de Janeiro, Minas Gerais e Esp\u00edrito Santo registraram aumento significativo no casos de dengue nos \u00faltimos meses O post Dengue dispara no Sudeste e deixa autoridades em alerta apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/10/30/medicina-e-saude/dengue-dispara-no-sudeste-e-deixa-autoridades-em-alerta/",
+      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/06/aedes_aegypti_dengue_zika_chikungunya.jpg",
+      "publishedAt": "2023-10-30 16:40:00",
+      "content": "As autoridades sanit\u00c3\u00a1rias brasileiras est\u00c3\u00a3o em alerta para uma nova onda de casos de dengue no pa\u00c3\u00ads. A chegada do ver\u00c3\u00a3o, quando as chuvas aumentam em boa parte do pa\u00c3\u00ads, acelera a prolifera\u00c3\u00a7\u00c3\u00a3o \u2026 [+2236 chars]",
+      "retrievedAt": "2023-10-31 19:06:15.994108",
+      "internal_id": "2214fdbdcb3ae80696ab155f91c3d01c3a07840b6a56fed45645897585051c01",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2804,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Sudeste registra alta nos casos de dengue: MG e ES somam 500 mil",
+      "description": "No Esp\u00edrito Santo, casos saltaram de 70 para 120 mil na compara\u00e7\u00e3o com 2022",
+      "url": "https://saude.ig.com.br/2023-10-30/casos-dengue-disparam-brasil-sudeste.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2023-10-30 15:03:40",
+      "content": "Os estados da regi\u00e3o Sudeste do Brasil v\u00eam registrando alta no n\u00famero de casos de dengue, alerta o Minist\u00e9rio da Sa\u00fade. Segundo a pasta, o crescimento se d\u00e1 em todo o pa\u00eds, mas em especial nos estado\u2026 [+1595 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.045899",
+      "internal_id": "2ceec2d439efbcc976966067555e6a984616ac6f2004fd831fd074fcea79d3ee",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2806,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Angka DBD Merangkak Naik, Dinkes Kalbar Dorong Upaya Pencegahan dan Manajemen Vektor Efektif",
+      "description": "KalbarOnline, Pontianak \u2013 Tren kasus Demam Berdarah Dengue (DBD) terpantau masih mengalami The post Angka DBD Merangkak Naik, Dinkes Kalbar Dorong Upaya Pencegahan dan Manajemen Vektor Efektif appeared first on KalbarOnline.Com.",
+      "url": "https://www.kalbaronline.com/2023/10/30/angka-dbd-merangkak-naik-dinkes-kalbar-dorong-upaya-pencegahan-dan-manajemen-vektor-efektif/",
+      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/08/IMG-20230811-WA0036.jpg",
+      "publishedAt": "2023-10-30 14:29:38",
+      "content": "KalbarOnline, Pontianak \u2013 Tren kasus Demam Berdarah Dengue (DBD) terpantau masih mengalami kenaikan hingga akhir Oktober 2023. Tercatat hingga minggu ke-43, angka kesakitan DBD di Kalbar sebanyak 4.3\u2026 [+2526 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.065472",
+      "internal_id": "b21958457a62b15eff33a12832522bcb61e8495e7e2ad143bd2876c86772bb4d",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2810,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Tanzania: Maternal Deaths Drops",
+      "description": "[Daily News] PRESIDENT Dr Samia Suluhu Hassan yesterday launched the new Tanzania Demographic and Health Survey and Malaria Indicator Survey (2022 TDHS-MIS), which shows that the country has cut down maternal mortality rate by 80 per cent.",
+      "url": "https://allafrica.com/stories/202310300564.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-30 14:10:57",
+      "content": "PRESIDENT Dr Samia Suluhu Hassan yesterday launched the new Tanzania Demographic and Health Survey and Malaria Indicator Survey (2022 TDHS-MIS), which shows that the country has cut down maternal mor\u2026 [+4985 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.724370",
+      "internal_id": "79c597065042e986b478377f6c606084c204f4d35c92de9d75595e7115531b56",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2809,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Catherine Kroamah Dwumfour, Victoria Bubunyo Bam, Lydia Boampong Owusu, Collins Atta Poku, Rhoda Dewe Kpabitey, Priscilla Aboagye, Amshariatu Suntaa Ibrahim",
+      "title": "Prevalence and determinants of malaria infection among pregnant women attending antenatal clinic in Ejisu government hospital in Ghana: A cross-sectional study",
+      "description": "Introduction Malaria in pregnancy is a global public health problem with the majority of its impact seen in sub-Saharan Africa. Pregnant women with malaria infection are at risk of adverse maternal outcomes. In Ghana, malaria in pregnancy accounts for about 1\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293420",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0293420.t005&size=inline",
+      "publishedAt": "2023-10-30 14:00:00",
+      "content": "Abstract Introduction Malaria in pregnancy is a global public health problem with the majority of its impact seen in sub-Saharan Africa. Pregnant women with malaria infection are at risk of adverse\u2026 [+46383 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.717551",
+      "internal_id": "e038512f19f128a4c4e744ea6511b4119aa87c92d8fed300791ba9fee412f180",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2812,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Anastasia Accoti, Laura C. Multini, Babakar Diouf, Margaret Becker, Julia Vulcan, Massamba Sylla, Dianne Y. Yap, Kamil Khanipov, Mawlouth Diallo, Alioune Gaye, Laura B. Dickson",
+      "title": "The influence of the larval microbiome on susceptibility to Zika virus is mosquito genotype-dependent",
+      "description": "Author summary Adult mosquitoes transmit many viruses, including Zika virus, during the process of taking a bloodmeal from human hosts. An important parameter of how well a mosquito is at transmitting viruses is whether the mosquito can become infected and re\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011727",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011727.g004&size=inline",
+      "publishedAt": "2023-10-30 14:00:00",
+      "content": "Citation: Accoti A, Multini LC, Diouf B, Becker M, Vulcan J, Sylla M, et al. (2023) The influence of the larval microbiome on susceptibility to Zika virus is mosquito genotype-dependent. PLoS Pathog \u2026 [+45702 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.993503",
+      "internal_id": "24785ae7370bb853fd3b3057da71a79147a0e70d8ba7e3d5999c9a0cd1285215",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2802,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "By JERUSALEM POST STAFF",
+      "title": "Dengue fever found in patient who returned to Israel from Thailand",
+      "description": "A person who recently returned to Israel from Thailand was found to be infected with Dengue fever, KAN news re",
+      "url": "https://www.jpost.com/breaking-news/article-770825",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2023-10-30 12:09:48",
+      "content": "A person who recently returned to Israel from Thailand was found to be infected with Dengue fever, KAN news reported on Monday. The patient is hospitalized in serious condition and sedated and on a \u2026 [+35 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.017783",
+      "internal_id": "b0c05fe31cf4d8f3384a074af770ceccc64388bc2586551f6b1c2fe35e54a657",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2801,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Number of dengue cases in Johor more than tripled in ME42",
+      "description": "JOHOR BARU: The number of dengue cases in Johor for epidemiology week 42 (ME42) went up to 8,422 compared to 2,755 cases recorded in the same period in 2022. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/30/number-of-dengue-cases-in-johor-more-than-tripled-in-me42",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/30/2363422.jpg",
+      "publishedAt": "2023-10-30 11:49:00",
+      "content": "JOHOR BARU: The number of dengue cases in Johor for epidemiology week 42 (ME42) went up to 8,422 compared to 2,755 cases recorded in the same period in 2022. Johor Health and Unity committee chairma\u2026 [+1983 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.011696",
+      "internal_id": "d2bb0f7e68d4acb6feb9b31062afb9dad206add4e4913432408e2802b540d5ea",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2814,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "Health Ministry: Two new monkeypox cases detected in Malaysia",
+      "description": "PUTRAJAYA, Oct 30 \u2014 Two new cases of monkeypox (mpox) involving two local men have been detected in Malaysia, bringing the cumulative number of cases to four this year. Health...",
+      "url": "https://www.malaymail.com/news/malaysia/2023/10/30/health-ministry-two-new-monkeypox-cases-detected-in-malaysia/99251",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2023/10/30/thumbs/400x400/159238.jpg",
+      "publishedAt": "2023-10-30 09:51:43",
+      "content": "PUTRAJAYA, Oct 30 Two new cases of monkeypox (mpox) involving two local men have been detected in Malaysia, bringing the cumulative number of cases to four this year. Health director-general Datuk D\u2026 [+2030 chars]",
+      "retrievedAt": "2023-10-31 19:06:17.581142",
+      "internal_id": "1247aee3631890c5c769034ed83b0ee23923e368e2316a00248f81813180f414",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2807,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Handryastuti, S., Latifah, D., Bermanshah, E. K., Gunardi, H., Kadim, M., Iskandar, R. A. T. P.",
+      "title": "Development of clinical-based scoring system to diagnose tuberculous meningitis in children",
+      "description": "Objective Diagnosing tuberculous meningitis (TBM) in children is challenging due to the low sensitivity with time delay of bacterial culture techniques and the lack of brain imaging facilities in many low- and middle-income settings. This study aims to establ\u2026",
+      "url": "https://adc.bmj.com/content/108/11/884?rss=1",
+      "urlToImage": "https://adc.bmj.com/sites/default/files/highwire/archdischild/108/11.cover-source.jpg",
+      "publishedAt": "2023-10-30 08:59:15",
+      "content": "Introduction Globally, children with tuberculous meningitis (TBM) are estimated to account for 12% of all active tuberculosis (TB) cases. This severe form of TB causes high morbidity and mortality i\u2026 [+16727 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.358345",
+      "internal_id": "22c9102a29e3215d02686652ad491996304b5c696bbc0b97aa504e68f6fc783f",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2813,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "R. SEKARAN",
+      "title": "Two recent mpox cases not linked to earlier ones, says Health DG",
+      "description": "PETALING JAYA: There have been four cases of mpox infection reported to date with two new ones that are not linked to the first two cases, says the Health Ministry. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/10/30/two-recent-mpox-cases-not-linked-to-earlier-ones-says-health-dg",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/30/2362937.jpg",
+      "publishedAt": "2023-10-30 07:47:00",
+      "content": "PETALING JAYA: There have been four cases of mpox infection reported to date with two new ones that are not linked to the first two cases, says the Health Ministry. It said the third case was confir\u2026 [+1113 chars]",
+      "retrievedAt": "2023-10-31 19:06:17.574011",
+      "internal_id": "2a5bb359c13f57e3c7be2ff030f74be5cc4971c887ae694184407640b846834e",
+      "publishedAtLabel": "Oct 30"
+    },
+    {
+      "id": 2805,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "radiodabanga@gmail.com (Dabanga)",
+      "title": "Cholera and Dengue Fever Continue to Spread Rapidly in Sudan",
+      "description": "[Dabanga] Sharg El Nil / Wad Madani / El Gedaref / En Nehoud -- Sudan is grappling with a growing health crisis as dengue fever and cholera continue to spread across the country. The rapid expansion of these diseases has raised serious concerns, posing signif\u2026",
+      "url": "https://allafrica.com/stories/202310300081.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-10-30 07:14:36",
+      "content": "Sharg El Nil / Wad Madani / El Gedaref / En Nehoud \u2014 Sudan is grappling with a growing health crisis as dengue fever and cholera continue to spread across the country. The rapid expansion of these di\u2026 [+3184 chars]",
+      "retrievedAt": "2023-10-31 19:06:16.049683",
+      "internal_id": "4776669c77b5fa887f308d8cec36b733f1a3a429f57640843aadaec1315143c0",
+      "publishedAtLabel": "Oct 30"
+    },
     {
       "id": 2797,
       "query": [
@@ -3349,278 +3619,6 @@
       "retrievedAt": "2023-10-20 07:05:42.115352",
       "internal_id": "e5cb6177a9b13550e18fc1df3ebddbb0e707b5ed11cb6e16557bbbed72905bf9",
       "publishedAtLabel": "Oct 19"
-    },
-    {
-      "id": 2615,
-      "query": [
-        "dengue",
-        "malaria",
-        "chikungunya"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Sumitra Debroy",
-      "title": "Juhu, Andheri emerge hotspots of dengue, malaria cases in city",
-      "description": "The K West ward in Mumbai, which covers areas like Andheri, Vile Parle, and Juhu, has been identified as a hotspot for dengue, malaria, and chikungunya cases. The state government has called for a thorough investigation into the reasons behind this concentrat\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/juhu-andheri-emerge-hotspots-of-dengue-malaria-cases-in-city/articleshow/104538814.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104538822,width-1070,height-580,imgsize-985377,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-18 23:12:38",
-      "content": "Offbeat Himachal getaways for Dussehra long weekend",
-      "retrievedAt": "2023-10-20 07:05:40.711778",
-      "internal_id": "0b1da2571a794dbcd926e3257b3d335a4ed5f3e64cdfec732fc4e634a7c7241c",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2601,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "https://www.forbes.com/",
-      "title": "Kitten With \u2018New\u2019 Rabies Strain Triggers Health Push In Nebraska To Stop Deadly Virus Gaining A Foothold",
-      "description": "Health and wildlife officials in Nebraska are scrambling to stave off an outbreak of rabies after a kitten was found to be infected with an unexpected strain of the killer virus.",
-      "url": "https://www.forbes.com/video/6339404603112/kitten-with-new-rabies-strain-triggers-health-push-in-nebraska-to-stop-deadly-virus-gaining-a-foothold/",
-      "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2023/10/18/6339404603112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
-      "publishedAt": "2023-10-18 18:36:44",
-      "content": "Health and wildlife officials in Nebraska are scrambling to stave off an outbreak of rabies after a kitten was found to be infected with an unexpected strain of the killer virus.",
-      "retrievedAt": "2023-10-19 19:05:23.654446",
-      "internal_id": "a2d6d2ed43cf836947ac4413a934901ae1cdb341b0555367dff9cff3143123c0",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2611,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "Dengue death toll crosses 1200-mark in Bangladesh",
-      "description": "Bangladesh exceeded 1,200 dengue deaths as 16 new deaths were reported in the past 24 hours till 8am Wednesday, while 2,495 were admitted to different hospitals during the same period. On September 20, Bangladesh witnessed 21 dengue deaths, the highest in a s\u2026",
-      "url": "https://sylhetmirror.com/2023/10/18/dengue-death-toll-crosses-1200-mark-in-bangladesh/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/10/rtrt.jpg",
-      "publishedAt": "2023-10-18 17:10:23",
-      "content": "Bangladesh exceeded 1,200 dengue deaths as 16 new deaths were reported in the past 24 hours till 8am Wednesday, while 2,495 were admitted to different hospitals during the same period. On September \u2026 [+3581 chars]",
-      "retrievedAt": "2023-10-19 19:05:24.494665",
-      "internal_id": "672e7cb0e2390a76b197e811fdb8bed9aa897718d926122040e12abf9594d183",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2607,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Lavenir.net",
-      "author": "Charlotte Van Breusegem",
-      "title": "Moustique tigre : un cas de dengue autochtone d\u00e9tect\u00e9 en r\u00e9gion parisienne pour la premi\u00e8re fois",
-      "description": "Un tout premier cas de dengue autochtone a \u00e9t\u00e9 recens\u00e9 \u00e0 une quinzaine de kilom\u00e8tres au sud-est de Paris. Dans un communiqu\u00e9, l\u2019agence r\u00e9gionale de sant\u00e9 a confirm\u00e9 mardi qu\u2019il s\u2019agissait du premier cas francilien.",
-      "url": "https://www.lavenir.net/actu/2023/10/18/moustique-tigre-un-cas-de-dengue-autochtone-detecte-en-region-parisienne-pour-la-premiere-fois-KLX32ZGMYJHGTC7RSD4W7TJUXI/",
-      "urlToImage": "https://www.lavenir.net/resizer/3Mqwjeeytw13s5zRfNvJ87xHoJA=/1200x630/filters:format(jpeg):focal(1511x1009:1521x999):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/UFVD77VYQZHRHBUO5OR7E7I6TY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/T3NT2CDWCNH4TIXW7NYVESPAAE.jpg",
-      "publishedAt": "2023-10-18 16:52:07",
-      "content": "Le moustique tigre sinstalle en Europe: faut-il avoir peur de la dengue?Les Antilles sont en phase \u00e9pid\u00e9mique depuis la mi-ao\u00fbt. Entre le 28 ao\u00fbt et le 3 septembre, l'agence Sant\u00e9 publique France a e\u2026 [+1280 chars]",
-      "retrievedAt": "2023-10-19 19:05:24.470284",
-      "internal_id": "03860bc4ef797d959757d38b552ae859fcfd61d3a9770880153021f9095159bf",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2616,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "AI identifies antimalarial drug as possible osteoporosis treatment",
-      "description": "Artificial intelligence has exploded in popularity and is being harnessed by some scientists to predict which molecules could treat illnesses, or to quickly screen existing medicines for new applications. Researchers have used one such deep learning algorithm\u2026",
-      "url": "https://www.sciencedaily.com/releases/2023/10/231018115637.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-10-18 15:56:37",
-      "content": "Artificial intelligence has exploded in popularity and is being harnessed by some scientists to predict which molecules could treat illnesses, or to quickly screen existing medicines for new applicat\u2026 [+2916 chars]",
-      "retrievedAt": "2023-10-20 07:05:41.367023",
-      "internal_id": "423420bb96e8afde4b1bf7b1cb80921969b9b79a21769108718bf5a905cf3680",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2604,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Omprokash Dutta, Ajay Prasanth, Ashu Kumari, Kumari Akanksha, Farah Deeba, Nasir Salam",
-      "title": "Burden of dengue, leishmaniasis and lymphatic filariasis in India and its states from 1990\u20132019: Analysis from the Global Burden of Disease study (GBD 2019)",
-      "description": "Vector-borne diseases such as dengue, leishmaniasis, and lymphatic filariasis, constitute significant sources of illness, disability, and mortality among the poor and vulnerable in many countries around the world, including India. Based on the global burden o\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292723",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0292723.g006&size=inline",
-      "publishedAt": "2023-10-18 14:00:00",
-      "content": "Abstract Vector-borne diseases such as dengue, leishmaniasis, and lymphatic filariasis, constitute significant sources of illness, disability, and mortality among the poor and vulnerable in many cou\u2026 [+24970 chars]",
-      "retrievedAt": "2023-10-19 19:05:24.456067",
-      "internal_id": "62ec15bc928d93e82e6c3025ba05770bc92d41de98dae5705d0b8c165fc0be07",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2608,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Andrew Teo, Hao Dong Tan, Thomas Loy, Po Ying Chia, Caroline Lin Lin Chua",
-      "title": "Correction: Understanding antibody-dependent enhancement in dengue: Are afucosylated IgG1s a concern?",
-      "description": "",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011736",
-      "urlToImage": null,
-      "publishedAt": "2023-10-18 14:00:00",
-      "content": "In the Funding statement, one of the funders is listed incorrectly as Ministry of Education (MOE). The correct statement is: CLLC receives support from Ministry of Higher Education (MOHE) Malaysia, u\u2026 [+1071 chars]",
-      "retrievedAt": "2023-10-19 19:05:24.476554",
-      "internal_id": "84366a68b96ad09944bc819b5456c320533b3995ee27eb03001e11b0a7d5c06c",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2612,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Christopher LeBoa, Sneha Shrestha, Jivan Shakya, Shiva Ram Naga, Sony Shrestha, Mudita Shakya, Alexander T. Yu, Rajeev Shrestha, Krista Vaidya, Nishan Katuwal, Kristen Aiemjoy, Isaac I. Bogoch, Christopher B. Uzzell, Denise O. Garrett, Stephen P. Luby, Jason R. Andrews, Dipesh Tamrakar",
-      "title": "Environmental sampling for typhoidal Salmonellas in household and surface waters in Nepal identifies potential transmission pathways",
-      "description": "Author summary Understanding the dominant route of transmission of a pathogen is important for designing and implementing effective control strategies. Salmonella Typhi and Paratyphi A, which cause enteric fever, infect approximately 10 million people and cau\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011341",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011341.g004&size=inline",
-      "publishedAt": "2023-10-18 14:00:00",
-      "content": "Abstract Introduction Salmonella Typhi and Salmonella Paratyphi, fecal-oral transmitted bacterium, have temporally and geographically heterogeneous pathways of transmission. Previous work in Kathma\u2026 [+55160 chars]",
-      "retrievedAt": "2023-10-19 19:05:25.921281",
-      "internal_id": "22fddba1396592b8e51431bcb92cac4a309c156dbf3a67d50e4353f00a5ccf9d",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2605,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "POLITICO.eu",
-      "author": "Ashleigh Furlong",
-      "title": "France faces massive increase in dengue cases by 2030",
-      "description": "Rising temperatures could spur 50-fold increase, new modeling projects.",
-      "url": "https://www.politico.eu/article/rising-temperatures-could-spur-50-fold-increase-in-dengue-cases-in-france-by-2030/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/10/18/GettyImages-594749620-scaled.jpg",
-      "publishedAt": "2023-10-18 13:57:21",
-      "content": "If temperatures continue to increase at the current rate, France could see local cases of dengue grow to more than 3,000 a year by the end of the decade, up from the 65 cases seen in 2022, according \u2026 [+1216 chars]",
-      "retrievedAt": "2023-10-19 19:05:24.460530",
-      "internal_id": "94b11dde536b71ec4b5e22adefe57405b388d9c97b66f25a5e844285ea34d694",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2600,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
-      "title": "Kitten With \u2018New\u2019 Rabies Strain Triggers Health Push In Nebraska To Stop Deadly Virus Gaining A Foothold",
-      "description": "Officials said the variant, normally found in raccoons, is \u201csomething that can snowball very quickly\u201d and could \u201cput many people in danger.\u201d",
-      "url": "https://www.forbes.com/sites/roberthart/2023/10/18/kitten-with-new-rabies-strain-triggers-health-push-in-nebraska-to-stop-deadly-virus-gaining-a-foothold/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/652fd1cae3b4e7e510659ae8/0x0.jpg?format=jpg&crop=1860,1047,x309,y201,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-10-18 12:41:55",
-      "content": "Health and wildlife officials in Nebraska are scrambling to stave off an outbreak of rabies after a kitten was found to be infected with an unexpected strain of the killer virus, warning that humans \u2026 [+5523 chars]",
-      "retrievedAt": "2023-10-19 19:05:23.644142",
-      "internal_id": "19c4e8fafe8450bf884ef1ba997ed554659bc617b024bb467257185f61ec0208",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2603,
-      "query": [
-        "measles"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "Nicole McCain",
-      "title": "News24 | Cape Town healthcare workers on alert amid German measles outbreak",
-      "description": "Western Cape healthcare workers have been placed on alert following an outbreak of German measles, also known as rubella, in Cape Town.",
-      "url": "https://www.news24.com/news24/southafrica/news/cape-town-healthcare-workers-on-alert-amid-german-measles-outbreak-20231018",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9610/84071c6e8cf44855a1ad8867411f486b.jpg",
-      "publishedAt": "2023-10-18 11:40:46",
-      "content": "Western Cape healthcare workers have been placed on alert following an outbreak of German measles, also known as rubella, in Cape Town. The National Institute for Communicable Diseases (NICD) issued\u2026 [+304 chars]",
-      "retrievedAt": "2023-10-19 19:05:23.919028",
-      "internal_id": "15db5327ed88eca34ff7de6b0a1429dc13a9d6ea07c3e19ff1695f26b60df998",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2602,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "Anders Anglesey",
-      "title": "Ten People In Treatment As Kitten Tests Positive For 'New' Rabies Strain",
-      "description": "Dr. Lindsay Huse said it was vital the disease does not spread as it could result in \"a significant increase in the number of rabies cases and human exposures.\"",
-      "url": "https://www.newsweek.com/people-treatment-new-rabies-strain-kitten-omaha-nebraska-1835689",
-      "urlToImage": "https://d.newsweek.com/en/full/2296074/rabies-kitten-carrier.jpg",
-      "publishedAt": "2023-10-18 11:18:06",
-      "content": "Ten people have been treated in Nebraska after a dead feral kitten was found to have tested positive for a raccoon rabies strain that was previously undetected in the state. The strain of rabies det\u2026 [+4110 chars]",
-      "retrievedAt": "2023-10-19 19:05:23.657706",
-      "internal_id": "99326a2201df8ce10e5792578e319976cdc54440849d7b2cb8502326ca12c5b3",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2606,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ouest-France",
-      "author": "Ouest-France avec NG",
-      "title": "Moustique tigre. Un cas autochtone de dengue d\u00e9tect\u00e9 en Ile-de-France, une premi\u00e8re dans la r\u00e9gion",
-      "description": "Un cas autochtone de dengue a \u00e9t\u00e9 d\u00e9tect\u00e9 \u00e0 Limeil-Br\u00e9vannes (Val-de-Marne), ont annonc\u00e9 ce mardi 17 octobre 2023 les autorit\u00e9s sanitaires. Il s\u2019agit du premier patient infect\u00e9 en Ile-de-France par ce virus transmis par les moustiques tigres.",
-      "url": "https://www.ouest-france.fr/ile-de-france/limeil-brevannes-94450/moustique-tigre-un-cas-autochtone-de-dengue-detecte-en-ile-de-france-une-premiere-dans-la-region-7609c940-6d96-11ee-98fd-eadf136a8465",
-      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMzEwNDQ0ZWFhYjgyYTY5NjRlNTMzNGEzYTZhYWE2MDMyMWI?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=7b4a0fd0f0d0bba7ccc816aa68426f80e240b704cae38e56fc4f8c8ede31f242",
-      "publishedAt": "2023-10-18 09:27:42",
-      "content": "Le moustique tigre est encore bien pr\u00e9sent en France. Un cas autochtone de dengue vient ainsi d\u00eatre recens\u00e9 pour la premi\u00e8re fois en \u00cele-de-France. Il a \u00e9t\u00e9 identifi\u00e9 \u00e0 Limeil-Br\u00e9vannes (Val-de-Marn\u2026 [+2016 chars]",
-      "retrievedAt": "2023-10-19 19:05:24.465814",
-      "internal_id": "9519148373b6d7be1892c5f95933e16fb73705dc07df8a23667f716c8635c5cb",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2610,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Caso di dengue a Trieste, prevista oggi disinfestazione",
-      "description": "Il Comune di Trieste ha informato che, per alcune ore dal pomeriggio in poi saranno effettuate misure preventive di disinfestazione radicale dopo che \u00e8 stato accertato dall' Asugi, Dip.Prevenzione, Igiene e Sanit\u00e0, un caso di dengue. (ANSA)",
-      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2023/10/18/caso-di-dengue-a-trieste-prevista-oggi-disinfestazione_00b506ba-04ba-438a-b1c0-2f863c95a28e.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/18/c9c296c27f1d0f2e92c80e2da922eeb7.jpg",
-      "publishedAt": "2023-10-18 08:40:32",
-      "content": "Il Comune di Trieste ha informato che, per alcune ore dal pomeriggio in poi saranno effettuate misure preventive di disinfestazione radicale dopo che \u00e8 stato accertato dall' Asugi, Dip.Prevenzione\u2026 [+845 chars]",
-      "retrievedAt": "2023-10-19 19:05:24.484862",
-      "internal_id": "89548d33b5128fb3d55f7e684ebe163bf50c705627244f1f2b2389dd950c37c7",
-      "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2609,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Caso di dengue a Trieste, prevista oggi disinfestazione",
-      "description": "Il Comune di Trieste ha informato che, per alcune ore dal pomeriggio in poi saranno effettuate misure preventive di disinfestazione radicale dopo che \u00e8 stato accertato dall' Asugi, Dip.Prevenzione, Igiene e Sanit\u00e0, un caso di dengue. (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2023/10/18/caso-di-dengue-a-trieste-prevista-oggi-disinfestazione_1267ffe7-5817-4aab-b97e-1971c3bd95ea.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/18/c9c296c27f1d0f2e92c80e2da922eeb7.jpg",
-      "publishedAt": "2023-10-18 08:31:33",
-      "content": "Il Comune di Trieste ha informato che, per alcune ore dal pomeriggio in poi saranno effettuate misure preventive di disinfestazione radicale dopo che \u00e8 stato accertato dall' Asugi, Dip.Prevenzione\u2026 [+844 chars]",
-      "retrievedAt": "2023-10-19 19:05:24.479478",
-      "internal_id": "0bdd27bcca6a9f30a99395ce702d5753eba097f6a634f98588f154e162f185c5",
-      "publishedAtLabel": "Oct 18"
     }
   ]
 }
