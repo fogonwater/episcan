@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-10-30 19:05",
+  "last_updated": "2023-10-31 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 2797,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Dy CM down with dengue, BMC's October tally hits 737",
+      "description": "Deputy CM Ajit Pawar of Mumbai has been diagnosed with dengue and has been advised rest for the next few days. Last week, Pawar was confronted by Maratha youth demanding his views on reservation for the community. This is not the first time Pawar has been unw\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/dy-cm-down-with-dengue-bmcs-october-tally-hits-737/articleshow/104808811.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104808817,width-1070,height-580,imgsize-1351726,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-29 23:38:52",
+      "content": "Life lessons to learn from Amala Paul",
+      "retrievedAt": "2023-10-31 07:05:33.668544",
+      "internal_id": "c75a80c672c9a62ce9679e6fcf3b48a35b14e208794c034a76408ab6aae47982",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 2798,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Maharashtra deputy CM Ajit Pawar down with dengue, BMC's October tally hits 737",
+      "description": "Deputy CM Ajit Pawar of Mumbai has been diagnosed with dengue and has been advised rest for the next few days. Last week, Pawar was confronted by Maratha youth demanding his views on reservation for the community. This is not the first time Pawar has been unw\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-deputy-cm-ajit-pawar-down-with-dengue-bmcs-october-tally-hits-737/articleshow/104808811.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104808817,width-1070,height-580,imgsize-1351726,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-10-29 23:38:52",
+      "content": "Life lessons to learn from Amala Paul",
+      "retrievedAt": "2023-10-31 07:05:33.675557",
+      "internal_id": "526a80ab9c2e59b87420e75bc8d488144eb821170770fde24c669e769e2725b4",
+      "publishedAtLabel": "Oct 29"
+    },
+    {
+      "id": 2799,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Roanoke Times",
+      "author": "By Jen Christensen, CNN",
+      "title": "A \u2018new turning point\u2019: Patients could soon have a new shot to protect them from deadly meningitis",
+      "description": "Pfizer\u2019s new pentavalent meningococcal vaccine, Penbraya, protects against five kinds of bacteria and could soon be an option that offers people broad protection from meningococcal disease with fewer shots.",
+      "url": "https://roanoke.com/news/nation-world/meningitis-vaccine-new-recommendations-cdc/article_1a589df8-fe7e-5f09-b6c3-1eb30bd290e5.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/a5/1a589df8-fe7e-5f09-b6c3-1eb30bd290e5/653bd09c92908.preview.jpg?crop=1530%2C803%2C30%2C28&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-10-29 19:30:00",
+      "content": "Patti Wukovits still thinks about how she had to bury her daughter in her prom dress. In June 2012, 17-year-old Kimberly Coffey had a fever and body aches. She told her mom it felt like her ankles w\u2026 [+7670 chars]",
+      "retrievedAt": "2023-10-31 07:05:33.917178",
+      "internal_id": "b25327d90cc2801b7e9f047405cbe5c6db1582a87278aea0c8eb2602c05a6898",
+      "publishedAtLabel": "Oct 29"
+    },
     {
       "id": 2795,
       "query": [
@@ -3567,60 +3621,6 @@
       "retrievedAt": "2023-10-19 19:05:24.479478",
       "internal_id": "0bdd27bcca6a9f30a99395ce702d5753eba097f6a634f98588f154e162f185c5",
       "publishedAtLabel": "Oct 18"
-    },
-    {
-      "id": 2599,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "Instituto Nacional de Sa\u00fade defende rede informal de laborat\u00f3rios para doen\u00e7as como tuberculose ou Mpox",
-      "description": "Proposta \"\u00e9 de cria\u00e7\u00e3o de uma rede informal de laborat\u00f3rios do SNS numa primeira fase\", diz presidente do Instituto, que quer um \"refor\u00e7o de reflex\u00e3o conjunta em outras patologias como a Mpox\".",
-      "url": "https://observador.pt/2023/10/17/instituto-nacional-de-saude-defende-rede-informal-de-laboratorios-para-doencas-como-tuberculose-ou-mpox/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F03%2F20050207%2F36396255.jpg",
-      "publishedAt": "2023-10-17 22:20:24",
-      "content": "O presidente do Instituto Nacional de Sa\u00fade Dr. Ricardo Jorge (Insa) defendeu esta ter\u00e7a-feira a cria\u00e7\u00e3o de uma rede informal de laborat\u00f3rios para doen\u00e7as como a tuberculose ou a Mpox. Uma rede semel\u2026 [+1719 chars]",
-      "retrievedAt": "2023-10-19 07:05:57.875656",
-      "internal_id": "f1b13ba7fa9fa598d3e32adb9d39f643bc6229dd55a05c8a14d72d0b6812c918",
-      "publishedAtLabel": "Oct 17"
-    },
-    {
-      "id": 2595,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Kitten with unusual rabies strain sparks unprecedented public health operation in Nebraska to prevent 'snowbal - Daily Mail",
-      "description": "Kitten with unusual rabies strain sparks unprecedented public health operation in Nebraska to prevent 'snowbalDaily Mail Health officials warn against rare rabies case in OmahaWOWT Raccoons to be trapped, vaccinated for rabies in OmahaOmaha World-Herald CDC, \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172036447",
-      "urlToImage": null,
-      "publishedAt": "2023-10-17 22:12:17",
-      "content": "The rule on staying alive as a forecaster is to give 'em a number or give 'em a date, but never give 'em both at once. -- Jane Bryant Quinn",
-      "retrievedAt": "2023-10-19 07:05:56.276602",
-      "internal_id": "ff9fecb21a88187d8460ca20166913cae3a3fbd63717853520a0699d5d1fff90",
-      "publishedAtLabel": "Oct 17"
-    },
-    {
-      "id": 2597,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "\u00d3scar Rodr\u00edguez",
-      "title": "En Oaxaca, detectan migrantes con casos de deshidrataci\u00f3n, gripe y dengue",
-      "description": "En el Centro de Movilidad Migratoria de San Sebasti\u00e1n Tutla, en la zona del Valle Central de Oaxaca, han sido detectados m\u00e1s de 700 migrantes con gripe, deshidrataciones, dengue y padecimientos diarreicos.Tambi\u00e9n, los responsables de las brigadas m\u00e9dicas, de \u2026",
-      "url": "https://www.milenio.com/policia/detectan-migrantes-casos-deshidratacion-gripe-dengue-oaxaca",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/17/secretaria-salud-atiende-casos-mujeres.jfif",
-      "publishedAt": "2023-10-17 21:27:20",
-      "content": "En el Centro de Movilidad Migratoria de San Sebasti\u00e1n Tutla, en la zona del Valle Central de Oaxaca, han sido detectados m\u00e1s de 700 migrantes con gripe, deshidrataciones, dengue y padecimientos diarr\u2026 [+1150 chars]",
-      "retrievedAt": "2023-10-19 07:05:56.691681",
-      "internal_id": "814561230eeaccc6261173c612c8f5420aa12d7bee5192e5ca50a1948841e1e7",
-      "publishedAtLabel": "Oct 17"
     }
   ]
 }
