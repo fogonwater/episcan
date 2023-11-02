@@ -1,8 +1,248 @@
 {
-  "last_updated": "2023-11-02 07:06",
+  "last_updated": "2023-11-02 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 3,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 2850,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ndmais.com.br",
+      "author": "ND Mais",
+      "title": "Sa\u00fade orienta sobre os cuidados com a dengue no feriado de Finados",
+      "description": "Somente neste ano, j\u00e1 foram registrados 60.040 focos do mosquito em 236 munic\u00edpios catarinenses, sendo que 153 s\u00e3o considerados infestados pelo Aedes aegypti.",
+      "url": "https://ndmais.com.br/saude/saude-orienta-sobre-os-cuidados-com-a-dengue-no-feriado-de-finados/",
+      "urlToImage": "https://static.ndmais.com.br/2020/11/Movimento-no-Cemit\u00e9rio-do-Itacorubi-no-dia-de-Finados-em-2020-6-950x475.jpeg",
+      "publishedAt": "2023-11-01 16:57:55",
+      "content": "A Diretoria de Vigil\u00e2ncia Epidemiol\u00f3gica de Santa Catarina (DIVE/SC) alerta a popula\u00e7\u00e3o sobre os vasos e floreiras levados aos cemit\u00e9rios por conta do Dia de Finados (02) que podem servir de criadour\u2026 [+566 chars]",
+      "retrievedAt": "2023-11-02 19:05:25.828764",
+      "internal_id": "9ab16d1c69f9fb2a5f49007e81cb9cd36e16447d665e02a3437ff41ae9fbbddc",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2851,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N SALUD",
+      "title": "Se acercan puentes festivos y vacaciones de fin de a\u00f1o: prot\u00e9gete del dengue",
+      "description": "Teniendo en cuenta que se aproximan los d\u00edas feriados de noviembre y las vacaciones de diciembre, es fundamental tener presente los altos \u00edndices en los casos de dengue reportados en regiones como Meta, Tolima, Cali, Santander, Antioquia y Bol\u00edvar. Lea: D\u00eda I\u2026",
+      "url": "https://www.eluniversal.com.co/salud/se-acercan-puentes-festivos-y-vacaciones-de-fin-de-ano-protegete-del-dengue-MY9364178",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/OHQW/dengue-2-8342152-20230825191223-8622907-20231002105559_8844081_20231101105103.jpg",
+      "publishedAt": "2023-11-01 16:00:19",
+      "content": "Teniendo en cuenta que se aproximan los d\u00edas feriados de noviembre y las vacaciones de diciembre, es fundamental tener presente los altos \u00edndices en los casos de dengue reportados en regiones como Me\u2026 [+2199 chars]",
+      "retrievedAt": "2023-11-02 19:05:25.831379",
+      "internal_id": "ce38d2b3f252b5dbcc37873e0768027b199fddb3f4291f7b40e505cd0039459c",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2848,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Beatriz P\u00e9rez",
+      "title": "Catalunya detecta dos casos de dengue aut\u00f3ctono en Malgrat de Mar: ya son tres este a\u00f1o",
+      "description": "La Ag\u00e8ncia de Salut P\u00fablica de Catalunya (Aspcat) ha detectado, en Malgrat de Mar (Maresme), dos casos de dengue aut\u00f3ctono: es decir, de personas que se contagiaron de esta enfermedad tropical sin haber viajado a pa\u00edses con dengue y que, por tanto, la contraj\u2026",
+      "url": "https://www.elperiodico.com/es/sanidad/20231101/cataluna-dos-casos-dengue-autoctono-malgrat-de-mar-94090059",
+      "urlToImage": "https://estaticos-cdn.elperiodico.com/clip/573587a5-dd1a-4044-9d6f-78e5306aa2ba_16-9-aspect-ratio_default_0.jpg",
+      "publishedAt": "2023-11-01 15:54:07",
+      "content": "La Ag\u00e8ncia de Salut P\u00fablica de Catalunya (Aspcat) ha detectado, en Malgrat de Mar (Maresme), dos casos de dengue aut\u00f3ctono:es decir, de personas que se contagiaron de esta enfermedad tropical sin hab\u2026 [+4266 chars]",
+      "retrievedAt": "2023-11-02 19:05:25.822316",
+      "internal_id": "9eec166b72ed2dcd1d05a6b8e267da50f74550f6796b1b808866d946a2fc1a31",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2849,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Sakuma, C., Maekawa, E., Kanuka, H.",
+      "title": "Automated Long-Term Monitoring of the Heat-Seeking Behavior of Mosquitoes",
+      "description": "Heat is one of the critical cues female mosquitoes use to find vertebrate hosts, particularly in the final step of attraction (touching down on hosts) before the initiation of blood-sucking. To prevent vector-borne diseases such as malaria and dengue fever, w\u2026",
+      "url": "https://cshprotocols.cshlp.org/content/2023/11/pdb.prot108173.full?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2023-11-01 14:03:17",
+      "content": "",
+      "retrievedAt": "2023-11-02 19:05:25.825348",
+      "internal_id": "304460d224651d504d577eff09fd01f58df7bbab707c7ef2642efcd3cbe92d00",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2853,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cshlp.org",
+      "author": "Sakuma, C., Maekawa, E., Kanuka, H.",
+      "title": "Key Features and Considerations for Using Automated Long-Term Monitoring of Heat-Seeking Behavior of Mosquitoes",
+      "description": "Mosquitoes are vectors of various deadly infectious diseases, including malaria and dengue fever. Because these pathogens are transmitted by mosquito blood-feeding behavior, it is important to understand how mosquitoes are attracted to their hosts and how the\u2026",
+      "url": "https://cshprotocols.cshlp.org/content/2023/11/pdb.top107665.full?rss=1",
+      "urlToImage": null,
+      "publishedAt": "2023-11-01 14:03:16",
+      "content": "",
+      "retrievedAt": "2023-11-02 19:05:25.841151",
+      "internal_id": "18830f5703f060dc93df5fea03e0dccddfd29c3356929b6af1e470099cc4a916",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2846,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rebecca M. Johnson, Duncan W. Cozens, Zannatul Ferdous, Philip M. Armstrong, Doug E. Brackney",
+      "title": "Increased blood meal size and feeding frequency compromise Aedes aegypti midgut integrity and enhance dengue virus dissemination",
+      "description": "Author summary Aedes aegypti is an important vector of many arboviruses that profoundly affect human health. Despite its importance as a vector, the impact of field-realistic Ae. aegypti feeding behavior on virus transmission is poorly understood. In this stu\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011703",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011703.g004&size=inline",
+      "publishedAt": "2023-11-01 14:00:00",
+      "content": "Abstract Aedes aegypti is a highly efficient vector for numerous pathogenic arboviruses including dengue virus (DENV), Zika virus, and yellow fever virus. This efficiency can in part be attributed t\u2026 [+53540 chars]",
+      "retrievedAt": "2023-11-02 19:05:25.809923",
+      "internal_id": "00d3b620ab8c550d1017fad7cb7a8c9918af4b7d77de5543fb8ea62fc339da84",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2847,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Juan J. Silva, Cera R. Fisher, Anastacia E. Dressel, Jeffrey G. Scott",
+      "title": "Fitness costs in the presence and absence of insecticide use explains abundance of two common Aedes aegypti kdr resistance alleles found in the Americas",
+      "description": "Author summary Insecticide resistance limits our ability to control vectors of human diseases. Resistance to widely used pyrethroid insecticides can occur by mutations in the voltage gated sodium channel (Vgsc) and alleles with these mutations are collectivel\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011741",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011741.g003&size=inline",
+      "publishedAt": "2023-11-01 14:00:00",
+      "content": "Abstract Aedes aegypti is the vector of viruses such as chikungunya, dengue, yellow fever and Zika that have a critical impact on human health. Control of adult mosquitoes is widely done using pyret\u2026 [+25095 chars]",
+      "retrievedAt": "2023-11-02 19:05:25.817592",
+      "internal_id": "82ef59a1c495c78fe5767932cc9361f44c1b9c847503baa7089971faabcdb9c8",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2855,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Panida Kongjam, Noel Pabalan, Phuntila Tharabenjasin, Hamdi Jarjanazi, Wanna Chaijaroenkul, Kesara Na-Bangchang",
+      "title": "Tumor necrosis factor-\u03b1 (TNF-\u03b1) -308G >a promoter polymorphism (rs1800629) promotes Asians in susceptibility to Plasmodium falciparum severe malaria: A meta-analysis",
+      "description": "Author summary Host genetic factors play important role in the development and progress of severe malaria due to Plasmodium falciparum infection. One of the key factors is the abnormality in the gene that encodes cytokines, particularly tumor necrosis factor-\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011735",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011735.g002&size=inline",
+      "publishedAt": "2023-11-01 14:00:00",
+      "content": "Abstract The multifactorial pathogenesis of severe malaria is partly attributed to host genes, such as those encoding cytokines involved in complex inflammatory reactions, namely tumor necrosis fact\u2026 [+39662 chars]",
+      "retrievedAt": "2023-11-02 19:05:26.620037",
+      "internal_id": "6795b517a6c09189e18cd3caff25d3df25f2077e8da9db4b46a75a1cd33e924b",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2856,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pakorn Ruengket, Sittiruk Roytrakul, Daraka Tongthainan, Kanokwan Taruyanon, Bencharong Sangkharak, Paviga Limudomporn, Mongkol Pongsuchart, Chanya Udom, Wirasak Fungfuang",
+      "title": "Serum proteomic profile of wild stump-tailed macaques (Macaca arctoides) infected with malaria parasites in Thailand",
+      "description": "The number of patients infected with simian malaria is gradually increasing in many countries of Southeast Asia and South America. The most important risk factor for a zoonotic spillover event of malarial infection is mostly influenced by the interaction betw\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293579",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0293579.g007&size=inline",
+      "publishedAt": "2023-11-01 14:00:00",
+      "content": "Abstract The number of patients infected with simian malaria is gradually increasing in many countries of Southeast Asia and South America. The most important risk factor for a zoonotic spillover ev\u2026 [+65042 chars]",
+      "retrievedAt": "2023-11-02 19:05:26.625306",
+      "internal_id": "644bfea1e2465015eb0e2897e4062ccd66b0d15feba92e7791aa525857cf5e34",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2857,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Alphafreepress.gr",
+      "author": "\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u0396\u03b1\u03c7\u03ac\u03c1\u03b7\u03c2",
+      "title": "\u039a\u03b1\u03bc\u03c0\u03b1\u03bd\u03ac\u03ba\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ba\u03bf\u03c5\u03bd\u03bf\u03cd\u03c0\u03b9\u03b1 \u03c3\u03c4\u03b7\u03bd \u0391\u03c4\u03c4\u03b9\u03ba\u03ae",
+      "description": "\u03a4\u03b7\u03bd \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03ba\u03bf\u03c5\u03bd\u03bf\u03c5\u03c0\u03b9\u03ce\u03bd \u03b5\u03be\u03ad\u03c6\u03c1\u03b1\u03c3\u03b5 \u03b7 \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2 \u03bc\u03b1\u03b6\u03af \u03bc\u03b5 \u03c3\u03c5\u03c3\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2.",
+      "url": "https://www.alphafreepress.gr/2023/11/01/ellada/kampanaki-apo-tin-perifereia-gia-ta-kounoupia-stin-attiki/",
+      "urlToImage": "https://www.alphafreepress.gr/wp-content/uploads/2023/11/ImgSrc-18.jpg",
+      "publishedAt": "2023-11-01 13:04:29",
+      "content": ". , . , , , , . , \u00ab \u00bb. , \u00ab , ( , , )\u00bb. \u00ab ( ) , \u00bb. \u00ab , (Chikungunya, Zika ), \u00bb. , 2021-2023 . , , . : : , , : ( ). ( ). , . . , . .\u2026 [+50 chars]",
+      "retrievedAt": "2023-11-02 19:05:26.907071",
+      "internal_id": "802a8d9a5412b3d6d1d4f35c8c03eaadf6603cf730a8f71f39702cffb7793b70",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2845,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "How plane-dropped bait vaccinates raccoons in the eastern U.S. : Short Wave - NPR",
+      "description": "How plane-dropped bait vaccinates raccoons in the eastern U.S. : Short WaveNPR Oral raccoon rabies vaccines to be tossed into Omaha yardsKMTV 3 News Now Omaha Oral rabies packets distributed in east-central OmahaOmaha World-Herald Raccoon-loving Omaha restaur\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172150008",
+      "urlToImage": null,
+      "publishedAt": "2023-11-01 12:35:54",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-11-02 19:05:25.076307",
+      "internal_id": "046431f5a900124c3bd02492300b4a4b1c4d7056396cc0535e805fb3e65d41ea",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2854,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Speranze contro la malaria",
+      "description": "Il primo vaccino approvato contro la malaria ha ridotto le morti tra i bambini del 13 per cento, afferma uno studio presentato dall\u2019Organizzazione mondiale della sanit\u00e0... Leggi",
+      "url": "https://www.internazionale.it/magazine/2023/11/01/speranze-contro-la-malaria",
+      "urlToImage": "https://media.internazionale.it/images/2023/11/01/199333-sd.jpg",
+      "publishedAt": "2023-11-01 11:15:47",
+      "content": "Il primo vaccino approvato contro la malaria ha ridotto le morti tra i bambini del 13 per cento, afferma uno studio presentato dallOrganizzazione mondiale della sanit\u00e0 (Oms) il 20 ottobre. Tra i bamb\u2026 [+1157 chars]",
+      "retrievedAt": "2023-11-02 19:05:26.607108",
+      "internal_id": "c3efddfa469a60279fc96c10ad08accb20eec1cb4d493b96c305d0672319a442",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2852,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "India.com",
+      "author": "Jagrati Singh",
+      "title": "Dengue Fever \u0939\u094b\u0928\u0947 \u092a\u0930 \u0907\u0928 \u0938\u092c\u094d\u091c\u093f\u092f\u094b\u0902 \u0915\u094b \u0916\u093e\u0928\u093e \u0915\u0930 \u0926\u0947\u0902 \u0936\u0941\u0930\u0942, Platelet Count \u0939\u094b\u0917\u0940 \u0924\u0941\u0930\u0902\u0924 \u0938\u0939\u0940",
+      "description": "platelet count : \u0921\u0947\u0902\u0917\u0942 \u0939\u094b\u0928\u0947 \u092a\u0930 \u092e\u0930\u0940\u091c \u0915\u0947 \u0916\u0942\u0928 \u092e\u0947\u0902 \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938 \u0915\u093e\u0909\u0902\u091f \u0915\u092e \u0939\u094b\u0928\u0947 \u0932\u0917\u0924\u093e \u0939\u0948. \u0932\u0947\u0915\u093f\u0928 \u0905\u0917\u0930 \u0906\u092a \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u0906\u092a \u092a\u094d\u0932\u0947\u091f\u0932\u0947\u091f\u094d\u0938 \u0915\u093e\u0909\u0902\u091f \u0915\u092e \u0939\u094b\u0928\u0947 \u0915\u0940 \u0928\u094c\u092c\u0924 \u0928 \u0906\u090f \u0924\u094b \u0906\u092a \u0905\u092a\u0928\u0947 \u0916\u093e\u0928\u092a\u093e\u0928 \u092a\u0930 \u091c\u0930\u0942\u0930 \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0902. \u0907\u0938\u0915\u0947 \u0932\u093f\u090f \u0906\u092a \u0938\u092c\u094d\u091c\u093f\u092f\u093e\u0902 \u0915\u0941\u091b \u0938\u092c\u094d\u091c\u093f\u092f\u094b\u0902 \u0915\u094b \u0916\u093e\u0928\u093e \u0936\u0941\u0930\u0942 \u0915\u0930 \u0926\u0947\u0902.",
+      "url": "https://zeenews.india.com/hindi/health/eating-these-vegetables-will-improve-platelet-count-immediately-in-dengue-fever/1939351",
+      "urlToImage": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2023/11/01/2401306-dengue.jpg",
+      "publishedAt": "2023-11-01 09:53:42",
+      "content": "By clicking Accept All Cookies, you agree to the storing of cookies on your device and the processing of information obtained via those cookies (including about your preferences, device and online ac\u2026 [+357 chars]",
+      "retrievedAt": "2023-11-02 19:05:25.836767",
+      "internal_id": "216c90dedf0a2c050f71d0cc957abe092463208a64cfef79bf3a8478ad64d624",
+      "publishedAtLabel": "Nov 1"
+    },
     {
       "id": 2842,
       "query": [
@@ -3387,240 +3627,6 @@
       "retrievedAt": "2023-10-22 07:05:27.992025",
       "internal_id": "ff7c153b0e39ce03383a3216fcb00f582247328bbdaf3eda5d33b270542643d9",
       "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2652,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infections surpass 40,000 in Nepal",
-      "description": "KATHMANDU: With the end of the monsoon season in the Kathmandu Valley, the incidence of dengue cases is on the rise. In most of the hospitals within the Valley, the number of patients being admitted due to complications arising from dengue continues to escala\u2026",
-      "url": "https://english.khabarhub.com/2023/21/323133/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-10-21 05:45:56",
-      "content": "KATHMANDU: With the end of the monsoon season in the Kathmandu Valley, the incidence of dengue cases is on the rise. In most of the hospitals within the Valley, the number of patients being admitted\u2026 [+1859 chars]",
-      "retrievedAt": "2023-10-22 07:05:27.435896",
-      "internal_id": "3ff9277c191023c03f6690ffa09b93f2784646131daa86e5678f45e0e6ba091f",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2651,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "India.com",
-      "author": "India.com Lifestyle Staff",
-      "title": "Covid-19 and Dengue Connection: Can Coronavirus Antibodies Cause Severe Mosquito-Borne Infection? 5 Things to Know",
-      "description": "According to a recent study, Covid-19 antibodies may trigger a severe dengue infection for people who have been infected with coronavirus once.",
-      "url": "https://www.india.com/health/covid-19-and-dengue-connection-can-coronavirus-antibodies-cause-severe-mosquito-borne-infection-5-things-to-know-6431432/",
-      "urlToImage": "https://static.india.com/wp-content/uploads/2023/10/covid-andd-denue.jpg",
-      "publishedAt": "2023-10-20 22:28:06",
-      "content": "According to a recent study, Covid-19 antibodies may trigger a severe dengue infection for people who have been infected with coronavirus once. Covid-19 and Dengue Connection: Can Coronavirus Antib\u2026 [+2906 chars]",
-      "retrievedAt": "2023-10-22 07:05:27.428170",
-      "internal_id": "a2cffde6b5f9386816cd27db4ddacc3499cd4cdf45ebe21ba884479b5e5a712d",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2650,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reuters",
-      "title": "Primeira p\u00edlula para dengue mostra-se promissora em teste com humanos",
-      "description": "Um comprimido para dengue desenvolvido pela farmac\u00eautica Johnson & Johnson pareceu proteger ...",
-      "url": "https://www.terra.com.br/noticias/mundo/primeira-pilula-para-dengue-mostra-se-promissora-em-teste-com-humanos,d9dc8202800ef226fe02546fad1c853d3oiftlkj.html",
-      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2023-10-20 22:19:51",
-      "content": "Um comprimido para dengue desenvolvido pela farmac\u00eautica Johnson &amp; Johnson pareceu proteger contra uma forma do v\u00edrus em um punhado de pacientes em um pequeno teste de desafio em humanos, conheci\u2026 [+3007 chars]",
-      "retrievedAt": "2023-10-22 07:05:27.412204",
-      "internal_id": "7550671c5eccacb8a664eadacb93213d03e6ed0900724a97e27d4027844555dd",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2682,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Tecnovortex.com",
-      "author": "Cecilia Verino",
-      "title": "Para paliar la malaria: 5 juegos online totalmente gratis en Steam",
-      "description": "Lamentablemente estamos en \u00e9pocas muy complicadas en Argentina. Hace unos d\u00edas habl\u00e1bamos de que est\u00e1bamos en un momento horrible para comprar Hardware y lo mismo est\u00e1 sucediendo con los videojuegos. Y es que es as\u00ed, la devaluaci\u00f3n galopante que nos golpea no\u2026",
-      "url": "https://tecnovortex.com/para-paliar-la-malaria-en-steam-5-juegos-online-free-to-play/",
-      "urlToImage": "https://tecnovortex.com/wp-content/uploads/2023/10/pc-antigua-steam.jpg",
-      "publishedAt": "2023-10-20 21:00:32",
-      "content": "Lamentablemente estamos en \u00e9pocas muy complicadas en Argentina. Hace unos d\u00edas habl\u00e1bamos de que est\u00e1bamos en un momento horrible para comprar Hardware y lo mismo est\u00e1 sucediendo con los videojuegos.\u2026 [+4980 chars]",
-      "retrievedAt": "2023-10-24 07:05:41.146576",
-      "internal_id": "74344854858004bcbd73dd07e7eb8b5d7f6e92198063a31587d1672510e2a376",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2655,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": null,
-      "title": "US FDA approves Pfizer's vaccine for meningococcal diseases",
-      "description": "(marketscreener.com) The U.S. Food and Drug Administration has approved Pfizer's vaccine Penbraya, making it the first shot to protect against five groups of a deadly bacteria that can cause meningitis and blood poisoning, the company said on Friday. http\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/PFIZER-INC-23365019/news/US-FDA-approves-Pfizer-s-vaccine-for-meningococcal-diseases-45116767/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-10-20 19:39:07",
-      "content": "Oct 20 (Reuters) - The U.S. Food and Drug Administration (FDA) has approved Pfizer's vaccine Penbraya, making it the first shot to protect against five groups of a deadly bacteria that can cause m\u2026 [+165 chars]",
-      "retrievedAt": "2023-10-22 07:05:27.988328",
-      "internal_id": "0921e697d819458c5f24223a33b6a5b1377b3df8158bc7a980ecc8388ef6f267",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2653,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.gva.be",
-      "author": "Pieter Van Hecke",
-      "title": "Leerling (17) van Sint-Jorisinstituut sterft aan bacteri\u00eble meningitis",
-      "description": "Een 17-jarige jongen van het Sint-Jorisinstituut in Bazel is overleden aan een bacteri\u00eble hersenvliesontsteking. \u201cDit is onwezenlijk en een onnoemelijk verlies\u201d, zegt burgemeester Antoine Denert. \u201cDe leerlingen van zijn klas kregen vrijdagochtend psychologisc\u2026",
-      "url": "https://www.gva.be/cnt/dmf20231020_97066091",
-      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2023/10/20/745af27f-4d7f-4a0c-8f47-fb37d7907a6e.png?maxheight=460&maxwidth=629",
-      "publishedAt": "2023-10-20 19:37:00",
-      "content": "De jongen werd het ziekenhuis binnengebracht maar stierf amper een dag later aan de gevolgen van bacteri\u00eble meningitis. Een tragedie voor familie en vrienden. Zijn omgeving en Kruibeeks burgemeester \u2026 [+1094 chars]",
-      "retrievedAt": "2023-10-22 07:05:27.977613",
-      "internal_id": "fd4c89d6050cafa1f62cf749efa582fd46909d7c72f74da3800a6840d75cbe14",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2654,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Nieuwsblad.be",
-      "author": "Pieter Van Hecke",
-      "title": "Leerling (17) van Sint-Jorisinstituut sterft aan bacteri\u00eble meningitis",
-      "description": "Een 17-jarige jongen van het Sint-Jorisinstituut in Bazel is overleden aan een bacteri\u00eble hersenvliesontsteking. \u201cDit is onwezenlijk en een onnoemelijk verlies\u201d, zegt burgemeester Antoine Denert. \u201cDe leerlingen van zijn klas kregen vrijdagochtend psychologisc\u2026",
-      "url": "https://www.nieuwsblad.be/cnt/dmf20231020_97066091",
-      "urlToImage": "https://static.nieuwsblad.be/Assets/Images_Upload/2023/10/20/745af27f-4d7f-4a0c-8f47-fb37d7907a6e.png?maxheight=460&maxwidth=638",
-      "publishedAt": "2023-10-20 19:37:00",
-      "content": "De jongen werd het ziekenhuis binnengebracht maar stierf amper een dag later aan de gevolgen van bacteri\u00eble meningitis. Een tragedie voor familie en vrienden. Zijn omgeving en Kruibeeks burgemeester \u2026 [+1094 chars]",
-      "retrievedAt": "2023-10-22 07:05:27.982770",
-      "internal_id": "1d8f53de6d7e411b2deff1ee26f03f07e8361bb6ff70b168f352cf9e96842c99",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2642,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "The Feed",
-      "title": "What is the Dengue Prevention Pill by Johnson & Johnson? Understanding how the drug operates",
-      "description": "Johnson & Johnson's recent announcement heralds a promising breakthrough in combatting dengue fever, often known as \"breakbone fever\" due to the intense pain it causes. These optimistic findings emerge from preliminary results in a clinical trial, highlightin\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/us/what-is-the-dengue-prevention-pill-by-johnson-johnson-understanding-how-the-drug-operates/articleshow/104592598.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104592602,width-1200,height-630,imgsize-2425871,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-20 18:46:57",
-      "content": "Johnson &amp; Johnson, a pharmaceutical giant, has unveiled what could be a significant development in the fight against dengue fevera debilitating viral infection sometimes referred to as \"breakbone\u2026 [+5323 chars]",
-      "retrievedAt": "2023-10-21 19:05:16.223943",
-      "internal_id": "40becd605b41a50922e26ffce29bfcd9aed70e3da7ac2c985a24e27b7bc8a035",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2646,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.hln.be",
-      "author": "Kristof Pieters",
-      "title": "17-jarige leerling Sint-Jorisinstituut overleden aan bacteri\u00eble meningitis, rouwregister in sporthal",
-      "description": "Een 17-jarige leerling van het Sint-Jorisinstituut in Bazel is overleden aan bacteri\u00eble hersenvliesontsteking. Volgens burgemeester Antoine Denert heeft het Vlaams Agentschap Zorg & Gezondheid de nodige maatregelen genomen en is er bijgevolg geen reden tot pa\u2026",
-      "url": "https://www.hln.be/kruibeke/17-jarige-leerling-sint-jorisinstituut-overleden-aan-bacteriele-meningitis-rouwregister-in-sporthal~a6b685a0/",
-      "urlToImage": "https://images0.persgroep.net/rcs/bhguz_dekrodMRH1lUFVwzqbVgs/diocontent/236714816/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
-      "publishedAt": "2023-10-20 18:37:02",
-      "content": "De bacteri\u00eble variant van hersenvliesontsteking is minder besmettelijk dan de virale en wordt vooral overgedragen via de lucht door hoesten en niezen. De bacterie kan nauwelijks buiten het lichaam le\u2026 [+1362 chars]",
-      "retrievedAt": "2023-10-21 19:05:16.530180",
-      "internal_id": "d3801bf4b41958d972d1f9b22d5ec0e932c7c67ffe0a8a77894202aba12032ce",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2647,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "business-insider",
-      "source_name": "Business Insider",
-      "author": "Kevin Reilly,Manuel Silva-Paulus",
-      "title": "One Nigerian entrepreneur's solution for millions of old tires",
-      "description": "Waste tires can act as breeding grounds for malaria and cause fires. One Nigerian aims to recycle every one of her country's discarded tires.",
-      "url": "https://www.businessinsider.com/one-nigerian-aims-to-recycle-millions-of-waste-tires-2023-10",
-      "urlToImage": "https://i.insider.com/651ad5094ff1e3001947691a?width=1200&format=jpeg",
-      "publishedAt": "2023-10-20 18:08:23",
-      "content": "Waste tires can act as breeding grounds for malaria and cause fires. One Nigerian aims to recycle every one of her country's discarded tires.Read the original article on Business Insider",
-      "retrievedAt": "2023-10-21 19:05:16.977070",
-      "internal_id": "f6ff6fa78f37dff47d928de668d266ff1452ce7dc6827b4e883480c222c9bfb6",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2648,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": "\u0422\u0410\u0421\u0421",
-      "title": "\u0412 \u0412\u041e\u0417 \u0437\u0430\u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 91 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u043c\u0438\u0440\u0435 \u0441 \u044f\u043d\u0432\u0430\u0440\u044f 2022 \u0433\u043e\u0434\u0430",
-      "description": "\u041f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u043e\u0431\u0449\u0435\u0435 \u0447\u0438\u0441\u043b\u043e \u0437\u0430\u0440\u0430\u0437\u0438\u0432\u0448\u0438\u0445\u0441\u044f \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 2022 \u0433\u043e\u0434\u0430 \u043f\u0440\u0435\u0432\u044b\u0441\u0438\u043b\u043e 91 \u0442\u044b\u0441.",
-      "url": "https://tass.ru/obschestvo/19077849",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/19077849?u=2023-10-20T16:07:11.775917",
-      "publishedAt": "2023-10-20 16:07:11",
-      "content": ", 20 . //. 860 mpox ( ) 2023 , 2022 91 ., 157 . 115 , (). \" 1 2022 30 2023 115 , 91 123 mpox, 157 \", - , . 1 30 868 , 16% , . - - (45% ) (26,4%). 21 . 30 2022 (30 636). 10- (10 967), (7 611), (4 1\u2026 [+147 chars]",
-      "retrievedAt": "2023-10-21 19:05:17.702441",
-      "internal_id": "b2686c81c82119583f5a65f2781cbf0642c246048a31d13836db347f4392685f",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2649,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "En septiembre se notificaron a la OMS un total de 868 nuevos casos de Mpox, un 16% menos que en agosto",
-      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha alertado de se siguen notificando casos de Mpox en la mayor\u00eda de las regiones, aunque se ha producido un descenso en septiembre, mes en el que se notificaron un total de 868 nuevos casos, lo que suponen un 16% meno\u2026",
-      "url": "https://www.infosalus.com/salud-investigacion/noticia-septiembre-notificaron-oms-total-868-nuevos-casos-mpox-16-menos-agosto-20231020180000.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231020180000_1200.jpg",
-      "publishedAt": "2023-10-20 16:00:00",
-      "content": "MADRID, 20 Oct. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha alertado de se siguen notificando casos de Mpox en la mayor\u00eda de las regiones, aunque se ha producido un descenso en s\u2026 [+1809 chars]",
-      "retrievedAt": "2023-10-21 19:05:17.711570",
-      "internal_id": "80f6737e09764abd4ba900acbbeae1332c20bdf0d0cb1ae3d32f20fcc74a7c0a",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2636,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "WDTN.com",
-      "author": "Channing King",
-      "title": "Whooping cough continues to surge, Montgomery County sounds the alarm",
-      "description": "Whooping cough, one of the most contagious diseases in the U.S., continues to surge, and Montgomery County is again sounding the alarm.",
-      "url": "https://www.wdtn.com/community/health/whooping-cough-continues-to-surge-montgomery-county-sounds-the-alarm/",
-      "urlToImage": "https://www.wdtn.com/wp-content/uploads/sites/45/2023/10/B390F4D6B6BA74B90D363DDE5C06DAB3.jpg?w=1280",
-      "publishedAt": "2023-10-20 15:44:15",
-      "content": "DAYTON, Ohio (WDTN) \u2014 Whooping cough, one of the most contagious diseases in the U.S., continues to surge, and Montgomery County is again sounding the alarm. Pertussis, also known as whooping cough,\u2026 [+1517 chars]",
-      "retrievedAt": "2023-10-21 19:05:14.987009",
-      "internal_id": "ad0ee02d69a26c69d1b0dafd7bd5676a02279a3bf1c5475dc301833f7b70ba42",
-      "publishedAtLabel": "Oct 20"
     }
   ]
 }
