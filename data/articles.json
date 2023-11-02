@@ -1,8 +1,64 @@
 {
-  "last_updated": "2023-11-01 19:05",
+  "last_updated": "2023-11-02 07:06",
   "count_articles_total": 300,
-  "count_articles_new": 17,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 2842,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Cientistas descobrem 3 fungos da Amaz\u00f4nia capazes de derrotar o Aedes",
+      "description": "O mosquito Aedes aegypti \u00e9 o principal transmissor dos v\u00edrus da dengue, chikungunya, zika e febre amarela",
+      "url": "https://www.metropoles.com/saude/3-fungos-amazonia-derrotam-aedes-aegypti",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/22153401/Todos_Contra_a_Dengue.jpg",
+      "publishedAt": "2023-11-01 05:00:48",
+      "content": "Pesquisadores da Universidade Federal do Acre (UFAC) identificaram tr\u00eas esp\u00e9cies de fungos presentes no solo da Amaz\u00f4nia capazes de combater a prolifera\u00e7\u00e3o das larvas do Aedes aegypti. O mosquito \u00e9 o\u2026 [+2422 chars]",
+      "retrievedAt": "2023-11-02 07:06:03.026556",
+      "internal_id": "dac32e9a6066afc294faf870b597c7ceaa96a5bcf7cc1414af1d97401690db68",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2844,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "KOCO Oklahoma City",
+      "author": "Andy Weber",
+      "title": "Oklahoma health officials confirms mpox is present in state",
+      "description": "Oklahoma health officials confirms mpox is present in statekoco.com",
+      "url": "https://www.koco.com/article/oklahoma-mpox-virus/45701713",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/27a3956d-8ab1-4e1e-8dd1-2148ba8986f0/b15126c9-8ffb-461b-b212-51f06c66f7fe.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2023-10-31 22:26:24",
+      "content": "OKLAHOMA CITY \u2014Mpox, formerly known as monkeypox, is still present in Oklahoma. The state's health department confirmed there are currently five active cases across the state. The feds said the stat\u2026 [+1477 chars]",
+      "retrievedAt": "2023-11-02 07:06:04.495864",
+      "internal_id": "1f02a41b609b6a1ae776387b326f0484ab8178fb324fce76d70fc0a64d04653d",
+      "publishedAtLabel": "Oct 31"
+    },
+    {
+      "id": 2843,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "99percentinvisible.org",
+      "author": "99pi",
+      "title": "The Fever Tree Hunt [EPISODE]",
+      "description": "\u201cMost heists target gold, jewels or cash. This one targeted illegal seeds. As the British established their sprawling empire across the subcontinent and beyond, they encountered a formidable adversary \u2014 malaria. There was a cure \u2014 the bark of the Andean cinch\u2026",
+      "url": "https://99percentinvisible.org/episode/the-fever-tree-hunt/",
+      "urlToImage": "https://99percentinvisible.org/app/uploads/2023/10/stuff-the-british-728x410.webp",
+      "publishedAt": "2023-10-31 21:25:01",
+      "content": "\u201cMost heists target gold, jewels or cash. This one targeted illegal seeds. As the British established their sprawling empire across the subcontinent and beyond, they encountered a formidable adversar\u2026 [+458 chars]",
+      "retrievedAt": "2023-11-02 07:06:03.648845",
+      "internal_id": "6a861889906ca1835db2bb6099673d039ed9cfe3cdee32e1b10e501c7a06952f",
+      "publishedAtLabel": "Oct 31"
+    },
     {
       "id": 2837,
       "query": [
@@ -3564,60 +3620,6 @@
       "content": "DAYTON, Ohio (WDTN) \u2014 Whooping cough, one of the most contagious diseases in the U.S., continues to surge, and Montgomery County is again sounding the alarm. Pertussis, also known as whooping cough,\u2026 [+1517 chars]",
       "retrievedAt": "2023-10-21 19:05:14.987009",
       "internal_id": "ad0ee02d69a26c69d1b0dafd7bd5676a02279a3bf1c5475dc301833f7b70ba42",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2635,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "WHIO",
-      "author": "Whio Staff",
-      "title": "Whooping cough cases are on the rise locally, health officials say",
-      "description": "Health officials are issuing a warning about a rise in pertussis cases in Montgomery County.",
-      "url": "https://www.whio.com/news/local/whooping-cough-cases-are-rise-locally-health-officials-say/XBUCDUXITJASVLC2HGZQV6BSAE/",
-      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/KcivSpDHwI6HEN1CKSwMSAsSOBw=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/TVOB5USH2MWPBCK6GIQSLQKRIU.jpg",
-      "publishedAt": "2023-10-20 15:00:43",
-      "content": "MONTGOMERY COUNTY \u2014 Health officials are issuing a warning about a rise in pertussis cases in Montgomery County. There have been 44 cases, including 30 cases occurring in the past three months, acco\u2026 [+1090 chars]",
-      "retrievedAt": "2023-10-21 19:05:14.973830",
-      "internal_id": "b8e5225afa1fdbe007ee344d295053ec05974219e254cc0203fc0edf07252657",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2671,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "Potential for injectable 'chemical vaccine' for malaria using atovaquone",
-      "description": "Researchers looking to develop a long-acting, injectable malaria preventive using atovaquone have shown in a new study that resistance may not be the challenge scientists thought it was, particularly when using atovaquone as a malaria preventive. Malaria para\u2026",
-      "url": "https://www.sciencedaily.com/releases/2023/10/231020105656.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-10-20 14:56:56",
-      "content": "Johns Hopkins researchers looking to develop a long-acting, injectable malaria preventive using atovaquone have shown in a new study that resistance may not be the challenge scientists thought it was\u2026 [+6158 chars]",
-      "retrievedAt": "2023-10-23 07:05:42.392006",
-      "internal_id": "fed1cb9716355587fa1d7d0ffde40c656140b37780964a6e83a7cef84fb6fe9f",
-      "publishedAtLabel": "Oct 20"
-    },
-    {
-      "id": 2640,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Forbes.com.mx",
-      "author": "Forbes Staff",
-      "title": "La primera p\u00edldora contra el dengue obtiene resultados prometedores tras ensayo en humanos",
-      "description": "Forbes M\u00e9xico. La primera p\u00edldora contra el dengue obtiene resultados prometedores tras ensayo en humanos En el ensayo realizado se administr\u00f3 a 10 voluntarios una dosis alta de la p\u00edldora de J&J cinco d\u00edas antes de inyectarles un tipo de dengue. La primer\u2026",
-      "url": "https://www.forbes.com.mx/primera-pildora-contra-dengue-obtiene-resultados-prometedores-tras-ensayo-en-humanos/",
-      "urlToImage": "https://cdn.forbes.com.mx/2021/05/dengue-mosquito-CDC-scaled.jpg",
-      "publishedAt": "2023-10-20 14:27:41",
-      "content": "La empresa Johnson &amp; Johnson (J&amp;J) present\u00f3 los datos sobre una una p\u00edldora contra el dengue que desarrollaron, pues durante un peque\u00f1o ensayo en Estados Unidos protegi\u00f3 a pacientes del virus\u2026 [+3070 chars]",
-      "retrievedAt": "2023-10-21 19:05:16.205689",
-      "internal_id": "06fe9e632e00758e873b34e6cb0abd23760880e63d9126dfb2a33879ec69f34a",
       "publishedAtLabel": "Oct 20"
     }
   ]
