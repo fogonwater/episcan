@@ -1,8 +1,189 @@
 {
-  "last_updated": "2023-11-02 19:05",
+  "last_updated": "2023-11-03 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 13,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 2861,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Estella Abreu",
+      "title": "Estudo identifica mol\u00e9culas para diagn\u00f3stico espec\u00edfico de zika",
+      "description": "A pesquisa do Butant\u00e3 em parceria com universidades de SP identificou fragmentos que podem ser usados para testes no diagn\u00f3stico da zika O post Estudo identifica mol\u00e9culas para diagn\u00f3stico espec\u00edfico de zika apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/11/02/medicina-e-saude/estudo-identifica-moleculas-para-diagnostico-especifico-de-zika/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/11/pexels-pixabay-86722-scaled.jpg",
+      "publishedAt": "2023-11-02 06:20:00",
+      "content": "Diagnosticar o v\u00c3\u00adrus da zika continua sendo um dos maiores desafios para a ci\u00c3\u00aancia, visto que os atuais testes do mercado ainda apresentam risco de rea\u00c3\u00a7\u00c3\u00a3o cruzada com o v\u00c3\u00adrus da dengue, dificult\u2026 [+3779 chars]",
+      "retrievedAt": "2023-11-03 07:05:38.367973",
+      "internal_id": "4d344005805f3a129191662f4758fb0fa4b0d0f3b45cbd7c4c1310eead923cb8",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2867,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Mirror Now",
+      "title": "Zika virus alert in Karnataka: Positive case detected in Chikkaballapur",
+      "description": "Zika virus alert in Karnataka: A positive case has been detected in Chikkaballapur. Authorities have increased surveillance, and officials from the Karnataka Health Department have called an emergency meeting.",
+      "url": "https://economictimes.indiatimes.com/news/et-tv/zika-virus-alert-in-karnataka-positive-case-detected-in-chikkaballapur/videoshow/104906710.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104906710,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-11-02 05:40:09",
+      "content": "Zika virus alert in Karnataka: A positive case has been detected in Chikkaballapur. Authorities have increased surveillance, and officials from the Karnataka Health Department have called an emergenc\u2026 [+9 chars]",
+      "retrievedAt": "2023-11-03 07:05:39.254620",
+      "internal_id": "13166971d38e6bb7f1d104c8cfb8104c1358c5bf94bae7269b67d7c251da8a04",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2859,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Raphael Franks",
+      "title": "Measles case in Taranaki marks 13th infection this year, vaccination urged",
+      "description": "A person who recently returned from abroad is a confirmed case, after recent outbreaks.",
+      "url": "https://www.nzherald.co.nz/nz/measles-case-in-taranaki-marks-13th-infection-this-year-vaccination-urged/QXQJTLU4BVC7NLLSPTQOHTAURQ/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/ec3_rMni9qhRnHvctv3sYyX5LAI=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/QCCIIJ5OQ6CGGHYF2WJP7JGGA4.jpg",
+      "publishedAt": "2023-11-02 04:51:44",
+      "content": "The 13th measles case this year has been confirmed in Taranaki and follows a nationwide health alert after cases spread from a Northlander last month. Photo / DermNetNZ.orgThe 13th measles case this \u2026 [+1733 chars]",
+      "retrievedAt": "2023-11-03 07:05:37.905109",
+      "internal_id": "b1a1ebeb4c964774a93eaa01e62c74832381274e64ffb454ea703749678aacab",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2858,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WFTV Orlando",
+      "author": "Nikki Demarco",
+      "title": "Rabies alert issued for parts of Deltona, Volusia County Department of Health reports",
+      "description": "The Florida Department of Health in Volusia County (DOH-Volusia) has issued a rabies alert for a specific region of Deltona.",
+      "url": "https://www.wftv.com/news/local/rabies-alert-issued-parts-deltona-volusia-county-department-health-reports/SNITBAEEL5BMNDCVK3GKXWFNVA/",
+      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/m0mUrLiXSRPeOrTDHK9v9JIy46g=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/INDQQWYXKBAQVAF7FRDV3B2K2E.png",
+      "publishedAt": "2023-11-02 02:34:55",
+      "content": "DELTONA, Fla. \u2014 The Florida Department of Health in Volusia County (DOH-Volusia) has issued a rabies alert for a specific region of Deltona. The alert is for 60 days and is in response to a kitten t\u2026 [+2896 chars]",
+      "retrievedAt": "2023-11-03 07:05:37.495434",
+      "internal_id": "193015fa731cfea4ee1337ff34fce6bfe95c05cf81c16f4da65eccf6ff456eb1",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2860,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Valeria Ord\u00f3\u00f1ez",
+      "title": "Brote de dengue en Rep\u00fablica Dominicana deja 16 muertos y m\u00e1s de 15.000 contagios",
+      "description": "El brote de dengue en Rep\u00fablica Dominicana ha dejado hasta el momento 16 muertos y 15.606 contagios, seg\u00fan inform\u00f3 el Ministerio de Salud P\u00fablica este mi\u00e9rcoles en una rueda de prensa.",
+      "url": "https://cnnespanol.cnn.com/2023/11/01/brote-dengue-republica-dominicana-16-muertos-orix/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/08/230817165107-aedes-aegypti-mosquito.webp",
+      "publishedAt": "2023-11-02 01:03:12",
+      "content": "(CNN Espa\u00f1ol) -- El brote de dengue en Rep\u00fablica Dominicana ha dejado hasta el momento 16 muertos y 15.606 contagios, seg\u00fan inform\u00f3 el Ministerio de Salud P\u00fablica este mi\u00e9rcoles en una rueda de prens\u2026 [+1140 chars]",
+      "retrievedAt": "2023-11-03 07:05:38.360981",
+      "internal_id": "6b5e3fefd27b20b668847886a533602474746e64a9e266bd49e859dae3b12be7",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2865,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "FOX 11 Los Angeles",
+      "author": "City News Service",
+      "title": "Second case of dengue virus reported in LA County in less than a month",
+      "description": "Long Beach officials have confirmed the city's first locally acquired case of the dengue virus, just weeks after a case was reported in Pasadena.",
+      "url": "https://www.foxla.com/news/second-case-of-dengue-virus-reported-in-la-county-in-less-than-a-month",
+      "urlToImage": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2022/07/1280/720/FOX_mosquito_closeup.jpg?ve=1&tl=1",
+      "publishedAt": "2023-11-02 00:47:04",
+      "content": "LONG BEACH, Calif. - Long Beach health officials Wednesday confirmed the city's first locally acquired case of the mosquito-borne dengue virus, which is normally associated with people who have trave\u2026 [+2621 chars]",
+      "retrievedAt": "2023-11-03 07:05:38.420873",
+      "internal_id": "63aa0ad4abcf2e407662cda0362f613a463b2233cf4ed31a4a6711ceeb329026",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2862,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Projeto Comprova",
+      "title": "Aprovada pela Anvisa, vacina contra a dengue est\u00e1 em an\u00e1lise do SUS",
+      "description": "Ex-ministro da Sa\u00fade afirma que o governo n\u00e3o quer ofertar vacinas contra a dengue ao povo. Imunizante passa por an\u00e1lise de comiss\u00e3o do SUS",
+      "url": "https://www.metropoles.com/projeto-comprova/aprovada-pela-anvisa-vacina-contra-a-dengue-esta-em-analise-do-sus",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/11/01201505/Vacina-dengue-SUS.jpeg",
+      "publishedAt": "2023-11-02 00:41:37",
+      "content": "Esta checagem foi realizada por jornalistas que integram o Projeto Comprova, criado para combater a desinforma\u00e7\u00e3o, do qual o Metr\u00f3poles faz parte. Leia mais sobre essa parceria aqui. Conte\u00fado invest\u2026 [+13958 chars]",
+      "retrievedAt": "2023-11-03 07:05:38.380662",
+      "internal_id": "887f6e732f7408e86a48595c9d735d0a4a694858dbc49d1e4ebd1cc9316f0db1",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2866,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Sunday Nwakanma",
+      "title": "Abia takes IMPACT Project to 292 wards",
+      "description": "Abia State Government has said that it is passionate about the health of its citizens, hence its decision to take the Immunization Plus and Malaria Progress by Accelerating Coverage and Transforming Services, IMPACT, project to the 292 wards in the state. The\u2026",
+      "url": "https://punchng.com/abia-takes-impact-project-to-292-wards/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/11/02025307/nn.jpg",
+      "publishedAt": "2023-11-01 23:41:13",
+      "content": "Abia State Government has said that it is passionate about the health of its citizens, hence its decision to take the Immunization Plus and Malaria Progress by Accelerating Coverage and Transforming \u2026 [+2835 chars]",
+      "retrievedAt": "2023-11-03 07:05:38.948922",
+      "internal_id": "eac7731eb39e93595d4ade9ddc8127a8ee8dcf633b31b061f464e69500d68a17",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2863,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Canaltech.com.br",
+      "author": "Canaltech",
+      "title": "Fungos da Amaz\u00f4nia eliminam as larvas do mosquito da dengue",
+      "description": "Cientistas da UFAC descobrem tr\u00eas fungos amaz\u00f4nicos que eliminam as larvas do mosquito Aedes aegypti e podem reduzir casos da dengue, se usados em inseticidas",
+      "url": "https://canaltech.com.br/saude/fungos-da-amazonia-eliminam-as-larvas-do-mosquito-da-dengue-268675/",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/01/476103236-i632651.jpeg",
+      "publishedAt": "2023-11-01 23:25:19",
+      "content": "No Amazonas, a cidade de Manaus enfrenta um severo surto de dengue, com nove mortes j\u00e1 confirmadas este ano. Entre os principais desafios, est\u00e1 a dificuldade em barrar a prolifera\u00e7\u00e3o do principal vet\u2026 [+2845 chars]",
+      "retrievedAt": "2023-11-03 07:05:38.386080",
+      "internal_id": "b6ff41f40b1274b15ab0b53ebe75312626a479991f70885133f6abd694c3af56",
+      "publishedAtLabel": "Nov 1"
+    },
+    {
+      "id": 2864,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Fungos da Amaz\u00f4nia eliminam as larvas do mosquito da dengue",
+      "description": "Cientistas da UFAC descobrem tr\u00eas fungos amaz\u00f4nicos que eliminam as larvas do mosquito Aedes aegypti e podem reduzir casos da dengue, se usados em inseticidas",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2023-11-01/fungos-da-amazonia-eliminam-as-larvas-do-mosquito-da-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/29/pf/z1/29pfz1mqgv07otvei8m6m013a.jpg",
+      "publishedAt": "2023-11-01 21:25:05",
+      "content": "No Amazonas, a cidade de Manaus enfrenta um severo surto de dengue, com nove mortes j\u00e1 confirmadas este ano . Entre os principais desafios, est\u00e1 a dificuldade em barrar a prolifera\u00e7\u00e3o do principal v\u2026 [+2836 chars]",
+      "retrievedAt": "2023-11-03 07:05:38.393297",
+      "internal_id": "2d98f039cc8ead2865b2e259ee29786e7e2fee7e796f747d39ac27201ed1cc1e",
+      "publishedAtLabel": "Nov 1"
+    },
     {
       "id": 2850,
       "query": [
@@ -3444,188 +3625,6 @@
       "content": "Pesquisadores nos Estados Unidos demonstraram pela primeira vez que conseguem, de maneira segura e efetiva, infectar volunt\u00e1rios humanos com o v\u00edrus Zika, um passo \u00e0 frente para aprender mais sobre a\u2026 [+2261 chars]",
       "retrievedAt": "2023-10-22 19:05:26.948158",
       "internal_id": "91ea216cf67190d01e7c51cb0f3ec43d48ce99c77592cb14b79270bce04631c7",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2666,
-      "query": [
-        "zika"
-      ],
-      "source_id": "reuters",
-      "source_name": "Reuters",
-      "author": "Jennifer Rigby",
-      "title": "Scientists infect volunteers with Zika in hunt for vaccines, treatments",
-      "description": "Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step towards learning more about the disease and developing vaccines and treatments.",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-infect-volunteers-with-zika-hunt-vaccines-treatments-2023-10-21/",
-      "urlToImage": "https://www.reuters.com/resizer/JufWcS3hY6qimvnfwBAX40Bm6kg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O46RG2OBXRMONO245N5KDDZMRI.jpg",
-      "publishedAt": "2023-10-21 18:10:45",
-      "content": "Oct 21 (Reuters) - Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step towards learning more about the disea\u2026 [+2881 chars]",
-      "retrievedAt": "2023-10-22 19:05:26.954725",
-      "internal_id": "95f33573cfded18bfe9876ba03650ace7d5e22118755f3b5f65ce23c2f3d18b5",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2661,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "'Extremely rare' case of dengue virus found in California - Fox News",
-      "description": "'Extremely rare' case of dengue virus found in CaliforniaFox News Extremely rare case of dengue confirmed in PasadenaKTLA Los Angeles Rare case of mosquito-borne dengue diagnosed in PasadenaLos Angeles Times Rare case of locally-acquired dengue confirmed in S\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172065499",
-      "urlToImage": null,
-      "publishedAt": "2023-10-21 17:12:46",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-22 19:05:25.924901",
-      "internal_id": "da281dfecaf33aeafc3f512c471c48b1c59108d645209da11a14c1ad37f76774",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2664,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Reuters",
-      "title": "Scientists infect volunteers with Zika in hunt for vaccines, treatments",
-      "description": "Researchers at the Johns Hopkins Bloomberg School of Public Health have successfully infected human volunteers with the Zika virus in a controlled environment. This study, approved by US regulators and the World Health Organization, aims to gain a better unde\u2026",
-      "url": "https://timesofindia.indiatimes.com/home/science/scientists-infect-volunteers-with-zika-in-hunt-for-vaccines-treatments/articleshow/104614227.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104614252,width-1070,height-580,imgsize-985889,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-21 16:52:30",
-      "content": "News Scientists infect volunteers with Zika in hunt for vaccines, treatments Researchers at the Johns Hopkins Bloomberg School of Public Health have successfully infected\u2026 [+450 chars]",
-      "retrievedAt": "2023-10-22 19:05:26.944816",
-      "internal_id": "6cf07593cc77f2f9a4c96713a56b39a163fa61a86b9efdecf7a10bb57464c273",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2663,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Investing.com",
-      "author": "Reuters",
-      "title": "Scientists infect volunteers with Zika in hunt for vaccines, treatments",
-      "description": "Scientists infect volunteers with Zika in hunt for vaccines, treatments",
-      "url": "https://www.investing.com/news/world-news/scientists-infect-volunteers-with-zika-in-hunt-for-vaccines-treatments-3204882",
-      "urlToImage": "https://i-invdn-com.investing.com/news/news_headline_open_108x81._800x533_L_1419519630.jpg",
-      "publishedAt": "2023-10-21 16:25:38",
-      "content": "By Jennifer Rigby (Reuters) - Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step towards learning more abo\u2026 [+2289 chars]",
-      "retrievedAt": "2023-10-22 19:05:26.941028",
-      "internal_id": "f32c67d5bddaf68d70f01c9c55352b81f5f931e7806a037af60c254124f5c0f7",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2660,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Chris Eberhart",
-      "title": "'Extremely rare' case of dengue virus found in California",
-      "description": "The first locally acquired case of dengue virus, also known as \"break-bone fever\" because of the pain, was confirmed in a Pasadena, California, resident this week.",
-      "url": "https://www.foxnews.com/us/extremely-rare-case-dengue-virus-found-california",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/mosquito-on-skin.jpg",
-      "publishedAt": "2023-10-21 15:25:35",
-      "content": "The first locally acquired case of dengue virus often referred to as \"break-bone fever\" was contracted by a resident in Pasadena, California, public health officials said Friday. This is the first l\u2026 [+2552 chars]",
-      "retrievedAt": "2023-10-22 19:05:25.921820",
-      "internal_id": "d52db05646b4520b76e47e2788df77db531399096830c6cf290c139d41cd29c8",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2659,
-      "query": [
-        "dengue",
-        "malaria",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Levif.be",
-      "author": "Muriel Lefevre",
-      "title": "Escargots d\u2019eau douce : ils causent la mort de 200.000 personnes par an",
-      "description": "Personne n'ignore que le moustique est l'animal le plus mortel pour l'homme. Peu savent en revanche qu'un escargot fait lui aussi un nombre impressionnant de victimes. The post Escargots d\u2019eau douce : ils causent la mort de 200.000 personnes par an appeared f\u2026",
-      "url": "https://www.levif.be/societe/sante/escargots-ils-causent-la-mort-de-plus-de-200-000-personnes-par-an/",
-      "urlToImage": "https://img.static-rmg.be/a/view/q75/w1600/h836/3883152/7016d3ce2688deee3230b68ec270a490-jpg.jpg",
-      "publishedAt": "2023-10-21 14:35:05",
-      "content": "Avec les maladies qu\u2019il entra\u00eene (malaria, dengue, zika\u2026), le moustique est l\u2019animal le plus mortel pour l\u2019homme. Mais l\u2019escargot d\u2019eau douce est lui aussi mortel et fait un nombre impressionnant de \u2026 [+5013 chars]",
-      "retrievedAt": "2023-10-22 19:05:25.916401",
-      "internal_id": "2b69e12443fc32fc177057108188946be1d9b2a6e02744abf08dc77a4f618643",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2658,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknews.africa",
-      "author": "Sputnik Afrique",
-      "title": "Une flamb\u00e9e de dengue d\u00e9clar\u00e9e au Burkina Faso, plus de 200 morts",
-      "description": "Le Burkina Faso enregistre une hausse inqui\u00e9tante de cas de dengue, infection virale caus\u00e9e par des moustiques: 214 personnes sont mortes, plus de 50.000 cas suspects ont \u00e9t\u00e9 signal\u00e9s d\u00e8s le d\u00e9but de l\u2019ann\u00e9e. Pour ma\u00eetriser la situation, les autorit\u00e9s organis\u2026",
-      "url": "https://fr.sputniknews.africa/20231021/une-flambee-de-dengue-declaree-au-burkina-faso-plus-de-200-morts-1062979929.html",
-      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1062979929.jpg?10626405641697897929",
-      "publishedAt": "2023-10-21 14:18:48",
-      "content": "https://fr.sputniknews.africa/20231021/une-flambee-de-dengue-declaree-au-burkina-faso-plus-de-200-morts-1062979929.html Une flamb\u00e9e de dengue d\u00e9clar\u00e9e au Burkina Faso, plus de 200 morts Une flamb\u00e9e\u2026 [+3872 chars]",
-      "retrievedAt": "2023-10-22 19:05:25.896073",
-      "internal_id": "a9df679b0088472c26af2a08ee9ad499f4d6e1367836202a1b70b5b51e61aa9d",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2657,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Los Angeles Times",
-      "author": "Jeremy Childs",
-      "title": "Rare case of mosquito-borne dengue diagnosed in Pasadena",
-      "description": "A case of locally-transmitted dengue, the first ever recorded in California, was detected in Pasadena on Friday, according to public health officials.",
-      "url": "https://www.latimes.com/california/story/2023-10-21/rare-case-of-mosquito-borne-dengue-diagnosed-in-pasadena",
-      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/99b1bf0/2147483647/strip/true/crop/1160x609+0+86/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fae%2F47%2F764c276a485a975844e35c430059%2Fsd-me-mosquitos.jpg",
-      "publishedAt": "2023-10-21 12:00:31",
-      "content": "A case of locally acquired dengue, a virus transmitted by mosquitoes, was detected in Pasadena on Friday, according to the Pasadena Public Health Department. The instance is extremely rare, official\u2026 [+1800 chars]",
-      "retrievedAt": "2023-10-22 19:05:25.882578",
-      "internal_id": "0842cb923634540810f31f3ed4a42c231c7e3cbe2c1bf871f7ce8ee8d890b42f",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2662,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Hbvl.be",
-      "author": "Pieter Van Hecke",
-      "title": "17-jarige leerling overleden aan bacteri\u00eble hersenvliesontsteking: \u201cOnwezenlijk en onnoemelijk verlies\u201d",
-      "description": "Een 17-jarige jongen van het Sint-Jorisinstituut in Bazel is overleden aan een bacteri\u00eble hersenvliesontsteking. \u201cDit is onwezenlijk en een onnoemelijk verlies\u201d, zegt burgemeester Antoine Denert. \u201cDe leerlingen van zijn klas kregen vrijdagochtend psychologisc\u2026",
-      "url": "https://www.hbvl.be/cnt/dmf20231021_93728569",
-      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2023/10/20/745af27f-4d7f-4a0c-8f47-fb37d7907a6e.png?maxheight=460&maxwidth=629",
-      "publishedAt": "2023-10-21 10:21:04",
-      "content": "De jongen werd het ziekenhuis binnengebracht maar stierf amper een dag later aan de gevolgen van bacteri\u00eble meningitis. Een tragedie voor familie en vrienden. Zijn omgeving en Kruibeeks burgemeester \u2026 [+1094 chars]",
-      "retrievedAt": "2023-10-22 19:05:26.129931",
-      "internal_id": "0f3d8fb655e6c4623f65e648d5f72a32c96750c71cc7bd2e51913ea0ab5f0722",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2656,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.gva.be",
-      "author": "Pieter Van Hecke",
-      "title": "17-jarige leerling overleden aan bacteri\u00eble hersenvliesontsteking: \u201cOnwezenlijk en onnoemelijk verlies\u201d",
-      "description": "Een 17-jarige jongen van het Sint-Jorisinstituut in Bazel is overleden aan een bacteri\u00eble hersenvliesontsteking. \u201cDit is onwezenlijk en een onnoemelijk verlies\u201d, zegt burgemeester Antoine Denert. \u201cDe leerlingen van zijn klas kregen vrijdagochtend psychologisc\u2026",
-      "url": "https://www.gva.be/cnt/dmf20231021_92421338",
-      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2023/10/20/745af27f-4d7f-4a0c-8f47-fb37d7907a6e.png?maxheight=460&maxwidth=629",
-      "publishedAt": "2023-10-21 06:43:23",
-      "content": "De jongen werd het ziekenhuis binnengebracht maar stierf amper een dag later aan de gevolgen van bacteri\u00eble meningitis. Een tragedie voor familie en vrienden. Zijn omgeving en Kruibeeks burgemeester \u2026 [+1094 chars]",
-      "retrievedAt": "2023-10-22 07:05:27.992025",
-      "internal_id": "ff7c153b0e39ce03383a3216fcb00f582247328bbdaf3eda5d33b270542643d9",
       "publishedAtLabel": "Oct 21"
     }
   ]
