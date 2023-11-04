@@ -1,8 +1,278 @@
 {
-  "last_updated": "2023-11-04 07:06",
+  "last_updated": "2023-11-04 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 38,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 2907,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "California officials confirm 2 cases of dengue fever - KSBY News",
+      "description": "California officials confirm 2 cases of dengue feverKSBY News California confirms 2nd local dengue case | CIDRAPUniversity of Minnesota Twin Cities Second California case of locally acquired case of dengue virus reported in Long BeachNBC Southern California L\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172164442",
+      "urlToImage": null,
+      "publishedAt": "2023-11-03 17:12:34",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-11-04 19:05:12.903000",
+      "internal_id": "fbc68c700cb98db990690c0da72cb04fc3618da389fffd4073851adbbea91518",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2914,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "La viruela del simio ha estado evolucionando en los humanos desde al menos 2016, seg\u00fan un estudio",
+      "description": "Una nueva investigaci\u00f3n puede cambiar la narrativa sobre c\u00f3mo la mpox, antes conocida como viruela de los monos, se ha convertido en un problema humano. Los investigadores encontraron evidencia que del virus han estado circulando entre humanos desde al menos \u2026",
+      "url": "https://es.gizmodo.com/mpox-viruela-del-mono-evolucion-de-propagacion-humana-e-1850989993",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/878658925af5939d33c7979c987b2b1d.jpg",
+      "publishedAt": "2023-11-03 15:58:00",
+      "content": "Una nueva investigaci\u00f3n puede cambiar la narrativa sobre c\u00f3mo la mpox, antes conocida como viruela de los monos, se ha convertido en un problema humano. Los investigadores encontraron evidencia que d\u2026 [+4830 chars]",
+      "retrievedAt": "2023-11-04 19:05:15.672767",
+      "internal_id": "98e1f64d26c4a0308e6e0120a7025236773788129d62fb6397bb2f127493f9ff",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2920,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "Monkeypox Has Been Evolving in Humans Since at Least 2016, Study Finds",
+      "description": "New research may change the narrative over how mpox, formerly known as monkeypox, has become a human problem. Researchers found evidence that strains of the virus have been circulating between humans since at least 2016, years before it caused a surprise glob\u2026",
+      "url": "https://gizmodo.com/mpox-monkeypox-evolving-human-spread-epidemic-1850986953",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/878658925af5939d33c7979c987b2b1d.jpg",
+      "publishedAt": "2023-11-03 15:58:00",
+      "content": "New research may change the narrative over how mpox, formerly known as monkeypox, has become a human problem. Researchers found evidence that strains of the virus have been circulating between humans\u2026 [+4017 chars]",
+      "retrievedAt": "2023-11-04 19:05:15.702376",
+      "internal_id": "ae3310d8e65729fcdc2bced4e4f06836d4d79dabc7f5218fcc96ef0cc607a679",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2915,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Neuer Mpox-Ausbruch: Ursprung untersucht: Was die Affenpocken zur\u00fcck nach Europa brachte",
+      "description": "Als sich im vergangenen Jahr Affenpocken (jetzt Mpox) ausbreiteten, war die \u00dcberraschung gro\u00df \u2013 nicht nur in Deutschland. Wie es dazu kommen konnte, haben Wissenschaftler nun untersucht. Unterdessen breitet sich der Erreger in Europa weiter aus.",
+      "url": "https://www.stern.de/gesundheit/ursprung-untersucht--was-die-affenpocken-zurueck-nach-europa-brachte-33967478.html",
+      "urlToImage": "https://image.stern.de/33967492/t/KC/v3/w1440/r1.7778/-/affenpocken-im-labor.jpg",
+      "publishedAt": "2023-11-03 15:09:00",
+      "content": "Als sich im vergangenen Jahr Affenpocken (jetzt Mpox) ausbreiteten, war die \u00dcberraschung gro\u00df nicht nur in Deutschland. Wie es dazu kommen konnte, haben Wissenschaftler nun untersucht. Unterdessen br\u2026 [+3354 chars]",
+      "retrievedAt": "2023-11-04 19:05:15.676949",
+      "internal_id": "a3f8dd180a90d93337d3046ee939262534168ec1f138ba05c6de555bf672eb85",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2906,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nathiphat Tanwattana, Nanchaya Wanasen, Yuparat Jantraphakorn, Kanjana Srisutthisamphan, Thanathom Chailungkarn, Suwimon Boonrungsiman, Boonlert Lumlertdacha, Porntippa Lekchareonsuk, Challika Kaewborisuth",
+      "title": "Human BST2 inhibits rabies virus release independently of cysteine-linked dimerization and asparagine-linked glycosylation",
+      "description": "The innate immune response is a first-line defense mechanism triggered by rabies virus (RABV). Interferon (IFN) signaling and ISG products have been shown to confer resistance to RABV at various stages of the virus\u2019s life cycle. Human tetherin, also known as \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292833",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0292833.g008&size=inline",
+      "publishedAt": "2023-11-03 14:00:00",
+      "content": "Abstract The innate immune response is a first-line defense mechanism triggered by rabies virus (RABV). Interferon (IFN) signaling and ISG products have been shown to confer resistance to RABV at va\u2026 [+66200 chars]",
+      "retrievedAt": "2023-11-04 19:05:11.934306",
+      "internal_id": "304305dc36b9ae2ae7d7293b38373bfc5e74ffe1a08c154b7529d4ab8d78b6fd",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2913,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Juliana de Souza Felix, Mariana Cordeiro Almeida, Maria Fernanda da Silva Lopes, Fl\u00e1via Regina Florencio de Athayde, J\u00e9ssica Antonini Troiano, Nat\u00e1lia Francisco Scaramele, Amanda de Oliveira Furlan, Flavia Lombardi Lopes",
+      "title": "Co-expression analysis suggests lncRNA-mRNA interactions enhance antiviral immune response during acute Chikungunya fever in whole blood of pediatric patients",
+      "description": "Chikungunya virus is an arbovirus that causes the neglected tropical disease chikungunya fever, common in tropical areas worldwide. There is evidence that arboviruses alter host transcriptome and modulate immune response; this modulation may involve transcrip\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294035",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0294035.g003&size=inline",
+      "publishedAt": "2023-11-03 14:00:00",
+      "content": "Abstract Chikungunya virus is an arbovirus that causes the neglected tropical disease chikungunya fever, common in tropical areas worldwide. There is evidence that arboviruses alter host transcripto\u2026 [+29838 chars]",
+      "retrievedAt": "2023-11-04 19:05:15.188142",
+      "internal_id": "a36faf54b623a1f9bc0510567c3e236e011717661b9b8a28b0de9747318e6c7a",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2911,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "The Insight Partners",
+      "title": "Malaria Treatment Market Size to Hit 28.5% CAGR, Globally, by 2030 - Exclusive Report by The Insight Partners",
+      "description": "The global malaria treatment market revenue to reach $24.48 Billion by 2030. The global malaria treatment market revenue to reach $24.48 Billion by 2030.",
+      "url": "https://www.globenewswire.com/news-release/2023/11/03/2773190/0/en/Malaria-Treatment-Market-Size-to-Hit-28-5-CAGR-Globally-by-2030-Exclusive-Report-by-The-Insight-Partners.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/efd8c9da-ac10-487a-a083-ec8f33cad35e",
+      "publishedAt": "2023-11-03 12:38:00",
+      "content": "Pune, India, Nov. 03, 2023 (GLOBE NEWSWIRE) -- Malaria is a serious infection spread by an infected mosquito. The infection is very common in certain parts of the world, such as large areas of Africa\u2026 [+8010 chars]",
+      "retrievedAt": "2023-11-04 19:05:14.333421",
+      "internal_id": "620ab79da65fa8a5a3d19f4b5a26a7539d93ce4733e24bdd36b2bcf9c78b1742",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2912,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "The Insight Partners",
+      "title": "Malaria and Sickle Cell Disease Treatment Market Worth $29.17 Billion, Globally, by 2030 - Exclusive Report by The Insight Partners",
+      "description": "The global malaria and sickle cell disease treatment market is growing at a CAGR of 26.5% from 2022 to 2030. The global malaria and sickle cell disease treatment market is growing at a CAGR of 26.5% from 2022 to 2030.",
+      "url": "https://www.globenewswire.com/news-release/2023/11/03/2773186/0/en/Malaria-and-Sickle-Cell-Disease-Treatment-Market-Worth-29-17-Billion-Globally-by-2030-Exclusive-Report-by-The-Insight-Partners.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/efd8c9da-ac10-487a-a083-ec8f33cad35e",
+      "publishedAt": "2023-11-03 12:33:00",
+      "content": "Pune, India, Nov. 03, 2023 (GLOBE NEWSWIRE) -- Sickle cell disease (SCD) is the most common inherited blood disorder that affects the red blood cells. Treatments for SCD can relieve pain and help pre\u2026 [+10390 chars]",
+      "retrievedAt": "2023-11-04 19:05:14.338866",
+      "internal_id": "e22d0c9b91af3d6d08acf9bd050927944b710acc901994aa9ee20b6ce80bf762",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2918,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Zirkuliert seit 2016: Ursprung des Mpox-Ausbruchs liegt l\u00e4nger zur\u00fcck",
+      "description": "Ein Ausbruch von Mpox \u00fcberraschte voriges Jahr nicht nur Deutschland. Um die Vorgeschichte zu verstehen, haben Forschende Gen-Ver\u00e4nderungen des Erregers untersucht. Unterdessen verbreitet sich der Erreger wieder in Europa.",
+      "url": "https://www.tagesspiegel.de/wissen/zirkuliert-seit-2016-ursprung-des-mpox-ausbruchs-liegt-langer-zuruck-10725094.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/affenpocken5/alternates/BASE_16_9_W1400/affenpocken.jpeg",
+      "publishedAt": "2023-11-03 10:29:00",
+      "content": "Der Ursprung des internationalen Mpox-Ausbruchs (vormals Affenpocken) 2022 liegt laut einer Studie schon l\u00e4nger zur\u00fcck. Aufgrund einer markanten Ver\u00e4nderung des Musters und der H\u00e4ufigkeit von Mutatio\u2026 [+3910 chars]",
+      "retrievedAt": "2023-11-04 19:05:15.691915",
+      "internal_id": "f16cd871049e5b776837a1429a5cbcf82913798d240b7b993302adf83474ca95",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2910,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Crictracker.com",
+      "author": "Arfath Pasha S",
+      "title": "'Not in full fitness as I am four kilos down from dengue'",
+      "description": "Following his impressive run-a-ball 92 against Sri Lanka, Indian opener Shubman Gill revealed that he is still working on regaining full fitness after being sidelined for the first two matches of the",
+      "url": "https://www.crictracker.com/cricket-news/not-in-full-fitness-as-i-am-four-kilos-down-from-dengue-shubman-gill-gives-health-update/",
+      "urlToImage": "https://media.crictracker.com/media/attachments/1697731106195_Shubman-Gill-with-Golden-Badge.jpeg",
+      "publishedAt": "2023-11-03 10:07:41",
+      "content": "Following his impressive run-a-ball 92 against Sri Lanka, Indian opener Shubman Gill revealed that he is still working on regaining full fitness after being sidelined for the first two matches of the\u2026 [+1997 chars]",
+      "retrievedAt": "2023-11-04 19:05:12.922915",
+      "internal_id": "6011e5a03a46fcc3a6db0746b2d8056556b91ff1271ce2ebbfd233afc7780aaa",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2917,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "WHO: Weltweite \u00dcberwachung n\u00f6tig: Ursprung der Mpox-Ausbruchs um Jahre zur\u00fcckdatiert",
+      "description": "2022 kommt es weltweit vermehrt zu Infektionen durch Mpox. Doch die Krankheitserreger, die zuvor als Affenpocken bezeichnet wurden und urspr\u00fcnglich von Tieren stammen, werden bereits seit 2016 von Mensch zu Mensch weitergegeben. Das zeigen die Ergebnisse eine\u2026",
+      "url": "https://www.n-tv.de/wissen/Ursprung-des-Mpox-Ausbruchs-um-Jahre-zurueckdatiert-article24507356.html",
+      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop24507362/0641323244-cImg_16_9-w1200/imago0201967821h.jpg",
+      "publishedAt": "2023-11-03 10:05:47",
+      "content": "2022 kommt es weltweit vermehrt zu Infektionen durch Mpox. Doch die Krankheitserreger, die zuvor als Affenpocken bezeichnet wurden und urspr\u00fcnglich von Tieren stammen, werden bereits seit 2016 von Me\u2026 [+3462 chars]",
+      "retrievedAt": "2023-11-04 19:05:15.683881",
+      "internal_id": "d6e1db92bf7644ff8a84e7bb2f2dacbe09128c6f14047f4b7bff17eac4e1c071",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2908,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "Health Ministry: Dengue cases up in week 43, no deaths reported",
+      "description": "PUTRAJAYA, Nov 3 \u2015 The number of dengue cases for the 43rd Epidemiological Week (ME43) of October 22-28 increased by 10 cases or 0.4 per cent to 2,272 cases, compared to 2,262...",
+      "url": "https://www.malaymail.com/news/malaysia/2023/11/03/health-ministry-dengue-cases-up-in-week-43-no-deaths-reported/100032",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2023/11/03/thumbs/400x400/160377.jpg",
+      "publishedAt": "2023-11-03 08:06:53",
+      "content": "PUTRAJAYA, Nov 3 The number of dengue cases for the 43rd Epidemiological Week (ME43) of October 22-28 increased by 10 cases or 0.4 per cent to 2,272 cases, compared to 2,262 cases in the preceding we\u2026 [+988 chars]",
+      "retrievedAt": "2023-11-04 19:05:12.913777",
+      "internal_id": "ebee9f3b0176da9bf1c2b8bef0502a1537e841629514b0014f76b720bbdac7be",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2909,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Circleofcricket.com",
+      "author": "Rashmi Nanda",
+      "title": "CWC 2023: 'Haven't attained full fitness yet, I'm 4 kilos down..'- Shubman Gill after Sri Lanka match",
+      "description": "CWC 2023: 'Haven't attained full fitness yet, I'm 4 kilos down..'- Shubman Gill after Sri Lanka matchcircleofcricket.com",
+      "url": "https://circleofcricket.com/category/cricketworldcup/87981/cwc-2023-havent-attained-full-fitness-yet-im-4-kilos-down-shubman-gill-after-sri-lanka-match",
+      "urlToImage": "https://circleofcricket.com/post_image/post_image_087f622.jpg",
+      "publishedAt": "2023-11-03 07:59:18",
+      "content": "Young Indian opener Shubman Gill revealed that he has not yet gained full fitness after his bout with dengue. This came after he smashed a stunning knock of 92 runs against Sri Lanka in the ongoing I\u2026 [+1601 chars]",
+      "retrievedAt": "2023-11-04 19:05:12.919512",
+      "internal_id": "58d9aef1a172dfd9a3d221862ab59388471236ac17b894966cbdcf7eb7666b18",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2916,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Menschen \u00fcbertragen Mpox schon l\u00e4nger als gedacht",
+      "description": "",
+      "url": "https://orf.at/stories/3338594/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2023-11-03 07:57:43",
+      "content": "Mpox (fr\u00fcher Affenpocken) zirkuliert einer neuen Studie zufolge nicht erst seit dem Ausbruch im Vorjahr unter Menschen, sondern schon seit 2016. Diese Erkenntnis stelle einen Paradigmenwechsel dar, s\u2026 [+78 chars]",
+      "retrievedAt": "2023-11-04 19:05:15.680730",
+      "internal_id": "9604ba3339adef0ffffe4150a6d1dcea94a5315853a537ebc9ecc778c180a069",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2919,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Menschen \u00fcbertragen Mpox schon l\u00e4nger als gedacht",
+      "description": "Mpox (fr\u00fcher Affenpocken) zirkuliert einer neuen Studie zufolge nicht erst seit dem Ausbruch im Vorjahr unter Menschen, sondern schon seit 2016. Diese Erkenntnis stelle einen Paradigmenwechsel dar, schreibt ein Forschungsteam im Fachjournal \u201eScience\u201c.",
+      "url": "https://science.orf.at/stories/3221968/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
+      "publishedAt": "2023-11-03 07:40:29",
+      "content": "Der Ursprung des \u00fcberraschenden Ausbruchs im Jahr 2022 liegt damit schon l\u00e4nger zur\u00fcck, hie\u00df es vom Studienmitautor Richard Neher von der Universit\u00e4t Basel. Bis vor kurzem wurde Mpox als Zoonose bet\u2026 [+1653 chars]",
+      "retrievedAt": "2023-11-04 19:05:15.697220",
+      "internal_id": "91112ebd9d69c1f61c6a5c7fb89c99e661a4ca6c35f1a715072e82068f32a5c5",
+      "publishedAtLabel": "Nov 3"
+    },
     {
       "id": 2905,
       "query": [
@@ -505,6 +775,24 @@
       "content": "Abstract Background Malaria is a major global public health problem, with a particular burden of disease in sub-Saharan Africa including Ethiopia. Access to Long Lasting Insecticide Nets (LLINs) fo\u2026 [+28311 chars]",
       "retrievedAt": "2023-11-04 07:06:19.638710",
       "internal_id": "522c7690d6bacfd820d3854b808ea6f063dd2ce0c606bbfa75357da8b78299ca",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2921,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Diana Chinchilla, Cecilia Nieves, Ricardo Guti\u00e9rrez, Vallier Sordoillet, Fr\u00e9d\u00e9ric J. Veyrier, Mathieu Picardeau",
+      "title": "Phylogenomics of Leptospira santarosai, a prevalent pathogenic species in the Americas",
+      "description": "Author summary Leptospirosis is an emerging zoonosis caused by pathogenic species of a highly heterogeneous genus. Most studies have focused on Leptospira interrogans that is responsible for the majority of human infection cases worldwide. On the contrary, ou\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011733",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011733.g005&size=inline",
+      "publishedAt": "2023-11-02 14:00:00",
+      "content": "Citation: Chinchilla D, Nieves C, Guti\u00e9rrez R, Sordoillet V, Veyrier FJ, Picardeau M (2023) Phylogenomics of Leptospira santarosai, a prevalent pathogenic species in the Americas. PLoS Negl Trop Dis \u2026 [+41237 chars]",
+      "retrievedAt": "2023-11-04 19:05:16.512938",
+      "internal_id": "ba01c68fa79a97264f2fad6fbf9e129c23e00d092051479693954fab9afe3255",
       "publishedAtLabel": "Nov 2"
     },
     {
@@ -3332,295 +3620,6 @@
       "content": "By: Jawo Three senior health officials, including Muhammadou Lamin Jaiteh, the permanent secretary at the Ministry of Health, Balla Kandeh, the program manager of the Malaria Control Programme, and \u2026 [+1893 chars]",
       "retrievedAt": "2023-10-26 07:05:52.358016",
       "internal_id": "82a7d4e0f6900b6f924311b946384cb5a75d926d8fc402bcc464e5043fd8bac8",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2719,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Ankita Upadhyay",
-      "title": "Dengue cases in Delhi touch nearly 5,000 \u2014 highest in at least 5 years",
-      "description": "While the corporation has not been releasing weekly dengue reports since August, data accessed by The Indian Express revealed that the spike in cases was the highest in the month of September with 2,141 cases.",
-      "url": "https://indianexpress.com/article/cities/delhi/dengue-cases-in-delhi-touch-nearly-5000-highest-in-at-least-5-years-8998121/",
-      "urlToImage": "https://images.indianexpress.com/2023/10/dengue-4col-1.jpg",
-      "publishedAt": "2023-10-24 21:21:29",
-      "content": "Dengue cases in Delhi have seen a sharp rise this year, with nearly 5,000 cases (4,965) reported till October 21 more than double that of cases seen in the same period in 2022 and the highest in the \u2026 [+3089 chars]",
-      "retrievedAt": "2023-10-26 07:05:51.813678",
-      "internal_id": "0142b731fd3c1c247064ddb5dec0f282a2704b536449eec52bd4d8b40a98de1d",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2723,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Ram\u00f3n Braga\u00f1a",
-      "title": "M\u00e9dicos Sin Fronteras alertan aumento de casos de dengue y malaria en migrantes de Oaxaca",
-      "description": "Perla G\u00f3mez, l\u00edderesa del equipo m\u00e9dico de la brigada de \"M\u00e9dicos Sin Fronteras\", que brinda atenci\u00f3n m\u00e9dica en el Centro de Movilidad Migratoria de Juchit\u00e1n, en el Istmo de Tehuantepec, inform\u00f3 a MILENIO sobre la creciente preocupaci\u00f3n debido al aumento de c\u2026",
-      "url": "https://www.milenio.com/estados/alertan-incremento-dengue-malaria-migrantes-oaxaca",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/24/preocupacion-dengue-malaria-migrantes-juchitan.jpg",
-      "publishedAt": "2023-10-24 20:52:46",
-      "content": "Perla G\u00f3mez, l\u00edderesa del equipo m\u00e9dico de la brigada de \"M\u00e9dicos Sin Fronteras\", que brinda atenci\u00f3n m\u00e9dica en el Centro de Movilidad Migratoria de Juchit\u00e1n, en el Istmo de Tehuantepec, inform\u00f3 a MI\u2026 [+1582 chars]",
-      "retrievedAt": "2023-10-26 07:05:51.846640",
-      "internal_id": "9a6441a87ecd3150b3813b3563a90776a0155166f0ca2f54cb9f381f396a2bc4",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2722,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Mediafax.ro",
-      "author": "Gabriel Negreanu",
-      "title": "Boala infec\u0163ioas\u0103 dengue ar putea deveni endemic\u0103 \u00een Europa. Avertisment al cercet\u0103torul-\u015fef al OMS",
-      "description": "Jeremy Farrar, cercet\u0103torul-\u015fef al Organiza\u0163iei Mondiale a S\u0103n\u0103t\u0103\u0163ii, a avertizat c\u0103 schimb\u0103rile climatice vor face ca boala infec\u0163ioas\u0103 dengue s\u0103 devin\u0103 endemic\u0103 \u00een unele p\u0103r\u0163i ale Europei \u015fi Statelor Unite, \u00eentr-un interviu acordat \u00een deschiderea summitului\u2026",
-      "url": "https://www.mediafax.ro/stiinta-sanatate/boala-infectioasa-dengue-ar-putea-deveni-endemica-in-europa-avertisment-al-cercetatorul-sef-al-oms-22167021",
-      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/7627/22167021/2/47238970-l.jpg?width=640",
-      "publishedAt": "2023-10-24 19:43:34",
-      "content": "\u00e2narilor care transmit virusul le plac climatele calde i umede i s-au rsp\u00e2ndit deja mai mult \u00een Europa \u00een aceast var, a spus el. Av\u00e2nd \u00een vedere c rile se \u00eenclzesc de la an la an, \"dengue va deven\u2026 [+1163 chars]",
-      "retrievedAt": "2023-10-26 07:05:51.836976",
-      "internal_id": "c0e6afd287ff52ff13a8e8d3de6e941edfcdbdfb73b5382410da0177fe79bb9f",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2710,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Newser",
-      "author": "Arden Dier",
-      "title": "5th State Reports Spread of Dengue",
-      "description": "California has reported its first locally acquired case of dengue, a mosquito-borne virus typically associated with tropical environments\u2014part of a trend that has seen the virus spread in new areas affected by climate change. A person living in Pasadena teste\u2026",
-      "url": "https://www.newser.com/story/341792/5th-state-reports-spread-of-dengue.html",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1498763-12-20231024133045.jpeg",
-      "publishedAt": "2023-10-24 18:17:00",
-      "content": "California has reported its first locally acquired case of dengue, a mosquito-borne virus typically associated with tropical environments\u2014part of a trend that has seen the virus spread in new areas a\u2026 [+2033 chars]",
-      "retrievedAt": "2023-10-25 19:05:20.862237",
-      "internal_id": "7a170eaac9223c473826dc665e12615db17cab9a7137cd2bc8e384497345d610",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2717,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Science X",
-      "title": "How eggs of the Zika-carrying mosquito survive desiccation",
-      "description": "Eggs of the mosquito that carries Zika virus can tolerate extended desiccation by altering their metabolism, according to a new study published October 24th in the open access journal PLOS Biology by Anjana Prasad, Sunil Laxman, and colleagues at the Institut\u2026",
-      "url": "https://phys.org/news/2023-10-eggs-zika-carrying-mosquito-survive-desiccation.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/how-eggs-of-the-zika-c.jpg",
-      "publishedAt": "2023-10-24 18:00:02",
-      "content": "Eggs of the mosquito that carries Zika virus can tolerate extended desiccation by altering their metabolism, according to a new study published October 24th in the open access journal PLOS Biology by\u2026 [+4149 chars]",
-      "retrievedAt": "2023-10-25 19:05:21.876148",
-      "internal_id": "917c334fb48abb9c570443d0f2e73841201a747b0a5ff6bf694a3e3a8cdf736a",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2706,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "Anna Skinner",
-      "title": "States Most At Risk For Painful Breakbone Fever",
-      "description": "A California resident was diagnosed with the first locally acquired case of dengue virus last week.",
-      "url": "https://www.newsweek.com/states-risk-breakbone-fever-1837368",
-      "urlToImage": "https://d.newsweek.com/en/full/2298781/states-risk-painful-breakbone-fever.jpg",
-      "publishedAt": "2023-10-24 17:03:49",
-      "content": "A Pasadena, California, resident was diagnosed with the first locally acquired case of dengue virus last week, and the news has reignited a warning from the World Health Organization (WHO) issued ear\u2026 [+2991 chars]",
-      "retrievedAt": "2023-10-25 19:05:20.839113",
-      "internal_id": "c76fb286c210cd579409df25c80098a7ea20a1acc6e750371fdc16bd51d4e9f1",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2705,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "WHO chief scientist warns of endemic dengue in Europe, US (Politico)",
-      "description": "Politico: WHO chief scientist warns of endemic dengue in Europe, US \u2014 Jeremy Farrar, the World Health Organization's chief scientist, has warned that climate change will result in the infectious disease dengue becoming endemic in parts of Europe and the Uni\u2026",
-      "url": "https://www.memeorandum.com/231024/p29",
-      "urlToImage": "http://www.memeorandum.com/m/config/politics/iicon.gif",
-      "publishedAt": "2023-10-24 15:25:01",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2023-10-25 19:05:20.827991",
-      "internal_id": "c4b6e6584f435bd5171e722f9dbca07f4081a96778e26a5188b90e4955e49775",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2718,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Vietnamplus.vn",
-      "author": "VNA",
-      "title": "Indonesia works to tackle risk of monkeypox outbreak",
-      "description": "The Indonesian Ministry of Health confirmed the presence of seven active cases of monkeypox (mpox) in the country, with all of them detected in Jakarta, as reported by the national news agency Antara.",
-      "url": "https://en.vietnamplus.vn/indonesia-works-to-tackle-risk-of-monkeypox-outbreak/270129.vnp",
-      "urlToImage": null,
-      "publishedAt": "2023-10-24 14:39:00",
-      "content": "Jakarta (VNA) - The Indonesian Ministry of Health confirmed the presence of seven active cases of monkeypox (mpox) in the country, with all of them detected in Jakarta, as reported by the national\u2026 [+636 chars]",
-      "retrievedAt": "2023-10-25 19:05:22.258567",
-      "internal_id": "bf5b30e86e96576bb1357f7978019025b99833a8774150525c74a640bb17ef05",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2716,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Stephen P. Mwangungulu, Deus Dorothea, Zakaria R. Ngereja, Emmanuel W. Kaindoa",
-      "title": "Geospatial based model for malaria risk prediction in Kilombero valley, South-eastern, Tanzania",
-      "description": "Background Malaria continues to pose a major public health challenge in tropical regions. Despite significant efforts to control malaria in Tanzania, there are still residual transmission cases. Unfortunately, little is known about where these residual malari\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293201",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0293201.g007&size=inline",
-      "publishedAt": "2023-10-24 14:00:00",
-      "content": "Abstract Background Malaria continues to pose a major public health challenge in tropical regions. Despite significant efforts to control malaria in Tanzania, there are still residual transmission \u2026 [+68237 chars]",
-      "retrievedAt": "2023-10-25 19:05:21.540020",
-      "internal_id": "188a2ae6da92c073e590858fcd3c2dfc22c1037dc080cf43dedb0fc969e58760",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2707,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ouest-France",
-      "author": "Ouest-France",
-      "title": "Dengue : 36 cas autochtones d\u00e9tect\u00e9s en France m\u00e9tropolitaine depuis le mois de mai",
-      "description": "En France m\u00e9tropolitaine, 36 cas autochtones de dengues ont \u00e9t\u00e9 enregistr\u00e9s entre le 1er mai et le 20 octobre 2023. D\u2019apr\u00e8s Sant\u00e9 Publique France, ces cas ont \u00e9t\u00e9 recens\u00e9s en Paca, en Occitanie et notamment en Auvergne Rh\u00f4ne-Alpes.",
-      "url": "https://www.ouest-france.fr/sante/moustique/dengue-36-cas-autochtones-detectes-en-france-metropolitaine-depuis-le-mois-de-mai-7aed4c04-7267-11ee-8ee4-6d23d2858b34",
-      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMzEwN2Q3ZTM1OWVkMTI3NjcyZDUyZjE2YTAzMDY1M2Q4Mzk?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=fd1f97829c4c4b77d57c33cf0dc8b094509c1374c7e8a5a7d03bc8e335b36ed0",
-      "publishedAt": "2023-10-24 13:34:51",
-      "content": "36 cas autochtones de dengue ont \u00e9t\u00e9 d\u00e9tect\u00e9s en France m\u00e9tropolitaine depuis le d\u00e9but de la surveillance, \u00e0 savoir entre le 1er mai et le 20 octobre 2023, a fait savoir Sant\u00e9 Publique France. Couran\u2026 [+1473 chars]",
-      "retrievedAt": "2023-10-25 19:05:20.844622",
-      "internal_id": "284c9de77819adc25263a4cdafe94f88aa3407766ac73cff031e0e3141f6bc73",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2709,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknews.lat",
-      "author": "Sputnik Mundo",
-      "title": "El dengue \"llegar\u00e1 a ser end\u00e9mico\" en EEUU y Europa debido al cambio clim\u00e1tico",
-      "description": "MOSC\u00da (Sputnik) \u2014 El cient\u00edfico de la Organizaci\u00f3n Mundial de la Salud (OMS) Jeremy Farrar declar\u00f3 que el cambio clim\u00e1tico llevar\u00e1 a que el virus del dengue, hoy difundido en las regiones de clima tropical y subtropical, llegue a ser end\u00e9mico en algunas regio\u2026",
-      "url": "https://sputniknews.lat/20231024/el-dengue-llegara-a-ser-endemico-en-eeuu-y-europa-debido-al-cambio-climatico-1145071903.html",
-      "urlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1145071903.jpg?11374873571698149998",
-      "publishedAt": "2023-10-24 12:12:00",
-      "content": "Suscr\u00edbete a nuestros canales de Telegram a trav\u00e9s de estosenlaces. Ya que la aplicaci\u00f3n Sputnik est\u00e1 bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo m\u00f3v\u2026 [+78 chars]",
-      "retrievedAt": "2023-10-25 19:05:20.857040",
-      "internal_id": "f6aa62caf6edfd5b7333285f536db192e28becd7eb6edfe1aa3f9e14a65383c5",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2713,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Crossway.org",
-      "author": "Chris Castaldo",
-      "title": "God\u2019s Blessing Goes Deeper than Any Gift or Experience",
-      "description": "We often think of God's blessing as an achievement or an experience, but it actually goes far deeper. Chris Castaldo started learning this lesson at age nineteen in a hospital.",
-      "url": "https://www.crossway.org/articles/gods-blessing-goes-deeper-than-any-gift-or-experience/",
-      "urlToImage": "https://static.crossway.org/articles/images/Gods-Blessing-Goes-Deeper-than-Any-Gift-or-Experience.jpg",
-      "publishedAt": "2023-10-24 11:00:00",
-      "content": "Big Questions We often think of Gods blessing as an achievement or an experience, but it actually goes far deeper. I started learning this lesson at age nineteen. I had meningitis. I was in the hos\u2026 [+2606 chars]",
-      "retrievedAt": "2023-10-25 19:05:21.145087",
-      "internal_id": "41e7094fac9f2a87eedc9478218553175a911135925a884851b5afd1b06a4854",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2714,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Ocean Biomedical, Inc.",
-      "title": "Ocean Biomedical (NASDAQ: OCEA) Announces $1 Million Falk Award for Malaria Drug Candidate Addressing Evolving Resistance to Artemisinin-Based Therapeutics to Chief Scientist Dr. Jonathan Kurtis",
-      "description": "Providence, RI, Oct. 24, 2023 (GLOBE NEWSWIRE) -- Ocean Biomedical, Inc. (NASDAQ: OCEA), today announced that its Chief Scientist, Jonathan Kurtis MD, PhD has received the prestigious Falk Medical Research Trust Transformational Award to advance a new class o\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/10/24/2765418/0/en/Ocean-Biomedical-NASDAQ-OCEA-Announces-1-Million-Falk-Award-for-Malaria-Drug-Candidate-Addressing-Evolving-Resistance-to-Artemisinin-Based-Therapeutics-to-Chief-Scientist-Dr-Jonath.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/23cba9ce-1bc6-4226-9c6b-e5561047b289",
-      "publishedAt": "2023-10-24 10:30:00",
-      "content": "Providence, RI, Oct. 24, 2023 (GLOBE NEWSWIRE) -- Ocean Biomedical, Inc. (NASDAQ:OCEA), today announced that its Chief Scientist, Jonathan Kurtis MD, PhD has received the prestigious Falk Medical Res\u2026 [+8214 chars]",
-      "retrievedAt": "2023-10-25 19:05:21.526765",
-      "internal_id": "01a93351e38bc90c0144983162c5134ba825513d2058b84f68d22aa5aaaa3908",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2708,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "POLITICO.eu",
-      "author": "Ashleigh Furlong, Helen Collis",
-      "title": "WHO chief scientist warns of endemic dengue in Europe, US",
-      "description": "This will have a significant impact on Europe\u2019s health systems, top professor says.",
-      "url": "https://www.politico.eu/article/who-chief-scientist-warns-of-endemic-dengue-in-europe-us/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/10/24/GettyImages-1173055853-scaled.jpg",
-      "publishedAt": "2023-10-24 08:13:35",
-      "content": "Jeremy Farrar, the World Health Organizations chief scientist, has warned that climate change will result in the infectious disease dengue becoming endemic in parts of Europe and the United States, i\u2026 [+910 chars]",
-      "retrievedAt": "2023-10-25 19:05:20.849800",
-      "internal_id": "bb8773d1d6a9039fd6ec99b0e87f3e58778ba1fb81bd5cbe2dbba2e1832a3d8c",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2712,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "N.B. (20 Minutes)",
-      "title": "Montpellier : Deux cas de dengue signal\u00e9s dans le quartier Estanove, les premiers dans l\u2019H\u00e9rault cette ann\u00e9e",
-      "description": "L\u2019\u00e9tat de sant\u00e9 des personnes malades n\u2019inspire toutefois pas d\u2019inqui\u00e9tude",
-      "url": "https://www.20minutes.fr/faits_divers/4059208-20231024-montpellier-deux-cas-dengue-signales-quartier-estanove-premiers-herault-annee",
-      "urlToImage": "https://img.20mn.fr/ovu8fs56RAig8B3UNGIWZik/1200x768_illustration-moustique-tigre-aedes-albopictus-credit-lodi-franck-sipa-1506161743",
-      "publishedAt": "2023-10-24 08:04:26",
-      "content": "Deux cas de dengue, chez des personnes n\u2019ayant pas voyag\u00e9 r\u00e9cemment en zone tropicale, ont \u00e9t\u00e9 signal\u00e9s \u00e0 Montpellier (H\u00e9rault), rapporte l\u2019Agence r\u00e9gionale de sant\u00e9 (ARS) d\u2019Occitanie, dans un commun\u2026 [+1156 chars]",
-      "retrievedAt": "2023-10-25 19:05:20.887037",
-      "internal_id": "f90a022c0bc543b29c90788c1a2b07219a7a5afb8996242f09a79ab653a1db10",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2715,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "FRANCE 24 English",
-      "author": "Leo MCGUINN",
-      "title": "Two hostages freed by Hamas as talks break down to release 50 more",
-      "description": "IN THE PRESS \u2013 Tuesday, October 24: We take a look at press reaction to two more hostages being released by Hamas, as well as the US and EU disagreeing on the need for a ceasefire. Also, the Washington Post has a long read on the spread of malaria. Finally, t\u2026",
-      "url": "https://www.france24.com/en/tv-shows/in-the-press/20231024-two-hostages-freed-by-hamas-as-talks-break-down-to-release-50-more",
-      "urlToImage": "https://s.france24.com/media/display/008e3e22-7231-11ee-8100-005056bfb2b6/w:1280/p:16x9/ANGL231024-0721-Live_CS0721.jpg",
-      "publishedAt": "2023-10-24 08:00:44",
-      "content": "Issued on: 24/10/2023 - 10:00 IN THE PRESS Tuesday, October 24: We take a look at press reaction to two more hostages being released by Hamas, as well as the US and EU disagreeing on the need for a \u2026 [+250 chars]",
-      "retrievedAt": "2023-10-25 19:05:21.535070",
-      "internal_id": "5f7dcaaec2b2e47b1f1a0d4cfeabf620f53eb3194ce2d020e6592d5c7f495253",
       "publishedAtLabel": "Oct 24"
     }
   ]
