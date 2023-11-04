@@ -1,8 +1,694 @@
 {
-  "last_updated": "2023-11-03 07:05",
+  "last_updated": "2023-11-04 07:06",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 38,
   "articles": [
+    {
+      "id": 2905,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Erlangga Bregas P, Resinta Sulistiyandari",
+      "title": "Jakarta monkeypox cases mostly HIV positive: Official",
+      "description": "The Jakarta Health Service stated on Thursday that most active cases of monkeypox (mpox) had also tested positive for human immunodeficiency virus (HIV) and other sexually transmitted infections. \"There are 24 active ...",
+      "url": "https://en.antaranews.com/news/297816/jakarta-monkeypox-cases-mostly-hiv-positive-official",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/01/IMG_20231101_161629.jpg",
+      "publishedAt": "2023-11-03 06:20:03",
+      "content": "Jakarta (ANTARA) - The Jakarta Health Service stated on Thursday that most active cases of monkeypox (mpox) had also tested positive for human immunodeficiency virus (HIV) and other sexually transmit\u2026 [+2267 chars]",
+      "retrievedAt": "2023-11-04 07:06:21.186186",
+      "internal_id": "d75deb7b1d4ca726179beb0e79d3b1abff829588ec4c3e5be4f7ab7373defa8b",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2892,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Malaria Season - Travellers Warned to Take Precautions",
+      "description": "[SAnews.gov.za] The National Institute for Communicable Diseases (NICD) is urging people travelling to malaria-endemic areas to take the appropriate precautions this summer.",
+      "url": "https://allafrica.com/stories/202311030035.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-03 05:40:37",
+      "content": "The National Institute for Communicable Diseases (NICD) is urging people travelling to malaria-endemic areas to take the appropriate precautions this summer. Summer generally marks the start of the \u2026 [+2049 chars]",
+      "retrievedAt": "2023-11-04 07:06:19.641624",
+      "internal_id": "a90f388b683beac6a67bf9b2e016dd519f13d5648e702470944e6f7c446c6a14",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2899,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: Studie: Ursprung des Mpox-Ausbruchs liegt l\u00e4nger zur\u00fcck",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eStudie: Ursprung des Mpox-Ausbruchs liegt l\u00e4nger zur\u00fcck\u201c.",
+      "url": "https://www.zeit.de/news/2023-11/03/studie-ursprung-des-mpox-ausbruchs-liegt-laenger-zurueck",
+      "urlToImage": "https://img.zeit.de/news/2023-11/03/studie-ursprung-des-mpox-ausbruchs-liegt-laenger-zurueck-image-group/wide__1300x731",
+      "publishedAt": "2023-11-03 05:07:44",
+      "content": "Der Ursprung des internationalen Mpox-Ausbruchs (vormals Affenpocken) 2022 liegt laut einer Studie schon l\u00e4nger zur\u00fcck. Mehr Schlagzeilen Aufgrund einer markanten Ver\u00e4nderung des Musters und der H\u2026 [+3898 chars]",
+      "retrievedAt": "2023-11-04 07:06:21.159341",
+      "internal_id": "b4d918da54c4665650a36fbd56d8c0f6ec4ccf5db8c729457148e54b86a7b2a6",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2902,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Studie: Ursprung des Mpox-Ausbruchs liegt l\u00e4nger zur\u00fcck",
+      "description": "Ein Ausbruch von Mpox \u00fcberraschte voriges Jahr nicht nur Deutschland, damals noch unter dem Namen Affenpocken. Um die Vorgeschichte zu verstehen, haben Forschende Gen-Ver\u00e4nderungen des Erregers untersucht.",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--studie--ursprung-des-mpox-ausbruchs-liegt-laenger-zurueck--33966180.html",
+      "urlToImage": "https://image.stern.de/33966182/t/3L/v1/w1440/r1.7778/-/03--urnnewsmldpacom2009010123110399805895v2w800h600l522t449r1570b1351jpeg---a547fb1bbe59b575.jpg",
+      "publishedAt": "2023-11-03 05:07:44",
+      "content": "Ein Ausbruch von Mpox \u00fcberraschte voriges Jahr nicht nur Deutschland, damals noch unter dem Namen Affenpocken. Um die Vorgeschichte zu verstehen, haben Forschende Gen-Ver\u00e4nderungen des Erregers unter\u2026 [+3205 chars]",
+      "retrievedAt": "2023-11-04 07:06:21.173706",
+      "internal_id": "b7abc5783790ea9215aca973df29a1369014e0b5df232fcd1e80f8fb00f12762",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2893,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Angeline Ochieng",
+      "title": "New injectable medication for treating severe malaria unveiled",
+      "description": "New injectable medication for treating severe malaria unveilednation.africa",
+      "url": "https://nation.africa/kenya/health/new-injectable-medication-for-treating-severe-malaria-unveiled-4418318",
+      "urlToImage": "https://nation.africa/resource/image/4418320/landscape_ratio3x2/1200/800/f41d4e51bdd1076e57dd886a1c2a8d8c/hh/drug.jpg",
+      "publishedAt": "2023-11-03 04:05:09",
+      "content": "The fight against malaria in Kisumu County has received a major boost after the devolved unit rolled out a new drug, Argesun, for treatment of the parasitic disease. Argesun, an injectable drug, wi\u2026 [+3029 chars]",
+      "retrievedAt": "2023-11-04 07:06:19.649119",
+      "internal_id": "2215719e4acc2769df0a6a41c2e9100e6cb4276cf641fa6d8710a81350c0e7d9",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2885,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Maeve Lawler",
+      "title": "Annual 5k race raises more than $1.5 million in memory of Northeastern\u2019s Ryan Shaw",
+      "description": "Ryan Shaw, who died from bacterial meningitis in 2016 after his freshman year at Northeastern, will be remembered Saturday at the 7th annual memorial 5k race in Brighton.",
+      "url": "https://www.bostonglobe.com/2023/11/03/metro/annual-5k-race-raises-more-than-15-million-memory-northeasterns-ryan-shaw/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/FKVopYcq8U2Fg5YtLHHnQF7TbzY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/ZKPIOAPI4FCL5E2OKOBBFJEVRI.jpg",
+      "publishedAt": "2023-11-03 04:04:54",
+      "content": "On Saturday, his family, fraternity brothers and friends will lace up for the seventh annual race. Around 800 participants are expected for the race that begins at noon at Artesani Park on Soldiers F\u2026 [+1990 chars]",
+      "retrievedAt": "2023-11-04 07:06:18.995942",
+      "internal_id": "9804eb8f3d9a4166e929f305ee229c7bdda1a082a19337a77bbd3e643e611d31",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2889,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Dirisu Yakubu",
+      "title": "Reps ask FG to subsidise malaria drugs",
+      "description": "The House of Representatives, on Thursday, said declaring a state of emergency on malaria could be a step in the right direction given the spate of the bacterial disease across the country. To this end, the House called on the Federal Government to subsidise \u2026",
+      "url": "https://punchng.com/reps-ask-fg-to-subsidise-malaria-drugs/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/09/13111036/malaria-vac-750x450.gif",
+      "publishedAt": "2023-11-03 02:10:30",
+      "content": "The House of Representatives, on Thursday, said declaring a state of emergency on malaria could be a step in the right direction given the spate of the bacterial disease across the country. To this \u2026 [+1670 chars]",
+      "retrievedAt": "2023-11-04 07:06:19.626720",
+      "internal_id": "36d3047742d09ea1e5db72f761d74163f8df17a837e3a559f0b0caaad9b9f372",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2897,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Ranganath Krishnaswamy",
+      "title": "Karnataka on high alert after Zika virus found in mosquito sample",
+      "description": "Karnataka is on high alert after the Zika virus was found in a mosquito sample collected from Chikkaballapur district. This is the first time the virus has been detected in the state. Precautionary measures have been advised as thousands of people travel dail\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/ktaka-on-high-alert-after-zika-virus-found-in-mosquito-sample/articleshow/104928791.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104928797,width-1070,height-580,imgsize-838599,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-03 01:33:23",
+      "content": "10 superfoods to turn white hair into black naturally",
+      "retrievedAt": "2023-11-04 07:06:20.303199",
+      "internal_id": "1a7188a2b1e721802495a969bdb3fe298eab73b808d92327495c33a74e670b16",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2880,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "California officials confirm 2 cases of dengue, a mosquito-borne illness rarely transmitted in US",
+      "description": "Public health officials say two people in Southern California people have come down with dengue fever without traveling outside the United States, where the mosquito-borne illness is rare",
+      "url": "https://abcnews.go.com/Health/wireStory/california-officials-confirm-2-cases-dengue-mosquito-borne-104592483",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-11-03 01:18:08",
+      "content": "LONG BEACH, Calif. -- Two people in Southern California have come down with dengue fever without traveling outside the United States, where the mosquito-borne illness is rare, health officials said. \u2026 [+1607 chars]",
+      "retrievedAt": "2023-11-04 07:06:18.341337",
+      "internal_id": "846a2a369825eb8bd5f8dd56a07e2037ecb6cf8aab803b14974b2ff112d3ed2c",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2873,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dejanay Booth-singleton",
+      "title": "Michigan health officials confirm dog taken to Oakland County vet tested positive for rabies",
+      "description": "Michigan health officials confirm dog taken to Oakland County vet tested positive for rabiescbsnews.com",
+      "url": "https://www.cbsnews.com/detroit/news/michigan-confirms-first-canine-rabies-case-in-oakland-county/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/02/c457f6ae-0ad9-4120-8a3a-3bce0562605c/thumbnail/1200x630/ef311190b24df530cc62bdf3254f261d/gettyimages-937894748.jpg?v=c81a9d6c51e6280f2f4f876031d7d9bc",
+      "publishedAt": "2023-11-03 00:07:13",
+      "content": "(CBS DETROIT) - A dog that was found in Detroit and taken to a veterinary hospital in Farmington Hills has tested positive for rabies, according to the Michigan Department of Health and Human Service\u2026 [+1832 chars]",
+      "retrievedAt": "2023-11-04 07:06:17.127718",
+      "internal_id": "bd61c3806e6f5a2109d7ef0181dd1e79c376eab5dc4926d2c03283b0c0c9251d",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2868,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "ciabatti@mrc-lmb.cam.ac.uk (Ana Gonz\u00e1lez-Rueda), ciabatti@mrc-lmb.cam.ac.uk (Daniel de Malmazet), ciabatti@mrc-lmb.cam.ac.uk (Ernesto Ciabatti), ciabatti@mrc-lmb.cam.ac.uk (Fabio Morgese), ciabatti@mrc-lmb.cam.ac.uk (Hassal Lee), ciabatti@mrc-lmb.cam.ac.uk (Marco Tripodi)",
+      "title": "Genomic stability of self-inactivating rabies",
+      "description": "Transsynaptic viral vectors provide means to gain genetic access to neurons based on synaptic connectivity and are essential tools for the dissection of neural circuit function. Among them, the retrograde monosynaptic \u0394G-Rabies has been widely used in neurosc\u2026",
+      "url": "https://elifesciences.org/articles/83459",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2023-11-03 00:00:00",
+      "content": "Genetics and GenomicsNeuroscience The Maillard reaction, a chemical reaction between amino acids and sugars, is exploited to produce flavorful food ubiquitously, from the \u2026 [+1691 chars]",
+      "retrievedAt": "2023-11-04 07:06:17.100012",
+      "internal_id": "e1f8c56283b81e9828a4ac693d6c5f5bf572a75e741a56302ccd9ca5c09d6229",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2894,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Ranganath Krishnaswamy and Mini Thomas",
+      "title": "Zika found in Karnataka, state on high alert",
+      "description": "India News: CHIKKABALLAPUR/BENGALURU: Karnataka is on high alert after Zika virus was detected in a mosquito sample collected from Talakayalabetta village in Sidl.",
+      "url": "https://timesofindia.indiatimes.com/india/zika-found-in-karnataka-state-on-high-alert/articleshow/104928193.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-02 23:24:30",
+      "content": "10 superfoods to turn white hair into black naturally",
+      "retrievedAt": "2023-11-04 07:06:20.286076",
+      "internal_id": "8308bf8f407012f63daa4a917a50f12759afa75858e4639ec19de7be7364230d",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2903,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "Mpox, formerly Monkeypox, circulated for 5 years before global explosion in 2022: Study",
+      "description": "Scientists have discovered that the disease formerly known as monkeypox, now renamed mpox, had been circulating in humans for over five years before the global outbreak in 2022. The virus acquired an unexpectedly high number of mutations, indicating that the \u2026",
+      "url": "https://timesofindia.indiatimes.com/home/science/mpox-formerly-monkeypox-circulated-for-5-years-before-global-explosion-in-2022-study/articleshow/104926334.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104926474,width-1070,height-580,imgsize-970665,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-02 22:20:51",
+      "content": "News Mpox, formerly Monkeypox, circulated for 5 years before global explosion in 2022: Study Scientists have discovered that the disease formerly known as monkeypox, now \u2026 [+504 chars]",
+      "retrievedAt": "2023-11-04 07:06:21.176644",
+      "internal_id": "7c8ae18f8a032fb23bfb711af5a3848c2b183495301c15d6d842abf245908e91",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2900,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Carly Cassella",
+      "title": "'Sustained Human Transmission' of Mpox Has Been Happening Longer Than We Realised",
+      "description": "The monkeypox virus has been jumping from human to human since at least 2016, according to the work of an international team of scientists.",
+      "url": "https://www.sciencealert.com/sustained-human-transmission-of-mpox-has-been-happening-longer-than-we-realised",
+      "urlToImage": "https://www.sciencealert.com/images/2023/10/MonkeypoxLesions.jpg",
+      "publishedAt": "2023-11-02 22:00:54",
+      "content": "The monkeypoxvirus has been jumping from human to human since at least 2016, according to the work of an international team of scientists. Monkeypox (mpox) causes similar symptoms to smallpox, inclu\u2026 [+3183 chars]",
+      "retrievedAt": "2023-11-04 07:06:21.164551",
+      "internal_id": "e10018b4731d9a93ad3020d578da65108dec81183dcc99665fefee4172a6d73f",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2881,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thehillstimes.in",
+      "author": "The Hills Times",
+      "title": "I Am Still Not Fully Fit, Four Kilos Down After Dengue: Shubman Gill",
+      "description": "Mumbai, Nov 2 (PTI) After crafting a run-a-ball 92 against Sri Lanka, Indian opener Shubman Gill on Thursday said he has not yet regained full fitness after a bout dengue which forced him to sit out of first two World Cup matches. Gill\u2019s knock along with fift\u2026",
+      "url": "https://thehillstimes.in/sports/i-am-still-not-fully-fit-four-kilos-down-after-dengue-shubman-gill",
+      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/11/2.webp",
+      "publishedAt": "2023-11-02 21:40:19",
+      "content": "Mumbai, Nov 2 (PTI) After crafting a run-a-ball 92 against Sri Lanka, Indian opener Shubman Gill on Thursday said he has not yet regained full fitness after a bout dengue which forced him to sit out \u2026 [+2233 chars]",
+      "retrievedAt": "2023-11-04 07:06:18.347709",
+      "internal_id": "c31d2922304904401f4cefcfe85ec226e47de5b9bc36e6cd0df861f4ec8b38d7",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2874,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "collectSPACE.com",
+      "author": "robert@collectspace.com (Robert Z. Pearlman)",
+      "title": "Astronaut Ken Mattingly, who launched to the moon on Apollo 16, dies at 87",
+      "description": "For the record, Ken Mattingly never did get the German measles. The former NASA astronaut, who in 1970 was pulled from the Apollo 13 crew, died on Tuesday (Oct. 31) at the age of 87.",
+      "url": "http://www.collectspace.com/news/news-110223a-thomas-ken-tk-mattingly-nasa-astronaut-obituary.html",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mwD6N4T6tSTcUt5SL9mqvX-1200-80.jpg",
+      "publishedAt": "2023-11-02 21:38:17",
+      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site. \u00a9 Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.",
+      "retrievedAt": "2023-11-04 07:06:17.680393",
+      "internal_id": "4fb10c6eec6d0d1704fd2a1e84700cc76961a7517f63e765605588e5e857b0d8",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2871,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WXYZ",
+      "author": null,
+      "title": "Dog brought to vet in Farmington Hills tests positive for rabies",
+      "description": "A dog that was found in Detroit and then brought to a vet clinic in Farmington Hills has tested positive for rabies, Oakland County officials confirm.",
+      "url": "https://www.wxyz.com/news/dog-brought-to-vet-in-farmington-hills-tests-positive-for-rabies",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/91d1a66/2147483647/strip/true/crop/797x418+0+125/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Faa%2Fd2%2F793af8af439f85f800b950b14504%2Flogo.png",
+      "publishedAt": "2023-11-02 20:56:07",
+      "content": "(WXYZ) A dog that was found in Detroit and then brought to a vet clinic in Farmington Hills has tested positive for rabies, Oakland County officials confirm. According to the county, this is the fir\u2026 [+2030 chars]",
+      "retrievedAt": "2023-11-04 07:06:17.122312",
+      "internal_id": "5aec0803765ff8cb04aa0833bd12b2931a0af537acd2433b89af079efb3f0c3e",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2904,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Maria Isopescu",
+      "title": "Mpox sau virusul variolei maimu\u021bei a circulat \u00eentre oameni timp de 5 ani p\u00e2n\u0103 la explozia f\u0103r\u0103 precedent din 2022",
+      "description": "Mpox a circulat timp de cinci ani \u00eenainte de explozia global\u0103 din 2022, arat\u0103 cercet\u0103rile. Descoperirea transmiterii ascunse a bolii cunoscute anterior ca variola maimu\u021belor a generat apeluri pentru o supraveghere \u00eembun\u0103t\u0103\u021bit\u0103 a virusului MPXV, transmite The \u2026",
+      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/mpox-sau-virusul-variolei-maimutei-a-circulat-intre-oameni-timp-de-5-ani-pana-la-explozia-fara-precedent-din-2022-2565867",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMSUyRjAyJTJGMTgzMTY4Nl8xODMx/Njg2X3ZhcmlvbGEtbWFpbXV0ZWkuanBn/Jnc9MTIwMCZoPTYzMCZ6Yz0xJmhhc2g9/Mzc4ZjI1ODUyMDQ4YzM0NTEwYWMwZWM2NzE4MDM3ZmE=.thumb.jpg",
+      "publishedAt": "2023-11-02 20:04:11",
+      "content": "Mpox a circulat timp de cinci ani \u00eenainte de explozia global din 2022, arat cercetrile. Descoperirea transmiterii ascunse a bolii cunoscute anterior ca variola maimuelor a generat apeluri pentru o su\u2026 [+3612 chars]",
+      "retrievedAt": "2023-11-04 07:06:21.179732",
+      "internal_id": "00fb98bdd11b07811070440f54a92305187457b345f4b80fbe717c125ef3c71d",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2872,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Fox17",
+      "author": "Fox 17 News",
+      "title": "State health department confirms rabies in dog taken to Oakland Co. vet",
+      "description": "The state health department confirmed the case in a dog taken to a Farmington Hills veterinarian, according to the Oakland County government.",
+      "url": "https://www.fox17online.com/news/local-news/michigan/state-health-department-confirms-rabies-in-dog-taken-to-oakland-co-vet",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/47243c2/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediaassets.news5cleveland.com%2Fphoto%2F2018%2F06%2F05%2Fdog%20generic_1528215195406.jpg_88886251_ver1.0_640_480.jpg",
+      "publishedAt": "2023-11-02 19:26:37",
+      "content": "PONTIAC, Mich. An Oakland County dog has tested positive for rabies. The state health department confirmed the case in a dog taken to a Farmington Hills veterinarian last week, according to the Oakl\u2026 [+1492 chars]",
+      "retrievedAt": "2023-11-04 07:06:17.125184",
+      "internal_id": "742e4827f863f4e31ea22086d422811764d9cbdc68ae6ba156d3bdec1f779801",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2870,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "FOX 2 Detroit",
+      "author": "Fox 2 Detroit",
+      "title": "Rabies found in stray dog brought to Farmington Hills clinic from Detroit",
+      "description": "It's the first case of rabies in a dog that animal control employees in Oakland County can remember.",
+      "url": "https://www.fox2detroit.com/news/rabies-found-in-stray-dog-brought-to-farmington-hills-clinic-from-detroit",
+      "urlToImage": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2023/11/1280/720/Dog-getty.jpg?ve=1&tl=1",
+      "publishedAt": "2023-11-02 18:44:09",
+      "content": "PONTIAC, Mich. (FOX 2) - A dog found wandering in Detroit before being brought to a vet in Farmington Hills has tested positive for rabies. The Oakland County Animal Control was notified by the sta\u2026 [+1192 chars]",
+      "retrievedAt": "2023-11-04 07:06:17.118339",
+      "internal_id": "a3a969ce11406f682d20690cfda07b15c9d4ba9997f98c0197cceee3ec4c5e67",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2888,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Dirisu Yakubu",
+      "title": "Reps want FG to subsidise malaria drugs",
+      "description": "I am concerned by the havoc malaria is wrecking on our populace and we are going to push and advocate that malaria drugs be subsidised if not made free at all government health centres. It is no rocket science that most Nigerians are affected by malaria and y\u2026",
+      "url": "https://punchng.com/reps-want-fg-to-subsidise-malaria-drugs/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/06/07145506/01-reps-2-e1686146106154.jpg",
+      "publishedAt": "2023-11-02 17:45:05",
+      "content": "The House of Representatives on Thursday said declaring a state of emergency on malaria could be a step in the right direction given the spate of the protozoan disease across the country. To this ex\u2026 [+3199 chars]",
+      "retrievedAt": "2023-11-04 07:06:19.624104",
+      "internal_id": "d2b4001f14161c40aa21a21071aee244344ed12e475fa89bac20d8352f39f206",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2875,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Erratum: Vol. 72, No. 42",
+      "description": "Erratum for MMWR Vol 72, No. 42",
+      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7244a4.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/weekly_logo_1200x627.jpg?_=65468",
+      "publishedAt": "2023-11-02 17:06:18",
+      "content": "In the report, \u201cProgress Toward Measles and Rubella Elimination \u2014 Indonesia, 2013\u20132022,\u201d on page 1135, the last sentence of the Methods section should have read, \u201cThis activity was reviewed by CDC, d\u2026 [+1389 chars]",
+      "retrievedAt": "2023-11-04 07:06:17.683763",
+      "internal_id": "c814356c1b5b58810719833ac0525745f80a976a263bd815d4f2e651d24c3e37",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2890,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Zambia mounts fight against malaria",
+      "description": "LUSAKA, Nov. 2 (Xinhua) -- Zambia on Thursday launched a campaign to distribute 11.5 million insecticide-treated bed nets, which is expected to protect about 19 million people against malaria. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2023/11/03/zambia-mounts-fight-against-malaria",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-11-02 17:01:00",
+      "content": "LUSAKA, Nov. 2 (Xinhua) -- Zambia on Thursday launched a campaign to distribute 11.5 million insecticide-treated bed nets, which is expected to protect about 19 million people against malaria. Mini\u2026 [+1106 chars]",
+      "retrievedAt": "2023-11-04 07:06:19.633136",
+      "internal_id": "929181f3fc96bd21b5fe0c84ba696a43144649d63c3b5bd65c59f6d9b4a64131",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2883,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "I am still not fully fit, four kilos down after dengue: Shubman Gill",
+      "description": "Indian opener Shubman Gill, after scoring 92 runs against Sri Lanka, revealed that he has not fully recovered from dengue, which caused him to miss the first two World Cup matches. Despite his health concerns, Gill's innings, along with fifties from Virat Koh\u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/i-am-still-not-fully-fit-four-kilos-down-after-dengue-shubman-gill/articleshow/104923764.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104923778,width-1200,height-630,imgsize-110792,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-11-02 16:25:26",
+      "content": "After crafting a run-a-ball 92 against Sri Lanka, Indian opener Shubman Gill on Thursday said he has not yet regained full fitness after a bout dengue which forced him to sit out of first two World C\u2026 [+2238 chars]",
+      "retrievedAt": "2023-11-04 07:06:18.356373",
+      "internal_id": "4fea238bea1cefab26212f133aeb978a56fb5e82833655e10272946f64463e05",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2882,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Deutsche Welle Wissenschaft/Umwelt",
+      "title": "Wissenschaft - Modifizierte M\u00fccken aus dem Labor reduzieren Dengue-F\u00e4lle",
+      "description": "Weltweit gibt es bis zu 100 Millionen F\u00e4lle von Dengue jedes Jahr, 22.000 Menschen sterben daran. Forschende haben jetzt m\u00f6glicherweise einen Weg gefunden, um diese Zahlen deutlich zu senken.",
+      "url": "https://www.focus.de/gesundheit/rueckgang-um-bis-zu-97-prozent-experimente-zeigen-wirkung-labor-muecken-koennten-toedliches-dengue-fieber-bekaempfen_id_237623362.html",
+      "urlToImage": "https://p6.focus.de/img/wissen/natur/id_237623351/die-aedes-aegypti-muecke-ist-an-ihren-gepunkteten-beinen-zu-erkennen.jpg?im=Crop%3D%280%2C29%2C940%2C470%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=1d3b8113cdfdc866e3ccd07769f254651a26b0582fc4367a0ebbf4688a77e137",
+      "publishedAt": "2023-11-02 15:55:05",
+      "content": " Kommentare E-Mail Teilen Mehr Twitter Drucken Feedback Fehler meldenSie haben einen Fehler gefunden? Bitte markieren S\u2026 [+6213 chars]",
+      "retrievedAt": "2023-11-04 07:06:18.351287",
+      "internal_id": "8db45edd1db9ec816771a6104d1d7c340d40f353b969409c0ad3637b4feab34a",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2877,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Clare Roth",
+      "title": "Modifizierte M\u00fccken aus dem Labor reduzieren Dengue-F\u00e4lle",
+      "description": "Weltweit gibt es bis zu 100 Millionen F\u00e4lle von Dengue jedes Jahr, 22.000 Menschen sterben daran. Forschende haben jetzt m\u00f6glicherweise einen Weg gefunden, um diese Zahlen deutlich zu senken. In drei St\u00e4dten im kolumbianischen Aburra-Tal sind die Infektionen \u2026",
+      "url": "https://www.dw.com/de/modifizierte-m%C3%BCcken-aus-dem-labor-reduzieren-dengue-f%C3%A4lle/a-67284899",
+      "urlToImage": "https://static.dw.com/image/66697248_6.jpg",
+      "publishedAt": "2023-11-02 15:44:00",
+      "content": "In drei St\u00e4dten im kolumbianischen Aburra-Tal sind die Infektionen mit Dengue-Fieber um 97 Prozent zur\u00fcckgegangen. Das k\u00f6nnte mit Stechm\u00fccken zu tun haben, die mit Wolbachia-Bakterien infiziert wurde\u2026 [+5394 chars]",
+      "retrievedAt": "2023-11-04 07:06:18.328024",
+      "internal_id": "bd8a18c106933672ee7d78d70c9cfe5123063b0f74ac0916369fad10feb5a2e1",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2895,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Don't panic, says Karnataka govt as Zika virus detected in Chikkaballapura dist",
+      "description": "The Karnataka Health Department has issued an advisory in response to the detection of the Zika virus in a mosquito species in Chikkaballapura district. The advisory emphasizes that there is no need for undue panic. Instead, it urges people to seek medical at\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/dont-panic-says-karnataka-govt-as-zika-virus-detected-in-chikkaballapura-dist/articleshow/104921770.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104921831,width-1200,height-630,imgsize-8040,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-11-02 14:20:55",
+      "content": "Bengaluru: In view of Zika virus detected in a mosquito species in Chikkaballapura district, the Karnataka Health Department on Thursday issued an advisory urging people not to panic unnecessarily an\u2026 [+3759 chars]",
+      "retrievedAt": "2023-11-04 07:06:20.292525",
+      "internal_id": "54f25215e4fbfa4c5080bb6c066ff64ae445380648b95d969e18e13e2c2a7365",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2891,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Olana Yadate Hunde, Haimanot Ewnetu Hailu, Jimmawork Wondimu, Belachew Dinku, Wegene Ewnetu",
+      "title": "Assessment of long-lasting insecticide nets coverage, utilization, and associated factors among households in malaria elimination districts of Arsi Zone, Oromia Region, Ethiopia: A cross-sectional study",
+      "description": "Background Malaria is a major global public health problem, with a particular burden of disease in sub-Saharan Africa including Ethiopia. Access to Long Lasting Insecticide Nets (LLINs) for at-risk populations, ensuring its appropriate utilization and identif\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293728",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0293728.g001&size=inline",
+      "publishedAt": "2023-11-02 14:00:00",
+      "content": "Abstract Background Malaria is a major global public health problem, with a particular burden of disease in sub-Saharan Africa including Ethiopia. Access to Long Lasting Insecticide Nets (LLINs) fo\u2026 [+28311 chars]",
+      "retrievedAt": "2023-11-04 07:06:19.638710",
+      "internal_id": "522c7690d6bacfd820d3854b808ea6f063dd2ce0c606bbfa75357da8b78299ca",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2884,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Juan Rodr\u00edguez de Rivera",
+      "title": "Alerta en Catalu\u00f1a tras detectarse dos nuevos casos aut\u00f3ctonos de dengue",
+      "description": "Los dos casos, notificados en octubre y confirmados ahora, se transmitieron de manera aut\u00f3ctona, lo que ha puesto en guardia a las autoridades.",
+      "url": "https://www.elespanol.com/ciencia/salud/20231102/alerta-cataluna-detectarse-nuevos-casos-autoctonos-dengue/806669559_0.html",
+      "urlToImage": "https://s1.eestatic.com/2020/09/01/ciencia/medio-ambiente/enfermedades-malaria-dengue_517459580_237288814_1200x630.jpg",
+      "publishedAt": "2023-11-02 13:00:54",
+      "content": "Dos nuevos casos de dengue han sido confirmados en Catalu\u00f1a, despu\u00e9s de que el pasado mes de agosto ya se hubiera detectado uno. Lo que m\u00e1s preocupa a los expertos es que la transmisi\u00f3n se ha produci\u2026 [+2533 chars]",
+      "retrievedAt": "2023-11-04 07:06:18.365340",
+      "internal_id": "42fe68bc97d1adae287e2fbc2ade60258157e0b7a8f65a90a58c204bb31cc7bc",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2876,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "EFE",
+      "title": "Detectan otros dos casos de dengue aut\u00f3ctono en la comarca del Maresme (Barcelona)",
+      "description": "La Agencia de Salud P\u00fablica de Catalu\u00f1a ha confirmado dos casos m\u00e1s de dengue de transmisi\u00f3n aut\u00f3ctona este mes de octubre en la comarca del Maresme (Barcelona), que se suman...",
+      "url": "https://www.elmundo.es/cataluna/2023/11/02/65438bf8fdddff39258b458e.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/5edaa3f9db25cce7e29975920717336b/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2023/11/02/16989259713643.jpg",
+      "publishedAt": "2023-11-02 11:54:56",
+      "content": "La Agencia de Salud P\u00fablica de Catalu\u00f1a ha confirmado dos casos m\u00e1s de dengue de transmisi\u00f3n aut\u00f3ctona este mes de octubre en la comarca del Maresme (Barcelona), que se suman al primero, detectado en\u2026 [+2241 chars]",
+      "retrievedAt": "2023-11-04 07:06:18.322614",
+      "internal_id": "7b8e1af4c4cb9306f049037085770c3a73583dcef282019fa78fcbe0f7b08a9e",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2901,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i",
+      "title": "Mpox. Portugal regista mais de 40 casos num m\u00eas",
+      "description": "Em m\u00e9dia, t\u00eam sido registados \u201c10 novos casos por semana nas \u00faltimas semanas\u201d. &etilde;",
+      "url": "https://ionline.sapo.pt/artigo/807928/mpox-portugal-regista-mais-de-40-casos-num-m-s?seccao=Portugal_i",
+      "urlToImage": "https://cdn1.newsplex.pt/media/2023/11/2/fb/860839.jpg",
+      "publishedAt": "2023-11-02 11:36:36",
+      "content": "Foram registados mais 43 casos de mpox em Portugal s\u00f3 no m\u00eas de outubro, segundo dados da Dire\u00e7\u00e3o-Geral da Sa\u00fade. O novo balan\u00e7o d\u00e1 conta de um total de 1.134 casos do v\u00edrus, desde o in\u00edcio de maio \u2026 [+711 chars]",
+      "retrievedAt": "2023-11-04 07:06:21.170910",
+      "internal_id": "4922965b13fb985418b6d4072f4da210e0ae8f0e583dd6dcef39fe860d9e87d8",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2878,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Catalu\u00f1a detecta dos casos aut\u00f3ctonos de dengue en Malgrat de Mar",
+      "description": "La Agencia de Salud P\u00fablica de Catalu\u00f1a (AspCat) ha notificado dos casos aut\u00f3ctonos de dengue en la localidad barcelonesa de Malgrat de Mar, en la comarca del Maresme. Seg\u00fan informa en un comunicado el organismo, que depende de la Consejer\u00eda de Salud, el prim\u2026",
+      "url": "https://www.abc.es/sociedad/cataluna-detecta-dos-casos-autoctonos-dengue-malgrat-20231102120116-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2023/11/02/DENGUE-U42812573351alc-1024x512@abc.jpg",
+      "publishedAt": "2023-11-02 11:01:25",
+      "content": "La Agencia de Salud P\u00fablica de Catalu\u00f1a (AspCat) ha notificado dos casos aut\u00f3ctonos de dengue en la localidad barcelonesa de Malgrat de Mar, en la comarca del Maresme. Seg\u00fan informa en un comunicado \u2026 [+2160 chars]",
+      "retrievedAt": "2023-11-04 07:06:18.334160",
+      "internal_id": "edf0a5f905dbacb7a00f9b2b4ea1f449a493d14195bedb310f6f1c67a6820243",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2879,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Comienzan a fumigar contra dengue, zika y chikungunya",
+      "description": "Con la finalidad de prevenir enfermedades transmitidas por mosquitos, como dengue, zika y chikungunya, las brigadas de salud que se encuentran en Acapulco, Guerrero, realizan fumigaciones, con las que se eliminan criaderos de los insectos.",
+      "url": "https://www.jornada.com.mx/2023/11/02/politica/006n4pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-11-02 10:42:20",
+      "content": "Peri\u00f3dico La JornadaJueves 2 de noviembre de 2023, p. 6 Con la finalidad de prevenir enfermedades transmitidas por mosquitos, como dengue, zika y chikungunya, las brigadas de salud que se encuentran\u2026 [+1960 chars]",
+      "retrievedAt": "2023-11-04 07:06:18.337757",
+      "internal_id": "8cd5ff5bfacc17e3aab176801c16b687f1ac5c5710dfe8aa22aa7631eeddee8c",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2886,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Demandan justicia familias de las v\u00edctimas de meningitis en Durango",
+      "description": "Durango, Dgo., Familiares de personas que fallecieron por meningitis mic\u00f3tica y otras que a\u00fan padecen las secuelas de la enfermedad marcharon la tarde de ayer en la capital del estado para exigir justicia a las autoridades al cumplirse un a\u00f1o del inicio de la\u2026",
+      "url": "https://www.jornada.com.mx/2023/11/02/estados/034n1est",
+      "urlToImage": "https://www.jornada.com.mx/2023/11/02/fotos/034n1est-1.jpg",
+      "publishedAt": "2023-11-02 10:42:20",
+      "content": "Peri\u00f3dico La JornadaJueves 2 de noviembre de 2023, p. 34 Durango, Dgo., Familiares de personas que fallecieron por meningitis mic\u00f3tica y otras que a\u00fan padecen las secuelas de la enfermedad marcharon\u2026 [+4758 chars]",
+      "retrievedAt": "2023-11-04 07:06:19.000257",
+      "internal_id": "c5df92aafeebeb73e9f52d72270d55c57dc9d3bde4824fc9ad4496ec5e860d42",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2896,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Zika virus detected in mosquito species in Karnataka's Chikkaballapura district",
+      "description": "Health awareness is being created; people have been made to understand the importance of maintaining cleanliness and hygiene in and around houses. Mosquito fogging is being done near the area where the Zika virus was detected and the revenue department has al\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/zika-virus-detected-in-mosquito-species-in-karnatakas-chikkaballapura-district/articleshow/104915158.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-104915240,width-1200,height-630,imgsize-8040,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-11-02 10:26:10",
+      "content": "Zika virus has been detected in a mosquito species in Chikkaballapura district of Karnataka following which blood samples of people with high fever have been sent to the National Institute of Virolog\u2026 [+3560 chars]",
+      "retrievedAt": "2023-11-04 07:06:20.296298",
+      "internal_id": "049684d60387d88b3ec5cc96d33741a4f3f4f31695fd38fc52472289aca008f3",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2869,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lse.ac.uk",
+      "author": null,
+      "title": "Cost-effectiveness of One Health interventions for rabies elimination: a systematic review",
+      "description": "Nujum, Zinia t, Asaria, Miqdad ORCID: 0000-0002-3538-4417 , Kurup, Karishma krishna, Mini, Malathi, Mazumdar, Sumit, Daptardar, Monal and Tiwari, Harish (2023) Cost-effectiveness of One Health interventions for rabies elimination: a systematic review. Transac\u2026",
+      "url": "http://eprints.lse.ac.uk/120620/",
+      "urlToImage": null,
+      "publishedAt": "2023-11-02 09:54:13",
+      "content": "Nujum, Zinia t, Asaria, MiqdadORCID: 0000-0002-3538-4417, Kurup, Karishma krishna, Mini, Malathi, Mazumdar, Sumit, Daptardar, Monal and Tiwari, Harish (2023) Cost-effectiveness of One Health inter\u2026 [+1450 chars]",
+      "retrievedAt": "2023-11-04 07:06:17.111550",
+      "internal_id": "7d0d1031777672ac2a980632c26ebcaddb1716a3975b436f8838a74031dcfa30",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2898,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Mini Thomas",
+      "title": "Karnataka health department on high alert mode after Zika virus detected in Chikkaballapur",
+      "description": "The virus was found in a sample taken from Talakayalabetta village in Sidlaghatta Taluk.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-health-department-on-high-alert-mode-after-zika-virus-detected-in-chikkaballapur/articleshow/104912886.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-104912901,width-1070,height-580,imgsize-21694,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-02 09:17:53",
+      "content": "Ranked! Worlds most loved landmarks; Taj Mahal secures 2nd spot",
+      "retrievedAt": "2023-11-04 07:06:20.306205",
+      "internal_id": "1836c2c8e7953173333cf2eb6c01f26e57dbb0f55f41d9b45e69495ed07b55aa",
+      "publishedAtLabel": "Nov 2"
+    },
+    {
+      "id": 2887,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Anne van Kessel",
+      "title": "Een nieuwe mug uit Azi\u00eb brengt malaria naar de steden van Oost-Afrika",
+      "description": "Infectieziekte: Alsof het malariaprobleem in Afrika nog niet groot genoeg is: een stadse mug uit Azi\u00eb maakt het nog erger. Insecticiden werken nauwelijks, sneltesten falen en resistentie tegen geneesmiddelen ligt op de loer.",
+      "url": "https://www.nrc.nl/nieuws/2023/11/02/nieuwe-mug-brengt-malaria-naar-de-stad-a4179354",
+      "urlToImage": "https://images.nrc.nl/NcZzUtRyJEX9zQDwpJJCsN11nHE=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data107436575-0476ab.jpg",
+      "publishedAt": "2023-11-02 09:03:45",
+      "content": "Toen de studentenkliniek van de Dire Dawa universiteit in Ethiopi\u00eb in maart vorig jaar begon vol te stromen met koortsige pati\u00ebnten, duurde het niet lang voordat moleculair bioloog Fitsum Tadesse van\u2026 [+9437 chars]",
+      "retrievedAt": "2023-11-04 07:06:19.621527",
+      "internal_id": "69b154192cdbdbb40216c3a14a0c082b07592d8a05caec7eaf8835a05e863fb3",
+      "publishedAtLabel": "Nov 2"
+    },
     {
       "id": 2861,
       "query": [
@@ -2936,696 +3622,6 @@
       "retrievedAt": "2023-10-25 19:05:21.535070",
       "internal_id": "5f7dcaaec2b2e47b1f1a0d4cfeabf620f53eb3194ce2d020e6592d5c7f495253",
       "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2711,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "Health Services in Disarray - Thousands of Children Will Die By the End of This Year, Say Unicef, WHO",
-      "description": "[Dabanga] Khartoum / El Gedaref / En Nahud -- The Coalition of Civilian Forces in Eastern Sudan has condemned the way the de facto military authorities are dealing with a worsening cholera epidemic, as well as malaria and dengue fever in El Gedaref state. UNI\u2026",
-      "url": "https://allafrica.com/stories/202310240073.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-24 07:22:05",
-      "content": "Khartoum / El Gedaref / En Nahud \u2014 The Coalition of Civilian Forces in Eastern Sudan has condemned the way the de facto military authorities are dealing with a worsening cholera epidemic, as well as \u2026 [+5255 chars]",
-      "retrievedAt": "2023-10-25 19:05:20.870596",
-      "internal_id": "7096ea1bf6da6a67b7750e4d6814bd5959b932de81d7a46b07716ae14989d2ad",
-      "publishedAtLabel": "Oct 24"
-    },
-    {
-      "id": 2700,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Hipertextual",
-      "author": "Juan Carlos Figueroa",
-      "title": "Avanza con \u00e9xito la prueba de la primera pastilla contra el dengue",
-      "description": "Una prometedora pastilla contra el dengue ha demostrado ser efectivo sobre un grupo de pacientes. El f\u00e1rmaco es desarrollado por el laboratorio Johnson & Johnson. \u00abEs el primero que muestra actividad antiviral contra el dengue\u00bb, dijo Marnix Van Loock, l\u00edder d\u2026",
-      "url": "http://hipertextual.com/2023/10/avanza-con-exito-la-prueba-de-la-primera-pastilla-contra-el-dengue",
-      "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/10/transmisor-del-dengue.jpg?fit=1600%2C1066&quality=50&strip=all&ssl=1",
-      "publishedAt": "2023-10-23 23:49:00",
-      "content": "Una prometedora pastilla contra el dengue ha demostrado ser efectivo sobre un grupo de pacientes. El f\u00e1rmaco es desarrollado por el laboratorio Johnson &amp; Johnson. \u00abEs el primero que muestra activ\u2026 [+3669 chars]",
-      "retrievedAt": "2023-10-25 07:05:47.975226",
-      "internal_id": "f42ea00edcec23b3e0d3a76f866067c30ba2b8015ded9d916ef3c345ed0b359c",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2701,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Www.dn.pt",
-      "author": "Ana Mafalda In\u00e1cio",
-      "title": "Instituto de Medicina Tropical pede \u00e0 popula\u00e7\u00e3o que ajude a localizar mosquito invasor",
-      "description": "O mosquito Aedes albopictus, fonte de doen\u00e7as graves, como dengue, Zika, chikungunya e febre-amarela, foi identificado pela primeira vez em Lisboa h\u00e1 tr\u00eas semanas. E tal s\u00f3 foi poss\u00edvel porque uma cidad\u00e3 estranhou-o, fotografou-o e enviou-o para o pr\u2026",
-      "url": "https://www.dn.pt/sociedade/instituto-de-medicina-tropical-pede-a-populacao-que-ajude-a-localizar-mosquito-invasor-17211458.html",
-      "urlToImage": "https://static.globalnoticias.pt/dn/image.jpg?brand=DN&type=generate&guid=d37e995b-70c7-489d-a85b-b295f9cceaa2&w=800&h=420&watermark=true&t=20231024000400",
-      "publishedAt": "2023-10-23 23:04:00",
-      "content": "Aedes albopictus \u00e9 uma das esp\u00e9cies de mosquitos invasores mais perigosas, capaz de transmitir doen\u00e7as como dengue, Zika, chikungunya e febre-amarela. Antes, as regi\u00f5es da \u00c1sia eram os seus territ\u00f3ri\u2026 [+9897 chars]",
-      "retrievedAt": "2023-10-25 07:05:47.989425",
-      "internal_id": "c9991a0de20053688469cf36ad1dec7d8eda27a9e7358a18314986590f1a71f9",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2704,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Memeorandum.com",
-      "author": null,
-      "title": "Where malaria is spreading - Rachel Chason and Jahi Chikwendiu traveled to Nampula ... (Washington Post)",
-      "description": "Washington Post: Where malaria is spreading \u2014 Rachel Chason and Jahi Chikwendiu traveled to Nampula, Maputo and Niassa provinces in Mozambique to report on how malaria is making new inroads in a warming world. Kevin Crowe analyzed the potential for spread \u2026",
-      "url": "https://www.memeorandum.com/231023/p50",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QYWIQ2TBFDMXOWUJ3XCKF4VAQ.jpg&w=1200",
-      "publishedAt": "2023-10-23 22:30:01",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
-      "retrievedAt": "2023-10-25 07:05:48.550260",
-      "internal_id": "58701e2e26a3b5a274ab20cf89099e748d9592459ecfa307826bc9a8a21c5b3e",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2703,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "WebMD",
-      "author": "Ralph Ellis",
-      "title": "FDA Approves Pfizer\u2019s Vaccine for Meningococcal Disease",
-      "description": "The U.S. Food and Drug Administration has approved Pfizer\u2019s application for Penbraya, a vaccine for people 10 through 25 that will offer protection against the five main kinds of bacteria that cause meningitis and blood poisoning.",
-      "url": "https://www.webmd.com/a-to-z-guides/news/20231023/fda-approves-pfizers-vaccine-for-meningococcal-disease",
-      "urlToImage": "https://img.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/visual_guide_meningitis_slideshow/1800x1200_visual_guide_meningitis_slideshow.jpg",
-      "publishedAt": "2023-10-23 22:06:24",
-      "content": "Oct. 23, 2023 -- The U.S. Food and Drug Administration has approved Pfizers application for Penbraya, a vaccine for people 10 through 25 that will offer protection against the five main kinds of bact\u2026 [+1033 chars]",
-      "retrievedAt": "2023-10-25 07:05:48.247405",
-      "internal_id": "31eb794b71874aba7f54091e514296d4f73057d059079e35887d97078d640bc9",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2702,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Themessenger.com",
-      "author": "Mansur Shaheen",
-      "title": "Deadly Virus Surfaces in California for First Time",
-      "description": "The dengue virus has appeared in Calirfonia for the first time ever, with officials reporting a domestic-borne case of the disease",
-      "url": "https://themessenger.com/health/california-dengue-pasadena-jamaica-bangladesh-deadly-virus",
-      "urlToImage": "https://cms.themessenger.com/wp-content/uploads/2023/10/Pasadena-1491566199.jpg",
-      "publishedAt": "2023-10-23 22:02:17",
-      "content": "The dengue virus is circulating in California for the first time, health officials warn. An unnamed person in Pasadena, just northeast of Los Angeles, has tested positive for the virus after having \u2026 [+1869 chars]",
-      "retrievedAt": "2023-10-25 07:05:48.009151",
-      "internal_id": "601021042dee3e9facc7c2b0c501a325806a8b9a5ce3cb12cd1b38d51b0ff545",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2693,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Jalopnik",
-      "author": "Bradley Brownell",
-      "title": "Cars Are Killing Humans And Not Just In Traffic Crashes",
-      "description": "Every year, pollution is a contributing factor in more deaths than war, terrorism, malaria, HIV, tuberculosis, drugs, or alcohol. Doctors say long-term exposure to exhaust fumes and air particulates can cause or exacerbate heart disease, respiratory health is\u2026",
-      "url": "https://jalopnik.com/cars-are-killing-humans-and-not-just-in-traffic-crashes-1850950663",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7ecd1b3eb9836cc97d243ff62dd45818.png",
-      "publishedAt": "2023-10-23 18:35:29",
-      "content": "Every year, pollution is a contributing factor in more deaths than war, terrorism, malaria, HIV, tuberculosis, drugs, or alcohol. Doctors say long-term exposure to exhaust fumes and air particulates \u2026 [+2367 chars]",
-      "retrievedAt": "2023-10-24 19:05:25.492823",
-      "internal_id": "1495cbfe24130c72d19230754c3c5ab3e7dde665a3b6a965e62326c0e0f5a525",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2694,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "vice-news",
-      "source_name": "Vice News",
-      "author": "Ella Glossop, Zing Tsjeng",
-      "title": "It's Time to Tax Billionaires, New Report Says",
-      "description": "Research funded by the European Union shows that a global tax on the super-rich might raise up to \u00a3205 billion.",
-      "url": "https://www.vice.com/en/article/qjvxk3/billionaire-tax-new-report",
-      "urlToImage": "https://video-images.vice.com/articles/65367d6faff5d70f0e9239c7/lede/1698071078290-christianfilardo29.jpeg?image-resize-opts=Y3JvcD0xeHc6MC4zNzI1eGg7MHh3LDAuMjQ2MnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-      "publishedAt": "2023-10-23 14:48:01",
-      "content": "There are around 2,500 billionaires in the world right now, with a combined wealth of over \u00a310 trillion. Just a fraction of that money is enough to, say, end global poverty, eradicate malaria and re-\u2026 [+1968 chars]",
-      "retrievedAt": "2023-10-24 19:05:25.498200",
-      "internal_id": "b6c3a111dc2a3e21ff37e37c511551a54b0e091d71850812b40e84d1aa0e61a7",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2697,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
-      "title": "U.S. Scientists Deliberately Infected People With Zika\u2014Here\u2019s Why",
-      "description": "Human challenge studies, although controversial, can help researchers develop treatments for the disease.",
-      "url": "https://www.forbes.com/sites/roberthart/2023/10/23/us-scientists-deliberately-infected-people-with-zika-heres-why/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/653686bc90713861e7e702d7/0x0.jpg?format=jpg&crop=1794,1008,x623,y124,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-10-23 14:46:54",
-      "content": "Researchers in the United States have for the first time deliberately infected people with Zika virus, a breakthrough that could help advance our understanding of the disease and accelerate efforts t\u2026 [+5159 chars]",
-      "retrievedAt": "2023-10-24 19:05:25.815250",
-      "internal_id": "d4fbd42a6c934bdc4912ad75bede3a9815038afdf8ff8ec64698b12db1ccda90",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2691,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Aajtak.in",
-      "author": "\u0930\u093e\u092e \u0915\u093f\u0902\u0915\u0930 \u0938\u093f\u0902\u0939, \u092e\u0928\u091c\u0940\u0924 \u0938\u0939\u0917\u0932, \u092a\u0930\u092e\u091c\u0940\u0924 \u092a\u0935\u093e\u0930, \u0938\u0941\u0936\u093e\u0902\u0924 \u092e\u0947\u0939\u0930\u093e",
-      "title": "\u0926\u093f\u0932\u094d\u0932\u0940 \u0915\u0947 \u0928\u093f\u091c\u0940 \u0905\u0938\u094d\u092a\u0924\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u0939\u0930 \u0926\u0942\u0938\u0930\u093e \u092e\u0930\u0940\u091c \u0921\u0947\u0902\u0917\u0942 \u0915\u093e, \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u092c\u091a\u094d\u091a\u094b\u0902 \u092e\u0947\u0902 \u092c\u0922\u093c \u0930\u0939\u093e \u0916\u0924\u0930\u093e, \u092c\u0930\u0924\u0947\u0902 \u092f\u0947 \u0938\u093e\u0935\u0927\u093e\u0928\u093f\u092f\u093e\u0902",
-      "description": "\u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u0915\u0947 \u091c\u093f\u0932\u093e \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u092e\u0930\u0940\u091c\u094b\u0902 \u092e\u0947\u0902 \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u0938\u092c\u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u0939\u0948. \u0928\u0930\u094d\u0938\u093f\u0902\u0917 \u0938\u094d\u091f\u093e\u092b \u0915\u093e \u0915\u0939\u0928\u093e \u0939\u0948 \u0915\u093f \u092f\u0939\u093e\u0902 \u0939\u0930 \u0930\u094b\u091c \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u0906\u0927\u093e \u0926\u0930\u094d\u091c\u0928 \u092e\u0930\u0940\u091c \u0930\u094b\u091c \u0906 \u0930\u0939\u0947 \u0939\u0948\u0902. \u091c\u093f\u0932\u093e \u092a\u094d\u0930\u0936\u093e\u0938\u0928 \u0915\u0947 \u092e\u0941\u0924\u093e\u092c\u093f\u0915, \u0936\u0928\u093f\u0935\u093e\u0930 \u0915\u094b 69 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u093e \u091a\u0947\u0915\u0905\u092a \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u091c\u093f\u0928\u092e\u0947\u0902 \u0938\u0947 \u091a\u093e\u0930 \u092c\u091a\u094d\u091a\u094b\u0902 \u0938\u092e\u0947\u0924 \u0921\u0947\u0902\u0917\u0942 12 \u0928\u2026",
-      "url": "https://www.aajtak.in/india/news/story/dengue-cases-in-delhi-ncr-punjab-ghaziabad-haryana-jind-mosquito-hospitals-ntc-1805075-2023-10-23",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202310/dengue_650_1-sixteen_nine.jpg",
-      "publishedAt": "2023-10-23 14:40:03",
-      "content": ". . 15 . . . . 113 . . . , 69 12 . 924 . . 10 . 214 . 13 . , , . 10 . . . . 267 . . , . 12 . . DEN-1, DEN-2, DEN-3, DEN-4 . - . - . . (Complications in Dengue) . . . 5-6 . (De\u2026 [+38 chars]",
-      "retrievedAt": "2023-10-24 19:05:24.523762",
-      "internal_id": "08f12c63dc1b908886fa41759ecfa6df8aba6e4881ad697d79f244c3b9276dbd",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2698,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Moch Mardiansyah, Raka Adji",
-      "title": "Health Ministry applies four measures to handle mpox cases",
-      "description": "The Ministry of Health is intensifying the handling of mpox (monkeypox) cases through four measures \u2014 surveillance, therapeutics, vaccinations, and risk communication. This was conveyed by the ministry's director ...",
-      "url": "https://en.antaranews.com/news/296928/health-ministry-applies-four-measures-to-handle-mpox-cases",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/23/BFE0D6E4-9285-45AE-B399-A93BCCD77FBB.jpeg",
-      "publishedAt": "2023-10-23 14:22:38",
-      "content": "Jakarta (ANTARA) - The Ministry of Health is intensifying the handling of mpox (monkeypox) cases through four measures \u2014 surveillance, therapeutics, vaccinations, and risk communication.This was conv\u2026 [+2077 chars]",
-      "retrievedAt": "2023-10-24 19:05:26.249493",
-      "internal_id": "11fd2abf1ce49eb52adbe979759be2198f640eb623c1263122bfaac692889ca5",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2684,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Isaac Dah, Rodrigue Simonet Poueme Namegni, Mohamed Moctar Mouiche Mouliom, Simon Dickmu Jumbo, Ranyl Nguena Guefack Noumedem, Isabelle Conclois, Liegeois Florian, Laurent God-Yang, Jean Marc Feussom Kameni, Abel Wade, Doroth\u00e9e Miss\u00e9, Julius Awah-Ndukum",
-      "title": "Prevalence and public health significance of rabies virus in bats in the North Region of Cameroon",
-      "description": "Author summary Rabies is a zoonotic disease caused by a virus of the genus Lyssavirus. It affects all warm-blooded animals including humans. Canine and human rabies are well documented as endemic in Cameroon, but little is known about this disease in wildlife\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010803",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0010803.g002&size=inline",
-      "publishedAt": "2023-10-23 14:00:00",
-      "content": "Abstract Background Rabies is a zoonotic disease of all warm-blooded animals including humans. There is a paucity of data on the status of rabies in wild animals in Cameroon and the disease is ende\u2026 [+39917 chars]",
-      "retrievedAt": "2023-10-24 19:05:23.455998",
-      "internal_id": "04473ef9f694e030afb81282e73764ccc63a14d77761f88f910cf9dd87d9d1cf",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2687,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Xerxes Seposo, Sary Valenzuela, Geminn Louis Apostol",
-      "title": "Socio-economic factors and its influence on the association between temperature and dengue incidence in 61 Provinces of the Philippines, 2010\u20132019",
-      "description": "Author summary This study examined the effect of temperature on dengue in the 61 Provinces of the Philippines. We found that as temperature increases, so does the risk of dengue. However, the increase in the risk of dengue plateaus at 27.5 degrees Celsius, an\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011700",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011700.g005&size=inline",
-      "publishedAt": "2023-10-23 14:00:00",
-      "content": "Citation: Seposo X, Valenzuela S, Apostol GL (2023) Socio-economic factors and its influence on the association between temperature and dengue incidence in 61 Provinces of the Philippines, 20102019. \u2026 [+28134 chars]",
-      "retrievedAt": "2023-10-24 19:05:24.501226",
-      "internal_id": "bd209ff994c3f38362a59a26507574fe3d9f315abbadfbaaced6843fccc8ea46",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2695,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Ethiopia: Call for Urgent Malaria Relief Response in Western Oromia",
-      "description": "[Addis Standard] Addis Abeba -- Two local charity organizations Harmee International Charity Organization and Biiftuu Holistic Development Foundation, said the malaria epidemic in Western Oromia could worsen in the coming two months if not timely and adequate\u2026",
-      "url": "https://allafrica.com/stories/202310230595.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-23 13:58:04",
-      "content": "Addis Abeba \u2014 Two local charity organizations Harmee International Charity Organization and Biiftuu Holistic Development Foundation, said the malaria epidemic in Western Oromia could worsen in the co\u2026 [+1501 chars]",
-      "retrievedAt": "2023-10-24 19:05:25.502613",
-      "internal_id": "50f16a70947a9774616593c29dd99ffa2a97a25dd0dcdde9804af1a9cbeb0945",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2689,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Da Ag\u00eancia Brasil",
-      "title": "RJ registra aumento de casos de Dengue; cinco munic\u00edpios t\u00eam situa\u00e7\u00e3o epid\u00eamica",
-      "description": "A tend\u00eancia \u00e9 que o ver\u00e3o, marcado por chuvas e calor, favore\u00e7a a prolifera\u00e7\u00e3o do mosquito Aedes aegypti",
-      "url": "https://noticias.r7.com/rio-de-janeiro/dengue-cresce-no-rio-cinco-municipios-tem-situacao-epidemica-23102023",
-      "urlToImage": "https://img.r7.com/images/mosquito-da-dengue-08072023182938398?crop_position=c&dimensions=340x191",
-      "publishedAt": "2023-10-23 12:37:00",
-      "content": "N\u00e3o h\u00e1 casos registrados do sorotipo 3 no Rio Reprodu\u00e7\u00e3o Site/Minist\u00e9rio da Sa\u00fade O n\u00famero de casos de dengue no estado do Rio de Janeiro preocupa as autoridades e acende um alerta a quase do\u2026 [+4452 chars]",
-      "retrievedAt": "2023-10-24 19:05:24.510623",
-      "internal_id": "c84917d45abdbb40ec0de76f210a88faee223303e2d22d8e1c1125c646f3494a",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2685,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "ZAZALI MUSA",
-      "title": "Dengue cases up in Johor, says exco",
-      "description": "JOHOR BARU: The number of cumulative dengue cases in Johor in epidemiology week 42 (ME42) went up to 8,442 cases, says state Health and Unity committee chairman Ling Tian Soon. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/23/dengue-cases-up-in-johor-says-exco",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/23/2350896.jpg",
-      "publishedAt": "2023-10-23 12:27:00",
-      "content": "JOHOR BARU: The number of cumulative dengue cases in Johor in epidemiology week 42 (ME42) went up to 8,442 cases, says state Health and Unity committee chairman Ling Tian Soon. He said this represen\u2026 [+2035 chars]",
-      "retrievedAt": "2023-10-24 19:05:24.484431",
-      "internal_id": "470e69d5dae779414def9298fcd84a5bd8ff378ec0153717131837ca3d00781a",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2690,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Nuovo caso di dengue a Trieste, stasera disinfestazione",
-      "description": "Il Comune di Trieste ha reso noto che stasera dalle ore 19.00, sar\u00e0 disinfestata in modo radicale e preventivamente una zona in un raggio di 200 metri di riva Massimiliano e Carlotta a Grignano dopo che l' Asugi, Dipartimento di Prevenzione, S.C. (ANSA)",
-      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2023/10/23/nuovo-caso-di-dengue-a-trieste-stasera-disinfestazione_9d91b298-dfb6-4098-bda9-1eb54e066f94.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/23/9011f7992cde07047f9fe1d3c2e916f8.jpg",
-      "publishedAt": "2023-10-23 10:38:29",
-      "content": "Il Comune di Trieste ha reso noto che stasera dalle ore 19.00, sar\u00e0 disinfestata in modo radicale e preventivamente una zona in un raggio di 200 metri di riva Massimiliano e Carlotta a Grignano do\u2026 [+1537 chars]",
-      "retrievedAt": "2023-10-24 19:05:24.517248",
-      "internal_id": "07be955e9d1a222e170bf6d5b1a1c600c2279a4bc5e5d6a6865bb3afdd943f95",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2686,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Nuovo caso di dengue a Trieste, stasera disinfestazione",
-      "description": "Il Comune di Trieste ha reso noto che stasera dalle ore 19.00, sar\u00e0 disinfestata in modo radicale e preventivamente una zona in un raggio di 200 metri di riva Massimiliano e Carlotta a Grignano dopo che l' Asugi, Dipartimento di Prevenzione, S.C. (ANSA)",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2023/10/23/nuovo-caso-di-dengue-a-trieste-stasera-disinfestazione_c73d789d-675a-4bff-bd18-b6228aa4d499.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/23/9011f7992cde07047f9fe1d3c2e916f8.jpg",
-      "publishedAt": "2023-10-23 10:24:56",
-      "content": "Il Comune di Trieste ha reso noto che stasera dalle ore 19.00, sar\u00e0 disinfestata in modo radicale e preventivamente una zona in un raggio di 200 metri di riva Massimiliano e Carlotta a Grignano do\u2026 [+1537 chars]",
-      "retrievedAt": "2023-10-24 19:05:24.497342",
-      "internal_id": "1e61ce3652dd89cb146f89d2741f83d66ca0e402647afe10294e2c6d165ecaf7",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2696,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "de Graeff, N., Jongsma, K. R., Bredenoord, A. L.",
-      "title": "Alleviating the burden of malaria with gene drive technologies? A biocentric analysis of the moral permissibility of modifying malaria mosquitoes",
-      "description": "Gene drive technologies (GDTs) have been proposed as a potential new way to alleviate the burden of malaria, yet have also raised ethical questions. A central ethical question regarding GDTs relates to whether it is morally permissible to intentionally modify\u2026",
-      "url": "https://jme.bmj.com/content/49/11/765",
-      "urlToImage": "https://jme.bmj.com/sites/default/files/highwire/medethics/49/11.cover-source.jpg",
-      "publishedAt": "2023-10-23 09:40:18",
-      "content": "Gene drive technologies (GDTs) have been proposed as a potential new way to alleviate the burden of malaria, yet have also raised ethical questions. A central ethical question regarding GDTs relates \u2026 [+1317 chars]",
-      "retrievedAt": "2023-10-24 19:05:25.514758",
-      "internal_id": "56805568b1fe6e6c983e9cb1677dde86a00a13e5373a4a663d1b96982bf6553a",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2692,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "40,531 dengue cases confirmed in Nepal this year",
-      "description": "KATHMANDU: A total of 40,531 cases of dengue have been confirmed in Nepal leading to the loss of 20 lives since the beginning of 2023. While the rate of infection is declining in districts, including Sunsari, Jhapa, Dhading, Morang, and other previously heavi\u2026",
-      "url": "https://english.khabarhub.com/2023/23/323360/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-10-23 09:15:58",
-      "content": "KATHMANDU: A total of 40,531 cases of dengue have been confirmed in Nepal leading to the loss of 20 lives since the beginning of 2023. While the rate of infection is declining in districts, includin\u2026 [+1680 chars]",
-      "retrievedAt": "2023-10-24 19:05:24.542906",
-      "internal_id": "96ccb71e9d4f274ec961b9cd5118a8ea47886a92f6532e51fdab81604f344b05",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2688,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Dengue: antiviral mostra efeito pela primeira vez",
-      "description": "At\u00e9 o momento, o Brasil j\u00e1 registrou 1,55 milh\u00e3o de casos de dengue em 2023",
-      "url": "https://saude.ig.com.br/2023-10-23/dengue--antiviral-mostra-efeito-pela-primeira-vez.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2023-10-23 09:00:00",
-      "content": "Um antiviral contra a dengue, desenvolvido pela Janssen, mostrou resultado satisfat\u00f3rio contra o v\u00edrus quando testado em humanos. A empresa divulgou as conclus\u00f5es da segunda fase de tr\u00eas etapas no En\u2026 [+2689 chars]",
-      "retrievedAt": "2023-10-24 19:05:24.505854",
-      "internal_id": "8cce281ce8bd9c303fbd7c2d1eac334e677c082ab7def1f7111b8fbaac623f5e",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2699,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Sean Muhamad, Raka Adji",
-      "title": "Health Ministry confirms seven active cases of mpox in Indonesia",
-      "description": "The Ministry of Health confirmed the presence of seven active cases of monkeypox (mpox) in Indonesia, with all of them being detected in Jakarta. \"Currently, there are seven active cases of mpox with local ...",
-      "url": "https://en.antaranews.com/news/296883/health-ministry-confirms-seven-active-cases-of-mpox-in-indonesia",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/23/IMG_20231023_122729.jpg",
-      "publishedAt": "2023-10-23 07:47:33",
-      "content": "Jakarta (ANTARA) - The Ministry of Health confirmed the presence of seven active cases of monkeypox (mpox) in Indonesia, with all of them being detected in Jakarta.\"Currently, there are seven active \u2026 [+1990 chars]",
-      "retrievedAt": "2023-10-24 19:05:26.252836",
-      "internal_id": "0c1e9bd68d7a7f936b38b31df6908e70526fbdf82c883b5155b1d4e65e52f1d3",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2681,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Scientists infect volunteers with Zika in hunt for vaccines, treatments",
-      "description": "WASHINGTON: Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step toward learning more about the disease and developing vaccines and treatments. The study \u2013 known as a \u201cc\u2026",
-      "url": "https://english.khabarhub.com/2023/23/323322/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2023/10/Zica_Mosquito_AP.png",
-      "publishedAt": "2023-10-23 03:15:39",
-      "content": "A female Aedes aegypti mosquito known to carry diseases such as dengue, Zika and yellow fever acquires a blood meal on the arm of a researcher at the Biomedical Sciences Institute of Sao Paulo Univer\u2026 [+2516 chars]",
-      "retrievedAt": "2023-10-24 07:05:40.367456",
-      "internal_id": "00f0c2e13959970882fa03812f606208a35f503bcd048a8ef1bf0e55bb6db36c",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2683,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Darner A. Mora Alvarado",
-      "title": "Aportaci\u00f3n del canal de Panam\u00e1 a la salud p\u00fablica",
-      "description": "Determinar la causa de la malaria y la fiebre amarilla fue una de las labores durante la construcci\u00f3n de la megaobra.",
-      "url": "https://www.nacion.com/opinion/foros/aportacion-del-canal-de-panama-a-la-salud-publica/QAWEEY6KGNA37C4FLC2DEIXWSY/story/",
-      "urlToImage": "https://www.nacion.com/resizer/xAxFjNqcLSJx_Ns4vmDg7efkhCo=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/WWHKWSDKSRH63DM3LFR3OQOVQE.jpg",
-      "publishedAt": "2023-10-23 03:00:00",
-      "content": "Despu\u00e9s del fracaso de los franceses en la construcci\u00f3n del canal de Panam\u00e1, la labor de los ingenieros se vio truncada por la malaria y la fiebre amarilla, causadas por un protozoario y un virus des\u2026 [+2737 chars]",
-      "retrievedAt": "2023-10-24 07:05:41.154700",
-      "internal_id": "c42e60af6ea2b72d2dd0e57ed1e9cfd28f61afeb8d743f0e27bc0a96f6330deb",
-      "publishedAtLabel": "Oct 23"
-    },
-    {
-      "id": 2678,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Cases of 'unusual' fever and full-body rash reported in Mumbai",
-      "description": "An unusual fever with perplexing symptoms, including a full-body rash, is affecting many people in Mumbai. The fever lasts for 4-5 days with temperatures between 99 and 102 degrees. Patients are testing negative for common culprits like dengue and malaria. Th\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/cases-of-unusual-fever-and-full-body-rash-reported-in-mumb/articleshow/104636026.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104636028,width-1070,height-580,imgsize-25348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-22 23:01:33",
-      "content": "Why are potatoes and tomatoes banned in Lord Jagannaths kitchen?",
-      "retrievedAt": "2023-10-24 07:05:40.331591",
-      "internal_id": "21bb4a839545b568f732810fd8d905ea94337739c540e0ac2adfe18e01ae9684",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2679,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Cases of 'unusual' fever and full-body rash reported in city",
-      "description": "An unusual fever with perplexing symptoms, including a full-body rash, is affecting many people in Mumbai. The fever lasts for 4-5 days with temperatures between 99 and 102 degrees. Patients are testing negative for common culprits like dengue and malaria. Th\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/cases-of-unusual-fever-and-full-body-rash-reported-in-city/articleshow/104636026.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104636028,width-1070,height-580,imgsize-25348,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-22 23:01:33",
-      "content": "Why are potatoes and tomatoes banned in Lord Jagannaths kitchen?",
-      "retrievedAt": "2023-10-24 07:05:40.343427",
-      "internal_id": "7ebf5a3e6e9ad19647aa54139f129071b315753385e72b3488451e7357168d72",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2680,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Perfil Brasil",
-      "title": "Dengue cresce no Rio e cinco munic\u00edpios t\u00eam situa\u00e7\u00e3o epid\u00eamica",
-      "description": "A an\u00e1lise \u00e9 do InfoDengue, sistema de alerta para arboviroses desenvolvido por pesquisadores da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz) e da Funda\u00e7\u00e3o Get\u00falio Vargas (FGV)",
-      "url": "https://brasil.perfil.com/brasil/dengue-cresce-no-rio-e-cinco-municipios-tem-situacao-epidemica.phtml",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/10/22/358957011-ebc.png",
-      "publishedAt": "2023-10-22 22:40:17",
-      "content": "O n\u00famero de casos de dengue no estado do Rio de Janeiro preocupa as autoridades e acende um alerta a quase dois meses do ver\u00e3o. A tend\u00eancia \u00e9 que o per\u00edodo, marcado por mais chuvas e calor, favore\u00e7a \u2026 [+3645 chars]",
-      "retrievedAt": "2023-10-24 07:05:40.354941",
-      "internal_id": "1de38c0a43345081e48f171afd6d8bc0c8f9cf921644e69f7b491b9bd806a578",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2674,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Agency Report",
-      "title": "Malaria: Kwara gov\u2019s wife pledges support for children",
-      "description": "The First Lady of Kwara State, Olufolake Abdulrazaq, has pledged to use her office to ensure that children in the state no longer die of malaria. She made the pledge on Saturday in Abuja after her investiture as Malaria Ambassador for the state by the Society\u2026",
-      "url": "https://punchng.com/malaria-kwara-govs-wife-pledges-support-for-children/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/10/22125930/Olufolake-Abdulrazaq.jpg",
-      "publishedAt": "2023-10-22 12:00:57",
-      "content": "The First Lady of Kwara State, Olufolake Abdulrazaq, has pledged to use her office to ensure that children in the state no longer die of malaria. She made the pledge on Saturday in Abuja after her i\u2026 [+3813 chars]",
-      "retrievedAt": "2023-10-23 19:05:39.681324",
-      "internal_id": "c9f75b7ffbdcc484e3e012b50a397517cbebb47d94c60545fe688715b17f2b8b",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2677,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
-      "title": "Indonesia continues Monkeypox prevention efforts",
-      "description": "The Jakarta Provincial Government and Health Ministry continue to make detection and prevention efforts to halt the spread of Monkeypox (Mpox) in Indonesia, especially Jakarta. \"The two parties continue to make ...",
-      "url": "https://en.antaranews.com/news/296850/indonesia-continues-monkeypox-prevention-efforts",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/19/Screenshot_2023-10-18-22-30-17-554_com.miui.gallery.jpg",
-      "publishedAt": "2023-10-22 11:38:14",
-      "content": "Jakarta (ANTARA) - The Jakarta Provincial Government and Health Ministry continue to make detection and prevention efforts to halt the spread of Monkeypox (Mpox) in Indonesia, especially Jakarta.\"The\u2026 [+2827 chars]",
-      "retrievedAt": "2023-10-23 19:05:40.398858",
-      "internal_id": "2a7f6ddacff751523e57ed59a10026d02bd3500a929095f622e9b6b8a41965af",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2675,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "F.A.Z./zos.",
-      "title": "Genregulation aufgekl\u00e4rt: Wie Moskito-M\u00e4nnchen das fehlende X-Chromosom ausgleichen",
-      "description": "Neue Ans\u00e4tze zur Malariabek\u00e4mpfung k\u00f6nnten Erkenntnisse von Mainzer Wissenschaftlern er\u00f6ffnen. Sie haben einen Mechanismus zur geschlechtsspezifischen Genregulation bei Anopheles-M\u00fccken entdeckt.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/erkenntnisse-zur-genregulation-bei-moskitos-19246761.html",
-      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/783294661/1.9246760/facebook_teaser/gefaehrlicher-blutsauger.jpg",
-      "publishedAt": "2023-10-22 11:10:25",
-      "content": "Forscher des Mainzer Instituts f\u00fcr molekulare Biologie haben bei Moskitos einen Genregulator gefunden, der f\u00fcr die Entwicklung der m\u00e4nnlichen Stechm\u00fccken bedeutsam ist. Die Entdeckung k\u00f6nnte neue Weg\u2026 [+967 chars]",
-      "retrievedAt": "2023-10-23 19:05:39.690046",
-      "internal_id": "43e878f38817129a01dd24b1ccb51cfe178abac441b3e4e7145cf3039c6d873f",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2676,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "nrk",
-      "source_name": "NRK",
-      "author": "NRK",
-      "title": "Kvinne fra Troms\u00f8 d\u00f8d av malaria",
-      "description": "Forrige helg d\u00f8de en Troms\u00f8-kvinne i 50-\u00e5rene av malaria i Gambia, skriver Nordlys. Kvinnen skal ha blitt fraktet til sykehus i hovedstaden Banjul, men livet sto ikke til \u00e5 redde. Pressetalsperson i Utenriksdepartementet, Ane Haavardsdatter Lunde, bekrefter o\u2026",
-      "url": "https://www.nrk.no/tromsogfinnmark/kvinne-fra-tromso-dod-av-malaria-1.16605631",
-      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.495/common/img/default.jpg",
-      "publishedAt": "2023-10-22 10:12:46",
-      "content": "22. oktober2023kl.12:12Forrige helg d\u00f8de en Troms\u00f8-kvinne i 50-\u00e5rene av malaria i Gambia, skriver Nordlys. Kvinnen skal ha blitt fraktet til sykehus i hovedstaden Banjul, men livet sto ikke til \u00e5 red\u2026 [+133 chars]",
-      "retrievedAt": "2023-10-23 19:05:39.693764",
-      "internal_id": "e8594845185819189095b18e2acc4be5a5a6987ed6f3199ce6c297b023bfae84",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2672,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Felipe Galindo",
-      "title": "Tigres le remonta de forma ag\u00f3nica a Cruz Azul con golazo de Rafa Carioca",
-      "description": "Tigres rompe la malaria contra la M\u00e1quina al ganar 2-1 con un golazo de Rafael Carioca en la \u00faltima jugada del partido. Lo \u00fanico malo, es que perder\u00e1n a su m\u00e1xima estrella, el franc\u00e9s Andr\u00e9-Pierre Gignac en su pr\u00f3ximo encuentro ante Guadalajara.El primero en \u2026",
-      "url": "https://www.milenio.com/futbol/liga-mx/tigres-vs-cruz-azul-resumen-y-goles-jornada-13-liga-mx",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/21/tigres-dramatico-triunfo-frente-cruz.jpg",
-      "publishedAt": "2023-10-22 04:45:00",
-      "content": "Tigres rompe la malaria contra la M\u00e1quina al ganar 2-1 con un golazo de Rafael Carioca en la \u00faltima jugada del partido. Lo \u00fanico malo, es que perder\u00e1n a su m\u00e1xima estrella, el franc\u00e9s Andr\u00e9-Pierre Gi\u2026 [+3556 chars]",
-      "retrievedAt": "2023-10-23 07:05:42.400670",
-      "internal_id": "00779994805d5dea9a4482493ab46da705e04fb0952ce8d2273183ed6773fc53",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2667,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NBC Southern California",
-      "author": "City News Service",
-      "title": "Rare case of mosquito-borne dengue diagnosed in Southern California...",
-      "description": "Pasadena health officials Friday reported what they call an \u201cextremely rare\u201d case of local transmission of the mosquito-borne dengue virus, the first known case in California to occur in a person who had not recently traveled.",
-      "url": "http://www.nbclosangeles.com/news/local/pasadena-reports-extremely-rare-case-of-locally-transmitted-dengue-virus/3249216/",
-      "urlToImage": "https://media.nbclosangeles.com/2023/06/GettyImages-1139714839-e1697871131303.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2023-10-22 04:07:40",
-      "content": "Pasadena health officials Friday reported what they call an \"extremely rare\" case of local transmission of the mosquito-borne dengue virus, the first known case in California to occur in a person who\u2026 [+2803 chars]",
-      "retrievedAt": "2023-10-23 07:05:41.488378",
-      "internal_id": "8048f7b25cf28c7ceeee491e2459bf81f47d585a7161a8b23bf1161a4409bc0f",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2669,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Rare case of mosquito-borne dengue diagnosed in Pasadena - Los Angeles Times",
-      "description": "Rare case of mosquito-borne dengue diagnosed in PasadenaLos Angeles Times 'Extremely rare' case of dengue virus found in CaliforniaFox News Extremely rare case of dengue confirmed in PasadenaKTLA Los Angeles Rare case of locally-acquired dengue confirmed in S\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172073165",
-      "urlToImage": null,
-      "publishedAt": "2023-10-22 01:12:15",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-23 07:05:41.533037",
-      "internal_id": "6229325919567925a36ec74c5f5e98ed3cbe0e118d171d951124a1b570f797ba",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2668,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Caller",
-      "author": "Jared Stokes",
-      "title": "Public Health Officials in California Warn Of Rare, Locally-Acquired, Mosquito-Borne Virus",
-      "description": "A rare mosquito-born virus has been discovered in Pasadena, California, according to the Pasadena Public Health Department.",
-      "url": "https://dailycaller.com/2023/10/21/public-health-officials-pasadena-california-rare-mosquito-borne-virus-dengue/",
-      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-21-at-2.22.42-PM-e1697925095441.png",
-      "publishedAt": "2023-10-22 00:34:06",
-      "content": "A rare mosquito-born virus has been discovered in Pasadena, California, according to a Friday press release by the Pasadena Public Health Department (PPHD). The virus, known as dengue, has until now\u2026 [+2614 chars]",
-      "retrievedAt": "2023-10-23 07:05:41.508326",
-      "internal_id": "f675132325ae990af86b6ef4d4dccfefbb82794f6aa72072465fc044560855de",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2673,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Reuters)",
-      "title": "Scientists Infect Volunteers With Zika in Hunt for Vaccines, Treatments",
-      "description": "Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step toward learning more about the disease and developing vaccines and treatments. The study \u2013 known as a \"controlle\u2026",
-      "url": "https://www.voanews.com/a/scientists-infect-volunteers-with-zika-in-hunt-for-vaccines-treatments-/7321193.html",
-      "urlToImage": "https://gdb.voanews.com/DDE4222A-A932-46CF-9955-F4ADB21543ED_w1200_r1.jpg",
-      "publishedAt": "2023-10-22 00:25:38",
-      "content": "Researchers in the United States have shown for the first time they can safely and effectively infect human volunteers with Zika virus, a step toward learning more about the disease and developing va\u2026 [+2261 chars]",
-      "retrievedAt": "2023-10-23 07:05:42.611897",
-      "internal_id": "8c02f7b46c9ddfb48d6f1da5b4c84872ddc25f329a56e15b7d1ed0f0b66b4690",
-      "publishedAtLabel": "Oct 22"
-    },
-    {
-      "id": 2670,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eldiario.es",
-      "author": "Antonio Mart\u00ednez Ron",
-      "title": "\u00bfHa escuchado hablar del m\u00e9todo 'Wolbachia'? Instrucciones para desactivar al mosquito del dengue",
-      "description": "\u201cBuenos d\u00edas, \u00bfha escuchado hablar del m\u00e9todo Wolbachia?\u201d. Quienes llaman a la puerta de las casas en el distrito de El Manch\u00e9n, en Tegucigalpa, no son predicadores de ninguna religi\u00f3n ni repartidores de comida a domicilio, como sugiere el aspecto de su motoc\u2026",
-      "url": "https://www.eldiario.es/sociedad/metodo-wolbachia-desactivar-mosquito-dengue_1_10595134.html",
-      "urlToImage": "https://static.eldiario.es/clip/17fd0aad-e168-4466-a4bc-6290dbf056af_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "publishedAt": "2023-10-21 20:09:52",
-      "content": "\u201cBuenos d\u00edas, \u00bfha escuchado hablar del m\u00e9todo Wolbachia?\u201d. Quienes llaman a la puerta de las casas en el distrito de El Manch\u00e9n, en Tegucigalpa, no son predicadores de ninguna religi\u00f3n ni repartidore\u2026 [+1265 chars]",
-      "retrievedAt": "2023-10-23 07:05:41.537936",
-      "internal_id": "3cdefc279a2913e813302b50ab43b9832b43b34d7d5e0dc74415c49129b20f41",
-      "publishedAtLabel": "Oct 21"
-    },
-    {
-      "id": 2665,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reuters",
-      "title": "Cientistas infectam volunt\u00e1rios com Zika, em busca de vacinas e tratamentos",
-      "description": "Pesquisadores nos Estados Unidos demonstraram pela primeira vez que conseguem, de maneira segura ...",
-      "url": "https://www.terra.com.br/noticias/mundo/cientistas-infectam-voluntarios-com-zika-em-busca-de-vacinas-e-tratamentos,aafdc2bc57ff2adc6afc0deb728c9526ur0s4gi6.html",
-      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2023-10-21 18:43:33",
-      "content": "Pesquisadores nos Estados Unidos demonstraram pela primeira vez que conseguem, de maneira segura e efetiva, infectar volunt\u00e1rios humanos com o v\u00edrus Zika, um passo \u00e0 frente para aprender mais sobre a\u2026 [+2261 chars]",
-      "retrievedAt": "2023-10-22 19:05:26.948158",
-      "internal_id": "91ea216cf67190d01e7c51cb0f3ec43d48ce99c77592cb14b79270bce04631c7",
-      "publishedAtLabel": "Oct 21"
     }
   ]
 }
