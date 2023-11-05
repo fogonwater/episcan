@@ -1,8 +1,116 @@
 {
-  "last_updated": "2023-11-04 19:05",
+  "last_updated": "2023-11-05 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 16,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 2927,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.com.ua",
+      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430 _\u0416\u0438\u0442\u0442\u044f",
+      "title": "\u0412\u0447\u0435\u043d\u0456 \u0432\u0432\u0430\u0436\u0430\u044e\u0442\u044c, \u0449\u043e \u0432\u0456\u0441\u043f\u0430 \u043c\u0430\u0432\u043f \u043c\u043e\u0433\u043b\u0430 \u0446\u0438\u0440\u043a\u0443\u043b\u044e\u0432\u0430\u0442\u0438 \u0441\u0435\u0440\u0435\u0434 \u043b\u044e\u0434\u0435\u0439 \u0437 2016 \u0440\u043e\u043a\u0443",
+      "description": "\u0412\u0447\u0435\u043d\u0456 \u0434\u043e\u0441\u043b\u0456\u0434\u0438\u043b\u0438 \u0435\u0432\u043e\u043b\u044e\u0446\u0456\u044e \u0432\u0456\u0440\u0443\u0441\u0443, \u0442\u0430 \u0432\u0438\u044f\u0432\u0438\u043b\u0438, \u0449\u043e \u0432\u0456\u043d \u043f\u043e\u0447\u0430\u0432 \u043c\u0443\u0442\u0443\u0432\u0430\u0442\u0438 \u0449\u0435 \u0443 2016 \u0440\u043e\u0446\u0456. \u041c\u043e\u0436\u043b\u0438\u0432\u043e, \u0446\u0435 \u0432\u0456\u0434\u0431\u0443\u0432\u0430\u043b\u043e\u0441\u044f \u0447\u0435\u0440\u0435\u0437 \u0456\u043d\u0444\u0435\u043a\u0446\u0456\u0457 \u0432 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043c\u0456 \u043b\u044e\u0434\u0438\u043d\u0438.",
+      "url": "https://life.pravda.com.ua/society/2023/11/4/257441/",
+      "urlToImage": "https://lifeimg.pravda.com/images/doc/6/f/6f231c7-gettyimages-1412392816--3-.jpg",
+      "publishedAt": "2023-11-04 07:00:02",
+      "content": ", (mpox), , 2016 . , Science, , , , , Medical Xpress. 1950- , . . , ' . 2017 , 2022 . , , , , ' . , IIb. , . , APOBEC3, , ', , . , . \u2013 2016 , , . , , , , \" \". , . , 2022 . 15 2022 . ' \u2026 [+25 chars]",
+      "retrievedAt": "2023-11-05 07:05:24.361543",
+      "internal_id": "80b7db4997afe4e358d29eecc85372f51c73b3f984818d12cbedd771d00d609c",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 2922,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Ilaria Capua",
+      "title": "Zanzare tigre e casi di Dengue. Come evitare che l\u2019infezione non se ne vada pi\u00f9?",
+      "description": "Trent\u2019anni fa questi insetti qui non c\u2019erano, oggi la malattia va gestita: dalle campagne sui repellenti alla vera manutenzione del verde",
+      "url": "https://www.corriere.it/sette/attualita/23_novembre_04/zanzare-tigre-casi-dengue-come-evitare-che-l-infezione-non-se-ne-vada-piu-5ba60a38-7682-11ee-97ac-bb749494f7ad.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/10/29/1dc8acd8-7683-11ee-97ac-bb749494f7ad.jpg",
+      "publishedAt": "2023-11-04 06:40:56",
+      "content": "di Ilaria CapuaTrent\u2019anni fa questi insetti qui non c\u2019erano, oggi la malattia va gestita: dalle campagne sui repellenti alla vera manutenzione del verde Vi ricordate? Trent\u2019anni fa le zanzare tigre \u2026 [+3061 chars]",
+      "retrievedAt": "2023-11-05 07:05:22.732502",
+      "internal_id": "697c810f69e18d1aebc28820e2290b27523d0040dfad6938bb2605c0fc8c4ac3",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 2924,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nu.nl",
+      "author": "onze nieuwsredactie",
+      "title": "Suriname krijgt internationale prijs voor succesvolle aanpak malaria",
+      "description": "Suriname heeft als eerste land in het Amazonegebied sinds 2021 geen lokale gevallen van malaria gehad. Hoewel het land wordt omringd door landen met veel malaria, is er geen sprake van lokale overdracht. Voor de succesvolle aanpak van de dodelijke ziekte is S\u2026",
+      "url": "https://www.nu.nl/gezondheid/6288226/suriname-krijgt-internationale-prijs-voor-succesvolle-aanpak-malaria.html",
+      "urlToImage": "https://media.nu.nl/m/6ioxx2caw1wd_wd1280/suriname-krijgt-internationale-prijs-voor-succesvolle-aanpak-malaria.jpg",
+      "publishedAt": "2023-11-04 05:14:57",
+      "content": "Suriname heeft als eerste land in het Amazonegebied sinds 2021 geen lokale gevallen van malaria gehad. Hoewel het land wordt omringd door landen met veel malaria, is er geen sprake van lokale overdra\u2026 [+1007 chars]",
+      "retrievedAt": "2023-11-05 07:05:23.538392",
+      "internal_id": "13c2aad5970a7d19024a101eebf9e88909bd6b6c45c0a4f05bcd7681f253f64b",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 2923,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The-express.com",
+      "author": "Matthew Dooley",
+      "title": "Deadly dengue fever detected in California in individuals who haven't left country",
+      "description": "California has detected two cases of dengue fever in individuals who have not travelled outside of the country sparking health fears.",
+      "url": "https://www.the-express.com/news/health/117248/california-dengue-fever-mosquitos",
+      "urlToImage": "https://cdn-images.the-express.com/img/dynamic/19/1200x712/88028.jpg",
+      "publishedAt": "2023-11-04 03:23:22",
+      "content": "Two people in Southern California have come down with dengue fever without traveling outside the United States, where the mosquito-borne illness is rare, health officials said. A Pasadena resident w\u2026 [+1665 chars]",
+      "retrievedAt": "2023-11-05 07:05:22.773122",
+      "internal_id": "0f987a8065c9f528d17ab572fcdaa2ccb3682484717b64d45eb43c6e81f1411b",
+      "publishedAtLabel": "Nov 4"
+    },
+    {
+      "id": 2926,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Queerty.com",
+      "author": "David Hudson",
+      "title": "California issues mpox warning as new research points to how the virus is evolving",
+      "description": "Mpox has not gone away. Mpox has not gone away.",
+      "url": "https://www.queerty.com/california-issues-mpox-warning-as-new-research-points-to-how-the-virus-is-evolving-20231103",
+      "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2023/05/man-vaccine-mpox-shutterstock.jpg?auto=format&auto=compress&fit=crop&gravity=50p,50p&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=70",
+      "publishedAt": "2023-11-03 23:00:00",
+      "content": "Mpox has not gone away. Rates are increasing in one of the most gay-friendly states in the US and research from the UK suggests the virus is evolving to become more infectious. California\u2019s public h\u2026 [+3270 chars]",
+      "retrievedAt": "2023-11-05 07:05:24.340380",
+      "internal_id": "fdb02497b7a9d80db665466ca46d244bd46a011b76e100b319fbc47a4bf92050",
+      "publishedAtLabel": "Nov 3"
+    },
+    {
+      "id": 2925,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nos.nl",
+      "author": null,
+      "title": "Invasieve muggensoort bedreigt malariabestrijding Afrika",
+      "description": "Begin 2022 werden opeens grote aantallen studenten ziek in de Ethiopische stad Dire Dawa. Op het hoogtepunt had de helft van de studenten koorts. Tot verbazing van de artsen bleek het te gaan om malaria, een ziekte die normaal vooral toeslaat op het plattelan\u2026",
+      "url": "https://nos.nl/l/2496536",
+      "urlToImage": "https://cdn.nos.nl/image/2023/11/03/1022847/1024x576a.jpg",
+      "publishedAt": "2023-11-03 21:41:45",
+      "content": "Begin 2022 werden opeens grote aantallen studenten ziek in de Ethiopische stad Dire Dawa. Op het hoogtepunt had de helft van de studenten koorts. Tot verbazing van de artsen bleek het te gaan om mala\u2026 [+4451 chars]",
+      "retrievedAt": "2023-11-05 07:05:23.546528",
+      "internal_id": "6288d5fef95631d39a682042542d98ab11b25f228c5915bb9c8bb738276c09b3",
+      "publishedAtLabel": "Nov 3"
+    },
     {
       "id": 2907,
       "query": [
@@ -3512,115 +3620,6 @@
       "retrievedAt": "2023-10-26 19:05:27.046707",
       "internal_id": "6262857c598c5b12ab54a02d019bc4eb2be03237aaa6e5260bc37926d22e2939",
       "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2728,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "Sudan: Health Services Deteriorate As Disease Spreads",
-      "description": "[Dabanga] El Gedaref / Nyala / Sharg El Nil -- Cases of dengue fever* and cholera continue to spread across Sudan. The Federal Ministry of Health announced that 3,414 cases of dengue fever were recorded, including 38 deaths, in the period from April 15 to Oct\u2026",
-      "url": "https://allafrica.com/stories/202310250100.html",
-      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00630541:a9d7ef45bcee31a22e6194c4e377734a:arc614x376:w1200.jpg",
-      "publishedAt": "2023-10-25 08:04:58",
-      "content": "El Gedaref / Nyala / Sharg El Nil \u2014 Cases of dengue fever* and cholera continue to spread across Sudan. The Federal Ministry of Health announced that 3,414 cases of dengue fever were recorded, includ\u2026 [+3724 chars]",
-      "retrievedAt": "2023-10-26 19:05:27.017756",
-      "internal_id": "05fc9ab0f08c2c6f22c014603e7999d1a2eb88fd8769c3770b132a0a573c7ac7",
-      "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2726,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknews.vn",
-      "author": "Sputnik Vi\u1ec7t Nam",
-      "title": "Vi\u1ec7t Nam c\u00f3 ca \u0111\u1eadu m\u00f9a kh\u1ec9 \u0111\u1ea7u ti\u00ean t\u1eed vong",
-      "description": "H\u00c0 N\u1ed8I (Sputnik) - S\u00e1ng 25/10, S\u1edf Y t\u1ebf TPHCM \u0111\u00e3 th\u00f4ng tin nhanh v\u1ec1 tr\u01b0\u1eddng h\u1ee3p t\u1eed vong c\u00f3 li\u00ean quan \u0111\u1ebfn Mpox (\u0111\u1eadu m\u00f9a kh\u1ec9) t\u1ea1i \u0111\u1ecba ph\u01b0\u01a1ng.",
-      "url": "https://sputniknews.vn/20231025/viet-nam-co-ca-dau-mua-khi-dau-tien-tu-vong--26062276.html",
-      "urlToImage": "https://cdn1.img.sputniknews.vn/images/sharing/article/vie/26062276.jpg?108497421698210569",
-      "publishedAt": "2023-10-25 05:08:03",
-      "content": "https://sputniknews.vn/20231025/viet-nam-co-ca-dau-mua-khi-dau-tien-tu-vong--26062276.html Vit Nam c\u00f3 ca u m\u00f9a kh u ti\u00ean t vong Vit Nam c\u00f3 ca u m\u00f9a kh u ti\u00ean t vong H\u00c0 NI (Sputnik) - S\u00e1ng 25/10,\u2026 [+3837 chars]",
-      "retrievedAt": "2023-10-26 07:05:52.883376",
-      "internal_id": "fabfe1dc97d59171764311cdac1d97769c8c9a9c6a14f48d60f62dd51553ba8d",
-      "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2721,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "New York Times",
-      "title": "What to know about dengue fever as cases spread",
-      "description": "NEW YORK - Cases of dengue fever, a mosquito-borne viral illness that can be fatal, are surging around the world. The increase is occurring both in places that have long struggled with the disease and in areas where its spread was unheard-of until the last ye\u2026",
-      "url": "https://www.bangkokpost.com/world/2671131/what-to-know-about-dengue-fever-as-cases-spread-to-new-places",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20231025/c1_2671131_700.jpg",
-      "publishedAt": "2023-10-25 04:02:00",
-      "content": "NEW YORK - Cases of dengue fever, a mosquito-borne viral illness that can be fatal, are surging around the world. The increase is occurring both in places that have long struggled with the disease an\u2026 [+8276 chars]",
-      "retrievedAt": "2023-10-26 07:05:51.831609",
-      "internal_id": "5af81fa778c26ab111a02492ae9c2ce8b3095ab4384d42c7d247605791d35dca",
-      "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2720,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "Bacteria can enhance host insect's fertility with implications for disease control",
-      "description": "New research reveals how the bacteria strain Wolbachia pipientis enhances the fertility of the insects it infects, an insight that could help scientists increase the populations of mosquitoes that do not carry human disease.",
-      "url": "https://www.sciencedaily.com/releases/2023/10/231024234018.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-10-25 03:40:18",
-      "content": "Mosquitoes and other insects can carry human diseases such as dengue and Zika virus, but when those insects are infected with certain strains of the bacteria Wolbachia, this bacteria reduces levels o\u2026 [+5249 chars]",
-      "retrievedAt": "2023-10-26 07:05:51.824244",
-      "internal_id": "215a7c47605cd26ac136890c555a41ebc6d5af254818084aa005e0f5e8b7e2a0",
-      "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2724,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "What to Know About Dengue Fever as Cases Spread to New Places - The New York Times",
-      "description": "What to Know About Dengue Fever as Cases Spread to New PlacesThe New York Times Yellow fever, scourge from the 1800s, is coming back \u2014 and the US is woefully unpreparedNew York Post Experts Warn of Potential Yellow Fever ResurgenceNewsmax Infectious Disease E\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172101419",
-      "urlToImage": null,
-      "publishedAt": "2023-10-25 01:12:06",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-26 07:05:51.871558",
-      "internal_id": "0d764a6ada07e4cf935c9cc57ec78b9371a74bc2711be14eb4ddeebc72a4e74b",
-      "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2725,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Fatunetwork.net",
-      "author": "Hadram Hydara",
-      "title": "Three Senior Health Officials Face 13 Charges, Including Corruption, Theft, And Forgery \u2013 The Fatu Network",
-      "description": "Three Senior Health Officials Face 13 Charges, Including Corruption, Theft, And Forgery \u2013 The Fatu Networkfatunetwork.net",
-      "url": "https://fatunetwork.net/senior-health-officials-face-13-charges-including-corruption-theft-and-forgery/",
-      "urlToImage": "https://fatunetwork.net/wp-content/uploads/2023/10/gotg_page-0001-1.jpg",
-      "publishedAt": "2023-10-24 22:09:20",
-      "content": "By: Jawo Three senior health officials, including Muhammadou Lamin Jaiteh, the permanent secretary at the Ministry of Health, Balla Kandeh, the program manager of the Malaria Control Programme, and \u2026 [+1893 chars]",
-      "retrievedAt": "2023-10-26 07:05:52.358016",
-      "internal_id": "82a7d4e0f6900b6f924311b946384cb5a75d926d8fc402bcc464e5043fd8bac8",
-      "publishedAtLabel": "Oct 24"
     }
   ]
 }
