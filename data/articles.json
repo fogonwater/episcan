@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-11-06 07:05",
+  "last_updated": "2023-11-06 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 2940,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Dengue death toll crosses 1,400-mark",
+      "description": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more patients were hospitalised with the viral fever, according to\u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-crosses-1400-mark-733734",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/05/2m9a8079_0.jpg",
+      "publishedAt": "2023-11-05 14:10:42",
+      "content": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more \u2026 [+585 chars]",
+      "retrievedAt": "2023-11-06 19:05:22.974215",
+      "internal_id": "8ba2e2aea33e19748697f97dce0e9bf5c214207b60c2fa2348627ba9c8d9d1d6",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2941,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "David Will",
+      "title": "Heute vor 143 Jahren: Als ein Au\u00dfenseiter den Malaria-Erreger fand",
+      "description": "Lange glauben \u00c4rzte, dass Malaria durch giftige D\u00e4mpfe verursacht wird. Erst ein Blick ins Blut von Soldaten f\u00fchrt auf die richtige Spur.",
+      "url": "https://www.tagesspiegel.de/wissen/heute-vor-143-jahren-x-10728799.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/malaria005-the-malaria-infected-red-blood-cells/alternates/BASE_16_9_W1400/malaria005-the-malaria-infected-red-blood-cells.jpeg",
+      "publishedAt": "2023-11-05 12:48:20",
+      "content": "Einfach mal wieder richtig durchatmen in Buenos Aires! Das dachten zumindest die spanischen Eroberer, die im 16. Jahrhundert zum ersten Mal am Rio de la Plata Anker legten und die Siedlung der guten \u2026 [+2750 chars]",
+      "retrievedAt": "2023-11-06 19:05:24.244357",
+      "internal_id": "e1e80af99c7ac7ee2edf109d00bb3fdf0cd28fadad8016325e6944a0f5677179",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2942,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Twentyfournews.com",
+      "author": "24 Web Desk",
+      "title": "Zika prevention efforts remain strong: Health Minister",
+      "description": "Zika prevention efforts remain strong: Health \u0d38\u0d3f\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2a\u0d4d\u0d30\u0d35\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d2f\u0d3f \u0d24\u0d41\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41: \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f \u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f",
+      "url": "https://www.twentyfournews.com/2023/11/05/zika-prevention-efforts-remain-strong-health-minister.html",
+      "urlToImage": "https://www.twentyfournews.com/wp-content/uploads/2023/11/Zika-prevention-efforts-remain-strong_-Health-Minister.jpg",
+      "publishedAt": "2023-11-05 12:41:12",
+      "content": ". 8 . . . . 30 31 . 1, 2, 5 . . 55 . 24 . . , . . . 104 . 5 , , . . . . . . Story Highlights: Zika prevention efforts remain strong: Health Minister",
+      "retrievedAt": "2023-11-06 19:05:24.864638",
+      "internal_id": "c7a82ae030c9caa7e5cc8cdb723efa58f41ce83b1f4aa3a5f51ee568897bdafb",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2939,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Maeghan Dolph",
+      "title": "Understanding the severity of the mosquito-borne disease dengue",
+      "description": "Delve into the key aspects of dengue fever and severe dengue, while also shedding light on these mosquito-borne diseases' significance and distinctions in those infected.",
+      "url": "https://www.foxnews.com/lifestyle/dengue-severe-dengue-mosquito-borne-disease",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AP23173281339142.jpg",
+      "publishedAt": "2023-11-05 08:00:25",
+      "content": "Dengue fever is a mosquito-borne viral infection that affects millions of people worldwide, causing a wide range of symptoms. In some cases, dengue can progress into a potentially life-threatening \u2026 [+4527 chars]",
+      "retrievedAt": "2023-11-06 19:05:22.953961",
+      "internal_id": "d8aaf37e2aef933f6c68f1567f297aea8601660ad7e964fa74f58e82ec36aef1",
+      "publishedAtLabel": "Nov 5"
+    },
     {
       "id": 2936,
       "query": [
@@ -3548,78 +3620,6 @@
       "retrievedAt": "2023-10-27 07:05:54.903438",
       "internal_id": "9cc43aad348e73af3ed2b47f27daf736cdd22313fdfa0e14f5ffeacf96b2e353",
       "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2743,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "KPRC Click2Houston",
-      "author": "Mike Stobbe",
-      "title": "Mpox vaccinations should be recommended for high-risk men, even after outbreak ends, advisers say",
-      "description": "Government health advisers say gay and bisexual men at high risk for mpox infection should get vaccinated for the virus even after the current outbreak ends.",
-      "url": "https://www.click2houston.com/health/2023/10/25/mpox-vaccinations-should-be-recommended-for-high-risk-men-even-after-outbreak-ends-advisers-say/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QILLXDNEGVGUDNP2QYMPG4UTGE.jpg?_a=ATAPphC0",
-      "publishedAt": "2023-10-26 03:38:23",
-      "content": "NEW YORK Gay and bisexual men at high risk for mpox infection should get vaccinated for the virus even after the current outbreak ends, government health advisers said Wednesday. The committee's rec\u2026 [+2511 chars]",
-      "retrievedAt": "2023-10-27 07:05:58.102418",
-      "internal_id": "0ce32b12ccc8ad27987c2dd1c67c243d29eb13f08fc4aee2fb2b6bde47819aa4",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2742,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "ABC 12 News",
-      "author": "Courtesy Patti Wukovits",
-      "title": "Patients may soon have vaccine to protect from deadly meningitis",
-      "description": "Patti Wukovits still thinks about how she had to bury her daughter in her prom dress.",
-      "url": "https://www.abc12.com/news/health/patients-may-soon-have-vaccine-to-protect-from-deadly-meningitis/article_9f7c2b9e-3f94-54fc-9df2-c4cb0f49fd20.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/1/d1/1d1b3937-a384-5f82-ba44-9d42afd051b2/653ab8151a4ee.image.jpg?crop=1600%2C840%2C0%2C29&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-10-26 02:43:00",
-      "content": "Patti Wukovits still thinks about how she had to bury her daughter in her prom dress. In June 2012, 17-year-old Kimberly Coffey had a fever and body aches. She told her mom it felt like her ankles w\u2026 [+7728 chars]",
-      "retrievedAt": "2023-10-27 07:05:56.118291",
-      "internal_id": "6aae39aa05cf447adc15dbccb2fca011cdc3b2b83c721b3dbd28efa05a80aba2",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2740,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "CNYcentral.com",
-      "author": "Emma Misiaszek",
-      "title": "Man seen on video attacked by rabid fox treated for rabies, health department confirms",
-      "description": "The Onondaga County Health Department can confirm that all individuals in the videos shared regarding the rabid fox have been identified and have undergone trea",
-      "url": "https://cnycentral.com/news/local/man-seen-on-video-attacked-by-rabid-fox-treated-for-rabies-health-department-confirms",
-      "urlToImage": "https://cnycentral.com/resources/media/bca95756-f433-477c-92f1-65f812e3b0ae-large16x9_FOXVIDEO.transfer_frame_40.jpeg",
-      "publishedAt": "2023-10-25 21:20:54",
-      "content": "The Onondaga County Health Department can confirm that all individuals in the videos shared regarding the rabid fox have been identified and have undergone treatment as deemed necessary. MORE: Syrac\u2026 [+462 chars]",
-      "retrievedAt": "2023-10-27 07:05:54.915539",
-      "internal_id": "aa52969206d589568e6a1becd5194dcc0180b3825238497ed2b2f010e9c23669",
-      "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2741,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Shtfplan.com",
-      "author": "Mac Slavo",
-      "title": "Dengue Fever Cases Rise In Rome",
-      "description": "Dengue fever cases are surging in Rome and Lazio. Italy's capital city is facing a concerning surge, with a total of 66 native cases reported in the latest update from the National Institute of Health (ISS). This represents a sharp increase from the 288 case\u2026",
-      "url": "https://www.shtfplan.com/headline-news/dengue-fever-cases-rise-in-rome",
-      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2017/09/mosquito-1-e1505219927469.jpg",
-      "publishedAt": "2023-10-25 20:00:08",
-      "content": "Dengue fever cases are surging in Rome and Lazio. Italy\u2019s capital city is facing a concerning surge, with a total of 66 native cases reported in the latest update from the National Institute of Heal\u2026 [+1740 chars]",
-      "retrievedAt": "2023-10-27 07:05:55.597016",
-      "internal_id": "94d8cf6086f3cdf001aae189893ae83256096a2220d89d08e5df714b54732769",
-      "publishedAtLabel": "Oct 25"
     }
   ]
 }
