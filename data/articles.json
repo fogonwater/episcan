@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-11-05 19:05",
+  "last_updated": "2023-11-06 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 2936,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "California officials confirm 2 cases of dengue, a mosquito-borne illness rarely transmitted in US - Jamaica Gleaner",
+      "description": "California officials confirm 2 cases of dengue, a mosquito-borne illness rarely transmitted in USJamaica Gleaner Long Beach reports locally acquired dengue virus following case in PasadenaKABC-TV California confirms 2nd local dengue case | CIDRAPUniversity of\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172173460",
+      "urlToImage": null,
+      "publishedAt": "2023-11-05 06:12:16",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-11-06 07:05:46.358727",
+      "internal_id": "44f4783ab69ccc524d41ef75bb8423b7a429e0b4793bcb8e33c2b57e0ab68338",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2938,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "DNA India",
+      "author": "\u0921\u0940\u090f\u0928\u090f \u0939\u093f\u0902\u0926\u0940 \u0935\u0947\u092c \u0921\u0947\u0938\u094d\u0915",
+      "title": "Zika Virus Symptoms: \u0915\u0948\u0938\u0947 \u092b\u0948\u0932\u0924\u093e \u0939\u0948 \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938, \u091c\u093e\u0928\u0947\u0902 \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u093e \u0924\u0930\u0940\u0915\u093e",
+      "description": "Zika Virus Treatment: \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938 \u090f\u0921\u0940\u091c \u092e\u091a\u094d\u091b\u0930\u094b\u0902 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u0938\u0947 \u092b\u0948\u0932\u0924\u093e \u0939\u0948 \u0914\u0930 \u0907\u0938 \u092c\u0940\u092e\u093e\u0930\u0940 \u0915\u0947 \u0939\u094b\u0928\u0947 \u0938\u0947 \u0924\u0947\u091c \u092c\u0941\u0916\u093e\u0930 \u0935 \u0936\u0930\u0940\u0930 \u092e\u0947\u0902 \u0926\u0930\u094d\u0926 \u0914\u0930 \u0938\u093f\u0930\u0926\u0930\u094d\u0926 \u0939\u094b\u0928\u0947 \u0932\u0917\u0924\u093e \u0939\u0948. \u092f\u0939\u093e\u0902 \u091c\u093e\u0928\u093f\u090f \u0907\u0938\u0915\u0947 \u0905\u0928\u094d\u092f \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u093e \u0924\u0930\u0940\u0915\u093e...",
+      "url": "https://www.dnaindia.com/hindi/health/report-zika-virus-symptoms-and-prevention-karnataka-on-high-alert-mosquito-aedes-aegypti-zika-virus-kaise-failta-hai-4105825",
+      "urlToImage": "https://cdn.dnaindia.com/sites/default/files/2023/11/05/7110391-zika-virus-symptoms.jpg",
+      "publishedAt": "2023-11-05 05:09:42",
+      "content": "Zika Virus Treatment: . ... : . . 100 (Zika Virus Symptoms) 6 . 5 . . (Zika Virus Alert In Karnataka) . , ... ? (How Zika Virus Get Spreads) . . , . . . ? (Zika Virus Symptoms) 5 , (\u2026 [+117 chars]",
+      "retrievedAt": "2023-11-06 07:05:47.477206",
+      "internal_id": "c3394a56cb48264190683a4393511050151dc6285a8be06a4e84da70d02e4590",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2935,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "\u00e1lvaro soto",
+      "title": "Alerta en el sur de Europa por el aumento de los casos de dengue",
+      "description": "Italia registra 66 casos, Francia, 36 y Espa\u00f1a, tres, de una enfermedad que se ha extendido por el fin de las restricciones de la covid y el cambio clim\u00e1tico",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2023/11/04/alerta-sur-europa-aumento-casos-dengue/00031699112780805675297.htm",
+      "urlToImage": "https://www.lavozdegalicia.es/default/2023/11/04/00121699113121469586279/Foto/efe_20231009_102741772.jpg",
+      "publishedAt": "2023-11-05 04:00:00",
+      "content": "Hace no demasiado tiempo, el dengue pareca una lejana amenaza para los europeos. Esta enfermedad tropical estaba circunscrita a Latinoamrica, a frica y a Asia, donde contina haciendo estragos. Pero a\u2026 [+2929 chars]",
+      "retrievedAt": "2023-11-06 07:05:46.356125",
+      "internal_id": "3a10241f553b05e3f8616e69ddfad8c9fbca3e13c2e2e0043d1310fba1dadab3",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2934,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Maharashtratimes.com",
+      "author": null,
+      "title": "\u0928\u093e\u0936\u093f\u0915\u0930\u093e\u0902\u0928\u094b \u0938\u093e\u0935\u0927\u093e\u0928! \u0921\u0947\u0902\u0917\u094d\u092f\u0942\u091a\u093e \u0927\u094b\u0915\u093e \u0935\u093e\u0922\u0932\u093e\u092f, \u0936\u0939\u0930\u093e\u0924 \u0935\u0930\u094d\u0937\u093e\u0924\u0940\u0932 \u092a\u0939\u093f\u0932\u093e \u092c\u0933\u0940, \u0924\u0940\u0928\u0936\u0947 \u0905\u0939\u0935\u093e\u0932 \u092a\u094d\u0930\u0932\u0902\u092c\u093f\u0924",
+      "description": "Nashik Dengue Cases: \u0910\u0928 \u0938\u0923\u093e\u0938\u0941\u0926\u0940\u0924 \u0928\u093e\u0936\u093f\u0915\u0915\u0930\u093e\u0902\u091a\u0902 \u091f\u0947\u0928\u094d\u0936\u0928 \u0935\u093e\u0922\u0932\u0902. \u092f\u093e \u0935\u0930\u094d\u0937\u093e\u0924\u0940\u0932 \u092a\u0939\u093f\u0932\u094d\u092f\u093e \u0921\u0947\u0902\u0917\u094d\u092f\u0942 \u092c\u0933\u0940\u091a\u0940 \u0928\u094b\u0902\u0926 \u091d\u093e\u0932\u0940. \u0905\u0926\u094d\u092f\u093e\u092a \u0924\u0940\u0928\u0936\u0947 \u0905\u0939\u0935\u093e\u0932 \u092a\u094d\u0930\u0932\u0902\u092c\u093f\u0924 \u0906\u0939\u0947\u0924.",
+      "url": "https://maharashtratimes.com/maharashtra/nashik/first-dengue-death-reported-in-nashik-city/articleshow/104977653.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-24316,msid-104977731/maharashtra-times.jpg",
+      "publishedAt": "2023-11-05 01:14:28",
+      "content": ". . , : . . . , . , . . . . . . , - . . . . . . . . . . - . , . , . , .? . . . . . ! '' , - - - - - - - - - - Marathi News App: ? . , ...ADVT - , ; , , ; \u2026 [+242 chars]",
+      "retrievedAt": "2023-11-06 07:05:46.337558",
+      "internal_id": "40b1880ced4e9a8d05ff0505d39eee0fc4628a6e41be0c32f44f199c185cb754",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2937,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "DEUTSCHE WELLE",
+      "title": "El dengue cae en Colombia, gracias a mosquitos con Wolbachia",
+      "description": "Los mosquitos infectados en laboratorio con la bacteria Wolbachia pueden estar relacionados con un descenso del 97% de las infecciones por dengue en tres ciudades del Valle de Aburr\u00e1, en Colombia. Lea: Dengue en Cartagena: casos han aumentado un 114% este 2023",
+      "url": "https://www.eluniversal.com.co/salud/el-dengue-cae-en-colombia-gracias-a-mosquitos-con-wolbachia-NK9387618",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1370x686/285c0/800d686/none/13704/BABQ/cientifica-colombiana_8869658_20231104172735.jpg",
+      "publishedAt": "2023-11-04 22:31:19",
+      "content": "Los mosquitos infectados en laboratorio con la bacteria Wolbachia pueden estar relacionados con un descenso del 97% de las infecciones por dengue en tres ciudades del Valle de Aburr\u00e1, en Colombia. Le\u2026 [+3764 chars]",
+      "retrievedAt": "2023-11-06 07:05:46.362598",
+      "internal_id": "4fa7eeb1805b40fb797558f4ed453086972d82c4be2fb24d32211f5308f48e45",
+      "publishedAtLabel": "Nov 4"
+    },
     {
       "id": 2933,
       "query": [
@@ -3529,96 +3619,6 @@
       "content": "Dengue fever cases are surging in Rome and Lazio. Italy\u2019s capital city is facing a concerning surge, with a total of 66 native cases reported in the latest update from the National Institute of Heal\u2026 [+1740 chars]",
       "retrievedAt": "2023-10-27 07:05:55.597016",
       "internal_id": "94d8cf6086f3cdf001aae189893ae83256096a2220d89d08e5df714b54732769",
-      "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2738,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": null,
-      "title": "US CDC panel recommends Bavarian Nordic's vaccine for adults at risk of mpox",
-      "description": "(marketscreener.com) Bavarian Nordic said on Wednesday the U.S. Centers for Disease Control and Prevention's Advisory Committee on Immunization Practices has voted in favor of recommending the routine use of Jynneos vaccine for adults at risk of mpox. htt\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/US-CDC-panel-recommends-Bavarian-Nordic-s-vaccine-for-adults-at-risk-of-mpox-45150119/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-10-25 18:15:11",
-      "content": "October 25, 2023 at 02:15 pm EDT Oct 25 (Reuters) - Bavarian Nordic said on Wednesday the U.S. Centers for Disease Control and Prevention's (CDC) Advisory Committee on Immunization Practices (ACIP\u2026 [+167 chars]",
-      "retrievedAt": "2023-10-26 19:05:29.335592",
-      "internal_id": "05b14451c7b98073459944277fa52fa079b91be840b48e5ed97eb5f7cb26c8e9",
-      "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2735,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Bavarian Nordic A/S",
-      "title": "Bavarian Nordics mpox-vaccine anbefales til rutinem\u00e6ssig brug i risikogrupper af de amerikanske sundhedsmyndigheders r\u00e5dgivningskomit\u00e9",
-      "description": "K\u00d8BENHAVN, Danmark, 25. oktober 2023 \u2013 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at den r\u00e5dgivende vaccinekomit\u00e9 (ACIP) hos det det amerikanske center for infektionsforebyggelse og folkesundhed (CDC) har stemt for at anbefale rutinem\u00e6ssig brug af JYNNEO\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/10/25/2766883/0/da/Bavarian-Nordics-mpox-vaccine-anbefales-til-rutinem%C3%A6ssig-brug-i-risikogrupper-af-de-amerikanske-sundhedsmyndigheders-r%C3%A5dgivningskomit%C3%A9.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
-      "publishedAt": "2023-10-25 18:03:00",
-      "content": "K\u00d8BENHAVN, Danmark, 25. oktober 2023 Bavarian Nordic A/S (OMX: BAVA) meddelte i dag, at den r\u00e5dgivende vaccinekomit\u00e9 (ACIP) hos det det amerikanske center for infektionsforebyggelse og folkesundhed (\u2026 [+5864 chars]",
-      "retrievedAt": "2023-10-26 19:05:29.325346",
-      "internal_id": "467159b90061b5b3a7701ee73e8ef9c02c4888c5e9c6a88d81695e1467e06be2",
-      "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2736,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Bavarian Nordic A/S",
-      "title": "Bavarian Nordic\u2019s Mpox Vaccine Receives Recommendation from U.S. CDC Advisory Committee for Routine Use in Adults at Risk",
-      "description": "COPENHAGEN, Denmark, October 25, 2023 \u2013 Bavarian Nordic A/S (OMX: BAVA) announced today that the U.S. Centers for Disease Control and Prevention\u2019s (CDC) Advisory Committee on Immunization Practices (ACIP) has voted in favor of recommending the routine use of \u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/10/25/2766883/0/en/Bavarian-Nordic-s-Mpox-Vaccine-Receives-Recommendation-from-U-S-CDC-Advisory-Committee-for-Routine-Use-in-Adults-at-Risk.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
-      "publishedAt": "2023-10-25 18:03:00",
-      "content": "COPENHAGEN, Denmark, October 25, 2023 Bavarian Nordic A/S (OMX: BAVA) announced today that the U.S. Centers for Disease Control and Preventions (CDC) Advisory Committee on Immunization Practices (ACI\u2026 [+5949 chars]",
-      "retrievedAt": "2023-10-26 19:05:29.329609",
-      "internal_id": "89554e515f46b72c873ac9ee5bf83b992a63b924b2f9867f9e3ea50bcc08e640",
-      "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2737,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "MIKE STOBBE AP medical writer",
-      "title": "Mpox vaccinations should be recommended for high-risk men, even after outbreak ends, advisers say",
-      "description": "Government health advisers say gay and bisexual men at high risk for mpox infection should get vaccinated for the virus even after the current outbreak ends",
-      "url": "https://abcnews.go.com/Health/wireStory/mpox-vaccinations-recommended-high-risk-men-after-outbreak-104288392",
-      "urlToImage": "https://i.abcnewsfe.com/a/c075ab9d-11d3-4083-baf0-198e7b508d84/wirestory_0b95274c0f6e2a2e37e45a853a54daa6_16x9.jpg?w=992",
-      "publishedAt": "2023-10-25 17:58:45",
-      "content": "NEW YORK -- Gay and bisexual men at high risk for mpox infection should get vaccinated for the virus even after the current outbreak ends, government health advisers said Wednesday. The committee's \u2026 [+2361 chars]",
-      "retrievedAt": "2023-10-26 19:05:29.332537",
-      "internal_id": "d05c6845ac1b69669905b7871d5f1ceff95e0722250605009f8abf641c0d8557",
-      "publishedAtLabel": "Oct 25"
-    },
-    {
-      "id": 2730,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "The Feed",
-      "title": "Sainsbury recalls chorizo over presence of bacteria causing meningitis",
-      "description": "Sainsbury's has warned customers to return packs of its own-label chorizo product due to possible listeria contamination. The affected product is Taste the Difference Spanish chorizo Iberico ring with use-by dates between November 23 and January 16. Listeria \u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/uk/sainsbury-recalls-chorizo-over-presence-of-meningitis-causing-bacteria/articleshow/104706606.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104706572,width-1200,height-630,imgsize-265540,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-25 17:25:13",
-      "content": "Big-ticket Buys Light Up Festive Sales in First LegDiscretionary spending by consumers on big-ticket items such as cars, smartphones, televisions, two-wheelers and household appliances is off to a fl\u2026 [+933 chars]",
-      "retrievedAt": "2023-10-26 19:05:27.574354",
-      "internal_id": "a13f6aa7c82a73c1c6f95b3f7692858c047e513d1115453968ed3f2520e1eb60",
       "publishedAtLabel": "Oct 25"
     }
   ]
