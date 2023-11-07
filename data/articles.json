@@ -1,8 +1,44 @@
 {
-  "last_updated": "2023-11-06 19:05",
+  "last_updated": "2023-11-07 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 2944,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "By JERUSALEM POST STAFF",
+      "title": "Monkeypox virus mutating, posing new threats to public health \u2013 study",
+      "description": "The monkeypox virus was once only spreadable from rats to humans but, with prolonged exposure to the human immune system, new strains have become more viral than ever before",
+      "url": "https://www.jpost.com/health-and-wellness/article-771850",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/555568",
+      "publishedAt": "2023-11-05 22:34:57",
+      "content": "Much like the Coronavirus did during the pandemic, the monkeypox (mpox) virus has begun to evolve into new deadlier strains, according to a new study released on November 2. The peer-reviewed study,\u2026 [+1819 chars]",
+      "retrievedAt": "2023-11-07 07:05:46.649600",
+      "internal_id": "e028c80b405170f3b71c2fe73f2ca22c5ef47f0633c6baa93f2536051fb3501e",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2943,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Harisson Minta Para Bupati dan Wali Kota Serius Tangani DBD",
+      "description": "KalbarOnline, Pontianak \u2013 Penjabat (Pj) Gubernur Provinsi Kalbar, Harisson meminta para bupati The post Harisson Minta Para Bupati dan Wali Kota Serius Tangani DBD appeared first on KalbarOnline.Com.",
+      "url": "https://www.kalbaronline.com/2023/11/06/harisson-minta-para-bupati-dan-wali-kota-serius-tangani-dbd/",
+      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/11/IMG-20231106-WA0001.jpg",
+      "publishedAt": "2023-11-05 20:17:40",
+      "content": "KalbarOnline, Pontianak \u2013 Penjabat (Pj) Gubernur Provinsi Kalbar, Harisson meminta para bupati dan wali kota serius dalam menangani lonjakan kasus demam berdarah dengue (DBD). Terutama pada wilayah y\u2026 [+4534 chars]",
+      "retrievedAt": "2023-11-07 07:05:44.895874",
+      "internal_id": "268e3dac225231335a2141ee74fa2dcdd03daa13ee390fde70715be357ad47aa",
+      "publishedAtLabel": "Nov 5"
+    },
     {
       "id": 2940,
       "query": [
@@ -3583,42 +3619,6 @@
       "content": "Navbharat Times News App: - , , , , -... NBT , ? 0 5 - ' ' ' ' , , G7 , Samsung Galaxy S23 FE , Galaxy S series , , ... <\u2026 [+154 chars]",
       "retrievedAt": "2023-10-27 19:05:14.024371",
       "internal_id": "529708ac0780e3c5c83f8c9430a0f9179ef35bb6ff3f0e1d184dbb64b502e19a",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2745,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "By JUDY SIEGEL-ITZKOVICH",
-      "title": "More measles cases diagnosed in Tel Aviv",
-      "description": "If symptoms of fever and headache appear followed a few days later by a rash, you should contact your doctor.",
-      "url": "https://www.jpost.com/health-and-wellness/article-770224",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/555568",
-      "publishedAt": "2023-10-26 08:30:07",
-      "content": "A total of nine cases of measles cases were discovered in Tel Aviv last month, according to the Health Ministry, whose epidemiologists found a connection among all of them. Although those infected we\u2026 [+797 chars]",
-      "retrievedAt": "2023-10-27 19:05:13.522082",
-      "internal_id": "dfa5f8ce7d2ce439397a2d8aea0729e431582b9e6f7df1c936823d434223e9c4",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2739,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "MOHD FARHAAN SHAH",
-      "title": "Rabies situation in Sarawak critical, owners should vaccinate their pets, says Lukanisman",
-      "description": "JOHOR BARU: Dog and cat owners in Sarawak must make sure that their pets have received vaccination against rabies, says Datuk Lukanisman Awang Sauni. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/26/rabies-situation-in-sarawak-critical-owners-should-vaccinate-their-pets-says-lukanisman",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/26/2355968.jpeg",
-      "publishedAt": "2023-10-26 05:44:00",
-      "content": "JOHOR BARU: Dog and cat owners in Sarawak must make sure that their pets have received vaccination against rabies, says Datuk Lukanisman Awang Sauni. The Deputy Health Minister said the ministry was\u2026 [+1358 chars]",
-      "retrievedAt": "2023-10-27 07:05:54.903438",
-      "internal_id": "9cc43aad348e73af3ed2b47f27daf736cdd22313fdfa0e14f5ffeacf96b2e353",
       "publishedAtLabel": "Oct 26"
     }
   ]
