@@ -1,8 +1,188 @@
 {
-  "last_updated": "2023-11-07 07:05",
+  "last_updated": "2023-11-07 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 2,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 2950,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Jungewelt.de",
+      "author": null,
+      "title": "Wirtschaft als das Leben selbst: M\u00fcnzmalles und Muckibuden [Online-Abo]",
+      "description": "Vielleicht kann man sagen, dass die Fitnessstudios die Br\u00e4unungsstudios durch Integration verdr\u00e4ngt haben.",
+      "url": "https://www.jungewelt.de/artikel/462643.m\u00fcnzmalles-und-muckibuden.html",
+      "urlToImage": "https://www.jungewelt.de/img/1100/187354.jpg",
+      "publishedAt": "2023-11-06 18:40:25",
+      "content": "In Oberhessen hatte ich mich eine Weile der Frankfurter K\u00fcnstlergruppe \u00bbBr\u00e4unungsstudio Malaria\u00ab zugesellt, die u. a. von Indulis Bilzns gegr\u00fcndet worden war. Seither werfe ich ein Auge auf diese kom\u2026 [+273 chars]",
+      "retrievedAt": "2023-11-07 19:05:25.787063",
+      "internal_id": "817eb511f5c84bd39b89dc27ec03be34517debb35dc26ee8311574641630e6a3",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 2945,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "syracuse.com",
+      "author": "Douglass Dowty | Ddowty@syracuse.com",
+      "title": "Free pet rabies vaccination clinic coming to Eastwood after rabid fox episode",
+      "description": "A rabid fox accosted twice the number of people previously known, the health department said Monday.",
+      "url": "https://www.syracuse.com/health/2023/11/free-pet-rabies-vaccination-clinic-coming-to-eastwood-after-rabid-fox-episode.html",
+      "urlToImage": "https://www.syracuse.com/resizer/YSR0Cy8TcgVsDv5a6asXkXl6m_M=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WWTE7JH64NGLVEG62RCRNZHAEE.jpg",
+      "publishedAt": "2023-11-06 17:53:08",
+      "content": "Syracuse, NY -- A free rabies vaccination clinic for pets will be held Thursday in Eastwood following a rabid fox episode last month that left health officials sounding the alarm. All told, six peop\u2026 [+1187 chars]",
+      "retrievedAt": "2023-11-07 19:05:24.620928",
+      "internal_id": "575e323753d2304a70b78a65191c962055de5e0a0532e663ff756902be0394ce",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 2951,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Acm.org",
+      "author": "The New York Times",
+      "title": "As a Teen, She Loved Video Games. Now She's Using A.I. to Try to Quash Malaria",
+      "description": "In Senegal, Rokhaya Diagne is using artificial intelligence to help the world eradicate malaria by 2030.",
+      "url": "https://cacm.acm.org/news/277841-as-a-teen-she-loved-video-games-now-shes-using-ai-to-try-to-quash-malaria/fulltext",
+      "urlToImage": "https://cacm.acm.org/system/assets/0004/6611/110623_Carmen_Abd_Ali_for_The_New_York_Times_Senegal.large.jpg?1699294443&1699294442",
+      "publishedAt": "2023-11-06 17:00:09",
+      "content": "By The New York Times November 6, 2023CommentsRokhaya Diagne, 25, a computer science major in Senegal, has channeled her teenage love for video games into a new passion: using artificial intelligenc\u2026 [+1100 chars]",
+      "retrievedAt": "2023-11-07 19:05:25.791525",
+      "internal_id": "545368b73dee94c8e309198acc93f618649ad27b979d4af543046fd972000a3c",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 2946,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "An\u00e1polis (GO) registra queda de 65% nos casos de dengue",
+      "description": "Trabalho em An\u00e1polis contra dengue ser\u00e1 intensificado na pr\u00f3xima semana com manejos e visitas em locais com maior n\u00famero de notifica\u00e7\u00f5es",
+      "url": "https://www.metropoles.com/brasil/anapolis-queda-65-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/01171055/combate-a-dengue-anapolis-1.jpeg",
+      "publishedAt": "2023-11-06 16:54:43",
+      "content": "Goi\u00e2nia O \u00faltimo boletim epidemiol\u00f3gico divulgado pela Secretaria Municipal de Sa\u00fade de An\u00e1polis, a 55 km da capital goiana, mostra que foram registradas 8.921 notifica\u00e7\u00f5es de casos de dengue, sendo \u2026 [+2366 chars]",
+      "retrievedAt": "2023-11-07 19:05:25.185809",
+      "internal_id": "abbe954d12d7da10fbb5518e7e71c35d1dba7ed2a323a1f04ab5d2c08f023a7f",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 2947,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Hoje em Dia fala sobre dengue no Voc\u00ea e o Doutor desta ter\u00e7a-feira (7)",
+      "description": "O m\u00e9dico de fam\u00edlia, Ant\u00f4nio Sproesser, tira d\u00favidas sobre preven\u00e7\u00e3o e quais s\u00e3o os primeiros sintomas",
+      "url": "https://recordtv.r7.com/hoje-em-dia/hoje-em-dia-fala-sobre-dengue-no-voce-e-o-doutor-desta-terca-feira-7-06112023",
+      "urlToImage": "https://img.r7.com/images/hoje-em-dia-09102023143902069",
+      "publishedAt": "2023-11-06 15:56:01",
+      "content": "O m\u00e9dico de fam\u00edlia, Ant\u00f4nio Sproesser, tira d\u00favidas sobre preven\u00e7\u00e3o e quais s\u00e3o os primeiros sintomas Edu Moraes / Record TV Comunica\u00e7\u00e3o No quadro Voc\u00ea e o Doutor, que vai ao ar no Hoje em\u2026 [+833 chars]",
+      "retrievedAt": "2023-11-07 19:05:25.198923",
+      "internal_id": "5f3b2d8a39cc6caf905cedec404a94f55e5ad6d033da6b3e9caab5ce611577cf",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 2952,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "govcom@gcis.pww.gov.za (Govt of SA)",
+      "title": "Gauteng Health Intensifies Malaria Awareness Campaign",
+      "description": "Press Release - Gauteng Health intensifies malaria awareness campaign",
+      "url": "https://allafrica.com/stories/202311060461.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-06 14:22:31",
+      "content": "Gauteng Health intensifies malaria awareness campaign As the Southern African Development Community (SADC) observe Malaria Day on 6 November 2023 to raise awareness on the curable and preventable di\u2026 [+2860 chars]",
+      "retrievedAt": "2023-11-07 19:05:25.794610",
+      "internal_id": "ee903ac5c6cdcd5ac8a7003e66364c79ede6990add5cb6efd990de99525cd21d",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 2954,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Sabah.com.tr",
+      "author": "MURAT KARAMAN",
+      "title": "Bat\u0131 Nil Vir\u00fcs\u00fc\u2019n\u00fc iki saatte tespit edebilen \u201cPCR Tan\u0131 Kiti\u201d geli\u015ftirildi",
+      "description": "Yak\u0131n Do\u011fu \u00dcniversitesi ara\u015ft\u0131rmac\u0131lar\u0131 Kovid-19 pandemisinde edindikleri tecr\u00fcbe ile Dang Hummas\u0131, Chikungunya Vir\u00fcs\u00fc, Maymun \u00c7i\u00e7e\u011fi, Hepatit Delta Vir\u00fcs\u00fc, FIP Vir\u00fcs\u00fc ve son olarak Bat\u0131 Nil Vir\u00fcs\u00fc gibi tehlikeli salg\u0131nlara sebep olabilecek vir\u00fcslerin tespiti\u2026",
+      "url": "http://www.sabah.com.tr/saglik/2023/11/06/bati-nil-virusunu-iki-saatte-tespit-edebilen-pcr-tani-kiti-gelistirildi",
+      "urlToImage": "https://iasbh.tmgrup.com.tr/6f20bb/650/344/0/156/1083/723?u=https://isbh.tmgrup.com.tr/sbh/2023/11/06/bati-nil-virusunu-iki-saatte-tespit-edebilen-pcr-tani-kiti-gelistirildi-1699269958032.jpg",
+      "publishedAt": "2023-11-06 11:53:49",
+      "content": "Ge\u00e7en ay, KKTC'de de tespit edilen \u00fc\u00e7 Bat Nil Vir\u00fcs\u00fc vakasndan ikisi Yakn Dou \u00dcniversitesi'nde g\u00f6rd\u00fc\u00fc tedavinin ardndan taburcu edilmi, 82 yandaki bir hasta ise hayatn kaybetmiti. Yakn Dou \u00dcniversite\u2026 [+1574 chars]",
+      "retrievedAt": "2023-11-07 19:05:26.282354",
+      "internal_id": "c958a5db8d15436fc4ea43d4a14856cf744f1eefb0a490f4c9dcfffaee5610ad",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 2949,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: First African-Manufactured Combination Therapy For Seasonal Malaria Chemoprevention Receives WHO Prequalification",
+      "description": "[Universal Corporation Ltd] Geneva and Kiambu -- Universal Corporation Ltd (UCL), a Strides Pharma Science Limited (Strides) enterprise, with support from MMV, becomes the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimetha\u2026",
+      "url": "https://allafrica.com/stories/202311060365.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-06 11:05:18",
+      "content": "Geneva and Kiambu \u2014 Universal Corporation Ltd (UCL), a Strides Pharma Science Limited (Strides) enterprise, with support from MMV, becomes the first African manufacturer to gain WHO prequalif\u2026 [+4942 chars]",
+      "retrievedAt": "2023-11-07 19:05:25.775363",
+      "internal_id": "859ea13e0472d9104e32aadb9c640a2e3375f71874f5607ed21f237b49c16536",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 2948,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (The Week US)",
+      "title": "The fight against malaria",
+      "description": "After declining for decades, deaths from the disease are suddenly on the rise. What\u2019s changed?",
+      "url": "https://theweek.com/health/the-fight-against-malaria",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NQcFh7jm7jedve2guN64A4-1200-80.jpg",
+      "publishedAt": "2023-11-06 09:00:28",
+      "content": "After declining for decades, deaths from the disease are suddenly on the rise. What\u2019s changed? Here's everything you need to know: How many people die from malaria? The mosquito-borne disease curr\u2026 [+6491 chars]",
+      "retrievedAt": "2023-11-07 19:05:25.771289",
+      "internal_id": "7eee1ba22de5a7b55daf784aaab79054dd8e43cd3a992c07eb19eecc5b2a84fa",
+      "publishedAtLabel": "Nov 6"
+    },
+    {
+      "id": 2953,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Uganda: Neonatal Conditions Top the List, Malaria Cases Decline in New Health Sector Performance Report",
+      "description": "[Nile Post] The annual health sector performance report has unveiled a comprehensive picture of the disease burden affecting the nation, with neonatal conditions emerging as the leading cause of health facility deaths across all age groups, accounting for a s\u2026",
+      "url": "https://allafrica.com/stories/202311060117.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-06 07:37:21",
+      "content": "The annual health sector performance report has unveiled a comprehensive picture of the disease burden affecting the nation, with neonatal conditions emerging as the leading cause of health facility \u2026 [+1735 chars]",
+      "retrievedAt": "2023-11-07 19:05:25.803556",
+      "internal_id": "2ba93817daca16f9d97965cd9aecee262be70574e394fdd08a1de25b33f59f7b",
+      "publishedAtLabel": "Nov 6"
+    },
     {
       "id": 2944,
       "query": [
@@ -3438,187 +3618,6 @@
       "content": "Aedes aegypti mosquitoes can spread dengue fever to humans via bites. CHRISTOPHE SIMON / AFP via Getty Images A person in Pasadena, California, has caught a case of dengue fever without traveling \u2026 [+4603 chars]",
       "retrievedAt": "2023-10-27 19:05:14.018614",
       "internal_id": "ce099c5ad7fbf6f332929717fa28222b333cecf4636917359bad2c0d8e9eef63",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2754,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Science X",
-      "title": "Malaria protein discovery offers path for novel antimalarial intervention strategies",
-      "description": "The discovery of a malaria protein that helps the parasite grow inside red blood cells and plays a key regulatory role in the parasite's immune evasion tactics could pave the way for new vaccines or therapeutics to combat the deadly infection.",
-      "url": "https://phys.org/news/2023-10-malaria-protein-discovery-path-antimalarial.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/malaria-protein-discov.jpg",
-      "publishedAt": "2023-10-26 15:00:02",
-      "content": "The discovery of a malaria protein that helps the parasite grow inside red blood cells and plays a key regulatory role in the parasite's immune evasion tactics could pave the way for new vaccines or \u2026 [+3428 chars]",
-      "retrievedAt": "2023-10-27 19:05:16.385463",
-      "internal_id": "f3ad80ddb4da973645de03e6fc59e137ad7bbf5874fa0ffb46bea3ff42f49ba6",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2749,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Wei-Xin Chin, Hao Yuin Kong, Isabelle Xin Yu Zhu, Zi Yun Teo, Regina Faruk, Regina Ching Hua Lee, Si Xian Ho, Zhen Qin Aw, Bowen Yi, Xin Jun Hou, Antson Kiat Yee Tan, Thinesshwary Yogarajah, Roland G. Huber, Yu Cai, Yue Wan, Justin Jang Hann Chu",
-      "title": "Flavivirus genome recoding by codon optimisation confers genetically stable in vivo attenuation in both mice and mosquitoes",
-      "description": "Author summary The mosquito-borne flaviviruses such as dengue virus (DENV) and Zika virus (ZIKV) have established themselves as major human pathogens. Live attenuated vaccines are seen as the most effective method for preventing flavivirus infection. Flavivir\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011753",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011753.g005&size=inline",
-      "publishedAt": "2023-10-26 14:00:00",
-      "content": "Citation: Chin W-X, Kong HY, Zhu IXY, Teo ZY, Faruk R, Lee RCH, et al. (2023) Flavivirus genome recoding by codon optimisation confers genetically stable in vivo attenuation in both mice and mosquito\u2026 [+72471 chars]",
-      "retrievedAt": "2023-10-27 19:05:14.040084",
-      "internal_id": "cdc1c03e045ac8d0224f1b250d0a9a946cc1e087dd4cf74b39dd3305d502127e",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2755,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Megan Okada, Paul A. Sigala",
-      "title": "The interdependence of isoprenoid synthesis and apicoplast biogenesis in malaria parasites",
-      "description": "Isoprenoid precursor synthesis is an ancient and fundamental function of plastid organelles and a critical metabolic activity of the apicoplast in Plasmodium malaria parasites [1\u20133]. Over the past decade, our understanding of apicoplast properties and functio\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011713",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011713.g002&size=inline",
-      "publishedAt": "2023-10-26 14:00:00",
-      "content": "Abstract Isoprenoid precursor synthesis is an ancient and fundamental function of plastid organelles and a critical metabolic activity of the apicoplast in Plasmodium malaria parasites [13]. Over th\u2026 [+21790 chars]",
-      "retrievedAt": "2023-10-27 19:05:16.392021",
-      "internal_id": "6a0f39986b8b83e8d4585ff23762eaefe4c5d48cc268bb08151616e485f44c74",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2756,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Futurity: Research News",
-      "author": "Andy Fell-UC Davis",
-      "title": "Zika virus in pregnant monkeys stymies fetal growth",
-      "description": "Zika virus infection in pregnant rhesus macaques slows fetal growth and affects how infants and mothers interact in the first month of life.",
-      "url": "https://www.futurity.org/zika-virus-pregnant-macaques-2991792/",
-      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2023/10/zika-virus-macaques-pregnant-fetal-growth-1600.jpg",
-      "publishedAt": "2023-10-26 13:32:32",
-      "content": "Zika virus infection in pregnant rhesus macaques slows fetal growth and affects how infants and mothers interact in the first month of life, according to a new study. The findings have has implicati\u2026 [+4063 chars]",
-      "retrievedAt": "2023-10-27 19:05:16.951176",
-      "internal_id": "c667258d09cb4fb648b712258ad43af2e9cbd6863f2e8aa11e83426a88a20e63",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2757,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
-      "title": "CDC Advisors Recommend Mpox Shots For Routine Prevention Among At-Risk Adults\u2014Here\u2019s What To Know",
-      "description": "There have been more than 30,000 mpox cases and 54 deaths reported in the U.S. but vaccine maker Bavarian Nordic said \u201ca significant number of people\u201d are still vulnerable to infection.",
-      "url": "https://www.forbes.com/sites/roberthart/2023/10/26/cdc-advisors-recommend-mpox-shots-for-routine-prevention-among-at-risk-adults-heres-what-to-know/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/653a6439d42a7a034a452853/0x0.jpg?format=jpg&crop=3119,1755,x0,y213,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-10-26 13:15:36",
-      "content": "A Centers for Disease Control and Prevention committee voted Wednesday to recommend the routine use of Bavarian Nordics mpox vaccine in at-risk adults, paving the way for commercialization and issuin\u2026 [+4372 chars]",
-      "retrievedAt": "2023-10-27 19:05:18.068616",
-      "internal_id": "10bd260d2f7c9ecae495b814c307109bfcc1be54c8569da0712b7848fc495188",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2746,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Brisbane Times",
-      "author": "Tony Moore",
-      "title": "Queensland Health says state at risk of measles, mumps and whooping cough outbreaks",
-      "description": "\u201cAlarming\u201d low vaccination rates in Queensland show the state is at risk of outbreaks of children\u2019s diseases including tetanus, measles, mumps, rubella and whooping cough.",
-      "url": "https://www.brisbanetimes.com.au/national/queensland/queensland-health-says-state-at-risk-of-measles-mumps-and-whooping-cough-outbreaks-20231026-p5efb4.html",
-      "urlToImage": "https://static.ffx.io/images/$zoom_0.3137%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_79%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_rebranded_no_label_no_age_social_wm/cc81057ca74b64639bd89a7fd7f673d9fc37e5ce",
-      "publishedAt": "2023-10-26 11:02:45",
-      "content": "Queensland also has the third-lowest vaccination rate for two-year-old children. The study also shows parents are not taking up free school immunisation programs. Additionally, 2022 saw the lowest \u2026 [+2599 chars]",
-      "retrievedAt": "2023-10-27 19:05:13.530538",
-      "internal_id": "464393d32f4d20b769f7be4140146c92ae9ee6ad725ca3ad5a3226079ec869ad",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2753,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Jen Christensen",
-      "title": "A \u2018new turning point\u2019: Patients could soon have a new shot to protect them from deadly meningitis | CNN",
-      "description": "Pfizer\u2019s new meningococcal vaccine, Penbraya, protects against five kinds of bacteria and could soon be an option that offers people broad protection from meningococcal disease with fewer shots.",
-      "url": "https://www.cnn.com/2023/10/25/health/meningitis-vaccine-changes/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231025142219-pfizer-office-belgium.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-10-26 10:36:35",
-      "content": "Patti Wukovits still thinks about how she had to bury her daughter in her prom dress. In June 2012, 17-year-old Kimberly Coffey had a fever and body aches. She told her mom it felt like her ankles w\u2026 [+7565 chars]",
-      "retrievedAt": "2023-10-27 19:05:14.594445",
-      "internal_id": "341a271e0b614af66764b34bd64953abf0dbcb26f29bc537d82fe71e71460d9d",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2750,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Www.gov.uk",
-      "author": "UK Health Security Agency",
-      "title": "Guidance: MenACWY vaccine: information for young people",
-      "description": "A guide to the MenACWY vaccine \u2013 to protect teenagers and young people from meningitis and septicaemia",
-      "url": "https://www.gov.uk/government/publications/menacwy-vaccine-information-for-young-people",
-      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
-      "publishedAt": "2023-10-26 10:36:23",
-      "content": "This leaflet explains the MenACWY vaccine that protects against 4 types of meningococcal disease (group A, group C, group W and group Y) which can cause severe illness including septicaemia. The Men\u2026 [+478 chars]",
-      "retrievedAt": "2023-10-27 19:05:14.584553",
-      "internal_id": "345312b661004ec22fd15b3ae6338251dd30acf7371dac1c4384826285d3c985",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2759,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Siti Nurhaliza, Raka Adji",
-      "title": "Mpox: Jakarta continues close contact tracing to fight transmission",
-      "description": "The Jakarta Health Office continues to conduct case detection efforts against mpox by tracing close contacts for 24 hours to prevent spread of the disease. \u201cWe carry out a 24-hour investigation, including close contact ...",
-      "url": "https://en.antaranews.com/news/297180/mpox-jakarta-continues-close-contact-tracing-to-fight-transmission",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/10/26/InShot_20231026_121542019.jpg",
-      "publishedAt": "2023-10-26 09:23:57",
-      "content": "Jakarta (ANTARA) - The Jakarta Health Office continues to conduct case detection efforts against mpox by tracing close contacts for 24 hours to prevent spread of the disease.\u201cWe carry out a 24-hour i\u2026 [+2040 chars]",
-      "retrievedAt": "2023-10-27 19:05:18.084593",
-      "internal_id": "0d81938807cc9198269c1a836df1d3ca50316aed620dfa8508b79da4573d0d6b",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2748,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u0907\u0924\u0928\u0947 \u0922\u0940\u0920 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u091a\u094d\u091b\u0930, \u0924\u092a\u0924\u0940-\u091c\u0932\u0924\u0940 \u091a\u0941\u092d\u0928 \u092e\u0947\u0902 \u092d\u0940 \u091c\u093f\u0902\u0926\u093e \u0930\u0939 \u0932\u0947\u0924\u0947 \u0939\u0948\u0902: \u0938\u094d\u091f\u0921\u0940",
-      "description": "Dengue Study News: \u0926\u093f\u0932\u094d\u0932\u0940 \u0938\u0939\u093f\u0924 \u0915\u0908 \u0930\u093e\u091c\u094d\u092f\u094b\u0902 \u092e\u0947\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u093e \u0906\u0902\u0924\u0915 \u092c\u0922\u093c\u093e \u091c\u093e \u0930\u0939\u093e \u0939\u0948\u0964 \u0915\u0947\u0938 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e \u092c\u0922\u093c\u0924\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948\u0964 \u0907\u0938 \u092c\u0940\u091a \u090f\u0915 \u0938\u094d\u091f\u0921\u0940 \u0928\u0947 \u0938\u092c\u0915\u093e \u0927\u094d\u092f\u093e\u0928 \u0916\u0940\u0902\u091a\u093e \u0939\u0948\u0964 \u0938\u094d\u091f\u0921\u0940 \u092e\u0947\u0902 \u092a\u0924\u093e \u091a\u0932\u093e \u0939\u0948 \u0915\u093f \u0921\u0947\u0902\u0917\u0942 \u092e\u091a\u094d\u091b\u0930 \u0915\u0947 \u0905\u0902\u0921\u0947 \u0915\u0920\u093f\u0928 \u092a\u0930\u093f\u0938\u094d\u0925\u093f\u0924\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u092d\u0940 \u0928\u0939\u0940\u0902 \u0916\u0930\u093e\u092c \u0939\u094b\u0924\u0947 \u0939\u0948\u0902 \u0914\u0930 \u0905\u0928\u0941\u0915\u0942\u0932 \u092e\u093e\u0939\u094c\u0932 \u092e\u0947\u0902 \u092b\u093f\u0930 \u2026",
-      "url": "https://navbharattimes.indiatimes.com/india/dengue-eggs-can-resist-in-tough-condition-can-grow-in-familiar-conditions-new-study/articleshow/104722623.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-41510,msid-104722670/navbharat-times.jpg",
-      "publishedAt": "2023-10-26 08:37:52",
-      "content": "Navbharat Times News App: - , , , , -... NBT , ? 0 5 - ' ' ' ' , , G7 , Samsung Galaxy S23 FE , Galaxy S series , , ... <\u2026 [+154 chars]",
-      "retrievedAt": "2023-10-27 19:05:14.024371",
-      "internal_id": "529708ac0780e3c5c83f8c9430a0f9179ef35bb6ff3f0e1d184dbb64b502e19a",
       "publishedAtLabel": "Oct 26"
     }
   ]
