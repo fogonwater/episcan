@@ -1,8 +1,206 @@
 {
-  "last_updated": "2023-11-08 07:06",
+  "last_updated": "2023-11-08 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 2960,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Jhonatan Gonz\u00e1lez",
+      "title": "Casos de dengue se triplican en Chiapas; van dos muertos",
+      "description": "La Secretar\u00eda de Salud federal report\u00f3 que en Chiapas se han registrado dos muertes por dengue, adem\u00e1s, indic\u00f3 que el n\u00famero de casos asciende a 2 mil 531, de los cuales mil 294 fueron considerados como dengue con signos de alarma y grave.Ante esta situaci\u00f3n \u2026",
+      "url": "https://www.milenio.com/estados/casos-de-dengue-en-chiapas-se-triplican-hay-muertos",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/25/campana-fumigacion-oaxaca-dengue-provoca.jpeg",
+      "publishedAt": "2023-11-07 18:47:00",
+      "content": "La Secretar\u00eda de Salud federal report\u00f3 que en Chiapas se han registrado dos muertes por dengue, adem\u00e1s, indic\u00f3 que el n\u00famero de casos asciende a 2 mil 531, de los cuales mil 294 fueron considerados c\u2026 [+1375 chars]",
+      "retrievedAt": "2023-11-08 19:05:26.732559",
+      "internal_id": "d2f0a15be71f603e1258b5164ff438db8d9b97acb760f59aabafbc70b54c9d82",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2967,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N COLOMBIA",
+      "title": "\u00a1Atenci\u00f3n! Minsalud report\u00f3 casi 80 mil casos en lo que va del 2023",
+      "description": "El Ministerio de Salud y Protecci\u00f3n Social report\u00f3 que en lo que va de 2023 Colombia registr\u00f3 79.934 casos de malaria, de los cuales 1.357 presentaron complicaciones.",
+      "url": "https://www.eluniversal.com.co/colombia/atencion-minsalud-reporto-casi-80-mil-casos-en-lo-que-va-del-2023-FE9402698",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1019x686/110c0/800d686/none/13704/CVNK/malaria_8884127_20231107132455.jpg",
+      "publishedAt": "2023-11-07 18:30:39",
+      "content": "El Ministerio de Salud y Protecci\u00f3n Social report\u00f3 que en lo que va de 2023 Colombia registr\u00f3 79.934 casos de malaria, de los cuales 1.357 presentaron complicaciones. Las regiones m\u00e1s afectadas por \u2026 [+2523 chars]",
+      "retrievedAt": "2023-11-08 19:05:27.759126",
+      "internal_id": "fb00168f0fb4f774e2109db1f3d6674344b356f48cde44875afbe9e25ba367a0",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2966,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Max Barnhart",
+      "title": "Antibiotics that fight deadly infections in babies are losing their power",
+      "description": "New research finds that the most commonly prescribed antibiotics in Southeast Asia are only 50% effective at treating sepsis and meningitis in newborns. It's a cause for global concern.",
+      "url": "https://www.npr.org/sections/goatsandsoda/2023/11/07/1209109088/antibiotics-that-fight-deadly-infections-in-babies-are-losing-their-power",
+      "urlToImage": "https://media.npr.org/assets/img/2023/11/07/gettyimages-1395717630_wide-9cda7577a4f5d918374134479b6d36542f61d853-s1400-c100.jpg",
+      "publishedAt": "2023-11-07 17:38:27",
+      "content": "The above illustration depicts a molecular model for a carbapenem drug. The carbapenem group of antibiotics is the last resort for antibiotic-resistant infections and is approved for children. But ca\u2026 [+6837 chars]",
+      "retrievedAt": "2023-11-08 19:05:27.120373",
+      "internal_id": "3cadcdac1a9aad5c6a3cac674819b6972bc39b8a40ed511c51ba78edd39e4ef9",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2965,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sylhetmirror.com",
+      "author": "Enamul Haque Renu",
+      "title": "China becomes important partner of Bangladesh: Ambassador Yao",
+      "description": "Chinese Ambassador to Bangladesh Yao Wen on Tuesday said under the joint guidance of two countries\u2019 leaderships, Bangladesh and China would definitely pool together efforts and fight side by side to win the war against the dengue epidemic, thereby protect the\u2026",
+      "url": "https://sylhetmirror.com/2023/11/07/china-becomes-important-partner-of-bangladesh-ambassador-yao/",
+      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/11/hWcc4.jpg",
+      "publishedAt": "2023-11-07 16:51:50",
+      "content": "Chinese Ambassador to Bangladesh Yao Wen on Tuesday said under the joint guidance of two countries\u2019 leaderships, Bangladesh and China would definitely pool together efforts and fight side by side to \u2026 [+3435 chars]",
+      "retrievedAt": "2023-11-08 19:05:26.781666",
+      "internal_id": "0273b21c1448a4472a7f932288ef993b008d0ab77f28ae22725319aad22fa036",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2963,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "1st LD Writethru: China provides anti-dengue emergency supply to Bangladesh",
+      "description": "DHAKA, Nov. 7 (Xinhua) -- A handover ceremony of China's anti-dengue emergency supply for Bangladesh was held here on Tuesday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2023/11/08/1st-ld-writethru-china-provides-anti-dengue-emergency-supply-to-bangladesh",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-11-07 16:19:00",
+      "content": "DHAKA, Nov. 7 (Xinhua) -- A handover ceremony of China's anti-dengue emergency supply for Bangladesh was held here on Tuesday. Chinese Ambassador to Bangladesh Yao Wen handed over the supply to the\u2026 [+1408 chars]",
+      "retrievedAt": "2023-11-08 19:05:26.766679",
+      "internal_id": "4ce3e5193113b45a593806097ee39cd993c00b23e2a27029e3b319770cd7d05c",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2970,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Yale.edu",
+      "author": null,
+      "title": "Finding a pathway to a human leptospirosis vaccine",
+      "description": "Joseph Vinetz, MD, professor of medicine (infectious diseases), anthropology, and epidemiology (microbial diseases), founded the company Luna Bioscience to develop vaccines for emerging global infectious diseases, with a focus on leptospirosis.",
+      "url": "https://medicine.yale.edu/news-article/finding-a-pathway-to-a-human-leptospirosis-vaccine/",
+      "urlToImage": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/0216b58c-27e8-4d34-bf5b-a27adf5197f7",
+      "publishedAt": "2023-11-07 15:32:32",
+      "content": "Joseph Vinetz, MD, is professor of medicine (infectious diseases), anthropology, and epidemiology (microbial diseases). His goal is to translate cutting-edge science into infectious disease control a\u2026 [+2513 chars]",
+      "retrievedAt": "2023-11-08 19:05:29.258333",
+      "internal_id": "d87b68ec4849d95650fe8faf5cc8a5817c2b62d21c6c8109b88c0bb252308f41",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2964,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Dengue death toll rises to 1,425 with 8 more deaths in a day",
+      "description": "During the period, 1,895 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-1425-8-more-deaths-day-735122",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2023-11-07 14:51:53",
+      "content": "Eight more deaths were reported from dengue in 24 hours till Tuesday (7 November) morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,425 this year. During the period,\u2026 [+672 chars]",
+      "retrievedAt": "2023-11-08 19:05:26.770371",
+      "internal_id": "933c1f86c3184ea6cc9a4cd615cb509f31253afea03acc88ae22aa997af1697f",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2961,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Eun Jeong Yu, Eun-A. Park, Seung-Ah Choe, Kyung-Ah Lee, You Shin Kim",
+      "title": "Correction: Demographic and Clinico-Epidemiological Features of Dengue Fever in Faisalabad, Pakistan",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294300",
+      "urlToImage": null,
+      "publishedAt": "2023-11-07 14:00:00",
+      "content": "Citation: Yu EJ, Park E-A, Choe S-A, Lee K-A, Kim YS (2023) Correction: Demographic and Clinico-Epidemiological Features of Dengue Fever in Faisalabad, Pakistan. PLoS ONE 18(11): e0294300. https:/\u2026 [+330 chars]",
+      "retrievedAt": "2023-11-08 19:05:26.751329",
+      "internal_id": "c5e1c6e1ca617176a307df7cfb6f0b155eeb56c047e0da054823b88ebab0dc91",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2968,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "Pascal Kiss, SWR",
+      "title": "Studie: Mpox-Ausbruch muss schon l\u00e4nger zur\u00fcck liegen",
+      "description": "Warum konnte sich Mpox (fr\u00fcher Affenpocken) 2022 pl\u00f6tzlich so ausbreiten? Eine neue Analyse zeigt nun: Die Virusvariante ist viel fr\u00fcher entstanden als bisher gedacht. Von Pascal Kiss.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/mpox-ausbruch-theorie-affenpocken-genanalyse-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/962c540e-9afd-422e-95b1-4c3ad56e36d2/AAABhnPqjMo/AAABibBxqrQ/16x9-1280/affenpocken-137.jpg",
+      "publishedAt": "2023-11-07 13:52:58",
+      "content": "Stand: 07.11.2023 14:52 Uhr Warum konnte sich Mpox (fr\u00fcher Affenpocken) 2022 pl\u00f6tzlich so ausbreiten? Eine neue Analyse zeigt nun: Die Virusvariante ist viel fr\u00fcher entstanden als bisher gedacht. P\u2026 [+5690 chars]",
+      "retrievedAt": "2023-11-08 19:05:28.821648",
+      "internal_id": "9b325d903367c777868c7a7a28a022f6ba3e0d92933c1573eaa4dfac71bb6f01",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2969,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Korrespondent.net",
+      "author": "1",
+      "title": "\u041d\u0430 \u0422\u0430\u0439\u0432\u0430\u043d\u0456 \u0437\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u043e\u0432\u0430\u043d\u043e \u043f\u0435\u0440\u0448\u0438\u0439 \u0432\u0438\u043f\u0430\u0434\u043e\u043a \u0441\u043c\u0435\u0440\u0442\u0456 \u0432\u0456\u0434 \u0432\u0456\u0441\u043f\u0438 \u043c\u0430\u0432\u043f",
+      "description": "\u0427\u043e\u043b\u043e\u0432\u0456\u043a \u0437\u0432\u0435\u0440\u043d\u0443\u0432\u0441\u044f \u0434\u043e \u043b\u0456\u043a\u0430\u0440\u0456\u0432 \u0447\u0435\u0440\u0435\u0437 \u043c\u0456\u0441\u044f\u0446\u044c \u043f\u0456\u0441\u043b\u044f \u043f\u043e\u044f\u0432\u0438 \u0432 \u043d\u044c\u043e\u0433\u043e \u0441\u0438\u043c\u043f\u0442\u043e\u043c\u0456\u0432 \u0437\u0430\u0445\u0432\u043e\u0440\u044e\u0432\u0430\u043d\u043d\u044f. \u0412\u0456\u043d \u043d\u0435 \u0431\u0443\u0432 \u0432\u0430\u043a\u0446\u0438\u043d\u043e\u0432\u0430\u043d\u0438\u0439 \u043f\u0440\u043e\u0442\u0438 mpox.",
+      "url": "https://ua.korrespondent.net/world/4638241-na-taivani-zareiestrovano-pershyi-vypadok-smerti-vid-vispy-mavp",
+      "urlToImage": "https://kor.ill.in.ua/m/1260x900/2946947.jpg",
+      "publishedAt": "2023-11-07 13:42:00",
+      "content": "- mpox. - , . - , , , , '. , ' '. . .net Telegram WhatsApp. https://t.me/korrespondentnetWhatsApp",
+      "retrievedAt": "2023-11-08 19:05:28.831986",
+      "internal_id": "6221734e3f5070a7e21a4124839035f8468a76c2c3fe304fea570a16e0f50fa7",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2962,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Voc\u00ea e o Doutor : Saiba como evitar e tratar a dengue",
+      "description": "O quadro Voc\u00ea e o Doutor desta ter\u00e7a-feira (7) fala sobre a dengue. Somente neste ano, foram registrados mais de 1,6 milh\u00e3o de casos, com mil ...",
+      "url": "https://recordtv.r7.com/hoje-em-dia/voce-e-o-doutor/videos/voce-e-o-doutor-saiba-como-evitar-e-tratar-a-dengue-07112023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/11/07/654a5356cd77c0f230001998/358f86b87b6d4ca583af34a2dc3842ca__2271335_EPP_0711_HD_VOCE_DOUTOR_thumb_thumb.jpg",
+      "publishedAt": "2023-11-07 12:54:00",
+      "content": "O quadro Voc\u00ea e o Doutor desta ter\u00e7a-feira (7) fala sobre a dengue. Somente neste ano, foram registrados mais de 1,6 milh\u00e3o de casos, com mil mortes confirmadas no Brasil. Os n\u00fameros de 2023 preoc\u2026 [+289 chars]",
+      "retrievedAt": "2023-11-08 19:05:26.759770",
+      "internal_id": "766eae94dcb350287c526aeb2ab6c17163793eae60b06f96919016e58876804d",
+      "publishedAtLabel": "Nov 7"
+    },
     {
       "id": 2959,
       "query": [
@@ -3420,205 +3618,6 @@
       "retrievedAt": "2023-10-28 19:05:07.882080",
       "internal_id": "684b363cbf9f32f801fd252c82a23e778392b5749a7ffb59df80541bbc8aa53c",
       "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2774,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "How eggs of dengue-carrying mosquito survive found",
-      "description": "Science News: NEW DELHI: Eggs of the mosquito that carries the viruses responsible for dengue and Chikungunya can survive extreme dehydration by altering their meta.",
-      "url": "https://timesofindia.indiatimes.com/home/science/how-eggs-of-dengue-carrying-mosquito-survive-found/articleshow/104753452.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104753470,width-1070,height-580,imgsize-61600,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-27 10:16:21",
-      "content": "FOLLOW US ON SOCIAL MEDIA",
-      "retrievedAt": "2023-10-28 19:05:08.365969",
-      "internal_id": "5e5514a63c7687c9490001dc6b354d4a00f67a5de324d0c5fbfd338b97c7fe32",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2766,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "El descubrimiento de una prote\u00edna de la malaria abre la v\u00eda a nuevas estrategias de tratamientos",
-      "description": "El descubrimiento de una prote\u00edna de la malaria que ayuda al par\u00e1sito a crecer en el interior de los gl\u00f3bulos rojos y desempe\u00f1a una funci\u00f3n reguladora clave en las t\u00e1cticas de evasi\u00f3n inmunitaria del par\u00e1sito podr\u00eda allanar el camino a nuevas vacunas o terapi\u2026",
-      "url": "https://www.infosalus.com/farmacia/noticia-descubrimiento-proteina-malaria-abre-via-nuevas-estrategias-tratamientos-20231027071448.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231027071448_1200.jpg",
-      "publishedAt": "2023-10-27 05:14:48",
-      "content": "MADRID, 27 Oct. (EUROPA PRESS) - El descubrimiento de una prote\u00edna de la malaria que ayuda al par\u00e1sito a crecer en el interior de los gl\u00f3bulos rojos y desempe\u00f1a una funci\u00f3n reguladora clave en las\u2026 [+3226 chars]",
-      "retrievedAt": "2023-10-28 07:05:25.887077",
-      "internal_id": "649481cf61f40cc0731daa2fa4fac3a30d0c26a5f67182586fea9fadd8ce733f",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2764,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Dengue scare in Delhi: 'Situation under control, nothing to panic about', says Mayor Shelly Oberoi",
-      "description": "New Delhi: Talking about the Dengue cases in Delhi, Mayor Shelly Oberoi on October 26 assured that the situation is under control in the city. She further said that all the hospitals are ready in case of emergency. There is nothing to panic, she added. 'The s\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/dengue-scare-in-delhi-situation-under-control-nothing-to-panic-about-says-mayor-shelly-oberoi/videoshow/104742344.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104742344,width-1070,height-580,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-27 03:32:43",
-      "content": "New Delhi: Talking about the Dengue cases in Delhi, Mayor Shelly Oberoi on October 26 assured that the situation is under control in the city. She further said that all the hospitals are ready in cas\u2026 [+361 chars]",
-      "retrievedAt": "2023-10-28 07:05:24.895919",
-      "internal_id": "bcf46212303323463749f6dee26a393e586426a5489665e6258de2e8dba6f131",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2765,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Jagran.com",
-      "author": "Madan Panchal",
-      "title": "Ghaziabad: \u0932\u0917\u093e\u0924\u093e\u0930 \u092c\u0922\u093c\u0947 \u0930\u0939\u0947 \u0939\u0948\u0902 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947, \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0935\u093f\u092d\u093e\u0917 \u0915\u0940 \u091f\u0940\u092e \u0928\u0947 \u0915\u093f\u092f\u093e 4637 \u0918\u0930\u094b\u0902 \u0915\u093e \u0938\u0930\u094d\u0935\u0947, \u092e\u093f\u0932\u0947 19 \u0928\u090f \u092e\u0930\u0940\u091c - Dengue cases continuously increasing in Ghaziabad 19 dengue patients found health department team surveyed 4637 houses",
-      "description": "\u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926 \u092e\u0947\u0902 \u0917\u0941\u0930\u0941\u0935\u093e\u0930 \u0915\u094b 82 \u092e\u0930\u0940\u091c\u094b\u0902 \u0915\u0940 \u091c\u093e\u0902\u091a \u0915\u0930\u0928\u0947 \u092a\u0930 \u091a\u093e\u0930 \u092c\u091a\u094d\u091a\u094b\u0902 \u0938\u092e\u0947\u0924 \u0921\u0947\u0902\u0917\u0942 \u0915\u0947 19 \u0928\u090f \u0915\u0947\u0938 \u092e\u093f\u0932\u0947 \u0939\u0948\u0902\u0964 \u0928\u090f \u0915\u0947\u0938 \u0915\u0935\u093f\u0928\u0917\u0930\u0938\u0926\u0930\u092a\u0941\u0930 \u0935\u093f\u091c\u092f\u0928\u0917\u0930 \u0907\u0902\u0926\u093f\u0930\u093e\u092a\u0941\u0930\u092e \u0936\u0932\u0940\u092e\u093e\u0930 \u0917\u093e\u0930\u094d\u0921\u0928 \u0938\u0947\u0935\u093e\u0928\u0917\u0930 \u092e\u094b\u0926\u0940\u0928\u0917\u0930 \u092d\u094b\u091c\u092a\u0941\u0930\u0936\u093e\u0938\u094d\u0924\u094d\u0930\u0940\u0928\u0917\u0930 \u0914\u0930 \u0921\u093e\u0938\u0928\u093e \u092e\u0947\u0902 \u092e\u093f\u0932\u0947 \u0939\u0948\u0902\u0964 \u091c\u093f\u0932\u093e \u090f\u092e\u090f\u092e\u091c\u0940 \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u0915\u0947 \u0921\u0947\u0902\u0917\u0942 \u0935\u093e\u0930\u094d\u0921 \u092e\u0947\u0902 \u0915\u0941\u0932 22 \u092e\u0930\u0940\u091c \u092d\u0930\u2026",
-      "url": "https://www.jagran.com/uttar-pradesh/ghaziabad-ncr-dengue-cases-continuously-increasing-in-ghaziabad-19-dengue-patients-found-health-department-team-surveyed-4637-houses-23566218.html",
-      "urlToImage": "https://www.jagranimages.com/images/newimg/27102023/27_10_2023-dengue_cases_in_ghaziabad_23566218.jpg",
-      "publishedAt": "2023-10-27 03:31:28",
-      "content": ", 82 19 ,, , , , , , , 22 11 . 994 113 25 15 170 105 4637 82 43 59 : Ghaziabad: , 632 1731 345 985 287 27 . 201868<\u2026 [+812 chars]",
-      "retrievedAt": "2023-10-28 07:05:24.911676",
-      "internal_id": "dfa3fe69555690e0f8ef8d9ee59a9e149693c44ad3bd9f5e6a2cadeafddea2dd",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2767,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "CDC advisors vote to recommend routine use of the mpox vaccine to protect people at high risk of infection - CNN",
-      "description": "CDC advisors vote to recommend routine use of the mpox vaccine to protect people at high risk of infectionCNN Mpox vaccinations should be recommended for high-risk men, even after outbreak ends, advisers sayNBC News CDC Advisors Recommend Mpox Shots For Routi\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172115349",
-      "urlToImage": null,
-      "publishedAt": "2023-10-27 02:12:08",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-28 07:05:26.922316",
-      "internal_id": "1775484fbb4f8f8d9950c8d9ded9f88abbb0c292f0999d60004f1db75920cb96",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2762,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "13newsnow.com WVEC",
-      "author": "13news Now Staff",
-      "title": "Rabid skunk found in Isle of Wight County, health officials say",
-      "description": "The skunk was found after it fought a dog on Oct. 20 in the Lake Tormentor area of the county, Virginia health officials said.",
-      "url": "https://www.13newsnow.com/article/life/animals/health-officials-remind-people-vaccinate-pets-rabid-skunk-found-isle-of-wight-county/291-d390d3ef-97c8-44d3-b0aa-941ed5eceb33",
-      "urlToImage": "https://media.13newsnow.com/assets/WVEC/images/b900caf5-b8a6-4d5b-863c-04f7f8b3f277/b900caf5-b8a6-4d5b-863c-04f7f8b3f277_1140x641.jpg",
-      "publishedAt": "2023-10-26 23:15:40",
-      "content": "ISLE OF WIGHT COUNTY, Va. Virginia health officials are reminding people to have their pets vaccinated after a skunk tested positive for rabies in Isle of Wight County. The test results come after t\u2026 [+1521 chars]",
-      "retrievedAt": "2023-10-28 07:05:23.970860",
-      "internal_id": "06ac6c988d4dc2260dd5ce547a83f0560a346c2b7da0e4be79df6042ffca7cea",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2768,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "CDC advisers vote to recommend routine use of the mpox vaccine to protect people at high risk of infection - CNN",
-      "description": "CDC advisers vote to recommend routine use of the mpox vaccine to protect people at high risk of infectionCNN Mpox vaccinations should be recommended for high-risk men, even after outbreak ends, advisers sayNBC News CDC Advisors Recommend Mpox Shots For Routi\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172114033",
-      "urlToImage": null,
-      "publishedAt": "2023-10-26 21:12:32",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-10-28 07:05:26.926418",
-      "internal_id": "c4f6ad304d540e920980aca07e5b0c42cf7d39ec1d87b8e87a994a4e26f298af",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2769,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Brenda Goodman",
-      "title": "CDC advisers vote to recommend routine use of the mpox vaccine to protect people at high risk of infection",
-      "description": "Men who have sex with men and others who are at high risk of mpox infection should get two doses of the Jynneos vaccine, even now that the recent public health emergency in the United States has passed, according to an independent panel of experts that advise\u2026",
-      "url": "https://www.cnn.com/2023/10/26/health/mpox-vaccine-cdc-adviser/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220906134007-01-jynneos-monkeypox-vaccine.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-10-26 20:16:46",
-      "content": "Men who have sex with men and others who are at high risk of mpox infection should get two doses of the Jynneos vaccine, even now that the recent public health emergency in the United States has pass\u2026 [+1673 chars]",
-      "retrievedAt": "2023-10-28 07:05:26.931368",
-      "internal_id": "82b0e7ca58e70a9762ad2ca8149064ea3f05348d7c0da91116a2dd029f7b6eb8",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2763,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Global News",
-      "author": "Kevin Nielsen",
-      "title": "Rabid skunk found in Cambridge: Waterloo Public Health | Globalnews.ca",
-      "description": "Waterloo Public Health said that at least one person has been exposed to the skunk and has been given medical attention.",
-      "url": "https://globalnews.ca/news/10051610/cambridge-rabid-skunk/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2023/02/2023022017024-9329fc3ba6a58560cb096448b3f32a9f3a9565b1a1cd61fa9a7015cb8e68116e.jpg?quality=85&strip=all&w=576&h=379&crop=1",
-      "publishedAt": "2023-10-26 19:17:06",
-      "content": "A skunk recently found in Cambridge has tested positive for rabies, according to Waterloo Public Heath. The agency said that at least one person was exposed to the skunk and has been given medical a\u2026 [+913 chars]",
-      "retrievedAt": "2023-10-28 07:05:23.982716",
-      "internal_id": "ba342bdc795743c7a405de9d8f744b7b79e2586fc1bf8d6c8431dd4ad4977d99",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2751,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "WISN Milwaukee",
-      "author": "Jen Christensen",
-      "title": "Patients could have a shot to protect them from deadly meningitis",
-      "description": "The CDC's independent vaccine advisors recommended a new vaccine that could potentially prevent meningitis B.",
-      "url": "https://www.wisn.com/article/new-shot-deadly-meningitis/45646778",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1308847591-653ab27f3afe9.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-      "publishedAt": "2023-10-26 18:57:07",
-      "content": "Patti Wukovits still thinks about how she had to bury her daughter in her prom dress. In June 2012, 17-year-old Kimberly Coffey had a fever and body aches. She told her mom it felt like her ankles w\u2026 [+7666 chars]",
-      "retrievedAt": "2023-10-27 19:05:14.587780",
-      "internal_id": "04eb9bffd7064fa5075404b79bb836d9b3608eb2a21ac4810a01056d38ec8a9f",
-      "publishedAtLabel": "Oct 26"
-    },
-    {
-      "id": 2752,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "WebMD",
-      "author": "Lisa O\u2019Mary",
-      "title": "New Vaccine for Meningitis Could Soon Be Available",
-      "description": "A new meningococcal vaccine that better protects against the rare but potentially deadly disease will soon be available.",
-      "url": "https://www.webmd.com/children/vaccines/news/20231026/new-vaccine-meningitis-could-soon-be-available",
-      "urlToImage": "https://img.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg",
-      "publishedAt": "2023-10-26 18:32:44",
-      "content": "Oct. 26, 2023 A new meningococcal vaccine that better protects against the rare but potentially deadly disease will soon be available. Vaccines are already available that protect against the forms \u2026 [+1864 chars]",
-      "retrievedAt": "2023-10-27 19:05:14.591772",
-      "internal_id": "39023d064e22a7aa35439d44a80bcced5455fd28e726481af6ce6d1263f72598",
-      "publishedAtLabel": "Oct 26"
     }
   ]
 }
