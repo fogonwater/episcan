@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-11-08 19:05",
+  "last_updated": "2023-11-09 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 11,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 2974,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Over 7 400 Malaria Cases Recorded, 17% Locally Acquired",
+      "description": "[SAnews.gov.za] South Africa has recorded over 7 400 malaria cases between January and October this year, with only 17% of these having been locally acquired.",
+      "url": "https://allafrica.com/stories/202311080020.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-08 05:34:36",
+      "content": "South Africa has recorded over 7 400 malaria cases between January and October this year, with only 17% of these having been locally acquired. This means that more people got infected while out of t\u2026 [+2779 chars]",
+      "retrievedAt": "2023-11-09 07:05:44.333236",
+      "internal_id": "33bd7b5707f2b3960893afd21767473323d58c4c7fc97a89c28af6309e803ef4",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2973,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "KEN KUSMER Associated Press",
+      "title": "Peace Corps agrees to pay $750,000 to family of dead volunteer",
+      "description": "A law firm says the Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agency\u2019s doctors misdiagnosed a case of malaria",
+      "url": "https://abcnews.go.com/US/wireStory/peace-corps-agrees-pay-750000-family-dead-volunteer-104704628",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-11-08 00:06:15",
+      "content": "The Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agencys doctors misdiagnosed a case of malaria, a law firm \u2026 [+2399 chars]",
+      "retrievedAt": "2023-11-09 07:05:44.318911",
+      "internal_id": "b40b312a61b3da3669fd948c40b35a207a6b6b0ee4346e7abc70f5329f802093",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2972,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "KEN KUSMER Associated Press",
+      "title": "Peace Corps agrees to pay $750,000 to family of dead volunteer",
+      "description": "A law firm says the Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agency\u2019s doctors misdiagnosed a case of malaria",
+      "url": "https://abcnews.go.com/Health/wireStory/peace-corps-agrees-pay-750000-family-dead-volunteer-104704629",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-11-07 23:50:09",
+      "content": "The Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agencys doctors misdiagnosed a case of malaria, a law firm \u2026 [+2399 chars]",
+      "retrievedAt": "2023-11-09 07:05:44.314588",
+      "internal_id": "f2e944a769b957c3fdf5548d1dc39aba1cf65c4905d75c24059d2bc3fb5bac5b",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2971,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Regina G. Barber",
+      "title": "Antibiotic resistance in children is becoming a bigger problem around the world",
+      "description": "Antibiotic resistance is a growing issue around the world. A new study finds that it's leaving children and infants vulnerable to potentially deadly bacterial infections, like sepsis and meningitis",
+      "url": "https://www.npr.org/2023/11/07/1211329922/antibiotic-resistance-in-children-is-becoming-a-bigger-problem-around-the-world",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2023-11-07 21:56:35",
+      "content": "Antibiotic resistance is a growing issue around the world. A new study finds that it's leaving children and infants vulnerable to potentially deadly bacterial infections, like sepsis and meningitis",
+      "retrievedAt": "2023-11-09 07:05:43.719751",
+      "internal_id": "84e4ff856bda2b9fbfb1734102da205e68bb565cd51d8f1095f27b50bc692e50",
+      "publishedAtLabel": "Nov 7"
+    },
+    {
+      "id": 2975,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Carly Severn",
+      "title": "Mpox Cases in California Are Rising. Where Can You Find a Vaccine?",
+      "description": "With cases of the disease formerly known as monkeypox increasing again, here's what to know about mpox symptoms and why you should get two doses of the vaccine.",
+      "url": "https://www.kqed.org/news/11966587/mpox-monkeypox-2023-bay-area-vaccine",
+      "urlToImage": "https://ww2.kqed.org/app/uploads/sites/10/2023/11/GettyImages-1242749971-qut-1020x677.jpg",
+      "publishedAt": "2023-11-07 20:25:30",
+      "content": "Who is most at risk from mpox? Anyone can get mpox, but SFDPH said that the 2022 mpox outbreak predominantly affected communities of gay and bisexual men and men who have sex with men (MSM), as well\u2026 [+4426 chars]",
+      "retrievedAt": "2023-11-09 07:05:45.346696",
+      "internal_id": "a4f94967af5c1ed9e20a8ef5b4cd96e40db38855acab4ba925f522e9801c7318",
+      "publishedAtLabel": "Nov 7"
+    },
     {
       "id": 2960,
       "query": [
@@ -3527,96 +3617,6 @@
       "content": "Chad has reported its first dengue outbreak, according to the World Health Organization (WHO). The country\u2019s health ministry declared an outbreak on 15 August and so far 1,342 suspected cases have be\u2026 [+5655 chars]",
       "retrievedAt": "2023-10-28 19:05:08.343308",
       "internal_id": "836f2086c64e58b16277bc5b79fc33e60fe3bbae0a4738685205f6a829f9406a",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2776,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Vox",
-      "author": "Dylan Matthews",
-      "title": "I\u2019m getting malaria to help eradicate it (and you can too)",
-      "description": "Powerful new vaccines \u2014 and challenge trials around new drugs \u2014 are taking the fight to one of the world\u2019s biggest killers.",
-      "url": "https://www.vox.com/future-perfect/23933962/malaria-vaccine-challenge-trials-drugs-tropical-disease-africa-research",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/b-N1fpNNnt15Q1lenrwIY3-0lQM=/0x430:6000x3571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25036124/GettyImages_1247905443.jpg",
-      "publishedAt": "2023-10-27 13:00:00",
-      "content": "Like many of you, Ive been making myself miserable in recent weeks reading and thinking about the deaths of children in widely covered warzones. Those deaths are important. They deserve to be marked \u2026 [+8323 chars]",
-      "retrievedAt": "2023-10-28 19:05:09.402409",
-      "internal_id": "53ee3bfbd5a90d607fc920341039f25bf413f3cc5e90675b1704188174f67a4c",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2780,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Siti Nurhaliza, Raka Adji",
-      "title": "Jakarta readies regional lab for Mpox testing",
-      "description": "The provincial government of Jakarta has prepared the Jakarta Regional Health Laboratory to support the implementation of polymerase chain reaction (PCR) tests for Monkeypox (Mpox) in Jakarta. \"The Jakarta Health Office ...",
-      "url": "https://en.antaranews.com/news/297294/jakarta-readies-regional-lab-for-mpox-testing",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2022/08/21/monkey-pox-g2298edc4c_1920.jpg",
-      "publishedAt": "2023-10-27 12:40:10",
-      "content": "Jakarta (ANTARA) - The provincial government of Jakarta has prepared the Jakarta Regional Health Laboratory to support the implementation of polymerase chain reaction (PCR) tests for Monkeypox (Mpox)\u2026 [+2069 chars]",
-      "retrievedAt": "2023-10-28 19:05:11.127074",
-      "internal_id": "55c42928c957e8987af4d465b8aa0978edd4536d8e5e80ee91bb31404ce7c783",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2775,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Chhattisgarh Assembly polls: Why is Baghel silent on allies insulting Sanatan Dharma, asks Ravi Shankar Prasad",
-      "description": "\"Bhupesh Baghel says he respects Lord Ram and is developing 'Ram Van Gaman Path'. But I want to ask him why he is silent when DMK leader and son of Tamil Nadu CM calls Sanatan Dharma a disease like dengue, tuberculosis and AIDS? What kind of joke is this,\" Ra\u2026",
-      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/chhattisgarh-assembly-elections/chhattisgarh-assembly-polls-why-is-baghel-silent-on-allies-insulting-sanatan-dharma-asks-ravi-shankar-prasad/articleshow/104755042.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-104755077,width-1200,height-630,imgsize-65856,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-10-27 10:59:28",
-      "content": "Health of Greater Import for India Post Pandemic Indias rising preference for healthy foods is showing up in its imports, with a surge in inbound shipments of avocado, dry fruits, buckwheat and olive\u2026 [+84 chars]",
-      "retrievedAt": "2023-10-28 19:05:08.376300",
-      "internal_id": "08eb54f3abfc8e735eabcbbaabeab15df6fa7be36ce43aa2be416f3afdd921de",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2771,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Www.gov.uk",
-      "author": "UK Health Security Agency",
-      "title": "Guidance: Measles: information and poster for health professionals",
-      "description": "Information on measles for health professionals and poster for healthcare settings and A&E.",
-      "url": "https://www.gov.uk/government/publications/measles-information-and-poster-for-health-professionals",
-      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
-      "publishedAt": "2023-10-27 10:46:42",
-      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
-      "retrievedAt": "2023-10-28 19:05:07.893833",
-      "internal_id": "a7003073e5ee1a0cc4eb29c4cd0dcb1639e44c15b3e3c3eb518e2e92dc4654b5",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2770,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Www.gov.uk",
-      "author": "UK Health Security Agency",
-      "title": "Form: Measles, mumps and rubella: surveillance form",
-      "description": "Form for health professionals to supply additional patient information after UKHSA has confirmed a case of measles, mumps or rubella.",
-      "url": "https://www.gov.uk/government/publications/measles-mumps-and-rubella-mmr-surveillance-form",
-      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
-      "publishedAt": "2023-10-27 10:26:00",
-      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
-      "retrievedAt": "2023-10-28 19:05:07.882080",
-      "internal_id": "684b363cbf9f32f801fd252c82a23e778392b5749a7ffb59df80541bbc8aa53c",
       "publishedAtLabel": "Oct 27"
     }
   ]
