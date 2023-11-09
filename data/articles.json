@@ -1,8 +1,333 @@
 {
-  "last_updated": "2023-11-09 07:05",
+  "last_updated": "2023-11-09 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 2976,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Alok Deshpande",
+      "title": "Ajit to \u2018stay out of public life\u2019 for now, likely to miss Pawar family\u2019s Diwali together",
+      "description": "In a statement issued on Tuesday, Pawar said, \u201cI have got treated for dengue and underwent mandatory rest... I am recovering at a slow pace and will take more days to recover fully.\u201d",
+      "url": "https://indianexpress.com/article/cities/mumbai/ajit-to-stay-out-of-public-life-for-now-likely-to-miss-pawar-familys-diwali-together-9019435/",
+      "urlToImage": "https://images.indianexpress.com/2023/11/ajipa.jpg",
+      "publishedAt": "2023-11-08 18:38:33",
+      "content": "Out of public life for around three weeks due to ill-health, Maharashtra Deputy Chief Minister and Finance Minister Ajit Pawar on Tuesday said that he was still recovering from weakness due to dengue\u2026 [+2181 chars]",
+      "retrievedAt": "2023-11-09 19:05:23.990189",
+      "internal_id": "2639869e66d712f111ed147a4041b205e9609f6173dd1a802bf90ba5830bccb9",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2979,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Federico Garau)",
+      "title": "Dengue, allarme e scuole chiuse per quattro giorni: ecco dove e cosa sta accadendo",
+      "description": "Per ora si tratta solo di misure messe in atto a scopo precauzionale, nell'attesa che si completino le verifiche di carattere epidemiologico",
+      "url": "https://www.ilgiornale.it/news/cronaca-locale/dengue-allarme-e-scuole-chiuse-quattro-giorni-ecco-dove-e-2238401.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2020/09/01/1598963401-febbre-dengue.jpg?_=1598963401",
+      "publishedAt": "2023-11-08 18:01:19",
+      "content": "Scatta l'allarme a Civita d'Antino, piccolo comune della provincia de L'Aquila, a causa di un sospetto caso di febbre Dengue, e non \"gialla\" come inizialmente si era ipotizzato. L'allarme della Regi\u2026 [+2211 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.007815",
+      "internal_id": "1c70ffefd4a03a18e04a969668317402af2918dd5178be6cb16b82f8c621310e",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2981,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "WHO stresses need to maintain dengue fever surveillance activities in Ethiopia",
+      "description": "ADDIS ABABA, Nov. 8 (Xinhua) -- The World Health Organization (WHO) has stressed the crucial need to maintain and sustain dengue fever surveillance activities in Ethiopia. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2023/11/09/who-stresses-need-to-maintain-dengue-fever-surveillance-activities-in-ethiopia",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-11-08 17:58:00",
+      "content": "ADDIS ABABA, Nov. 8 (Xinhua) -- The World Health Organization (WHO) has stressed the crucial need to maintain and sustain dengue fever surveillance activities in Ethiopia. The WHO, in its periodic \u2026 [+1755 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.018627",
+      "internal_id": "0a99a974ef0cf5ca59a3f280f45e683bd479c7e81e1cecede710319f8c6950a2",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2986,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Lara Adejoro",
+      "title": "\u201897% Nigerians at risk of malaria\u2019",
+      "description": "The Chief Executive of Malaria Consortium, Dr James Tibenderana, on Wednesday, said 97 per cent of Nigerians are at risk of malaria despite the country\u2019s progress in reducing the prevalence of the disease. Tibenderana stated this at a press briefing organised\u2026",
+      "url": "https://punchng.com/?p=1512218",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
+      "publishedAt": "2023-11-08 15:48:51",
+      "content": "The Chief Executive of Malaria Consortium, Dr James Tibenderana, on Wednesday, said 97 per cent of Nigerians are at risk of malaria despite the country\u2019s progress in reducing the prevalence of the di\u2026 [+3864 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.623611",
+      "internal_id": "16028c986b35c05cd03e5128c4604d9ee26285b28b6e9266036c2cafb489e6b1",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2989,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "J.V.R Prasada Rao",
+      "title": "The perils of patent amendments",
+      "description": "Wrong medicine. The proposed changes in patent law will endanger access to affordable medicines and benefit global big pharma",
+      "url": "https://www.thehindubusinessline.com/opinion/the-perils-of-patent-amendments/article67514045.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/7hvojx/article67514050.ece/alternates/LANDSCAPE_1200/BL09_Think_Drug_patent.jpg",
+      "publishedAt": "2023-11-08 15:45:11",
+      "content": "A formidable pharmaceutical industry has turned India into a powerhouse of generic drugs, enabling the country to substantially reduce the disease burden of malaria, HIV and leprosy. As a leading gen\u2026 [+6929 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.643249",
+      "internal_id": "ef29f4be59b4cb75cc1c680c4f22491d95479e1f7c58d4ef056b5d2e73ccb5bc",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2982,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Takeshi Kurosu, Daisuke Okuzaki, Yusuke Sakai, Mohamad Al Kadi, Supranee Phanthanawiboon, Yasusi Ami, Masayuki Shimojima, Tomoki Yoshikawa, Shuetsu Fukushi, Noriyo Nagata, Tadaki Suzuki, Daisuke Kamimura, Masaaki Murakami, Hideki Ebihara, Masayuki Saijo",
+      "title": "Dengue virus infection induces selective expansion of V\u03b34 and V\u03b36TCR \u03b3\u03b4 T cells in the small intestine and a cytokine storm driving vascular leakage in mice",
+      "description": "Author summary Dengue fever can lead to severe illness in some cases, which can be fatal. The number of severe cases is increasing. There are currently no effective therapeutic drugs or vaccines available for widespread use. Vascular leakage is the physiologi\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011743",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011743.g010&size=inline",
+      "publishedAt": "2023-11-08 14:00:00",
+      "content": "Citation: Kurosu T, Okuzaki D, Sakai Y, Kadi MA, Phanthanawiboon S, Ami Y, et al. (2023) Dengue virus infection induces selective expansion of V4 and V6TCR T cells in the small intestine and a cytoki\u2026 [+70802 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.023036",
+      "internal_id": "74ac9fbb183e4426d4810240ae6e1f2626d66bb2db79ba3597bb6c0448edcb52",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2985,
+      "query": [
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Marycelin Mandu Baba, Abubakar Ahmed, Samaila Yaga Jackson, Bamidele Soji Oderinde",
+      "title": "Cryptic Zika virus infections unmasked from suspected malaria cases in Northeastern Nigeria",
+      "description": "Introduction Although environmental and human behavioral factors in countries with Zika virus (ZIKV) outbreaks are also common in Nigeria, such an outbreak has not yet been reported probably due to misdiagnosis. The atypical symptoms of malaria and ZIKV infec\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292350",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0292350.g003&size=inline",
+      "publishedAt": "2023-11-08 14:00:00",
+      "content": "Abstract Introduction Although environmental and human behavioral factors in countries with Zika virus (ZIKV) outbreaks are also common in Nigeria, such an outbreak has not yet been reported probab\u2026 [+44798 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.620703",
+      "internal_id": "8c973fdd58a6165c3a03faf913750af21ddda17bc4996953315718c80abf61c3",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2988,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mergiory Y. Labadie-Bracho, Malti R. Adhin",
+      "title": "Advocating for PCR-RFLP as molecular tool within malaria programs in low endemic areas and low resource settings",
+      "description": "Author summary The global malaria landscape has changed considerably since 2000, with a drastic reduction of overall malaria cases, but a regional increase of Plasmodium vivax malaria. Suriname is a South American country striving for malaria elimination and \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011747",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011747.g002&size=inline",
+      "publishedAt": "2023-11-08 14:00:00",
+      "content": "Introduction The global malaria landscape has changed considerably since 2000, with a drastic reduction of overall malaria cases, but still accounting for more than 241 million malaria cases worldwi\u2026 [+30942 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.634301",
+      "internal_id": "7889486278b21dfade6b2a4a219563f8551ecc14f6b66e22e219584ddb52f9ea",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2990,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Padmapriya Sekar, Sumati Rajagopalan, Estela Shabani, Usheer Kanjee, Marc A. Schureck, Gunjan Arora, Mary E. Peterson, Boubacar Traore, Peter D. Crompton, Manoj T. Duraisingh, Sanjay A. Desai, Eric O. Long",
+      "title": "NK cell-induced damage to P.falciparum-infected erythrocytes requires ligand-specific recognition and releases parasitophorous vacuoles that are phagocytosed by monocytes in the presence of immune IgG",
+      "description": "Author summary The parasite Plasmodium falciparum is the main contributor to malaria disease that causes more than 600,000 deaths/year, primarily among young children. To control disease, it is critical to understand how clinical immunity develops in people e\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011585",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011585.g008&size=inline",
+      "publishedAt": "2023-11-08 14:00:00",
+      "content": "Citation: Sekar P, Rajagopalan S, Shabani E, Kanjee U, Schureck MA, Arora G, et al. (2023) NK cell-induced damage to P.falciparum-infected erythrocytes requires ligand-specific recognition and releas\u2026 [+78217 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.646098",
+      "internal_id": "c8621e640039e58092597a38a9f514050cf574e0b59440c0f0fa004e9ecfe503",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2993,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mohammad S. I. Sajib, Arif M. Tanmoy, Yogesh Hooda, Hafizur Rahman, Sira J. Munira, Anik Sarkar, Dipu Das, Md. Asadur Rahman, Nazrul Islam, Mohammod Shahidullah, Md. Ruhul Amin, Md. Jahangir Alam, Mohammed Hanif, Stephen P. Luby, Denise O. Garrett, Samir K. Saha, Senjuti Saha",
+      "title": "Trends in antimicrobial resistance amongst Salmonella Paratyphi A isolates in Bangladesh: 1999\u20132021",
+      "description": "Author summary Typhoid and paratyphoid fever, caused by Salmonella Typhi and Paratyphi A respectively, are common in areas lacking safe water and optimum infrastructure. With increasing multidrug resistance in Salmonella Typhi, newer antimicrobials like ceftr\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011723",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011723.g003&size=inline",
+      "publishedAt": "2023-11-08 14:00:00",
+      "content": "Abstract Background Typhoid and paratyphoid remain common bloodstream infections in areas with suboptimal water and sanitation infrastructure. Paratyphoid, caused by Salmonella Paratyphi A, is less\u2026 [+36789 chars]",
+      "retrievedAt": "2023-11-09 19:05:25.425316",
+      "internal_id": "e89b3ec8819504f66c5bf0212aeb6442d28c13aa3a70f7cbfb9ca3fe053ec0e9",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2992,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Lintang Budiyanti, Raka Adji",
+      "title": "Health Minister urges people to practice safe sex to prevent mpox",
+      "description": "Health Minister Budi Gunadi Sadikin has urged people to be careful while engaging in sexual activities to prevent monkeypox (mpox) transmission. \"The transmission is through sexual activity, and this is sexual activity ...",
+      "url": "https://en.antaranews.com/news/298236/health-minister-urges-people-to-practice-safe-sex-to-prevent-mpox",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/08/WhatsApp-Image-2023-10-30-at-10.48.08.jpeg.jpg",
+      "publishedAt": "2023-11-08 13:58:26",
+      "content": "Jakarta (ANTARA) - Health Minister Budi Gunadi Sadikin has urged people to be careful while engaging in sexual activities to prevent monkeypox (mpox) transmission.\"The transmission is through sexual \u2026 [+1249 chars]",
+      "retrievedAt": "2023-11-09 19:05:25.261573",
+      "internal_id": "8b7eb5b050c8acf8ff818917763539e3a97a3625d051f4f628b66341f4d1406f",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2978,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Galileonet.it",
+      "author": "Marta Musso",
+      "title": "Un nuovo caso di dengue in Abruzzo \u201cscambiato\u201d per febbre gialla",
+      "description": "Si tratta di due malattie diverse, anche se sono entrambe trasmesse dalle zanzare. Facciamo chiarezza, partendo dalle notizie di un caso in Abruzzo L'articolo Un nuovo caso di dengue in Abruzzo \u201cscambiato\u201d per febbre gialla sembra essere il primo su Galileo.",
+      "url": "https://www.galileonet.it/febbre-gialla-dengue-abruzzo-italia/",
+      "urlToImage": "https://www.galileonet.it/wp-content/uploads/2023/11/matteo-fusco-4zvnt60-pak-unsplash.jpg",
+      "publishedAt": "2023-11-08 12:58:06",
+      "content": "Il Comune di Civita d\u2019Antino, in provincia dell\u2019Aquila, ha appena la chiusura di una scuola dell\u2019infanzia per 4 giorni non dopo l\u2019accertamento di un caso di febbre gialla, bens\u00ec di dengue. Come si ap\u2026 [+4490 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.005408",
+      "internal_id": "9fb30d3a74c2f86e70f0429bdd3ce6ab02b80df8f8a8aaebc52c9e3e8f0ada4c",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2983,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "expressandstar.com",
+      "author": "Isabelle Parkin",
+      "title": "UB40 star thanks Walsall hospital staff for 'life-saving' treatment after meningitis scare",
+      "description": "A founding member of UB40 has extended his gratitude to the doctors and nurses at a Walsall hospital who gave him \"lifesaving treatment\" for meningitis.",
+      "url": "https://www.expressandstar.com/news/health/2023/11/08/ub40-star-thanks-walsall-hospital-staff-for-life-saving-treatment-after-meningitis-scare/",
+      "urlToImage": "https://www.expressandstar.com/resizer/WiW51PmrFzY-X9HxLgHHF4fvIlQ=/1200x899/cloudfront-us-east-1.images.arcpublishing.com/mna/ULHBGCMFFBDQXKK42756UB2HJ4.jpg",
+      "publishedAt": "2023-11-08 12:30:13",
+      "content": "Legendary UB40 bass player and singer Earl Falconer has revealed he was diagnosed with meningitis after returning home from his holiday in Ibiza last month. The star musician was treated for the inf\u2026 [+1982 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.284659",
+      "internal_id": "6708743a7fceeae4d8f0ec5f3f307939871364972f630d70dfc73d742932a0a5",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2980,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": null,
+      "title": "Tov\u00e1bb terjed \u00e9s szedi \u00e1ldozatait a dengue-l\u00e1z Sr\u00ed Lank\u00e1ban",
+      "description": "Az es\u0151s id\u0151 m\u00e9g ink\u00e1bb kedvez a betegs\u00e9g terjed\u00e9s\u00e9nek.",
+      "url": "https://www.origo.hu/tudomany/20231108-tovabb-terjed-es-denguelaz-sri-lankaban.html",
+      "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2111/20211115aedes-mosquito-arthropod-insect-diptera1.jpg?w=1024",
+      "publishedAt": "2023-11-08 12:06:19",
+      "content": "Meghaladta a 70 ezret a dengue-megbeteged\u00e9sek sz\u00e1ma Sr\u00ed Lank\u00e1ban, id\u00e9n m\u00e1r 43 ember halt bele a fertz\u00e9sbe - \u00edrta a Mirror.Az \u00fajabb n\u00e9gy hal\u00e1los \u00e1ldozattal 73-ra emelkedett a betegs\u00e9gben meghalt ember\u2026 [+825 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.010968",
+      "internal_id": "4477d0c2c836195272588aa6fda04c01b586e4da08b11eaff4f9f89560c90ccf",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2984,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Peace Corps to pay $750,000 to family of woman who died in East Africa",
+      "description": "Bernice Heiderman died in 2018 after texting her mother that the local Peace Corps doctor wasn't taking seriously her complaints of dizziness, nausea, fever and fatigue, a law firm said.",
+      "url": "https://www.cbsnews.com/news/peace-corps-to-pay-750000-family-bernice-heiderman-death-malaria-misdiagnosis/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/08/a19a89f7-5903-457f-9db9-d840db7cd24a/thumbnail/1200x630g4/9cfd877ba6ad0a037efc0589e574e31c/heiderman.jpg?v=e2a739f263a10b93b27cae9568461c29",
+      "publishedAt": "2023-11-08 11:28:00",
+      "content": "The Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agency's doctors misdiagnosed a case of malaria, a law firm\u2026 [+3661 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.615422",
+      "internal_id": "a036a6b067aec592c355a22d3ec92a842e160f2412eab2db4f7b6c769085a46d",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2977,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Gazzetta.it",
+      "author": "Redazione",
+      "title": "Febbre gialla vicino L'Aquila: scuole chiuse per 4 giorni",
+      "description": "Segnalato un caso in Italia di febbre gialla, o dengue, vicino L\u2019Aquila. Apre il Centro Operativo di Emergenza comunale. Le scuole chiuse per 4 giorni.",
+      "url": "https://www.gazzetta.it/attualita/08-11-2023/febbre-gialla-un-caso-in-italia-scuole-chiuse-per-4-giorni-ecco-dove.shtml",
+      "urlToImage": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2023/09/19/65099f9598213.jpeg",
+      "publishedAt": "2023-11-08 11:17:32",
+      "content": "Redazione 8 novembre - 12:17 - MILANO \u00c8 allarme a Civita d'Antino, in provincia de L'Aquila, dopo la conferma di un caso di febbre gialla, nota anche come dengue. La notizia ha suscitato l'allarme \u2026 [+2653 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.000400",
+      "internal_id": "abfb52c19e37ec370e811d49f4a988183f3d444edb9b981343fd52c9dcc61d56",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2987,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Jenna M\u00fcller",
+      "title": "Erreger von Tier zu Mensch \u00fcbertragen - Binnen 30 Jahren zw\u00f6lfmal mehr Tote durch Zoonosen",
+      "description": "Die Prognosen gelten f\u00fcr 2050 und gehen aus einer Studie hervor, die sich mit von-Tier-zu-Mensch-Krankheiten besch\u00e4ftigte.",
+      "url": "https://www.bild.de/ratgeber/2023/ratgeber/epidemie-zoonosen-koennten-sich-bis-2050-verzwoelffachen-86019722.bild.html",
+      "urlToImage": "https://images.bild.de/654b3d97801e4b2ad89a226c/7cf8cda461c501da92e81b731bda5a43,8e94192c?w=1280",
+      "publishedAt": "2023-11-08 10:41:43",
+      "content": "Vogelgrippe, Schweinegrippe, Fuchsbandwurm, Pest, Malaria, Tollwut ... Die Liste der von Tieren auf den Menschen \u00fcbertragenen Krankheiten ist lang. Eine Studie warnt jetzt: Im Jahr 2050 k\u00f6nnten Z\u2026 [+1796 chars]",
+      "retrievedAt": "2023-11-09 19:05:24.628379",
+      "internal_id": "1333c1d3bf8098d61fc9ae3cb5091673f3b963b996ccd9b7e68b80bad1ffa241",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
+      "id": 2991,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna, Resinta Sulistiyandari",
+      "title": "Positive mpox cases reach 29: Official",
+      "description": "The DKI Jakarta Health Service reported that as of November 7, some 29 active positive cases of monkeypox (mpox) were identified in the capital city. \"In November 2023, there were a total of six new mpox cases,\" Head ...",
+      "url": "https://en.antaranews.com/news/298209/positive-mpox-cases-reach-29-official",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/04/InShot_20231104_102355129.jpg",
+      "publishedAt": "2023-11-08 10:14:39",
+      "content": "Jakarta (ANTARA) - The DKI Jakarta Health Service reported that as of November 7, some 29 active positive cases of monkeypox (mpox) were identified in the capital city.\"In November 2023, there were a\u2026 [+2032 chars]",
+      "retrievedAt": "2023-11-09 19:05:25.258767",
+      "internal_id": "ad959c05e5ad2670c1121a861dae0e0dc4cd6abddf14b80281a7f1d88f2824b7",
+      "publishedAtLabel": "Nov 8"
+    },
     {
       "id": 2974,
       "query": [
@@ -3292,332 +3617,6 @@
       "retrievedAt": "2023-10-30 19:05:27.126644",
       "internal_id": "5f607eb70bf6fa653a0cfd5ab6832c2ac1fa2c68f0a5a11c7dfd40c02d086a07",
       "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2792,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "L'Express",
-      "author": "L\u2019Express",
-      "title": "Dengue en France : une tendance \u00e0 la hausse et des cas toujours plus au nord",
-      "description": "Comme en 2022, l\u2019ann\u00e9e 2023 s\u2019appr\u00eate \u00e0 \u00eatre une ann\u00e9e record de recensement des cas de dengue, qu\u2019ils soient autochtones ou import\u00e9s. Les d\u00e9partements du nord sont de moins en moins \u00e9pargn\u00e9s.",
-      "url": "https://www.lexpress.fr/sciences-sante/sante/dengue-en-france-une-tendance-a-la-hausse-et-des-cas-toujours-plus-au-nord-2IS4IR3MKBDK5BUOUVG2NFMNXU/",
-      "urlToImage": "https://www.lexpress.fr/resizer/mssG8diFzJX3jyOLDMoQ8k2fAak=/1200x630/filters:focal(852x506:862x516)/cloudfront-eu-central-1.images.arcpublishing.com/lexpress/FUB4S762FBFSXDJRWYD4ZN3NHU.jpg",
-      "publishedAt": "2023-10-29 14:26:52",
-      "content": "Bien quelle soit la plupart du temps sans gravit\u00e9, la dengue peut causer des maux de t\u00eate intenses, des vomissements, une forte fi\u00e8vre et, dans de rares cas lors des cas de dengue h\u00e9morragique, se co\u2026 [+3289 chars]",
-      "retrievedAt": "2023-10-30 19:05:27.691396",
-      "internal_id": "33c15126f2c312ebb7031e7d3064c95696418090b27aded5f68ce5e570391b8a",
-      "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2793,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "20 Minutes avec AFP (20 Minutes)",
-      "title": "Moustique tigre : La hausse des cas de dengue se poursuit en m\u00e9tropole, y compris au nord de la Loire",
-      "description": "Les experts s\u2019attendent \u00e0 enregistrer en 2023 autant de cas de dengue autochtones dans l\u2019Hexagone qu\u2019en 2022, ann\u00e9e pourtant record. Il faut dire que le moustique tigre s\u00e9vit encore au mois d\u2019octobre",
-      "url": "https://www.20minutes.fr/sante/4059946-20231029-moustique-tigre-hausse-cas-dengue-poursuit-metropole-compris-nord-loire",
-      "urlToImage": "https://img.20mn.fr/WCjZ4CgsT_Kl3fUuYZQYTQ/1200x768_moustique-tigre",
-      "publishedAt": "2023-10-29 09:46:17",
-      "content": "Favoris\u00e9 par le r\u00e9chauffement climatique, le moustique tigre continue de prosp\u00e9rer dans l\u2019Hexagone, y compris en plein automne. Et apr\u00e8s une ann\u00e9e 2022 marqu\u00e9e par un nombre record de cas de dengue e\u2026 [+4004 chars]",
-      "retrievedAt": "2023-10-30 19:05:27.694386",
-      "internal_id": "fc3f1f031ae27a35702e860927d3a5dfc0c45690d913865b858d32c13b2f32f9",
-      "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2796,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Week Magazine",
-      "author": "theweekonlineeditors@futurenet.com (Devika Rao, The Week US)",
-      "title": "Malaria is spreading, but we can stop it",
-      "description": "Climate change is hastening the disease but medicine is catching up",
-      "url": "https://theweek.com/health/malaria-is-spreading-but-we-can-stop-it",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PcK5kKkK5iRPYyjDJGPboS-1200-80.jpg",
-      "publishedAt": "2023-10-29 09:00:08",
-      "content": "The mosquito-borne illness malaria has been spreading wider and faster as the climate changes. The disease can kill up to 600,000 people every year, per The Guardian . Malaria cases have been larg\u2026 [+4506 chars]",
-      "retrievedAt": "2023-10-30 19:05:28.439226",
-      "internal_id": "005be2a4444999c0cd1af4eed1c92cba7285bcef5362bede246f8e61175409d2",
-      "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2794,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Mumbaitak.in",
-      "author": "\u092d\u093e\u0917\u0935\u0924 \u0939\u093f\u0930\u0947\u0915\u0930",
-      "title": "Ajit Pawar Health : \u0905\u091c\u093f\u0924 \u092a\u0935\u093e\u0930\u093e\u0902\u0928\u093e \u0921\u0947\u0902\u0917\u094d\u092f\u0942, \u092a\u094d\u0930\u092b\u0941\u0932\u094d\u0932 \u092a\u091f\u0947\u0932\u093e\u0902\u0928\u0940 \u0915\u093e\u092f \u0926\u093f\u0932\u0940 \u092e\u093e\u0939\u093f\u0924\u0940?",
-      "description": "\u0905\u091c\u093f\u0924 \u092a\u0935\u093e\u0930 \u092f\u093e\u0902\u0928\u093e \u0921\u0947\u0902\u0917\u094d\u092f\u0942 \u091d\u093e\u0932\u094d\u092f\u093e\u091a\u0940 \u092e\u093e\u0939\u093f\u0924\u0940 \u092a\u094d\u0930\u092b\u0941\u0932\u094d\u0932 \u092a\u091f\u0947\u0932 \u092f\u093e\u0902\u0928\u0940 \u0926\u093f\u0932\u0940 \u0906\u0939\u0947. \u0924\u094d\u092f\u093e\u0902\u0928\u093e \u092a\u0941\u0922\u0940\u0932 \u0915\u093e\u0939\u0940 \u0926\u093f\u0935\u0938 \u0935\u093f\u0936\u094d\u0930\u093e\u0902\u0924\u0940\u091a\u093e \u0938\u0932\u094d\u0932\u093e \u0926\u0947\u0923\u094d\u092f\u093e\u0924 \u0906\u0932\u093e \u0905\u0938\u0932\u094d\u092f\u093e\u091a\u0940 \u092e\u093e\u0939\u093f\u0924\u0940 \u0924\u094d\u092f\u093e\u0902\u0928\u0940 \u0926\u093f\u0932\u0940.",
-      "url": "https://www.mumbaitak.in/city-news/ajit-pawar-diagnosed-with-dengue-praful-patel-inform-via-tweet/",
-      "urlToImage": "https://www.mumbaitak.in/wp-content/uploads/2023/10/Marathi_Latest_News-2023-10-29T113012.509.png",
-      "publishedAt": "2023-10-29 07:30:27",
-      "content": "Ajit Pawar dengue News : . . . (Ajit Pawar has been diagnosed with dengue) . . . . , .\u201c . , ( ) . . . , \u201d, .Contrary to speculative media reports suggesting that Shri Ajit Pawar is not attending publ\u2026 [+246 chars]",
-      "retrievedAt": "2023-10-30 19:05:27.700600",
-      "internal_id": "1297a88a871ae5a5e377b2bae4a111da43b86c377ef0f7219a7052b30fc74bb6",
-      "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2790,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Ajit Pawar Diagnosed With Dengue, Advised Rest",
-      "description": "Maharashtra Deputy Chief Minister Ajit Pawar had been diagnosed with dengue and advised medical guidance and rest for the next few days, his party leader Praful Patel said on Sunday.",
-      "url": "https://www.ndtv.com/india-news/ajit-pawar-diagnosed-with-dengue-advised-rest-4524681",
-      "urlToImage": "https://c.ndtvimg.com/2023-09/i8k655sg_ajit-pawar_625x300_25_September_23.jpg",
-      "publishedAt": "2023-10-29 07:08:18",
-      "content": "Ajit Pawar was not attending public events from the past few days (File) Mumbai: Maharashtra Deputy Chief Minister Ajit Pawar had been diagnosed with dengue and advised medical guidance and rest for\u2026 [+1372 chars]",
-      "retrievedAt": "2023-10-30 19:05:27.673299",
-      "internal_id": "4fcdc1a9e315854d505515c1ae68ef7e1b9667fbdfdc2b39778c4a19d1e60192",
-      "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2788,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "Nagaland records over 2,900 dengue cases since June",
-      "description": "HT Bureau GUWAHATI, Oct 28: Nagaland has reported a significant spike in dengue cases, with 2,909 confirmed infections recorded since June this year, marking the highest tally in nearly two decades, according to a senior official from the health department. E\u2026",
-      "url": "https://thehillstimes.in/northeast/nagaland-records-over-2900-dengue-cases-since-june",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/10/Nagaland-records-over-2900-dengue-cases-since-June.jpg",
-      "publishedAt": "2023-10-29 01:15:32",
-      "content": "HT BureauGUWAHATI, Oct 28: Nagaland has reported a significant spike in dengue cases, with 2,909 confirmedinfections recorded since June this year, marking the highest tally in nearly two decades, ac\u2026 [+1124 chars]",
-      "retrievedAt": "2023-10-30 07:05:55.708462",
-      "internal_id": "fb120387e50b2d2010bb24f6a07189e801dc09e098613612970078e8fdd85d27",
-      "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2786,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "Declaran contingencia ambiental para prevenir de dengue, chikungu\u00f1a y zika en Paraguay",
-      "description": "En las \u00faltimas tres semanas se han confirmado 254 casos del virus propagado por el Aedes aegypti.",
-      "url": "https://www.montevideo.com.uy/Salud/Declaran-contingencia-ambiental-para-prevenir-de-dengue-chikunguna-y-zika-en-Paraguay-uc869570",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201607/_W933_80/571670.jpg",
-      "publishedAt": "2023-10-28 16:25:00",
-      "content": "El Ministerio del Ambiente y Desarrollo Sostenible de Paraguay declar\u00f3 este s\u00e1bado una medida de \"contingencia ambiental\" en todo el pa\u00eds para promover labores de limpieza y la gesti\u00f3n de residuos\u2026 [+1505 chars]",
-      "retrievedAt": "2023-10-29 19:05:14.460571",
-      "internal_id": "56c5706bc92d024882dea194fe569d36167a585bddcbd4436e737aa34199e67b",
-      "publishedAtLabel": "Oct 28"
-    },
-    {
-      "id": 2784,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Six dengue deaths in one week",
-      "description": "PUTRAJAYA: Six deaths due to dengue fever complications were reported during the 42nd Epidemiological Week (ME42) this year from Oct 15-21. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/29/six-dengue-deaths-in-one-week",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/29/2361026.jpg",
-      "publishedAt": "2023-10-28 16:00:00",
-      "content": "PUTRAJAYA: Six deaths due to dengue fever complications were reported during the 42nd Epidemiological Week (ME42) this year from Oct 15-21. No deaths due to dengue fever complications were recorded \u2026 [+946 chars]",
-      "retrievedAt": "2023-10-29 19:05:14.447970",
-      "internal_id": "55d39d9c8e8c7631840887aa24c705ff9d7cb8025255cd6245a5b6cc3d8c4117",
-      "publishedAtLabel": "Oct 28"
-    },
-    {
-      "id": 2785,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Chad: First Dengue Fever Outbreak - What You Should Know",
-      "description": "[The Conversation Africa] Chad has reported its first dengue outbreak, according to the World Health Organization (WHO). The country's health ministry declared an outbreak on 15 August and so far 1,342 suspected cases have been reported, 41 of them confirmed \u2026",
-      "url": "https://allafrica.com/stories/202310280075.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-28 13:01:21",
-      "content": "Chad has reported its first dengue outbreak, according to the World Health Organization (WHO). The country's health ministry declared an outbreak on 15 August and so far 1,342 suspected cases have be\u2026 [+6105 chars]",
-      "retrievedAt": "2023-10-29 19:05:14.452018",
-      "internal_id": "ab8f14d7ab9953b21a62b34e8b694a6e935ff70d3b4d60526350a42231e8a381",
-      "publishedAtLabel": "Oct 28"
-    },
-    {
-      "id": 2787,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Malay Mail",
-      "author": "Malay Mail",
-      "title": "Six deaths due to dengue fever complications reported from Oct 15-21, says Health D-G",
-      "description": "PUTRAJAYA, Oct 28 \u2014 Six deaths due to dengue fever complications were reported during the 42nd Epidemiological Week (ME42) which is for the period from October 15-21. No deaths...",
-      "url": "https://www.malaymail.com/news/malaysia/2023/10/28/six-deaths-due-to-dengue-fever-complications-reported-from-oct-15-21-says-health-d-g/98916",
-      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2023/10/28/thumbs/400x400/158762.jpg",
-      "publishedAt": "2023-10-28 12:27:01",
-      "content": "PUTRAJAYA, Oct 28 Six deaths due to dengue fever complications were reported during the 42nd Epidemiological Week (ME42) which is for the period from October 15-21. No deaths due to dengue fever com\u2026 [+1646 chars]",
-      "retrievedAt": "2023-10-29 19:05:14.475063",
-      "internal_id": "fbc67ca96d6fd7ab43f94b82c5926b394a03154cb8a0e9b709ee23ced01b2163",
-      "publishedAtLabel": "Oct 28"
-    },
-    {
-      "id": 2783,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Rabies hitched a ride to Canada in dogs flown from Iran. Scientists caught the spread just in time",
-      "description": "Epidemiologists say two recent cases of rabies found in dogs brought to Canada from overseas underscore the importance of surveillance for new strains of viruses and bacteria that could be transmitted from animals to humans, a subject highlighted in a review \u2026",
-      "url": "https://www.cbc.ca/news/health/so-pet-infections-1.7010495",
-      "urlToImage": "https://i.cbc.ca/1.7010566.1698433884!/httpImage/image.jpg_gen/derivatives/16x9_620/https-wcvmtoday-usask-ca-images-2023-01-small-white-dog-jpg.jpg",
-      "publishedAt": "2023-10-28 08:00:00",
-      "content": "This story is part of CBC Health's Second Opinion, a weekly analysis of health and medical science news emailed to subscribers on Saturday mornings. If you haven't subscribed yet, you can do that by \u2026 [+7443 chars]",
-      "retrievedAt": "2023-10-29 19:05:13.600541",
-      "internal_id": "9a97768337cbda00c8ab86b26a03cfe5f64153e34ac024ce1926291fb7fbe8d6",
-      "publishedAtLabel": "Oct 28"
-    },
-    {
-      "id": 2782,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Ucsc.edu",
-      "author": "Hooke",
-      "title": "Bacteria enhances host insect's fertility with implications for disease control",
-      "description": "New research led at UC Santa Cruz reveals how the bacteria strain Wolbachia pipientis enhances the fertility of the insects it infects, an insight that could help scientists increase the populations of mosquitoes that do not carry human disease.",
-      "url": "https://news.ucsc.edu/2023/10/russell-plos-23.html",
-      "urlToImage": "https://news.ucsc.edu/2023/10/images/figure_415.png",
-      "publishedAt": "2023-10-27 23:47:58",
-      "content": "Mosquitoes and other insects can carry human diseases such as dengue and Zika virus, but when those insects are infected with certain strains of the bacteria Wolbachia, this bacteria reduces levels o\u2026 [+5485 chars]",
-      "retrievedAt": "2023-10-29 07:05:22.342343",
-      "internal_id": "f601648d920f7f14b290f0d30f7204c4be5401cc870ac4b365d5fa3a50189a2e",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2781,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "The New York Times",
-      "title": "F\u00e1brica de mosquitos: el incre\u00edble m\u00e9todo para terminar con el dengue y la fiebre amarilla",
-      "description": "En Colombia, cada semana se producen, en laboratorios, m\u00e1s de 30 millones de mosquitos adultos Aedes aegypti; tienen una particularidad: llevan un tipo de bacteria que puede neutralizar esos virus mortales",
-      "url": "https://www.lanacion.com.ar/sociedad/fabrica-de-mosquitos-el-increible-metodo-para-terminar-con-el-dengue-y-la-fiebre-amarilla-nid27102023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-aedes-aegypti-propaga-arbovirus-como-el-dengue-KONL3K4O6VATLGBMTRBZR3AIDY?auth=ce8efa931008ea10824e3c45d5b9adf9e415c1d3dc1a5f9447e4e6b68cf4d806&width=768&quality=70&smart=true",
-      "publishedAt": "2023-10-27 20:45:40",
-      "content": "NUEVA YORK.- En un laboratorio en el centro de Medell\u00edn, Colombia, es la hora del almuerzo: una t\u00e9cnica con bata blanca lleva una bandeja cargada a un criadero lleno de vapor. Camina entre hileras de\u2026 [+13783 chars]",
-      "retrievedAt": "2023-10-29 07:05:22.294779",
-      "internal_id": "590041e928ad76e0f1ce7dba73de995131dd14434082d7c73008588c45b3d20a",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2777,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Mark Kortepeter, Contributor, \n Mark Kortepeter, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/markkortepeter/",
-      "title": "Malaria Is Spreading In The U.S. An Infectious Disease Doctor Explains This Troubling Trend",
-      "description": "A patient developed malaria in Arkansas earlier in October, making now 10 cases this year that occurred in Florida, Texas, Maryland and Arkansas.",
-      "url": "https://www.forbes.com/sites/markkortepeter/2023/10/27/malaria-is-spreading-in-the-us-an-infectious-disease-doctor-explains-this-troubling-trend/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/653bf41b628c0f5d3310d1aa/0x0.jpg?format=jpg&width=1200",
-      "publishedAt": "2023-10-27 17:41:49",
-      "content": "Orient mosquito (Anopheles minimus), engorged with blood, feeding on the human host, 2005. Image ... [+] courtesy Centers for Disease Control (CDC). (Photo by Smith Collection/Gado/Getty Images) Get\u2026 [+5357 chars]",
-      "retrievedAt": "2023-10-28 19:05:09.406213",
-      "internal_id": "d5c1083846042113c2e64823a546a68ef21e47c49c58ba692a995601bc9b55d1",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2773,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Nagaland Records Over 2,900 Dengue Cases Since June",
-      "description": "Nagaland has registered 2,909 dengue cases since June this year, the highest in nearly two decades, a senior official said on Friday.",
-      "url": "https://www.ndtv.com/india-news/nagaland-records-over-2-900-dengue-cases-since-june-highest-in-nearly-2-decades-4521371",
-      "urlToImage": "https://c.ndtvimg.com/2022-09/3jpf0c1o_dengue-home-remedies_625x300_24_September_22.jpg",
-      "publishedAt": "2023-10-27 17:08:30",
-      "content": "Dimapur tops the list with 1,398 cases, said official. (Representational) Kohima: Nagaland has registered 2,909 dengue cases since June this year, the highest in nearly two decades, a senior officia\u2026 [+1033 chars]",
-      "retrievedAt": "2023-10-28 19:05:08.354830",
-      "internal_id": "c02680d64cda4a1fa0ef34c7f8bbedf6bde60df8e8b34803b1b9d8232e12f20b",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2779,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "KFSN-TV",
-      "author": "Brenda Goodman",
-      "title": "CDC advisers vote to recommend routine mpox vaccine to protect against high risk of infection",
-      "description": "More than 2 million people in the United States are eligible for vaccination against mpox under the new recommendations, according to the CDC.",
-      "url": "https://abc30.com/what-is-mpox-virus-vaccine-cdc-jynneos/13980347/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/13979461_102723-wpvi-mpox-vaccine-430a-vo-video-vid.jpg?w=1600",
-      "publishedAt": "2023-10-27 14:59:02",
-      "content": "Men who have sex with men and others who are at high risk of mpox infection should get two doses of the Jynneos vaccine, even now that the recent public health emergency in the United States has pass\u2026 [+1989 chars]",
-      "retrievedAt": "2023-10-28 19:05:11.114512",
-      "internal_id": "93fc36969f81eec668a49f2cd1630fc6bbbe286c396c9d29b64097a283d71f66",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2778,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Hayley Dunning",
-      "title": "Malaria parasite gene could be effective drug target to block transmission",
-      "description": "A newly-discovered gene in the malaria parasite could be a good target for future drugs aimed at preventing disease transmission.",
-      "url": "https://phys.org/news/2023-10-malaria-parasite-gene-effective-drug.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/malaria-parasite-gene.jpg",
-      "publishedAt": "2023-10-27 14:45:04",
-      "content": "A newly-discovered gene in the malaria parasite could be a good target for future drugs aimed at preventing disease transmission. The gene, discovered by Imperial College London researchers, is cruc\u2026 [+4706 chars]",
-      "retrievedAt": "2023-10-28 19:05:09.421700",
-      "internal_id": "9472b7991b94a74abf6756acf62caf96c8e03461861c2c5631098c030d002e84",
-      "publishedAtLabel": "Oct 27"
-    },
-    {
-      "id": 2772,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Conversation Africa",
-      "author": "Eunice Anyango Owino, Medical Entomologist at the School of Biological Sciences, University of Nairobi",
-      "title": "Chad's first dengue fever outbreak: what you should know",
-      "description": "The Sahel region is grappling with an outbreak of the deadly mosquito-borne disease.",
-      "url": "https://theconversation.com/chads-first-dengue-fever-outbreak-what-you-should-know-216483",
-      "urlToImage": "https://images.theconversation.com/files/556123/original/file-20231026-24-tsd6io.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2023-10-27 14:09:00",
-      "content": "Chad has reported its first dengue outbreak, according to the World Health Organization (WHO). The country\u2019s health ministry declared an outbreak on 15 August and so far 1,342 suspected cases have be\u2026 [+5655 chars]",
-      "retrievedAt": "2023-10-28 19:05:08.343308",
-      "internal_id": "836f2086c64e58b16277bc5b79fc33e60fe3bbae0a4738685205f6a829f9406a",
-      "publishedAtLabel": "Oct 27"
     }
   ]
 }
