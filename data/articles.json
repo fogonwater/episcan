@@ -1,8 +1,243 @@
 {
-  "last_updated": "2023-11-10 07:05",
+  "last_updated": "2023-11-10 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 3002,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Ya est\u00e1 disponible la vacuna contra el dengue: d\u00f3nde la aplican, cu\u00e1nto sale y los pasos por seguir",
+      "description": "La vacuna, que lleva el nombre de TAK-003, se basa en el \u201cvirus del dengue 2\u2033, al que se a\u00f1adi\u00f3 ADN de los otros tres serotipos",
+      "url": "https://www.lanacion.com.ar/sociedad/ya-esta-disponible-la-vacuna-contra-el-dengue-donde-la-aplican-cuanto-sale-y-los-pasos-por-seguir-nid09112023/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-vacuna-de-takeda-contra-el-dengue-aprobada-por-O462LEZ5CFEG5KF2BFXTFMLRPM.jpg?auth=4a5493de0136b4da0928c93072dd6b2b1da7c63a4639d6d7550b4bb3adee1af2&width=768&quality=70&smart=false",
+      "publishedAt": "2023-11-09 18:25:27",
+      "content": "El laboratorio productor de la vacuna contra el dengue que la Administraci\u00f3n Nacional de Medicamentos, Alimentos y Tecnolog\u00eda M\u00e9dica (Anmat) aprob\u00f3 para su comercializaci\u00f3n local inform\u00f3 hoy que el i\u2026 [+3612 chars]",
+      "retrievedAt": "2023-11-10 19:05:28.221508",
+      "internal_id": "c45d79bdcda62a3e9f0ce564021e948490c7c55084bb38b9042d4d1e3d1186ef",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 2999,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Coverage with Selected Vaccines and Exemption from School Vaccine Requirements Among Children in Kindergarten - United States, 2022-23 School Year",
+      "description": "This report describes vaccination coverage and changes in exemption from school vaccine requirements among kindergartners.",
+      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7245a2.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7245a2_KindergartenVaccineCoverage_IMAGE_11Nov2023_1200x675.jpg?_=58303",
+      "publishedAt": "2023-11-09 18:00:00",
+      "content": "* All states except Wyoming require 2 doses of a measles-containing vaccine. Seven states (Alaska, Georgia, New Jersey, New York, North Carolina, Oregon, and Virginia) require only 1 dose of rubella \u2026 [+5702 chars]",
+      "retrievedAt": "2023-11-10 19:05:27.856892",
+      "internal_id": "873f37108ffb1380bd0b368bed5f38c16a0c77cb740298b37a4b41d403798157",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 3000,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Wealthofgeeks.com",
+      "author": "Richard Pretorius",
+      "title": "Health Officials Warn of Painful Disease That Will Become a Major Threat This Decade",
+      "description": "The symptoms can be similar to a bad case of the flu \u2014 high fever, bad headache, muscle and joint pain. As of October 2, ... Read More",
+      "url": "https://wealthofgeeks.com/health-officials-warn-of-painful-disease-that-will-become-a-major-threat-this-decade/",
+      "urlToImage": "https://wealthofgeeks.com/wp-content/uploads/2023/11/doctor-patient.jpg",
+      "publishedAt": "2023-11-09 17:20:17",
+      "content": "The symptoms can be similar to a bad case of the flu high fever, bad headache, muscle and joint pain. As of October 2, more than 4.2 million cases of dengue fever have been reported this year and ov\u2026 [+2525 chars]",
+      "retrievedAt": "2023-11-10 19:05:28.200673",
+      "internal_id": "c28a219607c6e9e16da7fab7890bfd0c822f5a2113eaeae7aa7fe12da08278b5",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 3009,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Gaza faces imminent typhoid, cholera outbreak, health bodies warn - POLITICO Europe",
+      "description": "Gaza faces imminent typhoid, cholera outbreak, health bodies warnPOLITICO Europe Israel-Hamas War: Latest Updates and NewsThe New York Times 'Catastrophe looming' in Gaza as hospitals appear close to collapse, doctor saysABC News WHO warns of disease spread i\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172206525",
+      "urlToImage": null,
+      "publishedAt": "2023-11-09 16:55:39",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-11-10 19:05:30.118226",
+      "internal_id": "978ee97ecc8100a96d508f91b32ff4270ea64c41d0754afa70a9442257ba4706",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 3010,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Jess de Jong",
+      "title": "Comment: Calving time on the farm means key vaccinations are due",
+      "description": "Opinion: There are five main clostridial diseases - most come from diseases in the soil.",
+      "url": "https://www.nzherald.co.nz/waikato-news/news/comment-calving-time-on-the-farm-means-key-vaccinations-are-due/GZRNQOZ7SFDTZM4XBGU575XBB4/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/ZybX5dIvCr8bho4v0aBrQbiI1Kk=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/OZ7VOHBSYNGBDBW2ZWUVYY4DLI.jpg",
+      "publishedAt": "2023-11-09 16:00:00",
+      "content": "Key dairy calf vaccinations are for clostridial vaccines and leptospirosis. Photo / DairyNZOPINION Its time to get calves their vaccinations to protect them from diseases in the surrounding environm\u2026 [+3137 chars]",
+      "retrievedAt": "2023-11-10 19:05:30.479152",
+      "internal_id": "23a931885032f76f76121012929179023310d20eeb2764c3066b4ae1c2cfc360",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 3008,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Yale.edu",
+      "author": "news@yale.edu (Yale News)",
+      "title": "Study identifies countries vulnerable to extensively drug-resistant typhoid",
+      "description": "Yale School of Public Health researchers examined travel and transmission data to help predict future outbreaks of a resistant strain that emerged in Pakistan.",
+      "url": "https://ysph.yale.edu/news-article/study-identifies-countries-vulnerable-to-extensively-drug-resistant-typhoid/",
+      "urlToImage": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/7ee5f1a0-375a-4552-9d86-534aebb73054",
+      "publishedAt": "2023-11-09 15:31:12",
+      "content": "Using air travel records and data on where local conditions make transmission more likely, Yale School of Public Health (YSPH)researchers have identified countries where outbreaks of an extensively d\u2026 [+4534 chars]",
+      "retrievedAt": "2023-11-10 19:05:30.113141",
+      "internal_id": "d457fb859876f1d24a14af9895a97d817ad621805b0c1a7f6ec0d879373d90d6",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 3001,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Cassia F. Estofolete, Alice F. Versiani, Fernanda S. Dourado, Bruno H. G. A. Milhim, Carolina C. Pacca, Gislaine C. D. Silva, Nathalia Zini, Barbara F. dos Santos, Flora A. Gandolfi, Natalia F. B. Mistr\u00e3o, Pedro H. C. Garcia, Rodrigo S. Rocha, Lee Gehrke, Irene Bosch, Rafael E. Marques, Mauro M. Teixeira, Flavio G. da Fonseca, Nikos Vasilakis, Maur\u00edcio L. Nogueira",
+      "title": "Influence of previous Zika virus infection on acute dengue episode",
+      "description": "Author summary Although dengue is a disease known for years in the world and has been affecting several continents, some aspects remain unclear. One of them is about the possible factors that may influence the development of severe forms of the disease. Much \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011710",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011710.g006&size=inline",
+      "publishedAt": "2023-11-09 14:00:00",
+      "content": "Citation: Estofolete CF, Versiani AF, Dourado FS, Milhim BHGA, Pacca CC, Silva GCD, et al. (2023) Influence of previous Zika virus infection on acute dengue episode. PLoS Negl Trop Dis 17(11): e001\u2026 [+51258 chars]",
+      "retrievedAt": "2023-11-10 19:05:28.213659",
+      "internal_id": "4c098b3f107966de3a5452c676a12386415e4eae96227e0e46b8852057161493",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 3005,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "James A. Watson, Thomas J. Peto, Nicholas J. White",
+      "title": "Rectal artesunate suppositories for the pre-referral treatment of suspected severe malaria",
+      "description": "In this Policy Forum article, James A. Watson and colleagues discuss recent guidelines relating to pre-referral treatment of suspected severe malaria with rectal artesunate suppositories in remote areas.",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004312",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004312.g002&size=inline",
+      "publishedAt": "2023-11-09 14:00:00",
+      "content": "Citation: Watson JA, Peto TJ, White NJ (2023) Rectal artesunate suppositories for the pre-referral treatment of suspected severe malaria. PLoS Med 20(11): e1004312. https://doi.org/10.1371/journal\u2026 [+29984 chars]",
+      "retrievedAt": "2023-11-10 19:05:28.863723",
+      "internal_id": "832280a706d5e1e5e521b980c62260e419022be4e1ab8dcdc996e98e573963ca",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 3006,
+      "query": [
+        "zika"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": null,
+      "title": "Dr. Tom Frieden: Covid-19 is still around, and so are these misconceptions | CNN",
+      "description": "Covid-19 hasn\u2019t gone away, and it won\u2019t any time soon. It\u2019s now part of the landscape of health threats. Although the coronavirus continues to kill and cause lasting damage, our immunity, vaccines and treatments have tamed the pandemic.",
+      "url": "https://www.cnn.com/2023/11/09/health/tom-frieden-covid-19-misconceptions/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231108180448-covid-vaccine-01052023.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-11-09 13:43:31",
+      "content": "Editors note: Dr. Tom Frieden was director of the US Centers for Disease Control and Prevention from 2009 to 2017, where he oversaw responses to the H1N1 influenza, Ebola and Zika epidemics. He is pr\u2026 [+8217 chars]",
+      "retrievedAt": "2023-11-10 19:05:29.176039",
+      "internal_id": "47014dcd3842370993c320dd9170f00e4299c60f46f4817b42258df44bb377d5",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 3004,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Dirisu Yakubu",
+      "title": "Reps okay nationwide survey on fake anti-malaria drugs",
+      "description": "In June 2018, NAFDAC was informed of the circulation of some fake varieties of anti-malaria drugs imported fraudulently from India. Counterfeit/fake anti-malaria drugs are mostly observed to be deliberately made to look like brand name drugs or may have no ac\u2026",
+      "url": "https://punchng.com/reps-okay-nationwide-survey-on-fake-anti-malaria-drugs/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2020/07/12161649/House-of-Reps4.jpg",
+      "publishedAt": "2023-11-09 13:14:45",
+      "content": "The House of Representatives on Thursday mandated its Committee on HIV/AIDS, Tuberculosis and Malaria Control to carry out a baseline survey across the six geo-political zones of the country on fake \u2026 [+2958 chars]",
+      "retrievedAt": "2023-11-10 19:05:28.857250",
+      "internal_id": "ba8627eae653b47bf2032407f398b67447fc4bf2617643247843ac992bb7f6b8",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 3007,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Claudia Chiappa",
+      "title": "Gaza faces imminent typhoid, cholera outbreak, health bodies warn",
+      "description": "Lack of safe water and disruption to health and sanitation services are raising the threat of infectious disease outbreaks.",
+      "url": "https://www.politico.eu/article/health-chiefs-warn-of-imminent-typhoid-cholera-outbreaks-in-gaza/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/11/09/GettyImages-1761504974-scaled.jpg",
+      "publishedAt": "2023-11-09 10:36:34",
+      "content": "Health organizations are warning of an imminent public health crisis in the Gaza Strip, where disruptions to health and water systems are raising the risk of disease outbreaks. The International Res\u2026 [+1492 chars]",
+      "retrievedAt": "2023-11-10 19:05:30.104317",
+      "internal_id": "ae4138536ab17a4d1f1e3cfca91c0b393b14ce2a26f25414ea14590f29da0ddd",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 3003,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Insurance Journal",
+      "author": "Admin",
+      "title": "Peace Corps to Pay $750,000 in Settlement to Family of Illinois Woman Who Died After Misdiagnosis in East Africa",
+      "description": "The Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agency\u2019s doctors misdiagnosed a case of malaria, a law firm announced Tuesday. Bernice Heiderman \u2026",
+      "url": "https://www.insurancejournal.com/news/midwest/2023/11/09/747638.htm",
+      "urlToImage": "https://www.insurancejournal.com/app/uploads/2021/01/settlement-legal-scaled.jpg",
+      "publishedAt": "2023-11-09 10:30:14",
+      "content": "The Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agency\u2019s doctors misdiagnosed a case of malaria, a law firm\u2026 [+2391 chars]",
+      "retrievedAt": "2023-11-10 19:05:28.852008",
+      "internal_id": "667967678faa18ab2f6fd972cb7f67dc564c99fcc42157761c4933e1d6ac609a",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 2998,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Devika Rao, The Week US)",
+      "title": "An increasing number of dog owners are 'vaccine hesitant' about rabies",
+      "description": "A new survey points to canine vaccine hesitancy",
+      "url": "https://theweek.com/health/dog-owners-increasing-vaccine-hesitant-rabies",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HiAHemPoqqVQsqWT23Pvfa-1200-80.jpg",
+      "publishedAt": "2023-11-09 09:25:37",
+      "content": "Vaccine worries are spilling over to the world of pet ownership. Roughly half of pet owners show some level of canine vaccine hesitancy, per a study published in the journal Vaccine . Specifically,\u2026 [+2019 chars]",
+      "retrievedAt": "2023-11-10 19:05:27.401282",
+      "internal_id": "5801a2d9cb8ae1a453e9110b77bf3686050c1cd52ae5af4ad319ab91a87044e8",
+      "publishedAtLabel": "Nov 9"
+    },
     {
       "id": 2996,
       "query": [
@@ -3383,240 +3618,6 @@
       "retrievedAt": "2023-10-31 19:06:15.994108",
       "internal_id": "2214fdbdcb3ae80696ab155f91c3d01c3a07840b6a56fed45645897585051c01",
       "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2804,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Sudeste registra alta nos casos de dengue: MG e ES somam 500 mil",
-      "description": "No Esp\u00edrito Santo, casos saltaram de 70 para 120 mil na compara\u00e7\u00e3o com 2022",
-      "url": "https://saude.ig.com.br/2023-10-30/casos-dengue-disparam-brasil-sudeste.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2023-10-30 15:03:40",
-      "content": "Os estados da regi\u00e3o Sudeste do Brasil v\u00eam registrando alta no n\u00famero de casos de dengue, alerta o Minist\u00e9rio da Sa\u00fade. Segundo a pasta, o crescimento se d\u00e1 em todo o pa\u00eds, mas em especial nos estado\u2026 [+1595 chars]",
-      "retrievedAt": "2023-10-31 19:06:16.045899",
-      "internal_id": "2ceec2d439efbcc976966067555e6a984616ac6f2004fd831fd074fcea79d3ee",
-      "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2806,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Angka DBD Merangkak Naik, Dinkes Kalbar Dorong Upaya Pencegahan dan Manajemen Vektor Efektif",
-      "description": "KalbarOnline, Pontianak \u2013 Tren kasus Demam Berdarah Dengue (DBD) terpantau masih mengalami The post Angka DBD Merangkak Naik, Dinkes Kalbar Dorong Upaya Pencegahan dan Manajemen Vektor Efektif appeared first on KalbarOnline.Com.",
-      "url": "https://www.kalbaronline.com/2023/10/30/angka-dbd-merangkak-naik-dinkes-kalbar-dorong-upaya-pencegahan-dan-manajemen-vektor-efektif/",
-      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/08/IMG-20230811-WA0036.jpg",
-      "publishedAt": "2023-10-30 14:29:38",
-      "content": "KalbarOnline, Pontianak \u2013 Tren kasus Demam Berdarah Dengue (DBD) terpantau masih mengalami kenaikan hingga akhir Oktober 2023. Tercatat hingga minggu ke-43, angka kesakitan DBD di Kalbar sebanyak 4.3\u2026 [+2526 chars]",
-      "retrievedAt": "2023-10-31 19:06:16.065472",
-      "internal_id": "b21958457a62b15eff33a12832522bcb61e8495e7e2ad143bd2876c86772bb4d",
-      "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2810,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Tanzania: Maternal Deaths Drops",
-      "description": "[Daily News] PRESIDENT Dr Samia Suluhu Hassan yesterday launched the new Tanzania Demographic and Health Survey and Malaria Indicator Survey (2022 TDHS-MIS), which shows that the country has cut down maternal mortality rate by 80 per cent.",
-      "url": "https://allafrica.com/stories/202310300564.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-30 14:10:57",
-      "content": "PRESIDENT Dr Samia Suluhu Hassan yesterday launched the new Tanzania Demographic and Health Survey and Malaria Indicator Survey (2022 TDHS-MIS), which shows that the country has cut down maternal mor\u2026 [+4985 chars]",
-      "retrievedAt": "2023-10-31 19:06:16.724370",
-      "internal_id": "79c597065042e986b478377f6c606084c204f4d35c92de9d75595e7115531b56",
-      "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2809,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Catherine Kroamah Dwumfour, Victoria Bubunyo Bam, Lydia Boampong Owusu, Collins Atta Poku, Rhoda Dewe Kpabitey, Priscilla Aboagye, Amshariatu Suntaa Ibrahim",
-      "title": "Prevalence and determinants of malaria infection among pregnant women attending antenatal clinic in Ejisu government hospital in Ghana: A cross-sectional study",
-      "description": "Introduction Malaria in pregnancy is a global public health problem with the majority of its impact seen in sub-Saharan Africa. Pregnant women with malaria infection are at risk of adverse maternal outcomes. In Ghana, malaria in pregnancy accounts for about 1\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293420",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0293420.t005&size=inline",
-      "publishedAt": "2023-10-30 14:00:00",
-      "content": "Abstract Introduction Malaria in pregnancy is a global public health problem with the majority of its impact seen in sub-Saharan Africa. Pregnant women with malaria infection are at risk of adverse\u2026 [+46383 chars]",
-      "retrievedAt": "2023-10-31 19:06:16.717551",
-      "internal_id": "e038512f19f128a4c4e744ea6511b4119aa87c92d8fed300791ba9fee412f180",
-      "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2812,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Anastasia Accoti, Laura C. Multini, Babakar Diouf, Margaret Becker, Julia Vulcan, Massamba Sylla, Dianne Y. Yap, Kamil Khanipov, Mawlouth Diallo, Alioune Gaye, Laura B. Dickson",
-      "title": "The influence of the larval microbiome on susceptibility to Zika virus is mosquito genotype-dependent",
-      "description": "Author summary Adult mosquitoes transmit many viruses, including Zika virus, during the process of taking a bloodmeal from human hosts. An important parameter of how well a mosquito is at transmitting viruses is whether the mosquito can become infected and re\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011727",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011727.g004&size=inline",
-      "publishedAt": "2023-10-30 14:00:00",
-      "content": "Citation: Accoti A, Multini LC, Diouf B, Becker M, Vulcan J, Sylla M, et al. (2023) The influence of the larval microbiome on susceptibility to Zika virus is mosquito genotype-dependent. PLoS Pathog \u2026 [+45702 chars]",
-      "retrievedAt": "2023-10-31 19:06:16.993503",
-      "internal_id": "24785ae7370bb853fd3b3057da71a79147a0e70d8ba7e3d5999c9a0cd1285215",
-      "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2802,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "By JERUSALEM POST STAFF",
-      "title": "Dengue fever found in patient who returned to Israel from Thailand",
-      "description": "A person who recently returned to Israel from Thailand was found to be infected with Dengue fever, KAN news re",
-      "url": "https://www.jpost.com/breaking-news/article-770825",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
-      "publishedAt": "2023-10-30 12:09:48",
-      "content": "A person who recently returned to Israel from Thailand was found to be infected with Dengue fever, KAN news reported on Monday. The patient is hospitalized in serious condition and sedated and on a \u2026 [+35 chars]",
-      "retrievedAt": "2023-10-31 19:06:16.017783",
-      "internal_id": "b0c05fe31cf4d8f3384a074af770ceccc64388bc2586551f6b1c2fe35e54a657",
-      "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2801,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "ZAZALI MUSA",
-      "title": "Number of dengue cases in Johor more than tripled in ME42",
-      "description": "JOHOR BARU: The number of dengue cases in Johor for epidemiology week 42 (ME42) went up to 8,422 compared to 2,755 cases recorded in the same period in 2022. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/30/number-of-dengue-cases-in-johor-more-than-tripled-in-me42",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/30/2363422.jpg",
-      "publishedAt": "2023-10-30 11:49:00",
-      "content": "JOHOR BARU: The number of dengue cases in Johor for epidemiology week 42 (ME42) went up to 8,422 compared to 2,755 cases recorded in the same period in 2022. Johor Health and Unity committee chairma\u2026 [+1983 chars]",
-      "retrievedAt": "2023-10-31 19:06:16.011696",
-      "internal_id": "d2bb0f7e68d4acb6feb9b31062afb9dad206add4e4913432408e2802b540d5ea",
-      "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2814,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Malay Mail",
-      "author": "Malay Mail",
-      "title": "Health Ministry: Two new monkeypox cases detected in Malaysia",
-      "description": "PUTRAJAYA, Oct 30 \u2014 Two new cases of monkeypox (mpox) involving two local men have been detected in Malaysia, bringing the cumulative number of cases to four this year. Health...",
-      "url": "https://www.malaymail.com/news/malaysia/2023/10/30/health-ministry-two-new-monkeypox-cases-detected-in-malaysia/99251",
-      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2023/10/30/thumbs/400x400/159238.jpg",
-      "publishedAt": "2023-10-30 09:51:43",
-      "content": "PUTRAJAYA, Oct 30 Two new cases of monkeypox (mpox) involving two local men have been detected in Malaysia, bringing the cumulative number of cases to four this year. Health director-general Datuk D\u2026 [+2030 chars]",
-      "retrievedAt": "2023-10-31 19:06:17.581142",
-      "internal_id": "1247aee3631890c5c769034ed83b0ee23923e368e2316a00248f81813180f414",
-      "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2807,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Handryastuti, S., Latifah, D., Bermanshah, E. K., Gunardi, H., Kadim, M., Iskandar, R. A. T. P.",
-      "title": "Development of clinical-based scoring system to diagnose tuberculous meningitis in children",
-      "description": "Objective Diagnosing tuberculous meningitis (TBM) in children is challenging due to the low sensitivity with time delay of bacterial culture techniques and the lack of brain imaging facilities in many low- and middle-income settings. This study aims to establ\u2026",
-      "url": "https://adc.bmj.com/content/108/11/884?rss=1",
-      "urlToImage": "https://adc.bmj.com/sites/default/files/highwire/archdischild/108/11.cover-source.jpg",
-      "publishedAt": "2023-10-30 08:59:15",
-      "content": "Introduction Globally, children with tuberculous meningitis (TBM) are estimated to account for 12% of all active tuberculosis (TB) cases. This severe form of TB causes high morbidity and mortality i\u2026 [+16727 chars]",
-      "retrievedAt": "2023-10-31 19:06:16.358345",
-      "internal_id": "22c9102a29e3215d02686652ad491996304b5c696bbc0b97aa504e68f6fc783f",
-      "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2813,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "R. SEKARAN",
-      "title": "Two recent mpox cases not linked to earlier ones, says Health DG",
-      "description": "PETALING JAYA: There have been four cases of mpox infection reported to date with two new ones that are not linked to the first two cases, says the Health Ministry. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/10/30/two-recent-mpox-cases-not-linked-to-earlier-ones-says-health-dg",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/10/30/2362937.jpg",
-      "publishedAt": "2023-10-30 07:47:00",
-      "content": "PETALING JAYA: There have been four cases of mpox infection reported to date with two new ones that are not linked to the first two cases, says the Health Ministry. It said the third case was confir\u2026 [+1113 chars]",
-      "retrievedAt": "2023-10-31 19:06:17.574011",
-      "internal_id": "2a5bb359c13f57e3c7be2ff030f74be5cc4971c887ae694184407640b846834e",
-      "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2805,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "Cholera and Dengue Fever Continue to Spread Rapidly in Sudan",
-      "description": "[Dabanga] Sharg El Nil / Wad Madani / El Gedaref / En Nehoud -- Sudan is grappling with a growing health crisis as dengue fever and cholera continue to spread across the country. The rapid expansion of these diseases has raised serious concerns, posing signif\u2026",
-      "url": "https://allafrica.com/stories/202310300081.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-10-30 07:14:36",
-      "content": "Sharg El Nil / Wad Madani / El Gedaref / En Nehoud \u2014 Sudan is grappling with a growing health crisis as dengue fever and cholera continue to spread across the country. The rapid expansion of these di\u2026 [+3184 chars]",
-      "retrievedAt": "2023-10-31 19:06:16.049683",
-      "internal_id": "4776669c77b5fa887f308d8cec36b733f1a3a429f57640843aadaec1315143c0",
-      "publishedAtLabel": "Oct 30"
-    },
-    {
-      "id": 2797,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Dy CM down with dengue, BMC's October tally hits 737",
-      "description": "Deputy CM Ajit Pawar of Mumbai has been diagnosed with dengue and has been advised rest for the next few days. Last week, Pawar was confronted by Maratha youth demanding his views on reservation for the community. This is not the first time Pawar has been unw\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/dy-cm-down-with-dengue-bmcs-october-tally-hits-737/articleshow/104808811.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104808817,width-1070,height-580,imgsize-1351726,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-29 23:38:52",
-      "content": "Life lessons to learn from Amala Paul",
-      "retrievedAt": "2023-10-31 07:05:33.668544",
-      "internal_id": "c75a80c672c9a62ce9679e6fcf3b48a35b14e208794c034a76408ab6aae47982",
-      "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2798,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Maharashtra deputy CM Ajit Pawar down with dengue, BMC's October tally hits 737",
-      "description": "Deputy CM Ajit Pawar of Mumbai has been diagnosed with dengue and has been advised rest for the next few days. Last week, Pawar was confronted by Maratha youth demanding his views on reservation for the community. This is not the first time Pawar has been unw\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-deputy-cm-ajit-pawar-down-with-dengue-bmcs-october-tally-hits-737/articleshow/104808811.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104808817,width-1070,height-580,imgsize-1351726,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-29 23:38:52",
-      "content": "Life lessons to learn from Amala Paul",
-      "retrievedAt": "2023-10-31 07:05:33.675557",
-      "internal_id": "526a80ab9c2e59b87420e75bc8d488144eb821170770fde24c669e769e2725b4",
-      "publishedAtLabel": "Oct 29"
     }
   ]
 }
