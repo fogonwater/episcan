@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-11-09 19:05",
+  "last_updated": "2023-11-10 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 18,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 2996,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hbvl.be",
+      "author": "J\u00fcrgen Schrooten",
+      "title": "Kinrooise Chlo\u00eb Boonen (15) had als kind malaria, maar is nu Belgisch kampioene motorcross",
+      "description": "Maar liefst 170 dames hebben zich ingeschreven voor de Ladies Day in Lille komende zondag. Onder hen ook Chlo\u00eb Boonen. De 15-jarige Kinrooise - die als kind malaria had - kroonde zich dit jaar tot Belgisch kampioene bij de dames B.",
+      "url": "https://www.hbvl.be/cnt/dmf20231108_96053599",
+      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2023/11/08/0d613e4f-28dd-465a-8cc2-f92b478881de.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2023-11-09 02:00:00",
+      "content": "Maar liefst 170 dames hebben zich ingeschreven voor de Ladies Day in Lille komende zondag. Onder hen ook Chlo\u00eb Boonen. De 15-jarige Kinrooise - die als kind malaria had - kroonde zich dit jaar tot Be\u2026 [+31 chars]",
+      "retrievedAt": "2023-11-10 07:05:39.107976",
+      "internal_id": "9fb4382be6a0cb4ae97f32a48dd0bd5985fb3c3e9bc70af2f0364aad0dbd3e28",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 2997,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Mar\u00eda P. Bonmat\u00ed",
+      "title": "Los casos de tuberculosis registrados en el mundo baten r\u00e9cords: mat\u00f3 m\u00e1s que la Covid en 2022",
+      "description": "La enfermedad acab\u00f3 con 1,3 millones de vidas el pasado a\u00f1o a pesar de que es prevenible y existe tratamiento.",
+      "url": "https://www.elespanol.com/ciencia/salud/20231109/casos-tuberculosis-registrados-mundo-baten-records-mato-covid/808169609_0.html",
+      "urlToImage": "https://s1.eestatic.com/2023/11/08/ciencia/salud/808180200_237450568_1200x630.jpg",
+      "publishedAt": "2023-11-09 01:50:33",
+      "content": "En los \u00faltimos dos siglos, la tuberculosis ha matado a m\u00e1s personas que la malaria, la viruela, la peste, el c\u00f3lera, la gripe y el VIH juntos. La enfermedad es tan peligrosa que hubo un tiempo, no mu\u2026 [+4784 chars]",
+      "retrievedAt": "2023-11-10 07:05:39.138920",
+      "internal_id": "49509764fefd8a13d5c854a1c4d108cf8135f602454e389d9f39bb21c6986d79",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 2994,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Ohmynews.com",
+      "author": "\uc720\ucc3d\uc7ac",
+      "title": "'\ubc1c\uc791\uc131 \uae30\uce68' \ubc31\uc77c\ud574 \uc99d\uac00... \uc9c8\ubcd1\uccad, \uc5b4\ub9b0\uc774 \ucd94\uac00 \uc811\uc885 \ub2f9\ubd80",
+      "description": "\ubc1c\uc791\uc801\uc73c\ub85c \uae30\uce68\ud558\uba70, \uae30\uce68 \ud6c4 \uad6c\ud1a0\ub098 \ubb34\ud638\ud761 \ub4f1\uc758 \uc99d\uc0c1\uc774 \ub098\ud0c0\ub0a0 \uc218 \uc788\ub294 '\ubc31\uc77c\ud574' \ud658\uc790\uac00 \ucd5c\uadfc 5\uc8fc\uac04 \uc99d\uac00\ud558\uace0 \uc788\ub294 \ucd94\uc138\uc778 \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\ub2e4. \uc774\uc5d0 \uc9c8\ubcd1\uad00\ub9ac\uccad(\uccad\uc7a5 \uc9c0\uc601\ubbf8)\uc5d0\uc11c \ub2e8\uccb4\uc0dd\ud65c\uc744 \ud558\ub294 \uc5b4\ub9b0\uc774 \uc911 \ucd94\uac00 \uc811\uc885\uc744 \ud558\uc9c0 \uc54a\uc740 \uc5b4\ub9b0\uc774\ub294 \uac10\uc5fc \uc704\ud5d8\uc774 \ub192\uae30\uc5d0 \uc608\ubc29\uc811\uc885\uc744 \ub2f9\ubd80\ud558\uace0 \uc788\ub2e4. \uc9c8\ubcd1\uad00\ub9ac\uccad(\uc544\ub798 \uc9c8\ubcd1\uccad)\uc740 9\uc77c \"\uc62c\ud574 \ubc31\uc77c\ud574 \ud658\uc790\uac00 \uc9c0\ub09c 4\uc77c \uae30\uc900\uc73c\ub85c 83\uba85(\uc758\uc0ac\ud658\uc790 \ud3ec\ud568)\uc73c\ub85c 2022\ub144 \ub3d9\uae30\uac04 25\uba85 \ub300\ube44 \uc99d\uac00\ud558\uace0 \uc788\ub2e4\"\uace0 \ubc1d\ud614\ub2e4. \uc774\uc5b4 \uc9c8\ubcd1\uccad\uc740 \"\u2026",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002976383",
+      "urlToImage": "https://ojsfile.ohmynews.com/CRI_T_IMG/2023/1109/A0002976383_T.jpg",
+      "publishedAt": "2023-11-09 00:28:21",
+      "content": " , 65 9 20 . , '' 5 . ( ) . ( ) 9 \" 4 83( ) 2022 25 \" . \" , (DTaP) \" . 6 5 , 11~12 6 . , (Bordetella pertussis) \u2026 [+605 chars]",
+      "retrievedAt": "2023-11-10 07:05:37.501590",
+      "internal_id": "3f9ce2c1b25e14f6afa38cd2ab1a0e2a86551177647bdb97e20bb6bd19acdaf1",
+      "publishedAtLabel": "Nov 9"
+    },
+    {
+      "id": 2995,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "EL UNIVERSAL",
+      "title": "Alerta por alza en los casos de dengue en Cartagena: van 2.193 este a\u00f1o",
+      "description": "Seg\u00fan el Departamento Administrativo Distrital de Salud (Dadis), durante este a\u00f1o se ha registrado un total de 2.193 casos de dengue, los cuales fueron notificados al Sistema de Vigilancia en Salud P\u00fablica (Sivigila). Del total de casos, 1.597 fueron clasific\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/alerta-por-alza-en-los-casos-de-dengue-en-cartagena-van-2193-este-ano-XC9411653",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/966x686/83c0/800d686/none/13704/XJSK/dengue-sucre-febrero-15-7381065-20230215105616_8893392_20231108144515.jpg",
+      "publishedAt": "2023-11-08 19:45:33",
+      "content": "Seg\u00fan el Departamento Administrativo Distrital de Salud (Dadis), durante este a\u00f1o se ha registrado un total de 2.193 casos de dengue, los cuales fueron notificados al Sistema de Vigilancia en Salud P\u2026 [+1333 chars]",
+      "retrievedAt": "2023-11-10 07:05:38.267559",
+      "internal_id": "4e3ea55525ca886b8141ab0fd52a2e34c64e9798f17965a1de861c28dbaf9177",
+      "publishedAtLabel": "Nov 8"
+    },
     {
       "id": 2976,
       "query": [
@@ -3544,78 +3616,6 @@
       "content": "Life lessons to learn from Amala Paul",
       "retrievedAt": "2023-10-31 07:05:33.675557",
       "internal_id": "526a80ab9c2e59b87420e75bc8d488144eb821170770fde24c669e769e2725b4",
-      "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2799,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Roanoke Times",
-      "author": "By Jen Christensen, CNN",
-      "title": "A \u2018new turning point\u2019: Patients could soon have a new shot to protect them from deadly meningitis",
-      "description": "Pfizer\u2019s new pentavalent meningococcal vaccine, Penbraya, protects against five kinds of bacteria and could soon be an option that offers people broad protection from meningococcal disease with fewer shots.",
-      "url": "https://roanoke.com/news/nation-world/meningitis-vaccine-new-recommendations-cdc/article_1a589df8-fe7e-5f09-b6c3-1eb30bd290e5.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/a5/1a589df8-fe7e-5f09-b6c3-1eb30bd290e5/653bd09c92908.preview.jpg?crop=1530%2C803%2C30%2C28&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-10-29 19:30:00",
-      "content": "Patti Wukovits still thinks about how she had to bury her daughter in her prom dress. In June 2012, 17-year-old Kimberly Coffey had a fever and body aches. She told her mom it felt like her ankles w\u2026 [+7670 chars]",
-      "retrievedAt": "2023-10-31 07:05:33.917178",
-      "internal_id": "b25327d90cc2801b7e9f047405cbe5c6db1582a87278aea0c8eb2602c05a6898",
-      "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2795,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Solihull farmer takes on Atlantic row in son's memory",
-      "description": "Rod Adlington wants to raise money and awareness after losing son Barney to meningitis.",
-      "url": "https://www.bbc.co.uk/news/uk-england-birmingham-67256362",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11E64/production/_131561337_de22.jpg",
-      "publishedAt": "2023-10-29 18:00:50",
-      "content": "A farmer is preparing to row across the Atlantic ocean in memory of his son who died from meningitis. Rod Adlington, from Balsall Common in Solihull, will be part of a four-man crew taking on the u\u2026 [+1583 chars]",
-      "retrievedAt": "2023-10-30 19:05:28.093220",
-      "internal_id": "c89cf730968189e40ab496a62e205bf137c0a7f9f5de17297c75ff0740430d47",
-      "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2791,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "La r\u00e9daction avec AFP",
-      "title": "Sant\u00e9. Le moustique tigre continue de prosp\u00e9rer, d\u00e9j\u00e0 une quarantaine de cas de dengue en 2023",
-      "description": "Apr\u00e8s une ann\u00e9e 2022 marqu\u00e9e par un nombre record de cas de dengue dans l'Hexagone, les experts s'attendent \u00e0 un bilan 2023 comparable. Ils incitent \u00e0 se pr\u00e9parer \u00e0 une menace croissante, notamment en vue des JO.",
-      "url": "https://www.ledauphine.com/sante/2023/10/29/le-moustique-tigre-continue-de-prosperer-deja-une-quarantaine-de-cas-de-dengue-en-2023",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/3329EA5E-8C36-4EB9-801E-1C0E2D0AB750/FB1200/photo-1698594722.jpg",
-      "publishedAt": "2023-10-29 16:40:00",
-      "content": "Le moustique tigre est toujours bien pr\u00e9sent dans l'Hexagone. L\u2019an dernier, l\u2019Aedes albopictus - le nom scientifique de l\u2019insecte - reconnaissable \u00e0 ses rayures noires et blanches, avait laiss\u00e9 un ma\u2026 [+2425 chars]",
-      "retrievedAt": "2023-10-30 19:05:27.676348",
-      "internal_id": "0bd3075ec25332a654e7e51900e2a7ad018debd5e6da8788bfc53520fe596ef0",
-      "publishedAtLabel": "Oct 29"
-    },
-    {
-      "id": 2789,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Vijay Singh",
-      "title": "Good coordination helped in rabies vaccination drive for dogs, cats by BMC and animal activists",
-      "description": "MUMBAI: A successful rabies vaccination drive was recently conducted by the Brihanmumbai Municipal Corporation and the animal activists in the areas o.",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/good-coordination-helped-in-rabies-vaccination-drive-for-dogs-cats-by-bmc-and-animal-activists/articleshow/104803621.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104803621,width-1070,height-580,imgsize-878087,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-10-29 14:31:47",
-      "content": "10 superfoods to increase stamina",
-      "retrievedAt": "2023-10-30 19:05:27.126644",
-      "internal_id": "5f607eb70bf6fa653a0cfd5ab6832c2ac1fa2c68f0a5a11c7dfd40c02d086a07",
       "publishedAtLabel": "Oct 29"
     }
   ]
