@@ -1,8 +1,116 @@
 {
-  "last_updated": "2023-11-12 07:06",
+  "last_updated": "2023-11-12 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 11,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 3094,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "FDA approves first vaccine for mosquito-born viral disease - The Hill",
+      "description": "FDA approves first vaccine for mosquito-born viral diseaseThe Hill US approves world's 1st chikungunya vaccine | Latest News | WIONWION FDA approves first vaccine against mosquito-borne virus chikungunyaThe Washington Post US approves vaccine against mosquito\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172218135",
+      "urlToImage": null,
+      "publishedAt": "2023-11-11 15:32:18",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-11-12 19:05:19.249233",
+      "internal_id": "d6ae7cbc6f8401e28df2bddc2725eb804decabc4bc11dc4857fc2dd115b96c09",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 3091,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Animashaun Salman",
+      "title": "Sokoto distributes ITNs, drugs to IDP camps",
+      "description": "Sokoto State Government has commenced the distribution of insecticide-treated Treated Nets, antimalarial drugs and fumigation exercises to Internally Displaced Persons in the State. The exercise was inaugurated by Deputy Governor of Sokoto state, Alhaji Idris\u2026",
+      "url": "https://punchng.com/sokoto-distributes-itns-drugs-to-idp-camps/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/11/10215106/Ahmad-Aliyu-e1699649466126.jpeg",
+      "publishedAt": "2023-11-11 14:37:02",
+      "content": "Sokoto State Government has commenced the distribution of insecticide-treated Treated Nets, antimalarial drugs and fumigation exercises to Internally Displaced Persons in the State. The exercise was\u2026 [+1552 chars]",
+      "retrievedAt": "2023-11-12 19:05:17.773962",
+      "internal_id": "5ae4d80031100db020ee5b700f2be5462738b50cbda0fdaaf1f27beddd445bc4",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 3088,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Los Angeles Times",
+      "author": "Jeremy Childs",
+      "title": "No shots for Spot? Study finds owners' vaccine hesitancy can extend to pet dogs",
+      "description": "A recent study in the journal Vaccine found that vaccine hesitancy among dog owners contributed to opposition to inoculation for canine-borne diseases, such as rabies.",
+      "url": "https://www.latimes.com/science/story/2023-11-11/rabies-vaccine-hesitancy-on-the-rise-among-pet-owners",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/bc9f403/2147483647/strip/true/crop/5760x3024+0+408/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc3%2F73%2F524836674252aeaadfe404021c80%2F1240532-me-0111-skid-row-street-vet-gem-015.jpg",
+      "publishedAt": "2023-11-11 13:00:31",
+      "content": "Individuals who are skeptical of vaccines for themselves are also more like to question the need or efficacy of getting shots for their four-legged companions, according to a recent study. In the s\u2026 [+3060 chars]",
+      "retrievedAt": "2023-11-12 19:05:15.442919",
+      "internal_id": "4218103594d4d7a44dabe882e0967b62dda504e41f128f4dfab8428e0fcbdd11",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 3092,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Chikungunya-Fieber: Valneva-Impfstoff in USA zugelassen",
+      "description": "",
+      "url": "https://orf.at/stories/3339496/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2023-11-11 12:51:07",
+      "content": "Die USA haben weltweit erstmals einen Impfstoff gegen das Chikungunya-Virus zugelassen, das vor allem in tropischen und subtropischen Regionen in Afrika, Asien und Amerika auftritt und durch M\u00fccken v\u2026 [+839 chars]",
+      "retrievedAt": "2023-11-12 19:05:19.162060",
+      "internal_id": "c8c64eeb3d99379777621fbf9b9d2092a3df8caed1a033540121e70448fe97f9",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 3089,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "Au Burkina Faso, la dengue fait des ravages",
+      "description": "La dengue, maladie virale transmise \u00e0 l\u2019homme par des moustiques, enregistre des milliers de cas au Burkina Faso. Le site d\u2019informations burkinab\u00e8 \u201cWakat Sera\u201d, dans son enqu\u00eate au c\u0153ur des h\u00f4pitaux de Ouadadougou, souligne que cette \u201cgrippe tropicale\u201d touche\u2026",
+      "url": "https://www.courrierinternational.com/article/reportage-au-burkina-faso-la-dengue-fait-des-ravages",
+      "urlToImage": "https://focus.courrierinternational.com/2023/11/07/0/0/6000/4500/1200/630/60/0/2b0fc4f_1699355364960-049-f0279945.jpg",
+      "publishedAt": "2023-11-11 10:01:56",
+      "content": "Le 19 octobre 2023, au petit matin, les m\u00e9decins, dans leur blouse blanche, constatent, impuissants et avec amertume, la mort dA\u00efda. Dans son lit dh\u00f4pital, le corps fr\u00eale de cette jeune de 14 ans est\u2026 [+10308 chars]",
+      "retrievedAt": "2023-11-12 19:05:16.355579",
+      "internal_id": "7acd9805741fc76a6466238307542c53898061e29f102509d3b5b9ab1f41f6b5",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 3093,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Caroline Tourbe",
+      "title": "Vaccin contre le chikungunya : ce labo fran\u00e7ais qui remporte la course mondiale",
+      "description": "DECRYPTAGE. Autorise aux Etats-Unis, le vaccin contre cette maladie emergente est une belle revanche pour le laboratoire Valneva, base a Nantes. Et une chance pour contrer les epidemies a venir.",
+      "url": "https://www.lepoint.fr/sante/vaccin-contre-le-chikungunya-ce-labo-francais-qui-remporte-la-course-mondiale-11-11-2023-2542698_40.php",
+      "urlToImage": "https://static.lpnt.fr/images/2023/11/11/25532815lpw-25533118-mega-une-jpg_9894706.jpg",
+      "publishedAt": "2023-11-11 08:11:00",
+      "content": "C'est une premi\u00e8re mondiale. Le vaccin contre le virus du chikungunya commercialis\u00e9 sous le nom de Ixchiq par le laboratoire Valneva vient d'\u00eatre autoris\u00e9 par l'Agence am\u00e9ricaine des m\u00e9dicaments (FDA\u2026 [+1132 chars]",
+      "retrievedAt": "2023-11-12 19:05:19.209383",
+      "internal_id": "dc9138084b5566ce0d3ffaece114465166405008fb335186e34ccec9f2220df2",
+      "publishedAtLabel": "Nov 11"
+    },
     {
       "id": 3079,
       "query": [
@@ -1753,6 +1861,24 @@
       "publishedAtLabel": "Nov 8"
     },
     {
+      "id": 3090,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "First evidence of how the Asian malaria mosquito is spreading drug-resistant malaria in Africa",
+      "description": "Research has led to the discovery of the role played by the Asian malaria mosquito (Anopheles stephensi) in the spread of drug and diagnosis-resistant malaria in Africa. Malaria is caused by a parasite which is spread by the bite of blood-sucking mosquitoes. \u2026",
+      "url": "https://www.sciencedaily.com/releases/2023/11/231108115114.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-11-08 16:51:14",
+      "content": "Malaria is caused by a parasite which is spread by the bite of blood-sucking mosquitoes. According to the WHO, there were an estimated 247 million cases of malaria worldwide in 2021 with over 600,000\u2026 [+2727 chars]",
+      "retrievedAt": "2023-11-12 19:05:17.751492",
+      "internal_id": "28f35ae5d12b4bc52b0566360c98355d26b63dab58544b594cae044a32eedcb4",
+      "publishedAtLabel": "Nov 8"
+    },
+    {
       "id": 2986,
       "query": [
         "malaria"
@@ -3480,132 +3606,6 @@
       "content": "10 superfoods to turn white hair into black naturally",
       "retrievedAt": "2023-11-04 07:06:20.286076",
       "internal_id": "8308bf8f407012f63daa4a917a50f12759afa75858e4639ec19de7be7364230d",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 2903,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TIMESOFINDIA.COM",
-      "title": "Mpox, formerly Monkeypox, circulated for 5 years before global explosion in 2022: Study",
-      "description": "Scientists have discovered that the disease formerly known as monkeypox, now renamed mpox, had been circulating in humans for over five years before the global outbreak in 2022. The virus acquired an unexpectedly high number of mutations, indicating that the \u2026",
-      "url": "https://timesofindia.indiatimes.com/home/science/mpox-formerly-monkeypox-circulated-for-5-years-before-global-explosion-in-2022-study/articleshow/104926334.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104926474,width-1070,height-580,imgsize-970665,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-02 22:20:51",
-      "content": "News Mpox, formerly Monkeypox, circulated for 5 years before global explosion in 2022: Study Scientists have discovered that the disease formerly known as monkeypox, now \u2026 [+504 chars]",
-      "retrievedAt": "2023-11-04 07:06:21.176644",
-      "internal_id": "7c8ae18f8a032fb23bfb711af5a3848c2b183495301c15d6d842abf245908e91",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 2900,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "ScienceAlert",
-      "author": "Carly Cassella",
-      "title": "'Sustained Human Transmission' of Mpox Has Been Happening Longer Than We Realised",
-      "description": "The monkeypox virus has been jumping from human to human since at least 2016, according to the work of an international team of scientists.",
-      "url": "https://www.sciencealert.com/sustained-human-transmission-of-mpox-has-been-happening-longer-than-we-realised",
-      "urlToImage": "https://www.sciencealert.com/images/2023/10/MonkeypoxLesions.jpg",
-      "publishedAt": "2023-11-02 22:00:54",
-      "content": "The monkeypoxvirus has been jumping from human to human since at least 2016, according to the work of an international team of scientists. Monkeypox (mpox) causes similar symptoms to smallpox, inclu\u2026 [+3183 chars]",
-      "retrievedAt": "2023-11-04 07:06:21.164551",
-      "internal_id": "e10018b4731d9a93ad3020d578da65108dec81183dcc99665fefee4172a6d73f",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 2881,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Thehillstimes.in",
-      "author": "The Hills Times",
-      "title": "I Am Still Not Fully Fit, Four Kilos Down After Dengue: Shubman Gill",
-      "description": "Mumbai, Nov 2 (PTI) After crafting a run-a-ball 92 against Sri Lanka, Indian opener Shubman Gill on Thursday said he has not yet regained full fitness after a bout dengue which forced him to sit out of first two World Cup matches. Gill\u2019s knock along with fift\u2026",
-      "url": "https://thehillstimes.in/sports/i-am-still-not-fully-fit-four-kilos-down-after-dengue-shubman-gill",
-      "urlToImage": "https://thehillstimes.in/wp-content/uploads/2023/11/2.webp",
-      "publishedAt": "2023-11-02 21:40:19",
-      "content": "Mumbai, Nov 2 (PTI) After crafting a run-a-ball 92 against Sri Lanka, Indian opener Shubman Gill on Thursday said he has not yet regained full fitness after a bout dengue which forced him to sit out \u2026 [+2233 chars]",
-      "retrievedAt": "2023-11-04 07:06:18.347709",
-      "internal_id": "c31d2922304904401f4cefcfe85ec226e47de5b9bc36e6cd0df861f4ec8b38d7",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 2874,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "collectSPACE.com",
-      "author": "robert@collectspace.com (Robert Z. Pearlman)",
-      "title": "Astronaut Ken Mattingly, who launched to the moon on Apollo 16, dies at 87",
-      "description": "For the record, Ken Mattingly never did get the German measles. The former NASA astronaut, who in 1970 was pulled from the Apollo 13 crew, died on Tuesday (Oct. 31) at the age of 87.",
-      "url": "http://www.collectspace.com/news/news-110223a-thomas-ken-tk-mattingly-nasa-astronaut-obituary.html",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mwD6N4T6tSTcUt5SL9mqvX-1200-80.jpg",
-      "publishedAt": "2023-11-02 21:38:17",
-      "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site. \u00a9 Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.",
-      "retrievedAt": "2023-11-04 07:06:17.680393",
-      "internal_id": "4fb10c6eec6d0d1704fd2a1e84700cc76961a7517f63e765605588e5e857b0d8",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 2871,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WXYZ",
-      "author": null,
-      "title": "Dog brought to vet in Farmington Hills tests positive for rabies",
-      "description": "A dog that was found in Detroit and then brought to a vet clinic in Farmington Hills has tested positive for rabies, Oakland County officials confirm.",
-      "url": "https://www.wxyz.com/news/dog-brought-to-vet-in-farmington-hills-tests-positive-for-rabies",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/91d1a66/2147483647/strip/true/crop/797x418+0+125/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Faa%2Fd2%2F793af8af439f85f800b950b14504%2Flogo.png",
-      "publishedAt": "2023-11-02 20:56:07",
-      "content": "(WXYZ) A dog that was found in Detroit and then brought to a vet clinic in Farmington Hills has tested positive for rabies, Oakland County officials confirm. According to the county, this is the fir\u2026 [+2030 chars]",
-      "retrievedAt": "2023-11-04 07:06:17.122312",
-      "internal_id": "5aec0803765ff8cb04aa0833bd12b2931a0af537acd2433b89af079efb3f0c3e",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 2904,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Digi24.ro",
-      "author": "Maria Isopescu",
-      "title": "Mpox sau virusul variolei maimu\u021bei a circulat \u00eentre oameni timp de 5 ani p\u00e2n\u0103 la explozia f\u0103r\u0103 precedent din 2022",
-      "description": "Mpox a circulat timp de cinci ani \u00eenainte de explozia global\u0103 din 2022, arat\u0103 cercet\u0103rile. Descoperirea transmiterii ascunse a bolii cunoscute anterior ca variola maimu\u021belor a generat apeluri pentru o supraveghere \u00eembun\u0103t\u0103\u021bit\u0103 a virusului MPXV, transmite The \u2026",
-      "url": "https://www.digi24.ro/stiri/actualitate/sanatate/mpox-sau-virusul-variolei-maimutei-a-circulat-intre-oameni-timp-de-5-ani-pana-la-explozia-fara-precedent-din-2022-2565867",
-      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMSUyRjAyJTJGMTgzMTY4Nl8xODMx/Njg2X3ZhcmlvbGEtbWFpbXV0ZWkuanBn/Jnc9MTIwMCZoPTYzMCZ6Yz0xJmhhc2g9/Mzc4ZjI1ODUyMDQ4YzM0NTEwYWMwZWM2NzE4MDM3ZmE=.thumb.jpg",
-      "publishedAt": "2023-11-02 20:04:11",
-      "content": "Mpox a circulat timp de cinci ani \u00eenainte de explozia global din 2022, arat cercetrile. Descoperirea transmiterii ascunse a bolii cunoscute anterior ca variola maimuelor a generat apeluri pentru o su\u2026 [+3612 chars]",
-      "retrievedAt": "2023-11-04 07:06:21.179732",
-      "internal_id": "00fb98bdd11b07811070440f54a92305187457b345f4b80fbe717c125ef3c71d",
-      "publishedAtLabel": "Nov 2"
-    },
-    {
-      "id": 2872,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Fox17",
-      "author": "Fox 17 News",
-      "title": "State health department confirms rabies in dog taken to Oakland Co. vet",
-      "description": "The state health department confirmed the case in a dog taken to a Farmington Hills veterinarian, according to the Oakland County government.",
-      "url": "https://www.fox17online.com/news/local-news/michigan/state-health-department-confirms-rabies-in-dog-taken-to-oakland-co-vet",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/47243c2/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediaassets.news5cleveland.com%2Fphoto%2F2018%2F06%2F05%2Fdog%20generic_1528215195406.jpg_88886251_ver1.0_640_480.jpg",
-      "publishedAt": "2023-11-02 19:26:37",
-      "content": "PONTIAC, Mich. An Oakland County dog has tested positive for rabies. The state health department confirmed the case in a dog taken to a Farmington Hills veterinarian last week, according to the Oakl\u2026 [+1492 chars]",
-      "retrievedAt": "2023-11-04 07:06:17.125184",
-      "internal_id": "742e4827f863f4e31ea22086d422811764d9cbdc68ae6ba156d3bdec1f779801",
       "publishedAtLabel": "Nov 2"
     }
   ]
