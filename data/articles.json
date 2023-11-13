@@ -1,8 +1,100 @@
 {
-  "last_updated": "2023-11-13 07:06",
+  "last_updated": "2023-11-13 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 3103,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
+      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
+      "url": "https://yle.fi/a/74-20059491",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
+      "publishedAt": "2023-11-12 17:03:22",
+      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.165057",
+      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3102,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "10 more dengue patients die in 24hrs",
+      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
+      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2023-11-12 13:44:18",
+      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.132310",
+      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3101,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
+      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-11-12 11:15:16",
+      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.111861",
+      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3104,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
+      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
+      "url": "https://allafrica.com/stories/202311120029.html",
+      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
+      "publishedAt": "2023-11-12 09:03:15",
+      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.179704",
+      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3105,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
+      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-12 08:24:42",
+      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
+      "retrievedAt": "2023-11-13 19:05:33.945435",
+      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
+      "publishedAtLabel": "Nov 12"
+    },
     {
       "id": 3100,
       "query": [
@@ -3516,96 +3608,6 @@
       "content": "Jakarta (ANTARA) - The Jakarta Health Service stated on Thursday that most active cases of monkeypox (mpox) had also tested positive for human immunodeficiency virus (HIV) and other sexually transmit\u2026 [+2267 chars]",
       "retrievedAt": "2023-11-04 07:06:21.186186",
       "internal_id": "d75deb7b1d4ca726179beb0e79d3b1abff829588ec4c3e5be4f7ab7373defa8b",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2892,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Malaria Season - Travellers Warned to Take Precautions",
-      "description": "[SAnews.gov.za] The National Institute for Communicable Diseases (NICD) is urging people travelling to malaria-endemic areas to take the appropriate precautions this summer.",
-      "url": "https://allafrica.com/stories/202311030035.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-03 05:40:37",
-      "content": "The National Institute for Communicable Diseases (NICD) is urging people travelling to malaria-endemic areas to take the appropriate precautions this summer. Summer generally marks the start of the \u2026 [+2049 chars]",
-      "retrievedAt": "2023-11-04 07:06:19.641624",
-      "internal_id": "a90f388b683beac6a67bf9b2e016dd519f13d5648e702470944e6f7c446c6a14",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2899,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "die-zeit",
-      "source_name": "Die Zeit",
-      "author": "ZEIT ONLINE: News -",
-      "title": "Krankheiten: Studie: Ursprung des Mpox-Ausbruchs liegt l\u00e4nger zur\u00fcck",
-      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eStudie: Ursprung des Mpox-Ausbruchs liegt l\u00e4nger zur\u00fcck\u201c.",
-      "url": "https://www.zeit.de/news/2023-11/03/studie-ursprung-des-mpox-ausbruchs-liegt-laenger-zurueck",
-      "urlToImage": "https://img.zeit.de/news/2023-11/03/studie-ursprung-des-mpox-ausbruchs-liegt-laenger-zurueck-image-group/wide__1300x731",
-      "publishedAt": "2023-11-03 05:07:44",
-      "content": "Der Ursprung des internationalen Mpox-Ausbruchs (vormals Affenpocken) 2022 liegt laut einer Studie schon l\u00e4nger zur\u00fcck. Mehr Schlagzeilen Aufgrund einer markanten Ver\u00e4nderung des Musters und der H\u2026 [+3898 chars]",
-      "retrievedAt": "2023-11-04 07:06:21.159341",
-      "internal_id": "b4d918da54c4665650a36fbd56d8c0f6ec4ccf5db8c729457148e54b86a7b2a6",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2902,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "STERN.de",
-      "author": "STERN.de",
-      "title": "Krankheiten: Studie: Ursprung des Mpox-Ausbruchs liegt l\u00e4nger zur\u00fcck",
-      "description": "Ein Ausbruch von Mpox \u00fcberraschte voriges Jahr nicht nur Deutschland, damals noch unter dem Namen Affenpocken. Um die Vorgeschichte zu verstehen, haben Forschende Gen-Ver\u00e4nderungen des Erregers untersucht.",
-      "url": "https://www.stern.de/panorama/wissen/krankheiten--studie--ursprung-des-mpox-ausbruchs-liegt-laenger-zurueck--33966180.html",
-      "urlToImage": "https://image.stern.de/33966182/t/3L/v1/w1440/r1.7778/-/03--urnnewsmldpacom2009010123110399805895v2w800h600l522t449r1570b1351jpeg---a547fb1bbe59b575.jpg",
-      "publishedAt": "2023-11-03 05:07:44",
-      "content": "Ein Ausbruch von Mpox \u00fcberraschte voriges Jahr nicht nur Deutschland, damals noch unter dem Namen Affenpocken. Um die Vorgeschichte zu verstehen, haben Forschende Gen-Ver\u00e4nderungen des Erregers unter\u2026 [+3205 chars]",
-      "retrievedAt": "2023-11-04 07:06:21.173706",
-      "internal_id": "b7abc5783790ea9215aca973df29a1369014e0b5df232fcd1e80f8fb00f12762",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2893,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nation.africa",
-      "author": "Angeline Ochieng",
-      "title": "New injectable medication for treating severe malaria unveiled",
-      "description": "New injectable medication for treating severe malaria unveilednation.africa",
-      "url": "https://nation.africa/kenya/health/new-injectable-medication-for-treating-severe-malaria-unveiled-4418318",
-      "urlToImage": "https://nation.africa/resource/image/4418320/landscape_ratio3x2/1200/800/f41d4e51bdd1076e57dd886a1c2a8d8c/hh/drug.jpg",
-      "publishedAt": "2023-11-03 04:05:09",
-      "content": "The fight against malaria in Kisumu County has received a major boost after the devolved unit rolled out a new drug, Argesun, for treatment of the parasitic disease. Argesun, an injectable drug, wi\u2026 [+3029 chars]",
-      "retrievedAt": "2023-11-04 07:06:19.649119",
-      "internal_id": "2215719e4acc2769df0a6a41c2e9100e6cb4276cf641fa6d8710a81350c0e7d9",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2885,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Maeve Lawler",
-      "title": "Annual 5k race raises more than $1.5 million in memory of Northeastern\u2019s Ryan Shaw",
-      "description": "Ryan Shaw, who died from bacterial meningitis in 2016 after his freshman year at Northeastern, will be remembered Saturday at the 7th annual memorial 5k race in Brighton.",
-      "url": "https://www.bostonglobe.com/2023/11/03/metro/annual-5k-race-raises-more-than-15-million-memory-northeasterns-ryan-shaw/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/FKVopYcq8U2Fg5YtLHHnQF7TbzY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/ZKPIOAPI4FCL5E2OKOBBFJEVRI.jpg",
-      "publishedAt": "2023-11-03 04:04:54",
-      "content": "On Saturday, his family, fraternity brothers and friends will lace up for the seventh annual race. Around 800 participants are expected for the race that begins at noon at Artesani Park on Soldiers F\u2026 [+1990 chars]",
-      "retrievedAt": "2023-11-04 07:06:18.995942",
-      "internal_id": "9804eb8f3d9a4166e929f305ee229c7bdda1a082a19337a77bbd3e643e611d31",
       "publishedAtLabel": "Nov 3"
     }
   ]
