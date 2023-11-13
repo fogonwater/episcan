@@ -1,8 +1,116 @@
 {
-  "last_updated": "2023-11-12 19:05",
+  "last_updated": "2023-11-13 07:06",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 3100,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Endtimeheadlines.org",
+      "author": "End Time Headlines",
+      "title": "FDA approves first vaccine for mosquito borne virus that is becoming an 'emerging global health threat,'",
+      "description": "FDA approves first vaccine for mosquito borne virus that is becoming an 'emerging global health threat,'endtimeheadlines.org",
+      "url": "https://endtimeheadlines.org/2023/11/fda-approves-first-vaccine-for-mosquito-borne-virus-that-is-becoming-an-emerging-global-health-threat/",
+      "urlToImage": "https://endtimeheadlines.org/wp-content/uploads/2023/11/Income-Great-Ideas-Low-Investment-YouTube-Thumbnail-2-4.png",
+      "publishedAt": "2023-11-12 03:40:44",
+      "content": "The U.S. Food and Drug Administration (FDA) on Thursday announced its approval of Ixchiq, the first chikungunya vaccine. The vaccine, which is made by Valneva, is approved for anyone age 18 and older\u2026 [+1486 chars]",
+      "retrievedAt": "2023-11-13 07:06:13.258326",
+      "internal_id": "c5f95f4f76f48639a996f8de133cac7e40fd45057c230ec2175df9914a164164",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3095,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Sankhuwasabha reports 1,700 plus dengue patients",
+      "description": "KHANDBARI: As many as 1,710 people have been confirmed infected with dengue in Sankhuwasabha district. The Epidemiology and Disease Control Division has expressed its concerns about the rising number of dengue patients in this mountainous district. However, B\u2026",
+      "url": "https://english.khabarhub.com/2023/12/325898/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
+      "publishedAt": "2023-11-12 01:15:35",
+      "content": "KHANDBARI: As many as 1,710 people have been confirmed infected with dengue in Sankhuwasabha district. The Epidemiology and Disease Control Division has expressed its concerns about the rising numbe\u2026 [+1155 chars]",
+      "retrievedAt": "2023-11-13 07:06:11.411543",
+      "internal_id": "5ee1ad2e62df87c6f36e31bb2501f1edab47004bfeec2b23a5ee76a40be01710",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3097,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "30 Zika virus samples test negative",
+      "description": "BENGALURU: There is no outbreak of Zika virus in Bengaluru, health authorities announced Saturday after the samples sent to National Institute of Viro.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/30-zika-virus-samples-test-negative/articleshow/105158224.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105158246,width-1070,height-580,imgsize-25784,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-12 00:04:50",
+      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
+      "retrievedAt": "2023-11-13 07:06:12.540011",
+      "internal_id": "26ef5927ecea22f3cde06aad5506561c0be81d0691be7ec82e31bd7063d36d8c",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3099,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approval - Fox News",
+      "description": "First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approvalFox News US approves world's 1st chikungunya vaccine | Latest News | WIONWION FDA approves first vaccine against mosquito-borne virus chikungunyaThe Washington Post US a\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172220371",
+      "urlToImage": null,
+      "publishedAt": "2023-11-11 23:12:39",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-11-13 07:06:13.246158",
+      "internal_id": "c3ca94d2d880008554deda2f0384db483341a2ae797e837f8dcb0902cca63e00",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 3098,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approval",
+      "description": "The FDA on Thursday announced approval of Ixchiq, the first chikungunya vaccine, for anyone 18 and older who has a risk of being exposed to the mosquito-borne virus.",
+      "url": "https://www.foxnews.com/health/first-vaccine-chikungunya-virus-emerging-global-health-threat-gets-fda-approval",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/653c51b8-mosquito-on-arm.jpg",
+      "publishedAt": "2023-11-11 19:53:31",
+      "content": "The U.S. Food and Drug Administration (FDA) on Thursday announced its approval of Ixchiq, the first chikungunya vaccine . The vaccine, which is made by Valneva, is approved for anyone age 18 and ol\u2026 [+4285 chars]",
+      "retrievedAt": "2023-11-13 07:06:13.234855",
+      "internal_id": "51c07092564cb3032bc4fa03c8023ae04ecb404e263b6773d538817c7f8e56d1",
+      "publishedAtLabel": "Nov 11"
+    },
+    {
+      "id": 3096,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Anuradha Mascarenhas",
+      "title": "Pune reports first case of Zika virus this year",
+      "description": "So far 10 cases of zika virus infection have been reported in Maharashtra in the last three years and state health officials urged citizens not to panic.",
+      "url": "https://indianexpress.com/article/cities/pune/pune-reports-first-case-zika-virus-this-year-9023273/",
+      "urlToImage": "https://images.indianexpress.com/2023/11/Pune-Zika-cases.jpg",
+      "publishedAt": "2023-11-11 19:28:15",
+      "content": "Pune reported its first case of Zika virus infection this year in a 64-year-old woman from Yerawada.The woman had symptoms like fever and severe joint pain and was admitted to Jehangir hospital on No\u2026 [+2597 chars]",
+      "retrievedAt": "2023-11-13 07:06:12.531952",
+      "internal_id": "40f423fb0a2efa31e8b7b618c22f22f22050eb7cf866fc1616ee999465aa12d6",
+      "publishedAtLabel": "Nov 11"
+    },
     {
       "id": 3094,
       "query": [
@@ -3499,114 +3607,6 @@
       "retrievedAt": "2023-11-04 07:06:18.995942",
       "internal_id": "9804eb8f3d9a4166e929f305ee229c7bdda1a082a19337a77bbd3e643e611d31",
       "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2889,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Dirisu Yakubu",
-      "title": "Reps ask FG to subsidise malaria drugs",
-      "description": "The House of Representatives, on Thursday, said declaring a state of emergency on malaria could be a step in the right direction given the spate of the bacterial disease across the country. To this end, the House called on the Federal Government to subsidise \u2026",
-      "url": "https://punchng.com/reps-ask-fg-to-subsidise-malaria-drugs/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/09/13111036/malaria-vac-750x450.gif",
-      "publishedAt": "2023-11-03 02:10:30",
-      "content": "The House of Representatives, on Thursday, said declaring a state of emergency on malaria could be a step in the right direction given the spate of the bacterial disease across the country. To this \u2026 [+1670 chars]",
-      "retrievedAt": "2023-11-04 07:06:19.626720",
-      "internal_id": "36d3047742d09ea1e5db72f761d74163f8df17a837e3a559f0b0caaad9b9f372",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2897,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Ranganath Krishnaswamy",
-      "title": "Karnataka on high alert after Zika virus found in mosquito sample",
-      "description": "Karnataka is on high alert after the Zika virus was found in a mosquito sample collected from Chikkaballapur district. This is the first time the virus has been detected in the state. Precautionary measures have been advised as thousands of people travel dail\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/ktaka-on-high-alert-after-zika-virus-found-in-mosquito-sample/articleshow/104928791.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104928797,width-1070,height-580,imgsize-838599,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-03 01:33:23",
-      "content": "10 superfoods to turn white hair into black naturally",
-      "retrievedAt": "2023-11-04 07:06:20.303199",
-      "internal_id": "1a7188a2b1e721802495a969bdb3fe298eab73b808d92327495c33a74e670b16",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2880,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "The Associated Press",
-      "title": "California officials confirm 2 cases of dengue, a mosquito-borne illness rarely transmitted in US",
-      "description": "Public health officials say two people in Southern California people have come down with dengue fever without traveling outside the United States, where the mosquito-borne illness is rare",
-      "url": "https://abcnews.go.com/Health/wireStory/california-officials-confirm-2-cases-dengue-mosquito-borne-104592483",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "publishedAt": "2023-11-03 01:18:08",
-      "content": "LONG BEACH, Calif. -- Two people in Southern California have come down with dengue fever without traveling outside the United States, where the mosquito-borne illness is rare, health officials said. \u2026 [+1607 chars]",
-      "retrievedAt": "2023-11-04 07:06:18.341337",
-      "internal_id": "846a2a369825eb8bd5f8dd56a07e2037ecb6cf8aab803b14974b2ff112d3ed2c",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2873,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Dejanay Booth-singleton",
-      "title": "Michigan health officials confirm dog taken to Oakland County vet tested positive for rabies",
-      "description": "Michigan health officials confirm dog taken to Oakland County vet tested positive for rabiescbsnews.com",
-      "url": "https://www.cbsnews.com/detroit/news/michigan-confirms-first-canine-rabies-case-in-oakland-county/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/11/02/c457f6ae-0ad9-4120-8a3a-3bce0562605c/thumbnail/1200x630/ef311190b24df530cc62bdf3254f261d/gettyimages-937894748.jpg?v=c81a9d6c51e6280f2f4f876031d7d9bc",
-      "publishedAt": "2023-11-03 00:07:13",
-      "content": "(CBS DETROIT) - A dog that was found in Detroit and taken to a veterinary hospital in Farmington Hills has tested positive for rabies, according to the Michigan Department of Health and Human Service\u2026 [+1832 chars]",
-      "retrievedAt": "2023-11-04 07:06:17.127718",
-      "internal_id": "bd61c3806e6f5a2109d7ef0181dd1e79c376eab5dc4926d2c03283b0c0c9251d",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2868,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Elifesciences.org",
-      "author": "ciabatti@mrc-lmb.cam.ac.uk (Ana Gonz\u00e1lez-Rueda), ciabatti@mrc-lmb.cam.ac.uk (Daniel de Malmazet), ciabatti@mrc-lmb.cam.ac.uk (Ernesto Ciabatti), ciabatti@mrc-lmb.cam.ac.uk (Fabio Morgese), ciabatti@mrc-lmb.cam.ac.uk (Hassal Lee), ciabatti@mrc-lmb.cam.ac.uk (Marco Tripodi)",
-      "title": "Genomic stability of self-inactivating rabies",
-      "description": "Transsynaptic viral vectors provide means to gain genetic access to neurons based on synaptic connectivity and are essential tools for the dissection of neural circuit function. Among them, the retrograde monosynaptic \u0394G-Rabies has been widely used in neurosc\u2026",
-      "url": "https://elifesciences.org/articles/83459",
-      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
-      "publishedAt": "2023-11-03 00:00:00",
-      "content": "Genetics and GenomicsNeuroscience The Maillard reaction, a chemical reaction between amino acids and sugars, is exploited to produce flavorful food ubiquitously, from the \u2026 [+1691 chars]",
-      "retrievedAt": "2023-11-04 07:06:17.100012",
-      "internal_id": "e1f8c56283b81e9828a4ac693d6c5f5bf572a75e741a56302ccd9ca5c09d6229",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2894,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Ranganath Krishnaswamy and Mini Thomas",
-      "title": "Zika found in Karnataka, state on high alert",
-      "description": "India News: CHIKKABALLAPUR/BENGALURU: Karnataka is on high alert after Zika virus was detected in a mosquito sample collected from Talakayalabetta village in Sidl.",
-      "url": "https://timesofindia.indiatimes.com/india/zika-found-in-karnataka-state-on-high-alert/articleshow/104928193.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-02 23:24:30",
-      "content": "10 superfoods to turn white hair into black naturally",
-      "retrievedAt": "2023-11-04 07:06:20.286076",
-      "internal_id": "8308bf8f407012f63daa4a917a50f12759afa75858e4639ec19de7be7364230d",
-      "publishedAtLabel": "Nov 2"
     }
   ]
 }
