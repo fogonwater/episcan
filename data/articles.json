@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-11-13 19:05",
+  "last_updated": "2023-11-14 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 3110,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Valneva Reports Positive Pivotal Phase 3 Immunogenicity Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate",
+      "description": "(marketscreener.com) Saint-Herblain , November 13, 2023 \u2013 Valneva SE , a specialty vaccine company, today reported positive pivotal Phase 3 immunogenicity data in adolescents for its single-dose chikungunya virus vaccine candidate VLA1553. These results compl\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Reports-Positive-Pivotal-Phase-3-Immunogenicity-Data-in-Adolescents-for-its-Single-Shot-Chik-45308108/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-11-13 06:02:02",
+      "content": "Saint-Herblain (France), November 13, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today reported positive pivotal Phase 3 immunogenicity data in adolescents for i\u2026 [+13597 chars]",
+      "retrievedAt": "2023-11-14 07:05:56.313797",
+      "internal_id": "8db41de312efbe382cc7b488e05d204dcd5f51bfc830f3982fc4d764ef75d94b",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3111,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Reports Positive Pivotal Phase 3 Immunogenicity Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate",
+      "description": "Saint-Herblain (France), November 13, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today reported positive pivotal Phase 3 immunogenicity data in adolescents for its single-dose chikungunya virus (CHIKV) vaccine candidat\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/11/13/2778680/0/en/Valneva-Reports-Positive-Pivotal-Phase-3-Immunogenicity-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine-Candidate.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-11-13 06:00:00",
+      "content": "Saint-Herblain (France), November 13, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today reported positive pivotal Phase 3 immunogenicity data in adolescents for i\u2026 [+13516 chars]",
+      "retrievedAt": "2023-11-14 07:05:56.316568",
+      "internal_id": "6386f136eaf3b1dc3992c017485e1a716b298fcaf702c742d152ea7ceb4405dd",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3112,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva annonce des r\u00e9sultats positifs de Phase 3 concernant l\u2019immunog\u00e9nicit\u00e9 de son candidat vaccin contre le chikungunya chez les adolescents",
+      "description": "Saint-Herblain (France), 13 novembre 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd\u2019hui des r\u00e9sultats pivotaux positifs de Phase 3 chez les adolescents concernant l\u2019immunog\u00e9nicit\u00e9 de son candidat\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/11/13/2778680/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-3-concernant-l-immunog%C3%A9nicit%C3%A9-de-son-candidat-vaccin-contre-le-chikungunya-chez-les-adolescents.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-11-13 06:00:00",
+      "content": "Saint-Herblain (France), 13 novembre 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourdhui des r\u00e9sultats pivotaux positifs de Phase 3 chez les\u2026 [+16384 chars]",
+      "retrievedAt": "2023-11-14 07:05:56.319389",
+      "internal_id": "f4dd62824946d80b3e3c9b6860d181f17386a5cffd0e8325dbd06c8c0037bc45",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3113,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "L'Usine Nouvelle",
+      "author": "La r\u00e9daction",
+      "title": "Troph\u00e9es des usines, nouveaux Territoires d'industrie, vaccin contre le chikungunya... Les sept bonnes nouvelles de la semaine",
+      "description": "Retour sur sept bonnes nouvelles pour bien d\u00e9marrer la semaine. Au programme : les laur\u00e9ats des Troph\u00e9es des usines de L'Usine Nouvelle, les nouveaux Territoires d'industrie s\u00e9lectionn\u00e9s par le gouvernement, un vaccin de Valvena contre le chikungunya, Quandel\u2026",
+      "url": "https://www.usinenouvelle.com/article/trophees-des-usines-nouveaux-territoires-d-industrie-vaccin-contre-le-chikungunya-les-sept-bonnes-nouvelles-de-la-semaine.N2194218",
+      "urlToImage": "https://www.usinenouvelle.com/mediatheque/3/0/7/001494703_896x598_c.jpg",
+      "publishedAt": "2023-11-13 05:30:00",
+      "content": "L'Usine Nouvelle a remis les Troph\u00e9es des usines de l'ann\u00e9e Organis\u00e9es par L'Usine Nouvelle, les Assises de lindustrie se sont tenues le 8 novembre \u00e0 Paris et ont \u00e9t\u00e9 l'occasion de remettre les Trop\u2026 [+3707 chars]",
+      "retrievedAt": "2023-11-14 07:05:56.354951",
+      "internal_id": "acd98f6ba06fbbc3477999a09c59644ffa95fb365c3bd87cdd4ea0c636ec5bcb",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3107,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thaipbsworld.com",
+      "author": "Nad Bunnag",
+      "title": "Dengue fever infections increase by about 300% this year",
+      "description": "The number of dengue fever patients in Thailand recorded between January 1st and November 1st was more than 123,000, which is an increase of nearly 300% compared to last year.... The post Dengue fever infections increase by about 300% this year first appeared\u2026",
+      "url": "https://www.thaipbsworld.com/dengue-fever-infections-increase-by-about-300-this-year/",
+      "urlToImage": "https://www.thaipbsworld.com/wp-content/uploads/2023/11/Thai-PBS-World-logo-600x338.png",
+      "publishedAt": "2023-11-13 03:40:16",
+      "content": "The number of dengue fever patients in Thailand recorded between January 1st and November 1st was more than 123,000, which is an increase of nearly 300% compared to last year. Dr. Thongchai Keeratih\u2026 [+1043 chars]",
+      "retrievedAt": "2023-11-14 07:05:54.549115",
+      "internal_id": "f5abcdec86f6f27698a6ebb8a830dd02c94c9cdda5d5e05bcc2a4fbfc04116f5",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3106,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Fimela.com",
+      "author": "Anisha Saktian Putri",
+      "title": "Hari Kesehatan Nasional, Cegah Demam Berdarah Dengue dengan 3M hingga Vaksin",
+      "description": "Hari Kesehatan Nasional, Cegah Demam Berdarah Dengue dengan 3M hingga Vaksinfimela.com",
+      "url": "https://www.fimela.com/health/read/5451624/hari-kesehatan-nasional-cegah-demam-berdarah-dengue-dengan-3m-hingga-vaksin",
+      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/uMnkkq8wEXJOyDvsi3h3VMSWJ1E=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3057553/original/090512100_1582353486-headline.jpg",
+      "publishedAt": "2023-11-13 03:23:41",
+      "content": "Fimela.com, Jakarta Semua orang di Indonesia berisiko terkena demam berdarah dengue (demam berdarah/dengue/DBD) tanpa melihat umur, di mana mereka tinggal, dan gaya hidup. Berdasarkan data dari Keme\u2026 [+2859 chars]",
+      "retrievedAt": "2023-11-14 07:05:54.539665",
+      "internal_id": "aa48e6394689f547e13b19f5787d9236b9b54121dbadfa5a4677df77bb129316",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3108,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod: NegOcc dengue cases drop 74 percent",
+      "description": "Bacolod City \u2013 Dengue cases in Negros Occidental have shown a continuing drop of 74 percent from January to November 4 this year, compared to the same period last year. Records of the Provincial Health Office indicated that dengue cases reduced to 3,769 cases\u2026",
+      "url": "https://rpnradio.com/bacolod-negocc-dengue-cases-drop-74-percent/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/11/dengues-cases-drop-74-percent.png",
+      "publishedAt": "2023-11-13 00:57:30",
+      "content": "Bacolod City \u2013 Dengue cases in Negros Occidental have shown a continuing drop of 74 percent from January to November 4 this year, compared to the same period last year. Records of the Provincial Hea\u2026 [+958 chars]",
+      "retrievedAt": "2023-11-14 07:05:54.552929",
+      "internal_id": "b401f9b5d618ca7459afdbcea2edd2469477e449412cf21ce23bd8628adfc6d8",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3109,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nu.nl",
+      "author": "onze nieuwsredactie",
+      "title": "Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel",
+      "description": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de malaria-aanpak in Suriname en de langsnavelige mierenegel is w\u2026",
+      "url": "https://www.nu.nl/goed-nieuws/6289153/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.html",
+      "urlToImage": "https://media.nu.nl/m/xmaxiydazgq1_wd1280/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.jpg",
+      "publishedAt": "2023-11-12 21:59:48",
+      "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
+      "retrievedAt": "2023-11-14 07:05:55.292511",
+      "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
+      "publishedAtLabel": "Nov 12"
+    },
     {
       "id": 3103,
       "query": [
@@ -3464,150 +3608,6 @@
       "content": "Pune, India, Nov. 03, 2023 (GLOBE NEWSWIRE) -- Sickle cell disease (SCD) is the most common inherited blood disorder that affects the red blood cells. Treatments for SCD can relieve pain and help pre\u2026 [+10390 chars]",
       "retrievedAt": "2023-11-04 19:05:14.338866",
       "internal_id": "e22d0c9b91af3d6d08acf9bd050927944b710acc901994aa9ee20b6ce80bf762",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2918,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Der Tagesspiegel",
-      "title": "Zirkuliert seit 2016: Ursprung des Mpox-Ausbruchs liegt l\u00e4nger zur\u00fcck",
-      "description": "Ein Ausbruch von Mpox \u00fcberraschte voriges Jahr nicht nur Deutschland. Um die Vorgeschichte zu verstehen, haben Forschende Gen-Ver\u00e4nderungen des Erregers untersucht. Unterdessen verbreitet sich der Erreger wieder in Europa.",
-      "url": "https://www.tagesspiegel.de/wissen/zirkuliert-seit-2016-ursprung-des-mpox-ausbruchs-liegt-langer-zuruck-10725094.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/affenpocken5/alternates/BASE_16_9_W1400/affenpocken.jpeg",
-      "publishedAt": "2023-11-03 10:29:00",
-      "content": "Der Ursprung des internationalen Mpox-Ausbruchs (vormals Affenpocken) 2022 liegt laut einer Studie schon l\u00e4nger zur\u00fcck. Aufgrund einer markanten Ver\u00e4nderung des Musters und der H\u00e4ufigkeit von Mutatio\u2026 [+3910 chars]",
-      "retrievedAt": "2023-11-04 19:05:15.691915",
-      "internal_id": "f16cd871049e5b776837a1429a5cbcf82913798d240b7b993302adf83474ca95",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2910,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Crictracker.com",
-      "author": "Arfath Pasha S",
-      "title": "'Not in full fitness as I am four kilos down from dengue'",
-      "description": "Following his impressive run-a-ball 92 against Sri Lanka, Indian opener Shubman Gill revealed that he is still working on regaining full fitness after being sidelined for the first two matches of the",
-      "url": "https://www.crictracker.com/cricket-news/not-in-full-fitness-as-i-am-four-kilos-down-from-dengue-shubman-gill-gives-health-update/",
-      "urlToImage": "https://media.crictracker.com/media/attachments/1697731106195_Shubman-Gill-with-Golden-Badge.jpeg",
-      "publishedAt": "2023-11-03 10:07:41",
-      "content": "Following his impressive run-a-ball 92 against Sri Lanka, Indian opener Shubman Gill revealed that he is still working on regaining full fitness after being sidelined for the first two matches of the\u2026 [+1997 chars]",
-      "retrievedAt": "2023-11-04 19:05:12.922915",
-      "internal_id": "6011e5a03a46fcc3a6db0746b2d8056556b91ff1271ce2ebbfd233afc7780aaa",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2917,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "N-tv.de",
-      "author": "n-tv NACHRICHTEN",
-      "title": "WHO: Weltweite \u00dcberwachung n\u00f6tig: Ursprung der Mpox-Ausbruchs um Jahre zur\u00fcckdatiert",
-      "description": "2022 kommt es weltweit vermehrt zu Infektionen durch Mpox. Doch die Krankheitserreger, die zuvor als Affenpocken bezeichnet wurden und urspr\u00fcnglich von Tieren stammen, werden bereits seit 2016 von Mensch zu Mensch weitergegeben. Das zeigen die Ergebnisse eine\u2026",
-      "url": "https://www.n-tv.de/wissen/Ursprung-des-Mpox-Ausbruchs-um-Jahre-zurueckdatiert-article24507356.html",
-      "urlToImage": "https://bilder3.n-tv.de/img/incoming/crop24507362/0641323244-cImg_16_9-w1200/imago0201967821h.jpg",
-      "publishedAt": "2023-11-03 10:05:47",
-      "content": "2022 kommt es weltweit vermehrt zu Infektionen durch Mpox. Doch die Krankheitserreger, die zuvor als Affenpocken bezeichnet wurden und urspr\u00fcnglich von Tieren stammen, werden bereits seit 2016 von Me\u2026 [+3462 chars]",
-      "retrievedAt": "2023-11-04 19:05:15.683881",
-      "internal_id": "d6e1db92bf7644ff8a84e7bb2f2dacbe09128c6f14047f4b7bff17eac4e1c071",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2908,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Malay Mail",
-      "author": "Malay Mail",
-      "title": "Health Ministry: Dengue cases up in week 43, no deaths reported",
-      "description": "PUTRAJAYA, Nov 3 \u2015 The number of dengue cases for the 43rd Epidemiological Week (ME43) of October 22-28 increased by 10 cases or 0.4 per cent to 2,272 cases, compared to 2,262...",
-      "url": "https://www.malaymail.com/news/malaysia/2023/11/03/health-ministry-dengue-cases-up-in-week-43-no-deaths-reported/100032",
-      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2023/11/03/thumbs/400x400/160377.jpg",
-      "publishedAt": "2023-11-03 08:06:53",
-      "content": "PUTRAJAYA, Nov 3 The number of dengue cases for the 43rd Epidemiological Week (ME43) of October 22-28 increased by 10 cases or 0.4 per cent to 2,272 cases, compared to 2,262 cases in the preceding we\u2026 [+988 chars]",
-      "retrievedAt": "2023-11-04 19:05:12.913777",
-      "internal_id": "ebee9f3b0176da9bf1c2b8bef0502a1537e841629514b0014f76b720bbdac7be",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2909,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Circleofcricket.com",
-      "author": "Rashmi Nanda",
-      "title": "CWC 2023: 'Haven't attained full fitness yet, I'm 4 kilos down..'- Shubman Gill after Sri Lanka match",
-      "description": "CWC 2023: 'Haven't attained full fitness yet, I'm 4 kilos down..'- Shubman Gill after Sri Lanka matchcircleofcricket.com",
-      "url": "https://circleofcricket.com/category/cricketworldcup/87981/cwc-2023-havent-attained-full-fitness-yet-im-4-kilos-down-shubman-gill-after-sri-lanka-match",
-      "urlToImage": "https://circleofcricket.com/post_image/post_image_087f622.jpg",
-      "publishedAt": "2023-11-03 07:59:18",
-      "content": "Young Indian opener Shubman Gill revealed that he has not yet gained full fitness after his bout with dengue. This came after he smashed a stunning knock of 92 runs against Sri Lanka in the ongoing I\u2026 [+1601 chars]",
-      "retrievedAt": "2023-11-04 19:05:12.919512",
-      "internal_id": "58d9aef1a172dfd9a3d221862ab59388471236ac17b894966cbdcf7eb7666b18",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2916,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Orf.at",
-      "author": "ORF.at",
-      "title": "Menschen \u00fcbertragen Mpox schon l\u00e4nger als gedacht",
-      "description": "",
-      "url": "https://orf.at/stories/3338594/",
-      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
-      "publishedAt": "2023-11-03 07:57:43",
-      "content": "Mpox (fr\u00fcher Affenpocken) zirkuliert einer neuen Studie zufolge nicht erst seit dem Ausbruch im Vorjahr unter Menschen, sondern schon seit 2016. Diese Erkenntnis stelle einen Paradigmenwechsel dar, s\u2026 [+78 chars]",
-      "retrievedAt": "2023-11-04 19:05:15.680730",
-      "internal_id": "9604ba3339adef0ffffe4150a6d1dcea94a5315853a537ebc9ecc778c180a069",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2919,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Science.orf.at",
-      "author": "ORF.at",
-      "title": "Menschen \u00fcbertragen Mpox schon l\u00e4nger als gedacht",
-      "description": "Mpox (fr\u00fcher Affenpocken) zirkuliert einer neuen Studie zufolge nicht erst seit dem Ausbruch im Vorjahr unter Menschen, sondern schon seit 2016. Diese Erkenntnis stelle einen Paradigmenwechsel dar, schreibt ein Forschungsteam im Fachjournal \u201eScience\u201c.",
-      "url": "https://science.orf.at/stories/3221968/",
-      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
-      "publishedAt": "2023-11-03 07:40:29",
-      "content": "Der Ursprung des \u00fcberraschenden Ausbruchs im Jahr 2022 liegt damit schon l\u00e4nger zur\u00fcck, hie\u00df es vom Studienmitautor Richard Neher von der Universit\u00e4t Basel. Bis vor kurzem wurde Mpox als Zoonose bet\u2026 [+1653 chars]",
-      "retrievedAt": "2023-11-04 19:05:15.697220",
-      "internal_id": "91112ebd9d69c1f61c6a5c7fb89c99e661a4ca6c35f1a715072e82068f32a5c5",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2905,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Erlangga Bregas P, Resinta Sulistiyandari",
-      "title": "Jakarta monkeypox cases mostly HIV positive: Official",
-      "description": "The Jakarta Health Service stated on Thursday that most active cases of monkeypox (mpox) had also tested positive for human immunodeficiency virus (HIV) and other sexually transmitted infections. \"There are 24 active ...",
-      "url": "https://en.antaranews.com/news/297816/jakarta-monkeypox-cases-mostly-hiv-positive-official",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/01/IMG_20231101_161629.jpg",
-      "publishedAt": "2023-11-03 06:20:03",
-      "content": "Jakarta (ANTARA) - The Jakarta Health Service stated on Thursday that most active cases of monkeypox (mpox) had also tested positive for human immunodeficiency virus (HIV) and other sexually transmit\u2026 [+2267 chars]",
-      "retrievedAt": "2023-11-04 07:06:21.186186",
-      "internal_id": "d75deb7b1d4ca726179beb0e79d3b1abff829588ec4c3e5be4f7ab7373defa8b",
       "publishedAtLabel": "Nov 3"
     }
   ]
