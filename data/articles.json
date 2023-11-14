@@ -1,8 +1,170 @@
 {
-  "last_updated": "2023-11-14 07:05",
+  "last_updated": "2023-11-14 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 3121,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "La FDA aprueba la primera vacuna para prevenir la enfermedad causada por el virus del chikungunya",
+      "description": "La FDA aprob\u00f3 Ixchiq, la primera vacuna para la prevenci\u00f3n de la enfermedad causada por el virus del chikungunya en personas de 18 a\u00f1os y mayores que tienen un mayor riesgo de exposici\u00f3n al virus del chikungunya.",
+      "url": "https://www.fda.gov/news-events/press-announcements/la-fda-aprueba-la-primera-vacuna-para-prevenir-la-enfermedad-causada-por-el-virus-del-chikungunya",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2023-11-13 18:18:08",
+      "content": "For Immediate Release: November 09, 2023 English Hoy, la Administraci\u00f3n de Alimentos y Medicamentos de los Estados Unidos (FDA, por sus siglas en ingl\u00e9s) aprob\u00f3 Ixchiq, la primera vacuna contra el\u2026 [+6934 chars]",
+      "retrievedAt": "2023-11-14 19:05:17.826448",
+      "internal_id": "22ff7ccd53d4f517302d33d0f001ce21f75f708bda6cbafe7fe6b1a832014de2",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3115,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Rising temp, longer monsoon drive B'desh worst dengue outbreak",
+      "description": "Rising temperatures and a longer monsoon in Bangladesh because of climate change are providing ideal breeding conditions for the dengue-spreading mosquito, experts said, as the country grapples with its worst-ever outbreak of the viral disease. The death toll\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/rising-temperatures-longer-monsoon-drive-bangladeshs-worst-dengue-outbreak/articleshow/105191619.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105191738,width-1070,height-580,imgsize-35198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-13 17:09:17",
+      "content": "Rashmika Mandanna shines in ethnic wear, inspiring Diwali fashion choices",
+      "retrievedAt": "2023-11-14 19:05:15.479914",
+      "internal_id": "3cfed96f9ac86f23a5a6faac542ed84e1605615e01430288bed40432f5024923",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3114,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Metafilter.com",
+      "author": "Liquidwolf",
+      "title": "Vet check up for elderly but healthy cat?",
+      "description": "I'm wondering if I should take my cat in for a routine checkup. He's about 14-15 yrs old but in good physical shape and seems healthy. Is it worth the trouble?He's due for some shots like rabies and some other ones. But he's an indoor cat and doesn't live wit\u2026",
+      "url": "https://ask.metafilter.com/376557/Vet-check-up-for-elderly-but-healthy-cat",
+      "urlToImage": "http://cdn.mefi.us/images/askmefi/apple-touch-icon.png",
+      "publishedAt": "2023-11-13 16:26:45",
+      "content": "You are not logged in, either login or create an account to post comments",
+      "retrievedAt": "2023-11-14 19:05:14.455686",
+      "internal_id": "7b0c56b2dd9fd9252d386d174b482d4f378a6854087c43a1c34a62d645c4872d",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3120,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Li Cohen",
+      "title": "Video captures long-lost species named after David Attenborough",
+      "description": "Researchers captured footage of the \"bizarre\" animal on the last day and with their final memory card after a month of battling \"blood-sucking leeches, malaria, earthquakes\" and more in Indonesia.",
+      "url": "https://www.cbsnews.com/news/video-long-beaked-echidna-sir-david-attenborough-lost-endangered/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/13/30edb062-6d24-4026-83dd-9ce0c42b4580/thumbnail/1200x630/70272fda5a237779cfb1b86b59296ee4/2023-11-10t000247z-1977926752-rc2j82a8gtoc-rtrmadp-3-wildlife-echidna.jpg?v=8afad5e29ac9a704fff9d98ba34d3649",
+      "publishedAt": "2023-11-13 14:49:31",
+      "content": "For more than 60 years, researchers have been unable to physically see a critically endangered animal known as one of the world's most unusual mammals. But now, one of Attenborough's long-beaked echi\u2026 [+3895 chars]",
+      "retrievedAt": "2023-11-14 19:05:16.553213",
+      "internal_id": "46e14b95ff33fdf6c3d5030655e88df537b74399cbb9cf3ac0a8e3368b6a0bb2",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3119,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "Deutsche Welle Wissenschaft/Umwelt",
+      "title": "Wissenschaft - Antibiotikaresistenzen nehmen bei Kindern zu",
+      "description": "Antibiotika werden bei Kindern und S\u00e4uglingen oft bei Infektionen eingesetzt, aber sie sind zunehmend unwirksam. Wie gef\u00e4hrlich sind Antibiotikaresistenzen f\u00fcr Kinder und gibt es Alternativen?",
+      "url": "https://www.focus.de/wissen/natur/nicht-mal-mehr-die-haelfte-der-antibiotika-ist-bei-unseren-kindern-wirksam_id_244923364.html",
+      "urlToImage": "https://p6.focus.de/img/wissen/natur/id_244923363/kinder-erhalten-antibiotika-oft-in-form-von-saft.jpg?im=Crop%3D%280%2C29%2C940%2C470%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=164fcdbcabd8edb16325d35bf9001f60d849662cb04813a362aa16db704c0839",
+      "publishedAt": "2023-11-13 13:21:43",
+      "content": "Mittelohrentz\u00fcndung, Sepsis, Meningitis sind diese Krankheiten bakteriell bedingt, werden Kinder oft mit Antibiotika behandelt. Aber weniger als 50 Prozent der Antibiotika sind \u00fcberhaupt noch wirksam\u2026 [+4196 chars]",
+      "retrievedAt": "2023-11-14 19:05:15.927261",
+      "internal_id": "948dd220f9ed11442323747367efda0a8b910f2ecf4e4c9e8dfdc17b04c28058",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3118,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Gudrun Heise",
+      "title": "Antibiotikaresistenzen nehmen bei Kindern zu",
+      "description": "Antibiotika werden bei Kindern und S\u00e4uglingen oft bei Infektionen eingesetzt, aber sie sind zunehmend unwirksam. Wie gef\u00e4hrlich sind Antibiotikaresistenzen f\u00fcr Kinder und gibt es Alternativen? Mittelohrentz\u00fcndung, Sepsis, Meningitis \u2013 sind diese Krankheiten b\u2026",
+      "url": "https://www.dw.com/de/antibiotikaresistenzen-nehmen-bei-kindern-zu/a-67366337",
+      "urlToImage": "https://static.dw.com/image/65371958_6.jpg",
+      "publishedAt": "2023-11-13 12:31:00",
+      "content": "Mittelohrentz\u00fcndung, Sepsis, Meningitis sind diese Krankheiten bakteriell bedingt, werden Kinder oft mit Antibiotika behandelt. Aber weniger als 50 Prozent der Antibiotika sind \u00fcberhaupt noch wirksam\u2026 [+4319 chars]",
+      "retrievedAt": "2023-11-14 19:05:15.923080",
+      "internal_id": "00b7739abbb1545a2544ca42b6281f7ff1b63c35b08397c7fd7b1b77461af8a0",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3117,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencialdigital.com",
+      "author": "Antonio Quir\u00f3s Abad\u00eda",
+      "title": "La meningitis, los caracoles, su higiene y cuidados preventivos...",
+      "description": "En Haw\u00e1i est\u00e1n alarmados por la aparici\u00f3n de unos 10 casos diferentes de la infecci\u00f3n del par\u00e1sito \"gusano pulmonar de las ratas\", lo mismo en California, Alabama, Luisiana, Florida y ... El primer caso de esta enfermedad (que se tenga datos) se...",
+      "url": "https://www.elconfidencialdigital.com/articulo/opinan-socios-ecd/meningitis-caracoles-higiene-cuidados-preventivos/20231113103919668871.html",
+      "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2016/07/08/ECDIMA20160708_0017_1.jpg",
+      "publishedAt": "2023-11-13 09:39:19",
+      "content": "En Haw\u00e1i est\u00e1n alarmados por la aparici\u00f3n de unos 10 casos diferentes de la infecci\u00f3n del par\u00e1sito \"gusano pulmonar de las ratas\", lo mismo en California, Alabama, Luisiana, Florida y ... El primer c\u2026 [+4140 chars]",
+      "retrievedAt": "2023-11-14 19:05:15.917420",
+      "internal_id": "97af7a6e534dc6cf3242519aa2c0e2716f6c9cac7a4b647815d91e3eb7c7e894",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3122,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "EE.UU. aprueba la primera vacuna contra el virus chikungunya, transmitido por mosquitos",
+      "description": "La Administraci\u00f3n de Alimentos y Medicamentos de Estados Unidos (FDA) ha aprobado la primera vacuna del mundo para prevenir el chikungunya , una enfermedad transmitida por mosquitos que puede causar dolor debilitante en las articulaciones durante meses o a\u00f1os\u2026",
+      "url": "https://www.abc.es/sociedad/eeuu-aprueba-primera-vacuna-virus-chikungunya-transmitido-20231113102411-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/sociedad/2023/11/13/aedes-U20732426272yrG-1024x512@abc.jpg",
+      "publishedAt": "2023-11-13 09:24:17",
+      "content": "La Administraci\u00f3n de Alimentos y Medicamentos de Estados Unidos (FDA) ha aprobado la primera vacuna del mundo para prevenir el chikungunya, una enfermedad transmitida por mosquitos que puede causar d\u2026 [+4209 chars]",
+      "retrievedAt": "2023-11-14 19:05:17.847711",
+      "internal_id": "8e28e29fc6fba1ab078fbc9bdc0c91bfd3b48c72bec5c6579e46cb25fde8d042",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3116,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Antonella Sparvoli",
+      "title": "Dengue, in aumento i casi in Italia. Come si prende la malattia, sintomi, cure",
+      "description": "Stanno aumentando i casi \u00abimportati\u00bb di questa malattia trasmessa da punture di zanzare e causata da un virus del genere dei Flavivirus, che comprende il virus della febbre gialla e quello della febbre del Nilo occidentale. Vaccino approvato da Aifa",
+      "url": "https://www.corriere.it/salute/malattie_infettive/23_novembre_13/dengue-aumento-casi-italia-come-si-prende-malattia-sintomi-cure-55350912-7248-11ee-a352-bdb9090063b6.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/10/24/44136254-724e-11ee-a352-bdb9090063b6.jpg",
+      "publishedAt": "2023-11-13 07:13:09",
+      "content": "di Antonella SparvoliSono in aumento i casi importati di questa malattia trasmessa da punture di zanzare e causata da un virus del genere dei Flavivirus (comprende il virus della febbre gialla e quel\u2026 [+3319 chars]",
+      "retrievedAt": "2023-11-14 19:05:15.484150",
+      "internal_id": "e0151427637ed7cc928fcff8fc13998225f5ae93eb98b2dbf31383b05dd6dbdd",
+      "publishedAtLabel": "Nov 13"
+    },
     {
       "id": 3110,
       "query": [
@@ -3446,168 +3608,6 @@
       "content": "Mpox has not gone away. Rates are increasing in one of the most gay-friendly states in the US and research from the UK suggests the virus is evolving to become more infectious. California\u2019s public h\u2026 [+3270 chars]",
       "retrievedAt": "2023-11-05 07:05:24.340380",
       "internal_id": "fdb02497b7a9d80db665466ca46d244bd46a011b76e100b319fbc47a4bf92050",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2925,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nos.nl",
-      "author": null,
-      "title": "Invasieve muggensoort bedreigt malariabestrijding Afrika",
-      "description": "Begin 2022 werden opeens grote aantallen studenten ziek in de Ethiopische stad Dire Dawa. Op het hoogtepunt had de helft van de studenten koorts. Tot verbazing van de artsen bleek het te gaan om malaria, een ziekte die normaal vooral toeslaat op het plattelan\u2026",
-      "url": "https://nos.nl/l/2496536",
-      "urlToImage": "https://cdn.nos.nl/image/2023/11/03/1022847/1024x576a.jpg",
-      "publishedAt": "2023-11-03 21:41:45",
-      "content": "Begin 2022 werden opeens grote aantallen studenten ziek in de Ethiopische stad Dire Dawa. Op het hoogtepunt had de helft van de studenten koorts. Tot verbazing van de artsen bleek het te gaan om mala\u2026 [+4451 chars]",
-      "retrievedAt": "2023-11-05 07:05:23.546528",
-      "internal_id": "6288d5fef95631d39a682042542d98ab11b25f228c5915bb9c8bb738276c09b3",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2907,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "California officials confirm 2 cases of dengue fever - KSBY News",
-      "description": "California officials confirm 2 cases of dengue feverKSBY News California confirms 2nd local dengue case | CIDRAPUniversity of Minnesota Twin Cities Second California case of locally acquired case of dengue virus reported in Long BeachNBC Southern California L\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172164442",
-      "urlToImage": null,
-      "publishedAt": "2023-11-03 17:12:34",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-04 19:05:12.903000",
-      "internal_id": "fbc68c700cb98db990690c0da72cb04fc3618da389fffd4073851adbbea91518",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2914,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Ed Cara",
-      "title": "La viruela del simio ha estado evolucionando en los humanos desde al menos 2016, seg\u00fan un estudio",
-      "description": "Una nueva investigaci\u00f3n puede cambiar la narrativa sobre c\u00f3mo la mpox, antes conocida como viruela de los monos, se ha convertido en un problema humano. Los investigadores encontraron evidencia que del virus han estado circulando entre humanos desde al menos \u2026",
-      "url": "https://es.gizmodo.com/mpox-viruela-del-mono-evolucion-de-propagacion-humana-e-1850989993",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/878658925af5939d33c7979c987b2b1d.jpg",
-      "publishedAt": "2023-11-03 15:58:00",
-      "content": "Una nueva investigaci\u00f3n puede cambiar la narrativa sobre c\u00f3mo la mpox, antes conocida como viruela de los monos, se ha convertido en un problema humano. Los investigadores encontraron evidencia que d\u2026 [+4830 chars]",
-      "retrievedAt": "2023-11-04 19:05:15.672767",
-      "internal_id": "98e1f64d26c4a0308e6e0120a7025236773788129d62fb6397bb2f127493f9ff",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2920,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Gizmodo.com",
-      "author": "Ed Cara",
-      "title": "Monkeypox Has Been Evolving in Humans Since at Least 2016, Study Finds",
-      "description": "New research may change the narrative over how mpox, formerly known as monkeypox, has become a human problem. Researchers found evidence that strains of the virus have been circulating between humans since at least 2016, years before it caused a surprise glob\u2026",
-      "url": "https://gizmodo.com/mpox-monkeypox-evolving-human-spread-epidemic-1850986953",
-      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/878658925af5939d33c7979c987b2b1d.jpg",
-      "publishedAt": "2023-11-03 15:58:00",
-      "content": "New research may change the narrative over how mpox, formerly known as monkeypox, has become a human problem. Researchers found evidence that strains of the virus have been circulating between humans\u2026 [+4017 chars]",
-      "retrievedAt": "2023-11-04 19:05:15.702376",
-      "internal_id": "ae3310d8e65729fcdc2bced4e4f06836d4d79dabc7f5218fcc96ef0cc607a679",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2915,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "STERN.de",
-      "author": "STERN.de",
-      "title": "Neuer Mpox-Ausbruch: Ursprung untersucht: Was die Affenpocken zur\u00fcck nach Europa brachte",
-      "description": "Als sich im vergangenen Jahr Affenpocken (jetzt Mpox) ausbreiteten, war die \u00dcberraschung gro\u00df \u2013 nicht nur in Deutschland. Wie es dazu kommen konnte, haben Wissenschaftler nun untersucht. Unterdessen breitet sich der Erreger in Europa weiter aus.",
-      "url": "https://www.stern.de/gesundheit/ursprung-untersucht--was-die-affenpocken-zurueck-nach-europa-brachte-33967478.html",
-      "urlToImage": "https://image.stern.de/33967492/t/KC/v3/w1440/r1.7778/-/affenpocken-im-labor.jpg",
-      "publishedAt": "2023-11-03 15:09:00",
-      "content": "Als sich im vergangenen Jahr Affenpocken (jetzt Mpox) ausbreiteten, war die \u00dcberraschung gro\u00df nicht nur in Deutschland. Wie es dazu kommen konnte, haben Wissenschaftler nun untersucht. Unterdessen br\u2026 [+3354 chars]",
-      "retrievedAt": "2023-11-04 19:05:15.676949",
-      "internal_id": "a3f8dd180a90d93337d3046ee939262534168ec1f138ba05c6de555bf672eb85",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2906,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Nathiphat Tanwattana, Nanchaya Wanasen, Yuparat Jantraphakorn, Kanjana Srisutthisamphan, Thanathom Chailungkarn, Suwimon Boonrungsiman, Boonlert Lumlertdacha, Porntippa Lekchareonsuk, Challika Kaewborisuth",
-      "title": "Human BST2 inhibits rabies virus release independently of cysteine-linked dimerization and asparagine-linked glycosylation",
-      "description": "The innate immune response is a first-line defense mechanism triggered by rabies virus (RABV). Interferon (IFN) signaling and ISG products have been shown to confer resistance to RABV at various stages of the virus\u2019s life cycle. Human tetherin, also known as \u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292833",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0292833.g008&size=inline",
-      "publishedAt": "2023-11-03 14:00:00",
-      "content": "Abstract The innate immune response is a first-line defense mechanism triggered by rabies virus (RABV). Interferon (IFN) signaling and ISG products have been shown to confer resistance to RABV at va\u2026 [+66200 chars]",
-      "retrievedAt": "2023-11-04 19:05:11.934306",
-      "internal_id": "304305dc36b9ae2ae7d7293b38373bfc5e74ffe1a08c154b7529d4ab8d78b6fd",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2913,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Juliana de Souza Felix, Mariana Cordeiro Almeida, Maria Fernanda da Silva Lopes, Fl\u00e1via Regina Florencio de Athayde, J\u00e9ssica Antonini Troiano, Nat\u00e1lia Francisco Scaramele, Amanda de Oliveira Furlan, Flavia Lombardi Lopes",
-      "title": "Co-expression analysis suggests lncRNA-mRNA interactions enhance antiviral immune response during acute Chikungunya fever in whole blood of pediatric patients",
-      "description": "Chikungunya virus is an arbovirus that causes the neglected tropical disease chikungunya fever, common in tropical areas worldwide. There is evidence that arboviruses alter host transcriptome and modulate immune response; this modulation may involve transcrip\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294035",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0294035.g003&size=inline",
-      "publishedAt": "2023-11-03 14:00:00",
-      "content": "Abstract Chikungunya virus is an arbovirus that causes the neglected tropical disease chikungunya fever, common in tropical areas worldwide. There is evidence that arboviruses alter host transcripto\u2026 [+29838 chars]",
-      "retrievedAt": "2023-11-04 19:05:15.188142",
-      "internal_id": "a36faf54b623a1f9bc0510567c3e236e011717661b9b8a28b0de9747318e6c7a",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2911,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "The Insight Partners",
-      "title": "Malaria Treatment Market Size to Hit 28.5% CAGR, Globally, by 2030 - Exclusive Report by The Insight Partners",
-      "description": "The global malaria treatment market revenue to reach $24.48 Billion by 2030. The global malaria treatment market revenue to reach $24.48 Billion by 2030.",
-      "url": "https://www.globenewswire.com/news-release/2023/11/03/2773190/0/en/Malaria-Treatment-Market-Size-to-Hit-28-5-CAGR-Globally-by-2030-Exclusive-Report-by-The-Insight-Partners.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/efd8c9da-ac10-487a-a083-ec8f33cad35e",
-      "publishedAt": "2023-11-03 12:38:00",
-      "content": "Pune, India, Nov. 03, 2023 (GLOBE NEWSWIRE) -- Malaria is a serious infection spread by an infected mosquito. The infection is very common in certain parts of the world, such as large areas of Africa\u2026 [+8010 chars]",
-      "retrievedAt": "2023-11-04 19:05:14.333421",
-      "internal_id": "620ab79da65fa8a5a3d19f4b5a26a7539d93ce4733e24bdd36b2bcf9c78b1742",
-      "publishedAtLabel": "Nov 3"
-    },
-    {
-      "id": 2912,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "The Insight Partners",
-      "title": "Malaria and Sickle Cell Disease Treatment Market Worth $29.17 Billion, Globally, by 2030 - Exclusive Report by The Insight Partners",
-      "description": "The global malaria and sickle cell disease treatment market is growing at a CAGR of 26.5% from 2022 to 2030. The global malaria and sickle cell disease treatment market is growing at a CAGR of 26.5% from 2022 to 2030.",
-      "url": "https://www.globenewswire.com/news-release/2023/11/03/2773186/0/en/Malaria-and-Sickle-Cell-Disease-Treatment-Market-Worth-29-17-Billion-Globally-by-2030-Exclusive-Report-by-The-Insight-Partners.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/efd8c9da-ac10-487a-a083-ec8f33cad35e",
-      "publishedAt": "2023-11-03 12:33:00",
-      "content": "Pune, India, Nov. 03, 2023 (GLOBE NEWSWIRE) -- Sickle cell disease (SCD) is the most common inherited blood disorder that affects the red blood cells. Treatments for SCD can relieve pain and help pre\u2026 [+10390 chars]",
-      "retrievedAt": "2023-11-04 19:05:14.338866",
-      "internal_id": "e22d0c9b91af3d6d08acf9bd050927944b710acc901994aa9ee20b6ce80bf762",
       "publishedAtLabel": "Nov 3"
     }
   ]
