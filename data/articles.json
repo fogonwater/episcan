@@ -1,8 +1,134 @@
 {
-  "last_updated": "2023-11-14 19:05",
+  "last_updated": "2023-11-15 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 3129,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "19 leptospirosis deaths in NegOcc, 14 in Bacolod",
+      "description": "Bacolod City \u2013 Leptospirosis, a bacterial infection contracted through the urine of infected animals, especially rats, has claimed the lives of 19 individuals in Negros Occidental, along with 14 others in highly urbanized Bacolod City, according to reports of\u2026",
+      "url": "https://rpnradio.com/19-leptospirosis-deaths-in-negocc-14-in-bacolod/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/11/19-lepto-deaths.jpg",
+      "publishedAt": "2023-11-14 00:59:24",
+      "content": "Bacolod City \u2013 Leptospirosis, a bacterial infection contracted through the urine of infected animals, especially rats, has claimed the lives of 19 individuals in Negros Occidental, along with 14 othe\u2026 [+1441 chars]",
+      "retrievedAt": "2023-11-15 07:05:51.234883",
+      "internal_id": "da2079fac5807ca11f3a435dc2c0a0fa5c86647f7e644f6045555557ac6281be",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 3127,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Rodrigo Mozelli",
+      "title": "Vacina brasileira contra chikungunya: saiba mais sobre primeiro imunizante para a doen\u00e7a",
+      "description": "Veja informa\u00e7\u00f5es sobre imunizante aprovado nos EUA O post Vacina brasileira contra chikungunya: saiba mais sobre primeiro imunizante para a doen\u00e7a apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/11/13/medicina-e-saude/vacina-brasileira-contra-chikungunya-saiba-mais-sobre-primeiro-imunizante-para-a-doenca/",
+      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/07/Vacina-1.jpg",
+      "publishedAt": "2023-11-13 23:36:46",
+      "content": "O FDA, \u00c3\u00b3rg\u00c3\u00a3o regulador dos EUA, aprovou, na quinta-feira (9), a vacina contra a chikungunya\u00c2 desenvolvida entre o Instituto Butantan e a empresa de biotecnologia franco-austr\u00c3\u00adaca Valneva. Esse \u00c3\u00a9 \u2026 [+2890 chars]",
+      "retrievedAt": "2023-11-15 07:05:50.230316",
+      "internal_id": "06e9a8533ac435fd3f9b76068950099aa8116b4e95de00abeecc67bcba05a4fb",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3125,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Chijioke Iremeka",
+      "title": "\u2018Poor sanitation, hygiene major malaria control setbacks\u2019",
+      "description": "Medical experts have attributed natural and man-made environmental issues such as poor sanitation and hygiene as the causes of persistent malaria transmission in Nigeria and major setbacks to the country\u2019s control efforts. The experts, who spoke with PUNCH H\u2026",
+      "url": "https://punchng.com/poor-sanitation-hygiene-major-malaria-control-setbacks/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/22015336/malaria.jpg",
+      "publishedAt": "2023-11-13 23:06:26",
+      "content": "Medical experts have attributed natural and man-made environmental issues such as poor sanitation and hygiene as the causes of persistent malaria transmission in Nigeria and major setbacks to the cou\u2026 [+4049 chars]",
+      "retrievedAt": "2023-11-15 07:05:49.298172",
+      "internal_id": "565c04e1995f32a44fbe9c407d5b885c398954c1027c780b2a6bb07666595f92",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3126,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Janet Ogundepo",
+      "title": "Poverty, biggest driver of malaria prevalence \u2013Experts",
+      "description": "Senior medical professionals have identified poverty as the biggest driver of high prevalence of malaria in Nigeria. They also listed ignorance, poor utilisation of insecticide treated nets and anti-malarial drug resistance as other causes. According to the W\u2026",
+      "url": "https://punchng.com/poverty-biggest-driver-of-malaria-prevalence-experts/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/11/14010139/Ademowo.jpg",
+      "publishedAt": "2023-11-13 23:05:24",
+      "content": "Senior medical professionals have identified poverty as the biggest driver of high prevalence of malaria in Nigeria. They also listed ignorance, poor utilisation of insecticide treated nets and anti\u2026 [+6470 chars]",
+      "retrievedAt": "2023-11-15 07:05:49.304451",
+      "internal_id": "0e48d53d8b19c29b93e3d94788ff6deaafff763798cdd7b008c3908ecfac4dd4",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3128,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Vacina da chikungunya em teste no Brasil induz resposta imune em 98,8% dos vacinados",
+      "description": "A expectativa \u00e9 submeter o pedido de aprova\u00e7\u00e3o da vacina para a Anvisa no primeiro semestre de 2024",
+      "url": "https://valor.globo.com/brasil/noticia/2023/11/13/vacina-da-chikungunya-em-teste-no-brasil-induz-resposta-imune-em-988-pontos-percentuais-dos-vacinados.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/tyPG9VTKYNs7R8WnusrjR_moihM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/y/h/9eNwOaQGeg3OYlRyPkvw/instituto-burantan-em-sao-paulo-rovena-rosa-agencia-brasil.jpg",
+      "publishedAt": "2023-11-13 20:42:33",
+      "content": "A vacina contra a chikungunya desenvolvida pelo Instituto Butantan e pela empresa de biotecnologia franco-austr\u00edaca Valneva induz resposta imune em 98,8% dos adolescentes que integram a fase 3 do ens\u2026 [+3225 chars]",
+      "retrievedAt": "2023-11-15 07:05:50.251248",
+      "internal_id": "446a3254eb40680fb1ecef907cae6b6d2bc237fcfaea7d7a6f2bc460704b230a",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3124,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Shannon Carlin",
+      "title": "Sherrie Silver Is Empowering Children Through Dance",
+      "description": "Rwandan-born choreographer Sherrie Silver knows the exact moment she became an activist.",
+      "url": "https://time.com/6333488/sherrie-silver-time100-impact-awards/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2023/11/time100-impact-awards-rwanda-sherrie-silver.jpg?quality=85",
+      "publishedAt": "2023-11-13 20:33:05",
+      "content": "Rwandan-born choreographer Sherrie Silver knows the exact moment she became an activist. When she was nine, she lost a cousin of the same age to malaria, and wanted to do something to honor his memor\u2026 [+4520 chars]",
+      "retrievedAt": "2023-11-15 07:05:49.287118",
+      "internal_id": "e2c523d8349587e82c49f825e0f198b31e9cd45b43be539061e083af994f929b",
+      "publishedAtLabel": "Nov 13"
+    },
+    {
+      "id": 3123,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Banglanews24.com",
+      "author": null,
+      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09b8\u0982\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u09a4\u09a5\u09cd\u09af \u09a6\u09bf\u09df\u09c7 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09bf\u09a6\u09c7\u09b0 \u09b8\u0982\u09af\u09c1\u0995\u09cd\u09a4 \u0995\u09b0\u099b\u09c7 \u0997\u09c1\u0997\u09b2",
+      "description": "\u09a2\u09be\u0995\u09be: \u099a\u09b2\u09a4\u09bf \u09ac\u099b\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u099c\u09cd\u09ac\u09b0\u09c7\u09b0 \u09a8\u099c\u09bf\u09b0\u09ac\u09bf\u09b9\u09c0\u09a8 \u09aa\u09cd\u09b0\u09be\u09a6\u09c1\u09b0\u09cd\u09ad\u09be\u09ac \u09ae\u09cb\u0995\u09be\u09ac\u09bf\u09b2\u09be\u09df \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09b8\u09b0\u0995\u09be\u09b0, \u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09c7\u09b0 \u09a2\u09be\u0995\u09be\u09b8\u09cd\u09a5 \u09a6\u09c2\u09a4\u09be\u09ac\u09be\u09b8 \u098f\u09ac\u0982 \u0987\u0989\u09a8\u09bf\u09b8\u09c7\u09ab\u09b8\u09b9 \u0995\u09df\u09c7\u0995\u099f\u09bf \u09b8\u0982\u0997\u09a0\u09a8\u09c7\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09c7 \u0997\u09c1\u0997\u09b2\u0964 \u098f \u09b8\u09b9\u09af\u09cb\u0997\u09bf\u09a4\u09be\u09b0 \u0985\u0982\u09b6 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09aa\u09cd\u09b0\u09a4\u09bf\u09b0\u09cb\u09a7, \u09b2\u0995\u09cd\u09b7\u09a3\u0997\u09c1\u09b2\u09cb\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u09aa\u09b0\u09bf\u099a\u09df",
+      "url": "https://www.banglanews24.com/information-technology/news/bd/1224265.details",
+      "urlToImage": "https://www.banglanews24.com/public/uploads/2023/11/14/social/1699903396.google.jpg",
+      "publishedAt": "2023-11-13 19:23:16",
+      "content": ": , , , google.com- () - : goo.gle/BD-EN-dengue () goo.gle/BD-BN-dengue, () , () . - , , (, ) , , , : , , /",
+      "retrievedAt": "2023-11-15 07:05:48.266130",
+      "internal_id": "7633c70527931da46770ccb75411846cefc7ebcd3b13a505c9c2dd8f77313a5e",
+      "publishedAtLabel": "Nov 13"
+    },
     {
       "id": 3121,
       "query": [
@@ -3483,132 +3609,6 @@
       "retrievedAt": "2023-11-05 19:05:21.674847",
       "internal_id": "8007952c0cab549da7f455d5f748cf216b6be174c45b3d1289cc6ed858cfb45e",
       "publishedAtLabel": "Nov 4"
-    },
-    {
-      "id": 2928,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WSET",
-      "author": "Ezra Hercyk",
-      "title": "2 skunks test positive for rabies in Franklin County, West Piedmont Health District urge",
-      "description": "On Friday, the West Piedmont Health District announced that two skunks have tested positive for rabies in the Glade Hill area within the past two weeks.On Octob",
-      "url": "https://wset.com/news/local/two-skunks-test-positive-for-rabies-in-franklin-county-west-piedmont-health-district-urges-caution-glade-hill-union-hall-virginia-november-2023",
-      "urlToImage": "https://wset.com/resources/media/713eca38-3a17-4973-860f-c53ad578a986-large16x9_skunk3.jpg?1601464763235",
-      "publishedAt": "2023-11-04 11:24:58",
-      "content": "FRANKLIN COUNTY, Va. (WSET) On Friday, the West Piedmont Health District announced that two skunks have tested positive for rabies in the Glade Hill area within the past two weeks. On October 13, a \u2026 [+2461 chars]",
-      "retrievedAt": "2023-11-05 19:05:20.752782",
-      "internal_id": "dc590ebc55b691f69f5a9f548f3931e6152d2397e1cab38293eec08536c7502c",
-      "publishedAtLabel": "Nov 4"
-    },
-    {
-      "id": 2931,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Clare  Roth",
-      "title": "Contagios con dengue caen en Colombia, gracias a mosquitos manipulados",
-      "description": "En el mundo hay cada a\u00f1o 100 millones de casos y 22.000 muertes por dengue. Cient\u00edficos en Colombia pueden haber encontrado la f\u00f3rmula para reducir el impacto de este mal. Los mosquitos infectados en laboratorio con la bacteria Wolbachia pueden estar relacion\u2026",
-      "url": "https://www.dw.com/es/contagios-con-dengue-caen-en-colombia-gracias-a-mosquitos-manipulados/a-67290830",
-      "urlToImage": "https://static.dw.com/image/65399980_6.jpg",
-      "publishedAt": "2023-11-04 08:13:00",
-      "content": "Los mosquitos infectados en laboratorio con la bacteria Wolbachia pueden estar relacionados con un descenso del 97% de las infecciones por dengue en tres ciudades del Valle de Aburr\u00e1, en Colombia. \u2026 [+3563 chars]",
-      "retrievedAt": "2023-11-05 19:05:21.653384",
-      "internal_id": "656ab8a2c931dc394da1c4f3d1c5263726e419e9b073d16e654385820c7c4de5",
-      "publishedAtLabel": "Nov 4"
-    },
-    {
-      "id": 2927,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Pravda.com.ua",
-      "author": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430 _\u0416\u0438\u0442\u0442\u044f",
-      "title": "\u0412\u0447\u0435\u043d\u0456 \u0432\u0432\u0430\u0436\u0430\u044e\u0442\u044c, \u0449\u043e \u0432\u0456\u0441\u043f\u0430 \u043c\u0430\u0432\u043f \u043c\u043e\u0433\u043b\u0430 \u0446\u0438\u0440\u043a\u0443\u043b\u044e\u0432\u0430\u0442\u0438 \u0441\u0435\u0440\u0435\u0434 \u043b\u044e\u0434\u0435\u0439 \u0437 2016 \u0440\u043e\u043a\u0443",
-      "description": "\u0412\u0447\u0435\u043d\u0456 \u0434\u043e\u0441\u043b\u0456\u0434\u0438\u043b\u0438 \u0435\u0432\u043e\u043b\u044e\u0446\u0456\u044e \u0432\u0456\u0440\u0443\u0441\u0443, \u0442\u0430 \u0432\u0438\u044f\u0432\u0438\u043b\u0438, \u0449\u043e \u0432\u0456\u043d \u043f\u043e\u0447\u0430\u0432 \u043c\u0443\u0442\u0443\u0432\u0430\u0442\u0438 \u0449\u0435 \u0443 2016 \u0440\u043e\u0446\u0456. \u041c\u043e\u0436\u043b\u0438\u0432\u043e, \u0446\u0435 \u0432\u0456\u0434\u0431\u0443\u0432\u0430\u043b\u043e\u0441\u044f \u0447\u0435\u0440\u0435\u0437 \u0456\u043d\u0444\u0435\u043a\u0446\u0456\u0457 \u0432 \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043c\u0456 \u043b\u044e\u0434\u0438\u043d\u0438.",
-      "url": "https://life.pravda.com.ua/society/2023/11/4/257441/",
-      "urlToImage": "https://lifeimg.pravda.com/images/doc/6/f/6f231c7-gettyimages-1412392816--3-.jpg",
-      "publishedAt": "2023-11-04 07:00:02",
-      "content": ", (mpox), , 2016 . , Science, , , , , Medical Xpress. 1950- , . . , ' . 2017 , 2022 . , , , , ' . , IIb. , . , APOBEC3, , ', , . , . \u2013 2016 , , . , , , , \" \". , . , 2022 . 15 2022 . ' \u2026 [+25 chars]",
-      "retrievedAt": "2023-11-05 07:05:24.361543",
-      "internal_id": "80b7db4997afe4e358d29eecc85372f51c73b3f984818d12cbedd771d00d609c",
-      "publishedAtLabel": "Nov 4"
-    },
-    {
-      "id": 2922,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Corriere.it",
-      "author": "Ilaria Capua",
-      "title": "Zanzare tigre e casi di Dengue. Come evitare che l\u2019infezione non se ne vada pi\u00f9?",
-      "description": "Trent\u2019anni fa questi insetti qui non c\u2019erano, oggi la malattia va gestita: dalle campagne sui repellenti alla vera manutenzione del verde",
-      "url": "https://www.corriere.it/sette/attualita/23_novembre_04/zanzare-tigre-casi-dengue-come-evitare-che-l-infezione-non-se-ne-vada-piu-5ba60a38-7682-11ee-97ac-bb749494f7ad.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/10/29/1dc8acd8-7683-11ee-97ac-bb749494f7ad.jpg",
-      "publishedAt": "2023-11-04 06:40:56",
-      "content": "di Ilaria CapuaTrent\u2019anni fa questi insetti qui non c\u2019erano, oggi la malattia va gestita: dalle campagne sui repellenti alla vera manutenzione del verde Vi ricordate? Trent\u2019anni fa le zanzare tigre \u2026 [+3061 chars]",
-      "retrievedAt": "2023-11-05 07:05:22.732502",
-      "internal_id": "697c810f69e18d1aebc28820e2290b27523d0040dfad6938bb2605c0fc8c4ac3",
-      "publishedAtLabel": "Nov 4"
-    },
-    {
-      "id": 2924,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.nu.nl",
-      "author": "onze nieuwsredactie",
-      "title": "Suriname krijgt internationale prijs voor succesvolle aanpak malaria",
-      "description": "Suriname heeft als eerste land in het Amazonegebied sinds 2021 geen lokale gevallen van malaria gehad. Hoewel het land wordt omringd door landen met veel malaria, is er geen sprake van lokale overdracht. Voor de succesvolle aanpak van de dodelijke ziekte is S\u2026",
-      "url": "https://www.nu.nl/gezondheid/6288226/suriname-krijgt-internationale-prijs-voor-succesvolle-aanpak-malaria.html",
-      "urlToImage": "https://media.nu.nl/m/6ioxx2caw1wd_wd1280/suriname-krijgt-internationale-prijs-voor-succesvolle-aanpak-malaria.jpg",
-      "publishedAt": "2023-11-04 05:14:57",
-      "content": "Suriname heeft als eerste land in het Amazonegebied sinds 2021 geen lokale gevallen van malaria gehad. Hoewel het land wordt omringd door landen met veel malaria, is er geen sprake van lokale overdra\u2026 [+1007 chars]",
-      "retrievedAt": "2023-11-05 07:05:23.538392",
-      "internal_id": "13c2aad5970a7d19024a101eebf9e88909bd6b6c45c0a4f05bcd7681f253f64b",
-      "publishedAtLabel": "Nov 4"
-    },
-    {
-      "id": 2923,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The-express.com",
-      "author": "Matthew Dooley",
-      "title": "Deadly dengue fever detected in California in individuals who haven't left country",
-      "description": "California has detected two cases of dengue fever in individuals who have not travelled outside of the country sparking health fears.",
-      "url": "https://www.the-express.com/news/health/117248/california-dengue-fever-mosquitos",
-      "urlToImage": "https://cdn-images.the-express.com/img/dynamic/19/1200x712/88028.jpg",
-      "publishedAt": "2023-11-04 03:23:22",
-      "content": "Two people in Southern California have come down with dengue fever without traveling outside the United States, where the mosquito-borne illness is rare, health officials said. A Pasadena resident w\u2026 [+1665 chars]",
-      "retrievedAt": "2023-11-05 07:05:22.773122",
-      "internal_id": "0f987a8065c9f528d17ab572fcdaa2ccb3682484717b64d45eb43c6e81f1411b",
-      "publishedAtLabel": "Nov 4"
-    },
-    {
-      "id": 2926,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Queerty.com",
-      "author": "David Hudson",
-      "title": "California issues mpox warning as new research points to how the virus is evolving",
-      "description": "Mpox has not gone away. Mpox has not gone away.",
-      "url": "https://www.queerty.com/california-issues-mpox-warning-as-new-research-points-to-how-the-virus-is-evolving-20231103",
-      "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2023/05/man-vaccine-mpox-shutterstock.jpg?auto=format&auto=compress&fit=crop&gravity=50p,50p&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=70",
-      "publishedAt": "2023-11-03 23:00:00",
-      "content": "Mpox has not gone away. Rates are increasing in one of the most gay-friendly states in the US and research from the UK suggests the virus is evolving to become more infectious. California\u2019s public h\u2026 [+3270 chars]",
-      "retrievedAt": "2023-11-05 07:05:24.340380",
-      "internal_id": "fdb02497b7a9d80db665466ca46d244bd46a011b76e100b319fbc47a4bf92050",
-      "publishedAtLabel": "Nov 3"
     }
   ]
 }
