@@ -1,8 +1,188 @@
 {
-  "last_updated": "2023-11-15 07:05",
+  "last_updated": "2023-11-15 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 3135,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Teena Thacker",
+      "title": "Three-fold Increase likely in heat-related deaths by mid-century: Lancet",
+      "description": "New projections reveal that heat-related deaths are projected to increase 370% if the rise in temperature reaches 2 degrees Celsius by mid-century. As per the report, dengue illness is projected to increase by up to 37%. Health-related labour loss is projecte\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/three-fold-increase-likely-in-heat-related-deaths-by-mid-century-lancet/articleshow/105217067.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-105217077,width-1200,height-630,imgsize-93406,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-11-14 18:41:24",
+      "content": "New Delhi: New global projections reveal the mounting threat to health due to further delayed action on global climate change. According to a report published in The Lancet medical journal, the world\u2026 [+2404 chars]",
+      "retrievedAt": "2023-11-15 19:05:30.077858",
+      "internal_id": "2f07f58c25ae745f9e26a77ce9391d66eb7b9f59636d2a00fa708307f903624f",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 3134,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "Maria Isopescu",
+      "title": "Schimb\u0103rile climatice au dus la cel mai grav focar de febr\u0103 Dengue din Bangladesh",
+      "description": "Cre\u0219terea temperaturii \u0219i un muson prelungit \u00een Bangladesh, din cauza schimb\u0103rilor climatice, au oferit condi\u021bii ideale de reproducere pentru \u021b\u00e2n\u021barul care r\u0103sp\u00e2nde\u0219te febra Dengue, au spus exper\u021bii. Aceast\u0103 \u021bar\u0103 se confrunt\u0103 acum cu cel mai grav focar avut v\u2026",
+      "url": "https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/schimbarile-climatice-au-dus-la-cel-mai-grav-focar-de-febra-dengue-din-bangladesh-2579645",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMSUyRjE0JTJGMTgzOTcxMl8xODM5/NzEyX2Rlbmd1ZS1vdXRicmVhay5qcGcm/dz0xMjAwJmg9NjMwJnpjPTEmaGFzaD04/MmY2MzFjNzc1ZWIwMGVjNWEwOTU3NmQzMTk5ODNjYQ==.thumb.jpg",
+      "publishedAt": "2023-11-14 17:44:55",
+      "content": "Creterea temperaturii i un muson prelungit \u00een Bangladesh, din cauza schimbrilor climatice, au oferit condiii ideale de reproducere pentru \u00e2narul care rsp\u00e2ndete febra Dengue, au spus experii. Aceast a\u2026 [+3299 chars]",
+      "retrievedAt": "2023-11-15 19:05:30.075082",
+      "internal_id": "c1d2d6cd963906df19152d134874a2633743f00328efeb9d9e74bbaceb0aa4e8",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 3132,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Em meio \u00e0 onda de calor, crescem casos de dengue em S\u00e3o Paulo",
+      "description": "Em dez meses deste ano, n\u00famero de casos de dengue j\u00e1 superou 2022, com mais de 12,7 mil registros; calor pode aumentar prolifera\u00e7\u00e3o do Aedes",
+      "url": "https://www.metropoles.com/sao-paulo/em-meio-a-onda-de-calor-crescem-casos-de-dengue-em-sao-paulo",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/03/23131148/Foto-mosquito-da-dengue-2.jpg",
+      "publishedAt": "2023-11-14 16:26:51",
+      "content": "S\u00e3o Paulo A onda de calor extremo que atinge a capital paulista esta semana levantou um novo alerta de sa\u00fade p\u00fablica. As altas temperaturas, muitas vezes acompanhadas por chuvas, t\u00eam contribu\u00eddo par\u2026 [+1660 chars]",
+      "retrievedAt": "2023-11-15 19:05:30.062041",
+      "internal_id": "92f97cc9d79f4ff4c6a4c6eda2d016a3fbecc98b88e40cf660512f2c685a5395",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 3131,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Vacina da dengue estar\u00e1 dispon\u00edvel no SUS em 2024, aposta farmac\u00eautica",
+      "description": "Imunizante criado pela Takeda est\u00e1 em processo de incorpora\u00e7\u00e3o no sistema p\u00fablico de sa\u00fade. Expectativa \u00e9 que esteja dispon\u00edvel ano que vem",
+      "url": "https://www.metropoles.com/saude/qdenga-vacina-contra-dengue-sus",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/11/14131724/Qdenga.jpg",
+      "publishedAt": "2023-11-14 16:11:57",
+      "content": "A farmac\u00eautica Takeda, criadora da vacina Qdenga, espera que o imunizante contra a dengue esteja dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) ainda janeiro de 2024. A declara\u00e7\u00e3o doi dada por Vivian Kir\u2026 [+6039 chars]",
+      "retrievedAt": "2023-11-15 19:05:30.057856",
+      "internal_id": "4d9ff374e50b8aea74c1cf0dad9f4cad49d20ba848296461158574108d5c05b2",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 3139,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Hanumunthadu, B., Kanji, N., Owino, N., Ferreira Da Silva, C., Robinson, H., White, R., Ferruzzi, P., Nakakana, U., Canals, R., Pollard, A. J., Ramasamy, M., Vacc-iNTS Consortium, Agyapong, Breghi, Crump, Fiorino, Gordon, Jacobs, Kariuki, Malvolti, Mantel, Marchello, Marks, Medaglini, Muthumbi, Msefula, Nyirenda, Onsare, Owusu-Dabo, Pettini, J, Soura, Spadafina, Tack",
+      "title": "Salmonella Vaccine Study in Oxford (SALVO) trial: protocol for an observer-participant blind randomised placebo-controlled trial of the iNTS-GMMA vaccine within a European cohort",
+      "description": "Introduction Invasive non-typhoidal Salmonellosis (iNTS) is mainly caused by Salmonella enterica serovars Typhimurium and Enteritidis and is estimated to result in 77 500 deaths per year, disproportionately affecting children under 5 years of age in sub-Sah\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/11/e072938?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-11-14 15:45:37",
+      "content": "Introduction Non-typhoidal Salmonellae (NTS), such as Salmonella enterica serovars Enteritidis and Typhimurium, most commonly cause a self-limiting gastroenteritis that is indistinguishable from tha\u2026 [+6608 chars]",
+      "retrievedAt": "2023-11-15 19:05:33.035071",
+      "internal_id": "93dc444cd7d2f36fb50f55861c356803f836a1a6a6ac6bab9704aba6be4ee13c",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 3130,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Zosia Kmietowicz",
+      "title": "Offer children chickenpox vaccine with MMR, JCVI recommends",
+      "description": "Children should be offered vaccination against varicella (chickenpox) as part of the routine childhood schedule at 12 and 18 months using the combined measles, mumps, rubella, and varicella (MMRV) vaccine, the Joint Committee on Vaccination and Immunisation (\u2026",
+      "url": "https://www.bmj.com/content/383/bmj.p2677",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/383/8406.cover-source.jpg",
+      "publishedAt": "2023-11-14 14:56:18",
+      "content": "Children should be offered vaccination against varicella (chickenpox) as part of the routine childhood schedule at 12 and 18 months using the combined measles, mumps, rubella, and varicella (MMRV) va\u2026 [+365 chars]",
+      "retrievedAt": "2023-11-15 19:05:29.745729",
+      "internal_id": "846628e437b98bb303222004e7e8cc6fcd1998a1e374ec2920e219ab58664cce",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 3136,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Minist\u00e9rio da Sa\u00fade alerta para amea\u00e7a da dengue no fim de 2023",
+      "description": "Com mais de 1,6 milh\u00e3o de casos da doen\u00e7a nos dez primeiros meses de 2023, o Minist\u00e9rio da Sa\u00fade alerta para a grande amea\u00e7a da dengue neste f...",
+      "url": "https://recordtv.r7.com/hoje-em-dia/videos/ministerio-da-saude-alerta-para-ameaca-da-dengue-no-fim-de-2023-14112023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/11/14/655382c8cd77c0ef9a000717/1dcc42be2cd9491d97157a6876b802f1__2292197_EPP_1411_HD_GUERRA_DENGUE_thumb.jpg",
+      "publishedAt": "2023-11-14 12:47:06",
+      "content": "Com mais de 1,6 milh\u00e3o de casos da doen\u00e7a nos dez primeiros meses de 2023, o Minist\u00e9rio da Sa\u00fade alerta para a grande amea\u00e7a da dengue neste fim de ano. O clima quente e \u00famido, que deve se tornar mai\u2026 [+228 chars]",
+      "retrievedAt": "2023-11-15 19:05:30.081892",
+      "internal_id": "706d59dbca2d305d9c94feb2a7825cabf128f1fcb9ca841d0eba3ed13be08ede",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 3138,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Vacina da chikungunya induz resposta imune em 98,8% dos vacinados",
+      "description": "Estudo est\u00e1 sendo conduzido no Brasil com 750 adolescentes",
+      "url": "https://noticias.r7.com/saude/vacina-da-chikungunya-induz-resposta-imune-em-988-dos-vacinados-14112023",
+      "urlToImage": "https://img.r7.com/images/aedes-aegypti-16032022083300158?crop=616x346+25+79",
+      "publishedAt": "2023-11-14 12:43:00",
+      "content": "Imunizante demonstrou seguran\u00e7a ao v\u00edrus mesmo sem exposi\u00e7\u00e3o pr\u00e9via Pixabay A vacina contra a chikungunya desenvolvida pelo Instituto Butantan e pela empresa de biotecnologia franco-austr\u00edaca\u2026 [+4132 chars]",
+      "retrievedAt": "2023-11-15 19:05:32.309732",
+      "internal_id": "141941185f1a93f0410d831284c5846e9c4de19875e9f73f775e7f9f683a9e41",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 3133,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "\"Unwell\" Ajit Pawar Skips Sharad Pawar's Diwali Get-Together in Baramati",
+      "description": "Nationalist Congress Party president Sharad Pawar on Tuesday met well-wishers in his hometown Baramati at an annual event on the occasion of Diwali Padwa, but his nephew and Maharashtra Deputy Chief Minister Ajit Pawar was conspicuous by his absence.",
+      "url": "https://www.ndtv.com/india-news/unwell-ajit-pawar-skips-sharad-pawars-diwali-get-together-in-baramati-4573428",
+      "urlToImage": "https://c.ndtvimg.com/2019-11/lrogfps4_ajit-pawar-sharad-pawar-pti-_625x300_26_November_19.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20231016.06",
+      "publishedAt": "2023-11-14 11:53:17",
+      "content": "Supriya Sule said Ajit Pawar was suffering from dengue and was taking rest. (File) Pune: Nationalist Congress Party president Sharad Pawar on Tuesday met well-wishers in his hometown Baramati at an \u2026 [+2188 chars]",
+      "retrievedAt": "2023-11-15 19:05:30.067427",
+      "internal_id": "9df40ad116d74cdd7b4d76ab6d15bdf546c02477955f712b58ed146416966c2a",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 3137,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Cegah Peningkatan Kasus DBD, Lurah dan Camat Diminta Lakukan Fogging",
+      "description": "KalbarOnline, Pontianak \u2013 Jumlah kasus Demam Berdarah Dengue (DBD) di Kota Pontianak The post Cegah Peningkatan Kasus DBD, Lurah dan Camat Diminta Lakukan Fogging appeared first on KalbarOnline.Com.",
+      "url": "https://www.kalbaronline.com/2023/11/14/cegah-peningkatan-kasus-dbd-lurah-dan-camat-diminta-lakukan-fogging/",
+      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/11/IMG-20231114-WA0020.jpg",
+      "publishedAt": "2023-11-14 09:29:02",
+      "content": "KalbarOnline, Pontianak \u2013 Jumlah kasus Demam Berdarah Dengue (DBD) di Kota Pontianak saat ini tercatat 108 kasus. Hal itu diungkapkan Kepala Dinas Kesehatan Kota Pontianak, Saptiko. Untuk itu, pihakn\u2026 [+2613 chars]",
+      "retrievedAt": "2023-11-15 19:05:30.090959",
+      "internal_id": "416037b1cc9726aaf36162ace4b52d2b1d22ca32421cefc62ef09d490763a4d6",
+      "publishedAtLabel": "Nov 14"
+    },
     {
       "id": 3129,
       "query": [
@@ -3429,186 +3609,6 @@
       "retrievedAt": "2023-11-06 19:05:24.864638",
       "internal_id": "c7a82ae030c9caa7e5cc8cdb723efa58f41ce83b1f4aa3a5f51ee568897bdafb",
       "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2939,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Maeghan Dolph",
-      "title": "Understanding the severity of the mosquito-borne disease dengue",
-      "description": "Delve into the key aspects of dengue fever and severe dengue, while also shedding light on these mosquito-borne diseases' significance and distinctions in those infected.",
-      "url": "https://www.foxnews.com/lifestyle/dengue-severe-dengue-mosquito-borne-disease",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AP23173281339142.jpg",
-      "publishedAt": "2023-11-05 08:00:25",
-      "content": "Dengue fever is a mosquito-borne viral infection that affects millions of people worldwide, causing a wide range of symptoms. In some cases, dengue can progress into a potentially life-threatening \u2026 [+4527 chars]",
-      "retrievedAt": "2023-11-06 19:05:22.953961",
-      "internal_id": "d8aaf37e2aef933f6c68f1567f297aea8601660ad7e964fa74f58e82ec36aef1",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2936,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "California officials confirm 2 cases of dengue, a mosquito-borne illness rarely transmitted in US - Jamaica Gleaner",
-      "description": "California officials confirm 2 cases of dengue, a mosquito-borne illness rarely transmitted in USJamaica Gleaner Long Beach reports locally acquired dengue virus following case in PasadenaKABC-TV California confirms 2nd local dengue case | CIDRAPUniversity of\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172173460",
-      "urlToImage": null,
-      "publishedAt": "2023-11-05 06:12:16",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-06 07:05:46.358727",
-      "internal_id": "44f4783ab69ccc524d41ef75bb8423b7a429e0b4793bcb8e33c2b57e0ab68338",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2938,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "DNA India",
-      "author": "\u0921\u0940\u090f\u0928\u090f \u0939\u093f\u0902\u0926\u0940 \u0935\u0947\u092c \u0921\u0947\u0938\u094d\u0915",
-      "title": "Zika Virus Symptoms: \u0915\u0948\u0938\u0947 \u092b\u0948\u0932\u0924\u093e \u0939\u0948 \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938, \u091c\u093e\u0928\u0947\u0902 \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u093e \u0924\u0930\u0940\u0915\u093e",
-      "description": "Zika Virus Treatment: \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938 \u090f\u0921\u0940\u091c \u092e\u091a\u094d\u091b\u0930\u094b\u0902 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u0938\u0947 \u092b\u0948\u0932\u0924\u093e \u0939\u0948 \u0914\u0930 \u0907\u0938 \u092c\u0940\u092e\u093e\u0930\u0940 \u0915\u0947 \u0939\u094b\u0928\u0947 \u0938\u0947 \u0924\u0947\u091c \u092c\u0941\u0916\u093e\u0930 \u0935 \u0936\u0930\u0940\u0930 \u092e\u0947\u0902 \u0926\u0930\u094d\u0926 \u0914\u0930 \u0938\u093f\u0930\u0926\u0930\u094d\u0926 \u0939\u094b\u0928\u0947 \u0932\u0917\u0924\u093e \u0939\u0948. \u092f\u0939\u093e\u0902 \u091c\u093e\u0928\u093f\u090f \u0907\u0938\u0915\u0947 \u0905\u0928\u094d\u092f \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u093e \u0924\u0930\u0940\u0915\u093e...",
-      "url": "https://www.dnaindia.com/hindi/health/report-zika-virus-symptoms-and-prevention-karnataka-on-high-alert-mosquito-aedes-aegypti-zika-virus-kaise-failta-hai-4105825",
-      "urlToImage": "https://cdn.dnaindia.com/sites/default/files/2023/11/05/7110391-zika-virus-symptoms.jpg",
-      "publishedAt": "2023-11-05 05:09:42",
-      "content": "Zika Virus Treatment: . ... : . . 100 (Zika Virus Symptoms) 6 . 5 . . (Zika Virus Alert In Karnataka) . , ... ? (How Zika Virus Get Spreads) . . , . . . ? (Zika Virus Symptoms) 5 , (\u2026 [+117 chars]",
-      "retrievedAt": "2023-11-06 07:05:47.477206",
-      "internal_id": "c3394a56cb48264190683a4393511050151dc6285a8be06a4e84da70d02e4590",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2935,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Lavozdegalicia.es",
-      "author": "\u00e1lvaro soto",
-      "title": "Alerta en el sur de Europa por el aumento de los casos de dengue",
-      "description": "Italia registra 66 casos, Francia, 36 y Espa\u00f1a, tres, de una enfermedad que se ha extendido por el fin de las restricciones de la covid y el cambio clim\u00e1tico",
-      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2023/11/04/alerta-sur-europa-aumento-casos-dengue/00031699112780805675297.htm",
-      "urlToImage": "https://www.lavozdegalicia.es/default/2023/11/04/00121699113121469586279/Foto/efe_20231009_102741772.jpg",
-      "publishedAt": "2023-11-05 04:00:00",
-      "content": "Hace no demasiado tiempo, el dengue pareca una lejana amenaza para los europeos. Esta enfermedad tropical estaba circunscrita a Latinoamrica, a frica y a Asia, donde contina haciendo estragos. Pero a\u2026 [+2929 chars]",
-      "retrievedAt": "2023-11-06 07:05:46.356125",
-      "internal_id": "3a10241f553b05e3f8616e69ddfad8c9fbca3e13c2e2e0043d1310fba1dadab3",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2934,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "\u0928\u093e\u0936\u093f\u0915\u0930\u093e\u0902\u0928\u094b \u0938\u093e\u0935\u0927\u093e\u0928! \u0921\u0947\u0902\u0917\u094d\u092f\u0942\u091a\u093e \u0927\u094b\u0915\u093e \u0935\u093e\u0922\u0932\u093e\u092f, \u0936\u0939\u0930\u093e\u0924 \u0935\u0930\u094d\u0937\u093e\u0924\u0940\u0932 \u092a\u0939\u093f\u0932\u093e \u092c\u0933\u0940, \u0924\u0940\u0928\u0936\u0947 \u0905\u0939\u0935\u093e\u0932 \u092a\u094d\u0930\u0932\u0902\u092c\u093f\u0924",
-      "description": "Nashik Dengue Cases: \u0910\u0928 \u0938\u0923\u093e\u0938\u0941\u0926\u0940\u0924 \u0928\u093e\u0936\u093f\u0915\u0915\u0930\u093e\u0902\u091a\u0902 \u091f\u0947\u0928\u094d\u0936\u0928 \u0935\u093e\u0922\u0932\u0902. \u092f\u093e \u0935\u0930\u094d\u0937\u093e\u0924\u0940\u0932 \u092a\u0939\u093f\u0932\u094d\u092f\u093e \u0921\u0947\u0902\u0917\u094d\u092f\u0942 \u092c\u0933\u0940\u091a\u0940 \u0928\u094b\u0902\u0926 \u091d\u093e\u0932\u0940. \u0905\u0926\u094d\u092f\u093e\u092a \u0924\u0940\u0928\u0936\u0947 \u0905\u0939\u0935\u093e\u0932 \u092a\u094d\u0930\u0932\u0902\u092c\u093f\u0924 \u0906\u0939\u0947\u0924.",
-      "url": "https://maharashtratimes.com/maharashtra/nashik/first-dengue-death-reported-in-nashik-city/articleshow/104977653.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-24316,msid-104977731/maharashtra-times.jpg",
-      "publishedAt": "2023-11-05 01:14:28",
-      "content": ". . , : . . . , . , . . . . . . , - . . . . . . . . . . - . , . , . , .? . . . . . ! '' , - - - - - - - - - - Marathi News App: ? . , ...ADVT - , ; , , ; \u2026 [+242 chars]",
-      "retrievedAt": "2023-11-06 07:05:46.337558",
-      "internal_id": "40b1880ced4e9a8d05ff0505d39eee0fc4628a6e41be0c32f44f199c185cb754",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2937,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "DEUTSCHE WELLE",
-      "title": "El dengue cae en Colombia, gracias a mosquitos con Wolbachia",
-      "description": "Los mosquitos infectados en laboratorio con la bacteria Wolbachia pueden estar relacionados con un descenso del 97% de las infecciones por dengue en tres ciudades del Valle de Aburr\u00e1, en Colombia. Lea: Dengue en Cartagena: casos han aumentado un 114% este 2023",
-      "url": "https://www.eluniversal.com.co/salud/el-dengue-cae-en-colombia-gracias-a-mosquitos-con-wolbachia-NK9387618",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1370x686/285c0/800d686/none/13704/BABQ/cientifica-colombiana_8869658_20231104172735.jpg",
-      "publishedAt": "2023-11-04 22:31:19",
-      "content": "Los mosquitos infectados en laboratorio con la bacteria Wolbachia pueden estar relacionados con un descenso del 97% de las infecciones por dengue en tres ciudades del Valle de Aburr\u00e1, en Colombia. Le\u2026 [+3764 chars]",
-      "retrievedAt": "2023-11-06 07:05:46.362598",
-      "internal_id": "4fa7eeb1805b40fb797558f4ed453086972d82c4be2fb24d32211f5308f48e45",
-      "publishedAtLabel": "Nov 4"
-    },
-    {
-      "id": 2933,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ANI",
-      "title": "Researchers find how specific gut bacteria increase risk of severe malaria",
-      "description": "Researchers from Indiana University School of Medicine have found that certain species of gut bacteria are linked to an increased risk of severe malaria in humans and mice. These findings could lead to the development of new techniques to prevent severe malar\u2026",
-      "url": "https://timesofindia.indiatimes.com/home/science/researchers-find-how-specific-gut-bacteria-increase-risk-of-severe-malaria/articleshow/104973996.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-104974091,width-1070,height-580,imgsize-33566,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-04 17:26:53",
-      "content": "News Science News Researchers find how specific gut bacteria increase risk of severe malaria Researchers from Indiana University School of Medicine have found t\u2026 [+513 chars]",
-      "retrievedAt": "2023-11-05 19:05:22.474371",
-      "internal_id": "f966e5e2393a3f37c31071f51658c8b20940a84b3ca0a92eddb99ce4215eb35f",
-      "publishedAtLabel": "Nov 4"
-    },
-    {
-      "id": 2929,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Politicalwire.com",
-      "author": "Taegan Goddard",
-      "title": "RFK Jr. Would Halt Infectious Disease Research",
-      "description": "Robert F. Kennedy Jr. told a conference that if he is elected president, he would have the National Institutes of Health move away from covering infectious disease outbreaks like Covid and measles, NBC News reports.Said Kennedy: \u201cI\u2019m gonna say to NIH scientis\u2026",
-      "url": "https://politicalwire.com/2023/11/04/rfk-jr-would-halt-infectious-disease-research/",
-      "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
-      "publishedAt": "2023-11-04 14:44:32",
-      "content": "\u201cThere are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.\u201d Chuck Todd, host of \u201cMeet the Press\u201d \u201cConcise. Relevant. To th\u2026 [+594 chars]",
-      "retrievedAt": "2023-11-05 19:05:21.175473",
-      "internal_id": "b3259e017a5657abcd21d4930d0cbc79793605039078dfde93416eab4d62642b",
-      "publishedAtLabel": "Nov 4"
-    },
-    {
-      "id": 2930,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Daily Beast",
-      "author": "The Daily Beast",
-      "title": "RFK Jr.: I\u2019d Make NIH Take a \u2018Break\u2019 From Infectious Diseases",
-      "description": "Eva Marie Uzcategui/Getty Robert F. Kennedy Jr. really let his anti-vax flag fly this week, telling a conference that if he is elected president, he would have the National Institutes of Health move away from covering outbreaks like COVID and measles. \u201cI\u2019m \u2026",
-      "url": "https://www.thedailybeast.com/robert-f-kennedy-jr-nih-should-take-a-break-from-infectious-diseases",
-      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2758,w_4904,x_0,y_189/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1699103107/GettyImages-1720425397_vcwiqq",
-      "publishedAt": "2023-11-04 13:05:58",
-      "content": "Robert F. Kennedy Jr. really let his anti-vax flag fly this week, telling a conference that if he is elected president, he would have the National Institutes of Health move away from covering outbrea\u2026 [+503 chars]",
-      "retrievedAt": "2023-11-05 19:05:21.179551",
-      "internal_id": "b88df2957160ed2ac358e24d4d1642a1cf93076fb071420936883a5e33c66275",
-      "publishedAtLabel": "Nov 4"
-    },
-    {
-      "id": 2932,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Deutsche Welle",
-      "title": "Mosquitos modificados podem reduzir casos de dengue",
-      "description": "Estudo na Col\u00f4mbia indica queda de 97% nas infec\u00e7\u00f5es ap\u00f3s libera\u00e7\u00e3o de mosquitos infectados com ...",
-      "url": "https://www.terra.com.br/noticias/mosquitos-modificados-podem-reduzir-casos-de-dengue,dfe042c0992eb0d83ae571e8dd208e1065jnbalm.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2023-11-04 11:46:20",
-      "content": "Estudo na Col\u00f4mbia indica queda de 97% nas infec\u00e7\u00f5es ap\u00f3s libera\u00e7\u00e3o de mosquitos infectados com a bact\u00e9ria 'Wolbachia'. M\u00e9todo foi testado tamb\u00e9m no Brasil.Mosquitos infectados com a bact\u00e9ria Wolbach\u2026 [+4625 chars]",
-      "retrievedAt": "2023-11-05 19:05:21.674847",
-      "internal_id": "8007952c0cab549da7f455d5f748cf216b6be174c45b3d1289cc6ed858cfb45e",
-      "publishedAtLabel": "Nov 4"
     }
   ]
 }
