@@ -1,8 +1,170 @@
 {
-  "last_updated": "2023-11-15 19:05",
+  "last_updated": "2023-11-16 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 3141,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Autochthonous Dengue Outbreak, Paris Region, France, September\u2013October 2023",
+      "description": "Autochthonous Dengue Outbreak, Paris Region, 2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/12/23-1472_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-11-15 05:00:00",
+      "content": "In Europe, dengue primarily is imported from endemic countries. However, an increasing number of autochthonous cases and limited outbreaks have been described since 2010. In 2023, 105 autochthonous c\u2026 [+8024 chars]",
+      "retrievedAt": "2023-11-16 07:05:45.194145",
+      "internal_id": "c3c25443d31360470e4a6d4029794927048f12789d76c951337c8f2450b6ed81",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3142,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Autochthonous Dengue Fever in 2 Patients, Rome, Italy",
+      "description": "Autochthonous Dengue Fever in 2 Patients, Rome, Italy",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/1/23-1508_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-11-15 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue virus (DENV) infect\u2026 [+6008 chars]",
+      "retrievedAt": "2023-11-16 07:05:45.198542",
+      "internal_id": "5083230e21f58cf69318bc392ff21a87d906f6153af36cb54c0a31044e002771",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3146,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya",
+      "description": "Detection of Anopheles stephensi Mosquitoes, Kenya",
+      "url": "https://wwwnc.cdc.gov/eid/article/29/12/23-0637_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-11-15 05:00:00",
+      "content": "The Anopheles stephensi mosquito is a major vector of malaria in south Asia, the Middle East, and southern China, where it is endemic and is known to transmit both Plasmodium falciparum and P. vivax.\u2026 [+25803 chars]",
+      "retrievedAt": "2023-11-16 07:05:46.424359",
+      "internal_id": "28abc76718430e11093b846b3c991851bd99d3c87af9d7ac2c691e41a8088735",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3148,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Nayra Teles",
+      "title": "Mpox pode ser grave em pessoas com imunidade comprometida",
+      "description": "Cientistas identificam impactos graves do MPXV, v\u00edrus causador da mpox, em indiv\u00edduos com sistema imunol\u00f3gico comprometido O post Mpox pode ser grave em pessoas com imunidade comprometida apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/11/15/medicina-e-saude/mpox-pode-ser-grave-em-pessoas-com-imunidade-comprometida/",
+      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/11/Lesoes-MPXV.png",
+      "publishedAt": "2023-11-15 05:00:00",
+      "content": "Uma pesquisa conduzida por cientistas do Departamento de Patologia e do Instituto de Medicina Tropical da Faculdade de Medicina da USP (FMUSP) identificou graves consequ\u00c3\u00aancias da infec\u00c3\u00a7\u00c3\u00a3o por MPXV\u2026 [+2378 chars]",
+      "retrievedAt": "2023-11-16 07:05:47.591549",
+      "internal_id": "f48ae9cbe1eb18985adb75725362889987868495974c9f396a97adffddca6ad0",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3143,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "Former Maharashtra minister Jayant Patil diagnosed with dengue",
+      "description": "Former Maharashtra minister and NCP leader, Jayant Patil, has been diagnosed with dengue and has been advised to take rest. Patil took to social media to inform his followers about his condition. Deputy Chief Minister Ajit Pawar also recently tested positive \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/former-maharashtra-minister-jayant-patil-diagnosed-with-dengue/articleshow/105222969.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105223156,width-1070,height-580,imgsize-24058,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-15 03:53:05",
+      "content": "How to make no-sugar Ragi Almond Cake at home",
+      "retrievedAt": "2023-11-16 07:05:45.213311",
+      "internal_id": "fd76eea40bc7ef2b2d9535002fba309948771bf1b063426a4b05198fff935fc2",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3140,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Iz.ru",
+      "author": "\u041f\u0430\u0445\u043e\u043c\u043e\u0432 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440",
+      "title": "\u041f\u0435\u0434\u0438\u0430\u0442\u0440 \u043d\u0430\u0437\u0432\u0430\u043b\u0430 \u0442\u0440\u0438 \u0441\u0430\u043c\u044b\u0435 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u043d\u044b\u0435 \u0434\u0435\u0442\u0441\u043a\u0438\u0435 \u0441\u0435\u0437\u043e\u043d\u043d\u044b\u0435 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438",
+      "description": "\u0412\u0440\u0430\u0447-\u043f\u0435\u0434\u0438\u0430\u0442\u0440, \u0434\u0435\u0442\u0441\u043a\u0438\u0439 \u043d\u0435\u0444\u0440\u043e\u043b\u043e\u0433 \u00ab\u0421\u041c-\u041a\u043b\u0438\u043d\u0438\u043a\u0430\u00bb \u0434\u043b\u044f \u0434\u0435\u0442\u0435\u0439, \u043a.\u043c.\u043d. \u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0430 15 \u043d\u043e\u044f\u0431\u0440\u044f \u0432 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u0435 \u0441 \u00ab\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f\u043c\u0438\u00bb \u043d\u0430\u0437\u0432\u0430\u043b\u0430 \u0441\u0430\u043c\u044b\u0435 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u043d\u044b\u0435 \u0441\u0435\u0437\u043e\u043d\u043d\u044b\u0435 \u0434\u0435\u0442\u0441\u043a\u0438\u0435 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438 \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443.\u041d\u0430 \u043f\u0435\u0440\u0432\u043e\u043c \u043c\u0435\u0441\u0442\u0435 \u043f\u043e \u0447\u0430\u0441\u0442\u043e\u0442\u0435 \u0438 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u043d\u043e\u0441\u0442\u0438, \u043f\u043e \u0435\u0435 \u0441\u043b\u043e\u0432\u0430\u043c, \u0441\u0442\u043e\u0438\u0442 \u043c\u0438\u043a\u043e\u2026",
+      "url": "https://iz.ru/1605197/2023-11-15/pediatr-nazvala-tri-samye-rasprostranennye-detskie-sezonnye-infektcii",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2023-11/RIA_494948.HR__0.jpg?itok=cS0E3FW9",
+      "publishedAt": "2023-11-15 02:00:00",
+      "content": "-, \u00ab-\u00bb , ... 15 \u00ab\u00bb . , , , . - , . \u00ab , ycoplasma pneumoniae - . - . ( , , .), \u00bb, . , , , , . \u00ab Streptococcus pneumoniae (), - . , . , , , , \u00bb, . , Bordetella pertussis. , , . -, , , . \u00ab , . \u2026 [+66 chars]",
+      "retrievedAt": "2023-11-16 07:05:43.875698",
+      "internal_id": "3e5e559b7a8f59703a58107ad47b1b9fde1ad0aa57067b70d9421a9331e236da",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3144,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Bhabani Sankar Satapathy, Pralaya Kumar Sahoo, Snigdha Pattnaik, Amit Kumar Nayak, Laxmidhar Maharana, Rudra Narayan Sahoo",
+      "title": "Conveyance of sofosbuvir through vesicular lipid nanocarriers as an effective strategy for management of viral meningitis",
+      "description": "RSC Adv., 2023, 13,33500-33513DOI: 10.1039/D3RA06540E, Paper Open Access &nbsp This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.Bhabani Sankar Satapathy, Pralaya Kumar Sahoo, Snigdha Pattnaik, Amit Kumar Nayak, Laxmidhar Maha\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra06540e",
+      "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D3RA06540E",
+      "publishedAt": "2023-11-15 00:00:00",
+      "content": "This study aimed to deliver a potential water-soluble antiviral drug (sofosbuvir) through optimized vesicular lipid nanocarriers (LNs) to the rat brain as a novel strategy against viral meningitis. A\u2026 [+1524 chars]",
+      "retrievedAt": "2023-11-16 07:05:45.717909",
+      "internal_id": "558249dfa75b20ccdc20e9523cdd045105990138b2c1c73bae6860c3fd84a1b2",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3145,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "El Pa\u00eds (Uruguay)",
+      "title": "El esperanzador hallazgo cient\u00edfico sobre las propiedades de la planta medicinal que da origen a la aspirina",
+      "description": "Un estudio impulsado por cient\u00edficos finlandeses descubri\u00f3 un nuevo uso de la corteza de sauce blanco; la sustancia actu\u00f3 sobre el virus que causa resfriados y el Covid-19, as\u00ed como el de la gripe y la meningitis",
+      "url": "https://www.lanacion.com.ar/lifestyle/en-las-redes/el-esperanzador-hallazgo-cientifico-sobre-las-propiedades-de-la-planta-medicinal-que-da-origen-a-la-nid14112023/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-extracto-de-corteza-de-JG3KYS2GVZCRJCY6CJSWXECRCM.jpg?auth=1e7457d711750cc03abd3b581129ef860d1a87885ac322b53ac5edada3c00a00&width=768&quality=70&smart=false",
+      "publishedAt": "2023-11-14 20:07:01",
+      "content": "Seg\u00fan una investigaci\u00f3n realizada por cient\u00edficos finlandeses, el extracto de corteza de sauce demostr\u00f3 tener un efecto antiv\u00edrico en experimentos con muestras celulares. El estudio, publicado en la \u2026 [+1749 chars]",
+      "retrievedAt": "2023-11-16 07:05:45.721120",
+      "internal_id": "b6a62c563831302aa661c8bd3a9831fc389a8c08ebda028ee7c99ccab7018f55",
+      "publishedAtLabel": "Nov 14"
+    },
+    {
+      "id": 3147,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Estados Unidos aprovam vacina contra chikungunya",
+      "description": "O medicamento \u00e9 o primeiro a ser aprovado no pa\u00eds; a doen\u00e7a \u00e9 transmitida por mosquito, podendo ser debilitante e mortal aos rec\u00e9m-nascidos",
+      "url": "https://saude.ig.com.br/2023-11-14/chikungunya-vacina-eua.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0h/8t/px/0h8tpxwmjwdegegn5t8xle7q2.jpg",
+      "publishedAt": "2023-11-14 19:41:49",
+      "content": "A Food and Drug Administration (FDA), ag\u00eancia respons\u00e1vel pela libera\u00e7\u00e3o de medica\u00e7\u00f5es nos Estados Unidos, aprovou na \u00faltima quinta-feira (9), a primeira vacina contra a doen\u00e7a causada pelo v\u00edrus chi\u2026 [+2263 chars]",
+      "retrievedAt": "2023-11-16 07:05:47.396342",
+      "internal_id": "07bdd947257996d6f03f4b44072db79bc767d6a60410e1ce41772b479afa88c4",
+      "publishedAtLabel": "Nov 14"
+    },
     {
       "id": 3135,
       "query": [
@@ -3447,168 +3609,6 @@
       "retrievedAt": "2023-11-07 19:05:25.794610",
       "internal_id": "ee903ac5c6cdcd5ac8a7003e66364c79ede6990add5cb6efd990de99525cd21d",
       "publishedAtLabel": "Nov 6"
-    },
-    {
-      "id": 2954,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Sabah.com.tr",
-      "author": "MURAT KARAMAN",
-      "title": "Bat\u0131 Nil Vir\u00fcs\u00fc\u2019n\u00fc iki saatte tespit edebilen \u201cPCR Tan\u0131 Kiti\u201d geli\u015ftirildi",
-      "description": "Yak\u0131n Do\u011fu \u00dcniversitesi ara\u015ft\u0131rmac\u0131lar\u0131 Kovid-19 pandemisinde edindikleri tecr\u00fcbe ile Dang Hummas\u0131, Chikungunya Vir\u00fcs\u00fc, Maymun \u00c7i\u00e7e\u011fi, Hepatit Delta Vir\u00fcs\u00fc, FIP Vir\u00fcs\u00fc ve son olarak Bat\u0131 Nil Vir\u00fcs\u00fc gibi tehlikeli salg\u0131nlara sebep olabilecek vir\u00fcslerin tespiti\u2026",
-      "url": "http://www.sabah.com.tr/saglik/2023/11/06/bati-nil-virusunu-iki-saatte-tespit-edebilen-pcr-tani-kiti-gelistirildi",
-      "urlToImage": "https://iasbh.tmgrup.com.tr/6f20bb/650/344/0/156/1083/723?u=https://isbh.tmgrup.com.tr/sbh/2023/11/06/bati-nil-virusunu-iki-saatte-tespit-edebilen-pcr-tani-kiti-gelistirildi-1699269958032.jpg",
-      "publishedAt": "2023-11-06 11:53:49",
-      "content": "Ge\u00e7en ay, KKTC'de de tespit edilen \u00fc\u00e7 Bat Nil Vir\u00fcs\u00fc vakasndan ikisi Yakn Dou \u00dcniversitesi'nde g\u00f6rd\u00fc\u00fc tedavinin ardndan taburcu edilmi, 82 yandaki bir hasta ise hayatn kaybetmiti. Yakn Dou \u00dcniversite\u2026 [+1574 chars]",
-      "retrievedAt": "2023-11-07 19:05:26.282354",
-      "internal_id": "c958a5db8d15436fc4ea43d4a14856cf744f1eefb0a490f4c9dcfffaee5610ad",
-      "publishedAtLabel": "Nov 6"
-    },
-    {
-      "id": 2949,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: First African-Manufactured Combination Therapy For Seasonal Malaria Chemoprevention Receives WHO Prequalification",
-      "description": "[Universal Corporation Ltd] Geneva and Kiambu -- Universal Corporation Ltd (UCL), a Strides Pharma Science Limited (Strides) enterprise, with support from MMV, becomes the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimetha\u2026",
-      "url": "https://allafrica.com/stories/202311060365.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-06 11:05:18",
-      "content": "Geneva and Kiambu \u2014 Universal Corporation Ltd (UCL), a Strides Pharma Science Limited (Strides) enterprise, with support from MMV, becomes the first African manufacturer to gain WHO prequalif\u2026 [+4942 chars]",
-      "retrievedAt": "2023-11-07 19:05:25.775363",
-      "internal_id": "859ea13e0472d9104e32aadb9c640a2e3375f71874f5607ed21f237b49c16536",
-      "publishedAtLabel": "Nov 6"
-    },
-    {
-      "id": 2948,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Week Magazine",
-      "author": "theweekonlineeditors@futurenet.com (The Week US)",
-      "title": "The fight against malaria",
-      "description": "After declining for decades, deaths from the disease are suddenly on the rise. What\u2019s changed?",
-      "url": "https://theweek.com/health/the-fight-against-malaria",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NQcFh7jm7jedve2guN64A4-1200-80.jpg",
-      "publishedAt": "2023-11-06 09:00:28",
-      "content": "After declining for decades, deaths from the disease are suddenly on the rise. What\u2019s changed? Here's everything you need to know: How many people die from malaria? The mosquito-borne disease curr\u2026 [+6491 chars]",
-      "retrievedAt": "2023-11-07 19:05:25.771289",
-      "internal_id": "7eee1ba22de5a7b55daf784aaab79054dd8e43cd3a992c07eb19eecc5b2a84fa",
-      "publishedAtLabel": "Nov 6"
-    },
-    {
-      "id": 2953,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Uganda: Neonatal Conditions Top the List, Malaria Cases Decline in New Health Sector Performance Report",
-      "description": "[Nile Post] The annual health sector performance report has unveiled a comprehensive picture of the disease burden affecting the nation, with neonatal conditions emerging as the leading cause of health facility deaths across all age groups, accounting for a s\u2026",
-      "url": "https://allafrica.com/stories/202311060117.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-06 07:37:21",
-      "content": "The annual health sector performance report has unveiled a comprehensive picture of the disease burden affecting the nation, with neonatal conditions emerging as the leading cause of health facility \u2026 [+1735 chars]",
-      "retrievedAt": "2023-11-07 19:05:25.803556",
-      "internal_id": "2ba93817daca16f9d97965cd9aecee262be70574e394fdd08a1de25b33f59f7b",
-      "publishedAtLabel": "Nov 6"
-    },
-    {
-      "id": 2944,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "the-jerusalem-post",
-      "source_name": "The Jerusalem Post",
-      "author": "By JERUSALEM POST STAFF",
-      "title": "Monkeypox virus mutating, posing new threats to public health \u2013 study",
-      "description": "The monkeypox virus was once only spreadable from rats to humans but, with prolonged exposure to the human immune system, new strains have become more viral than ever before",
-      "url": "https://www.jpost.com/health-and-wellness/article-771850",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/555568",
-      "publishedAt": "2023-11-05 22:34:57",
-      "content": "Much like the Coronavirus did during the pandemic, the monkeypox (mpox) virus has begun to evolve into new deadlier strains, according to a new study released on November 2. The peer-reviewed study,\u2026 [+1819 chars]",
-      "retrievedAt": "2023-11-07 07:05:46.649600",
-      "internal_id": "e028c80b405170f3b71c2fe73f2ca22c5ef47f0633c6baa93f2536051fb3501e",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2943,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Harisson Minta Para Bupati dan Wali Kota Serius Tangani DBD",
-      "description": "KalbarOnline, Pontianak \u2013 Penjabat (Pj) Gubernur Provinsi Kalbar, Harisson meminta para bupati The post Harisson Minta Para Bupati dan Wali Kota Serius Tangani DBD appeared first on KalbarOnline.Com.",
-      "url": "https://www.kalbaronline.com/2023/11/06/harisson-minta-para-bupati-dan-wali-kota-serius-tangani-dbd/",
-      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/11/IMG-20231106-WA0001.jpg",
-      "publishedAt": "2023-11-05 20:17:40",
-      "content": "KalbarOnline, Pontianak \u2013 Penjabat (Pj) Gubernur Provinsi Kalbar, Harisson meminta para bupati dan wali kota serius dalam menangani lonjakan kasus demam berdarah dengue (DBD). Terutama pada wilayah y\u2026 [+4534 chars]",
-      "retrievedAt": "2023-11-07 07:05:44.895874",
-      "internal_id": "268e3dac225231335a2141ee74fa2dcdd03daa13ee390fde70715be357ad47aa",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2940,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Dengue death toll crosses 1,400-mark",
-      "description": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more patients were hospitalised with the viral fever, according to\u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-crosses-1400-mark-733734",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/05/2m9a8079_0.jpg",
-      "publishedAt": "2023-11-05 14:10:42",
-      "content": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more \u2026 [+585 chars]",
-      "retrievedAt": "2023-11-06 19:05:22.974215",
-      "internal_id": "8ba2e2aea33e19748697f97dce0e9bf5c214207b60c2fa2348627ba9c8d9d1d6",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2941,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "David Will",
-      "title": "Heute vor 143 Jahren: Als ein Au\u00dfenseiter den Malaria-Erreger fand",
-      "description": "Lange glauben \u00c4rzte, dass Malaria durch giftige D\u00e4mpfe verursacht wird. Erst ein Blick ins Blut von Soldaten f\u00fchrt auf die richtige Spur.",
-      "url": "https://www.tagesspiegel.de/wissen/heute-vor-143-jahren-x-10728799.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/malaria005-the-malaria-infected-red-blood-cells/alternates/BASE_16_9_W1400/malaria005-the-malaria-infected-red-blood-cells.jpeg",
-      "publishedAt": "2023-11-05 12:48:20",
-      "content": "Einfach mal wieder richtig durchatmen in Buenos Aires! Das dachten zumindest die spanischen Eroberer, die im 16. Jahrhundert zum ersten Mal am Rio de la Plata Anker legten und die Siedlung der guten \u2026 [+2750 chars]",
-      "retrievedAt": "2023-11-06 19:05:24.244357",
-      "internal_id": "e1e80af99c7ac7ee2edf109d00bb3fdf0cd28fadad8016325e6944a0f5677179",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2942,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Twentyfournews.com",
-      "author": "24 Web Desk",
-      "title": "Zika prevention efforts remain strong: Health Minister",
-      "description": "Zika prevention efforts remain strong: Health \u0d38\u0d3f\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2a\u0d4d\u0d30\u0d35\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d2f\u0d3f \u0d24\u0d41\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41: \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f \u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f",
-      "url": "https://www.twentyfournews.com/2023/11/05/zika-prevention-efforts-remain-strong-health-minister.html",
-      "urlToImage": "https://www.twentyfournews.com/wp-content/uploads/2023/11/Zika-prevention-efforts-remain-strong_-Health-Minister.jpg",
-      "publishedAt": "2023-11-05 12:41:12",
-      "content": ". 8 . . . . 30 31 . 1, 2, 5 . . 55 . 24 . . , . . . 104 . 5 , , . . . . . . Story Highlights: Zika prevention efforts remain strong: Health Minister",
-      "retrievedAt": "2023-11-06 19:05:24.864638",
-      "internal_id": "c7a82ae030c9caa7e5cc8cdb723efa58f41ce83b1f4aa3a5f51ee568897bdafb",
-      "publishedAtLabel": "Nov 5"
     }
   ]
 }
