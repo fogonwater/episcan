@@ -1,8 +1,117 @@
 {
-  "last_updated": "2023-11-16 07:05",
+  "last_updated": "2023-11-16 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 3150,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Le Point",
+      "author": "Lou Rom\u00e9o",
+      "title": "Faim, d\u00e9c\u00e8s, \u00e9pid\u00e9mies : l\u2019impact du r\u00e9chauffement climatique sur la sant\u00e9 \u00e9valu\u00e9",
+      "description": "D\u00e9c\u00e8s li\u00e9s \u00e0 la chaleur multipli\u00e9s par cinq, dengue et s\u00e9cheresses\u2026 Dans son dernier rapport, la revue \u00ab The Lancet \u00bb \u00e9value l\u2019impact du r\u00e9chauffement climatique sur la sant\u00e9 humaine.",
+      "url": "https://www.lepoint.fr/environnement/faim-deces-epidemies-l-impact-du-rechauffement-climatique-sur-la-sante-evalue-15-11-2023-2543280_1927.php",
+      "urlToImage": "https://static.lpnt.fr/images/2023/11/15/25561803lpw-25563302-mega-une-jpg_9904818.jpg",
+      "publishedAt": "2023-11-15 18:52:00",
+      "content": "Un futur dangereux et un pr\u00e9sent d\u00e9j\u00e0 mortel. Dans son \u00ab compte \u00e0 rebours sur la sant\u00e9 et le changement climatique \u00bb annuel, la revue m\u00e9dicale britannique The Lancet \u00e9value l'impact actuel et \u00e0 venir\u2026 [+5002 chars]",
+      "retrievedAt": "2023-11-16 19:05:16.031322",
+      "internal_id": "bdc4389c013639718ccf4e5df6398cadc3dbb2752d7238dca133d26ad5331c72",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3149,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "La Russie aide le Burkina \u00e0 lutter contre la dengue et le chikungunya",
+      "description": "La D\u00e9fense russe a envoy\u00e9 une d\u00e9l\u00e9gation de m\u00e9decins au Burkina Faso, pays qui fait face \u00e0 une flamb\u00e9e de dengue et \u00e0 la hausse de cas de chikungunya. Le m\u00e9decin-chef de la D\u00e9fense Igor Azarov a expliqu\u00e9 \u00e0 Sputnik Afrique comment Moscou aidera Ouagadougou \u00e0 f\u2026",
+      "url": "https://fr.sputniknews.africa/20231115/la-russie-aide-le-burkina-a-lutter-contre-la-dengue-et-le-chikungunya-1063572090.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1063572090.jpg?10635534421700073434",
+      "publishedAt": "2023-11-15 18:33:15",
+      "content": "https://fr.sputniknews.africa/20231115/la-russie-aide-le-burkina-a-lutter-contre-la-dengue-et-le-chikungunya-1063572090.html La Russie aide le Burkina \u00e0 lutter contre la dengue et le chikungunya La\u2026 [+4905 chars]",
+      "retrievedAt": "2023-11-16 19:05:16.013569",
+      "internal_id": "c27019d1a007693584abfbed0df7d83fad144eabb390cbe1babcec8b782bf92b",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3153,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Rlsbb.ru",
+      "author": "Robotnico",
+      "title": "NOVA S50E17 720p WEB h264-BAE",
+      "description": "Season 50, Episode 17 \u2013 \"The Battle to Beat Malaria\"Follow the quest to create a lifesaving malaria vaccine. Links: HOMEPAGE \u2013 TVDBNOVA.S50E17.720p.WEB.H264-BAEMKV | AAC | 1.77GBNFO \u2013 Screenshot \u2013 Torrent \u2013 FiKPER \u2013 UPLOADGiG \u2013 NiTROFLARE \u2013 RAPiDGATORNOVA.S50\u2026",
+      "url": "https://rlsbb.ru/nova-s50e17-720p-web-h264-bae/",
+      "urlToImage": null,
+      "publishedAt": "2023-11-15 17:17:04",
+      "content": "Season 50, Episode 17 \u201cThe Battle to Beat Malaria\u201dFollow the quest to create a lifesaving malaria vaccine. Links:HOMEPAGE TVDB NOVA.S50E17.720p.WEB.H264-BAEMKV | AAC | 1.77GBNFOScreenshotTorrentFi\u2026 [+447 chars]",
+      "retrievedAt": "2023-11-16 19:05:16.787543",
+      "internal_id": "2f892c7958962112da97d7cb6b960e4a99fe8576bde88ed5b3d5271e55897ec8",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3154,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Daniel G\u00f3recki",
+      "title": "Polscy naukowcy opracowali prototyp szczepionki przeciwko wirusowi Zika",
+      "description": "Badacze z Mi\u0119dzyuczelnianego Wydzia\u0142u Biotechnologii Uniwersytetu Gda\u0144skiego (UG) i Gda\u0144skiego Uniwersytetu Medycznego (GUMed) opracowali prototyp szczepionki przeciw wirusowi Zika. Prace nad ni\u0105 trwa\u0142y od kilku lat, a jej skuteczno\u015b\u0107 zosta\u0142a potwierdzona na \u2026",
+      "url": "https://geekweek.interia.pl/medycyna/news-polscy-naukowcy-opracowali-prototyp-szczepionki-przeciwko-wi,nId,7150632",
+      "urlToImage": "https://i.iplsc.com/-/0005TC1X14IATDBG-C461-F4.jpg",
+      "publishedAt": "2023-11-15 12:17:00",
+      "content": "Zika to wirus spokrewniony z wirusami wywoujcymi m.in. gorczk denga, \u00f3t gorczk, gorczk Zachodniego Nilu, kleszczowe zapalenie m\u00f3zgu (KZM) czy japoskie zapalenie m\u00f3zgu. G\u00f3wn drog zakaenia czowieka s u\u2026 [+3238 chars]",
+      "retrievedAt": "2023-11-16 19:05:17.215646",
+      "internal_id": "d2d9a1e59b5a21c638dba1831984958b8b29b0528e9db1b82c229b97d0bcfb4a",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3151,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Burkina Faso: Epid\u00e9mie de la dengue - Plus de 42 500 cas enregistr\u00e9s dont 421 d\u00e9c\u00e8s",
+      "description": "[L'Observateur Paalga] Dans le cadre de la riposte contre la Dengue, le ministre de la Sant\u00e9 et de l'Hygi\u00e8ne publique accompagn\u00e9 d'une mission m\u00e9dicale russe a effectu\u00e9 le lundi 13 novembre 2023, une sortie de terrain pour faire le constat du traitement intra\u2026",
+      "url": "https://fr.allafrica.com/stories/202311150129.html",
+      "urlToImage": "https://cdn07.allafrica.com/download/pic/main/main/csiid/00291980:529694f3f2704a7fa92350375a6e3d43:arc614x376:w1200.jpg",
+      "publishedAt": "2023-11-15 08:52:56",
+      "content": "Dans le cadre de la riposte contre la Dengue, le ministre de la Sant\u00e9 et de l'Hygi\u00e8ne publique accompagn\u00e9 d'une mission m\u00e9dicale russe a effectu\u00e9 le lundi 13 novembre 2023, une sortie de terrain pour\u2026 [+3551 chars]",
+      "retrievedAt": "2023-11-16 19:05:16.047444",
+      "internal_id": "8f256552ae893ee3f37aaf0c9b24a316a4ec0b5059dcfd258db20d7f65704ed4",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3152,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Saiba tudo sobre a vacina da dengue que ser\u00e1 fornecida pelo SUS",
+      "description": "A partir de janeiro de 2024, o Sistema \u00danico de Sa\u00fade (SUS) deve come\u00e7ar a fornecer a vacina contra a dengue, Qdenga, da farmac\u00eautica Takeda. A",
+      "url": "https://catracalivre.com.br/saude-bem-estar/saiba-tudo-sobre-a-vacina-da-dengue-que-sera-fornecida-pelo-sus/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2023/08/istock-1363458043.jpg",
+      "publishedAt": "2023-11-15 08:42:52",
+      "content": "A partir de janeiro de 2024, o Sistema \u00danico de Sa\u00fade (SUS) deve come\u00e7ar a fornecer a vacina contra a dengue, Qdenga, da farmac\u00eautica Takeda. A incorpora\u00e7\u00e3o da Qdenga ao SUS est\u00e1 sendo discutida na \u2026 [+3285 chars]",
+      "retrievedAt": "2023-11-16 19:05:16.051278",
+      "internal_id": "d189d2b384e746b5f7384c5434b8a31ab3aac06151683ac3cbfcbf3d1eb01ede",
+      "publishedAtLabel": "Nov 15"
+    },
     {
       "id": 3141,
       "query": [
@@ -3501,114 +3610,6 @@
       "retrievedAt": "2023-11-08 07:05:57.480713",
       "internal_id": "97946b51a8f7ae6c8231c7364d0c1362f3d47ea8f7983678a7e10c4086525bee",
       "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2950,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Jungewelt.de",
-      "author": null,
-      "title": "Wirtschaft als das Leben selbst: M\u00fcnzmalles und Muckibuden [Online-Abo]",
-      "description": "Vielleicht kann man sagen, dass die Fitnessstudios die Br\u00e4unungsstudios durch Integration verdr\u00e4ngt haben.",
-      "url": "https://www.jungewelt.de/artikel/462643.m\u00fcnzmalles-und-muckibuden.html",
-      "urlToImage": "https://www.jungewelt.de/img/1100/187354.jpg",
-      "publishedAt": "2023-11-06 18:40:25",
-      "content": "In Oberhessen hatte ich mich eine Weile der Frankfurter K\u00fcnstlergruppe \u00bbBr\u00e4unungsstudio Malaria\u00ab zugesellt, die u. a. von Indulis Bilzns gegr\u00fcndet worden war. Seither werfe ich ein Auge auf diese kom\u2026 [+273 chars]",
-      "retrievedAt": "2023-11-07 19:05:25.787063",
-      "internal_id": "817eb511f5c84bd39b89dc27ec03be34517debb35dc26ee8311574641630e6a3",
-      "publishedAtLabel": "Nov 6"
-    },
-    {
-      "id": 2945,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "syracuse.com",
-      "author": "Douglass Dowty | Ddowty@syracuse.com",
-      "title": "Free pet rabies vaccination clinic coming to Eastwood after rabid fox episode",
-      "description": "A rabid fox accosted twice the number of people previously known, the health department said Monday.",
-      "url": "https://www.syracuse.com/health/2023/11/free-pet-rabies-vaccination-clinic-coming-to-eastwood-after-rabid-fox-episode.html",
-      "urlToImage": "https://www.syracuse.com/resizer/YSR0Cy8TcgVsDv5a6asXkXl6m_M=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WWTE7JH64NGLVEG62RCRNZHAEE.jpg",
-      "publishedAt": "2023-11-06 17:53:08",
-      "content": "Syracuse, NY -- A free rabies vaccination clinic for pets will be held Thursday in Eastwood following a rabid fox episode last month that left health officials sounding the alarm. All told, six peop\u2026 [+1187 chars]",
-      "retrievedAt": "2023-11-07 19:05:24.620928",
-      "internal_id": "575e323753d2304a70b78a65191c962055de5e0a0532e663ff756902be0394ce",
-      "publishedAtLabel": "Nov 6"
-    },
-    {
-      "id": 2951,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Acm.org",
-      "author": "The New York Times",
-      "title": "As a Teen, She Loved Video Games. Now She's Using A.I. to Try to Quash Malaria",
-      "description": "In Senegal, Rokhaya Diagne is using artificial intelligence to help the world eradicate malaria by 2030.",
-      "url": "https://cacm.acm.org/news/277841-as-a-teen-she-loved-video-games-now-shes-using-ai-to-try-to-quash-malaria/fulltext",
-      "urlToImage": "https://cacm.acm.org/system/assets/0004/6611/110623_Carmen_Abd_Ali_for_The_New_York_Times_Senegal.large.jpg?1699294443&1699294442",
-      "publishedAt": "2023-11-06 17:00:09",
-      "content": "By The New York Times November 6, 2023CommentsRokhaya Diagne, 25, a computer science major in Senegal, has channeled her teenage love for video games into a new passion: using artificial intelligenc\u2026 [+1100 chars]",
-      "retrievedAt": "2023-11-07 19:05:25.791525",
-      "internal_id": "545368b73dee94c8e309198acc93f618649ad27b979d4af543046fd972000a3c",
-      "publishedAtLabel": "Nov 6"
-    },
-    {
-      "id": 2946,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Laura Braga",
-      "title": "An\u00e1polis (GO) registra queda de 65% nos casos de dengue",
-      "description": "Trabalho em An\u00e1polis contra dengue ser\u00e1 intensificado na pr\u00f3xima semana com manejos e visitas em locais com maior n\u00famero de notifica\u00e7\u00f5es",
-      "url": "https://www.metropoles.com/brasil/anapolis-queda-65-dengue",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/01171055/combate-a-dengue-anapolis-1.jpeg",
-      "publishedAt": "2023-11-06 16:54:43",
-      "content": "Goi\u00e2nia O \u00faltimo boletim epidemiol\u00f3gico divulgado pela Secretaria Municipal de Sa\u00fade de An\u00e1polis, a 55 km da capital goiana, mostra que foram registradas 8.921 notifica\u00e7\u00f5es de casos de dengue, sendo \u2026 [+2366 chars]",
-      "retrievedAt": "2023-11-07 19:05:25.185809",
-      "internal_id": "abbe954d12d7da10fbb5518e7e71c35d1dba7ed2a323a1f04ab5d2c08f023a7f",
-      "publishedAtLabel": "Nov 6"
-    },
-    {
-      "id": 2947,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Hoje em Dia fala sobre dengue no Voc\u00ea e o Doutor desta ter\u00e7a-feira (7)",
-      "description": "O m\u00e9dico de fam\u00edlia, Ant\u00f4nio Sproesser, tira d\u00favidas sobre preven\u00e7\u00e3o e quais s\u00e3o os primeiros sintomas",
-      "url": "https://recordtv.r7.com/hoje-em-dia/hoje-em-dia-fala-sobre-dengue-no-voce-e-o-doutor-desta-terca-feira-7-06112023",
-      "urlToImage": "https://img.r7.com/images/hoje-em-dia-09102023143902069",
-      "publishedAt": "2023-11-06 15:56:01",
-      "content": "O m\u00e9dico de fam\u00edlia, Ant\u00f4nio Sproesser, tira d\u00favidas sobre preven\u00e7\u00e3o e quais s\u00e3o os primeiros sintomas Edu Moraes / Record TV Comunica\u00e7\u00e3o No quadro Voc\u00ea e o Doutor, que vai ao ar no Hoje em\u2026 [+833 chars]",
-      "retrievedAt": "2023-11-07 19:05:25.198923",
-      "internal_id": "5f3b2d8a39cc6caf905cedec404a94f55e5ad6d033da6b3e9caab5ce611577cf",
-      "publishedAtLabel": "Nov 6"
-    },
-    {
-      "id": 2952,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "govcom@gcis.pww.gov.za (Govt of SA)",
-      "title": "Gauteng Health Intensifies Malaria Awareness Campaign",
-      "description": "Press Release - Gauteng Health intensifies malaria awareness campaign",
-      "url": "https://allafrica.com/stories/202311060461.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-06 14:22:31",
-      "content": "Gauteng Health intensifies malaria awareness campaign As the Southern African Development Community (SADC) observe Malaria Day on 6 November 2023 to raise awareness on the curable and preventable di\u2026 [+2860 chars]",
-      "retrievedAt": "2023-11-07 19:05:25.794610",
-      "internal_id": "ee903ac5c6cdcd5ac8a7003e66364c79ede6990add5cb6efd990de99525cd21d",
-      "publishedAtLabel": "Nov 6"
     }
   ]
 }
