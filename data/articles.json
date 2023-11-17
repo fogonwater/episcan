@@ -1,8 +1,243 @@
 {
-  "last_updated": "2023-11-17 07:05",
+  "last_updated": "2023-11-17 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 3164,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Alexander Tin",
+      "title": "\"Staggering\" rise in global measles outbreaks in 2022, CDC and WHO report",
+      "description": "Measles outbreaks worldwide climbed 68% from 2021.",
+      "url": "https://www.cbsnews.com/news/measles-outbreaks-cdc-who-report-2022/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/16/09b91983-b7ba-4a0c-81e3-ae61f0d8b6db/thumbnail/1200x630g6/fd1ce10e860987e6f6c9b8f887641772/gettyimages-1240067695.jpg?v=0468e1acbdfcea10e0b300333bc497c4",
+      "publishedAt": "2023-11-16 18:46:09",
+      "content": "The number of countries battling disruptive outbreaks of measles surged to 37 last year, a report published by the Centers for Disease Control and Prevention confirmed Thursday, as officials warn tha\u2026 [+5255 chars]",
+      "retrievedAt": "2023-11-17 19:05:25.316667",
+      "internal_id": "2630234c745ea98d77634ae412a428313c86e33fe4f2fae4fddfe5fa387b8854",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3169,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "STAT",
+      "author": "Helen Branswell",
+      "title": "Measles cases and deaths increase worldwide, report finds",
+      "description": "A dangerous decline in the rate of children vaccinated against measles is spurring a global increase in cases and deaths from the highly contagious virus, according to a new report.",
+      "url": "https://www.statnews.com/2023/11/16/measles-cases-and-deaths-increase-worldwide-as-childhood-vaccinations-rates-decline-report/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2023/11/GettyImages-73430874-1024x576.jpg",
+      "publishedAt": "2023-11-16 18:36:40",
+      "content": "A dangerous decline in the rate of children vaccinated against measles is spurring a global increase in cases and deaths from the highly contagious virus, according to a report released Thursday. Es\u2026 [+3042 chars]",
+      "retrievedAt": "2023-11-17 19:05:25.335285",
+      "internal_id": "aed6c62208a67638dde10e3ca629ecf19edc836afb510dec4fb8b4ccbe7d2f9b",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3166,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "'Staggering' rise in measles cases last year, says WHO and CDC",
+      "description": "'Staggering' rise in measles cases last year, says WHO and CDC",
+      "url": "https://www.investing.com/news/coronavirus/staggering-rise-in-measles-cases-last-year-says-who-and-cdc-3236864",
+      "urlToImage": "https://i-invdn-com.investing.com/news/World_News_8_800x533_L_1420026210.jpg",
+      "publishedAt": "2023-11-16 18:32:22",
+      "content": "By Jennifer Rigby LONDON (Reuters) - There was a staggering annual rise in measles cases and deaths in 2022, according to a new report from the World Health Organization (WHO) and the U.S. Centers f\u2026 [+1353 chars]",
+      "retrievedAt": "2023-11-17 19:05:25.326626",
+      "internal_id": "ef61011b79931019887d3c008b63dc270199518bb683e4ed37c6aa00da778613",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3167,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Measles deaths worldwide jumped 40% last year, health agencies say",
+      "description": "The World Health Organization and the U.S. Centers for Disease Control and Prevention say measles deaths globally spiked by more than 40% last year",
+      "url": "https://abcnews.go.com/Health/wireStory/measles-deaths-worldwide-jumped-40-year-health-agencies-104951851",
+      "urlToImage": "https://i.abcnewsfe.com/a/2597e31c-9608-4441-85e0-382f59ac6b08/wirestory_bb62da765a90bfb7c5c814ef0c2798e6_16x9.jpg?w=992",
+      "publishedAt": "2023-11-16 18:06:35",
+      "content": "LONDON -- Measles deaths globally spiked by more than 40% last year and cases rose after vaccination levels dramatically dropped during the pandemic, leading health agencies said Thursday. The high\u2026 [+2215 chars]",
+      "retrievedAt": "2023-11-17 19:05:25.329236",
+      "internal_id": "e00824b315eb106d5be076843f0f4a5f1793722330b4c140894448af3984167a",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3165,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Global measles threat continues to grow as another year passes with millions of children unvaccinated",
+      "description": "Following years of declines in measles vaccination coverage, measles cases in 2022 have increased by 18%, and deaths have increased by 43% globally (compared to 2021). This takes the estimated number of measles cases to 9 million and deaths to 136,000 \u2013 mostl\u2026",
+      "url": "https://www.cdc.gov/media/releases/2023/p1116-global-measles.html",
+      "urlToImage": "https://www.cdc.gov/media/images/releases/about-cdc-fb_pr.jpg",
+      "publishedAt": "2023-11-16 18:02:00",
+      "content": "Following years of declines in measles vaccination coverage, measles cases in 2022 have increased by 18%, and deaths have increased by 43% globally (compared to 2021). This takes the estimated number\u2026 [+3649 chars]",
+      "retrievedAt": "2023-11-17 19:05:25.323740",
+      "internal_id": "f554e8cf637f52f454d665ace2ffec0e1b19b849257768bd3d0a50fb600bba13",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3163,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Youri Benadjaoud",
+      "title": "Global measles cases rose 18% in 2022 amid low vaccination rates: Report",
+      "description": "Domestic measles cases surged in 2019, with an estimated 1,274 people sick in at least 31 states -- the greatest number of cases reported since 1992, the CDC says.",
+      "url": "https://abcnews.go.com/Health/global-measles-cases-rose-18-percent-2022-low-vaccination-rates/story?id=104942082",
+      "urlToImage": "https://i.abcnewsfe.com/a/635f6da4-19b9-4dde-93bf-b0b434aefc12/measles-vaccine-gty-jt-231116_1700151909486_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2023-11-16 18:01:40",
+      "content": "Global cases of measles increased by 18% from 2021 to 2022, following a drop in vaccinations over the past few years, according to a new report Thursday from the World Health Organization and Centers\u2026 [+3034 chars]",
+      "retrievedAt": "2023-11-17 19:05:25.305339",
+      "internal_id": "600cae84600507bd05f8b3cf77a08cd291b1f995366a7ae10b19ec7004c44b6f",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3168,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Progress Toward Measles Elimination \u2014 Worldwide, 2000\u20132022",
+      "description": "This report describes progress towards global measles elimination.",
+      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7246a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7246a3_MeaslesElimination_IMAGE_17Nov2023_1200x675.jpg?_=60470",
+      "publishedAt": "2023-11-16 17:00:00",
+      "content": "Immunization Activities During the first 2 decades of the millennium (2000\u20132019), estimated MCV1 coverage worldwide increased from 72% to 86%, then declined to 83% in 2020 during the COVID-19 pandem\u2026 [+6220 chars]",
+      "retrievedAt": "2023-11-17 19:05:25.331879",
+      "internal_id": "f75115b068d57e1dfcc0ef0ab90feb31d5ffb4aa5fcfd141af7e03433ca752fd",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3171,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Dengue, donna di 50 anni muore nell'Empolese",
+      "description": "Una donna di 50 anni di Fucecchio (Firenze), nell'Empolese, \u00e8 morta dopo aver contratto la febbre Dengue. La 50enne era ritornata da un viaggio in Thailandia. Lo rende noto l'Asl Toscana centro. (ANSA)",
+      "url": "https://www.ansa.it/toscana/notizie/2023/11/16/dengue-donna-di-50-anni-muore-nellempolese_b8201190-32c2-43e9-91fa-c68c08c98e25.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/10/30/a4d3f9d1786017ef9db92c4567731754.jpg",
+      "publishedAt": "2023-11-16 16:30:37",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2023-11-17 19:05:25.881810",
+      "internal_id": "9873abb7a025bc62c425a408019b4d66037e8ff6e331a12114ac079848bde8d4",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3170,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.africa",
+      "author": "Sputnik Afrique",
+      "title": "Des drones aident \u00e0 lutter contre la dengue \u00e0 Ouagadougou \u2013 images",
+      "description": "Les autorit\u00e9s sanitaires ont d\u00e9p\u00each\u00e9 des drones sur des canaux d\u2019Ouagadougou pour pulv\u00e9riser un r\u00e9pulsif contre les moustiques. Les engins ont pour mission de d\u00e9truire les g\u00eetes pour que ces insectes, \u00e0 l\u2019origine de la flamb\u00e9e de dengue, ne se d\u00e9veloppent pas\u2026",
+      "url": "https://fr.sputniknews.africa/20231116/des-drones-aident-a-lutter-contre-la-dengue-a-ouagadougou--images-1063593002.html",
+      "urlToImage": "https://cdn1.img.sputniknews.africa/images/sharing/article/fra/1063593002.jpg?10626405641700150580",
+      "publishedAt": "2023-11-16 16:03:00",
+      "content": "Le minist\u00e8re de la Sant\u00e9 a proc\u00e9d\u00e9 ce mercredi \u00e0 la pulv\u00e9risation par drone du canal de Wemtenga. Le produit utilis\u00e9 vise \u00e0 \u00e9liminer directement les larves dans les caniveaux pour pr\u00e9venir leur d\u00e9vel\u2026 [+110 chars]",
+      "retrievedAt": "2023-11-17 19:05:25.855808",
+      "internal_id": "ec2f26c3e424b9ee8ff0742efd84d047a9d7f3dfb500ba7028513ba21c759fd9",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3173,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Alerta: Chuvas dos \u00faltimos dias podem favorecer doen\u00e7as",
+      "description": "Alerta: Chuvas dos \u00faltimos dias podem favorecer doen\u00e7as. Uma delas \u00e9 a dengue e a prolifera\u00e7\u00e3o do mosquito transmissor. Veja na reportagem!",
+      "url": "https://recordtv.r7.com/record-tv-litoral-e-vale/balanco-geral-litoral/videos/alerta-chuvas-dos-ultimos-dias-podem-favorecer-doencas-16112023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/11/16/655633431df97b2c33002758/848a0407fd964fc3b3d047ba42d0819e__Alerta__Chuvas_dos__ltimos_dias_podem_favorecer_doen_as_thumb_thumb.jpg",
+      "publishedAt": "2023-11-16 15:48:37",
+      "content": "Alerta: Chuvas dos \u00faltimos dias podem favorecer doen\u00e7as. Uma delas \u00e9 a dengue e a prolifera\u00e7\u00e3o do mosquito transmissor. Veja na reportagem!",
+      "retrievedAt": "2023-11-17 19:05:25.894672",
+      "internal_id": "0ddd04bce07d574e72cdab1c95d7db0f4628a0560f96e7d4d8bf0ae6d0c7fb88",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3175,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Typhoid and paratyphoid: public health guidance and questionnaires",
+      "description": "Guidance and questionnaires to support public health practitioners in managing cases and identifying the sources of typhoid or paratyphoid (enteric fever).",
+      "url": "https://www.gov.uk/government/publications/typhoid-and-paratyphoid-public-health-operational-guidelines",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+      "publishedAt": "2023-11-16 15:03:47",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2023-11-17 19:05:27.837905",
+      "internal_id": "9545f3c40f3b6e215d28cb74218ced4cac7e7b03ce62dcab8b0fc572110c5829",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3172,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Afrique: Revue de presse de l'Afrique Francophone du 16 Novembre 2023",
+      "description": "[allAfrica] Burkina Faso : Epid\u00e9mie de Dengue- Plus de 400 d\u00e9c\u00e8s",
+      "url": "https://fr.allafrica.com/stories/202311160177.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-16 09:05:14",
+      "content": "Burkina Faso : Epid\u00e9mie de Dengue- Plus de 400 d\u00e9c\u00e8s Pour ceux qui l\u2019ignoraient encore, les moustiques de type \u00abAedes\u00bb, responsables de la maladie de Dengue et du chikungunya sont actifs entre 16h \u2026 [+7213 chars]",
+      "retrievedAt": "2023-11-17 19:05:25.886692",
+      "internal_id": "db9e2fab892461f6f3441136172f3fff5ff5e3c7f105dfbbe1d95b53c05dd68f",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3174,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Death Toll From Malaria Outbreak in Western Oromia 'Significantly Higher' Than Reported Numbers - OPA",
+      "description": "[Addis Standard] Addis Abeba -- The Oromia Physicians Association (OPA), non-profit professional association, has dispatched groups of doctors to Western Oromia to provide emergency healthcare services to communities battling an active malaria outbreak. The a\u2026",
+      "url": "https://allafrica.com/stories/202311160107.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-16 07:37:03",
+      "content": "Addis Abeba \u2014 The Oromia Physicians Association (OPA), non-profit professional association, has dispatched groups of doctors to Western Oromia to provide emergency healthcare services to communities \u2026 [+2680 chars]",
+      "retrievedAt": "2023-11-17 19:05:26.512616",
+      "internal_id": "b2ef0727bfbc653617846e0eca0a83c949d8712a28523ff27a4d3c6fa8376f88",
+      "publishedAtLabel": "Nov 16"
+    },
     {
       "id": 3159,
       "query": [
@@ -3375,240 +3610,6 @@
       "retrievedAt": "2023-11-09 19:05:25.258767",
       "internal_id": "ad959c05e5ad2670c1121a861dae0e0dc4cd6abddf14b80281a7f1d88f2824b7",
       "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2974,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Over 7 400 Malaria Cases Recorded, 17% Locally Acquired",
-      "description": "[SAnews.gov.za] South Africa has recorded over 7 400 malaria cases between January and October this year, with only 17% of these having been locally acquired.",
-      "url": "https://allafrica.com/stories/202311080020.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-08 05:34:36",
-      "content": "South Africa has recorded over 7 400 malaria cases between January and October this year, with only 17% of these having been locally acquired. This means that more people got infected while out of t\u2026 [+2779 chars]",
-      "retrievedAt": "2023-11-09 07:05:44.333236",
-      "internal_id": "33bd7b5707f2b3960893afd21767473323d58c4c7fc97a89c28af6309e803ef4",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2973,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "KEN KUSMER Associated Press",
-      "title": "Peace Corps agrees to pay $750,000 to family of dead volunteer",
-      "description": "A law firm says the Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agency\u2019s doctors misdiagnosed a case of malaria",
-      "url": "https://abcnews.go.com/US/wireStory/peace-corps-agrees-pay-750000-family-dead-volunteer-104704628",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "publishedAt": "2023-11-08 00:06:15",
-      "content": "The Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agencys doctors misdiagnosed a case of malaria, a law firm \u2026 [+2399 chars]",
-      "retrievedAt": "2023-11-09 07:05:44.318911",
-      "internal_id": "b40b312a61b3da3669fd948c40b35a207a6b6b0ee4346e7abc70f5329f802093",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2972,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "KEN KUSMER Associated Press",
-      "title": "Peace Corps agrees to pay $750,000 to family of dead volunteer",
-      "description": "A law firm says the Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agency\u2019s doctors misdiagnosed a case of malaria",
-      "url": "https://abcnews.go.com/Health/wireStory/peace-corps-agrees-pay-750000-family-dead-volunteer-104704629",
-      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "publishedAt": "2023-11-07 23:50:09",
-      "content": "The Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agencys doctors misdiagnosed a case of malaria, a law firm \u2026 [+2399 chars]",
-      "retrievedAt": "2023-11-09 07:05:44.314588",
-      "internal_id": "f2e944a769b957c3fdf5548d1dc39aba1cf65c4905d75c24059d2bc3fb5bac5b",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2971,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Regina G. Barber",
-      "title": "Antibiotic resistance in children is becoming a bigger problem around the world",
-      "description": "Antibiotic resistance is a growing issue around the world. A new study finds that it's leaving children and infants vulnerable to potentially deadly bacterial infections, like sepsis and meningitis",
-      "url": "https://www.npr.org/2023/11/07/1211329922/antibiotic-resistance-in-children-is-becoming-a-bigger-problem-around-the-world",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "publishedAt": "2023-11-07 21:56:35",
-      "content": "Antibiotic resistance is a growing issue around the world. A new study finds that it's leaving children and infants vulnerable to potentially deadly bacterial infections, like sepsis and meningitis",
-      "retrievedAt": "2023-11-09 07:05:43.719751",
-      "internal_id": "84e4ff856bda2b9fbfb1734102da205e68bb565cd51d8f1095f27b50bc692e50",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2975,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "KQED",
-      "author": "Carly Severn",
-      "title": "Mpox Cases in California Are Rising. Where Can You Find a Vaccine?",
-      "description": "With cases of the disease formerly known as monkeypox increasing again, here's what to know about mpox symptoms and why you should get two doses of the vaccine.",
-      "url": "https://www.kqed.org/news/11966587/mpox-monkeypox-2023-bay-area-vaccine",
-      "urlToImage": "https://ww2.kqed.org/app/uploads/sites/10/2023/11/GettyImages-1242749971-qut-1020x677.jpg",
-      "publishedAt": "2023-11-07 20:25:30",
-      "content": "Who is most at risk from mpox? Anyone can get mpox, but SFDPH said that the 2022 mpox outbreak predominantly affected communities of gay and bisexual men and men who have sex with men (MSM), as well\u2026 [+4426 chars]",
-      "retrievedAt": "2023-11-09 07:05:45.346696",
-      "internal_id": "a4f94967af5c1ed9e20a8ef5b4cd96e40db38855acab4ba925f522e9801c7318",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2960,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Jhonatan Gonz\u00e1lez",
-      "title": "Casos de dengue se triplican en Chiapas; van dos muertos",
-      "description": "La Secretar\u00eda de Salud federal report\u00f3 que en Chiapas se han registrado dos muertes por dengue, adem\u00e1s, indic\u00f3 que el n\u00famero de casos asciende a 2 mil 531, de los cuales mil 294 fueron considerados como dengue con signos de alarma y grave.Ante esta situaci\u00f3n \u2026",
-      "url": "https://www.milenio.com/estados/casos-de-dengue-en-chiapas-se-triplican-hay-muertos",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/10/25/campana-fumigacion-oaxaca-dengue-provoca.jpeg",
-      "publishedAt": "2023-11-07 18:47:00",
-      "content": "La Secretar\u00eda de Salud federal report\u00f3 que en Chiapas se han registrado dos muertes por dengue, adem\u00e1s, indic\u00f3 que el n\u00famero de casos asciende a 2 mil 531, de los cuales mil 294 fueron considerados c\u2026 [+1375 chars]",
-      "retrievedAt": "2023-11-08 19:05:26.732559",
-      "internal_id": "d2f0a15be71f603e1258b5164ff438db8d9b97acb760f59aabafbc70b54c9d82",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2967,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "REDACCI\u00d3N COLOMBIA",
-      "title": "\u00a1Atenci\u00f3n! Minsalud report\u00f3 casi 80 mil casos en lo que va del 2023",
-      "description": "El Ministerio de Salud y Protecci\u00f3n Social report\u00f3 que en lo que va de 2023 Colombia registr\u00f3 79.934 casos de malaria, de los cuales 1.357 presentaron complicaciones.",
-      "url": "https://www.eluniversal.com.co/colombia/atencion-minsalud-reporto-casi-80-mil-casos-en-lo-que-va-del-2023-FE9402698",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1019x686/110c0/800d686/none/13704/CVNK/malaria_8884127_20231107132455.jpg",
-      "publishedAt": "2023-11-07 18:30:39",
-      "content": "El Ministerio de Salud y Protecci\u00f3n Social report\u00f3 que en lo que va de 2023 Colombia registr\u00f3 79.934 casos de malaria, de los cuales 1.357 presentaron complicaciones. Las regiones m\u00e1s afectadas por \u2026 [+2523 chars]",
-      "retrievedAt": "2023-11-08 19:05:27.759126",
-      "internal_id": "fb00168f0fb4f774e2109db1f3d6674344b356f48cde44875afbe9e25ba367a0",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2966,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Max Barnhart",
-      "title": "Antibiotics that fight deadly infections in babies are losing their power",
-      "description": "New research finds that the most commonly prescribed antibiotics in Southeast Asia are only 50% effective at treating sepsis and meningitis in newborns. It's a cause for global concern.",
-      "url": "https://www.npr.org/sections/goatsandsoda/2023/11/07/1209109088/antibiotics-that-fight-deadly-infections-in-babies-are-losing-their-power",
-      "urlToImage": "https://media.npr.org/assets/img/2023/11/07/gettyimages-1395717630_wide-9cda7577a4f5d918374134479b6d36542f61d853-s1400-c100.jpg",
-      "publishedAt": "2023-11-07 17:38:27",
-      "content": "The above illustration depicts a molecular model for a carbapenem drug. The carbapenem group of antibiotics is the last resort for antibiotic-resistant infections and is approved for children. But ca\u2026 [+6837 chars]",
-      "retrievedAt": "2023-11-08 19:05:27.120373",
-      "internal_id": "3cadcdac1a9aad5c6a3cac674819b6972bc39b8a40ed511c51ba78edd39e4ef9",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2965,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sylhetmirror.com",
-      "author": "Enamul Haque Renu",
-      "title": "China becomes important partner of Bangladesh: Ambassador Yao",
-      "description": "Chinese Ambassador to Bangladesh Yao Wen on Tuesday said under the joint guidance of two countries\u2019 leaderships, Bangladesh and China would definitely pool together efforts and fight side by side to win the war against the dengue epidemic, thereby protect the\u2026",
-      "url": "https://sylhetmirror.com/2023/11/07/china-becomes-important-partner-of-bangladesh-ambassador-yao/",
-      "urlToImage": "https://sylhetmirror.com/files/uploads/2023/11/hWcc4.jpg",
-      "publishedAt": "2023-11-07 16:51:50",
-      "content": "Chinese Ambassador to Bangladesh Yao Wen on Tuesday said under the joint guidance of two countries\u2019 leaderships, Bangladesh and China would definitely pool together efforts and fight side by side to \u2026 [+3435 chars]",
-      "retrievedAt": "2023-11-08 19:05:26.781666",
-      "internal_id": "0273b21c1448a4472a7f932288ef993b008d0ab77f28ae22725319aad22fa036",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2963,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "1st LD Writethru: China provides anti-dengue emergency supply to Bangladesh",
-      "description": "DHAKA, Nov. 7 (Xinhua) -- A handover ceremony of China's anti-dengue emergency supply for Bangladesh was held here on Tuesday. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2023/11/08/1st-ld-writethru-china-provides-anti-dengue-emergency-supply-to-bangladesh",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-11-07 16:19:00",
-      "content": "DHAKA, Nov. 7 (Xinhua) -- A handover ceremony of China's anti-dengue emergency supply for Bangladesh was held here on Tuesday. Chinese Ambassador to Bangladesh Yao Wen handed over the supply to the\u2026 [+1408 chars]",
-      "retrievedAt": "2023-11-08 19:05:26.766679",
-      "internal_id": "4ce3e5193113b45a593806097ee39cd993c00b23e2a27029e3b319770cd7d05c",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2970,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Yale.edu",
-      "author": null,
-      "title": "Finding a pathway to a human leptospirosis vaccine",
-      "description": "Joseph Vinetz, MD, professor of medicine (infectious diseases), anthropology, and epidemiology (microbial diseases), founded the company Luna Bioscience to develop vaccines for emerging global infectious diseases, with a focus on leptospirosis.",
-      "url": "https://medicine.yale.edu/news-article/finding-a-pathway-to-a-human-leptospirosis-vaccine/",
-      "urlToImage": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/0216b58c-27e8-4d34-bf5b-a27adf5197f7",
-      "publishedAt": "2023-11-07 15:32:32",
-      "content": "Joseph Vinetz, MD, is professor of medicine (infectious diseases), anthropology, and epidemiology (microbial diseases). His goal is to translate cutting-edge science into infectious disease control a\u2026 [+2513 chars]",
-      "retrievedAt": "2023-11-08 19:05:29.258333",
-      "internal_id": "d87b68ec4849d95650fe8faf5cc8a5817c2b62d21c6c8109b88c0bb252308f41",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2964,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Dengue death toll rises to 1,425 with 8 more deaths in a day",
-      "description": "During the period, 1,895 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-1425-8-more-deaths-day-735122",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-07 14:51:53",
-      "content": "Eight more deaths were reported from dengue in 24 hours till Tuesday (7 November) morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,425 this year. During the period,\u2026 [+672 chars]",
-      "retrievedAt": "2023-11-08 19:05:26.770371",
-      "internal_id": "933c1f86c3184ea6cc9a4cd615cb509f31253afea03acc88ae22aa997af1697f",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2961,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Eun Jeong Yu, Eun-A. Park, Seung-Ah Choe, Kyung-Ah Lee, You Shin Kim",
-      "title": "Correction: Demographic and Clinico-Epidemiological Features of Dengue Fever in Faisalabad, Pakistan",
-      "description": "",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294300",
-      "urlToImage": null,
-      "publishedAt": "2023-11-07 14:00:00",
-      "content": "Citation: Yu EJ, Park E-A, Choe S-A, Lee K-A, Kim YS (2023) Correction: Demographic and Clinico-Epidemiological Features of Dengue Fever in Faisalabad, Pakistan. PLoS ONE 18(11): e0294300. https:/\u2026 [+330 chars]",
-      "retrievedAt": "2023-11-08 19:05:26.751329",
-      "internal_id": "c5e1c6e1ca617176a307df7cfb6f0b155eeb56c047e0da054823b88ebab0dc91",
-      "publishedAtLabel": "Nov 7"
     }
   ]
 }
