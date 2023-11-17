@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-11-16 19:05",
+  "last_updated": "2023-11-17 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 3159,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Kenya's Bold Step Towards a Malaria-Free Future - Unveiling the National Llins Distribution Campaign",
+      "description": "[Capital FM] Nairobi -- The Ministry of Health has launched the National Long-Lasting Insecticidal Treated Nets (LLINs) Distribution Campaign that kicks off today.",
+      "url": "https://allafrica.com/stories/202311160088.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-16 06:40:29",
+      "content": "Nairobi \u2014 The Ministry of Health has launched the National Long-Lasting Insecticidal Treated Nets (LLINs) Distribution Campaign that kicks off today. Principal Secretary Mary Muriuki described it as\u2026 [+3322 chars]",
+      "retrievedAt": "2023-11-17 07:05:49.888913",
+      "internal_id": "023ff5178da9dd029f0b5f142e6863708a988c4686786e5073ee082114121350",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3156,
+      "query": [
+        "measles"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Helena Barnard",
+      "title": "News24 | German measles outbreak at Northern Cape school",
+      "description": "An outbreak of German measles was reported at a primary school in the Northern Cape.",
+      "url": "https://www.news24.com/news24/community-newspaper/noordkaapbulletin/german-measles-outbreak-at-nc-school-20231115",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9853/856e66084d914d819a38f042f91625f0.jpg",
+      "publishedAt": "2023-11-16 06:22:29",
+      "content": "An outbreak of German measles was reported at the Phillipsvale Primary School in Phillipstown in the Northern Cape. Geoffrey van der Merwe, media liaison officer of the Northern Cape Department of E\u2026 [+2429 chars]",
+      "retrievedAt": "2023-11-17 07:05:48.124462",
+      "internal_id": "136ef428ad5f3cde8b42fe87a9b0b62fd4981fea1738665eaf2c6fec694c1e23",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3158,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ANI",
+      "title": "'After effects of dengue': Shubman Gill on cramps during New Zealand clash",
+      "description": "India's young opener Shubman Gill revealed the reasons behind his cramps and hamstring injury during the World Cup semi-final against New Zealand. Gill, who had already missed two games due to dengue, stated that the humid conditions and the after-effects of \u2026",
+      "url": "https://economictimes.indiatimes.com/news/sports/after-effects-of-dengue-shubman-gill-on-cramps-during-new-zealand-clash/articleshow/105250022.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-105250134,width-1200,height-630,imgsize-32086,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-11-16 04:29:37",
+      "content": "India's young opener Shubman Gill talked about the reasons that led to cramps and then eventually pulling his hamstring while batting against New Zealand in the World Cup semi-final clash at Wankhede\u2026 [+1996 chars]",
+      "retrievedAt": "2023-11-17 07:05:48.996101",
+      "internal_id": "710aac88e969619ab2265b096bf44b7523c487c5ad9417c6c6713b0bf3b48271",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3155,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.se",
+      "author": null,
+      "title": "Ins\u00e4ndare. \u201dK\u00f6p inte smuggelhundar som kan b\u00e4ra p\u00e5 rabies\u201d",
+      "description": "Hundstallet Svenska Hundskyddsf\u00f6reningen genom Per Leander, generalsekreterare, och Johnny Kroneld, kommunikations- och insamlingschef: Den gulliga hundvalpen som barnen tjatat sig till kan faktiskt vara livsfarlig f\u00f6r m\u00e4nniskan.",
+      "url": "https://www.dn.se/insandare/kop-inte-smuggelhundar-som-kan-bara-pa-rabies/",
+      "urlToImage": "https://cached-images.bonnier.news/gcs/bilder/dn-mly/9003f021-6e90-4845-8d2e-88d26dd201a8.jpeg?interpolation=lanczos-none&fit=around%7C1024:576&crop=1024:h;center,top&output-quality=80",
+      "publishedAt": "2023-11-16 04:00:00",
+      "content": "Illegal inf\u00f6rsel av hundar inneb\u00e4r ett fruktansv\u00e4rt lidande f\u00f6r b\u00e5de de valpar som fraktas till Sverige och f\u00f6r de tikar som exploateras som avelsdjur i valpfabriker. Handeln med smugglade hundar for\u2026 [+4394 chars]",
+      "retrievedAt": "2023-11-17 07:05:47.516349",
+      "internal_id": "348fd5617b160346aa12765d8e74168b0145424bf6d3a17fa8493a8611a5b20a",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3160,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Rwanda: Rwanda On Track to Achieve Zero Malaria in 2030",
+      "description": "[New Times] Rwanda Biomedical Center (RBC) has announced that it targets to achieve 'zero malaria' in 2023 following a significant decline in the infection-related cases, according to officials.",
+      "url": "https://allafrica.com/stories/202311160016.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-16 03:52:43",
+      "content": "Rwanda Biomedical Center (RBC) has announced that it targets to achieve 'zero malaria' in 2023 following a significant decline in the infection-related cases, according to officials. Data from RBC i\u2026 [+2582 chars]",
+      "retrievedAt": "2023-11-17 07:05:49.893296",
+      "internal_id": "4245471b2803ccfb1401a97bc254e98f32240b9a45a818fd50ccdcdd454ac67f",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3161,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "After 7 cases, Maharashtra on zika alert",
+      "description": "In Pune, Maharashtra, the health department has urged increased surveillance following the confirmation of the seventh Zika case in the state. Concerns have also been raised about the growing Zika cases in neighboring Karnataka. Directives include tracking pr\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/after-7-cases-maharashtra-on-zika-alert/articleshow/105245985.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105245998,width-1070,height-580,imgsize-21694,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-16 00:07:41",
+      "content": "How to make no-sugar Ragi Almond Cake at home",
+      "retrievedAt": "2023-11-17 07:05:50.500523",
+      "internal_id": "e1ed288b827119ae93a93bfbcb8221ae41663aba7d133a69081311cc0cee05a3",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3162,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "KPBS",
+      "author": "Jade Hindmon, Andrew Bracken",
+      "title": "Holiday health update: A check on COVID, flu and mpox",
+      "description": "As we get set to reunite with family and friends for the Thanksgiving holiday, we get a temperature check on where things stand with COVID-19, as well as other viruses like the flu and mpox.",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/holiday-health-update-a-check-on-covid-flu-and-mpox",
+      "urlToImage": "https://cdn.kpbs.org/dims4/default/ce8b025/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Fa0%2F3e%2Ff7398c6740158efd358c1aaf5a7e%2Fmb-travel-12.jpg",
+      "publishedAt": "2023-11-15 23:43:38",
+      "content": "S1: Welcome back to Kpbs midday Edition. I'm Jade Hindman. Over the last few years , a lot of us have added one more item to our holiday to do list , and that is how to minimize the spread of illness\u2026 [+11491 chars]",
+      "retrievedAt": "2023-11-17 07:05:51.592281",
+      "internal_id": "9fc423edc21b5b4cb3a6c0596882f4e1c290e5bd440372966d2b7c4171de507f",
+      "publishedAtLabel": "Nov 15"
+    },
+    {
+      "id": 3157,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "espn-cric-info",
+      "source_name": "ESPN Cric Info",
+      "author": "ESPNcricinfo staff",
+      "title": "'After-effects of dengue' to blame for Gill cramping up at Wankhede",
+      "description": "\"Every time he comes on to the park, he does something special,\" Gill says of Kohli",
+      "url": "https://www.espncricinfo.com/story/icc-cricket-world-cup-2023-shubman-gill-cramped-up-because-of-after-effects-of-dengue-1409034",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/371200/371293.6.jpg",
+      "publishedAt": "2023-11-15 19:35:03",
+      "content": "News\"Every time he comes on to the park, he does something special,\" Gill says of Kohli",
+      "retrievedAt": "2023-11-17 07:05:48.991359",
+      "internal_id": "7a90bda59289c27a7b6e4e18487c33c027628058630f1f3c348d430f1faf9043",
+      "publishedAtLabel": "Nov 15"
+    },
     {
       "id": 3150,
       "query": [
@@ -3464,151 +3608,6 @@
       "content": "Citation: Yu EJ, Park E-A, Choe S-A, Lee K-A, Kim YS (2023) Correction: Demographic and Clinico-Epidemiological Features of Dengue Fever in Faisalabad, Pakistan. PLoS ONE 18(11): e0294300. https:/\u2026 [+330 chars]",
       "retrievedAt": "2023-11-08 19:05:26.751329",
       "internal_id": "c5e1c6e1ca617176a307df7cfb6f0b155eeb56c047e0da054823b88ebab0dc91",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2968,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "tagesschau.de",
-      "author": "Pascal Kiss, SWR",
-      "title": "Studie: Mpox-Ausbruch muss schon l\u00e4nger zur\u00fcck liegen",
-      "description": "Warum konnte sich Mpox (fr\u00fcher Affenpocken) 2022 pl\u00f6tzlich so ausbreiten? Eine neue Analyse zeigt nun: Die Virusvariante ist viel fr\u00fcher entstanden als bisher gedacht. Von Pascal Kiss.",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/mpox-ausbruch-theorie-affenpocken-genanalyse-100.html",
-      "urlToImage": "https://images.tagesschau.de/image/962c540e-9afd-422e-95b1-4c3ad56e36d2/AAABhnPqjMo/AAABibBxqrQ/16x9-1280/affenpocken-137.jpg",
-      "publishedAt": "2023-11-07 13:52:58",
-      "content": "Stand: 07.11.2023 14:52 Uhr Warum konnte sich Mpox (fr\u00fcher Affenpocken) 2022 pl\u00f6tzlich so ausbreiten? Eine neue Analyse zeigt nun: Die Virusvariante ist viel fr\u00fcher entstanden als bisher gedacht. P\u2026 [+5690 chars]",
-      "retrievedAt": "2023-11-08 19:05:28.821648",
-      "internal_id": "9b325d903367c777868c7a7a28a022f6ba3e0d92933c1573eaa4dfac71bb6f01",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2969,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Korrespondent.net",
-      "author": "1",
-      "title": "\u041d\u0430 \u0422\u0430\u0439\u0432\u0430\u043d\u0456 \u0437\u0430\u0440\u0435\u0454\u0441\u0442\u0440\u043e\u0432\u0430\u043d\u043e \u043f\u0435\u0440\u0448\u0438\u0439 \u0432\u0438\u043f\u0430\u0434\u043e\u043a \u0441\u043c\u0435\u0440\u0442\u0456 \u0432\u0456\u0434 \u0432\u0456\u0441\u043f\u0438 \u043c\u0430\u0432\u043f",
-      "description": "\u0427\u043e\u043b\u043e\u0432\u0456\u043a \u0437\u0432\u0435\u0440\u043d\u0443\u0432\u0441\u044f \u0434\u043e \u043b\u0456\u043a\u0430\u0440\u0456\u0432 \u0447\u0435\u0440\u0435\u0437 \u043c\u0456\u0441\u044f\u0446\u044c \u043f\u0456\u0441\u043b\u044f \u043f\u043e\u044f\u0432\u0438 \u0432 \u043d\u044c\u043e\u0433\u043e \u0441\u0438\u043c\u043f\u0442\u043e\u043c\u0456\u0432 \u0437\u0430\u0445\u0432\u043e\u0440\u044e\u0432\u0430\u043d\u043d\u044f. \u0412\u0456\u043d \u043d\u0435 \u0431\u0443\u0432 \u0432\u0430\u043a\u0446\u0438\u043d\u043e\u0432\u0430\u043d\u0438\u0439 \u043f\u0440\u043e\u0442\u0438 mpox.",
-      "url": "https://ua.korrespondent.net/world/4638241-na-taivani-zareiestrovano-pershyi-vypadok-smerti-vid-vispy-mavp",
-      "urlToImage": "https://kor.ill.in.ua/m/1260x900/2946947.jpg",
-      "publishedAt": "2023-11-07 13:42:00",
-      "content": "- mpox. - , . - , , , , '. , ' '. . .net Telegram WhatsApp. https://t.me/korrespondentnetWhatsApp",
-      "retrievedAt": "2023-11-08 19:05:28.831986",
-      "internal_id": "6221734e3f5070a7e21a4124839035f8468a76c2c3fe304fea570a16e0f50fa7",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2962,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Voc\u00ea e o Doutor : Saiba como evitar e tratar a dengue",
-      "description": "O quadro Voc\u00ea e o Doutor desta ter\u00e7a-feira (7) fala sobre a dengue. Somente neste ano, foram registrados mais de 1,6 milh\u00e3o de casos, com mil ...",
-      "url": "https://recordtv.r7.com/hoje-em-dia/voce-e-o-doutor/videos/voce-e-o-doutor-saiba-como-evitar-e-tratar-a-dengue-07112023",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/11/07/654a5356cd77c0f230001998/358f86b87b6d4ca583af34a2dc3842ca__2271335_EPP_0711_HD_VOCE_DOUTOR_thumb_thumb.jpg",
-      "publishedAt": "2023-11-07 12:54:00",
-      "content": "O quadro Voc\u00ea e o Doutor desta ter\u00e7a-feira (7) fala sobre a dengue. Somente neste ano, foram registrados mais de 1,6 milh\u00e3o de casos, com mil mortes confirmadas no Brasil. Os n\u00fameros de 2023 preoc\u2026 [+289 chars]",
-      "retrievedAt": "2023-11-08 19:05:26.759770",
-      "internal_id": "766eae94dcb350287c526aeb2ab6c17163793eae60b06f96919016e58876804d",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2959,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Storm.mg",
-      "author": "\u9673\u6021\u7a4e",
-      "title": "\u6211\u570b\u7334\u75d8\u9996\u4f8b\u6b7b\u4ea1\u500b\u6848\uff0130\u6b72\u7537\u78ba\u8a3a\u611b\u6ecb\u300c\u672a\u63a5\u7a2e\u75ab\u82d7\u300d \u767c\u75c53\u500b\u6708\u904e\u4e16",
-      "description": "\u75be\u75c5\u7ba1\u5236\u7f72\uff08\u4e0b\u7a31\u75be\u7ba1\u7f72\uff09\u4eca\uff087\u65e5\uff09\u516c\u5e03\uff0c\u570b\u5167\u9996\u6b21\u51fa\u73fe\u7334\u75d8\uff08Mpox\uff09\u7684\u6b7b\u4ea1\u500b\u6848\uff0c\u60a3\u8005\u70ba\u4e00\u540d30\u591a\u6b72\u7684\u672c\u570b\u7c4d\u7537\u6027\uff0c\u672a\u63a5\u7a2e\u904eMpox\u75ab\u82d7\u3002...",
-      "url": "https://www.storm.mg/lifestyle/4895914",
-      "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2022/05/30/20220530-015136_U720_M766744_9f53.jpg?itok=7hiLpcrD",
-      "publishedAt": "2023-11-07 06:37:47",
-      "content": "7Mpox30Mpox8911MpoxHIV1022111 [LINE] 623Mpox1163553381734312MpoxCD4 &lt;200 cells/mm^336 116108,860Mpox39,55829,744155 82Mpox /()(https://www.cdc.gov.tw)1922(0800-001922)",
-      "retrievedAt": "2023-11-08 07:05:58.653430",
-      "internal_id": "94d10d14c8739a1beb9af2b43f70cd59f39202f4fb3fd9a8a654b81af46b84f8",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2957,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "Nicole McCain",
-      "title": "News24 | More than 7 400 cases and nearly 70 malaria deaths recorded in SA in 2023",
-      "description": "The Department of Health is urging South Africans to be vigilant ahead of 'malaria season' after almost 70 people died of the illness this year.",
-      "url": "https://www.news24.com/news24/southafrica/news/more-than-7-400-cases-and-nearly-70-malaria-deaths-recorded-in-sa-in-2023-20231107",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9526/1043c354cb24440bbf38dc34d74cf7c2.jpg",
-      "publishedAt": "2023-11-07 06:25:17",
-      "content": "The Department of Health is urging South Africans to be vigilant ahead of \"malaria season\" after almost 70 people died of the illness this year. According to health department spokesperson, Foster M\u2026 [+143 chars]",
-      "retrievedAt": "2023-11-08 07:05:57.471812",
-      "internal_id": "5f397024e2d3bf715ecd22815e4b03402ec19c2165b8fa57ad18a397ecc2e0c8",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2955,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Aristeguinoticias.com",
-      "author": "Redacci\u00f3n AN/ SBH",
-      "title": "Tunden a alcald\u00eda por culpar a migrantes de contagiar enfermedades",
-      "description": "El gobierno los se\u00f1ala de ser \u201cla principal fuente de contagios en la zona\u201d de las enfermedades del Dengue, Zika y Chicongunya.",
-      "url": "https://aristeguinoticias.com/0611/mexico/tunden-a-alcaldia-por-culpar-a-migrantes-de-contagiar-enfermedades/",
-      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/11/migrantes-no-transportan-enfermedades-oaxaca.jpg",
-      "publishedAt": "2023-11-07 01:07:01",
-      "content": "Por Diana Manzo. Oaxaca, Oax.- En un comunicado publicado en la cuenta oficial de Facebook H ayuntamiento SDI 22-24, la autoridad municipal de Santo Domingo Ingenio, que encabeza Germa\u00edn Alvarado L\u00f3\u2026 [+2255 chars]",
-      "retrievedAt": "2023-11-08 07:05:56.541387",
-      "internal_id": "4e82e9e37b2da49c4757d8513974843a6ba40330db393b0a91e2f57432652184",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2956,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Livedoor.com",
-      "author": "GIGAZINE\uff08\u30ae\u30ac\u30b8\u30f3\uff09",
-      "title": "\u7814\u7a76\u8005\u304c\u30dc\u30eb\u30d0\u30ad\u30a2\u306b\u611f\u67d3\u3055\u305b\u305f\u868a\u304c\u30c7\u30f3\u30b0\u71b1\u3092\u5927\u5e45\u306b\u6e1b\u3089\u3057\u3066\u3044\u308b",
-      "description": "\u30c7\u30f3\u30b0\u71b1\u611f\u67d3\u3092\u9632\u3050\u305f\u3081\u3001\u975e\u55b6\u5229\u56e3\u4f53\u300c\u30ef\u30fc\u30eb\u30c9\u30fb\u30e2\u30b9\u30ad\u30fc\u30c8\u30fb\u30d7\u30ed\u30b0\u30e9\u30e0(WMP)\u300d\u306e\u7814\u7a76\u8005\u3089\u306f\u868a\u306b\u300c\u30dc\u30eb\u30d0\u30ad\u30a2\u300d\u3068\u3044\u3046\u7d30\u83cc\u3092\u611f\u67d3\u3055\u305b\u3066\u4e16\u306b\u653e\u3063\u3066\u3044\u307e\u3059\u3002\u3053\u306e\u53d6\u308a\u7d44\u307f\u306e\u7d50\u679c\u304c\u5831\u544a\u3055\u308c\u3001\u4e00\u90e8\u5730\u57df\u3067\u306f\u30c7\u30f3\u30b0\u71b1\u304c97\uff05\u6e1b\u5c11\u3057\u305f\u3053\u3068\u304c\u660e\u3089\u304b\u306b\u306a\u308a\u307e\u3057\u305f\u3002Dengue rates plunged after release of lab-altered mosquitoes - DW - 10/31/2023https://www.dw.com/en/dengue-rates-plummeted-in-colombia-aft\u2026",
-      "url": "https://news.livedoor.com/article/detail/25305976/",
-      "urlToImage": "https://image.news.livedoor.com/newsimage/stf/5/b/5baf1_88_d6fc29824c9f3714edf43d23fa01e8c4.jpg",
-      "publishedAt": "2023-11-07 00:00:00",
-      "content": "(WMP)97 Dengue rates plunged after release of lab-altered mosquitoes - DW - 10/31/2023 https://www.dw.com/en/dengue-rates-plummeted-in-colombia-after-lab-infected-mosquito-release/a-67268943 WMP \u2026 [+40 chars]",
-      "retrievedAt": "2023-11-08 07:05:56.557861",
-      "internal_id": "ed060f3139dd420be30fa1c02c77ed52fef59ccb81523e480112e87727f561ab",
-      "publishedAtLabel": "Nov 7"
-    },
-    {
-      "id": 2958,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Elifesciences.org",
-      "author": "nicolas.brancucci@swisstph.ch (Alexander Schmidt), nicolas.brancucci@swisstph.ch (Armin Passecker), nicolas.brancucci@swisstph.ch (Basil T Thommen), nicolas.brancucci@swisstph.ch (Christin Gumpp), nicolas.brancucci@swisstph.ch (Christof Gr\u00fcring), nicolas.brancucci@swisstph.ch (Fiona Achcar), nicolas.brancucci@swisstph.ch (Jerzy M Dziekan), nicolas.brancucci@swisstph.ch (Katarzyna Buczak), nicolas.brancucci@swisstph.ch (Matthias Marti), nicolas.brancucci@swisstph.ch (Matthias Rottmann), nicolas.brancucci@swisstph.ch (Nicolas MB Brancucci), nicolas.brancucci@swisstph.ch (Seth Tjia), nicolas.brancucci@swisstph.ch (Zbynek Bozdech)",
-      "title": "Genetic validation of PfFKBP35 as an antimalarial drug target",
-      "description": "Plasmodium falciparum accounts for the majority of over 600,000 malaria-associated deaths annually. Parasites resistant to nearly all antimalarials have emerged and the need for drugs with alternative modes of action is thus undoubted. The FK506-binding prote\u2026",
-      "url": "https://elifesciences.org/articles/86975",
-      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
-      "publishedAt": "2023-11-07 00:00:00",
-      "content": "Members of the FKBP family are involved in regulating diverse cellular processes in eukaryotic as well as in prokaryotic cells (Kang et al., 2008; \u00dcnal and Steinert, 2015). In contrast to most other \u2026 [+12607 chars]",
-      "retrievedAt": "2023-11-08 07:05:57.480713",
-      "internal_id": "97946b51a8f7ae6c8231c7364d0c1362f3d47ea8f7983678a7e10c4086525bee",
       "publishedAtLabel": "Nov 7"
     }
   ]
