@@ -1,8 +1,350 @@
 {
-  "last_updated": "2023-11-18 07:05",
+  "last_updated": "2023-11-18 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 13,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 3191,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "https://www.forbes.com/",
+      "title": "Measles Stages \u2018Staggering\u2019 Comeback As Vaccination Drops \u2014 Here\u2019s What To Know About The Returning Killer",
+      "description": "Measles is staging an alarming comeback across the globe, the World Health Organization and Centers for Disease Control and Prevention warned on Thursday, with cases of the often forgotten killer climbing.",
+      "url": "https://www.forbes.com/video/6341324782112/measles-stages-staggering-comeback-as-vaccination-drops--heres-what-to-know-about-the-returning-killer/",
+      "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2023/11/17/6341324782112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
+      "publishedAt": "2023-11-17 19:02:27",
+      "content": "Measles is staging an alarming comeback across the globe, the World Health Organization and Centers for Disease Control and Prevention warned on Thursday, with cases of the often forgotten killer cli\u2026 [+5 chars]",
+      "retrievedAt": "2023-11-18 19:05:18.777420",
+      "internal_id": "a9f486f8fd165714a9459a6aff3bbe9a8538f29a7e3aa684aa1e96f16ee89beb",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3203,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "In the fight against malaria-carrying mosquitoes, just add soap",
+      "description": "Could the solution to the decades-long battle against malaria be as simple as soap? In a new study published in PLOS Neglected Tropical Diseases, scientists at The University of Texas at El Paso have made a compelling case for it.",
+      "url": "https://phys.org/news/2023-11-malaria-carrying-mosquitoes-soap.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/in-the-fight-against-m.jpg",
+      "publishedAt": "2023-11-17 19:00:06",
+      "content": "Could the solution to the decades-long battle against malaria be as simple as soap? In a new study published in PLOS Neglected Tropical Diseases, scientists at The University of Texas at El Paso have\u2026 [+3972 chars]",
+      "retrievedAt": "2023-11-18 19:05:21.211318",
+      "internal_id": "fe48a72a70930f4559751fd4d3a2cdf6316bdc2bb659d4db2cca52815632650f",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3202,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Pandora Dewan",
+      "title": "Repellent-Resistant Mosquitoes Can't Stand an Item in Your Bathroom",
+      "description": "This low-cost ingredient can increase the potency of insecticides by more than 10-fold.",
+      "url": "https://www.newsweek.com/repellent-resistant-mosquitoes-bathroom-pesticides-1844806",
+      "urlToImage": "https://d.newsweek.com/en/full/2310997/mosquito-cleaning-products.png",
+      "publishedAt": "2023-11-17 19:00:01",
+      "content": "The deadliest animal on the planet could be destroyed by a simple household product, scientists say. Mosquitoes kill more people that any other animal in the world by spreading diseases like malaria\u2026 [+3287 chars]",
+      "retrievedAt": "2023-11-18 19:05:21.202170",
+      "internal_id": "8687ba1d2dd6794a1f926c986ad3792d7a932d1cf31381463a5006053613eb83",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3198,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarm",
+      "description": "From 2021 to 2022, measles deaths increased 43 percent.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172259123",
+      "urlToImage": null,
+      "publishedAt": "2023-11-17 18:56:32",
+      "content": "A large number of installed systems work by fiat. That is, they work by being declared to work. -- Anatol Holt",
+      "retrievedAt": "2023-11-18 19:05:18.818617",
+      "internal_id": "2ee722cae2dcf6dd70f24384f82c28a170ddc76e95f9853ad8dbdc7dccb7ea31",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3199,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "1news.co.nz",
+      "author": "Anna Murray",
+      "title": "The cost of measles: Why NZers should care about vaccination rates",
+      "description": "The global measles threat is growing, according to the World Health Organization \u2013 and NZ is not immune to that danger.",
+      "url": "https://www.1news.co.nz/2023/11/18/the-cost-of-measles-why-nzers-should-care-about-vaccination-rates/",
+      "urlToImage": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/UWUNW5N67BDBHK5XLNYSU6MCIA.jpg?auth=09b85a9c409ca9bd84d7cc6e5ccc50a0384e68a41f33197dcedb548e8a9daa9e&width=600&height=315&focal=638,299",
+      "publishedAt": "2023-11-17 18:40:12",
+      "content": "The global measles threat is growing, according to the World Health Organization and New Zealand is not immune to that danger, writes Anna Murray. Its been four years since Samoas devastating measle\u2026 [+6252 chars]",
+      "retrievedAt": "2023-11-18 19:05:18.823594",
+      "internal_id": "f7538bea028fd518235ceaf530d9bd154d16905955ec253ce1773886582fa354",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3189,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WMUR Manchester",
+      "author": "Kirk Enstrom",
+      "title": "Rabies confirmed in stray kittens in found in North Conway NH",
+      "description": "Two stray kittens found this month in North Conway were found to have rabies, and New Hampshire health officials are trying to locate anyone who had contact with them.",
+      "url": "https://www.wmur.com/article/rabies-stray-kittens-north-conway-new-hampshire/45876502",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wmur/32717010-32717010.jpg?crop=1.00xw:0.433xh;0,0&resize=1200:*",
+      "publishedAt": "2023-11-17 18:34:48",
+      "content": "CONCORD, N.H. \u2014Two stray kittens found this month in North Conway were found to have rabies, and New Hampshire health officials are trying to locate anyone who had contact with them. The Department \u2026 [+1815 chars]",
+      "retrievedAt": "2023-11-18 19:05:17.761593",
+      "internal_id": "1675b71ca0c0029941d071f6dfd1a606dd7a0bc2c14d471a9acd8d57ef7ea863",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3197,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarm - Ars Technica",
+      "description": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarmArs Technica Measles deaths worldwide jumped 40% last year, health agencies sayMedical Xpress 'Staggering' rise in measles cases last year, says WHO and CDCYahoo News Global measles thr\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172258951",
+      "urlToImage": null,
+      "publishedAt": "2023-11-17 18:32:05",
+      "content": "A large number of installed systems work by fiat. That is, they work by being declared to work. -- Anatol Holt",
+      "retrievedAt": "2023-11-18 19:05:18.811662",
+      "internal_id": "7dda0e9ef901934d13b68672d862facf2aeb4f5ea4aac967432b7f23f9a0d4d9",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3190,
+      "query": [
+        "measles"
+      ],
+      "source_id": "ars-technica",
+      "source_name": "Ars Technica",
+      "author": "Beth Mole",
+      "title": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarm",
+      "description": "From 2021 to 2022, measles deaths increased 43 percent.",
+      "url": "https://arstechnica.com/health/2023/11/global-measles-cases-deaths-rising-as-vaccination-still-low-after-covid-crash/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/measles-760x380.jpg",
+      "publishedAt": "2023-11-17 17:29:57",
+      "content": "Enlarge/ A baby with measles. 25 with The World Health Organization and the US Centers for Disease Control and Prevention are sounding the alarm over the global rise of measles cases, deaths, and\u2026 [+3245 chars]",
+      "retrievedAt": "2023-11-18 19:05:18.772437",
+      "internal_id": "8bb70b009d9381d83b5e3c9df9199a5462d6274607641d8bb193df064b7de7f7",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3207,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Ilona Hanne",
+      "title": "Stratford A&P Show: Wellness a focus at this year\u2019s show with leptospirosis testing",
+      "description": "A focus is leptospirosis testing. The disease can cause long-term fatigue.",
+      "url": "https://www.nzherald.co.nz/stratford-press/news/stratford-ap-show-wellness-a-focus-at-this-years-show-with-leptospirosis-testing/TAQC2B32W5F4VJDWK6PPJBH6YM/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/AV7PnI2itOjPCjDCA6fuJZkEiAs=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/UBM3K6WJBVEGBDXXZBR7DK6QHU.jpg",
+      "publishedAt": "2023-11-17 17:00:00",
+      "content": "Testing for leptospirosis is on offer at the wellness area at the Stratford A&amp;P Show. Photo / Getty ImagesThis years Stratford A&amp;P Show will feature a dedicated area for farmer wellbeing. Th\u2026 [+2177 chars]",
+      "retrievedAt": "2023-11-18 19:05:23.160290",
+      "internal_id": "08df62561bfe6b3ba1a6d25f1eeb8a3420fe68bffa1cacffd61b5268e7c725a0",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3196,
+      "query": [
+        "measles"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Lenin Ndebele",
+      "title": "News24 | About 75% of global measles cases in 2022 were in Africa",
+      "description": "About 75% of global measles cases in 2022 were in Africa during a year in which there was an 18% increase in the number of global cases and 48% of fatalities compared to 2021, the World Health Organisation (WHO) said.",
+      "url": "https://www.news24.com/news24/africa/news/about-75-of-global-measles-cases-in-2022-were-in-africa-20231117",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/4997/aa42072cb7234c7e965d2d80d7f17492.png",
+      "publishedAt": "2023-11-17 16:55:42",
+      "content": "About 6.75 million measles cases were recorded in Africa in 2022, an 18% increase from 2021. Covid-19 disrupted measles vaccination programmes, resulting in about 33 million children\u2026 [+3368 chars]",
+      "retrievedAt": "2023-11-18 19:05:18.806233",
+      "internal_id": "7306cd95bcac7dcae9cf439c0b9d6ff30399764692cef97cce4c3ba80327294e",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3200,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+      "title": "Muore per la dengue dopo un viaggio in Thailandia, disinfestazione contro le zanzare a Fucecchio e San Miniato",
+      "description": "In Toscana nel 2023 sono stati registrati 14 casi",
+      "url": "https://firenze.repubblica.it/cronaca/2023/11/17/news/pisa_muore_per_la_dengue_dopo_un_viaggio_in_thailandia_disinfestazione_san_miniato_fucecchio-420593624/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-firenze/2023/11/17/164316871-47a60b60-f857-4332-8ded-a1dd34078b9d.jpg",
+      "publishedAt": "2023-11-17 15:43:19",
+      "content": "2016 Getty Images In Toscana nel 2023 sono stati registrati 14 casi",
+      "retrievedAt": "2023-11-18 19:05:19.680117",
+      "internal_id": "33b3df0e1f4a54ad92f591f550bf5917951529ba3a61c5ed1ac2d1c068e612ce",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3205,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Fred A. Ashu, Caroline Fouet, Marilene M. Ambadiang, V\u00e9ronique Penlap-Beng, Colince Kamdem",
+      "title": "Vegetable oil-based surfactants are adjuvants that enhance the efficacy of neonicotinoid insecticides and can bias susceptibility testing in adult mosquitoes",
+      "description": "Author summary Monitoring the susceptibility of insect populations to chemical insecticides provides vital information for resistance management. New chemicals are being tested and added to the arsenal used for malaria prevention. As a result, the World Healt\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011737",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011737.g003&size=inline",
+      "publishedAt": "2023-11-17 14:00:00",
+      "content": "Abstract Background The standard operating procedure for testing the susceptibility of adult mosquitoes to neonicotinoid or butenolide insecticides recommends using a vegetable oil ester (Mero) as \u2026 [+45639 chars]",
+      "retrievedAt": "2023-11-18 19:05:21.223531",
+      "internal_id": "76709e06a6ae93bfce653ede185089eac11a2e5becd72e756378aa0dd88c3c3a",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3192,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "Measles Stages \u2018Staggering\u2019 Comeback As Vaccination Drops \u2014 Here\u2019s What To Know About The Returning Killer",
+      "description": "Measles can kill and is so contagious that almost everyone who is exposed to an infectious person will catch it if not vaccinated.",
+      "url": "https://www.forbes.com/sites/roberthart/2023/11/17/measles-stages-staggering-comeback-as-vaccination-drops---heres-what-to-know-about-the-returning-killer/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6557681b534af006dc3ccb03/0x0.jpg?format=jpg&crop=2465,1386,x0,y125,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-11-17 13:22:54",
+      "content": "Measles is staging an alarming comeback across the globe, the World Health Organization and Centers for Disease Control and Prevention warned on Thursday, with cases of the often forgotten killer cli\u2026 [+5601 chars]",
+      "retrievedAt": "2023-11-18 19:05:18.781539",
+      "internal_id": "4ef4208debeba11fb7fabf4ed82955f4ddb0fbae9d4a95a33d37949ddd3ecb64",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3204,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Us Strengthens Tanzania Anti-Malaria Laboratory Capacity",
+      "description": "[Daily News] DAR ES SALAAM: THE US through its Agency for International Development (USAID) and the US President's Malaria Initiative, delivered equipment at the Muhimbili College of Health and Allied Sciences.",
+      "url": "https://allafrica.com/stories/202311170433.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-17 12:41:59",
+      "content": "DAR ES SALAAM: THE US through its Agency for International Development (USAID) and the US President's Malaria Initiative, delivered equipment at the Muhimbili College of Health and Allied Sciences. \u2026 [+2155 chars]",
+      "retrievedAt": "2023-11-18 19:05:21.216740",
+      "internal_id": "a66d82557d9f73d6801c4beec65a83563e76b2289dd72c32ff47d19ac6940532",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3195,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Global Measles Threat",
+      "description": "Urgent global action is needed to protect children from measles.",
+      "url": "https://www.cdc.gov/globalhealth/measles/index.html",
+      "urlToImage": "https://www.cdc.gov/globalhealth/measles/images/og-global-measles-rubella-fb-1080x1080-1.png?_=96350",
+      "publishedAt": "2023-11-17 12:00:00",
+      "content": "Measles and rubella are vaccine-preventable diseases, yet rubella is the leading cause of vaccine-preventable birth defects, and measles still claimed the lives of 136,000 people (mostly children) wo\u2026 [+15 chars]",
+      "retrievedAt": "2023-11-18 19:05:18.803604",
+      "internal_id": "3407e96f381e28516b14f27c689f78601bd78b2e6c7bde06f226851ac51072be",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3206,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Emergex Vaccines Holding Ltd",
+      "title": "Emergex Signs Contract of \u00a31.79M with the UK Department of Health and Social Care\u2019s UK Vaccine Network (\u201cUKVN\u201d) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus",
+      "description": "ABINGDON, United Kingdom, Nov. 17, 2023 (GLOBE NEWSWIRE) -- Emergex Vaccines Holding Limited (\u2018Emergex\u2019), a clinical-stage biotechnology company addressing major global infectious diseases through the development of 100% synthetic T cell-priming immune set-po\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/11/17/2782493/0/en/Emergex-Signs-Contract-of-1-79M-with-the-UK-Department-of-Health-and-Social-Care-s-UK-Vaccine-Network-UKVN-to-Advance-Its-Novel-Synthetic-T-Cell-Priming-Set-Point-Candidate-Against.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/6acf700c-6d50-44ab-a7ac-8de598c1a9ff",
+      "publishedAt": "2023-11-17 12:00:00",
+      "content": "ABINGDON, United Kingdom, Nov. 17, 2023 (GLOBE NEWSWIRE) -- Emergex Vaccines Holding Limited (Emergex), a clinical-stage biotechnology company addressing major global infectious diseases through the \u2026 [+7395 chars]",
+      "retrievedAt": "2023-11-18 19:05:21.759138",
+      "internal_id": "0d654df24350a935cd69c021178c038ad518f3315b971c4384dbe558a268aae1",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3194,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "ABC News",
+      "title": "'Staggering' rise in measles cases last year, health agencies say",
+      "description": "A report from the Wold Health Organization and US Centers for Disease Control and Prevention shows cases jumped by 18 per cent to an estimated 9 million in 2022.",
+      "url": "https://www.abc.net.au/news/2023-11-17/world-health-organization-report-rise-in-measles/103119292",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a413e91c1e7172c20b49c0cfc119f820?impolicy=wcms_crop_resize&cropH=241&cropW=428&xPos=0&yPos=42&width=862&height=485",
+      "publishedAt": "2023-11-17 09:23:08",
+      "content": "There was a \"staggering\" annual rise in measles cases and deaths in 2022, according to a new report from the World Health Organization (WHO) and the US Centers for Disease Control and Prevention (CDC\u2026 [+1996 chars]",
+      "retrievedAt": "2023-11-18 19:05:18.790309",
+      "internal_id": "c5872331d005b9bab96a26c716c6c8dbcd935b00ebe75b32470d2a4260d7e0cb",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3201,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "ed.lepays@cenatrin.bf (Le Pays)",
+      "title": "Burkina Faso: \u00c9pidemie de la dengue - \u00c0 quand l'\u00e9tat d'urgence sanitaire ?",
+      "description": "[Le Pays] Le sort s'acharne-t-il sur la Burkina Faso ? Telle est la question que je ne puis m'emp\u00eacher de me poser. En effet, en 2020, alors que le pays ployait sous le coup des attaques terroristes, vint l'\u00e9pid\u00e9mie du Covid-19 qui a contribu\u00e9 \u00e0 endeuiller de\u2026",
+      "url": "https://fr.allafrica.com/stories/202311170118.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-17 08:25:39",
+      "content": "Le sort s'acharne-t-il sur la Burkina Faso ? Telle est la question que je ne puis m'emp\u00eacher de me poser. En effet, en 2020, alors que le pays ployait sous le coup des attaques terroristes, vint l'\u00e9p\u2026 [+3125 chars]",
+      "retrievedAt": "2023-11-18 19:05:19.685883",
+      "internal_id": "5b376a59715b73a3465f6e4702dc44cf695137acbae7d9afa1e7a47214b6384a",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3193,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Fast Company",
+      "author": "Michael Grothaus",
+      "title": "Measles deaths worldwide have increased dramatically thanks to a decline in vaccinations",
+      "description": "The U.S. Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO) have released a new report about the progress being made toward eliminating the measles virus. Things aren\u2019t going well. According to the report, measles case\u2026",
+      "url": "https://www.fastcompany.com/90984633/measles-cases-deaths-dramatic-increase-worldwide-vaccinations-cdc",
+      "urlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2023/11/p-1-90984633-measles-deaths-are-up-vaccination-decline.jpg",
+      "publishedAt": "2023-11-17 08:24:00",
+      "content": "The U.S. Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO) have released a new report about the progress being made toward eliminating the measles virus. Things\u2026 [+2115 chars]",
+      "retrievedAt": "2023-11-18 19:05:18.787281",
+      "internal_id": "244e7f12c892ed90d3b2a685f0b059f808022ceeb1342b3c5932b5e28cfa60a3",
+      "publishedAtLabel": "Nov 17"
+    },
     {
       "id": 3187,
       "query": [
@@ -3266,349 +3608,6 @@
       "retrievedAt": "2023-11-10 19:05:30.118226",
       "internal_id": "978ee97ecc8100a96d508f91b32ff4270ea64c41d0754afa70a9442257ba4706",
       "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3010,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "Jess de Jong",
-      "title": "Comment: Calving time on the farm means key vaccinations are due",
-      "description": "Opinion: There are five main clostridial diseases - most come from diseases in the soil.",
-      "url": "https://www.nzherald.co.nz/waikato-news/news/comment-calving-time-on-the-farm-means-key-vaccinations-are-due/GZRNQOZ7SFDTZM4XBGU575XBB4/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/ZybX5dIvCr8bho4v0aBrQbiI1Kk=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/OZ7VOHBSYNGBDBW2ZWUVYY4DLI.jpg",
-      "publishedAt": "2023-11-09 16:00:00",
-      "content": "Key dairy calf vaccinations are for clostridial vaccines and leptospirosis. Photo / DairyNZOPINION Its time to get calves their vaccinations to protect them from diseases in the surrounding environm\u2026 [+3137 chars]",
-      "retrievedAt": "2023-11-10 19:05:30.479152",
-      "internal_id": "23a931885032f76f76121012929179023310d20eeb2764c3066b4ae1c2cfc360",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3008,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Yale.edu",
-      "author": "news@yale.edu (Yale News)",
-      "title": "Study identifies countries vulnerable to extensively drug-resistant typhoid",
-      "description": "Yale School of Public Health researchers examined travel and transmission data to help predict future outbreaks of a resistant strain that emerged in Pakistan.",
-      "url": "https://ysph.yale.edu/news-article/study-identifies-countries-vulnerable-to-extensively-drug-resistant-typhoid/",
-      "urlToImage": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/7ee5f1a0-375a-4552-9d86-534aebb73054",
-      "publishedAt": "2023-11-09 15:31:12",
-      "content": "Using air travel records and data on where local conditions make transmission more likely, Yale School of Public Health (YSPH)researchers have identified countries where outbreaks of an extensively d\u2026 [+4534 chars]",
-      "retrievedAt": "2023-11-10 19:05:30.113141",
-      "internal_id": "d457fb859876f1d24a14af9895a97d817ad621805b0c1a7f6ec0d879373d90d6",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3001,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Cassia F. Estofolete, Alice F. Versiani, Fernanda S. Dourado, Bruno H. G. A. Milhim, Carolina C. Pacca, Gislaine C. D. Silva, Nathalia Zini, Barbara F. dos Santos, Flora A. Gandolfi, Natalia F. B. Mistr\u00e3o, Pedro H. C. Garcia, Rodrigo S. Rocha, Lee Gehrke, Irene Bosch, Rafael E. Marques, Mauro M. Teixeira, Flavio G. da Fonseca, Nikos Vasilakis, Maur\u00edcio L. Nogueira",
-      "title": "Influence of previous Zika virus infection on acute dengue episode",
-      "description": "Author summary Although dengue is a disease known for years in the world and has been affecting several continents, some aspects remain unclear. One of them is about the possible factors that may influence the development of severe forms of the disease. Much \u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011710",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011710.g006&size=inline",
-      "publishedAt": "2023-11-09 14:00:00",
-      "content": "Citation: Estofolete CF, Versiani AF, Dourado FS, Milhim BHGA, Pacca CC, Silva GCD, et al. (2023) Influence of previous Zika virus infection on acute dengue episode. PLoS Negl Trop Dis 17(11): e001\u2026 [+51258 chars]",
-      "retrievedAt": "2023-11-10 19:05:28.213659",
-      "internal_id": "4c098b3f107966de3a5452c676a12386415e4eae96227e0e46b8852057161493",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3005,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "James A. Watson, Thomas J. Peto, Nicholas J. White",
-      "title": "Rectal artesunate suppositories for the pre-referral treatment of suspected severe malaria",
-      "description": "In this Policy Forum article, James A. Watson and colleagues discuss recent guidelines relating to pre-referral treatment of suspected severe malaria with rectal artesunate suppositories in remote areas.",
-      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004312",
-      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004312.g002&size=inline",
-      "publishedAt": "2023-11-09 14:00:00",
-      "content": "Citation: Watson JA, Peto TJ, White NJ (2023) Rectal artesunate suppositories for the pre-referral treatment of suspected severe malaria. PLoS Med 20(11): e1004312. https://doi.org/10.1371/journal\u2026 [+29984 chars]",
-      "retrievedAt": "2023-11-10 19:05:28.863723",
-      "internal_id": "832280a706d5e1e5e521b980c62260e419022be4e1ab8dcdc996e98e573963ca",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3006,
-      "query": [
-        "zika"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": null,
-      "title": "Dr. Tom Frieden: Covid-19 is still around, and so are these misconceptions | CNN",
-      "description": "Covid-19 hasn\u2019t gone away, and it won\u2019t any time soon. It\u2019s now part of the landscape of health threats. Although the coronavirus continues to kill and cause lasting damage, our immunity, vaccines and treatments have tamed the pandemic.",
-      "url": "https://www.cnn.com/2023/11/09/health/tom-frieden-covid-19-misconceptions/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231108180448-covid-vaccine-01052023.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-11-09 13:43:31",
-      "content": "Editors note: Dr. Tom Frieden was director of the US Centers for Disease Control and Prevention from 2009 to 2017, where he oversaw responses to the H1N1 influenza, Ebola and Zika epidemics. He is pr\u2026 [+8217 chars]",
-      "retrievedAt": "2023-11-10 19:05:29.176039",
-      "internal_id": "47014dcd3842370993c320dd9170f00e4299c60f46f4817b42258df44bb377d5",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3004,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Dirisu Yakubu",
-      "title": "Reps okay nationwide survey on fake anti-malaria drugs",
-      "description": "In June 2018, NAFDAC was informed of the circulation of some fake varieties of anti-malaria drugs imported fraudulently from India. Counterfeit/fake anti-malaria drugs are mostly observed to be deliberately made to look like brand name drugs or may have no ac\u2026",
-      "url": "https://punchng.com/reps-okay-nationwide-survey-on-fake-anti-malaria-drugs/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2020/07/12161649/House-of-Reps4.jpg",
-      "publishedAt": "2023-11-09 13:14:45",
-      "content": "The House of Representatives on Thursday mandated its Committee on HIV/AIDS, Tuberculosis and Malaria Control to carry out a baseline survey across the six geo-political zones of the country on fake \u2026 [+2958 chars]",
-      "retrievedAt": "2023-11-10 19:05:28.857250",
-      "internal_id": "ba8627eae653b47bf2032407f398b67447fc4bf2617643247843ac992bb7f6b8",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3007,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "POLITICO.eu",
-      "author": "Claudia Chiappa",
-      "title": "Gaza faces imminent typhoid, cholera outbreak, health bodies warn",
-      "description": "Lack of safe water and disruption to health and sanitation services are raising the threat of infectious disease outbreaks.",
-      "url": "https://www.politico.eu/article/health-chiefs-warn-of-imminent-typhoid-cholera-outbreaks-in-gaza/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/11/09/GettyImages-1761504974-scaled.jpg",
-      "publishedAt": "2023-11-09 10:36:34",
-      "content": "Health organizations are warning of an imminent public health crisis in the Gaza Strip, where disruptions to health and water systems are raising the risk of disease outbreaks. The International Res\u2026 [+1492 chars]",
-      "retrievedAt": "2023-11-10 19:05:30.104317",
-      "internal_id": "ae4138536ab17a4d1f1e3cfca91c0b393b14ce2a26f25414ea14590f29da0ddd",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3003,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Insurance Journal",
-      "author": "Admin",
-      "title": "Peace Corps to Pay $750,000 in Settlement to Family of Illinois Woman Who Died After Misdiagnosis in East Africa",
-      "description": "The Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agency\u2019s doctors misdiagnosed a case of malaria, a law firm announced Tuesday. Bernice Heiderman \u2026",
-      "url": "https://www.insurancejournal.com/news/midwest/2023/11/09/747638.htm",
-      "urlToImage": "https://www.insurancejournal.com/app/uploads/2021/01/settlement-legal-scaled.jpg",
-      "publishedAt": "2023-11-09 10:30:14",
-      "content": "The Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agency\u2019s doctors misdiagnosed a case of malaria, a law firm\u2026 [+2391 chars]",
-      "retrievedAt": "2023-11-10 19:05:28.852008",
-      "internal_id": "667967678faa18ab2f6fd972cb7f67dc564c99fcc42157761c4933e1d6ac609a",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 2998,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Week Magazine",
-      "author": "theweekonlineeditors@futurenet.com (Devika Rao, The Week US)",
-      "title": "An increasing number of dog owners are 'vaccine hesitant' about rabies",
-      "description": "A new survey points to canine vaccine hesitancy",
-      "url": "https://theweek.com/health/dog-owners-increasing-vaccine-hesitant-rabies",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HiAHemPoqqVQsqWT23Pvfa-1200-80.jpg",
-      "publishedAt": "2023-11-09 09:25:37",
-      "content": "Vaccine worries are spilling over to the world of pet ownership. Roughly half of pet owners show some level of canine vaccine hesitancy, per a study published in the journal Vaccine . Specifically,\u2026 [+2019 chars]",
-      "retrievedAt": "2023-11-10 19:05:27.401282",
-      "internal_id": "5801a2d9cb8ae1a453e9110b77bf3686050c1cd52ae5af4ad319ab91a87044e8",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 2996,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Hbvl.be",
-      "author": "J\u00fcrgen Schrooten",
-      "title": "Kinrooise Chlo\u00eb Boonen (15) had als kind malaria, maar is nu Belgisch kampioene motorcross",
-      "description": "Maar liefst 170 dames hebben zich ingeschreven voor de Ladies Day in Lille komende zondag. Onder hen ook Chlo\u00eb Boonen. De 15-jarige Kinrooise - die als kind malaria had - kroonde zich dit jaar tot Belgisch kampioene bij de dames B.",
-      "url": "https://www.hbvl.be/cnt/dmf20231108_96053599",
-      "urlToImage": "https://static.hbvl.be/Assets/Images_Upload/2023/11/08/0d613e4f-28dd-465a-8cc2-f92b478881de.jpg?maxheight=460&maxwidth=629",
-      "publishedAt": "2023-11-09 02:00:00",
-      "content": "Maar liefst 170 dames hebben zich ingeschreven voor de Ladies Day in Lille komende zondag. Onder hen ook Chlo\u00eb Boonen. De 15-jarige Kinrooise - die als kind malaria had - kroonde zich dit jaar tot Be\u2026 [+31 chars]",
-      "retrievedAt": "2023-11-10 07:05:39.107976",
-      "internal_id": "9fb4382be6a0cb4ae97f32a48dd0bd5985fb3c3e9bc70af2f0364aad0dbd3e28",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 2997,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Elespanol.com",
-      "author": "Mar\u00eda P. Bonmat\u00ed",
-      "title": "Los casos de tuberculosis registrados en el mundo baten r\u00e9cords: mat\u00f3 m\u00e1s que la Covid en 2022",
-      "description": "La enfermedad acab\u00f3 con 1,3 millones de vidas el pasado a\u00f1o a pesar de que es prevenible y existe tratamiento.",
-      "url": "https://www.elespanol.com/ciencia/salud/20231109/casos-tuberculosis-registrados-mundo-baten-records-mato-covid/808169609_0.html",
-      "urlToImage": "https://s1.eestatic.com/2023/11/08/ciencia/salud/808180200_237450568_1200x630.jpg",
-      "publishedAt": "2023-11-09 01:50:33",
-      "content": "En los \u00faltimos dos siglos, la tuberculosis ha matado a m\u00e1s personas que la malaria, la viruela, la peste, el c\u00f3lera, la gripe y el VIH juntos. La enfermedad es tan peligrosa que hubo un tiempo, no mu\u2026 [+4784 chars]",
-      "retrievedAt": "2023-11-10 07:05:39.138920",
-      "internal_id": "49509764fefd8a13d5c854a1c4d108cf8135f602454e389d9f39bb21c6986d79",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 2994,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Ohmynews.com",
-      "author": "\uc720\ucc3d\uc7ac",
-      "title": "'\ubc1c\uc791\uc131 \uae30\uce68' \ubc31\uc77c\ud574 \uc99d\uac00... \uc9c8\ubcd1\uccad, \uc5b4\ub9b0\uc774 \ucd94\uac00 \uc811\uc885 \ub2f9\ubd80",
-      "description": "\ubc1c\uc791\uc801\uc73c\ub85c \uae30\uce68\ud558\uba70, \uae30\uce68 \ud6c4 \uad6c\ud1a0\ub098 \ubb34\ud638\ud761 \ub4f1\uc758 \uc99d\uc0c1\uc774 \ub098\ud0c0\ub0a0 \uc218 \uc788\ub294 '\ubc31\uc77c\ud574' \ud658\uc790\uac00 \ucd5c\uadfc 5\uc8fc\uac04 \uc99d\uac00\ud558\uace0 \uc788\ub294 \ucd94\uc138\uc778 \uac83\uc73c\ub85c \ub098\ud0c0\ub0ac\ub2e4. \uc774\uc5d0 \uc9c8\ubcd1\uad00\ub9ac\uccad(\uccad\uc7a5 \uc9c0\uc601\ubbf8)\uc5d0\uc11c \ub2e8\uccb4\uc0dd\ud65c\uc744 \ud558\ub294 \uc5b4\ub9b0\uc774 \uc911 \ucd94\uac00 \uc811\uc885\uc744 \ud558\uc9c0 \uc54a\uc740 \uc5b4\ub9b0\uc774\ub294 \uac10\uc5fc \uc704\ud5d8\uc774 \ub192\uae30\uc5d0 \uc608\ubc29\uc811\uc885\uc744 \ub2f9\ubd80\ud558\uace0 \uc788\ub2e4. \uc9c8\ubcd1\uad00\ub9ac\uccad(\uc544\ub798 \uc9c8\ubcd1\uccad)\uc740 9\uc77c \"\uc62c\ud574 \ubc31\uc77c\ud574 \ud658\uc790\uac00 \uc9c0\ub09c 4\uc77c \uae30\uc900\uc73c\ub85c 83\uba85(\uc758\uc0ac\ud658\uc790 \ud3ec\ud568)\uc73c\ub85c 2022\ub144 \ub3d9\uae30\uac04 25\uba85 \ub300\ube44 \uc99d\uac00\ud558\uace0 \uc788\ub2e4\"\uace0 \ubc1d\ud614\ub2e4. \uc774\uc5b4 \uc9c8\ubcd1\uccad\uc740 \"\u2026",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002976383",
-      "urlToImage": "https://ojsfile.ohmynews.com/CRI_T_IMG/2023/1109/A0002976383_T.jpg",
-      "publishedAt": "2023-11-09 00:28:21",
-      "content": " , 65 9 20 . , '' 5 . ( ) . ( ) 9 \" 4 83( ) 2022 25 \" . \" , (DTaP) \" . 6 5 , 11~12 6 . , (Bordetella pertussis) \u2026 [+605 chars]",
-      "retrievedAt": "2023-11-10 07:05:37.501590",
-      "internal_id": "3f9ce2c1b25e14f6afa38cd2ab1a0e2a86551177647bdb97e20bb6bd19acdaf1",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 2995,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "EL UNIVERSAL",
-      "title": "Alerta por alza en los casos de dengue en Cartagena: van 2.193 este a\u00f1o",
-      "description": "Seg\u00fan el Departamento Administrativo Distrital de Salud (Dadis), durante este a\u00f1o se ha registrado un total de 2.193 casos de dengue, los cuales fueron notificados al Sistema de Vigilancia en Salud P\u00fablica (Sivigila). Del total de casos, 1.597 fueron clasific\u2026",
-      "url": "https://www.eluniversal.com.co/cartagena/alerta-por-alza-en-los-casos-de-dengue-en-cartagena-van-2193-este-ano-XC9411653",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/966x686/83c0/800d686/none/13704/XJSK/dengue-sucre-febrero-15-7381065-20230215105616_8893392_20231108144515.jpg",
-      "publishedAt": "2023-11-08 19:45:33",
-      "content": "Seg\u00fan el Departamento Administrativo Distrital de Salud (Dadis), durante este a\u00f1o se ha registrado un total de 2.193 casos de dengue, los cuales fueron notificados al Sistema de Vigilancia en Salud P\u2026 [+1333 chars]",
-      "retrievedAt": "2023-11-10 07:05:38.267559",
-      "internal_id": "4e3ea55525ca886b8141ab0fd52a2e34c64e9798f17965a1de861c28dbaf9177",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2976,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Alok Deshpande",
-      "title": "Ajit to \u2018stay out of public life\u2019 for now, likely to miss Pawar family\u2019s Diwali together",
-      "description": "In a statement issued on Tuesday, Pawar said, \u201cI have got treated for dengue and underwent mandatory rest... I am recovering at a slow pace and will take more days to recover fully.\u201d",
-      "url": "https://indianexpress.com/article/cities/mumbai/ajit-to-stay-out-of-public-life-for-now-likely-to-miss-pawar-familys-diwali-together-9019435/",
-      "urlToImage": "https://images.indianexpress.com/2023/11/ajipa.jpg",
-      "publishedAt": "2023-11-08 18:38:33",
-      "content": "Out of public life for around three weeks due to ill-health, Maharashtra Deputy Chief Minister and Finance Minister Ajit Pawar on Tuesday said that he was still recovering from weakness due to dengue\u2026 [+2181 chars]",
-      "retrievedAt": "2023-11-09 19:05:23.990189",
-      "internal_id": "2639869e66d712f111ed147a4041b205e9609f6173dd1a802bf90ba5830bccb9",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2979,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ilgiornale.it",
-      "author": "redazione@ilgiornale-web.it (Federico Garau)",
-      "title": "Dengue, allarme e scuole chiuse per quattro giorni: ecco dove e cosa sta accadendo",
-      "description": "Per ora si tratta solo di misure messe in atto a scopo precauzionale, nell'attesa che si completino le verifiche di carattere epidemiologico",
-      "url": "https://www.ilgiornale.it/news/cronaca-locale/dengue-allarme-e-scuole-chiuse-quattro-giorni-ecco-dove-e-2238401.html",
-      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2020/09/01/1598963401-febbre-dengue.jpg?_=1598963401",
-      "publishedAt": "2023-11-08 18:01:19",
-      "content": "Scatta l'allarme a Civita d'Antino, piccolo comune della provincia de L'Aquila, a causa di un sospetto caso di febbre Dengue, e non \"gialla\" come inizialmente si era ipotizzato. L'allarme della Regi\u2026 [+2211 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.007815",
-      "internal_id": "1c70ffefd4a03a18e04a969668317402af2918dd5178be6cb16b82f8c621310e",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2981,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "WHO stresses need to maintain dengue fever surveillance activities in Ethiopia",
-      "description": "ADDIS ABABA, Nov. 8 (Xinhua) -- The World Health Organization (WHO) has stressed the crucial need to maintain and sustain dengue fever surveillance activities in Ethiopia. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2023/11/09/who-stresses-need-to-maintain-dengue-fever-surveillance-activities-in-ethiopia",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2023-11-08 17:58:00",
-      "content": "ADDIS ABABA, Nov. 8 (Xinhua) -- The World Health Organization (WHO) has stressed the crucial need to maintain and sustain dengue fever surveillance activities in Ethiopia. The WHO, in its periodic \u2026 [+1755 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.018627",
-      "internal_id": "0a99a974ef0cf5ca59a3f280f45e683bd479c7e81e1cecede710319f8c6950a2",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 3090,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "First evidence of how the Asian malaria mosquito is spreading drug-resistant malaria in Africa",
-      "description": "Research has led to the discovery of the role played by the Asian malaria mosquito (Anopheles stephensi) in the spread of drug and diagnosis-resistant malaria in Africa. Malaria is caused by a parasite which is spread by the bite of blood-sucking mosquitoes. \u2026",
-      "url": "https://www.sciencedaily.com/releases/2023/11/231108115114.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-11-08 16:51:14",
-      "content": "Malaria is caused by a parasite which is spread by the bite of blood-sucking mosquitoes. According to the WHO, there were an estimated 247 million cases of malaria worldwide in 2021 with over 600,000\u2026 [+2727 chars]",
-      "retrievedAt": "2023-11-12 19:05:17.751492",
-      "internal_id": "28f35ae5d12b4bc52b0566360c98355d26b63dab58544b594cae044a32eedcb4",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2986,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Lara Adejoro",
-      "title": "\u201897% Nigerians at risk of malaria\u2019",
-      "description": "The Chief Executive of Malaria Consortium, Dr James Tibenderana, on Wednesday, said 97 per cent of Nigerians are at risk of malaria despite the country\u2019s progress in reducing the prevalence of the disease. Tibenderana stated this at a press briefing organised\u2026",
-      "url": "https://punchng.com/?p=1512218",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
-      "publishedAt": "2023-11-08 15:48:51",
-      "content": "The Chief Executive of Malaria Consortium, Dr James Tibenderana, on Wednesday, said 97 per cent of Nigerians are at risk of malaria despite the country\u2019s progress in reducing the prevalence of the di\u2026 [+3864 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.623611",
-      "internal_id": "16028c986b35c05cd03e5128c4604d9ee26285b28b6e9266036c2cafb489e6b1",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2989,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "J.V.R Prasada Rao",
-      "title": "The perils of patent amendments",
-      "description": "Wrong medicine. The proposed changes in patent law will endanger access to affordable medicines and benefit global big pharma",
-      "url": "https://www.thehindubusinessline.com/opinion/the-perils-of-patent-amendments/article67514045.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/7hvojx/article67514050.ece/alternates/LANDSCAPE_1200/BL09_Think_Drug_patent.jpg",
-      "publishedAt": "2023-11-08 15:45:11",
-      "content": "A formidable pharmaceutical industry has turned India into a powerhouse of generic drugs, enabling the country to substantially reduce the disease burden of malaria, HIV and leprosy. As a leading gen\u2026 [+6929 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.643249",
-      "internal_id": "ef29f4be59b4cb75cc1c680c4f22491d95479e1f7c58d4ef056b5d2e73ccb5bc",
-      "publishedAtLabel": "Nov 8"
     }
   ]
 }
