@@ -1,8 +1,242 @@
 {
-  "last_updated": "2023-11-17 19:05",
+  "last_updated": "2023-11-18 07:05",
   "count_articles_total": 300,
   "count_articles_new": 13,
   "articles": [
+    {
+      "id": 3187,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "St\u00e9phanie Le Guillou, Journaliste Sant\u00e9",
+      "title": "Des r\u00e9sultats prometteurs pour un vaccin anti-chikungunya",
+      "description": "Valneva SE, soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e en vaccins, a partag\u00e9 des r\u00e9sultats positifs pour son vaccin VLA1553 contre le chikungunya chez les adolescents. Cette avanc\u00e9e, soutenue par la Cepi \u2013 une fondation qui cherche \u00e0 acc\u00e9l\u00e9rer le d\u00e9veloppement de vaccins pour contr\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/virus-resultats-prometteurs-vaccin-anti-chikungunya-109232/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/7/f/e/7fe5dacaba_50208697_chikun.jpg",
+      "publishedAt": "2023-11-17 07:01:07",
+      "content": "Cela vous int\u00e9ressera aussi [EN VID\u00c9O]Pourquoi avons-nous plus peur des vaccins que des m\u00e9dicaments ? Pr\u00e8s dun Fran\u00e7ais sur quatre refuse de se faire vacciner. La plupart des gens nont... Valneva S\u2026 [+2838 chars]",
+      "retrievedAt": "2023-11-18 07:05:27.814977",
+      "internal_id": "0d629019efcdd93960e360009ae334ffaabc9f21a1277055fb2a3bd78a22eef7",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3179,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Vaccination Vacation: Measles Makes a Menacing Comeback - SciTechDaily",
+      "description": "Vaccination Vacation: Measles Makes a Menacing ComebackSciTechDaily 'Staggering' rise in measles cases last year, says WHO and CDCYahoo News Global measles cases rose 18% in 2022 amid low vaccination rates: ReportABC News \"Staggering\" rise in global measles o\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172255299",
+      "urlToImage": null,
+      "publishedAt": "2023-11-17 04:14:00",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-11-18 07:05:26.313956",
+      "internal_id": "99201458b2bd6dcbf6a8f5e08d55f1cc01e622c792dada4f4b3f660766edd1ab",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3183,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "1news.co.nz",
+      "author": null,
+      "title": "Measles deaths worldwide jumped 40% last year, health agencies say",
+      "description": "The highly infectious disease triggered epidemics in 37 countries last year, versus 22 countries in 2021.",
+      "url": "https://www.1news.co.nz/2023/11/17/measles-deaths-worldwide-jumped-40-last-year-health-agencies-say/",
+      "urlToImage": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/M4XG3SQ66BDYRLN3YPTAQGEKIY.jpg?auth=3d7ab7841bfc672ceb1f0b946aacb14a9cbb20526ced0323abd3786d3d15a1ab&width=600&height=315&focal=607,391",
+      "publishedAt": "2023-11-17 03:52:41",
+      "content": "Measles deaths globally spiked by more than 40% last year and cases rose after vaccination levels dramatically dropped during the pandemic, leading health agencies said Thursday. The highly infectio\u2026 [+1994 chars]",
+      "retrievedAt": "2023-11-18 07:05:26.324898",
+      "internal_id": "12fd3cbc651aca75156e85d60e8141b1be8105a784fa551d400e0e69020c3414",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3177,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sputnikglobe.com",
+      "author": "Sputnik International",
+      "title": "Worldwide Measles Deaths Up 43% in 2022 Y/Y - WHO",
+      "description": "The organization added that 37 countries, including 28 in Africa, six in the Eastern Mediterranean, two in South-East Asia and one in Europe, experienced large or disruptive measles outbreaks in 2022.",
+      "url": "https://sputnikglobe.com/20231117/worldwide-measles-deaths-up-43-in-2022-yy---who-1115013123.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1115013123.jpg?11101079761700187526",
+      "publishedAt": "2023-11-17 02:18:45",
+      "content": "Get the latest news from around the world, live coverage, off-beat stories, features and analysis. https://sputnikglobe.com/20231117/worldwide-measles-deaths-up-43-in-2022-yy---who-1115013123.html \u2026 [+5287 chars]",
+      "retrievedAt": "2023-11-18 07:05:26.299541",
+      "internal_id": "876f8d8cb9d8784e1959fe9ab75f545930ed2920d2d633f1df99ecda79b66c37",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3188,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Virbac",
+      "title": "New risk to NZ farmers",
+      "description": "New Taranaki project will help reduce NZ carbon emissions.",
+      "url": "https://www.nzherald.co.nz/the-country/sponsored-stories/new-risk-to-nz-farmers/T34I3KONJ5EXLPRZSVUUBQ4X6A/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/CPhyhiyLg8L6YxDNdo0BEYajEOQ=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/YNP3BXEVINDM3POBYGTXRYD2II.jpg",
+      "publishedAt": "2023-11-17 02:02:00",
+      "content": "Emerging strain of leptospirosis has seen new vaccine developed. This content has been prepared by Virbac and is being published by NZME as advertorial. Leptospirosis is a disease caused by bacteri\u2026 [+3027 chars]",
+      "retrievedAt": "2023-11-18 07:05:28.420615",
+      "internal_id": "72f68d7d45e44306e7456a253047ee44760ab32b500643e92855532551eb6231",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3180,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Global measles threat continues to grow as another year passes with millions of children unvaccinated | CDC Online Newsroom - CDC",
+      "description": "Global measles threat continues to grow as another year passes with millions of children unvaccinated | CDC Online NewsroomCDC 'Staggering' rise in measles cases last year, says WHO and CDCYahoo News \"Staggering\" rise in global measles outbreaks in 2022, CDC \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172253543",
+      "urlToImage": null,
+      "publishedAt": "2023-11-16 23:36:13",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-11-18 07:05:26.316318",
+      "internal_id": "10bc120ef3c5a32d07b4e6a2bc287f459bb2ebc2786a24a38372dd8e7bd70030",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3176,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "no byline",
+      "title": "Measles deaths worldwide jumped 40% last year, health agencies say",
+      "description": "The highly infectious disease triggered epidemics in 37 countries last year, versus 22 countries in 2021.",
+      "url": "https://www.bostonglobe.com/2023/11/16/world/measles-deaths-worldwide-jumped-40-last-year-health-agencies-say/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/cFWuaeWEEPY8D5C0RAJznwaRw-A=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TLBFUGTQ74I6TBFJBXWSABXE2U.jpg",
+      "publishedAt": "2023-11-16 22:30:39",
+      "content": "LONDON (AP) Measles deaths globally spiked by more than 40 percent last year, and cases rose after vaccination levels dramatically dropped during the pandemic, leading health agencies said Thursday. \u2026 [+2030 chars]",
+      "retrievedAt": "2023-11-18 07:05:26.292109",
+      "internal_id": "4ca9fd14afefc7efdf9149b598e0401377600e2895d592e3d0efa235d0e8c02a",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3181,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Measles deaths up 40% in 2022 as vaccinations dropped during COVID pandemic - Global News",
+      "description": "Measles deaths up 40% in 2022 as vaccinations dropped during COVID pandemicGlobal News 'Staggering' rise in measles cases last year, says WHO and CDCYahoo News Global measles cases rose 18% in 2022 amid low vaccination rates: ReportABC News \"Staggering\" rise \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172252929",
+      "urlToImage": null,
+      "publishedAt": "2023-11-16 21:52:30",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-11-18 07:05:26.318602",
+      "internal_id": "ffd2a7fdcaa22c560da9c4461117b7c179d790c61503bddd9aec3765aed84731",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3178,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "'Staggering' rise in global measles cases last year, say leading health organizations",
+      "description": "Global measles cases jumped by 18 per cent in a year to an estimated nine million, and deaths rose to 136,000 \u2014 mostly among children \u2014 the World Health Organization and the U.S. Centers for Disease Control and Prevention said in a joint statement on Thursday.",
+      "url": "https://www.cbc.ca/news/health/staggering-rise-in-global-measles-cases-last-year-say-leading-health-organizations-1.7030576",
+      "urlToImage": "https://i.cbc.ca/1.5097625.1700165795!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/madagascar-measles-epidemic.jpg",
+      "publishedAt": "2023-11-16 20:20:28",
+      "content": "There was a \"staggering\" annual rise in measles cases and deaths in 2022, according to a new report from the World Health Organization (WHO) and the U.S. Centers for Disease Control and Prevention (C\u2026 [+1816 chars]",
+      "retrievedAt": "2023-11-18 07:05:26.308200",
+      "internal_id": "3e00e9cf7ab2b66895cf97352722a691a2c2c77c935eb4a8ce394f058706c31f",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3186,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Washington Free Beacon",
+      "author": "Adam Kredo",
+      "title": "An Illegal Chinese Biolab Containing Infectious Diseases Operated in California. The Feds Ignored It for Months.",
+      "description": "A biolab illicitly run by a Chinese national in California contained traces of coronavirus, HIV, malaria, and other infectious diseases, but federal authorities spent months ignoring pleas from local officials to shut the site down, according to a report from\u2026",
+      "url": "https://freebeacon.com/national-security/an-illegal-chinese-biolab-containing-infectious-diseases-operated-in-california-the-feds-ignored-it-for-months/",
+      "urlToImage": "https://freebeacon.com/wp-content/uploads/2023/11/Screenshot-2023-11-16-at-2.06.35-PM.png",
+      "publishedAt": "2023-11-16 20:15:16",
+      "content": "A biolab illicitly run by a Chinese national in California contained traces of coronavirus, HIV, malaria, and other infectious diseases, but federal authorities spent months ignoring pleas from local\u2026 [+4383 chars]",
+      "retrievedAt": "2023-11-18 07:05:27.209470",
+      "internal_id": "5dbc0e6eeb9830d03d1b0b6a2769188b5a74e738762cdb4553a2c8d89b4cf485",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3185,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "DEUTSCHE WELLE",
+      "title": "Aumenta la resistencia a los antibi\u00f3ticos en ni\u00f1os: \u00bfqu\u00e9 tan peligroso es?",
+      "description": "Cuando los ni\u00f1os padecen enfermedades bacterianas, como infecciones de o\u00eddo, sepsis o meningitis, suelen tomar antibi\u00f3ticos. Sin embargo, menos del 50 por ciento de los antibi\u00f3ticos son eficaces, seg\u00fan un estudio australiano dirigido por la Universidad de S\u00edd\u2026",
+      "url": "https://www.eluniversal.com.co/salud/aumenta-la-resistencia-a-los-antibioticos-en-ninos-que-tan-peligroso-es-CE9457062",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/YTRS/jarabe_8944162_20231116144416.jpg",
+      "publishedAt": "2023-11-16 19:44:16",
+      "content": "Cuando los ni\u00f1os padecen enfermedades bacterianas, como infecciones de o\u00eddo, sepsis o meningitis, suelen tomar antibi\u00f3ticos. Sin embargo, menos del 50 por ciento de los antibi\u00f3ticos son eficaces, seg\u2026 [+3121 chars]",
+      "retrievedAt": "2023-11-18 07:05:26.895983",
+      "internal_id": "afca63bb0499515c0c272fe2019d0f2c2c6ab68332ecba67eba644af1c4551ec",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3182,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": "World Health Organization: WHO",
+      "title": "Global measles threat continues to grow as another year passes with millions of children unvaccinated",
+      "description": "Following years of declines in measles vaccination coverage, measles cases in 2022 have increased by 18%, and deaths have increased by 43% globally (compared to 2021). This takes the estimated number of measles cases to 9 million and deaths to 136 000 \u2013 mo\u2026",
+      "url": "https://www.who.int/news/item/16-11-2023-global-measles-threat-continues-to-grow-as-another-year-passes-with-millions-of-children-unvaccinated",
+      "urlToImage": "https://www.who.int/images/default-source/departments/immunization-ivb/routine-vaccination-pakistan.tmb-1200v.jpg?Culture=en&sfvrsn=933c5acd_6",
+      "publishedAt": "2023-11-16 19:29:33",
+      "content": "Following years of declines in measles vaccination coverage, measles cases in 2022 have increased by 18%, and deaths have increased by 43% globally (compared to 2021). This takes the estimated number\u2026 [+3770 chars]",
+      "retrievedAt": "2023-11-18 07:05:26.321288",
+      "internal_id": "11225fb4346b6db92db8bdea29eacea066f75f78cf500fb7aa2fed67b2081926",
+      "publishedAtLabel": "Nov 16"
+    },
+    {
+      "id": 3184,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Global News",
+      "author": "The Associated Press",
+      "title": "Measles deaths up 40% in 2022 as vaccinations dropped during COVID pandemic - National | Globalnews.ca",
+      "description": "Measles deaths globally jumped 40 per cent last year and cases rose after vaccination levels dramatically dropped during the pandemic, leading health agencies said Thursday.",
+      "url": "https://globalnews.ca/news/10096344/measles-deaths-who-cdc/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2023/11/Measles-deaths.jpg?quality=85&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2023-11-16 19:07:32",
+      "content": "Measles deaths globally spiked by more than 40 per cent last year and cases rose after vaccination levels dramatically dropped during the pandemic, leading health agencies said Thursday. The highly \u2026 [+2113 chars]",
+      "retrievedAt": "2023-11-18 07:05:26.327257",
+      "internal_id": "1bd157be3e9a95fc508ad498730e7a88d4aec1816c4d5750ab0f250a69021c25",
+      "publishedAtLabel": "Nov 16"
+    },
     {
       "id": 3164,
       "query": [
@@ -3374,241 +3608,6 @@
       "content": "A formidable pharmaceutical industry has turned India into a powerhouse of generic drugs, enabling the country to substantially reduce the disease burden of malaria, HIV and leprosy. As a leading gen\u2026 [+6929 chars]",
       "retrievedAt": "2023-11-09 19:05:24.643249",
       "internal_id": "ef29f4be59b4cb75cc1c680c4f22491d95479e1f7c58d4ef056b5d2e73ccb5bc",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2982,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Takeshi Kurosu, Daisuke Okuzaki, Yusuke Sakai, Mohamad Al Kadi, Supranee Phanthanawiboon, Yasusi Ami, Masayuki Shimojima, Tomoki Yoshikawa, Shuetsu Fukushi, Noriyo Nagata, Tadaki Suzuki, Daisuke Kamimura, Masaaki Murakami, Hideki Ebihara, Masayuki Saijo",
-      "title": "Dengue virus infection induces selective expansion of V\u03b34 and V\u03b36TCR \u03b3\u03b4 T cells in the small intestine and a cytokine storm driving vascular leakage in mice",
-      "description": "Author summary Dengue fever can lead to severe illness in some cases, which can be fatal. The number of severe cases is increasing. There are currently no effective therapeutic drugs or vaccines available for widespread use. Vascular leakage is the physiologi\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011743",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011743.g010&size=inline",
-      "publishedAt": "2023-11-08 14:00:00",
-      "content": "Citation: Kurosu T, Okuzaki D, Sakai Y, Kadi MA, Phanthanawiboon S, Ami Y, et al. (2023) Dengue virus infection induces selective expansion of V4 and V6TCR T cells in the small intestine and a cytoki\u2026 [+70802 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.023036",
-      "internal_id": "74ac9fbb183e4426d4810240ae6e1f2626d66bb2db79ba3597bb6c0448edcb52",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2985,
-      "query": [
-        "malaria",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Marycelin Mandu Baba, Abubakar Ahmed, Samaila Yaga Jackson, Bamidele Soji Oderinde",
-      "title": "Cryptic Zika virus infections unmasked from suspected malaria cases in Northeastern Nigeria",
-      "description": "Introduction Although environmental and human behavioral factors in countries with Zika virus (ZIKV) outbreaks are also common in Nigeria, such an outbreak has not yet been reported probably due to misdiagnosis. The atypical symptoms of malaria and ZIKV infec\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292350",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0292350.g003&size=inline",
-      "publishedAt": "2023-11-08 14:00:00",
-      "content": "Abstract Introduction Although environmental and human behavioral factors in countries with Zika virus (ZIKV) outbreaks are also common in Nigeria, such an outbreak has not yet been reported probab\u2026 [+44798 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.620703",
-      "internal_id": "8c973fdd58a6165c3a03faf913750af21ddda17bc4996953315718c80abf61c3",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2988,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Mergiory Y. Labadie-Bracho, Malti R. Adhin",
-      "title": "Advocating for PCR-RFLP as molecular tool within malaria programs in low endemic areas and low resource settings",
-      "description": "Author summary The global malaria landscape has changed considerably since 2000, with a drastic reduction of overall malaria cases, but a regional increase of Plasmodium vivax malaria. Suriname is a South American country striving for malaria elimination and \u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011747",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011747.g002&size=inline",
-      "publishedAt": "2023-11-08 14:00:00",
-      "content": "Introduction The global malaria landscape has changed considerably since 2000, with a drastic reduction of overall malaria cases, but still accounting for more than 241 million malaria cases worldwi\u2026 [+30942 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.634301",
-      "internal_id": "7889486278b21dfade6b2a4a219563f8551ecc14f6b66e22e219584ddb52f9ea",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2990,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Padmapriya Sekar, Sumati Rajagopalan, Estela Shabani, Usheer Kanjee, Marc A. Schureck, Gunjan Arora, Mary E. Peterson, Boubacar Traore, Peter D. Crompton, Manoj T. Duraisingh, Sanjay A. Desai, Eric O. Long",
-      "title": "NK cell-induced damage to P.falciparum-infected erythrocytes requires ligand-specific recognition and releases parasitophorous vacuoles that are phagocytosed by monocytes in the presence of immune IgG",
-      "description": "Author summary The parasite Plasmodium falciparum is the main contributor to malaria disease that causes more than 600,000 deaths/year, primarily among young children. To control disease, it is critical to understand how clinical immunity develops in people e\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011585",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011585.g008&size=inline",
-      "publishedAt": "2023-11-08 14:00:00",
-      "content": "Citation: Sekar P, Rajagopalan S, Shabani E, Kanjee U, Schureck MA, Arora G, et al. (2023) NK cell-induced damage to P.falciparum-infected erythrocytes requires ligand-specific recognition and releas\u2026 [+78217 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.646098",
-      "internal_id": "c8621e640039e58092597a38a9f514050cf574e0b59440c0f0fa004e9ecfe503",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2993,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Mohammad S. I. Sajib, Arif M. Tanmoy, Yogesh Hooda, Hafizur Rahman, Sira J. Munira, Anik Sarkar, Dipu Das, Md. Asadur Rahman, Nazrul Islam, Mohammod Shahidullah, Md. Ruhul Amin, Md. Jahangir Alam, Mohammed Hanif, Stephen P. Luby, Denise O. Garrett, Samir K. Saha, Senjuti Saha",
-      "title": "Trends in antimicrobial resistance amongst Salmonella Paratyphi A isolates in Bangladesh: 1999\u20132021",
-      "description": "Author summary Typhoid and paratyphoid fever, caused by Salmonella Typhi and Paratyphi A respectively, are common in areas lacking safe water and optimum infrastructure. With increasing multidrug resistance in Salmonella Typhi, newer antimicrobials like ceftr\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011723",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011723.g003&size=inline",
-      "publishedAt": "2023-11-08 14:00:00",
-      "content": "Abstract Background Typhoid and paratyphoid remain common bloodstream infections in areas with suboptimal water and sanitation infrastructure. Paratyphoid, caused by Salmonella Paratyphi A, is less\u2026 [+36789 chars]",
-      "retrievedAt": "2023-11-09 19:05:25.425316",
-      "internal_id": "e89b3ec8819504f66c5bf0212aeb6442d28c13aa3a70f7cbfb9ca3fe053ec0e9",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2992,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Lintang Budiyanti, Raka Adji",
-      "title": "Health Minister urges people to practice safe sex to prevent mpox",
-      "description": "Health Minister Budi Gunadi Sadikin has urged people to be careful while engaging in sexual activities to prevent monkeypox (mpox) transmission. \"The transmission is through sexual activity, and this is sexual activity ...",
-      "url": "https://en.antaranews.com/news/298236/health-minister-urges-people-to-practice-safe-sex-to-prevent-mpox",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/08/WhatsApp-Image-2023-10-30-at-10.48.08.jpeg.jpg",
-      "publishedAt": "2023-11-08 13:58:26",
-      "content": "Jakarta (ANTARA) - Health Minister Budi Gunadi Sadikin has urged people to be careful while engaging in sexual activities to prevent monkeypox (mpox) transmission.\"The transmission is through sexual \u2026 [+1249 chars]",
-      "retrievedAt": "2023-11-09 19:05:25.261573",
-      "internal_id": "8b7eb5b050c8acf8ff818917763539e3a97a3625d051f4f628b66341f4d1406f",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2978,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Galileonet.it",
-      "author": "Marta Musso",
-      "title": "Un nuovo caso di dengue in Abruzzo \u201cscambiato\u201d per febbre gialla",
-      "description": "Si tratta di due malattie diverse, anche se sono entrambe trasmesse dalle zanzare. Facciamo chiarezza, partendo dalle notizie di un caso in Abruzzo L'articolo Un nuovo caso di dengue in Abruzzo \u201cscambiato\u201d per febbre gialla sembra essere il primo su Galileo.",
-      "url": "https://www.galileonet.it/febbre-gialla-dengue-abruzzo-italia/",
-      "urlToImage": "https://www.galileonet.it/wp-content/uploads/2023/11/matteo-fusco-4zvnt60-pak-unsplash.jpg",
-      "publishedAt": "2023-11-08 12:58:06",
-      "content": "Il Comune di Civita d\u2019Antino, in provincia dell\u2019Aquila, ha appena la chiusura di una scuola dell\u2019infanzia per 4 giorni non dopo l\u2019accertamento di un caso di febbre gialla, bens\u00ec di dengue. Come si ap\u2026 [+4490 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.005408",
-      "internal_id": "9fb30d3a74c2f86e70f0429bdd3ce6ab02b80df8f8a8aaebc52c9e3e8f0ada4c",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2983,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "expressandstar.com",
-      "author": "Isabelle Parkin",
-      "title": "UB40 star thanks Walsall hospital staff for 'life-saving' treatment after meningitis scare",
-      "description": "A founding member of UB40 has extended his gratitude to the doctors and nurses at a Walsall hospital who gave him \"lifesaving treatment\" for meningitis.",
-      "url": "https://www.expressandstar.com/news/health/2023/11/08/ub40-star-thanks-walsall-hospital-staff-for-life-saving-treatment-after-meningitis-scare/",
-      "urlToImage": "https://www.expressandstar.com/resizer/WiW51PmrFzY-X9HxLgHHF4fvIlQ=/1200x899/cloudfront-us-east-1.images.arcpublishing.com/mna/ULHBGCMFFBDQXKK42756UB2HJ4.jpg",
-      "publishedAt": "2023-11-08 12:30:13",
-      "content": "Legendary UB40 bass player and singer Earl Falconer has revealed he was diagnosed with meningitis after returning home from his holiday in Ibiza last month. The star musician was treated for the inf\u2026 [+1982 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.284659",
-      "internal_id": "6708743a7fceeae4d8f0ec5f3f307939871364972f630d70dfc73d742932a0a5",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2980,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Origo.hu",
-      "author": null,
-      "title": "Tov\u00e1bb terjed \u00e9s szedi \u00e1ldozatait a dengue-l\u00e1z Sr\u00ed Lank\u00e1ban",
-      "description": "Az es\u0151s id\u0151 m\u00e9g ink\u00e1bb kedvez a betegs\u00e9g terjed\u00e9s\u00e9nek.",
-      "url": "https://www.origo.hu/tudomany/20231108-tovabb-terjed-es-denguelaz-sri-lankaban.html",
-      "urlToImage": "https://cdn.nwmgroups.hu/s/img/i/2111/20211115aedes-mosquito-arthropod-insect-diptera1.jpg?w=1024",
-      "publishedAt": "2023-11-08 12:06:19",
-      "content": "Meghaladta a 70 ezret a dengue-megbeteged\u00e9sek sz\u00e1ma Sr\u00ed Lank\u00e1ban, id\u00e9n m\u00e1r 43 ember halt bele a fertz\u00e9sbe - \u00edrta a Mirror.Az \u00fajabb n\u00e9gy hal\u00e1los \u00e1ldozattal 73-ra emelkedett a betegs\u00e9gben meghalt ember\u2026 [+825 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.010968",
-      "internal_id": "4477d0c2c836195272588aa6fda04c01b586e4da08b11eaff4f9f89560c90ccf",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2984,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": null,
-      "title": "Peace Corps to pay $750,000 to family of woman who died in East Africa",
-      "description": "Bernice Heiderman died in 2018 after texting her mother that the local Peace Corps doctor wasn't taking seriously her complaints of dizziness, nausea, fever and fatigue, a law firm said.",
-      "url": "https://www.cbsnews.com/news/peace-corps-to-pay-750000-family-bernice-heiderman-death-malaria-misdiagnosis/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/08/a19a89f7-5903-457f-9db9-d840db7cd24a/thumbnail/1200x630g4/9cfd877ba6ad0a037efc0589e574e31c/heiderman.jpg?v=e2a739f263a10b93b27cae9568461c29",
-      "publishedAt": "2023-11-08 11:28:00",
-      "content": "The Peace Corps has agreed to pay $750,000 to the family of a 24-year-old volunteer from Illinois who died in 2018 in East Africa after the agency's doctors misdiagnosed a case of malaria, a law firm\u2026 [+3661 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.615422",
-      "internal_id": "a036a6b067aec592c355a22d3ec92a842e160f2412eab2db4f7b6c769085a46d",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2977,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Gazzetta.it",
-      "author": "Redazione",
-      "title": "Febbre gialla vicino L'Aquila: scuole chiuse per 4 giorni",
-      "description": "Segnalato un caso in Italia di febbre gialla, o dengue, vicino L\u2019Aquila. Apre il Centro Operativo di Emergenza comunale. Le scuole chiuse per 4 giorni.",
-      "url": "https://www.gazzetta.it/attualita/08-11-2023/febbre-gialla-un-caso-in-italia-scuole-chiuse-per-4-giorni-ecco-dove.shtml",
-      "urlToImage": "https://dimages2.gazzettaobjects.it/files/og_thumbnail/uploads/2023/09/19/65099f9598213.jpeg",
-      "publishedAt": "2023-11-08 11:17:32",
-      "content": "Redazione 8 novembre - 12:17 - MILANO \u00c8 allarme a Civita d'Antino, in provincia de L'Aquila, dopo la conferma di un caso di febbre gialla, nota anche come dengue. La notizia ha suscitato l'allarme \u2026 [+2653 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.000400",
-      "internal_id": "abfb52c19e37ec370e811d49f4a988183f3d444edb9b981343fd52c9dcc61d56",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2987,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Jenna M\u00fcller",
-      "title": "Erreger von Tier zu Mensch \u00fcbertragen - Binnen 30 Jahren zw\u00f6lfmal mehr Tote durch Zoonosen",
-      "description": "Die Prognosen gelten f\u00fcr 2050 und gehen aus einer Studie hervor, die sich mit von-Tier-zu-Mensch-Krankheiten besch\u00e4ftigte.",
-      "url": "https://www.bild.de/ratgeber/2023/ratgeber/epidemie-zoonosen-koennten-sich-bis-2050-verzwoelffachen-86019722.bild.html",
-      "urlToImage": "https://images.bild.de/654b3d97801e4b2ad89a226c/7cf8cda461c501da92e81b731bda5a43,8e94192c?w=1280",
-      "publishedAt": "2023-11-08 10:41:43",
-      "content": "Vogelgrippe, Schweinegrippe, Fuchsbandwurm, Pest, Malaria, Tollwut ... Die Liste der von Tieren auf den Menschen \u00fcbertragenen Krankheiten ist lang. Eine Studie warnt jetzt: Im Jahr 2050 k\u00f6nnten Z\u2026 [+1796 chars]",
-      "retrievedAt": "2023-11-09 19:05:24.628379",
-      "internal_id": "1333c1d3bf8098d61fc9ae3cb5091673f3b963b996ccd9b7e68b80bad1ffa241",
-      "publishedAtLabel": "Nov 8"
-    },
-    {
-      "id": 2991,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Mecca Yumna, Resinta Sulistiyandari",
-      "title": "Positive mpox cases reach 29: Official",
-      "description": "The DKI Jakarta Health Service reported that as of November 7, some 29 active positive cases of monkeypox (mpox) were identified in the capital city. \"In November 2023, there were a total of six new mpox cases,\" Head ...",
-      "url": "https://en.antaranews.com/news/298209/positive-mpox-cases-reach-29-official",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/04/InShot_20231104_102355129.jpg",
-      "publishedAt": "2023-11-08 10:14:39",
-      "content": "Jakarta (ANTARA) - The DKI Jakarta Health Service reported that as of November 7, some 29 active positive cases of monkeypox (mpox) were identified in the capital city.\"In November 2023, there were a\u2026 [+2032 chars]",
-      "retrievedAt": "2023-11-09 19:05:25.258767",
-      "internal_id": "ad959c05e5ad2670c1121a861dae0e0dc4cd6abddf14b80281a7f1d88f2824b7",
       "publishedAtLabel": "Nov 8"
     }
   ]
