@@ -1,8 +1,116 @@
 {
-  "last_updated": "2023-11-18 19:05",
+  "last_updated": "2023-11-19 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 19,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 3215,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Iasbaba.com",
+      "author": "IASbaba",
+      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 17th November 2023",
+      "description": "Archives (PRELIMS & MAINS Focus) Practice MCQs ANSWERS FOR 16th November \u2013 Daily Practice MCQs The post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 17th November 2023 appeared first on IASbaba.",
+      "url": "https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-17th-november-2023/",
+      "urlToImage": null,
+      "publishedAt": "2023-11-18 05:49:18",
+      "content": "Q1) Consider the following pairs: DiseaseCaused byPlagueYersinia pestisChickenpoxVaricella-zoster virus.<t\u2026 [+1381 chars]",
+      "retrievedAt": "2023-11-19 07:05:39.597705",
+      "internal_id": "e06166cfeb297859af05d3ccd35d28bffa5ff54833af3d59f18f9511153c3306",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 3210,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Boston 25 News",
+      "author": "Bryan Lambert",
+      "title": "NH Health officials looking to identify those who came into contact with rabies-infected kittens",
+      "description": "The New Hampshire Department of Health is asking people who may have come into contact with a pair of kittens in North Conway to take precautions after the felines tested positive for rabies.",
+      "url": "https://www.boston25news.com/news/local/nh-health-officials-looking-identify-those-who-came-into-contact-with-rabies-infected-kittens/OV2JCW2DRBDOBDMYIBASTCCSXM/",
+      "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/gEgMjhDs66UNO8oWNFIWgPDzPL0=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/YPMX5TX5QVGJJLZSDGUPWR7NGQ.jpg",
+      "publishedAt": "2023-11-18 01:53:22",
+      "content": "NORTH CONWAY, NH \u2014 The New Hampshire Department of Health is asking people who may have come into contact with a pair of kittens in North Conway to take precautions after the felines tested positive \u2026 [+1526 chars]",
+      "retrievedAt": "2023-11-19 07:05:36.169212",
+      "internal_id": "d54bfd2ea00ac58be43e875f3aa0bb383c50db294e497bda39abdc23af359ac9",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 3209,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WKRC TV Cincinnati",
+      "author": "Wkrc",
+      "title": "Warren County health officials warn of sudden spike in whooping cough cases",
+      "description": "Warren County health officials warn of sudden spike in whooping cough caseslocal12.com",
+      "url": "https://local12.com/news/local/warren-county-health-officials-whooping-cough-cases-rise-sudden-spike-pertussis-disease-infection-rate-contagious-babies-infants-sickness-vaccine-cincinnati-ohio",
+      "urlToImage": "https://local12.com/resources/media/503952d6-a5c4-404a-90c5-fd68dfabc2f1-large16x9_wc5.png",
+      "publishedAt": "2023-11-17 23:56:06",
+      "content": "WARREN COUNTY, Ohio (WKRC) - There's been a rise in whooping cough cases in Warren County. So far in 2023, there have been 15 cases of whooping cough, or pertussis, in the county. Health officials \u2026 [+219 chars]",
+      "retrievedAt": "2023-11-19 07:05:35.766282",
+      "internal_id": "c68f20242d2b1a6730f2f5b92e421a6fea7e24efb0ce8ac778ac0fe0ba4b9082",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3214,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "In the fight against malaria-carrying mosquitoes, just add soap",
+      "description": "",
+      "url": "https://www.sciencedaily.com/releases/2023/11/231117181013.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-11-17 23:10:13",
+      "content": "Could the solution to the decades-long battle against malaria be as simple as soap? In a new study published in PLOS Neglected Tropical Diseases, scientists at The University of Texas at El Paso have\u2026 [+3481 chars]",
+      "retrievedAt": "2023-11-19 07:05:38.025530",
+      "internal_id": "71fb035fca533f44ddd3bdcd396504081cb6d081ed2658feb170b12761fc47d2",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3213,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Gudrun Heise",
+      "title": "Antibiotic resistance in children on the rise",
+      "description": "Antibiotics are the preferred treatment for children, but they are becoming increasingly ineffective. How dangerous is antibiotic resistance in children?",
+      "url": "https://www.dw.com/en/antibiotic-resistance-in-children-on-the-rise/a-67411523",
+      "urlToImage": "https://static.dw.com/image/65371958_6.jpg",
+      "publishedAt": "2023-11-17 21:16:00",
+      "content": "When children suffer from ear infections, sepsis or meningitis brought on by a bacterial infection, they are frequently prescribed antibiotics. But a recent study by the University of Sydney found \u2026 [+3514 chars]",
+      "retrievedAt": "2023-11-19 07:05:37.456784",
+      "internal_id": "ba5518b1b94000f4af3434d599e48747660b123378929bb76a5440abfa1a2574",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3208,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "WDTN.com",
+      "author": "Emily Lewis",
+      "title": "100 whooping cough cases reported in Montgomery County in 2023",
+      "description": "Pertussis, also known as whooping cough, is a growing concern in Montgomery County.",
+      "url": "https://www.wdtn.com/community/health/100-whooping-cough-cases-reported-in-montgomery-county-in-2023/",
+      "urlToImage": "https://www.wdtn.com/wp-content/uploads/sites/45/2023/08/doctor-health-care-medical-generic_30921367_ver1.0-1.jpg?w=1280",
+      "publishedAt": "2023-11-17 19:25:57",
+      "content": "DAYTON, Ohio (WDTN) \u2014 Pertussis, also known as whooping cough, is a growing concern in Montgomery County. Health officials are once again warning the community of the rising number of pertussis cas\u2026 [+1638 chars]",
+      "retrievedAt": "2023-11-19 07:05:35.755498",
+      "internal_id": "5f07ed45facd9c8fa59ebc0b633123995c854f5a489ebdb0b81b2d2aedd9186c",
+      "publishedAtLabel": "Nov 17"
+    },
     {
       "id": 3191,
       "query": [
@@ -238,6 +346,24 @@
       "publishedAtLabel": "Nov 17"
     },
     {
+      "id": 3212,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Andi Firdaus, Raka Adji",
+      "title": "No new diseases from Wolbachia dengue control method: Health official",
+      "description": "There is no potential for the emergence of new diseases from the use of Wolbachia bacteria to control dengue transmission, an official at the Ministry of Health stated on Friday. \"Wolbachia does not cause new diseases ...",
+      "url": "https://en.antaranews.com/news/298953/no-new-diseases-from-wolbachia-dengue-control-method-health-official",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/06/06/antarafoto-kampanye-metode-wolbachia-cegah-dbd-060623-4_1.jpg",
+      "publishedAt": "2023-11-17 12:49:18",
+      "content": "Jakarta (ANTARA) - There is no potential for the emergence of new diseases from the use of Wolbachia bacteria to control dengue transmission, an official at the Ministry of Health stated on Friday.\"W\u2026 [+2653 chars]",
+      "retrievedAt": "2023-11-19 07:05:37.080841",
+      "internal_id": "84546dfd293cf93d2f6aeb1f95d198d79e2c9fd631604f496a6fa310f5f03229",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
       "id": 3204,
       "query": [
         "malaria"
@@ -253,6 +379,24 @@
       "content": "DAR ES SALAAM: THE US through its Agency for International Development (USAID) and the US President's Malaria Initiative, delivered equipment at the Muhimbili College of Health and Allied Sciences. \u2026 [+2155 chars]",
       "retrievedAt": "2023-11-18 19:05:21.216740",
       "internal_id": "a66d82557d9f73d6801c4beec65a83563e76b2289dd72c32ff47d19ac6940532",
+      "publishedAtLabel": "Nov 17"
+    },
+    {
+      "id": 3211,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Kalbaronline.com",
+      "author": "adminkalbaronline",
+      "title": "Upaya Berantas DBD, Pemkot Pontianak Bagikan Ikan Cupang, Abate hingga Minyak Serai ke Warga",
+      "description": "KalbarOnline, Pontianak \u2013 Sebagai upaya memberantas penyakit Demam Berdarah Dengue (DBD), Wali The post Upaya Berantas DBD, Pemkot Pontianak Bagikan Ikan Cupang, Abate hingga Minyak Serai ke Warga appeared first on KalbarOnline.Com.",
+      "url": "https://www.kalbaronline.com/2023/11/17/upaya-berantas-dbd-pemkot-pontianak-bagikan-ikan-cupang-abate-hingga-minyak-serai-ke-warga/",
+      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/11/IMG-20231117-WA0016.jpg",
+      "publishedAt": "2023-11-17 12:24:40",
+      "content": "KalbarOnline, Pontianak \u2013 Sebagai upaya memberantas penyakit Demam Berdarah Dengue (DBD), Wali Kota Pontianak, Edi Rusdi Kamtono bersama Dinas Kesehatan Provinsi Kalbar dan Kota Pontianak beserta jaj\u2026 [+4383 chars]",
+      "retrievedAt": "2023-11-19 07:05:37.077374",
+      "internal_id": "fab882a9e5919c7d931e5d7871f2372e955f0d6f398856c0574499265838779f",
       "publishedAtLabel": "Nov 17"
     },
     {
@@ -3463,150 +3607,6 @@
       "content": "Nov 9 (Reuters) - The U.S. Food and Drug Administration (FDA) on Thursday approved Valneva's single-shot vaccine for individuals 18 years of age and older who are at increased risk of exposure to \u2026 [+638 chars]",
       "retrievedAt": "2023-11-11 07:05:27.733842",
       "internal_id": "071bb5d24d491e307d451ecc1bc50c11851dc3f2d27bf646f9aea2dd4702ae35",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3019,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "FDA.gov",
-      "author": "FDA",
-      "title": "FDA Approves First Vaccine to Prevent Disease Caused by Chikungunya Virus",
-      "description": "The FDA approved Ixchiq, the first vaccine for prevention of disease caused by chikungunya virus in individuals 18 years of age and older who are at increased risk of exposure to chikungunya virus.",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-vaccine-prevent-disease-caused-chikungunya-virus",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2023-11-09 21:59:30",
-      "content": "For Immediate Release: November 09, 2023 Today, the U.S. Food and Drug Administration approved Ixchiq, the first chikungunya vaccine. Ixchiq is approved for individuals 18 years of age and older wh\u2026 [+5914 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.720129",
-      "internal_id": "bee5a65fdb5118698bcc9b43e9115fed1a58c50cb9a2bdb2aede28e249bde41b",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3013,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Amanda Musa",
-      "title": "Exemptions for required vaccines for US kindergarteners reach record high | CNN",
-      "description": "Fewer kindergartners are getting state-required vaccinations for measles and other diseases as the rate of non-medical vaccine exemptions increases to the highest rate ever reported in the United States, according to new data published Thursday in the US Cent\u2026",
-      "url": "https://www.cnn.com/2023/11/09/health/kindergarten-vaccine-exemptions/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231109115321-measles-mumps-rubella-vaccine-file.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-11-09 21:53:01",
-      "content": "The percentage of kindergartners who received their state-required vaccines for measles remained below the federal target last school year, and the rate of vaccine exemptions for children reached the\u2026 [+4816 chars]",
-      "retrievedAt": "2023-11-11 07:05:26.284945",
-      "internal_id": "661db1b420e775dc7bca34fdb5f54e8b845c8003e003ac7a012f8d6ce06fdf65",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3011,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Mary Whitfill Roeloffs, Forbes Staff, \n Mary Whitfill Roeloffs, Forbes Staff\n https://www.forbes.com/sites/maryroeloffs/",
-      "title": "Childhood Vaccine Exemptions Reach Highest Level Ever \u2014 Upping Risk For Outbreaks Of Polio, Measles And More",
-      "description": "More families with kindergarteners have been granted vaccine exemptions in the United States than ever before, the CDC said Thursday.",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2023/11/09/childhood-vaccine-exemptions-reach-highest-level-ever---upping-risk-for-outbreaks-of-polio-measles-and-more/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/654d40de74ace089487871f6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-09 20:43:32",
-      "content": "More parents than ever have opted not to vaccinate their kids for tetanus, polio, measles and other diseases, the Centers for Disease Control and Prevention reported Thursday, increasing the risk of \u2026 [+3413 chars]",
-      "retrievedAt": "2023-11-11 07:05:26.267429",
-      "internal_id": "039f3ef7ae266c30dd17bb19b1c9155cde84e8ef317f62382af833a26483f54b",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3012,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Roanoke Times",
-      "author": "By MIKE STOBBE AP Medical Writer",
-      "title": "US childhood vaccination exemptions reach their highest level ever",
-      "description": "Health officials say attaining 95% vaccination coverage is important to prevent outbreaks of preventable diseases, especially of measles, which is extremely contagious.",
-      "url": "https://roanoke.com/news/nation-world/school-vaccine-exemptions-reach-record-high/article_5140c387-a678-52e4-b61a-eb9552ced48a.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/5/14/5140c387-a678-52e4-b61a-eb9552ced48a/654d28c915849.preview.jpg?crop=1700%2C893%2C22%2C123&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-11-09 19:30:00",
-      "content": "Several states, including Texas, Florida, South Carolina, and Utah, have introduced official and unofficial measures to make book banning easier. Some state-level book policies invoke terminology li\u2026 [+6875 chars]",
-      "retrievedAt": "2023-11-11 07:05:26.281003",
-      "internal_id": "14568d8cdb5d632a7a814d7232dbe765bca3b21f79b1493ef605773ae2b33924",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3002,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Fabiola Czubaj",
-      "title": "Ya est\u00e1 disponible la vacuna contra el dengue: d\u00f3nde la aplican, cu\u00e1nto sale y los pasos por seguir",
-      "description": "La vacuna, que lleva el nombre de TAK-003, se basa en el \u201cvirus del dengue 2\u2033, al que se a\u00f1adi\u00f3 ADN de los otros tres serotipos",
-      "url": "https://www.lanacion.com.ar/sociedad/ya-esta-disponible-la-vacuna-contra-el-dengue-donde-la-aplican-cuanto-sale-y-los-pasos-por-seguir-nid09112023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-vacuna-de-takeda-contra-el-dengue-aprobada-por-O462LEZ5CFEG5KF2BFXTFMLRPM.jpg?auth=4a5493de0136b4da0928c93072dd6b2b1da7c63a4639d6d7550b4bb3adee1af2&width=768&quality=70&smart=false",
-      "publishedAt": "2023-11-09 18:25:27",
-      "content": "El laboratorio productor de la vacuna contra el dengue que la Administraci\u00f3n Nacional de Medicamentos, Alimentos y Tecnolog\u00eda M\u00e9dica (Anmat) aprob\u00f3 para su comercializaci\u00f3n local inform\u00f3 hoy que el i\u2026 [+3612 chars]",
-      "retrievedAt": "2023-11-10 19:05:28.221508",
-      "internal_id": "c45d79bdcda62a3e9f0ce564021e948490c7c55084bb38b9042d4d1e3d1186ef",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 2999,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": "CDC",
-      "title": "Coverage with Selected Vaccines and Exemption from School Vaccine Requirements Among Children in Kindergarten - United States, 2022-23 School Year",
-      "description": "This report describes vaccination coverage and changes in exemption from school vaccine requirements among kindergartners.",
-      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7245a2.htm",
-      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7245a2_KindergartenVaccineCoverage_IMAGE_11Nov2023_1200x675.jpg?_=58303",
-      "publishedAt": "2023-11-09 18:00:00",
-      "content": "* All states except Wyoming require 2 doses of a measles-containing vaccine. Seven states (Alaska, Georgia, New Jersey, New York, North Carolina, Oregon, and Virginia) require only 1 dose of rubella \u2026 [+5702 chars]",
-      "retrievedAt": "2023-11-10 19:05:27.856892",
-      "internal_id": "873f37108ffb1380bd0b368bed5f38c16a0c77cb740298b37a4b41d403798157",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3000,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Wealthofgeeks.com",
-      "author": "Richard Pretorius",
-      "title": "Health Officials Warn of Painful Disease That Will Become a Major Threat This Decade",
-      "description": "The symptoms can be similar to a bad case of the flu \u2014 high fever, bad headache, muscle and joint pain. As of October 2, ... Read More",
-      "url": "https://wealthofgeeks.com/health-officials-warn-of-painful-disease-that-will-become-a-major-threat-this-decade/",
-      "urlToImage": "https://wealthofgeeks.com/wp-content/uploads/2023/11/doctor-patient.jpg",
-      "publishedAt": "2023-11-09 17:20:17",
-      "content": "The symptoms can be similar to a bad case of the flu high fever, bad headache, muscle and joint pain. As of October 2, more than 4.2 million cases of dengue fever have been reported this year and ov\u2026 [+2525 chars]",
-      "retrievedAt": "2023-11-10 19:05:28.200673",
-      "internal_id": "c28a219607c6e9e16da7fab7890bfd0c822f5a2113eaeae7aa7fe12da08278b5",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3009,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Gaza faces imminent typhoid, cholera outbreak, health bodies warn - POLITICO Europe",
-      "description": "Gaza faces imminent typhoid, cholera outbreak, health bodies warnPOLITICO Europe Israel-Hamas War: Latest Updates and NewsThe New York Times 'Catastrophe looming' in Gaza as hospitals appear close to collapse, doctor saysABC News WHO warns of disease spread i\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172206525",
-      "urlToImage": null,
-      "publishedAt": "2023-11-09 16:55:39",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-10 19:05:30.118226",
-      "internal_id": "978ee97ecc8100a96d508f91b32ff4270ea64c41d0754afa70a9442257ba4706",
       "publishedAtLabel": "Nov 9"
     }
   ]
