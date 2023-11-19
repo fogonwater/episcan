@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-11-19 07:05",
+  "last_updated": "2023-11-19 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 3218,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Punjabijagran.com",
+      "author": "Jagjit Singh",
+      "title": "Report of 11 lakh children not getting measles vaccine is fake says Health Ministry Reports not based on facts",
+      "description": "\u0a2a\u0a3f\u0a1b\u0a32\u0a47 \u0a38\u0a3e\u0a32 11 \u0a32\u0a71\u0a16 \u0a2c\u0a71\u0a1a\u0a3f\u0a06\u0a02 \u0a28\u0a42\u0a70 \u0a16\u0a38\u0a30\u0a47 \u0a24\u0a4b\u0a02 \u0a2c\u0a1a\u0a3e\u0a05 \u0a32\u0a08 \u0a2a\u0a39\u0a3f\u0a32\u0a3e \u0a1f\u0a40\u0a15\u0a3e \u0a28\u0a3e \u0a32\u0a71\u0a17\u0a23 \u0a26\u0a3e \u0a26\u0a3e\u0a05\u0a35\u0a3e \u0a15\u0a30\u0a28 \u0a35\u0a3e\u0a32\u0a40 \u0a2e\u0a40\u0a21\u0a40\u0a06 \u0a30\u0a3f\u0a2a\u0a4b\u0a30\u0a1f \u0a28\u0a42\u0a70 \u0a36\u0a28\u0a3f\u0a1a\u0a30\u0a35\u0a3e\u0a30 \u0a28\u0a42\u0a70 \u0a15\u0a47\u0a02\u0a26\u0a30\u0a40 \u0a38\u0a3f\u0a39\u0a24 \u0a2a\u0a30\u0a3f\u0a35\u0a3e\u0a30 \u0a2d\u0a32\u0a3e\u0a08 \u0a2e\u0a70\u0a24\u0a30\u0a3e\u0a32\u0a47 \u0a28\u0a47 \u0a59\u0a3e\u0a30\u0a1c \u0a15\u0a30 \u0a26\u0a3f\u0a71\u0a24\u0a3e\u0964",
+      "url": "https://www.punjabijagran.com/national/general-report-of-11-lakh-children-not-getting-measles-vaccine-is-fake-says-health-ministry-reports-not-based-on-facts-9303294.html",
+      "urlToImage": "https://img.punjabijagran.com/punjabi/18112023/18_11_2023-child_9303294.jpg",
+      "publishedAt": "2023-11-18 14:54:51",
+      "content": "() : 11 () () 11 2022 () , 2,63,84,580 2,63,63,270 2022-23 ( 2022 2023) 21,310 2021 2022 Posted By: Jagjit Singh",
+      "retrievedAt": "2023-11-19 19:05:16.145805",
+      "internal_id": "9750700b4965a0fca652cc5dafb0c55dc6364fe1abb0ab46228aa8ff1bda1edd",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 3216,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Measles deaths jumped over 40% from 2021 to 2022, CDC reports",
+      "description": "Declines in measles vaccination during the COVID-19 pandemic have been tied to an uptick in measles cases, deaths and major outbreaks worldwide.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/measles-deaths-jumped-over-40-from-2021-to-2022-cdc-reports",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ffr2HXQzJ5wi6Yg9NS6RsZ-1200-80.jpg",
+      "publishedAt": "2023-11-18 14:00:04",
+      "content": "Measles cases, deaths and outbreaks jumped dramatically between 2021 and 2022, a new report from the World Health Organization (WHO) and the U.S. Centers for Disease Control and Prevention (CDC) show\u2026 [+2904 chars]",
+      "retrievedAt": "2023-11-19 19:05:16.086772",
+      "internal_id": "fbbd4018d61df7cde487ea7b9389636db08b93749d1a55e8664481920d2ab979",
+      "publishedAtLabel": "Nov 18"
+    },
+    {
+      "id": 3217,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Reports claiming 11 lakh children missed first measles vaccine in 2022 'inaccurate': Health ministry",
+      "description": "Health Ministry has denied reports claiming that an estimated 11 lakh children in India missed their first measles vaccine dose in 2022. The ministry added that the catch-up vaccination age for the administration of MCV has been increased from two years to fi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/reports-claiming-11-lakh-children-missed-first-measles-vaccine-in-2022-inaccurate-health-ministry/articleshow/105312022.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-105312052,width-1200,height-630,imgsize-7334,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-11-18 09:41:41",
+      "content": "Media reports claiming that an estimated 11 lakh children in India missed their first measles vaccine dose in 2022 are \"ill-informed and inaccurate,\" the Union Ministry of Health Family Welfare said \u2026 [+2103 chars]",
+      "retrievedAt": "2023-11-19 19:05:16.121225",
+      "internal_id": "2cb6131debfe4c265c963c21835a45c9e34323786e40f0499c7f905dfc3fcd71",
+      "publishedAtLabel": "Nov 18"
+    },
     {
       "id": 3215,
       "query": [
@@ -3554,60 +3608,6 @@
       "retrievedAt": "2023-11-11 07:05:27.739657",
       "internal_id": "5df1bd83fa825492d0dee0543a7bc04d31d25d3422c1764c218bfa423c646674",
       "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3022,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ouest-France",
-      "author": ".",
-      "title": "Les \u00c9tats-Unis approuvent le premier vaccin contre le chikungunya",
-      "description": "Les \u00c9tats-Unis ont approuv\u00e9 ce jeudi le premier vaccin contre le chikungunya, d\u00e9velopp\u00e9 par le groupe Valneva, ont annonc\u00e9 les autorit\u00e9s sanitaires.",
-      "url": "https://www.ouest-france.fr/sante/les-etats-unis-approuvent-le-premier-vaccin-contre-le-chikungunya-a395cff8-e270-444c-aaec-ce45f142f1b7",
-      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMzExOGVlYzY0ODFlNTdkZGE2M2Y0ZGM5NTE4YmEzOTc4N2E?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=202520e03ac9ad06123216bbc536511853e86f92caf87e8513fb7ea5d47ac795",
-      "publishedAt": "2023-11-10 00:10:27",
-      "content": "Le vaccin, qui sera commercialis\u00e9 sous le nom de Ixchiq, est autoris\u00e9 pour les personnes de 18 ans et plus, pr\u00e9sentant un risque accru d'\u00eatre expos\u00e9es au virus, a pr\u00e9cis\u00e9 l'agence am\u00e9ricaine des m\u00e9di\u2026 [+1376 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.728304",
-      "internal_id": "e60654f74a5199d811bf1a66d50c60f1f5964b10352e7a8f535514356f2610b8",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3018,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Sciences et Avenir",
-      "author": "AFP",
-      "title": "Les Etats-Unis approuvent le premier vaccin contre le chikungunya",
-      "description": "Les Etats-Unis ont approuv\u00e9 jeudi le premier vaccin contre le chikungunya, d\u00e9velopp\u00e9 par le groupe europ\u00e9en Valneva, ont annonc\u00e9 les autorit\u00e9s sanitaires dans un communiqu\u00e9. Le vaccin, qui sera commercialis\u00e9 sous le nom de Ixchiq, est autoris\u00e9 pour les person\u2026",
-      "url": "https://www.sciencesetavenir.fr/sante/les-etats-unis-approuvent-le-premier-vaccin-contre-le-chikungunya_174978",
-      "urlToImage": "https://www.sciencesetavenir.fr/assets/img/2023/11/10/cover-r4x3w1200-654decdf16971-26dd298ea0a662796213b6290bf9edf105dbad46-jpg.jpg",
-      "publishedAt": "2023-11-09 23:21:24",
-      "content": "Les Etats-Unis ont approuv\u00e9 jeudi le premier vaccin contre le chikungunya, d\u00e9velopp\u00e9 par le groupe europ\u00e9en Valneva, ont annonc\u00e9 les autorit\u00e9s sanitaires dans un communiqu\u00e9. Le vaccin, qui sera comm\u2026 [+2537 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.716704",
-      "internal_id": "0ebeb43961335fd5be8a27c8faf5474eebd840c8b7863dbdd35dc55c68f680f4",
-      "publishedAtLabel": "Nov 9"
-    },
-    {
-      "id": 3024,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": null,
-      "title": "US FDA approves Vanessa's chikungunya vaccine",
-      "description": "(marketscreener.com) The U.S. Food and Drug Administration on Thursday approved Valneva's single-shot vaccine for individuals 18 years of age and older who are at increased risk of exposure to chikungunya virus. Valneva's vaccine, with the brand name Ixchiq\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/US-FDA-approves-Vanessa-s-chikungunya-vaccine-45292712/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-11-09 22:30:44",
-      "content": "Nov 9 (Reuters) - The U.S. Food and Drug Administration (FDA) on Thursday approved Valneva's single-shot vaccine for individuals 18 years of age and older who are at increased risk of exposure to \u2026 [+638 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.733842",
-      "internal_id": "071bb5d24d491e307d451ecc1bc50c11851dc3f2d27bf646f9aea2dd4702ae35",
-      "publishedAtLabel": "Nov 9"
     }
   ]
 }
