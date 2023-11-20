@@ -1,8 +1,118 @@
 {
-  "last_updated": "2023-11-20 07:06",
+  "last_updated": "2023-11-20 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 3,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 3223,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ooe.orf.at",
+      "author": "ORF.at",
+      "title": "Ausbreitung der Tigerm\u00fccke soll verhindert werden",
+      "description": "In der kalten Jahreszeit denken wir eher selten daran: Gelsen. Beim Land allerdings laufen derzeit Bem\u00fchungen, das Ausbreiten neuer, gef\u00e4hrlicher Gelsenarten zu verhindern \u2013 indem ihnen das \u00dcberwintern unm\u00f6glich gemacht wird. Jede und jeder kann dabei auch he\u2026",
+      "url": "https://ooe.orf.at/stories/3233128/",
+      "urlToImage": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2019%2F44%2F84%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F349803_master_111884_gelbfiebermuecke_uebertraegt_zika-virus_.jpg%3Fs%3Db76ef4fafbe9d00bb5a0c6a537879a7b4e2e19de",
+      "publishedAt": "2023-11-19 16:36:56",
+      "content": "Im Zentralraum hat es heuer wiederholt Funde der Asiatischen Tigerm\u00fccke gegeben. Sie ist am Tag aktiv und kann schwere Krankheiten wie das Dengue-Fieber, das ZIKA-Virus oder Chikungunya \u00fcbertragen. D\u2026 [+687 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.696590",
+      "internal_id": "2e25492edb53880fa764727115a5d9a67681d395ce9a45f1499a0a511d33e526",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3222,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Dengue cai 97% no Brasil, mas aten\u00e7\u00e3o ainda \u00e9 necess\u00e1ria",
+      "description": "O Dia Nacional de Combate ao Aedes aegypti \u00e9 importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito.",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-brasil/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
+      "publishedAt": "2023-11-19 14:17:26",
+      "content": "O Dia Nacional de Combate ao Aedes aegypti, celebrado neste domingo, 19, \u00e9 uma data importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito, tr\u2026 [+2521 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.677982",
+      "internal_id": "db79a98e45bf93f7c2e30bc09a7321179724a180bc48f7e7159721241bd72e93",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3226,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "Dengue: 6 more die; 1,291 hospitalised in 24hrs",
+      "description": "So far, the DGHS has recorded 3,01,255 dengue cases and 2,94,757 recoveries this year",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2023-11-19 13:37:21",
+      "content": "Six more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,549 this year. During the period, 1,291 more pati\u2026 [+425 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.723368",
+      "internal_id": "f4c9d17832ebd17d6044287facf298dfd5b13e34c43a6253e89f29f9f25be307",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3227,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Malaria Prevalent in Southern Province - Report",
+      "description": "[New Times] The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease.",
+      "url": "https://allafrica.com/stories/202311190024.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-19 12:51:06",
+      "content": "The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease. The Malaria and \u2026 [+2763 chars]",
+      "retrievedAt": "2023-11-20 19:05:43.783726",
+      "internal_id": "367f278c0feb2774c6b1ae37295149cc9133c3cb4cfee66a6db3fa1b8e6bba71",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3225,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "\u00bfPor qu\u00e9 una segunda infecci\u00f3n de dengue puede ser peor que la primera?",
+      "description": "La forma como act\u00faa el virus y la respuesta de nuestro sistema inmunitario cuando ocurre un nuevo contagio favorecen una mayor infecci\u00f3n, que incluso podr\u00eda derivar en dengue grave.",
+      "url": "https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/",
+      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
+      "publishedAt": "2023-11-19 11:03:00",
+      "content": "Una de las principales preguntas que giran alrededor del dengue es por qu\u00e9 las personas pueden tener complicaciones m\u00e1s graves cuando sufren una segunda infecci\u00f3n.Para responder mejor esta pregunta, \u2026 [+5223 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.714769",
+      "internal_id": "d7c3cf7b0830d3c038900f0bcbfb4d40e213458b4125fd6229025f1766308f6b",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3224,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Dengue cerrar\u00eda 2023 con mayor repunte de casos de \u00faltima d\u00e9cada",
+      "description": "Costa Rica acumul\u00f3 21.396 casos a inicios de noviembre; cinco personas han sufrido dengue grave este a\u00f1o y Salud investiga una posible muerte por esa enfermedad.",
+      "url": "https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/",
+      "urlToImage": "https://www.nacion.com/resizer/PiATf3lWvk3ueCCDZT1C1-o3WmE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/U5XOPZMSYRCBTK6C32OILYZUBQ.jpg",
+      "publishedAt": "2023-11-19 11:00:00",
+      "content": "El 2023 se perfila para convertirse en el a\u00f1o de mayor incidencia de dengue en la \u00faltima d\u00e9cada. En las primeras 44 semanas del a\u00f1o, Costa Rica registraba 21.396 casos de esta enfermedad y se ubicaba\u2026 [+8541 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.703435",
+      "internal_id": "fef8a298698213ce4eb1bcc58133f8f3fb269f774ab785bc9e0c16e91d1c5014",
+      "publishedAtLabel": "Nov 19"
+    },
     {
       "id": 3221,
       "query": [
@@ -3499,114 +3609,6 @@
       "content": "US health authorities on Thursday approved the world's first vaccine for chikungunya, a virus spread by infected mosquitoes that the Food and Drug Administration called \"an emerging global health thr\u2026 [+2655 chars]",
       "retrievedAt": "2023-11-11 07:05:27.762281",
       "internal_id": "26b9ea1204a6a48dc22cd616e9d900c02a8a84220ff9ddec9d666ec66aeb3ef0",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3029,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Approvato negli Usa il primo vaccino al mondo per la chikungunya",
-      "description": "Fda: il virus \u00e8 una minaccia emergente per la salute globale",
-      "url": "https://www.ansa.it/sito/notizie/topnews/2023/11/10/approvato-negli-usa-il-primo-vaccino-al-mondo-per-la-chikungunya_0082ccd5-9230-4b43-a795-805fce30f748.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_700/2010/7/5/620cdff784efd02ed605cb7bafb42567.jpg",
-      "publishedAt": "2023-11-10 02:33:32",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.747470",
-      "internal_id": "41b272bf2d1a6a55365b04284b092e936add7552a147a62da7ea293a4a6f21cf",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3036,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "FDA Approves First Vaccine to Prevent Disease Caused by Chikungunya Virus - FDA.gov",
-      "description": "FDA Approves First Vaccine to Prevent Disease Caused by Chikungunya VirusFDA.gov FDA approves first vaccine against chikungunya virusCNN US approves first vaccine against chikungunya virus: drug regulatorBangkok Post Chikungunya virus: FDA OKs first vaccine f\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172209573",
-      "urlToImage": null,
-      "publishedAt": "2023-11-10 02:32:11",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.767459",
-      "internal_id": "2a6a5e1813440126f7074e3cb4a77d896ca88e68004e37172d97c0e3410aaa82",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3032,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Le Monde avec AFP",
-      "title": "Le premier vaccin contre le chikungunya approuv\u00e9 aux Etats-Unis",
-      "description": "Au moins cinq millions de cas d\u2019infection ont \u00e9t\u00e9 enregistr\u00e9s ces 15 derni\u00e8res ann\u00e9es, selon l\u2019Agence am\u00e9ricaine des m\u00e9dicaments. Aucun traitement sp\u00e9cifique n\u2019existe pour soigner la maladie une fois l\u2019infection contract\u00e9e.",
-      "url": "https://www.lemonde.fr/sante/article/2023/11/10/le-premier-vaccin-contre-le-chikungunya-approuve-aux-etats-unis_6199241_1651302.html",
-      "urlToImage": "https://img.lemde.fr/2023/10/19/45/1056/3686/2457/1440/960/60/0/bb79349_2023-10-19t163941z-1474699494-rc21d0a6ratv-rtrmadp-3-health-dengue-johnson-johnson.JPG",
-      "publishedAt": "2023-11-10 02:22:48",
-      "content": "Un moustique \u00ab Aedes aegypti \u00bb \u00e0 la Commission nationale de l\u00e9nergie atomique, \u00e0 Ezeiza (Argentine), le 12 avril 2023. AGUSTIN MARCARIAN / REUTERS Les Etats-Unis ont approuv\u00e9 jeudi 9 novembre le pre\u2026 [+2673 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.756100",
-      "internal_id": "935bbdde29c2c9b38b21d6e906bc678245287e3b0eff1e87f350f92f6bad839e",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3020,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "AFP",
-      "title": "US approves first vaccine against chikungunya virus: drug regulator",
-      "description": "WASHINGTON - US health authorities on Thursday approved the world's first vaccine for chikungunya, a virus spread by infected mosquitoes that the Food and Drug Administration called \"an emerging global health threat.\"",
-      "url": "https://www.bangkokpost.com/world/2682373/us-approves-first-vaccine-against-chikungunya-virus-drug-regulator",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20231110/c1_4955193_700.jpg",
-      "publishedAt": "2023-11-10 02:14:00",
-      "content": "WASHINGTON - US health authorities on Thursday approved the world's first vaccine for chikungunya, a virus spread by infected mosquitoes that the Food and Drug Administration called \"an emerging glob\u2026 [+1513 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.722859",
-      "internal_id": "d5460176440d7e2ce4d7ce668ec8eb92a70bc274741db4e4cdb039d4bb470316",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3015,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Dirisu Yakubu",
-      "title": "Reps move against fake anti-malaria drugs",
-      "description": "The House of Representatives, on Thursday, mandated its Committee on HIV/AIDS, Tuberculosis and Malaria Control to urgently carry out a baseline survey across the six geo-political zones of the country on fake anti-malaria drugs and report back to it within f\u2026",
-      "url": "https://punchng.com/reps-move-against-fake-anti-malaria-drugs/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/01170116/house-of-reps-job-racketeering-probe.jpg",
-      "publishedAt": "2023-11-10 02:10:58",
-      "content": "The House of Representatives, on Thursday, mandated its Committee on HIV/AIDS, Tuberculosis and Malaria Control to urgently carry out a baseline survey across the six geo-political zones of the count\u2026 [+1369 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.332605",
-      "internal_id": "19b302422182f836b8c6b25435973b42464a73cf1c7b8976efbcfb14aeb87f7c",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3017,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "International Business Times",
-      "author": "Lucie AUBOURG",
-      "title": "US Approves First Vaccine Against Chikungunya Virus",
-      "description": "US health authorities on Thursday approved the world's first vaccine for chikungunya, a virus spread by infected mosquitoes that the Food and Drug Administration called \"an emerging global health threat.\"",
-      "url": "https://www.ibtimes.com/us-approves-first-vaccine-against-chikungunya-virus-3718144",
-      "urlToImage": "https://d.ibtimes.com/en/full/4498204/lab-technician-studies-mosquitoes-carrying-chikungunya-virus-public-health-laboratory.jpg",
-      "publishedAt": "2023-11-10 02:06:36",
-      "content": "US health authorities on Thursday approved the world's first vaccine for chikungunya, a virus spread by infected mosquitoes that the Food and Drug Administration called \"an emerging global health thr\u2026 [+2665 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.713019",
-      "internal_id": "e8d7cc1b999e5c99821e046365404d59bca4fc0405b63c35e69491c259a26a17",
       "publishedAtLabel": "Nov 10"
     }
   ]
