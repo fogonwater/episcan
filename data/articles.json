@@ -1,8 +1,44 @@
 {
-  "last_updated": "2023-11-20 19:05",
+  "last_updated": "2023-11-21 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 6,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 3229,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Los pesticidas anti mosquitos son 10 veces m\u00e1s efectivos cuando se combinan con peque\u00f1as cantidades de jab\u00f3n",
+      "description": "Una nueva investigaci\u00f3n ha demostrado que los pesticidas son 10 veces m\u00e1s efectivos cuando se combinan con peque\u00f1as cantidades de jab\u00f3n, como posible arma en la larga batalla contra la malaria, seg\u00fan publican en la revista 'PLOS Neglected Tropical Diseases'.",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-pesticidas-anti-mosquitos-son-10-veces-mas-efectivos-cuando-combinan-pequenas-cantidades-jabon-20231120070347.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231120070347_1200.jpg",
+      "publishedAt": "2023-11-20 06:03:47",
+      "content": "MADRID, 20 Nov. (EUROPA PRESS) - Una nueva investigaci\u00f3n ha demostrado que los pesticidas son 10 veces m\u00e1s efectivos cuando se combinan con peque\u00f1as cantidades de jab\u00f3n, como posible arma en la la\u2026 [+3713 chars]",
+      "retrievedAt": "2023-11-21 07:05:51.703306",
+      "internal_id": "b5cfa80081c5d96a9d938a55c024b2c6a27ec5ca507b937eff92488a2d2750bc",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3228,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas ultrapassa 10 mil casos de dengue e Sa\u00fade refor\u00e7a apelo \u00e0 popula\u00e7\u00e3o para preven\u00e7\u00e3o",
+      "description": "Secretaria de Sa\u00fade aponta queda nas notifica\u00e7\u00f5es nas \u00faltimas quatro semanas, mas destaca que segue \"atenta aos indicadores e atuando no combate aos criadouros\"; veja, abaixo, medidas preventivas contra o mosquito transmissor. Campinas, Mogi Gua\u00e7u, Mogi Mirim\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/11/19/campinas-ultrapassa-10-mil-casos-de-dengue-e-saude-reforca-apelo-a-populacao-para-prevencao.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/D91lVDz2UOuoKmUA7XjMswQvox8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/9/ZXEUPfQHO78slTEX68Qw/capturar3.jpg",
+      "publishedAt": "2023-11-19 21:40:53",
+      "content": "Em nota, a Secretaria de Sa\u00fade informou que est\u00e1 \"atenta aos indicadores da dengue e mant\u00e9m um trabalho incessante de combate \u00e0 doen\u00e7a, incluindo visitas aos im\u00f3veis para remo\u00e7\u00e3o de poss\u00edveis criadou\u2026 [+2226 chars]",
+      "retrievedAt": "2023-11-21 07:05:50.965749",
+      "internal_id": "cea4f014fe14e31fb2f88c12533799d7ae7ad8643f0a6245adf2a5880e1c9915",
+      "publishedAtLabel": "Nov 19"
+    },
     {
       "id": 3223,
       "query": [
@@ -3573,42 +3609,6 @@
       "content": "Une avanc\u00e9e sanitaire de premier plan. Les \u00c9tats-Unis ont approuv\u00e9 jeudi 9 novembre le premier vaccin contre le chikungunya, d\u00e9velopp\u00e9 par le groupe europ\u00e9en Valneva, ont annonc\u00e9 les autorit\u00e9s sanita\u2026 [+2890 chars]",
       "retrievedAt": "2023-11-11 07:05:27.750442",
       "internal_id": "485fd18a2c22b9f0bd5eb32b2ff02741516154263e8e49b176bd95a765fb6b77",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3033,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Sputniknewsbr.com.br",
-      "author": "Sputnik Brasil",
-      "title": "Vacina do Butantan contra chikungunya \u00e9 aprovada nos EUA",
-      "description": "A primeira vacina do mundo contra a chikungunya foi aprovada pelo \u00f3rg\u00e3o regulador sanit\u00e1rio dos EUA, a Food and Drug Administration (FDA). O f\u00e1rmaco foi desenvolvido em uma parceria pelo Instituto Butantan e a empresa francesa de biotecnologia francesa Valnev\u2026",
-      "url": "https://sputniknewsbr.com.br/20231109/vacina-do-butantan-contra-chikungunya-e-aprovada-nos-eua-31395912.html",
-      "urlToImage": "https://cdn1.sputniknewsbr.com.br/images/sharing/article/por/31395912.jpg?209467411699583929",
-      "publishedAt": "2023-11-10 02:38:02",
-      "content": "Not\u00edcias sobre pol\u00edtica, economia e sociedade do Brasil. Entrevistas e an\u00e1lises de especialistas sobre assuntos que importam ao pa\u00eds. https://sputniknewsbr.com.br/20231109/vacina-do-butantan-contra-\u2026 [+3940 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.758993",
-      "internal_id": "6a57589305f21f37ce63c93a9a43ec9b7f4d92efde070c306899371ae404be07",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3034,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AFP",
-      "title": "US approves first vaccine against chikungunya virus",
-      "description": "The vaccine, developed by Europe's Valneva which will be marketed under the name Ixchiq, was approved for people 18 and over who are at increased risk of exposure, the FDA said.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-approves-first-vaccine-against-chikungunya-virus/articleshow/105108568.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-105108580,width-1200,height-630,imgsize-21378,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-11-10 02:37:12",
-      "content": "US health authorities on Thursday approved the world's first vaccine for chikungunya, a virus spread by infected mosquitoes that the Food and Drug Administration called \"an emerging global health thr\u2026 [+2655 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.762281",
-      "internal_id": "26b9ea1204a6a48dc22cd616e9d900c02a8a84220ff9ddec9d666ec66aeb3ef0",
       "publishedAtLabel": "Nov 10"
     }
   ]
