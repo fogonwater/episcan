@@ -1,8 +1,260 @@
 {
-  "last_updated": "2023-11-21 07:05",
+  "last_updated": "2023-11-21 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 2,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 3238,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nu.nl",
+      "author": "Trouw/Jelle Reumer",
+      "title": "Trouw | De hoofdluis brengt de menselijke migratie goed in beeld",
+      "description": "Sinds de coronacrisis weten we allemaal wat een zo\u00f6nose is: een ziekte veroorzaakt door een verwekker, meestal een virus of een bacterie, die van een dier op de mens kan overspringen. De term komt van de Griekse woorden z\u014don = dier, en nosos = ziekte. Malaria\u2026",
+      "url": "https://www.nu.nl/uit-andere-media/6290486/de-hoofdluis-brengt-de-menselijke-migratie-goed-in-beeld.html",
+      "urlToImage": "https://media.nu.nl/m/i65xjb4aajq2_wd1280/de-hoofdluis-brengt-de-menselijke-migratie-goed-in-beeld.jpg",
+      "publishedAt": "2023-11-20 18:41:03",
+      "content": "Dit artikel is afkomstig uit Trouw. Elke dag verschijnt een selectie van de beste artikelen uit de kranten en tijdschriften op NU.nl. Daar lees je hier meer over. Maar er bestaan ook anthroponosen, \u2026 [+3025 chars]",
+      "retrievedAt": "2023-11-21 19:05:36.486220",
+      "internal_id": "e6f03991677f30d8dcb303afab948d2d9ebbc6be8678fa0c662a852c43496407",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3234,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "New approaches in the fight against drug resistance in malaria",
+      "description": "Malaria is one of the most widespread and deadly infectious diseases worldwide. New compounds are continuously required due to the risk of malaria parasites becoming resistant to the medicines currently used. A team of researchers has now combined the anti-ma\u2026",
+      "url": "https://www.sciencedaily.com/releases/2023/11/231120124152.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-11-20 17:41:52",
+      "content": "Malaria is one of the most widespread and deadly infectious diseases worldwide. New compounds are continuously required due to the risk of malaria parasites becoming resistant to the medicines curren\u2026 [+3145 chars]",
+      "retrievedAt": "2023-11-21 19:05:36.465848",
+      "internal_id": "0b933dfefa00df9ee2f571c6c798ed37160644f83465ba319f49e595f021cc4d",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3231,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Measles warning amid 'devastating resurgence' in UK of life-threatening diseases",
+      "description": "Doctors have been told to keep a close watch for symptoms of measles infections in children amid a \"devastating resurgence of virtually eliminated life-threatening diseases\" in the UK.",
+      "url": "https://news.sky.com/story/measles-warning-amid-devastating-resurgence-of-life-threatening-diseases-as-vaccination-rates-miss-targets-13012372",
+      "urlToImage": "https://e3.365dm.com/23/11/1600x900/skynews-mmr-measles-mumps-rubella_6366686.jpg?20231120150711",
+      "publishedAt": "2023-11-20 16:10:00",
+      "content": "Doctors have been told to keep a close watch for symptoms of measles infections in children amid a \"devastating resurgence of virtually eliminated life-threatening diseases\" in the UK. For the first\u2026 [+3935 chars]",
+      "retrievedAt": "2023-11-21 19:05:34.721079",
+      "internal_id": "8c7de520a99a80413aec0c74524b5f5814fbf420a74ca47a5dc67f2d43fd148b",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3233,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Cahya Sari, Raka Adji",
+      "title": "Wolbachia effective in reducing dengue cases by 77%: ministry",
+      "description": "The Ministry of Health on Monday said that the use of Wolbachia bacteria to control dengue transmission has proven effective in reducing cases of infection by up to 77 percent. \"This has been tested since 2011 in dozens ...",
+      "url": "https://en.antaranews.com/news/299100/wolbachia-effective-in-reducing-dengue-cases-by-77-ministry",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/20/EAAFA1E5-E1E3-46E2-9762-69967A6E6859.jpeg",
+      "publishedAt": "2023-11-20 15:25:11",
+      "content": "For several months, Wolbachia can make mosquitoes that carry the dengue virus sterile. Thus, even though they still bite, they do not transmit the virus. Jakarta (ANTARA) - The Ministry of Health on\u2026 [+2139 chars]",
+      "retrievedAt": "2023-11-21 19:05:35.371885",
+      "internal_id": "31f6aee206d19b2db9d9fadc28e51c0c959e48e2e05724f01bec76c93b140751",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3237,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Tom Nyirenda, Extraordinary Senior Lecture in the Department of Global Health, Stellenbosch University",
+      "title": "Antibiotic resistance causes more deaths than malaria and HIV/Aids combined. What Africa is doing to fight this silent epidemic",
+      "description": "Africa bears the heaviest burden of antimicrobial resistance, a phenomenon fuelled largely by poverty, But there are encouraging signs that the continent is taking action to fight it.",
+      "url": "https://theconversation.com/antibiotic-resistance-causes-more-deaths-than-malaria-and-hiv-aids-combined-what-africa-is-doing-to-fight-this-silent-epidemic-217689",
+      "urlToImage": "https://images.theconversation.com/files/560342/original/file-20231120-25-9tk151.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2023-11-20 14:35:51",
+      "content": "Each year antimicrobial resistance \u2013 the ability of microbes to survive agents designed to kill them \u2013 claims more lives than malaria and HIV/Aids combined. Africa bears the brunt of this development\u2026 [+6159 chars]",
+      "retrievedAt": "2023-11-21 19:05:36.479323",
+      "internal_id": "40718136cbda48f01bf99b5a425fc0715a97697ce88ac3163fc41c53a1d071ff",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3241,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Su Hailong, Jun Liu, Jianhai Yu, Zhenzhen Qiu, Wenhan Liang, Wangsheng Wu, Haifeng Mo, Hongwei Li, Wei Zhao, Weiwang Gu",
+      "title": "EDIII-Fc induces protective immune responses against the Zika virus in mice and rhesus macaque",
+      "description": "Author summary Zika virus (ZIKV) is a member of the Flavivirus genus. ZIKV could be transmitted through mosquito bites. In the population, ZIKV can be transmitted through mother-to-child transmission, sexual transmission, and blood transmission. Clinical symp\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011770",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011770.g004&size=inline",
+      "publishedAt": "2023-11-20 14:00:00",
+      "content": "Abstract Zika virus can infect the fetus through the placental barrier, causing ZIKV congenital syndrome and even miscarriage, which can cause great harm to pregnant women and infants. Currently, th\u2026 [+55669 chars]",
+      "retrievedAt": "2023-11-21 19:05:37.019821",
+      "internal_id": "7adbcc572ce078fdb8ad165ae10ceff3d7fb207c9e617f2cd00ac00180216bdf",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3243,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pratomporn Krangvichian, Teerasit Techawiwattanaboon, Tanapat Palaga, Patcharee Ritprajak, Patipark Kueanjinda, Chamraj Kaewraemruaen, Kanitha Patarakul",
+      "title": "Impaired functions of human monocyte-derived dendritic cells and induction of regulatory T cells by pathogenic Leptospira",
+      "description": "Author summary Dendritic cells (DCs) are critical antigen-presenting cells that link between innate and adaptive immune responses against pathogens. However, their role in the pathogenesis of human leptospirosis remains unclear. This study provides the first \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011781",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011781.g007&size=inline",
+      "publishedAt": "2023-11-20 14:00:00",
+      "content": "Citation: Krangvichian P, Techawiwattanaboon T, Palaga T, Ritprajak P, Kueanjinda P, Kaewraemruaen C, et al. (2023) Impaired functions of human monocyte-derived dendritic cells and induction of regul\u2026 [+44121 chars]",
+      "retrievedAt": "2023-11-21 19:05:38.830946",
+      "internal_id": "f838ffccfcf8b8417fd19f177d51ea1fa78cbaada18c9580864ccd6d7f69937e",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3242,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Mark Kortepeter, Contributor, \n Mark Kortepeter, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/markkortepeter/",
+      "title": "Vaccine Against Chikungunya Approved By The FDA. Should You Get It?",
+      "description": "The Food and Drug Administration recently approved a vaccine against chikungunya (pronounced chi-kuhn-goo-nyuh), a virus spread by mosquitoes in tropical areas across ...",
+      "url": "https://www.forbes.com/sites/markkortepeter/2023/11/20/vaccine-against-chikungunya-approved-by-the-fda-should-you-get-it/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655a874fda89f2d7fcdff9b4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-11-20 12:37:57",
+      "content": "A patient infected with Chikungunya remains in a hospital of Acapulco, Guerrero State, Mexico on ... [+] April 15, 2015. AFP PHOTO/ PEDRO PARDO (Photo credit should read Pedro PARDO/AFP via Getty Ima\u2026 [+3843 chars]",
+      "retrievedAt": "2023-11-21 19:05:37.665300",
+      "internal_id": "3e745c80634fbe43a06ce32ffabfa4e724dc4d03c3edaf3512ee0eae1414b0c4",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3230,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Janice Hopkins Tanne",
+      "title": "Measles cases and deaths are increasing worldwide, say WHO and CDC",
+      "description": "The world faces a growing measles crisis with cases and deaths rising, the World Health Organization and the US Centers for Disease Control and Prevention (CDC) have said in a joint report.12From 2021 to 2022 measles cases increased internationally by 18% and\u2026",
+      "url": "https://www.bmj.com/content/383/bmj.p2733",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/383/8407.cover-source.jpg",
+      "publishedAt": "2023-11-20 12:26:12",
+      "content": "Janice Hopkins TanneNew York The world faces a growing measles crisis with cases and deaths rising, the World Health Organization and the US Centers for Disease\u2026 [+376 chars]",
+      "retrievedAt": "2023-11-21 19:05:34.704740",
+      "internal_id": "6edf1c6c9aae68ac5b34132f79ec6caf6441565aaa6747f4cf0b1cf816c7fb66",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3240,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Www.nu.nl",
+      "author": "onze nieuwsredactie",
+      "title": "Tijgermug is gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'",
+      "description": "De Aziatische tijgermug, die ernstige ziektes zoals knokkelkoorts en zika kan overbrengen op mensen, is afgelopen zomer in bijna heel Nederland aangetroffen. In totaal zijn in 35 Nederlandse gemeenten muggen bestreden.",
+      "url": "https://www.nu.nl/dieren/6290510/tijgermug-is-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html",
+      "urlToImage": "https://media.nu.nl/m/zj6xqhqacdqi_wd1280/tijgermug-is-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.jpg",
+      "publishedAt": "2023-11-20 12:19:30",
+      "content": "20 nov 2023 om 12:27 Update: 21 minuten geleden De Aziatische tijgermug, die ernstige ziektes zoals knokkelkoorts en zika kan overbrengen op mensen, is afgelopen zomer in bijna heel Nederland aange\u2026 [+1525 chars]",
+      "retrievedAt": "2023-11-21 19:05:37.015659",
+      "internal_id": "f49af556a371c58e68fc9f5882cb2e348c37ea63ecbf36e703eca5a9a5451050",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3239,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Www.nu.nl",
+      "author": "onze nieuwsredactie",
+      "title": "Tijgermug gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'",
+      "description": "De Aziatische tijgermug, die ernstige ziektes zoals knokkelkoorts en zika kan overbrengen op mensen, is afgelopen zomer in bijna heel Nederland aangetroffen. In totaal zijn in 35 Nederlandse gemeenten muggen bestreden.",
+      "url": "https://www.nu.nl/dieren/6290510/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html",
+      "urlToImage": "https://media.nu.nl/m/zj6xqhqacdqi_wd1280/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.jpg",
+      "publishedAt": "2023-11-20 11:27:54",
+      "content": "De Aziatische tijgermug, die ernstige ziektes zoals knokkelkoorts en zika kan overbrengen op mensen, is afgelopen zomer in bijna heel Nederland aangetroffen. In totaal zijn in 35 Nederlandse gemeente\u2026 [+1475 chars]",
+      "retrievedAt": "2023-11-21 19:05:37.011122",
+      "internal_id": "9dec7aca4b21281955704d3ae638ddac98a9d94bb5bd65599c808c17160198c2",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3232,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases rise with two deaths in EPI week 45",
+      "description": "PUTRAJAYA: The number of dengue cases rose by 214 cases or 9.6% to 2,435 cases in the 45th Epidemiological Week (EPI Week 45) from Nov 5 to Nov 11, compared to 2,221 cases the week before. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/11/20/dengue-cases-rise-with-two-deaths-in-epi-week-45",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/11/20/2398586.jpg",
+      "publishedAt": "2023-11-20 11:25:00",
+      "content": "PUTRAJAYA: The number of dengue cases rose by 214 cases or 9.6% to 2,435 cases in the 45th Epidemiological Week (EPI Week 45) from Nov 5 to Nov 11, compared to 2,221 cases the week before. Health di\u2026 [+1032 chars]",
+      "retrievedAt": "2023-11-21 19:05:35.360299",
+      "internal_id": "c68626c61bb8227827be12a49e899b3909cde239b98f19776a98d3253a92dfc5",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3236,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Isna.ir",
+      "author": "\u0645\u062d\u0645\u062f\u062d\u0633\u06cc\u0646 \u0631\u0636\u0648\u0627\u0646\u06cc\u200c\u0641\u0631\u062f",
+      "title": "\u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0645\u0627\u06cc\u0639 \u0638\u0631\u0641\u0634\u0648\u06cc\u06cc \u0628\u0631\u0627\u06cc \u0645\u0628\u0627\u0631\u0632\u0647 \u0628\u0627 \u0645\u0627\u0644\u0627\u0631\u06cc\u0627!",
+      "description": "\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u062f\u0631 \u0645\u0637\u0627\u0644\u0639\u0647\u200c\u0627\u06cc \u062c\u0627\u0644\u0628 \u062a\u0648\u062c\u0647 \u062f\u0631\u06cc\u0627\u0641\u062a\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0645\u0627\u06cc\u0639 \u0638\u0631\u0641\u0634\u0648\u06cc\u06cc \u062f\u0631 \u062d\u0634\u0631\u0647\u200c\u06a9\u0634\u200c\u0647\u0627\u060c \u0645\u0631\u06af \u0648 \u0645\u06cc\u0631 \u067e\u0634\u0647\u200c\u0647\u0627\u06cc \u0645\u0627\u0644\u0627\u0631\u06cc\u0627 \u0631\u0627 \u0627\u0632 \u06f3\u06f0 \u062f\u0631\u0635\u062f \u0628\u0647 \u06f1\u06f0\u06f0 \u062f\u0631\u0635\u062f \u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f.",
+      "url": "https://www.isna.ir/news/1402082921234/\u0627\u0633\u062a\u0641\u0627\u062f\u0647-\u0627\u0632-\u0645\u0627\u06cc\u0639-\u0638\u0631\u0641\u0634\u0648\u06cc\u06cc-\u0628\u0631\u0627\u06cc-\u0645\u0628\u0627\u0631\u0632\u0647-\u0628\u0627-\u0645\u0627\u0644\u0627\u0631\u06cc\u0627",
+      "urlToImage": "https://cdn.isna.ir/d/2023/11/20/4/62809966.jpg?ts=1700463130164",
+      "publishedAt": "2023-11-20 08:46:37",
+      "content": ". . . () . . . (Malaria) . . (Malarial) . . . . (Mal-Aria) . . . . (UTEP) . UTEP : . . (CRID) . (WHO) . . . . : . . . . . .",
+      "retrievedAt": "2023-11-21 19:05:36.475637",
+      "internal_id": "bb1158183f1325a3412c235cbbad91bfb2ada2120f614ca6e8a2e3f8b62fe5b7",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3235,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Frequentfloaters.com",
+      "author": "Frequent Floaters",
+      "title": "Catching Yellow Fever or Malaria on a Caribbean Cruise???",
+      "description": "We have traveled extensively with Oceania Cruises in various regions of the world, but today we received our first Important Notification \u2013 General Health Information for an upcoming Caribbean cruise with warnings concerning catching Yellow Fever or Malaria. \u2026",
+      "url": "https://frequentfloaters.com/catching-yellow-fever-or-malaria-on-a-caribbean-cruise/",
+      "urlToImage": "https://frequentfloaters.com/wp-content/uploads/2023/11/Yellow-Fever-Malaria.jpg-1024x1024.png",
+      "publishedAt": "2023-11-20 07:09:51",
+      "content": "As an Amazon Affiliate, we may earn a commission on eligible purchases made through our referrals. Advertiser Disclosure: Frequent Floaters has partnered with CardRatings for our coverage of credit c\u2026 [+4072 chars]",
+      "retrievedAt": "2023-11-21 19:05:36.469343",
+      "internal_id": "cf65ff81e09c43e1175c8ff8987bab4efdb26ff6db815bd4ad298c64edcaf860",
+      "publishedAtLabel": "Nov 20"
+    },
     {
       "id": 3229,
       "query": [
@@ -3357,258 +3609,6 @@
       "content": "Les Etats-Unis ont approuv\u00e9 jeudi le premier vaccin contre le chikungunya, d\u00e9velopp\u00e9 par le groupe europ\u00e9en Valneva, ont annonc\u00e9 les autorit\u00e9s sanitaires dans un communiqu\u00e9. Le vaccin, qui sera comm\u2026 [+2357 chars]",
       "retrievedAt": "2023-11-11 19:05:20.904394",
       "internal_id": "32abee5f40b5746bf227ec2a1849ae621851bc5b1e4e356d969c7006118e101e",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3071,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Chikungunya vaccine: US approves first shot against mosquito-borne virus - BBC.com",
-      "description": "Chikungunya vaccine: US approves first shot against mosquito-borne virusBBC.com FDA approves first vaccine against chikungunya virusCNN US approves first vaccine against chikungunya virus: drug regulatorBangkok Post Chikungunya virus: FDA OKs first vaccine fo\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172210643",
-      "urlToImage": null,
-      "publishedAt": "2023-11-10 07:52:08",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-11 19:05:20.919445",
-      "internal_id": "fe4d1fd676ce3f726adc6bcb060629c845948228941997783d46c6501e063e46",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3048,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "il-sole-24-ore",
-      "source_name": "Il Sole 24 Ore",
-      "author": null,
-      "title": "Chikungunya, Fda approva il primo vaccino",
-      "description": "Si chiama Ixchiq ed \u00e8 prodotto dall\u2019europea Valneva. Il virus, trasmesso dalle zanzare, \u00e8 diffuso soprattutto nelle regioni tropicali e subtropicali",
-      "url": "https://www.ilsole24ore.com/art/chikungunya-fda-approva-primo-vaccino-AFxpj4ZB",
-      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2023/11/11/Immagini/Ritagli/AFP_34323L7-U35110474554dQp-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-      "publishedAt": "2023-11-10 07:51:29",
-      "content": "Ascolta la versione audio dell'articolo 1' di lettura Le autorit\u00e0 sanitarie statunitensi hanno approvato il primo vaccino al mondo contro la chikungunya, un virus diffuso da zanzare infette che la \u2026 [+914 chars]",
-      "retrievedAt": "2023-11-11 19:05:20.806251",
-      "internal_id": "0747e8d42c7cf48ede79a204d2d25399230017cfa8f0e54c5eabacc68e724de4",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3041,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Dagospia.com",
-      "author": null,
-      "title": "DENGUE, ARIDANGHETE! - IN ITALIA AUMENTANO I CASI DI FEBBRE DENGUE, LA MALATTIA INFETTIVA CHE SI TRASMETTE CON LA PUNTURA DI ZANZARE \"AEDES\" - A ROMA, 2 PERSONE SONO STATE RICOVERATE ALL'ISTITUTO SPALLANZANI DOPO AVER CONTRATTO IL VIRUS: SI TRATTA DI UN UOMO E UNA DONNA ENTREMBE RESIDENTI NEL PRIMO MUNICIPIO: NELL'AREA SONO SUBITO PARTITE LE OPERAZIONI DI DISINFESTAZIONE - IN TOTALE, I CONTAGI IN ITALIA SONO 72 (30 NEL LAZIO)",
-      "description": "Estratto da www.blitzquotidiano.it Dengue Due nuovi casi di febbre Dengue a Roma. I pazienti sono ora ricoverati all\u2019Istituto Spallanzani. Di origine virale, la malattia \u00e8 trasmessa agli esseri umani dalle punture di zanzare che hanno, a loro volta, punto u\u2026",
-      "url": "https://www.dagospia.com/rubrica-29/cronache/dengue-aridanghete-italia-aumentano-casi-febbre-dengue-373775.htm",
-      "urlToImage": "https://cdn-static.dagospia.com/img/patch/06-2022/dengue-1669576.jpeg",
-      "publishedAt": "2023-11-10 07:27:00",
-      "content": "Estratto da www.blitzquotidiano.it Dengue Due nuovi casi di febbre Dengue a Roma. I pazienti sono ora ricoverati all\u2019Istituto Spallanzani. Di origine virale, la malattia \u00e8 trasmessa agli esseri uma\u2026 [+922 chars]",
-      "retrievedAt": "2023-11-11 19:05:18.615084",
-      "internal_id": "8a02256d4761c44bff90e0609de07fa50f1fa49164cc4b1522473ef891110f6d",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3059,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": null,
-      "title": "FDA approves Valneva's Chikungunya vaccine for adults",
-      "description": "(marketscreener.com) French drugmaker Valneva said on Friday the U.S. Food and Drug Administration has approved its Chikungunya single-dose vaccine in individuals aged 18 and above. The company said it plans to start selling the IXCHIQ vaccine in the U.S. ea\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/FDA-approves-Valneva-s-Chikungunya-vaccine-for-adults-45294857/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-11-10 07:17:24",
-      "content": "Nov 10 (Reuters) - French drugmaker Valneva said on Friday the U.S. Food and Drug Administration (FDA) has approved its Chikungunya single-dose vaccine in individuals aged 18 and above. The compa\u2026 [+274 chars]",
-      "retrievedAt": "2023-11-11 19:05:20.862812",
-      "internal_id": "7251becee25bb05fc9a7f13d5724f026aafb6c9f5e2265f6297a59ce9157dc31",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3046,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Nigeria: Reps to Conduct Survey On Fake Malaria Drugs",
-      "description": "[Daily Trust] The House of Representatives has mandated its Committee on HIV/Aids, Tuberculosis and Malaria Control to conduct a baseline survey on fake anti-malaria medicines in the six geo-political zones of the country and report back within four weeks.",
-      "url": "https://allafrica.com/stories/202311100075.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-10 07:14:15",
-      "content": "The House of Representatives has mandated its Committee on HIV/Aids, Tuberculosis and Malaria Control to conduct a baseline survey on fake anti-malaria medicines in the six geo-political zones of the\u2026 [+1199 chars]",
-      "retrievedAt": "2023-11-11 19:05:19.686237",
-      "internal_id": "8f1b114a81ec362350bb3522f1b569042d3398d47ed8618813af2e542d77061f",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3023,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Chikungunya vaccine: US approves first shot against mosquito-borne virus",
-      "description": "The FDA's approval is expected to speed up the vaccine's global rollout.",
-      "url": "https://www.bbc.co.uk/news/world-asia-67376584",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10EF6/production/_131666396_gettyimages-1749104801.jpg",
-      "publishedAt": "2023-11-10 06:51:09",
-      "content": "The US Food and Drug Administration has approved the world's first vaccine for chikungunya, which it sees as an \"emerging global health threat\". The mosquito-borne disease causes fever and joint pai\u2026 [+1586 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.731316",
-      "internal_id": "85b3c78a5d380e1d7cbd22803e9f708e47b86bf31f5afa8d119c87f73b2ad20a",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3021,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Lalibre.be",
-      "author": "Belga Belga",
-      "title": "Les Etats-Unis approuvent le premier vaccin contre le chikungunya",
-      "description": "Le vaccin, qui sera commercialis\u00e9 sous le nom de Ixchiq, est autoris\u00e9 pour les personnes de 18 ans et plus, pr\u00e9sentant un risque accru d'\u00eatre expos\u00e9es au virus, a pr\u00e9cis\u00e9 l'agence am\u00e9ricaine des m\u00e9dicaments (FDA), dont les d\u00e9cisions sont tr\u00e8s suivies dans le \u2026",
-      "url": "https://www.lalibre.be/planete/sante/2023/11/10/les-etats-unis-approuvent-le-premier-vaccin-contre-le-chikungunya-66VKYUIXU5AFZNML742UMZHJ2U/",
-      "urlToImage": "https://www.lalibre.be/resizer/0l0iCzlTs_5aFL8iygEOxbFXYDY=/1200x630/filters:format(jpeg):focal(2459x1637:2469x1627):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/OIO44DUUUNC2DB5T3FIJECBT5U.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/6Y7EV4Y6GRA6HEYE3GFURT2XVQ.jpg",
-      "publishedAt": "2023-11-10 06:43:59",
-      "content": "Selon la FDA, au moins cinq millions de cas d'infection ont \u00e9t\u00e9 enregistr\u00e9s ces 15 derni\u00e8res ann\u00e9es. \"Les infections au virus du chikungunya peuvent conduire \u00e0 de graves et longs probl\u00e8mes de sant\u00e9,\u2026 [+877 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.725395",
-      "internal_id": "a605ccf7ed3c70c9a9e1b45a30c861bf48a634a8c044d17a014382cceeb65f16",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3028,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "dh.be",
-      "author": "Belga Belga",
-      "title": "Les Etats-Unis approuvent le premier vaccin contre le chikungunya",
-      "description": "Les Etats-Unis ont approuv\u00e9 jeudi le premier vaccin contre le chikungunya, d\u00e9velopp\u00e9 par le groupe Valneva, ont annonc\u00e9 les autorit\u00e9s sanitaires dans un communiqu\u00e9. ...",
-      "url": "https://www.dhnet.be/actu/monde/2023/11/10/les-etats-unis-approuvent-le-premier-vaccin-contre-le-chikungunya-GBVBJQ73RFG3ZNRCIVSJVKPAZM/",
-      "urlToImage": "https://www.dhnet.be/resizer/b-d_PsJLcNpd-LrorhE7MZCWijg=/1200x630/filters:format(jpeg):focal(2459x1637:2469x1627):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/KSYODHLMNBBMDA7B5YPJPTFVNY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/6Y7EV4Y6GRA6HEYE3GFURT2XVQ.jpg",
-      "publishedAt": "2023-11-10 06:40:33",
-      "content": "Le chikungunya, qui cause de la fi\u00e8vre et de violentes douleurs articulaires, est une maladie provoqu\u00e9e par un virus transmis par le moustique tigre. Elle est essentiellement pr\u00e9sente dans les r\u00e9gion\u2026 [+1021 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.744799",
-      "internal_id": "46c86b51a5b5286a2083ee489cc9f0db1409cc84f02f5e2981a1518ab6a31b55",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3016,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Sof\u00eda Barruti",
-      "title": "La FDA aprueba la primera vacuna contra el virus chikungunya",
-      "description": "El chikungunya no tiene tratamiento espec\u00edfico y puede ser debilitante e incluso mortal para los reci\u00e9n nacidos. Los expertos en salud lo consideran una amenaza emergente para la salud global agravada por el cambio clim\u00e1tico, con al menos 5 millones de casos \u2026",
-      "url": "https://cnnespanol.cnn.com/2023/11/10/la-fda-aprueba-la-primera-vacuna-contra-el-virus-chikungunya-trax/",
-      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/chikungunya.jpg?quality=100&strip=info",
-      "publishedAt": "2023-11-10 06:08:48",
-      "content": "Realizan experimento con mosquitos modificados en Florida 0:43 (CNN) -- La Administraci\u00f3n de Alimentos y Medicamentos de Estados Unidos dijo este jueves que aprob\u00f3 la primera vacuna para prevenir l\u2026 [+4495 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.709323",
-      "internal_id": "c21aefd6113cbb2624c5bafbdb27876662d8c5762c2dce28f9862813f018eb59",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3025,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Valneva Announces U.S. FDA Approval of World\u2019s First Chikungunya Vaccine, IXCHIQ\u00ae",
-      "description": "Saint-Herblain (France), November 10, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the U.S. Food and Drug Administration (FDA) has approved IXCHIQ\u00ae, Valneva\u2019s single-dose, live-attenuated vaccine ind\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/11/10/2778039/0/en/Valneva-Announces-U-S-FDA-Approval-of-World-s-First-Chikungunya-Vaccine-IXCHIQ.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-11-10 06:00:00",
-      "content": "Saint-Herblain (France), November 10, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the U.S. Food and Drug Administration (FDA) has approved IX\u2026 [+16312 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.736414",
-      "internal_id": "1080c27782a3bcdc67a03dd2bbee38c9a0a01fe74f7b1360d8789c9c63bfb28b",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3027,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Valneva re\u00e7oit l\u2019approbation par la U.S. FDA du premier vaccin au monde contre le chikungunya, IXCHIQ\u00ae",
-      "description": "Saint-Herblain (France), 10 novembre 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd\u2019hui que la Food and Drug Administration (FDA) des \u00c9tats-Unis a approuv\u00e9 IXCHIQ\u00ae, vaccin vivant att\u00e9nu\u00e9 \u00e0 inject\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/11/10/2778039/0/fr/Valneva-re%C3%A7oit-l-approbation-par-la-U-S-FDA-du-premier-vaccin-au-monde-contre-le-chikungunya-IXCHIQ.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-11-10 06:00:00",
-      "content": "Saint-Herblain (France), 10 novembre 2023 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourdhui que la Food and Drug Administration (FDA) des \u00c9tat\u2026 [+15734 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.742104",
-      "internal_id": "a179be140428564234b69a763e632057481136a4fc54df1a67d1815b4eaba0e1",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3014,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Pearl D'souza",
-      "title": "Viral impact: 25% increase in Bengaluru hospital admissions",
-      "description": "Hospitals in Bengaluru have seen a surge in patients with dengue or dengue-like infections and other viral infections over the past two months. Up to 25% of beds in some hospitals are occupied by these patients, who stay for an average of four to seven days. \u2026",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/viral-impact-25-increase-in-bengaluru-hospital-admissions/articleshow/105110917.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105110972,width-1070,height-580,imgsize-58442,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-10 03:52:56",
-      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
-      "retrievedAt": "2023-11-11 07:05:26.552433",
-      "internal_id": "d382038773089fcb0aab713a9e60d9d3e9b907e4090a028557f414175fa162a4",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3037,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Jen Christensen",
-      "title": "FDA approves first vaccine against chikungunya virus | CNN",
-      "description": "The US Food and Drug Administration said Thursday that it has approved the first vaccine to prevent disease caused by the chikungunya virus.",
-      "url": "https://www.cnn.com/2023/11/09/health/chikungunya-virus-vaccine/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231109160302-aedes-albopictu-mosquito.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-11-10 02:52:42",
-      "content": "The US Food and Drug Administration said Thursday that it has approved the first vaccine to prevent disease caused by the chikungunya virus. The single-dose vaccine, Ixchiq, made by Valneva Austria \u2026 [+3705 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.769978",
-      "internal_id": "8f2e6c28ee6822a62af6254e9b706eade45c3ae090038610527b21d5fbd16109",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3030,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Source AFP",
-      "title": "\u00c9tats-Unis : le premier vaccin contre le chikungunya approuv\u00e9",
-      "description": "Developpe par le groupe europeen Valneva, ce vaccin pourrait constituer le premier traitement specifique permettant de soigner la maladie.",
-      "url": "https://www.lepoint.fr/sante/etats-unis-le-premier-vaccin-contre-le-chikungunya-approuve-10-11-2023-2542571_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2023/11/10/25527721lpw-25527733-mega-une-jpg_9892040.jpg",
-      "publishedAt": "2023-11-10 02:52:00",
-      "content": "Une avanc\u00e9e sanitaire de premier plan. Les \u00c9tats-Unis ont approuv\u00e9 jeudi 9 novembre le premier vaccin contre le chikungunya, d\u00e9velopp\u00e9 par le groupe europ\u00e9en Valneva, ont annonc\u00e9 les autorit\u00e9s sanita\u2026 [+2890 chars]",
-      "retrievedAt": "2023-11-11 07:05:27.750442",
-      "internal_id": "485fd18a2c22b9f0bd5eb32b2ff02741516154263e8e49b176bd95a765fb6b77",
       "publishedAtLabel": "Nov 10"
     }
   ]
