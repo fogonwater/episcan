@@ -1,8 +1,136 @@
 {
-  "last_updated": "2023-11-21 19:05",
+  "last_updated": "2023-11-22 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 14,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 3250,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Tanzania: Battle Against Malaria Gets Further Boost",
+      "description": "[Daily News] In an effort to tackle the spreading of malaria disease, Barrick Bulyanhulu Gold Mine has launched a campaign to ensure zero threat remains a goal.",
+      "url": "https://allafrica.com/stories/202311210062.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-21 07:00:12",
+      "content": "In an effort to tackle the spreading of malaria disease, Barrick Bulyanhulu Gold Mine has launched a campaign to ensure zero threat remains a goal. The campaign was launched on Monday in Bugarama wa\u2026 [+2092 chars]",
+      "retrievedAt": "2023-11-22 07:05:42.111577",
+      "internal_id": "a610cb13ff6dccd54331cda89523a019903c61eaada0657162f16b21bef8fc0e",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 3245,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Faisal Mahmud",
+      "title": "Bangladesh battles record dengue deaths as disease pattern changes",
+      "description": "Densely populated country faces worst-ever outbreak in history, with over 1,500 dead and hospitals packed to the brim.",
+      "url": "https://www.aljazeera.com/news/2023/11/21/record-dengue-deaths-in-bangladesh-experts-flag-change-in-disease-pattern",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/Children-are-one-of-the-worst-sufferers-of-this-years-dengue-outbreak-1700485245.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-11-21 05:53:20",
+      "content": "Dhaka, Bangladesh Every time Mosammat Mayna enters the dengue ward at Mugda Hospital in Bangladeshs capital, sorrow and fear grip her mind. The 23-year-old has been working as a cleaner in the hospi\u2026 [+8800 chars]",
+      "retrievedAt": "2023-11-22 07:05:41.531161",
+      "internal_id": "763aa23afd10b450dd36663d25d8b2e3c733be9c885f50580db4fe75051f2428",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 3246,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Wolbachia mosquitoes to be released in five more sites in Singapore to combat dengue",
+      "description": "The release of the Wolbachia mosquitoes in five new sites will start in the first quarter of 2024.",
+      "url": "https://www.channelnewsasia.com/singapore/dengue-project-wolbachia-mosquitoes-five-sites-south-singapore-3935836",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--MkDWO-a2--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/male-wolbachia-aedes-aegypti-mosquitos-are-released-at-a-public-housing-estate-test-site-in-singapore-4_0.jpg?itok=OmHhy9QD",
+      "publishedAt": "2023-11-21 05:00:00",
+      "content": "SINGAPORE: Male Wolbachia-carrying Aedes aegypti mosquitoes will be released in five new sites in the south of Singapore in an effort to combat dengue, Senior Parliamentary Secretary for Sustainabili\u2026 [+2246 chars]",
+      "retrievedAt": "2023-11-22 07:05:41.539802",
+      "internal_id": "7e883d0a12686287908005bdd47dd53731a7c4b889dc981631fdbfafe944645e",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 3244,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Iz.ru",
+      "author": "\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u0413\u0443\u0441\u044c\u043a\u043e\u0432\u0430, \u042f\u043d\u0430 \u0428\u0442\u0443\u0440\u043c\u0430",
+      "title": "\u0412\u0440\u0430\u0447 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0430 \u043e \u0441\u0438\u043c\u043f\u0442\u043e\u043c\u0430\u0445 \u043a\u043e\u043a\u043b\u044e\u0448\u0430",
+      "description": "\u041a\u043e\u043a\u043b\u044e\u0448 \u2014 \u043a\u0440\u0430\u0439\u043d\u0435 \u0437\u0430\u0440\u0430\u0437\u043d\u0430\u044f \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043e\u0442\u043b\u0438\u0447\u0430\u0435\u0442\u0441\u044f \u0441\u0438\u043b\u044c\u043d\u044b\u043c \u043b\u0430\u044e\u0449\u0438\u043c \u043a\u0430\u0448\u043b\u0435\u043c. \u0420\u0430\u043d\u0435\u0435 \u043a\u043e\u043a\u043b\u044e\u0448 \u0441\u0447\u0438\u0442\u0430\u043b\u0441\u044f \u0434\u0435\u0442\u0441\u043a\u043e\u0439 \u0431\u043e\u043b\u0435\u0437\u043d\u044c\u044e, \u043d\u043e \u0441\u0435\u0439\u0447\u0430\u0441 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e, \u0447\u0442\u043e \u0438\u043c \u043c\u043e\u0433\u0443\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0442\u044c \u0432\u0441\u0435, \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e \u043e\u0442 \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430. \u041e \u0442\u043e\u043c, \u0447\u0435\u043c \u043e\u043f\u0430\u0441\u0435\u043d \u043a\u043e\u043a\u043b\u044e\u0448, \u043a\u0430\u043a \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u0442\u044c \u043f\u0435\u0440\u0432\u044b\u0435 \u0441\u0438\u043c\u043f\u0442\u043e\u043c\u044b \u2026",
+      "url": "https://iz.ru/1608218/2023-11-21/vrach-rasskazala-o-simptomakh-kokliusha",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2023-11/TASS_20921430_0.jpg?itok=WzzYYhpl",
+      "publishedAt": "2023-11-21 03:00:00",
+      "content": ", . , , , . , , , 21 \u00ab\u00bb - \u00ab\u00bb . , -, Bordetella pertussis. , , - . \u00ab , , . , . 80%\u00bb, . , , \u00ab\u00bb. \u00ab 510 . . : , , , . : , , . . . \u00ab\u00bb, , , . , , , . \u00ab\u00bb . , \u00bb, . , . , . . Bordetella pertussis. , .\u2026 [+112 chars]",
+      "retrievedAt": "2023-11-22 07:05:40.948469",
+      "internal_id": "3809d2eeb83b4277193a765af347b6b55815d3edd55b607dc769d4101c8b6cfe",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 3248,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Calor e chuva podem aumentar casos de dengue no pa\u00eds",
+      "description": "O clima quente e abafado, bem como as chuvas no fim do dia, contribuem para a prolifera\u00e7\u00e3o do mosquito Aedes aegypti \u2013 transmissor de doen\u00e7as ...",
+      "url": "https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/calor-e-chuva-podem-aumentar-casos-de-dengue-no-pais-21112023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/11/21/655c270343527f6de7001009/0695708658064fa88a56b7263e5fd062__2311961_EMTP_2111_BOLETIMJR_CALOR_DENGUE_thumb.jpg",
+      "publishedAt": "2023-11-21 01:00:54",
+      "content": "O clima quente e abafado, bem como as chuvas no fim do dia, contribuem para a prolifera\u00e7\u00e3o do mosquito Aedes aegypti \u2013 transmissor de doen\u00e7as como a zika, a chikungunya e a dengue. Na Bahia, ao menos\u2026 [+164 chars]",
+      "retrievedAt": "2023-11-22 07:05:41.556763",
+      "internal_id": "5473c98ef46a9ad1f5a697c77ebce197ddab130cfd6aaca537a4d0ceeed9b8d5",
+      "publishedAtLabel": "Nov 21"
+    },
+    {
+      "id": 3249,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Janet Ogundepo",
+      "title": "Why pregnant women, children with untreated malaria risk death",
+      "description": "Malaria if left untreated in pregnant women could lead to abortion and death, say physicians. The medical experts also stated that malaria could also kill children when poorly treated or if left untreated, stressing that the risk of death and coma in pregnant\u2026",
+      "url": "https://punchng.com/why-pregnant-women-children-with-untreated-malaria-risk-death/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/11/20202721/Ademowo1.jpg",
+      "publishedAt": "2023-11-20 23:01:33",
+      "content": "Malaria if left untreated in pregnant women could lead to abortion and death, say physicians. The medical experts also stated that malaria could also kill children when poorly treated or if left unt\u2026 [+5491 chars]",
+      "retrievedAt": "2023-11-22 07:05:42.101977",
+      "internal_id": "5dce8ca49948a4e3fc303dd77213f69206b53654af81a9b8a0fc9e1c773951c1",
+      "publishedAtLabel": "Nov 20"
+    },
+    {
+      "id": 3247,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "John Clewley",
+      "title": "Cambodian rock via LA",
+      "description": "Los Angeles-based band Dengue Fever has released a new studio album, Ting Mong (Tuk Tuk Records, USA), their first for eight years. The release marks the Cambodian-US band's 20th anniversary since their acclaimed self-titled debut in 2003.",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/2689059/cambodian-rock-via-la",
+      "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2023/11/21/4967064_700.jpg",
+      "publishedAt": "2023-11-20 22:00:00",
+      "content": "Los Angeles-based band Dengue Fever has released a new studio album, Ting Mong (Tuk Tuk Records, USA), their first for eight years. The release marks the Cambodian-US band's 20th anniversary since th\u2026 [+4040 chars]",
+      "retrievedAt": "2023-11-22 07:05:41.550018",
+      "internal_id": "b821dd2c1486d1865ded9a303bd2c807f064099644fa53828a74dea02d63852c",
+      "publishedAtLabel": "Nov 20"
+    },
     {
       "id": 3238,
       "query": [
@@ -3483,132 +3611,6 @@
       "content": "Americk\u00fd \u00darad pre kontrolu potrav\u00edn a lieiv (FDA) schv\u00e1lil vo tvrtok prv\u00fa vakc\u00ednu na svete proti v\u00edrusu chikungunya, ktor\u00fd \u00edria kom\u00e1re. Poda FDA sa z\u00e1rove tento v\u00edrus st\u00e1va \"novou glob\u00e1lnou hrozbou\".\u2026 [+2379 chars]",
       "retrievedAt": "2023-11-11 19:05:20.850278",
       "internal_id": "2f3bcaa60855cbf13eb3f208b55540f51374f0ad0c1ad182563d9a14212b52d5",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3053,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Dagospia.com",
-      "author": null,
-      "title": "LA \"FOOD AND DRUG ADMINISTRATION\" AMERICANA HA APPROVATO IL PRIMO VACCINO AL MONDO CONTRO LA CHIKUNGUNYA, UNA MALATTIA TROPICALE CHE SI DIFFONDE CON LE ZANZARE - IL VIRUS, CHE PROVOCA FEBBRE E FORTI DOLORI ARTICOLARI \u00c8 CONSIDERATO DALL'AUTORIT\u00c0 AMERICANA \"UNA MINACCIA EMERGENTE PER LA SALUTE GLOBALE\" E NONOSTANTE SI TROVI PRINCIPALMENTE IN AFRICA, NEL SUDEST ASIATICO E IN AMERICA, DI RECENTE ALCUNI CONTAGI SONO STATI SEGNALATI ANCHE IN...",
-      "description": "virus chikungunya 4 (ANSA) - Le autorit\u00e0 sanitarie statunitensi hanno approvato il primo vaccino al mondo contro la chikungunya, un virus diffuso da zanzare infette che la Food and Drug Administration (Fda) ha definito \"una minaccia emergente per la salute gl\u2026",
-      "url": "https://www.dagospia.com/rubrica-39/salute/quot-food-and-drug-administration-quot-americana-ha-approvato-primo-373804.htm",
-      "urlToImage": "https://cdn-static.dagospia.com/img/patch/09-2017/malaria-zanzara-anofele-934418.jpg",
-      "publishedAt": "2023-11-10 09:15:00",
-      "content": "virus chikungunya 4 (ANSA) - Le autorit\u00e0 sanitarie statunitensi hanno approvato il primo vaccino al mondo contro la chikungunya, un virus diffuso da zanzare infette che la Food and Drug Administrati\u2026 [+947 chars]",
-      "retrievedAt": "2023-11-11 19:05:20.835205",
-      "internal_id": "a1fdf8080909362a8c319209adeeaea29036a67e32f2a6902df34006a69db759",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3068,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "AFP",
-      "title": "EUA aprovam a primeira vacina contra a chikungunya",
-      "description": "Autorizada para maiores de 18 anos, imunizante evita a doen\u00e7a que provoca dor severa nas articula\u00e7\u00f5es durante meses e at\u00e9 anos",
-      "url": "https://noticias.r7.com/saude/eua-aprova-primeira-vacina-contra-chikungunya-10112023",
-      "urlToImage": "https://img.r7.com/images/reuters-aplicacao-de-vacina-vacina-chikungunya-1500-10112023090330266?crop=1501x844+0+91",
-      "publishedAt": "2023-11-10 09:10:00",
-      "content": "Vacina contra a chikungunya foi aprovada nos EUA Johanna Geron/Reuters - 01.02.2022 Os Estados Unidos aprovaram, nesta quinta-feira (9), uma vacina contra a chikungunya, a primeira contra ess\u2026 [+3195 chars]",
-      "retrievedAt": "2023-11-11 19:05:20.907203",
-      "internal_id": "b02e1feea19b99ebf44e525604f36c3606f2830105ada7913ba1f0fae2354474",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3073,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Hurriyet.com.tr",
-      "author": "H\u00fcrriyet",
-      "title": "FDA duyurdu: Sivrisinek kaynakl\u0131 vir\u00fcse kar\u015f\u0131 ilk a\u015f\u0131ya onay",
-      "description": "ABD, sivrisinek kaynakl\u0131 Chikungunya vir\u00fcs\u00fcn\u00fcn neden oldu\u011fu akut ate\u015fli bir hastal\u0131\u011fa kar\u015f\u0131 ilk a\u015f\u0131y\u0131 onaylad\u0131.",
-      "url": "https://www.hurriyet.com.tr/dunya/fda-duyurdu-sivrisinek-kaynakli-viruse-karsi-ilk-asiya-onay-42359120",
-      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/1200x675/654df2db4e3fe01748975f99.jpg",
-      "publishedAt": "2023-11-10 09:07:47",
-      "content": "p&gt;Sivrisineklerden insanlara bulaan Chikungunya vir\u00fcs\u00fc, hastalarda eklem iltihaplar, y\u00fcksek atee ve iddetli arlara neden olmaktadr. FDA d\u00fcn yapt a\u00e7klamada Bug\u00fcn ABD Gda ve la\u00e7 daresi ilk chikungun\u2026 [+830 chars]",
-      "retrievedAt": "2023-11-11 19:05:20.928837",
-      "internal_id": "5b0eae115985e4dedab41481d7423b475d75dd3977acbae2c1e1b3e197d44d66",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3070,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Chikungunya virus: FDA OKs first vaccine for people 18 years or older - USA TODAY",
-      "description": "Chikungunya virus: FDA OKs first vaccine for people 18 years or olderUSA TODAY FDA approves first vaccine against chikungunya virusCNN Chikungunya vaccine: US approves first shot against mosquito-borne virusBBC.com US approves first vaccine against chikunguny\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172210843",
-      "urlToImage": null,
-      "publishedAt": "2023-11-10 08:52:14",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-11 19:05:20.916578",
-      "internal_id": "2456b01640eb7afd1374e26f8dd3f4a72802a68074fde668f2bcf1b10e934c63",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3069,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "FRANCE 24 English",
-      "author": "FRANCE24",
-      "title": "Les Etats-Unis approuvent le premier vaccin contre le chikungunya",
-      "description": "Le vaccin, qui sera commercialis\u00e9 sous le nom de Ixchiq, est autoris\u00e9 pour les personnes de 18 ans et plus, pr\u00e9sentant un risque accru d'\u00eatre expos\u00e9es au virus, a pr\u00e9cis\u00e9 l'agence am\u00e9ricaine des m\u00e9dicaments (FDA), dont les d\u00e9cisions sont tr\u00e8s suivies dans le \u2026",
-      "url": "https://www.france24.com/fr/info-en-continu/20231110-les-etats-unis-approuvent-le-premier-vaccin-contre-le-chikungunya",
-      "urlToImage": "https://s.france24.com/media/display/9c5ce0ee-7fa4-11ee-8420-005056bf30b7/w:1280/p:16x9/ea2638800b28af6e3ee0de954d9118ead4653519.jpg",
-      "publishedAt": "2023-11-10 08:39:07",
-      "content": "Washington (AFP) Les Etats-Unis ont approuv\u00e9 jeudi le premier vaccin contre le chikungunya, d\u00e9velopp\u00e9 par le groupe europ\u00e9en Valneva, ont annonc\u00e9 les autorit\u00e9s sanitaires dans un communiqu\u00e9. Le vacci\u2026 [+2418 chars]",
-      "retrievedAt": "2023-11-11 19:05:20.910412",
-      "internal_id": "66406a95228e779543dafe356d47c22fbcb4aa2abec1b56b2713ad2e26f45910",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3072,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "the-irish-times",
-      "source_name": "The Irish Times",
-      "author": null,
-      "title": "US approves Chikungunya vaccine for adults",
-      "description": "FDA approves single-dose Chikungunya vaccine from French drugmaker Valneva",
-      "url": "https://www.irishtimes.com/world/us/2023/11/10/us-approves-chikungunya-vaccine-for-adults/",
-      "urlToImage": "https://www.irishtimes.com/resizer/Sx72KT0B_ezNEYFSMb9FrYvy-Yo=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/QMFU5T656LX5UHOJ3NI3OY52F4.jpg",
-      "publishedAt": "2023-11-10 08:32:19",
-      "content": "French drugmaker Valneva said on Friday the US Food and Drug Administration (FDA) has approved its Chikungunya single-dose vaccine in individuals aged 18 and above. The company said it plans to star\u2026 [+233 chars]",
-      "retrievedAt": "2023-11-11 19:05:20.924051",
-      "internal_id": "bce5f0ccdfd0098686e7cc91f872da45c744dec5951861c5bc63f697d8037ce7",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3067,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "L'Express",
-      "author": "L\u2019Express",
-      "title": "Chikungunya : le premier vaccin voit le jour aux Etats-Unis",
-      "description": "Le vaccin, qui sera commercialis\u00e9 sous le nom de \"Ixchiq\" est autoris\u00e9 pour les personnes de 18 ans et plus, pr\u00e9sentant un risque accru d\u2019\u00eatre expos\u00e9es au virus.",
-      "url": "https://www.lexpress.fr/sciences-sante/sante/chikungunya-le-premier-vaccin-voit-le-jour-aux-etats-unis-OYDCGNV3TFDBTMZPYF3TNQMCDY/",
-      "urlToImage": "https://www.lexpress.fr/resizer/s8U4gIAObVPW_p305uUo1mS0C7Q=/1200x630/filters:focal(809x777:819x787)/cloudfront-eu-central-1.images.arcpublishing.com/lexpress/FNUKYTIFV5E4JDYO2W4RME5DCY.jpg",
-      "publishedAt": "2023-11-10 08:22:40",
-      "content": "Les Etats-Unis ont approuv\u00e9 jeudi le premier vaccin contre le chikungunya, d\u00e9velopp\u00e9 par le groupe europ\u00e9en Valneva, ont annonc\u00e9 les autorit\u00e9s sanitaires dans un communiqu\u00e9. Le vaccin, qui sera comm\u2026 [+2357 chars]",
-      "retrievedAt": "2023-11-11 19:05:20.904394",
-      "internal_id": "32abee5f40b5746bf227ec2a1849ae621851bc5b1e4e356d969c7006118e101e",
       "publishedAtLabel": "Nov 10"
     }
   ]
