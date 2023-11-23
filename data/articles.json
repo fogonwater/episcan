@@ -1,8 +1,350 @@
 {
-  "last_updated": "2023-11-23 07:05",
+  "last_updated": "2023-11-23 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 3279,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Bbc News",
+      "title": "Sheffield health officials warn of measles outbreak in city",
+      "description": "People are advised to get children vaccinated following a measles outbreak in Sheffield.",
+      "url": "https://www.bbc.com/news/uk-england-south-yorkshire-67503830",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4811/production/_129594481_gettyimages-1159665817.jpg",
+      "publishedAt": "2023-11-22 18:49:27",
+      "content": "Copyright 2023 BBC. All rights reserved. The BBC is not responsible for the content of external sites. Read about our approach to external linking. Beta Terms By using the Beta Site, you agree that\u2026 [+595 chars]",
+      "retrievedAt": "2023-11-23 19:05:25.114455",
+      "internal_id": "ed6d71cba7d5d5c3acdfd207c63bbab44eae467824fb75ff1f130b10e0c17a41",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3287,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Alessandra Muglia",
+      "title": "Parte la prima grande campagna di vaccini contro la malaria in Africa",
+      "description": "Oltre due milioni di dosi in cinque Paesi: ieri consegnato il primo lotto in Camerun. Il progetto coordinato dall\u2019Oms e avviato da Gavi",
+      "url": "https://www.corriere.it/esteri/23_novembre_22/parte-prima-grande-campagna-vaccini-contro-malaria-africa-93ffb7a0-894a-11ee-8f3e-c26e333d742e.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/11/22/14de4572-895e-11ee-8f3e-c26e333d742e.jpg",
+      "publishedAt": "2023-11-22 17:47:24",
+      "content": "di Alessandra MugliaOltre due milioni di dosi in cinque Paesi: ieri consegnato il primo lotto in Camerun. Il progetto coordinato dall\u2019Oms e avviato da Gavi Possiamo guardare al nuovo anno con un fil\u2026 [+3944 chars]",
+      "retrievedAt": "2023-11-23 19:05:26.357466",
+      "internal_id": "21c8dd377f0b3a61d2164c0138f6c61761ebebc476f69be08eb65260549c81ae",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3295,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Bleeding Cool News",
+      "author": "Rich Johnston",
+      "title": "Will Gang War Divide Like Civil War Did? Amazing Spider-Man Spoilers",
+      "description": "Over in today's Invincible Iron Man #12, Wilson Fisk, is playing the good guy when it comes to the mutants, in order to reunite himself with his wife, Typhoid Mary \u2013 although last time we checked, it was in revenge for her death. It may be more about her bein\u2026",
+      "url": "https://bleedingcool.com/comics/will-gang-war-divide-like-civil-war-did-amazing-spider-man-spoilers/",
+      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2023/11/Screenshot-2023-11-21-151237-2000x1125.jpg",
+      "publishedAt": "2023-11-22 17:46:10",
+      "content": "Posted in: Comics, Comics Publishers, Current News, Marvel Comics, Spider-Man | Tagged: amazing spider-man, Gang War, Kingpin, Wilson Fisk Wilson Fisk, is playing the good guy when it comes to the m\u2026 [+2359 chars]",
+      "retrievedAt": "2023-11-23 19:05:27.448446",
+      "internal_id": "1f2b7665b3be05ed1ffd6142f66c6e02c626b8113ab4753569247635e4bdc0bb",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3284,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "In Afrika startet gro\u00dfangelegte Impfkampagne gegen Malaria",
+      "description": "Im Jahr 2021 starben weltweit mehr als 600.000 Menschen an Malaria . 96 Prozent der Todesf\u00e4lle wurden in Afrika registriert. Jetzt startet die Impfallianz Gavi eine Impfkampagne in Afrikas Hochrisikogebieten.",
+      "url": "https://www.dw.com/de/in-afrika-startet-gro%C3%9Fangelegte-impfkampagne-gegen-malaria/a-67525189",
+      "urlToImage": "https://static.dw.com/image/65427115_6.jpg",
+      "publishedAt": "2023-11-22 17:33:00",
+      "content": "In den Gebieten mit dem h\u00f6chsten Malaria-Risiko in Afrika soll in K\u00fcrze erstmals eine umfassende Impfkampagne gegen die Tropenkrankheit beginnen. In Kamerun sind die ersten 330.000 Dosen des neuartig\u2026 [+2182 chars]",
+      "retrievedAt": "2023-11-23 19:05:26.342577",
+      "internal_id": "f1a8ed43242c5e6c6072a9cff289322489fc2e3ef86c653992befcf498b1c6d0",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3286,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Redazione Salute",
+      "title": "Malaria: al via le vaccinazioni in Africa, prime dosi consegnate in Camerun",
+      "description": "Dopo il progetto pilota che ha portato ad un calo della mortalit\u00e0 del 13% e il via libera dell\u2019Oms, parte il programma di immunizzazione su larga scala nelle aree a pi\u00f9 alto rischio",
+      "url": "https://www.corriere.it/salute/malattie_infettive/23_novembre_22/malaria-via-vaccinazioni-africa-prime-dosi-consegnate-camerun-17e4668c-8951-11ee-8f3e-c26e333d742e.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/11/22/108f4318-8959-11ee-8f3e-c26e333d742e.jpg",
+      "publishedAt": "2023-11-22 17:07:29",
+      "content": "di Redazione SaluteDopo il progetto pilota che ha portato ad un calo della mortalit\u00e0 del 13% e il via libera dell\u2019Oms, parte il programma di immunizzazione su larga scala nelle aree a pi\u00f9 alto rischi\u2026 [+7256 chars]",
+      "retrievedAt": "2023-11-23 19:05:26.354485",
+      "internal_id": "0be3120b553c1cb0dd4dc26038ee3922b4d7aa9afae5a89763959ba99e95b4ee",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3285,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "New Study Links 'Super Mosquitoes' To Rising Malaria Rates In Africa",
+      "description": "The research disclosed that in Dire Dawa, malaria instances surged twelvefold during the dry season of 2022 in comparison to 2019.",
+      "url": "https://www.ndtv.com/science/new-study-links-super-mosquitoes-to-rising-malaria-rates-in-africa-4597933",
+      "urlToImage": "https://c.ndtvimg.com/2022-09/ha7jqn5o_dengue-mosquito-generic_625x300_19_September_22.jpg",
+      "publishedAt": "2023-11-22 16:56:45",
+      "content": "Anopheles stephensi is a malaria-carrying species of mosquito. An invasive super mosquito carrying malaria, originating from Asia, is wreaking havoc in urban areas of Africa. Scientists have, for th\u2026 [+2301 chars]",
+      "retrievedAt": "2023-11-23 19:05:26.350224",
+      "internal_id": "84fdc8fdfd55e84980ff6b253128f8b012d316144b8c576568316c13eb7d2d93",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3293,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Salesandmarketingnetwork.com",
+      "author": "Albumedix",
+      "title": "Vaccine Partner Valneva receives FDA approval for the World's first chikungunya vaccine using Albumedix' Recombumin(R)",
+      "description": "Albumedix Ltd ('Albumedix'), now part of the life science group Sartorius, announces that Recombumin\u00ae is critical to the manufacture of the first FDA- licensed chikungunya vaccine. Valneva's lyophilized chikungunya vaccine IXCHIQ\u00ae is the first i... Biopharma\u2026",
+      "url": "https://salesandmarketingnetwork.com/news_release_bs.html?ID=2048142",
+      "urlToImage": null,
+      "publishedAt": "2023-11-22 16:20:39",
+      "content": "Albumedix Ltd ('Albumedix'), now part of the life science group Sartorius, announces that Recombumin is critical to the manufacture of the first FDA- licensed chikungunya vaccine.Valneva's lyophilize\u2026 [+3043 chars]",
+      "retrievedAt": "2023-11-23 19:05:26.932773",
+      "internal_id": "c1d4b8cec2e1c560289802c746f15e3051e694fe6b3f3f07c200384b3e8c27cf",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3278,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Cheng, M., Lan, T., Geater, A., Deng, Q.-Y., Lin, Y.-D., Jiang, L.-Y., Chen, N., Zhu, M.-T., Li, Q., Tang, X.-Y.",
+      "title": "Health system barriers to timely routine measles vaccinations in rural southwest China: a qualitative study on the perspectives of township vaccination professionals and village doctors",
+      "description": "Objectives A well-functioning health system ensures timely routine measles vaccinations for age-appropriate children, minimising measles risk. However, there is limited knowledge about the impact of the performance of immunisation programmes in health systems\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/11/e072990?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-11-22 16:12:26",
+      "content": "Introduction Measles is a highly contagious respiratory disease that remains an important cause of childhood mortality in developing countries.1 Despite the availability of vaccines, it causes more \u2026 [+15624 chars]",
+      "retrievedAt": "2023-11-23 19:05:25.109689",
+      "internal_id": "12e0d8dbce0192664fb9b00582fdf5084ed7e455af567980499ef0cac8b23c98",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3290,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nu.nl",
+      "author": "onze nieuwsredactie",
+      "title": "Kameroen ontvangt als eerste land malariavaccin Mosquirix",
+      "description": "Kameroen heeft als eerste Afrikaanse land het malariavaccin Mosquirix ontvangen. Op het vliegveld van hoofdstad Yaound\u00e9 zijn dinsdagavond meer dan 331.000 doses aangekomen. De eerste vaccinaties zullen eind december of begin volgend jaar gezet worden.",
+      "url": "https://www.nu.nl/buitenland/6290845/kameroen-ontvangt-als-eerste-land-malariavaccin-mosquirix.html",
+      "urlToImage": "https://media.nu.nl/m/kg8xvpiaj55h_wd1280/kameroen-ontvangt-als-eerste-land-malariavaccin-mosquirix.jpg",
+      "publishedAt": "2023-11-22 16:09:58",
+      "content": "Kameroen heeft als eerste Afrikaanse land het malariavaccin Mosquirix ontvangen. Op het vliegveld van hoofdstad Yaound\u00e9 zijn dinsdagavond meer dan 331.000 doses aangekomen. De eerste vaccinaties zull\u2026 [+970 chars]",
+      "retrievedAt": "2023-11-23 19:05:26.371426",
+      "internal_id": "232ef4d2bbd071f700a7aa3ce7da8986eaa283898e7bf0e2690caff318a7e8e4",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3292,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "PT Jyothi Datta",
+      "title": "Valneva keen to bring its chikungunya vaccine, the world\u2019s first, to India",
+      "description": "Valneva, a French specialty vaccine co., plans to bring world's first chikungunya vaccine to India. They are in talks with DCGI to discuss availability timeline. CEPI is collaborating with vaccine makers in Asia to bring vaccine to developing countries. India\u2026",
+      "url": "https://www.thehindubusinessline.com/news/national/valneva-keen-to-bring-its-chikungunya-vaccine-the-worlds-first-to-india/article67561937.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-cleantech/aq63df/article34354468.ece/alternates/LANDSCAPE_1200/BL19PulseComiGAE8G7V027jpgjpg",
+      "publishedAt": "2023-11-22 13:25:55",
+      "content": "French specialty vaccine company Valneva is planning to bring its chikungunya vaccine, the worlds first, to India. Our objective is to make this vaccine available in all the countries were it is n\u2026 [+2272 chars]",
+      "retrievedAt": "2023-11-23 19:05:26.925175",
+      "internal_id": "23d18ff1e81b836a32e7048dfd40ae60a9d593669a4d1e5022a014ad2897190e",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3288,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nos.nl",
+      "author": null,
+      "title": "Kameroen ontvangt na jarenlang testen als eerste Afrikaanse land malariavaccin",
+      "description": "Kameroen is het eerste Afrikaanse land dat het malariavaccin Mosquirix officieel gaat gebruiken. Een lading met meer dan 331.000 doses kwam gisteren aan op het vliegveld in de hoofdstad Yaound\u00e9. Eerder werd het vaccin vier jaar lang getest op kinderen in Ghan\u2026",
+      "url": "https://nos.nl/l/2498829",
+      "urlToImage": "https://cdn.nos.nl/image/2023/11/22/1028472/1024x576a.jpg",
+      "publishedAt": "2023-11-22 13:05:50",
+      "content": "Kameroen is het eerste Afrikaanse land dat het malariavaccin Mosquirix officieel gaat gebruiken. Een lading met meer dan 331.000 doses kwam gisteren aan op het vliegveld in de hoofdstad Yaound\u00e9. Eerd\u2026 [+1875 chars]",
+      "retrievedAt": "2023-11-23 19:05:26.364911",
+      "internal_id": "60d5c0acb5385f1d00ea5f11edec4707a73dfb7fd283a1e85d16e019f0541be5",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3282,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "Worst ever dengue outbreak in Bangladesh",
+      "description": "Bangladesh faces a severe dengue outbreak, surpassing 300,000 cases within 51 days, with 1,554 fatalities, the highest in its history. Climate change extends Aedes mosquito breeding seasons in the country's tropical climate, worsening urbanization's impact. T\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/bangladesh-undergoing-the-worst-ever-dengue-outbreak-key-points/photostory/105409896.cms",
+      "urlToImage": "https://static.toiimg.com/photo/105409915.cms",
+      "publishedAt": "2023-11-22 12:30:00",
+      "content": "A densely populated country in South Asia, Bangladesh is currently suffering because of a severe dengue outbreak. The dengue fever is a mosquito-borne viral infection transmitted by the Aedes mosquit\u2026 [+1032 chars]",
+      "retrievedAt": "2023-11-23 19:05:25.546314",
+      "internal_id": "fda38bce68f9d118e44c1079f941c1f9a67773e9d034d623a0fb1fd24095e56c",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "World News in Brief: DPR Korea missile launch condemned, malaria vaccines for Cameroon, solidarity with Haiti",
+      "description": "UN Secretary-General Ant\u00f3nio Guterres has strongly condemned the latest launch of a military satellite using ballistic missile technology by the Democratic People\u2019s Republic of Korea (DPRK). Read Full Story on UN News The post World News in Brief: DPR Korea m\u2026",
+      "url": "https://news.un.org/en/story/2023/11/1143862",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-05-2023_Unsplash_DPRK.jpg/image770x420cropped.jpg",
+      "publishedAt": "2023-11-22 12:00:00",
+      "content": "The country, commonly known as North Korea, claimed to have carried out a third attempt to launch a ballistic missile on Tuesday, according to media reports. Comply with obligations Any such launch\u2026 [+2785 chars]",
+      "retrievedAt": "2023-11-23 19:05:26.367354",
+      "internal_id": "2d0970563037543c975d30d7183f7f5ca1e285b7e9c4e5fb2fe1d716c13001b7",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3291,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "World Bank Group",
+      "author": "World Bank Group",
+      "title": "World Bank and Global Fund: Stronger Collaboration to Tackle the Impact of Climate Change on Health",
+      "description": "The goal is to support more efficient, effective, and sustainable financing to improve health outcomes in the face of climate change.",
+      "url": "https://www.worldbank.org/en/news/press-release/2023/11/22/world-bank-and-global-fund-stronger-collaboration-to-tackle-the-impact-of-climate-change-on-health",
+      "urlToImage": "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg",
+      "publishedAt": "2023-11-22 11:00:00",
+      "content": "WASHINGTON, Nov 22, 2023 The World Bank and the Global Fund to Fight AIDS, Tuberculosis, and Malaria (the Global Fund) today signed a new Memorandum of Understanding (MoU) outlining how the two organ\u2026 [+5185 chars]",
+      "retrievedAt": "2023-11-23 19:05:26.377649",
+      "internal_id": "00c26d21e48e6037e101a324d84e3aefe5bef0594f7694799d48cec0e0810a50",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3294,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
+      "title": "Jakarta administers second dose of monkeypox vaccine",
+      "description": "The Jakarta Health Service has begun administering the second dose of the monkeypox (mpox) vaccine to 495 first-dose recipients, an official stated on Wednesday. \"The second dose of mpox vaccine has been administered ...",
+      "url": "https://en.antaranews.com/news/299238/jakarta-administers-second-dose-of-monkeypox-vaccine",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/22/InShot_20231122_112030570.jpg",
+      "publishedAt": "2023-11-22 09:01:53",
+      "content": "Jakarta (ANTARA) - The Jakarta Health Service has begun administering the second dose of the monkeypox (mpox) vaccine to 495 first-dose recipients, an official stated on Wednesday.\"The second dose of\u2026 [+2333 chars]",
+      "retrievedAt": "2023-11-23 19:05:27.265659",
+      "internal_id": "158c5b26b85caaf3cd0f692657a8ff4706fd784f276b668259afb5be8da8ef50",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3283,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Burkina Faso: Epid\u00e9mie de dengue - Au coeur des \u00e9picentres",
+      "description": "[Sidwaya] A la date du 12 novembre 2023, la dengue a caus\u00e9 plus de 500 morts sur toute l'\u00e9tendue du territoire national. A Ouagadougou et Bobo-Dioulasso, les deux \u00e9picentres de l'\u00e9pid\u00e9mie, les populations de plus en plus touch\u00e9es par la maladie souffrent le m\u2026",
+      "url": "https://fr.allafrica.com/stories/202311220196.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-22 08:52:16",
+      "content": "A la date du 12 novembre 2023, la dengue a caus\u00e9 plus de 500 morts sur toute l'\u00e9tendue du territoire national. A Ouagadougou et Bobo-Dioulasso, les deux \u00e9picentres de l'\u00e9pid\u00e9mie, les populations de p\u2026 [+15045 chars]",
+      "retrievedAt": "2023-11-23 19:05:25.553820",
+      "internal_id": "8d710ef2dee2f14650d915603215bbab7a2f2db8230108c0bdcc90cb7007c408",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3277,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Devi Nindy S R, Resinta Sulistiyandari",
+      "title": "BNPB ready to form task force for rabies emergency handling",
+      "description": "National Disaster Mitigation Agency (BNPB) Head, Lieutenant General Suharyanto, expressed his side's readiness, if appointed, to handle the rabies emergency due to their experience as a task force in handling the Foot and ...",
+      "url": "https://en.antaranews.com/news/299229/bnpb-ready-to-form-task-force-for-rabies-emergency-handling",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/21/antarafoto-rakor-tingkat-menteri-menko-pmk-muhadjir-effendy-211123-rn-4.jpg",
+      "publishedAt": "2023-11-22 08:13:58",
+      "content": "Jakarta (ANTARA) - National Disaster Mitigation Agency (BNPB) Head, Lieutenant General Suharyanto, expressed his side's readiness, if appointed, to handle the rabies emergency due to their experience\u2026 [+2098 chars]",
+      "retrievedAt": "2023-11-23 19:05:24.730069",
+      "internal_id": "d33aff7097a500faca734df4a12a4ecbfd839e288178527a44ffb5d80a0233e2",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3280,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Bhumi Pednekar Shares Selfies From Hospital After Recovering From Dengue",
+      "description": "Bhumi was last seen in Thank You For Coming",
+      "url": "https://www.ndtv.com/entertainment/bhumi-pednekar-shares-selfies-from-hospital-after-recovering-from-dengue-4595857",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/hhlpl5hg_bhumi-_625x300_22_November_23.jpg",
+      "publishedAt": "2023-11-22 08:10:51",
+      "content": "Image instagrammed by Bhumi. (Courtesy: BhumiPednekar) New Delhi: Bhumi Pednekar had been down with Dengue for the last eight days. As she has been gradually recovering from the \"torture\" she suffer\u2026 [+2242 chars]",
+      "retrievedAt": "2023-11-23 19:05:25.538995",
+      "internal_id": "e323c9bfe950d156534c673515ecb39bd1ec2ca4e3553dc19879dbdfa47d066c",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3281,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "Bhumi shares PICS from hospital",
+      "description": "Bhumi Pednekar reveals she got Dengue and was hospitalised, thus asks people to take care of themselves and their immunity...",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhumi-pednekar-shares-shes-been-hospitalised-urges-people-to-be-careful-says-last-few-days-were-tough/articleshow/105409490.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105409495,width-1070,height-580,imgsize-47154,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-22 07:41:07",
+      "content": "Eyes that enchant: Keerthy Suresh's captivating clicks",
+      "retrievedAt": "2023-11-23 19:05:25.542085",
+      "internal_id": "4a6020d6c0799721fc2864e70ffb8474e5e19a960b597dbdb3a0d9cb99236be8",
+      "publishedAtLabel": "Nov 22"
+    },
     {
       "id": 3274,
       "query": [
@@ -3270,348 +3612,6 @@
       "retrievedAt": "2023-11-13 07:06:13.234855",
       "internal_id": "51c07092564cb3032bc4fa03c8023ae04ecb404e263b6773d538817c7f8e56d1",
       "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3096,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Anuradha Mascarenhas",
-      "title": "Pune reports first case of Zika virus this year",
-      "description": "So far 10 cases of zika virus infection have been reported in Maharashtra in the last three years and state health officials urged citizens not to panic.",
-      "url": "https://indianexpress.com/article/cities/pune/pune-reports-first-case-zika-virus-this-year-9023273/",
-      "urlToImage": "https://images.indianexpress.com/2023/11/Pune-Zika-cases.jpg",
-      "publishedAt": "2023-11-11 19:28:15",
-      "content": "Pune reported its first case of Zika virus infection this year in a 64-year-old woman from Yerawada.The woman had symptoms like fever and severe joint pain and was admitted to Jehangir hospital on No\u2026 [+2597 chars]",
-      "retrievedAt": "2023-11-13 07:06:12.531952",
-      "internal_id": "40f423fb0a2efa31e8b7b618c22f22f22050eb7cf866fc1616ee999465aa12d6",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3094,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "FDA approves first vaccine for mosquito-born viral disease - The Hill",
-      "description": "FDA approves first vaccine for mosquito-born viral diseaseThe Hill US approves world's 1st chikungunya vaccine | Latest News | WIONWION FDA approves first vaccine against mosquito-borne virus chikungunyaThe Washington Post US approves vaccine against mosquito\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172218135",
-      "urlToImage": null,
-      "publishedAt": "2023-11-11 15:32:18",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-12 19:05:19.249233",
-      "internal_id": "d6ae7cbc6f8401e28df2bddc2725eb804decabc4bc11dc4857fc2dd115b96c09",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3091,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Animashaun Salman",
-      "title": "Sokoto distributes ITNs, drugs to IDP camps",
-      "description": "Sokoto State Government has commenced the distribution of insecticide-treated Treated Nets, antimalarial drugs and fumigation exercises to Internally Displaced Persons in the State. The exercise was inaugurated by Deputy Governor of Sokoto state, Alhaji Idris\u2026",
-      "url": "https://punchng.com/sokoto-distributes-itns-drugs-to-idp-camps/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/11/10215106/Ahmad-Aliyu-e1699649466126.jpeg",
-      "publishedAt": "2023-11-11 14:37:02",
-      "content": "Sokoto State Government has commenced the distribution of insecticide-treated Treated Nets, antimalarial drugs and fumigation exercises to Internally Displaced Persons in the State. The exercise was\u2026 [+1552 chars]",
-      "retrievedAt": "2023-11-12 19:05:17.773962",
-      "internal_id": "5ae4d80031100db020ee5b700f2be5462738b50cbda0fdaaf1f27beddd445bc4",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3088,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Los Angeles Times",
-      "author": "Jeremy Childs",
-      "title": "No shots for Spot? Study finds owners' vaccine hesitancy can extend to pet dogs",
-      "description": "A recent study in the journal Vaccine found that vaccine hesitancy among dog owners contributed to opposition to inoculation for canine-borne diseases, such as rabies.",
-      "url": "https://www.latimes.com/science/story/2023-11-11/rabies-vaccine-hesitancy-on-the-rise-among-pet-owners",
-      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/bc9f403/2147483647/strip/true/crop/5760x3024+0+408/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc3%2F73%2F524836674252aeaadfe404021c80%2F1240532-me-0111-skid-row-street-vet-gem-015.jpg",
-      "publishedAt": "2023-11-11 13:00:31",
-      "content": "Individuals who are skeptical of vaccines for themselves are also more like to question the need or efficacy of getting shots for their four-legged companions, according to a recent study. In the s\u2026 [+3060 chars]",
-      "retrievedAt": "2023-11-12 19:05:15.442919",
-      "internal_id": "4218103594d4d7a44dabe882e0967b62dda504e41f128f4dfab8428e0fcbdd11",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3092,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Orf.at",
-      "author": "ORF.at",
-      "title": "Chikungunya-Fieber: Valneva-Impfstoff in USA zugelassen",
-      "description": "",
-      "url": "https://orf.at/stories/3339496/",
-      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
-      "publishedAt": "2023-11-11 12:51:07",
-      "content": "Die USA haben weltweit erstmals einen Impfstoff gegen das Chikungunya-Virus zugelassen, das vor allem in tropischen und subtropischen Regionen in Afrika, Asien und Amerika auftritt und durch M\u00fccken v\u2026 [+839 chars]",
-      "retrievedAt": "2023-11-12 19:05:19.162060",
-      "internal_id": "c8c64eeb3d99379777621fbf9b9d2092a3df8caed1a033540121e70448fe97f9",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3089,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Courrier International",
-      "author": null,
-      "title": "Au Burkina Faso, la dengue fait des ravages",
-      "description": "La dengue, maladie virale transmise \u00e0 l\u2019homme par des moustiques, enregistre des milliers de cas au Burkina Faso. Le site d\u2019informations burkinab\u00e8 \u201cWakat Sera\u201d, dans son enqu\u00eate au c\u0153ur des h\u00f4pitaux de Ouadadougou, souligne que cette \u201cgrippe tropicale\u201d touche\u2026",
-      "url": "https://www.courrierinternational.com/article/reportage-au-burkina-faso-la-dengue-fait-des-ravages",
-      "urlToImage": "https://focus.courrierinternational.com/2023/11/07/0/0/6000/4500/1200/630/60/0/2b0fc4f_1699355364960-049-f0279945.jpg",
-      "publishedAt": "2023-11-11 10:01:56",
-      "content": "Le 19 octobre 2023, au petit matin, les m\u00e9decins, dans leur blouse blanche, constatent, impuissants et avec amertume, la mort dA\u00efda. Dans son lit dh\u00f4pital, le corps fr\u00eale de cette jeune de 14 ans est\u2026 [+10308 chars]",
-      "retrievedAt": "2023-11-12 19:05:16.355579",
-      "internal_id": "7acd9805741fc76a6466238307542c53898061e29f102509d3b5b9ab1f41f6b5",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3093,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Point",
-      "author": "Caroline Tourbe",
-      "title": "Vaccin contre le chikungunya : ce labo fran\u00e7ais qui remporte la course mondiale",
-      "description": "DECRYPTAGE. Autorise aux Etats-Unis, le vaccin contre cette maladie emergente est une belle revanche pour le laboratoire Valneva, base a Nantes. Et une chance pour contrer les epidemies a venir.",
-      "url": "https://www.lepoint.fr/sante/vaccin-contre-le-chikungunya-ce-labo-francais-qui-remporte-la-course-mondiale-11-11-2023-2542698_40.php",
-      "urlToImage": "https://static.lpnt.fr/images/2023/11/11/25532815lpw-25533118-mega-une-jpg_9894706.jpg",
-      "publishedAt": "2023-11-11 08:11:00",
-      "content": "C'est une premi\u00e8re mondiale. Le vaccin contre le virus du chikungunya commercialis\u00e9 sous le nom de Ixchiq par le laboratoire Valneva vient d'\u00eatre autoris\u00e9 par l'Agence am\u00e9ricaine des m\u00e9dicaments (FDA\u2026 [+1132 chars]",
-      "retrievedAt": "2023-11-12 19:05:19.209383",
-      "internal_id": "dc9138084b5566ce0d3ffaece114465166405008fb335186e34ccec9f2220df2",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3079,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": null,
-      "title": "\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u094b \u092e\u093f\u0932\u093e \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u093e \u092a\u0939\u0932\u093e \u091f\u0940\u0915\u093e, \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u090f\u092b\u0921\u0940\u090f \u0928\u0947 \u0907\u0915\u094d\u0938\u094d\u091a\u093f\u0915 \u0915\u094b \u0926\u0940 \u092e\u0902\u091c\u0942\u0930\u0940",
-      "description": "Chikungunya Vaccine: \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u092b\u0948\u0932\u0928\u0947 \u0915\u0940 \u0905\u0939\u092e \u0935\u091c\u0939 \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u092e\u091a\u094d\u091b\u0930\u094b\u0902 \u0915\u093e \u0915\u093e\u091f\u0928\u093e \u0939\u0948\u0964 \u092a\u093f\u091b\u0932\u0947 15 \u0938\u093e\u0932\u094b\u0902 \u092e\u0947\u0902 \u091a\u093f\u0915\u0928\u0917\u0941\u0928\u093f\u092f\u093e \u0935\u093e\u092f\u0930\u0938 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0915\u0947 5 \u092e\u093f\u0932\u093f\u092f\u0928 \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u092e\u093e\u092e\u0932\u0947 \u0938\u093e\u092e\u0928\u0947 \u0906\u090f \u0939\u0948\u0902\u0964 \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0915\u093e \u0938\u092c\u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u0916\u0924\u0930\u093e \u0905\u092b\u094d\u0930\u0940\u0915\u093e, \u0926\u0915\u094d\u0937\u093f\u0923 \u092a\u0942\u0930\u094d\u0935 \u090f\u0936\u093f\u092f\u093e \u0914\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u0915\u0941\u091b \u0939\u093f\u0938\u094d\u0938\u094b\u0902 \u092e\u0947\u0902 \u0938\u092c\u0938\u0947 \u2026",
-      "url": "https://navbharattimes.indiatimes.com/world/science-news/us-fda-approved-ixchiq-the-first-chikungunya-vaccine/articleshow/105140278.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-36018,msid-105140319/navbharat-times.jpg",
-      "publishedAt": "2023-11-11 05:15:04",
-      "content": ": 18 18 18 , , , , 18 3,500 1,000 , , , , 1.6% , , 30 , 2,18,613 Navbharat Times News App: - , , , , -... NBT PM... - , ' '... '' 11 : 4 - VUR\u2026 [+165 chars]",
-      "retrievedAt": "2023-11-12 07:06:19.395029",
-      "internal_id": "65659d83103319c92ef485b357eff40434643a5c8c56011f1841485dd489f809",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3086,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "FDA approves first vaccine against mosquito-borne virus chikungunya - The Washington Post",
-      "description": "FDA approves first vaccine against mosquito-borne virus chikungunyaThe Washington Post Chikungunya vaccine: US approves first shot against mosquito-borne virusBBC.com US Approves First Mosquito Borne Disease Vaccine + More | Network AfricaChannels Television \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172215297",
-      "urlToImage": null,
-      "publishedAt": "2023-11-11 01:34:33",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-12 07:06:19.432034",
-      "internal_id": "cab0e836ef8a8db2866511fc61d318f251ee8b001b6c483947aca6a554180e67",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3087,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Sabrina Malhi",
-      "title": "FDA approves first vaccine against mosquito-borne virus chikungunya",
-      "description": "The single-dose shot, called Ixchiq, is designed to prevent an illness that can cause debilitating joint pain for months to years.",
-      "url": "https://www.washingtonpost.com/health/2023/11/10/chikungunya-vaccine-approved-mosquito-bites/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K3G5XFEQ4TXOQ7OFMPQ3YXUEBI_size-normalized.jpg&w=1440",
-      "publishedAt": "2023-11-11 00:55:51",
-      "content": "Comment on this story Comment Add to your saved stories Save The Food and Drug Administration has approved the worlds first vaccine to prevent chikungunya, a mosquito-borne illness that can cause\u2026 [+3761 chars]",
-      "retrievedAt": "2023-11-12 07:06:19.438432",
-      "internal_id": "3447920b33df69f7d5bbc64bf62e09f390b42b99d70b6da1103005c98430ecbf",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3078,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "NYT News Service",
-      "title": "US approves world's 1st chikungunya vaccine",
-      "description": "The US FDA has approved the world's first vaccine for chikungunya, a virus transmitted by infected mosquitoes. The vaccine, developed by Valneva, will be marketed as Ixchiq and is approved for individuals aged 18 and over at increased risk of exposure. Chikun\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/us/israeli-police-detained-arab-politicians-who-planned-a-vigil-against-gaza-strikes-groups/articleshow/105136438.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105136481,width-1070,height-580,imgsize-20076,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-11 00:22:15",
-      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
-      "retrievedAt": "2023-11-12 07:06:19.384420",
-      "internal_id": "92b73266bc8b1d75e774233be50b301a40f95e64bb300ac35bf7246f61e61060",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3084,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Valneva Announces U.S. FDA Approval of World's First Chikungunya Vaccine, IXCHIQ\u00ae - Valneva",
-      "description": "Valneva Announces U.S. FDA Approval of World's First Chikungunya Vaccine, IXCHIQ\u00aeValneva Chikungunya vaccine: US approves first shot against mosquito-borne virusBBC.com FDA approves first vaccine against chikungunya virusCNN Chikungunya virus: FDA OKs first v\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172214563",
-      "urlToImage": null,
-      "publishedAt": "2023-11-10 22:35:23",
-      "content": "In practice, failures in system development, like unemployment in Russia, happens a lot despite official propaganda to the contrary. -- Paul Licker",
-      "retrievedAt": "2023-11-12 07:06:19.424462",
-      "internal_id": "ea7bd0b8447638cdef7bbe052e4ea4ccaca25633bb8eab6fd5236b2e5f52e6bd",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3083,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Ag\u00eancia reguladora de medicamentos dos EUA aprova primeira vacina do mundo contra chikungunya",
-      "description": "A ag\u00eancia reguladora de medicamentos dos Estados Unidos aprovou a primeira vacina do mundo contra a chikungunya. O imunizante desenvolvido por...",
-      "url": "https://noticias.r7.com/jr-na-tv/videos/agencia-reguladora-de-medicamentos-dos-eua-aprova-primeira-vacina-do-mundo-contra-chikungunya-10112023",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/11/10/654ec246416eb929d70006e1/fd3cf286f4e245daa8a7a9e5855968c2__2285610_EPP_1011_JR_CHIKUNGUNYA_VACINA_thumb.jpg",
-      "publishedAt": "2023-11-10 22:18:50",
-      "content": "A ag\u00eancia reguladora de medicamentos dos Estados Unidos aprovou a primeira vacina do mundo contra a chikungunya. O imunizante desenvolvido por uma empresa de biotecnologia franco-austr\u00edaca \u00e9 uma parc\u2026 [+169 chars]",
-      "retrievedAt": "2023-11-12 07:06:19.415684",
-      "internal_id": "4a73cfdfcbbdf580a4beb64a51c0cadd40356f4c8ba58fe03376d8cb5ac2bec0",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3081,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Estad\u00e3o Conte\u00fado",
-      "title": "Primeira vacina contra chikungunya \u00e9 aprovada nos EUA; veja quando poder\u00e1 ser liberada no Brasil",
-      "description": "Ag\u00eancia reguladora americana autorizou uso para maiores de 18 anos; imunizante foi desenvolvido pelo Butantan em parceria com empresa franco-austr\u00edaca",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/primeira-vacina-contra-chikungunya-e-aprovada-nos-eua-veja-quando-podera-ser-liberada-no-brasil,14eb039334e775418987521dfe403e8dva768x18.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/10/2007389179-6q4qkipmhjppvhil5xrkssosha.jpg",
-      "publishedAt": "2023-11-10 21:28:25",
-      "content": "Desde quinta-feira, 9, o mundo tem uma vacina contra a chikungunya. O imunizante, chamado Ixchiq, foi desenvolvido em parceria pelo Instituto Butantan, \u00f3rg\u00e3o vinculado \u00e0 Secretaria Estadual da Sa\u00fade \u2026 [+4878 chars]",
-      "retrievedAt": "2023-11-12 07:06:19.404648",
-      "internal_id": "621325f9321a28af7b8588082af49ae86285c5707f2e51d64e43ccbb1a6a6e82",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3085,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Ansa",
-      "title": "EUA aprovam 1\u00aa vacina do mundo contra chikungunya",
-      "description": "As autoridades de sa\u00fade dos Estados Unidos aprovaram a primeira vacina do mundo contra a ...",
-      "url": "https://www.terra.com.br/noticias/mundo/eua-aprovam-1-vacina-do-mundo-contra-chikungunya,0aab4c92514da1b77e6a69e2d6f700b27r9fiw6i.html",
-      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2023-11-10 21:16:16",
-      "content": "As autoridades de sa\u00fade dos Estados Unidos aprovaram a primeira vacina do mundo contra a chikungunya. O v\u00edrus transmitido pelo mosquito Aedes aegypti foi classificado pela Food and Drug Admini\u2026 [+1044 chars]",
-      "retrievedAt": "2023-11-12 07:06:19.428902",
-      "internal_id": "ffea79dfda0f59e89684f82fa1bffbe3f25941c792ea10177367cad2663378ea",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3080,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "UPROXX",
-      "author": "Kimberly Ricci",
-      "title": "What You Need To Know About The Chikungunya Virus",
-      "description": "Getty Image Do you need to worry about the Chikungunya virus? Here's how to protect yourself from the rapidly spreading mosquito-borne virus.",
-      "url": "https://uproxx.com/viral/chikungunya-virus-what-to-know-travel-advisory/",
-      "urlToImage": "https://uproxx.com/wp-content/uploads/2023/11/4573e26dc207b88cbd721f838071c286.jpg?w=1024",
-      "publishedAt": "2023-11-10 21:12:40",
-      "content": "A mosquito-borne virus has been raising concerns after spreading around the globe. Public health officials have deemed the Chikungunya virus as an \u201cemerging public concern\u201d (according to the U.S. Nat\u2026 [+3839 chars]",
-      "retrievedAt": "2023-11-12 07:06:19.401572",
-      "internal_id": "011792a1b3fdc503f8f24e482a6aa86841ffa92f2ca7f88a2ae0d45e28fe4e57",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3077,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "STAT",
-      "author": "Helen Branswell",
-      "title": "U.K. considers world's first use of meningitis vaccine to address gonorrhea",
-      "description": "An expert panel that advises the United Kingdom on vaccine policy has recommended using a meningitis B vaccine to try to bring down spiking rates of gonorrhea.",
-      "url": "https://www.statnews.com/2023/11/10/u-k-recommendation-could-lead-to-worlds-first-use-of-meningitis-vaccine-to-curb-gonorrhea/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2016/08/16221300454_5170edc26b_o-1024x576.jpg",
-      "publishedAt": "2023-11-10 20:58:08",
-      "content": "An expert panel that advises the United Kingdom on vaccine policy has recommended using a meningitis B vaccine to try to bring down spiking rates of gonorrhea. If adopted, the U.K. would be the first\u2026 [+5590 chars]",
-      "retrievedAt": "2023-11-12 07:06:18.227150",
-      "internal_id": "74795de76e969e5ba985f4b0d89e443370dc51214311f2ce7dd0f6486e09fad1",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3082,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Bruno Vaiano",
-      "title": "FDA, a Anvisa dos EUA, aprova vacina contra chikungunya do Butantan",
-      "description": "Criado em parceria com a empresa de biotecnologia Valneva, ela est\u00e1 na \u00faltima fase de testes no Brasil e deve ser submetida \u00e0 aprova\u00e7\u00e3o da Anvisa em 2024.",
-      "url": "https://super.abril.com.br/ciencia/fda-a-anvisa-dos-eua-aprova-vacina-contra-chikungunya-do-butantan",
-      "urlToImage": "https://super.abril.com.br/wp-content/uploads/2023/11/1110_Butantan_layout_fb.jpg?quality=90&strip=info",
-      "publishedAt": "2023-11-10 20:08:39",
-      "content": "BLACK FRIDAY: ASSINE a partir de R$ 1 por semanaContinua ap\u00f3s publicidade (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade Uma vacina contra o v\u00edrus chikungunya desenvolvida pelo Instituto Butan\u2026 [+2622 chars]",
-      "retrievedAt": "2023-11-12 07:06:19.408340",
-      "internal_id": "d473e3ed8d6aafe50550328f81bb743a1774193e737f91e72df3edf67e635131",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3050,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Live Science",
-      "author": "Nicoletta Lanese",
-      "title": "FDA approves world's 1st chikungunya vaccine",
-      "description": "There's now an FDA-approved vaccine for chikungunya, a mosquito-spread virus that can cause fever, severe joint pain, and rarely, death.",
-      "url": "https://www.livescience.com/health/medicine-drugs/fda-approves-worlds-1st-chikungunya-vaccine",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9NnGSpUeKmtQfJLwwwuZSK-1200-80.jpg",
-      "publishedAt": "2023-11-10 18:49:41",
-      "content": "Female mosquitoes in the species Aedes aegypti (pictured) can carry chikungunya virus and spread it to people. (Image credit: Centers for Disease Control (CDC) / James Gathany. (Photo by Smith Collec\u2026 [+3849 chars]",
-      "retrievedAt": "2023-11-11 19:05:20.814190",
-      "internal_id": "1c06925c6101a949cc343fb4ccbbe1962469251198382395e6739428acdf4484",
-      "publishedAtLabel": "Nov 10"
     }
   ]
 }
