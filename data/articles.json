@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-11-22 19:05",
+  "last_updated": "2023-11-23 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 22,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 3274,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Groundbreaking Malaria Vaccines Developed, but Challenges Remain",
+      "description": "[The Conversation Africa] The approval of two malaria vaccines - the RTS,S/AS01 vaccine in 2021 and the R21/Matrix-MTM vaccine in 2023 - will help control, and eventually help eradicate, a disease that causes more than 600,000 deaths annually. Nearly 2 millio\u2026",
+      "url": "https://allafrica.com/stories/202311220001.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-22 04:23:08",
+      "content": "The approval of two malaria vaccines - the RTS,S/AS01 vaccine in 2021 and the R21/Matrix-MTM vaccine in 2023 - will help control, and eventually help eradicate, a disease that causes more than 600,00\u2026 [+5494 chars]",
+      "retrievedAt": "2023-11-23 07:05:48.488683",
+      "internal_id": "918cdacc10a969ca05ca56fa39def99eea062cbdb7a28303f10213c1e310f377",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3273,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "SHARON LING",
+      "title": "Curbing rabies in Sarawak an uphill battle, state assembly hears",
+      "description": "KUCHING: Rabies cases continue to occur in Sarawak due to a high stray animal population and low public awareness of the disease, the state assembly heard on Wednesday (Nov 22). Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/11/22/curbing-rabies-in-sarawak-an-uphill-battle-state-assembly-hears",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/11/22/2401165.jpg",
+      "publishedAt": "2023-11-22 04:04:00",
+      "content": "KUCHING: Rabies cases continue to occur in Sarawak due to a high stray animal population and low public awareness of the disease, the state assembly heard on Wednesday (Nov 22). State Deputy Food In\u2026 [+2019 chars]",
+      "retrievedAt": "2023-11-23 07:05:47.332066",
+      "internal_id": "6c5df69c9d43e3624e27f138122c263a1b1a7781c847a8f4121d5833fa10c970",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3276,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nation.africa",
+      "author": "Leon Lidigu",
+      "title": "Deadly mosquito species now in Kenya",
+      "description": "While malaria causing mosquitoes are predominantly breed in rural areas, new species is thriving in urban areas.",
+      "url": "https://nation.africa/kenya/health/deadly-mosquito-species-now-in-kenya-4441140",
+      "urlToImage": "https://nation.africa/resource/image/4441154/landscape_ratio3x2/1200/800/48811165ce38820aa0d4366acc3afc33/yr/mosquito.jpg",
+      "publishedAt": "2023-11-22 03:20:35",
+      "content": "A deadly mosquito species that has the ability to transmit two parasites has landed in Kenya from Ethiopia, and is likely to fuel malaria infections especially in Northern Kenya, the Centers for Dise\u2026 [+3453 chars]",
+      "retrievedAt": "2023-11-23 07:05:48.517233",
+      "internal_id": "9128bda66888e92c110c36e148d63dffdd730ad12405dfdf0b85604493e66805",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3275,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Record.com.mx",
+      "author": "Record.com.mx",
+      "title": "Lionel Messi y la cuenta pendiente que tiene contra Brasil",
+      "description": "El capit\u00e1n de la Albiceleste nunca le ha hecho gol a la Verdeamarela en partido oficial; buscar\u00e1 cortar la 'malaria' en el Maracan\u00e1",
+      "url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/lionel-messi-y-la-cuenta-pendiente-que-tiene-contra",
+      "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2023/11/21/messi-brasil-1.jpg",
+      "publishedAt": "2023-11-21 19:36:32",
+      "content": "Brasily Argentina disputar\u00e1n una edici\u00f3n m\u00e1s del Cl\u00e1sico Sudamericano por la sexta jornada de las Eliminatorias, donde Lionel Messitiene una cuenta pendiente ante la Verdeamarela: hacerle gol por pri\u2026 [+857 chars]",
+      "retrievedAt": "2023-11-23 07:05:48.503191",
+      "internal_id": "b8d339b7a754a3cba1c44241a981293ff77e575c2c9319f6c98ed254d0a053d1",
+      "publishedAtLabel": "Nov 21"
+    },
     {
       "id": 3268,
       "query": [
@@ -3539,78 +3611,6 @@
       "content": "Female mosquitoes in the species Aedes aegypti (pictured) can carry chikungunya virus and spread it to people. (Image credit: Centers for Disease Control (CDC) / James Gathany. (Photo by Smith Collec\u2026 [+3849 chars]",
       "retrievedAt": "2023-11-11 19:05:20.814190",
       "internal_id": "1c06925c6101a949cc343fb4ccbbe1962469251198382395e6739428acdf4484",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3043,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Mateus Salom\u00e3o",
-      "title": "Com dengue, Vieira mant\u00e9m agenda em busca de tirar brasileiros de Gaza",
-      "description": "O ministro Mauro Vieria tem liderado os esfor\u00e7os para retirar um grupo de 34 brasileiros e familiares pr\u00f3ximos que est\u00e3o na Faixa de Gaza",
-      "url": "https://www.metropoles.com/brasil/com-dengue-vieira-mantem-agenda-em-busca-de-tirar-brasileiros-de-gaza",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/10/18145817/mauro-vieira-no-senado.jpg",
-      "publishedAt": "2023-11-10 18:36:49",
-      "content": "O ministro das rela\u00e7\u00f5es exteriores do Brasil, Mauro Vieira, testou positivo para dengue. O Metr\u00f3poles apurou junto ao Itamaraty que o chanceler est\u00e1 se recuperando bem. Apesar do diagn\u00f3tico, o chance\u2026 [+2691 chars]",
-      "retrievedAt": "2023-11-11 19:05:18.629023",
-      "internal_id": "6404f045d37d274b2d0727c0dca0ad4024aa2d0aa061fa239aae201bc96b342c",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3038,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Lse.ac.uk",
-      "author": null,
-      "title": "Mass vaccination and educational attainment: evidence from the 1967\u201368 Measles Eradication Campaign",
-      "description": "Barteska, Philipp, Dobkowitz, Sonja, Olkkola, Maarit and Rieser, Michael (2023) Mass vaccination and educational attainment: evidence from the 1967\u201368 Measles Eradication Campaign. Journal of Health Economics, 92. p. 102828. ISSN 0167-6296",
-      "url": "http://eprints.lse.ac.uk/120706/",
-      "urlToImage": null,
-      "publishedAt": "2023-11-10 17:15:02",
-      "content": "Barteska, Philipp, Dobkowitz, Sonja, Olkkola, Maarit and Rieser, Michael (2023) Mass vaccination and educational attainment: evidence from the 196768 Measles Eradication Campaign. Journal of Heal\u2026 [+656 chars]",
-      "retrievedAt": "2023-11-11 19:05:18.176140",
-      "internal_id": "e8138269f105e44687922589e49241cd5c2187d15463a007e77f363e17f0bc68",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3045,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Casos de dengue crescem 9% na cidade de S\u00e3o Paulo",
-      "description": "N\u00famero de casos em 2023 j\u00e1 \u00e9 maior do que a soma de janeiro a dezembro do ano passado, quando houve 11.920 confirma\u00e7\u00f5es da doen\u00e7a",
-      "url": "https://valor.globo.com/brasil/noticia/2023/11/10/casos-de-dengue-crescem-9percent-na-cidade-de-sao-paulo.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/5_FjSUETeV_rKgk6cEeywgL3o-Q=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/c/j/gzYJVrSvC9SAdhaTWmYA/mosquito-49141.jpg",
-      "publishedAt": "2023-11-10 17:02:06",
-      "content": "A cidade de S\u00e3o Paulo registrou, at\u00e9 1\u00ba de novembro deste ano, 12.663 casos de dengue. No mesmo per\u00edodo de 2022, foram 11.607 - uma alta de 9%. O n\u00famero de casos em 2023 j\u00e1 \u00e9 maior do que a soma de j\u2026 [+4471 chars]",
-      "retrievedAt": "2023-11-11 19:05:18.642390",
-      "internal_id": "fcfbf5d4ce1cd3fd122cd5045e030f8570133851daf2e0e4471f42382f7573a8",
-      "publishedAtLabel": "Nov 10"
-    },
-    {
-      "id": 3039,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Alessandro Di Lorenzo",
-      "title": "Brasil deve registrar casos mais graves de dengue em 2024; entenda",
-      "description": "O alerta \u00e9 da Sociedade Brasileira de Medicina Tropical (SBMT), que prev\u00ea um surto ainda maior de dengue no ano que vem O post Brasil deve registrar casos mais graves de dengue em 2024; entenda apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/11/10/medicina-e-saude/brasil-deve-registrar-casos-mais-graves-de-dengue-em-2024-entenda/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/11/pexels-pixabay-86722-scaled-e1699618243347.jpg",
-      "publishedAt": "2023-11-10 16:25:03",
-      "content": "A dengue j\u00c3\u00a1 \u00c3\u00a9 considerada um grave problema sanit\u00c3\u00a1rio no Brasil. Mas a situa\u00c3\u00a7\u00c3\u00a3o deve piorar em 2024. O alerta \u00c3\u00a9 da Sociedade Brasileira de Medicina Tropical (SBMT), que prev\u00c3\u00aa um surto ainda ma\u2026 [+2068 chars]",
-      "retrievedAt": "2023-11-11 19:05:18.602255",
-      "internal_id": "429f7463d2861b70b567c03df14326819cbe12003fee052fb9f081b8a8b2c150",
       "publishedAtLabel": "Nov 10"
     }
   ]
