@@ -1,8 +1,244 @@
 {
-  "last_updated": "2023-11-23 19:05",
+  "last_updated": "2023-11-24 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 19,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 3297,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Nayra Teles",
+      "title": "Quais s\u00e3o os sintomas da dengue e como \u00e9 o combate \u00e0 doen\u00e7a?",
+      "description": "Com a chegada do ver\u00e3o, cuidados com a doen\u00e7a transmitida pelo mosquito Aedes aegypti precis\u00e3o ser intensificados O post Quais s\u00e3o os sintomas da dengue e como \u00e9 o combate \u00e0 doen\u00e7a? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/11/23/medicina-e-saude/quais-sao-os-sintomas-da-dengue-e-como-e-o-combate-a-doenca/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205.jpg",
+      "publishedAt": "2023-11-23 05:00:00",
+      "content": "O per\u00c3\u00adodo de maior transmiss\u00c3\u00a3o da dengue acontece no ver\u00c3\u00a3o. A chegada da esta\u00c3\u00a7\u00c3\u00a3o acompanha a intensifica\u00c3\u00a7\u00c3\u00a3o de campanhas de preven\u00c3\u00a7\u00c3\u00a3o. Uma das maiores preocupa\u00c3\u00a7\u00c3\u00b5es das autoridades sanit\u00c3\u00a1r\u2026 [+3210 chars]",
+      "retrievedAt": "2023-11-24 07:05:37.474880",
+      "internal_id": "6272a0a8665dc4e88f87d073201d952587df513b13a56d7f965862678d4e4d9e",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 3302,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "info@who.int (WHO)",
+      "title": "Africa: Malaria Vaccine Shipments to Africa Mark Progress Toward Broader Rollout",
+      "description": "[WHO] More than 330 000 doses of WHO-recommended RTS,S malaria vaccine arrived last night in Cameroon - a historic step towards broader vaccination against one of the deadliest diseases for African children Malaria burden is the highest on the African contine\u2026",
+      "url": "https://allafrica.com/stories/202311230031.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-23 04:56:18",
+      "content": "More than 330 000 doses of WHO-recommended RTS,S malaria vaccine arrived last night in Cameroon - a historic step towards broader vaccination against one of the deadliest diseases for African\u2026 [+13556 chars]",
+      "retrievedAt": "2023-11-24 07:05:38.479039",
+      "internal_id": "6aebdb9f33219e77b5af983f9cd4564321b383ab529d8412dd1e9567a20cf6a3",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 3303,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Shipments to African Countries Herald Final Steps Toward Broader Vaccination Against Malaria",
+      "description": "[Unicef] Shipments of the world's first WHO-recommended malaria vaccine, RTS,S, have begun with 331,200 doses landing last night in Yaound\u00e9, Cameroon. The delivery is the first to a country not previously involved in the malaria vaccine pilot programme and si\u2026",
+      "url": "https://allafrica.com/stories/202311230019.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-23 04:47:05",
+      "content": "Shipments of the world's first WHO-recommended malaria vaccine, RTS,S, have begun with 331,200 doses landing last night in Yaound\u00e9, Cameroon. The delivery is the first to a country not previously inv\u2026 [+9390 chars]",
+      "retrievedAt": "2023-11-24 07:05:38.503425",
+      "internal_id": "19b9dff13b9d567a4daa985cbc3d04a3a10d1a942fb41080a08491106d477fc0",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 3307,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: How Do Viruses Get Into Cells? Their Infection Tactics Determine Whether They Can Jump Species or Set Off a Pandemic",
+      "description": "[The Conversation Africa] COVID-19, flu, mpox, noroviral diarrhea: How do the viruses that cause these diseases actually infect you?",
+      "url": "https://allafrica.com/stories/202311230016.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-23 04:45:36",
+      "content": "COVID-19, flu, mpox, noroviral diarrhea: How do the viruses that cause these diseases actually infect you? Viruses cannot replicate on their own, so they must infect cells in your body to make more \u2026 [+5077 chars]",
+      "retrievedAt": "2023-11-24 07:05:39.479943",
+      "internal_id": "ce599c99c6b1117973996bf521661ec2b0feb91b5b736be50b186092cd6d5d0a",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 3308,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Ashleigh Bagshaw",
+      "title": "Leptospirosis vaccine for dogs voluntarily recalled following 'adverse reactions', including one death",
+      "description": "The Treidlia Auslepto vaccine, used to protect dogs against a strain of the bacterial disease leptospirosis, has been withdrawn from sale by the manufacturer after \u201cadverse reactions\u201d, including the death of one animal.",
+      "url": "https://www.abc.net.au/news/2023-11-23/voluntary-recall-leptospirosis-vaccine-dogs-adverse-reactions/103141524",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/90fcee81bd4ad21eeb3656375f432fa8?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485",
+      "publishedAt": "2023-11-23 04:25:50",
+      "content": "A vaccine used to protect dogs against a potentially fatal bacterial disease has been voluntarily recalled, following the death of a dog. There has been a voluntary recall by the manufacture\u2026 [+2826 chars]",
+      "retrievedAt": "2023-11-24 07:05:39.941624",
+      "internal_id": "c1ade55e0c3097a7f2deb83d09b2277c01cfb0a8e7a00bbdbbad915c5317bbdd",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 3298,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Actress Bhumi Pednekar urges fans to stay safe amid dengue recovery",
+      "description": "In an Instagram post, the actor revealed the challenges she faced during \"8 days of massive torture\" due to the mosquito-borne illness.",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/actress-bhumi-pednekar-urges-fans-to-stay-safe-amid-dengue-recovery/articleshow/105431092.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-105431300,width-1200,height-630,imgsize-1690886,overlay-etpanache/photo.jpg",
+      "publishedAt": "2023-11-23 03:26:55",
+      "content": "Initial Market Reaction: IPOs Turn Superhits, Led by Big Tata Release The initial public offering (IPO) market is in an unprecedented bull wave. Three of the four IPOs Tata Technologies, Flair Writin\u2026 [+710 chars]",
+      "retrievedAt": "2023-11-24 07:05:37.484156",
+      "internal_id": "77b4dac39fc51455f70d9965fcdf064c0b6e74e24425e057ae5f55d863c5db51",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 3305,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": "World Health Organization: WHO",
+      "title": "Shipments to African countries herald final steps toward broader vaccination against malaria: Gavi, WHO and UNICEF",
+      "description": "More than 330 000 doses of WHO-recommended RTS,S malaria vaccine arrived last night in Cameroon \u2013 a historic step towards broader vaccination against one of the deadliest diseases for African childrenMalaria burden is\u2026",
+      "url": "https://www.who.int/news/item/22-11-2023-shipments-to-african-countries-herald-final-steps-toward-broader-vaccination-against-malaria--gavi--who-and-unicef",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/global-malaria-program-(gmp)/uni474929.tmb-1200v.jpg?sfvrsn=53c42ac9_2",
+      "publishedAt": "2023-11-23 01:51:23",
+      "content": "More than 330 000 doses of WHO-recommended RTS,S malaria vaccine arrived last night in Cameroon \u2013 a historic step towards broader vaccination against one of the deadliest diseases for African\u2026 [+13190 chars]",
+      "retrievedAt": "2023-11-24 07:05:38.520687",
+      "internal_id": "079a84f899cb98077f93e283882c28e3ca9bf82d9c2fdae83e85b05f5c47996d",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 3306,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "KPBS",
+      "author": "Matt Hoffman",
+      "title": "Uptick in mpox cases raises concerns in San Diego County",
+      "description": "Experts say this sudden increase, after months of minimal occurrences, is due to low vaccination rates and the need for heightened awareness.",
+      "url": "https://www.kpbs.org/news/health/2023/11/22/uptick-in-mpox-cases-raises-concerns-in-san-diego-county",
+      "urlToImage": "https://cdn.kpbs.org/dims4/default/1d8ace8/2147483647/strip/true/crop/2869x1506+0+362/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F26%2Fmonkeybox-from-niaid_custom-8d087f008b3dd736b37bd8b3d269f3ac92b1ec6d.jpg",
+      "publishedAt": "2023-11-23 01:48:53",
+      "content": "San Diego County has witnessed a rise in mpox cases after experiencing a lull in reports for the majority of 2023. Why it matters Health officials attribute this surge to low vaccination rates and\u2026 [+1990 chars]",
+      "retrievedAt": "2023-11-24 07:05:39.475217",
+      "internal_id": "40cc33cf55f343973d4ea7422cce9ce05b6f7d6dc4c8cf5110cbb06d02f26a6c",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 3304,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "Laura DI BIASIO",
+      "title": "EYE ON AFRICA | Malaria vaccines set for broader rollout in Africa",
+      "description": "In tonight's edition: More than 330,000 doses of the RTS's malaria vaccine, known as mosauirix, have been delivered to Cameroon in a game changing scaling up of the regional immunisation drive. Anglophone separatists suspected as being behind the killings of\u2026",
+      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20231122-eye-on-africa-malaria-vaccines-set-for-broader-rollout-in-africa",
+      "urlToImage": "https://s.france24.com/media/display/7576a940-8983-11ee-8391-005056bf30b7/w:1280/p:16x9/DN175970-A-01-20231116.jpg",
+      "publishedAt": "2023-11-22 22:14:19",
+      "content": "Issued on: 22/11/2023 - 23:14 In tonight's edition: More than 330,000 doses of the RTS's malaria vaccine, known as mosauirix, have been delivered to Cameroon in a game changing scaling up of the reg\u2026 [+257 chars]",
+      "retrievedAt": "2023-11-24 07:05:38.508573",
+      "internal_id": "fdfc3f86f6866d19e53cbb1bee36890dec88a0865cb726df6a4294ac590de0ce",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3296,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Bbc News",
+      "title": "Sheffield health officials warn of measles outbreak in city",
+      "description": "People are advised to get children vaccinated following a measles outbreak in Sheffield.",
+      "url": "https://www.bbc.co.uk/news/uk-england-south-yorkshire-67503830",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4811/production/_129594481_gettyimages-1159665817.jpg",
+      "publishedAt": "2023-11-22 21:05:31",
+      "content": "Health officials have urged people to be vigilant following a measles outbreak in Sheffield. The warning comes after vaccine rates among young children in the UK dipped to a 10-year low. Latest fig\u2026 [+982 chars]",
+      "retrievedAt": "2023-11-24 07:05:36.975685",
+      "internal_id": "f65f37d32ddc087e29c99125c1dbe369edbf477b2b3dcb51cf4a5fb18ba80153",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3299,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "SP tem quatro casos de dengue tipo 3, sem circula\u00e7\u00e3o h\u00e1 15 anos",
+      "description": "O primeiro caso em Votuporanga foi detectado em uma mulher de 34 anos, que chamou a aten\u00e7\u00e3o por conta da intensidade dos sintomas",
+      "url": "https://brasil.perfil.com/saude/sp-tem-quatro-casos-de-dengue-tipo-3-sem-circulacao-ha-15-anos-2.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/22/1162448502-ebc.png",
+      "publishedAt": "2023-11-22 20:52:19",
+      "content": "Quatro casos de dengue sorotipo 3 (DENV3) foram confirmados na cidade de Votuporanga, no interior paulista, informou a secretaria de Sa\u00fade do munic\u00edpio. Estudo da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), div\u2026 [+2185 chars]",
+      "retrievedAt": "2023-11-24 07:05:37.490295",
+      "internal_id": "a02752ba3098a602167f4f2da4969ff3300e9c219445604288b1b1d6a4ec9698",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3301,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "In Africa, Rollout Of Life-Saving Malaria Vaccines Accelerates",
+      "description": "This week Cameroon became the first African country to receive the Mosquirix malaria vaccine for use as a fully tested preventive in a wide range of healthcare settings.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2023/11/22/in-africa-rollout-of-life-saving-malaria-vaccines-accelerates/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655e56bc5ae35a152d1bb409/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-11-22 20:46:29",
+      "content": "A child is vaccinated against malaria on September 13, 2019 in Ndhiwa, Homabaya County, Western ... [+] Kenya during the launch of testing of a malaria vaccine in Kenya. The vaccine - Mosquirix - is \u2026 [+3679 chars]",
+      "retrievedAt": "2023-11-24 07:05:38.473939",
+      "internal_id": "350b9b009f2bc9df0f7b94adfc2e6a24e1b9b348a19abfd2fdbd397547892fa6",
+      "publishedAtLabel": "Nov 22"
+    },
+    {
+      "id": 3300,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laborat\u00f3rio",
+      "description": "A prefeitura de Belo Horizonte soltou 8.000 mosquitos que carregam uma bact\u00e9ria que reduz a capacidade de transmitir os v\u00edrus da dengue, da ch...",
+      "url": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/prefeitura-de-bh-solta-8000-mosquitos-aedes-aegypti-modificados-em-laboratorio-22112023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/11/22/655e59404b495532a9000782/83aeaef14a2c4afc9c0d93f6e6e0ca9b__BG_2211_SOLTURA_AEDES_WOLBACHIA_thumb_thumb.jpg",
+      "publishedAt": "2023-11-22 20:16:45",
+      "content": "A prefeitura de Belo Horizonte soltou 8.000 mosquitos que carregam uma bact\u00e9ria que reduz a capacidade de transmitir os v\u00edrus da dengue, da chikungunya, da zika e da febre-amarela para os humanos. As\u2026 [+53 chars]",
+      "retrievedAt": "2023-11-24 07:05:37.500705",
+      "internal_id": "bdcfc4c92889f5715d2ca2ccdc90da0d7d64b9c6de7c1956962712febdc6d1d5",
+      "publishedAtLabel": "Nov 22"
+    },
     {
       "id": 3279,
       "query": [
@@ -3376,242 +3612,6 @@
       "retrievedAt": "2023-11-14 07:05:54.549115",
       "internal_id": "f5abcdec86f6f27698a6ebb8a830dd02c94c9cdda5d5e05bcc2a4fbfc04116f5",
       "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3106,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Fimela.com",
-      "author": "Anisha Saktian Putri",
-      "title": "Hari Kesehatan Nasional, Cegah Demam Berdarah Dengue dengan 3M hingga Vaksin",
-      "description": "Hari Kesehatan Nasional, Cegah Demam Berdarah Dengue dengan 3M hingga Vaksinfimela.com",
-      "url": "https://www.fimela.com/health/read/5451624/hari-kesehatan-nasional-cegah-demam-berdarah-dengue-dengan-3m-hingga-vaksin",
-      "urlToImage": "https://cdn1-production-images-kly.akamaized.net/uMnkkq8wEXJOyDvsi3h3VMSWJ1E=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3057553/original/090512100_1582353486-headline.jpg",
-      "publishedAt": "2023-11-13 03:23:41",
-      "content": "Fimela.com, Jakarta Semua orang di Indonesia berisiko terkena demam berdarah dengue (demam berdarah/dengue/DBD) tanpa melihat umur, di mana mereka tinggal, dan gaya hidup. Berdasarkan data dari Keme\u2026 [+2859 chars]",
-      "retrievedAt": "2023-11-14 07:05:54.539665",
-      "internal_id": "aa48e6394689f547e13b19f5787d9236b9b54121dbadfa5a4677df77bb129316",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3108,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Bacolod: NegOcc dengue cases drop 74 percent",
-      "description": "Bacolod City \u2013 Dengue cases in Negros Occidental have shown a continuing drop of 74 percent from January to November 4 this year, compared to the same period last year. Records of the Provincial Health Office indicated that dengue cases reduced to 3,769 cases\u2026",
-      "url": "https://rpnradio.com/bacolod-negocc-dengue-cases-drop-74-percent/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/11/dengues-cases-drop-74-percent.png",
-      "publishedAt": "2023-11-13 00:57:30",
-      "content": "Bacolod City \u2013 Dengue cases in Negros Occidental have shown a continuing drop of 74 percent from January to November 4 this year, compared to the same period last year. Records of the Provincial Hea\u2026 [+958 chars]",
-      "retrievedAt": "2023-11-14 07:05:54.552929",
-      "internal_id": "b401f9b5d618ca7459afdbcea2edd2469477e449412cf21ce23bd8628adfc6d8",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3109,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.nu.nl",
-      "author": "onze nieuwsredactie",
-      "title": "Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel",
-      "description": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de malaria-aanpak in Suriname en de langsnavelige mierenegel is w\u2026",
-      "url": "https://www.nu.nl/goed-nieuws/6289153/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.html",
-      "urlToImage": "https://media.nu.nl/m/xmaxiydazgq1_wd1280/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.jpg",
-      "publishedAt": "2023-11-12 21:59:48",
-      "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
-      "retrievedAt": "2023-11-14 07:05:55.292511",
-      "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3103,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "YLE News",
-      "author": null,
-      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
-      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
-      "url": "https://yle.fi/a/74-20059491",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
-      "publishedAt": "2023-11-12 17:03:22",
-      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.165057",
-      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3102,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "10 more dengue patients die in 24hrs",
-      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
-      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-12 13:44:18",
-      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.132310",
-      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3101,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
-      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-11-12 11:15:16",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.111861",
-      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3104,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
-      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
-      "url": "https://allafrica.com/stories/202311120029.html",
-      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
-      "publishedAt": "2023-11-12 09:03:15",
-      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.179704",
-      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3105,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
-      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-12 08:24:42",
-      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
-      "retrievedAt": "2023-11-13 19:05:33.945435",
-      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3100,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Endtimeheadlines.org",
-      "author": "End Time Headlines",
-      "title": "FDA approves first vaccine for mosquito borne virus that is becoming an 'emerging global health threat,'",
-      "description": "FDA approves first vaccine for mosquito borne virus that is becoming an 'emerging global health threat,'endtimeheadlines.org",
-      "url": "https://endtimeheadlines.org/2023/11/fda-approves-first-vaccine-for-mosquito-borne-virus-that-is-becoming-an-emerging-global-health-threat/",
-      "urlToImage": "https://endtimeheadlines.org/wp-content/uploads/2023/11/Income-Great-Ideas-Low-Investment-YouTube-Thumbnail-2-4.png",
-      "publishedAt": "2023-11-12 03:40:44",
-      "content": "The U.S. Food and Drug Administration (FDA) on Thursday announced its approval of Ixchiq, the first chikungunya vaccine. The vaccine, which is made by Valneva, is approved for anyone age 18 and older\u2026 [+1486 chars]",
-      "retrievedAt": "2023-11-13 07:06:13.258326",
-      "internal_id": "c5f95f4f76f48639a996f8de133cac7e40fd45057c230ec2175df9914a164164",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3095,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Sankhuwasabha reports 1,700 plus dengue patients",
-      "description": "KHANDBARI: As many as 1,710 people have been confirmed infected with dengue in Sankhuwasabha district. The Epidemiology and Disease Control Division has expressed its concerns about the rising number of dengue patients in this mountainous district. However, B\u2026",
-      "url": "https://english.khabarhub.com/2023/12/325898/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2022/09/Dengue-1.webp",
-      "publishedAt": "2023-11-12 01:15:35",
-      "content": "KHANDBARI: As many as 1,710 people have been confirmed infected with dengue in Sankhuwasabha district. The Epidemiology and Disease Control Division has expressed its concerns about the rising numbe\u2026 [+1155 chars]",
-      "retrievedAt": "2023-11-13 07:06:11.411543",
-      "internal_id": "5ee1ad2e62df87c6f36e31bb2501f1edab47004bfeec2b23a5ee76a40be01710",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3097,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "30 Zika virus samples test negative",
-      "description": "BENGALURU: There is no outbreak of Zika virus in Bengaluru, health authorities announced Saturday after the samples sent to National Institute of Viro.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/30-zika-virus-samples-test-negative/articleshow/105158224.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105158246,width-1070,height-580,imgsize-25784,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-12 00:04:50",
-      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
-      "retrievedAt": "2023-11-13 07:06:12.540011",
-      "internal_id": "26ef5927ecea22f3cde06aad5506561c0be81d0691be7ec82e31bd7063d36d8c",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3099,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approval - Fox News",
-      "description": "First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approvalFox News US approves world's 1st chikungunya vaccine | Latest News | WIONWION FDA approves first vaccine against mosquito-borne virus chikungunyaThe Washington Post US a\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172220371",
-      "urlToImage": null,
-      "publishedAt": "2023-11-11 23:12:39",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-13 07:06:13.246158",
-      "internal_id": "c3ca94d2d880008554deda2f0384db483341a2ae797e837f8dcb0902cca63e00",
-      "publishedAtLabel": "Nov 11"
-    },
-    {
-      "id": 3098,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Melissa Rudy",
-      "title": "First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approval",
-      "description": "The FDA on Thursday announced approval of Ixchiq, the first chikungunya vaccine, for anyone 18 and older who has a risk of being exposed to the mosquito-borne virus.",
-      "url": "https://www.foxnews.com/health/first-vaccine-chikungunya-virus-emerging-global-health-threat-gets-fda-approval",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/653c51b8-mosquito-on-arm.jpg",
-      "publishedAt": "2023-11-11 19:53:31",
-      "content": "The U.S. Food and Drug Administration (FDA) on Thursday announced its approval of Ixchiq, the first chikungunya vaccine . The vaccine, which is made by Valneva, is approved for anyone age 18 and ol\u2026 [+4285 chars]",
-      "retrievedAt": "2023-11-13 07:06:13.234855",
-      "internal_id": "51c07092564cb3032bc4fa03c8023ae04ecb404e263b6773d538817c7f8e56d1",
-      "publishedAtLabel": "Nov 11"
     }
   ]
 }
