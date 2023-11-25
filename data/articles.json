@@ -1,8 +1,170 @@
 {
-  "last_updated": "2023-11-25 07:05",
+  "last_updated": "2023-11-25 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 3,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 3319,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Sa\u00fade em Dia",
+      "title": "Casos de dengue aumentam no calor: vacina \u00e9 a melhor forma de preven\u00e7\u00e3o",
+      "description": "Menina de 7 anos morreu no DF ap\u00f3s contrair dengue hemorr\u00e1gica. Infectologista explica a import\u00e2ncia da vacina no combate \u00e0 doen\u00e7a",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-aumentam-no-calor-vacina-e-a-melhor-forma-de-prevencao,8f3bd1dff9d704d826715fc5e7adcd5fb75ljcmb.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/24/129801459-dengue.jpg",
+      "publishedAt": "2023-11-24 18:01:16",
+      "content": "O Brasil \u00e9 o pa\u00eds que lidera o ranking de casos de dengue no mundo. De acordo com o m\u00e9dico infectologista e presidente da Sociedade Brasileira de Infectologia (SBI), Dr. Alberto Chebabo, no ano passa\u2026 [+2979 chars]",
+      "retrievedAt": "2023-11-25 19:05:21.480888",
+      "internal_id": "09d0424dfe65bc2ee2c78d631e69146efa92edf597982b75586c3b1bef3a5202",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 3320,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Crian\u00e7a que morreu de dengue teria sido chamada de 'dengosa' por m\u00e9dico",
+      "description": "Uma crian\u00e7a de 7 anos veio a \u00f3bito em consequ\u00eancia de um quadro de dengue hemorr\u00e1gica na \u00faltima ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/crianca-que-morreu-de-dengue-teria-sido-chamada-de-dengosa-por-medico,58852aeb1deabef1dd146b8d10d038a8i7xxooes.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/24/untitled-design-(6)-u7u4eawmrqcy.png",
+      "publishedAt": "2023-11-24 17:58:30",
+      "content": "Uma crian\u00e7a de 7 anos veio a \u00f3bito em consequ\u00eancia de um quadro de dengue hemorr\u00e1gica na \u00faltima sexta-feira (17). A m\u00e3e de Pietra Isaac disse que o m\u00e9dico respons\u00e1vel pelo caso menosprezou o estado d\u2026 [+1823 chars]",
+      "retrievedAt": "2023-11-25 19:05:21.508964",
+      "internal_id": "0fdda6cfac4ed814123a82e5e66abaf80c950283f9f043c5e549084f25d34c4e",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 3327,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - Yahoo News",
+      "description": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreakYahoo News View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172300095",
+      "urlToImage": null,
+      "publishedAt": "2023-11-24 16:12:07",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-11-25 19:05:23.192440",
+      "internal_id": "6ed1ebc426b63af6f7acf64b6f99ddcc9350d2568696af43242270bf645b9b46",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 3321,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "Dengue death toll rises to 1,583 with 6 more deaths reported Friday",
+      "description": "Six more deaths were reported from dengue in 24 hours till Friday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,583 this year. During the period, 645 more patients were hospitalised with the viral fever, according to the D\u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-1583-6-more-deaths-reported-friday-745590",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/24/2._dengue_rajib_dhar.jpg",
+      "publishedAt": "2023-11-24 14:58:12",
+      "content": "Six more deaths were reported from dengue in 24 hours till Friday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,583 this year. During the period, 645 more patien\u2026 [+423 chars]",
+      "retrievedAt": "2023-11-25 19:05:21.512803",
+      "internal_id": "52b8a3c0ed0258044dd2225f53618e7ae0bbb201807d753a976b564adaa3107f",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 3326,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "The Conversation",
+      "title": "Viruses: Their infection tactics determine if they can jump species or set off a pandemic",
+      "description": "COVID-19, flu, mpox, noroviral diarrhea: How do the viruses that cause these diseases actually infect you?Viruses cannot replicate on their own, so they must infect cells in your body to make more copies of themselves. The life cycle of a virus can thus be ro\u2026",
+      "url": "https://www.rawstory.com/viruses-their-infection-tactics-determine-whether-they-can-jump-species-or-set-off-a-pand/",
+      "urlToImage": "https://www.rawstory.com/media-library/new-coronavirus-variant-what-is-the-spike-protein-and-why-are-mutations-on-it-important.jpg?id=24996973&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
+      "publishedAt": "2023-11-24 13:05:43",
+      "content": "You dont hear that from religious authoritarians. Instead, you hear them being strong supporters of the Jewish state and the Jewish people who live in it. That has been especially the case since the \u2026 [+8606 chars]",
+      "retrievedAt": "2023-11-25 19:05:23.188793",
+      "internal_id": "f82cba6373e44b5fc90956245ae1333742c1054f0b471b5ee90216cbd5aac927",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 3325,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MARIA CHENG AP medical writer",
+      "title": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak",
+      "description": "The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak",
+      "url": "https://abcnews.go.com/Health/wireStory/confirms-sexual-spread-mpox-congo-1st-time-country-105134362",
+      "urlToImage": "https://i.abcnewsfe.com/a/8d0b3be3-0904-441d-8fb5-a4ca78c74123/wirestory_db409f48ea2d03d375c046d61c5ab96b_16x9.jpg?w=992",
+      "publishedAt": "2023-11-24 12:22:35",
+      "content": "LONDON -- The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country's experiences its biggest-ever outbreak, a worrying development th\u2026 [+3471 chars]",
+      "retrievedAt": "2023-11-25 19:05:23.177422",
+      "internal_id": "77456ce5afa44058b11444c6b4e538ca5d603e80a0162866ba1638e5ff1d0b6c",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 3324,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Ashlyn Messier",
+      "title": "Protective measures, causes and symptoms to look out for if traveling to a place where malaria is common",
+      "description": "Malaria is a disease transmitted through mosquitos that can become fatal. It's vital to take preventative measures when traveling to a place where the disease is common.",
+      "url": "https://www.foxnews.com/lifestyle/signs-symptoms-causes-malaria",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/mosquito-on-skin.jpg",
+      "publishedAt": "2023-11-24 10:49:21",
+      "content": "Malaria is spread through mosquitoes and can be fatal if it is not treated quickly. The disease is rare in the United States, with just about 2,000 cases each year, according to the Centers for Dis\u2026 [+3080 chars]",
+      "retrievedAt": "2023-11-25 19:05:22.302010",
+      "internal_id": "56d357d50510095e0db764a5e092fa09969d57f0fdcfd54343508707c9f1dce9",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 3322,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Sean Muhamad, Raka Adji",
+      "title": "Indonesia's Health Ministry warns against Wolbachia hoaxes",
+      "description": "Indonesia's Health Ministry on Friday urged the community to not readily believe hoaxes related to Wolbachia circulating on the internet. The government is implementing a Wolbachia-based strategy to mitigate dengue ...",
+      "url": "https://en.antaranews.com/news/299424/indonesias-health-ministry-warns-against-wolbachia-hoaxes",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/20/EAAFA1E5-E1E3-46E2-9762-69967A6E6859.jpeg",
+      "publishedAt": "2023-11-24 10:22:10",
+      "content": "Jakarta (ANTARA) - Indonesia's Health Ministry on Friday urged the community to not readily believe hoaxes related to Wolbachia circulating on the internet.The government is implementing a Wolbachia-\u2026 [+1767 chars]",
+      "retrievedAt": "2023-11-25 19:05:21.518532",
+      "internal_id": "b000770d4fc9f771843997529dc92512298f740b00a96fdf4c922be6af724ca1",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 3323,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Sonya Santos",
+      "title": "Surgi\u00f3 en Per\u00fa y se uni\u00f3 en la India con un holand\u00e9s: Gin&Tonic",
+      "description": "La quinina es un compuesto qu\u00edmico amargo que se encuentra en la corteza del \u00e1rbol de la quina, que tiene sus or\u00edgenes en Sudam\u00e9rica. Se utilizaba hist\u00f3ricamente para tratar la malaria.",
+      "url": "https://www.elfinanciero.com.mx/opinion/sonya-santos/2023/11/24/surgio-en-peru-y-se-unio-en-la-india-con-un-holandes-gintonic/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/t0tHrXstn2FgG8zBUn9zcbhvMNg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/G55GJZTFPRHQFJWFPA4ZMZ37BI.jpg",
+      "publishedAt": "2023-11-24 08:10:25",
+      "content": "La bebida que llamamos gin and tonic tiene sus ra\u00edces en el siglo XIX, cuando los soldados brit\u00e1nicos en la India consum\u00edan quinina para combatir la malaria, y como era muy amarga, la mezclaban con a\u2026 [+3457 chars]",
+      "retrievedAt": "2023-11-25 19:05:22.275243",
+      "internal_id": "411d8dd5949a86bd28e908c625c2ef46fd47751854c53fb26a553ba7aa69f545",
+      "publishedAtLabel": "Nov 24"
+    },
     {
       "id": 3318,
       "query": [
@@ -3449,168 +3611,6 @@
       "content": "O FDA, \u00c3\u00b3rg\u00c3\u00a3o regulador dos EUA, aprovou, na quinta-feira (9), a vacina contra a chikungunya\u00c2 desenvolvida entre o Instituto Butantan e a empresa de biotecnologia franco-austr\u00c3\u00adaca Valneva. Esse \u00c3\u00a9 \u2026 [+2890 chars]",
       "retrievedAt": "2023-11-15 07:05:50.230316",
       "internal_id": "06e9a8533ac435fd3f9b76068950099aa8116b4e95de00abeecc67bcba05a4fb",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3125,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Chijioke Iremeka",
-      "title": "\u2018Poor sanitation, hygiene major malaria control setbacks\u2019",
-      "description": "Medical experts have attributed natural and man-made environmental issues such as poor sanitation and hygiene as the causes of persistent malaria transmission in Nigeria and major setbacks to the country\u2019s control efforts. The experts, who spoke with PUNCH H\u2026",
-      "url": "https://punchng.com/poor-sanitation-hygiene-major-malaria-control-setbacks/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/22015336/malaria.jpg",
-      "publishedAt": "2023-11-13 23:06:26",
-      "content": "Medical experts have attributed natural and man-made environmental issues such as poor sanitation and hygiene as the causes of persistent malaria transmission in Nigeria and major setbacks to the cou\u2026 [+4049 chars]",
-      "retrievedAt": "2023-11-15 07:05:49.298172",
-      "internal_id": "565c04e1995f32a44fbe9c407d5b885c398954c1027c780b2a6bb07666595f92",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3126,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Janet Ogundepo",
-      "title": "Poverty, biggest driver of malaria prevalence \u2013Experts",
-      "description": "Senior medical professionals have identified poverty as the biggest driver of high prevalence of malaria in Nigeria. They also listed ignorance, poor utilisation of insecticide treated nets and anti-malarial drug resistance as other causes. According to the W\u2026",
-      "url": "https://punchng.com/poverty-biggest-driver-of-malaria-prevalence-experts/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/11/14010139/Ademowo.jpg",
-      "publishedAt": "2023-11-13 23:05:24",
-      "content": "Senior medical professionals have identified poverty as the biggest driver of high prevalence of malaria in Nigeria. They also listed ignorance, poor utilisation of insecticide treated nets and anti\u2026 [+6470 chars]",
-      "retrievedAt": "2023-11-15 07:05:49.304451",
-      "internal_id": "0e48d53d8b19c29b93e3d94788ff6deaafff763798cdd7b008c3908ecfac4dd4",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3128,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Vacina da chikungunya em teste no Brasil induz resposta imune em 98,8% dos vacinados",
-      "description": "A expectativa \u00e9 submeter o pedido de aprova\u00e7\u00e3o da vacina para a Anvisa no primeiro semestre de 2024",
-      "url": "https://valor.globo.com/brasil/noticia/2023/11/13/vacina-da-chikungunya-em-teste-no-brasil-induz-resposta-imune-em-988-pontos-percentuais-dos-vacinados.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/tyPG9VTKYNs7R8WnusrjR_moihM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/y/h/9eNwOaQGeg3OYlRyPkvw/instituto-burantan-em-sao-paulo-rovena-rosa-agencia-brasil.jpg",
-      "publishedAt": "2023-11-13 20:42:33",
-      "content": "A vacina contra a chikungunya desenvolvida pelo Instituto Butantan e pela empresa de biotecnologia franco-austr\u00edaca Valneva induz resposta imune em 98,8% dos adolescentes que integram a fase 3 do ens\u2026 [+3225 chars]",
-      "retrievedAt": "2023-11-15 07:05:50.251248",
-      "internal_id": "446a3254eb40680fb1ecef907cae6b6d2bc237fcfaea7d7a6f2bc460704b230a",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3124,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "time",
-      "source_name": "Time",
-      "author": "Shannon Carlin",
-      "title": "Sherrie Silver Is Empowering Children Through Dance",
-      "description": "Rwandan-born choreographer Sherrie Silver knows the exact moment she became an activist.",
-      "url": "https://time.com/6333488/sherrie-silver-time100-impact-awards/",
-      "urlToImage": "https://api.time.com/wp-content/uploads/2023/11/time100-impact-awards-rwanda-sherrie-silver.jpg?quality=85",
-      "publishedAt": "2023-11-13 20:33:05",
-      "content": "Rwandan-born choreographer Sherrie Silver knows the exact moment she became an activist. When she was nine, she lost a cousin of the same age to malaria, and wanted to do something to honor his memor\u2026 [+4520 chars]",
-      "retrievedAt": "2023-11-15 07:05:49.287118",
-      "internal_id": "e2c523d8349587e82c49f825e0f198b31e9cd45b43be539061e083af994f929b",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3123,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Banglanews24.com",
-      "author": null,
-      "title": "\u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09b8\u0982\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u09a4\u09a5\u09cd\u09af \u09a6\u09bf\u09df\u09c7 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6\u09bf\u09a6\u09c7\u09b0 \u09b8\u0982\u09af\u09c1\u0995\u09cd\u09a4 \u0995\u09b0\u099b\u09c7 \u0997\u09c1\u0997\u09b2",
-      "description": "\u09a2\u09be\u0995\u09be: \u099a\u09b2\u09a4\u09bf \u09ac\u099b\u09b0 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u099c\u09cd\u09ac\u09b0\u09c7\u09b0 \u09a8\u099c\u09bf\u09b0\u09ac\u09bf\u09b9\u09c0\u09a8 \u09aa\u09cd\u09b0\u09be\u09a6\u09c1\u09b0\u09cd\u09ad\u09be\u09ac \u09ae\u09cb\u0995\u09be\u09ac\u09bf\u09b2\u09be\u09df \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09b8\u09b0\u0995\u09be\u09b0, \u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09c7\u09b0 \u09a2\u09be\u0995\u09be\u09b8\u09cd\u09a5 \u09a6\u09c2\u09a4\u09be\u09ac\u09be\u09b8 \u098f\u09ac\u0982 \u0987\u0989\u09a8\u09bf\u09b8\u09c7\u09ab\u09b8\u09b9 \u0995\u09df\u09c7\u0995\u099f\u09bf \u09b8\u0982\u0997\u09a0\u09a8\u09c7\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u0995\u09be\u099c \u0995\u09b0\u09c7\u099b\u09c7 \u0997\u09c1\u0997\u09b2\u0964 \u098f \u09b8\u09b9\u09af\u09cb\u0997\u09bf\u09a4\u09be\u09b0 \u0985\u0982\u09b6 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u09a1\u09c7\u0999\u09cd\u0997\u09c1 \u09aa\u09cd\u09b0\u09a4\u09bf\u09b0\u09cb\u09a7, \u09b2\u0995\u09cd\u09b7\u09a3\u0997\u09c1\u09b2\u09cb\u09b0 \u09b8\u0999\u09cd\u0997\u09c7 \u09aa\u09b0\u09bf\u099a\u09df",
-      "url": "https://www.banglanews24.com/information-technology/news/bd/1224265.details",
-      "urlToImage": "https://www.banglanews24.com/public/uploads/2023/11/14/social/1699903396.google.jpg",
-      "publishedAt": "2023-11-13 19:23:16",
-      "content": ": , , , google.com- () - : goo.gle/BD-EN-dengue () goo.gle/BD-BN-dengue, () , () . - , , (, ) , , , : , , /",
-      "retrievedAt": "2023-11-15 07:05:48.266130",
-      "internal_id": "7633c70527931da46770ccb75411846cefc7ebcd3b13a505c9c2dd8f77313a5e",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3121,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "FDA.gov",
-      "author": "FDA",
-      "title": "La FDA aprueba la primera vacuna para prevenir la enfermedad causada por el virus del chikungunya",
-      "description": "La FDA aprob\u00f3 Ixchiq, la primera vacuna para la prevenci\u00f3n de la enfermedad causada por el virus del chikungunya en personas de 18 a\u00f1os y mayores que tienen un mayor riesgo de exposici\u00f3n al virus del chikungunya.",
-      "url": "https://www.fda.gov/news-events/press-announcements/la-fda-aprueba-la-primera-vacuna-para-prevenir-la-enfermedad-causada-por-el-virus-del-chikungunya",
-      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-      "publishedAt": "2023-11-13 18:18:08",
-      "content": "For Immediate Release: November 09, 2023 English Hoy, la Administraci\u00f3n de Alimentos y Medicamentos de los Estados Unidos (FDA, por sus siglas en ingl\u00e9s) aprob\u00f3 Ixchiq, la primera vacuna contra el\u2026 [+6934 chars]",
-      "retrievedAt": "2023-11-14 19:05:17.826448",
-      "internal_id": "22ff7ccd53d4f517302d33d0f001ce21f75f708bda6cbafe7fe6b1a832014de2",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3115,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Reuters",
-      "title": "Rising temp, longer monsoon drive B'desh worst dengue outbreak",
-      "description": "Rising temperatures and a longer monsoon in Bangladesh because of climate change are providing ideal breeding conditions for the dengue-spreading mosquito, experts said, as the country grapples with its worst-ever outbreak of the viral disease. The death toll\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/rising-temperatures-longer-monsoon-drive-bangladeshs-worst-dengue-outbreak/articleshow/105191619.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105191738,width-1070,height-580,imgsize-35198,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-13 17:09:17",
-      "content": "Rashmika Mandanna shines in ethnic wear, inspiring Diwali fashion choices",
-      "retrievedAt": "2023-11-14 19:05:15.479914",
-      "internal_id": "3cfed96f9ac86f23a5a6faac542ed84e1605615e01430288bed40432f5024923",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3114,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Metafilter.com",
-      "author": "Liquidwolf",
-      "title": "Vet check up for elderly but healthy cat?",
-      "description": "I'm wondering if I should take my cat in for a routine checkup. He's about 14-15 yrs old but in good physical shape and seems healthy. Is it worth the trouble?He's due for some shots like rabies and some other ones. But he's an indoor cat and doesn't live wit\u2026",
-      "url": "https://ask.metafilter.com/376557/Vet-check-up-for-elderly-but-healthy-cat",
-      "urlToImage": "http://cdn.mefi.us/images/askmefi/apple-touch-icon.png",
-      "publishedAt": "2023-11-13 16:26:45",
-      "content": "You are not logged in, either login or create an account to post comments",
-      "retrievedAt": "2023-11-14 19:05:14.455686",
-      "internal_id": "7b0c56b2dd9fd9252d386d174b482d4f378a6854087c43a1c34a62d645c4872d",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3120,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "Li Cohen",
-      "title": "Video captures long-lost species named after David Attenborough",
-      "description": "Researchers captured footage of the \"bizarre\" animal on the last day and with their final memory card after a month of battling \"blood-sucking leeches, malaria, earthquakes\" and more in Indonesia.",
-      "url": "https://www.cbsnews.com/news/video-long-beaked-echidna-sir-david-attenborough-lost-endangered/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/13/30edb062-6d24-4026-83dd-9ce0c42b4580/thumbnail/1200x630/70272fda5a237779cfb1b86b59296ee4/2023-11-10t000247z-1977926752-rc2j82a8gtoc-rtrmadp-3-wildlife-echidna.jpg?v=8afad5e29ac9a704fff9d98ba34d3649",
-      "publishedAt": "2023-11-13 14:49:31",
-      "content": "For more than 60 years, researchers have been unable to physically see a critically endangered animal known as one of the world's most unusual mammals. But now, one of Attenborough's long-beaked echi\u2026 [+3895 chars]",
-      "retrievedAt": "2023-11-14 19:05:16.553213",
-      "internal_id": "46e14b95ff33fdf6c3d5030655e88df537b74399cbb9cf3ac0a8e3368b6a0bb2",
       "publishedAtLabel": "Nov 13"
     }
   ]
