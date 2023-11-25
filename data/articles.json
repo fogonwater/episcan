@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-11-24 19:05",
+  "last_updated": "2023-11-25 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 3318,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Men and Boys in Uganda Work to Stop Cycles of Gender-Based Violence",
+      "description": "[UNFPA] Kasese District, Uganda -- Through his work as a village health team member in Kasese District, Uganda, Timothy Mbene Masereka had become adept at treating community members for illnesses such as malaria and pneumonia.",
+      "url": "https://allafrica.com/stories/202311240020.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-24 04:51:44",
+      "content": "Kasese District, Uganda \u2014 Through his work as a village health team member in Kasese District, Uganda, Timothy Mbene Masereka had become adept at treating community members for illnesses such as mala\u2026 [+5278 chars]",
+      "retrievedAt": "2023-11-25 07:05:47.035083",
+      "internal_id": "92376fd3e07437b54573376de7efd63160808f8444b0f5678478cd2d8ae316f9",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 3317,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Dirisu Yakubu",
+      "title": "Reps probe N62bn HIV/AIDS fund",
+      "description": "The House Committee on HIV/AIDS, Tuberculosis, Leprosy and Malaria on Thursday pledged to investigate the utilisation and impact of the N62bn Federal Government intervention funds invested into the HIV/AIDS control programme and other donor funds by Global F\u2026",
+      "url": "https://punchng.com/reps-probe-n62bn-hiv-aids-fund/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/06/07145506/01-reps-2-e1686146106154.jpg",
+      "publishedAt": "2023-11-23 21:05:20",
+      "content": "The House Committee on HIV/AIDS, Tuberculosis, Leprosy and Malaria on Thursday pledged to investigate the utilisation and impact of the N62bn Federal Government intervention funds invested into the H\u2026 [+1611 chars]",
+      "retrievedAt": "2023-11-25 07:05:47.012302",
+      "internal_id": "61e32337f7b05f6606c0d0865a3b10aae0af52ef2d93a3c683a7f41a142d17b7",
+      "publishedAtLabel": "Nov 23"
+    },
+    {
+      "id": 3316,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "diego.valencia",
+      "title": "Ap\u00f3s recorde em 2022, Brasil bate mil mortes de dengue novamente",
+      "description": "Foram registradas 1.037 mortes \u2013 com casos ainda em investiga\u00e7\u00e3o at\u00e9 novembro de 2023",
+      "url": "https://veja.abril.com.br/saude/apos-recorde-em-2022-brasil-bate-mil-mortes-de-dengue-novamente",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/aedes_aegypti-dengue2.webp?w=680&h=453&crop=1",
+      "publishedAt": "2023-11-23 20:28:26",
+      "content": "BLACK FRIDAY: ASSINE a partir de R$ 1 por semanaContinua ap\u00f3s publicidade Foram registradas 1.037 mortes com casos ainda em investiga\u00e7\u00e3o at\u00e9 novembro de 2023 Por Diego Alejandro Atualizado em 23 \u2026 [+2071 chars]",
+      "retrievedAt": "2023-11-25 07:05:46.329867",
+      "internal_id": "d6a2ab26655021fc0a9f9fd39647dcf920b84d61dcecaa19ff174d3111de20f0",
+      "publishedAtLabel": "Nov 23"
+    },
     {
       "id": 3312,
       "query": [
@@ -3557,60 +3611,6 @@
       "content": "For more than 60 years, researchers have been unable to physically see a critically endangered animal known as one of the world's most unusual mammals. But now, one of Attenborough's long-beaked echi\u2026 [+3895 chars]",
       "retrievedAt": "2023-11-14 19:05:16.553213",
       "internal_id": "46e14b95ff33fdf6c3d5030655e88df537b74399cbb9cf3ac0a8e3368b6a0bb2",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3119,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "focus",
-      "source_name": "Focus",
-      "author": "Deutsche Welle Wissenschaft/Umwelt",
-      "title": "Wissenschaft - Antibiotikaresistenzen nehmen bei Kindern zu",
-      "description": "Antibiotika werden bei Kindern und S\u00e4uglingen oft bei Infektionen eingesetzt, aber sie sind zunehmend unwirksam. Wie gef\u00e4hrlich sind Antibiotikaresistenzen f\u00fcr Kinder und gibt es Alternativen?",
-      "url": "https://www.focus.de/wissen/natur/nicht-mal-mehr-die-haelfte-der-antibiotika-ist-bei-unseren-kindern-wirksam_id_244923364.html",
-      "urlToImage": "https://p6.focus.de/img/wissen/natur/id_244923363/kinder-erhalten-antibiotika-oft-in-form-von-saft.jpg?im=Crop%3D%280%2C29%2C940%2C470%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=164fcdbcabd8edb16325d35bf9001f60d849662cb04813a362aa16db704c0839",
-      "publishedAt": "2023-11-13 13:21:43",
-      "content": "Mittelohrentz\u00fcndung, Sepsis, Meningitis sind diese Krankheiten bakteriell bedingt, werden Kinder oft mit Antibiotika behandelt. Aber weniger als 50 Prozent der Antibiotika sind \u00fcberhaupt noch wirksam\u2026 [+4196 chars]",
-      "retrievedAt": "2023-11-14 19:05:15.927261",
-      "internal_id": "948dd220f9ed11442323747367efda0a8b910f2ecf4e4c9e8dfdc17b04c28058",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3118,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Gudrun Heise",
-      "title": "Antibiotikaresistenzen nehmen bei Kindern zu",
-      "description": "Antibiotika werden bei Kindern und S\u00e4uglingen oft bei Infektionen eingesetzt, aber sie sind zunehmend unwirksam. Wie gef\u00e4hrlich sind Antibiotikaresistenzen f\u00fcr Kinder und gibt es Alternativen? Mittelohrentz\u00fcndung, Sepsis, Meningitis \u2013 sind diese Krankheiten b\u2026",
-      "url": "https://www.dw.com/de/antibiotikaresistenzen-nehmen-bei-kindern-zu/a-67366337",
-      "urlToImage": "https://static.dw.com/image/65371958_6.jpg",
-      "publishedAt": "2023-11-13 12:31:00",
-      "content": "Mittelohrentz\u00fcndung, Sepsis, Meningitis sind diese Krankheiten bakteriell bedingt, werden Kinder oft mit Antibiotika behandelt. Aber weniger als 50 Prozent der Antibiotika sind \u00fcberhaupt noch wirksam\u2026 [+4319 chars]",
-      "retrievedAt": "2023-11-14 19:05:15.923080",
-      "internal_id": "00b7739abbb1545a2544ca42b6281f7ff1b63c35b08397c7fd7b1b77461af8a0",
-      "publishedAtLabel": "Nov 13"
-    },
-    {
-      "id": 3117,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Elconfidencialdigital.com",
-      "author": "Antonio Quir\u00f3s Abad\u00eda",
-      "title": "La meningitis, los caracoles, su higiene y cuidados preventivos...",
-      "description": "En Haw\u00e1i est\u00e1n alarmados por la aparici\u00f3n de unos 10 casos diferentes de la infecci\u00f3n del par\u00e1sito \"gusano pulmonar de las ratas\", lo mismo en California, Alabama, Luisiana, Florida y ... El primer caso de esta enfermedad (que se tenga datos) se...",
-      "url": "https://www.elconfidencialdigital.com/articulo/opinan-socios-ecd/meningitis-caracoles-higiene-cuidados-preventivos/20231113103919668871.html",
-      "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2016/07/08/ECDIMA20160708_0017_1.jpg",
-      "publishedAt": "2023-11-13 09:39:19",
-      "content": "En Haw\u00e1i est\u00e1n alarmados por la aparici\u00f3n de unos 10 casos diferentes de la infecci\u00f3n del par\u00e1sito \"gusano pulmonar de las ratas\", lo mismo en California, Alabama, Luisiana, Florida y ... El primer c\u2026 [+4140 chars]",
-      "retrievedAt": "2023-11-14 19:05:15.917420",
-      "internal_id": "97af7a6e534dc6cf3242519aa2c0e2716f6c9cac7a4b647815d91e3eb7c7e894",
       "publishedAtLabel": "Nov 13"
     }
   ]
