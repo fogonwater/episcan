@@ -1,8 +1,134 @@
 {
-  "last_updated": "2023-11-25 19:05",
+  "last_updated": "2023-11-26 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 3329,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Dog Killed By Locals After Biting 29 People In Chennai Found With Rabies",
+      "description": "A dog that was beaten to death after biting 29 people in Chennai has test positive for rabies, officials said.",
+      "url": "https://www.ndtv.com/chennai-news/dog-killed-by-locals-after-biting-29-people-in-chennais-royapuram-found-with-rabies-4604740",
+      "urlToImage": "https://i.ndtvimg.com/i/2017-09/stray-dog-generic-stockshot-650_650x400_51505906887.jpg",
+      "publishedAt": "2023-11-25 06:50:00",
+      "content": "The dog bite victims included 10 schoolchildren and some elderly people. (File) Chennai: A dog that was beaten to death after biting 29 people in Chennai has test positive for rabies, officials said\u2026 [+1651 chars]",
+      "retrievedAt": "2023-11-26 07:05:37.645752",
+      "internal_id": "14789a36c1739b7970c433fb9007f1a960d9b43b023ebd64a5ad3d7612cc94cd",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3328,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "PR Newswire UK",
+      "author": null,
+      "title": "Rabies Vaccine Market to Reach $ 1903.17 million by 2032, exhibiting a CAGR of 4.7% from 2023 to 2032: Allied Market Research",
+      "description": "Rise in prevalence of rabies in developing countries, increase in number of dog bites and rising number of stray dogs and presence of large market players who manufactures rabies vaccine is anticipated to boost the growth of rabies vaccine market. Moreover, r\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/rabies-vaccine-market-to-reach--1903-17-million-by-2032--exhibiting-a-cagr-of-4-7-from-2023-to-2032-allied-market-research-301996966.html",
+      "urlToImage": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook",
+      "publishedAt": "2023-11-25 05:20:00",
+      "content": "Rise in prevalence of rabies in developing countries, increase in number of dog bites and rising number of stray dogs and presence of large market players who manufactures rabies vaccine is anticipat\u2026 [+9062 chars]",
+      "retrievedAt": "2023-11-26 07:05:37.632828",
+      "internal_id": "8c505b7a7b196fa77cc431397c164985f6e70e90f96d1ba6281b5646e260475c",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3330,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Microbe.tv",
+      "author": "Vincent Racaniello",
+      "title": "TWiV 1064: Clinical update with Dr. Daniel Griffin",
+      "description": "In his weekly clinical update, Dr. Griffin discusses progress toward measles elimination, risk of severe coronavirus disease 2019 despite vaccination in patients requiring treatment with immune-suppressive drugs, symptoms, viral loads, and rebound among COVID\u2026",
+      "url": "https://www.microbe.tv/twiv/twiv-1064/",
+      "urlToImage": null,
+      "publishedAt": "2023-11-25 05:00:00",
+      "content": "In his weekly clinical update, Dr. Griffin discusses progress toward measles elimination, risk of severe coronavirus disease 2019 despite vaccination in patients requiring treatment with immune-suppr\u2026 [+813 chars]",
+      "retrievedAt": "2023-11-26 07:05:38.152840",
+      "internal_id": "6fea5bbc6a16c26a3a383f72adb8deda4a0048f934d2d5cf4431e646b8681532",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3333,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "UN confirms sexual spread of mpox in Congo for the 1st time - ABC News",
+      "description": "UN confirms sexual spread of mpox in Congo for the 1st timeABC News View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172302353",
+      "urlToImage": null,
+      "publishedAt": "2023-11-25 01:32:06",
+      "content": "Receiving a million dollars tax free will make you feel better than being flat broke and having a stomach ache. -- Dolph Sharp, \"I'm O.K., You're Not So Hot\"",
+      "retrievedAt": "2023-11-26 07:05:40.927454",
+      "internal_id": "8ccff5f4367437b03c39b60488656d987d0b80449b808049b417c8b7f6927e03",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3332,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "WHO Confirms First Sexual Spread of Mpox in Congo Amid Record Outbreak",
+      "description": "The World Health Organization said it has confirmed sexual transmission of mpox in the Democratic Republic of Congo for the first time as the country experiences its biggest outbreak, a worrying development that African scientists warn could make it more diff\u2026",
+      "url": "https://www.voanews.com/a/who-confirms-first-sexual-spread-of-mpox-in-congo-amid-record-outbreak/7369344.html",
+      "urlToImage": "https://gdb.voanews.com/D3AFB59F-2904-4C9C-9368-0EB2C3CA71A0.jpg",
+      "publishedAt": "2023-11-24 21:44:26",
+      "content": "LONDON The World Health Organization said it has confirmed sexual transmission of mpox in the Democratic Republic of Congo for the first time as the country experiences its biggest outbreak, a worry\u2026 [+3307 chars]",
+      "retrievedAt": "2023-11-26 07:05:40.914447",
+      "internal_id": "fad3ef452cc3c07ee674c029beab739ad9072b9f89524a4b1fe1029a8f0f35f4",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 3331,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pragmatismopolitico.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "M\u00e9dico de hospital particular menosprezou estado de sa\u00fade de menina morta por dengue no DF: \u201cEla tem \u00e9 dengo\u201d",
+      "description": "M\u00e9dico respons\u00e1vel minimizou a gravidade do estado de sa\u00fade da menina de 7 anos, atribuindo os sintomas a um suposto \u201cdengo\u201d. A crian\u00e7a faleceu dois dias ap\u00f3s a consulta O post M\u00e9dico de hospital particular menosprezou estado de sa\u00fade de menina morta por deng\u2026",
+      "url": "https://www.pragmatismopolitico.com.br/2023/11/medico-de-hospital-particular-menosprezou-estado-de-saude-de-menina-morta-por-dengue-no-df-ela-tem-e-dengo.html",
+      "urlToImage": "https://www.pragmatismopolitico.com.br/wp-content/uploads/2023/11/pietra.jpg",
+      "publishedAt": "2023-11-24 19:39:10",
+      "content": "M\u00e9dico respons\u00e1vel minimizou a gravidade do estado de sa\u00fade da menina de 7 anos, atribuindo os sintomas a um suposto dengo. A crian\u00e7a faleceu dois dias ap\u00f3s a consulta A menina Pietra Isaac, de 7 an\u2026 [+2971 chars]",
+      "retrievedAt": "2023-11-26 07:05:38.510866",
+      "internal_id": "b4519dfd0404f84dca104169121a0239a866e5793f5bc652f265a54382e38e73",
+      "publishedAtLabel": "Nov 24"
+    },
+    {
+      "id": 3334,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - ABC News",
+      "description": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreakABC News View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172301071",
+      "urlToImage": null,
+      "publishedAt": "2023-11-24 19:34:46",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-11-26 07:05:40.931570",
+      "internal_id": "92fa7956992da19c376e292564d10b574070748d916a49e1064da25dfed8db9f",
+      "publishedAtLabel": "Nov 24"
+    },
     {
       "id": 3319,
       "query": [
@@ -3486,132 +3612,6 @@
       "retrievedAt": "2023-11-15 19:05:33.035071",
       "internal_id": "93dc444cd7d2f36fb50f55861c356803f836a1a6a6ac6bab9704aba6be4ee13c",
       "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3130,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Zosia Kmietowicz",
-      "title": "Offer children chickenpox vaccine with MMR, JCVI recommends",
-      "description": "Children should be offered vaccination against varicella (chickenpox) as part of the routine childhood schedule at 12 and 18 months using the combined measles, mumps, rubella, and varicella (MMRV) vaccine, the Joint Committee on Vaccination and Immunisation (\u2026",
-      "url": "https://www.bmj.com/content/383/bmj.p2677",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/383/8406.cover-source.jpg",
-      "publishedAt": "2023-11-14 14:56:18",
-      "content": "Children should be offered vaccination against varicella (chickenpox) as part of the routine childhood schedule at 12 and 18 months using the combined measles, mumps, rubella, and varicella (MMRV) va\u2026 [+365 chars]",
-      "retrievedAt": "2023-11-15 19:05:29.745729",
-      "internal_id": "846628e437b98bb303222004e7e8cc6fcd1998a1e374ec2920e219ab58664cce",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3136,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Minist\u00e9rio da Sa\u00fade alerta para amea\u00e7a da dengue no fim de 2023",
-      "description": "Com mais de 1,6 milh\u00e3o de casos da doen\u00e7a nos dez primeiros meses de 2023, o Minist\u00e9rio da Sa\u00fade alerta para a grande amea\u00e7a da dengue neste f...",
-      "url": "https://recordtv.r7.com/hoje-em-dia/videos/ministerio-da-saude-alerta-para-ameaca-da-dengue-no-fim-de-2023-14112023",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/11/14/655382c8cd77c0ef9a000717/1dcc42be2cd9491d97157a6876b802f1__2292197_EPP_1411_HD_GUERRA_DENGUE_thumb.jpg",
-      "publishedAt": "2023-11-14 12:47:06",
-      "content": "Com mais de 1,6 milh\u00e3o de casos da doen\u00e7a nos dez primeiros meses de 2023, o Minist\u00e9rio da Sa\u00fade alerta para a grande amea\u00e7a da dengue neste fim de ano. O clima quente e \u00famido, que deve se tornar mai\u2026 [+228 chars]",
-      "retrievedAt": "2023-11-15 19:05:30.081892",
-      "internal_id": "706d59dbca2d305d9c94feb2a7825cabf128f1fcb9ca841d0eba3ed13be08ede",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3138,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Da Ag\u00eancia Brasil",
-      "title": "Vacina da chikungunya induz resposta imune em 98,8% dos vacinados",
-      "description": "Estudo est\u00e1 sendo conduzido no Brasil com 750 adolescentes",
-      "url": "https://noticias.r7.com/saude/vacina-da-chikungunya-induz-resposta-imune-em-988-dos-vacinados-14112023",
-      "urlToImage": "https://img.r7.com/images/aedes-aegypti-16032022083300158?crop=616x346+25+79",
-      "publishedAt": "2023-11-14 12:43:00",
-      "content": "Imunizante demonstrou seguran\u00e7a ao v\u00edrus mesmo sem exposi\u00e7\u00e3o pr\u00e9via Pixabay A vacina contra a chikungunya desenvolvida pelo Instituto Butantan e pela empresa de biotecnologia franco-austr\u00edaca\u2026 [+4132 chars]",
-      "retrievedAt": "2023-11-15 19:05:32.309732",
-      "internal_id": "141941185f1a93f0410d831284c5846e9c4de19875e9f73f775e7f9f683a9e41",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3133,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "\"Unwell\" Ajit Pawar Skips Sharad Pawar's Diwali Get-Together in Baramati",
-      "description": "Nationalist Congress Party president Sharad Pawar on Tuesday met well-wishers in his hometown Baramati at an annual event on the occasion of Diwali Padwa, but his nephew and Maharashtra Deputy Chief Minister Ajit Pawar was conspicuous by his absence.",
-      "url": "https://www.ndtv.com/india-news/unwell-ajit-pawar-skips-sharad-pawars-diwali-get-together-in-baramati-4573428",
-      "urlToImage": "https://c.ndtvimg.com/2019-11/lrogfps4_ajit-pawar-sharad-pawar-pti-_625x300_26_November_19.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20231016.06",
-      "publishedAt": "2023-11-14 11:53:17",
-      "content": "Supriya Sule said Ajit Pawar was suffering from dengue and was taking rest. (File) Pune: Nationalist Congress Party president Sharad Pawar on Tuesday met well-wishers in his hometown Baramati at an \u2026 [+2188 chars]",
-      "retrievedAt": "2023-11-15 19:05:30.067427",
-      "internal_id": "9df40ad116d74cdd7b4d76ab6d15bdf546c02477955f712b58ed146416966c2a",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3137,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Cegah Peningkatan Kasus DBD, Lurah dan Camat Diminta Lakukan Fogging",
-      "description": "KalbarOnline, Pontianak \u2013 Jumlah kasus Demam Berdarah Dengue (DBD) di Kota Pontianak The post Cegah Peningkatan Kasus DBD, Lurah dan Camat Diminta Lakukan Fogging appeared first on KalbarOnline.Com.",
-      "url": "https://www.kalbaronline.com/2023/11/14/cegah-peningkatan-kasus-dbd-lurah-dan-camat-diminta-lakukan-fogging/",
-      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/11/IMG-20231114-WA0020.jpg",
-      "publishedAt": "2023-11-14 09:29:02",
-      "content": "KalbarOnline, Pontianak \u2013 Jumlah kasus Demam Berdarah Dengue (DBD) di Kota Pontianak saat ini tercatat 108 kasus. Hal itu diungkapkan Kepala Dinas Kesehatan Kota Pontianak, Saptiko. Untuk itu, pihakn\u2026 [+2613 chars]",
-      "retrievedAt": "2023-11-15 19:05:30.090959",
-      "internal_id": "416037b1cc9726aaf36162ace4b52d2b1d22ca32421cefc62ef09d490763a4d6",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3129,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "19 leptospirosis deaths in NegOcc, 14 in Bacolod",
-      "description": "Bacolod City \u2013 Leptospirosis, a bacterial infection contracted through the urine of infected animals, especially rats, has claimed the lives of 19 individuals in Negros Occidental, along with 14 others in highly urbanized Bacolod City, according to reports of\u2026",
-      "url": "https://rpnradio.com/19-leptospirosis-deaths-in-negocc-14-in-bacolod/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/11/19-lepto-deaths.jpg",
-      "publishedAt": "2023-11-14 00:59:24",
-      "content": "Bacolod City \u2013 Leptospirosis, a bacterial infection contracted through the urine of infected animals, especially rats, has claimed the lives of 19 individuals in Negros Occidental, along with 14 othe\u2026 [+1441 chars]",
-      "retrievedAt": "2023-11-15 07:05:51.234883",
-      "internal_id": "da2079fac5807ca11f3a435dc2c0a0fa5c86647f7e644f6045555557ac6281be",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3127,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Rodrigo Mozelli",
-      "title": "Vacina brasileira contra chikungunya: saiba mais sobre primeiro imunizante para a doen\u00e7a",
-      "description": "Veja informa\u00e7\u00f5es sobre imunizante aprovado nos EUA O post Vacina brasileira contra chikungunya: saiba mais sobre primeiro imunizante para a doen\u00e7a apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/11/13/medicina-e-saude/vacina-brasileira-contra-chikungunya-saiba-mais-sobre-primeiro-imunizante-para-a-doenca/",
-      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/07/Vacina-1.jpg",
-      "publishedAt": "2023-11-13 23:36:46",
-      "content": "O FDA, \u00c3\u00b3rg\u00c3\u00a3o regulador dos EUA, aprovou, na quinta-feira (9), a vacina contra a chikungunya\u00c2 desenvolvida entre o Instituto Butantan e a empresa de biotecnologia franco-austr\u00c3\u00adaca Valneva. Esse \u00c3\u00a9 \u2026 [+2890 chars]",
-      "retrievedAt": "2023-11-15 07:05:50.230316",
-      "internal_id": "06e9a8533ac435fd3f9b76068950099aa8116b4e95de00abeecc67bcba05a4fb",
-      "publishedAtLabel": "Nov 13"
     }
   ]
 }
