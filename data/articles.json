@@ -1,8 +1,244 @@
 {
-  "last_updated": "2023-11-26 07:05",
+  "last_updated": "2023-11-26 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 3345,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "WHO raises the alarm on mpox in DR Congo",
+      "description": "The World Health Organisation, on Saturday, reported 12,569 mpox cases and 581 related deaths in the Democratic Republic of Congo this year to November 12, the highest annual figure ever recorded. The infectious disease, formerly known as monkeypox, was first\u2026",
+      "url": "https://punchng.com/who-raises-the-alarm-on-mpox-in-dr-congo/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
+      "publishedAt": "2023-11-25 18:39:23",
+      "content": "The World Health Organisation, on Saturday, reported 12,569 mpox cases and 581 related deaths in the Democratic Republic of Congo this year to November 12, the highest annual figure ever recorded. T\u2026 [+1665 chars]",
+      "retrievedAt": "2023-11-26 19:05:16.382864",
+      "internal_id": "68316bdcd6eeb8e290b997faf1a16f7af0266d789abad8509be88482eb46958a",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3337,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Variety",
+      "author": "Leo Barraclough",
+      "title": "Sandra Tabet\u2019s Horror Film \u2018Rabies\u2019 Explores the Apocalyptic Setting of 1990s Post-Civil War Beirut",
+      "description": "The sight of dogs ravaging war-torn streets has become an all too familiar sight. Sandra Tabet\u2019s debut feature film \u201cRabies\u201d (Rage) \u2013 a development project at the Atlas Workshops \u2013 returns to early 1990s in Beirut, in the aftermath of the Lebanese Civil War (\u2026",
+      "url": "https://variety.com/2023/film/global/sandra-tabet-rabies-atlas-workshops-1235808443/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/11/Rabies.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2023-11-25 15:43:58",
+      "content": "The sight of dogs ravaging war-torn streets has become an all too familiar sight. Sandra Tabet\u2019s debut feature film \u201cRabies\u201d (Rage) \u2013 a development project at the Atlas Workshops \u2013 returns to early 1\u2026 [+6882 chars]",
+      "retrievedAt": "2023-11-26 19:05:14.338668",
+      "internal_id": "b7ae1893cf987eac169f655a6829bcfbeb10ea46c0e3e83232743381a0190627",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3343,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Rivan Awal, Raka Adji",
+      "title": "Disseminating information on Wolbachia method a challenge: official",
+      "description": "The utilization of the Wolbachia method to control dengue is running into challenges, especially in terms of disseminating information about the method to the community. Director of communicable disease prevention and control ...",
+      "url": "https://en.antaranews.com/news/299490/disseminating-information-on-wolbachia-method-a-challenge-official",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/25/Screen-Shot-2023-11-25-at-15.30.32.v1.jpg",
+      "publishedAt": "2023-11-25 14:55:03",
+      "content": "The main challenge is how to convince the public. The public must know the benefits and risks of using mosquitoes with Wolbachia. Jakarta (ANTARA) - The utilization of the Wolbachia method to contro\u2026 [+2383 chars]",
+      "retrievedAt": "2023-11-26 19:05:14.801548",
+      "internal_id": "9c27fcea98eb94691294b23ff3802b153bf4ec0767e6ad17fd72d93908a8299c",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3342,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Statetimes.in",
+      "author": "statetimes_editor",
+      "title": "Climate change pushes dengue into new frontiers across India",
+      "description": "DIMAPUR (NAGALAND): The lights above washing the hospital corridor with a dim glow, a frantic Jenpu Rongmei rushed to see his 12-year-old nephew Nina who had been admitted the night before with fever and body ache. He was too late. The young boy had succumbed\u2026",
+      "url": "https://statetimes.in/climate-change-pushes-dengue-into-new-frontiers-across-india/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2023/11/Dengue-Malaria.jpg",
+      "publishedAt": "2023-11-25 14:01:21",
+      "content": "DIMAPUR (NAGALAND): The lights above washing the hospital corridor with a dim glow, a frantic Jenpu Rongmei rushed to see his 12-year-old nephew Nina who had been admitted the night before with fever\u2026 [+7210 chars]",
+      "retrievedAt": "2023-11-26 19:05:14.798310",
+      "internal_id": "08295847ab72ada8a28d99fc9a97cc5ac99bb5b7e4eaf132e4e33bdc378b8cc0",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3336,
+      "query": [
+        "rabies",
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BusinessLine",
+      "author": "G. Naga Sridhar",
+      "title": "IIL launches measles, rubella vaccine for children",
+      "description": "IIL launches Mabella vaccine to combat Measles & Rubella, coinciding with HBI's silver jubilee. MD Kumar stresses need to control deadly diseases & IIL's CSR activity to make Thiruvanathapuram district rabies-free. HBI has developed India's first safe Vero-ce\u2026",
+      "url": "https://www.thehindubusinessline.com/news/iil-launches-measles-rubella-vaccine-for-children/article67572973.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/w8s6bq/article66614400.ece/alternates/LANDSCAPE_1200/25hyngg_dr.k.anand_kumar_02.jpg",
+      "publishedAt": "2023-11-25 12:38:57",
+      "content": "Indian Immunologicals Ltd (IIL) has launched the Mabella (Measles and Rubella) vaccine for children. The live attenuated MR vaccine has been developed by the Hyderabad-based company in exclusive par\u2026 [+1266 chars]",
+      "retrievedAt": "2023-11-26 19:05:14.328037",
+      "internal_id": "3cc6d68b1007174ce8efe1e88e786005fe170d7ba8a115eb02a5c21b486f7f1e",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3346,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Global Mpox Outbreak Risk Escalates As Potent Strain Spreads In Congo",
+      "description": "The pathogen typically causes flu-like symptoms, followed by a rash that often starts on the face and spreads down the belly. The illness often lasts for two weeks to a month, and can be deadly.",
+      "url": "https://www.ndtv.com/world-news/global-mpox-outbreak-risk-escalates-as-potent-strain-spreads-in-congo-4605352",
+      "urlToImage": "https://c.ndtvimg.com/2022-08/3tmo8n8o_monkeypox-bloomberg_625x300_09_August_22.jpg",
+      "publishedAt": "2023-11-25 11:10:02",
+      "content": "Mpox has mostly been confined to developing countries for years. In May of this year, the World Health Organization announced the end of the global health emergency related to mpox, about a year aft\u2026 [+1476 chars]",
+      "retrievedAt": "2023-11-26 19:05:16.388453",
+      "internal_id": "a64bf4bd550ed72d0b7324661133084b03d2b4ffba0c0ae1cde2f5896789525e",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3340,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Hospitalizaciones por dengue se disparan durante primeros 10 meses del 2023",
+      "description": "Internamientos registrados entre enero y octubre de este a\u00f1o triplican los de todo el 2022 y casi duplican los del 2021. Mayor\u00eda de afectados tienen entre 20 y 44 a\u00f1os.",
+      "url": "https://www.nacion.com/ciencia/salud/hospitalizaciones-por-dengue-se-disparan-durante/RRIR5NLNS5BKTIBM3MFB7VQTTI/story/",
+      "urlToImage": "https://www.nacion.com/resizer/u3G1fJsAdQBJme_129-_52kaYhI=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/SOKVLTMUGVFAVBYERTDUHRFJTE.jpg",
+      "publishedAt": "2023-11-25 11:06:00",
+      "content": "Seg\u00fan datos de la Caja Costarricense de Seguro Social (CCSS), un total de 669 internamientos se reportaron en los primeros 10 meses del presente a\u00f1o. Ellos representan el 3,13% de todos los casos de \u2026 [+3797 chars]",
+      "retrievedAt": "2023-11-26 19:05:14.782542",
+      "internal_id": "8dc182a405aa98ab0ea6cc0d9b2f5818ad8b5f9c86dd4fa100496343e16fffef",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3347,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Explained: What Is Mpox? UN Confirms Sexual Spread Of The Desease In Congo",
+      "description": "For the first time, the World Health Organization has verified sexual transmission of Mpox in Congo.",
+      "url": "https://www.ndtv.com/world-news/explained-what-is-mpox-un-confirms-sexual-spread-of-the-desease-in-congo-4605279",
+      "urlToImage": "https://c.ndtvimg.com/2022-07/pousd8n_monkeypox-india-afp-650_625x300_26_July_22.jpg",
+      "publishedAt": "2023-11-25 10:49:39",
+      "content": "The WHO stated that the risk of mpox spreading globally is significant. The World Health Organization (WHO) has officially classified monkeypox (mpox), an infectious disease caused by the monkeypox \u2026 [+2567 chars]",
+      "retrievedAt": "2023-11-26 19:05:16.391551",
+      "internal_id": "c98225efdce6adc62402d4db9b67f04489c8a13687fa363d9dcca02e800ae972",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3338,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Climate change pushes dengue into new frontiers across India",
+      "description": "Nina's death from dengue in Nagaland highlights the devastating crisis of the disease in the Northeast due to climate change, with late monsoons contributing to its spread. Dengue transmission is influenced by rainfall, humidity, and temperature, creating fav\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/climate-change-pushes-dengue-into-new-frontiers-across-india/articleshow/105495534.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105495572,width-1070,height-580,imgsize-121066,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-25 10:12:32",
+      "content": "10 most beautiful lines by English Romantic poets",
+      "retrievedAt": "2023-11-26 19:05:14.769281",
+      "internal_id": "ca13f34b4e96b3c44f043deb1b08ebde176c4f6782fb5058f2c22b2271e96450",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3335,
+      "query": [
+        "pertussis",
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Jonathan Howard",
+      "title": "I Agree with Dr. Vinay Prasad: It\u2019s Entirely Predictable That More Parents Don\u2019t Want Routine Vaccination for Their Kids",
+      "description": "Dr. Prasad didn't predict this sad outcome, he worked tirelessly to cause it. So did many other doctors. The post I Agree with Dr. Vinay Prasad: It\u2019s Entirely Predictable That More Parents Don\u2019t Want Routine Vaccination for Their Kids first appeared on Scienc\u2026",
+      "url": "https://sciencebasedmedicine.org/predictable/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2029/11/Picture1-1.jpg",
+      "publishedAt": "2023-11-25 08:09:26",
+      "content": "\u201cEntirely Predictable: More Parents Don\u2019t Want Routine Vaccination for Their Kids\u201d Measles, pertussis, and chickenpox are poised to make a comeback. According to a recent article titled CDC Data Sho\u2026 [+12622 chars]",
+      "retrievedAt": "2023-11-26 19:05:14.146061",
+      "internal_id": "0d18b35b347134ea7fa45dd30d0468812bb0d8036662dbcb5bde46b7f4390b6a",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3339,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "No seat-sharing talks yet among Maharashtra's ruling parties for upcoming polls: Ajit Pawar",
+      "description": "Maharashtra Deputy Chief Minister Ajit Pawar clarified that there have been no discussions on seat sharing within the ruling Mahayuti alliance for the upcoming Lok Sabha and assembly elections. Pawar, addressing health rumors, stated he suffered from dengue a\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/no-seat-sharing-talks-yet-among-maharashtras-ruling-parties-for-upcoming-polls-ajit-pawar/articleshow/105492847.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-105493060,width-1200,height-630,imgsize-40438,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-11-25 07:58:17",
+      "content": "PUNE: Maharashtra Deputy Chief Minister and NCP leader Ajit Pawar on Saturday said there have been no talks regarding seat sharing among members of the state's ruling alliance for the upcoming Lok Sa\u2026 [+1146 chars]",
+      "retrievedAt": "2023-11-26 19:05:14.772532",
+      "internal_id": "7e23968d198d739a1fe8b1020a143013f0df7235e0a143d32e9d091024ab3a0e",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3341,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vanitha.in",
+      "author": null,
+      "title": "\u2018\u0d2a\u0d28\u0d3f \u0d35\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d12\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d41\u0d02 \u0d38\u0d4d\u0d35\u0d2f\u0d02 \u0d1a\u0d3f\u0d15\u0d3f\u0d24\u0d4d\u0d38\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41 \u0d2e\u0d41\u0d24\u0d3f\u0d30\u0d30\u0d41\u0d24\u0d4d\u2019; \u0d21\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f, \u0d08 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d7e \u0d38\u0d42\u0d15\u0d4d\u0d37\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d02! | Dengue fever | health",
+      "description": "\u0d2e\u0d34\u0d15\u0d4d\u0d15\u0d3e\u0d32\u0d02 \u0d06\u0d30\u0d02\u0d2d\u0d3f\u0d1a\u0d4d\u0d1a\u0d24\u0d4b\u0d1f\u0d46 \u0d21\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f \u0d2a\u0d4b\u0d32\u0d41\u0d33\u0d4d\u0d33 \u0d2e\u0d34\u0d15\u0d4d\u0d15\u0d3e\u0d32 \u0d30\u0d4b\u0d17\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d02 \u0d2a\u0d3f\u0d1f\u0d3f\u0d2e\u0d41\u0d31\u0d41\u0d15\u0d4d\u0d15\u0d3f\u0d24\u0d4d\u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d3f. \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2a\u0d4d\u0d30\u0d35\u0d7c\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d7e \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d15\u0d4d\u0d15\u0d3f\u0d2f\u0d3e\u0d7d \u0d2a\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d41 \u0d2a\u0d41\u0d31\u0d24\u0d4d\u0d24\u0d41 \u0d28\u0d3f\u0d7c\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d41\u0d28\u0d4d\u0d28 \u0d12\u0d28\u0d4d\u0d28\u0d3e\u0d23\u0d4d \u0d21\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f\u0d2f\u0d41\u0d02. \u0d05\u0d25\u0d35\u0d3e \u0d30\u0d4b\u0d17\u0d02 \u0d2a\u0d3f\u0d1f\u0d3f\u0d15\u0d42\u0d1f\u0d3f \u0d15\u0d34\u0d3f\u0d1e\u0d4d\u0d1e\u0d3e\u0d7d \u0d38\u0d4d\u0d35\u0d2f\u0d02 \u0d1a\u0d3f\u0d15\u0d3f\u0d24\u0d4d\u0d38\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41 \u0d2e\u0d41\u0d24\u0d3f\u0d30\u0d3e\u0d24\u0d46 \u0d0e\u0d24\u0d4d\u0d30\u0d2f\u0d41\u0d02 \u0d2a\u0d46\u0d1f\u0d4d\u0d1f\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d35\u0d3f\u0d26\u0d17\u0d4d\u0d26 \u0d1a\u0d3f\u0d15\u2026",
+      "url": "https://www.vanitha.in/glam-up/health-news/dengue-fever-related-symptoms-and-alerts-health-news-report.html",
+      "urlToImage": "https://img.vanitha.in/content/dam/vanitha/daily-updates/just-in/images/2023/11/25/dengue-fever45566000.jpg",
+      "publishedAt": "2023-11-25 07:49:02",
+      "content": ". . . . 1. ? . . , . . . . 2. ? 10 . , , , , , . . 3. ? . . . . . . 4. ? . . , , . . : . . . . . . . , . . . . ( ), , . . , . . . . , , , . . . \u2026 [+5 chars]",
+      "retrievedAt": "2023-11-26 19:05:14.792839",
+      "internal_id": "62ef843fc9da96804f8fb14916b083d396e820922ad0aeda38ff689ccc8afe1c",
+      "publishedAtLabel": "Nov 25"
+    },
+    {
+      "id": 3344,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Frequentfloaters.com",
+      "author": "Frequent Floaters",
+      "title": "$199 Bose Q45s, Bonus on Delta Gift Card, Cruise Stuff Sale, Mistakes Guests Make and Malaria from a Cruise?",
+      "description": "Last week today I left LA and had a lovely flight home including Delta One from LAX to ATL. I enjoyed a massage at the Centurion and everything went smoothly. Well other than one thing \u2013 someone was flying sick and both my wife and I spent Sunday \u2013 Tuesday on\u2026",
+      "url": "https://frequentfloaters.com/199-bose-q45s-bonus-on-delta-gift-card-cruise-stuff-sale-mistakes-guests-make-and-malaria-from-a-cruise/",
+      "urlToImage": "https://frequentfloaters.com/wp-content/uploads/2023/10/Oceania-Vista-Opolo-Purchased-in-Kotor-and-Enjoyed-in-PH-2023.jpeg",
+      "publishedAt": "2023-11-25 07:45:42",
+      "content": "As an Amazon Affiliate, we may earn a commission on eligible purchases made through our referrals. Advertiser Disclosure: Frequent Floaters has partnered with CardRatings for our coverage of credit c\u2026 [+2780 chars]",
+      "retrievedAt": "2023-11-26 19:05:15.472414",
+      "internal_id": "9838f1478ad9c06df385c5ab8ddb825fad61cc14dacb47ce0561ce9e544e15ed",
+      "publishedAtLabel": "Nov 25"
+    },
     {
       "id": 3329,
       "query": [
@@ -3378,240 +3614,6 @@
       "retrievedAt": "2023-11-16 07:05:45.194145",
       "internal_id": "c3c25443d31360470e4a6d4029794927048f12789d76c951337c8f2450b6ed81",
       "publishedAtLabel": "Nov 15"
-    },
-    {
-      "id": 3142,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Autochthonous Dengue Fever in 2 Patients, Rome, Italy",
-      "description": "Autochthonous Dengue Fever in 2 Patients, Rome, Italy",
-      "url": "https://wwwnc.cdc.gov/eid/article/30/1/23-1508_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-11-15 05:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue virus (DENV) infect\u2026 [+6008 chars]",
-      "retrievedAt": "2023-11-16 07:05:45.198542",
-      "internal_id": "5083230e21f58cf69318bc392ff21a87d906f6153af36cb54c0a31044e002771",
-      "publishedAtLabel": "Nov 15"
-    },
-    {
-      "id": 3146,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya",
-      "description": "Detection of Anopheles stephensi Mosquitoes, Kenya",
-      "url": "https://wwwnc.cdc.gov/eid/article/29/12/23-0637_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-11-15 05:00:00",
-      "content": "The Anopheles stephensi mosquito is a major vector of malaria in south Asia, the Middle East, and southern China, where it is endemic and is known to transmit both Plasmodium falciparum and P. vivax.\u2026 [+25803 chars]",
-      "retrievedAt": "2023-11-16 07:05:46.424359",
-      "internal_id": "28abc76718430e11093b846b3c991851bd99d3c87af9d7ac2c691e41a8088735",
-      "publishedAtLabel": "Nov 15"
-    },
-    {
-      "id": 3148,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Nayra Teles",
-      "title": "Mpox pode ser grave em pessoas com imunidade comprometida",
-      "description": "Cientistas identificam impactos graves do MPXV, v\u00edrus causador da mpox, em indiv\u00edduos com sistema imunol\u00f3gico comprometido O post Mpox pode ser grave em pessoas com imunidade comprometida apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/11/15/medicina-e-saude/mpox-pode-ser-grave-em-pessoas-com-imunidade-comprometida/",
-      "urlToImage": "https://proxy.olhardigital.com.br/wp-content/uploads/2023/11/Lesoes-MPXV.png",
-      "publishedAt": "2023-11-15 05:00:00",
-      "content": "Uma pesquisa conduzida por cientistas do Departamento de Patologia e do Instituto de Medicina Tropical da Faculdade de Medicina da USP (FMUSP) identificou graves consequ\u00c3\u00aancias da infec\u00c3\u00a7\u00c3\u00a3o por MPXV\u2026 [+2378 chars]",
-      "retrievedAt": "2023-11-16 07:05:47.591549",
-      "internal_id": "f48ae9cbe1eb18985adb75725362889987868495974c9f396a97adffddca6ad0",
-      "publishedAtLabel": "Nov 15"
-    },
-    {
-      "id": 3143,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TIMESOFINDIA.COM",
-      "title": "Former Maharashtra minister Jayant Patil diagnosed with dengue",
-      "description": "Former Maharashtra minister and NCP leader, Jayant Patil, has been diagnosed with dengue and has been advised to take rest. Patil took to social media to inform his followers about his condition. Deputy Chief Minister Ajit Pawar also recently tested positive \u2026",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/former-maharashtra-minister-jayant-patil-diagnosed-with-dengue/articleshow/105222969.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105223156,width-1070,height-580,imgsize-24058,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-15 03:53:05",
-      "content": "How to make no-sugar Ragi Almond Cake at home",
-      "retrievedAt": "2023-11-16 07:05:45.213311",
-      "internal_id": "fd76eea40bc7ef2b2d9535002fba309948771bf1b063426a4b05198fff935fc2",
-      "publishedAtLabel": "Nov 15"
-    },
-    {
-      "id": 3140,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Iz.ru",
-      "author": "\u041f\u0430\u0445\u043e\u043c\u043e\u0432 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440",
-      "title": "\u041f\u0435\u0434\u0438\u0430\u0442\u0440 \u043d\u0430\u0437\u0432\u0430\u043b\u0430 \u0442\u0440\u0438 \u0441\u0430\u043c\u044b\u0435 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u043d\u044b\u0435 \u0434\u0435\u0442\u0441\u043a\u0438\u0435 \u0441\u0435\u0437\u043e\u043d\u043d\u044b\u0435 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438",
-      "description": "\u0412\u0440\u0430\u0447-\u043f\u0435\u0434\u0438\u0430\u0442\u0440, \u0434\u0435\u0442\u0441\u043a\u0438\u0439 \u043d\u0435\u0444\u0440\u043e\u043b\u043e\u0433 \u00ab\u0421\u041c-\u041a\u043b\u0438\u043d\u0438\u043a\u0430\u00bb \u0434\u043b\u044f \u0434\u0435\u0442\u0435\u0439, \u043a.\u043c.\u043d. \u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0430 15 \u043d\u043e\u044f\u0431\u0440\u044f \u0432 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u0435 \u0441 \u00ab\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f\u043c\u0438\u00bb \u043d\u0430\u0437\u0432\u0430\u043b\u0430 \u0441\u0430\u043c\u044b\u0435 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u043d\u044b\u0435 \u0441\u0435\u0437\u043e\u043d\u043d\u044b\u0435 \u0434\u0435\u0442\u0441\u043a\u0438\u0435 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438 \u0432 \u044d\u0442\u043e\u043c \u0433\u043e\u0434\u0443.\u041d\u0430 \u043f\u0435\u0440\u0432\u043e\u043c \u043c\u0435\u0441\u0442\u0435 \u043f\u043e \u0447\u0430\u0441\u0442\u043e\u0442\u0435 \u0438 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u043d\u043e\u0441\u0442\u0438, \u043f\u043e \u0435\u0435 \u0441\u043b\u043e\u0432\u0430\u043c, \u0441\u0442\u043e\u0438\u0442 \u043c\u0438\u043a\u043e\u2026",
-      "url": "https://iz.ru/1605197/2023-11-15/pediatr-nazvala-tri-samye-rasprostranennye-detskie-sezonnye-infektcii",
-      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2023-11/RIA_494948.HR__0.jpg?itok=cS0E3FW9",
-      "publishedAt": "2023-11-15 02:00:00",
-      "content": "-, \u00ab-\u00bb , ... 15 \u00ab\u00bb . , , , . - , . \u00ab , ycoplasma pneumoniae - . - . ( , , .), \u00bb, . , , , , . \u00ab Streptococcus pneumoniae (), - . , . , , , , \u00bb, . , Bordetella pertussis. , , . -, , , . \u00ab , . \u2026 [+66 chars]",
-      "retrievedAt": "2023-11-16 07:05:43.875698",
-      "internal_id": "3e5e559b7a8f59703a58107ad47b1b9fde1ad0aa57067b70d9421a9331e236da",
-      "publishedAtLabel": "Nov 15"
-    },
-    {
-      "id": 3144,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Royal Society of Chemistry",
-      "author": "Bhabani Sankar Satapathy, Pralaya Kumar Sahoo, Snigdha Pattnaik, Amit Kumar Nayak, Laxmidhar Maharana, Rudra Narayan Sahoo",
-      "title": "Conveyance of sofosbuvir through vesicular lipid nanocarriers as an effective strategy for management of viral meningitis",
-      "description": "RSC Adv., 2023, 13,33500-33513DOI: 10.1039/D3RA06540E, Paper Open Access &nbsp This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.Bhabani Sankar Satapathy, Pralaya Kumar Sahoo, Snigdha Pattnaik, Amit Kumar Nayak, Laxmidhar Maha\u2026",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra06540e",
-      "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D3RA06540E",
-      "publishedAt": "2023-11-15 00:00:00",
-      "content": "This study aimed to deliver a potential water-soluble antiviral drug (sofosbuvir) through optimized vesicular lipid nanocarriers (LNs) to the rat brain as a novel strategy against viral meningitis. A\u2026 [+1524 chars]",
-      "retrievedAt": "2023-11-16 07:05:45.717909",
-      "internal_id": "558249dfa75b20ccdc20e9523cdd045105990138b2c1c73bae6860c3fd84a1b2",
-      "publishedAtLabel": "Nov 15"
-    },
-    {
-      "id": 3145,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "El Pa\u00eds (Uruguay)",
-      "title": "El esperanzador hallazgo cient\u00edfico sobre las propiedades de la planta medicinal que da origen a la aspirina",
-      "description": "Un estudio impulsado por cient\u00edficos finlandeses descubri\u00f3 un nuevo uso de la corteza de sauce blanco; la sustancia actu\u00f3 sobre el virus que causa resfriados y el Covid-19, as\u00ed como el de la gripe y la meningitis",
-      "url": "https://www.lanacion.com.ar/lifestyle/en-las-redes/el-esperanzador-hallazgo-cientifico-sobre-las-propiedades-de-la-planta-medicinal-que-da-origen-a-la-nid14112023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-extracto-de-corteza-de-JG3KYS2GVZCRJCY6CJSWXECRCM.jpg?auth=1e7457d711750cc03abd3b581129ef860d1a87885ac322b53ac5edada3c00a00&width=768&quality=70&smart=false",
-      "publishedAt": "2023-11-14 20:07:01",
-      "content": "Seg\u00fan una investigaci\u00f3n realizada por cient\u00edficos finlandeses, el extracto de corteza de sauce demostr\u00f3 tener un efecto antiv\u00edrico en experimentos con muestras celulares. El estudio, publicado en la \u2026 [+1749 chars]",
-      "retrievedAt": "2023-11-16 07:05:45.721120",
-      "internal_id": "b6a62c563831302aa661c8bd3a9831fc389a8c08ebda028ee7c99ccab7018f55",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3147,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "iG Sa\u00fade, iG Sa\u00fade",
-      "title": "Estados Unidos aprovam vacina contra chikungunya",
-      "description": "O medicamento \u00e9 o primeiro a ser aprovado no pa\u00eds; a doen\u00e7a \u00e9 transmitida por mosquito, podendo ser debilitante e mortal aos rec\u00e9m-nascidos",
-      "url": "https://saude.ig.com.br/2023-11-14/chikungunya-vacina-eua.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0h/8t/px/0h8tpxwmjwdegegn5t8xle7q2.jpg",
-      "publishedAt": "2023-11-14 19:41:49",
-      "content": "A Food and Drug Administration (FDA), ag\u00eancia respons\u00e1vel pela libera\u00e7\u00e3o de medica\u00e7\u00f5es nos Estados Unidos, aprovou na \u00faltima quinta-feira (9), a primeira vacina contra a doen\u00e7a causada pelo v\u00edrus chi\u2026 [+2263 chars]",
-      "retrievedAt": "2023-11-16 07:05:47.396342",
-      "internal_id": "07bdd947257996d6f03f4b44072db79bc767d6a60410e1ce41772b479afa88c4",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3135,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Teena Thacker",
-      "title": "Three-fold Increase likely in heat-related deaths by mid-century: Lancet",
-      "description": "New projections reveal that heat-related deaths are projected to increase 370% if the rise in temperature reaches 2 degrees Celsius by mid-century. As per the report, dengue illness is projected to increase by up to 37%. Health-related labour loss is projecte\u2026",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/three-fold-increase-likely-in-heat-related-deaths-by-mid-century-lancet/articleshow/105217067.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-105217077,width-1200,height-630,imgsize-93406,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-11-14 18:41:24",
-      "content": "New Delhi: New global projections reveal the mounting threat to health due to further delayed action on global climate change. According to a report published in The Lancet medical journal, the world\u2026 [+2404 chars]",
-      "retrievedAt": "2023-11-15 19:05:30.077858",
-      "internal_id": "2f07f58c25ae745f9e26a77ce9391d66eb7b9f59636d2a00fa708307f903624f",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3134,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Digi24.ro",
-      "author": "Maria Isopescu",
-      "title": "Schimb\u0103rile climatice au dus la cel mai grav focar de febr\u0103 Dengue din Bangladesh",
-      "description": "Cre\u0219terea temperaturii \u0219i un muson prelungit \u00een Bangladesh, din cauza schimb\u0103rilor climatice, au oferit condi\u021bii ideale de reproducere pentru \u021b\u00e2n\u021barul care r\u0103sp\u00e2nde\u0219te febra Dengue, au spus exper\u021bii. Aceast\u0103 \u021bar\u0103 se confrunt\u0103 acum cu cel mai grav focar avut v\u2026",
-      "url": "https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/schimbarile-climatice-au-dus-la-cel-mai-grav-focar-de-febra-dengue-din-bangladesh-2579645",
-      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjMl/MkYxMSUyRjE0JTJGMTgzOTcxMl8xODM5/NzEyX2Rlbmd1ZS1vdXRicmVhay5qcGcm/dz0xMjAwJmg9NjMwJnpjPTEmaGFzaD04/MmY2MzFjNzc1ZWIwMGVjNWEwOTU3NmQzMTk5ODNjYQ==.thumb.jpg",
-      "publishedAt": "2023-11-14 17:44:55",
-      "content": "Creterea temperaturii i un muson prelungit \u00een Bangladesh, din cauza schimbrilor climatice, au oferit condiii ideale de reproducere pentru \u00e2narul care rsp\u00e2ndete febra Dengue, au spus experii. Aceast a\u2026 [+3299 chars]",
-      "retrievedAt": "2023-11-15 19:05:30.075082",
-      "internal_id": "c1d2d6cd963906df19152d134874a2633743f00328efeb9d9e74bbaceb0aa4e8",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3132,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Leonardo Amaro",
-      "title": "Em meio \u00e0 onda de calor, crescem casos de dengue em S\u00e3o Paulo",
-      "description": "Em dez meses deste ano, n\u00famero de casos de dengue j\u00e1 superou 2022, com mais de 12,7 mil registros; calor pode aumentar prolifera\u00e7\u00e3o do Aedes",
-      "url": "https://www.metropoles.com/sao-paulo/em-meio-a-onda-de-calor-crescem-casos-de-dengue-em-sao-paulo",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/03/23131148/Foto-mosquito-da-dengue-2.jpg",
-      "publishedAt": "2023-11-14 16:26:51",
-      "content": "S\u00e3o Paulo A onda de calor extremo que atinge a capital paulista esta semana levantou um novo alerta de sa\u00fade p\u00fablica. As altas temperaturas, muitas vezes acompanhadas por chuvas, t\u00eam contribu\u00eddo par\u2026 [+1660 chars]",
-      "retrievedAt": "2023-11-15 19:05:30.062041",
-      "internal_id": "92f97cc9d79f4ff4c6a4c6eda2d016a3fbecc98b88e40cf660512f2c685a5395",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3131,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "Vacina da dengue estar\u00e1 dispon\u00edvel no SUS em 2024, aposta farmac\u00eautica",
-      "description": "Imunizante criado pela Takeda est\u00e1 em processo de incorpora\u00e7\u00e3o no sistema p\u00fablico de sa\u00fade. Expectativa \u00e9 que esteja dispon\u00edvel ano que vem",
-      "url": "https://www.metropoles.com/saude/qdenga-vacina-contra-dengue-sus",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/11/14131724/Qdenga.jpg",
-      "publishedAt": "2023-11-14 16:11:57",
-      "content": "A farmac\u00eautica Takeda, criadora da vacina Qdenga, espera que o imunizante contra a dengue esteja dispon\u00edvel no Sistema \u00danico de Sa\u00fade (SUS) ainda janeiro de 2024. A declara\u00e7\u00e3o doi dada por Vivian Kir\u2026 [+6039 chars]",
-      "retrievedAt": "2023-11-15 19:05:30.057856",
-      "internal_id": "4d9ff374e50b8aea74c1cf0dad9f4cad49d20ba848296461158574108d5c05b2",
-      "publishedAtLabel": "Nov 14"
-    },
-    {
-      "id": 3139,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Hanumunthadu, B., Kanji, N., Owino, N., Ferreira Da Silva, C., Robinson, H., White, R., Ferruzzi, P., Nakakana, U., Canals, R., Pollard, A. J., Ramasamy, M., Vacc-iNTS Consortium, Agyapong, Breghi, Crump, Fiorino, Gordon, Jacobs, Kariuki, Malvolti, Mantel, Marchello, Marks, Medaglini, Muthumbi, Msefula, Nyirenda, Onsare, Owusu-Dabo, Pettini, J, Soura, Spadafina, Tack",
-      "title": "Salmonella Vaccine Study in Oxford (SALVO) trial: protocol for an observer-participant blind randomised placebo-controlled trial of the iNTS-GMMA vaccine within a European cohort",
-      "description": "Introduction Invasive non-typhoidal Salmonellosis (iNTS) is mainly caused by Salmonella enterica serovars Typhimurium and Enteritidis and is estimated to result in 77 500 deaths per year, disproportionately affecting children under 5 years of age in sub-Sah\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/11/e072938?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-11-14 15:45:37",
-      "content": "Introduction Non-typhoidal Salmonellae (NTS), such as Salmonella enterica serovars Enteritidis and Typhimurium, most commonly cause a self-limiting gastroenteritis that is indistinguishable from tha\u2026 [+6608 chars]",
-      "retrievedAt": "2023-11-15 19:05:33.035071",
-      "internal_id": "93dc444cd7d2f36fb50f55861c356803f836a1a6a6ac6bab9704aba6be4ee13c",
-      "publishedAtLabel": "Nov 14"
     }
   ]
 }
