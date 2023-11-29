@@ -1,8 +1,137 @@
 {
-  "last_updated": "2023-11-28 19:05",
+  "last_updated": "2023-11-29 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 22,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 3391,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Vitoria Lopes Gomez",
+      "title": "Fungos da Amaz\u00f4nia podem ser usados no combate \u00e0 dengue; entenda",
+      "description": "Descoberta vem em meio a uma tend\u00eancia de aumento de casos no final do ano e de uma poss\u00edvel epidemia de dengue em 2024 O post Fungos da Amaz\u00f4nia podem ser usados no combate \u00e0 dengue; entenda apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/11/28/medicina-e-saude/fungos-da-amazonia-podem-ser-usados-no-combate-a-dengue-entenda/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/11/pexels-pixabay-86722-scaled-e1699618243347.jpg",
+      "publishedAt": "2023-11-28 06:40:00",
+      "content": "Pesquisadores da Universidade Federal do Acre (UFAC) encontraram uma forma de combater o Aedes aegypti, mosquito transmissor de doen\u00c3\u00a7as como a dengue e a zika, usando fungos nativos da Amaz\u00c3\u00b4nia. A \u2026 [+2607 chars]",
+      "retrievedAt": "2023-11-29 07:05:39.911251",
+      "internal_id": "3b9142c241508273b474450c6542dadf49c022146e9b1a865818c1b01aaebdbc",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "dh.be",
+      "author": "Sylvain Anciaux",
+      "title": "Apr\u00e8s le covid, la Cocom continue de traquer les maladies virales \u00e0 Bruxelles, \u201cle mois dernier, \u00e0 Bruxelles, on recensait 20 cas de tuberculose\u201d",
+      "description": "Rencontre avec Adrae Taame, m\u00e9decin inspecteur g\u00e9n\u00e9ral de la Cocom. ...",
+      "url": "https://www.dhnet.be/regions/bruxelles/2023/11/28/apres-le-covid-la-cocom-continue-de-traquer-les-maladies-virales-a-bruxelles-le-mois-dernier-a-bruxelles-on-recensait-20-cas-de-tuberculose-TYXHS3LMABD4FLONARNVYUSPUQ/",
+      "urlToImage": "https://www.dhnet.be/resizer/vMfEM32j5gjJFx7o1l6VBxOTEoc=/1200x630/filters:format(jpeg):focal(2779x1861:2789x1851):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/KSYODHLMNBBMDA7B5YPJPTFVNY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/4PTPFKQGUNF5PJCLQ65ERSZ5NQ.jpg",
+      "publishedAt": "2023-11-28 06:00:00",
+      "content": "Chol\u00e9ra, Rub\u00e9ole, Dengue, Covid ou autres, la liste comprend 38 pathologies mais sactualise r\u00e9guli\u00e8rement. En 2021, on d\u00e9nombrait 592 MDO en r\u00e9gion bruxelloise, pour 955 en 2022 et 981 en cette fin 2\u2026 [+2245 chars]",
+      "retrievedAt": "2023-11-29 07:05:39.930760",
+      "internal_id": "68eedc374e795dd0bb99816302300cbca71ce03a7c9ac2903f46497372aa95cc",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3396,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Vanessa Flores",
+      "title": "Benjam\u00edn Gil es anunciado como nuevo m\u00e1nager de Charros de Jalisco",
+      "description": "A terminar la faena, el \u00b4Matador\u00b4 Benjamin Gil, llegar\u00e1 a Jalisco para poner fin a la malaria que asecha al equipo y que los mantiene en el s\u00f3tano en el que ser\u00e1 su reencuentro con la afici\u00f3n tapat\u00eda, trabajo que se extender\u00e1 por lo que resta del calendario y\u2026",
+      "url": "https://www.milenio.com/deportes/beisbol/benjamin-gil-es-nuevo-manager-de-charros-de-jalisco-en-lmp-oficial",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/11/27/benjamin-gil-manager-charros-jalisco.jpg",
+      "publishedAt": "2023-11-28 00:12:00",
+      "content": "A terminar la faena, el Matador Benjam\u00edn Gil, llegar\u00e1 a Jalisco para poner fin a la malaria que asecha al equipo y que los mantiene en el s\u00f3tano en el que ser\u00e1 su reencuentro con la afici\u00f3n tapat\u00eda, \u2026 [+1880 chars]",
+      "retrievedAt": "2023-11-29 07:05:40.603402",
+      "internal_id": "e7f7a48cb7330d1cf0529f68979c2734dfcbb47ff82c7a3dfdc74c536257c162",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3395,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Maryanne Murray Buechner, UNICEF USA, \n Maryanne Murray Buechner, UNICEF USA\n https://www.forbes.com/sites/unicefusa/people/maryannebuechner/",
+      "title": "First Malaria Vaccines Arrive In Cameroon",
+      "description": "UNICEF is poised to play a key role in preparations for the malaria vaccine rollout in Africa.",
+      "url": "https://www.forbes.com/sites/unicefusa/2023/11/27/first-malaria-vaccines-arrive-in-cameroon/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/656506adb0a7d6b0ae983bb9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-11-27 21:19:58",
+      "content": "UNICEF is poised to play a key role in preparations for the malaria vaccine rollout in Africa, where the preventable mosquito-borne disease kills a child under age 5 every minute. \"We are entering a \u2026 [+4962 chars]",
+      "retrievedAt": "2023-11-29 07:05:40.592626",
+      "internal_id": "3f546361f538d501106f86c0f4ebb89fcc57678dd8e8ae4c0bc873b984d3b0f6",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 3392,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Casos de dengue, zika e chikungunya aumentam com o calor",
+      "description": "Dados do Minist\u00e9rio da Sa\u00fade apontam para aumento de 21% no n\u00famero de casos de dengue este ano no pa\u00eds. Entre as causas, est\u00e3o o forte calor e as chuvas",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2023-11-27/casos-de-dengue--zika-e-chikungunya-aumentam-com-o-calor.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3x/qi/ps/3xqipstliaixt38eteyr6hpe5.jpg",
+      "publishedAt": "2023-11-27 21:10:05",
+      "content": "Os mosquitos s\u00e3o os principais transmissores das arboviroses, incluindo dengue, zika e chikungunya. Para se procriar, esses insetos, como o Aedes aegypti, preferem climas quentes e aproveitam as po\u00e7\u2026 [+3486 chars]",
+      "retrievedAt": "2023-11-29 07:05:39.922247",
+      "internal_id": "5fd44d7054d95326496ac9ba494b75eb7048fbdcbe3ecca92ecbabf9555713a9",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 3390,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Jenise L. Jacques",
+      "title": "Research links climate change to vampire bat expansion and rabies virus spillover",
+      "description": "Vampire bats may soon take up residence in the United States and bring with them an ancient pathogen. \"What we found was that the distribution of vampire bats has moved northward across time due to past climate change, which has corresponded with an increase \u2026",
+      "url": "https://phys.org/news/2023-11-links-climate-vampire-expansion-rabies.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/vampire-bats-make-nort.jpg",
+      "publishedAt": "2023-11-27 21:07:40",
+      "content": "Vampire bats may soon take up residence in the United States and bring with them an ancient pathogen. \"What we found was that the distribution of vampire bats has moved northward across time due to p\u2026 [+5871 chars]",
+      "retrievedAt": "2023-11-29 07:05:39.113972",
+      "internal_id": "64ada5d248c335aff2748ccc67bd63777cf888784b290db1b4b15845fd4915a7",
+      "publishedAtLabel": "Nov 27"
+    },
+    {
+      "id": 3394,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "AFP",
+      "title": "Per\u00fa sufre peor embate por dengue en d\u00e9cadas: 440 muertos",
+      "description": "Las cifras de 2023 superan ampliamente a las de 2022, cuando se report\u00f3 64.000 casos y 86 fallecidos",
+      "url": "https://www.nacion.com/el-mundo/interes-humano/peru-sufre-peor-embate-por-dengue-en-decadas-440/YCD34QQRIFASXGSBXMSCX2NOYY/story/",
+      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
+      "publishedAt": "2023-11-27 20:43:31",
+      "content": "Lima. Una epidemia de dengue, enfermedad transmitida por los mosquitos, caus\u00f3 445 muertos en Per\u00fa desde enero pasado, el peor registro desde que la enfermedad resurgi\u00f3 hace cuatro d\u00e9cadas, inform\u00f3 el\u2026 [+2447 chars]",
+      "retrievedAt": "2023-11-29 07:05:39.934054",
+      "internal_id": "9ea39ce4d18c420b33dab56e5fc258f217d207c6bbbfa6296599549449ddf90e",
+      "publishedAtLabel": "Nov 27"
+    },
     {
       "id": 3378,
       "query": [
@@ -3487,132 +3616,6 @@
       "content": "Measles is staging an alarming comeback across the globe, the World Health Organization and Centers for Disease Control and Prevention warned on Thursday, with cases of the often forgotten killer cli\u2026 [+5601 chars]",
       "retrievedAt": "2023-11-18 19:05:18.781539",
       "internal_id": "4ef4208debeba11fb7fabf4ed82955f4ddb0fbae9d4a95a33d37949ddd3ecb64",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3212,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Andi Firdaus, Raka Adji",
-      "title": "No new diseases from Wolbachia dengue control method: Health official",
-      "description": "There is no potential for the emergence of new diseases from the use of Wolbachia bacteria to control dengue transmission, an official at the Ministry of Health stated on Friday. \"Wolbachia does not cause new diseases ...",
-      "url": "https://en.antaranews.com/news/298953/no-new-diseases-from-wolbachia-dengue-control-method-health-official",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/06/06/antarafoto-kampanye-metode-wolbachia-cegah-dbd-060623-4_1.jpg",
-      "publishedAt": "2023-11-17 12:49:18",
-      "content": "Jakarta (ANTARA) - There is no potential for the emergence of new diseases from the use of Wolbachia bacteria to control dengue transmission, an official at the Ministry of Health stated on Friday.\"W\u2026 [+2653 chars]",
-      "retrievedAt": "2023-11-19 07:05:37.080841",
-      "internal_id": "84546dfd293cf93d2f6aeb1f95d198d79e2c9fd631604f496a6fa310f5f03229",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3204,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Us Strengthens Tanzania Anti-Malaria Laboratory Capacity",
-      "description": "[Daily News] DAR ES SALAAM: THE US through its Agency for International Development (USAID) and the US President's Malaria Initiative, delivered equipment at the Muhimbili College of Health and Allied Sciences.",
-      "url": "https://allafrica.com/stories/202311170433.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-17 12:41:59",
-      "content": "DAR ES SALAAM: THE US through its Agency for International Development (USAID) and the US President's Malaria Initiative, delivered equipment at the Muhimbili College of Health and Allied Sciences. \u2026 [+2155 chars]",
-      "retrievedAt": "2023-11-18 19:05:21.216740",
-      "internal_id": "a66d82557d9f73d6801c4beec65a83563e76b2289dd72c32ff47d19ac6940532",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3211,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Kalbaronline.com",
-      "author": "adminkalbaronline",
-      "title": "Upaya Berantas DBD, Pemkot Pontianak Bagikan Ikan Cupang, Abate hingga Minyak Serai ke Warga",
-      "description": "KalbarOnline, Pontianak \u2013 Sebagai upaya memberantas penyakit Demam Berdarah Dengue (DBD), Wali The post Upaya Berantas DBD, Pemkot Pontianak Bagikan Ikan Cupang, Abate hingga Minyak Serai ke Warga appeared first on KalbarOnline.Com.",
-      "url": "https://www.kalbaronline.com/2023/11/17/upaya-berantas-dbd-pemkot-pontianak-bagikan-ikan-cupang-abate-hingga-minyak-serai-ke-warga/",
-      "urlToImage": "https://www.kalbaronline.com/wp-content/uploads/2023/11/IMG-20231117-WA0016.jpg",
-      "publishedAt": "2023-11-17 12:24:40",
-      "content": "KalbarOnline, Pontianak \u2013 Sebagai upaya memberantas penyakit Demam Berdarah Dengue (DBD), Wali Kota Pontianak, Edi Rusdi Kamtono bersama Dinas Kesehatan Provinsi Kalbar dan Kota Pontianak beserta jaj\u2026 [+4383 chars]",
-      "retrievedAt": "2023-11-19 07:05:37.077374",
-      "internal_id": "fab882a9e5919c7d931e5d7871f2372e955f0d6f398856c0574499265838779f",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3195,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": "CDC",
-      "title": "Global Measles Threat",
-      "description": "Urgent global action is needed to protect children from measles.",
-      "url": "https://www.cdc.gov/globalhealth/measles/index.html",
-      "urlToImage": "https://www.cdc.gov/globalhealth/measles/images/og-global-measles-rubella-fb-1080x1080-1.png?_=96350",
-      "publishedAt": "2023-11-17 12:00:00",
-      "content": "Measles and rubella are vaccine-preventable diseases, yet rubella is the leading cause of vaccine-preventable birth defects, and measles still claimed the lives of 136,000 people (mostly children) wo\u2026 [+15 chars]",
-      "retrievedAt": "2023-11-18 19:05:18.803604",
-      "internal_id": "3407e96f381e28516b14f27c689f78601bd78b2e6c7bde06f226851ac51072be",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3206,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Emergex Vaccines Holding Ltd",
-      "title": "Emergex Signs Contract of \u00a31.79M with the UK Department of Health and Social Care\u2019s UK Vaccine Network (\u201cUKVN\u201d) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus",
-      "description": "ABINGDON, United Kingdom, Nov. 17, 2023 (GLOBE NEWSWIRE) -- Emergex Vaccines Holding Limited (\u2018Emergex\u2019), a clinical-stage biotechnology company addressing major global infectious diseases through the development of 100% synthetic T cell-priming immune set-po\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/11/17/2782493/0/en/Emergex-Signs-Contract-of-1-79M-with-the-UK-Department-of-Health-and-Social-Care-s-UK-Vaccine-Network-UKVN-to-Advance-Its-Novel-Synthetic-T-Cell-Priming-Set-Point-Candidate-Against.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/6acf700c-6d50-44ab-a7ac-8de598c1a9ff",
-      "publishedAt": "2023-11-17 12:00:00",
-      "content": "ABINGDON, United Kingdom, Nov. 17, 2023 (GLOBE NEWSWIRE) -- Emergex Vaccines Holding Limited (Emergex), a clinical-stage biotechnology company addressing major global infectious diseases through the \u2026 [+7395 chars]",
-      "retrievedAt": "2023-11-18 19:05:21.759138",
-      "internal_id": "0d654df24350a935cd69c021178c038ad518f3315b971c4384dbe558a268aae1",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3194,
-      "query": [
-        "measles"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "ABC News",
-      "title": "'Staggering' rise in measles cases last year, health agencies say",
-      "description": "A report from the Wold Health Organization and US Centers for Disease Control and Prevention shows cases jumped by 18 per cent to an estimated 9 million in 2022.",
-      "url": "https://www.abc.net.au/news/2023-11-17/world-health-organization-report-rise-in-measles/103119292",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a413e91c1e7172c20b49c0cfc119f820?impolicy=wcms_crop_resize&cropH=241&cropW=428&xPos=0&yPos=42&width=862&height=485",
-      "publishedAt": "2023-11-17 09:23:08",
-      "content": "There was a \"staggering\" annual rise in measles cases and deaths in 2022, according to a new report from the World Health Organization (WHO) and the US Centers for Disease Control and Prevention (CDC\u2026 [+1996 chars]",
-      "retrievedAt": "2023-11-18 19:05:18.790309",
-      "internal_id": "c5872331d005b9bab96a26c716c6c8dbcd935b00ebe75b32470d2a4260d7e0cb",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3201,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "ed.lepays@cenatrin.bf (Le Pays)",
-      "title": "Burkina Faso: \u00c9pidemie de la dengue - \u00c0 quand l'\u00e9tat d'urgence sanitaire ?",
-      "description": "[Le Pays] Le sort s'acharne-t-il sur la Burkina Faso ? Telle est la question que je ne puis m'emp\u00eacher de me poser. En effet, en 2020, alors que le pays ployait sous le coup des attaques terroristes, vint l'\u00e9pid\u00e9mie du Covid-19 qui a contribu\u00e9 \u00e0 endeuiller de\u2026",
-      "url": "https://fr.allafrica.com/stories/202311170118.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-17 08:25:39",
-      "content": "Le sort s'acharne-t-il sur la Burkina Faso ? Telle est la question que je ne puis m'emp\u00eacher de me poser. En effet, en 2020, alors que le pays ployait sous le coup des attaques terroristes, vint l'\u00e9p\u2026 [+3125 chars]",
-      "retrievedAt": "2023-11-18 19:05:19.685883",
-      "internal_id": "5b376a59715b73a3465f6e4702dc44cf695137acbae7d9afa1e7a47214b6384a",
       "publishedAtLabel": "Nov 17"
     }
   ]
