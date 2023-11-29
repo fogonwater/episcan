@@ -1,8 +1,171 @@
 {
-  "last_updated": "2023-11-29 07:05",
+  "last_updated": "2023-11-29 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 3403,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Geeksaresexy.net",
+      "author": "Geeks are Sexy",
+      "title": "How do viruses get into cells? Their infection tactics determine whether they can jump species or set off a pandemic",
+      "description": "Surface proteins on a virus enable it to attach to and get inside a cell to start replicating. koto_feja/E+ via Getty Images Peter Kasson, University of Virginia COVID-19, flu, mpox, noroviral diarrhea: How do the viruses that cause these diseases actually in\u2026",
+      "url": "https://www.geeksaresexy.net/2023/11/28/how-do-viruses-get-into-cells-their-infection-tactics-determine-whether-they-can-jump-species-or-set-off-a-pandemic/",
+      "urlToImage": "https://images.theconversation.com/files/560185/original/file-20231117-23-zg89fr.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C2309%2C1299&q=45&auto=format&w=754&fit=clip",
+      "publishedAt": "2023-11-28 17:28:47",
+      "content": "Surface proteins on a virus enable it to attach to and get inside a cell to start replicating. koto_feja/E+ via Getty Images Peter Kasson, University of Virginia COVID-19, flu, mpox, noroviral diar\u2026 [+5179 chars]",
+      "retrievedAt": "2023-11-29 19:05:36.982399",
+      "internal_id": "52dac8ad0f0bebdf9f7af66df78b050ccf5025bdc4a17f23ffb2cb68ba8502a8",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3398,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Clare Roth",
+      "title": "Dengue is coming to Europe",
+      "description": "2023 saw the highest number of local, rather than imported, cases of dengue on the European mainland in nearly 80 years.",
+      "url": "https://www.dw.com/en/dengue-is-coming-to-europe/a-67547788",
+      "urlToImage": "https://static.dw.com/image/55241375_6.jpg",
+      "publishedAt": "2023-11-28 16:59:00",
+      "content": "Travel-related cases of dengue, like travel-related cases of malaria, are not uncommon in Europe. People get home from a trip to a hotspot, they come down with dengue, rest for a few days and then ge\u2026 [+6415 chars]",
+      "retrievedAt": "2023-11-29 19:05:34.483471",
+      "internal_id": "0a5f3c1e7ea6d56a3cb725ca09b1aa63aa1853bc3c1dfe48615bac12f3d5340d",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3402,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Peter Dada",
+      "title": "Ondo says residents spend N20bn on malaria annually",
+      "description": "The Ondo State Government has inaugurated the steering committee for World Bank Immunisation Plus and Malaria Progress by Accelerating Coverage and Transforming Services also known as the IMPACT project. The project was said to be part of the efforts to eradi\u2026",
+      "url": "https://punchng.com/ondo-says-residents-spend-n20bn-on-malaria-annually/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/16033820/Rotimi-Akeredolu.jpg",
+      "publishedAt": "2023-11-28 15:55:51",
+      "content": "The Ondo State Government has inaugurated the steering committee for World Bank Immunisation Plus and Malaria Progress by Accelerating Coverage and Transforming Services also known as the IMPACT proj\u2026 [+2892 chars]",
+      "retrievedAt": "2023-11-29 19:05:35.832579",
+      "internal_id": "3a7efc1d7af98582ad29aa4f205fa03c250248db053e68dc755ff1eb96d63a6e",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Andi Firdaus, Raka Adji",
+      "title": "Dengue: Govt spends Rp16 billion on Wolbachia trials",
+      "description": "The Ministry of Health has allocated Rp16 billion (around US$1.03 million) for trials involving the use of mosquitos with Wolbachia to check dengue spread in five cities of Indonesia. \"We are spending around Rp16 billion ...",
+      "url": "https://en.antaranews.com/news/299694/dengue-govt-spends-rp16-billion-on-wolbachia-trials",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/28/Screenshot_20231128_145155_YouTube_3.jpg",
+      "publishedAt": "2023-11-28 15:08:57",
+      "content": "Jakarta (ANTARA) - The Ministry of Health has allocated Rp16 billion (around US$1.03 million) for trials involving the use of mosquitos with Wolbachia to check dengue spread in five cities of Indones\u2026 [+2097 chars]",
+      "retrievedAt": "2023-11-29 19:05:34.535684",
+      "internal_id": "aea494554484472807c862174069773319504cf98f2f39bfc9026f9d1be6b2f1",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3404,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Lars Fischer",
+      "title": "Gro\u00dfer Ausbruch im Kongobecken: Gef\u00e4hrliche Variante des Mpox-Virus droht sich global zu verbreiten",
+      "description": "Bei einem gro\u00dfen Ausbruch der bisher auf Zentralafrika beschr\u00e4nkten Klade I des Mpox-Virus sind fast 5 Prozent der Infizierten gestorben. Und das Virus ist wohl schon in Europa.",
+      "url": "https://www.spektrum.de/news/gefaehrliche-variante-des-mpox-virus-droht-sich-global-zu-verbreiten/2199976",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/iStock-1351455615.jpg",
+      "publishedAt": "2023-11-28 15:00:00",
+      "content": "Sexuelle \u00dcbertragung spielte laut WHO auch eine Rolle bei weiteren Ausbr\u00fcchen in bisher nicht betroffenen Regionen. Besonders in der Provinz South Kivu, wo sich das Virus besorgniserregend schnell ve\u2026 [+2383 chars]",
+      "retrievedAt": "2023-11-29 19:05:36.999378",
+      "internal_id": "b65b3e984a857114568a621edbaf145efb44cbc133b5012cbe806ce85116eeb2",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Dengue irrumpe en Guanacaste con nuevos brotes",
+      "description": "Mayor\u00eda de casos del a\u00f1o se han visto en Lim\u00f3n y zona norte, pero en \u00faltimas cuatro semanas incidencia del dengue ha sido mayor en Guanacaste.",
+      "url": "https://www.nacion.com/ciencia/salud/dengue-irrumpe-en-guanacaste-con-nuevos-brotes/I7EWRTYMSBGUTDQMXBGWIZCWH4/story/",
+      "urlToImage": "https://www.nacion.com/resizer/XqUFisK6fsHgIMNp5x14BSd482c=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/DIQGYZ4B7VFINL72JUC54BH6Z4.jpg",
+      "publishedAt": "2023-11-28 12:06:00",
+      "content": "Adem\u00e1s del considerable aumento de casos registrados este a\u00f1o, el dengue muestra un llamativo cambio de comportamiento durante el \u00faltimo mes. Las autoridades sanitarias han detectado una mayor aparic\u2026 [+4014 chars]",
+      "retrievedAt": "2023-11-29 19:05:34.514041",
+      "internal_id": "142dda73f76530cd9827268b2fc9bc5f01fbf52629dbe3e1e73a5b354e402dc8",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3406,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Sean Muhamad, Raka Adji",
+      "title": "Health Ministry records 36 out of 59 mpox patients recovered",
+      "description": "The Ministry of Health confirmed that the number of mpox cases in Indonesia has reached 59, out of which 36 patients had made a recovery. \"The total is 59 (cases), and 36 have recovered,\" the ministry's Head of ...",
+      "url": "https://en.antaranews.com/news/299652/health-ministry-records-36-out-of-59-mpox-patients-recovered",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/28/IMG_20231128_140828.jpg",
+      "publishedAt": "2023-11-28 08:47:51",
+      "content": "Jakarta (ANTARA) - The Ministry of Health confirmed that the number of mpox cases in Indonesia has reached 59, out of which 36 patients had made a recovery.\"The total is 59 (cases), and 36 have recov\u2026 [+1779 chars]",
+      "retrievedAt": "2023-11-29 19:05:37.020865",
+      "internal_id": "17ab95a30926df95ea01e6235f9f2b16959520e624c3a9cce4418746baf489de",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3397,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Landon Mion",
+      "title": "Florida woman allegedly stabs boyfriend in eye with rabies needles for looking at other women",
+      "description": "A Florida woman was arrested after allegedly stabbing her boyfriend with her dogs' rabies needles during an argument accusing him of looking at other women.",
+      "url": "https://www.foxnews.com/us/florida-woman-allegedly-stabs-boyfriend-eye-rabies-needles-looking-other-women",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/Sandra-Jimenez.png",
+      "publishedAt": "2023-11-28 08:22:39",
+      "content": "A Florida woman is behind bars after she allegedly stabbed her boyfriend with rabies needles because he was looking at other women. Sandra Jimenez, 44, was charged with aggravated battery in connect\u2026 [+1281 chars]",
+      "retrievedAt": "2023-11-29 19:05:33.269683",
+      "internal_id": "90ad57b0153b0418e1aa0e1f9611074ea107836384638c9e504d36fc4f92d6e3",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3399,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Sylvain Anciaux",
+      "title": "Apr\u00e8s le covid, la Cocom continue de traquer les maladies virales \u00e0 Bruxelles: \"Le mois dernier, \u00e0 Bruxelles, on recensait 20 cas de tuberculose\"",
+      "description": "Rencontre avec Adrae Taame, m\u00e9decin inspecteur g\u00e9n\u00e9ral de la Cocom. ...",
+      "url": "https://www.lalibre.be/planete/sante/2023/11/28/apres-le-covid-la-cocom-continue-de-traquer-les-maladies-virales-a-bruxelles-le-mois-dernier-a-bruxelles-on-recensait-20-cas-de-tuberculose-RU5M3G7D4JEWZM7HMD55FDXQVQ/",
+      "urlToImage": "https://www.lalibre.be/resizer/bq60wHPg1zozYZs1KOlARVRjtiI=/1200x630/filters:format(jpeg):focal(2779x1861:2789x1851):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/OIO44DUUUNC2DB5T3FIJECBT5U.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/4PTPFKQGUNF5PJCLQ65ERSZ5NQ.jpg",
+      "publishedAt": "2023-11-28 07:06:38",
+      "content": "Chol\u00e9ra, Rub\u00e9ole, Dengue, Covid ou autres, la liste comprend 38 pathologies mais sactualise r\u00e9guli\u00e8rement. En 2021, on d\u00e9nombrait 592 MDO en r\u00e9gion bruxelloise, pour 955 en 2022 et 981 en cette fin 2\u2026 [+2059 chars]",
+      "retrievedAt": "2023-11-29 19:05:34.494437",
+      "internal_id": "38ca68485076fbe2b58dc8247a32741e3fd8b58105307a911e1fd2fc520aca93",
+      "publishedAtLabel": "Nov 28"
+    },
     {
       "id": 3391,
       "query": [
@@ -38,6 +201,24 @@
       "content": "Chol\u00e9ra, Rub\u00e9ole, Dengue, Covid ou autres, la liste comprend 38 pathologies mais sactualise r\u00e9guli\u00e8rement. En 2021, on d\u00e9nombrait 592 MDO en r\u00e9gion bruxelloise, pour 955 en 2022 et 981 en cette fin 2\u2026 [+2245 chars]",
       "retrievedAt": "2023-11-29 07:05:39.930760",
       "internal_id": "68eedc374e795dd0bb99816302300cbca71ce03a7c9ac2903f46497372aa95cc",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3405,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Clade I\u2013Associated Mpox Cases Associated with Sexual Contact, the Democratic Republic of the Congo",
+      "description": "Clade I Mpox, Democratic Republic of the Congo",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/1/23-1164_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-11-28 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Human mpox, caused by monk\u2026 [+10976 chars]",
+      "retrievedAt": "2023-11-29 19:05:37.003720",
+      "internal_id": "324bab07a962513f934e41730a261769c0b4c264e2f27ad96e1474b0bbb995d4",
       "publishedAtLabel": "Nov 28"
     },
     {
@@ -3436,186 +3617,6 @@
       "content": "The deadliest animal on the planet could be destroyed by a simple household product, scientists say. Mosquitoes kill more people that any other animal in the world by spreading diseases like malaria\u2026 [+3287 chars]",
       "retrievedAt": "2023-11-18 19:05:21.202170",
       "internal_id": "8687ba1d2dd6794a1f926c986ad3792d7a932d1cf31381463a5006053613eb83",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3198,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarm",
-      "description": "From 2021 to 2022, measles deaths increased 43 percent.",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172259123",
-      "urlToImage": null,
-      "publishedAt": "2023-11-17 18:56:32",
-      "content": "A large number of installed systems work by fiat. That is, they work by being declared to work. -- Anatol Holt",
-      "retrievedAt": "2023-11-18 19:05:18.818617",
-      "internal_id": "2ee722cae2dcf6dd70f24384f82c28a170ddc76e95f9853ad8dbdc7dccb7ea31",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3199,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "1news.co.nz",
-      "author": "Anna Murray",
-      "title": "The cost of measles: Why NZers should care about vaccination rates",
-      "description": "The global measles threat is growing, according to the World Health Organization \u2013 and NZ is not immune to that danger.",
-      "url": "https://www.1news.co.nz/2023/11/18/the-cost-of-measles-why-nzers-should-care-about-vaccination-rates/",
-      "urlToImage": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/UWUNW5N67BDBHK5XLNYSU6MCIA.jpg?auth=09b85a9c409ca9bd84d7cc6e5ccc50a0384e68a41f33197dcedb548e8a9daa9e&width=600&height=315&focal=638,299",
-      "publishedAt": "2023-11-17 18:40:12",
-      "content": "The global measles threat is growing, according to the World Health Organization and New Zealand is not immune to that danger, writes Anna Murray. Its been four years since Samoas devastating measle\u2026 [+6252 chars]",
-      "retrievedAt": "2023-11-18 19:05:18.823594",
-      "internal_id": "f7538bea028fd518235ceaf530d9bd154d16905955ec253ce1773886582fa354",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3189,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WMUR Manchester",
-      "author": "Kirk Enstrom",
-      "title": "Rabies confirmed in stray kittens in found in North Conway NH",
-      "description": "Two stray kittens found this month in North Conway were found to have rabies, and New Hampshire health officials are trying to locate anyone who had contact with them.",
-      "url": "https://www.wmur.com/article/rabies-stray-kittens-north-conway-new-hampshire/45876502",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wmur/32717010-32717010.jpg?crop=1.00xw:0.433xh;0,0&resize=1200:*",
-      "publishedAt": "2023-11-17 18:34:48",
-      "content": "CONCORD, N.H. \u2014Two stray kittens found this month in North Conway were found to have rabies, and New Hampshire health officials are trying to locate anyone who had contact with them. The Department \u2026 [+1815 chars]",
-      "retrievedAt": "2023-11-18 19:05:17.761593",
-      "internal_id": "1675b71ca0c0029941d071f6dfd1a606dd7a0bc2c14d471a9acd8d57ef7ea863",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3197,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarm - Ars Technica",
-      "description": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarmArs Technica Measles deaths worldwide jumped 40% last year, health agencies sayMedical Xpress 'Staggering' rise in measles cases last year, says WHO and CDCYahoo News Global measles thr\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172258951",
-      "urlToImage": null,
-      "publishedAt": "2023-11-17 18:32:05",
-      "content": "A large number of installed systems work by fiat. That is, they work by being declared to work. -- Anatol Holt",
-      "retrievedAt": "2023-11-18 19:05:18.811662",
-      "internal_id": "7dda0e9ef901934d13b68672d862facf2aeb4f5ea4aac967432b7f23f9a0d4d9",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3190,
-      "query": [
-        "measles"
-      ],
-      "source_id": "ars-technica",
-      "source_name": "Ars Technica",
-      "author": "Beth Mole",
-      "title": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarm",
-      "description": "From 2021 to 2022, measles deaths increased 43 percent.",
-      "url": "https://arstechnica.com/health/2023/11/global-measles-cases-deaths-rising-as-vaccination-still-low-after-covid-crash/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/measles-760x380.jpg",
-      "publishedAt": "2023-11-17 17:29:57",
-      "content": "Enlarge/ A baby with measles. 25 with The World Health Organization and the US Centers for Disease Control and Prevention are sounding the alarm over the global rise of measles cases, deaths, and\u2026 [+3245 chars]",
-      "retrievedAt": "2023-11-18 19:05:18.772437",
-      "internal_id": "8bb70b009d9381d83b5e3c9df9199a5462d6274607641d8bb193df064b7de7f7",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3207,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "New Zealand Herald",
-      "author": "Ilona Hanne",
-      "title": "Stratford A&P Show: Wellness a focus at this year\u2019s show with leptospirosis testing",
-      "description": "A focus is leptospirosis testing. The disease can cause long-term fatigue.",
-      "url": "https://www.nzherald.co.nz/stratford-press/news/stratford-ap-show-wellness-a-focus-at-this-years-show-with-leptospirosis-testing/TAQC2B32W5F4VJDWK6PPJBH6YM/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/AV7PnI2itOjPCjDCA6fuJZkEiAs=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/UBM3K6WJBVEGBDXXZBR7DK6QHU.jpg",
-      "publishedAt": "2023-11-17 17:00:00",
-      "content": "Testing for leptospirosis is on offer at the wellness area at the Stratford A&amp;P Show. Photo / Getty ImagesThis years Stratford A&amp;P Show will feature a dedicated area for farmer wellbeing. Th\u2026 [+2177 chars]",
-      "retrievedAt": "2023-11-18 19:05:23.160290",
-      "internal_id": "08df62561bfe6b3ba1a6d25f1eeb8a3420fe68bffa1cacffd61b5268e7c725a0",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3196,
-      "query": [
-        "measles"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "Lenin Ndebele",
-      "title": "News24 | About 75% of global measles cases in 2022 were in Africa",
-      "description": "About 75% of global measles cases in 2022 were in Africa during a year in which there was an 18% increase in the number of global cases and 48% of fatalities compared to 2021, the World Health Organisation (WHO) said.",
-      "url": "https://www.news24.com/news24/africa/news/about-75-of-global-measles-cases-in-2022-were-in-africa-20231117",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/4997/aa42072cb7234c7e965d2d80d7f17492.png",
-      "publishedAt": "2023-11-17 16:55:42",
-      "content": "About 6.75 million measles cases were recorded in Africa in 2022, an 18% increase from 2021. Covid-19 disrupted measles vaccination programmes, resulting in about 33 million children\u2026 [+3368 chars]",
-      "retrievedAt": "2023-11-18 19:05:18.806233",
-      "internal_id": "7306cd95bcac7dcae9cf439c0b9d6ff30399764692cef97cce4c3ba80327294e",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3200,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-repubblica",
-      "source_name": "La Repubblica",
-      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
-      "title": "Muore per la dengue dopo un viaggio in Thailandia, disinfestazione contro le zanzare a Fucecchio e San Miniato",
-      "description": "In Toscana nel 2023 sono stati registrati 14 casi",
-      "url": "https://firenze.repubblica.it/cronaca/2023/11/17/news/pisa_muore_per_la_dengue_dopo_un_viaggio_in_thailandia_disinfestazione_san_miniato_fucecchio-420593624/",
-      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-firenze/2023/11/17/164316871-47a60b60-f857-4332-8ded-a1dd34078b9d.jpg",
-      "publishedAt": "2023-11-17 15:43:19",
-      "content": "2016 Getty Images In Toscana nel 2023 sono stati registrati 14 casi",
-      "retrievedAt": "2023-11-18 19:05:19.680117",
-      "internal_id": "33b3df0e1f4a54ad92f591f550bf5917951529ba3a61c5ed1ac2d1c068e612ce",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3205,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Fred A. Ashu, Caroline Fouet, Marilene M. Ambadiang, V\u00e9ronique Penlap-Beng, Colince Kamdem",
-      "title": "Vegetable oil-based surfactants are adjuvants that enhance the efficacy of neonicotinoid insecticides and can bias susceptibility testing in adult mosquitoes",
-      "description": "Author summary Monitoring the susceptibility of insect populations to chemical insecticides provides vital information for resistance management. New chemicals are being tested and added to the arsenal used for malaria prevention. As a result, the World Healt\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011737",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011737.g003&size=inline",
-      "publishedAt": "2023-11-17 14:00:00",
-      "content": "Abstract Background The standard operating procedure for testing the susceptibility of adult mosquitoes to neonicotinoid or butenolide insecticides recommends using a vegetable oil ester (Mero) as \u2026 [+45639 chars]",
-      "retrievedAt": "2023-11-18 19:05:21.223531",
-      "internal_id": "76709e06a6ae93bfce653ede185089eac11a2e5becd72e756378aa0dd88c3c3a",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3192,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
-      "title": "Measles Stages \u2018Staggering\u2019 Comeback As Vaccination Drops \u2014 Here\u2019s What To Know About The Returning Killer",
-      "description": "Measles can kill and is so contagious that almost everyone who is exposed to an infectious person will catch it if not vaccinated.",
-      "url": "https://www.forbes.com/sites/roberthart/2023/11/17/measles-stages-staggering-comeback-as-vaccination-drops---heres-what-to-know-about-the-returning-killer/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6557681b534af006dc3ccb03/0x0.jpg?format=jpg&crop=2465,1386,x0,y125,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-17 13:22:54",
-      "content": "Measles is staging an alarming comeback across the globe, the World Health Organization and Centers for Disease Control and Prevention warned on Thursday, with cases of the often forgotten killer cli\u2026 [+5601 chars]",
-      "retrievedAt": "2023-11-18 19:05:18.781539",
-      "internal_id": "4ef4208debeba11fb7fabf4ed82955f4ddb0fbae9d4a95a33d37949ddd3ecb64",
       "publishedAtLabel": "Nov 17"
     }
   ]
