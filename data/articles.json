@@ -1,8 +1,188 @@
 {
-  "last_updated": "2023-11-29 19:05",
+  "last_updated": "2023-11-30 07:06",
   "count_articles_total": 300,
   "count_articles_new": 10,
   "articles": [
+    {
+      "id": 3408,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "US Woman Stabs Boyfriend In Eye For Looking At Other Women: Police",
+      "description": "A Florida man had brought two rabies shots for the dogs, but the needles ended up in his eyes after an argument with his girlfriend. Police have charged Sandra Jimenez for assaulting her boyfriend with the rabies needles.",
+      "url": "https://www.ndtv.com/world-news/us-woman-stabs-boyfriend-in-eye-for-looking-at-other-women-police-4616327",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/37sk79s4_sandra-jimenez_625x300_29_November_23.jpg",
+      "publishedAt": "2023-11-29 05:17:59",
+      "content": "Sandra Jimenez has not pleaded guilty and claimed that the injuries were self-inflicted. New Delhi: A Florida man had brought two rabies shots for the dogs, but the needles ended up in his eyes afte\u2026 [+884 chars]",
+      "retrievedAt": "2023-11-30 07:05:57.626089",
+      "internal_id": "f15501679198ebf391ca4bd098f8987eb865c4996e6512f9004913144bcd727d",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3416,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Muhammad Yusry",
+      "title": "Deputy health minister: Nine monkeypox cases detected in Malaysia since July this year",
+      "description": "KUALA LUMPUR, Nov 29 \u2014 Deputy Health Minister Datuk Lukanisman Awang Sauni today said that a total of nine monkeypox (mpox) cases were detected in Malaysia. The virus was...",
+      "url": "https://www.malaymail.com/news/malaysia/2023/11/29/deputy-health-minister-nine-monkeypox-cases-detected-in-malaysia-since-july-this-year/104818",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2023/11/29/thumbs/400x400/167541.jpg",
+      "publishedAt": "2023-11-29 04:44:12",
+      "content": "KUALA LUMPUR, Nov 29 Deputy Health Minister Datuk Lukanisman Awang Sauni today said that a total of nine monkeypox (mpox) cases were detected in Malaysia. The virus was detected in three states with\u2026 [+2013 chars]",
+      "retrievedAt": "2023-11-30 07:06:01.612130",
+      "internal_id": "a3f8b0e2783ccc028eeca2ba46082edb9f267289bb810eb12a89b1e72ba6be0f",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3410,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "AHS confirms case of measles in Alberta, prompts public alert",
+      "description": "Alberta Health Services (AHS) has confirmed that a person with lab-confirmed measles was in public settings in Calgary while infectious, prompting an alert to those who may have been exposed.",
+      "url": "https://www.cbc.ca/news/canada/calgary/measles-alberta-ahs-public-exposure-1.7043151",
+      "urlToImage": "https://i.cbc.ca/1.5343123.1701232093!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2023-11-29 04:42:51",
+      "content": "Alberta Health Services (AHS) has confirmed that a person with lab-confirmed measles was in public settings in Calgary while infectious, prompting an alert to those who may have been exposed. In an\u2026 [+1736 chars]",
+      "retrievedAt": "2023-11-30 07:05:57.884861",
+      "internal_id": "e6e43d35e52617b79b36edbe5d5699076d6b9d375e732b2c30d7eeb42e77248f",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue, monkeypox in the spotlight at Dewan Rakyat today",
+      "description": "KUALA LUMPUR: Measures to curb the increasing number of dengue cases and the prevention of monkeypox are among the highlights in the Dewan Rakyat sitting Wednesday (Nov 29). Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/11/29/dengue-monkeypox-in-the-spotlight-at-dewan-rakyat-today",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/11/29/2412821.jpg",
+      "publishedAt": "2023-11-29 01:33:00",
+      "content": "KUALA LUMPUR: Measures to curb the increasing number of dengue cases and the prevention of monkeypox are among the highlights in the Dewan Rakyat sitting Wednesday (Nov 29). According to the Order P\u2026 [+962 chars]",
+      "retrievedAt": "2023-11-30 07:05:58.784298",
+      "internal_id": "a7ece1c0acb69b5ec3fce1a85dd77e01c15cdbac92505b6a2b38ecf2917089ec",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3411,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "N\u00famero de casos de dengue em Cabo Verde sobe para 32",
+      "description": "O n\u00famero de casos de dengue em Cabo Verde subiu para 32 e h\u00e1 139 casos suspeitos, anunciou a diretora nacional da Sa\u00fade, \u00c2ngela Gomes. O pa\u00eds anunciou ressurgimento da infe\u00e7\u00e3o h\u00e1 20 dias.",
+      "url": "https://observador.pt/2023/11/29/numero-de-casos-de-dengue-em-cabo-verde-sobe-para-32/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A108%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F11%2F08183705%2F41642408.jpg",
+      "publishedAt": "2023-11-29 00:25:21",
+      "content": "O n\u00famero de casos de dengue em Cabo Verde subiu para 32 e h\u00e1 139 casos suspeitos, anunciou esta ter\u00e7a-feira a diretora nacional da Sa\u00fade, \u00c2ngela Gomes, depois de o pa\u00eds ter anunciado o ressurgimento \u2026 [+760 chars]",
+      "retrievedAt": "2023-11-30 07:05:58.755345",
+      "internal_id": "f75055d4993a6324307d17dada211f287c08e87134ce0815f2a9b3d371dae9d8",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3413,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "MAYRA MEJ\u00cdA AGUILAR",
+      "title": "Hoy finaliz\u00f3 con \u00e9xito el foro \u201cDengue en Colombia\u201d",
+      "description": "El foro \u201cDengue en Colombia: retos y oportunidades en inmunoprevenci\u00f3n\u201d, tuvo lugar hoy (martes 28 de noviembre) de 10:00 a.m. a 4:00 p.m., en Cartagena.",
+      "url": "https://www.eluniversal.com.co/cartagena/hoy-finalizo-con-exito-el-foro-dengue-en-colombia-YF9531881",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/915x686/115c0/800d686/none/13704/YAFJ/foro-dengue-en-colombia_9031219_20231128175600.jpg",
+      "publishedAt": "2023-11-28 23:01:25",
+      "content": "El foro Dengue en Colombia: retos y oportunidades en inmunoprevenci\u00f3n, tuvo lugar hoy (martes 28 de noviembre) de 10:00 a.m. a 4:00 p.m., en Cartagena. El foro cont\u00f3 con la participaci\u00f3n de l\u00edderes \u2026 [+1544 chars]",
+      "retrievedAt": "2023-11-30 07:05:58.792179",
+      "internal_id": "c69101a04510e00dceb2690c194e97747ac228314b0cad255f0d48d74a52e6e2",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3409,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "Pocharapon Neammanee",
+      "title": "Florida Woman Allegedly Stabs Boyfriend In Eye With 'Rabies Needle'",
+      "description": "The incident came amid an argument over the boyfriend looking at other women, according to police.",
+      "url": "https://www.huffpost.com/entry/florida-woman-allegedly-stabs-boyfriend-in-eye-with-rabies-needle_n_65664695e4b066e398b57fdc",
+      "urlToImage": "https://img.huffingtonpost.com/asset/65665603220000401518ee16.png?ops=1200_630",
+      "publishedAt": "2023-11-28 22:45:31",
+      "content": "A Florida woman was arrested Saturday after she stabbed her long-term boyfriend in the eye with a rabies needle meant for their dogs, Miami-Dade County police said. Sandra Jimenez, 44, was taken int\u2026 [+3610 chars]",
+      "retrievedAt": "2023-11-30 07:05:57.630102",
+      "internal_id": "67a320efff51a9de90c316253dbcf4f6241a7b5a7c8bd1509202791524bc26cc",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3415,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Jorge Ben\u00edtez",
+      "title": "Bjorn Lomborg: \"La gente de los pa\u00edses pobres prefiere curar la malaria a tener paneles solares\"",
+      "description": "Este acad\u00e9mico y activista medioambiental dan\u00e9s, famoso por sus pol\u00e9micas opiniones sobre el cambio clim\u00e1tico, propone soluciones \"m\u00e1s efectivas\" a los grandes problemas mundiales Leer",
+      "url": "https://www.elmundo.es/papel/el-mundo-que-viene/2023/11/28/6560ce29e9cf4a93248b457e.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/1335f3d7bc9ac89c7f60de2b59e37399/resize/1200/f/webp/assets/multimedia/imagenes/2023/11/24/17008476913889.jpg",
+      "publishedAt": "2023-11-28 21:41:19",
+      "content": "Actualizado Martes, 28 noviembre 2023 - 22:41 El despacho de Bjorn Lomborg (Frederiksberg, Dinamarca, 1965) parece un jard\u00edn del Ed\u00e9n dise\u00f1ado para impresionar a su interlocutor. \"Me encantan l\u2026 [+228 chars]",
+      "retrievedAt": "2023-11-30 07:06:00.111172",
+      "internal_id": "f0fe377bf641f5ce7f248ec826bc624a107c5ccd1368a145f00551330ff9fe15",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3407,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Caller",
+      "author": "Ilan Hulkower",
+      "title": "Woman Allegedly Stabs Boyfriend In Eye With \u2018Rabies Needles\u2019",
+      "description": "Police arrested 44-year-old Sandra Jimenez on Saturday after she allegedly stabbed her boyfriend in the eye, WPLG reported.",
+      "url": "https://dailycaller.com/2023/11/28/woman-stabs-boyfriend-eye-rabies-needles/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/11/GettyImages-1241439499-scaled-e1701202806119.jpg",
+      "publishedAt": "2023-11-28 21:27:53",
+      "content": "Police arrested 44-year-old Sandra Jimenez on Saturday after she allegedly stabbed her boyfriend in the eye, WPLG reported. Miami police said Jimenez allegedly stabbed her boyfriend with \u201ctwo rabies\u2026 [+1195 chars]",
+      "retrievedAt": "2023-11-30 07:05:57.611598",
+      "internal_id": "f06a9f2cdfaf6db2ace2982177c846939dd91a393f193f15dd6f367999000b75",
+      "publishedAtLabel": "Nov 28"
+    },
+    {
+      "id": 3414,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N COLOMBIA",
+      "title": "Revelan origen de agente infeccioso que caus\u00f3 la muerte de ni\u00f1a en Santa Marta",
+      "description": "En una reciente investigaci\u00f3n, el Instituto Nacional de Salud (INS) ha revelado detalles sobre el agente infeccioso que caus\u00f3 la muerte de una ni\u00f1a de 10 a\u00f1os en Santa Marta. La menor contrajo una rara forma de meningitis mientras disfrutaba de sus vacaciones\u2026",
+      "url": "https://www.eluniversal.com.co/colombia/revelan-origen-de-agente-infeccioso-que-causo-la-muerte-de-nina-en-santa-marta-BD9533740",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/GXKC/virus-nina-sm_9033379_20231128142642.jpg",
+      "publishedAt": "2023-11-28 19:19:10",
+      "content": "En una reciente investigaci\u00f3n, el Instituto Nacional de Salud (INS) ha revelado detalles sobre el agente infeccioso que caus\u00f3 la muerte de una ni\u00f1a de 10 a\u00f1os en Santa Marta. La menor contrajo una ra\u2026 [+2064 chars]",
+      "retrievedAt": "2023-11-30 07:05:59.207075",
+      "internal_id": "95e005726aa1756326a03e16074fd76268e93d748c8b1c0ef269beffb9930951",
+      "publishedAtLabel": "Nov 28"
+    },
     {
       "id": 3403,
       "query": [
@@ -3438,186 +3618,6 @@
       "retrievedAt": "2023-11-19 19:05:16.086772",
       "internal_id": "fbbd4018d61df7cde487ea7b9389636db08b93749d1a55e8664481920d2ab979",
       "publishedAtLabel": "Nov 18"
-    },
-    {
-      "id": 3217,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Reports claiming 11 lakh children missed first measles vaccine in 2022 'inaccurate': Health ministry",
-      "description": "Health Ministry has denied reports claiming that an estimated 11 lakh children in India missed their first measles vaccine dose in 2022. The ministry added that the catch-up vaccination age for the administration of MCV has been increased from two years to fi\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/reports-claiming-11-lakh-children-missed-first-measles-vaccine-in-2022-inaccurate-health-ministry/articleshow/105312022.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-105312052,width-1200,height-630,imgsize-7334,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-11-18 09:41:41",
-      "content": "Media reports claiming that an estimated 11 lakh children in India missed their first measles vaccine dose in 2022 are \"ill-informed and inaccurate,\" the Union Ministry of Health Family Welfare said \u2026 [+2103 chars]",
-      "retrievedAt": "2023-11-19 19:05:16.121225",
-      "internal_id": "2cb6131debfe4c265c963c21835a45c9e34323786e40f0499c7f905dfc3fcd71",
-      "publishedAtLabel": "Nov 18"
-    },
-    {
-      "id": 3215,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Iasbaba.com",
-      "author": "IASbaba",
-      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 17th November 2023",
-      "description": "Archives (PRELIMS & MAINS Focus) Practice MCQs ANSWERS FOR 16th November \u2013 Daily Practice MCQs The post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 17th November 2023 appeared first on IASbaba.",
-      "url": "https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-17th-november-2023/",
-      "urlToImage": null,
-      "publishedAt": "2023-11-18 05:49:18",
-      "content": "Q1) Consider the following pairs: DiseaseCaused byPlagueYersinia pestisChickenpoxVaricella-zoster virus.<t\u2026 [+1381 chars]",
-      "retrievedAt": "2023-11-19 07:05:39.597705",
-      "internal_id": "e06166cfeb297859af05d3ccd35d28bffa5ff54833af3d59f18f9511153c3306",
-      "publishedAtLabel": "Nov 18"
-    },
-    {
-      "id": 3210,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Boston 25 News",
-      "author": "Bryan Lambert",
-      "title": "NH Health officials looking to identify those who came into contact with rabies-infected kittens",
-      "description": "The New Hampshire Department of Health is asking people who may have come into contact with a pair of kittens in North Conway to take precautions after the felines tested positive for rabies.",
-      "url": "https://www.boston25news.com/news/local/nh-health-officials-looking-identify-those-who-came-into-contact-with-rabies-infected-kittens/OV2JCW2DRBDOBDMYIBASTCCSXM/",
-      "urlToImage": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/gEgMjhDs66UNO8oWNFIWgPDzPL0=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/YPMX5TX5QVGJJLZSDGUPWR7NGQ.jpg",
-      "publishedAt": "2023-11-18 01:53:22",
-      "content": "NORTH CONWAY, NH \u2014 The New Hampshire Department of Health is asking people who may have come into contact with a pair of kittens in North Conway to take precautions after the felines tested positive \u2026 [+1526 chars]",
-      "retrievedAt": "2023-11-19 07:05:36.169212",
-      "internal_id": "d54bfd2ea00ac58be43e875f3aa0bb383c50db294e497bda39abdc23af359ac9",
-      "publishedAtLabel": "Nov 18"
-    },
-    {
-      "id": 3209,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "WKRC TV Cincinnati",
-      "author": "Wkrc",
-      "title": "Warren County health officials warn of sudden spike in whooping cough cases",
-      "description": "Warren County health officials warn of sudden spike in whooping cough caseslocal12.com",
-      "url": "https://local12.com/news/local/warren-county-health-officials-whooping-cough-cases-rise-sudden-spike-pertussis-disease-infection-rate-contagious-babies-infants-sickness-vaccine-cincinnati-ohio",
-      "urlToImage": "https://local12.com/resources/media/503952d6-a5c4-404a-90c5-fd68dfabc2f1-large16x9_wc5.png",
-      "publishedAt": "2023-11-17 23:56:06",
-      "content": "WARREN COUNTY, Ohio (WKRC) - There's been a rise in whooping cough cases in Warren County. So far in 2023, there have been 15 cases of whooping cough, or pertussis, in the county. Health officials \u2026 [+219 chars]",
-      "retrievedAt": "2023-11-19 07:05:35.766282",
-      "internal_id": "c68f20242d2b1a6730f2f5b92e421a6fea7e24efb0ce8ac778ac0fe0ba4b9082",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3214,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "In the fight against malaria-carrying mosquitoes, just add soap",
-      "description": "",
-      "url": "https://www.sciencedaily.com/releases/2023/11/231117181013.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-11-17 23:10:13",
-      "content": "Could the solution to the decades-long battle against malaria be as simple as soap? In a new study published in PLOS Neglected Tropical Diseases, scientists at The University of Texas at El Paso have\u2026 [+3481 chars]",
-      "retrievedAt": "2023-11-19 07:05:38.025530",
-      "internal_id": "71fb035fca533f44ddd3bdcd396504081cb6d081ed2658feb170b12761fc47d2",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3213,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Gudrun Heise",
-      "title": "Antibiotic resistance in children on the rise",
-      "description": "Antibiotics are the preferred treatment for children, but they are becoming increasingly ineffective. How dangerous is antibiotic resistance in children?",
-      "url": "https://www.dw.com/en/antibiotic-resistance-in-children-on-the-rise/a-67411523",
-      "urlToImage": "https://static.dw.com/image/65371958_6.jpg",
-      "publishedAt": "2023-11-17 21:16:00",
-      "content": "When children suffer from ear infections, sepsis or meningitis brought on by a bacterial infection, they are frequently prescribed antibiotics. But a recent study by the University of Sydney found \u2026 [+3514 chars]",
-      "retrievedAt": "2023-11-19 07:05:37.456784",
-      "internal_id": "ba5518b1b94000f4af3434d599e48747660b123378929bb76a5440abfa1a2574",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3208,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "WDTN.com",
-      "author": "Emily Lewis",
-      "title": "100 whooping cough cases reported in Montgomery County in 2023",
-      "description": "Pertussis, also known as whooping cough, is a growing concern in Montgomery County.",
-      "url": "https://www.wdtn.com/community/health/100-whooping-cough-cases-reported-in-montgomery-county-in-2023/",
-      "urlToImage": "https://www.wdtn.com/wp-content/uploads/sites/45/2023/08/doctor-health-care-medical-generic_30921367_ver1.0-1.jpg?w=1280",
-      "publishedAt": "2023-11-17 19:25:57",
-      "content": "DAYTON, Ohio (WDTN) \u2014 Pertussis, also known as whooping cough, is a growing concern in Montgomery County. Health officials are once again warning the community of the rising number of pertussis cas\u2026 [+1638 chars]",
-      "retrievedAt": "2023-11-19 07:05:35.755498",
-      "internal_id": "5f07ed45facd9c8fa59ebc0b633123995c854f5a489ebdb0b81b2d2aedd9186c",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3191,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "https://www.forbes.com/",
-      "title": "Measles Stages \u2018Staggering\u2019 Comeback As Vaccination Drops \u2014 Here\u2019s What To Know About The Returning Killer",
-      "description": "Measles is staging an alarming comeback across the globe, the World Health Organization and Centers for Disease Control and Prevention warned on Thursday, with cases of the often forgotten killer climbing.",
-      "url": "https://www.forbes.com/video/6341324782112/measles-stages-staggering-comeback-as-vaccination-drops--heres-what-to-know-about-the-returning-killer/",
-      "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2023/11/17/6341324782112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
-      "publishedAt": "2023-11-17 19:02:27",
-      "content": "Measles is staging an alarming comeback across the globe, the World Health Organization and Centers for Disease Control and Prevention warned on Thursday, with cases of the often forgotten killer cli\u2026 [+5 chars]",
-      "retrievedAt": "2023-11-18 19:05:18.777420",
-      "internal_id": "a9f486f8fd165714a9459a6aff3bbe9a8538f29a7e3aa684aa1e96f16ee89beb",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3203,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Science X",
-      "title": "In the fight against malaria-carrying mosquitoes, just add soap",
-      "description": "Could the solution to the decades-long battle against malaria be as simple as soap? In a new study published in PLOS Neglected Tropical Diseases, scientists at The University of Texas at El Paso have made a compelling case for it.",
-      "url": "https://phys.org/news/2023-11-malaria-carrying-mosquitoes-soap.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/in-the-fight-against-m.jpg",
-      "publishedAt": "2023-11-17 19:00:06",
-      "content": "Could the solution to the decades-long battle against malaria be as simple as soap? In a new study published in PLOS Neglected Tropical Diseases, scientists at The University of Texas at El Paso have\u2026 [+3972 chars]",
-      "retrievedAt": "2023-11-18 19:05:21.211318",
-      "internal_id": "fe48a72a70930f4559751fd4d3a2cdf6316bdc2bb659d4db2cca52815632650f",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3202,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "Pandora Dewan",
-      "title": "Repellent-Resistant Mosquitoes Can't Stand an Item in Your Bathroom",
-      "description": "This low-cost ingredient can increase the potency of insecticides by more than 10-fold.",
-      "url": "https://www.newsweek.com/repellent-resistant-mosquitoes-bathroom-pesticides-1844806",
-      "urlToImage": "https://d.newsweek.com/en/full/2310997/mosquito-cleaning-products.png",
-      "publishedAt": "2023-11-17 19:00:01",
-      "content": "The deadliest animal on the planet could be destroyed by a simple household product, scientists say. Mosquitoes kill more people that any other animal in the world by spreading diseases like malaria\u2026 [+3287 chars]",
-      "retrievedAt": "2023-11-18 19:05:21.202170",
-      "internal_id": "8687ba1d2dd6794a1f926c986ad3792d7a932d1cf31381463a5006053613eb83",
-      "publishedAtLabel": "Nov 17"
     }
   ]
 }
