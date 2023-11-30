@@ -1,8 +1,315 @@
 {
-  "last_updated": "2023-11-30 07:06",
+  "last_updated": "2023-11-30 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 3431,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N CARTAGENA",
+      "title": "Estos son los barrios de Cartagena con m\u00e1s casos de leptospirosis en 2023",
+      "description": "El Departamento Administrativo Distrital de Salud, Dadis, report\u00f3 que en Cartagena, a corte de la semana epidemiol\u00f3gica N\u00b044 del presente a\u00f1o, se han notificado al Sivigila 255 casos sospechosos de leptospirosis.",
+      "url": "https://www.eluniversal.com.co/cartagena/estos-son-los-barrios-de-cartagena-con-mas-casos-de-leptospirosis-en-2023-MN9539349",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/801x1288/0c301/800d686/none/13704/UOBK/dadis_9039891_20231129125623.jpg",
+      "publishedAt": "2023-11-29 18:00:00",
+      "content": "El Departamento Administrativo Distrital de Salud, Dadis, report\u00f3 que en Cartagena, a corte de la semana epidemiol\u00f3gica N\u00b044 del presente a\u00f1o, se han notificado al Sivigila 255 casos sospechosos de l\u2026 [+4084 chars]",
+      "retrievedAt": "2023-11-30 19:05:32.819858",
+      "internal_id": "ba72396c4f17c0aff27de86aacdc7b2af4e39d779e104e49b345c522d5f870f7",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3430,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N CARTAGENA",
+      "title": "Leptospirosis en Cartagena: \u00bfEn qu\u00e9 consiste la enfermedad y c\u00f3mo se transmite?",
+      "description": "Con el reciente aumento de casos sospechosos en Cartagena, es crucial comprender qu\u00e9 es la leptospirosis y c\u00f3mo se propaga esta enfermedad para tomar medidas preventivas adecuadas. Lea: Temor en Cartagena por aumento alarmante de casos de leptospirosis",
+      "url": "https://www.eluniversal.com.co/cartagena/leptospirosis-en-cartagena-en-que-consiste-la-enfermedad-y-como-se-transmite-KN9539149",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1218x686/209c0/800d686/none/13704/URRS/ratas-en-cartagena_9039610_20231129123542.png",
+      "publishedAt": "2023-11-29 17:35:34",
+      "content": "Con el reciente aumento de casos sospechosos en Cartagena, es crucial comprender qu\u00e9 es la leptospirosis y c\u00f3mo se propaga esta enfermedad para tomar medidas preventivas adecuadas. Lea: Temor en Cart\u2026 [+2349 chars]",
+      "retrievedAt": "2023-11-30 19:05:32.816496",
+      "internal_id": "2ec0450b9d9f8b60430f318814b10f250f19b750a58c611982a64ac830f9b89e",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3420,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Patricia Recio",
+      "title": "Tr\u00e1ficos trabajan entre malos olores, techos que se caen, criaderos de dengue y hasta serpientes",
+      "description": "Nueve delegaciones de Tr\u00e1nsito est\u00e1n en condiciones deplorables, algunas no tienen permiso de funcionamiento, mientras que otras tienen \u00f3rdenes sanitarias desde hace a\u00f1os",
+      "url": "https://www.nacion.com/el-pais/infraestructura/traficos-trabajan-entre-malos-olores-techos-que-se/5SZRIAXOGVEIRG6W743P4VY32A/story/",
+      "urlToImage": "https://www.nacion.com/resizer/jqRnNzJ44CYuVmaw4qWrby0IhVY=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/7MBB63JJTBEBJFN42MZIDVXYFY.jpeg",
+      "publishedAt": "2023-11-29 17:24:13",
+      "content": "Condiciones deplorables aquejan a por lo menos nueve delegaciones regionales de la Polic\u00eda de Tr\u00e1nsito; sobre algunas de estas pesan \u00f3rdenes sanitarias del Ministerio de Salud y hasta sentencias de l\u2026 [+8018 chars]",
+      "retrievedAt": "2023-11-30 19:05:29.781560",
+      "internal_id": "692affc9f510444afe1ceb59e4402b4e6eca708b0a6fd5345f423fb2b4c38962",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3427,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "Fr\u00e9d\u00e9ric Brenon (20 Minutes)",
+      "title": "Chikungunya : Le premier vaccin sur le point d\u2019\u00eatre autoris\u00e9 en Europe",
+      "description": "Le vaccin, d\u00e9j\u00e0 approuv\u00e9 aux Etats-Unis, pourrait permettre d'enrayer le d\u00e9veloppement du virus en Europe. Ce vaccin est mis au point par la soci\u00e9t\u00e9 nantaise Valneva",
+      "url": "https://www.20minutes.fr/sante/4064341-20231129-chikungunya-premier-vaccin-point-etre-autorise-europe",
+      "urlToImage": "https://img.20mn.fr/WEQE2spxS7ONqOJyXAuccQ/1200x768_aedes-albopictus-vecteur-notamment-chikungunya",
+      "publishedAt": "2023-11-29 17:21:09",
+      "content": "Une avanc\u00e9e significative pour Valneva et un espoir pour r\u00e9duire la progression de la maladie. L\u2019agence europ\u00e9enne des m\u00e9dicaments (EMA) a valid\u00e9 techniquement le dossier de demande d\u2019autorisation de\u2026 [+1980 chars]",
+      "retrievedAt": "2023-11-30 19:05:31.898666",
+      "internal_id": "77c871ed458e86aa60a959708812c2346e8849dbcc95ac7f85f7ecf85b762350",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3433,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N CARTAGENA",
+      "title": "Temor en Cartagena por aumento alarmante de casos de leptospirosis",
+      "description": "Cartagena se encuentra en estado de alerta ante el notable incremento de casos sospechosos de leptospirosis. Hasta la semana epidemiol\u00f3gica n\u00famero 44 del presente a\u00f1o, se han reportado 255 casos, cifra que duplica dr\u00e1sticamente los 113 casos registrados en el\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/temor-en-cartagena-por-aumento-alarmante-de-casos-de-leptospirosis-JM9538902",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/800x800/0c57/800d686/none/13704/JHLR/leptospirosis-en-cartagena_9039153_20231129115129.png",
+      "publishedAt": "2023-11-29 16:51:24",
+      "content": "Cartagena se encuentra en estado de alerta ante el notable incremento de casos sospechosos de leptospirosis. Hasta la semana epidemiol\u00f3gica n\u00famero 44 del presente a\u00f1o, se han reportado 255 casos, cif\u2026 [+1923 chars]",
+      "retrievedAt": "2023-11-30 19:05:32.825298",
+      "internal_id": "7047d0f5d91bcea6bcc03b73d7fbe384b09269303b6c623cd156615e65adc8f4",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3429,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "amina.manzoor@expressen.se (Amina Manzoor)",
+      "title": "Kommer experterna ha fel om Kina en g\u00e5ng till?",
+      "description": "\u00c4r det en ny pandemi p\u00e5 g\u00e5ng i Kina eller finns det en mycket troligare f\u00f6rklaring? Dessutom en demens-studie, mpox och klimattoppm\u00f6tet i veckans Vetenskapsrummet.",
+      "url": "https://www.expressen.se/nyheter/kommer-experterna-att-ha-fel-om-kina-en-gang-till/",
+      "urlToImage": "https://static.cdn-expressen.se/images/3c/72/3c72f1d154a44a929037419df5024983/16x9/original.jpg",
+      "publishedAt": "2023-11-29 16:25:00",
+      "content": "Premium\u00c4r det en ny pandemi p\u00e5 g\u00e5ng i Kina eller finns det en mycket troligare f\u00f6rklaring? Dessutom en demens-studie, mpox och klimattoppm\u00f6tet i veckans Vetenskapsrummet.",
+      "retrievedAt": "2023-11-30 19:05:32.231860",
+      "internal_id": "f4bc1f1c1d35e597e474fdc1f086243e07ac93b72cdbac001669479fbd3be616",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3425,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Hanna Abberger, Matthias Hose, Anne Ninnemann, Christopher Menne, Mareike Eilbrecht, Karl S. Lang, Kai Matuschewski, Robert Geffers, Josephine Herz, Jan Buer, Astrid M. Westendorf, Wiebke Hansen",
+      "title": "Neuropilin-1 identifies a subset of highly activated CD8+ T cells during parasitic and viral infections",
+      "description": "Author summary Malaria is caused by the parasite Plasmodium and remains one of the most life threatening infectious diseases worldwide. In 2021, WHO reported 247 million malaria cases and more than 600,000 deaths. In this study, we infect mice with Plasmodium\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011837",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011837.g007&size=inline",
+      "publishedAt": "2023-11-29 14:00:00",
+      "content": "Citation: Abberger H, Hose M, Ninnemann A, Menne C, Eilbrecht M, Lang KS, et al. (2023) Neuropilin-1 identifies a subset of highly activated CD8+ T cells during parasitic and viral infections. PLoS P\u2026 [+67650 chars]",
+      "retrievedAt": "2023-11-30 19:05:31.028241",
+      "internal_id": "09f8116afb7825b417181c16398ad714ab6c119b868068c5bee7dd0aec1435ff",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3426,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Imara Correia de Queiroz Barbosa, Luizabel de Paula Gomes, Israel Nilton de Almeida Feitosa, Lu\u00eds F\u00e1bio Barbosa Botelho, Bruno Robalinho Cavalcanti Barbosa, Alex Barbosa, Andr\u00e9 Telis de Vilela Ara\u00fajo, Marcelo Dantas Tavares de Melo, Adriana Suely de Oliveira Melo, Vera Maria Cury Salemi",
+      "title": "Morphological and functional cardiac alterations in children with congenital Zika syndrome and severe neurological deficits",
+      "description": "Author summary Congenital Zika syndrome (CZS) occurs in the fetuses of mothers infected with the Zika virus during pregnancy, especially in the third trimester. The main findings are microcephaly and other neurological defects; however, several systemic effec\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011762",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011762.t004&size=inline",
+      "publishedAt": "2023-11-29 14:00:00",
+      "content": "Introduction Zika virus (ZIKV) is mainly transmitted by the Aedes aegypti mosquito in tropical regions [1,2]. In 1947, the Zika virus was discovered in the Zika forest in Uganda [1,3], and the first\u2026 [+24313 chars]",
+      "retrievedAt": "2023-11-30 19:05:31.502938",
+      "internal_id": "e24d493caad1423198684debeaeb8c9713d812edc9752b81b447ce04c1eef0d5",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3422,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Dengue death toll rises to 1,615 with 5 more deaths in a day",
+      "description": "Of the new patients, 193 were admitted to hospitals in Dhaka and 775 were hospitalised outside it",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-1615-5-more-deaths-day-748610",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/13/dengue-rajib-dhar.jpg",
+      "publishedAt": "2023-11-29 12:54:27",
+      "content": "Five more deaths were reported from dengue in 24 hours till Wednesday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,615 this year. During the period, 968 more pa\u2026 [+657 chars]",
+      "retrievedAt": "2023-11-30 19:05:29.797238",
+      "internal_id": "af25a3ab2fbe924231f98c0dfab470233dfd1d2d55aaf7cadfb522d029840b92",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3418,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Measles - Kwara Vaccinates 700,000 Children",
+      "description": "[Leadership] A total of 700,000 children have been vaccinated in the 2023 measles campaign across the 16 local government areas of Kwara State.",
+      "url": "https://allafrica.com/stories/202311290334.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-29 12:50:04",
+      "content": "A total of 700,000 children have been vaccinated in the 2023 measles campaign across the 16 local government areas of Kwara State. The executive secretary, Kwara State Primary Health Care Developmen\u2026 [+2673 chars]",
+      "retrievedAt": "2023-11-30 19:05:29.189318",
+      "internal_id": "4cf12d8d8faa4274bd4750074d50fabd532cf433e6a94445d5e78a1495a99c56",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3432,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "N\u00c9STOR CASTELLAR ACOSTA",
+      "title": "Investigan muerte de menor de edad por presunta leptospirosis en Cartagena",
+      "description": "Un menor de edad muri\u00f3 recientemente en el Hospital Infantil Napole\u00f3n Franco Pareja, m\u00e1s conocida como Casa del Ni\u00f1o, por un supuesto caso de leptospirosis.",
+      "url": "https://www.eluniversal.com.co/cartagena/investigan-muerte-de-menor-de-edad-por-presunta-leptospirosis-en-cartagena-XY9537312",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/SLET/panoramica-de-cartagena_9037157_20231129073151.jpg",
+      "publishedAt": "2023-11-29 12:45:35",
+      "content": "Un menor de edad muri\u00f3 recientemente en el Hospital Infantil Napole\u00f3n Franco Pareja, m\u00e1s conocida como Casa del Ni\u00f1o, por un supuesto caso de leptospirosis. Sobre el caso, este medio consult\u00f3 al Dep\u2026 [+1939 chars]",
+      "retrievedAt": "2023-11-30 19:05:32.822730",
+      "internal_id": "9ed30404ba1013045147d59e1b6dbeb179679256c414240afd6cc275c03eb377",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3423,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vietnamplus.vn",
+      "author": "VNA",
+      "title": "Indonesia spends 1 million USD on trials to prevent dengue spread",
+      "description": "Indonesia\u2019s Ministry of Health has allocated 16 billion IDR (around 1.03 million USD) for trials involving the use of mosquitos with Wolbachia bacterium to check dengue spread in five Indonesian cities.",
+      "url": "https://en.vietnamplus.vn/indonesia-spends-1-million-usd-on-trials-to-prevent-dengue-spread/272039.vnp",
+      "urlToImage": null,
+      "publishedAt": "2023-11-29 10:59:00",
+      "content": "Jakarta (VNA) Indonesias Ministry of Health has allocated 16 billion IDR (around 1.03 million USD) for trials involving the use of mosquitos with Wolbachia bacterium to check dengue spread in five \u2026 [+815 chars]",
+      "retrievedAt": "2023-11-30 19:05:29.803266",
+      "internal_id": "9fda391243332c742329ad7bc3a360221b558a409c761f100b760394938ca260",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3419,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Green Savers",
+      "title": "Altera\u00e7\u00f5es clim\u00e1ticas trazem a Portugal insetos transmissores de doen\u00e7as",
+      "description": "A M\u00e9dis, marca do Grupo Ageas Portugal, alerta para a presen\u00e7a de duas variedades de mosquitos que podem introduzir doen\u00e7as como a dengue, mal\u00e1ria ou zica no pa\u00eds.",
+      "url": "https://greensavers.sapo.pt/alteracoes-climaticas-trazem-a-portugal-insetos-transmissores-de-doencas/",
+      "urlToImage": "https://greensavers.sapo.pt/wp-content/uploads/2023/11/Insetos-1024x495.png",
+      "publishedAt": "2023-11-29 10:32:03",
+      "content": "Atenta \u00e0s altera\u00e7\u00f5es clim\u00e1ticas e ao seu impacto na sa\u00fade, a M\u00e9dis, marca do Grupo Ageas Portugal, alerta, em comunicado, para a presen\u00e7a de duas variedades de mosquitos que podem introduzir doen\u00e7as \u2026 [+3015 chars]",
+      "retrievedAt": "2023-11-30 19:05:29.774882",
+      "internal_id": "81d9a8aae8c704bae04def4f5417c64521822da0c0e01f3f95c71da17129eb97",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3417,
+      "query": [
+        "pertussis",
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Iasbaba.com",
+      "author": "IASbaba",
+      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 29th November 2023",
+      "description": "Archives (PRELIMS & MAINS Focus) Practice MCQs ANSWERS FOR 28th November \u2013 Daily Practice MCQs The post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 29th November 2023 appeared first on IASbaba.",
+      "url": "https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-29th-november-2023/",
+      "urlToImage": "https://iasbaba.com/wp-content/uploads/2023/11/zim.jpg",
+      "publishedAt": "2023-11-29 09:57:05",
+      "content": "Q1) Consider the following pairs: DiseaseCaused byPlagueBordetella pertussisWhooping CoughYersinia pestis<\u2026 [+1365 chars]",
+      "retrievedAt": "2023-11-30 19:05:28.021953",
+      "internal_id": "112081800a91c8440109301bb83170a5d1d197b10b3ae4209fde2be2ab8bced7",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3428,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "How Canadian scientists helped uncover sexually transmitted cases of a deadlier mpox strain",
+      "description": "A research team made up of Canadian scientists and researchers from the Democratic Republic of the Congo has documented the first known cases of a deadlier strain of mpox spreading through sexual contact.",
+      "url": "https://www.cbc.ca/news/health/sexually-transmitted-mpox-strain-1.7042973",
+      "urlToImage": "https://i.cbc.ca/1.6668281.1669754248!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/icymi-mpox-thumb-nov22.jpg",
+      "publishedAt": "2023-11-29 09:00:00",
+      "content": "If 2022 was the year mpox infections exploded globally, 2023 was the year much of the world stopped paying attention. Yet Canadian researchers, in collaboration with scientists working on the ground\u2026 [+6673 chars]",
+      "retrievedAt": "2023-11-30 19:05:32.225543",
+      "internal_id": "cea59bbfc46bd8f97c89d9e9a204c9017f89301ba798a6a3a2d0fa5d998ed78b",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3424,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Andi Firdaus, Resinta Sulistiyandari",
+      "title": "Yogyakarta dengue cases drop with Wolbachia-infected mosquitoes",
+      "description": "Yogyakarta has recorded a reduction in dengue cases, dropping below the global incidence rate of 10 per 100,000 population, following the use of Wolbachia-infected mosquitoes, Health Minister Budi Gunadi Sadikin stated on ...",
+      "url": "https://en.antaranews.com/news/299730/yogyakarta-dengue-cases-drop-with-wolbachia-infected-mosquitoes",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/29/antarafoto-rdp-teknologi-wolbachia-untuk-pengendalian-dengue-281123-app-2.jpg",
+      "publishedAt": "2023-11-29 08:19:41",
+      "content": "Jakarta (ANTARA) - Yogyakarta has recorded a reduction in dengue cases, dropping below the global incidence rate of 10 per 100,000 population, following the use of Wolbachia-infected mosquitoes, Heal\u2026 [+2274 chars]",
+      "retrievedAt": "2023-11-30 19:05:29.805991",
+      "internal_id": "96d5bf10f7238172df209e3f28a68238fa2b47745209c52218367d17d31d1c14",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3421,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Bangladesh's dengue deaths surpass 1,600",
+      "description": "DHAKA, Nov. 29 (Xinhua) -- Bangladesh reported 959 new dengue cases and four more deaths on Tuesday,",
+      "url": "http://en.people.cn/n3/2023/1129/c90000-20103826.html",
+      "urlToImage": null,
+      "publishedAt": "2023-11-29 07:13:21",
+      "content": "(Xinhua) 15:12, November 29, 2023 DHAKA, Nov. 29 (Xinhua) -- Bangladesh reported 959 new dengue cases and four more deaths on Tuesday, making the tally 310,046 and the death toll surpassing 1,600, t\u2026 [+329 chars]",
+      "retrievedAt": "2023-11-30 19:05:29.794476",
+      "internal_id": "7e43d84dca3843bc72421e45ee9256d9013d811c54ffeeb594655b836182bb29",
+      "publishedAtLabel": "Nov 29"
+    },
     {
       "id": 3408,
       "query": [
@@ -3310,314 +3617,6 @@
       "retrievedAt": "2023-11-21 19:05:37.015659",
       "internal_id": "f49af556a371c58e68fc9f5882cb2e348c37ea63ecbf36e703eca5a9a5451050",
       "publishedAtLabel": "Nov 20"
-    },
-    {
-      "id": 3239,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Www.nu.nl",
-      "author": "onze nieuwsredactie",
-      "title": "Tijgermug gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'",
-      "description": "De Aziatische tijgermug, die ernstige ziektes zoals knokkelkoorts en zika kan overbrengen op mensen, is afgelopen zomer in bijna heel Nederland aangetroffen. In totaal zijn in 35 Nederlandse gemeenten muggen bestreden.",
-      "url": "https://www.nu.nl/dieren/6290510/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html",
-      "urlToImage": "https://media.nu.nl/m/zj6xqhqacdqi_wd1280/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.jpg",
-      "publishedAt": "2023-11-20 11:27:54",
-      "content": "De Aziatische tijgermug, die ernstige ziektes zoals knokkelkoorts en zika kan overbrengen op mensen, is afgelopen zomer in bijna heel Nederland aangetroffen. In totaal zijn in 35 Nederlandse gemeente\u2026 [+1475 chars]",
-      "retrievedAt": "2023-11-21 19:05:37.011122",
-      "internal_id": "9dec7aca4b21281955704d3ae638ddac98a9d94bb5bd65599c808c17160198c2",
-      "publishedAtLabel": "Nov 20"
-    },
-    {
-      "id": 3232,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Dengue cases rise with two deaths in EPI week 45",
-      "description": "PUTRAJAYA: The number of dengue cases rose by 214 cases or 9.6% to 2,435 cases in the 45th Epidemiological Week (EPI Week 45) from Nov 5 to Nov 11, compared to 2,221 cases the week before. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/11/20/dengue-cases-rise-with-two-deaths-in-epi-week-45",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/11/20/2398586.jpg",
-      "publishedAt": "2023-11-20 11:25:00",
-      "content": "PUTRAJAYA: The number of dengue cases rose by 214 cases or 9.6% to 2,435 cases in the 45th Epidemiological Week (EPI Week 45) from Nov 5 to Nov 11, compared to 2,221 cases the week before. Health di\u2026 [+1032 chars]",
-      "retrievedAt": "2023-11-21 19:05:35.360299",
-      "internal_id": "c68626c61bb8227827be12a49e899b3909cde239b98f19776a98d3253a92dfc5",
-      "publishedAtLabel": "Nov 20"
-    },
-    {
-      "id": 3236,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Isna.ir",
-      "author": "\u0645\u062d\u0645\u062f\u062d\u0633\u06cc\u0646 \u0631\u0636\u0648\u0627\u0646\u06cc\u200c\u0641\u0631\u062f",
-      "title": "\u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0645\u0627\u06cc\u0639 \u0638\u0631\u0641\u0634\u0648\u06cc\u06cc \u0628\u0631\u0627\u06cc \u0645\u0628\u0627\u0631\u0632\u0647 \u0628\u0627 \u0645\u0627\u0644\u0627\u0631\u06cc\u0627!",
-      "description": "\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u062f\u0631 \u0645\u0637\u0627\u0644\u0639\u0647\u200c\u0627\u06cc \u062c\u0627\u0644\u0628 \u062a\u0648\u062c\u0647 \u062f\u0631\u06cc\u0627\u0641\u062a\u0647\u200c\u0627\u0646\u062f \u06a9\u0647 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0645\u0627\u06cc\u0639 \u0638\u0631\u0641\u0634\u0648\u06cc\u06cc \u062f\u0631 \u062d\u0634\u0631\u0647\u200c\u06a9\u0634\u200c\u0647\u0627\u060c \u0645\u0631\u06af \u0648 \u0645\u06cc\u0631 \u067e\u0634\u0647\u200c\u0647\u0627\u06cc \u0645\u0627\u0644\u0627\u0631\u06cc\u0627 \u0631\u0627 \u0627\u0632 \u06f3\u06f0 \u062f\u0631\u0635\u062f \u0628\u0647 \u06f1\u06f0\u06f0 \u062f\u0631\u0635\u062f \u0627\u0641\u0632\u0627\u06cc\u0634 \u0645\u06cc\u200c\u062f\u0647\u062f.",
-      "url": "https://www.isna.ir/news/1402082921234/\u0627\u0633\u062a\u0641\u0627\u062f\u0647-\u0627\u0632-\u0645\u0627\u06cc\u0639-\u0638\u0631\u0641\u0634\u0648\u06cc\u06cc-\u0628\u0631\u0627\u06cc-\u0645\u0628\u0627\u0631\u0632\u0647-\u0628\u0627-\u0645\u0627\u0644\u0627\u0631\u06cc\u0627",
-      "urlToImage": "https://cdn.isna.ir/d/2023/11/20/4/62809966.jpg?ts=1700463130164",
-      "publishedAt": "2023-11-20 08:46:37",
-      "content": ". . . () . . . (Malaria) . . (Malarial) . . . . (Mal-Aria) . . . . (UTEP) . UTEP : . . (CRID) . (WHO) . . . . : . . . . . .",
-      "retrievedAt": "2023-11-21 19:05:36.475637",
-      "internal_id": "bb1158183f1325a3412c235cbbad91bfb2ada2120f614ca6e8a2e3f8b62fe5b7",
-      "publishedAtLabel": "Nov 20"
-    },
-    {
-      "id": 3235,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Frequentfloaters.com",
-      "author": "Frequent Floaters",
-      "title": "Catching Yellow Fever or Malaria on a Caribbean Cruise???",
-      "description": "We have traveled extensively with Oceania Cruises in various regions of the world, but today we received our first Important Notification \u2013 General Health Information for an upcoming Caribbean cruise with warnings concerning catching Yellow Fever or Malaria. \u2026",
-      "url": "https://frequentfloaters.com/catching-yellow-fever-or-malaria-on-a-caribbean-cruise/",
-      "urlToImage": "https://frequentfloaters.com/wp-content/uploads/2023/11/Yellow-Fever-Malaria.jpg-1024x1024.png",
-      "publishedAt": "2023-11-20 07:09:51",
-      "content": "As an Amazon Affiliate, we may earn a commission on eligible purchases made through our referrals. Advertiser Disclosure: Frequent Floaters has partnered with CardRatings for our coverage of credit c\u2026 [+4072 chars]",
-      "retrievedAt": "2023-11-21 19:05:36.469343",
-      "internal_id": "cf65ff81e09c43e1175c8ff8987bab4efdb26ff6db815bd4ad298c64edcaf860",
-      "publishedAtLabel": "Nov 20"
-    },
-    {
-      "id": 3229,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Infosalus.com",
-      "author": null,
-      "title": "Los pesticidas anti mosquitos son 10 veces m\u00e1s efectivos cuando se combinan con peque\u00f1as cantidades de jab\u00f3n",
-      "description": "Una nueva investigaci\u00f3n ha demostrado que los pesticidas son 10 veces m\u00e1s efectivos cuando se combinan con peque\u00f1as cantidades de jab\u00f3n, como posible arma en la larga batalla contra la malaria, seg\u00fan publican en la revista 'PLOS Neglected Tropical Diseases'.",
-      "url": "https://www.infosalus.com/salud-investigacion/noticia-pesticidas-anti-mosquitos-son-10-veces-mas-efectivos-cuando-combinan-pequenas-cantidades-jabon-20231120070347.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231120070347_1200.jpg",
-      "publishedAt": "2023-11-20 06:03:47",
-      "content": "MADRID, 20 Nov. (EUROPA PRESS) - Una nueva investigaci\u00f3n ha demostrado que los pesticidas son 10 veces m\u00e1s efectivos cuando se combinan con peque\u00f1as cantidades de jab\u00f3n, como posible arma en la la\u2026 [+3713 chars]",
-      "retrievedAt": "2023-11-21 07:05:51.703306",
-      "internal_id": "b5cfa80081c5d96a9d938a55c024b2c6a27ec5ca507b937eff92488a2d2750bc",
-      "publishedAtLabel": "Nov 20"
-    },
-    {
-      "id": 3228,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Campinas ultrapassa 10 mil casos de dengue e Sa\u00fade refor\u00e7a apelo \u00e0 popula\u00e7\u00e3o para preven\u00e7\u00e3o",
-      "description": "Secretaria de Sa\u00fade aponta queda nas notifica\u00e7\u00f5es nas \u00faltimas quatro semanas, mas destaca que segue \"atenta aos indicadores e atuando no combate aos criadouros\"; veja, abaixo, medidas preventivas contra o mosquito transmissor. Campinas, Mogi Gua\u00e7u, Mogi Mirim\u2026",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/11/19/campinas-ultrapassa-10-mil-casos-de-dengue-e-saude-reforca-apelo-a-populacao-para-prevencao.ghtml",
-      "urlToImage": "https://s2-g1.glbimg.com/D91lVDz2UOuoKmUA7XjMswQvox8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/9/ZXEUPfQHO78slTEX68Qw/capturar3.jpg",
-      "publishedAt": "2023-11-19 21:40:53",
-      "content": "Em nota, a Secretaria de Sa\u00fade informou que est\u00e1 \"atenta aos indicadores da dengue e mant\u00e9m um trabalho incessante de combate \u00e0 doen\u00e7a, incluindo visitas aos im\u00f3veis para remo\u00e7\u00e3o de poss\u00edveis criadou\u2026 [+2226 chars]",
-      "retrievedAt": "2023-11-21 07:05:50.965749",
-      "internal_id": "cea4f014fe14e31fb2f88c12533799d7ae7ad8643f0a6245adf2a5880e1c9915",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3223,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ooe.orf.at",
-      "author": "ORF.at",
-      "title": "Ausbreitung der Tigerm\u00fccke soll verhindert werden",
-      "description": "In der kalten Jahreszeit denken wir eher selten daran: Gelsen. Beim Land allerdings laufen derzeit Bem\u00fchungen, das Ausbreiten neuer, gef\u00e4hrlicher Gelsenarten zu verhindern \u2013 indem ihnen das \u00dcberwintern unm\u00f6glich gemacht wird. Jede und jeder kann dabei auch he\u2026",
-      "url": "https://ooe.orf.at/stories/3233128/",
-      "urlToImage": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2019%2F44%2F84%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F349803_master_111884_gelbfiebermuecke_uebertraegt_zika-virus_.jpg%3Fs%3Db76ef4fafbe9d00bb5a0c6a537879a7b4e2e19de",
-      "publishedAt": "2023-11-19 16:36:56",
-      "content": "Im Zentralraum hat es heuer wiederholt Funde der Asiatischen Tigerm\u00fccke gegeben. Sie ist am Tag aktiv und kann schwere Krankheiten wie das Dengue-Fieber, das ZIKA-Virus oder Chikungunya \u00fcbertragen. D\u2026 [+687 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.696590",
-      "internal_id": "2e25492edb53880fa764727115a5d9a67681d395ce9a45f1499a0a511d33e526",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3222,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Dengue cai 97% no Brasil, mas aten\u00e7\u00e3o ainda \u00e9 necess\u00e1ria",
-      "description": "O Dia Nacional de Combate ao Aedes aegypti \u00e9 importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
-      "publishedAt": "2023-11-19 14:17:26",
-      "content": "O Dia Nacional de Combate ao Aedes aegypti, celebrado neste domingo, 19, \u00e9 uma data importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito, tr\u2026 [+2521 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.677982",
-      "internal_id": "db79a98e45bf93f7c2e30bc09a7321179724a180bc48f7e7159721241bd72e93",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3226,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 6 more die; 1,291 hospitalised in 24hrs",
-      "description": "So far, the DGHS has recorded 3,01,255 dengue cases and 2,94,757 recoveries this year",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-19 13:37:21",
-      "content": "Six more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,549 this year. During the period, 1,291 more pati\u2026 [+425 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.723368",
-      "internal_id": "f4c9d17832ebd17d6044287facf298dfd5b13e34c43a6253e89f29f9f25be307",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3227,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Malaria Prevalent in Southern Province - Report",
-      "description": "[New Times] The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease.",
-      "url": "https://allafrica.com/stories/202311190024.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-19 12:51:06",
-      "content": "The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease. The Malaria and \u2026 [+2763 chars]",
-      "retrievedAt": "2023-11-20 19:05:43.783726",
-      "internal_id": "367f278c0feb2774c6b1ae37295149cc9133c3cb4cfee66a6db3fa1b8e6bba71",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3225,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "\u00bfPor qu\u00e9 una segunda infecci\u00f3n de dengue puede ser peor que la primera?",
-      "description": "La forma como act\u00faa el virus y la respuesta de nuestro sistema inmunitario cuando ocurre un nuevo contagio favorecen una mayor infecci\u00f3n, que incluso podr\u00eda derivar en dengue grave.",
-      "url": "https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/",
-      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
-      "publishedAt": "2023-11-19 11:03:00",
-      "content": "Una de las principales preguntas que giran alrededor del dengue es por qu\u00e9 las personas pueden tener complicaciones m\u00e1s graves cuando sufren una segunda infecci\u00f3n.Para responder mejor esta pregunta, \u2026 [+5223 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.714769",
-      "internal_id": "d7c3cf7b0830d3c038900f0bcbfb4d40e213458b4125fd6229025f1766308f6b",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3224,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "Dengue cerrar\u00eda 2023 con mayor repunte de casos de \u00faltima d\u00e9cada",
-      "description": "Costa Rica acumul\u00f3 21.396 casos a inicios de noviembre; cinco personas han sufrido dengue grave este a\u00f1o y Salud investiga una posible muerte por esa enfermedad.",
-      "url": "https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/",
-      "urlToImage": "https://www.nacion.com/resizer/PiATf3lWvk3ueCCDZT1C1-o3WmE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/U5XOPZMSYRCBTK6C32OILYZUBQ.jpg",
-      "publishedAt": "2023-11-19 11:00:00",
-      "content": "El 2023 se perfila para convertirse en el a\u00f1o de mayor incidencia de dengue en la \u00faltima d\u00e9cada. En las primeras 44 semanas del a\u00f1o, Costa Rica registraba 21.396 casos de esta enfermedad y se ubicaba\u2026 [+8541 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.703435",
-      "internal_id": "fef8a298698213ce4eb1bcc58133f8f3fb269f774ab785bc9e0c16e91d1c5014",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3221,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Chijioke Iremeka",
-      "title": "Lagos community battles malaria, counts losses as seaweed decorates lagoon",
-      "description": "Residents of Ikorodu community in Lagos State groan as seaweed invasion of the lagoon in the area threatens them and cripples their sources of livelihood. CHIJIOKE IREMEKA reports Residents of Ikorodu community in the Ikorodu Local Government Area of Lagos St\u2026",
-      "url": "https://punchng.com/lagos-community-battles-malaria-counts-losses-as-seaweed-decorates-lagoon/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/11/19002704/STRESS.jpg",
-      "publishedAt": "2023-11-18 23:11:51",
-      "content": "Residents of Ikorodu community in Lagos State groan as seaweed invasion of the lagoon in the area threatens them and cripples their sources of livelihood. CHIJIOKE IREMEKA reports Residents of Ikoro\u2026 [+16624 chars]",
-      "retrievedAt": "2023-11-20 07:06:00.809479",
-      "internal_id": "12db1778f5021e4fbfafab454c1abcbadcf27bbafafff164cf317bdaa841a50d",
-      "publishedAtLabel": "Nov 18"
-    },
-    {
-      "id": 3219,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Measles deaths jumped over 40% between 2021 and 2022, CDC reports - Livescience.com",
-      "description": "Measles deaths jumped over 40% between 2021 and 2022, CDC reportsLivescience.com Doctors warn of dangerous impact of measles as cases spike and vaccine uptake slumps | ITV NewsITV News Measles rises globally amid vaccination crash; WHO and CDC sound the alarm\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172265475",
-      "urlToImage": null,
-      "publishedAt": "2023-11-18 22:52:04",
-      "content": "\"The value of marriage is not that adults produce children, but that children produce adults.\" -- Peter De Vries",
-      "retrievedAt": "2023-11-20 07:05:59.907928",
-      "internal_id": "5b15364908867611f822957a0118e2d2b4dd1a431f23a29fb4fe3ca1bcb68e4c",
-      "publishedAtLabel": "Nov 18"
-    },
-    {
-      "id": 3220,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Ctvnews.ca",
-      "author": "Allison Bamford",
-      "title": "Measles: WHO warns of increasing threat worldwide",
-      "description": "The World Health Organization is warning of a 'relentlessly increasing threat to children' across the globe from measles.",
-      "url": "https://www.ctvnews.ca/health/world-health-organization-warns-of-relentlessly-increasing-threat-of-measles-1.6651176",
-      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/11/18/a-measles-vaccine-is-shown-on-a-countertop-at-the-1-6651182-1700341603763.jpg",
-      "publishedAt": "2023-11-18 21:23:57",
-      "content": "The World Health Organization (WHO) is warning of a \"relentlessly increasing threat to children\" across the globe from measles. Last year, measles cases increased by 18 per cent to nine million worl\u2026 [+3696 chars]",
-      "retrievedAt": "2023-11-20 07:05:59.924361",
-      "internal_id": "d4c529d6c437f604067aec96c49d92f94ff3776a0d38da5e6f683964cd68d144",
-      "publishedAtLabel": "Nov 18"
-    },
-    {
-      "id": 3218,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Punjabijagran.com",
-      "author": "Jagjit Singh",
-      "title": "Report of 11 lakh children not getting measles vaccine is fake says Health Ministry Reports not based on facts",
-      "description": "\u0a2a\u0a3f\u0a1b\u0a32\u0a47 \u0a38\u0a3e\u0a32 11 \u0a32\u0a71\u0a16 \u0a2c\u0a71\u0a1a\u0a3f\u0a06\u0a02 \u0a28\u0a42\u0a70 \u0a16\u0a38\u0a30\u0a47 \u0a24\u0a4b\u0a02 \u0a2c\u0a1a\u0a3e\u0a05 \u0a32\u0a08 \u0a2a\u0a39\u0a3f\u0a32\u0a3e \u0a1f\u0a40\u0a15\u0a3e \u0a28\u0a3e \u0a32\u0a71\u0a17\u0a23 \u0a26\u0a3e \u0a26\u0a3e\u0a05\u0a35\u0a3e \u0a15\u0a30\u0a28 \u0a35\u0a3e\u0a32\u0a40 \u0a2e\u0a40\u0a21\u0a40\u0a06 \u0a30\u0a3f\u0a2a\u0a4b\u0a30\u0a1f \u0a28\u0a42\u0a70 \u0a36\u0a28\u0a3f\u0a1a\u0a30\u0a35\u0a3e\u0a30 \u0a28\u0a42\u0a70 \u0a15\u0a47\u0a02\u0a26\u0a30\u0a40 \u0a38\u0a3f\u0a39\u0a24 \u0a2a\u0a30\u0a3f\u0a35\u0a3e\u0a30 \u0a2d\u0a32\u0a3e\u0a08 \u0a2e\u0a70\u0a24\u0a30\u0a3e\u0a32\u0a47 \u0a28\u0a47 \u0a59\u0a3e\u0a30\u0a1c \u0a15\u0a30 \u0a26\u0a3f\u0a71\u0a24\u0a3e\u0964",
-      "url": "https://www.punjabijagran.com/national/general-report-of-11-lakh-children-not-getting-measles-vaccine-is-fake-says-health-ministry-reports-not-based-on-facts-9303294.html",
-      "urlToImage": "https://img.punjabijagran.com/punjabi/18112023/18_11_2023-child_9303294.jpg",
-      "publishedAt": "2023-11-18 14:54:51",
-      "content": "() : 11 () () 11 2022 () , 2,63,84,580 2,63,63,270 2022-23 ( 2022 2023) 21,310 2021 2022 Posted By: Jagjit Singh",
-      "retrievedAt": "2023-11-19 19:05:16.145805",
-      "internal_id": "9750700b4965a0fca652cc5dafb0c55dc6364fe1abb0ab46228aa8ff1bda1edd",
-      "publishedAtLabel": "Nov 18"
-    },
-    {
-      "id": 3216,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Live Science",
-      "author": "Nicoletta Lanese",
-      "title": "Measles deaths jumped over 40% from 2021 to 2022, CDC reports",
-      "description": "Declines in measles vaccination during the COVID-19 pandemic have been tied to an uptick in measles cases, deaths and major outbreaks worldwide.",
-      "url": "https://www.livescience.com/health/viruses-infections-disease/measles-deaths-jumped-over-40-from-2021-to-2022-cdc-reports",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ffr2HXQzJ5wi6Yg9NS6RsZ-1200-80.jpg",
-      "publishedAt": "2023-11-18 14:00:04",
-      "content": "Measles cases, deaths and outbreaks jumped dramatically between 2021 and 2022, a new report from the World Health Organization (WHO) and the U.S. Centers for Disease Control and Prevention (CDC) show\u2026 [+2904 chars]",
-      "retrievedAt": "2023-11-19 19:05:16.086772",
-      "internal_id": "fbbd4018d61df7cde487ea7b9389636db08b93749d1a55e8664481920d2ab979",
-      "publishedAtLabel": "Nov 18"
     }
   ]
 }
