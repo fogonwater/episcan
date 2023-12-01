@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-11-30 19:05",
+  "last_updated": "2023-12-01 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 17,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 3438,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Five new monkeypox cases detected",
+      "description": "PUTRAJAYA: Five new cases of monkeypox (mpox), involving local men, have been detected in Malaysia, from Oct 31 to Nov 29, bringing the cumulative number of cases to nine. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/11/30/five-new-monkeypox-cases-detected",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/11/30/2415355.jpg",
+      "publishedAt": "2023-11-30 06:53:00",
+      "content": "PUTRAJAYA: Five new cases of monkeypox (mpox), involving local men, have been detected in Malaysia, from Oct 31 to Nov 29, bringing the cumulative number of cases to nine. Health director-general Da\u2026 [+1955 chars]",
+      "retrievedAt": "2023-12-01 07:05:55.231849",
+      "internal_id": "61f41f7bb5e8a72813cf4cb6220748118da605738e2836242fdbf30e72876558",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 3435,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Livedoor.jp",
+      "author": "rbkyn844",
+      "title": "\u3010\u95b2\u89a7\u6ce8\u610f\u3011\u30ea\u30a2\u30eb\u306a\u30be\u30f3\u30d3\u304c\u51fa\u6ca1",
+      "description": "\u3010\u95b2\u89a7\u6ce8\u610f\u3011\u30ea\u30a2\u30eb\u306a\u30be\u30f3\u30d3\u304c\u51fa\u6ca1 var microadCompass = microadCompass || {}; microadCompass.queue = microadCompass.queue || []; microadCompass.queue.push({ \"spot\": \"11cf97bbd364c255a1c676272a5f1000\" });",
+      "url": "http://blog.livedoor.jp/rbkyn844/archives/10480129.html",
+      "urlToImage": "https://livedoor.blogimg.jp/rbkyn844/imgs/c/7/c703245f.jpg",
+      "publishedAt": "2023-11-30 03:32:04",
+      "content": ": https://nova.5ch.net/test/read.cgi/livegalileo/1701313885/ 1: 2023/11/30() 12:11:25.89 ID:vsn2udKz0 @markellisnew Rabies infected person #fyp#trending#viral#infected#scary#disturbing original so\u2026 [+526 chars]",
+      "retrievedAt": "2023-12-01 07:05:52.993015",
+      "internal_id": "a150b74065264f0c23a908601dfd00fd735c3c2a2f7b18682098344cb8303992",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 3437,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "2023 se convierte en el a\u00f1o con m\u00e1s casos de dengue en la d\u00e9cada",
+      "description": "En 46 semanas, a mediados de noviembre, se suman 24.109 casos de dengue; el a\u00f1o con m\u00e1s incidencia desde 2013, y el quinto con m\u00e1s casos en los 31 a\u00f1os de historia de la enfermedad.",
+      "url": "https://www.nacion.com/ciencia/salud/2023-se-convierte-en-el-ano-con-mas-casos-de/4IUVKZDMPFFCJDEGTIXDDG2A5M/story/",
+      "urlToImage": "https://www.nacion.com/resizer/ei61w-7K88_-OZqqsjtnLTX4sog=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Z4UMCIUPJJH4XHTI7MHZ7KBTKA.jpg",
+      "publishedAt": "2023-11-29 23:07:08",
+      "content": "La cifra tambi\u00e9n coloca a este a\u00f1o como el quinto con m\u00e1s casos, por debajo de 2005, 2007, 2010 y 2013. Datos del Ministerio de Salud se\u00f1alan que estos 24.109 registros se alcanzaron al cerrar la se\u2026 [+3557 chars]",
+      "retrievedAt": "2023-12-01 07:05:53.777198",
+      "internal_id": "34e1c8bb0d40ddec62c8d40432323f5eac2a20e170d25e96293a96d70f853f1f",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3434,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "KPBS",
+      "author": "City News Service",
+      "title": "Whooping cough cases increase, health officials recommend vaccinations",
+      "description": "According to county data, the number of pertussis illnesses jumped from 12 in September to 57 in October. Spikes in pertussis happen every three to five years, they said, and the last peak was in 2017.",
+      "url": "https://www.kpbs.org/news/health/2023/11/29/whooping-cough-cases-increase-health-officials-recommend-vaccinations",
+      "urlToImage": "https://cdn.kpbs.org/dims4/default/a598c75/2147483647/strip/true/crop/1800x945+0+34/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Fassets%2Fimg%2F2014%2F12%2F18%2Fap340330303131_wide-fd0e94550a85782c81425e4b905b88cf0d0f17f4.jpg",
+      "publishedAt": "2023-11-29 22:09:21",
+      "content": "Citing an increasing number of cases of pertussis, also known as whooping cough, county public health officials Wednesday urged San Diegans to get vaccinated, particularly those most at risk of becom\u2026 [+2772 chars]",
+      "retrievedAt": "2023-12-01 07:05:52.780211",
+      "internal_id": "e61688fddec51e92901b66a9e111cedfd2a2ad29bf123168344343a5799c62fc",
+      "publishedAtLabel": "Nov 29"
+    },
+    {
+      "id": 3436,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Commentary: Singapore\u2019s dengue problem won\u2019t go away without a vaccine",
+      "description": "There have been big outbreaks of dengue every year since 2019 in Singapore. Our success in controlling the number of Aedes mosquitoes is no longer sufficient, says Duke-NUS Medical School\u2019s Ooi Eng Eong and Shirin Kalimuddin.",
+      "url": "https://www.channelnewsasia.com/commentary/singapore-dengue-fever-vaccine-mosquitoes-fogging-3943846",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--kmdy2SRj--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/24/denguevaccine.jpg?itok=wQA_1qlu",
+      "publishedAt": "2023-11-29 22:00:00",
+      "content": "After decades of research, we now have two vaccines (Dengvaxia and Qdenga) that have been licensed in several countries, as well as a third (TV003) which has just completed clinical trials. Dengvaxi\u2026 [+1525 chars]",
+      "retrievedAt": "2023-12-01 07:05:53.760021",
+      "internal_id": "c4e2b75b546b50f8ad0054848c1933a7f0f69ff2a9780bbf8c496d2ca7301b69",
+      "publishedAtLabel": "Nov 29"
+    },
     {
       "id": 3431,
       "query": [
@@ -3526,96 +3616,6 @@
       "content": "Each year antimicrobial resistance \u2013 the ability of microbes to survive agents designed to kill them \u2013 claims more lives than malaria and HIV/Aids combined. Africa bears the brunt of this development\u2026 [+6159 chars]",
       "retrievedAt": "2023-11-21 19:05:36.479323",
       "internal_id": "40718136cbda48f01bf99b5a425fc0715a97697ce88ac3163fc41c53a1d071ff",
-      "publishedAtLabel": "Nov 20"
-    },
-    {
-      "id": 3241,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Su Hailong, Jun Liu, Jianhai Yu, Zhenzhen Qiu, Wenhan Liang, Wangsheng Wu, Haifeng Mo, Hongwei Li, Wei Zhao, Weiwang Gu",
-      "title": "EDIII-Fc induces protective immune responses against the Zika virus in mice and rhesus macaque",
-      "description": "Author summary Zika virus (ZIKV) is a member of the Flavivirus genus. ZIKV could be transmitted through mosquito bites. In the population, ZIKV can be transmitted through mother-to-child transmission, sexual transmission, and blood transmission. Clinical symp\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011770",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011770.g004&size=inline",
-      "publishedAt": "2023-11-20 14:00:00",
-      "content": "Abstract Zika virus can infect the fetus through the placental barrier, causing ZIKV congenital syndrome and even miscarriage, which can cause great harm to pregnant women and infants. Currently, th\u2026 [+55669 chars]",
-      "retrievedAt": "2023-11-21 19:05:37.019821",
-      "internal_id": "7adbcc572ce078fdb8ad165ae10ceff3d7fb207c9e617f2cd00ac00180216bdf",
-      "publishedAtLabel": "Nov 20"
-    },
-    {
-      "id": 3243,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Pratomporn Krangvichian, Teerasit Techawiwattanaboon, Tanapat Palaga, Patcharee Ritprajak, Patipark Kueanjinda, Chamraj Kaewraemruaen, Kanitha Patarakul",
-      "title": "Impaired functions of human monocyte-derived dendritic cells and induction of regulatory T cells by pathogenic Leptospira",
-      "description": "Author summary Dendritic cells (DCs) are critical antigen-presenting cells that link between innate and adaptive immune responses against pathogens. However, their role in the pathogenesis of human leptospirosis remains unclear. This study provides the first \u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011781",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011781.g007&size=inline",
-      "publishedAt": "2023-11-20 14:00:00",
-      "content": "Citation: Krangvichian P, Techawiwattanaboon T, Palaga T, Ritprajak P, Kueanjinda P, Kaewraemruaen C, et al. (2023) Impaired functions of human monocyte-derived dendritic cells and induction of regul\u2026 [+44121 chars]",
-      "retrievedAt": "2023-11-21 19:05:38.830946",
-      "internal_id": "f838ffccfcf8b8417fd19f177d51ea1fa78cbaada18c9580864ccd6d7f69937e",
-      "publishedAtLabel": "Nov 20"
-    },
-    {
-      "id": 3242,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Mark Kortepeter, Contributor, \n Mark Kortepeter, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/markkortepeter/",
-      "title": "Vaccine Against Chikungunya Approved By The FDA. Should You Get It?",
-      "description": "The Food and Drug Administration recently approved a vaccine against chikungunya (pronounced chi-kuhn-goo-nyuh), a virus spread by mosquitoes in tropical areas across ...",
-      "url": "https://www.forbes.com/sites/markkortepeter/2023/11/20/vaccine-against-chikungunya-approved-by-the-fda-should-you-get-it/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655a874fda89f2d7fcdff9b4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-20 12:37:57",
-      "content": "A patient infected with Chikungunya remains in a hospital of Acapulco, Guerrero State, Mexico on ... [+] April 15, 2015. AFP PHOTO/ PEDRO PARDO (Photo credit should read Pedro PARDO/AFP via Getty Ima\u2026 [+3843 chars]",
-      "retrievedAt": "2023-11-21 19:05:37.665300",
-      "internal_id": "3e745c80634fbe43a06ce32ffabfa4e724dc4d03c3edaf3512ee0eae1414b0c4",
-      "publishedAtLabel": "Nov 20"
-    },
-    {
-      "id": 3230,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Janice Hopkins Tanne",
-      "title": "Measles cases and deaths are increasing worldwide, say WHO and CDC",
-      "description": "The world faces a growing measles crisis with cases and deaths rising, the World Health Organization and the US Centers for Disease Control and Prevention (CDC) have said in a joint report.12From 2021 to 2022 measles cases increased internationally by 18% and\u2026",
-      "url": "https://www.bmj.com/content/383/bmj.p2733",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/383/8407.cover-source.jpg",
-      "publishedAt": "2023-11-20 12:26:12",
-      "content": "Janice Hopkins TanneNew York The world faces a growing measles crisis with cases and deaths rising, the World Health Organization and the US Centers for Disease\u2026 [+376 chars]",
-      "retrievedAt": "2023-11-21 19:05:34.704740",
-      "internal_id": "6edf1c6c9aae68ac5b34132f79ec6caf6441565aaa6747f4cf0b1cf816c7fb66",
-      "publishedAtLabel": "Nov 20"
-    },
-    {
-      "id": 3240,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Www.nu.nl",
-      "author": "onze nieuwsredactie",
-      "title": "Tijgermug is gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'",
-      "description": "De Aziatische tijgermug, die ernstige ziektes zoals knokkelkoorts en zika kan overbrengen op mensen, is afgelopen zomer in bijna heel Nederland aangetroffen. In totaal zijn in 35 Nederlandse gemeenten muggen bestreden.",
-      "url": "https://www.nu.nl/dieren/6290510/tijgermug-is-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html",
-      "urlToImage": "https://media.nu.nl/m/zj6xqhqacdqi_wd1280/tijgermug-is-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.jpg",
-      "publishedAt": "2023-11-20 12:19:30",
-      "content": "20 nov 2023 om 12:27 Update: 21 minuten geleden De Aziatische tijgermug, die ernstige ziektes zoals knokkelkoorts en zika kan overbrengen op mensen, is afgelopen zomer in bijna heel Nederland aange\u2026 [+1525 chars]",
-      "retrievedAt": "2023-11-21 19:05:37.015659",
-      "internal_id": "f49af556a371c58e68fc9f5882cb2e348c37ea63ecbf36e703eca5a9a5451050",
       "publishedAtLabel": "Nov 20"
     }
   ]
