@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-12-01 19:05",
+  "last_updated": "2023-12-02 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 28,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 3470,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+      "author": "En partenariat avec Destination Sant\u00e9",
+      "title": "Sant\u00e9. Variole du singe : faut-il craindre une explosion des cas dans le monde ?",
+      "description": "L\u2019Organisation mondiale de la Sant\u00e9 s\u2019inqui\u00e8te d\u2019une hausse des cas de variole du singe, d\u00e9sormais nomm\u00e9e Mpox, en R\u00e9publique d\u00e9mocratique du Congo et craint une propagation \u00e0 l\u2019\u00e9chelle mondiale.",
+      "url": "https://www.ledauphine.com/magazine-sante/2023/12/01/variole-du-singe-faut-il-craindre-une-explosion-des-cas-dans-le-monde",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/44E502C9-846D-41D8-8526-9BFE1E1D6C47/FB1200/photo-1701357256.jpg",
+      "publishedAt": "2023-12-01 05:15:00",
+      "content": "\u00ab Le risque de propagation du Mpox aux pays voisins et dans le monde entier semble important \u00bb. L\u2019Organisation mondiale de la Sant\u00e9 (OMS) a alert\u00e9 jeudi 23 novembre sur la situation \u00e9pid\u00e9mie de Mpox \u2026 [+3310 chars]",
+      "retrievedAt": "2023-12-02 07:05:49.191840",
+      "internal_id": "c6c2cf5df6529dbe5c43a0c997bfa8a180da70b7d3cc87494283004b6932fce0",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 3469,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Climate Change Risks Upending Global Fight Against Malaria - WHO",
+      "description": "[UN News] Climate change and its impacts, particularly extreme weather and heatwaves, pose a \"substantial risk\" to progress being made to fight malaria, the UN World Health Organization (WHO) said on Thursday.",
+      "url": "https://allafrica.com/stories/202312010004.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-01 04:45:53",
+      "content": "Climate change and its impacts, particularly extreme weather and heatwaves, pose a \"substantial risk\" to progress being made to fight malaria, the UN World Health Organization (WHO) said on Thursday.\u2026 [+4079 chars]",
+      "retrievedAt": "2023-12-02 07:05:48.197637",
+      "internal_id": "07993aa9ff0ef488363ff5866732c652ff2041687d7c328839f4842782f0d351",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 3468,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Per\u00edodo de calor e chuva multiplica casos de dengue em Campinas; veja 15 medidas de preven\u00e7\u00e3o",
+      "description": "Somentre entre outubro e a 1\u00aa quinzena de novembro, cidade registrou alta de 32,7% nos infectados, e ainda h\u00e1 600 casos em investiga\u00e7\u00e3o. Veja, abaixo, medidas preventivas contra o mosquito transmissor. Campinas (SP) refor\u00e7a import\u00e2ncia de combate aos criadour\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/11/30/periodo-de-calor-e-chuva-multiplica-casos-de-dengue-em-campinas-veja-15-medidas-de-prevencao.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/Aa2OxfZvoUF1K96KIe9Xd-qwLms=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/8/O/B9DguGTESByAB7OuBAKA/dengue4.jpg",
+      "publishedAt": "2023-11-30 21:55:54",
+      "content": "A combina\u00e7\u00e3o entre calor e chuva cria um cen\u00e1rio ideal para prolifera\u00e7\u00e3o do mosquito Aedes aegypit e, com isso, os casos de dengue se multiplicam. Em Campinas (SP), o n\u00famero de infectados cresceu 32,\u2026 [+4102 chars]",
+      "retrievedAt": "2023-12-02 07:05:47.154376",
+      "internal_id": "0e0b7c17c88e1c29d5155a19a2c5597e0dc645115df76ca3f32511b9da127110",
+      "publishedAtLabel": "Nov 30"
+    },
+    {
+      "id": 3467,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "S\u00e3o Paulo mobiliza popula\u00e7\u00e3o contra aedes aegypti",
+      "description": "Entre os dias 27 de setembro e 2 de dezembro, o governo estadual intensiva a conscientiza\u00e7\u00e3o das pessoas sobre o combate ao mosquito e a preven\u00e7\u00e3o de sua reprodu\u00e7\u00e3o",
+      "url": "https://brasil.perfil.com/brasil/sao-paulo-mobiliza-populacao-contra-aedes-aegypti.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/30/12317735-ebc.png",
+      "publishedAt": "2023-11-30 20:37:55",
+      "content": "O estado de S\u00e3o Paulo realiza nesta semana uma mobiliza\u00e7\u00e3o da popula\u00e7\u00e3o contra o mosquito aedes aegypti, momento que aproveita para alertar para a dificuldade de se discernir quadros de dengue, chiku\u2026 [+2860 chars]",
+      "retrievedAt": "2023-12-02 07:05:47.127993",
+      "internal_id": "28becac342275b44949f3adc8e408bd604a8a0f23d4f3e0124e10fd434fc4f8f",
+      "publishedAtLabel": "Nov 30"
+    },
     {
       "id": 3465,
       "query": [
@@ -3542,79 +3614,6 @@
       "content": "CALDWELL, Idaho (CBS2) Southwest District Health (SWDH) announces the first case of mpox, formerly known as monkeypox, in its jurisdiction. It was detected in mid-November in a man who lives in Canyo\u2026 [+1178 chars]",
       "retrievedAt": "2023-11-22 19:05:35.503453",
       "internal_id": "fddb37f36c09252d1544669e6e6d65c0240ed2475a9e0c8adc25eb75adbb7da1",
-      "publishedAtLabel": "Nov 21"
-    },
-    {
-      "id": 3270,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Peter Kasson",
-      "title": "How do viruses get into cells? Their infection tactics determine whether they can jump species or set off a pandemic",
-      "description": "COVID-19, flu, mpox, noroviral diarrhea: How do the viruses that cause these diseases actually infect you?",
-      "url": "https://phys.org/news/2023-11-viruses-cells-infection-tactics-species.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/how-do-viruses-get-int.jpg",
-      "publishedAt": "2023-11-21 16:30:08",
-      "content": "COVID-19, flu, mpox, noroviral diarrhea: How do the viruses that cause these diseases actually infect you? Viruses cannot replicate on their own, so they must infect cells in your body to make more \u2026 [+5212 chars]",
-      "retrievedAt": "2023-11-22 19:05:35.500102",
-      "internal_id": "da4b3c40fa706e52785ac1a8a2c9d024298285923758b78a33a71c62118b51b6",
-      "publishedAtLabel": "Nov 21"
-    },
-    {
-      "id": 3272,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Andi Firdaus, Raka Adji",
-      "title": "Mpox cases detected in five provinces: Health Ministry",
-      "description": "The Ministry of Health on Tuesday reported that cases of monkeypox (mpox) have been detected in five Indonesian provinces based on the latest count. The provinces are Jakarta, West Java, Banten, Riau Islands, and East ...",
-      "url": "https://en.antaranews.com/news/299196/mpox-cases-detected-in-five-provinces-health-ministry",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/21/Screenshot_20231121_162159_Gallery.jpg",
-      "publishedAt": "2023-11-21 15:57:20",
-      "content": "The total mpox (cases) as of November 20, 2023, reached 51 cases confirmed, and 30 patients (out) of those have recovered. Jakarta (ANTARA) - The Ministry of Health on Tuesday reported that cases of\u2026 [+1871 chars]",
-      "retrievedAt": "2023-11-22 19:05:35.506695",
-      "internal_id": "02f791bfa53118635ae3fc14634d3eeebf5d4ab38f760200724f89726a83051d",
-      "publishedAtLabel": "Nov 21"
-    },
-    {
-      "id": 3263,
-      "query": [
-        "dengue",
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "EL UNIVERSAL",
-      "title": "Dengue y Leptospirosis en la mira: Dadis intensifica campa\u00f1a de concientizaci\u00f3n",
-      "description": "En un esfuerzo por combatir la propagaci\u00f3n del dengue y la leptospirosis, el equipo de profesionales del Departamento Administrativo Distrital de Salud (Dadis) se ha lanzado a la acci\u00f3n en los barrios de Nelson Mandela, San Fernando, San Jos\u00e9 de los Campanos \u2026",
-      "url": "https://www.eluniversal.com.co/cartagena/dengue-y-leptospirosis-en-la-mira-dadis-intensifica-campana-de-concientizacion-HI9486229",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/0c0/800d686/none/13704/BBDM/mg-2702_8976739_20231121101807.jpg",
-      "publishedAt": "2023-11-21 15:20:27",
-      "content": "En un esfuerzo por combatir la propagaci\u00f3n del dengue y la leptospirosis, el equipo de profesionales del Departamento Administrativo Distrital de Salud (Dadis) se ha lanzado a la acci\u00f3n en los barrio\u2026 [+2144 chars]",
-      "retrievedAt": "2023-11-22 19:05:34.304054",
-      "internal_id": "94d138954480fe12761c8331d920b98234a8f007b698338ff2698cc7734fecf9",
-      "publishedAtLabel": "Nov 21"
-    },
-    {
-      "id": 3260,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Ummul-khair Mustafa, Elingarami Sauli, Johanna Brinkel, Katharina Sophia Kreppel",
-      "title": "Health professionals\u2019 knowledge on dengue and health facility preparedness for case detection: A cross-sectional study in Dar es Salaam, Tanzania",
-      "description": "Author summary Dengue is a growing public health concern in Tanzania, particularly in the Dar es Salaam region, where outbreaks are common. However, little is known about the region\u2019s preparedness for dengue outbreaks, including the knowledge of health care w\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011761",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011761.g003&size=inline",
-      "publishedAt": "2023-11-21 14:00:00",
-      "content": "Abstract Dengue presents a growing public health concern in the Dar es Salaam region of Tanzania, marked by the recurring incidence of outbreaks. Unfortunately, there is little information available\u2026 [+58002 chars]",
-      "retrievedAt": "2023-11-22 19:05:34.279519",
-      "internal_id": "72a0698ff93c51616b5ab4d95753aba9827a473c26bddf0e762602d7db2c2295",
       "publishedAtLabel": "Nov 21"
     }
   ]
