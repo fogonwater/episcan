@@ -1,8 +1,134 @@
 {
-  "last_updated": "2023-12-02 07:05",
+  "last_updated": "2023-12-02 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 4,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 3475,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Clare Roth / Deutsche Welle",
+      "title": "Drastycznie wzros\u0142a liczba przypadk\u00f3w dengi w Europie. Przyczyn jest kilka",
+      "description": "W 2023 roku w Europie odnotowano najwy\u017csz\u0105 od niemal 80 lat liczb\u0119 lokalnie przenoszonych zaka\u017ce\u0144 wirusem dengi. Wed\u0142ug ekspert\u00f3w jest wiele mo\u017cliwych wyja\u015bnie\u0144 dla wzrostu przypadk\u00f3w lokalnie przenoszonej dengi w 2023 roku, ale jasnej odpowiedzi jak dot\u0105d ni\u2026",
+      "url": "https://wiadomosci.gazeta.pl/wiadomosci/7,127561,30463961,rosnie-liczba-przypadkow-dengi-w-europie.html",
+      "urlToImage": "https://bi.im-g.pl/im/a5/0d/1d/z30464677IER,Test-na-denge.jpg",
+      "publishedAt": "2023-12-01 16:02:00",
+      "content": "Przypadki dengi powi\u0105zane (podobnie jak malaria) z podr\u00f3\u017cami nie s\u0105 w Europie rzadko\u015bci\u0105. Ludzie wracaj\u0105 do domu z obszaru zagro\u017conego jej wyst\u0119powaniem, zaka\u017caj\u0105 si\u0119 wirusem dengi, choruj, kilka dni\u2026 [+6608 chars]",
+      "retrievedAt": "2023-12-02 19:05:14.943806",
+      "internal_id": "75437015a56f2734188bae01a49944dcfcf08fef43fa855759dc06d8499d2106",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 3473,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sabine Schmidt, Jan Stephan Wichers-Misterek, Hannah Michaela Behrens, Jakob Birnbaum, Isabelle G. Henshall, Jana Dr\u00f6ge, Ernst Jonscher, Sven Flemming, Carolina Castro-Pe\u00f1a, Paolo Mes\u00e9n-Ram\u00edrez, Tobias Spielmann",
+      "title": "The Kelch13 compartment contains highly divergent vesicle trafficking proteins in malaria parasites",
+      "description": "Author summary Malaria parasites growing in red blood cells take up host cell cytosol by a poorly understood endocytic mechanism. Kelch13, the protein mutated in parasites with lowered susceptibility to Artemisinin-drugs (ART), is involved in this process and\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011814",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011814.g005&size=inline",
+      "publishedAt": "2023-12-01 14:00:00",
+      "content": "Introduction Malaria, caused by protozoan parasites of the genus Plasmodium, is one of the deadliest infectious diseases, responsible for an estimated 627 000 deaths and 241 million cases in 2020 [1\u2026 [+102880 chars]",
+      "retrievedAt": "2023-12-02 19:05:14.919109",
+      "internal_id": "c09685d092514604928d3ff65f10cbdd494e2c64d35471d6e68892043ad9224d",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 3474,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Tadesse Duguma, Dessalew Wudineh, Aberash Assefa, Nebeyi Fisseha, Dassalegn Muleta",
+      "title": "Malaria prevalence and associated factors among symptomatic children aged under five years attending Sheko District Health Center, Southwest Ethiopia: A cross-sectional study",
+      "description": "Background Malaria is a major cause of morbidity and mortality in children under the age of five worldwide. Although various malaria elimination measures have been implemented over the past decades, malaria remains a serious threat to public health, especiall\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295237",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0295237.g001&size=inline",
+      "publishedAt": "2023-12-01 14:00:00",
+      "content": "Abstract Background Malaria is a major cause of morbidity and mortality in children under the age of five worldwide. Although various malaria elimination measures have been implemented over the pas\u2026 [+37177 chars]",
+      "retrievedAt": "2023-12-02 19:05:14.933182",
+      "internal_id": "4959c8a65dbfc34eb06966f5341d6833a7683c2c5d7f76f6bdcfd2752641b969",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 3472,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Elisabeth Mahase",
+      "title": "Malaria: Climate change poses \u201csubstantial risk to progress,\u201d WHO warns",
+      "description": "A \u201csubstantial pivot\u201d is needed to get the fight against malaria back on track after a pause in progress, the World Health Organization has warned.1There were an estimated 249 million malaria cases globally in 2022\u201416 million more than in 2019 (233m)\u2014said WHO\u2026",
+      "url": "https://www.bmj.com/content/383/bmj.p2848",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/383/8409.cover-source.jpg",
+      "publishedAt": "2023-12-01 13:01:09",
+      "content": "A substantial pivot is needed to get the fight against malaria back on track after a pause in progress, the World Health Organization has warned.1 There were an estimated 249 million malaria cases g\u2026 [+208 chars]",
+      "retrievedAt": "2023-12-02 19:05:14.905492",
+      "internal_id": "96ebcb5f59eb5bac9dc7426db077b744ad1e1338430434e18711fc3774a8cb4c",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 3477,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Simple-to-apply, needle-free vaccine patch developed against Zika infection",
+      "description": "Limited global surveillance shows Zika virus is active in at least 89 countries and territories but there is no currently licensed vaccine, said Branka Grubor-Bauk, an Associate Professor at the University of Adelaide. \"This vaccine is unique because it targe\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/simple-to-apply-needle-free-vaccine-patch-developed-against-zika-infection/articleshow/105655286.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-105655322,width-1200,height-630,imgsize-14106,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-12-01 10:27:20",
+      "content": "Scientists have developed a simple-to-apply, needle-free vaccine patch that may protect people from the potentially deadly mosquito-borne Zika virus. The experimental vaccine developed by researchers\u2026 [+2817 chars]",
+      "retrievedAt": "2023-12-02 19:05:15.328571",
+      "internal_id": "30e30e5e70f6f2d7538a6fd4c157e49ceaa7e3004e5ffea3036ad43df3b3fe26",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 3471,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "AFP",
+      "title": "Stiko empfiehlt Impfstoff gegen Dengue nach vorheriger Infektion",
+      "description": "Die St\u00e4ndige Impfkommission hat eine Impfung gegen Dengue-Fieber empfohlen. Gerade Zweitinfektionen der Tropenkrankheit sind gef\u00e4hrlich.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/stiko-empfiehlt-dengue-imfpung-nach-vorheriger-infektion-19353121.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/2622988358/1.9353149/facebook_teaser/dengue-fieber-wird-durch.jpg",
+      "publishedAt": "2023-12-01 08:53:49",
+      "content": "Die St\u00e4ndige Impfkommission (Stiko) hat erstmals einen Impfstoff gegen Dengue-Fieber empfohlen. Der neue Impfstoff Qdenga werde Personen ab vier Jahren empfohlen, die bereits eine labordiagnostisch b\u2026 [+1491 chars]",
+      "retrievedAt": "2023-12-02 19:05:14.056457",
+      "internal_id": "0fd957a76f475a17890d0f8d5a0792daa00f802fb2b1136b45e43f3b82a8014a",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 3476,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "World at risk of losing malaria fight as cases rise, report says - Reuters",
+      "description": "World at risk of losing malaria fight as cases rise, report saysReuters Climate Change Drives New Cases of Malaria, Complicating Efforts to Fight the DiseaseThe New York Times Malaria cases surged last year, driven by extreme weather eventsThe Washington Post\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172343071",
+      "urlToImage": null,
+      "publishedAt": "2023-12-01 07:32:13",
+      "content": "\"Can you program?\" \"Well, I'm literate, if that's what you mean!\"",
+      "retrievedAt": "2023-12-02 19:05:14.951212",
+      "internal_id": "cc11ec308a1d52c6d11f220865cf20c625e785cdefe4d5f6c9baa554fba7507c",
+      "publishedAtLabel": "Dec 1"
+    },
     {
       "id": 3470,
       "query": [
@@ -3489,132 +3615,6 @@
       "retrievedAt": "2023-11-23 19:05:25.538995",
       "internal_id": "e323c9bfe950d156534c673515ecb39bd1ec2ca4e3553dc19879dbdfa47d066c",
       "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3281,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "etimes.in",
-      "title": "Bhumi shares PICS from hospital",
-      "description": "Bhumi Pednekar reveals she got Dengue and was hospitalised, thus asks people to take care of themselves and their immunity...",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhumi-pednekar-shares-shes-been-hospitalised-urges-people-to-be-careful-says-last-few-days-were-tough/articleshow/105409490.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105409495,width-1070,height-580,imgsize-47154,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-22 07:41:07",
-      "content": "Eyes that enchant: Keerthy Suresh's captivating clicks",
-      "retrievedAt": "2023-11-23 19:05:25.542085",
-      "internal_id": "4a6020d6c0799721fc2864e70ffb8474e5e19a960b597dbdb3a0d9cb99236be8",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3274,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: Groundbreaking Malaria Vaccines Developed, but Challenges Remain",
-      "description": "[The Conversation Africa] The approval of two malaria vaccines - the RTS,S/AS01 vaccine in 2021 and the R21/Matrix-MTM vaccine in 2023 - will help control, and eventually help eradicate, a disease that causes more than 600,000 deaths annually. Nearly 2 millio\u2026",
-      "url": "https://allafrica.com/stories/202311220001.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-22 04:23:08",
-      "content": "The approval of two malaria vaccines - the RTS,S/AS01 vaccine in 2021 and the R21/Matrix-MTM vaccine in 2023 - will help control, and eventually help eradicate, a disease that causes more than 600,00\u2026 [+5494 chars]",
-      "retrievedAt": "2023-11-23 07:05:48.488683",
-      "internal_id": "918cdacc10a969ca05ca56fa39def99eea062cbdb7a28303f10213c1e310f377",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3273,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "SHARON LING",
-      "title": "Curbing rabies in Sarawak an uphill battle, state assembly hears",
-      "description": "KUCHING: Rabies cases continue to occur in Sarawak due to a high stray animal population and low public awareness of the disease, the state assembly heard on Wednesday (Nov 22). Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/11/22/curbing-rabies-in-sarawak-an-uphill-battle-state-assembly-hears",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/11/22/2401165.jpg",
-      "publishedAt": "2023-11-22 04:04:00",
-      "content": "KUCHING: Rabies cases continue to occur in Sarawak due to a high stray animal population and low public awareness of the disease, the state assembly heard on Wednesday (Nov 22). State Deputy Food In\u2026 [+2019 chars]",
-      "retrievedAt": "2023-11-23 07:05:47.332066",
-      "internal_id": "6c5df69c9d43e3624e27f138122c263a1b1a7781c847a8f4121d5833fa10c970",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3276,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nation.africa",
-      "author": "Leon Lidigu",
-      "title": "Deadly mosquito species now in Kenya",
-      "description": "While malaria causing mosquitoes are predominantly breed in rural areas, new species is thriving in urban areas.",
-      "url": "https://nation.africa/kenya/health/deadly-mosquito-species-now-in-kenya-4441140",
-      "urlToImage": "https://nation.africa/resource/image/4441154/landscape_ratio3x2/1200/800/48811165ce38820aa0d4366acc3afc33/yr/mosquito.jpg",
-      "publishedAt": "2023-11-22 03:20:35",
-      "content": "A deadly mosquito species that has the ability to transmit two parasites has landed in Kenya from Ethiopia, and is likely to fuel malaria infections especially in Northern Kenya, the Centers for Dise\u2026 [+3453 chars]",
-      "retrievedAt": "2023-11-23 07:05:48.517233",
-      "internal_id": "9128bda66888e92c110c36e148d63dffdd730ad12405dfdf0b85604493e66805",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3275,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Record.com.mx",
-      "author": "Record.com.mx",
-      "title": "Lionel Messi y la cuenta pendiente que tiene contra Brasil",
-      "description": "El capit\u00e1n de la Albiceleste nunca le ha hecho gol a la Verdeamarela en partido oficial; buscar\u00e1 cortar la 'malaria' en el Maracan\u00e1",
-      "url": "https://www.record.com.mx/futbol-futbol-internacional-internacionales/lionel-messi-y-la-cuenta-pendiente-que-tiene-contra",
-      "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2023/11/21/messi-brasil-1.jpg",
-      "publishedAt": "2023-11-21 19:36:32",
-      "content": "Brasily Argentina disputar\u00e1n una edici\u00f3n m\u00e1s del Cl\u00e1sico Sudamericano por la sexta jornada de las Eliminatorias, donde Lionel Messitiene una cuenta pendiente ante la Verdeamarela: hacerle gol por pri\u2026 [+857 chars]",
-      "retrievedAt": "2023-11-23 07:05:48.503191",
-      "internal_id": "b8d339b7a754a3cba1c44241a981293ff77e575c2c9319f6c98ed254d0a053d1",
-      "publishedAtLabel": "Nov 21"
-    },
-    {
-      "id": 3268,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "En partenariat avec Destination Sant\u00e9",
-      "title": "Sant\u00e9. Moustique-tigre : un premier vaccin contre le chikungunya autoris\u00e9",
-      "description": "L\u2019Agence am\u00e9ricaine du m\u00e9dicament vient d\u2019autoriser la commercialisation du tout premier vaccin contre le virus du chikungunya, fabriqu\u00e9 par le groupe Valneva.",
-      "url": "https://www.ledauphine.com/magazine-sante/2023/11/21/moustique-tigre-un-premier-vaccin-contre-le-chikungunya-autorise",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/58117EB9-3885-4F36-BD5B-06B25BF79F7A/FB1200/photo-1700485649.jpg",
-      "publishedAt": "2023-11-21 18:00:00",
-      "content": "La Food and drug administration (FDA), agence am\u00e9ricaine du m\u00e9dicament, a approuv\u00e9 jeudi 9 novembre le tout premier vaccin au monde contre le chikungunya. \u00ab Ixchiq est autoris\u00e9 pour les personnes de \u2026 [+3051 chars]",
-      "retrievedAt": "2023-11-22 19:05:35.310140",
-      "internal_id": "07ab31dc98eee8c31d64437f7e9a5daf7e5582004f18506e1324e92ad4e44dd8",
-      "publishedAtLabel": "Nov 21"
-    },
-    {
-      "id": 3271,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Idaho News",
-      "author": "Cbs2 News Staff",
-      "title": "First case of mpox detected in Canyon County, health officials start investigation",
-      "description": "Southwest District Health (SWDH) announces the first case of mpox, formerly known as monkeypox, in its jurisdiction. It was detected mid-November.",
-      "url": "https://idahonews.com/news/local/first-case-of-mpox-detected-in-canyon-county-health-officials-start-investigation",
-      "urlToImage": "https://idahonews.com/resources/media/f008985c-0c0c-4bc0-bc79-a176e98f7012-large16x9_09e2c551989f43c69a83755c8a0e7413large16x9_monkeypox.png?1657136475563",
-      "publishedAt": "2023-11-21 17:54:51",
-      "content": "CALDWELL, Idaho (CBS2) Southwest District Health (SWDH) announces the first case of mpox, formerly known as monkeypox, in its jurisdiction. It was detected in mid-November in a man who lives in Canyo\u2026 [+1178 chars]",
-      "retrievedAt": "2023-11-22 19:05:35.503453",
-      "internal_id": "fddb37f36c09252d1544669e6e6d65c0240ed2475a9e0c8adc25eb75adbb7da1",
-      "publishedAtLabel": "Nov 21"
     }
   ]
 }
