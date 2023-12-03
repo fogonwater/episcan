@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-12-03 07:05",
+  "last_updated": "2023-12-03 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 2,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 3483,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "MAYRA MEJ\u00cdA AGUILAR",
+      "title": "En Cartagena el dengue afecta m\u00e1s a los pobres",
+      "description": "En vista de los \u00edndices de dengue en Cartagena durante el \u00faltimo a\u00f1o, El Universal entrevist\u00f3 al director del Departamento Administrativo Distrital de Salud (Dadis), Jos\u00e9 Saavedra, quien recalc\u00f3 que, en contraste al 2022, este a\u00f1o la situaci\u00f3n mejor\u00f3 en un 31\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/en-cartagena-el-dengue-afecta-mas-a-los-pobres-XH9559505",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1224x686/56c0/800d686/none/13704/RIHJ/fumigacion_9064284_20231202133832.jpg",
+      "publishedAt": "2023-12-02 18:39:33",
+      "content": "En vista de los \u00edndices de dengue en Cartagena durante el \u00faltimo a\u00f1o, El Universal entrevist\u00f3 al director del Departamento Administrativo Distrital de Salud (Dadis), Jos\u00e9 Saavedra, quien recalc\u00f3 que,\u2026 [+5933 chars]",
+      "retrievedAt": "2023-12-03 19:05:19.889067",
+      "internal_id": "f0b67c2c67d317b63361b80d2d612775b472d5bd6799385bce95f75ff9bf0583",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 3485,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Christine Ro, Contributor, \n Christine Ro, Contributor\n https://www.forbes.com/sites/christinero/",
+      "title": "The Surprising Link Between Malaria And River Color",
+      "description": "Suspended sediments are key to this relationship between river color and malaria, as shown by black-water and white-water rivers in the Brazilian Amazon.",
+      "url": "https://www.forbes.com/sites/christinero/2023/12/02/the-surprising-link-between-malaria-and-river-color/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/656b6577a86df4ef7e000496/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-12-02 17:22:12",
+      "content": "A family shelters under mosquito nets in Amazonas State, Brazil. (Photo by J R Ripper/Brazil Photos) LightRocket via Getty Images Theres some sobering news from the latest edition of the World Heal\u2026 [+3886 chars]",
+      "retrievedAt": "2023-12-03 19:05:21.036138",
+      "internal_id": "1e5245d487f9e886181f8f4cf9bdaed52f12527e106bfdd01f203c53968dfd82",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 3484,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "WWD",
+      "author": "Marisa Guthrie",
+      "title": "How Calico Wallpaper Has Transformed Home Decor Into High Art",
+      "description": "As they mark 10 years, Nick and Rachel Cope are continually pushing creative boundaries with new collaborations and techniques.",
+      "url": "https://wwd.com/home-design/home-decor/calico-wallpaper-home-decor-art-1235929501/",
+      "urlToImage": "https://wwd.com/wp-content/uploads/2023/11/NickRachelCopeCalico_Photo-Credit-William-Jess-Laird.jpg?w=1024",
+      "publishedAt": "2023-12-02 17:19:00",
+      "content": "Wallpaper does not fare well in literature. Oscar Wilde, dying of meningitis in a dingy hotel room in Paris\u2019 Latin Quarter, cursed the revolting paper on the walls. \u201cMy wallpaper and I are fighting a\u2026 [+10632 chars]",
+      "retrievedAt": "2023-12-03 19:05:20.154059",
+      "internal_id": "02a0f6cf290342b1fbc50041305f3e7f03df689a0da5e452ae3487f03a43b277",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 3487,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Theglobalfund.org",
+      "author": "The Global Fund",
+      "title": "Climate Change and Health",
+      "description": "Climate Change and Healththeglobalfund.org",
+      "url": "https://www.theglobalfund.org/en/climate-change/",
+      "urlToImage": "https://www.theglobalfund.org/media/13484/climate-change.jpg?center=0.53031795537322535,0.53464065223757928&mode=crop&width=800&height=800&rnd=133458142990800000",
+      "publishedAt": "2023-12-02 16:56:11",
+      "content": "The Challenge Climate change is the largest global health challenge of the 21st century. It represents a profound threat to the Global Funds mission to defeat HIV, tuberculosis (TB) and malaria, sav\u2026 [+1303 chars]",
+      "retrievedAt": "2023-12-03 19:05:21.081885",
+      "internal_id": "9b6864d0019aa85c2100e99c038563fc6f17a536823cef2009431fcea1666dfe",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 3482,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Carole Dieterich",
+      "title": "Le Bangladesh fait face \u00e0 la pire \u00e9pid\u00e9mie de dengue jamais enregistr\u00e9e dans le pays",
+      "description": "Le d\u00e9r\u00e8glement climatique, caract\u00e9ris\u00e9 au Bangladesh par de longues moussons erratiques et des temp\u00e9ratures plus \u00e9lev\u00e9es, favorise la reproduction des moustiques \u00ab Aedes \u00bb, principaux vecteurs de la dengue, qui a caus\u00e9 cette ann\u00e9e la mort de plus de 1 600 per\u2026",
+      "url": "https://www.lemonde.fr/planete/article/2023/12/02/le-bangladesh-fait-face-a-la-pire-epidemie-de-dengue-jamais-enregistree-dans-le-pays_6203559_3244.html",
+      "urlToImage": "https://img.lemde.fr/2023/11/14/0/0/8256/5504/1440/960/60/0/7bbcc51_2023-11-14t034056z-1373459227-rc2wq3azi8y4-rtrmadp-3-bangladesh-disease-dengue.JPG",
+      "publishedAt": "2023-12-02 16:47:48",
+      "content": "Une op\u00e9ration de d\u00e9moustication, \u00e0 Dacca, le 12 octobre 2023. FATIMA TUJ JOHORA / REUTERS Des dizaines de patients fi\u00e9vreux mis sous perfusion sont allong\u00e9s sur des lits, align\u00e9s les uns \u00e0 la suite \u2026 [+2723 chars]",
+      "retrievedAt": "2023-12-03 19:05:19.866801",
+      "internal_id": "a20070bf86941ab74d061afe6f26da742e5e289486432c76f79e276ae8f76755",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 3486,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Climate Change Identified As Serious Threat in Fight to End Malaria",
+      "description": "Press Release - New findings published today by the World Health Organization (WHO) in its 2023 World Malaria Report have revealed that the number of malaria cases globally rose between 2019 (pre-pandemic) and 2022. Cases rose by 16 million in this period, fr\u2026",
+      "url": "https://allafrica.com/stories/202312020021.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-02 09:04:12",
+      "content": "New findings published today by the World Health Organization (WHO) in its 2023 World Malaria Report have revealed that the number of malaria cases globally rose between 2019 (pre-pandemic) and 2022.\u2026 [+7316 chars]",
+      "retrievedAt": "2023-12-03 19:05:21.060304",
+      "internal_id": "27d7b71d096846c847b687de4d177d334c2996503ef260d9369fe2313ef3e395",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 3481,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "As temperatures rise, dengue fever infections keep surging around the world",
+      "description": "The explosive spread of dengue offers a case study in how climate change, human movement, and rising temperatures are all coaligning to fuel the expansion of potentially deadly threats to human health.",
+      "url": "https://www.cbc.ca/news/health/dengue-fever-climate-change-1.7043918",
+      "urlToImage": "https://i.cbc.ca/1.3424196.1701378053!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aedes-aegypti.jpg",
+      "publishedAt": "2023-12-02 09:00:00",
+      "content": "This story is part of CBC Health's Second Opinion, a weekly analysis of health and medical science news emailed to subscribers on Saturday mornings. If you haven't subscribed yet, you can do that by \u2026 [+8205 chars]",
+      "retrievedAt": "2023-12-03 19:05:19.857113",
+      "internal_id": "e3c152b9979e882113cd7405556f8f40fed1a917b8421ddd79e04ba6f133d6b2",
+      "publishedAtLabel": "Dec 2"
+    },
+    {
+      "id": 3480,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The West Australian",
+      "author": "The West Australian",
+      "title": "Department of Health issues measles alert, says it will contact people who had been exposed \u2018where known\u2019",
+      "description": "West Australians are being warned to stay \u2018alert to the risk of measles\u2019 after a child spent time in the community while infectious with the disease.",
+      "url": "https://thewest.com.au/news/wa/department-of-health-issues-measles-alert-says-it-will-contact-people-who-had-been-exposed-where-known--c-12762687",
+      "urlToImage": "https://images.thewest.com.au/publication/C-12762687/485988d6ae7eafa9c26b567522912928a6ef48e8-16x9-x0y32w794h447.jpg?imwidth=1200",
+      "publishedAt": "2023-12-02 08:24:29",
+      "content": "West Australians are being warned to stay alert to the risk of measles after a child spent time in the community while infectious with the disease. The Department of Health issued the alert on Satur\u2026 [+1327 chars]",
+      "retrievedAt": "2023-12-03 19:05:19.112081",
+      "internal_id": "8a918ea80bddb9a0700b66397594f57767b7bb0c4ace9a973cee6c841c8da225",
+      "publishedAtLabel": "Dec 2"
+    },
     {
       "id": 3478,
       "query": [
@@ -19,6 +163,24 @@
       "content": "Climate change \u2014 and the extreme weather events it brings \u2014 could raise global malaria rates, the World Health Organization (WHO) warned Thursday (Nov. 30). \"The changing climate poses a substantial\u2026 [+3159 chars]",
       "retrievedAt": "2023-12-03 07:05:33.027055",
       "internal_id": "422cf53e1aa09b8c378d8abddef5bad3a26d2a76d23aca88b59fb33194728848",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 3488,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "A patch of protection against Zika virus",
+      "description": "A simple-to-apply, needle-free vaccine patch is being developed to protect people from the potentially deadly mosquito-borne Zika virus.",
+      "url": "https://www.sciencedaily.com/releases/2023/12/231201123720.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-12-01 17:37:20",
+      "content": "A simple-to-apply, needle-free vaccine patch is being developed to protect people from the potentially deadly mosquito-borne Zika virus.A prototype using The University of Queensland-developed and Va\u2026 [+2911 chars]",
+      "retrievedAt": "2023-12-03 19:05:21.416365",
+      "internal_id": "64bed15cb0dd20d79b0f4514675c3a87c66365a7da9d7a018fdd87577d12959d",
       "publishedAtLabel": "Dec 1"
     },
     {
@@ -3452,168 +3614,6 @@
       "content": "Albumedix Ltd ('Albumedix'), now part of the life science group Sartorius, announces that Recombumin is critical to the manufacture of the first FDA- licensed chikungunya vaccine.Valneva's lyophilize\u2026 [+3043 chars]",
       "retrievedAt": "2023-11-23 19:05:26.932773",
       "internal_id": "c1d4b8cec2e1c560289802c746f15e3051e694fe6b3f3f07c200384b3e8c27cf",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3278,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Cheng, M., Lan, T., Geater, A., Deng, Q.-Y., Lin, Y.-D., Jiang, L.-Y., Chen, N., Zhu, M.-T., Li, Q., Tang, X.-Y.",
-      "title": "Health system barriers to timely routine measles vaccinations in rural southwest China: a qualitative study on the perspectives of township vaccination professionals and village doctors",
-      "description": "Objectives A well-functioning health system ensures timely routine measles vaccinations for age-appropriate children, minimising measles risk. However, there is limited knowledge about the impact of the performance of immunisation programmes in health systems\u2026",
-      "url": "https://bmjopen.bmj.com/content/13/11/e072990?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-11-22 16:12:26",
-      "content": "Introduction Measles is a highly contagious respiratory disease that remains an important cause of childhood mortality in developing countries.1 Despite the availability of vaccines, it causes more \u2026 [+15624 chars]",
-      "retrievedAt": "2023-11-23 19:05:25.109689",
-      "internal_id": "12e0d8dbce0192664fb9b00582fdf5084ed7e455af567980499ef0cac8b23c98",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3290,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.nu.nl",
-      "author": "onze nieuwsredactie",
-      "title": "Kameroen ontvangt als eerste land malariavaccin Mosquirix",
-      "description": "Kameroen heeft als eerste Afrikaanse land het malariavaccin Mosquirix ontvangen. Op het vliegveld van hoofdstad Yaound\u00e9 zijn dinsdagavond meer dan 331.000 doses aangekomen. De eerste vaccinaties zullen eind december of begin volgend jaar gezet worden.",
-      "url": "https://www.nu.nl/buitenland/6290845/kameroen-ontvangt-als-eerste-land-malariavaccin-mosquirix.html",
-      "urlToImage": "https://media.nu.nl/m/kg8xvpiaj55h_wd1280/kameroen-ontvangt-als-eerste-land-malariavaccin-mosquirix.jpg",
-      "publishedAt": "2023-11-22 16:09:58",
-      "content": "Kameroen heeft als eerste Afrikaanse land het malariavaccin Mosquirix ontvangen. Op het vliegveld van hoofdstad Yaound\u00e9 zijn dinsdagavond meer dan 331.000 doses aangekomen. De eerste vaccinaties zull\u2026 [+970 chars]",
-      "retrievedAt": "2023-11-23 19:05:26.371426",
-      "internal_id": "232ef4d2bbd071f700a7aa3ce7da8986eaa283898e7bf0e2690caff318a7e8e4",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3292,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "PT Jyothi Datta",
-      "title": "Valneva keen to bring its chikungunya vaccine, the world\u2019s first, to India",
-      "description": "Valneva, a French specialty vaccine co., plans to bring world's first chikungunya vaccine to India. They are in talks with DCGI to discuss availability timeline. CEPI is collaborating with vaccine makers in Asia to bring vaccine to developing countries. India\u2026",
-      "url": "https://www.thehindubusinessline.com/news/national/valneva-keen-to-bring-its-chikungunya-vaccine-the-worlds-first-to-india/article67561937.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-cleantech/aq63df/article34354468.ece/alternates/LANDSCAPE_1200/BL19PulseComiGAE8G7V027jpgjpg",
-      "publishedAt": "2023-11-22 13:25:55",
-      "content": "French specialty vaccine company Valneva is planning to bring its chikungunya vaccine, the worlds first, to India. Our objective is to make this vaccine available in all the countries were it is n\u2026 [+2272 chars]",
-      "retrievedAt": "2023-11-23 19:05:26.925175",
-      "internal_id": "23d18ff1e81b836a32e7048dfd40ae60a9d593669a4d1e5022a014ad2897190e",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3288,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Nos.nl",
-      "author": null,
-      "title": "Kameroen ontvangt na jarenlang testen als eerste Afrikaanse land malariavaccin",
-      "description": "Kameroen is het eerste Afrikaanse land dat het malariavaccin Mosquirix officieel gaat gebruiken. Een lading met meer dan 331.000 doses kwam gisteren aan op het vliegveld in de hoofdstad Yaound\u00e9. Eerder werd het vaccin vier jaar lang getest op kinderen in Ghan\u2026",
-      "url": "https://nos.nl/l/2498829",
-      "urlToImage": "https://cdn.nos.nl/image/2023/11/22/1028472/1024x576a.jpg",
-      "publishedAt": "2023-11-22 13:05:50",
-      "content": "Kameroen is het eerste Afrikaanse land dat het malariavaccin Mosquirix officieel gaat gebruiken. Een lading met meer dan 331.000 doses kwam gisteren aan op het vliegveld in de hoofdstad Yaound\u00e9. Eerd\u2026 [+1875 chars]",
-      "retrievedAt": "2023-11-23 19:05:26.364911",
-      "internal_id": "60d5c0acb5385f1d00ea5f11edec4707a73dfb7fd283a1e85d16e019f0541be5",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3282,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TIMESOFINDIA.COM",
-      "title": "Worst ever dengue outbreak in Bangladesh",
-      "description": "Bangladesh faces a severe dengue outbreak, surpassing 300,000 cases within 51 days, with 1,554 fatalities, the highest in its history. Climate change extends Aedes mosquito breeding seasons in the country's tropical climate, worsening urbanization's impact. T\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/bangladesh-undergoing-the-worst-ever-dengue-outbreak-key-points/photostory/105409896.cms",
-      "urlToImage": "https://static.toiimg.com/photo/105409915.cms",
-      "publishedAt": "2023-11-22 12:30:00",
-      "content": "A densely populated country in South Asia, Bangladesh is currently suffering because of a severe dengue outbreak. The dengue fever is a mosquito-borne viral infection transmitted by the Aedes mosquit\u2026 [+1032 chars]",
-      "retrievedAt": "2023-11-23 19:05:25.546314",
-      "internal_id": "fda38bce68f9d118e44c1079f941c1f9a67773e9d034d623a0fb1fd24095e56c",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3289,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "World News in Brief: DPR Korea missile launch condemned, malaria vaccines for Cameroon, solidarity with Haiti",
-      "description": "UN Secretary-General Ant\u00f3nio Guterres has strongly condemned the latest launch of a military satellite using ballistic missile technology by the Democratic People\u2019s Republic of Korea (DPRK). Read Full Story on UN News The post World News in Brief: DPR Korea m\u2026",
-      "url": "https://news.un.org/en/story/2023/11/1143862",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-05-2023_Unsplash_DPRK.jpg/image770x420cropped.jpg",
-      "publishedAt": "2023-11-22 12:00:00",
-      "content": "The country, commonly known as North Korea, claimed to have carried out a third attempt to launch a ballistic missile on Tuesday, according to media reports. Comply with obligations Any such launch\u2026 [+2785 chars]",
-      "retrievedAt": "2023-11-23 19:05:26.367354",
-      "internal_id": "2d0970563037543c975d30d7183f7f5ca1e285b7e9c4e5fb2fe1d716c13001b7",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3291,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "World Bank Group",
-      "author": "World Bank Group",
-      "title": "World Bank and Global Fund: Stronger Collaboration to Tackle the Impact of Climate Change on Health",
-      "description": "The goal is to support more efficient, effective, and sustainable financing to improve health outcomes in the face of climate change.",
-      "url": "https://www.worldbank.org/en/news/press-release/2023/11/22/world-bank-and-global-fund-stronger-collaboration-to-tackle-the-impact-of-climate-change-on-health",
-      "urlToImage": "https://www.worldbank.org/content/dam/wbr/share-logo/social-share.jpg",
-      "publishedAt": "2023-11-22 11:00:00",
-      "content": "WASHINGTON, Nov 22, 2023 The World Bank and the Global Fund to Fight AIDS, Tuberculosis, and Malaria (the Global Fund) today signed a new Memorandum of Understanding (MoU) outlining how the two organ\u2026 [+5185 chars]",
-      "retrievedAt": "2023-11-23 19:05:26.377649",
-      "internal_id": "00c26d21e48e6037e101a324d84e3aefe5bef0594f7694799d48cec0e0810a50",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3294,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
-      "title": "Jakarta administers second dose of monkeypox vaccine",
-      "description": "The Jakarta Health Service has begun administering the second dose of the monkeypox (mpox) vaccine to 495 first-dose recipients, an official stated on Wednesday. \"The second dose of mpox vaccine has been administered ...",
-      "url": "https://en.antaranews.com/news/299238/jakarta-administers-second-dose-of-monkeypox-vaccine",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/22/InShot_20231122_112030570.jpg",
-      "publishedAt": "2023-11-22 09:01:53",
-      "content": "Jakarta (ANTARA) - The Jakarta Health Service has begun administering the second dose of the monkeypox (mpox) vaccine to 495 first-dose recipients, an official stated on Wednesday.\"The second dose of\u2026 [+2333 chars]",
-      "retrievedAt": "2023-11-23 19:05:27.265659",
-      "internal_id": "158c5b26b85caaf3cd0f692657a8ff4706fd784f276b668259afb5be8da8ef50",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3283,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Burkina Faso: Epid\u00e9mie de dengue - Au coeur des \u00e9picentres",
-      "description": "[Sidwaya] A la date du 12 novembre 2023, la dengue a caus\u00e9 plus de 500 morts sur toute l'\u00e9tendue du territoire national. A Ouagadougou et Bobo-Dioulasso, les deux \u00e9picentres de l'\u00e9pid\u00e9mie, les populations de plus en plus touch\u00e9es par la maladie souffrent le m\u2026",
-      "url": "https://fr.allafrica.com/stories/202311220196.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-22 08:52:16",
-      "content": "A la date du 12 novembre 2023, la dengue a caus\u00e9 plus de 500 morts sur toute l'\u00e9tendue du territoire national. A Ouagadougou et Bobo-Dioulasso, les deux \u00e9picentres de l'\u00e9pid\u00e9mie, les populations de p\u2026 [+15045 chars]",
-      "retrievedAt": "2023-11-23 19:05:25.553820",
-      "internal_id": "8d710ef2dee2f14650d915603215bbab7a2f2db8230108c0bdcc90cb7007c408",
       "publishedAtLabel": "Nov 22"
     }
   ]
