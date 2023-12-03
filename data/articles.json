@@ -1,8 +1,26 @@
 {
-  "last_updated": "2023-12-02 19:05",
+  "last_updated": "2023-12-03 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 7,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 3478,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Climate change could upend fight against malaria, WHO warns",
+      "description": "Malaria cases rose in 2022, in part due to climate change-related extreme weather events.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/climate-change-could-upend-fight-against-malaria-who-warns",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QfNSTHvhkFqDHgm99QsDJT-1200-80.jpg",
+      "publishedAt": "2023-12-01 21:31:48",
+      "content": "Climate change \u2014 and the extreme weather events it brings \u2014 could raise global malaria rates, the World Health Organization (WHO) warned Thursday (Nov. 30). \"The changing climate poses a substantial\u2026 [+3159 chars]",
+      "retrievedAt": "2023-12-03 07:05:33.027055",
+      "internal_id": "422cf53e1aa09b8c378d8abddef5bad3a26d2a76d23aca88b59fb33194728848",
+      "publishedAtLabel": "Dec 1"
+    },
     {
       "id": 3475,
       "query": [
@@ -55,6 +73,24 @@
       "content": "Abstract Background Malaria is a major cause of morbidity and mortality in children under the age of five worldwide. Although various malaria elimination measures have been implemented over the pas\u2026 [+37177 chars]",
       "retrievedAt": "2023-12-02 19:05:14.933182",
       "internal_id": "4959c8a65dbfc34eb06966f5341d6833a7683c2c5d7f76f6bdcfd2752641b969",
+      "publishedAtLabel": "Dec 1"
+    },
+    {
+      "id": 3479,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wiadomosci.wp.pl",
+      "author": "KAR",
+      "title": "Alarmuj\u0105ce doniesienia. Zaka\u017ana choroba rozprzestrzenia si\u0119 w Europie",
+      "description": "W 2023 roku w Europie odnotowano najwy\u017csz\u0105 od niemal 80 lat liczb\u0119 lokalnie przenoszonych zaka\u017ce\u0144 wirusem dengi.",
+      "url": "https://wiadomosci.wp.pl/alarmujace-doniesienia-zakazna-choroba-rozprzestrzenia-sie-w-europie-6969077627911040a",
+      "urlToImage": "https://v.wpimg.pl/ODQzNDg1YCUwGDh3SEptMHNAbC0OE2NmJFh0ZkgAfXRhAmEiDl0qNjQKIWoAQzo0MA0-ahddYCUhE2EyVh4rLSIKIiUeHiopMx8qa1RTKiI0HntySggucGJXeiVTUGJ8Z0t_aV5SLHxlSXp8UlR5c3MH",
+      "publishedAt": "2023-12-01 13:36:53",
+      "content": "Przypadki dengi powizane (podobnie jak malaria) z podr\u00f3ami nie s w Europie rzadkoci. Ludzie wracaj do domu z obszaru zagroonego jej wystpowaniem, zakaaj si wirusem dengi, choruj, kilka dni odpoczywaj\u2026 [+6445 chars]",
+      "retrievedAt": "2023-12-03 07:05:33.073695",
+      "internal_id": "dbe74f69f0014fcdf5f1ce0498671b5b25bfe2214fbffc83a33364a344d2b3be",
       "publishedAtLabel": "Dec 1"
     },
     {
@@ -3578,42 +3614,6 @@
       "content": "A la date du 12 novembre 2023, la dengue a caus\u00e9 plus de 500 morts sur toute l'\u00e9tendue du territoire national. A Ouagadougou et Bobo-Dioulasso, les deux \u00e9picentres de l'\u00e9pid\u00e9mie, les populations de p\u2026 [+15045 chars]",
       "retrievedAt": "2023-11-23 19:05:25.553820",
       "internal_id": "8d710ef2dee2f14650d915603215bbab7a2f2db8230108c0bdcc90cb7007c408",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3277,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Devi Nindy S R, Resinta Sulistiyandari",
-      "title": "BNPB ready to form task force for rabies emergency handling",
-      "description": "National Disaster Mitigation Agency (BNPB) Head, Lieutenant General Suharyanto, expressed his side's readiness, if appointed, to handle the rabies emergency due to their experience as a task force in handling the Foot and ...",
-      "url": "https://en.antaranews.com/news/299229/bnpb-ready-to-form-task-force-for-rabies-emergency-handling",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/21/antarafoto-rakor-tingkat-menteri-menko-pmk-muhadjir-effendy-211123-rn-4.jpg",
-      "publishedAt": "2023-11-22 08:13:58",
-      "content": "Jakarta (ANTARA) - National Disaster Mitigation Agency (BNPB) Head, Lieutenant General Suharyanto, expressed his side's readiness, if appointed, to handle the rabies emergency due to their experience\u2026 [+2098 chars]",
-      "retrievedAt": "2023-11-23 19:05:24.730069",
-      "internal_id": "d33aff7097a500faca734df4a12a4ecbfd839e288178527a44ffb5d80a0233e2",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3280,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Bhumi Pednekar Shares Selfies From Hospital After Recovering From Dengue",
-      "description": "Bhumi was last seen in Thank You For Coming",
-      "url": "https://www.ndtv.com/entertainment/bhumi-pednekar-shares-selfies-from-hospital-after-recovering-from-dengue-4595857",
-      "urlToImage": "https://c.ndtvimg.com/2023-11/hhlpl5hg_bhumi-_625x300_22_November_23.jpg",
-      "publishedAt": "2023-11-22 08:10:51",
-      "content": "Image instagrammed by Bhumi. (Courtesy: BhumiPednekar) New Delhi: Bhumi Pednekar had been down with Dengue for the last eight days. As she has been gradually recovering from the \"torture\" she suffer\u2026 [+2242 chars]",
-      "retrievedAt": "2023-11-23 19:05:25.538995",
-      "internal_id": "e323c9bfe950d156534c673515ecb39bd1ec2ca4e3553dc19879dbdfa47d066c",
       "publishedAtLabel": "Nov 22"
     }
   ]
