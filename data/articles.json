@@ -1,8 +1,44 @@
 {
-  "last_updated": "2023-12-03 19:05",
+  "last_updated": "2023-12-04 07:06",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 3490,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "info@who.int (WHO)",
+      "title": "Africa: WHO's Annual Malaria Report Spotlights the Growing Threat of Climate Change",
+      "description": "Press Release - Despite strides in expanding access to insecticide-treated nets and medicines to help prevent malaria in young children and pregnant women, more people were getting sick with malaria, according to a new report published by the World Health Org\u2026",
+      "url": "https://allafrica.com/stories/202312030011.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-03 01:30:46",
+      "content": "Despite strides in expanding access to insecticide-treated nets and medicines to help prevent malaria in young children and pregnant women, more people were getting sick with malaria, according to a \u2026 [+6656 chars]",
+      "retrievedAt": "2023-12-04 07:06:02.124149",
+      "internal_id": "6a53b4e947b5143e5848020fab80b7f07a594ba558c0fb95ec30ddb8ef71af55",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3489,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Faiz Siddiqui",
+      "title": "Bitten by pet cat, UP man & son die of rabies",
+      "description": "A teacher at a government school and his son died within a span of a week due to rabies infection after they were bitten by their pet cat in Akbarpur town in Kanpur, reports Faiz Siddiqui.District officials said the cat was earlier bitten by a dog, which was \u2026",
+      "url": "https://timesofindia.indiatimes.com/india/bitten-by-pet-cat-up-man-son-die-of-rabies/articleshow/105686161.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-12-02 21:02:45",
+      "content": "Questions to ask your kid after school",
+      "retrievedAt": "2023-12-04 07:05:59.975217",
+      "internal_id": "ff8f76bd367d3b85ca1b1c6f9166dba067352c0211442853f2fcc5efcad21f46",
+      "publishedAtLabel": "Dec 2"
+    },
     {
       "id": 3483,
       "query": [
@@ -3578,42 +3614,6 @@
       "content": "di Redazione SaluteDopo il progetto pilota che ha portato ad un calo della mortalit\u00e0 del 13% e il via libera dell\u2019Oms, parte il programma di immunizzazione su larga scala nelle aree a pi\u00f9 alto rischi\u2026 [+7256 chars]",
       "retrievedAt": "2023-11-23 19:05:26.354485",
       "internal_id": "0be3120b553c1cb0dd4dc26038ee3922b4d7aa9afae5a89763959ba99e95b4ee",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3285,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "New Study Links 'Super Mosquitoes' To Rising Malaria Rates In Africa",
-      "description": "The research disclosed that in Dire Dawa, malaria instances surged twelvefold during the dry season of 2022 in comparison to 2019.",
-      "url": "https://www.ndtv.com/science/new-study-links-super-mosquitoes-to-rising-malaria-rates-in-africa-4597933",
-      "urlToImage": "https://c.ndtvimg.com/2022-09/ha7jqn5o_dengue-mosquito-generic_625x300_19_September_22.jpg",
-      "publishedAt": "2023-11-22 16:56:45",
-      "content": "Anopheles stephensi is a malaria-carrying species of mosquito. An invasive super mosquito carrying malaria, originating from Asia, is wreaking havoc in urban areas of Africa. Scientists have, for th\u2026 [+2301 chars]",
-      "retrievedAt": "2023-11-23 19:05:26.350224",
-      "internal_id": "84fdc8fdfd55e84980ff6b253128f8b012d316144b8c576568316c13eb7d2d93",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3293,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Salesandmarketingnetwork.com",
-      "author": "Albumedix",
-      "title": "Vaccine Partner Valneva receives FDA approval for the World's first chikungunya vaccine using Albumedix' Recombumin(R)",
-      "description": "Albumedix Ltd ('Albumedix'), now part of the life science group Sartorius, announces that Recombumin\u00ae is critical to the manufacture of the first FDA- licensed chikungunya vaccine. Valneva's lyophilized chikungunya vaccine IXCHIQ\u00ae is the first i... Biopharma\u2026",
-      "url": "https://salesandmarketingnetwork.com/news_release_bs.html?ID=2048142",
-      "urlToImage": null,
-      "publishedAt": "2023-11-22 16:20:39",
-      "content": "Albumedix Ltd ('Albumedix'), now part of the life science group Sartorius, announces that Recombumin is critical to the manufacture of the first FDA- licensed chikungunya vaccine.Valneva's lyophilize\u2026 [+3043 chars]",
-      "retrievedAt": "2023-11-23 19:05:26.932773",
-      "internal_id": "c1d4b8cec2e1c560289802c746f15e3051e694fe6b3f3f07c200384b3e8c27cf",
       "publishedAtLabel": "Nov 22"
     }
   ]
