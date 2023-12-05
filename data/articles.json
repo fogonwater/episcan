@@ -1,8 +1,174 @@
 {
-  "last_updated": "2023-12-05 07:05",
+  "last_updated": "2023-12-05 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 10,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 3507,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ouest-France",
+      "author": "Quentin BURBAN",
+      "title": "VIDEO. Retour \u00e0 la Base: victime de la dengue, le skipper Antoine Cornic est tr\u00e8s affaibli",
+      "description": "Engag\u00e9 sur la course transatlantique Imoca Retour \u00e0 la Base, le skipper Antoine Cornic, totalement affaibli, confie \u00eatre atteint de la dengue, en pleine course. Et cela fait trois jours que cela dure.",
+      "url": "https://www.ouest-france.fr/sport/voile/retour-a-la-base-toutes-les-manuvres-sont-dures-antoine-cornic-malade-de-la-dengue-en-course-8d4fc100-92cf-11ee-8602-1e868188f4e2",
+      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMzEyNDIyZjk2OGU5N2NmMjFhNjJkMjVkZjQ5NmM1ZWNkYzA?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=5a8fa8c0aee6a9616ada9b91cbd2af695c8d03d0da9d8c00fbbf25f8e2d442f9",
+      "publishedAt": "2023-12-04 19:02:10",
+      "content": "Ils ne sont d\u00e9finitivement pas faits du m\u00eame bois. Ce lundi 4 d\u00e9cembre, sur la course transatlantique en solitaire, Retour \u00e0 la Base, Antoine Cornic (HUMAN Immobilier) a divulgu\u00e9 une nouvelle vid\u00e9o s\u2026 [+991 chars]",
+      "retrievedAt": "2023-12-05 19:05:32.387525",
+      "internal_id": "0dfbf451ea052412454e849cb3dd9acd5ee4cb3b6f341b9c08a62451ff8cae59",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3506,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "FOX 5 Atlanta",
+      "author": "Fox 5 Atlanta",
+      "title": "Stray cat tests positive for rabies in DeKalb County",
+      "description": "DeKalb County health officials are warning residents to stay safe after a man was bit by a stray cat that tested positive for rabies.",
+      "url": "https://www.fox5atlanta.com/news/stray-cat-tests-positive-for-rabies-in-dekalb-county",
+      "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/05/1280/720/rabies-alert.jpg?ve=1&tl=1",
+      "publishedAt": "2023-12-04 17:28:02",
+      "content": "DEKALB COUNTY, Ga. - Health officials are warning residents in parts of DeKalb County after a stray cat in the area tested positive for rabies. Officials say on Nov. 28, a resident in the Willow Lak\u2026 [+881 chars]",
+      "retrievedAt": "2023-12-05 19:05:31.550503",
+      "internal_id": "d738cb587be7795549e9304de668c1301a3dad531b03d134b75ddad57d09afcd",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3509,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Salifou Talassone Bangoura, Castro Gb\u00eam\u00eamali Hounm\u00e8nou, Sidikiba Sidib\u00e9, Saidouba Cherif Camara, Aminata Mbaye, Marie-Marie Olive, Alioune Camara, Alexandre Delamou, Alpha-Kabinet Keita, Eric Delaporte, Nagham Khanafer, Abdoulaye Tour\u00e9",
+      "title": "Exploratory analysis of the knowledge, attitudes and perceptions of healthcare workers about arboviruses in the context of surveillance in the Republic of Guinea",
+      "description": "Author summary Arboviruses, including yellow fever, dengue, Zika, chikungunya, and Rift Valley fever, constitute viral diseases transmitted by blood-sucking arthropod vectors, such as mosquitoes, ticks, and biting midges, to vertebrate hosts. In many countrie\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011814",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011814.g005&size=inline",
+      "publishedAt": "2023-12-04 14:00:00",
+      "content": "Abstract Background The escalating risk and contemporary occurrences of arbovirus infections prompt a critical inquiry into the ability of nations to execute efficient surveillance systems capable \u2026 [+36487 chars]",
+      "retrievedAt": "2023-12-05 19:05:32.405333",
+      "internal_id": "01b5bca85d61a5b7ac2c04e527c9d5ba6b7499b0913214e005c95224313682ba",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3511,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Haleh Alimohamadi, Padmini Rangamani",
+      "title": "Effective cell membrane tension protects red blood cells against malaria invasion",
+      "description": "Author summary RBC membrane tension plays an important role in regulating RBC shape and functionality. In particular, recent experimental studies have shown that elevated RBC membrane tension protects against severe malaria infection. In this study, we sought\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011694",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1011694.g008&size=inline",
+      "publishedAt": "2023-12-04 14:00:00",
+      "content": "Introduction Malaria is one of the major infectious diseases and causes nearly half a million deaths per year worldwide [1]. Merozoites, which are protozoan parasites of the Plasmodium family, are s\u2026 [+54262 chars]",
+      "retrievedAt": "2023-12-05 19:05:33.538357",
+      "internal_id": "56dbc221b56b03716eb2bd97abed6343b2b9b97312864f13194f3351dbfa8d41",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3508,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mariana Andrade",
+      "title": "Sa\u00fade vai destinar R$ 256 mi a a\u00e7\u00f5es contra dengue, chikungunya e zika",
+      "description": "Conforme o Minist\u00e9rio da Sa\u00fade, R$ 111,5 milh\u00f5es ser\u00e3o repassados at\u00e9 o fim do ano para o enfrentamento da dengue, chikungunya e zika",
+      "url": "https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2021/03/10085834/mosquito-da-dengue-1-1.jpg",
+      "publishedAt": "2023-12-04 13:36:57",
+      "content": "O Minist\u00e9rio da Sa\u00fade vai destinar R$ 256 milh\u00f5es para a\u00e7\u00f5es de fortalecimento da vigil\u00e2ncia para o enfrentamento de arboviroses, como dengue, chikungunya e zika. Espera-se que a portaria dos recurso\u2026 [+2561 chars]",
+      "retrievedAt": "2023-12-05 19:05:32.395404",
+      "internal_id": "f7a2fac4415b08171b7dc3bd71143cc2adcd3499c4b766405277f864c9816cef",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3514,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Adesivo com vacina pode proteger contra o v\u00edrus zika",
+      "description": "Cientistas da Austr\u00e1lia desenvolvem a primeira vacina contra o v\u00edrus zika, aplicada atrav\u00e9s de um adesivo; os testes com modelos animais s\u00e3o promissores",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2023-12-04/adesivo-com-vacina-pode-proteger-contra-o-virus-zika.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8o/xn/1d/8oxn1db9u8jqlrmivbrtyn79w.jpg",
+      "publishedAt": "2023-12-04 12:35:12",
+      "content": "Na Austr\u00e1lia, cientistas da University of Queensland desenvolvem a primeira vacina contra o v\u00edrus zika, doen\u00e7a transmitida atrav\u00e9s de mosquitos, como o Aedes aegypti . Sem usar as agulhas convencion\u2026 [+2494 chars]",
+      "retrievedAt": "2023-12-05 19:05:34.011246",
+      "internal_id": "ce6f094bed74711ec94a2b033d9c2a2f3dc012d71fd8ad0ed17d796599ff7fdd",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3512,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newsit.gr",
+      "author": "\u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03c2 \u03a3\u03c5\u03c1\u03b9\u03b3\u03b3\u03b1\u03c2",
+      "title": "\u03a0\u03ce\u03c2 \u03b7 \u03ba\u03bb\u03b9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03b9 \u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd",
+      "description": "\u0397 \u03ba\u03bb\u03b9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03ad\u03c7\u03b5\u03b9 \u03bc\u03c0\u03b5\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ba\u03b1\u03bb\u03ac \u03c3\u03c4\u03b9\u03c2 \u03b6\u03c9\u03ad\u03c2 \u03cc\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u03c0\u03bb\u03b1\u03bd\u03ae\u03c4\u03b7, \u03b1\u03bb\u03bb\u03ac \u03b4\u03b5\u03bd \u03b5\u03c0\u03b7\u03c1\u03c1\u03b5\u03ac\u03b6\u03b5\u03b9 \u03bc\u03cc\u03bd\u03bf \u03c4\u03b7 \u03c6\u03cd\u03c3\u03b7 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c4\u03b5\u03c1\u03ac\u03c3\u03c4\u03b9\u03b5\u03c2 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03bf\u03c6\u03ad\u03c2 \u03bc\u03b5 \u03c4\u03b1 \u03be\u03b5\u03c3\u03c0\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c0\u03c1\u03c9\u03c4\u03bf\u03c6\u03b1\u03bd\u03b5\u03af\u03c2 \u03ba\u03b1\u03ba\u03bf\u03ba\u03b1\u03b9\u03c1\u03af\u03b5\u03c2, \u03b1\u03bb\u03bb\u03ac \u03c0\u03b1\u03af\u03b6\u03b5\u03b9 \u03c1\u03cc\u03bb\u03bf \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd. \u0398\u03b5\u03c1\u03bc\u03b9\u03ba\u03ae \u03ba\u03b1\u03c4\u03b1\u03c0\u03cc\u03bd\u03b7\u03c3\u03b7. \u0392\u03bb\u03ac\u03b2\u03b5\u03c2\u2026",
+      "url": "https://www.newsit.gr/kosmos/klimatiki-allagi-pos-epireazei-tin-ygeia-ton-anthropon/3923547/",
+      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2023/12/fotia-kapnos-eurokinissi-1-scaled.jpg",
+      "publishedAt": "2023-12-04 11:57:35",
+      "content": ", , . . . . (COP28). COP28 , . 2030, \u2013 , , \u2013 250.000 , (). \u00ab\u00bb, , \u2018Malaria No More\u2019. . , , , . 2000 5 . 2019, . , 73% , , . , 5 . 2022 249 ., . , , 400% , . . . , . , , , . ,\u2026 [+197 chars]",
+      "retrievedAt": "2023-12-05 19:05:33.549810",
+      "internal_id": "faa11e43c14b54b7f9ad309c0a01f05fc3898b56312d77540d030ac156299a3d",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3510,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO",
+      "description": "[Vanguard] The World Health Organisation, WHO, has warned that despite expanding access to malaria prevention, more people are getting sick with the disease.",
+      "url": "https://allafrica.com/stories/202312040455.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-04 11:38:58",
+      "content": "The World Health Organisation, WHO, has warned that despite expanding access to malaria prevention, more people are getting sick with the disease. In its 2023 World Malaria Report released as the UN\u2026 [+3724 chars]",
+      "retrievedAt": "2023-12-05 19:05:33.530946",
+      "internal_id": "982aa1ad9dfc6342805268c44a7bc6f4820fb4943395a433745be5920e0fc8b8",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3513,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Estella Abreu",
+      "title": "Adesivo de vacina sem agulha pode proteger contra o v\u00edrus Zika",
+      "description": "O adesivo fornece a vacina diretamente \u00e0s c\u00e9lulas imunol\u00f3gicas abaixo da superf\u00edcie da pele por meio de microproje\u00e7\u00f5es min\u00fasculas O post Adesivo de vacina sem agulha pode proteger contra o v\u00edrus Zika apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/12/04/medicina-e-saude/adesivo-de-vacina-sem-agulha-pode-proteger-contra-o-virus-zika/",
+      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/11/pexels-pixabay-86722-scaled-e1699618243347.jpg",
+      "publishedAt": "2023-12-04 07:51:00",
+      "content": "Um adesivo inovador que promete uma forma eficaz e indolor de combater o v\u00c3\u00adrus Zika est\u00c3\u00a1 sendo desenvolvido na Austr\u00c3\u00a1lia. O sistema, que utiliza a tecnologia de microarranjo de alta densidade (HD-\u2026 [+2898 chars]",
+      "retrievedAt": "2023-12-05 19:05:33.990805",
+      "internal_id": "ff17831f257026c479d33f561f752fba0c8ecc2dd392b35922e1d1067147237d",
+      "publishedAtLabel": "Dec 4"
+    },
     {
       "id": 3503,
       "query": [
@@ -3451,168 +3617,6 @@
       "content": "Dublin, Nov. 23, 2023 (GLOBE NEWSWIRE) -- The \"Global Artemisinin Combination Therapy Market (2022-2027) by Combination Therapy Type, and Geography, Competitive Analysis and the Impact of Covid-19 wi\u2026 [+4096 chars]",
       "retrievedAt": "2023-11-24 19:05:22.855402",
       "internal_id": "182a4995ad699f5b0c97f5ebc0e56d1d5785852f5aef4592a220b763da53a7c2",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3311,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Giovanna Inoue, do R7, em Bras\u00edlia",
-      "title": "Crian\u00e7a de sete anos pode ter sido segunda v\u00edtima de dengue hemorr\u00e1gica no DF neste ano",
-      "description": "Menina foi diagnosticada inicialmente com bronquite e virose; ela teve febre alta e dores na barriga e nas costas",
-      "url": "https://noticias.r7.com/brasilia/crianca-de-sete-anos-pode-ter-sido-segunda-vitima-de-dengue-hemorragica-no-df-neste-ano-23112023",
-      "urlToImage": "https://img.r7.com/images/mosquito-da-dengue-08072023182938398?crop=629x354+57+0",
-      "publishedAt": "2023-11-23 14:48:00",
-      "content": "DF havia registrado morte pela doen\u00e7a em 2023 Minist\u00e9rio da Sa\u00fade - Arquivo Uma crian\u00e7a de sete anos que morreu no Hospital Materno Infantil de Bras\u00edlia (HMIB) em 16 de novembro pode ter sid\u2026 [+2269 chars]",
-      "retrievedAt": "2023-11-24 19:05:21.407268",
-      "internal_id": "63f3527f353e2100c5864394e90ed928eb994f83afa751dcf3229af4f53d7d8c",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3310,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Rationalstat LLC",
-      "title": "Immunizing the World Against Dengue: Global Dengue Vaccine Market Outlook & Forecast, 2023-2030 | Market Study by RationalStat",
-      "description": "The global dengue vaccine market is expected to reach US$ 1.2 billion by 2030, with an annual growth rate of more than 10.8%. The global dengue vaccine market is expected to reach US$ 1.2 billion by 2030, with an annual growth rate of more than 10.8%.",
-      "url": "https://www.globenewswire.com/news-release/2023/11/23/2785256/0/en/Immunizing-the-World-Against-Dengue-Global-Dengue-Vaccine-Market-Outlook-Forecast-2023-2030-Market-Study-by-RationalStat.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/ced67b94-5d6b-4532-b365-e1f1f26f8f16",
-      "publishedAt": "2023-11-23 13:15:00",
-      "content": "Wilmington, Delaware, Nov. 23, 2023 (GLOBE NEWSWIRE) -- According to RationalStat s most recent industry analysis, the Global Dengue Vaccine Market value is estimated at US$ 0.6 billion in 2\u2026 [+10409 chars]",
-      "retrievedAt": "2023-11-24 19:05:21.386809",
-      "internal_id": "9ca875449fdba8f9582357b8d7ba874eb0f3f3f31bd3e0ca83908a109642633b",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3314,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Nigeria: Pneumonia, Malaria, Diarrhoea, Major Causes of Infant Mortality - Expert",
-      "description": "[Vanguard] A medical expert, Dr Ogenetega Idaboh, has said that pneumonia, malaria, and diarrhoea are the leading causes of death among children under five years old.",
-      "url": "https://allafrica.com/stories/202311230372.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-23 12:39:52",
-      "content": "A medical expert, Dr Ogenetega Idaboh, has said that pneumonia, malaria, and diarrhoea are the leading causes of death among children under five years old. She said that in a paper presentation at a\u2026 [+2948 chars]",
-      "retrievedAt": "2023-11-24 19:05:22.866482",
-      "internal_id": "2cf23102b898d04697701a7c00568b8d3055e98c11cd12f8201414a865112ea6",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3313,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "First Malaria Vaccines Arrive Tonight",
-      "description": "Press Release - Shipments to African countries herald final steps toward broader vaccination against malaria",
-      "url": "https://allafrica.com/stories/202311230360.html",
-      "urlToImage": "https://cdn03.allafrica.com/download/pic/main/main/csiid/00640877:d1c511bdcce4ac0cc7fd03a5ff3fb5a9:arc614x376:w1200.jpg",
-      "publishedAt": "2023-11-23 12:24:05",
-      "content": "Shipments to African countries herald final steps toward broader vaccination against malaria -More than 330,000 doses of WHO-recommended RTS,S malaria vaccine arrived last night in Cameroon \u2013 a his\u2026 [+9879 chars]",
-      "retrievedAt": "2023-11-24 19:05:22.863711",
-      "internal_id": "f175f9e959bbbae38fa754c119af60fbc850f397a7d86d3c4013572d0d321c90",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3309,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Mail.ru",
-      "author": "\u0417\u0434\u043e\u0440\u043e\u0432\u044c\u0435 Mail.ru",
-      "title": "\u00ab\u041a\u0430\u0448\u0435\u043b\u044c \u043d\u0430 \u0441\u0442\u043e \u0434\u043d\u0435\u0439\u00bb: \u0418\u043d\u0444\u0435\u043a\u0446\u0438\u043e\u043d\u0438\u0441\u0442 \u041f\u043e\u0437\u0434\u043d\u044f\u043a\u043e\u0432 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b, \u043a\u0430\u043a \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u0442\u044c \u043a\u043e\u043a\u043b\u044e\u0448 \u0438 \u0447\u0435\u043c \u043e\u043d \u043e\u043f\u0430\u0441\u0435\u043d",
-      "description": "\u0412\u0441\u043f\u044b\u0448\u043a\u0438 \u0431\u043e\u043b\u0435\u0437\u043d\u0438 \u0443\u0436\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0432 \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u0445 \u0420\u043e\u0441\u0441\u0438\u0438.",
-      "url": "https://health.mail.ru/news/kashel_na_sto_dney_infektsionist_pozdnyakov/",
-      "urlToImage": "https://health.mail.ru/sharepic/33/2877042/?1700731292",
-      "publishedAt": "2023-11-23 10:27:43",
-      "content": ". , . , . , , \u00ab \u00bb -, \u00ab-\u00bb . : , - . , , . . , , , : , , . , (720 ), . , , , , . , , . : , , , Bordetella pertussis. . , -, , . \u2026 [+228 chars]",
-      "retrievedAt": "2023-11-24 19:05:19.293558",
-      "internal_id": "8e93ace1a097080647d0168f53b65fb1922f0a3c4c46c466f94b415b5c772e72",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3315,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Andi Firdaus, Resinta Sulistiyandari",
-      "title": "Ministry confirms mpox not cause of patient's death at RSCM",
-      "description": "The Indonesian Health Ministry confirmed that one patient who died at the Cipto Mangunkusumo National Hospital (RSCM), Jakarta, was not due to monkeypox, or mpox virus. \"We received a report regarding a patient who died ...",
-      "url": "https://en.antaranews.com/news/299301/ministry-confirms-mpox-not-cause-of-patients-death-at-rscm",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/23/Screenshot_20231123_120027_Gallery.jpg",
-      "publishedAt": "2023-11-23 08:02:02",
-      "content": "Jakarta (ANTARA) - The Indonesian Health Ministry confirmed that one patient who died at the Cipto Mangunkusumo National Hospital (RSCM), Jakarta, was not due to monkeypox, or mpox virus.\"We received\u2026 [+1814 chars]",
-      "retrievedAt": "2023-11-24 19:05:23.798632",
-      "internal_id": "db30968def75a6aaca64b1b78fc85482b76fc49af159f35554ac82113cd275a5",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3297,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Nayra Teles",
-      "title": "Quais s\u00e3o os sintomas da dengue e como \u00e9 o combate \u00e0 doen\u00e7a?",
-      "description": "Com a chegada do ver\u00e3o, cuidados com a doen\u00e7a transmitida pelo mosquito Aedes aegypti precis\u00e3o ser intensificados O post Quais s\u00e3o os sintomas da dengue e como \u00e9 o combate \u00e0 doen\u00e7a? apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/11/23/medicina-e-saude/quais-sao-os-sintomas-da-dengue-e-como-e-o-combate-a-doenca/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205.jpg",
-      "publishedAt": "2023-11-23 05:00:00",
-      "content": "O per\u00c3\u00adodo de maior transmiss\u00c3\u00a3o da dengue acontece no ver\u00c3\u00a3o. A chegada da esta\u00c3\u00a7\u00c3\u00a3o acompanha a intensifica\u00c3\u00a7\u00c3\u00a3o de campanhas de preven\u00c3\u00a7\u00c3\u00a3o. Uma das maiores preocupa\u00c3\u00a7\u00c3\u00b5es das autoridades sanit\u00c3\u00a1r\u2026 [+3210 chars]",
-      "retrievedAt": "2023-11-24 07:05:37.474880",
-      "internal_id": "6272a0a8665dc4e88f87d073201d952587df513b13a56d7f965862678d4e4d9e",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3302,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "info@who.int (WHO)",
-      "title": "Africa: Malaria Vaccine Shipments to Africa Mark Progress Toward Broader Rollout",
-      "description": "[WHO] More than 330 000 doses of WHO-recommended RTS,S malaria vaccine arrived last night in Cameroon - a historic step towards broader vaccination against one of the deadliest diseases for African children Malaria burden is the highest on the African contine\u2026",
-      "url": "https://allafrica.com/stories/202311230031.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-23 04:56:18",
-      "content": "More than 330 000 doses of WHO-recommended RTS,S malaria vaccine arrived last night in Cameroon - a historic step towards broader vaccination against one of the deadliest diseases for African\u2026 [+13556 chars]",
-      "retrievedAt": "2023-11-24 07:05:38.479039",
-      "internal_id": "6aebdb9f33219e77b5af983f9cd4564321b383ab529d8412dd1e9567a20cf6a3",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3303,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: Shipments to African Countries Herald Final Steps Toward Broader Vaccination Against Malaria",
-      "description": "[Unicef] Shipments of the world's first WHO-recommended malaria vaccine, RTS,S, have begun with 331,200 doses landing last night in Yaound\u00e9, Cameroon. The delivery is the first to a country not previously involved in the malaria vaccine pilot programme and si\u2026",
-      "url": "https://allafrica.com/stories/202311230019.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-23 04:47:05",
-      "content": "Shipments of the world's first WHO-recommended malaria vaccine, RTS,S, have begun with 331,200 doses landing last night in Yaound\u00e9, Cameroon. The delivery is the first to a country not previously inv\u2026 [+9390 chars]",
-      "retrievedAt": "2023-11-24 07:05:38.503425",
-      "internal_id": "19b9dff13b9d567a4daa985cbc3d04a3a10d1a942fb41080a08491106d477fc0",
       "publishedAtLabel": "Nov 23"
     }
   ]
