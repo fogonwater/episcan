@@ -1,8 +1,171 @@
 {
-  "last_updated": "2023-12-04 19:05",
+  "last_updated": "2023-12-05 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 3503,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Valneva: new positive data for Ixchiq",
+      "description": "(marketscreener.com) Valneva announces positive data on antibody persistence at 24 months for its single-injection chikungunya vaccine, Ixchiq, having met its primary endpoint with a seroresponse rate of 97%.'Antibody levels remained high and well above the d\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-new-positive-data-for-Ixchiq-45491343/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-12-04 07:04:02",
+      "content": "Valneva announces positive data on antibody persistence at 24 months for its single-injection chikungunya vaccine, Ixchiq, having met its primary endpoint with a seroresponse rate of 97%.'Antibody le\u2026 [+421 chars]",
+      "retrievedAt": "2023-12-05 07:05:53.008374",
+      "internal_id": "bdef81638363082030a96c5c4f2381e497a9a4b20560342a957b14a152f1d9ab",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3501,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae",
+      "description": "(marketscreener.com) Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae Primary endpoint met with 97% seroresponse rate 24 months after a single vaccinationAntibody levels remained high and well above t\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Reports-Positive-24-Month-Antibody-Persistence-Data-for-its-Single-Shot-Chikungunya-Vaccine-45491066/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2023-12-04 06:01:02",
+      "content": "Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae Primary endpoint met with 97% seroresponse rate 24 months after a single vaccinati\u2026 [+13038 chars]",
+      "retrievedAt": "2023-12-05 07:05:52.970565",
+      "internal_id": "7b434f8a01b35ac30f3a3adcc942fe436a12d537b50aab1cfbfdba178e118324",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3500,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae",
+      "description": "Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae Primary endpoint met with 97% seroresponse......",
+      "url": "https://www.globenewswire.com/news-release/2023/12/04/2789696/0/en/Valneva-Reports-Positive-24-Month-Antibody-Persistence-Data-for-its-Single-Shot-Chikungunya-Vaccine-IXCHIQ.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-12-04 06:00:00",
+      "content": "Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae Primary endpoint met with 97% seroresponse rate 24 months after a single vaccinati\u2026 [+12963 chars]",
+      "retrievedAt": "2023-12-05 07:05:52.966486",
+      "internal_id": "fdabc1ddd4d9ba402e16eaeffbca2e67d6bf90485e9afdfa74d78256aa52057a",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3502,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva annonce des donn\u00e9es positives sur la persistance des anticorps \u00e0 24 mois pour son vaccin \u00e0 injection unique contre le chikungunya, IXCHIQ\u00ae",
+      "description": "Valneva annonce des donn\u00e9es positives sur la persistance des anticorps \u00e0 24 mois pour son vaccin \u00e0 injection unique contre le chikungunya, IXCHIQ\u00ae ...",
+      "url": "https://www.globenewswire.com/news-release/2023/12/04/2789696/0/fr/Valneva-annonce-des-donn%C3%A9es-positives-sur-la-persistance-des-anticorps-%C3%A0-24-mois-pour-son-vaccin-%C3%A0-injection-unique-contre-le-chikungunya-IXCHIQ.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2023-12-04 06:00:00",
+      "content": "Valneva annonce des donn\u00e9es positives sur la persistance des anticorps \u00e0 24 mois pour son vaccin \u00e0 injection unique contre le chikungunya, IXCHIQ\u00ae Crit\u00e8re d'\u00e9valuation principal atteint avec\u2026 [+12181 chars]",
+      "retrievedAt": "2023-12-05 07:05:53.004163",
+      "internal_id": "232fbaa9e67e9a24852b8d92d190a3dcf9fc667139cc3e38bcab752baf071b62",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3504,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "AMAURY CASTELLAR MATOSO",
+      "title": "En Cartagena se han reportado m\u00e1s de 130 casos de leptospirosis en ni\u00f1os",
+      "description": "Los casos de leptospirosis en el Corralito de Piedra han encendido las alarmas, pues hasta la semana epidemiol\u00f3gica 44 del presente a\u00f1o se hab\u00edan reportado 255, cifra que duplica los casos registrados en el mismo periodo del 2022 (113). Lea: Temor en Cartagen\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/en-cartagena-se-han-reportado-mas-de-130-casos-de-leptospirosis-en-ninos-BX9563993",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/10c0/800d686/none/13704/CSWL/hernando-pinzon_9069100_20231203171442.jpg",
+      "publishedAt": "2023-12-04 03:54:15",
+      "content": "Los casos de leptospirosis en el Corralito de Piedra han encendido las alarmas, pues hasta la semana epidemiol\u00f3gica 44 del presente a\u00f1o se hab\u00edan reportado 255, cifra que duplica los casos registrado\u2026 [+4731 chars]",
+      "retrievedAt": "2023-12-05 07:05:53.533387",
+      "internal_id": "69d8613f957d08728a0f6bf97d71625fc0fc31fb5cbfe044f484dbb352cc6ad6",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3499,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Needle-free vaccine patch being developed by researchers to tackle Zika virus",
+      "description": "The patch's simplicity, pain-free application, and stability at elevated temperatures make it a promising tool for vaccination in regions facing challenges with refrigeration.",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/needle-free-vaccine-patch-being-developed-by-researchers-to-tackle-zika-virus/articleshow/105713822.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-105714041,width-1200,height-630,imgsize-1111947,overlay-etpanache/photo.jpg",
+      "publishedAt": "2023-12-04 03:19:17",
+      "content": "Washington, Scientists have developed a simple-to-apply, needle-free vaccine patch that may protect people from the potentially deadly mosquito-borne Zika virus. The experimental vaccine developed by\u2026 [+2829 chars]",
+      "retrievedAt": "2023-12-05 07:05:52.756358",
+      "internal_id": "8f3b5579a99b7c7091bcfec07da851118c6b17c0bde0bcf871128e4d99756438",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3496,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Sumitra Debroy",
+      "title": "Malaria deaths in state down more than 50%",
+      "description": "Mumbai has seen a significant rise in malaria cases and dengue cases this year. The increase in vector activity, influenced by factors such as weather, climate conditions, and ongoing infrastructure upgrades, has contributed to this trend. While the correlati\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105711344,width-1070,height-580,imgsize-985377,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-12-04 01:20:40",
+      "content": "Benefits of eating a handful of pistachios daily",
+      "retrievedAt": "2023-12-05 07:05:51.937074",
+      "internal_id": "9c792e91aa4ebb2b6912e008c34cbaf0c15967c1cc1366f09331ac0674b94f90",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3505,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod logs 15 deaths, 118% rise in leptospirosis cases",
+      "description": "Bacolod City \u2013 Cases of leptospirosis in highly urbanized Bacolod City increased by 118.4 percent from January 1 to November 18 this year, compared to the same period in 2022, a report of the City Health Office (CHO) showed. In the same period, the CHO also l\u2026",
+      "url": "https://rpnradio.com/bacolod-logs-15-deaths-118-rise-in-leptospirosis-cases/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/12/bacolod-logs-15-lepto-deaths.jpg",
+      "publishedAt": "2023-12-04 00:59:53",
+      "content": "Bacolod City \u2013 Cases of leptospirosis in highly urbanized Bacolod City increased by 118.4 percent from January 1 to November 18 this year, compared to the same period in 2022, a report of the City He\u2026 [+1429 chars]",
+      "retrievedAt": "2023-12-05 07:05:53.537604",
+      "internal_id": "31d5134c5f16fb9ee0195493c0cafd0ed03848939d7c3647e87e6d7d6a412bcc",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3497,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Turn to 10",
+      "author": "Gabrielle Caracciolo",
+      "title": "Mount Hope community mourns loss of vibrant young woman to rare viral meningitis case",
+      "description": "22-year-old Mount Hope High School graduate Maddie Pacheco is missed tremendously after died from a case of viral meningitis last month.According to the CDC, it",
+      "url": "https://turnto10.com/news/local/mount-hope-community-mourns-loss-of-vibrant-young-woman-to-rare-viral-meningitis-case",
+      "urlToImage": "https://turnto10.com/resources/media/e26acca4-b633-45db-9e4b-0fb4a65a1d0a-large16x9_Gabrielle6PKG_frame_3315.jpeg",
+      "publishedAt": "2023-12-03 22:55:46",
+      "content": "22-year-old Mount Hope High School graduate Maddie Pacheco is missed tremendously after died from a case of viral meningitis last month. According to the CDC, its the most common form of meningitis,\u2026 [+1998 chars]",
+      "retrievedAt": "2023-12-05 07:05:52.140697",
+      "internal_id": "9390b6770867c546231d42268fc5dfc6a5573589370e93f1dd9d425987a4cbce",
+      "publishedAtLabel": "Dec 3"
+    },
     {
       "id": 3491,
       "query": [
@@ -91,6 +254,24 @@
       "content": "Jakarta (ANTARA) - The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine.\"There are 411 people who have completed the mpox vaccin\u2026 [+1828 chars]",
       "retrievedAt": "2023-12-04 19:05:35.196710",
       "internal_id": "c5acb8b59a6389cc69650aecd3b513ffc2fd8ab98aa38b69dd6a07f3e691344f",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3498,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Se\u00e1n Moncrieff",
+      "title": "Se\u00e1n Moncrieff: In Somalia, the creepy crawlies are the least of their worries",
+      "description": "With climate change having a catastrophic effect on the region, it is no wonder Somalis aren\u2019t bothered by insects. It\u2019s people they should be scared of",
+      "url": "https://www.irishtimes.com/life-style/people/2023/12/03/sean-moncrieff-in-somalia-the-creepy-crawlies-are-the-least-of-their-worries/",
+      "urlToImage": "https://www.irishtimes.com/resizer/XdPpRnv8c12XtSFCSZ3KBm9qYyI=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/54LAIWNIGRD6FJNCIP2KNHS4LA.jpg",
+      "publishedAt": "2023-12-03 05:00:00",
+      "content": "Its pathetic to bring this up, I know, but there are a lot of bugs in Africa. A lot. The group I was with had got the array of shots and were taking the malaria pills, but thats little comfort when y\u2026 [+3686 chars]",
+      "retrievedAt": "2023-12-05 07:05:52.533178",
+      "internal_id": "84f0dfae005e7f14458f22c13f813c7f15beff0e2f7f11bfb3f7cdc8b56411ab",
       "publishedAtLabel": "Dec 3"
     },
     {
@@ -3433,188 +3614,6 @@
       "retrievedAt": "2023-11-24 07:05:38.503425",
       "internal_id": "19b9dff13b9d567a4daa985cbc3d04a3a10d1a942fb41080a08491106d477fc0",
       "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3307,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: How Do Viruses Get Into Cells? Their Infection Tactics Determine Whether They Can Jump Species or Set Off a Pandemic",
-      "description": "[The Conversation Africa] COVID-19, flu, mpox, noroviral diarrhea: How do the viruses that cause these diseases actually infect you?",
-      "url": "https://allafrica.com/stories/202311230016.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-23 04:45:36",
-      "content": "COVID-19, flu, mpox, noroviral diarrhea: How do the viruses that cause these diseases actually infect you? Viruses cannot replicate on their own, so they must infect cells in your body to make more \u2026 [+5077 chars]",
-      "retrievedAt": "2023-11-24 07:05:39.479943",
-      "internal_id": "ce599c99c6b1117973996bf521661ec2b0feb91b5b736be50b186092cd6d5d0a",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3308,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Ashleigh Bagshaw",
-      "title": "Leptospirosis vaccine for dogs voluntarily recalled following 'adverse reactions', including one death",
-      "description": "The Treidlia Auslepto vaccine, used to protect dogs against a strain of the bacterial disease leptospirosis, has been withdrawn from sale by the manufacturer after \u201cadverse reactions\u201d, including the death of one animal.",
-      "url": "https://www.abc.net.au/news/2023-11-23/voluntary-recall-leptospirosis-vaccine-dogs-adverse-reactions/103141524",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/90fcee81bd4ad21eeb3656375f432fa8?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485",
-      "publishedAt": "2023-11-23 04:25:50",
-      "content": "A vaccine used to protect dogs against a potentially fatal bacterial disease has been voluntarily recalled, following the death of a dog. There has been a voluntary recall by the manufacture\u2026 [+2826 chars]",
-      "retrievedAt": "2023-11-24 07:05:39.941624",
-      "internal_id": "c1ade55e0c3097a7f2deb83d09b2277c01cfb0a8e7a00bbdbbad915c5317bbdd",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3298,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Actress Bhumi Pednekar urges fans to stay safe amid dengue recovery",
-      "description": "In an Instagram post, the actor revealed the challenges she faced during \"8 days of massive torture\" due to the mosquito-borne illness.",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/actress-bhumi-pednekar-urges-fans-to-stay-safe-amid-dengue-recovery/articleshow/105431092.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-105431300,width-1200,height-630,imgsize-1690886,overlay-etpanache/photo.jpg",
-      "publishedAt": "2023-11-23 03:26:55",
-      "content": "Initial Market Reaction: IPOs Turn Superhits, Led by Big Tata Release The initial public offering (IPO) market is in an unprecedented bull wave. Three of the four IPOs Tata Technologies, Flair Writin\u2026 [+710 chars]",
-      "retrievedAt": "2023-11-24 07:05:37.484156",
-      "internal_id": "77b4dac39fc51455f70d9965fcdf064c0b6e74e24425e057ae5f55d863c5db51",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3305,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "World Health Organization",
-      "author": "World Health Organization: WHO",
-      "title": "Shipments to African countries herald final steps toward broader vaccination against malaria: Gavi, WHO and UNICEF",
-      "description": "More than 330 000 doses of WHO-recommended RTS,S malaria vaccine arrived last night in Cameroon \u2013 a historic step towards broader vaccination against one of the deadliest diseases for African childrenMalaria burden is\u2026",
-      "url": "https://www.who.int/news/item/22-11-2023-shipments-to-african-countries-herald-final-steps-toward-broader-vaccination-against-malaria--gavi--who-and-unicef",
-      "urlToImage": "https://cdn.who.int/media/images/default-source/global-malaria-program-(gmp)/uni474929.tmb-1200v.jpg?sfvrsn=53c42ac9_2",
-      "publishedAt": "2023-11-23 01:51:23",
-      "content": "More than 330 000 doses of WHO-recommended RTS,S malaria vaccine arrived last night in Cameroon \u2013 a historic step towards broader vaccination against one of the deadliest diseases for African\u2026 [+13190 chars]",
-      "retrievedAt": "2023-11-24 07:05:38.520687",
-      "internal_id": "079a84f899cb98077f93e283882c28e3ca9bf82d9c2fdae83e85b05f5c47996d",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3306,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "KPBS",
-      "author": "Matt Hoffman",
-      "title": "Uptick in mpox cases raises concerns in San Diego County",
-      "description": "Experts say this sudden increase, after months of minimal occurrences, is due to low vaccination rates and the need for heightened awareness.",
-      "url": "https://www.kpbs.org/news/health/2023/11/22/uptick-in-mpox-cases-raises-concerns-in-san-diego-county",
-      "urlToImage": "https://cdn.kpbs.org/dims4/default/1d8ace8/2147483647/strip/true/crop/2869x1506+0+362/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F26%2Fmonkeybox-from-niaid_custom-8d087f008b3dd736b37bd8b3d269f3ac92b1ec6d.jpg",
-      "publishedAt": "2023-11-23 01:48:53",
-      "content": "San Diego County has witnessed a rise in mpox cases after experiencing a lull in reports for the majority of 2023. Why it matters Health officials attribute this surge to low vaccination rates and\u2026 [+1990 chars]",
-      "retrievedAt": "2023-11-24 07:05:39.475217",
-      "internal_id": "40cc33cf55f343973d4ea7422cce9ce05b6f7d6dc4c8cf5110cbb06d02f26a6c",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3304,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "FRANCE 24 English",
-      "author": "Laura DI BIASIO",
-      "title": "EYE ON AFRICA | Malaria vaccines set for broader rollout in Africa",
-      "description": "In tonight's edition: More than 330,000 doses of the RTS's malaria vaccine, known as mosauirix, have been delivered to Cameroon in a game changing scaling up of the regional immunisation drive. Anglophone separatists suspected as being behind the killings of\u2026",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20231122-eye-on-africa-malaria-vaccines-set-for-broader-rollout-in-africa",
-      "urlToImage": "https://s.france24.com/media/display/7576a940-8983-11ee-8391-005056bf30b7/w:1280/p:16x9/DN175970-A-01-20231116.jpg",
-      "publishedAt": "2023-11-22 22:14:19",
-      "content": "Issued on: 22/11/2023 - 23:14 In tonight's edition: More than 330,000 doses of the RTS's malaria vaccine, known as mosauirix, have been delivered to Cameroon in a game changing scaling up of the reg\u2026 [+257 chars]",
-      "retrievedAt": "2023-11-24 07:05:38.508573",
-      "internal_id": "fdfc3f86f6866d19e53cbb1bee36890dec88a0865cb726df6a4294ac590de0ce",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3296,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Bbc News",
-      "title": "Sheffield health officials warn of measles outbreak in city",
-      "description": "People are advised to get children vaccinated following a measles outbreak in Sheffield.",
-      "url": "https://www.bbc.co.uk/news/uk-england-south-yorkshire-67503830",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4811/production/_129594481_gettyimages-1159665817.jpg",
-      "publishedAt": "2023-11-22 21:05:31",
-      "content": "Health officials have urged people to be vigilant following a measles outbreak in Sheffield. The warning comes after vaccine rates among young children in the UK dipped to a 10-year low. Latest fig\u2026 [+982 chars]",
-      "retrievedAt": "2023-11-24 07:05:36.975685",
-      "internal_id": "f65f37d32ddc087e29c99125c1dbe369edbf477b2b3dcb51cf4a5fb18ba80153",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3299,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Perfil Brasil",
-      "title": "SP tem quatro casos de dengue tipo 3, sem circula\u00e7\u00e3o h\u00e1 15 anos",
-      "description": "O primeiro caso em Votuporanga foi detectado em uma mulher de 34 anos, que chamou a aten\u00e7\u00e3o por conta da intensidade dos sintomas",
-      "url": "https://brasil.perfil.com/saude/sp-tem-quatro-casos-de-dengue-tipo-3-sem-circulacao-ha-15-anos-2.phtml",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/22/1162448502-ebc.png",
-      "publishedAt": "2023-11-22 20:52:19",
-      "content": "Quatro casos de dengue sorotipo 3 (DENV3) foram confirmados na cidade de Votuporanga, no interior paulista, informou a secretaria de Sa\u00fade do munic\u00edpio. Estudo da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), div\u2026 [+2185 chars]",
-      "retrievedAt": "2023-11-24 07:05:37.490295",
-      "internal_id": "a02752ba3098a602167f4f2da4969ff3300e9c219445604288b1b1d6a4ec9698",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3301,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
-      "title": "In Africa, Rollout Of Life-Saving Malaria Vaccines Accelerates",
-      "description": "This week Cameroon became the first African country to receive the Mosquirix malaria vaccine for use as a fully tested preventive in a wide range of healthcare settings.",
-      "url": "https://www.forbes.com/sites/joshuacohen/2023/11/22/in-africa-rollout-of-life-saving-malaria-vaccines-accelerates/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655e56bc5ae35a152d1bb409/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-22 20:46:29",
-      "content": "A child is vaccinated against malaria on September 13, 2019 in Ndhiwa, Homabaya County, Western ... [+] Kenya during the launch of testing of a malaria vaccine in Kenya. The vaccine - Mosquirix - is \u2026 [+3679 chars]",
-      "retrievedAt": "2023-11-24 07:05:38.473939",
-      "internal_id": "350b9b009f2bc9df0f7b94adfc2e6a24e1b9b348a19abfd2fdbd397547892fa6",
-      "publishedAtLabel": "Nov 22"
-    },
-    {
-      "id": 3300,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laborat\u00f3rio",
-      "description": "A prefeitura de Belo Horizonte soltou 8.000 mosquitos que carregam uma bact\u00e9ria que reduz a capacidade de transmitir os v\u00edrus da dengue, da ch...",
-      "url": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/prefeitura-de-bh-solta-8000-mosquitos-aedes-aegypti-modificados-em-laboratorio-22112023",
-      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/11/22/655e59404b495532a9000782/83aeaef14a2c4afc9c0d93f6e6e0ca9b__BG_2211_SOLTURA_AEDES_WOLBACHIA_thumb_thumb.jpg",
-      "publishedAt": "2023-11-22 20:16:45",
-      "content": "A prefeitura de Belo Horizonte soltou 8.000 mosquitos que carregam uma bact\u00e9ria que reduz a capacidade de transmitir os v\u00edrus da dengue, da chikungunya, da zika e da febre-amarela para os humanos. As\u2026 [+53 chars]",
-      "retrievedAt": "2023-11-24 07:05:37.500705",
-      "internal_id": "bdcfc4c92889f5715d2ca2ccdc90da0d7d64b9c6de7c1956962712febdc6d1d5",
-      "publishedAtLabel": "Nov 22"
     }
   ]
 }
