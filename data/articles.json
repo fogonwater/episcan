@@ -1,8 +1,225 @@
 {
-  "last_updated": "2023-12-06 07:05",
+  "last_updated": "2023-12-06 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 8,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 3530,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The National Interest ",
+      "author": "Mark P. Lagon, Jude Farley",
+      "title": "Climate Change Is Harming Both Global Security and Human Dignity",
+      "description": "Fazila, a midwife from Sindh Province, Pakistan, told the Global Fund to Fight AIDS, Tuberculosis and Malaria (Global Fund) that she knew exactly how to prepare for the 2022 monsoon season. She and her mother evacuated their village after storing their belong\u2026",
+      "url": "https://nationalinterest.org/feature/climate-change-harming-both-global-security-and-human-dignity-207739",
+      "urlToImage": "https://nationalinterest.org/sites/default/files/main_images/shutterstock_1219524892%20%281%29.jpg",
+      "publishedAt": "2023-12-05 18:39:19",
+      "content": "Fazila, a midwife from Sindh Province, Pakistan, told the Global Fund to Fight AIDS, Tuberculosis and Malaria (Global Fund) that she knew exactly how to prepare for the 2022 monsoon season. She and h\u2026 [+6668 chars]",
+      "retrievedAt": "2023-12-06 19:05:30.079034",
+      "internal_id": "74aacf35c6e146fb684a3b6dfcd12bde976d2247a3ef166081edfa35030d8111",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3529,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Carol Clark",
+      "title": "Building boom boosts malaria-carrying, invasive mosquito in Ethiopia, evidence shows",
+      "description": "A malaria-carrying mosquito that thrives in urban environments is moving into Africa where a construction boom may be one factor helping the newcomer feel at home.",
+      "url": "https://phys.org/news/2023-12-boom-boosts-malaria-carrying-invasive-mosquito.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/building-boom-boosts-m.jpg",
+      "publishedAt": "2023-12-05 18:20:32",
+      "content": "A malaria-carrying mosquito that thrives in urban environments is moving into Africa where a construction boom may be one factor helping the newcomer feel at home. The Lancet Planetary Health publis\u2026 [+8610 chars]",
+      "retrievedAt": "2023-12-06 19:05:30.071990",
+      "internal_id": "08c7e8082733b2a0642b0fde8da566e433502bb24ab4582fc660f40646af8c6c",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3531,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Krishnendu Bandyopadhyay",
+      "title": "Urban malaria risk in Surat, India: climate and socioeconomic factors at play",
+      "description": "Surat, northwest India, faces an escalating risk of urban malaria fueled by A. stephensi breeding in artificial containers. The study analyzes the impact of climate and socioeconomic factors on malaria cases in the city. Urban malaria exhibits stationary spat\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/urban-malaria-risk-in-surat-india-climate-and-socioeconomic-factors-at-play/articleshow/105762734.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105763081,width-1070,height-580,imgsize-702775,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-12-05 17:43:19",
+      "content": "12 hill stations and their must-try dishes",
+      "retrievedAt": "2023-12-06 19:05:30.085009",
+      "internal_id": "01555ee855f99d7bb9b6c3adf4779ca485689eb65e10a9a4387b462b9485c0b1",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3527,
+      "query": [
+        "dengue",
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N POL\u00cdTICA",
+      "title": "Concejo pide al Distrito mayor control al dengue, al VIH y a la leptospirosis",
+      "description": "En la sesi\u00f3n de ayer en el Concejo Distrital, el concejal David M\u00fanera expres\u00f3 su preocupaci\u00f3n por el crecimiento del VIH en Cartagena, se\u00f1alando que la ciudad lidera en la propagaci\u00f3n de la enfermedad a nivel nacional e internacional. Destac\u00f3 la falta de con\u2026",
+      "url": "https://www.eluniversal.com.co/politica/concejo-pide-al-distrito-mayor-control-al-dengue-al-vih-y-a-la-leptospirosis-FF9575205",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/800x686/0c0/0d0/none/13704/YBXR/vih-en-cartagena-7926569-20230607181150_9081958_20231205103921.jpg",
+      "publishedAt": "2023-12-05 15:39:18",
+      "content": "En la sesi\u00f3n de ayer en el Concejo Distrital, el concejal David M\u00fanera expres\u00f3 su preocupaci\u00f3n por el crecimiento del VIH en Cartagena, se\u00f1alando que la ciudad lidera en la propagaci\u00f3n de la enfermed\u2026 [+1975 chars]",
+      "retrievedAt": "2023-12-06 19:05:28.751077",
+      "internal_id": "5632cb49e21eafaf307c3d5b18a6970164ad266ba1f8d0641e0bfc9b7c25f01f",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3534,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Sabin Vaccine Institute",
+      "title": "Global Typhoid Challenges in Focus at International Conference in Rwanda",
+      "description": "KIGALI, Rwanda, Dec. 05, 2023 (GLOBE NEWSWIRE) -- The 13th International Conference on Typhoid & Other Invasive Salmonelloses gets under way today in Kigali, Rwanda, with nearly 350 researchers, healthcare professionals and policymakers meeting to find ways t\u2026",
+      "url": "https://www.globenewswire.com/news-release/2023/12/05/2791023/0/en/Global-Typhoid-Challenges-in-Focus-at-International-Conference-in-Rwanda.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7c57b728-3431-4b2f-8bd6-feacc4f06979",
+      "publishedAt": "2023-12-05 14:05:00",
+      "content": "KIGALI, Rwanda, Dec. 05, 2023 (GLOBE NEWSWIRE) -- The 13th International Conference on Typhoid &amp; Other Invasive Salmonelloses gets under way today in Kigali, Rwanda, with nearly 350 researchers, \u2026 [+4494 chars]",
+      "retrievedAt": "2023-12-06 19:05:31.173698",
+      "internal_id": "6ea69c240fcc740c242f8a19f5bf0104456c1cf7c1e3fe076f70473a255a513e",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3523,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Abdur Razzaque Sarker, Subrata Paul, Fatema Zohara, Zakir Hossain, Irfat Zabeen, S. M. Zahedul Islam Chowdhury, Maruf Ahmed, Nausad Ali, Raymond Oppong",
+      "title": "Economic burden of dengue in urban Bangladesh: A societal perspective",
+      "description": "Author summary Dengue is a vector-borne viral disease affecting over 40 million people in Bangladesh. Dengue is endemic in urban Dhaka, Bangladesh, but the economic cost of illness is still limited. A growing literature shows that dengue imposes an enormous s\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011820",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011820.g002&size=inline",
+      "publishedAt": "2023-12-05 14:00:00",
+      "content": "Citation: Sarker AR, Paul S, Zohara F, Hossain Z, Zabeen I, Chowdhury SMZI, et al. (2023) Economic burden of dengue in urban Bangladesh: A societal perspective. PLoS Negl Trop Dis 17(12): e0011820.\u2026 [+24359 chars]",
+      "retrievedAt": "2023-12-06 19:05:28.725005",
+      "internal_id": "058278362efa1b9dcdde74a3bd48ccca1baaf6112465c37317118fb1e4553f9b",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3533,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Vanessa S. St\u00fcrmer, Sophie Stopper, Patrick Binder, Anja Klemmer, Nicolas P. Lichti, Nils B. Becker, Julien Guizetti",
+      "title": "Progeny counter mechanism in malaria parasites is linked to extracellular resources",
+      "description": "Author summary Malaria remains a significant burden on global health and has even seen a resurgence over the last years. The disease is caused by a small unicellular eukaryotic parasite of the Plasmodium genus, which proliferates by invading red blood cells a\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011807",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011807.g008&size=inline",
+      "publishedAt": "2023-12-05 14:00:00",
+      "content": "Abstract Malaria is caused by the rapid proliferation of Plasmodium parasites in patients and disease severity correlates with the number of infected red blood cells in circulation. Parasite multipl\u2026 [+78448 chars]",
+      "retrievedAt": "2023-12-06 19:05:30.101147",
+      "internal_id": "bfdabdd037ab776ed95416b9ecb91601b5dc781923dd0e42a61d1a20c3c74045",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3528,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Rebecca Wallersteiner",
+      "title": "Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections",
+      "description": "YYNYsalazar301123.f1YY Susan Abarca Salazar, a consultant in infectious diseases who was conducting doctoral research on evaluating new diagnostics to distinguish between children with tuberculous meningitis and other central nervous sys\u2026",
+      "url": "https://www.bmj.com/content/383/bmj.p2849",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/383/8409.cover-source.jpg",
+      "publishedAt": "2023-12-05 13:16:24",
+      "content": "Rebecca WallersteinerLondon, UK wallersteiner{at}hotmail.com YYNY&lt;graphic&gt;salazar301123.f1YY&lt;/graphic&gt; Susan Abarca Salazar, a con\u2026 [+1882 chars]",
+      "retrievedAt": "2023-12-06 19:05:29.272859",
+      "internal_id": "298da8aa69ebb300631cc5484004d60f58ddac84b2297f0a8305f15e6dcfaed5",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3526,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Falta d\u2019\u00e1gua causa surto de casos de dengue entre moradores de Brodowski",
+      "description": "A falta de \u00e1gua, um problema antigo em Brodowski, ajudou a provocar um surto de dengue na cidade. O n\u00famero de casos cresceu 281% no comparativ...",
+      "url": "https://recordtv.r7.com/recordtv-interior-sp/sp-record/falta-dagua-causa-surto-de-casos-de-dengue-entre-moradores-de-brodowski-05122023",
+      "urlToImage": "https://img.r7.com/images/sem-agua-dengue-brodowski-05122023095957327",
+      "publishedAt": "2023-12-05 10:15:01",
+      "content": "A falta de \u00e1gua, um problema antigo em Brodowski, ajudou a provocar um surto de dengue na cidade. O n\u00famero de casos cresceu 281% no comparativo de 2023 com 2022; sem \u00e1gua nas torneiras, moradores pre\u2026 [+136 chars]",
+      "retrievedAt": "2023-12-06 19:05:28.744932",
+      "internal_id": "ac0b935fb5aa5d8f3c9967b484910862431976df267bcd5577ea4eab5f72ba77",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3524,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "radiodabanga@gmail.com (Dabanga)",
+      "title": "Death Toll Rises in Sudan Cholera and Dengue Outbreak",
+      "description": "[Dabanga] Port Sudan / El Gedaref -- Sudan's Red Sea and El Gedaref states report a steady increase in cases of cholera as the seasonal outbreak of disease takes hold. The death toll is rising daily.",
+      "url": "https://allafrica.com/stories/202312050110.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-05 07:46:38",
+      "content": "Port Sudan / El Gedaref \u2014 Sudan's Red Sea and El Gedaref states report a steady increase in cases of cholera as the seasonal outbreak of disease takes hold. The death toll is rising daily. Tokar Hos\u2026 [+3346 chars]",
+      "retrievedAt": "2023-12-06 19:05:28.735145",
+      "internal_id": "c158eef11830e3222632072f802a3537f257a8282dd7ffb8c9fcdccbb2c4fcd2",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3525,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "radiodabanga@gmail.com (Dabanga)",
+      "title": "Cholera - Public Urged to Take Measures As Deaths Rise",
+      "description": "[Dabanga] Port Sudan / El Gezira -- Health ministries in Sudan states are calling on the public to take measures to curtail the spread of cholera, and the proliferation of mosquito vectors for dengue, as the seasonal outbreak of disease takes hold. The medica\u2026",
+      "url": "https://allafrica.com/stories/202312050106.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-05 07:44:56",
+      "content": "Port Sudan / El Gezira \u2014 Health ministries in Sudan states are calling on the public to take measures to curtail the spread of cholera, and the proliferation of mosquito vectors for dengue, as the se\u2026 [+1600 chars]",
+      "retrievedAt": "2023-12-06 19:05:28.739875",
+      "internal_id": "28407cbe69d32af0008e966b3580abd00d93377a633aed3360edb2de454aef01",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3532,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Grief Knocks On Every Door in Rural West Oromia As Malaria Continues to Claim Lives",
+      "description": "[Addis Standard] Addis Abeba -- In a remote rural village in Kondala district of West Wollega zone, Oromia region, lives Tolasa, who recently faced a devastating loss of his 14-year-old son, Gemechis, due to an active malaria outbreak in the area. \"My son exh\u2026",
+      "url": "https://allafrica.com/stories/202312050093.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-05 07:37:43",
+      "content": "Addis Abeba \u2014 In a remote rural village in Kondala district of West Wollega zone, Oromia region, lives Tolasa, who recently faced a devastating loss of his 14-year-old son, Gemechis, due to an active\u2026 [+6344 chars]",
+      "retrievedAt": "2023-12-06 19:05:30.097728",
+      "internal_id": "c7bbcbd39d97cdcda2c19bc7f57c41a8c9cfe79c044683d36a69e9c3dac5a304",
+      "publishedAtLabel": "Dec 5"
+    },
     {
       "id": 3518,
       "query": [
@@ -3403,222 +3620,6 @@
       "retrievedAt": "2023-11-26 19:05:15.472414",
       "internal_id": "9838f1478ad9c06df385c5ab8ddb825fad61cc14dacb47ce0561ce9e544e15ed",
       "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3329,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Dog Killed By Locals After Biting 29 People In Chennai Found With Rabies",
-      "description": "A dog that was beaten to death after biting 29 people in Chennai has test positive for rabies, officials said.",
-      "url": "https://www.ndtv.com/chennai-news/dog-killed-by-locals-after-biting-29-people-in-chennais-royapuram-found-with-rabies-4604740",
-      "urlToImage": "https://i.ndtvimg.com/i/2017-09/stray-dog-generic-stockshot-650_650x400_51505906887.jpg",
-      "publishedAt": "2023-11-25 06:50:00",
-      "content": "The dog bite victims included 10 schoolchildren and some elderly people. (File) Chennai: A dog that was beaten to death after biting 29 people in Chennai has test positive for rabies, officials said\u2026 [+1651 chars]",
-      "retrievedAt": "2023-11-26 07:05:37.645752",
-      "internal_id": "14789a36c1739b7970c433fb9007f1a960d9b43b023ebd64a5ad3d7612cc94cd",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3328,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "PR Newswire UK",
-      "author": null,
-      "title": "Rabies Vaccine Market to Reach $ 1903.17 million by 2032, exhibiting a CAGR of 4.7% from 2023 to 2032: Allied Market Research",
-      "description": "Rise in prevalence of rabies in developing countries, increase in number of dog bites and rising number of stray dogs and presence of large market players who manufactures rabies vaccine is anticipated to boost the growth of rabies vaccine market. Moreover, r\u2026",
-      "url": "https://www.prnewswire.co.uk/news-releases/rabies-vaccine-market-to-reach--1903-17-million-by-2032--exhibiting-a-cagr-of-4-7-from-2023-to-2032-allied-market-research-301996966.html",
-      "urlToImage": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook",
-      "publishedAt": "2023-11-25 05:20:00",
-      "content": "Rise in prevalence of rabies in developing countries, increase in number of dog bites and rising number of stray dogs and presence of large market players who manufactures rabies vaccine is anticipat\u2026 [+9062 chars]",
-      "retrievedAt": "2023-11-26 07:05:37.632828",
-      "internal_id": "8c505b7a7b196fa77cc431397c164985f6e70e90f96d1ba6281b5646e260475c",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3330,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Microbe.tv",
-      "author": "Vincent Racaniello",
-      "title": "TWiV 1064: Clinical update with Dr. Daniel Griffin",
-      "description": "In his weekly clinical update, Dr. Griffin discusses progress toward measles elimination, risk of severe coronavirus disease 2019 despite vaccination in patients requiring treatment with immune-suppressive drugs, symptoms, viral loads, and rebound among COVID\u2026",
-      "url": "https://www.microbe.tv/twiv/twiv-1064/",
-      "urlToImage": null,
-      "publishedAt": "2023-11-25 05:00:00",
-      "content": "In his weekly clinical update, Dr. Griffin discusses progress toward measles elimination, risk of severe coronavirus disease 2019 despite vaccination in patients requiring treatment with immune-suppr\u2026 [+813 chars]",
-      "retrievedAt": "2023-11-26 07:05:38.152840",
-      "internal_id": "6fea5bbc6a16c26a3a383f72adb8deda4a0048f934d2d5cf4431e646b8681532",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3333,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time - ABC News",
-      "description": "UN confirms sexual spread of mpox in Congo for the 1st timeABC News View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172302353",
-      "urlToImage": null,
-      "publishedAt": "2023-11-25 01:32:06",
-      "content": "Receiving a million dollars tax free will make you feel better than being flat broke and having a stomach ache. -- Dolph Sharp, \"I'm O.K., You're Not So Hot\"",
-      "retrievedAt": "2023-11-26 07:05:40.927454",
-      "internal_id": "8ccff5f4367437b03c39b60488656d987d0b80449b808049b417c8b7f6927e03",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3332,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "WHO Confirms First Sexual Spread of Mpox in Congo Amid Record Outbreak",
-      "description": "The World Health Organization said it has confirmed sexual transmission of mpox in the Democratic Republic of Congo for the first time as the country experiences its biggest outbreak, a worrying development that African scientists warn could make it more diff\u2026",
-      "url": "https://www.voanews.com/a/who-confirms-first-sexual-spread-of-mpox-in-congo-amid-record-outbreak/7369344.html",
-      "urlToImage": "https://gdb.voanews.com/D3AFB59F-2904-4C9C-9368-0EB2C3CA71A0.jpg",
-      "publishedAt": "2023-11-24 21:44:26",
-      "content": "LONDON The World Health Organization said it has confirmed sexual transmission of mpox in the Democratic Republic of Congo for the first time as the country experiences its biggest outbreak, a worry\u2026 [+3307 chars]",
-      "retrievedAt": "2023-11-26 07:05:40.914447",
-      "internal_id": "fad3ef452cc3c07ee674c029beab739ad9072b9f89524a4b1fe1029a8f0f35f4",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3331,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Pragmatismopolitico.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "M\u00e9dico de hospital particular menosprezou estado de sa\u00fade de menina morta por dengue no DF: \u201cEla tem \u00e9 dengo\u201d",
-      "description": "M\u00e9dico respons\u00e1vel minimizou a gravidade do estado de sa\u00fade da menina de 7 anos, atribuindo os sintomas a um suposto \u201cdengo\u201d. A crian\u00e7a faleceu dois dias ap\u00f3s a consulta O post M\u00e9dico de hospital particular menosprezou estado de sa\u00fade de menina morta por deng\u2026",
-      "url": "https://www.pragmatismopolitico.com.br/2023/11/medico-de-hospital-particular-menosprezou-estado-de-saude-de-menina-morta-por-dengue-no-df-ela-tem-e-dengo.html",
-      "urlToImage": "https://www.pragmatismopolitico.com.br/wp-content/uploads/2023/11/pietra.jpg",
-      "publishedAt": "2023-11-24 19:39:10",
-      "content": "M\u00e9dico respons\u00e1vel minimizou a gravidade do estado de sa\u00fade da menina de 7 anos, atribuindo os sintomas a um suposto dengo. A crian\u00e7a faleceu dois dias ap\u00f3s a consulta A menina Pietra Isaac, de 7 an\u2026 [+2971 chars]",
-      "retrievedAt": "2023-11-26 07:05:38.510866",
-      "internal_id": "b4519dfd0404f84dca104169121a0239a866e5793f5bc652f265a54382e38e73",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3334,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - ABC News",
-      "description": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreakABC News View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172301071",
-      "urlToImage": null,
-      "publishedAt": "2023-11-24 19:34:46",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-26 07:05:40.931570",
-      "internal_id": "92fa7956992da19c376e292564d10b574070748d916a49e1064da25dfed8db9f",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3319,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Sa\u00fade em Dia",
-      "title": "Casos de dengue aumentam no calor: vacina \u00e9 a melhor forma de preven\u00e7\u00e3o",
-      "description": "Menina de 7 anos morreu no DF ap\u00f3s contrair dengue hemorr\u00e1gica. Infectologista explica a import\u00e2ncia da vacina no combate \u00e0 doen\u00e7a",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-aumentam-no-calor-vacina-e-a-melhor-forma-de-prevencao,8f3bd1dff9d704d826715fc5e7adcd5fb75ljcmb.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/24/129801459-dengue.jpg",
-      "publishedAt": "2023-11-24 18:01:16",
-      "content": "O Brasil \u00e9 o pa\u00eds que lidera o ranking de casos de dengue no mundo. De acordo com o m\u00e9dico infectologista e presidente da Sociedade Brasileira de Infectologia (SBI), Dr. Alberto Chebabo, no ano passa\u2026 [+2979 chars]",
-      "retrievedAt": "2023-11-25 19:05:21.480888",
-      "internal_id": "09d0424dfe65bc2ee2c78d631e69146efa92edf597982b75586c3b1bef3a5202",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3320,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
-      "title": "Crian\u00e7a que morreu de dengue teria sido chamada de 'dengosa' por m\u00e9dico",
-      "description": "Uma crian\u00e7a de 7 anos veio a \u00f3bito em consequ\u00eancia de um quadro de dengue hemorr\u00e1gica na \u00faltima ...",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/crianca-que-morreu-de-dengue-teria-sido-chamada-de-dengosa-por-medico,58852aeb1deabef1dd146b8d10d038a8i7xxooes.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/24/untitled-design-(6)-u7u4eawmrqcy.png",
-      "publishedAt": "2023-11-24 17:58:30",
-      "content": "Uma crian\u00e7a de 7 anos veio a \u00f3bito em consequ\u00eancia de um quadro de dengue hemorr\u00e1gica na \u00faltima sexta-feira (17). A m\u00e3e de Pietra Isaac disse que o m\u00e9dico respons\u00e1vel pelo caso menosprezou o estado d\u2026 [+1823 chars]",
-      "retrievedAt": "2023-11-25 19:05:21.508964",
-      "internal_id": "0fdda6cfac4ed814123a82e5e66abaf80c950283f9f043c5e549084f25d34c4e",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3327,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - Yahoo News",
-      "description": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreakYahoo News View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172300095",
-      "urlToImage": null,
-      "publishedAt": "2023-11-24 16:12:07",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-25 19:05:23.192440",
-      "internal_id": "6ed1ebc426b63af6f7acf64b6f99ddcc9350d2568696af43242270bf645b9b46",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3321,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue death toll rises to 1,583 with 6 more deaths reported Friday",
-      "description": "Six more deaths were reported from dengue in 24 hours till Friday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,583 this year. During the period, 645 more patients were hospitalised with the viral fever, according to the D\u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-1583-6-more-deaths-reported-friday-745590",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/24/2._dengue_rajib_dhar.jpg",
-      "publishedAt": "2023-11-24 14:58:12",
-      "content": "Six more deaths were reported from dengue in 24 hours till Friday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,583 this year. During the period, 645 more patien\u2026 [+423 chars]",
-      "retrievedAt": "2023-11-25 19:05:21.512803",
-      "internal_id": "52b8a3c0ed0258044dd2225f53618e7ae0bbb201807d753a976b564adaa3107f",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3326,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Raw Story",
-      "author": "The Conversation",
-      "title": "Viruses: Their infection tactics determine if they can jump species or set off a pandemic",
-      "description": "COVID-19, flu, mpox, noroviral diarrhea: How do the viruses that cause these diseases actually infect you?Viruses cannot replicate on their own, so they must infect cells in your body to make more copies of themselves. The life cycle of a virus can thus be ro\u2026",
-      "url": "https://www.rawstory.com/viruses-their-infection-tactics-determine-whether-they-can-jump-species-or-set-off-a-pand/",
-      "urlToImage": "https://www.rawstory.com/media-library/new-coronavirus-variant-what-is-the-spike-protein-and-why-are-mutations-on-it-important.jpg?id=24996973&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
-      "publishedAt": "2023-11-24 13:05:43",
-      "content": "You dont hear that from religious authoritarians. Instead, you hear them being strong supporters of the Jewish state and the Jewish people who live in it. That has been especially the case since the \u2026 [+8606 chars]",
-      "retrievedAt": "2023-11-25 19:05:23.188793",
-      "internal_id": "f82cba6373e44b5fc90956245ae1333742c1054f0b471b5ee90216cbd5aac927",
-      "publishedAtLabel": "Nov 24"
     }
   ]
 }
