@@ -1,8 +1,153 @@
 {
-  "last_updated": "2023-12-05 19:05",
+  "last_updated": "2023-12-06 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 3518,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Andi Firdaus, Raka Adji",
+      "title": "Tackling dengue with Wolbachia method",
+      "description": "Dengue fever in Indonesia is still a serious health threat that needs to be handled, with the average number of cases reaching 74 thousand to 140 thousand per year. The Ministry of Health reported that the highest incidence of ...",
+      "url": "https://en.antaranews.com/news/300222/tackling-dengue-with-wolbachia-method",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/27/IMG-20231127-WA0007_2.jpg",
+      "publishedAt": "2023-12-05 06:58:02",
+      "content": "Dengue fever in Indonesia is still a serious health threat that needs to be handled, with the average number of cases reaching 74 thousand to 140 thousand per year.The Ministry of Health reported tha\u2026 [+7794 chars]",
+      "retrievedAt": "2023-12-06 07:05:42.930474",
+      "internal_id": "fae8baf3ac6735f96553cebb23154bfe9e47feb0e20a770d96b7c31ecd338060",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3522,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Stigma, regulatory barriers delay mpox response in country that needs it most",
+      "description": "(marketscreener.com) Vaccines and treatments that could help tackle an mpox epidemic in the Democratic Republic of Congo are lying unused outside the country despite a death rate far higher than from the global outbreak that began last year. Stigma, regulato\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most-45498818/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-12-05 06:00:00",
+      "content": "LONDON, Dec 5 (Reuters) - Vaccines and treatments that could help tackle an mpox epidemic in the Democratic Republic of Congo are lying unused outside the country despite a death rate far higher t\u2026 [+4916 chars]",
+      "retrievedAt": "2023-12-06 07:05:45.468134",
+      "internal_id": "6fd761d97d8c09a6468b2b5c496e4cc0d175fe6814fcde95f10b8fe3e538ce90",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3515,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Alliance Introduces New Vaccine Programmes to Save More Lives and Support Child Health",
+      "description": "Press Release - Countries can now submit plans to introduce diphtheria, tetanus and pertussis (DTP)-containing vaccine boosters (DTP boosters) and the six-in-one hexavalent vaccine Gavi and partners are also working towards expanding the portfolio of offering\u2026",
+      "url": "https://allafrica.com/stories/202312050002.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-05 04:37:11",
+      "content": "Geneva \u2014 Countries can now submit plans to introduce diphtheria, tetanus and pertussis (DTP)-containing vaccine boosters (DTP boosters) and the six-in-one hexavalent vaccineGavi and \u2026 [+5892 chars]",
+      "retrievedAt": "2023-12-06 07:05:41.092636",
+      "internal_id": "4ef97930c57602a3a89189b9f6dd3ce8fea1cfe669eb4ad2424bff578c31788a",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3521,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Estella Abreu",
+      "title": "Microcefalia: v\u00edrus Zika n\u00e3o \u00e9 a \u00fanica causa, alerta campanha",
+      "description": "A Semana Nacional de Conscientiza\u00e7\u00e3o sobre Microcefalia come\u00e7a todo dia 4 de dezembro O post Microcefalia: v\u00edrus Zika n\u00e3o \u00e9 a \u00fanica causa, alerta campanha apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/12/05/medicina-e-saude/microcefalia-virus-zika-nao-e-a-unica-causa-alerta-campanha/",
+      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/12/mosquito-1.jpg",
+      "publishedAt": "2023-12-05 04:20:00",
+      "content": "O Brasil viveu uma das maiores epidemias de Zika entre 2015 e 2016, que resultou em quase 2 mil casos de microcefalia, uma malforma\u00c3\u00a7\u00c3\u00a3o grave no c\u00c3\u00a9rebro dos beb\u00c3\u00aas. Desde ent\u00c3\u00a3o, o governo federal\u2026 [+4179 chars]",
+      "retrievedAt": "2023-12-06 07:05:44.981603",
+      "internal_id": "3d598c28496223dd326b33a1d54d35927980886cae23ce8d7258a81c7d706ae7",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3519,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ari Daniel",
+      "title": "Big city mosquitoes are a big problem \u2014 and now a big target",
+      "description": "Africa's cities have become home to an invasive, malaria-carrying mosquito. New research suggests vulnerabilities that could be exploited to take on the disease-bearing insects.",
+      "url": "https://www.npr.org/sections/goatsandsoda/2023/12/04/1217120913/big-city-mosquitoes-are-a-big-problem-and-now-a-big-target",
+      "urlToImage": "https://media.npr.org/assets/img/2023/12/04/01_stephensi_orange_plastic_pit_20230311_150018-copy-2_wide-7435348174dd595dfd7006c3c2bd4a5eed649b5a-s1400-c100.jpg",
+      "publishedAt": "2023-12-05 00:04:31",
+      "content": "Manmade pits at construction sites are providing nurseries for malaria-carrying mosquitoes, new research finds. Gonzalo Vazquez-Prokopec About a decade ago, a new kind of mosquito began showing up \u2026 [+6271 chars]",
+      "retrievedAt": "2023-12-06 07:05:44.288249",
+      "internal_id": "f60588aa1e516e5b6595a183af485fd212123105ad75470159a2da62a1006622",
+      "publishedAtLabel": "Dec 5"
+    },
+    {
+      "id": 3516,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Editorial Board",
+      "title": "Mend cracks in defense against measles",
+      "description": "A new report shows cases and deaths rose worldwide as vaccination coverage declined. Minnesota legislators should end nonmedical exemptions.",
+      "url": "https://www.startribune.com/mend-cracks-in-defense-against-measles/600324398/",
+      "urlToImage": "https://chorus.stimg.co/25132900/merlin_72719042.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2023-12-04 23:30:44",
+      "content": "Opinion editor's note:Editorials represent the opinions of the Star Tribune Editorial Board, which operates independently from the newsroom. One of the COVID-19 pandemic's lasting lessons is how qu\u2026 [+4486 chars]",
+      "retrievedAt": "2023-12-06 07:05:42.247785",
+      "internal_id": "b210a5247cec76c11530104a07839e27972ac9f04b72506aeb7eac2b8be7a0a0",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3517,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Confira 7 bairros de Campinas com risco elevado de transmiss\u00e3o da dengue e veja dicas de preven\u00e7\u00e3o",
+      "description": "De acordo com a prefeitura, objetivo do alerta \u00e9 \"estimular a popula\u00e7\u00e3o para verificar e eliminar criadouros em casa\". Metr\u00f3pole registra 6\u00aa maior epidemia desde 1998, com 10,1 mil infectados e duas mortes. Campinas (SP) refor\u00e7a import\u00e2ncia de combate aos cri\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/04/confira-7-bairros-de-campinas-com-risco-elevado-de-transmissao-da-dengue-e-veja-dicas-de-prevencao.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/Aa2OxfZvoUF1K96KIe9Xd-qwLms=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/8/O/B9DguGTESByAB7OuBAKA/dengue4.jpg",
+      "publishedAt": "2023-12-04 20:45:54",
+      "content": "Jardim Santo Ant\u00f4nio (Sudoeste)Jardim Eulina (Norte)Jardim Garcia (Noroeste)Vila Padre Manoel da N\u00f3brega (Noroeste)Mans\u00f5es Santo Ant\u00f4nio (Leste)Ja\u2026 [+4070 chars]",
+      "retrievedAt": "2023-12-06 07:05:42.919950",
+      "internal_id": "9362fab65829583d710847f088c861606a18df92355b25a365421173fecdc448",
+      "publishedAtLabel": "Dec 4"
+    },
+    {
+      "id": 3520,
+      "query": [
+        "malaria",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Metafilter.com",
+      "author": "mireille",
+      "title": "Do I really need to take antimalarials for this trip?",
+      "description": "Going to Costa Rica for 2 weeks at the end of the month. I have all my recommended vaccines but don't really want to take the malaria pills. Without getting alarmist about this, what is your experience or where can I find better information?Up to date on all \u2026",
+      "url": "https://ask.metafilter.com/376982/Do-I-really-need-to-take-antimalarials-for-this-trip",
+      "urlToImage": "http://cdn.mefi.us/images/askmefi/apple-touch-icon.png",
+      "publishedAt": "2023-12-04 19:42:50",
+      "content": "Up to date on all my shots - in the last 30 days I've had my COVID and flu shots, just finished the typhoid vaccine, and have received two doses of Twinrix (Hep A and B).I'm pro-vaccine, I just don't\u2026 [+1020 chars]",
+      "retrievedAt": "2023-12-06 07:05:44.300745",
+      "internal_id": "a1643196948cc8c0427c3af6aa185b1894e7491bf6c3e4a25f3af2c7a0a73b75",
+      "publishedAtLabel": "Dec 4"
+    },
     {
       "id": 3507,
       "query": [
@@ -3474,150 +3619,6 @@
       "retrievedAt": "2023-11-25 19:05:23.188793",
       "internal_id": "f82cba6373e44b5fc90956245ae1333742c1054f0b471b5ee90216cbd5aac927",
       "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3325,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "MARIA CHENG AP medical writer",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak",
-      "description": "The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak",
-      "url": "https://abcnews.go.com/Health/wireStory/confirms-sexual-spread-mpox-congo-1st-time-country-105134362",
-      "urlToImage": "https://i.abcnewsfe.com/a/8d0b3be3-0904-441d-8fb5-a4ca78c74123/wirestory_db409f48ea2d03d375c046d61c5ab96b_16x9.jpg?w=992",
-      "publishedAt": "2023-11-24 12:22:35",
-      "content": "LONDON -- The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country's experiences its biggest-ever outbreak, a worrying development th\u2026 [+3471 chars]",
-      "retrievedAt": "2023-11-25 19:05:23.177422",
-      "internal_id": "77456ce5afa44058b11444c6b4e538ca5d603e80a0162866ba1638e5ff1d0b6c",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3324,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Ashlyn Messier",
-      "title": "Protective measures, causes and symptoms to look out for if traveling to a place where malaria is common",
-      "description": "Malaria is a disease transmitted through mosquitos that can become fatal. It's vital to take preventative measures when traveling to a place where the disease is common.",
-      "url": "https://www.foxnews.com/lifestyle/signs-symptoms-causes-malaria",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/mosquito-on-skin.jpg",
-      "publishedAt": "2023-11-24 10:49:21",
-      "content": "Malaria is spread through mosquitoes and can be fatal if it is not treated quickly. The disease is rare in the United States, with just about 2,000 cases each year, according to the Centers for Dis\u2026 [+3080 chars]",
-      "retrievedAt": "2023-11-25 19:05:22.302010",
-      "internal_id": "56d357d50510095e0db764a5e092fa09969d57f0fdcfd54343508707c9f1dce9",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3322,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Sean Muhamad, Raka Adji",
-      "title": "Indonesia's Health Ministry warns against Wolbachia hoaxes",
-      "description": "Indonesia's Health Ministry on Friday urged the community to not readily believe hoaxes related to Wolbachia circulating on the internet. The government is implementing a Wolbachia-based strategy to mitigate dengue ...",
-      "url": "https://en.antaranews.com/news/299424/indonesias-health-ministry-warns-against-wolbachia-hoaxes",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/20/EAAFA1E5-E1E3-46E2-9762-69967A6E6859.jpeg",
-      "publishedAt": "2023-11-24 10:22:10",
-      "content": "Jakarta (ANTARA) - Indonesia's Health Ministry on Friday urged the community to not readily believe hoaxes related to Wolbachia circulating on the internet.The government is implementing a Wolbachia-\u2026 [+1767 chars]",
-      "retrievedAt": "2023-11-25 19:05:21.518532",
-      "internal_id": "b000770d4fc9f771843997529dc92512298f740b00a96fdf4c922be6af724ca1",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3323,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "El Financiero",
-      "author": "Sonya Santos",
-      "title": "Surgi\u00f3 en Per\u00fa y se uni\u00f3 en la India con un holand\u00e9s: Gin&Tonic",
-      "description": "La quinina es un compuesto qu\u00edmico amargo que se encuentra en la corteza del \u00e1rbol de la quina, que tiene sus or\u00edgenes en Sudam\u00e9rica. Se utilizaba hist\u00f3ricamente para tratar la malaria.",
-      "url": "https://www.elfinanciero.com.mx/opinion/sonya-santos/2023/11/24/surgio-en-peru-y-se-unio-en-la-india-con-un-holandes-gintonic/",
-      "urlToImage": "https://www.elfinanciero.com.mx/resizer/t0tHrXstn2FgG8zBUn9zcbhvMNg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/G55GJZTFPRHQFJWFPA4ZMZ37BI.jpg",
-      "publishedAt": "2023-11-24 08:10:25",
-      "content": "La bebida que llamamos gin and tonic tiene sus ra\u00edces en el siglo XIX, cuando los soldados brit\u00e1nicos en la India consum\u00edan quinina para combatir la malaria, y como era muy amarga, la mezclaban con a\u2026 [+3457 chars]",
-      "retrievedAt": "2023-11-25 19:05:22.275243",
-      "internal_id": "411d8dd5949a86bd28e908c625c2ef46fd47751854c53fb26a553ba7aa69f545",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3318,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Men and Boys in Uganda Work to Stop Cycles of Gender-Based Violence",
-      "description": "[UNFPA] Kasese District, Uganda -- Through his work as a village health team member in Kasese District, Uganda, Timothy Mbene Masereka had become adept at treating community members for illnesses such as malaria and pneumonia.",
-      "url": "https://allafrica.com/stories/202311240020.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-24 04:51:44",
-      "content": "Kasese District, Uganda \u2014 Through his work as a village health team member in Kasese District, Uganda, Timothy Mbene Masereka had become adept at treating community members for illnesses such as mala\u2026 [+5278 chars]",
-      "retrievedAt": "2023-11-25 07:05:47.035083",
-      "internal_id": "92376fd3e07437b54573376de7efd63160808f8444b0f5678478cd2d8ae316f9",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3317,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Dirisu Yakubu",
-      "title": "Reps probe N62bn HIV/AIDS fund",
-      "description": "The House Committee on HIV/AIDS, Tuberculosis, Leprosy and Malaria on Thursday pledged to investigate the utilisation and impact of the N62bn Federal Government intervention funds invested into the HIV/AIDS control programme and other donor funds by Global F\u2026",
-      "url": "https://punchng.com/reps-probe-n62bn-hiv-aids-fund/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/06/07145506/01-reps-2-e1686146106154.jpg",
-      "publishedAt": "2023-11-23 21:05:20",
-      "content": "The House Committee on HIV/AIDS, Tuberculosis, Leprosy and Malaria on Thursday pledged to investigate the utilisation and impact of the N62bn Federal Government intervention funds invested into the H\u2026 [+1611 chars]",
-      "retrievedAt": "2023-11-25 07:05:47.012302",
-      "internal_id": "61e32337f7b05f6606c0d0865a3b10aae0af52ef2d93a3c683a7f41a142d17b7",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3316,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "diego.valencia",
-      "title": "Ap\u00f3s recorde em 2022, Brasil bate mil mortes de dengue novamente",
-      "description": "Foram registradas 1.037 mortes \u2013 com casos ainda em investiga\u00e7\u00e3o at\u00e9 novembro de 2023",
-      "url": "https://veja.abril.com.br/saude/apos-recorde-em-2022-brasil-bate-mil-mortes-de-dengue-novamente",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/aedes_aegypti-dengue2.webp?w=680&h=453&crop=1",
-      "publishedAt": "2023-11-23 20:28:26",
-      "content": "BLACK FRIDAY: ASSINE a partir de R$ 1 por semanaContinua ap\u00f3s publicidade Foram registradas 1.037 mortes com casos ainda em investiga\u00e7\u00e3o at\u00e9 novembro de 2023 Por Diego Alejandro Atualizado em 23 \u2026 [+2071 chars]",
-      "retrievedAt": "2023-11-25 07:05:46.329867",
-      "internal_id": "d6a2ab26655021fc0a9f9fd39647dcf920b84d61dcecaa19ff174d3111de20f0",
-      "publishedAtLabel": "Nov 23"
-    },
-    {
-      "id": 3312,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Research and Markets",
-      "title": "Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment",
-      "description": "Dublin, Nov. 23, 2023 (GLOBE NEWSWIRE) -- The \"Global Artemisinin Combination Therapy Market (2022-2027) by Combination Therapy Type, and Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis\" report has been added to ResearchAndMark\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/11/23/2785323/28124/en/Global-Artemisinin-Combination-Therapy-Market-2022-2027-An-Artemisinin-Based-Combination-of-Multiple-Medicines-That-Are-Matched-in-Terms-of-Half-Life-Might-Be-the-Future-of-Malaria.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "publishedAt": "2023-11-23 15:13:00",
-      "content": "Dublin, Nov. 23, 2023 (GLOBE NEWSWIRE) -- The \"Global Artemisinin Combination Therapy Market (2022-2027) by Combination Therapy Type, and Geography, Competitive Analysis and the Impact of Covid-19 wi\u2026 [+4096 chars]",
-      "retrievedAt": "2023-11-24 19:05:22.855402",
-      "internal_id": "182a4995ad699f5b0c97f5ebc0e56d1d5785852f5aef4592a220b763da53a7c2",
-      "publishedAtLabel": "Nov 23"
     }
   ]
 }
