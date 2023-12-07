@@ -1,8 +1,101 @@
 {
-  "last_updated": "2023-12-06 19:05",
+  "last_updated": "2023-12-07 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 12,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 3537,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "'Sanatanis you abused are helping people in flood': Ex-Pakistan cricketer Danish Kaneria hits out at Tamil Nadu CM Stalin's son",
+      "description": "\u200bKaneria was referring to Udhayanidhi's statement in a conference that Sanatan Dharma is like malaria and dengue which needs to be eradicated. Quoting Udhayanidhi's statement, Kaneria wrote on social media platform 'X' on Tuesday, \"A few weeks ago, the son of\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/sanatanis-you-abused-are-helping-people-in-flood-ex-pakistan-cricketer-danish-kaneria-hits-out-at-tamil-nadu-cm-stalins-son/articleshow/105773639.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-105774332,width-1200,height-630,imgsize-164016,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-12-06 06:14:25",
+      "content": "Taking a dig at Udhayanidhi Stalin, the son of Tamil Nadu Chief Minister MK Stalin, former Pakistan cricketer Dashin Kaneria has said that the same Sanatanis are now helping the people during the flo\u2026 [+1931 chars]",
+      "retrievedAt": "2023-12-07 07:05:47.248415",
+      "internal_id": "b1c22c4cdbc8c6cf3ec2eeb4d477f487decc39072df94cef2297104fa1138ac3",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3536,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "Dengue: moradores da Colina da UnB denunciam explos\u00e3o de casos na \u00e1rea",
+      "description": "Unidades funcionais da UnB est\u00e3o pr\u00f3ximas a pr\u00e9dios abandonados com mato alto e a acampamentos que acumulam focos do Aedes aegypti na regi\u00e3o",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-moradores-da-colina-da-unb-denunciam-explosao-de-casos-na-area",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/12/05143536/Colina-UnB.jpeg",
+      "publishedAt": "2023-12-06 05:45:39",
+      "content": "Professores, servidores e estudantes da Universidade de Bras\u00edlia (UnB) que moram nos im\u00f3veis funcionais da \u00e1rea conhecida como Colina denunciam uma explos\u00e3o de casos de dengue na \u00e1rea. O ac\u00famulo de \u2026 [+5709 chars]",
+      "retrievedAt": "2023-12-07 07:05:47.242884",
+      "internal_id": "07187c9ce439c006a74aaff611f8ff5e2e4f27122a901c6909923925223b56dc",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3538,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNET",
+      "author": null,
+      "title": "\u682a\u5f0f\u4f1a\u793e\u96fb\u901a\u30b0\u30eb\u30fc\u30d7\u96fb\u901a\u30b0\u30eb\u30fc\u30d7\u3001\u30de\u30e9\u30ea\u30a2\u64b2\u6ec5\u3078\u306e\u65b0\u305f\u306a\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u300c\u30bc\u30ed\u30fb\u30de\u30e9\u30ea\u30a2\uff1a\u30c1\u30a7\u30f3\u30b8\u30fb\u30b6\u30fb\u30b9\u30c8\u30fc\u30ea\u30fc\u300d\u3092\u652f\u63f4",
+      "description": "\u96fb\u901a\u30b0\u30eb\u30fc\u30d7\uff08\u30d6\u30e9\u30f3\u30c9\uff1a\u300cdentsu\u300d\u3001\u672c\u793e\uff1a\u682a\u5f0f\u4f1a\u793e\u96fb\u901a\u30b0\u30eb\u30fc\u30d7\u3001\u62e0\u70b9\uff1a\u6771\u4eac\u90fd\u6e2f\u533a\u3001\u4ee3\u8868\u8005\uff1a\u4ee3\u8868\u57f7\u884c\u5f79 \u793e\u9577 CEO \u4e94\u5341\u5d50 \u535a\uff09\u306f\u3001\u4e16\u754c\u7684\u6148\u5584\u56e3\u4f53\u300cMalaria No More UK\uff08\u30de\u30e9\u30ea\u30a2\u30fb\u30ce\u30fc\u30e2\u30a2UK\uff09\u300d\u203b1\u304c\u63a8\u9032\u3059\u308b\u30de\u30e9\u30ea\u30a2\u64b2\u6ec5\u3078\u5411\u3051\u305f\u65b0\u305f\u306a\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u300cZero Malaria: Change the Story\uff08\u30bc\u30ed\u30fb\u30de\u30e9\u30ea\u30a2\uff1a\u30c1\u30a7\u30f3\u30b8\u30fb\u30b6...",
+      "url": "https://japan.cnet.com/release/30923202/",
+      "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+      "publishedAt": "2023-12-06 05:15:00",
+      "content": "dentsu CEO Malaria No More UKUK1Zero Malaria: Change the Story 28COP28 Meji AlabiDavid Beckham13Ellyanne Wanjiku-Chlystun Change the Story URL 2dentsu2017UK20225003SDGs dentsu Sub Saharan Africa\u2026 [+419 chars]",
+      "retrievedAt": "2023-12-07 07:05:48.396415",
+      "internal_id": "d932a2df87f21d1ee64f1978e1801455749bc13207ba9782c7f497ee500050fd",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3539,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Mpox in the Democratic Republic of the Congo (DRC)",
+      "description": "There is an outbreak of mpox in 22 out of 26 provinces, including urban areas, in the DRC.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/mpox-democratic-republic-of-congo",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2023-12-06 05:00:00",
+      "content": "Mpox is a disease caused by infection with monkeypox virus. Mpox is endemic throughout Central and West Africa near forests. People usually become infected with the monkeypox virus through contact w\u2026 [+566 chars]",
+      "retrievedAt": "2023-12-07 07:05:49.186868",
+      "internal_id": "f231bb233be3b175063f4a1e7f2cea3e1022b76bda12b7081cb207f31575ee17",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3535,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Calor vai espalhar mal\u00e1ria, zika, dengue e chikungunya pelo mundo, alerta especialista em medicina tropical",
+      "description": "Lisboa, 05 dez 2023 (Lusa) -- Uma especialista em doen\u00e7as tropicais afirmou hoje que as infe\u00e7\u00f5es como a mal\u00e1ria, o zika, dengue e chikungunya v\u00e3o aumentar e espalhar-se pelo mundo \u00e0 medida que as temperaturas aumentam devido \u00e0s altera\u00e7\u00f5es clim\u00e1ticas.",
+      "url": "https://observador.pt/2023/12/05/calor-vai-espalhar-malaria-zika-dengue-e-chikungunya-pelo-mundo-alerta-especialista-em-medicina-tropical/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2878%3A1615%3Anowe%3A0%3A283%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F09%2F27204150%2Fgettyimages-1245684925.jpg",
+      "publishedAt": "2023-12-05 21:35:07",
+      "content": "Uma especialista em doen\u00e7as tropicais afirmou, esta ter\u00e7a-feira, que as infe\u00e7\u00f5es como a mal\u00e1ria, o zika, dengue e chikungunya v\u00e3o aumentar e espalhar-se pelo mundo \u00e0 medida que as temperaturas aument\u2026 [+1986 chars]",
+      "retrievedAt": "2023-12-07 07:05:47.224232",
+      "internal_id": "8c081d38534c8843d95c4597216b34eddb1c93f500eb2e772e1d2080803673d2",
+      "publishedAtLabel": "Dec 5"
+    },
     {
       "id": 3530,
       "query": [
@@ -3528,97 +3621,6 @@
       "content": "The WHO stated that the risk of mpox spreading globally is significant. The World Health Organization (WHO) has officially classified monkeypox (mpox), an infectious disease caused by the monkeypox \u2026 [+2567 chars]",
       "retrievedAt": "2023-11-26 19:05:16.391551",
       "internal_id": "c98225efdce6adc62402d4db9b67f04489c8a13687fa363d9dcca02e800ae972",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3338,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Climate change pushes dengue into new frontiers across India",
-      "description": "Nina's death from dengue in Nagaland highlights the devastating crisis of the disease in the Northeast due to climate change, with late monsoons contributing to its spread. Dengue transmission is influenced by rainfall, humidity, and temperature, creating fav\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/climate-change-pushes-dengue-into-new-frontiers-across-india/articleshow/105495534.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105495572,width-1070,height-580,imgsize-121066,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-25 10:12:32",
-      "content": "10 most beautiful lines by English Romantic poets",
-      "retrievedAt": "2023-11-26 19:05:14.769281",
-      "internal_id": "ca13f34b4e96b3c44f043deb1b08ebde176c4f6782fb5058f2c22b2271e96450",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3335,
-      "query": [
-        "pertussis",
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Sciencebasedmedicine.org",
-      "author": "Jonathan Howard",
-      "title": "I Agree with Dr. Vinay Prasad: It\u2019s Entirely Predictable That More Parents Don\u2019t Want Routine Vaccination for Their Kids",
-      "description": "Dr. Prasad didn't predict this sad outcome, he worked tirelessly to cause it. So did many other doctors. The post I Agree with Dr. Vinay Prasad: It\u2019s Entirely Predictable That More Parents Don\u2019t Want Routine Vaccination for Their Kids first appeared on Scienc\u2026",
-      "url": "https://sciencebasedmedicine.org/predictable/",
-      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2029/11/Picture1-1.jpg",
-      "publishedAt": "2023-11-25 08:09:26",
-      "content": "\u201cEntirely Predictable: More Parents Don\u2019t Want Routine Vaccination for Their Kids\u201d Measles, pertussis, and chickenpox are poised to make a comeback. According to a recent article titled CDC Data Sho\u2026 [+12622 chars]",
-      "retrievedAt": "2023-11-26 19:05:14.146061",
-      "internal_id": "0d18b35b347134ea7fa45dd30d0468812bb0d8036662dbcb5bde46b7f4390b6a",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3339,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "No seat-sharing talks yet among Maharashtra's ruling parties for upcoming polls: Ajit Pawar",
-      "description": "Maharashtra Deputy Chief Minister Ajit Pawar clarified that there have been no discussions on seat sharing within the ruling Mahayuti alliance for the upcoming Lok Sabha and assembly elections. Pawar, addressing health rumors, stated he suffered from dengue a\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/no-seat-sharing-talks-yet-among-maharashtras-ruling-parties-for-upcoming-polls-ajit-pawar/articleshow/105492847.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-105493060,width-1200,height-630,imgsize-40438,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-11-25 07:58:17",
-      "content": "PUNE: Maharashtra Deputy Chief Minister and NCP leader Ajit Pawar on Saturday said there have been no talks regarding seat sharing among members of the state's ruling alliance for the upcoming Lok Sa\u2026 [+1146 chars]",
-      "retrievedAt": "2023-11-26 19:05:14.772532",
-      "internal_id": "7e23968d198d739a1fe8b1020a143013f0df7235e0a143d32e9d091024ab3a0e",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3341,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vanitha.in",
-      "author": null,
-      "title": "\u2018\u0d2a\u0d28\u0d3f \u0d35\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d12\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d32\u0d41\u0d02 \u0d38\u0d4d\u0d35\u0d2f\u0d02 \u0d1a\u0d3f\u0d15\u0d3f\u0d24\u0d4d\u0d38\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41 \u0d2e\u0d41\u0d24\u0d3f\u0d30\u0d30\u0d41\u0d24\u0d4d\u2019; \u0d21\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f, \u0d08 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d7e \u0d38\u0d42\u0d15\u0d4d\u0d37\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d02! | Dengue fever | health",
-      "description": "\u0d2e\u0d34\u0d15\u0d4d\u0d15\u0d3e\u0d32\u0d02 \u0d06\u0d30\u0d02\u0d2d\u0d3f\u0d1a\u0d4d\u0d1a\u0d24\u0d4b\u0d1f\u0d46 \u0d21\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f \u0d2a\u0d4b\u0d32\u0d41\u0d33\u0d4d\u0d33 \u0d2e\u0d34\u0d15\u0d4d\u0d15\u0d3e\u0d32 \u0d30\u0d4b\u0d17\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d02 \u0d2a\u0d3f\u0d1f\u0d3f\u0d2e\u0d41\u0d31\u0d41\u0d15\u0d4d\u0d15\u0d3f\u0d24\u0d4d\u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d3f. \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2a\u0d4d\u0d30\u0d35\u0d7c\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d7e \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d15\u0d4d\u0d15\u0d3f\u0d2f\u0d3e\u0d7d \u0d2a\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d41 \u0d2a\u0d41\u0d31\u0d24\u0d4d\u0d24\u0d41 \u0d28\u0d3f\u0d7c\u0d24\u0d4d\u0d24\u0d3e\u0d35\u0d41\u0d28\u0d4d\u0d28 \u0d12\u0d28\u0d4d\u0d28\u0d3e\u0d23\u0d4d \u0d21\u0d46\u0d19\u0d4d\u0d15\u0d3f\u0d2a\u0d4d\u0d2a\u0d28\u0d3f\u0d2f\u0d41\u0d02. \u0d05\u0d25\u0d35\u0d3e \u0d30\u0d4b\u0d17\u0d02 \u0d2a\u0d3f\u0d1f\u0d3f\u0d15\u0d42\u0d1f\u0d3f \u0d15\u0d34\u0d3f\u0d1e\u0d4d\u0d1e\u0d3e\u0d7d \u0d38\u0d4d\u0d35\u0d2f\u0d02 \u0d1a\u0d3f\u0d15\u0d3f\u0d24\u0d4d\u0d38\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d41 \u0d2e\u0d41\u0d24\u0d3f\u0d30\u0d3e\u0d24\u0d46 \u0d0e\u0d24\u0d4d\u0d30\u0d2f\u0d41\u0d02 \u0d2a\u0d46\u0d1f\u0d4d\u0d1f\u0d46\u0d28\u0d4d\u0d28\u0d4d \u0d35\u0d3f\u0d26\u0d17\u0d4d\u0d26 \u0d1a\u0d3f\u0d15\u2026",
-      "url": "https://www.vanitha.in/glam-up/health-news/dengue-fever-related-symptoms-and-alerts-health-news-report.html",
-      "urlToImage": "https://img.vanitha.in/content/dam/vanitha/daily-updates/just-in/images/2023/11/25/dengue-fever45566000.jpg",
-      "publishedAt": "2023-11-25 07:49:02",
-      "content": ". . . . 1. ? . . , . . . . 2. ? 10 . , , , , , . . 3. ? . . . . . . 4. ? . . , , . . : . . . . . . . , . . . . ( ), , . . , . . . . , , , . . . \u2026 [+5 chars]",
-      "retrievedAt": "2023-11-26 19:05:14.792839",
-      "internal_id": "62ef843fc9da96804f8fb14916b083d396e820922ad0aeda38ff689ccc8afe1c",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3344,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Frequentfloaters.com",
-      "author": "Frequent Floaters",
-      "title": "$199 Bose Q45s, Bonus on Delta Gift Card, Cruise Stuff Sale, Mistakes Guests Make and Malaria from a Cruise?",
-      "description": "Last week today I left LA and had a lovely flight home including Delta One from LAX to ATL. I enjoyed a massage at the Centurion and everything went smoothly. Well other than one thing \u2013 someone was flying sick and both my wife and I spent Sunday \u2013 Tuesday on\u2026",
-      "url": "https://frequentfloaters.com/199-bose-q45s-bonus-on-delta-gift-card-cruise-stuff-sale-mistakes-guests-make-and-malaria-from-a-cruise/",
-      "urlToImage": "https://frequentfloaters.com/wp-content/uploads/2023/10/Oceania-Vista-Opolo-Purchased-in-Kotor-and-Enjoyed-in-PH-2023.jpeg",
-      "publishedAt": "2023-11-25 07:45:42",
-      "content": "As an Amazon Affiliate, we may earn a commission on eligible purchases made through our referrals. Advertiser Disclosure: Frequent Floaters has partnered with CardRatings for our coverage of credit c\u2026 [+2780 chars]",
-      "retrievedAt": "2023-11-26 19:05:15.472414",
-      "internal_id": "9838f1478ad9c06df385c5ab8ddb825fad61cc14dacb47ce0561ce9e544e15ed",
       "publishedAtLabel": "Nov 25"
     }
   ]
