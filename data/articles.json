@@ -1,8 +1,404 @@
 {
-  "last_updated": "2023-12-07 07:05",
+  "last_updated": "2023-12-07 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 3554,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Jeremy C. Fox",
+      "title": "Northeastern University student, 21, dies of complications from bacterial meningitis",
+      "description": "Shane Michael McCarthy was a Greenfield native and was studying business management before his death on Nov. 30, according to Northeastern and his online obituary.",
+      "url": "https://www.bostonglobe.com/2023/12/06/metro/northeastern-student-dies-bacterial-meningitis/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/5yddxaAS1wLEEx3BLHg9k045Sfs=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/S7PSFKTPK734LUUXZXPITBMEGA.jpg",
+      "publishedAt": "2023-12-06 17:40:25",
+      "content": "Northeastern officials notified faculty, staff, and students at the DAmore-McKim School of Business of McCarthys death in an email Wednesday morning. Shane was an outstanding student in the BSBA [ba\u2026 [+3179 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.268174",
+      "internal_id": "8d6ad19451e7c195109efa7a44447bfb921b9cf97d48bd6c67dfb3308272553b",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3552,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Entenda como calor acima da m\u00e9dia em Campinas pode agravar n\u00fameros da dengue",
+      "description": "De acordo com dados do Cepagri, cidade teve m\u00e1ximas acima do comum em ao menos sete meses de 2023. Especialista detalha por que esse cen\u00e1rio est\u00e1 diretamente ligado \u00e0 prolifera\u00e7\u00e3o do Aedes aegypti. Recorde de calor contribui para aumento de casos de dengue em\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/06/entenda-como-calor-acima-da-media-em-campinas-pode-agravar-numeros-da-dengue.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/EjbdDjBol4mQ4XnNxFTMp_xmyBM=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/12173215.jpg",
+      "publishedAt": "2023-12-06 17:08:18",
+      "content": "O cen\u00e1rio foi observado em mar\u00e7o, maio, julho, agosto, setembro, outubro e novembro. Em setembro, por exemplo, quando normalmente eram registrados 28,5\u00b0C, a temperatura m\u00e9dia chegou a 31,4\u00b0C (veja o \u2026 [+4210 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.088699",
+      "internal_id": "4430312d637851ad7710f0c37662f5dccaea22bbf86722accc3f532000fac580",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3559,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Mpox surge in Congo raises concerns world will ignore warnings again - The Washington Post",
+      "description": "Mpox surge in Congo raises concerns world will ignore warnings againThe Washington Post View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172397577",
+      "urlToImage": null,
+      "publishedAt": "2023-12-06 16:53:24",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-12-07 19:05:27.814765",
+      "internal_id": "72e6277b22873ecf51627c7b0657ce22ce5be06daffda3cfeaa98ae9bbe6435a",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3541,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "6abc Digital Staff",
+      "title": "Rabies virus: New Jersey health officials warn after 2 raccoon attacks by potentially rabid animal near Princeton University",
+      "description": "Rabies virus: New Jersey health officials warn after 2 raccoon attacks by potentially rabid animal near Princeton University6abc.com",
+      "url": "https://6abc.com/raccoon-attack-princeton-university-new-jersey-rabies/14147485/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/11433726_010622-cc-ap-rabies-microscope-img.jpeg?w=1600",
+      "publishedAt": "2023-12-06 16:20:49",
+      "content": "PRINCETON, New Jersey (WPVI) -- A Princeton University student is being treated after being attacked by a raccoon that is suspected to have rabies. It is the second incident this week involving a pot\u2026 [+3836 chars]",
+      "retrievedAt": "2023-12-07 19:05:25.631763",
+      "internal_id": "5918b5c5c45f0aa5b065adc11605baae72bb6573b5de2165ca57a003c965efb4",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3551,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Somit Sen",
+      "title": "1,000 get free health treatment, 400 sign for 'Quit Tobacco' near Chaityabhoomi in Mumbai",
+      "description": "The BEST took a proactive step on Mahaparinirvan Divas by setting up a special stall at Shivaji Park near Chaityabhoomi in Mumbai to raise awareness about quitting tobacco and preventing dengue.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/1000-get-free-health-treatment-400-sign-for-quit-tobacco-near-chaityabhoomi-in-mumbai/articleshow/105790654.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-12-06 15:51:16",
+      "content": "12 hill stations and their must-try dishes",
+      "retrievedAt": "2023-12-07 19:05:26.085494",
+      "internal_id": "31603d2f997d0239258f7a785d9770c00d8128f5ff8806a27cffb833ac484ffc",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3555,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Carol Clark-Emory",
+      "title": "Building boom in Ethiopia may foster malaria vector mosquitoes",
+      "description": "A malaria-carrying mosquito, Anopheles stephensi, is moving into African cities, where a construction boom appears to welcome them in.",
+      "url": "https://www.futurity.org/anopheles-stephensi-ethiopia-malaria-3005612/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2023/12/stephansi_mosquitoes_ethiopia_malaria.jpg",
+      "publishedAt": "2023-12-06 14:34:38",
+      "content": "A malaria-carrying mosquito that thrives in urban environments is moving into Africa, where a construction boom may be one factor welcoming them. Lancet Planetary Health published the findings on th\u2026 [+9047 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.764399",
+      "internal_id": "e6d80486c66f1837868741388258024064c1243723ed9eea1deee005705ee7ed",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3557,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Fossils of 130-yr-million male mosquitoes found in Lebanon",
+      "description": "\u200bThe two fossilized mosquitoes, both representing the same extinct species, are similar in size and appearance to modern mosquitoes, though the mouthparts used for obtaining blood are shorter than in today's female mosquitoes.",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/fossils-of-130-yr-million-male-mosquitoes-found-in-lebanon/articleshow/105788570.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-105788722,width-1200,height-630,imgsize-120492,overlay-etpanache/photo.jpg",
+      "publishedAt": "2023-12-06 14:30:00",
+      "content": "Washington - Hundreds of thousands of people worldwide are killed annually by malaria and other diseases spread through the bite of mosquitoes, insects that date back to the age of dinosaurs. All of \u2026 [+3876 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.791048",
+      "internal_id": "5453a945757be21b4fa0511ae95e9134388e5298bda9909f9b3a1f7bbbce0e4f",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3544,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Clare P. McCormack, Olivia Goethals, Nele Goeyvaerts, Xavier D. Woot de Trixhe, Peggy Geluykens, Doortje Borrenberghs, Neil M. Ferguson, Oliver Ackaert, Ilaria Dorigatti",
+      "title": "Modelling the impact of JNJ-1802, a first-in-class dengue inhibitor blocking the NS3-NS4B interaction, on in-vitro DENV-2 dynamics",
+      "description": "Author summary Dengue poses a major challenge to global public health, with almost half of the world\u2019s population at risk of infection each year. However, currently, no licensed specific prophylactic or antiviral treatment for dengue exists. JNJ-1802, a novel\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011662",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1011662.g005&size=inline",
+      "publishedAt": "2023-12-06 14:00:00",
+      "content": "Fig A. Variation in viral RNA measurements. Co-efficient of variation (CV) for the log10 viral RNA measurement obtained from experimental infection studies in Vero cells, disaggregated by measurement\u2026 [+18137 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.051916",
+      "internal_id": "e75735106845bef8801812bb5cff1ea24f3a34fc13c11e4de82c6997af3a6cd5",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3549,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yu-Wen Chien, Hsin-I Shih, Yu-Ping Wang, Chia-Yu Chi",
+      "title": "Re-examination of the risk of dementia after dengue virus infection: A population-based cohort study",
+      "description": "Author summary Dengue fever is a mosquito-borne disease caused by the dengue virus. Dengue infection has been shown to affect the central nervous system and cause various complications during the acute stage. Two previous studies suggested that dengue virus h\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011788",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011788.g001&size=inline",
+      "publishedAt": "2023-12-06 14:00:00",
+      "content": "Abstract Dengue infection can affect the central nervous system and cause various neurological complications. Previous studies also suggest dengue was associated with a significantly increased long-\u2026 [+32576 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.074343",
+      "internal_id": "c7794f1d4cf825ca7483c791926c93f08552e5e3c8cdbdfdc26473c746e52f0f",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3558,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Churnalisa Doran, Ashley Duits, Adriana Tami, Izzy Gerstenbluth, Ajay Bailey",
+      "title": "\u201cIt\u2019s very saddening, you keep on wondering when the symptoms will be over\u201d: A qualitative study exploring the long-term chikungunya disease impact on daily life and well-being, 6 years after disease onset",
+      "description": "Author summary Long-term chikungunya disease is characterized by persistent rheumatic symptoms for years, after infection with the mosquito-borne chikungunya virus. Quantitative studies using generic instruments, consisting of pre-selected structured response\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011793",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011793.t001&size=inline",
+      "publishedAt": "2023-12-06 14:00:00",
+      "content": "Citation: Doran C, Duits A, Tami A, Gerstenbluth I, Bailey A (2023) Its very saddening, you keep on wondering when the symptoms will be over: A qualitative study exploring the long-term chikungunya d\u2026 [+38530 chars]",
+      "retrievedAt": "2023-12-07 19:05:27.484002",
+      "internal_id": "b278b9acc9acd780d86d7198f611b6adae44780392bc3bf768055d307a3dd43f",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3545,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "BABA AHMED Associated Press",
+      "title": "At least 21 deaths and 600 cases of dengue fever in Mali",
+      "description": "Dengue fever is on the rise in Mali, where officials are reporting new infections and deaths from the virus this week",
+      "url": "https://abcnews.go.com/International/wireStory/21-deaths-600-cases-dengue-fever-mali-105416538",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-12-06 13:26:02",
+      "content": "BAMAKO, Mali -- Dengue fever is on the rise in Mali, where officials are reporting new infections and deaths from the virus this week. Malis director general of health and public hygiene, Dr. Cheick\u2026 [+1421 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.055525",
+      "internal_id": "81880c9a8e5835db4e028c25d7195a3a8e31b6a32a39e57bca1d3c8d0fc2d58e",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3548,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "At least 21 deaths and 600 cases of dengue fever in Mali",
+      "description": "Dengue fever is on the rise in Mali, where officials are reporting new infections and deaths from the virus this week. Mali's director general of health and public hygiene, Dr Cheick Amadou Tidiane Traore, told The Associated Press in an interview Wednesday t\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-21-deaths-and-600-cases-of-dengue-fever-in-mali/articleshow/105788334.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105788368,width-1070,height-580,imgsize-702774,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-12-06 13:25:07",
+      "content": "Khushi Dubey's stunning pics in pink gown",
+      "retrievedAt": "2023-12-07 19:05:26.071659",
+      "internal_id": "9b4d0b65af73e562494c28fd32082f0814566e67861feb6b951ef5244bc52285",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3553,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By BABA AHMED, Associated Press",
+      "title": "At least 21 deaths and 600 cases of dengue fever in Mali",
+      "description": "Dengue fever is on the rise in Mali, where officials are reporting new infections and deaths from the virus this week. The country's government has not released official figures but its director general of health and public hygiene told The Associated Press o\u2026",
+      "url": "https://www.seattlepi.com/news/world/article/at-least-21-deaths-and-600-cases-of-dengue-fever-18536659.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/34/02/65/24128891/3/rawImage.jpg",
+      "publishedAt": "2023-12-06 13:22:04",
+      "content": "BAMAKO, Mali (AP) Dengue fever is on the rise in Mali, where officials are reporting new infections and deaths from the virus this week. Malis director general of health and public hygiene, Dr. Chei\u2026 [+1423 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.100464",
+      "internal_id": "5817400715cac308679195b70da91b9a97ce4dfc160987874451c9dac8c319da",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3546,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "BABA AHMED Associated Press",
+      "title": "At least 21 deaths and 600 cases of dengue fever in Mali",
+      "description": "Dengue fever is on the rise in Mali, where officials are reporting new infections and deaths from the virus this week",
+      "url": "https://abcnews.go.com/Health/wireStory/21-deaths-600-cases-dengue-fever-mali-105416557",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2023-12-06 13:18:08",
+      "content": "BAMAKO, Mali -- Dengue fever is on the rise in Mali, where officials are reporting new infections and deaths from the virus this week. Malis director general of health and public hygiene, Dr. Cheick\u2026 [+1421 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.061521",
+      "internal_id": "cdc0770b6d2de8074d55249323e9939cddba11a7d341d95874cd42df46429bbf",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3556,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Oldest mosquito in amber reveals bloodsucking surprise",
+      "description": "Researchers found a male mosquito trapped in amber 130 million years ago, the oldest ever discovered. And it could do something no male mosquito alive today can do.",
+      "url": "https://www.cbc.ca/news/science/mosquito-amber-1.7050391",
+      "urlToImage": "https://i.cbc.ca/1.7050395.1701867200!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/science-mosquito.JPG",
+      "publishedAt": "2023-12-06 13:17:43",
+      "content": "Hundreds of thousands of people worldwide are killed annually by malaria and other diseases spread through the bite of mosquitoes, insects that date back to the age of dinosaurs. All of these bites a\u2026 [+3886 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.781240",
+      "internal_id": "7ff2d1d7541172a907cc8873f058d1c3ca17c79bd7742ea651b268af3b42d827",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3543,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputnikglobe.com",
+      "author": "Sputnik International",
+      "title": "Number of Dengue Fever Cases in Sri Lanka Hits 3-Year Record - Reports",
+      "description": "MOSCOW (Sputnik) - The number of dengue cases in Sri Lanka has surpassed a record 78,000, the highest in three years, media reported, citing the National Dengue Control Unit.",
+      "url": "https://sputnikglobe.com/20231206/number-of-dengue-fever-cases-in-sri-lanka-hits-3-year-record---reports-1115427509.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1115427509.jpg?10572137791701867697",
+      "publishedAt": "2023-12-06 13:01:36",
+      "content": "Find top stories and features from Asia and the Pacific region. Keep updated on major political stories and analyses from Asia and the Pacific. All you want to know about China, Japan, North and Sout\u2026 [+3670 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.045321",
+      "internal_id": "3e167409d614474d06cab56296e86d96f7516430c0935cefdccf9ddfa4dbaa4a",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3540,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Iz.ru",
+      "author": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0417\u0430\u0439\u0432\u044b\u0439",
+      "title": "\u0412 \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u0435\u043b \u0440\u043e\u0441\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438 \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c",
+      "description": "\u0412 \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0432\u044b\u044f\u0432\u043b\u0435\u043d \u0440\u043e\u0441\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438 \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c. \u041e\u0431 \u044d\u0442\u043e\u043c 6 \u0434\u0435\u043a\u0430\u0431\u0440\u044f \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0420\u043e\u0441\u043f\u043e\u0442\u0440\u0435\u0431\u043d\u0430\u0434\u0437\u043e\u0440\u0430 \u043f\u043e \u0440\u0435\u0433\u0438\u043e\u043d\u0443.",
+      "url": "https://iz.ru/1616316/2023-12-06/v-sverdlovskoi-oblasti-proizoshel-rost-zabolevaemosti-kokliushem",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2023-12/DK106973.JPG.jpg?itok=ZXAZXOWi",
+      "publishedAt": "2023-12-06 11:21:28",
+      "content": ". 6 . \u00ab 10 2023 26,6 100 . , 3,6 \u00bb (20152019 .)\u00bb, . , - , COVID-19. \u00ab , \u00bb, . , , , . , 21 , , . , 3,7 . - \u00ab\u00bb \u00ab\u00bb, -, Bordetella pertussis. , , - . , , . 17 , . 90 . . 7 , 2023 43,4 . 217 .",
+      "retrievedAt": "2023-12-07 19:05:25.304336",
+      "internal_id": "14df7c98bdc9fb1c46c098d1f3b57bdf7205a8227d67f0140dd8f09c8b6293c2",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3550,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "\u2018Nadie en Costa Rica puede asegurar que no se ha enfermado de dengue\u2019, advierte epidemi\u00f3loga de CCSS",
+      "description": "Este ha sido el a\u00f1o con m\u00e1s casos de dengue en la historia; exponerse una segunda vez a la enfermedad aumenta el riesgo de manifestaciones m\u00e1s agresivas y de dengue grave.",
+      "url": "https://www.nacion.com/ciencia/salud/nadie-en-costa-rica-puede-asegurar-que-no-se-ha/DPAPP6PAZZANHFS4C25FCTPOLA/story/",
+      "urlToImage": "https://www.nacion.com/resizer/F2SeQyID7V_Zcyo8iMeoenkansQ=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/RLGZA6Y4Q5BNFIO2WJQ7HHOAJE.jpg",
+      "publishedAt": "2023-12-06 11:18:00",
+      "content": "Cuando se pregunta por los s\u00edntomas de dengue, la respuesta tradicional es que el enfermo presenta fiebre, dolor de cabeza intenso, dolor retroorbital (detr\u00e1s de los ojos), dolor muscular y de articu\u2026 [+5822 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.081814",
+      "internal_id": "b9a00235979592ef1a04a1aabda99e5b8b3506d6aa779ce290f9bab498b3e807",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3560,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-washington-post",
+      "source_name": "The Washington Post",
+      "author": "Fenit Nirappil",
+      "title": "Mpox surge in Congo raises fears world will ignore warnings again",
+      "description": "Authorities confirm the first sexual spread of mpox in Congo during a surge that has led to more deaths than last year\u2019s global outbreak.",
+      "url": "https://www.washingtonpost.com/health/2023/12/06/mpox-monkeypox-congo-who-vaccines/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K7TWW7QF5PPPHYT4BKYK3IJAZI_size-normalized.JPG&w=1440",
+      "publishedAt": "2023-12-06 11:00:43",
+      "content": "Comment on this story Comment Add to your saved stories Save A surge of mpox in the Democratic Republic of Congo has raised concerns of another global outbreak with more deaths than the one ignit\u2026 [+9361 chars]",
+      "retrievedAt": "2023-12-07 19:05:27.818243",
+      "internal_id": "0a16b457ce947cef0695da2401e76e59d1e941c486e5201dc36c9967622da1f2",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3561,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Iasbaba.com",
+      "author": "IASbaba",
+      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 6th December 2023",
+      "description": "Archives (PRELIMS & MAINS Focus) Practice MCQs ANSWERS FOR 5th December \u2013 Daily Practice MCQs The post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 6th December 2023 appeared first on IASbaba.",
+      "url": "https://iasbaba.com/2023/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-6th-december-2023/",
+      "urlToImage": "https://iasbaba.com/wp-content/uploads/2023/12/c3s.jpg",
+      "publishedAt": "2023-12-06 10:12:02",
+      "content": "Q1) Consider the following pairs: DISEASECAUSED BYPlagueYersinia pestisPneumoniaStreptococcus pneumoniae<t\u2026 [+1434 chars]",
+      "retrievedAt": "2023-12-07 19:05:28.473294",
+      "internal_id": "3f297a44bb9bbb1c149911d82ee58ad34f831b9c01d86aab4e47da39506f5140",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3542,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Radio Free Europe/ Radio Liberty",
+      "author": "RFE/RL",
+      "title": "Romania Declares Measles Epidemic Amid Rapid Increase In Cases",
+      "description": "Romania's Health Ministry has declared a measles epidemic at national level amid an alarming increase in cases throughout of the country.",
+      "url": "https://www.rferl.org/a/romania-measles-epidemic-/32716699.html",
+      "urlToImage": "https://gdb.rferl.org/60521B46-FC3C-4BBA-AAF9-9EC8C431D697.jpg",
+      "publishedAt": "2023-12-06 09:04:59",
+      "content": "WASHINGTON -- Exiled Belarusian opposition leader Svyatlana Tsikhanouskaya has called on U.S. lawmakers to materially support the Belarusian democracy movement abroad and tighten sanctions on authori\u2026 [+5606 chars]",
+      "retrievedAt": "2023-12-07 19:05:25.799270",
+      "internal_id": "bf34212d79d6fa1c30f512bbec2a542716293ece687d42a654f5072e01b60e55",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3547,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Indonesia Shelves Plan To Release 200 Million Mosquitoes To Combat Dengue",
+      "description": "The lab-bred mosquitoes injected with Wolbachia bacteria were meant to be released in dengue fever 'red zones' in the city of Yogyakarta in mid-November.",
+      "url": "https://www.ndtv.com/world-news/indonesia-planned-to-breed-good-mosquitoes-to-combat-dengue-now-that-plan-has-been-put-on-hold-4638372",
+      "urlToImage": "https://i.ndtvimg.com/i/2016-08/aedes-aegypti-mosquitoes-reuters-650_650x400_71470892495.jpg",
+      "publishedAt": "2023-12-06 07:32:44",
+      "content": "The genetically modified mosquitoes were meant to mate with Aedes aegypti. The Indonesian government has put on hold its plan to release 200 million genetically modified mosquitoes to combat dengue \u2026 [+3112 chars]",
+      "retrievedAt": "2023-12-07 19:05:26.066757",
+      "internal_id": "f0cd704c2754aaa14c857f2151893becb6193807ab30aaf7605f20fc11bbeecd",
+      "publishedAtLabel": "Dec 6"
+    },
     {
       "id": 3537,
       "query": [
@@ -3223,405 +3619,6 @@
       "retrievedAt": "2023-11-28 07:05:42.273360",
       "internal_id": "14ec722e297a3904ea15934e5a613d0fe6dddfacb5049b47d81528d10036629e",
       "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3360,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Idaho State Journal",
-      "author": "Idaho Press Staff",
-      "title": "Health officials on alert after first case of mpox detected in Idaho county",
-      "description": "Health officials on alert after first case of mpox detected in Idaho countyidahostatejournal.com",
-      "url": "https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/9/f7/9f7f8a2d-91f4-57ae-98e1-c3571e3759c0/6560ec6d4e1c7.image.jpg?crop=1776%2C932%2C0%2C117&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-11-26 17:40:02",
-      "content": "The first case of mpox, formerly known as monkeypox, has been detected in Canyon County. Southwest District Health announced Tuesday that the case was detected in mid-November in a male Canyon Count\u2026 [+1748 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.993193",
-      "internal_id": "c0774c113fc50a888216cb5c2815fdf56f84e1e39dd6b131da1894a2448cf7d0",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3358,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update",
-      "description": "The Democratic Republic of Congo has never had this many Mpox cases. There was also the first documented case in the world of Clade I MXPV transmission via sexual contact",
-      "url": "https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65636f80720b4d7f82cbd859/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-26 17:09:01",
-      "content": "The Democratic Republic of Congo has been experiencing its largest ever outbreak of Mpox. This was ... [+] the first year that Kinshasa has had suspected Mpox cases. (Photo by ARSENE MPIANA/AFP via G\u2026 [+6011 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.960137",
-      "internal_id": "87f40fbc37ef678176a58b20d27b14d0bcd0a28150a89c577e01ac97d20257fc",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3354,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Diepresse.com",
-      "author": "J\u00fcrgen Langenbach",
-      "title": "Bringt Klima Tropenfieber? [premium]",
-      "description": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen.",
-      "url": "https://www.diepresse.com/17849599/bringt-klima-tropenfieber",
-      "urlToImage": "https://img.diepresse.com/public/incoming/hipyx3-Tropenfieber/alternates/DPR_SOCIAL_MAGAZIN_PAID/Tropenfieber",
-      "publishedAt": "2023-11-26 16:16:22",
-      "content": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen. Ende August erkrankten am Gardasee drei Menschen \u2026 [+2238 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.371580",
-      "internal_id": "9e02535ae752dc506ab723875c676b5f65c03ffc99da8c33e283a342b2c64cb5",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3361,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ctvnews.ca",
-      "author": "The Associated Press",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time",
-      "description": "The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development that African scientists warn could make it more difficult to stop the dise\u2026",
-      "url": "https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367",
-      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/11/26/mpox-particles-1-6661368-1701012524681.jpg",
-      "publishedAt": "2023-11-26 15:34:30",
-      "content": "LONDON - The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development tha\u2026 [+3280 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.997446",
-      "internal_id": "bc4315b698bae204034680118460df8a2003d307ed5347450f541f61ef0938d7",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3357,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil",
-      "description": "A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday.",
-      "url": "https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288",
-      "urlToImage": "https://c.ndtvimg.com/2023-10/1ininp3k_uk-hospital-generic_625x300_02_October_23.jpg",
-      "publishedAt": "2023-11-26 15:30:12",
-      "content": "He was a resident of Shivpuri district in Madhya Pradesh (Representational) Shivpuri: A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday. \"My\u2026 [+1890 chars]",
-      "retrievedAt": "2023-11-27 19:05:28.318108",
-      "internal_id": "42931a3b084f0711bfdfd9c81fd0a61b23864d336a3369dca765e12b8b2c779d",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3353,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Lena H. Sun",
-      "title": "How one rabid kitten triggered massive effort to contain deadly disease",
-      "description": "If the rabies virus spreads unchecked in raccoons, transmission would easily radiate out from Omaha into other states, putting 7 million people at increased risk.",
-      "url": "https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GMYQBL7A6RAQJC4WHFWHBN2PXA.jpg&w=1440",
-      "publishedAt": "2023-11-26 14:04:27",
-      "content": "Comment on this story Comment Add to your saved stories Save At first, Madeline Wahl thought her new kitten was having a bad reaction to medication for ringworm.After each dose, he would shake hi\u2026 [+8182 chars]",
-      "retrievedAt": "2023-11-27 19:05:26.584944",
-      "internal_id": "eb4bf4678d67256a47a66fd76354a04d81f49e97e797c8b8b9a53c0793cdb540",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3355,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Joana Ascens\u00e3o",
-      "title": "Doen\u00e7as transmitidas por mosquitos: Europa pede cautela aos pa\u00edses",
-      "description": "Centro Europeu da Preven\u00e7\u00e3o e Controlo de Doen\u00e7as est\u00e1 preocupado com preval\u00eancia de algumas doen\u00e7as. Altera\u00e7\u00f5es clim\u00e1ticas s\u00e3o respons\u00e1veis pela maior presen\u00e7a de mosquitos em territ\u00f3rio europeu",
-      "url": "https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130",
-      "urlToImage": "https://images.impresa.pt/expresso/2022-02-10-Aedes-aegypti-mosquito-mosquito-da-dengue-ca776fa9/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-11-26 13:10:03",
-      "content": "H\u00e1 cada vez mais mosquitos transmissores de doen\u00e7as, como a dengue, a febre-amarela e a febre do Nilo Ocidental, no espa\u00e7o europeu. O Centro Europeu de Preven\u00e7\u00e3o e Controlo de \u00adDoen\u00e7as (ECDC, na sigl\u2026 [+1594 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.379872",
-      "internal_id": "476cfe84197222cb6ed74dee7dfc3a1f365867b799affaf68c48b1cef9753d12",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3356,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Raquel Albuquerque, Ana Bai\u00e3o, Jos\u00e9 Cedovim Pinto",
-      "title": "Os Aedes albopictus s\u00e3o inteligentes \u201ce exploram os comportamentos humanos\u201d: autoridades monitorizam mosquito da dengue e zika em Portugal",
-      "description": "Os Aedes albopictus, capazes de transmitir dengue, zika ou chicungunha, foram detetados em tr\u00eas freguesias da Grande Lisboa em setembro, depois de terem sido encontrados na regi\u00e3o Norte ainda em 2017, al\u00e9m do Algarve e Alentejo nos anos seguintes. At\u00e9 agora, \u2026",
-      "url": "https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152",
-      "urlToImage": "https://images.impresa.pt/expresso/2023-11-23-aedes-albopictus-c60e7243-1/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-11-26 13:09:39",
-      "content": "As primeiras fotografias dos mosquitos chegaram \u00e0s m\u00e3os dos cientistas no m\u00eas de setembro, enviadas por moradores na regi\u00e3o de Lisboa, depois de se cruzarem com uns insetos invulgares que, ao picarem\u2026 [+1577 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.383737",
-      "internal_id": "612dadc92d23cf880fb62e7a11e7873f51975733e1bd2c7561997f952a7f4dfc",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3359,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Naftemporiki.gr",
-      "author": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
-      "title": "\u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc",
-      "description": "\u039f \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c7\u03b8\u03b5\u03c2 \u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf \u03cc\u03c4\u03b9 \u03c3\u03c4\u03b7 \u039b\u0394 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af 12.569 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c0\u00bb (mpox, \u03bd\u03cc\u03c3\u03bf\u03c2 \u03b7 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ae\u03c4\u03b1\u03bd \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03bc\u03b5 \u03c4\u03b7\u03bd \u03bf\u03bd\u03bf\u03bc\u03b1\u03c3\u03af\u03b1 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u2026 \u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc - \u0397 \u039d\u0391\u03a5\u03a4\u2026",
-      "url": "https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/",
-      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2022/05/1864751.jpeg",
-      "publishedAt": "2023-11-26 09:36:54",
-      "content": "12.569 \u00ab \u00bb (mpox, \u00ab \u00bb), 581 , 1 12 , . \u00ab , , , \u00bb, . , clade (.. ) , , \u00ab \u00bb. 1970 , , , , ... 2022 , , 23 2022. 11 , . (.. Clade b ) . , . , 91.788 , 167 , 116 2022 31 2023, . , clade I cla\u2026 [+84 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.989287",
-      "internal_id": "18e15fbf5fbd461329f448709c8676fe17713fdf2c298c764b40b3166474d07f",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3349,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tempo.co",
-      "author": "Antara",
-      "title": "Dissemination of Wolbachia Method is Challenging, Says Health Ministry Official",
-      "description": "Dissemination of Wolbachia Method is Challenging, Says Health Ministry Officialtempo.co",
-      "url": "https://en.tempo.co/read/1801527/dissemination-of-wolbachia-method-is-challenging-says-health-ministry-official",
-      "urlToImage": "https://statik.tempo.co/data/2016/08/05/id_528172/528172_620.jpg?rand=10",
-      "publishedAt": "2023-11-26 03:05:06",
-      "content": "TEMPO.CO, Jakarta - The utilization of the Wolbachia method to control dengue is running into challenges, especially in terms of disseminating information about the method to the community. Director\u2026 [+2189 chars]",
-      "retrievedAt": "2023-11-27 07:06:06.719705",
-      "internal_id": "2b07298a169b621977609993014e5555050a99c7465a78813ce7a18242112761",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3348,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Unvaccinated and Vulnerable: Children Drive Surge in Deadly Outbreaks - The New York Times",
-      "description": "Unvaccinated and Vulnerable: Children Drive Surge in Deadly OutbreaksThe New York Times \u2018No no no. Avoid them all\u2019: anti-vaccine conspiracies spread as UK cases of measles increaseThe Guardian 'German measles' symptoms include horror rash - but with a noticea\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172307397",
-      "urlToImage": null,
-      "publishedAt": "2023-11-26 00:12:05",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-27 07:06:06.353040",
-      "internal_id": "6499ce868c75bc9c33fc6a1b03889ffb4e0bbf90c4298a2474f109ca15ec2a5f",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3350,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Detik.com",
-      "author": "Sarah Oktaviani Alam",
-      "title": "Kemenkes Targetkan Sebar Nyamuk Wolbachia untuk Berantas DBD Secara Nasional",
-      "description": "Kemenkes RI telah menyebar nyamuk wolbachia di 5 kota demi menekan penyakit demam berdarah dengue. Ke depannya, kemungkinan dilakukan secara nasional.",
-      "url": "https://health.detik.com/berita-detikhealth/d-7056310/kemenkes-targetkan-sebar-nyamuk-wolbachia-untuk-berantas-dbd-secara-nasional",
-      "urlToImage": "https://awsimages.detik.net.id/api/wm/2023/11/21/831306262-1_169.jpeg?wid=54&w=650&v=1&t=jpeg",
-      "publishedAt": "2023-11-25 23:07:53",
-      "content": "Jakarta - Kementerian Kesehatan RI telah melakukan penelitian untuk menekan penyakit demam berdarah dengue (DBD) dengan menyebar nyamuk wolbachia. Direktur Jenderal Pencegahan dan Pengendalian Penyak\u2026 [+1954 chars]",
-      "retrievedAt": "2023-11-27 07:06:06.723766",
-      "internal_id": "cfecab5443bd4e42186c533467f0de653d6cb82e91026b9b997f2b1e434763e3",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3351,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": "\u0422\u0410\u0421\u0421",
-      "title": "\u0412 \u0412\u041e\u0417 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043e \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u0438\u0438 \u043f\u043e\u0447\u0442\u0438 92 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0432 \u043c\u0438\u0440\u0435 \u0441 \u044f\u043d\u0432\u0430\u0440\u044f 2022 \u0433\u043e\u0434\u0430",
-      "description": "\u041f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f, \u043e\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f \u0443\u043c\u0435\u0440\u043b\u0438 167 \u0447\u0435\u043b\u043e\u0432\u0435\u043a",
-      "url": "https://tass.ru/obschestvo/19380103",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/19380103?u=2023-11-25T20:57:33.369747",
-      "publishedAt": "2023-11-25 20:57:33",
-      "content": ", 25 . //. 660 mpox ( ) 2023 , 2022 91,7 ., 167 . 116 , (). \" 1 2022 31 2023 116 , 91 788 mpox, 167 \", - , . 1 31 668 , 23% , . - - (30% ) (25%). 13 . 31 , 2022 (30 771). (10 967), (7 647), (4 161\u2026 [+148 chars]",
-      "retrievedAt": "2023-11-27 07:06:08.871230",
-      "internal_id": "43a91205afa134e85047fd05b9de625f804c8ba6407084e640f035100cafa4e7",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3352,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Francetvinfo.fr",
-      "author": null,
-      "title": "R\u00e9publique d\u00e9mocratique du Congo : 581 morts de mpox depuis janvier, nombre de cas record sur une ann\u00e9e",
-      "description": "Longtemps appel\u00e9e variole du singe, la maladie se caract\u00e9rise par des \u00e9ruptions cutan\u00e9es et peut s'accompagner de pouss\u00e9es de fi\u00e8vre.",
-      "url": "https://www.francetvinfo.fr/monde/afrique/republique-democratique-du-congo/republique-democratique-du-congo-581-morts-de-mpox-depuis-janvier-nombre-de-cas-record-sur-une-annee_6206199.html",
-      "urlToImage": "https://www.francetvinfo.fr/pictures/4OQoyx04jGj1mH_fWHr97SSrPNM/1500x843/2023/11/25/049-f0373322-65624660cb108539390736.jpg",
-      "publishedAt": "2023-11-25 19:17:08",
-      "content": "L'OMS a rapport\u00e9 samedi 25 novembre 12 569 cas suspects de mpox (longtemps appel\u00e9e variole du singe), dont 581 morts, en R\u00e9publique d\u00e9mocratique du Congo de janvier au 12 novembre. \"Il s'agit du nomb\u2026 [+1541 chars]",
-      "retrievedAt": "2023-11-27 07:06:08.875225",
-      "internal_id": "742d7fe4d27a958b3a8477e922b516c73b8bedbbbc4e990cd5d23db19739223d",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3345,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Agency Report",
-      "title": "WHO raises the alarm on mpox in DR Congo",
-      "description": "The World Health Organisation, on Saturday, reported 12,569 mpox cases and 581 related deaths in the Democratic Republic of Congo this year to November 12, the highest annual figure ever recorded. The infectious disease, formerly known as monkeypox, was first\u2026",
-      "url": "https://punchng.com/who-raises-the-alarm-on-mpox-in-dr-congo/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/08/30230550/monkeypox.jpg",
-      "publishedAt": "2023-11-25 18:39:23",
-      "content": "The World Health Organisation, on Saturday, reported 12,569 mpox cases and 581 related deaths in the Democratic Republic of Congo this year to November 12, the highest annual figure ever recorded. T\u2026 [+1665 chars]",
-      "retrievedAt": "2023-11-26 19:05:16.382864",
-      "internal_id": "68316bdcd6eeb8e290b997faf1a16f7af0266d789abad8509be88482eb46958a",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3337,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Variety",
-      "author": "Leo Barraclough",
-      "title": "Sandra Tabet\u2019s Horror Film \u2018Rabies\u2019 Explores the Apocalyptic Setting of 1990s Post-Civil War Beirut",
-      "description": "The sight of dogs ravaging war-torn streets has become an all too familiar sight. Sandra Tabet\u2019s debut feature film \u201cRabies\u201d (Rage) \u2013 a development project at the Atlas Workshops \u2013 returns to early 1990s in Beirut, in the aftermath of the Lebanese Civil War (\u2026",
-      "url": "https://variety.com/2023/film/global/sandra-tabet-rabies-atlas-workshops-1235808443/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2023/11/Rabies.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2023-11-25 15:43:58",
-      "content": "The sight of dogs ravaging war-torn streets has become an all too familiar sight. Sandra Tabet\u2019s debut feature film \u201cRabies\u201d (Rage) \u2013 a development project at the Atlas Workshops \u2013 returns to early 1\u2026 [+6882 chars]",
-      "retrievedAt": "2023-11-26 19:05:14.338668",
-      "internal_id": "b7ae1893cf987eac169f655a6829bcfbeb10ea46c0e3e83232743381a0190627",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3343,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Rivan Awal, Raka Adji",
-      "title": "Disseminating information on Wolbachia method a challenge: official",
-      "description": "The utilization of the Wolbachia method to control dengue is running into challenges, especially in terms of disseminating information about the method to the community. Director of communicable disease prevention and control ...",
-      "url": "https://en.antaranews.com/news/299490/disseminating-information-on-wolbachia-method-a-challenge-official",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/25/Screen-Shot-2023-11-25-at-15.30.32.v1.jpg",
-      "publishedAt": "2023-11-25 14:55:03",
-      "content": "The main challenge is how to convince the public. The public must know the benefits and risks of using mosquitoes with Wolbachia. Jakarta (ANTARA) - The utilization of the Wolbachia method to contro\u2026 [+2383 chars]",
-      "retrievedAt": "2023-11-26 19:05:14.801548",
-      "internal_id": "9c27fcea98eb94691294b23ff3802b153bf4ec0767e6ad17fd72d93908a8299c",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3342,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Statetimes.in",
-      "author": "statetimes_editor",
-      "title": "Climate change pushes dengue into new frontiers across India",
-      "description": "DIMAPUR (NAGALAND): The lights above washing the hospital corridor with a dim glow, a frantic Jenpu Rongmei rushed to see his 12-year-old nephew Nina who had been admitted the night before with fever and body ache. He was too late. The young boy had succumbed\u2026",
-      "url": "https://statetimes.in/climate-change-pushes-dengue-into-new-frontiers-across-india/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2023/11/Dengue-Malaria.jpg",
-      "publishedAt": "2023-11-25 14:01:21",
-      "content": "DIMAPUR (NAGALAND): The lights above washing the hospital corridor with a dim glow, a frantic Jenpu Rongmei rushed to see his 12-year-old nephew Nina who had been admitted the night before with fever\u2026 [+7210 chars]",
-      "retrievedAt": "2023-11-26 19:05:14.798310",
-      "internal_id": "08295847ab72ada8a28d99fc9a97cc5ac99bb5b7e4eaf132e4e33bdc378b8cc0",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3336,
-      "query": [
-        "rabies",
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "BusinessLine",
-      "author": "G. Naga Sridhar",
-      "title": "IIL launches measles, rubella vaccine for children",
-      "description": "IIL launches Mabella vaccine to combat Measles & Rubella, coinciding with HBI's silver jubilee. MD Kumar stresses need to control deadly diseases & IIL's CSR activity to make Thiruvanathapuram district rabies-free. HBI has developed India's first safe Vero-ce\u2026",
-      "url": "https://www.thehindubusinessline.com/news/iil-launches-measles-rubella-vaccine-for-children/article67572973.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/w8s6bq/article66614400.ece/alternates/LANDSCAPE_1200/25hyngg_dr.k.anand_kumar_02.jpg",
-      "publishedAt": "2023-11-25 12:38:57",
-      "content": "Indian Immunologicals Ltd (IIL) has launched the Mabella (Measles and Rubella) vaccine for children. The live attenuated MR vaccine has been developed by the Hyderabad-based company in exclusive par\u2026 [+1266 chars]",
-      "retrievedAt": "2023-11-26 19:05:14.328037",
-      "internal_id": "3cc6d68b1007174ce8efe1e88e786005fe170d7ba8a115eb02a5c21b486f7f1e",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3346,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Global Mpox Outbreak Risk Escalates As Potent Strain Spreads In Congo",
-      "description": "The pathogen typically causes flu-like symptoms, followed by a rash that often starts on the face and spreads down the belly. The illness often lasts for two weeks to a month, and can be deadly.",
-      "url": "https://www.ndtv.com/world-news/global-mpox-outbreak-risk-escalates-as-potent-strain-spreads-in-congo-4605352",
-      "urlToImage": "https://c.ndtvimg.com/2022-08/3tmo8n8o_monkeypox-bloomberg_625x300_09_August_22.jpg",
-      "publishedAt": "2023-11-25 11:10:02",
-      "content": "Mpox has mostly been confined to developing countries for years. In May of this year, the World Health Organization announced the end of the global health emergency related to mpox, about a year aft\u2026 [+1476 chars]",
-      "retrievedAt": "2023-11-26 19:05:16.388453",
-      "internal_id": "a64bf4bd550ed72d0b7324661133084b03d2b4ffba0c0ae1cde2f5896789525e",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3340,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "Hospitalizaciones por dengue se disparan durante primeros 10 meses del 2023",
-      "description": "Internamientos registrados entre enero y octubre de este a\u00f1o triplican los de todo el 2022 y casi duplican los del 2021. Mayor\u00eda de afectados tienen entre 20 y 44 a\u00f1os.",
-      "url": "https://www.nacion.com/ciencia/salud/hospitalizaciones-por-dengue-se-disparan-durante/RRIR5NLNS5BKTIBM3MFB7VQTTI/story/",
-      "urlToImage": "https://www.nacion.com/resizer/u3G1fJsAdQBJme_129-_52kaYhI=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/SOKVLTMUGVFAVBYERTDUHRFJTE.jpg",
-      "publishedAt": "2023-11-25 11:06:00",
-      "content": "Seg\u00fan datos de la Caja Costarricense de Seguro Social (CCSS), un total de 669 internamientos se reportaron en los primeros 10 meses del presente a\u00f1o. Ellos representan el 3,13% de todos los casos de \u2026 [+3797 chars]",
-      "retrievedAt": "2023-11-26 19:05:14.782542",
-      "internal_id": "8dc182a405aa98ab0ea6cc0d9b2f5818ad8b5f9c86dd4fa100496343e16fffef",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
-      "id": 3347,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Explained: What Is Mpox? UN Confirms Sexual Spread Of The Desease In Congo",
-      "description": "For the first time, the World Health Organization has verified sexual transmission of Mpox in Congo.",
-      "url": "https://www.ndtv.com/world-news/explained-what-is-mpox-un-confirms-sexual-spread-of-the-desease-in-congo-4605279",
-      "urlToImage": "https://c.ndtvimg.com/2022-07/pousd8n_monkeypox-india-afp-650_625x300_26_July_22.jpg",
-      "publishedAt": "2023-11-25 10:49:39",
-      "content": "The WHO stated that the risk of mpox spreading globally is significant. The World Health Organization (WHO) has officially classified monkeypox (mpox), an infectious disease caused by the monkeypox \u2026 [+2567 chars]",
-      "retrievedAt": "2023-11-26 19:05:16.391551",
-      "internal_id": "c98225efdce6adc62402d4db9b67f04489c8a13687fa363d9dcca02e800ae972",
-      "publishedAtLabel": "Nov 25"
     }
   ]
 }
