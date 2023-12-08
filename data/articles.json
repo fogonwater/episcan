@@ -1,8 +1,316 @@
 {
-  "last_updated": "2023-12-08 07:05",
+  "last_updated": "2023-12-08 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 9,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 3578,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Paciente \u00e9 diagnosticada com dengue tipo 4 no Rio de Janeiro; caso n\u00e3o era registrado desde 2018",
+      "description": "Mais de 6.000 casos da doen\u00e7a j\u00e1 foram identificados em 2023",
+      "url": "https://noticias.r7.com/rio-de-janeiro/paciente-e-diagnosticada-com-dengue-tipo-4-no-rio-de-janeiro-caso-nao-era-registrado-desde-2018-07122023",
+      "urlToImage": "https://img.r7.com/images/r7rio-012020-dengue-16012020153145023",
+      "publishedAt": "2023-12-07 19:05:00",
+      "content": "Tipo do v\u00edrus foi identificado pelo Lacen-RJ Arquivo / Ag\u00eancia Brasil Uma paciente, de 45 anos, foi diagnosticada no Rio de Janeiro com dengue tipo 4, que j\u00e1 n\u00e3o era mais registrada na cidade\u2026 [+2609 chars]",
+      "retrievedAt": "2023-12-08 19:05:28.798830",
+      "internal_id": "655392b6182f80f37fe64b3741f211a93940797e7dd3c41222e2d3e131eb9c5b",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3572,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Parliament.scot",
+      "author": null,
+      "title": "Take action to protect people from airborne infections in health and social care settings",
+      "description": "Calling on the Scottish Parliament to urge the Scottish Government to: * improve air quality in health and social care settings through addressing ventilation, air filtration and sterilisation; * reintroduce routine mask-wearing in those settings, par\u2026",
+      "url": "https://petitions.parliament.scot/petitions/PE2071",
+      "urlToImage": "https://petitions.parliament.scot/assets/os-social/opengraph-image-be45ce0be1a2edcdad07736034f93739aa37fb147546eac378722b5c39beb912.png",
+      "publishedAt": "2023-12-07 17:57:58",
+      "content": "Background information Infections like Covid, flu, Respiratory Syncytial Virus Infection, measles and TB spread by inhaling tiny airborne aerosols hanging in the air like smoke. Key ways to prevent \u2026 [+841 chars]",
+      "retrievedAt": "2023-12-08 19:05:27.961477",
+      "internal_id": "d6f53c9ccc997f2b88dccd4266623282f19700255cf96f1c3b788e68fa92b8b6",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3576,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Sa\u00fade abre consulta p\u00fablica sobre vacina da dengue no SUS",
+      "description": "A incorpora\u00e7\u00e3o da vacina Qdenga no SUS tem uma condi\u00e7\u00e3o: a proposta de redu\u00e7\u00e3o de pre\u00e7o pela fabricante, dado o alto valor por dose (R$ 170)",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2023-12-07/saude-abre-consulta-publica-sobre-vacina-da-dengue-no-sus.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0a/91/as/0a91ascc1995r7nvdmo3l4863.jpg",
+      "publishedAt": "2023-12-07 17:30:08",
+      "content": "A vacina da dengue j\u00e1 est\u00e1 dispon\u00edvel no Brasil , e nesta quinta-feira (7), o Minist\u00e9rio da Sa\u00fade abriu uma consulta p\u00fablica para ouvir a popula\u00e7\u00e3o sobre a incorpora\u00e7\u00e3o da Qdenga no Sistema \u00danico d\u2026 [+2141 chars]",
+      "retrievedAt": "2023-12-08 19:05:28.782110",
+      "internal_id": "bdb099a6983562d5f444e1dd031e71e950d5bb179a77b90453f6e128033c38f3",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3587,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Butantan iniciar\u00e1 teste pr\u00e9-cl\u00ednico de vacina contra Zika em 2024",
+      "description": "Imunizante desenvolvido \u00e9 voltado para gestantes",
+      "url": "https://noticias.r7.com/saude/butantan-iniciara-teste-pre-clinico-de-vacina-contra-zika-em-2024-07122023",
+      "urlToImage": "https://img.r7.com/images/mosquito-da-dengue-26122022092527319?crop=1111x625+58+28",
+      "publishedAt": "2023-12-07 17:25:53",
+      "content": "Zika pode causar microcefalia em beb\u00eas Paulo Whitaker/Reuters O Instituto Butantan anunciou nesta quinta-feira (7) que est\u00e1 desenvolvendo uma vacina contra o v\u00edrus Zika, que pode causar micr\u2026 [+4926 chars]",
+      "retrievedAt": "2023-12-08 19:05:30.779460",
+      "internal_id": "2d9a34e8221f2c3973fceb52da34aaf0d0be3b80da71ffe6e242664d5fe8f024",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3571,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "KEDRION ANNOUNCES AN EIGHT-YEAR EXTENSION OF THE DISTRIBUTION AGREEMENT WITH KAMADA IN THE US FOR KEDRAB\u00ae",
+      "description": "(marketscreener.com) Since 2018 Kedrion has had exclusive distribution rights in the US for KEDRAB\u00ae, a Human Rabies Immune Globulin developed in partnership with Kamada Ltd.New agreement becomes effective in January 2024 and includes potential expansion of \u2026",
+      "url": "https://www.marketscreener.com/quote/stock/THE-TEL-AVIV-STOCK-EXCHAN-63249312/news/KEDRION-ANNOUNCES-AN-EIGHT-YEAR-EXTENSION-OF-THE-DISTRIBUTION-AGREEMENT-WITH-KAMADA-IN-THE-US-FOR-KE-45524240/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-12-07 16:02:03",
+      "content": "Since 2018 Kedrion has had exclusive distribution rights in the US for KEDRAB\u00ae, a Human Rabies Immune Globulin (HRIG) developed in partnership with Kamada Ltd.New agreement becomes e\u2026 [+6879 chars]",
+      "retrievedAt": "2023-12-08 19:05:27.423060",
+      "internal_id": "43f9c63130505202091421ace65a8b866a7dd2581ad9c9c066ed618bde86bca2",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3586,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jo\u00e3o V\u00edtor Reis",
+      "title": "Butantan vai come\u00e7ar a testar vacina contra zika para gr\u00e1vidas em 2024",
+      "description": "Butantan anunciou retomada do projeto para desenvolver vacina contra o zika v\u00edrus, que pode causar microcefalia em beb\u00eas de m\u00e3es infectadas",
+      "url": "https://www.metropoles.com/saude/butantan-teste-vacina-zika-gravida",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2021/11/01200544/130521-GA-Vacinacao-de-Gravidas-e-Pessoas-com-Comorbidades-no-Parque-da-Cidade-010.jpg",
+      "publishedAt": "2023-12-07 15:15:05",
+      "content": "O Instituto Butantan anunciou a retomada do projeto de desenvolvimento de uma vacina contra o zika v\u00edrus (ZIKV) ap\u00f3s concentrar esfor\u00e7os no combate \u00e0 Covid-19. A previs\u00e3o \u00e9 que os testes com animais \u2026 [+5373 chars]",
+      "retrievedAt": "2023-12-08 19:05:30.762898",
+      "internal_id": "36f74563783825444875e3a3239bf0135e146e62f61720444784c249ab9af259",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3577,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Saiba quais s\u00e3o as doen\u00e7as mais comuns no ver\u00e3o e como se prevenir",
+      "description": "Insola\u00e7\u00e3o, desidrata\u00e7\u00e3o, dengue e candid\u00edase est\u00e3o entre as principais doen\u00e7as da esta\u00e7\u00e3o; veja como evit\u00e1-las",
+      "url": "https://saude.ig.com.br/2023-12-07/saiba-quais-doencas-mais-comuns-verao-como-prevenir.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/cl/yc/0a/clyc0agfz6tzc0a3pdfnu4bof.jpg",
+      "publishedAt": "2023-12-07 15:13:11",
+      "content": "A esta\u00e7\u00e3o mais aguardada do ano vem acompanhada do aumento do risco para uma s\u00e9rie de doen\u00e7as, como insola\u00e7\u00e3o, desidrata\u00e7\u00e3o, dengue e candid\u00edase. No caso da insola\u00e7\u00e3o, o tempo seco e o calor s\u00e3o os \u2026 [+2207 chars]",
+      "retrievedAt": "2023-12-08 19:05:28.786460",
+      "internal_id": "d10e01d36051f58594459c447fc6f8c782515ed66f780493eb38da5ba3c6b95f",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3585,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Vacina brasileira contra o Zika pode prevenir microcefalia em rec\u00e9m-nascidos",
+      "description": "Pesquisadores do Instituto Butantan trabalham na cria\u00e7\u00e3o de uma vacina contra o v\u00edrus Zika; testes em animais est\u00e3o previstos para 2024 O post Vacina brasileira contra o Zika pode prevenir microcefalia em rec\u00e9m-nascidos apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/12/07/medicina-e-saude/vacina-brasileira-contra-o-zika-pode-prevenir-microcefalia-em-recem-nascidos/",
+      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/12/vacina-zika-1.jpg",
+      "publishedAt": "2023-12-07 14:47:04",
+      "content": "O Instituto Butantan est\u00c3\u00a1 trabalhando na cria\u00c3\u00a7\u00c3\u00a3o de uma vacina contra o Zika. O v\u00c3\u00adrus pode causar microcefalia em beb\u00c3\u00aas de m\u00c3\u00a3es infectadas na gesta\u00c3\u00a7\u00c3\u00a3o. A expectativa \u00c3\u00a9 que os testes em model\u2026 [+2727 chars]",
+      "retrievedAt": "2023-12-08 19:05:30.751543",
+      "internal_id": "e324fbd4609085844ca02b97587bcbf0bb4704ab2539623f5992be4125883974",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3581,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Sa\u00fade abre consulta p\u00fablica sobre inclus\u00e3o de vacina da dengue no SUS",
+      "description": "Comiss\u00e3o nacional avalia imunizante para incorpora\u00e7\u00e3o inicialmente para localidades e p\u00fablicos priorit\u00e1rios",
+      "url": "https://noticias.r7.com/saude/saude-abre-consulta-publica-sobre-inclusao-de-vacina-da-dengue-no-sus-07122023",
+      "urlToImage": "https://img.r7.com/images/mosquito-da-dengue-08072023182938398?crop=471x265+131+39",
+      "publishedAt": "2023-12-07 14:00:59",
+      "content": "Em testes, vacina reduziu hospitaliza\u00e7\u00f5es em 84% Reprodu\u00e7\u00e3o Site/Minist\u00e9rio da Sa\u00fade O Minist\u00e9rio da Sa\u00fade abre nesta quinta-feira (7) consulta p\u00fablica sobre a proposta de incorpora\u00e7\u00e3o ao SUS\u2026 [+3119 chars]",
+      "retrievedAt": "2023-12-08 19:05:28.831679",
+      "internal_id": "06d79a64dd50a147963c1aa56c6ab84b3e389806cf6c97e1bd4ac29acc59f1ae",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3574,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rajon Banik, Saiful Islam, Mahfuza Mubarak, Mahmudur Rahman, Hailay Abrha Gesesew, Paul R. Ward, Tajuddin Sikder",
+      "title": "Public knowledge, belief, and preventive practices regarding dengue: Findings from a community-based survey in rural Bangladesh",
+      "description": "Author summary Dengue is a serious mosquito-borne disease of substantial public health concern, particularly in endemic countries like Bangladesh. It is vital to assess public knowledge and health beliefs regarding dengue fever in order to adopt efficient pre\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011778",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011778.g003&size=inline",
+      "publishedAt": "2023-12-07 14:00:00",
+      "content": "Abstract Background Dengue fever, the most prevalent mosquito-borne viral infection, is a recurrent public health threat in Bangladesh. Despite the governments efforts, dengue fever outbreaks are o\u2026 [+52595 chars]",
+      "retrievedAt": "2023-12-08 19:05:28.771919",
+      "internal_id": "41ebc276ace9ffbd1530222823b94e119666839c733990d7b2a1f62fafe8eec2",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3580,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nukunu Etornam Akyea-Bobi, Jewelna Akorli, Millicent Opoku, Samuel Sowah Akporh, Godwin Kwame Amlalo, Joseph Harold Nyarko Osei, Kwadwo Kyereme Frempong, Sellase Pi-Bansa, Helena Anokyewaa Boakye, Mufeez Abudu, Esinam Abla Akorli, Dominic Acquah-Baidoo, Rebecca Pwalia, Joseph Humphrey Kofi Bonney, Reginald Quansah, Samuel Kweku Dadzie",
+      "title": "Entomological risk assessment for transmission of arboviral diseases by Aedes mosquitoes in a domestic and forest site in Accra, Ghana",
+      "description": "Dengue, Zika and chikungunya are Aedes-borne viral diseases that have become great global health concerns in the past years. Several countries in Africa have reported outbreaks of these diseases and despite Ghana sharing borders with some of these countries, \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295390",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0295390.g002&size=inline",
+      "publishedAt": "2023-12-07 14:00:00",
+      "content": "Abstract Dengue, Zika and chikungunya are Aedes-borne viral diseases that have become great global health concerns in the past years. Several countries in Africa have reported outbreaks of these dis\u2026 [+33377 chars]",
+      "retrievedAt": "2023-12-08 19:05:28.819616",
+      "internal_id": "a0dd8d82168086e0e3929fd4e1c0da664fa32f98c43a44c428ca5286009e598a",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3575,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Jovem de 20 anos \u00e9 infectado por novo v\u00edrus no Peru",
+      "description": "Pr\u00f3ximo geneticamente do v\u00edrus Echarate, o pat\u00f3geno descoberto no Peru causa febre alta, dor nas articula\u00e7\u00f5es e mal-estar, podendo ser confundido com a dengue",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2023-12-07/jovem-de-20-anos-e-infectado-por-novo-virus-no-peru.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/73/jo/lh/73jolhj4o7pavek475mrb36zo.jpg",
+      "publishedAt": "2023-12-07 13:15:07",
+      "content": "No Peru, um jovem de 20 anos foi infectado por um v\u00edrus desconhecido do g\u00eanero Phlebovirus , segundo relato de pesquisadores peruanos e estadunidenses. O pat\u00f3geno \u00e9, muito provavelmente, uma nova va\u2026 [+2809 chars]",
+      "retrievedAt": "2023-12-08 19:05:28.776681",
+      "internal_id": "a85b67af9c312381ca1416caa1046fa0baa5e329957549140fbbf4b0ede57066",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3583,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.hln.be",
+      "author": "Martijn Peters",
+      "title": "Nooit eerder gezien virus besmet man in jungle van Peru: \u201chet gaat onopgemerkt rond in de oerwouden van Zuid-Amerika\u201d",
+      "description": "Wetenschappers melden dat er in Peru een man besmet is geraakt met een nog nooit eerder gezien virus. Hij zou het opgelopen hebben in de jungle. De man had een ziektebeeld dat leek op dat van knokkelkoorts, malaria en andere tropische infectieziekten uit de r\u2026",
+      "url": "https://www.hln.be/wetenschap-en-planeet/nooit-eerder-gezien-virus-besmet-man-in-jungle-van-peru-het-gaat-onopgemerkt-rond-in-de-oerwouden-van-zuid-amerika~af95cee3/",
+      "urlToImage": "https://images0.persgroep.net/rcs/8G9mLglOsJi89MWMYpz_xRouoS0/diocontent/238270236/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
+      "publishedAt": "2023-12-07 11:36:03",
+      "content": "De mysterieuze nieuwe ziekteverwekker werd ontdekt toen een 20-jarige man zich liet opnemen in het Hospital Regional Docent de Medicina Tropical Julio C\u00e9sar Demarini Caro in de stad Chanchamayo in Ce\u2026 [+2931 chars]",
+      "retrievedAt": "2023-12-08 19:05:30.126935",
+      "internal_id": "9a45fa9837470ed01d20b0a8abe703d6b54e419a4ad41942f41416f13adc9cf0",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3573,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Sa\u00fade abre consulta p\u00fablica sobre inclus\u00e3o de vacina da dengue no SUS",
+      "description": "De acordo com o laborat\u00f3rio, poder\u00e3o ser entregues 8,5 milh\u00f5es de doses no primeiro ano e um total acumulado de 50 milh\u00f5es em cinco anos",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/saude-abre-consulta-publica-sobre-inclusao-de-vacina-da-dengue-no-sus/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/12/07101549/20230330102236_mg_7205.webp",
+      "publishedAt": "2023-12-07 10:19:17",
+      "content": "O Minist\u00e9rio da Sa\u00fade abre nesta quinta-feira (7) consulta p\u00fablica sobre a proposta de incorpora\u00e7\u00e3o ao Sistema \u00danico de Sa\u00fade (SUS) da vacina contra a dengue. De acordo com a pasta, o imunizante Qden\u2026 [+2241 chars]",
+      "retrievedAt": "2023-12-08 19:05:28.756802",
+      "internal_id": "70c33648ff021cd563712599dd8117043d8219b8c78ef84243b6cf672fdbc61a",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3579,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "publicaffairs@voa.gov (VOA)",
+      "title": "Afrique de l'Ouest: La dengue a fait plus de 500 morts depuis le d\u00e9but de l'ann\u00e9e au Burkina Faso",
+      "description": "[VOA] Les structures de sant\u00e9 ont enregistr\u00e9 entre le 1er janvier et le 19 novembre dernier, 123 804 cas suspects de dengue, 56 637 cas probables et 570 d\u00e9c\u00e8s soit un taux de l\u00e9talit\u00e9 de 1%. Depuis ao\u00fbt dernier, la dengue est officiellement une \u00e9pid\u00e9mie au Bu\u2026",
+      "url": "https://fr.allafrica.com/stories/202312070116.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-07 08:41:57",
+      "content": "Les structures de sant\u00e9 ont enregistr\u00e9 entre le 1er janvier et le 19 novembre dernier, 123 804 cas suspects de dengue, 56 637 cas probables et 570 d\u00e9c\u00e8s soit un taux de l\u00e9talit\u00e9 de 1%. Depuis ao\u00fbt de\u2026 [+1937 chars]",
+      "retrievedAt": "2023-12-08 19:05:28.804854",
+      "internal_id": "7aaff923ee33e217a5ea5ab450b3e013dcf36b350a483a23fd5b5dd5b474f928",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3584,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Antibiotic Resistance Is a Silent Epidemic",
+      "description": "[Independent (Kampala)] Interview -- Each year antimicrobial resistance - the ability of microbes to survive agents designed to kill them - claims more lives than malaria and HIV/Aids combined. Africa bears the brunt of this development, which thrives on ineq\u2026",
+      "url": "https://allafrica.com/stories/202312070084.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-07 07:15:28",
+      "content": "Interview \u2014 Each year antimicrobial resistance - the ability of microbes to survive agents designed to kill them - claims more lives than malaria and HIV/Aids combined. Africa bears the brunt of this\u2026 [+5789 chars]",
+      "retrievedAt": "2023-12-08 19:05:30.144074",
+      "internal_id": "808bb8dacfec7c5d7acc84f10ada908970bec1ffa09a31a91e4eabc30c190bdb",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3582,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Laura Cuppini",
+      "title": "Malaria, aumentano i contagi e i decessi: quali sono i rischi?",
+      "description": "La malattia uccide ancora, soprattutto i bambini. Complici i cambiamenti climatici e la resistenza dei parassiti ai farmaci e delle zanzare agli insetticidi",
+      "url": "https://www.corriere.it/salute/malattie_infettive/23_dicembre_07/malaria-aumentano-contagi-decessi-506b8eec-934f-11ee-8704-eea6679df76c.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/12/05/783b36d6-943d-11ee-bf17-27011c9bfd8d.jpg",
+      "publishedAt": "2023-12-07 07:06:46",
+      "content": "di Laura CuppiniLa malattia uccide ancora, soprattutto i bambini. Complici i cambiamenti climatici e la resistenza dei parassiti ai farmaci e delle zanzare agli insetticidi Quasi 250 milioni di casi\u2026 [+3641 chars]",
+      "retrievedAt": "2023-12-08 19:05:30.106416",
+      "internal_id": "6ce2af19fe310d0ab8e042bdc59356d7c4b17417e67e36c61ea41a09f5aaa1fb",
+      "publishedAtLabel": "Dec 7"
+    },
     {
       "id": 3570,
       "query": [
@@ -3312,312 +3620,6 @@
       "content": "The debut film from Sandra Tabet, Rabies, looks at 90s Beirut through a different kind of horror lens to the bleak reality of post-war ruin, but will harness that. The project is being developed at A\u2026 [+1006 chars]",
       "retrievedAt": "2023-11-28 19:05:28.576802",
       "internal_id": "3ef7bee3a52426cf4c06a829594e26a9133dd1b0535472cf0a639bf7130709cf",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3386,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Newsit.gr",
-      "author": "\u0391\u03bd\u03b4\u03c1\u03b5\u03b1\u03c2 \u039c\u03bf\u03c1\u03c6\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
-      "title": "\u00ab\u0398\u03b5\u03c1\u03af\u03b6\u03b5\u03b9\u00bb \u03b7 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc \u03bc\u03b5 581 \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 12.569 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03af \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03bf\u03cd\u03bd \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1",
-      "description": "\u03a1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c4\u03b7\u03c2 \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03ae \u03c4\u03bf\u03c5 \u03ad\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc. \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc \u03a5\u03b3\u03b5\u03af\u03b1\u03c2, \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03c4\u03b7\u03c2 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u0391\u03c6\u03c1\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd 95 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03c5\u03c1\u03af\u03c9\u03bd \u03ba\u03b1\u03c4\u03bf\u03af\u03ba\u03c9\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 12.500 \u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2 \u2026",
-      "url": "https://www.newsit.gr/ygeia/eylogia-ton-pithikon-therizei-sto-kongko-me-581-thanatous-kai-12-569-krousmata-arithmoi-pou-apoteloun-rekor/3918261/",
-      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2023/11/monkeypox_eulogia_pithikon_REUTERS_27112023.jpg",
-      "publishedAt": "2023-11-27 15:18:00",
-      "content": ". , 95 581 12.500 . , 1 2023 12 2023 12.569 (mpox), 581 , . \u00ab , , , \u00bb, . , clade (.. ) , , \u00ab \u00bb. , 1970 , , , , , .. 2022 , , 23 2022. 11 , . (.. Clade b ) . , . , 91.788 , 167 , 116 202\u2026 [+119 chars]",
-      "retrievedAt": "2023-11-28 19:05:31.418696",
-      "internal_id": "03c12fb5f32e84e99596aec6500086bc30b904643f380466adb534fcc5d632c4",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3387,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Newsit.gr",
-      "author": "\u0391\u03bd\u03b4\u03c1\u03b5\u03b1\u03c2 \u039c\u03bf\u03c1\u03c6\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
-      "title": "\u00ab\u0398\u03b5\u03c1\u03af\u03b6\u03b5\u03b9\u00bb \u03b7 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc \u03bc\u03b5 581 \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 12.569 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03af \u03c1\u03b5\u03ba\u03cc\u03c1",
-      "description": "\u03a1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c4\u03b7\u03c2 \u03b1\u03c3\u03b8\u03ad\u03bd\u03b5\u03b9\u03b1\u03c2 \u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c4\u03c9\u03bd \u03c0\u03b9\u03b8\u03ae\u03ba\u03c9\u03bd \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03ae \u03c4\u03bf\u03c5 \u03ad\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc. \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc \u03a5\u03b3\u03b5\u03af\u03b1\u03c2, \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03c4\u03b7\u03c2 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u0391\u03c6\u03c1\u03b9\u03ba\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd 95 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03c5\u03c1\u03af\u03c9\u03bd \u03ba\u03b1\u03c4\u03bf\u03af\u03ba\u03c9\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 12.500 \u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2 \u2026",
-      "url": "https://www.newsit.gr/ygeia/eylogia-ton-pithikon-therizei-sto-kongko-me-581-thanatous-kai-12-569-krousmata-arithmoi-rekor/3918261/",
-      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2023/11/monkeypox_eulogia_pithikon_REUTERS_27112023.jpg",
-      "publishedAt": "2023-11-27 15:18:00",
-      "content": ". , 95 581 12.500 . , 1 2023 12 2023 12.569 (mpox), 581 , . \u00ab , , , \u00bb, . , clade (.. ) , , \u00ab \u00bb. , 1970 , , , , , .. 2022 , , 23 2022. 11 , . (.. Clade b ) . , . , 91.788 , 167 , 116 202\u2026 [+119 chars]",
-      "retrievedAt": "2023-11-28 19:05:31.421913",
-      "internal_id": "44f31ae75474ddaf8218e7301bf88c7a8477ae8d5adb52ed2b9baca1dfbc6647",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3370,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Kitten sparks RABIES scare that could put 7M Americans at risk - Daily Mail",
-      "description": "Kitten sparks RABIES scare that could put 7M Americans at riskDaily Mail How one rabid kitten triggered intensive effort to contain deadly virusThe Washington Post Cute kitten with huge pupil sparks rabies scare that could put 7m people at riskThe Mirror Stra\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172318743",
-      "urlToImage": null,
-      "publishedAt": "2023-11-27 15:14:03",
-      "content": "It is impossible to travel faster than light, and certainly not desirable, as one's hat keeps blowing off. -- Woody Allen",
-      "retrievedAt": "2023-11-28 19:05:28.585620",
-      "internal_id": "5165e71483776a4d09043a1170ee5d5e26bdbb04cfcba0225a755e32c6d6a3ad",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3368,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Juan Pablo Gorgojo, Mariela del Carmen Carrica, Carlos Manuel Baroli, Hugo Alberto Valdez, Jimena Alvarez Hayes, Maria Eugenia Rodriguez",
-      "title": "Adenylate cyclase toxin of Bordetella parapertussis disrupts the epithelial barrier granting the bacterial access to the intracellular space of epithelial cells",
-      "description": "B. parapertussis is one of the etiological agents of whooping cough. Once inhaled, the bacteria bind to the respiratory epithelium and start the infection. Little is known about this first step of host colonization and the role of the human airway epithelial \u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291331",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0291331.g009&size=inline",
-      "publishedAt": "2023-11-27 14:00:00",
-      "content": "Citation: Gorgojo JP, Carrica MdC, Baroli CM, Valdez HA, Alvarez Hayes J, Rodriguez ME (2023) Adenylate cyclase toxin of Bordetella parapertussis disrupts the epithelial barrier granting the bacteria\u2026 [+52856 chars]",
-      "retrievedAt": "2023-11-28 19:05:28.262667",
-      "internal_id": "866dc3a4bf73c8178bc39fe051983765d6ab15594a364ee7b02a6245c0318cda",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3372,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Carolina Ospina-Aguirre, David Soriano-Pa\u00f1os, Gerard Olivar-Tost, Cristian C. Galindo-Gonz\u00e1lez, Jes\u00fas G\u00f3mez-Garde\u00f1es, Gustavo Osorio",
-      "title": "Effects of human mobility on the spread of Dengue in the region of Caldas, Colombia",
-      "description": "Author summary For the World Health Organization, dengue is a disease of public health concern. In recent years there is an increasing trend in the number of dengue cases despite existing prevention and control campaigns. The mobility of the population is con\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011087",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011087.g008&size=inline",
-      "publishedAt": "2023-11-27 14:00:00",
-      "content": "Abstract According to the World Health Organization (WHO), dengue is the most common acute arthropod-borne viral infection in the world. The spread of dengue and other infectious diseases is closely\u2026 [+54880 chars]",
-      "retrievedAt": "2023-11-28 19:05:29.418001",
-      "internal_id": "6e22b285320fe18926e9ea74e04148142d559a9f7f97f09da7bcba5b4d951598",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3375,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Anna Vicco, Clare P. McCormack, Belen Pedrique, John H. Amuasi, Anthony Afum-Adjei Awuah, Christian Obirikorang, Nicole S. Struck, Eva Lorenz, J\u00fcrgen May, Isabela Ribeiro, Gathsaurie Neelika Malavige, Christl A. Donnelly, Ilaria Dorigatti",
-      "title": "A simulation-based method to inform serosurvey designs for estimating the force of infection using existing blood samples",
-      "description": "Author summary The historical circulation of dengue virus is still poorly understood in many parts of the world, and age-stratified seroprevalence surveys can provide the data to quantify population exposure to dengue and its transmission intensity. In this w\u2026",
-      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011666",
-      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1011666.g005&size=inline",
-      "publishedAt": "2023-11-27 14:00:00",
-      "content": "Abstract The extent to which dengue virus has been circulating globally and especially in Africa is largely unknown. Testing available blood samples from previous cross-sectional serological surveys\u2026 [+38971 chars]",
-      "retrievedAt": "2023-11-28 19:05:29.434202",
-      "internal_id": "1a321f3d52cb56419653e31ad04b85615251217f19e9d6696d4045449106a4ff",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3380,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Sergey A. Shiryaev, Piotr Cieplak, Anton Cheltsov, Robert C. Liddington, Alexey V. Terskikh",
-      "title": "Dual function of Zika virus NS2B-NS3 protease",
-      "description": "Author summary Zika virus (ZIKV) serine protease is indispensable for viral replication and is composed of the proteas and helicase subunits. We discovered that the ZIKV protease subunit binds RNA, suggesting a novel function. We tested various structural mod\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011795",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011795.g012&size=inline",
-      "publishedAt": "2023-11-27 14:00:00",
-      "content": "Citation: Shiryaev SA, Cieplak P, Cheltsov A, Liddington RC, Terskikh AV (2023) Dual function of Zika virus NS2B-NS3 protease. PLoS Pathog 19(11): e1011795. https://doi.org/10.1371/journal.ppat.10\u2026 [+56260 chars]",
-      "retrievedAt": "2023-11-28 19:05:30.775923",
-      "internal_id": "f19bd81d35770b02e5fc01a5a0db22b399a7fb65f35a8a1544743b8161b31588",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3385,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Liliana Echavarria-Consuegra, Nilima Dinesh Kumar, Marleen van der Laan, Mario Mauthe, Denise Van de Pol, Fulvio Reggiori, Jolanda M. Smit",
-      "title": "Mitochondrial protein BNIP3 regulates Chikungunya virus replication in the early stages of infection",
-      "description": "Author summary Chikungunya virus causes an acute febrile disease for which no vaccines and therapy is available. The virus is transmitted to humans via infected A. aegypti or A. albopictus mosquitoes who are mainly circulating in the (sub)tropical regions of \u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010751",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0010751.g007&size=inline",
-      "publishedAt": "2023-11-27 14:00:00",
-      "content": "Citation: Echavarria-Consuegra L, Dinesh Kumar N, van der Laan M, Mauthe M, Van de Pol D, Reggiori F, et al. (2023) Mitochondrial protein BNIP3 regulates Chikungunya virus replication in the early st\u2026 [+61593 chars]",
-      "retrievedAt": "2023-11-28 19:05:31.162968",
-      "internal_id": "0317ae768f03885bb89b513d6a077d59e0dd1a8dac93144d0f64a5b197fa6db8",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3389,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "WHO Confirms Spread of MPox in DR Congo",
-      "description": "[allAfrica] Harare -- The World Health Organization said that it documented sexual transmission of mpox ( previously monkeypox ) in the Democratic Republic of the Congo for the first time during the nation's largest epidemic, a troubling finding that African \u2026",
-      "url": "https://allafrica.com/stories/202311270556.html",
-      "urlToImage": "https://cdn04.allafrica.com/download/pic/main/main/csiid/00611097:feb1706724376b3d9b7cebd501e31e9e:arc614x376:w1200.jpg",
-      "publishedAt": "2023-11-27 13:56:34",
-      "content": "Harare \u2014 The World Health Organization said that it documented sexual transmission of mpox ( previously monkeypox ) in the Democratic Republic of the Congo for the first time during the nation's lar\u2026 [+2107 chars]",
-      "retrievedAt": "2023-11-28 19:05:31.432428",
-      "internal_id": "0cfef447afc8ff4ccf3a4248de557db051f08fbc7d080cc7aa27d3fa843cccc5",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3374,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Da Ag\u00eancia Brasil",
-      "title": "Profissionais de sa\u00fade alertam para ressurgimento do tipo 3 da dengue",
-      "description": "Cidade do interior paulista confirma quatro casos da doen\u00e7a",
-      "url": "https://noticias.r7.com/saude/profissionais-de-saude-alertam-para-ressurgimento-do-tipo-3-da-dengue-27112023",
-      "urlToImage": "https://img.r7.com/images/mosquito-da-dengue-08072023182938398?crop=469x264+145+64",
-      "publishedAt": "2023-11-27 13:13:00",
-      "content": "Reprodu\u00e7\u00e3o Site/Minist\u00e9rio da Sa\u00fade Um estudo da Fiocruz (Funda\u00e7\u00e3o Oswaldo Cruz), divulgado em maio deste ano, j\u00e1 mostrava o ressurgimento do sorotipo 3 da dengue, e, na \u00faltima semana, foram c\u2026 [+3061 chars]",
-      "retrievedAt": "2023-11-28 19:05:29.431551",
-      "internal_id": "d66419b482f2af7860368e0ccec9ff33b9e3844da6faf074a11c0064cf4dcc25",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3371,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Kitten sparks huge RABIES scare that could put 7million Americans at risk after catching virus, then scratchin - Daily Mail",
-      "description": "Kitten sparks huge RABIES scare that could put 7million Americans at risk after catching virus, then scratchinDaily Mail How one rabid kitten triggered intensive effort to contain deadly virusThe Washington Post View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172317869",
-      "urlToImage": null,
-      "publishedAt": "2023-11-27 12:53:13",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-28 19:05:28.589337",
-      "internal_id": "3d6e42d084e8f821f3ccda837d143da3f3b5f6a9c76e0f27860748cf9e1974e1",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3376,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "CNN Philippines",
-      "author": "Cnn Philippines Staff",
-      "title": "Tagum City under state of calamity over dengue outbreak",
-      "description": "The Tagum City Health Office, citing its City Epidemiology Surveillance Unit, said 1,054 dengue cases were recorded from January to November 2023.",
-      "url": "http://www.cnnphilippines.com/news/2023/11/27/tagum-city-dengue-outbreak-state-of-calamity.html",
-      "urlToImage": "https://www.cnnphilippines.com/.imaging/default/dam/cnn/2019/09/23/Dengue-Aedes_CNNPH.png/jcr:content.png?width=750&height=450&crop:1:1,smart",
-      "publishedAt": "2023-11-27 12:19:02",
-      "content": "Metro Manila (CNN Philippines, November 27) The City of Tagum in Davao Del Norte has declared a state of calamity due to a dengue fever outbreak, its health office said Monday. The Tagum City Health\u2026 [+540 chars]",
-      "retrievedAt": "2023-11-28 19:05:29.438431",
-      "internal_id": "cb7d8a077d36b09bacc372b97d9cea3f30e310244917c2ea7f825a7ae1b1dd15",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3379,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Kevinmd.com",
-      "author": "Megan Nix",
-      "title": "There\u2019s no place for \u201cbenevolent deception\u201d in obstetrics",
-      "description": "When I was 36 weeks pregnant with my second child, Anna, my obstetrician noted that my fetus had a disproportionately small head, or microcephaly\u2014a condition now commonly known because of its association with the Zika virus. \u201cWe\u2019ll just have to wait and see,\u201d\u2026",
-      "url": "https://www.kevinmd.com/2023/11/theres-no-place-for-benevolent-deception-in-obstetrics.html",
-      "urlToImage": "https://www.kevinmd.com/wp-content/uploads/shutterstock_1616603689.jpg",
-      "publishedAt": "2023-11-27 12:00:32",
-      "content": "When I was 36 weeks pregnant with my second child, Anna, my obstetrician noted that my fetus had a disproportionately small head, or microcephalya condition now commonly known because of its associat\u2026 [+6125 chars]",
-      "retrievedAt": "2023-11-28 19:05:30.772144",
-      "internal_id": "95d3f88db70cbc50502c7a576e01f0ac3bc0bd9b3d8b5dc48b6268abbff6a5aa",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3388,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Le Monde avec AFP",
-      "title": "Epid\u00e9mie de mpox en RDC : 581 d\u00e9c\u00e8s depuis janvier et nombre de cas record sur une ann\u00e9e",
-      "description": "L\u2019Organisation mondiale de la sant\u00e9 m\u00e8ne une mission d\u2019\u00e9valuation de l\u2019activit\u00e9 du virus qui se r\u00e9pand notamment \u00e0 Kinshasa et dans l\u2019est de la R\u00e9publique d\u00e9mocratique du Congo.",
-      "url": "https://www.lemonde.fr/afrique/article/2023/11/27/epidemie-de-mpox-en-rdc-581-deces-depuis-janvier-et-nombre-de-cas-record-sur-une-annee_6202586_3212.html",
-      "urlToImage": "https://img.lemde.fr/2023/11/27/0/0/799/533/1440/960/60/0/6a29e45_1701082793883-mpox.jpeg",
-      "publishedAt": "2023-11-27 11:03:23",
-      "content": "L\u00e9sions de la peau dues au virus mpox (d\u00e9nomm\u00e9 variole du singe jusquen novembre 2022) sur des enfants de Bombongolo, en R\u00e9publique d\u00e9mocratique du Congo, en 2016. KRIS PANNECOUCKE/PANOS-REA LOrgani\u2026 [+2773 chars]",
-      "retrievedAt": "2023-11-28 19:05:31.425043",
-      "internal_id": "09a8330569588b7cf9fae806b423759b56a716a9e3fd47821ee33c9996012070",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3377,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "marca",
-      "source_name": "Marca",
-      "author": "MC",
-      "title": "Alerta por par\u00e1sito \"come cerebros\" que termin\u00f3 con la vida de ni\u00f1a en Colombia: \"En piscinas y jacuzzis\"",
-      "description": "Aunque en un principio se report\u00f3 la muerte de Stefan\u00eda Villamizar Gonz\u00e1lez, una ni\u00f1a de 10 a\u00f1os, por causa de una supuesta meningitis. Las investigaciones detalladas de expertos d",
-      "url": "https://www.marca.com/co/2023/11/27/6564715be2704ecd128b4583.html",
-      "urlToImage": "https://phantom-marca.unidadeditorial.es/35ede04b073560757b94a52c92ed9034/resize/1200/f/webp/assets/multimedia/imagenes/2023/11/27/17010813516182.jpg",
-      "publishedAt": "2023-11-27 10:37:46",
-      "content": "Aunque en un principio se report\u00f3 la muerte de Stefan\u00eda Villamizar Gonz\u00e1lez, una ni\u00f1a de 10 a\u00f1os, por causa de una supuesta meningitis. Las investigaciones detalladas de expertos descubrieron que el \u2026 [+3405 chars]",
-      "retrievedAt": "2023-11-28 19:05:29.718233",
-      "internal_id": "2912664305dac1b250636fa717d7efe2bd5024a05da144de04e3bf73d2cd7476",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3384,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "liberation",
-      "source_name": "Lib\u00e9ration",
-      "author": "LIBERATION, AFP",
-      "title": "Chikungunya : le premier vaccin autoris\u00e9 par les autorit\u00e9s sanitaires europ\u00e9ennes",
-      "description": "Le produit d\u00e9velopp\u00e9 par le laboratoire fran\u00e7ais Valneva contre la maladie tropicale a re\u00e7u un avis positif de l\u2019agence europ\u00e9enne des m\u00e9dicaments (EMA) ce lundi 27 novembre. Il est d\u00e9j\u00e0 autoris\u00e9 aux Etats-Unis, mais pas encore en France.",
-      "url": "https://www.liberation.fr/societe/sante/chikungunya-le-premier-vaccin-autorise-par-les-autorites-sanitaires-europeennes-20231127_CAT6N2CEJFGP7MXFVLYOIA2IXA/",
-      "urlToImage": "https://www.liberation.fr/resizer/8QQaJEY-1aNaTZGypDy31ZCTcLU=/1200x630/filters:format(jpg):quality(70):focal(2026x1015:2036x1025)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/IIZ7JV5NIJDXJIUCCZZSO2LU3M.jpg",
-      "publishedAt": "2023-11-27 09:03:43",
-      "content": "Cest le premier vaccin mis au point contre le chikungunya. Lagence europ\u00e9enne des m\u00e9dicaments (EMA) a donn\u00e9 un avis favorable \u00e0 la mise sur le march\u00e9 du produit cr\u00e9\u00e9 par le laboratoire fran\u00e7ais Valne\u2026 [+1488 chars]",
-      "retrievedAt": "2023-11-28 19:05:31.159738",
-      "internal_id": "75ae256fd7ead42b796eecd7ab0b19bd743256ac5b86b9c32c2c73ef03650b06",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3373,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Afrique de l'Ouest: Une \u00e9pid\u00e9mie de dengue touche toutes les r\u00e9gions du Burkina Faso",
-      "description": "[RFI] Le Burkina Faso connait actuellement une \u00e9pid\u00e9mie de dengue. Depuis le d\u00e9but de l'ann\u00e9e, plus de 123 800 cas suspects (dont 56 630 cas probables) ont \u00e9t\u00e9 enregistr\u00e9s dans le pays, selon les chiffres fournis en fin de semaine par le centre des op\u00e9rations\u2026",
-      "url": "https://fr.allafrica.com/stories/202311270231.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-27 09:01:15",
-      "content": "Le Burkina Faso connait actuellement une \u00e9pid\u00e9mie de dengue. Depuis le d\u00e9but de l'ann\u00e9e, plus de 123 800 cas suspects (dont 56 630 cas probables) ont \u00e9t\u00e9 enregistr\u00e9s dans le pays, selon les chiffres \u2026 [+1451 chars]",
-      "retrievedAt": "2023-11-28 19:05:29.428413",
-      "internal_id": "c311229f993b25d41f4c94f496a281da866650c234bfc1dfb4747e1971da324b",
       "publishedAtLabel": "Nov 27"
     }
   ]
