@@ -1,8 +1,170 @@
 {
-  "last_updated": "2023-12-07 19:05",
+  "last_updated": "2023-12-08 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 22,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 3570,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Springwise.com",
+      "author": "Hannah Hudson",
+      "title": "Yellow canteens: a colourful way to keep kids healthy",
+      "description": "The colour repels flies and helps reduce the transmission of dangerous diseases The post Yellow canteens: a colourful way to keep kids healthy appeared first on Springwise.",
+      "url": "https://www.springwise.com/innovation/education/painting-canteens-yellow-to-keep-kids-healthy/",
+      "urlToImage": "https://www.springwise.com/wp-content/uploads/2023/12/innovationeducationpainting-canteens-yellow-to-keep-kids-healthy.png",
+      "publishedAt": "2023-12-07 05:55:00",
+      "content": "Spotted: Flies are more than a nuisance. They are the carriers and transmitters of numerous diseases, including particularly dangerous ones such as cholera, typhoid, and gastrointestinal illnesses. R\u2026 [+2010 chars]",
+      "retrievedAt": "2023-12-08 07:05:43.734970",
+      "internal_id": "ea581ec04d1b7c75364c487100c77a2d940f63853cebd25734a28664ebe9624c",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3563,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "EURACTIV",
+      "author": "Catalina Mihai",
+      "title": "Romania declares measles epidemic",
+      "description": "The Health Ministry has officially declared a national measles epidemic following an alarming rise in measles cases and the substantial number of hospitalisations among infected children, the ministry announced on Wednesday. Currently, there are nearly 2,000 \u2026",
+      "url": "https://www.euractiv.com/section/politics/news/romania-declares-measles-epidemic/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2023/12/shutterstock_1323694607-e1701926473881-800x450.jpg",
+      "publishedAt": "2023-12-07 05:21:19",
+      "content": "The Health Ministry has officially declared a national measles epidemic following an alarming rise in measles cases and the substantial number of hospitalisations among infected children, the ministr\u2026 [+1915 chars]",
+      "retrievedAt": "2023-12-08 07:05:41.594590",
+      "internal_id": "98e212d1b3984228af2d4e58cb6ab915ac43c5971cb5b399a8edcd562bd8e55f",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3568,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Estimation of Incubation Period of Mpox during 2022 Outbreak in Pereira, Colombia",
+      "description": "Incubation Period of Mpox, Colombia",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/1/22-1663_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-12-07 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Mpox, a zoonotic disease e\u2026 [+9037 chars]",
+      "retrievedAt": "2023-12-08 07:05:43.575480",
+      "internal_id": "0d1e2fd7014cb6bd01fac9015205b08b8241e12a74c9a6570c8eae3c249702d3",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3569,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Mpox in the Democratic Republic of the Congo (DRC)",
+      "description": "There is an outbreak of mpox in 22 out of 26 provinces, including urban areas, in the DRC.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/monkeypox-democratic-republic-of-congo",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2023-12-07 03:00:00",
+      "content": "Mpox is a disease caused by infection with monkeypox virus. Mpox is endemic throughout Central and West Africa near forests. People usually become infected with the monkeypox virus through contact w\u2026 [+566 chars]",
+      "retrievedAt": "2023-12-08 07:05:43.581459",
+      "internal_id": "8305212d0b946ca1d4b9e48eced25fa9a202d0197a22e0e7857ec4d908ffdd7d",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3566,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "WTOV Steubenville",
+      "author": "Hannah Hayes",
+      "title": "Meningococcal meningitis outbreak in Jefferson County alarms local health officials",
+      "description": "The sudden appearance of Meningococcal Meningitis has local authorities on alert, as three children have been tested &ndash; and two were positive.\"It's uncommon,&rdquo; Je",
+      "url": "https://wtov9.com/news/local/meningococcal-meningitis-outbreak-in-jefferson-county-alarms-local-health-officials",
+      "urlToImage": "https://wtov9.com/resources/media/d2f2a3c9-41aa-419b-b1a2-3b9aeb339337-large16x9_illness.JPG",
+      "publishedAt": "2023-12-07 02:08:24",
+      "content": "The sudden appearance of Meningococcal Meningitis has local authorities on alert, as three children have been tested and two were positive. \"It's uncommon, Jefferson County Health Commissioner Andre\u2026 [+1522 chars]",
+      "retrievedAt": "2023-12-08 07:05:42.424102",
+      "internal_id": "c6469baebc505836a38f70e182f848ee62d931dfcc69a07f48c4580ef2c090da",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3567,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Breaking Belize News",
+      "author": "Bbnteam",
+      "title": "Ministry of Health on alert after serious case of bacterial meningitis identified in the capital city",
+      "description": "A nine-year-old boy from Belmopan, attending United Evergreen Primary School, is in serious condition, reportedly on a respirator, at the Karl Heusner Memorial Hospital (KHMH) following a diagnosis of bacterial meningitis caused by exposure to the strain Stre\u2026",
+      "url": "https://www.breakingbelizenews.com/2023/12/06/ministry-of-health-on-alert-after-serious-case-of-bacterial-meningitis-identified-in-the-capital-city/",
+      "urlToImage": "https://www.breakingbelizenews.com/wp-content/uploads/2023/12/new-melissa-diaz-musa.png",
+      "publishedAt": "2023-12-06 21:48:58",
+      "content": "Posted: Wednesday, December 6, 2023. 3:35 pm CST. By Aaron Humes: A nine-year-old boy from Belmopan, attending United Evergreen Primary School, is in serious condition, reportedly on a respirator, a\u2026 [+3180 chars]",
+      "retrievedAt": "2023-12-08 07:05:42.428092",
+      "internal_id": "104ac7f4b443cf191649da635f0107d38f57470f46fdae68f4e3d51f50b1c7c9",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3565,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Associated Press",
+      "title": "21 dead, 600 infected in Mali dengue outbreak",
+      "description": "600 dengue fever cases have been counted in Mali, with 21 people confirmed by officials to have been killed by the mosquito-borne disease.",
+      "url": "https://www.foxnews.com/world/21-dead-600-infected-mali-dengue-outbreak",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AP23173281339142.jpg",
+      "publishedAt": "2023-12-06 20:46:16",
+      "content": "Authorities say dengue fever is on the rise in Mali, posing a new threat to the West African nation struggling with extremist attacks and political turbulence. The director general of health and pub\u2026 [+1750 chars]",
+      "retrievedAt": "2023-12-08 07:05:42.059528",
+      "internal_id": "fd20a91e65be73adb96b1986b2fc6ae8233789cde6e69df2403dfc01ddb3bd97",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3564,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas confirma 3\u00aa morte por dengue em 2023",
+      "description": "Mulher de 37 anos veio a \u00f3bito em novembro, em um hospital privado. Metr\u00f3pole registra 6\u00aa maior epidemia desde 1998, com 10,1 mil infectados. Mosquito transmissor da dengue Reprodu\u00e7\u00e3o/EPTV Campinas (SP) confirmou nesta quarta-feira (6) a 3\u00aa morte por dengue e\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/06/campinas-confirma-3a-morte-por-dengue-em-2023.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/D91lVDz2UOuoKmUA7XjMswQvox8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/9/ZXEUPfQHO78slTEX68Qw/capturar3.jpg",
+      "publishedAt": "2023-12-06 20:09:20",
+      "content": "Coordenador do Programa de Arboviroses e Zoonoses de Campinas, Fausto de Almeida Marinho Neto destaca que \"a combina\u00e7\u00e3o entre onda de calor e dias chuvosos multiplica riscos para casos de dengue por \u2026 [+4356 chars]",
+      "retrievedAt": "2023-12-08 07:05:42.044397",
+      "internal_id": "4150bffe66ef6e5820894b8001abbd1c6fba79d786c5cf62f565a9fa03c7eb33",
+      "publishedAtLabel": "Dec 6"
+    },
+    {
+      "id": 3562,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "FOX 2 Detroit",
+      "author": "Fox 2 Detroit",
+      "title": "Buy a skunk in Michigan? It may have been exposed to rabies",
+      "description": "A skunk that came from a breeder in Macomb County has tested positive for rabies. It's unclear how it became infected or how many others were exposed.",
+      "url": "https://www.fox2detroit.com/news/buy-a-skunk-in-michigan-it-may-have-been-exposed-to-rabies",
+      "urlToImage": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2019/12/1280/720/GettyImages-145554062.jpg?ve=1&tl=1",
+      "publishedAt": "2023-12-06 19:42:46",
+      "content": "LANSING, Mich. (FOX 2) - Skunks purchased through a metro Detroit breeder may have rabies and the public is being warned about potential exposure for any who may have purchased the mammals this year.\u2026 [+1893 chars]",
+      "retrievedAt": "2023-12-08 07:05:41.308257",
+      "internal_id": "f5af61ffdf57b31c38b6b37c90c006134774658e7a4142e37749cdc4c66868c7",
+      "publishedAtLabel": "Dec 6"
+    },
     {
       "id": 3554,
       "query": [
@@ -3457,168 +3619,6 @@
       "retrievedAt": "2023-11-28 19:05:29.428413",
       "internal_id": "c311229f993b25d41f4c94f496a281da866650c234bfc1dfb4747e1971da324b",
       "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3382,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "L'Express",
-      "author": "L\u2019Express",
-      "title": "Vaccin contre le chikungunya : le feu vert de l\u2019Europe",
-      "description": "L\u2019agence europ\u00e9enne des m\u00e9dicaments (EMA) a donn\u00e9 un avis favorable \u00e0 la mise sur le march\u00e9 d\u2019un vaccin contre le chikungunya de Valneva, d\u00e9j\u00e0 approuv\u00e9 le 10 novembre aux Etats-Unis.",
-      "url": "https://www.lexpress.fr/sciences-sante/sante/vaccin-contre-le-chikungunya-le-feu-vert-de-leurope-BMGJYZ4I3JGINCANCJEVIMFSVY/",
-      "urlToImage": "https://www.lexpress.fr/resizer/nB6OzDsSeUfbHWzRMx5Afen1phg=/1200x630/filters:focal(1011x659:1021x669)/cloudfront-eu-central-1.images.arcpublishing.com/lexpress/XUDNNWWZ7FD3JIGQQOQT7FV7DY.jpg",
-      "publishedAt": "2023-11-27 08:30:06",
-      "content": "Feu vert dans lUE. Lagence europ\u00e9enne des m\u00e9dicaments (EMA) a donn\u00e9 un avis favorable \u00e0 la mise sur le march\u00e9 dun vaccin contre le chikungunya de Valneva, d\u00e9j\u00e0 approuv\u00e9 le 10 novembre aux Etats-Unis,\u2026 [+1319 chars]",
-      "retrievedAt": "2023-11-28 19:05:31.153397",
-      "internal_id": "2e302423a9782a59e94c3b24be7fccdebafc5831ec63742f259ad6d6d179081a",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3381,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "La r\u00e9daction avec AFP",
-      "title": "Sant\u00e9. Chikungunya : l'Europe donne un avis favorable au vaccin de Valneva",
-      "description": "Le chikungunya est une \u00ab menace majeure pour la sant\u00e9 publique \u00bb. Le vaccin \u00e0 dose unique VLA1553, ou \u00ab Ixchiq \u00bb, de Valneva est commercialis\u00e9 aux \u00c9tats-Unis depuis le 10 novembre.",
-      "url": "https://www.ledauphine.com/sante/2023/11/27/chikungunya-l-europe-donne-un-avis-favorable-au-vaccin-de-valneva",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/09CC47DB-0F22-40F2-9FF6-18F8F5D5C761/FB1200/photo-1701072670.jpg",
-      "publishedAt": "2023-11-27 08:13:00",
-      "content": "L'agence europ\u00e9enne des m\u00e9dicaments (EMA) a donn\u00e9 un avis favorable \u00e0 la mise sur le march\u00e9 d'un vaccin contre le chikungunya de Valneva, d\u00e9j\u00e0 approuv\u00e9 le 10 novembre aux \u00c9tats-Unis, selon un communi\u2026 [+1308 chars]",
-      "retrievedAt": "2023-11-28 19:05:31.148610",
-      "internal_id": "f5b8b08d94c1b1c7bf9f1a4e151b8b209a438a8e313c6459609772deec3d737a",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3383,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": null,
-      "title": "Valneva says EU regulator accepts its chikungunya vaccine application",
-      "description": "(marketscreener.com) French drugmaker Valneva said on Monday that the application for its vaccine candidate against mosquito-borne viral disease chikungunya was accepted by the European Medicines Agency which would now examine the drug in a fast-track procedu\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-says-EU-regulator-accepts-its-chikungunya-vaccine-application-45439850/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-11-27 07:45:35",
-      "content": "Nov 27 (Reuters) - French drugmaker Valneva said on Monday that the application for its vaccine candidate against mosquito-borne viral disease chikungunya was accepted by the European Medicines Ag\u2026 [+369 chars]",
-      "retrievedAt": "2023-11-28 19:05:31.156510",
-      "internal_id": "29212a26596b525ea5145a9710120b2237d6b6c7e44eec3102a454716a853ce2",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3365,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": null,
-      "title": "Valneva: Marketing authorization application deemed admissible by the EMA",
-      "description": "(marketscreener.com) Valneva has announced that the European Medicines Agency has accepted its marketing authorization application for its single-dose chikungunya vaccine candidate VLA1553.The chikungunya virus, or CHIKV, has already spread to over 110 countr\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Marketing-authorization-application-deemed-admissible-by-the-EMA-45439906/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-11-27 06:28:04",
-      "content": "Valneva has announced that the European Medicines Agency (EMA) has accepted its marketing authorization application (MAA) for its single-dose chikungunya vaccine candidate VLA1553.The chikungunya vir\u2026 [+496 chars]",
-      "retrievedAt": "2023-11-28 07:05:44.026785",
-      "internal_id": "f1d901ea083a29b02aad7e379170008a07387401bbe7efa6bb51d224f83bd61c",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3366,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "EMA Accepts Valneva\u2019s Chikungunya Vaccine Marketing Authorization Application for Accelerated Assessment",
-      "description": "Saint-Herblain (France), November 27, 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the European Medicines Agency (EMA) has performed a technical validation of the Marketing Authorization Application \u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/11/27/2785831/0/en/EMA-Accepts-Valneva-s-Chikungunya-Vaccine-Marketing-Authorization-Application-for-Accelerated-Assessment.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-11-27 06:00:00",
-      "content": "Saint-Herblain (France), November 27, 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that the European Medicines Agency (EMA) has performed a technic\u2026 [+10508 chars]",
-      "retrievedAt": "2023-11-28 07:05:44.030099",
-      "internal_id": "1bdcebf5bb46ef570809747446a61859ae62197c89bc87d8bb379b8d75549004",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3367,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "L\u2019EMA juge recevable le dossier de demande d\u2019autorisation de mise sur le march\u00e9 de Valneva pour son candidat vaccin contre le chikungunya",
-      "description": "Saint-Herblain (France), 27 novembre 2023 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd'hui que l\u2019Agence europ\u00e9enne des m\u00e9dicaments (EMA) a proc\u00e9d\u00e9 \u00e0 une validation technique de la demande d'autorisati\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/11/27/2785831/0/fr/L-EMA-juge-recevable-le-dossier-de-demande-d-autorisation-de-mise-sur-le-march%C3%A9-de-Valneva-pour-son-candidat-vaccin-contre-le-chikungunya.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-11-27 06:00:00",
-      "content": "Saint-Herblain (France), 27 novembre 2023Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, annonce aujourd'hui que lAgence europ\u00e9enne des m\u00e9dicaments (EMA) a proc\u00e9\u2026 [+12300 chars]",
-      "retrievedAt": "2023-11-28 07:05:44.032870",
-      "internal_id": "c2ff01c456cc3ae1dd8ff84a3fd8a49b7f91196f144a79f67ac16316b536b927",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3362,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Iz.ru",
-      "author": "\u0415\u043b\u0435\u043d\u0430 \u041f\u043b\u0430\u0432\u0441\u043a\u0430\u044f",
-      "title": "\u0412\u0440\u0430\u0447 \u043e\u0442\u043c\u0435\u0442\u0438\u043b \u0432\u043b\u0438\u044f\u043d\u0438\u0435 \u043e\u0442\u043a\u0430\u0437\u0430 \u043e\u0442 \u043f\u043e\u0441\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0435\u0436\u0438\u043c\u0430 \u043d\u0430 \u043e\u0441\u043b\u043e\u0436\u043d\u0435\u043d\u0438\u044f \u041e\u0420\u0412\u0418",
-      "description": "\u0417\u0430\u0431\u043e\u043b\u0435\u0432\u0448\u0438\u0435 \u041e\u0420\u0412\u0418 \u0438 \u0441\u043e\u0431\u043b\u044e\u0434\u0430\u0432\u0448\u0438\u0435 \u043f\u043e\u0441\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u0436\u0438\u043c \u043f\u0430\u0446\u0438\u0435\u043d\u0442\u044b, \u0432\u044b\u0437\u0434\u043e\u0440\u0430\u0432\u043b\u0438\u0432\u0430\u044e\u0442 \u0431\u044b\u0441\u0442\u0440\u0435\u0435 \u0438 \u0440\u0435\u0436\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u043e\u0441\u043b\u043e\u0436\u043d\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0441\u0442\u0443\u0434\u043d\u043e\u0433\u043e \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u044f, \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0430 \u0432\u0440\u0430\u0447-\u0442\u0435\u0440\u0430\u043f\u0435\u0432\u0442 BestDoctor \u0414\u0430\u0440\u044c\u044f \u041c\u0438\u0444\u0442\u0430\u0445\u043e\u0432\u0430.",
-      "url": "https://iz.ru/1611536/2023-11-27/vrach-otmetil-vliianie-otkaza-ot-postelnogo-rezhima-na-oslozhneniia-orvi",
-      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2023-11/PV102912.JPG.jpg?itok=x6Nq_gX4",
-      "publishedAt": "2023-11-27 05:47:19",
-      "content": ", , - BestDoctor . \u00ab - , , . - , \u00bb, \u00ab.Ru\u00bb. , , , , , - . , . \u00ab 5-7 . . . ( , ) 4 , , \u00bb, . , , . \u00ab ( , ), , , \u00bb, . , , . , 15 , -, \u00ab-\u00bb , ... \u00ab\u00bb . , , . , , . , Bordetella pertussis.",
-      "retrievedAt": "2023-11-28 07:05:41.734818",
-      "internal_id": "5d52e063462237ee84b9024dcb15d4780007239d3cfe4e0886a583c4b3dc32ff",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3364,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Perfil Brasil",
-      "title": "Sa\u00fade faz alerta para ressurgimento da dengue tipo 3",
-      "description": "Segundo a Secretaria Municipal de Sa\u00fade de Votuporanga, sete casos foram considerados suspeitos. O resultado das amostras colhidas indicou que, dos sete, tr\u00eas eram do tipo 3 da dengue",
-      "url": "https://brasil.perfil.com/saude/saude-faz-alerta-para-ressurgimento-da-dengue-tipo-3.phtml",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/27/863926253-dengue.jpg",
-      "publishedAt": "2023-11-27 00:22:16",
-      "content": "Um estudo da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz), divulgado em maio deste ano, j\u00e1 mostrava o ressurgimento desse sorotipo da dengue e, na \u00faltima semana, foram confirmados quatro casos na cidade de Votupo\u2026 [+764 chars]",
-      "retrievedAt": "2023-11-28 07:05:42.769674",
-      "internal_id": "0f0c6d1001d9fef42d1b3d5f8178b9a2e5ff564e80d1f0f4cbbb01d9ccd8ef39",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3363,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Ibtimes.com.au",
-      "author": null,
-      "title": "Vaxxas Announces and Publishes Successful Phase I Clinical Trial for Measles and Rubella Vaccine Delivered Using its Proprietary High-Density Microarray Skin Patch; Plan for Phase I/II Trial in The Gambia, Africa",
-      "description": "CAMBRIDGE, Mass. & BRISBANE, Australia--(BUSINESS WIRE)--Vaxxas, a clinical-stage biotechnology company commercializing a novel vaccination platform, has published positive results from a human clinical trial involving its potentially game-changing technology\u2026",
-      "url": "https://www.ibtimes.com.au/press-release/20231127/vaxxas-announces-and-publishes-successful-phase-i-clinical-trial-for-measles-and-rubella-vaccine-delivered-using-its-proprietary-high-density-microarray-skin-patch-plan-for-phase-i-ii-trial-in-the-gambia-africa",
-      "urlToImage": "",
-      "publishedAt": "2023-11-26 23:41:51",
-      "content": " A single dose of measles and rubella (MR) vaccine delivered to adults by the Vaxxas high-density microarray patch (HD-MAP) provided antibody responses comparable to the same vaccine deliver\u2026 [+7617 chars]",
-      "retrievedAt": "2023-11-28 07:05:42.273360",
-      "internal_id": "14ec722e297a3904ea15934e5a613d0fe6dddfacb5049b47d81528d10036629e",
-      "publishedAtLabel": "Nov 26"
     }
   ]
 }
