@@ -1,8 +1,440 @@
 {
-  "last_updated": "2023-12-09 07:05",
+  "last_updated": "2023-12-09 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 13,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 3603,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Epidemia: Sa\u00fade emite alerta para casos de dengue em 2024",
+      "description": "A Regi\u00e3o Centro-Oeste do Brasil deve registrar n\u00edvel epid\u00eamico de dengue em 2024, conforme ...",
+      "url": "https://brasil.perfil.com/saude/epidemia-saude-emite-alerta-para-casos-de-dengue-em-2024.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1993521146-ebc.png",
+      "publishedAt": "2023-12-08 18:49:54",
+      "content": "A Regi\u00e3o Centro-Oeste do Brasil deve registrar n\u00edvel epid\u00eamico de dengue em 2024, conforme previs\u00e3o divulgada nesta sexta-feira (8) pelo Minist\u00e9rio da Sa\u00fade. \"Temos muitas pessoas que, por uma situ\u2026 [+1933 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.643646",
+      "internal_id": "e49a1eebe891a426e511cbfa6ba2ceb6dd4300029c282e6f6f1438b3470de0e2",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3623,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warns - New York Post",
+      "description": "Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warnsNew York Post CDC urges doctors, health departments to bolster surveillance of more severe mpox strainYahoo Life US CDC issues health alert for subtype of mpox virus in CongoReuters US CDC iss\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172451439",
+      "urlToImage": null,
+      "publishedAt": "2023-12-08 18:14:03",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-12-09 19:05:20.810580",
+      "internal_id": "99ef16ca49cb4c68e65af53ed9f27d3e7feb46d1e79284a1b7d13caf8aff3c54",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3610,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Casos de dengue no Brasil aumentam 17,5% em 2023",
+      "description": "Dados divulgados nesta sexta-feira (8) pelo Minist\u00e9rio da Sa\u00fade indicam que os casos prov\u00e1veis de dengue no Brasil aumentaram 17,5% em 2023 em rela\u00e7\u00e3o ao ano passado",
+      "url": "https://brasil.perfil.com/brasil/casos-de-dengue-no-brasil-aumentam-175-em-2023.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/56778427-ebc.png",
+      "publishedAt": "2023-12-08 18:13:53",
+      "content": "Dados divulgados nesta sexta-feira (8) pelo Minist\u00e9rio da Sa\u00fade indicam que os casos prov\u00e1veis de dengue no Brasil aumentaram 17,5% em 2023 em rela\u00e7\u00e3o ao ano passado. As ocorr\u00eancias passaram de 1,3 m\u2026 [+7841 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.707139",
+      "internal_id": "f3725a165c148e34d2113fe8a0889d018f9bc0171a79b170f85d7ad917033134",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3608,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Sa\u00fade prev\u00ea epidemia de dengue no Brasil em 2024",
+      "description": "De 4.976 munic\u00edpios, 30,2% t\u00eam classifica\u00e7\u00e3o de alerta para o Aedes",
+      "url": "https://saude.ig.com.br/2023-12-08/saude-preve-epidemia-de-dengue-no-brasil-em-2024.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0h/8t/px/0h8tpxwmjwdegegn5t8xle7q2.jpg",
+      "publishedAt": "2023-12-08 17:38:08",
+      "content": "A Regi\u00e3o Centro-Oeste do Brasil deve registrar n\u00edvel epid\u00eamico de dengue em 2024, conforme previs\u00e3o divulgada nesta sexta-feira (8) pelo Minist\u00e9rio da Sa\u00fade. Temos muitas pessoas que, por uma situa\u2026 [+1813 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.689105",
+      "internal_id": "12cd520b9f022ec1aa018f4be8076272da0a6d8d53e5173156416da88de3a91a",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3621,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Thefly.com",
+      "author": null,
+      "title": "WHO 'worried' about mpox spread in DRC, Reuters reports",
+      "description": "See the rest of the story here. thefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+      "url": "https://thefly.com/permalinks/entry.php/id3828359/SIGA;DGX-WHO-worried-about-mpox-spread-in-DRC-Reuters-reports",
+      "urlToImage": "https://thefly.com/images/meta/periodicals.jpg",
+      "publishedAt": "2023-12-08 17:37:26",
+      "content": "Earnings calls, analyst events, roadshows and more Today at 13:30Beverages, Consumer Products &amp; Health/Wellness Industry Meetings Today at 14:00Biomea Fusion Firm Sponsored\u2026 [+771 chars]",
+      "retrievedAt": "2023-12-09 19:05:20.800289",
+      "internal_id": "f7113babe794232bbeb7e9c97c9be8f4d76be9c71f8c24870f425e9a6617e7c3",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3604,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Incorpora\u00e7\u00e3o de vacina contra dengue ao SUS deve sair ainda este ano",
+      "description": "A Comiss\u00e3o Nacional de Incorpora\u00e7\u00f5es de Tecnologias no Sistema \u00danico de Sa\u00fade (Conitec) deve ...",
+      "url": "https://brasil.perfil.com/saude/incorporacao-de-vacina-contra-dengue-ao-sus-deve-sair-ainda-este-ano.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/870307485-abre-perfil-brasil-redimensionado-25-1.jpg",
+      "publishedAt": "2023-12-08 17:34:52",
+      "content": "A Comiss\u00e3o Nacional de Incorpora\u00e7\u00f5es de Tecnologias no Sistema \u00danico de Sa\u00fade (Conitec) deve decidir ainda este ano sobre a incorpora\u00e7\u00e3o da vacina contra a dengue ao Sistema \u00danico de Sa\u00fade (SUS). De \u2026 [+2082 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.649642",
+      "internal_id": "46ad7bf62cb699eb37c84883bb84168cc588f8e2518652da3d041a4a3bff5573",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3622,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "CDC urges doctors, health departments to bolster surveillance of more severe mpox strain - Yahoo Life",
+      "description": "CDC urges doctors, health departments to bolster surveillance of more severe mpox strainYahoo Life WHO 'very worried' about spread of mpox in DRCReuters Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warnsNew York Post US CDC issues health aler\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172451131",
+      "urlToImage": null,
+      "publishedAt": "2023-12-08 17:34:38",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-12-09 19:05:20.807824",
+      "internal_id": "95e546ebf032be7b7408b0145f687505f61e7e7d2815a6f952d51f3888fd0336",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3614,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Minist\u00e9rio da Sa\u00fade projeta aumento de casos de dengue em 2024 em grande parte do Pa\u00eds",
+      "description": "Pela primeira vez em muito tempo, os quatro sorotipos do v\u00edrus est\u00e3o circulando no Brasil; algumas regi\u00f5es podem enfrentar um cen\u00e1rio de epidemia",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-projeta-aumento-de-casos-de-dengue-em-2024-em-grande-parte-do-pais,9f26487cb93f3efdd344c33f06393701c9rvaomv.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2023-12-08 17:14:00",
+      "content": "Em coletiva realizada nesta sexta, 8, o Minist\u00e9rio da Sa\u00fade alertou que, em 2024, o n\u00famero de casos de dengue deve aumentar em grande parte do Brasil. O Centro-Oeste deve encarar um cen\u00e1rio epid\u00eamico\u2026 [+3494 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.726418",
+      "internal_id": "b72c25481202b4fb84bc3c3ede2b0360ccfd369ac3e1a715a1a945b784a58a9c",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3602,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Dengue avan\u00e7a no Brasil e situa\u00e7\u00e3o para 2024 preocupa",
+      "description": "Segundo dados divulgados pelo Minist\u00e9rio da Sa\u00fade, os casos de dengue tiveram aumento de 17,5% em 2023 em rela\u00e7\u00e3o ao ano passado O post Dengue avan\u00e7a no Brasil e situa\u00e7\u00e3o para 2024 preocupa apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/12/08/medicina-e-saude/dengue-avanca-no-brasil-e-situacao-para-2024-preocupa/",
+      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205.jpg",
+      "publishedAt": "2023-12-08 17:05:12",
+      "content": "Os casos de dengue no Brasil continuam aumentando. Segundo dados divulgados pelo Minist\u00c3\u00a9rio da Sa\u00c3\u00bade nesta sexta-feira (8), o crescimento foi de 17,5% em 2023 em rela\u00c3\u00a7\u00c3\u00a3o ao ano passado. As ocorr\u00c3\u2026 [+3339 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.636202",
+      "internal_id": "d19fc9ae41df7e6c66e31c9bed5776b29de68f5f882d777cbf38807573058e9c",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3615,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Foreign Policy",
+      "author": "Zacharia Kafuko",
+      "title": "New Lifesaving Malaria Vaccines Need to Be Available Now",
+      "description": "Emergency deployment could save tens of thousands of children.",
+      "url": "https://foreignpolicy.com/2023/12/08/new-malaria-vaccine-africa-world-health-organization-child-mortality/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2023/12/AFRICA-MALARIA-VACCINES-GettyImages-1247904712.jpg?w=1000",
+      "publishedAt": "2023-12-08 17:00:50",
+      "content": "Right now, enough material to make 20 million doses of a lifesaving malaria vaccine is sitting on a shelf in India, expected to go unused until mid-2024. Extrapolating from estimates by researchers a\u2026 [+7293 chars]",
+      "retrievedAt": "2023-12-09 19:05:18.903982",
+      "internal_id": "fd536d9bde0ee4004751ed4db434d25744e64d81d62d1f008e8a4276af8f9cc0",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3619,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "More Infectious Mpox Sparks Fears Of New Global Spread \u2014 What To Know About The Deadly Virus",
+      "description": "The WHO and CDC have warned that a deadlier and more infectious form of monkeypox virus\u2014distinct from what caused last year\u2019s outbreak\u2014is surging through the DRC and could potentially spread globally.",
+      "url": "https://www.forbes.com/sites/roberthart/2023/12/08/more-infectious-mpox-sparks-fears-of-new-global-spread---what-to-know-about-the-deadly-virus/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6573493912ac703b5af14702/0x0.jpg?format=jpg&crop=3637,2047,x0,y216,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-12-08 16:52:44",
+      "content": "Clinicians and health officials across the United States should stay vigilant for a lethal strain of mpox, the Centers for Disease Control and Prevention warned on Thursday, as experts worry the infe\u2026 [+7031 chars]",
+      "retrievedAt": "2023-12-09 19:05:20.790264",
+      "internal_id": "b8845248f74a6b2dc74648bd91e5eb32e9018df89f6bf9414ac395b00982d652",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3612,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Incorpora\u00e7\u00e3o de vacina contra dengue ao SUS deve sair ainda este ano",
+      "description": "Minist\u00e9rio da Sa\u00fade abriu consulta p\u00fablica nesta semana",
+      "url": "https://noticias.r7.com/saude/incorporacao-de-vacina-contra-dengue-ao-sus-deve-sair-ainda-este-ano-08122023",
+      "urlToImage": "https://img.r7.com/images/aedes-aegypti-16032022083300158?crop=459x258+72+130",
+      "publishedAt": "2023-12-08 16:28:35",
+      "content": "Aedes aegypti \u00e9 o vetor de transmiss\u00e3o da dengue Pixabay A Conitec (Comiss\u00e3o Nacional de Incorpora\u00e7\u00f5es de Tecnologias no Sistema \u00danico de Sa\u00fade) deve decidir ainda este ano sobre a incorpora\u00e7\u2026 [+2585 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.714560",
+      "internal_id": "ba08a37258eee5d53d8d63f94c7bbe69382da9ddda1763c9b6b1278377e48251",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3607,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Casos de dengue no Brasil aumentam 17,5% em 2023",
+      "description": "Segundo o Minist\u00e9rio a Sa\u00fade, a taxa de letalidade ficou em 0,07% nos dois anos, somando 1.053 mortes confirmadas em 2023 e 999 no ano passado",
+      "url": "https://valor.globo.com/brasil/noticia/2023/12/08/casos-de-dengue-no-brasil-aumentam-175percent-em-2023.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ckO8Q23qh7WOZV4F3cxcZow6Cwo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/Q/g/5YpxMBScOkWuU3W1EBjA/dengue18.jpg",
+      "publishedAt": "2023-12-08 16:14:20",
+      "content": "Dados divulgados nesta sexta-feira (8) pelo Minist\u00e9rio da Sa\u00fade indicam que os casos prov\u00e1veis de dengue no Brasil aumentaram 17,5% em 2023 em rela\u00e7\u00e3o ao ano passado. As ocorr\u00eancias passaram de 1,3 m\u2026 [+7603 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.681429",
+      "internal_id": "602146f59799b3d9294e6fe6d27f5d8e23516346bfffb19df050a50e273635dc",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3618,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "diego.valencia",
+      "title": "Zika: Butantan retoma desenvolvimento de vacina para gestantes",
+      "description": "Dose busca prevenir os casos de microcefalia em beb\u00eas de m\u00e3es infectadas e deve come\u00e7ar testes pr\u00e9-clinicos em animais em agosto de 2024",
+      "url": "https://veja.abril.com.br/saude/zika-butantan-retoma-desenvolvimento-de-vacina-para-gestantes",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2016/07/downloaded_image20160201-30667-81aavx.jpeg?quality=90&strip=info&w=680&h=453&crop=1",
+      "publishedAt": "2023-12-08 16:05:05",
+      "content": "BLACK FRIDAY: ASSINE a partir de R$ 1 por semanaContinua ap\u00f3s publicidade Dose busca prevenir os casos de microcefalia em beb\u00eas de m\u00e3es infectadas e deve come\u00e7ar testes pr\u00e9-clinicos em animais em ag\u2026 [+3860 chars]",
+      "retrievedAt": "2023-12-09 19:05:19.643492",
+      "internal_id": "3c0c0639cd2fc06628e3871e9cfd8a12012c69c76a05b614c4a27e410199a5de",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3606,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Let\u00edcia Cotta",
+      "title": "Sa\u00fade espera incorporar vacina contra dengue ao SUS ainda em 2023",
+      "description": "Contudo, a decis\u00e3o depende principalmente dos resultados da consulta p\u00fablica sobre a vacina que protege contra a dengue",
+      "url": "https://www.metropoles.com/brasil/saude-espera-incorporar-vacina-contra-dengue-ao-sus-ainda-em-2023",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/12/15114121/Dengue_Aedes_Aegypti_Casos.jpg",
+      "publishedAt": "2023-12-08 15:56:51",
+      "content": "A decis\u00e3o de incorporar ao Sistema \u00danico de Sa\u00fade (SUS) a vacina Qdenga, que imuniza contra o v\u00edrus da dengue e est\u00e1 em processo de consulta p\u00fablica, pode ser tomada ainda este ano, de acordo com o q\u2026 [+3336 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.661348",
+      "internal_id": "039df544f0cd027816da9609524ec28db149e7bd68526a1e145e826db2196961",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3611,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Sa\u00fade prev\u00ea epidemia de dengue no Centro-Oeste, ES e MG em 2024",
+      "description": "De 4.976 munic\u00edpios, 30,2% t\u00eam classifica\u00e7\u00e3o de alerta para o Aedes",
+      "url": "https://noticias.r7.com/saude/saude-preve-epidemia-de-dengue-no-centro-oeste-es-e-mg-em-2024-08122023",
+      "urlToImage": "https://img.r7.com/images/dengue-mosquito-aedes-aegypti-08122023145230305?crop=763x429+73+101",
+      "publishedAt": "2023-12-08 15:01:39",
+      "content": "Aedes aegypti \u00e9 o vetor da dengue Freepik A Regi\u00e3o Centro-Oeste do Brasil deve registrar n\u00edvel epid\u00eamico de dengue em 2024, conforme previs\u00e3o divulgada nesta sexta-feira (8) pelo Minist\u00e9rio d\u2026 [+2387 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.710131",
+      "internal_id": "bb68b26da90b12ce32e60a5634b88f6c2b230d10a4066feaa1229eaa8fa4fa3c",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3601,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "Marjorie Taylor Greene Warns Against COVID Vaccine",
+      "description": "Dr. Paul Offit, an infectious diseases specialist, wrote on his blog about some of the GOP zanies who are at war with science and COVID vaccines. I want to know whether Rep. Greene had her children vaccinated for smallpox, measles, chickenpox, diphtheria, pol\u2026",
+      "url": "https://dianeravitch.net/2023/12/08/marjorie-taylor-greene-warns-against-covid-vaccine/",
+      "urlToImage": "https://greatschoolwars.files.wordpress.com/2017/12/diane.jpg?w=200",
+      "publishedAt": "2023-12-08 14:00:00",
+      "content": "Dr. Paul Offit, an infectious diseases specialist, wrote on his blog about some of the GOP zanies who are at war with science and COVID vaccines. I want to know whether Rep. Greene had her children v\u2026 [+4895 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.130581",
+      "internal_id": "966412f4caddf22c41db99649889c694ee6af865956432fa62764f7028e99116",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3617,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Varun R. Potlapalli, Meredith S. Muller, Billy Ngasala, Innocent Mbulli Ali, Yu Bin Na, Danielle R. Williams, Oksana Kharabora, Srijana Chhetri, Mei S. Liu, Kelly Carey-Ewend, Feng-Chang Lin, Derrick Mathias, Brian B. Tarimo, Jonathan J. Juliano, Jonathan B. Parr, Jessica T. Lin",
+      "title": "Real-time PCR detection of mixed Plasmodium ovale curtisi and wallikeri infections in human and mosquito hosts",
+      "description": "Author summary Plasmodium ovale, one of five species of malaria known to infect humans, in fact represents two distinct species, P. ovale curtisi (Poc) and wallikeri (Pow), that can only be distinguished using molecular diagnostics. Though Poc and Pow circula\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011274",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011274.g003&size=inline",
+      "publishedAt": "2023-12-08 14:00:00",
+      "content": "Abstract Plasmodium ovale curtisi (Poc) and Plasmodium ovale wallikeri (Pow) represent distinct non-recombining Plasmodium species that are increasing in prevalence in sub-Saharan Africa. Though the\u2026 [+34999 chars]",
+      "retrievedAt": "2023-12-09 19:05:18.926503",
+      "internal_id": "8e64b48210d662b6984511f8c102a5abbb9cb3e4bf1e95c0269ccedf5103a1b2",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3613,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Casos de dengue no Brasil aumentam 15,8% em 2023",
+      "description": "O n\u00famero de ocorr\u00eancias passou de 1,3 milh\u00e3o, em 2022, para 1,6 milh\u00e3o, neste ano",
+      "url": "https://noticias.r7.com/saude/casos-de-dengue-no-brasil-aumentam-158-em-2023-tire-suas-duvidas-08122023",
+      "urlToImage": "https://img.r7.com/images/aedes-aegypti-04052023110456383?crop=1348x758+85+125",
+      "publishedAt": "2023-12-08 13:45:00",
+      "content": "Foram confirmadas 1.053 mortes por dengue neste ano Wikimedia Commons Dados divulgados nesta sexta-feira (8) pelo Minist\u00e9rio da Sa\u00fade indicam um aumento de 15,8% em 2023 no n\u00famero de casos \u2026 [+8762 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.717174",
+      "internal_id": "c005b02e92c1d7a0d2c4b7de24f535963b637dd0b4d568dea084e4d02fec9c79",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3624,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gay Times Magazine",
+      "author": "Conor Clark",
+      "title": "Mpox has not gone away, leading sexual health charity warns",
+      "description": "Mpox cases are still being identified in the UK, prompting a leading sexual health charity to remind everyone that it has not gone away.",
+      "url": "https://www.gaytimes.co.uk/life/mpox-has-not-gone-away-leading-sexual-health-charity-warns/",
+      "urlToImage": "https://www.gaytimes.co.uk/wp-content/uploads/2022/07/monkeypox-real.jpg",
+      "publishedAt": "2023-12-08 13:15:19",
+      "content": "Mpox cases are still being identified in the UK, prompting leading sexual health charity Terrence Higgins Trust to remind everyone that it has not gone away. From 1 January to 30 November this year,\u2026 [+1843 chars]",
+      "retrievedAt": "2023-12-09 19:05:20.816280",
+      "internal_id": "2fec55b98cb4886e17bc4af9cebb7dd57938e840db8ca81b9d10969de46e28ee",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3609,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Rio de Janeiro tem caso de dengue tipo 4 pela primeira vez em 5 anos",
+      "description": "V\u00edtima \u00e9 uma mulher de 45 anos",
+      "url": "https://saude.ig.com.br/2023-12-08/rio-de-janeiro-tem-caso-de-dengue-tipo-4-pela-primeira-vez-em-5-anos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2023-12-08 13:01:11",
+      "content": "A Secretaria Municipal de Sa\u00fade do Rio de Janeiro informou, nesta quinta-feira (7), que identificou um caso de dengue do v\u00edrus tipo 4, que n\u00e3o circulava na cidade desde 2018. A v\u00edtima \u00e9 uma mulher \u2026 [+1863 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.691802",
+      "internal_id": "e93006516fc61d81916d3de8cc002552db510f8238179cbcf816003bb53143ea",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3616,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Rotary Family Carnival 2023 - Uniting for a Malaria-Free Uganda",
+      "description": "[Nile Post] Malaria Free Uganda, in partnership with Rotary, is set to host the second edition of the annual Rotary Family Carnival on December 10, 2023, at Legends Rugby Club. This vibrant event aims to raise funds for malaria prevention and control in Ugand\u2026",
+      "url": "https://allafrica.com/stories/202312080234.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-08 09:50:53",
+      "content": "Malaria Free Uganda, in partnership with Rotary, is set to host the second edition of the annual Rotary Family Carnival on December 10, 2023, at Legends Rugby Club. This vibrant event aims to raise f\u2026 [+1609 chars]",
+      "retrievedAt": "2023-12-09 19:05:18.919636",
+      "internal_id": "6040559ea46897e937296bc7afbfc3e5b060952086a1ca53e2e3ef85e5907e92",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3605,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Conspiracy theories disrupted Bali\u2019s Wolbachia mosquitoes project to fight dengue, but experts see \u2018blessing\u2019 in delay",
+      "description": "Falsehoods circulated about the mosquitoes transmitting Japanese encephalitis and \u201cLGBT genes\u201d, as well as being part of philanthropist Bill Gates \u201cdepopulation plan\u201d.",
+      "url": "https://www.channelnewsasia.com/asia/indonesia-dengue-wolbachia-bali-3975091",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--HFCib0Ox--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/04/20/000_33da8pp.jpg?itok=h00ldHN1",
+      "publishedAt": "2023-12-08 09:18:49",
+      "content": "SYSTEMATIC DISINFORMATION SEEN Asked how the Wolbachia programme could have invited protests and been postponed after 10,000 households agreed to participate, Dr Riris Andono Ahmad, a researcher at\u2026 [+1744 chars]",
+      "retrievedAt": "2023-12-09 19:05:17.654025",
+      "internal_id": "0f2917ebe6d2b17f5ac3e2b2f5be89e322ee4241f62a49b22e867b6ab126e5d8",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3620,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Mpox Outbreak: CDC Issues Warning About New Variant As Cases Surge In 2 States",
+      "description": "Clade I Monkeypox virus (MPXV), the mpox variant with a 10% fatality rate, is now spreading in DRC. Cases related to this subtype of Mpox virus have not been reported in the U.S.",
+      "url": "https://www.medicaldaily.com/mpox-outbreak-cdc-issues-warning-about-new-variant-cases-surge-2-states-471179",
+      "urlToImage": "https://d.medicaldaily.com/en/full/470620/monkeypox.jpg",
+      "publishedAt": "2023-12-08 08:16:16",
+      "content": "The Centers for Disease Control and Prevention (CDC) has issued a health advisory after a more serious and infectious variant of the mpox virus was reported across the Democratic Republic of the Cong\u2026 [+3661 chars]",
+      "retrievedAt": "2023-12-09 19:05:20.795474",
+      "internal_id": "f179eafa107d95c87e1989d04f323320ed33188c90d006c5589f7c956f32deaf",
+      "publishedAtLabel": "Dec 8"
+    },
     {
       "id": 3598,
       "query": [
@@ -3184,440 +3616,6 @@
       "retrievedAt": "2023-11-30 19:05:29.797238",
       "internal_id": "af25a3ab2fbe924231f98c0dfab470233dfd1d2d55aaf7cadfb522d029840b92",
       "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3418,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Measles - Kwara Vaccinates 700,000 Children",
-      "description": "[Leadership] A total of 700,000 children have been vaccinated in the 2023 measles campaign across the 16 local government areas of Kwara State.",
-      "url": "https://allafrica.com/stories/202311290334.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-29 12:50:04",
-      "content": "A total of 700,000 children have been vaccinated in the 2023 measles campaign across the 16 local government areas of Kwara State. The executive secretary, Kwara State Primary Health Care Developmen\u2026 [+2673 chars]",
-      "retrievedAt": "2023-11-30 19:05:29.189318",
-      "internal_id": "4cf12d8d8faa4274bd4750074d50fabd532cf433e6a94445d5e78a1495a99c56",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3432,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "N\u00c9STOR CASTELLAR ACOSTA",
-      "title": "Investigan muerte de menor de edad por presunta leptospirosis en Cartagena",
-      "description": "Un menor de edad muri\u00f3 recientemente en el Hospital Infantil Napole\u00f3n Franco Pareja, m\u00e1s conocida como Casa del Ni\u00f1o, por un supuesto caso de leptospirosis.",
-      "url": "https://www.eluniversal.com.co/cartagena/investigan-muerte-de-menor-de-edad-por-presunta-leptospirosis-en-cartagena-XY9537312",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/SLET/panoramica-de-cartagena_9037157_20231129073151.jpg",
-      "publishedAt": "2023-11-29 12:45:35",
-      "content": "Un menor de edad muri\u00f3 recientemente en el Hospital Infantil Napole\u00f3n Franco Pareja, m\u00e1s conocida como Casa del Ni\u00f1o, por un supuesto caso de leptospirosis. Sobre el caso, este medio consult\u00f3 al Dep\u2026 [+1939 chars]",
-      "retrievedAt": "2023-11-30 19:05:32.822730",
-      "internal_id": "9ed30404ba1013045147d59e1b6dbeb179679256c414240afd6cc275c03eb377",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3423,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Vietnamplus.vn",
-      "author": "VNA",
-      "title": "Indonesia spends 1 million USD on trials to prevent dengue spread",
-      "description": "Indonesia\u2019s Ministry of Health has allocated 16 billion IDR (around 1.03 million USD) for trials involving the use of mosquitos with Wolbachia bacterium to check dengue spread in five Indonesian cities.",
-      "url": "https://en.vietnamplus.vn/indonesia-spends-1-million-usd-on-trials-to-prevent-dengue-spread/272039.vnp",
-      "urlToImage": null,
-      "publishedAt": "2023-11-29 10:59:00",
-      "content": "Jakarta (VNA) Indonesias Ministry of Health has allocated 16 billion IDR (around 1.03 million USD) for trials involving the use of mosquitos with Wolbachia bacterium to check dengue spread in five \u2026 [+815 chars]",
-      "retrievedAt": "2023-11-30 19:05:29.803266",
-      "internal_id": "9fda391243332c742329ad7bc3a360221b558a409c761f100b760394938ca260",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3419,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Sapo.pt",
-      "author": "Green Savers",
-      "title": "Altera\u00e7\u00f5es clim\u00e1ticas trazem a Portugal insetos transmissores de doen\u00e7as",
-      "description": "A M\u00e9dis, marca do Grupo Ageas Portugal, alerta para a presen\u00e7a de duas variedades de mosquitos que podem introduzir doen\u00e7as como a dengue, mal\u00e1ria ou zica no pa\u00eds.",
-      "url": "https://greensavers.sapo.pt/alteracoes-climaticas-trazem-a-portugal-insetos-transmissores-de-doencas/",
-      "urlToImage": "https://greensavers.sapo.pt/wp-content/uploads/2023/11/Insetos-1024x495.png",
-      "publishedAt": "2023-11-29 10:32:03",
-      "content": "Atenta \u00e0s altera\u00e7\u00f5es clim\u00e1ticas e ao seu impacto na sa\u00fade, a M\u00e9dis, marca do Grupo Ageas Portugal, alerta, em comunicado, para a presen\u00e7a de duas variedades de mosquitos que podem introduzir doen\u00e7as \u2026 [+3015 chars]",
-      "retrievedAt": "2023-11-30 19:05:29.774882",
-      "internal_id": "81d9a8aae8c704bae04def4f5417c64521822da0c0e01f3f95c71da17129eb97",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3417,
-      "query": [
-        "pertussis",
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Iasbaba.com",
-      "author": "IASbaba",
-      "title": "DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 29th November 2023",
-      "description": "Archives (PRELIMS & MAINS Focus) Practice MCQs ANSWERS FOR 28th November \u2013 Daily Practice MCQs The post DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam \u2013 29th November 2023 appeared first on IASbaba.",
-      "url": "https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-29th-november-2023/",
-      "urlToImage": "https://iasbaba.com/wp-content/uploads/2023/11/zim.jpg",
-      "publishedAt": "2023-11-29 09:57:05",
-      "content": "Q1) Consider the following pairs: DiseaseCaused byPlagueBordetella pertussisWhooping CoughYersinia pestis<\u2026 [+1365 chars]",
-      "retrievedAt": "2023-11-30 19:05:28.021953",
-      "internal_id": "112081800a91c8440109301bb83170a5d1d197b10b3ae4209fde2be2ab8bced7",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3428,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "How Canadian scientists helped uncover sexually transmitted cases of a deadlier mpox strain",
-      "description": "A research team made up of Canadian scientists and researchers from the Democratic Republic of the Congo has documented the first known cases of a deadlier strain of mpox spreading through sexual contact.",
-      "url": "https://www.cbc.ca/news/health/sexually-transmitted-mpox-strain-1.7042973",
-      "urlToImage": "https://i.cbc.ca/1.6668281.1669754248!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/icymi-mpox-thumb-nov22.jpg",
-      "publishedAt": "2023-11-29 09:00:00",
-      "content": "If 2022 was the year mpox infections exploded globally, 2023 was the year much of the world stopped paying attention. Yet Canadian researchers, in collaboration with scientists working on the ground\u2026 [+6673 chars]",
-      "retrievedAt": "2023-11-30 19:05:32.225543",
-      "internal_id": "cea59bbfc46bd8f97c89d9e9a204c9017f89301ba798a6a3a2d0fa5d998ed78b",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3424,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Andi Firdaus, Resinta Sulistiyandari",
-      "title": "Yogyakarta dengue cases drop with Wolbachia-infected mosquitoes",
-      "description": "Yogyakarta has recorded a reduction in dengue cases, dropping below the global incidence rate of 10 per 100,000 population, following the use of Wolbachia-infected mosquitoes, Health Minister Budi Gunadi Sadikin stated on ...",
-      "url": "https://en.antaranews.com/news/299730/yogyakarta-dengue-cases-drop-with-wolbachia-infected-mosquitoes",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/29/antarafoto-rdp-teknologi-wolbachia-untuk-pengendalian-dengue-281123-app-2.jpg",
-      "publishedAt": "2023-11-29 08:19:41",
-      "content": "Jakarta (ANTARA) - Yogyakarta has recorded a reduction in dengue cases, dropping below the global incidence rate of 10 per 100,000 population, following the use of Wolbachia-infected mosquitoes, Heal\u2026 [+2274 chars]",
-      "retrievedAt": "2023-11-30 19:05:29.805991",
-      "internal_id": "96d5bf10f7238172df209e3f28a68238fa2b47745209c52218367d17d31d1c14",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3421,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Bangladesh's dengue deaths surpass 1,600",
-      "description": "DHAKA, Nov. 29 (Xinhua) -- Bangladesh reported 959 new dengue cases and four more deaths on Tuesday,",
-      "url": "http://en.people.cn/n3/2023/1129/c90000-20103826.html",
-      "urlToImage": null,
-      "publishedAt": "2023-11-29 07:13:21",
-      "content": "(Xinhua) 15:12, November 29, 2023 DHAKA, Nov. 29 (Xinhua) -- Bangladesh reported 959 new dengue cases and four more deaths on Tuesday, making the tally 310,046 and the death toll surpassing 1,600, t\u2026 [+329 chars]",
-      "retrievedAt": "2023-11-30 19:05:29.794476",
-      "internal_id": "7e43d84dca3843bc72421e45ee9256d9013d811c54ffeeb594655b836182bb29",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3408,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "US Woman Stabs Boyfriend In Eye For Looking At Other Women: Police",
-      "description": "A Florida man had brought two rabies shots for the dogs, but the needles ended up in his eyes after an argument with his girlfriend. Police have charged Sandra Jimenez for assaulting her boyfriend with the rabies needles.",
-      "url": "https://www.ndtv.com/world-news/us-woman-stabs-boyfriend-in-eye-for-looking-at-other-women-police-4616327",
-      "urlToImage": "https://c.ndtvimg.com/2023-11/37sk79s4_sandra-jimenez_625x300_29_November_23.jpg",
-      "publishedAt": "2023-11-29 05:17:59",
-      "content": "Sandra Jimenez has not pleaded guilty and claimed that the injuries were self-inflicted. New Delhi: A Florida man had brought two rabies shots for the dogs, but the needles ended up in his eyes afte\u2026 [+884 chars]",
-      "retrievedAt": "2023-11-30 07:05:57.626089",
-      "internal_id": "f15501679198ebf391ca4bd098f8987eb865c4996e6512f9004913144bcd727d",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3416,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Malay Mail",
-      "author": "Muhammad Yusry",
-      "title": "Deputy health minister: Nine monkeypox cases detected in Malaysia since July this year",
-      "description": "KUALA LUMPUR, Nov 29 \u2014 Deputy Health Minister Datuk Lukanisman Awang Sauni today said that a total of nine monkeypox (mpox) cases were detected in Malaysia. The virus was...",
-      "url": "https://www.malaymail.com/news/malaysia/2023/11/29/deputy-health-minister-nine-monkeypox-cases-detected-in-malaysia-since-july-this-year/104818",
-      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2023/11/29/thumbs/400x400/167541.jpg",
-      "publishedAt": "2023-11-29 04:44:12",
-      "content": "KUALA LUMPUR, Nov 29 Deputy Health Minister Datuk Lukanisman Awang Sauni today said that a total of nine monkeypox (mpox) cases were detected in Malaysia. The virus was detected in three states with\u2026 [+2013 chars]",
-      "retrievedAt": "2023-11-30 07:06:01.612130",
-      "internal_id": "a3f8b0e2783ccc028eeca2ba46082edb9f267289bb810eb12a89b1e72ba6be0f",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3410,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "AHS confirms case of measles in Alberta, prompts public alert",
-      "description": "Alberta Health Services (AHS) has confirmed that a person with lab-confirmed measles was in public settings in Calgary while infectious, prompting an alert to those who may have been exposed.",
-      "url": "https://www.cbc.ca/news/canada/calgary/measles-alberta-ahs-public-exposure-1.7043151",
-      "urlToImage": "https://i.cbc.ca/1.5343123.1701232093!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
-      "publishedAt": "2023-11-29 04:42:51",
-      "content": "Alberta Health Services (AHS) has confirmed that a person with lab-confirmed measles was in public settings in Calgary while infectious, prompting an alert to those who may have been exposed. In an\u2026 [+1736 chars]",
-      "retrievedAt": "2023-11-30 07:05:57.884861",
-      "internal_id": "e6e43d35e52617b79b36edbe5d5699076d6b9d375e732b2c30d7eeb42e77248f",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3412,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Dengue, monkeypox in the spotlight at Dewan Rakyat today",
-      "description": "KUALA LUMPUR: Measures to curb the increasing number of dengue cases and the prevention of monkeypox are among the highlights in the Dewan Rakyat sitting Wednesday (Nov 29). Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/11/29/dengue-monkeypox-in-the-spotlight-at-dewan-rakyat-today",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/11/29/2412821.jpg",
-      "publishedAt": "2023-11-29 01:33:00",
-      "content": "KUALA LUMPUR: Measures to curb the increasing number of dengue cases and the prevention of monkeypox are among the highlights in the Dewan Rakyat sitting Wednesday (Nov 29). According to the Order P\u2026 [+962 chars]",
-      "retrievedAt": "2023-11-30 07:05:58.784298",
-      "internal_id": "a7ece1c0acb69b5ec3fce1a85dd77e01c15cdbac92505b6a2b38ecf2917089ec",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3411,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Observador.pt",
-      "author": "Ag\u00eancia Lusa",
-      "title": "N\u00famero de casos de dengue em Cabo Verde sobe para 32",
-      "description": "O n\u00famero de casos de dengue em Cabo Verde subiu para 32 e h\u00e1 139 casos suspeitos, anunciou a diretora nacional da Sa\u00fade, \u00c2ngela Gomes. O pa\u00eds anunciou ressurgimento da infe\u00e7\u00e3o h\u00e1 20 dias.",
-      "url": "https://observador.pt/2023/11/29/numero-de-casos-de-dengue-em-cabo-verde-sobe-para-32/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A108%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F11%2F08183705%2F41642408.jpg",
-      "publishedAt": "2023-11-29 00:25:21",
-      "content": "O n\u00famero de casos de dengue em Cabo Verde subiu para 32 e h\u00e1 139 casos suspeitos, anunciou esta ter\u00e7a-feira a diretora nacional da Sa\u00fade, \u00c2ngela Gomes, depois de o pa\u00eds ter anunciado o ressurgimento \u2026 [+760 chars]",
-      "retrievedAt": "2023-11-30 07:05:58.755345",
-      "internal_id": "f75055d4993a6324307d17dada211f287c08e87134ce0815f2a9b3d371dae9d8",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3413,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "MAYRA MEJ\u00cdA AGUILAR",
-      "title": "Hoy finaliz\u00f3 con \u00e9xito el foro \u201cDengue en Colombia\u201d",
-      "description": "El foro \u201cDengue en Colombia: retos y oportunidades en inmunoprevenci\u00f3n\u201d, tuvo lugar hoy (martes 28 de noviembre) de 10:00 a.m. a 4:00 p.m., en Cartagena.",
-      "url": "https://www.eluniversal.com.co/cartagena/hoy-finalizo-con-exito-el-foro-dengue-en-colombia-YF9531881",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/915x686/115c0/800d686/none/13704/YAFJ/foro-dengue-en-colombia_9031219_20231128175600.jpg",
-      "publishedAt": "2023-11-28 23:01:25",
-      "content": "El foro Dengue en Colombia: retos y oportunidades en inmunoprevenci\u00f3n, tuvo lugar hoy (martes 28 de noviembre) de 10:00 a.m. a 4:00 p.m., en Cartagena. El foro cont\u00f3 con la participaci\u00f3n de l\u00edderes \u2026 [+1544 chars]",
-      "retrievedAt": "2023-11-30 07:05:58.792179",
-      "internal_id": "c69101a04510e00dceb2690c194e97747ac228314b0cad255f0d48d74a52e6e2",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3409,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "HuffPost",
-      "author": "Pocharapon Neammanee",
-      "title": "Florida Woman Allegedly Stabs Boyfriend In Eye With 'Rabies Needle'",
-      "description": "The incident came amid an argument over the boyfriend looking at other women, according to police.",
-      "url": "https://www.huffpost.com/entry/florida-woman-allegedly-stabs-boyfriend-in-eye-with-rabies-needle_n_65664695e4b066e398b57fdc",
-      "urlToImage": "https://img.huffingtonpost.com/asset/65665603220000401518ee16.png?ops=1200_630",
-      "publishedAt": "2023-11-28 22:45:31",
-      "content": "A Florida woman was arrested Saturday after she stabbed her long-term boyfriend in the eye with a rabies needle meant for their dogs, Miami-Dade County police said. Sandra Jimenez, 44, was taken int\u2026 [+3610 chars]",
-      "retrievedAt": "2023-11-30 07:05:57.630102",
-      "internal_id": "67a320efff51a9de90c316253dbcf4f6241a7b5a7c8bd1509202791524bc26cc",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3415,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "el-mundo",
-      "source_name": "El Mundo",
-      "author": "Jorge Ben\u00edtez",
-      "title": "Bjorn Lomborg: \"La gente de los pa\u00edses pobres prefiere curar la malaria a tener paneles solares\"",
-      "description": "Este acad\u00e9mico y activista medioambiental dan\u00e9s, famoso por sus pol\u00e9micas opiniones sobre el cambio clim\u00e1tico, propone soluciones \"m\u00e1s efectivas\" a los grandes problemas mundiales Leer",
-      "url": "https://www.elmundo.es/papel/el-mundo-que-viene/2023/11/28/6560ce29e9cf4a93248b457e.html",
-      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/1335f3d7bc9ac89c7f60de2b59e37399/resize/1200/f/webp/assets/multimedia/imagenes/2023/11/24/17008476913889.jpg",
-      "publishedAt": "2023-11-28 21:41:19",
-      "content": "Actualizado Martes, 28 noviembre 2023 - 22:41 El despacho de Bjorn Lomborg (Frederiksberg, Dinamarca, 1965) parece un jard\u00edn del Ed\u00e9n dise\u00f1ado para impresionar a su interlocutor. \"Me encantan l\u2026 [+228 chars]",
-      "retrievedAt": "2023-11-30 07:06:00.111172",
-      "internal_id": "f0fe377bf641f5ce7f248ec826bc624a107c5ccd1368a145f00551330ff9fe15",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3407,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Daily Caller",
-      "author": "Ilan Hulkower",
-      "title": "Woman Allegedly Stabs Boyfriend In Eye With \u2018Rabies Needles\u2019",
-      "description": "Police arrested 44-year-old Sandra Jimenez on Saturday after she allegedly stabbed her boyfriend in the eye, WPLG reported.",
-      "url": "https://dailycaller.com/2023/11/28/woman-stabs-boyfriend-eye-rabies-needles/",
-      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/11/GettyImages-1241439499-scaled-e1701202806119.jpg",
-      "publishedAt": "2023-11-28 21:27:53",
-      "content": "Police arrested 44-year-old Sandra Jimenez on Saturday after she allegedly stabbed her boyfriend in the eye, WPLG reported. Miami police said Jimenez allegedly stabbed her boyfriend with \u201ctwo rabies\u2026 [+1195 chars]",
-      "retrievedAt": "2023-11-30 07:05:57.611598",
-      "internal_id": "f06a9f2cdfaf6db2ace2982177c846939dd91a393f193f15dd6f367999000b75",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3414,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "REDACCI\u00d3N COLOMBIA",
-      "title": "Revelan origen de agente infeccioso que caus\u00f3 la muerte de ni\u00f1a en Santa Marta",
-      "description": "En una reciente investigaci\u00f3n, el Instituto Nacional de Salud (INS) ha revelado detalles sobre el agente infeccioso que caus\u00f3 la muerte de una ni\u00f1a de 10 a\u00f1os en Santa Marta. La menor contrajo una rara forma de meningitis mientras disfrutaba de sus vacaciones\u2026",
-      "url": "https://www.eluniversal.com.co/colombia/revelan-origen-de-agente-infeccioso-que-causo-la-muerte-de-nina-en-santa-marta-BD9533740",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/GXKC/virus-nina-sm_9033379_20231128142642.jpg",
-      "publishedAt": "2023-11-28 19:19:10",
-      "content": "En una reciente investigaci\u00f3n, el Instituto Nacional de Salud (INS) ha revelado detalles sobre el agente infeccioso que caus\u00f3 la muerte de una ni\u00f1a de 10 a\u00f1os en Santa Marta. La menor contrajo una ra\u2026 [+2064 chars]",
-      "retrievedAt": "2023-11-30 07:05:59.207075",
-      "internal_id": "95e005726aa1756326a03e16074fd76268e93d748c8b1c0ef269beffb9930951",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3403,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Geeksaresexy.net",
-      "author": "Geeks are Sexy",
-      "title": "How do viruses get into cells? Their infection tactics determine whether they can jump species or set off a pandemic",
-      "description": "Surface proteins on a virus enable it to attach to and get inside a cell to start replicating. koto_feja/E+ via Getty Images Peter Kasson, University of Virginia COVID-19, flu, mpox, noroviral diarrhea: How do the viruses that cause these diseases actually in\u2026",
-      "url": "https://www.geeksaresexy.net/2023/11/28/how-do-viruses-get-into-cells-their-infection-tactics-determine-whether-they-can-jump-species-or-set-off-a-pandemic/",
-      "urlToImage": "https://images.theconversation.com/files/560185/original/file-20231117-23-zg89fr.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C2309%2C1299&q=45&auto=format&w=754&fit=clip",
-      "publishedAt": "2023-11-28 17:28:47",
-      "content": "Surface proteins on a virus enable it to attach to and get inside a cell to start replicating. koto_feja/E+ via Getty Images Peter Kasson, University of Virginia COVID-19, flu, mpox, noroviral diar\u2026 [+5179 chars]",
-      "retrievedAt": "2023-11-29 19:05:36.982399",
-      "internal_id": "52dac8ad0f0bebdf9f7af66df78b050ccf5025bdc4a17f23ffb2cb68ba8502a8",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3398,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "DW (English)",
-      "author": "Clare Roth",
-      "title": "Dengue is coming to Europe",
-      "description": "2023 saw the highest number of local, rather than imported, cases of dengue on the European mainland in nearly 80 years.",
-      "url": "https://www.dw.com/en/dengue-is-coming-to-europe/a-67547788",
-      "urlToImage": "https://static.dw.com/image/55241375_6.jpg",
-      "publishedAt": "2023-11-28 16:59:00",
-      "content": "Travel-related cases of dengue, like travel-related cases of malaria, are not uncommon in Europe. People get home from a trip to a hotspot, they come down with dengue, rest for a few days and then ge\u2026 [+6415 chars]",
-      "retrievedAt": "2023-11-29 19:05:34.483471",
-      "internal_id": "0a5f3c1e7ea6d56a3cb725ca09b1aa63aa1853bc3c1dfe48615bac12f3d5340d",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3402,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Peter Dada",
-      "title": "Ondo says residents spend N20bn on malaria annually",
-      "description": "The Ondo State Government has inaugurated the steering committee for World Bank Immunisation Plus and Malaria Progress by Accelerating Coverage and Transforming Services also known as the IMPACT project. The project was said to be part of the efforts to eradi\u2026",
-      "url": "https://punchng.com/ondo-says-residents-spend-n20bn-on-malaria-annually/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/09/16033820/Rotimi-Akeredolu.jpg",
-      "publishedAt": "2023-11-28 15:55:51",
-      "content": "The Ondo State Government has inaugurated the steering committee for World Bank Immunisation Plus and Malaria Progress by Accelerating Coverage and Transforming Services also known as the IMPACT proj\u2026 [+2892 chars]",
-      "retrievedAt": "2023-11-29 19:05:35.832579",
-      "internal_id": "3a7efc1d7af98582ad29aa4f205fa03c250248db053e68dc755ff1eb96d63a6e",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3401,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Andi Firdaus, Raka Adji",
-      "title": "Dengue: Govt spends Rp16 billion on Wolbachia trials",
-      "description": "The Ministry of Health has allocated Rp16 billion (around US$1.03 million) for trials involving the use of mosquitos with Wolbachia to check dengue spread in five cities of Indonesia. \"We are spending around Rp16 billion ...",
-      "url": "https://en.antaranews.com/news/299694/dengue-govt-spends-rp16-billion-on-wolbachia-trials",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/28/Screenshot_20231128_145155_YouTube_3.jpg",
-      "publishedAt": "2023-11-28 15:08:57",
-      "content": "Jakarta (ANTARA) - The Ministry of Health has allocated Rp16 billion (around US$1.03 million) for trials involving the use of mosquitos with Wolbachia to check dengue spread in five cities of Indones\u2026 [+2097 chars]",
-      "retrievedAt": "2023-11-29 19:05:34.535684",
-      "internal_id": "aea494554484472807c862174069773319504cf98f2f39bfc9026f9d1be6b2f1",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3404,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Spektrum.de",
-      "author": "Lars Fischer",
-      "title": "Gro\u00dfer Ausbruch im Kongobecken: Gef\u00e4hrliche Variante des Mpox-Virus droht sich global zu verbreiten",
-      "description": "Bei einem gro\u00dfen Ausbruch der bisher auf Zentralafrika beschr\u00e4nkten Klade I des Mpox-Virus sind fast 5 Prozent der Infizierten gestorben. Und das Virus ist wohl schon in Europa.",
-      "url": "https://www.spektrum.de/news/gefaehrliche-variante-des-mpox-virus-droht-sich-global-zu-verbreiten/2199976",
-      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/iStock-1351455615.jpg",
-      "publishedAt": "2023-11-28 15:00:00",
-      "content": "Sexuelle \u00dcbertragung spielte laut WHO auch eine Rolle bei weiteren Ausbr\u00fcchen in bisher nicht betroffenen Regionen. Besonders in der Provinz South Kivu, wo sich das Virus besorgniserregend schnell ve\u2026 [+2383 chars]",
-      "retrievedAt": "2023-11-29 19:05:36.999378",
-      "internal_id": "b65b3e984a857114568a621edbaf145efb44cbc133b5012cbe806ce85116eeb2",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3400,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "Dengue irrumpe en Guanacaste con nuevos brotes",
-      "description": "Mayor\u00eda de casos del a\u00f1o se han visto en Lim\u00f3n y zona norte, pero en \u00faltimas cuatro semanas incidencia del dengue ha sido mayor en Guanacaste.",
-      "url": "https://www.nacion.com/ciencia/salud/dengue-irrumpe-en-guanacaste-con-nuevos-brotes/I7EWRTYMSBGUTDQMXBGWIZCWH4/story/",
-      "urlToImage": "https://www.nacion.com/resizer/XqUFisK6fsHgIMNp5x14BSd482c=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/DIQGYZ4B7VFINL72JUC54BH6Z4.jpg",
-      "publishedAt": "2023-11-28 12:06:00",
-      "content": "Adem\u00e1s del considerable aumento de casos registrados este a\u00f1o, el dengue muestra un llamativo cambio de comportamiento durante el \u00faltimo mes. Las autoridades sanitarias han detectado una mayor aparic\u2026 [+4014 chars]",
-      "retrievedAt": "2023-11-29 19:05:34.514041",
-      "internal_id": "142dda73f76530cd9827268b2fc9bc5f01fbf52629dbe3e1e73a5b354e402dc8",
-      "publishedAtLabel": "Nov 28"
     }
   ]
 }
