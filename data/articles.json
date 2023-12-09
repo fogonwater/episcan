@@ -1,8 +1,242 @@
 {
-  "last_updated": "2023-12-08 19:05",
+  "last_updated": "2023-12-09 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 17,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 3598,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "CDC urges doctors, health departments to bolster surveillance of more severe mpox strain - CNN",
+      "description": "CDC urges doctors, health departments to bolster surveillance of more severe mpox strainCNN US CDC issues health alert for subtype of mpox virus in CongoReuters Mpox surge in Congo raises concerns world will ignore warnings againThe Washington Post US CDC iss\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172447227",
+      "urlToImage": null,
+      "publishedAt": "2023-12-08 03:32:32",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-12-09 07:05:52.687918",
+      "internal_id": "fea3a551d515b02ccba9fd754885c64b4144a2411f7b9398e5bdbfe1a9a20b60",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3589,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Rio de Janeiro registra caso de dengue tipo 4",
+      "description": "A v\u00edtima \u00e9 uma mulher de 45 anos, os sintomas foram inicialmente sentidos no \u00faltimo dia 26 de novembro",
+      "url": "https://brasil.perfil.com/brasil/rio-de-janeiro-registra-caso-de-dengue-tipo-4.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1437788811-ebc.png",
+      "publishedAt": "2023-12-08 00:46:54",
+      "content": "A sorotipagem foi confirmada pelo Laborat\u00f3rio Central de Sa\u00fade P\u00fablica Noel Nutels, da Secretaria de Estado de Sa\u00fade. Em 2023, at\u00e9 hoje, foram realizadas mais de seis mil identifica\u00e7\u00f5es virais de den\u2026 [+1446 chars]",
+      "retrievedAt": "2023-12-09 07:05:49.924519",
+      "internal_id": "69ded046faccce6e6a3deaec01129f1e27002bcb03adcad6cdd2236f96d44e84",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3597,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Instituto Butantan desenvolve tecnologia para vacina contra Zika",
+      "description": "As part\u00edculas produzidas usam fragmentos de prote\u00ednas para simular o v\u00edrus inteiro e ativar a resposta imune",
+      "url": "https://brasil.perfil.com/saude/instituto-butantan-desenvolve-tecnologia-para-vacina-contra-zika.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/126626757-abre-perfil-brasil-redimensionado-11-2.jpg",
+      "publishedAt": "2023-12-08 00:28:55",
+      "content": "Uma plataforma tecnol\u00f3gica feita no Instituto Butantan a partir do v\u00edrus Zika pode ajudar no desenvolvimento de uma vacina contra a doen\u00e7a, de acordo com estudo publicado na editora de pesquisa su\u00ed\u00e7a\u2026 [+820 chars]",
+      "retrievedAt": "2023-12-09 07:05:51.693682",
+      "internal_id": "2659e0fbdcc192798b019bb88457a2e013f5ff6cf1a661f0915c3e0718952e1c",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3600,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "reuters",
+      "source_name": "Reuters",
+      "author": "Reuters",
+      "title": "US CDC issues health alert for subtype of mpox virus in Congo",
+      "description": "The U.S. Centers for Disease Control and Prevention (CDC) issued a health alert on Thursday to notify clinicians and health departments about a deadly type of the mpox virus spreading in the Democratic Republic of the Congo (DRC).",
+      "url": "https://www.reuters.com/world/africa/us-cdc-issues-health-alert-subtype-mpox-virus-congo-2023-12-07/",
+      "urlToImage": "https://www.reuters.com/resizer/my6KZGUv7KjtRqUArhXuY4oaZGE=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HQB75WBMFNPHRHMIVRY6ANDG6U.jpg",
+      "publishedAt": "2023-12-07 23:24:26",
+      "content": "Dec 7 (Reuters) - The U.S. Centers for Disease Control and Prevention (CDC) issued a health alert on Thursday to notify clinicians and health departments about a deadly type of the mpox virus spreadi\u2026 [+1049 chars]",
+      "retrievedAt": "2023-12-09 07:05:52.702326",
+      "internal_id": "e2a90ed15f5e8f548d598e2b89886ac5ea676f5acb7d294c14c700f1ca005774",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3599,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Amanda Musa",
+      "title": "CDC urges doctors, health departments to bolster surveillance of more severe mpox strain | CNN",
+      "description": "The US Centers for Disease Control and Prevention urged doctors and health departments Thursday to be on the lookout for a more infectious strain of the virus that causes mpox, which is spreading in the Democratic Republic of Congo.",
+      "url": "https://www.cnn.com/2023/12/07/health/cdc-mpox-advisory/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231207111343-cdc-headquarters-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-12-07 22:43:43",
+      "content": "The US Centers for Disease Control and Prevention urged doctors and health departments Thursday to be on the lookout for a more infectious strain of the virus that causes mpox, which is spreading in \u2026 [+2918 chars]",
+      "retrievedAt": "2023-12-09 07:05:52.697681",
+      "internal_id": "e0d2635b17c26a4339b2c149289ac68f5d138d14292c014860aa24146be50a71",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3592,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "\u00d3scar Rodr\u00edguez",
+      "title": "Secretar\u00eda de Salud de Oaxaca registra aumento en contagios de dengue en temporada invernal",
+      "description": "A pesar de la llegada de la temporada invernal, los casos de dengue contin\u00faan aumentando en Oaxaca, inform\u00f3 la Secretar\u00eda de Salud del estado.La titular de la dependencia, Liliana Velasco Hern\u00e1ndez, report\u00f3 que hay 35 casos activos con pacientes hospitalizado\u2026",
+      "url": "https://www.milenio.com/estados/sso-reporta-aumento-contagios-dengue-temporada-invernal",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/12/07/informe-alarmante-dengue-persiste-oaxaca.jpg",
+      "publishedAt": "2023-12-07 21:52:30",
+      "content": "A pesar de la llegada de la temporada invernal, los casos de dengue contin\u00faan aumentando en Oaxaca, inform\u00f3 la Secretar\u00eda de Salud del estado. La titular de la dependencia, Liliana Velasco Hern\u00e1ndez\u2026 [+1291 chars]",
+      "retrievedAt": "2023-12-09 07:05:49.947266",
+      "internal_id": "9ff37b0248952751a6ee8d6ebe5ebe67886350c37a9bce5ba84a8f30ab8e16f6",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3591,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Rio de Janeiro registra caso de dengue tipo 4",
+      "description": "A Secretaria de Sa\u00fade informou, tamb\u00e9m, que as a\u00e7\u00f5es de controle do mosquito s\u00e3o feitas ao longo de todo ano, por\u00e9m, s\u00e3o intensificadas nos meses de ver\u00e3o",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/rio-de-janeiro-registra-caso-de-dengue-tipo-4/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/11/19095054/mosquitos_aedes_aegypti_dengue.webp",
+      "publishedAt": "2023-12-07 20:44:12",
+      "content": "A Secretaria Municipal de Sa\u00fade do Rio de Janeiro informou, nesta quinta-feira (7), que identificou um caso de dengue do v\u00edrus tipo 4, que n\u00e3o circulava na cidade desde 2018. A v\u00edtima \u00e9 uma mulher de\u2026 [+1893 chars]",
+      "retrievedAt": "2023-12-09 07:05:49.943283",
+      "internal_id": "39de9901d50903f7859e805be8d244040a5f15ae13940c25a787bd0b16a59e65",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3594,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "AIDS Clinical Trials Group Network",
+      "title": "ACTG Announces Launch of Clinical Trial Evaluating Novel Treatment for Tuberculous Meningitis",
+      "description": "Regimen Would Decrease Duration of Treatment from Nine to Six Months LOS ANGELES, Dec. 07, 2023 (GLOBE NEWSWIRE) -- ACTG, a global clinical trials......",
+      "url": "https://www.globenewswire.com/news-release/2023/12/07/2792865/0/en/ACTG-Announces-Launch-of-Clinical-Trial-Evaluating-Novel-Treatment-for-Tuberculous-Meningitis.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/1e94313a-1d33-49e8-bd5e-fd0c911661c9",
+      "publishedAt": "2023-12-07 20:10:00",
+      "content": "Regimen Would Decrease Duration of Treatment from Nine to Six Months LOS ANGELES, Dec. 07, 2023 (GLOBE NEWSWIRE) -- ACTG, a global clinical trials network focused on HIV and other infectious diseas\u2026 [+4994 chars]",
+      "retrievedAt": "2023-12-09 07:05:50.507448",
+      "internal_id": "9d1d9f577825b06856db3dc28af306fb7bb473766addb2acd2aceb14f8c92446",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3588,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "diego.valencia",
+      "title": "Dengue: Sa\u00fade abre consulta p\u00fablica sobre incorpora\u00e7\u00e3o de vacina no SUS",
+      "description": "Decis\u00e3o levou em considera\u00e7\u00e3o aumento de casos da doen\u00e7a no pa\u00eds. Imunizante reduziu a hospitaliza\u00e7\u00e3o em 84% dos casos da doen\u00e7a",
+      "url": "https://veja.abril.com.br/saude/dengue-saude-abre-consulta-publica-sobre-incorporacao-de-vacina-no-sus",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/aedes_aegypti-dengue2.webp?w=680&h=453&crop=1",
+      "publishedAt": "2023-12-07 20:03:21",
+      "content": "BLACK FRIDAY: ASSINE a partir de R$ 1 por semanaContinua ap\u00f3s publicidade Decis\u00e3o levou em considera\u00e7\u00e3o aumento da doen\u00e7a no pa\u00eds. Imunizante reduziu a hospitaliza\u00e7\u00e3o em 84% dos casos Por Diego Ale\u2026 [+2977 chars]",
+      "retrievedAt": "2023-12-09 07:05:49.906200",
+      "internal_id": "925a844138e3313724e1e6ed20db3aa40b86ca8fa82ee8691ce8909b6899600b",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3595,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tan Jingjing",
+      "title": "U.S.-sponsored trial of new drug regimen to treat tuberculous meningitis starts",
+      "description": "LOS ANGELES, Dec. 7 (Xinhua) -- A trial of a new drug regimen to treat tuberculous meningitis (TBM) has started enrolling adults and adolescents in several countries where tuberculosis is prevalent, the U.S. National Institutes of Health (NIH) said on Thursda\u2026",
+      "url": "https://www.thestar.com.my/news/world/2023/12/08/us-sponsored-trial-of-new-drug-regimen-to-treat-tuberculous-meningitis-starts",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2023-12-07 19:51:00",
+      "content": "LOS ANGELES, Dec. 7 (Xinhua) -- A trial of a new drug regimen to treat tuberculous meningitis (TBM) has started enrolling adults and adolescents in several countries where tuberculosis is prevalent, \u2026 [+664 chars]",
+      "retrievedAt": "2023-12-09 07:05:50.512765",
+      "internal_id": "f016c63f2df0b9cba1169d20f7e7b935f0d0d54b22e3a88c509662c213f3b769",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3593,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thomaz Molina",
+      "title": "Mulher de 34 anos morre 1 hora ap\u00f3s ter alta m\u00e9dica; pol\u00edcia investiga",
+      "description": "Fam\u00edlia de Amanda Janu\u00e1rio Lima registrou boletim de ocorr\u00eancia apontando neglig\u00eancia do Hospital das Cl\u00ednicas da Mar\u00edlia, no interior; mulher esteve internada para tratar dengue",
+      "url": "https://www.metropoles.com/sao-paulo/mulher-de-34-anos-morre-1-hora-apos-ter-alta-medica-policia-investiga",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/12/07161805/Amanda-4.jpg",
+      "publishedAt": "2023-12-07 19:49:42",
+      "content": "S\u00e3o Paulo Uma mulher de 34 anos morreu na \u00faltima ter\u00e7a-feira (5/12) uma hora ap\u00f3s receber alta do Hospital das Cl\u00ednicas de Mar\u00edlia, no interior de S\u00e3o Paulo. A fam\u00edlia de Amanda Cristina Janu\u00e1rio Li\u2026 [+1235 chars]",
+      "retrievedAt": "2023-12-09 07:05:49.951293",
+      "internal_id": "06dcb2de36a0f62e6cd93dc2878d63b8d97449d4873943dea22014c4f4267ed1",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3590,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tudocelular.com",
+      "author": "Tudocelular.com",
+      "title": "V\u00edrus que causa sintomas parecidos com os da dengue \u00e9 descoberto no Peru",
+      "description": "Trata-se de uma nova variante do v\u00edrus Echarate, que est\u00e1 circulando na selva no centro do pa\u00eds",
+      "url": "https://www.tudocelular.com/tech/noticias/n215241/virus-descoberto-no-peru-tem-sintomas-de-dengue.html",
+      "urlToImage": "https://t2.tudocdn.net/602140?w=1920",
+      "publishedAt": "2023-12-07 19:43:00",
+      "content": "Um novo v\u00edrus foi descoberto no Peru pelas autoridades sanit\u00e1rias do pa\u00eds. Atualmente, os poss\u00edveis vetores e reservat\u00f3rios est\u00e3o em investiga\u00e7\u00e3o e tiveram in\u00edcio ap\u00f3s um jovem de 20 anos ter apresen\u2026 [+1718 chars]",
+      "retrievedAt": "2023-12-09 07:05:49.937574",
+      "internal_id": "1f6c9265506a881aa589b7a99e40b2516a3a6d0156b6fdea171bd72bf9ba61c1",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 3596,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Butantan iniciar\u00e1 teste pr\u00e9-cl\u00ednico de vacina contra Zika em 2024",
+      "description": "O Instituto Butantan anunciou nesta quinta-feira (7) que est\u00e1 desenvolvendo uma vacina contra o v\u00edrus Zika, que pode causar microcefalia em beb\u00eas",
+      "url": "https://brasil.perfil.com/saude/butantan-iniciara-teste-pre-clinico-de-vacina-contra-zika-em-2024.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/07/1789255347-ebc.png",
+      "publishedAt": "2023-12-07 19:28:55",
+      "content": "O Instituto Butantan anunciou nesta quinta-feira (7) que est\u00e1 desenvolvendo uma vacina contra o v\u00edrus Zika, que pode causar microcefalia em beb\u00eas quando a infec\u00e7\u00e3o ocorre durante a gesta\u00e7\u00e3o. O imuniz\u2026 [+3707 chars]",
+      "retrievedAt": "2023-12-09 07:05:51.684537",
+      "internal_id": "349bd54eb3d063d42fa9e4a4017324f54837db29746c3b870211a5ca0efeb21f",
+      "publishedAtLabel": "Dec 7"
+    },
     {
       "id": 3578,
       "query": [
@@ -3384,243 +3618,6 @@
       "retrievedAt": "2023-11-29 19:05:34.514041",
       "internal_id": "142dda73f76530cd9827268b2fc9bc5f01fbf52629dbe3e1e73a5b354e402dc8",
       "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3406,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Sean Muhamad, Raka Adji",
-      "title": "Health Ministry records 36 out of 59 mpox patients recovered",
-      "description": "The Ministry of Health confirmed that the number of mpox cases in Indonesia has reached 59, out of which 36 patients had made a recovery. \"The total is 59 (cases), and 36 have recovered,\" the ministry's Head of ...",
-      "url": "https://en.antaranews.com/news/299652/health-ministry-records-36-out-of-59-mpox-patients-recovered",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/28/IMG_20231128_140828.jpg",
-      "publishedAt": "2023-11-28 08:47:51",
-      "content": "Jakarta (ANTARA) - The Ministry of Health confirmed that the number of mpox cases in Indonesia has reached 59, out of which 36 patients had made a recovery.\"The total is 59 (cases), and 36 have recov\u2026 [+1779 chars]",
-      "retrievedAt": "2023-11-29 19:05:37.020865",
-      "internal_id": "17ab95a30926df95ea01e6235f9f2b16959520e624c3a9cce4418746baf489de",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3397,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Landon Mion",
-      "title": "Florida woman allegedly stabs boyfriend in eye with rabies needles for looking at other women",
-      "description": "A Florida woman was arrested after allegedly stabbing her boyfriend with her dogs' rabies needles during an argument accusing him of looking at other women.",
-      "url": "https://www.foxnews.com/us/florida-woman-allegedly-stabs-boyfriend-eye-rabies-needles-looking-other-women",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/Sandra-Jimenez.png",
-      "publishedAt": "2023-11-28 08:22:39",
-      "content": "A Florida woman is behind bars after she allegedly stabbed her boyfriend with rabies needles because he was looking at other women. Sandra Jimenez, 44, was charged with aggravated battery in connect\u2026 [+1281 chars]",
-      "retrievedAt": "2023-11-29 19:05:33.269683",
-      "internal_id": "90ad57b0153b0418e1aa0e1f9611074ea107836384638c9e504d36fc4f92d6e3",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3399,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Lalibre.be",
-      "author": "Sylvain Anciaux",
-      "title": "Apr\u00e8s le covid, la Cocom continue de traquer les maladies virales \u00e0 Bruxelles: \"Le mois dernier, \u00e0 Bruxelles, on recensait 20 cas de tuberculose\"",
-      "description": "Rencontre avec Adrae Taame, m\u00e9decin inspecteur g\u00e9n\u00e9ral de la Cocom. ...",
-      "url": "https://www.lalibre.be/planete/sante/2023/11/28/apres-le-covid-la-cocom-continue-de-traquer-les-maladies-virales-a-bruxelles-le-mois-dernier-a-bruxelles-on-recensait-20-cas-de-tuberculose-RU5M3G7D4JEWZM7HMD55FDXQVQ/",
-      "urlToImage": "https://www.lalibre.be/resizer/bq60wHPg1zozYZs1KOlARVRjtiI=/1200x630/filters:format(jpeg):focal(2779x1861:2789x1851):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/OIO44DUUUNC2DB5T3FIJECBT5U.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/4PTPFKQGUNF5PJCLQ65ERSZ5NQ.jpg",
-      "publishedAt": "2023-11-28 07:06:38",
-      "content": "Chol\u00e9ra, Rub\u00e9ole, Dengue, Covid ou autres, la liste comprend 38 pathologies mais sactualise r\u00e9guli\u00e8rement. En 2021, on d\u00e9nombrait 592 MDO en r\u00e9gion bruxelloise, pour 955 en 2022 et 981 en cette fin 2\u2026 [+2059 chars]",
-      "retrievedAt": "2023-11-29 19:05:34.494437",
-      "internal_id": "38ca68485076fbe2b58dc8247a32741e3fd8b58105307a911e1fd2fc520aca93",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3391,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Vitoria Lopes Gomez",
-      "title": "Fungos da Amaz\u00f4nia podem ser usados no combate \u00e0 dengue; entenda",
-      "description": "Descoberta vem em meio a uma tend\u00eancia de aumento de casos no final do ano e de uma poss\u00edvel epidemia de dengue em 2024 O post Fungos da Amaz\u00f4nia podem ser usados no combate \u00e0 dengue; entenda apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/11/28/medicina-e-saude/fungos-da-amazonia-podem-ser-usados-no-combate-a-dengue-entenda/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/11/pexels-pixabay-86722-scaled-e1699618243347.jpg",
-      "publishedAt": "2023-11-28 06:40:00",
-      "content": "Pesquisadores da Universidade Federal do Acre (UFAC) encontraram uma forma de combater o Aedes aegypti, mosquito transmissor de doen\u00c3\u00a7as como a dengue e a zika, usando fungos nativos da Amaz\u00c3\u00b4nia. A \u2026 [+2607 chars]",
-      "retrievedAt": "2023-11-29 07:05:39.911251",
-      "internal_id": "3b9142c241508273b474450c6542dadf49c022146e9b1a865818c1b01aaebdbc",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3393,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "dh.be",
-      "author": "Sylvain Anciaux",
-      "title": "Apr\u00e8s le covid, la Cocom continue de traquer les maladies virales \u00e0 Bruxelles, \u201cle mois dernier, \u00e0 Bruxelles, on recensait 20 cas de tuberculose\u201d",
-      "description": "Rencontre avec Adrae Taame, m\u00e9decin inspecteur g\u00e9n\u00e9ral de la Cocom. ...",
-      "url": "https://www.dhnet.be/regions/bruxelles/2023/11/28/apres-le-covid-la-cocom-continue-de-traquer-les-maladies-virales-a-bruxelles-le-mois-dernier-a-bruxelles-on-recensait-20-cas-de-tuberculose-TYXHS3LMABD4FLONARNVYUSPUQ/",
-      "urlToImage": "https://www.dhnet.be/resizer/vMfEM32j5gjJFx7o1l6VBxOTEoc=/1200x630/filters:format(jpeg):focal(2779x1861:2789x1851):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/KSYODHLMNBBMDA7B5YPJPTFVNY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/4PTPFKQGUNF5PJCLQ65ERSZ5NQ.jpg",
-      "publishedAt": "2023-11-28 06:00:00",
-      "content": "Chol\u00e9ra, Rub\u00e9ole, Dengue, Covid ou autres, la liste comprend 38 pathologies mais sactualise r\u00e9guli\u00e8rement. En 2021, on d\u00e9nombrait 592 MDO en r\u00e9gion bruxelloise, pour 955 en 2022 et 981 en cette fin 2\u2026 [+2245 chars]",
-      "retrievedAt": "2023-11-29 07:05:39.930760",
-      "internal_id": "68eedc374e795dd0bb99816302300cbca71ce03a7c9ac2903f46497372aa95cc",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3405,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Cdc.gov",
-      "author": null,
-      "title": "Clade I\u2013Associated Mpox Cases Associated with Sexual Contact, the Democratic Republic of the Congo",
-      "description": "Clade I Mpox, Democratic Republic of the Congo",
-      "url": "https://wwwnc.cdc.gov/eid/article/30/1/23-1164_article",
-      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-      "publishedAt": "2023-11-28 05:00:00",
-      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Human mpox, caused by monk\u2026 [+10976 chars]",
-      "retrievedAt": "2023-11-29 19:05:37.003720",
-      "internal_id": "324bab07a962513f934e41730a261769c0b4c264e2f27ad96e1474b0bbb995d4",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3396,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Vanessa Flores",
-      "title": "Benjam\u00edn Gil es anunciado como nuevo m\u00e1nager de Charros de Jalisco",
-      "description": "A terminar la faena, el \u00b4Matador\u00b4 Benjamin Gil, llegar\u00e1 a Jalisco para poner fin a la malaria que asecha al equipo y que los mantiene en el s\u00f3tano en el que ser\u00e1 su reencuentro con la afici\u00f3n tapat\u00eda, trabajo que se extender\u00e1 por lo que resta del calendario y\u2026",
-      "url": "https://www.milenio.com/deportes/beisbol/benjamin-gil-es-nuevo-manager-de-charros-de-jalisco-en-lmp-oficial",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2023/11/27/benjamin-gil-manager-charros-jalisco.jpg",
-      "publishedAt": "2023-11-28 00:12:00",
-      "content": "A terminar la faena, el Matador Benjam\u00edn Gil, llegar\u00e1 a Jalisco para poner fin a la malaria que asecha al equipo y que los mantiene en el s\u00f3tano en el que ser\u00e1 su reencuentro con la afici\u00f3n tapat\u00eda, \u2026 [+1880 chars]",
-      "retrievedAt": "2023-11-29 07:05:40.603402",
-      "internal_id": "e7f7a48cb7330d1cf0529f68979c2734dfcbb47ff82c7a3dfdc74c536257c162",
-      "publishedAtLabel": "Nov 28"
-    },
-    {
-      "id": 3395,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Maryanne Murray Buechner, UNICEF USA, \n Maryanne Murray Buechner, UNICEF USA\n https://www.forbes.com/sites/unicefusa/people/maryannebuechner/",
-      "title": "First Malaria Vaccines Arrive In Cameroon",
-      "description": "UNICEF is poised to play a key role in preparations for the malaria vaccine rollout in Africa.",
-      "url": "https://www.forbes.com/sites/unicefusa/2023/11/27/first-malaria-vaccines-arrive-in-cameroon/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/656506adb0a7d6b0ae983bb9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-27 21:19:58",
-      "content": "UNICEF is poised to play a key role in preparations for the malaria vaccine rollout in Africa, where the preventable mosquito-borne disease kills a child under age 5 every minute. \"We are entering a \u2026 [+4962 chars]",
-      "retrievedAt": "2023-11-29 07:05:40.592626",
-      "internal_id": "3f546361f538d501106f86c0f4ebb89fcc57678dd8e8ae4c0bc873b984d3b0f6",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3392,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Canaltech, Canaltech",
-      "title": "Casos de dengue, zika e chikungunya aumentam com o calor",
-      "description": "Dados do Minist\u00e9rio da Sa\u00fade apontam para aumento de 21% no n\u00famero de casos de dengue este ano no pa\u00eds. Entre as causas, est\u00e3o o forte calor e as chuvas",
-      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2023-11-27/casos-de-dengue--zika-e-chikungunya-aumentam-com-o-calor.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3x/qi/ps/3xqipstliaixt38eteyr6hpe5.jpg",
-      "publishedAt": "2023-11-27 21:10:05",
-      "content": "Os mosquitos s\u00e3o os principais transmissores das arboviroses, incluindo dengue, zika e chikungunya. Para se procriar, esses insetos, como o Aedes aegypti, preferem climas quentes e aproveitam as po\u00e7\u2026 [+3486 chars]",
-      "retrievedAt": "2023-11-29 07:05:39.922247",
-      "internal_id": "5fd44d7054d95326496ac9ba494b75eb7048fbdcbe3ecca92ecbabf9555713a9",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3390,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Jenise L. Jacques",
-      "title": "Research links climate change to vampire bat expansion and rabies virus spillover",
-      "description": "Vampire bats may soon take up residence in the United States and bring with them an ancient pathogen. \"What we found was that the distribution of vampire bats has moved northward across time due to past climate change, which has corresponded with an increase \u2026",
-      "url": "https://phys.org/news/2023-11-links-climate-vampire-expansion-rabies.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/vampire-bats-make-nort.jpg",
-      "publishedAt": "2023-11-27 21:07:40",
-      "content": "Vampire bats may soon take up residence in the United States and bring with them an ancient pathogen. \"What we found was that the distribution of vampire bats has moved northward across time due to p\u2026 [+5871 chars]",
-      "retrievedAt": "2023-11-29 07:05:39.113972",
-      "internal_id": "64ada5d248c335aff2748ccc67bd63777cf888784b290db1b4b15845fd4915a7",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3394,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "AFP",
-      "title": "Per\u00fa sufre peor embate por dengue en d\u00e9cadas: 440 muertos",
-      "description": "Las cifras de 2023 superan ampliamente a las de 2022, cuando se report\u00f3 64.000 casos y 86 fallecidos",
-      "url": "https://www.nacion.com/el-mundo/interes-humano/peru-sufre-peor-embate-por-dengue-en-decadas-440/YCD34QQRIFASXGSBXMSCX2NOYY/story/",
-      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
-      "publishedAt": "2023-11-27 20:43:31",
-      "content": "Lima. Una epidemia de dengue, enfermedad transmitida por los mosquitos, caus\u00f3 445 muertos en Per\u00fa desde enero pasado, el peor registro desde que la enfermedad resurgi\u00f3 hace cuatro d\u00e9cadas, inform\u00f3 el\u2026 [+2447 chars]",
-      "retrievedAt": "2023-11-29 07:05:39.934054",
-      "internal_id": "9ea39ce4d18c420b33dab56e5fc258f217d207c6bbbfa6296599549449ddf90e",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3378,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Science X",
-      "title": "Pocket-sized DNA sequencers track malaria drug resistance in Ghana in near real-time",
-      "description": "Scientists have developed a technique to rapidly and reliably detect genetic changes in malaria parasites in Ghana, using just a gaming laptop and portable MinION sequencer from Oxford Nanopore.",
-      "url": "https://phys.org/news/2023-11-pocket-sized-dna-sequencers-track-malaria.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/pocket-sized-dna-seque.jpg",
-      "publishedAt": "2023-11-27 17:43:23",
-      "content": "Scientists have developed a technique to rapidly and reliably detect genetic changes in malaria parasites in Ghana, using just a gaming laptop and portable MinION sequencer from Oxford Nanopore. Res\u2026 [+4523 chars]",
-      "retrievedAt": "2023-11-28 19:05:30.348470",
-      "internal_id": "d2e0ad1b36f3c01f9e03a061cac00b1b2213eff738e0eacf733c06ead5568553",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3369,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "ComingSoon.net",
-      "author": "Neil Bolt",
-      "title": "Horror Movie Rabies Finds Monstrous Terror in 90s Beirut",
-      "description": "The debut film from Sandra Tabet, Rabies, looks at 90s Beirut through a different kind of horror lens to the bleak reality of post-war ruin, but will harness that. The project is being developed at Atlas Workshops. Real Life Horror and History The story of Ra\u2026",
-      "url": "https://www.comingsoon.net/horror/news/1415664-rabies-beirut-horror-movie",
-      "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/rabies-sandra-tabet.jpg?resize=1200,630",
-      "publishedAt": "2023-11-27 16:50:00",
-      "content": "The debut film from Sandra Tabet, Rabies, looks at 90s Beirut through a different kind of horror lens to the bleak reality of post-war ruin, but will harness that. The project is being developed at A\u2026 [+1006 chars]",
-      "retrievedAt": "2023-11-28 19:05:28.576802",
-      "internal_id": "3ef7bee3a52426cf4c06a829594e26a9133dd1b0535472cf0a639bf7130709cf",
-      "publishedAtLabel": "Nov 27"
     }
   ]
 }
