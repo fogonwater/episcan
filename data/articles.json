@@ -1,8 +1,206 @@
 {
-  "last_updated": "2023-12-09 19:05",
+  "last_updated": "2023-12-10 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 24,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 3628,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Incorpora\u00e7\u00e3o de vacina contra dengue ao SUS deve sair ainda este ano",
+      "description": "A comiss\u00e3o do Minist\u00e9rio da Sa\u00fade que decide sobre a incorpora\u00e7\u00e3o da vacina ao SUS deve convocar reuni\u00e3o extraordin\u00e1ria at\u00e9 o fim de dezembro",
+      "url": "https://valor.globo.com/brasil/noticia/2023/12/08/incorporacao-de-vacina-contra-dengue-ao-sus-deve-sair-ainda-este-ano.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/yUn8YsxCosZrgGEV4QW0nhSzmIg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/5/z/1FTMl0Qh2KHKWhklm3jw/vacina-qdenga-do-laboratorio-takeda-pharma-contra-a-dengue-divulgacao.jpeg",
+      "publishedAt": "2023-12-09 01:21:53",
+      "content": "A Comiss\u00e3o Nacional de Incorpora\u00e7\u00f5es de Tecnologias no Sistema \u00danico de Sa\u00fade (Conitec) deve decidir ainda este ano sobre a incorpora\u00e7\u00e3o da vacina contra a dengue ao Sistema \u00danico de Sa\u00fade (SUS). De \u2026 [+1975 chars]",
+      "retrievedAt": "2023-12-10 07:05:40.647450",
+      "internal_id": "5ff9295fb317734d5a8be65f1e278f2169e474c4a4cc0892ad1f213051d782ca",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 3626,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Record.com.mx",
+      "author": "Record.com.mx",
+      "title": "Registran incremento de m\u00e1s de 200 casos de dengue en el estado de Guerrero",
+      "description": "La Secretar\u00eda de Salud destac\u00f3 que en las \u00faltimas semanas ha habido dos mil casos de esta enfermedad",
+      "url": "https://www.record.com.mx/contra/registran-incremento-de-mas-de-200-casos-de-dengue-en-el-estado-de-guerrero",
+      "urlToImage": "https://www.record.com.mx/sites/default/files/articulos/2023/12/08/pexels-jimmy-chan-2382223_1.jpg",
+      "publishedAt": "2023-12-09 00:50:51",
+      "content": "El estado de Guerrero no se encuentra atravesando sus mejores momentos, pues hace unos meses el hurac\u00e1n Otis caus\u00f3 grandes da\u00f1os dejando varios escombros, pero ahora un nuevo problema surge, ya que e\u2026 [+1005 chars]",
+      "retrievedAt": "2023-12-10 07:05:40.607107",
+      "internal_id": "cbcba1318b659ad9a7f874358ba056a5ec2c04719f86197e72cc2cb781f925ee",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 3631,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Zika's shape-shifting machinery, and a possible vulnerability",
+      "description": "Viruses have limited genetic material -- and few proteins -- so all the pieces must work extra hard. Zika is a great example; the virus only produces 10 proteins. Now researchers have shown how the virus does so much with so little and may have identified a t\u2026",
+      "url": "https://www.sciencedaily.com/releases/2023/12/231208190012.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2023-12-09 00:00:12",
+      "content": "Viruses have limited genetic material -- and few proteins -- so all the pieces must work extra hard. Zika is a great example; the virus only produces 10 proteins. Now, in a study published in the jou\u2026 [+4425 chars]",
+      "retrievedAt": "2023-12-10 07:05:42.310659",
+      "internal_id": "cdc2f7d23716e1f216dea88f06a50e0be831508bec04ff96988d4a0569f31282",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 3633,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Queerty.com",
+      "author": "David Hudson",
+      "title": "CDC issues warning over new, more deadly strain of mpox",
+      "description": "It\u2019s surging in the Democratic Republic of Congo and has also been detected in a Belgian man.",
+      "url": "https://www.queerty.com/cdc-issues-warning-over-new-more-deadly-strain-of-mpox-20231208",
+      "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2023/05/man-vaccine-mpox-shutterstock.jpg?auto=format&auto=compress&fit=crop&gravity=50p,50p&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=70",
+      "publishedAt": "2023-12-09 00:00:00",
+      "content": "The CDC has issued a warning over the growing threat of a new, more deadly strain of mpox. Two weeks ago, the World Health Organization said the Democratic Republic of Congo was experiencing its wor\u2026 [+2084 chars]",
+      "retrievedAt": "2023-12-10 07:05:43.369686",
+      "internal_id": "afcc85148ced61bf08a107507f85e4d04619fdc14bcfd02af93380c7a9662952",
+      "publishedAtLabel": "Dec 9"
+    },
+    {
+      "id": 3635,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "CDC warns of more infectious mpox strain - The Hill",
+      "description": "CDC warns of more infectious mpox strainThe Hill Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warnsNew York Post CDC urges doctors, health departments to bolster surveillance of more severe mpox strainYahoo Life More Infectious Mpox Sparks Fe\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172452637",
+      "urlToImage": null,
+      "publishedAt": "2023-12-08 22:32:49",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-12-10 07:05:43.390263",
+      "internal_id": "ed0c2904cab6bb28f74887a516113bccd9f932033f498b90ec07defe9078f89c",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3632,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "pebg@bt.dk (Per B\u00f8rding)",
+      "title": "Efter advarsel i ferieparadis: Nu reagerer Spies",
+      "description": "\u00bbVi er altid i t\u00e6t dialog med b\u00e5de lokale myndigheder og Udenrigsministeriet herhjemme, som f\u00f8lger s\u00e5danne ting og informerer om der er s\u00e6rlige forholdsregler, der skal tages. Og er der det, vil vi naturligvis reagere.\u00ab",
+      "url": "https://www.bt.dk/udland/efter-advarsel-i-ferieparadis-nu-reagerer-spies",
+      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/209/2098454/24590037-de-kanariske-er-er-populre---ogs-blandt-dansker.jpg",
+      "publishedAt": "2023-12-08 22:09:59",
+      "content": "Der er blevet fundet tigermyg p\u00e5 De Kanariske \u00d8er, som ogs\u00e5 er meget popul\u00e6re feriem\u00e5l for danskerne. Myggene kan sprede sygdomme som denguefeber, zikavirus og chikungunya-feber, der kan v\u00e6re alvor\u2026 [+1601 chars]",
+      "retrievedAt": "2023-12-10 07:05:42.822177",
+      "internal_id": "4b391d907db945bf4c3a491433ddf8ac528c09790507650456dcad11d394b42c",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3625,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sopitas.com",
+      "author": "Erick Ponce",
+      "title": "Nueva preocupaci\u00f3n: M\u00e1s de 200 casos de dengue en Guerrero en la \u00faltima semana",
+      "description": "Fue el 22 de octubre de 2023 que el hurac\u00e1n Otis toc\u00f3 tierra en Acapulco. Despu\u00e9s de este desastre natural, los locales tuvieron que buscar a... The post Nueva preocupaci\u00f3n: M\u00e1s de 200 casos de dengue en Guerrero en la \u00faltima semana appeared first on Sopitas.\u2026",
+      "url": "https://www.sopitas.com/noticias/mas-200-casos-dengue-guerrero-ultima-semana-diciembre-2023/",
+      "urlToImage": "https://www.sopitas.com/wp-content/uploads/2020/08/mosquitos-modificados-geneticamente-florida-millones-libres-estudio.jpg",
+      "publishedAt": "2023-12-08 21:38:22",
+      "content": "Lo que necesitas saber: De acuerdo con el registro de la Secretar\u00eda de Salud federal, en la \u00faltima semana se registraron m\u00e1s de 200 casos de dengue en Guerrero. Fue el 22 de octubre de 2023 que el \u2026 [+1949 chars]",
+      "retrievedAt": "2023-12-10 07:05:40.583196",
+      "internal_id": "0449f987a8ec7a2bbd4f5a4cc3d758d7833f3be8274e9a29dc3af2e9ecb34292",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3634,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Rachel Dobkin",
+      "title": "Map Shows Where Deadly Mpox Cases Are Rising as CDC Issues Warning",
+      "description": "The mpox virus has been spreading in the Democratic Republic of the Congo as the CDC issues a travel health notice.",
+      "url": "https://www.newsweek.com/map-shows-where-deadly-mpox-cases-are-rising-cdc-issues-warning-1850935",
+      "urlToImage": "https://d.newsweek.com/en/full/2320982/mpox.jpg",
+      "publishedAt": "2023-12-08 21:33:29",
+      "content": "A map by the World Health Organization (WHO) shows the provinces in the Democratic Republic of the Congo (DRC) where cases of mpox are on the rise as U.S. Centers of Disease Control and Prevention (C\u2026 [+3545 chars]",
+      "retrievedAt": "2023-12-10 07:05:43.375600",
+      "internal_id": "61f34ec9d34304bbcedebf40dcb8aa651480bcbb387350c5f59ba5c6aa3b0ce5",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3629,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Minist\u00e9rio da Sa\u00fade anuncia investimento de R$ 250 milh\u00f5es para combater a dengue",
+      "description": "O Minist\u00e9rio da Sa\u00fade anunciou um investimento de R$ 250 milh\u00f5es para combater a dengue. Este ano, foram registrados mais de 1,6 milh\u00f5es de ca...",
+      "url": "https://noticias.r7.com/jr-na-tv/videos/ministerio-da-saude-anuncia-investimento-de-r-250-milhoes-para-combater-a-dengue-08122023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/12/08/6573abe119d224a3e400017b/9e0bf2f79a064436b68449b26248b84a__2366180_EPP_0812_JR_BRASILIA_DENGUE_thumb_thumb.jpg",
+      "publishedAt": "2023-12-08 21:05:18",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou um investimento de R$ 250 milh\u00f5es para combater a dengue. Este ano, foram registrados mais de 1,6 milh\u00f5es de casos da doen\u00e7a. Ainda segundo o minist\u00e9rio, quase 75% dos \u2026 [+375 chars]",
+      "retrievedAt": "2023-12-10 07:05:40.667708",
+      "internal_id": "f4613af7d97ffb48e2eed80ba0db9e7327b10d2364bc18693785c7d69d7607b7",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3627,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknewsbr.com.br",
+      "author": "Sputnik Brasil",
+      "title": "Minist\u00e9rio da Sa\u00fade alerta sobre epidemia de dengue em Minas, Esp\u00edrito Santo e regi\u00e3o Centro-Oeste",
+      "description": "Previs\u00e3o divulgada pelo Minist\u00e9rio da Sa\u00fade do Brasil aponta que h\u00e1 possibilidade de uma epidemia de dengue em 2024 nos estados da regi\u00e3o Centro-Oeste, al\u00e9m de Minas Gerais e Esp\u00edrito Santo, no Sudeste. Al\u00e9m disso, deve ser registrado potencial muito alto par\u2026",
+      "url": "https://sputniknewsbr.com.br/20231208/ministerio-da-saude-alerta-sobre-epidemia-de-dengue-em-minas-espirito-santo-e-regiao-centro-oeste-31925802.html",
+      "urlToImage": "https://cdn1.sputniknewsbr.com.br/images/sharing/article/por/31925802.jpg?73495391702068198",
+      "publishedAt": "2023-12-08 20:43:17",
+      "content": "Not\u00edcias sobre pol\u00edtica, economia e sociedade do Brasil. Entrevistas e an\u00e1lises de especialistas sobre assuntos que importam ao pa\u00eds. https://sputniknewsbr.com.br/20231208/ministerio-da-saude-alerta\u2026 [+4011 chars]",
+      "retrievedAt": "2023-12-10 07:05:40.628368",
+      "internal_id": "6729beecc97de5aa8d5103531f5aa8b826909b5f03bf44a608f52d0219c4b3c3",
+      "publishedAtLabel": "Dec 8"
+    },
+    {
+      "id": 3630,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: Gesundheit - Felix Lill, Javier Sauras",
+      "title": "Malaria-Impfung: Er wirkt!",
+      "description": "Jedes Jahr sterben Hunderttausende Menschen weltweit an Malaria. Eine neue Vakzine erreicht eine hohe Wirksamkeit. Nun gilt es, m\u00f6glichst viele Menschen damit zu impfen.",
+      "url": "https://www.zeit.de/2023/52/malaria-impfung-forschung-medizin-wirkung",
+      "urlToImage": "https://img.zeit.de/2023/52/er-wirkt-bild-1/wide__1300x731",
+      "publishedAt": "2023-12-08 19:51:42",
+      "content": "Dieser Artikel ist Teil von ZEIT am Wochenende, Ausgabe 49/2023. Wann er das erste Mal \"le palu\" hatte, wei\u00df Halidou Tinto nicht mehr. Auch nicht, wie oft er schon von dieser fiesen Krankheit befal\u2026 [+440 chars]",
+      "retrievedAt": "2023-12-10 07:05:41.690964",
+      "internal_id": "18313f73a51a7eeaebc7de29098c414a186c50ad8e57b1f814280db5f1afbbff",
+      "publishedAtLabel": "Dec 8"
+    },
     {
       "id": 3603,
       "query": [
@@ -3417,204 +3615,6 @@
       "content": "La cifra tambi\u00e9n coloca a este a\u00f1o como el quinto con m\u00e1s casos, por debajo de 2005, 2007, 2010 y 2013. Datos del Ministerio de Salud se\u00f1alan que estos 24.109 registros se alcanzaron al cerrar la se\u2026 [+3557 chars]",
       "retrievedAt": "2023-12-01 07:05:53.777198",
       "internal_id": "34e1c8bb0d40ddec62c8d40432323f5eac2a20e170d25e96293a96d70f853f1f",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3434,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "KPBS",
-      "author": "City News Service",
-      "title": "Whooping cough cases increase, health officials recommend vaccinations",
-      "description": "According to county data, the number of pertussis illnesses jumped from 12 in September to 57 in October. Spikes in pertussis happen every three to five years, they said, and the last peak was in 2017.",
-      "url": "https://www.kpbs.org/news/health/2023/11/29/whooping-cough-cases-increase-health-officials-recommend-vaccinations",
-      "urlToImage": "https://cdn.kpbs.org/dims4/default/a598c75/2147483647/strip/true/crop/1800x945+0+34/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Fassets%2Fimg%2F2014%2F12%2F18%2Fap340330303131_wide-fd0e94550a85782c81425e4b905b88cf0d0f17f4.jpg",
-      "publishedAt": "2023-11-29 22:09:21",
-      "content": "Citing an increasing number of cases of pertussis, also known as whooping cough, county public health officials Wednesday urged San Diegans to get vaccinated, particularly those most at risk of becom\u2026 [+2772 chars]",
-      "retrievedAt": "2023-12-01 07:05:52.780211",
-      "internal_id": "e61688fddec51e92901b66a9e111cedfd2a2ad29bf123168344343a5799c62fc",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3436,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "Commentary: Singapore\u2019s dengue problem won\u2019t go away without a vaccine",
-      "description": "There have been big outbreaks of dengue every year since 2019 in Singapore. Our success in controlling the number of Aedes mosquitoes is no longer sufficient, says Duke-NUS Medical School\u2019s Ooi Eng Eong and Shirin Kalimuddin.",
-      "url": "https://www.channelnewsasia.com/commentary/singapore-dengue-fever-vaccine-mosquitoes-fogging-3943846",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--kmdy2SRj--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/11/24/denguevaccine.jpg?itok=wQA_1qlu",
-      "publishedAt": "2023-11-29 22:00:00",
-      "content": "After decades of research, we now have two vaccines (Dengvaxia and Qdenga) that have been licensed in several countries, as well as a third (TV003) which has just completed clinical trials. Dengvaxi\u2026 [+1525 chars]",
-      "retrievedAt": "2023-12-01 07:05:53.760021",
-      "internal_id": "c4e2b75b546b50f8ad0054848c1933a7f0f69ff2a9780bbf8c496d2ca7301b69",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3431,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "REDACCI\u00d3N CARTAGENA",
-      "title": "Estos son los barrios de Cartagena con m\u00e1s casos de leptospirosis en 2023",
-      "description": "El Departamento Administrativo Distrital de Salud, Dadis, report\u00f3 que en Cartagena, a corte de la semana epidemiol\u00f3gica N\u00b044 del presente a\u00f1o, se han notificado al Sivigila 255 casos sospechosos de leptospirosis.",
-      "url": "https://www.eluniversal.com.co/cartagena/estos-son-los-barrios-de-cartagena-con-mas-casos-de-leptospirosis-en-2023-MN9539349",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/801x1288/0c301/800d686/none/13704/UOBK/dadis_9039891_20231129125623.jpg",
-      "publishedAt": "2023-11-29 18:00:00",
-      "content": "El Departamento Administrativo Distrital de Salud, Dadis, report\u00f3 que en Cartagena, a corte de la semana epidemiol\u00f3gica N\u00b044 del presente a\u00f1o, se han notificado al Sivigila 255 casos sospechosos de l\u2026 [+4084 chars]",
-      "retrievedAt": "2023-11-30 19:05:32.819858",
-      "internal_id": "ba72396c4f17c0aff27de86aacdc7b2af4e39d779e104e49b345c522d5f870f7",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3430,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "REDACCI\u00d3N CARTAGENA",
-      "title": "Leptospirosis en Cartagena: \u00bfEn qu\u00e9 consiste la enfermedad y c\u00f3mo se transmite?",
-      "description": "Con el reciente aumento de casos sospechosos en Cartagena, es crucial comprender qu\u00e9 es la leptospirosis y c\u00f3mo se propaga esta enfermedad para tomar medidas preventivas adecuadas. Lea: Temor en Cartagena por aumento alarmante de casos de leptospirosis",
-      "url": "https://www.eluniversal.com.co/cartagena/leptospirosis-en-cartagena-en-que-consiste-la-enfermedad-y-como-se-transmite-KN9539149",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1218x686/209c0/800d686/none/13704/URRS/ratas-en-cartagena_9039610_20231129123542.png",
-      "publishedAt": "2023-11-29 17:35:34",
-      "content": "Con el reciente aumento de casos sospechosos en Cartagena, es crucial comprender qu\u00e9 es la leptospirosis y c\u00f3mo se propaga esta enfermedad para tomar medidas preventivas adecuadas. Lea: Temor en Cart\u2026 [+2349 chars]",
-      "retrievedAt": "2023-11-30 19:05:32.816496",
-      "internal_id": "2ec0450b9d9f8b60430f318814b10f250f19b750a58c611982a64ac830f9b89e",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3420,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Patricia Recio",
-      "title": "Tr\u00e1ficos trabajan entre malos olores, techos que se caen, criaderos de dengue y hasta serpientes",
-      "description": "Nueve delegaciones de Tr\u00e1nsito est\u00e1n en condiciones deplorables, algunas no tienen permiso de funcionamiento, mientras que otras tienen \u00f3rdenes sanitarias desde hace a\u00f1os",
-      "url": "https://www.nacion.com/el-pais/infraestructura/traficos-trabajan-entre-malos-olores-techos-que-se/5SZRIAXOGVEIRG6W743P4VY32A/story/",
-      "urlToImage": "https://www.nacion.com/resizer/jqRnNzJ44CYuVmaw4qWrby0IhVY=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/7MBB63JJTBEBJFN42MZIDVXYFY.jpeg",
-      "publishedAt": "2023-11-29 17:24:13",
-      "content": "Condiciones deplorables aquejan a por lo menos nueve delegaciones regionales de la Polic\u00eda de Tr\u00e1nsito; sobre algunas de estas pesan \u00f3rdenes sanitarias del Ministerio de Salud y hasta sentencias de l\u2026 [+8018 chars]",
-      "retrievedAt": "2023-11-30 19:05:29.781560",
-      "internal_id": "692affc9f510444afe1ceb59e4402b4e6eca708b0a6fd5345f423fb2b4c38962",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3427,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "20 Minutes",
-      "author": "Fr\u00e9d\u00e9ric Brenon (20 Minutes)",
-      "title": "Chikungunya : Le premier vaccin sur le point d\u2019\u00eatre autoris\u00e9 en Europe",
-      "description": "Le vaccin, d\u00e9j\u00e0 approuv\u00e9 aux Etats-Unis, pourrait permettre d'enrayer le d\u00e9veloppement du virus en Europe. Ce vaccin est mis au point par la soci\u00e9t\u00e9 nantaise Valneva",
-      "url": "https://www.20minutes.fr/sante/4064341-20231129-chikungunya-premier-vaccin-point-etre-autorise-europe",
-      "urlToImage": "https://img.20mn.fr/WEQE2spxS7ONqOJyXAuccQ/1200x768_aedes-albopictus-vecteur-notamment-chikungunya",
-      "publishedAt": "2023-11-29 17:21:09",
-      "content": "Une avanc\u00e9e significative pour Valneva et un espoir pour r\u00e9duire la progression de la maladie. L\u2019agence europ\u00e9enne des m\u00e9dicaments (EMA) a valid\u00e9 techniquement le dossier de demande d\u2019autorisation de\u2026 [+1980 chars]",
-      "retrievedAt": "2023-11-30 19:05:31.898666",
-      "internal_id": "77c871ed458e86aa60a959708812c2346e8849dbcc95ac7f85f7ecf85b762350",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3433,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "REDACCI\u00d3N CARTAGENA",
-      "title": "Temor en Cartagena por aumento alarmante de casos de leptospirosis",
-      "description": "Cartagena se encuentra en estado de alerta ante el notable incremento de casos sospechosos de leptospirosis. Hasta la semana epidemiol\u00f3gica n\u00famero 44 del presente a\u00f1o, se han reportado 255 casos, cifra que duplica dr\u00e1sticamente los 113 casos registrados en el\u2026",
-      "url": "https://www.eluniversal.com.co/cartagena/temor-en-cartagena-por-aumento-alarmante-de-casos-de-leptospirosis-JM9538902",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/800x800/0c57/800d686/none/13704/JHLR/leptospirosis-en-cartagena_9039153_20231129115129.png",
-      "publishedAt": "2023-11-29 16:51:24",
-      "content": "Cartagena se encuentra en estado de alerta ante el notable incremento de casos sospechosos de leptospirosis. Hasta la semana epidemiol\u00f3gica n\u00famero 44 del presente a\u00f1o, se han reportado 255 casos, cif\u2026 [+1923 chars]",
-      "retrievedAt": "2023-11-30 19:05:32.825298",
-      "internal_id": "7047d0f5d91bcea6bcc03b73d7fbe384b09269303b6c623cd156615e65adc8f4",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3429,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Expressen.se",
-      "author": "amina.manzoor@expressen.se (Amina Manzoor)",
-      "title": "Kommer experterna ha fel om Kina en g\u00e5ng till?",
-      "description": "\u00c4r det en ny pandemi p\u00e5 g\u00e5ng i Kina eller finns det en mycket troligare f\u00f6rklaring? Dessutom en demens-studie, mpox och klimattoppm\u00f6tet i veckans Vetenskapsrummet.",
-      "url": "https://www.expressen.se/nyheter/kommer-experterna-att-ha-fel-om-kina-en-gang-till/",
-      "urlToImage": "https://static.cdn-expressen.se/images/3c/72/3c72f1d154a44a929037419df5024983/16x9/original.jpg",
-      "publishedAt": "2023-11-29 16:25:00",
-      "content": "Premium\u00c4r det en ny pandemi p\u00e5 g\u00e5ng i Kina eller finns det en mycket troligare f\u00f6rklaring? Dessutom en demens-studie, mpox och klimattoppm\u00f6tet i veckans Vetenskapsrummet.",
-      "retrievedAt": "2023-11-30 19:05:32.231860",
-      "internal_id": "f4bc1f1c1d35e597e474fdc1f086243e07ac93b72cdbac001669479fbd3be616",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3425,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Hanna Abberger, Matthias Hose, Anne Ninnemann, Christopher Menne, Mareike Eilbrecht, Karl S. Lang, Kai Matuschewski, Robert Geffers, Josephine Herz, Jan Buer, Astrid M. Westendorf, Wiebke Hansen",
-      "title": "Neuropilin-1 identifies a subset of highly activated CD8+ T cells during parasitic and viral infections",
-      "description": "Author summary Malaria is caused by the parasite Plasmodium and remains one of the most life threatening infectious diseases worldwide. In 2021, WHO reported 247 million malaria cases and more than 600,000 deaths. In this study, we infect mice with Plasmodium\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011837",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011837.g007&size=inline",
-      "publishedAt": "2023-11-29 14:00:00",
-      "content": "Citation: Abberger H, Hose M, Ninnemann A, Menne C, Eilbrecht M, Lang KS, et al. (2023) Neuropilin-1 identifies a subset of highly activated CD8+ T cells during parasitic and viral infections. PLoS P\u2026 [+67650 chars]",
-      "retrievedAt": "2023-11-30 19:05:31.028241",
-      "internal_id": "09f8116afb7825b417181c16398ad714ab6c119b868068c5bee7dd0aec1435ff",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3426,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Imara Correia de Queiroz Barbosa, Luizabel de Paula Gomes, Israel Nilton de Almeida Feitosa, Lu\u00eds F\u00e1bio Barbosa Botelho, Bruno Robalinho Cavalcanti Barbosa, Alex Barbosa, Andr\u00e9 Telis de Vilela Ara\u00fajo, Marcelo Dantas Tavares de Melo, Adriana Suely de Oliveira Melo, Vera Maria Cury Salemi",
-      "title": "Morphological and functional cardiac alterations in children with congenital Zika syndrome and severe neurological deficits",
-      "description": "Author summary Congenital Zika syndrome (CZS) occurs in the fetuses of mothers infected with the Zika virus during pregnancy, especially in the third trimester. The main findings are microcephaly and other neurological defects; however, several systemic effec\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011762",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011762.t004&size=inline",
-      "publishedAt": "2023-11-29 14:00:00",
-      "content": "Introduction Zika virus (ZIKV) is mainly transmitted by the Aedes aegypti mosquito in tropical regions [1,2]. In 1947, the Zika virus was discovered in the Zika forest in Uganda [1,3], and the first\u2026 [+24313 chars]",
-      "retrievedAt": "2023-11-30 19:05:31.502938",
-      "internal_id": "e24d493caad1423198684debeaeb8c9713d812edc9752b81b447ce04c1eef0d5",
-      "publishedAtLabel": "Nov 29"
-    },
-    {
-      "id": 3422,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Dengue death toll rises to 1,615 with 5 more deaths in a day",
-      "description": "Of the new patients, 193 were admitted to hospitals in Dhaka and 775 were hospitalised outside it",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-1615-5-more-deaths-day-748610",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/13/dengue-rajib-dhar.jpg",
-      "publishedAt": "2023-11-29 12:54:27",
-      "content": "Five more deaths were reported from dengue in 24 hours till Wednesday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,615 this year. During the period, 968 more pa\u2026 [+657 chars]",
-      "retrievedAt": "2023-11-30 19:05:29.797238",
-      "internal_id": "af25a3ab2fbe924231f98c0dfab470233dfd1d2d55aaf7cadfb522d029840b92",
       "publishedAtLabel": "Nov 29"
     }
   ]
