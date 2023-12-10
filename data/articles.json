@@ -1,8 +1,26 @@
 {
-  "last_updated": "2023-12-10 07:05",
+  "last_updated": "2023-12-10 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 11,
+  "count_articles_new": 1,
   "articles": [
+    {
+      "id": 3636,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "CDC Warns of More Infectious Monkeypox Strain with Higher Fatality Rate",
+      "description": "Like the \"classic\" monkeypox, the new strain is spread through sexual contact. The post CDC Warns of More Infectious Monkeypox Strain with Higher Fatality Rate first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2023/12/cdc-warns-of-more-infectious-monkeypox-strain-with-higher-fatality-rate/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2022/08/Monkeypox.jpg",
+      "publishedAt": "2023-12-09 19:00:11",
+      "content": "The last time we reported on the disease formerly known as monkeypox, before its woke rebranding as Mpox, the Centers for Disease Control and Prevention (CDC) was monitoring for a potential surge in \u2026 [+3815 chars]",
+      "retrievedAt": "2023-12-10 19:05:18.732596",
+      "internal_id": "225ae10c76d7177a02e79a37a2abe0c089892cbb9e99dd1035785264394a6edb",
+      "publishedAtLabel": "Dec 9"
+    },
     {
       "id": 3628,
       "query": [
@@ -3598,24 +3616,6 @@
       "retrievedAt": "2023-12-01 07:05:52.993015",
       "internal_id": "a150b74065264f0c23a908601dfd00fd735c3c2a2f7b18682098344cb8303992",
       "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3437,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "2023 se convierte en el a\u00f1o con m\u00e1s casos de dengue en la d\u00e9cada",
-      "description": "En 46 semanas, a mediados de noviembre, se suman 24.109 casos de dengue; el a\u00f1o con m\u00e1s incidencia desde 2013, y el quinto con m\u00e1s casos en los 31 a\u00f1os de historia de la enfermedad.",
-      "url": "https://www.nacion.com/ciencia/salud/2023-se-convierte-en-el-ano-con-mas-casos-de/4IUVKZDMPFFCJDEGTIXDDG2A5M/story/",
-      "urlToImage": "https://www.nacion.com/resizer/ei61w-7K88_-OZqqsjtnLTX4sog=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/Z4UMCIUPJJH4XHTI7MHZ7KBTKA.jpg",
-      "publishedAt": "2023-11-29 23:07:08",
-      "content": "La cifra tambi\u00e9n coloca a este a\u00f1o como el quinto con m\u00e1s casos, por debajo de 2005, 2007, 2010 y 2013. Datos del Ministerio de Salud se\u00f1alan que estos 24.109 registros se alcanzaron al cerrar la se\u2026 [+3557 chars]",
-      "retrievedAt": "2023-12-01 07:05:53.777198",
-      "internal_id": "34e1c8bb0d40ddec62c8d40432323f5eac2a20e170d25e96293a96d70f853f1f",
-      "publishedAtLabel": "Nov 29"
     }
   ]
 }
