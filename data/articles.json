@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-12-10 19:05",
+  "last_updated": "2023-12-11 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 1,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 3639,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Maeve Sheehan",
+      "title": "Revealed: Schoolgirl Aoife Johnston, who died from meningitis, waited in A&E for 12 hours as sepsis went untreated",
+      "description": "A teenager who died of meningitis in University Hospital Limerick (UHL) waited 12 hours in an overcrowded emergency department before she was treated for sepsis, as her family desperately flagged her deteriorating condition.",
+      "url": "https://www.independent.ie/irish-news/revealed-schoolgirl-aoife-johnston-who-died-from-meningitis-waited-in-aande-for-12-hours-as-sepsis-went-untreated/a345024656.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/FUpOls3LPrI8Mk-biYyQ0851PSs=/0x61:756x565/756x504/prod-mh-ireland/ad139bc5-bced-4333-aece-5c143811f387/15f5e26d-68d9-4039-a5ba-eff84d30b7bb/PL49290261Aoife%20Johnston1.jpg",
+      "publishedAt": "2023-12-10 02:30:00",
+      "content": "A teenager who died of meningitis in University Hospital Limerick (UHL) waited 12 hours in an overcrowded emergency department before she was treated for sepsis, as her family desperately flagged her\u2026 [+6390 chars]",
+      "retrievedAt": "2023-12-11 07:05:57.773218",
+      "internal_id": "d43fe317ae4357232aec643923fff4e55607f4f865fbb62329db15375bc1f7af",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 3637,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": null,
+      "title": "\u092e\u0941\u0902\u092c\u0908 \u092e\u0947\u0902 \u0939\u0930 \u0918\u0902\u091f\u0947 \u0926\u094b \u0932\u094b\u0917\u094b\u0902 \u0915\u094b \u0939\u094b\u0924\u093e \u0939\u0948 \u0921\u0947\u0902\u0917\u0942, \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092e\u0947\u0902 \u0935\u0947\u0915\u094d\u091f\u0930 \u092c\u0949\u0930\u094d\u0928 \u0921\u093f\u091c\u0940\u091f \u0928\u0947 \u0924\u094b\u0921\u093c\u0947 \u0930\u0947\u0915\u0949\u0930\u094d\u0921",
+      "description": "\u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092e\u0947\u0902 \u092e\u091a\u094d\u091b\u0930\u094b\u0902 \u0915\u0947 \u0926\u0902\u0936 \u0938\u0947 \u0907\u0938 \u0935\u0930\u094d\u0937 \u0914\u0938\u0924\u0928 \u0939\u0930 \u0918\u0902\u091f\u0947 2 \u0932\u094b\u0917 \u0921\u0947\u0902\u0917\u0940 \u0938\u0947 (Dengue cases in Mumbai) \u0938\u0902\u0915\u094d\u0930\u092e\u093f\u0924 \u092a\u093e\u090f \u0917\u090f \u0939\u0948\u0902\u0964 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0935\u093f\u092d\u093e\u0917 \u0915\u0940 \u0913\u0930 \u0938\u0947 \u091c\u093e\u0930\u0940 \u0915\u093f\u090f \u0917\u090f \u0906\u0902\u0915\u0921\u093c\u094b\u0902 \u0915\u0947 \u0905\u0928\u0941\u0938\u093e\u0930 1 \u091c\u0928\u0935\u0930\u0940 \u0938\u0947 \u0932\u0947\u0915\u0930 30 \u0928\u0935\u0902\u092c\u0930 \u0924\u0915 17531 \u0921\u0947\u0902\u0917\u0940 \u0915\u0947 \u0915\u0947\u0938 \u0930\u093f\u092a\u094b\u0930\u094d\u091f \u0939\u0941\u090f \u0939\u0948\u0902\u0964 \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0924\u0940\u0938\u0930\u0947 \u0938\u094d\u0925\u093e\u0928 \u092a\u0930\u2026",
+      "url": "https://navbharattimes.indiatimes.com/metro/mumbai/development/mumhbai-dengue-cases-vector-born-disease-in-maharashtra/articleshow/105870550.cms",
+      "urlToImage": "https://static.langimg.com/photo/imgsize-232154,msid-105870574/navbharat-times.jpg",
+      "publishedAt": "2023-12-10 00:18:01",
+      "content": ": 2 , 1 30 17531 , 33075 , 19672 234427 , 7 . , 4000 17 4300 , 14 14 74 51 28 4 4 2020 3356, 2021 12720, 2022 8578 2023 (30 ) 17541 - 16 ' ', , , , , , , , Navbharat Times News App: -\u2026 [+279 chars]",
+      "retrievedAt": "2023-12-11 07:05:57.378834",
+      "internal_id": "50ec43dbaf1fa14fa0381b41b953524578fd6ce97f7f1224334681f0f5f9b432",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 3638,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Vacuna contra el dengue: \u00bfpor qu\u00e9 ha costado tanto obtenerla?",
+      "description": "\u00bfC\u00f3mo una enfermedad tan prevalente en varios pa\u00edses tropicales y que causa muertes no tiene una campa\u00f1a de vacunaci\u00f3n formal como otras? \u00bfPor qu\u00e9 ha costado tanto una vacuna espec\u00edfica?",
+      "url": "https://www.nacion.com/ciencia/salud/vacuna-contra-el-dengue-por-que-ha-costado-tanto/TU4UII4HYBB5TMOGLOLRKQEMHM/story/",
+      "urlToImage": "https://www.nacion.com/resizer/VoZ33e-lLAm9yo4O4UF5l1dvNnM=/1440x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/UBXNVODKRZA4BP6YPPP25NIPQY.png",
+      "publishedAt": "2023-12-09 23:00:00",
+      "content": "El 2023 cierra como el a\u00f1o con m\u00e1s casos de dengue desde 2013 y el quinto en la historia de la enfermedad en Costa Rica, con 24.914 casos a la semana 47 del a\u00f1o (que finaliz\u00f3 el 25 de noviembre). Sin\u2026 [+5541 chars]",
+      "retrievedAt": "2023-12-11 07:05:57.419172",
+      "internal_id": "dbd2fc5bf2620dcf7b2c0b98dafba4d1471463c4e2b9ccc7fd15aef2e9a34cb8",
+      "publishedAtLabel": "Dec 9"
+    },
     {
       "id": 3636,
       "query": [
@@ -3561,60 +3615,6 @@
       "content": "The monsoon season in Bangladesh typically runs from May to September, with rainfall peaking in July and sputtering out in early October. This year, however, there was more rain than usual in October\u2026 [+12281 chars]",
       "retrievedAt": "2023-12-01 19:05:40.278547",
       "internal_id": "f07e1ea4926cfda91ffc070e616772bdbd86cb57235f798564caf903623971f6",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3448,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Moneycontrol",
-      "author": "Hindi.Moneycontrol.com Team, Moneycontrol Hindi",
-      "title": "\u0936\u093e\u0926\u0940 \u0935\u093e\u0932\u0947 \u0926\u093f\u0928 \u0921\u0947\u0902\u0917\u0942 \u0938\u0947 \u092a\u0940\u0921\u093c\u093f\u0924 \u0939\u0941\u0906 \u0926\u0942\u0932\u094d\u0939\u093e, \u092c\u093f\u0928\u093e '\u092c\u0948\u0902\u0921 \u092c\u093e\u091c\u093e \u092c\u093e\u0930\u093e\u0924' \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092e\u0947\u0902 \u2018\u090f\u0915 \u0935\u093f\u0935\u093e\u0939 \u0910\u0938\u093e \u092d\u0940\u2019",
-      "description": "\u0936\u093e\u0926\u093f\u092f\u094b\u0902 \u0915\u093e \u0938\u0940\u091c\u0928 \u0939\u0948 \u0910\u0938\u0947 \u092e\u0947\u0902 \u0939\u0949\u0932 \u0938\u0947 \u0932\u0947\u0915\u0930 \u0939\u0932\u0935\u093e\u0908 \u0924\u0915 \u0915\u093e \u0916\u0930\u094d\u091a \u0914\u0930 \u0938\u093e\u0930\u093e \u0905\u0930\u0947\u0902\u091c\u092e\u0947\u0902\u091f \u0915\u0930\u0928\u093e \u0905\u092a\u0928\u0947 \u0906\u092a \u092e\u0947\u0902 \u092c\u0921\u093c\u093e \u0915\u093e\u092e \u0939\u0948\u0964 \u0907\u0924\u0928\u0947 \u0938\u093e\u0930\u0947 \u0915\u093e\u092e \u0914\u0930 \u0916\u0930\u094d\u091a\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0905\u0917\u0930 \u0936\u093e\u0926\u0940 \u0915\u0948\u0902\u0938\u093f\u0932 \u0939\u094b \u091c\u093e\u090f \u0924\u094b? \u0915\u0941\u091b \u0910\u0938\u093e \u0939\u0940 \u0905\u0935\u093f\u0928\u093e\u0936 \u0915\u0947 \u0938\u093e\u0925 \u092d\u0940 \u0939\u0941\u093e\u0964 \u0926\u093f\u0932\u094d\u0932\u0940 \u0915\u0947 \u0930\u0939\u0928\u0947 \u0935\u093e\u0932\u0947 27 \u0938\u093e\u0932 \u0915\u0947 \u0905\u0935\u093f\u0928\u093e\u0936 \u0915\u0941\u092e\u093e\u0930 \u0921\u0947\u0902\u0917\u0942 \u0915\u0940 \u0910\u0938\u0940 \u091a\u092a\u0947\u091f \u092e\u0947\u0902 \u2026",
-      "url": "https://hindi.moneycontrol.com/news/india/trends/delhi-man-suffered-from-dengue-married-in-hospital-meeting-hall-1630881.html",
-      "urlToImage": "https://images.moneycontrol.com/static-hindinews/2023/11/bridegroom-725x435.jpg",
-      "publishedAt": "2023-11-30 07:51:12",
-      "content": "A couple got married at Max hospital in Vaishali, Ghaziabad. The groom was suffering from dengue and was admitted to the hospital on November 25 with his wedding due on Nov 27. The wedding took place\u2026 [+107 chars]",
-      "retrievedAt": "2023-12-01 19:05:40.350919",
-      "internal_id": "ba4f9ec0d216753576c444adcb94c6243c77b27f6aac9c907a265c3c3774aff4",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3438,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Five new monkeypox cases detected",
-      "description": "PUTRAJAYA: Five new cases of monkeypox (mpox), involving local men, have been detected in Malaysia, from Oct 31 to Nov 29, bringing the cumulative number of cases to nine. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/11/30/five-new-monkeypox-cases-detected",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/11/30/2415355.jpg",
-      "publishedAt": "2023-11-30 06:53:00",
-      "content": "PUTRAJAYA: Five new cases of monkeypox (mpox), involving local men, have been detected in Malaysia, from Oct 31 to Nov 29, bringing the cumulative number of cases to nine. Health director-general Da\u2026 [+1955 chars]",
-      "retrievedAt": "2023-12-01 07:05:55.231849",
-      "internal_id": "61f41f7bb5e8a72813cf4cb6220748118da605738e2836242fdbf30e72876558",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3435,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Livedoor.jp",
-      "author": "rbkyn844",
-      "title": "\u3010\u95b2\u89a7\u6ce8\u610f\u3011\u30ea\u30a2\u30eb\u306a\u30be\u30f3\u30d3\u304c\u51fa\u6ca1",
-      "description": "\u3010\u95b2\u89a7\u6ce8\u610f\u3011\u30ea\u30a2\u30eb\u306a\u30be\u30f3\u30d3\u304c\u51fa\u6ca1 var microadCompass = microadCompass || {}; microadCompass.queue = microadCompass.queue || []; microadCompass.queue.push({ \"spot\": \"11cf97bbd364c255a1c676272a5f1000\" });",
-      "url": "http://blog.livedoor.jp/rbkyn844/archives/10480129.html",
-      "urlToImage": "https://livedoor.blogimg.jp/rbkyn844/imgs/c/7/c703245f.jpg",
-      "publishedAt": "2023-11-30 03:32:04",
-      "content": ": https://nova.5ch.net/test/read.cgi/livegalileo/1701313885/ 1: 2023/11/30() 12:11:25.89 ID:vsn2udKz0 @markellisnew Rabies infected person #fyp#trending#viral#infected#scary#disturbing original so\u2026 [+526 chars]",
-      "retrievedAt": "2023-12-01 07:05:52.993015",
-      "internal_id": "a150b74065264f0c23a908601dfd00fd735c3c2a2f7b18682098344cb8303992",
       "publishedAtLabel": "Nov 30"
     }
   ]
