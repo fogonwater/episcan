@@ -1,8 +1,44 @@
 {
-  "last_updated": "2023-12-11 07:05",
+  "last_updated": "2023-12-11 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 3,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 3640,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Asianetnews.com",
+      "author": "Web Team",
+      "title": "'100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d46\u0d28\u0d4d\u0d28 \u0d05\u0d23\u0d41\u0d2c\u0d3e\u0d27; \u0d1c\u0d3e\u0d17\u0d4d\u0d30\u0d24 \u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d28\u0d3f\u0d30\u0d4d\u200d\u0d26\u0d47\u0d36\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d41\u0d15\u0d46\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d35\u0d15\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
+      "description": "\u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d3e\u0d23\u0d24\u0d4d\u0d30\u0d47 '100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d40\u0d1f\u0d4d \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d3e\u0d38\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d27\u0d3f\u0d15\u0d02 \u0d1a\u0d41\u0d2e \u0d28\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d28\u0d3f\u0d32\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d05\u0d35\u0d38\u0d4d\u0d25\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41",
+      "url": "https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95",
+      "urlToImage": "https://static-ai.asianetnews.com/images/01epy9ef8135ab8dte71vxnjb2/pneumonia--jpg_1200x630xt.jpg",
+      "publishedAt": "2023-12-10 12:45:52",
+      "content": "'100 ' . 19 . . . . . . '100 ' . 100 . , . . . . '100 ' . . 'Bordetella pertussis bacteria' '100 ' . . 1950 . . . . . , . '100 ' . . '100 ' . . . '100 ' . Also Read:- ' '?; ? ... \u2026 [+55 chars]",
+      "retrievedAt": "2023-12-11 19:05:24.793192",
+      "internal_id": "acf2edf9d18e841ea459b3181537b06547cad382f659d3c4f1f96c70fc7744ba",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 3641,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ag\u00eancia Mural - Conte\u00fado Exclusivo",
+      "title": "Conhe\u00e7a Zika das Artes, de S\u00e3o Mateus, que assina capas de \u00e1lbuns do trap e rap",
+      "description": "Com est\u00e9tica que mistura t\u00e9cnicas de artes cl\u00e1ssicas ao mundo digital, artista ganha notoriedade no cen\u00e1rio musical",
+      "url": "https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1-zika-das-artes-na-perifacon-2023-credito-leu-britto-agencia-mural-(1)-ure13t557g36.jpg",
+      "publishedAt": "2023-12-10 08:00:20",
+      "content": "Com assinatura nas capas de \u00e1lbuns de renomados m\u00fasicos do universo do trap e do rap, o artista visual Kayo Mathias, 23, o Zika das Artes, de S\u00e3o Mateus, na zona leste de S\u00e3o Paulo, celebra um 2023 d\u2026 [+3286 chars]",
+      "retrievedAt": "2023-12-11 19:05:26.676231",
+      "internal_id": "a7015427e17347ed9b4d87bae7c063e7f102cccb9e7f341deb9675d0006bae7b",
+      "publishedAtLabel": "Dec 10"
+    },
     {
       "id": 3639,
       "query": [
@@ -3579,42 +3615,6 @@
       "content": "Nairobi \u2014 The government has purchased 120,000 nets to be distributed to counties most affected by floods as a measure to stop the outbreak of malaria. In a press conference held in Nairobi, Arid an\u2026 [+1267 chars]",
       "retrievedAt": "2023-12-01 19:05:41.593633",
       "internal_id": "16172738b8b64f0f07c57231ba598c5f0e1be8e7dfc1cd6c6ba2a978574a4f39",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3460,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "UN News",
-      "author": "dpicampaigns",
-      "title": "Climate change risks upending global fight against malaria",
-      "description": "Climate change and its impacts, particularly extreme weather and heatwaves, pose a \u201csubstantial risk\u201d to progress being made to fight malaria, the UN World Health Organization (WHO) said on Thursday. Read Full Story on UN News The post Climate change risks up\u2026",
-      "url": "https://news.un.org/en/story/2023/11/1144187",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/30-11-2023-UNICEF-Malaria_2-UN0832276.jpg/image770x420cropped.jpg",
-      "publishedAt": "2023-11-30 12:00:00",
-      "content": "Releasing its 2023 World Malaria Report as nations gather at the UN climate change conference, COP28, the health agency warned that despite expanding access to malaria prevention, more people are get\u2026 [+3482 chars]",
-      "retrievedAt": "2023-12-01 19:05:41.604231",
-      "internal_id": "72fae50e68f6b162294285ac59d152d179d413c04335f6dabd26bcfea0eee9d7",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3440,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Yale.edu",
-      "author": null,
-      "title": "As Temperatures Rise, Dengue Fever Spreads and Cases Rise",
-      "description": "With temperatures and rainfall increasing, the mosquitoes that carry dengue viruses are extending their range. More than 4.5 million cases have been reported this year, and global climate models project an additional 2 billion people could be at risk of infec\u2026",
-      "url": "https://e360.yale.edu/features/dengue-fever-climate-change",
-      "urlToImage": "https://e360.yale.edu/assets/site/Dengue-Patients-Dhaka_Getty-Small.jpg",
-      "publishedAt": "2023-11-30 09:29:00",
-      "content": "The monsoon season in Bangladesh typically runs from May to September, with rainfall peaking in July and sputtering out in early October. This year, however, there was more rain than usual in October\u2026 [+12281 chars]",
-      "retrievedAt": "2023-12-01 19:05:40.278547",
-      "internal_id": "f07e1ea4926cfda91ffc070e616772bdbd86cb57235f798564caf903623971f6",
       "publishedAtLabel": "Nov 30"
     }
   ]
