@@ -1,8 +1,100 @@
 {
-  "last_updated": "2023-12-11 19:05",
+  "last_updated": "2023-12-12 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 2,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 3645,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Dengue cases surpass 80,000 in Sri Lanka so far this year",
+      "description": "COLOMBO, Dec. 10 (Xinhua) -- Total dengue cases reported in Sri Lanka so far this year surpassed 80,",
+      "url": "http://en.people.cn/n3/2023/1211/c90000-20108502.html",
+      "urlToImage": null,
+      "publishedAt": "2023-12-11 07:02:09",
+      "content": "(Xinhua) 14:30, December 11, 2023 COLOMBO, Dec. 10 (Xinhua) -- Total dengue cases reported in Sri Lanka so far this year surpassed 80,000, according to the latest statistics released by the National\u2026 [+345 chars]",
+      "retrievedAt": "2023-12-12 07:05:46.803481",
+      "internal_id": "f5ab9467f99aeaa2ba43355bfeac4cedd02e1252d31ba75780fb971d0aaa657d",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 3644,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Asian tiger mosquitoes carrying dengue fever could be common in England within decades",
+      "description": "Asian tiger mosquitoes carrying dengue fever could be common in England by the middle of this century, according to government health experts.",
+      "url": "https://news.sky.com/story/asian-tiger-mosquitoes-carrying-dengue-fever-could-be-common-in-england-within-decades-13027883",
+      "urlToImage": "https://e3.365dm.com/23/06/1600x900/skynews-aedes-disease-illness_6196002.jpg?20231211030926",
+      "publishedAt": "2023-12-11 02:01:00",
+      "content": "Asian tiger mosquitoes carrying dengue fever could be common in England by the middle of this century, according to government health experts. The insects have spread across large parts of Europe in\u2026 [+3718 chars]",
+      "retrievedAt": "2023-12-12 07:05:46.774453",
+      "internal_id": "f0c501b46147261cfa8d2d384e93e0ecba0e5df706901258c9ed81b1eaaa060e",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 3646,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Grace Tinetali-Fiavaai, Te Rito journalism cadet",
+      "title": "Double-amputee owner of stolen vehicle involved in M\u0101ngere crash",
+      "description": "Rex Natoealofa lost his legs when he contracted meningitis as a teenager.",
+      "url": "https://www.nzherald.co.nz/talanoa/double-amputee-owner-of-stolen-vehicle-involved-in-mangere-crash/6BOA6BPPLFB7NKOGAIRD6I7Z5I/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/2f3YE69AoVIr2xBLSy2rVr1B6DY=/1200x675/filters:focal(304x284:1504x960)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/3ILLO2ZOFREXZIIPMKTKQAV36Q.JPG",
+      "publishedAt": "2023-12-11 01:40:34",
+      "content": "A younger Rex Natoealofa pictured celebrating a birthday in hospital after having his legs amputated.Double-amputee Rex Natoealofa is known among his family and close friends for being fiercely indep\u2026 [+2791 chars]",
+      "retrievedAt": "2023-12-12 07:05:47.091609",
+      "internal_id": "71a5e8a7d64d7d481c56fb0927711914f87f25b0cf47ebf57c2099f886690eb8",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 3643,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Anu Raghunathan",
+      "title": "The future of healthcare is in our genes",
+      "description": "Gene and cell therapy are the cutting-edge medical advancements poised to revolutionise our approach to and treatment of various health conditions, from sickle cell disease and dengue to cancer and HIV/AIDS",
+      "url": "https://indianexpress.com/article/opinion/columns/gene-and-cell-therapy-future-of-indian-healthcare-system-global-healthcare-landscape-9062573/",
+      "urlToImage": "https://images.indianexpress.com/2023/12/GENE-AND-CELL-THEREPY.jpg",
+      "publishedAt": "2023-12-11 01:30:43",
+      "content": "Indian healthcare system, healthcare issues in India, global healthcare landscape, future of Indian healthcare system, treatment of various health conditions, gene and cell therapy, mainstream health\u2026 [+5338 chars]",
+      "retrievedAt": "2023-12-12 07:05:46.762634",
+      "internal_id": "ac0018c673452c1fd77d552df66771b0f1504709b91eee3e0f004f62fc6d9f40",
+      "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 3642,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Mosquito-borne disease risk looms for UK - study",
+      "description": "Diseases like dengue fever could be common if little is done to tackle climate change, report warns.",
+      "url": "https://www.bbc.co.uk/news/health-67654008",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/448A/production/_131964571_gettyimages-1423629110.jpg",
+      "publishedAt": "2023-12-11 01:14:41",
+      "content": "Some parts of the UK could become home to mosquitoes capable of spreading dengue fever, chikungunya and zika virus by the 2040s and 2050s, health officials warn. The UK Health Security Agency's repo\u2026 [+4088 chars]",
+      "retrievedAt": "2023-12-12 07:05:46.750944",
+      "internal_id": "c116a51cb6ff4fea02b93505cc7f7b086822052fe4eaf8b8eb613a769e41cd5c",
+      "publishedAtLabel": "Dec 11"
+    },
     {
       "id": 3640,
       "query": [
@@ -3525,96 +3617,6 @@
       "content": "El cambio clim\u00e1tico est\u00e1 contribuyendo al aumento de casos de malaria en el mundo, seg\u00fan el informe anual sobre la malaria publicado hoy, en Ginebra, por la Organizaci\u00f3n Mundial de la Salud (OMS). Lo\u2026 [+2942 chars]",
       "retrievedAt": "2023-12-01 19:05:41.611542",
       "internal_id": "22cc61bbfa54c66fe42907b94af773277a6f5f4548537fa8217c01b32fc82221",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3443,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Ivan Dario Velez, Stephanie K. Tanamas, Maria Patricia Arbelaez, Simon C. Kutcher, Sandra L. Duque, Alexander Uribe, Lina Zuluaga, Luis Mart\u00ednez, Ana Cristina Pati\u00f1o, Jovany Barajas, Estefan\u00eda Mu\u00f1oz, Maria Camila Mejia Torres, Sandra Uribe, Sandra Porras, Rita Almanza, Henry Pulido, Scott L. O\u2019Neill, Eduardo Santacruz-Sanmartin, Sandra Gonzalez, Peter A. Ryan, Jai A. Denton, Nicholas P. Jewell, Suzanne M. Dufault, Cameron P. Simmons, Katherine L. Anders",
-      "title": "Reduced dengue incidence following city-wide wMel Wolbachia mosquito releases throughout three Colombian cities: Interrupted time series analysis and a prospective case-control study",
-      "description": "Author summary Dengue fever is a viral disease transmitted by Aedes aegypti mosquitoes and is an increasing public health concern globally. A novel evidence-based tool for dengue control involves the release of Ae. aegypti mosquitoes infected with a naturally\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011713",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011713.g007&size=inline",
-      "publishedAt": "2023-11-30 14:00:00",
-      "content": "Citation: Velez ID, Tanamas SK, Arbelaez MP, Kutcher SC, Duque SL, Uribe A, et al. (2023) Reduced dengue incidence following city-wide wMel Wolbachia mosquito releases throughout three Colombian citi\u2026 [+47010 chars]",
-      "retrievedAt": "2023-12-01 19:05:40.303615",
-      "internal_id": "fb215970c73ede7161baea8e0f30b27b37caca44d6db148bd3d7c1528661edf1",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3444,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Iv\u00e1n Dar\u00edo Velez, Alexander Uribe, Jovany Barajas, Sandra Uribe, Sandra \u00c1ngel, Juan David Suaza-Vasco, Maria Camila Mejia Torres, Mar\u00eda Patricia Arbel\u00e1ez, Eduardo Santacruz-Sanmartin, Lorena Duque, Luis Mart\u00ednez, Tania Posada, Ana Cristina Pati\u00f1o, Sandra Milena Gonzalez, Ana Luc\u00eda Velez, Jennifer Ram\u00edrez, Marlene Salazar, Sandra G\u00f3mez, Jorge E. Osorio, Inaki Iturbe-Ormaetxe, Yi Dong, Frederico C. Muzzi, Edwige Rances, Petrina H. Johnson, Ruth Smithyman, Bruno Col, Benjamin R. Green, Tibor Frossard, Jack Brown-Kenyon, D. Albert Joubert, Nelson Grisales, Scott A. Ritchie, Jai A. Denton, Jeremie R. L. Gilles, Katherine L. Anders, Simon C. Kutcher, Peter A. Ryan, Scott L. O\u2019Neill",
-      "title": "Large-scale releases and establishment of wMel Wolbachia in Aedes aegypti mosquitoes throughout the Cities of Bello, Medell\u00edn and Itag\u00fc\u00ed, Colombia",
-      "description": "Author summary The introduction of the naturally occurring wMel Wolbachia strain into Aedes aegypti mosquitoes has been shown to reduce the ability of the mosquitoes to transmit dengue and other viruses. Following engagement with communities to gain acceptanc\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011642",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011642.g006&size=inline",
-      "publishedAt": "2023-11-30 14:00:00",
-      "content": "Citation: Velez ID, Uribe A, Barajas J, Uribe S, \u00c1ngel S, Suaza-Vasco JD, et al. (2023) Large-scale releases and establishment of wMel Wolbachia in Aedes aegypti mosquitoes throughout the Cities of B\u2026 [+58248 chars]",
-      "retrievedAt": "2023-12-01 19:05:40.317372",
-      "internal_id": "e623855df5b44c7763037b19a05482156e15ef93ffef7c7c283ded573be3f528",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3449,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Ingo Fohmann, Alina Weinmann, Fabian Schumacher, Simon Peters, Agata Prell, Cynthia Weigel, Sarah Spiegel, Burkhard Kleuser, Alexandra Schubert-Unkmeir",
-      "title": "Sphingosine kinase 1/S1P receptor signaling axis is essential for cellular uptake of Neisseria meningitidis in brain endothelial cells",
-      "description": "Author summary The gram-negative bacterium Neisseria meningitidis can cause live-threatening meningitis in humans after crossing the blood-brain barrier (BBB). During infection, N. meningitidis may invade brain endothelial cells as a first step to cross the B\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011842",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011842.g006&size=inline",
-      "publishedAt": "2023-11-30 14:00:00",
-      "content": "Citation: Fohmann I, Weinmann A, Schumacher F, Peters S, Prell A, Weigel C, et al. (2023) Sphingosine kinase 1/S1P receptor signaling axis is essential for cellular uptake of Neisseria meningitidis i\u2026 [+72554 chars]",
-      "retrievedAt": "2023-12-01 19:05:40.892554",
-      "internal_id": "a716fcc4ace7f5b1794fe3a9a63ddd48a48b42d1e5b593743a6bbb86e1036a3d",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3452,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Aye Sandar Zaw, Ei Shwe Sin Win, Soe Wai Yan, Kyaw Sithu Thein, Vasundhara Verma, Alistair R. D. McLean, Thar Tun Kyaw, Nicholas J. White, Frank M. Smithuis",
-      "title": "Successful elimination of falciparum malaria following the introduction of community-based health workers in Eastern Myanmar: A retrospective analysis",
-      "description": "In this retrospective analysis, Aye Sandar Zaw and colleagues report the successful elimination of falciparum malaria following the introduction of community-based health workers in Eastern Myanmar",
-      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004318",
-      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004318.g010&size=inline",
-      "publishedAt": "2023-11-30 14:00:00",
-      "content": "Abstract Background Myanmar has a large majority of all malaria in the Greater Mekong Subregion. In the past decade, substantial progress was made in malaria control. The residual burden of malaria\u2026 [+41838 chars]",
-      "retrievedAt": "2023-12-01 19:05:41.565821",
-      "internal_id": "13a1fb18a9e675e2a3e11f73a2464d655bade5e70d768121c09e3522b6ac0bb5",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3458,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Govt to Distribute 120,000 Nets to Counties Affected By Floods to Mitigate Malaria Outbreak",
-      "description": "[Capital FM] Nairobi -- The government has purchased 120,000 nets to be distributed to counties most affected by floods as a measure to stop the outbreak of malaria.",
-      "url": "https://allafrica.com/stories/202311300363.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-30 13:25:44",
-      "content": "Nairobi \u2014 The government has purchased 120,000 nets to be distributed to counties most affected by floods as a measure to stop the outbreak of malaria. In a press conference held in Nairobi, Arid an\u2026 [+1267 chars]",
-      "retrievedAt": "2023-12-01 19:05:41.593633",
-      "internal_id": "16172738b8b64f0f07c57231ba598c5f0e1be8e7dfc1cd6c6ba2a978574a4f39",
       "publishedAtLabel": "Nov 30"
     }
   ]
