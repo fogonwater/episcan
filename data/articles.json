@@ -1,8 +1,242 @@
 {
-  "last_updated": "2023-12-13 07:05",
+  "last_updated": "2023-12-13 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 3669,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Casos de dengue aumentam no Rio",
+      "description": "Os casos de dengue registraram alta no Rio de Janeiro. At\u00e9 o in\u00edcio de dezembro, 6 mil casos foram mapeados pela Secretaria Municipal de Sa\u00fade...",
+      "url": "https://recordtv.r7.com/balanco-geral-rj/videos/casos-de-dengue-registram-alta-no-rio-6-mil-casos-foram-mapeados-ate-o-inicio-de-dezembro-12122023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/12/12/6578b8a819d2247fff002973/1adfb759dc9d4f07b6170bbbde480ed9__BGT_R7_12DEZ2023_ALTADENGUE_thumb.jpg",
+      "publishedAt": "2023-12-12 18:09:38",
+      "content": "Os casos de dengue registraram alta no Rio de Janeiro. At\u00e9 o in\u00edcio de dezembro, 6 mil casos foram mapeados pela Secretaria Municipal de Sa\u00fade. Os n\u00fameros da doen\u00e7a cresceram 300% durante o inverno n\u2026 [+11 chars]",
+      "retrievedAt": "2023-12-13 19:05:30.028213",
+      "internal_id": "90e980344c4c173df013c5f7787a547a074680badcea0cb2e23347c0b2c2b366",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3666,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Thomas Kika",
+      "title": "Painful Disease on Brink of Spreading, Health Officials Warn",
+      "description": "Rising global temperatures could push dengue fever into non-tropical regions.",
+      "url": "https://www.newsweek.com/painful-disease-brink-spreading-mosquitos-1851754",
+      "urlToImage": "https://d.newsweek.com/en/full/2322292/dengue-fever-global-spread.jpg",
+      "publishedAt": "2023-12-12 17:37:54",
+      "content": "Global health officials are sounding the alarm on dengue fever, warning that the illness could pose a major worldwide threat in the coming decade. Dengue fever is a disease known to be spread by mos\u2026 [+2575 chars]",
+      "retrievedAt": "2023-12-13 19:05:30.000300",
+      "internal_id": "9aec8c7e4f98feac4296bf765de0d5f8bab1a97b28a5e637e79b86e92a30438a",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3668,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Over 30 per cent dengue seroprevalence among Kerala's children, Lancet study finds",
+      "description": "A study published in The Lancet Regional Health - Southeast Asia has found a low to moderate dengue seroprevalence of 30.9% among children aged 9-12 and 24.6% in 5-8-year-olds in Kerala. The research, with a sample size of 5,236, highlights regional variation\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/over-30-per-cent-dengue-seroprevalence-among-keralas-children-lancet-study-finds/articleshow/105941527.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-105941601,width-1200,height-630,imgsize-2281849,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-12-12 16:39:52",
+      "content": "A study published in The Lancet Regional Health - Southeast Asia journal has found a dengue seroprevalence of 30.9 per cent among children aged 9-12 and 24.6 per cent in 5-8-year-olds in Kerala, cate\u2026 [+2103 chars]",
+      "retrievedAt": "2023-12-13 19:05:30.016406",
+      "internal_id": "24a0d8562f4e1c0bf6da6cdf39272c1feba2bf6bce4a622344244e334d48979c",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3678,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El 40% de los pacientes con viruela del mono presentaban tambi\u00e9n infecci\u00f3n por VIH",
+      "description": "El 40 por ciento de los pacientes con viruela del mono (Mpox, por sus siglas en ingl\u00e9s) en Espa\u00f1a durante el brote de 2022 presentaban, adem\u00e1s, infecci\u00f3n por VIH, seg\u00fan un estudio llevado a cabo por el Grupo de Estudio de Patolog\u00edas Importadas (GEPI) y el Gru\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-40-pacientes-viruela-mono-presentaban-tambien-infeccion-vih-20231212165138.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231212165138_1200.jpg",
+      "publishedAt": "2023-12-12 15:51:38",
+      "content": "MADRID, 12 Dic. (EUROPA PRESS) - El 40 por ciento de los pacientes con viruela del mono (Mpox, por sus siglas en ingl\u00e9s) en Espa\u00f1a durante el brote de 2022 presentaban, adem\u00e1s, infecci\u00f3n por VIH, \u2026 [+3932 chars]",
+      "retrievedAt": "2023-12-13 19:05:31.852941",
+      "internal_id": "8e4b1b636f01bf45bebaa6d959e4b975d9caff7061ad47939298d3337e050930",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3676,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Post Reporters",
+      "title": "Zika cases prompt health alert",
+      "description": "Residents of Prachuap Khiri Khan are being warned to remain cautious after six cases of the Zika virus were diagnosed in the province.",
+      "url": "https://www.bangkokpost.com/thailand/general/2704058/zika-cases-prompt-health-alert",
+      "urlToImage": "https://static.bangkokpost.com/media/content/20231212/c1_2704058_231212202809_700.jpeg",
+      "publishedAt": "2023-12-12 14:14:00",
+      "content": "Residents of Prachuap Khiri Khan are being warned to remain cautious after six cases of the Zika virus were diagnosed in the province. Public health officials in Muang district on Tuesday led an eff\u2026 [+842 chars]",
+      "retrievedAt": "2023-12-13 19:05:31.076502",
+      "internal_id": "779d89051e7ed1ea78671be81665afc1e1533cc8c668cecffe15f619153a2a47",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3674,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Danny Xuan-Rong Koh, Mohamed Afiq Hidayat Zailani, Raja Zahratul Azma Raja Sabudin, Sanggari Muniandy, Nur Awatif Akmal Muhamad Hata, Siti Noor Baya Mohd Noor, Norhazilah Zakaria, Ainoon Othman, Endom Ismail",
+      "title": "Prevalence and molecular heterogeneity of glucose-6-phosphate dehydrogenase (G6PD) deficiency in the Senoi Malaysian Orang Asli population",
+      "description": "Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an X-linked genetic disorder characterized by reduced G6PD enzyme levels in the blood. This condition is common in populations exposed to malaria; an acute febrile disease caused by Plasmodium parasites. \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294891",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0294891.g001&size=inline",
+      "publishedAt": "2023-12-12 14:00:00",
+      "content": "Abstract Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an X-linked genetic disorder characterized by reduced G6PD enzyme levels in the blood. This condition is common in populations exposed\u2026 [+30339 chars]",
+      "retrievedAt": "2023-12-13 19:05:30.874363",
+      "internal_id": "a0099385ea0fecb8b9f0c539b446b28164e8f9347b9aa45d9e49614a3fc47506",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3677,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Pilar P\u00e9rez",
+      "title": "En cuatro de cada diez casos espa\u00f1oles de viruela del mono hab\u00eda infecci\u00f3n por VIH",
+      "description": "La anta\u00f1o denominada (y m\u00e1s conocida) por viruela del mono, hoy Mpox, ya est\u00e1 considerada una infecci\u00f3n de transmisi\u00f3n sexual (ITS). En 2022, en plena convivencia con las...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2023/12/12/65782592e85ece80478b45a1.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/b5fc26f3ad40700a9379741b58da35af/crop/93x19/2657x1728/resize/1200/f/webp/assets/multimedia/imagenes/2023/12/12/17023726322195.jpg",
+      "publishedAt": "2023-12-12 13:03:09",
+      "content": "La anta\u00f1o denominada (y m\u00e1s conocida) por viruela del mono, hoy Mpox, ya est\u00e1 considerada una infecci\u00f3n de transmisi\u00f3n sexual (ITS). En 2022, en plena convivencia con las \u00faltimas olas del Covid, surg\u2026 [+4908 chars]",
+      "retrievedAt": "2023-12-13 19:05:31.841119",
+      "internal_id": "414f4f05fa01e57ed20fb93db1307598defc9830b67f5955c62012e79db55cd3",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3665,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Tim Dale",
+      "title": "Health leaders raise concern over measles",
+      "description": "Peoplw are being urged to ensure they and their children are fully vaccinated.",
+      "url": "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-67680944",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48EB/production/_131976681_gettyimages-1358974427.jpg",
+      "publishedAt": "2023-12-12 08:56:54",
+      "content": "Health leaders have urged people to ensure they are up to date with their vaccinations due to a rise in measles cases. The Humber and North Yorkshire Health and Care Partnership said it was importan\u2026 [+1808 chars]",
+      "retrievedAt": "2023-12-13 19:05:29.586410",
+      "internal_id": "6124bbf5bbb9b928df5dbff9141a6bd2fd8c361eff75b8e1e97a00b28f835ebc",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3670,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "Sofia Eriksson/TT",
+      "title": "S\u00e5gar oljelobby: Som myggor p\u00e5 malariakonferens",
+      "description": "M\u00e4nsklighetens livb\u00e5t sjunker om inte COP28 tar modiga beslut om framtiden f\u00f6r olja, kol och naturgas, enligt aktivisten Vanessa Nakate. Men en rekordstor fossillobby har varit p\u00e5 plats p\u00e5 klimatm\u00f6tet i Dubai. \u2013 Varf\u00f6r? Myggor bjuds inte in p\u00e5 en konferens f\u00f6\u2026",
+      "url": "https://www.svd.se/a/abzAM5/sagar-oljelobby-som-myggor-pa-malariakonferens",
+      "urlToImage": "https://svd.vgc.no/v2/images/4f7c8bc8-bb51-4839-aa80-e180183c35b2?h=630&q=80&upscale=true&w=1200&s=e1f58229c30a10a978c900d13bbe207d06a93a69",
+      "publishedAt": "2023-12-12 08:55:15",
+      "content": "I n\u00e4stan tv\u00e5 veckor har runt 90 000 m\u00e4nniskor samlats under den br\u00e4nnande \u00f6kensolen i Dubai f\u00f6r att diskutera framtiden p\u00e5 en allt varmare planet. Nu g\u00e5r det st\u00f6rsta klimattoppm\u00f6tet hittills mot sitt\u2026 [+363 chars]",
+      "retrievedAt": "2023-12-13 19:05:30.852535",
+      "internal_id": "fa0e5880b3ee055655e3d8dcafeab7afa615161169e3b2921a71fa3da6ae6a01",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3673,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "S\u00e5gar oljelobby: Som myggor p\u00e5 malariakonferens",
+      "description": "M\u00e4nsklighetens livb\u00e5t sjunker om inte COP28 tar modiga beslut om framtiden f\u00f6r olja, kol och naturgas, enligt aktivisten Vanessa Nakate. Men en rekordstor fossi",
+      "url": "https://www.aftonbladet.se/nyheter/a/BWQ8Lg/sagar-oljelobby-som-myggor-pa-malariakonferens",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/e6aa7a75-f2ca-4fdc-a4d8-e1bac678292a?fit=crop&format=auto&h=1267&q=50&w=1900&s=0494d8ba710d330da7e415e4c1b4586495e6d460",
+      "publishedAt": "2023-12-12 08:55:14",
+      "content": "Aktivisten Vanessa Nakate efterlyser modiga beslut p\u00e5 COP28.1 / 2Foto: Henrik Montgomery/TT M\u00e4nsklighetens livb\u00e5t sjunker om inte COP28 tar modiga beslut om framtiden f\u00f6r olja, kol och naturgas, enl\u2026 [+2953 chars]",
+      "retrievedAt": "2023-12-13 19:05:30.870265",
+      "internal_id": "0323b17ef6bde7f3b9643948e135aa4d156a8737444910ffa1b4b3d437834b7e",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3671,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nyteknik.se",
+      "author": "TT",
+      "title": "Aktivist p\u00e5 COP28 s\u00e5gar oljelobby: Som myggor p\u00e5 malariakonferens",
+      "description": "M\u00e4nsklighetens livb\u00e5t sjunker om inte COP28 tar modiga beslut om framtiden f\u00f6r olja, kol och naturgas, enligt aktivisten Vanessa Nakate.",
+      "url": "https://www.nyteknik.se/inrikes/aktivist-pa-cop28-sagar-oljelobby-som-myggor-pa-malariakonferens/4220094",
+      "urlToImage": "https://image.nyteknik.se/4220097.jpg?imageId=4220097&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
+      "publishedAt": "2023-12-12 08:54:40",
+      "content": "Men en rekordstor fossillobby har varit p\u00e5 plats p\u00e5 klimatm\u00f6tet i Dubai. Varf\u00f6r? Myggor bjuds inte in p\u00e5 en konferens f\u00f6r att bota malaria. I n\u00e4stan tv\u00e5 veckor har runt 90000 m\u00e4nniskor samlats und\u2026 [+2737 chars]",
+      "retrievedAt": "2023-12-13 19:05:30.858866",
+      "internal_id": "5bb7a46399d524e0d77228bc13437153b8ea4a899c6818cab6723b04204efa40",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3675,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ing.dk",
+      "author": "Mie Stage",
+      "title": "Flere stikkes af malariamyg, der stortrives i varmt klima",
+      "description": "Antallet af malariasmittede bliver ved med at stige, og selvom der endelig er kommet virksomme vacciner, har myggene f\u00e5et bedre vilk\u00e5r.",
+      "url": "https://ing.dk/artikel/flere-stikkes-af-malariamyg-der-stortrives-i-varmt-klima",
+      "urlToImage": "https://ing.dk/sites/mi/files/styles/open_graph_image_16_9/public/2021-10/44648.jpg?itok=p5GchPjs",
+      "publishedAt": "2023-12-12 08:51:00",
+      "content": "Op mod en kvart million mennesker blev i 2022 smittet med malariaparasitten, og det er et tal i stigning. Blandt andet har resistens over for b\u00e5de medicin og insektmidler gjort det sv\u00e6rere at b\u00e5de b\u2026 [+5409 chars]",
+      "retrievedAt": "2023-12-13 19:05:30.883428",
+      "internal_id": "ed93930066ea062c9d5b8c5cbb9aa0aa487c121beb2b94f07da9d547ede47064",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3672,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Kisii, Nyamira Residents to Benefit From Treated Mosquito Nets",
+      "description": "[Capital FM] Nairobi -- Residents in Nyamira and Kisii are set to benefit from treated mosquito nets in line with the malaria elimination campaign.",
+      "url": "https://allafrica.com/stories/202312120055.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-12 07:16:11",
+      "content": "Nairobi \u2014 Residents in Nyamira and Kisii are set to benefit from treated mosquito nets in line with the malaria elimination campaign. According to the Ministry of Health, twenty two counties includi\u2026 [+1146 chars]",
+      "retrievedAt": "2023-12-13 19:05:30.864612",
+      "internal_id": "6107f56334796eb80b47cc4b304569ee3ce6279707de2770b446bf9da5bb8ce0",
+      "publishedAtLabel": "Dec 12"
+    },
     {
       "id": 3660,
       "query": [
@@ -55,6 +289,24 @@
       "content": "Se cumplen dos meses desde que el director de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, anunciase la aprobaci\u00f3n de una segunda vacuna contra la malaria, la 'R21/Matrix-M'\u2026 [+3136 chars]",
       "retrievedAt": "2023-12-13 07:05:55.469681",
       "internal_id": "d3adc0160f19659718f7a27891467ca270d9bfacb23008ccf5d26e9092e0e2d3",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3667,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Emergence of Dengue Virus Serotype 2 Cosmopolitan Genotype, Colombia",
+      "description": "Emergence of Dengue Virus Serotype 2 Cosmopolitan Genotype, Colombia",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/1/23-0972_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-12-12 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue fever is a viral di\u2026 [+6434 chars]",
+      "retrievedAt": "2023-12-13 19:05:30.009256",
+      "internal_id": "f7a8ff4d4f4483bc6d12f9bb9171d2981274ebe03bdfb693eb10d5f00e261abe",
       "publishedAtLabel": "Dec 12"
     },
     {
@@ -3366,258 +3618,6 @@
       "retrievedAt": "2023-12-03 19:05:21.416365",
       "internal_id": "64bed15cb0dd20d79b0f4514675c3a87c66365a7da9d7a018fdd87577d12959d",
       "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3475,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Gazeta.pl",
-      "author": "Clare Roth / Deutsche Welle",
-      "title": "Drastycznie wzros\u0142a liczba przypadk\u00f3w dengi w Europie. Przyczyn jest kilka",
-      "description": "W 2023 roku w Europie odnotowano najwy\u017csz\u0105 od niemal 80 lat liczb\u0119 lokalnie przenoszonych zaka\u017ce\u0144 wirusem dengi. Wed\u0142ug ekspert\u00f3w jest wiele mo\u017cliwych wyja\u015bnie\u0144 dla wzrostu przypadk\u00f3w lokalnie przenoszonej dengi w 2023 roku, ale jasnej odpowiedzi jak dot\u0105d ni\u2026",
-      "url": "https://wiadomosci.gazeta.pl/wiadomosci/7,127561,30463961,rosnie-liczba-przypadkow-dengi-w-europie.html",
-      "urlToImage": "https://bi.im-g.pl/im/a5/0d/1d/z30464677IER,Test-na-denge.jpg",
-      "publishedAt": "2023-12-01 16:02:00",
-      "content": "Przypadki dengi powi\u0105zane (podobnie jak malaria) z podr\u00f3\u017cami nie s\u0105 w Europie rzadko\u015bci\u0105. Ludzie wracaj\u0105 do domu z obszaru zagro\u017conego jej wyst\u0119powaniem, zaka\u017caj\u0105 si\u0119 wirusem dengi, choruj, kilka dni\u2026 [+6608 chars]",
-      "retrievedAt": "2023-12-02 19:05:14.943806",
-      "internal_id": "75437015a56f2734188bae01a49944dcfcf08fef43fa855759dc06d8499d2106",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3473,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Sabine Schmidt, Jan Stephan Wichers-Misterek, Hannah Michaela Behrens, Jakob Birnbaum, Isabelle G. Henshall, Jana Dr\u00f6ge, Ernst Jonscher, Sven Flemming, Carolina Castro-Pe\u00f1a, Paolo Mes\u00e9n-Ram\u00edrez, Tobias Spielmann",
-      "title": "The Kelch13 compartment contains highly divergent vesicle trafficking proteins in malaria parasites",
-      "description": "Author summary Malaria parasites growing in red blood cells take up host cell cytosol by a poorly understood endocytic mechanism. Kelch13, the protein mutated in parasites with lowered susceptibility to Artemisinin-drugs (ART), is involved in this process and\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011814",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011814.g005&size=inline",
-      "publishedAt": "2023-12-01 14:00:00",
-      "content": "Introduction Malaria, caused by protozoan parasites of the genus Plasmodium, is one of the deadliest infectious diseases, responsible for an estimated 627 000 deaths and 241 million cases in 2020 [1\u2026 [+102880 chars]",
-      "retrievedAt": "2023-12-02 19:05:14.919109",
-      "internal_id": "c09685d092514604928d3ff65f10cbdd494e2c64d35471d6e68892043ad9224d",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3474,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Tadesse Duguma, Dessalew Wudineh, Aberash Assefa, Nebeyi Fisseha, Dassalegn Muleta",
-      "title": "Malaria prevalence and associated factors among symptomatic children aged under five years attending Sheko District Health Center, Southwest Ethiopia: A cross-sectional study",
-      "description": "Background Malaria is a major cause of morbidity and mortality in children under the age of five worldwide. Although various malaria elimination measures have been implemented over the past decades, malaria remains a serious threat to public health, especiall\u2026",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295237",
-      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0295237.g001&size=inline",
-      "publishedAt": "2023-12-01 14:00:00",
-      "content": "Abstract Background Malaria is a major cause of morbidity and mortality in children under the age of five worldwide. Although various malaria elimination measures have been implemented over the pas\u2026 [+37177 chars]",
-      "retrievedAt": "2023-12-02 19:05:14.933182",
-      "internal_id": "4959c8a65dbfc34eb06966f5341d6833a7683c2c5d7f76f6bdcfd2752641b969",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3479,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Wiadomosci.wp.pl",
-      "author": "KAR",
-      "title": "Alarmuj\u0105ce doniesienia. Zaka\u017ana choroba rozprzestrzenia si\u0119 w Europie",
-      "description": "W 2023 roku w Europie odnotowano najwy\u017csz\u0105 od niemal 80 lat liczb\u0119 lokalnie przenoszonych zaka\u017ce\u0144 wirusem dengi.",
-      "url": "https://wiadomosci.wp.pl/alarmujace-doniesienia-zakazna-choroba-rozprzestrzenia-sie-w-europie-6969077627911040a",
-      "urlToImage": "https://v.wpimg.pl/ODQzNDg1YCUwGDh3SEptMHNAbC0OE2NmJFh0ZkgAfXRhAmEiDl0qNjQKIWoAQzo0MA0-ahddYCUhE2EyVh4rLSIKIiUeHiopMx8qa1RTKiI0HntySggucGJXeiVTUGJ8Z0t_aV5SLHxlSXp8UlR5c3MH",
-      "publishedAt": "2023-12-01 13:36:53",
-      "content": "Przypadki dengi powizane (podobnie jak malaria) z podr\u00f3ami nie s w Europie rzadkoci. Ludzie wracaj do domu z obszaru zagroonego jej wystpowaniem, zakaaj si wirusem dengi, choruj, kilka dni odpoczywaj\u2026 [+6445 chars]",
-      "retrievedAt": "2023-12-03 07:05:33.073695",
-      "internal_id": "dbe74f69f0014fcdf5f1ce0498671b5b25bfe2214fbffc83a33364a344d2b3be",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3472,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Elisabeth Mahase",
-      "title": "Malaria: Climate change poses \u201csubstantial risk to progress,\u201d WHO warns",
-      "description": "A \u201csubstantial pivot\u201d is needed to get the fight against malaria back on track after a pause in progress, the World Health Organization has warned.1There were an estimated 249 million malaria cases globally in 2022\u201416 million more than in 2019 (233m)\u2014said WHO\u2026",
-      "url": "https://www.bmj.com/content/383/bmj.p2848",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/383/8409.cover-source.jpg",
-      "publishedAt": "2023-12-01 13:01:09",
-      "content": "A substantial pivot is needed to get the fight against malaria back on track after a pause in progress, the World Health Organization has warned.1 There were an estimated 249 million malaria cases g\u2026 [+208 chars]",
-      "retrievedAt": "2023-12-02 19:05:14.905492",
-      "internal_id": "96ebcb5f59eb5bac9dc7426db077b744ad1e1338430434e18711fc3774a8cb4c",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3477,
-      "query": [
-        "zika"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Simple-to-apply, needle-free vaccine patch developed against Zika infection",
-      "description": "Limited global surveillance shows Zika virus is active in at least 89 countries and territories but there is no currently licensed vaccine, said Branka Grubor-Bauk, an Associate Professor at the University of Adelaide. \"This vaccine is unique because it targe\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/simple-to-apply-needle-free-vaccine-patch-developed-against-zika-infection/articleshow/105655286.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-105655322,width-1200,height-630,imgsize-14106,overlay-economictimes/photo.jpg",
-      "publishedAt": "2023-12-01 10:27:20",
-      "content": "Scientists have developed a simple-to-apply, needle-free vaccine patch that may protect people from the potentially deadly mosquito-borne Zika virus. The experimental vaccine developed by researchers\u2026 [+2817 chars]",
-      "retrievedAt": "2023-12-02 19:05:15.328571",
-      "internal_id": "30e30e5e70f6f2d7538a6fd4c157e49ceaa7e3004e5ffea3036ad43df3b3fe26",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3471,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Faz.net",
-      "author": "AFP",
-      "title": "Stiko empfiehlt Impfstoff gegen Dengue nach vorheriger Infektion",
-      "description": "Die St\u00e4ndige Impfkommission hat eine Impfung gegen Dengue-Fieber empfohlen. Gerade Zweitinfektionen der Tropenkrankheit sind gef\u00e4hrlich.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/stiko-empfiehlt-dengue-imfpung-nach-vorheriger-infektion-19353121.html",
-      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/2622988358/1.9353149/facebook_teaser/dengue-fieber-wird-durch.jpg",
-      "publishedAt": "2023-12-01 08:53:49",
-      "content": "Die St\u00e4ndige Impfkommission (Stiko) hat erstmals einen Impfstoff gegen Dengue-Fieber empfohlen. Der neue Impfstoff Qdenga werde Personen ab vier Jahren empfohlen, die bereits eine labordiagnostisch b\u2026 [+1491 chars]",
-      "retrievedAt": "2023-12-02 19:05:14.056457",
-      "internal_id": "0fd957a76f475a17890d0f8d5a0792daa00f802fb2b1136b45e43f3b82a8014a",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3476,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "World at risk of losing malaria fight as cases rise, report says - Reuters",
-      "description": "World at risk of losing malaria fight as cases rise, report saysReuters Climate Change Drives New Cases of Malaria, Complicating Efforts to Fight the DiseaseThe New York Times Malaria cases surged last year, driven by extreme weather eventsThe Washington Post\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172343071",
-      "urlToImage": null,
-      "publishedAt": "2023-12-01 07:32:13",
-      "content": "\"Can you program?\" \"Well, I'm literate, if that's what you mean!\"",
-      "retrievedAt": "2023-12-02 19:05:14.951212",
-      "internal_id": "cc11ec308a1d52c6d11f220865cf20c625e785cdefe4d5f6c9baa554fba7507c",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3470,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-      "author": "En partenariat avec Destination Sant\u00e9",
-      "title": "Sant\u00e9. Variole du singe : faut-il craindre une explosion des cas dans le monde ?",
-      "description": "L\u2019Organisation mondiale de la Sant\u00e9 s\u2019inqui\u00e8te d\u2019une hausse des cas de variole du singe, d\u00e9sormais nomm\u00e9e Mpox, en R\u00e9publique d\u00e9mocratique du Congo et craint une propagation \u00e0 l\u2019\u00e9chelle mondiale.",
-      "url": "https://www.ledauphine.com/magazine-sante/2023/12/01/variole-du-singe-faut-il-craindre-une-explosion-des-cas-dans-le-monde",
-      "urlToImage": "https://cdn-s-www.ledauphine.com/images/44E502C9-846D-41D8-8526-9BFE1E1D6C47/FB1200/photo-1701357256.jpg",
-      "publishedAt": "2023-12-01 05:15:00",
-      "content": "\u00ab Le risque de propagation du Mpox aux pays voisins et dans le monde entier semble important \u00bb. L\u2019Organisation mondiale de la Sant\u00e9 (OMS) a alert\u00e9 jeudi 23 novembre sur la situation \u00e9pid\u00e9mie de Mpox \u2026 [+3310 chars]",
-      "retrievedAt": "2023-12-02 07:05:49.191840",
-      "internal_id": "c6c2cf5df6529dbe5c43a0c997bfa8a180da70b7d3cc87494283004b6932fce0",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3469,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: Climate Change Risks Upending Global Fight Against Malaria - WHO",
-      "description": "[UN News] Climate change and its impacts, particularly extreme weather and heatwaves, pose a \"substantial risk\" to progress being made to fight malaria, the UN World Health Organization (WHO) said on Thursday.",
-      "url": "https://allafrica.com/stories/202312010004.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-01 04:45:53",
-      "content": "Climate change and its impacts, particularly extreme weather and heatwaves, pose a \"substantial risk\" to progress being made to fight malaria, the UN World Health Organization (WHO) said on Thursday.\u2026 [+4079 chars]",
-      "retrievedAt": "2023-12-02 07:05:48.197637",
-      "internal_id": "07993aa9ff0ef488363ff5866732c652ff2041687d7c328839f4842782f0d351",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3468,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Per\u00edodo de calor e chuva multiplica casos de dengue em Campinas; veja 15 medidas de preven\u00e7\u00e3o",
-      "description": "Somentre entre outubro e a 1\u00aa quinzena de novembro, cidade registrou alta de 32,7% nos infectados, e ainda h\u00e1 600 casos em investiga\u00e7\u00e3o. Veja, abaixo, medidas preventivas contra o mosquito transmissor. Campinas (SP) refor\u00e7a import\u00e2ncia de combate aos criadour\u2026",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/11/30/periodo-de-calor-e-chuva-multiplica-casos-de-dengue-em-campinas-veja-15-medidas-de-prevencao.ghtml",
-      "urlToImage": "https://s2-g1.glbimg.com/Aa2OxfZvoUF1K96KIe9Xd-qwLms=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/8/O/B9DguGTESByAB7OuBAKA/dengue4.jpg",
-      "publishedAt": "2023-11-30 21:55:54",
-      "content": "A combina\u00e7\u00e3o entre calor e chuva cria um cen\u00e1rio ideal para prolifera\u00e7\u00e3o do mosquito Aedes aegypit e, com isso, os casos de dengue se multiplicam. Em Campinas (SP), o n\u00famero de infectados cresceu 32,\u2026 [+4102 chars]",
-      "retrievedAt": "2023-12-02 07:05:47.154376",
-      "internal_id": "0e0b7c17c88e1c29d5155a19a2c5597e0dc645115df76ca3f32511b9da127110",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3467,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Perfil.com",
-      "author": "Perfil Brasil",
-      "title": "S\u00e3o Paulo mobiliza popula\u00e7\u00e3o contra aedes aegypti",
-      "description": "Entre os dias 27 de setembro e 2 de dezembro, o governo estadual intensiva a conscientiza\u00e7\u00e3o das pessoas sobre o combate ao mosquito e a preven\u00e7\u00e3o de sua reprodu\u00e7\u00e3o",
-      "url": "https://brasil.perfil.com/brasil/sao-paulo-mobiliza-populacao-contra-aedes-aegypti.phtml",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/11/30/12317735-ebc.png",
-      "publishedAt": "2023-11-30 20:37:55",
-      "content": "O estado de S\u00e3o Paulo realiza nesta semana uma mobiliza\u00e7\u00e3o da popula\u00e7\u00e3o contra o mosquito aedes aegypti, momento que aproveita para alertar para a dificuldade de se discernir quadros de dengue, chiku\u2026 [+2860 chars]",
-      "retrievedAt": "2023-12-02 07:05:47.127993",
-      "internal_id": "28becac342275b44949f3adc8e408bd604a8a0f23d4f3e0124e10fd434fc4f8f",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3465,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "WHO's annual malaria report spotlights the growing threat of climate change - World Health Organization",
-      "description": "WHO's annual malaria report spotlights the growing threat of climate changeWorld Health Organization Climate Change Drives New Cases of Malaria, Complicating Efforts to Fight the DiseaseThe New York Times Malaria cases surged last year, driven by extreme weat\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172339281",
-      "urlToImage": null,
-      "publishedAt": "2023-11-30 18:33:09",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-01 19:05:41.627945",
-      "internal_id": "578ca9f22f15c7829c1219b9b7593995897707aed614dae8ec2c8dde000efa57",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3453,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Investing.com",
-      "author": "Reuters",
-      "title": "World at risk of losing malaria fight as cases rise, report says",
-      "description": "World at risk of losing malaria fight as cases rise, report says",
-      "url": "https://www.investing.com/news/world-news/world-at-risk-of-losing-malaria-fight-as-cases-rise-report-says-3247110",
-      "urlToImage": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
-      "publishedAt": "2023-11-30 17:02:22",
-      "content": "By Pratik Jain and Jennifer Rigby (Reuters) -The world is in danger of losing the fight against malaria, as cases of the disease rose by around 5 million year-on-year in 2022, exceeding global targe\u2026 [+1796 chars]",
-      "retrievedAt": "2023-12-01 19:05:41.569817",
-      "internal_id": "7f22a8f5a7d6e9f8733dc8b849f2e7ddf9f6dab0e7530a80dd7eca78167e7926",
-      "publishedAtLabel": "Nov 30"
     }
   ]
 }
