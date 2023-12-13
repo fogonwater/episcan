@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-12-12 19:05",
+  "last_updated": "2023-12-13 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 13,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 3660,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Tim Dale",
+      "title": "Health leaders raise concern over measles",
+      "description": "Peoplw are being urged to ensure they and their children are fully vaccinated.",
+      "url": "https://www.bbc.com/news/uk-england-york-north-yorkshire-67680944",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48EB/production/_131976681_gettyimages-1358974427.jpg",
+      "publishedAt": "2023-12-12 06:34:38",
+      "content": "The main symptoms of measles re a fever and a rash Health leaders have urged people to ensure they are up to date with their vaccinations due to a rise in measles cases. The Humber and North Yorksh\u2026 [+2551 chars]",
+      "retrievedAt": "2023-12-13 07:05:54.092251",
+      "internal_id": "7799933b327f33f7000465b314948cf0f04bb10330de12fc9e290f6af5877a4b",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3664,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Diariomotor.com",
+      "author": "Emmanuel Jim\u00e9nez",
+      "title": "El cambio clim\u00e1tico podr\u00eda haber contribuido a la reaparici\u00f3n de la amenaza de la malaria",
+      "description": "El cambio clim\u00e1tico se ha convertido en gran foco de debate por m\u00faltiples motivos. Exagerado por algunos en busca de provecho propio, y negado por otros guiados por la misma raz\u00f3n, se hace dif\u00edcil incluso saber en qu\u00e9 informaci\u00f3n confiar. Sin embargo, la real\u2026",
+      "url": "https://www.diariomotor.com/energia-sostenibilidad/cambio-climatico-malaria-oms/",
+      "urlToImage": "https://www.diariomotor.com/wp-content/themes/diariomotor2014/images/logo-diariomotor-black.png",
+      "publishedAt": "2023-12-12 06:00:26",
+      "content": "El cambio clim\u00e1tico se ha convertido en gran foco de debate por m\u00faltiples motivos. Exagerado por algunos en busca de provecho propio, y negado por otros guiados por la misma raz\u00f3n, se hace dif\u00edcil in\u2026 [+4189 chars]",
+      "retrievedAt": "2023-12-13 07:05:55.473749",
+      "internal_id": "dca9ff316272be954a247daf3cdbf02027592b6b16997d2efaa2548b6bdb15ef",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3663,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Jorge \u00c1lvarez",
+      "title": "La revolucionaria vacuna de dos euros para combatir la enfermedad de 240 millones de personas",
+      "description": "Se cumplen dos meses desde que el director de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, anunciase la aprobaci\u00f3n de una segunda vacuna contra la malaria, la 'R21/Matrix-M', que es igual de eficaz que la primera y que po\u2026",
+      "url": "https://www.huffingtonpost.es/life/salud/la-revolucionaria-vacuna-dos-euros-combatir-enfermedad-240-millones-personas.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2023/12/12/un-bebe-recibe-una-dosis-de-la-vacuna-de-la-malaria-en-kenia.jpeg",
+      "publishedAt": "2023-12-12 05:36:03",
+      "content": "Se cumplen dos meses desde que el director de la Organizaci\u00f3n Mundial de la Salud (OMS), Tedros Adhanom Ghebreyesus, anunciase la aprobaci\u00f3n de una segunda vacuna contra la malaria, la 'R21/Matrix-M'\u2026 [+3136 chars]",
+      "retrievedAt": "2023-12-13 07:05:55.469681",
+      "internal_id": "d3adc0160f19659718f7a27891467ca270d9bfacb23008ccf5d26e9092e0e2d3",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3662,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "HSE confirms \u2018serious failings\u2019 in care of teenager Aoife Johnston who died after 12-hour hospital wait with meningitis",
+      "description": "A report found \u201cserious failings\u201d in the care of a teenager who died of meningitis after a 12-hour wait in an overcrowded hospital emergency department, the HSE has said.",
+      "url": "https://www.independent.ie/irish-news/hse-confirms-serious-failings-in-care-of-teenager-aoife-johnston-who-died-after-12-hour-hospital-wait-with-meningitis/a1767608911.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/wFxAH7A8hs0yzE2_mmYWRmy3pc0=/60x0:735x450/675x450/prod-mh-ireland/bdde5298-1bfa-4b13-9c1a-3ce36ab1308d/f59c016f-d254-4d4e-a64d-8bca22f783a5/video/video.jpg",
+      "publishedAt": "2023-12-12 02:30:00",
+      "content": "A report found serious failings in the care of a teenager who died of meningitis after a 12-hour wait in an overcrowded hospital emergency department, the HSE has said.It comes as a leading emergency\u2026 [+2827 chars]",
+      "retrievedAt": "2023-12-13 07:05:54.864832",
+      "internal_id": "acbbb19cefe6c1e459659308ebe41e07e96ef175f127754fda40744cffa5aa9e",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3661,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N SALUD",
+      "title": "Dengue en aumento: Colombia busca soluciones en foro acad\u00e9mico en Cartagena",
+      "description": "El 2023 prendi\u00f3 las alertas por casos de dengue en Colombia, afectando a los pobladores de 825 municipios de todo el pa\u00eds.",
+      "url": "https://www.eluniversal.com.co/salud/dengue-en-aumento-colombia-busca-soluciones-en-foro-academico-en-cartagena-AB9614112",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/229c1/800d686/none/13704/RTPN/foro-dengue_9126085_20231211170328.png",
+      "publishedAt": "2023-12-11 22:05:11",
+      "content": "El 2023 prendi\u00f3 las alertas por casos de dengue en Colombia, afectando a los pobladores de 825 municipios de todo el pa\u00eds. Seg\u00fan el \u00faltimo bolet\u00edn epidemiol\u00f3gico de dengue del Instituto Nacional de \u2026 [+3807 chars]",
+      "retrievedAt": "2023-12-13 07:05:54.583146",
+      "internal_id": "ea6cad36136e44b0f5f83000c6fc57d0387499822faac2e06632fbc76a35d0af",
+      "publishedAtLabel": "Dec 11"
+    },
     {
       "id": 3656,
       "query": [
@@ -3527,98 +3617,6 @@
       "content": "By Pratik Jain and Jennifer Rigby (Reuters) -The world is in danger of losing the fight against malaria, as cases of the disease rose by around 5 million year-on-year in 2022, exceeding global targe\u2026 [+1796 chars]",
       "retrievedAt": "2023-12-01 19:05:41.569817",
       "internal_id": "7f22a8f5a7d6e9f8733dc8b849f2e7ddf9f6dab0e7530a80dd7eca78167e7926",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3464,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Climate crisis a \u2018substantial risk\u2019 to fight against malaria, says WHO - The Guardian",
-      "description": "Climate crisis a \u2018substantial risk\u2019 to fight against malaria, says WHOThe Guardian Climate Change Drives New Cases of Malaria, Complicating Efforts to Fight the DiseaseThe New York Times Malaria cases surged last year, driven by extreme weather eventsThe Wash\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172338681",
-      "urlToImage": null,
-      "publishedAt": "2023-11-30 16:52:04",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-01 19:05:41.624573",
-      "internal_id": "5b41fd9daaf872bbf4e6d9f7ce84b2899a6dad523799bc1118d9da2cb5ab41c5",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3441,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "Ter tido zika aumenta o risco de dengue grave, diz estudo brasileiro",
-      "description": "Segundo a pesquisa, ter tido zika antes de ser infectado pelo v\u00edrus da dengue pode ser um agravante para quadros hemorr\u00e1gicos da doen\u00e7a",
-      "url": "https://www.metropoles.com/saude/zika-sobe-o-risco-de-dengue-grave",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2017/09/26173741/aeds-dengue-zika_fp00761-e1448660675107-840x577.jpg",
-      "publishedAt": "2023-11-30 16:50:06",
-      "content": "J\u00e1 estava provado e \u00e9 bastante conhecido que, ap\u00f3s uma primeira infec\u00e7\u00e3o pelo v\u00edrus dengue, o risco de apresentar quadros mais graves nas infec\u00e7\u00f5es seguintes aumenta. Agora, pesquisadores da Faculdad\u2026 [+5553 chars]",
-      "retrievedAt": "2023-12-01 19:05:40.288673",
-      "internal_id": "7c6ad6d16888973d5465f0561c4c537cbd474a49c27fd3b67d402ac53eb2fc75",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3439,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Simone Blanes",
-      "title": "Al\u00e9m do mosquito transmissor, o que a zika tem a ver com a dengue?",
-      "description": "Novo estudo demonstra que a infec\u00e7\u00e3o pelo v\u00edrus da zika eleva o risco de caso grave ou interna\u00e7\u00e3o por dengue na sequ\u00eancia",
-      "url": "https://veja.abril.com.br/saude/alem-do-mosquito-transmissor-o-que-a-zika-tem-a-ver-com-a-dengue",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2016/05/dengue-20120709-original5.jpeg?quality=90&strip=info&w=620&h=349&crop=1",
-      "publishedAt": "2023-11-30 16:25:39",
-      "content": "BLACK FRIDAY: ASSINE a partir de R$ 1 por semanaContinua ap\u00f3s publicidade Novo estudo demonstra que a infec\u00e7\u00e3o pelo v\u00edrus da zika eleva o risco de caso grave ou interna\u00e7\u00e3o por dengue na sequ\u00eancia P\u2026 [+7693 chars]",
-      "retrievedAt": "2023-12-01 19:05:40.259831",
-      "internal_id": "ae2967381de393912eff4652436d00514a03245f8e768ab43250446c21b18149",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3451,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Peter Sands, Contributor, \n Peter Sands, Contributor\n https://www.forbes.com/sites/petersands/",
-      "title": "We Must Not Let Climate Change Derail The Fight Against Malaria",
-      "description": "The world is at a defining moment in the fight against malaria. More than ever, we are at risk of losing our battle against this disease.",
-      "url": "https://www.forbes.com/sites/petersands/2023/11/30/we-must-not-let-climate-change-derail-the-fight-against-malaria/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6568abb5bb19a9d5d245a68b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-30 16:01:33",
-      "content": "On 3 November 2022 in Jacobabad, Sindh province, Pakistan, Aneefa Bibi holds her 5-year-old ... [+] daughter, Hood, who is experiencing fever and chest pains. These villages need the most attention a\u2026 [+6196 chars]",
-      "retrievedAt": "2023-12-01 19:05:41.557755",
-      "internal_id": "05a26850cb823071d2e02755d45af2300e6fa150c4299562369c6d05511f6545",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3466,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "The Star Online",
-      "title": "Five new cases of mpox detected since October",
-      "description": "PUTRAJAYA: Five new cases of mpox (formerly known as monkeypox), involving local men, have been detected in the country, bringing the cumulative number of cases to nine. Read full story",
-      "url": "https://www.thestar.com.my/news/nation/2023/12/01/five-new-cases-of-mpox-detected-since-october",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/12/01/2416669.jpeg",
-      "publishedAt": "2023-11-30 16:00:00",
-      "content": "PUTRAJAYA: Five new cases of mpox (formerly known as monkeypox), involving local men, have been detected in the country, bringing the cumulative number of cases to nine. Health director-general Datu\u2026 [+1321 chars]",
-      "retrievedAt": "2023-12-01 19:05:42.621014",
-      "internal_id": "8960dd0fa4a81296a50691493c1a66d47b9d9f1887ed0021da329126dddf4bbb",
       "publishedAtLabel": "Nov 30"
     }
   ]
