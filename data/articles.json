@@ -1,8 +1,170 @@
 {
-  "last_updated": "2023-12-13 19:05",
+  "last_updated": "2023-12-14 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 14,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 3684,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": "D\u00e1nica Coto",
+      "title": "Millions infected with dengue as hotter temperatures cause virus to flare",
+      "description": "Dengue is sweeping across the Western Hemisphere in numbers not seen since record-keeping began in 1980 as experts warn that rising temperatures and rapid urbanization are accelerating the pace of infections. A record more than 4 million cases have been repor\u2026",
+      "url": "https://apnews.com/article/dengue-deaths-vaccines-western-hemisphere-paho-628eb1247f741c66e34e55b04facf7e2",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b9c0df9/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdf%2F52%2F23fa8a861732e57bd34a03185345%2F0667af52d4f648e6925c95fdb36dde86",
+      "publishedAt": "2023-12-13 05:34:11",
+      "content": "SAN JUAN, Puerto Rico (AP) Dengue is sweeping across the Western Hemisphere in numbers not seen since record-keeping began more than four decades ago, with experts warning that rising temperatures an\u2026 [+8213 chars]",
+      "retrievedAt": "2023-12-14 07:05:50.259355",
+      "internal_id": "06078b0e8cf4e96944f9686dc7214a22cd433b18217c03d160d60e527798abd4",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 3679,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016\u20132022",
+      "description": "Bordetella pertussis, Shanghai, China, 2016\u20132022",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-12-13 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Whooping cough (pertussis)\u2026 [+24072 chars]",
+      "retrievedAt": "2023-12-14 07:05:49.399392",
+      "internal_id": "0880c8f37d16edbc59578a596a21cdecf66cf219ef97504540f7eba6094ce175",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 3687,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Butantan pede autoriza\u00e7\u00e3o para o uso da vacina contra a chikungunya no Brasil",
+      "description": "O Instituto Butantan enviou para a Anvisa, nesta ter\u00e7a-feira (12), o pedido de autoriza\u00e7\u00e3o para o uso da vacina contra chikungunya no Brasil. ...",
+      "url": "https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/butantan-pede-autorizacao-para-o-uso-da-vacina-contra-a-chikungunya-no-brasil-13122023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/12/13/657928e74b4955f2300005a5/1bd0f4af29cb46c88462692021355d72__2377589_EPP_1312_BOLETIMJR_VACINA_CHIKUNGUNYA_thumb.jpg",
+      "publishedAt": "2023-12-13 00:55:33",
+      "content": "O Instituto Butantan enviou para a Anvisa, nesta ter\u00e7a-feira (12), o pedido de autoriza\u00e7\u00e3o para o uso da vacina contra chikungunya no Brasil. A vacina \u00e9 uma parceria entre o Butantan e uma empresa de\u2026 [+31 chars]",
+      "retrievedAt": "2023-12-14 07:05:51.367783",
+      "internal_id": "40f0b62cdf8f69afc81ee43d4c1a337644e82c2acd12d17ec0a995fbda6901cb",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 3685,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Alexander Zika, Mohit Agarwal, Wiebke Zika, Dirk M. Guldi, Ralf Schweins, Franziska Groehn",
+      "title": "Photoacid-Macroion Assemblies: How Photo-Excitation Switches the Size of Nano-Objects",
+      "description": "Nanoscale, 2024, Accepted ManuscriptDOI: 10.1039/D3NR04570F, PaperAlexander Zika, Mohit Agarwal, Wiebke Zika, Dirk M. Guldi, Ralf Schweins, Franziska GroehnElectrostatic self-assembly of photoacids with oppositely charged macroions yields supramolecular nano-\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2024/nr/d3nr04570f",
+      "urlToImage": null,
+      "publishedAt": "2023-12-13 00:00:00",
+      "content": "Electrostatic self-assembly of photoacids with oppositely charged macroions yields supramolecular nano-objects in aqueous solutions, whose size is controlled through light irradiation. Nano-assemblie\u2026 [+1433 chars]",
+      "retrievedAt": "2023-12-14 07:05:51.200667",
+      "internal_id": "a5530efc91fe31c71ada847216e69aa912b1e6ee113cf0ac03a76cda877e73b4",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 3680,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "lavg@bt.dk (Lasse V\u00f8ge)",
+      "title": "B.T.s sportskommentator: 'Tak for at give fuckfinger til middelm\u00e5digheden'",
+      "description": "- For hvad g\u00f8r man, n\u00e5r man er en gravhund i en flok af sch\u00e6fere? S\u00e5 g\u00f8r man som besat og opf\u00f8rer sig generelt som en rabies-ramt rottweiler.",
+      "url": "https://www.bt.dk/fodbold/bts-sportskommentator-tak-for-at-give-fuckfinger-til-middelmaadigheden",
+      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/210/2100316/24592903-ccc.jpg",
+      "publishedAt": "2023-12-12 22:20:30",
+      "content": "FC K\u00f8benhavn leverede fodboldmiraklet og gjorde det, som var det en selvf\u00f8lgelighed. De gjorde det fandeme! Selv da presset var st\u00f8rst i den afg\u00f8rende kamp i Parken, serverede FC K\u00f8benhavn det n\u00f8dve\u2026 [+2456 chars]",
+      "retrievedAt": "2023-12-14 07:05:49.552263",
+      "internal_id": "50a883319e197a945fbdbad100d533df2a4121c091d001327dd9a03ec5b8b96f",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3681,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Katherine Hignett, Senior Contributor, \n Katherine Hignett, Senior Contributor\n https://www.forbes.com/sites/katherinehignett-1/",
+      "title": "U.K. At Risk Of Tropical Diseases If Temperatures Rise",
+      "description": "Potentially fatal dengue could become endemic in London by 2060 as the effects of climate change intensify.",
+      "url": "https://www.forbes.com/sites/katherinehignett/2023/12/12/uk-at-risk-of-tropical-diseases-if-temperatures-rise/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6578a3041cfe5e60331f634f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-12-12 21:27:49",
+      "content": "A blood-engorged female Aedes albopictus mosquito feeding on a human host in 2002. Getty Images Tropical diseases could become relatively common in parts of the U.K. by 2060 without decisive action\u2026 [+3157 chars]",
+      "retrievedAt": "2023-12-14 07:05:50.226426",
+      "internal_id": "beea9433d97300337b3d5d0da7989acf4fdefef1ee849eac40561de9b11653ad",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3682,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Voz de Am\u00e9rica - Redacci\u00f3n)",
+      "title": "Las 5 principales noticias de Venezuela hoy: estiman inflaci\u00f3n en 2024; fumigan por dengue, y m\u00e1s",
+      "description": "Pronostican la inflaci\u00f3n para el pr\u00f3ximo a\u00f1o. Mueren migrantes en el mar cerca de Aruba, posiblemente venezolanos. Fumigaci\u00f3n masiva contra el dengue. P\u00f3ngase al d\u00eda con las 5 principales noticias de Venezuela hoy 12 de diciembre de 2023.",
+      "url": "https://www.vozdeamerica.com/a/las-5-principales-noticias-de-venezuela-hoy-estiman-inflacion-en-2024-fumigan-por-dengue-/7395055.html",
+      "urlToImage": "https://gdb.voanews.com/2a02f4e8-c50c-469e-bf54-bd6e046c695c_cx0_cy10_cw0_w1200_r1.jpg",
+      "publishedAt": "2023-12-12 21:18:29",
+      "content": "Estas son las 5 noticias m\u00e1s destacadas de Venezuela este martes 12 de diciembre de 2023. 1. Proyectan 176% de inflaci\u00f3n el pr\u00f3ximo a\u00f1o El Observatorio Venezolano de Finanzas (OVF) proyect\u00f3 que la \u2026 [+1690 chars]",
+      "retrievedAt": "2023-12-14 07:05:50.246449",
+      "internal_id": "2be4324126f2da6256c10ba06cea0aa182560b47f0266cb5437776cce3883100",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3683,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Minas Gerais tem alerta para epidemia de dengue em 2024 devido a calor e chuva",
+      "description": "O estado de Minas Gerais tem alerta para epidemia de dengue em 2024. A proje\u00e7\u00e3o \u00e9 do Minist\u00e9rio da Sa\u00fade. Ser\u00e3o dois anos seguidos com n\u00fameros...",
+      "url": "https://noticias.r7.com/minas-gerais/mg-record/videos/minas-gerais-tem-alerta-para-epidemia-de-dengue-em-2024-devido-a-calor-e-chuva-12122023",
+      "urlToImage": "https://vtb.akamaized.net/image/1418760/2023/12/12/6578e6914b4955649b000157/c981fe85a4134a0486aaef10b5195538__MGR_1212_EPIDEMIA_DENGUE_thumb.jpg",
+      "publishedAt": "2023-12-12 20:39:27",
+      "content": "O estado de Minas Gerais tem alerta para epidemia de dengue em 2024. A proje\u00e7\u00e3o \u00e9 do Minist\u00e9rio da Sa\u00fade. Ser\u00e3o dois anos seguidos com n\u00fameros elevados da doen\u00e7a. Os principais motivos desse aumento \u2026 [+70 chars]",
+      "retrievedAt": "2023-12-14 07:05:50.250624",
+      "internal_id": "e2478eaa885fba045b7fb7a8eaa393ec883e05150c26ef90db92a34d50c445fc",
+      "publishedAtLabel": "Dec 12"
+    },
+    {
+      "id": 3686,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "FDA.gov",
+      "author": "FDA",
+      "title": "IXCHIQ",
+      "description": "For the prevention of disease caused by chikungunya virus (CHIKV) in individuals 18 years of age and older who are at high risk of exposure to CHIKV.",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/ixchiq",
+      "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
+      "publishedAt": "2023-12-12 19:33:57",
+      "content": "The .gov means its official.Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.",
+      "retrievedAt": "2023-12-14 07:05:51.360027",
+      "internal_id": "0cf537fb1fdd91b87e0cc11c1b9adea6e74996cd72baeb7fc1c983bafa734a2d",
+      "publishedAtLabel": "Dec 12"
+    },
     {
       "id": 3669,
       "query": [
@@ -3456,168 +3618,6 @@
       "retrievedAt": "2023-12-03 19:05:19.889067",
       "internal_id": "f0b67c2c67d317b63361b80d2d612775b472d5bd6799385bce95f75ff9bf0583",
       "publishedAtLabel": "Dec 2"
-    },
-    {
-      "id": 3485,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Christine Ro, Contributor, \n Christine Ro, Contributor\n https://www.forbes.com/sites/christinero/",
-      "title": "The Surprising Link Between Malaria And River Color",
-      "description": "Suspended sediments are key to this relationship between river color and malaria, as shown by black-water and white-water rivers in the Brazilian Amazon.",
-      "url": "https://www.forbes.com/sites/christinero/2023/12/02/the-surprising-link-between-malaria-and-river-color/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/656b6577a86df4ef7e000496/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-12-02 17:22:12",
-      "content": "A family shelters under mosquito nets in Amazonas State, Brazil. (Photo by J R Ripper/Brazil Photos) LightRocket via Getty Images Theres some sobering news from the latest edition of the World Heal\u2026 [+3886 chars]",
-      "retrievedAt": "2023-12-03 19:05:21.036138",
-      "internal_id": "1e5245d487f9e886181f8f4cf9bdaed52f12527e106bfdd01f203c53968dfd82",
-      "publishedAtLabel": "Dec 2"
-    },
-    {
-      "id": 3484,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "WWD",
-      "author": "Marisa Guthrie",
-      "title": "How Calico Wallpaper Has Transformed Home Decor Into High Art",
-      "description": "As they mark 10 years, Nick and Rachel Cope are continually pushing creative boundaries with new collaborations and techniques.",
-      "url": "https://wwd.com/home-design/home-decor/calico-wallpaper-home-decor-art-1235929501/",
-      "urlToImage": "https://wwd.com/wp-content/uploads/2023/11/NickRachelCopeCalico_Photo-Credit-William-Jess-Laird.jpg?w=1024",
-      "publishedAt": "2023-12-02 17:19:00",
-      "content": "Wallpaper does not fare well in literature. Oscar Wilde, dying of meningitis in a dingy hotel room in Paris\u2019 Latin Quarter, cursed the revolting paper on the walls. \u201cMy wallpaper and I are fighting a\u2026 [+10632 chars]",
-      "retrievedAt": "2023-12-03 19:05:20.154059",
-      "internal_id": "02a0f6cf290342b1fbc50041305f3e7f03df689a0da5e452ae3487f03a43b277",
-      "publishedAtLabel": "Dec 2"
-    },
-    {
-      "id": 3487,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Theglobalfund.org",
-      "author": "The Global Fund",
-      "title": "Climate Change and Health",
-      "description": "Climate Change and Healththeglobalfund.org",
-      "url": "https://www.theglobalfund.org/en/climate-change/",
-      "urlToImage": "https://www.theglobalfund.org/media/13484/climate-change.jpg?center=0.53031795537322535,0.53464065223757928&mode=crop&width=800&height=800&rnd=133458142990800000",
-      "publishedAt": "2023-12-02 16:56:11",
-      "content": "The Challenge Climate change is the largest global health challenge of the 21st century. It represents a profound threat to the Global Funds mission to defeat HIV, tuberculosis (TB) and malaria, sav\u2026 [+1303 chars]",
-      "retrievedAt": "2023-12-03 19:05:21.081885",
-      "internal_id": "9b6864d0019aa85c2100e99c038563fc6f17a536823cef2009431fcea1666dfe",
-      "publishedAtLabel": "Dec 2"
-    },
-    {
-      "id": 3482,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Carole Dieterich",
-      "title": "Le Bangladesh fait face \u00e0 la pire \u00e9pid\u00e9mie de dengue jamais enregistr\u00e9e dans le pays",
-      "description": "Le d\u00e9r\u00e8glement climatique, caract\u00e9ris\u00e9 au Bangladesh par de longues moussons erratiques et des temp\u00e9ratures plus \u00e9lev\u00e9es, favorise la reproduction des moustiques \u00ab Aedes \u00bb, principaux vecteurs de la dengue, qui a caus\u00e9 cette ann\u00e9e la mort de plus de 1 600 per\u2026",
-      "url": "https://www.lemonde.fr/planete/article/2023/12/02/le-bangladesh-fait-face-a-la-pire-epidemie-de-dengue-jamais-enregistree-dans-le-pays_6203559_3244.html",
-      "urlToImage": "https://img.lemde.fr/2023/11/14/0/0/8256/5504/1440/960/60/0/7bbcc51_2023-11-14t034056z-1373459227-rc2wq3azi8y4-rtrmadp-3-bangladesh-disease-dengue.JPG",
-      "publishedAt": "2023-12-02 16:47:48",
-      "content": "Une op\u00e9ration de d\u00e9moustication, \u00e0 Dacca, le 12 octobre 2023. FATIMA TUJ JOHORA / REUTERS Des dizaines de patients fi\u00e9vreux mis sous perfusion sont allong\u00e9s sur des lits, align\u00e9s les uns \u00e0 la suite \u2026 [+2723 chars]",
-      "retrievedAt": "2023-12-03 19:05:19.866801",
-      "internal_id": "a20070bf86941ab74d061afe6f26da742e5e289486432c76f79e276ae8f76755",
-      "publishedAtLabel": "Dec 2"
-    },
-    {
-      "id": 3486,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: Climate Change Identified As Serious Threat in Fight to End Malaria",
-      "description": "Press Release - New findings published today by the World Health Organization (WHO) in its 2023 World Malaria Report have revealed that the number of malaria cases globally rose between 2019 (pre-pandemic) and 2022. Cases rose by 16 million in this period, fr\u2026",
-      "url": "https://allafrica.com/stories/202312020021.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-02 09:04:12",
-      "content": "New findings published today by the World Health Organization (WHO) in its 2023 World Malaria Report have revealed that the number of malaria cases globally rose between 2019 (pre-pandemic) and 2022.\u2026 [+7316 chars]",
-      "retrievedAt": "2023-12-03 19:05:21.060304",
-      "internal_id": "27d7b71d096846c847b687de4d177d334c2996503ef260d9369fe2313ef3e395",
-      "publishedAtLabel": "Dec 2"
-    },
-    {
-      "id": 3481,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "As temperatures rise, dengue fever infections keep surging around the world",
-      "description": "The explosive spread of dengue offers a case study in how climate change, human movement, and rising temperatures are all coaligning to fuel the expansion of potentially deadly threats to human health.",
-      "url": "https://www.cbc.ca/news/health/dengue-fever-climate-change-1.7043918",
-      "urlToImage": "https://i.cbc.ca/1.3424196.1701378053!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/aedes-aegypti.jpg",
-      "publishedAt": "2023-12-02 09:00:00",
-      "content": "This story is part of CBC Health's Second Opinion, a weekly analysis of health and medical science news emailed to subscribers on Saturday mornings. If you haven't subscribed yet, you can do that by \u2026 [+8205 chars]",
-      "retrievedAt": "2023-12-03 19:05:19.857113",
-      "internal_id": "e3c152b9979e882113cd7405556f8f40fed1a917b8421ddd79e04ba6f133d6b2",
-      "publishedAtLabel": "Dec 2"
-    },
-    {
-      "id": 3480,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The West Australian",
-      "author": "The West Australian",
-      "title": "Department of Health issues measles alert, says it will contact people who had been exposed \u2018where known\u2019",
-      "description": "West Australians are being warned to stay \u2018alert to the risk of measles\u2019 after a child spent time in the community while infectious with the disease.",
-      "url": "https://thewest.com.au/news/wa/department-of-health-issues-measles-alert-says-it-will-contact-people-who-had-been-exposed-where-known--c-12762687",
-      "urlToImage": "https://images.thewest.com.au/publication/C-12762687/485988d6ae7eafa9c26b567522912928a6ef48e8-16x9-x0y32w794h447.jpg?imwidth=1200",
-      "publishedAt": "2023-12-02 08:24:29",
-      "content": "West Australians are being warned to stay alert to the risk of measles after a child spent time in the community while infectious with the disease. The Department of Health issued the alert on Satur\u2026 [+1327 chars]",
-      "retrievedAt": "2023-12-03 19:05:19.112081",
-      "internal_id": "8a918ea80bddb9a0700b66397594f57767b7bb0c4ace9a973cee6c841c8da225",
-      "publishedAtLabel": "Dec 2"
-    },
-    {
-      "id": 3478,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Live Science",
-      "author": "Nicoletta Lanese",
-      "title": "Climate change could upend fight against malaria, WHO warns",
-      "description": "Malaria cases rose in 2022, in part due to climate change-related extreme weather events.",
-      "url": "https://www.livescience.com/health/viruses-infections-disease/climate-change-could-upend-fight-against-malaria-who-warns",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QfNSTHvhkFqDHgm99QsDJT-1200-80.jpg",
-      "publishedAt": "2023-12-01 21:31:48",
-      "content": "Climate change \u2014 and the extreme weather events it brings \u2014 could raise global malaria rates, the World Health Organization (WHO) warned Thursday (Nov. 30). \"The changing climate poses a substantial\u2026 [+3159 chars]",
-      "retrievedAt": "2023-12-03 07:05:33.027055",
-      "internal_id": "422cf53e1aa09b8c378d8abddef5bad3a26d2a76d23aca88b59fb33194728848",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
-      "id": 3488,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Science Daily",
-      "author": null,
-      "title": "A patch of protection against Zika virus",
-      "description": "A simple-to-apply, needle-free vaccine patch is being developed to protect people from the potentially deadly mosquito-borne Zika virus.",
-      "url": "https://www.sciencedaily.com/releases/2023/12/231201123720.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
-      "publishedAt": "2023-12-01 17:37:20",
-      "content": "A simple-to-apply, needle-free vaccine patch is being developed to protect people from the potentially deadly mosquito-borne Zika virus.A prototype using The University of Queensland-developed and Va\u2026 [+2911 chars]",
-      "retrievedAt": "2023-12-03 19:05:21.416365",
-      "internal_id": "64bed15cb0dd20d79b0f4514675c3a87c66365a7da9d7a018fdd87577d12959d",
-      "publishedAtLabel": "Dec 1"
     }
   ]
 }
