@@ -1,8 +1,298 @@
 {
-  "last_updated": "2023-12-14 19:05",
+  "last_updated": "2023-12-15 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 14,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 3716,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "asty/kg",
+      "title": "W Japonii pierwsza osoba zmar\u0142a z powodu mpox",
+      "description": "W Japonii potwierdzono pierwszy zgon na mpox, wirusow\u0105 chorob\u0119 nazywan\u0105 wcze\u015bniej ma\u0142pi\u0105 osp\u0105 \u2013 poinformowa\u0142o w \u015brod\u0119 miejscowe ministerstwo zdrowia. Zmar\u0142y to m\u0119\u017cczyzna w \u015brednim wieku, kt\u00f3ry by\u0142 r\u00f3wnie\u017c zaka\u017cony wirusem HIV.",
+      "url": "https://tvn24.pl/swiat/japonia-potwierdzono-pierwszy-zgon-na-chorobe-mpox-nazywana-wczesniej-malpia-ospa-7543593",
+      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-8ueq6v-pierwsza-infekcje-mpox-zdiagnozowano-w-japonii-w-lipcu-2022-roku-7543592/alternates/LANDSCAPE_1280",
+      "publishedAt": "2023-12-14 04:55:03",
+      "content": "W Japonii potwierdzono pierwszy zgon na mpox, wirusow chorob nazywan wczeniej mapi osp poinformowao w rod miejscowe ministerstwo zdrowia. Zmary to mczyzna w rednim wieku, kt\u00f3ry by r\u00f3wnie zakaony wiru\u2026 [+1445 chars]",
+      "retrievedAt": "2023-12-15 07:05:53.904977",
+      "internal_id": "cb3b5efb9be9156f2cbe5512c0febbd58f8535f49d5814a298a9fef173e4094a",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3707,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Arxiv.org",
+      "author": "Danial Sharifrazi, Nouman Javed, Roohallah Alizadehsani, Prasad N. Paradkar, U. Rajendra Acharya, Asim Bhatti",
+      "title": "Automated detection of Zika and dengue in Aedes aegypti using neural spiking analysis",
+      "description": "Mosquito-borne diseases present considerable risks to the health of both animals and humans. Aedes aegypti mosquitoes are the primary vectors for numerous medically important viruses such as dengue, Zika, yellow fever, and chikungunya. To characterize this mo\u2026",
+      "url": "https://arxiv.org/abs/2312.08654v1",
+      "urlToImage": "https://static.arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "publishedAt": "2023-12-14 04:52:54",
+      "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website. Both individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]",
+      "retrievedAt": "2023-12-15 07:05:52.442628",
+      "internal_id": "97e1067fd2a23c4718d7ec73e5ee4e2d51b540b7067aa5065240e4c592d3164b",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3713,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Expansion of Pharmaceutical Business Initiatives:Development of a Novel Antimalarial Drug Utilizing the Funding Program of the Global Health Innovative Technology Fund (GHIT Fund)",
+      "description": "(marketscreener.com) Dec. 14, 2023 Marubeni Corporation Marubeni Corporation will participate in the development project*1 of a new antimalarial drug promoted by Shanghai Fosun Pharmaceutical Co., Ltd. , Medicines for Malaria Venture , and Mahidol-O\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/MARUBENI-CORPORATION-6491313/news/Expansion-of-Pharmaceutical-Business-Initiatives-Development-of-a-Novel-Antimalarial-Drug-Utilizing-45565505/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-12-14 04:04:02",
+      "content": "Dec. 14, 2023Marubeni Corporation Marubeni Corporation (hereinafter, \"Marubeni\") will participate in the development project*1 of a new antimalarial drug (hereinafter, \"this project\") promoted by Sh\u2026 [+5157 chars]",
+      "retrievedAt": "2023-12-15 07:05:53.165386",
+      "internal_id": "bb074623be2904f0633accec143045202ee98be0b1b43134a7f61c2bc96d5eb7",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3703,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "SHARON LING",
+      "title": "Woman, 44, is latest rabies fatality in Sarawak",
+      "description": "KUCHING: A 44-year-old woman is the latest rabies fatality in Sarawak, bringing the number of deaths to 16 from 18 human cases this year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/12/14/woman-44-is-latest-rabies-fatality-in-sarawak",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/12/14/2438382.jpeg",
+      "publishedAt": "2023-12-14 03:35:00",
+      "content": "KUCHING: A 44-year-old woman is the latest rabies fatality in Sarawak, bringing the number of deaths to 16 from 18 human cases this year. State health director Dr Ooi Choo Huck said the woman died h\u2026 [+1434 chars]",
+      "retrievedAt": "2023-12-15 07:05:51.940951",
+      "internal_id": "6f51756e32dac52cb2e37cecd8a9aeee8520ef83256d5da5bb96c334039c3cff",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3714,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Peter Singer",
+      "title": "Una enorme oportunidad de salvar vidas a bajo costo",
+      "description": "La autorizaci\u00f3n de una nueva vacuna contra la malaria, recomendada por la OMS en octubre, merece ser tratada con el mismo sentido de urgencia que la de la covid-19.",
+      "url": "https://www.nacion.com/opinion/foros/una-enorme-oportunidad-de-salvar-vidas-a-bajo/6PTOKPHR3JG6LKGYPO2GCWYBZY/story/",
+      "urlToImage": "https://www.nacion.com/resizer/u7v3I_lr_dImumjZqbPJ_wZtb9M=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/HIETXRWWUZGPJGLXKYUQYZFZ5E.jpg",
+      "publishedAt": "2023-12-14 02:30:00",
+      "content": "En el 2021, la malaria caus\u00f3 619.000 muertes; un 77 % de ellas eran ni\u00f1os menores de cinco a\u00f1os y el 96 % en \u00c1frica. Pero ahora, tras d\u00e9cadas de investigaci\u00f3n (y varios intentos fallidos), existe una\u2026 [+5899 chars]",
+      "retrievedAt": "2023-12-15 07:05:53.173096",
+      "internal_id": "c9fecbe84956a2edeb8226c21597a33d9a91ac986bcaf70c236527750f984586",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3704,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Alachuachronicle.com",
+      "author": "Jennifer Cabrera",
+      "title": "Local health officials issue rabies alert - Alachua Chronicle",
+      "description": "FDOH in Alachua County has issued a rabies alert for NW Alachua County in an area between Newberry and High Springs along SR 45",
+      "url": "https://alachuachronicle.com/local-health-officials-issue-rabies-alert/",
+      "urlToImage": "https://alachuachronicle.com/wp-content/uploads/2020/04/unnamed-57.jpg",
+      "publishedAt": "2023-12-14 02:08:09",
+      "content": "Press release from Alachua County ALACHUA COUNTY, Fla. \u2013 The Florida Department of Health in Alachua County has issued a rabies alert for Northwest Alachua County in an area between Newberry and Hig\u2026 [+2713 chars]",
+      "retrievedAt": "2023-12-15 07:05:51.945410",
+      "internal_id": "f0e94eedb89ec6443aeecb6b99d552fe44a42281d0b6f528a1a48b51536952ed",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3712,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Reforma.com",
+      "author": "Grupo REFORMA",
+      "title": "Ahora alerta M\u00e9xico por fruta de Estados Unidos contaminada",
+      "description": "Cofepris alert\u00f3 sobre posible presencia de una bacteria en frutos como melocot\u00f3n, ciruela y nectarinas de la marca estadounidense HMC Farms.",
+      "url": "https://www.reforma.com/ahora-alerta-mexico-por-fruta-de-eu-contaminada/ar2726427",
+      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/4/211/3210293.jpg&wm=1&ang=0",
+      "publishedAt": "2023-12-14 01:43:01",
+      "content": "Tras su consumo, la bacteria puede incubar en un par de semanas, pero extenderse hasta tres meses, causando fiebre, dolores musculares, septicemia y meningitis. Cr\u00e9dito: Especial",
+      "retrievedAt": "2023-12-15 07:05:52.866547",
+      "internal_id": "4910f2a43d28edf9271ef5b132b6fad0231281ebb235d8020224048eed35045d",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3702,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "callaway@salk.edu (Edward M Callaway), callaway@salk.edu (Forrest Collman), callaway@salk.edu (Maribel Pati\u00f1o), callaway@salk.edu (Neelakshi S Patne), callaway@salk.edu (Paula A Miyazaki), callaway@salk.edu (Sai Krishna Bhamidipati), callaway@salk.edu (Willian N Lagos)",
+      "title": "Postsynaptic cell type and synaptic distance do not determine efficiency of monosynaptic rabies virus spread measured at synaptic resolution",
+      "description": "Retrograde monosynaptic tracing using glycoprotein-deleted rabies virus is an important component of the toolkit for investigation of neural circuit structure and connectivity. It allows for the identification of first-order presynaptic connections to cell po\u2026",
+      "url": "https://elifesciences.org/articles/89297",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2023-12-14 00:00:00",
+      "content": "[Editors note: the authors resubmitted a revised version of the paper for consideration. What follows is the authors response to the first round of review.] Comments from all three reviewers are att\u2026 [+59919 chars]",
+      "retrievedAt": "2023-12-15 07:05:51.928354",
+      "internal_id": "eaadd08b6375f71ff8a83f1b89f9f1f5b685f33887fdb1f592050b64593e2be0",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3711,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN/ SBH",
+      "title": "Alerta Cofepris por frutas importadas contaminadas con peligrosa bacteria",
+      "description": "Las personas afectadas desarrollan s\u00edntomas como fiebre, dolores musculares, septicemia y meningitis.",
+      "url": "https://aristeguinoticias.com/1312/mexico/alerta-cofepris-por-frutas-importadas-contaminadas-con-peligrosa-bacteria/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/12/melocoton-listeria-bacteria-importaciones-13122023.jpg",
+      "publishedAt": "2023-12-13 23:05:25",
+      "content": "La autoridad sanitaria inform\u00f3 sobre la posible contaminaci\u00f3n con la bacteria Listeria monocytogenes en melocot\u00f3n, ciruela y nectarina de la marca HMC Farms. La empresa HMC Group Marketing ya retir\u00f3\u2026 [+1622 chars]",
+      "retrievedAt": "2023-12-15 07:05:52.858543",
+      "internal_id": "701f773bee6a1429dffaae310d532a0e10b81ab3570bcd623c0696a22a4563e6",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 3706,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Millions infected with dengue this year in new record as hotter temperatures cause virus to flare",
+      "description": "Dengue is sweeping across the Western Hemisphere in numbers not seen since record-keeping began more than four decades ago, with experts warning that rising temperatures and rapid urbanization are accelerating the pace of infections. A record more than 4 mill\u2026",
+      "url": "https://japantoday.com/category/features/health/millions-infected-with-dengue-this-year-in-new-record-as-hotter-temperatures-cause-virus-to-flare",
+      "urlToImage": null,
+      "publishedAt": "2023-12-13 21:56:11",
+      "content": "Dengue is sweeping across the Western Hemisphere in numbers not seen since record-keeping began more than four decades ago, with experts warning that rising temperatures and rapid urbanization are ac\u2026 [+8346 chars]",
+      "retrievedAt": "2023-12-15 07:05:52.433642",
+      "internal_id": "dff9859012c95e93139436387a46ae3906e47f225982546ab17ac20d4ec5433e",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 3715,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Japan confirms 1st death from mpox in the country",
+      "description": "Japan's health ministry said Wednesday that a man in his 30s who was living in Saitama Prefecture has died of mpox, the first such death in the country. The man was immunocompromised due to being infected with the human immunodeficiency virus, or HIV, the min\u2026",
+      "url": "https://japantoday.com/category/national/update1-japan-confirms-1st-death-from-mpox-in-country",
+      "urlToImage": null,
+      "publishedAt": "2023-12-13 21:48:14",
+      "content": "Japan's health ministry said Wednesday that a man in his 30s who was living in Saitama Prefecture has died of mpox, the first such death in the country. The man was immunocompromised due to being in\u2026 [+1221 chars]",
+      "retrievedAt": "2023-12-15 07:05:53.901424",
+      "internal_id": "96c824836df92ba2c00987b17bb4b9454a4884fc50eb38e23d6c70bd4b019a8d",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 3710,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Dengue cases break records in Americas amid warmer temperatures - NBC News",
+      "description": "Dengue cases break records in Americas amid warmer temperaturesNBC News Dengue Fever Is Soaring Worldwide. Here\u2019s What to Know\u2014and How to Stay ProtectedAOL Painful Disease on Brink of Spreading, Health Officials WarnNewsweek Millions infected with dengue this\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172485377",
+      "urlToImage": null,
+      "publishedAt": "2023-12-13 21:34:25",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-12-15 07:05:52.469897",
+      "internal_id": "e373b1150a6ddfede621e8b62734e7a8cf18af2f8b1e5e724855425b77cb5e2c",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 3709,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jade Abreu",
+      "title": "Saiba quem era a paciente que morreu em UPA de \u00c1guas Lindas",
+      "description": "Familiares reclamam de suposta de neglig\u00eancia m\u00e9dica em UPA de \u00c1guas Lindas. Profissional da sa\u00fade nega falta de cuidado com paciente",
+      "url": "https://www.metropoles.com/distrito-federal/saiba-quem-era-a-paciente-que-morreu-em-upa-de-aguas-lindas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/12/13172711/nathali.jpeg",
+      "publishedAt": "2023-12-13 20:35:38",
+      "content": "A professora Nathali Haydeen, 36 anos, morreu ap\u00f3s ter complica\u00e7\u00f5es de dengue hemorr\u00e1gica na \u00faltima segunda-feira (11/12). Ela teria dado entrada na Unidade de Pronto-Atendimento (UPA) de \u00c1guas Linda\u2026 [+4332 chars]",
+      "retrievedAt": "2023-12-15 07:05:52.457789",
+      "internal_id": "87a06eb1164c9ba1dc6e029eb5fa20c80dc7548bda3e3ac16565f96dd83ea6e5",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 3717,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Japonya'da maymun \u00e7i\u00e7e\u011fi vir\u00fcs\u00fcnden ilk \u00f6l\u00fcm ya\u015fand\u0131",
+      "description": "Japonya Sa\u011fl\u0131k Bakanl\u0131\u011f\u0131, \u00fclke i\u00e7inde, maymun \u00e7i\u00e7e\u011fi vir\u00fcs\u00fc mpox kaynakl\u0131 ilk \u00f6l\u00fcm\u00fcn kay\u0131tlara ge\u00e7ti\u011fini a\u00e7\u0131klad\u0131.",
+      "url": "https://sputniknews.com.tr/20231213/japonyada-maymun-cicegi-virusunden-ilk-olum-yasandi-1078438162.html",
+      "urlToImage": "https://cdn1.img.sputniknews.com.tr/images/sharing/article/tur/1078438162.jpg?10587558751702496852",
+      "publishedAt": "2023-12-13 19:46:27",
+      "content": "Rusya, ABD, Avrupa ve Ortadou bata olmak \u00fczere d\u00fcnyann d\u00f6rt bir yanndan son dakika haberleri, analizler ve \u00f6zel dosyalar. https://sputniknews.com.tr/20231213/japonyada-maymun-cicegi-virusunden-ilk-o\u2026 [+3065 chars]",
+      "retrievedAt": "2023-12-15 07:05:53.909732",
+      "internal_id": "dec383fd22dbcff3abf3f3541448bd3181f40815bb91cd334a06bc576e05227e",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 3708,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "AP",
+      "title": "Dengue, \u00bfla pr\u00f3xima \u2018gran pandemia\u2019? 2023 se enfila a ser el a\u00f1o con m\u00e1s casos de la historia",
+      "description": "Hasta principios de noviembre se hab\u00edan registrado m\u00e1s de 4.5 millones de casos de dengue en todo el mundo, con m\u00e1s de 4 mil decesos en 80 pa\u00edses.",
+      "url": "https://www.elfinanciero.com.mx/salud/2023/12/13/expertos-alertan-por-aumento-de-casos-de-dengue-en-2023-podria-ser-pandemia/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/WKfBCh8DY8vBQAMTtAtt5_d-g_Y=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RKKF74J44JDOVKX4GB5GU2GDCU.jpg",
+      "publishedAt": "2023-12-13 19:22:24",
+      "content": "El dengue se est\u00e1 extendiendo por el hemisferio occidental a un nivel nunca visto desde que comenzaron los registros hace m\u00e1s de cuatro d\u00e9cadas y los expertos advierten que el aumento de las temperat\u2026 [+6211 chars]",
+      "retrievedAt": "2023-12-15 07:05:52.451930",
+      "internal_id": "a39e758ce9e3fa98877cdb1a6c58397a9896a9e6ccce0ae27518fa1d8f543c45",
+      "publishedAtLabel": "Dec 13"
+    },
+    {
+      "id": 3705,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Ryan Wyatt Turbeville",
+      "title": "Department of Health issues rabies alert for parts of Alachua County",
+      "description": "GAINESVILLE, Fla. (WCJB) - Public health officials are warning residents of rabies in the animal population after a stray cat tested positive in Alachua County. The...",
+      "url": "https://www.newsbreak.com/alachua-county-fl/3264398553870-department-of-health-issues-rabies-alert-for-parts-of-alachua-county",
+      "urlToImage": "https://img.particlenews.com/img/id/4L6LD7_0qDHRrVR00?type=thumbnail_1600x1200",
+      "publishedAt": "2023-12-13 19:08:00",
+      "content": "ByRyan Wyatt Turbeville, 3 hours ago ByRyan Wyatt Turbeville, 3 hours ago Local Gainesville, FL Most Popular",
+      "retrievedAt": "2023-12-15 07:05:51.948511",
+      "internal_id": "3eaded16f4c21678f5c2057882ed7649ed7174f8f641af1560e30d302fb8a759",
+      "publishedAtLabel": "Dec 13"
+    },
     {
       "id": 3692,
       "query": [
@@ -3324,299 +3614,6 @@
       "retrievedAt": "2023-12-06 07:05:44.288249",
       "internal_id": "f60588aa1e516e5b6595a183af485fd212123105ad75470159a2da62a1006622",
       "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3516,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Minneapolis Star Tribune",
-      "author": "Editorial Board",
-      "title": "Mend cracks in defense against measles",
-      "description": "A new report shows cases and deaths rose worldwide as vaccination coverage declined. Minnesota legislators should end nonmedical exemptions.",
-      "url": "https://www.startribune.com/mend-cracks-in-defense-against-measles/600324398/",
-      "urlToImage": "https://chorus.stimg.co/25132900/merlin_72719042.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
-      "publishedAt": "2023-12-04 23:30:44",
-      "content": "Opinion editor's note:Editorials represent the opinions of the Star Tribune Editorial Board, which operates independently from the newsroom. One of the COVID-19 pandemic's lasting lessons is how qu\u2026 [+4486 chars]",
-      "retrievedAt": "2023-12-06 07:05:42.247785",
-      "internal_id": "b210a5247cec76c11530104a07839e27972ac9f04b72506aeb7eac2b8be7a0a0",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3517,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Confira 7 bairros de Campinas com risco elevado de transmiss\u00e3o da dengue e veja dicas de preven\u00e7\u00e3o",
-      "description": "De acordo com a prefeitura, objetivo do alerta \u00e9 \"estimular a popula\u00e7\u00e3o para verificar e eliminar criadouros em casa\". Metr\u00f3pole registra 6\u00aa maior epidemia desde 1998, com 10,1 mil infectados e duas mortes. Campinas (SP) refor\u00e7a import\u00e2ncia de combate aos cri\u2026",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/04/confira-7-bairros-de-campinas-com-risco-elevado-de-transmissao-da-dengue-e-veja-dicas-de-prevencao.ghtml",
-      "urlToImage": "https://s2-g1.glbimg.com/Aa2OxfZvoUF1K96KIe9Xd-qwLms=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/8/O/B9DguGTESByAB7OuBAKA/dengue4.jpg",
-      "publishedAt": "2023-12-04 20:45:54",
-      "content": "Jardim Santo Ant\u00f4nio (Sudoeste)Jardim Eulina (Norte)Jardim Garcia (Noroeste)Vila Padre Manoel da N\u00f3brega (Noroeste)Mans\u00f5es Santo Ant\u00f4nio (Leste)Ja\u2026 [+4070 chars]",
-      "retrievedAt": "2023-12-06 07:05:42.919950",
-      "internal_id": "9362fab65829583d710847f088c861606a18df92355b25a365421173fecdc448",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3520,
-      "query": [
-        "malaria",
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Metafilter.com",
-      "author": "mireille",
-      "title": "Do I really need to take antimalarials for this trip?",
-      "description": "Going to Costa Rica for 2 weeks at the end of the month. I have all my recommended vaccines but don't really want to take the malaria pills. Without getting alarmist about this, what is your experience or where can I find better information?Up to date on all \u2026",
-      "url": "https://ask.metafilter.com/376982/Do-I-really-need-to-take-antimalarials-for-this-trip",
-      "urlToImage": "http://cdn.mefi.us/images/askmefi/apple-touch-icon.png",
-      "publishedAt": "2023-12-04 19:42:50",
-      "content": "Up to date on all my shots - in the last 30 days I've had my COVID and flu shots, just finished the typhoid vaccine, and have received two doses of Twinrix (Hep A and B).I'm pro-vaccine, I just don't\u2026 [+1020 chars]",
-      "retrievedAt": "2023-12-06 07:05:44.300745",
-      "internal_id": "a1643196948cc8c0427c3af6aa185b1894e7491bf6c3e4a25f3af2c7a0a73b75",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3507,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ouest-France",
-      "author": "Quentin BURBAN",
-      "title": "VIDEO. Retour \u00e0 la Base: victime de la dengue, le skipper Antoine Cornic est tr\u00e8s affaibli",
-      "description": "Engag\u00e9 sur la course transatlantique Imoca Retour \u00e0 la Base, le skipper Antoine Cornic, totalement affaibli, confie \u00eatre atteint de la dengue, en pleine course. Et cela fait trois jours que cela dure.",
-      "url": "https://www.ouest-france.fr/sport/voile/retour-a-la-base-toutes-les-manuvres-sont-dures-antoine-cornic-malade-de-la-dengue-en-course-8d4fc100-92cf-11ee-8602-1e868188f4e2",
-      "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMzEyNDIyZjk2OGU5N2NmMjFhNjJkMjVkZjQ5NmM1ZWNkYzA?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=5a8fa8c0aee6a9616ada9b91cbd2af695c8d03d0da9d8c00fbbf25f8e2d442f9",
-      "publishedAt": "2023-12-04 19:02:10",
-      "content": "Ils ne sont d\u00e9finitivement pas faits du m\u00eame bois. Ce lundi 4 d\u00e9cembre, sur la course transatlantique en solitaire, Retour \u00e0 la Base, Antoine Cornic (HUMAN Immobilier) a divulgu\u00e9 une nouvelle vid\u00e9o s\u2026 [+991 chars]",
-      "retrievedAt": "2023-12-05 19:05:32.387525",
-      "internal_id": "0dfbf451ea052412454e849cb3dd9acd5ee4cb3b6f341b9c08a62451ff8cae59",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3506,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "FOX 5 Atlanta",
-      "author": "Fox 5 Atlanta",
-      "title": "Stray cat tests positive for rabies in DeKalb County",
-      "description": "DeKalb County health officials are warning residents to stay safe after a man was bit by a stray cat that tested positive for rabies.",
-      "url": "https://www.fox5atlanta.com/news/stray-cat-tests-positive-for-rabies-in-dekalb-county",
-      "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/05/1280/720/rabies-alert.jpg?ve=1&tl=1",
-      "publishedAt": "2023-12-04 17:28:02",
-      "content": "DEKALB COUNTY, Ga. - Health officials are warning residents in parts of DeKalb County after a stray cat in the area tested positive for rabies. Officials say on Nov. 28, a resident in the Willow Lak\u2026 [+881 chars]",
-      "retrievedAt": "2023-12-05 19:05:31.550503",
-      "internal_id": "d738cb587be7795549e9304de668c1301a3dad531b03d134b75ddad57d09afcd",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3509,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Salifou Talassone Bangoura, Castro Gb\u00eam\u00eamali Hounm\u00e8nou, Sidikiba Sidib\u00e9, Saidouba Cherif Camara, Aminata Mbaye, Marie-Marie Olive, Alioune Camara, Alexandre Delamou, Alpha-Kabinet Keita, Eric Delaporte, Nagham Khanafer, Abdoulaye Tour\u00e9",
-      "title": "Exploratory analysis of the knowledge, attitudes and perceptions of healthcare workers about arboviruses in the context of surveillance in the Republic of Guinea",
-      "description": "Author summary Arboviruses, including yellow fever, dengue, Zika, chikungunya, and Rift Valley fever, constitute viral diseases transmitted by blood-sucking arthropod vectors, such as mosquitoes, ticks, and biting midges, to vertebrate hosts. In many countrie\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011814",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011814.g005&size=inline",
-      "publishedAt": "2023-12-04 14:00:00",
-      "content": "Abstract Background The escalating risk and contemporary occurrences of arbovirus infections prompt a critical inquiry into the ability of nations to execute efficient surveillance systems capable \u2026 [+36487 chars]",
-      "retrievedAt": "2023-12-05 19:05:32.405333",
-      "internal_id": "01b5bca85d61a5b7ac2c04e527c9d5ba6b7499b0913214e005c95224313682ba",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3511,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Haleh Alimohamadi, Padmini Rangamani",
-      "title": "Effective cell membrane tension protects red blood cells against malaria invasion",
-      "description": "Author summary RBC membrane tension plays an important role in regulating RBC shape and functionality. In particular, recent experimental studies have shown that elevated RBC membrane tension protects against severe malaria infection. In this study, we sought\u2026",
-      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011694",
-      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1011694.g008&size=inline",
-      "publishedAt": "2023-12-04 14:00:00",
-      "content": "Introduction Malaria is one of the major infectious diseases and causes nearly half a million deaths per year worldwide [1]. Merozoites, which are protozoan parasites of the Plasmodium family, are s\u2026 [+54262 chars]",
-      "retrievedAt": "2023-12-05 19:05:33.538357",
-      "internal_id": "56dbc221b56b03716eb2bd97abed6343b2b9b97312864f13194f3351dbfa8d41",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3508,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Mariana Andrade",
-      "title": "Sa\u00fade vai destinar R$ 256 mi a a\u00e7\u00f5es contra dengue, chikungunya e zika",
-      "description": "Conforme o Minist\u00e9rio da Sa\u00fade, R$ 111,5 milh\u00f5es ser\u00e3o repassados at\u00e9 o fim do ano para o enfrentamento da dengue, chikungunya e zika",
-      "url": "https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2021/03/10085834/mosquito-da-dengue-1-1.jpg",
-      "publishedAt": "2023-12-04 13:36:57",
-      "content": "O Minist\u00e9rio da Sa\u00fade vai destinar R$ 256 milh\u00f5es para a\u00e7\u00f5es de fortalecimento da vigil\u00e2ncia para o enfrentamento de arboviroses, como dengue, chikungunya e zika. Espera-se que a portaria dos recurso\u2026 [+2561 chars]",
-      "retrievedAt": "2023-12-05 19:05:32.395404",
-      "internal_id": "f7a2fac4415b08171b7dc3bd71143cc2adcd3499c4b766405277f864c9816cef",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3514,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Canaltech, Canaltech",
-      "title": "Adesivo com vacina pode proteger contra o v\u00edrus zika",
-      "description": "Cientistas da Austr\u00e1lia desenvolvem a primeira vacina contra o v\u00edrus zika, aplicada atrav\u00e9s de um adesivo; os testes com modelos animais s\u00e3o promissores",
-      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2023-12-04/adesivo-com-vacina-pode-proteger-contra-o-virus-zika.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8o/xn/1d/8oxn1db9u8jqlrmivbrtyn79w.jpg",
-      "publishedAt": "2023-12-04 12:35:12",
-      "content": "Na Austr\u00e1lia, cientistas da University of Queensland desenvolvem a primeira vacina contra o v\u00edrus zika, doen\u00e7a transmitida atrav\u00e9s de mosquitos, como o Aedes aegypti . Sem usar as agulhas convencion\u2026 [+2494 chars]",
-      "retrievedAt": "2023-12-05 19:05:34.011246",
-      "internal_id": "ce6f094bed74711ec94a2b033d9c2a2f3dc012d71fd8ad0ed17d796599ff7fdd",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3512,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Newsit.gr",
-      "author": "\u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03c2 \u03a3\u03c5\u03c1\u03b9\u03b3\u03b3\u03b1\u03c2",
-      "title": "\u03a0\u03ce\u03c2 \u03b7 \u03ba\u03bb\u03b9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03b9 \u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd",
-      "description": "\u0397 \u03ba\u03bb\u03b9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u03ad\u03c7\u03b5\u03b9 \u03bc\u03c0\u03b5\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ba\u03b1\u03bb\u03ac \u03c3\u03c4\u03b9\u03c2 \u03b6\u03c9\u03ad\u03c2 \u03cc\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf\u03bd \u03c0\u03bb\u03b1\u03bd\u03ae\u03c4\u03b7, \u03b1\u03bb\u03bb\u03ac \u03b4\u03b5\u03bd \u03b5\u03c0\u03b7\u03c1\u03c1\u03b5\u03ac\u03b6\u03b5\u03b9 \u03bc\u03cc\u03bd\u03bf \u03c4\u03b7 \u03c6\u03cd\u03c3\u03b7 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c4\u03b5\u03c1\u03ac\u03c3\u03c4\u03b9\u03b5\u03c2 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03bf\u03c6\u03ad\u03c2 \u03bc\u03b5 \u03c4\u03b1 \u03be\u03b5\u03c3\u03c0\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c0\u03c1\u03c9\u03c4\u03bf\u03c6\u03b1\u03bd\u03b5\u03af\u03c2 \u03ba\u03b1\u03ba\u03bf\u03ba\u03b1\u03b9\u03c1\u03af\u03b5\u03c2, \u03b1\u03bb\u03bb\u03ac \u03c0\u03b1\u03af\u03b6\u03b5\u03b9 \u03c1\u03cc\u03bb\u03bf \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd. \u0398\u03b5\u03c1\u03bc\u03b9\u03ba\u03ae \u03ba\u03b1\u03c4\u03b1\u03c0\u03cc\u03bd\u03b7\u03c3\u03b7. \u0392\u03bb\u03ac\u03b2\u03b5\u03c2\u2026",
-      "url": "https://www.newsit.gr/kosmos/klimatiki-allagi-pos-epireazei-tin-ygeia-ton-anthropon/3923547/",
-      "urlToImage": "https://www.newsit.gr/wp-content/uploads/2023/12/fotia-kapnos-eurokinissi-1-scaled.jpg",
-      "publishedAt": "2023-12-04 11:57:35",
-      "content": ", , . . . . (COP28). COP28 , . 2030, \u2013 , , \u2013 250.000 , (). \u00ab\u00bb, , \u2018Malaria No More\u2019. . , , , . 2000 5 . 2019, . , 73% , , . , 5 . 2022 249 ., . , , 400% , . . . , . , , , . ,\u2026 [+197 chars]",
-      "retrievedAt": "2023-12-05 19:05:33.549810",
-      "internal_id": "faa11e43c14b54b7f9ad309c0a01f05fc3898b56312d77540d030ac156299a3d",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3510,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO",
-      "description": "[Vanguard] The World Health Organisation, WHO, has warned that despite expanding access to malaria prevention, more people are getting sick with the disease.",
-      "url": "https://allafrica.com/stories/202312040455.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-04 11:38:58",
-      "content": "The World Health Organisation, WHO, has warned that despite expanding access to malaria prevention, more people are getting sick with the disease. In its 2023 World Malaria Report released as the UN\u2026 [+3724 chars]",
-      "retrievedAt": "2023-12-05 19:05:33.530946",
-      "internal_id": "982aa1ad9dfc6342805268c44a7bc6f4820fb4943395a433745be5920e0fc8b8",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3513,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Estella Abreu",
-      "title": "Adesivo de vacina sem agulha pode proteger contra o v\u00edrus Zika",
-      "description": "O adesivo fornece a vacina diretamente \u00e0s c\u00e9lulas imunol\u00f3gicas abaixo da superf\u00edcie da pele por meio de microproje\u00e7\u00f5es min\u00fasculas O post Adesivo de vacina sem agulha pode proteger contra o v\u00edrus Zika apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/12/04/medicina-e-saude/adesivo-de-vacina-sem-agulha-pode-proteger-contra-o-virus-zika/",
-      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/11/pexels-pixabay-86722-scaled-e1699618243347.jpg",
-      "publishedAt": "2023-12-04 07:51:00",
-      "content": "Um adesivo inovador que promete uma forma eficaz e indolor de combater o v\u00c3\u00adrus Zika est\u00c3\u00a1 sendo desenvolvido na Austr\u00c3\u00a1lia. O sistema, que utiliza a tecnologia de microarranjo de alta densidade (HD-\u2026 [+2898 chars]",
-      "retrievedAt": "2023-12-05 19:05:33.990805",
-      "internal_id": "ff17831f257026c479d33f561f752fba0c8ecc2dd392b35922e1d1067147237d",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3503,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": null,
-      "title": "Valneva: new positive data for Ixchiq",
-      "description": "(marketscreener.com) Valneva announces positive data on antibody persistence at 24 months for its single-injection chikungunya vaccine, Ixchiq, having met its primary endpoint with a seroresponse rate of 97%.'Antibody levels remained high and well above the d\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-new-positive-data-for-Ixchiq-45491343/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-12-04 07:04:02",
-      "content": "Valneva announces positive data on antibody persistence at 24 months for its single-injection chikungunya vaccine, Ixchiq, having met its primary endpoint with a seroresponse rate of 97%.'Antibody le\u2026 [+421 chars]",
-      "retrievedAt": "2023-12-05 07:05:53.008374",
-      "internal_id": "bdef81638363082030a96c5c4f2381e497a9a4b20560342a957b14a152f1d9ab",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3501,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": null,
-      "title": "Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae",
-      "description": "(marketscreener.com) Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae Primary endpoint met with 97% seroresponse rate 24 months after a single vaccinationAntibody levels remained high and well above t\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Reports-Positive-24-Month-Antibody-Persistence-Data-for-its-Single-Shot-Chikungunya-Vaccine-45491066/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2023-12-04 06:01:02",
-      "content": "Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae Primary endpoint met with 97% seroresponse rate 24 months after a single vaccinati\u2026 [+13038 chars]",
-      "retrievedAt": "2023-12-05 07:05:52.970565",
-      "internal_id": "7b434f8a01b35ac30f3a3adcc942fe436a12d537b50aab1cfbfdba178e118324",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3500,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae",
-      "description": "Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae Primary endpoint met with 97% seroresponse......",
-      "url": "https://www.globenewswire.com/news-release/2023/12/04/2789696/0/en/Valneva-Reports-Positive-24-Month-Antibody-Persistence-Data-for-its-Single-Shot-Chikungunya-Vaccine-IXCHIQ.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-12-04 06:00:00",
-      "content": "Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ\u00ae Primary endpoint met with 97% seroresponse rate 24 months after a single vaccinati\u2026 [+12963 chars]",
-      "retrievedAt": "2023-12-05 07:05:52.966486",
-      "internal_id": "fdabc1ddd4d9ba402e16eaeffbca2e67d6bf90485e9afdfa74d78256aa52057a",
-      "publishedAtLabel": "Dec 4"
-    },
-    {
-      "id": 3502,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "VALNEVA",
-      "title": "Valneva annonce des donn\u00e9es positives sur la persistance des anticorps \u00e0 24 mois pour son vaccin \u00e0 injection unique contre le chikungunya, IXCHIQ\u00ae",
-      "description": "Valneva annonce des donn\u00e9es positives sur la persistance des anticorps \u00e0 24 mois pour son vaccin \u00e0 injection unique contre le chikungunya, IXCHIQ\u00ae ...",
-      "url": "https://www.globenewswire.com/news-release/2023/12/04/2789696/0/fr/Valneva-annonce-des-donn%C3%A9es-positives-sur-la-persistance-des-anticorps-%C3%A0-24-mois-pour-son-vaccin-%C3%A0-injection-unique-contre-le-chikungunya-IXCHIQ.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
-      "publishedAt": "2023-12-04 06:00:00",
-      "content": "Valneva annonce des donn\u00e9es positives sur la persistance des anticorps \u00e0 24 mois pour son vaccin \u00e0 injection unique contre le chikungunya, IXCHIQ\u00ae Crit\u00e8re d'\u00e9valuation principal atteint avec\u2026 [+12181 chars]",
-      "retrievedAt": "2023-12-05 07:05:53.004163",
-      "internal_id": "232fbaa9e67e9a24852b8d92d190a3dcf9fc667139cc3e38bcab752baf071b62",
-      "publishedAtLabel": "Dec 4"
     }
   ]
 }
