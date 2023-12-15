@@ -1,8 +1,206 @@
 {
-  "last_updated": "2023-12-15 07:05",
+  "last_updated": "2023-12-15 19:05",
   "count_articles_total": 300,
-  "count_articles_new": 16,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 3722,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "P. P\u00e9rez",
+      "title": "Ozempic, los f\u00e1rmacos contra el alzh\u00e9imer y las vacunas contra la malaria, los hitos cient\u00edficos de 2023",
+      "description": "De forma un\u00e1nime este a\u00f1o todos apuntan a Ozempic y compa\u00f1\u00eda la revoluci\u00f3n cient\u00edfica del a\u00f1o. Si se es justo son los an\u00e1logos de los GLP-1 los que han supuesto un punto de...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2023/12/14/657b3fc0fdddff42b88b45c8.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/d1290661520fedcdef6b604bb41521fa/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2023/10/24/16981322881533.jpg",
+      "publishedAt": "2023-12-14 19:00:00",
+      "content": "De forma un\u00e1nime este a\u00f1o todos apuntan a Ozempic y compa\u00f1\u00eda la revoluci\u00f3n cient\u00edfica del a\u00f1o. Si se es justo son los an\u00e1logos de los GLP-1 los que han supuesto un punto de inflexi\u00f3n en la Medicina y\u2026 [+4848 chars]",
+      "retrievedAt": "2023-12-15 19:05:24.423955",
+      "internal_id": "3cd0cac29b66e8d0945720bebd60d1c380eff747c8c6a13b75a0eb906291f467",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3720,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newsbreak.com",
+      "author": "Healthsia",
+      "title": "Painful Disease Set to Spread, Health Officials Warn",
+      "description": "Health officials are warning that a painful disease is on the brink of spreading, causing concern among the public. The Dengue virus, commonly known as \"breakbone fever,\" is transmitted by mosquitos and is prevalent in tropical regions. However, experts warn \u2026",
+      "url": "https://www.newsbreak.com/@healthsia-1608606/3264562855531-painful-disease-set-to-spread-health-officials-warn",
+      "urlToImage": "https://img.particlenews.com/img/id/3nqOb6_0qDRswkJ00?type=thumbnail_1600x1200",
+      "publishedAt": "2023-12-14 18:19:15",
+      "content": "Health officials are warning that a painful disease is on the brink of spreading, causing concern among the public. The Dengue virus, commonly known as \"breakbone fever,\" is transmitted by mosquitos \u2026 [+4411 chars]",
+      "retrievedAt": "2023-12-15 19:05:23.832094",
+      "internal_id": "e4951ebb45ca3801849afeec227563653cc01b802b892aac8c1ef11615eb99ad",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3721,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "REDACCI\u00d3N CARTAGENA",
+      "title": "\u00a1Completa tu esquema! Gran jornada de vacunaci\u00f3n este 16 de diciembre",
+      "description": "Este 16 de diciembre se realizar\u00e1 la \u00faltima gran jornada de vacunaci\u00f3n del 2023, programada por el Ministerio de Salud y Protecci\u00f3n Social. Estar\u00e1n disponibles 22 vacunas que protegen contra 30 enfermedades, en todos los centros de salud.",
+      "url": "https://www.eluniversal.com.co/cartagena/completa-tu-esquema-gran-jornada-de-vacunacion-este-16-de-diciembre-FY9634135",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/115c0/800d686/none/13704/OSHO/vacunacion_9149490_20231214131657.jpg",
+      "publishedAt": "2023-12-14 18:16:53",
+      "content": "Con esto se busca garantizar la inmunizaci\u00f3n especialmente de ni\u00f1os y ni\u00f1as contra el sarampi\u00f3n, la rubeola, paperas, varicela, hepatitis A, difteria-t\u00e9tanos-tosferina, hepatitis B, meningitis, neumo\u2026 [+217 chars]",
+      "retrievedAt": "2023-12-15 19:05:24.058897",
+      "internal_id": "b237155cba533eb8c610e90c2d1efb91bb207c46aff29849585a58166acdd970",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3726,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Transmission of Mpox to Nonsexual Close Contacts - Two U.S. Jurisdictions, May 1-July 31, 2022",
+      "description": "This report describes the number of reported nonsexual close contacts of mpox patients in Tennessee and the District of Columbia.",
+      "url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7250a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/72/wr/social-media/mm7250a3_NonsexualMpoxTransmission_IMAGE_15Dec2023_1200x675.png?_=82651",
+      "publishedAt": "2023-12-14 18:00:00",
+      "content": "Data Collection and Analysis During August\u2013September 2022, CDC requested that U.S. jurisdictions submit aggregate or deidentified individual-level data on the number of reported nonsexual contacts* \u2026 [+3476 chars]",
+      "retrievedAt": "2023-12-15 19:05:25.305837",
+      "internal_id": "6603989b2ffbe7f186fc6d67ac06d183bc942688f7a11c5f5f37bd9c134a0f99",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3728,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "jdw//az",
+      "title": "Kolejny zgon z powodu mpox. T\u0105 chorob\u0105 \"ka\u017cdy mo\u017ce si\u0119 zarazi\u0107\", ostrzega WHO",
+      "description": "W Japonii odnotowano w tym tygodniu pierwszy zgon spowodowany mpox. Cho\u0107 jak wskazuje \u015awiatowa Organizacja Zdrowia od maja nie jest ju\u017c ona zagro\u017ceniem dla zdrowia publicznego na skal\u0119 \u015bwiatow\u0105, potwierdzane s\u0105 kolejne przypadki zaka\u017ce\u0144. T\u0105 chorob\u0105 \"ka\u017cdy mo\u017c\u2026",
+      "url": "https://tvn24.pl/swiat/mpox-jakie-sa-objawy-kto-moze-sie-zarazic-wszystko-co-trzeba-wiedziec-o-tej-chorobie-7544227",
+      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-rmdssj-mpox-malpia-ospa-7544281/alternates/LANDSCAPE_1280",
+      "publishedAt": "2023-12-14 12:49:17",
+      "content": "W Japonii odnotowano w tym tygodniu pierwszy zgon spowodowany mpox. Cho jak wskazuje wiatowa Organizacja Zdrowia od maja nie jest ju ona zagroeniem dla zdrowia publicznego na skal wiatow, potwierdzan\u2026 [+4885 chars]",
+      "retrievedAt": "2023-12-15 19:05:25.313857",
+      "internal_id": "3c6115ae2e86802f18abde9decdb294ea4c3d374181a3a26fe65b0a367a98647",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3718,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "World News in Brief: End e-cigarette boom urges WHO, measles surge in Europe, Central Asia; crisis for kids in Lebanon",
+      "description": "E-cigarettes, which pose serious health risks, are being \u201caggressively marketed\u201d to young people and in large parts of the world there are no rules in place to protect children from their harmful effects, UN health agency WHO warned on Thursday. Read Full Sto\u2026",
+      "url": "https://news.un.org/en/story/2023/12/1144817",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-12-2023_Unsplash_e-cigarette-01.jpg/image770x420cropped.jpg",
+      "publishedAt": "2023-12-14 12:00:00",
+      "content": "WHO said that 88 countries have no minimum age at which e-cigarettes can be bought and 74 countries have not implemented any e-cigarette regulations. WHO chief Tedros Adhanom Ghebreyesus called on c\u2026 [+4426 chars]",
+      "retrievedAt": "2023-12-15 19:05:23.467192",
+      "internal_id": "9c653b9ce4ae64d6251adeaabf698b33d83caca0db775d4ee9212c5aba881f48",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3727,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Tilmann Warnecke",
+      "title": "Patienten m\u00fcssen Kosten selbst tragen: Affenpocken-Impfungen in Berlin nicht mehr finanziert",
+      "description": "Nach einem Impfstoffwechsel finanziert der Senat die Immunisierung gegen Mpox (\u201eAffenpocken\u201c) nicht mehr. \u00c4rzte warnen vor einem \u201eComeback\u201c der Krankheit in Berlin.",
+      "url": "https://www.tagesspiegel.de/gesellschaft/queerspiegel/patienten-mussen-kosten-selbst-tragen-affenpocken-impfungen-in-berlin-nicht-mehr-finanziert-10926244.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/file-photo-people-attend-monkeypox-vaccine-clinic-in-arizona/alternates/BASE_16_9_W1400/file-photo-people-attend-monkeypox-vaccine-clinic-in-arizona.jpeg",
+      "publishedAt": "2023-12-14 11:20:57",
+      "content": "In Berlin zahlt der Senat ab sofort die Impfungen gegen Mpox (Affenpocken) nicht mehr. Weil es noch keine Vereinbarung \u00fcber eine Folgefinanzierung gibt, m\u00fcssen vorerst Patienten selber die Kosten f\u00fcr\u2026 [+2577 chars]",
+      "retrievedAt": "2023-12-15 19:05:25.310845",
+      "internal_id": "3ac9201abf1ba76e5a3e4e08d05f2b033db2c464a11656febe44e60bf68d740c",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3725,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Jap\u00e3o confirma primeira morte de pessoa infetada com var\u00edola dos macacos",
+      "description": "O Jap\u00e3o confirmou esta quinta-feira a primeira morte por var\u00edola dos macacos, doen\u00e7a caracterizada por erup\u00e7\u00f5es cut\u00e2neas. O doente tinha 30 anos e era imunodeprimido.",
+      "url": "https://observador.pt/2023/12/14/japao-confirma-primeira-morte-de-pessoa-infetada-com-variola-dos-macacos/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1123%3Anowe%3A0%3A118%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2023%2F12%2F14075959%2F39155760.jpg",
+      "publishedAt": "2023-12-14 10:25:18",
+      "content": "O Jap\u00e3o confirmou esta quinta-feira a primeira morte por mpox (var\u00edola dos macacos), mais de um ano depois de ter sido detetado o primeiro caso de infe\u00e7\u00e3o no pa\u00eds. O Minist\u00e9rio da Sa\u00fade japon\u00eas info\u2026 [+873 chars]",
+      "retrievedAt": "2023-12-15 19:05:25.301716",
+      "internal_id": "83b38ee97c4304aa3139e5176225daf90f9b35a1aee03ab00f46eac4400448d1",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3724,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Adeniji, Y. R., Jalo, I., Okonkwo, I., Poksireni, M. R., Manga, M., Wariri, O., Alhassan, H. A., Warnow, E. I.",
+      "title": "Diagnostic value of rapid test for malaria among febrile neonates in a tertiary hospital in North-East Nigeria: a prospective cross-sectional study",
+      "description": "Objective The WHO recommends testing using microscopy or rapid diagnostic test (RDT) before treatment for malaria. However, the use of RDT to diagnose neonatal malaria has not been widely validated with most studies limited to the first week of life. Thus, we\u2026",
+      "url": "https://adc.bmj.com/content/109/1/11?rss=1",
+      "urlToImage": "https://adc.bmj.com/sites/default/files/highwire/archdischild/109/1.cover-source.jpg",
+      "publishedAt": "2023-12-14 10:20:25",
+      "content": "Introduction Neonatal malaria refers to the presence of erythrocytic asexual form of plasmodium in the first 28 days of life. Malaria in a neonate can be congenital (transplacental transmission), bl\u2026 [+8625 chars]",
+      "retrievedAt": "2023-12-15 19:05:24.444106",
+      "internal_id": "251d4e696750334b38b05fb3f1c26c8eb7dda257a7b4f4ef2fe660d7f3e1848f",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3723,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Fosun Pharma's Global Multi-Center Phase III Clinical Trial Project for A New Antimalarial Drug Receives 500 Million Japanese Yen Investment from GHIT Fund to Jointly Improve the Global Accessibility of Antimalarial Drugs",
+      "description": "(marketscreener.com) SHANGHAI, Dec. 14, 2023 /PRNewswire/ -- The Japan-based Global Health Innovative Technology Fund announced today that it will invest approximately US$3.3 million in a global multicenter Phase III clinical trial project led by Fosun Phar\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/SHANGHAI-FOSUN-PHARMACEUT-11813653/news/Fosun-Pharma-s-Global-Multi-Center-Phase-III-Clinical-Trial-Project-for-A-New-Antimalarial-Drug-Rece-45567761/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2023-12-14 09:01:04",
+      "content": "SHANGHAI, Dec. 14, 2023 /PRNewswire/ -- The Japan-based Global Health Innovative Technology Fund (GHIT Fund) announced today that it will invest approximately US$3.3 million (approximately 500 millio\u2026 [+9349 chars]",
+      "retrievedAt": "2023-12-15 19:05:24.438022",
+      "internal_id": "95bdfcbff92a8d23548b3b63eb161b92e80820c0b862e3b105b8dbfd56db3ca4",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3719,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Medical Daily",
+      "author": "Suneeta Sunny",
+      "title": "Dengue Fever: Millions Infected Worldwide As Rising Temperatures Cause Virus To Flare",
+      "description": "Around five million cases of dengue fever and 5,500 deaths have been reported across 20 countries in 2023, the highest ever since record-keeping began in 1980.",
+      "url": "https://www.medicaldaily.com/dengue-fever-millions-infected-worldwide-rising-temperatures-cause-virus-flare-471192",
+      "urlToImage": "https://d.medicaldaily.com/en/full/470632/dengue-fever.jpg",
+      "publishedAt": "2023-12-14 07:50:38",
+      "content": "Millions of people worldwide, particularly in the regions across the Western Hemisphere, have been infected with dengue fever this year, marking \"the most dengue in recorded history.\" Around five mi\u2026 [+2869 chars]",
+      "retrievedAt": "2023-12-15 19:05:23.805099",
+      "internal_id": "b61276dea1c94256b8b64e9b6edcd0afc363cea37d8d4c904c13d74507e0f229",
+      "publishedAtLabel": "Dec 14"
+    },
     {
       "id": 3716,
       "query": [
@@ -3415,204 +3613,6 @@
       "content": "Citation: Sarker AR, Paul S, Zohara F, Hossain Z, Zabeen I, Chowdhury SMZI, et al. (2023) Economic burden of dengue in urban Bangladesh: A societal perspective. PLoS Negl Trop Dis 17(12): e0011820.\u2026 [+24359 chars]",
       "retrievedAt": "2023-12-06 19:05:28.725005",
       "internal_id": "058278362efa1b9dcdde74a3bd48ccca1baaf6112465c37317118fb1e4553f9b",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3533,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Vanessa S. St\u00fcrmer, Sophie Stopper, Patrick Binder, Anja Klemmer, Nicolas P. Lichti, Nils B. Becker, Julien Guizetti",
-      "title": "Progeny counter mechanism in malaria parasites is linked to extracellular resources",
-      "description": "Author summary Malaria remains a significant burden on global health and has even seen a resurgence over the last years. The disease is caused by a small unicellular eukaryotic parasite of the Plasmodium genus, which proliferates by invading red blood cells a\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011807",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011807.g008&size=inline",
-      "publishedAt": "2023-12-05 14:00:00",
-      "content": "Abstract Malaria is caused by the rapid proliferation of Plasmodium parasites in patients and disease severity correlates with the number of infected red blood cells in circulation. Parasite multipl\u2026 [+78448 chars]",
-      "retrievedAt": "2023-12-06 19:05:30.101147",
-      "internal_id": "bfdabdd037ab776ed95416b9ecb91601b5dc781923dd0e42a61d1a20c3c74045",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3528,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Rebecca Wallersteiner",
-      "title": "Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections",
-      "description": "YYNYsalazar301123.f1YY Susan Abarca Salazar, a consultant in infectious diseases who was conducting doctoral research on evaluating new diagnostics to distinguish between children with tuberculous meningitis and other central nervous sys\u2026",
-      "url": "https://www.bmj.com/content/383/bmj.p2849",
-      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/383/8409.cover-source.jpg",
-      "publishedAt": "2023-12-05 13:16:24",
-      "content": "Rebecca WallersteinerLondon, UK wallersteiner{at}hotmail.com YYNY&lt;graphic&gt;salazar301123.f1YY&lt;/graphic&gt; Susan Abarca Salazar, a con\u2026 [+1882 chars]",
-      "retrievedAt": "2023-12-06 19:05:29.272859",
-      "internal_id": "298da8aa69ebb300631cc5484004d60f58ddac84b2297f0a8305f15e6dcfaed5",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3526,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "Falta d\u2019\u00e1gua causa surto de casos de dengue entre moradores de Brodowski",
-      "description": "A falta de \u00e1gua, um problema antigo em Brodowski, ajudou a provocar um surto de dengue na cidade. O n\u00famero de casos cresceu 281% no comparativ...",
-      "url": "https://recordtv.r7.com/recordtv-interior-sp/sp-record/falta-dagua-causa-surto-de-casos-de-dengue-entre-moradores-de-brodowski-05122023",
-      "urlToImage": "https://img.r7.com/images/sem-agua-dengue-brodowski-05122023095957327",
-      "publishedAt": "2023-12-05 10:15:01",
-      "content": "A falta de \u00e1gua, um problema antigo em Brodowski, ajudou a provocar um surto de dengue na cidade. O n\u00famero de casos cresceu 281% no comparativo de 2023 com 2022; sem \u00e1gua nas torneiras, moradores pre\u2026 [+136 chars]",
-      "retrievedAt": "2023-12-06 19:05:28.744932",
-      "internal_id": "ac0b935fb5aa5d8f3c9967b484910862431976df267bcd5577ea4eab5f72ba77",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3524,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "Death Toll Rises in Sudan Cholera and Dengue Outbreak",
-      "description": "[Dabanga] Port Sudan / El Gedaref -- Sudan's Red Sea and El Gedaref states report a steady increase in cases of cholera as the seasonal outbreak of disease takes hold. The death toll is rising daily.",
-      "url": "https://allafrica.com/stories/202312050110.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-05 07:46:38",
-      "content": "Port Sudan / El Gedaref \u2014 Sudan's Red Sea and El Gedaref states report a steady increase in cases of cholera as the seasonal outbreak of disease takes hold. The death toll is rising daily. Tokar Hos\u2026 [+3346 chars]",
-      "retrievedAt": "2023-12-06 19:05:28.735145",
-      "internal_id": "c158eef11830e3222632072f802a3537f257a8282dd7ffb8c9fcdccbb2c4fcd2",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3525,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "radiodabanga@gmail.com (Dabanga)",
-      "title": "Cholera - Public Urged to Take Measures As Deaths Rise",
-      "description": "[Dabanga] Port Sudan / El Gezira -- Health ministries in Sudan states are calling on the public to take measures to curtail the spread of cholera, and the proliferation of mosquito vectors for dengue, as the seasonal outbreak of disease takes hold. The medica\u2026",
-      "url": "https://allafrica.com/stories/202312050106.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-05 07:44:56",
-      "content": "Port Sudan / El Gezira \u2014 Health ministries in Sudan states are calling on the public to take measures to curtail the spread of cholera, and the proliferation of mosquito vectors for dengue, as the se\u2026 [+1600 chars]",
-      "retrievedAt": "2023-12-06 19:05:28.739875",
-      "internal_id": "28407cbe69d32af0008e966b3580abd00d93377a633aed3360edb2de454aef01",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3532,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Grief Knocks On Every Door in Rural West Oromia As Malaria Continues to Claim Lives",
-      "description": "[Addis Standard] Addis Abeba -- In a remote rural village in Kondala district of West Wollega zone, Oromia region, lives Tolasa, who recently faced a devastating loss of his 14-year-old son, Gemechis, due to an active malaria outbreak in the area. \"My son exh\u2026",
-      "url": "https://allafrica.com/stories/202312050093.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-05 07:37:43",
-      "content": "Addis Abeba \u2014 In a remote rural village in Kondala district of West Wollega zone, Oromia region, lives Tolasa, who recently faced a devastating loss of his 14-year-old son, Gemechis, due to an active\u2026 [+6344 chars]",
-      "retrievedAt": "2023-12-06 19:05:30.097728",
-      "internal_id": "c7bbcbd39d97cdcda2c19bc7f57c41a8c9cfe79c044683d36a69e9c3dac5a304",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3518,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Andi Firdaus, Raka Adji",
-      "title": "Tackling dengue with Wolbachia method",
-      "description": "Dengue fever in Indonesia is still a serious health threat that needs to be handled, with the average number of cases reaching 74 thousand to 140 thousand per year. The Ministry of Health reported that the highest incidence of ...",
-      "url": "https://en.antaranews.com/news/300222/tackling-dengue-with-wolbachia-method",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/27/IMG-20231127-WA0007_2.jpg",
-      "publishedAt": "2023-12-05 06:58:02",
-      "content": "Dengue fever in Indonesia is still a serious health threat that needs to be handled, with the average number of cases reaching 74 thousand to 140 thousand per year.The Ministry of Health reported tha\u2026 [+7794 chars]",
-      "retrievedAt": "2023-12-06 07:05:42.930474",
-      "internal_id": "fae8baf3ac6735f96553cebb23154bfe9e47feb0e20a770d96b7c31ecd338060",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3522,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Marketscreener.com",
-      "author": null,
-      "title": "Stigma, regulatory barriers delay mpox response in country that needs it most",
-      "description": "(marketscreener.com) Vaccines and treatments that could help tackle an mpox epidemic in the Democratic Republic of Congo are lying unused outside the country despite a death rate far higher than from the global outbreak that began last year. Stigma, regulato\u2026",
-      "url": "https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most-45498818/",
-      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2023-12-05 06:00:00",
-      "content": "LONDON, Dec 5 (Reuters) - Vaccines and treatments that could help tackle an mpox epidemic in the Democratic Republic of Congo are lying unused outside the country despite a death rate far higher t\u2026 [+4916 chars]",
-      "retrievedAt": "2023-12-06 07:05:45.468134",
-      "internal_id": "6fd761d97d8c09a6468b2b5c496e4cc0d175fe6814fcde95f10b8fe3e538ce90",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3515,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: Alliance Introduces New Vaccine Programmes to Save More Lives and Support Child Health",
-      "description": "Press Release - Countries can now submit plans to introduce diphtheria, tetanus and pertussis (DTP)-containing vaccine boosters (DTP boosters) and the six-in-one hexavalent vaccine Gavi and partners are also working towards expanding the portfolio of offering\u2026",
-      "url": "https://allafrica.com/stories/202312050002.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-05 04:37:11",
-      "content": "Geneva \u2014 Countries can now submit plans to introduce diphtheria, tetanus and pertussis (DTP)-containing vaccine boosters (DTP boosters) and the six-in-one hexavalent vaccineGavi and \u2026 [+5892 chars]",
-      "retrievedAt": "2023-12-06 07:05:41.092636",
-      "internal_id": "4ef97930c57602a3a89189b9f6dd3ce8fea1cfe669eb4ad2424bff578c31788a",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3521,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Estella Abreu",
-      "title": "Microcefalia: v\u00edrus Zika n\u00e3o \u00e9 a \u00fanica causa, alerta campanha",
-      "description": "A Semana Nacional de Conscientiza\u00e7\u00e3o sobre Microcefalia come\u00e7a todo dia 4 de dezembro O post Microcefalia: v\u00edrus Zika n\u00e3o \u00e9 a \u00fanica causa, alerta campanha apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/12/05/medicina-e-saude/microcefalia-virus-zika-nao-e-a-unica-causa-alerta-campanha/",
-      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/12/mosquito-1.jpg",
-      "publishedAt": "2023-12-05 04:20:00",
-      "content": "O Brasil viveu uma das maiores epidemias de Zika entre 2015 e 2016, que resultou em quase 2 mil casos de microcefalia, uma malforma\u00c3\u00a7\u00c3\u00a3o grave no c\u00c3\u00a9rebro dos beb\u00c3\u00aas. Desde ent\u00c3\u00a3o, o governo federal\u2026 [+4179 chars]",
-      "retrievedAt": "2023-12-06 07:05:44.981603",
-      "internal_id": "3d598c28496223dd326b33a1d54d35927980886cae23ce8d7258a81c7d706ae7",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3519,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Ari Daniel",
-      "title": "Big city mosquitoes are a big problem \u2014 and now a big target",
-      "description": "Africa's cities have become home to an invasive, malaria-carrying mosquito. New research suggests vulnerabilities that could be exploited to take on the disease-bearing insects.",
-      "url": "https://www.npr.org/sections/goatsandsoda/2023/12/04/1217120913/big-city-mosquitoes-are-a-big-problem-and-now-a-big-target",
-      "urlToImage": "https://media.npr.org/assets/img/2023/12/04/01_stephensi_orange_plastic_pit_20230311_150018-copy-2_wide-7435348174dd595dfd7006c3c2bd4a5eed649b5a-s1400-c100.jpg",
-      "publishedAt": "2023-12-05 00:04:31",
-      "content": "Manmade pits at construction sites are providing nurseries for malaria-carrying mosquitoes, new research finds. Gonzalo Vazquez-Prokopec About a decade ago, a new kind of mosquito began showing up \u2026 [+6271 chars]",
-      "retrievedAt": "2023-12-06 07:05:44.288249",
-      "internal_id": "f60588aa1e516e5b6595a183af485fd212123105ad75470159a2da62a1006622",
       "publishedAtLabel": "Dec 5"
     }
   ]
