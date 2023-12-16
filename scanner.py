@@ -6,6 +6,7 @@ import re
 import sqlite3
 from newsapi import NewsApiClient
 from settings import KEYWORD_QUERIES, SOURCE_IGNORE
+import report_maker
 
 NEWSAPI = NewsApiClient(api_key=os.environ.get("NEWSAPI_KEY"))
 
@@ -43,13 +44,13 @@ class Harvester:
             c.execute(f"SELECT COUNT(*) FROM articles")
             self.num_articles_start = c.fetchone()[0]
             # Harvest new articles, update counts and export JSON
-            self.harvest()
-            self.update_article_counts()
-            self.export()
+            # self.harvest()
         except Exception as e:
             # Handle the exception
             print("* An error occurred:", str(e))
         finally:
+            self.update_article_counts()
+            self.export()
             # Close the database connection
             self.close_db_connection(db_name)
 
@@ -104,6 +105,8 @@ class Harvester:
         if "articles" in r:
             print(f"Got {len(r['articles'])} {query} articles")
             return r["articles"]
+        else:
+            print("No 'articles' key found in reponse.")
         return []
 
     def process_article(self, query, article):
@@ -128,7 +131,7 @@ class Harvester:
         author = article["author"]
         url = article["url"]
         urlToImage = article["urlToImage"]
-        
+
         content = str_squish(article["content"])
         retrievedAt = datetime.now()
 
@@ -191,10 +194,23 @@ class Harvester:
         self.count_articles_new = num_articles_end - self.num_articles_start
         print(f"This includes {self.count_articles_new} new article(s)")
 
-    def export(self, dst_file="data/articles.json"):
+    def export(self, dst_file="data/articles.json", num_weeks_lookback=6):
         c = self.conn.cursor()
 
-        c.execute("SELECT * FROM articles ORDER BY publishedAt DESC LIMIT 300")
+        # Calculate the start date for the lookback period
+        # lookback_start = datetime.now() - timedelta(weeks=num_weeks_lookback)
+
+        # Find the last Monday from the current date
+        now = datetime.now()
+        last_sunday = now - timedelta(days=(now.weekday() + 1) % 7)
+
+        # Subtract 4 weeks from the last Sunday
+        lookback_start = last_sunday - timedelta(weeks=num_weeks_lookback)
+
+        c.execute(
+            "SELECT * FROM articles WHERE publishedAt >= ? ORDER BY publishedAt DESC",
+            (lookback_start,),
+        )
         rows = c.fetchall()
 
         result = []
@@ -217,7 +233,7 @@ class Harvester:
                     "last_updated": publish_time,
                     "count_articles_total": len(result),
                     "count_articles_new": self.count_articles_new,
-                    "articles": result[:200],
+                    "articles": result,
                 },
                 json_file,
                 indent=2,
@@ -226,3 +242,6 @@ class Harvester:
 
 # Intitialise the harvester
 harvester = Harvester()
+
+# Create a markdown report of last 6 weeks of data
+report_maker.gen_report()
