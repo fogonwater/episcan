@@ -89,7 +89,7 @@ def gen_report():
     report += dict_to_md_table(disease_counts)
 
     # Write the report to a markdown file
-    with open("report.md", "w") as f:
+    with open("data/report.md", "w") as f:
         f.write(report)
 
 
