@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-12-15 19:05",
+  "last_updated": "2023-12-16 05:53",
   "count_articles_total": 300,
-  "count_articles_new": 11,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 3733,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Lesego, A., Tsegaye, T., Were, L. P. O., Sakvarelidze, G., Garg, S., Morrison, L., Nigussie, S., Githendu, P., Achoki, T.",
+      "title": "Assessment of the Global Fund-supported procurement and supply chain reforms at the Ethiopian Pharmaceuticals Supply Agency: a mixed-methods study",
+      "description": "Objective The Global Fund to Fight AIDS, Tuberculosis and Malaria (Global Fund) partnered with the Ethiopian Pharmaceutical Supply Agency (EPSA) in 2018\u20132019 to reform procurement and supply chain management (PSCM) procedures within the Ethiopian healthcare s\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/12/e073390?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-12-15 05:39:19",
+      "content": "STRENGTHS AND LIMITATIONS OF THIS STUDY The study employed a mixed-methods approach to provide a comprehensive assessment of the observed trends in pharmaceutical procurement and supply chai\u2026 [+35392 chars]",
+      "retrievedAt": "2023-12-16 05:53:12.071206",
+      "internal_id": "6b00725301fea8377fe63590e9c25c2b9daf84a044d124064373cffe92412179",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 3729,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Moneycontrol News",
+      "title": "Panacea Biotec shares rise 5% on pentavalent vaccine launch in India",
+      "description": "EasyFourPol is the world\u00e2\u0080\u0099s first fully liquid wP-IPV Pentavalent vaccine, which protects children against five deadly diseases i.e. Diphtheria, Tetanus, Pertussis, Polio, and invasive infections caused by Haemophilus Influenza Type b.",
+      "url": "https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/06/PANACEA-BIOTEC-770x433.jpg",
+      "publishedAt": "2023-12-15 04:04:51",
+      "content": "Panacea Biotec's share price saw a 5 percent increase in early trade on December 15. This surge followed the company's launch of a fully-liquid wP-IPV-based pentavalent vaccine named 'EasyFourPol' in\u2026 [+2258 chars]",
+      "retrievedAt": "2023-12-16 05:53:10.519387",
+      "internal_id": "ebc91041b9ae68d0c31e6e29025f95b2a6289f0b2d7230a3b3e54f32890ba58f",
+      "publishedAtLabel": "Dec 15"
+    },
+    {
+      "id": 3731,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Dengue complic\u00f3 salud de ni\u00f1o de cuatro a\u00f1os, pero no fue causa directa de muerte",
+      "description": "Menor presentaba varias patolog\u00edas de fondo, diagn\u00f3stico de dengue fue \u2018post mortem\u2019, confirma Salud",
+      "url": "https://www.nacion.com/ciencia/salud/dengue-complico-salud-de-nino-de-cuatro-anos-pero/XPHKEERS3BGSJB3PMRBULSJOSI/story/",
+      "urlToImage": "https://www.nacion.com/resizer/S9aElcLhf3U7hedp1yoyN-5AVoo=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/AE4AOP7QUVESJAXQWVKTX6CV7I.jpeg",
+      "publishedAt": "2023-12-14 23:14:29",
+      "content": "Un menor de cuatro a\u00f1os vecino de Pital de San Carlos falleci\u00f3 en el Hospital Nacional de Ni\u00f1os producto de complicaciones de varias enfermedades, entre ellas dengue, sin que pueda considerarse como \u2026 [+4184 chars]",
+      "retrievedAt": "2023-12-16 05:53:11.361549",
+      "internal_id": "0394eb954abe491edd0efba6bf03dc27c4a32a3dc91e430cd3218966c52ed488",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3730,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "SHARON LING",
+      "title": "Woman dies of rabies, bringing Sarawak death toll to 16",
+      "description": "KUCHING: A 44-year-old woman was the latest rabies fatality in Sarawak, bringing the number of deaths to 16 out of the 18 human cases this year. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/12/15/woman-dies-of-rabies-bringing-sarawak-death-toll-to-16",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/12/15/2440283.jpeg",
+      "publishedAt": "2023-12-14 23:00:00",
+      "content": "KUCHING: A 44-year-old woman was the latest rabies fatality in Sarawak, bringing the number of deaths to 16 out of the 18 human cases this year. State health director Dr Ooi Choo Huck said the woman\u2026 [+1923 chars]",
+      "retrievedAt": "2023-12-16 05:53:10.820769",
+      "internal_id": "caca800311b74d99f8136ab38cd5e0f1a348b9509b2931ef10ccd180c3373f66",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 3732,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Novel bacteria identification methods might help speed up disease diagnosis",
+      "description": "Pseudomonas aeruginosa is a bacterial strain that can be responsible for several human diseases. The most serious include malignant external otitis, endophthalmitis, endocarditis, meningitis, pneumonia, and septicemia.",
+      "url": "https://phys.org/news/2023-12-bacteria-identification-methods-disease-diagnosis.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/novel-bacteria-identif.jpg",
+      "publishedAt": "2023-12-14 22:16:03",
+      "content": "Pseudomonas aeruginosa is a bacterial strain that can be responsible for several human diseases. The most serious include malignant external otitis, endophthalmitis, endocarditis, meningitis, pneumon\u2026 [+3382 chars]",
+      "retrievedAt": "2023-12-16 05:53:11.577469",
+      "internal_id": "410fd17c2423619b6c36fa09945639167b4c7a195001be169bfbcc05d34d52bd",
+      "publishedAtLabel": "Dec 14"
+    },
     {
       "id": 3722,
       "query": [
@@ -3522,97 +3612,6 @@
       "content": "Fazila, a midwife from Sindh Province, Pakistan, told the Global Fund to Fight AIDS, Tuberculosis and Malaria (Global Fund) that she knew exactly how to prepare for the 2022 monsoon season. She and h\u2026 [+6668 chars]",
       "retrievedAt": "2023-12-06 19:05:30.079034",
       "internal_id": "74aacf35c6e146fb684a3b6dfcd12bde976d2247a3ef166081edfa35030d8111",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3529,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Phys.Org",
-      "author": "Carol Clark",
-      "title": "Building boom boosts malaria-carrying, invasive mosquito in Ethiopia, evidence shows",
-      "description": "A malaria-carrying mosquito that thrives in urban environments is moving into Africa where a construction boom may be one factor helping the newcomer feel at home.",
-      "url": "https://phys.org/news/2023-12-boom-boosts-malaria-carrying-invasive-mosquito.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/building-boom-boosts-m.jpg",
-      "publishedAt": "2023-12-05 18:20:32",
-      "content": "A malaria-carrying mosquito that thrives in urban environments is moving into Africa where a construction boom may be one factor helping the newcomer feel at home. The Lancet Planetary Health publis\u2026 [+8610 chars]",
-      "retrievedAt": "2023-12-06 19:05:30.071990",
-      "internal_id": "08c7e8082733b2a0642b0fde8da566e433502bb24ab4582fc660f40646af8c6c",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3531,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Krishnendu Bandyopadhyay",
-      "title": "Urban malaria risk in Surat, India: climate and socioeconomic factors at play",
-      "description": "Surat, northwest India, faces an escalating risk of urban malaria fueled by A. stephensi breeding in artificial containers. The study analyzes the impact of climate and socioeconomic factors on malaria cases in the city. Urban malaria exhibits stationary spat\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/urban-malaria-risk-in-surat-india-climate-and-socioeconomic-factors-at-play/articleshow/105762734.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105763081,width-1070,height-580,imgsize-702775,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-12-05 17:43:19",
-      "content": "12 hill stations and their must-try dishes",
-      "retrievedAt": "2023-12-06 19:05:30.085009",
-      "internal_id": "01555ee855f99d7bb9b6c3adf4779ca485689eb65e10a9a4387b462b9485c0b1",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3527,
-      "query": [
-        "dengue",
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "REDACCI\u00d3N POL\u00cdTICA",
-      "title": "Concejo pide al Distrito mayor control al dengue, al VIH y a la leptospirosis",
-      "description": "En la sesi\u00f3n de ayer en el Concejo Distrital, el concejal David M\u00fanera expres\u00f3 su preocupaci\u00f3n por el crecimiento del VIH en Cartagena, se\u00f1alando que la ciudad lidera en la propagaci\u00f3n de la enfermedad a nivel nacional e internacional. Destac\u00f3 la falta de con\u2026",
-      "url": "https://www.eluniversal.com.co/politica/concejo-pide-al-distrito-mayor-control-al-dengue-al-vih-y-a-la-leptospirosis-FF9575205",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/800x686/0c0/0d0/none/13704/YBXR/vih-en-cartagena-7926569-20230607181150_9081958_20231205103921.jpg",
-      "publishedAt": "2023-12-05 15:39:18",
-      "content": "En la sesi\u00f3n de ayer en el Concejo Distrital, el concejal David M\u00fanera expres\u00f3 su preocupaci\u00f3n por el crecimiento del VIH en Cartagena, se\u00f1alando que la ciudad lidera en la propagaci\u00f3n de la enfermed\u2026 [+1975 chars]",
-      "retrievedAt": "2023-12-06 19:05:28.751077",
-      "internal_id": "5632cb49e21eafaf307c3d5b18a6970164ad266ba1f8d0641e0bfc9b7c25f01f",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3534,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "GlobeNewswire",
-      "author": "Sabin Vaccine Institute",
-      "title": "Global Typhoid Challenges in Focus at International Conference in Rwanda",
-      "description": "KIGALI, Rwanda, Dec. 05, 2023 (GLOBE NEWSWIRE) -- The 13th International Conference on Typhoid & Other Invasive Salmonelloses gets under way today in Kigali, Rwanda, with nearly 350 researchers, healthcare professionals and policymakers meeting to find ways t\u2026",
-      "url": "https://www.globenewswire.com/news-release/2023/12/05/2791023/0/en/Global-Typhoid-Challenges-in-Focus-at-International-Conference-in-Rwanda.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7c57b728-3431-4b2f-8bd6-feacc4f06979",
-      "publishedAt": "2023-12-05 14:05:00",
-      "content": "KIGALI, Rwanda, Dec. 05, 2023 (GLOBE NEWSWIRE) -- The 13th International Conference on Typhoid &amp; Other Invasive Salmonelloses gets under way today in Kigali, Rwanda, with nearly 350 researchers, \u2026 [+4494 chars]",
-      "retrievedAt": "2023-12-06 19:05:31.173698",
-      "internal_id": "6ea69c240fcc740c242f8a19f5bf0104456c1cf7c1e3fe076f70473a255a513e",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3523,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Abdur Razzaque Sarker, Subrata Paul, Fatema Zohara, Zakir Hossain, Irfat Zabeen, S. M. Zahedul Islam Chowdhury, Maruf Ahmed, Nausad Ali, Raymond Oppong",
-      "title": "Economic burden of dengue in urban Bangladesh: A societal perspective",
-      "description": "Author summary Dengue is a vector-borne viral disease affecting over 40 million people in Bangladesh. Dengue is endemic in urban Dhaka, Bangladesh, but the economic cost of illness is still limited. A growing literature shows that dengue imposes an enormous s\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011820",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011820.g002&size=inline",
-      "publishedAt": "2023-12-05 14:00:00",
-      "content": "Citation: Sarker AR, Paul S, Zohara F, Hossain Z, Zabeen I, Chowdhury SMZI, et al. (2023) Economic burden of dengue in urban Bangladesh: A societal perspective. PLoS Negl Trop Dis 17(12): e0011820.\u2026 [+24359 chars]",
-      "retrievedAt": "2023-12-06 19:05:28.725005",
-      "internal_id": "058278362efa1b9dcdde74a3bd48ccca1baaf6112465c37317118fb1e4553f9b",
       "publishedAtLabel": "Dec 5"
     }
   ]
