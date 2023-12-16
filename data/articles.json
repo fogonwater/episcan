@@ -1,8 +1,26 @@
 {
-  "last_updated": "2023-12-16 05:53",
+  "last_updated": "2023-12-16 07:05",
   "count_articles_total": 300,
-  "count_articles_new": 5,
+  "count_articles_new": 1,
   "articles": [
+    {
+      "id": 3734,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Wattsupwiththat.com",
+      "author": "Guest Blogger",
+      "title": "U.K. Health Security Agency Deploys Made-Up Rise of 5\u00b0C in 80 Years to Spread Alarm About Dengue Fever Plague in London",
+      "description": "...the British public who are entitled to receive timely and realistic advice on current and future health threats, not politically-driven scare stories based on unproven science and garbage-in, garbage-out climate models. The post U.K. Health Security Agency\u2026",
+      "url": "https://wattsupwiththat.com/2023/12/14/u-k-health-security-agency-deploys-made-up-rise-of-5c-in-80-years-to-spread-alarm-about-dengue-fever-plague-in-london/",
+      "urlToImage": "https://wattsupwiththat.com/wp-content/uploads/2020/12/wuwt-logo.jpg",
+      "publishedAt": "2023-12-15 06:00:00",
+      "content": "From the DAILY SCEPTIC BY CHRIS MORRISON The threat of tropical mosquito-borne vector diseases becoming endemic in Britain in the near future made recent headlines in the unquestioning mainstream m\u2026 [+4406 chars]",
+      "retrievedAt": "2023-12-16 07:05:43.944071",
+      "internal_id": "c0d296fcdf1f1ce60fa9307844cf46b80f08d42e080a283b0bbe5b5f205c328a",
+      "publishedAtLabel": "Dec 15"
+    },
     {
       "id": 3733,
       "query": [
@@ -3594,24 +3612,6 @@
       "content": "Uma especialista em doen\u00e7as tropicais afirmou, esta ter\u00e7a-feira, que as infe\u00e7\u00f5es como a mal\u00e1ria, o zika, dengue e chikungunya v\u00e3o aumentar e espalhar-se pelo mundo \u00e0 medida que as temperaturas aument\u2026 [+1986 chars]",
       "retrievedAt": "2023-12-07 07:05:47.224232",
       "internal_id": "8c081d38534c8843d95c4597216b34eddb1c93f500eb2e772e1d2080803673d2",
-      "publishedAtLabel": "Dec 5"
-    },
-    {
-      "id": 3530,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The National Interest ",
-      "author": "Mark P. Lagon, Jude Farley",
-      "title": "Climate Change Is Harming Both Global Security and Human Dignity",
-      "description": "Fazila, a midwife from Sindh Province, Pakistan, told the Global Fund to Fight AIDS, Tuberculosis and Malaria (Global Fund) that she knew exactly how to prepare for the 2022 monsoon season. She and her mother evacuated their village after storing their belong\u2026",
-      "url": "https://nationalinterest.org/feature/climate-change-harming-both-global-security-and-human-dignity-207739",
-      "urlToImage": "https://nationalinterest.org/sites/default/files/main_images/shutterstock_1219524892%20%281%29.jpg",
-      "publishedAt": "2023-12-05 18:39:19",
-      "content": "Fazila, a midwife from Sindh Province, Pakistan, told the Global Fund to Fight AIDS, Tuberculosis and Malaria (Global Fund) that she knew exactly how to prepare for the 2022 monsoon season. She and h\u2026 [+6668 chars]",
-      "retrievedAt": "2023-12-06 19:05:30.079034",
-      "internal_id": "74aacf35c6e146fb684a3b6dfcd12bde976d2247a3ef166081edfa35030d8111",
       "publishedAtLabel": "Dec 5"
     }
   ]
