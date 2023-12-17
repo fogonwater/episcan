@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-12-18 06:16",
-  "count_articles_total": 820,
-  "count_articles_new": 0,
+  "last_updated": "2023-12-17 17:18",
+  "count_articles_total": 819,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 3759,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia - Cidades",
+      "title": "Em combate \u00e0 dengue, bombeiros fazem inspe\u00e7\u00f5es em Brazl\u00e2ndia",
+      "description": "As visitas domiciliares est\u00e3o sendo realizadas neste fim de semana no Setor Tradicional de Brazl\u00e2ndia para combater focos do mosquito Aedes aegypti",
+      "url": "https://jornaldebrasilia.com.br/brasilia/em-combate-a-dengue-bombeiros-fazem-inspecoes-em-brazlandia/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/12/16170912/52781435637_365e15fd5f_b.jpg",
+      "publishedAt": "2023-12-16 17:09:33",
+      "content": "O Corpo de Bombeiros Militar do Distrito Federal (CBMDF) est\u00e1 realizando inspe\u00e7\u00f5es domiciliares em Brazl\u00e2ndia neste s\u00e1bado (16) e domingo (17). As equipes concentram os trabalhos no Setor Tradicional\u2026 [+898 chars]",
+      "retrievedAt": "2023-12-17 17:18:34.253639",
+      "internal_id": "41930b6a3d3b404e71bfda22b8d01bb0b3d51b2907e2c967c458d7aac8df775e",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 3760,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Globalsecurity.org",
+      "author": "John Pike",
+      "title": "World News in Brief: Abused Afghan women face prison, UNICEF global alert, deadly mpox resurfaces in DRC",
+      "description": "Under Taliban rule in Afghanistan, women reporting gender-based violence to the authorities may end up in prison - allegedly for the victims' own protection.",
+      "url": "https://www.globalsecurity.org/military/library/news/2023/12/mil-231215-unnews04.htm",
+      "urlToImage": null,
+      "publishedAt": "2023-12-16 09:57:15",
+      "content": "15 December 2023 - Under Taliban rule in Afghanistan, women reporting gender-based violence to the authorities may end up in prison - allegedly for the victims' own protection. That's just one of th\u2026 [+4960 chars]",
+      "retrievedAt": "2023-12-17 17:18:36.325533",
+      "internal_id": "707b87a2b820ca2a706b3f944c3c115a7741c0e2fec5af0c6dbece3c64659767",
+      "publishedAtLabel": "Dec 16"
+    },
+    {
+      "id": 3761,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "AFP",
+      "title": "Verbreitung durch Sexarbeit - WHO bef\u00fcrchtet weltweite Ausbreitung der Infektionskrankheit Mpox",
+      "description": "In der Demokratischen Republik Kongo melden die Beh\u00f6rden immer mehr F\u00e4lle der Infektionskrankheit Mpox. Die als Affenpocken bekannte Krankheit wurde mittlerweile auch in mehreren L\u00e4ndern in Asien \u2013 insbesondere in Japan, Vietnam, China und Indonesien gemeldet.",
+      "url": "https://www.focus.de/gesundheit/verbreitung-durch-sexarbeit-who-befuerchtet-weltweite-ausbreitung-der-infektionskrankheit-mpox_id_259503685.html",
+      "urlToImage": "https://p6.focus.de/img/finanzen/karriere/id_245588250/die-who-warnt-vor-einer-ausbreitung-der-infektionskrankheit-mpox-symbolbild-..jpg?im=Crop%3D%280%2C170%2C2048%2C1024%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=ce454d05a873ab5d7966d5ed5d295da766ed3e447032d7f4d2ee4ab81d1b4ed1",
+      "publishedAt": "2023-12-16 09:06:10",
+      "content": " Kommentare E-Mail Teilen Mehr Twitter Drucken Feedback Fehler meldenSie haben einen Fehler gefunden? Bitte markieren S\u2026 [+2153 chars]",
+      "retrievedAt": "2023-12-17 17:18:36.340475",
+      "internal_id": "2bc9ddba8920a8fa5423ebb11514c47a6d7e50e3a95e129164d3ffbb3d71f3cb",
+      "publishedAtLabel": "Dec 16"
+    },
     {
       "id": 3758,
       "query": [
@@ -14741,78 +14795,6 @@
       "content": "KalbarOnline, Pontianak \u2013 Penjabat (Pj) Gubernur Provinsi Kalbar, Harisson meminta para bupati dan wali kota serius dalam menangani lonjakan kasus demam berdarah dengue (DBD). Terutama pada wilayah y\u2026 [+4534 chars]",
       "retrievedAt": "2023-11-07 07:05:44.895874",
       "internal_id": "268e3dac225231335a2141ee74fa2dcdd03daa13ee390fde70715be357ad47aa",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2940,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Dengue death toll crosses 1,400-mark",
-      "description": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more patients were hospitalised with the viral fever, according to\u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-crosses-1400-mark-733734",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/05/2m9a8079_0.jpg",
-      "publishedAt": "2023-11-05 14:10:42",
-      "content": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more \u2026 [+585 chars]",
-      "retrievedAt": "2023-11-06 19:05:22.974215",
-      "internal_id": "8ba2e2aea33e19748697f97dce0e9bf5c214207b60c2fa2348627ba9c8d9d1d6",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2941,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "David Will",
-      "title": "Heute vor 143 Jahren: Als ein Au\u00dfenseiter den Malaria-Erreger fand",
-      "description": "Lange glauben \u00c4rzte, dass Malaria durch giftige D\u00e4mpfe verursacht wird. Erst ein Blick ins Blut von Soldaten f\u00fchrt auf die richtige Spur.",
-      "url": "https://www.tagesspiegel.de/wissen/heute-vor-143-jahren-x-10728799.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/malaria005-the-malaria-infected-red-blood-cells/alternates/BASE_16_9_W1400/malaria005-the-malaria-infected-red-blood-cells.jpeg",
-      "publishedAt": "2023-11-05 12:48:20",
-      "content": "Einfach mal wieder richtig durchatmen in Buenos Aires! Das dachten zumindest die spanischen Eroberer, die im 16. Jahrhundert zum ersten Mal am Rio de la Plata Anker legten und die Siedlung der guten \u2026 [+2750 chars]",
-      "retrievedAt": "2023-11-06 19:05:24.244357",
-      "internal_id": "e1e80af99c7ac7ee2edf109d00bb3fdf0cd28fadad8016325e6944a0f5677179",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2942,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Twentyfournews.com",
-      "author": "24 Web Desk",
-      "title": "Zika prevention efforts remain strong: Health Minister",
-      "description": "Zika prevention efforts remain strong: Health \u0d38\u0d3f\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2a\u0d4d\u0d30\u0d35\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d2f\u0d3f \u0d24\u0d41\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41: \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f \u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f",
-      "url": "https://www.twentyfournews.com/2023/11/05/zika-prevention-efforts-remain-strong-health-minister.html",
-      "urlToImage": "https://www.twentyfournews.com/wp-content/uploads/2023/11/Zika-prevention-efforts-remain-strong_-Health-Minister.jpg",
-      "publishedAt": "2023-11-05 12:41:12",
-      "content": ". 8 . . . . 30 31 . 1, 2, 5 . . 55 . 24 . . , . . . 104 . 5 , , . . . . . . Story Highlights: Zika prevention efforts remain strong: Health Minister",
-      "retrievedAt": "2023-11-06 19:05:24.864638",
-      "internal_id": "c7a82ae030c9caa7e5cc8cdb723efa58f41ce83b1f4aa3a5f51ee568897bdafb",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2939,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Maeghan Dolph",
-      "title": "Understanding the severity of the mosquito-borne disease dengue",
-      "description": "Delve into the key aspects of dengue fever and severe dengue, while also shedding light on these mosquito-borne diseases' significance and distinctions in those infected.",
-      "url": "https://www.foxnews.com/lifestyle/dengue-severe-dengue-mosquito-borne-disease",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AP23173281339142.jpg",
-      "publishedAt": "2023-11-05 08:00:25",
-      "content": "Dengue fever is a mosquito-borne viral infection that affects millions of people worldwide, causing a wide range of symptoms. In some cases, dengue can progress into a potentially life-threatening \u2026 [+4527 chars]",
-      "retrievedAt": "2023-11-06 19:05:22.953961",
-      "internal_id": "d8aaf37e2aef933f6c68f1567f297aea8601660ad7e964fa74f58e82ec36aef1",
       "publishedAtLabel": "Nov 5"
     }
   ]
