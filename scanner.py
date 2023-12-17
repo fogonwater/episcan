@@ -44,7 +44,7 @@ class Harvester:
             c.execute(f"SELECT COUNT(*) FROM articles")
             self.num_articles_start = c.fetchone()[0]
             # Harvest new articles, update counts and export JSON
-            # self.harvest()
+            self.harvest()
         except Exception as e:
             # Handle the exception
             print("* An error occurred:", str(e))
