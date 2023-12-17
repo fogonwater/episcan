@@ -1,8 +1,26 @@
 {
-  "last_updated": "2023-12-17 01:02",
-  "count_articles_total": 823,
-  "count_articles_new": 0,
+  "last_updated": "2023-12-17 07:05",
+  "count_articles_total": 820,
+  "count_articles_new": 1,
   "articles": [
+    {
+      "id": 3758,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Delayed Plasmodium falciparum Malaria in Pregnant Patient with Sickle Cell Trait 11 Years after Exposure, Oregon, USA",
+      "description": "Delayed P. falciparum Malaria in Pregnant Patient",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/1/23-1231_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2023-12-16 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Plasmodium falciparum mala\u2026 [+10141 chars]",
+      "retrievedAt": "2023-12-17 07:05:46.497775",
+      "internal_id": "6cb8e9e4b5ed5d44c461cc885bc7bbefbf9cf6816e910286ae1e9697373162db",
+      "publishedAtLabel": "Dec 16"
+    },
     {
       "id": 3736,
       "query": [
@@ -14795,78 +14813,6 @@
       "content": "Dengue fever is a mosquito-borne viral infection that affects millions of people worldwide, causing a wide range of symptoms. In some cases, dengue can progress into a potentially life-threatening \u2026 [+4527 chars]",
       "retrievedAt": "2023-11-06 19:05:22.953961",
       "internal_id": "d8aaf37e2aef933f6c68f1567f297aea8601660ad7e964fa74f58e82ec36aef1",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2936,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "California officials confirm 2 cases of dengue, a mosquito-borne illness rarely transmitted in US - Jamaica Gleaner",
-      "description": "California officials confirm 2 cases of dengue, a mosquito-borne illness rarely transmitted in USJamaica Gleaner Long Beach reports locally acquired dengue virus following case in PasadenaKABC-TV California confirms 2nd local dengue case | CIDRAPUniversity of\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172173460",
-      "urlToImage": null,
-      "publishedAt": "2023-11-05 06:12:16",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-06 07:05:46.358727",
-      "internal_id": "44f4783ab69ccc524d41ef75bb8423b7a429e0b4793bcb8e33c2b57e0ab68338",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2938,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "DNA India",
-      "author": "\u0921\u0940\u090f\u0928\u090f \u0939\u093f\u0902\u0926\u0940 \u0935\u0947\u092c \u0921\u0947\u0938\u094d\u0915",
-      "title": "Zika Virus Symptoms: \u0915\u0948\u0938\u0947 \u092b\u0948\u0932\u0924\u093e \u0939\u0948 \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938, \u091c\u093e\u0928\u0947\u0902 \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u093e \u0924\u0930\u0940\u0915\u093e",
-      "description": "Zika Virus Treatment: \u091c\u0940\u0915\u093e \u0935\u093e\u092f\u0930\u0938 \u090f\u0921\u0940\u091c \u092e\u091a\u094d\u091b\u0930\u094b\u0902 \u0915\u0947 \u0915\u093e\u091f\u0928\u0947 \u0938\u0947 \u092b\u0948\u0932\u0924\u093e \u0939\u0948 \u0914\u0930 \u0907\u0938 \u092c\u0940\u092e\u093e\u0930\u0940 \u0915\u0947 \u0939\u094b\u0928\u0947 \u0938\u0947 \u0924\u0947\u091c \u092c\u0941\u0916\u093e\u0930 \u0935 \u0936\u0930\u0940\u0930 \u092e\u0947\u0902 \u0926\u0930\u094d\u0926 \u0914\u0930 \u0938\u093f\u0930\u0926\u0930\u094d\u0926 \u0939\u094b\u0928\u0947 \u0932\u0917\u0924\u093e \u0939\u0948. \u092f\u0939\u093e\u0902 \u091c\u093e\u0928\u093f\u090f \u0907\u0938\u0915\u0947 \u0905\u0928\u094d\u092f \u0932\u0915\u094d\u0937\u0923 \u0914\u0930 \u092c\u091a\u093e\u0935 \u0915\u093e \u0924\u0930\u0940\u0915\u093e...",
-      "url": "https://www.dnaindia.com/hindi/health/report-zika-virus-symptoms-and-prevention-karnataka-on-high-alert-mosquito-aedes-aegypti-zika-virus-kaise-failta-hai-4105825",
-      "urlToImage": "https://cdn.dnaindia.com/sites/default/files/2023/11/05/7110391-zika-virus-symptoms.jpg",
-      "publishedAt": "2023-11-05 05:09:42",
-      "content": "Zika Virus Treatment: . ... : . . 100 (Zika Virus Symptoms) 6 . 5 . . (Zika Virus Alert In Karnataka) . , ... ? (How Zika Virus Get Spreads) . . , . . . ? (Zika Virus Symptoms) 5 , (\u2026 [+117 chars]",
-      "retrievedAt": "2023-11-06 07:05:47.477206",
-      "internal_id": "c3394a56cb48264190683a4393511050151dc6285a8be06a4e84da70d02e4590",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2935,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Lavozdegalicia.es",
-      "author": "\u00e1lvaro soto",
-      "title": "Alerta en el sur de Europa por el aumento de los casos de dengue",
-      "description": "Italia registra 66 casos, Francia, 36 y Espa\u00f1a, tres, de una enfermedad que se ha extendido por el fin de las restricciones de la covid y el cambio clim\u00e1tico",
-      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2023/11/04/alerta-sur-europa-aumento-casos-dengue/00031699112780805675297.htm",
-      "urlToImage": "https://www.lavozdegalicia.es/default/2023/11/04/00121699113121469586279/Foto/efe_20231009_102741772.jpg",
-      "publishedAt": "2023-11-05 04:00:00",
-      "content": "Hace no demasiado tiempo, el dengue pareca una lejana amenaza para los europeos. Esta enfermedad tropical estaba circunscrita a Latinoamrica, a frica y a Asia, donde contina haciendo estragos. Pero a\u2026 [+2929 chars]",
-      "retrievedAt": "2023-11-06 07:05:46.356125",
-      "internal_id": "3a10241f553b05e3f8616e69ddfad8c9fbca3e13c2e2e0043d1310fba1dadab3",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2934,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Maharashtratimes.com",
-      "author": null,
-      "title": "\u0928\u093e\u0936\u093f\u0915\u0930\u093e\u0902\u0928\u094b \u0938\u093e\u0935\u0927\u093e\u0928! \u0921\u0947\u0902\u0917\u094d\u092f\u0942\u091a\u093e \u0927\u094b\u0915\u093e \u0935\u093e\u0922\u0932\u093e\u092f, \u0936\u0939\u0930\u093e\u0924 \u0935\u0930\u094d\u0937\u093e\u0924\u0940\u0932 \u092a\u0939\u093f\u0932\u093e \u092c\u0933\u0940, \u0924\u0940\u0928\u0936\u0947 \u0905\u0939\u0935\u093e\u0932 \u092a\u094d\u0930\u0932\u0902\u092c\u093f\u0924",
-      "description": "Nashik Dengue Cases: \u0910\u0928 \u0938\u0923\u093e\u0938\u0941\u0926\u0940\u0924 \u0928\u093e\u0936\u093f\u0915\u0915\u0930\u093e\u0902\u091a\u0902 \u091f\u0947\u0928\u094d\u0936\u0928 \u0935\u093e\u0922\u0932\u0902. \u092f\u093e \u0935\u0930\u094d\u0937\u093e\u0924\u0940\u0932 \u092a\u0939\u093f\u0932\u094d\u092f\u093e \u0921\u0947\u0902\u0917\u094d\u092f\u0942 \u092c\u0933\u0940\u091a\u0940 \u0928\u094b\u0902\u0926 \u091d\u093e\u0932\u0940. \u0905\u0926\u094d\u092f\u093e\u092a \u0924\u0940\u0928\u0936\u0947 \u0905\u0939\u0935\u093e\u0932 \u092a\u094d\u0930\u0932\u0902\u092c\u093f\u0924 \u0906\u0939\u0947\u0924.",
-      "url": "https://maharashtratimes.com/maharashtra/nashik/first-dengue-death-reported-in-nashik-city/articleshow/104977653.cms",
-      "urlToImage": "https://static.langimg.com/photo/imgsize-24316,msid-104977731/maharashtra-times.jpg",
-      "publishedAt": "2023-11-05 01:14:28",
-      "content": ". . , : . . . , . , . . . . . . , - . . . . . . . . . . - . , . , . , .? . . . . . ! '' , - - - - - - - - - - Marathi News App: ? . , ...ADVT - , ; , , ; \u2026 [+242 chars]",
-      "retrievedAt": "2023-11-06 07:05:46.337558",
-      "internal_id": "40b1880ced4e9a8d05ff0505d39eee0fc4628a6e41be0c32f44f199c185cb754",
       "publishedAtLabel": "Nov 5"
     }
   ]
