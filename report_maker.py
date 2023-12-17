@@ -38,7 +38,7 @@ def dict_to_md_table(data):
     # Create the markdown table header
     md_table = (
         "| Disease | "
-        + " | ".join("Week " + str(header) for header in headers)
+        + " | ".join(header for header in headers)
         + " |\n"
     )
     md_table += "|-" + "-|" * len(headers) + "-|\n"
@@ -61,11 +61,16 @@ def gen_report():
     articles = load_disease_data()
 
     # Count occurence of keywords by epiweek
-    epiweeks = sorted(list(set(article["epiweek"] for article in articles["articles"])))
+    epiweeks = sorted(
+        [
+            str(epiweek)
+            for epiweek in set(article["epiweek"] for article in articles["articles"])
+        ]
+    )
     disease_counts = {}
     last_published = None
     for article in articles["articles"]:
-        epiweek = article["epiweek"]
+        epiweek = str(article["epiweek"])
         if last_published == None or article["publishedAt"] > last_published:
             last_published = article["publishedAt"]
         for keyword in article["query"]:
@@ -73,20 +78,29 @@ def gen_report():
                 disease_counts[keyword] = {epiweek: 0 for epiweek in epiweeks}
             disease_counts[keyword][epiweek] += 1
 
-    # Start the markdown report
-    report = "# Query Keywords Summary Report\n\n"
+    # Add a total column to the disease_counts dictionary
+    for key, val in disease_counts.items():
+        disease_counts[key]["Total"] = sum(val.values())
 
-    # Add the count of new articles at the top of the report
+    # Sort the disease_counts dictionary by the total column
+    disease_counts = dict(
+        sorted(disease_counts.items(), key=lambda item: item[1]["Total"], reverse=True)
+    )
+
+    # Create markdown report with summary headers
+    report = "# Disease Keywords Summary Report\n\n"
     report += f"- **New articles in last harvest:** {articles['count_articles_new']}\n"
-
-    # Add date of last harvest
     report += f"- **Last harvest:** {articles['last_updated']}\n"
-
-    # Add date of last harvest
     report += f"- **Most recent article:** {last_published}\n\n"
 
+    report += "---\n\n"
+    report += "## Disease keyword mentions in international news\n\n"
+    report += "By US epiweek (i.e. Sunday to Saturdar)\n\n"
+
     # Create the markdown table summary
-    report += dict_to_md_table(disease_counts)
+    report += dict_to_md_table(disease_counts) + "\n\n"
+
+    report += "Source: [News API](https://newsapi.org/)\n\n"
 
     # Write the report to a markdown file
     with open("report.md", "w") as f:

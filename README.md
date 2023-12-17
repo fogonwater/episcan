@@ -1,6 +1,6 @@
 # EpiScan
 
-This is a news aggregator project that uses Python and  [News API](https://newsapi.org/) to fetch and process articles on relating to various disease keywords.
+This is a news aggregator project that uses Python and [News API](https://newsapi.org/) to fetch and process articles on relating to various disease keywords.
 
 ## Setup
 
