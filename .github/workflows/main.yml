@@ -35,7 +35,7 @@ jobs:
       run: |
         git config --global user.name 'Github scanner workflow'
         git config --global user.email 'scannerworkflow@example.com'
-        git add -f data/articles.json epinews.db data/report.md
+        git add -f data/articles.json epinews.db report.md
         git commit -m 'Update articles.json and epinews.db'
 
     - name: Push changes
