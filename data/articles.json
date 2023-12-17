@@ -1,8 +1,26 @@
 {
-  "last_updated": "2023-12-17 17:18",
-  "count_articles_total": 819,
-  "count_articles_new": 3,
+  "last_updated": "2023-12-17 19:05",
+  "count_articles_total": 820,
+  "count_articles_new": 1,
   "articles": [
+    {
+      "id": 3762,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Lara Sirignano",
+      "title": "Morta di malaria, la Procura chiede l\u2019archiviazione di due medici",
+      "description": "Loredana Guida, insegnante agrigentina di 44 anni, \u00e8 deceduta nel gennaio 2020. La malattia era stata diagnosticata in ritardo. Aveva contratto la malaria in Nigeria",
+      "url": "https://www.corriere.it/cronache/23_dicembre_16/morta-malaria-procura-chiede-l-archiviazione-due-medici-7ac4a5fa-9c39-11ee-9d68-ef03048c7988.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/2023/12/16/Interni/Foto-Interni-Trattate/Guida-0067-kHcG-U34501639784662UcH-526x284@Corriere-Web-Sezioni.jpg",
+      "publishedAt": "2023-12-16 18:19:03",
+      "content": "di Lara SirignanoLoredana Guida, insegnante agrigentina di 44 anni, \u00e8 deceduta nel gennaio 2020. La malattia era stata diagnosticata in ritardo. Aveva contratto la malaria in Nigeria Rischia di re\u2026 [+2930 chars]",
+      "retrievedAt": "2023-12-17 19:05:24.674306",
+      "internal_id": "de010cdb508fc26f574e2e5b04966305c61331e40dada38552514735d4f129d4",
+      "publishedAtLabel": "Dec 16"
+    },
     {
       "id": 3759,
       "query": [

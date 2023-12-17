@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2023-12-17 17:18
-- **Most recent article:** 2023-12-16 17:09:33
+- **New articles in last harvest:** 1
+- **Last harvest:** 2023-12-17 19:05
+- **Most recent article:** 2023-12-16 18:19:03
 
 ---
 
@@ -13,7 +13,7 @@ By US epiweek (i.e. Sunday to Saturdar)
 | Disease | 45 | 46 | 47 | 48 | 49 | 50 | Total |
 |--|-|-|-|-|-|-|-|
 | dengue | 31 | 33 | 41 | 45 | 62 | 43 | 255 |
-| malaria | 28 | 19 | 37 | 36 | 26 | 23 | 169 |
+| malaria | 28 | 19 | 37 | 36 | 26 | 24 | 170 |
 | chikungunya | 66 | 16 | 7 | 10 | 10 | 11 | 120 |
 | mpox | 9 | 2 | 19 | 18 | 20 | 24 | 92 |
 | measles | 5 | 33 | 11 | 5 | 5 | 7 | 66 |
