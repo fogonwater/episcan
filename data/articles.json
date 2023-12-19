@@ -1,8 +1,64 @@
 {
-  "last_updated": "2023-12-18 19:05",
-  "count_articles_total": 829,
-  "count_articles_new": 6,
+  "last_updated": "2023-12-19 07:06",
+  "count_articles_total": 836,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 3773,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigerian Govt Confirms Dengue Fever Outbreak in Northern State",
+      "description": "[Premium Times] No deaths have been recorded from the outbreak.",
+      "url": "https://allafrica.com/stories/202312180007.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-18 04:38:24",
+      "content": "No deaths have been recorded from the outbreak. The Nigeria Centre for Disease Control and Prevention (NCDC), on Saturday said 13 cases of dengue fever have been confirmed in Sokoto State. In a sta\u2026 [+3031 chars]",
+      "retrievedAt": "2023-12-19 07:06:05.879042",
+      "internal_id": "b9632b21655e3a172e08a89825753d8957d443fe95f61c5220d8531c81999578",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 3774,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Muyinteresante.es",
+      "author": "Christian P\u00e9rez",
+      "title": "\u201cUn buen par\u00e1sito es aquel que no mata a su hospedador\u201d",
+      "description": "En el intrincado laberinto de la vida, existen criaturas diminutas pero de un impacto monumental en nuestra existencia. Hoy, nos sumergimos en el fascinante y a menudo invisible mundo de los par\u00e1sitos junto a Jos\u00e9 Antonio Garrido y Concha Mesa, autores de \u2018Pa\u2026",
+      "url": "https://www.muyinteresante.es/ciencia/62663.html",
+      "urlToImage": "https://imagenes.muyinteresante.es/files/article_social_75/uploads/2023/12/17/657f52257f13d.jpeg",
+      "publishedAt": "2023-12-17 20:16:16",
+      "content": "Los par\u00e1sitos han jugado un papel crucial en la historia de la humanidad, no solo como agentes de enfermedades devastadoras como el tifus y la malaria, sino tambi\u00e9n como compa\u00f1eros constantes en nues\u2026 [+29633 chars]",
+      "retrievedAt": "2023-12-19 07:06:06.846865",
+      "internal_id": "91e8aaef663cecdff5a92cb7a8a8ddb72b2baeb525f65c82ff88da41f475e878",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 3772,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Gabe Whisnant",
+      "title": "US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn",
+      "description": "Tropical diseases such as malaria, Zika and dengue fever have all seen U.S. transmissions and outbreaks in recent years.",
+      "url": "https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155",
+      "urlToImage": "https://d.newsweek.com/en/full/2324616/stockholm-researcher.jpg",
+      "publishedAt": "2023-12-17 19:24:15",
+      "content": "Global public health experts are warning that the United States is not prepared for looming threats posed by tropical and insect-borne viruses. At a two-day workshop this week at the National Academ\u2026 [+3569 chars]",
+      "retrievedAt": "2023-12-19 07:06:05.858171",
+      "internal_id": "0cfaf88db7ee727c73cd38a41e17381d95bf8444a45aaf1a778242c49f7b5ab6",
+      "publishedAtLabel": "Dec 17"
+    },
     {
       "id": 3771,
       "query": [
@@ -14977,6 +15033,78 @@
       "content": "KalbarOnline, Pontianak \u2013 Penjabat (Pj) Gubernur Provinsi Kalbar, Harisson meminta para bupati dan wali kota serius dalam menangani lonjakan kasus demam berdarah dengue (DBD). Terutama pada wilayah y\u2026 [+4534 chars]",
       "retrievedAt": "2023-11-07 07:05:44.895874",
       "internal_id": "268e3dac225231335a2141ee74fa2dcdd03daa13ee390fde70715be357ad47aa",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2940,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Dengue death toll crosses 1,400-mark",
+      "description": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more patients were hospitalised with the viral fever, according to\u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-crosses-1400-mark-733734",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/05/2m9a8079_0.jpg",
+      "publishedAt": "2023-11-05 14:10:42",
+      "content": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more \u2026 [+585 chars]",
+      "retrievedAt": "2023-11-06 19:05:22.974215",
+      "internal_id": "8ba2e2aea33e19748697f97dce0e9bf5c214207b60c2fa2348627ba9c8d9d1d6",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2941,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "David Will",
+      "title": "Heute vor 143 Jahren: Als ein Au\u00dfenseiter den Malaria-Erreger fand",
+      "description": "Lange glauben \u00c4rzte, dass Malaria durch giftige D\u00e4mpfe verursacht wird. Erst ein Blick ins Blut von Soldaten f\u00fchrt auf die richtige Spur.",
+      "url": "https://www.tagesspiegel.de/wissen/heute-vor-143-jahren-x-10728799.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/malaria005-the-malaria-infected-red-blood-cells/alternates/BASE_16_9_W1400/malaria005-the-malaria-infected-red-blood-cells.jpeg",
+      "publishedAt": "2023-11-05 12:48:20",
+      "content": "Einfach mal wieder richtig durchatmen in Buenos Aires! Das dachten zumindest die spanischen Eroberer, die im 16. Jahrhundert zum ersten Mal am Rio de la Plata Anker legten und die Siedlung der guten \u2026 [+2750 chars]",
+      "retrievedAt": "2023-11-06 19:05:24.244357",
+      "internal_id": "e1e80af99c7ac7ee2edf109d00bb3fdf0cd28fadad8016325e6944a0f5677179",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2942,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Twentyfournews.com",
+      "author": "24 Web Desk",
+      "title": "Zika prevention efforts remain strong: Health Minister",
+      "description": "Zika prevention efforts remain strong: Health \u0d38\u0d3f\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2a\u0d4d\u0d30\u0d35\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d2f\u0d3f \u0d24\u0d41\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41: \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f \u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f",
+      "url": "https://www.twentyfournews.com/2023/11/05/zika-prevention-efforts-remain-strong-health-minister.html",
+      "urlToImage": "https://www.twentyfournews.com/wp-content/uploads/2023/11/Zika-prevention-efforts-remain-strong_-Health-Minister.jpg",
+      "publishedAt": "2023-11-05 12:41:12",
+      "content": ". 8 . . . . 30 31 . 1, 2, 5 . . 55 . 24 . . , . . . 104 . 5 , , . . . . . . Story Highlights: Zika prevention efforts remain strong: Health Minister",
+      "retrievedAt": "2023-11-06 19:05:24.864638",
+      "internal_id": "c7a82ae030c9caa7e5cc8cdb723efa58f41ce83b1f4aa3a5f51ee568897bdafb",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2939,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Maeghan Dolph",
+      "title": "Understanding the severity of the mosquito-borne disease dengue",
+      "description": "Delve into the key aspects of dengue fever and severe dengue, while also shedding light on these mosquito-borne diseases' significance and distinctions in those infected.",
+      "url": "https://www.foxnews.com/lifestyle/dengue-severe-dengue-mosquito-borne-disease",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AP23173281339142.jpg",
+      "publishedAt": "2023-11-05 08:00:25",
+      "content": "Dengue fever is a mosquito-borne viral infection that affects millions of people worldwide, causing a wide range of symptoms. In some cases, dengue can progress into a potentially life-threatening \u2026 [+4527 chars]",
+      "retrievedAt": "2023-11-06 19:05:22.953961",
+      "internal_id": "d8aaf37e2aef933f6c68f1567f297aea8601660ad7e964fa74f58e82ec36aef1",
       "publishedAtLabel": "Nov 5"
     }
   ]
