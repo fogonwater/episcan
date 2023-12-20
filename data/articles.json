@@ -1,8 +1,80 @@
 {
-  "last_updated": "2023-12-19 19:05",
-  "count_articles_total": 842,
-  "count_articles_new": 10,
+  "last_updated": "2023-12-20 07:05",
+  "count_articles_total": 850,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 3787,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "20 Minutes",
+      "author": "Lise Abou Mansour (20 Minutes)",
+      "title": "Variole du singe : Pourquoi l\u2019OMS redoute une propagation internationale de l\u2019\u00e9pid\u00e9mie",
+      "description": "Les cas de mpox, longtemps appel\u00e9e variole du singe ou \u00ab monkey pox \u00bb, explosent en R\u00e9publique d\u00e9mocratique du Congo, et l'OMS craint une transmission internationale",
+      "url": "https://www.20minutes.fr/sante/4067229-20231219-variole-singe-pourquoi-oms-redoute-propagation-internationale-epidemie",
+      "urlToImage": "https://img.20mn.fr/LXzCvb1BTC2jFTRB8Ge7nik/1200x768_le-mpox-ou-variole-du-singe-est-une-maladie-infectieuse-declenchant-une-eruption-cutanee-douloureuse-des-pustules-un-gonflement-des-ganglions-lymphatiques-et-de-la-fievre",
+      "publishedAt": "2023-12-19 06:17:36",
+      "content": "L\u2019inqui\u00e9tude grandit. Les cas de mpox, longtemps appel\u00e9e variole du singe ou \u00ab monkey pox \u00bb, explosent en R\u00e9publique d\u00e9mocratique du Congo (RDC). L\u2019Organisation mondiale de la sant\u00e9 (OMS) s\u2019est dite \u2026 [+4784 chars]",
+      "retrievedAt": "2023-12-20 07:05:26.109220",
+      "internal_id": "04840e0b272f04f689fd4629b965fb1b109ee01fcc7db1135633fb93043f815e",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3785,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Measles fears as pandemic blamed for fall in take-up of MMR vaccine",
+      "description": "The threat of measles outbreaks has increased following a drop in the number of parents getting their children the MMR vaccine since before the Covid-19 pandemic.",
+      "url": "https://www.independent.ie/irish-news/measles-fears-as-pandemic-blamed-for-fall-in-take-up-of-mmr-vaccine/a1829268124.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/scyM8f0iBs9W2YVr0_dDI13SnXg=/0x1:3227x2152/3227x2151/prod-mh-ireland/a54f759a-575b-4e5a-b9bc-9bd8d5d044f6/66db6639-71a1-4780-bf57-46c19fc5551d/a54f759a-575b-4e5a-b9bc-9bd8d5d044f6.jpg",
+      "publishedAt": "2023-12-19 02:30:00",
+      "content": "The threat of measles outbreaks has increased following a drop in the number of parents getting their children the MMR vaccine since before the Covid-19 pandemic.A report on the last academic year fo\u2026 [+4341 chars]",
+      "retrievedAt": "2023-12-20 07:05:24.670754",
+      "internal_id": "4b23eb288973f9d691a3eeb488bd2a332243eaadbeb5c687f4539af900bb0a8a",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3786,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Variety",
+      "author": "Cynthia Littleton",
+      "title": "All the Opportunity in the World Awaits: Why Hollywood Needs to Embrace the Vitality of International Creators (Guest Column)",
+      "description": "The first time I went to Ghana, I was 19 years old and volunteering to build a health clinic in a rural village. It was the early \u201890s, I was a teenaged lunatic, and everything bad that could have happened to me did: I got malaria; I was beaten up by soldiers\u2026",
+      "url": "https://variety.com/2023/film/columns/nicholas-weinstock-africa-invention-afriff-1235843238/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2023/12/RockyEmmy-Studios-Oct-05-2023-19-e1702925591258.jpg?crop=50px%2C0px%2C793px%2C446px&resize=1000%2C563",
+      "publishedAt": "2023-12-18 20:34:13",
+      "content": "The first time I went to Ghana, I was 19 years old and volunteering to build a health clinic in a rural village. It was the early \u201890s, I was a teenaged lunatic, and everything bad that could have ha\u2026 [+5307 chars]",
+      "retrievedAt": "2023-12-20 07:05:25.449124",
+      "internal_id": "513e7d729a57363e33704a1c6f8e6d4d6e46da95a210c9cf2123e1b74b16b503",
+      "publishedAtLabel": "Dec 18"
+    },
+    {
+      "id": 3788,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Amie Dahnke",
+      "title": "RSV Vaccine Added to List of 2024 Childhood Immunizations, Mpox Recommended for At-Risk Young Adults",
+      "description": "The CDC's new vaccine schedule recommends that infants receive their first RSV vaccine before the age of 6 months in most cases.",
+      "url": "https://www.theepochtimes.com/health/rsv-vaccine-added-to-list-of-2024-childhood-immunizations-mpox-recommended-for-at-risk-young-adults-5548820",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2023/11/22/id5534401-shutterstock_2322364463-1080x720.jpg",
+      "publishedAt": "2023-12-18 20:01:23",
+      "content": "In the agency's updated vaccine recommendation, the U.S. Centers for Disease Control and Prevention (CDC) suggests that children under the age of 19 months be vaccinated against the respiratory syncy\u2026 [+3715 chars]",
+      "retrievedAt": "2023-12-20 07:05:26.113051",
+      "internal_id": "cabb875cac7fe25f48cb5dfc0523161255ad4811e821623b942ca93b4eff96d5",
+      "publishedAtLabel": "Dec 18"
+    },
     {
       "id": 3776,
       "query": [
@@ -15215,6 +15287,78 @@
       "content": "KalbarOnline, Pontianak \u2013 Penjabat (Pj) Gubernur Provinsi Kalbar, Harisson meminta para bupati dan wali kota serius dalam menangani lonjakan kasus demam berdarah dengue (DBD). Terutama pada wilayah y\u2026 [+4534 chars]",
       "retrievedAt": "2023-11-07 07:05:44.895874",
       "internal_id": "268e3dac225231335a2141ee74fa2dcdd03daa13ee390fde70715be357ad47aa",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2940,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Dengue death toll crosses 1,400-mark",
+      "description": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more patients were hospitalised with the viral fever, according to\u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-crosses-1400-mark-733734",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/05/2m9a8079_0.jpg",
+      "publishedAt": "2023-11-05 14:10:42",
+      "content": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more \u2026 [+585 chars]",
+      "retrievedAt": "2023-11-06 19:05:22.974215",
+      "internal_id": "8ba2e2aea33e19748697f97dce0e9bf5c214207b60c2fa2348627ba9c8d9d1d6",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2941,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "David Will",
+      "title": "Heute vor 143 Jahren: Als ein Au\u00dfenseiter den Malaria-Erreger fand",
+      "description": "Lange glauben \u00c4rzte, dass Malaria durch giftige D\u00e4mpfe verursacht wird. Erst ein Blick ins Blut von Soldaten f\u00fchrt auf die richtige Spur.",
+      "url": "https://www.tagesspiegel.de/wissen/heute-vor-143-jahren-x-10728799.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/malaria005-the-malaria-infected-red-blood-cells/alternates/BASE_16_9_W1400/malaria005-the-malaria-infected-red-blood-cells.jpeg",
+      "publishedAt": "2023-11-05 12:48:20",
+      "content": "Einfach mal wieder richtig durchatmen in Buenos Aires! Das dachten zumindest die spanischen Eroberer, die im 16. Jahrhundert zum ersten Mal am Rio de la Plata Anker legten und die Siedlung der guten \u2026 [+2750 chars]",
+      "retrievedAt": "2023-11-06 19:05:24.244357",
+      "internal_id": "e1e80af99c7ac7ee2edf109d00bb3fdf0cd28fadad8016325e6944a0f5677179",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2942,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Twentyfournews.com",
+      "author": "24 Web Desk",
+      "title": "Zika prevention efforts remain strong: Health Minister",
+      "description": "Zika prevention efforts remain strong: Health \u0d38\u0d3f\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2a\u0d4d\u0d30\u0d35\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d2f\u0d3f \u0d24\u0d41\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41: \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f \u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f",
+      "url": "https://www.twentyfournews.com/2023/11/05/zika-prevention-efforts-remain-strong-health-minister.html",
+      "urlToImage": "https://www.twentyfournews.com/wp-content/uploads/2023/11/Zika-prevention-efforts-remain-strong_-Health-Minister.jpg",
+      "publishedAt": "2023-11-05 12:41:12",
+      "content": ". 8 . . . . 30 31 . 1, 2, 5 . . 55 . 24 . . , . . . 104 . 5 , , . . . . . . Story Highlights: Zika prevention efforts remain strong: Health Minister",
+      "retrievedAt": "2023-11-06 19:05:24.864638",
+      "internal_id": "c7a82ae030c9caa7e5cc8cdb723efa58f41ce83b1f4aa3a5f51ee568897bdafb",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2939,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Maeghan Dolph",
+      "title": "Understanding the severity of the mosquito-borne disease dengue",
+      "description": "Delve into the key aspects of dengue fever and severe dengue, while also shedding light on these mosquito-borne diseases' significance and distinctions in those infected.",
+      "url": "https://www.foxnews.com/lifestyle/dengue-severe-dengue-mosquito-borne-disease",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AP23173281339142.jpg",
+      "publishedAt": "2023-11-05 08:00:25",
+      "content": "Dengue fever is a mosquito-borne viral infection that affects millions of people worldwide, causing a wide range of symptoms. In some cases, dengue can progress into a potentially life-threatening \u2026 [+4527 chars]",
+      "retrievedAt": "2023-11-06 19:05:22.953961",
+      "internal_id": "d8aaf37e2aef933f6c68f1567f297aea8601660ad7e964fa74f58e82ec36aef1",
       "publishedAtLabel": "Nov 5"
     }
   ]
