@@ -1,8 +1,224 @@
 {
-  "last_updated": "2023-12-20 07:05",
-  "count_articles_total": 850,
-  "count_articles_new": 4,
+  "last_updated": "2023-12-20 19:05",
+  "count_articles_total": 858,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 3789,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Diamond.jp",
+      "author": "\u5c71\u672c\u5065\u4eba",
+      "title": "\u3010\u6bce\u5e745\u4e07\u4eba\u8d85\u304c\u6b7b\u4ea1\u3011\u300c\u6c34\u304c\u6016\u3044\u2026\u300d\u81f4\u6b7b\u7387\u307b\u307c100\u30d1\u30fc\u30bb\u30f3\u30c8\u300c\u6050\u6c34\u75c5\u300d\u306e\u885d\u6483\u306e\u6b63\u4f53 - \u3059\u3070\u3089\u3057\u3044\u533b\u5b66",
+      "description": "\u30b7\u30ea\u30fc\u30ba\u7d2f\u8a0821\u4e07\u90e8\u7a81\u7834\uff01 \u6c60\u8c37\u88d5\u4e8c\u6c0f\uff08\u6771\u4eac\u5927\u5b66\u85ac\u5b66\u90e8\u6559\u6388\u3001\u8133\u7814\u7a76\u8005\uff09\u7d76\u8cdb\uff01 \u300c\u6c17\u3065\u3051\u3070\u8aad\u307f\u3075\u3051\u3063\u3066\u3057\u307e\u3063\u305f\u3002\u201c\u3088\u304f\u77e5\u3063\u3066\u3044\u305f\u306f\u305a\u306e\u81ea\u5206\u306e\u4f53\u306b\u3064\u3044\u3066\u5b9f\u306f\u4f55\u3082\u77e5\u3089\u306a\u304b\u3063\u305f\u201d\u3068\u3044\u3046\u756a\u72c2\u308f\u305b\u306b\u5feb\u611f\u795e\u7d4c\u304c\u523a\u6fc0\u3055\u308c\u307e\u304f\u308b\u304b\u3089\u300d\u3002\u4eba\u306f\u306a\u305c\u75c5\u6c17\u306b\u306a\u308b\u306e\u304b\uff1f\u3001\u30d2\u30dd\u30af\u30e9\u30c6\u30b9\u3068\u304c\u3093\u3001\u5947\u8de1\u306e\u85ac\u306f\u5316\u5b66\u5175\u5668\u304b\u3089\u751f\u307e\u308c\u305f\u3001\u533b\u7642\u30c9\u30e9\u30de\u3067\u306f\u63cf\u304b\u308c\u306a\u3044\u624b\u8853\u306e\u30ea\u30a2\u30eb\u3001\u533b\u5b66\u306f\u5f31\u304f\u3066\u511a\u3044\u4eba\u4f53\u3092\u652f\u3048\u308b\u2026\u3002\u5916\u79d1\u533b\u3051\u3044\u3086\u3046\u3068\u3057\u3066\u3001\u30d6\u30ed\u30b0\u7d2f\u8a081000\u4e07PV\u8d85\u3001X\uff08twitter\uff09\u3067\u7d0410\u4e07\u4eba\u306e\u30d5\u30a9\u30ed\u30ef\u30fc\u3092\u6301\u3064\u8457\u8005\uff08@keiyou30\uff09\u304c\u3001\u533b\u5b66\u306e\u6b74\u53f2\u3001\u4eba\u304c\u75c5\u6c17\u306b\u2026",
+      "url": "https://diamond.jp/articles/-/336100",
+      "urlToImage": "https://dol.ismcdn.jp/mwimgs/3/9/-/img_39c6ce445f03c77307a9f2f05d36dbbc280571.jpg",
+      "publishedAt": "2023-12-19 19:01:00",
+      "content": "1000PVXtwitter10@keiyou30 202030 3 4 75 3100 hydrophobia 56 272006141-3 5619574 6 1950 2501 1https://www.mhlw.go.jp/stf/newpage_11464.html22020https://www.niid.go.jp/niid/ja/rabies-m/ra\u2026 [+67 chars]",
+      "retrievedAt": "2023-12-20 19:05:10.687641",
+      "internal_id": "6e99d261d5528dedf7e998252910c19a2b879d4f274c4889455bbfb6d46140a7",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3799,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Volkskrant.nl",
+      "author": "Tonie Mudde",
+      "title": "Gezondheidsraad: bied \u2018mpox-vaccin\u2019 structureel aan voor risicogroepen",
+      "description": "Zet een structureel vaccinatieprogramma op tegen mpox, voorheen bekend als het apenpokkenvirus. Dit adviseert de Gezondheidsraad in een dinsdag ver...",
+      "url": "https://www.volkskrant.nl/wetenschap/gezondheidsraad-bied-mpox-vaccin-structureel-aan-voor-risicogroepen~bbd4bf5a/",
+      "urlToImage": "https://img.volkskrant.nl/06315f71b07faa6a884e7400a2cdad8fd46f58d2/gezondheidsraad-bied-mpox-vaccin-structureel-aan-voor-risicogroepen",
+      "publishedAt": "2023-12-19 16:08:06",
+      "content": "Een medewerker van de GGD Haaglanden vaccineert een cli\u00ebnt tegen het apenpokkenvirus.Beeld ANP / ANP Het virus dook april vorig jaar op in Nederland. Het gaat met name rond bij mannen die seks hebbe\u2026 [+1702 chars]",
+      "retrievedAt": "2023-12-20 19:05:13.735986",
+      "internal_id": "0942b2bde81e6de45c72ba590e83b95f970380267555b096918ce6cefdb1b516",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3795,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: Campinas alerta para reintrodu\u00e7\u00e3o de sorotipos e define a\u00e7\u00f5es para conter 'cen\u00e1rio dram\u00e1tico'",
+      "description": "Retorno dos tipos 3 e 4 podem fazer cidade viver explos\u00e3o de casos, considerando que grande parte da popula\u00e7\u00e3o ainda n\u00e3o foi infectada. Metr\u00f3pole vive 6\u00aa maior epidemia da hist\u00f3ria com 10,2 mil casos. N\u00famero \u00e9 300% maior que o ano passado. A Prefeitura de Cam\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/19/dengue-campinas-alerta-para-reintroducao-de-sorotipos-e-define-acoes-para-tentar-evitar-cenario-dramatico.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/WwYk-lnWR3keSwkOYSH2lskbAjw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/2/X/PNoZPTSeSV1295Yf5kFw/dengue.jpeg",
+      "publishedAt": "2023-12-19 14:53:44",
+      "content": "O poss\u00edvel retorno dos tipos 3 e 4 da doen\u00e7a deixou o governo municipal em alerta para uma explos\u00e3o de casos com gravidade, considerando que, pela quantidade de tempo sem aparecer, grande parte da po\u2026 [+4366 chars]",
+      "retrievedAt": "2023-12-20 19:05:11.657095",
+      "internal_id": "566269353b1f5468264e0fe6564c5b0f30609560fd93aa24b9f55264b111dd89",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3797,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "Health D-G: Dengue cases drop slightly, three deaths recorded from December 3 to 9",
+      "description": "KUALA LUMPUR, Dec 19 \u2014 The number of dengue fever cases dropped by 1.3 per cent to 2,948 cases in the 49th Epidemiological Week (ME49) from December 3 to December 9, compared...",
+      "url": "https://www.malaymail.com/news/malaysia/2023/12/19/health-d-g-dengue-cases-drop-slightly-three-deaths-recorded-from-december-3-to-9/108344",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2023/12/19/thumbs/400x400/172766.jpg",
+      "publishedAt": "2023-12-19 14:22:58",
+      "content": "KUALA LUMPUR, Dec 19 The number of dengue fever cases dropped by 1.3 per cent to 2,948 cases in the 49th Epidemiological Week (ME49) from December 3 to December 9, compared with 2,988 cases reported \u2026 [+1795 chars]",
+      "retrievedAt": "2023-12-20 19:05:11.666478",
+      "internal_id": "b2e1a408b4f321d73d9ddbbc31c811a5ed72190d14b918dab1cca7fe48b65634",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3794,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nurul Liyana Idrus, Shamsuriani Md Jamal, Afliza Abu Bakar, Hashim Embong, Nurul Saadah Ahmad",
+      "title": "Comparison of clinical and laboratory characteristics between severe and non-severe dengue in paediatrics",
+      "description": "Author summary Cheras is a suburban area located in the Klang Valley region of Malaysia. In recent years, the population of Cheras has grown rapidly due to urbanization and economic development in the surrounding areas. Cheras has a relatively high population\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011839",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011839.t004&size=inline",
+      "publishedAt": "2023-12-19 14:00:00",
+      "content": "Citation: Idrus NL, Md Jamal S, Abu Bakar A, Embong H, Ahmad NS (2023) Comparison of clinical and laboratory characteristics between severe and non-severe dengue in paediatrics. PLoS Negl Trop Dis 17\u2026 [+20160 chars]",
+      "retrievedAt": "2023-12-20 19:05:11.650144",
+      "internal_id": "4e949d09a5d0c15cfe6316e601a4eb8a994a48dc8159b8c8602d8e6f5493d70b",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3798,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Criselda Dillague, Myles H. Akabas",
+      "title": "Putative purine nucleoside interacting residues in the malaria parasite purine uptake transporter PfENT1 are critical for transporter function",
+      "description": "Malaria remains a major public health threat for billions of people worldwide. Infection with obligate intracellular, unicellular parasites from the genus Plasmodium causes malaria. Plasmodium falciparum causes the deadliest form of human malaria. Plasmodium \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293923",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0293923.g005&size=inline",
+      "publishedAt": "2023-12-19 14:00:00",
+      "content": "Citation: Dillague C, Akabas MH (2023) Putative purine nucleoside interacting residues in the malaria parasite purine uptake transporter PfENT1 are critical for transporter function. PLoS ONE 18(12):\u2026 [+43250 chars]",
+      "retrievedAt": "2023-12-20 19:05:12.608362",
+      "internal_id": "9538b5ae889aa45982030c4ce5801ce8bcb815d49e0654dd4de1196adbfb2916",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3796,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases drop slightly, three deaths recorded in ME49, says Health DG",
+      "description": "KUALA LUMPUR: The number of dengue fever cases dropped by 1.3% to 2,948 cases in the 49th Epidemiological Week (ME49) from Dec 3 to Dec 9, compared with 2,988 cases reported in the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2023/12/19/dengue-cases-drop-slightly-three-deaths-recorded-in-me49-says-health-dg",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/12/19/2448091.jpg",
+      "publishedAt": "2023-12-19 12:26:00",
+      "content": "KUALA LUMPUR: The number of dengue fever cases dropped by 1.3% to 2,948 cases in the 49th Epidemiological Week (ME49) from Dec 3 to Dec 9, compared with 2,988 cases reported in the previous week. He\u2026 [+1775 chars]",
+      "retrievedAt": "2023-12-20 19:05:11.661734",
+      "internal_id": "a3f7e6a4933e2bc49ee30f794239456ee9b8f84d168ca9a434d7400ee1b2954c",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3792,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Flipar, Flipar",
+      "title": "Mudan\u00e7as clim\u00e1ticas podem aumentar casos de dengue no Brasil",
+      "description": "Mudan\u00e7as clim\u00e1ticas podem aumentar casos de dengue no Brasil",
+      "url": "https://ultimosegundo.ig.com.br/parceiros/flipar/2023-12-19/mudancas-climaticas-podem-aumentar-casos-de-dengue-no-brasil.html.ampstories",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3f/tz/qz/3ftzqzcm6xrdiyfx147f0y016.jpg",
+      "publishedAt": "2023-12-19 11:35:29",
+      "content": "Segundo o Minist\u00e9rio da Sa\u00fade, 74,8% dos criadouros do mosquito est\u00e3o nos domic\u00edlios, como em vasos e pratos de plantas, garrafas, recipientes de degelo em geladeiras, bebedouros, fontes ornamentais \u2026 [+73 chars]",
+      "retrievedAt": "2023-12-20 19:05:11.637760",
+      "internal_id": "4cef5082bf7a6de9c7697c73e54e8eea73718391dbbcb35b69d0693b378a6712",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3800,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Walter Willems, dpa",
+      "title": "Viele H\u00fchner auf engstem Raum: Wie ein harmloses Virus besonders gef\u00e4hrlich wurde",
+      "description": "Sars-CoV-2, Ebola, Mpox: Werden Krankheitserregern mit der Zeit aggressiver oder harmloser? Und wovon h\u00e4ngt das ab? F\u00fcr ein g\u00e4ngiges Gefl\u00fcgel-Virus rekonstruiert eine Studie nun die Entwicklung \u00fcber 1000 Jahre.",
+      "url": "https://www.tagesspiegel.de/wissen/viele-tiere-auf-engstem-raum-wie-ein-harmloses-virus-besonders-gefahrlich-wurde-10948567.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/gefahr-durch-vogelgrippe-zwingt-federvieh-in-den-stall/alternates/BASE_16_9_W1400/gefahr-durch-vogelgrippe-zwingt-federvieh-in-den-stall.jpeg",
+      "publishedAt": "2023-12-19 11:26:02",
+      "content": "Der Erreger einer g\u00e4ngigen und weltweit verbreiteten Viruserkrankung von H\u00fchnern hat seine verheerende Wirkung erst mit der Massentierhaltung Mitte des 20. Jahrhunderts erlangt. Die Tagesspiegel-Ap\u2026 [+3220 chars]",
+      "retrievedAt": "2023-12-20 19:05:13.739283",
+      "internal_id": "56c2a80ed0b764e76459b704728e2606b1541f53c70d10735c1eeb9bd5e2d49c",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3791,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Los Angeles Times",
+      "author": "Michael Hiltzik",
+      "title": "Column: Measles is again on the march across the world, thanks to anti-vaxxers such as RFK Jr.",
+      "description": "Measles cases are surging in Europe and Central Asia, according to the World Health Organization. Who's responsible? The anti-vaccination movement and its leaders, such as Robert F. Kennedy Jr.",
+      "url": "https://www.latimes.com/business/story/2023-12-19/measles-is-again-on-the-march-across-the-world-thanks-to-anti-vaxxers-such-as-rfk-jr",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/80f9016/2147483647/strip/true/crop/5454x2863+0+386/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F82%2F41%2F55edca4a448888b778db512ddef5%2F1330081-me-prez-candidate-rfk-jr-gxc-0744.jpg",
+      "publishedAt": "2023-12-19 11:00:10",
+      "content": "Forecasting the future is difficult. But heres an easy prediction: The anti-vaccination movement in the U.S. and globally is going to result in the deaths of more children. This grim portent comes t\u2026 [+9716 chars]",
+      "retrievedAt": "2023-12-20 19:05:11.162047",
+      "internal_id": "4321d530c9f503ad3aab6dc52c8751f97bec7bfc452e69ac2eec2f7afed90772",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3793,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Panic As Ncdc Alerts Sokoto Residents On Dengue Fever, Commissioner Reacts",
+      "description": "[Vanguard] Following the confirmation of the dengue fever outbreak in Sokoto State by the Nigeria Centre for Disease Control and Prevention (NCDC), residents of Sokoto metropolis, the state capital, are living in grief and fear of the possible spread of the d\u2026",
+      "url": "https://allafrica.com/stories/202312190101.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-19 08:07:53",
+      "content": "Following the confirmation of the dengue fever outbreak in Sokoto State by the Nigeria Centre for Disease Control and Prevention (NCDC), residents of Sokoto metropolis, the state capital, are living \u2026 [+2763 chars]",
+      "retrievedAt": "2023-12-20 19:05:11.646628",
+      "internal_id": "15b0b0f4efc355118f51f6f84a04a1272c6a883937a5b8e1ab12284d196a15d0",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3790,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Nicole McCain",
+      "title": "News24 | Holidaymakers warned of rabies risk in Eastern Cape, KZN",
+      "description": "Holidaymakers have been alerted to a rabies risk in coastal provinces and the disease, spread by infected animals, can be fatal.",
+      "url": "https://www.news24.com/news24/southafrica/news/holidaymakers-warned-of-rabies-risk-in-eastern-cape-kzn-20231219",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9891/7ca7de4a54e840a988346730699b83cc.jpg",
+      "publishedAt": "2023-12-19 07:36:24",
+      "content": "Holidaymakers have been alerted to a rabies risk in two coastal provinces and the disease, spread by infected animals, can be fatal. The Department of Agriculture, Land Reform and Rural Development \u2026 [+282 chars]",
+      "retrievedAt": "2023-12-20 19:05:10.698255",
+      "internal_id": "36adb0855f89731b9fc6ca0839f46685d91cc6ddc53541aff003d6b0932cb60d",
+      "publishedAtLabel": "Dec 19"
+    },
     {
       "id": 3787,
       "query": [
@@ -15287,78 +15503,6 @@
       "content": "KalbarOnline, Pontianak \u2013 Penjabat (Pj) Gubernur Provinsi Kalbar, Harisson meminta para bupati dan wali kota serius dalam menangani lonjakan kasus demam berdarah dengue (DBD). Terutama pada wilayah y\u2026 [+4534 chars]",
       "retrievedAt": "2023-11-07 07:05:44.895874",
       "internal_id": "268e3dac225231335a2141ee74fa2dcdd03daa13ee390fde70715be357ad47aa",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2940,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Dengue death toll crosses 1,400-mark",
-      "description": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more patients were hospitalised with the viral fever, according to\u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-crosses-1400-mark-733734",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/05/2m9a8079_0.jpg",
-      "publishedAt": "2023-11-05 14:10:42",
-      "content": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more \u2026 [+585 chars]",
-      "retrievedAt": "2023-11-06 19:05:22.974215",
-      "internal_id": "8ba2e2aea33e19748697f97dce0e9bf5c214207b60c2fa2348627ba9c8d9d1d6",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2941,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "David Will",
-      "title": "Heute vor 143 Jahren: Als ein Au\u00dfenseiter den Malaria-Erreger fand",
-      "description": "Lange glauben \u00c4rzte, dass Malaria durch giftige D\u00e4mpfe verursacht wird. Erst ein Blick ins Blut von Soldaten f\u00fchrt auf die richtige Spur.",
-      "url": "https://www.tagesspiegel.de/wissen/heute-vor-143-jahren-x-10728799.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/malaria005-the-malaria-infected-red-blood-cells/alternates/BASE_16_9_W1400/malaria005-the-malaria-infected-red-blood-cells.jpeg",
-      "publishedAt": "2023-11-05 12:48:20",
-      "content": "Einfach mal wieder richtig durchatmen in Buenos Aires! Das dachten zumindest die spanischen Eroberer, die im 16. Jahrhundert zum ersten Mal am Rio de la Plata Anker legten und die Siedlung der guten \u2026 [+2750 chars]",
-      "retrievedAt": "2023-11-06 19:05:24.244357",
-      "internal_id": "e1e80af99c7ac7ee2edf109d00bb3fdf0cd28fadad8016325e6944a0f5677179",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2942,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Twentyfournews.com",
-      "author": "24 Web Desk",
-      "title": "Zika prevention efforts remain strong: Health Minister",
-      "description": "Zika prevention efforts remain strong: Health \u0d38\u0d3f\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2a\u0d4d\u0d30\u0d35\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d2f\u0d3f \u0d24\u0d41\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41: \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f \u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f",
-      "url": "https://www.twentyfournews.com/2023/11/05/zika-prevention-efforts-remain-strong-health-minister.html",
-      "urlToImage": "https://www.twentyfournews.com/wp-content/uploads/2023/11/Zika-prevention-efforts-remain-strong_-Health-Minister.jpg",
-      "publishedAt": "2023-11-05 12:41:12",
-      "content": ". 8 . . . . 30 31 . 1, 2, 5 . . 55 . 24 . . , . . . 104 . 5 , , . . . . . . Story Highlights: Zika prevention efforts remain strong: Health Minister",
-      "retrievedAt": "2023-11-06 19:05:24.864638",
-      "internal_id": "c7a82ae030c9caa7e5cc8cdb723efa58f41ce83b1f4aa3a5f51ee568897bdafb",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2939,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Maeghan Dolph",
-      "title": "Understanding the severity of the mosquito-borne disease dengue",
-      "description": "Delve into the key aspects of dengue fever and severe dengue, while also shedding light on these mosquito-borne diseases' significance and distinctions in those infected.",
-      "url": "https://www.foxnews.com/lifestyle/dengue-severe-dengue-mosquito-borne-disease",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AP23173281339142.jpg",
-      "publishedAt": "2023-11-05 08:00:25",
-      "content": "Dengue fever is a mosquito-borne viral infection that affects millions of people worldwide, causing a wide range of symptoms. In some cases, dengue can progress into a potentially life-threatening \u2026 [+4527 chars]",
-      "retrievedAt": "2023-11-06 19:05:22.953961",
-      "internal_id": "d8aaf37e2aef933f6c68f1567f297aea8601660ad7e964fa74f58e82ec36aef1",
       "publishedAtLabel": "Nov 5"
     }
   ]
