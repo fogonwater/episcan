@@ -1,8 +1,44 @@
 {
-  "last_updated": "2023-12-20 19:05",
-  "count_articles_total": 858,
-  "count_articles_new": 12,
+  "last_updated": "2023-12-21 07:06",
+  "count_articles_total": 864,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 3801,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Como densidade demogr\u00e1fica, viagens e calor podem agravar cen\u00e1rio da dengue em Campinas",
+      "description": "Cidade vive epidemia desde abril e soma 10,2 mil casos. Vigil\u00e2ncia Epidemiol\u00f3gica fez alerta para reintrodu\u00e7\u00e3o dos sorotipos 3 e 4 e import\u00e2ncia da popula\u00e7\u00e3o na preven\u00e7\u00e3o da doen\u00e7a. Mosquito da dengue, em imagem de arquivo Breno Esaki/SES Em epidemia da deng\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/19/como-densidade-demografica-viagens-e-calor-podem-agravar-cenario-da-dengue-em-campinas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/MwqeE3kRaMtaASwWld8YtsFPRxE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/r/n/B0u0gNSKKN4BEzlCI6rA/foto-breno-esaki-saude-df.jpg",
+      "publishedAt": "2023-12-19 21:10:29",
+      "content": "Em coletiva de imprensa feita nesta ter\u00e7a-feira (19), Von Zuben destacou que as altas temperaturas, por exemplo, levam a um aumento na quantidade de mosquitos da dengue em circula\u00e7\u00e3o, uma vez que o c\u2026 [+7453 chars]",
+      "retrievedAt": "2023-12-21 07:05:58.703064",
+      "internal_id": "188662d3874d4d0c9b267e408787eb3b39fe520c58db4a32036e66cb573b7067",
+      "publishedAtLabel": "Dec 19"
+    },
+    {
+      "id": 3802,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "HERN\u00c1N LENES PACHECO-\u00c1LVAREZ",
+      "title": "13 posibles casos de defunciones por leptospirosis alertan a Cartagena",
+      "description": "En los \u00faltimos meses, la ciudad de Cartagena ha experimentado un preocupante aumento en enfermedades zoon\u00f3ticas, especialmente la leptospirosis, que ha generado inquietud en la comunidad y ha llevado a las autoridades de salud a intensificar sus esfuerzos par\u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/13-posibles-casos-de-defunciones-por-leptospirosis-alertan-a-cartagena-XB9663671",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/800x686/0c0/0d0/none/13704/UGBY/lepto_9184257_20231219152335.jpg",
+      "publishedAt": "2023-12-19 20:05:00",
+      "content": "En los \u00faltimos meses, la ciudad de Cartagena ha experimentado un preocupante aumento en enfermedades zoon\u00f3ticas, especialmente la leptospirosis, que ha generado inquietud en la comunidad y ha llevado\u2026 [+3125 chars]",
+      "retrievedAt": "2023-12-21 07:06:00.836642",
+      "internal_id": "f6c65a4ba8a6a41c727da8d44b00f65859591453e753df7ca0c4a4996880004d",
+      "publishedAtLabel": "Dec 19"
+    },
     {
       "id": 3789,
       "query": [
@@ -15503,6 +15539,78 @@
       "content": "KalbarOnline, Pontianak \u2013 Penjabat (Pj) Gubernur Provinsi Kalbar, Harisson meminta para bupati dan wali kota serius dalam menangani lonjakan kasus demam berdarah dengue (DBD). Terutama pada wilayah y\u2026 [+4534 chars]",
       "retrievedAt": "2023-11-07 07:05:44.895874",
       "internal_id": "268e3dac225231335a2141ee74fa2dcdd03daa13ee390fde70715be357ad47aa",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2940,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Dengue death toll crosses 1,400-mark",
+      "description": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more patients were hospitalised with the viral fever, according to\u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-crosses-1400-mark-733734",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/05/2m9a8079_0.jpg",
+      "publishedAt": "2023-11-05 14:10:42",
+      "content": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more \u2026 [+585 chars]",
+      "retrievedAt": "2023-11-06 19:05:22.974215",
+      "internal_id": "8ba2e2aea33e19748697f97dce0e9bf5c214207b60c2fa2348627ba9c8d9d1d6",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2941,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "David Will",
+      "title": "Heute vor 143 Jahren: Als ein Au\u00dfenseiter den Malaria-Erreger fand",
+      "description": "Lange glauben \u00c4rzte, dass Malaria durch giftige D\u00e4mpfe verursacht wird. Erst ein Blick ins Blut von Soldaten f\u00fchrt auf die richtige Spur.",
+      "url": "https://www.tagesspiegel.de/wissen/heute-vor-143-jahren-x-10728799.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/malaria005-the-malaria-infected-red-blood-cells/alternates/BASE_16_9_W1400/malaria005-the-malaria-infected-red-blood-cells.jpeg",
+      "publishedAt": "2023-11-05 12:48:20",
+      "content": "Einfach mal wieder richtig durchatmen in Buenos Aires! Das dachten zumindest die spanischen Eroberer, die im 16. Jahrhundert zum ersten Mal am Rio de la Plata Anker legten und die Siedlung der guten \u2026 [+2750 chars]",
+      "retrievedAt": "2023-11-06 19:05:24.244357",
+      "internal_id": "e1e80af99c7ac7ee2edf109d00bb3fdf0cd28fadad8016325e6944a0f5677179",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2942,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Twentyfournews.com",
+      "author": "24 Web Desk",
+      "title": "Zika prevention efforts remain strong: Health Minister",
+      "description": "Zika prevention efforts remain strong: Health \u0d38\u0d3f\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2a\u0d4d\u0d30\u0d35\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d2f\u0d3f \u0d24\u0d41\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41: \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f \u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f",
+      "url": "https://www.twentyfournews.com/2023/11/05/zika-prevention-efforts-remain-strong-health-minister.html",
+      "urlToImage": "https://www.twentyfournews.com/wp-content/uploads/2023/11/Zika-prevention-efforts-remain-strong_-Health-Minister.jpg",
+      "publishedAt": "2023-11-05 12:41:12",
+      "content": ". 8 . . . . 30 31 . 1, 2, 5 . . 55 . 24 . . , . . . 104 . 5 , , . . . . . . Story Highlights: Zika prevention efforts remain strong: Health Minister",
+      "retrievedAt": "2023-11-06 19:05:24.864638",
+      "internal_id": "c7a82ae030c9caa7e5cc8cdb723efa58f41ce83b1f4aa3a5f51ee568897bdafb",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2939,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Maeghan Dolph",
+      "title": "Understanding the severity of the mosquito-borne disease dengue",
+      "description": "Delve into the key aspects of dengue fever and severe dengue, while also shedding light on these mosquito-borne diseases' significance and distinctions in those infected.",
+      "url": "https://www.foxnews.com/lifestyle/dengue-severe-dengue-mosquito-borne-disease",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AP23173281339142.jpg",
+      "publishedAt": "2023-11-05 08:00:25",
+      "content": "Dengue fever is a mosquito-borne viral infection that affects millions of people worldwide, causing a wide range of symptoms. In some cases, dengue can progress into a potentially life-threatening \u2026 [+4527 chars]",
+      "retrievedAt": "2023-11-06 19:05:22.953961",
+      "internal_id": "d8aaf37e2aef933f6c68f1567f297aea8601660ad7e964fa74f58e82ec36aef1",
       "publishedAtLabel": "Nov 5"
     }
   ]
