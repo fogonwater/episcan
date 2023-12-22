@@ -1,8 +1,371 @@
 {
-  "last_updated": "2023-12-21 19:05",
-  "count_articles_total": 870,
-  "count_articles_new": 10,
+  "last_updated": "2023-12-22 07:05",
+  "count_articles_total": 894,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 3830,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Ademola Adegbite",
+      "title": "Meningitis, jaundice lead to deformities in children \u2013 Expert",
+      "description": "The Director, Physiotherapy Department, University College Hospital, Ibadan, Oyo State, Muibat Akintayo, on Wednesday, identified some of the health conditions that cause damage to the brain of a child from birth as major factors responsible for deformity in \u2026",
+      "url": "https://punchng.com/?p=1538765",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
+      "publishedAt": "2023-12-21 06:47:10",
+      "content": "The Director, Physiotherapy Department, University College Hospital, Ibadan, Oyo State, Muibat Akintayo, on Wednesday, identified some of the health conditions that cause damage to the brain of a chi\u2026 [+2811 chars]",
+      "retrievedAt": "2023-12-22 07:05:53.700535",
+      "internal_id": "600586c4b8896ebcd01b06b70405d70877bff82ac432319e6197107b337a0c93",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3815,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Stepheny Price",
+      "title": "Colorado measles case confirmed days after international traveler flew into Denver airport",
+      "description": "Health officials in Colorado have confirmed a positive measles case days after an international traveler flew into Denver International Airport.",
+      "url": "https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/iStock-157725303.jpg",
+      "publishedAt": "2023-12-21 06:38:54",
+      "content": "Health officials have confirmed an international traveler who passed through Denver International Airport on Dec. 13 has tested positive for measles. The adolescent, whose vaccination status is unkn\u2026 [+1351 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.898060",
+      "internal_id": "46b5b4195500ed77ad4ec2571087e5176f6577fee063d8bbb50c8d4cbf69ca20",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3817,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Officials confirm first case of measles in Colorado resident in five years - The Colorado Sun",
+      "description": "Officials confirm first case of measles in Colorado resident in five yearsThe Colorado Sun Colorado reports first measles case in 4 years in Denver airport travelerThe Denver Post Colorado measles case confirmed days after patient flew into Denver airportFOX \u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172543879",
+      "urlToImage": null,
+      "publishedAt": "2023-12-21 05:52:14",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.904678",
+      "internal_id": "d40fdacd95e031e8ba3bb06b5e23095c68a7d3f6332371235290d76fd9bdbf83",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3826,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WISHTV.com",
+      "author": "Devi Shastri Ap Health Writer",
+      "title": "Health officials push to get schoolchildren vaccinated",
+      "description": "Parents are opting out of school vaccinations at the highest rate ever. Last school year, that amounted to 3% of Kindergarten children.",
+      "url": "https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/",
+      "urlToImage": "https://www.wishtv.com/wp-content/uploads/2023/12/Health-officials-schoolchildren-vaccinated_AP23342623062211-scaled-e1703106620113.jpg",
+      "publishedAt": "2023-12-21 05:32:57",
+      "content": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected, all unvaccinated. This time, t\u2026 [+4272 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.941450",
+      "internal_id": "da409bbcbe2d18ef96f1a26afc11edeaf5e043f555b267c065f21824e2a69826",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3818,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Rahman, M. A., Kundu, S., Rashid, H. O., Tohan, M. M., Islam, M. A.",
+      "title": "Socio-economic inequalities in and factors associated with minimum dietary diversity among children aged 6-23 months in South Asia: a decomposition analysis",
+      "description": "Objective This study aimed to determine the factors associated with minimum dietary diversity (MDD) and estimate the socioeconomic inequalities in MDD among children from five South Asian countries. Design Cross-sectional. Setting The study used the most re\u2026",
+      "url": "https://bmjopen.bmj.com/content/13/12/e072775?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2023-12-21 05:07:03",
+      "content": "Introduction Appropriate implementation of infant and young child feeding (IYCF) cuts the risk of babies being malnourished, having diarrhoeal diseases, measles, respiratory infection and mental imp\u2026 [+12612 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.911338",
+      "internal_id": "135c77403978f15e98c4ad2db9b17f2f952135c81858dde1aedbeca3075149ae",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3814,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Officials Push to Get Kids Vaccinated as More US Parents Opt Out",
+      "description": "Last school year, vaccination waivers among kindergartners hit an all-time high",
+      "url": "https://www.voanews.com/a/officials-push-to-get-kids-vaccinated-as-more-us-parents-opt-out-/7406765.html",
+      "urlToImage": "https://gdb.voanews.com/D9273FA4-AED1-4B33-8100-3BA76D6A72B4.jpg",
+      "publishedAt": "2023-12-21 03:40:59",
+      "content": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected, all unvaccinated. This time, t\u2026 [+4129 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.894582",
+      "internal_id": "3e86f88dc78bf21ad77ca85326f2d049ad4e6e129983b0bbc8c878d9535901fb",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3827,
+      "query": [
+        "measles",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Government launches vaccination drive from today",
+      "description": "KATHMANDU: The government is launching a vaccination campaign against measles-rubella and typhoid in the areas affected by the November 3 earthquake. According to Ministry Spokesperson Dr Prakash Budhathoki, the campaign will kick off today and it will cover \u2026",
+      "url": "https://english.khabarhub.com/2023/21/331544/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2020/01/Nepal-Ministry-Of-Health-And-Population02.jpg",
+      "publishedAt": "2023-12-21 00:15:12",
+      "content": "KATHMANDU: The government is launching a vaccination campaign against measles-rubella and typhoid in the areas affected by the November 3 earthquake. According to Ministry Spokesperson Dr Prakash Bu\u2026 [+794 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.944531",
+      "internal_id": "7af4e6ddc83b1f29b3d40be6af49affb4778e58ba9a04f12e94995190760267f",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3813,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Whooping cough cases in Alberta on track for one of the worst years in a decade",
+      "description": "A pertussis outbreak that began in southern Alberta in January is showing no sign of ending, and case counts of the disease, commonly known as whooping cough, have skyrocketed provincially.",
+      "url": "https://www.cbc.ca/news/canada/calgary/whooping-cough-pertussis-alberta-1.7065298",
+      "urlToImage": "https://i.cbc.ca/1.3307723.1675378466!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/whooping-cough.jpg",
+      "publishedAt": "2023-12-20 23:59:34",
+      "content": "A pertussis outbreak that began in southern Alberta in January is showing no sign of ending, and case counts of the disease, commonly known as whooping cough, have skyrocketed provincially. Accordin\u2026 [+3810 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.132452",
+      "internal_id": "1a2766f1c6f882725d6ee0cff82554d9b0c0f88f5f8710ec5d44ee1da5176e25",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3831,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Editorial Board",
+      "title": "Stepping up the anti-malaria war",
+      "description": "THE revelation by the World Health Organisation that Nigeria and four other countries contributed to the five million new cases of malaria in the world from 2020 to 2022 demonstrates the stark reality that much more efforts are required to stamp out the disea\u2026",
+      "url": "https://punchng.com/stepping-up-the-anti-malaria-war/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/04/24163033/Injectable-malarial-vaccine.jpg",
+      "publishedAt": "2023-12-20 23:46:37",
+      "content": "THE revelation by the World Health Organisation that Nigeria and four other countries contributed to the five million new cases of malaria in the world from 2020 to 2022 demonstrates the stark realit\u2026 [+3780 chars]",
+      "retrievedAt": "2023-12-22 07:05:54.336814",
+      "internal_id": "e0f2f3a723e7af9973d9e82b8678f61d9c28aead4fccf8dcd5a2449cc2eaadf7",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3816,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Colorado reports first measles case in 4 years in Denver airport traveler",
+      "description": "Vaccination is highly effective, so people who completed the sequence of the measles, mumps and rubella shot don't need to worry, according to the Colorado Department of Public Health and Environment.",
+      "url": "https://www.denverpost.com/2023/12/20/colorado-measles-airport-childrens-hospital/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2022/05/TDP-L-DIA-_AAO4074x.jpg?w=1024&h=683",
+      "publishedAt": "2023-12-20 23:06:40",
+      "content": "Colorado has its first confirmed case of measles in four years, and unvaccinated people who visited Denver International Airport or the Aurora campus of Children\u2019s Hospital Colorado may need to look \u2026 [+2752 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.901146",
+      "internal_id": "8a1dbfe72bdf6d11f0e8f67d1fb1c6982fd0f5c7519d1da746d2a1d3379080f5",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3819,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 31 Denver",
+      "author": "Heather Willard",
+      "title": "Measles case confirmed by Colorado health officials, possible DIA exposure",
+      "description": "Colorado health officials have confirmed an international traveler who arrived in Colorado on Dec. 13 tested positive for measles.",
+      "url": "https://kdvr.com/news/health/cdphe-measles-case-confirmed-days-after-patient-flew-through-dia/",
+      "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2023/09/AP19025711167120.jpg?w=1280",
+      "publishedAt": "2023-12-20 22:35:09",
+      "content": "DENVER (KDVR) \u2014 Colorado health officials have confirmed an international traveler who arrived in Colorado on Dec. 13 has tested positive for measles. The adolescent allegedly visited several Colora\u2026 [+2365 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.914536",
+      "internal_id": "ad07bb511090661dc542820d3e86ee6304684243d1bbc1134381129eaf1d3747",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3822,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "Devi Shastri Ap Health Writer",
+      "title": "Health officials push to get schoolchildren vaccinated as more US parents opt out",
+      "description": "In Idaho last year, parents opted out of state-required vaccines for 12% of kids entering kindergarten, the highest rate in the nation.",
+      "url": "https://6abc.com/children-school-vaccinations-kids-vaccines/14207327/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14207462_122023-cc-ap-ant-vaccine-sign-protest-children-img.jpg?w=1600",
+      "publishedAt": "2023-12-20 22:18:22",
+      "content": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected, all unvaccinated. This time, t\u2026 [+4296 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.926560",
+      "internal_id": "7f8579e6740f1f6b86c136fc66d53837fda550bff4b752850f0dd2742eaa59f1",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3825,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTVD-TV",
+      "author": "Devi Shastri Ap Health Writer",
+      "title": "Health officials push to get schoolchildren vaccinated as more US parents opt out",
+      "description": "In Idaho last year, parents opted out of state-required vaccines for 12% of kids entering kindergarten, the highest rate in the nation.",
+      "url": "https://abc11.com/children-school-vaccinations-kids-vaccines/14207327/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14207462_122023-cc-ap-ant-vaccine-sign-protest-children-img.jpg?w=1600",
+      "publishedAt": "2023-12-20 22:00:23",
+      "content": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected, all unvaccinated. This time, t\u2026 [+4296 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.937796",
+      "internal_id": "8382d480cf7780d564f5a1b1d60c5c15582b73cfdbb360ed9cc3e78973914dbd",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3824,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KTRK-TV",
+      "author": "Devi Shastri Ap Health Writer",
+      "title": "Health officials push to get schoolchildren vaccinated as more US parents opt out",
+      "description": "In Idaho last year, parents opted out of state-required vaccines for 12% of kids entering kindergarten, the highest rate in the nation.",
+      "url": "https://abc13.com/children-school-vaccinations-kids-vaccines/14207327/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14207462_122023-cc-ap-ant-vaccine-sign-protest-children-img.jpg?w=1600",
+      "publishedAt": "2023-12-20 21:47:43",
+      "content": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected, all unvaccinated. This time, t\u2026 [+4296 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.934774",
+      "internal_id": "517821a29be46accbadb2924758860c1e3bb29bba5cd31768cec045abc0cbf04",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3820,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KGO-TV",
+      "author": "Devi Shastri Ap Health Writer",
+      "title": "Health officials push to get schoolchildren vaccinated as more US parents opt out",
+      "description": "In Idaho last year, parents opted out of state-required vaccines for 12% of kids entering kindergarten, the highest rate in the nation.",
+      "url": "https://abc7news.com/children-school-vaccinations-kids-vaccines/14207327/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14207462_122023-cc-ap-ant-vaccine-sign-protest-children-img.jpg?w=1600",
+      "publishedAt": "2023-12-20 21:28:24",
+      "content": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected, all unvaccinated. This time, t\u2026 [+4296 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.918016",
+      "internal_id": "e28cf1452989cf9432b1f28addcf080e1f312c5294ed3d253132ed112b15bd43",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3832,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Bangkok Post",
+      "author": "Peter Singer",
+      "title": "A bargain in saving lives from malaria",
+      "description": "In 2021, malaria caused 619,000 deaths, 77% of which were children under five, and 96% of them in Africa. But now, after decades of research -- and several false dawns -- a malaria vaccine known as R21/Matrix-M (henceforth just R21) has been shown to be effec\u2026",
+      "url": "https://www.bangkokpost.com/opinion/opinion/2710068/a-bargain-in-saving-lives-from-malaria",
+      "urlToImage": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "publishedAt": "2023-12-20 21:00:00",
+      "content": "In 2021, malaria caused 619,000 deaths, 77% of which were children under five, and 96% of them in Africa. But now, after decades of research -- and several false dawns -- a malaria vaccine known as R\u2026 [+4937 chars]",
+      "retrievedAt": "2023-12-22 07:05:54.345056",
+      "internal_id": "b80d8d3ab6205d863abd296467d5a7c59a22e6fa59652b711c0903ea92b4b85a",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3828,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Simone Blanes",
+      "title": "Ap\u00f3s anos, Brasil registra alta em vacina\u00e7\u00e3o e inclui novas vacinas no PNI",
+      "description": "Imunizantes contra sarampo e poliomielite aumentaram as taxas de cobertura. Governo deve incorporar vacinas contra pneumonia e dengue no calend\u00e1rio",
+      "url": "https://veja.abril.com.br/saude/apos-anos-brasil-registra-alta-em-vacinacao-e-inclui-novas-vacinas-no-pni",
+      "urlToImage": "",
+      "publishedAt": "2023-12-20 20:53:35",
+      "content": "BLACK FRIDAY: ASSINE a partir de R$ 1 por semanaContinua ap\u00f3s publicidade Vacina\u00e7\u00e3o de crian\u00e7as contra a covid-19 na UBS 5 de Taguatinga Sul (Foto: Jos\u00e9 Cruz/Ag\u00eancia Brasil) Continua ap\u00f3s publicida\u2026 [+5986 chars]",
+      "retrievedAt": "2023-12-22 07:05:53.408976",
+      "internal_id": "85e5d307324d8e70655c3e1f1dd65cee86fa10653a4fc10dae52362c067d827a",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3821,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KSAT San Antonio",
+      "author": "Devi Shastri",
+      "title": "Health officials push to get schoolchildren vaccinated as more US parents opt out",
+      "description": "Health officials push to get schoolchildren vaccinated as more US parents opt outksat.com",
+      "url": "https://www.ksat.com/health/2023/12/20/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/XAL4QFDRS5DXFEATAGERVXCIUI.jpg?_a=ATAPphC0",
+      "publishedAt": "2023-12-20 20:52:28",
+      "content": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected, all unvaccinated. This time, t\u2026 [+4427 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.921675",
+      "internal_id": "35602680e54b19918ecb6a58b9a07a75814f61bbc25a415a6fdbc3f04fdd5d5b",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3823,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WABC-TV",
+      "author": "Devi Shastri Ap Health Writer",
+      "title": "Health officials push to get schoolchildren vaccinated as more US parents opt out",
+      "description": "In Idaho last year, parents opted out of state-required vaccines for 12% of kids entering kindergarten, the highest rate in the nation.",
+      "url": "https://abc7ny.com/children-school-vaccinations-kids-vaccines/14207327/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14207462_122023-cc-ap-ant-vaccine-sign-protest-children-img.jpg?w=1600",
+      "publishedAt": "2023-12-20 20:40:32",
+      "content": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected, all unvaccinated. This time, t\u2026 [+4296 chars]",
+      "retrievedAt": "2023-12-22 07:05:52.929647",
+      "internal_id": "4215d2fc5f9169f2f51282a6c66e46d269e429b5ebb0c1cc5befe3f9e9a7d14c",
+      "publishedAtLabel": "Dec 20"
+    },
+    {
+      "id": 3829,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Tribunademinas.com.br",
+      "author": "Tribuna de Minas",
+      "title": "Juiz de Fora deve receber R$ 1,8 milh\u00e3o para combate ao Aedes aegypti",
+      "description": "Recurso \u00e9 parte de um investimento do Governo de Minas em tecnologia para identificar, monitorar e tratar os focos e criadouros do mosquito",
+      "url": "https://tribunademinas.com.br/noticias/cidade/20-12-2023/juiz-de-fora-deve-receber-r-18-milhao-para-combate-ao-aedes-aegypti.html",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/12/20164723/Drone-usado-no-combate-a-focos-do-Aedes-aegypti-em-Juiz-de-Fora-MG.jpg",
+      "publishedAt": "2023-12-20 20:03:15",
+      "content": "Juiz de Fora dever\u00e1 receber cerca de R$ 1,8 milh\u00e3o do Governo de Minas Gerais para investir em a\u00e7\u00f5es de combate ao Aedes aegypti, mosquito transmissor da dengue, chikungunya e zika. Ao todo, a Secret\u2026 [+984 chars]",
+      "retrievedAt": "2023-12-22 07:05:53.421224",
+      "internal_id": "aa02fcf0e2dfec8bf4900dbb26a8c3b4d6b7c481de1a7337b2b6cbc79c24c875",
+      "publishedAtLabel": "Dec 20"
+    },
     {
       "id": 3805,
       "query": [
@@ -15720,6 +16083,78 @@
       "content": "KalbarOnline, Pontianak \u2013 Penjabat (Pj) Gubernur Provinsi Kalbar, Harisson meminta para bupati dan wali kota serius dalam menangani lonjakan kasus demam berdarah dengue (DBD). Terutama pada wilayah y\u2026 [+4534 chars]",
       "retrievedAt": "2023-11-07 07:05:44.895874",
       "internal_id": "268e3dac225231335a2141ee74fa2dcdd03daa13ee390fde70715be357ad47aa",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2940,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "Dengue death toll crosses 1,400-mark",
+      "description": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more patients were hospitalised with the viral fever, according to\u2026",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-crosses-1400-mark-733734",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/05/2m9a8079_0.jpg",
+      "publishedAt": "2023-11-05 14:10:42",
+      "content": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more \u2026 [+585 chars]",
+      "retrievedAt": "2023-11-06 19:05:22.974215",
+      "internal_id": "8ba2e2aea33e19748697f97dce0e9bf5c214207b60c2fa2348627ba9c8d9d1d6",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2941,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "David Will",
+      "title": "Heute vor 143 Jahren: Als ein Au\u00dfenseiter den Malaria-Erreger fand",
+      "description": "Lange glauben \u00c4rzte, dass Malaria durch giftige D\u00e4mpfe verursacht wird. Erst ein Blick ins Blut von Soldaten f\u00fchrt auf die richtige Spur.",
+      "url": "https://www.tagesspiegel.de/wissen/heute-vor-143-jahren-x-10728799.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/malaria005-the-malaria-infected-red-blood-cells/alternates/BASE_16_9_W1400/malaria005-the-malaria-infected-red-blood-cells.jpeg",
+      "publishedAt": "2023-11-05 12:48:20",
+      "content": "Einfach mal wieder richtig durchatmen in Buenos Aires! Das dachten zumindest die spanischen Eroberer, die im 16. Jahrhundert zum ersten Mal am Rio de la Plata Anker legten und die Siedlung der guten \u2026 [+2750 chars]",
+      "retrievedAt": "2023-11-06 19:05:24.244357",
+      "internal_id": "e1e80af99c7ac7ee2edf109d00bb3fdf0cd28fadad8016325e6944a0f5677179",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2942,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Twentyfournews.com",
+      "author": "24 Web Desk",
+      "title": "Zika prevention efforts remain strong: Health Minister",
+      "description": "Zika prevention efforts remain strong: Health \u0d38\u0d3f\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2a\u0d4d\u0d30\u0d35\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d2f\u0d3f \u0d24\u0d41\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41: \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f \u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f",
+      "url": "https://www.twentyfournews.com/2023/11/05/zika-prevention-efforts-remain-strong-health-minister.html",
+      "urlToImage": "https://www.twentyfournews.com/wp-content/uploads/2023/11/Zika-prevention-efforts-remain-strong_-Health-Minister.jpg",
+      "publishedAt": "2023-11-05 12:41:12",
+      "content": ". 8 . . . . 30 31 . 1, 2, 5 . . 55 . 24 . . , . . . 104 . 5 , , . . . . . . Story Highlights: Zika prevention efforts remain strong: Health Minister",
+      "retrievedAt": "2023-11-06 19:05:24.864638",
+      "internal_id": "c7a82ae030c9caa7e5cc8cdb723efa58f41ce83b1f4aa3a5f51ee568897bdafb",
+      "publishedAtLabel": "Nov 5"
+    },
+    {
+      "id": 2939,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Maeghan Dolph",
+      "title": "Understanding the severity of the mosquito-borne disease dengue",
+      "description": "Delve into the key aspects of dengue fever and severe dengue, while also shedding light on these mosquito-borne diseases' significance and distinctions in those infected.",
+      "url": "https://www.foxnews.com/lifestyle/dengue-severe-dengue-mosquito-borne-disease",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AP23173281339142.jpg",
+      "publishedAt": "2023-11-05 08:00:25",
+      "content": "Dengue fever is a mosquito-borne viral infection that affects millions of people worldwide, causing a wide range of symptoms. In some cases, dengue can progress into a potentially life-threatening \u2026 [+4527 chars]",
+      "retrievedAt": "2023-11-06 19:05:22.953961",
+      "internal_id": "d8aaf37e2aef933f6c68f1567f297aea8601660ad7e964fa74f58e82ec36aef1",
       "publishedAtLabel": "Nov 5"
     }
   ]
