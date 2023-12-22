@@ -1,8 +1,296 @@
 {
-  "last_updated": "2023-12-22 07:05",
-  "count_articles_total": 894,
-  "count_articles_new": 20,
+  "last_updated": "2023-12-22 19:05",
+  "count_articles_total": 906,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 3840,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Kunle Shonaike",
+      "title": "WHO prequalifies second malaria vaccine, R21",
+      "description": "The World Health Organisation on Thursday added the R21/Matrix-M malaria vaccine to its list of prequalified vaccines. In October 2023, WHO recommended its use for the prevention of malaria in children following the advice of the WHO Strategic Advisory Group \u2026",
+      "url": "https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/12/21184334/n.png",
+      "publishedAt": "2023-12-21 17:44:41",
+      "content": "The World Health Organisation on Thursday added the R21/Matrix-M malaria vaccine to its list of prequalified vaccines. In October 2023, WHO recommended its use for the prevention of malaria in child\u2026 [+3020 chars]",
+      "retrievedAt": "2023-12-22 19:05:33.400157",
+      "internal_id": "5cfa43155e524d921fb4944bb651e4fdc2d90d89b52fcae1bee4e65a8e73e0b0",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3848,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Camille Besombes, M\u00e9decin infectiologue - Epid\u00e9miologie - Unit\u00e9 d'\u00e9pid\u00e9miologie des maladies \u00e9mergentes, Sciences Po",
+      "title": "Variole du singe - mpox : une \u00e9volution pr\u00e9occupante de la maladie en Afrique",
+      "description": "En 2022, une \u00e9pid\u00e9mie mondiale de mpox (anciennement \u00ab variole du singe \u00bb) s\u2019\u00e9tait d\u00e9clar\u00e9e. Aujourd\u2019hui la situation reste pr\u00e9occupante, car la forme la plus virulente de la maladie semble se propager en Afrique.",
+      "url": "https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750",
+      "urlToImage": "https://images.theconversation.com/files/566660/original/file-20231219-15-j7vdik.jpg?ixlib=rb-1.1.0&rect=0%2C234%2C3072%2C1536&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2023-12-21 17:43:31",
+      "content": "Micrographie \u00e9lectronique \u00e0 balayage coloris\u00e9e (fausses couleurs) de virus mpox (en rouge) situ\u00e9s \u00e0 la surface de cellules VERO E6 infect\u00e9es (en vert). Image prise au NIAID Integrated Research Facili\u2026 [+16478 chars]",
+      "retrievedAt": "2023-12-22 19:05:34.579873",
+      "internal_id": "272ccd44b7e42db440ff6cdac3479de018c97562f3de66e570900dc8d7b5d6c5",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3839,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Ministra da Sa\u00fade anuncia incorpora\u00e7\u00e3o da vacina da dengue ao SUS",
+      "description": "N\u00edsia Trindade publicou comunicado nas redes sociais em que afirma que a imuniza\u00e7\u00e3o come\u00e7a em fevereiro",
+      "url": "https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023",
+      "urlToImage": "https://img.r7.com/images/reuters-aplicacao-de-vacina-vacina-chikungunya-1500-10112023090330266?crop=1382x777+118+67",
+      "publishedAt": "2023-12-21 17:14:00",
+      "content": "Vacina da dengue deve come\u00e7ar a ser aplicada em fevereiro Johanna Geron/Reuters - 1\u00b0/2/2022 Nesta quinta-feira (21), a ministra da Sa\u00fade, N\u00edsia Trindade, anunciou nas redes sociais a incorpor\u2026 [+2993 chars]",
+      "retrievedAt": "2023-12-22 19:05:32.297340",
+      "internal_id": "9a6a5e1a2a26032f2677cea1773e1cc94a990cd968a46ecc2d459ed95415d0c2",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3838,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tudocelular.com",
+      "author": "Tudocelular.com",
+      "title": "Vacina contra dengue \u00e9 incorporada ao SUS pelo Minist\u00e9rio da Sa\u00fade",
+      "description": "De acordo com o governo federal, a distribui\u00e7\u00e3o do novo imunizante deve come\u00e7ar em fevereiro de 2024 para grupos priorit\u00e1rios.",
+      "url": "https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html",
+      "urlToImage": "https://t2.tudocdn.net/687526?w=1920",
+      "publishedAt": "2023-12-21 17:00:00",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou nesta quinta-feira (21) que a vacina da dengue chamada de Qdenga (TAK-003) ser\u00e1 incorporada ao Sistema \u00danico de Sa\u00fade (SUS) e a distribui\u00e7\u00e3o do novo imunizante deve com\u2026 [+2099 chars]",
+      "retrievedAt": "2023-12-22 19:05:32.275653",
+      "internal_id": "9598606442d0189317100c475d7ab1dd7b2aeb05d26a96be017ff7d5a1fe8a3f",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3837,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Jennifer Mcrae",
+      "title": "Measles case being treated in Colorado for first time in 4 years, health officials warn of possible exposure",
+      "description": "The adolescent, an international traveler, arrived at Denver International Airport on Dec. 13 and visited several counties in the state in the past week before seeking treatment.",
+      "url": "https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/21/e867c6a0-fc64-46c5-ab6f-50e0b71d9fe4/thumbnail/1200x630/c2f255d17d77a62f2e2326fac1d45f65/gettyimages-1359395701.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+      "publishedAt": "2023-12-21 16:24:57",
+      "content": "For the first time in four years, a case of measles is being treated in Colorado. The adolescent, an international traveler, arrived at Denver International Airport on Dec. 13 and visited several cou\u2026 [+5254 chars]",
+      "retrievedAt": "2023-12-22 19:05:31.764820",
+      "internal_id": "82952e7702298e8d8dabb747470a3286e9dd6e64a4bc7e160a7bcac9b899e0d5",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3845,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Zeliha Chaffin",
+      "title": "Le laboratoire Valneva tente de se relancer avec son vaccin contre le chikungunya",
+      "description": "Malmen\u00e9e par les investisseurs depuis l\u2019\u00e9chec commercial de son produit anti-Covid, la soci\u00e9t\u00e9 franco-autrichienne mise sur la lutte contre le virus propag\u00e9 par le moustique-tigre pour rebondir.",
+      "url": "https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html",
+      "urlToImage": "https://img.lemde.fr/2023/12/20/0/2/3099/2066/1440/960/60/0/e066baf_1703090116483-000-327648u.jpg",
+      "publishedAt": "2023-12-21 14:00:01",
+      "content": "Thomas Lingelbach, PDG de Valneva, \u00e0 Livingston, en Ecosse, le 28 mars 2022. ANDY BUCHANAN / AFP Au si\u00e8ge du laboratoire pharmaceutique franco-autrichien Valneva, \u00e0 Saint-Herblain (Loire-Atlantique)\u2026 [+2840 chars]",
+      "retrievedAt": "2023-12-22 19:05:34.127408",
+      "internal_id": "743a457f898cc3efbacd7e1a2a1baecb2e4ab9f10d0f718584f96f6735fed9e6",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3836,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Iris Yousaf, William W. Hannon, Ryan C. Donohue, Christian K. Pfaller, Kalpana Yadav, Ryan J. Dikdan, Sanjay Tyagi, Declan C. Schroeder, Wun-Ju Shieh, Paul A. Rota, Alison F. Feder, Roberto Cattaneo",
+      "title": "Brain tropism acquisition: The spatial dynamics and evolution of a measles virus collective infectious unit that drove lethal subacute sclerosing panencephalitis",
+      "description": "Author summary Autopsy material from the brain of a patient who succumbed to subacute sclerosing panencephalitis (SSPE), a lethal brain infection caused by measles virus (MeV) persistence, provided a unique opportunity to characterize the spatial dynamics of \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011817.g008&size=inline",
+      "publishedAt": "2023-12-21 14:00:00",
+      "content": "Citation: Yousaf I, Hannon WW, Donohue RC, Pfaller CK, Yadav K, Dikdan RJ, et al. (2023) Brain tropism acquisition: The spatial dynamics and evolution of a measles virus collective infectious unit th\u2026 [+74874 chars]",
+      "retrievedAt": "2023-12-22 19:05:31.747595",
+      "internal_id": "90ecae546fe59924e5f0d54d0184c79a6a774a8653a1b7edfc71015366b95783",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3841,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ummi Abdul Kibondo, Jenny Renju, Eliud Lukole, Jacklin F. Mosha, Franklin W. Mosha, Alphaxard Manjurano, Mark Rowland, Natacha Protopopoff",
+      "title": "Factors associated with malaria infection among children after distribution of PBO-pyrethroid synergist-treated nets and indoor residual spraying in north-western Tanzania",
+      "description": "Background After a decade of successful control, malaria is on the rise again. The prevalence of malaria in Tanzania has increased from 7% in 2017 to 8% in 2022 and reached 18% in Kagera region in the North West of Tanzania. Malaria vectors in Muleba district\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0295800.g001&size=inline",
+      "publishedAt": "2023-12-21 14:00:00",
+      "content": "Abstract Background After a decade of successful control, malaria is on the rise again. The prevalence of malaria in Tanzania has increased from 7% in 2017 to 8% in 2022 and reached 18% in Kagera r\u2026 [+35084 chars]",
+      "retrievedAt": "2023-12-22 19:05:33.412613",
+      "internal_id": "faa9701512c931fb00ef1e5e4dcf34fcd0f8b21df8cdddb855f235921472ed67",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3843,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kanako Komaki-Yasuda, Shigeyuki Kano",
+      "title": "The RNA-binding KH-domain in the unique transcription factor of the malaria parasite is responsible for its transcriptional regulatory activity",
+      "description": "To date, only a small number of regulatory transcription factors have been predicted from the genome of Plasmodium and Apicomplexan parasites. We previously identified a nuclear factor named Prx regulatory element-binding protein (PREBP) from Plasmodium falci\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0296165.g007&size=inline",
+      "publishedAt": "2023-12-21 14:00:00",
+      "content": "Citation: Komaki-Yasuda K, Kano S (2023) The RNA-binding KH-domain in the unique transcription factor of the malaria parasite is responsible for its transcriptional regulatory activity. PLoS ONE 18(1\u2026 [+55650 chars]",
+      "retrievedAt": "2023-12-22 19:05:33.422727",
+      "internal_id": "fa4cf4415c0da7e9b2532d038c249ec31b839f8e48e3ef41a6ab36df04908ccd",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3846,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bach Tran Nguyen, Aur\u00e9lien Marc, Clara Su\u00f1er, Michael Marks, Maria Ubals, \u00c1gueda Hern\u00e1ndez-Rodr\u00edguez, Mar\u00eda \u00c1ngeles Melendez, The Movie Group, Dennis E. Hruby, Andrew T. Russo, France Mentr\u00e9, Oriol Mitj\u00e0, Douglas W. Grosenbach, J\u00e9r\u00e9mie Guedj",
+      "title": "Early administration of tecovirimat shortens the time to mpox clearance in a model of human infection",
+      "description": "Despite its use since the beginning of the 2022 mpox outbreak, few data have been published on the antiviral effect of tecovirimat in humans. This study predicts the impact of early tecovirimat administration on the time to viral clearance in patients with mp\u2026",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249",
+      "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3002249.g004&size=inline",
+      "publishedAt": "2023-12-21 14:00:00",
+      "content": "Data for Figs 14, S1, S3, S5, S6 and S8S10. Data A in S1 Data (Data description for Fig 1). dosekg: dose (mg) received per kg body weight; time: time postinfection (days); eps, eps05, eps95: median, \u2026 [+12408 chars]",
+      "retrievedAt": "2023-12-22 19:05:34.561386",
+      "internal_id": "dcfd6fda71f536a1c3f443e3c2634dcb204a7b384175e07ca8bbdbf7776946e8",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3835,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Thursday, December 21, 2023",
+      "description": "Today's briefing includes news on high Obamacare signups, spiking homelessness, online privacy, measles, long covid, heart health, and more.",
+      "url": "https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2023-12-21 13:49:04",
+      "content": "Spotlight Falls On Obscure FDA Program Shunting Money Into Costly Drugs A little-known FDA voucher program, designed to incentivize companies to make drugs for uncommon illnesses, is being leveraged\u2026 [+7480 chars]",
+      "retrievedAt": "2023-12-22 19:05:31.742736",
+      "internal_id": "ab46cbd9e7b681c04bdf7be6e04baf61f9370f2a24ba853a4660cae68f5c0118",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3833,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u042d\u043a\u0441\u043f\u0435\u0440\u0442 \u041c\u0438\u043d\u0437\u0434\u0440\u0430\u0432\u0430 \u0441\u043e\u043e\u0431\u0449\u0438\u043b \u043e \u0440\u043e\u0441\u0442\u0435 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438 \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c \u0432 \u0420\u043e\u0441\u0441\u0438\u0438",
+      "description": "\u041f\u043e \u0441\u043b\u043e\u0432\u0430\u043c \u0433\u043b\u0430\u0432\u043d\u043e\u0433\u043e \u0432\u043d\u0435\u0448\u0442\u0430\u0442\u043d\u043e\u0433\u043e \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u0430 - \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u043e\u043b\u043e\u0433\u0430 \u0432\u0435\u0434\u043e\u043c\u0441\u0442\u0432\u0430 \u0420\u043e\u043c\u0430\u043d\u0430 \u041f\u043e\u043b\u0438\u0431\u0438\u043d\u0430, \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u0430\u044f \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f \u0441\u043b\u043e\u0436\u0438\u043b\u0430\u0441\u044c \u0432 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0437\u0430\u0440\u0443\u0431\u0435\u0436\u043d\u044b\u0445 \u0441\u0442\u0440\u0430\u043d\u0430\u0445",
+      "url": "https://tass.ru/obschestvo/19601869",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/19601869?u=2023-12-21T13:06:48.275347",
+      "publishedAt": "2023-12-21 13:06:48",
+      "content": ", 21 . //. , . - . \" . , , , . , , , \", - \" \". - , Bordatella pertussis. - , . - , - .",
+      "retrievedAt": "2023-12-22 19:05:31.200442",
+      "internal_id": "0468fd06ab708d7862a31caa23309f6981773531890084b45de014095a90cb00",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3847,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "AFP",
+      "title": "Affenpocken breiten sich im Kongo aus",
+      "description": "Die Infektionskrankheit Mpox, bekannt als Affenpocken, ist im Kongo derzeit eine Epidemie. Die Weltgesundheitsorganisation warnt vor weiterer Ausbreitung.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html",
+      "urlToImage": "https://media1.faz.net/ppmedia/aktuell/gesellschaft/767932886/1.9400049/facebook_teaser/so-sehen-die-viren-unter-dem.jpg",
+      "publishedAt": "2023-12-21 12:32:37",
+      "content": "Die Weltgesundheitsorganisation (WHO) bef\u00fcrchtet eine neue Ausbreitung der Infektionskrankheit Mpox \u00fcber die Grenzen der Demokratischen Republik Kongo hinaus. Wir sind besorgt, dass es zu einer inter\u2026 [+2127 chars]",
+      "retrievedAt": "2023-12-22 19:05:34.569461",
+      "internal_id": "caf3f7ca64df96066a423b513e500b9be23a131ac9239031c6296ae94a67dd14",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3842,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "World News in Brief: Latest Sudan fighting displaces thousands, second malaria vaccine, Russian dissidents \u2018disappeared\u2019",
+      "description": "The latest surge in fighting in Sudan has displaced up to 300,000 people as conflict spread to the country\u2019s second largest city, Wad Madani, the International Organization for Migration (IOM) said on Thursday. Read Full Story on UN News The post World News \u2026",
+      "url": "https://news.un.org/en/story/2023/12/1145042",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-10-2023_WFP_South-Sudan-02.jpg/image770x420cropped.jpg",
+      "publishedAt": "2023-12-21 12:00:00",
+      "content": "Wad Madani is located some 140 kilometres southeast of the war-torn capital Khartoum and sits at the heart of Al Jazirah state, known as Sudans breadbasket. Nearly half a million people have fled to\u2026 [+4476 chars]",
+      "retrievedAt": "2023-12-22 19:05:33.416882",
+      "internal_id": "cad897943b459bfb23774e7cdd82f2a2997116ff3b3dc629c9cb3ed74130d8c5",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3844,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "US Equity Futures Point to Wall Street Rebound: Markets Wrap - Yahoo Finance",
+      "description": "US Equity Futures Point to Wall Street Rebound: Markets WrapYahoo Finance Stock Market Today: Dow, S&P Live Updates for December 21Bloomberg Live news: WHO paves way for global rollout of malaria vaccineFinancial Times Morning Bid: Global rally shudders to ha\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172545579",
+      "urlToImage": null,
+      "publishedAt": "2023-12-21 10:52:28",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-12-22 19:05:33.431314",
+      "internal_id": "40e5640567245737a3bdba4a5a678894a55a762660f9c80dd84c22a47068c735",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 3834,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY ELI ASHKENAZI/WALLA! AND JERUSALEM POST STAFF",
+      "title": "Palestinian child dies of rabies - Palestinian Ministry of Health",
+      "description": "Rabies is a fatal neurological disease with a virtually 100% mortality rate for both humans and animals if a vaccination is not administered before the onset of symptoms.",
+      "url": "https://www.jpost.com/health-and-wellness/article-778937",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/569532",
+      "publishedAt": "2023-12-21 07:25:59",
+      "content": "The Ministry of Health confirmed today that a child died of rabies about a month ago. The Palestinian boy was bitten in the Jordan Valley in early October by a stray dog and was not vaccinated after \u2026 [+2558 chars]",
+      "retrievedAt": "2023-12-22 19:05:31.431942",
+      "internal_id": "c327edf7c900657d1814057fae0b074a3b9e13a6fb359a49eb3c471cf5387067",
+      "publishedAtLabel": "Dec 21"
+    },
     {
       "id": 3830,
       "query": [
@@ -16083,78 +16371,6 @@
       "content": "KalbarOnline, Pontianak \u2013 Penjabat (Pj) Gubernur Provinsi Kalbar, Harisson meminta para bupati dan wali kota serius dalam menangani lonjakan kasus demam berdarah dengue (DBD). Terutama pada wilayah y\u2026 [+4534 chars]",
       "retrievedAt": "2023-11-07 07:05:44.895874",
       "internal_id": "268e3dac225231335a2141ee74fa2dcdd03daa13ee390fde70715be357ad47aa",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2940,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "Dengue death toll crosses 1,400-mark",
-      "description": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more patients were hospitalised with the viral fever, according to\u2026",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-crosses-1400-mark-733734",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/05/2m9a8079_0.jpg",
-      "publishedAt": "2023-11-05 14:10:42",
-      "content": "Fifteen more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,408 this year. During the period, 2,103 more \u2026 [+585 chars]",
-      "retrievedAt": "2023-11-06 19:05:22.974215",
-      "internal_id": "8ba2e2aea33e19748697f97dce0e9bf5c214207b60c2fa2348627ba9c8d9d1d6",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2941,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "David Will",
-      "title": "Heute vor 143 Jahren: Als ein Au\u00dfenseiter den Malaria-Erreger fand",
-      "description": "Lange glauben \u00c4rzte, dass Malaria durch giftige D\u00e4mpfe verursacht wird. Erst ein Blick ins Blut von Soldaten f\u00fchrt auf die richtige Spur.",
-      "url": "https://www.tagesspiegel.de/wissen/heute-vor-143-jahren-x-10728799.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/malaria005-the-malaria-infected-red-blood-cells/alternates/BASE_16_9_W1400/malaria005-the-malaria-infected-red-blood-cells.jpeg",
-      "publishedAt": "2023-11-05 12:48:20",
-      "content": "Einfach mal wieder richtig durchatmen in Buenos Aires! Das dachten zumindest die spanischen Eroberer, die im 16. Jahrhundert zum ersten Mal am Rio de la Plata Anker legten und die Siedlung der guten \u2026 [+2750 chars]",
-      "retrievedAt": "2023-11-06 19:05:24.244357",
-      "internal_id": "e1e80af99c7ac7ee2edf109d00bb3fdf0cd28fadad8016325e6944a0f5677179",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2942,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Twentyfournews.com",
-      "author": "24 Web Desk",
-      "title": "Zika prevention efforts remain strong: Health Minister",
-      "description": "Zika prevention efforts remain strong: Health \u0d38\u0d3f\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d24\u0d3f\u0d30\u0d4b\u0d27 \u0d2a\u0d4d\u0d30\u0d35\u0d30\u0d4d\u200d\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d4d\u200d \u0d36\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d2f\u0d3f \u0d24\u0d41\u0d1f\u0d30\u0d41\u0d28\u0d4d\u0d28\u0d41: \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f \u0d2e\u0d28\u0d4d\u0d24\u0d4d\u0d30\u0d3f",
-      "url": "https://www.twentyfournews.com/2023/11/05/zika-prevention-efforts-remain-strong-health-minister.html",
-      "urlToImage": "https://www.twentyfournews.com/wp-content/uploads/2023/11/Zika-prevention-efforts-remain-strong_-Health-Minister.jpg",
-      "publishedAt": "2023-11-05 12:41:12",
-      "content": ". 8 . . . . 30 31 . 1, 2, 5 . . 55 . 24 . . , . . . 104 . 5 , , . . . . . . Story Highlights: Zika prevention efforts remain strong: Health Minister",
-      "retrievedAt": "2023-11-06 19:05:24.864638",
-      "internal_id": "c7a82ae030c9caa7e5cc8cdb723efa58f41ce83b1f4aa3a5f51ee568897bdafb",
-      "publishedAtLabel": "Nov 5"
-    },
-    {
-      "id": 2939,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": "Maeghan Dolph",
-      "title": "Understanding the severity of the mosquito-borne disease dengue",
-      "description": "Delve into the key aspects of dengue fever and severe dengue, while also shedding light on these mosquito-borne diseases' significance and distinctions in those infected.",
-      "url": "https://www.foxnews.com/lifestyle/dengue-severe-dengue-mosquito-borne-disease",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AP23173281339142.jpg",
-      "publishedAt": "2023-11-05 08:00:25",
-      "content": "Dengue fever is a mosquito-borne viral infection that affects millions of people worldwide, causing a wide range of symptoms. In some cases, dengue can progress into a potentially life-threatening \u2026 [+4527 chars]",
-      "retrievedAt": "2023-11-06 19:05:22.953961",
-      "internal_id": "d8aaf37e2aef933f6c68f1567f297aea8601660ad7e964fa74f58e82ec36aef1",
       "publishedAtLabel": "Nov 5"
     }
   ]
