@@ -1,8 +1,134 @@
 {
-  "last_updated": "2023-12-23 18:18",
-  "count_articles_total": 952,
-  "count_articles_new": 34,
+  "last_updated": "2023-12-23 19:05",
+  "count_articles_total": 959,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 3896,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Lisa Schlein)",
+      "title": "Dengue Surging Globally as Climate Change Kicks In",
+      "description": "GENEVA \u2014 The World Health Organization says dengue, a mosquito-borne illness, is surging worldwide because of climate change, along with social, environmental and other factors, such as population growth and the globalization of travel, which facilitates the \u2026",
+      "url": "https://www.voanews.com/a/dengue-surging-globally-as-climate-change-kicks-in-/7409133.html",
+      "urlToImage": "https://gdb.voanews.com/6B81133F-4FBE-4BAD-BE51-DAC7FED2F8FA.jpg",
+      "publishedAt": "2023-12-22 18:59:42",
+      "content": "GENEVA The World Health Organization says dengue, a mosquito-borne illness, is surging worldwide because of climate change, along with social, environmental and other factors, such as population gro\u2026 [+5182 chars]",
+      "retrievedAt": "2023-12-23 19:05:22.062513",
+      "internal_id": "7d7103884e524a8309ce9391e0b3b937e1ceefa49d8d60203edbd7cb441cc32c",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 3901,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "\u09a8\u09bf\u099c\u09b8\u09cd\u09ac \u09b8\u0982\u09ac\u09be\u09a6\u09a6\u09be\u09a4\u09be",
+      "title": "\u09a8\u09be\u09b0\u09be\u09df\u09a3\u0997\u099e\u09cd\u099c-\u09ea: \u09aa\u09cd\u09b0\u099a\u09be\u09b0\u09a3\u09be\u09df \u09b9\u09be\u09ae\u09b2\u09be\u09df \u09b8\u09c1\u09aa\u09cd\u09b0\u09bf\u09ae \u09aa\u09be\u09b0\u09cd\u099f\u09bf\u09b0 \u09aa\u09cd\u09b0\u09be\u09b0\u09cd\u09a5\u09c0\u09b8\u09b9 \u0986\u09b9\u09a4 \u09ec",
+      "description": "\u09a8\u09be\u09b0\u09be\u09df\u09a3\u0997\u099e\u09cd\u099c-\u09ea \u0986\u09b8\u09a8\u09c7 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09b8\u09c1\u09aa\u09cd\u09b0\u09bf\u09ae \u09aa\u09be\u09b0\u09cd\u099f\u09bf\u09b0 \u09aa\u09cd\u09b0\u09be\u09b0\u09cd\u09a5\u09c0 \u09b8\u09c7\u09b2\u09bf\u09ae \u0986\u09b9\u09ae\u09c7\u09a6\u09c7\u09b0 \u09aa\u09cd\u09b0\u099a\u09be\u09b0\u09a3\u09be\u09df \u09b9\u09be\u09ae\u09b2\u09be\u09df \u09aa\u09cd\u09b0\u09be\u09b0\u09cd\u09a5\u09c0\u09b8\u09b9 \u099b\u09df\u099c\u09a8 \u0986\u09b9\u09a4 \u09b9\u09df\u09c7\u099b\u09c7\u09a8\u0964",
+      "url": "https://bangla.thedailystar.net/news/bangladesh/election/national-election-2024/news-544486",
+      "urlToImage": "https://tds-images-bn.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/12/23/received_3006078306208514.jpeg?itok=iGviek4x",
+      "publishedAt": "2023-12-22 18:52:47",
+      "content": "The authorities have apparently not learned any lessons from this years dengue outbreak that set records both in death toll and hospitalisation.",
+      "retrievedAt": "2023-12-23 19:05:22.169019",
+      "internal_id": "0d5d77f4ce81a46c7202b60c14f34e2ee4f584009fd000a9107e5f6b401b4e19",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 3898,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Associated Press",
+      "title": "Reported dengue cases spiked tenfold over the last generation, WHO says",
+      "description": "The agency says reported cases soared to a record 5.2 million in 2019, up from 500,000 in 2000, across 129 countries worldwide - and the figures likely understate the actual toll.",
+      "url": "https://www.pbs.org/newshour/health/reported-dengue-cases-spiked-tenfold-over-the-last-generation-who-says",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/12/2023-11-27T225701Z_41942376_RC2OL4ANN02C_RTRMADP_3_NICARAGUA-HEALTH-e1703270447778-1024x657.jpg",
+      "publishedAt": "2023-12-22 18:42:37",
+      "content": "GENEVA (AP) The U.N. health agency said Friday that reported cases of dengue globally increased tenfold over the last generation, with climate change and the growing spread of virus-carrying mosquito\u2026 [+2367 chars]",
+      "retrievedAt": "2023-12-23 19:05:22.115777",
+      "internal_id": "cb36d0620a35b35bbd13b5fa48f3a384b24fb38b53738eb6894dde5ea146be11",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 3900,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Alma Preta",
+      "title": "SUS: Brasil ser\u00e1 1\u00ba pa\u00eds a oferecer vacina contra a dengue gratuitamente",
+      "description": "Vacina\u00e7\u00e3o deve come\u00e7ar em fevereiro de 2024, mas ainda n\u00e3o em larga escala O post SUS: Brasil ser\u00e1 1\u00ba pa\u00eds a oferecer vacina contra a dengue gratuitamente apareceu primeiro em AlmaPreta.",
+      "url": "https://www.terra.com.br/nos/sus-brasil-sera-1-pais-a-oferecer-vacina-contra-a-dengue-gratuitamente,f443b50da0b1153e52be7039441c646b5uzik0ws.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/22/1068259938-foto-site-3-3.jpg",
+      "publishedAt": "2023-12-22 18:38:33",
+      "content": "O Minist\u00e9rio da Sa\u00fade integrou, nesta quinta-feira (21), a vacina contra a dengue ao Sistema \u00danico de Sa\u00fade (SUS). A ministra N\u00edsia Trindade anunciou que a vacina\u00e7\u00e3o com o novo imunizante deve come\u00e7a\u2026 [+2044 chars]",
+      "retrievedAt": "2023-12-23 19:05:22.161616",
+      "internal_id": "2633ea79546b4b435fdda1ec504589a3bec151a17292eea601d88a39d109663d",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 3899,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Durch \u00fcberwinternde M\u00fccken: Dengue-Fieber kann sich in Europa ausbreiten",
+      "description": "Dengue-Fieber ist eine Infektionskrankheit, die normalerweise in tropischen und subtropischen Regionen vorkommt. Doch durch den Klimawandel gibt es auch F\u00e4lle in Europa. Diese k\u00f6nnten sich in Zukunft h\u00e4ufen, warnt die WHO, denn die stechenden \u00dcbertr\u00e4gerinnen \u2026",
+      "url": "https://www.n-tv.de/wissen/Dengue-Fieber-kann-sich-in-Europa-ausbreiten-article24619613.html",
+      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop24619629/1151329412-cImg_16_9-w1200/436581103.jpg",
+      "publishedAt": "2023-12-22 18:34:16",
+      "content": "Dengue-Fieber ist eine Infektionskrankheit, die normalerweise in tropischen und subtropischen Regionen vorkommt. Doch durch den Klimawandel gibt es auch F\u00e4lle in Europa. Diese k\u00f6nnten sich in Zukunft\u2026 [+1919 chars]",
+      "retrievedAt": "2023-12-23 19:05:22.133961",
+      "internal_id": "202cc4e050b59183d071618c2d6061feddc278b23dde7db14e97c1f709a7400f",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 3895,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Perfil.com",
+      "author": "Perfil Brasil",
+      "title": "Vacina contra dengue \u00e9 incorporada ao SUS pelo Minist\u00e9rio da Sa\u00fade",
+      "description": "A ministra N\u00edsia Trindade anunciou em suas redes sociais que a vacina\u00e7\u00e3o deve come\u00e7ar em fevereiro do ano que vem",
+      "url": "https://brasil.perfil.com/saude/vacina-contra-dengue-e-incorporada-ao-sus-pelo-ministerio-da-saude.phtml",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/22/75580686-abre-perfil-brasil-redimensionado-3-13.jpg",
+      "publishedAt": "2023-12-22 18:20:27",
+      "content": "\"Incorporamos a vacina da dengue ao #SUS. O Brasil ser\u00e1 o primeiro pa\u00eds com sistema universal como o nosso a dar acesso p\u00fablico a ela\", publicou no X, antigo Twitter. O registro da Qdenga (TAK-003),\u2026 [+3776 chars]",
+      "retrievedAt": "2023-12-23 19:05:22.042999",
+      "internal_id": "8b8e3a9d136bf780ef14c7b4510dbb9aa6902a72872a7644197595f8b33de504",
+      "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 3897,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La OMS eleva a alto el riesgo de expansi\u00f3n global del dengue, con 5.000 muertes en 2023",
+      "description": "El calentamiento global est\u00e1 expandiendo el h\u00e1bitat de los mosquitos transmisores de esta infecci\u00f3n viral.",
+      "url": "https://www.montevideo.com.uy/Salud/La-OMS-eleva-a-alto-el-riesgo-de-expansion-global-del-dengue-con-5-000-muertes-en-2023-uc874736",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202304/_W933_80/841257.jpg",
+      "publishedAt": "2023-12-22 18:20:00",
+      "content": "M\u00e1s de cinco millones de casos de dengue han sido reportados en el mundo, entre ellos 5.000 mortales, indic\u00f3 este viernes la Organizaci\u00f3n Mundial de la Salud (OMS), que ha elevado a alto el riesgo \u2026 [+2804 chars]",
+      "retrievedAt": "2023-12-23 19:05:22.109278",
+      "internal_id": "f3d93f2c1f046e0cb205a2bbf23b3876a7b37dc1d19af7e8924c6da7b817f7d3",
+      "publishedAtLabel": "Dec 22"
+    },
     {
       "id": 3887,
       "query": [

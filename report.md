@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 34
-- **Last harvest:** 2023-12-23 18:18
-- **Most recent article:** 2023-12-22 17:45:09
+- **New articles in last harvest:** 7
+- **Last harvest:** 2023-12-23 19:05
+- **Most recent article:** 2023-12-22 18:59:42
 
 ---
 
@@ -12,7 +12,7 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-45 | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 31 | 33 | 41 | 45 | 62 | 44 | 52 | 308 |
+| dengue | 31 | 33 | 41 | 45 | 62 | 44 | 59 | 315 |
 | malaria | 28 | 19 | 37 | 36 | 26 | 24 | 23 | 193 |
 | chikungunya | 66 | 16 | 7 | 10 | 10 | 11 | 4 | 124 |
 | mpox | 9 | 2 | 19 | 18 | 20 | 24 | 15 | 107 |
@@ -217,6 +217,20 @@ Source: [News API](https://newsapi.org/)
 - [13 posibles casos de defunciones por leptospirosis alertan a Cartagena](https://www.eluniversal.com.co/cartagena/13-posibles-casos-de-defunciones-por-leptospirosis-alertan-a-cartagena-XB9663671) (Eluniversal.com.co)
 
 ## 23-51 (dengue)
+
+- [Dengue Surging Globally as Climate Change Kicks In](https://www.voanews.com/a/dengue-surging-globally-as-climate-change-kicks-in-/7409133.html) (VOA News)
+
+- [নারায়ণগঞ্জ-৪: প্রচারণায় হামলায় সুপ্রিম পার্টির প্রার্থীসহ আহত ৬](https://bangla.thedailystar.net/news/bangladesh/election/national-election-2024/news-544486) (The Daily Star)
+
+- [Reported dengue cases spiked tenfold over the last generation, WHO says](https://www.pbs.org/newshour/health/reported-dengue-cases-spiked-tenfold-over-the-last-generation-who-says) (PBS)
+
+- [SUS: Brasil será 1º país a oferecer vacina contra a dengue gratuitamente](https://www.terra.com.br/nos/sus-brasil-sera-1-pais-a-oferecer-vacina-contra-a-dengue-gratuitamente,f443b50da0b1153e52be7039441c646b5uzik0ws.html) (Terra.com.br)
+
+- [Durch überwinternde Mücken: Dengue-Fieber kann sich in Europa ausbreiten](https://www.n-tv.de/wissen/Dengue-Fieber-kann-sich-in-Europa-ausbreiten-article24619613.html) (N-tv.de)
+
+- [Vacina contra dengue é incorporada ao SUS pelo Ministério da Saúde](https://brasil.perfil.com/saude/vacina-contra-dengue-e-incorporada-ao-sus-pelo-ministerio-da-saude.phtml) (Perfil.com)
+
+- [La OMS eleva a alto el riesgo de expansión global del dengue, con 5.000 muertes en 2023](https://www.montevideo.com.uy/Salud/La-OMS-eleva-a-alto-el-riesgo-de-expansion-global-del-dengue-con-5-000-muertes-en-2023-uc874736) (Montevideo.com.uy)
 
 - [Dengue continues to wreak havoc even in December](https://www.tbsnews.net/bangladesh/health/dengue-continues-wreak-havoc-even-december-762558) (Tbsnews.net)
 
