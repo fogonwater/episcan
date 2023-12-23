@@ -66,7 +66,7 @@ def gen_report():
     disease_counts = {}
     last_published = None
     article_titles = {}
-    
+
     # Count the number of articles for each keyword by epiweek
     for article in articles["articles"]:
         epiweek = str(article["epiweek"])
@@ -82,7 +82,7 @@ def gen_report():
             epikey = f"{epiweek} ({keyword})"
             if epikey not in article_titles:
                 article_titles[epikey] = []
-            article_titles[epikey].append(article["title"])
+            article_titles[epikey].append(article)
 
     # Add a total column to the disease_counts dictionary
     for key, val in disease_counts.items():
@@ -94,23 +94,27 @@ def gen_report():
     )
 
     # Create the harvest summary
-    harvest_summary = "\n".join([
-        f"- **New articles in last harvest:** {articles['count_articles_new']}",
-        f"- **Last harvest:** {articles['last_updated']}",
-        f"- **Most recent article:** {last_published}",
-    ])
+    harvest_summary = "\n".join(
+        [
+            f"- **New articles in last harvest:** {articles['count_articles_new']}",
+            f"- **Last harvest:** {articles['last_updated']}",
+            f"- **Most recent article:** {last_published}",
+        ]
+    )
 
     # Compose the report
-    report = "\n\n".join([
-        "# Disease Keywords Summary Report",
-        harvest_summary,
-        "---",
-        "## Disease keyword mentions in international news",
-        "By US epiweek (i.e. Sunday to Saturday)",
-        dict_to_md_table(disease_counts),
-        "Source: [News API](https://newsapi.org/)",
-        "---"
-    ])
+    report = "\n\n".join(
+        [
+            "# Disease Keywords Summary Report",
+            harvest_summary,
+            "---",
+            "## Disease keyword mentions in international news",
+            "By US epiweek (i.e. Sunday to Saturday)",
+            dict_to_md_table(disease_counts),
+            "Source: [News API](https://newsapi.org/)",
+            "---",
+        ]
+    )
 
     # Reverse sort the article titles by epiweek
     epikeys = sorted(article_titles.keys(), reverse=True)
@@ -120,11 +124,10 @@ def gen_report():
         # Create a list of article titles with hyperlinks
         report += "\n\n".join(
             [
-                f"- [{title}]({articles['articles'][i]['url']})"
-                for i, title in enumerate(article_titles[epikey])
+                f"- [{article['title']}]({article['url']}) ({article['source_name']})"
+                for article in article_titles[epikey]
             ]
         )
-        #report += "\n\n".join([f"- {title}" for title in article_titles[epikey]])
 
     # Write the report to a markdown file
     with open("report.md", "w") as f:

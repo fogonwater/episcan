@@ -1,7 +1,7 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 0
-- **Last harvest:** 2023-12-23 18:08
+- **Last harvest:** 2023-12-24 07:16
 - **Most recent article:** 2023-12-22 06:26:35
 
 ---
@@ -10,20 +10,20 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 23-45 | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | Total |
-|--|-|-|-|-|-|-|-|-|
-| dengue | 31 | 33 | 41 | 45 | 62 | 44 | 25 | 281 |
-| malaria | 28 | 19 | 37 | 36 | 26 | 24 | 21 | 191 |
-| chikungunya | 66 | 16 | 7 | 10 | 10 | 11 | 3 | 123 |
-| mpox | 9 | 2 | 19 | 18 | 20 | 24 | 12 | 104 |
-| measles | 5 | 33 | 11 | 5 | 5 | 7 | 28 | 94 |
-| zika | 6 | 4 | 6 | 10 | 15 | 9 | 5 | 55 |
-| rabies | 3 | 4 | 8 | 11 | 4 | 7 | 3 | 40 |
-| meningitis | 4 | 7 | 0 | 4 | 8 | 9 | 3 | 35 |
-| pertussis | 1 | 3 | 6 | 4 | 2 | 4 | 2 | 22 |
-| leptospirosis | 2 | 3 | 3 | 4 | 3 | 0 | 2 | 17 |
-| typhoid | 4 | 3 | 1 | 0 | 3 | 0 | 2 | 13 |
-| yersinia | 1 | 1 | 0 | 1 | 2 | 0 | 0 | 5 |
+| Disease | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | Total |
+|--|-|-|-|-|-|-|-|
+| dengue | 32 | 41 | 45 | 62 | 44 | 25 | 249 |
+| malaria | 19 | 37 | 36 | 26 | 24 | 21 | 163 |
+| mpox | 2 | 19 | 18 | 20 | 24 | 12 | 95 |
+| measles | 33 | 11 | 5 | 5 | 7 | 28 | 89 |
+| chikungunya | 15 | 7 | 10 | 10 | 11 | 3 | 56 |
+| zika | 3 | 6 | 10 | 15 | 9 | 5 | 48 |
+| rabies | 4 | 8 | 11 | 4 | 7 | 3 | 37 |
+| meningitis | 7 | 0 | 4 | 8 | 9 | 3 | 31 |
+| pertussis | 3 | 6 | 4 | 2 | 4 | 2 | 21 |
+| leptospirosis | 3 | 3 | 4 | 3 | 0 | 2 | 15 |
+| typhoid | 3 | 1 | 0 | 3 | 0 | 2 | 9 |
+| yersinia | 1 | 0 | 1 | 2 | 0 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -32,2114 +32,1764 @@ Source: [News API](https://newsapi.org/)
 
 ## 23-51 (zika)
 
-- [Juiz de Fora deve receber R$ 1,8 milhão para combate ao Aedes aegypti](https://allafrica.com/stories/202312220032.html)
+- [Juiz de Fora deve receber R$ 1,8 milhão para combate ao Aedes aegypti](https://tribunademinas.com.br/noticias/cidade/20-12-2023/juiz-de-fora-deve-receber-r-18-milhao-para-combate-ao-aedes-aegypti.html) (Tribunademinas.com.br)
 
-- [Entenda por que os sorotipos 3 e 4 da dengue preocupam as autoridades de saúde em Campinas](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Entenda por que os sorotipos 3 e 4 da dengue preocupam as autoridades de saúde em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/18/entenda-por-que-os-sorotipos-3-e-4-da-dengue-preocupam-as-autoridades-de-saude-em-campinas.ghtml) (Globo)
 
-- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
 
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
 
 ## 23-51 (typhoid)
 
-- [Government launches vaccination drive from today](https://allafrica.com/stories/202312220032.html)
+- [Government launches vaccination drive from today](https://english.khabarhub.com/2023/21/331544/) (Khabarhub.com)
 
-- [Vaccination campaign in quake-affected districts from tomorrow](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Vaccination campaign in quake-affected districts from tomorrow](https://english.khabarhub.com/2023/20/331541/) (Khabarhub.com)
 
 ## 23-51 (rabies)
 
-- [Palestinian child dies of rabies - Palestinian Ministry of Health](https://allafrica.com/stories/202312220032.html)
+- [Palestinian child dies of rabies - Palestinian Ministry of Health](https://www.jpost.com/health-and-wellness/article-778937) (The Jerusalem Post)
 
-- [【毎年5万人超が死亡】「水が怖い…」致死率ほぼ100パーセント「恐水病」の衝撃の正体 - すばらしい医学](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [【毎年5万人超が死亡】「水が怖い…」致死率ほぼ100パーセント「恐水病」の衝撃の正体 - すばらしい医学](https://diamond.jp/articles/-/336100) (Diamond.jp)
 
-- [News24 | Holidaymakers warned of rabies risk in Eastern Cape, KZN](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [News24 | Holidaymakers warned of rabies risk in Eastern Cape, KZN](https://www.news24.com/news24/southafrica/news/holidaymakers-warned-of-rabies-risk-in-eastern-cape-kzn-20231219) (News24)
 
 ## 23-51 (pertussis)
 
-- [Эксперт Минздрава сообщил о росте заболеваемости коклюшем в России](https://allafrica.com/stories/202312220032.html)
+- [Эксперт Минздрава сообщил о росте заболеваемости коклюшем в России](https://tass.ru/obschestvo/19601869) (Tass.ru)
 
-- [Whooping cough cases in Alberta on track for one of the worst years in a decade](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Whooping cough cases in Alberta on track for one of the worst years in a decade](https://www.cbc.ca/news/canada/calgary/whooping-cough-pertussis-alberta-1.7065298) (CBC News)
 
 ## 23-51 (mpox)
 
-- [Variole du singe - mpox : une évolution préoccupante de la maladie en Afrique](https://allafrica.com/stories/202312220032.html)
+- [Variole du singe - mpox : une évolution préoccupante de la maladie en Afrique](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750) (The Conversation Africa)
 
-- [Early administration of tecovirimat shortens the time to mpox clearance in a model of human infection](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Early administration of tecovirimat shortens the time to mpox clearance in a model of human infection](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249) (Plos.org)
 
-- [Affenpocken breiten sich im Kongo aus](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Affenpocken breiten sich im Kongo aus](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html) (Faz.net)
 
-- [Gezondheidsraad: bied ‘mpox-vaccin’ structureel aan voor risicogroepen](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Gezondheidsraad: bied ‘mpox-vaccin’ structureel aan voor risicogroepen](https://www.volkskrant.nl/wetenschap/gezondheidsraad-bied-mpox-vaccin-structureel-aan-voor-risicogroepen~bbd4bf5a/) (Volkskrant.nl)
 
-- [Viele Hühner auf engstem Raum: Wie ein harmloses Virus besonders gefährlich wurde](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Viele Hühner auf engstem Raum: Wie ein harmloses Virus besonders gefährlich wurde](https://www.tagesspiegel.de/wissen/viele-tiere-auf-engstem-raum-wie-ein-harmloses-virus-besonders-gefahrlich-wurde-10948567.html) (Der Tagesspiegel)
 
-- [Variole du singe : Pourquoi l’OMS redoute une propagation internationale de l’épidémie](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Variole du singe : Pourquoi l’OMS redoute une propagation internationale de l’épidémie](https://www.20minutes.fr/sante/4067229-20231219-variole-singe-pourquoi-oms-redoute-propagation-internationale-epidemie) (20 Minutes)
 
-- [RSV Vaccine Added to List of 2024 Childhood Immunizations, Mpox Recommended for At-Risk Young Adults](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [RSV Vaccine Added to List of 2024 Childhood Immunizations, Mpox Recommended for At-Risk Young Adults](https://www.theepochtimes.com/health/rsv-vaccine-added-to-list-of-2024-childhood-immunizations-mpox-recommended-for-at-risk-young-adults-5548820) (Theepochtimes.com)
 
-- [Rite Aid : Offers Mpox Vaccine at Additional Locations in California](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Rite Aid : Offers Mpox Vaccine at Additional Locations in California](https://www.marketscreener.com/quote/stock/RITE-AID-CORPORATION-57476359/news/Rite-Aid-Offers-Mpox-Vaccine-at-Additional-Locations-in-California-45591813/) (Marketscreener.com)
 
-- [WHO warns mpox could spread internationally again](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [WHO warns mpox could spread internationally again](https://www.dw.com/en/who-warns-mpox-could-spread-internationally-again/a-67754081) (DW (English))
 
-- [WHO warns mpox could spread around the world again](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [WHO warns mpox could spread around the world again](https://www.dw.com/en/who-warns-mpox-could-spread-around-the-world-again/a-67754081) (DW (English))
 
-- [Congo-Kinshasa: L'OMS s'inquiète de la propagation rapide de l'épidémie de Mpox, aussi appelé «variole du singe»](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Congo-Kinshasa: L'OMS s'inquiète de la propagation rapide de l'épidémie de Mpox, aussi appelé «variole du singe»](https://fr.allafrica.com/stories/202312170213.html) (AllAfrica - Top Africa News)
 
-- [Congo-Brazzaville: Forte extension de l'épidémie de mpox](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Congo-Brazzaville: Forte extension de l'épidémie de mpox](https://fr.allafrica.com/stories/202312170165.html) (AllAfrica - Top Africa News)
 
 ## 23-51 (meningitis)
 
-- [Meningitis, jaundice lead to deformities in children – Expert](https://allafrica.com/stories/202312220032.html)
+- [Meningitis, jaundice lead to deformities in children – Expert](https://punchng.com/?p=1538765) (The Punch)
 
-- [HSE announces new investigation into death of Aoife Johnston (16) at UHL](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [HSE announces new investigation into death of Aoife Johnston (16) at UHL](https://www.thejournal.ie/aoife-johnston-death-ireland-6253249-Dec2023/) (TheJournal.ie)
 
-- [Editorial: The scandalous death of Aoife Johnston demands action](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Editorial: The scandalous death of Aoife Johnston demands action](https://www.independent.ie/opinion/editorial/editorial-the-scandalous-death-of-aoife-johnston-demands-action/a1418837503.html) (Independent.ie)
 
 ## 23-51 (measles)
 
-- [Researchers map how measles virus spreads in human brain](https://allafrica.com/stories/202312220032.html)
+- [Researchers map how measles virus spreads in human brain](https://www.sciencedaily.com/releases/2023/12/231221162235.htm) (Science Daily)
 
-- [Measles case being treated in Colorado for first time in 4 years, health officials warn of possible exposure](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Measles case being treated in Colorado for first time in 4 years, health officials warn of possible exposure](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/) (CBS News)
 
-- [Brain tropism acquisition: The spatial dynamics and evolution of a measles virus collective infectious unit that drove lethal subacute sclerosing panencephalitis](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Brain tropism acquisition: The spatial dynamics and evolution of a measles virus collective infectious unit that drove lethal subacute sclerosing panencephalitis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817) (Plos.org)
 
-- [Thursday, December 21, 2023](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Thursday, December 21, 2023](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/) (Kffhealthnews.org)
 
-- [Colorado measles case confirmed days after international traveler flew into Denver airport](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Colorado measles case confirmed days after international traveler flew into Denver airport](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport) (Fox News)
 
-- [Officials confirm first case of measles in Colorado resident in five years - The Colorado Sun](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Officials confirm first case of measles in Colorado resident in five years - The Colorado Sun](https://slashdot.org/firehose.pl?op=view&amp;id=172543879) (Slashdot.org)
 
-- [Health officials push to get schoolchildren vaccinated](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Health officials push to get schoolchildren vaccinated](https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/) (WISHTV.com)
 
-- [Socio-economic inequalities in and factors associated with minimum dietary diversity among children aged 6-23 months in South Asia: a decomposition analysis](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Socio-economic inequalities in and factors associated with minimum dietary diversity among children aged 6-23 months in South Asia: a decomposition analysis](https://bmjopen.bmj.com/content/13/12/e072775?rss=1) (The BMJ)
 
-- [Officials Push to Get Kids Vaccinated as More US Parents Opt Out](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Officials Push to Get Kids Vaccinated as More US Parents Opt Out](https://www.voanews.com/a/officials-push-to-get-kids-vaccinated-as-more-us-parents-opt-out-/7406765.html) (VOA News)
 
-- [Government launches vaccination drive from today](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Government launches vaccination drive from today](https://english.khabarhub.com/2023/21/331544/) (Khabarhub.com)
 
-- [Colorado reports first measles case in 4 years in Denver airport traveler](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Colorado reports first measles case in 4 years in Denver airport traveler](https://www.denverpost.com/2023/12/20/colorado-measles-airport-childrens-hospital/) (The Denver Post)
 
-- [Measles case confirmed by Colorado health officials, possible DIA exposure](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Measles case confirmed by Colorado health officials, possible DIA exposure](https://kdvr.com/news/health/cdphe-measles-case-confirmed-days-after-patient-flew-through-dia/) (FOX 31 Denver)
 
-- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://6abc.com/children-school-vaccinations-kids-vaccines/14207327/) (WPVI-TV)
 
-- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://abc11.com/children-school-vaccinations-kids-vaccines/14207327/) (WTVD-TV)
 
-- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://abc13.com/children-school-vaccinations-kids-vaccines/14207327/) (KTRK-TV)
 
-- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://abc7news.com/children-school-vaccinations-kids-vaccines/14207327/) (KGO-TV)
 
-- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://www.ksat.com/health/2023/12/20/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/) (KSAT San Antonio)
 
-- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://abc7ny.com/children-school-vaccinations-kids-vaccines/14207327/) (WABC-TV)
 
-- [US health officials see influx in vaccine exemption rates for children](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [US health officials see influx in vaccine exemption rates for children](https://www.foxnews.com/us/us-health-officials-see-influx-vaccine-exemption-rates-children) (Fox News)
 
-- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://apnews.com/article/vaccines-waivers-schools-measles-idaho-e7015d8fd38ec80802eeae350755a402) (Associated Press)
 
-- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://www.click2houston.com/health/2023/12/20/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/) (KPRC Click2Houston)
 
-- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://abcnews.go.com/Health/wireStory/health-officials-push-schoolchildren-vaccinated-us-parents-opt-105809922) (ABC News)
 
-- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://www.startribune.com/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/600329634/) (Minneapolis Star Tribune)
 
-- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://tass.ru/obschestvo/19601869)
+- [Health officials push to get schoolchildren vaccinated as more US parents opt out](https://www.bostonherald.com/2023/12/20/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/) (Boston Herald)
 
-- [Vaccination campaign in quake-affected districts from tomorrow](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
+- [Vaccination campaign in quake-affected districts from tomorrow](https://english.khabarhub.com/2023/20/331541/) (Khabarhub.com)
 
-- [Column: Measles is again on the march across the world, thanks to anti-vaxxers such as RFK Jr.](https://news.un.org/en/story/2023/12/1145042)
+- [Column: Measles is again on the march across the world, thanks to anti-vaxxers such as RFK Jr.](https://www.latimes.com/business/story/2023-12-19/measles-is-again-on-the-march-across-the-world-thanks-to-anti-vaxxers-such-as-rfk-jr) (Los Angeles Times)
 
-- [Measles fears as pandemic blamed for fall in take-up of MMR vaccine](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
+- [Measles fears as pandemic blamed for fall in take-up of MMR vaccine](https://www.independent.ie/irish-news/measles-fears-as-pandemic-blamed-for-fall-in-take-up-of-mmr-vaccine/a1829268124.html) (Independent.ie)
 
-- [Scammers Are Tricking Anti-Vaxxers Into Buying Bogus Medical Documents](https://www.jpost.com/health-and-wellness/article-778937)
+- [Scammers Are Tricking Anti-Vaxxers Into Buying Bogus Medical Documents](https://www.wired.co.uk/article/telegram-covid-19-vaccination-fakes) (Wired.co.uk)
 
 ## 23-51 (malaria)
 
-- [Africa: WHO Prequalifies Second Malaria Vaccine](https://allafrica.com/stories/202312220032.html)
+- [Africa: WHO Prequalifies Second Malaria Vaccine](https://allafrica.com/stories/202312220032.html) (AllAfrica - Top Africa News)
 
-- [WHO prequalifies a second malaria vaccine, a significant milestone in prevention of the disease](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [WHO prequalifies a second malaria vaccine, a significant milestone in prevention of the disease](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease) (World Health Organization)
 
-- [Provide free malaria treatment for Nigerians, Reps tell FG](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Provide free malaria treatment for Nigerians, Reps tell FG](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/) (The Punch)
 
-- [La OMS toma medidas para que la vacuna contra la malaria sea más accesible](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [La OMS toma medidas para que la vacuna contra la malaria sea más accesible](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834) (Eluniversal.com.co)
 
-- [WHO prequalifies second malaria vaccine, R21](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [WHO prequalifies second malaria vaccine, R21](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/) (The Punch)
 
-- [Factors associated with malaria infection among children after distribution of PBO-pyrethroid synergist-treated nets and indoor residual spraying in north-western Tanzania](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Factors associated with malaria infection among children after distribution of PBO-pyrethroid synergist-treated nets and indoor residual spraying in north-western Tanzania](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800) (Plos.org)
 
-- [The RNA-binding KH-domain in the unique transcription factor of the malaria parasite is responsible for its transcriptional regulatory activity](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [The RNA-binding KH-domain in the unique transcription factor of the malaria parasite is responsible for its transcriptional regulatory activity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165) (Plos.org)
 
-- [World News in Brief: Latest Sudan fighting displaces thousands, second malaria vaccine, Russian dissidents ‘disappeared’](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [World News in Brief: Latest Sudan fighting displaces thousands, second malaria vaccine, Russian dissidents ‘disappeared’](https://news.un.org/en/story/2023/12/1145042) (UN News)
 
-- [US Equity Futures Point to Wall Street Rebound: Markets Wrap - Yahoo Finance](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [US Equity Futures Point to Wall Street Rebound: Markets Wrap - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=172545579) (Slashdot.org)
 
-- [Stepping up the anti-malaria war](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Stepping up the anti-malaria war](https://punchng.com/stepping-up-the-anti-malaria-war/) (The Punch)
 
-- [A bargain in saving lives from malaria](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [A bargain in saving lives from malaria](https://www.bangkokpost.com/opinion/opinion/2710068/a-bargain-in-saving-lives-from-malaria) (Bangkok Post)
 
-- [Mechanical forces control the valency of the malaria adhesin VAR2CSA by exposing cryptic glycan binding sites](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Mechanical forces control the valency of the malaria adhesin VAR2CSA by exposing cryptic glycan binding sites](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011726) (Plos.org)
 
-- [Delays in seeking treatment for fever in children under five years of age in Nigeria: Evidence from the National Demographic Health Survey](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Delays in seeking treatment for fever in children under five years of age in Nigeria: Evidence from the National Demographic Health Survey](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295772) (Plos.org)
 
-- [Putative purine nucleoside interacting residues in the malaria parasite purine uptake transporter PfENT1 are critical for transporter function](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Putative purine nucleoside interacting residues in the malaria parasite purine uptake transporter PfENT1 are critical for transporter function](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293923) (Plos.org)
 
-- [All the Opportunity in the World Awaits: Why Hollywood Needs to Embrace the Vitality of International Creators (Guest Column)](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [All the Opportunity in the World Awaits: Why Hollywood Needs to Embrace the Vitality of International Creators (Guest Column)](https://variety.com/2023/film/columns/nicholas-weinstock-africa-invention-afriff-1235843238/) (Variety)
 
-- [Optimisation-based modelling for explainable lead discovery in malaria](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Optimisation-based modelling for explainable lead discovery in malaria](http://eprints.lse.ac.uk/121101/) (Lse.ac.uk)
 
-- [Neue Impfstoff-Produktion in Ruanda - Biontech sagt HIV und Malaria den Kampf an](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Neue Impfstoff-Produktion in Ruanda - Biontech sagt HIV und Malaria den Kampf an](https://www.bild.de/ratgeber/gesundheit/gesundheit/hiv-und-malaria-mrna-impfstoff-produktionsstaette-in-ruanda-eingeweiht-86464708.bild.html) (Bild)
 
-- [“Un buen parásito es aquel que no mata a su hospedador”](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [“Un buen parásito es aquel que no mata a su hospedador”](https://www.muyinteresante.es/ciencia/62663.html) (Muyinteresante.es)
 
-- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
-- [Un científico africano podría acabar con la malaria editando el ADN de un mosquito](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Un científico africano podría acabar con la malaria editando el ADN de un mosquito](https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/) (CNN)
 
-- [African Scientist aims to eradicate malaria by editing mosquito DNA | CNN](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [African Scientist aims to eradicate malaria by editing mosquito DNA | CNN](https://www.cnn.com/2023/12/17/africa/gene-drive-malaria-control-technology-africa-intl/index.html) (CNN)
 
 ## 23-51 (leptospirosis)
 
-- [Prevalence and risk factors for human leptospirosis at a hospital serving a pastoralist community, Endulen, Tanzania](https://allafrica.com/stories/202312220032.html)
+- [Prevalence and risk factors for human leptospirosis at a hospital serving a pastoralist community, Endulen, Tanzania](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011855) (Plos.org)
 
-- [13 posibles casos de defunciones por leptospirosis alertan a Cartagena](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [13 posibles casos de defunciones por leptospirosis alertan a Cartagena](https://www.eluniversal.com.co/cartagena/13-posibles-casos-de-defunciones-por-leptospirosis-alertan-a-cartagena-XB9663671) (Eluniversal.com.co)
 
 ## 23-51 (dengue)
 
-- [Dengue cases in Laos keep increasing](https://allafrica.com/stories/202312220032.html)
+- [Dengue cases in Laos keep increasing](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp) (Vietnamplus.vn)
 
-- [Ministério da Saúde vai incorporar vacina contra dengue ao SUS](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Ministério da Saúde vai incorporar vacina contra dengue ao SUS](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml) (Globo)
 
-- [Ministério da Saúde incorpora vacina contra a dengue no SUS](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Ministério da Saúde incorpora vacina contra a dengue no SUS](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html) (Terra.com.br)
 
-- [Ministério da Saúde inclui vacina da dengue no calendário do SUS](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Ministério da Saúde inclui vacina da dengue no calendário do SUS](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/) (Olhardigital.com.br)
 
-- [Vacina contra a dengue será aplicada no SUS em 2024](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Vacina contra a dengue será aplicada no SUS em 2024](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024) (Abril.com.br)
 
-- [Qdenga: vacina contra a dengue é incorporada no SUS](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Qdenga: vacina contra a dengue é incorporada no SUS](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html) (Ig.com.br)
 
-- [Ministério da Saúde incorpora vacina contra dengue ao SUS](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Ministério da Saúde incorpora vacina contra dengue ao SUS](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus) (Metropoles.com)
 
-- [Ministra da Saúde anuncia incorporação da vacina da dengue ao SUS](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Ministra da Saúde anuncia incorporação da vacina da dengue ao SUS](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023) (R7.com)
 
-- [Vacina contra dengue é incorporada ao SUS pelo Ministério da Saúde](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Vacina contra dengue é incorporada ao SUS pelo Ministério da Saúde](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html) (Tudocelular.com)
 
-- [Após anos, Brasil registra alta em vacinação e inclui novas vacinas no PNI](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Após anos, Brasil registra alta em vacinação e inclui novas vacinas no PNI](https://veja.abril.com.br/saude/apos-anos-brasil-registra-alta-em-vacinacao-e-inclui-novas-vacinas-no-pni) (Abril.com.br)
 
-- [Juiz de Fora deve receber R$ 1,8 milhão para combate ao Aedes aegypti](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Juiz de Fora deve receber R$ 1,8 milhão para combate ao Aedes aegypti](https://tribunademinas.com.br/noticias/cidade/20-12-2023/juiz-de-fora-deve-receber-r-18-milhao-para-combate-ao-aedes-aegypti.html) (Tribunademinas.com.br)
 
-- [Como densidade demográfica, viagens e calor podem agravar cenário da dengue em Campinas](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Como densidade demográfica, viagens e calor podem agravar cenário da dengue em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/19/como-densidade-demografica-viagens-e-calor-podem-agravar-cenario-da-dengue-em-campinas.ghtml) (Globo)
 
-- [Dengue: Campinas alerta para reintrodução de sorotipos e define ações para conter 'cenário dramático'](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Dengue: Campinas alerta para reintrodução de sorotipos e define ações para conter 'cenário dramático'](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/19/dengue-campinas-alerta-para-reintroducao-de-sorotipos-e-define-acoes-para-tentar-evitar-cenario-dramatico.ghtml) (Globo)
 
-- [Health D-G: Dengue cases drop slightly, three deaths recorded from December 3 to 9](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Health D-G: Dengue cases drop slightly, three deaths recorded from December 3 to 9](https://www.malaymail.com/news/malaysia/2023/12/19/health-d-g-dengue-cases-drop-slightly-three-deaths-recorded-from-december-3-to-9/108344) (Malay Mail)
 
-- [Comparison of clinical and laboratory characteristics between severe and non-severe dengue in paediatrics](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Comparison of clinical and laboratory characteristics between severe and non-severe dengue in paediatrics](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011839) (Plos.org)
 
-- [Dengue cases drop slightly, three deaths recorded in ME49, says Health DG](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Dengue cases drop slightly, three deaths recorded in ME49, says Health DG](https://www.thestar.com.my/news/nation/2023/12/19/dengue-cases-drop-slightly-three-deaths-recorded-in-me49-says-health-dg) (The Star Online)
 
-- [Mudanças climáticas podem aumentar casos de dengue no Brasil](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Mudanças climáticas podem aumentar casos de dengue no Brasil](https://ultimosegundo.ig.com.br/parceiros/flipar/2023-12-19/mudancas-climaticas-podem-aumentar-casos-de-dengue-no-brasil.html.ampstories) (Ig.com.br)
 
-- [Panic As Ncdc Alerts Sokoto Residents On Dengue Fever, Commissioner Reacts](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Panic As Ncdc Alerts Sokoto Residents On Dengue Fever, Commissioner Reacts](https://allafrica.com/stories/202312190101.html) (AllAfrica - Top Africa News)
 
-- [Jovem mostra evolução após ter dengue 2 vezes seguidas: “Pesava 29kg”](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Jovem mostra evolução após ter dengue 2 vezes seguidas: “Pesava 29kg”](https://www.metropoles.com/vida-e-estilo/jovem-mostra-evolucao-apos-ter-dengue-2-vezes-seguidas-pesava-29kg) (Metropoles.com)
 
-- [Millions Infected with Dengue as Temperature Rises](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Millions Infected with Dengue as Temperature Rises](https://learningenglish.voanews.com/a/7402578.html) (VOA News)
 
-- [Entenda por que os sorotipos 3 e 4 da dengue preocupam as autoridades de saúde em Campinas](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [Entenda por que os sorotipos 3 e 4 da dengue preocupam as autoridades de saúde em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/18/entenda-por-que-os-sorotipos-3-e-4-da-dengue-preocupam-as-autoridades-de-saude-em-campinas.ghtml) (Globo)
 
-- [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://allafrica.com/stories/202312180007.html) (AllAfrica - Top Africa News)
 
-- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://tass.ru/obschestvo/19601869)
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
 
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
 
 ## 23-51 (chikungunya)
 
-- [Le laboratoire Valneva tente de se relancer avec son vaccin contre le chikungunya](https://allafrica.com/stories/202312220032.html)
+- [Le laboratoire Valneva tente de se relancer avec son vaccin contre le chikungunya](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html) (Le Monde)
 
-- [Juiz de Fora deve receber R$ 1,8 milhão para combate ao Aedes aegypti](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Juiz de Fora deve receber R$ 1,8 milhão para combate ao Aedes aegypti](https://tribunademinas.com.br/noticias/cidade/20-12-2023/juiz-de-fora-deve-receber-r-18-milhao-para-combate-ao-aedes-aegypti.html) (Tribunademinas.com.br)
 
-- [Entenda por que os sorotipos 3 e 4 da dengue preocupam as autoridades de saúde em Campinas](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Entenda por que os sorotipos 3 e 4 da dengue preocupam as autoridades de saúde em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/18/entenda-por-que-os-sorotipos-3-e-4-da-dengue-preocupam-as-autoridades-de-saude-em-campinas.ghtml) (Globo)
 
 ## 23-50 (zika)
 
-- ["The damage from inaction is enormous" — Rising threat of Asian Tiger Mosquito across the US](https://allafrica.com/stories/202312220032.html)
+- ["The damage from inaction is enormous" — Rising threat of Asian Tiger Mosquito across the US](https://boingboing.net/2023/12/15/the-damage-from-inaction-is-enormous-rising-threat-of-asian-tiger-mosquito-across-the-us.html) (Boing Boing)
 
-- [The U.S. is unprepared for the growing threat of mosquito- and tick-borne viruses](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [The U.S. is unprepared for the growing threat of mosquito- and tick-borne viruses](https://www.npr.org/sections/health-shots/2023/12/15/1219478835/arboviruses-mosquito-tick-borne-viruses-tropical-disease) (NPR)
 
-- [Automated detection of Zika and dengue in Aedes aegypti using neural spiking analysis](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Automated detection of Zika and dengue in Aedes aegypti using neural spiking analysis](https://arxiv.org/abs/2312.08654v1) (Arxiv.org)
 
-- [Photoacid-Macroion Assemblies: How Photo-Excitation Switches the Size of Nano-Objects](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Photoacid-Macroion Assemblies: How Photo-Excitation Switches the Size of Nano-Objects](https://pubs.rsc.org/en/content/articlelanding/2024/nr/d3nr04570f) (Royal Society of Chemistry)
 
-- [Zika cases prompt health alert](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Zika cases prompt health alert](https://www.bangkokpost.com/thailand/general/2704058/zika-cases-prompt-health-alert) (Bangkok Post)
 
-- [Butantan trabalha em vacina contra Zika para prevenir microcefalia em recém-nascido](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Butantan trabalha em vacina contra Zika para prevenir microcefalia em recém-nascido](https://brasil.perfil.com/saude/butantan-trabalha-em-vacina-contra-zika-para-prevenir-microcefalia-em-recem-nascido.phtml) (Perfil.com)
 
-- [Britons warned Dengue Fever found in UK - warning of rashes and vomiting](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Britons warned Dengue Fever found in UK - warning of rashes and vomiting](https://www.gbnews.com/health/dengue-fever-mosquito-health-warning-uk) (Gbnews.com)
 
-- [Mosquito-borne disease risk looms for UK - study](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
-- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
 
 ## 23-50 (rabies)
 
-- [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://allafrica.com/stories/202312220032.html)
+- [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
 
-- [Woman dies of rabies, bringing Sarawak death toll to 16](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Woman dies of rabies, bringing Sarawak death toll to 16](https://www.thestar.com.my/news/nation/2023/12/15/woman-dies-of-rabies-bringing-sarawak-death-toll-to-16) (The Star Online)
 
-- [Woman, 44, is latest rabies fatality in Sarawak](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Woman, 44, is latest rabies fatality in Sarawak](https://www.thestar.com.my/news/nation/2023/12/14/woman-44-is-latest-rabies-fatality-in-sarawak) (The Star Online)
 
-- [Local health officials issue rabies alert - Alachua Chronicle](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Local health officials issue rabies alert - Alachua Chronicle](https://alachuachronicle.com/local-health-officials-issue-rabies-alert/) (Alachuachronicle.com)
 
-- [Postsynaptic cell type and synaptic distance do not determine efficiency of monosynaptic rabies virus spread measured at synaptic resolution](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Postsynaptic cell type and synaptic distance do not determine efficiency of monosynaptic rabies virus spread measured at synaptic resolution](https://elifesciences.org/articles/89297) (Elifesciences.org)
 
-- [Department of Health issues rabies alert for parts of Alachua County](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Department of Health issues rabies alert for parts of Alachua County](https://www.newsbreak.com/alachua-county-fl/3264398553870-department-of-health-issues-rabies-alert-for-parts-of-alachua-county) (Newsbreak.com)
 
-- [B.T.s sportskommentator: 'Tak for at give fuckfinger til middelmådigheden'](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [B.T.s sportskommentator: 'Tak for at give fuckfinger til middelmådigheden'](https://www.bt.dk/fodbold/bts-sportskommentator-tak-for-at-give-fuckfinger-til-middelmaadigheden) (Www.bt.dk)
 
 ## 23-50 (pertussis)
 
-- [Population-Based Study of Pertussis Incidence and Risk Factors among Persons >50 Years of Age, Australia](https://allafrica.com/stories/202312220032.html)
+- [Population-Based Study of Pertussis Incidence and Risk Factors among Persons >50 Years of Age, Australia](https://wwwnc.cdc.gov/eid/article/30/1/23-0261_article) (Cdc.gov)
 
-- [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
-- [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
 
-- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 
-- [World News in Brief: Abused Afghan women face prison, UNICEF global alert, deadly mpox resurfaces in DRC](https://allafrica.com/stories/202312220032.html)
+- [World News in Brief: Abused Afghan women face prison, UNICEF global alert, deadly mpox resurfaces in DRC](https://www.globalsecurity.org/military/library/news/2023/12/mil-231215-unnews04.htm) (Globalsecurity.org)
 
-- [Verbreitung durch Sexarbeit - WHO befürchtet weltweite Ausbreitung der Infektionskrankheit Mpox](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Verbreitung durch Sexarbeit - WHO befürchtet weltweite Ausbreitung der Infektionskrankheit Mpox](https://www.focus.de/gesundheit/verbreitung-durch-sexarbeit-who-befuerchtet-weltweite-ausbreitung-der-infektionskrankheit-mpox_id_259503685.html) (Focus)
 
-- [Mpox : l’OMS alerte sur une nouvelle propagation internationale de l’épidémie](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Mpox : l’OMS alerte sur une nouvelle propagation internationale de l’épidémie](https://www.lexpress.fr/sciences-sante/sante/mpox-loms-alerte-sur-une-nouvelle-propagation-internationale-de-lepidemie-U2TLTMV5EVFL7OUTPGASHWZNQI/) (L'Express)
 
-- [OMS alerta para risco de propagação internacional da “mpox”](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [OMS alerta para risco de propagação internacional da “mpox”](https://observador.pt/2023/12/15/oms-alerta-para-risco-de-propagacao-internacional-da-mpox/) (Observador.pt)
 
-- [WHO trekt aan alarmbel: “Grote uitbraak van apenpokkenvirus in Congo”](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [WHO trekt aan alarmbel: “Grote uitbraak van apenpokkenvirus in Congo”](https://www.hln.be/buitenland/who-trekt-aan-alarmbel-grote-uitbraak-van-apenpokkenvirus-in-congo~a16de1fb/) (Www.hln.be)
 
-- [Variole du singe : l'OMS craint une propagation internationale de l'épidémie depuis la République démocratique du Congo](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Variole du singe : l'OMS craint une propagation internationale de l'épidémie depuis la République démocratique du Congo](https://www.francetvinfo.fr/sante/maladie/variole-du-singe/variole-du-singe-l-oms-craint-une-propagation-internationale-de-l-epidemie-depuis-la-republique-democratique-du-congo_6246618.html) (Francetvinfo.fr)
 
-- [WHO sieht globales Risiko: 13.000 Mpox-Fälle im Kongo](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [WHO sieht globales Risiko: 13.000 Mpox-Fälle im Kongo](https://www.diepresse.com/17921086/who-sieht-globales-risiko-13000-mpox-faelle-im-kongo) (Diepresse.com)
 
-- [13.000 Mpox-Verdachtsfälle: WHO befürchtet neue Ausbreitung](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [13.000 Mpox-Verdachtsfälle: WHO befürchtet neue Ausbreitung](https://www.tagesspiegel.de/wissen/13000-mpox-verdachtsfalle-who-befurchtet-neue-ausbreitung-10935121.html) (Der Tagesspiegel)
 
-- [Epidemie im Kongo: WHO befürchtet neue Ausbreitung der Infektionskrankheit Mpox](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Epidemie im Kongo: WHO befürchtet neue Ausbreitung der Infektionskrankheit Mpox](https://www.zeit.de/gesundheit/2023-12/mpox-kongo-verbreitung-who-warnung) (Die Zeit)
 
-- [Mpox : l’OMS craint une propagation internationale de l’épidémie depuis la RDC](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Mpox : l’OMS craint une propagation internationale de l’épidémie depuis la RDC](https://www.lavenir.net/actu/monde/2023/12/15/mpox-loms-craint-une-propagation-internationale-de-lepidemie-depuis-la-rdc-TT5FTLLX2FDP7JZD5SRV6DTKVI/) (Lavenir.net)
 
-- [Krankheiten: WHO sieht globales Risiko: 13.000 Mpox-Fälle im Kongo](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Krankheiten: WHO sieht globales Risiko: 13.000 Mpox-Fälle im Kongo](https://www.stern.de/panorama/wissen/krankheiten--who-sieht-globales-risiko--13-000-mpox-faelle-im-kongo-34291292.html) (STERN.de)
 
-- [В ДРК от оспы обезьян с начала года умерли более 600 человек](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [В ДРК от оспы обезьян с начала года умерли более 600 человек](https://tass.ru/obschestvo/19548875) (Tass.ru)
 
-- [Notes from the Field: Transmission of Mpox to Nonsexual Close Contacts - Two U.S. Jurisdictions, May 1-July 31, 2022](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Notes from the Field: Transmission of Mpox to Nonsexual Close Contacts - Two U.S. Jurisdictions, May 1-July 31, 2022](https://www.cdc.gov/mmwr/volumes/72/wr/mm7250a3.htm) (Cdc.gov)
 
-- [Kolejny zgon z powodu mpox. Tą chorobą "każdy może się zarazić", ostrzega WHO](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Kolejny zgon z powodu mpox. Tą chorobą "każdy może się zarazić", ostrzega WHO](https://tvn24.pl/swiat/mpox-jakie-sa-objawy-kto-moze-sie-zarazic-wszystko-co-trzeba-wiedziec-o-tej-chorobie-7544227) (Tvn24.pl)
 
-- [Patienten müssen Kosten selbst tragen: Affenpocken-Impfungen in Berlin nicht mehr finanziert](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Patienten müssen Kosten selbst tragen: Affenpocken-Impfungen in Berlin nicht mehr finanziert](https://www.tagesspiegel.de/gesellschaft/queerspiegel/patienten-mussen-kosten-selbst-tragen-affenpocken-impfungen-in-berlin-nicht-mehr-finanziert-10926244.html) (Der Tagesspiegel)
 
-- [Japão confirma primeira morte de pessoa infetada com varíola dos macacos](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Japão confirma primeira morte de pessoa infetada com varíola dos macacos](https://observador.pt/2023/12/14/japao-confirma-primeira-morte-de-pessoa-infetada-com-variola-dos-macacos/) (Observador.pt)
 
-- [W Japonii pierwsza osoba zmarła z powodu mpox](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [W Japonii pierwsza osoba zmarła z powodu mpox](https://tvn24.pl/swiat/japonia-potwierdzono-pierwszy-zgon-na-chorobe-mpox-nazywana-wczesniej-malpia-ospa-7543593) (Tvn24.pl)
 
-- [Japan confirms 1st death from mpox in the country](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Japan confirms 1st death from mpox in the country](https://japantoday.com/category/national/update1-japan-confirms-1st-death-from-mpox-in-country) (Japan Today)
 
-- [Japonya'da maymun çiçeği virüsünden ilk ölüm yaşandı](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Japonya'da maymun çiçeği virüsünden ilk ölüm yaşandı](https://sputniknews.com.tr/20231213/japonyada-maymun-cicegi-virusunden-ilk-olum-yasandi-1078438162.html) (Sputniknews.com.tr)
 
-- [Japan confirms first death from mpox in country](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Japan confirms first death from mpox in country](https://www.japantimes.co.jp/news/2023/12/13/japan/science-health/mpox-first-japan-death/) (The Japan Times)
 
-- [El 40% de los pacientes con viruela del mono presentaban también infección por VIH](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [El 40% de los pacientes con viruela del mono presentaban también infección por VIH](https://www.infosalus.com/salud-investigacion/noticia-40-pacientes-viruela-mono-presentaban-tambien-infeccion-vih-20231212165138.html) (Infosalus.com)
 
-- [En cuatro de cada diez casos españoles de viruela del mono había infección por VIH](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [En cuatro de cada diez casos españoles de viruela del mono había infección por VIH](https://www.elmundo.es/ciencia-y-salud/salud/2023/12/12/65782592e85ece80478b45a1.html) (El Mundo)
 
-- [Sender advarsel: Smitsom sygdom spreder sig igen](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [Sender advarsel: Smitsom sygdom spreder sig igen](https://www.bt.dk/samfund/sender-advarsel-smitsom-sygdom-spreder-sig-igen) (Www.bt.dk)
 
-- [WHO advarer mod ny abekoppevariant](https://tass.ru/obschestvo/19601869)
+- [WHO advarer mod ny abekoppevariant](https://ing.dk/note/who-advarer-mod-ny-abekoppevariant) (Ing.dk)
 
 ## 23-50 (meningitis)
 
-- [Diseases spread in Gaza amid health system collapse, Israeli strikes](https://allafrica.com/stories/202312220032.html)
+- [Diseases spread in Gaza amid health system collapse, Israeli strikes](https://www.aljazeera.com/gallery/2023/12/15/photos-amid-deadly-israeli-strikes-people-in-gaza-face-a-storm-of-diseases) (Al Jazeera English)
 
-- [Novel bacteria identification methods might help speed up disease diagnosis](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Novel bacteria identification methods might help speed up disease diagnosis](https://phys.org/news/2023-12-bacteria-identification-methods-disease-diagnosis.html) (Phys.Org)
 
-- [¡Completa tu esquema! Gran jornada de vacunación este 16 de diciembre](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [¡Completa tu esquema! Gran jornada de vacunación este 16 de diciembre](https://www.eluniversal.com.co/cartagena/completa-tu-esquema-gran-jornada-de-vacunacion-este-16-de-diciembre-FY9634135) (Eluniversal.com.co)
 
-- [Ahora alerta México por fruta de Estados Unidos contaminada](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Ahora alerta México por fruta de Estados Unidos contaminada](https://www.reforma.com/ahora-alerta-mexico-por-fruta-de-eu-contaminada/ar2726427) (Reforma.com)
 
-- [Alerta Cofepris por frutas importadas contaminadas con peligrosa bacteria](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Alerta Cofepris por frutas importadas contaminadas con peligrosa bacteria](https://aristeguinoticias.com/1312/mexico/alerta-cofepris-por-frutas-importadas-contaminadas-con-peligrosa-bacteria/) (Aristeguinoticias.com)
 
-- [HSE confirms ‘serious failings’ in care of teenager Aoife Johnston who died after 12-hour hospital wait with meningitis](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [HSE confirms ‘serious failings’ in care of teenager Aoife Johnston who died after 12-hour hospital wait with meningitis](https://www.independent.ie/irish-news/hse-confirms-serious-failings-in-care-of-teenager-aoife-johnston-who-died-after-12-hour-hospital-wait-with-meningitis/a1767608911.html) (Independent.ie)
 
-- [Breve biografía de un cobarde (y tal)](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Breve biografía de un cobarde (y tal)](https://www.jotdown.es/2023/12/breve-biografia-de-un-cobarde-y-tal/) (Jotdown.es)
 
-- [Double-amputee owner of stolen vehicle involved in Māngere crash](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Double-amputee owner of stolen vehicle involved in Māngere crash](https://www.nzherald.co.nz/talanoa/double-amputee-owner-of-stolen-vehicle-involved-in-mangere-crash/6BOA6BPPLFB7NKOGAIRD6I7Z5I/) (New Zealand Herald)
 
-- [Revealed: Schoolgirl Aoife Johnston, who died from meningitis, waited in A&E for 12 hours as sepsis went untreated](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Revealed: Schoolgirl Aoife Johnston, who died from meningitis, waited in A&E for 12 hours as sepsis went untreated](https://www.independent.ie/irish-news/revealed-schoolgirl-aoife-johnston-who-died-from-meningitis-waited-in-aande-for-12-hours-as-sepsis-went-untreated/a345024656.html) (Independent.ie)
 
 ## 23-50 (measles)
 
-- [Hundreds of children in northwest B.C. should be reimmunized after vaccines improperly stored: Northern Health](https://allafrica.com/stories/202312220032.html)
+- [Hundreds of children in northwest B.C. should be reimmunized after vaccines improperly stored: Northern Health](https://www.cbc.ca/news/canada/british-columbia/vaccines-northwest-terrace-chicken-pox-mumps-1.7060688) (CBC News)
 
-- [משרד הבריאות: חולה חצבת היה בטיסה מדובאי לנתב"ג](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [משרד הבריאות: חולה חצבת היה בטיסה מדובאי לנתב"ג](https://www.ynet.co.il/health/article/hkw8fgqit) (Ynet)
 
-- [Measles case appears in Israel after plane arrives from UAE](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Measles case appears in Israel after plane arrives from UAE](https://www.jpost.com/breaking-news/article-778204) (The Jerusalem Post)
 
-- [World News in Brief: End e-cigarette boom urges WHO, measles surge in Europe, Central Asia; crisis for kids in Lebanon](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [World News in Brief: End e-cigarette boom urges WHO, measles surge in Europe, Central Asia; crisis for kids in Lebanon](https://www.globalsecurity.org/military/library/news/2023/12/mil-231214-unnews06.htm) (Globalsecurity.org)
 
-- [World News in Brief: End e-cigarette boom urges WHO, measles surge in Europe, Central Asia; crisis for kids in Lebanon](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [World News in Brief: End e-cigarette boom urges WHO, measles surge in Europe, Central Asia; crisis for kids in Lebanon](https://news.un.org/en/story/2023/12/1144817) (UN News)
 
-- [Health leaders raise concern over measles](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Health leaders raise concern over measles](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-67680944) (BBC News)
 
-- [Health leaders raise concern over measles](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Health leaders raise concern over measles](https://www.bbc.com/news/uk-england-york-north-yorkshire-67680944) (BBC News)
 
 ## 23-50 (malaria)
 
-- [Morta di malaria, la Procura chiede l’archiviazione di due medici](https://allafrica.com/stories/202312220032.html)
+- [Morta di malaria, la Procura chiede l’archiviazione di due medici](https://www.corriere.it/cronache/23_dicembre_16/morta-malaria-procura-chiede-l-archiviazione-due-medici-7ac4a5fa-9c39-11ee-9d68-ef03048c7988.shtml) (Corriere.it)
 
-- [Delayed Plasmodium falciparum Malaria in Pregnant Patient with Sickle Cell Trait 11 Years after Exposure, Oregon, USA](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Delayed Plasmodium falciparum Malaria in Pregnant Patient with Sickle Cell Trait 11 Years after Exposure, Oregon, USA](https://wwwnc.cdc.gov/eid/article/30/1/23-1231_article) (Cdc.gov)
 
-- ["The damage from inaction is enormous" — Rising threat of Asian Tiger Mosquito across the US](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- ["The damage from inaction is enormous" — Rising threat of Asian Tiger Mosquito across the US](https://boingboing.net/2023/12/15/the-damage-from-inaction-is-enormous-rising-threat-of-asian-tiger-mosquito-across-the-us.html) (Boing Boing)
 
-- [Abia trains health workers in malaria control](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Abia trains health workers in malaria control](https://punchng.com/abia-trains-health-workers-in-malaria-control/) (The Punch)
 
-- [The U.S. is unprepared for the growing threat of mosquito- and tick-borne viruses](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [The U.S. is unprepared for the growing threat of mosquito- and tick-borne viruses](https://www.npr.org/sections/health-shots/2023/12/15/1219478835/arboviruses-mosquito-tick-borne-viruses-tropical-disease) (NPR)
 
-- [Assessment of the Global Fund-supported procurement and supply chain reforms at the Ethiopian Pharmaceuticals Supply Agency: a mixed-methods study](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Assessment of the Global Fund-supported procurement and supply chain reforms at the Ethiopian Pharmaceuticals Supply Agency: a mixed-methods study](https://bmjopen.bmj.com/content/13/12/e073390?rss=1) (The BMJ)
 
-- [Ozempic, los fármacos contra el alzhéimer y las vacunas contra la malaria, los hitos científicos de 2023](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Ozempic, los fármacos contra el alzhéimer y las vacunas contra la malaria, los hitos científicos de 2023](https://www.elmundo.es/ciencia-y-salud/salud/2023/12/14/657b3fc0fdddff42b88b45c8.html) (El Mundo)
 
-- [Diagnostic value of rapid test for malaria among febrile neonates in a tertiary hospital in North-East Nigeria: a prospective cross-sectional study](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Diagnostic value of rapid test for malaria among febrile neonates in a tertiary hospital in North-East Nigeria: a prospective cross-sectional study](https://adc.bmj.com/content/109/1/11?rss=1) (The BMJ)
 
-- [Fosun Pharma's Global Multi-Center Phase III Clinical Trial Project for A New Antimalarial Drug Receives 500 Million Japanese Yen Investment from GHIT Fund to Jointly Improve the Global Accessibility of Antimalarial Drugs](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Fosun Pharma's Global Multi-Center Phase III Clinical Trial Project for A New Antimalarial Drug Receives 500 Million Japanese Yen Investment from GHIT Fund to Jointly Improve the Global Accessibility of Antimalarial Drugs](https://www.marketscreener.com/quote/stock/SHANGHAI-FOSUN-PHARMACEUT-11813653/news/Fosun-Pharma-s-Global-Multi-Center-Phase-III-Clinical-Trial-Project-for-A-New-Antimalarial-Drug-Rece-45567761/) (Marketscreener.com)
 
-- [Expansion of Pharmaceutical Business Initiatives:Development of a Novel Antimalarial Drug Utilizing the Funding Program of the Global Health Innovative Technology Fund (GHIT Fund)](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Expansion of Pharmaceutical Business Initiatives:Development of a Novel Antimalarial Drug Utilizing the Funding Program of the Global Health Innovative Technology Fund (GHIT Fund)](https://www.marketscreener.com/quote/stock/MARUBENI-CORPORATION-6491313/news/Expansion-of-Pharmaceutical-Business-Initiatives-Development-of-a-Novel-Antimalarial-Drug-Utilizing-45565505/) (Marketscreener.com)
 
-- [Una enorme oportunidad de salvar vidas a bajo costo](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Una enorme oportunidad de salvar vidas a bajo costo](https://www.nacion.com/opinion/foros/una-enorme-oportunidad-de-salvar-vidas-a-bajo/6PTOKPHR3JG6LKGYPO2GCWYBZY/story/) (Nacion.com)
 
-- [Tuberculosis kills more people than malaria or HIV. Why haven’t we found a vaccine?](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Tuberculosis kills more people than malaria or HIV. Why haven’t we found a vaccine?](https://www.vox.com/future-perfect/2023/12/13/23998414/tuberculosis-vaccine-m71-human-challenge-trial-volunteers-pandemic) (Vox)
 
-- [TOWIE star in hospital in Ghana after contracting malaria](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [TOWIE star in hospital in Ghana after contracting malaria](https://news.sky.com/story/towie-star-vas-morgan-in-hospital-in-ghana-after-contracting-malaria-13029434) (Sky.com)
 
-- [Prevalence and molecular heterogeneity of glucose-6-phosphate dehydrogenase (G6PD) deficiency in the Senoi Malaysian Orang Asli population](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Prevalence and molecular heterogeneity of glucose-6-phosphate dehydrogenase (G6PD) deficiency in the Senoi Malaysian Orang Asli population](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294891) (Plos.org)
 
-- [Sågar oljelobby: Som myggor på malariakonferens](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Sågar oljelobby: Som myggor på malariakonferens](https://www.svd.se/a/abzAM5/sagar-oljelobby-som-myggor-pa-malariakonferens) (Svenska Dagbladet)
 
-- [Sågar oljelobby: Som myggor på malariakonferens](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Sågar oljelobby: Som myggor på malariakonferens](https://www.aftonbladet.se/nyheter/a/BWQ8Lg/sagar-oljelobby-som-myggor-pa-malariakonferens) (Aftonbladet.se)
 
-- [Aktivist på COP28 sågar oljelobby: Som myggor på malariakonferens](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Aktivist på COP28 sågar oljelobby: Som myggor på malariakonferens](https://www.nyteknik.se/inrikes/aktivist-pa-cop28-sagar-oljelobby-som-myggor-pa-malariakonferens/4220094) (Nyteknik.se)
 
-- [Flere stikkes af malariamyg, der stortrives i varmt klima](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Flere stikkes af malariamyg, der stortrives i varmt klima](https://ing.dk/artikel/flere-stikkes-af-malariamyg-der-stortrives-i-varmt-klima) (Ing.dk)
 
-- [Kisii, Nyamira Residents to Benefit From Treated Mosquito Nets](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Kisii, Nyamira Residents to Benefit From Treated Mosquito Nets](https://allafrica.com/stories/202312120055.html) (AllAfrica - Top Africa News)
 
-- [El cambio climático podría haber contribuido a la reaparición de la amenaza de la malaria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [El cambio climático podría haber contribuido a la reaparición de la amenaza de la malaria](https://www.diariomotor.com/energia-sostenibilidad/cambio-climatico-malaria-oms/) (Diariomotor.com)
 
-- [La revolucionaria vacuna de dos euros para combatir la enfermedad de 240 millones de personas](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [La revolucionaria vacuna de dos euros para combatir la enfermedad de 240 millones de personas](https://www.huffingtonpost.es/life/salud/la-revolucionaria-vacuna-dos-euros-combatir-enfermedad-240-millones-personas.html) (Huffingtonpost.es)
 
-- [A Bargain in Saving Lives](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [A Bargain in Saving Lives](https://www.project-syndicate.org/commentary/new-low-cost-malaria-vaccine-could-save-millions-by-peter-singer-2023-12) (Project Syndicate)
 
-- [Una enorme oportunidad de salvar vidas a bajo costo](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [Una enorme oportunidad de salvar vidas a bajo costo](https://www.project-syndicate.org/commentary/new-low-cost-malaria-vaccine-could-save-millions-by-peter-singer-2023-12/spanish) (Project Syndicate)
 
-- [Refugees use plants to fight malaria & climate change in Uganda](https://tass.ru/obschestvo/19601869)
+- [Refugees use plants to fight malaria & climate change in Uganda](https://www.aljazeera.com/program/newsfeed/2023/12/11/refugees-use-plants-to-fight-malaria-climate-change-in-uganda) (Al Jazeera English)
 
 ## 23-50 (dengue)
 
-- [BREAKING: NCDC confirms dengue fever outbreak in Sokoto](https://allafrica.com/stories/202312220032.html)
+- [BREAKING: NCDC confirms dengue fever outbreak in Sokoto](https://punchng.com/breaking-ncdc-confirms-dengue-fever-outbreak-in-sokoto/) (The Punch)
 
-- [Em combate à dengue, bombeiros fazem inspeções em Brazlândia](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Em combate à dengue, bombeiros fazem inspeções em Brazlândia](https://jornaldebrasilia.com.br/brasilia/em-combate-a-dengue-bombeiros-fazem-inspecoes-em-brazlandia/) (Jornaldebrasilia.com.br)
 
-- ["The damage from inaction is enormous" — Rising threat of Asian Tiger Mosquito across the US](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- ["The damage from inaction is enormous" — Rising threat of Asian Tiger Mosquito across the US](https://boingboing.net/2023/12/15/the-damage-from-inaction-is-enormous-rising-threat-of-asian-tiger-mosquito-across-the-us.html) (Boing Boing)
 
-- [Companies announce partnership to release dengue-fighting mosquitoes in the Caribbean](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Companies announce partnership to release dengue-fighting mosquitoes in the Caribbean](https://phys.org/news/2023-12-companies-partnership-dengue-fighting-mosquitoes-caribbean.html) (Phys.Org)
 
-- [Empresas se asocian para liberar mosquitos antidengue en el Caribe](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Empresas se asocian para liberar mosquitos antidengue en el Caribe](https://www.vozdeamerica.com/a/empresas-se-asocian-para-liberar-mosquitos-antidengue-en-el-caribe/7399575.html) (Vozdeamerica.com)
 
-- [Companies Announce Partnership to Release Dengue-Fighting Mosquitoes in Caribbean](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Companies Announce Partnership to Release Dengue-Fighting Mosquitoes in Caribbean](https://www.voanews.com/a/companies-announce-partnership-to-release-dengue-fighting-mosquitoes-in-caribbean/7399437.html) (VOA News)
 
-- [Companies announce partnership to release dengue-fighting mosquitoes in the Caribbean](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Companies announce partnership to release dengue-fighting mosquitoes in the Caribbean](https://abcnews.go.com/Health/wireStory/companies-announce-partnership-release-dengue-fighting-mosquitoes-caribbean-105686182) (ABC News)
 
-- [The U.S. is unprepared for the growing threat of mosquito- and tick-borne viruses](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [The U.S. is unprepared for the growing threat of mosquito- and tick-borne viruses](https://www.npr.org/sections/health-shots/2023/12/15/1219478835/arboviruses-mosquito-tick-borne-viruses-tropical-disease) (NPR)
 
-- [U.K. Health Security Agency Deploys Made-Up Rise of 5°C in 80 Years to Spread Alarm About Dengue Fever Plague in London](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [U.K. Health Security Agency Deploys Made-Up Rise of 5°C in 80 Years to Spread Alarm About Dengue Fever Plague in London](https://wattsupwiththat.com/2023/12/14/u-k-health-security-agency-deploys-made-up-rise-of-5c-in-80-years-to-spread-alarm-about-dengue-fever-plague-in-london/) (Wattsupwiththat.com)
 
-- [Dengue complicó salud de niño de cuatro años, pero no fue causa directa de muerte](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Dengue complicó salud de niño de cuatro años, pero no fue causa directa de muerte](https://www.nacion.com/ciencia/salud/dengue-complico-salud-de-nino-de-cuatro-anos-pero/XPHKEERS3BGSJB3PMRBULSJOSI/story/) (Nacion.com)
 
-- [Painful Disease Set to Spread, Health Officials Warn](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Painful Disease Set to Spread, Health Officials Warn](https://www.newsbreak.com/@healthsia-1608606/3264562855531-painful-disease-set-to-spread-health-officials-warn) (Newsbreak.com)
 
-- [Dengue Fever: Millions Infected Worldwide As Rising Temperatures Cause Virus To Flare](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Dengue Fever: Millions Infected Worldwide As Rising Temperatures Cause Virus To Flare](https://www.medicaldaily.com/dengue-fever-millions-infected-worldwide-rising-temperatures-cause-virus-flare-471192) (Medical Daily)
 
-- [Automated detection of Zika and dengue in Aedes aegypti using neural spiking analysis](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Automated detection of Zika and dengue in Aedes aegypti using neural spiking analysis](https://arxiv.org/abs/2312.08654v1) (Arxiv.org)
 
-- [Millions infected with dengue this year in new record as hotter temperatures cause virus to flare](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Millions infected with dengue this year in new record as hotter temperatures cause virus to flare](https://japantoday.com/category/features/health/millions-infected-with-dengue-this-year-in-new-record-as-hotter-temperatures-cause-virus-to-flare) (Japan Today)
 
-- [Dengue cases break records in Americas amid warmer temperatures - NBC News](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Dengue cases break records in Americas amid warmer temperatures - NBC News](https://slashdot.org/firehose.pl?op=view&amp;id=172485377) (Slashdot.org)
 
-- [Saiba quem era a paciente que morreu em UPA de Águas Lindas](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Saiba quem era a paciente que morreu em UPA de Águas Lindas](https://www.metropoles.com/distrito-federal/saiba-quem-era-a-paciente-que-morreu-em-upa-de-aguas-lindas) (Metropoles.com)
 
-- [Dengue, ¿la próxima ‘gran pandemia’? 2023 se enfila a ser el año con más casos de la historia](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Dengue, ¿la próxima ‘gran pandemia’? 2023 se enfila a ser el año con más casos de la historia](https://www.elfinanciero.com.mx/salud/2023/12/13/expertos-alertan-por-aumento-de-casos-de-dengue-en-2023-podria-ser-pandemia/) (El Financiero)
 
-- [Dengue cases break records in Americas amid warmer temperatures](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Dengue cases break records in Americas amid warmer temperatures](https://www.nbcnews.com/news/latino/dengue-cases-break-records-americas-warmer-temperatures-rcna129538) (NBC News)
 
-- [El dengue bate récords de contagio ante el aumento de las temperaturas](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [El dengue bate récords de contagio ante el aumento de las temperaturas](https://www.meneame.net/m/actualidad/dengue-bate-records-contagio-ante-aumento-temperaturas) (Meneame.net)
 
-- [Dengue Cases Explode Thanks To Rising Temperatures](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Dengue Cases Explode Thanks To Rising Temperatures](https://www.huffpost.com/entry/dengue-cases-rise_n_6579a4a3e4b0881b79192b7a) (HuffPost)
 
-- [El dengue bate récords de contagio ante el aumento de las temperaturas](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [El dengue bate récords de contagio ante el aumento de las temperaturas](https://www.vozdeamerica.com/a/el-dengue-bate-records-de-contagio-ante-el-aumento-de-las-temperaturas/7396145.html) (Vozdeamerica.com)
 
-- [Dengue Fever Is Soaring Worldwide. Here’s What to Know—and How to Stay Protected](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [Dengue Fever Is Soaring Worldwide. Here’s What to Know—and How to Stay Protected](https://time.com/6429963/dengue-fever-cases-symptoms-prevention-explainer/) (Time)
 
-- [Aumento em casos de dengue preocupa Ministério da Saúde](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [Aumento em casos de dengue preocupa Ministério da Saúde](https://www.terra.com.br/nos/aumento-em-casos-de-dengue-preocupa-ministerio-da-saude,cf92216ce59639fb4b1c56d8b00b013bgclq6ui4.html) (Terra.com.br)
 
-- [Millions infected with dengue this year in new record as hotter temperatures cause virus to flare - The Associated Press](https://tass.ru/obschestvo/19601869)
+- [Millions infected with dengue this year in new record as hotter temperatures cause virus to flare - The Associated Press](https://slashdot.org/firehose.pl?op=view&amp;id=172481731) (Slashdot.org)
 
-- [U.K. Health Security Agency Deploys Made-Up Rise of 5°C in 80 Years to Spread Alarm About Dengue Fever Plague in London](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
+- [U.K. Health Security Agency Deploys Made-Up Rise of 5°C in 80 Years to Spread Alarm About Dengue Fever Plague in London](https://dailysceptic.org/2023/12/13/u-k-health-security-agency-deploys-made-up-rise-of-5c-in-80-years-to-spread-alarm-about-dengue-fever-plague-in-london/) (Dailysceptic.org)
 
-- [Millions infected with dengue as hotter temperatures cause virus to flare](https://news.un.org/en/story/2023/12/1145042)
+- [Millions infected with dengue as hotter temperatures cause virus to flare](https://apnews.com/article/dengue-deaths-vaccines-western-hemisphere-paho-628eb1247f741c66e34e55b04facf7e2) (Associated Press)
 
-- [U.K. At Risk Of Tropical Diseases If Temperatures Rise](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
+- [U.K. At Risk Of Tropical Diseases If Temperatures Rise](https://www.forbes.com/sites/katherinehignett/2023/12/12/uk-at-risk-of-tropical-diseases-if-temperatures-rise/) (Forbes)
 
-- [Las 5 principales noticias de Venezuela hoy: estiman inflación en 2024; fumigan por dengue, y más](https://www.jpost.com/health-and-wellness/article-778937)
+- [Las 5 principales noticias de Venezuela hoy: estiman inflación en 2024; fumigan por dengue, y más](https://www.vozdeamerica.com/a/las-5-principales-noticias-de-venezuela-hoy-estiman-inflacion-en-2024-fumigan-por-dengue-/7395055.html) (Vozdeamerica.com)
 
-- [Minas Gerais tem alerta para epidemia de dengue em 2024 devido a calor e chuva](https://punchng.com/?p=1538765)
+- [Minas Gerais tem alerta para epidemia de dengue em 2024 devido a calor e chuva](https://noticias.r7.com/minas-gerais/mg-record/videos/minas-gerais-tem-alerta-para-epidemia-de-dengue-em-2024-devido-a-calor-e-chuva-12122023) (R7.com)
 
-- [Casos de dengue aumentam no Rio](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport)
+- [Casos de dengue aumentam no Rio](https://recordtv.r7.com/balanco-geral-rj/videos/casos-de-dengue-registram-alta-no-rio-6-mil-casos-foram-mapeados-ate-o-inicio-de-dezembro-12122023) (R7.com)
 
-- [Painful Disease on Brink of Spreading, Health Officials Warn](https://slashdot.org/firehose.pl?op=view&amp;id=172543879)
+- [Painful Disease on Brink of Spreading, Health Officials Warn](https://www.newsweek.com/painful-disease-brink-spreading-mosquitos-1851754) (Newsweek)
 
-- [Over 30 per cent dengue seroprevalence among Kerala's children, Lancet study finds](https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
+- [Over 30 per cent dengue seroprevalence among Kerala's children, Lancet study finds](https://economictimes.indiatimes.com/news/india/over-30-per-cent-dengue-seroprevalence-among-keralas-children-lancet-study-finds/articleshow/105941527.cms) (The Times of India)
 
-- [Emergence of Dengue Virus Serotype 2 Cosmopolitan Genotype, Colombia](https://bmjopen.bmj.com/content/13/12/e072775?rss=1)
+- [Emergence of Dengue Virus Serotype 2 Cosmopolitan Genotype, Colombia](https://wwwnc.cdc.gov/eid/article/30/1/23-0972_article) (Cdc.gov)
 
-- [Dengue en aumento: Colombia busca soluciones en foro académico en Cartagena](https://www.voanews.com/a/officials-push-to-get-kids-vaccinated-as-more-us-parents-opt-out-/7406765.html)
+- [Dengue en aumento: Colombia busca soluciones en foro académico en Cartagena](https://www.eluniversal.com.co/salud/dengue-en-aumento-colombia-busca-soluciones-en-foro-academico-en-cartagena-AB9614112) (Eluniversal.com.co)
 
-- [Britons warned Dengue Fever found in UK - warning of rashes and vomiting](https://english.khabarhub.com/2023/21/331544/)
+- [Britons warned Dengue Fever found in UK - warning of rashes and vomiting](https://www.gbnews.com/health/dengue-fever-mosquito-health-warning-uk) (Gbnews.com)
 
-- [The severe El Niño in South America is a preview of a climate-changed world](https://www.cbc.ca/news/canada/calgary/whooping-cough-pertussis-alberta-1.7065298)
+- [The severe El Niño in South America is a preview of a climate-changed world](https://www.vox.com/climate/23992678/el-nino-south-america-peru-bolivia-flood-drought-dengue-cop28-climate) (Vox)
 
-- [Angka Kesakitan DBD Masih Bertambah, Kadiskes Kalbar Minta Masyarakat Getol Lakukan PHBS Hingga PSN](https://punchng.com/stepping-up-the-anti-malaria-war/)
+- [Angka Kesakitan DBD Masih Bertambah, Kadiskes Kalbar Minta Masyarakat Getol Lakukan PHBS Hingga PSN](https://www.kalbaronline.com/2023/12/11/angka-kesakitan-dbd-masih-bertambah-kadiskes-kalbar-minta-masyarakat-getol-lakukan-phbs-hingga-psn/) (Kalbaronline.com)
 
-- [As doenças que podem aumentar no Brasil com as mudanças climáticas](https://www.denverpost.com/2023/12/20/colorado-measles-airport-childrens-hospital/)
+- [As doenças que podem aumentar no Brasil com as mudanças climáticas](https://www.bbc.com/portuguese/articles/cjrpj177ddxo) (BBC News)
 
-- [Elképesztő veszélyre figyelmeztetnek az egészségügyi szakértők: váratlan helyeken jelenhetnek meg pusztító vírusok](https://kdvr.com/news/health/cdphe-measles-case-confirmed-days-after-patient-flew-through-dia/)
+- [Elképesztő veszélyre figyelmeztetnek az egészségügyi szakértők: váratlan helyeken jelenhetnek meg pusztító vírusok](https://www.portfolio.hu/gazdasag/20231211/elkepeszto-veszelyre-figyelmeztetnek-az-egeszsegugyi-szakertok-varatlan-helyeken-jelenhetnek-meg-pusztito-virusok-656881) (Portfolio.hu)
 
-- [Dengue cases surpass 80,000 in Sri Lanka so far this year](https://6abc.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [Dengue cases surpass 80,000 in Sri Lanka so far this year](http://en.people.cn/n3/2023/1211/c90000-20108502.html) (People.cn)
 
-- [Asian tiger mosquitoes carrying dengue fever could be common in England within decades](https://abc11.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [Asian tiger mosquitoes carrying dengue fever could be common in England within decades](https://news.sky.com/story/asian-tiger-mosquitoes-carrying-dengue-fever-could-be-common-in-england-within-decades-13027883) (Sky.com)
 
-- [The future of healthcare is in our genes](https://abc13.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [The future of healthcare is in our genes](https://indianexpress.com/article/opinion/columns/gene-and-cell-therapy-future-of-indian-healthcare-system-global-healthcare-landscape-9062573/) (The Indian Express)
 
-- [Mosquito-borne disease risk looms for UK - study](https://abc7news.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
-- [मुंबई में हर घंटे दो लोगों को होता है डेंगू, महाराष्ट्र में वेक्टर बॉर्न डिजीट ने तोड़े रेकॉर्ड](https://www.bangkokpost.com/opinion/opinion/2710068/a-bargain-in-saving-lives-from-malaria)
+- [मुंबई में हर घंटे दो लोगों को होता है डेंगू, महाराष्ट्र में वेक्टर बॉर्न डिजीट ने तोड़े रेकॉर्ड](https://navbharattimes.indiatimes.com/metro/mumbai/development/mumhbai-dengue-cases-vector-born-disease-in-maharashtra/articleshow/105870550.cms) (The Times of India)
 
 ## 23-50 (chikungunya)
 
-- ["The damage from inaction is enormous" — Rising threat of Asian Tiger Mosquito across the US](https://allafrica.com/stories/202312220032.html)
+- ["The damage from inaction is enormous" — Rising threat of Asian Tiger Mosquito across the US](https://boingboing.net/2023/12/15/the-damage-from-inaction-is-enormous-rising-threat-of-asian-tiger-mosquito-across-the-us.html) (Boing Boing)
 
-- [The U.S. is unprepared for the growing threat of mosquito- and tick-borne viruses](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [The U.S. is unprepared for the growing threat of mosquito- and tick-borne viruses](https://www.npr.org/sections/health-shots/2023/12/15/1219478835/arboviruses-mosquito-tick-borne-viruses-tropical-disease) (NPR)
 
-- [Automated detection of Zika and dengue in Aedes aegypti using neural spiking analysis](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Automated detection of Zika and dengue in Aedes aegypti using neural spiking analysis](https://arxiv.org/abs/2312.08654v1) (Arxiv.org)
 
-- [Butantan pede registro de vacina contra chikungunya no Brasil](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Butantan pede registro de vacina contra chikungunya no Brasil](https://www.metropoles.com/saude/butantan-pede-registro-de-vacina-contra-a-chikungunya) (Metropoles.com)
 
-- [Butantan pede autorização para uso de vacina contra chikungunya no Brasil](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Butantan pede autorização para uso de vacina contra chikungunya no Brasil](https://olhardigital.com.br/2023/12/13/medicina-e-saude/butantan-pede-autorizacao-para-uso-de-vacina-contra-chikungunya-no-brasil/) (Olhardigital.com.br)
 
-- [Butantan pede autorização para registrar vacina contra chikungunya](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Butantan pede autorização para registrar vacina contra chikungunya](https://www.metropoles.com/sao-paulo/butantan-pede-autorizacao-para-registrar-vacina-contra-chikungunya) (Metropoles.com)
 
-- [Butantan pede autorização para o uso da vacina contra a chikungunya no Brasil](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Butantan pede autorização para o uso da vacina contra a chikungunya no Brasil](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/butantan-pede-autorizacao-para-o-uso-da-vacina-contra-a-chikungunya-no-brasil-13122023) (R7.com)
 
-- [IXCHIQ](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [IXCHIQ](https://www.fda.gov/vaccines-blood-biologics/ixchiq) (FDA.gov)
 
-- [The Chikungunya virus: A reemerging cause of acute febrile illness in the high jungle of northern Peru](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [The Chikungunya virus: A reemerging cause of acute febrile illness in the high jungle of northern Peru](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011787) (Plos.org)
 
-- [Elképesztő veszélyre figyelmeztetnek az egészségügyi szakértők: váratlan helyeken jelenhetnek meg pusztító vírusok](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Elképesztő veszélyre figyelmeztetnek az egészségügyi szakértők: váratlan helyeken jelenhetnek meg pusztító vírusok](https://www.portfolio.hu/gazdasag/20231211/elkepeszto-veszelyre-figyelmeztetnek-az-egeszsegugyi-szakertok-varatlan-helyeken-jelenhetnek-meg-pusztito-virusok-656881) (Portfolio.hu)
 
-- [Mosquito-borne disease risk looms for UK - study](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
 ## 23-49 (zika)
 
-- [Zika's shape-shifting machinery, and a possible vulnerability](https://allafrica.com/stories/202312220032.html)
+- [Zika's shape-shifting machinery, and a possible vulnerability](https://www.sciencedaily.com/releases/2023/12/231208190012.htm) (Science Daily)
 
-- [Zika: Butantan retoma desenvolvimento de vacina para gestantes](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Zika: Butantan retoma desenvolvimento de vacina para gestantes](https://veja.abril.com.br/saude/zika-butantan-retoma-desenvolvimento-de-vacina-para-gestantes) (Abril.com.br)
 
-- [Instituto Butantan desenvolve tecnologia para vacina contra Zika](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Instituto Butantan desenvolve tecnologia para vacina contra Zika](https://brasil.perfil.com/saude/instituto-butantan-desenvolve-tecnologia-para-vacina-contra-zika.phtml) (Perfil.com)
 
-- [Butantan iniciará teste pré-clínico de vacina contra Zika em 2024](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Butantan iniciará teste pré-clínico de vacina contra Zika em 2024](https://brasil.perfil.com/saude/butantan-iniciara-teste-pre-clinico-de-vacina-contra-zika-em-2024.phtml) (Perfil.com)
 
-- [Butantan iniciará teste pré-clínico de vacina contra Zika em 2024](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Butantan iniciará teste pré-clínico de vacina contra Zika em 2024](https://noticias.r7.com/saude/butantan-iniciara-teste-pre-clinico-de-vacina-contra-zika-em-2024-07122023) (R7.com)
 
-- [Butantan vai começar a testar vacina contra zika para grávidas em 2024](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Butantan vai começar a testar vacina contra zika para grávidas em 2024](https://www.metropoles.com/saude/butantan-teste-vacina-zika-gravida) (Metropoles.com)
 
-- [Vacina brasileira contra o Zika pode prevenir microcefalia em recém-nascidos](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Vacina brasileira contra o Zika pode prevenir microcefalia em recém-nascidos](https://olhardigital.com.br/2023/12/07/medicina-e-saude/vacina-brasileira-contra-o-zika-pode-prevenir-microcefalia-em-recem-nascidos/) (Olhardigital.com.br)
 
-- [Entomological risk assessment for transmission of arboviral diseases by Aedes mosquitoes in a domestic and forest site in Accra, Ghana](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Entomological risk assessment for transmission of arboviral diseases by Aedes mosquitoes in a domestic and forest site in Accra, Ghana](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295390) (Plos.org)
 
-- [Calor vai espalhar malária, zika, dengue e chikungunya pelo mundo, alerta especialista em medicina tropical](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Calor vai espalhar malária, zika, dengue e chikungunya pelo mundo, alerta especialista em medicina tropical](https://observador.pt/2023/12/05/calor-vai-espalhar-malaria-zika-dengue-e-chikungunya-pelo-mundo-alerta-especialista-em-medicina-tropical/) (Observador.pt)
 
-- [Microcefalia: vírus Zika não é a única causa, alerta campanha](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Microcefalia: vírus Zika não é a única causa, alerta campanha](https://olhardigital.com.br/2023/12/05/medicina-e-saude/microcefalia-virus-zika-nao-e-a-unica-causa-alerta-campanha/) (Olhardigital.com.br)
 
-- [Exploratory analysis of the knowledge, attitudes and perceptions of healthcare workers about arboviruses in the context of surveillance in the Republic of Guinea](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Exploratory analysis of the knowledge, attitudes and perceptions of healthcare workers about arboviruses in the context of surveillance in the Republic of Guinea](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011814) (Plos.org)
 
-- [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika) (Metropoles.com)
 
-- [Adesivo com vacina pode proteger contra o vírus zika](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Adesivo com vacina pode proteger contra o vírus zika](https://tecnologia.ig.com.br/parceiros/canaltech/2023-12-04/adesivo-com-vacina-pode-proteger-contra-o-virus-zika.html) (Ig.com.br)
 
-- [Adesivo de vacina sem agulha pode proteger contra o vírus Zika](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Adesivo de vacina sem agulha pode proteger contra o vírus Zika](https://olhardigital.com.br/2023/12/04/medicina-e-saude/adesivo-de-vacina-sem-agulha-pode-proteger-contra-o-virus-zika/) (Olhardigital.com.br)
 
-- [Needle-free vaccine patch being developed by researchers to tackle Zika virus](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Needle-free vaccine patch being developed by researchers to tackle Zika virus](https://economictimes.indiatimes.com/magazines/panache/needle-free-vaccine-patch-being-developed-by-researchers-to-tackle-zika-virus/articleshow/105713822.cms) (The Times of India)
 
 ## 23-49 (yersinia)
 
-- [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 6th December 2023](https://allafrica.com/stories/202312220032.html)
+- [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 6th December 2023](https://iasbaba.com/2023/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-6th-december-2023/) (Iasbaba.com)
 
-- [益生菌，真的能调节肠胃吗？](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [益生菌，真的能调节肠胃吗？](https://post.smzdm.com/p/aqq8zekp/) (Smzdm.com)
 
 ## 23-49 (typhoid)
 
-- [Yellow canteens: a colourful way to keep kids healthy](https://allafrica.com/stories/202312220032.html)
+- [Yellow canteens: a colourful way to keep kids healthy](https://www.springwise.com/innovation/education/painting-canteens-yellow-to-keep-kids-healthy/) (Springwise.com)
 
-- [Global Typhoid Challenges in Focus at International Conference in Rwanda](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Global Typhoid Challenges in Focus at International Conference in Rwanda](https://www.globenewswire.com/news-release/2023/12/05/2791023/0/en/Global-Typhoid-Challenges-in-Focus-at-International-Conference-in-Rwanda.html) (GlobeNewswire)
 
-- [Do I really need to take antimalarials for this trip?](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Do I really need to take antimalarials for this trip?](https://ask.metafilter.com/376982/Do-I-really-need-to-take-antimalarials-for-this-trip) (Metafilter.com)
 
 ## 23-49 (rabies)
 
-- [KEDRION ANNOUNCES AN EIGHT-YEAR EXTENSION OF THE DISTRIBUTION AGREEMENT WITH KAMADA IN THE US FOR KEDRAB®](https://allafrica.com/stories/202312220032.html)
+- [KEDRION ANNOUNCES AN EIGHT-YEAR EXTENSION OF THE DISTRIBUTION AGREEMENT WITH KAMADA IN THE US FOR KEDRAB®](https://www.marketscreener.com/quote/stock/THE-TEL-AVIV-STOCK-EXCHAN-63249312/news/KEDRION-ANNOUNCES-AN-EIGHT-YEAR-EXTENSION-OF-THE-DISTRIBUTION-AGREEMENT-WITH-KAMADA-IN-THE-US-FOR-KE-45524240/) (Marketscreener.com)
 
-- [Buy a skunk in Michigan? It may have been exposed to rabies](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Buy a skunk in Michigan? It may have been exposed to rabies](https://www.fox2detroit.com/news/buy-a-skunk-in-michigan-it-may-have-been-exposed-to-rabies) (FOX 2 Detroit)
 
-- [Rabies virus: New Jersey health officials warn after 2 raccoon attacks by potentially rabid animal near Princeton University](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Rabies virus: New Jersey health officials warn after 2 raccoon attacks by potentially rabid animal near Princeton University](https://6abc.com/raccoon-attack-princeton-university-new-jersey-rabies/14147485/) (WPVI-TV)
 
-- [Stray cat tests positive for rabies in DeKalb County](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Stray cat tests positive for rabies in DeKalb County](https://www.fox5atlanta.com/news/stray-cat-tests-positive-for-rabies-in-dekalb-county) (FOX 5 Atlanta)
 
 ## 23-49 (pertussis)
 
-- [В Свердловской области произошел рост заболеваемости коклюшем](https://allafrica.com/stories/202312220032.html)
+- [В Свердловской области произошел рост заболеваемости коклюшем](https://iz.ru/1616316/2023-12-06/v-sverdlovskoi-oblasti-proizoshel-rost-zabolevaemosti-kokliushem) (Iz.ru)
 
-- [Africa: Alliance Introduces New Vaccine Programmes to Save More Lives and Support Child Health](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Africa: Alliance Introduces New Vaccine Programmes to Save More Lives and Support Child Health](https://allafrica.com/stories/202312050002.html) (AllAfrica - Top Africa News)
 
 ## 23-49 (mpox)
 
-- [CDC Warns of More Infectious Monkeypox Strain with Higher Fatality Rate](https://allafrica.com/stories/202312220032.html)
+- [CDC Warns of More Infectious Monkeypox Strain with Higher Fatality Rate](https://legalinsurrection.com/2023/12/cdc-warns-of-more-infectious-monkeypox-strain-with-higher-fatality-rate/) (Legalinsurrection.com)
 
-- [CDC issues warning over new, more deadly strain of mpox](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [CDC issues warning over new, more deadly strain of mpox](https://www.queerty.com/cdc-issues-warning-over-new-more-deadly-strain-of-mpox-20231208) (Queerty.com)
 
-- [CDC warns of more infectious mpox strain - The Hill](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [CDC warns of more infectious mpox strain - The Hill](https://slashdot.org/firehose.pl?op=view&amp;id=172452637) (Slashdot.org)
 
-- [Map Shows Where Deadly Mpox Cases Are Rising as CDC Issues Warning](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Map Shows Where Deadly Mpox Cases Are Rising as CDC Issues Warning](https://www.newsweek.com/map-shows-where-deadly-mpox-cases-are-rising-cdc-issues-warning-1850935) (Newsweek)
 
-- [Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warns - New York Post](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warns - New York Post](https://slashdot.org/firehose.pl?op=view&amp;id=172451439) (Slashdot.org)
 
-- [WHO 'worried' about mpox spread in DRC, Reuters reports](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [WHO 'worried' about mpox spread in DRC, Reuters reports](https://thefly.com/permalinks/entry.php/id3828359/SIGA;DGX-WHO-worried-about-mpox-spread-in-DRC-Reuters-reports) (Thefly.com)
 
-- [CDC urges doctors, health departments to bolster surveillance of more severe mpox strain - Yahoo Life](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [CDC urges doctors, health departments to bolster surveillance of more severe mpox strain - Yahoo Life](https://slashdot.org/firehose.pl?op=view&amp;id=172451131) (Slashdot.org)
 
-- [More Infectious Mpox Sparks Fears Of New Global Spread — What To Know About The Deadly Virus](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [More Infectious Mpox Sparks Fears Of New Global Spread — What To Know About The Deadly Virus](https://www.forbes.com/sites/roberthart/2023/12/08/more-infectious-mpox-sparks-fears-of-new-global-spread---what-to-know-about-the-deadly-virus/) (Forbes)
 
-- [Mpox has not gone away, leading sexual health charity warns](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Mpox has not gone away, leading sexual health charity warns](https://www.gaytimes.co.uk/life/mpox-has-not-gone-away-leading-sexual-health-charity-warns/) (Gay Times Magazine)
 
-- [Mpox Outbreak: CDC Issues Warning About New Variant As Cases Surge In 2 States](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Mpox Outbreak: CDC Issues Warning About New Variant As Cases Surge In 2 States](https://www.medicaldaily.com/mpox-outbreak-cdc-issues-warning-about-new-variant-cases-surge-2-states-471179) (Medical Daily)
 
-- [CDC urges doctors, health departments to bolster surveillance of more severe mpox strain - CNN](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [CDC urges doctors, health departments to bolster surveillance of more severe mpox strain - CNN](https://slashdot.org/firehose.pl?op=view&amp;id=172447227) (Slashdot.org)
 
-- [US CDC issues health alert for subtype of mpox virus in Congo](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [US CDC issues health alert for subtype of mpox virus in Congo](https://www.reuters.com/world/africa/us-cdc-issues-health-alert-subtype-mpox-virus-congo-2023-12-07/) (Reuters)
 
-- [CDC urges doctors, health departments to bolster surveillance of more severe mpox strain | CNN](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [CDC urges doctors, health departments to bolster surveillance of more severe mpox strain | CNN](https://www.cnn.com/2023/12/07/health/cdc-mpox-advisory/index.html) (CNN)
 
-- [Estimation of Incubation Period of Mpox during 2022 Outbreak in Pereira, Colombia](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Estimation of Incubation Period of Mpox during 2022 Outbreak in Pereira, Colombia](https://wwwnc.cdc.gov/eid/article/30/1/22-1663_article) (Cdc.gov)
 
-- [Level 2 - Mpox in the Democratic Republic of the Congo (DRC)](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Level 2 - Mpox in the Democratic Republic of the Congo (DRC)](https://wwwnc.cdc.gov/travel/notices/level2/monkeypox-democratic-republic-of-congo) (Cdc.gov)
 
-- [Mpox surge in Congo raises concerns world will ignore warnings again - The Washington Post](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Mpox surge in Congo raises concerns world will ignore warnings again - The Washington Post](https://slashdot.org/firehose.pl?op=view&amp;id=172397577) (Slashdot.org)
 
-- [Mpox surge in Congo raises fears world will ignore warnings again](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Mpox surge in Congo raises fears world will ignore warnings again](https://www.washingtonpost.com/health/2023/12/06/mpox-monkeypox-congo-who-vaccines/) (The Washington Post)
 
-- [Level 2 - Mpox in the Democratic Republic of the Congo (DRC)](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Level 2 - Mpox in the Democratic Republic of the Congo (DRC)](https://wwwnc.cdc.gov/travel/notices/level2/mpox-democratic-republic-of-congo) (Cdc.gov)
 
-- [Stigma, regulatory barriers delay mpox response in country that needs it most](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Stigma, regulatory barriers delay mpox response in country that needs it most](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most-45498818/) (Marketscreener.com)
 
-- [Jakarta completes mpox vaccination to 411 people: Official](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Jakarta completes mpox vaccination to 411 people: Official](https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official) (Antaranews.com)
 
 ## 23-49 (meningitis)
 
-- [ACTG Announces Launch of Clinical Trial Evaluating Novel Treatment for Tuberculous Meningitis](https://allafrica.com/stories/202312220032.html)
+- [ACTG Announces Launch of Clinical Trial Evaluating Novel Treatment for Tuberculous Meningitis](https://www.globenewswire.com/news-release/2023/12/07/2792865/0/en/ACTG-Announces-Launch-of-Clinical-Trial-Evaluating-Novel-Treatment-for-Tuberculous-Meningitis.html) (GlobeNewswire)
 
-- [U.S.-sponsored trial of new drug regimen to treat tuberculous meningitis starts](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [U.S.-sponsored trial of new drug regimen to treat tuberculous meningitis starts](https://www.thestar.com.my/news/world/2023/12/08/us-sponsored-trial-of-new-drug-regimen-to-treat-tuberculous-meningitis-starts) (The Star Online)
 
-- [Meningococcal meningitis outbreak in Jefferson County alarms local health officials](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Meningococcal meningitis outbreak in Jefferson County alarms local health officials](https://wtov9.com/news/local/meningococcal-meningitis-outbreak-in-jefferson-county-alarms-local-health-officials) (WTOV Steubenville)
 
-- [Ministry of Health on alert after serious case of bacterial meningitis identified in the capital city](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Ministry of Health on alert after serious case of bacterial meningitis identified in the capital city](https://www.breakingbelizenews.com/2023/12/06/ministry-of-health-on-alert-after-serious-case-of-bacterial-meningitis-identified-in-the-capital-city/) (Breaking Belize News)
 
-- [Northeastern University student, 21, dies of complications from bacterial meningitis](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Northeastern University student, 21, dies of complications from bacterial meningitis](https://www.bostonglobe.com/2023/12/06/metro/northeastern-student-dies-bacterial-meningitis/) (The Boston Globe)
 
-- [Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections](https://www.bmj.com/content/383/bmj.p2849) (The BMJ)
 
-- [Mount Hope community mourns loss of vibrant young woman to rare viral meningitis case](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Mount Hope community mourns loss of vibrant young woman to rare viral meningitis case](https://turnto10.com/news/local/mount-hope-community-mourns-loss-of-vibrant-young-woman-to-rare-viral-meningitis-case) (Turn to 10)
 
-- [La ONG sevillana África Arco Iris administra 8.500 vacunas contra la meningitis a niños de Costa de Marfil](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [La ONG sevillana África Arco Iris administra 8.500 vacunas contra la meningitis a niños de Costa de Marfil](https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html) (Europapress.es)
 
 ## 23-49 (measles)
 
-- [Marjorie Taylor Greene Warns Against COVID Vaccine](https://allafrica.com/stories/202312220032.html)
+- [Marjorie Taylor Greene Warns Against COVID Vaccine](https://dianeravitch.net/2023/12/08/marjorie-taylor-greene-warns-against-covid-vaccine/) (Dianeravitch.net)
 
-- [Take action to protect people from airborne infections in health and social care settings](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Take action to protect people from airborne infections in health and social care settings](https://petitions.parliament.scot/petitions/PE2071) (Parliament.scot)
 
-- [Romania declares measles epidemic](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Romania declares measles epidemic](https://www.euractiv.com/section/politics/news/romania-declares-measles-epidemic/) (EURACTIV)
 
-- [Romania Declares Measles Epidemic Amid Rapid Increase In Cases](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Romania Declares Measles Epidemic Amid Rapid Increase In Cases](https://www.rferl.org/a/romania-measles-epidemic-/32716699.html) (Radio Free Europe/ Radio Liberty)
 
-- [Mend cracks in defense against measles](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Mend cracks in defense against measles](https://www.startribune.com/mend-cracks-in-defense-against-measles/600324398/) (Minneapolis Star Tribune)
 
 ## 23-49 (malaria)
 
-- [Malaria-Impfung: Er wirkt!](https://allafrica.com/stories/202312220032.html)
+- [Malaria-Impfung: Er wirkt!](https://www.zeit.de/2023/52/malaria-impfung-forschung-medizin-wirkung) (Die Zeit)
 
-- [New Lifesaving Malaria Vaccines Need to Be Available Now](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [New Lifesaving Malaria Vaccines Need to Be Available Now](https://foreignpolicy.com/2023/12/08/new-malaria-vaccine-africa-world-health-organization-child-mortality/) (Foreign Policy)
 
-- [Real-time PCR detection of mixed Plasmodium ovale curtisi and wallikeri infections in human and mosquito hosts](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Real-time PCR detection of mixed Plasmodium ovale curtisi and wallikeri infections in human and mosquito hosts](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011274) (Plos.org)
 
-- [Rotary Family Carnival 2023 - Uniting for a Malaria-Free Uganda](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Rotary Family Carnival 2023 - Uniting for a Malaria-Free Uganda](https://allafrica.com/stories/202312080234.html) (AllAfrica - Top Africa News)
 
-- [Nooit eerder gezien virus besmet man in jungle van Peru: “het gaat onopgemerkt rond in de oerwouden van Zuid-Amerika”](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Nooit eerder gezien virus besmet man in jungle van Peru: “het gaat onopgemerkt rond in de oerwouden van Zuid-Amerika”](https://www.hln.be/wetenschap-en-planeet/nooit-eerder-gezien-virus-besmet-man-in-jungle-van-peru-het-gaat-onopgemerkt-rond-in-de-oerwouden-van-zuid-amerika~af95cee3/) (Www.hln.be)
 
-- [Antibiotic Resistance Is a Silent Epidemic](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Antibiotic Resistance Is a Silent Epidemic](https://allafrica.com/stories/202312070084.html) (AllAfrica - Top Africa News)
 
-- [Malaria, aumentano i contagi e i decessi: quali sono i rischi?](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Malaria, aumentano i contagi e i decessi: quali sono i rischi?](https://www.corriere.it/salute/malattie_infettive/23_dicembre_07/malaria-aumentano-contagi-decessi-506b8eec-934f-11ee-8704-eea6679df76c.shtml) (Corriere.it)
 
-- [Building boom in Ethiopia may foster malaria vector mosquitoes](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Building boom in Ethiopia may foster malaria vector mosquitoes](https://www.futurity.org/anopheles-stephensi-ethiopia-malaria-3005612/) (Futurity: Research News)
 
-- [Fossils of 130-yr-million male mosquitoes found in Lebanon](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Fossils of 130-yr-million male mosquitoes found in Lebanon](https://economictimes.indiatimes.com/magazines/panache/fossils-of-130-yr-million-male-mosquitoes-found-in-lebanon/articleshow/105788570.cms) (The Times of India)
 
-- [Oldest mosquito in amber reveals bloodsucking surprise](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Oldest mosquito in amber reveals bloodsucking surprise](https://www.cbc.ca/news/science/mosquito-amber-1.7050391) (CBC News)
 
-- ['Sanatanis you abused are helping people in flood': Ex-Pakistan cricketer Danish Kaneria hits out at Tamil Nadu CM Stalin's son](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- ['Sanatanis you abused are helping people in flood': Ex-Pakistan cricketer Danish Kaneria hits out at Tamil Nadu CM Stalin's son](https://economictimes.indiatimes.com/news/new-updates/sanatanis-you-abused-are-helping-people-in-flood-ex-pakistan-cricketer-danish-kaneria-hits-out-at-tamil-nadu-cm-stalins-son/articleshow/105773639.cms) (The Times of India)
 
-- [株式会社電通グループ電通グループ、マラリア撲滅への新たなキャンペーン「ゼロ・マラリア：チェンジ・ザ・ストーリー」を支援](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [株式会社電通グループ電通グループ、マラリア撲滅への新たなキャンペーン「ゼロ・マラリア：チェンジ・ザ・ストーリー」を支援](https://japan.cnet.com/release/30923202/) (CNET)
 
-- [Climate Change Is Harming Both Global Security and Human Dignity](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Climate Change Is Harming Both Global Security and Human Dignity](https://nationalinterest.org/feature/climate-change-harming-both-global-security-and-human-dignity-207739) (The National Interest )
 
-- [Building boom boosts malaria-carrying, invasive mosquito in Ethiopia, evidence shows](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Building boom boosts malaria-carrying, invasive mosquito in Ethiopia, evidence shows](https://phys.org/news/2023-12-boom-boosts-malaria-carrying-invasive-mosquito.html) (Phys.Org)
 
-- [Urban malaria risk in Surat, India: climate and socioeconomic factors at play](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Urban malaria risk in Surat, India: climate and socioeconomic factors at play](https://timesofindia.indiatimes.com/india/urban-malaria-risk-in-surat-india-climate-and-socioeconomic-factors-at-play/articleshow/105762734.cms) (The Times of India)
 
-- [Progeny counter mechanism in malaria parasites is linked to extracellular resources](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Progeny counter mechanism in malaria parasites is linked to extracellular resources](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011807) (Plos.org)
 
-- [Grief Knocks On Every Door in Rural West Oromia As Malaria Continues to Claim Lives](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Grief Knocks On Every Door in Rural West Oromia As Malaria Continues to Claim Lives](https://allafrica.com/stories/202312050093.html) (AllAfrica - Top Africa News)
 
-- [Big city mosquitoes are a big problem — and now a big target](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Big city mosquitoes are a big problem — and now a big target](https://www.npr.org/sections/goatsandsoda/2023/12/04/1217120913/big-city-mosquitoes-are-a-big-problem-and-now-a-big-target) (NPR)
 
-- [Do I really need to take antimalarials for this trip?](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Do I really need to take antimalarials for this trip?](https://ask.metafilter.com/376982/Do-I-really-need-to-take-antimalarials-for-this-trip) (Metafilter.com)
 
-- [Effective cell membrane tension protects red blood cells against malaria invasion](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Effective cell membrane tension protects red blood cells against malaria invasion](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011694) (Plos.org)
 
-- [Πώς η κλιματική αλλαγή επηρεάζει την υγεία των ανθρώπων](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [Πώς η κλιματική αλλαγή επηρεάζει την υγεία των ανθρώπων](https://www.newsit.gr/kosmos/klimatiki-allagi-pos-epireazei-tin-ygeia-ton-anthropon/3923547/) (Newsit.gr)
 
-- [Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO](https://allafrica.com/stories/202312040455.html) (AllAfrica - Top Africa News)
 
-- [Malaria deaths in state down more than 50%](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
 
-- [How climate change is making the world sick](https://tass.ru/obschestvo/19601869)
+- [How climate change is making the world sick](https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476) (CNA)
 
-- [Seán Moncrieff: In Somalia, the creepy crawlies are the least of their worries](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
+- [Seán Moncrieff: In Somalia, the creepy crawlies are the least of their worries](https://www.irishtimes.com/life-style/people/2023/12/03/sean-moncrieff-in-somalia-the-creepy-crawlies-are-the-least-of-their-worries/) (The Irish Times)
 
-- [Africa: WHO's Annual Malaria Report Spotlights the Growing Threat of Climate Change](https://news.un.org/en/story/2023/12/1145042)
+- [Africa: WHO's Annual Malaria Report Spotlights the Growing Threat of Climate Change](https://allafrica.com/stories/202312030011.html) (AllAfrica - Top Africa News)
 
 ## 23-49 (leptospirosis)
 
-- [Concejo pide al Distrito mayor control al dengue, al VIH y a la leptospirosis](https://allafrica.com/stories/202312220032.html)
+- [Concejo pide al Distrito mayor control al dengue, al VIH y a la leptospirosis](https://www.eluniversal.com.co/politica/concejo-pide-al-distrito-mayor-control-al-dengue-al-vih-y-a-la-leptospirosis-FF9575205) (Eluniversal.com.co)
 
-- [En Cartagena se han reportado más de 130 casos de leptospirosis en niños](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [En Cartagena se han reportado más de 130 casos de leptospirosis en niños](https://www.eluniversal.com.co/cartagena/en-cartagena-se-han-reportado-mas-de-130-casos-de-leptospirosis-en-ninos-BX9563993) (Eluniversal.com.co)
 
-- [Bacolod logs 15 deaths, 118% rise in leptospirosis cases](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Bacolod logs 15 deaths, 118% rise in leptospirosis cases](https://rpnradio.com/bacolod-logs-15-deaths-118-rise-in-leptospirosis-cases/) (Rpnradio.com)
 
 ## 23-49 (dengue)
 
-- [Vacuna contra el dengue: ¿por qué ha costado tanto obtenerla?](https://allafrica.com/stories/202312220032.html)
+- [Vacuna contra el dengue: ¿por qué ha costado tanto obtenerla?](https://www.nacion.com/ciencia/salud/vacuna-contra-el-dengue-por-que-ha-costado-tanto/TU4UII4HYBB5TMOGLOLRKQEMHM/story/) (Nacion.com)
 
-- [Incorporação de vacina contra dengue ao SUS deve sair ainda este ano](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Incorporação de vacina contra dengue ao SUS deve sair ainda este ano](https://valor.globo.com/brasil/noticia/2023/12/08/incorporacao-de-vacina-contra-dengue-ao-sus-deve-sair-ainda-este-ano.ghtml) (Globo)
 
-- [Registran incremento de más de 200 casos de dengue en el estado de Guerrero](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Registran incremento de más de 200 casos de dengue en el estado de Guerrero](https://www.record.com.mx/contra/registran-incremento-de-mas-de-200-casos-de-dengue-en-el-estado-de-guerrero) (Record.com.mx)
 
-- [Nueva preocupación: Más de 200 casos de dengue en Guerrero en la última semana](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Nueva preocupación: Más de 200 casos de dengue en Guerrero en la última semana](https://www.sopitas.com/noticias/mas-200-casos-dengue-guerrero-ultima-semana-diciembre-2023/) (Sopitas.com)
 
-- [Ministério da Saúde anuncia investimento de R$ 250 milhões para combater a dengue](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Ministério da Saúde anuncia investimento de R$ 250 milhões para combater a dengue](https://noticias.r7.com/jr-na-tv/videos/ministerio-da-saude-anuncia-investimento-de-r-250-milhoes-para-combater-a-dengue-08122023) (R7.com)
 
-- [Ministério da Saúde alerta sobre epidemia de dengue em Minas, Espírito Santo e região Centro-Oeste](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Ministério da Saúde alerta sobre epidemia de dengue em Minas, Espírito Santo e região Centro-Oeste](https://sputniknewsbr.com.br/20231208/ministerio-da-saude-alerta-sobre-epidemia-de-dengue-em-minas-espirito-santo-e-regiao-centro-oeste-31925802.html) (Sputniknewsbr.com.br)
 
-- [Epidemia: Saúde emite alerta para casos de dengue em 2024](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Epidemia: Saúde emite alerta para casos de dengue em 2024](https://brasil.perfil.com/saude/epidemia-saude-emite-alerta-para-casos-de-dengue-em-2024.phtml) (Perfil.com)
 
-- [Casos de dengue no Brasil aumentam 17,5% em 2023](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Casos de dengue no Brasil aumentam 17,5% em 2023](https://brasil.perfil.com/brasil/casos-de-dengue-no-brasil-aumentam-175-em-2023.phtml) (Perfil.com)
 
-- [Saúde prevê epidemia de dengue no Brasil em 2024](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Saúde prevê epidemia de dengue no Brasil em 2024](https://saude.ig.com.br/2023-12-08/saude-preve-epidemia-de-dengue-no-brasil-em-2024.html) (Ig.com.br)
 
-- [Incorporação de vacina contra dengue ao SUS deve sair ainda este ano](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Incorporação de vacina contra dengue ao SUS deve sair ainda este ano](https://brasil.perfil.com/saude/incorporacao-de-vacina-contra-dengue-ao-sus-deve-sair-ainda-este-ano.phtml) (Perfil.com)
 
-- [Ministério da Saúde projeta aumento de casos de dengue em 2024 em grande parte do País](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Ministério da Saúde projeta aumento de casos de dengue em 2024 em grande parte do País](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-projeta-aumento-de-casos-de-dengue-em-2024-em-grande-parte-do-pais,9f26487cb93f3efdd344c33f06393701c9rvaomv.html) (Terra.com.br)
 
-- [Dengue avança no Brasil e situação para 2024 preocupa](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Dengue avança no Brasil e situação para 2024 preocupa](https://olhardigital.com.br/2023/12/08/medicina-e-saude/dengue-avanca-no-brasil-e-situacao-para-2024-preocupa/) (Olhardigital.com.br)
 
-- [Incorporação de vacina contra dengue ao SUS deve sair ainda este ano](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Incorporação de vacina contra dengue ao SUS deve sair ainda este ano](https://noticias.r7.com/saude/incorporacao-de-vacina-contra-dengue-ao-sus-deve-sair-ainda-este-ano-08122023) (R7.com)
 
-- [Casos de dengue no Brasil aumentam 17,5% em 2023](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Casos de dengue no Brasil aumentam 17,5% em 2023](https://valor.globo.com/brasil/noticia/2023/12/08/casos-de-dengue-no-brasil-aumentam-175percent-em-2023.ghtml) (Globo)
 
-- [Saúde espera incorporar vacina contra dengue ao SUS ainda em 2023](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Saúde espera incorporar vacina contra dengue ao SUS ainda em 2023](https://www.metropoles.com/brasil/saude-espera-incorporar-vacina-contra-dengue-ao-sus-ainda-em-2023) (Metropoles.com)
 
-- [Saúde prevê epidemia de dengue no Centro-Oeste, ES e MG em 2024](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Saúde prevê epidemia de dengue no Centro-Oeste, ES e MG em 2024](https://noticias.r7.com/saude/saude-preve-epidemia-de-dengue-no-centro-oeste-es-e-mg-em-2024-08122023) (R7.com)
 
-- [Casos de dengue no Brasil aumentam 15,8% em 2023](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Casos de dengue no Brasil aumentam 15,8% em 2023](https://noticias.r7.com/saude/casos-de-dengue-no-brasil-aumentam-158-em-2023-tire-suas-duvidas-08122023) (R7.com)
 
-- [Rio de Janeiro tem caso de dengue tipo 4 pela primeira vez em 5 anos](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Rio de Janeiro tem caso de dengue tipo 4 pela primeira vez em 5 anos](https://saude.ig.com.br/2023-12-08/rio-de-janeiro-tem-caso-de-dengue-tipo-4-pela-primeira-vez-em-5-anos.html) (Ig.com.br)
 
-- [Conspiracy theories disrupted Bali’s Wolbachia mosquitoes project to fight dengue, but experts see ‘blessing’ in delay](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Conspiracy theories disrupted Bali’s Wolbachia mosquitoes project to fight dengue, but experts see ‘blessing’ in delay](https://www.channelnewsasia.com/asia/indonesia-dengue-wolbachia-bali-3975091) (CNA)
 
-- [Rio de Janeiro registra caso de dengue tipo 4](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Rio de Janeiro registra caso de dengue tipo 4](https://brasil.perfil.com/brasil/rio-de-janeiro-registra-caso-de-dengue-tipo-4.phtml) (Perfil.com)
 
-- [Secretaría de Salud de Oaxaca registra aumento en contagios de dengue en temporada invernal](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [Secretaría de Salud de Oaxaca registra aumento en contagios de dengue en temporada invernal](https://www.milenio.com/estados/sso-reporta-aumento-contagios-dengue-temporada-invernal) (Milenio)
 
-- [Rio de Janeiro registra caso de dengue tipo 4](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [Rio de Janeiro registra caso de dengue tipo 4](https://jornaldebrasilia.com.br/noticias/brasil/rio-de-janeiro-registra-caso-de-dengue-tipo-4/) (Jornaldebrasilia.com.br)
 
-- [Dengue: Saúde abre consulta pública sobre incorporação de vacina no SUS](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [Dengue: Saúde abre consulta pública sobre incorporação de vacina no SUS](https://veja.abril.com.br/saude/dengue-saude-abre-consulta-publica-sobre-incorporacao-de-vacina-no-sus) (Abril.com.br)
 
-- [Mulher de 34 anos morre 1 hora após ter alta médica; polícia investiga](https://tass.ru/obschestvo/19601869)
+- [Mulher de 34 anos morre 1 hora após ter alta médica; polícia investiga](https://www.metropoles.com/sao-paulo/mulher-de-34-anos-morre-1-hora-apos-ter-alta-medica-policia-investiga) (Metropoles.com)
 
-- [Vírus que causa sintomas parecidos com os da dengue é descoberto no Peru](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
+- [Vírus que causa sintomas parecidos com os da dengue é descoberto no Peru](https://www.tudocelular.com/tech/noticias/n215241/virus-descoberto-no-peru-tem-sintomas-de-dengue.html) (Tudocelular.com)
 
-- [Paciente é diagnosticada com dengue tipo 4 no Rio de Janeiro; caso não era registrado desde 2018](https://news.un.org/en/story/2023/12/1145042)
+- [Paciente é diagnosticada com dengue tipo 4 no Rio de Janeiro; caso não era registrado desde 2018](https://noticias.r7.com/rio-de-janeiro/paciente-e-diagnosticada-com-dengue-tipo-4-no-rio-de-janeiro-caso-nao-era-registrado-desde-2018-07122023) (R7.com)
 
-- [Saúde abre consulta pública sobre vacina da dengue no SUS](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
+- [Saúde abre consulta pública sobre vacina da dengue no SUS](https://tecnologia.ig.com.br/parceiros/canaltech/2023-12-07/saude-abre-consulta-publica-sobre-vacina-da-dengue-no-sus.html) (Ig.com.br)
 
-- [Saiba quais são as doenças mais comuns no verão e como se prevenir](https://www.jpost.com/health-and-wellness/article-778937)
+- [Saiba quais são as doenças mais comuns no verão e como se prevenir](https://saude.ig.com.br/2023-12-07/saiba-quais-doencas-mais-comuns-verao-como-prevenir.html) (Ig.com.br)
 
-- [Saúde abre consulta pública sobre inclusão de vacina da dengue no SUS](https://punchng.com/?p=1538765)
+- [Saúde abre consulta pública sobre inclusão de vacina da dengue no SUS](https://noticias.r7.com/saude/saude-abre-consulta-publica-sobre-inclusao-de-vacina-da-dengue-no-sus-07122023) (R7.com)
 
-- [Public knowledge, belief, and preventive practices regarding dengue: Findings from a community-based survey in rural Bangladesh](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport)
+- [Public knowledge, belief, and preventive practices regarding dengue: Findings from a community-based survey in rural Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011778) (Plos.org)
 
-- [Entomological risk assessment for transmission of arboviral diseases by Aedes mosquitoes in a domestic and forest site in Accra, Ghana](https://slashdot.org/firehose.pl?op=view&amp;id=172543879)
+- [Entomological risk assessment for transmission of arboviral diseases by Aedes mosquitoes in a domestic and forest site in Accra, Ghana](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295390) (Plos.org)
 
-- [Jovem de 20 anos é infectado por novo vírus no Peru](https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
+- [Jovem de 20 anos é infectado por novo vírus no Peru](https://tecnologia.ig.com.br/parceiros/canaltech/2023-12-07/jovem-de-20-anos-e-infectado-por-novo-virus-no-peru.html) (Ig.com.br)
 
-- [Saúde abre consulta pública sobre inclusão de vacina da dengue no SUS](https://bmjopen.bmj.com/content/13/12/e072775?rss=1)
+- [Saúde abre consulta pública sobre inclusão de vacina da dengue no SUS](https://jornaldebrasilia.com.br/noticias/saude/saude-abre-consulta-publica-sobre-inclusao-de-vacina-da-dengue-no-sus/) (Jornaldebrasilia.com.br)
 
-- [Afrique de l'Ouest: La dengue a fait plus de 500 morts depuis le début de l'année au Burkina Faso](https://www.voanews.com/a/officials-push-to-get-kids-vaccinated-as-more-us-parents-opt-out-/7406765.html)
+- [Afrique de l'Ouest: La dengue a fait plus de 500 morts depuis le début de l'année au Burkina Faso](https://fr.allafrica.com/stories/202312070116.html) (AllAfrica - Top Africa News)
 
-- [21 dead, 600 infected in Mali dengue outbreak](https://english.khabarhub.com/2023/21/331544/)
+- [21 dead, 600 infected in Mali dengue outbreak](https://www.foxnews.com/world/21-dead-600-infected-mali-dengue-outbreak) (Fox News)
 
-- [Campinas confirma 3ª morte por dengue em 2023](https://www.cbc.ca/news/canada/calgary/whooping-cough-pertussis-alberta-1.7065298)
+- [Campinas confirma 3ª morte por dengue em 2023](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/06/campinas-confirma-3a-morte-por-dengue-em-2023.ghtml) (Globo)
 
-- [Entenda como calor acima da média em Campinas pode agravar números da dengue](https://punchng.com/stepping-up-the-anti-malaria-war/)
+- [Entenda como calor acima da média em Campinas pode agravar números da dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/06/entenda-como-calor-acima-da-media-em-campinas-pode-agravar-numeros-da-dengue.ghtml) (Globo)
 
-- [1,000 get free health treatment, 400 sign for 'Quit Tobacco' near Chaityabhoomi in Mumbai](https://www.denverpost.com/2023/12/20/colorado-measles-airport-childrens-hospital/)
+- [1,000 get free health treatment, 400 sign for 'Quit Tobacco' near Chaityabhoomi in Mumbai](https://timesofindia.indiatimes.com/city/mumbai/1000-get-free-health-treatment-400-sign-for-quit-tobacco-near-chaityabhoomi-in-mumbai/articleshow/105790654.cms) (The Times of India)
 
-- [Modelling the impact of JNJ-1802, a first-in-class dengue inhibitor blocking the NS3-NS4B interaction, on in-vitro DENV-2 dynamics](https://kdvr.com/news/health/cdphe-measles-case-confirmed-days-after-patient-flew-through-dia/)
+- [Modelling the impact of JNJ-1802, a first-in-class dengue inhibitor blocking the NS3-NS4B interaction, on in-vitro DENV-2 dynamics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011662) (Plos.org)
 
-- [Re-examination of the risk of dementia after dengue virus infection: A population-based cohort study](https://6abc.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [Re-examination of the risk of dementia after dengue virus infection: A population-based cohort study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011788) (Plos.org)
 
-- [At least 21 deaths and 600 cases of dengue fever in Mali](https://abc11.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [At least 21 deaths and 600 cases of dengue fever in Mali](https://abcnews.go.com/International/wireStory/21-deaths-600-cases-dengue-fever-mali-105416538) (ABC News)
 
-- [At least 21 deaths and 600 cases of dengue fever in Mali](https://abc13.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [At least 21 deaths and 600 cases of dengue fever in Mali](https://timesofindia.indiatimes.com/world/rest-of-world/at-least-21-deaths-and-600-cases-of-dengue-fever-in-mali/articleshow/105788334.cms) (The Times of India)
 
-- [At least 21 deaths and 600 cases of dengue fever in Mali](https://abc7news.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [At least 21 deaths and 600 cases of dengue fever in Mali](https://www.seattlepi.com/news/world/article/at-least-21-deaths-and-600-cases-of-dengue-fever-18536659.php) (seattlepi.com)
 
-- [At least 21 deaths and 600 cases of dengue fever in Mali](https://www.bangkokpost.com/opinion/opinion/2710068/a-bargain-in-saving-lives-from-malaria)
+- [At least 21 deaths and 600 cases of dengue fever in Mali](https://abcnews.go.com/Health/wireStory/21-deaths-600-cases-dengue-fever-mali-105416557) (ABC News)
 
-- [Number of Dengue Fever Cases in Sri Lanka Hits 3-Year Record - Reports](https://veja.abril.com.br/saude/apos-anos-brasil-registra-alta-em-vacinacao-e-inclui-novas-vacinas-no-pni)
+- [Number of Dengue Fever Cases in Sri Lanka Hits 3-Year Record - Reports](https://sputnikglobe.com/20231206/number-of-dengue-fever-cases-in-sri-lanka-hits-3-year-record---reports-1115427509.html) (Sputnikglobe.com)
 
-- [‘Nadie en Costa Rica puede asegurar que no se ha enfermado de dengue’, advierte epidemióloga de CCSS](https://www.ksat.com/health/2023/12/20/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
+- [‘Nadie en Costa Rica puede asegurar que no se ha enfermado de dengue’, advierte epidemióloga de CCSS](https://www.nacion.com/ciencia/salud/nadie-en-costa-rica-puede-asegurar-que-no-se-ha/DPAPP6PAZZANHFS4C25FCTPOLA/story/) (Nacion.com)
 
-- [Indonesia Shelves Plan To Release 200 Million Mosquitoes To Combat Dengue](https://abc7ny.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [Indonesia Shelves Plan To Release 200 Million Mosquitoes To Combat Dengue](https://www.ndtv.com/world-news/indonesia-planned-to-breed-good-mosquitoes-to-combat-dengue-now-that-plan-has-been-put-on-hold-4638372) (NDTV News)
 
-- ['Sanatanis you abused are helping people in flood': Ex-Pakistan cricketer Danish Kaneria hits out at Tamil Nadu CM Stalin's son](https://tribunademinas.com.br/noticias/cidade/20-12-2023/juiz-de-fora-deve-receber-r-18-milhao-para-combate-ao-aedes-aegypti.html)
+- ['Sanatanis you abused are helping people in flood': Ex-Pakistan cricketer Danish Kaneria hits out at Tamil Nadu CM Stalin's son](https://economictimes.indiatimes.com/news/new-updates/sanatanis-you-abused-are-helping-people-in-flood-ex-pakistan-cricketer-danish-kaneria-hits-out-at-tamil-nadu-cm-stalins-son/articleshow/105773639.cms) (The Times of India)
 
-- [Dengue: moradores da Colina da UnB denunciam explosão de casos na área](https://www.foxnews.com/us/us-health-officials-see-influx-vaccine-exemption-rates-children)
+- [Dengue: moradores da Colina da UnB denunciam explosão de casos na área](https://www.metropoles.com/distrito-federal/dengue-moradores-da-colina-da-unb-denunciam-explosao-de-casos-na-area) (Metropoles.com)
 
-- [Calor vai espalhar malária, zika, dengue e chikungunya pelo mundo, alerta especialista em medicina tropical](https://apnews.com/article/vaccines-waivers-schools-measles-idaho-e7015d8fd38ec80802eeae350755a402)
+- [Calor vai espalhar malária, zika, dengue e chikungunya pelo mundo, alerta especialista em medicina tropical](https://observador.pt/2023/12/05/calor-vai-espalhar-malaria-zika-dengue-e-chikungunya-pelo-mundo-alerta-especialista-em-medicina-tropical/) (Observador.pt)
 
-- [Concejo pide al Distrito mayor control al dengue, al VIH y a la leptospirosis](https://www.click2houston.com/health/2023/12/20/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
+- [Concejo pide al Distrito mayor control al dengue, al VIH y a la leptospirosis](https://www.eluniversal.com.co/politica/concejo-pide-al-distrito-mayor-control-al-dengue-al-vih-y-a-la-leptospirosis-FF9575205) (Eluniversal.com.co)
 
-- [Economic burden of dengue in urban Bangladesh: A societal perspective](https://abcnews.go.com/Health/wireStory/health-officials-push-schoolchildren-vaccinated-us-parents-opt-105809922)
+- [Economic burden of dengue in urban Bangladesh: A societal perspective](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011820) (Plos.org)
 
-- [Falta d’água causa surto de casos de dengue entre moradores de Brodowski](https://www.startribune.com/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/600329634/)
+- [Falta d’água causa surto de casos de dengue entre moradores de Brodowski](https://recordtv.r7.com/recordtv-interior-sp/sp-record/falta-dagua-causa-surto-de-casos-de-dengue-entre-moradores-de-brodowski-05122023) (R7.com)
 
-- [Death Toll Rises in Sudan Cholera and Dengue Outbreak](https://www.bostonherald.com/2023/12/20/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
+- [Death Toll Rises in Sudan Cholera and Dengue Outbreak](https://allafrica.com/stories/202312050110.html) (AllAfrica - Top Africa News)
 
-- [Cholera - Public Urged to Take Measures As Deaths Rise](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011726)
+- [Cholera - Public Urged to Take Measures As Deaths Rise](https://allafrica.com/stories/202312050106.html) (AllAfrica - Top Africa News)
 
-- [Tackling dengue with Wolbachia method](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295772)
+- [Tackling dengue with Wolbachia method](https://en.antaranews.com/news/300222/tackling-dengue-with-wolbachia-method) (Antaranews.com)
 
-- [Confira 7 bairros de Campinas com risco elevado de transmissão da dengue e veja dicas de prevenção](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011855)
+- [Confira 7 bairros de Campinas com risco elevado de transmissão da dengue e veja dicas de prevenção](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/04/confira-7-bairros-de-campinas-com-risco-elevado-de-transmissao-da-dengue-e-veja-dicas-de-prevencao.ghtml) (Globo)
 
-- [VIDEO. Retour à la Base: victime de la dengue, le skipper Antoine Cornic est très affaibli](https://english.khabarhub.com/2023/20/331541/)
+- [VIDEO. Retour à la Base: victime de la dengue, le skipper Antoine Cornic est très affaibli](https://www.ouest-france.fr/sport/voile/retour-a-la-base-toutes-les-manuvres-sont-dures-antoine-cornic-malade-de-la-dengue-en-course-8d4fc100-92cf-11ee-8602-1e868188f4e2) (Ouest-France)
 
-- [Exploratory analysis of the knowledge, attitudes and perceptions of healthcare workers about arboviruses in the context of surveillance in the Republic of Guinea](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/19/como-densidade-demografica-viagens-e-calor-podem-agravar-cenario-da-dengue-em-campinas.ghtml)
+- [Exploratory analysis of the knowledge, attitudes and perceptions of healthcare workers about arboviruses in the context of surveillance in the Republic of Guinea](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011814) (Plos.org)
 
-- [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.eluniversal.com.co/cartagena/13-posibles-casos-de-defunciones-por-leptospirosis-alertan-a-cartagena-XB9663671)
+- [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika) (Metropoles.com)
 
-- [Malaria deaths in state down more than 50%](https://diamond.jp/articles/-/336100)
+- [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
 
-- [Bangladesh faces its worst dengue epidemic on record](https://www.volkskrant.nl/wetenschap/gezondheidsraad-bied-mpox-vaccin-structureel-aan-voor-risicogroepen~bbd4bf5a/)
+- [Bangladesh faces its worst dengue epidemic on record](https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html) (Le Monde)
 
 ## 23-49 (chikungunya)
 
-- [Efter advarsel i ferieparadis: Nu reagerer Spies](https://allafrica.com/stories/202312220032.html)
+- [Efter advarsel i ferieparadis: Nu reagerer Spies](https://www.bt.dk/udland/efter-advarsel-i-ferieparadis-nu-reagerer-spies) (Www.bt.dk)
 
-- [Entomological risk assessment for transmission of arboviral diseases by Aedes mosquitoes in a domestic and forest site in Accra, Ghana](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Entomological risk assessment for transmission of arboviral diseases by Aedes mosquitoes in a domestic and forest site in Accra, Ghana](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295390) (Plos.org)
 
-- [“It’s very saddening, you keep on wondering when the symptoms will be over”: A qualitative study exploring the long-term chikungunya disease impact on daily life and well-being, 6 years after disease onset](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [“It’s very saddening, you keep on wondering when the symptoms will be over”: A qualitative study exploring the long-term chikungunya disease impact on daily life and well-being, 6 years after disease onset](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011793) (Plos.org)
 
-- [Calor vai espalhar malária, zika, dengue e chikungunya pelo mundo, alerta especialista em medicina tropical](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Calor vai espalhar malária, zika, dengue e chikungunya pelo mundo, alerta especialista em medicina tropical](https://observador.pt/2023/12/05/calor-vai-espalhar-malaria-zika-dengue-e-chikungunya-pelo-mundo-alerta-especialista-em-medicina-tropical/) (Observador.pt)
 
-- [Exploratory analysis of the knowledge, attitudes and perceptions of healthcare workers about arboviruses in the context of surveillance in the Republic of Guinea](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Exploratory analysis of the knowledge, attitudes and perceptions of healthcare workers about arboviruses in the context of surveillance in the Republic of Guinea](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011814) (Plos.org)
 
-- [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika) (Metropoles.com)
 
-- [Valneva: new positive data for Ixchiq](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Valneva: new positive data for Ixchiq](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-new-positive-data-for-Ixchiq-45491343/) (Marketscreener.com)
 
-- [Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ®](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ®](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Reports-Positive-24-Month-Antibody-Persistence-Data-for-its-Single-Shot-Chikungunya-Vaccine-45491066/) (Marketscreener.com)
 
-- [Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ®](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Valneva Reports Positive 24-Month Antibody Persistence Data for its Single-Shot Chikungunya Vaccine IXCHIQ®](https://www.globenewswire.com/news-release/2023/12/04/2789696/0/en/Valneva-Reports-Positive-24-Month-Antibody-Persistence-Data-for-its-Single-Shot-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
 
-- [Valneva annonce des données positives sur la persistance des anticorps à 24 mois pour son vaccin à injection unique contre le chikungunya, IXCHIQ®](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Valneva annonce des données positives sur la persistance des anticorps à 24 mois pour son vaccin à injection unique contre le chikungunya, IXCHIQ®](https://www.globenewswire.com/news-release/2023/12/04/2789696/0/fr/Valneva-annonce-des-donn%C3%A9es-positives-sur-la-persistance-des-anticorps-%C3%A0-24-mois-pour-son-vaccin-%C3%A0-injection-unique-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
 
 ## 23-48 (zika)
 
-- [A patch of protection against Zika virus](https://allafrica.com/stories/202312220032.html)
+- [A patch of protection against Zika virus](https://www.sciencedaily.com/releases/2023/12/231201123720.htm) (Science Daily)
 
-- [Simple-to-apply, needle-free vaccine patch developed against Zika infection](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Simple-to-apply, needle-free vaccine patch developed against Zika infection](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/simple-to-apply-needle-free-vaccine-patch-developed-against-zika-infection/articleshow/105655286.cms) (The Times of India)
 
-- [Ter tido zika aumenta o risco de dengue grave, diz estudo brasileiro](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Ter tido zika aumenta o risco de dengue grave, diz estudo brasileiro](https://www.metropoles.com/saude/zika-sobe-o-risco-de-dengue-grave) (Metropoles.com)
 
-- [Além do mosquito transmissor, o que a zika tem a ver com a dengue?](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Além do mosquito transmissor, o que a zika tem a ver com a dengue?](https://veja.abril.com.br/saude/alem-do-mosquito-transmissor-o-que-a-zika-tem-a-ver-com-a-dengue) (Abril.com.br)
 
-- [Morphological and functional cardiac alterations in children with congenital Zika syndrome and severe neurological deficits](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Morphological and functional cardiac alterations in children with congenital Zika syndrome and severe neurological deficits](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011762) (Plos.org)
 
-- [Fungos da Amazônia podem ser usados no combate à dengue; entenda](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Fungos da Amazônia podem ser usados no combate à dengue; entenda](https://olhardigital.com.br/2023/11/28/medicina-e-saude/fungos-da-amazonia-podem-ser-usados-no-combate-a-dengue-entenda/) (Olhardigital.com.br)
 
-- [Casos de dengue, zika e chikungunya aumentam com o calor](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Casos de dengue, zika e chikungunya aumentam com o calor](https://tecnologia.ig.com.br/parceiros/canaltech/2023-11-27/casos-de-dengue--zika-e-chikungunya-aumentam-com-o-calor.html) (Ig.com.br)
 
-- [Dual function of Zika virus NS2B-NS3 protease](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Dual function of Zika virus NS2B-NS3 protease](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011795) (Plos.org)
 
-- [There’s no place for “benevolent deception” in obstetrics](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [There’s no place for “benevolent deception” in obstetrics](https://www.kevinmd.com/2023/11/theres-no-place-for-benevolent-deception-in-obstetrics.html) (Kevinmd.com)
 
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
 
 ## 23-48 (yersinia)
 
-- [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 29th November 2023](https://allafrica.com/stories/202312220032.html)
+- [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 29th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-29th-november-2023/) (Iasbaba.com)
 
 ## 23-48 (rabies)
 
-- [Bitten by pet cat, UP man & son die of rabies](https://allafrica.com/stories/202312220032.html)
+- [Bitten by pet cat, UP man & son die of rabies](https://timesofindia.indiatimes.com/india/bitten-by-pet-cat-up-man-son-die-of-rabies/articleshow/105686161.cms) (The Times of India)
 
-- [【閲覧注意】リアルなゾンビが出没](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [【閲覧注意】リアルなゾンビが出没](http://blog.livedoor.jp/rbkyn844/archives/10480129.html) (Livedoor.jp)
 
-- [US Woman Stabs Boyfriend In Eye For Looking At Other Women: Police](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [US Woman Stabs Boyfriend In Eye For Looking At Other Women: Police](https://www.ndtv.com/world-news/us-woman-stabs-boyfriend-in-eye-for-looking-at-other-women-police-4616327) (NDTV News)
 
-- [Florida Woman Allegedly Stabs Boyfriend In Eye With 'Rabies Needle'](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Florida Woman Allegedly Stabs Boyfriend In Eye With 'Rabies Needle'](https://www.huffpost.com/entry/florida-woman-allegedly-stabs-boyfriend-in-eye-with-rabies-needle_n_65664695e4b066e398b57fdc) (HuffPost)
 
-- [Woman Allegedly Stabs Boyfriend In Eye With ‘Rabies Needles’](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Woman Allegedly Stabs Boyfriend In Eye With ‘Rabies Needles’](https://dailycaller.com/2023/11/28/woman-stabs-boyfriend-eye-rabies-needles/) (The Daily Caller)
 
-- [Florida woman allegedly stabs boyfriend in eye with rabies needles for looking at other women](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Florida woman allegedly stabs boyfriend in eye with rabies needles for looking at other women](https://www.foxnews.com/us/florida-woman-allegedly-stabs-boyfriend-eye-rabies-needles-looking-other-women) (Fox News)
 
-- [Research links climate change to vampire bat expansion and rabies virus spillover](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Research links climate change to vampire bat expansion and rabies virus spillover](https://phys.org/news/2023-11-links-climate-vampire-expansion-rabies.html) (Phys.Org)
 
-- [Horror Movie Rabies Finds Monstrous Terror in 90s Beirut](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Horror Movie Rabies Finds Monstrous Terror in 90s Beirut](https://www.comingsoon.net/horror/news/1415664-rabies-beirut-horror-movie) (ComingSoon.net)
 
-- [Kitten sparks RABIES scare that could put 7M Americans at risk - Daily Mail](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Kitten sparks RABIES scare that could put 7M Americans at risk - Daily Mail](https://slashdot.org/firehose.pl?op=view&amp;id=172318743) (Slashdot.org)
 
-- [Kitten sparks huge RABIES scare that could put 7million Americans at risk after catching virus, then scratchin - Daily Mail](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Kitten sparks huge RABIES scare that could put 7million Americans at risk after catching virus, then scratchin - Daily Mail](https://slashdot.org/firehose.pl?op=view&amp;id=172317869) (Slashdot.org)
 
-- [How one rabid kitten triggered massive effort to contain deadly disease](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [How one rabid kitten triggered massive effort to contain deadly disease](https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/) (The Washington Post)
 
 ## 23-48 (pertussis)
 
-- [Whooping cough cases increase, health officials recommend vaccinations](https://allafrica.com/stories/202312220032.html)
+- [Whooping cough cases increase, health officials recommend vaccinations](https://www.kpbs.org/news/health/2023/11/29/whooping-cough-cases-increase-health-officials-recommend-vaccinations) (KPBS)
 
-- [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 29th November 2023](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 29th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-29th-november-2023/) (Iasbaba.com)
 
-- [Adenylate cyclase toxin of Bordetella parapertussis disrupts the epithelial barrier granting the bacterial access to the intracellular space of epithelial cells](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Adenylate cyclase toxin of Bordetella parapertussis disrupts the epithelial barrier granting the bacterial access to the intracellular space of epithelial cells](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291331) (Plos.org)
 
-- [Врач отметил влияние отказа от постельного режима на осложнения ОРВИ](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Врач отметил влияние отказа от постельного режима на осложнения ОРВИ](https://iz.ru/1611536/2023-11-27/vrach-otmetil-vliianie-otkaza-ot-postelnogo-rezhima-na-oslozhneniia-orvi) (Iz.ru)
 
 ## 23-48 (mpox)
 
-- [Santé. Variole du singe : faut-il craindre une explosion des cas dans le monde ?](https://allafrica.com/stories/202312220032.html)
+- [Santé. Variole du singe : faut-il craindre une explosion des cas dans le monde ?](https://www.ledauphine.com/magazine-sante/2023/12/01/variole-du-singe-faut-il-craindre-une-explosion-des-cas-dans-le-monde) (Le Dauphiné Libéré)
 
-- [Five new cases of mpox detected since October](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Five new cases of mpox detected since October](https://www.thestar.com.my/news/nation/2023/12/01/five-new-cases-of-mpox-detected-since-october) (The Star Online)
 
-- [Five new monkeypox cases detected](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Five new monkeypox cases detected](https://www.thestar.com.my/news/nation/2023/11/30/five-new-monkeypox-cases-detected) (The Star Online)
 
-- [Kommer experterna ha fel om Kina en gång till?](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Kommer experterna ha fel om Kina en gång till?](https://www.expressen.se/nyheter/kommer-experterna-att-ha-fel-om-kina-en-gang-till/) (Expressen.se)
 
-- [How Canadian scientists helped uncover sexually transmitted cases of a deadlier mpox strain](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [How Canadian scientists helped uncover sexually transmitted cases of a deadlier mpox strain](https://www.cbc.ca/news/health/sexually-transmitted-mpox-strain-1.7042973) (CBC News)
 
-- [Deputy health minister: Nine monkeypox cases detected in Malaysia since July this year](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Deputy health minister: Nine monkeypox cases detected in Malaysia since July this year](https://www.malaymail.com/news/malaysia/2023/11/29/deputy-health-minister-nine-monkeypox-cases-detected-in-malaysia-since-july-this-year/104818) (Malay Mail)
 
-- [How do viruses get into cells? Their infection tactics determine whether they can jump species or set off a pandemic](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [How do viruses get into cells? Their infection tactics determine whether they can jump species or set off a pandemic](https://www.geeksaresexy.net/2023/11/28/how-do-viruses-get-into-cells-their-infection-tactics-determine-whether-they-can-jump-species-or-set-off-a-pandemic/) (Geeksaresexy.net)
 
-- [Großer Ausbruch im Kongobecken: Gefährliche Variante des Mpox-Virus droht sich global zu verbreiten](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Großer Ausbruch im Kongobecken: Gefährliche Variante des Mpox-Virus droht sich global zu verbreiten](https://www.spektrum.de/news/gefaehrliche-variante-des-mpox-virus-droht-sich-global-zu-verbreiten/2199976) (Spektrum.de)
 
-- [Health Ministry records 36 out of 59 mpox patients recovered](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Health Ministry records 36 out of 59 mpox patients recovered](https://en.antaranews.com/news/299652/health-ministry-records-36-out-of-59-mpox-patients-recovered) (Antaranews.com)
 
-- [Clade I–Associated Mpox Cases Associated with Sexual Contact, the Democratic Republic of the Congo](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Clade I–Associated Mpox Cases Associated with Sexual Contact, the Democratic Republic of the Congo](https://wwwnc.cdc.gov/eid/article/30/1/23-1164_article) (Cdc.gov)
 
-- [«Θερίζει» η ευλογιά των πιθήκων στο Κονγκό με 581 θανάτους και 12.569 κρούσματα, αριθμοί που αποτελούν παγκόσμιο ρεκόρ](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [«Θερίζει» η ευλογιά των πιθήκων στο Κονγκό με 581 θανάτους και 12.569 κρούσματα, αριθμοί που αποτελούν παγκόσμιο ρεκόρ](https://www.newsit.gr/ygeia/eylogia-ton-pithikon-therizei-sto-kongko-me-581-thanatous-kai-12-569-krousmata-arithmoi-pou-apoteloun-rekor/3918261/) (Newsit.gr)
 
-- [«Θερίζει» η ευλογιά των πιθήκων στο Κονγκό με 581 θανάτους και 12.569 κρούσματα - αριθμοί ρεκόρ](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [«Θερίζει» η ευλογιά των πιθήκων στο Κονγκό με 581 θανάτους και 12.569 κρούσματα - αριθμοί ρεκόρ](https://www.newsit.gr/ygeia/eylogia-ton-pithikon-therizei-sto-kongko-me-581-thanatous-kai-12-569-krousmata-arithmoi-rekor/3918261/) (Newsit.gr)
 
-- [WHO Confirms Spread of MPox in DR Congo](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [WHO Confirms Spread of MPox in DR Congo](https://allafrica.com/stories/202311270556.html) (AllAfrica - Top Africa News)
 
-- [Epidémie de mpox en RDC : 581 décès depuis janvier et nombre de cas record sur une année](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Epidémie de mpox en RDC : 581 décès depuis janvier et nombre de cas record sur une année](https://www.lemonde.fr/afrique/article/2023/11/27/epidemie-de-mpox-en-rdc-581-deces-depuis-janvier-et-nombre-de-cas-record-sur-une-annee_6202586_3212.html) (Le Monde)
 
-- [Health officials on alert after first case of mpox detected in Idaho county](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Health officials on alert after first case of mpox detected in Idaho county](https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html) (Idaho State Journal)
 
-- [Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update](https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/) (Forbes)
 
-- [UN confirms sexual spread of mpox in Congo for the 1st time](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [UN confirms sexual spread of mpox in Congo for the 1st time](https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367) (Ctvnews.ca)
 
-- [«Ευλογιά π»: 581 θάνατοι και ρεκόρ κρουσμάτων στο Κονγκό](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [«Ευλογιά π»: 581 θάνατοι και ρεκόρ κρουσμάτων στο Κονγκό](https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/) (Naftemporiki.gr)
 
 ## 23-48 (meningitis)
 
-- [How Calico Wallpaper Has Transformed Home Decor Into High Art](https://allafrica.com/stories/202312220032.html)
+- [How Calico Wallpaper Has Transformed Home Decor Into High Art](https://wwd.com/home-design/home-decor/calico-wallpaper-home-decor-art-1235929501/) (WWD)
 
-- [Sphingosine kinase 1/S1P receptor signaling axis is essential for cellular uptake of Neisseria meningitidis in brain endothelial cells](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Sphingosine kinase 1/S1P receptor signaling axis is essential for cellular uptake of Neisseria meningitidis in brain endothelial cells](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011842) (Plos.org)
 
-- [Revelan origen de agente infeccioso que causó la muerte de niña en Santa Marta](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Revelan origen de agente infeccioso que causó la muerte de niña en Santa Marta](https://www.eluniversal.com.co/colombia/revelan-origen-de-agente-infeccioso-que-causo-la-muerte-de-nina-en-santa-marta-BD9533740) (Eluniversal.com.co)
 
-- [Alerta por parásito "come cerebros" que terminó con la vida de niña en Colombia: "En piscinas y jacuzzis"](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Alerta por parásito "come cerebros" que terminó con la vida de niña en Colombia: "En piscinas y jacuzzis"](https://www.marca.com/co/2023/11/27/6564715be2704ecd128b4583.html) (Marca)
 
 ## 23-48 (measles)
 
-- [Department of Health issues measles alert, says it will contact people who had been exposed ‘where known’](https://allafrica.com/stories/202312220032.html)
+- [Department of Health issues measles alert, says it will contact people who had been exposed ‘where known’](https://thewest.com.au/news/wa/department-of-health-issues-measles-alert-says-it-will-contact-people-who-had-been-exposed-where-known--c-12762687) (The West Australian)
 
-- [Measles - Kwara Vaccinates 700,000 Children](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Measles - Kwara Vaccinates 700,000 Children](https://allafrica.com/stories/202311290334.html) (AllAfrica - Top Africa News)
 
-- [AHS confirms case of measles in Alberta, prompts public alert](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [AHS confirms case of measles in Alberta, prompts public alert](https://www.cbc.ca/news/canada/calgary/measles-alberta-ahs-public-exposure-1.7043151) (CBC News)
 
-- [Vaxxas Announces and Publishes Successful Phase I Clinical Trial for Measles and Rubella Vaccine Delivered Using its Proprietary High-Density Microarray Skin Patch; Plan for Phase I/II Trial in The Gambia, Africa](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Vaxxas Announces and Publishes Successful Phase I Clinical Trial for Measles and Rubella Vaccine Delivered Using its Proprietary High-Density Microarray Skin Patch; Plan for Phase I/II Trial in The Gambia, Africa](https://www.ibtimes.com.au/press-release/20231127/vaxxas-announces-and-publishes-successful-phase-i-clinical-trial-for-measles-and-rubella-vaccine-delivered-using-its-proprietary-high-density-microarray-skin-patch-plan-for-phase-i-ii-trial-in-the-gambia-africa) (Ibtimes.com.au)
 
-- [Unvaccinated and Vulnerable: Children Drive Surge in Deadly Outbreaks - The New York Times](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Unvaccinated and Vulnerable: Children Drive Surge in Deadly Outbreaks - The New York Times](https://slashdot.org/firehose.pl?op=view&amp;id=172307397) (Slashdot.org)
 
 ## 23-48 (malaria)
 
-- [The Surprising Link Between Malaria And River Color](https://allafrica.com/stories/202312220032.html)
+- [The Surprising Link Between Malaria And River Color](https://www.forbes.com/sites/christinero/2023/12/02/the-surprising-link-between-malaria-and-river-color/) (Forbes)
 
-- [Climate Change and Health](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Climate Change and Health](https://www.theglobalfund.org/en/climate-change/) (Theglobalfund.org)
 
-- [Africa: Climate Change Identified As Serious Threat in Fight to End Malaria](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Africa: Climate Change Identified As Serious Threat in Fight to End Malaria](https://allafrica.com/stories/202312020021.html) (AllAfrica - Top Africa News)
 
-- [Climate change could upend fight against malaria, WHO warns](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Climate change could upend fight against malaria, WHO warns](https://www.livescience.com/health/viruses-infections-disease/climate-change-could-upend-fight-against-malaria-who-warns) (Live Science)
 
-- [Drastycznie wzrosła liczba przypadków dengi w Europie. Przyczyn jest kilka](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Drastycznie wzrosła liczba przypadków dengi w Europie. Przyczyn jest kilka](https://wiadomosci.gazeta.pl/wiadomosci/7,127561,30463961,rosnie-liczba-przypadkow-dengi-w-europie.html) (Gazeta.pl)
 
-- [The Kelch13 compartment contains highly divergent vesicle trafficking proteins in malaria parasites](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [The Kelch13 compartment contains highly divergent vesicle trafficking proteins in malaria parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011814) (Plos.org)
 
-- [Malaria prevalence and associated factors among symptomatic children aged under five years attending Sheko District Health Center, Southwest Ethiopia: A cross-sectional study](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Malaria prevalence and associated factors among symptomatic children aged under five years attending Sheko District Health Center, Southwest Ethiopia: A cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295237) (Plos.org)
 
-- [Alarmujące doniesienia. Zakaźna choroba rozprzestrzenia się w Europie](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Alarmujące doniesienia. Zakaźna choroba rozprzestrzenia się w Europie](https://wiadomosci.wp.pl/alarmujace-doniesienia-zakazna-choroba-rozprzestrzenia-sie-w-europie-6969077627911040a) (Wiadomosci.wp.pl)
 
-- [Malaria: Climate change poses “substantial risk to progress,” WHO warns](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Malaria: Climate change poses “substantial risk to progress,” WHO warns](https://www.bmj.com/content/383/bmj.p2848) (The BMJ)
 
-- [World at risk of losing malaria fight as cases rise, report says - Reuters](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [World at risk of losing malaria fight as cases rise, report says - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=172343071) (Slashdot.org)
 
-- [Africa: Climate Change Risks Upending Global Fight Against Malaria - WHO](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Africa: Climate Change Risks Upending Global Fight Against Malaria - WHO](https://allafrica.com/stories/202312010004.html) (AllAfrica - Top Africa News)
 
-- [WHO's annual malaria report spotlights the growing threat of climate change - World Health Organization](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [WHO's annual malaria report spotlights the growing threat of climate change - World Health Organization](https://slashdot.org/firehose.pl?op=view&amp;id=172339281) (Slashdot.org)
 
-- [World at risk of losing malaria fight as cases rise, report says](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [World at risk of losing malaria fight as cases rise, report says](https://www.investing.com/news/world-news/world-at-risk-of-losing-malaria-fight-as-cases-rise-report-says-3247110) (Investing.com)
 
-- [Climate crisis a ‘substantial risk’ to fight against malaria, says WHO - The Guardian](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Climate crisis a ‘substantial risk’ to fight against malaria, says WHO - The Guardian](https://slashdot.org/firehose.pl?op=view&amp;id=172338681) (Slashdot.org)
 
-- [We Must Not Let Climate Change Derail The Fight Against Malaria](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [We Must Not Let Climate Change Derail The Fight Against Malaria](https://www.forbes.com/sites/petersands/2023/11/30/we-must-not-let-climate-change-derail-the-fight-against-malaria/) (Forbes)
 
-- [Krankheiten: Klimawandel und Resistenzen behindern Kampf gegen Malaria](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Krankheiten: Klimawandel und Resistenzen behindern Kampf gegen Malaria](https://www.zeit.de/news/2023-11/30/klimawandel-und-resistenzen-behindern-kampf-gegen-malaria) (Die Zeit)
 
-- [Krankheiten: Klimawandel und Resistenzen behindern Kampf gegen Malaria](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Krankheiten: Klimawandel und Resistenzen behindern Kampf gegen Malaria](https://www.stern.de/panorama/wissen/krankheiten--klimawandel-und-resistenzen-behindern-kampf-gegen-malaria--34248324.html) (STERN.de)
 
-- [La OMS advierte de un aumento de casos de malaria desde 2019 y apunta al cambio climático como causa](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [La OMS advierte de un aumento de casos de malaria desde 2019 y apunta al cambio climático como causa](https://www.infosalus.com/salud-investigacion/noticia-oms-advierte-aumento-casos-malaria-2019-apunta-cambio-climatico-causa-20231130153204.html) (Infosalus.com)
 
-- [Wereldgezondheidsorganisatie waarschuwt: “Klimaatverandering vormt groot risico voor bestrijding van malaria”](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Wereldgezondheidsorganisatie waarschuwt: “Klimaatverandering vormt groot risico voor bestrijding van malaria”](https://www.gva.be/cnt/dmf20231130_95229525) (Www.gva.be)
 
-- [Nog eens 5 miljoen extra malariagevallen in 2022: "Wereld is slechter af sinds de pandemie"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Nog eens 5 miljoen extra malariagevallen in 2022: "Wereld is slechter af sinds de pandemie"](https://www.vrt.be/vrtnws/nl/2023/11/30/nog-eens-5-miljoen-extra-malariagevallen-in-2022-wereld-is-sle/) (Www.vrt.be)
 
-- [Meer mensen geconfronteerd met malaria, waarschuwt de WHO](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [Meer mensen geconfronteerd met malaria, waarschuwt de WHO](https://www.hln.be/buitenland/meer-mensen-geconfronteerd-met-malaria-waarschuwt-de-who~a43d4c1c/) (Www.hln.be)
 
-- [Kampf gegen Malaria: WHO: Klimawandel begünstigt Verbreitung](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [Kampf gegen Malaria: WHO: Klimawandel begünstigt Verbreitung](https://www.tagesspiegel.de/wissen/kampf-gegen-malaria-who-klimawandel-begunstigt-verbreitung-10862122.html) (Der Tagesspiegel)
 
-- [Wereldgezondheidsorganisatie waarschuwt: “Klimaatverandering vormt groot risico voor bestrijding van malaria”](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [Wereldgezondheidsorganisatie waarschuwt: “Klimaatverandering vormt groot risico voor bestrijding van malaria”](https://www.nieuwsblad.be/cnt/dmf20231130_95139750) (Nieuwsblad.be)
 
-- [El cambio climático contribuye al aumento de casos de malaria en el mundo](https://tass.ru/obschestvo/19601869)
+- [El cambio climático contribuye al aumento de casos de malaria en el mundo](https://www.abc.es/sociedad/cambio-climatico-contribuye-aumento-casos-malaria-mundo-20231130113837-nt.html) (Www.abc.es)
 
-- [Successful elimination of falciparum malaria following the introduction of community-based health workers in Eastern Myanmar: A retrospective analysis](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
+- [Successful elimination of falciparum malaria following the introduction of community-based health workers in Eastern Myanmar: A retrospective analysis](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004318) (Plos.org)
 
-- [Govt to Distribute 120,000 Nets to Counties Affected By Floods to Mitigate Malaria Outbreak](https://news.un.org/en/story/2023/12/1145042)
+- [Govt to Distribute 120,000 Nets to Counties Affected By Floods to Mitigate Malaria Outbreak](https://allafrica.com/stories/202311300363.html) (AllAfrica - Top Africa News)
 
-- [Climate change risks upending global fight against malaria](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
+- [Climate change risks upending global fight against malaria](https://news.un.org/en/story/2023/11/1144187) (UN News)
 
-- [Neuropilin-1 identifies a subset of highly activated CD8+ T cells during parasitic and viral infections](https://www.jpost.com/health-and-wellness/article-778937)
+- [Neuropilin-1 identifies a subset of highly activated CD8+ T cells during parasitic and viral infections](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011837) (Plos.org)
 
-- [Bjorn Lomborg: "La gente de los países pobres prefiere curar la malaria a tener paneles solares"](https://punchng.com/?p=1538765)
+- [Bjorn Lomborg: "La gente de los países pobres prefiere curar la malaria a tener paneles solares"](https://www.elmundo.es/papel/el-mundo-que-viene/2023/11/28/6560ce29e9cf4a93248b457e.html) (El Mundo)
 
-- [Dengue is coming to Europe](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport)
+- [Dengue is coming to Europe](https://www.dw.com/en/dengue-is-coming-to-europe/a-67547788) (DW (English))
 
-- [Ondo says residents spend N20bn on malaria annually](https://slashdot.org/firehose.pl?op=view&amp;id=172543879)
+- [Ondo says residents spend N20bn on malaria annually](https://punchng.com/ondo-says-residents-spend-n20bn-on-malaria-annually/) (The Punch)
 
-- [Benjamín Gil es anunciado como nuevo mánager de Charros de Jalisco](https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
+- [Benjamín Gil es anunciado como nuevo mánager de Charros de Jalisco](https://www.milenio.com/deportes/beisbol/benjamin-gil-es-nuevo-manager-de-charros-de-jalisco-en-lmp-oficial) (Milenio)
 
-- [First Malaria Vaccines Arrive In Cameroon](https://bmjopen.bmj.com/content/13/12/e072775?rss=1)
+- [First Malaria Vaccines Arrive In Cameroon](https://www.forbes.com/sites/unicefusa/2023/11/27/first-malaria-vaccines-arrive-in-cameroon/) (Forbes)
 
-- [Pocket-sized DNA sequencers track malaria drug resistance in Ghana in near real-time](https://www.voanews.com/a/officials-push-to-get-kids-vaccinated-as-more-us-parents-opt-out-/7406765.html)
+- [Pocket-sized DNA sequencers track malaria drug resistance in Ghana in near real-time](https://phys.org/news/2023-11-pocket-sized-dna-sequencers-track-malaria.html) (Phys.Org)
 
-- [Bringt Klima Tropenfieber? [premium]](https://english.khabarhub.com/2023/21/331544/)
+- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
 
-- [Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil](https://www.cbc.ca/news/canada/calgary/whooping-cough-pertussis-alberta-1.7065298)
+- [Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil](https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288) (NDTV News)
 
 ## 23-48 (leptospirosis)
 
-- [Estos son los barrios de Cartagena con más casos de leptospirosis en 2023](https://allafrica.com/stories/202312220032.html)
+- [Estos son los barrios de Cartagena con más casos de leptospirosis en 2023](https://www.eluniversal.com.co/cartagena/estos-son-los-barrios-de-cartagena-con-mas-casos-de-leptospirosis-en-2023-MN9539349) (Eluniversal.com.co)
 
-- [Leptospirosis en Cartagena: ¿En qué consiste la enfermedad y cómo se transmite?](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Leptospirosis en Cartagena: ¿En qué consiste la enfermedad y cómo se transmite?](https://www.eluniversal.com.co/cartagena/leptospirosis-en-cartagena-en-que-consiste-la-enfermedad-y-como-se-transmite-KN9539149) (Eluniversal.com.co)
 
-- [Temor en Cartagena por aumento alarmante de casos de leptospirosis](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Temor en Cartagena por aumento alarmante de casos de leptospirosis](https://www.eluniversal.com.co/cartagena/temor-en-cartagena-por-aumento-alarmante-de-casos-de-leptospirosis-JM9538902) (Eluniversal.com.co)
 
-- [Investigan muerte de menor de edad por presunta leptospirosis en Cartagena](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Investigan muerte de menor de edad por presunta leptospirosis en Cartagena](https://www.eluniversal.com.co/cartagena/investigan-muerte-de-menor-de-edad-por-presunta-leptospirosis-en-cartagena-XY9537312) (Eluniversal.com.co)
 
 ## 23-48 (dengue)
 
-- [En Cartagena el dengue afecta más a los pobres](https://allafrica.com/stories/202312220032.html)
+- [En Cartagena el dengue afecta más a los pobres](https://www.eluniversal.com.co/cartagena/en-cartagena-el-dengue-afecta-mas-a-los-pobres-XH9559505) (Eluniversal.com.co)
 
-- [Le Bangladesh fait face à la pire épidémie de dengue jamais enregistrée dans le pays](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Le Bangladesh fait face à la pire épidémie de dengue jamais enregistrée dans le pays](https://www.lemonde.fr/planete/article/2023/12/02/le-bangladesh-fait-face-a-la-pire-epidemie-de-dengue-jamais-enregistree-dans-le-pays_6203559_3244.html) (Le Monde)
 
-- [As temperatures rise, dengue fever infections keep surging around the world](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [As temperatures rise, dengue fever infections keep surging around the world](https://www.cbc.ca/news/health/dengue-fever-climate-change-1.7043918) (CBC News)
 
-- [Stiko empfiehlt Impfstoff gegen Dengue nach vorheriger Infektion](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Stiko empfiehlt Impfstoff gegen Dengue nach vorheriger Infektion](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/stiko-empfiehlt-dengue-imfpung-nach-vorheriger-infektion-19353121.html) (Faz.net)
 
-- [Período de calor e chuva multiplica casos de dengue em Campinas; veja 15 medidas de prevenção](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Período de calor e chuva multiplica casos de dengue em Campinas; veja 15 medidas de prevenção](https://g1.globo.com/sp/campinas-regiao/noticia/2023/11/30/periodo-de-calor-e-chuva-multiplica-casos-de-dengue-em-campinas-veja-15-medidas-de-prevencao.ghtml) (Globo)
 
-- [São Paulo mobiliza população contra aedes aegypti](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [São Paulo mobiliza população contra aedes aegypti](https://brasil.perfil.com/brasil/sao-paulo-mobiliza-populacao-contra-aedes-aegypti.phtml) (Perfil.com)
 
-- [Ter tido zika aumenta o risco de dengue grave, diz estudo brasileiro](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Ter tido zika aumenta o risco de dengue grave, diz estudo brasileiro](https://www.metropoles.com/saude/zika-sobe-o-risco-de-dengue-grave) (Metropoles.com)
 
-- [Além do mosquito transmissor, o que a zika tem a ver com a dengue?](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Além do mosquito transmissor, o que a zika tem a ver com a dengue?](https://veja.abril.com.br/saude/alem-do-mosquito-transmissor-o-que-a-zika-tem-a-ver-com-a-dengue) (Abril.com.br)
 
-- [Dengue: alumnos de una escuela rural crearon un repelente con plantas nativas](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Dengue: alumnos de una escuela rural crearon un repelente con plantas nativas](https://www.lanacion.com.ar/economia/campo/dengue-alumnos-de-una-escuela-rural-crearon-un-repelente-con-plantas-nativas-nid30112023/) (La Nacion)
 
-- [Dengue : symptômes, transmission et traitements](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Dengue : symptômes, transmission et traitements](https://www.futura-sciences.com/sante/questions-reponses/infection-dengue-symptomes-transmission-traitements-19694/) (Futura)
 
-- [Dengue : davantage de cas importés cette saison, mais moins de transmissions en France métropolitaine](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Dengue : davantage de cas importés cette saison, mais moins de transmissions en France métropolitaine](https://www.lemonde.fr/planete/article/2023/11/30/dengue-davantage-de-cas-importes-cette-saison-mais-moins-de-transmissions-en-france-metropolitaine_6203192_3244.html) (Le Monde)
 
-- [Casos de dengue crescem; especialistas alertam para risco de pandemia em 2024](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Casos de dengue crescem; especialistas alertam para risco de pandemia em 2024](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-crescem-especialistas-alertam-para-risco-de-pandemia-em-2024,0e6e9599151595abb05f6ab685c0a497jvp6nnte.html) (Terra.com.br)
 
-- [Reduced dengue incidence following city-wide wMel Wolbachia mosquito releases throughout three Colombian cities: Interrupted time series analysis and a prospective case-control study](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Reduced dengue incidence following city-wide wMel Wolbachia mosquito releases throughout three Colombian cities: Interrupted time series analysis and a prospective case-control study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011713) (Plos.org)
 
-- [Large-scale releases and establishment of wMel Wolbachia in Aedes aegypti mosquitoes throughout the Cities of Bello, Medellín and Itagüí, Colombia](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Large-scale releases and establishment of wMel Wolbachia in Aedes aegypti mosquitoes throughout the Cities of Bello, Medellín and Itagüí, Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011642) (Plos.org)
 
-- [As Temperatures Rise, Dengue Fever Spreads and Cases Rise](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [As Temperatures Rise, Dengue Fever Spreads and Cases Rise](https://e360.yale.edu/features/dengue-fever-climate-change) (Yale.edu)
 
-- [शादी वाले दिन डेंगू से पीड़ित हुआ दूल्हा, बिना 'बैंड बाजा बारात' अस्पताल में ‘एक विवाह ऐसा भी’](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [शादी वाले दिन डेंगू से पीड़ित हुआ दूल्हा, बिना 'बैंड बाजा बारात' अस्पताल में ‘एक विवाह ऐसा भी’](https://hindi.moneycontrol.com/news/india/trends/delhi-man-suffered-from-dengue-married-in-hospital-meeting-hall-1630881.html) (Moneycontrol)
 
-- [2023 se convierte en el año con más casos de dengue en la década](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [2023 se convierte en el año con más casos de dengue en la década](https://www.nacion.com/ciencia/salud/2023-se-convierte-en-el-ano-con-mas-casos-de/4IUVKZDMPFFCJDEGTIXDDG2A5M/story/) (Nacion.com)
 
-- [Commentary: Singapore’s dengue problem won’t go away without a vaccine](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Commentary: Singapore’s dengue problem won’t go away without a vaccine](https://www.channelnewsasia.com/commentary/singapore-dengue-fever-vaccine-mosquitoes-fogging-3943846) (CNA)
 
-- [Tráficos trabajan entre malos olores, techos que se caen, criaderos de dengue y hasta serpientes](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Tráficos trabajan entre malos olores, techos que se caen, criaderos de dengue y hasta serpientes](https://www.nacion.com/el-pais/infraestructura/traficos-trabajan-entre-malos-olores-techos-que-se/5SZRIAXOGVEIRG6W743P4VY32A/story/) (Nacion.com)
 
-- [Dengue death toll rises to 1,615 with 5 more deaths in a day](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Dengue death toll rises to 1,615 with 5 more deaths in a day](https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-1615-5-more-deaths-day-748610) (Tbsnews.net)
 
-- [Indonesia spends 1 million USD on trials to prevent dengue spread](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [Indonesia spends 1 million USD on trials to prevent dengue spread](https://en.vietnamplus.vn/indonesia-spends-1-million-usd-on-trials-to-prevent-dengue-spread/272039.vnp) (Vietnamplus.vn)
 
-- [Alterações climáticas trazem a Portugal insetos transmissores de doenças](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [Alterações climáticas trazem a Portugal insetos transmissores de doenças](https://greensavers.sapo.pt/alteracoes-climaticas-trazem-a-portugal-insetos-transmissores-de-doencas/) (Sapo.pt)
 
-- [Yogyakarta dengue cases drop with Wolbachia-infected mosquitoes](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [Yogyakarta dengue cases drop with Wolbachia-infected mosquitoes](https://en.antaranews.com/news/299730/yogyakarta-dengue-cases-drop-with-wolbachia-infected-mosquitoes) (Antaranews.com)
 
-- [Bangladesh's dengue deaths surpass 1,600](https://tass.ru/obschestvo/19601869)
+- [Bangladesh's dengue deaths surpass 1,600](http://en.people.cn/n3/2023/1129/c90000-20103826.html) (People.cn)
 
-- [Dengue, monkeypox in the spotlight at Dewan Rakyat today](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
+- [Dengue, monkeypox in the spotlight at Dewan Rakyat today](https://www.thestar.com.my/news/nation/2023/11/29/dengue-monkeypox-in-the-spotlight-at-dewan-rakyat-today) (The Star Online)
 
-- [Número de casos de dengue em Cabo Verde sobe para 32](https://news.un.org/en/story/2023/12/1145042)
+- [Número de casos de dengue em Cabo Verde sobe para 32](https://observador.pt/2023/11/29/numero-de-casos-de-dengue-em-cabo-verde-sobe-para-32/) (Observador.pt)
 
-- [Hoy finalizó con éxito el foro “Dengue en Colombia”](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
+- [Hoy finalizó con éxito el foro “Dengue en Colombia”](https://www.eluniversal.com.co/cartagena/hoy-finalizo-con-exito-el-foro-dengue-en-colombia-YF9531881) (Eluniversal.com.co)
 
-- [Dengue is coming to Europe](https://www.jpost.com/health-and-wellness/article-778937)
+- [Dengue is coming to Europe](https://www.dw.com/en/dengue-is-coming-to-europe/a-67547788) (DW (English))
 
-- [Dengue: Govt spends Rp16 billion on Wolbachia trials](https://punchng.com/?p=1538765)
+- [Dengue: Govt spends Rp16 billion on Wolbachia trials](https://en.antaranews.com/news/299694/dengue-govt-spends-rp16-billion-on-wolbachia-trials) (Antaranews.com)
 
-- [Dengue irrumpe en Guanacaste con nuevos brotes](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport)
+- [Dengue irrumpe en Guanacaste con nuevos brotes](https://www.nacion.com/ciencia/salud/dengue-irrumpe-en-guanacaste-con-nuevos-brotes/I7EWRTYMSBGUTDQMXBGWIZCWH4/story/) (Nacion.com)
 
-- [Après le covid, la Cocom continue de traquer les maladies virales à Bruxelles: "Le mois dernier, à Bruxelles, on recensait 20 cas de tuberculose"](https://slashdot.org/firehose.pl?op=view&amp;id=172543879)
+- [Après le covid, la Cocom continue de traquer les maladies virales à Bruxelles: "Le mois dernier, à Bruxelles, on recensait 20 cas de tuberculose"](https://www.lalibre.be/planete/sante/2023/11/28/apres-le-covid-la-cocom-continue-de-traquer-les-maladies-virales-a-bruxelles-le-mois-dernier-a-bruxelles-on-recensait-20-cas-de-tuberculose-RU5M3G7D4JEWZM7HMD55FDXQVQ/) (Lalibre.be)
 
-- [Fungos da Amazônia podem ser usados no combate à dengue; entenda](https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
+- [Fungos da Amazônia podem ser usados no combate à dengue; entenda](https://olhardigital.com.br/2023/11/28/medicina-e-saude/fungos-da-amazonia-podem-ser-usados-no-combate-a-dengue-entenda/) (Olhardigital.com.br)
 
-- [Après le covid, la Cocom continue de traquer les maladies virales à Bruxelles, “le mois dernier, à Bruxelles, on recensait 20 cas de tuberculose”](https://bmjopen.bmj.com/content/13/12/e072775?rss=1)
+- [Après le covid, la Cocom continue de traquer les maladies virales à Bruxelles, “le mois dernier, à Bruxelles, on recensait 20 cas de tuberculose”](https://www.dhnet.be/regions/bruxelles/2023/11/28/apres-le-covid-la-cocom-continue-de-traquer-les-maladies-virales-a-bruxelles-le-mois-dernier-a-bruxelles-on-recensait-20-cas-de-tuberculose-TYXHS3LMABD4FLONARNVYUSPUQ/) (dh.be)
 
-- [Casos de dengue, zika e chikungunya aumentam com o calor](https://www.voanews.com/a/officials-push-to-get-kids-vaccinated-as-more-us-parents-opt-out-/7406765.html)
+- [Casos de dengue, zika e chikungunya aumentam com o calor](https://tecnologia.ig.com.br/parceiros/canaltech/2023-11-27/casos-de-dengue--zika-e-chikungunya-aumentam-com-o-calor.html) (Ig.com.br)
 
-- [Perú sufre peor embate por dengue en décadas: 440 muertos](https://english.khabarhub.com/2023/21/331544/)
+- [Perú sufre peor embate por dengue en décadas: 440 muertos](https://www.nacion.com/el-mundo/interes-humano/peru-sufre-peor-embate-por-dengue-en-decadas-440/YCD34QQRIFASXGSBXMSCX2NOYY/story/) (Nacion.com)
 
-- [Effects of human mobility on the spread of Dengue in the region of Caldas, Colombia](https://www.cbc.ca/news/canada/calgary/whooping-cough-pertussis-alberta-1.7065298)
+- [Effects of human mobility on the spread of Dengue in the region of Caldas, Colombia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011087) (Plos.org)
 
-- [A simulation-based method to inform serosurvey designs for estimating the force of infection using existing blood samples](https://punchng.com/stepping-up-the-anti-malaria-war/)
+- [A simulation-based method to inform serosurvey designs for estimating the force of infection using existing blood samples](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011666) (Plos.org)
 
-- [Profissionais de saúde alertam para ressurgimento do tipo 3 da dengue](https://www.denverpost.com/2023/12/20/colorado-measles-airport-childrens-hospital/)
+- [Profissionais de saúde alertam para ressurgimento do tipo 3 da dengue](https://noticias.r7.com/saude/profissionais-de-saude-alertam-para-ressurgimento-do-tipo-3-da-dengue-27112023) (R7.com)
 
-- [Tagum City under state of calamity over dengue outbreak](https://kdvr.com/news/health/cdphe-measles-case-confirmed-days-after-patient-flew-through-dia/)
+- [Tagum City under state of calamity over dengue outbreak](http://www.cnnphilippines.com/news/2023/11/27/tagum-city-dengue-outbreak-state-of-calamity.html) (CNN Philippines)
 
-- [Afrique de l'Ouest: Une épidémie de dengue touche toutes les régions du Burkina Faso](https://6abc.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [Afrique de l'Ouest: Une épidémie de dengue touche toutes les régions du Burkina Faso](https://fr.allafrica.com/stories/202311270231.html) (AllAfrica - Top Africa News)
 
-- [Saúde faz alerta para ressurgimento da dengue tipo 3](https://abc11.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [Saúde faz alerta para ressurgimento da dengue tipo 3](https://brasil.perfil.com/saude/saude-faz-alerta-para-ressurgimento-da-dengue-tipo-3.phtml) (Perfil.com)
 
-- [Bringt Klima Tropenfieber? [premium]](https://abc13.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
 
-- [Doenças transmitidas por mosquitos: Europa pede cautela aos países](https://abc7news.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [Doenças transmitidas por mosquitos: Europa pede cautela aos países](https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130) (Expresso.pt)
 
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://www.bangkokpost.com/opinion/opinion/2710068/a-bargain-in-saving-lives-from-malaria)
+- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
 
-- [Dissemination of Wolbachia Method is Challenging, Says Health Ministry Official](https://veja.abril.com.br/saude/apos-anos-brasil-registra-alta-em-vacinacao-e-inclui-novas-vacinas-no-pni)
+- [Dissemination of Wolbachia Method is Challenging, Says Health Ministry Official](https://en.tempo.co/read/1801527/dissemination-of-wolbachia-method-is-challenging-says-health-ministry-official) (Tempo.co)
 
 ## 23-48 (chikungunya)
 
-- [Chikungunya : Le premier vaccin sur le point d’être autorisé en Europe](https://allafrica.com/stories/202312220032.html)
+- [Chikungunya : Le premier vaccin sur le point d’être autorisé en Europe](https://www.20minutes.fr/sante/4064341-20231129-chikungunya-premier-vaccin-point-etre-autorise-europe) (20 Minutes)
 
-- [Casos de dengue, zika e chikungunya aumentam com o calor](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Casos de dengue, zika e chikungunya aumentam com o calor](https://tecnologia.ig.com.br/parceiros/canaltech/2023-11-27/casos-de-dengue--zika-e-chikungunya-aumentam-com-o-calor.html) (Ig.com.br)
 
-- [Mitochondrial protein BNIP3 regulates Chikungunya virus replication in the early stages of infection](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Mitochondrial protein BNIP3 regulates Chikungunya virus replication in the early stages of infection](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010751) (Plos.org)
 
-- [Chikungunya : le premier vaccin autorisé par les autorités sanitaires européennes](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Chikungunya : le premier vaccin autorisé par les autorités sanitaires européennes](https://www.liberation.fr/societe/sante/chikungunya-le-premier-vaccin-autorise-par-les-autorites-sanitaires-europeennes-20231127_CAT6N2CEJFGP7MXFVLYOIA2IXA/) (Libération)
 
-- [Vaccin contre le chikungunya : le feu vert de l’Europe](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Vaccin contre le chikungunya : le feu vert de l’Europe](https://www.lexpress.fr/sciences-sante/sante/vaccin-contre-le-chikungunya-le-feu-vert-de-leurope-BMGJYZ4I3JGINCANCJEVIMFSVY/) (L'Express)
 
-- [Santé. Chikungunya : l'Europe donne un avis favorable au vaccin de Valneva](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Santé. Chikungunya : l'Europe donne un avis favorable au vaccin de Valneva](https://www.ledauphine.com/sante/2023/11/27/chikungunya-l-europe-donne-un-avis-favorable-au-vaccin-de-valneva) (Le Dauphiné Libéré)
 
-- [Valneva says EU regulator accepts its chikungunya vaccine application](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Valneva says EU regulator accepts its chikungunya vaccine application](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-says-EU-regulator-accepts-its-chikungunya-vaccine-application-45439850/) (Marketscreener.com)
 
-- [Valneva: Marketing authorization application deemed admissible by the EMA](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Valneva: Marketing authorization application deemed admissible by the EMA](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Marketing-authorization-application-deemed-admissible-by-the-EMA-45439906/) (Marketscreener.com)
 
-- [EMA Accepts Valneva’s Chikungunya Vaccine Marketing Authorization Application for Accelerated Assessment](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [EMA Accepts Valneva’s Chikungunya Vaccine Marketing Authorization Application for Accelerated Assessment](https://www.globenewswire.com/news-release/2023/11/27/2785831/0/en/EMA-Accepts-Valneva-s-Chikungunya-Vaccine-Marketing-Authorization-Application-for-Accelerated-Assessment.html) (GlobeNewswire)
 
-- [L’EMA juge recevable le dossier de demande d’autorisation de mise sur le marché de Valneva pour son candidat vaccin contre le chikungunya](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [L’EMA juge recevable le dossier de demande d’autorisation de mise sur le marché de Valneva pour son candidat vaccin contre le chikungunya](https://www.globenewswire.com/news-release/2023/11/27/2785831/0/fr/L-EMA-juge-recevable-le-dossier-de-demande-d-autorisation-de-mise-sur-le-march%C3%A9-de-Valneva-pour-son-candidat-vaccin-contre-le-chikungunya.html) (GlobeNewswire)
 
 ## 23-47 (zika)
 
-- [Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laboratório](https://allafrica.com/stories/202312220032.html)
+- [Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laboratório](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/prefeitura-de-bh-solta-8000-mosquitos-aedes-aegypti-modificados-em-laboratorio-22112023) (R7.com)
 
-- [Calor e chuva podem aumentar casos de dengue no país](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Calor e chuva podem aumentar casos de dengue no país](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/calor-e-chuva-podem-aumentar-casos-de-dengue-no-pais-21112023) (R7.com)
 
-- [EDIII-Fc induces protective immune responses against the Zika virus in mice and rhesus macaque](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [EDIII-Fc induces protective immune responses against the Zika virus in mice and rhesus macaque](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011770) (Plos.org)
 
-- [Tijgermug is gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Tijgermug is gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'](https://www.nu.nl/dieren/6290510/tijgermug-is-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html) (Www.nu.nl)
 
-- [Tijgermug gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Tijgermug gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'](https://www.nu.nl/dieren/6290510/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html) (Www.nu.nl)
 
-- [Ausbreitung der Tigermücke soll verhindert werden](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
 
 ## 23-47 (typhoid)
 
-- [Will Gang War Divide Like Civil War Did? Amazing Spider-Man Spoilers](https://allafrica.com/stories/202312220032.html)
+- [Will Gang War Divide Like Civil War Did? Amazing Spider-Man Spoilers](https://bleedingcool.com/comics/will-gang-war-divide-like-civil-war-did-amazing-spider-man-spoilers/) (Bleeding Cool News)
 
 ## 23-47 (rabies)
 
-- [Sandra Tabet’s Horror Film ‘Rabies’ Explores the Apocalyptic Setting of 1990s Post-Civil War Beirut](https://allafrica.com/stories/202312220032.html)
+- [Sandra Tabet’s Horror Film ‘Rabies’ Explores the Apocalyptic Setting of 1990s Post-Civil War Beirut](https://variety.com/2023/film/global/sandra-tabet-rabies-atlas-workshops-1235808443/) (Variety)
 
-- [IIL launches measles, rubella vaccine for children](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [IIL launches measles, rubella vaccine for children](https://www.thehindubusinessline.com/news/iil-launches-measles-rubella-vaccine-for-children/article67572973.ece) (BusinessLine)
 
-- [Dog Killed By Locals After Biting 29 People In Chennai Found With Rabies](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Dog Killed By Locals After Biting 29 People In Chennai Found With Rabies](https://www.ndtv.com/chennai-news/dog-killed-by-locals-after-biting-29-people-in-chennais-royapuram-found-with-rabies-4604740) (NDTV News)
 
-- [Rabies Vaccine Market to Reach $ 1903.17 million by 2032, exhibiting a CAGR of 4.7% from 2023 to 2032: Allied Market Research](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Rabies Vaccine Market to Reach $ 1903.17 million by 2032, exhibiting a CAGR of 4.7% from 2023 to 2032: Allied Market Research](https://www.prnewswire.co.uk/news-releases/rabies-vaccine-market-to-reach--1903-17-million-by-2032--exhibiting-a-cagr-of-4-7-from-2023-to-2032-allied-market-research-301996966.html) (PR Newswire UK)
 
-- [BNPB ready to form task force for rabies emergency handling](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [BNPB ready to form task force for rabies emergency handling](https://en.antaranews.com/news/299229/bnpb-ready-to-form-task-force-for-rabies-emergency-handling) (Antaranews.com)
 
-- [Curbing rabies in Sarawak an uphill battle, state assembly hears](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Curbing rabies in Sarawak an uphill battle, state assembly hears](https://www.thestar.com.my/news/nation/2023/11/22/curbing-rabies-in-sarawak-an-uphill-battle-state-assembly-hears) (The Star Online)
 
-- [Targeting over 70% rabies vaccination coverage in NTT: Effendy](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Targeting over 70% rabies vaccination coverage in NTT: Effendy](https://en.antaranews.com/news/299178/targeting-over-70-rabies-vaccination-coverage-in-ntt-effendy) (Antaranews.com)
 
-- [BNPB to form rabies task force in NTT soon: minister](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [BNPB to form rabies task force in NTT soon: minister](https://en.antaranews.com/news/299142/bnpb-to-form-rabies-task-force-in-ntt-soon-minister) (Antaranews.com)
 
 ## 23-47 (pertussis)
 
-- [I Agree with Dr. Vinay Prasad: It’s Entirely Predictable That More Parents Don’t Want Routine Vaccination for Their Kids](https://allafrica.com/stories/202312220032.html)
+- [I Agree with Dr. Vinay Prasad: It’s Entirely Predictable That More Parents Don’t Want Routine Vaccination for Their Kids](https://sciencebasedmedicine.org/predictable/) (Sciencebasedmedicine.org)
 
-- [«Кашель на сто дней»: Инфекционист Поздняков рассказал, как распознать коклюш и чем он опасен](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [«Кашель на сто дней»: Инфекционист Поздняков рассказал, как распознать коклюш и чем он опасен](https://health.mail.ru/news/kashel_na_sto_dney_infektsionist_pozdnyakov/) (Mail.ru)
 
-- [В Минздраве РФ заявили о доступности вакцины от коклюша во всех регионах](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [В Минздраве РФ заявили о доступности вакцины от коклюша во всех регионах](https://iz.ru/1608754/2023-11-21/v-minzdrave-rf-zaiavili-o-dostupnosti-vaktciny-ot-kokliusha-vo-vsekh-regionakh) (Iz.ru)
 
-- ["Кашель на сто дней": Инфекционист Поздняков рассказал, как распознать коклюш и чем он опасен](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- ["Кашель на сто дней": Инфекционист Поздняков рассказал, как распознать коклюш и чем он опасен](https://rg.ru/2023/11/21/kashel-na-sto-dnej-infekcionist-pozdniakov-rasskazal-kak-raspoznat-kokliush-i-chem-on-opasen.html) (Rg.ru)
 
-- [В Минздраве объяснили причины вспышки коклюша в ряде регионов](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [В Минздраве объяснили причины вспышки коклюша в ряде регионов](https://rg.ru/2023/11/21/v-minzdrave-obiasnili-prichiny-vspyshki-kokliusha-v-riade-regionov.html) (Rg.ru)
 
-- [Врач рассказала о симптомах коклюша](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Врач рассказала о симптомах коклюша](https://iz.ru/1608218/2023-11-21/vrach-rasskazala-o-simptomakh-kokliusha) (Iz.ru)
 
 ## 23-47 (mpox)
 
-- [В ВОЗ сообщили о выявлении почти 92 тыс. случаев оспы обезьян в мире с января 2022 года](https://allafrica.com/stories/202312220032.html)
+- [В ВОЗ сообщили о выявлении почти 92 тыс. случаев оспы обезьян в мире с января 2022 года](https://tass.ru/obschestvo/19380103) (Tass.ru)
 
-- [République démocratique du Congo : 581 morts de mpox depuis janvier, nombre de cas record sur une année](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [République démocratique du Congo : 581 morts de mpox depuis janvier, nombre de cas record sur une année](https://www.francetvinfo.fr/monde/afrique/republique-democratique-du-congo/republique-democratique-du-congo-581-morts-de-mpox-depuis-janvier-nombre-de-cas-record-sur-une-annee_6206199.html) (Francetvinfo.fr)
 
-- [WHO raises the alarm on mpox in DR Congo](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [WHO raises the alarm on mpox in DR Congo](https://punchng.com/who-raises-the-alarm-on-mpox-in-dr-congo/) (The Punch)
 
-- [Global Mpox Outbreak Risk Escalates As Potent Strain Spreads In Congo](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Global Mpox Outbreak Risk Escalates As Potent Strain Spreads In Congo](https://www.ndtv.com/world-news/global-mpox-outbreak-risk-escalates-as-potent-strain-spreads-in-congo-4605352) (NDTV News)
 
-- [Explained: What Is Mpox? UN Confirms Sexual Spread Of The Desease In Congo](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Explained: What Is Mpox? UN Confirms Sexual Spread Of The Desease In Congo](https://www.ndtv.com/world-news/explained-what-is-mpox-un-confirms-sexual-spread-of-the-desease-in-congo-4605279) (NDTV News)
 
-- [UN confirms sexual spread of mpox in Congo for the 1st time - ABC News](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [UN confirms sexual spread of mpox in Congo for the 1st time - ABC News](https://slashdot.org/firehose.pl?op=view&amp;id=172302353) (Slashdot.org)
 
-- [WHO Confirms First Sexual Spread of Mpox in Congo Amid Record Outbreak](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [WHO Confirms First Sexual Spread of Mpox in Congo Amid Record Outbreak](https://www.voanews.com/a/who-confirms-first-sexual-spread-of-mpox-in-congo-amid-record-outbreak/7369344.html) (VOA News)
 
-- [UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - ABC News](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - ABC News](https://slashdot.org/firehose.pl?op=view&amp;id=172301071) (Slashdot.org)
 
-- [UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - Yahoo News](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - Yahoo News](https://slashdot.org/firehose.pl?op=view&amp;id=172300095) (Slashdot.org)
 
-- [Viruses: Their infection tactics determine if they can jump species or set off a pandemic](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Viruses: Their infection tactics determine if they can jump species or set off a pandemic](https://www.rawstory.com/viruses-their-infection-tactics-determine-whether-they-can-jump-species-or-set-off-a-pand/) (Raw Story)
 
-- [UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak](https://abcnews.go.com/Health/wireStory/confirms-sexual-spread-mpox-congo-1st-time-country-105134362) (ABC News)
 
-- [Ministry confirms mpox not cause of patient's death at RSCM](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Ministry confirms mpox not cause of patient's death at RSCM](https://en.antaranews.com/news/299301/ministry-confirms-mpox-not-cause-of-patients-death-at-rscm) (Antaranews.com)
 
-- [Africa: How Do Viruses Get Into Cells? Their Infection Tactics Determine Whether They Can Jump Species or Set Off a Pandemic](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Africa: How Do Viruses Get Into Cells? Their Infection Tactics Determine Whether They Can Jump Species or Set Off a Pandemic](https://allafrica.com/stories/202311230016.html) (AllAfrica - Top Africa News)
 
-- [Uptick in mpox cases raises concerns in San Diego County](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Uptick in mpox cases raises concerns in San Diego County](https://www.kpbs.org/news/health/2023/11/22/uptick-in-mpox-cases-raises-concerns-in-san-diego-county) (KPBS)
 
-- [Jakarta administers second dose of monkeypox vaccine](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Jakarta administers second dose of monkeypox vaccine](https://en.antaranews.com/news/299238/jakarta-administers-second-dose-of-monkeypox-vaccine) (Antaranews.com)
 
-- [First case of mpox detected in Canyon County, health officials start investigation](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [First case of mpox detected in Canyon County, health officials start investigation](https://idahonews.com/news/local/first-case-of-mpox-detected-in-canyon-county-health-officials-start-investigation) (Idaho News)
 
-- [How do viruses get into cells? Their infection tactics determine whether they can jump species or set off a pandemic](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [How do viruses get into cells? Their infection tactics determine whether they can jump species or set off a pandemic](https://phys.org/news/2023-11-viruses-cells-infection-tactics-species.html) (Phys.Org)
 
-- [Mpox cases detected in five provinces: Health Ministry](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Mpox cases detected in five provinces: Health Ministry](https://en.antaranews.com/news/299196/mpox-cases-detected-in-five-provinces-health-ministry) (Antaranews.com)
 
-- [How do viruses get into cells? Their infection tactics determine whether they can jump species or set off a pandemic](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [How do viruses get into cells? Their infection tactics determine whether they can jump species or set off a pandemic](https://theconversation.com/how-do-viruses-get-into-cells-their-infection-tactics-determine-whether-they-can-jump-species-or-set-off-a-pandemic-216139) (The Conversation Africa)
 
 ## 23-47 (measles)
 
-- [IIL launches measles, rubella vaccine for children](https://allafrica.com/stories/202312220032.html)
+- [IIL launches measles, rubella vaccine for children](https://www.thehindubusinessline.com/news/iil-launches-measles-rubella-vaccine-for-children/article67572973.ece) (BusinessLine)
 
-- [I Agree with Dr. Vinay Prasad: It’s Entirely Predictable That More Parents Don’t Want Routine Vaccination for Their Kids](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [I Agree with Dr. Vinay Prasad: It’s Entirely Predictable That More Parents Don’t Want Routine Vaccination for Their Kids](https://sciencebasedmedicine.org/predictable/) (Sciencebasedmedicine.org)
 
-- [TWiV 1064: Clinical update with Dr. Daniel Griffin](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [TWiV 1064: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1064/) (Microbe.tv)
 
-- [Sheffield health officials warn of measles outbreak in city](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Sheffield health officials warn of measles outbreak in city](https://www.bbc.co.uk/news/uk-england-south-yorkshire-67503830) (BBC News)
 
-- [Sheffield health officials warn of measles outbreak in city](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Sheffield health officials warn of measles outbreak in city](https://www.bbc.com/news/uk-england-south-yorkshire-67503830) (BBC News)
 
-- [Health system barriers to timely routine measles vaccinations in rural southwest China: a qualitative study on the perspectives of township vaccination professionals and village doctors](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Health system barriers to timely routine measles vaccinations in rural southwest China: a qualitative study on the perspectives of township vaccination professionals and village doctors](https://bmjopen.bmj.com/content/13/11/e072990?rss=1) (The BMJ)
 
-- [Watch for measles, UK doctors told, as vaccine rate dips](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Watch for measles, UK doctors told, as vaccine rate dips](https://www.bbc.co.uk/news/health-67485037) (BBC News)
 
-- [Measles: Royal college issues updated guidance as outbreaks loom](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Measles: Royal college issues updated guidance as outbreaks loom](https://www.bmj.com/content/383/bmj.p2736) (The BMJ)
 
-- [Unicef - 10 Mln Vaccine Doses Land in Port Sudan](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Unicef - 10 Mln Vaccine Doses Land in Port Sudan](https://allafrica.com/stories/202311210072.html) (AllAfrica - Top Africa News)
 
-- [Measles warning amid 'devastating resurgence' in UK of life-threatening diseases](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Measles warning amid 'devastating resurgence' in UK of life-threatening diseases](https://news.sky.com/story/measles-warning-amid-devastating-resurgence-of-life-threatening-diseases-as-vaccination-rates-miss-targets-13012372) (Sky.com)
 
-- [Measles cases and deaths are increasing worldwide, say WHO and CDC](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Measles cases and deaths are increasing worldwide, say WHO and CDC](https://www.bmj.com/content/383/bmj.p2733) (The BMJ)
 
 ## 23-47 (malaria)
 
-- [$199 Bose Q45s, Bonus on Delta Gift Card, Cruise Stuff Sale, Mistakes Guests Make and Malaria from a Cruise?](https://allafrica.com/stories/202312220032.html)
+- [$199 Bose Q45s, Bonus on Delta Gift Card, Cruise Stuff Sale, Mistakes Guests Make and Malaria from a Cruise?](https://frequentfloaters.com/199-bose-q45s-bonus-on-delta-gift-card-cruise-stuff-sale-mistakes-guests-make-and-malaria-from-a-cruise/) (Frequentfloaters.com)
 
-- [Protective measures, causes and symptoms to look out for if traveling to a place where malaria is common](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Protective measures, causes and symptoms to look out for if traveling to a place where malaria is common](https://www.foxnews.com/lifestyle/signs-symptoms-causes-malaria) (Fox News)
 
-- [Surgió en Perú y se unió en la India con un holandés: Gin&Tonic](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Surgió en Perú y se unió en la India con un holandés: Gin&Tonic](https://www.elfinanciero.com.mx/opinion/sonya-santos/2023/11/24/surgio-en-peru-y-se-unio-en-la-india-con-un-holandes-gintonic/) (El Financiero)
 
-- [Men and Boys in Uganda Work to Stop Cycles of Gender-Based Violence](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Men and Boys in Uganda Work to Stop Cycles of Gender-Based Violence](https://allafrica.com/stories/202311240020.html) (AllAfrica - Top Africa News)
 
-- [Reps probe N62bn HIV/AIDS fund](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Reps probe N62bn HIV/AIDS fund](https://punchng.com/reps-probe-n62bn-hiv-aids-fund/) (The Punch)
 
-- [Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Global Artemisinin Combination Therapy Market (2022-2027): An Artemisinin-Based Combination of Multiple Medicines That Are Matched in Terms of Half-Life Might Be the Future of Malaria Treatment](https://www.globenewswire.com/news-release/2023/11/23/2785323/28124/en/Global-Artemisinin-Combination-Therapy-Market-2022-2027-An-Artemisinin-Based-Combination-of-Multiple-Medicines-That-Are-Matched-in-Terms-of-Half-Life-Might-Be-the-Future-of-Malaria.html) (GlobeNewswire)
 
-- [Nigeria: Pneumonia, Malaria, Diarrhoea, Major Causes of Infant Mortality - Expert](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Nigeria: Pneumonia, Malaria, Diarrhoea, Major Causes of Infant Mortality - Expert](https://allafrica.com/stories/202311230372.html) (AllAfrica - Top Africa News)
 
-- [First Malaria Vaccines Arrive Tonight](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [First Malaria Vaccines Arrive Tonight](https://allafrica.com/stories/202311230360.html) (AllAfrica - Top Africa News)
 
-- [Africa: Malaria Vaccine Shipments to Africa Mark Progress Toward Broader Rollout](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Africa: Malaria Vaccine Shipments to Africa Mark Progress Toward Broader Rollout](https://allafrica.com/stories/202311230031.html) (AllAfrica - Top Africa News)
 
-- [Africa: Shipments to African Countries Herald Final Steps Toward Broader Vaccination Against Malaria](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Africa: Shipments to African Countries Herald Final Steps Toward Broader Vaccination Against Malaria](https://allafrica.com/stories/202311230019.html) (AllAfrica - Top Africa News)
 
-- [Shipments to African countries herald final steps toward broader vaccination against malaria: Gavi, WHO and UNICEF](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Shipments to African countries herald final steps toward broader vaccination against malaria: Gavi, WHO and UNICEF](https://www.who.int/news/item/22-11-2023-shipments-to-african-countries-herald-final-steps-toward-broader-vaccination-against-malaria--gavi--who-and-unicef) (World Health Organization)
 
-- [EYE ON AFRICA | Malaria vaccines set for broader rollout in Africa](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [EYE ON AFRICA | Malaria vaccines set for broader rollout in Africa](https://www.france24.com/en/tv-shows/eye-on-africa/20231122-eye-on-africa-malaria-vaccines-set-for-broader-rollout-in-africa) (FRANCE 24 English)
 
-- [In Africa, Rollout Of Life-Saving Malaria Vaccines Accelerates](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [In Africa, Rollout Of Life-Saving Malaria Vaccines Accelerates](https://www.forbes.com/sites/joshuacohen/2023/11/22/in-africa-rollout-of-life-saving-malaria-vaccines-accelerates/) (Forbes)
 
-- [Parte la prima grande campagna di vaccini contro la malaria in Africa](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Parte la prima grande campagna di vaccini contro la malaria in Africa](https://www.corriere.it/esteri/23_novembre_22/parte-prima-grande-campagna-vaccini-contro-malaria-africa-93ffb7a0-894a-11ee-8f3e-c26e333d742e.shtml) (Corriere.it)
 
-- [In Afrika startet großangelegte Impfkampagne gegen Malaria](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [In Afrika startet großangelegte Impfkampagne gegen Malaria](https://www.dw.com/de/in-afrika-startet-gro%C3%9Fangelegte-impfkampagne-gegen-malaria/a-67525189) (DW (English))
 
-- [Malaria: al via le vaccinazioni in Africa, prime dosi consegnate in Camerun](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Malaria: al via le vaccinazioni in Africa, prime dosi consegnate in Camerun](https://www.corriere.it/salute/malattie_infettive/23_novembre_22/malaria-via-vaccinazioni-africa-prime-dosi-consegnate-camerun-17e4668c-8951-11ee-8f3e-c26e333d742e.shtml) (Corriere.it)
 
-- [New Study Links 'Super Mosquitoes' To Rising Malaria Rates In Africa](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [New Study Links 'Super Mosquitoes' To Rising Malaria Rates In Africa](https://www.ndtv.com/science/new-study-links-super-mosquitoes-to-rising-malaria-rates-in-africa-4597933) (NDTV News)
 
-- [Kameroen ontvangt als eerste land malariavaccin Mosquirix](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Kameroen ontvangt als eerste land malariavaccin Mosquirix](https://www.nu.nl/buitenland/6290845/kameroen-ontvangt-als-eerste-land-malariavaccin-mosquirix.html) (Www.nu.nl)
 
-- [Kameroen ontvangt na jarenlang testen als eerste Afrikaanse land malariavaccin](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Kameroen ontvangt na jarenlang testen als eerste Afrikaanse land malariavaccin](https://nos.nl/l/2498829) (Nos.nl)
 
-- [World News in Brief: DPR Korea missile launch condemned, malaria vaccines for Cameroon, solidarity with Haiti](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [World News in Brief: DPR Korea missile launch condemned, malaria vaccines for Cameroon, solidarity with Haiti](https://news.un.org/en/story/2023/11/1143862) (UN News)
 
-- [World Bank and Global Fund: Stronger Collaboration to Tackle the Impact of Climate Change on Health](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [World Bank and Global Fund: Stronger Collaboration to Tackle the Impact of Climate Change on Health](https://www.worldbank.org/en/news/press-release/2023/11/22/world-bank-and-global-fund-stronger-collaboration-to-tackle-the-impact-of-climate-change-on-health) (World Bank Group)
 
-- [Africa: Groundbreaking Malaria Vaccines Developed, but Challenges Remain](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [Africa: Groundbreaking Malaria Vaccines Developed, but Challenges Remain](https://allafrica.com/stories/202311220001.html) (AllAfrica - Top Africa News)
 
-- [Deadly mosquito species now in Kenya](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [Deadly mosquito species now in Kenya](https://nation.africa/kenya/health/deadly-mosquito-species-now-in-kenya-4441140) (Nation.africa)
 
-- [Lionel Messi y la cuenta pendiente que tiene contra Brasil](https://tass.ru/obschestvo/19601869)
+- [Lionel Messi y la cuenta pendiente que tiene contra Brasil](https://www.record.com.mx/futbol-futbol-internacional-internacionales/lionel-messi-y-la-cuenta-pendiente-que-tiene-contra) (Record.com.mx)
 
-- [Protein kinase PfPK2 mediated signalling is critical for host erythrocyte invasion by malaria parasite](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
+- [Protein kinase PfPK2 mediated signalling is critical for host erythrocyte invasion by malaria parasite](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011770) (Plos.org)
 
-- [Malaria: two groundbreaking vaccines have been developed, but access and rollout are still big stumbling blocks](https://news.un.org/en/story/2023/12/1145042)
+- [Malaria: two groundbreaking vaccines have been developed, but access and rollout are still big stumbling blocks](https://theconversation.com/malaria-two-groundbreaking-vaccines-have-been-developed-but-access-and-rollout-are-still-big-stumbling-blocks-217146) (The Conversation Africa)
 
-- [Le ragazze degli algoritmi](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
+- [Le ragazze degli algoritmi](https://www.internazionale.it/notizie/anna-franchin/2023/11/21/ragazze-algoritmi-africa) (Internazionale.it)
 
-- [SAF-RSF Jebel Aulia Clashes Intensify, North Darfur Dengue Fever and Malaria Cases Surge](https://www.jpost.com/health-and-wellness/article-778937)
+- [SAF-RSF Jebel Aulia Clashes Intensify, North Darfur Dengue Fever and Malaria Cases Surge](https://allafrica.com/stories/202311210073.html) (AllAfrica - Top Africa News)
 
-- [Tanzania: Battle Against Malaria Gets Further Boost](https://punchng.com/?p=1538765)
+- [Tanzania: Battle Against Malaria Gets Further Boost](https://allafrica.com/stories/202311210062.html) (AllAfrica - Top Africa News)
 
-- [Why pregnant women, children with untreated malaria risk death](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport)
+- [Why pregnant women, children with untreated malaria risk death](https://punchng.com/why-pregnant-women-children-with-untreated-malaria-risk-death/) (The Punch)
 
-- [Trouw | De hoofdluis brengt de menselijke migratie goed in beeld](https://slashdot.org/firehose.pl?op=view&amp;id=172543879)
+- [Trouw | De hoofdluis brengt de menselijke migratie goed in beeld](https://www.nu.nl/uit-andere-media/6290486/de-hoofdluis-brengt-de-menselijke-migratie-goed-in-beeld.html) (Www.nu.nl)
 
-- [New approaches in the fight against drug resistance in malaria](https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
+- [New approaches in the fight against drug resistance in malaria](https://www.sciencedaily.com/releases/2023/11/231120124152.htm) (Science Daily)
 
-- [Antibiotic resistance causes more deaths than malaria and HIV/Aids combined. What Africa is doing to fight this silent epidemic](https://bmjopen.bmj.com/content/13/12/e072775?rss=1)
+- [Antibiotic resistance causes more deaths than malaria and HIV/Aids combined. What Africa is doing to fight this silent epidemic](https://theconversation.com/antibiotic-resistance-causes-more-deaths-than-malaria-and-hiv-aids-combined-what-africa-is-doing-to-fight-this-silent-epidemic-217689) (The Conversation Africa)
 
-- [استفاده از مایع ظرفشویی برای مبارزه با مالاریا!](https://www.voanews.com/a/officials-push-to-get-kids-vaccinated-as-more-us-parents-opt-out-/7406765.html)
+- [استفاده از مایع ظرفشویی برای مبارزه با مالاریا!](https://www.isna.ir/news/1402082921234/استفاده-از-مایع-ظرفشویی-برای-مبارزه-با-مالاریا) (Isna.ir)
 
-- [Catching Yellow Fever or Malaria on a Caribbean Cruise???](https://english.khabarhub.com/2023/21/331544/)
+- [Catching Yellow Fever or Malaria on a Caribbean Cruise???](https://frequentfloaters.com/catching-yellow-fever-or-malaria-on-a-caribbean-cruise/) (Frequentfloaters.com)
 
-- [Los pesticidas anti mosquitos son 10 veces más efectivos cuando se combinan con pequeñas cantidades de jabón](https://www.cbc.ca/news/canada/calgary/whooping-cough-pertussis-alberta-1.7065298)
+- [Los pesticidas anti mosquitos son 10 veces más efectivos cuando se combinan con pequeñas cantidades de jabón](https://www.infosalus.com/salud-investigacion/noticia-pesticidas-anti-mosquitos-son-10-veces-mas-efectivos-cuando-combinan-pequenas-cantidades-jabon-20231120070347.html) (Infosalus.com)
 
-- [Malaria Prevalent in Southern Province - Report](https://punchng.com/stepping-up-the-anti-malaria-war/)
+- [Malaria Prevalent in Southern Province - Report](https://allafrica.com/stories/202311190024.html) (AllAfrica - Top Africa News)
 
 ## 23-47 (leptospirosis)
 
-- [Leptospirosis vaccine for dogs voluntarily recalled following 'adverse reactions', including one death](https://allafrica.com/stories/202312220032.html)
+- [Leptospirosis vaccine for dogs voluntarily recalled following 'adverse reactions', including one death](https://www.abc.net.au/news/2023-11-23/voluntary-recall-leptospirosis-vaccine-dogs-adverse-reactions/103141524) (ABC News (AU))
 
-- [Dengue y Leptospirosis en la mira: Dadis intensifica campaña de concientización](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Dengue y Leptospirosis en la mira: Dadis intensifica campaña de concientización](https://www.eluniversal.com.co/cartagena/dengue-y-leptospirosis-en-la-mira-dadis-intensifica-campana-de-concientizacion-HI9486229) (Eluniversal.com.co)
 
-- [Impaired functions of human monocyte-derived dendritic cells and induction of regulatory T cells by pathogenic Leptospira](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Impaired functions of human monocyte-derived dendritic cells and induction of regulatory T cells by pathogenic Leptospira](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011781) (Plos.org)
 
 ## 23-47 (dengue)
 
-- [Kemenkes Targetkan Sebar Nyamuk Wolbachia untuk Berantas DBD Secara Nasional](https://allafrica.com/stories/202312220032.html)
+- [Kemenkes Targetkan Sebar Nyamuk Wolbachia untuk Berantas DBD Secara Nasional](https://health.detik.com/berita-detikhealth/d-7056310/kemenkes-targetkan-sebar-nyamuk-wolbachia-untuk-berantas-dbd-secara-nasional) (Detik.com)
 
-- [Disseminating information on Wolbachia method a challenge: official](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Disseminating information on Wolbachia method a challenge: official](https://en.antaranews.com/news/299490/disseminating-information-on-wolbachia-method-a-challenge-official) (Antaranews.com)
 
-- [Climate change pushes dengue into new frontiers across India](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Climate change pushes dengue into new frontiers across India](https://statetimes.in/climate-change-pushes-dengue-into-new-frontiers-across-india/) (Statetimes.in)
 
-- [Hospitalizaciones por dengue se disparan durante primeros 10 meses del 2023](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Hospitalizaciones por dengue se disparan durante primeros 10 meses del 2023](https://www.nacion.com/ciencia/salud/hospitalizaciones-por-dengue-se-disparan-durante/RRIR5NLNS5BKTIBM3MFB7VQTTI/story/) (Nacion.com)
 
-- [Climate change pushes dengue into new frontiers across India](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Climate change pushes dengue into new frontiers across India](https://timesofindia.indiatimes.com/india/climate-change-pushes-dengue-into-new-frontiers-across-india/articleshow/105495534.cms) (The Times of India)
 
-- [No seat-sharing talks yet among Maharashtra's ruling parties for upcoming polls: Ajit Pawar](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [No seat-sharing talks yet among Maharashtra's ruling parties for upcoming polls: Ajit Pawar](https://economictimes.indiatimes.com/news/politics-and-nation/no-seat-sharing-talks-yet-among-maharashtras-ruling-parties-for-upcoming-polls-ajit-pawar/articleshow/105492847.cms) (The Times of India)
 
-- [‘പനി വന്നാല്‍ ഒരിക്കലും സ്വയം ചികിത്സയ്ക്കു മുതിരരുത്’; ഡെങ്കിപ്പനി, ഈ ലക്ഷണങ്ങൾ സൂക്ഷിക്കണം! | Dengue fever | health](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [‘പനി വന്നാല്‍ ഒരിക്കലും സ്വയം ചികിത്സയ്ക്കു മുതിരരുത്’; ഡെങ്കിപ്പനി, ഈ ലക്ഷണങ്ങൾ സൂക്ഷിക്കണം! | Dengue fever | health](https://www.vanitha.in/glam-up/health-news/dengue-fever-related-symptoms-and-alerts-health-news-report.html) (Vanitha.in)
 
-- [Médico de hospital particular menosprezou estado de saúde de menina morta por dengue no DF: “Ela tem é dengo”](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Médico de hospital particular menosprezou estado de saúde de menina morta por dengue no DF: “Ela tem é dengo”](https://www.pragmatismopolitico.com.br/2023/11/medico-de-hospital-particular-menosprezou-estado-de-saude-de-menina-morta-por-dengue-no-df-ela-tem-e-dengo.html) (Pragmatismopolitico.com.br)
 
-- [Casos de dengue aumentam no calor: vacina é a melhor forma de prevenção](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Casos de dengue aumentam no calor: vacina é a melhor forma de prevenção](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-aumentam-no-calor-vacina-e-a-melhor-forma-de-prevencao,8f3bd1dff9d704d826715fc5e7adcd5fb75ljcmb.html) (Terra.com.br)
 
-- [Criança que morreu de dengue teria sido chamada de 'dengosa' por médico](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Criança que morreu de dengue teria sido chamada de 'dengosa' por médico](https://www.terra.com.br/vida-e-estilo/saude/crianca-que-morreu-de-dengue-teria-sido-chamada-de-dengosa-por-medico,58852aeb1deabef1dd146b8d10d038a8i7xxooes.html) (Terra.com.br)
 
-- [Dengue death toll rises to 1,583 with 6 more deaths reported Friday](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Dengue death toll rises to 1,583 with 6 more deaths reported Friday](https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-1583-6-more-deaths-reported-friday-745590) (Tbsnews.net)
 
-- [Indonesia's Health Ministry warns against Wolbachia hoaxes](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Indonesia's Health Ministry warns against Wolbachia hoaxes](https://en.antaranews.com/news/299424/indonesias-health-ministry-warns-against-wolbachia-hoaxes) (Antaranews.com)
 
-- [Após recorde em 2022, Brasil bate mil mortes de dengue novamente](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Após recorde em 2022, Brasil bate mil mortes de dengue novamente](https://veja.abril.com.br/saude/apos-recorde-em-2022-brasil-bate-mil-mortes-de-dengue-novamente) (Abril.com.br)
 
-- [Criança de sete anos pode ter sido segunda vítima de dengue hemorrágica no DF neste ano](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Criança de sete anos pode ter sido segunda vítima de dengue hemorrágica no DF neste ano](https://noticias.r7.com/brasilia/crianca-de-sete-anos-pode-ter-sido-segunda-vitima-de-dengue-hemorragica-no-df-neste-ano-23112023) (R7.com)
 
-- [Immunizing the World Against Dengue: Global Dengue Vaccine Market Outlook & Forecast, 2023-2030 | Market Study by RationalStat](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Immunizing the World Against Dengue: Global Dengue Vaccine Market Outlook & Forecast, 2023-2030 | Market Study by RationalStat](https://www.globenewswire.com/news-release/2023/11/23/2785256/0/en/Immunizing-the-World-Against-Dengue-Global-Dengue-Vaccine-Market-Outlook-Forecast-2023-2030-Market-Study-by-RationalStat.html) (GlobeNewswire)
 
-- [Quais são os sintomas da dengue e como é o combate à doença?](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Quais são os sintomas da dengue e como é o combate à doença?](https://olhardigital.com.br/2023/11/23/medicina-e-saude/quais-sao-os-sintomas-da-dengue-e-como-e-o-combate-a-doenca/) (Olhardigital.com.br)
 
-- [Actress Bhumi Pednekar urges fans to stay safe amid dengue recovery](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Actress Bhumi Pednekar urges fans to stay safe amid dengue recovery](https://economictimes.indiatimes.com/magazines/panache/actress-bhumi-pednekar-urges-fans-to-stay-safe-amid-dengue-recovery/articleshow/105431092.cms) (The Times of India)
 
-- [SP tem quatro casos de dengue tipo 3, sem circulação há 15 anos](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [SP tem quatro casos de dengue tipo 3, sem circulação há 15 anos](https://brasil.perfil.com/saude/sp-tem-quatro-casos-de-dengue-tipo-3-sem-circulacao-ha-15-anos-2.phtml) (Perfil.com)
 
-- [Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laboratório](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laboratório](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/prefeitura-de-bh-solta-8000-mosquitos-aedes-aegypti-modificados-em-laboratorio-22112023) (R7.com)
 
-- [Worst ever dengue outbreak in Bangladesh](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Worst ever dengue outbreak in Bangladesh](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/bangladesh-undergoing-the-worst-ever-dengue-outbreak-key-points/photostory/105409896.cms) (The Times of India)
 
-- [Burkina Faso: Epidémie de dengue - Au coeur des épicentres](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [Burkina Faso: Epidémie de dengue - Au coeur des épicentres](https://fr.allafrica.com/stories/202311220196.html) (AllAfrica - Top Africa News)
 
-- [Bhumi Pednekar Shares Selfies From Hospital After Recovering From Dengue](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [Bhumi Pednekar Shares Selfies From Hospital After Recovering From Dengue](https://www.ndtv.com/entertainment/bhumi-pednekar-shares-selfies-from-hospital-after-recovering-from-dengue-4595857) (NDTV News)
 
-- [Bhumi shares PICS from hospital](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [Bhumi shares PICS from hospital](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bhumi-pednekar-shares-shes-been-hospitalised-urges-people-to-be-careful-says-last-few-days-were-tough/articleshow/105409490.cms) (The Times of India)
 
-- [Dengue y Leptospirosis en la mira: Dadis intensifica campaña de concientización](https://tass.ru/obschestvo/19601869)
+- [Dengue y Leptospirosis en la mira: Dadis intensifica campaña de concientización](https://www.eluniversal.com.co/cartagena/dengue-y-leptospirosis-en-la-mira-dadis-intensifica-campana-de-concientizacion-HI9486229) (Eluniversal.com.co)
 
-- [Health professionals’ knowledge on dengue and health facility preparedness for case detection: A cross-sectional study in Dar es Salaam, Tanzania](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
+- [Health professionals’ knowledge on dengue and health facility preparedness for case detection: A cross-sectional study in Dar es Salaam, Tanzania](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011761) (Plos.org)
 
-- [Empresária faz alerta após ser infectada quatro vezes com dengue](https://news.un.org/en/story/2023/12/1145042)
+- [Empresária faz alerta após ser infectada quatro vezes com dengue](https://recordtv.r7.com/hoje-em-dia/videos/empresaria-faz-alerta-apos-ser-infectada-quatro-vezes-com-dengue-21112023) (R7.com)
 
-- [À Bali, les habitants ne veulent pas du moustique expérimental antidengue sur leur île](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
+- [À Bali, les habitants ne veulent pas du moustique expérimental antidengue sur leur île](https://www.courrierinternational.com/article/indonesie-a-bali-les-habitants-ne-veulent-pas-du-moustique-experimental-antidengue-sur-leur-ile) (Courrier International)
 
-- [Kasus DBD di Kota Pontianak Meningkat, Zulfydar Zaidar Minta Pemerintah Segera Bertindak](https://www.jpost.com/health-and-wellness/article-778937)
+- [Kasus DBD di Kota Pontianak Meningkat, Zulfydar Zaidar Minta Pemerintah Segera Bertindak](https://www.kalbaronline.com/2023/11/21/148087/) (Kalbaronline.com)
 
-- [SAF-RSF Jebel Aulia Clashes Intensify, North Darfur Dengue Fever and Malaria Cases Surge](https://punchng.com/?p=1538765)
+- [SAF-RSF Jebel Aulia Clashes Intensify, North Darfur Dengue Fever and Malaria Cases Surge](https://allafrica.com/stories/202311210073.html) (AllAfrica - Top Africa News)
 
-- [Bangladesh battles record dengue deaths as disease pattern changes](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport)
+- [Bangladesh battles record dengue deaths as disease pattern changes](https://www.aljazeera.com/news/2023/11/21/record-dengue-deaths-in-bangladesh-experts-flag-change-in-disease-pattern) (Al Jazeera English)
 
-- [Wolbachia mosquitoes to be released in five more sites in Singapore to combat dengue](https://slashdot.org/firehose.pl?op=view&amp;id=172543879)
+- [Wolbachia mosquitoes to be released in five more sites in Singapore to combat dengue](https://www.channelnewsasia.com/singapore/dengue-project-wolbachia-mosquitoes-five-sites-south-singapore-3935836) (CNA)
 
-- [Calor e chuva podem aumentar casos de dengue no país](https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
+- [Calor e chuva podem aumentar casos de dengue no país](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/calor-e-chuva-podem-aumentar-casos-de-dengue-no-pais-21112023) (R7.com)
 
-- [Cambodian rock via LA](https://bmjopen.bmj.com/content/13/12/e072775?rss=1)
+- [Cambodian rock via LA](https://www.bangkokpost.com/life/social-and-lifestyle/2689059/cambodian-rock-via-la) (Bangkok Post)
 
-- [Wolbachia effective in reducing dengue cases by 77%: ministry](https://www.voanews.com/a/officials-push-to-get-kids-vaccinated-as-more-us-parents-opt-out-/7406765.html)
+- [Wolbachia effective in reducing dengue cases by 77%: ministry](https://en.antaranews.com/news/299100/wolbachia-effective-in-reducing-dengue-cases-by-77-ministry) (Antaranews.com)
 
-- [Dengue cases rise with two deaths in EPI week 45](https://english.khabarhub.com/2023/21/331544/)
+- [Dengue cases rise with two deaths in EPI week 45](https://www.thestar.com.my/news/nation/2023/11/20/dengue-cases-rise-with-two-deaths-in-epi-week-45) (The Star Online)
 
-- [Campinas ultrapassa 10 mil casos de dengue e Saúde reforça apelo à população para prevenção](https://www.cbc.ca/news/canada/calgary/whooping-cough-pertussis-alberta-1.7065298)
+- [Campinas ultrapassa 10 mil casos de dengue e Saúde reforça apelo à população para prevenção](https://g1.globo.com/sp/campinas-regiao/noticia/2023/11/19/campinas-ultrapassa-10-mil-casos-de-dengue-e-saude-reforca-apelo-a-populacao-para-prevencao.ghtml) (Globo)
 
-- [Ausbreitung der Tigermücke soll verhindert werden](https://punchng.com/stepping-up-the-anti-malaria-war/)
+- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
 
-- [Dengue cai 97% no Brasil, mas atenção ainda é necessária](https://www.denverpost.com/2023/12/20/colorado-measles-airport-childrens-hospital/)
+- [Dengue cai 97% no Brasil, mas atenção ainda é necessária](https://catracalivre.com.br/saude-bem-estar/dengue-brasil/) (Catracalivre.com.br)
 
-- [Dengue: 6 more die; 1,291 hospitalised in 24hrs](https://kdvr.com/news/health/cdphe-measles-case-confirmed-days-after-patient-flew-through-dia/)
+- [Dengue: 6 more die; 1,291 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446) (Tbsnews.net)
 
-- [¿Por qué una segunda infección de dengue puede ser peor que la primera?](https://6abc.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [¿Por qué una segunda infección de dengue puede ser peor que la primera?](https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/) (Nacion.com)
 
-- [Dengue cerraría 2023 con mayor repunte de casos de última década](https://abc11.com/children-school-vaccinations-kids-vaccines/14207327/)
+- [Dengue cerraría 2023 con mayor repunte de casos de última década](https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/) (Nacion.com)
 
 ## 23-47 (chikungunya)
 
-- [Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laboratório](https://allafrica.com/stories/202312220032.html)
+- [Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laboratório](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/prefeitura-de-bh-solta-8000-mosquitos-aedes-aegypti-modificados-em-laboratorio-22112023) (R7.com)
 
-- [Vaccine Partner Valneva receives FDA approval for the World's first chikungunya vaccine using Albumedix' Recombumin(R)](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Vaccine Partner Valneva receives FDA approval for the World's first chikungunya vaccine using Albumedix' Recombumin(R)](https://salesandmarketingnetwork.com/news_release_bs.html?ID=2048142) (Salesandmarketingnetwork.com)
 
-- [Valneva keen to bring its chikungunya vaccine, the world’s first, to India](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Valneva keen to bring its chikungunya vaccine, the world’s first, to India](https://www.thehindubusinessline.com/news/national/valneva-keen-to-bring-its-chikungunya-vaccine-the-worlds-first-to-india/article67561937.ece) (BusinessLine)
 
-- [Santé. Moustique-tigre : un premier vaccin contre le chikungunya autorisé](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Santé. Moustique-tigre : un premier vaccin contre le chikungunya autorisé](https://www.ledauphine.com/magazine-sante/2023/11/21/moustique-tigre-un-premier-vaccin-contre-le-chikungunya-autorise) (Le Dauphiné Libéré)
 
-- [Calor e chuva podem aumentar casos de dengue no país](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Calor e chuva podem aumentar casos de dengue no país](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/calor-e-chuva-podem-aumentar-casos-de-dengue-no-pais-21112023) (R7.com)
 
-- [Vaccine Against Chikungunya Approved By The FDA. Should You Get It?](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Vaccine Against Chikungunya Approved By The FDA. Should You Get It?](https://www.forbes.com/sites/markkortepeter/2023/11/20/vaccine-against-chikungunya-approved-by-the-fda-should-you-get-it/) (Forbes)
 
-- [Ausbreitung der Tigermücke soll verhindert werden](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
 
 ## 23-46 (zika)
 
-- [After 7 cases, Maharashtra on zika alert](https://allafrica.com/stories/202312220032.html)
+- [After 7 cases, Maharashtra on zika alert](https://timesofindia.indiatimes.com/city/mumbai/after-7-cases-maharashtra-on-zika-alert/articleshow/105245985.cms) (The Times of India)
 
-- [Polscy naukowcy opracowali prototyp szczepionki przeciwko wirusowi Zika](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Polscy naukowcy opracowali prototyp szczepionki przeciwko wirusowi Zika](https://geekweek.interia.pl/medycyna/news-polscy-naukowcy-opracowali-prototyp-szczepionki-przeciwko-wi,nId,7150632) (Interia.pl)
 
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
-
-- [30 Zika virus samples test negative](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
 
 ## 23-46 (yersinia)
 
-- [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 17th November 2023](https://allafrica.com/stories/202312220032.html)
+- [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 17th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-17th-november-2023/) (Iasbaba.com)
 
 ## 23-46 (typhoid)
 
-- [Guidance: Typhoid and paratyphoid: public health guidance and questionnaires](https://allafrica.com/stories/202312220032.html)
+- [Guidance: Typhoid and paratyphoid: public health guidance and questionnaires](https://www.gov.uk/government/publications/typhoid-and-paratyphoid-public-health-operational-guidelines) (Www.gov.uk)
 
-- [Salmonella Vaccine Study in Oxford (SALVO) trial: protocol for an observer-participant blind randomised placebo-controlled trial of the iNTS-GMMA vaccine within a European cohort](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Salmonella Vaccine Study in Oxford (SALVO) trial: protocol for an observer-participant blind randomised placebo-controlled trial of the iNTS-GMMA vaccine within a European cohort](https://bmjopen.bmj.com/content/13/11/e072938?rss=1) (The BMJ)
 
-- [Drought and mismanagement have left a French island parched. That holds lessons for the mainland](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Drought and mismanagement have left a French island parched. That holds lessons for the mainland](https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms) (The Times of India)
 
 ## 23-46 (rabies)
 
-- [NH Health officials looking to identify those who came into contact with rabies-infected kittens](https://allafrica.com/stories/202312220032.html)
+- [NH Health officials looking to identify those who came into contact with rabies-infected kittens](https://www.boston25news.com/news/local/nh-health-officials-looking-identify-those-who-came-into-contact-with-rabies-infected-kittens/OV2JCW2DRBDOBDMYIBASTCCSXM/) (Boston 25 News)
 
-- [Rabies confirmed in stray kittens in found in North Conway NH](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Rabies confirmed in stray kittens in found in North Conway NH](https://www.wmur.com/article/rabies-stray-kittens-north-conway-new-hampshire/45876502) (WMUR Manchester)
 
-- [Insändare. ”Köp inte smuggelhundar som kan bära på rabies”](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Insändare. ”Köp inte smuggelhundar som kan bära på rabies”](https://www.dn.se/insandare/kop-inte-smuggelhundar-som-kan-bara-pa-rabies/) (Www.dn.se)
 
-- [Vet check up for elderly but healthy cat?](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Vet check up for elderly but healthy cat?](https://ask.metafilter.com/376557/Vet-check-up-for-elderly-but-healthy-cat) (Metafilter.com)
 
 ## 23-46 (pertussis)
 
-- [Warren County health officials warn of sudden spike in whooping cough cases](https://allafrica.com/stories/202312220032.html)
+- [Warren County health officials warn of sudden spike in whooping cough cases](https://local12.com/news/local/warren-county-health-officials-whooping-cough-cases-rise-sudden-spike-pertussis-disease-infection-rate-contagious-babies-infants-sickness-vaccine-cincinnati-ohio) (WKRC TV Cincinnati)
 
-- [100 whooping cough cases reported in Montgomery County in 2023](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [100 whooping cough cases reported in Montgomery County in 2023](https://www.wdtn.com/community/health/100-whooping-cough-cases-reported-in-montgomery-county-in-2023/) (WDTN.com)
 
-- [Педиатр назвала три самые распространенные детские сезонные инфекции](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Педиатр назвала три самые распространенные детские сезонные инфекции](https://iz.ru/1605197/2023-11-15/pediatr-nazvala-tri-samye-rasprostranennye-detskie-sezonnye-infektcii) (Iz.ru)
 
 ## 23-46 (mpox)
 
-- [Holiday health update: A check on COVID, flu and mpox](https://allafrica.com/stories/202312220032.html)
+- [Holiday health update: A check on COVID, flu and mpox](https://www.kpbs.org/podcasts/kpbs-midday-edition/holiday-health-update-a-check-on-covid-flu-and-mpox) (KPBS)
 
-- [Mpox pode ser grave em pessoas com imunidade comprometida](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Mpox pode ser grave em pessoas com imunidade comprometida](https://olhardigital.com.br/2023/11/15/medicina-e-saude/mpox-pode-ser-grave-em-pessoas-com-imunidade-comprometida/) (Olhardigital.com.br)
 
 ## 23-46 (meningitis)
 
-- [Antibiotic resistance in children on the rise](https://allafrica.com/stories/202312220032.html)
+- [Antibiotic resistance in children on the rise](https://www.dw.com/en/antibiotic-resistance-in-children-on-the-rise/a-67411523) (DW (English))
 
-- [Aumenta la resistencia a los antibióticos en niños: ¿qué tan peligroso es?](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Aumenta la resistencia a los antibióticos en niños: ¿qué tan peligroso es?](https://www.eluniversal.com.co/salud/aumenta-la-resistencia-a-los-antibioticos-en-ninos-que-tan-peligroso-es-CE9457062) (Eluniversal.com.co)
 
-- [Conveyance of sofosbuvir through vesicular lipid nanocarriers as an effective strategy for management of viral meningitis](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Conveyance of sofosbuvir through vesicular lipid nanocarriers as an effective strategy for management of viral meningitis](https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra06540e) (Royal Society of Chemistry)
 
-- [El esperanzador hallazgo científico sobre las propiedades de la planta medicinal que da origen a la aspirina](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [El esperanzador hallazgo científico sobre las propiedades de la planta medicinal que da origen a la aspirina](https://www.lanacion.com.ar/lifestyle/en-las-redes/el-esperanzador-hallazgo-cientifico-sobre-las-propiedades-de-la-planta-medicinal-que-da-origen-a-la-nid14112023/) (La Nacion)
 
-- [Wissenschaft - Antibiotikaresistenzen nehmen bei Kindern zu](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Wissenschaft - Antibiotikaresistenzen nehmen bei Kindern zu](https://www.focus.de/wissen/natur/nicht-mal-mehr-die-haelfte-der-antibiotika-ist-bei-unseren-kindern-wirksam_id_244923364.html) (Focus)
 
-- [Antibiotikaresistenzen nehmen bei Kindern zu](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Antibiotikaresistenzen nehmen bei Kindern zu](https://www.dw.com/de/antibiotikaresistenzen-nehmen-bei-kindern-zu/a-67366337) (DW (English))
 
-- [La meningitis, los caracoles, su higiene y cuidados preventivos...](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [La meningitis, los caracoles, su higiene y cuidados preventivos...](https://www.elconfidencialdigital.com/articulo/opinan-socios-ecd/meningitis-caracoles-higiene-cuidados-preventivos/20231113103919668871.html) (Elconfidencialdigital.com)
 
 ## 23-46 (measles)
 
-- [Measles deaths jumped over 40% between 2021 and 2022, CDC reports - Livescience.com](https://allafrica.com/stories/202312220032.html)
+- [Measles deaths jumped over 40% between 2021 and 2022, CDC reports - Livescience.com](https://slashdot.org/firehose.pl?op=view&amp;id=172265475) (Slashdot.org)
 
-- [Measles: WHO warns of increasing threat worldwide](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Measles: WHO warns of increasing threat worldwide](https://www.ctvnews.ca/health/world-health-organization-warns-of-relentlessly-increasing-threat-of-measles-1.6651176) (Ctvnews.ca)
 
-- [Report of 11 lakh children not getting measles vaccine is fake says Health Ministry Reports not based on facts](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Report of 11 lakh children not getting measles vaccine is fake says Health Ministry Reports not based on facts](https://www.punjabijagran.com/national/general-report-of-11-lakh-children-not-getting-measles-vaccine-is-fake-says-health-ministry-reports-not-based-on-facts-9303294.html) (Punjabijagran.com)
 
-- [Measles deaths jumped over 40% from 2021 to 2022, CDC reports](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Measles deaths jumped over 40% from 2021 to 2022, CDC reports](https://www.livescience.com/health/viruses-infections-disease/measles-deaths-jumped-over-40-from-2021-to-2022-cdc-reports) (Live Science)
 
-- [Reports claiming 11 lakh children missed first measles vaccine in 2022 'inaccurate': Health ministry](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Reports claiming 11 lakh children missed first measles vaccine in 2022 'inaccurate': Health ministry](https://economictimes.indiatimes.com/news/india/reports-claiming-11-lakh-children-missed-first-measles-vaccine-in-2022-inaccurate-health-ministry/articleshow/105312022.cms) (The Times of India)
 
-- [Measles Stages ‘Staggering’ Comeback As Vaccination Drops — Here’s What To Know About The Returning Killer](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Measles Stages ‘Staggering’ Comeback As Vaccination Drops — Here’s What To Know About The Returning Killer](https://www.forbes.com/video/6341324782112/measles-stages-staggering-comeback-as-vaccination-drops--heres-what-to-know-about-the-returning-killer/) (Forbes)
 
-- [Measles rises globally amid vaccination crash; WHO and CDC sound the alarm](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Measles rises globally amid vaccination crash; WHO and CDC sound the alarm](https://slashdot.org/firehose.pl?op=view&amp;id=172259123) (Slashdot.org)
 
-- [The cost of measles: Why NZers should care about vaccination rates](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [The cost of measles: Why NZers should care about vaccination rates](https://www.1news.co.nz/2023/11/18/the-cost-of-measles-why-nzers-should-care-about-vaccination-rates/) (1news.co.nz)
 
-- [Measles rises globally amid vaccination crash; WHO and CDC sound the alarm - Ars Technica](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Measles rises globally amid vaccination crash; WHO and CDC sound the alarm - Ars Technica](https://slashdot.org/firehose.pl?op=view&amp;id=172258951) (Slashdot.org)
 
-- [Measles rises globally amid vaccination crash; WHO and CDC sound the alarm](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Measles rises globally amid vaccination crash; WHO and CDC sound the alarm](https://arstechnica.com/health/2023/11/global-measles-cases-deaths-rising-as-vaccination-still-low-after-covid-crash/) (Ars Technica)
 
-- [News24 | About 75% of global measles cases in 2022 were in Africa](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [News24 | About 75% of global measles cases in 2022 were in Africa](https://www.news24.com/news24/africa/news/about-75-of-global-measles-cases-in-2022-were-in-africa-20231117) (News24)
 
-- [Measles Stages ‘Staggering’ Comeback As Vaccination Drops — Here’s What To Know About The Returning Killer](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Measles Stages ‘Staggering’ Comeback As Vaccination Drops — Here’s What To Know About The Returning Killer](https://www.forbes.com/sites/roberthart/2023/11/17/measles-stages-staggering-comeback-as-vaccination-drops---heres-what-to-know-about-the-returning-killer/) (Forbes)
 
-- [Global Measles Threat](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Global Measles Threat](https://www.cdc.gov/globalhealth/measles/index.html) (Cdc.gov)
 
-- ['Staggering' rise in measles cases last year, health agencies say](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- ['Staggering' rise in measles cases last year, health agencies say](https://www.abc.net.au/news/2023-11-17/world-health-organization-report-rise-in-measles/103119292) (ABC News (AU))
 
-- [Measles deaths worldwide have increased dramatically thanks to a decline in vaccinations](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Measles deaths worldwide have increased dramatically thanks to a decline in vaccinations](https://www.fastcompany.com/90984633/measles-cases-deaths-dramatic-increase-worldwide-vaccinations-cdc) (Fast Company)
 
-- [Vaccination Vacation: Measles Makes a Menacing Comeback - SciTechDaily](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Vaccination Vacation: Measles Makes a Menacing Comeback - SciTechDaily](https://slashdot.org/firehose.pl?op=view&amp;id=172255299) (Slashdot.org)
 
-- [Measles deaths worldwide jumped 40% last year, health agencies say](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Measles deaths worldwide jumped 40% last year, health agencies say](https://www.1news.co.nz/2023/11/17/measles-deaths-worldwide-jumped-40-last-year-health-agencies-say/) (1news.co.nz)
 
-- [Worldwide Measles Deaths Up 43% in 2022 Y/Y - WHO](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Worldwide Measles Deaths Up 43% in 2022 Y/Y - WHO](https://sputnikglobe.com/20231117/worldwide-measles-deaths-up-43-in-2022-yy---who-1115013123.html) (Sputnikglobe.com)
 
-- [Global measles threat continues to grow as another year passes with millions of children unvaccinated | CDC Online Newsroom - CDC](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Global measles threat continues to grow as another year passes with millions of children unvaccinated | CDC Online Newsroom - CDC](https://slashdot.org/firehose.pl?op=view&amp;id=172253543) (Slashdot.org)
 
-- [Measles deaths worldwide jumped 40% last year, health agencies say](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Measles deaths worldwide jumped 40% last year, health agencies say](https://www.bostonglobe.com/2023/11/16/world/measles-deaths-worldwide-jumped-40-last-year-health-agencies-say/) (The Boston Globe)
 
-- [Measles deaths up 40% in 2022 as vaccinations dropped during COVID pandemic - Global News](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [Measles deaths up 40% in 2022 as vaccinations dropped during COVID pandemic - Global News](https://slashdot.org/firehose.pl?op=view&amp;id=172252929) (Slashdot.org)
 
-- ['Staggering' rise in global measles cases last year, say leading health organizations](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- ['Staggering' rise in global measles cases last year, say leading health organizations](https://www.cbc.ca/news/health/staggering-rise-in-global-measles-cases-last-year-say-leading-health-organizations-1.7030576) (CBC News)
 
-- [Global measles threat continues to grow as another year passes with millions of children unvaccinated](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- [Global measles threat continues to grow as another year passes with millions of children unvaccinated](https://www.who.int/news/item/16-11-2023-global-measles-threat-continues-to-grow-as-another-year-passes-with-millions-of-children-unvaccinated) (World Health Organization)
 
-- [Measles deaths up 40% in 2022 as vaccinations dropped during COVID pandemic - National | Globalnews.ca](https://tass.ru/obschestvo/19601869)
+- [Measles deaths up 40% in 2022 as vaccinations dropped during COVID pandemic - National | Globalnews.ca](https://globalnews.ca/news/10096344/measles-deaths-who-cdc/) (Global News)
 
-- ["Staggering" rise in global measles outbreaks in 2022, CDC and WHO report](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
+- ["Staggering" rise in global measles outbreaks in 2022, CDC and WHO report](https://www.cbsnews.com/news/measles-outbreaks-cdc-who-report-2022/) (CBS News)
 
-- [Measles cases and deaths increase worldwide, report finds](https://news.un.org/en/story/2023/12/1145042)
+- [Measles cases and deaths increase worldwide, report finds](https://www.statnews.com/2023/11/16/measles-cases-and-deaths-increase-worldwide-as-childhood-vaccinations-rates-decline-report/) (STAT)
 
-- ['Staggering' rise in measles cases last year, says WHO and CDC](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
+- ['Staggering' rise in measles cases last year, says WHO and CDC](https://www.investing.com/news/coronavirus/staggering-rise-in-measles-cases-last-year-says-who-and-cdc-3236864) (Investing.com)
 
-- [Measles deaths worldwide jumped 40% last year, health agencies say](https://www.jpost.com/health-and-wellness/article-778937)
+- [Measles deaths worldwide jumped 40% last year, health agencies say](https://abcnews.go.com/Health/wireStory/measles-deaths-worldwide-jumped-40-year-health-agencies-104951851) (ABC News)
 
-- [Global measles threat continues to grow as another year passes with millions of children unvaccinated](https://punchng.com/?p=1538765)
+- [Global measles threat continues to grow as another year passes with millions of children unvaccinated](https://www.cdc.gov/media/releases/2023/p1116-global-measles.html) (Cdc.gov)
 
-- [Global measles cases rose 18% in 2022 amid low vaccination rates: Report](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport)
+- [Global measles cases rose 18% in 2022 amid low vaccination rates: Report](https://abcnews.go.com/Health/global-measles-cases-rose-18-percent-2022-low-vaccination-rates/story?id=104942082) (ABC News)
 
-- [Progress Toward Measles Elimination — Worldwide, 2000–2022](https://slashdot.org/firehose.pl?op=view&amp;id=172543879)
+- [Progress Toward Measles Elimination — Worldwide, 2000–2022](https://www.cdc.gov/mmwr/volumes/72/wr/mm7246a3.htm) (Cdc.gov)
 
-- [News24 | German measles outbreak at Northern Cape school](https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
+- [News24 | German measles outbreak at Northern Cape school](https://www.news24.com/news24/community-newspaper/noordkaapbulletin/german-measles-outbreak-at-nc-school-20231115) (News24)
 
-- [Offer children chickenpox vaccine with MMR, JCVI recommends](https://bmjopen.bmj.com/content/13/12/e072775?rss=1)
+- [Offer children chickenpox vaccine with MMR, JCVI recommends](https://www.bmj.com/content/383/bmj.p2677) (The BMJ)
 
 ## 23-46 (malaria)
 
-- [Lagos community battles malaria, counts losses as seaweed decorates lagoon](https://allafrica.com/stories/202312220032.html)
+- [Lagos community battles malaria, counts losses as seaweed decorates lagoon](https://punchng.com/lagos-community-battles-malaria-counts-losses-as-seaweed-decorates-lagoon/) (The Punch)
 
-- [In the fight against malaria-carrying mosquitoes, just add soap](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [In the fight against malaria-carrying mosquitoes, just add soap](https://www.sciencedaily.com/releases/2023/11/231117181013.htm) (Science Daily)
 
-- [In the fight against malaria-carrying mosquitoes, just add soap](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [In the fight against malaria-carrying mosquitoes, just add soap](https://phys.org/news/2023-11-malaria-carrying-mosquitoes-soap.html) (Phys.Org)
 
-- [Repellent-Resistant Mosquitoes Can't Stand an Item in Your Bathroom](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Repellent-Resistant Mosquitoes Can't Stand an Item in Your Bathroom](https://www.newsweek.com/repellent-resistant-mosquitoes-bathroom-pesticides-1844806) (Newsweek)
 
-- [Vegetable oil-based surfactants are adjuvants that enhance the efficacy of neonicotinoid insecticides and can bias susceptibility testing in adult mosquitoes](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Vegetable oil-based surfactants are adjuvants that enhance the efficacy of neonicotinoid insecticides and can bias susceptibility testing in adult mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011737) (Plos.org)
 
-- [Us Strengthens Tanzania Anti-Malaria Laboratory Capacity](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Us Strengthens Tanzania Anti-Malaria Laboratory Capacity](https://allafrica.com/stories/202311170433.html) (AllAfrica - Top Africa News)
 
-- [An Illegal Chinese Biolab Containing Infectious Diseases Operated in California. The Feds Ignored It for Months.](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [An Illegal Chinese Biolab Containing Infectious Diseases Operated in California. The Feds Ignored It for Months.](https://freebeacon.com/national-security/an-illegal-chinese-biolab-containing-infectious-diseases-operated-in-california-the-feds-ignored-it-for-months/) (Washington Free Beacon)
 
-- [Death Toll From Malaria Outbreak in Western Oromia 'Significantly Higher' Than Reported Numbers - OPA](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Death Toll From Malaria Outbreak in Western Oromia 'Significantly Higher' Than Reported Numbers - OPA](https://allafrica.com/stories/202311160107.html) (AllAfrica - Top Africa News)
 
-- [Kenya's Bold Step Towards a Malaria-Free Future - Unveiling the National Llins Distribution Campaign](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [Kenya's Bold Step Towards a Malaria-Free Future - Unveiling the National Llins Distribution Campaign](https://allafrica.com/stories/202311160088.html) (AllAfrica - Top Africa News)
 
-- [Rwanda: Rwanda On Track to Achieve Zero Malaria in 2030](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [Rwanda: Rwanda On Track to Achieve Zero Malaria in 2030](https://allafrica.com/stories/202311160016.html) (AllAfrica - Top Africa News)
 
-- [NOVA S50E17 720p WEB h264-BAE](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [NOVA S50E17 720p WEB h264-BAE](https://rlsbb.ru/nova-s50e17-720p-web-h264-bae/) (Rlsbb.ru)
 
-- [Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya](https://wwwnc.cdc.gov/eid/article/29/12/23-0637_article) (Cdc.gov)
 
-- [‘Poor sanitation, hygiene major malaria control setbacks’](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [‘Poor sanitation, hygiene major malaria control setbacks’](https://punchng.com/poor-sanitation-hygiene-major-malaria-control-setbacks/) (The Punch)
 
-- [Poverty, biggest driver of malaria prevalence –Experts](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Poverty, biggest driver of malaria prevalence –Experts](https://punchng.com/poverty-biggest-driver-of-malaria-prevalence-experts/) (The Punch)
 
-- [Sherrie Silver Is Empowering Children Through Dance](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Sherrie Silver Is Empowering Children Through Dance](https://time.com/6333488/sherrie-silver-time100-impact-awards/) (Time)
 
-- [Video captures long-lost species named after David Attenborough](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Video captures long-lost species named after David Attenborough](https://www.cbsnews.com/news/video-long-beaked-echidna-sir-david-attenborough-lost-endangered/) (CBS News)
 
-- [Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel](https://www.nu.nl/goed-nieuws/6289153/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.html) (Www.nu.nl)
 
-- [Rutto, malaria, toisintokuume – tuotantoeläinten kesyttäminen näkyy ihmiskunnan taudeissa](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Rutto, malaria, toisintokuume – tuotantoeläinten kesyttäminen näkyy ihmiskunnan taudeissa](https://yle.fi/a/74-20059491) (YLE News)
 
-- [Africa: WHO Approves First African-Manufactured Malaria Drug](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Africa: WHO Approves First African-Manufactured Malaria Drug](https://allafrica.com/stories/202311120029.html) (AllAfrica - Top Africa News)
 
 ## 23-46 (leptospirosis)
 
-- [Stratford A&P Show: Wellness a focus at this year’s show with leptospirosis testing](https://allafrica.com/stories/202312220032.html)
+- [Stratford A&P Show: Wellness a focus at this year’s show with leptospirosis testing](https://www.nzherald.co.nz/stratford-press/news/stratford-ap-show-wellness-a-focus-at-this-years-show-with-leptospirosis-testing/TAQC2B32W5F4VJDWK6PPJBH6YM/) (New Zealand Herald)
 
-- [New risk to NZ farmers](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [New risk to NZ farmers](https://www.nzherald.co.nz/the-country/sponsored-stories/new-risk-to-nz-farmers/T34I3KONJ5EXLPRZSVUUBQ4X6A/) (New Zealand Herald)
 
-- [19 leptospirosis deaths in NegOcc, 14 in Bacolod](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [19 leptospirosis deaths in NegOcc, 14 in Bacolod](https://rpnradio.com/19-leptospirosis-deaths-in-negocc-14-in-bacolod/) (Rpnradio.com)
 
 ## 23-46 (dengue)
 
-- [Muore per la dengue dopo un viaggio in Thailandia, disinfestazione contro le zanzare a Fucecchio e San Miniato](https://allafrica.com/stories/202312220032.html)
+- [Muore per la dengue dopo un viaggio in Thailandia, disinfestazione contro le zanzare a Fucecchio e San Miniato](https://firenze.repubblica.it/cronaca/2023/11/17/news/pisa_muore_per_la_dengue_dopo_un_viaggio_in_thailandia_disinfestazione_san_miniato_fucecchio-420593624/) (La Repubblica)
 
-- [No new diseases from Wolbachia dengue control method: Health official](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [No new diseases from Wolbachia dengue control method: Health official](https://en.antaranews.com/news/298953/no-new-diseases-from-wolbachia-dengue-control-method-health-official) (Antaranews.com)
 
-- [Upaya Berantas DBD, Pemkot Pontianak Bagikan Ikan Cupang, Abate hingga Minyak Serai ke Warga](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Upaya Berantas DBD, Pemkot Pontianak Bagikan Ikan Cupang, Abate hingga Minyak Serai ke Warga](https://www.kalbaronline.com/2023/11/17/upaya-berantas-dbd-pemkot-pontianak-bagikan-ikan-cupang-abate-hingga-minyak-serai-ke-warga/) (Kalbaronline.com)
 
-- [Burkina Faso: Épidemie de la dengue - À quand l'état d'urgence sanitaire ?](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [Burkina Faso: Épidemie de la dengue - À quand l'état d'urgence sanitaire ?](https://fr.allafrica.com/stories/202311170118.html) (AllAfrica - Top Africa News)
 
-- [Dengue, donna di 50 anni muore nell'Empolese](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Dengue, donna di 50 anni muore nell'Empolese](https://www.ansa.it/toscana/notizie/2023/11/16/dengue-donna-di-50-anni-muore-nellempolese_b8201190-32c2-43e9-91fa-c68c08c98e25.html) (ANSA.it)
 
-- [Des drones aident à lutter contre la dengue à Ouagadougou – images](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Des drones aident à lutter contre la dengue à Ouagadougou – images](https://fr.sputniknews.africa/20231116/des-drones-aident-a-lutter-contre-la-dengue-a-ouagadougou--images-1063593002.html) (Sputniknews.africa)
 
-- [Alerta: Chuvas dos últimos dias podem favorecer doenças](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Alerta: Chuvas dos últimos dias podem favorecer doenças](https://recordtv.r7.com/record-tv-litoral-e-vale/balanco-geral-litoral/videos/alerta-chuvas-dos-ultimos-dias-podem-favorecer-doencas-16112023) (R7.com)
 
-- [Afrique: Revue de presse de l'Afrique Francophone du 16 Novembre 2023](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Afrique: Revue de presse de l'Afrique Francophone du 16 Novembre 2023](https://fr.allafrica.com/stories/202311160177.html) (AllAfrica - Top Africa News)
 
-- ['After effects of dengue': Shubman Gill on cramps during New Zealand clash](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- ['After effects of dengue': Shubman Gill on cramps during New Zealand clash](https://economictimes.indiatimes.com/news/sports/after-effects-of-dengue-shubman-gill-on-cramps-during-new-zealand-clash/articleshow/105250022.cms) (The Times of India)
 
-- ['After-effects of dengue' to blame for Gill cramping up at Wankhede](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- ['After-effects of dengue' to blame for Gill cramping up at Wankhede](https://www.espncricinfo.com/story/icc-cricket-world-cup-2023-shubman-gill-cramped-up-because-of-after-effects-of-dengue-1409034) (ESPN Cric Info)
 
-- [Faim, décès, épidémies : l’impact du réchauffement climatique sur la santé évalué](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Faim, décès, épidémies : l’impact du réchauffement climatique sur la santé évalué](https://www.lepoint.fr/environnement/faim-deces-epidemies-l-impact-du-rechauffement-climatique-sur-la-sante-evalue-15-11-2023-2543280_1927.php) (Le Point)
 
-- [La Russie aide le Burkina à lutter contre la dengue et le chikungunya](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [La Russie aide le Burkina à lutter contre la dengue et le chikungunya](https://fr.sputniknews.africa/20231115/la-russie-aide-le-burkina-a-lutter-contre-la-dengue-et-le-chikungunya-1063572090.html) (Sputniknews.africa)
 
-- [Burkina Faso: Epidémie de la dengue - Plus de 42 500 cas enregistrés dont 421 décès](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Burkina Faso: Epidémie de la dengue - Plus de 42 500 cas enregistrés dont 421 décès](https://fr.allafrica.com/stories/202311150129.html) (AllAfrica - Top Africa News)
 
-- [Saiba tudo sobre a vacina da dengue que será fornecida pelo SUS](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Saiba tudo sobre a vacina da dengue que será fornecida pelo SUS](https://catracalivre.com.br/saude-bem-estar/saiba-tudo-sobre-a-vacina-da-dengue-que-sera-fornecida-pelo-sus/) (Catracalivre.com.br)
 
-- [Autochthonous Dengue Outbreak, Paris Region, France, September–October 2023](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
+- [Autochthonous Dengue Outbreak, Paris Region, France, September–October 2023](https://wwwnc.cdc.gov/eid/article/29/12/23-1472_article) (Cdc.gov)
 
-- [Autochthonous Dengue Fever in 2 Patients, Rome, Italy](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
+- [Autochthonous Dengue Fever in 2 Patients, Rome, Italy](https://wwwnc.cdc.gov/eid/article/30/1/23-1508_article) (Cdc.gov)
 
-- [Former Maharashtra minister Jayant Patil diagnosed with dengue](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
+- [Former Maharashtra minister Jayant Patil diagnosed with dengue](https://timesofindia.indiatimes.com/city/mumbai/former-maharashtra-minister-jayant-patil-diagnosed-with-dengue/articleshow/105222969.cms) (The Times of India)
 
-- [Three-fold Increase likely in heat-related deaths by mid-century: Lancet](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
+- [Three-fold Increase likely in heat-related deaths by mid-century: Lancet](https://economictimes.indiatimes.com/news/international/world-news/three-fold-increase-likely-in-heat-related-deaths-by-mid-century-lancet/articleshow/105217067.cms) (The Times of India)
 
-- [Schimbările climatice au dus la cel mai grav focar de febră Dengue din Bangladesh](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
+- [Schimbările climatice au dus la cel mai grav focar de febră Dengue din Bangladesh](https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/schimbarile-climatice-au-dus-la-cel-mai-grav-focar-de-febra-dengue-din-bangladesh-2579645) (Digi24.ro)
 
-- [Em meio à onda de calor, crescem casos de dengue em São Paulo](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
+- [Em meio à onda de calor, crescem casos de dengue em São Paulo](https://www.metropoles.com/sao-paulo/em-meio-a-onda-de-calor-crescem-casos-de-dengue-em-sao-paulo) (Metropoles.com)
 
-- [Vacina da dengue estará disponível no SUS em 2024, aposta farmacêutica](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
+- [Vacina da dengue estará disponível no SUS em 2024, aposta farmacêutica](https://www.metropoles.com/saude/qdenga-vacina-contra-dengue-sus) (Metropoles.com)
 
-- [Ministério da Saúde alerta para ameaça da dengue no fim de 2023](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
+- [Ministério da Saúde alerta para ameaça da dengue no fim de 2023](https://recordtv.r7.com/hoje-em-dia/videos/ministerio-da-saude-alerta-para-ameaca-da-dengue-no-fim-de-2023-14112023) (R7.com)
 
-- ["Unwell" Ajit Pawar Skips Sharad Pawar's Diwali Get-Together in Baramati](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
+- ["Unwell" Ajit Pawar Skips Sharad Pawar's Diwali Get-Together in Baramati](https://www.ndtv.com/india-news/unwell-ajit-pawar-skips-sharad-pawars-diwali-get-together-in-baramati-4573428) (NDTV News)
 
-- [Cegah Peningkatan Kasus DBD, Lurah dan Camat Diminta Lakukan Fogging](https://tass.ru/obschestvo/19601869)
+- [Cegah Peningkatan Kasus DBD, Lurah dan Camat Diminta Lakukan Fogging](https://www.kalbaronline.com/2023/11/14/cegah-peningkatan-kasus-dbd-lurah-dan-camat-diminta-lakukan-fogging/) (Kalbaronline.com)
 
-- [ডেঙ্গু সংক্রান্ত তথ্য দিয়ে বাংলাদেশিদের সংযুক্ত করছে গুগল](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
+- [ডেঙ্গু সংক্রান্ত তথ্য দিয়ে বাংলাদেশিদের সংযুক্ত করছে গুগল](https://www.banglanews24.com/information-technology/news/bd/1224265.details) (Banglanews24.com)
 
-- [Rising temp, longer monsoon drive B'desh worst dengue outbreak](https://news.un.org/en/story/2023/12/1145042)
+- [Rising temp, longer monsoon drive B'desh worst dengue outbreak](https://timesofindia.indiatimes.com/world/south-asia/rising-temperatures-longer-monsoon-drive-bangladeshs-worst-dengue-outbreak/articleshow/105191619.cms) (The Times of India)
 
-- [Dengue, in aumento i casi in Italia. Come si prende la malattia, sintomi, cure](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
+- [Dengue, in aumento i casi in Italia. Come si prende la malattia, sintomi, cure](https://www.corriere.it/salute/malattie_infettive/23_novembre_13/dengue-aumento-casi-italia-come-si-prende-malattia-sintomi-cure-55350912-7248-11ee-a352-bdb9090063b6.shtml) (Corriere.it)
 
-- [Dengue fever infections increase by about 300% this year](https://www.jpost.com/health-and-wellness/article-778937)
+- [Dengue fever infections increase by about 300% this year](https://www.thaipbsworld.com/dengue-fever-infections-increase-by-about-300-this-year/) (Thaipbsworld.com)
 
-- [Hari Kesehatan Nasional, Cegah Demam Berdarah Dengue dengan 3M hingga Vaksin](https://punchng.com/?p=1538765)
+- [Hari Kesehatan Nasional, Cegah Demam Berdarah Dengue dengan 3M hingga Vaksin](https://www.fimela.com/health/read/5451624/hari-kesehatan-nasional-cegah-demam-berdarah-dengue-dengan-3m-hingga-vaksin) (Fimela.com)
 
-- [Bacolod: NegOcc dengue cases drop 74 percent](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport)
+- [Bacolod: NegOcc dengue cases drop 74 percent](https://rpnradio.com/bacolod-negocc-dengue-cases-drop-74-percent/) (Rpnradio.com)
 
-- [10 more dengue patients die in 24hrs](https://slashdot.org/firehose.pl?op=view&amp;id=172543879)
+- [10 more dengue patients die in 24hrs](https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214) (Tbsnews.net)
 
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
-
-- [Sankhuwasabha reports 1,700 plus dengue patients](https://bmjopen.bmj.com/content/13/12/e072775?rss=1)
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
 
 ## 23-46 (chikungunya)
 
-- [Emergex Signs Contract of £1.79M with the UK Department of Health and Social Care’s UK Vaccine Network (“UKVN”) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus](https://allafrica.com/stories/202312220032.html)
+- [Emergex Signs Contract of £1.79M with the UK Department of Health and Social Care’s UK Vaccine Network (“UKVN”) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus](https://www.globenewswire.com/news-release/2023/11/17/2782493/0/en/Emergex-Signs-Contract-of-1-79M-with-the-UK-Department-of-Health-and-Social-Care-s-UK-Vaccine-Network-UKVN-to-Advance-Its-Novel-Synthetic-T-Cell-Priming-Set-Point-Candidate-Against.html) (GlobeNewswire)
 
-- [Des résultats prometteurs pour un vaccin anti-chikungunya](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
+- [Des résultats prometteurs pour un vaccin anti-chikungunya](https://www.futura-sciences.com/sante/actualites/virus-resultats-prometteurs-vaccin-anti-chikungunya-109232/) (Futura)
 
-- [Afrique: Revue de presse de l'Afrique Francophone du 16 Novembre 2023](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
+- [Afrique: Revue de presse de l'Afrique Francophone du 16 Novembre 2023](https://fr.allafrica.com/stories/202311160177.html) (AllAfrica - Top Africa News)
 
-- [La Russie aide le Burkina à lutter contre la dengue et le chikungunya](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
+- [La Russie aide le Burkina à lutter contre la dengue et le chikungunya](https://fr.sputniknews.africa/20231115/la-russie-aide-le-burkina-a-lutter-contre-la-dengue-et-le-chikungunya-1063572090.html) (Sputniknews.africa)
 
-- [Estados Unidos aprovam vacina contra chikungunya](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
+- [Estados Unidos aprovam vacina contra chikungunya](https://saude.ig.com.br/2023-11-14/chikungunya-vacina-eua.html) (Ig.com.br)
 
-- [Vacina da chikungunya induz resposta imune em 98,8% dos vacinados](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
+- [Vacina da chikungunya induz resposta imune em 98,8% dos vacinados](https://noticias.r7.com/saude/vacina-da-chikungunya-induz-resposta-imune-em-988-dos-vacinados-14112023) (R7.com)
 
-- [Vacina brasileira contra chikungunya: saiba mais sobre primeiro imunizante para a doença](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
+- [Vacina brasileira contra chikungunya: saiba mais sobre primeiro imunizante para a doença](https://olhardigital.com.br/2023/11/13/medicina-e-saude/vacina-brasileira-contra-chikungunya-saiba-mais-sobre-primeiro-imunizante-para-a-doenca/) (Olhardigital.com.br)
 
-- [Vacina da chikungunya em teste no Brasil induz resposta imune em 98,8% dos vacinados](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
+- [Vacina da chikungunya em teste no Brasil induz resposta imune em 98,8% dos vacinados](https://valor.globo.com/brasil/noticia/2023/11/13/vacina-da-chikungunya-em-teste-no-brasil-induz-resposta-imune-em-988-pontos-percentuais-dos-vacinados.ghtml) (Globo)
 
-- [La FDA aprueba la primera vacuna para prevenir la enfermedad causada por el virus del chikungunya](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
+- [La FDA aprueba la primera vacuna para prevenir la enfermedad causada por el virus del chikungunya](https://www.fda.gov/news-events/press-announcements/la-fda-aprueba-la-primera-vacuna-para-prevenir-la-enfermedad-causada-por-el-virus-del-chikungunya) (FDA.gov)
 
-- [EE.UU. aprueba la primera vacuna contra el virus chikungunya, transmitido por mosquitos](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
+- [EE.UU. aprueba la primera vacuna contra el virus chikungunya, transmitido por mosquitos](https://www.abc.es/sociedad/eeuu-aprueba-primera-vacuna-virus-chikungunya-transmitido-20231113102411-nt.html) (Www.abc.es)
 
-- [Valneva Reports Positive Pivotal Phase 3 Immunogenicity Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
+- [Valneva Reports Positive Pivotal Phase 3 Immunogenicity Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Reports-Positive-Pivotal-Phase-3-Immunogenicity-Data-in-Adolescents-for-its-Single-Shot-Chik-45308108/) (Marketscreener.com)
 
-- [Valneva Reports Positive Pivotal Phase 3 Immunogenicity Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
+- [Valneva Reports Positive Pivotal Phase 3 Immunogenicity Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate](https://www.globenewswire.com/news-release/2023/11/13/2778680/0/en/Valneva-Reports-Positive-Pivotal-Phase-3-Immunogenicity-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine-Candidate.html) (GlobeNewswire)
 
-- [Valneva annonce des résultats positifs de Phase 3 concernant l’immunogénicité de son candidat vaccin contre le chikungunya chez les adolescents](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
+- [Valneva annonce des résultats positifs de Phase 3 concernant l’immunogénicité de son candidat vaccin contre le chikungunya chez les adolescents](https://www.globenewswire.com/news-release/2023/11/13/2778680/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-3-concernant-l-immunog%C3%A9nicit%C3%A9-de-son-candidat-vaccin-contre-le-chikungunya-chez-les-adolescents.html) (GlobeNewswire)
 
-- [Trophées des usines, nouveaux Territoires d'industrie, vaccin contre le chikungunya... Les sept bonnes nouvelles de la semaine](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
+- [Trophées des usines, nouveaux Territoires d'industrie, vaccin contre le chikungunya... Les sept bonnes nouvelles de la semaine](https://www.usinenouvelle.com/article/trophees-des-usines-nouveaux-territoires-d-industrie-vaccin-contre-le-chikungunya-les-sept-bonnes-nouvelles-de-la-semaine.N2194218) (L'Usine Nouvelle)
 
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
-
-- [FDA approves first vaccine for mosquito borne virus that is becoming an 'emerging global health threat,'](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
-
-## 23-45 (zika)
-
-- [Pune reports first case of Zika virus this year](https://allafrica.com/stories/202312220032.html)
-
-- [First Chikungunya Vaccine Now FDA Approved — What To Know About The ‘Emerging Global Health Threat’](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
-
-- [Influence of previous Zika virus infection on acute dengue episode](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
-
-- [Dr. Tom Frieden: Covid-19 is still around, and so are these misconceptions | CNN](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
-
-- [Cryptic Zika virus infections unmasked from suspected malaria cases in Northeastern Nigeria](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
-
-- [Tunden a alcaldía por culpar a migrantes de contagiar enfermedades](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
-
-## 23-45 (yersinia)
-
-- [The surveillance of plague among rodents and dogs in Western Iran](https://allafrica.com/stories/202312220032.html)
-
-## 23-45 (typhoid)
-
-- [Gaza faces imminent typhoid, cholera outbreak, health bodies warn - POLITICO Europe](https://allafrica.com/stories/202312220032.html)
-
-- [Study identifies countries vulnerable to extensively drug-resistant typhoid](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
-
-- [Gaza faces imminent typhoid, cholera outbreak, health bodies warn](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
-
-- [Trends in antimicrobial resistance amongst Salmonella Paratyphi A isolates in Bangladesh: 1999–2021](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
-
-## 23-45 (rabies)
-
-- [No shots for Spot? Study finds owners' vaccine hesitancy can extend to pet dogs](https://allafrica.com/stories/202312220032.html)
-
-- [An increasing number of dog owners are 'vaccine hesitant' about rabies](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
-
-- [Free pet rabies vaccination clinic coming to Eastwood after rabid fox episode](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
-
-## 23-45 (pertussis)
-
-- ['발작성 기침' 백일해 증가... 질병청, 어린이 추가 접종 당부](https://allafrica.com/stories/202312220032.html)
-
-## 23-45 (mpox)
-
-- [Press release: JCVI advises on gonorrhea and mpox vaccinations](https://allafrica.com/stories/202312220032.html)
-
-- [Independent report: Mpox vaccination programme, JCVI advice: 10 November](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
-
-- [Health Minister urges people to practice safe sex to prevent mpox](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
-
-- [Positive mpox cases reach 29: Official](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
-
-- [Mpox Cases in California Are Rising. Where Can You Find a Vaccine?](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
-
-- [Studie: Mpox-Ausbruch muss schon länger zurück liegen](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
-
-- [На Тайвані зареєстровано перший випадок смерті від віспи мавп](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
-
-- [我國猴痘首例死亡個案！30歲男確診愛滋「未接種疫苗」 發病3個月過世](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
-
-- [Monkeypox virus mutating, posing new threats to public health – study](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
-
-## 23-45 (meningitis)
-
-- [U.K. considers world's first use of meningitis vaccine to address gonorrhea](https://allafrica.com/stories/202312220032.html)
-
-- [UB40 star thanks Walsall hospital staff for 'life-saving' treatment after meningitis scare](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
-
-- [Antibiotic resistance in children is becoming a bigger problem around the world](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
-
-- [Antibiotics that fight deadly infections in babies are losing their power](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
-
-## 23-45 (measles)
-
-- [Mass vaccination and educational attainment: evidence from the 1967–68 Measles Eradication Campaign](https://allafrica.com/stories/202312220032.html)
-
-- [Exemptions for required vaccines for US kindergarteners reach record high | CNN](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
-
-- [Childhood Vaccine Exemptions Reach Highest Level Ever — Upping Risk For Outbreaks Of Polio, Measles And More](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
-
-- [US childhood vaccination exemptions reach their highest level ever](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
-
-- [Coverage with Selected Vaccines and Exemption from School Vaccine Requirements Among Children in Kindergarten - United States, 2022-23 School Year](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
-
-## 23-45 (malaria)
-
-- [Sokoto distributes ITNs, drugs to IDP camps](https://allafrica.com/stories/202312220032.html)
-
-- [Nigeria: Reps to Conduct Survey On Fake Malaria Drugs](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
-
-- [Reps move against fake anti-malaria drugs](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
-
-- [Rectal artesunate suppositories for the pre-referral treatment of suspected severe malaria](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
-
-- [Reps okay nationwide survey on fake anti-malaria drugs](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
-
-- [Peace Corps to Pay $750,000 in Settlement to Family of Illinois Woman Who Died After Misdiagnosis in East Africa](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
-
-- [Kinrooise Chloë Boonen (15) had als kind malaria, maar is nu Belgisch kampioene motorcross](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
-
-- [Los casos de tuberculosis registrados en el mundo baten récords: mató más que la Covid en 2022](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
-
-- [First evidence of how the Asian malaria mosquito is spreading drug-resistant malaria in Africa](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
-
-- [‘97% Nigerians at risk of malaria’](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
-
-- [The perils of patent amendments](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
-
-- [Cryptic Zika virus infections unmasked from suspected malaria cases in Northeastern Nigeria](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
-
-- [Advocating for PCR-RFLP as molecular tool within malaria programs in low endemic areas and low resource settings](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
-
-- [NK cell-induced damage to P.falciparum-infected erythrocytes requires ligand-specific recognition and releases parasitophorous vacuoles that are phagocytosed by monocytes in the presence of immune IgG](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
-
-- [Peace Corps to pay $750,000 to family of woman who died in East Africa](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
-
-- [Erreger von Tier zu Mensch übertragen - Binnen 30 Jahren zwölfmal mehr Tote durch Zoonosen](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
-
-- [Over 7 400 Malaria Cases Recorded, 17% Locally Acquired](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
-
-- [Peace Corps agrees to pay $750,000 to family of dead volunteer](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
-
-- [Peace Corps agrees to pay $750,000 to family of dead volunteer](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
-
-- [¡Atención! Minsalud reportó casi 80 mil casos en lo que va del 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
-
-- [News24 | More than 7 400 cases and nearly 70 malaria deaths recorded in SA in 2023](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
-
-- [Genetic validation of PfFKBP35 as an antimalarial drug target](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
-
-- [Wirtschaft als das Leben selbst: Münzmalles und Muckibuden [Online-Abo]](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
-
-- [As a Teen, She Loved Video Games. Now She's Using A.I. to Try to Quash Malaria](https://tass.ru/obschestvo/19601869)
-
-- [Gauteng Health Intensifies Malaria Awareness Campaign](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
-
-- [Africa: First African-Manufactured Combination Therapy For Seasonal Malaria Chemoprevention Receives WHO Prequalification](https://news.un.org/en/story/2023/12/1145042)
-
-- [The fight against malaria](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
-
-- [Uganda: Neonatal Conditions Top the List, Malaria Cases Decline in New Health Sector Performance Report](https://www.jpost.com/health-and-wellness/article-778937)
-
-## 23-45 (leptospirosis)
-
-- [Comment: Calving time on the farm means key vaccinations are due](https://allafrica.com/stories/202312220032.html)
-
-- [Finding a pathway to a human leptospirosis vaccine](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
-
-## 23-45 (dengue)
-
-- [Au Burkina Faso, la dengue fait des ravages](https://allafrica.com/stories/202312220032.html)
-
-- [Com dengue, Vieira mantém agenda em busca de tirar brasileiros de Gaza](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
-
-- [Casos de dengue crescem 9% na cidade de São Paulo](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
-
-- [Brasil deve registrar casos mais graves de dengue em 2024; entenda](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
-
-- [Especialistas alertam que o Brasil pode registrar mais casos de dengue em 2024](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
-
-- [Surto de dengue no Brasil deve piorar em 2024](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
-
-- [First Chikungunya Vaccine Now FDA Approved — What To Know About The ‘Emerging Global Health Threat’](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
-
-- [DENGUE, ARIDANGHETE! - IN ITALIA AUMENTANO I CASI DI FEBBRE DENGUE, LA MALATTIA INFETTIVA CHE SI TRASMETTE CON LA PUNTURA DI ZANZARE "AEDES" - A ROMA, 2 PERSONE SONO STATE RICOVERATE ALL'ISTITUTO SPALLANZANI DOPO AVER CONTRATTO IL VIRUS: SI TRATTA DI UN UOMO E UNA DONNA ENTREMBE RESIDENTI NEL PRIMO MUNICIPIO: NELL'AREA SONO SUBITO PARTITE LE OPERAZIONI DI DISINFESTAZIONE - IN TOTALE, I CONTAGI IN ITALIA SONO 72 (30 NEL LAZIO)](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
-
-- [Viral impact: 25% increase in Bengaluru hospital admissions](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
-
-- [Ya está disponible la vacuna contra el dengue: dónde la aplican, cuánto sale y los pasos por seguir](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
-
-- [Health Officials Warn of Painful Disease That Will Become a Major Threat This Decade](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
-
-- [Influence of previous Zika virus infection on acute dengue episode](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
-
-- [Alerta por alza en los casos de dengue en Cartagena: van 2.193 este año](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
-
-- [Ajit to ‘stay out of public life’ for now, likely to miss Pawar family’s Diwali together](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
-
-- [Dengue, allarme e scuole chiuse per quattro giorni: ecco dove e cosa sta accadendo](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
-
-- [WHO stresses need to maintain dengue fever surveillance activities in Ethiopia](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
-
-- [Dengue virus infection induces selective expansion of Vγ4 and Vγ6TCR γδ T cells in the small intestine and a cytokine storm driving vascular leakage in mice](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
-
-- [Un nuovo caso di dengue in Abruzzo “scambiato” per febbre gialla](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
-
-- [Tovább terjed és szedi áldozatait a dengue-láz Srí Lankában](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
-
-- [Febbre gialla vicino L'Aquila: scuole chiuse per 4 giorni](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
-
-- [Casos de dengue se triplican en Chiapas; van dos muertos](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
-
-- [China becomes important partner of Bangladesh: Ambassador Yao](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
-
-- [1st LD Writethru: China provides anti-dengue emergency supply to Bangladesh](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
-
-- [Dengue death toll rises to 1,425 with 8 more deaths in a day](https://tass.ru/obschestvo/19601869)
-
-- [Correction: Demographic and Clinico-Epidemiological Features of Dengue Fever in Faisalabad, Pakistan](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
-
-- [Você e o Doutor : Saiba como evitar e tratar a dengue](https://news.un.org/en/story/2023/12/1145042)
-
-- [Tunden a alcaldía por culpar a migrantes de contagiar enfermedades](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
-
-- [研究者がボルバキアに感染させた蚊がデング熱を大幅に減らしている](https://www.jpost.com/health-and-wellness/article-778937)
-
-- [Anápolis (GO) registra queda de 65% nos casos de dengue](https://punchng.com/?p=1538765)
-
-- [Hoje em Dia fala sobre dengue no Você e o Doutor desta terça-feira (7)](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport)
-
-- [Harisson Minta Para Bupati dan Wali Kota Serius Tangani DBD](https://slashdot.org/firehose.pl?op=view&amp;id=172543879)
-
-## 23-45 (chikungunya)
-
-- [First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approval - Fox News](https://allafrica.com/stories/202312220032.html)
-
-- [First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approval](https://en.vietnamplus.vn/dengue-cases-in-laos-keep-increasing/275283.vnp)
-
-- [FDA approves first vaccine for mosquito-born viral disease - The Hill](https://www.who.int/news/item/21-12-2023-who-prequalifies-a-second-malaria-vaccine-a-significant-milestone-in-prevention-of-the-disease)
-
-- [Chikungunya-Fieber: Valneva-Impfstoff in USA zugelassen](https://valor.globo.com/brasil/noticia/2023/12/21/ministerio-da-saude-vai-incorporar-vacina-contra-dengue-ao-sus.ghtml)
-
-- [Vaccin contre le chikungunya : ce labo français qui remporte la course mondiale](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-incorpora-vacina-contra-a-dengue-no-sus,1c611e3a9b2f1ad716a51551de1e2d4fv0qckbf8.html)
-
-- [दुनिया को मिला चिकनगुनिया का पहला टीका, अमेरिका के एफडीए ने इक्स्चिक को दी मंजूरी](https://olhardigital.com.br/2023/12/21/medicina-e-saude/ministerio-da-saude-inclui-vacina-da-dengue-no-calendario-do-sus/)
-
-- [FDA approves first vaccine against mosquito-borne virus chikungunya - The Washington Post](https://veja.abril.com.br/saude/vacina-contra-a-dengue-sera-aplicada-no-sus-em-2024)
-
-- [FDA approves first vaccine against mosquito-borne virus chikungunya](https://saude.ig.com.br/2023-12-21/vacina-dengue-incorporada-sus.html)
-
-- [US approves world's 1st chikungunya vaccine](https://www.sciencedaily.com/releases/2023/12/231221162235.htm)
-
-- [Valneva Announces U.S. FDA Approval of World's First Chikungunya Vaccine, IXCHIQ® - Valneva](https://punchng.com/provide-free-malaria-treatment-for-nigerians-reps-tell-fg/)
-
-- [Agência reguladora de medicamentos dos EUA aprova primeira vacina do mundo contra chikungunya](https://www.metropoles.com/brasil/ministerio-da-saude-incorpora-vacina-contra-dengue-ao-sus)
-
-- [Primeira vacina contra chikungunya é aprovada nos EUA; veja quando poderá ser liberada no Brasil](https://www.eluniversal.com.co/salud/enfermedades/la-oms-toma-medidas-para-que-la-vacuna-contra-la-malaria-sea-mas-accesible-NC9675834)
-
-- [EUA aprovam 1ª vacina do mundo contra chikungunya](https://punchng.com/who-prequalifies-second-malaria-vaccine-r21/)
-
-- [What You Need To Know About The Chikungunya Virus](https://theconversation.com/variole-du-singe-mpox-une-evolution-preoccupante-de-la-maladie-en-afrique-218750)
-
-- [FDA, a Anvisa dos EUA, aprova vacina contra chikungunya do Butantan](https://noticias.r7.com/saude/ministra-da-saude-anuncia-incorporacao-da-vacina-da-dengue-ao-sus-21122023)
-
-- [FDA approves world's 1st chikungunya vaccine](https://www.tudocelular.com/tech/noticias/n215877/vacina-dengue-incorporada-sus-ministerio-saude.html)
-
-- [Afrique: Un premier vaccin contre le chikungunya approuvé aux États-Unis](https://www.cbsnews.com/colorado/news/measles-case-treated-colorado-childrens-hospital/)
-
-- [Autoridade sanitária dos Estados Unidos aprova nova vacina de dose única contra chikungunya](https://www.lemonde.fr/economie/article/2023/12/21/le-laboratoire-valneva-tente-de-se-relancer-avec-son-vaccin-contre-le-chikungunya_6207124_3234.html)
-
-- [FDA aprova a primeira vacina contra chikungunya em dose única](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011817)
-
-- [Vacina contra chikungunya criada no Butantan é aprovada nos EUA](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295800)
-
-- [FDA aprova primeira vacina contra chikungunya nos EUA](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296165)
-
-- [Primeira vacina contra Chikungunya é aprovada nos EUA](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002249)
-
-- [First Chikungunya Vaccine Now FDA Approved — What To Know About The ‘Emerging Global Health Threat’](https://kffhealthnews.org/morning-briefing/thursday-december-21-2023/)
-
-- [Chikungunya: EUA aprovam primeira vacina contra a doença](https://tass.ru/obschestvo/19601869)
-
-- [Chikungunya : un premier vaccin contre le virus tropical approuvé aux Etats-Unis](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kongo-who-befuerchtet-ausbreitung-der-infektionskrankheit-mpox-19399997.html)
-
-- [Impfstoffzulassung treibt Valneva-Aktie in die Höhe](https://news.un.org/en/story/2023/12/1145042)
-
-- [Le vaccin contre le chikungunya de Valneva devient le premier approuvé aux États-Unis](https://slashdot.org/firehose.pl?op=view&amp;id=172545579)
-
-- [Gli Stati Uniti approvano il primo vaccino contro la chikungunya](https://www.jpost.com/health-and-wellness/article-778937)
-
-- [USFDA approves first chikungunya vaccine, from French company Valneva](https://punchng.com/?p=1538765)
-
-- [Estados Unidos aprobó una vacuna contra el chikungunya](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport)
-
-- [Erster Impfstoff gegen Chikungunya zugelassen](https://slashdot.org/firehose.pl?op=view&amp;id=172543879)
-
-- [Le vaccin de Valneva contre le chikungunya approuvé aux USA, une première mondiale](https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
-
-- [Nová globálna hrozba? USA schválili celosvetovo prvú vakcínu proti vírusu chikungunya](https://bmjopen.bmj.com/content/13/12/e072775?rss=1)
-
-- [LA "FOOD AND DRUG ADMINISTRATION" AMERICANA HA APPROVATO IL PRIMO VACCINO AL MONDO CONTRO LA CHIKUNGUNYA, UNA MALATTIA TROPICALE CHE SI DIFFONDE CON LE ZANZARE - IL VIRUS, CHE PROVOCA FEBBRE E FORTI DOLORI ARTICOLARI È CONSIDERATO DALL'AUTORITÀ AMERICANA "UNA MINACCIA EMERGENTE PER LA SALUTE GLOBALE" E NONOSTANTE SI TROVI PRINCIPALMENTE IN AFRICA, NEL SUDEST ASIATICO E IN AMERICA, DI RECENTE ALCUNI CONTAGI SONO STATI SEGNALATI ANCHE IN...](https://www.voanews.com/a/officials-push-to-get-kids-vaccinated-as-more-us-parents-opt-out-/7406765.html)
-
-- [EUA aprovam a primeira vacina contra a chikungunya](https://english.khabarhub.com/2023/21/331544/)
-
-- [FDA duyurdu: Sivrisinek kaynaklı virüse karşı ilk aşıya onay](https://www.cbc.ca/news/canada/calgary/whooping-cough-pertussis-alberta-1.7065298)
-
-- [Chikungunya virus: FDA OKs first vaccine for people 18 years or older - USA TODAY](https://punchng.com/stepping-up-the-anti-malaria-war/)
-
-- [Les Etats-Unis approuvent le premier vaccin contre le chikungunya](https://www.denverpost.com/2023/12/20/colorado-measles-airport-childrens-hospital/)
-
-- [US approves Chikungunya vaccine for adults](https://kdvr.com/news/health/cdphe-measles-case-confirmed-days-after-patient-flew-through-dia/)
-
-- [Chikungunya : le premier vaccin voit le jour aux Etats-Unis](https://6abc.com/children-school-vaccinations-kids-vaccines/14207327/)
-
-- [Chikungunya vaccine: US approves first shot against mosquito-borne virus - BBC.com](https://abc11.com/children-school-vaccinations-kids-vaccines/14207327/)
-
-- [Chikungunya, Fda approva il primo vaccino](https://abc13.com/children-school-vaccinations-kids-vaccines/14207327/)
-
-- [FDA approves Valneva's Chikungunya vaccine for adults](https://abc7news.com/children-school-vaccinations-kids-vaccines/14207327/)
-
-- [Chikungunya vaccine: US approves first shot against mosquito-borne virus](https://www.bangkokpost.com/opinion/opinion/2710068/a-bargain-in-saving-lives-from-malaria)
-
-- [Les Etats-Unis approuvent le premier vaccin contre le chikungunya](https://veja.abril.com.br/saude/apos-anos-brasil-registra-alta-em-vacinacao-e-inclui-novas-vacinas-no-pni)
-
-- [Les Etats-Unis approuvent le premier vaccin contre le chikungunya](https://www.ksat.com/health/2023/12/20/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
-
-- [La FDA aprueba la primera vacuna contra el virus chikungunya](https://abc7ny.com/children-school-vaccinations-kids-vaccines/14207327/)
-
-- [Valneva Announces U.S. FDA Approval of World’s First Chikungunya Vaccine, IXCHIQ®](https://tribunademinas.com.br/noticias/cidade/20-12-2023/juiz-de-fora-deve-receber-r-18-milhao-para-combate-ao-aedes-aegypti.html)
-
-- [Valneva reçoit l’approbation par la U.S. FDA du premier vaccin au monde contre le chikungunya, IXCHIQ®](https://www.foxnews.com/us/us-health-officials-see-influx-vaccine-exemption-rates-children)
-
-- [FDA approves first vaccine against chikungunya virus | CNN](https://apnews.com/article/vaccines-waivers-schools-measles-idaho-e7015d8fd38ec80802eeae350755a402)
-
-- [États-Unis : le premier vaccin contre le chikungunya approuvé](https://www.click2houston.com/health/2023/12/20/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
-
-- [Vacina do Butantan contra chikungunya é aprovada nos EUA](https://abcnews.go.com/Health/wireStory/health-officials-push-schoolchildren-vaccinated-us-parents-opt-105809922)
-
-- [US approves first vaccine against chikungunya virus](https://www.startribune.com/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/600329634/)
-
-- [Approvato negli Usa il primo vaccino al mondo per la chikungunya](https://www.bostonherald.com/2023/12/20/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/)
-
-- [FDA Approves First Vaccine to Prevent Disease Caused by Chikungunya Virus - FDA.gov](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011726)
-
-- [Le premier vaccin contre le chikungunya approuvé aux Etats-Unis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295772)
-
-- [US approves first vaccine against chikungunya virus: drug regulator](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011855)
-
-- [US Approves First Vaccine Against Chikungunya Virus](https://english.khabarhub.com/2023/20/331541/)
-
-- [Les Etats-Unis approuvent le premier vaccin contre le chikungunya](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/19/como-densidade-demografica-viagens-e-calor-podem-agravar-cenario-da-dengue-em-campinas.ghtml)
-
-- [US approves first vaccine against chikungunya virus](https://www.eluniversal.com.co/cartagena/13-posibles-casos-de-defunciones-por-leptospirosis-alertan-a-cartagena-XB9663671)
-
-- [US Approves 1st Vaccine Against Chikungunya Virus](https://diamond.jp/articles/-/336100)
-
-- [Les États-Unis approuvent le premier vaccin contre le chikungunya](https://www.volkskrant.nl/wetenschap/gezondheidsraad-bied-mpox-vaccin-structureel-aan-voor-risicogroepen~bbd4bf5a/)
-
-- [Les Etats-Unis approuvent le premier vaccin contre le chikungunya](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/19/dengue-campinas-alerta-para-reintroducao-de-sorotipos-e-define-acoes-para-tentar-evitar-cenario-dramatico.ghtml)
-
-- [US FDA approves Vanessa's chikungunya vaccine](https://www.malaymail.com/news/malaysia/2023/12/19/health-d-g-dengue-cases-drop-slightly-three-deaths-recorded-from-december-3-to-9/108344)
-
-- [FDA Approves First Vaccine to Prevent Disease Caused by Chikungunya Virus](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011839)
-
-- [Batı Nil Virüsü’nü iki saatte tespit edebilen “PCR Tanı Kiti” geliştirildi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293923)
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)

@@ -9,7 +9,7 @@ from settings import KEYWORD_QUERIES, SOURCE_IGNORE
 import report_maker
 
 NEWSAPI = NewsApiClient(api_key=os.environ.get("NEWSAPI_KEY"))
-
+SHOULD_HARVEST = True
 
 def strip_html(data):
     p = re.compile(r"<.*?>")
@@ -44,7 +44,8 @@ class Harvester:
             c.execute(f"SELECT COUNT(*) FROM articles")
             self.num_articles_start = c.fetchone()[0]
             # Harvest new articles, update counts and export JSON
-            #self.harvest()
+            if SHOULD_HARVEST:
+                self.harvest()
         except Exception as e:
             # Handle the exception
             print("* An error occurred:", str(e))
