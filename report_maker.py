@@ -16,7 +16,7 @@ def get_epiweek(date_str):
     days_since_year_start = (date - year_start).days
     epiweek = (days_since_year_start + year_start_epiweek_day) // 7 + 1
 
-    return epiweek
+    return f"{str(date.year)[-2:]}-{epiweek}"
 
 
 def load_disease_data(src_data="data/articles.json"):
@@ -36,11 +36,7 @@ def dict_to_md_table(data):
     headers = list(next(iter(data.values())).keys())
     headers.sort()
     # Create the markdown table header
-    md_table = (
-        "| Disease | "
-        + " | ".join(header for header in headers)
-        + " |\n"
-    )
+    md_table = "| Disease | " + " | ".join(header for header in headers) + " |\n"
     md_table += "|-" + "-|" * len(headers) + "-|\n"
 
     # Create the markdown table rows
@@ -69,14 +65,24 @@ def gen_report():
     )
     disease_counts = {}
     last_published = None
+    article_titles = {}
+    
+    # Count the number of articles for each keyword by epiweek
     for article in articles["articles"]:
         epiweek = str(article["epiweek"])
         if last_published == None or article["publishedAt"] > last_published:
             last_published = article["publishedAt"]
         for keyword in article["query"]:
+            # Add the keyword to the disease_counts dictionary
             if keyword not in disease_counts:
                 disease_counts[keyword] = {epiweek: 0 for epiweek in epiweeks}
             disease_counts[keyword][epiweek] += 1
+
+            # Add the article title to the article_titles dictionary
+            epikey = f"{epiweek} ({keyword})"
+            if epikey not in article_titles:
+                article_titles[epikey] = []
+            article_titles[epikey].append(article["title"])
 
     # Add a total column to the disease_counts dictionary
     for key, val in disease_counts.items():
@@ -87,20 +93,38 @@ def gen_report():
         sorted(disease_counts.items(), key=lambda item: item[1]["Total"], reverse=True)
     )
 
-    # Create markdown report with summary headers
-    report = "# Disease Keywords Summary Report\n\n"
-    report += f"- **New articles in last harvest:** {articles['count_articles_new']}\n"
-    report += f"- **Last harvest:** {articles['last_updated']}\n"
-    report += f"- **Most recent article:** {last_published}\n\n"
+    # Create the harvest summary
+    harvest_summary = "\n".join([
+        f"- **New articles in last harvest:** {articles['count_articles_new']}",
+        f"- **Last harvest:** {articles['last_updated']}",
+        f"- **Most recent article:** {last_published}",
+    ])
 
-    report += "---\n\n"
-    report += "## Disease keyword mentions in international news\n\n"
-    report += "By US epiweek (i.e. Sunday to Saturdar)\n\n"
+    # Compose the report
+    report = "\n\n".join([
+        "# Disease Keywords Summary Report",
+        harvest_summary,
+        "---",
+        "## Disease keyword mentions in international news",
+        "By US epiweek (i.e. Sunday to Saturday)",
+        dict_to_md_table(disease_counts),
+        "Source: [News API](https://newsapi.org/)",
+        "---"
+    ])
 
-    # Create the markdown table summary
-    report += dict_to_md_table(disease_counts) + "\n\n"
+    # Reverse sort the article titles by epiweek
+    epikeys = sorted(article_titles.keys(), reverse=True)
 
-    report += "Source: [News API](https://newsapi.org/)\n\n"
+    for epikey in epikeys:
+        report += f"\n\n## {epikey}\n\n"
+        # Create a list of article titles with hyperlinks
+        report += "\n\n".join(
+            [
+                f"- [{title}]({articles['articles'][i]['url']})"
+                for i, title in enumerate(article_titles[epikey])
+            ]
+        )
+        #report += "\n\n".join([f"- {title}" for title in article_titles[epikey]])
 
     # Write the report to a markdown file
     with open("report.md", "w") as f:
