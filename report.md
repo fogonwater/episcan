@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2023-12-23 19:05
-- **Most recent article:** 2023-12-22 18:59:42
+- **New articles in last harvest:** 2
+- **Last harvest:** 2023-12-24 02:12
+- **Most recent article:** 2023-12-22 21:34:41
 
 ---
 
@@ -10,20 +10,20 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 23-45 | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | Total |
-|--|-|-|-|-|-|-|-|-|
-| dengue | 31 | 33 | 41 | 45 | 62 | 44 | 59 | 315 |
-| malaria | 28 | 19 | 37 | 36 | 26 | 24 | 23 | 193 |
-| chikungunya | 66 | 16 | 7 | 10 | 10 | 11 | 4 | 124 |
-| mpox | 9 | 2 | 19 | 18 | 20 | 24 | 15 | 107 |
-| measles | 5 | 33 | 11 | 5 | 5 | 7 | 28 | 94 |
-| zika | 6 | 4 | 6 | 10 | 15 | 9 | 5 | 55 |
-| rabies | 3 | 4 | 8 | 11 | 4 | 7 | 3 | 40 |
-| meningitis | 4 | 7 | 0 | 4 | 8 | 9 | 3 | 35 |
-| pertussis | 1 | 3 | 6 | 4 | 2 | 4 | 2 | 22 |
-| leptospirosis | 2 | 3 | 3 | 4 | 3 | 0 | 2 | 17 |
-| typhoid | 4 | 3 | 1 | 0 | 3 | 0 | 3 | 14 |
-| yersinia | 1 | 1 | 0 | 1 | 2 | 0 | 0 | 5 |
+| Disease | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | Total |
+|--|-|-|-|-|-|-|-|
+| dengue | 32 | 41 | 45 | 62 | 44 | 60 | 284 |
+| malaria | 19 | 37 | 36 | 26 | 24 | 23 | 165 |
+| mpox | 2 | 19 | 18 | 20 | 24 | 15 | 98 |
+| measles | 33 | 11 | 5 | 5 | 7 | 29 | 90 |
+| chikungunya | 16 | 7 | 10 | 10 | 11 | 4 | 58 |
+| zika | 3 | 6 | 10 | 15 | 9 | 5 | 48 |
+| rabies | 4 | 8 | 11 | 4 | 7 | 2 | 36 |
+| meningitis | 7 | 0 | 4 | 8 | 9 | 3 | 31 |
+| pertussis | 3 | 6 | 4 | 2 | 4 | 2 | 21 |
+| leptospirosis | 3 | 3 | 4 | 3 | 0 | 2 | 15 |
+| typhoid | 3 | 1 | 0 | 3 | 0 | 3 | 10 |
+| yersinia | 1 | 0 | 1 | 2 | 0 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -53,8 +53,6 @@ Source: [News API](https://newsapi.org/)
 ## 23-51 (rabies)
 
 - [Palestinian child dies of rabies - Palestinian Ministry of Health](https://www.jpost.com/health-and-wellness/article-778937) (The Jerusalem Post)
-
-- [【毎年5万人超が死亡】「水が怖い…」致死率ほぼ100パーセント「恐水病」の衝撃の正体 - すばらしい医学](https://diamond.jp/articles/-/336100) (Diamond.jp)
 
 - [News24 | Holidaymakers warned of rabies risk in Eastern Cape, KZN](https://www.news24.com/news24/southafrica/news/holidaymakers-warned-of-rabies-risk-in-eastern-cape-kzn-20231219) (News24)
 
@@ -105,6 +103,8 @@ Source: [News API](https://newsapi.org/)
 - [Editorial: The scandalous death of Aoife Johnston demands action](https://www.independent.ie/opinion/editorial/editorial-the-scandalous-death-of-aoife-johnston-demands-action/a1418837503.html) (Independent.ie)
 
 ## 23-51 (measles)
+
+- [Why doctors worry about the rise in childhood vaccine exemptions](https://abcnews.go.com/US/childhood-vaccine-exemptions-time-high-doctors-worry-diseases/story?id=105873006) (ABC News)
 
 - [Researchers map how measles virus spreads in human brain](https://www.sciencedaily.com/releases/2023/12/231221162235.htm) (Science Daily)
 
@@ -217,6 +217,8 @@ Source: [News API](https://newsapi.org/)
 - [13 posibles casos de defunciones por leptospirosis alertan a Cartagena](https://www.eluniversal.com.co/cartagena/13-posibles-casos-de-defunciones-por-leptospirosis-alertan-a-cartagena-XB9663671) (Eluniversal.com.co)
 
 ## 23-51 (dengue)
+
+- [Alckmin usa imagem de Beyoncé para divulgar vacina da dengue: 'ela veio e a dengue vai'](https://www.terra.com.br/noticias/brasil/politica/alckmin-usa-imagem-de-beyonce-para-divulgar-vacina-da-dengue-ela-veio-e-a-dengue-vai,95229df3bb064a1f6e17e9b8cde6f66cbasvj711.html) (Terra.com.br)
 
 - [Dengue Surging Globally as Climate Change Kicks In](https://www.voanews.com/a/dengue-surging-globally-as-climate-change-kicks-in-/7409133.html) (VOA News)
 
@@ -1610,8 +1612,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
 
-- [30 Zika virus samples test negative](https://timesofindia.indiatimes.com/city/bengaluru/30-zika-virus-samples-test-negative/articleshow/105158224.cms) (The Times of India)
-
 ## 23-46 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 17th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-17th-november-2023/) (Iasbaba.com)
@@ -1846,8 +1846,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
 
-- [Sankhuwasabha reports 1,700 plus dengue patients](https://english.khabarhub.com/2023/12/325898/) (Khabarhub.com)
-
 ## 23-46 (chikungunya)
 
 - [Emergex Signs Contract of £1.79M with the UK Department of Health and Social Care’s UK Vaccine Network (“UKVN”) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus](https://www.globenewswire.com/news-release/2023/11/17/2782493/0/en/Emergex-Signs-Contract-of-1-79M-with-the-UK-Department-of-Health-and-Social-Care-s-UK-Vaccine-Network-UKVN-to-Advance-Its-Novel-Synthetic-T-Cell-Priming-Set-Point-Candidate-Against.html) (GlobeNewswire)
@@ -1881,347 +1879,3 @@ Source: [News API](https://newsapi.org/)
 - [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
 
 - [FDA approves first vaccine for mosquito borne virus that is becoming an 'emerging global health threat,'](https://endtimeheadlines.org/2023/11/fda-approves-first-vaccine-for-mosquito-borne-virus-that-is-becoming-an-emerging-global-health-threat/) (Endtimeheadlines.org)
-
-## 23-45 (zika)
-
-- [Pune reports first case of Zika virus this year](https://indianexpress.com/article/cities/pune/pune-reports-first-case-zika-virus-this-year-9023273/) (The Indian Express)
-
-- [First Chikungunya Vaccine Now FDA Approved — What To Know About The ‘Emerging Global Health Threat’](https://www.forbes.com/sites/roberthart/2023/11/10/first-chikungunya-vaccine-now-fda-approved---what-to-know-about-the-emerging-global-health-threat/) (Forbes)
-
-- [Influence of previous Zika virus infection on acute dengue episode](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011710) (Plos.org)
-
-- [Dr. Tom Frieden: Covid-19 is still around, and so are these misconceptions | CNN](https://www.cnn.com/2023/11/09/health/tom-frieden-covid-19-misconceptions/index.html) (CNN)
-
-- [Cryptic Zika virus infections unmasked from suspected malaria cases in Northeastern Nigeria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292350) (Plos.org)
-
-- [Tunden a alcaldía por culpar a migrantes de contagiar enfermedades](https://aristeguinoticias.com/0611/mexico/tunden-a-alcaldia-por-culpar-a-migrantes-de-contagiar-enfermedades/) (Aristeguinoticias.com)
-
-## 23-45 (yersinia)
-
-- [The surveillance of plague among rodents and dogs in Western Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011722) (Plos.org)
-
-## 23-45 (typhoid)
-
-- [Gaza faces imminent typhoid, cholera outbreak, health bodies warn - POLITICO Europe](https://slashdot.org/firehose.pl?op=view&amp;id=172206525) (Slashdot.org)
-
-- [Study identifies countries vulnerable to extensively drug-resistant typhoid](https://ysph.yale.edu/news-article/study-identifies-countries-vulnerable-to-extensively-drug-resistant-typhoid/) (Yale.edu)
-
-- [Gaza faces imminent typhoid, cholera outbreak, health bodies warn](https://www.politico.eu/article/health-chiefs-warn-of-imminent-typhoid-cholera-outbreaks-in-gaza/) (POLITICO.eu)
-
-- [Trends in antimicrobial resistance amongst Salmonella Paratyphi A isolates in Bangladesh: 1999–2021](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011723) (Plos.org)
-
-## 23-45 (rabies)
-
-- [No shots for Spot? Study finds owners' vaccine hesitancy can extend to pet dogs](https://www.latimes.com/science/story/2023-11-11/rabies-vaccine-hesitancy-on-the-rise-among-pet-owners) (Los Angeles Times)
-
-- [An increasing number of dog owners are 'vaccine hesitant' about rabies](https://theweek.com/health/dog-owners-increasing-vaccine-hesitant-rabies) (The Week Magazine)
-
-- [Free pet rabies vaccination clinic coming to Eastwood after rabid fox episode](https://www.syracuse.com/health/2023/11/free-pet-rabies-vaccination-clinic-coming-to-eastwood-after-rabid-fox-episode.html) (syracuse.com)
-
-## 23-45 (pertussis)
-
-- ['발작성 기침' 백일해 증가... 질병청, 어린이 추가 접종 당부](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002976383) (Ohmynews.com)
-
-## 23-45 (mpox)
-
-- [Press release: JCVI advises on gonorrhea and mpox vaccinations](https://www.gov.uk/government/news/jcvi-advises-on-gonorrhea-and-mpox-vaccinations) (Www.gov.uk)
-
-- [Independent report: Mpox vaccination programme, JCVI advice: 10 November](https://www.gov.uk/government/publications/mpox-vaccination-programme-jcvi-advice-10-november) (Www.gov.uk)
-
-- [Health Minister urges people to practice safe sex to prevent mpox](https://en.antaranews.com/news/298236/health-minister-urges-people-to-practice-safe-sex-to-prevent-mpox) (Antaranews.com)
-
-- [Positive mpox cases reach 29: Official](https://en.antaranews.com/news/298209/positive-mpox-cases-reach-29-official) (Antaranews.com)
-
-- [Mpox Cases in California Are Rising. Where Can You Find a Vaccine?](https://www.kqed.org/news/11966587/mpox-monkeypox-2023-bay-area-vaccine) (KQED)
-
-- [Studie: Mpox-Ausbruch muss schon länger zurück liegen](https://www.tagesschau.de/wissen/gesundheit/mpox-ausbruch-theorie-affenpocken-genanalyse-100.html) (tagesschau.de)
-
-- [На Тайвані зареєстровано перший випадок смерті від віспи мавп](https://ua.korrespondent.net/world/4638241-na-taivani-zareiestrovano-pershyi-vypadok-smerti-vid-vispy-mavp) (Korrespondent.net)
-
-- [我國猴痘首例死亡個案！30歲男確診愛滋「未接種疫苗」 發病3個月過世](https://www.storm.mg/lifestyle/4895914) (Storm.mg)
-
-- [Monkeypox virus mutating, posing new threats to public health – study](https://www.jpost.com/health-and-wellness/article-771850) (The Jerusalem Post)
-
-## 23-45 (meningitis)
-
-- [U.K. considers world's first use of meningitis vaccine to address gonorrhea](https://www.statnews.com/2023/11/10/u-k-recommendation-could-lead-to-worlds-first-use-of-meningitis-vaccine-to-curb-gonorrhea/) (STAT)
-
-- [UB40 star thanks Walsall hospital staff for 'life-saving' treatment after meningitis scare](https://www.expressandstar.com/news/health/2023/11/08/ub40-star-thanks-walsall-hospital-staff-for-life-saving-treatment-after-meningitis-scare/) (expressandstar.com)
-
-- [Antibiotic resistance in children is becoming a bigger problem around the world](https://www.npr.org/2023/11/07/1211329922/antibiotic-resistance-in-children-is-becoming-a-bigger-problem-around-the-world) (NPR)
-
-- [Antibiotics that fight deadly infections in babies are losing their power](https://www.npr.org/sections/goatsandsoda/2023/11/07/1209109088/antibiotics-that-fight-deadly-infections-in-babies-are-losing-their-power) (NPR)
-
-## 23-45 (measles)
-
-- [Mass vaccination and educational attainment: evidence from the 1967–68 Measles Eradication Campaign](http://eprints.lse.ac.uk/120706/) (Lse.ac.uk)
-
-- [Exemptions for required vaccines for US kindergarteners reach record high | CNN](https://www.cnn.com/2023/11/09/health/kindergarten-vaccine-exemptions/index.html) (CNN)
-
-- [Childhood Vaccine Exemptions Reach Highest Level Ever — Upping Risk For Outbreaks Of Polio, Measles And More](https://www.forbes.com/sites/maryroeloffs/2023/11/09/childhood-vaccine-exemptions-reach-highest-level-ever---upping-risk-for-outbreaks-of-polio-measles-and-more/) (Forbes)
-
-- [US childhood vaccination exemptions reach their highest level ever](https://roanoke.com/news/nation-world/school-vaccine-exemptions-reach-record-high/article_5140c387-a678-52e4-b61a-eb9552ced48a.html) (Roanoke Times)
-
-- [Coverage with Selected Vaccines and Exemption from School Vaccine Requirements Among Children in Kindergarten - United States, 2022-23 School Year](https://www.cdc.gov/mmwr/volumes/72/wr/mm7245a2.htm) (Cdc.gov)
-
-## 23-45 (malaria)
-
-- [Sokoto distributes ITNs, drugs to IDP camps](https://punchng.com/sokoto-distributes-itns-drugs-to-idp-camps/) (The Punch)
-
-- [Nigeria: Reps to Conduct Survey On Fake Malaria Drugs](https://allafrica.com/stories/202311100075.html) (AllAfrica - Top Africa News)
-
-- [Reps move against fake anti-malaria drugs](https://punchng.com/reps-move-against-fake-anti-malaria-drugs/) (The Punch)
-
-- [Rectal artesunate suppositories for the pre-referral treatment of suspected severe malaria](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004312) (Plos.org)
-
-- [Reps okay nationwide survey on fake anti-malaria drugs](https://punchng.com/reps-okay-nationwide-survey-on-fake-anti-malaria-drugs/) (The Punch)
-
-- [Peace Corps to Pay $750,000 in Settlement to Family of Illinois Woman Who Died After Misdiagnosis in East Africa](https://www.insurancejournal.com/news/midwest/2023/11/09/747638.htm) (Insurance Journal)
-
-- [Kinrooise Chloë Boonen (15) had als kind malaria, maar is nu Belgisch kampioene motorcross](https://www.hbvl.be/cnt/dmf20231108_96053599) (Hbvl.be)
-
-- [Los casos de tuberculosis registrados en el mundo baten récords: mató más que la Covid en 2022](https://www.elespanol.com/ciencia/salud/20231109/casos-tuberculosis-registrados-mundo-baten-records-mato-covid/808169609_0.html) (Elespanol.com)
-
-- [First evidence of how the Asian malaria mosquito is spreading drug-resistant malaria in Africa](https://www.sciencedaily.com/releases/2023/11/231108115114.htm) (Science Daily)
-
-- [‘97% Nigerians at risk of malaria’](https://punchng.com/?p=1512218) (The Punch)
-
-- [The perils of patent amendments](https://www.thehindubusinessline.com/opinion/the-perils-of-patent-amendments/article67514045.ece) (BusinessLine)
-
-- [Cryptic Zika virus infections unmasked from suspected malaria cases in Northeastern Nigeria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292350) (Plos.org)
-
-- [Advocating for PCR-RFLP as molecular tool within malaria programs in low endemic areas and low resource settings](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011747) (Plos.org)
-
-- [NK cell-induced damage to P.falciparum-infected erythrocytes requires ligand-specific recognition and releases parasitophorous vacuoles that are phagocytosed by monocytes in the presence of immune IgG](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011585) (Plos.org)
-
-- [Peace Corps to pay $750,000 to family of woman who died in East Africa](https://www.cbsnews.com/news/peace-corps-to-pay-750000-family-bernice-heiderman-death-malaria-misdiagnosis/) (CBS News)
-
-- [Erreger von Tier zu Mensch übertragen - Binnen 30 Jahren zwölfmal mehr Tote durch Zoonosen](https://www.bild.de/ratgeber/2023/ratgeber/epidemie-zoonosen-koennten-sich-bis-2050-verzwoelffachen-86019722.bild.html) (Bild)
-
-- [Over 7 400 Malaria Cases Recorded, 17% Locally Acquired](https://allafrica.com/stories/202311080020.html) (AllAfrica - Top Africa News)
-
-- [Peace Corps agrees to pay $750,000 to family of dead volunteer](https://abcnews.go.com/US/wireStory/peace-corps-agrees-pay-750000-family-dead-volunteer-104704628) (ABC News)
-
-- [Peace Corps agrees to pay $750,000 to family of dead volunteer](https://abcnews.go.com/Health/wireStory/peace-corps-agrees-pay-750000-family-dead-volunteer-104704629) (ABC News)
-
-- [¡Atención! Minsalud reportó casi 80 mil casos en lo que va del 2023](https://www.eluniversal.com.co/colombia/atencion-minsalud-reporto-casi-80-mil-casos-en-lo-que-va-del-2023-FE9402698) (Eluniversal.com.co)
-
-- [News24 | More than 7 400 cases and nearly 70 malaria deaths recorded in SA in 2023](https://www.news24.com/news24/southafrica/news/more-than-7-400-cases-and-nearly-70-malaria-deaths-recorded-in-sa-in-2023-20231107) (News24)
-
-- [Genetic validation of PfFKBP35 as an antimalarial drug target](https://elifesciences.org/articles/86975) (Elifesciences.org)
-
-- [Wirtschaft als das Leben selbst: Münzmalles und Muckibuden [Online-Abo]](https://www.jungewelt.de/artikel/462643.münzmalles-und-muckibuden.html) (Jungewelt.de)
-
-- [As a Teen, She Loved Video Games. Now She's Using A.I. to Try to Quash Malaria](https://cacm.acm.org/news/277841-as-a-teen-she-loved-video-games-now-shes-using-ai-to-try-to-quash-malaria/fulltext) (Acm.org)
-
-- [Gauteng Health Intensifies Malaria Awareness Campaign](https://allafrica.com/stories/202311060461.html) (AllAfrica - Top Africa News)
-
-- [Africa: First African-Manufactured Combination Therapy For Seasonal Malaria Chemoprevention Receives WHO Prequalification](https://allafrica.com/stories/202311060365.html) (AllAfrica - Top Africa News)
-
-- [The fight against malaria](https://theweek.com/health/the-fight-against-malaria) (The Week Magazine)
-
-- [Uganda: Neonatal Conditions Top the List, Malaria Cases Decline in New Health Sector Performance Report](https://allafrica.com/stories/202311060117.html) (AllAfrica - Top Africa News)
-
-## 23-45 (leptospirosis)
-
-- [Comment: Calving time on the farm means key vaccinations are due](https://www.nzherald.co.nz/waikato-news/news/comment-calving-time-on-the-farm-means-key-vaccinations-are-due/GZRNQOZ7SFDTZM4XBGU575XBB4/) (New Zealand Herald)
-
-- [Finding a pathway to a human leptospirosis vaccine](https://medicine.yale.edu/news-article/finding-a-pathway-to-a-human-leptospirosis-vaccine/) (Yale.edu)
-
-## 23-45 (dengue)
-
-- [Au Burkina Faso, la dengue fait des ravages](https://www.courrierinternational.com/article/reportage-au-burkina-faso-la-dengue-fait-des-ravages) (Courrier International)
-
-- [Com dengue, Vieira mantém agenda em busca de tirar brasileiros de Gaza](https://www.metropoles.com/brasil/com-dengue-vieira-mantem-agenda-em-busca-de-tirar-brasileiros-de-gaza) (Metropoles.com)
-
-- [Casos de dengue crescem 9% na cidade de São Paulo](https://valor.globo.com/brasil/noticia/2023/11/10/casos-de-dengue-crescem-9percent-na-cidade-de-sao-paulo.ghtml) (Globo)
-
-- [Brasil deve registrar casos mais graves de dengue em 2024; entenda](https://olhardigital.com.br/2023/11/10/medicina-e-saude/brasil-deve-registrar-casos-mais-graves-de-dengue-em-2024-entenda/) (Olhardigital.com.br)
-
-- [Especialistas alertam que o Brasil pode registrar mais casos de dengue em 2024](https://www.tudocelular.com/tech/noticias/n214126/especialistas-brasil-registrar-casos-dengue-2024.html) (Tudocelular.com)
-
-- [Surto de dengue no Brasil deve piorar em 2024](https://tecnologia.ig.com.br/parceiros/canaltech/2023-11-10/surto-de-dengue-no-brasil-deve-piorar-em-2024.html) (Ig.com.br)
-
-- [First Chikungunya Vaccine Now FDA Approved — What To Know About The ‘Emerging Global Health Threat’](https://www.forbes.com/sites/roberthart/2023/11/10/first-chikungunya-vaccine-now-fda-approved---what-to-know-about-the-emerging-global-health-threat/) (Forbes)
-
-- [DENGUE, ARIDANGHETE! - IN ITALIA AUMENTANO I CASI DI FEBBRE DENGUE, LA MALATTIA INFETTIVA CHE SI TRASMETTE CON LA PUNTURA DI ZANZARE "AEDES" - A ROMA, 2 PERSONE SONO STATE RICOVERATE ALL'ISTITUTO SPALLANZANI DOPO AVER CONTRATTO IL VIRUS: SI TRATTA DI UN UOMO E UNA DONNA ENTREMBE RESIDENTI NEL PRIMO MUNICIPIO: NELL'AREA SONO SUBITO PARTITE LE OPERAZIONI DI DISINFESTAZIONE - IN TOTALE, I CONTAGI IN ITALIA SONO 72 (30 NEL LAZIO)](https://www.dagospia.com/rubrica-29/cronache/dengue-aridanghete-italia-aumentano-casi-febbre-dengue-373775.htm) (Dagospia.com)
-
-- [Viral impact: 25% increase in Bengaluru hospital admissions](https://timesofindia.indiatimes.com/city/bengaluru/viral-impact-25-increase-in-bengaluru-hospital-admissions/articleshow/105110917.cms) (The Times of India)
-
-- [Ya está disponible la vacuna contra el dengue: dónde la aplican, cuánto sale y los pasos por seguir](https://www.lanacion.com.ar/sociedad/ya-esta-disponible-la-vacuna-contra-el-dengue-donde-la-aplican-cuanto-sale-y-los-pasos-por-seguir-nid09112023/) (La Nacion)
-
-- [Health Officials Warn of Painful Disease That Will Become a Major Threat This Decade](https://wealthofgeeks.com/health-officials-warn-of-painful-disease-that-will-become-a-major-threat-this-decade/) (Wealthofgeeks.com)
-
-- [Influence of previous Zika virus infection on acute dengue episode](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011710) (Plos.org)
-
-- [Alerta por alza en los casos de dengue en Cartagena: van 2.193 este año](https://www.eluniversal.com.co/cartagena/alerta-por-alza-en-los-casos-de-dengue-en-cartagena-van-2193-este-ano-XC9411653) (Eluniversal.com.co)
-
-- [Ajit to ‘stay out of public life’ for now, likely to miss Pawar family’s Diwali together](https://indianexpress.com/article/cities/mumbai/ajit-to-stay-out-of-public-life-for-now-likely-to-miss-pawar-familys-diwali-together-9019435/) (The Indian Express)
-
-- [Dengue, allarme e scuole chiuse per quattro giorni: ecco dove e cosa sta accadendo](https://www.ilgiornale.it/news/cronaca-locale/dengue-allarme-e-scuole-chiuse-quattro-giorni-ecco-dove-e-2238401.html) (Ilgiornale.it)
-
-- [WHO stresses need to maintain dengue fever surveillance activities in Ethiopia](https://www.thestar.com.my/news/world/2023/11/09/who-stresses-need-to-maintain-dengue-fever-surveillance-activities-in-ethiopia) (The Star Online)
-
-- [Dengue virus infection induces selective expansion of Vγ4 and Vγ6TCR γδ T cells in the small intestine and a cytokine storm driving vascular leakage in mice](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011743) (Plos.org)
-
-- [Un nuovo caso di dengue in Abruzzo “scambiato” per febbre gialla](https://www.galileonet.it/febbre-gialla-dengue-abruzzo-italia/) (Galileonet.it)
-
-- [Tovább terjed és szedi áldozatait a dengue-láz Srí Lankában](https://www.origo.hu/tudomany/20231108-tovabb-terjed-es-denguelaz-sri-lankaban.html) (Origo.hu)
-
-- [Febbre gialla vicino L'Aquila: scuole chiuse per 4 giorni](https://www.gazzetta.it/attualita/08-11-2023/febbre-gialla-un-caso-in-italia-scuole-chiuse-per-4-giorni-ecco-dove.shtml) (Gazzetta.it)
-
-- [Casos de dengue se triplican en Chiapas; van dos muertos](https://www.milenio.com/estados/casos-de-dengue-en-chiapas-se-triplican-hay-muertos) (Milenio)
-
-- [China becomes important partner of Bangladesh: Ambassador Yao](https://sylhetmirror.com/2023/11/07/china-becomes-important-partner-of-bangladesh-ambassador-yao/) (Sylhetmirror.com)
-
-- [1st LD Writethru: China provides anti-dengue emergency supply to Bangladesh](https://www.thestar.com.my/news/world/2023/11/08/1st-ld-writethru-china-provides-anti-dengue-emergency-supply-to-bangladesh) (The Star Online)
-
-- [Dengue death toll rises to 1,425 with 8 more deaths in a day](https://www.tbsnews.net/bangladesh/health/dengue-death-toll-rises-1425-8-more-deaths-day-735122) (Tbsnews.net)
-
-- [Correction: Demographic and Clinico-Epidemiological Features of Dengue Fever in Faisalabad, Pakistan](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294300) (Plos.org)
-
-- [Você e o Doutor : Saiba como evitar e tratar a dengue](https://recordtv.r7.com/hoje-em-dia/voce-e-o-doutor/videos/voce-e-o-doutor-saiba-como-evitar-e-tratar-a-dengue-07112023) (R7.com)
-
-- [Tunden a alcaldía por culpar a migrantes de contagiar enfermedades](https://aristeguinoticias.com/0611/mexico/tunden-a-alcaldia-por-culpar-a-migrantes-de-contagiar-enfermedades/) (Aristeguinoticias.com)
-
-- [研究者がボルバキアに感染させた蚊がデング熱を大幅に減らしている](https://news.livedoor.com/article/detail/25305976/) (Livedoor.com)
-
-- [Anápolis (GO) registra queda de 65% nos casos de dengue](https://www.metropoles.com/brasil/anapolis-queda-65-dengue) (Metropoles.com)
-
-- [Hoje em Dia fala sobre dengue no Você e o Doutor desta terça-feira (7)](https://recordtv.r7.com/hoje-em-dia/hoje-em-dia-fala-sobre-dengue-no-voce-e-o-doutor-desta-terca-feira-7-06112023) (R7.com)
-
-- [Harisson Minta Para Bupati dan Wali Kota Serius Tangani DBD](https://www.kalbaronline.com/2023/11/06/harisson-minta-para-bupati-dan-wali-kota-serius-tangani-dbd/) (Kalbaronline.com)
-
-## 23-45 (chikungunya)
-
-- [First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approval - Fox News](https://slashdot.org/firehose.pl?op=view&amp;id=172220371) (Slashdot.org)
-
-- [First vaccine for chikungunya virus, an 'emerging global health threat,' gets FDA approval](https://www.foxnews.com/health/first-vaccine-chikungunya-virus-emerging-global-health-threat-gets-fda-approval) (Fox News)
-
-- [FDA approves first vaccine for mosquito-born viral disease - The Hill](https://slashdot.org/firehose.pl?op=view&amp;id=172218135) (Slashdot.org)
-
-- [Chikungunya-Fieber: Valneva-Impfstoff in USA zugelassen](https://orf.at/stories/3339496/) (Orf.at)
-
-- [Vaccin contre le chikungunya : ce labo français qui remporte la course mondiale](https://www.lepoint.fr/sante/vaccin-contre-le-chikungunya-ce-labo-francais-qui-remporte-la-course-mondiale-11-11-2023-2542698_40.php) (Le Point)
-
-- [दुनिया को मिला चिकनगुनिया का पहला टीका, अमेरिका के एफडीए ने इक्स्चिक को दी मंजूरी](https://navbharattimes.indiatimes.com/world/science-news/us-fda-approved-ixchiq-the-first-chikungunya-vaccine/articleshow/105140278.cms) (The Times of India)
-
-- [FDA approves first vaccine against mosquito-borne virus chikungunya - The Washington Post](https://slashdot.org/firehose.pl?op=view&amp;id=172215297) (Slashdot.org)
-
-- [FDA approves first vaccine against mosquito-borne virus chikungunya](https://www.washingtonpost.com/health/2023/11/10/chikungunya-vaccine-approved-mosquito-bites/) (The Washington Post)
-
-- [US approves world's 1st chikungunya vaccine](https://timesofindia.indiatimes.com/world/us/israeli-police-detained-arab-politicians-who-planned-a-vigil-against-gaza-strikes-groups/articleshow/105136438.cms) (The Times of India)
-
-- [Valneva Announces U.S. FDA Approval of World's First Chikungunya Vaccine, IXCHIQ® - Valneva](https://slashdot.org/firehose.pl?op=view&amp;id=172214563) (Slashdot.org)
-
-- [Agência reguladora de medicamentos dos EUA aprova primeira vacina do mundo contra chikungunya](https://noticias.r7.com/jr-na-tv/videos/agencia-reguladora-de-medicamentos-dos-eua-aprova-primeira-vacina-do-mundo-contra-chikungunya-10112023) (R7.com)
-
-- [Primeira vacina contra chikungunya é aprovada nos EUA; veja quando poderá ser liberada no Brasil](https://www.terra.com.br/vida-e-estilo/saude/primeira-vacina-contra-chikungunya-e-aprovada-nos-eua-veja-quando-podera-ser-liberada-no-brasil,14eb039334e775418987521dfe403e8dva768x18.html) (Terra.com.br)
-
-- [EUA aprovam 1ª vacina do mundo contra chikungunya](https://www.terra.com.br/noticias/mundo/eua-aprovam-1-vacina-do-mundo-contra-chikungunya,0aab4c92514da1b77e6a69e2d6f700b27r9fiw6i.html) (Terra.com.br)
-
-- [What You Need To Know About The Chikungunya Virus](https://uproxx.com/viral/chikungunya-virus-what-to-know-travel-advisory/) (UPROXX)
-
-- [FDA, a Anvisa dos EUA, aprova vacina contra chikungunya do Butantan](https://super.abril.com.br/ciencia/fda-a-anvisa-dos-eua-aprova-vacina-contra-chikungunya-do-butantan) (Abril.com.br)
-
-- [FDA approves world's 1st chikungunya vaccine](https://www.livescience.com/health/medicine-drugs/fda-approves-worlds-1st-chikungunya-vaccine) (Live Science)
-
-- [Afrique: Un premier vaccin contre le chikungunya approuvé aux États-Unis](https://fr.allafrica.com/stories/202311100533.html) (AllAfrica - Top Africa News)
-
-- [Autoridade sanitária dos Estados Unidos aprova nova vacina de dose única contra chikungunya](https://www.tudocelular.com/mercado/noticias/n214125/autoridade-sanitaria-dos-estados-unidos-aprova-nova-vacina-de-dose-unica-contra-chikungunya.html) (Tudocelular.com)
-
-- [FDA aprova a primeira vacina contra chikungunya em dose única](https://tecnologia.ig.com.br/parceiros/canaltech/2023-11-10/fda-aprova-a-primeira-vacina-contra-chikungunya-em-dose-unica.html) (Ig.com.br)
-
-- [Vacina contra chikungunya criada no Butantan é aprovada nos EUA](https://www.metropoles.com/saude/vacina-chikungunya-butantan-eua) (Metropoles.com)
-
-- [FDA aprova primeira vacina contra chikungunya nos EUA](https://veja.abril.com.br/saude/fda-aprova-primeira-vacina-contra-chikungunya-nos-eua) (Abril.com.br)
-
-- [Primeira vacina contra Chikungunya é aprovada nos EUA](https://olhardigital.com.br/2023/11/10/medicina-e-saude/primeira-vacina-contra-chikungunya-eh-aprovada-nos-eua/) (Olhardigital.com.br)
-
-- [First Chikungunya Vaccine Now FDA Approved — What To Know About The ‘Emerging Global Health Threat’](https://www.forbes.com/sites/roberthart/2023/11/10/first-chikungunya-vaccine-now-fda-approved---what-to-know-about-the-emerging-global-health-threat/) (Forbes)
-
-- [Chikungunya: EUA aprovam primeira vacina contra a doença](https://saude.ig.com.br/2023-11-10/chikungunya-eua-aprovam-primeira-vacina-doenca.html) (Ig.com.br)
-
-- [Chikungunya : un premier vaccin contre le virus tropical approuvé aux Etats-Unis](https://www.liberation.fr/societe/sante/chikungunya-un-premier-vaccin-contre-le-virus-tropical-approuve-aux-etats-unis-20231110_NZB77TK3VVFEFDRLN3JXJQIKZE/) (Libération)
-
-- [Impfstoffzulassung treibt Valneva-Aktie in die Höhe](https://www.diepresse.com/17810767/impfstoffzulassung-treibt-valneva-aktie-in-die-hoehe) (Diepresse.com)
-
-- [Le vaccin contre le chikungunya de Valneva devient le premier approuvé aux États-Unis](https://www.lejournaldesentreprises.com/loire-atlantique-vendee/article/le-vaccin-contre-le-chikungunya-de-valneva-devient-le-premier-approuve-aux-etats-unis-2073870) (Le Journal des Entreprises)
-
-- [Gli Stati Uniti approvano il primo vaccino contro la chikungunya](https://www.internazionale.it/ultime-notizie/2023/11/10/usa-vaccino-chikungunya) (Internazionale.it)
-
-- [USFDA approves first chikungunya vaccine, from French company Valneva](https://www.thehindubusinessline.com/news/national/usfda-approves-first-chikungunya-vaccine-from-french-company-valneva/article67520656.ece) (BusinessLine)
-
-- [Estados Unidos aprobó una vacuna contra el chikungunya](https://www.jornada.com.mx/2023/11/10/ciencias/a07n3cie) (Jornada.com.mx)
-
-- [Erster Impfstoff gegen Chikungunya zugelassen](https://science.orf.at/stories/3222090/) (Science.orf.at)
-
-- [Le vaccin de Valneva contre le chikungunya approuvé aux USA, une première mondiale](https://www.challenges.fr/finance-et-marche/le-vaccin-de-valneva-contre-le-chikungunya-approuve-aux-usa-une-premiere-mondiale_873634) (Challenges)
-
-- [Nová globálna hrozba? USA schválili celosvetovo prvú vakcínu proti vírusu chikungunya](https://spravy.pravda.sk/svet/clanok/687991-usa-schvalili-celosvetovo-prvu-vakcinu-proti-virusu-chikungunya/) (Pravda.sk)
-
-- [LA "FOOD AND DRUG ADMINISTRATION" AMERICANA HA APPROVATO IL PRIMO VACCINO AL MONDO CONTRO LA CHIKUNGUNYA, UNA MALATTIA TROPICALE CHE SI DIFFONDE CON LE ZANZARE - IL VIRUS, CHE PROVOCA FEBBRE E FORTI DOLORI ARTICOLARI È CONSIDERATO DALL'AUTORITÀ AMERICANA "UNA MINACCIA EMERGENTE PER LA SALUTE GLOBALE" E NONOSTANTE SI TROVI PRINCIPALMENTE IN AFRICA, NEL SUDEST ASIATICO E IN AMERICA, DI RECENTE ALCUNI CONTAGI SONO STATI SEGNALATI ANCHE IN...](https://www.dagospia.com/rubrica-39/salute/quot-food-and-drug-administration-quot-americana-ha-approvato-primo-373804.htm) (Dagospia.com)
-
-- [EUA aprovam a primeira vacina contra a chikungunya](https://noticias.r7.com/saude/eua-aprova-primeira-vacina-contra-chikungunya-10112023) (R7.com)
-
-- [FDA duyurdu: Sivrisinek kaynaklı virüse karşı ilk aşıya onay](https://www.hurriyet.com.tr/dunya/fda-duyurdu-sivrisinek-kaynakli-viruse-karsi-ilk-asiya-onay-42359120) (Hurriyet.com.tr)
-
-- [Chikungunya virus: FDA OKs first vaccine for people 18 years or older - USA TODAY](https://slashdot.org/firehose.pl?op=view&amp;id=172210843) (Slashdot.org)
-
-- [Les Etats-Unis approuvent le premier vaccin contre le chikungunya](https://www.france24.com/fr/info-en-continu/20231110-les-etats-unis-approuvent-le-premier-vaccin-contre-le-chikungunya) (FRANCE 24 English)
-
-- [US approves Chikungunya vaccine for adults](https://www.irishtimes.com/world/us/2023/11/10/us-approves-chikungunya-vaccine-for-adults/) (The Irish Times)
-
-- [Chikungunya : le premier vaccin voit le jour aux Etats-Unis](https://www.lexpress.fr/sciences-sante/sante/chikungunya-le-premier-vaccin-voit-le-jour-aux-etats-unis-OYDCGNV3TFDBTMZPYF3TNQMCDY/) (L'Express)
-
-- [Chikungunya vaccine: US approves first shot against mosquito-borne virus - BBC.com](https://slashdot.org/firehose.pl?op=view&amp;id=172210643) (Slashdot.org)
-
-- [Chikungunya, Fda approva il primo vaccino](https://www.ilsole24ore.com/art/chikungunya-fda-approva-primo-vaccino-AFxpj4ZB) (Il Sole 24 Ore)
-
-- [FDA approves Valneva's Chikungunya vaccine for adults](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/FDA-approves-Valneva-s-Chikungunya-vaccine-for-adults-45294857/) (Marketscreener.com)
-
-- [Chikungunya vaccine: US approves first shot against mosquito-borne virus](https://www.bbc.co.uk/news/world-asia-67376584) (BBC News)
-
-- [Les Etats-Unis approuvent le premier vaccin contre le chikungunya](https://www.lalibre.be/planete/sante/2023/11/10/les-etats-unis-approuvent-le-premier-vaccin-contre-le-chikungunya-66VKYUIXU5AFZNML742UMZHJ2U/) (Lalibre.be)
-
-- [Les Etats-Unis approuvent le premier vaccin contre le chikungunya](https://www.dhnet.be/actu/monde/2023/11/10/les-etats-unis-approuvent-le-premier-vaccin-contre-le-chikungunya-GBVBJQ73RFG3ZNRCIVSJVKPAZM/) (dh.be)
-
-- [La FDA aprueba la primera vacuna contra el virus chikungunya](https://cnnespanol.cnn.com/2023/11/10/la-fda-aprueba-la-primera-vacuna-contra-el-virus-chikungunya-trax/) (CNN)
-
-- [Valneva Announces U.S. FDA Approval of World’s First Chikungunya Vaccine, IXCHIQ®](https://www.globenewswire.com/news-release/2023/11/10/2778039/0/en/Valneva-Announces-U-S-FDA-Approval-of-World-s-First-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
-
-- [Valneva reçoit l’approbation par la U.S. FDA du premier vaccin au monde contre le chikungunya, IXCHIQ®](https://www.globenewswire.com/news-release/2023/11/10/2778039/0/fr/Valneva-re%C3%A7oit-l-approbation-par-la-U-S-FDA-du-premier-vaccin-au-monde-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
-
-- [FDA approves first vaccine against chikungunya virus | CNN](https://www.cnn.com/2023/11/09/health/chikungunya-virus-vaccine/index.html) (CNN)
-
-- [États-Unis : le premier vaccin contre le chikungunya approuvé](https://www.lepoint.fr/sante/etats-unis-le-premier-vaccin-contre-le-chikungunya-approuve-10-11-2023-2542571_40.php) (Le Point)
-
-- [Vacina do Butantan contra chikungunya é aprovada nos EUA](https://sputniknewsbr.com.br/20231109/vacina-do-butantan-contra-chikungunya-e-aprovada-nos-eua-31395912.html) (Sputniknewsbr.com.br)
-
-- [US approves first vaccine against chikungunya virus](https://economictimes.indiatimes.com/news/international/world-news/us-approves-first-vaccine-against-chikungunya-virus/articleshow/105108568.cms) (The Times of India)
-
-- [Approvato negli Usa il primo vaccino al mondo per la chikungunya](https://www.ansa.it/sito/notizie/topnews/2023/11/10/approvato-negli-usa-il-primo-vaccino-al-mondo-per-la-chikungunya_0082ccd5-9230-4b43-a795-805fce30f748.html) (ANSA.it)
-
-- [FDA Approves First Vaccine to Prevent Disease Caused by Chikungunya Virus - FDA.gov](https://slashdot.org/firehose.pl?op=view&amp;id=172209573) (Slashdot.org)
-
-- [Le premier vaccin contre le chikungunya approuvé aux Etats-Unis](https://www.lemonde.fr/sante/article/2023/11/10/le-premier-vaccin-contre-le-chikungunya-approuve-aux-etats-unis_6199241_1651302.html) (Le Monde)
-
-- [US approves first vaccine against chikungunya virus: drug regulator](https://www.bangkokpost.com/world/2682373/us-approves-first-vaccine-against-chikungunya-virus-drug-regulator) (Bangkok Post)
-
-- [US Approves First Vaccine Against Chikungunya Virus](https://www.ibtimes.com/us-approves-first-vaccine-against-chikungunya-virus-3718144) (International Business Times)
-
-- [Les Etats-Unis approuvent le premier vaccin contre le chikungunya](https://www.20minutes.fr/sante/4061683-20231110-etats-unis-approuvent-premier-vaccin-contre-chikungunya) (20 Minutes)
-
-- [US approves first vaccine against chikungunya virus](https://timesofindia.indiatimes.com/world/us/us-approves-first-vaccine-against-chikungunya-virus/articleshow/105107536.cms) (The Times of India)
-
-- [US Approves 1st Vaccine Against Chikungunya Virus](https://www.ndtv.com/world-news/us-approves-1st-vaccine-against-chikungunya-virus-4562689) (NDTV News)
-
-- [Les États-Unis approuvent le premier vaccin contre le chikungunya](https://www.ouest-france.fr/sante/les-etats-unis-approuvent-le-premier-vaccin-contre-le-chikungunya-a395cff8-e270-444c-aaec-ce45f142f1b7) (Ouest-France)
-
-- [Les Etats-Unis approuvent le premier vaccin contre le chikungunya](https://www.sciencesetavenir.fr/sante/les-etats-unis-approuvent-le-premier-vaccin-contre-le-chikungunya_174978) (Sciences et Avenir)
-
-- [US FDA approves Vanessa's chikungunya vaccine](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/US-FDA-approves-Vanessa-s-chikungunya-vaccine-45292712/) (Marketscreener.com)
-
-- [FDA Approves First Vaccine to Prevent Disease Caused by Chikungunya Virus](https://www.fda.gov/news-events/press-announcements/fda-approves-first-vaccine-prevent-disease-caused-chikungunya-virus) (FDA.gov)
-
-- [Batı Nil Virüsü’nü iki saatte tespit edebilen “PCR Tanı Kiti” geliştirildi](http://www.sabah.com.tr/saglik/2023/11/06/bati-nil-virusunu-iki-saatte-tespit-edebilen-pcr-tani-kiti-gelistirildi) (Sabah.com.tr)
