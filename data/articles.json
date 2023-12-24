@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-12-24 07:05",
-  "count_articles_total": 803,
-  "count_articles_new": 1,
+  "last_updated": "2023-12-24 19:05",
+  "count_articles_total": 806,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 3909,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Ag\u00eancia Brasil",
+      "title": "SUS vai aplicar vacina da dengue em 2024",
+      "description": "O Minist\u00e9rio da Sa\u00fade decidiu incorporar a vacina contra dengue ao Sistema \u00danico de Sa\u00fade (SUS). Segundo a ministra da Sa\u00fade, N\u00edsia Trindade, o Brasil \u00e9 o",
+      "url": "https://catracalivre.com.br/saude-bem-estar/sus-vai-aplicar-vacina-da-dengue-em-2024/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2023/06/istock-1487777440.jpg",
+      "publishedAt": "2023-12-23 15:01:03",
+      "content": "\u00daltimas not\u00edcias: O Minist\u00e9rio da Sa\u00fade decidiu incorporar a vacina contra dengue ao Sistema \u00danico de Sa\u00fade (SUS). Segundo a ministra da Sa\u00fade, N\u00edsia Trindade, o Brasil \u00e9 o primeiro pa\u00eds do mundo a\u2026 [+1690 chars]",
+      "retrievedAt": "2023-12-24 19:05:15.364702",
+      "internal_id": "925ba9dc6f297eb8f0e4ed27a3556b0542abefa8a31f24cc723b93ee28bc6118",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 3907,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Brasil \u00e9 o pa\u00eds com mais casos de dengue no mundo, mostram dados da OMS",
+      "description": "Entidade alerta sobre a import\u00e2ncia da preven\u00e7\u00e3o da doen\u00e7a e de a\u00e7\u00f5es contra as mudan\u00e7as clim\u00e1ticas, principal fator que tem levado a um aumento no n\u00famero de casos em todo o mundo",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/brasil-e-o-pais-com-mais-casos-de-dengue-no-mundo-mostram-dados-da-oms,ca6741182dd731f2e50b9191d30ff7264cx0y9jk.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2023-12-23 14:40:35",
+      "content": "Dados da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) sobre o n\u00famero de casos de dengue em 2023 apontam o Brasil como o pa\u00eds com maior incid\u00eancia da doen\u00e7a no mundo. Ao todo, foram foram 2,9 milh\u00f5es de casos r\u2026 [+2430 chars]",
+      "retrievedAt": "2023-12-24 19:05:15.336492",
+      "internal_id": "1d8e0e4cc098c36aabc1545e8e650d46847f94dfbf2780f85df642c6537f8f1d",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 3910,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "WHO cites tenfold increase in reported cases of dengue over the last generation - Jamaica Gleaner",
+      "description": "WHO cites tenfold increase in reported cases of dengue over the last generationJamaica Gleaner View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172573077",
+      "urlToImage": null,
+      "publishedAt": "2023-12-23 14:32:12",
+      "content": "Outside of a dog, a book is man's best friend. Inside of a dog, it is too dark to read.",
+      "retrievedAt": "2023-12-24 19:05:15.370091",
+      "internal_id": "bbc39aa3836d78084d8505be26258d189d87f950526fcbb71d97846dc5481619",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 3908,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Brasil \u00e9 o pa\u00eds com mais casos de dengue no mundo, alerta OMS",
+      "description": "Mudan\u00e7as clim\u00e1ticas podem levar \u00e0 prolifera\u00e7\u00e3o de vetores",
+      "url": "https://noticias.r7.com/saude/brasil-e-pais-com-mais-casos-de-dengue-no-mundo-alerta-oms-23122023",
+      "urlToImage": "https://img.r7.com/images/dengue-mosquito-aedes-aegypti-08122023145230305?crop=743x418+63+96",
+      "publishedAt": "2023-12-23 13:42:00",
+      "content": "Aedes aegypti \u00e9 o transmissor da dengue Freepik O Brasil lidera o n\u00famero de casos de dengue no mundo, com 2,9 milh\u00f5es registrados em 2023, de acordo com a OMS (Organiza\u00e7\u00e3o Mundial da Sa\u00fade). \u2026 [+6194 chars]",
+      "retrievedAt": "2023-12-24 19:05:15.352621",
+      "internal_id": "f14d5d4e2381af721791bb5ba5863a660a0f2e1625b755ff3a2d26dee8d5d1fb",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 3911,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sputnikglobe.com",
+      "author": "Chimauchem  Nwosu",
+      "title": "Health Risk Warning: Surge in Flu-Like Disease Recorded in Swedish Cities",
+      "description": "Infectious parrot fever carried by wild birds, including parakeets, has been associated with acute pneumonia and meningitis cases in humans, and has proven especially deadly to young birds.",
+      "url": "https://sputnikglobe.com/20231223/health-risk-warning-surge-in-flu-like-disease-recorded-in-swedish-cities-1115767993.html",
+      "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1115767993.jpg?10742518011703337278",
+      "publishedAt": "2023-12-23 13:14:37",
+      "content": "Check out all the latest trending news and stories from across the globe and the Internet! Lifestyle, cultural stories, social media hits, latest science and technology news, photos, videos, and much\u2026 [+7584 chars]",
+      "retrievedAt": "2023-12-24 19:05:15.825783",
+      "internal_id": "d435ff560584ba17cf17e45ce7b539480f1b096bc03180c5fdb1540ae8d1c1c3",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 3906,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Getty Images",
+      "title": "Dengue to new strain of Covid: Diseases that made headlines in 2023",
+      "description": "Dengue fever continued to be a significant public health concern in various regions, with outbreaks causing a surge in reported cases. Strategies for mosquito control and public awareness campaigns remained in focus. New research at the Rajiv Gandhi Centre fo\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/dengue-to-new-strain-of-covid-diseases-that-made-headlines-in-2023/dengue/slideshow/106236231.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-106236231,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "publishedAt": "2023-12-23 13:11:28",
+      "content": "Dec 23, 2023, 06:42:09 PM IST Dengue fever continued to be a significant public health concern in various regions, with outbreaks causing a surge in reported cases. Strategies for mosquito control a\u2026 [+1807 chars]",
+      "retrievedAt": "2023-12-24 19:05:15.322132",
+      "internal_id": "e742a7437ffc33b002034dc2598f099a13b330daaf2b00fa58c5ee219b9b877c",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 3905,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Dengue Spike Fuels Concerns of Public Health Threat in Previously Untouched Countries - WHO",
+      "description": "[UN News] This year's surprising spike in dengue infections globally represents a potentially high public health threat, the UN World Health Organization (WHO) said on Friday.",
+      "url": "https://allafrica.com/stories/202312230114.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-23 11:01:31",
+      "content": "This year's surprising spike in dengue infections globally represents a potentially high public health threat, the UN World Health Organization (WHO) said on Friday. The warning came as WHO reported\u2026 [+3435 chars]",
+      "retrievedAt": "2023-12-24 19:05:15.273271",
+      "internal_id": "fffd24d25f867c4d50ddc3a6def8a16fdcdc5ad9c5ef62bf95d3649052af62c4",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 3912,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Kenya: WHO Prequalifies Another Malaria Vaccine",
+      "description": "[Capital FM] Nairobi -- The World Health Organization(WHO) has pre-qualified another malaria vaccine that was partially tested in Kilifi, Kenya.",
+      "url": "https://allafrica.com/stories/202312230081.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-23 10:24:00",
+      "content": "Nairobi \u2014 The World Health Organization(WHO) has pre-qualified another malaria vaccine that was partially tested in Kilifi, Kenya. The vaccine, R21/Matrix-M malaria vaccine is the second vaccine to \u2026 [+1538 chars]",
+      "retrievedAt": "2023-12-24 19:05:16.188596",
+      "internal_id": "44ce45687730f9d3d223c0e2ecd662ce18d0e00ed8ad38d3e1b23288f164f708",
+      "publishedAtLabel": "Dec 23"
+    },
     {
       "id": 3904,
       "query": [
@@ -14420,98 +14564,6 @@
       "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
       "retrievedAt": "2023-11-14 07:05:55.292511",
       "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3103,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "YLE News",
-      "author": null,
-      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
-      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
-      "url": "https://yle.fi/a/74-20059491",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
-      "publishedAt": "2023-11-12 17:03:22",
-      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.165057",
-      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3102,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "10 more dengue patients die in 24hrs",
-      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
-      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-12 13:44:18",
-      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.132310",
-      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3101,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
-      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-11-12 11:15:16",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.111861",
-      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3104,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
-      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
-      "url": "https://allafrica.com/stories/202311120029.html",
-      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
-      "publishedAt": "2023-11-12 09:03:15",
-      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.179704",
-      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3105,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
-      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-12 08:24:42",
-      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
-      "retrievedAt": "2023-11-13 19:05:33.945435",
-      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
       "publishedAtLabel": "Nov 12"
     }
   ]
