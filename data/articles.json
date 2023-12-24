@@ -1,8 +1,26 @@
 {
-  "last_updated": "2023-12-24 02:12",
+  "last_updated": "2023-12-24 07:05",
   "count_articles_total": 803,
-  "count_articles_new": 2,
+  "count_articles_new": 1,
   "articles": [
+    {
+      "id": 3904,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Agency Report",
+      "title": "WHO raises the alarm on increase in dengue infections",
+      "description": "The World Health Organisation has raised the alarm on the increase in dengue infections recorded in 2023 globally, which represents a potentially high public health threat. The UN health agency gave the warning on Friday as it reported more than five million \u2026",
+      "url": "https://punchng.com/who-raises-the-alarm-on-increase-in-dengue-infections/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/05/13101855/logo-who.tmb-1200v.jpg",
+      "publishedAt": "2023-12-23 05:47:36",
+      "content": "The World Health Organisation has raised the alarm on the increase in dengue infections recorded in 2023 globally, which represents a potentially high public health threat. The UN health agency gave\u2026 [+2449 chars]",
+      "retrievedAt": "2023-12-24 07:05:43.712934",
+      "internal_id": "e979f77824b69a59151fa9d164b634af7466247268f806c06f9e112446418314",
+      "publishedAtLabel": "Dec 23"
+    },
     {
       "id": 3902,
       "query": [
@@ -14494,24 +14512,6 @@
       "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
       "retrievedAt": "2023-11-13 19:05:33.945435",
       "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3100,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Endtimeheadlines.org",
-      "author": "End Time Headlines",
-      "title": "FDA approves first vaccine for mosquito borne virus that is becoming an 'emerging global health threat,'",
-      "description": "FDA approves first vaccine for mosquito borne virus that is becoming an 'emerging global health threat,'endtimeheadlines.org",
-      "url": "https://endtimeheadlines.org/2023/11/fda-approves-first-vaccine-for-mosquito-borne-virus-that-is-becoming-an-emerging-global-health-threat/",
-      "urlToImage": "https://endtimeheadlines.org/wp-content/uploads/2023/11/Income-Great-Ideas-Low-Investment-YouTube-Thumbnail-2-4.png",
-      "publishedAt": "2023-11-12 03:40:44",
-      "content": "The U.S. Food and Drug Administration (FDA) on Thursday announced its approval of Ixchiq, the first chikungunya vaccine. The vaccine, which is made by Valneva, is approved for anyone age 18 and older\u2026 [+1486 chars]",
-      "retrievedAt": "2023-11-13 07:06:13.258326",
-      "internal_id": "c5f95f4f76f48639a996f8de133cac7e40fd45057c230ec2175df9914a164164",
       "publishedAtLabel": "Nov 12"
     }
   ]

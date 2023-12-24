@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2023-12-24 02:12
-- **Most recent article:** 2023-12-22 21:34:41
+- **New articles in last harvest:** 1
+- **Last harvest:** 2023-12-24 07:05
+- **Most recent article:** 2023-12-23 05:47:36
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | Total |
 |--|-|-|-|-|-|-|-|
-| dengue | 32 | 41 | 45 | 62 | 44 | 60 | 284 |
+| dengue | 32 | 41 | 45 | 62 | 44 | 61 | 285 |
 | malaria | 19 | 37 | 36 | 26 | 24 | 23 | 165 |
 | mpox | 2 | 19 | 18 | 20 | 24 | 15 | 98 |
 | measles | 33 | 11 | 5 | 5 | 7 | 29 | 90 |
-| chikungunya | 16 | 7 | 10 | 10 | 11 | 4 | 58 |
+| chikungunya | 15 | 7 | 10 | 10 | 11 | 4 | 57 |
 | zika | 3 | 6 | 10 | 15 | 9 | 5 | 48 |
 | rabies | 4 | 8 | 11 | 4 | 7 | 2 | 36 |
 | meningitis | 7 | 0 | 4 | 8 | 9 | 3 | 31 |
@@ -217,6 +217,8 @@ Source: [News API](https://newsapi.org/)
 - [13 posibles casos de defunciones por leptospirosis alertan a Cartagena](https://www.eluniversal.com.co/cartagena/13-posibles-casos-de-defunciones-por-leptospirosis-alertan-a-cartagena-XB9663671) (Eluniversal.com.co)
 
 ## 23-51 (dengue)
+
+- [WHO raises the alarm on increase in dengue infections](https://punchng.com/who-raises-the-alarm-on-increase-in-dengue-infections/) (The Punch)
 
 - [Alckmin usa imagem de Beyoncé para divulgar vacina da dengue: 'ela veio e a dengue vai'](https://www.terra.com.br/noticias/brasil/politica/alckmin-usa-imagem-de-beyonce-para-divulgar-vacina-da-dengue-ela-veio-e-a-dengue-vai,95229df3bb064a1f6e17e9b8cde6f66cbasvj711.html) (Terra.com.br)
 
@@ -1877,5 +1879,3 @@ Source: [News API](https://newsapi.org/)
 - [Trophées des usines, nouveaux Territoires d'industrie, vaccin contre le chikungunya... Les sept bonnes nouvelles de la semaine](https://www.usinenouvelle.com/article/trophees-des-usines-nouveaux-territoires-d-industrie-vaccin-contre-le-chikungunya-les-sept-bonnes-nouvelles-de-la-semaine.N2194218) (L'Usine Nouvelle)
 
 - [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
-
-- [FDA approves first vaccine for mosquito borne virus that is becoming an 'emerging global health threat,'](https://endtimeheadlines.org/2023/11/fda-approves-first-vaccine-for-mosquito-borne-virus-that-is-becoming-an-emerging-global-health-threat/) (Endtimeheadlines.org)
