@@ -31,5 +31,6 @@ SOURCE_IGNORE = [
     "The American Conservative",
     "Lewrockwell.com",
     "FREDZONE",
-    "Fark.com"
+    "Fark.com",
+    "Diamond.jp"
 ]
