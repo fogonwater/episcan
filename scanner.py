@@ -9,7 +9,7 @@ from settings import KEYWORD_QUERIES, SOURCE_IGNORE
 import report_maker
 
 NEWSAPI = NewsApiClient(api_key=os.environ.get("NEWSAPI_KEY"))
-SHOULD_HARVEST = True
+SHOULD_HARVEST = False
 
 def strip_html(data):
     p = re.compile(r"<.*?>")
