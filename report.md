@@ -1,7 +1,7 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2023-12-25 19:05
+- **New articles in last harvest:** 0
+- **Last harvest:** 2023-12-26 09:39
 - **Most recent article:** 2023-12-24 18:40:32
 
 ---
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 30 | 41 | 45 | 62 | 44 | 70 | 3 | 295 |
-| malaria | 17 | 37 | 36 | 26 | 24 | 25 | 1 | 166 |
-| mpox | 2 | 19 | 18 | 20 | 24 | 15 | 0 | 98 |
-| measles | 33 | 11 | 5 | 5 | 7 | 29 | 7 | 97 |
-| chikungunya | 14 | 7 | 10 | 10 | 11 | 4 | 0 | 56 |
-| zika | 2 | 6 | 10 | 15 | 9 | 5 | 0 | 47 |
-| rabies | 4 | 8 | 11 | 4 | 7 | 2 | 0 | 36 |
+| dengue | 32 | 41 | 45 | 62 | 42 | 69 | 3 | 294 |
+| malaria | 18 | 37 | 33 | 26 | 24 | 24 | 1 | 163 |
+| mpox | 2 | 16 | 18 | 15 | 24 | 15 | 0 | 90 |
+| measles | 27 | 11 | 4 | 5 | 7 | 28 | 4 | 86 |
+| chikungunya | 15 | 7 | 10 | 10 | 11 | 4 | 0 | 57 |
+| zika | 3 | 6 | 10 | 15 | 9 | 5 | 0 | 48 |
+| rabies | 4 | 8 | 9 | 4 | 7 | 2 | 0 | 34 |
 | meningitis | 7 | 0 | 4 | 8 | 9 | 4 | 1 | 33 |
 | pertussis | 3 | 6 | 4 | 2 | 4 | 2 | 0 | 21 |
 | leptospirosis | 3 | 3 | 4 | 3 | 0 | 2 | 0 | 15 |
@@ -38,13 +38,7 @@ Source: [News API](https://newsapi.org/)
 
 - [BBC News: The race to understand 'immune amnesia'](https://www.bbc.com/future/article/20211112-the-people-with-immune-amnesia) (BBC News)
 
-- [Possible measles virus exposure at Center City building, health department says - NBC 10 Philadelphia](https://slashdot.org/firehose.pl?op=view&amp;id=172577143) (Slashdot.org)
-
-- [Philadelphia health officials notify residents of possible measles exposure - WPVI-TV](https://slashdot.org/firehose.pl?op=view&amp;id=172577085) (Slashdot.org)
-
 - [Philadelphia Health warns the public about measles exposure at building](https://www.cbsnews.com/philadelphia/news/measles-philadelphia-department-of-public-health-pennsylvania-jefferson-health/) (CBS News)
-
-- [Philadelphia health officials notify residents of possible measles exposure at Jefferson Health - WPVI-TV](https://slashdot.org/firehose.pl?op=view&amp;id=172576469) (Slashdot.org)
 
 - [Philly warns of possible measles exposure at Center City building with Jefferson Health offices](https://www.inquirer.com/news/pennsylvania/philadelphia-measles-jefferson-health-center-city-20231223.html) (The Philadelphia Inquirer)
 
@@ -150,8 +144,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Colorado measles case confirmed days after international traveler flew into Denver airport](https://www.foxnews.com/health/colorado-measles-case-confirmed-international-traveler-denver-airport) (Fox News)
 
-- [Officials confirm first case of measles in Colorado resident in five years - The Colorado Sun](https://slashdot.org/firehose.pl?op=view&amp;id=172543879) (Slashdot.org)
-
 - [Health officials push to get schoolchildren vaccinated](https://www.wishtv.com/news/health-spotlight/health-officials-push-to-get-schoolchildren-vaccinated-as-more-us-parents-opt-out/) (WISHTV.com)
 
 - [Socio-economic inequalities in and factors associated with minimum dietary diversity among children aged 6-23 months in South Asia: a decomposition analysis](https://bmjopen.bmj.com/content/13/12/e072775?rss=1) (The BMJ)
@@ -222,8 +214,6 @@ Source: [News API](https://newsapi.org/)
 
 - [World News in Brief: Latest Sudan fighting displaces thousands, second malaria vaccine, Russian dissidents ‘disappeared’](https://news.un.org/en/story/2023/12/1145042) (UN News)
 
-- [US Equity Futures Point to Wall Street Rebound: Markets Wrap - Yahoo Finance](https://slashdot.org/firehose.pl?op=view&amp;id=172545579) (Slashdot.org)
-
 - [Stepping up the anti-malaria war](https://punchng.com/stepping-up-the-anti-malaria-war/) (The Punch)
 
 - [A bargain in saving lives from malaria](https://www.bangkokpost.com/opinion/opinion/2710068/a-bargain-in-saving-lives-from-malaria) (Bangkok Post)
@@ -265,8 +255,6 @@ Source: [News API](https://newsapi.org/)
 - [SUS vai aplicar vacina da dengue em 2024](https://catracalivre.com.br/saude-bem-estar/sus-vai-aplicar-vacina-da-dengue-em-2024/) (Catracalivre.com.br)
 
 - [Brasil é o país com mais casos de dengue no mundo, mostram dados da OMS](https://www.terra.com.br/vida-e-estilo/saude/brasil-e-o-pais-com-mais-casos-de-dengue-no-mundo-mostram-dados-da-oms,ca6741182dd731f2e50b9191d30ff7264cx0y9jk.html) (Terra.com.br)
-
-- [WHO cites tenfold increase in reported cases of dengue over the last generation - Jamaica Gleaner](https://slashdot.org/firehose.pl?op=view&amp;id=172573077) (Slashdot.org)
 
 - [Brasil é o país com mais casos de dengue no mundo, alerta OMS](https://noticias.r7.com/saude/brasil-e-pais-com-mais-casos-de-dengue-no-mundo-alerta-oms-23122023) (R7.com)
 
@@ -618,8 +606,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Millions infected with dengue this year in new record as hotter temperatures cause virus to flare](https://japantoday.com/category/features/health/millions-infected-with-dengue-this-year-in-new-record-as-hotter-temperatures-cause-virus-to-flare) (Japan Today)
 
-- [Dengue cases break records in Americas amid warmer temperatures - NBC News](https://slashdot.org/firehose.pl?op=view&amp;id=172485377) (Slashdot.org)
-
 - [Saiba quem era a paciente que morreu em UPA de Águas Lindas](https://www.metropoles.com/distrito-federal/saiba-quem-era-a-paciente-que-morreu-em-upa-de-aguas-lindas) (Metropoles.com)
 
 - [Dengue, ¿la próxima ‘gran pandemia’? 2023 se enfila a ser el año con más casos de la historia](https://www.elfinanciero.com.mx/salud/2023/12/13/expertos-alertan-por-aumento-de-casos-de-dengue-en-2023-podria-ser-pandemia/) (El Financiero)
@@ -635,8 +621,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue Fever Is Soaring Worldwide. Here’s What to Know—and How to Stay Protected](https://time.com/6429963/dengue-fever-cases-symptoms-prevention-explainer/) (Time)
 
 - [Aumento em casos de dengue preocupa Ministério da Saúde](https://www.terra.com.br/nos/aumento-em-casos-de-dengue-preocupa-ministerio-da-saude,cf92216ce59639fb4b1c56d8b00b013bgclq6ui4.html) (Terra.com.br)
-
-- [Millions infected with dengue this year in new record as hotter temperatures cause virus to flare - The Associated Press](https://slashdot.org/firehose.pl?op=view&amp;id=172481731) (Slashdot.org)
 
 - [U.K. Health Security Agency Deploys Made-Up Rise of 5°C in 80 Years to Spread Alarm About Dengue Fever Plague in London](https://dailysceptic.org/2023/12/13/u-k-health-security-agency-deploys-made-up-rise-of-5c-in-80-years-to-spread-alarm-about-dengue-fever-plague-in-london/) (Dailysceptic.org)
 
@@ -770,23 +754,15 @@ Source: [News API](https://newsapi.org/)
 
 - [CDC issues warning over new, more deadly strain of mpox](https://www.queerty.com/cdc-issues-warning-over-new-more-deadly-strain-of-mpox-20231208) (Queerty.com)
 
-- [CDC warns of more infectious mpox strain - The Hill](https://slashdot.org/firehose.pl?op=view&amp;id=172452637) (Slashdot.org)
-
 - [Map Shows Where Deadly Mpox Cases Are Rising as CDC Issues Warning](https://www.newsweek.com/map-shows-where-deadly-mpox-cases-are-rising-cdc-issues-warning-1850935) (Newsweek)
 
-- [Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warns - New York Post](https://slashdot.org/firehose.pl?op=view&amp;id=172451439) (Slashdot.org)
-
 - [WHO 'worried' about mpox spread in DRC, Reuters reports](https://thefly.com/permalinks/entry.php/id3828359/SIGA;DGX-WHO-worried-about-mpox-spread-in-DRC-Reuters-reports) (Thefly.com)
-
-- [CDC urges doctors, health departments to bolster surveillance of more severe mpox strain - Yahoo Life](https://slashdot.org/firehose.pl?op=view&amp;id=172451131) (Slashdot.org)
 
 - [More Infectious Mpox Sparks Fears Of New Global Spread — What To Know About The Deadly Virus](https://www.forbes.com/sites/roberthart/2023/12/08/more-infectious-mpox-sparks-fears-of-new-global-spread---what-to-know-about-the-deadly-virus/) (Forbes)
 
 - [Mpox has not gone away, leading sexual health charity warns](https://www.gaytimes.co.uk/life/mpox-has-not-gone-away-leading-sexual-health-charity-warns/) (Gay Times Magazine)
 
 - [Mpox Outbreak: CDC Issues Warning About New Variant As Cases Surge In 2 States](https://www.medicaldaily.com/mpox-outbreak-cdc-issues-warning-about-new-variant-cases-surge-2-states-471179) (Medical Daily)
-
-- [CDC urges doctors, health departments to bolster surveillance of more severe mpox strain - CNN](https://slashdot.org/firehose.pl?op=view&amp;id=172447227) (Slashdot.org)
 
 - [US CDC issues health alert for subtype of mpox virus in Congo](https://www.reuters.com/world/africa/us-cdc-issues-health-alert-subtype-mpox-virus-congo-2023-12-07/) (Reuters)
 
@@ -795,8 +771,6 @@ Source: [News API](https://newsapi.org/)
 - [Estimation of Incubation Period of Mpox during 2022 Outbreak in Pereira, Colombia](https://wwwnc.cdc.gov/eid/article/30/1/22-1663_article) (Cdc.gov)
 
 - [Level 2 - Mpox in the Democratic Republic of the Congo (DRC)](https://wwwnc.cdc.gov/travel/notices/level2/monkeypox-democratic-republic-of-congo) (Cdc.gov)
-
-- [Mpox surge in Congo raises concerns world will ignore warnings again - The Washington Post](https://slashdot.org/firehose.pl?op=view&amp;id=172397577) (Slashdot.org)
 
 - [Mpox surge in Congo raises fears world will ignore warnings again](https://www.washingtonpost.com/health/2023/12/06/mpox-monkeypox-congo-who-vaccines/) (The Washington Post)
 
@@ -1090,10 +1064,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Horror Movie Rabies Finds Monstrous Terror in 90s Beirut](https://www.comingsoon.net/horror/news/1415664-rabies-beirut-horror-movie) (ComingSoon.net)
 
-- [Kitten sparks RABIES scare that could put 7M Americans at risk - Daily Mail](https://slashdot.org/firehose.pl?op=view&amp;id=172318743) (Slashdot.org)
-
-- [Kitten sparks huge RABIES scare that could put 7million Americans at risk after catching virus, then scratchin - Daily Mail](https://slashdot.org/firehose.pl?op=view&amp;id=172317869) (Slashdot.org)
-
 - [How one rabid kitten triggered massive effort to contain deadly disease](https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/) (The Washington Post)
 
 ## 23-48 (pertussis)
@@ -1164,8 +1134,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Vaxxas Announces and Publishes Successful Phase I Clinical Trial for Measles and Rubella Vaccine Delivered Using its Proprietary High-Density Microarray Skin Patch; Plan for Phase I/II Trial in The Gambia, Africa](https://www.ibtimes.com.au/press-release/20231127/vaxxas-announces-and-publishes-successful-phase-i-clinical-trial-for-measles-and-rubella-vaccine-delivered-using-its-proprietary-high-density-microarray-skin-patch-plan-for-phase-i-ii-trial-in-the-gambia-africa) (Ibtimes.com.au)
 
-- [Unvaccinated and Vulnerable: Children Drive Surge in Deadly Outbreaks - The New York Times](https://slashdot.org/firehose.pl?op=view&amp;id=172307397) (Slashdot.org)
-
 ## 23-48 (malaria)
 
 - [The Surprising Link Between Malaria And River Color](https://www.forbes.com/sites/christinero/2023/12/02/the-surprising-link-between-malaria-and-river-color/) (Forbes)
@@ -1186,15 +1154,9 @@ Source: [News API](https://newsapi.org/)
 
 - [Malaria: Climate change poses “substantial risk to progress,” WHO warns](https://www.bmj.com/content/383/bmj.p2848) (The BMJ)
 
-- [World at risk of losing malaria fight as cases rise, report says - Reuters](https://slashdot.org/firehose.pl?op=view&amp;id=172343071) (Slashdot.org)
-
 - [Africa: Climate Change Risks Upending Global Fight Against Malaria - WHO](https://allafrica.com/stories/202312010004.html) (AllAfrica - Top Africa News)
 
-- [WHO's annual malaria report spotlights the growing threat of climate change - World Health Organization](https://slashdot.org/firehose.pl?op=view&amp;id=172339281) (Slashdot.org)
-
 - [World at risk of losing malaria fight as cases rise, report says](https://www.investing.com/news/world-news/world-at-risk-of-losing-malaria-fight-as-cases-rise-report-says-3247110) (Investing.com)
-
-- [Climate crisis a ‘substantial risk’ to fight against malaria, says WHO - The Guardian](https://slashdot.org/firehose.pl?op=view&amp;id=172338681) (Slashdot.org)
 
 - [We Must Not Let Climate Change Derail The Fight Against Malaria](https://www.forbes.com/sites/petersands/2023/11/30/we-must-not-let-climate-change-derail-the-fight-against-malaria/) (Forbes)
 
@@ -1426,13 +1388,7 @@ Source: [News API](https://newsapi.org/)
 
 - [Explained: What Is Mpox? UN Confirms Sexual Spread Of The Desease In Congo](https://www.ndtv.com/world-news/explained-what-is-mpox-un-confirms-sexual-spread-of-the-desease-in-congo-4605279) (NDTV News)
 
-- [UN confirms sexual spread of mpox in Congo for the 1st time - ABC News](https://slashdot.org/firehose.pl?op=view&amp;id=172302353) (Slashdot.org)
-
 - [WHO Confirms First Sexual Spread of Mpox in Congo Amid Record Outbreak](https://www.voanews.com/a/who-confirms-first-sexual-spread-of-mpox-in-congo-amid-record-outbreak/7369344.html) (VOA News)
-
-- [UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - ABC News](https://slashdot.org/firehose.pl?op=view&amp;id=172301071) (Slashdot.org)
-
-- [UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - Yahoo News](https://slashdot.org/firehose.pl?op=view&amp;id=172300095) (Slashdot.org)
 
 - [Viruses: Their infection tactics determine if they can jump species or set off a pandemic](https://www.rawstory.com/viruses-their-infection-tactics-determine-whether-they-can-jump-species-or-set-off-a-pand/) (Raw Story)
 
@@ -1668,6 +1624,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Polscy naukowcy opracowali prototyp szczepionki przeciwko wirusowi Zika](https://geekweek.interia.pl/medycyna/news-polscy-naukowcy-opracowali-prototyp-szczepionki-przeciwko-wi,nId,7150632) (Interia.pl)
 
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
+
 ## 23-46 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 17th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-17th-november-2023/) (Iasbaba.com)
@@ -1720,8 +1678,6 @@ Source: [News API](https://newsapi.org/)
 
 ## 23-46 (measles)
 
-- [Measles deaths jumped over 40% between 2021 and 2022, CDC reports - Livescience.com](https://slashdot.org/firehose.pl?op=view&amp;id=172265475) (Slashdot.org)
-
 - [Measles: WHO warns of increasing threat worldwide](https://www.ctvnews.ca/health/world-health-organization-warns-of-relentlessly-increasing-threat-of-measles-1.6651176) (Ctvnews.ca)
 
 - [Report of 11 lakh children not getting measles vaccine is fake says Health Ministry Reports not based on facts](https://www.punjabijagran.com/national/general-report-of-11-lakh-children-not-getting-measles-vaccine-is-fake-says-health-ministry-reports-not-based-on-facts-9303294.html) (Punjabijagran.com)
@@ -1732,11 +1688,7 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Stages ‘Staggering’ Comeback As Vaccination Drops — Here’s What To Know About The Returning Killer](https://www.forbes.com/video/6341324782112/measles-stages-staggering-comeback-as-vaccination-drops--heres-what-to-know-about-the-returning-killer/) (Forbes)
 
-- [Measles rises globally amid vaccination crash; WHO and CDC sound the alarm](https://slashdot.org/firehose.pl?op=view&amp;id=172259123) (Slashdot.org)
-
 - [The cost of measles: Why NZers should care about vaccination rates](https://www.1news.co.nz/2023/11/18/the-cost-of-measles-why-nzers-should-care-about-vaccination-rates/) (1news.co.nz)
-
-- [Measles rises globally amid vaccination crash; WHO and CDC sound the alarm - Ars Technica](https://slashdot.org/firehose.pl?op=view&amp;id=172258951) (Slashdot.org)
 
 - [Measles rises globally amid vaccination crash; WHO and CDC sound the alarm](https://arstechnica.com/health/2023/11/global-measles-cases-deaths-rising-as-vaccination-still-low-after-covid-crash/) (Ars Technica)
 
@@ -1750,17 +1702,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles deaths worldwide have increased dramatically thanks to a decline in vaccinations](https://www.fastcompany.com/90984633/measles-cases-deaths-dramatic-increase-worldwide-vaccinations-cdc) (Fast Company)
 
-- [Vaccination Vacation: Measles Makes a Menacing Comeback - SciTechDaily](https://slashdot.org/firehose.pl?op=view&amp;id=172255299) (Slashdot.org)
-
 - [Measles deaths worldwide jumped 40% last year, health agencies say](https://www.1news.co.nz/2023/11/17/measles-deaths-worldwide-jumped-40-last-year-health-agencies-say/) (1news.co.nz)
 
 - [Worldwide Measles Deaths Up 43% in 2022 Y/Y - WHO](https://sputnikglobe.com/20231117/worldwide-measles-deaths-up-43-in-2022-yy---who-1115013123.html) (Sputnikglobe.com)
 
-- [Global measles threat continues to grow as another year passes with millions of children unvaccinated | CDC Online Newsroom - CDC](https://slashdot.org/firehose.pl?op=view&amp;id=172253543) (Slashdot.org)
-
 - [Measles deaths worldwide jumped 40% last year, health agencies say](https://www.bostonglobe.com/2023/11/16/world/measles-deaths-worldwide-jumped-40-last-year-health-agencies-say/) (The Boston Globe)
-
-- [Measles deaths up 40% in 2022 as vaccinations dropped during COVID pandemic - Global News](https://slashdot.org/firehose.pl?op=view&amp;id=172252929) (Slashdot.org)
 
 - ['Staggering' rise in global measles cases last year, say leading health organizations](https://www.cbc.ca/news/health/staggering-rise-in-global-measles-cases-last-year-say-leading-health-organizations-1.7030576) (CBC News)
 
@@ -1821,6 +1767,8 @@ Source: [News API](https://newsapi.org/)
 - [Video captures long-lost species named after David Attenborough](https://www.cbsnews.com/news/video-long-beaked-echidna-sir-david-attenborough-lost-endangered/) (CBS News)
 
 - [Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel](https://www.nu.nl/goed-nieuws/6289153/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.html) (Www.nu.nl)
+
+- [Rutto, malaria, toisintokuume – tuotantoeläinten kesyttäminen näkyy ihmiskunnan taudeissa](https://yle.fi/a/74-20059491) (YLE News)
 
 ## 23-46 (leptospirosis)
 
@@ -1892,6 +1840,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: NegOcc dengue cases drop 74 percent](https://rpnradio.com/bacolod-negocc-dengue-cases-drop-74-percent/) (Rpnradio.com)
 
+- [10 more dengue patients die in 24hrs](https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214) (Tbsnews.net)
+
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
+
 ## 23-46 (chikungunya)
 
 - [Emergex Signs Contract of £1.79M with the UK Department of Health and Social Care’s UK Vaccine Network (“UKVN”) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus](https://www.globenewswire.com/news-release/2023/11/17/2782493/0/en/Emergex-Signs-Contract-of-1-79M-with-the-UK-Department-of-Health-and-Social-Care-s-UK-Vaccine-Network-UKVN-to-Advance-Its-Novel-Synthetic-T-Cell-Priming-Set-Point-Candidate-Against.html) (GlobeNewswire)
@@ -1921,3 +1873,5 @@ Source: [News API](https://newsapi.org/)
 - [Valneva annonce des résultats positifs de Phase 3 concernant l’immunogénicité de son candidat vaccin contre le chikungunya chez les adolescents](https://www.globenewswire.com/news-release/2023/11/13/2778680/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-3-concernant-l-immunog%C3%A9nicit%C3%A9-de-son-candidat-vaccin-contre-le-chikungunya-chez-les-adolescents.html) (GlobeNewswire)
 
 - [Trophées des usines, nouveaux Territoires d'industrie, vaccin contre le chikungunya... Les sept bonnes nouvelles de la semaine](https://www.usinenouvelle.com/article/trophees-des-usines-nouveaux-territoires-d-industrie-vaccin-contre-le-chikungunya-les-sept-bonnes-nouvelles-de-la-semaine.N2194218) (L'Usine Nouvelle)
+
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)

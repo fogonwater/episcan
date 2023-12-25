@@ -1,7 +1,7 @@
 {
-  "last_updated": "2023-12-25 19:05",
-  "count_articles_total": 822,
-  "count_articles_new": 4,
+  "last_updated": "2023-12-26 09:39",
+  "count_articles_total": 797,
+  "count_articles_new": 0,
   "articles": [
     {
       "id": 3927,
@@ -94,42 +94,6 @@
       "publishedAtLabel": "Dec 24"
     },
     {
-      "id": 3914,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Possible measles virus exposure at Center City building, health department says - NBC 10 Philadelphia",
-      "description": "Possible measles virus exposure at Center City building, health department saysNBC 10 Philadelphia Philadelphia health officials notify residents of possible measles exposureWPVI-TV Philly health officials report possible measles exposure at Center City build\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172577143",
-      "urlToImage": null,
-      "publishedAt": "2023-12-24 03:32:19",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-25 07:05:51.062677",
-      "internal_id": "2c57e6c997290c53d02847032b61c87322727bb071f058a458a966dea03de9df",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3915,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Philadelphia health officials notify residents of possible measles exposure - WPVI-TV",
-      "description": "Philadelphia health officials notify residents of possible measles exposureWPVI-TV Possible measles virus exposure at Center City building, health department saysNBC 10 Philadelphia Philly health officials report possible measles exposure at Center City build\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172577085",
-      "urlToImage": null,
-      "publishedAt": "2023-12-24 03:12:07",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-25 07:05:51.066019",
-      "internal_id": "d8f2a9ff846454bd11cc745585522b552380201ba68ab937c11fa0535e3fa378",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
       "id": 3918,
       "query": [
         "measles"
@@ -163,24 +127,6 @@
       "content": "La escasez de medicinas, la falta de higiene, el hambre y otras consecuencias de la guerra han disparado las enfermedades infecciosas hasta extremos nunca antes vistos en Gaza, que el invierno puede \u2026 [+3798 chars]",
       "retrievedAt": "2023-12-25 07:05:51.990111",
       "internal_id": "08ae29b04436f025463f6a7b290ae2f3db10ca8cb662fc01bf37de423be56a6c",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3916,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Philadelphia health officials notify residents of possible measles exposure at Jefferson Health - WPVI-TV",
-      "description": "Philadelphia health officials notify residents of possible measles exposure at Jefferson HealthWPVI-TV...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172576469",
-      "urlToImage": null,
-      "publishedAt": "2023-12-24 01:12:20",
-      "content": "My problem lies in reconciling my gross habits with my net income. -- Errol Flynn Any man who has $10,000 left when he dies is a failure. -- Errol Flynn",
-      "retrievedAt": "2023-12-25 07:05:51.068928",
-      "internal_id": "0de2b0f13268670ee7bfdfbfaa276ad8628f6570133d5d998c149378c37e52e8",
       "publishedAtLabel": "Dec 24"
     },
     {
@@ -325,24 +271,6 @@
       "content": "Dados da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) sobre o n\u00famero de casos de dengue em 2023 apontam o Brasil como o pa\u00eds com maior incid\u00eancia da doen\u00e7a no mundo. Ao todo, foram foram 2,9 milh\u00f5es de casos r\u2026 [+2430 chars]",
       "retrievedAt": "2023-12-24 19:05:15.336492",
       "internal_id": "1d8e0e4cc098c36aabc1545e8e650d46847f94dfbf2780f85df642c6537f8f1d",
-      "publishedAtLabel": "Dec 23"
-    },
-    {
-      "id": 3910,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "WHO cites tenfold increase in reported cases of dengue over the last generation - Jamaica Gleaner",
-      "description": "WHO cites tenfold increase in reported cases of dengue over the last generationJamaica Gleaner View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172573077",
-      "urlToImage": null,
-      "publishedAt": "2023-12-23 14:32:12",
-      "content": "Outside of a dog, a book is man's best friend. Inside of a dog, it is too dark to read.",
-      "retrievedAt": "2023-12-24 19:05:15.370091",
-      "internal_id": "bbc39aa3836d78084d8505be26258d189d87f950526fcbb71d97846dc5481619",
       "publishedAtLabel": "Dec 23"
     },
     {
@@ -1696,24 +1624,6 @@
       "publishedAtLabel": "Dec 21"
     },
     {
-      "id": 3844,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "US Equity Futures Point to Wall Street Rebound: Markets Wrap - Yahoo Finance",
-      "description": "US Equity Futures Point to Wall Street Rebound: Markets WrapYahoo Finance Stock Market Today: Dow, S&P Live Updates for December 21Bloomberg Live news: WHO paves way for global rollout of malaria vaccineFinancial Times Morning Bid: Global rally shudders to ha\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172545579",
-      "urlToImage": null,
-      "publishedAt": "2023-12-21 10:52:28",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-22 19:05:33.431314",
-      "internal_id": "40e5640567245737a3bdba4a5a678894a55a762660f9c80dd84c22a47068c735",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
       "id": 3834,
       "query": [
         "rabies"
@@ -1765,24 +1675,6 @@
       "content": "Health officials have confirmed an international traveler who passed through Denver International Airport on Dec. 13 has tested positive for measles. The adolescent, whose vaccination status is unkn\u2026 [+1351 chars]",
       "retrievedAt": "2023-12-22 07:05:52.898060",
       "internal_id": "46b5b4195500ed77ad4ec2571087e5176f6577fee063d8bbb50c8d4cbf69ca20",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 3817,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Officials confirm first case of measles in Colorado resident in five years - The Colorado Sun",
-      "description": "Officials confirm first case of measles in Colorado resident in five yearsThe Colorado Sun Colorado reports first measles case in 4 years in Denver airport travelerThe Denver Post Colorado measles case confirmed days after patient flew into Denver airportFOX \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172543879",
-      "urlToImage": null,
-      "publishedAt": "2023-12-21 05:52:14",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-22 07:05:52.904678",
-      "internal_id": "d40fdacd95e031e8ba3bb06b5e23095c68a7d3f6332371235290d76fd9bdbf83",
       "publishedAtLabel": "Dec 21"
     },
     {
@@ -4000,24 +3892,6 @@
       "publishedAtLabel": "Dec 13"
     },
     {
-      "id": 3710,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Dengue cases break records in Americas amid warmer temperatures - NBC News",
-      "description": "Dengue cases break records in Americas amid warmer temperaturesNBC News Dengue Fever Is Soaring Worldwide. Here\u2019s What to Know\u2014and How to Stay ProtectedAOL Painful Disease on Brink of Spreading, Health Officials WarnNewsweek Millions infected with dengue this\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172485377",
-      "urlToImage": null,
-      "publishedAt": "2023-12-13 21:34:25",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-15 07:05:52.469897",
-      "internal_id": "e373b1150a6ddfede621e8b62734e7a8cf18af2f8b1e5e724855425b77cb5e2c",
-      "publishedAtLabel": "Dec 13"
-    },
-    {
       "id": 3709,
       "query": [
         "dengue"
@@ -4303,24 +4177,6 @@
       "content": "Japan's health ministry said Wednesday that a man in his 30s who was living in Saitama Prefecture had died of mpox, the first such death in the country. Japan's first case of mpox, formerly known as\u2026 [+43 chars]",
       "retrievedAt": "2023-12-14 19:05:28.720686",
       "internal_id": "3be532fe2cce990d219ecafec4c943f1d27cb0c0370d91fd000d86465b000745",
-      "publishedAtLabel": "Dec 13"
-    },
-    {
-      "id": 3694,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Millions infected with dengue this year in new record as hotter temperatures cause virus to flare - The Associated Press",
-      "description": "Millions infected with dengue this year in new record as hotter temperatures cause virus to flareThe Associated Press View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172481731",
-      "urlToImage": null,
-      "publishedAt": "2023-12-13 08:52:04",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-14 19:05:27.249287",
-      "internal_id": "f4c2176e66d68a0f9a96c96b11958723ca1abd5afe8c340104102bae655319b0",
       "publishedAtLabel": "Dec 13"
     },
     {
@@ -5354,24 +5210,6 @@
       "publishedAtLabel": "Dec 9"
     },
     {
-      "id": 3635,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "CDC warns of more infectious mpox strain - The Hill",
-      "description": "CDC warns of more infectious mpox strainThe Hill Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warnsNew York Post CDC urges doctors, health departments to bolster surveillance of more severe mpox strainYahoo Life More Infectious Mpox Sparks Fe\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172452637",
-      "urlToImage": null,
-      "publishedAt": "2023-12-08 22:32:49",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-10 07:05:43.390263",
-      "internal_id": "ed0c2904cab6bb28f74887a516113bccd9f932033f498b90ec07defe9078f89c",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
       "id": 3632,
       "query": [
         "chikungunya"
@@ -5498,24 +5336,6 @@
       "publishedAtLabel": "Dec 8"
     },
     {
-      "id": 3623,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warns - New York Post",
-      "description": "Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warnsNew York Post CDC urges doctors, health departments to bolster surveillance of more severe mpox strainYahoo Life US CDC issues health alert for subtype of mpox virus in CongoReuters US CDC iss\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172451439",
-      "urlToImage": null,
-      "publishedAt": "2023-12-08 18:14:03",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-09 19:05:20.810580",
-      "internal_id": "99ef16ca49cb4c68e65af53ed9f27d3e7feb46d1e79284a1b7d13caf8aff3c54",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
       "id": 3610,
       "query": [
         "dengue"
@@ -5585,24 +5405,6 @@
       "content": "A Comiss\u00e3o Nacional de Incorpora\u00e7\u00f5es de Tecnologias no Sistema \u00danico de Sa\u00fade (Conitec) deve decidir ainda este ano sobre a incorpora\u00e7\u00e3o da vacina contra a dengue ao Sistema \u00danico de Sa\u00fade (SUS). De \u2026 [+2082 chars]",
       "retrievedAt": "2023-12-09 19:05:17.649642",
       "internal_id": "46ad7bf62cb699eb37c84883bb84168cc588f8e2518652da3d041a4a3bff5573",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 3622,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "CDC urges doctors, health departments to bolster surveillance of more severe mpox strain - Yahoo Life",
-      "description": "CDC urges doctors, health departments to bolster surveillance of more severe mpox strainYahoo Life WHO 'very worried' about spread of mpox in DRCReuters Deadly monkeypox strain kills an alarming 1 in 10 people, CDC warnsNew York Post US CDC issues health aler\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172451131",
-      "urlToImage": null,
-      "publishedAt": "2023-12-08 17:34:38",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-09 19:05:20.807824",
-      "internal_id": "95e546ebf032be7b7408b0145f687505f61e7e7d2815a6f952d51f3888fd0336",
       "publishedAtLabel": "Dec 8"
     },
     {
@@ -5909,24 +5711,6 @@
       "content": "The Centers for Disease Control and Prevention (CDC) has issued a health advisory after a more serious and infectious variant of the mpox virus was reported across the Democratic Republic of the Cong\u2026 [+3661 chars]",
       "retrievedAt": "2023-12-09 19:05:20.795474",
       "internal_id": "f179eafa107d95c87e1989d04f323320ed33188c90d006c5589f7c956f32deaf",
-      "publishedAtLabel": "Dec 8"
-    },
-    {
-      "id": 3598,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "CDC urges doctors, health departments to bolster surveillance of more severe mpox strain - CNN",
-      "description": "CDC urges doctors, health departments to bolster surveillance of more severe mpox strainCNN US CDC issues health alert for subtype of mpox virus in CongoReuters Mpox surge in Congo raises concerns world will ignore warnings againThe Washington Post US CDC iss\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172447227",
-      "urlToImage": null,
-      "publishedAt": "2023-12-08 03:32:32",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-09 07:05:52.687918",
-      "internal_id": "fea3a551d515b02ccba9fd754885c64b4144a2411f7b9398e5bdbfe1a9a20b60",
       "publishedAtLabel": "Dec 8"
     },
     {
@@ -6649,24 +6433,6 @@
       "content": "O cen\u00e1rio foi observado em mar\u00e7o, maio, julho, agosto, setembro, outubro e novembro. Em setembro, por exemplo, quando normalmente eram registrados 28,5\u00b0C, a temperatura m\u00e9dia chegou a 31,4\u00b0C (veja o \u2026 [+4210 chars]",
       "retrievedAt": "2023-12-07 19:05:26.088699",
       "internal_id": "4430312d637851ad7710f0c37662f5dccaea22bbf86722accc3f532000fac580",
-      "publishedAtLabel": "Dec 6"
-    },
-    {
-      "id": 3559,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Mpox surge in Congo raises concerns world will ignore warnings again - The Washington Post",
-      "description": "Mpox surge in Congo raises concerns world will ignore warnings againThe Washington Post View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172397577",
-      "urlToImage": null,
-      "publishedAt": "2023-12-06 16:53:24",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-07 19:05:27.814765",
-      "internal_id": "72e6277b22873ecf51627c7b0657ce22ce5be06daffda3cfeaa98ae9bbe6435a",
       "publishedAtLabel": "Dec 6"
     },
     {
@@ -8246,24 +8012,6 @@
       "publishedAtLabel": "Dec 1"
     },
     {
-      "id": 3476,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "World at risk of losing malaria fight as cases rise, report says - Reuters",
-      "description": "World at risk of losing malaria fight as cases rise, report saysReuters Climate Change Drives New Cases of Malaria, Complicating Efforts to Fight the DiseaseThe New York Times Malaria cases surged last year, driven by extreme weather eventsThe Washington Post\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172343071",
-      "urlToImage": null,
-      "publishedAt": "2023-12-01 07:32:13",
-      "content": "\"Can you program?\" \"Well, I'm literate, if that's what you mean!\"",
-      "retrievedAt": "2023-12-02 19:05:14.951212",
-      "internal_id": "cc11ec308a1d52c6d11f220865cf20c625e785cdefe4d5f6c9baa554fba7507c",
-      "publishedAtLabel": "Dec 1"
-    },
-    {
       "id": 3470,
       "query": [
         "mpox"
@@ -8336,24 +8084,6 @@
       "publishedAtLabel": "Nov 30"
     },
     {
-      "id": 3465,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "WHO's annual malaria report spotlights the growing threat of climate change - World Health Organization",
-      "description": "WHO's annual malaria report spotlights the growing threat of climate changeWorld Health Organization Climate Change Drives New Cases of Malaria, Complicating Efforts to Fight the DiseaseThe New York Times Malaria cases surged last year, driven by extreme weat\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172339281",
-      "urlToImage": null,
-      "publishedAt": "2023-11-30 18:33:09",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-01 19:05:41.627945",
-      "internal_id": "578ca9f22f15c7829c1219b9b7593995897707aed614dae8ec2c8dde000efa57",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
       "id": 3453,
       "query": [
         "malaria"
@@ -8369,24 +8099,6 @@
       "content": "By Pratik Jain and Jennifer Rigby (Reuters) -The world is in danger of losing the fight against malaria, as cases of the disease rose by around 5 million year-on-year in 2022, exceeding global targe\u2026 [+1796 chars]",
       "retrievedAt": "2023-12-01 19:05:41.569817",
       "internal_id": "7f22a8f5a7d6e9f8733dc8b849f2e7ddf9f6dab0e7530a80dd7eca78167e7926",
-      "publishedAtLabel": "Nov 30"
-    },
-    {
-      "id": 3464,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Climate crisis a \u2018substantial risk\u2019 to fight against malaria, says WHO - The Guardian",
-      "description": "Climate crisis a \u2018substantial risk\u2019 to fight against malaria, says WHOThe Guardian Climate Change Drives New Cases of Malaria, Complicating Efforts to Fight the DiseaseThe New York Times Malaria cases surged last year, driven by extreme weather eventsThe Wash\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172338681",
-      "urlToImage": null,
-      "publishedAt": "2023-11-30 16:52:04",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-12-01 19:05:41.624573",
-      "internal_id": "5b41fd9daaf872bbf4e6d9f7ce84b2899a6dad523799bc1118d9da2cb5ab41c5",
       "publishedAtLabel": "Nov 30"
     },
     {
@@ -9801,24 +9513,6 @@
       "publishedAtLabel": "Nov 27"
     },
     {
-      "id": 3370,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Kitten sparks RABIES scare that could put 7M Americans at risk - Daily Mail",
-      "description": "Kitten sparks RABIES scare that could put 7M Americans at riskDaily Mail How one rabid kitten triggered intensive effort to contain deadly virusThe Washington Post Cute kitten with huge pupil sparks rabies scare that could put 7m people at riskThe Mirror Stra\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172318743",
-      "urlToImage": null,
-      "publishedAt": "2023-11-27 15:14:03",
-      "content": "It is impossible to travel faster than light, and certainly not desirable, as one's hat keeps blowing off. -- Woody Allen",
-      "retrievedAt": "2023-11-28 19:05:28.585620",
-      "internal_id": "5165e71483776a4d09043a1170ee5d5e26bdbb04cfcba0225a755e32c6d6a3ad",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
       "id": 3368,
       "query": [
         "pertussis"
@@ -9942,24 +9636,6 @@
       "content": "Reprodu\u00e7\u00e3o Site/Minist\u00e9rio da Sa\u00fade Um estudo da Fiocruz (Funda\u00e7\u00e3o Oswaldo Cruz), divulgado em maio deste ano, j\u00e1 mostrava o ressurgimento do sorotipo 3 da dengue, e, na \u00faltima semana, foram c\u2026 [+3061 chars]",
       "retrievedAt": "2023-11-28 19:05:29.431551",
       "internal_id": "d66419b482f2af7860368e0ccec9ff33b9e3844da6faf074a11c0064cf4dcc25",
-      "publishedAtLabel": "Nov 27"
-    },
-    {
-      "id": 3371,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Kitten sparks huge RABIES scare that could put 7million Americans at risk after catching virus, then scratchin - Daily Mail",
-      "description": "Kitten sparks huge RABIES scare that could put 7million Americans at risk after catching virus, then scratchinDaily Mail How one rabid kitten triggered intensive effort to contain deadly virusThe Washington Post View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172317869",
-      "urlToImage": null,
-      "publishedAt": "2023-11-27 12:53:13",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-28 19:05:28.589337",
-      "internal_id": "3d6e42d084e8f821f3ccda837d143da3f3b5f6a9c76e0f27860748cf9e1974e1",
       "publishedAtLabel": "Nov 27"
     },
     {
@@ -10415,24 +10091,6 @@
       "publishedAtLabel": "Nov 26"
     },
     {
-      "id": 3348,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Unvaccinated and Vulnerable: Children Drive Surge in Deadly Outbreaks - The New York Times",
-      "description": "Unvaccinated and Vulnerable: Children Drive Surge in Deadly OutbreaksThe New York Times \u2018No no no. Avoid them all\u2019: anti-vaccine conspiracies spread as UK cases of measles increaseThe Guardian 'German measles' symptoms include horror rash - but with a noticea\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172307397",
-      "urlToImage": null,
-      "publishedAt": "2023-11-26 00:12:05",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-27 07:06:06.353040",
-      "internal_id": "6499ce868c75bc9c33fc6a1b03889ffb4e0bbf90c4298a2474f109ca15ec2a5f",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
       "id": 3350,
       "query": [
         "dengue"
@@ -10777,24 +10435,6 @@
       "publishedAtLabel": "Nov 25"
     },
     {
-      "id": 3333,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time - ABC News",
-      "description": "UN confirms sexual spread of mpox in Congo for the 1st timeABC News View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172302353",
-      "urlToImage": null,
-      "publishedAt": "2023-11-25 01:32:06",
-      "content": "Receiving a million dollars tax free will make you feel better than being flat broke and having a stomach ache. -- Dolph Sharp, \"I'm O.K., You're Not So Hot\"",
-      "retrievedAt": "2023-11-26 07:05:40.927454",
-      "internal_id": "8ccff5f4367437b03c39b60488656d987d0b80449b808049b417c8b7f6927e03",
-      "publishedAtLabel": "Nov 25"
-    },
-    {
       "id": 3332,
       "query": [
         "mpox"
@@ -10831,24 +10471,6 @@
       "publishedAtLabel": "Nov 24"
     },
     {
-      "id": 3334,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - ABC News",
-      "description": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreakABC News View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172301071",
-      "urlToImage": null,
-      "publishedAt": "2023-11-24 19:34:46",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-26 07:05:40.931570",
-      "internal_id": "92fa7956992da19c376e292564d10b574070748d916a49e1064da25dfed8db9f",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
       "id": 3319,
       "query": [
         "dengue"
@@ -10882,24 +10504,6 @@
       "content": "Uma crian\u00e7a de 7 anos veio a \u00f3bito em consequ\u00eancia de um quadro de dengue hemorr\u00e1gica na \u00faltima sexta-feira (17). A m\u00e3e de Pietra Isaac disse que o m\u00e9dico respons\u00e1vel pelo caso menosprezou o estado d\u2026 [+1823 chars]",
       "retrievedAt": "2023-11-25 19:05:21.508964",
       "internal_id": "0fdda6cfac4ed814123a82e5e66abaf80c950283f9f043c5e549084f25d34c4e",
-      "publishedAtLabel": "Nov 24"
-    },
-    {
-      "id": 3327,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreak - Yahoo News",
-      "description": "UN confirms sexual spread of mpox in Congo for the 1st time as country sees a record outbreakYahoo News View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172300095",
-      "urlToImage": null,
-      "publishedAt": "2023-11-24 16:12:07",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-25 19:05:23.192440",
-      "internal_id": "6ed1ebc426b63af6f7acf64b6f99ddcc9350d2568696af43242270bf645b9b46",
       "publishedAtLabel": "Nov 24"
     },
     {
@@ -12783,24 +12387,6 @@
       "publishedAtLabel": "Nov 18"
     },
     {
-      "id": 3219,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Measles deaths jumped over 40% between 2021 and 2022, CDC reports - Livescience.com",
-      "description": "Measles deaths jumped over 40% between 2021 and 2022, CDC reportsLivescience.com Doctors warn of dangerous impact of measles as cases spike and vaccine uptake slumps | ITV NewsITV News Measles rises globally amid vaccination crash; WHO and CDC sound the alarm\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172265475",
-      "urlToImage": null,
-      "publishedAt": "2023-11-18 22:52:04",
-      "content": "\"The value of marriage is not that adults produce children, but that children produce adults.\" -- Peter De Vries",
-      "retrievedAt": "2023-11-20 07:05:59.907928",
-      "internal_id": "5b15364908867611f822957a0118e2d2b4dd1a431f23a29fb4fe3ca1bcb68e4c",
-      "publishedAtLabel": "Nov 18"
-    },
-    {
       "id": 3220,
       "query": [
         "measles"
@@ -13035,24 +12621,6 @@
       "publishedAtLabel": "Nov 17"
     },
     {
-      "id": 3198,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarm",
-      "description": "From 2021 to 2022, measles deaths increased 43 percent.",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172259123",
-      "urlToImage": null,
-      "publishedAt": "2023-11-17 18:56:32",
-      "content": "A large number of installed systems work by fiat. That is, they work by being declared to work. -- Anatol Holt",
-      "retrievedAt": "2023-11-18 19:05:18.818617",
-      "internal_id": "2ee722cae2dcf6dd70f24384f82c28a170ddc76e95f9853ad8dbdc7dccb7ea31",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
       "id": 3199,
       "query": [
         "measles"
@@ -13086,24 +12654,6 @@
       "content": "CONCORD, N.H. \u2014Two stray kittens found this month in North Conway were found to have rabies, and New Hampshire health officials are trying to locate anyone who had contact with them. The Department \u2026 [+1815 chars]",
       "retrievedAt": "2023-11-18 19:05:17.761593",
       "internal_id": "1675b71ca0c0029941d071f6dfd1a606dd7a0bc2c14d471a9acd8d57ef7ea863",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
-      "id": 3197,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarm - Ars Technica",
-      "description": "Measles rises globally amid vaccination crash; WHO and CDC sound the alarmArs Technica Measles deaths worldwide jumped 40% last year, health agencies sayMedical Xpress 'Staggering' rise in measles cases last year, says WHO and CDCYahoo News Global measles thr\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172258951",
-      "urlToImage": null,
-      "publishedAt": "2023-11-17 18:32:05",
-      "content": "A large number of installed systems work by fiat. That is, they work by being declared to work. -- Anatol Holt",
-      "retrievedAt": "2023-11-18 19:05:18.811662",
-      "internal_id": "7dda0e9ef901934d13b68672d862facf2aeb4f5ea4aac967432b7f23f9a0d4d9",
       "publishedAtLabel": "Nov 17"
     },
     {
@@ -13377,24 +12927,6 @@
       "publishedAtLabel": "Nov 17"
     },
     {
-      "id": 3179,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Vaccination Vacation: Measles Makes a Menacing Comeback - SciTechDaily",
-      "description": "Vaccination Vacation: Measles Makes a Menacing ComebackSciTechDaily 'Staggering' rise in measles cases last year, says WHO and CDCYahoo News Global measles cases rose 18% in 2022 amid low vaccination rates: ReportABC News \"Staggering\" rise in global measles o\u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172255299",
-      "urlToImage": null,
-      "publishedAt": "2023-11-17 04:14:00",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-18 07:05:26.313956",
-      "internal_id": "99201458b2bd6dcbf6a8f5e08d55f1cc01e622c792dada4f4b3f660766edd1ab",
-      "publishedAtLabel": "Nov 17"
-    },
-    {
       "id": 3183,
       "query": [
         "measles"
@@ -13449,24 +12981,6 @@
       "publishedAtLabel": "Nov 17"
     },
     {
-      "id": 3180,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Global measles threat continues to grow as another year passes with millions of children unvaccinated | CDC Online Newsroom - CDC",
-      "description": "Global measles threat continues to grow as another year passes with millions of children unvaccinated | CDC Online NewsroomCDC 'Staggering' rise in measles cases last year, says WHO and CDCYahoo News \"Staggering\" rise in global measles outbreaks in 2022, CDC \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172253543",
-      "urlToImage": null,
-      "publishedAt": "2023-11-16 23:36:13",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-18 07:05:26.316318",
-      "internal_id": "10bc120ef3c5a32d07b4e6a2bc287f459bb2ebc2786a24a38372dd8e7bd70030",
-      "publishedAtLabel": "Nov 16"
-    },
-    {
       "id": 3176,
       "query": [
         "measles"
@@ -13482,24 +12996,6 @@
       "content": "LONDON (AP) Measles deaths globally spiked by more than 40 percent last year, and cases rose after vaccination levels dramatically dropped during the pandemic, leading health agencies said Thursday. \u2026 [+2030 chars]",
       "retrievedAt": "2023-11-18 07:05:26.292109",
       "internal_id": "4ca9fd14afefc7efdf9149b598e0401377600e2895d592e3d0efa235d0e8c02a",
-      "publishedAtLabel": "Nov 16"
-    },
-    {
-      "id": 3181,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Slashdot.org",
-      "author": "feedfeeder",
-      "title": "Measles deaths up 40% in 2022 as vaccinations dropped during COVID pandemic - Global News",
-      "description": "Measles deaths up 40% in 2022 as vaccinations dropped during COVID pandemicGlobal News 'Staggering' rise in measles cases last year, says WHO and CDCYahoo News Global measles cases rose 18% in 2022 amid low vaccination rates: ReportABC News \"Staggering\" rise \u2026",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172252929",
-      "urlToImage": null,
-      "publishedAt": "2023-11-16 21:52:30",
-      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
-      "retrievedAt": "2023-11-18 07:05:26.318602",
-      "internal_id": "ffd2a7fdcaa22c560da9c4461117b7c179d790c61503bddd9aec3765aed84731",
       "publishedAtLabel": "Nov 16"
     },
     {
@@ -14852,6 +14348,62 @@
       "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
       "retrievedAt": "2023-11-14 07:05:55.292511",
       "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3103,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
+      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
+      "url": "https://yle.fi/a/74-20059491",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
+      "publishedAt": "2023-11-12 17:03:22",
+      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.165057",
+      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3102,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "10 more dengue patients die in 24hrs",
+      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
+      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2023-11-12 13:44:18",
+      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.132310",
+      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3101,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
+      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-11-12 11:15:16",
+      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.111861",
+      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
       "publishedAtLabel": "Nov 12"
     }
   ]
