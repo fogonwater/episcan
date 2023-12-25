@@ -1,8 +1,224 @@
 {
-  "last_updated": "2023-12-24 19:05",
-  "count_articles_total": 806,
-  "count_articles_new": 8,
+  "last_updated": "2023-12-25 07:05",
+  "count_articles_total": 823,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 3913,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "redshaw",
+      "title": "BBC News: The race to understand 'immune amnesia'",
+      "description": "Scientists have known for years that measles can alter the immune system \u2013 but the latest evidence suggests it's less of a mild tweaking, and more of a total reset.",
+      "url": "https://www.bbc.com/future/article/20211112-the-people-with-immune-amnesia",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0b4cfm9.jpg",
+      "publishedAt": "2023-12-24 05:47:01",
+      "content": "By Zaria GorvettFeatures correspondent@ZariaGorvett Scientists have known for years that measles can alter the immune system but the latest evidence suggests it's less of a mild tweaking, and more o\u2026 [+14971 chars]",
+      "retrievedAt": "2023-12-25 07:05:51.044646",
+      "internal_id": "b7e4d9361851ae3de12e4644bfe8089a4fb55a47bc455632413be0c579cd94b3",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3914,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Possible measles virus exposure at Center City building, health department says - NBC 10 Philadelphia",
+      "description": "Possible measles virus exposure at Center City building, health department saysNBC 10 Philadelphia Philadelphia health officials notify residents of possible measles exposureWPVI-TV Philly health officials report possible measles exposure at Center City build\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172577143",
+      "urlToImage": null,
+      "publishedAt": "2023-12-24 03:32:19",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-12-25 07:05:51.062677",
+      "internal_id": "2c57e6c997290c53d02847032b61c87322727bb071f058a458a966dea03de9df",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3915,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Philadelphia health officials notify residents of possible measles exposure - WPVI-TV",
+      "description": "Philadelphia health officials notify residents of possible measles exposureWPVI-TV Possible measles virus exposure at Center City building, health department saysNBC 10 Philadelphia Philly health officials report possible measles exposure at Center City build\u2026",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172577085",
+      "urlToImage": null,
+      "publishedAt": "2023-12-24 03:12:07",
+      "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your \u2026 [+268 chars]",
+      "retrievedAt": "2023-12-25 07:05:51.066019",
+      "internal_id": "d8f2a9ff846454bd11cc745585522b552380201ba68ab937c11fa0535e3fa378",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3918,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Taleisha Newbill",
+      "title": "Philadelphia Health warns the public about measles exposure at building",
+      "description": "The Philadelphia Department of Public Health, Pennsylvania Department of Health, and Jefferson Health want to warn the public of possible measles exposure at a building.",
+      "url": "https://www.cbsnews.com/philadelphia/news/measles-philadelphia-department-of-public-health-pennsylvania-jefferson-health/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/24/f6482dd6-aca2-452a-b592-f8c61813b020/thumbnail/1200x630/16b2c82ca2ee6ede98047e6814752e52/gettyimages-1359395701.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+      "publishedAt": "2023-12-24 02:25:07",
+      "content": "PHILADELPHIA (CBS) -- Officials at the Philadelphia Department of Public Health, Pennsylvania Department of Health, and Jefferson Health want to warn the public of a possible measles exposure at a bu\u2026 [+4419 chars]",
+      "retrievedAt": "2023-12-25 07:05:51.074388",
+      "internal_id": "285f1a4daf67cac7b77b0c12d683d2768bca4ec19c1a4f9bee3b7bc82d900024",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3923,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "EFE",
+      "title": "Crisis por enfermedades en Gaza: Alertan por casos de diarrea, viruela y meningitis",
+      "description": "M\u00e1s de 95 mil 500 casos de diarrea, otros 19 mil 300 de sarna, 17 mil 500 de par\u00e1sitos, 4 mil 400 de viruela, mil 900 por intoxicaciones alimentarias, meningitis y otras enfermedades.",
+      "url": "https://www.elfinanciero.com.mx/mundo/2023/12/23/crisis-por-enfermedades-en-gaza-alertan-por-casos-de-diarrea-viruela-y-meningitis/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/eqRRddfDlyVrmqbgxIhZdh-2I0A=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZI65ILV7YFATLFOKQNZGOIGXPA.jpg",
+      "publishedAt": "2023-12-24 02:08:16",
+      "content": "La escasez de medicinas, la falta de higiene, el hambre y otras consecuencias de la guerra han disparado las enfermedades infecciosas hasta extremos nunca antes vistos en Gaza, que el invierno puede \u2026 [+3798 chars]",
+      "retrievedAt": "2023-12-25 07:05:51.990111",
+      "internal_id": "08ae29b04436f025463f6a7b290ae2f3db10ca8cb662fc01bf37de423be56a6c",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3916,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slashdot.org",
+      "author": "feedfeeder",
+      "title": "Philadelphia health officials notify residents of possible measles exposure at Jefferson Health - WPVI-TV",
+      "description": "Philadelphia health officials notify residents of possible measles exposure at Jefferson HealthWPVI-TV...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=172576469",
+      "urlToImage": null,
+      "publishedAt": "2023-12-24 01:12:20",
+      "content": "My problem lies in reconciling my gross habits with my net income. -- Errol Flynn Any man who has $10,000 left when he dies is a failure. -- Errol Flynn",
+      "retrievedAt": "2023-12-25 07:05:51.068928",
+      "internal_id": "0de2b0f13268670ee7bfdfbfaa276ad8628f6570133d5d998c149378c37e52e8",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3919,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Philadelphia Inquirer",
+      "author": "Rob Tornoe",
+      "title": "Philly warns of possible measles exposure at Center City building with Jefferson Health offices",
+      "description": "\u201cWe believe there is no threat to the general public associated with this case of measles,\u201d Philadelphia Health Commissioner Cheryl Bettigole said Saturday night.",
+      "url": "https://www.inquirer.com/news/pennsylvania/philadelphia-measles-jefferson-health-center-city-20231223.html",
+      "urlToImage": "https://www.inquirer.com/resizer/tU1vMQmbaLLSPvO68Im_raICA3M=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/EJ3J777B3NE4LBXK7JYLPMWHTI.jpg",
+      "publishedAt": "2023-12-24 00:31:25",
+      "content": "Philadelphia health officials said Saturday night people recently inside a Center City building that houses several Jefferson Health offices might have been exposed to measles following a confirmed c\u2026 [+2587 chars]",
+      "retrievedAt": "2023-12-25 07:05:51.080967",
+      "internal_id": "841c838bde1b2b82a186f44fa6939368bf594678d1effc6511995c133a2e6b5c",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3917,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "6abc Digital Staff",
+      "title": "Philadelphia health officials notify residents of possible measles exposure",
+      "description": "Measles is a virus that spreads easily, according to the Philadelphia Department of Public Health.",
+      "url": "https://6abc.com/philadelphia-department-of-public-health-measles-exposure-jefferson-virus/14219449/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/12550541_120922-kgo-tripdemic-sick-kid-v2-img.jpg?w=1600",
+      "publishedAt": "2023-12-24 00:20:51",
+      "content": "PHILADELPHIA (WPVI) -- The Philadelphia Department of Public Health issued a warning on Saturday about possible exposure to the measles virus for some city residents. City officials, along with the \u2026 [+2540 chars]",
+      "retrievedAt": "2023-12-25 07:05:51.071736",
+      "internal_id": "063f528fb8c51d43122cf7d1b45ce56faaa136f0bfbb160a39f57ad1104604bc",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3920,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "EFE",
+      "title": "OMS alerta sobre expansi\u00f3n del dengue, con 5 mil muertes en 2023",
+      "description": "El pa\u00eds americano que registr\u00f3 m\u00e1s casos este a\u00f1o fue Brasil (2.9 millones), seguido de Per\u00fa (271 mil) y M\u00e9xico (235 mil).",
+      "url": "https://www.elfinanciero.com.mx/salud/2023/12/23/oms-alerta-sobre-expansion-del-dengue-con-5-mil-muertes-en-2023/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/DsEaHwL178WeOiyCU6a92mHX18c=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WXYGG45VNRFFDDUZRHS5DIITWM.jpg",
+      "publishedAt": "2023-12-23 22:20:48",
+      "content": "M\u00e1s de cinco millones de casos de dengue han sido reportados en el mundo, entre ellos 5 mil mortales, indic\u00f3 hoy la Organizaci\u00f3n Mundial de la Salud (OMS), que ha elevado a alto el riesgo por esta en\u2026 [+2770 chars]",
+      "retrievedAt": "2023-12-25 07:05:51.629410",
+      "internal_id": "75f4a5090fb97d47110c13a8ce6e00f0df9371afe8060554d39c307da9e242be",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 3924,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / AG",
+      "title": "Sin medicinas, ni higiene ni comida, las infecciones se propagan sin l\u00edmite en Gaza",
+      "description": "Viruela, malaria y diarrea son algunas de las enfermedades que se extienden sin freno especialmente entre ni\u00f1as y ni\u00f1os de campos de desplazados saturados y sin servicios sanitarios en Gaza.",
+      "url": "https://aristeguinoticias.com/2312/mundo/sin-medicinas-ni-higiene-ni-comida-las-infecciones-se-propagan-sin-limite-en-gaza/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/12/sin-medicinas-higiene-comida-infecciones-propagan-gaza-ninas-ninos-sarna-viruela-diarrea-malaria-ataques-israel-23122023.jpg",
+      "publishedAt": "2023-12-23 21:55:49",
+      "content": "La falta de medicinas, de higiene, comida y otras consecuencias de los ataques de Israel dispararon las enfermedades infecciosas hasta extremos nunca antes vistos en Gaza, que el invierno puede empeo\u2026 [+4598 chars]",
+      "retrievedAt": "2023-12-25 07:05:52.378372",
+      "internal_id": "5c0ef92962fa401be57fcea043e5b3cd1e1ecfb00039ad6800e5122604ab8ebc",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 3922,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Naian Lucas Lopes, Naian Lucas Lopes",
+      "title": "OMS revela que Brasil \u00e9 o pa\u00eds com mais casos de dengue no mundo",
+      "description": "Organiza\u00e7\u00e3o Mundial da Sa\u00fade diz que a crise clim\u00e1tica, o aumento das temperaturas e o El Ni\u00f1o s\u00e3o fatores determinantes para o crescimento desses n\u00fameros",
+      "url": "https://saude.ig.com.br/2023-12-23/brasil-casos-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/97/yu/3g/97yu3g3at9vvqxi20odz2e6bz.jpg",
+      "publishedAt": "2023-12-23 21:49:28",
+      "content": "O Brasil enfrenta um cen\u00e1rio preocupante em rela\u00e7\u00e3o \u00e0 dengue, liderando o n\u00famero global de casos em 2023, com 2,9 milh\u00f5es de registros, representando mais da metade dos 5 milh\u00f5es de casos reportados \u2026 [+1809 chars]",
+      "retrievedAt": "2023-12-25 07:05:51.644146",
+      "internal_id": "9cc277a253b9c0950fec2198b9a3d45f0953edb454d6a75a98c6963ab9a16547",
+      "publishedAtLabel": "Dec 23"
+    },
+    {
+      "id": 3921,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Brasil \u00e9 pa\u00eds com mais casos de dengue no mundo, alerta OMS",
+      "description": "Os casos s\u00e3o mais da metade dos 5 milh\u00f5es registrados mundialmente",
+      "url": "https://valor.globo.com/brasil/noticia/2023/12/23/brasil-pas-com-mais-casos-de-dengue-no-mundo-alerta-oms.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ckO8Q23qh7WOZV4F3cxcZow6Cwo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/Q/g/5YpxMBScOkWuU3W1EBjA/dengue18.jpg",
+      "publishedAt": "2023-12-23 20:18:03",
+      "content": "Um levantamento divulgado pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade nesta sexta-feira aponta que o Brasil lidera o n\u00famero de casos de dengue no mundo, com 2,9 milh\u00f5es registrados em 2023. Os casos s\u00e3o mais d\u2026 [+3029 chars]",
+      "retrievedAt": "2023-12-25 07:05:51.632879",
+      "internal_id": "0615c3cfae3b1d78fad91476c33a6ee5726969f788f9d269205029f3447df34f",
+      "publishedAtLabel": "Dec 23"
+    },
     {
       "id": 3909,
       "query": [
@@ -14564,6 +14780,98 @@
       "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
       "retrievedAt": "2023-11-14 07:05:55.292511",
       "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3103,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
+      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
+      "url": "https://yle.fi/a/74-20059491",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
+      "publishedAt": "2023-11-12 17:03:22",
+      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.165057",
+      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3102,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "10 more dengue patients die in 24hrs",
+      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
+      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2023-11-12 13:44:18",
+      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.132310",
+      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3101,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
+      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-11-12 11:15:16",
+      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.111861",
+      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3104,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
+      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
+      "url": "https://allafrica.com/stories/202311120029.html",
+      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
+      "publishedAt": "2023-11-12 09:03:15",
+      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.179704",
+      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3105,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
+      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-12 08:24:42",
+      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
+      "retrievedAt": "2023-11-13 19:05:33.945435",
+      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
       "publishedAtLabel": "Nov 12"
     }
   ]

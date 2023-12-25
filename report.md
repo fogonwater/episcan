@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2023-12-24 19:05
-- **Most recent article:** 2023-12-23 15:01:03
+- **New articles in last harvest:** 12
+- **Last harvest:** 2023-12-25 07:05
+- **Most recent article:** 2023-12-24 05:47:01
 
 ---
 
@@ -10,25 +10,45 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | Total |
-|--|-|-|-|-|-|-|-|
-| dengue | 30 | 41 | 45 | 62 | 44 | 67 | 289 |
-| malaria | 17 | 37 | 36 | 26 | 24 | 24 | 164 |
-| mpox | 2 | 19 | 18 | 20 | 24 | 15 | 98 |
-| measles | 33 | 11 | 5 | 5 | 7 | 29 | 90 |
-| chikungunya | 14 | 7 | 10 | 10 | 11 | 4 | 56 |
-| zika | 2 | 6 | 10 | 15 | 9 | 5 | 47 |
-| rabies | 4 | 8 | 11 | 4 | 7 | 2 | 36 |
-| meningitis | 7 | 0 | 4 | 8 | 9 | 4 | 32 |
-| pertussis | 3 | 6 | 4 | 2 | 4 | 2 | 21 |
-| leptospirosis | 3 | 3 | 4 | 3 | 0 | 2 | 15 |
-| typhoid | 2 | 1 | 0 | 3 | 0 | 3 | 9 |
-| yersinia | 1 | 0 | 1 | 2 | 0 | 0 | 4 |
+| Disease | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 32 | 41 | 45 | 62 | 44 | 70 | 0 | 294 |
+| malaria | 19 | 37 | 36 | 26 | 24 | 25 | 0 | 167 |
+| mpox | 2 | 19 | 18 | 20 | 24 | 15 | 0 | 98 |
+| measles | 33 | 11 | 5 | 5 | 7 | 29 | 7 | 97 |
+| chikungunya | 15 | 7 | 10 | 10 | 11 | 4 | 0 | 57 |
+| zika | 3 | 6 | 10 | 15 | 9 | 5 | 0 | 48 |
+| rabies | 4 | 8 | 11 | 4 | 7 | 2 | 0 | 36 |
+| meningitis | 7 | 0 | 4 | 8 | 9 | 4 | 1 | 33 |
+| pertussis | 3 | 6 | 4 | 2 | 4 | 2 | 0 | 21 |
+| leptospirosis | 3 | 3 | 4 | 3 | 0 | 2 | 0 | 15 |
+| typhoid | 3 | 1 | 0 | 3 | 0 | 3 | 0 | 10 |
+| yersinia | 1 | 0 | 1 | 2 | 0 | 0 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 23-52 (meningitis)
+
+- [Crisis por enfermedades en Gaza: Alertan por casos de diarrea, viruela y meningitis](https://www.elfinanciero.com.mx/mundo/2023/12/23/crisis-por-enfermedades-en-gaza-alertan-por-casos-de-diarrea-viruela-y-meningitis/) (El Financiero)
+
+## 23-52 (measles)
+
+- [BBC News: The race to understand 'immune amnesia'](https://www.bbc.com/future/article/20211112-the-people-with-immune-amnesia) (BBC News)
+
+- [Possible measles virus exposure at Center City building, health department says - NBC 10 Philadelphia](https://slashdot.org/firehose.pl?op=view&amp;id=172577143) (Slashdot.org)
+
+- [Philadelphia health officials notify residents of possible measles exposure - WPVI-TV](https://slashdot.org/firehose.pl?op=view&amp;id=172577085) (Slashdot.org)
+
+- [Philadelphia Health warns the public about measles exposure at building](https://www.cbsnews.com/philadelphia/news/measles-philadelphia-department-of-public-health-pennsylvania-jefferson-health/) (CBS News)
+
+- [Philadelphia health officials notify residents of possible measles exposure at Jefferson Health - WPVI-TV](https://slashdot.org/firehose.pl?op=view&amp;id=172576469) (Slashdot.org)
+
+- [Philly warns of possible measles exposure at Center City building with Jefferson Health offices](https://www.inquirer.com/news/pennsylvania/philadelphia-measles-jefferson-health-center-city-20231223.html) (The Philadelphia Inquirer)
+
+- [Philadelphia health officials notify residents of possible measles exposure](https://6abc.com/philadelphia-department-of-public-health-measles-exposure-jefferson-virus/14219449/) (WPVI-TV)
 
 ## 23-51 (zika)
 
@@ -166,6 +186,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 23-51 (malaria)
 
+- [Sin medicinas, ni higiene ni comida, las infecciones se propagan sin límite en Gaza](https://aristeguinoticias.com/2312/mundo/sin-medicinas-ni-higiene-ni-comida-las-infecciones-se-propagan-sin-limite-en-gaza/) (Aristeguinoticias.com)
+
 - [Kenya: WHO Prequalifies Another Malaria Vaccine](https://allafrica.com/stories/202312230081.html) (AllAfrica - Top Africa News)
 
 - [Scientists find malaria parasite takes its time within mosquito host to reap an evolutionary advantage](https://phys.org/news/2023-12-scientists-malaria-parasite-mosquito-host.html) (Phys.Org)
@@ -221,6 +243,12 @@ Source: [News API](https://newsapi.org/)
 - [13 posibles casos de defunciones por leptospirosis alertan a Cartagena](https://www.eluniversal.com.co/cartagena/13-posibles-casos-de-defunciones-por-leptospirosis-alertan-a-cartagena-XB9663671) (Eluniversal.com.co)
 
 ## 23-51 (dengue)
+
+- [OMS alerta sobre expansión del dengue, con 5 mil muertes en 2023](https://www.elfinanciero.com.mx/salud/2023/12/23/oms-alerta-sobre-expansion-del-dengue-con-5-mil-muertes-en-2023/) (El Financiero)
+
+- [OMS revela que Brasil é o país com mais casos de dengue no mundo](https://saude.ig.com.br/2023-12-23/brasil-casos-dengue.html) (Ig.com.br)
+
+- [Brasil é país com mais casos de dengue no mundo, alerta OMS](https://valor.globo.com/brasil/noticia/2023/12/23/brasil-pas-com-mais-casos-de-dengue-no-mundo-alerta-oms.ghtml) (Globo)
 
 - [SUS vai aplicar vacina da dengue em 2024](https://catracalivre.com.br/saude-bem-estar/sus-vai-aplicar-vacina-da-dengue-em-2024/) (Catracalivre.com.br)
 
@@ -1628,6 +1656,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Polscy naukowcy opracowali prototyp szczepionki przeciwko wirusowi Zika](https://geekweek.interia.pl/medycyna/news-polscy-naukowcy-opracowali-prototyp-szczepionki-przeciwko-wi,nId,7150632) (Interia.pl)
 
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
+
 ## 23-46 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 17th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-17th-november-2023/) (Iasbaba.com)
@@ -1637,6 +1667,8 @@ Source: [News API](https://newsapi.org/)
 - [Guidance: Typhoid and paratyphoid: public health guidance and questionnaires](https://www.gov.uk/government/publications/typhoid-and-paratyphoid-public-health-operational-guidelines) (Www.gov.uk)
 
 - [Salmonella Vaccine Study in Oxford (SALVO) trial: protocol for an observer-participant blind randomised placebo-controlled trial of the iNTS-GMMA vaccine within a European cohort](https://bmjopen.bmj.com/content/13/11/e072938?rss=1) (The BMJ)
+
+- [Drought and mismanagement have left a French island parched. That holds lessons for the mainland](https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms) (The Times of India)
 
 ## 23-46 (rabies)
 
@@ -1782,6 +1814,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel](https://www.nu.nl/goed-nieuws/6289153/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.html) (Www.nu.nl)
 
+- [Rutto, malaria, toisintokuume – tuotantoeläinten kesyttäminen näkyy ihmiskunnan taudeissa](https://yle.fi/a/74-20059491) (YLE News)
+
+- [Africa: WHO Approves First African-Manufactured Malaria Drug](https://allafrica.com/stories/202311120029.html) (AllAfrica - Top Africa News)
+
 ## 23-46 (leptospirosis)
 
 - [Stratford A&P Show: Wellness a focus at this year’s show with leptospirosis testing](https://www.nzherald.co.nz/stratford-press/news/stratford-ap-show-wellness-a-focus-at-this-years-show-with-leptospirosis-testing/TAQC2B32W5F4VJDWK6PPJBH6YM/) (New Zealand Herald)
@@ -1852,6 +1888,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: NegOcc dengue cases drop 74 percent](https://rpnradio.com/bacolod-negocc-dengue-cases-drop-74-percent/) (Rpnradio.com)
 
+- [10 more dengue patients die in 24hrs](https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214) (Tbsnews.net)
+
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
+
 ## 23-46 (chikungunya)
 
 - [Emergex Signs Contract of £1.79M with the UK Department of Health and Social Care’s UK Vaccine Network (“UKVN”) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus](https://www.globenewswire.com/news-release/2023/11/17/2782493/0/en/Emergex-Signs-Contract-of-1-79M-with-the-UK-Department-of-Health-and-Social-Care-s-UK-Vaccine-Network-UKVN-to-Advance-Its-Novel-Synthetic-T-Cell-Priming-Set-Point-Candidate-Against.html) (GlobeNewswire)
@@ -1881,3 +1921,5 @@ Source: [News API](https://newsapi.org/)
 - [Valneva annonce des résultats positifs de Phase 3 concernant l’immunogénicité de son candidat vaccin contre le chikungunya chez les adolescents](https://www.globenewswire.com/news-release/2023/11/13/2778680/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-3-concernant-l-immunog%C3%A9nicit%C3%A9-de-son-candidat-vaccin-contre-le-chikungunya-chez-les-adolescents.html) (GlobeNewswire)
 
 - [Trophées des usines, nouveaux Territoires d'industrie, vaccin contre le chikungunya... Les sept bonnes nouvelles de la semaine](https://www.usinenouvelle.com/article/trophees-des-usines-nouveaux-territoires-d-industrie-vaccin-contre-le-chikungunya-les-sept-bonnes-nouvelles-de-la-semaine.N2194218) (L'Usine Nouvelle)
+
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
