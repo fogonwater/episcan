@@ -1,8 +1,62 @@
 {
-  "last_updated": "2023-12-26 07:05",
-  "count_articles_total": 800,
-  "count_articles_new": 1,
+  "last_updated": "2023-12-26 19:05",
+  "count_articles_total": 798,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 3930,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "2chblog.jp",
+      "author": "funs",
+      "title": "\u72ac\u306b\u565b\u307e\u308c\u305f\u30a4\u30f3\u30c9\u4eba\u3001\u6c34\u304c\u98f2\u3081\u306a\u304f\u306a\u3063\u3066\u3057\u307e\u3046",
+      "description": "1: \u305d\u308c\u3067\u3082\u52d5\u304f\u540d\u7121\u3057 2023/12/25(\u6708) 20:20:08.78 ID:f+2hiJ+p0XMAS Videos of a man infected with rabies demonstrates hydrophobia, which is a symptom of the virus. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitter.com/obM...",
+      "url": "http://gahalog.2chblog.jp/archives/52557987.html",
+      "urlToImage": "https://livedoor.blogimg.jp/funs/imgs/7/1/71d2c0f1.jpg",
+      "publishedAt": "2023-12-25 15:56:19",
+      "content": "Videos of a man infected with rabies demonstrates hydrophobia, which is a symptom of the virus. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitter.com/obMhuVnku2 \u2014 M\u2026 [+44 chars]",
+      "retrievedAt": "2023-12-26 19:05:20.401366",
+      "internal_id": "764c61f44b40fccd67b4677f8859304b99fde0f4afcf36f4d584c6be9174632e",
+      "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 3931,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Por que casos de dengue est\u00e3o se multiplicando na Europa",
+      "description": "Mudan\u00e7as clim\u00e1ticas s\u00e3o um dos fatores que contribuem para aumento dos casos da doen\u00e7a; OMS alertou que dengue tem se espalhado para pa\u00edses onde historicamente n\u00e3o circulava.",
+      "url": "https://www.bbc.com/portuguese/articles/crgj2de70r5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/4158/live/86d92010-a048-11ee-b9a7-c91b9dfa91e5.jpg",
+      "publishedAt": "2023-12-25 09:52:54",
+      "content": "Cr\u00e9dito, Reuters Legenda da foto, Mudan\u00e7as clim\u00e1ticas s\u00e3o apontadas como um dos fatores que contribuem para multiplica\u00e7\u00e3o de casos de dengue na Europa Article informationAuthor, Raimundo Se\u2026 [+6399 chars]",
+      "retrievedAt": "2023-12-26 19:05:21.194040",
+      "internal_id": "8df5dbd6fbf329533fce467edff9a4acf836952c817db9e5a913feff7537effb",
+      "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 3932,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "The school that relocated 200 miles to the Ceredigion seaside",
+      "description": "After typhoid ravaged a school, the head teacher decided to do something drastic.",
+      "url": "https://www.bbc.co.uk/news/uk-wales-67725871",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0518/production/_132140310_borth1.jpg",
+      "publishedAt": "2023-12-25 08:43:14",
+      "content": "The seaside village of Borth is probably best known for its three-mile long sandy beach, the longest in Ceredigion. What is lesser known is its unlikely bond with a public school in the midlands. \u2026 [+5239 chars]",
+      "retrievedAt": "2023-12-26 19:05:23.292429",
+      "internal_id": "34315e0c988e538d68aba741da5a91a28f945b05c8728fa3dd1e1182cd68dad2",
+      "publishedAtLabel": "Dec 25"
+    },
     {
       "id": 3929,
       "query": [
@@ -14366,98 +14420,6 @@
       "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
       "retrievedAt": "2023-11-14 07:05:55.292511",
       "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3103,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "YLE News",
-      "author": null,
-      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
-      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
-      "url": "https://yle.fi/a/74-20059491",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
-      "publishedAt": "2023-11-12 17:03:22",
-      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.165057",
-      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3102,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "10 more dengue patients die in 24hrs",
-      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
-      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-12 13:44:18",
-      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.132310",
-      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3101,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
-      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-11-12 11:15:16",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.111861",
-      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3104,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
-      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
-      "url": "https://allafrica.com/stories/202311120029.html",
-      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
-      "publishedAt": "2023-11-12 09:03:15",
-      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.179704",
-      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3105,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
-      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-12 08:24:42",
-      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
-      "retrievedAt": "2023-11-13 19:05:33.945435",
-      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
       "publishedAtLabel": "Nov 12"
     }
   ]
