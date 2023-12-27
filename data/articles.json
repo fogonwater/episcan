@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-12-27 07:05",
-  "count_articles_total": 808,
-  "count_articles_new": 5,
+  "last_updated": "2023-12-27 19:05",
+  "count_articles_total": 811,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 3941,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Sa\u00fade em Dia",
+      "title": "Sintomas de dengue: cuidados durante o ver\u00e3o precisam ser redobrados",
+      "description": "Fortes chuvas e calor intenso aumentam a prolifera\u00e7\u00e3o do mosquito da dengue. Saiba identificar os sintomas leves e de alta gravidade",
+      "url": "https://www.metropoles.com/saude/sintomas-de-dengue-cuidados-durante-o-verao",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/01171055/combate-a-dengue-anapolis-1.jpeg",
+      "publishedAt": "2023-12-26 18:46:56",
+      "content": "Durante o ver\u00e3o, \u00e9 comum os casos de dengue se tornarem mais frequentes. A Universidade Aberta do Sistema \u00danico de Sa\u00fade (UNA-SUS) aponta que a combina\u00e7\u00e3o entre altas temperaturas e chuvas favorece o\u2026 [+1568 chars]",
+      "retrievedAt": "2023-12-27 19:05:20.558303",
+      "internal_id": "2459d5b305e087d1de821228741d6b8ce068e21cc7d40d2494bee6397aaefe20",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 3939,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Idaho State Journal",
+      "author": "Devi Shastri Ap Health Writer",
+      "title": "Idaho has worst child vaccine opt-out rate in US",
+      "description": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected,",
+      "url": "https://www.idahostatejournal.com/news/local/idaho-has-worst-child-vaccine-opt-out-rate-in-us/article_3de847ba-a411-11ee-8ac6-4ffa928844e7.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/f/d4/fd4a4b3a-98e7-50c8-a9bf-da35b3944b57/65830d663021a.image.jpg?crop=1765%2C927%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-12-26 17:40:08",
+      "content": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected, all unvaccinated. This time, t\u2026 [+4111 chars]",
+      "retrievedAt": "2023-12-27 19:05:20.060325",
+      "internal_id": "5ed3147393946497978338ebe2b61b1eac643f1f4a98677c673a917ef687048e",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 3940,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "il-sole-24-ore",
+      "source_name": "Il Sole 24 Ore",
+      "author": null,
+      "title": "Dengue, l\u2019Argentina decreta emergenza sanitaria per l\u2019epidemia",
+      "description": "Ci\u00f2 che allarma Buenos Aires \u00e8 il fatto che per il 93% dei casi il contagio \u00e8 avvenuto nel Paese tra persone che non hanno visitato regioni tropicali dove la malattia \u00e8 endemica",
+      "url": "https://www.ilsole24ore.com/art/dengue-l-argentina-decreta-emergenza-sanitaria-l-epidemia-AFXVpJBC",
+      "urlToImage": "https://i2.res.24o.it/images2010/2023/12/AFXVpJBC/images/beff14f2-a414-11ee-87ea-cd1e3d92cb55-fotohome0.jpg",
+      "publishedAt": "2023-12-26 17:34:24",
+      "content": "Ascolta la versione audio dell'articolo 1' di lettura LArgentina ha registrato 135.676 contagi da dengue e 68 morti causati dallinfezione nel corso del 2023. A causa dellepidemia il ministero dell\u2026 [+776 chars]",
+      "retrievedAt": "2023-12-27 19:05:20.540971",
+      "internal_id": "63b59263ce49289136cc8bb917b0f1db21d1819baeb8522dcaa6a7108e70c4e0",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 3942,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Em alerta para explos\u00e3o de casos de dengue, Campinas define bairros do 1\u00ba mutir\u00e3o de 2014; veja cronograma",
+      "description": "Medida faz parte de pacote de a\u00e7\u00f5es de controle; cidade vive epidemia desde abril e soma 10,8 mil casos. Vigil\u00e2ncia Epidemiol\u00f3gica fez alerta para reintrodu\u00e7\u00e3o dos sorotipos 3 e 4. Campinas far\u00e1 mutir\u00f5es contra a dengue a cada 15 dias Rog\u00e9rio Capela Em alerta\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/26/em-alerta-para-explosao-de-casos-de-dengue-campinas-define-bairros-do-1o-mutirao-de-2014-veja-cronograma.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/Gv3bQTRtKzAHvDYgMd7rrRyJVZo=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/12220831.jpg",
+      "publishedAt": "2023-12-26 16:33:45",
+      "content": "Al\u00e9m disso, tamb\u00e9m ser\u00e3o divulgados boletins semanais para atualizar a situa\u00e7\u00e3o epidemiol\u00f3gica da doen\u00e7a. As medidas fazem parte do plano de a\u00e7\u00e3o do Departamento de Vigil\u00e2ncia Epidemiol\u00f3gica (Devisa)\u2026 [+6596 chars]",
+      "retrievedAt": "2023-12-27 19:05:20.573472",
+      "internal_id": "94eaccc9015a3ce787038dd6d4e2036fa688ac841178955e5cbaafa7b3dc0dda",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 3943,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "S\u00e3o Paulo registra mais de 318 mil casos de dengue e 284 mortes pela doen\u00e7a em 2023",
+      "description": "Secretaria de Estado da Sa\u00fade informou que houve queda de 3,6% em compara\u00e7\u00e3o ao ano passado, mas que \u00e9 preciso ficar alerta",
+      "url": "https://noticias.r7.com/sao-paulo/sao-paulo-registra-mais-de-318-mil-casos-de-dengue-e-284-mortes-pela-doenca-em-2023-26122023",
+      "urlToImage": "https://img.r7.com/images/dengue-mosquito-aedes-aegypti-08122023145230305",
+      "publishedAt": "2023-12-26 13:33:00",
+      "content": "S\u00e3o Paulo registrou casos de dengue em 626 munic\u00edpios Freepik A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou que registrou 318.996 casos confirmados de dengue e 284 \u00f3bitos pela doen\u00e7a \u2026 [+2182 chars]",
+      "retrievedAt": "2023-12-27 19:05:20.586773",
+      "internal_id": "f1840dfbd4666e1b17849acdc005d996d3964f8b69c0bc5ffd94c3ac06bb1236",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 3945,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tass.ru",
+      "author": "\u0422\u0410\u0421\u0421",
+      "title": "\u0412\u041e\u0417 \u0437\u0430\u044f\u0432\u0438\u043b\u0430, \u0447\u0442\u043e \u043a\u043e\u043d\u0435\u0446 \u0440\u0435\u0436\u0438\u043c\u0430 \u0427\u0421 \u043f\u043e \u043a\u043e\u0432\u0438\u0434\u0443 \u0441\u0442\u0430\u043b\u043e \u043f\u043e\u0432\u043e\u0440\u043e\u0442\u043d\u044b\u043c \u043c\u043e\u043c\u0435\u043d\u0442\u043e\u043c \u0434\u043b\u044f \u043c\u0438\u0440\u0430 \u0432 2023 \u0433\u043e\u0434\u0443",
+      "description": "\u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0422\u0435\u0434\u0440\u043e\u0441 \u0410\u0434\u0430\u043d\u043e\u043c \u0413\u0435\u0431\u0440\u0435\u0439\u0435\u0441\u0443\u0441 \u0441\u0440\u0435\u0434\u0438 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0445 \u0443\u0433\u0440\u043e\u0437 \u0434\u043b\u044f \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u043d\u0430\u0437\u0432\u0430\u043b \u0442\u044f\u0436\u0435\u043b\u044b\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u044f \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u0430 \u0432 \u0413\u0430\u0437\u0435 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0440\u0430\u0439\u043e\u043d\u0430\u0445 \u043c\u0438\u0440\u0430 \u0438 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u043c\u0430\u043b\u044f\u0440\u0438\u0438 \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c \u0432 40 \u0441\u0442\u0440\u0430\u043d\u0430\u0445",
+      "url": "https://tass.ru/obschestvo/19631915",
+      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/19631915?u=2023-12-26T12:29:53.626109",
+      "publishedAt": "2023-12-26 12:29:53",
+      "content": ", 26 . //. COVID-19 2023 . () . 12 , . \"2023 , - . - COVID-19 , . , \". \" , \", - . , mpox ( ) \" \". 2023 \" , - , , \". 2023 , . (), , , . , \" 30 \". 28- (COP28), , \" , \". 40 . 2024 , . 2020 5 2\u2026 [+23 chars]",
+      "retrievedAt": "2023-12-27 19:05:22.060824",
+      "internal_id": "500cf8a6cc9c1173e27205a2054cd634c5d5aa5303b625f525340e1e3bc1f48a",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 3938,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Livedoor.jp",
+      "author": "news23vip",
+      "title": "\u72c2\u72ac\u75c5\u306e\u4eba\u306e\u6c34\u306e\u98f2\u307f\u65b9\u304c\u30e4\u30d0\u3059\u304e\u308b",
+      "description": "1 \u540d\u524d\uff1a\u540d\u7121\u3057\u3055\u3093\uff20\u304a\u30fc\u3077\u3093[] \u6295\u7a3f\u65e5\uff1a23/12/26(\u706b) 14:40:23 ID:658g \u6016\u3044 Videos of a man infected with rabies demonstrates hydrophobia, which is a symptom of the virus. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitte...",
+      "url": "http://blog.livedoor.jp/news23vip/archives/6098270.html",
+      "urlToImage": "https://livedoor.blogimg.jp/news23vip/imgs/9/8/9800e5a4-s.jpg",
+      "publishedAt": "2023-12-26 09:00:52",
+      "content": "19 [] 23/12/26() 14:44:04 ID:3D6P&gt;&gt;824 [] 23/12/26() 14:45:06 ID:9Lmj&gt;&gt;19 9 [] 23/12/26() 14:42:48 ID:ll52 12 [] 23/12/26() 14:43:15 ID:lF9D&gt;&gt;9100% 15 [] 23/12/26() 14:43:36 ID:j\u2026 [+960 chars]",
+      "retrievedAt": "2023-12-27 19:05:19.838810",
+      "internal_id": "9bbad67d42c29f53d6c88a7d15720174825cb88ab8f40f3424d55a14a9f9fa96",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 3944,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "World Malaria Report 2023 - a Call for Concerted Action to Address Growing Threats",
+      "description": "[Independent (Kampala)] The World Health Organization's World Malaria Report 2023, released this month, paints a concerning picture of the global state of malaria in 2022. Despite continued efforts, malaria remains a significant public health challenge, with \u2026",
+      "url": "https://allafrica.com/stories/202312260036.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-26 07:25:09",
+      "content": "The World Health Organization's World Malaria Report 2023, released this month, paints a concerning picture of the global state of malaria in 2022. Despite continued efforts, malaria remains a signif\u2026 [+4854 chars]",
+      "retrievedAt": "2023-12-27 19:05:21.354517",
+      "internal_id": "43fdb752e8c6ca8e798230cd45195ecf45650bc3c96fabe9d66d3d0aa6aebfcd",
+      "publishedAtLabel": "Dec 26"
+    },
     {
       "id": 3937,
       "query": [
@@ -14510,98 +14654,6 @@
       "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
       "retrievedAt": "2023-11-14 07:05:55.292511",
       "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3103,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "YLE News",
-      "author": null,
-      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
-      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
-      "url": "https://yle.fi/a/74-20059491",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
-      "publishedAt": "2023-11-12 17:03:22",
-      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.165057",
-      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3102,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "10 more dengue patients die in 24hrs",
-      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
-      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-12 13:44:18",
-      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.132310",
-      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3101,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
-      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-11-12 11:15:16",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.111861",
-      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3104,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
-      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
-      "url": "https://allafrica.com/stories/202311120029.html",
-      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
-      "publishedAt": "2023-11-12 09:03:15",
-      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.179704",
-      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3105,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
-      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-12 08:24:42",
-      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
-      "retrievedAt": "2023-11-13 19:05:33.945435",
-      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
       "publishedAtLabel": "Nov 12"
     }
   ]
