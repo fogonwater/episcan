@@ -1,8 +1,98 @@
 {
-  "last_updated": "2023-12-26 19:05",
-  "count_articles_total": 798,
-  "count_articles_new": 3,
+  "last_updated": "2023-12-27 07:05",
+  "count_articles_total": 808,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 3937,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ohmynews.com",
+      "author": "\uc720\ucc3d\uc7ac",
+      "title": "\uc9c8\ubcd1\uccad, \uad6d\ub0b4 '\uc5e0\ud3ed\uc2a4' \ubc1c\uc0dd \uc548\uc815\ud654... \uc77c\ubc18 \ubcd1\uc758\uc6d0 \uc9c4\ub8cc \uac00\ub2a5",
+      "description": "\uc9c0\ub09c\ud574 5\uc6d4 \uad6d\ub0b4 \uc5e0\ud3ed\uc2a4(MPOX\u00b7\uc6d0\uc22d\uc774 \ub450\ucc3d) \uccab \ubc1c\uc0dd \uc774\ud6c4 \uc801\uadf9\uc801\uc778 \ub300\uc751\uc744 \ud55c \uacb0\uacfc, \uc9c0\ub09c 12\uc6d4 \ud55c \ub2ec\uac04 \uc5e0\ud3ed\uc2a4 \ud655\uc9c4\uc790 \uc218\ub294 0\uba85\uc778 \uac83\uc73c\ub85c \ub098\ud0c0\ub098 \ud604\uc7ac \uc0c1\ud669\uc774 \uc548\uc815\ud654\ub85c \uc811\uc5b4\ub4e4\uc5c8\uace0, \uc9c0\uc18d\uc801\uc778 \uac10\uc18c \ucd94\uc138\ub97c \ubcf4\uc774\uace0 \uc788\ub2e4. \uc774\uc5d0 \ubc29\uc5ed \ub2f9\uad6d\uc740 \ub0b4\ub144 1\uc6d4 1\uc77c\ubd80\ud130 \uac10\uc5fc\ubcd1 \ub4f1\uae09\uc744 \uae30\uc874 2\uae09\uc5d0\uc11c 3\uae09\uc73c\ub85c \ud558\ud5a5\uc870\uc815\ud55c\ub2e4. \uc9c8\ubcd1\uad00\ub9ac\uccad(\uccad\uc7a5 \uc9c0\uc601\ubbf8)\uc740 26\uc77c \uc774\uac19\uc774 \uc54c\ub9ac\uba74\uc11c \"\uc5e0\ud3ed\uc2a4 \uad6d\ub0b4 \ub204\uc801 \ud655\uc9c4\ud658\uc790\ub294 \ucd1d 155\uba85\uc73c\ub85c, \uc9c0\ub09c 4\uc6d4 42\uba85, 5\uc6d4 48\uba85 \ucd5c\uace0\uce58\ub97c \uae30\ub85d\ud55c \u2026",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002988778",
+      "urlToImage": "https://ojsfile.ohmynews.com/BIG_IMG_FILE/2023/0509/IE003147945_BIG.JPG",
+      "publishedAt": "2023-12-26 02:44:09",
+      "content": " . 5 (MPOX\u00b7 ) , 12 0 , . 1 1 2 3 . ( ) 26 \" 155, 4 42, 5 48 12 \" . , 4 42 5 48 6 22 7 12 8 9 9 10 10 5 11 2 12 0 \u2026 [+177 chars]",
+      "retrievedAt": "2023-12-27 07:05:45.796907",
+      "internal_id": "0d1e30537a45d29b3478376e833c8a11c79034305c41c89e57c790f54f8df85c",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 3934,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Demorgen.be",
+      "author": "Jorn Lelong",
+      "title": "\u2018Belangrijk dat er meer bewustzijn over de ziekte groeit bij ons\u2019: wordt dengue in Europa een blijvertje?",
+      "description": "De Wereldgezondheidsorganisatie waarschuwt voor de toename van \u2018tropische ziekte\u2019 dengue in Europa. Worden dengue-uitbraken in de zomer ook hier ee...",
+      "url": "https://www.demorgen.be/nieuws/belangrijk-dat-er-meer-bewustzijn-over-de-ziekte-groeit-bij-ons-wordt-dengue-in-europa-een-blijvertje~bd863a74/",
+      "urlToImage": "https://img.demorgen.be/e64d3ffee950f1a235b76b33927d0782c5a2ff58/belangrijk-dat-er-meer-bewustzijn-over-de-ziekte-groeit-bij-ons-wordt-dengue-in-europa-een-blijvertje",
+      "publishedAt": "2023-12-26 02:00:04",
+      "content": "Een recordaantal van meer dan vijf miljoen mensen kreeg het afgelopen jaar dengue of knokkelkoorts. Daarmee zet dengue zijn wereldwijde opmars gestaag verder: tussen 2000 en 2019 vertienvoudigde het \u2026 [+2582 chars]",
+      "retrievedAt": "2023-12-27 07:05:44.040405",
+      "internal_id": "a4c4117d654d006310dd718bc69cf14454fdcaf35dd287176bc98171eb5373a9",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 3936,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": null,
+      "title": "Learning English Podcast",
+      "description": "On today\u2019s podcast, Rohingya refugees in Malaysia says they are being trapped in dangerous early marriages; Dengue fever is spreading in the Western Hemisphere followed by a discussion about the word \u2018sentinel; then, meet Anna, the star of Let\u2019s Learn English\u2026",
+      "url": "https://learningenglish.voanews.com/a/7393826.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-e785-08db45a50883_w1200_r1.jpg",
+      "publishedAt": "2023-12-26 00:30:00",
+      "content": "On todays podcast, Rohingya refugees in Malaysia says they are being trapped in dangerous early marriages; Dengue fever is spreading in the Western Hemisphere followed by a discussion about the word \u2026 [+79 chars]",
+      "retrievedAt": "2023-12-27 07:05:44.082044",
+      "internal_id": "6674d91c785a87f7425a3f07c5669702319d057ecf47896f6ac78da8d1e4766e",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 3935,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "VOA Learning English",
+      "title": "Millions Infected with Dengue as Temperature Rises",
+      "description": "The disease dengue is spreading across the Western Hemisphere in numbers not seen since record-keeping began in 1980. Experts are warning that rising temperatures and growing cities are increasing the rate of infection.",
+      "url": "https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-c907-08dbffd9834e_cx7_cy0_cw86_w1200_r1.jpg",
+      "publishedAt": "2023-12-25 22:05:00",
+      "content": "The disease dengue is spreading across the Western Hemisphere in numbers not seen since record-keeping began in 1980. Experts are warning that rising temperatures and growing cities are increasing th\u2026 [+4216 chars]",
+      "retrievedAt": "2023-12-27 07:05:44.077308",
+      "internal_id": "528d07ff5acbad2bff812d85cf0c95a953b3def3935b86eeb71f6a15423a9ab0",
+      "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 3933,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Livedoor.biz",
+      "author": "waranote2",
+      "title": "\u72ac\u306b\u565b\u307e\u308c\u305f\u30a4\u30f3\u30c9\u4eba\u3001\u6c34\u304c\u98f2\u3081\u306a\u304f\u306a\u3063\u3066\u3057\u307e\u3046",
+      "description": "1: \u305d\u308c\u3067\u3082\u52d5\u304f\u540d\u7121\u3057 2023/12/25(\u6708) 20:20:08.78 ID:f+2hiJ+p0XMAS",
+      "url": "http://waranote.livedoor.biz/archives/61111359.html",
+      "urlToImage": "https://livedoor.blogimg.jp/waranote2/imgs/4/2/42e3f029-s.jpg",
+      "publishedAt": "2023-12-25 20:00:24",
+      "content": "Video of a man infected with rabies showing symptoms of hydrophobia. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitter.com/qZZEQ6IGHu \u2014 Fascinating (@fasc1nate) Dec\u2026 [+1521 chars]",
+      "retrievedAt": "2023-12-27 07:05:43.185048",
+      "internal_id": "e9c34c95c1404a2f38b0ddc84ab5fb2b33fab8a891974528fa0cb0df51e20a7a",
+      "publishedAtLabel": "Dec 25"
+    },
     {
       "id": 3930,
       "query": [
@@ -14420,6 +14510,98 @@
       "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
       "retrievedAt": "2023-11-14 07:05:55.292511",
       "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3103,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
+      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
+      "url": "https://yle.fi/a/74-20059491",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
+      "publishedAt": "2023-11-12 17:03:22",
+      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.165057",
+      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3102,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "10 more dengue patients die in 24hrs",
+      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
+      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2023-11-12 13:44:18",
+      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.132310",
+      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3101,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
+      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-11-12 11:15:16",
+      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.111861",
+      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3104,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
+      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
+      "url": "https://allafrica.com/stories/202311120029.html",
+      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
+      "publishedAt": "2023-11-12 09:03:15",
+      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.179704",
+      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3105,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
+      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-12 08:24:42",
+      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
+      "retrievedAt": "2023-11-13 19:05:33.945435",
+      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
       "publishedAtLabel": "Nov 12"
     }
   ]
