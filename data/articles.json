@@ -1,8 +1,170 @@
 {
-  "last_updated": "2023-12-27 19:05",
-  "count_articles_total": 811,
-  "count_articles_new": 8,
+  "last_updated": "2023-12-28 07:05",
+  "count_articles_total": 825,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 3947,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Tan Shiow Chin",
+      "title": "Reducing the risk of rabies via pet vaccination",
+      "description": "This fatal disease can be easily prevented with the vaccination of dogs \u2013 the primary source of human infection.",
+      "url": "https://www.thestar.com.my/lifestyle/health/2023/12/27/reducing-the-risk-of-rabies-via-pet-vaccination",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/12/22/2452822.jpg",
+      "publishedAt": "2023-12-27 07:02:09",
+      "content": "Mention rabies and an image of an aggressive dog barking and foaming at its mouth is likely to come to mind. Most people are probably aware that humans can contract this infectious disease from a bi\u2026 [+8432 chars]",
+      "retrievedAt": "2023-12-28 07:05:50.128816",
+      "internal_id": "b63ae11599773462e2bc66943eff7655778c05790717f80cfaa6a74584158801",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3946,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Chaos2ch.com",
+      "author": "chaos2ch",
+      "title": "\u3010\u885d\u6483\u52d5\u753b\u3011\u72c2\u72ac\u75c5\u306e\u4eba\u306e\u6c34\u306e\u98f2\u307f\u65b9\u304c\u30e4\u30d0\u3059\u304e\u308b",
+      "description": "1: \u540d\u7121\u3057\u3055\u3093\uff20\u304a\u30fc\u3077\u3093 23/12/26(\u706b) 14:40:23 ID:658g \u6016\u3044Videos of a man infected with rabies demonstrates hydrophobia, which is a symptom of the virus. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitter.com/obMhuVnku2...",
+      "url": "http://chaos2ch.com/archives/5491039.html",
+      "urlToImage": null,
+      "publishedAt": "2023-12-27 06:00:30",
+      "content": "Videos of a man infected with rabies demonstrates hydrophobia, which is a symptom of the virus. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitter.com/obMhuVnku2 \u2014 M\u2026 [+44 chars]",
+      "retrievedAt": "2023-12-28 07:05:50.112721",
+      "internal_id": "1ab37d1c338d075468f1c92f5ba584f0e7ce640c7ef048d4246e716984730f50",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3948,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "O que explica o aumento nos casos de dengue na Europa?",
+      "description": "O n\u00famero de casos de dengue adquiridos localmente na parte continental da Europa teve um aumento de 20% nos \u00faltimos anos O post O que explica o aumento nos casos de dengue na Europa? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/12/27/medicina-e-saude/o-que-explica-o-aumento-nos-casos-de-dengue-na-europa/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/11/pexels-pixabay-86722-scaled-e1699618243347-695x500.jpg",
+      "publishedAt": "2023-12-27 04:40:00",
+      "content": "A dengue \u00c3\u00a9 uma doen\u00c3\u00a7a tropical e subtropical presente principalmente em regi\u00c3\u00b5es da \u00c3\u0081sia, \u00c3\u0081frica e Am\u00c3\u00a9rica do Sul. O Brasil, por exemplo, lidera o n\u00c3\u00bamero de casos da doen\u00c3\u00a7a, com 2,9 milh\u00c3\u00b5es d\u2026 [+2709 chars]",
+      "retrievedAt": "2023-12-28 07:05:50.640806",
+      "internal_id": "85a525f196957b13b827c82e4a56d59d8473c47d6ce3dd87d33ad06621249787",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3954,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Thaipbsworld.com",
+      "author": "jeerapas@thaipbs.or.th",
+      "title": "Warning over increase in Zika virus infections in Bangkok",
+      "description": "A warning has been issued about increasing Zika virus infections in Bangkok, by Professor Dr. Yong Poovorawan, chief of the Centre of Excellence in Clinical Virology at the Faculty of... The post Warning over increase in Zika virus infections in Bangkok first\u2026",
+      "url": "https://www.thaipbsworld.com/warning-over-increase-in-zika-virus-infections-in-bangkok/",
+      "urlToImage": "https://www.thaipbsworld.com/wp-content/uploads/2023/12/838437-600x330.jpg",
+      "publishedAt": "2023-12-27 03:51:08",
+      "content": "A warning has been issued about increasing Zika virus infections in Bangkok, by Professor Dr. Yong Poovorawan, chief of the Centre of Excellence in Clinical Virology at the Faculty of Medicine, Chula\u2026 [+977 chars]",
+      "retrievedAt": "2023-12-28 07:05:51.476803",
+      "internal_id": "be62aca08b6fdb0e60f3b7d610f1a30999b9b5a3ab114947254f67463c59c944",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3952,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Carmen Torrente Villacampa",
+      "title": "El secreto de 'la puchera de Riaza', el primer medicamento espec\u00edfico espa\u00f1ol con prospecto",
+      "description": "El farmac\u00e9utico rural Frutos Sanz revolucion\u00f3 el siglo XIX en su lucha contra la malaria. Carlos L. Garc\u00eda, m\u00e9dico y descendiente, explica c\u00f3mo surgi\u00f3 este preparado Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2023/12/27/658aee2be4d4d879658b4580.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/0a28c7b21b22720d84971c31758717b7/resize/1200/f/webp/assets/multimedia/imagenes/2023/12/26/17036046056486.jpg",
+      "publishedAt": "2023-12-27 00:58:55",
+      "content": "La pandemia eclips\u00f3 el 200 aniversario de 'la puchera de Riaza'. Lo cre\u00f3 en 1820 el farmac\u00e9utico Frutos Sanz y Agudo para tratar la malaria y tuvo su apogeo entre 1860 y 1865. Uno de sus descendiente\u2026 [+5423 chars]",
+      "retrievedAt": "2023-12-28 07:05:51.284481",
+      "internal_id": "fb1184a8e91b506b6f1317c0da5f5c53f49ec2c11cfc8e532896776d1cb40644",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3949,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "Ahmedabad: 90 cholera and 71 dengue cases",
+      "description": "AHMEDABAD: The city civic body's health department on Tuesday stated in its weekly health update that the city hospitals and urban health centres regi.",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-90-cholera-and-71-dengue-cases/articleshow/106304944.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-106304951,width-1070,height-580,imgsize-32190,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-12-27 00:51:31",
+      "content": "11 Animals that shed skin, body parts",
+      "retrievedAt": "2023-12-28 07:05:50.650578",
+      "internal_id": "b1d679c29d928039211ee77a4f491537b4f1fe0fec1894b10ea129dfba3f712e",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3951,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Sele\u00e7\u00f5es, Sele\u00e7\u00f5es",
+      "title": "Vacina contra a Dengue estar\u00e1 dispon\u00edvel no SUS? Entenda os detalhes",
+      "description": "Entenda tudo sobre a vacina contra a Dengue e saiba como ser\u00e1 a distribui\u00e7\u00e3o do imunizante!",
+      "url": "https://delas.ig.com.br/parceiros/selecoes/2023-12-26/vacina-contra-a-dengue-estara-disponivel-no-sus--entenda-os-detalhes.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ac/le/eg/acleegt8gvc3bb39eym93o2vx.jpg",
+      "publishedAt": "2023-12-27 00:35:14",
+      "content": "O Brasil est\u00e1 entre os pa\u00edses que ainda luta contra a dengue ! A doen\u00e7a aflige uma boa parte da popula\u00e7\u00e3o e o governo vem h\u00e1 anos combatendo a prolifera\u00e7\u00e3o do aedes aegypti , o mosquito transmissor\u2026 [+2081 chars]",
+      "retrievedAt": "2023-12-28 07:05:50.661715",
+      "internal_id": "b18bfd84fcbe4e1b8522e8b398224a60318948f0ee96858ca30dc3886e78c884",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3953,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Washington Post staff",
+      "title": "Did anything good happen in 2023? Actually, yes!",
+      "description": "Throughout the year, medical and scientific achievements and moments of genuine connection and humanity shone through the bad news.",
+      "url": "https://www.bostonglobe.com/2023/12/26/world/did-anything-good-happen-2023-actually-yes/",
+      "urlToImage": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=444",
+      "publishedAt": "2023-12-26 21:20:39",
+      "content": "In October, the World Health Organization approved a malaria vaccine, only the second time a vaccine against the potentially deadly disease has been created. The WHO said it expects the vaccine, whic\u2026 [+5225 chars]",
+      "retrievedAt": "2023-12-28 07:05:51.291861",
+      "internal_id": "71415f0b3f3d73aecc19dfab57bce92cd6ffaa98eca0454aed4a37f67088ce92",
+      "publishedAtLabel": "Dec 26"
+    },
+    {
+      "id": 3950,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Sa\u00fade em Dia",
+      "title": "Sintomas de dengue: cuidado durante o ver\u00e3o precisa ser redobrado",
+      "description": "Fortes chuvas e calor intenso aumentam a prolifera\u00e7\u00e3o do mosquito da dengue. Saiba identificar os sintomas leves e de alta gravidade",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/sintomas-de-dengue-cuidado-durante-o-verao-precisa-ser-redobrado,3121a9b04185a58fe1e4be72cf6784f2u1m8p8sy.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/26/972383151-dengue-1.jpg",
+      "publishedAt": "2023-12-26 20:02:28",
+      "content": "Durante o ver\u00e3o, \u00e9 comum os casos de dengue se tornarem mais frequentes. A Universidade Aberta do Sistema \u00danico de Sa\u00fade (UNA-SUS) aponta que a combina\u00e7\u00e3o entre altas temperaturas e chuvas favorece o\u2026 [+3492 chars]",
+      "retrievedAt": "2023-12-28 07:05:50.658021",
+      "internal_id": "32b09a8817e7b960e42829042d70a53cfc85dfe06710e00a9c397c17f73477a7",
+      "publishedAtLabel": "Dec 26"
+    },
     {
       "id": 3941,
       "query": [
@@ -14654,6 +14816,98 @@
       "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
       "retrievedAt": "2023-11-14 07:05:55.292511",
       "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3103,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
+      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
+      "url": "https://yle.fi/a/74-20059491",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
+      "publishedAt": "2023-11-12 17:03:22",
+      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.165057",
+      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3102,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "10 more dengue patients die in 24hrs",
+      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
+      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2023-11-12 13:44:18",
+      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.132310",
+      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3101,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
+      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-11-12 11:15:16",
+      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.111861",
+      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3104,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
+      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
+      "url": "https://allafrica.com/stories/202311120029.html",
+      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
+      "publishedAt": "2023-11-12 09:03:15",
+      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.179704",
+      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3105,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
+      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-12 08:24:42",
+      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
+      "retrievedAt": "2023-11-13 19:05:33.945435",
+      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
       "publishedAtLabel": "Nov 12"
     }
   ]

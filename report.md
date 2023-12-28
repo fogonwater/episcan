@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2023-12-27 19:05
-- **Most recent article:** 2023-12-26 18:46:56
+- **New articles in last harvest:** 9
+- **Last harvest:** 2023-12-28 07:05
+- **Most recent article:** 2023-12-27 07:02:09
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 30 | 41 | 45 | 62 | 42 | 69 | 11 | 300 |
-| malaria | 17 | 37 | 33 | 26 | 24 | 24 | 3 | 164 |
+| dengue | 32 | 41 | 45 | 62 | 42 | 69 | 15 | 306 |
+| malaria | 19 | 37 | 33 | 26 | 24 | 24 | 5 | 168 |
 | mpox | 2 | 16 | 18 | 15 | 24 | 15 | 2 | 92 |
 | measles | 27 | 11 | 4 | 5 | 7 | 28 | 5 | 87 |
-| chikungunya | 14 | 7 | 10 | 10 | 11 | 4 | 0 | 56 |
-| zika | 2 | 6 | 10 | 15 | 9 | 5 | 0 | 47 |
-| rabies | 4 | 8 | 9 | 4 | 7 | 2 | 3 | 37 |
+| chikungunya | 15 | 7 | 10 | 10 | 11 | 4 | 0 | 57 |
+| zika | 3 | 6 | 10 | 15 | 9 | 5 | 1 | 49 |
+| rabies | 4 | 8 | 9 | 4 | 7 | 2 | 5 | 39 |
 | meningitis | 7 | 0 | 4 | 8 | 9 | 4 | 1 | 33 |
 | pertussis | 3 | 6 | 4 | 2 | 4 | 2 | 0 | 21 |
 | leptospirosis | 3 | 3 | 4 | 3 | 0 | 2 | 0 | 15 |
-| typhoid | 2 | 1 | 0 | 3 | 0 | 3 | 1 | 10 |
+| typhoid | 3 | 1 | 0 | 3 | 0 | 3 | 1 | 11 |
 | yersinia | 1 | 0 | 1 | 2 | 0 | 0 | 0 | 4 |
 
 
@@ -30,11 +30,19 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 23-52 (zika)
+
+- [Warning over increase in Zika virus infections in Bangkok](https://www.thaipbsworld.com/warning-over-increase-in-zika-virus-infections-in-bangkok/) (Thaipbsworld.com)
+
 ## 23-52 (typhoid)
 
 - [The school that relocated 200 miles to the Ceredigion seaside](https://www.bbc.co.uk/news/uk-wales-67725871) (BBC News)
 
 ## 23-52 (rabies)
+
+- [Reducing the risk of rabies via pet vaccination](https://www.thestar.com.my/lifestyle/health/2023/12/27/reducing-the-risk-of-rabies-via-pet-vaccination) (The Star Online)
+
+- [【衝撃動画】狂犬病の人の水の飲み方がヤバすぎる](http://chaos2ch.com/archives/5491039.html) (Chaos2ch.com)
 
 - [狂犬病の人の水の飲み方がヤバすぎる](http://blog.livedoor.jp/news23vip/archives/6098270.html) (Livedoor.jp)
 
@@ -66,6 +74,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 23-52 (malaria)
 
+- [El secreto de 'la puchera de Riaza', el primer medicamento específico español con prospecto](https://www.elmundo.es/ciencia-y-salud/salud/2023/12/27/658aee2be4d4d879658b4580.html) (El Mundo)
+
+- [Did anything good happen in 2023? Actually, yes!](https://www.bostonglobe.com/2023/12/26/world/did-anything-good-happen-2023-actually-yes/) (The Boston Globe)
+
 - [World Malaria Report 2023 - a Call for Concerted Action to Address Growing Threats](https://allafrica.com/stories/202312260036.html) (AllAfrica - Top Africa News)
 
 - [Of love letters and distant galaxies: Uplifting stories from 2023](https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023) (FRANCE 24 English)
@@ -73,6 +85,14 @@ Source: [News API](https://newsapi.org/)
 - [Dal super computer al nuovo vaccino anti malaria: ecco le più importanti scoperte scientifiche del 2023 secondo Science](https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/) (Ilfattoquotidiano.it)
 
 ## 23-52 (dengue)
+
+- [O que explica o aumento nos casos de dengue na Europa?](https://olhardigital.com.br/2023/12/27/medicina-e-saude/o-que-explica-o-aumento-nos-casos-de-dengue-na-europa/) (Olhardigital.com.br)
+
+- [Ahmedabad: 90 cholera and 71 dengue cases](https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-90-cholera-and-71-dengue-cases/articleshow/106304944.cms) (The Times of India)
+
+- [Vacina contra a Dengue estará disponível no SUS? Entenda os detalhes](https://delas.ig.com.br/parceiros/selecoes/2023-12-26/vacina-contra-a-dengue-estara-disponivel-no-sus--entenda-os-detalhes.html) (Ig.com.br)
+
+- [Sintomas de dengue: cuidado durante o verão precisa ser redobrado](https://www.terra.com.br/vida-e-estilo/saude/sintomas-de-dengue-cuidado-durante-o-verao-precisa-ser-redobrado,3121a9b04185a58fe1e4be72cf6784f2u1m8p8sy.html) (Terra.com.br)
 
 - [Sintomas de dengue: cuidados durante o verão precisam ser redobrados](https://www.metropoles.com/saude/sintomas-de-dengue-cuidados-durante-o-verao) (Metropoles.com)
 
@@ -1664,6 +1684,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Polscy naukowcy opracowali prototyp szczepionki przeciwko wirusowi Zika](https://geekweek.interia.pl/medycyna/news-polscy-naukowcy-opracowali-prototyp-szczepionki-przeciwko-wi,nId,7150632) (Interia.pl)
 
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
+
 ## 23-46 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 17th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-17th-november-2023/) (Iasbaba.com)
@@ -1673,6 +1695,8 @@ Source: [News API](https://newsapi.org/)
 - [Guidance: Typhoid and paratyphoid: public health guidance and questionnaires](https://www.gov.uk/government/publications/typhoid-and-paratyphoid-public-health-operational-guidelines) (Www.gov.uk)
 
 - [Salmonella Vaccine Study in Oxford (SALVO) trial: protocol for an observer-participant blind randomised placebo-controlled trial of the iNTS-GMMA vaccine within a European cohort](https://bmjopen.bmj.com/content/13/11/e072938?rss=1) (The BMJ)
+
+- [Drought and mismanagement have left a French island parched. That holds lessons for the mainland](https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms) (The Times of India)
 
 ## 23-46 (rabies)
 
@@ -1806,6 +1830,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel](https://www.nu.nl/goed-nieuws/6289153/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.html) (Www.nu.nl)
 
+- [Rutto, malaria, toisintokuume – tuotantoeläinten kesyttäminen näkyy ihmiskunnan taudeissa](https://yle.fi/a/74-20059491) (YLE News)
+
+- [Africa: WHO Approves First African-Manufactured Malaria Drug](https://allafrica.com/stories/202311120029.html) (AllAfrica - Top Africa News)
+
 ## 23-46 (leptospirosis)
 
 - [Stratford A&P Show: Wellness a focus at this year’s show with leptospirosis testing](https://www.nzherald.co.nz/stratford-press/news/stratford-ap-show-wellness-a-focus-at-this-years-show-with-leptospirosis-testing/TAQC2B32W5F4VJDWK6PPJBH6YM/) (New Zealand Herald)
@@ -1876,6 +1904,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: NegOcc dengue cases drop 74 percent](https://rpnradio.com/bacolod-negocc-dengue-cases-drop-74-percent/) (Rpnradio.com)
 
+- [10 more dengue patients die in 24hrs](https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214) (Tbsnews.net)
+
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
+
 ## 23-46 (chikungunya)
 
 - [Emergex Signs Contract of £1.79M with the UK Department of Health and Social Care’s UK Vaccine Network (“UKVN”) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus](https://www.globenewswire.com/news-release/2023/11/17/2782493/0/en/Emergex-Signs-Contract-of-1-79M-with-the-UK-Department-of-Health-and-Social-Care-s-UK-Vaccine-Network-UKVN-to-Advance-Its-Novel-Synthetic-T-Cell-Priming-Set-Point-Candidate-Against.html) (GlobeNewswire)
@@ -1905,3 +1937,5 @@ Source: [News API](https://newsapi.org/)
 - [Valneva annonce des résultats positifs de Phase 3 concernant l’immunogénicité de son candidat vaccin contre le chikungunya chez les adolescents](https://www.globenewswire.com/news-release/2023/11/13/2778680/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-3-concernant-l-immunog%C3%A9nicit%C3%A9-de-son-candidat-vaccin-contre-le-chikungunya-chez-les-adolescents.html) (GlobeNewswire)
 
 - [Trophées des usines, nouveaux Territoires d'industrie, vaccin contre le chikungunya... Les sept bonnes nouvelles de la semaine](https://www.usinenouvelle.com/article/trophees-des-usines-nouveaux-territoires-d-industrie-vaccin-contre-le-chikungunya-les-sept-bonnes-nouvelles-de-la-semaine.N2194218) (L'Usine Nouvelle)
+
+- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
