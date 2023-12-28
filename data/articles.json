@@ -1,8 +1,283 @@
 {
-  "last_updated": "2023-12-28 07:05",
-  "count_articles_total": 825,
-  "count_articles_new": 9,
+  "last_updated": "2023-12-28 19:05",
+  "count_articles_total": 835,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 3958,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Vacuna contra el dengue: cu\u00e1l es el precio y d\u00f3nde conseguirla",
+      "description": "Son dos dosis, que se aplican con un intervalo de tres meses, y su uso est\u00e1 autorizado a partir de los cuatro a\u00f1os de edad",
+      "url": "https://www.lanacion.com.ar/sociedad/vacuna-contra-el-dengue-cual-es-el-precio-y-donde-conseguirla-nid27122023/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-anmat-aprobo-este-ano-la-vacuna-qdenga-de-O462LEZ5CFEG5KF2BFXTFMLRPM.jpg?auth=4a5493de0136b4da0928c93072dd6b2b1da7c63a4639d6d7550b4bb3adee1af2&width=768&quality=70&smart=false",
+      "publishedAt": "2023-12-27 19:03:22",
+      "content": "Una recorrida por vacunatorios privados da cuenta de que ya est\u00e1n aplicando la vacuna contra el dengue, que se aprob\u00f3 este a\u00f1o en el pa\u00eds. Su costo, de manera particular, est\u00e1 recomendado en $51.113 \u2026 [+5490 chars]",
+      "retrievedAt": "2023-12-28 19:05:16.992643",
+      "internal_id": "2530554b10a9f461a33e869270f34a59dbc78cae8a63115d994c74171f97f700",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3956,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "David M. Higgins, Joshua T.B. Williams, Sean T. O\u2019Leary",
+      "title": "Opinion: Measles is back. Coloradans should be concerned.",
+      "description": "As pediatricians, we are concerned by the first measles case in Colorado since 2019. We have anxiously watched for three years as measles vaccination rates have fallen in our state while cases have risen around the world.",
+      "url": "https://www.denverpost.com/2023/12/27/measles-colorado-pediatricians-concerned-vaccines-safe/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2022/08/TDP-L-Vaccination080522-cha-422.jpg?w=1024&h=681",
+      "publishedAt": "2023-12-27 18:23:26",
+      "content": "It was only a matter of time. As pediatricians, we are concerned by the first measles case in Colorado since 2019. We have anxiously watched for three years as measles vaccination rates have fallen i\u2026 [+4825 chars]",
+      "retrievedAt": "2023-12-28 19:05:16.662918",
+      "internal_id": "49a6aa6944bc417317e5fc73118cfa0788bf2ca965ed1424f9bb82eecd7eb8a0",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3961,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas amplia bairros com 'alto risco de transmiss\u00e3o' de dengue: veja rela\u00e7\u00e3o",
+      "description": "S\u00e3o mais cinco bairros que integram rela\u00e7\u00e3o de \u00e1reas da metr\u00f3pole que devem intensificar medidas preventivas, entre elas o combate ao criadouro do mosquito transmiss\u00e3o. Cidade vive epidemia desde abril e soma 10,8 mil casos. Campinas amplia n\u00famero de bairros \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/27/campinas-amplia-bairros-com-alto-risco-de-transmissao-de-dengue-veja-relacao.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/D91lVDz2UOuoKmUA7XjMswQvox8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/9/ZXEUPfQHO78slTEX68Qw/capturar3.jpg",
+      "publishedAt": "2023-12-27 18:04:43",
+      "content": " Ch\u00e1cara Primavera (Leste)Jardim Aur\u00e9lia (Norte)Conjunto Residencial Parque S\u00e3o Bento (Noroeste)Jardim das Bandeiras II (Sul)Vila Vit\u00f3ria (Sudoeste)</\u2026 [+7140 chars]",
+      "retrievedAt": "2023-12-28 19:05:17.009587",
+      "internal_id": "a27fb36ea62579c1687870113a3ecec65d4191f3bfddaaef1490caad6d7bedfa",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3955,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thegatewaypundit.com",
+      "author": "Guest Contributor",
+      "title": "Leprosy, Polio, Malaria, TB, Measles \u2026 and Massive Unscreened Illegal Immigration",
+      "description": "This story originally was published by Real Clear Wire By James Varney Real Clear Wire Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. The post Leprosy, Polio, Mal\u2026",
+      "url": "https://www.thegatewaypundit.com/2023/12/leprosy-polio-malaria-tb-measles-massive-unscreened-illegal/",
+      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2023/12/612315.jpg",
+      "publishedAt": "2023-12-27 16:45:12",
+      "content": "Perdelsky at English Wikipedia, Wikimedia Commons This story originally was published by Real Clear Wire By James VarneyReal Clear Wire Successful public health campaigns and medical advances have\u2026 [+12443 chars]",
+      "retrievedAt": "2023-12-28 19:05:16.645891",
+      "internal_id": "7e3133af3ed2f3dec9c4d7d61e33c30c3eabe10693762a2bc2b33da78fe2b052",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3957,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Debraj Deb",
+      "title": "Agartala municipality releases larvae-eating fishes in city drains, waterbodies to combat mosquito menace",
+      "description": "The Agartala municipal body started the mosquito bio-control project in 2017 in collaboration with the National Vector Borne Disease Control Programme.",
+      "url": "https://indianexpress.com/article/north-east-india/tripura/agartala-municipality-larvae-eating-fishes-drains-mosquito-menace-9085399/",
+      "urlToImage": "https://images.indianexpress.com/2023/12/malaria1200.jpg",
+      "publishedAt": "2023-12-27 16:38:04",
+      "content": "In an effort to control malaria, dengue, chikungunya and other vector-borne diseases, Tripura Health Department and Agartala Municipal Corporation Wednesday released larvivorous fishes, which feed on\u2026 [+2191 chars]",
+      "retrievedAt": "2023-12-28 19:05:16.970303",
+      "internal_id": "e5948cf91217ced265cfa0be0d33795bf5451daf65d49913abf026485f604f6a",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3964,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bebe.com",
+      "title": "Meningite: a import\u00e2ncia da cobertura vacinal para o combate da doen\u00e7a\u00b9'\u00b2",
+      "description": "Uma das melhores maneiras de proteger seu filho \u00e9 atrav\u00e9s da vacina\u00e7\u00e3o. Aqui, explicamos mais sobre a meningite e suas principais formas de preven\u00e7\u00e3o!\u00b9'\u00b2",
+      "url": "https://bebe.abril.com.br/saude/meningite-a-importancia-da-cobertura-vacinal-para-o-combate-da-doenca%c2%b9%c2%b2/",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/27/1152289517-istock-1209161480.jpg",
+      "publishedAt": "2023-12-27 15:45:58",
+      "content": "De acordo com a Meningitis Research Foundation (MRF), organiza\u00e7\u00e3o sem fins lucrativos localizada na Inglaterra, a cada ano, registram-se mais de 2,5 milh\u00f5es de casos da doen\u00e7a em todo o mundo. 3 Segu\u2026 [+7079 chars]",
+      "retrievedAt": "2023-12-28 19:05:17.411614",
+      "internal_id": "667dcc7075bc3e14c58ace6ece9e81a4aa708326968c0e02dbe0d7b3de3a8dd1",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3962,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Febre maculosa, dengue, maternidade: relembre desafios da sa\u00fade na regi\u00e3o de Campinas em 2023",
+      "description": "Demanda por leitos e atendimentos no SUS est\u00e1 entre os principais gargalos, e h\u00e1 promessa do estado em construir um hospital metropolitano. Confira assuntos que foram destaques neste ano. Febre maculosa, dengue, crise: relembre desafios da sa\u00fade na regi\u00e3o de \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/27/febre-maculosa-dengue-maternidade-relembre-desafios-da-saude-na-regiao-de-campinas-em-2023.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/8yv2g_8NWtOnj-qUVrae2RbzNAY=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/12213241.jpg",
+      "publishedAt": "2023-12-27 15:30:38",
+      "content": "Um grande destaque no ano foi a crise na Maternidade de Campinas, que jogou luz em v\u00e1rios problemas, como o d\u00e9ficit de m\u00e9dicos e a grande necessidade de vagas de UTI neonatal. O ano ainda teve supe\u2026 [+7095 chars]",
+      "retrievedAt": "2023-12-28 19:05:17.018603",
+      "internal_id": "2c06d03714804308da0eb565b5cdd3492ecfe7ec1ed8ccea232e55107e23bdb6",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3959,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pranav Tewari, Pei Ma, Gregory Gan, A. Janhavi, Esther Li Wen Choo, Joel Ruihan Koo, Borame Lee Dickens, Jue Tao Lim",
+      "title": "Non-linear associations between meteorological factors, ambient air pollutants and major mosquito-borne diseases in Thailand",
+      "description": "Author summary In this study, we examined the associations between meteorological variables, ambient air pollutants and four major mosquito-borne diseases, dengue, malaria, chikungunya and Japanese encephalitis in Thailand. For the optimization of vector cont\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011763",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011763.g003&size=inline",
+      "publishedAt": "2023-12-27 14:00:00",
+      "content": "Descriptive results Over the observational period of 20032021, 86 381, 292 550, 10 568, 759 220 cases were reported for CHIKV, malaria, JEV and DENV respectively, with stark heterogeneity in terms o\u2026 [+16486 chars]",
+      "retrievedAt": "2023-12-28 19:05:16.997293",
+      "internal_id": "56b16c65bc902e6e8a31ce5fbac99616be4d5a59e0efbd9f47eb825ae4c0d1e0",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3965,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yannik Vo\u00df, Severina Klaus, Nicolas P. Lichti, Markus Ganter, Julien Guizetti",
+      "title": "Malaria parasite centrins can assemble by Ca2+-inducible condensation",
+      "description": "Author summary Malaria occurs when a small parasite, named Plasmodium falciparum, invades our red blood cells where it grows and multiplies. Parasite multiplication requires segregation of the replicated genetic material into multiple new nuclei, which are th\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011899",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011899.g007&size=inline",
+      "publishedAt": "2023-12-27 14:00:00",
+      "content": "Citation: Vo\u00df Y, Klaus S, Lichti NP, Ganter M, Guizetti J (2023) Malaria parasite centrins can assemble by Ca2+-inducible condensation. PLoS Pathog 19(12): e1011899. https://doi.org/10.1371/journa\u2026 [+84807 chars]",
+      "retrievedAt": "2023-12-28 19:05:17.719591",
+      "internal_id": "c4cb72909443ea8b1430b196f25362cefddd7df4aba2fb788fa453e97466dd92",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3967,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ros\u00e2ngela O. Anjos, Moyra M. Portilho, Leile Camila Jacob-Nascimento, Caroline X. Carvalho, Patr\u00edcia S. S. Moreira, Gielson A. Sacramento, Nivison R. R. Nery Junior, Daiana de Oliveira, Jaqueline S. Cruz, Cristiane W. Cardoso, Hernan D. Argibay, Kenneth S. Plante, Jessica A. Plante, Scott C. Weaver, Uriel D. Kitron, Mitermayer G. Reis, Albert I. Ko, Federico Costa, Guilherme S. Ribeiro",
+      "title": "Dynamics of chikungunya virus transmission in the first year after its introduction in Brazil: A cohort study in an urban community",
+      "description": "Author summary The chikungunya virus (CHIKV) was introduced to the Americas in 2013, causing large outbreaks that rapidly affected a substantial portion of the population in several countries. The virus was first detected in Brazil in 2014 and has since sprea\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011863",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011863.g002&size=inline",
+      "publishedAt": "2023-12-27 14:00:00",
+      "content": "Citation: Anjos RO, Portilho MM, Jacob-Nascimento LC, Carvalho CX, Moreira PSS, Sacramento GA, et al. (2023) Dynamics of chikungunya virus transmission in the first year after its introduction in Bra\u2026 [+36129 chars]",
+      "retrievedAt": "2023-12-28 19:05:18.319349",
+      "internal_id": "acf8eb2b8fe6e849f89a0f6640fbdf50467c1e614c52f019b6cef066aefc419b",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3963,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Clar\u00edn",
+      "author": "Brand Studio",
+      "title": "Lleg\u00f3 la vacuna contra el dengue: un hito en la lucha contra enfermedades transmitidas por mosquitos",
+      "description": "En Helios Salud ya cuentan con la vacuna contra el dengue. Se puede aplicar sin turno previo ni demoras en cualquiera de sus sedes.",
+      "url": "https://www.clarin.com/brandstudio/llego-vacuna-dengue-hito-lucha-enfermedades-transmitidas-mosquitos_0_MsaFXLcgdd.html",
+      "urlToImage": "https://www.clarin.com/img/2023/12/21/NEcfLv4KA_2000x1500__1.jpg",
+      "publishedAt": "2023-12-27 13:56:27",
+      "content": "Brand Studio para Helios Salud Fue un hito significativo en la batalla contra el dengue, la vacuna ofrece una nueva esperanza en la prevenci\u00f3n de esta enfermedad viral transmitida por mosquitos. S\u2026 [+6928 chars]",
+      "retrievedAt": "2023-12-28 19:05:17.030047",
+      "internal_id": "d047f941218dde7e2cb232c4ccb91e5bfa27e19a02359ff81d0056ec418ee9ab",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3968,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Tvn24.pl",
+      "author": "wac//mm",
+      "title": "Ekspertka: zagro\u017cenie tymi wirusami mo\u017ce wzrosn\u0105\u0107 w 2024 roku",
+      "description": "COVID-19, denga oraz mpox - na te choroby wirusowe zwr\u00f3ci\u0142a szczeg\u00f3ln\u0105 uwag\u0119 ekspertka pytana o zagro\u017cenie zdrowotne, jakie przyniesie ludziom rok 2024. Dr Maria Van Kerkhove, dyrektorka departamentu WHO ds. gotowo\u015bci i zapobiegania epidemiom i pandemiom, zwr\u2026",
+      "url": "https://tvn24.pl/swiat/zdrowie-grozne-choroby-w-2024-roku-ekspertka-swiatowej-organizacji-zdrowia-wskazala-covid-19-mpox-i-denge-7642332",
+      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-f279ad-wizualizacja-wirusa-denga-5117890/alternates/LANDSCAPE_1280",
+      "publishedAt": "2023-12-27 11:46:30",
+      "content": "COVID-19, denga oraz mpox - na te choroby wirusowe zwr\u00f3cia szczeg\u00f3ln uwag ekspertka pytana o zagroenie zdrowotne, jakie przyniesie ludziom rok 2024. Dr Maria Van Kerkhove, dyrektorka departamentu WHO\u2026 [+4318 chars]",
+      "retrievedAt": "2023-12-28 19:05:18.501989",
+      "internal_id": "79cd19b6d7ddea6dc9e89ae89d7cef1d9a0315bf5a825ad580679a2ff367e5f0",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3960,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lastampa.it",
+      "author": "La Stampa",
+      "title": "Argentina, emergenza sanitaria per l\u2019epidemia di dengue",
+      "description": "L'Argentina ha registrato 135.676 contagi da dengue e 68 morti causati dall'infezione nel corso del 2023. A causa dell'epidemia il ministero della Salute ha decretato l'emergenza sanitaria \u00abper rinfor ... [Continua a leggere sul sito.]",
+      "url": "https://www.lastampa.it/esteri/2023/12/27/news/dengue_argentina_epidemia-13957407/",
+      "urlToImage": "https://www.gedistatic.it/content/gnn/img/lastampa/2023/12/27/121440805-2152f731-dcda-4f89-8045-02eb385e9888.jpg",
+      "publishedAt": "2023-12-27 11:14:42",
+      "content": "L'Argentina ha registrato 135.676 contagi da dengue e 68 morti causati dall'infezione nel corso del 2023. A causa dell'epidemia il ministero della Salute ha decretato l'emergenza sanitaria \u00abper rinfo\u2026 [+1056 chars]",
+      "retrievedAt": "2023-12-28 19:05:17.004031",
+      "internal_id": "2997b4bb5ebd94599d8c7f3f1b4599bc2c809eea40284a0f9f7934bd9ca00fcf",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3969,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Scientists hope to bank on local vaccine as leptospirosis cases hit 5-year high in Philippines",
+      "description": "The country's leading experts on leptospirosis are developing the first locally-produced vaccine that targets specific strains, but they lack funding.",
+      "url": "https://www.channelnewsasia.com/asia/philippines-leptospirosis-vaccine-leptospira-bacteria-researchers-scientists-floods-rats-underprivileged-4012756",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--FmHwPWdH--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/12/27/screenshot_22.png?itok=JbEL6kBw",
+      "publishedAt": "2023-12-27 10:56:13",
+      "content": "Dr Villanueva added that labourers who serve as primary breadwinners in Filipino households are especially at risk, as they are often outdoors. For them, getting infected could mean losing their prim\u2026 [+1106 chars]",
+      "retrievedAt": "2023-12-28 19:05:19.138775",
+      "internal_id": "7e100868c0b238d673011e521e7fda80adbea65fce511f1113cdc286907d9f9a",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3966,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Malte Neumann",
+      "title": "Innehalten in der M\u00fccke: Der Malaria-Erreger geht Infektionen langsam an",
+      "description": "Ein Rechenmodell zeigt, dass der Malaria-Parasit eher seinen eigenen Tod riskiert, als sich zu fr\u00fch auf einen Menschen \u00fcbertragen zu lassen.",
+      "url": "https://www.tagesspiegel.de/wissen/innehalten-in-der-mucke-der-malaria-erreger-geht-infektionen-langsam-an-10956538.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/malaria1/alternates/BASE_16_9_W1400/malaria.jpeg",
+      "publishedAt": "2023-12-27 09:49:26",
+      "content": "Laut der WHO infizieren sich j\u00e4hrlich rund 250 Millionen Menschen mit Malaria, gut 600.000 sterben. Per M\u00fcckenstich wird der Parasit, der sich in Anopheles-M\u00fccken einnistet, indirekt von Mensch zu Me\u2026 [+3077 chars]",
+      "retrievedAt": "2023-12-28 19:05:17.723839",
+      "internal_id": "51a30df01af00dc7966c128c7dfefa0721bbc986c76b249ad93d87bf5c80bc5f",
+      "publishedAtLabel": "Dec 27"
+    },
     {
       "id": 3947,
       "query": [
@@ -14816,98 +15091,6 @@
       "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
       "retrievedAt": "2023-11-14 07:05:55.292511",
       "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3103,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "YLE News",
-      "author": null,
-      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
-      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
-      "url": "https://yle.fi/a/74-20059491",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
-      "publishedAt": "2023-11-12 17:03:22",
-      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.165057",
-      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3102,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "10 more dengue patients die in 24hrs",
-      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
-      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-12 13:44:18",
-      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.132310",
-      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3101,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
-      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-11-12 11:15:16",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.111861",
-      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3104,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
-      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
-      "url": "https://allafrica.com/stories/202311120029.html",
-      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
-      "publishedAt": "2023-11-12 09:03:15",
-      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.179704",
-      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3105,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
-      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-12 08:24:42",
-      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
-      "retrievedAt": "2023-11-13 19:05:33.945435",
-      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
       "publishedAtLabel": "Nov 12"
     }
   ]

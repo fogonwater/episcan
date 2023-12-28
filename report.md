@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2023-12-28 07:05
-- **Most recent article:** 2023-12-27 07:02:09
+- **New articles in last harvest:** 15
+- **Last harvest:** 2023-12-28 19:05
+- **Most recent article:** 2023-12-27 19:03:22
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 32 | 41 | 45 | 62 | 42 | 69 | 15 | 306 |
-| malaria | 19 | 37 | 33 | 26 | 24 | 24 | 5 | 168 |
-| mpox | 2 | 16 | 18 | 15 | 24 | 15 | 2 | 92 |
-| measles | 27 | 11 | 4 | 5 | 7 | 28 | 5 | 87 |
-| chikungunya | 15 | 7 | 10 | 10 | 11 | 4 | 0 | 57 |
-| zika | 3 | 6 | 10 | 15 | 9 | 5 | 1 | 49 |
+| dengue | 30 | 41 | 45 | 62 | 42 | 69 | 22 | 311 |
+| malaria | 17 | 37 | 33 | 26 | 24 | 24 | 10 | 171 |
+| mpox | 2 | 16 | 18 | 15 | 24 | 15 | 3 | 93 |
+| measles | 27 | 11 | 4 | 5 | 7 | 28 | 7 | 89 |
+| chikungunya | 14 | 7 | 10 | 10 | 11 | 4 | 3 | 59 |
+| zika | 2 | 6 | 10 | 15 | 9 | 5 | 1 | 48 |
 | rabies | 4 | 8 | 9 | 4 | 7 | 2 | 5 | 39 |
-| meningitis | 7 | 0 | 4 | 8 | 9 | 4 | 1 | 33 |
+| meningitis | 7 | 0 | 4 | 8 | 9 | 4 | 2 | 34 |
 | pertussis | 3 | 6 | 4 | 2 | 4 | 2 | 0 | 21 |
-| leptospirosis | 3 | 3 | 4 | 3 | 0 | 2 | 0 | 15 |
-| typhoid | 3 | 1 | 0 | 3 | 0 | 3 | 1 | 11 |
+| leptospirosis | 3 | 3 | 4 | 3 | 0 | 2 | 1 | 16 |
+| typhoid | 2 | 1 | 0 | 3 | 0 | 3 | 1 | 10 |
 | yersinia | 1 | 0 | 1 | 2 | 0 | 0 | 0 | 4 |
 
 
@@ -52,15 +52,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 23-52 (mpox)
 
+- [Ekspertka: zagrożenie tymi wirusami może wzrosnąć w 2024 roku](https://tvn24.pl/swiat/zdrowie-grozne-choroby-w-2024-roku-ekspertka-swiatowej-organizacji-zdrowia-wskazala-covid-19-mpox-i-denge-7642332) (Tvn24.pl)
+
 - [ВОЗ заявила, что конец режима ЧС по ковиду стало поворотным моментом для мира в 2023 году](https://tass.ru/obschestvo/19631915) (Tass.ru)
 
 - [질병청, 국내 '엠폭스' 발생 안정화... 일반 병의원 진료 가능](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002988778) (Ohmynews.com)
 
 ## 23-52 (meningitis)
 
+- [Meningite: a importância da cobertura vacinal para o combate da doença¹'²](https://bebe.abril.com.br/saude/meningite-a-importancia-da-cobertura-vacinal-para-o-combate-da-doenca%c2%b9%c2%b2/) (Abril.com.br)
+
 - [Crisis por enfermedades en Gaza: Alertan por casos de diarrea, viruela y meningitis](https://www.elfinanciero.com.mx/mundo/2023/12/23/crisis-por-enfermedades-en-gaza-alertan-por-casos-de-diarrea-viruela-y-meningitis/) (El Financiero)
 
 ## 23-52 (measles)
+
+- [Opinion: Measles is back. Coloradans should be concerned.](https://www.denverpost.com/2023/12/27/measles-colorado-pediatricians-concerned-vaccines-safe/) (The Denver Post)
+
+- [Leprosy, Polio, Malaria, TB, Measles … and Massive Unscreened Illegal Immigration](https://www.thegatewaypundit.com/2023/12/leprosy-polio-malaria-tb-measles-massive-unscreened-illegal/) (Thegatewaypundit.com)
 
 - [Idaho has worst child vaccine opt-out rate in US](https://www.idahostatejournal.com/news/local/idaho-has-worst-child-vaccine-opt-out-rate-in-us/article_3de847ba-a411-11ee-8ac6-4ffa928844e7.html) (Idaho State Journal)
 
@@ -74,6 +82,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 23-52 (malaria)
 
+- [Leprosy, Polio, Malaria, TB, Measles … and Massive Unscreened Illegal Immigration](https://www.thegatewaypundit.com/2023/12/leprosy-polio-malaria-tb-measles-massive-unscreened-illegal/) (Thegatewaypundit.com)
+
+- [Agartala municipality releases larvae-eating fishes in city drains, waterbodies to combat mosquito menace](https://indianexpress.com/article/north-east-india/tripura/agartala-municipality-larvae-eating-fishes-drains-mosquito-menace-9085399/) (The Indian Express)
+
+- [Non-linear associations between meteorological factors, ambient air pollutants and major mosquito-borne diseases in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011763) (Plos.org)
+
+- [Malaria parasite centrins can assemble by Ca2+-inducible condensation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011899) (Plos.org)
+
+- [Innehalten in der Mücke: Der Malaria-Erreger geht Infektionen langsam an](https://www.tagesspiegel.de/wissen/innehalten-in-der-mucke-der-malaria-erreger-geht-infektionen-langsam-an-10956538.html) (Der Tagesspiegel)
+
 - [El secreto de 'la puchera de Riaza', el primer medicamento específico español con prospecto](https://www.elmundo.es/ciencia-y-salud/salud/2023/12/27/658aee2be4d4d879658b4580.html) (El Mundo)
 
 - [Did anything good happen in 2023? Actually, yes!](https://www.bostonglobe.com/2023/12/26/world/did-anything-good-happen-2023-actually-yes/) (The Boston Globe)
@@ -84,7 +102,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Dal super computer al nuovo vaccino anti malaria: ecco le più importanti scoperte scientifiche del 2023 secondo Science](https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/) (Ilfattoquotidiano.it)
 
+## 23-52 (leptospirosis)
+
+- [Scientists hope to bank on local vaccine as leptospirosis cases hit 5-year high in Philippines](https://www.channelnewsasia.com/asia/philippines-leptospirosis-vaccine-leptospira-bacteria-researchers-scientists-floods-rats-underprivileged-4012756) (CNA)
+
 ## 23-52 (dengue)
+
+- [Vacuna contra el dengue: cuál es el precio y dónde conseguirla](https://www.lanacion.com.ar/sociedad/vacuna-contra-el-dengue-cual-es-el-precio-y-donde-conseguirla-nid27122023/) (La Nacion)
+
+- [Campinas amplia bairros com 'alto risco de transmissão' de dengue: veja relação](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/27/campinas-amplia-bairros-com-alto-risco-de-transmissao-de-dengue-veja-relacao.ghtml) (Globo)
+
+- [Agartala municipality releases larvae-eating fishes in city drains, waterbodies to combat mosquito menace](https://indianexpress.com/article/north-east-india/tripura/agartala-municipality-larvae-eating-fishes-drains-mosquito-menace-9085399/) (The Indian Express)
+
+- [Febre maculosa, dengue, maternidade: relembre desafios da saúde na região de Campinas em 2023](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/27/febre-maculosa-dengue-maternidade-relembre-desafios-da-saude-na-regiao-de-campinas-em-2023.ghtml) (Globo)
+
+- [Non-linear associations between meteorological factors, ambient air pollutants and major mosquito-borne diseases in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011763) (Plos.org)
+
+- [Llegó la vacuna contra el dengue: un hito en la lucha contra enfermedades transmitidas por mosquitos](https://www.clarin.com/brandstudio/llego-vacuna-dengue-hito-lucha-enfermedades-transmitidas-mosquitos_0_MsaFXLcgdd.html) (Clarín)
+
+- [Argentina, emergenza sanitaria per l’epidemia di dengue](https://www.lastampa.it/esteri/2023/12/27/news/dengue_argentina_epidemia-13957407/) (Lastampa.it)
 
 - [O que explica o aumento nos casos de dengue na Europa?](https://olhardigital.com.br/2023/12/27/medicina-e-saude/o-que-explica-o-aumento-nos-casos-de-dengue-na-europa/) (Olhardigital.com.br)
 
@@ -115,6 +151,14 @@ Source: [News API](https://newsapi.org/)
 - [OMS: seis em cada 10 pessoas com dengue no mundo são brasileiras](https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio) (Metropoles.com)
 
 - [Crece dengue 325% en un año en México](https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308) (Reforma.com)
+
+## 23-52 (chikungunya)
+
+- [Agartala municipality releases larvae-eating fishes in city drains, waterbodies to combat mosquito menace](https://indianexpress.com/article/north-east-india/tripura/agartala-municipality-larvae-eating-fishes-drains-mosquito-menace-9085399/) (The Indian Express)
+
+- [Non-linear associations between meteorological factors, ambient air pollutants and major mosquito-borne diseases in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011763) (Plos.org)
+
+- [Dynamics of chikungunya virus transmission in the first year after its introduction in Brazil: A cohort study in an urban community](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011863) (Plos.org)
 
 ## 23-51 (zika)
 
@@ -1684,8 +1728,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Polscy naukowcy opracowali prototyp szczepionki przeciwko wirusowi Zika](https://geekweek.interia.pl/medycyna/news-polscy-naukowcy-opracowali-prototyp-szczepionki-przeciwko-wi,nId,7150632) (Interia.pl)
 
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
-
 ## 23-46 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 17th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-17th-november-2023/) (Iasbaba.com)
@@ -1695,8 +1737,6 @@ Source: [News API](https://newsapi.org/)
 - [Guidance: Typhoid and paratyphoid: public health guidance and questionnaires](https://www.gov.uk/government/publications/typhoid-and-paratyphoid-public-health-operational-guidelines) (Www.gov.uk)
 
 - [Salmonella Vaccine Study in Oxford (SALVO) trial: protocol for an observer-participant blind randomised placebo-controlled trial of the iNTS-GMMA vaccine within a European cohort](https://bmjopen.bmj.com/content/13/11/e072938?rss=1) (The BMJ)
-
-- [Drought and mismanagement have left a French island parched. That holds lessons for the mainland](https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms) (The Times of India)
 
 ## 23-46 (rabies)
 
@@ -1830,10 +1870,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel](https://www.nu.nl/goed-nieuws/6289153/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.html) (Www.nu.nl)
 
-- [Rutto, malaria, toisintokuume – tuotantoeläinten kesyttäminen näkyy ihmiskunnan taudeissa](https://yle.fi/a/74-20059491) (YLE News)
-
-- [Africa: WHO Approves First African-Manufactured Malaria Drug](https://allafrica.com/stories/202311120029.html) (AllAfrica - Top Africa News)
-
 ## 23-46 (leptospirosis)
 
 - [Stratford A&P Show: Wellness a focus at this year’s show with leptospirosis testing](https://www.nzherald.co.nz/stratford-press/news/stratford-ap-show-wellness-a-focus-at-this-years-show-with-leptospirosis-testing/TAQC2B32W5F4VJDWK6PPJBH6YM/) (New Zealand Herald)
@@ -1904,10 +1940,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: NegOcc dengue cases drop 74 percent](https://rpnradio.com/bacolod-negocc-dengue-cases-drop-74-percent/) (Rpnradio.com)
 
-- [10 more dengue patients die in 24hrs](https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214) (Tbsnews.net)
-
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
-
 ## 23-46 (chikungunya)
 
 - [Emergex Signs Contract of £1.79M with the UK Department of Health and Social Care’s UK Vaccine Network (“UKVN”) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus](https://www.globenewswire.com/news-release/2023/11/17/2782493/0/en/Emergex-Signs-Contract-of-1-79M-with-the-UK-Department-of-Health-and-Social-Care-s-UK-Vaccine-Network-UKVN-to-Advance-Its-Novel-Synthetic-T-Cell-Priming-Set-Point-Candidate-Against.html) (GlobeNewswire)
@@ -1937,5 +1969,3 @@ Source: [News API](https://newsapi.org/)
 - [Valneva annonce des résultats positifs de Phase 3 concernant l’immunogénicité de son candidat vaccin contre le chikungunya chez les adolescents](https://www.globenewswire.com/news-release/2023/11/13/2778680/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-3-concernant-l-immunog%C3%A9nicit%C3%A9-de-son-candidat-vaccin-contre-le-chikungunya-chez-les-adolescents.html) (GlobeNewswire)
 
 - [Trophées des usines, nouveaux Territoires d'industrie, vaccin contre le chikungunya... Les sept bonnes nouvelles de la semaine](https://www.usinenouvelle.com/article/trophees-des-usines-nouveaux-territoires-d-industrie-vaccin-contre-le-chikungunya-les-sept-bonnes-nouvelles-de-la-semaine.N2194218) (L'Usine Nouvelle)
-
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
