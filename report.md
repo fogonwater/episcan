@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2023-12-29 07:05
-- **Most recent article:** 2023-12-28 06:15:51
+- **New articles in last harvest:** 11
+- **Last harvest:** 2023-12-29 19:05
+- **Most recent article:** 2023-12-28 16:40:45
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 32 | 41 | 45 | 62 | 42 | 69 | 26 | 317 |
-| malaria | 19 | 37 | 33 | 26 | 24 | 24 | 11 | 174 |
-| mpox | 2 | 16 | 18 | 15 | 24 | 15 | 6 | 96 |
+| dengue | 30 | 41 | 45 | 62 | 42 | 69 | 30 | 319 |
+| malaria | 17 | 37 | 33 | 26 | 24 | 24 | 13 | 174 |
+| mpox | 2 | 16 | 18 | 15 | 24 | 15 | 10 | 100 |
 | measles | 27 | 11 | 4 | 5 | 7 | 28 | 7 | 89 |
-| chikungunya | 15 | 7 | 10 | 10 | 11 | 4 | 3 | 60 |
-| zika | 3 | 6 | 10 | 15 | 9 | 5 | 1 | 49 |
+| chikungunya | 14 | 7 | 10 | 10 | 11 | 4 | 3 | 59 |
+| zika | 2 | 6 | 10 | 15 | 9 | 5 | 1 | 48 |
 | rabies | 4 | 8 | 9 | 4 | 7 | 2 | 5 | 39 |
-| meningitis | 7 | 0 | 4 | 8 | 9 | 4 | 2 | 34 |
+| meningitis | 7 | 0 | 4 | 8 | 9 | 4 | 3 | 35 |
 | pertussis | 3 | 6 | 4 | 2 | 4 | 2 | 0 | 21 |
 | leptospirosis | 3 | 3 | 4 | 3 | 0 | 2 | 1 | 16 |
-| typhoid | 3 | 1 | 0 | 3 | 0 | 3 | 1 | 11 |
+| typhoid | 2 | 1 | 0 | 3 | 0 | 3 | 1 | 10 |
 | yersinia | 1 | 0 | 1 | 2 | 0 | 0 | 0 | 4 |
 
 
@@ -52,6 +52,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 23-52 (mpox)
 
+- [Stigma against gay and bisexual men could worsen Congo's largest mpox outbreak, experts warn](https://www.pbs.org/newshour/world/stigma-against-gay-and-bisexual-men-could-worsen-congos-largest-mpox-outbreak-experts-warn) (PBS)
+
+- [Stigma against gay men could worsen Congo’s biggest mpox outbreak, scientists warn](http://thegrio.com/2023/12/28/stigma-against-gay-men-could-worsen-congos-biggest-mpox-outbreak-scientists-warn/) (TheGrio)
+
+- [Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn](https://www.nbcnews.com/nbc-out/out-health-and-wellness/stigma-gay-men-worsen-congos-biggest-mpox-outbreak-scientists-warn-rcna131438) (NBC News)
+
+- [Infektionskrankheiten: WHO warnt vor weltweiter Ausbreitung der "Affenpocken"](https://www.sueddeutsche.de/gesundheit/mpox-infektionskrankheit-who-affenpocken-ausbruch-1.6325600) (Süddeutsche Zeitung)
+
 - [Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn](https://apnews.com/article/congo-monkeypox-outbreak-gay-discrimination-mpox-bdfbae117989cfa41f5e7e36d583c036) (Associated Press)
 
 - [Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn](https://abcnews.go.com/Health/wireStory/stigma-gay-men-worsen-congos-biggest-mpox-outbreak-105959400) (ABC News)
@@ -65,6 +73,8 @@ Source: [News API](https://newsapi.org/)
 - [질병청, 국내 '엠폭스' 발생 안정화... 일반 병의원 진료 가능](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002988778) (Ohmynews.com)
 
 ## 23-52 (meningitis)
+
+- [Pneumococcal population dynamics: Investigating vaccine-induced changes through multiscale modelling](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011755) (Plos.org)
 
 - [Meningite: a importância da cobertura vacinal para o combate da doença¹'²](https://bebe.abril.com.br/saude/meningite-a-importancia-da-cobertura-vacinal-para-o-combate-da-doenca%c2%b9%c2%b2/) (Abril.com.br)
 
@@ -87,6 +97,10 @@ Source: [News API](https://newsapi.org/)
 - [Philadelphia health officials notify residents of possible measles exposure](https://6abc.com/philadelphia-department-of-public-health-measles-exposure-jefferson-virus/14219449/) (WPVI-TV)
 
 ## 23-52 (malaria)
+
+- [La OMS toma medidas para que la nueva vacuna contra la malaria sea más accesible](https://www.montevideo.com.uy/Salud/La-OMS-toma-medidas-para-que-la-nueva-vacuna-contra-la-malaria-sea-mas-accesible-uc875186) (Montevideo.com.uy)
+
+- [Jahresrückblick: 23 gute Nachrichten aus 2023](https://www.sueddeutsche.de/projekte/artikel/gesellschaft/2023-nachrichten-das-war-2023-ereignisse-jahresrueckblick-e062974/) (Süddeutsche Zeitung)
 
 - [Malaria-Impfung, Fett-weg-Spritze, Blauwale: Das waren gute Nachrichten des Jahres](https://www.nzz.ch/gesellschaft/7-good-news-von-2023-von-malaria-impfstoffen-bis-zur-kino-renaissance-ld.1770984) (Www.nzz.ch)
 
@@ -115,6 +129,14 @@ Source: [News API](https://newsapi.org/)
 - [Scientists hope to bank on local vaccine as leptospirosis cases hit 5-year high in Philippines](https://www.channelnewsasia.com/asia/philippines-leptospirosis-vaccine-leptospira-bacteria-researchers-scientists-floods-rats-underprivileged-4012756) (CNA)
 
 ## 23-52 (dengue)
+
+- [Mortes por dengue batem recorde pelo 2º ano consecutivo no Brasil](https://www.terra.com.br/nos/mortes-por-dengue-batem-recorde-pelo-2-ano-consecutivo-no-brasil,81c2b98f33af7c68f60ed98eb3a8ef380i0rm6x6.html) (Terra.com.br)
+
+- [Os 10 maiores destaques da ciência em 2023](https://tecnologia.ig.com.br/parceiros/canaltech/2023-12-28/os-10-maiores-destaques-da-ciencia-em-2023.html) (Ig.com.br)
+
+- [Brasil tem recorde de mortes por dengue em 2023](https://veja.abril.com.br/saude/brasil-bate-recorde-de-mortes-por-dengue-em-2023) (Abril.com.br)
+
+- [Brasil bate récord de muertes por dengue en 2023, alcanzando más de mil fallecidos](https://www.abc.es/sociedad/brasil-bate-record-muertes-dengue-2023-alcanzando-20231228124004-nt.html) (Www.abc.es)
 
 - [Brasil bate récord de muertes por dengue en 2023, alcanzando más de mil fallecidos](https://www.europapress.es/internacional/noticia-brasil-bate-record-muertes-dengue-2023-alcanzando-mas-mil-fallecidos-20231228071551.html) (Europapress.es)
 
@@ -1744,8 +1766,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Polscy naukowcy opracowali prototyp szczepionki przeciwko wirusowi Zika](https://geekweek.interia.pl/medycyna/news-polscy-naukowcy-opracowali-prototyp-szczepionki-przeciwko-wi,nId,7150632) (Interia.pl)
 
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
-
 ## 23-46 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 17th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-17th-november-2023/) (Iasbaba.com)
@@ -1755,8 +1775,6 @@ Source: [News API](https://newsapi.org/)
 - [Guidance: Typhoid and paratyphoid: public health guidance and questionnaires](https://www.gov.uk/government/publications/typhoid-and-paratyphoid-public-health-operational-guidelines) (Www.gov.uk)
 
 - [Salmonella Vaccine Study in Oxford (SALVO) trial: protocol for an observer-participant blind randomised placebo-controlled trial of the iNTS-GMMA vaccine within a European cohort](https://bmjopen.bmj.com/content/13/11/e072938?rss=1) (The BMJ)
-
-- [Drought and mismanagement have left a French island parched. That holds lessons for the mainland](https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms) (The Times of India)
 
 ## 23-46 (rabies)
 
@@ -1890,10 +1908,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel](https://www.nu.nl/goed-nieuws/6289153/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.html) (Www.nu.nl)
 
-- [Rutto, malaria, toisintokuume – tuotantoeläinten kesyttäminen näkyy ihmiskunnan taudeissa](https://yle.fi/a/74-20059491) (YLE News)
-
-- [Africa: WHO Approves First African-Manufactured Malaria Drug](https://allafrica.com/stories/202311120029.html) (AllAfrica - Top Africa News)
-
 ## 23-46 (leptospirosis)
 
 - [Stratford A&P Show: Wellness a focus at this year’s show with leptospirosis testing](https://www.nzherald.co.nz/stratford-press/news/stratford-ap-show-wellness-a-focus-at-this-years-show-with-leptospirosis-testing/TAQC2B32W5F4VJDWK6PPJBH6YM/) (New Zealand Herald)
@@ -1964,10 +1978,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: NegOcc dengue cases drop 74 percent](https://rpnradio.com/bacolod-negocc-dengue-cases-drop-74-percent/) (Rpnradio.com)
 
-- [10 more dengue patients die in 24hrs](https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214) (Tbsnews.net)
-
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
-
 ## 23-46 (chikungunya)
 
 - [Emergex Signs Contract of £1.79M with the UK Department of Health and Social Care’s UK Vaccine Network (“UKVN”) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus](https://www.globenewswire.com/news-release/2023/11/17/2782493/0/en/Emergex-Signs-Contract-of-1-79M-with-the-UK-Department-of-Health-and-Social-Care-s-UK-Vaccine-Network-UKVN-to-Advance-Its-Novel-Synthetic-T-Cell-Priming-Set-Point-Candidate-Against.html) (GlobeNewswire)
@@ -1997,5 +2007,3 @@ Source: [News API](https://newsapi.org/)
 - [Valneva annonce des résultats positifs de Phase 3 concernant l’immunogénicité de son candidat vaccin contre le chikungunya chez les adolescents](https://www.globenewswire.com/news-release/2023/11/13/2778680/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-3-concernant-l-immunog%C3%A9nicit%C3%A9-de-son-candidat-vaccin-contre-le-chikungunya-chez-les-adolescents.html) (GlobeNewswire)
 
 - [Trophées des usines, nouveaux Territoires d'industrie, vaccin contre le chikungunya... Les sept bonnes nouvelles de la semaine](https://www.usinenouvelle.com/article/trophees-des-usines-nouveaux-territoires-d-industrie-vaccin-contre-le-chikungunya-les-sept-bonnes-nouvelles-de-la-semaine.N2194218) (L'Usine Nouvelle)
-
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
