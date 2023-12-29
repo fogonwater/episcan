@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-12-28 19:05",
-  "count_articles_total": 835,
-  "count_articles_new": 15,
+  "last_updated": "2023-12-29 07:05",
+  "count_articles_total": 848,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 3971,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Brasil bate r\u00e9cord de muertes por dengue en 2023, alcanzando m\u00e1s de mil fallecidos",
+      "description": "Brasil ha batido un r\u00e9cord de muertes por dengue en 2023, alcanzado los 1.079 fallecidos por la enfermedad, seg\u00fan datos difundidos por el Ministerio de Salud, a trav\u00e9s del Sistema de Informaci\u00f3n de Enfermedades de Declaraci\u00f3n Obligatoria (Sinan en l\u00ednea).",
+      "url": "https://www.europapress.es/internacional/noticia-brasil-bate-record-muertes-dengue-2023-alcanzando-mas-mil-fallecidos-20231228071551.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231228071551_1200.jpg",
+      "publishedAt": "2023-12-28 06:15:51",
+      "content": "MADRID, 28 Dic. (EUROPA PRESS) - Brasil ha batido un r\u00e9cord de muertes por dengue en 2023, alcanzado los 1.079 fallecidos por la enfermedad, seg\u00fan datos difundidos por el Ministerio de Salud, a tr\u2026 [+1588 chars]",
+      "retrievedAt": "2023-12-29 07:05:49.289191",
+      "internal_id": "a0d75aa9d8441451c52599bdaf22f3cc48f2e39abce45965191e07b52d3ce2ea",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 3977,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": "Jean-yves Kamale",
+      "title": "Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn",
+      "description": "African scientists warn that discrimination against gay and bisexual men on the continent could make an mpox outbreak in Congo worse. Last month, U.N. officials confirmed that a more severe form of mpox was spreading via sex for the first time in Congo. In pr\u2026",
+      "url": "https://apnews.com/article/congo-monkeypox-outbreak-gay-discrimination-mpox-bdfbae117989cfa41f5e7e36d583c036",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e7217cf/2147483647/strip/true/crop/4198x2361+0+219/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F86%2F5d%2Fc5f1f48ca07d5bd7f6a1ad040906%2F54b41bd4da3846fb9c60440a4a9e3507",
+      "publishedAt": "2023-12-28 06:04:12",
+      "content": "KINSHASA, Congo (AP) As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Healt\u2026 [+5431 chars]",
+      "retrievedAt": "2023-12-29 07:05:50.675816",
+      "internal_id": "40d7bd8b80c84e79fb72ebedb970fff0ab2e60c11c62fdb9b9d2b41385431b85",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 3976,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JEAN-YVES KAMALE Associated Press, MARIA CHENG Associated Press",
+      "title": "Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn",
+      "description": "African scientists warn that discrimination against gay and bisexual men on the continent could make an mpox outbreak in Congo worse",
+      "url": "https://abcnews.go.com/Health/wireStory/stigma-gay-men-worsen-congos-biggest-mpox-outbreak-105959400",
+      "urlToImage": "https://i.abcnewsfe.com/a/a25a77dc-c8c8-4697-8a14-3985df1b70c6/wirestory_bdfbae117989cfa41f5e7e36d583c036_16x9.jpg?w=992",
+      "publishedAt": "2023-12-28 05:50:34",
+      "content": "KINSHASA, Congo -- As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Health \u2026 [+5433 chars]",
+      "retrievedAt": "2023-12-29 07:05:50.666608",
+      "internal_id": "fbf9f54ec7e7a77e9fdba6221a9784d5787fa116e3c366b1d24e41b0ed59b0e4",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 3975,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "JEAN-YVES KAMALE Associated Press, MARIA CHENG Associated Press",
+      "title": "Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn",
+      "description": "African scientists warn that discrimination against gay and bisexual men on the continent could make an mpox outbreak in Congo worse",
+      "url": "https://abcnews.go.com/International/wireStory/stigma-gay-men-worsen-congos-biggest-mpox-outbreak-105959399",
+      "urlToImage": "https://i.abcnewsfe.com/a/a25a77dc-c8c8-4697-8a14-3985df1b70c6/wirestory_bdfbae117989cfa41f5e7e36d583c036_16x9.jpg?w=992",
+      "publishedAt": "2023-12-28 05:50:29",
+      "content": "KINSHASA, Congo -- As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Health \u2026 [+5433 chars]",
+      "retrievedAt": "2023-12-29 07:05:50.658109",
+      "internal_id": "26c745fba74e5abd0f0abbd00b97792c61f03ebe45c4ffa7ec39f71d9ec1585e",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 3974,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Florian Schoop (scf), Esthy Baumann-R\u00fcdiger (eru), Robin Schwarzenbach (RSc)",
+      "title": "Malaria-Impfung, Fett-weg-Spritze, Blauwale: Das waren gute Nachrichten des Jahres",
+      "description": "2023 war d\u00fcster. Kleinere und gr\u00f6ssere Lichtblicke gab es trotzdem: vom Kampf gegen winzige Blutsauger bis zum gr\u00f6ssten Tier der Welt.",
+      "url": "https://www.nzz.ch/gesellschaft/7-good-news-von-2023-von-malaria-impfstoffen-bis-zur-kino-renaissance-ld.1770984",
+      "urlToImage": "https://img.nzz.ch/2023/12/27/6a82f73b-43c3-4f9a-a2e6-e425a762caa6.jpeg?width=1200&height=674&fit=bound&quality=75&auto=webp&crop=4889,2746,x499,y776&wmark=nzz",
+      "publishedAt": "2023-12-28 04:30:00",
+      "content": "Kriege, Erdbeben, Waldbr\u00e4nde: 2023 war gezeichnet von Katastrophen. Entsprechend d\u00fcster f\u00e4llt die Bilanz des Jahres aus. Dabei geht vergessen, dass es in den vergangenen zw\u00f6lf Monaten auch gute Nachr\u2026 [+11238 chars]",
+      "retrievedAt": "2023-12-29 07:05:49.963082",
+      "internal_id": "127beffecb45ae8727d0ae7afcc8e23e1b29f17b5fd0a4d86320540b390eedec",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 3973,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Sri Lanka speeds up dengue control before university entrance exams",
+      "description": "COLOMBO, Dec. 27 (Xinhua) -- Sri Lanka's National Dengue Control Unit (NDCU) said on Wednesday that",
+      "url": "http://en.people.cn/n3/2023/1228/c90000-20115821.html",
+      "urlToImage": null,
+      "publishedAt": "2023-12-28 02:43:36",
+      "content": "(Xinhua) 10:26, December 28, 2023 COLOMBO, Dec. 27 (Xinhua) -- Sri Lanka's National Dengue Control Unit (NDCU) said on Wednesday that it will inspect all examination centers for mosquito breeding si\u2026 [+801 chars]",
+      "retrievedAt": "2023-12-29 07:05:49.319257",
+      "internal_id": "26ae1102db9d435721fbad6a8e84f80a3f233bbb92902487cb763adf4e5525c0",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 3972,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Dengue: Brasil bate recorde de mortes em 2023",
+      "description": "At\u00e9 esta quarta-feira (27), pa\u00eds registrou 1.079 mortes pela doen\u00e7a",
+      "url": "https://saude.ig.com.br/2023-12-27/dengue--brasil-bate-recorde-de-mortes-em-2023.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2023-12-27 21:40:46",
+      "content": "O Brasil bateu recorde de mortes por dengue no ano de 2023 . Dados divulgados pelo Minist\u00e9rio da Sa\u00fade, por meio do Sistema de Informa\u00e7\u00e3o de Agravos de Notifica\u00e7\u00e3o (Sinan online), revelam que foram \u2026 [+1423 chars]",
+      "retrievedAt": "2023-12-29 07:05:49.292847",
+      "internal_id": "bfaa5863e07e1ad8e318ddb011ea69a2433e8487dc20f75dcde9562ac3903d13",
+      "publishedAtLabel": "Dec 27"
+    },
+    {
+      "id": 3970,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Iago Silva",
+      "title": "Brasil registra recorde de mortes por dengue em 2023",
+      "description": "Com 1.079 mortes por dengue em 2023, o Brasil enfrenta desafios enquanto o Minist\u00e9rio da Sa\u00fade intensifica a\u00e7\u00f5es preventivas",
+      "url": "https://www.metropoles.com/brasil/brasil-registra-recorde-de-mortes-por-dengue-em-2023",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/12/27173946/2023-10-06t141346z_1_lynxmpej950lb_rtroptp_4_health-dengue-argentina.jpg",
+      "publishedAt": "2023-12-27 20:45:33",
+      "content": "Segundo dados divulgados pelo Minist\u00e9rio da Sa\u00fade nesta quarta-feira (27/12), o Brasil bateu recorde de mortes por dengue no ano de 2023. Foram 1.079 mortes pela doen\u00e7a, de acordo com o Sistema de In\u2026 [+1432 chars]",
+      "retrievedAt": "2023-12-29 07:05:49.274153",
+      "internal_id": "d47db810e2634828c019eec92ec674bd748537537ee0813c4d89e818fb22f0ba",
+      "publishedAtLabel": "Dec 27"
+    },
     {
       "id": 3958,
       "query": [
@@ -15091,6 +15235,98 @@
       "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
       "retrievedAt": "2023-11-14 07:05:55.292511",
       "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3103,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
+      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
+      "url": "https://yle.fi/a/74-20059491",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
+      "publishedAt": "2023-11-12 17:03:22",
+      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.165057",
+      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3102,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "10 more dengue patients die in 24hrs",
+      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
+      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2023-11-12 13:44:18",
+      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.132310",
+      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3101,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
+      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-11-12 11:15:16",
+      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.111861",
+      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3104,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
+      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
+      "url": "https://allafrica.com/stories/202311120029.html",
+      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
+      "publishedAt": "2023-11-12 09:03:15",
+      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.179704",
+      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3105,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
+      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-12 08:24:42",
+      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
+      "retrievedAt": "2023-11-13 19:05:33.945435",
+      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
       "publishedAtLabel": "Nov 12"
     }
   ]
