@@ -1,8 +1,152 @@
 {
-  "last_updated": "2023-12-29 19:05",
-  "count_articles_total": 854,
-  "count_articles_new": 11,
+  "last_updated": "2023-12-30 07:05",
+  "count_articles_total": 867,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 3993,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Dengue claims more than 1,700 lives in Bangladesh this year",
+      "description": "DHAKA, Dec. 28 (Xinhua) -- The mosquito-borne dengue fever has claimed more than 1,700 lives and inf",
+      "url": "http://en.people.cn/n3/2023/1229/c90000-20116491.html",
+      "urlToImage": null,
+      "publishedAt": "2023-12-29 05:55:29",
+      "content": "(Xinhua) 13:47, December 29, 2023 DHAKA, Dec. 28 (Xinhua) -- The mosquito-borne dengue fever has claimed more than 1,700 lives and infected over 300,000 people so far this year across Bangladesh. A\u2026 [+500 chars]",
+      "retrievedAt": "2023-12-30 07:05:40.061289",
+      "internal_id": "52bd4627a2a8d054e96951da415e4f3f74fd903b2532ba07c4e935a78dac3459",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 3991,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "'I am also the victim of the mosquito': Woman fined for mosquito breeding in toilet bowl after losing trial",
+      "description": "When NEA officers visited her flat in the dengue cluster, Koh Ee Sian said she did not kill animals due to her religious beliefs and the officers had to boil water themselves to destroy the habitat.",
+      "url": "https://www.channelnewsasia.com/singapore/woman-fined-mosquito-breeding-toilet-bowl-national-environment-agency-4015856",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--J_7mF30X--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/12/29/istock-182188655.jpg?itok=-98yoMjj",
+      "publishedAt": "2023-12-29 04:07:00",
+      "content": "SINGAPORE: A woman who claimed trial to a charge of creating conditions favourable to mosquito breeding in her toilet bowl was convicted and fined S$1,400 (US$1,060) by a district court. When Nation\u2026 [+5753 chars]",
+      "retrievedAt": "2023-12-30 07:05:40.015543",
+      "internal_id": "249d9cc151561140d738aee1f52da3e0fc862413e2e31e4df35e396de032d681",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 3989,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "ActionNewsJax.com",
+      "author": "Actionnewsjax.com News Staff",
+      "title": "Department of Health issues rabies alert for Town Center/UNF area in Jacksonville",
+      "description": "Department of Health issues rabies alert for Town Center/UNF area in Jacksonvilleactionnewsjax.com",
+      "url": "https://www.actionnewsjax.com/news/local/department-health-issues-rabies-alert-town-centerunf-area-jacksonville/YVRR64CXNNDNZKXBUHRMYS4ZD4/",
+      "urlToImage": "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/TF8uxvVcs_VfWPZPGq5AgNh7rbE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/NWRLYQQIKVFZTDIDMBPGU2ZGHE.jpeg",
+      "publishedAt": "2023-12-29 03:09:40",
+      "content": "JACKSONVILLE, Fla. \u2014 A rabies alert has been issued for Duval County. &gt;&gt;&gt; STREAM ACTION NEWS JAX LIVE &lt;&lt;&lt; The Florida Department of Health issued the alert for the Town Center/UN\u2026 [+2890 chars]",
+      "retrievedAt": "2023-12-30 07:05:38.927484",
+      "internal_id": "da2c9ea054ceb6cd9d547230bc2319f121c93bf1be7484b78e58c7f4c3e4db02",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 3996,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN Social",
+      "title": "Bacolod City logs 16 leptospirosis deaths",
+      "description": "Bacolod City \u2013 Cases of leptospirosis in Bacolod City rose by 100 percent from January to December 16 this year, with 16 deaths recorded in the period, according to reports of the City Health Office. It recorded 44 cases with 11 deaths in previous the year, c\u2026",
+      "url": "https://rpnradio.com/bacolod-city-logs-16-leptospirosis-deaths/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/12/leptospirosis-bacolod.jpg",
+      "publishedAt": "2023-12-29 00:41:25",
+      "content": "Bacolod City \u2013 Cases of leptospirosis in Bacolod City rose by 100 percent from January to December 16 this year, with 16 deaths recorded in the period, according to reports of the City Health Office.\u2026 [+988 chars]",
+      "retrievedAt": "2023-12-30 07:05:43.751090",
+      "internal_id": "2b2742b265115f9f20ad4f4d8af50c8819ce47c18dd42b36162f35d0a21996fb",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 3990,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Kendra Mazeke",
+      "title": "Rabid cat triggers health alert for Town Center/UNF area",
+      "description": "The Florida Department of Health in Duval County issued a rabies alert Thursday, following the discovery of a rabid cat in the Town Center and UNF area of Jacksonville\u2019s Southside.",
+      "url": "https://www.news4jax.com/news/local/2023/12/28/rabid-cat-triggers-health-alert-for-town-centerunf-area/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-29-2023/t_edc06346fe624f7db6d89055fec1f127_name_image.jpg?_a=ATAPphC0",
+      "publishedAt": "2023-12-28 23:16:30",
+      "content": "JACKSONVILLE, Fla. The Florida Department of Health in Duval County issued a rabies alert Thursday, following the discovery of a rabid cat in the Town Center and UNF area of Jacksonvilles Southside. \u2026 [+2789 chars]",
+      "retrievedAt": "2023-12-30 07:05:38.939047",
+      "internal_id": "18546ff667f6d8991b0ea9396f76b46c7acf9efdbdcc726c069384555f1c981f",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 3992,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Rio tem tend\u00eancia de aumento da transmiss\u00e3o da dengue",
+      "description": "A Regi\u00e3o Metropolitana I concentra o maior n\u00famero de casos \u2013 87% deles na cidade do Rio de Janeiro \u2013, quantidade acima do limite m\u00e1ximo esperado e importante atraso nas notifica\u00e7\u00f5es",
+      "url": "https://valor.globo.com/brasil/noticia/2023/12/28/rio-tem-tendncia-de-aumento-da-transmisso-da-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/bEQ2snw7r87LZvdm4QuhbkNzD3Q=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/p/t/EbxdgKRbWBXnRA3oM9rg/aedesebc.jpg",
+      "publishedAt": "2023-12-28 23:07:42",
+      "content": "Levantamento da Secretaria de Estado de Sa\u00fade aponta tend\u00eancia de aumento da transmiss\u00e3o da dengue no Rio de Janeiro. Divulgada nesta quinta-feira (28), a segunda edi\u00e7\u00e3o do Boletim Panorama da Dengue\u2026 [+3671 chars]",
+      "retrievedAt": "2023-12-30 07:05:40.050500",
+      "internal_id": "5d29b3095a7db12154619df76af66a19fb8e6ff7cfd030a3b1d619658a82632e",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 3995,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Associated Press)",
+      "title": "Stigma Against Gay Men Could Worsen Congo's Biggest Mpox Outbreak, Scientists Warn",
+      "description": "Kinshasa, Congo \u2014 As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Health Organization reported that mpox, also known as monkeypox, was \u2026",
+      "url": "https://www.voanews.com/a/stigma-against-gay-men-could-worsen-congo-s-biggest-mpox-outbreak-scientists-warn-/7416483.html",
+      "urlToImage": "https://gdb.voanews.com/34D6267C-833F-4640-B557-D9A789990478.jpg",
+      "publishedAt": "2023-12-28 22:55:20",
+      "content": "Kinshasa, Congo As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Health Org\u2026 [+4281 chars]",
+      "retrievedAt": "2023-12-30 07:05:42.822344",
+      "internal_id": "ff73bf7bd2ec915727a5d34beb46ed58fe4639078ea9f176e63cb386b34d6b8e",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 3994,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Euronews",
+      "author": "Towleroad",
+      "title": "Stigma against gay men could worsen Congo\u2019s biggest mpox outbreak, scientists warn",
+      "description": "Published by Euronews (English) Mpox, also known as monkeypox, was first reported by the World Health Organization (WHO) as spreading via sex in Congo in November. That is a significant departure from previous flare-ups, where the virus mainly sickened people\u2026",
+      "url": "https://www.euronews.com/next/2023/12/28/stigma-against-gay-men-could-worsen-congos-biggest-mpox-outbreak-scientists-warn?utm_source=nordot&utm_campaign=feeds_allthemes&utm_medium=referral",
+      "urlToImage": "https://www.towleroad.com/wp-content/uploads/2023/12/691287-origin_1.jpg",
+      "publishedAt": "2023-12-28 20:24:47",
+      "content": "Published by Euronews (English) Mpox, also known as monkeypox, was first reported by the World Health Organization (WHO) as spreading via sex in Congo in November. That is a significant departure fr\u2026 [+444 chars]",
+      "retrievedAt": "2023-12-30 07:05:42.818764",
+      "internal_id": "221be0d3f388cae6eee7727c77d40077d42a7871aa9447615e71aa066bd8aced",
+      "publishedAtLabel": "Dec 28"
+    },
     {
       "id": 3988,
       "query": [
@@ -15433,6 +15577,98 @@
       "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
       "retrievedAt": "2023-11-14 07:05:55.292511",
       "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3103,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
+      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
+      "url": "https://yle.fi/a/74-20059491",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
+      "publishedAt": "2023-11-12 17:03:22",
+      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.165057",
+      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3102,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "10 more dengue patients die in 24hrs",
+      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
+      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2023-11-12 13:44:18",
+      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.132310",
+      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3101,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
+      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
+      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2023-11-12 11:15:16",
+      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
+      "retrievedAt": "2023-11-13 19:05:31.111861",
+      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3104,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
+      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
+      "url": "https://allafrica.com/stories/202311120029.html",
+      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
+      "publishedAt": "2023-11-12 09:03:15",
+      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
+      "retrievedAt": "2023-11-13 19:05:32.179704",
+      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
+      "publishedAtLabel": "Nov 12"
+    },
+    {
+      "id": 3105,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AP",
+      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
+      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-11-12 08:24:42",
+      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
+      "retrievedAt": "2023-11-13 19:05:33.945435",
+      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
       "publishedAtLabel": "Nov 12"
     }
   ]
