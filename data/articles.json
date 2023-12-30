@@ -1,8 +1,188 @@
 {
-  "last_updated": "2023-12-30 07:05",
-  "count_articles_total": 867,
-  "count_articles_new": 8,
+  "last_updated": "2023-12-30 19:05",
+  "count_articles_total": 872,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 4004,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Redazione Sport",
+      "title": "Hamed Traore ha la malaria. L\u2019annuncio del Bournemouth",
+      "description": "Il centrocampista della Costa d\u2019Avorio, 23 anni, ex di Empoli e Sassuolo, ha contratto la malaria durante un viaggio in Africa. Dopo un periodo in ospedale sta continuando le cure a casa",
+      "url": "https://www.corriere.it/sport/calcio/23_dicembre_29/hamed-traore-ha-malaria-l-annuncio-bournemouth-4e097b74-a677-11ee-b8ba-551c5675ed48.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/12/29/a3e6fade-a678-11ee-b8ba-551c5675ed48.jpg",
+      "publishedAt": "2023-12-29 18:40:55",
+      "content": "di Redazione SportIl centrocampista della Costa d\u2019Avorio, 23 anni, ex di Empoli e Sassuolo, ha contratto la malaria durante un viaggio in Africa. Dopo un periodo in ospedale sta continuando le cure a\u2026 [+1508 chars]",
+      "retrievedAt": "2023-12-30 19:05:26.086254",
+      "internal_id": "3513307caf1fb76247fb18045e27058bd7365cf9bf91459370279ab279725e79",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 4006,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "Andreas K\u00e4ck",
+      "title": "PL-mittf\u00e4ltaren har inte spelat p\u00e5 veckor \u2013 f\u00e5tt malaria",
+      "description": "Bournemouths Hamed Traor\u00e8 har inte spelat p\u00e5 veckor. Nu avsl\u00f6jas varf\u00f6r. \u2013 Han har f\u00e5tt malaria, s\u00e4ger managern Andoni Iraola.",
+      "url": "https://www.aftonbladet.se/sportbladet/fotboll/a/dwV6Jq/bournemouths-hamed-traore-har-fatt-malaria",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/13af3f86-3710-4229-b860-c60909dca4d0?fit=crop&format=auto&h=994&q=50&w=1900&s=ec1f8734ee4cf17b252e1cbfe4b291fcaea3c66d",
+      "publishedAt": "2023-12-29 17:06:19",
+      "content": "Bournemouths Hamed Traor\u00e8 har inte spelat p\u00e5 veckor. Nu avsl\u00f6jas varf\u00f6r. Han har f\u00e5tt malaria, s\u00e4ger managern Andoni Iraola. Den 23-\u00e5rige mittf\u00e4ltaren smittades av den allvarliga sjukdomen i mitt\u2026 [+855 chars]",
+      "retrievedAt": "2023-12-30 19:05:26.094072",
+      "internal_id": "ddf5f11ca1e7507f6b58dbd676e2afaa28b94d1f49740285601706c6eb3485ce",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 4001,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Autor Redacci\u00f3n",
+      "title": "Iraola confirma una baja para la Copa de \u00c1frica por malaria",
+      "description": "El centrocampista del Bournemouth Hamed Traor\u00e9 fue hospitalizado tras contraer malaria y se perder\u00e1 la Copa de \u00c1frica con su selecci\u00f3n, Costa de Marfil, anfitriona del torneo. As\u00ed lo anunci\u00f3 este viernes Andoni Iraola, entrenador del Bournemouth, 12\u00ba en la ta\u2026",
+      "url": "https://www.mundodeportivo.com/futbol/copa-africa/20231229/1002161368/traore.html",
+      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2023/12/29/658efa348fc2c.r_d.357-193-17647.jpeg",
+      "publishedAt": "2023-12-29 16:59:27",
+      "content": "El centrocampista del Bournemouth Hamed Traor\u00e9 fue hospitalizado tras contraer malaria y se perder\u00e1 la Copa de \u00c1frica con su selecci\u00f3n, Costa de Marfil, anfitriona del torneo. As\u00ed lo anunci\u00f3 este vie\u2026 [+1150 chars]",
+      "retrievedAt": "2023-12-30 19:05:26.070299",
+      "internal_id": "baf44132354c128bcba26424d93a438c814ee7ec0864284f94fa49bd716899ba",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 4003,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "football-italia",
+      "source_name": "Football Italia",
+      "author": "Susy Campanale",
+      "title": "Ex-Sassuolo midfielder Traore contracts malaria",
+      "description": "Former Sassuolo midfielder Junior Hamed Traore, linked with a move to Lazio, will be out of action \u2018for some time\u2019 after he contracted malaria, confirmed",
+      "url": "https://football-italia.net/ex-sassuolo-midfielder-traore-contracts-malaria/",
+      "urlToImage": "https://icdn.football-italia.net/wp-content/uploads/2023/12/11327421-e1703703607887.jpg",
+      "publishedAt": "2023-12-29 16:37:21",
+      "content": "Former Sassuolo midfielder Junior Hamed Traore, linked with a move to Lazio, will be out of action for some time after he contracted malaria, confirmed Bournemouth manager Andoni Iraola. The brother\u2026 [+788 chars]",
+      "retrievedAt": "2023-12-30 19:05:26.080848",
+      "internal_id": "439e71aa89facc6fd9b3527304f3b0b4b4d9da96d186fddd5ac56aae5298a792",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 4005,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "sport",
+      "title": "Sport | Bournemouth midfielder Traore contracts malaria, out of Ivory Coast's Afcon campaign",
+      "description": "Bournemouth's Ivory Coast midfielder Hamad Traore will miss the Africa Cup of Nations and faces a lengthy spell out of action after being hospitalised with malaria.",
+      "url": "https://www.news24.com/sport/soccer/englishpremiership/bournemouth-midfielder-traore-contracts-malaria-out-of-ivory-coasts-afcon-campaign-20231229",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10768/e6631f636b464673a1f6602228e4bbbe.jpg",
+      "publishedAt": "2023-12-29 15:41:45",
+      "content": "Bournemouth's Hamed Traore has contracted malaria and will be sidelined for a few months.It means he will also miss Ivory Coast's Africa Cup of Nations campaign.It's unsure \u2026 [+1966 chars]",
+      "retrievedAt": "2023-12-30 19:05:26.089228",
+      "internal_id": "d048f83198ae48aa8ee170b48a8db99b07c6f8ebef717f42f2388e167f7c3e82",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 4000,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Bournemouth's Traore recovering from malaria",
+      "description": "Bournemouth midfielder Hamed Traore will be out for \"some time\" after contracting malaria, says manager Andoni Iraola.",
+      "url": "https://www.bbc.co.uk/sport/football/67842962",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1224D/production/_132171347_gettyimages-1648190863.jpg",
+      "publishedAt": "2023-12-29 15:30:20",
+      "content": "Traore has not been part of a Bournemouth squad since 3 December, missing their last four league matches Bournemouth midfielder Hamed Traore will be out for \"some time\" after contracting malaria, sa\u2026 [+995 chars]",
+      "retrievedAt": "2023-12-30 19:05:26.060834",
+      "internal_id": "4b85e104f6f1f8c553af5b649cfd1c2ac360f2f5c9b8ec4d6277611b630c9666",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 4002,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": null,
+      "title": "Bournemouth, tegola Traor\u00e9: l'ex Sassuolo \u00e8 ricoverato in ospedale per malaria",
+      "description": "Assenza per il Bournemouth che pu\u00f2 anche interessare il Milan. Il tecnico dei Cherries ha dichiarato in conferenza stampa che il centrocampista.",
+      "url": "https://www.tuttomercatoweb.com/calcio-estero/bournemouth-tegola-traore-l-ex-sassuolo-e-ricoverato-in-ospedale-per-malaria-1917044",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/72/72a2d32781cbc12f219fe632ac0cd6d0-55845-oooz0000.jpeg",
+      "publishedAt": "2023-12-29 14:36:00",
+      "content": "Assenza per il Bournemouth che pu\u00f2 anche interessare il Milan. Il tecnico dei Cherries ha dichiarato in conferenza stampa che il centrocampista Hamed Traor\u00e9, nel mirino della formazione rossonera, \u00e8 \u2026 [+613 chars]",
+      "retrievedAt": "2023-12-30 19:05:26.075314",
+      "internal_id": "e270f9648cf4575d70c5318afc7c26cc483a32493ea80013defd931f0ef94877",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 3997,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Tamires Ferreira",
+      "title": "Brasil bate recorde de mortes por dengue em 2023",
+      "description": "Pa\u00eds registrou crescimento relativamente pequeno em rela\u00e7\u00e3o a 2022 \u2014 mas escalada preocupa O post Brasil bate recorde de mortes por dengue em 2023 apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2023/12/29/medicina-e-saude/brasil-bate-recorde-de-mortes-por-dengue-em-2023/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/12/Dengue-695x500.jpg",
+      "publishedAt": "2023-12-29 13:00:00",
+      "content": "De acordo com dados divulgados pelo Minist\u00c3\u00a9rio da Sa\u00c3\u00bade, por meio do Sistema de Informa\u00c3\u00a7\u00c3\u00a3o de Agravos de Notifica\u00c3\u00a7\u00c3\u00a3o (Sinan online), o Brasil bateu recorde de mortes por dengue em 2023. Conform\u2026 [+2118 chars]",
+      "retrievedAt": "2023-12-30 19:05:24.881237",
+      "internal_id": "b4ac54927a9201d3e2c49dd345e66376ffbd688efe5b0a7922e753119b59691a",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 3998,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jessica Bernardo",
+      "title": "Capital paulista tem aumento de 13,91% nos casos de dengue em um ano",
+      "description": "Entre os dias 1\u00ba de janeiro e 21 de dezembro deste ano foram 13.509 casos confirmados da doen\u00e7a, contra 11.859 no mesmo per\u00edodo de 2022",
+      "url": "https://www.metropoles.com/sao-paulo/capital-paulista-tem-aumento-de-1391-nos-casos-de-dengue-em-um-ano",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/22104941/Dengue_Casos_DF.jpg",
+      "publishedAt": "2023-12-29 11:51:21",
+      "content": "S\u00e3o Paulo A cidade de S\u00e3o Paulo vai fechar o ano de 2023 com aumento no n\u00famero de casos de dengue em rela\u00e7\u00e3o a 2022. Entre os dias 1\u00ba de janeiro e 21 de dezembro deste ano foram 13.509 casos confirma\u2026 [+3329 chars]",
+      "retrievedAt": "2023-12-30 19:05:24.901322",
+      "internal_id": "4062531c74660114a8e7e7a545250ed13b8b67db9e929495a47c2e197876f18d",
+      "publishedAtLabel": "Dec 29"
+    },
+    {
+      "id": 3999,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Sri Lanka witnesses rise in dengue cases with over 10,000 reported in December",
+      "description": "COLOMBO, Dec. 29 (Xinhua) -- Sri Lanka is witnessing a surge in dengue cases with over 10,000 cases",
+      "url": "http://en.people.cn/n3/2023/1229/c90000-20116647.html",
+      "urlToImage": null,
+      "publishedAt": "2023-12-29 08:09:01",
+      "content": "(Xinhua) 16:07, December 29, 2023 COLOMBO, Dec. 29 (Xinhua) -- Sri Lanka is witnessing a surge in dengue cases with over 10,000 cases reported in December alone, the National Dengue Control Unit (ND\u2026 [+613 chars]",
+      "retrievedAt": "2023-12-30 19:05:24.937036",
+      "internal_id": "b43a183e3ba4f47c666eac9c11a6a184716d56c9c1c328e257ec2d1206e9c096",
+      "publishedAtLabel": "Dec 29"
+    },
     {
       "id": 3993,
       "query": [
@@ -15577,98 +15757,6 @@
       "content": "Doordat het negatieve nieuws NU.nl vaak domineert, sneeuwt het positieve nieuws soms onder. Daarom zetten we wekelijks vrolijk stemmende berichten op een rij. Dit keer onder meer een prijs voor de ma\u2026 [+3042 chars]",
       "retrievedAt": "2023-11-14 07:05:55.292511",
       "internal_id": "a3eeff939d68cb700af6ff73df24c4a4948c1d2449a01ab935a9e228fcd83182",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3103,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "YLE News",
-      "author": null,
-      "title": "Rutto, malaria, toisintokuume \u2013 tuotantoel\u00e4inten kesytt\u00e4minen n\u00e4kyy ihmiskunnan taudeissa",
-      "description": "Ilman tuotantoel\u00e4imist\u00e4 saatua ravintoa ihmisen evoluutio olisi varmasti kulkenut aivan toisia teit\u00e4. Muinais-DNA-tutkimus vahvistaa, ett\u00e4 ruoan kylki\u00e4isen\u00e4 ihmiselle tulivat monet tartuntataudit.",
-      "url": "https://yle.fi/a/74-20059491",
-      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_0,w_1024,h_576/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1699543139/39-1198374654cf7c71264c",
-      "publishedAt": "2023-11-12 17:03:22",
-      "content": "Arkeologit ovat uskoneet pitk\u00e4\u00e4n, ett\u00e4 ihmisten tartuntatautien kirjon alkujuuret ovat historiamme suuressa k\u00e4\u00e4nnekohdassa, jolloin esivanhempamme alkoivat asettua aloilleen ja kesytt\u00e4\u00e4 itselleen tuo\u2026 [+4902 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.165057",
-      "internal_id": "007be7f928f11e2c6d69e0c22aadfb3be1fdcb73dee77a187fa5de77fcd9bcac",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3102,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Tbs Report",
-      "title": "10 more dengue patients die in 24hrs",
-      "description": "During the period, 1,748 more patients were hospitalised with the viral fever, according to the Directorate General of Health Services (DGHS).",
-      "url": "https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-12 13:44:18",
-      "content": "10 more deaths were reported from dengue in the last 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,476 this year. During the period, 1,748 m\u2026 [+645 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.132310",
-      "internal_id": "8d8a06e0aade52db1a154a4f670fb1af4af174081f7a3c3e05566a46e327584e",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3101,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Jornada.com.mx",
-      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "title": "Refuerza Ssa prevenci\u00f3n de dengue, zika y chikungunya",
-      "description": "La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en diversos puntos de Guerrero, para disminuir o evitar la proliferaci\u00f3n del mosquito transmisor de dengue, zika y chikung\u2026",
-      "url": "https://www.jornada.com.mx/2023/11/12/politica/005n3pol",
-      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "publishedAt": "2023-11-12 11:15:16",
-      "content": "Peri\u00f3dico La JornadaDomingo 12 de noviembre de 2023, p. 5 La Secretar\u00eda de Salud (Ssa) inform\u00f3 que se reforzaron las acciones del programa de control de vectores con el despliegue de 10 brigadas en \u2026 [+1830 chars]",
-      "retrievedAt": "2023-11-13 19:05:31.111861",
-      "internal_id": "3a405aae286367fcdb4c40ed521181e354a058ffe86851e130ee0521c00b869c",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3104,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Africa: WHO Approves First African-Manufactured Malaria Drug",
-      "description": "[Independent (Kampala)] Kampala, Uganda -- A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyrimethamine + amodiaquine product.",
-      "url": "https://allafrica.com/stories/202311120029.html",
-      "urlToImage": "https://cdn05.allafrica.com/download/pic/main/main/csiid/00561644:f42a937197f2dd04f637ec7efc3680dd:arc614x376:w1200.jpg",
-      "publishedAt": "2023-11-12 09:03:15",
-      "content": "Kampala, Uganda \u2014 A leading Kenya-based pharmaceutical manufacturer, Universal Corporation Ltd (UCL), has become the first African manufacturer to gain WHO prequalification for their sulfadoxine-pyri\u2026 [+5739 chars]",
-      "retrievedAt": "2023-11-13 19:05:32.179704",
-      "internal_id": "fd1988dea0882e7089094dd43729e6973586301009f00ca910f18c24e4aa1615",
-      "publishedAtLabel": "Nov 12"
-    },
-    {
-      "id": 3105,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "AP",
-      "title": "Drought and mismanagement have left a French island parched. That holds lessons for the mainland",
-      "description": "Mayotte, the poorest place in the European Union, is facing a severe water crisis due to a prolonged drought and years of underinvestment and mismanagement. Taps only flow one day out of three, leading to diseases like cholera and typhoid on the rise. The cri\u2026",
-      "url": "https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-105164990,width-1070,height-580,imgsize-104278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-11-12 08:24:42",
-      "content": "Who was Sam Manekshaw, the Indian Army Officer Vicky Kaushal is playing in Sam Bahadur?",
-      "retrievedAt": "2023-11-13 19:05:33.945435",
-      "internal_id": "8d3dce6fcc5d09aba96bce01522c0bcb41bcba7bd1631da10206ac9566e6fbd3",
       "publishedAtLabel": "Nov 12"
     }
   ]

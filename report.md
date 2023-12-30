@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2023-12-30 07:05
-- **Most recent article:** 2023-12-29 05:55:29
+- **New articles in last harvest:** 10
+- **Last harvest:** 2023-12-30 19:05
+- **Most recent article:** 2023-12-29 18:40:55
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 32 | 41 | 45 | 62 | 42 | 69 | 33 | 324 |
-| malaria | 19 | 37 | 33 | 26 | 24 | 24 | 13 | 176 |
+| dengue | 30 | 41 | 45 | 62 | 42 | 69 | 36 | 325 |
+| malaria | 17 | 37 | 33 | 26 | 24 | 24 | 20 | 181 |
 | mpox | 2 | 16 | 18 | 15 | 24 | 15 | 12 | 102 |
 | measles | 27 | 11 | 4 | 5 | 7 | 28 | 7 | 89 |
-| chikungunya | 15 | 7 | 10 | 10 | 11 | 4 | 3 | 60 |
-| zika | 3 | 6 | 10 | 15 | 9 | 5 | 1 | 49 |
+| chikungunya | 14 | 7 | 10 | 10 | 11 | 4 | 3 | 59 |
+| zika | 2 | 6 | 10 | 15 | 9 | 5 | 1 | 48 |
 | rabies | 4 | 8 | 9 | 4 | 7 | 2 | 7 | 41 |
 | meningitis | 7 | 0 | 4 | 8 | 9 | 4 | 3 | 35 |
 | pertussis | 3 | 6 | 4 | 2 | 4 | 2 | 0 | 21 |
 | leptospirosis | 3 | 3 | 4 | 3 | 0 | 2 | 2 | 17 |
-| typhoid | 3 | 1 | 0 | 3 | 0 | 3 | 1 | 11 |
+| typhoid | 2 | 1 | 0 | 3 | 0 | 3 | 1 | 10 |
 | yersinia | 1 | 0 | 1 | 2 | 0 | 0 | 0 | 4 |
 
 
@@ -106,6 +106,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 23-52 (malaria)
 
+- [Hamed Traore ha la malaria. L’annuncio del Bournemouth](https://www.corriere.it/sport/calcio/23_dicembre_29/hamed-traore-ha-malaria-l-annuncio-bournemouth-4e097b74-a677-11ee-b8ba-551c5675ed48.shtml) (Corriere.it)
+
+- [PL-mittfältaren har inte spelat på veckor – fått malaria](https://www.aftonbladet.se/sportbladet/fotboll/a/dwV6Jq/bournemouths-hamed-traore-har-fatt-malaria) (Aftonbladet.se)
+
+- [Iraola confirma una baja para la Copa de África por malaria](https://www.mundodeportivo.com/futbol/copa-africa/20231229/1002161368/traore.html) (Mundodeportivo.com)
+
+- [Ex-Sassuolo midfielder Traore contracts malaria](https://football-italia.net/ex-sassuolo-midfielder-traore-contracts-malaria/) (Football Italia)
+
+- [Sport | Bournemouth midfielder Traore contracts malaria, out of Ivory Coast's Afcon campaign](https://www.news24.com/sport/soccer/englishpremiership/bournemouth-midfielder-traore-contracts-malaria-out-of-ivory-coasts-afcon-campaign-20231229) (News24)
+
+- [Bournemouth's Traore recovering from malaria](https://www.bbc.co.uk/sport/football/67842962) (BBC News)
+
+- [Bournemouth, tegola Traoré: l'ex Sassuolo è ricoverato in ospedale per malaria](https://www.tuttomercatoweb.com/calcio-estero/bournemouth-tegola-traore-l-ex-sassuolo-e-ricoverato-in-ospedale-per-malaria-1917044) (Tuttomercatoweb.com)
+
 - [La OMS toma medidas para que la nueva vacuna contra la malaria sea más accesible](https://www.montevideo.com.uy/Salud/La-OMS-toma-medidas-para-que-la-nueva-vacuna-contra-la-malaria-sea-mas-accesible-uc875186) (Montevideo.com.uy)
 
 - [Jahresrückblick: 23 gute Nachrichten aus 2023](https://www.sueddeutsche.de/projekte/artikel/gesellschaft/2023-nachrichten-das-war-2023-ereignisse-jahresrueckblick-e062974/) (Süddeutsche Zeitung)
@@ -139,6 +153,12 @@ Source: [News API](https://newsapi.org/)
 - [Scientists hope to bank on local vaccine as leptospirosis cases hit 5-year high in Philippines](https://www.channelnewsasia.com/asia/philippines-leptospirosis-vaccine-leptospira-bacteria-researchers-scientists-floods-rats-underprivileged-4012756) (CNA)
 
 ## 23-52 (dengue)
+
+- [Brasil bate recorde de mortes por dengue em 2023](https://olhardigital.com.br/2023/12/29/medicina-e-saude/brasil-bate-recorde-de-mortes-por-dengue-em-2023/) (Olhardigital.com.br)
+
+- [Capital paulista tem aumento de 13,91% nos casos de dengue em um ano](https://www.metropoles.com/sao-paulo/capital-paulista-tem-aumento-de-1391-nos-casos-de-dengue-em-um-ano) (Metropoles.com)
+
+- [Sri Lanka witnesses rise in dengue cases with over 10,000 reported in December](http://en.people.cn/n3/2023/1229/c90000-20116647.html) (People.cn)
 
 - [Dengue claims more than 1,700 lives in Bangladesh this year](http://en.people.cn/n3/2023/1229/c90000-20116491.html) (People.cn)
 
@@ -1782,8 +1802,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Polscy naukowcy opracowali prototyp szczepionki przeciwko wirusowi Zika](https://geekweek.interia.pl/medycyna/news-polscy-naukowcy-opracowali-prototyp-szczepionki-przeciwko-wi,nId,7150632) (Interia.pl)
 
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
-
 ## 23-46 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 17th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-17th-november-2023/) (Iasbaba.com)
@@ -1793,8 +1811,6 @@ Source: [News API](https://newsapi.org/)
 - [Guidance: Typhoid and paratyphoid: public health guidance and questionnaires](https://www.gov.uk/government/publications/typhoid-and-paratyphoid-public-health-operational-guidelines) (Www.gov.uk)
 
 - [Salmonella Vaccine Study in Oxford (SALVO) trial: protocol for an observer-participant blind randomised placebo-controlled trial of the iNTS-GMMA vaccine within a European cohort](https://bmjopen.bmj.com/content/13/11/e072938?rss=1) (The BMJ)
-
-- [Drought and mismanagement have left a French island parched. That holds lessons for the mainland](https://timesofindia.indiatimes.com/world/europe/drought-and-mismanagement-have-left-a-french-island-parched-that-holds-lessons-for-the-mainland/articleshow/105164817.cms) (The Times of India)
 
 ## 23-46 (rabies)
 
@@ -1928,10 +1944,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel](https://www.nu.nl/goed-nieuws/6289153/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.html) (Www.nu.nl)
 
-- [Rutto, malaria, toisintokuume – tuotantoeläinten kesyttäminen näkyy ihmiskunnan taudeissa](https://yle.fi/a/74-20059491) (YLE News)
-
-- [Africa: WHO Approves First African-Manufactured Malaria Drug](https://allafrica.com/stories/202311120029.html) (AllAfrica - Top Africa News)
-
 ## 23-46 (leptospirosis)
 
 - [Stratford A&P Show: Wellness a focus at this year’s show with leptospirosis testing](https://www.nzherald.co.nz/stratford-press/news/stratford-ap-show-wellness-a-focus-at-this-years-show-with-leptospirosis-testing/TAQC2B32W5F4VJDWK6PPJBH6YM/) (New Zealand Herald)
@@ -2002,10 +2014,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Bacolod: NegOcc dengue cases drop 74 percent](https://rpnradio.com/bacolod-negocc-dengue-cases-drop-74-percent/) (Rpnradio.com)
 
-- [10 more dengue patients die in 24hrs](https://www.tbsnews.net/bangladesh/health/10-more-dengue-patients-die-24hrs-738214) (Tbsnews.net)
-
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
-
 ## 23-46 (chikungunya)
 
 - [Emergex Signs Contract of £1.79M with the UK Department of Health and Social Care’s UK Vaccine Network (“UKVN”) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus](https://www.globenewswire.com/news-release/2023/11/17/2782493/0/en/Emergex-Signs-Contract-of-1-79M-with-the-UK-Department-of-Health-and-Social-Care-s-UK-Vaccine-Network-UKVN-to-Advance-Its-Novel-Synthetic-T-Cell-Priming-Set-Point-Candidate-Against.html) (GlobeNewswire)
@@ -2035,5 +2043,3 @@ Source: [News API](https://newsapi.org/)
 - [Valneva annonce des résultats positifs de Phase 3 concernant l’immunogénicité de son candidat vaccin contre le chikungunya chez les adolescents](https://www.globenewswire.com/news-release/2023/11/13/2778680/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-3-concernant-l-immunog%C3%A9nicit%C3%A9-de-son-candidat-vaccin-contre-le-chikungunya-chez-les-adolescents.html) (GlobeNewswire)
 
 - [Trophées des usines, nouveaux Territoires d'industrie, vaccin contre le chikungunya... Les sept bonnes nouvelles de la semaine](https://www.usinenouvelle.com/article/trophees-des-usines-nouveaux-territoires-d-industrie-vaccin-contre-le-chikungunya-les-sept-bonnes-nouvelles-de-la-semaine.N2194218) (L'Usine Nouvelle)
-
-- [Refuerza Ssa prevención de dengue, zika y chikungunya](https://www.jornada.com.mx/2023/11/12/politica/005n3pol) (Jornada.com.mx)
