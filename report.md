@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2023-12-30 19:05
-- **Most recent article:** 2023-12-29 18:40:55
+- **New articles in last harvest:** 2
+- **Last harvest:** 2023-12-31 07:05
+- **Most recent article:** 2023-12-30 06:18:16
 
 ---
 
@@ -10,20 +10,20 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 23-46 | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | Total |
-|--|-|-|-|-|-|-|-|-|
-| dengue | 30 | 41 | 45 | 62 | 42 | 69 | 36 | 325 |
-| malaria | 17 | 37 | 33 | 26 | 24 | 24 | 20 | 181 |
-| mpox | 2 | 16 | 18 | 15 | 24 | 15 | 12 | 102 |
-| measles | 27 | 11 | 4 | 5 | 7 | 28 | 7 | 89 |
-| chikungunya | 14 | 7 | 10 | 10 | 11 | 4 | 3 | 59 |
-| zika | 2 | 6 | 10 | 15 | 9 | 5 | 1 | 48 |
-| rabies | 4 | 8 | 9 | 4 | 7 | 2 | 7 | 41 |
-| meningitis | 7 | 0 | 4 | 8 | 9 | 4 | 3 | 35 |
-| pertussis | 3 | 6 | 4 | 2 | 4 | 2 | 0 | 21 |
-| leptospirosis | 3 | 3 | 4 | 3 | 0 | 2 | 2 | 17 |
-| typhoid | 2 | 1 | 0 | 3 | 0 | 3 | 1 | 10 |
-| yersinia | 1 | 0 | 1 | 2 | 0 | 0 | 0 | 4 |
+| Disease | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | Total |
+|--|-|-|-|-|-|-|-|
+| dengue | 41 | 45 | 62 | 42 | 69 | 36 | 295 |
+| malaria | 37 | 33 | 26 | 24 | 24 | 21 | 165 |
+| mpox | 16 | 18 | 15 | 24 | 15 | 12 | 100 |
+| measles | 11 | 4 | 5 | 7 | 28 | 7 | 62 |
+| zika | 6 | 10 | 15 | 9 | 5 | 1 | 46 |
+| chikungunya | 7 | 10 | 10 | 11 | 4 | 3 | 45 |
+| rabies | 8 | 9 | 4 | 7 | 2 | 7 | 37 |
+| meningitis | 0 | 4 | 8 | 9 | 4 | 3 | 28 |
+| pertussis | 6 | 4 | 2 | 4 | 2 | 0 | 18 |
+| leptospirosis | 3 | 4 | 3 | 0 | 2 | 2 | 14 |
+| typhoid | 1 | 0 | 3 | 0 | 3 | 2 | 9 |
+| yersinia | 0 | 1 | 2 | 0 | 0 | 0 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -35,6 +35,8 @@ Source: [News API](https://newsapi.org/)
 - [Warning over increase in Zika virus infections in Bangkok](https://www.thaipbsworld.com/warning-over-increase-in-zika-virus-infections-in-bangkok/) (Thaipbsworld.com)
 
 ## 23-52 (typhoid)
+
+- [Bad News](https://www.futilitycloset.com/2023/12/30/bad-news-2/) (Futilitycloset.com)
 
 - [The school that relocated 200 miles to the Ceredigion seaside](https://www.bbc.co.uk/news/uk-wales-67725871) (BBC News)
 
@@ -105,6 +107,8 @@ Source: [News API](https://newsapi.org/)
 - [Philadelphia health officials notify residents of possible measles exposure](https://6abc.com/philadelphia-department-of-public-health-measles-exposure-jefferson-virus/14219449/) (WPVI-TV)
 
 ## 23-52 (malaria)
+
+- [Bournemouth's Traore sidelined after contracting malaria](https://www.channelnewsasia.com/sport/bournemouths-traore-sidelined-after-contracting-malaria-4017151) (CNA)
 
 - [Hamed Traore ha la malaria. L’annuncio del Bournemouth](https://www.corriere.it/sport/calcio/23_dicembre_29/hamed-traore-ha-malaria-l-annuncio-bournemouth-4e097b74-a677-11ee-b8ba-551c5675ed48.shtml) (Corriere.it)
 
@@ -1795,251 +1799,3 @@ Source: [News API](https://newsapi.org/)
 - [Vaccine Against Chikungunya Approved By The FDA. Should You Get It?](https://www.forbes.com/sites/markkortepeter/2023/11/20/vaccine-against-chikungunya-approved-by-the-fda-should-you-get-it/) (Forbes)
 
 - [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
-
-## 23-46 (zika)
-
-- [After 7 cases, Maharashtra on zika alert](https://timesofindia.indiatimes.com/city/mumbai/after-7-cases-maharashtra-on-zika-alert/articleshow/105245985.cms) (The Times of India)
-
-- [Polscy naukowcy opracowali prototyp szczepionki przeciwko wirusowi Zika](https://geekweek.interia.pl/medycyna/news-polscy-naukowcy-opracowali-prototyp-szczepionki-przeciwko-wi,nId,7150632) (Interia.pl)
-
-## 23-46 (yersinia)
-
-- [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 17th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-17th-november-2023/) (Iasbaba.com)
-
-## 23-46 (typhoid)
-
-- [Guidance: Typhoid and paratyphoid: public health guidance and questionnaires](https://www.gov.uk/government/publications/typhoid-and-paratyphoid-public-health-operational-guidelines) (Www.gov.uk)
-
-- [Salmonella Vaccine Study in Oxford (SALVO) trial: protocol for an observer-participant blind randomised placebo-controlled trial of the iNTS-GMMA vaccine within a European cohort](https://bmjopen.bmj.com/content/13/11/e072938?rss=1) (The BMJ)
-
-## 23-46 (rabies)
-
-- [NH Health officials looking to identify those who came into contact with rabies-infected kittens](https://www.boston25news.com/news/local/nh-health-officials-looking-identify-those-who-came-into-contact-with-rabies-infected-kittens/OV2JCW2DRBDOBDMYIBASTCCSXM/) (Boston 25 News)
-
-- [Rabies confirmed in stray kittens in found in North Conway NH](https://www.wmur.com/article/rabies-stray-kittens-north-conway-new-hampshire/45876502) (WMUR Manchester)
-
-- [Insändare. ”Köp inte smuggelhundar som kan bära på rabies”](https://www.dn.se/insandare/kop-inte-smuggelhundar-som-kan-bara-pa-rabies/) (Www.dn.se)
-
-- [Vet check up for elderly but healthy cat?](https://ask.metafilter.com/376557/Vet-check-up-for-elderly-but-healthy-cat) (Metafilter.com)
-
-## 23-46 (pertussis)
-
-- [Warren County health officials warn of sudden spike in whooping cough cases](https://local12.com/news/local/warren-county-health-officials-whooping-cough-cases-rise-sudden-spike-pertussis-disease-infection-rate-contagious-babies-infants-sickness-vaccine-cincinnati-ohio) (WKRC TV Cincinnati)
-
-- [100 whooping cough cases reported in Montgomery County in 2023](https://www.wdtn.com/community/health/100-whooping-cough-cases-reported-in-montgomery-county-in-2023/) (WDTN.com)
-
-- [Педиатр назвала три самые распространенные детские сезонные инфекции](https://iz.ru/1605197/2023-11-15/pediatr-nazvala-tri-samye-rasprostranennye-detskie-sezonnye-infektcii) (Iz.ru)
-
-## 23-46 (mpox)
-
-- [Holiday health update: A check on COVID, flu and mpox](https://www.kpbs.org/podcasts/kpbs-midday-edition/holiday-health-update-a-check-on-covid-flu-and-mpox) (KPBS)
-
-- [Mpox pode ser grave em pessoas com imunidade comprometida](https://olhardigital.com.br/2023/11/15/medicina-e-saude/mpox-pode-ser-grave-em-pessoas-com-imunidade-comprometida/) (Olhardigital.com.br)
-
-## 23-46 (meningitis)
-
-- [Antibiotic resistance in children on the rise](https://www.dw.com/en/antibiotic-resistance-in-children-on-the-rise/a-67411523) (DW (English))
-
-- [Aumenta la resistencia a los antibióticos en niños: ¿qué tan peligroso es?](https://www.eluniversal.com.co/salud/aumenta-la-resistencia-a-los-antibioticos-en-ninos-que-tan-peligroso-es-CE9457062) (Eluniversal.com.co)
-
-- [Conveyance of sofosbuvir through vesicular lipid nanocarriers as an effective strategy for management of viral meningitis](https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra06540e) (Royal Society of Chemistry)
-
-- [El esperanzador hallazgo científico sobre las propiedades de la planta medicinal que da origen a la aspirina](https://www.lanacion.com.ar/lifestyle/en-las-redes/el-esperanzador-hallazgo-cientifico-sobre-las-propiedades-de-la-planta-medicinal-que-da-origen-a-la-nid14112023/) (La Nacion)
-
-- [Wissenschaft - Antibiotikaresistenzen nehmen bei Kindern zu](https://www.focus.de/wissen/natur/nicht-mal-mehr-die-haelfte-der-antibiotika-ist-bei-unseren-kindern-wirksam_id_244923364.html) (Focus)
-
-- [Antibiotikaresistenzen nehmen bei Kindern zu](https://www.dw.com/de/antibiotikaresistenzen-nehmen-bei-kindern-zu/a-67366337) (DW (English))
-
-- [La meningitis, los caracoles, su higiene y cuidados preventivos...](https://www.elconfidencialdigital.com/articulo/opinan-socios-ecd/meningitis-caracoles-higiene-cuidados-preventivos/20231113103919668871.html) (Elconfidencialdigital.com)
-
-## 23-46 (measles)
-
-- [Measles: WHO warns of increasing threat worldwide](https://www.ctvnews.ca/health/world-health-organization-warns-of-relentlessly-increasing-threat-of-measles-1.6651176) (Ctvnews.ca)
-
-- [Report of 11 lakh children not getting measles vaccine is fake says Health Ministry Reports not based on facts](https://www.punjabijagran.com/national/general-report-of-11-lakh-children-not-getting-measles-vaccine-is-fake-says-health-ministry-reports-not-based-on-facts-9303294.html) (Punjabijagran.com)
-
-- [Measles deaths jumped over 40% from 2021 to 2022, CDC reports](https://www.livescience.com/health/viruses-infections-disease/measles-deaths-jumped-over-40-from-2021-to-2022-cdc-reports) (Live Science)
-
-- [Reports claiming 11 lakh children missed first measles vaccine in 2022 'inaccurate': Health ministry](https://economictimes.indiatimes.com/news/india/reports-claiming-11-lakh-children-missed-first-measles-vaccine-in-2022-inaccurate-health-ministry/articleshow/105312022.cms) (The Times of India)
-
-- [Measles Stages ‘Staggering’ Comeback As Vaccination Drops — Here’s What To Know About The Returning Killer](https://www.forbes.com/video/6341324782112/measles-stages-staggering-comeback-as-vaccination-drops--heres-what-to-know-about-the-returning-killer/) (Forbes)
-
-- [The cost of measles: Why NZers should care about vaccination rates](https://www.1news.co.nz/2023/11/18/the-cost-of-measles-why-nzers-should-care-about-vaccination-rates/) (1news.co.nz)
-
-- [Measles rises globally amid vaccination crash; WHO and CDC sound the alarm](https://arstechnica.com/health/2023/11/global-measles-cases-deaths-rising-as-vaccination-still-low-after-covid-crash/) (Ars Technica)
-
-- [News24 | About 75% of global measles cases in 2022 were in Africa](https://www.news24.com/news24/africa/news/about-75-of-global-measles-cases-in-2022-were-in-africa-20231117) (News24)
-
-- [Measles Stages ‘Staggering’ Comeback As Vaccination Drops — Here’s What To Know About The Returning Killer](https://www.forbes.com/sites/roberthart/2023/11/17/measles-stages-staggering-comeback-as-vaccination-drops---heres-what-to-know-about-the-returning-killer/) (Forbes)
-
-- [Global Measles Threat](https://www.cdc.gov/globalhealth/measles/index.html) (Cdc.gov)
-
-- ['Staggering' rise in measles cases last year, health agencies say](https://www.abc.net.au/news/2023-11-17/world-health-organization-report-rise-in-measles/103119292) (ABC News (AU))
-
-- [Measles deaths worldwide have increased dramatically thanks to a decline in vaccinations](https://www.fastcompany.com/90984633/measles-cases-deaths-dramatic-increase-worldwide-vaccinations-cdc) (Fast Company)
-
-- [Measles deaths worldwide jumped 40% last year, health agencies say](https://www.1news.co.nz/2023/11/17/measles-deaths-worldwide-jumped-40-last-year-health-agencies-say/) (1news.co.nz)
-
-- [Worldwide Measles Deaths Up 43% in 2022 Y/Y - WHO](https://sputnikglobe.com/20231117/worldwide-measles-deaths-up-43-in-2022-yy---who-1115013123.html) (Sputnikglobe.com)
-
-- [Measles deaths worldwide jumped 40% last year, health agencies say](https://www.bostonglobe.com/2023/11/16/world/measles-deaths-worldwide-jumped-40-last-year-health-agencies-say/) (The Boston Globe)
-
-- ['Staggering' rise in global measles cases last year, say leading health organizations](https://www.cbc.ca/news/health/staggering-rise-in-global-measles-cases-last-year-say-leading-health-organizations-1.7030576) (CBC News)
-
-- [Global measles threat continues to grow as another year passes with millions of children unvaccinated](https://www.who.int/news/item/16-11-2023-global-measles-threat-continues-to-grow-as-another-year-passes-with-millions-of-children-unvaccinated) (World Health Organization)
-
-- [Measles deaths up 40% in 2022 as vaccinations dropped during COVID pandemic - National | Globalnews.ca](https://globalnews.ca/news/10096344/measles-deaths-who-cdc/) (Global News)
-
-- ["Staggering" rise in global measles outbreaks in 2022, CDC and WHO report](https://www.cbsnews.com/news/measles-outbreaks-cdc-who-report-2022/) (CBS News)
-
-- [Measles cases and deaths increase worldwide, report finds](https://www.statnews.com/2023/11/16/measles-cases-and-deaths-increase-worldwide-as-childhood-vaccinations-rates-decline-report/) (STAT)
-
-- ['Staggering' rise in measles cases last year, says WHO and CDC](https://www.investing.com/news/coronavirus/staggering-rise-in-measles-cases-last-year-says-who-and-cdc-3236864) (Investing.com)
-
-- [Measles deaths worldwide jumped 40% last year, health agencies say](https://abcnews.go.com/Health/wireStory/measles-deaths-worldwide-jumped-40-year-health-agencies-104951851) (ABC News)
-
-- [Global measles threat continues to grow as another year passes with millions of children unvaccinated](https://www.cdc.gov/media/releases/2023/p1116-global-measles.html) (Cdc.gov)
-
-- [Global measles cases rose 18% in 2022 amid low vaccination rates: Report](https://abcnews.go.com/Health/global-measles-cases-rose-18-percent-2022-low-vaccination-rates/story?id=104942082) (ABC News)
-
-- [Progress Toward Measles Elimination — Worldwide, 2000–2022](https://www.cdc.gov/mmwr/volumes/72/wr/mm7246a3.htm) (Cdc.gov)
-
-- [News24 | German measles outbreak at Northern Cape school](https://www.news24.com/news24/community-newspaper/noordkaapbulletin/german-measles-outbreak-at-nc-school-20231115) (News24)
-
-- [Offer children chickenpox vaccine with MMR, JCVI recommends](https://www.bmj.com/content/383/bmj.p2677) (The BMJ)
-
-## 23-46 (malaria)
-
-- [Lagos community battles malaria, counts losses as seaweed decorates lagoon](https://punchng.com/lagos-community-battles-malaria-counts-losses-as-seaweed-decorates-lagoon/) (The Punch)
-
-- [In the fight against malaria-carrying mosquitoes, just add soap](https://www.sciencedaily.com/releases/2023/11/231117181013.htm) (Science Daily)
-
-- [In the fight against malaria-carrying mosquitoes, just add soap](https://phys.org/news/2023-11-malaria-carrying-mosquitoes-soap.html) (Phys.Org)
-
-- [Repellent-Resistant Mosquitoes Can't Stand an Item in Your Bathroom](https://www.newsweek.com/repellent-resistant-mosquitoes-bathroom-pesticides-1844806) (Newsweek)
-
-- [Vegetable oil-based surfactants are adjuvants that enhance the efficacy of neonicotinoid insecticides and can bias susceptibility testing in adult mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011737) (Plos.org)
-
-- [Us Strengthens Tanzania Anti-Malaria Laboratory Capacity](https://allafrica.com/stories/202311170433.html) (AllAfrica - Top Africa News)
-
-- [An Illegal Chinese Biolab Containing Infectious Diseases Operated in California. The Feds Ignored It for Months.](https://freebeacon.com/national-security/an-illegal-chinese-biolab-containing-infectious-diseases-operated-in-california-the-feds-ignored-it-for-months/) (Washington Free Beacon)
-
-- [Death Toll From Malaria Outbreak in Western Oromia 'Significantly Higher' Than Reported Numbers - OPA](https://allafrica.com/stories/202311160107.html) (AllAfrica - Top Africa News)
-
-- [Kenya's Bold Step Towards a Malaria-Free Future - Unveiling the National Llins Distribution Campaign](https://allafrica.com/stories/202311160088.html) (AllAfrica - Top Africa News)
-
-- [Rwanda: Rwanda On Track to Achieve Zero Malaria in 2030](https://allafrica.com/stories/202311160016.html) (AllAfrica - Top Africa News)
-
-- [NOVA S50E17 720p WEB h264-BAE](https://rlsbb.ru/nova-s50e17-720p-web-h264-bae/) (Rlsbb.ru)
-
-- [Detection of Anopheles stephensi Mosquitoes by Molecular Surveillance, Kenya](https://wwwnc.cdc.gov/eid/article/29/12/23-0637_article) (Cdc.gov)
-
-- [‘Poor sanitation, hygiene major malaria control setbacks’](https://punchng.com/poor-sanitation-hygiene-major-malaria-control-setbacks/) (The Punch)
-
-- [Poverty, biggest driver of malaria prevalence –Experts](https://punchng.com/poverty-biggest-driver-of-malaria-prevalence-experts/) (The Punch)
-
-- [Sherrie Silver Is Empowering Children Through Dance](https://time.com/6333488/sherrie-silver-time100-impact-awards/) (Time)
-
-- [Video captures long-lost species named after David Attenborough](https://www.cbsnews.com/news/video-long-beaked-echidna-sir-david-attenborough-lost-endangered/) (CBS News)
-
-- [Goed nieuws van deze week: Prijs voor malaria-aanpak en een mierenegel](https://www.nu.nl/goed-nieuws/6289153/goed-nieuws-van-deze-week-prijs-voor-malaria-aanpak-en-een-mierenegel.html) (Www.nu.nl)
-
-## 23-46 (leptospirosis)
-
-- [Stratford A&P Show: Wellness a focus at this year’s show with leptospirosis testing](https://www.nzherald.co.nz/stratford-press/news/stratford-ap-show-wellness-a-focus-at-this-years-show-with-leptospirosis-testing/TAQC2B32W5F4VJDWK6PPJBH6YM/) (New Zealand Herald)
-
-- [New risk to NZ farmers](https://www.nzherald.co.nz/the-country/sponsored-stories/new-risk-to-nz-farmers/T34I3KONJ5EXLPRZSVUUBQ4X6A/) (New Zealand Herald)
-
-- [19 leptospirosis deaths in NegOcc, 14 in Bacolod](https://rpnradio.com/19-leptospirosis-deaths-in-negocc-14-in-bacolod/) (Rpnradio.com)
-
-## 23-46 (dengue)
-
-- [Muore per la dengue dopo un viaggio in Thailandia, disinfestazione contro le zanzare a Fucecchio e San Miniato](https://firenze.repubblica.it/cronaca/2023/11/17/news/pisa_muore_per_la_dengue_dopo_un_viaggio_in_thailandia_disinfestazione_san_miniato_fucecchio-420593624/) (La Repubblica)
-
-- [No new diseases from Wolbachia dengue control method: Health official](https://en.antaranews.com/news/298953/no-new-diseases-from-wolbachia-dengue-control-method-health-official) (Antaranews.com)
-
-- [Upaya Berantas DBD, Pemkot Pontianak Bagikan Ikan Cupang, Abate hingga Minyak Serai ke Warga](https://www.kalbaronline.com/2023/11/17/upaya-berantas-dbd-pemkot-pontianak-bagikan-ikan-cupang-abate-hingga-minyak-serai-ke-warga/) (Kalbaronline.com)
-
-- [Burkina Faso: Épidemie de la dengue - À quand l'état d'urgence sanitaire ?](https://fr.allafrica.com/stories/202311170118.html) (AllAfrica - Top Africa News)
-
-- [Dengue, donna di 50 anni muore nell'Empolese](https://www.ansa.it/toscana/notizie/2023/11/16/dengue-donna-di-50-anni-muore-nellempolese_b8201190-32c2-43e9-91fa-c68c08c98e25.html) (ANSA.it)
-
-- [Des drones aident à lutter contre la dengue à Ouagadougou – images](https://fr.sputniknews.africa/20231116/des-drones-aident-a-lutter-contre-la-dengue-a-ouagadougou--images-1063593002.html) (Sputniknews.africa)
-
-- [Alerta: Chuvas dos últimos dias podem favorecer doenças](https://recordtv.r7.com/record-tv-litoral-e-vale/balanco-geral-litoral/videos/alerta-chuvas-dos-ultimos-dias-podem-favorecer-doencas-16112023) (R7.com)
-
-- [Afrique: Revue de presse de l'Afrique Francophone du 16 Novembre 2023](https://fr.allafrica.com/stories/202311160177.html) (AllAfrica - Top Africa News)
-
-- ['After effects of dengue': Shubman Gill on cramps during New Zealand clash](https://economictimes.indiatimes.com/news/sports/after-effects-of-dengue-shubman-gill-on-cramps-during-new-zealand-clash/articleshow/105250022.cms) (The Times of India)
-
-- ['After-effects of dengue' to blame for Gill cramping up at Wankhede](https://www.espncricinfo.com/story/icc-cricket-world-cup-2023-shubman-gill-cramped-up-because-of-after-effects-of-dengue-1409034) (ESPN Cric Info)
-
-- [Faim, décès, épidémies : l’impact du réchauffement climatique sur la santé évalué](https://www.lepoint.fr/environnement/faim-deces-epidemies-l-impact-du-rechauffement-climatique-sur-la-sante-evalue-15-11-2023-2543280_1927.php) (Le Point)
-
-- [La Russie aide le Burkina à lutter contre la dengue et le chikungunya](https://fr.sputniknews.africa/20231115/la-russie-aide-le-burkina-a-lutter-contre-la-dengue-et-le-chikungunya-1063572090.html) (Sputniknews.africa)
-
-- [Burkina Faso: Epidémie de la dengue - Plus de 42 500 cas enregistrés dont 421 décès](https://fr.allafrica.com/stories/202311150129.html) (AllAfrica - Top Africa News)
-
-- [Saiba tudo sobre a vacina da dengue que será fornecida pelo SUS](https://catracalivre.com.br/saude-bem-estar/saiba-tudo-sobre-a-vacina-da-dengue-que-sera-fornecida-pelo-sus/) (Catracalivre.com.br)
-
-- [Autochthonous Dengue Outbreak, Paris Region, France, September–October 2023](https://wwwnc.cdc.gov/eid/article/29/12/23-1472_article) (Cdc.gov)
-
-- [Autochthonous Dengue Fever in 2 Patients, Rome, Italy](https://wwwnc.cdc.gov/eid/article/30/1/23-1508_article) (Cdc.gov)
-
-- [Former Maharashtra minister Jayant Patil diagnosed with dengue](https://timesofindia.indiatimes.com/city/mumbai/former-maharashtra-minister-jayant-patil-diagnosed-with-dengue/articleshow/105222969.cms) (The Times of India)
-
-- [Three-fold Increase likely in heat-related deaths by mid-century: Lancet](https://economictimes.indiatimes.com/news/international/world-news/three-fold-increase-likely-in-heat-related-deaths-by-mid-century-lancet/articleshow/105217067.cms) (The Times of India)
-
-- [Schimbările climatice au dus la cel mai grav focar de febră Dengue din Bangladesh](https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/schimbarile-climatice-au-dus-la-cel-mai-grav-focar-de-febra-dengue-din-bangladesh-2579645) (Digi24.ro)
-
-- [Em meio à onda de calor, crescem casos de dengue em São Paulo](https://www.metropoles.com/sao-paulo/em-meio-a-onda-de-calor-crescem-casos-de-dengue-em-sao-paulo) (Metropoles.com)
-
-- [Vacina da dengue estará disponível no SUS em 2024, aposta farmacêutica](https://www.metropoles.com/saude/qdenga-vacina-contra-dengue-sus) (Metropoles.com)
-
-- [Ministério da Saúde alerta para ameaça da dengue no fim de 2023](https://recordtv.r7.com/hoje-em-dia/videos/ministerio-da-saude-alerta-para-ameaca-da-dengue-no-fim-de-2023-14112023) (R7.com)
-
-- ["Unwell" Ajit Pawar Skips Sharad Pawar's Diwali Get-Together in Baramati](https://www.ndtv.com/india-news/unwell-ajit-pawar-skips-sharad-pawars-diwali-get-together-in-baramati-4573428) (NDTV News)
-
-- [Cegah Peningkatan Kasus DBD, Lurah dan Camat Diminta Lakukan Fogging](https://www.kalbaronline.com/2023/11/14/cegah-peningkatan-kasus-dbd-lurah-dan-camat-diminta-lakukan-fogging/) (Kalbaronline.com)
-
-- [ডেঙ্গু সংক্রান্ত তথ্য দিয়ে বাংলাদেশিদের সংযুক্ত করছে গুগল](https://www.banglanews24.com/information-technology/news/bd/1224265.details) (Banglanews24.com)
-
-- [Rising temp, longer monsoon drive B'desh worst dengue outbreak](https://timesofindia.indiatimes.com/world/south-asia/rising-temperatures-longer-monsoon-drive-bangladeshs-worst-dengue-outbreak/articleshow/105191619.cms) (The Times of India)
-
-- [Dengue, in aumento i casi in Italia. Come si prende la malattia, sintomi, cure](https://www.corriere.it/salute/malattie_infettive/23_novembre_13/dengue-aumento-casi-italia-come-si-prende-malattia-sintomi-cure-55350912-7248-11ee-a352-bdb9090063b6.shtml) (Corriere.it)
-
-- [Dengue fever infections increase by about 300% this year](https://www.thaipbsworld.com/dengue-fever-infections-increase-by-about-300-this-year/) (Thaipbsworld.com)
-
-- [Hari Kesehatan Nasional, Cegah Demam Berdarah Dengue dengan 3M hingga Vaksin](https://www.fimela.com/health/read/5451624/hari-kesehatan-nasional-cegah-demam-berdarah-dengue-dengan-3m-hingga-vaksin) (Fimela.com)
-
-- [Bacolod: NegOcc dengue cases drop 74 percent](https://rpnradio.com/bacolod-negocc-dengue-cases-drop-74-percent/) (Rpnradio.com)
-
-## 23-46 (chikungunya)
-
-- [Emergex Signs Contract of £1.79M with the UK Department of Health and Social Care’s UK Vaccine Network (“UKVN”) to Advance Its Novel Synthetic T Cell-Priming Set-Point Candidate Against Chikungunya Virus](https://www.globenewswire.com/news-release/2023/11/17/2782493/0/en/Emergex-Signs-Contract-of-1-79M-with-the-UK-Department-of-Health-and-Social-Care-s-UK-Vaccine-Network-UKVN-to-Advance-Its-Novel-Synthetic-T-Cell-Priming-Set-Point-Candidate-Against.html) (GlobeNewswire)
-
-- [Des résultats prometteurs pour un vaccin anti-chikungunya](https://www.futura-sciences.com/sante/actualites/virus-resultats-prometteurs-vaccin-anti-chikungunya-109232/) (Futura)
-
-- [Afrique: Revue de presse de l'Afrique Francophone du 16 Novembre 2023](https://fr.allafrica.com/stories/202311160177.html) (AllAfrica - Top Africa News)
-
-- [La Russie aide le Burkina à lutter contre la dengue et le chikungunya](https://fr.sputniknews.africa/20231115/la-russie-aide-le-burkina-a-lutter-contre-la-dengue-et-le-chikungunya-1063572090.html) (Sputniknews.africa)
-
-- [Estados Unidos aprovam vacina contra chikungunya](https://saude.ig.com.br/2023-11-14/chikungunya-vacina-eua.html) (Ig.com.br)
-
-- [Vacina da chikungunya induz resposta imune em 98,8% dos vacinados](https://noticias.r7.com/saude/vacina-da-chikungunya-induz-resposta-imune-em-988-dos-vacinados-14112023) (R7.com)
-
-- [Vacina brasileira contra chikungunya: saiba mais sobre primeiro imunizante para a doença](https://olhardigital.com.br/2023/11/13/medicina-e-saude/vacina-brasileira-contra-chikungunya-saiba-mais-sobre-primeiro-imunizante-para-a-doenca/) (Olhardigital.com.br)
-
-- [Vacina da chikungunya em teste no Brasil induz resposta imune em 98,8% dos vacinados](https://valor.globo.com/brasil/noticia/2023/11/13/vacina-da-chikungunya-em-teste-no-brasil-induz-resposta-imune-em-988-pontos-percentuais-dos-vacinados.ghtml) (Globo)
-
-- [La FDA aprueba la primera vacuna para prevenir la enfermedad causada por el virus del chikungunya](https://www.fda.gov/news-events/press-announcements/la-fda-aprueba-la-primera-vacuna-para-prevenir-la-enfermedad-causada-por-el-virus-del-chikungunya) (FDA.gov)
-
-- [EE.UU. aprueba la primera vacuna contra el virus chikungunya, transmitido por mosquitos](https://www.abc.es/sociedad/eeuu-aprueba-primera-vacuna-virus-chikungunya-transmitido-20231113102411-nt.html) (Www.abc.es)
-
-- [Valneva Reports Positive Pivotal Phase 3 Immunogenicity Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Reports-Positive-Pivotal-Phase-3-Immunogenicity-Data-in-Adolescents-for-its-Single-Shot-Chik-45308108/) (Marketscreener.com)
-
-- [Valneva Reports Positive Pivotal Phase 3 Immunogenicity Data in Adolescents for its Single-Shot Chikungunya Vaccine Candidate](https://www.globenewswire.com/news-release/2023/11/13/2778680/0/en/Valneva-Reports-Positive-Pivotal-Phase-3-Immunogenicity-Data-in-Adolescents-for-its-Single-Shot-Chikungunya-Vaccine-Candidate.html) (GlobeNewswire)
-
-- [Valneva annonce des résultats positifs de Phase 3 concernant l’immunogénicité de son candidat vaccin contre le chikungunya chez les adolescents](https://www.globenewswire.com/news-release/2023/11/13/2778680/0/fr/Valneva-annonce-des-r%C3%A9sultats-positifs-de-Phase-3-concernant-l-immunog%C3%A9nicit%C3%A9-de-son-candidat-vaccin-contre-le-chikungunya-chez-les-adolescents.html) (GlobeNewswire)
-
-- [Trophées des usines, nouveaux Territoires d'industrie, vaccin contre le chikungunya... Les sept bonnes nouvelles de la semaine](https://www.usinenouvelle.com/article/trophees-des-usines-nouveaux-territoires-d-industrie-vaccin-contre-le-chikungunya-les-sept-bonnes-nouvelles-de-la-semaine.N2194218) (L'Usine Nouvelle)
