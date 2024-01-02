@@ -1,8 +1,80 @@
 {
-  "last_updated": "2024-01-02 07:05",
-  "count_articles_total": 773,
-  "count_articles_new": 3,
+  "last_updated": "2024-01-02 19:05",
+  "count_articles_total": 771,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 4021,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Samdani MN",
+      "title": "Andhra govt to grant occupational health allowance to sanitation workers",
+      "description": "Andhra Pradesh government has decided to extend the occupational health allowance to the drivers of sanitation vehicles, underground drainage works, malaria workers, and park workers. Each worker will receive a monthly allowance of Rs 6,000 in addition to the\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/andhra-govt-to-grant-occupational-health-allowance-to-sanitation-workers/articleshow/106457346.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-106457954,width-1070,height-580,imgsize-621480,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-01-01 15:36:26",
+      "content": "Animals who eat their own babies",
+      "retrievedAt": "2024-01-02 19:05:26.649332",
+      "internal_id": "f97a5e6396b5adfa4dc6b86b2350091fa74f5b4485da8a207acd1d6e5cfb60ef",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 4018,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Thousands of doses of childhood vaccines enter Gaza: Palestinian health ministry",
+      "description": "Thousands of doses of vaccines against childhood diseases, including polio, measles, rubella, and mumps, have entered the Gaza Strip to deal with the health emergency caused by Israel's ground offensive. The vaccines, supplied by the Palestinian health minist\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/thousands-of-doses-of-childhood-vaccines-enter-gaza-palestinian-health-ministry/articleshow/106455482.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-106455496,width-1070,height-580,imgsize-1148530,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-01-01 12:30:06",
+      "content": "Animals who eat their own babies",
+      "retrievedAt": "2024-01-02 19:05:25.138246",
+      "internal_id": "e3c9ceac23d113a2e345a3fb2c68c7e749107453455675d364a611bb8ce2b303",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 4019,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Reuters)",
+      "title": "Thousands of Doses of Childhood Vaccines Enter Gaza: Palestinian Health Ministry",
+      "description": "RAMALLAH \u2014 Thousands of doses of vaccines against childhood diseases including polio and measles have begun entering the Gaza Strip to help deal with a growing health emergency in the besieged enclave, the Palestinian health ministry said on Monday. Israel'\u2026",
+      "url": "https://www.voanews.com/a/thousands-of-doses-of-childhood-vaccines-enter-gaza-palestinian-health-ministry/7420017.html",
+      "urlToImage": "https://gdb.voanews.com/626CC2AC-083C-490B-9FBE-E64A2B2175B7.jpg",
+      "publishedAt": "2024-01-01 11:30:37",
+      "content": "RAMALLAH Thousands of doses of vaccines against childhood diseases including polio and measles have begun entering the Gaza Strip to help deal with a growing health emergency in the besieged enclave\u2026 [+1285 chars]",
+      "retrievedAt": "2024-01-02 19:05:25.149673",
+      "internal_id": "a2a9d3f4ed9106348b68f5cb987d2e4a1ed0fb060a3db1cede89dc81df7d468a",
+      "publishedAtLabel": "Jan 1"
+    },
+    {
+      "id": 4020,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Conte\u00fado de Marca",
+      "title": "SP Alto Astral: Como se prevenir contra a dengue nas f\u00e9rias?",
+      "description": "Secretaria Municipal da Sa\u00fade orienta como evitar focos do mosquito especialmente em casas que ficar\u00e3o fechadas durante as f\u00e9rias",
+      "url": "https://www.metropoles.com/conteudo-especial/sp-alto-astral-como-se-prevenir-contra-a-dengue-nas-ferias",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/12/27170252/dengue-4.jpg",
+      "publishedAt": "2024-01-01 10:00:53",
+      "content": "Muitas fam\u00edlias aproveitam para viajar ou se ausentar por alguns dias de casa com a chegada das f\u00e9rias e das festas de fim de ano. Em fun\u00e7\u00e3o disso, a Prefeitura de S\u00e3o Paulo, por meio da Secretaria M\u2026 [+1997 chars]",
+      "retrievedAt": "2024-01-02 19:05:25.452070",
+      "internal_id": "c214357e56688f46980e02b89a135ac9f4ebfd6f200ff0e7be5e4fa86abd372d",
+      "publishedAtLabel": "Jan 1"
+    },
     {
       "id": 4016,
       "query": [
@@ -13866,116 +13938,6 @@
       "content": "Em nota, a Secretaria de Sa\u00fade informou que est\u00e1 \"atenta aos indicadores da dengue e mant\u00e9m um trabalho incessante de combate \u00e0 doen\u00e7a, incluindo visitas aos im\u00f3veis para remo\u00e7\u00e3o de poss\u00edveis criadou\u2026 [+2226 chars]",
       "retrievedAt": "2023-11-21 07:05:50.965749",
       "internal_id": "cea4f014fe14e31fb2f88c12533799d7ae7ad8643f0a6245adf2a5880e1c9915",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3223,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ooe.orf.at",
-      "author": "ORF.at",
-      "title": "Ausbreitung der Tigerm\u00fccke soll verhindert werden",
-      "description": "In der kalten Jahreszeit denken wir eher selten daran: Gelsen. Beim Land allerdings laufen derzeit Bem\u00fchungen, das Ausbreiten neuer, gef\u00e4hrlicher Gelsenarten zu verhindern \u2013 indem ihnen das \u00dcberwintern unm\u00f6glich gemacht wird. Jede und jeder kann dabei auch he\u2026",
-      "url": "https://ooe.orf.at/stories/3233128/",
-      "urlToImage": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2019%2F44%2F84%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F349803_master_111884_gelbfiebermuecke_uebertraegt_zika-virus_.jpg%3Fs%3Db76ef4fafbe9d00bb5a0c6a537879a7b4e2e19de",
-      "publishedAt": "2023-11-19 16:36:56",
-      "content": "Im Zentralraum hat es heuer wiederholt Funde der Asiatischen Tigerm\u00fccke gegeben. Sie ist am Tag aktiv und kann schwere Krankheiten wie das Dengue-Fieber, das ZIKA-Virus oder Chikungunya \u00fcbertragen. D\u2026 [+687 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.696590",
-      "internal_id": "2e25492edb53880fa764727115a5d9a67681d395ce9a45f1499a0a511d33e526",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3222,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Dengue cai 97% no Brasil, mas aten\u00e7\u00e3o ainda \u00e9 necess\u00e1ria",
-      "description": "O Dia Nacional de Combate ao Aedes aegypti \u00e9 importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
-      "publishedAt": "2023-11-19 14:17:26",
-      "content": "O Dia Nacional de Combate ao Aedes aegypti, celebrado neste domingo, 19, \u00e9 uma data importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito, tr\u2026 [+2521 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.677982",
-      "internal_id": "db79a98e45bf93f7c2e30bc09a7321179724a180bc48f7e7159721241bd72e93",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3226,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 6 more die; 1,291 hospitalised in 24hrs",
-      "description": "So far, the DGHS has recorded 3,01,255 dengue cases and 2,94,757 recoveries this year",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-19 13:37:21",
-      "content": "Six more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,549 this year. During the period, 1,291 more pati\u2026 [+425 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.723368",
-      "internal_id": "f4c9d17832ebd17d6044287facf298dfd5b13e34c43a6253e89f29f9f25be307",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3227,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Malaria Prevalent in Southern Province - Report",
-      "description": "[New Times] The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease.",
-      "url": "https://allafrica.com/stories/202311190024.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-19 12:51:06",
-      "content": "The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease. The Malaria and \u2026 [+2763 chars]",
-      "retrievedAt": "2023-11-20 19:05:43.783726",
-      "internal_id": "367f278c0feb2774c6b1ae37295149cc9133c3cb4cfee66a6db3fa1b8e6bba71",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3225,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "\u00bfPor qu\u00e9 una segunda infecci\u00f3n de dengue puede ser peor que la primera?",
-      "description": "La forma como act\u00faa el virus y la respuesta de nuestro sistema inmunitario cuando ocurre un nuevo contagio favorecen una mayor infecci\u00f3n, que incluso podr\u00eda derivar en dengue grave.",
-      "url": "https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/",
-      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
-      "publishedAt": "2023-11-19 11:03:00",
-      "content": "Una de las principales preguntas que giran alrededor del dengue es por qu\u00e9 las personas pueden tener complicaciones m\u00e1s graves cuando sufren una segunda infecci\u00f3n.Para responder mejor esta pregunta, \u2026 [+5223 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.714769",
-      "internal_id": "d7c3cf7b0830d3c038900f0bcbfb4d40e213458b4125fd6229025f1766308f6b",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3224,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "Dengue cerrar\u00eda 2023 con mayor repunte de casos de \u00faltima d\u00e9cada",
-      "description": "Costa Rica acumul\u00f3 21.396 casos a inicios de noviembre; cinco personas han sufrido dengue grave este a\u00f1o y Salud investiga una posible muerte por esa enfermedad.",
-      "url": "https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/",
-      "urlToImage": "https://www.nacion.com/resizer/PiATf3lWvk3ueCCDZT1C1-o3WmE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/U5XOPZMSYRCBTK6C32OILYZUBQ.jpg",
-      "publishedAt": "2023-11-19 11:00:00",
-      "content": "El 2023 se perfila para convertirse en el a\u00f1o de mayor incidencia de dengue en la \u00faltima d\u00e9cada. En las primeras 44 semanas del a\u00f1o, Costa Rica registraba 21.396 casos de esta enfermedad y se ubicaba\u2026 [+8541 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.703435",
-      "internal_id": "fef8a298698213ce4eb1bcc58133f8f3fb269f774ab785bc9e0c16e91d1c5014",
       "publishedAtLabel": "Nov 19"
     }
   ]
