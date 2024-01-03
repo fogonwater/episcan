@@ -1,8 +1,62 @@
 {
-  "last_updated": "2024-01-02 19:05",
-  "count_articles_total": 771,
-  "count_articles_new": 4,
+  "last_updated": "2024-01-03 07:06",
+  "count_articles_total": 780,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 4022,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Phylogenomics of Dengue Virus Isolates Causing Dengue Outbreak, S\u00e3o Tom\u00e9 and Pr\u00edncipe, 2022",
+      "description": "Phylogenomics of Dengue Virus Isolates Causing Dengue Outbreak, S\u00e3o Tom\u00e9 and Pr\u00edncipe, 2022",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/2/23-1316_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-01-02 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Globally, dengue case numb\u2026 [+6744 chars]",
+      "retrievedAt": "2024-01-03 07:05:59.651911",
+      "internal_id": "376ee00a0db1e72143e5017d90168d798403f1e3005afdf4bab6a01ad784fe8a",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 4024,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Suresh kumar, Megha Pant, Cherish Prashar, Kailash C. Pandey, Subhasish Roy, Veena Pande, Anirban Dandapat",
+      "title": "Myco-synthesis of multi-twinned silver nanoparticles as potential antibacterial and antimalarial agents",
+      "description": "RSC Adv., 2024, 14,1114-1122DOI: 10.1039/D3RA07752G, Paper Open Access &nbsp This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.Suresh kumar, Megha Pant, Cherish Prashar, Kailash C. Pandey, Subhasish Roy, Veena Pa\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2024/ra/d3ra07752g",
+      "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D3RA07752G",
+      "publishedAt": "2024-01-02 00:00:00",
+      "content": "* Corresponding authors a Department of Biotechnology, Kumaun University, Sir J. C. Bose Technical Campus, Bhimtal, Nainital, Uttarakhand 263136, India b ICMR-National Institute of Malaria R\u2026 [+435 chars]",
+      "retrievedAt": "2024-01-03 07:06:00.494115",
+      "internal_id": "58185eb859a02a3aa2168d6a4c7cf24be0dd6412716bfb4d122686a8a6987b56",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 4023,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Chijioke Iremeka",
+      "title": "\u2018Changes in temperature, humidity encourage malaria spread\u2019",
+      "description": "Despite strides in expanding access to insecticide-treated nets and medicines to prevent and treat malaria in young children, pregnant women, and other vulnerable Nigerians, public health physicians say more people are coming down with malaria due to climate \u2026",
+      "url": "https://punchng.com/changes-in-temperature-humidity-encourage-malaria-spread/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/04/22015336/malaria.jpg",
+      "publishedAt": "2024-01-01 23:02:41",
+      "content": "Despite strides in expanding access to insecticide-treated nets and medicines to prevent and treat malaria in young children, pregnant women, and other vulnerable Nigerians, public health physicians \u2026 [+5513 chars]",
+      "retrievedAt": "2024-01-03 07:06:00.478242",
+      "internal_id": "7a2b225087693ba6e998de10520135989124a70c7af1728cada357000ee74394",
+      "publishedAtLabel": "Jan 1"
+    },
     {
       "id": 4021,
       "query": [
@@ -13938,6 +13992,116 @@
       "content": "Em nota, a Secretaria de Sa\u00fade informou que est\u00e1 \"atenta aos indicadores da dengue e mant\u00e9m um trabalho incessante de combate \u00e0 doen\u00e7a, incluindo visitas aos im\u00f3veis para remo\u00e7\u00e3o de poss\u00edveis criadou\u2026 [+2226 chars]",
       "retrievedAt": "2023-11-21 07:05:50.965749",
       "internal_id": "cea4f014fe14e31fb2f88c12533799d7ae7ad8643f0a6245adf2a5880e1c9915",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3223,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ooe.orf.at",
+      "author": "ORF.at",
+      "title": "Ausbreitung der Tigerm\u00fccke soll verhindert werden",
+      "description": "In der kalten Jahreszeit denken wir eher selten daran: Gelsen. Beim Land allerdings laufen derzeit Bem\u00fchungen, das Ausbreiten neuer, gef\u00e4hrlicher Gelsenarten zu verhindern \u2013 indem ihnen das \u00dcberwintern unm\u00f6glich gemacht wird. Jede und jeder kann dabei auch he\u2026",
+      "url": "https://ooe.orf.at/stories/3233128/",
+      "urlToImage": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2019%2F44%2F84%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F349803_master_111884_gelbfiebermuecke_uebertraegt_zika-virus_.jpg%3Fs%3Db76ef4fafbe9d00bb5a0c6a537879a7b4e2e19de",
+      "publishedAt": "2023-11-19 16:36:56",
+      "content": "Im Zentralraum hat es heuer wiederholt Funde der Asiatischen Tigerm\u00fccke gegeben. Sie ist am Tag aktiv und kann schwere Krankheiten wie das Dengue-Fieber, das ZIKA-Virus oder Chikungunya \u00fcbertragen. D\u2026 [+687 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.696590",
+      "internal_id": "2e25492edb53880fa764727115a5d9a67681d395ce9a45f1499a0a511d33e526",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3222,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Dengue cai 97% no Brasil, mas aten\u00e7\u00e3o ainda \u00e9 necess\u00e1ria",
+      "description": "O Dia Nacional de Combate ao Aedes aegypti \u00e9 importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito.",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-brasil/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
+      "publishedAt": "2023-11-19 14:17:26",
+      "content": "O Dia Nacional de Combate ao Aedes aegypti, celebrado neste domingo, 19, \u00e9 uma data importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito, tr\u2026 [+2521 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.677982",
+      "internal_id": "db79a98e45bf93f7c2e30bc09a7321179724a180bc48f7e7159721241bd72e93",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3226,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "Dengue: 6 more die; 1,291 hospitalised in 24hrs",
+      "description": "So far, the DGHS has recorded 3,01,255 dengue cases and 2,94,757 recoveries this year",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2023-11-19 13:37:21",
+      "content": "Six more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,549 this year. During the period, 1,291 more pati\u2026 [+425 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.723368",
+      "internal_id": "f4c9d17832ebd17d6044287facf298dfd5b13e34c43a6253e89f29f9f25be307",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3227,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Malaria Prevalent in Southern Province - Report",
+      "description": "[New Times] The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease.",
+      "url": "https://allafrica.com/stories/202311190024.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-19 12:51:06",
+      "content": "The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease. The Malaria and \u2026 [+2763 chars]",
+      "retrievedAt": "2023-11-20 19:05:43.783726",
+      "internal_id": "367f278c0feb2774c6b1ae37295149cc9133c3cb4cfee66a6db3fa1b8e6bba71",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3225,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "\u00bfPor qu\u00e9 una segunda infecci\u00f3n de dengue puede ser peor que la primera?",
+      "description": "La forma como act\u00faa el virus y la respuesta de nuestro sistema inmunitario cuando ocurre un nuevo contagio favorecen una mayor infecci\u00f3n, que incluso podr\u00eda derivar en dengue grave.",
+      "url": "https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/",
+      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
+      "publishedAt": "2023-11-19 11:03:00",
+      "content": "Una de las principales preguntas que giran alrededor del dengue es por qu\u00e9 las personas pueden tener complicaciones m\u00e1s graves cuando sufren una segunda infecci\u00f3n.Para responder mejor esta pregunta, \u2026 [+5223 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.714769",
+      "internal_id": "d7c3cf7b0830d3c038900f0bcbfb4d40e213458b4125fd6229025f1766308f6b",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3224,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Dengue cerrar\u00eda 2023 con mayor repunte de casos de \u00faltima d\u00e9cada",
+      "description": "Costa Rica acumul\u00f3 21.396 casos a inicios de noviembre; cinco personas han sufrido dengue grave este a\u00f1o y Salud investiga una posible muerte por esa enfermedad.",
+      "url": "https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/",
+      "urlToImage": "https://www.nacion.com/resizer/PiATf3lWvk3ueCCDZT1C1-o3WmE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/U5XOPZMSYRCBTK6C32OILYZUBQ.jpg",
+      "publishedAt": "2023-11-19 11:00:00",
+      "content": "El 2023 se perfila para convertirse en el a\u00f1o de mayor incidencia de dengue en la \u00faltima d\u00e9cada. En las primeras 44 semanas del a\u00f1o, Costa Rica registraba 21.396 casos de esta enfermedad y se ubicaba\u2026 [+8541 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.703435",
+      "internal_id": "fef8a298698213ce4eb1bcc58133f8f3fb269f774ab785bc9e0c16e91d1c5014",
       "publishedAtLabel": "Nov 19"
     }
   ]
