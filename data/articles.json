@@ -1,8 +1,155 @@
 {
-  "last_updated": "2024-01-03 07:06",
-  "count_articles_total": 780,
-  "count_articles_new": 3,
+  "last_updated": "2024-01-03 19:05",
+  "count_articles_total": 782,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 4025,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Iltalehti.fi",
+      "author": null,
+      "title": "N\u00e4in pel\u00e4tty raivotauti oireilee \u2013 Koirakuumeesta massiivinen riski",
+      "description": "Kasvanut pentujen kysynt\u00e4 on lis\u00e4nnyt rabieksen riski\u00e4 my\u00f6s Suomessa. Rabies- eli raivotauti on yksi pel\u00e4tyimmist\u00e4 taudeista, koska se johtaa varmaan kuolemaan sek\u00e4 ihmisell\u00e4 ett\u00e4 el\u00e4imell\u00e4. Iltalehti kertoi t\u00e4n\u00e4\u00e4n tiistaina, ett\u00e4 korona-ajan my\u00f6t\u00e4 r\u00e4j\u00e4ht\u00e4nyt\u2026",
+      "url": "https://www.iltalehti.fi/terveysuutiset/a/a6393559-86fe-4742-be4a-260b984e676c",
+      "urlToImage": "https://img.ilcdn.fi/U9u8zJdpm8SDPTvkGqZ57fKCICw=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/f713d16cfcc6f07b37bd5bc7ae374b177a2e3570d3f07429d8bd6d324922d895.jpg",
+      "publishedAt": "2024-01-02 18:31:44",
+      "content": "Iltalehti kertoi t\u00e4n\u00e4\u00e4n tiistaina, ett\u00e4 korona-ajan my\u00f6t\u00e4 r\u00e4j\u00e4ht\u00e4nyt koiranpentujen kysynt\u00e4 on nostanut rabies-riskin L\u00e4nsi-Euroopassa enn\u00e4tyksellisen korkeaksi. My\u00f6s Suomeen tauti uhkaa levit\u00e4 vuosi\u2026 [+3382 chars]",
+      "retrievedAt": "2024-01-03 19:05:23.065866",
+      "internal_id": "b0c3d49b4853831eb1ca96aa519e1fceb74e39aa6d55f92d86c0fdf63270f0d8",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 4031,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Federico Garau)",
+      "title": "Diagnosi di malaria arriva troppo tardi, muore a soli 38 anni",
+      "description": "Lorenzo Pagliari era da poco rientrato in Italia dall'Africa, quando \u00e8 stato male. Secondo i familiari il collegamento dei medici con il viaggio sarebbe stato fatto troppo tardi, quando ormai le sue condizioni erano irreversibili",
+      "url": "https://www.ilgiornale.it/news/cronaca-locale/diagnosi-malaria-arriva-troppo-tardi-lorenzo-pagliari-muore-2263272.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2024/01/02/1704216421-lorenzo-pagliari.jpg?_=1704216421",
+      "publishedAt": "2024-01-02 18:02:17",
+      "content": "Tornato da un viaggio in Africa, ha cominciato ad accusare dei malesseri che alla fine lo hanno costretto a rivolgersi al personale sanitario dell'ospedale di Cremona: dopo giorni di agonia, la prema\u2026 [+2864 chars]",
+      "retrievedAt": "2024-01-03 19:05:24.367230",
+      "internal_id": "f7b574dfdef8bcd96064f096f0f20eef2c301a473df22b4a0eb2813492ed3c1a",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 4027,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "The Feed",
+      "title": "Dengue, monkeypox, abnormal Covid-19 vaccine coverage: Health threats which are in store in 2024",
+      "description": "New health threats are plaguing 2024, with the emergence of the JN. 1 coronavirus strain, mosquito carrier diseases, monkeypox, as well as climate change. Here\u2019s everything to know about health threats in 2024",
+      "url": "https://economictimes.indiatimes.com/news/international/us/dengue-monkeypox-abnormal-covid-19-vaccine-coverage-health-threats-which-are-in-store-in-2024/articleshow/106493152.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-106493241,width-1200,height-630,imgsize-14166,overlay-economictimes/photo.jpg",
+      "publishedAt": "2024-01-02 16:42:23",
+      "content": "The number of people who are in high-risk groups and receiving the COVID-19 vaccine worldwide is deplorable, as per a warning by the WHO or World Health Organization, in a message surrounding global \u2026 [+3107 chars]",
+      "retrievedAt": "2024-01-03 19:05:23.699257",
+      "internal_id": "4c8732b0a2b71b6969f149cb7ef7346ce402993ac9296cd3dcd8677678d53fbf",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 4026,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Diogo Sponchiato",
+      "title": "Olho na dengue: o preocupante recorde de casos e uma nova vacina no SUS",
+      "description": "Incorpora\u00e7\u00e3o de imunizante contra a infec\u00e7\u00e3o \u00e9 arma importante diante de uma enfermidade que imp\u00f5e desafios h\u00e1 anos no Brasil",
+      "url": "https://veja.abril.com.br/coluna/letra-de-medico/olho-na-dengue-o-preocupante-recorde-de-casos-e-uma-nova-vacina-no-sus",
+      "urlToImage": "",
+      "publishedAt": "2024-01-02 14:19:47",
+      "content": "BLACK FRIDAY: ASSINE a partir de R$ 1 por semana Continua ap\u00f3s publicidade Olho na dengue: o preocupante recorde de casos e uma nova vacina no SUS Por Leonardo Weissmann* Atualizado em 2 jan 202\u2026 [+3381 chars]",
+      "retrievedAt": "2024-01-03 19:05:23.688771",
+      "internal_id": "c7a2699a332108fda9ca4157ca74c92e0e309d05fab7d20eaf8544b222f6e011",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 4028,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Patricia Penilla-Navarro, Francisco Solis-Santoyo, Alma Lopez-Solis, Americo D. Rodriguez, Farah Vera-Maloof, Saul Lozano, Elsa Contreras-Mej\u00eda, Geovanni V\u00e1zquez-Samayoa, Rene Torreblanca-Lopez, Rushika Perera, William C. Black IV, Karla Saavedra-Rodriguez",
+      "title": "Pyrethroid susceptibility reversal in Aedes aegypti: A longitudinal study in Tapachula, Mexico",
+      "description": "Author summary The mosquito Aedes aegypti is the principal urban vector of the viruses that cause three globally significant diseases: dengue fever, chikungunya, and Zika fever, for which vaccines and effective treatments are currently absent. The only way to\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011369",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011369.g006&size=inline",
+      "publishedAt": "2024-01-02 14:00:00",
+      "content": "Abstract Pyrethroid resistance in Aedes aegypti has become widespread after almost two decades of frequent applications to reduce the transmission of mosquito-borne diseases. Because few insecticide\u2026 [+61444 chars]",
+      "retrievedAt": "2024-01-03 19:05:23.703491",
+      "internal_id": "beb48273e5b6d54bfce91ac941f0fe74d050310ed7e0be7a9efaa124e0245aa8",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 4029,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Anastazia Jablunovsky, Anoop Narayanan, Joyce Jose",
+      "title": "Identification of a critical role for ZIKV capsid \u03b13 in virus assembly and its genetic interaction with M protein",
+      "description": "Author summary Zika virus and other disease-causing flaviviruses constitute a significant threat to global human health. The development of effective antiviral strategies targeting flaviviruses has been hindered by a lack of evidence regarding their life cycl\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011873",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011873.g009&size=inline",
+      "publishedAt": "2024-01-02 14:00:00",
+      "content": "Introduction The Flavivirus genus in the Flaviviridae family is comprised of more than 70 viruses, including mosquito-borne viruses such as Japanese encephalitis virus (JEV), ZIKV, and dengue virus \u2026 [+76490 chars]",
+      "retrievedAt": "2024-01-03 19:05:23.706660",
+      "internal_id": "3555976530fcc2ea188e84da215ecb8b250b675a012382fe21bb973e67ff80a6",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 4032,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Olga Khazan",
+      "title": "Zika Never Ended",
+      "description": "The problem with jumping between emergencies",
+      "url": "https://www.theatlantic.com/ideas/archive/2024/01/zika-virus-never-ended-covid-pandemic/676922/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2024-01-02 12:00:00",
+      "content": "In 2015, a horror movie came to life. The mosquitos that swarm almost all tropical climates began infecting people with a strange new virus. In most, Zika caused no symptoms, or a mild rash and fever\u2026 [+9085 chars]",
+      "retrievedAt": "2024-01-03 19:05:24.648609",
+      "internal_id": "70eef0a3e3fb5ee9c76fb0732a475a4679009995fce946d6ba4b2a1ba242cf2d",
+      "publishedAtLabel": "Jan 2"
+    },
+    {
+      "id": 4030,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Skeptoid.com",
+      "author": "brian@skeptoid.com (Brian Dunning), Brian Dunning",
+      "title": "Skeptoid #917: DDT, 13 Years Later",
+      "description": "A failure mode analysis of my most-hated episode ever: #230 on the use of DDT to fight malaria.",
+      "url": "https://skeptoid.com/episodes/4917",
+      "urlToImage": "https://skeptoid.com/eps1200x744/4917.jpg",
+      "publishedAt": "2024-01-02 10:00:00",
+      "content": "This might be the first time you've ever heard me do a followup episode on the same topic as a previous episode, which was \"DDT: Secret Life of a Pesticide,\" episode #230 from 2010. It was about the \u2026 [+10988 chars]",
+      "retrievedAt": "2024-01-03 19:05:24.356482",
+      "internal_id": "c01d6b3d166f9140e885ba22be90a4d3d751738274d2814e3e3f821bb368d4f7",
+      "publishedAtLabel": "Jan 2"
+    },
     {
       "id": 4022,
       "query": [
@@ -13992,116 +14139,6 @@
       "content": "Em nota, a Secretaria de Sa\u00fade informou que est\u00e1 \"atenta aos indicadores da dengue e mant\u00e9m um trabalho incessante de combate \u00e0 doen\u00e7a, incluindo visitas aos im\u00f3veis para remo\u00e7\u00e3o de poss\u00edveis criadou\u2026 [+2226 chars]",
       "retrievedAt": "2023-11-21 07:05:50.965749",
       "internal_id": "cea4f014fe14e31fb2f88c12533799d7ae7ad8643f0a6245adf2a5880e1c9915",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3223,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ooe.orf.at",
-      "author": "ORF.at",
-      "title": "Ausbreitung der Tigerm\u00fccke soll verhindert werden",
-      "description": "In der kalten Jahreszeit denken wir eher selten daran: Gelsen. Beim Land allerdings laufen derzeit Bem\u00fchungen, das Ausbreiten neuer, gef\u00e4hrlicher Gelsenarten zu verhindern \u2013 indem ihnen das \u00dcberwintern unm\u00f6glich gemacht wird. Jede und jeder kann dabei auch he\u2026",
-      "url": "https://ooe.orf.at/stories/3233128/",
-      "urlToImage": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2019%2F44%2F84%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F349803_master_111884_gelbfiebermuecke_uebertraegt_zika-virus_.jpg%3Fs%3Db76ef4fafbe9d00bb5a0c6a537879a7b4e2e19de",
-      "publishedAt": "2023-11-19 16:36:56",
-      "content": "Im Zentralraum hat es heuer wiederholt Funde der Asiatischen Tigerm\u00fccke gegeben. Sie ist am Tag aktiv und kann schwere Krankheiten wie das Dengue-Fieber, das ZIKA-Virus oder Chikungunya \u00fcbertragen. D\u2026 [+687 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.696590",
-      "internal_id": "2e25492edb53880fa764727115a5d9a67681d395ce9a45f1499a0a511d33e526",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3222,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Dengue cai 97% no Brasil, mas aten\u00e7\u00e3o ainda \u00e9 necess\u00e1ria",
-      "description": "O Dia Nacional de Combate ao Aedes aegypti \u00e9 importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
-      "publishedAt": "2023-11-19 14:17:26",
-      "content": "O Dia Nacional de Combate ao Aedes aegypti, celebrado neste domingo, 19, \u00e9 uma data importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito, tr\u2026 [+2521 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.677982",
-      "internal_id": "db79a98e45bf93f7c2e30bc09a7321179724a180bc48f7e7159721241bd72e93",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3226,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 6 more die; 1,291 hospitalised in 24hrs",
-      "description": "So far, the DGHS has recorded 3,01,255 dengue cases and 2,94,757 recoveries this year",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-19 13:37:21",
-      "content": "Six more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,549 this year. During the period, 1,291 more pati\u2026 [+425 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.723368",
-      "internal_id": "f4c9d17832ebd17d6044287facf298dfd5b13e34c43a6253e89f29f9f25be307",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3227,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Malaria Prevalent in Southern Province - Report",
-      "description": "[New Times] The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease.",
-      "url": "https://allafrica.com/stories/202311190024.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-19 12:51:06",
-      "content": "The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease. The Malaria and \u2026 [+2763 chars]",
-      "retrievedAt": "2023-11-20 19:05:43.783726",
-      "internal_id": "367f278c0feb2774c6b1ae37295149cc9133c3cb4cfee66a6db3fa1b8e6bba71",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3225,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "\u00bfPor qu\u00e9 una segunda infecci\u00f3n de dengue puede ser peor que la primera?",
-      "description": "La forma como act\u00faa el virus y la respuesta de nuestro sistema inmunitario cuando ocurre un nuevo contagio favorecen una mayor infecci\u00f3n, que incluso podr\u00eda derivar en dengue grave.",
-      "url": "https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/",
-      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
-      "publishedAt": "2023-11-19 11:03:00",
-      "content": "Una de las principales preguntas que giran alrededor del dengue es por qu\u00e9 las personas pueden tener complicaciones m\u00e1s graves cuando sufren una segunda infecci\u00f3n.Para responder mejor esta pregunta, \u2026 [+5223 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.714769",
-      "internal_id": "d7c3cf7b0830d3c038900f0bcbfb4d40e213458b4125fd6229025f1766308f6b",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3224,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "Dengue cerrar\u00eda 2023 con mayor repunte de casos de \u00faltima d\u00e9cada",
-      "description": "Costa Rica acumul\u00f3 21.396 casos a inicios de noviembre; cinco personas han sufrido dengue grave este a\u00f1o y Salud investiga una posible muerte por esa enfermedad.",
-      "url": "https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/",
-      "urlToImage": "https://www.nacion.com/resizer/PiATf3lWvk3ueCCDZT1C1-o3WmE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/U5XOPZMSYRCBTK6C32OILYZUBQ.jpg",
-      "publishedAt": "2023-11-19 11:00:00",
-      "content": "El 2023 se perfila para convertirse en el a\u00f1o de mayor incidencia de dengue en la \u00faltima d\u00e9cada. En las primeras 44 semanas del a\u00f1o, Costa Rica registraba 21.396 casos de esta enfermedad y se ubicaba\u2026 [+8541 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.703435",
-      "internal_id": "fef8a298698213ce4eb1bcc58133f8f3fb269f774ab785bc9e0c16e91d1c5014",
       "publishedAtLabel": "Nov 19"
     }
   ]

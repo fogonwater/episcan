@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2024-01-03 07:06
-- **Most recent article:** 2024-01-02 05:00:00
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-01-03 19:05
+- **Most recent article:** 2024-01-02 18:31:44
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 45 | 62 | 42 | 69 | 37 | 2 | 3 | 301 |
-| malaria | 37 | 33 | 26 | 24 | 24 | 22 | 2 | 3 | 171 |
+| dengue | 36 | 45 | 62 | 42 | 69 | 37 | 2 | 7 | 300 |
+| malaria | 36 | 33 | 26 | 24 | 24 | 22 | 2 | 5 | 172 |
 | mpox | 16 | 18 | 15 | 24 | 15 | 12 | 0 | 0 | 100 |
 | measles | 11 | 4 | 5 | 7 | 28 | 7 | 1 | 2 | 65 |
-| chikungunya | 7 | 10 | 10 | 11 | 4 | 3 | 1 | 0 | 46 |
-| zika | 6 | 10 | 15 | 9 | 5 | 1 | 0 | 0 | 46 |
-| rabies | 8 | 9 | 4 | 7 | 2 | 7 | 1 | 0 | 38 |
+| zika | 5 | 10 | 15 | 9 | 5 | 1 | 0 | 3 | 48 |
+| chikungunya | 6 | 10 | 10 | 11 | 4 | 3 | 1 | 1 | 46 |
+| rabies | 8 | 9 | 4 | 7 | 2 | 7 | 1 | 1 | 39 |
 | meningitis | 0 | 4 | 8 | 9 | 4 | 4 | 0 | 0 | 29 |
 | pertussis | 6 | 4 | 2 | 4 | 2 | 0 | 0 | 0 | 18 |
 | leptospirosis | 3 | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 15 |
@@ -30,6 +30,18 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-1 (zika)
+
+- [Pyrethroid susceptibility reversal in Aedes aegypti: A longitudinal study in Tapachula, Mexico](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011369) (Plos.org)
+
+- [Identification of a critical role for ZIKV capsid α3 in virus assembly and its genetic interaction with M protein](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011873) (Plos.org)
+
+- [Zika Never Ended](https://www.theatlantic.com/ideas/archive/2024/01/zika-virus-never-ended-covid-pandemic/676922/?utm_source=feed) (The Atlantic)
+
+## 24-1 (rabies)
+
+- [Näin pelätty raivotauti oireilee – Koirakuumeesta massiivinen riski](https://www.iltalehti.fi/terveysuutiset/a/a6393559-86fe-4742-be4a-260b984e676c) (Iltalehti.fi)
+
 ## 24-1 (measles)
 
 - [Thousands of doses of childhood vaccines enter Gaza: Palestinian health ministry](https://timesofindia.indiatimes.com/world/middle-east/thousands-of-doses-of-childhood-vaccines-enter-gaza-palestinian-health-ministry/articleshow/106455482.cms) (The Times of India)
@@ -37,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 - [Thousands of Doses of Childhood Vaccines Enter Gaza: Palestinian Health Ministry](https://www.voanews.com/a/thousands-of-doses-of-childhood-vaccines-enter-gaza-palestinian-health-ministry/7420017.html) (VOA News)
 
 ## 24-1 (malaria)
+
+- [Diagnosi di malaria arriva troppo tardi, muore a soli 38 anni](https://www.ilgiornale.it/news/cronaca-locale/diagnosi-malaria-arriva-troppo-tardi-lorenzo-pagliari-muore-2263272.html) (Ilgiornale.it)
+
+- [Skeptoid #917: DDT, 13 Years Later](https://skeptoid.com/episodes/4917) (Skeptoid.com)
 
 - [Myco-synthesis of multi-twinned silver nanoparticles as potential antibacterial and antimalarial agents](https://pubs.rsc.org/en/content/articlelanding/2024/ra/d3ra07752g) (Royal Society of Chemistry)
 
@@ -46,11 +62,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-1 (dengue)
 
+- [Dengue, monkeypox, abnormal Covid-19 vaccine coverage: Health threats which are in store in 2024](https://economictimes.indiatimes.com/news/international/us/dengue-monkeypox-abnormal-covid-19-vaccine-coverage-health-threats-which-are-in-store-in-2024/articleshow/106493152.cms) (The Times of India)
+
+- [Olho na dengue: o preocupante recorde de casos e uma nova vacina no SUS](https://veja.abril.com.br/coluna/letra-de-medico/olho-na-dengue-o-preocupante-recorde-de-casos-e-uma-nova-vacina-no-sus) (Abril.com.br)
+
+- [Pyrethroid susceptibility reversal in Aedes aegypti: A longitudinal study in Tapachula, Mexico](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011369) (Plos.org)
+
+- [Identification of a critical role for ZIKV capsid α3 in virus assembly and its genetic interaction with M protein](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011873) (Plos.org)
+
 - [Phylogenomics of Dengue Virus Isolates Causing Dengue Outbreak, São Tomé and Príncipe, 2022](https://wwwnc.cdc.gov/eid/article/30/2/23-1316_article) (Cdc.gov)
 
 - [SP Alto Astral: Como se prevenir contra a dengue nas férias?](https://www.metropoles.com/conteudo-especial/sp-alto-astral-como-se-prevenir-contra-a-dengue-nas-ferias) (Metropoles.com)
 
 - [Dengue deaths in 2023 double the total toll in 23 years](https://www.tbsnews.net/bangladesh/health/dengue-deaths-2023-double-total-toll-23-years-767546) (Tbsnews.net)
+
+## 24-1 (chikungunya)
+
+- [Pyrethroid susceptibility reversal in Aedes aegypti: A longitudinal study in Tapachula, Mexico](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011369) (Plos.org)
 
 ## 23-53 (rabies)
 
@@ -1574,8 +1602,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tijgermug gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'](https://www.nu.nl/dieren/6290510/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html) (Www.nu.nl)
 
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
-
 ## 23-47 (typhoid)
 
 - [Will Gang War Divide Like Civil War Did? Amazing Spider-Man Spoilers](https://bleedingcool.com/comics/will-gang-war-divide-like-civil-war-did-amazing-spider-man-spoilers/) (Bleeding Cool News)
@@ -1744,8 +1770,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Los pesticidas anti mosquitos son 10 veces más efectivos cuando se combinan con pequeñas cantidades de jabón](https://www.infosalus.com/salud-investigacion/noticia-pesticidas-anti-mosquitos-son-10-veces-mas-efectivos-cuando-combinan-pequenas-cantidades-jabon-20231120070347.html) (Infosalus.com)
 
-- [Malaria Prevalent in Southern Province - Report](https://allafrica.com/stories/202311190024.html) (AllAfrica - Top Africa News)
-
 ## 23-47 (leptospirosis)
 
 - [Leptospirosis vaccine for dogs voluntarily recalled following 'adverse reactions', including one death](https://www.abc.net.au/news/2023-11-23/voluntary-recall-leptospirosis-vaccine-dogs-adverse-reactions/103141524) (ABC News (AU))
@@ -1828,16 +1852,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Campinas ultrapassa 10 mil casos de dengue e Saúde reforça apelo à população para prevenção](https://g1.globo.com/sp/campinas-regiao/noticia/2023/11/19/campinas-ultrapassa-10-mil-casos-de-dengue-e-saude-reforca-apelo-a-populacao-para-prevencao.ghtml) (Globo)
 
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
-
-- [Dengue cai 97% no Brasil, mas atenção ainda é necessária](https://catracalivre.com.br/saude-bem-estar/dengue-brasil/) (Catracalivre.com.br)
-
-- [Dengue: 6 more die; 1,291 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446) (Tbsnews.net)
-
-- [¿Por qué una segunda infección de dengue puede ser peor que la primera?](https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/) (Nacion.com)
-
-- [Dengue cerraría 2023 con mayor repunte de casos de última década](https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/) (Nacion.com)
-
 ## 23-47 (chikungunya)
 
 - [Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laboratório](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/prefeitura-de-bh-solta-8000-mosquitos-aedes-aegypti-modificados-em-laboratorio-22112023) (R7.com)
@@ -1851,5 +1865,3 @@ Source: [News API](https://newsapi.org/)
 - [Calor e chuva podem aumentar casos de dengue no país](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/calor-e-chuva-podem-aumentar-casos-de-dengue-no-pais-21112023) (R7.com)
 
 - [Vaccine Against Chikungunya Approved By The FDA. Should You Get It?](https://www.forbes.com/sites/markkortepeter/2023/11/20/vaccine-against-chikungunya-approved-by-the-fda-should-you-get-it/) (Forbes)
-
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
