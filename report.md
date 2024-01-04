@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-01-04 07:05
-- **Most recent article:** 2024-01-03 05:15:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-01-04 19:05
+- **Most recent article:** 2024-01-03 18:57:30
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 45 | 62 | 42 | 69 | 37 | 2 | 11 | 309 |
-| malaria | 37 | 33 | 26 | 24 | 24 | 22 | 2 | 5 | 173 |
+| dengue | 36 | 45 | 62 | 42 | 69 | 37 | 2 | 19 | 312 |
+| malaria | 36 | 33 | 26 | 24 | 24 | 22 | 2 | 7 | 174 |
 | mpox | 16 | 18 | 15 | 24 | 15 | 12 | 0 | 0 | 100 |
-| measles | 11 | 4 | 5 | 7 | 28 | 7 | 1 | 2 | 65 |
-| zika | 6 | 10 | 15 | 9 | 5 | 1 | 0 | 4 | 50 |
-| chikungunya | 7 | 10 | 10 | 11 | 4 | 3 | 1 | 1 | 47 |
+| measles | 11 | 4 | 5 | 7 | 28 | 7 | 1 | 3 | 66 |
+| zika | 5 | 10 | 15 | 9 | 5 | 1 | 0 | 4 | 49 |
+| chikungunya | 6 | 10 | 10 | 11 | 4 | 3 | 1 | 1 | 46 |
 | rabies | 8 | 9 | 4 | 7 | 2 | 7 | 1 | 1 | 39 |
-| meningitis | 0 | 4 | 8 | 9 | 4 | 4 | 0 | 0 | 29 |
-| pertussis | 6 | 4 | 2 | 4 | 2 | 0 | 0 | 2 | 20 |
+| meningitis | 0 | 4 | 8 | 9 | 4 | 4 | 0 | 1 | 30 |
+| pertussis | 6 | 4 | 2 | 4 | 2 | 0 | 0 | 3 | 21 |
 | leptospirosis | 3 | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 15 |
-| typhoid | 1 | 0 | 3 | 0 | 3 | 2 | 0 | 0 | 9 |
-| yersinia | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 3 |
+| typhoid | 1 | 0 | 3 | 0 | 3 | 2 | 0 | 1 | 10 |
+| yersinia | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -40,23 +40,43 @@ Source: [News API](https://newsapi.org/)
 
 - [Zika Never Ended](https://www.theatlantic.com/ideas/archive/2024/01/zika-virus-never-ended-covid-pandemic/676922/?utm_source=feed) (The Atlantic)
 
+## 24-1 (yersinia)
+
+- [Pathogenic bacteria use molecular 'shuttle services' to fill their injection apparatus with the right product](https://phys.org/news/2024-01-pathogenic-bacteria-molecular-shuttle-apparatus.html) (Phys.Org)
+
+## 24-1 (typhoid)
+
+- [Krakoa, Arakko, Orchis & The House Of X At War In X-Men Comics Today](https://bleedingcool.com/comics/krakoa-arakko-orchis-the-house-of-x-at-war-in-x-men-comics-today/) (Bleeding Cool News)
+
 ## 24-1 (rabies)
 
 - [Näin pelätty raivotauti oireilee – Koirakuumeesta massiivinen riski](https://www.iltalehti.fi/terveysuutiset/a/a6393559-86fe-4742-be4a-260b984e676c) (Iltalehti.fi)
 
 ## 24-1 (pertussis)
 
+- [Focar de tuse convulsivă într-un comitat din New York: „Un semnal de alarmă”](https://adevarul.ro/stiri-externe/sua/focar-de-tuse-convulsiva-intr-un-comitat-din-new-2328577.html) (Adevarul.ro)
+
 - [Health officials in Suffolk County, New York, report whooping cough outbreak over the last month](https://abcnews.go.com/Health/health-officials-suffolk-county-new-york-report-whooping/story?id=106060623) (ABC News)
 
 - [Whooping cough outbreak in Suffolk County: health officials](https://pix11.com/news/local-news/long-island/suffolk-county-health-officials-warn-of-whooping-cough-outbreak/) (WPIX 11 New York)
 
+## 24-1 (meningitis)
+
+- [Memories Aren’t Enough: Why Sometimes Only Fiction Can Solve the Mysteries of Life](https://lithub.com/memories-arent-enough-why-sometimes-only-fiction-can-solve-the-mysteries-of-life/) (Lithub.com)
+
 ## 24-1 (measles)
+
+- [Why Isn’t Vaxx Tyrant Joe Biden Worried About Polio, Leprosy, And Measles Seeping Through The Border?](https://thefederalist.com/2024/01/03/why-isnt-vaxx-tyrant-joe-biden-worried-about-the-polio-leprosy-and-measles-apparently-seeping-through-the-border/) (The Federalist)
 
 - [Thousands of doses of childhood vaccines enter Gaza: Palestinian health ministry](https://timesofindia.indiatimes.com/world/middle-east/thousands-of-doses-of-childhood-vaccines-enter-gaza-palestinian-health-ministry/articleshow/106455482.cms) (The Times of India)
 
 - [Thousands of Doses of Childhood Vaccines Enter Gaza: Palestinian Health Ministry](https://www.voanews.com/a/thousands-of-doses-of-childhood-vaccines-enter-gaza-palestinian-health-ministry/7420017.html) (VOA News)
 
 ## 24-1 (malaria)
+
+- [GeoVax Announces Issuance of Malaria Vaccine Patent](https://www.globenewswire.com/news-release/2024/01/03/2803354/0/en/GeoVax-Announces-Issuance-of-Malaria-Vaccine-Patent.html) (GlobeNewswire)
+
+- [Muore di malaria a Cremona, verso l'apertura di una inchiesta](https://www.ansa.it/lombardia/notizie/2024/01/03/muore-di-malaria-a-cremona-verso-lapertura-di-una-inchiesta_8f838e3e-c5eb-4d21-a0ce-b7ac3c2a2569.html) (ANSA.it)
 
 - [Diagnosi di malaria arriva troppo tardi, muore a soli 38 anni](https://www.ilgiornale.it/news/cronaca-locale/diagnosi-malaria-arriva-troppo-tardi-lorenzo-pagliari-muore-2263272.html) (Ilgiornale.it)
 
@@ -69,6 +89,22 @@ Source: [News API](https://newsapi.org/)
 - [Andhra govt to grant occupational health allowance to sanitation workers](https://timesofindia.indiatimes.com/india/andhra-govt-to-grant-occupational-health-allowance-to-sanitation-workers/articleshow/106457346.cms) (The Times of India)
 
 ## 24-1 (dengue)
+
+- [Em ação inédita, Dourados (MS) promove primeira vacinação em massa contra dengue no Brasil](https://www.terra.com.br/noticias/brasil/em-acao-inedita-dourados-ms-promove-primeira-vacinacao-em-massa-contra-dengue-no-brasil,f049e64e82fb04e3a07e47d563e09316e5wpd84s.html) (Terra.com.br)
+
+- [Dourados (MS) é a 1ª cidade do Brasil com vacinação em massa contra dengue](https://www.terra.com.br/vida-e-estilo/saude/dourados-ms-e-a-1-cidade-do-brasil-com-vacinacao-em-massa-contra-dengue,3347295bd70611e8d23ca8345f6b1488kg6rq0nd.html) (Terra.com.br)
+
+- [Segundo a OMS, Brasil foi o país com mais casos de dengue em 2023](https://www.megacurioso.com.br//ciencia/128471-segundo-a-oms-brasil-foi-o-pais-com-mais-casos-de-dengue-em-2023.htm) (Megacurioso.com.br)
+
+- [Dengue: Dourados é 1ª cidade do Brasil a iniciar vacinação em massa](https://saude.ig.com.br/2024-01-03/dengue--dourados-e-1-cidade-do-brasil-a-iniciar-vacinacao-em-massa.html) (Ig.com.br)
+
+- [Dengue: temporada de chuvas de 2024 deixa autoridades em alerta](https://recordtv.r7.com/hoje-em-dia/videos/dengue-temporada-de-chuvas-de-2024-deixa-autoridades-em-alerta-03012024) (R7.com)
+
+- [Sabah Health Dept probes claims of weak early diagnosis in dengue death of teenager](https://www.thestar.com.my/news/nation/2024/01/03/sabah-health-dept-probes-claims-of-weak-early-diagnosis-in-dengue-death-of-teenager) (The Star Online)
+
+- [Com 10,8 mil casos de dengue, Campinas teve 6ª maior epidemia da série histórica em 2023](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/03/com-108-mil-casos-de-dengue-campinas-teve-6a-maior-epidemia-da-serie-historica-em-2023.ghtml) (Globo)
+
+- [Dourados (MS) inaugura vacinação contra dengue no Brasil nesta quarta](https://www.tudocelular.com/tech/noticias/n216251/dourados-ms-inaugura-vacinacao-contra-dengue-no-brasil-nesta-quarta.html) (Tudocelular.com)
 
 - [Científicos argentinos esterilizan a mosquitos con energía atómica](https://sputniknews.lat/20240103/cientificos-argentinos-esterilizan-a-mosquitos-con-energia-atomica--1147088482.html) (Sputniknews.lat)
 
@@ -1618,8 +1654,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tijgermug gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'](https://www.nu.nl/dieren/6290510/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html) (Www.nu.nl)
 
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
-
 ## 23-47 (typhoid)
 
 - [Will Gang War Divide Like Civil War Did? Amazing Spider-Man Spoilers](https://bleedingcool.com/comics/will-gang-war-divide-like-civil-war-did-amazing-spider-man-spoilers/) (Bleeding Cool News)
@@ -1788,8 +1822,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Los pesticidas anti mosquitos son 10 veces más efectivos cuando se combinan con pequeñas cantidades de jabón](https://www.infosalus.com/salud-investigacion/noticia-pesticidas-anti-mosquitos-son-10-veces-mas-efectivos-cuando-combinan-pequenas-cantidades-jabon-20231120070347.html) (Infosalus.com)
 
-- [Malaria Prevalent in Southern Province - Report](https://allafrica.com/stories/202311190024.html) (AllAfrica - Top Africa News)
-
 ## 23-47 (leptospirosis)
 
 - [Leptospirosis vaccine for dogs voluntarily recalled following 'adverse reactions', including one death](https://www.abc.net.au/news/2023-11-23/voluntary-recall-leptospirosis-vaccine-dogs-adverse-reactions/103141524) (ABC News (AU))
@@ -1872,16 +1904,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Campinas ultrapassa 10 mil casos de dengue e Saúde reforça apelo à população para prevenção](https://g1.globo.com/sp/campinas-regiao/noticia/2023/11/19/campinas-ultrapassa-10-mil-casos-de-dengue-e-saude-reforca-apelo-a-populacao-para-prevencao.ghtml) (Globo)
 
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
-
-- [Dengue cai 97% no Brasil, mas atenção ainda é necessária](https://catracalivre.com.br/saude-bem-estar/dengue-brasil/) (Catracalivre.com.br)
-
-- [Dengue: 6 more die; 1,291 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446) (Tbsnews.net)
-
-- [¿Por qué una segunda infección de dengue puede ser peor que la primera?](https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/) (Nacion.com)
-
-- [Dengue cerraría 2023 con mayor repunte de casos de última década](https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/) (Nacion.com)
-
 ## 23-47 (chikungunya)
 
 - [Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laboratório](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/prefeitura-de-bh-solta-8000-mosquitos-aedes-aegypti-modificados-em-laboratorio-22112023) (R7.com)
@@ -1895,5 +1917,3 @@ Source: [News API](https://newsapi.org/)
 - [Calor e chuva podem aumentar casos de dengue no país](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/calor-e-chuva-podem-aumentar-casos-de-dengue-no-pais-21112023) (R7.com)
 
 - [Vaccine Against Chikungunya Approved By The FDA. Should You Get It?](https://www.forbes.com/sites/markkortepeter/2023/11/20/vaccine-against-chikungunya-approved-by-the-fda-should-you-get-it/) (Forbes)
-
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)

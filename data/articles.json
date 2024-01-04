@@ -1,8 +1,278 @@
 {
-  "last_updated": "2024-01-04 07:05",
-  "count_articles_total": 794,
-  "count_articles_new": 6,
+  "last_updated": "2024-01-04 19:05",
+  "count_articles_total": 803,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 4042,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Em a\u00e7\u00e3o in\u00e9dita, Dourados (MS) promove primeira vacina\u00e7\u00e3o em massa contra dengue no Brasil",
+      "description": "A prefeitura de Dourados (MS) lan\u00e7ou nesta quarta-feira uma in\u00e9dita a\u00e7\u00e3o de vacina\u00e7\u00e3o em massa ...",
+      "url": "https://www.terra.com.br/noticias/brasil/em-acao-inedita-dourados-ms-promove-primeira-vacinacao-em-massa-contra-dengue-no-brasil,f049e64e82fb04e3a07e47d563e09316e5wpd84s.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-01-03 18:57:30",
+      "content": "A prefeitura de Dourados (MS) lan\u00e7ou nesta quarta-feira uma in\u00e9dita a\u00e7\u00e3o de vacina\u00e7\u00e3o em massa contra a dengue no Brasil. Segundo comunicado da prefeitura, a iniciativa foi desenvolvida pela Secret\u2026 [+1492 chars]",
+      "retrievedAt": "2024-01-04 19:05:36.189525",
+      "internal_id": "b614e3d9507e5fbe360f3e654eab41c844a6da85c7c860c53873f73b69f80fb0",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4044,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Dourados (MS) \u00e9 a 1\u00aa cidade do Brasil com vacina\u00e7\u00e3o em massa contra dengue",
+      "description": "Vacina\u00e7\u00e3o em larga escala pelo pa\u00eds deve come\u00e7ar em fevereiro; cidade do MS fez parceria com o labarat\u00f3rio respons\u00e1vel pela vacina Qdenga",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dourados-ms-e-a-1-cidade-do-brasil-com-vacinacao-em-massa-contra-dengue,3347295bd70611e8d23ca8345f6b1488kg6rq0nd.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/03/vacina-dengue-0301c-1iv9vkzmkd3xz.jpg",
+      "publishedAt": "2024-01-03 17:08:34",
+      "content": "Localizada a pouco mais de 200 km de Campo Grande, no Mato Grosso do Sul, Dourados \u00e9 a primeira cidade no Brasil a iniciar a vacina\u00e7\u00e3o em massa contra a dengue. A imuniza\u00e7\u00e3o nos 35 postos de sa\u00fade do\u2026 [+1250 chars]",
+      "retrievedAt": "2024-01-04 19:05:36.201923",
+      "internal_id": "90a8093a558eeb117e3bd731a94a3de05fbdac6aa18a3d54e0e87b740d8b2451",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4048,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Megacurioso.com.br",
+      "author": "Andr\u00e9 Luiz Dias Gon\u00e7alves",
+      "title": "Segundo a OMS, Brasil foi o pa\u00eds com mais casos de dengue em 2023",
+      "description": "Com mais da metade dos registros de todo o mundo em 2023, o Brasil lidera o ranking global de casos de dengue, de acordo com alerta divulgado pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) no dia 22 de dezembro. O relat\u00f3rio tamb\u00e9m destaca o avan\u00e7o da doen\u00e7a para pa\u00ed\u2026",
+      "url": "https://www.megacurioso.com.br//ciencia/128471-segundo-a-oms-brasil-foi-o-pais-com-mais-casos-de-dengue-em-2023.htm",
+      "urlToImage": "https://mega.ibxk.com.br/2024/01/03/03132344345188.jpg?ims=600x",
+      "publishedAt": "2024-01-03 17:00:03",
+      "content": "Com mais da metade dos registros de todo o mundo em 2023, o Brasil lidera o ranking global de casos de dengue, de acordo com alerta divulgado pela Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) no dia 22 de deze\u2026 [+2711 chars]",
+      "retrievedAt": "2024-01-04 19:05:36.231085",
+      "internal_id": "7b39c56d91aa554a996ff7514959130643cb9c5054232e0baf73f9c4766673a8",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4043,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: Dourados \u00e9 1\u00aa cidade do Brasil a iniciar vacina\u00e7\u00e3o em massa",
+      "description": "A imuniza\u00e7\u00e3o foi iniciada \u00e0s 10h desta quarta-feira (3), nos 35 postos de sa\u00fade do munic\u00edpio",
+      "url": "https://saude.ig.com.br/2024-01-03/dengue--dourados-e-1-cidade-do-brasil-a-iniciar-vacinacao-em-massa.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/4g/bv/70/4gbv70z2vu1s4zmo94jql1k4o.jpg",
+      "publishedAt": "2024-01-03 14:27:43",
+      "content": "A cidade de Dourados, localizada em Mato Grosso do Sul, ser\u00e1 a primeira cidade do Brasil a come\u00e7ar a vacina\u00e7\u00e3o em massa contra a dengue . A imuniza\u00e7\u00e3o foi iniciada \u00e0s 10h desta quarta-feira (3), nos\u2026 [+1320 chars]",
+      "retrievedAt": "2024-01-04 19:05:36.194135",
+      "internal_id": "9169087383bae1fe72cb4a5cb2065558ada8b01df4a2d3dabe285be1b0b42c46",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4050,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "GeoVax, Inc.",
+      "title": "GeoVax Announces Issuance of Malaria Vaccine Patent",
+      "description": "Patent Covers Multiple Component Vaccine for Both Prevention and Treatment ATLANTA, GA, Jan. 03, 2024 (GLOBE NEWSWIRE) -- via NewMediaWire...",
+      "url": "https://www.globenewswire.com/news-release/2024/01/03/2803354/0/en/GeoVax-Announces-Issuance-of-Malaria-Vaccine-Patent.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/eef470be-74e0-4acb-996d-435f400193d3",
+      "publishedAt": "2024-01-03 14:00:00",
+      "content": "Patent Covers Multiple Component Vaccine for Both Prevention and Treatment ATLANTA, GA, Jan. 03, 2024 (GLOBE NEWSWIRE) -- via NewMediaWire GeoVax Labs, Inc. (Nasdaq: GOVX), a biotechnology compan\u2026 [+5768 chars]",
+      "retrievedAt": "2024-01-04 19:05:37.271615",
+      "internal_id": "e309ebff24a4f8b84880864a0ab9b3e92b07900dc402d24a7fb315ae4766fbf9",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4040,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Federalist",
+      "author": "James Varney",
+      "title": "Why Isn\u2019t Vaxx Tyrant Joe Biden Worried About Polio, Leprosy, And Measles Seeping Through The Border?",
+      "description": "The millions of migrants who have crossed into the country in recent years could be bringing the recently resurfaced infectious diseases with them.",
+      "url": "https://thefederalist.com/2024/01/03/why-isnt-vaxx-tyrant-joe-biden-worried-about-the-polio-leprosy-and-measles-apparently-seeping-through-the-border/",
+      "urlToImage": "https://thefederalist.com/wp-content/uploads/2024/01/Oral-Polio-Vaccine.jpg",
+      "publishedAt": "2024-01-03 13:00:41",
+      "content": "Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. Polio, which paralyzed thousands of Americans annually,\u2026 [+12144 chars]",
+      "retrievedAt": "2024-01-04 19:05:35.628057",
+      "internal_id": "528e70afee098dda82b98baa4239a833e74caab7461ec90d0a4743bd59900216",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4039,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Ana-Maria Gherghi\u021b\u0103",
+      "title": "Focar de tuse convulsiv\u0103 \u00eentr-un comitat din New York: \u201eUn semnal de alarm\u0103\u201d",
+      "description": "Oficialii din domeniul s\u0103n\u0103t\u0103\u021bii din comitatul Suffolk din statul New York \u00eei aten\u021bioneaz\u0103 pe cet\u0103\u021beni cu privire la cre\u0219terea num\u0103rului de cazuri de infec\u021bie bacterian\u0103 respiratorie numit\u0103 pertussis, cunoscut\u0103 \u0219i sub numele de tuse convulsiv\u0103.",
+      "url": "https://adevarul.ro/stiri-externe/sua/focar-de-tuse-convulsiva-intr-un-comitat-din-new-2328577.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-f/fee52632-4d9f-4b0c-8f1a-c0d25e787964/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-01-03 12:13:06",
+      "content": "Oficialii din domeniul sntii din comitatul Suffolk din statul New York \u00eei atenioneaz pe ceteni cu privire la creterea numrului de cazuri de infecie bacterian respiratorie numit pertussis, cunoscut i \u2026 [+3842 chars]",
+      "retrievedAt": "2024-01-04 19:05:34.977091",
+      "internal_id": "a7f320ae9637d7eae2a228b35a747ca887c79826e7c727881960464901817890",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4051,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Muore di malaria a Cremona, verso l'apertura di una inchiesta",
+      "description": "La procura di Cremona aprir\u00e0 un'indagine sulla morte di Lorenzo Pagliari, il 38enne deceduto al Maggiore di Cremona lo scorso 31 dicembre a causa di una forma di malaria inizialmente scambiata per influenza. (ANSA)",
+      "url": "https://www.ansa.it/lombardia/notizie/2024/01/03/muore-di-malaria-a-cremona-verso-lapertura-di-una-inchiesta_8f838e3e-c5eb-4d21-a0ce-b7ac3c2a2569.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2017/9/5/8343f62c99e7646fbe590dfc4fcd8e23.jpg",
+      "publishedAt": "2024-01-03 12:12:02",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-01-04 19:05:37.281674",
+      "internal_id": "ceb493f8790a9e3c86704672bbeb7bc88fc54963bf49dc5ec23086f72a4c4070",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4052,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Bleeding Cool News",
+      "author": "Rich Johnston",
+      "title": "Krakoa, Arakko, Orchis & The House Of X At War In X-Men Comics Today",
+      "description": "This week has Fall Of The House Of X #1 as the only Krakoan X-Men title in print\u2026 but there's also X-Men Infinity Unlimited #120 over at Marvel Unlimited and the return of Kingpin and Typhoid Mary to Amazing Spider-Man #41\u2026 With the Arakko Civil War and the s\u2026",
+      "url": "https://bleedingcool.com/comics/krakoa-arakko-orchis-the-house-of-x-at-war-in-x-men-comics-today/",
+      "urlToImage": "https://bleedingcool.com/wp-content/uploads/2024/01/IMG_5746-2000x1125.jpg",
+      "publishedAt": "2024-01-03 11:58:10",
+      "content": "Posted in: Comics, Comics Publishers, Current News, Marvel Comics, Spider-Man, X-Men | Tagged: arakko, fall of x, House of X, krakoa, orchis This week has Fall Of The House Of X #1, X-Men Infinity U\u2026 [+5163 chars]",
+      "retrievedAt": "2024-01-04 19:05:38.458386",
+      "internal_id": "6d0b2510105bdb6fd3055a04247fffb0a63b75cb443cf4abdfe86f2d5c5dfbfb",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4047,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Dengue: temporada de chuvas de 2024 deixa autoridades em alerta",
+      "description": "Os casos de dengue, que bateram recorde no ano passado, voltam a deixar as autoridades em alerta com a chegada da temporada de chuvas de 2024....",
+      "url": "https://recordtv.r7.com/hoje-em-dia/videos/dengue-temporada-de-chuvas-de-2024-deixa-autoridades-em-alerta-03012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/03/659566e0cd77c01d90000350/bff87e3188204a578fbc4f9a57da0112__Dengue__temporada_de_chuvas_de_2024_deixa_autoridades_em_alerta_thumb.jpg",
+      "publishedAt": "2024-01-03 11:36:47",
+      "content": "Os casos de dengue, que bateram recorde no ano passado, voltam a deixar as autoridades em alerta com a chegada da temporada de chuvas de 2024. \u00c9 preciso redobrar os cuidados com \u00e1gua parada, impedind\u2026 [+71 chars]",
+      "retrievedAt": "2024-01-04 19:05:36.224172",
+      "internal_id": "7e769d873050ebcb84a18511a840c347c0db04f038cd33fb9ec38b35864bc966",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4046,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Sabah Health Dept probes claims of weak early diagnosis in dengue death of teenager",
+      "description": "KOTA KINABALU: Investigations into any discrepancies or weaknesses by staff at the Tuaran district hospital following a teenager's death from dengue are being carried out by the Sabah Health Department . Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/01/03/sabah-health-dept-probes-claims-of-weak-early-diagnosis-in-dengue-death-of-teenager",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/03/2472027.jpg",
+      "publishedAt": "2024-01-03 10:10:00",
+      "content": "KOTA KINABALU: Investigations into any discrepancies or weaknesses by staff at the Tuaran district hospital following a teenager's death from dengue are being carried out by the Sabah Health Departme\u2026 [+2307 chars]",
+      "retrievedAt": "2024-01-04 19:05:36.219990",
+      "internal_id": "070a40abdb61923b4d5ae52def153cd82240db13c2b550acb0fbc59e51df8ba0",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4053,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Pathogenic bacteria use molecular 'shuttle services' to fill their injection apparatus with the right product",
+      "description": "Disease-causing bacteria of the genus Salmonella or Yersinia can use tiny injection apparatuses to inject harmful proteins into host cells, much to the discomfort of the infected person. However, it is not only with a view to controlling disease that research\u2026",
+      "url": "https://phys.org/news/2024-01-pathogenic-bacteria-molecular-shuttle-apparatus.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/bacteria-load-their-sy.jpg",
+      "publishedAt": "2024-01-03 10:00:01",
+      "content": "Disease-causing bacteria of the genus Salmonella or Yersinia can use tiny injection apparatuses to inject harmful proteins into host cells, much to the discomfort of the infected person. However, it \u2026 [+4103 chars]",
+      "retrievedAt": "2024-01-04 19:05:39.141566",
+      "internal_id": "d826aa98ae1e339cf18c10ca6a4a35e44e2f1956159bb4ac7b876fcff6ae736c",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4049,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lithub.com",
+      "author": "Emily Schultz",
+      "title": "Memories Aren\u2019t Enough: Why Sometimes Only Fiction Can Solve the Mysteries of Life",
+      "description": "The spring I was fourteen, I watched my mother slip into a coma over the course of an hour. The day began with \u201cMom has a flu,\u201d but it was to be only the start of a 10-day battle for her life against spinal meningitis. It was the kind of \u201ceverything changes\u201d \u2026",
+      "url": "https://lithub.com/memories-arent-enough-why-sometimes-only-fiction-can-solve-the-mysteries-of-life/",
+      "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2023/12/slant-light.jpg",
+      "publishedAt": "2024-01-03 09:53:00",
+      "content": "The spring I was fourteen, I watched my mother slip into a coma over the course of an hour. The day began with Mom has a flu, but it was to be only the start of a 10-day battle for her life against s\u2026 [+7273 chars]",
+      "retrievedAt": "2024-01-04 19:05:36.851514",
+      "internal_id": "e8ee5dca25dcb8286744d7a3a025c6412d9f8f6973be08e16b4d0b3d2dbdd95d",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4045,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Com 10,8 mil casos de dengue, Campinas teve 6\u00aa maior epidemia da s\u00e9rie hist\u00f3rica em 2023",
+      "description": "Prefeitura define estrat\u00e9gias para conter poss\u00edvel explos\u00e3o da doen\u00e7a em 2024, que inclui mutir\u00f5es em \u00e1reas de maios risco de transmiss\u00e3o. Recorde ocorreu em 2015, com 65,6 mil infectados e 15 mortes. Campinas amplia n\u00famero de bairros em alerta com alto risco\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/03/com-108-mil-casos-de-dengue-campinas-teve-6a-maior-epidemia-da-serie-historica-em-2023.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/D91lVDz2UOuoKmUA7XjMswQvox8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/9/ZXEUPfQHO78slTEX68Qw/capturar3.jpg",
+      "publishedAt": "2024-01-03 09:41:53",
+      "content": "A \u00faltima atualiza\u00e7\u00e3o da Secretaria de Sa\u00fade indica 10.898 infectados e tr\u00eas \u00f3bitos, n\u00fameros pr\u00f3ximos ao do ano anterior, quando a metr\u00f3pole teve 11.259 casos confirmados. O recorde \u00e9 de 2015, quando \u2026 [+7110 chars]",
+      "retrievedAt": "2024-01-04 19:05:36.207072",
+      "internal_id": "d87c8fcb14b5539f089ee40f7bc4171379c1535f886e4a3c78ae0f6423957842",
+      "publishedAtLabel": "Jan 3"
+    },
+    {
+      "id": 4041,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tudocelular.com",
+      "author": "Tudocelular.com",
+      "title": "Dourados (MS) inaugura vacina\u00e7\u00e3o contra dengue no Brasil nesta quarta",
+      "description": "A efic\u00e1cia do imunizante \u00e9 de 80,2% ao longo de 12 meses, reduzindo hospitaliza\u00e7\u00f5es em 90%.",
+      "url": "https://www.tudocelular.com/tech/noticias/n216251/dourados-ms-inaugura-vacinacao-contra-dengue-no-brasil-nesta-quarta.html",
+      "urlToImage": "https://t2.tudocdn.net/691370?w=1920",
+      "publishedAt": "2024-01-03 07:06:00",
+      "content": "2024 j\u00e1 come\u00e7ou com conquistas na \u00e1rea da sa\u00fade e ci\u00eancia. Dourados, cidade no estado de Mato Grosso do Sul, ser\u00e1 a pioneira na vacina\u00e7\u00e3o em massa contra dengue. A t\u00e3o esperada a\u00e7\u00e3o come\u00e7a nesta quar\u2026 [+1399 chars]",
+      "retrievedAt": "2024-01-04 19:05:36.175223",
+      "internal_id": "8ab84d6747fb24c244f4c8e17f1e652200203707eae85c649ce7c2de81b5f933",
+      "publishedAtLabel": "Jan 3"
+    },
     {
       "id": 4036,
       "query": [
@@ -14248,116 +14518,6 @@
       "content": "Em nota, a Secretaria de Sa\u00fade informou que est\u00e1 \"atenta aos indicadores da dengue e mant\u00e9m um trabalho incessante de combate \u00e0 doen\u00e7a, incluindo visitas aos im\u00f3veis para remo\u00e7\u00e3o de poss\u00edveis criadou\u2026 [+2226 chars]",
       "retrievedAt": "2023-11-21 07:05:50.965749",
       "internal_id": "cea4f014fe14e31fb2f88c12533799d7ae7ad8643f0a6245adf2a5880e1c9915",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3223,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ooe.orf.at",
-      "author": "ORF.at",
-      "title": "Ausbreitung der Tigerm\u00fccke soll verhindert werden",
-      "description": "In der kalten Jahreszeit denken wir eher selten daran: Gelsen. Beim Land allerdings laufen derzeit Bem\u00fchungen, das Ausbreiten neuer, gef\u00e4hrlicher Gelsenarten zu verhindern \u2013 indem ihnen das \u00dcberwintern unm\u00f6glich gemacht wird. Jede und jeder kann dabei auch he\u2026",
-      "url": "https://ooe.orf.at/stories/3233128/",
-      "urlToImage": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2019%2F44%2F84%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F349803_master_111884_gelbfiebermuecke_uebertraegt_zika-virus_.jpg%3Fs%3Db76ef4fafbe9d00bb5a0c6a537879a7b4e2e19de",
-      "publishedAt": "2023-11-19 16:36:56",
-      "content": "Im Zentralraum hat es heuer wiederholt Funde der Asiatischen Tigerm\u00fccke gegeben. Sie ist am Tag aktiv und kann schwere Krankheiten wie das Dengue-Fieber, das ZIKA-Virus oder Chikungunya \u00fcbertragen. D\u2026 [+687 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.696590",
-      "internal_id": "2e25492edb53880fa764727115a5d9a67681d395ce9a45f1499a0a511d33e526",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3222,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Dengue cai 97% no Brasil, mas aten\u00e7\u00e3o ainda \u00e9 necess\u00e1ria",
-      "description": "O Dia Nacional de Combate ao Aedes aegypti \u00e9 importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
-      "publishedAt": "2023-11-19 14:17:26",
-      "content": "O Dia Nacional de Combate ao Aedes aegypti, celebrado neste domingo, 19, \u00e9 uma data importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito, tr\u2026 [+2521 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.677982",
-      "internal_id": "db79a98e45bf93f7c2e30bc09a7321179724a180bc48f7e7159721241bd72e93",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3226,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 6 more die; 1,291 hospitalised in 24hrs",
-      "description": "So far, the DGHS has recorded 3,01,255 dengue cases and 2,94,757 recoveries this year",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-19 13:37:21",
-      "content": "Six more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,549 this year. During the period, 1,291 more pati\u2026 [+425 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.723368",
-      "internal_id": "f4c9d17832ebd17d6044287facf298dfd5b13e34c43a6253e89f29f9f25be307",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3227,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Malaria Prevalent in Southern Province - Report",
-      "description": "[New Times] The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease.",
-      "url": "https://allafrica.com/stories/202311190024.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-19 12:51:06",
-      "content": "The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease. The Malaria and \u2026 [+2763 chars]",
-      "retrievedAt": "2023-11-20 19:05:43.783726",
-      "internal_id": "367f278c0feb2774c6b1ae37295149cc9133c3cb4cfee66a6db3fa1b8e6bba71",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3225,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "\u00bfPor qu\u00e9 una segunda infecci\u00f3n de dengue puede ser peor que la primera?",
-      "description": "La forma como act\u00faa el virus y la respuesta de nuestro sistema inmunitario cuando ocurre un nuevo contagio favorecen una mayor infecci\u00f3n, que incluso podr\u00eda derivar en dengue grave.",
-      "url": "https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/",
-      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
-      "publishedAt": "2023-11-19 11:03:00",
-      "content": "Una de las principales preguntas que giran alrededor del dengue es por qu\u00e9 las personas pueden tener complicaciones m\u00e1s graves cuando sufren una segunda infecci\u00f3n.Para responder mejor esta pregunta, \u2026 [+5223 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.714769",
-      "internal_id": "d7c3cf7b0830d3c038900f0bcbfb4d40e213458b4125fd6229025f1766308f6b",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3224,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "Dengue cerrar\u00eda 2023 con mayor repunte de casos de \u00faltima d\u00e9cada",
-      "description": "Costa Rica acumul\u00f3 21.396 casos a inicios de noviembre; cinco personas han sufrido dengue grave este a\u00f1o y Salud investiga una posible muerte por esa enfermedad.",
-      "url": "https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/",
-      "urlToImage": "https://www.nacion.com/resizer/PiATf3lWvk3ueCCDZT1C1-o3WmE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/U5XOPZMSYRCBTK6C32OILYZUBQ.jpg",
-      "publishedAt": "2023-11-19 11:00:00",
-      "content": "El 2023 se perfila para convertirse en el a\u00f1o de mayor incidencia de dengue en la \u00faltima d\u00e9cada. En las primeras 44 semanas del a\u00f1o, Costa Rica registraba 21.396 casos de esta enfermedad y se ubicaba\u2026 [+8541 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.703435",
-      "internal_id": "fef8a298698213ce4eb1bcc58133f8f3fb269f774ab785bc9e0c16e91d1c5014",
       "publishedAtLabel": "Nov 19"
     }
   ]
