@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-01-03 19:05
-- **Most recent article:** 2024-01-02 18:31:44
+- **New articles in last harvest:** 6
+- **Last harvest:** 2024-01-04 07:05
+- **Most recent article:** 2024-01-03 05:15:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 36 | 45 | 62 | 42 | 69 | 37 | 2 | 7 | 300 |
-| malaria | 36 | 33 | 26 | 24 | 24 | 22 | 2 | 5 | 172 |
+| dengue | 41 | 45 | 62 | 42 | 69 | 37 | 2 | 11 | 309 |
+| malaria | 37 | 33 | 26 | 24 | 24 | 22 | 2 | 5 | 173 |
 | mpox | 16 | 18 | 15 | 24 | 15 | 12 | 0 | 0 | 100 |
 | measles | 11 | 4 | 5 | 7 | 28 | 7 | 1 | 2 | 65 |
-| zika | 5 | 10 | 15 | 9 | 5 | 1 | 0 | 3 | 48 |
-| chikungunya | 6 | 10 | 10 | 11 | 4 | 3 | 1 | 1 | 46 |
+| zika | 6 | 10 | 15 | 9 | 5 | 1 | 0 | 4 | 50 |
+| chikungunya | 7 | 10 | 10 | 11 | 4 | 3 | 1 | 1 | 47 |
 | rabies | 8 | 9 | 4 | 7 | 2 | 7 | 1 | 1 | 39 |
 | meningitis | 0 | 4 | 8 | 9 | 4 | 4 | 0 | 0 | 29 |
-| pertussis | 6 | 4 | 2 | 4 | 2 | 0 | 0 | 0 | 18 |
+| pertussis | 6 | 4 | 2 | 4 | 2 | 0 | 0 | 2 | 20 |
 | leptospirosis | 3 | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 15 |
 | typhoid | 1 | 0 | 3 | 0 | 3 | 2 | 0 | 0 | 9 |
 | yersinia | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 3 |
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-1 (zika)
 
+- [Científicos argentinos esterilizan a mosquitos con energía atómica](https://sputniknews.lat/20240103/cientificos-argentinos-esterilizan-a-mosquitos-con-energia-atomica--1147088482.html) (Sputniknews.lat)
+
 - [Pyrethroid susceptibility reversal in Aedes aegypti: A longitudinal study in Tapachula, Mexico](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011369) (Plos.org)
 
 - [Identification of a critical role for ZIKV capsid α3 in virus assembly and its genetic interaction with M protein](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011873) (Plos.org)
@@ -41,6 +43,12 @@ Source: [News API](https://newsapi.org/)
 ## 24-1 (rabies)
 
 - [Näin pelätty raivotauti oireilee – Koirakuumeesta massiivinen riski](https://www.iltalehti.fi/terveysuutiset/a/a6393559-86fe-4742-be4a-260b984e676c) (Iltalehti.fi)
+
+## 24-1 (pertussis)
+
+- [Health officials in Suffolk County, New York, report whooping cough outbreak over the last month](https://abcnews.go.com/Health/health-officials-suffolk-county-new-york-report-whooping/story?id=106060623) (ABC News)
+
+- [Whooping cough outbreak in Suffolk County: health officials](https://pix11.com/news/local-news/long-island/suffolk-county-health-officials-warn-of-whooping-cough-outbreak/) (WPIX 11 New York)
 
 ## 24-1 (measles)
 
@@ -61,6 +69,14 @@ Source: [News API](https://newsapi.org/)
 - [Andhra govt to grant occupational health allowance to sanitation workers](https://timesofindia.indiatimes.com/india/andhra-govt-to-grant-occupational-health-allowance-to-sanitation-workers/articleshow/106457346.cms) (The Times of India)
 
 ## 24-1 (dengue)
+
+- [Científicos argentinos esterilizan a mosquitos con energía atómica](https://sputniknews.lat/20240103/cientificos-argentinos-esterilizan-a-mosquitos-con-energia-atomica--1147088482.html) (Sputniknews.lat)
+
+- [Sweeper gets 7 years in jail for raping 19-year-old dengue patient in ICU](https://timesofindia.indiatimes.com/city/ahmedabad/sweeper-gets-7-years-in-jail-for-raping-19-year-old-dengue-patient-in-icu/articleshow/106498326.cms) (The Times of India)
+
+- [INTERACTIVE: Malaysia not spared from global dengue spike](https://www.thestar.com.my/news/2024/01/03/interactive-malaysia-not-spared-from-global-dengue-spike) (The Star Online)
+
+- [El peculiar disfraz creado por una vecina porteña para concientizar sobre el dengue](https://www.montevideo.com.uy/Noticias/El-peculiar-disfraz-creado-por-una-vecina-portena-para-concientizar-sobre-el-dengue-uc875595) (Montevideo.com.uy)
 
 - [Dengue, monkeypox, abnormal Covid-19 vaccine coverage: Health threats which are in store in 2024](https://economictimes.indiatimes.com/news/international/us/dengue-monkeypox-abnormal-covid-19-vaccine-coverage-health-threats-which-are-in-store-in-2024/articleshow/106493152.cms) (The Times of India)
 
@@ -1602,6 +1618,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Tijgermug gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'](https://www.nu.nl/dieren/6290510/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html) (Www.nu.nl)
 
+- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
+
 ## 23-47 (typhoid)
 
 - [Will Gang War Divide Like Civil War Did? Amazing Spider-Man Spoilers](https://bleedingcool.com/comics/will-gang-war-divide-like-civil-war-did-amazing-spider-man-spoilers/) (Bleeding Cool News)
@@ -1770,6 +1788,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Los pesticidas anti mosquitos son 10 veces más efectivos cuando se combinan con pequeñas cantidades de jabón](https://www.infosalus.com/salud-investigacion/noticia-pesticidas-anti-mosquitos-son-10-veces-mas-efectivos-cuando-combinan-pequenas-cantidades-jabon-20231120070347.html) (Infosalus.com)
 
+- [Malaria Prevalent in Southern Province - Report](https://allafrica.com/stories/202311190024.html) (AllAfrica - Top Africa News)
+
 ## 23-47 (leptospirosis)
 
 - [Leptospirosis vaccine for dogs voluntarily recalled following 'adverse reactions', including one death](https://www.abc.net.au/news/2023-11-23/voluntary-recall-leptospirosis-vaccine-dogs-adverse-reactions/103141524) (ABC News (AU))
@@ -1852,6 +1872,16 @@ Source: [News API](https://newsapi.org/)
 
 - [Campinas ultrapassa 10 mil casos de dengue e Saúde reforça apelo à população para prevenção](https://g1.globo.com/sp/campinas-regiao/noticia/2023/11/19/campinas-ultrapassa-10-mil-casos-de-dengue-e-saude-reforca-apelo-a-populacao-para-prevencao.ghtml) (Globo)
 
+- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
+
+- [Dengue cai 97% no Brasil, mas atenção ainda é necessária](https://catracalivre.com.br/saude-bem-estar/dengue-brasil/) (Catracalivre.com.br)
+
+- [Dengue: 6 more die; 1,291 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446) (Tbsnews.net)
+
+- [¿Por qué una segunda infección de dengue puede ser peor que la primera?](https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/) (Nacion.com)
+
+- [Dengue cerraría 2023 con mayor repunte de casos de última década](https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/) (Nacion.com)
+
 ## 23-47 (chikungunya)
 
 - [Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laboratório](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/prefeitura-de-bh-solta-8000-mosquitos-aedes-aegypti-modificados-em-laboratorio-22112023) (R7.com)
@@ -1865,3 +1895,5 @@ Source: [News API](https://newsapi.org/)
 - [Calor e chuva podem aumentar casos de dengue no país](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/calor-e-chuva-podem-aumentar-casos-de-dengue-no-pais-21112023) (R7.com)
 
 - [Vaccine Against Chikungunya Approved By The FDA. Should You Get It?](https://www.forbes.com/sites/markkortepeter/2023/11/20/vaccine-against-chikungunya-approved-by-the-fda-should-you-get-it/) (Forbes)
+
+- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
