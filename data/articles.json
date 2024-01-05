@@ -1,8 +1,188 @@
 {
-  "last_updated": "2024-01-05 07:05",
-  "count_articles_total": 817,
-  "count_articles_new": 8,
+  "last_updated": "2024-01-05 19:05",
+  "count_articles_total": 821,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 4062,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sopitas.com",
+      "author": "Gabriela Espinosa",
+      "title": "Miles de casos de dengue: la otra emergencia despu\u00e9s de Otis en Acapulco",
+      "description": "Despu\u00e9s del paso del hurac\u00e1n Otis la emergencia en Acapulco y en Guerrero est\u00e1 lejos de terminar. Cada vez hay m\u00e1s casos de dengue y el... The post Miles de casos de dengue: la otra emergencia despu\u00e9s de Otis en Acapulco appeared first on Sopitas.com.",
+      "url": "https://www.sopitas.com/noticias/miles-casos-dengue-emergencia-otis-acapulco-mexico/",
+      "urlToImage": "https://www.sopitas.com/wp-content/uploads/2024/01/mosquitos-dengue-enfermedad-guerrero-acapulco.jpg",
+      "publishedAt": "2024-01-04 18:58:37",
+      "content": "Lo que necesitas saber: Despu\u00e9s de que lleg\u00f3 el hurac\u00e1n Otis a Acapulco los casos de dengue aumentaron considerablemente. Despu\u00e9s del paso del hurac\u00e1n Otis la emergencia en Acapulco y en Guerrero e\u2026 [+2653 chars]",
+      "retrievedAt": "2024-01-05 19:05:26.116064",
+      "internal_id": "8cac7045dbab6834fd9be397b0499664b84d519c44f080539c188fc96762d0ec",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4071,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Dublin Live",
+      "author": "Https://www.dublinlive.ie/authors/emma-nevin/",
+      "title": "STI diagnoses jump almost 30 per cent after free home testing surge",
+      "description": "Cases of chlamydia increased almost 24 percent over the course of the year while gonorrhoea surged 69 per cent",
+      "url": "https://www.dublinlive.ie/news/health/sti-diagnoses-jump-almost-30-28389933",
+      "urlToImage": "https://i2-prod.dublinlive.ie/incoming/article28390153.ece/ALTERNATES/s1200/0_sti-test.jpg",
+      "publishedAt": "2024-01-04 18:45:46",
+      "content": "STI diagnoses were up a huge 29 per cent in 2023 as the HSE's free home testing kits became increasingly popular. A total of 23,973 cases of HIV, Mpox and STI's were confirmed in Ireland last year, \u2026 [+2066 chars]",
+      "retrievedAt": "2024-01-05 19:05:27.825864",
+      "internal_id": "395a2897f6b196fd68b3ef41c79f32f55d1125f5c02167ea873f6a97b2a1b100",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4067,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Deutsche Welle",
+      "title": "Vacina\u00e7\u00e3o contra a dengue no SUS: o que voc\u00ea precisa saber",
+      "description": "Dourados (MS) iniciou campanha in\u00e9dita de vacina\u00e7\u00e3o gratuita contra a dengue . Imunizante dever\u00e1 ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/vacinacao-contra-a-dengue-no-sus-o-que-voce-precisa-saber,9b8b2235de9b7ae651b21a2f089aec5a688kom0d.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/04/961361146-60318499354.jpg",
+      "publishedAt": "2024-01-04 17:36:50",
+      "content": "Dourados (MS) iniciou campanha in\u00e9dita de vacina\u00e7\u00e3o gratuita contra a dengue. Imunizante dever\u00e1 ser disponibilizado tamb\u00e9m em outras regi\u00f5es do pa\u00eds pelo SUS a partir de fevereiro.A cidade de Dourado\u2026 [+3661 chars]",
+      "retrievedAt": "2024-01-05 19:05:26.179381",
+      "internal_id": "0e389b1e1880ace6ff893fb1f2403198b10ae1f1d7d193250fbd00c8410ef64c",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4069,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Baby formula recalled over bacteria contamination fears",
+      "description": "Reckitt are recalling batches of Nutramigen powders after finding bacteria in an \"isolated overseas sample\".",
+      "url": "https://www.bbc.co.uk/news/uk-67880812",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/142C6/production/_132203628_nutramigen-index.jpg",
+      "publishedAt": "2024-01-04 16:37:24",
+      "content": "Batches of two baby formulas have been recalled over the possible presence of a bacteria which can cause fever and diarrhoea. Cronobacter sakazakii can also lead to sepsis or meningitis in severe c\u2026 [+2787 chars]",
+      "retrievedAt": "2024-01-05 19:05:26.575323",
+      "internal_id": "abfc63687a3b0403da3e1825d8e9dcc87052c0689ee00232b913ddf1cd61ee9c",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4066,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Uol.com.br",
+      "author": "Brasil Escola",
+      "title": "Vacina contra a dengue: entenda como funciona o processo de imuniza\u00e7\u00e3o",
+      "description": "As aplica\u00e7\u00f5es da vacina contra a dengue come\u00e7aram a ser aplicadas nesta quarta (3). Confira esta e mais informa\u00e7\u00f5es sobre a imuniza\u00e7\u00e3o.",
+      "url": "https://brasilescola.uol.com.br/noticias/comeca-campanha-de-vacinacao-contra-a-dengue/3129934.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/04/2108458023-vacina-dengue.jpg",
+      "publishedAt": "2024-01-04 15:45:17",
+      "content": "A vacina\u00e7\u00e3o contra a dengue come\u00e7ou nesta quarta-feira (3), na cidade de Dourados. A iniciativa acontece por meio de uma parceria entre a Secretaria Municipal de Sa\u00fade e o laborat\u00f3rio japon\u00eas, Takeda\u2026 [+5112 chars]",
+      "retrievedAt": "2024-01-05 19:05:26.172929",
+      "internal_id": "4d803a6f3c24546cddb7f7e42806ff7ba70d9b48fa4fe6cfd9933435a46ee5b3",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4070,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Mari Eccles",
+      "title": "Hydroxychloroquine could have caused 17,000 deaths during COVID, study finds",
+      "description": "Former US President Donald Trump said: 'What do you have to lose? Take it.'",
+      "url": "https://www.politico.eu/article/hydroxychloroquine-could-have-caused-17000-deaths-during-covid-study-finds/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/01/04/GettyImages-1214260474-scaled.jpg",
+      "publishedAt": "2024-01-04 14:43:25",
+      "content": "Nearly 17,000 people may have died after taking hydroxycholoroquine during the first wave of COVID, according to a study by French researchers. The anti-malaria drug was prescribed to some patients \u2026 [+1459 chars]",
+      "retrievedAt": "2024-01-05 19:05:27.055488",
+      "internal_id": "1a1396ad639d7c00d44f649bf9e2d19afd1793eb9d958b679b3d40a68cc8b773",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4068,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Joziana Muniz de Paiva Bar\u00e7ante, Jos\u00e9 Cherem",
+      "title": "The mosquito knows no borders: Regional challenges for global confrontation in the dengue battle",
+      "description": "",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011830",
+      "urlToImage": null,
+      "publishedAt": "2024-01-04 14:00:00",
+      "content": "Dengue fever is a neglected disease with a global impact, and its incidence and geographical reach are rapidly expanding. Global warming marked by higher average temperatures, precipitation, and long\u2026 [+9474 chars]",
+      "retrievedAt": "2024-01-05 19:05:26.195004",
+      "internal_id": "75e9ffe9e76952ddf4ca3c5c5d1d5e66400c0f7cd06fa77bce6b2a1453631712",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4063,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Dourados \u00e9 a 1\u00aa cidade a come\u00e7ar vacina\u00e7\u00e3o em massa contra dengue",
+      "description": "A cidade de Dourados, no Mato Grosso do Sul, imuniza toda a popula\u00e7\u00e3o com a vacina Qdenga. A meta \u00e9 aplicar o imunizante contra a dengue em 150 mil pessoas",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-04/dourados-e-a-1-cidade-a-comecar-vacinacao-em-massa-contra-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/dg/99/jp/dg99jp1bsjege5htnpk6exxbi.jpg",
+      "publishedAt": "2024-01-04 12:55:15",
+      "content": "Na quarta-feira (3), a cidade de Dourados come\u00e7ou a vacinar a popula\u00e7\u00e3o em massa contra a dengue. De forma in\u00e9dita, o munic\u00edpio do Mato Grosso do Sul aplica a vacina Qdenga, desenvolvida pela farmac\u00ea\u2026 [+2946 chars]",
+      "retrievedAt": "2024-01-05 19:05:26.150988",
+      "internal_id": "8bfe4b37dcf66e0cc3b1b868398ef80a8867710f0e96cbb5816467f338e80739",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4064,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Deutsche Welle",
+      "title": "Vacina\u00e7\u00e3o contra a dengue no SUS: o que voc\u00ea precisa saber",
+      "description": "Dourados (MS) iniciou campanha in\u00e9dita de vacina\u00e7\u00e3o gratuita contra a dengue. Imunizante dever\u00e1 ...",
+      "url": "https://www.terra.com.br/noticias/vacinacao-contra-a-dengue-no-sus-o-que-voce-precisa-saber,9b8b2235de9b7ae651b21a2f089aec5a688kom0d.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/04/961361146-60318499354.jpg",
+      "publishedAt": "2024-01-04 12:12:15",
+      "content": "Dourados (MS) iniciou campanha in\u00e9dita de vacina\u00e7\u00e3o gratuita contra a dengue. Imunizante dever\u00e1 ser disponibilizado tamb\u00e9m em outras regi\u00f5es do pa\u00eds pelo SUS a partir de fevereiro.A cidade de Dourado\u2026 [+3663 chars]",
+      "retrievedAt": "2024-01-05 19:05:26.161052",
+      "internal_id": "1f1b7814c23af1a7a3359e4641d5e2a3794acd381b42d8309558fa77b8667f30",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4065,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Vacina\u00e7\u00e3o contra a dengue no SUS: o que voc\u00ea precisa saber",
+      "description": "Dourados (MS) iniciou campanha in\u00e9dita de vacina\u00e7\u00e3o gratuita contra a dengue. Imunizante dever\u00e1 ser disponibilizado tamb\u00e9m em outras regi\u00f5es do pa\u00eds pelo SUS a partir de fevereiro.",
+      "url": "https://www.dw.com/pt-br/vacina%C3%A7%C3%A3o-contra-a-dengue-no-sus-o-que-voc%C3%AA-precisa-saber/a-67888146",
+      "urlToImage": "https://static.dw.com/image/60318499_6.jpg",
+      "publishedAt": "2024-01-04 11:52:00",
+      "content": "A cidade de Dourados, no Mato Grosso do Sul, iniciou nesta quarta-feira (03/01) uma in\u00e9dita campanha gratuita de vacina\u00e7\u00e3o contra a dengue, que deve alcan\u00e7ar cerca de 150 mil pessoas. A a\u00e7\u00e3o do munic\u2026 [+3483 chars]",
+      "retrievedAt": "2024-01-05 19:05:26.167740",
+      "internal_id": "2b41e19b8da2797e6b814d480b0be6c47944d6d3494357e9332445ecb9d5718c",
+      "publishedAtLabel": "Jan 4"
+    },
     {
       "id": 4058,
       "query": [
@@ -14662,116 +14842,6 @@
       "content": "Em nota, a Secretaria de Sa\u00fade informou que est\u00e1 \"atenta aos indicadores da dengue e mant\u00e9m um trabalho incessante de combate \u00e0 doen\u00e7a, incluindo visitas aos im\u00f3veis para remo\u00e7\u00e3o de poss\u00edveis criadou\u2026 [+2226 chars]",
       "retrievedAt": "2023-11-21 07:05:50.965749",
       "internal_id": "cea4f014fe14e31fb2f88c12533799d7ae7ad8643f0a6245adf2a5880e1c9915",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3223,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ooe.orf.at",
-      "author": "ORF.at",
-      "title": "Ausbreitung der Tigerm\u00fccke soll verhindert werden",
-      "description": "In der kalten Jahreszeit denken wir eher selten daran: Gelsen. Beim Land allerdings laufen derzeit Bem\u00fchungen, das Ausbreiten neuer, gef\u00e4hrlicher Gelsenarten zu verhindern \u2013 indem ihnen das \u00dcberwintern unm\u00f6glich gemacht wird. Jede und jeder kann dabei auch he\u2026",
-      "url": "https://ooe.orf.at/stories/3233128/",
-      "urlToImage": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2019%2F44%2F84%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F349803_master_111884_gelbfiebermuecke_uebertraegt_zika-virus_.jpg%3Fs%3Db76ef4fafbe9d00bb5a0c6a537879a7b4e2e19de",
-      "publishedAt": "2023-11-19 16:36:56",
-      "content": "Im Zentralraum hat es heuer wiederholt Funde der Asiatischen Tigerm\u00fccke gegeben. Sie ist am Tag aktiv und kann schwere Krankheiten wie das Dengue-Fieber, das ZIKA-Virus oder Chikungunya \u00fcbertragen. D\u2026 [+687 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.696590",
-      "internal_id": "2e25492edb53880fa764727115a5d9a67681d395ce9a45f1499a0a511d33e526",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3222,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Dengue cai 97% no Brasil, mas aten\u00e7\u00e3o ainda \u00e9 necess\u00e1ria",
-      "description": "O Dia Nacional de Combate ao Aedes aegypti \u00e9 importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
-      "publishedAt": "2023-11-19 14:17:26",
-      "content": "O Dia Nacional de Combate ao Aedes aegypti, celebrado neste domingo, 19, \u00e9 uma data importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito, tr\u2026 [+2521 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.677982",
-      "internal_id": "db79a98e45bf93f7c2e30bc09a7321179724a180bc48f7e7159721241bd72e93",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3226,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 6 more die; 1,291 hospitalised in 24hrs",
-      "description": "So far, the DGHS has recorded 3,01,255 dengue cases and 2,94,757 recoveries this year",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-19 13:37:21",
-      "content": "Six more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,549 this year. During the period, 1,291 more pati\u2026 [+425 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.723368",
-      "internal_id": "f4c9d17832ebd17d6044287facf298dfd5b13e34c43a6253e89f29f9f25be307",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3227,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Malaria Prevalent in Southern Province - Report",
-      "description": "[New Times] The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease.",
-      "url": "https://allafrica.com/stories/202311190024.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-19 12:51:06",
-      "content": "The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease. The Malaria and \u2026 [+2763 chars]",
-      "retrievedAt": "2023-11-20 19:05:43.783726",
-      "internal_id": "367f278c0feb2774c6b1ae37295149cc9133c3cb4cfee66a6db3fa1b8e6bba71",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3225,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "\u00bfPor qu\u00e9 una segunda infecci\u00f3n de dengue puede ser peor que la primera?",
-      "description": "La forma como act\u00faa el virus y la respuesta de nuestro sistema inmunitario cuando ocurre un nuevo contagio favorecen una mayor infecci\u00f3n, que incluso podr\u00eda derivar en dengue grave.",
-      "url": "https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/",
-      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
-      "publishedAt": "2023-11-19 11:03:00",
-      "content": "Una de las principales preguntas que giran alrededor del dengue es por qu\u00e9 las personas pueden tener complicaciones m\u00e1s graves cuando sufren una segunda infecci\u00f3n.Para responder mejor esta pregunta, \u2026 [+5223 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.714769",
-      "internal_id": "d7c3cf7b0830d3c038900f0bcbfb4d40e213458b4125fd6229025f1766308f6b",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3224,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "Dengue cerrar\u00eda 2023 con mayor repunte de casos de \u00faltima d\u00e9cada",
-      "description": "Costa Rica acumul\u00f3 21.396 casos a inicios de noviembre; cinco personas han sufrido dengue grave este a\u00f1o y Salud investiga una posible muerte por esa enfermedad.",
-      "url": "https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/",
-      "urlToImage": "https://www.nacion.com/resizer/PiATf3lWvk3ueCCDZT1C1-o3WmE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/U5XOPZMSYRCBTK6C32OILYZUBQ.jpg",
-      "publishedAt": "2023-11-19 11:00:00",
-      "content": "El 2023 se perfila para convertirse en el a\u00f1o de mayor incidencia de dengue en la \u00faltima d\u00e9cada. En las primeras 44 semanas del a\u00f1o, Costa Rica registraba 21.396 casos de esta enfermedad y se ubicaba\u2026 [+8541 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.703435",
-      "internal_id": "fef8a298698213ce4eb1bcc58133f8f3fb269f774ab785bc9e0c16e91d1c5014",
       "publishedAtLabel": "Nov 19"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-01-05 07:05
-- **Most recent article:** 2024-01-04 06:00:32
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-01-05 19:05
+- **Most recent article:** 2024-01-04 18:58:37
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 45 | 62 | 42 | 69 | 37 | 2 | 26 | 324 |
-| malaria | 37 | 33 | 26 | 24 | 24 | 22 | 2 | 7 | 175 |
-| mpox | 16 | 18 | 15 | 24 | 15 | 12 | 0 | 0 | 100 |
+| dengue | 36 | 45 | 62 | 42 | 69 | 37 | 2 | 33 | 326 |
+| malaria | 36 | 33 | 26 | 24 | 24 | 22 | 2 | 8 | 175 |
+| mpox | 16 | 18 | 15 | 24 | 15 | 12 | 0 | 1 | 101 |
 | measles | 11 | 4 | 5 | 7 | 28 | 7 | 1 | 3 | 66 |
-| zika | 6 | 10 | 15 | 9 | 5 | 1 | 0 | 4 | 50 |
-| chikungunya | 7 | 10 | 10 | 11 | 4 | 3 | 1 | 1 | 47 |
+| zika | 5 | 10 | 15 | 9 | 5 | 1 | 0 | 4 | 49 |
+| chikungunya | 6 | 10 | 10 | 11 | 4 | 3 | 1 | 1 | 46 |
 | rabies | 8 | 9 | 4 | 7 | 2 | 7 | 1 | 1 | 39 |
-| meningitis | 0 | 4 | 8 | 9 | 4 | 4 | 0 | 1 | 30 |
+| meningitis | 0 | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 31 |
 | pertussis | 6 | 4 | 2 | 4 | 2 | 0 | 0 | 4 | 22 |
 | leptospirosis | 3 | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 15 |
 | typhoid | 1 | 0 | 3 | 0 | 3 | 2 | 0 | 1 | 10 |
@@ -62,7 +62,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Whooping cough outbreak in Suffolk County: health officials](https://pix11.com/news/local-news/long-island/suffolk-county-health-officials-warn-of-whooping-cough-outbreak/) (WPIX 11 New York)
 
+## 24-1 (mpox)
+
+- [STI diagnoses jump almost 30 per cent after free home testing surge](https://www.dublinlive.ie/news/health/sti-diagnoses-jump-almost-30-28389933) (Dublin Live)
+
 ## 24-1 (meningitis)
+
+- [Baby formula recalled over bacteria contamination fears](https://www.bbc.co.uk/news/uk-67880812) (BBC News)
 
 - [Memories Aren’t Enough: Why Sometimes Only Fiction Can Solve the Mysteries of Life](https://lithub.com/memories-arent-enough-why-sometimes-only-fiction-can-solve-the-mysteries-of-life/) (Lithub.com)
 
@@ -75,6 +81,8 @@ Source: [News API](https://newsapi.org/)
 - [Thousands of Doses of Childhood Vaccines Enter Gaza: Palestinian Health Ministry](https://www.voanews.com/a/thousands-of-doses-of-childhood-vaccines-enter-gaza-palestinian-health-ministry/7420017.html) (VOA News)
 
 ## 24-1 (malaria)
+
+- [Hydroxychloroquine could have caused 17,000 deaths during COVID, study finds](https://www.politico.eu/article/hydroxychloroquine-could-have-caused-17000-deaths-during-covid-study-finds/) (POLITICO.eu)
 
 - [GeoVax Announces Issuance of Malaria Vaccine Patent](https://www.globenewswire.com/news-release/2024/01/03/2803354/0/en/GeoVax-Announces-Issuance-of-Malaria-Vaccine-Patent.html) (GlobeNewswire)
 
@@ -91,6 +99,20 @@ Source: [News API](https://newsapi.org/)
 - [Andhra govt to grant occupational health allowance to sanitation workers](https://timesofindia.indiatimes.com/india/andhra-govt-to-grant-occupational-health-allowance-to-sanitation-workers/articleshow/106457346.cms) (The Times of India)
 
 ## 24-1 (dengue)
+
+- [Miles de casos de dengue: la otra emergencia después de Otis en Acapulco](https://www.sopitas.com/noticias/miles-casos-dengue-emergencia-otis-acapulco-mexico/) (Sopitas.com)
+
+- [Vacinação contra a dengue no SUS: o que você precisa saber](https://www.terra.com.br/vida-e-estilo/saude/vacinacao-contra-a-dengue-no-sus-o-que-voce-precisa-saber,9b8b2235de9b7ae651b21a2f089aec5a688kom0d.html) (Terra.com.br)
+
+- [Vacina contra a dengue: entenda como funciona o processo de imunização](https://brasilescola.uol.com.br/noticias/comeca-campanha-de-vacinacao-contra-a-dengue/3129934.html) (Uol.com.br)
+
+- [The mosquito knows no borders: Regional challenges for global confrontation in the dengue battle](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011830) (Plos.org)
+
+- [Dourados é a 1ª cidade a começar vacinação em massa contra dengue](https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-04/dourados-e-a-1-cidade-a-comecar-vacinacao-em-massa-contra-dengue.html) (Ig.com.br)
+
+- [Vacinação contra a dengue no SUS: o que você precisa saber](https://www.terra.com.br/noticias/vacinacao-contra-a-dengue-no-sus-o-que-voce-precisa-saber,9b8b2235de9b7ae651b21a2f089aec5a688kom0d.html) (Terra.com.br)
+
+- [Vacinação contra a dengue no SUS: o que você precisa saber](https://www.dw.com/pt-br/vacina%C3%A7%C3%A3o-contra-a-dengue-no-sus-o-que-voc%C3%AA-precisa-saber/a-67888146) (DW (English))
 
 - [Orașul Dourados din Brazilia a început vaccinarea în masă împotriva infecției cu virusul Dengue](https://www.digi24.ro/stiri/externe/mapamond/orasul-dourados-din-brazilia-a-inceput-vaccinarea-in-masa-impotriva-infectiei-cu-virusul-dengue-2636993) (Digi24.ro)
 
@@ -1670,8 +1692,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tijgermug gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'](https://www.nu.nl/dieren/6290510/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html) (Www.nu.nl)
 
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
-
 ## 23-47 (typhoid)
 
 - [Will Gang War Divide Like Civil War Did? Amazing Spider-Man Spoilers](https://bleedingcool.com/comics/will-gang-war-divide-like-civil-war-did-amazing-spider-man-spoilers/) (Bleeding Cool News)
@@ -1840,8 +1860,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Los pesticidas anti mosquitos son 10 veces más efectivos cuando se combinan con pequeñas cantidades de jabón](https://www.infosalus.com/salud-investigacion/noticia-pesticidas-anti-mosquitos-son-10-veces-mas-efectivos-cuando-combinan-pequenas-cantidades-jabon-20231120070347.html) (Infosalus.com)
 
-- [Malaria Prevalent in Southern Province - Report](https://allafrica.com/stories/202311190024.html) (AllAfrica - Top Africa News)
-
 ## 23-47 (leptospirosis)
 
 - [Leptospirosis vaccine for dogs voluntarily recalled following 'adverse reactions', including one death](https://www.abc.net.au/news/2023-11-23/voluntary-recall-leptospirosis-vaccine-dogs-adverse-reactions/103141524) (ABC News (AU))
@@ -1924,16 +1942,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Campinas ultrapassa 10 mil casos de dengue e Saúde reforça apelo à população para prevenção](https://g1.globo.com/sp/campinas-regiao/noticia/2023/11/19/campinas-ultrapassa-10-mil-casos-de-dengue-e-saude-reforca-apelo-a-populacao-para-prevencao.ghtml) (Globo)
 
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
-
-- [Dengue cai 97% no Brasil, mas atenção ainda é necessária](https://catracalivre.com.br/saude-bem-estar/dengue-brasil/) (Catracalivre.com.br)
-
-- [Dengue: 6 more die; 1,291 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446) (Tbsnews.net)
-
-- [¿Por qué una segunda infección de dengue puede ser peor que la primera?](https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/) (Nacion.com)
-
-- [Dengue cerraría 2023 con mayor repunte de casos de última década](https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/) (Nacion.com)
-
 ## 23-47 (chikungunya)
 
 - [Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laboratório](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/prefeitura-de-bh-solta-8000-mosquitos-aedes-aegypti-modificados-em-laboratorio-22112023) (R7.com)
@@ -1947,5 +1955,3 @@ Source: [News API](https://newsapi.org/)
 - [Calor e chuva podem aumentar casos de dengue no país](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/calor-e-chuva-podem-aumentar-casos-de-dengue-no-pais-21112023) (R7.com)
 
 - [Vaccine Against Chikungunya Approved By The FDA. Should You Get It?](https://www.forbes.com/sites/markkortepeter/2023/11/20/vaccine-against-chikungunya-approved-by-the-fda-should-you-get-it/) (Forbes)
-
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
