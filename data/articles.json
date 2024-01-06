@@ -1,8 +1,224 @@
 {
-  "last_updated": "2024-01-05 19:05",
-  "count_articles_total": 821,
-  "count_articles_new": 10,
+  "last_updated": "2024-01-06 07:05",
+  "count_articles_total": 839,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 4080,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alan Rios",
+      "title": "Boletim revela aumento dos casos de dengue em todas as regi\u00f5es do DF",
+      "description": "Monitoramento da Secretaria de Sa\u00fade mostrou \"aumento importante da incid\u00eancia de dengue em todas as regi\u00f5es administrativas\" em dezembro",
+      "url": "https://www.metropoles.com/distrito-federal/boletim-revela-aumento-dos-casos-de-dengue-em-todas-as-regioes-do-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/07180117/mosquito-dengue-foco-goiania-goias-3.jpeg",
+      "publishedAt": "2024-01-05 05:12:25",
+      "content": "O boletim epidemiol\u00f3gico mais recente divulgado pela Secretaria de Sa\u00fade (SES-DF) mostrou aumento da incid\u00eancia de casos de dengue em todas as regi\u00f5es administrativas do Distrito Federal. O monitoram\u2026 [+1926 chars]",
+      "retrievedAt": "2024-01-06 07:05:40.654495",
+      "internal_id": "4c201ead71796912a1371af68a84e3397ca97cab4d638232ce36dc3257cd8fa8",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4078,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Audacy.com",
+      "author": "Pat Loeb",
+      "title": "Philly measles outbreak has health officials urging caution",
+      "description": "City health officials are warning that there has been a cluster of measles cases in the last few weeks and they\u2019re urging residents to take steps to protect themselves and others.",
+      "url": "https://www.audacy.com/kywnewsradio/news/local/philly-measles-outbreak-has-health-officials-urging-caution",
+      "urlToImage": "https://images.radio.com/aiu-media/GettyImages495311679-c2e6df2b-7c73-4a6a-99ab-26f7d71acc3e.jpg",
+      "publishedAt": "2024-01-05 04:39:54",
+      "content": "PHILADELPHIA (KYW Newsradio) \u2014 City health officials are warning that there has been a cluster of measles cases in the last few weeks and they\u2019re urging residents to take steps to protect themselves \u2026 [+5099 chars]",
+      "retrievedAt": "2024-01-06 07:05:40.123078",
+      "internal_id": "84c8f690842b2ebe4286938ebd339320e90a102be7e9897f9ce267a4e997c536",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4074,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Naked Scientists",
+      "author": "The Naked Scientists",
+      "title": "Measles outbreaks, and terrorist chatbots",
+      "description": "In this edition of The Naked Scientists, What can be done to reverse a dramatic rise in measles cases around the world? We'll also be exploring Japan's susceptibility to incredibly powerful earthquakes. Plus, what may have prompted early humans to adapt the w\u2026",
+      "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/measles-outbreaks-and-terrorist-chatbots",
+      "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/images/g946a3e6d49ac903f96d4eebf507566a21d4a51fa884c8a971a40045022401c0e6d4240aad5dbed8737cac1f92bef45c4d718a2620079de662e440ba91cd29ed6_1280.jpg?itok=G2Z69tw2",
+      "publishedAt": "2024-01-05 02:34:50",
+      "content": "Authorities in Japan have confirmed that dozens of people were killed when a 7.5 moment magnitude earthquake struck the Noto peninsula on New Year's Day. The island nation is located in one of the mo\u2026 [+6383 chars]",
+      "retrievedAt": "2024-01-06 07:05:40.104950",
+      "internal_id": "4b9aac4bd8e250146934ce13e4ddd63a396520b31bc02db6ddae64fed63afb1f",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4083,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Classifying the natural history of asymptomatic malaria",
+      "description": "The dynamic lifecycle of the malaria parasite means that the density of the Plasmodium can suddenly drop below the level of detection in asymptomatic people -- especially when older, less sensitive tests are used. Such fluctuations can make it difficult, when\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/01/240104210151.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-01-05 02:01:51",
+      "content": "Detecting malaria in people who aren't experiencing symptoms is vital to public health efforts to better control this tropical disease in places where the mosquito-borne parasite is common. Asymptoma\u2026 [+5170 chars]",
+      "retrievedAt": "2024-01-06 07:05:41.730990",
+      "internal_id": "a08398f443fae5af4b9b7c1396eae4283d9319072d997d8f864d315d3c9afe96",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4082,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Sri Lanka launches dengue eradication week",
+      "description": "COLOMBO, Jan. 4 (Xinhua) -- Sri Lanka's Health Ministry has declared a countrywide dengue prevention",
+      "url": "http://en.people.cn/n3/2024/0105/c90000-20118548.html",
+      "urlToImage": null,
+      "publishedAt": "2024-01-05 01:39:09",
+      "content": "(Xinhua) 09:28, January 05, 2024 COLOMBO, Jan. 4 (Xinhua) -- Sri Lanka's Health Ministry has declared a countrywide dengue prevention week from Jan. 7 to Jan. 13, said the National Dengue Control Un\u2026 [+682 chars]",
+      "retrievedAt": "2024-01-06 07:05:40.706961",
+      "internal_id": "6d240f4d8be9340e7b499014078ee49ac00effa1215a616b6eed684bdf53de56",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4079,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN/ SBH",
+      "title": "Muertes y casos de dengue se dispararon en 2023",
+      "description": "La cifra parcial representa un aumento de 283 por ciento con respecto a 2022, a\u00f1o en que se contabilizaron 53 fallecimientos por esta enfermedad al cierre del a\u00f1o.",
+      "url": "https://aristeguinoticias.com/0401/mexico/muertes-y-casos-de-dengue-se-dispararon-en-2023/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/01/muertes-por-dengue-mexico-04012024.jpg",
+      "publishedAt": "2024-01-05 01:07:00",
+      "content": "En 2023 se registraron 203 muertes por dengue, seg\u00fan el registro de la Secretar\u00eda de Salud. Sin embargo, la cifra a\u00fan podr\u00eda aumentar, pues a\u00fan est\u00e1n en estudio 357 casos. La cifra parcial represen\u2026 [+1518 chars]",
+      "retrievedAt": "2024-01-06 07:05:40.643455",
+      "internal_id": "e92a264246b0c3ba8538f326767ce3573e80c295cf1396840cba68e04d65da04",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4073,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Minneapolis Star Tribune",
+      "author": "Editorial Board",
+      "title": "Beware of bat risks",
+      "description": "Well-intentioned rescuers need to know the risks of rabies, a potentially fatal viral illness.",
+      "url": "https://www.startribune.com/beware-of-bat-risks/600332476/",
+      "urlToImage": "https://chorus.stimg.co/25203950/merlin_32699243.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2024-01-04 23:30:18",
+      "content": "Opinion editor's note:Editorials represent the opinions of the Star Tribune Editorial Board, which operates independently from the newsroom. Once considered a scary nuisance or worse, a fictional m\u2026 [+2366 chars]",
+      "retrievedAt": "2024-01-06 07:05:39.668087",
+      "internal_id": "f504c32a6b5ae8c93a1420278cc1b6bf2c6d5da4b4a97b65c3c2ddbdce17847d",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4075,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 29 News Philadelphia",
+      "author": "Fox 29 Philadelphia",
+      "title": "Philadelphia health officials announce more measles exposures in unvaccinated residents",
+      "description": "Additional clusters of measles have been identified in Philadelphia by health officials after they say one of the newest confirmed cases were caught at a day care that disregarded quarantine instructions.",
+      "url": "https://www.fox29.com/news/philadelphia-health-officials-announce-more-measles-exposures-in-unvaccinated-residents",
+      "urlToImage": "https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2019/04/1280/720/3cd2fbb6-measles20outbreak_1464909088351_1396954_ver1.0_1280_720.jpg?ve=1&tl=1",
+      "publishedAt": "2024-01-04 22:27:08",
+      "content": "PHILADELPHIA - The Philadelphia Department of Public Health has confirmed more clusters of measles among unvaccinated residents have hit the city. The department confirms at least five individuals \u2026 [+4772 chars]",
+      "retrievedAt": "2024-01-06 07:05:40.112819",
+      "internal_id": "7cdfcb7de8da6e9ebd1937f0591539519643946ad1e9304fea78bd3ab8b26829",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4076,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Taleisha Newbill",
+      "title": "Philadelphia Health confirms 3 measles cases, warns another exposure at day care and hospitals",
+      "description": "The Philadelphia Department of Public Health confirms three cases of measles in the area while warning the public of another exposure.",
+      "url": "https://www.cbsnews.com/philadelphia/news/philadelphia-department-public-health-measles-exposures/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/04/56bc74a6-8718-4f15-8218-b957dff754bd/thumbnail/1200x630/fe6af117fa40be0a0c4ca7527013ce0f/gettyimages-713781945.jpg?v=3638d056f7798fc8425d74271bc0b398",
+      "publishedAt": "2024-01-04 21:11:11",
+      "content": "PHILADELPHIA (CBS) -- The Philadelphia Department of Public Health reported additional measles exposures with three confirmed cases Thursday afternoon after warning the public of a possible measles e\u2026 [+3362 chars]",
+      "retrievedAt": "2024-01-06 07:05:40.116590",
+      "internal_id": "978f16b305e4aa9766069e7a8049d393f3b561617f5cb4079c4a13bb7d6cf0e1",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4081,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Vacina contra dengue no SUS: quem pode tomar e quando come\u00e7a a vacina\u00e7\u00e3o",
+      "description": "Brasil \u00e9 o primeiro pa\u00eds no mundo a oferecer o imunizante no sistema p\u00fablico de Sa\u00fade",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/04/vacina-contra-dengue-no-sus-quem-pode-tomar-e-quando-comeca-a-vacinacao.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ckO8Q23qh7WOZV4F3cxcZow6Cwo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/Q/g/5YpxMBScOkWuU3W1EBjA/dengue18.jpg",
+      "publishedAt": "2024-01-04 20:47:31",
+      "content": "A vacina Qdenga, que protege contra o v\u00edrus da dengue, foi incorporada ao Sistema \u00danico de Sa\u00fade (SUS). A popula\u00e7\u00e3o ter\u00e1 acesso gratuito ao imunizante, que, no primeiro momento, ser\u00e1 disponibilizada \u2026 [+7969 chars]",
+      "retrievedAt": "2024-01-06 07:05:40.698172",
+      "internal_id": "de4089379bc585d6b46cb279f6321578c4e5d4cb0a2277e0e93ef3b4866e24a4",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4077,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "6abc Digital Staff",
+      "title": "Philadelphia officials announce more locations of possible measles exposure",
+      "description": "There are now six locations where people may have been exposed to measles since late December, the City of Philadelphia Health Department said.",
+      "url": "https://6abc.com/philadelphia-measles-philly-explosure-department-of-public-health-what-is/14274357/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/5218949_032619-kgo-measles-img.jpg?w=1600",
+      "publishedAt": "2024-01-04 20:20:41",
+      "content": "PHILADELPHIA (WPVI) -- There are now six locations where people may have been exposed to measles since late December, the City of Philadelphia Health Department said. That includes five locations an\u2026 [+2860 chars]",
+      "retrievedAt": "2024-01-06 07:05:40.119615",
+      "internal_id": "2b9851946e64fbe4ba597dacba44e77750a7baa989c4cf9f53343cb2fdca0b7c",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 4072,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Melissa Rudy",
+      "title": "New York health officials warn of whooping cough outbreak among children",
+      "description": "An outbreak of whooping cough (pertussis) has been reported on Long Island, New York, according to health officials. A pharmacist and a medical doctor shared thoughts.",
+      "url": "https://www.foxnews.com/health/new-york-health-officials-warn-whooping-cough-outbreak-children",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/child-coughing.jpg",
+      "publishedAt": "2024-01-04 19:53:39",
+      "content": "An outbreak of whooping cough (pertussis) has been reported on Long Island, New York , according to health officials. On Dec. 30, 2023, Suffolk County Health Commissioner Dr. Gregson Pigott release\u2026 [+5083 chars]",
+      "retrievedAt": "2024-01-06 07:05:39.281498",
+      "internal_id": "6ba0292e25f498ae5ef4d9b00f13cd436cc00797015bc8b23b31629e20637a51",
+      "publishedAtLabel": "Jan 4"
+    },
     {
       "id": 4062,
       "query": [
@@ -14842,6 +15058,116 @@
       "content": "Em nota, a Secretaria de Sa\u00fade informou que est\u00e1 \"atenta aos indicadores da dengue e mant\u00e9m um trabalho incessante de combate \u00e0 doen\u00e7a, incluindo visitas aos im\u00f3veis para remo\u00e7\u00e3o de poss\u00edveis criadou\u2026 [+2226 chars]",
       "retrievedAt": "2023-11-21 07:05:50.965749",
       "internal_id": "cea4f014fe14e31fb2f88c12533799d7ae7ad8643f0a6245adf2a5880e1c9915",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3223,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ooe.orf.at",
+      "author": "ORF.at",
+      "title": "Ausbreitung der Tigerm\u00fccke soll verhindert werden",
+      "description": "In der kalten Jahreszeit denken wir eher selten daran: Gelsen. Beim Land allerdings laufen derzeit Bem\u00fchungen, das Ausbreiten neuer, gef\u00e4hrlicher Gelsenarten zu verhindern \u2013 indem ihnen das \u00dcberwintern unm\u00f6glich gemacht wird. Jede und jeder kann dabei auch he\u2026",
+      "url": "https://ooe.orf.at/stories/3233128/",
+      "urlToImage": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2019%2F44%2F84%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F349803_master_111884_gelbfiebermuecke_uebertraegt_zika-virus_.jpg%3Fs%3Db76ef4fafbe9d00bb5a0c6a537879a7b4e2e19de",
+      "publishedAt": "2023-11-19 16:36:56",
+      "content": "Im Zentralraum hat es heuer wiederholt Funde der Asiatischen Tigerm\u00fccke gegeben. Sie ist am Tag aktiv und kann schwere Krankheiten wie das Dengue-Fieber, das ZIKA-Virus oder Chikungunya \u00fcbertragen. D\u2026 [+687 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.696590",
+      "internal_id": "2e25492edb53880fa764727115a5d9a67681d395ce9a45f1499a0a511d33e526",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3222,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Dengue cai 97% no Brasil, mas aten\u00e7\u00e3o ainda \u00e9 necess\u00e1ria",
+      "description": "O Dia Nacional de Combate ao Aedes aegypti \u00e9 importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito.",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-brasil/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
+      "publishedAt": "2023-11-19 14:17:26",
+      "content": "O Dia Nacional de Combate ao Aedes aegypti, celebrado neste domingo, 19, \u00e9 uma data importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito, tr\u2026 [+2521 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.677982",
+      "internal_id": "db79a98e45bf93f7c2e30bc09a7321179724a180bc48f7e7159721241bd72e93",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3226,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Unb",
+      "title": "Dengue: 6 more die; 1,291 hospitalised in 24hrs",
+      "description": "So far, the DGHS has recorded 3,01,255 dengue cases and 2,94,757 recoveries this year",
+      "url": "https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
+      "publishedAt": "2023-11-19 13:37:21",
+      "content": "Six more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,549 this year. During the period, 1,291 more pati\u2026 [+425 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.723368",
+      "internal_id": "f4c9d17832ebd17d6044287facf298dfd5b13e34c43a6253e89f29f9f25be307",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3227,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Malaria Prevalent in Southern Province - Report",
+      "description": "[New Times] The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease.",
+      "url": "https://allafrica.com/stories/202311190024.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-11-19 12:51:06",
+      "content": "The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease. The Malaria and \u2026 [+2763 chars]",
+      "retrievedAt": "2023-11-20 19:05:43.783726",
+      "internal_id": "367f278c0feb2774c6b1ae37295149cc9133c3cb4cfee66a6db3fa1b8e6bba71",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3225,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "\u00bfPor qu\u00e9 una segunda infecci\u00f3n de dengue puede ser peor que la primera?",
+      "description": "La forma como act\u00faa el virus y la respuesta de nuestro sistema inmunitario cuando ocurre un nuevo contagio favorecen una mayor infecci\u00f3n, que incluso podr\u00eda derivar en dengue grave.",
+      "url": "https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/",
+      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
+      "publishedAt": "2023-11-19 11:03:00",
+      "content": "Una de las principales preguntas que giran alrededor del dengue es por qu\u00e9 las personas pueden tener complicaciones m\u00e1s graves cuando sufren una segunda infecci\u00f3n.Para responder mejor esta pregunta, \u2026 [+5223 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.714769",
+      "internal_id": "d7c3cf7b0830d3c038900f0bcbfb4d40e213458b4125fd6229025f1766308f6b",
+      "publishedAtLabel": "Nov 19"
+    },
+    {
+      "id": 3224,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Dengue cerrar\u00eda 2023 con mayor repunte de casos de \u00faltima d\u00e9cada",
+      "description": "Costa Rica acumul\u00f3 21.396 casos a inicios de noviembre; cinco personas han sufrido dengue grave este a\u00f1o y Salud investiga una posible muerte por esa enfermedad.",
+      "url": "https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/",
+      "urlToImage": "https://www.nacion.com/resizer/PiATf3lWvk3ueCCDZT1C1-o3WmE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/U5XOPZMSYRCBTK6C32OILYZUBQ.jpg",
+      "publishedAt": "2023-11-19 11:00:00",
+      "content": "El 2023 se perfila para convertirse en el a\u00f1o de mayor incidencia de dengue en la \u00faltima d\u00e9cada. En las primeras 44 semanas del a\u00f1o, Costa Rica registraba 21.396 casos de esta enfermedad y se ubicaba\u2026 [+8541 chars]",
+      "retrievedAt": "2023-11-20 19:05:42.703435",
+      "internal_id": "fef8a298698213ce4eb1bcc58133f8f3fb269f774ab785bc9e0c16e91d1c5014",
       "publishedAtLabel": "Nov 19"
     }
   ]
