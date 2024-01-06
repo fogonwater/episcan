@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-01-06 07:05",
-  "count_articles_total": 839,
-  "count_articles_new": 12,
+  "last_updated": "2024-01-06 19:05",
+  "count_articles_total": 842,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 4088,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Revistaoeste.com",
+      "author": "Revista Oeste - Internacional",
+      "title": "Argentina enfrenta \u2018invas\u00e3o\u2019 de aedes aegypti e bate recorde de casos de dengue",
+      "description": "Surto da doen\u00e7a est\u00e1 localizado principalmente em Buenos Aires O post Argentina enfrenta \u2018invas\u00e3o\u2019 de aedes aegypti e bate recorde...",
+      "url": "https://revistaoeste.com/mundo/argentina-enfrenta-invasao-de-aedes-aegypti-e-bate-recorde-de-casos-de-dengue/",
+      "urlToImage": "https://medias.revistaoeste.com/qa-staging/wp-content/uploads/2022/11/dengue-flickr.jpg",
+      "publishedAt": "2024-01-05 17:53:34",
+      "content": "A Argentina registrou 135 mil pessoas infectadas e 68 mortes por dengue em 2023, batendo recorde hist\u00f3rico da doen\u00e7a no pa\u00eds. O surto est\u00e1 localizado principalmente na regi\u00e3o na capital, Buenos Aires\u2026 [+1327 chars]",
+      "retrievedAt": "2024-01-06 19:05:23.855442",
+      "internal_id": "6a33cf44d587a9a4ae2df7f8918b8a6fd30583e623b6612ca1f59dacc42e5796",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4084,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "espn-cric-info",
+      "source_name": "ESPN Cric Info",
+      "author": "Andrew Fidel Fernando",
+      "title": "Pathum Nissanka ruled out of Zimbabwe ODIs with suspected dengue",
+      "description": "Shevon Daniel replaces Nissanka, who will miss the T20Is if diagnosed with dengue",
+      "url": "https://www.espncricinfo.com/story/pathum-nissanka-ruled-out-of-zimbabwe-odis-with-suspected-case-of-dengue-1415692",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/370700/370756.6.jpg",
+      "publishedAt": "2024-01-05 16:36:05",
+      "content": "NewsShevon Daniel replaces Nissanka, who will miss the T20Is if diagnosed with dengue Andrew Fidel Fernando is a writer at ESPNcricinfo. @afidelf",
+      "retrievedAt": "2024-01-06 19:05:23.800577",
+      "internal_id": "4d17cd3888f57efea457fdbf9cd022dd17afb9754bb025b61527ffcf6341c0fe",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4087,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Dengue: cientistas desenvolvem inseticida com planta da Mata Atl\u00e2ntica",
+      "description": "O inseticida natural e biodegrad\u00e1vel demonstrou alta especificidade contra a larva do mosquito Aedes aegypti, causador da dengue",
+      "url": "https://www.metropoles.com/saude/dengue-inseticida-planta-aedes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/12/15114121/Dengue_Aedes_Aegypti_Casos.jpg",
+      "publishedAt": "2024-01-05 16:15:57",
+      "content": "Cientistas brasileiros desenvolveram um inseticida capaz de matar a larva do mosquito Aedes aegypti, causador da dengue, a partir de uma planta nativa da Mata Atl\u00e2ntica. O produto foi criado com \u00f3le\u2026 [+4711 chars]",
+      "retrievedAt": "2024-01-06 19:05:23.835725",
+      "internal_id": "43a58439a7619c2cd66d62237aac8f02dd8dd81f900f9ec262df4063e20413ff",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4085,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "KRISTY INUS",
+      "title": "Dengue: Take preventive measures during monsoon season, says Sabah Health Dept",
+      "description": "KOTA KINABALU: The Sabah Health Department is reminding the public to take preventive measures to combat dengue following more rainfalls predicted this month and the next with the monsoon season. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/01/05/dengue-take-preventive-measures-during-monsoon-season-says-sabah-health-dept",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/05/2476585.jpg",
+      "publishedAt": "2024-01-05 15:08:00",
+      "content": "KOTA KINABALU: The Sabah Health Department is reminding the public to take preventive measures to combat dengue following more rainfalls predicted this month and the next with the monsoon season. Am\u2026 [+2105 chars]",
+      "retrievedAt": "2024-01-06 19:05:23.811520",
+      "internal_id": "64562bea722ec8dca7bb5ea76c8f0238d72561860478e8e2d5518ed330c5e3d6",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4091,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Jon Garay",
+      "title": "Al menos 2.000 personas murieron en Espa\u00f1a por tomar hidroxicloroquina, el medicamento que recetaron Trump y Bolsonaro contra el covid",
+      "description": "Un estudio calcula en 17.0000 los fallecidos en varios pa\u00edses por el uso inadecuado de un f\u00e1rmaco que habitualmente se usa para la malaria, pero que fue promovido para tratar las infecciones por SARS-CoV-2",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2024/01/05/17000-personas-murieron-tomar-hidroxicloroquina-medicamento-recetaron-trump-bolsonaro-contra-covid/00031704464010451312260.htm",
+      "urlToImage": "https://www.lavozdegalicia.es/default/2024/01/05/00121704465361923137660/Foto/reu_20231220_005645671.jpg",
+      "publishedAt": "2024-01-05 14:42:00",
+      "content": "En los meses que transcurrieron desde que estall la primera oleada de la pandemia de covid en marzo del 2020 y la llegada de las primeras vacunas a finales de ese mismo ao -en Espaa, como en el resto\u2026 [+5375 chars]",
+      "retrievedAt": "2024-01-06 19:05:24.862553",
+      "internal_id": "7d7ee0c2421cdf95036089ac06f2e1d6954002fad1e36235d50094529933c868",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4090,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "Health D-G: Dengue cases down 6.8pc in from Dec 24 to 30, four deaths reported",
+      "description": "PUTRAJAYA, Jan 5 \u2014 The number of dengue cases for the 52nd Epidemiological Week (ME52) of December 24-30 dropped by 6.8 per cent to 2,715 cases compared to 2,913 cases in the...",
+      "url": "https://www.malaymail.com/news/malaysia/2024/01/05/health-d-g-dengue-cases-down-68pc-in-from-dec-24-to-30-four-deaths-reported/110830",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2024/01/05/thumbs/400x400/176443.jpg",
+      "publishedAt": "2024-01-05 11:21:28",
+      "content": "PUTRAJAYA, Jan 5 The number of dengue cases for the 52nd Epidemiological Week (ME52) of December 24-30 dropped by 6.8 per cent to 2,715 cases compared to 2,913 cases in the previous week. Health dir\u2026 [+1040 chars]",
+      "retrievedAt": "2024-01-06 19:05:23.909050",
+      "internal_id": "1f667ee7734cc93ba14c6cd1716f8a8c943b0c41f04b0953c14a29b5a9c643f7",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4089,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases down 6.8 percent in ME52. Four deaths reported, says Health DG",
+      "description": "PUTRAJAYA: The number of dengue cases for the 52nd Epidemiological Week (ME52) of Dec 24-30 dropped by 6.8% to 2,715 cases compared to 2,913 cases in the previous week. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/01/05/dengue-cases-down-68-percent-in-me52-four-deaths-reported-says-health-dg",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/05/2476068.jpg",
+      "publishedAt": "2024-01-05 11:03:00",
+      "content": "PUTRAJAYA: The number of dengue cases for the 52nd Epidemiological Week (ME52) of Dec 24-30 dropped by 6.8% to 2,715 cases compared to 2,913 cases in the previous week. Health director-general Datuk\u2026 [+1029 chars]",
+      "retrievedAt": "2024-01-06 19:05:23.888715",
+      "internal_id": "ba1f0c97ebdf8572cf2bdbe2b7be76c9a6af4f97da807a0b7cea8f45cf38f240",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4092,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "Martina Proch\u00e1zkov\u00e1",
+      "title": "O va\u0161\u00ed nespokojenosti i touh\u00e1ch mluvte po sexu nebo v aut\u011b, rad\u00ed lektorka",
+      "description": "Co nej\u010dast\u011bji zp\u016fsobuje sexu\u00e1ln\u00ed traumata? Nezpracovan\u00e9 z\u00e1\u017eitky z na\u0161eho d\u011btstv\u00ed, \u0161patn\u00e1 komunikace a z\u00e1vislost na pornografii. Hostem podcastu NA KAFI byla terapeutka a lektorka v sexu\u00e1ln\u00ed oblasti Mark\u00e9ta Zika Koppov\u00e1. U mikrofonu jsme \u0159e\u0161ily, jak moc n\u00e1m ni\u2026",
+      "url": "https://www.idnes.cz/onadnes/vztahy/podcast-na-kafi-sexualni-terapeurka-lektorka-marketa-zika-koppova.A231207_114412_ona-vztahy_taj",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2023/12/ona/DAV8354201d41_142844_2823857.jpg",
+      "publishedAt": "2024-01-05 09:00:00",
+      "content": "Lid\u00e9 jsou dnes mnohem ochotnj\u00ed o sv\u00e9 sexualit mluvit, to se rozhodn lep\u00ed. Ale z\u00e1le\u00ed na tom, jak komunikuj\u00ed. Nedostaten\u00e1 i patn\u00e1 komunikace o sexualit, obzvl\u00e1t v partnerstv\u00ed, je astou p\u00edinou rzn\u00fdch po\u2026 [+3734 chars]",
+      "retrievedAt": "2024-01-06 19:05:25.353336",
+      "internal_id": "a5be5c72e49a25822d0818e5a2164848e2dfc554e15a5fdbcef48c79cddc69b1",
+      "publishedAtLabel": "Jan 5"
+    },
+    {
+      "id": 4086,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornada.com.mx",
+      "author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "title": "Aumentan contagios de dengue en Acapulco a ra\u00edz de Otis",
+      "description": "Acapulco, Gro., Autoridades de Salud pidieron a la poblaci\u00f3n tomar medidas preventivas para evitar la reproducci\u00f3n del mosco transmisor del dengue debido al incremento de casos en Acapulco, los cuales repuntaron a ra\u00edz del paso del hurac\u00e1n Otis, el 25 de octu\u2026",
+      "url": "https://www.jornada.com.mx/2024/01/05/estados/023n3est",
+      "urlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
+      "publishedAt": "2024-01-05 08:42:32",
+      "content": "Peri\u00f3dico La JornadaViernes 5 de enero de 2024, p. 23 Acapulco, Gro., Autoridades de Salud pidieron a la poblaci\u00f3n tomar medidas preventivas para evitar la reproducci\u00f3n del mosco transmisor del deng\u2026 [+2008 chars]",
+      "retrievedAt": "2024-01-06 19:05:23.827052",
+      "internal_id": "8e72a023f7de7af9703d53aa47189a2fb7ccfa93fa7dc94a3653f3465b65ccb0",
+      "publishedAtLabel": "Jan 5"
+    },
     {
       "id": 4080,
       "query": [
@@ -15058,116 +15220,6 @@
       "content": "Em nota, a Secretaria de Sa\u00fade informou que est\u00e1 \"atenta aos indicadores da dengue e mant\u00e9m um trabalho incessante de combate \u00e0 doen\u00e7a, incluindo visitas aos im\u00f3veis para remo\u00e7\u00e3o de poss\u00edveis criadou\u2026 [+2226 chars]",
       "retrievedAt": "2023-11-21 07:05:50.965749",
       "internal_id": "cea4f014fe14e31fb2f88c12533799d7ae7ad8643f0a6245adf2a5880e1c9915",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3223,
-      "query": [
-        "dengue",
-        "zika",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ooe.orf.at",
-      "author": "ORF.at",
-      "title": "Ausbreitung der Tigerm\u00fccke soll verhindert werden",
-      "description": "In der kalten Jahreszeit denken wir eher selten daran: Gelsen. Beim Land allerdings laufen derzeit Bem\u00fchungen, das Ausbreiten neuer, gef\u00e4hrlicher Gelsenarten zu verhindern \u2013 indem ihnen das \u00dcberwintern unm\u00f6glich gemacht wird. Jede und jeder kann dabei auch he\u2026",
-      "url": "https://ooe.orf.at/stories/3233128/",
-      "urlToImage": "https://ibs.orf.at/ooe?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2019%2F44%2F84%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F349803_master_111884_gelbfiebermuecke_uebertraegt_zika-virus_.jpg%3Fs%3Db76ef4fafbe9d00bb5a0c6a537879a7b4e2e19de",
-      "publishedAt": "2023-11-19 16:36:56",
-      "content": "Im Zentralraum hat es heuer wiederholt Funde der Asiatischen Tigerm\u00fccke gegeben. Sie ist am Tag aktiv und kann schwere Krankheiten wie das Dengue-Fieber, das ZIKA-Virus oder Chikungunya \u00fcbertragen. D\u2026 [+687 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.696590",
-      "internal_id": "2e25492edb53880fa764727115a5d9a67681d395ce9a45f1499a0a511d33e526",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3222,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Catracalivre.com.br",
-      "author": "Reda\u00e7\u00e3o",
-      "title": "Dengue cai 97% no Brasil, mas aten\u00e7\u00e3o ainda \u00e9 necess\u00e1ria",
-      "description": "O Dia Nacional de Combate ao Aedes aegypti \u00e9 importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito.",
-      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-brasil/",
-      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
-      "publishedAt": "2023-11-19 14:17:26",
-      "content": "O Dia Nacional de Combate ao Aedes aegypti, celebrado neste domingo, 19, \u00e9 uma data importante para lembrar da import\u00e2ncia da conscientiza\u00e7\u00e3o e da colabora\u00e7\u00e3o de todos para o controle do mosquito, tr\u2026 [+2521 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.677982",
-      "internal_id": "db79a98e45bf93f7c2e30bc09a7321179724a180bc48f7e7159721241bd72e93",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3226,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Tbsnews.net",
-      "author": "Unb",
-      "title": "Dengue: 6 more die; 1,291 hospitalised in 24hrs",
-      "description": "So far, the DGHS has recorded 3,01,255 dengue cases and 2,94,757 recoveries this year",
-      "url": "https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446",
-      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/09/04/dengue_ward_rajibdhar_0288.jpg",
-      "publishedAt": "2023-11-19 13:37:21",
-      "content": "Six more deaths were reported from dengue in 24 hours till Sunday morning, raising the fatalities from the mosquito-borne disease in Bangladesh to 1,549 this year. During the period, 1,291 more pati\u2026 [+425 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.723368",
-      "internal_id": "f4c9d17832ebd17d6044287facf298dfd5b13e34c43a6253e89f29f9f25be307",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3227,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Malaria Prevalent in Southern Province - Report",
-      "description": "[New Times] The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease.",
-      "url": "https://allafrica.com/stories/202311190024.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-11-19 12:51:06",
-      "content": "The Rwanda Biomedical Center (RBC) has shed light on the regions grappling with high occurrences of malaria, highlighting the Southern Province as the most prevalent to the disease. The Malaria and \u2026 [+2763 chars]",
-      "retrievedAt": "2023-11-20 19:05:43.783726",
-      "internal_id": "367f278c0feb2774c6b1ae37295149cc9133c3cb4cfee66a6db3fa1b8e6bba71",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3225,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "\u00bfPor qu\u00e9 una segunda infecci\u00f3n de dengue puede ser peor que la primera?",
-      "description": "La forma como act\u00faa el virus y la respuesta de nuestro sistema inmunitario cuando ocurre un nuevo contagio favorecen una mayor infecci\u00f3n, que incluso podr\u00eda derivar en dengue grave.",
-      "url": "https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/",
-      "urlToImage": "https://www.nacion.com/resizer/IKi82gCnccm4cffDeui_kyI_Y28=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/GINAPL6IOFBBJJQKGADAIDPVXU.jpg",
-      "publishedAt": "2023-11-19 11:03:00",
-      "content": "Una de las principales preguntas que giran alrededor del dengue es por qu\u00e9 las personas pueden tener complicaciones m\u00e1s graves cuando sufren una segunda infecci\u00f3n.Para responder mejor esta pregunta, \u2026 [+5223 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.714769",
-      "internal_id": "d7c3cf7b0830d3c038900f0bcbfb4d40e213458b4125fd6229025f1766308f6b",
-      "publishedAtLabel": "Nov 19"
-    },
-    {
-      "id": 3224,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Irene Rodr\u00edguez",
-      "title": "Dengue cerrar\u00eda 2023 con mayor repunte de casos de \u00faltima d\u00e9cada",
-      "description": "Costa Rica acumul\u00f3 21.396 casos a inicios de noviembre; cinco personas han sufrido dengue grave este a\u00f1o y Salud investiga una posible muerte por esa enfermedad.",
-      "url": "https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/",
-      "urlToImage": "https://www.nacion.com/resizer/PiATf3lWvk3ueCCDZT1C1-o3WmE=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/U5XOPZMSYRCBTK6C32OILYZUBQ.jpg",
-      "publishedAt": "2023-11-19 11:00:00",
-      "content": "El 2023 se perfila para convertirse en el a\u00f1o de mayor incidencia de dengue en la \u00faltima d\u00e9cada. En las primeras 44 semanas del a\u00f1o, Costa Rica registraba 21.396 casos de esta enfermedad y se ubicaba\u2026 [+8541 chars]",
-      "retrievedAt": "2023-11-20 19:05:42.703435",
-      "internal_id": "fef8a298698213ce4eb1bcc58133f8f3fb269f774ab785bc9e0c16e91d1c5014",
       "publishedAtLabel": "Nov 19"
     }
   ]

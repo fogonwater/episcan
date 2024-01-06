@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-01-06 07:05
-- **Most recent article:** 2024-01-05 05:12:25
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-01-06 19:05
+- **Most recent article:** 2024-01-05 17:53:34
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-47 | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 45 | 62 | 42 | 69 | 37 | 2 | 37 | 335 |
-| malaria | 37 | 33 | 26 | 24 | 24 | 22 | 2 | 9 | 177 |
+| dengue | 36 | 45 | 62 | 42 | 69 | 37 | 2 | 44 | 337 |
+| malaria | 36 | 33 | 26 | 24 | 24 | 22 | 2 | 10 | 177 |
 | mpox | 16 | 18 | 15 | 24 | 15 | 12 | 0 | 1 | 101 |
 | measles | 11 | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 71 |
-| zika | 6 | 10 | 15 | 9 | 5 | 1 | 0 | 4 | 50 |
-| chikungunya | 7 | 10 | 10 | 11 | 4 | 3 | 1 | 1 | 47 |
+| zika | 5 | 10 | 15 | 9 | 5 | 1 | 0 | 5 | 50 |
+| chikungunya | 6 | 10 | 10 | 11 | 4 | 3 | 1 | 1 | 46 |
 | rabies | 8 | 9 | 4 | 7 | 2 | 7 | 1 | 2 | 40 |
 | meningitis | 0 | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 31 |
 | pertussis | 6 | 4 | 2 | 4 | 2 | 0 | 0 | 5 | 23 |
@@ -31,6 +31,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-1 (zika)
+
+- [O vaší nespokojenosti i touhách mluvte po sexu nebo v autě, radí lektorka](https://www.idnes.cz/onadnes/vztahy/podcast-na-kafi-sexualni-terapeurka-lektorka-marketa-zika-koppova.A231207_114412_ona-vztahy_taj) (Idnes.cz)
 
 - [Científicos argentinos esterilizan a mosquitos con energía atómica](https://sputniknews.lat/20240103/cientificos-argentinos-esterilizan-a-mosquitos-con-energia-atomica--1147088482.html) (Sputniknews.lat)
 
@@ -96,6 +98,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-1 (malaria)
 
+- [Al menos 2.000 personas murieron en España por tomar hidroxicloroquina, el medicamento que recetaron Trump y Bolsonaro contra el covid](https://www.lavozdegalicia.es/noticia/sociedad/2024/01/05/17000-personas-murieron-tomar-hidroxicloroquina-medicamento-recetaron-trump-bolsonaro-contra-covid/00031704464010451312260.htm) (Lavozdegalicia.es)
+
 - [Classifying the natural history of asymptomatic malaria](https://www.sciencedaily.com/releases/2024/01/240104210151.htm) (Science Daily)
 
 - [Hydroxychloroquine could have caused 17,000 deaths during COVID, study finds](https://www.politico.eu/article/hydroxychloroquine-could-have-caused-17000-deaths-during-covid-study-finds/) (POLITICO.eu)
@@ -115,6 +119,20 @@ Source: [News API](https://newsapi.org/)
 - [Andhra govt to grant occupational health allowance to sanitation workers](https://timesofindia.indiatimes.com/india/andhra-govt-to-grant-occupational-health-allowance-to-sanitation-workers/articleshow/106457346.cms) (The Times of India)
 
 ## 24-1 (dengue)
+
+- [Argentina enfrenta ‘invasão’ de aedes aegypti e bate recorde de casos de dengue](https://revistaoeste.com/mundo/argentina-enfrenta-invasao-de-aedes-aegypti-e-bate-recorde-de-casos-de-dengue/) (Revistaoeste.com)
+
+- [Pathum Nissanka ruled out of Zimbabwe ODIs with suspected dengue](https://www.espncricinfo.com/story/pathum-nissanka-ruled-out-of-zimbabwe-odis-with-suspected-case-of-dengue-1415692) (ESPN Cric Info)
+
+- [Dengue: cientistas desenvolvem inseticida com planta da Mata Atlântica](https://www.metropoles.com/saude/dengue-inseticida-planta-aedes) (Metropoles.com)
+
+- [Dengue: Take preventive measures during monsoon season, says Sabah Health Dept](https://www.thestar.com.my/news/nation/2024/01/05/dengue-take-preventive-measures-during-monsoon-season-says-sabah-health-dept) (The Star Online)
+
+- [Health D-G: Dengue cases down 6.8pc in from Dec 24 to 30, four deaths reported](https://www.malaymail.com/news/malaysia/2024/01/05/health-d-g-dengue-cases-down-68pc-in-from-dec-24-to-30-four-deaths-reported/110830) (Malay Mail)
+
+- [Dengue cases down 6.8 percent in ME52. Four deaths reported, says Health DG](https://www.thestar.com.my/news/nation/2024/01/05/dengue-cases-down-68-percent-in-me52-four-deaths-reported-says-health-dg) (The Star Online)
+
+- [Aumentan contagios de dengue en Acapulco a raíz de Otis](https://www.jornada.com.mx/2024/01/05/estados/023n3est) (Jornada.com.mx)
 
 - [Boletim revela aumento dos casos de dengue em todas as regiões do DF](https://www.metropoles.com/distrito-federal/boletim-revela-aumento-dos-casos-de-dengue-em-todas-as-regioes-do-df) (Metropoles.com)
 
@@ -1716,8 +1734,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tijgermug gespot in bijna heel Nederland 'maar heeft zich nog niet gevestigd'](https://www.nu.nl/dieren/6290510/tijgermug-gespot-in-bijna-heel-nederland-maar-heeft-zich-nog-niet-gevestigd.html) (Www.nu.nl)
 
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
-
 ## 23-47 (typhoid)
 
 - [Will Gang War Divide Like Civil War Did? Amazing Spider-Man Spoilers](https://bleedingcool.com/comics/will-gang-war-divide-like-civil-war-did-amazing-spider-man-spoilers/) (Bleeding Cool News)
@@ -1886,8 +1902,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Los pesticidas anti mosquitos son 10 veces más efectivos cuando se combinan con pequeñas cantidades de jabón](https://www.infosalus.com/salud-investigacion/noticia-pesticidas-anti-mosquitos-son-10-veces-mas-efectivos-cuando-combinan-pequenas-cantidades-jabon-20231120070347.html) (Infosalus.com)
 
-- [Malaria Prevalent in Southern Province - Report](https://allafrica.com/stories/202311190024.html) (AllAfrica - Top Africa News)
-
 ## 23-47 (leptospirosis)
 
 - [Leptospirosis vaccine for dogs voluntarily recalled following 'adverse reactions', including one death](https://www.abc.net.au/news/2023-11-23/voluntary-recall-leptospirosis-vaccine-dogs-adverse-reactions/103141524) (ABC News (AU))
@@ -1970,16 +1984,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Campinas ultrapassa 10 mil casos de dengue e Saúde reforça apelo à população para prevenção](https://g1.globo.com/sp/campinas-regiao/noticia/2023/11/19/campinas-ultrapassa-10-mil-casos-de-dengue-e-saude-reforca-apelo-a-populacao-para-prevencao.ghtml) (Globo)
 
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
-
-- [Dengue cai 97% no Brasil, mas atenção ainda é necessária](https://catracalivre.com.br/saude-bem-estar/dengue-brasil/) (Catracalivre.com.br)
-
-- [Dengue: 6 more die; 1,291 hospitalised in 24hrs](https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1291-hospitalised-24hrs-742446) (Tbsnews.net)
-
-- [¿Por qué una segunda infección de dengue puede ser peor que la primera?](https://www.nacion.com/ciencia/salud/por-que-una-segunda-infeccion-de-dengue-puede-ser/5RW3UQDU3RAE7D4QARTF76WDZY/story/) (Nacion.com)
-
-- [Dengue cerraría 2023 con mayor repunte de casos de última década](https://www.nacion.com/ciencia/salud/dengue-cerraria-2023-con-mayor-repunte-de-casos-de/HXXF2QQSSFGZLKQRYTAHCS4NJE/story/) (Nacion.com)
-
 ## 23-47 (chikungunya)
 
 - [Prefeitura de BH solta 8.000 mosquitos Aedes Aegypti modificados em laboratório](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/prefeitura-de-bh-solta-8000-mosquitos-aedes-aegypti-modificados-em-laboratorio-22112023) (R7.com)
@@ -1993,5 +1997,3 @@ Source: [News API](https://newsapi.org/)
 - [Calor e chuva podem aumentar casos de dengue no país](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/calor-e-chuva-podem-aumentar-casos-de-dengue-no-pais-21112023) (R7.com)
 
 - [Vaccine Against Chikungunya Approved By The FDA. Should You Get It?](https://www.forbes.com/sites/markkortepeter/2023/11/20/vaccine-against-chikungunya-approved-by-the-fda-should-you-get-it/) (Forbes)
-
-- [Ausbreitung der Tigermücke soll verhindert werden](https://ooe.orf.at/stories/3233128/) (Ooe.orf.at)
