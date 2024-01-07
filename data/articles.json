@@ -1,8 +1,98 @@
 {
-  "last_updated": "2024-01-07 07:05",
-  "count_articles_total": 727,
-  "count_articles_new": 6,
+  "last_updated": "2024-01-07 19:05",
+  "count_articles_total": 723,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 4101,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Alta taxa de recusa prejudica 1\u00ba mutir\u00e3o de 2024 contra criadouros de dengue em Campinas",
+      "description": "Apura\u00e7\u00e3o da EPTV indica que moradores deixaram de atender os agentes de sa\u00fade em cerca de metade das casas durante a manh\u00e3 deste s\u00e1bado. Metr\u00f3pole encerrou 2023 com a 6\u00aa maior epidemia. Primeiro multir\u00e3o do ano contra a dengue vistoria casas em quatro bairros\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/06/alta-taxa-de-recusa-prejudica-1o-mutirao-de-2024-contra-criadouros-de-dengue-em-campinas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/tdj1Le0Whs7hnr5Xmo0-jW6FdzE=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/12245541.jpg",
+      "publishedAt": "2024-01-06 16:26:23",
+      "content": "Quatro bairros da regi\u00e3o Sudoeste foram percorridos: Jardim Santo Ant\u00f4nio, DIC III, DIC IV e DIC V. A regi\u00e3o foi escolhida por ter o maior \u00edndice de contamina\u00e7\u00e3o por dengue na cidade. J\u00e1 a defini\u00e7\u00e3\u2026 [+8674 chars]",
+      "retrievedAt": "2024-01-07 19:05:18.858674",
+      "internal_id": "b112d2803aa240d449bad41e21aeab7011f19ed2d345893b1997d5839b7787cd",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 4099,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Paraguay cerr\u00f3 el a\u00f1o 2023 con 18.123 casos de dengue y 115.596 de chikungu\u00f1a",
+      "description": "La primera de estas enfermedades, end\u00e9mica en el pa\u00eds guaran\u00ed desde 2009, se cobr\u00f3 el a\u00f1o pasado 33 muertes.",
+      "url": "https://www.montevideo.com.uy/Salud/Paraguay-cerro-el-ano-2023-con-18-123-casos-de-dengue-y-115-596-de-chikunguna-uc875938",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201602/_W933_80/547175.jpg",
+      "publishedAt": "2024-01-06 15:31:00",
+      "content": "Paraguay cerr\u00f3 el a\u00f1o 2023 con un total de 18.123 casos confirmados y probables de dengue y 37 fallecidos, seg\u00fan un reporte epidemiol\u00f3gico difundido este viernes por el Ministerio de Salud P\u00fablica y \u2026 [+1179 chars]",
+      "retrievedAt": "2024-01-07 19:05:18.816410",
+      "internal_id": "1162f8b952cd155500dfb7d167678eaeb9db54920d1d28f4a37857a44d92ee05",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 4103,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "Health Dept: 11 deaths due to dengue in Sabah",
+      "description": "KOTA KINABALU, Jan 6 \u2014 Sabah Health Department yesterday informed that 6,983 dengue cases were reported until the 52 Epidemiology week (ME-52). This signifies a drop of 1.8...",
+      "url": "https://www.malaymail.com/news/malaysia/2024/01/06/health-dept-11-deaths-due-to-dengue-in-sabah/111012",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2024/01/06/thumbs/400x400/176690.jpg",
+      "publishedAt": "2024-01-06 14:36:18",
+      "content": "KOTA KINABALU, Jan 6 Sabah Health Department yesterday informed that 6,983 dengue cases were reported until the 52 Epidemiology week (ME-52). This signifies a drop of 1.8 per cent compared to 7,110 \u2026 [+1371 chars]",
+      "retrievedAt": "2024-01-07 19:05:18.884240",
+      "internal_id": "069459f9399c2b1cd90c1500836b4646a1507c9890dbc692445ec3db0bf82d00",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 4100,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Esther Ferreira, Esther Ferreira",
+      "title": "Vacina da dengue no SUS: quem pode tomar e o que voc\u00ea precisa saber?",
+      "description": "A vacina Qdenga, que protege contra o v\u00edrus da dengue, foi incorporada ao SUS em dezembro e come\u00e7ar\u00e1 a ser aplicada em fevereiro",
+      "url": "https://saude.ig.com.br/2024-01-06/vacina-dengue-sus.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-06 11:00:00",
+      "content": "Em dezembro, a vacina Qdenga, que protege contra o v\u00edrus da dengue, foi incorporada ao Sistema \u00danico de Sa\u00fade (SUS). A partir de fevereiro, a popula\u00e7\u00e3o das regi\u00f5es priorit\u00e1rias poder\u00e1 se vacinar grat\u2026 [+2419 chars]",
+      "retrievedAt": "2024-01-07 19:05:18.837263",
+      "internal_id": "6b51229b528ec6625af51dd6b625968b4b7936874faead0ecf8819606128b7ea",
+      "publishedAtLabel": "Jan 6"
+    },
+    {
+      "id": 4102,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: Campinas prev\u00ea vistoriar 4 mil im\u00f3veis no 1\u00ba mutir\u00e3o de 2024 contra criadouros",
+      "description": "Reintrodu\u00e7\u00e3o dos sorotipos 3 e 4 preocupa autoridades de sa\u00fade para poss\u00edvel explos\u00e3o de casos; cidade encerrou 2023 com a 6\u00aa maior epidemia da s\u00e9rie hist\u00f3rica. Campinas far\u00e1 mutir\u00f5es contra a dengue a cada 15 dias Rog\u00e9rio Capela Em alerta para uma poss\u00edvel e\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/06/dengue-campinas-preve-vistoriar-4-mil-imoveis-no-1o-mutirao-de-2024-contra-criadouros.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/h9K2_OlBvBBneKvOXdxc79HsO-g=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/O/C/Mqj8qGSHq7hBfXyB7BSQ/dengue-3.jpg",
+      "publishedAt": "2024-01-06 10:38:01",
+      "content": "Jardim Santo Ant\u00f4nioDIC IIIDIC IVDIC V A a\u00e7\u00e3o prevista para ocorrer entre 8h30 e 11h30 re\u00fane, al\u00e9m da Secretaria de Sa\u00fade, equipes da secretaria de Servi\u2026 [+7618 chars]",
+      "retrievedAt": "2024-01-07 19:05:18.863225",
+      "internal_id": "35471ad77050fe12985413ebd91111f498dfc0c1f009d14d0a5a6e12848ee66a",
+      "publishedAtLabel": "Jan 6"
+    },
     {
       "id": 4098,
       "query": [
@@ -12980,170 +13070,6 @@
       "content": " A single dose of measles and rubella (MR) vaccine delivered to adults by the Vaxxas high-density microarray patch (HD-MAP) provided antibody responses comparable to the same vaccine deliver\u2026 [+7617 chars]",
       "retrievedAt": "2023-11-28 07:05:42.273360",
       "internal_id": "14ec722e297a3904ea15934e5a613d0fe6dddfacb5049b47d81528d10036629e",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3360,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Idaho State Journal",
-      "author": "Idaho Press Staff",
-      "title": "Health officials on alert after first case of mpox detected in Idaho county",
-      "description": "Health officials on alert after first case of mpox detected in Idaho countyidahostatejournal.com",
-      "url": "https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/9/f7/9f7f8a2d-91f4-57ae-98e1-c3571e3759c0/6560ec6d4e1c7.image.jpg?crop=1776%2C932%2C0%2C117&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-11-26 17:40:02",
-      "content": "The first case of mpox, formerly known as monkeypox, has been detected in Canyon County. Southwest District Health announced Tuesday that the case was detected in mid-November in a male Canyon Count\u2026 [+1748 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.993193",
-      "internal_id": "c0774c113fc50a888216cb5c2815fdf56f84e1e39dd6b131da1894a2448cf7d0",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3358,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update",
-      "description": "The Democratic Republic of Congo has never had this many Mpox cases. There was also the first documented case in the world of Clade I MXPV transmission via sexual contact",
-      "url": "https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65636f80720b4d7f82cbd859/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-26 17:09:01",
-      "content": "The Democratic Republic of Congo has been experiencing its largest ever outbreak of Mpox. This was ... [+] the first year that Kinshasa has had suspected Mpox cases. (Photo by ARSENE MPIANA/AFP via G\u2026 [+6011 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.960137",
-      "internal_id": "87f40fbc37ef678176a58b20d27b14d0bcd0a28150a89c577e01ac97d20257fc",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3354,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Diepresse.com",
-      "author": "J\u00fcrgen Langenbach",
-      "title": "Bringt Klima Tropenfieber? [premium]",
-      "description": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen.",
-      "url": "https://www.diepresse.com/17849599/bringt-klima-tropenfieber",
-      "urlToImage": "https://img.diepresse.com/public/incoming/hipyx3-Tropenfieber/alternates/DPR_SOCIAL_MAGAZIN_PAID/Tropenfieber",
-      "publishedAt": "2023-11-26 16:16:22",
-      "content": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen. Ende August erkrankten am Gardasee drei Menschen \u2026 [+2238 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.371580",
-      "internal_id": "9e02535ae752dc506ab723875c676b5f65c03ffc99da8c33e283a342b2c64cb5",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3361,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ctvnews.ca",
-      "author": "The Associated Press",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time",
-      "description": "The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development that African scientists warn could make it more difficult to stop the dise\u2026",
-      "url": "https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367",
-      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/11/26/mpox-particles-1-6661368-1701012524681.jpg",
-      "publishedAt": "2023-11-26 15:34:30",
-      "content": "LONDON - The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development tha\u2026 [+3280 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.997446",
-      "internal_id": "bc4315b698bae204034680118460df8a2003d307ed5347450f541f61ef0938d7",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3357,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil",
-      "description": "A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday.",
-      "url": "https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288",
-      "urlToImage": "https://c.ndtvimg.com/2023-10/1ininp3k_uk-hospital-generic_625x300_02_October_23.jpg",
-      "publishedAt": "2023-11-26 15:30:12",
-      "content": "He was a resident of Shivpuri district in Madhya Pradesh (Representational) Shivpuri: A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday. \"My\u2026 [+1890 chars]",
-      "retrievedAt": "2023-11-27 19:05:28.318108",
-      "internal_id": "42931a3b084f0711bfdfd9c81fd0a61b23864d336a3369dca765e12b8b2c779d",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3353,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Lena H. Sun",
-      "title": "How one rabid kitten triggered massive effort to contain deadly disease",
-      "description": "If the rabies virus spreads unchecked in raccoons, transmission would easily radiate out from Omaha into other states, putting 7 million people at increased risk.",
-      "url": "https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GMYQBL7A6RAQJC4WHFWHBN2PXA.jpg&w=1440",
-      "publishedAt": "2023-11-26 14:04:27",
-      "content": "Comment on this story Comment Add to your saved stories Save At first, Madeline Wahl thought her new kitten was having a bad reaction to medication for ringworm.After each dose, he would shake hi\u2026 [+8182 chars]",
-      "retrievedAt": "2023-11-27 19:05:26.584944",
-      "internal_id": "eb4bf4678d67256a47a66fd76354a04d81f49e97e797c8b8b9a53c0793cdb540",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3355,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Joana Ascens\u00e3o",
-      "title": "Doen\u00e7as transmitidas por mosquitos: Europa pede cautela aos pa\u00edses",
-      "description": "Centro Europeu da Preven\u00e7\u00e3o e Controlo de Doen\u00e7as est\u00e1 preocupado com preval\u00eancia de algumas doen\u00e7as. Altera\u00e7\u00f5es clim\u00e1ticas s\u00e3o respons\u00e1veis pela maior presen\u00e7a de mosquitos em territ\u00f3rio europeu",
-      "url": "https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130",
-      "urlToImage": "https://images.impresa.pt/expresso/2022-02-10-Aedes-aegypti-mosquito-mosquito-da-dengue-ca776fa9/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-11-26 13:10:03",
-      "content": "H\u00e1 cada vez mais mosquitos transmissores de doen\u00e7as, como a dengue, a febre-amarela e a febre do Nilo Ocidental, no espa\u00e7o europeu. O Centro Europeu de Preven\u00e7\u00e3o e Controlo de \u00adDoen\u00e7as (ECDC, na sigl\u2026 [+1594 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.379872",
-      "internal_id": "476cfe84197222cb6ed74dee7dfc3a1f365867b799affaf68c48b1cef9753d12",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3356,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Raquel Albuquerque, Ana Bai\u00e3o, Jos\u00e9 Cedovim Pinto",
-      "title": "Os Aedes albopictus s\u00e3o inteligentes \u201ce exploram os comportamentos humanos\u201d: autoridades monitorizam mosquito da dengue e zika em Portugal",
-      "description": "Os Aedes albopictus, capazes de transmitir dengue, zika ou chicungunha, foram detetados em tr\u00eas freguesias da Grande Lisboa em setembro, depois de terem sido encontrados na regi\u00e3o Norte ainda em 2017, al\u00e9m do Algarve e Alentejo nos anos seguintes. At\u00e9 agora, \u2026",
-      "url": "https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152",
-      "urlToImage": "https://images.impresa.pt/expresso/2023-11-23-aedes-albopictus-c60e7243-1/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-11-26 13:09:39",
-      "content": "As primeiras fotografias dos mosquitos chegaram \u00e0s m\u00e3os dos cientistas no m\u00eas de setembro, enviadas por moradores na regi\u00e3o de Lisboa, depois de se cruzarem com uns insetos invulgares que, ao picarem\u2026 [+1577 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.383737",
-      "internal_id": "612dadc92d23cf880fb62e7a11e7873f51975733e1bd2c7561997f952a7f4dfc",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3359,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Naftemporiki.gr",
-      "author": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
-      "title": "\u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc",
-      "description": "\u039f \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c7\u03b8\u03b5\u03c2 \u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf \u03cc\u03c4\u03b9 \u03c3\u03c4\u03b7 \u039b\u0394 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af 12.569 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c0\u00bb (mpox, \u03bd\u03cc\u03c3\u03bf\u03c2 \u03b7 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ae\u03c4\u03b1\u03bd \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03bc\u03b5 \u03c4\u03b7\u03bd \u03bf\u03bd\u03bf\u03bc\u03b1\u03c3\u03af\u03b1 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u2026 \u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc - \u0397 \u039d\u0391\u03a5\u03a4\u2026",
-      "url": "https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/",
-      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2022/05/1864751.jpeg",
-      "publishedAt": "2023-11-26 09:36:54",
-      "content": "12.569 \u00ab \u00bb (mpox, \u00ab \u00bb), 581 , 1 12 , . \u00ab , , , \u00bb, . , clade (.. ) , , \u00ab \u00bb. 1970 , , , , ... 2022 , , 23 2022. 11 , . (.. Clade b ) . , . , 91.788 , 167 , 116 2022 31 2023, . , clade I cla\u2026 [+84 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.989287",
-      "internal_id": "18e15fbf5fbd461329f448709c8676fe17713fdf2c298c764b40b3166474d07f",
       "publishedAtLabel": "Nov 26"
     }
   ]

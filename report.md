@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-01-07 07:05
-- **Most recent article:** 2024-01-06 05:00:00
+- **New articles in last harvest:** 5
+- **Last harvest:** 2024-01-07 19:05
+- **Most recent article:** 2024-01-06 16:26:23
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 44 | 62 | 42 | 69 | 37 | 2 | 47 | 303 |
-| malaria | 33 | 26 | 24 | 24 | 22 | 2 | 11 | 142 |
-| mpox | 18 | 15 | 24 | 15 | 12 | 0 | 2 | 86 |
+| dengue | 41 | 62 | 42 | 69 | 37 | 2 | 52 | 305 |
+| malaria | 31 | 26 | 24 | 24 | 22 | 2 | 11 | 140 |
+| mpox | 14 | 15 | 24 | 15 | 12 | 0 | 2 | 82 |
 | measles | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 60 |
-| zika | 10 | 15 | 9 | 5 | 1 | 0 | 7 | 47 |
+| zika | 9 | 15 | 9 | 5 | 1 | 0 | 7 | 46 |
 | chikungunya | 10 | 10 | 11 | 4 | 3 | 1 | 2 | 41 |
-| rabies | 9 | 4 | 7 | 2 | 7 | 1 | 2 | 32 |
+| rabies | 8 | 4 | 7 | 2 | 7 | 1 | 2 | 31 |
 | meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 31 |
 | pertussis | 4 | 2 | 4 | 2 | 0 | 0 | 5 | 17 |
 | leptospirosis | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 12 |
@@ -127,6 +127,16 @@ Source: [News API](https://newsapi.org/)
 - [Andhra govt to grant occupational health allowance to sanitation workers](https://timesofindia.indiatimes.com/india/andhra-govt-to-grant-occupational-health-allowance-to-sanitation-workers/articleshow/106457346.cms) (The Times of India)
 
 ## 24-1 (dengue)
+
+- [Alta taxa de recusa prejudica 1º mutirão de 2024 contra criadouros de dengue em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/06/alta-taxa-de-recusa-prejudica-1o-mutirao-de-2024-contra-criadouros-de-dengue-em-campinas.ghtml) (Globo)
+
+- [Paraguay cerró el año 2023 con 18.123 casos de dengue y 115.596 de chikunguña](https://www.montevideo.com.uy/Salud/Paraguay-cerro-el-ano-2023-con-18-123-casos-de-dengue-y-115-596-de-chikunguna-uc875938) (Montevideo.com.uy)
+
+- [Health Dept: 11 deaths due to dengue in Sabah](https://www.malaymail.com/news/malaysia/2024/01/06/health-dept-11-deaths-due-to-dengue-in-sabah/111012) (Malay Mail)
+
+- [Vacina da dengue no SUS: quem pode tomar e o que você precisa saber?](https://saude.ig.com.br/2024-01-06/vacina-dengue-sus.html) (Ig.com.br)
+
+- [Dengue: Campinas prevê vistoriar 4 mil imóveis no 1º mutirão de 2024 contra criadouros](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/06/dengue-campinas-preve-vistoriar-4-mil-imoveis-no-1o-mutirao-de-2024-contra-criadouros.ghtml) (Globo)
 
 - [Manuel Añorve pide declarar emergencia sanitaria por dengue en Acapulco y Coyuca](https://www.milenio.com/estados/manuel-anorve-alerta-brote-mortal-dengue-guerrero) (Milenio)
 
@@ -1452,8 +1462,6 @@ Source: [News API](https://newsapi.org/)
 
 - [There’s no place for “benevolent deception” in obstetrics](https://www.kevinmd.com/2023/11/theres-no-place-for-benevolent-deception-in-obstetrics.html) (Kevinmd.com)
 
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
-
 ## 23-48 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 29th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-29th-november-2023/) (Iasbaba.com)
@@ -1475,8 +1483,6 @@ Source: [News API](https://newsapi.org/)
 - [Research links climate change to vampire bat expansion and rabies virus spillover](https://phys.org/news/2023-11-links-climate-vampire-expansion-rabies.html) (Phys.Org)
 
 - [Horror Movie Rabies Finds Monstrous Terror in 90s Beirut](https://www.comingsoon.net/horror/news/1415664-rabies-beirut-horror-movie) (ComingSoon.net)
-
-- [How one rabid kitten triggered massive effort to contain deadly disease](https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/) (The Washington Post)
 
 ## 23-48 (pertussis)
 
@@ -1517,14 +1523,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO Confirms Spread of MPox in DR Congo](https://allafrica.com/stories/202311270556.html) (AllAfrica - Top Africa News)
 
 - [Epidémie de mpox en RDC : 581 décès depuis janvier et nombre de cas record sur une année](https://www.lemonde.fr/afrique/article/2023/11/27/epidemie-de-mpox-en-rdc-581-deces-depuis-janvier-et-nombre-de-cas-record-sur-une-annee_6202586_3212.html) (Le Monde)
-
-- [Health officials on alert after first case of mpox detected in Idaho county](https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html) (Idaho State Journal)
-
-- [Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update](https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/) (Forbes)
-
-- [UN confirms sexual spread of mpox in Congo for the 1st time](https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367) (Ctvnews.ca)
-
-- [«Ευλογιά π»: 581 θάνατοι και ρεκόρ κρουσμάτων στο Κονγκό](https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/) (Naftemporiki.gr)
 
 ## 23-48 (meningitis)
 
@@ -1609,10 +1607,6 @@ Source: [News API](https://newsapi.org/)
 - [First Malaria Vaccines Arrive In Cameroon](https://www.forbes.com/sites/unicefusa/2023/11/27/first-malaria-vaccines-arrive-in-cameroon/) (Forbes)
 
 - [Pocket-sized DNA sequencers track malaria drug resistance in Ghana in near real-time](https://phys.org/news/2023-11-pocket-sized-dna-sequencers-track-malaria.html) (Phys.Org)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil](https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288) (NDTV News)
 
 ## 23-48 (leptospirosis)
 
@@ -1707,12 +1701,6 @@ Source: [News API](https://newsapi.org/)
 - [Afrique de l'Ouest: Une épidémie de dengue touche toutes les régions du Burkina Faso](https://fr.allafrica.com/stories/202311270231.html) (AllAfrica - Top Africa News)
 
 - [Saúde faz alerta para ressurgimento da dengue tipo 3](https://brasil.perfil.com/saude/saude-faz-alerta-para-ressurgimento-da-dengue-tipo-3.phtml) (Perfil.com)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Doenças transmitidas por mosquitos: Europa pede cautela aos países](https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130) (Expresso.pt)
-
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
 
 ## 23-48 (chikungunya)
 
