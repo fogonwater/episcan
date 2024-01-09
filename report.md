@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 0
-- **Last harvest:** 2024-01-09 07:05
-- **Most recent article:** 2024-01-07 05:34:00
+- **New articles in last harvest:** 3
+- **Last harvest:** 2024-01-09 19:05
+- **Most recent article:** 2024-01-08 18:56:42
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 44 | 62 | 42 | 69 | 37 | 2 | 52 | 2 | 310 |
-| malaria | 33 | 26 | 24 | 24 | 22 | 2 | 11 | 0 | 142 |
-| mpox | 18 | 15 | 24 | 15 | 12 | 0 | 2 | 0 | 86 |
+| dengue | 41 | 62 | 42 | 69 | 37 | 2 | 52 | 5 | 310 |
+| malaria | 31 | 26 | 24 | 24 | 22 | 2 | 11 | 0 | 140 |
+| mpox | 14 | 15 | 24 | 15 | 12 | 0 | 2 | 0 | 82 |
 | measles | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 0 | 60 |
-| zika | 10 | 15 | 9 | 5 | 1 | 0 | 7 | 0 | 47 |
+| zika | 9 | 15 | 9 | 5 | 1 | 0 | 7 | 0 | 46 |
 | chikungunya | 10 | 10 | 11 | 4 | 3 | 1 | 2 | 0 | 41 |
-| rabies | 9 | 4 | 7 | 2 | 7 | 1 | 2 | 0 | 32 |
+| rabies | 8 | 4 | 7 | 2 | 7 | 1 | 2 | 0 | 31 |
 | meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 0 | 31 |
 | pertussis | 4 | 2 | 4 | 2 | 0 | 0 | 5 | 0 | 17 |
 | leptospirosis | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 0 | 12 |
@@ -31,6 +31,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-2 (dengue)
+
+- [Dengue: veja nove bairros com alto risco de transmissão em Campinas, segundo prefeitura](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/08/dengue-saiba-quais-sao-os-nove-bairros-com-alto-risco-de-transmissao-em-campinas.ghtml) (Globo)
+
+- [Genetic regions affecting the replication and pathogenicity of dengue virus type 2](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011885) (Plos.org)
+
+- [Le virus de la dengue circule toujours en Martinique et en Guadeloupe](https://www.ouest-france.fr/region-guadeloupe/departement-de-guadeloupe/le-virus-de-la-dengue-circule-toujours-en-martinique-et-en-guadeloupe-207f8a98-ae21-11ee-885e-024cd8f39fea) (Ouest-France)
 
 - [State Health Dept: Close to 2,800 dengue cases recorded in Kelantan last year](https://www.thestar.com.my/news/nation/2024/01/07/state-health-dept-close-to-2800-dengue-cases-recorded-in-kelantan-last-year) (The Star Online)
 
@@ -1468,8 +1474,6 @@ Source: [News API](https://newsapi.org/)
 
 - [There’s no place for “benevolent deception” in obstetrics](https://www.kevinmd.com/2023/11/theres-no-place-for-benevolent-deception-in-obstetrics.html) (Kevinmd.com)
 
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
-
 ## 23-48 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 29th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-29th-november-2023/) (Iasbaba.com)
@@ -1491,8 +1495,6 @@ Source: [News API](https://newsapi.org/)
 - [Research links climate change to vampire bat expansion and rabies virus spillover](https://phys.org/news/2023-11-links-climate-vampire-expansion-rabies.html) (Phys.Org)
 
 - [Horror Movie Rabies Finds Monstrous Terror in 90s Beirut](https://www.comingsoon.net/horror/news/1415664-rabies-beirut-horror-movie) (ComingSoon.net)
-
-- [How one rabid kitten triggered massive effort to contain deadly disease](https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/) (The Washington Post)
 
 ## 23-48 (pertussis)
 
@@ -1533,14 +1535,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO Confirms Spread of MPox in DR Congo](https://allafrica.com/stories/202311270556.html) (AllAfrica - Top Africa News)
 
 - [Epidémie de mpox en RDC : 581 décès depuis janvier et nombre de cas record sur une année](https://www.lemonde.fr/afrique/article/2023/11/27/epidemie-de-mpox-en-rdc-581-deces-depuis-janvier-et-nombre-de-cas-record-sur-une-annee_6202586_3212.html) (Le Monde)
-
-- [Health officials on alert after first case of mpox detected in Idaho county](https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html) (Idaho State Journal)
-
-- [Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update](https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/) (Forbes)
-
-- [UN confirms sexual spread of mpox in Congo for the 1st time](https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367) (Ctvnews.ca)
-
-- [«Ευλογιά π»: 581 θάνατοι και ρεκόρ κρουσμάτων στο Κονγκό](https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/) (Naftemporiki.gr)
 
 ## 23-48 (meningitis)
 
@@ -1625,10 +1619,6 @@ Source: [News API](https://newsapi.org/)
 - [First Malaria Vaccines Arrive In Cameroon](https://www.forbes.com/sites/unicefusa/2023/11/27/first-malaria-vaccines-arrive-in-cameroon/) (Forbes)
 
 - [Pocket-sized DNA sequencers track malaria drug resistance in Ghana in near real-time](https://phys.org/news/2023-11-pocket-sized-dna-sequencers-track-malaria.html) (Phys.Org)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil](https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288) (NDTV News)
 
 ## 23-48 (leptospirosis)
 
@@ -1723,12 +1713,6 @@ Source: [News API](https://newsapi.org/)
 - [Afrique de l'Ouest: Une épidémie de dengue touche toutes les régions du Burkina Faso](https://fr.allafrica.com/stories/202311270231.html) (AllAfrica - Top Africa News)
 
 - [Saúde faz alerta para ressurgimento da dengue tipo 3](https://brasil.perfil.com/saude/saude-faz-alerta-para-ressurgimento-da-dengue-tipo-3.phtml) (Perfil.com)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Doenças transmitidas por mosquitos: Europa pede cautela aos países](https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130) (Expresso.pt)
-
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
 
 ## 23-48 (chikungunya)
 
