@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-01-10 07:05",
+  "last_updated": "2024-01-10 19:05",
   "count_articles_total": 744,
-  "count_articles_new": 7,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 4124,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Libertaddigital.com",
+      "author": "LD / Agencias",
+      "title": "Logran eliminar un raro tumor inyectando el virus del Zika en ratones",
+      "description": "Aunque falta un largo camino para su aplicaci\u00f3n en humanos, investigadores han abierto el camino para el uso del virus contra el c\u00e1ncer.",
+      "url": "https://www.libertaddigital.com/ciencia-tecnologia/salud/2024-01-09/logran-eliminar-un-raro-tumor-inyectando-el-virus-del-zika-en-ratones-7085486/",
+      "urlToImage": "https://s.libertaddigital.com/2024/01/09/1200/627/ld/laboratory090123.jpeg",
+      "publishedAt": "2024-01-09 18:04:59",
+      "content": "Un estudio dirigido por investigadores del Nemours Children's Health (Estados Unidos), publicado en Cancer Research Communications, sugiere que el virus del Zika podr\u00eda ser eficaz para reducir o elim\u2026 [+4335 chars]",
+      "retrievedAt": "2024-01-10 19:05:29.746891",
+      "internal_id": "bf5b4cffa64eb540e279e2be01660b65dc46c9be5ff5b6c7a64fc8a99677b4d8",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4120,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Cidades do interior do Rio est\u00e3o em alerta por aumento nos casos de dengue",
+      "description": "Cidades do interior do Rio de Janeiro est\u00e3o em alerta por causa do aumento dos casos de dengue. Apenas em 2023, houve 3.094 casos da doen\u00e7a em...",
+      "url": "https://recordtv.r7.com/balanco-geral-rj/videos/cidades-do-interior-do-rio-estao-em-alerta-por-aumento-nos-casos-de-dengue-09012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/09/659d88c6cd77c0fa3b000241/94c6344482c34ced99a31eef13768c39__BGT_R7_09JAN2024_ALERTADENGUE_thumb.jpg",
+      "publishedAt": "2024-01-09 17:17:50",
+      "content": "Cidades do interior do Rio de Janeiro est\u00e3o em alerta por causa do aumento dos casos de dengue. Apenas em 2023, houve 3.094 casos da doen\u00e7a em Campos dos Goytacazes, 397 em Maca\u00e9, 249 em S\u00e3o Pedro da\u2026 [+33 chars]",
+      "retrievedAt": "2024-01-10 19:05:28.655885",
+      "internal_id": "a37e33d034a411cef1151c2524eb3be0636cdda5739333d877f7fbbe95170a88",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4121,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejo Miranda",
+      "title": "JPR Williams, el adi\u00f3s a un fullback que marc\u00f3 una \u00e9poca",
+      "description": "Muri\u00f3 a los 74 a\u00f1os, por causa de una meningitis bacteriana",
+      "url": "https://www.lanacion.com.ar/deportes/rugby/jpr-williams-el-adios-a-un-fullback-que-marco-una-epoca-nid09012024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/jpr-williams-fallecio-a-los-74-JHTH73CFW5D2DMOZEKBH47S5IY.JPG?auth=44d0abcaa9ef3e5cb7b3d7ef5d5633d466001f90d2babd6732b713caf174f845&width=768&quality=70&smart=false",
+      "publishedAt": "2024-01-09 17:03:21",
+      "content": "JPR Williams marc\u00f3 una \u00e9poca. Pieza clave en el glorioso seleccionado de Gales de la d\u00e9cada del 70, \u00edcono de los mejores equipos de los British &amp; Irish Lions y el combinado de Barbarians de la hi\u2026 [+3823 chars]",
+      "retrievedAt": "2024-01-10 19:05:28.985136",
+      "internal_id": "17ddecd834e2ab426e2f9bae660f5f608fc7c596022fdbfec14c69bcf7fd1569",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4117,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY JERUSALEM POST STAFF",
+      "title": "Two measles cases found in Israel's North - Health Ministry",
+      "description": "An unvaccinated child and an adult from the North contracted measles, the Health Ministry reported on Tuesday.",
+      "url": "https://www.jpost.com/breaking-news/article-781458",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2024-01-09 16:07:40",
+      "content": "An unvaccinated child and an adult from the North contracted measles, the Health Ministry reported on Tuesday. In both cases, no source of infection was identified, and none of them had recently been\u2026 [+463 chars]",
+      "retrievedAt": "2024-01-10 19:05:28.294029",
+      "internal_id": "deb435f473cbcd155f888f2c8c9101f060f46a4bc74e0fbb52722f11cfb1c049",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4123,
+      "query": [
+        "zika"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Raquel Serrano",
+      "title": "Emplean el virus del Zika para combatir el neuroblastoma infantil",
+      "description": "Este tumor, que supone un 15% de mortalidad por c\u00e1ncer pedi\u00e1trico, podr\u00eda encontrar una novedosa estrategia que, no obstante, requiere ensayos m\u00e1s amplios de seguridad y eficacia Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2024/01/09/659d6e09e9cf4a1f548b45ae.html",
+      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/c9504d24a2d2a6540e48cef68b2d91d0/crop/0x0/1500x1000/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/09/17048155694416.jpg",
+      "publishedAt": "2024-01-09 16:02:26",
+      "content": "La inoculaci\u00f3n del virus del Zika en tumores de neuroblastoma en modelo de rat\u00f3n reduce o elimina la lesi\u00f3n, seg\u00fan los datos de un nueva investigaci\u00f3n que publica Cancer Research Communications, de l\u2026 [+4083 chars]",
+      "retrievedAt": "2024-01-10 19:05:29.742829",
+      "internal_id": "ab341f16e7ae97790803aebd812140a13e20b653865587e18130b6273b6c51e1",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4118,
+      "query": [
+        "measles"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05d0\u05d3\u05d9\u05e8 \u05d9\u05e0\u05e7\u05d5",
+      "title": "\u05d9\u05dc\u05d3 \u05dc\u05d0 \u05de\u05d7\u05d5\u05e1\u05df \u05d5\u05d0\u05d3\u05dd \u05de\u05d1\u05d5\u05d2\u05e8 \u05e0\u05d3\u05d1\u05e7\u05d5 \u05d1\u05d7\u05e6\u05d1\u05ea \u05d1\u05e6\u05e4\u05d5\u05df \u05d4\u05d0\u05e8\u05e5, \u05de\u05e7\u05d5\u05e8 \u05d4\u05d4\u05d3\u05d1\u05e7\u05d4 \u05dc\u05d0 \u05d9\u05d3\u05d5\u05e2",
+      "description": "\u05d0\u05e3 \u05d0\u05d7\u05d3 \u05de\u05d4\u05e0\u05d3\u05d1\u05e7\u05d9\u05dd \u05dc\u05d0 \u05e9\u05d4\u05d4 \u05d1\u05d7\u05d5\"\u05dc. \u05dc\u05e4\u05e0\u05d9 \u05db\u05d7\u05d5\u05d3\u05e9 \u05e2\u05d3\u05db\u05df \u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05e2\u05dc \u05d7\u05d5\u05dc\u05d4 \u05d7\u05e6\u05d1\u05ea \u05e9\u05d4\u05d9\u05d4 \u05d1\u05d8\u05d9\u05e1\u05d4 \u05de\u05d3\u05d5\u05d1\u05d0\u05d9 \u05dc\u05e0\u05ea\u05d1\"\u05d2. \u05d7\u05e6\u05d1\u05ea \u05d4\u05d9\u05d0 \u05de\u05d7\u05dc\u05d4 \u05e0\u05d2\u05d9\u05e4\u05d9\u05ea \u05e9\u05e2\u05dc\u05d5\u05dc\u05d4 \u05dc\u05e1\u05db\u05df \u05d7\u05d9\u05d9\u05dd \u05d1\u05de\u05e7\u05e8\u05d9\u05dd \u05d4\u05e7\u05e9\u05d9\u05dd. \u05d4\u05d3\u05e8\u05da \u05d4\u05d8\u05d5\u05d1\u05d4 \u05d1\u05d9\u05d5\u05ea\u05e8 \u05dc\u05d4\u05ea\u05de\u05d2\u05df \u05de\u05de\u05d7\u05dc\u05d4 \u05e7\u05e9\u05d4 \u05d4\u05d9\u05d0 \u05dc\u05d4\u05ea\u05d7\u05e1\u05df. \u05e9\u05d0\u05dc\u05d5\u05ea \u05d5\u05ea\u05e9\u05d5\u05d1\u05d5\u05ea \u05e2\u05dc \u05d4\u05e0\u05d2\u05d9\u05e3 \u05d5\u05e2\u05dc \u05d4\u05de\u05d7\u05dc\u05d4",
+      "url": "https://www.ynet.co.il/health/article/h18dy1sot",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2023/10/06/rkFA9u6ep/rkFA9u6ep_9_0_785_442_0_large.jpg",
+      "publishedAt": "2024-01-09 15:54:56",
+      "content": "? . - (Measles virus) Paramyxovirus.",
+      "retrievedAt": "2024-01-10 19:05:28.298661",
+      "internal_id": "44f007fbcca575de85e4306897d962aae4c00acd37156fa6eebe81110914055f",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4122,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "David J. Price, Narimane Nekkab, Wuelton M. Monteiro, Daniel A. M. Villela, Julie A. Simpson, Marcus V. G. Lacerda, Michael T. White, Angela Devine",
+      "title": "Tafenoquine following G6PD screening versus primaquine for the treatment of vivax malaria in Brazil: A cost-effectiveness analysis using a transmission model",
+      "description": "Author summary Why was this study done? Radical cure with primaquine or recently approved tafenoquine is required to clear the dormant liver parasites of vivax malaria. While single-dose tafenoquine overcomes the barrier of patient adherence to the current \u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004255",
+      "urlToImage": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1004255.g003&size=inline",
+      "publishedAt": "2024-01-09 14:00:00",
+      "content": "Abstract Background Malaria transmission modelling has demonstrated the potential impact of semiquantitative glucose-6-phosphate dehydrogenase (G6PD) testing and treatment with single-dose tafenoqu\u2026 [+42532 chars]",
+      "retrievedAt": "2024-01-10 19:05:29.334255",
+      "internal_id": "4db4338c8923aa0b3389bea34f93fa6cf44afde00c563ed765d7e44e68db38f7",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4116,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Rodney E. Rohde, Regents' Professor & Chair, Medical Laboratory Science, Texas State University, Charles Rupprecht, Affiliate Professor of Veterinary Medicine, Auburn University",
+      "title": "Rabies is an ancient, unpredictable and potentially fatal disease \u2212 two rabies researchers explain how to protect yourself",
+      "description": "An unexpected case of rabies found in an animal can raise concerns for a potential outbreak. Proactive vaccination of both wildlife and people can help protect everyone.",
+      "url": "https://theconversation.com/rabies-is-an-ancient-unpredictable-and-potentially-fatal-disease-two-rabies-researchers-explain-how-to-protect-yourself-219199",
+      "urlToImage": "https://images.theconversation.com/files/567905/original/file-20240104-24-3ionkc.jpg?ixlib=rb-1.1.0&rect=0%2C291%2C2048%2C1024&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-01-09 13:23:53",
+      "content": "Rabies virus (red) has an incubation period that can last from days to months. NIAID/Flickr, CC BY A feral kitten in Omaha, Nebraska, tested positive for rabies in November 2023. It died of the racc\u2026 [+8313 chars]",
+      "retrievedAt": "2024-01-10 19:05:27.843877",
+      "internal_id": "0d73fb642d867a745aeb9ae96f051b05e7dd03be1894089fb1ac5fdbeb6f0a27",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4119,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Qdenga: confira 5 pontos sobre nova vacina da dengue",
+      "description": "Brasil \u00e9 primeiro pa\u00eds a incorporar imunizante no sistema p\u00fablico de sa\u00fade; entenda como funciona prote\u00e7\u00e3o contra dengue e como doses ser\u00e3o distribu\u00eddas.",
+      "url": "https://www.bbc.com/portuguese/articles/c03y041yeljo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/ddae/live/8c8cd5f0-abe3-11ee-b042-b1e5ed61b7e6.jpg",
+      "publishedAt": "2024-01-09 09:29:34",
+      "content": "Cr\u00e9dito, Getty Images Legenda da foto, Brasil \u00e9 primeiro pa\u00eds a incorporar vacina contra dengue no sistema p\u00fablico de sa\u00fade Article information A vacina contra a dengue conhecida como Qdenga foi i\u2026 [+11728 chars]",
+      "retrievedAt": "2024-01-10 19:05:28.629712",
+      "internal_id": "7e73dc02b5fb028d301a74c89ab2c84d0658b76bea8ed42ae712170ef92619dd",
+      "publishedAtLabel": "Jan 9"
+    },
     {
       "id": 4113,
       "query": [
@@ -13288,170 +13450,6 @@
       "content": " A single dose of measles and rubella (MR) vaccine delivered to adults by the Vaxxas high-density microarray patch (HD-MAP) provided antibody responses comparable to the same vaccine deliver\u2026 [+7617 chars]",
       "retrievedAt": "2023-11-28 07:05:42.273360",
       "internal_id": "14ec722e297a3904ea15934e5a613d0fe6dddfacb5049b47d81528d10036629e",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3360,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Idaho State Journal",
-      "author": "Idaho Press Staff",
-      "title": "Health officials on alert after first case of mpox detected in Idaho county",
-      "description": "Health officials on alert after first case of mpox detected in Idaho countyidahostatejournal.com",
-      "url": "https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/9/f7/9f7f8a2d-91f4-57ae-98e1-c3571e3759c0/6560ec6d4e1c7.image.jpg?crop=1776%2C932%2C0%2C117&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-11-26 17:40:02",
-      "content": "The first case of mpox, formerly known as monkeypox, has been detected in Canyon County. Southwest District Health announced Tuesday that the case was detected in mid-November in a male Canyon Count\u2026 [+1748 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.993193",
-      "internal_id": "c0774c113fc50a888216cb5c2815fdf56f84e1e39dd6b131da1894a2448cf7d0",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3358,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update",
-      "description": "The Democratic Republic of Congo has never had this many Mpox cases. There was also the first documented case in the world of Clade I MXPV transmission via sexual contact",
-      "url": "https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65636f80720b4d7f82cbd859/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-26 17:09:01",
-      "content": "The Democratic Republic of Congo has been experiencing its largest ever outbreak of Mpox. This was ... [+] the first year that Kinshasa has had suspected Mpox cases. (Photo by ARSENE MPIANA/AFP via G\u2026 [+6011 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.960137",
-      "internal_id": "87f40fbc37ef678176a58b20d27b14d0bcd0a28150a89c577e01ac97d20257fc",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3354,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Diepresse.com",
-      "author": "J\u00fcrgen Langenbach",
-      "title": "Bringt Klima Tropenfieber? [premium]",
-      "description": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen.",
-      "url": "https://www.diepresse.com/17849599/bringt-klima-tropenfieber",
-      "urlToImage": "https://img.diepresse.com/public/incoming/hipyx3-Tropenfieber/alternates/DPR_SOCIAL_MAGAZIN_PAID/Tropenfieber",
-      "publishedAt": "2023-11-26 16:16:22",
-      "content": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen. Ende August erkrankten am Gardasee drei Menschen \u2026 [+2238 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.371580",
-      "internal_id": "9e02535ae752dc506ab723875c676b5f65c03ffc99da8c33e283a342b2c64cb5",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3361,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ctvnews.ca",
-      "author": "The Associated Press",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time",
-      "description": "The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development that African scientists warn could make it more difficult to stop the dise\u2026",
-      "url": "https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367",
-      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/11/26/mpox-particles-1-6661368-1701012524681.jpg",
-      "publishedAt": "2023-11-26 15:34:30",
-      "content": "LONDON - The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development tha\u2026 [+3280 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.997446",
-      "internal_id": "bc4315b698bae204034680118460df8a2003d307ed5347450f541f61ef0938d7",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3357,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil",
-      "description": "A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday.",
-      "url": "https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288",
-      "urlToImage": "https://c.ndtvimg.com/2023-10/1ininp3k_uk-hospital-generic_625x300_02_October_23.jpg",
-      "publishedAt": "2023-11-26 15:30:12",
-      "content": "He was a resident of Shivpuri district in Madhya Pradesh (Representational) Shivpuri: A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday. \"My\u2026 [+1890 chars]",
-      "retrievedAt": "2023-11-27 19:05:28.318108",
-      "internal_id": "42931a3b084f0711bfdfd9c81fd0a61b23864d336a3369dca765e12b8b2c779d",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3353,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Lena H. Sun",
-      "title": "How one rabid kitten triggered massive effort to contain deadly disease",
-      "description": "If the rabies virus spreads unchecked in raccoons, transmission would easily radiate out from Omaha into other states, putting 7 million people at increased risk.",
-      "url": "https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GMYQBL7A6RAQJC4WHFWHBN2PXA.jpg&w=1440",
-      "publishedAt": "2023-11-26 14:04:27",
-      "content": "Comment on this story Comment Add to your saved stories Save At first, Madeline Wahl thought her new kitten was having a bad reaction to medication for ringworm.After each dose, he would shake hi\u2026 [+8182 chars]",
-      "retrievedAt": "2023-11-27 19:05:26.584944",
-      "internal_id": "eb4bf4678d67256a47a66fd76354a04d81f49e97e797c8b8b9a53c0793cdb540",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3355,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Joana Ascens\u00e3o",
-      "title": "Doen\u00e7as transmitidas por mosquitos: Europa pede cautela aos pa\u00edses",
-      "description": "Centro Europeu da Preven\u00e7\u00e3o e Controlo de Doen\u00e7as est\u00e1 preocupado com preval\u00eancia de algumas doen\u00e7as. Altera\u00e7\u00f5es clim\u00e1ticas s\u00e3o respons\u00e1veis pela maior presen\u00e7a de mosquitos em territ\u00f3rio europeu",
-      "url": "https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130",
-      "urlToImage": "https://images.impresa.pt/expresso/2022-02-10-Aedes-aegypti-mosquito-mosquito-da-dengue-ca776fa9/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-11-26 13:10:03",
-      "content": "H\u00e1 cada vez mais mosquitos transmissores de doen\u00e7as, como a dengue, a febre-amarela e a febre do Nilo Ocidental, no espa\u00e7o europeu. O Centro Europeu de Preven\u00e7\u00e3o e Controlo de \u00adDoen\u00e7as (ECDC, na sigl\u2026 [+1594 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.379872",
-      "internal_id": "476cfe84197222cb6ed74dee7dfc3a1f365867b799affaf68c48b1cef9753d12",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3356,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Raquel Albuquerque, Ana Bai\u00e3o, Jos\u00e9 Cedovim Pinto",
-      "title": "Os Aedes albopictus s\u00e3o inteligentes \u201ce exploram os comportamentos humanos\u201d: autoridades monitorizam mosquito da dengue e zika em Portugal",
-      "description": "Os Aedes albopictus, capazes de transmitir dengue, zika ou chicungunha, foram detetados em tr\u00eas freguesias da Grande Lisboa em setembro, depois de terem sido encontrados na regi\u00e3o Norte ainda em 2017, al\u00e9m do Algarve e Alentejo nos anos seguintes. At\u00e9 agora, \u2026",
-      "url": "https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152",
-      "urlToImage": "https://images.impresa.pt/expresso/2023-11-23-aedes-albopictus-c60e7243-1/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-11-26 13:09:39",
-      "content": "As primeiras fotografias dos mosquitos chegaram \u00e0s m\u00e3os dos cientistas no m\u00eas de setembro, enviadas por moradores na regi\u00e3o de Lisboa, depois de se cruzarem com uns insetos invulgares que, ao picarem\u2026 [+1577 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.383737",
-      "internal_id": "612dadc92d23cf880fb62e7a11e7873f51975733e1bd2c7561997f952a7f4dfc",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3359,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Naftemporiki.gr",
-      "author": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
-      "title": "\u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc",
-      "description": "\u039f \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c7\u03b8\u03b5\u03c2 \u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf \u03cc\u03c4\u03b9 \u03c3\u03c4\u03b7 \u039b\u0394 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af 12.569 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c0\u00bb (mpox, \u03bd\u03cc\u03c3\u03bf\u03c2 \u03b7 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ae\u03c4\u03b1\u03bd \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03bc\u03b5 \u03c4\u03b7\u03bd \u03bf\u03bd\u03bf\u03bc\u03b1\u03c3\u03af\u03b1 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u2026 \u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc - \u0397 \u039d\u0391\u03a5\u03a4\u2026",
-      "url": "https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/",
-      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2022/05/1864751.jpeg",
-      "publishedAt": "2023-11-26 09:36:54",
-      "content": "12.569 \u00ab \u00bb (mpox, \u00ab \u00bb), 581 , 1 12 , . \u00ab , , , \u00bb, . , clade (.. ) , , \u00ab \u00bb. 1970 , , , , ... 2022 , , 23 2022. 11 , . (.. Clade b ) . , . , 91.788 , 167 , 116 2022 31 2023, . , clade I cla\u2026 [+84 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.989287",
-      "internal_id": "18e15fbf5fbd461329f448709c8676fe17713fdf2c298c764b40b3166474d07f",
       "publishedAtLabel": "Nov 26"
     }
   ]

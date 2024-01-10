@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2024-01-10 07:05
-- **Most recent article:** 2024-01-09 05:45:47
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-01-10 19:05
+- **Most recent article:** 2024-01-09 18:04:59
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 44 | 62 | 42 | 69 | 37 | 2 | 52 | 7 | 315 |
-| malaria | 33 | 26 | 24 | 24 | 22 | 2 | 11 | 1 | 143 |
-| mpox | 18 | 15 | 24 | 15 | 12 | 0 | 2 | 0 | 86 |
-| measles | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 3 | 63 |
-| zika | 10 | 15 | 9 | 5 | 1 | 0 | 7 | 1 | 48 |
+| dengue | 41 | 62 | 42 | 69 | 37 | 2 | 52 | 9 | 314 |
+| malaria | 31 | 26 | 24 | 24 | 22 | 2 | 11 | 2 | 142 |
+| mpox | 14 | 15 | 24 | 15 | 12 | 0 | 2 | 0 | 82 |
+| measles | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 5 | 65 |
+| zika | 9 | 15 | 9 | 5 | 1 | 0 | 7 | 3 | 49 |
 | chikungunya | 10 | 10 | 11 | 4 | 3 | 1 | 2 | 1 | 42 |
-| rabies | 9 | 4 | 7 | 2 | 7 | 1 | 2 | 1 | 33 |
-| meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 0 | 31 |
+| rabies | 8 | 4 | 7 | 2 | 7 | 1 | 2 | 2 | 33 |
+| meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 1 | 32 |
 | pertussis | 4 | 2 | 4 | 2 | 0 | 0 | 5 | 0 | 17 |
 | leptospirosis | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 0 | 12 |
 | typhoid | 0 | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 9 |
@@ -32,13 +32,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-2 (zika)
 
+- [Logran eliminar un raro tumor inyectando el virus del Zika en ratones](https://www.libertaddigital.com/ciencia-tecnologia/salud/2024-01-09/logran-eliminar-un-raro-tumor-inyectando-el-virus-del-zika-en-ratones-7085486/) (Libertaddigital.com)
+
+- [Emplean el virus del Zika para combatir el neuroblastoma infantil](https://www.elmundo.es/ciencia-y-salud/salud/2024/01/09/659d6e09e9cf4a1f548b45ae.html) (El Mundo)
+
 - [Antimosquito: tinta, ventiladores e lâmpadas ajudam no combate à dengue](https://casa.abril.com.br/bem-estar/antimosquito-tinta-ventiladores-lampadas-combate-dengue/) (Abril.com.br)
 
 ## 24-2 (rabies)
 
+- [Rabies is an ancient, unpredictable and potentially fatal disease − two rabies researchers explain how to protect yourself](https://theconversation.com/rabies-is-an-ancient-unpredictable-and-potentially-fatal-disease-two-rabies-researchers-explain-how-to-protect-yourself-219199) (The Conversation Africa)
+
 - [Govt hosps run out of anti-rabies vaccine again](https://timesofindia.indiatimes.com/city/chandigarh/govt-hosps-run-out-of-anti-rabies-vaccine-again/articleshow/106651965.cms) (The Times of India)
 
+## 24-2 (meningitis)
+
+- [JPR Williams, el adiós a un fullback que marcó una época](https://www.lanacion.com.ar/deportes/rugby/jpr-williams-el-adios-a-un-fullback-que-marco-una-epoca-nid09012024/) (La Nacion)
+
 ## 24-2 (measles)
+
+- [Two measles cases found in Israel's North - Health Ministry](https://www.jpost.com/breaking-news/article-781458) (The Jerusalem Post)
+
+- [ילד לא מחוסן ואדם מבוגר נדבקו בחצבת בצפון הארץ, מקור ההדבקה לא ידוע](https://www.ynet.co.il/health/article/h18dy1sot) (Ynet)
 
 - [Measles outbreak Philadelphia: More possible exposure locations identified, 8 total cases](https://6abc.com/measles-outbreak-philadelphia-department-of-public-health-rash-symptoms/14296791/) (WPVI-TV)
 
@@ -48,9 +62,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-2 (malaria)
 
+- [Tafenoquine following G6PD screening versus primaquine for the treatment of vivax malaria in Brazil: A cost-effectiveness analysis using a transmission model](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004255) (Plos.org)
+
 - [William Weightman Net Worth – How Much Was William Weightman Worth?](https://zacjohnson.com/william-weightman-net-worth/) (Zacjohnson.com)
 
 ## 24-2 (dengue)
+
+- [Cidades do interior do Rio estão em alerta por aumento nos casos de dengue](https://recordtv.r7.com/balanco-geral-rj/videos/cidades-do-interior-do-rio-estao-em-alerta-por-aumento-nos-casos-de-dengue-09012024) (R7.com)
+
+- [Qdenga: confira 5 pontos sobre nova vacina da dengue](https://www.bbc.com/portuguese/articles/c03y041yeljo) (BBC News)
 
 - [Médicos de UPA onde mulher morreu com dengue não recebem há seis meses](https://www.metropoles.com/distrito-federal/medicos-de-upa-onde-mulher-morreu-com-dengue-nao-recebem-ha-seis-meses) (Metropoles.com)
 
@@ -1502,8 +1522,6 @@ Source: [News API](https://newsapi.org/)
 
 - [There’s no place for “benevolent deception” in obstetrics](https://www.kevinmd.com/2023/11/theres-no-place-for-benevolent-deception-in-obstetrics.html) (Kevinmd.com)
 
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
-
 ## 23-48 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 29th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-29th-november-2023/) (Iasbaba.com)
@@ -1525,8 +1543,6 @@ Source: [News API](https://newsapi.org/)
 - [Research links climate change to vampire bat expansion and rabies virus spillover](https://phys.org/news/2023-11-links-climate-vampire-expansion-rabies.html) (Phys.Org)
 
 - [Horror Movie Rabies Finds Monstrous Terror in 90s Beirut](https://www.comingsoon.net/horror/news/1415664-rabies-beirut-horror-movie) (ComingSoon.net)
-
-- [How one rabid kitten triggered massive effort to contain deadly disease](https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/) (The Washington Post)
 
 ## 23-48 (pertussis)
 
@@ -1567,14 +1583,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO Confirms Spread of MPox in DR Congo](https://allafrica.com/stories/202311270556.html) (AllAfrica - Top Africa News)
 
 - [Epidémie de mpox en RDC : 581 décès depuis janvier et nombre de cas record sur une année](https://www.lemonde.fr/afrique/article/2023/11/27/epidemie-de-mpox-en-rdc-581-deces-depuis-janvier-et-nombre-de-cas-record-sur-une-annee_6202586_3212.html) (Le Monde)
-
-- [Health officials on alert after first case of mpox detected in Idaho county](https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html) (Idaho State Journal)
-
-- [Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update](https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/) (Forbes)
-
-- [UN confirms sexual spread of mpox in Congo for the 1st time](https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367) (Ctvnews.ca)
-
-- [«Ευλογιά π»: 581 θάνατοι και ρεκόρ κρουσμάτων στο Κονγκό](https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/) (Naftemporiki.gr)
 
 ## 23-48 (meningitis)
 
@@ -1659,10 +1667,6 @@ Source: [News API](https://newsapi.org/)
 - [First Malaria Vaccines Arrive In Cameroon](https://www.forbes.com/sites/unicefusa/2023/11/27/first-malaria-vaccines-arrive-in-cameroon/) (Forbes)
 
 - [Pocket-sized DNA sequencers track malaria drug resistance in Ghana in near real-time](https://phys.org/news/2023-11-pocket-sized-dna-sequencers-track-malaria.html) (Phys.Org)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil](https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288) (NDTV News)
 
 ## 23-48 (leptospirosis)
 
@@ -1757,12 +1761,6 @@ Source: [News API](https://newsapi.org/)
 - [Afrique de l'Ouest: Une épidémie de dengue touche toutes les régions du Burkina Faso](https://fr.allafrica.com/stories/202311270231.html) (AllAfrica - Top Africa News)
 
 - [Saúde faz alerta para ressurgimento da dengue tipo 3](https://brasil.perfil.com/saude/saude-faz-alerta-para-ressurgimento-da-dengue-tipo-3.phtml) (Perfil.com)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Doenças transmitidas por mosquitos: Europa pede cautela aos países](https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130) (Expresso.pt)
-
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
 
 ## 23-48 (chikungunya)
 
