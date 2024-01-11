@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-01-11 07:05
-- **Most recent article:** 2024-01-10 07:04:07
+- **New articles in last harvest:** 24
+- **Last harvest:** 2024-01-11 19:05
+- **Most recent article:** 2024-01-10 18:39:53
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 44 | 62 | 42 | 69 | 37 | 2 | 52 | 10 | 318 |
-| malaria | 33 | 26 | 24 | 24 | 22 | 2 | 11 | 2 | 144 |
-| mpox | 18 | 15 | 24 | 15 | 12 | 0 | 2 | 0 | 86 |
-| measles | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 9 | 69 |
-| zika | 10 | 15 | 9 | 5 | 1 | 0 | 7 | 5 | 52 |
-| chikungunya | 10 | 10 | 11 | 4 | 3 | 1 | 2 | 5 | 46 |
-| rabies | 9 | 4 | 7 | 2 | 7 | 1 | 2 | 2 | 34 |
-| meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 1 | 32 |
+| dengue | 41 | 62 | 42 | 69 | 37 | 2 | 52 | 15 | 320 |
+| malaria | 31 | 26 | 24 | 24 | 22 | 2 | 11 | 18 | 158 |
+| mpox | 14 | 15 | 24 | 15 | 12 | 0 | 2 | 0 | 82 |
+| measles | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 10 | 70 |
+| zika | 9 | 15 | 9 | 5 | 1 | 0 | 7 | 7 | 53 |
+| chikungunya | 10 | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 47 |
+| meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 2 | 33 |
+| rabies | 8 | 4 | 7 | 2 | 7 | 1 | 2 | 2 | 33 |
 | pertussis | 4 | 2 | 4 | 2 | 0 | 0 | 5 | 1 | 18 |
 | leptospirosis | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 0 | 12 |
 | typhoid | 0 | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 9 |
@@ -31,6 +31,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-2 (zika)
+
+- [Virus Zika, eficaz para tratar cáncer en ratones: Estudio](https://aristeguinoticias.com/1001/kiosko/virus-zika-eficaz-para-tratar-cancer-en-ratones-estudio/) (Aristeguinoticias.com)
+
+- [Zika vírus pode ajudar no tratamento contra câncer, afirma estudo](https://www.metropoles.com/saude/zika-pode-ajudar-contra-cancer) (Metropoles.com)
 
 - [Nuevos datos prometedores en el tratamiento del neuroblastoma con el virus del Zika](https://www.infosalus.com/salud-investigacion/noticia-nuevos-datos-prometedores-tratamiento-neuroblastoma-virus-zika-20240110072448.html) (Infosalus.com)
 
@@ -54,9 +58,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-2 (meningitis)
 
+- [¿Qué es la meningitis criptocócica, la enfermedad que padece el marido de Patricia Pérez?](https://www.hola.com/estar-bien/20240110246310/meningitis-criptococica-patricia-perez-enfermedad-marido/) (Hola)
+
 - [JPR Williams, el adiós a un fullback que marcó una época](https://www.lanacion.com.ar/deportes/rugby/jpr-williams-el-adios-a-un-fullback-que-marco-una-epoca-nid09012024/) (La Nacion)
 
 ## 24-2 (measles)
+
+- [CHOP vaccination expert recommends MMR vaccine after measles outbreak in Philadelphia](https://www.inquirer.com/health/philadelphia-measles-outbreak-symptoms-vaccine-age-mmr-20240110.html) (The Philadelphia Inquirer)
 
 - [Measles outbreak involving cases at a Philadelphia day care center expands, health officials say | CNN](https://www.cnn.com/2024/01/09/health/philadelphia-measles-outbreak/index.html) (CNN)
 
@@ -78,11 +86,53 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-2 (malaria)
 
+- [‘Hadden we het niet ingezet, was er ook kritiek geweest’: 17.000 Europese doden door ‘wondermiddel tegen corona’, zegt studie](https://www.demorgen.be/nieuws/hadden-we-het-niet-ingezet-was-er-ook-kritiek-geweest-17-000-europese-doden-door-wondermiddel-tegen-corona-zegt-studie~bce229a2/) (Demorgen.be)
+
+- [‘Wondermiddel tegen corona’ hydroxychloroquine kostte aan wellicht 17.000 Europeanen het leven](https://www.demorgen.be/nieuws/wondermiddel-tegen-corona-hydroxychloroquine-kostte-aan-wellicht-17-000-europeanen-het-leven~bce229a2/) (Demorgen.be)
+
+- [Malariamedicijn tijdens pandemie leidde tot doden, mogelijk ook in Nederland](https://www.nu.nl/coronavirus/6297316/malariamedicijn-tijdens-pandemie-leidde-tot-doden-mogelijk-ook-in-nederland.html) (Www.nu.nl)
+
+- [Abia trains health workers in malaria control](https://punchng.com/abia-trains-health-workers-in-malaria-control-2/) (The Punch)
+
+- [Taliban Minister Boasts Afghan Anti-Polio Gains While Addressing Global Health Huddle](https://www.voanews.com/a/taliban-minister-boasts-afghan-anti-polio-gains-while-addressing-global-health-huddle-/7434029.html) (VOA News)
+
+- [The role of species ecology in predicting Toxoplasma gondii prevalence in wild and domesticated mammals globally](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011908) (Plos.org)
+
+- [Hydroxychloroquine: COVID 'cure' linked to 17,000 deaths](https://www.dw.com/en/hydroxychloroquine-covid-cure-linked-to-17000-deaths/a-67937178) (DW (English))
+
+- [Investigadores españoles identifican una barrera defensiva para luchar contra la malaria](https://www.infosalus.com/salud-investigacion/noticia-investigadores-espanoles-identifican-barrera-defensiva-luchar-contra-malaria-20240110130223.html) (Infosalus.com)
+
+- [Bournemouth, Traoré è guarito dalla malaria. Interessamenti da Roma e Napoli](https://www.tuttomercatoweb.com/serie-a/bournemouth-traore-e-guarito-dalla-malaria-interessamenti-da-roma-e-napoli-1921215) (Tuttomercatoweb.com)
+
+- [Inzet malariamedicijn tijdens coronapandemie leidde tot doden, mogelijk ook in Nederland](https://www.nu.nl/coronavirus/6297316/inzet-malariamedicijn-tijdens-coronapandemie-leidde-tot-doden-mogelijk-ook-in-nederland.html) (Www.nu.nl)
+
+- [Bijna 17.000 doden door inzet malariamedicijn tijdens coronapandemie](https://www.nu.nl/coronavirus/6297316/bijna-17000-doden-door-inzet-malariamedicijn-tijdens-coronapandemie.html) (Www.nu.nl)
+
+- [Läkare ångrar oprövad covidmedicin: Borde inte börjat](https://www.dn.se/sverige/lakare-angrar-oprovad-covidmedicin-borde-inte-borjat/) (Www.dn.se)
+
+- ['Honderden coronapatiënten in Nederland overleden door bijwerkingen malariamiddel'](https://nos.nl/l/2504363) (Nos.nl)
+
+- [Statsepidemiologen ångrar covidbehandling](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1204483) (Aftonbladet.se)
+
+- [Ångrar oprövad covidmedicin: ”Slutade snabbt”](https://www.svd.se/a/veLplB/statsepidemiologen-angrar-covidbehandling) (Svenska Dagbladet)
+
+- [Statsepidemiologen ångrar covidbehandling](https://www.aftonbladet.se/nyheter/a/Knw2r4/statsepidemiologen-angrar-covidbehandling) (Aftonbladet.se)
+
 - [Tafenoquine following G6PD screening versus primaquine for the treatment of vivax malaria in Brazil: A cost-effectiveness analysis using a transmission model](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004255) (Plos.org)
 
 - [William Weightman Net Worth – How Much Was William Weightman Worth?](https://zacjohnson.com/william-weightman-net-worth/) (Zacjohnson.com)
 
 ## 24-2 (dengue)
+
+- [Avec ses bornes anti-moustiques, Qista poursuit son développement à l'international](https://region-sud.latribune.fr/innovation/2024-01-10/avec-ses-bornes-anti-moustiques-qista-poursuit-son-developpement-a-l-international-987561.html) (La Tribune.fr)
+
+- [Leonardo Bricio contrai dengue e lamenta recuperação solitária](https://gente.ig.com.br/colunas/gabriel-perline/2024-01-10/leonardo-bricio-contrai-dengue-e-lamenta-recuperacao-solitaria.html) (Ig.com.br)
+
+- [Dengue en Cartagena: las cifras están por debajo de la media nacional](https://www.eluniversal.com.co/cartagena/dengue-en-cartagena-las-cifras-estan-por-debajo-de-la-media-nacional-IA9763479) (Eluniversal.com.co)
+
+- [Taliban Minister Boasts Afghan Anti-Polio Gains While Addressing Global Health Huddle](https://www.voanews.com/a/taliban-minister-boasts-afghan-anti-polio-gains-while-addressing-global-health-huddle-/7434029.html) (VOA News)
+
+- [Adolescente morre por suspeita de dengue hemorrágica em MG](https://noticias.r7.com/minas-gerais/adolescente-morre-por-suspeita-de-dengue-hemorragica-em-mg-10012024) (R7.com)
 
 - [Campinas cria 'operação de guerra' contra a dengue com drones e entrada forçada em imóveis](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/09/campinas-cria-operacao-de-guerra-contra-a-dengue-com-drones-e-entrada-forcada-em-imoveis.ghtml) (Globo)
 
@@ -105,6 +155,8 @@ Source: [News API](https://newsapi.org/)
 - [Kelantan Health Dept records 2,790 dengue cases in state last year](https://www.malaymail.com/news/malaysia/2024/01/07/kelantan-health-dept-recorded-2790-dengue-cases-in-state-last-year/111065) (Malay Mail)
 
 ## 24-2 (chikungunya)
+
+- [Avec ses bornes anti-moustiques, Qista poursuit son développement à l'international](https://region-sud.latribune.fr/innovation/2024-01-10/avec-ses-bornes-anti-moustiques-qista-poursuit-son-developpement-a-l-international-987561.html) (La Tribune.fr)
 
 - [Valneva: pediatric study in chikungunya begins](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-pediatric-study-in-chikungunya-begins-45710748/) (Marketscreener.com)
 
@@ -1548,8 +1600,6 @@ Source: [News API](https://newsapi.org/)
 
 - [There’s no place for “benevolent deception” in obstetrics](https://www.kevinmd.com/2023/11/theres-no-place-for-benevolent-deception-in-obstetrics.html) (Kevinmd.com)
 
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
-
 ## 23-48 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 29th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-29th-november-2023/) (Iasbaba.com)
@@ -1571,8 +1621,6 @@ Source: [News API](https://newsapi.org/)
 - [Research links climate change to vampire bat expansion and rabies virus spillover](https://phys.org/news/2023-11-links-climate-vampire-expansion-rabies.html) (Phys.Org)
 
 - [Horror Movie Rabies Finds Monstrous Terror in 90s Beirut](https://www.comingsoon.net/horror/news/1415664-rabies-beirut-horror-movie) (ComingSoon.net)
-
-- [How one rabid kitten triggered massive effort to contain deadly disease](https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/) (The Washington Post)
 
 ## 23-48 (pertussis)
 
@@ -1613,14 +1661,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO Confirms Spread of MPox in DR Congo](https://allafrica.com/stories/202311270556.html) (AllAfrica - Top Africa News)
 
 - [Epidémie de mpox en RDC : 581 décès depuis janvier et nombre de cas record sur une année](https://www.lemonde.fr/afrique/article/2023/11/27/epidemie-de-mpox-en-rdc-581-deces-depuis-janvier-et-nombre-de-cas-record-sur-une-annee_6202586_3212.html) (Le Monde)
-
-- [Health officials on alert after first case of mpox detected in Idaho county](https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html) (Idaho State Journal)
-
-- [Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update](https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/) (Forbes)
-
-- [UN confirms sexual spread of mpox in Congo for the 1st time](https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367) (Ctvnews.ca)
-
-- [«Ευλογιά π»: 581 θάνατοι και ρεκόρ κρουσμάτων στο Κονγκό](https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/) (Naftemporiki.gr)
 
 ## 23-48 (meningitis)
 
@@ -1705,10 +1745,6 @@ Source: [News API](https://newsapi.org/)
 - [First Malaria Vaccines Arrive In Cameroon](https://www.forbes.com/sites/unicefusa/2023/11/27/first-malaria-vaccines-arrive-in-cameroon/) (Forbes)
 
 - [Pocket-sized DNA sequencers track malaria drug resistance in Ghana in near real-time](https://phys.org/news/2023-11-pocket-sized-dna-sequencers-track-malaria.html) (Phys.Org)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil](https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288) (NDTV News)
 
 ## 23-48 (leptospirosis)
 
@@ -1803,12 +1839,6 @@ Source: [News API](https://newsapi.org/)
 - [Afrique de l'Ouest: Une épidémie de dengue touche toutes les régions du Burkina Faso](https://fr.allafrica.com/stories/202311270231.html) (AllAfrica - Top Africa News)
 
 - [Saúde faz alerta para ressurgimento da dengue tipo 3](https://brasil.perfil.com/saude/saude-faz-alerta-para-ressurgimento-da-dengue-tipo-3.phtml) (Perfil.com)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Doenças transmitidas por mosquitos: Europa pede cautela aos países](https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130) (Expresso.pt)
-
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
 
 ## 23-48 (chikungunya)
 

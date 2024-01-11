@@ -1,8 +1,442 @@
 {
-  "last_updated": "2024-01-11 07:05",
-  "count_articles_total": 765,
-  "count_articles_new": 12,
+  "last_updated": "2024-01-11 19:05",
+  "count_articles_total": 780,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 4159,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / APV",
+      "title": "Virus Zika, eficaz para tratar c\u00e1ncer en ratones: Estudio",
+      "description": "Un grupo de roedores con neuroblastoma fueron tratados con inyecciones de Zika.",
+      "url": "https://aristeguinoticias.com/1001/kiosko/virus-zika-eficaz-para-tratar-cancer-en-ratones-estudio/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/01/virus-zika-cancer-ratones-1012024.jpg",
+      "publishedAt": "2024-01-10 18:39:53",
+      "content": "El neuroblastoma es un c\u00e1ncer infantil poco frecuente, frente al que el virus del Zika es eficaz para reducir o eliminar ese tumor en ratones, seg\u00fan ha demostrado un estudio, lo que sugiere que alg\u00fan\u2026 [+2608 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.823987",
+      "internal_id": "f595768d5eb92e24f67d11016d7c5b03463efac81da17bac08f1f1a262d4ef62",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4160,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jo\u00e3o V\u00edtor Reis",
+      "title": "Zika v\u00edrus pode ajudar no tratamento contra c\u00e2ncer, afirma estudo",
+      "description": "Estudo realizado na Fl\u00f3rida constatou os efeitos positivos do zika v\u00edrus em camundongos com neuroblastomas, c\u00e2ncer infantil grave",
+      "url": "https://www.metropoles.com/saude/zika-pode-ajudar-contra-cancer",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2020/07/20133121/zika-v%C3%ADrus-1.jpg",
+      "publishedAt": "2024-01-10 17:43:07",
+      "content": "O zika v\u00edrus pode ser usado como terapia para tratar pacientes com alguns tipos de c\u00e2ncer, de acordo com um grupo de especialistas do centro de pesquisas do Nemours Childrens Hospital, na Fl\u00f3rida, Es\u2026 [+4843 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.828123",
+      "internal_id": "ee2a804331d264562b343ea8552930bf1f16dcd273278e50286be8f281546386",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4150,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Demorgen.be",
+      "author": "Barbara Debusschere",
+      "title": "\u2018Hadden we het niet ingezet, was er ook kritiek geweest\u2019: 17.000 Europese doden door \u2018wondermiddel tegen corona\u2019, zegt studie",
+      "description": "In zes Europese landen zijn bijna 17.000 mensen gestorven aan de bijwerkingen van \u2018hydroxychloroquine\u2019, het malariamiddel dat beloftevol leek tegen...",
+      "url": "https://www.demorgen.be/nieuws/hadden-we-het-niet-ingezet-was-er-ook-kritiek-geweest-17-000-europese-doden-door-wondermiddel-tegen-corona-zegt-studie~bce229a2/",
+      "urlToImage": "https://img.demorgen.be/30d94e9c84b8da01dbcbab60e07e97a2df463c8d/hadden-we-het-niet-ingezet-was-er-ook-kritiek-geweest-17000-europese-doden-door-wondermiddel-tegen-corona-zegt-studie",
+      "publishedAt": "2024-01-10 17:35:49",
+      "content": "In zes Europese landen zijn bijna 17.000 mensen gestorven aan de bijwerkingen van hydroxychloroquine, het malariamiddel dat beloftevol leek tegen corona. Dat staat in een nieuwe Franse studie, die mi\u2026 [+5678 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.569743",
+      "internal_id": "cb71a52745cfa91415075189d58c4e74e0eec819769d26170c3955fda555f9cc",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4153,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Demorgen.be",
+      "author": "Barbara Debusschere",
+      "title": "\u2018Wondermiddel tegen corona\u2019 hydroxychloroquine kostte aan wellicht 17.000 Europeanen het leven",
+      "description": "In zes Europese landen zijn bijna 17.000 mensen gestorven aan de bijwerkingen van \u2018hydroxychloroquine\u2019, het malariamiddel dat beloftevol leek tegen...",
+      "url": "https://www.demorgen.be/nieuws/wondermiddel-tegen-corona-hydroxychloroquine-kostte-aan-wellicht-17-000-europeanen-het-leven~bce229a2/",
+      "urlToImage": "https://img.demorgen.be/30d94e9c84b8da01dbcbab60e07e97a2df463c8d/wondermiddel-tegen-corona-hydroxychloroquine-kostte-aan-wellicht-17000-europeanen-het-leven",
+      "publishedAt": "2024-01-10 17:35:49",
+      "content": "In zes Europese landen zijn bijna 17.000 mensen gestorven aan de bijwerkingen van hydroxychloroquine, het malariamiddel dat beloftevol leek tegen corona. Dat staat in een nieuwe Franse studie, die mi\u2026 [+5639 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.601479",
+      "internal_id": "dddcd6628724ca7916084874603e18bc3569c749f912cfac5965219828d764f6",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4140,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "La Tribune.fr",
+      "author": "Ma\u00ebva Gardet-Pizzo",
+      "title": "Avec ses bornes anti-moustiques, Qista poursuit son d\u00e9veloppement \u00e0 l'international",
+      "description": "Install\u00e9e \u00e0 S\u00e9nas, dans les Bouches-du-Rh\u00f4ne, Qista fabrique des bornes qui, en imitant la respiration humaine, sont capables de pi\u00e9ger les moustiques et d'obtenir des donn\u00e9es sur leur pr\u00e9sence pour mieux les contr\u00f4ler. Une technologie qui a convaincu des cli\u2026",
+      "url": "https://region-sud.latribune.fr/innovation/2024-01-10/avec-ses-bornes-anti-moustiques-qista-poursuit-son-developpement-a-l-international-987561.html",
+      "urlToImage": "https://static.latribune.fr/full_width/2300036/qista.jpg",
+      "publishedAt": "2024-01-10 17:35:00",
+      "content": "Dengue, paludisme, fi\u00e8vre jaune, chikungunya, zyka ... Chaque ann\u00e9e, les moustiques sont \u00e0 l'origine d'environ 800.000 d\u00e9c\u00e8s \u00e0 travers le monde. Un chiffre que risque de gonfler la prolif\u00e9ration de m\u2026 [+6864 chars]",
+      "retrievedAt": "2024-01-11 19:05:25.729663",
+      "internal_id": "f0cb42cde3483b5fac834af7fab169c68f6af34f3aee90754822542da769adfd",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4139,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Gabriel Perline, Gabriel Perline",
+      "title": "Leonardo Bricio contrai dengue e lamenta recupera\u00e7\u00e3o solit\u00e1ria",
+      "description": "O ator refor\u00e7ou aos seguidores que \"n\u00e3o brinquem\" com a doen\u00e7a",
+      "url": "https://gente.ig.com.br/colunas/gabriel-perline/2024-01-10/leonardo-bricio-contrai-dengue-e-lamenta-recuperacao-solitaria.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/7e/q6/e4/7eq6e432vzkazt5lq3gq7gu12.jpg",
+      "publishedAt": "2024-01-10 16:45:02",
+      "content": "Nesta quarta-feira (10), Leonardo Bricio contou que est\u00e1 com dengue. Em seu Instagram, o ator publicou um v\u00eddeo contando mais detalhes de sua recupera\u00e7\u00e3o e desabafou sobre o momento solit\u00e1rio que est\u2026 [+1344 chars]",
+      "retrievedAt": "2024-01-11 19:05:25.718420",
+      "internal_id": "ca93853db68cdd0120d3f6dc5c24b0726f6638552af893ba235023e4775308f8",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4155,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nu.nl",
+      "author": "Linda van Beest",
+      "title": "Malariamedicijn tijdens pandemie leidde tot doden, mogelijk ook in Nederland",
+      "description": "16.990 mensen overleden tijdens de coronapandemie aan de bijwerkingen van hydroxychloroquine (HCQ). Malariamedicijn HCQ werd gebruikt om ernstig zieke coronapati\u00ebnten te helpen. In Nederland zijn mogelijk ook honderden mensen om het leven gekomen door de bijw\u2026",
+      "url": "https://www.nu.nl/coronavirus/6297316/malariamedicijn-tijdens-pandemie-leidde-tot-doden-mogelijk-ook-in-nederland.html",
+      "urlToImage": "https://media.nu.nl/m/n6exj81aquh3_wd1280/malariamedicijn-tijdens-pandemie-leidde-tot-doden-mogelijk-ook-in-nederland.jpg",
+      "publishedAt": "2024-01-10 15:27:02",
+      "content": "10 jan 2024 om 12:36 Update: 14 minuten geleden 16.990 mensen overleden tijdens de coronapandemie aan de bijwerkingen van hydroxychloroquine (HCQ). Malariamedicijn HCQ werd gebruikt om ernstig ziek\u2026 [+5179 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.611855",
+      "internal_id": "eb37df6b26e297018a17e2d7e94c3eb4a6ca2f094d2ff1a31d06233a62e45914",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4146,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Sunday Nwakanma",
+      "title": "Abia trains health workers in malaria control",
+      "description": "Abia State Government, on Wednesday, embarked on a two-day training of local government area and ward healthcare givers on malaria prevention, control and management in the state. The training is part of a programme by the World Bank, in collaboration with t\u2026",
+      "url": "https://punchng.com/abia-trains-health-workers-in-malaria-control-2/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/08/28154101/Abia-State.jpg",
+      "publishedAt": "2024-01-10 15:00:59",
+      "content": "Abia State Government, on Wednesday, embarked on a two-day training of local government area and ward healthcare givers on malaria prevention, control and management in the state. The training is p\u2026 [+1586 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.533814",
+      "internal_id": "1809a8af7013b32807c74073265d5f0cebfc17a5802a7c5d297d7c6e8b0ca456",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4142,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "EL UNIVERSAL",
+      "title": "Dengue en Cartagena: las cifras est\u00e1n por debajo de la media nacional",
+      "description": "Los equipos interdisciplinarios del Departamento Administrativo Distrital de Salud, DADIS, actuaran como \u201ccazadores\u201d del vector transmisor del dengue en los barrios de mayor afectaci\u00f3n de la enfermedad con el prop\u00f3sito de reducir los casos positivos, dijo el \u2026",
+      "url": "https://www.eluniversal.com.co/cartagena/dengue-en-cartagena-las-cifras-estan-por-debajo-de-la-media-nacional-IA9763479",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/1220x687/210c0/800d686/none/13704/GSSR/los-equipos-interdisciplinarios-del-departamento-administrativo-distrital-de-salud-dadis_9306167_20240110093454.jpg",
+      "publishedAt": "2024-01-10 14:40:00",
+      "content": "Los equipos interdisciplinarios del Departamento Administrativo Distrital de Salud, DADIS, actuaran como cazadores del vector transmisor del dengue en los barrios de mayor afectaci\u00f3n de la enfermedad\u2026 [+1816 chars]",
+      "retrievedAt": "2024-01-11 19:05:25.750293",
+      "internal_id": "265c0296049f47911e0ca45d6a443bb3bd9e9d7d8ebe4b0bffc81e3f123fb044",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4138,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (Ayaz Gul)",
+      "title": "Taliban Minister Boasts Afghan Anti-Polio Gains While Addressing Global Health Huddle",
+      "description": "Islamabad \u2014 A senior representative of Afghanistan\u2019s Taliban government told a Pakistan-hosted international health conference Wednesday that his country had recorded an increase in mosquito-borne malaria and dengue fever cases, but infections caused by highl\u2026",
+      "url": "https://www.voanews.com/a/taliban-minister-boasts-afghan-anti-polio-gains-while-addressing-global-health-huddle-/7434029.html",
+      "urlToImage": "https://gdb.voanews.com/B6E7B14B-2240-4EC4-88EC-F55FE44D5CD9.jpg",
+      "publishedAt": "2024-01-10 14:01:40",
+      "content": "Islamabad A senior representative of Afghanistans Taliban government told a Pakistan-hosted international health conference Wednesday that his country had recorded an increase in mosquito-borne mala\u2026 [+3115 chars]",
+      "retrievedAt": "2024-01-11 19:05:25.711253",
+      "internal_id": "fa3c66400a6bd501a519970484fa33b4408202dd8cfff67be2fb3d9d1dff2d82",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4158,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Amy G. Wilson, David R. Lapen, Jennifer F. Provencher, Scott Wilson",
+      "title": "The role of species ecology in predicting Toxoplasma gondii prevalence in wild and domesticated mammals globally",
+      "description": "Author summary Toxoplasma gondii, a relative of malaria, is one of the most common parasitic infections in the world, capable of causing severe and chronic health problems to host species, which encompasses all warm-blooded animals. Humans, wildlife and domes\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011908",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011908.g002&size=inline",
+      "publishedAt": "2024-01-10 14:00:00",
+      "content": "Abstract Macroecological approaches can provide valuable insight into the epidemiology of globally distributed, multi-host pathogens. Toxoplasma gondii is a protozoan that infects any warm-blooded a\u2026 [+48174 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.629324",
+      "internal_id": "5549de9b608dd95282f26f85c91ce4651922639d8e820aeba0c2d8b5f8bc8788",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4154,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Sushmitha Ramakrishnan",
+      "title": "Hydroxychloroquine: COVID 'cure' linked to 17,000 deaths",
+      "description": "Amidst the panic of the first wave of COVID-19, existing drugs were repurposed as a treatment. Some ideas were fatal. Researchers have linked hydroxychloroquine \u2014 an antimalarial drug that was briefly promoted by former US President Donald Trump and others as\u2026",
+      "url": "https://www.dw.com/en/hydroxychloroquine-covid-cure-linked-to-17000-deaths/a-67937178",
+      "urlToImage": "https://static.dw.com/image/55298810_6.jpg",
+      "publishedAt": "2024-01-10 13:36:00",
+      "content": "Researchers have linked hydroxychloroquine an antimalarial drug that was briefly promoted by former US President Donald Trump and others as a \"miracle\" medicine for COVID-19 to an increased mortalit\u2026 [+5668 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.606078",
+      "internal_id": "55894307e12c9878f1d2c1159e7bdb4cd494d8f4f380a45a183df14143079e9a",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4157,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Investigadores espa\u00f1oles identifican una barrera defensiva para luchar contra la malaria",
+      "description": "Un grupo de investigadores de la Universidad Complutense de Madrid, la Universidad Rey Juan Carlos y del Instituto de Investigaci\u00f3n del Hospital 12 de Octubre de Madrid, en colaboraci\u00f3n con la Universidad de Ghana, han dado un paso esencial para descubrir la \u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-investigadores-espanoles-identifican-barrera-defensiva-luchar-contra-malaria-20240110130223.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240110130223_1200.jpg",
+      "publishedAt": "2024-01-10 12:02:23",
+      "content": "MADRID, 10 Ene. (EUROPA PRESS) - Un grupo de investigadores de la Universidad Complutense de Madrid, la Universidad Rey Juan Carlos y del Instituto de Investigaci\u00f3n del Hospital 12 de Octubre de M\u2026 [+3091 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.623385",
+      "internal_id": "eb4fc9e3c42a4041f87bfd7cef2a23242b39a9100b98a4fc660cf6deb5503f7b",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4147,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Andrea Losapio",
+      "title": "Bournemouth, Traor\u00e9 \u00e8 guarito dalla malaria. Interessamenti da Roma e Napoli",
+      "description": "Hamed Traor\u00e9 \u00e8 guarito dalla malaria e potrebbe anche diventare presto un uomo mercato. Il centrocampista era finito in ospedale nei giorni scorsi e a confermarlo ci aveva pensato Andoni Iraola, tec",
+      "url": "https://www.tuttomercatoweb.com/serie-a/bournemouth-traore-e-guarito-dalla-malaria-interessamenti-da-roma-e-napoli-1921215",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/5c/5c962b035bdef97d668a91cdc9271fc6-09228-oooz0000.jpeg",
+      "publishedAt": "2024-01-10 11:55:57",
+      "content": "Hamed Traor\u00e9 \u00e8 guarito dalla malaria e potrebbe anche diventare presto un uomo mercato. Il centrocampista era finito in ospedale nei giorni scorsi e a confermarlo ci aveva pensato Andoni Iraola, tecn\u2026 [+1143 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.538398",
+      "internal_id": "94cf08e260aa8020fcca5d97c6ad51e1ae32c3a6ec0dd767946fb30a3e791884",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4137,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Philadelphia Inquirer",
+      "author": "Abraham Gutman",
+      "title": "CHOP vaccination expert recommends MMR vaccine after measles outbreak in Philadelphia",
+      "description": "The outbreak spread from the Children's Hospital of Philadelphia to a daycare when a person with measles violated quarantine guidelines.",
+      "url": "https://www.inquirer.com/health/philadelphia-measles-outbreak-symptoms-vaccine-age-mmr-20240110.html",
+      "urlToImage": "https://www.inquirer.com/resizer/ymcVciMXBXEqkxzBLM04HlBJalk=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/4PFGYLRVMBES7CBV4IZEPCBT5Q.jpg",
+      "publishedAt": "2024-01-10 11:50:51",
+      "content": "Five children attending a day-care center in Northeast Philadelphia have been sickened with measles, health officials said this week, confirming two more cases there. In all, the city has identified\u2026 [+5614 chars]",
+      "retrievedAt": "2024-01-11 19:05:25.369344",
+      "internal_id": "f1b343485648808f12824a2037d72b04468ab0a6904ece46a08c5afe58873cb4",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4145,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nu.nl",
+      "author": "Linda van Beest",
+      "title": "Inzet malariamedicijn tijdens coronapandemie leidde tot doden, mogelijk ook in Nederland",
+      "description": "16.990 mensen overleden tijdens de coronapandemie aan de bijwerkingen van hydroxycholoquine (HCQ). Malariamedicijn HCQ werd gebruikt om ernstig zieke coronapati\u00ebnten te helpen. In Nederland zijn mogelijk ook honderden mensen om het leven gekomen door de bijwe\u2026",
+      "url": "https://www.nu.nl/coronavirus/6297316/inzet-malariamedicijn-tijdens-coronapandemie-leidde-tot-doden-mogelijk-ook-in-nederland.html",
+      "urlToImage": "https://media.nu.nl/m/n6exj81aquh3_wd1280/inzet-malariamedicijn-tijdens-coronapandemie-leidde-tot-doden-mogelijk-ook-in-nederland.jpg",
+      "publishedAt": "2024-01-10 11:47:54",
+      "content": "10 jan 2024 om 12:36 Update: 7 minuten geleden 16.990 mensen overleden tijdens de coronapandemie aan de bijwerkingen van hydroxycholoquine (HCQ). Malariamedicijn HCQ werd gebruikt om ernstig zieke \u2026 [+5174 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.528495",
+      "internal_id": "159ef757fae5f99c3619b039cffad80095ec33fedd8676436b9ac65f58e1c1df",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4152,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nu.nl",
+      "author": "Linda van Beest",
+      "title": "Bijna 17.000 doden door inzet malariamedicijn tijdens coronapandemie",
+      "description": "16.990 mensen overleden tijdens de coronapandemie aan de bijwerkingen van hydroxycholoquine (HCQ). Malariamedicijn HCQ werd gebruikt om ernstig zieke coronapati\u00ebnten te helpen. In Nederland zijn mogelijk ook honderden mensen om het leven gekomen door de bijwe\u2026",
+      "url": "https://www.nu.nl/coronavirus/6297316/bijna-17000-doden-door-inzet-malariamedicijn-tijdens-coronapandemie.html",
+      "urlToImage": "https://media.nu.nl/m/n6exj81aquh3_wd1280/bijna-17000-doden-door-inzet-malariamedicijn-tijdens-coronapandemie.jpg",
+      "publishedAt": "2024-01-10 11:36:34",
+      "content": "16.990 mensen overleden tijdens de coronapandemie aan de bijwerkingen van hydroxycholoquine (HCQ). Malariamedicijn HCQ werd gebruikt om ernstig zieke coronapati\u00ebnten te helpen. In Nederland zijn moge\u2026 [+5129 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.589784",
+      "internal_id": "98323c53738766ff01f36a7714ab1d16c7ac0ede81b8be0b183f5e1b34181f38",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4141,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7, com TV Leste",
+      "title": "Adolescente morre por suspeita de dengue hemorr\u00e1gica em MG",
+      "description": "Funda\u00e7\u00e3o Ezequiel Dias realiza exames laboratoriais para confirmar causa exata do falecimento da jovem",
+      "url": "https://noticias.r7.com/minas-gerais/adolescente-morre-por-suspeita-de-dengue-hemorragica-em-mg-10012024",
+      "urlToImage": "https://img.r7.com/images/morre-suspeita-dengue-10012024102400179",
+      "publishedAt": "2024-01-10 10:46:43",
+      "content": "Prefeitura aguarda resultado de exames para confirmar causa da morte Reprodu\u00e7\u00e3o/Redes Sociais Uma adolescente, de 17 anos, moradora da cidade de Tim\u00f3teo, a 196 km de Belo Horizonte, morr\u2026 [+639 chars]",
+      "retrievedAt": "2024-01-11 19:05:25.734882",
+      "internal_id": "6078013a9df958280195e07e7fbdb1e6de270131c21b853d1d35644173fc66cb",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4149,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.se",
+      "author": "TT",
+      "title": "L\u00e4kare \u00e5ngrar opr\u00f6vad covidmedicin: Borde inte b\u00f6rjat",
+      "description": "",
+      "url": "https://www.dn.se/sverige/lakare-angrar-oprovad-covidmedicin-borde-inte-borjat/",
+      "urlToImage": "https://cached-images.bonnier.news/gcs/bilder/dn-mly/73a62005-6a31-49bf-b8b6-9b9bfaf0372f.jpeg?interpolation=lanczos-none&fit=around%7C1024:576&crop=1024:h;center,top&output-quality=80",
+      "publishedAt": "2024-01-10 10:40:18",
+      "content": "L\u00e4kemedlen hydroxiklorikin och klorokin, som i vanliga fall anv\u00e4nds f\u00f6r att behandla malaria, gavs till sv\u00e5rt sjuka covidpatienter under pandemin. Men senare studier har visat att medicineringen gav \u2026 [+1046 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.550993",
+      "internal_id": "a5aeca1d726452cc6586541ffcfbc8ba313135e9c08556c7b6cc18b2ebb364dc",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4156,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nos.nl",
+      "author": null,
+      "title": "'Honderden coronapati\u00ebnten in Nederland overleden door bijwerkingen malariamiddel'",
+      "description": "In de beginfase van de coronapandemie zijn ook in Nederland waarschijnlijk enkele honderden mensen overleden door de bijwerkingen van het malariamiddel hydroxychloroquine. Arts-microbioloog Marc Bonten zegt dat in de Volkskrant, in reactie op een internationa\u2026",
+      "url": "https://nos.nl/l/2504363",
+      "urlToImage": "https://cdn.nos.nl/image/2024/01/10/1042188/1024x576a.jpg",
+      "publishedAt": "2024-01-10 08:34:31",
+      "content": "In de beginfase van de coronapandemie zijn ook in Nederland waarschijnlijk enkele honderden mensen overleden door de bijwerkingen van het malariamiddel hydroxychloroquine. Arts-microbioloog Marc Bont\u2026 [+2359 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.616733",
+      "internal_id": "493dcd46056c4771bba40ebc4870b02412c834d3b28e71a3ca8651fc0476be03",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4144,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "Statsepidemiologen \u00e5ngrar covidbehandling",
+      "description": "\u25b8 L\u00e4kemedlen hydroxiklorikin och klorokin, som i vanliga fall anv\u00e4nds f\u00f6r att behandla malaria, gavs till sv\u00e5rt sjuka\u2026",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1204483",
+      "urlToImage": "https://imbo.vgc.no/users/bt/images/17c13b4803d0f57f6efb8f831e271d53?t%5B%5D=maxSize%3Awidth%3D1200&publicKey=bt-w&accessToken=5b9bcbd4ebf625a51ff6915f5c6ddf54ab07811eb8bfa47b7f6a1b870912f459",
+      "publishedAt": "2024-01-10 08:27:45",
+      "content": "TRE NYHETER DU INTE F\u00c5R MISSA: Statsepidemiologen \u00e5ngrar covidbehandling Magnus Gissl\u00e9n, statsepidemiolog och tidigare \u00f6verl\u00e4kare p\u00e5 infektionskliniken p\u00e5 Sahlgrenska i G\u00f6teborg, anser att \u2026 [+14367 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.521383",
+      "internal_id": "6548fd4a148736b10841a09802cd83af95edfb575dee3111a9b023559b21d201",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4148,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "svenska-dagbladet",
+      "source_name": "Svenska Dagbladet",
+      "author": "TT",
+      "title": "\u00c5ngrar opr\u00f6vad covidmedicin: \u201dSlutade snabbt\u201d",
+      "description": "Tusentals kan ha d\u00f6tt sedan de f\u00e5tt malariamedicin mot covid-19. \u00c4ven i Sverige gavs l\u00e4kemedlet under en kort period. \u2013 Vi borde aldrig ha b\u00f6rjat, s\u00e4ger statsepidemiologen.",
+      "url": "https://www.svd.se/a/veLplB/statsepidemiologen-angrar-covidbehandling",
+      "urlToImage": "https://svd.vgc.no/v2/images/9a3ec5c5-dc72-47a2-b75f-eb6f3eb35969?h=630&q=80&upscale=true&w=1200&s=0c1877444382fed4a1927268cf60c2f328de9b73",
+      "publishedAt": "2024-01-10 08:17:44",
+      "content": "L\u00e4kemedlen hydroxiklorikin och klorokin, som i vanliga fall anv\u00e4nds f\u00f6r att behandla malaria, gavs till sv\u00e5rt sjuka covidpatienter under pandemin. Men senare studier har visat att medicineringen gav \u2026 [+226 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.542481",
+      "internal_id": "05aa10ae1dd89f7ca4430e68b5be280718c48dc8564ab23703af7d0ea5e44a8b",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4151,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Statsepidemiologen \u00e5ngrar covidbehandling",
+      "description": "L\u00e4kemedlen hydroxiklorikin och klorokin, som i vanliga fall anv\u00e4nds f\u00f6r att behandla malaria, gavs till sv\u00e5rt sjuka covidpatienter under pandemin. Men senare st",
+      "url": "https://www.aftonbladet.se/nyheter/a/Knw2r4/statsepidemiologen-angrar-covidbehandling",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/e2ad900b-c6f8-4d53-91f3-c95a2478121e?fit=crop&format=auto&h=1266&q=50&w=1900&s=0714fc79b3093abc31bf5ec774deabb4c7549888",
+      "publishedAt": "2024-01-10 08:17:43",
+      "content": "share-arrow Dela L\u00e4kemedlen hydroxiklorikin och klorokin, som i vanliga fall anv\u00e4nds f\u00f6r att behandla malaria, gavs till sv\u00e5rt sjuka covidpatienter under pandemin. Men senare studier har visat att \u2026 [+994 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.580231",
+      "internal_id": "8b887e7d72ad78abc1f42890f5efaa70c556fd1773dc79b035533ecdac3fc9fe",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4143,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Hola",
+      "author": "hola.com",
+      "title": "\u00bfQu\u00e9 es la meningitis criptoc\u00f3cica, la enfermedad que padece el marido de Patricia P\u00e9rez?",
+      "description": "Luis Canut ha sido diagnosticado con esta enfermedad ocasionada por un hongo",
+      "url": "https://www.hola.com/estar-bien/20240110246310/meningitis-criptococica-patricia-perez-enfermedad-marido/",
+      "urlToImage": "https://images.hola.com/imagenes/estar-bien/20240110246310/meningitis-criptococica-patricia-perez-enfermedad-marido/1-358-975/patricia-perez-marido-t.jpg",
+      "publishedAt": "2024-01-10 08:00:13",
+      "content": "La que fuera presentadora de televisi\u00f3n Patricia P\u00e9rez ha compartido recientemente el problema de salud que padece su marido, Luis Canut, desde hace ya casi un a\u00f1o, en concreto, desde el mes de marzo\u2026 [+10045 chars]",
+      "retrievedAt": "2024-01-11 19:05:26.050291",
+      "internal_id": "0990bb6b0186648153169810331511a658dc0ea5b7798ceb4eacc66fec2d27d2",
+      "publishedAtLabel": "Jan 10"
+    },
     {
       "id": 4133,
       "query": [
@@ -13666,170 +14100,6 @@
       "content": " A single dose of measles and rubella (MR) vaccine delivered to adults by the Vaxxas high-density microarray patch (HD-MAP) provided antibody responses comparable to the same vaccine deliver\u2026 [+7617 chars]",
       "retrievedAt": "2023-11-28 07:05:42.273360",
       "internal_id": "14ec722e297a3904ea15934e5a613d0fe6dddfacb5049b47d81528d10036629e",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3360,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Idaho State Journal",
-      "author": "Idaho Press Staff",
-      "title": "Health officials on alert after first case of mpox detected in Idaho county",
-      "description": "Health officials on alert after first case of mpox detected in Idaho countyidahostatejournal.com",
-      "url": "https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/9/f7/9f7f8a2d-91f4-57ae-98e1-c3571e3759c0/6560ec6d4e1c7.image.jpg?crop=1776%2C932%2C0%2C117&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-11-26 17:40:02",
-      "content": "The first case of mpox, formerly known as monkeypox, has been detected in Canyon County. Southwest District Health announced Tuesday that the case was detected in mid-November in a male Canyon Count\u2026 [+1748 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.993193",
-      "internal_id": "c0774c113fc50a888216cb5c2815fdf56f84e1e39dd6b131da1894a2448cf7d0",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3358,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update",
-      "description": "The Democratic Republic of Congo has never had this many Mpox cases. There was also the first documented case in the world of Clade I MXPV transmission via sexual contact",
-      "url": "https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65636f80720b4d7f82cbd859/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-26 17:09:01",
-      "content": "The Democratic Republic of Congo has been experiencing its largest ever outbreak of Mpox. This was ... [+] the first year that Kinshasa has had suspected Mpox cases. (Photo by ARSENE MPIANA/AFP via G\u2026 [+6011 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.960137",
-      "internal_id": "87f40fbc37ef678176a58b20d27b14d0bcd0a28150a89c577e01ac97d20257fc",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3354,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Diepresse.com",
-      "author": "J\u00fcrgen Langenbach",
-      "title": "Bringt Klima Tropenfieber? [premium]",
-      "description": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen.",
-      "url": "https://www.diepresse.com/17849599/bringt-klima-tropenfieber",
-      "urlToImage": "https://img.diepresse.com/public/incoming/hipyx3-Tropenfieber/alternates/DPR_SOCIAL_MAGAZIN_PAID/Tropenfieber",
-      "publishedAt": "2023-11-26 16:16:22",
-      "content": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen. Ende August erkrankten am Gardasee drei Menschen \u2026 [+2238 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.371580",
-      "internal_id": "9e02535ae752dc506ab723875c676b5f65c03ffc99da8c33e283a342b2c64cb5",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3361,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ctvnews.ca",
-      "author": "The Associated Press",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time",
-      "description": "The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development that African scientists warn could make it more difficult to stop the dise\u2026",
-      "url": "https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367",
-      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/11/26/mpox-particles-1-6661368-1701012524681.jpg",
-      "publishedAt": "2023-11-26 15:34:30",
-      "content": "LONDON - The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development tha\u2026 [+3280 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.997446",
-      "internal_id": "bc4315b698bae204034680118460df8a2003d307ed5347450f541f61ef0938d7",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3357,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil",
-      "description": "A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday.",
-      "url": "https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288",
-      "urlToImage": "https://c.ndtvimg.com/2023-10/1ininp3k_uk-hospital-generic_625x300_02_October_23.jpg",
-      "publishedAt": "2023-11-26 15:30:12",
-      "content": "He was a resident of Shivpuri district in Madhya Pradesh (Representational) Shivpuri: A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday. \"My\u2026 [+1890 chars]",
-      "retrievedAt": "2023-11-27 19:05:28.318108",
-      "internal_id": "42931a3b084f0711bfdfd9c81fd0a61b23864d336a3369dca765e12b8b2c779d",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3353,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Lena H. Sun",
-      "title": "How one rabid kitten triggered massive effort to contain deadly disease",
-      "description": "If the rabies virus spreads unchecked in raccoons, transmission would easily radiate out from Omaha into other states, putting 7 million people at increased risk.",
-      "url": "https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GMYQBL7A6RAQJC4WHFWHBN2PXA.jpg&w=1440",
-      "publishedAt": "2023-11-26 14:04:27",
-      "content": "Comment on this story Comment Add to your saved stories Save At first, Madeline Wahl thought her new kitten was having a bad reaction to medication for ringworm.After each dose, he would shake hi\u2026 [+8182 chars]",
-      "retrievedAt": "2023-11-27 19:05:26.584944",
-      "internal_id": "eb4bf4678d67256a47a66fd76354a04d81f49e97e797c8b8b9a53c0793cdb540",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3355,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Joana Ascens\u00e3o",
-      "title": "Doen\u00e7as transmitidas por mosquitos: Europa pede cautela aos pa\u00edses",
-      "description": "Centro Europeu da Preven\u00e7\u00e3o e Controlo de Doen\u00e7as est\u00e1 preocupado com preval\u00eancia de algumas doen\u00e7as. Altera\u00e7\u00f5es clim\u00e1ticas s\u00e3o respons\u00e1veis pela maior presen\u00e7a de mosquitos em territ\u00f3rio europeu",
-      "url": "https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130",
-      "urlToImage": "https://images.impresa.pt/expresso/2022-02-10-Aedes-aegypti-mosquito-mosquito-da-dengue-ca776fa9/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-11-26 13:10:03",
-      "content": "H\u00e1 cada vez mais mosquitos transmissores de doen\u00e7as, como a dengue, a febre-amarela e a febre do Nilo Ocidental, no espa\u00e7o europeu. O Centro Europeu de Preven\u00e7\u00e3o e Controlo de \u00adDoen\u00e7as (ECDC, na sigl\u2026 [+1594 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.379872",
-      "internal_id": "476cfe84197222cb6ed74dee7dfc3a1f365867b799affaf68c48b1cef9753d12",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3356,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Raquel Albuquerque, Ana Bai\u00e3o, Jos\u00e9 Cedovim Pinto",
-      "title": "Os Aedes albopictus s\u00e3o inteligentes \u201ce exploram os comportamentos humanos\u201d: autoridades monitorizam mosquito da dengue e zika em Portugal",
-      "description": "Os Aedes albopictus, capazes de transmitir dengue, zika ou chicungunha, foram detetados em tr\u00eas freguesias da Grande Lisboa em setembro, depois de terem sido encontrados na regi\u00e3o Norte ainda em 2017, al\u00e9m do Algarve e Alentejo nos anos seguintes. At\u00e9 agora, \u2026",
-      "url": "https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152",
-      "urlToImage": "https://images.impresa.pt/expresso/2023-11-23-aedes-albopictus-c60e7243-1/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-11-26 13:09:39",
-      "content": "As primeiras fotografias dos mosquitos chegaram \u00e0s m\u00e3os dos cientistas no m\u00eas de setembro, enviadas por moradores na regi\u00e3o de Lisboa, depois de se cruzarem com uns insetos invulgares que, ao picarem\u2026 [+1577 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.383737",
-      "internal_id": "612dadc92d23cf880fb62e7a11e7873f51975733e1bd2c7561997f952a7f4dfc",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3359,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Naftemporiki.gr",
-      "author": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
-      "title": "\u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc",
-      "description": "\u039f \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c7\u03b8\u03b5\u03c2 \u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf \u03cc\u03c4\u03b9 \u03c3\u03c4\u03b7 \u039b\u0394 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af 12.569 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c0\u00bb (mpox, \u03bd\u03cc\u03c3\u03bf\u03c2 \u03b7 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ae\u03c4\u03b1\u03bd \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03bc\u03b5 \u03c4\u03b7\u03bd \u03bf\u03bd\u03bf\u03bc\u03b1\u03c3\u03af\u03b1 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u2026 \u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc - \u0397 \u039d\u0391\u03a5\u03a4\u2026",
-      "url": "https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/",
-      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2022/05/1864751.jpeg",
-      "publishedAt": "2023-11-26 09:36:54",
-      "content": "12.569 \u00ab \u00bb (mpox, \u00ab \u00bb), 581 , 1 12 , . \u00ab , , , \u00bb, . , clade (.. ) , , \u00ab \u00bb. 1970 , , , , ... 2022 , , 23 2022. 11 , . (.. Clade b ) . , . , 91.788 , 167 , 116 2022 31 2023, . , clade I cla\u2026 [+84 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.989287",
-      "internal_id": "18e15fbf5fbd461329f448709c8676fe17713fdf2c298c764b40b3166474d07f",
       "publishedAtLabel": "Nov 26"
     }
   ]
