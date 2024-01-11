@@ -1,8 +1,224 @@
 {
-  "last_updated": "2024-01-10 19:05",
-  "count_articles_total": 744,
-  "count_articles_new": 9,
+  "last_updated": "2024-01-11 07:05",
+  "count_articles_total": 765,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 4133,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Valneva: pediatric study in chikungunya begins",
+      "description": "(marketscreener.com) Valneva announces the vaccination of the first participant in its Phase 2 clinical study evaluating the safety and immunogenicity of two different doses of its single-injection chikungunya vaccine in children. This multi-center, randomize\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-pediatric-study-in-chikungunya-begins-45710748/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-01-10 07:04:07",
+      "content": "Valneva announces the vaccination of the first participant in its Phase 2 clinical study evaluating the safety and immunogenicity of two different doses of its single-injection chikungunya vaccine in\u2026 [+654 chars]",
+      "retrievedAt": "2024-01-11 07:05:51.613796",
+      "internal_id": "90b2b0741170d4de52762a198c61bc5f5d8295c66da7c103800e93677c4eb183",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4131,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Nuevos datos prometedores en el tratamiento del neuroblastoma con el virus del Zika",
+      "description": "La inyecci\u00f3n de tumores de neuroblastoma con el virus del Zika logr\u00f3 reducir o eliminar el tumor en casos de neuroblastoma en investigaciones con ratones, lo que sugiere que alg\u00fan d\u00eda el virus podr\u00eda servir como una terapia eficaz contra el c\u00e1ncer, seg\u00fan un e\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-nuevos-datos-prometedores-tratamiento-neuroblastoma-virus-zika-20240110072448.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240110072448_1200.jpg",
+      "publishedAt": "2024-01-10 06:24:48",
+      "content": "MADRID, 10 Ene. (EUROPA PRESS) - La inyecci\u00f3n de tumores de neuroblastoma con el virus del Zika logr\u00f3 reducir o eliminar el tumor en casos de neuroblastoma en investigaciones con ratones, lo que s\u2026 [+4585 chars]",
+      "retrievedAt": "2024-01-11 07:05:51.386343",
+      "internal_id": "5742cd31bb28038efad8868f2254e095899b449072f23ee8c6fdc4c5a09309ab",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4136,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Valneva Vaccinates First Participant in Pediatric Trial of Single-Shot Chikungunya Vaccine",
+      "description": "(marketscreener.com) Saint-Herblain , January 10, 2024 \u2013 Valneva SE today announced that the first participant has been vaccinated in the Phase 2 clinical trial evaluating the safety and Immunogenicity in children of two different dose levels of Valneva\u2019s sin\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Vaccinates-First-Participant-in-Pediatric-Trial-of-Single-Shot-Chikungunya-Vaccine-45710416/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-01-10 06:01:03",
+      "content": "Saint-Herblain (France), January 10, 2024 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA) today announced that the first participant has been vaccinated in the Phase 2 clinical trial evaluating the sa\u2026 [+9621 chars]",
+      "retrievedAt": "2024-01-11 07:05:51.624343",
+      "internal_id": "60d438b990d6c0795b2e4305e5034ad04518635ae32c55d6c840273e6b450f33",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4134,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva vaccine le premier participant de l\u2019\u00e9tude p\u00e9diatrique portant sur son vaccin \u00e0 dose unique contre le chikungunya",
+      "description": "Saint-Herblain (France), 10 janvier 2024 - Valneva SE (Nasdaq : VALN ; Euronext Paris : VLA) a annonc\u00e9 aujourd'hui la vaccination du premier participant \u00e0 son \u00e9tude clinique de Phase 2 \u00e9valuant l'innocuit\u00e9 et l'immunog\u00e9nicit\u00e9 de deux doses diff\u00e9rentes de son \u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/01/10/2806803/0/fr/Valneva-vaccine-le-premier-participant-de-l-%C3%A9tude-p%C3%A9diatrique-portant-sur-son-vaccin-%C3%A0-dose-unique-contre-le-chikungunya.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2024-01-10 06:00:00",
+      "content": "Saint-Herblain (France), 10 janvier 2024 - Valneva SE (Nasdaq : VALN ; Euronext Paris : VLA) a annonc\u00e9 aujourd'hui la vaccination du premier participant \u00e0 son \u00e9tude clinique de Phase 2 \u00e9valuant l'inn\u2026 [+11032 chars]",
+      "retrievedAt": "2024-01-11 07:05:51.617684",
+      "internal_id": "2cfb547ad0c053745b144179a1536ada4a4e2fa82f29583f6cf27640999b12a0",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4135,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Vaccinates First Participant in Pediatric Trial of Single-Shot Chikungunya Vaccine",
+      "description": "Saint-Herblain (France), January 10, 2024 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA) today announced that the first participant has been vaccinated in the Phase 2 clinical trial evaluating the safety and Immunogenicity in children of two different dose \u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/01/10/2806803/0/en/Valneva-Vaccinates-First-Participant-in-Pediatric-Trial-of-Single-Shot-Chikungunya-Vaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2024-01-10 06:00:00",
+      "content": "Saint-Herblain (France), January 10, 2024 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA) today announced that the first participant has been vaccinated in the Phase 2 clinical trial evaluating the sa\u2026 [+9545 chars]",
+      "retrievedAt": "2024-01-11 07:05:51.620877",
+      "internal_id": "f0a28f8049f5869b0cc5fff78bdfff0d8c996ee28770f43468577ccebf8a3e8b",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4125,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Ern\u0151fy N\u00f3ra",
+      "title": "Kell-e tartanunk a szomsz\u00e9dunkban terjed\u0151 szam\u00e1rk\u00f6h\u00f6g\u00e9st\u0151l?",
+      "description": "Kell-e tartanunk a szomsz\u00e9dunkban terjed\u0151 szam\u00e1rk\u00f6h\u00f6g\u00e9st\u0151l? - M\u00e1r \u00f6tven \u00e9ve oltj\u00e1k itthon a k\u00f3rokoz\u00f3 ellen a gyerekeket.",
+      "url": "https://index.hu/belfold/2024/01/10/gyerekek-szamarkohoges-bakterium-fertozes-jarvany-oltas/",
+      "urlToImage": "https://kep.cdn.index.hu/1/0/5428/54284/542841/54284123_4009805_879ed2c09601a9c37027c308f73a315f_wm.jpg",
+      "publishedAt": "2024-01-10 05:14:00",
+      "content": "A szam\u00e1rk\u00f6h\u00f6g\u00e9s alapveten gyermekbetegs\u00e9g, \u00e9s mint ilyen, \u00e1ltal\u00e1ban kisgyermekek k\u00f6z\u00f6ss\u00e9g\u00e9ben terjed. A Bordetella pertussis nev bakt\u00e9rium ellen 1954-tl vezett\u00e9k be Magyarorsz\u00e1gon a k\u00f6telez olt\u00e1st, a\u2026 [+4666 chars]",
+      "retrievedAt": "2024-01-11 07:05:49.203932",
+      "internal_id": "007cfe8c52849b8c358b36a628dcd4d40c47506991ec3147254a82426e680437",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4132,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "efe",
+      "title": "El virus del Zika es eficaz para tratar, en ratones, un tipo de c\u00e1ncer infantil",
+      "description": "Ha mostrado resultados positivos contra el neuroblastoma, y los investigadores ven en este hallazgo una esperanza para nuevos tratamientos",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2024/01/09/virus-zika-eficaz-tratar-ratones-tipo-cancer-infantil/00031704827765160631448.htm",
+      "urlToImage": "https://cflvdg.avoz.es/sc/wWAkmzD4Cw6IGQqJoZwAr5Fzua0=/1280x/2024/01/09/00121704828182368394964/Foto/J20A8049.jpg",
+      "publishedAt": "2024-01-10 04:00:00",
+      "content": "El neuroblastoma es un cncer infantil poco frecuente, frente al que el virus del Zika es eficaz para reducir o eliminar ese tumor en ratones, segn ha demostrado un estudio, lo que sugiere que algn da\u2026 [+2399 chars]",
+      "retrievedAt": "2024-01-11 07:05:51.389971",
+      "internal_id": "65a4f5acbaaf44715e786d8827128e5bff86ba3e94bfedbd2ee1b2b42cf31be5",
+      "publishedAtLabel": "Jan 10"
+    },
+    {
+      "id": 4130,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas cria 'opera\u00e7\u00e3o de guerra' contra a dengue com drones e entrada for\u00e7ada em im\u00f3veis",
+      "description": "Chaveiros e a guardas municipais ser\u00e3o utilizados, caso necess\u00e1rio, para acessar resid\u00eancias. Foco, mais uma vez, ser\u00e1 o Jardim Eulina. Campinas far\u00e1 mutir\u00f5es contra a dengue a cada 15 dias Rog\u00e9rio Capela A Prefeitura de Campinas (SP) informou nesta ter\u00e7a-fei\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/09/campinas-cria-operacao-de-guerra-contra-a-dengue-com-drones-e-entrada-forcada-em-imoveis.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/Q10OScNh00RUld8RpBj6VunyUQ0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/9/4/DMV4AnS1OFQ9xieAWGtw/mutirao-dengue.jpg",
+      "publishedAt": "2024-01-09 22:39:38",
+      "content": "Os drones come\u00e7am a ser usados nesta quinta-feira (11) no Jardim Eulina, bairro que, segundo a Prefeitura, est\u00e1 com alto risco de transmiss\u00e3o e teve baixo \u00edndice de im\u00f3veis vistoriados no \u00faltimo muti\u2026 [+4674 chars]",
+      "retrievedAt": "2024-01-11 07:05:50.390300",
+      "internal_id": "4f47337e3ab39b5b80d79ce3ce1471c3f02da447a9ec61363830db42968e021b",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4129,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Carma Hassan",
+      "title": "Measles outbreak involving cases at a Philadelphia day care center expands, health officials say | CNN",
+      "description": "A cluster of measles cases in Philadelphia has widened to include eight people over the past month, including at least five children, according to the city\u2019s health department.",
+      "url": "https://www.cnn.com/2024/01/09/health/philadelphia-measles-outbreak/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240109142644-measles-vaccine-010924.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-09 22:05:47",
+      "content": "A cluster of measles cases in Philadelphia has widened to include eight people over the past month, including at least five children, according to the citys health department. All of the cases were \u2026 [+4751 chars]",
+      "retrievedAt": "2024-01-11 07:05:49.981979",
+      "internal_id": "a67f5719384322e47b5a4e5d1291d7dd29548a39a84ee7447b47371354bc0eb7",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4127,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "UPI.com",
+      "author": "Ernie Mendell, HealthDay News",
+      "title": "Philadelphia measles outbreak raises concern as vaccination rates fall",
+      "description": "Eight Philadelphia residents are known to have contracted measles, the city's department of health said in an update on the outbreak, citing anti-vaxxer...",
+      "url": "https://www.upi.com/Health_News/2024/01/09/philadelphia-measles-outbreak-2024/9051704830470/",
+      "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/d2c6c57492091639a53336911b60bd5e",
+      "publishedAt": "2024-01-09 20:11:50",
+      "content": "Eight Philadelphia residents are known to have contracted measles, the city's department of health said in an update on the outbreak released Monday. Measles is highly infectious, and Philadelphia h\u2026 [+1934 chars]",
+      "retrievedAt": "2024-01-11 07:05:49.965726",
+      "internal_id": "7d8414f6e3051f9f02969d378ea5200646b741b895fbf49b45fabdf040b67f08",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4126,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Measles Outbreak In Philadelphia Suggests Growing Problem Of Vaccine Hesitancy",
+      "description": "A measles outbreak in Philadelphia has expanded to eight confirmed and three suspected cases, Vaccine preventable diseases such as measles remain a public health threat.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/01/09/measles-outbreak-in-philadelphia-suggests-growing-problem-of-vaccine-hesitancy/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/659d5ae5c3816456de8f59c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-01-09 19:41:15",
+      "content": "Five year old boy sick with measles. getty A measles outbreak in Philadelphia has expanded to eight confirmed and three suspected cases, city health officials said Monday. Thus far, three patients \u2026 [+5473 chars]",
+      "retrievedAt": "2024-01-11 07:05:49.961447",
+      "internal_id": "37a75a6ed5ca9b679d1592ee89ef1b139eb47530073bcb6ca2ec4ad33347b4fc",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4128,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "[e]Eran Lahav",
+      "title": "Israel reports new cases of monkeypox, measles",
+      "description": "JERUSALEM, Jan. 9 (Xinhua) -- The Israeli Ministry of Health on Tuesday reported the detection of new cases of monkeypox and measles in the country. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/01/10/israel-reports-new-cases-of-monkeypox-measles",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-01-09 19:14:00",
+      "content": "JERUSALEM, Jan. 9 (Xinhua) -- The Israeli Ministry of Health on Tuesday reported the detection of new cases of monkeypox and measles in the country. The ministry did not specify the exact number of\u2026 [+1071 chars]",
+      "retrievedAt": "2024-01-11 07:05:49.972328",
+      "internal_id": "188252ac615b8883e3ce43faae5a9373c7df962029877654b3731b05d539803b",
+      "publishedAtLabel": "Jan 9"
+    },
     {
       "id": 4124,
       "query": [
@@ -13450,6 +13666,170 @@
       "content": " A single dose of measles and rubella (MR) vaccine delivered to adults by the Vaxxas high-density microarray patch (HD-MAP) provided antibody responses comparable to the same vaccine deliver\u2026 [+7617 chars]",
       "retrievedAt": "2023-11-28 07:05:42.273360",
       "internal_id": "14ec722e297a3904ea15934e5a613d0fe6dddfacb5049b47d81528d10036629e",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 3360,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Idaho State Journal",
+      "author": "Idaho Press Staff",
+      "title": "Health officials on alert after first case of mpox detected in Idaho county",
+      "description": "Health officials on alert after first case of mpox detected in Idaho countyidahostatejournal.com",
+      "url": "https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/9/f7/9f7f8a2d-91f4-57ae-98e1-c3571e3759c0/6560ec6d4e1c7.image.jpg?crop=1776%2C932%2C0%2C117&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2023-11-26 17:40:02",
+      "content": "The first case of mpox, formerly known as monkeypox, has been detected in Canyon County. Southwest District Health announced Tuesday that the case was detected in mid-November in a male Canyon Count\u2026 [+1748 chars]",
+      "retrievedAt": "2023-11-27 19:05:29.993193",
+      "internal_id": "c0774c113fc50a888216cb5c2815fdf56f84e1e39dd6b131da1894a2448cf7d0",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 3358,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
+      "title": "Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update",
+      "description": "The Democratic Republic of Congo has never had this many Mpox cases. There was also the first documented case in the world of Clade I MXPV transmission via sexual contact",
+      "url": "https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65636f80720b4d7f82cbd859/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2023-11-26 17:09:01",
+      "content": "The Democratic Republic of Congo has been experiencing its largest ever outbreak of Mpox. This was ... [+] the first year that Kinshasa has had suspected Mpox cases. (Photo by ARSENE MPIANA/AFP via G\u2026 [+6011 chars]",
+      "retrievedAt": "2023-11-27 19:05:29.960137",
+      "internal_id": "87f40fbc37ef678176a58b20d27b14d0bcd0a28150a89c577e01ac97d20257fc",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 3354,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "J\u00fcrgen Langenbach",
+      "title": "Bringt Klima Tropenfieber? [premium]",
+      "description": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen.",
+      "url": "https://www.diepresse.com/17849599/bringt-klima-tropenfieber",
+      "urlToImage": "https://img.diepresse.com/public/incoming/hipyx3-Tropenfieber/alternates/DPR_SOCIAL_MAGAZIN_PAID/Tropenfieber",
+      "publishedAt": "2023-11-26 16:16:22",
+      "content": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen. Ende August erkrankten am Gardasee drei Menschen \u2026 [+2238 chars]",
+      "retrievedAt": "2023-11-27 19:05:27.371580",
+      "internal_id": "9e02535ae752dc506ab723875c676b5f65c03ffc99da8c33e283a342b2c64cb5",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 3361,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ctvnews.ca",
+      "author": "The Associated Press",
+      "title": "UN confirms sexual spread of mpox in Congo for the 1st time",
+      "description": "The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development that African scientists warn could make it more difficult to stop the dise\u2026",
+      "url": "https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367",
+      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/11/26/mpox-particles-1-6661368-1701012524681.jpg",
+      "publishedAt": "2023-11-26 15:34:30",
+      "content": "LONDON - The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development tha\u2026 [+3280 chars]",
+      "retrievedAt": "2023-11-27 19:05:29.997446",
+      "internal_id": "bc4315b698bae204034680118460df8a2003d307ed5347450f541f61ef0938d7",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 3357,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil",
+      "description": "A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday.",
+      "url": "https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288",
+      "urlToImage": "https://c.ndtvimg.com/2023-10/1ininp3k_uk-hospital-generic_625x300_02_October_23.jpg",
+      "publishedAt": "2023-11-26 15:30:12",
+      "content": "He was a resident of Shivpuri district in Madhya Pradesh (Representational) Shivpuri: A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday. \"My\u2026 [+1890 chars]",
+      "retrievedAt": "2023-11-27 19:05:28.318108",
+      "internal_id": "42931a3b084f0711bfdfd9c81fd0a61b23864d336a3369dca765e12b8b2c779d",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 3353,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-washington-post",
+      "source_name": "The Washington Post",
+      "author": "Lena H. Sun",
+      "title": "How one rabid kitten triggered massive effort to contain deadly disease",
+      "description": "If the rabies virus spreads unchecked in raccoons, transmission would easily radiate out from Omaha into other states, putting 7 million people at increased risk.",
+      "url": "https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GMYQBL7A6RAQJC4WHFWHBN2PXA.jpg&w=1440",
+      "publishedAt": "2023-11-26 14:04:27",
+      "content": "Comment on this story Comment Add to your saved stories Save At first, Madeline Wahl thought her new kitten was having a bad reaction to medication for ringworm.After each dose, he would shake hi\u2026 [+8182 chars]",
+      "retrievedAt": "2023-11-27 19:05:26.584944",
+      "internal_id": "eb4bf4678d67256a47a66fd76354a04d81f49e97e797c8b8b9a53c0793cdb540",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 3355,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Expresso.pt",
+      "author": "Joana Ascens\u00e3o",
+      "title": "Doen\u00e7as transmitidas por mosquitos: Europa pede cautela aos pa\u00edses",
+      "description": "Centro Europeu da Preven\u00e7\u00e3o e Controlo de Doen\u00e7as est\u00e1 preocupado com preval\u00eancia de algumas doen\u00e7as. Altera\u00e7\u00f5es clim\u00e1ticas s\u00e3o respons\u00e1veis pela maior presen\u00e7a de mosquitos em territ\u00f3rio europeu",
+      "url": "https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130",
+      "urlToImage": "https://images.impresa.pt/expresso/2022-02-10-Aedes-aegypti-mosquito-mosquito-da-dengue-ca776fa9/1.91x1?wm=true&outputFormat=jpeg",
+      "publishedAt": "2023-11-26 13:10:03",
+      "content": "H\u00e1 cada vez mais mosquitos transmissores de doen\u00e7as, como a dengue, a febre-amarela e a febre do Nilo Ocidental, no espa\u00e7o europeu. O Centro Europeu de Preven\u00e7\u00e3o e Controlo de \u00adDoen\u00e7as (ECDC, na sigl\u2026 [+1594 chars]",
+      "retrievedAt": "2023-11-27 19:05:27.379872",
+      "internal_id": "476cfe84197222cb6ed74dee7dfc3a1f365867b799affaf68c48b1cef9753d12",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 3356,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Expresso.pt",
+      "author": "Raquel Albuquerque, Ana Bai\u00e3o, Jos\u00e9 Cedovim Pinto",
+      "title": "Os Aedes albopictus s\u00e3o inteligentes \u201ce exploram os comportamentos humanos\u201d: autoridades monitorizam mosquito da dengue e zika em Portugal",
+      "description": "Os Aedes albopictus, capazes de transmitir dengue, zika ou chicungunha, foram detetados em tr\u00eas freguesias da Grande Lisboa em setembro, depois de terem sido encontrados na regi\u00e3o Norte ainda em 2017, al\u00e9m do Algarve e Alentejo nos anos seguintes. At\u00e9 agora, \u2026",
+      "url": "https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152",
+      "urlToImage": "https://images.impresa.pt/expresso/2023-11-23-aedes-albopictus-c60e7243-1/1.91x1?wm=true&outputFormat=jpeg",
+      "publishedAt": "2023-11-26 13:09:39",
+      "content": "As primeiras fotografias dos mosquitos chegaram \u00e0s m\u00e3os dos cientistas no m\u00eas de setembro, enviadas por moradores na regi\u00e3o de Lisboa, depois de se cruzarem com uns insetos invulgares que, ao picarem\u2026 [+1577 chars]",
+      "retrievedAt": "2023-11-27 19:05:27.383737",
+      "internal_id": "612dadc92d23cf880fb62e7a11e7873f51975733e1bd2c7561997f952a7f4dfc",
+      "publishedAtLabel": "Nov 26"
+    },
+    {
+      "id": 3359,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+      "title": "\u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc",
+      "description": "\u039f \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c7\u03b8\u03b5\u03c2 \u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf \u03cc\u03c4\u03b9 \u03c3\u03c4\u03b7 \u039b\u0394 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af 12.569 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c0\u00bb (mpox, \u03bd\u03cc\u03c3\u03bf\u03c2 \u03b7 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ae\u03c4\u03b1\u03bd \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03bc\u03b5 \u03c4\u03b7\u03bd \u03bf\u03bd\u03bf\u03bc\u03b1\u03c3\u03af\u03b1 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u2026 \u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc - \u0397 \u039d\u0391\u03a5\u03a4\u2026",
+      "url": "https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2022/05/1864751.jpeg",
+      "publishedAt": "2023-11-26 09:36:54",
+      "content": "12.569 \u00ab \u00bb (mpox, \u00ab \u00bb), 581 , 1 12 , . \u00ab , , , \u00bb, . , clade (.. ) , , \u00ab \u00bb. 1970 , , , , ... 2022 , , 23 2022. 11 , . (.. Clade b ) . , . , 91.788 , 167 , 116 2022 31 2023, . , clade I cla\u2026 [+84 chars]",
+      "retrievedAt": "2023-11-27 19:05:29.989287",
+      "internal_id": "18e15fbf5fbd461329f448709c8676fe17713fdf2c298c764b40b3166474d07f",
       "publishedAtLabel": "Nov 26"
     }
   ]
