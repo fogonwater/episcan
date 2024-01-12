@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2024-01-12 07:05
-- **Most recent article:** 2024-01-11 06:32:32
+- **New articles in last harvest:** 19
+- **Last harvest:** 2024-01-12 19:05
+- **Most recent article:** 2024-01-11 18:01:09
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 44 | 62 | 42 | 69 | 37 | 2 | 52 | 16 | 324 |
-| malaria | 33 | 26 | 24 | 24 | 22 | 2 | 11 | 19 | 161 |
-| mpox | 18 | 15 | 24 | 15 | 12 | 0 | 2 | 1 | 87 |
-| measles | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 12 | 72 |
-| zika | 10 | 15 | 9 | 5 | 1 | 0 | 7 | 7 | 54 |
+| dengue | 41 | 62 | 42 | 69 | 37 | 2 | 52 | 21 | 326 |
+| malaria | 31 | 26 | 24 | 24 | 22 | 2 | 11 | 25 | 165 |
+| mpox | 14 | 15 | 24 | 15 | 12 | 0 | 2 | 1 | 83 |
+| measles | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 16 | 76 |
+| zika | 9 | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 54 |
 | chikungunya | 10 | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 47 |
-| rabies | 9 | 4 | 7 | 2 | 7 | 1 | 2 | 3 | 35 |
-| meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 2 | 33 |
+| meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 5 | 36 |
+| rabies | 8 | 4 | 7 | 2 | 7 | 1 | 2 | 3 | 34 |
 | pertussis | 4 | 2 | 4 | 2 | 0 | 0 | 5 | 1 | 18 |
 | leptospirosis | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 0 | 12 |
 | typhoid | 0 | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 9 |
@@ -31,6 +31,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-2 (zika)
+
+- [Zika virus effective in treating childhood cancer in mice: Study](https://www.newsnationnow.com/health/zika-virus-effective-cancer-treatment-mice-study/) (Newsnationnow.com)
 
 - [Virus Zika, eficaz para tratar cáncer en ratones: Estudio](https://aristeguinoticias.com/1001/kiosko/virus-zika-eficaz-para-tratar-cancer-en-ratones-estudio/) (Aristeguinoticias.com)
 
@@ -64,11 +66,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-2 (meningitis)
 
+- [Patricia Pérez se rompe al hablar del calvario de su marido: "Una caca de pájaro casi lo mata"](https://www.mundodeportivo.com/elotromundo/television/20240111/1002168074/patricia-perez-rompe-hablar-calvario-marido-caca-pajaro-mata-tardear-dct.html) (Mundodeportivo.com)
+
+- [Qué es la meningitis criptocócica, la enfermedad que padece Luis Canut, el marido de Patricia Pérez](https://www.abc.es/salud/meningitis-criptococica-enfermedad-padece-luis-canut-marido-20240111163503-nt.html) (Www.abc.es)
+
+- [Qué es la meningitis criptocócica, la enfermedad que sufre Luis Canut y que está en las heces de palomas](https://www.bekia.es/celebrities/noticias/meningitis-criptococica-enfermedad-luis-canut-heces-paloma/) (Bekia.es)
+
 - [¿Qué es la meningitis criptocócica, la enfermedad que padece el marido de Patricia Pérez?](https://www.hola.com/estar-bien/20240110246310/meningitis-criptococica-patricia-perez-enfermedad-marido/) (Hola)
 
 - [JPR Williams, el adiós a un fullback que marcó una época](https://www.lanacion.com.ar/deportes/rugby/jpr-williams-el-adios-a-un-fullback-que-marco-una-epoca-nid09012024/) (La Nacion)
 
 ## 24-2 (measles)
+
+- [Child, adult contract measles in northern Israel](https://www.jpost.com/breaking-news/article-781813) (The Jerusalem Post)
+
+- [חמישה חולי חצבת בצפון אובחנו החודש, אחד מהם שהה במיון בפוריה](https://www.ynet.co.il/health/article/r1m11a5t00p) (Ynet)
+
+- [Philadelphia Mayor Cherelle Parker Names First Kensington Drug Czar](https://www.phillymag.com/news/2024/01/11/kensington-philadelphia-cherelle-parker/) (phillymag.com)
+
+- [Child Sent To Daycare Spreads Potentially Deadly Illness Despite Quarantine Instructions](https://dailycaller.com/2024/01/11/philadelphia-measles-outbreak-child-sent-day-care-breach-quarantine-protocol/) (The Daily Caller)
 
 - [Philadelphia measles outbreak has hospitals on alert after child was sent to day care despite quarantine instructions](https://www.nbcnews.com/health/health-news/philadelphia-measles-outbreak-hospital-day-care-rcna133269) (NBC News)
 
@@ -95,6 +111,18 @@ Source: [News API](https://newsapi.org/)
 - [2 more measles cases confirmed by Philadelphia Health Department, bringing total to 8](https://www.cbsnews.com/philadelphia/news/measles-cases-in-philadelphia-outbreak/) (CBS News)
 
 ## 24-2 (malaria)
+
+- [Meer dan 200 Belgische doden door malariamiddel tegen corona. Van Ranst reageert: "Op dat moment was het een logische keuze”](https://www.hln.be/wetenschap-en-planeet/meer-dan-200-belgische-doden-door-malariamiddel-tegen-corona-van-ranst-reageert-op-dat-moment-was-het-een-logische-keuze~a5e0d9b9/) (Www.hln.be)
+
+- [Meer dan 200 Belgische doden door malariamiddel tegen corona. Van Ranst nuanceert: "Op dat moment was het een logische keuze”](https://www.hln.be/wetenschap-en-planeet/meer-dan-200-belgische-doden-door-malariamiddel-tegen-corona-van-ranst-nuanceert-op-dat-moment-was-het-een-logische-keuze~a5e0d9b9/) (Www.hln.be)
+
+- [‘Malariapil’ tegen corona maakte 240 doden in België. Marc Van Ranst nuanceert: “Het was destijds een logische keuze”](https://www.hln.be/wetenschap-en-planeet/malariapil-tegen-corona-maakte-240-doden-in-belgie-marc-van-ranst-nuanceert-het-was-destijds-een-logische-keuze~a5e0d9b9/) (Www.hln.be)
+
+- [Development of circulating isolates of Plasmodium falciparum is accelerated in Anopheles vectors with reduced reproductive output](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011890) (Plos.org)
+
+- [Assessment of antimalarial activity of crude extract of Chan-Ta-Lee-La and Pra-Sa-Chan-Dang formulations and their plant ingredients for new drug candidates of malaria treatment: In vitro and in vivo experiments](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296756) (Plos.org)
+
+- [Malaria-Impfung: "Ich gehe davon aus, dass wir Malaria in 30 Jahren ausgelöscht haben"](https://www.zeit.de/gesundheit/2023-12/malaria-impfung-adrian-hill-impfstoffforscher-who-r21) (Die Zeit)
 
 - [La hierba aromática rica en Vitamina C, que aporta numerosos beneficios para la salud](https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/la-hierba-aromatica-rica-en-vitamina-c-que-aporta-numerosos-beneficios-para-la-salud-nid10012024/) (La Nacion)
 
@@ -135,6 +163,16 @@ Source: [News API](https://newsapi.org/)
 - [William Weightman Net Worth – How Much Was William Weightman Worth?](https://zacjohnson.com/william-weightman-net-worth/) (Zacjohnson.com)
 
 ## 24-2 (dengue)
+
+- [Chuvas de verão aumentam risco de dengue e outras doenças; veja como prevenir](https://www.terra.com.br/vida-e-estilo/verao/chuvas-de-verao-aumentam-risco-de-dengue-e-outras-doencas-veja-como-prevenir,359fcaf6a38a3bee6b0673a8c4287d2ad7qid5bq.html) (Terra.com.br)
+
+- [Com alta de 207%, DF registra 2.152 casos prováveis de dengue em 2024](https://www.metropoles.com/distrito-federal/com-alta-de-207-df-registra-2-152-casos-provaveis-de-dengue-em-2024) (Metropoles.com)
+
+- [Paraguay habilita servicio de "teledengue" ante la saturación de hospitales](https://sputniknews.lat/20240111/paraguay-habilita-servicio-de-teledengue-ante-la-saturacion-de-hospitales-1147312851.html) (Sputniknews.lat)
+
+- [Campinas inicia 'operação de guerra' contra a dengue com drones em bairro que concentra metade dos casos](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/11/campinas-inicia-operacao-de-guerra-contra-a-dengue-com-drones-em-bairro-que-concentra-metade-dos-casos.ghtml) (Globo)
+
+- [Belo Horizonte registrou aumento de 600% nos casos de dengue em 2023](https://noticias.r7.com/minas-gerais/belo-horizonte-registrou-aumento-de-600-nos-casos-de-dengue-em-2023-11012024) (R7.com)
 
 - [Com dengue, Leonardo Bricio desabafa sobre estar doente e sozinho](https://www.terra.com.br/diversao/gente/com-dengue-leonardo-bricio-desabafa-sobre-estar-doente-e-sozinho,28f43bb10ddd532a7c63a506ae7afda8katxpvqv.html) (Terra.com.br)
 
@@ -1614,8 +1652,6 @@ Source: [News API](https://newsapi.org/)
 
 - [There’s no place for “benevolent deception” in obstetrics](https://www.kevinmd.com/2023/11/theres-no-place-for-benevolent-deception-in-obstetrics.html) (Kevinmd.com)
 
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
-
 ## 23-48 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 29th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-29th-november-2023/) (Iasbaba.com)
@@ -1637,8 +1673,6 @@ Source: [News API](https://newsapi.org/)
 - [Research links climate change to vampire bat expansion and rabies virus spillover](https://phys.org/news/2023-11-links-climate-vampire-expansion-rabies.html) (Phys.Org)
 
 - [Horror Movie Rabies Finds Monstrous Terror in 90s Beirut](https://www.comingsoon.net/horror/news/1415664-rabies-beirut-horror-movie) (ComingSoon.net)
-
-- [How one rabid kitten triggered massive effort to contain deadly disease](https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/) (The Washington Post)
 
 ## 23-48 (pertussis)
 
@@ -1679,14 +1713,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO Confirms Spread of MPox in DR Congo](https://allafrica.com/stories/202311270556.html) (AllAfrica - Top Africa News)
 
 - [Epidémie de mpox en RDC : 581 décès depuis janvier et nombre de cas record sur une année](https://www.lemonde.fr/afrique/article/2023/11/27/epidemie-de-mpox-en-rdc-581-deces-depuis-janvier-et-nombre-de-cas-record-sur-une-annee_6202586_3212.html) (Le Monde)
-
-- [Health officials on alert after first case of mpox detected in Idaho county](https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html) (Idaho State Journal)
-
-- [Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update](https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/) (Forbes)
-
-- [UN confirms sexual spread of mpox in Congo for the 1st time](https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367) (Ctvnews.ca)
-
-- [«Ευλογιά π»: 581 θάνατοι και ρεκόρ κρουσμάτων στο Κονγκό](https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/) (Naftemporiki.gr)
 
 ## 23-48 (meningitis)
 
@@ -1771,10 +1797,6 @@ Source: [News API](https://newsapi.org/)
 - [First Malaria Vaccines Arrive In Cameroon](https://www.forbes.com/sites/unicefusa/2023/11/27/first-malaria-vaccines-arrive-in-cameroon/) (Forbes)
 
 - [Pocket-sized DNA sequencers track malaria drug resistance in Ghana in near real-time](https://phys.org/news/2023-11-pocket-sized-dna-sequencers-track-malaria.html) (Phys.Org)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil](https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288) (NDTV News)
 
 ## 23-48 (leptospirosis)
 
@@ -1869,12 +1891,6 @@ Source: [News API](https://newsapi.org/)
 - [Afrique de l'Ouest: Une épidémie de dengue touche toutes les régions du Burkina Faso](https://fr.allafrica.com/stories/202311270231.html) (AllAfrica - Top Africa News)
 
 - [Saúde faz alerta para ressurgimento da dengue tipo 3](https://brasil.perfil.com/saude/saude-faz-alerta-para-ressurgimento-da-dengue-tipo-3.phtml) (Perfil.com)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Doenças transmitidas por mosquitos: Europa pede cautela aos países](https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130) (Expresso.pt)
-
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
 
 ## 23-48 (chikungunya)
 
