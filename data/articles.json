@@ -1,8 +1,423 @@
 {
-  "last_updated": "2024-01-13 07:05",
-  "count_articles_total": 823,
-  "count_articles_new": 9,
+  "last_updated": "2024-01-13 19:05",
+  "count_articles_total": 838,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 4209,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "WHO erkl\u00e4rt die Kapverden f\u00fcr malariafrei",
+      "description": "Der Kampf gegen Malaria ist noch lange nicht gewonnen. Aber Fortschritte gibt es. Gute Nachrichten kommen von einem Archipel im Zentralatlantik: Der Inselstaat Kap Verde ist jetzt offiziell malariafrei.",
+      "url": "https://www.dw.com/de/who-erkl%C3%A4rt-die-kapverden-f%C3%BCr-malariafrei/a-67968201",
+      "urlToImage": null,
+      "publishedAt": "2024-01-12 18:27:00",
+      "content": "Als malariafrei gilt ein Land, wenn es mindestens drei Jahre hintereinander die \u00dcbertragungskette unterbunden hat. \u00dcber 40 Staaten weltweit ist es laut Weltgesundheitsorganisation (WHO) gelungen, die\u2026 [+2799 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.209552",
+      "internal_id": "430e2227ced234d64e9dc5de282d0ec99f90178eb73c617b252ebda384aa981b",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4207,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Publico.es",
+      "author": "P\u00fablico",
+      "title": "La OMS certifica a Cabo Verde como pa\u00eds libre de malaria",
+      "description": "El archipi\u00e9lago de \u00c1frica occidental se convierte en el tercer pa\u00eds de la regi\u00f3n en ser declarado libre de la enfermedad, despu\u00e9s de que Mauricio y Argelia fueran certificadas en 1973 y 2019, respectivamente.",
+      "url": "https://www.publico.es/internacional/oms-certifica-cabo-verde-pais-libre-malaria.html",
+      "urlToImage": "https://www.publico.es/uploads/2024/01/12/65a1784cc633a.jpeg",
+      "publishedAt": "2024-01-12 17:59:00",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha certificado este viernes oficialmente que Cabo Verde est\u00e1 libre de malaria. Tras este anuncio el archipi\u00e9lago de \u00c1frica occidental se convierte en el terc\u2026 [+4095 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.193903",
+      "internal_id": "deb987ae756ca86dda31e790059c72f7d36955791df271982fca8e9940741955",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4215,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.hln.be",
+      "author": "ADN",
+      "title": "Na Franse studie die \u201cmeer dan 200 Belgische doden\u201d door malariamiddel tegen corona meldde: \u201cSlechts 18 gevallen van bijwerkingen in ons land\u201d",
+      "description": "In Belgi\u00eb zijn slechts 18 gevallen van vermoedelijke bijwerkingen gemeld voor hydroxychloroquine, het veelbesproken malariamedicijn dat tijdens de eerste coronagolf gebruikt werd tegen Covid-19. Dat verneemt Belga vrijdag van het FAGG (het Federaal Agentschap\u2026",
+      "url": "https://www.hln.be/binnenland/na-franse-studie-die-meer-dan-200-belgische-doden-door-malariamiddel-tegen-corona-meldde-slechts-18-gevallen-van-bijwerkingen-in-ons-land~aa49385c/",
+      "urlToImage": "https://images0.persgroep.net/rcs/Dxgv86qrwYq6m5TurUejTyBoabw/diocontent/170886593/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
+      "publishedAt": "2024-01-12 17:50:01",
+      "content": "In een artikel gepubliceerd in het tijdschrift Biomedicine &amp; Pharmacotherapy schatten Franse onderzoekers het aantal overlijdens bij gehospitaliseerde coronapati\u00ebnten dat gelinkt kan worden aan h\u2026 [+5024 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.267665",
+      "internal_id": "c446e8cd7fa6108a823c82ac1e5589df7c727561f22a5bbd63e82298d1cb1b71",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4203,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Kap Verde erkl\u00e6ret fri for malaria",
+      "description": "\u00d8gruppen Kap Verde ud for Afrikas vestkyst er af WHO blevet erkl\u00e6ret fri for malaria, hvilket bliver betragtet som en vigtig milep\u00e6l.",
+      "url": "https://www.dr.dk/nyheder/seneste/kap-verde-erklaeret-fri-malaria",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-01-12 16:13:00",
+      "content": "Netcompany er blevet politianmeldt af Datatilsynet for brud p\u00e5 databeskyttelsesforordningen. Tilsynet kr\u00e6ver mindst 15 millioner kroner i b\u00f8de, fremg\u00e5r det af en afg\u00f8relse. Bruddet skulle v\u00e6re sket\u2026 [+1107 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.159306",
+      "internal_id": "3da8594ea465a6fe25bf10388edacd14ef4ba38f4d2197b3b0465216e4ba12a4",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4217,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Hayes, R., Dakin, F., Smuk, M., Paparini, S., Apea, V., Dewsnap, C., Waters, L., Anderson, J., Orkin, C. M.",
+      "title": "Cross-sectional survey of sexual health professionals experiences and perceptions of the 2022 mpox outbreak in the UK",
+      "description": "Objective To understand the experiences and perceptions of sexual health professionals responding to the May 2022 mpox outbreak in the UK. Design Cross-sectional, anonymous, online survey collecting quantitative and qualitative data. Convenience sample recru\u2026",
+      "url": "https://bmjopen.bmj.com/content/14/1/e080250?rss=1",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-01-12 15:58:14",
+      "content": "STRENGTHS AND LIMITATIONS OF THIS STUDY This study is one of the first to explore the experiences of sexual health professionals responding to mpox in the UK, with data collected during the \u2026 [+16029 chars]",
+      "retrievedAt": "2024-01-13 19:05:41.576560",
+      "internal_id": "c1ca1eb5767ff0acf53ae1f8d6626f6b9601e69fc6a63902d4c126ab3498129e",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4204,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Africa: WHO declares Cape Verde free of malaria",
+      "description": "Cape Verde has become the third country in Africa to eliminate malaria in a victory for public health authorities who followed through an extensive plan to tackle the mosquito-borne disease.",
+      "url": "https://www.dw.com/en/africa-who-declares-cape-verde-free-of-malaria/a-67964211",
+      "urlToImage": "https://static.dw.com/image/67965729_6.jpg",
+      "publishedAt": "2024-01-12 15:27:00",
+      "content": "The World Health Organization on Friday declared Cape Verde free of malaria, making it the third country in the African region to have achieved the status. Cape Verde, or officially Cabo Verde using\u2026 [+2216 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.172593",
+      "internal_id": "74f2b1472a7bbfe4b3a6c36b4dc3a926bf0582dd192592406a85543b66fa941f",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4210,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "WHO declares Cape Verde free of malaria",
+      "description": "Cape Verde has become the third country in Africa to eliminate malaria in a victory for public health authorities who followed through an extensive plan to tackle the mosquito-borne disease. The World Health Organization on Friday declared Cape Verdefree of m\u2026",
+      "url": "https://www.dw.com/en/who-declares-cape-verde-free-of-malaria/a-67964211",
+      "urlToImage": "https://static.dw.com/image/67965729_6.jpg",
+      "publishedAt": "2024-01-12 15:27:00",
+      "content": "The World Health Organization on Friday declared Cape Verdefree of malaria, making it the third country in the African region to have achieved the status. Cape Verde, or officially Cabo Verde using \u2026 [+2212 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.213782",
+      "internal_id": "771ca8ac84004398e7110c5554a67a5646929c34f0e3e5c78f7f85dffce8ae58",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4216,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "Capo Verde \u00e8 il quarto stato africano a debellare la malaria",
+      "description": "",
+      "url": "https://www.ilpost.it/2024/01/12/capo-verde-malaria/",
+      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2024/01/12/1705069882-malaria.jpeg",
+      "publishedAt": "2024-01-12 14:49:53",
+      "content": "Venerd\u00ec l\u2019Organizzazione mondiale della sanit\u00e0 (OMS) ha diffuso un comunicato in cui certifica che Capo Verde, un arcipelago dell\u2019Africa occidentale con circa 600 mila abitanti, \u00e8 diventato il quarto\u2026 [+1193 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.287723",
+      "internal_id": "9f40fa7e8d29af4d05370fca27924ef889f3bd1005c79ca5026c92e06d04f746",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4199,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Libertaddigital.com",
+      "author": "Marta Guti\u00e9rrez",
+      "title": "El infierno de Luis Canut, marido de Patricia P\u00e9rez, tras enfermar por un excremento de ave",
+      "description": "Canut contrajo meningitis a trav\u00e9s de inhalaci\u00f3n, lo que le llev\u00f3 a estar cuatro meses ingresado y le dej\u00f3 varias secuelas f\u00edsicas.",
+      "url": "https://www.libertaddigital.com/chic/corazon/2024-01-12/el-infierno-de-luis-canut-marido-de-patricia-perez-tras-enfermar-por-un-excremento-de-ave-7086717/",
+      "urlToImage": "https://s.libertaddigital.com/2018/04/21/1200/627/chic/patricia-perez-luis-canut.jpg",
+      "publishedAt": "2024-01-12 14:41:42",
+      "content": "Patricia P\u00e9rez pasa por un mal momento personal ya que su marido Luis Canut ha estado ingresado cuatro meses en el hospital. Con una sonrisa pero muy emocionada, la excolaboradora de Es la ma\u00f1ana de \u2026 [+2503 chars]",
+      "retrievedAt": "2024-01-13 19:05:39.226766",
+      "internal_id": "2ba9efccd6100b5726530d6605accebb8431db0ee3040855d2ecbc02013df713",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4202,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Capo Verde diventa il terzo paese africano libero dalla malaria",
+      "description": "Capo Verde, uno stato insulare nell\u2019oceano Atlantico, \u00e8 diventato il terzo paese africano libero dalla malaria, ha annunciato il 12 gennaio l\u2019Organizzazione mondiale della sanit\u00e0 (Oms). Leggi",
+      "url": "https://www.internazionale.it/ultime-notizie/2024/01/12/capo-verde-eradicazione-malaria",
+      "urlToImage": "https://media.internazionale.it/images/2024/01/12/206198-sd.jpg",
+      "publishedAt": "2024-01-12 14:32:20",
+      "content": "Uninfermiera si prepara a somministrare un vaccino contro la malaria a Kisumi, in Kenya, il 1 luglio 2022. (Baz Ratner, Reuters/Contrasto) Capo Verde, uno stato insulare nelloceano Atlantico, \u00e8 div\u2026 [+2002 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.155037",
+      "internal_id": "86b20656c4845f5453475575a90acb1a0ee2ed475f19db67453e6d7e46343a35",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4205,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Petru Mazilu",
+      "title": "O \u0163ar\u0103 african\u0103 a reu\u015fit s\u0103 eradicheze malaria dup\u0103 50 de ani",
+      "description": "Capul Verde a reu\u015fit s\u0103 eradicheze malaria dup\u0103 50 de ani. Na\u0163iunea african\u0103 a primit statutul de la Organiza\u0163ia Mondial\u0103 a S\u0103n\u0103t\u0103\u0163ii (OMS), deoarece nu a raportat niciun caz de transmitere local\u0103 \u00een ultimii trei ani, potrivit BBC.",
+      "url": "https://www.mediafax.ro/sanatate/o-tara-africana-a-reusit-sa-eradicheze-malaria-dupa-50-de-ani-22230506",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/38026/22230506/1/laborator-medical-cercetari-shutterstock.jpg?width=640",
+      "publishedAt": "2024-01-12 13:53:21",
+      "content": "Capul Verde, o mic naiune insular din largul coastei Africii de Vest, a avut nevoie de ani de zile pentru a ajunge \u00een aceast situaie prin consolidarea sistemelor sale de sntate i creterea accesului l\u2026 [+1121 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.179016",
+      "internal_id": "d85b83f1cdd94c7b36d6c0e48ccadbbafb1f6e989531d1f3ff06eab786a4682d",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4196,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Friday, January 12, 2024",
+      "description": "Rural hospitals, government funding, weight-loss drugs, depression during pregnancy, dangerous plastics, measles, and more are in the news.",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-january-12-2024/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2023/04/2023_morning-briefing2.jpg",
+      "publishedAt": "2024-01-12 13:44:23",
+      "content": "After Roe V. Wade Ohio Won't Indict Woman Who Miscarried A Nonviable Fetus Brittany Watts, 34, was arrested after suffering a miscarriage in her bathroom and trying to flush the remains down the to\u2026 [+6130 chars]",
+      "retrievedAt": "2024-01-13 19:05:37.950530",
+      "internal_id": "a9471c1c7b88badc2c82b39c7c4da7b73a12f970147b056cad9840dcb601682b",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4214,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Cape Verde: Global Fund Applauds Cabo Verde for Eliminating Malaria",
+      "description": "[Global Fund] In a remarkable public health achievement, Cabo Verde was certified malaria-free by the World Health Organization (WHO) today. This certification is granted when a country proves that it has interrupted indigenous transmission of the disease for\u2026",
+      "url": "https://allafrica.com/stories/202401120306.html",
+      "urlToImage": "https://cdn06.allafrica.com/download/pic/main/main/csiid/00520790:2082a3d44041618fbefc9975fcc0b752:arc614x376:w1200.jpg",
+      "publishedAt": "2024-01-12 12:41:49",
+      "content": "In a remarkable public health achievement, Cabo Verde was certified malaria-free by the World Health Organization (WHO) today. This certification is granted when a country proves that it has interrup\u2026 [+3348 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.256611",
+      "internal_id": "b2f6e039da3772aba0c8d18ec3655a7cc993ad13227fb83adbb01e8ed478f05c",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4208,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Als drittes Land Afrikas : Weltgesundheitsorganisation erkl\u00e4rt die Kapverden f\u00fcr malariafrei",
+      "description": "Besonders stark ist die Tropenkrankheit auf dem afrikanischen Kontinent verbreitet. F\u00fcr die Inseln im Atlantik ist die Ausrottung der Krankheit ein gro\u00dfer Erfolg.",
+      "url": "https://www.tagesspiegel.de/internationales/als-drittes-land-afrikas-weltgesundheitsorganisation-erklart-die-kapverden-fur-malariafrei-11041222.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/kapverdenjpg/alternates/BASE_16_9_W1400/kapverdenjpg.jpeg",
+      "publishedAt": "2024-01-12 12:30:28",
+      "content": "Die exotische Inselgruppe ist noch kein Ziel von Massentourismus, wird aber auch bei Urlaubern immer beliebter. Jetzt kann die Regierung einen wichtigen Erfolg vermelden: Die Weltgesundheitsorganisat\u2026 [+3410 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.205466",
+      "internal_id": "9627eb4964e142210d43ff972be2bcad1e9cd46be55590fe43f199b593953b6e",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4197,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Another malaria milestone as WHO declares Cabo Verde free of deadly disease",
+      "description": "The UN World Health Organization (WHO) on Friday declared Cabo Verde free of malaria, hailing it as the latest success in the global fight against the disease. Read Full Story on UN News The post Another malaria milestone as WHO declares Cabo Verde free of de\u2026",
+      "url": "https://news.un.org/en/story/2024/01/1145467",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/21-07-2023-UNDP-Guinea-Bissau-Malaria.jpg/image770x420cropped.jpg",
+      "publishedAt": "2024-01-12 12:00:00",
+      "content": "The certification is expected to drive progress on other health fronts in the country such as using the systems built for controlling malaria to fight other mosquito-borne diseases, including dengue \u2026 [+2613 chars]",
+      "retrievedAt": "2024-01-13 19:05:38.619948",
+      "internal_id": "807f46e8b23d60d7a853dd91d244ca73c981631f57640635dba655cc49c9c1e4",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4201,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "tagesschau.de",
+      "title": "Inselstaat Kap Verde ist frei von Malaria",
+      "description": "Gute Nachricht f\u00fcr das Archipel Kap Verde: Der Inselstaat im Atlantik ist von der WHO als frei von Malaria erkl\u00e4rt worden. Seit drei Jahren gab es nach Angaben der Regierung keine lokalen Ansteckungen mehr.",
+      "url": "https://www.tagesschau.de/ausland/afrika/afrika-kap-verde-malaria-who-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/4507285c-1482-4271-8440-ffde69a0d371/AAABjP2CHpE/AAABibBxqrQ/16x9-1280/kap-verde-malaria-who-100.jpg",
+      "publishedAt": "2024-01-12 11:50:12",
+      "content": "Stand: 12.01.2024 12:50 Uhr Gute Nachricht f\u00fcr das Archipel Kap Verde: Der Inselstaat im Atlantik ist von der WHO als frei von Malaria erkl\u00e4rt worden. Seit drei Jahren gab es nach Angaben der Regier\u2026 [+2036 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.150236",
+      "internal_id": "c9208f9f1405a3e9e20c97d99a1ba6d0e153e0c6de1765aa5feb40eeaaa29205",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4218,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "Life threatening diseases rats living in your home can cause",
+      "description": "Rats can spread HPS, rat-bite fever, bubonic plague, leptospirosis, and Salmonellosis. This article emphasizes the dangers of having rats in your house and the importance of taking quick action to prevent the spread of these life-threatening infections. It hi\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/life-threatening-diseases-rats-living-in-your-home-can-cause/articleshow/106767884.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-106767946,width-1070,height-580,imgsize-872526,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-01-12 11:25:18",
+      "content": "Why should one not ignore flu? What are the severe risks associated with it?",
+      "retrievedAt": "2024-01-13 19:05:41.983323",
+      "internal_id": "70a1fdea61a6c45eb04e612327ac2e364641d99691c81fd65b5e20035f8589ea",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4213,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "info@who.int (WHO)",
+      "title": "Africa: WHO Certifies Cabo Verde As Malaria-Free, Marking a Historic Milestone in the Fight Against Malaria",
+      "description": "[WHO] The World Health Organization (WHO) has certified Cabo Verde as a malaria-free country, marking a significant achievement in global health. With this announcement, Cabo Verde joins the ranks of 43 countries and 1 territory that WHO has awarded this cert\u2026",
+      "url": "https://allafrica.com/stories/202401120267.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-01-12 11:22:30",
+      "content": "The World Health Organization (WHO) has certified Cabo Verde as a malaria-free country, marking a significant achievement in global health. With this announcement, Cabo Verde joins the ranks of 43 co\u2026 [+8325 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.239564",
+      "internal_id": "cceb5dffd70a8ec93eee5f161c53b955a3982c9102af57783f25cfb00381e378",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4211,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Elena P\u00e9rez, Agencias",
+      "title": "El invento de la espa\u00f1ola Pilar Mateo al que Francia quiere recurrir para controlar la crisis de malaria en Tanzania",
+      "description": "Las pinturas patentadas por la cient\u00edfica est\u00e1n dise\u00f1adas para aplicarse en las paredes donde suelen instalarse los mosquitos transmisores.",
+      "url": "https://www.elespanol.com/enclave-ods/noticias/20240112/invento-espanola-pilar-mateo-francia-recurriendo-controlar-crisis-malaria-tanzania/824417623_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/01/12/actualidad/824427690_239075209_1706x960.jpg",
+      "publishedAt": "2024-01-12 10:14:34",
+      "content": "A trav\u00e9s de la Fundaci\u00f3n para la Innovaci\u00f3n al Desarrollo (FID), el Gobierno franc\u00e9s ha anunciado recientemente que financiar\u00e1 una investigaci\u00f3n para controlar el mosquito anofeles transmisor de la m\u2026 [+3434 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.218089",
+      "internal_id": "14fb5e7ca6027e007d42c608691ff2d23058a7554addc108b4b481ef483834c2",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4206,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Hurriyet Daily News",
+      "author": "hurriyetdailynews.com",
+      "title": "Cape Verde becomes third African country to eliminate malaria",
+      "description": "Cape Verde has become the third African nation to be declared malaria free, even as the disease continues to kill hundreds of thousands of people on the continent, the World Health Organization said Friday.",
+      "url": "https://www.hurriyetdailynews.com/cape-verde-becomes-third-african-country-to-eliminate-malaria-189620",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/65a10c3301672dff2ee33dae.jpg",
+      "publishedAt": "2024-01-12 09:54:17",
+      "content": "GENEVA Cape Verde has become the third African nation to be declared malaria free, even as the disease continues to kill hundreds of thousands of people on the continent, the World Health Organizati\u2026 [+3174 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.183300",
+      "internal_id": "bbec59ffcb26e4795eb1fcfb8bf662293a726da6b9c1251c0b67080c8bcaa87d",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4212,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "news24",
+      "title": "News24 | Cape Verde becomes the third African country to eliminate malaria",
+      "description": "Cape Verde has become the third African nation to be declared malaria free, even as the disease continues to kill hundreds of thousands of people on the continent.",
+      "url": "https://www.news24.com/news24/africa/news/cape-verde-becomes-the-third-african-country-to-eliminate-malaria-20240112",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7456/7f2f8f9ee47e473793693b72a7f0940c.jpg",
+      "publishedAt": "2024-01-12 09:53:36",
+      "content": "Cape Verde has officially been certified free of malaria.It is the third African country to be declared malaria free, after Algeria in 2019 and Mauritius in 1973.To be so de\u2026 [+1640 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.234515",
+      "internal_id": "b6394fe7e9e1fbd4375aac72bafab939b29bea4ec7cbc01e6714d6013b15a48e",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4200,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Cape Verde reaches malaria-free milestone",
+      "description": "The island state becomes the first sub-Saharan country to get rid of the deadly disease in 50 years.",
+      "url": "https://www.bbc.co.uk/news/world-africa-67951537",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14787/production/_132274838_gettyimages-520244482.jpg",
+      "publishedAt": "2024-01-12 09:28:24",
+      "content": "A sub-Saharan African nation has been declared malaria-free for the first time in 50 years. Cape Verde was given the status by the World Health Organization (WHO) as it has not reported a single cas\u2026 [+2696 chars]",
+      "retrievedAt": "2024-01-13 19:05:40.140312",
+      "internal_id": "e9529f94591c1bb53e2d7f5294fca93d3cd092b1d89f38090d73e344b8fcbd2f",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4198,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Gift Habib",
+      "title": "Meningitis killed 190 in 2023, says FG",
+      "description": "The Federal Government has alerted Nigerians to the outbreak of Cerebrospinal Meningitis. Meningitis is an inflammation of the fluid and three membranes (meninges) surrounding one\u2019s brain and spinal cord. The government said the warning became necessary as th\u2026",
+      "url": "https://punchng.com/meningitis-killed-190-in-2023-says-fg/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/04/09141911/meningitis1.jpg",
+      "publishedAt": "2024-01-12 09:10:34",
+      "content": "The Federal Government has alerted Nigerians to the outbreak of Cerebrospinal Meningitis. Meningitis is an inflammation of the fluid and three membranes (meninges) surrounding one\u2019s brain and spinal\u2026 [+2384 chars]",
+      "retrievedAt": "2024-01-13 19:05:39.205994",
+      "internal_id": "7f494ee8a67160a8a54508d95fe9c41766f04e1882fdc5af16a72140963e5a04",
+      "publishedAtLabel": "Jan 12"
+    },
     {
       "id": 4194,
       "query": [
@@ -1227,6 +1642,24 @@
       "content": "Eight Philadelphia residents are known to have contracted measles, the city's department of health said in an update on the outbreak released Monday. Measles is highly infectious, and Philadelphia h\u2026 [+1934 chars]",
       "retrievedAt": "2024-01-11 07:05:49.965726",
       "internal_id": "7d8414f6e3051f9f02969d378ea5200646b741b895fbf49b45fabdf040b67f08",
+      "publishedAtLabel": "Jan 9"
+    },
+    {
+      "id": 4195,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Discover Magazine",
+      "author": "Charles Rupprecht, Auburn University, Rodney E. Rohde, Texas State University",
+      "title": "Rabies Is An Ancient, Unpredictable And Potentially Fatal Disease \u2212 Two Rabies Researchers Explain How To Protect Yourself",
+      "description": "Rabies Is An Ancient, Unpredictable And Potentially Fatal Disease \u2212 Two Rabies Researchers Explain How To Protect Yourself",
+      "url": "https://www.discovermagazine.com/health/rabies-is-an-ancient-unpredictable-and-potentially-fatal-disease-two-rabies",
+      "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/4YeIlxjvm031mH0Ewpn93V/ee26b1c5009e261fa9e8022b6708c960/rabies.jpg",
+      "publishedAt": "2024-01-09 20:00:00",
+      "content": "A feral kitten in Omaha, Nebraska, tested positive for rabies in November 2023. It died of the raccoon variant of the virus, which is typically found only in the Appalachian Mountains. Detecting this\u2026 [+8066 chars]",
+      "retrievedAt": "2024-01-13 19:05:37.343645",
+      "internal_id": "2ef7940219e9c29d8e506b273897e0e5ab9d83397a92fe6ec5262d0521181834",
       "publishedAtLabel": "Jan 9"
     },
     {
@@ -14712,170 +15145,6 @@
       "content": " A single dose of measles and rubella (MR) vaccine delivered to adults by the Vaxxas high-density microarray patch (HD-MAP) provided antibody responses comparable to the same vaccine deliver\u2026 [+7617 chars]",
       "retrievedAt": "2023-11-28 07:05:42.273360",
       "internal_id": "14ec722e297a3904ea15934e5a613d0fe6dddfacb5049b47d81528d10036629e",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3360,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Idaho State Journal",
-      "author": "Idaho Press Staff",
-      "title": "Health officials on alert after first case of mpox detected in Idaho county",
-      "description": "Health officials on alert after first case of mpox detected in Idaho countyidahostatejournal.com",
-      "url": "https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/9/f7/9f7f8a2d-91f4-57ae-98e1-c3571e3759c0/6560ec6d4e1c7.image.jpg?crop=1776%2C932%2C0%2C117&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-11-26 17:40:02",
-      "content": "The first case of mpox, formerly known as monkeypox, has been detected in Canyon County. Southwest District Health announced Tuesday that the case was detected in mid-November in a male Canyon Count\u2026 [+1748 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.993193",
-      "internal_id": "c0774c113fc50a888216cb5c2815fdf56f84e1e39dd6b131da1894a2448cf7d0",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3358,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Forbes",
-      "author": "Bruce Y. Lee, Senior Contributor, \n Bruce Y. Lee, Senior Contributor\n https://www.forbes.com/sites/brucelee/",
-      "title": "Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update",
-      "description": "The Democratic Republic of Congo has never had this many Mpox cases. There was also the first documented case in the world of Clade I MXPV transmission via sexual contact",
-      "url": "https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65636f80720b4d7f82cbd859/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2023-11-26 17:09:01",
-      "content": "The Democratic Republic of Congo has been experiencing its largest ever outbreak of Mpox. This was ... [+] the first year that Kinshasa has had suspected Mpox cases. (Photo by ARSENE MPIANA/AFP via G\u2026 [+6011 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.960137",
-      "internal_id": "87f40fbc37ef678176a58b20d27b14d0bcd0a28150a89c577e01ac97d20257fc",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3354,
-      "query": [
-        "dengue",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Diepresse.com",
-      "author": "J\u00fcrgen Langenbach",
-      "title": "Bringt Klima Tropenfieber? [premium]",
-      "description": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen.",
-      "url": "https://www.diepresse.com/17849599/bringt-klima-tropenfieber",
-      "urlToImage": "https://img.diepresse.com/public/incoming/hipyx3-Tropenfieber/alternates/DPR_SOCIAL_MAGAZIN_PAID/Tropenfieber",
-      "publishedAt": "2023-11-26 16:16:22",
-      "content": "Dengue am Gardasee und Malaria in Florida haben die Sorge aktualisiert, dass mit der Erw\u00e4rmung alte Krankheiten zu uns kommen oder ganz neue drohen. Ende August erkrankten am Gardasee drei Menschen \u2026 [+2238 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.371580",
-      "internal_id": "9e02535ae752dc506ab723875c676b5f65c03ffc99da8c33e283a342b2c64cb5",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3361,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ctvnews.ca",
-      "author": "The Associated Press",
-      "title": "UN confirms sexual spread of mpox in Congo for the 1st time",
-      "description": "The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development that African scientists warn could make it more difficult to stop the dise\u2026",
-      "url": "https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367",
-      "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/11/26/mpox-particles-1-6661368-1701012524681.jpg",
-      "publishedAt": "2023-11-26 15:34:30",
-      "content": "LONDON - The World Health Organization said it has confirmed sexual transmission of mpox in Congo for the first time as the country experiences its biggest-ever outbreak, a worrying development tha\u2026 [+3280 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.997446",
-      "internal_id": "bc4315b698bae204034680118460df8a2003d307ed5347450f541f61ef0938d7",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3357,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "NDTV News",
-      "author": null,
-      "title": "Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil",
-      "description": "A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday.",
-      "url": "https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288",
-      "urlToImage": "https://c.ndtvimg.com/2023-10/1ininp3k_uk-hospital-generic_625x300_02_October_23.jpg",
-      "publishedAt": "2023-11-26 15:30:12",
-      "content": "He was a resident of Shivpuri district in Madhya Pradesh (Representational) Shivpuri: A 23-year-old Indian student, studying in the US, has died of malaria in Brazil, his father said on Sunday. \"My\u2026 [+1890 chars]",
-      "retrievedAt": "2023-11-27 19:05:28.318108",
-      "internal_id": "42931a3b084f0711bfdfd9c81fd0a61b23864d336a3369dca765e12b8b2c779d",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3353,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-washington-post",
-      "source_name": "The Washington Post",
-      "author": "Lena H. Sun",
-      "title": "How one rabid kitten triggered massive effort to contain deadly disease",
-      "description": "If the rabies virus spreads unchecked in raccoons, transmission would easily radiate out from Omaha into other states, putting 7 million people at increased risk.",
-      "url": "https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GMYQBL7A6RAQJC4WHFWHBN2PXA.jpg&w=1440",
-      "publishedAt": "2023-11-26 14:04:27",
-      "content": "Comment on this story Comment Add to your saved stories Save At first, Madeline Wahl thought her new kitten was having a bad reaction to medication for ringworm.After each dose, he would shake hi\u2026 [+8182 chars]",
-      "retrievedAt": "2023-11-27 19:05:26.584944",
-      "internal_id": "eb4bf4678d67256a47a66fd76354a04d81f49e97e797c8b8b9a53c0793cdb540",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3355,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Joana Ascens\u00e3o",
-      "title": "Doen\u00e7as transmitidas por mosquitos: Europa pede cautela aos pa\u00edses",
-      "description": "Centro Europeu da Preven\u00e7\u00e3o e Controlo de Doen\u00e7as est\u00e1 preocupado com preval\u00eancia de algumas doen\u00e7as. Altera\u00e7\u00f5es clim\u00e1ticas s\u00e3o respons\u00e1veis pela maior presen\u00e7a de mosquitos em territ\u00f3rio europeu",
-      "url": "https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130",
-      "urlToImage": "https://images.impresa.pt/expresso/2022-02-10-Aedes-aegypti-mosquito-mosquito-da-dengue-ca776fa9/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-11-26 13:10:03",
-      "content": "H\u00e1 cada vez mais mosquitos transmissores de doen\u00e7as, como a dengue, a febre-amarela e a febre do Nilo Ocidental, no espa\u00e7o europeu. O Centro Europeu de Preven\u00e7\u00e3o e Controlo de \u00adDoen\u00e7as (ECDC, na sigl\u2026 [+1594 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.379872",
-      "internal_id": "476cfe84197222cb6ed74dee7dfc3a1f365867b799affaf68c48b1cef9753d12",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3356,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Expresso.pt",
-      "author": "Raquel Albuquerque, Ana Bai\u00e3o, Jos\u00e9 Cedovim Pinto",
-      "title": "Os Aedes albopictus s\u00e3o inteligentes \u201ce exploram os comportamentos humanos\u201d: autoridades monitorizam mosquito da dengue e zika em Portugal",
-      "description": "Os Aedes albopictus, capazes de transmitir dengue, zika ou chicungunha, foram detetados em tr\u00eas freguesias da Grande Lisboa em setembro, depois de terem sido encontrados na regi\u00e3o Norte ainda em 2017, al\u00e9m do Algarve e Alentejo nos anos seguintes. At\u00e9 agora, \u2026",
-      "url": "https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152",
-      "urlToImage": "https://images.impresa.pt/expresso/2023-11-23-aedes-albopictus-c60e7243-1/1.91x1?wm=true&outputFormat=jpeg",
-      "publishedAt": "2023-11-26 13:09:39",
-      "content": "As primeiras fotografias dos mosquitos chegaram \u00e0s m\u00e3os dos cientistas no m\u00eas de setembro, enviadas por moradores na regi\u00e3o de Lisboa, depois de se cruzarem com uns insetos invulgares que, ao picarem\u2026 [+1577 chars]",
-      "retrievedAt": "2023-11-27 19:05:27.383737",
-      "internal_id": "612dadc92d23cf880fb62e7a11e7873f51975733e1bd2c7561997f952a7f4dfc",
-      "publishedAtLabel": "Nov 26"
-    },
-    {
-      "id": 3359,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Naftemporiki.gr",
-      "author": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
-      "title": "\u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc",
-      "description": "\u039f \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03c7\u03b8\u03b5\u03c2 \u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf \u03cc\u03c4\u03b9 \u03c3\u03c4\u03b7 \u039b\u0394 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af 12.569 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u03c2 \u03c0\u00bb (mpox, \u03bd\u03cc\u03c3\u03bf\u03c2 \u03b7 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03ae\u03c4\u03b1\u03bd \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03bc\u03b5 \u03c4\u03b7\u03bd \u03bf\u03bd\u03bf\u03bc\u03b1\u03c3\u03af\u03b1 \u00ab\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac\u2026 \u00ab\u0395\u03c5\u03bb\u03bf\u03b3\u03b9\u03ac \u03c0\u00bb: 581 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03bf \u039a\u03bf\u03bd\u03b3\u03ba\u03cc - \u0397 \u039d\u0391\u03a5\u03a4\u2026",
-      "url": "https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/",
-      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2022/05/1864751.jpeg",
-      "publishedAt": "2023-11-26 09:36:54",
-      "content": "12.569 \u00ab \u00bb (mpox, \u00ab \u00bb), 581 , 1 12 , . \u00ab , , , \u00bb, . , clade (.. ) , , \u00ab \u00bb. 1970 , , , , ... 2022 , , 23 2022. 11 , . (.. Clade b ) . , . , 91.788 , 167 , 116 2022 31 2023, . , clade I cla\u2026 [+84 chars]",
-      "retrievedAt": "2023-11-27 19:05:29.989287",
-      "internal_id": "18e15fbf5fbd461329f448709c8676fe17713fdf2c298c764b40b3166474d07f",
       "publishedAtLabel": "Nov 26"
     }
   ]

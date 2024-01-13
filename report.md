@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-01-13 07:05
-- **Most recent article:** 2024-01-12 07:00:56
+- **New articles in last harvest:** 24
+- **Last harvest:** 2024-01-13 19:05
+- **Most recent article:** 2024-01-12 18:27:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 44 | 62 | 42 | 69 | 37 | 2 | 52 | 24 | 332 |
-| malaria | 33 | 26 | 24 | 24 | 22 | 2 | 11 | 26 | 168 |
-| mpox | 18 | 15 | 24 | 15 | 12 | 0 | 2 | 1 | 87 |
-| measles | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 16 | 76 |
-| zika | 10 | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 55 |
+| dengue | 41 | 62 | 42 | 69 | 37 | 2 | 52 | 25 | 330 |
+| malaria | 31 | 26 | 24 | 24 | 22 | 2 | 11 | 44 | 184 |
+| mpox | 14 | 15 | 24 | 15 | 12 | 0 | 2 | 2 | 84 |
+| measles | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 17 | 77 |
+| zika | 9 | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 54 |
 | chikungunya | 10 | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 47 |
-| meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 9 | 40 |
-| rabies | 9 | 4 | 7 | 2 | 7 | 1 | 2 | 3 | 35 |
+| meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 11 | 42 |
+| rabies | 8 | 4 | 7 | 2 | 7 | 1 | 2 | 4 | 35 |
 | pertussis | 4 | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 19 |
-| leptospirosis | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 0 | 12 |
+| leptospirosis | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 1 | 13 |
 | typhoid | 0 | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 9 |
 | yersinia | 1 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 4 |
 
@@ -52,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Girl, 15, Launches Vaccination Campaign for Dogs and Cats to Protect Nairobi Residents Against Rabies](https://allafrica.com/stories/202401110038.html) (AllAfrica - Top Africa News)
 
+- [Rabies Is An Ancient, Unpredictable And Potentially Fatal Disease − Two Rabies Researchers Explain How To Protect Yourself](https://www.discovermagazine.com/health/rabies-is-an-ancient-unpredictable-and-potentially-fatal-disease-two-rabies) (Discover Magazine)
+
 - [Rabies is an ancient, unpredictable and potentially fatal disease − two rabies researchers explain how to protect yourself](https://theconversation.com/rabies-is-an-ancient-unpredictable-and-potentially-fatal-disease-two-rabies-researchers-explain-how-to-protect-yourself-219199) (The Conversation Africa)
 
 - [Govt hosps run out of anti-rabies vaccine again](https://timesofindia.indiatimes.com/city/chandigarh/govt-hosps-run-out-of-anti-rabies-vaccine-again/articleshow/106651965.cms) (The Times of India)
@@ -64,9 +66,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-2 (mpox)
 
+- [Cross-sectional survey of sexual health professionals experiences and perceptions of the 2022 mpox outbreak in the UK](https://bmjopen.bmj.com/content/14/1/e080250?rss=1) (The BMJ)
+
 - [New Auckland mpox cases: What you need to know](https://www.1news.co.nz/2024/01/11/new-auckland-mpox-cases-what-you-need-to-know/) (1news.co.nz)
 
 ## 24-2 (meningitis)
+
+- [El infierno de Luis Canut, marido de Patricia Pérez, tras enfermar por un excremento de ave](https://www.libertaddigital.com/chic/corazon/2024-01-12/el-infierno-de-luis-canut-marido-de-patricia-perez-tras-enfermar-por-un-excremento-de-ave-7086717/) (Libertaddigital.com)
+
+- [Meningitis killed 190 in 2023, says FG](https://punchng.com/meningitis-killed-190-in-2023-says-fg/) (The Punch)
 
 - [Patricia Pérez revela cómo se contagió su marido de meningitis criptocócica: "Le quedarán secuelas"](https://www.marca.com/tiramillas/television/2024/01/11/65a03bf746163ffd3f8b45d2.html) (Marca)
 
@@ -87,6 +95,8 @@ Source: [News API](https://newsapi.org/)
 - [JPR Williams, el adiós a un fullback que marcó una época](https://www.lanacion.com.ar/deportes/rugby/jpr-williams-el-adios-a-un-fullback-que-marco-una-epoca-nid09012024/) (La Nacion)
 
 ## 24-2 (measles)
+
+- [Friday, January 12, 2024](https://kffhealthnews.org/morning-briefing/friday-january-12-2024/) (Kffhealthnews.org)
 
 - [Child, adult contract measles in northern Israel](https://www.jpost.com/breaking-news/article-781813) (The Jerusalem Post)
 
@@ -121,6 +131,42 @@ Source: [News API](https://newsapi.org/)
 - [2 more measles cases confirmed by Philadelphia Health Department, bringing total to 8](https://www.cbsnews.com/philadelphia/news/measles-cases-in-philadelphia-outbreak/) (CBS News)
 
 ## 24-2 (malaria)
+
+- [WHO erklärt die Kapverden für malariafrei](https://www.dw.com/de/who-erkl%C3%A4rt-die-kapverden-f%C3%BCr-malariafrei/a-67968201) (DW (English))
+
+- [La OMS certifica a Cabo Verde como país libre de malaria](https://www.publico.es/internacional/oms-certifica-cabo-verde-pais-libre-malaria.html) (Publico.es)
+
+- [Na Franse studie die “meer dan 200 Belgische doden” door malariamiddel tegen corona meldde: “Slechts 18 gevallen van bijwerkingen in ons land”](https://www.hln.be/binnenland/na-franse-studie-die-meer-dan-200-belgische-doden-door-malariamiddel-tegen-corona-meldde-slechts-18-gevallen-van-bijwerkingen-in-ons-land~aa49385c/) (Www.hln.be)
+
+- [Kap Verde erklæret fri for malaria](https://www.dr.dk/nyheder/seneste/kap-verde-erklaeret-fri-malaria) (Www.dr.dk)
+
+- [Africa: WHO declares Cape Verde free of malaria](https://www.dw.com/en/africa-who-declares-cape-verde-free-of-malaria/a-67964211) (DW (English))
+
+- [WHO declares Cape Verde free of malaria](https://www.dw.com/en/who-declares-cape-verde-free-of-malaria/a-67964211) (DW (English))
+
+- [Capo Verde è il quarto stato africano a debellare la malaria](https://www.ilpost.it/2024/01/12/capo-verde-malaria/) (Ilpost.it)
+
+- [Capo Verde diventa il terzo paese africano libero dalla malaria](https://www.internazionale.it/ultime-notizie/2024/01/12/capo-verde-eradicazione-malaria) (Internazionale.it)
+
+- [O ţară africană a reuşit să eradicheze malaria după 50 de ani](https://www.mediafax.ro/sanatate/o-tara-africana-a-reusit-sa-eradicheze-malaria-dupa-50-de-ani-22230506) (Mediafax.ro)
+
+- [Cape Verde: Global Fund Applauds Cabo Verde for Eliminating Malaria](https://allafrica.com/stories/202401120306.html) (AllAfrica - Top Africa News)
+
+- [Als drittes Land Afrikas : Weltgesundheitsorganisation erklärt die Kapverden für malariafrei](https://www.tagesspiegel.de/internationales/als-drittes-land-afrikas-weltgesundheitsorganisation-erklart-die-kapverden-fur-malariafrei-11041222.html) (Der Tagesspiegel)
+
+- [Another malaria milestone as WHO declares Cabo Verde free of deadly disease](https://news.un.org/en/story/2024/01/1145467) (UN News)
+
+- [Inselstaat Kap Verde ist frei von Malaria](https://www.tagesschau.de/ausland/afrika/afrika-kap-verde-malaria-who-100.html) (tagesschau.de)
+
+- [Africa: WHO Certifies Cabo Verde As Malaria-Free, Marking a Historic Milestone in the Fight Against Malaria](https://allafrica.com/stories/202401120267.html) (AllAfrica - Top Africa News)
+
+- [El invento de la española Pilar Mateo al que Francia quiere recurrir para controlar la crisis de malaria en Tanzania](https://www.elespanol.com/enclave-ods/noticias/20240112/invento-espanola-pilar-mateo-francia-recurriendo-controlar-crisis-malaria-tanzania/824417623_0.html) (Elespanol.com)
+
+- [Cape Verde becomes third African country to eliminate malaria](https://www.hurriyetdailynews.com/cape-verde-becomes-third-african-country-to-eliminate-malaria-189620) (Hurriyet Daily News)
+
+- [News24 | Cape Verde becomes the third African country to eliminate malaria](https://www.news24.com/news24/africa/news/cape-verde-becomes-the-third-african-country-to-eliminate-malaria-20240112) (News24)
+
+- [Cape Verde reaches malaria-free milestone](https://www.bbc.co.uk/news/world-africa-67951537) (BBC News)
 
 - [Buy Hydroxychloroquine Online In USA - HCQS 200 Tablets For Sale](https://www.ndtv.com/partner-content/health-supplements/buy-hydroxychloroquine-online-in-usa-hcqs-200-tablets-for-sale-4847805) (NDTV News)
 
@@ -174,7 +220,13 @@ Source: [News API](https://newsapi.org/)
 
 - [William Weightman Net Worth – How Much Was William Weightman Worth?](https://zacjohnson.com/william-weightman-net-worth/) (Zacjohnson.com)
 
+## 24-2 (leptospirosis)
+
+- [Life threatening diseases rats living in your home can cause](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/life-threatening-diseases-rats-living-in-your-home-can-cause/articleshow/106767884.cms) (The Times of India)
+
 ## 24-2 (dengue)
+
+- [Another malaria milestone as WHO declares Cabo Verde free of deadly disease](https://news.un.org/en/story/2024/01/1145467) (UN News)
 
 - [Der Klimawandel fördert die Ausbreitung der Dengue-Krankheit. Ein Augenschein vor Ort in Argentinien](https://www.nzz.ch/international/klimawandel-dengue-breitet-sich-in-argentinien-aus-ld.1766922) (Www.nzz.ch)
 
@@ -1670,8 +1722,6 @@ Source: [News API](https://newsapi.org/)
 
 - [There’s no place for “benevolent deception” in obstetrics](https://www.kevinmd.com/2023/11/theres-no-place-for-benevolent-deception-in-obstetrics.html) (Kevinmd.com)
 
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
-
 ## 23-48 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 29th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-29th-november-2023/) (Iasbaba.com)
@@ -1693,8 +1743,6 @@ Source: [News API](https://newsapi.org/)
 - [Research links climate change to vampire bat expansion and rabies virus spillover](https://phys.org/news/2023-11-links-climate-vampire-expansion-rabies.html) (Phys.Org)
 
 - [Horror Movie Rabies Finds Monstrous Terror in 90s Beirut](https://www.comingsoon.net/horror/news/1415664-rabies-beirut-horror-movie) (ComingSoon.net)
-
-- [How one rabid kitten triggered massive effort to contain deadly disease](https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/) (The Washington Post)
 
 ## 23-48 (pertussis)
 
@@ -1735,14 +1783,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO Confirms Spread of MPox in DR Congo](https://allafrica.com/stories/202311270556.html) (AllAfrica - Top Africa News)
 
 - [Epidémie de mpox en RDC : 581 décès depuis janvier et nombre de cas record sur une année](https://www.lemonde.fr/afrique/article/2023/11/27/epidemie-de-mpox-en-rdc-581-deces-depuis-janvier-et-nombre-de-cas-record-sur-une-annee_6202586_3212.html) (Le Monde)
-
-- [Health officials on alert after first case of mpox detected in Idaho county](https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html) (Idaho State Journal)
-
-- [Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update](https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/) (Forbes)
-
-- [UN confirms sexual spread of mpox in Congo for the 1st time](https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367) (Ctvnews.ca)
-
-- [«Ευλογιά π»: 581 θάνατοι και ρεκόρ κρουσμάτων στο Κονγκό](https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/) (Naftemporiki.gr)
 
 ## 23-48 (meningitis)
 
@@ -1827,10 +1867,6 @@ Source: [News API](https://newsapi.org/)
 - [First Malaria Vaccines Arrive In Cameroon](https://www.forbes.com/sites/unicefusa/2023/11/27/first-malaria-vaccines-arrive-in-cameroon/) (Forbes)
 
 - [Pocket-sized DNA sequencers track malaria drug resistance in Ghana in near real-time](https://phys.org/news/2023-11-pocket-sized-dna-sequencers-track-malaria.html) (Phys.Org)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil](https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288) (NDTV News)
 
 ## 23-48 (leptospirosis)
 
@@ -1925,12 +1961,6 @@ Source: [News API](https://newsapi.org/)
 - [Afrique de l'Ouest: Une épidémie de dengue touche toutes les régions du Burkina Faso](https://fr.allafrica.com/stories/202311270231.html) (AllAfrica - Top Africa News)
 
 - [Saúde faz alerta para ressurgimento da dengue tipo 3](https://brasil.perfil.com/saude/saude-faz-alerta-para-ressurgimento-da-dengue-tipo-3.phtml) (Perfil.com)
-
-- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
-
-- [Doenças transmitidas por mosquitos: Europa pede cautela aos países](https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130) (Expresso.pt)
-
-- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
 
 ## 23-48 (chikungunya)
 
