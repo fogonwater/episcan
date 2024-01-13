@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2024-01-12 19:05
-- **Most recent article:** 2024-01-11 18:01:09
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-01-13 07:05
+- **Most recent article:** 2024-01-12 07:00:56
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-48 | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 62 | 42 | 69 | 37 | 2 | 52 | 21 | 326 |
-| malaria | 31 | 26 | 24 | 24 | 22 | 2 | 11 | 25 | 165 |
-| mpox | 14 | 15 | 24 | 15 | 12 | 0 | 2 | 1 | 83 |
+| dengue | 44 | 62 | 42 | 69 | 37 | 2 | 52 | 24 | 332 |
+| malaria | 33 | 26 | 24 | 24 | 22 | 2 | 11 | 26 | 168 |
+| mpox | 18 | 15 | 24 | 15 | 12 | 0 | 2 | 1 | 87 |
 | measles | 4 | 5 | 7 | 28 | 7 | 1 | 8 | 16 | 76 |
-| zika | 9 | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 54 |
+| zika | 10 | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 55 |
 | chikungunya | 10 | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 47 |
-| meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 5 | 36 |
-| rabies | 8 | 4 | 7 | 2 | 7 | 1 | 2 | 3 | 34 |
-| pertussis | 4 | 2 | 4 | 2 | 0 | 0 | 5 | 1 | 18 |
+| meningitis | 4 | 8 | 9 | 4 | 4 | 0 | 2 | 9 | 40 |
+| rabies | 9 | 4 | 7 | 2 | 7 | 1 | 2 | 3 | 35 |
+| pertussis | 4 | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 19 |
 | leptospirosis | 4 | 3 | 0 | 2 | 3 | 0 | 0 | 0 | 12 |
 | typhoid | 0 | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 9 |
 | yersinia | 1 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 4 |
@@ -58,6 +58,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-2 (pertussis)
 
+- [A Sacramento health official on how to differentiate and identify respiratory illnesses](https://www.kcra.com/article/sacramento-health-official-respiratory-illnesses-2024/46345469) (KCRA Sacramento)
+
 - [Kell-e tartanunk a szomszédunkban terjedő szamárköhögéstől?](https://index.hu/belfold/2024/01/10/gyerekek-szamarkohoges-bakterium-fertozes-jarvany-oltas/) (Index.hu)
 
 ## 24-2 (mpox)
@@ -65,6 +67,14 @@ Source: [News API](https://newsapi.org/)
 - [New Auckland mpox cases: What you need to know](https://www.1news.co.nz/2024/01/11/new-auckland-mpox-cases-what-you-need-to-know/) (1news.co.nz)
 
 ## 24-2 (meningitis)
+
+- [Patricia Pérez revela cómo se contagió su marido de meningitis criptocócica: "Le quedarán secuelas"](https://www.marca.com/tiramillas/television/2024/01/11/65a03bf746163ffd3f8b45d2.html) (Marca)
+
+- [Nigeria: Meningitis Kills 190 in Nigeria in Two Years](https://allafrica.com/stories/202401120016.html) (AllAfrica - Top Africa News)
+
+- [Manitoba health officials see spike in infections that can cause meningitis](https://www.cbc.ca/news/canada/manitoba/invasive-meningococcal-disease-cases-increase-1.7081148) (CBC News)
+
+- [The New Vaccines to Get in 2024](https://time.com/6554595/vaccine-guidelines-adults-kids/) (Time)
 
 - [Patricia Pérez se rompe al hablar del calvario de su marido: "Una caca de pájaro casi lo mata"](https://www.mundodeportivo.com/elotromundo/television/20240111/1002168074/patricia-perez-rompe-hablar-calvario-marido-caca-pajaro-mata-tardear-dct.html) (Mundodeportivo.com)
 
@@ -111,6 +121,8 @@ Source: [News API](https://newsapi.org/)
 - [2 more measles cases confirmed by Philadelphia Health Department, bringing total to 8](https://www.cbsnews.com/philadelphia/news/measles-cases-in-philadelphia-outbreak/) (CBS News)
 
 ## 24-2 (malaria)
+
+- [Buy Hydroxychloroquine Online In USA - HCQS 200 Tablets For Sale](https://www.ndtv.com/partner-content/health-supplements/buy-hydroxychloroquine-online-in-usa-hcqs-200-tablets-for-sale-4847805) (NDTV News)
 
 - [Meer dan 200 Belgische doden door malariamiddel tegen corona. Van Ranst reageert: "Op dat moment was het een logische keuze”](https://www.hln.be/wetenschap-en-planeet/meer-dan-200-belgische-doden-door-malariamiddel-tegen-corona-van-ranst-reageert-op-dat-moment-was-het-een-logische-keuze~a5e0d9b9/) (Www.hln.be)
 
@@ -163,6 +175,12 @@ Source: [News API](https://newsapi.org/)
 - [William Weightman Net Worth – How Much Was William Weightman Worth?](https://zacjohnson.com/william-weightman-net-worth/) (Zacjohnson.com)
 
 ## 24-2 (dengue)
+
+- [Der Klimawandel fördert die Ausbreitung der Dengue-Krankheit. Ein Augenschein vor Ort in Argentinien](https://www.nzz.ch/international/klimawandel-dengue-breitet-sich-in-argentinien-aus-ld.1766922) (Www.nzz.ch)
+
+- [Casos de dengue em Belo Horizonte (MG) aumentam 850% em 2023](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/casos-de-dengue-em-belo-horizonte-mg-aumentam-850-em-2023-12012024) (R7.com)
+
+- [Previna-se: chuvas de verão aumentam risco de dengue e outras doenças](https://www.metropoles.com/saude/chuvas-de-verao-aumentam-risco-de-dengue-e-outras-doencas) (Metropoles.com)
 
 - [Chuvas de verão aumentam risco de dengue e outras doenças; veja como prevenir](https://www.terra.com.br/vida-e-estilo/verao/chuvas-de-verao-aumentam-risco-de-dengue-e-outras-doencas-veja-como-prevenir,359fcaf6a38a3bee6b0673a8c4287d2ad7qid5bq.html) (Terra.com.br)
 
@@ -1652,6 +1670,8 @@ Source: [News API](https://newsapi.org/)
 
 - [There’s no place for “benevolent deception” in obstetrics](https://www.kevinmd.com/2023/11/theres-no-place-for-benevolent-deception-in-obstetrics.html) (Kevinmd.com)
 
+- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
+
 ## 23-48 (yersinia)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 29th November 2023](https://iasbaba.com/2023/11/daily-current-affairs-ias-upsc-prelims-and-mains-exam-29th-november-2023/) (Iasbaba.com)
@@ -1673,6 +1693,8 @@ Source: [News API](https://newsapi.org/)
 - [Research links climate change to vampire bat expansion and rabies virus spillover](https://phys.org/news/2023-11-links-climate-vampire-expansion-rabies.html) (Phys.Org)
 
 - [Horror Movie Rabies Finds Monstrous Terror in 90s Beirut](https://www.comingsoon.net/horror/news/1415664-rabies-beirut-horror-movie) (ComingSoon.net)
+
+- [How one rabid kitten triggered massive effort to contain deadly disease](https://www.washingtonpost.com/health/2023/11/26/rabies-kitten-omaha-raccoon/) (The Washington Post)
 
 ## 23-48 (pertussis)
 
@@ -1713,6 +1735,14 @@ Source: [News API](https://newsapi.org/)
 - [WHO Confirms Spread of MPox in DR Congo](https://allafrica.com/stories/202311270556.html) (AllAfrica - Top Africa News)
 
 - [Epidémie de mpox en RDC : 581 décès depuis janvier et nombre de cas record sur une année](https://www.lemonde.fr/afrique/article/2023/11/27/epidemie-de-mpox-en-rdc-581-deces-depuis-janvier-et-nombre-de-cas-record-sur-une-annee_6202586_3212.html) (Le Monde)
+
+- [Health officials on alert after first case of mpox detected in Idaho county](https://www.idahostatejournal.com/freeaccess/health-officials-on-alert-after-first-case-of-mpox-detected-in-idaho-county/article_0d2a2daf-2656-59f5-8332-9305bf3eb185.html) (Idaho State Journal)
+
+- [Mpox Outbreak In DRC: Over 12,500 Cases, 581 Deaths, Says WHO Update](https://www.forbes.com/sites/brucelee/2023/11/26/mpox-outbreak-in-drc-over-12500-cases-581-deaths-says-who-update/) (Forbes)
+
+- [UN confirms sexual spread of mpox in Congo for the 1st time](https://www.ctvnews.ca/health/un-confirms-sexual-spread-of-mpox-in-congo-for-the-1st-time-as-country-sees-a-record-outbreak-1.6661367) (Ctvnews.ca)
+
+- [«Ευλογιά π»: 581 θάνατοι και ρεκόρ κρουσμάτων στο Κονγκό](https://www.naftemporiki.gr/kosmos/1540706/eylogia-p-581-thanatoi-kai-rekor-kroysmaton-sto-kongko/) (Naftemporiki.gr)
 
 ## 23-48 (meningitis)
 
@@ -1797,6 +1827,10 @@ Source: [News API](https://newsapi.org/)
 - [First Malaria Vaccines Arrive In Cameroon](https://www.forbes.com/sites/unicefusa/2023/11/27/first-malaria-vaccines-arrive-in-cameroon/) (Forbes)
 
 - [Pocket-sized DNA sequencers track malaria drug resistance in Ghana in near real-time](https://phys.org/news/2023-11-pocket-sized-dna-sequencers-track-malaria.html) (Phys.Org)
+
+- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
+
+- [Indian Teen Studying In US Dies Of Malaria During College Tour To Brazil](https://www.ndtv.com/indians-abroad/indian-teen-studying-in-us-dies-of-malaria-during-college-tour-to-brazil-4608288) (NDTV News)
 
 ## 23-48 (leptospirosis)
 
@@ -1891,6 +1925,12 @@ Source: [News API](https://newsapi.org/)
 - [Afrique de l'Ouest: Une épidémie de dengue touche toutes les régions du Burkina Faso](https://fr.allafrica.com/stories/202311270231.html) (AllAfrica - Top Africa News)
 
 - [Saúde faz alerta para ressurgimento da dengue tipo 3](https://brasil.perfil.com/saude/saude-faz-alerta-para-ressurgimento-da-dengue-tipo-3.phtml) (Perfil.com)
+
+- [Bringt Klima Tropenfieber? [premium]](https://www.diepresse.com/17849599/bringt-klima-tropenfieber) (Diepresse.com)
+
+- [Doenças transmitidas por mosquitos: Europa pede cautela aos países](https://expresso.pt/sociedade/saude/2023-11-26-Doencas-transmitidas-por-mosquitos-Europa-pede-cautela-aos-paises-87284130) (Expresso.pt)
+
+- [Os Aedes albopictus são inteligentes “e exploram os comportamentos humanos”: autoridades monitorizam mosquito da dengue e zika em Portugal](https://expresso.pt/sociedade/2023-11-26-Os-Aedes-albopictus-sao-inteligentes-e-exploram-os-comportamentos-humanos-autoridades-monitorizam-mosquito-da-dengue-e-zika-em-Portugal-4d633152) (Expresso.pt)
 
 ## 23-48 (chikungunya)
 
