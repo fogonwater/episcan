@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-01-14 07:05
-- **Most recent article:** 2024-01-13 06:42:24
+- **New articles in last harvest:** 12
+- **Last harvest:** 2024-01-14 19:05
+- **Most recent article:** 2024-01-13 16:41:10
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 62 | 42 | 69 | 37 | 2 | 52 | 29 | 293 |
-| malaria | 24 | 24 | 24 | 22 | 2 | 11 | 46 | 153 |
-| measles | 5 | 7 | 28 | 7 | 1 | 8 | 20 | 76 |
-| mpox | 15 | 24 | 15 | 12 | 0 | 2 | 2 | 70 |
+| dengue | 61 | 42 | 69 | 37 | 2 | 52 | 35 | 298 |
+| malaria | 23 | 24 | 24 | 22 | 2 | 11 | 48 | 154 |
+| measles | 5 | 7 | 28 | 7 | 1 | 8 | 23 | 79 |
+| mpox | 14 | 24 | 15 | 12 | 0 | 2 | 2 | 69 |
 | zika | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 45 |
-| meningitis | 8 | 9 | 4 | 4 | 0 | 2 | 11 | 38 |
+| meningitis | 7 | 9 | 4 | 4 | 0 | 2 | 11 | 37 |
 | chikungunya | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 37 |
-| rabies | 4 | 7 | 2 | 7 | 1 | 2 | 4 | 27 |
+| rabies | 4 | 7 | 2 | 7 | 1 | 2 | 5 | 28 |
 | pertussis | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 15 |
 | leptospirosis | 3 | 0 | 2 | 3 | 0 | 0 | 1 | 9 |
 | typhoid | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 9 |
-| yersinia | 2 | 0 | 0 | 0 | 0 | 1 | 1 | 4 |
+| yersinia | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -53,6 +53,8 @@ Source: [News API](https://newsapi.org/)
 - [Συσκευασμένες σαλάτες πλύσιμο: Τι πρέπει να κάνω τελικά;](https://www.alphafreepress.gr/2024/01/13/plus/syskeyasmenes-salates-plysimo-ti-prepei-na-kano-telika/) (Alphafreepress.gr)
 
 ## 24-2 (rabies)
+
+- [Rabies Is a Deadly, Unpredictable Threat. Here's How to Protect Yourself.](https://www.sciencealert.com/rabies-is-a-deadly-unpredictable-threat-heres-how-to-protect-yourself) (ScienceAlert)
 
 - [Girl, 15, Launches Vaccination Campaign for Dogs and Cats to Protect Nairobi Residents Against Rabies](https://allafrica.com/stories/202401110038.html) (AllAfrica - Top Africa News)
 
@@ -100,6 +102,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-2 (measles)
 
+- [Measles case confirmed in Camden County; officials working to trace source of infection](https://www.cbsnews.com/philadelphia/news/measles-virus-exposure-camden-county-new-jersey-symptoms-treatment/) (CBS News)
+
+- [Camden County confirms measles case, investigates Philadelphia connection](https://www.inquirer.com/health/measles-camden-county-new-jersey-daycare-philadelphia-outbreak-mmr-20240113.html) (The Philadelphia Inquirer)
+
+- [Surge in measles cases fuelled by vaccine hesitancy over MMR jab](https://news.sky.com/story/measles-cases-surge-in-england-and-wales-fuelled-by-vaccine-hesitancy-over-mmr-jab-13047335) (Sky.com)
+
 - [TWiV 1078: Clinical update with Dr. Daniel Griffin](https://www.microbe.tv/twiv/twiv-1078/) (Microbe.tv)
 
 - [Measles exposure confirmed at KCI, North Kansas City Hospital](https://fox4kc.com/news/measles-exposure-confirmed-at-kci-north-kansas-city-hospital/) (WDAF FOX4 Kansas City)
@@ -141,6 +149,10 @@ Source: [News API](https://newsapi.org/)
 - [2 more measles cases confirmed by Philadelphia Health Department, bringing total to 8](https://www.cbsnews.com/philadelphia/news/measles-cases-in-philadelphia-outbreak/) (CBS News)
 
 ## 24-2 (malaria)
+
+- [Revelan una combinación de fármacos que protege de malaria a mujeres embarazadas con VIH](https://www.montevideo.com.uy/Salud/Revelan-una-combinacion-de-farmacos-que-protege-de-malaria-a-mujeres-embarazadas-con-VIH-uc876589) (Montevideo.com.uy)
+
+- [Malariabekämpfung auf Kap Verde: Inselparadies ohne Malaria](https://taz.de/Malariabekaempfung-auf-Kap-Verde/!5985233/) (taz.de)
 
 - [Kaapverdië als eerste West-Afrikaanse land malariavrij verklaard](https://www.nu.nl/goed-nieuws/6297656/kaapverdie-als-eerste-west-afrikaanse-land-malariavrij-verklaard.html) (Www.nu.nl)
 
@@ -239,6 +251,18 @@ Source: [News API](https://newsapi.org/)
 - [Life threatening diseases rats living in your home can cause](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/life-threatening-diseases-rats-living-in-your-home-can-cause/articleshow/106767884.cms) (The Times of India)
 
 ## 24-2 (dengue)
+
+- [Força-tarefa de vigilância e assistência intensifica combate à dengue](https://jornaldebrasilia.com.br/brasilia/forca-tarefa-de-vigilancia-e-assistencia-intensifica-combate-a-dengue/) (Jornaldebrasilia.com.br)
+
+- [GDF anuncia a nomeação de 150 servidores para combate à dengue](https://www.metropoles.com/distrito-federal/gdf-anuncia-a-nomeacao-de-150-servidores-para-combate-a-dengue) (Metropoles.com)
+
+- [Vacinação contra dengue pode ser feita em três pontos em Dourados](https://noticias.r7.com/cidades/diario-digital/vacinacao-contra-dengue-pode-ser-feita-em-tres-pontos-em-dourados-13012024) (R7.com)
+
+- [Ministry partners with private parties to achieve zero dengue deaths](https://en.antaranews.com/news/302970/ministry-partners-with-private-parties-to-achieve-zero-dengue-deaths) (Antaranews.com)
+
+- [Intensifica Salud federal medidas de control del dengue en Acapulco](https://www.jornada.com.mx/2024/01/13/estados/023n2est) (Jornada.com.mx)
+
+- [Dengue cases rise in first week of January, says Health DG](https://www.thestar.com.my/news/nation/2024/01/13/dengue-cases-rise-in-first-week-of-january-says-health-dg) (The Star Online)
 
 - [Mosquitos 'fabricados' e infectados de bacterias para acabar con el dengue](https://www.elperiodico.com/es/sociedad/20240113/mosquitos-fabricados-infectados-bacterias-acabar-96751104) (Elperiodico.com)
 
@@ -1426,8 +1450,6 @@ Source: [News API](https://newsapi.org/)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 6th December 2023](https://iasbaba.com/2023/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-6th-december-2023/) (Iasbaba.com)
 
-- [益生菌，真的能调节肠胃吗？](https://post.smzdm.com/p/aqq8zekp/) (Smzdm.com)
-
 ## 23-49 (typhoid)
 
 - [Yellow canteens: a colourful way to keep kids healthy](https://www.springwise.com/innovation/education/painting-canteens-yellow-to-keep-kids-healthy/) (Springwise.com)
@@ -1482,8 +1504,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stigma, regulatory barriers delay mpox response in country that needs it most](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most-45498818/) (Marketscreener.com)
 
-- [Jakarta completes mpox vaccination to 411 people: Official](https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official) (Antaranews.com)
-
 ## 23-49 (meningitis)
 
 - [ACTG Announces Launch of Clinical Trial Evaluating Novel Treatment for Tuberculous Meningitis](https://www.globenewswire.com/news-release/2023/12/07/2792865/0/en/ACTG-Announces-Launch-of-Clinical-Trial-Evaluating-Novel-Treatment-for-Tuberculous-Meningitis.html) (GlobeNewswire)
@@ -1499,8 +1519,6 @@ Source: [News API](https://newsapi.org/)
 - [Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections](https://www.bmj.com/content/383/bmj.p2849) (The BMJ)
 
 - [Mount Hope community mourns loss of vibrant young woman to rare viral meningitis case](https://turnto10.com/news/local/mount-hope-community-mourns-loss-of-vibrant-young-woman-to-rare-viral-meningitis-case) (Turn to 10)
-
-- [La ONG sevillana África Arco Iris administra 8.500 vacunas contra la meningitis a niños de Costa de Marfil](https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html) (Europapress.es)
 
 ## 23-49 (measles)
 
@@ -1561,8 +1579,6 @@ Source: [News API](https://newsapi.org/)
 - [Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO](https://allafrica.com/stories/202312040455.html) (AllAfrica - Top Africa News)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [How climate change is making the world sick](https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476) (CNA)
 
 ## 23-49 (leptospirosis)
 
@@ -1695,8 +1711,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika) (Metropoles.com)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [Bangladesh faces its worst dengue epidemic on record](https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html) (Le Monde)
 
 ## 23-49 (chikungunya)
 
