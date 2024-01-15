@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2024-01-15 07:05
-- **Most recent article:** 2024-01-14 04:33:00
+- **New articles in last harvest:** 3
+- **Last harvest:** 2024-01-15 19:05
+- **Most recent article:** 2024-01-14 09:50:17
 
 ---
 
@@ -12,25 +12,31 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 62 | 42 | 69 | 37 | 2 | 52 | 35 | 0 | 299 |
-| malaria | 24 | 24 | 24 | 22 | 2 | 11 | 50 | 0 | 157 |
-| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 1 | 82 |
-| mpox | 15 | 24 | 15 | 12 | 0 | 2 | 2 | 0 | 70 |
+| dengue | 61 | 42 | 69 | 37 | 2 | 52 | 35 | 0 | 298 |
+| malaria | 23 | 24 | 24 | 22 | 2 | 11 | 51 | 0 | 157 |
+| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 2 | 83 |
+| mpox | 14 | 24 | 15 | 12 | 0 | 2 | 2 | 0 | 69 |
 | zika | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 0 | 45 |
-| meningitis | 8 | 9 | 4 | 4 | 0 | 2 | 11 | 0 | 38 |
+| meningitis | 7 | 9 | 4 | 4 | 0 | 2 | 11 | 0 | 37 |
 | chikungunya | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 37 |
-| rabies | 4 | 7 | 2 | 7 | 1 | 2 | 5 | 0 | 28 |
+| rabies | 4 | 7 | 2 | 7 | 1 | 2 | 5 | 1 | 29 |
 | pertussis | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 0 | 15 |
 | leptospirosis | 3 | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 9 |
 | typhoid | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 0 | 9 |
-| yersinia | 2 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 4 |
+| yersinia | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-3 (rabies)
+
+- [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
+
 ## 24-3 (measles)
+
+- [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 - [What is measles? Camden County Health Department closely monitoring 1 confirmed case](https://6abc.com/camden-county-health-department-measles-case-nj-news/14318022/) (WPVI-TV)
 
@@ -159,6 +165,8 @@ Source: [News API](https://newsapi.org/)
 ## 24-2 (malaria)
 
 - [Israeli citizen dies in Georgia after contracting malaria](https://www.jpost.com/breaking-news/article-782076) (The Jerusalem Post)
+
+- [African women living with HIV have an effective option to prevent malaria during pregnancy](https://www.sciencedaily.com/releases/2024/01/240113141214.htm) (Science Daily)
 
 - [Revelan una combinación de fármacos que protege de malaria a mujeres embarazadas con VIH](https://www.montevideo.com.uy/Salud/Revelan-una-combinacion-de-farmacos-que-protege-de-malaria-a-mujeres-embarazadas-con-VIH-uc876589) (Montevideo.com.uy)
 
@@ -1462,8 +1470,6 @@ Source: [News API](https://newsapi.org/)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 6th December 2023](https://iasbaba.com/2023/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-6th-december-2023/) (Iasbaba.com)
 
-- [益生菌，真的能调节肠胃吗？](https://post.smzdm.com/p/aqq8zekp/) (Smzdm.com)
-
 ## 23-49 (typhoid)
 
 - [Yellow canteens: a colourful way to keep kids healthy](https://www.springwise.com/innovation/education/painting-canteens-yellow-to-keep-kids-healthy/) (Springwise.com)
@@ -1518,8 +1524,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stigma, regulatory barriers delay mpox response in country that needs it most](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most-45498818/) (Marketscreener.com)
 
-- [Jakarta completes mpox vaccination to 411 people: Official](https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official) (Antaranews.com)
-
 ## 23-49 (meningitis)
 
 - [ACTG Announces Launch of Clinical Trial Evaluating Novel Treatment for Tuberculous Meningitis](https://www.globenewswire.com/news-release/2023/12/07/2792865/0/en/ACTG-Announces-Launch-of-Clinical-Trial-Evaluating-Novel-Treatment-for-Tuberculous-Meningitis.html) (GlobeNewswire)
@@ -1535,8 +1539,6 @@ Source: [News API](https://newsapi.org/)
 - [Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections](https://www.bmj.com/content/383/bmj.p2849) (The BMJ)
 
 - [Mount Hope community mourns loss of vibrant young woman to rare viral meningitis case](https://turnto10.com/news/local/mount-hope-community-mourns-loss-of-vibrant-young-woman-to-rare-viral-meningitis-case) (Turn to 10)
-
-- [La ONG sevillana África Arco Iris administra 8.500 vacunas contra la meningitis a niños de Costa de Marfil](https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html) (Europapress.es)
 
 ## 23-49 (measles)
 
@@ -1597,8 +1599,6 @@ Source: [News API](https://newsapi.org/)
 - [Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO](https://allafrica.com/stories/202312040455.html) (AllAfrica - Top Africa News)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [How climate change is making the world sick](https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476) (CNA)
 
 ## 23-49 (leptospirosis)
 
@@ -1731,8 +1731,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika) (Metropoles.com)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [Bangladesh faces its worst dengue epidemic on record](https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html) (Le Monde)
 
 ## 23-49 (chikungunya)
 
