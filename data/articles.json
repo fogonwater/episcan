@@ -1,8 +1,80 @@
 {
-  "last_updated": "2024-01-14 19:05",
-  "count_articles_total": 730,
-  "count_articles_new": 12,
+  "last_updated": "2024-01-15 07:05",
+  "count_articles_total": 740,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 4243,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "6abc Digital Staff",
+      "title": "What is measles? Camden County Health Department closely monitoring 1 confirmed case",
+      "description": "The Camden County Health Department is monitoring a confirmed measles case. Here's what we know.",
+      "url": "https://6abc.com/camden-county-health-department-measles-case-nj-news/14318022/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/5218949_032619-kgo-measles-img.jpg?w=1600",
+      "publishedAt": "2024-01-14 04:33:00",
+      "content": "CAMDEN, New Jersey (WPVI) -- There is now a confirmed case of measles in Camden County. The health department says it is working to identify people who came into contact with the individual who live\u2026 [+1606 chars]",
+      "retrievedAt": "2024-01-15 07:05:54.628878",
+      "internal_id": "7164d13ac454353e8c99d4116ffc9d0d48913a9aef408060c518c1df4753836d",
+      "publishedAtLabel": "Jan 14"
+    },
+    {
+      "id": 4242,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KAKE",
+      "author": "Cameron Burnett",
+      "title": "Measles exposure confirmed at KCI, North Kansas City hospital",
+      "description": "Officials are warning of a confirmed case of measles in a Missouri resident last week.",
+      "url": "https://www.kake.com/story/50327071/measles-exposure-confirmed-at-kci-north-kansas-city-hospital",
+      "urlToImage": "https://KAKE.images.worldnow.com/images/25682255_G.jpeg?lastEditedDate=1705161431000",
+      "publishedAt": "2024-01-13 21:30:01",
+      "content": "KANSAS CITY, Mo. (KAKE) - Officials are warning of a confirmed case of measles in a Missouri resident last week. The Clay County Missouri Public Health Center says they were notified of a confirmed \u2026 [+1413 chars]",
+      "retrievedAt": "2024-01-15 07:05:54.625833",
+      "internal_id": "8cad70990f492fa4be9e8b8136fd2d77061edd332dd6f2ef50860c3a7399eba5",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 4241,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Major Measles Outbreak Erupts In England As Vaccine Hesitancy Increases",
+      "description": "In England, the Birmingham Children\u2019s Hospital is currently grappling with a major outbreak of measles. More than 50 children have been hospitalized in the past month.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/01/13/major-measles-outbreak-erupts-in-england-as-vaccine-hesitancy-increases/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65a2c2d9349862df9e346a13/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-01-13 21:27:36",
+      "content": "Child with measles. getty In England, the Birmingham Childrens Hospital is currently grappling with a major outbreak of measles. More than 50 children have been hospitalized in the past month. Vacc\u2026 [+4918 chars]",
+      "retrievedAt": "2024-01-15 07:05:54.597627",
+      "internal_id": "6d75947380556e62e65e260d1236c0010761b5cc08159e5fb26755e168138699",
+      "publishedAtLabel": "Jan 13"
+    },
+    {
+      "id": 4244,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY JERUSALEM POST STAFF",
+      "title": "Israeli citizen dies in Georgia after contracting malaria",
+      "description": "An Israeli citizen residing in Georgia died on Friday after contracting malaria while working in Africa, Israe",
+      "url": "https://www.jpost.com/breaking-news/article-782076",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2024-01-13 19:38:06",
+      "content": "An Israeli citizen residing in Georgia died on Friday after contracting malaria while working in Africa, Israeli media reported Saturday evening. Vakhtang Kejaya, 31, was a former Israel Police offi\u2026 [+175 chars]",
+      "retrievedAt": "2024-01-15 07:05:55.547838",
+      "internal_id": "540342c6c5fe1ca51df677115009492f51cd147575eb3d991fd82930383ef586",
+      "publishedAtLabel": "Jan 13"
+    },
     {
       "id": 4236,
       "query": [
@@ -577,6 +649,24 @@
       "content": "Uninfermiera si prepara a somministrare un vaccino contro la malaria a Kisumi, in Kenya, il 1 luglio 2022. (Baz Ratner, Reuters/Contrasto) Capo Verde, uno stato insulare nelloceano Atlantico, \u00e8 div\u2026 [+2002 chars]",
       "retrievedAt": "2024-01-13 19:05:40.155037",
       "internal_id": "86b20656c4845f5453475575a90acb1a0ee2ed475f19db67453e6d7e46343a35",
+      "publishedAtLabel": "Jan 12"
+    },
+    {
+      "id": 4245,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Vietnamplus.vn",
+      "author": "VNA",
+      "title": "Cambodia\u2019s malaria cases in 2023 drop sharply: health official",
+      "description": "Cambodia reported 1,384 malaria cases in 2023, down about 66% from the previous year.",
+      "url": "https://en.vietnamplus.vn/cambodias-malaria-cases-in-2023-drop-sharply-health-official/276210.vnp",
+      "urlToImage": null,
+      "publishedAt": "2024-01-12 14:12:00",
+      "content": "Hanoi (VNA) Cambodia reported 1,384 malaria cases in 2023, down about 66% from the previous year. It marked significant progress in the fight against the disease, said Huy Rekol, Director of Cambo\u2026 [+362 chars]",
+      "retrievedAt": "2024-01-15 07:05:55.585597",
+      "internal_id": "829895d4eec716ae3591da6b9456edd95063bcce9d4faa91e1390b1397d50de9",
       "publishedAtLabel": "Jan 12"
     },
     {
@@ -13194,6 +13284,96 @@
       "content": "22-year-old Mount Hope High School graduate Maddie Pacheco is missed tremendously after died from a case of viral meningitis last month. According to the CDC, its the most common form of meningitis,\u2026 [+1998 chars]",
       "retrievedAt": "2023-12-05 07:05:52.140697",
       "internal_id": "9390b6770867c546231d42268fc5dfc6a5573589370e93f1dd9d425987a4cbce",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3491,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Carole Dieterich",
+      "title": "Bangladesh faces its worst dengue epidemic on record",
+      "description": "Characterized in Bangladesh by long erratic monsoons and higher temperatures, climate change is promoting the reproduction of 'Aedes' mosquitoes, the main vectors of dengue fever, which this year caused over 1,600 deaths.",
+      "url": "https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html",
+      "urlToImage": "https://img.lemde.fr/2023/11/14/0/0/8256/5504/1440/960/60/0/7bbcc51_2023-11-14t034056z-1373459227-rc2wq3azi8y4-rtrmadp-3-bangladesh-disease-dengue.JPG",
+      "publishedAt": "2023-12-03 16:39:18",
+      "content": "Mosquito control operation in Dhaka, Bangladesh, on October 12, 2023. FATIMA TUJ JOHORA / REUTERS Dozens of feverish patients on drips were lying on beds, lined up one after the other, in a vast roo\u2026 [+3077 chars]",
+      "retrievedAt": "2023-12-04 19:05:33.775557",
+      "internal_id": "f61d73d2b6b101f4664b5cd2c7616cfed0c88f6921fca0b94902b344f4d92cba",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3492,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "La ONG sevillana \u00c1frica Arco Iris administra 8.500 vacunas contra la meningitis a ni\u00f1os de Costa de Marfil",
+      "description": "La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil.",
+      "url": "https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231203110951_1200.jpg",
+      "publishedAt": "2023-12-03 10:09:51",
+      "content": "SEVILLA, 3 Dic. (EUROPA PRESS) - La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil. \u2026 [+2046 chars]",
+      "retrievedAt": "2023-12-04 19:05:33.970872",
+      "internal_id": "7320003ad3df43a13d8537c2f33eda0e441efc16b7ae525c1ad2c2b994b89a13",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3495,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Smzdm.com",
+      "author": "\u674e\u96f7\u535a\u58eb",
+      "title": "\u76ca\u751f\u83cc\uff0c\u771f\u7684\u80fd\u8c03\u8282\u80a0\u80c3\u5417\uff1f",
+      "description": "\u73b0\u5728\u7684\u5e74\u8f7b\u4eba\u751f\u6d3b\u8282\u594f\u5feb\uff0c\u4f5c\u606f\u4e0d\u89c4\u5f8b\uff0c\u5bfc\u81f4\u5f88\u591a\u4eba\u80a0\u80c3\u90fd\u4e0d\u5927\u597d\u3002\u8fd9\u4e0d\uff0c\u4eca\u5929\u5c31\u6709\u4e00\u4f4d\u670b\u53cb\u8bf4\u4ed6\u6700\u8fd1\u80a0\u80c3\u4e0d\u597d\uff0c\u6d88\u5316\u529f\u80fd\u5dee\uff0c\u5f88\u662f\u82e6\u607c\u3002\u4eca\u5929\u5c31\u548c\u5927\u5bb6\u6765\u8bf4\u8bf4\u80a0\u80c3\u4e0d\u597d\u5e94\u8be5\u5982\u4f55\u5904\u7406\u300201\uff0c\u80a0\u80c3\u955c\u68c0\u67e5\u5bf9\u4e8e\u80a0\u80c3\u4e0d\u597d\u7684\u4eba\u5462\uff0c\u9996...",
+      "url": "https://post.smzdm.com/p/aqq8zekp/",
+      "urlToImage": "https://a.zdmimg.com/202312/03/656c3c30d6d5d9337.jpg_fo742.jpg",
+      "publishedAt": "2023-12-03 08:49:04",
+      "content": "01 easy 02 [1] [2] 03 04 14108.41 CFU/g[3] 7105.52 CFU/g 1 2 3 1 Oezbas, Z. Y., and S. A. Aytac. \"Behaviour of Yersinia enterocolitica and Aeromonas hydrophila in yogurt made with probiot\u2026 [+387 chars]",
+      "retrievedAt": "2023-12-04 19:05:35.627083",
+      "internal_id": "505f8d5c7317e84ef13711a1cb020775d8bc3e48b8158f4361bb5f7c21592432",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3493,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "How climate change is making the world sick",
+      "description": "DUBAI: Heat stress. Lung damage from wildfire smoke. The spread of disease-carrying mosquitoes into new regions as temperatures rise. These are just a few of the ways that public health has been impacted and compounded by climate change - a focus for the firs\u2026",
+      "url": "https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--1nx-uErK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-03t060523z_1_lynxmpejb201c_rtroptp_3_europe-weather-greece-wildfire.jpg?itok=fVnJeRXR",
+      "publishedAt": "2023-12-03 08:25:47",
+      "content": "Climate change is also having an unpredictable impact on malaria, with 5 million more cases registered in 2022 than the previous year - reaching a total of 249 million, the WHO's World Malaria Report\u2026 [+1420 chars]",
+      "retrievedAt": "2023-12-04 19:05:34.448645",
+      "internal_id": "c7079d4afd24599c557dfd1fcbfe718a796fb4053ede065a5c97077a24962728",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3494,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
+      "title": "Jakarta completes mpox vaccination to 411 people: Official",
+      "description": "The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine. \"There are 411 people who have completed the mpox vaccination,\" the Head of the ...",
+      "url": "https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/03/Screenshot_20231103_005818_YouTube.jpg",
+      "publishedAt": "2023-12-03 07:44:20",
+      "content": "Jakarta (ANTARA) - The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine.\"There are 411 people who have completed the mpox vaccin\u2026 [+1828 chars]",
+      "retrievedAt": "2023-12-04 19:05:35.196710",
+      "internal_id": "c5acb8b59a6389cc69650aecd3b513ffc2fd8ab98aa38b69dd6a07f3e691344f",
       "publishedAtLabel": "Dec 3"
     }
   ]
