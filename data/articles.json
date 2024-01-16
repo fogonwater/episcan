@@ -1,8 +1,296 @@
 {
-  "last_updated": "2024-01-16 07:05",
-  "count_articles_total": 746,
-  "count_articles_new": 3,
+  "last_updated": "2024-01-16 19:05",
+  "count_articles_total": 757,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 4257,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Cidade de SP identifica primeiro caso de sorotipo 3 do v\u00edrus da dengue",
+      "description": "Paciente \u00e9 uma mulher de 48 anos, moradora da Zona Leste. Ap\u00f3s diagn\u00f3stico, prefeitura realizou a\u00e7\u00e3o de bloqueio em todo distrito de Itaim Paulista",
+      "url": "https://saude.ig.com.br/2024-01-15/dengue-sorotipo-3-sp.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/br/ca/16/brca16j82khgwjyuggb8qo9d9.jpg",
+      "publishedAt": "2024-01-15 18:40:45",
+      "content": "Nesta segunda-feira (15), a cidade de S\u00e3o Paulo confirmou o primeiro caso de sorotipo 3 da dengue. O caso foi identificado na regi\u00e3o do Itaim Paulista, na Zona Leste. A paciente \u00e9 uma mulher de 48 an\u2026 [+1633 chars]",
+      "retrievedAt": "2024-01-16 19:05:32.094684",
+      "internal_id": "b256a02c54857570caf4c3e8b8552909ab86c1c7a857390c48719c5a2d41a94d",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4259,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Cidade de S\u00e3o Paulo identifica primeiro caso de sorotipo 3 da dengue, diz secret\u00e1rio",
+      "description": "No munic\u00edpio, 80% dos casos s\u00e3o causados pelo sorotipo 1 e 20% pelo sorotipo 2, explica Luiz Carlos Zamarco, e uma nova vertente da dengue circulando quer dizer que menos pessoas t\u00eam a prote\u00e7\u00e3o natural, tendo em vista que uma segunda infec\u00e7\u00e3o \u00e9 sempre mais pe\u2026",
+      "url": "https://oglobo.globo.com/saude/noticia/2024/01/15/dengue-cidade-de-sao-paulo-identifica-primeiro-caso-de-sorotipo-3-do-virus.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/oDjZDYs4D78B69uvwUotWkhjsKA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/U/b/sOXnvDSHuBXkPdjhtaeA/aedesebc.jpg",
+      "publishedAt": "2024-01-15 17:26:17",
+      "content": "A cidade de S\u00e3o Paulo identificou um caso de sorotipo 3 da dengue na regi\u00e3o do Itaim Paulista, na Zona Leste. A mulher de 48 anos j\u00e1 est\u00e1 recuperada e n\u00e3o precisou de interna\u00e7\u00e3o. Foi a primeira vez n\u2026 [+2502 chars]",
+      "retrievedAt": "2024-01-16 19:05:32.109438",
+      "internal_id": "b726f40d86f25c0207b945a71dc9f4b10db54e60b7f9732e177858b6b0ac9294",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4265,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Desarrollan unas herramientas ultrasensibles para detectar la malaria asintom\u00e1tica",
+      "description": "Investigadores de la Universidad de Washington (EEUU) y de los laboratorios Med Biotech de Kampala (Uganda) han desarrollado unas herramientas capaces de detectar los m\u00e1s m\u00ednimos rastros de malaria en personas que albergan la enfermedad pero no muestran signo\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-desarrollan-herramientas-ultrasensibles-detectar-malaria-asintomatica-20240115181415.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240115181415_1200.jpg",
+      "publishedAt": "2024-01-15 17:14:15",
+      "content": "MADRID, 15 Ene. (EUROPA PRESS) - Investigadores de la Universidad de Washington (EEUU) y de los laboratorios Med Biotech de Kampala (Uganda) han desarrollado unas herramientas capaces de detectar \u2026 [+3551 chars]",
+      "retrievedAt": "2024-01-16 19:05:33.066095",
+      "internal_id": "c2a8ced5bd8c21d4ad1bc79eb3c3bffbc35b600ef9c191f54fcc1a5e8ed40cc0",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4256,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Minist\u00e9rio da Sa\u00fade faz reuni\u00e3o para alinhar vacina\u00e7\u00e3o contra dengue",
+      "description": "A pasta possui poucas doses do imunizante, sendo necess\u00e1rio definir um plano vacinal com foco priorit\u00e1rio",
+      "url": "https://saude.ig.com.br/2024-01-15/ministerio-da-saude-discute-vacinacao-contra-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/5m/9f/gr/5m9fgrni6s09g5oahgcsnlus9.jpg",
+      "publishedAt": "2024-01-15 16:58:52",
+      "content": "O Minist\u00e9rio da Sa\u00fade convocou uma reuni\u00e3o nesta segunda-feira (15) para discutir o plano vacinal contra dengue . Essa \u00e9 a primeira vez no mundo que um governo disponibiliza o imunizante da rede p\u00fab\u2026 [+1867 chars]",
+      "retrievedAt": "2024-01-16 19:05:32.090117",
+      "internal_id": "74b944b08bf0faf752d94f7f91e4337ae1245ac580b0de52fd2ac2cb2755e658",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4261,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "10 more areas to get Wolbachia-infected Aedes mosquitoes",
+      "description": "PUTRAJAYA: A total of 10 new areas have been proposed for the release of Wolbachia-infected Aedes mosquitoes to address the dengue issue in the country, says Datuk Seri Dr Ahmad Zahid Hamidi. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/01/16/10-more-areas-to-get-wolbachia-infected-aedes-mosquitoes",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/16/2493043.jpg",
+      "publishedAt": "2024-01-15 16:00:00",
+      "content": "PUTRAJAYA: A total of 10 new areas have been proposed for the release of Wolbachia-infected Aedes mosquitoes to address the dengue issue in the country, says Datuk Seri Dr Ahmad Zahid Hamidi. The De\u2026 [+912 chars]",
+      "retrievedAt": "2024-01-16 19:05:32.125541",
+      "internal_id": "2df01d10888f5bb3f3fba7ccbd0cfd591c13671270f31055da4c415a8ea0bd9b",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4255,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "Dengue: consultas sobem 1.261%, e UBSs dever\u00e3o atender em audit\u00f3rios",
+      "description": "Nos primeiros 11 dias do ano, Sa\u00fade registrou alta de 1.261% nos atendimentos de pacientes com suspeita de dengue nas UBSs do DF",
+      "url": "https://www.metropoles.com/colunas/grande-angular/dengue-consultas-sobem-1-261-e-ubss-deverao-atender-em-auditorios",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2021/08/28170824/Pdpas-6-2.jpg",
+      "publishedAt": "2024-01-15 15:48:47",
+      "content": "A Secretaria de Sa\u00fade do Distrito Federal (SES-DF) orientou que as Unidades B\u00e1sicas de Sa\u00fade (UBSs) adaptem os espa\u00e7os de atividades coletivas, como salas de reuni\u00f5es e audit\u00f3rios, para hidrata\u00e7\u00e3o or\u2026 [+1766 chars]",
+      "retrievedAt": "2024-01-16 19:05:32.069951",
+      "internal_id": "9f7ecc02d4fe40d334df39b8cf18efdd07ca216c916d96bcab5432346e97e730",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4258,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "EPTV lan\u00e7a campanha de combate \u00e0 dengue em parceria com prefeituras da regi\u00e3o de Campinas",
+      "description": "'Dia D' para realiza\u00e7\u00e3o de mutir\u00e3o est\u00e1 marcado para 24 de fevereiro. Iniciativa acontece anualmente nas quatro pra\u00e7as da emissora. EPTV lan\u00e7a campanha de combate ao mosquito transmissor da dengue na regi\u00e3o de Campinas A EPTV, afiliada da TV Globo, lan\u00e7a nest\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/15/eptv-lanca-campanha-de-combate-a-dengue-em-parceria-com-prefeituras-da-regiao-de-campinas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/1DK5HAflCsJSmLiI8_OeMzDHSN0=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/12267260.jpg",
+      "publishedAt": "2024-01-15 15:47:31",
+      "content": "Como vai funcionar? Al\u00e9m da regi\u00e3o de Campinas (SP), a a\u00e7\u00e3o tamb\u00e9m acontece nas outras tr\u00eas pra\u00e7as da emissora: Ribeir\u00e3o Preto, S\u00e3o Carlos e Varginha. As prefeituras que aderem \u00e0 campanha s\u00e3o incenti\u2026 [+3351 chars]",
+      "retrievedAt": "2024-01-16 19:05:32.102889",
+      "internal_id": "8e1c7bc01b7cb73ca61911145271716da82846ad6abb4e0993d2602db764f767",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4262,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Cristina Krippahl",
+      "title": "Malaria-free Cape Verde a 'beacon of hope'",
+      "description": "The World Health Organization (WHO) has certified Cape Verde as malaria-free, hailing it as a significant milestone in the fight against the disease. But much remains to be done.",
+      "url": "https://www.dw.com/en/malaria-free-cape-verde-a-beacon-of-hope/a-67984627",
+      "urlToImage": "https://static.dw.com/image/67967283_6.jpg",
+      "publishedAt": "2024-01-15 15:44:00",
+      "content": "The news that Cape Verde is malaria-free was received with great joy in the Portuguese-speaking country. For Prime Minister Ulisses Correia e Silva, the \"historic moment\" called for celebration, not \u2026 [+5526 chars]",
+      "retrievedAt": "2024-01-16 19:05:33.013960",
+      "internal_id": "06c9535d25e3a3d55faa75a2444dfedebd9ee2bae47cfbbb3805a812192be79f",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4263,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Cristina Krippahl",
+      "title": "Malaria-free Cape Verde a 'beacon of hope' for Africa",
+      "description": "The World Health Organization has certified Cape Verde as malaria-free, hailing the development as a significant milestone in the fight against the disease. But much remains to be done. The news that Cape Verde is malaria-free was received with great joy. Pri\u2026",
+      "url": "https://www.dw.com/en/malaria-free-cape-verde-a-beacon-of-hope-for-africa/a-67984627",
+      "urlToImage": "https://static.dw.com/image/67967283_6.jpg",
+      "publishedAt": "2024-01-15 15:44:00",
+      "content": "The news that Cape Verde is malaria-free was received with great joy. Prime Minister Ulisses Correia e Silva said the \"historic moment\" called for celebration and not just because of the positive imp\u2026 [+5534 chars]",
+      "retrievedAt": "2024-01-16 19:05:33.037536",
+      "internal_id": "5998d86d84c83bac14f8bf47ba62e2f7f57575fde509d7623465eec49ee42380",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4267,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Jennifer Zieba",
+      "title": "Zika virus could potentially treat cancer, another early study hints",
+      "description": "The Zika virus can target and eradicate human neuroblastoma tumors in a mouse model, a study shows. But how soon could such a treatment be used in people?",
+      "url": "https://www.livescience.com/health/cancer/zika-virus-could-potentially-treat-cancer-another-early-study-hints",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZWRr4RtgeersFoy5GyBy5V-1200-80.jpg",
+      "publishedAt": "2024-01-15 14:00:50",
+      "content": "The Zika virus has plagued humans since its identification in 1947, but now, scientists are harnessing its ability to damage cells to fight a different foe: cancer. In a new study published Jan. 9 i\u2026 [+5344 chars]",
+      "retrievedAt": "2024-01-16 19:05:33.582674",
+      "internal_id": "7fec670f86ddf63174ee8837bd1233dfdcabc533aab4ba7760b76a22cf06b8f8",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4264,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Cape Verde becomes third African country to eliminate malaria",
+      "description": "Cape Verde has become the third African nation to be declared malaria free, even as the disease continues to kill hundreds of thousands of people on the continent, the World Health Organization said Friday. The Atlantic archipelago of about 500,000 inhabitant\u2026",
+      "url": "https://www.france24.com/en/video/20240115-cape-verde-becomes-third-african-country-to-eliminate-malaria",
+      "urlToImage": "https://s.france24.com/media/display/cdbe498a-b397-11ee-966e-005056bf30b7/w:1280/p:16x9/m:{\"brand\":\"FRANCE24\",\"lang\":\"EN\",\"program\":\"\",\"cartouche\":\"CAPE%20VERDE\",\"hash\":\"dd6b120bc0f4857a3f187a8371fe6bd53090ef1ed370be0f48f7d7d1b80abc71\",\"title\":\"Third%20African%20nation%20declared%20malaria%20free\",\"id\":\"25aba80c-45fb-11ec-90e2-005056bf30b7\"}/EN_20240112_214940_215102_CS.jpg",
+      "publishedAt": "2024-01-15 11:18:33",
+      "content": "Issued on: 15/01/2024 - 12:18Modified: 15/01/2024 - 12:29 Cape Verde has become the third African nation to be declared malaria free, even as the disease continues to kill hundreds of thousands of p\u2026 [+424 chars]",
+      "retrievedAt": "2024-01-16 19:05:33.054252",
+      "internal_id": "12a7d4a233dd3bf3738dba12d094951e017ebd9b13e0b511fe244cba39ed5e2b",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4253,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue: Govt wants to expand release of Wolbachia-infected mosquitoes",
+      "description": "PUTRAJAYA: A total of 10 new localities have been proposed for the release of Wolbachia-infected Aedes mosquitoes to address the dengue issue in the country, says Datuk Seri Ahmad Zahid Hamidi. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/01/15/dengue-govt-wants-to-expand-release-of-wolbachia-infected-mosquitoes",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/15/2492414.jpg",
+      "publishedAt": "2024-01-15 11:06:00",
+      "content": "PUTRAJAYA: A total of 10 new localities have been proposed for the release of Wolbachia-infected Aedes mosquitoes to address the dengue issue in the country, says Datuk Seri Ahmad Zahid Hamidi. The \u2026 [+2139 chars]",
+      "retrievedAt": "2024-01-16 19:05:32.052405",
+      "internal_id": "b39f316a392d9d38b27c3010abad0ebd6cd710ac4e574d80a814ef7883ca8b4d",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4252,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "6abc Digital Staff",
+      "title": "Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak",
+      "description": "Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak6abc.com",
+      "url": "https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/13810716_092123-wpvi-nydia-covid-confusion-430pm-vid.jpg?w=1600",
+      "publishedAt": "2024-01-15 10:38:22",
+      "content": "PHILADELPHIA (WPVI) -- The Black Doctors COVID Consortium is offering free measles vaccines to combat a recent outbreak in the Philadelphia area. There have been at least eight cases of measles repo\u2026 [+307 chars]",
+      "retrievedAt": "2024-01-16 19:05:31.699306",
+      "internal_id": "6e3a51a161cd640413e804008b4cbdede55d7bbf731381a102897f129bd1bb40",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4254,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Munic\u00edpios com taxas elevadas de dengue ser\u00e3o priorizados em vacina\u00e7\u00e3o",
+      "description": "Reuni\u00e3o t\u00e9cnica entre Minist\u00e9rio da Sa\u00fade, farmac\u00eautica e entidades da sociedade civil vai nortear estrat\u00e9gia de vacina\u00e7\u00e3o contra dengue",
+      "url": "https://www.metropoles.com/brasil/municipios-com-taxas-elevadas-de-dengue-serao-priorizadas-em-vacinacao",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/12/15114121/Dengue_Aedes_Aegypti_Casos.jpg",
+      "publishedAt": "2024-01-15 09:56:50",
+      "content": "Uma reuni\u00e3o t\u00e9cnica entre o Minist\u00e9rio da Sa\u00fade, a farmac\u00eautica Takeda e entidades da sociedade civil, prevista para acontecer nesta segunda-feira (15/1), deve nortear a estrat\u00e9gia de vacina\u00e7\u00e3o contr\u2026 [+8491 chars]",
+      "retrievedAt": "2024-01-16 19:05:32.060930",
+      "internal_id": "6944ca2c0f7119236d85cfabd3da2c8d2cd618688a08ced7d56379eb79afe972",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4266,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Un estudio avala un tratamiento para prevenir la malaria durante el embarazo en mujeres con VIH",
+      "description": "Investigadores del Instituto de Salud Global de Barcelona (ISGlobal) han descubierto en un estudio que el tratamiento preventivo con DHA-PPQ es una estrategia \"segura y eficaz\" para proteger de la malaria durante el embarazo en mujeres con VIH, informa el cen\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-estudio-avala-tratamiento-prevenir-malaria-embarazo-mujeres-vih-20240115095713.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240115095713_1200.jpg",
+      "publishedAt": "2024-01-15 08:57:13",
+      "content": "BARCELONA, 15 Ene. (EUROPA PRESS) - Investigadores del Instituto de Salud Global de Barcelona (ISGlobal) han descubierto en un estudio que el tratamiento preventivo con DHA-PPQ es una estrategia \"\u2026 [+1631 chars]",
+      "retrievedAt": "2024-01-16 19:05:33.070789",
+      "internal_id": "a1447d1ff2c5ccd1a7bb5d0e72224f4466d3445caebd4120339dc0ab0652bea1",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4260,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "HO JIA WEN",
+      "title": "License new dengue vaccine, says Malaysian virologist",
+      "description": "PETALING JAYA: The Health Ministry should consider approving a newly released dengue vaccine to combat the ever-increasing number of cases in the country, says Datuk Dr Lam Sai Kit. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/01/15/license-new-dengue-vaccine-says-malaysian-virologist",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/15/2491928.jpg",
+      "publishedAt": "2024-01-15 08:07:00",
+      "content": "PETALING JAYA: The Health Ministry should consider approving a newly released dengue vaccine to combat the ever-increasing number of cases in the country, says Datuk Dr Lam Sai Kit. The virologist a\u2026 [+1611 chars]",
+      "retrievedAt": "2024-01-16 19:05:32.116869",
+      "internal_id": "ab911814b455e1688779d8b42ee8126041603b1e1000b269901329211128cedf",
+      "publishedAtLabel": "Jan 15"
+    },
     {
       "id": 4249,
       "query": [
@@ -13392,96 +13680,6 @@
       "content": "22-year-old Mount Hope High School graduate Maddie Pacheco is missed tremendously after died from a case of viral meningitis last month. According to the CDC, its the most common form of meningitis,\u2026 [+1998 chars]",
       "retrievedAt": "2023-12-05 07:05:52.140697",
       "internal_id": "9390b6770867c546231d42268fc5dfc6a5573589370e93f1dd9d425987a4cbce",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3491,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Carole Dieterich",
-      "title": "Bangladesh faces its worst dengue epidemic on record",
-      "description": "Characterized in Bangladesh by long erratic monsoons and higher temperatures, climate change is promoting the reproduction of 'Aedes' mosquitoes, the main vectors of dengue fever, which this year caused over 1,600 deaths.",
-      "url": "https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html",
-      "urlToImage": "https://img.lemde.fr/2023/11/14/0/0/8256/5504/1440/960/60/0/7bbcc51_2023-11-14t034056z-1373459227-rc2wq3azi8y4-rtrmadp-3-bangladesh-disease-dengue.JPG",
-      "publishedAt": "2023-12-03 16:39:18",
-      "content": "Mosquito control operation in Dhaka, Bangladesh, on October 12, 2023. FATIMA TUJ JOHORA / REUTERS Dozens of feverish patients on drips were lying on beds, lined up one after the other, in a vast roo\u2026 [+3077 chars]",
-      "retrievedAt": "2023-12-04 19:05:33.775557",
-      "internal_id": "f61d73d2b6b101f4664b5cd2c7616cfed0c88f6921fca0b94902b344f4d92cba",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3492,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "La ONG sevillana \u00c1frica Arco Iris administra 8.500 vacunas contra la meningitis a ni\u00f1os de Costa de Marfil",
-      "description": "La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil.",
-      "url": "https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231203110951_1200.jpg",
-      "publishedAt": "2023-12-03 10:09:51",
-      "content": "SEVILLA, 3 Dic. (EUROPA PRESS) - La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil. \u2026 [+2046 chars]",
-      "retrievedAt": "2023-12-04 19:05:33.970872",
-      "internal_id": "7320003ad3df43a13d8537c2f33eda0e441efc16b7ae525c1ad2c2b994b89a13",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3495,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Smzdm.com",
-      "author": "\u674e\u96f7\u535a\u58eb",
-      "title": "\u76ca\u751f\u83cc\uff0c\u771f\u7684\u80fd\u8c03\u8282\u80a0\u80c3\u5417\uff1f",
-      "description": "\u73b0\u5728\u7684\u5e74\u8f7b\u4eba\u751f\u6d3b\u8282\u594f\u5feb\uff0c\u4f5c\u606f\u4e0d\u89c4\u5f8b\uff0c\u5bfc\u81f4\u5f88\u591a\u4eba\u80a0\u80c3\u90fd\u4e0d\u5927\u597d\u3002\u8fd9\u4e0d\uff0c\u4eca\u5929\u5c31\u6709\u4e00\u4f4d\u670b\u53cb\u8bf4\u4ed6\u6700\u8fd1\u80a0\u80c3\u4e0d\u597d\uff0c\u6d88\u5316\u529f\u80fd\u5dee\uff0c\u5f88\u662f\u82e6\u607c\u3002\u4eca\u5929\u5c31\u548c\u5927\u5bb6\u6765\u8bf4\u8bf4\u80a0\u80c3\u4e0d\u597d\u5e94\u8be5\u5982\u4f55\u5904\u7406\u300201\uff0c\u80a0\u80c3\u955c\u68c0\u67e5\u5bf9\u4e8e\u80a0\u80c3\u4e0d\u597d\u7684\u4eba\u5462\uff0c\u9996...",
-      "url": "https://post.smzdm.com/p/aqq8zekp/",
-      "urlToImage": "https://a.zdmimg.com/202312/03/656c3c30d6d5d9337.jpg_fo742.jpg",
-      "publishedAt": "2023-12-03 08:49:04",
-      "content": "01 easy 02 [1] [2] 03 04 14108.41 CFU/g[3] 7105.52 CFU/g 1 2 3 1 Oezbas, Z. Y., and S. A. Aytac. \"Behaviour of Yersinia enterocolitica and Aeromonas hydrophila in yogurt made with probiot\u2026 [+387 chars]",
-      "retrievedAt": "2023-12-04 19:05:35.627083",
-      "internal_id": "505f8d5c7317e84ef13711a1cb020775d8bc3e48b8158f4361bb5f7c21592432",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3493,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "How climate change is making the world sick",
-      "description": "DUBAI: Heat stress. Lung damage from wildfire smoke. The spread of disease-carrying mosquitoes into new regions as temperatures rise. These are just a few of the ways that public health has been impacted and compounded by climate change - a focus for the firs\u2026",
-      "url": "https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--1nx-uErK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-03t060523z_1_lynxmpejb201c_rtroptp_3_europe-weather-greece-wildfire.jpg?itok=fVnJeRXR",
-      "publishedAt": "2023-12-03 08:25:47",
-      "content": "Climate change is also having an unpredictable impact on malaria, with 5 million more cases registered in 2022 than the previous year - reaching a total of 249 million, the WHO's World Malaria Report\u2026 [+1420 chars]",
-      "retrievedAt": "2023-12-04 19:05:34.448645",
-      "internal_id": "c7079d4afd24599c557dfd1fcbfe718a796fb4053ede065a5c97077a24962728",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3494,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
-      "title": "Jakarta completes mpox vaccination to 411 people: Official",
-      "description": "The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine. \"There are 411 people who have completed the mpox vaccination,\" the Head of the ...",
-      "url": "https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/03/Screenshot_20231103_005818_YouTube.jpg",
-      "publishedAt": "2023-12-03 07:44:20",
-      "content": "Jakarta (ANTARA) - The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine.\"There are 411 people who have completed the mpox vaccin\u2026 [+1828 chars]",
-      "retrievedAt": "2023-12-04 19:05:35.196710",
-      "internal_id": "c5acb8b59a6389cc69650aecd3b513ffc2fd8ab98aa38b69dd6a07f3e691344f",
       "publishedAtLabel": "Dec 3"
     }
   ]

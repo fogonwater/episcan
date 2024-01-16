@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2024-01-16 07:05
-- **Most recent article:** 2024-01-15 04:03:09
+- **New articles in last harvest:** 16
+- **Last harvest:** 2024-01-16 19:05
+- **Most recent article:** 2024-01-15 18:40:45
 
 ---
 
@@ -12,23 +12,27 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 62 | 42 | 69 | 37 | 2 | 52 | 35 | 2 | 301 |
-| malaria | 24 | 24 | 24 | 22 | 2 | 11 | 51 | 0 | 158 |
-| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 3 | 84 |
-| mpox | 15 | 24 | 15 | 12 | 0 | 2 | 2 | 0 | 70 |
-| zika | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 0 | 45 |
-| meningitis | 8 | 9 | 4 | 4 | 0 | 2 | 11 | 0 | 38 |
+| dengue | 61 | 42 | 69 | 37 | 2 | 52 | 35 | 11 | 309 |
+| malaria | 23 | 24 | 24 | 22 | 2 | 11 | 51 | 5 | 162 |
+| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 4 | 85 |
+| mpox | 14 | 24 | 15 | 12 | 0 | 2 | 2 | 0 | 69 |
+| zika | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 1 | 46 |
+| meningitis | 7 | 9 | 4 | 4 | 0 | 2 | 11 | 0 | 37 |
 | chikungunya | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 37 |
 | rabies | 4 | 7 | 2 | 7 | 1 | 2 | 5 | 1 | 29 |
 | pertussis | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 0 | 15 |
 | leptospirosis | 3 | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 9 |
 | typhoid | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 0 | 9 |
-| yersinia | 2 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 4 |
+| yersinia | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-3 (zika)
+
+- [Zika virus could potentially treat cancer, another early study hints](https://www.livescience.com/health/cancer/zika-virus-could-potentially-treat-cancer-another-early-study-hints) (Live Science)
 
 ## 24-3 (rabies)
 
@@ -36,13 +40,45 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-3 (measles)
 
+- [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
+
 - [Department of Health warns of possible measles exposure in Virginia](https://www.fox5dc.com/news/possible-measles-exposure-in-virginia-department-of-health-issues-warning) (FOX 5 DC)
 
 - [Va. Dept. of Health says traveler with measles passed through Dulles and Reagan Airports last week - WTOP News](https://wtop.com/health-fitness/2024/01/va-dept-of-health-says-traveler-with-measles-passed-through-dulles-and-reagan-airports-last-week/) (WTOP)
 
 - [What is measles? Camden County Health Department closely monitoring 1 confirmed case](https://6abc.com/camden-county-health-department-measles-case-nj-news/14318022/) (WPVI-TV)
 
+## 24-3 (malaria)
+
+- [Desarrollan unas herramientas ultrasensibles para detectar la malaria asintomática](https://www.infosalus.com/salud-investigacion/noticia-desarrollan-herramientas-ultrasensibles-detectar-malaria-asintomatica-20240115181415.html) (Infosalus.com)
+
+- [Malaria-free Cape Verde a 'beacon of hope'](https://www.dw.com/en/malaria-free-cape-verde-a-beacon-of-hope/a-67984627) (DW (English))
+
+- [Malaria-free Cape Verde a 'beacon of hope' for Africa](https://www.dw.com/en/malaria-free-cape-verde-a-beacon-of-hope-for-africa/a-67984627) (DW (English))
+
+- [Cape Verde becomes third African country to eliminate malaria](https://www.france24.com/en/video/20240115-cape-verde-becomes-third-african-country-to-eliminate-malaria) (FRANCE 24 English)
+
+- [Un estudio avala un tratamiento para prevenir la malaria durante el embarazo en mujeres con VIH](https://www.infosalus.com/salud-investigacion/noticia-estudio-avala-tratamiento-prevenir-malaria-embarazo-mujeres-vih-20240115095713.html) (Infosalus.com)
+
 ## 24-3 (dengue)
+
+- [Cidade de SP identifica primeiro caso de sorotipo 3 do vírus da dengue](https://saude.ig.com.br/2024-01-15/dengue-sorotipo-3-sp.html) (Ig.com.br)
+
+- [Cidade de São Paulo identifica primeiro caso de sorotipo 3 da dengue, diz secretário](https://oglobo.globo.com/saude/noticia/2024/01/15/dengue-cidade-de-sao-paulo-identifica-primeiro-caso-de-sorotipo-3-do-virus.ghtml) (Globo)
+
+- [Ministério da Saúde faz reunião para alinhar vacinação contra dengue](https://saude.ig.com.br/2024-01-15/ministerio-da-saude-discute-vacinacao-contra-dengue.html) (Ig.com.br)
+
+- [10 more areas to get Wolbachia-infected Aedes mosquitoes](https://www.thestar.com.my/news/nation/2024/01/16/10-more-areas-to-get-wolbachia-infected-aedes-mosquitoes) (The Star Online)
+
+- [Dengue: consultas sobem 1.261%, e UBSs deverão atender em auditórios](https://www.metropoles.com/colunas/grande-angular/dengue-consultas-sobem-1-261-e-ubss-deverao-atender-em-auditorios) (Metropoles.com)
+
+- [EPTV lança campanha de combate à dengue em parceria com prefeituras da região de Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/15/eptv-lanca-campanha-de-combate-a-dengue-em-parceria-com-prefeituras-da-regiao-de-campinas.ghtml) (Globo)
+
+- [Dengue: Govt wants to expand release of Wolbachia-infected mosquitoes](https://www.thestar.com.my/news/nation/2024/01/15/dengue-govt-wants-to-expand-release-of-wolbachia-infected-mosquitoes) (The Star Online)
+
+- [Municípios com taxas elevadas de dengue serão priorizados em vacinação](https://www.metropoles.com/brasil/municipios-com-taxas-elevadas-de-dengue-serao-priorizadas-em-vacinacao) (Metropoles.com)
+
+- [License new dengue vaccine, says Malaysian virologist](https://www.thestar.com.my/news/nation/2024/01/15/license-new-dengue-vaccine-says-malaysian-virologist) (The Star Online)
 
 - [Veja como se proteger da dengue no verão](https://recordtv.r7.com/hoje-em-dia/fotos/veja-como-se-proteger-da-dengue-no-verao-15012024) (R7.com)
 
@@ -1478,8 +1514,6 @@ Source: [News API](https://newsapi.org/)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 6th December 2023](https://iasbaba.com/2023/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-6th-december-2023/) (Iasbaba.com)
 
-- [益生菌，真的能调节肠胃吗？](https://post.smzdm.com/p/aqq8zekp/) (Smzdm.com)
-
 ## 23-49 (typhoid)
 
 - [Yellow canteens: a colourful way to keep kids healthy](https://www.springwise.com/innovation/education/painting-canteens-yellow-to-keep-kids-healthy/) (Springwise.com)
@@ -1534,8 +1568,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stigma, regulatory barriers delay mpox response in country that needs it most](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most-45498818/) (Marketscreener.com)
 
-- [Jakarta completes mpox vaccination to 411 people: Official](https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official) (Antaranews.com)
-
 ## 23-49 (meningitis)
 
 - [ACTG Announces Launch of Clinical Trial Evaluating Novel Treatment for Tuberculous Meningitis](https://www.globenewswire.com/news-release/2023/12/07/2792865/0/en/ACTG-Announces-Launch-of-Clinical-Trial-Evaluating-Novel-Treatment-for-Tuberculous-Meningitis.html) (GlobeNewswire)
@@ -1551,8 +1583,6 @@ Source: [News API](https://newsapi.org/)
 - [Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections](https://www.bmj.com/content/383/bmj.p2849) (The BMJ)
 
 - [Mount Hope community mourns loss of vibrant young woman to rare viral meningitis case](https://turnto10.com/news/local/mount-hope-community-mourns-loss-of-vibrant-young-woman-to-rare-viral-meningitis-case) (Turn to 10)
-
-- [La ONG sevillana África Arco Iris administra 8.500 vacunas contra la meningitis a niños de Costa de Marfil](https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html) (Europapress.es)
 
 ## 23-49 (measles)
 
@@ -1613,8 +1643,6 @@ Source: [News API](https://newsapi.org/)
 - [Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO](https://allafrica.com/stories/202312040455.html) (AllAfrica - Top Africa News)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [How climate change is making the world sick](https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476) (CNA)
 
 ## 23-49 (leptospirosis)
 
@@ -1747,8 +1775,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika) (Metropoles.com)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [Bangladesh faces its worst dengue epidemic on record](https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html) (Le Monde)
 
 ## 23-49 (chikungunya)
 
