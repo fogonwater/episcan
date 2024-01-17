@@ -1,8 +1,314 @@
 {
-  "last_updated": "2024-01-17 07:06",
-  "count_articles_total": 782,
-  "count_articles_new": 20,
+  "last_updated": "2024-01-17 19:05",
+  "count_articles_total": 794,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 4289,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Warning of further measles outbreaks as cases rise",
+      "description": "Medics issue the warning after cases in the West Midlands rose by more than 30% in less than a week.",
+      "url": "https://www.bbc.co.uk/news/articles/cw0d7rpr6ndo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a7ae/live/938f6880-b495-11ee-9015-e1b313b8fdbe.jpg",
+      "publishedAt": "2024-01-16 18:12:21",
+      "content": "\"Also measles is incredibly contagious, so if you have pockets where lots of people are not immunised, you only need a few cases to cause a pretty significant outbreak. So, unfortunately this is some\u2026 [+641 chars]",
+      "retrievedAt": "2024-01-17 19:05:29.174140",
+      "internal_id": "9a0bac86499bb90bc77aa86ad41a55f56f29911e435afe873b2d99cc89c06ffb",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4291,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Greg Norman",
+      "title": "Health officials warn of possible measles exposure at Dulles, Ronald Reagan airports",
+      "description": "Health officials in Washington, D.C., and Virginia are warning the public about a possible measles exposure at two heavily-trafficked airports in the area.",
+      "url": "https://www.foxnews.com/health/health-officials-warn-possible-measles-exposure-dulles-ronald-reagan-airports",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/Ronald-Reagan-airport-arrival.png",
+      "publishedAt": "2024-01-16 17:55:37",
+      "content": "Health officials in the nations capital are warning thousands of a possible measles exposure Tuesday after a person with a \"confirmed case\" traveled through two of the busiest airports in the region \u2026 [+2380 chars]",
+      "retrievedAt": "2024-01-17 19:05:29.192803",
+      "internal_id": "16b7a0b0447686620c23d5737f4a82d78a0a6a55f85819bf70069f2dd711d4e2",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4301,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "En la ciudad: muri\u00f3 en el Hospital Fern\u00e1ndez un turista de EE.UU. por malaria",
+      "description": "El paciente hab\u00eda estado previamente en Etiop\u00eda, India y Turqu\u00eda; el fallecimiento se produjo el 7 pasado, pero se conoci\u00f3 hoy",
+      "url": "https://www.lanacion.com.ar/sociedad/en-la-ciudad-murio-en-el-hospital-fernandez-un-turista-de-eeuu-por-malaria-nid16012024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/hospital-K3K62VAHCNAU5PKNCGADE6VEW4.JPG?auth=5f580976ffae246bac9a484cadb792d620359504a9d6529ea402fb49f60775fe&width=768&quality=70&smart=false",
+      "publishedAt": "2024-01-16 17:23:59",
+      "content": "Un paciente de 80 a\u00f1os muri\u00f3 de malaria el 7 pasado en el Hospital Fern\u00e1ndez. El hombre, de nacionalidad estadounidense, ten\u00eda como antecedente de viaje inmediato a Etiopia, India, y Turqu\u00eda para lue\u2026 [+585 chars]",
+      "retrievedAt": "2024-01-17 19:05:31.303184",
+      "internal_id": "b0ae7faa7e5a578dbbf68fbbfa955dc1ac684349b25d4079326aceaae45f2993",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4300,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "NaftaliMwaura",
+      "title": "Kenyan scientists unveil drug to reduce malaria among HIV-positive pregnant women",
+      "description": "NAIROBI, Jan. 16 (Xinhua) -- A new drug that is expected to lower malaria transmission among pregnant women living with HIV was unveiled Tuesday by Kenya and Malawian scientists, following rigorous trials. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/01/17/kenyan-scientists-unveil-drug-to-reduce-malaria-among-hiv-positive-pregnant-women",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-01-16 16:33:00",
+      "content": "NAIROBI, Jan. 16 (Xinhua) -- A new drug that is expected to lower malaria transmission among pregnant women living with HIV was unveiled Tuesday by Kenya and Malawian scientists, following rigorous t\u2026 [+2264 chars]",
+      "retrievedAt": "2024-01-17 19:05:31.298210",
+      "internal_id": "bb025d488a83b598d12eb8939420ae8aa8b98f40657d43284cd49421adb007b0",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4303,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Un estudio descubre que el virus del Zika podr\u00eda tratar el c\u00e1ncer",
+      "description": "Una nueva investigaci\u00f3n ha demostrado que el virus del Zika puede erradicar tumores humanos en ratones. \u00bfHasta qu\u00e9 punto podr\u00eda aplicarse el mismo tratamiento en personas? Un nuevo estudio ha demostrado que la inoculaci\u00f3n del virus del Zika en tumores de neur\u2026",
+      "url": "https://www.dw.com/es/un-estudio-descubre-que-el-virus-del-zika-podr%C3%ADa-tratar-el-c%C3%A1ncer/a-68001297",
+      "urlToImage": "https://static.dw.com/image/68001521_6.jpg",
+      "publishedAt": "2024-01-16 16:27:00",
+      "content": "Un nuevo estudio ha demostrado que la inoculaci\u00f3n del virus del Zika en tumores de neuroblastoma en ratones puede reducir o incluso erradicar la lesi\u00f3n, seg\u00fan datos que publica la revista Cancer Rese\u2026 [+5695 chars]",
+      "retrievedAt": "2024-01-17 19:05:31.571130",
+      "internal_id": "893579d50c189617ba3654f647256a9ce33370cd908e2812cb40bcbdc944d7ea",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4296,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Vacina contra dengue tem limita\u00e7\u00e3o de produ\u00e7\u00e3o, afirma infectologista",
+      "description": "A vacina\u00e7\u00e3o contra a dengue est\u00e1 programada para ter in\u00edcio em fevereiro no Brasil. A infectologista Silvana Barros enfatizou que, mesmo ap\u00f3s ...",
+      "url": "https://noticias.r7.com/record-news/videos/vacina-contra-dengue-tem-limitacao-de-producao-afirma-infectologista-16012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/16/65a6bf061df97b06ea0012fd/8c71108da86b42719dcc06bcb7c5f6cf__2448264_EPP_RRN_1601_DENGUE_ESPECIALISTA_thumb.jpg",
+      "publishedAt": "2024-01-16 15:48:38",
+      "content": "A vacina\u00e7\u00e3o contra a dengue est\u00e1 programada para ter in\u00edcio em fevereiro no Brasil. A infectologista Silvana Barros enfatizou que, mesmo ap\u00f3s a imuniza\u00e7\u00e3o, \u00e9 crucial manter as medidas de preven\u00e7\u00e3o co\u2026 [+278 chars]",
+      "retrievedAt": "2024-01-17 19:05:29.958406",
+      "internal_id": "ac14bc11ed57c175ab9f689bf02325e499fbdaa6ff28e73bcb4ea16648048a93",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4295,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Rio alerta para a import\u00e2ncia da preven\u00e7\u00e3o \u00e0 dengue no ver\u00e3o",
+      "description": "O n\u00famero de casos tende a aumentar em raz\u00e3o do calor e das chuvas, fatores que favorecem a reprodu\u00e7\u00e3o do Aedes aegypti",
+      "url": "https://noticias.r7.com/rio-de-janeiro/rio-alerta-para-a-importancia-da-prevencao-a-dengue-no-verao-16012024",
+      "urlToImage": "https://img.r7.com/images/r7rio-012024-dengue-mosquito-16012024142910733",
+      "publishedAt": "2024-01-16 15:35:00",
+      "content": "Em 2023, a cidade registrou 23.542 casos, com seis \u00f3bitos Arquivo/Ag\u00eancia Brasil A SMS (Secretaria Municipal de Sa\u00fade) do Rio de Janeiro alerta a popula\u00e7\u00e3o para a import\u00e2ncia dos cuidados par\u2026 [+3671 chars]",
+      "retrievedAt": "2024-01-17 19:05:29.946755",
+      "internal_id": "14e6a4cbde1bdc1a63eef02f4a667dd8fcde57e4ea4a17d6f0b4d95a8c5ec277",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4298,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "Health D-G: Over RM18m in compounds issued last year to contain dengue fever",
+      "description": "KUALA LUMPUR, Jan 16 \u2014 A total of 36,426 compounds amounting to over RM18 million were issued last year as a result of enforcement action under the Destruction of Disease-Bearing...",
+      "url": "https://www.malaymail.com/news/malaysia/2024/01/16/health-d-g-over-rm18m-in-compounds-issued-last-year-to-contain-dengue-fever/112783",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2024/01/16/thumbs/400x400/179326.jpg",
+      "publishedAt": "2024-01-16 15:30:40",
+      "content": "KUALA LUMPUR, Jan 16 A total of 36,426 compounds amounting to over RM18 million were issued last year as a result of enforcement action under the Destruction of Disease-Bearing Insects Act (APSPP) 19\u2026 [+1409 chars]",
+      "retrievedAt": "2024-01-17 19:05:29.988199",
+      "internal_id": "34689e8cc1d651f27a215a025142ea2e4726038c4d6c088600923a97869094b2",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4294,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "DINO",
+      "title": "Aumenta preocupa\u00e7\u00e3o com quadros graves de dengue no Brasil",
+      "description": "A amea\u00e7a dos sorotipos 3 e 4 do v\u00edrus da dengue no Brasil que n\u00e3o circulavam h\u00e1 muito no pa\u00eds traz a preocupa\u00e7\u00e3o de uma poss\u00edvel epidemia da doen\u00e7a.",
+      "url": "https://www.terra.com.br/noticias/aumenta-preocupacao-com-quadros-graves-de-dengue-no-brasil,122a89c78f1b3760ed6bdbb7322a3b617ci04joa.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/16/148553990-8a91e68d-e1f9-45f1-a7ae-04bf9779d551.jpg",
+      "publishedAt": "2024-01-16 14:36:57",
+      "content": "O recente ressurgimento dos sorotipos 3 e 4 do v\u00edrus da dengue no Brasil tem gerado crescente inquieta\u00e7\u00e3o entre os especialistas, levantando a preocupa\u00e7\u00e3o de uma poss\u00edvel epidemia da doen\u00e7a. O temor \u2026 [+2588 chars]",
+      "retrievedAt": "2024-01-17 19:05:29.936375",
+      "internal_id": "4b6b69e9a32e0a40cf12e6f309e5db43bf3d03e78d25b3ca9e99680c2fa75bdb",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4302,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "St\u00e9phanie Le Guillou, Journaliste Sant\u00e9",
+      "title": "Le virus Zika a d\u00e9truit avec une efficacit\u00e9 stup\u00e9fiante des cellules canc\u00e9reuses chez la souris",
+      "description": "Le virus Zika, g\u00e9n\u00e9ralement source de pr\u00e9occupations sanitaires, se r\u00e9v\u00e8le d\u00e9sormais \u00eatre un alli\u00e9 inattendu dans la lutte contre le cancer. Une r\u00e9cente \u00e9tude a utilis\u00e9 ce virus pour traiter avec succ\u00e8s des tumeurs de neuroblastome, un type de cancer des tiss\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/cancer-virus-zika-detruit-efficacite-stupefiante-cellules-cancereuses-chez-souris-110764/",
+      "urlToImage": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/0/9/0/090e7f6b90_50210969_cancer-enfant.jpg",
+      "publishedAt": "2024-01-16 14:01:10",
+      "content": "Cela vous int\u00e9ressera aussi [EN VID\u00c9O]Observation d'un cerveau humain Institute of Human Anatomy utilise des cadavres humains comme instruments pour l'enseignement de l'anatomie et... Le virus Zika\u2026 [+2509 chars]",
+      "retrievedAt": "2024-01-17 19:05:31.566078",
+      "internal_id": "24fedb973ccfda64c06db115122270023ccfb3885e1a03adbe90cb0ef94e5f1d",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4288,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Hailu Fekadu, Wubegzier Mekonnen, Aynalem Adugna, Helmut Kloos, Damen Hailemariam",
+      "title": "Trends of inequality in DPT3 immunization services utilization in Ethiopia and its determinant factors: Evidence from Ethiopian demographic and health surveys, 2000\u20132019",
+      "description": "Background Low levels of diphtheria, tetanus toxoid, pertussis (DPT3) immunization services utilization and high deaths among under five children are concentrated in economically and socially disadvantaged groups, especially in low and middle-income countries\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293337",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0293337.g007&size=inline",
+      "publishedAt": "2024-01-16 14:00:00",
+      "content": "Citation: Fekadu H, Mekonnen W, Adugna A, Kloos H, Hailemariam D (2024) Trends of inequality in DPT3 immunization services utilization in Ethiopia and its determinant factors: Evidence from Ethiopian\u2026 [+35795 chars]",
+      "retrievedAt": "2024-01-17 19:05:28.145715",
+      "internal_id": "3ebb7df1568299e0e2c5c7b834077abc0bcd15f0c670846fb1bd37345fb8f852",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4292,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalys Alc\u00e2ntara",
+      "title": "Queiroga, ex-ministro de Bolsonaro, acusa atual governo de neglig\u00eancia",
+      "description": "Ministro da Sa\u00fade no governo Bolsonaro, Marcelo Queiroga disse que atual governo \"esnobou\" nova vacina contra a dengue e bateu cabe\u00e7a",
+      "url": "https://www.metropoles.com/brasil/queiroga-ex-ministro-de-bolsonaro-acusa-atual-governo-de-negligencia",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/10/20124708/ministro-da-Sau%CC%81de-Marcelo-Queiroga-participa-do-lanc%CC%A7amento-da-Campanha-Nacional-de-Combate-ao-mosquito-Aedes-aegypti-2.jpg",
+      "publishedAt": "2024-01-16 13:51:20",
+      "content": "O ex-ministro da Sa\u00fade Marcelo Queiroga usou sua conta no X (antigo Twitter) na segunda-feira (15/1) para criticar a estrat\u00e9gia de vacina\u00e7\u00e3o contra a dengue da atual gest\u00e3o do Minist\u00e9rio da Sa\u00fade. E\u2026 [+1759 chars]",
+      "retrievedAt": "2024-01-17 19:05:29.910755",
+      "internal_id": "f0a5bc29c0cb77c59b2723bd095cb1d1c6cdddb9090d05271a058d536acf81e1",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4304,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Espa\u00f1a es el pa\u00eds europeo que m\u00e1s casos de viruela del mono ha registrado en los \u00faltimos a\u00f1os, con 7.752",
+      "description": "Desde 2022 y hasta el pasado domingo, 14 de enero, se han notificado un total de 26.568 casos de viruela del mono (mpox, por sus siglas en ingl\u00e9s) en 45 pa\u00edses de la regi\u00f3n europea, con Espa\u00f1a como el pa\u00eds con la cifra m\u00e1s alta con un total de 7.752 casos reg\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-espana-pais-europeo-mas-casos-viruela-mono-registrado-ultimos-anos-7752-20240116144227.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240116144227_1200.jpg",
+      "publishedAt": "2024-01-16 13:42:27",
+      "content": "MADRID, 16 Ene. (EUROPA PRESS) - Desde 2022 y hasta el pasado domingo, 14 de enero, se han notificado un total de 26.568 casos de viruela del mono (mpox, por sus siglas en ingl\u00e9s) en 45 pa\u00edses de \u2026 [+1544 chars]",
+      "retrievedAt": "2024-01-17 19:05:31.953896",
+      "internal_id": "8669f0fd87a7e8a792ea00fb9df3acf14f2fda089bbde5de6796ad7baf5b62b8",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4290,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Gareth Iacobucci",
+      "title": "Measles: Warning given over low MMR uptake after cases rise to 200 in West Midlands",
+      "description": "Health officials have warned that a large increase in measles cases and hospital admissions in the West Midlands is being driven by low vaccination rates.Schools have been advised that any child who comes into contact with a case and who has not had at least \u2026",
+      "url": "https://www.bmj.com/content/384/bmj.q113",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/383/8411.cover-source.jpg",
+      "publishedAt": "2024-01-16 10:31:12",
+      "content": "Health officials have warned that a large increase in measles cases and hospital admissions in the West Midlands is being driven by low vaccination rates. Schools have been advised that any child wh\u2026 [+538 chars]",
+      "retrievedAt": "2024-01-17 19:05:29.185617",
+      "internal_id": "8628b4d5fec68ef13459f4ca482eee8b74256bda49c67566674aa6aab17cfd03",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4293,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Vin\u00edcius Nunes",
+      "title": "Governo teme que campanha negacionista impacte vacina\u00e7\u00e3o contra dengue",
+      "description": "Sa\u00fade vai priorizar vacina\u00e7\u00e3o de crian\u00e7as de 6 a 16 anos",
+      "url": "https://www.metropoles.com/blog-do-noblat/governo-teme-que-campanha-negacionista-impacte-vacinacao-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/22104941/Dengue_Casos_DF.jpg",
+      "publishedAt": "2024-01-16 08:30:37",
+      "content": "O Minist\u00e9rio da Sa\u00fade vai trabalhar com a Secom (Secretaria de Comunica\u00e7\u00e3o Social da Presid\u00eancia da Rep\u00fablica) em campanhas publicit\u00e1rias para impactar pais e respons\u00e1veis sobre a necessidade da vaci\u2026 [+775 chars]",
+      "retrievedAt": "2024-01-17 19:05:29.924806",
+      "internal_id": "f3f83c40d436182b5d854a30937c291fa8d5e30eb459b903fc72757fb2351aa8",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4299,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigeria: Hurdles Nigeria Must Overcome to Achieve Malaria Elimination",
+      "description": "[Vanguard] \u00b7As WHO certifies Cabo Verde 3rd malaria-free African country",
+      "url": "https://allafrica.com/stories/202401160012.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-01-16 08:20:56",
+      "content": "\u00b7As WHO certifies Cabo Verde 3rd malaria-free African country In 1973, when the World Health Organisation, WHO, certified Mauritius as the first African country to eliminate malaria, Nigeria was not\u2026 [+6887 chars]",
+      "retrievedAt": "2024-01-17 19:05:31.280506",
+      "internal_id": "31463f16e2cfd4f142039be9d1364a9ddeaaab3b80c8a88b5b6cc1c87e5ab9b7",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4297,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Jovem \u00e9 alvo de vacina\u00e7\u00e3o antidengue",
+      "description": "Minist\u00e9rio deve seguir recomenda\u00e7\u00e3o da OMS de priorizar faixa et\u00e1ria dos 6 ao 16 anos",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/16/jovem-e-alvo-de-vacinacao-antidengue.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-01-16 08:00:53",
+      "content": "A c\u00e2mara t\u00e9cnica de imuniza\u00e7\u00e3o recomendou ao Minist\u00e9rio da Sa\u00fade que a vacina\u00e7\u00e3o contra dengue, prevista para come\u00e7ar em fevereiro, priorize pessoas entre 6 e 16 anos de regi\u00f5es com maior incid\u00eancia \u2026 [+398 chars]",
+      "retrievedAt": "2024-01-17 19:05:29.970234",
+      "internal_id": "cf297e489fd26587777f104a335cfed5d9e688f188701b52febf3a4ec01a312c",
+      "publishedAtLabel": "Jan 16"
+    },
     {
       "id": 4287,
       "query": [
@@ -14040,96 +14346,6 @@
       "content": "22-year-old Mount Hope High School graduate Maddie Pacheco is missed tremendously after died from a case of viral meningitis last month. According to the CDC, its the most common form of meningitis,\u2026 [+1998 chars]",
       "retrievedAt": "2023-12-05 07:05:52.140697",
       "internal_id": "9390b6770867c546231d42268fc5dfc6a5573589370e93f1dd9d425987a4cbce",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3491,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Carole Dieterich",
-      "title": "Bangladesh faces its worst dengue epidemic on record",
-      "description": "Characterized in Bangladesh by long erratic monsoons and higher temperatures, climate change is promoting the reproduction of 'Aedes' mosquitoes, the main vectors of dengue fever, which this year caused over 1,600 deaths.",
-      "url": "https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html",
-      "urlToImage": "https://img.lemde.fr/2023/11/14/0/0/8256/5504/1440/960/60/0/7bbcc51_2023-11-14t034056z-1373459227-rc2wq3azi8y4-rtrmadp-3-bangladesh-disease-dengue.JPG",
-      "publishedAt": "2023-12-03 16:39:18",
-      "content": "Mosquito control operation in Dhaka, Bangladesh, on October 12, 2023. FATIMA TUJ JOHORA / REUTERS Dozens of feverish patients on drips were lying on beds, lined up one after the other, in a vast roo\u2026 [+3077 chars]",
-      "retrievedAt": "2023-12-04 19:05:33.775557",
-      "internal_id": "f61d73d2b6b101f4664b5cd2c7616cfed0c88f6921fca0b94902b344f4d92cba",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3492,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "La ONG sevillana \u00c1frica Arco Iris administra 8.500 vacunas contra la meningitis a ni\u00f1os de Costa de Marfil",
-      "description": "La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil.",
-      "url": "https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231203110951_1200.jpg",
-      "publishedAt": "2023-12-03 10:09:51",
-      "content": "SEVILLA, 3 Dic. (EUROPA PRESS) - La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil. \u2026 [+2046 chars]",
-      "retrievedAt": "2023-12-04 19:05:33.970872",
-      "internal_id": "7320003ad3df43a13d8537c2f33eda0e441efc16b7ae525c1ad2c2b994b89a13",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3495,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Smzdm.com",
-      "author": "\u674e\u96f7\u535a\u58eb",
-      "title": "\u76ca\u751f\u83cc\uff0c\u771f\u7684\u80fd\u8c03\u8282\u80a0\u80c3\u5417\uff1f",
-      "description": "\u73b0\u5728\u7684\u5e74\u8f7b\u4eba\u751f\u6d3b\u8282\u594f\u5feb\uff0c\u4f5c\u606f\u4e0d\u89c4\u5f8b\uff0c\u5bfc\u81f4\u5f88\u591a\u4eba\u80a0\u80c3\u90fd\u4e0d\u5927\u597d\u3002\u8fd9\u4e0d\uff0c\u4eca\u5929\u5c31\u6709\u4e00\u4f4d\u670b\u53cb\u8bf4\u4ed6\u6700\u8fd1\u80a0\u80c3\u4e0d\u597d\uff0c\u6d88\u5316\u529f\u80fd\u5dee\uff0c\u5f88\u662f\u82e6\u607c\u3002\u4eca\u5929\u5c31\u548c\u5927\u5bb6\u6765\u8bf4\u8bf4\u80a0\u80c3\u4e0d\u597d\u5e94\u8be5\u5982\u4f55\u5904\u7406\u300201\uff0c\u80a0\u80c3\u955c\u68c0\u67e5\u5bf9\u4e8e\u80a0\u80c3\u4e0d\u597d\u7684\u4eba\u5462\uff0c\u9996...",
-      "url": "https://post.smzdm.com/p/aqq8zekp/",
-      "urlToImage": "https://a.zdmimg.com/202312/03/656c3c30d6d5d9337.jpg_fo742.jpg",
-      "publishedAt": "2023-12-03 08:49:04",
-      "content": "01 easy 02 [1] [2] 03 04 14108.41 CFU/g[3] 7105.52 CFU/g 1 2 3 1 Oezbas, Z. Y., and S. A. Aytac. \"Behaviour of Yersinia enterocolitica and Aeromonas hydrophila in yogurt made with probiot\u2026 [+387 chars]",
-      "retrievedAt": "2023-12-04 19:05:35.627083",
-      "internal_id": "505f8d5c7317e84ef13711a1cb020775d8bc3e48b8158f4361bb5f7c21592432",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3493,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "How climate change is making the world sick",
-      "description": "DUBAI: Heat stress. Lung damage from wildfire smoke. The spread of disease-carrying mosquitoes into new regions as temperatures rise. These are just a few of the ways that public health has been impacted and compounded by climate change - a focus for the firs\u2026",
-      "url": "https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--1nx-uErK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-03t060523z_1_lynxmpejb201c_rtroptp_3_europe-weather-greece-wildfire.jpg?itok=fVnJeRXR",
-      "publishedAt": "2023-12-03 08:25:47",
-      "content": "Climate change is also having an unpredictable impact on malaria, with 5 million more cases registered in 2022 than the previous year - reaching a total of 249 million, the WHO's World Malaria Report\u2026 [+1420 chars]",
-      "retrievedAt": "2023-12-04 19:05:34.448645",
-      "internal_id": "c7079d4afd24599c557dfd1fcbfe718a796fb4053ede065a5c97077a24962728",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3494,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
-      "title": "Jakarta completes mpox vaccination to 411 people: Official",
-      "description": "The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine. \"There are 411 people who have completed the mpox vaccination,\" the Head of the ...",
-      "url": "https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/03/Screenshot_20231103_005818_YouTube.jpg",
-      "publishedAt": "2023-12-03 07:44:20",
-      "content": "Jakarta (ANTARA) - The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine.\"There are 411 people who have completed the mpox vaccin\u2026 [+1828 chars]",
-      "retrievedAt": "2023-12-04 19:05:35.196710",
-      "internal_id": "c5acb8b59a6389cc69650aecd3b513ffc2fd8ab98aa38b69dd6a07f3e691344f",
       "publishedAtLabel": "Dec 3"
     }
   ]

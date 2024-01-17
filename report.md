@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-01-17 07:06
-- **Most recent article:** 2024-01-16 06:56:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-01-17 19:05
+- **Most recent article:** 2024-01-16 18:12:21
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 62 | 42 | 69 | 37 | 2 | 52 | 35 | 23 | 322 |
-| malaria | 24 | 24 | 24 | 22 | 2 | 11 | 51 | 6 | 164 |
-| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 10 | 91 |
-| mpox | 15 | 24 | 15 | 12 | 0 | 2 | 2 | 0 | 70 |
-| zika | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 1 | 46 |
-| meningitis | 8 | 9 | 4 | 4 | 0 | 2 | 11 | 0 | 38 |
+| dengue | 61 | 42 | 69 | 37 | 2 | 52 | 35 | 30 | 328 |
+| malaria | 23 | 24 | 24 | 22 | 2 | 11 | 51 | 9 | 166 |
+| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 13 | 94 |
+| mpox | 14 | 24 | 15 | 12 | 0 | 2 | 2 | 1 | 70 |
+| zika | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 3 | 48 |
+| meningitis | 7 | 9 | 4 | 4 | 0 | 2 | 11 | 0 | 37 |
 | chikungunya | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 37 |
 | rabies | 4 | 7 | 2 | 7 | 1 | 2 | 5 | 1 | 29 |
-| pertussis | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 0 | 15 |
+| pertussis | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 1 | 16 |
 | leptospirosis | 3 | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 9 |
 | typhoid | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 0 | 9 |
-| yersinia | 2 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 5 |
+| yersinia | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -31,6 +31,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-3 (zika)
+
+- [Un estudio descubre que el virus del Zika podría tratar el cáncer](https://www.dw.com/es/un-estudio-descubre-que-el-virus-del-zika-podr%C3%ADa-tratar-el-c%C3%A1ncer/a-68001297) (DW (English))
+
+- [Le virus Zika a détruit avec une efficacité stupéfiante des cellules cancéreuses chez la souris](https://www.futura-sciences.com/sante/actualites/cancer-virus-zika-detruit-efficacite-stupefiante-cellules-cancereuses-chez-souris-110764/) (Futura)
 
 - [Zika virus could potentially treat cancer, another early study hints](https://www.livescience.com/health/cancer/zika-virus-could-potentially-treat-cancer-another-early-study-hints) (Live Science)
 
@@ -42,7 +46,21 @@ Source: [News API](https://newsapi.org/)
 
 - [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
 
+## 24-3 (pertussis)
+
+- [Trends of inequality in DPT3 immunization services utilization in Ethiopia and its determinant factors: Evidence from Ethiopian demographic and health surveys, 2000–2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293337) (Plos.org)
+
+## 24-3 (mpox)
+
+- [España es el país europeo que más casos de viruela del mono ha registrado en los últimos años, con 7.752](https://www.infosalus.com/salud-investigacion/noticia-espana-pais-europeo-mas-casos-viruela-mono-registrado-ultimos-anos-7752-20240116144227.html) (Infosalus.com)
+
 ## 24-3 (measles)
+
+- [Warning of further measles outbreaks as cases rise](https://www.bbc.co.uk/news/articles/cw0d7rpr6ndo) (BBC News)
+
+- [Health officials warn of possible measles exposure at Dulles, Ronald Reagan airports](https://www.foxnews.com/health/health-officials-warn-possible-measles-exposure-dulles-ronald-reagan-airports) (Fox News)
+
+- [Measles: Warning given over low MMR uptake after cases rise to 200 in West Midlands](https://www.bmj.com/content/384/bmj.q113) (The BMJ)
 
 - [Measles alert issued in Western Sydney after baby tests positive to the highly contagious disease](https://www.abc.net.au/news/2024-01-16/nsw-measles-alert-western-sydney-case-baby/103325190) (ABC News (AU))
 
@@ -66,6 +84,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-3 (malaria)
 
+- [En la ciudad: murió en el Hospital Fernández un turista de EE.UU. por malaria](https://www.lanacion.com.ar/sociedad/en-la-ciudad-murio-en-el-hospital-fernandez-un-turista-de-eeuu-por-malaria-nid16012024/) (La Nacion)
+
+- [Kenyan scientists unveil drug to reduce malaria among HIV-positive pregnant women](https://www.thestar.com.my/news/world/2024/01/17/kenyan-scientists-unveil-drug-to-reduce-malaria-among-hiv-positive-pregnant-women) (The Star Online)
+
+- [Nigeria: Hurdles Nigeria Must Overcome to Achieve Malaria Elimination](https://allafrica.com/stories/202401160012.html) (AllAfrica - Top Africa News)
+
 - [Cape Verde: Malaria-Free Cape Verde a 'Beacon of Hope'](https://allafrica.com/stories/202401160002.html) (AllAfrica - Top Africa News)
 
 - [Desarrollan unas herramientas ultrasensibles para detectar la malaria asintomática](https://www.infosalus.com/salud-investigacion/noticia-desarrollan-herramientas-ultrasensibles-detectar-malaria-asintomatica-20240115181415.html) (Infosalus.com)
@@ -79,6 +103,20 @@ Source: [News API](https://newsapi.org/)
 - [Un estudio avala un tratamiento para prevenir la malaria durante el embarazo en mujeres con VIH](https://www.infosalus.com/salud-investigacion/noticia-estudio-avala-tratamiento-prevenir-malaria-embarazo-mujeres-vih-20240115095713.html) (Infosalus.com)
 
 ## 24-3 (dengue)
+
+- [Vacina contra dengue tem limitação de produção, afirma infectologista](https://noticias.r7.com/record-news/videos/vacina-contra-dengue-tem-limitacao-de-producao-afirma-infectologista-16012024) (R7.com)
+
+- [Rio alerta para a importância da prevenção à dengue no verão](https://noticias.r7.com/rio-de-janeiro/rio-alerta-para-a-importancia-da-prevencao-a-dengue-no-verao-16012024) (R7.com)
+
+- [Health D-G: Over RM18m in compounds issued last year to contain dengue fever](https://www.malaymail.com/news/malaysia/2024/01/16/health-d-g-over-rm18m-in-compounds-issued-last-year-to-contain-dengue-fever/112783) (Malay Mail)
+
+- [Aumenta preocupação com quadros graves de dengue no Brasil](https://www.terra.com.br/noticias/aumenta-preocupacao-com-quadros-graves-de-dengue-no-brasil,122a89c78f1b3760ed6bdbb7322a3b617ci04joa.html) (Terra.com.br)
+
+- [Queiroga, ex-ministro de Bolsonaro, acusa atual governo de negligência](https://www.metropoles.com/brasil/queiroga-ex-ministro-de-bolsonaro-acusa-atual-governo-de-negligencia) (Metropoles.com)
+
+- [Governo teme que campanha negacionista impacte vacinação contra dengue](https://www.metropoles.com/blog-do-noblat/governo-teme-que-campanha-negacionista-impacte-vacinacao-contra-dengue) (Metropoles.com)
+
+- [Jovem é alvo de vacinação antidengue](https://valor.globo.com/brasil/noticia/2024/01/16/jovem-e-alvo-de-vacinacao-antidengue.ghtml) (Globo)
 
 - [Over 5,000 dengue cases reported in Sri Lanka in January](http://en.people.cn/n3/2024/0116/c90000-20122578.html) (People.cn)
 
@@ -1556,8 +1594,6 @@ Source: [News API](https://newsapi.org/)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 6th December 2023](https://iasbaba.com/2023/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-6th-december-2023/) (Iasbaba.com)
 
-- [益生菌，真的能调节肠胃吗？](https://post.smzdm.com/p/aqq8zekp/) (Smzdm.com)
-
 ## 23-49 (typhoid)
 
 - [Yellow canteens: a colourful way to keep kids healthy](https://www.springwise.com/innovation/education/painting-canteens-yellow-to-keep-kids-healthy/) (Springwise.com)
@@ -1612,8 +1648,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stigma, regulatory barriers delay mpox response in country that needs it most](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most-45498818/) (Marketscreener.com)
 
-- [Jakarta completes mpox vaccination to 411 people: Official](https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official) (Antaranews.com)
-
 ## 23-49 (meningitis)
 
 - [ACTG Announces Launch of Clinical Trial Evaluating Novel Treatment for Tuberculous Meningitis](https://www.globenewswire.com/news-release/2023/12/07/2792865/0/en/ACTG-Announces-Launch-of-Clinical-Trial-Evaluating-Novel-Treatment-for-Tuberculous-Meningitis.html) (GlobeNewswire)
@@ -1629,8 +1663,6 @@ Source: [News API](https://newsapi.org/)
 - [Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections](https://www.bmj.com/content/383/bmj.p2849) (The BMJ)
 
 - [Mount Hope community mourns loss of vibrant young woman to rare viral meningitis case](https://turnto10.com/news/local/mount-hope-community-mourns-loss-of-vibrant-young-woman-to-rare-viral-meningitis-case) (Turn to 10)
-
-- [La ONG sevillana África Arco Iris administra 8.500 vacunas contra la meningitis a niños de Costa de Marfil](https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html) (Europapress.es)
 
 ## 23-49 (measles)
 
@@ -1691,8 +1723,6 @@ Source: [News API](https://newsapi.org/)
 - [Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO](https://allafrica.com/stories/202312040455.html) (AllAfrica - Top Africa News)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [How climate change is making the world sick](https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476) (CNA)
 
 ## 23-49 (leptospirosis)
 
@@ -1825,8 +1855,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika) (Metropoles.com)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [Bangladesh faces its worst dengue epidemic on record](https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html) (Le Monde)
 
 ## 23-49 (chikungunya)
 
