@@ -1,8 +1,368 @@
 {
-  "last_updated": "2024-01-16 19:05",
-  "count_articles_total": 757,
-  "count_articles_new": 16,
+  "last_updated": "2024-01-17 07:06",
+  "count_articles_total": 782,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 4287,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Nplus1.ru",
+      "author": "\u041c\u0438\u0445\u0430\u0438\u043b \u041f\u043e\u0434\u0440\u0435\u0437\u043e\u0432",
+      "title": "\u0412 \u0418\u043e\u0440\u0434\u0430\u043d\u0438\u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0436\u0435\u0440\u0442\u0432 \u042e\u0441\u0442\u0438\u043d\u0438\u0430\u043d\u043e\u0432\u043e\u0439 \u0447\u0443\u043c\u044b",
+      "description": "\u041c\u043e\u043b\u0435\u043a\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0431\u0438\u043e\u043b\u043e\u0433\u0438 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043b\u0438 \u043e\u0441\u0442\u0430\u043d\u043a\u0438 \u043b\u044e\u0434\u0435\u0439 \u0438\u0437 \u0434\u0432\u0443\u0445 \u043c\u0430\u0441\u0441\u043e\u0432\u044b\u0445 \u0437\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u0439 VI\u2013VII \u0432\u0435\u043a\u043e\u0432 \u043d\u0430\u0448\u0435\u0439 \u044d\u0440\u044b, \u0443\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u0445 \u043d\u0430 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438 \u0431\u044b\u0432\u0448\u0435\u0433\u043e \u0430\u043d\u0442\u0438\u0447\u043d\u043e\u0433\u043e \u0438\u043f\u043f\u043e\u0434\u0440\u043e\u043c\u0430 \u0432 \u0440\u0430\u043d\u043d\u0435\u0441\u0440\u0435\u0434\u043d\u0435\u0432\u0435\u043a\u043e\u0432\u043e\u043c \u0433\u043e\u0440\u043e\u0434\u0435 \u0413\u0435\u0440\u0430\u0441\u0430. \u0423\u0447\u0435\u043d\u044b\u0435 \u043f\u0440\u043e\u0432\u0435\u043b\u0438 \u0433\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u0437\u0443\u0431\u043e\u0432 \u0432\u043e\u0441\u044c\u043c\u0438 \u0443\u043c\u0435\u0440\u0448\u0438\u0445 \u0438 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0438 \u0432\u2026",
+      "url": "https://nplus1.ru/news/2024/01/16/justinian-plague",
+      "urlToImage": "https://minio.nplus1.ru/app-images/877886/65a61d8807ef9_cover_share.jpeg",
+      "publishedAt": "2024-01-16 06:56:00",
+      "content": "VIVII , . . , , . Research Square. (Yersinia pestis) . , , 5300 5700 . , , , . , I, . 541 750 . , , . , , . (Rays Jiang) , (), . 199119\u2026 [+190 chars]",
+      "retrievedAt": "2024-01-17 07:06:03.464668",
+      "internal_id": "a928f6105b750d411bcaf93e045cd478c718d51053380827b38f0885eee3ac99",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4286,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Cape Verde: Malaria-Free Cape Verde a 'Beacon of Hope'",
+      "description": "[DW] The World Health Organization (WHO) has certified Cape Verde as malaria-free, hailing it as a significant milestone in the fight against the disease. But much remains to be done.",
+      "url": "https://allafrica.com/stories/202401160002.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-01-16 06:29:03",
+      "content": "The World Health Organization (WHO) has certified Cape Verde as malaria-free, hailing it as a significant milestone in the fight against the disease. But much remains to be done. The news that Cape\u2026 [+5731 chars]",
+      "retrievedAt": "2024-01-17 07:06:01.661491",
+      "internal_id": "d9886604785cf7fe539d879d5f4d45dd0088e722437ef68a50806c3160abd0c0",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4285,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "People.cn",
+      "author": "F_400991",
+      "title": "Over 5,000 dengue cases reported in Sri Lanka in January",
+      "description": "COLOMBO, Jan. 16 (Xinhua) -- Over 5,000 dengue cases have been reported in Sri Lanka so far in Janua",
+      "url": "http://en.people.cn/n3/2024/0116/c90000-20122578.html",
+      "urlToImage": null,
+      "publishedAt": "2024-01-16 05:33:32",
+      "content": "(Xinhua) 13:18, January 16, 2024 COLOMBO, Jan. 16 (Xinhua) -- Over 5,000 dengue cases have been reported in Sri Lanka so far in January this year, according to the latest update released by the Nati\u2026 [+541 chars]",
+      "retrievedAt": "2024-01-17 07:06:01.089728",
+      "internal_id": "984f3fe536b988c1d89fa56f75d4097c318e61c299f7d9a07d9b888da827972c",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4278,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jo\u00e3o V\u00edtor Reis",
+      "title": "Dengue: conhe\u00e7a os sintomas mais comuns da infec\u00e7\u00e3o",
+      "description": "M\u00e9dico alerta que a dengue hemorr\u00e1gica, a forma mais grave da doen\u00e7a, pode ser fatal. Tratamento \u00e9 feito basicamente com manejo dos sintomas",
+      "url": "https://www.metropoles.com/saude/quais-sao-os-sintomas-da-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/05124652/Foto-mosquito-da-dengue-2-1.jpg",
+      "publishedAt": "2024-01-16 05:00:45",
+      "content": "Nas primeiras duas semanas de 2024, os casos de dengue triplicaram em algumas partes do Brasil no DF, as consultas de pacientes com suspeita da doen\u00e7a subiram 1.261% em rela\u00e7\u00e3o ao ano anterior. A gov\u2026 [+5780 chars]",
+      "retrievedAt": "2024-01-17 07:06:01.001526",
+      "internal_id": "e3bd7518155e98c2afa6ba5e793b91b557db0879b05cb52e2948aa92276e226a",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4270,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Millie Roberts and Tony Ibrahim",
+      "title": "Measles alert issued in Western Sydney after baby tests positive to the highly contagious disease",
+      "description": "NSW Health says there have been \"significant outbreaks\" overseas, and is urging travellers to check their vaccination status.",
+      "url": "https://www.abc.net.au/news/2024-01-16/nsw-measles-alert-western-sydney-case-baby/103325190",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a413e91c1e7172c20b49c0cfc119f820?impolicy=wcms_crop_resize&cropH=241&cropW=428&xPos=0&yPos=42&width=862&height=485",
+      "publishedAt": "2024-01-16 02:56:50",
+      "content": "NSW Health is advising people to be on alert for measles symptoms after a baby was a confirmed case in Western Sydney last week. Key points: A confirmed case of measles has been recorded in\u2026 [+2932 chars]",
+      "retrievedAt": "2024-01-17 07:06:00.555615",
+      "internal_id": "e82193591af5e32e615530089ceea5af061ec2eb06dae196dfc0376cce9f69fe",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4274,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Rodrigo Mozelli",
+      "title": "Minist\u00e9rio da Sa\u00fade priorizar\u00e1 vacina\u00e7\u00e3o contra a dengue em crian\u00e7as e adolescentes",
+      "description": "Crian\u00e7as e adolescentes entre seis e 16 anos ser\u00e3o prioridade O post Minist\u00e9rio da Sa\u00fade priorizar\u00e1 vacina\u00e7\u00e3o contra a dengue em crian\u00e7as e adolescentes apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/01/15/medicina-e-saude/ministerio-da-saude-priorizara-vacinacao-contra-a-dengue-em-criancas-e-adolescentes/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/vacina-dengue-QDenga-695x500.png",
+      "publishedAt": "2024-01-16 02:17:03",
+      "content": "O Minist\u00c3\u00a9rio da Sa\u00c3\u00bade anunciou que ir\u00c3\u00a1 priorizar a vacina\u00c3\u00a7\u00c3\u00a3o contra a dengue para pessoas entre 6 e 16 anos. Ser\u00c3\u00a3o adquiridas 5,2 milh\u00c3\u00b5es de doses da vacina Qdenga, fabricada pelo laborat\u00c3\u00b3rio\u2026 [+2232 chars]",
+      "retrievedAt": "2024-01-17 07:06:00.967120",
+      "internal_id": "56606d0b79c326f488a43b8da0af7bc75fef17aa86489d51f8214d12b472621d",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4272,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Max Melzer",
+      "title": "NSW Health issues urgent measles alert for western Sydney residents after infectious baby returned from overseas",
+      "description": "New South Wales Health is urging western Sydney residents to \"stay vigilant\" after a nine-month-old was present at several locations while infectious with measles.",
+      "url": "https://www.skynews.com.au/australia-news/nsw-health-issues-urgent-measles-alert-for-western-sydney-residents-after-infectious-baby-returned-from-overseas/news-story/7ba6201fb500382ac32ab0801b4205ab",
+      "urlToImage": "https://content.api.news/v3/images/bin/4fb00bed323ce291c14427055710c103",
+      "publishedAt": "2024-01-16 01:45:05",
+      "content": "New South Wales Health is urging western Sydney residents to \"stay vigilant\" after a nine-month-old was present at several locations while infectious with measles. In a statement, the body said ther\u2026 [+2719 chars]",
+      "retrievedAt": "2024-01-17 07:06:00.590370",
+      "internal_id": "2218b7c2fdb481b82d4a26e30fb6033f781f9e5740c7007bfbc962bd52c7b558",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4284,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Vacina contra a dengue: crian\u00e7as e adolescentes ser\u00e3o priorizados na campanha pelo SUS",
+      "description": "O Minist\u00e9rio da Sa\u00fade informou que vai priorizar a imuniza\u00e7\u00e3o de crian\u00e7as e adolescentes de 6 a 16 anos com a vacina contra a dengue. A campan...",
+      "url": "https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/vacina-contra-a-dengue-criancas-e-adolescentes-serao-priorizados-na-campanha-pelo-sus-16012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/16/65a5fc92c012ad0b1d000f65/ed9d91d6544040be943d185c87b4b187__2447086_EPP_1601_BOLETIMJR_VACINA_DENGUE_thumb.jpg",
+      "publishedAt": "2024-01-16 00:59:58",
+      "content": "O Minist\u00e9rio da Sa\u00fade informou que vai priorizar a imuniza\u00e7\u00e3o de crian\u00e7as e adolescentes de 6 a 16 anos com a vacina contra a dengue. A campanha deve come\u00e7ar em fevereiro. O Brasil \u00e9 o primeiro pa\u00eds \u2026 [+64 chars]",
+      "retrievedAt": "2024-01-17 07:06:01.059753",
+      "internal_id": "c071da97d5dd306283e8a1577dda946e038072fd4214b0e6e7f0596dd1925411",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4283,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "P\u00fablico priorit\u00e1rio da vacina da dengue ter\u00e1 entre 6 e 16 anos, diz governo; entenda",
+      "description": "Minist\u00e9rio da Sa\u00fade vai se reunir com Estados e munic\u00edpios para definir a melhor estrat\u00e9gia para imuniza\u00e7\u00e3o por causa do n\u00famero limitado de doses - somente 3 milh\u00f5es de pessoas ser\u00e3o vacinadas no primeiro ano da campanha",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/publico-prioritario-da-vacina-da-dengue-tera-entre-6-e-16-anos-diz-governo-entenda,741b2adbcc164c69e9c20e387ad4dcd22v2xjapf.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/15/1675801497-4wpnvse7gjc3jde3s7pl2dboke.jpeg",
+      "publishedAt": "2024-01-15 23:22:41",
+      "content": "A vacina\u00e7\u00e3o contra a dengue que ser\u00e1 realizada pelo Sistema \u00danico de Sa\u00fade (SUS) a partir de fevereiro vai ter como p\u00fablico priorit\u00e1rio crian\u00e7as e jovens entre 6 e 16 anos, informou nesta segunda-fei\u2026 [+3788 chars]",
+      "retrievedAt": "2024-01-17 07:06:01.051009",
+      "internal_id": "e694e43fd982b7da568eb4b71113e4f1c6c8d3881a120d2d3e568f5566faf76d",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4269,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Gina Martinez",
+      "title": "Virginia health officials warn travelers of potential measles exposure",
+      "description": "The Virginia Department of Health said a person with a confirmed case of measles recently traveled through Northern Virginia after returning from a trip overseas.",
+      "url": "https://www.cbsnews.com/news/measles-exposure-travelers-northern-virginia-dc-dulles-reagan-airports/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/11/21/717fc8ac-7ee3-4f42-aa56-bdb0b0ade51a/thumbnail/1200x630/17252209c023192c2878846df2b44ca6/gettyimages-1064051148.jpg?v=50926e3bde2e7c9caafa13eb3f9693b5",
+      "publishedAt": "2024-01-15 23:11:02",
+      "content": "Health officials are asking recent travelers out of two D.C. airports to proceed with caution after they may have potentially been exposed to measles. The Virginia Department of Health put out a ne\u2026 [+2358 chars]",
+      "retrievedAt": "2024-01-17 07:06:00.550179",
+      "internal_id": "8a655d615753ef4bf3a15b85f3885fc03c932fada3f02b8f53a4866c2ffa830a",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4281,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "De jarra de soro \u00e0 prova do la\u00e7o: entenda atendimento contra a dengue no bairro com mais casos em Campinas",
+      "description": "Eulina concentra maior n\u00famero de confirma\u00e7\u00f5es da doen\u00e7a em 2024, mas prefeitura divulgou 10 novos bairros em alerta por conta da alta transmiss\u00e3o. Veja rotina do posto de Campinas no bairro com maior n\u00ba de casos de dengue em 2024 Procurar uma unidade de sa\u00fade\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/15/de-jarra-de-soro-a-prova-do-laco-entenda-atendimento-contra-a-dengue-no-bairro-com-mais-casos-em-campinas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/8a1swShFURQGnX5xJHk3TjbBvac=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/12269034.jpg",
+      "publishedAt": "2024-01-15 22:51:16",
+      "content": "\"Se o paciente fica em casa, se n\u00e3o \u00e9 avaliado, se a hidrata\u00e7\u00e3o dele n\u00e3o \u00e9 vigiada e se os exames laboratoriais dele n\u00e3o s\u00e3o acompanhados de maneira rotineira, o estado geral dele pode agravar e leva\u2026 [+4534 chars]",
+      "retrievedAt": "2024-01-17 07:06:01.039486",
+      "internal_id": "8c60e59bf7248e253fb8c1ca1f2b74ff1c9120795c280638c849de629a140a9c",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4279,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Revistaoeste.com",
+      "author": "Revista Oeste - Brasil",
+      "title": "Minist\u00e9rio da Sa\u00fade vai priorizar vacina\u00e7\u00e3o de crian\u00e7as e adolescentes de 6 a 16 anos contra a dengue",
+      "description": "Pa\u00eds deve ter acesso a at\u00e9 6 milh\u00f5es de vacinas neste ano; no m\u00e1ximo, 3 milh\u00f5es de pessoas ser\u00e3o imunizadas em 2024 O post Minist\u00e9rio...",
+      "url": "https://revistaoeste.com/brasil/ministerio-da-saude-priorizar-vacinacao-criancas-adolescentes-6-16-anos-contra-dengue/",
+      "urlToImage": "https://medias.revistaoeste.com/qa-staging/wp-content/uploads/2024/01/Qdenga-vacina-contra-dengue.jpg",
+      "publishedAt": "2024-01-15 22:32:30",
+      "content": "O Minist\u00e9rio da Sa\u00fade informou nesta segunda-feira, 15, que vai priorizar a vacina\u00e7\u00e3o de crian\u00e7as e adolescentes de 6 a 16 anos contra a dengue. A previs\u00e3o \u00e9 de que a campanha de imuniza\u00e7\u00e3o comece em\u2026 [+2121 chars]",
+      "retrievedAt": "2024-01-17 07:06:01.014745",
+      "internal_id": "e2f65ab2513bcaffda5ab9735fbac163b6cb277b9eff42797163e10079938fa5",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4280,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Vacina\u00e7\u00e3o contra a dengue no SUS vai priorizar crian\u00e7as e jovens",
+      "description": "Imuniza\u00e7\u00e3o ser\u00e1 feita em duas doses; at\u00e9 3 milh\u00f5es de pessoas dever\u00e3o ser vacinadas ainda neste ano",
+      "url": "https://saude.ig.com.br/2024-01-15/vacina-dengue-prioridade-jovens-criancas.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-15 22:04:56",
+      "content": "Nesta segunda-feira (15), o Minist\u00e9rio da Sa\u00fade informou que priorizar\u00e1 a vacina\u00e7\u00e3o de crian\u00e7as e jovens de 6 a 16 anos contra a dengue. O Brasil deve ter acesso neste ano a at\u00e9 6 milh\u00f5es de doses \u2026 [+1480 chars]",
+      "retrievedAt": "2024-01-17 07:06:01.029058",
+      "internal_id": "120e31406f93380d2645111b3fde3033529de0f3636c471ff9fff73bfdb09526",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4275,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Alessandro Giannini",
+      "title": "Vacina contra dengue: pessoas entre 6 e 16 anos ter\u00e3o prioridade",
+      "description": "Estrat\u00e9gia foi definida nesta segunda-feira, 15, pelo Minist\u00e9rio da Sa\u00fade e segue recomenda\u00e7\u00e3o da OMS",
+      "url": "https://veja.abril.com.br/saude/vacina-contra-dengue-pessoas-entre-6-e-16-anos-terao-prioridade",
+      "urlToImage": "",
+      "publishedAt": "2024-01-15 21:55:38",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade Estrat\u00e9gia foi definida nesta segunda-feira, 15, pelo Minist\u00e9rio da Sa\u00fade e segue recomenda\u00e7\u00e3o da OMS Por Ligia Moraes 15 jan 2024, 18h55 \u2026 [+3605 chars]",
+      "retrievedAt": "2024-01-17 07:06:00.975949",
+      "internal_id": "d3478b0718c87f98ca17e03a3a75f944432f41d8f276f3aa454ec5461e1e5370",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4282,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Sa\u00fade quer priorizar vacina contra dengue para pessoas entre 6 e 16 anos",
+      "description": "No fim de 2023, o Minist\u00e9rio da Sa\u00fade anunciou a incorpora\u00e7\u00e3o da vacina da dengue ao SUS",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/15/saude-quer-priorizar-vacina-contra-dengue-para-pessoas-entre-6-e-16-anos.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/yUn8YsxCosZrgGEV4QW0nhSzmIg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/5/z/1FTMl0Qh2KHKWhklm3jw/vacina-qdenga-do-laboratorio-takeda-pharma-contra-a-dengue-divulgacao.jpeg",
+      "publishedAt": "2024-01-15 21:12:27",
+      "content": "O Minist\u00e9rio da Sa\u00fade tem a previs\u00e3o de ofertar a vacina contra a dengue primeiramente para uma parcela da popula\u00e7\u00e3o entre 6 a 16 anos, como recomenda a OMS (Organiza\u00e7\u00e3o Mundial da Sa\u00fade). A estrat\u00e9g\u2026 [+3034 chars]",
+      "retrievedAt": "2024-01-17 07:06:01.045032",
+      "internal_id": "4437d185041b8eb8b586b85efc1c060dec82f9f98ac8157ed80898bc23323e1b",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4273,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Full Fact",
+      "author": "Full Fact",
+      "title": "BBC corrects article claiming 5% measles vaccination rate - Full Fact",
+      "description": "No local authority in the West Midlands has a measles vaccine uptake lower than about 75% on any measure\u2014although this remains well below the target.",
+      "url": "https://fullfact.org/health/bbc-5-percent-measles-west-midlands/",
+      "urlToImage": "https://fullfact.org/media/_versions/15_jan_2023_young_boy_with_measles_social_media.jpeg",
+      "publishedAt": "2024-01-15 21:02:03",
+      "content": "A low vaccination rate of about 5% has been attributed to the rise. [sic] BBC News, 12 January 2024. A BBC News article claimed that a 5% vaccination rate was an explanation for a rise in measles c\u2026 [+2266 chars]",
+      "retrievedAt": "2024-01-17 07:06:00.594989",
+      "internal_id": "7d49ddd05ca3fe178bdf0b5785b60a5719cccb255737bdc5b4ecced951a937b0",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4271,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC4 Washington",
+      "author": "Andrea Swalec",
+      "title": "Virginia officials warn of potential measles exposure at Dulles, Reagan airports",
+      "description": "If you were at Dulles International Airport or Reagan Washington National Airport early this month, you may have been exposed to someone with measles. A person who had measles after returning from international travel was in both airports on two dates, Virgin\u2026",
+      "url": "http://www.nbcwashington.com/news/local/northern-virginia/virginia-officials-warn-of-potential-measles-exposure-at-dulles-reagan-airports/3516566/",
+      "urlToImage": "https://media.nbcwashington.com/2022/02/measles-illustration.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2024-01-15 20:57:36",
+      "content": "If you were at Dulles International Airport or Reagan Washington National Airport early this month, you may have been exposed to someone with measles. A person who had measles after returning from i\u2026 [+1638 chars]",
+      "retrievedAt": "2024-01-17 07:06:00.569120",
+      "internal_id": "d00c61ed35af0ca02aeb87a53ca00e10d9dad61c18c4c08064c8458ae1b2cf20",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4277,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Vacina contra dengue: prioridade ser\u00e1 para pessoas entre 6 e 16 anos",
+      "description": "Governo federal espera imunizar cerca de 3 milh\u00f5es de pessoas com a vacina contra a dengue",
+      "url": "https://www.metropoles.com/brasil/vacina-contra-dengue-prioridade-sera-para-pessoas-entre-6-e-16-anos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/08/18183537/vacinacao-infantil-5.jpg",
+      "publishedAt": "2024-01-15 20:21:33",
+      "content": "T\u00e9cnicos do Minist\u00e9rio da Sa\u00fade reuniram-se, nesta segunda-feira (15/1), para discutir as estrat\u00e9gias para a vacina\u00e7\u00e3o contra a dengue no Brasil. No entanto, a \u00fanica decis\u00e3o tomada at\u00e9 o momento \u00e9 qu\u2026 [+6380 chars]",
+      "retrievedAt": "2024-01-17 07:06:00.990587",
+      "internal_id": "93fd6752037b3abce781dd117a6801bc7dc82f91b65a3df7c82a4eac6524e780",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4276,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Flipar, Flipar",
+      "title": "Alerta ligado: casos de dengue disparam em v\u00e1rios estados",
+      "description": "Alerta ligado: casos de dengue disparam em v\u00e1rios estados",
+      "url": "https://ultimosegundo.ig.com.br/parceiros/flipar/2024-01-15/alerta-ligado--casos-de-dengue-disparam-em-varios-estados.html.ampstories",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0c/6s/1n/0c6s1nmvra1ag6wonkzmf29c3.jpg",
+      "publishedAt": "2024-01-15 19:15:55",
+      "content": "Esperamos volumes altos de pessoas infectadas, enchendo servi\u00e7o de sa\u00fade, como no ano passado. A tend\u00eancia \u00e9 que, at\u00e9 o fim do per\u00edodo chuvoso e do ver\u00e3o, os casos cheguem a um n\u00edvel muito alto, expl\u2026 [+53 chars]",
+      "retrievedAt": "2024-01-17 07:06:00.985254",
+      "internal_id": "83b8c5229244893cb48d957fed6b257b62d8c1a1cdb8a19211dcd02cc97b0810",
+      "publishedAtLabel": "Jan 15"
+    },
+    {
+      "id": 4268,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Doctors' group offers free measles vaccines in Philadelphia to fight outbreak",
+      "description": "A doctors' group is offering free measles vaccines for unvaccinated residents in Philadelphia to fight an outbreak that has infected eight people so far.",
+      "url": "https://abcnews.go.com/Health/doctors-group-offers-free-measles-vaccines-philadelphia-fight/story?id=106377644",
+      "urlToImage": "https://i.abcnewsfe.com/a/7d17d1a4-ba73-4b35-a77c-68288b17103b/measles-vaccine-ap-jef-240115_1705328296351_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-01-15 19:15:00",
+      "content": "A group of doctors in Philadelphia is offering free measles vaccines on the heels of an outbreak in the city. There have been eight confirmed cases of the disease since late December, all among unva\u2026 [+3050 chars]",
+      "retrievedAt": "2024-01-17 07:06:00.529344",
+      "internal_id": "1a119dc211b642302572ef2eaecafebe74110c4d59be2d30bc66c07b28ca9b93",
+      "publishedAtLabel": "Jan 15"
+    },
     {
       "id": 4257,
       "query": [
@@ -13680,6 +14040,96 @@
       "content": "22-year-old Mount Hope High School graduate Maddie Pacheco is missed tremendously after died from a case of viral meningitis last month. According to the CDC, its the most common form of meningitis,\u2026 [+1998 chars]",
       "retrievedAt": "2023-12-05 07:05:52.140697",
       "internal_id": "9390b6770867c546231d42268fc5dfc6a5573589370e93f1dd9d425987a4cbce",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3491,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Carole Dieterich",
+      "title": "Bangladesh faces its worst dengue epidemic on record",
+      "description": "Characterized in Bangladesh by long erratic monsoons and higher temperatures, climate change is promoting the reproduction of 'Aedes' mosquitoes, the main vectors of dengue fever, which this year caused over 1,600 deaths.",
+      "url": "https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html",
+      "urlToImage": "https://img.lemde.fr/2023/11/14/0/0/8256/5504/1440/960/60/0/7bbcc51_2023-11-14t034056z-1373459227-rc2wq3azi8y4-rtrmadp-3-bangladesh-disease-dengue.JPG",
+      "publishedAt": "2023-12-03 16:39:18",
+      "content": "Mosquito control operation in Dhaka, Bangladesh, on October 12, 2023. FATIMA TUJ JOHORA / REUTERS Dozens of feverish patients on drips were lying on beds, lined up one after the other, in a vast roo\u2026 [+3077 chars]",
+      "retrievedAt": "2023-12-04 19:05:33.775557",
+      "internal_id": "f61d73d2b6b101f4664b5cd2c7616cfed0c88f6921fca0b94902b344f4d92cba",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3492,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "La ONG sevillana \u00c1frica Arco Iris administra 8.500 vacunas contra la meningitis a ni\u00f1os de Costa de Marfil",
+      "description": "La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil.",
+      "url": "https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231203110951_1200.jpg",
+      "publishedAt": "2023-12-03 10:09:51",
+      "content": "SEVILLA, 3 Dic. (EUROPA PRESS) - La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil. \u2026 [+2046 chars]",
+      "retrievedAt": "2023-12-04 19:05:33.970872",
+      "internal_id": "7320003ad3df43a13d8537c2f33eda0e441efc16b7ae525c1ad2c2b994b89a13",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3495,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Smzdm.com",
+      "author": "\u674e\u96f7\u535a\u58eb",
+      "title": "\u76ca\u751f\u83cc\uff0c\u771f\u7684\u80fd\u8c03\u8282\u80a0\u80c3\u5417\uff1f",
+      "description": "\u73b0\u5728\u7684\u5e74\u8f7b\u4eba\u751f\u6d3b\u8282\u594f\u5feb\uff0c\u4f5c\u606f\u4e0d\u89c4\u5f8b\uff0c\u5bfc\u81f4\u5f88\u591a\u4eba\u80a0\u80c3\u90fd\u4e0d\u5927\u597d\u3002\u8fd9\u4e0d\uff0c\u4eca\u5929\u5c31\u6709\u4e00\u4f4d\u670b\u53cb\u8bf4\u4ed6\u6700\u8fd1\u80a0\u80c3\u4e0d\u597d\uff0c\u6d88\u5316\u529f\u80fd\u5dee\uff0c\u5f88\u662f\u82e6\u607c\u3002\u4eca\u5929\u5c31\u548c\u5927\u5bb6\u6765\u8bf4\u8bf4\u80a0\u80c3\u4e0d\u597d\u5e94\u8be5\u5982\u4f55\u5904\u7406\u300201\uff0c\u80a0\u80c3\u955c\u68c0\u67e5\u5bf9\u4e8e\u80a0\u80c3\u4e0d\u597d\u7684\u4eba\u5462\uff0c\u9996...",
+      "url": "https://post.smzdm.com/p/aqq8zekp/",
+      "urlToImage": "https://a.zdmimg.com/202312/03/656c3c30d6d5d9337.jpg_fo742.jpg",
+      "publishedAt": "2023-12-03 08:49:04",
+      "content": "01 easy 02 [1] [2] 03 04 14108.41 CFU/g[3] 7105.52 CFU/g 1 2 3 1 Oezbas, Z. Y., and S. A. Aytac. \"Behaviour of Yersinia enterocolitica and Aeromonas hydrophila in yogurt made with probiot\u2026 [+387 chars]",
+      "retrievedAt": "2023-12-04 19:05:35.627083",
+      "internal_id": "505f8d5c7317e84ef13711a1cb020775d8bc3e48b8158f4361bb5f7c21592432",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3493,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "How climate change is making the world sick",
+      "description": "DUBAI: Heat stress. Lung damage from wildfire smoke. The spread of disease-carrying mosquitoes into new regions as temperatures rise. These are just a few of the ways that public health has been impacted and compounded by climate change - a focus for the firs\u2026",
+      "url": "https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--1nx-uErK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-03t060523z_1_lynxmpejb201c_rtroptp_3_europe-weather-greece-wildfire.jpg?itok=fVnJeRXR",
+      "publishedAt": "2023-12-03 08:25:47",
+      "content": "Climate change is also having an unpredictable impact on malaria, with 5 million more cases registered in 2022 than the previous year - reaching a total of 249 million, the WHO's World Malaria Report\u2026 [+1420 chars]",
+      "retrievedAt": "2023-12-04 19:05:34.448645",
+      "internal_id": "c7079d4afd24599c557dfd1fcbfe718a796fb4053ede065a5c97077a24962728",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3494,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
+      "title": "Jakarta completes mpox vaccination to 411 people: Official",
+      "description": "The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine. \"There are 411 people who have completed the mpox vaccination,\" the Head of the ...",
+      "url": "https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/03/Screenshot_20231103_005818_YouTube.jpg",
+      "publishedAt": "2023-12-03 07:44:20",
+      "content": "Jakarta (ANTARA) - The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine.\"There are 411 people who have completed the mpox vaccin\u2026 [+1828 chars]",
+      "retrievedAt": "2023-12-04 19:05:35.196710",
+      "internal_id": "c5acb8b59a6389cc69650aecd3b513ffc2fd8ab98aa38b69dd6a07f3e691344f",
       "publishedAtLabel": "Dec 3"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2024-01-16 19:05
-- **Most recent article:** 2024-01-15 18:40:45
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-01-17 07:06
+- **Most recent article:** 2024-01-16 06:56:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 61 | 42 | 69 | 37 | 2 | 52 | 35 | 11 | 309 |
-| malaria | 23 | 24 | 24 | 22 | 2 | 11 | 51 | 5 | 162 |
-| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 4 | 85 |
-| mpox | 14 | 24 | 15 | 12 | 0 | 2 | 2 | 0 | 69 |
+| dengue | 62 | 42 | 69 | 37 | 2 | 52 | 35 | 23 | 322 |
+| malaria | 24 | 24 | 24 | 22 | 2 | 11 | 51 | 6 | 164 |
+| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 10 | 91 |
+| mpox | 15 | 24 | 15 | 12 | 0 | 2 | 2 | 0 | 70 |
 | zika | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 1 | 46 |
-| meningitis | 7 | 9 | 4 | 4 | 0 | 2 | 11 | 0 | 37 |
+| meningitis | 8 | 9 | 4 | 4 | 0 | 2 | 11 | 0 | 38 |
 | chikungunya | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 37 |
 | rabies | 4 | 7 | 2 | 7 | 1 | 2 | 5 | 1 | 29 |
 | pertussis | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 0 | 15 |
 | leptospirosis | 3 | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 9 |
 | typhoid | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 0 | 9 |
-| yersinia | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 3 |
+| yersinia | 2 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -34,11 +34,27 @@ Source: [News API](https://newsapi.org/)
 
 - [Zika virus could potentially treat cancer, another early study hints](https://www.livescience.com/health/cancer/zika-virus-could-potentially-treat-cancer-another-early-study-hints) (Live Science)
 
+## 24-3 (yersinia)
+
+- [В Иордании обнаружили жертв Юстиниановой чумы](https://nplus1.ru/news/2024/01/16/justinian-plague) (Nplus1.ru)
+
 ## 24-3 (rabies)
 
 - [All dog-bite victims in Sarawak stable, says Health Ministry](https://www.thestar.com.my/news/nation/2024/01/14/all-dog-bite-victims-in-sarawak-stable-says-health-ministry) (The Star Online)
 
 ## 24-3 (measles)
+
+- [Measles alert issued in Western Sydney after baby tests positive to the highly contagious disease](https://www.abc.net.au/news/2024-01-16/nsw-measles-alert-western-sydney-case-baby/103325190) (ABC News (AU))
+
+- [NSW Health issues urgent measles alert for western Sydney residents after infectious baby returned from overseas](https://www.skynews.com.au/australia-news/nsw-health-issues-urgent-measles-alert-for-western-sydney-residents-after-infectious-baby-returned-from-overseas/news-story/7ba6201fb500382ac32ab0801b4205ab) (Sky News Australia)
+
+- [Virginia health officials warn travelers of potential measles exposure](https://www.cbsnews.com/news/measles-exposure-travelers-northern-virginia-dc-dulles-reagan-airports/) (CBS News)
+
+- [BBC corrects article claiming 5% measles vaccination rate - Full Fact](https://fullfact.org/health/bbc-5-percent-measles-west-midlands/) (Full Fact)
+
+- [Virginia officials warn of potential measles exposure at Dulles, Reagan airports](http://www.nbcwashington.com/news/local/northern-virginia/virginia-officials-warn-of-potential-measles-exposure-at-dulles-reagan-airports/3516566/) (NBC4 Washington)
+
+- [Doctors' group offers free measles vaccines in Philadelphia to fight outbreak](https://abcnews.go.com/Health/doctors-group-offers-free-measles-vaccines-philadelphia-fight/story?id=106377644) (ABC News)
 
 - [Black Doctors COVID Consortium to offer free measles vaccines at North Philadelphia health clinic to combat recent outbreak](https://6abc.com/black-doctors-covid-consortium-measles-vaccine-pop-up-clinic-philadelphia/14324864/) (WPVI-TV)
 
@@ -49,6 +65,8 @@ Source: [News API](https://newsapi.org/)
 - [What is measles? Camden County Health Department closely monitoring 1 confirmed case](https://6abc.com/camden-county-health-department-measles-case-nj-news/14318022/) (WPVI-TV)
 
 ## 24-3 (malaria)
+
+- [Cape Verde: Malaria-Free Cape Verde a 'Beacon of Hope'](https://allafrica.com/stories/202401160002.html) (AllAfrica - Top Africa News)
 
 - [Desarrollan unas herramientas ultrasensibles para detectar la malaria asintomática](https://www.infosalus.com/salud-investigacion/noticia-desarrollan-herramientas-ultrasensibles-detectar-malaria-asintomatica-20240115181415.html) (Infosalus.com)
 
@@ -61,6 +79,30 @@ Source: [News API](https://newsapi.org/)
 - [Un estudio avala un tratamiento para prevenir la malaria durante el embarazo en mujeres con VIH](https://www.infosalus.com/salud-investigacion/noticia-estudio-avala-tratamiento-prevenir-malaria-embarazo-mujeres-vih-20240115095713.html) (Infosalus.com)
 
 ## 24-3 (dengue)
+
+- [Over 5,000 dengue cases reported in Sri Lanka in January](http://en.people.cn/n3/2024/0116/c90000-20122578.html) (People.cn)
+
+- [Dengue: conheça os sintomas mais comuns da infecção](https://www.metropoles.com/saude/quais-sao-os-sintomas-da-dengue) (Metropoles.com)
+
+- [Ministério da Saúde priorizará vacinação contra a dengue em crianças e adolescentes](https://olhardigital.com.br/2024/01/15/medicina-e-saude/ministerio-da-saude-priorizara-vacinacao-contra-a-dengue-em-criancas-e-adolescentes/) (Olhardigital.com.br)
+
+- [Vacina contra a dengue: crianças e adolescentes serão priorizados na campanha pelo SUS](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/vacina-contra-a-dengue-criancas-e-adolescentes-serao-priorizados-na-campanha-pelo-sus-16012024) (R7.com)
+
+- [Público prioritário da vacina da dengue terá entre 6 e 16 anos, diz governo; entenda](https://www.terra.com.br/vida-e-estilo/saude/publico-prioritario-da-vacina-da-dengue-tera-entre-6-e-16-anos-diz-governo-entenda,741b2adbcc164c69e9c20e387ad4dcd22v2xjapf.html) (Terra.com.br)
+
+- [De jarra de soro à prova do laço: entenda atendimento contra a dengue no bairro com mais casos em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/15/de-jarra-de-soro-a-prova-do-laco-entenda-atendimento-contra-a-dengue-no-bairro-com-mais-casos-em-campinas.ghtml) (Globo)
+
+- [Ministério da Saúde vai priorizar vacinação de crianças e adolescentes de 6 a 16 anos contra a dengue](https://revistaoeste.com/brasil/ministerio-da-saude-priorizar-vacinacao-criancas-adolescentes-6-16-anos-contra-dengue/) (Revistaoeste.com)
+
+- [Vacinação contra a dengue no SUS vai priorizar crianças e jovens](https://saude.ig.com.br/2024-01-15/vacina-dengue-prioridade-jovens-criancas.html) (Ig.com.br)
+
+- [Vacina contra dengue: pessoas entre 6 e 16 anos terão prioridade](https://veja.abril.com.br/saude/vacina-contra-dengue-pessoas-entre-6-e-16-anos-terao-prioridade) (Abril.com.br)
+
+- [Saúde quer priorizar vacina contra dengue para pessoas entre 6 e 16 anos](https://valor.globo.com/brasil/noticia/2024/01/15/saude-quer-priorizar-vacina-contra-dengue-para-pessoas-entre-6-e-16-anos.ghtml) (Globo)
+
+- [Vacina contra dengue: prioridade será para pessoas entre 6 e 16 anos](https://www.metropoles.com/brasil/vacina-contra-dengue-prioridade-sera-para-pessoas-entre-6-e-16-anos) (Metropoles.com)
+
+- [Alerta ligado: casos de dengue disparam em vários estados](https://ultimosegundo.ig.com.br/parceiros/flipar/2024-01-15/alerta-ligado--casos-de-dengue-disparam-em-varios-estados.html.ampstories) (Ig.com.br)
 
 - [Cidade de SP identifica primeiro caso de sorotipo 3 do vírus da dengue](https://saude.ig.com.br/2024-01-15/dengue-sorotipo-3-sp.html) (Ig.com.br)
 
@@ -1514,6 +1556,8 @@ Source: [News API](https://newsapi.org/)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 6th December 2023](https://iasbaba.com/2023/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-6th-december-2023/) (Iasbaba.com)
 
+- [益生菌，真的能调节肠胃吗？](https://post.smzdm.com/p/aqq8zekp/) (Smzdm.com)
+
 ## 23-49 (typhoid)
 
 - [Yellow canteens: a colourful way to keep kids healthy](https://www.springwise.com/innovation/education/painting-canteens-yellow-to-keep-kids-healthy/) (Springwise.com)
@@ -1568,6 +1612,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Stigma, regulatory barriers delay mpox response in country that needs it most](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most-45498818/) (Marketscreener.com)
 
+- [Jakarta completes mpox vaccination to 411 people: Official](https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official) (Antaranews.com)
+
 ## 23-49 (meningitis)
 
 - [ACTG Announces Launch of Clinical Trial Evaluating Novel Treatment for Tuberculous Meningitis](https://www.globenewswire.com/news-release/2023/12/07/2792865/0/en/ACTG-Announces-Launch-of-Clinical-Trial-Evaluating-Novel-Treatment-for-Tuberculous-Meningitis.html) (GlobeNewswire)
@@ -1583,6 +1629,8 @@ Source: [News API](https://newsapi.org/)
 - [Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections](https://www.bmj.com/content/383/bmj.p2849) (The BMJ)
 
 - [Mount Hope community mourns loss of vibrant young woman to rare viral meningitis case](https://turnto10.com/news/local/mount-hope-community-mourns-loss-of-vibrant-young-woman-to-rare-viral-meningitis-case) (Turn to 10)
+
+- [La ONG sevillana África Arco Iris administra 8.500 vacunas contra la meningitis a niños de Costa de Marfil](https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html) (Europapress.es)
 
 ## 23-49 (measles)
 
@@ -1643,6 +1691,8 @@ Source: [News API](https://newsapi.org/)
 - [Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO](https://allafrica.com/stories/202312040455.html) (AllAfrica - Top Africa News)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
+
+- [How climate change is making the world sick](https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476) (CNA)
 
 ## 23-49 (leptospirosis)
 
@@ -1775,6 +1825,8 @@ Source: [News API](https://newsapi.org/)
 - [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika) (Metropoles.com)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
+
+- [Bangladesh faces its worst dengue epidemic on record](https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html) (Le Monde)
 
 ## 23-49 (chikungunya)
 
