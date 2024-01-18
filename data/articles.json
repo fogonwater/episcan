@@ -1,8 +1,314 @@
 {
-  "last_updated": "2024-01-17 19:05",
-  "count_articles_total": 794,
+  "last_updated": "2024-01-18 07:06",
+  "count_articles_total": 816,
   "count_articles_new": 17,
   "articles": [
+    {
+      "id": 4313,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Introduction and Spread of Dengue Virus 3, Florida, USA, May 2022\u2013April 2023",
+      "description": "Dengue Virus 3, Florida, USA, May 2022\u2013April 2023",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/2/23-1615_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-01-17 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue virus (DENV) is not\u2026 [+9960 chars]",
+      "retrievedAt": "2024-01-18 07:06:02.490258",
+      "internal_id": "ff340a7fe2d506266951ae41aed5cd3d2574f4a3ee4fb660a95cf9c20cd0dd6b",
+      "publishedAtLabel": "Jan 17"
+    },
+    {
+      "id": 4319,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Lymphocytic Choriomeningitis Virus Lineage V in Wood Mice, Germany",
+      "description": "Lymphocytic Choriomeningitis Virus Lineage V in Wood Mice, Germany",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/2/23-0868_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-01-17 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released. Lymphocytic Choriomening\u2026 [+8816 chars]",
+      "retrievedAt": "2024-01-18 07:06:02.833493",
+      "internal_id": "448b74cdbae8b41fa136de1e83b095ee7e53241b9e3e9471b1fdde95e6aa8cf5",
+      "publishedAtLabel": "Jan 17"
+    },
+    {
+      "id": 4321,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Evidence of Zika Virus Reinfection by Genome Diversity and Antibody Response Analysis, Brazil",
+      "description": "Evidence of Zika Virus Reinfection",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/2/23-0122_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-01-17 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Zika virus (ZIKV) is an ar\u2026 [+28442 chars]",
+      "retrievedAt": "2024-01-18 07:06:04.352523",
+      "internal_id": "651e700c85954cb61947a85d9b68a52c63e8d668e46ec0e10c2704c97022940d",
+      "publishedAtLabel": "Jan 17"
+    },
+    {
+      "id": 4312,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Jessica Macaulay",
+      "title": "1 new case of measles, 9 total cases confirmed by Philadelphia Department of Public Health",
+      "description": "To prevent a further outbreak, the Health Department has compiled a list of times and places where Philadelphia residents can receive the measles, mumps and rubella vaccine for free.",
+      "url": "https://www.cbsnews.com/philadelphia/news/1-new-case-of-measles-9-total-cases-philadelphia-health-department/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/05/69d6c127-0c8c-4142-93d8-4171e395d95c/thumbnail/1200x630/363aa513f8cd92acb5ac3edf04ccefc6/gettyimages-1328334860.jpg?v=50926e3bde2e7c9caafa13eb3f9693b5",
+      "publishedAt": "2024-01-17 03:45:26",
+      "content": "PHILADELPHIA (CBS) -- One new case of measles was confirmed by the Philadelphia Department of Public Health on Tuesday, bringing the total number of confirmed cases to nine. Even though 93% of Phil\u2026 [+1928 chars]",
+      "retrievedAt": "2024-01-18 07:06:01.775558",
+      "internal_id": "b16aefd1b0fb9d7e9e7f60581013aae7078466bdfbc6b21667be03668753779a",
+      "publishedAtLabel": "Jan 17"
+    },
+    {
+      "id": 4320,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Joaqu\u00edn P\u00e9rez Laudizio",
+      "title": "Viajero, juez y abuelo: qui\u00e9n era David Gernant, el turista de Estados Unidos que muri\u00f3 de malaria en el Hospital Fern\u00e1ndez",
+      "description": "El hombre de 80 a\u00f1os falleci\u00f3 en la ciudad de Buenos Aires tras presentar un cuadro de alta fiebre e hipoglucemia en Ushuaia; viaj\u00f3 por m\u00e1s de 15 pa\u00edses; presumen que se contagi\u00f3 en la India",
+      "url": "https://www.lanacion.com.ar/sociedad/viajero-juez-y-abuelo-quien-era-david-gernant-el-turista-de-estados-unidos-que-murio-de-malaria-en-nid16012024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/david-R7EZFLQXTZE6RPEGFQQLRFJQNY.jpg?auth=d7ceab77560bcbcd26e523cc2c9f73f711141c43dd21ca6b6f940ff76d6895e6&width=768&quality=70&smart=false",
+      "publishedAt": "2024-01-17 02:45:21",
+      "content": "Siempre fui afortunado . As\u00ed se describ\u00eda David Gernant, el turista de Estados Unidos que muri\u00f3 el domingo 7 de enero en la ciudad de Buenos Aires de Malaria. Abogado, graduado con honores de la Uni\u2026 [+4243 chars]",
+      "retrievedAt": "2024-01-18 07:06:03.640171",
+      "internal_id": "508d4e3123fc5c4cb91c174aee0f66acc5350656f3517f917f968db84bb8d4c9",
+      "publishedAtLabel": "Jan 17"
+    },
+    {
+      "id": 4308,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "6abc Digital Staff",
+      "title": "9th case of measles confirmed in Philadelphia as city organizes vaccination opportunities",
+      "description": "9th case of measles confirmed in Philadelphia as city organizes vaccination opportunities6abc.com",
+      "url": "https://6abc.com/measles-outbreak-vaccination-clinics-philadelphia/14331178/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14331588_011624-wpvi-measles-cases-11pm-video-vid.jpg?w=1600",
+      "publishedAt": "2024-01-17 02:10:40",
+      "content": "PHILADELPHIA (WPVI) -- The City of Philadelphia confirmed an additional case of measles on Tuesday night, bringing the total number of confirmed cases to nine. The health department says eight of th\u2026 [+1854 chars]",
+      "retrievedAt": "2024-01-18 07:06:01.745295",
+      "internal_id": "de0553d91763d2745dcfb7b498c9d4850eac526b2c0450d511b5240da33b4e3b",
+      "publishedAtLabel": "Jan 17"
+    },
+    {
+      "id": 4311,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Thenationalpulse.com",
+      "author": "Pulse Wires",
+      "title": "DC Health Officials Warn of Measles Exposure At Dulles, Reagan Airports.",
+      "description": "Health officials have warned that travelers to Dulles and Ronald Reagan airports may have been exposed to the measles after an individual with a",
+      "url": "https://thenationalpulse.com/2024/01/16/dc-health-officials-warn-of-measles-exposure-at-dulles-reagan-airports/",
+      "urlToImage": "https://thenationalpulse.com/wp-content/uploads/2024/01/8368421565_78c4cb3593_b.jpg",
+      "publishedAt": "2024-01-16 23:01:26",
+      "content": "Poland\u2019s new deputy justice minister, a gay activist, has announced new laws outlawing \u201chate speech\u201d on the basis of sexual orientation, gender, gender identity, and disability. Krzysztof miszek say\u2026 [+1586 chars]",
+      "retrievedAt": "2024-01-18 07:06:01.769079",
+      "internal_id": "5cf80115403ff599d545bb5c17a06337a41358af58c1b4603d0a4c7a32f176da",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4306,
+      "query": [
+        "measles"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Natalie Venegas",
+      "title": "'Highly Contagious' Measles Warning Sparks Questions",
+      "description": "The Virginia Public Health Department announced a case of measles, raising questions among social media users over the source and vaccines.",
+      "url": "https://www.newsweek.com/virginia-measles-case-sparks-questions-1861287",
+      "urlToImage": "https://d.newsweek.com/en/full/2336639/measles-vaccine.jpg",
+      "publishedAt": "2024-01-16 22:55:13",
+      "content": "Virginia's warning on Saturday to travelers that they may have been exposed to \"highly contagious\" measles has sparked concern across social media. The Virginia Public Health Department (VDH) announ\u2026 [+4139 chars]",
+      "retrievedAt": "2024-01-18 07:06:01.722620",
+      "internal_id": "3ba2a843f1befed960bf9230cd98ac72b89daaef69b7bd7bf2dc693070723f92",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4305,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Kommersant.ru",
+      "author": null,
+      "title": "\u041a\u0430\u0448\u0435\u043b\u044c \u0443\u0445\u043e\u0434\u0438\u0442 \u0432 \u043e\u0442\u0440\u044b\u0432 // \u0412\u0440\u0430\u0447\u0438 \u043e\u0431\u044a\u044f\u0441\u043d\u0438\u043b\u0438 \u0440\u043e\u0441\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u0438 \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u043c\u0438\u0433\u0440\u0430\u0446\u0438\u0435\u0439 \u0438 \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c\u044e \u0430\u043d\u0442\u0438\u043f\u0440\u0438\u0432\u0438\u0432\u043e\u0447\u043d\u0438\u043a\u043e\u0432",
+      "description": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u043e \u0432\u044b\u0440\u043e\u0441\u043b\u0430 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c \u043a\u043e\u043a\u043b\u044e\u0448\u0435\u043c: \u0435\u0441\u043b\u0438 \u0437\u0430 \u0432\u0435\u0441\u044c 2022 \u0433\u043e\u0434 \u0431\u044b\u043b\u043e \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043e 3,1 \u0442\u044b\u0441. \u0441\u043b\u0443\u0447\u0430\u0435\u0432, \u0442\u043e \u0437\u0430 \u0434\u0435\u0441\u044f\u0442\u044c \u043c\u0435\u0441\u044f\u0446\u0435\u0432 2023 \u0433\u043e\u0434\u0430 \u2014 27,8 \u0442\u044b\u0441. \u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0435\u0440\u0432\u0438\u0441 \u00ab\u0421\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0438\u043a \u0432\u0440\u0430\u0447\u0430\u00bb \u043f\u0440\u043e\u0432\u0435\u043b \u043e\u043f\u0440\u043e\u0441 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0435\u0439 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u043d\u0430 \u044d\u0442\u0443 \u0442\u0435\u043c\u0443\u2026",
+      "url": "https://www.kommersant.ru/doc/6454690",
+      "urlToImage": "https://im.kommersant.ru/SocialPics/6454690_49_2496646_699252831",
+      "publishedAt": "2024-01-16 22:08:42",
+      "content": ": 2022 3,1 . , 2023 27,8 . \u00ab \u00bb . 24,5% ; 40% , . . \u00ab 2023 , COVID-19\u00bb, . : 2023 11,5 100 . . , \u00ab- \u00bb, 2023 27,8 . , . 2022 3,1 . , 2021- 1,1 . 2019 14,4 . . , Bordetella pertussis. , . \u00ab \u00bb 2023 \u2026 [+588 chars]",
+      "retrievedAt": "2024-01-18 07:06:00.768004",
+      "internal_id": "3928798bd6076d9245b514c7de79a90f5bb57130ec00191df6e654c94eacbb7e",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4314,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "Queiroga diz que Lula foi 'negligente' com vacina contra dengue",
+      "description": "O ex-ministro da Sa\u00fade afirmou que os imunizantes contra a dengue \"foram esnobados\u201d pelo governo",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2024-01-16/queiroga-diz-que-lula-foi-negligente-vacina-contra-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/20/36/cz/2036cz943fja048zdd8ylq3qa.jpg",
+      "publishedAt": "2024-01-16 21:31:26",
+      "content": "O ex-ministro da Sa\u00fade do governo de Jair Bolsonaro (PL), Marcelo Queiroga (PL), afirmou que a atual gest\u00e3o da pasta foi \"negligente\" quanto a aquisi\u00e7\u00e3o da vacina contra a dengue. Segundo Queiroga, o\u2026 [+2386 chars]",
+      "retrievedAt": "2024-01-18 07:06:02.498130",
+      "internal_id": "c46345578e8085c54ea18f1d5a08e472cd5a753bacd2b06f822c76d056d100a4",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4317,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Vacina\u00e7\u00e3o contra a dengue em 2024 deve cobrir apenas pouco mais de 1% dos brasileiros",
+      "description": "A vacina\u00e7\u00e3o contra a dengue deve come\u00e7ar no m\u00eas que vem, segundo o Minist\u00e9rio da Sa\u00fade. Mesmo assim, a imuniza\u00e7\u00e3o da maioria das pessoas ainda...",
+      "url": "https://noticias.r7.com/jr-na-tv/videos/vacinacao-contra-a-dengue-em-2024-deve-cobrir-apenas-pouco-mais-de-1-dos-brasileiros-16012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/16/65a71228416eb98a4500015c/df4234388f0841caa37786eea70a7bf9__2449124_EPP_1601_JR_BSA_DENGUE_thumb_thumb.jpg",
+      "publishedAt": "2024-01-16 21:01:49",
+      "content": "A vacina\u00e7\u00e3o contra a dengue deve come\u00e7ar no m\u00eas que vem, segundo o Minist\u00e9rio da Sa\u00fade. Mesmo assim, a imuniza\u00e7\u00e3o da maioria das pessoas ainda est\u00e1 muito distante. Neste ano, apenas pouco mais de 1% \u2026 [+484 chars]",
+      "retrievedAt": "2024-01-18 07:06:02.553206",
+      "internal_id": "baf632f83b23c7eff80758c2131709bbe33df129413f8537db50a0b73af815e6",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4318,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Procura por vacina\u00e7\u00e3o contra dengue em laborat\u00f3rios e farm\u00e1cias \u00e9 grande em BH",
+      "description": "A procura por vacina\u00e7\u00e3o contra a dengue em laborat\u00f3rios e farm\u00e1cias \u00e9 grande em Belo Horizonte. O Minist\u00e9rio da Sa\u00fade anunciou que o imunizant...",
+      "url": "https://noticias.r7.com/minas-gerais/mg-record/videos/procura-por-vacinacao-contra-dengue-em-laboratorios-e-farmacias-e-grande-em-bh-16012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/16/65a711becd77c0d82000028f/a652e73ad904483a9cc961999c86020f__Procura_por_vacina__o_contra_dengue_em_laborat_rios_e_farm_cias___grande_em_BH_thumb.jpg",
+      "publishedAt": "2024-01-16 20:45:58",
+      "content": "A procura por vacina\u00e7\u00e3o contra a dengue em laborat\u00f3rios e farm\u00e1cias \u00e9 grande em Belo Horizonte. O Minist\u00e9rio da Sa\u00fade anunciou que o imunizante vai ser disponibilizado pelo SUS somente em fevereiro. \u2026 [+40 chars]",
+      "retrievedAt": "2024-01-18 07:06:02.561854",
+      "internal_id": "102c1827f2840a98d68ad15cf1af757872423072b0a8a54d018f26643db791ad",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4315,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Infectologista alerta para sintomas de complica\u00e7\u00f5es da dengue. Confira",
+      "description": "Em momento de aumento dos casos de dengue pelo Brasil, m\u00e9dica ensina a identificar e prevenir casos graves a partir de seus sintomas",
+      "url": "https://www.metropoles.com/saude/sintomas-de-complicacoes-da-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/05124700/Foto-mosquito-da-dengue-1.jpg",
+      "publishedAt": "2024-01-16 20:42:01",
+      "content": "Somente nos 12 primeiros dias de janeiro, segundo o Minist\u00e9rio da Sa\u00fade, o Brasil registrou 10.329 mil casos prov\u00e1veis de dengue e um \u00f3bito foi confirmado. O n\u00famero de casos suspeitos \u00e9 25% maior que\u2026 [+5657 chars]",
+      "retrievedAt": "2024-01-18 07:06:02.520388",
+      "internal_id": "51b601e9c1931ce686183ad22a34e110fbb5cf6c56266ca2f60fbac00496fe99",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4309,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "One America News Network",
+      "author": null,
+      "title": "Health Administrators Warn Of Potential Measles Risk At Dulles, Ronald Reagan Airports",
+      "description": "Health administrators in the United States capital are advising thousands about a potential measles risk after an individual with a \u201cconfirmed case\u201d traveled through the Dulles International Airport and Ronald Reagan Washington National Airport.",
+      "url": "https://www.oann.com/newsroom/health-administrators-warn-of-potential-measles-risk-at-dulles-ronald-reagan-airports/",
+      "urlToImage": "https://c3.oann.com/wp-content/uploads/2024/01/Dulles-terminal-1.webp",
+      "publishedAt": "2024-01-16 20:12:30",
+      "content": "Passengers pull their rolling suitcases across a lighted glass bridge at Dulles International Airport in Dulles, Virginia, on Sept. 24, 2016. (Smith Collection/Gado/Getty Images) OANs Elizabeth Volb\u2026 [+3255 chars]",
+      "retrievedAt": "2024-01-18 07:06:01.749600",
+      "internal_id": "5f94bf52def867fbc2331ee0731436448d0ccbc93ded425d314f79f9e8d872c2",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4310,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Toddstarnes.com",
+      "author": "Todd Starnes",
+      "title": "BULLETIN: Measles Scare at Two DC-Area Airports - Todd Starnes",
+      "description": "DEVELOPING STORY: Travelers at Dulles International Airport and Reagan National may have been exposed to a highly contagious measles virus. [\u2026]",
+      "url": "https://www.toddstarnes.com/health/bulletin-measles-scare-at-two-dc-area-airports/",
+      "urlToImage": "https://www.toddstarnes.com/wp-content/uploads/2024/01/shutterstock_2136291905.jpg",
+      "publishedAt": "2024-01-16 20:03:12",
+      "content": "DEVELOPING STORY: Travelers at Dulles International Airport and Reagan National may have been exposed to a highly contagious measles virus. The disease has been linked to an \u201cinternational traveler\u201d \u2026 [+1291 chars]",
+      "retrievedAt": "2024-01-18 07:06:01.758564",
+      "internal_id": "5504dd27d7fb475ef6a49a432d5ddaa9ddd7ee6368a752b95d5088986c387cfd",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4307,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Jack Phillips",
+      "title": "Health Officials Warn of Possible Measles Exposure at 2 Major Airports",
+      "description": "Health Officials Warn of Possible Measles Exposure at 2 Major Airportstheepochtimes.com",
+      "url": "https://www.theepochtimes.com/health/health-officials-warn-of-possible-measles-exposure-at-2-major-airports-5567168",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2024/01/16/id5567243-US-traveler-GettyImages-1870878936-1080x720.jpg",
+      "publishedAt": "2024-01-16 19:58:43",
+      "content": "Health authorities in the District of Columbia and Virginia issued a warning about a possible measles exposure on Tuesday after a person with a confirmed case of the highly contagious virus traveled \u2026 [+4727 chars]",
+      "retrievedAt": "2024-01-18 07:06:01.738226",
+      "internal_id": "c4ca892913ce086c92934a9283fee4df58ffd8272d229f0f421805b334e8a938",
+      "publishedAtLabel": "Jan 16"
+    },
+    {
+      "id": 4316,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Alma Preta",
+      "title": "Minist\u00e9rio da Sa\u00fade anuncia in\u00edcio da vacina\u00e7\u00e3o contra dengue",
+      "description": "Previs\u00e3o \u00e9 iniciar imuniza\u00e7\u00e3o para crian\u00e7as e adolescentes em fevereiro O post Minist\u00e9rio da Sa\u00fade anuncia in\u00edcio da vacina\u00e7\u00e3o contra dengue apareceu primeiro em AlmaPreta.",
+      "url": "https://www.terra.com.br/nos/ministerio-da-saude-anuncia-inicio-da-vacinacao-contra-dengue,4af77b841961af1cb37c3c9b2de1b496l5cdisfa.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/16/1790750923-fotos-site-novo-7-1.jpg",
+      "publishedAt": "2024-01-16 19:36:15",
+      "content": "Ap\u00f3s o an\u00fancio de que o Brasil ser\u00e1 o primeiro pa\u00eds a oferecer a vacina contra a dengue gratuitamente, o Minist\u00e9rio da Sa\u00fade informou, nesta segunda-feira (15), que vai priorizar a faixa et\u00e1ria de 6 \u2026 [+1470 chars]",
+      "retrievedAt": "2024-01-18 07:06:02.529744",
+      "internal_id": "83079dc11de1626fb6a3f46913f1e2930ff3cce839b389e340bd3680cc1d46c5",
+      "publishedAtLabel": "Jan 16"
+    },
     {
       "id": 4289,
       "query": [
@@ -14346,6 +14652,96 @@
       "content": "22-year-old Mount Hope High School graduate Maddie Pacheco is missed tremendously after died from a case of viral meningitis last month. According to the CDC, its the most common form of meningitis,\u2026 [+1998 chars]",
       "retrievedAt": "2023-12-05 07:05:52.140697",
       "internal_id": "9390b6770867c546231d42268fc5dfc6a5573589370e93f1dd9d425987a4cbce",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3491,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Carole Dieterich",
+      "title": "Bangladesh faces its worst dengue epidemic on record",
+      "description": "Characterized in Bangladesh by long erratic monsoons and higher temperatures, climate change is promoting the reproduction of 'Aedes' mosquitoes, the main vectors of dengue fever, which this year caused over 1,600 deaths.",
+      "url": "https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html",
+      "urlToImage": "https://img.lemde.fr/2023/11/14/0/0/8256/5504/1440/960/60/0/7bbcc51_2023-11-14t034056z-1373459227-rc2wq3azi8y4-rtrmadp-3-bangladesh-disease-dengue.JPG",
+      "publishedAt": "2023-12-03 16:39:18",
+      "content": "Mosquito control operation in Dhaka, Bangladesh, on October 12, 2023. FATIMA TUJ JOHORA / REUTERS Dozens of feverish patients on drips were lying on beds, lined up one after the other, in a vast roo\u2026 [+3077 chars]",
+      "retrievedAt": "2023-12-04 19:05:33.775557",
+      "internal_id": "f61d73d2b6b101f4664b5cd2c7616cfed0c88f6921fca0b94902b344f4d92cba",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3492,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "La ONG sevillana \u00c1frica Arco Iris administra 8.500 vacunas contra la meningitis a ni\u00f1os de Costa de Marfil",
+      "description": "La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil.",
+      "url": "https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231203110951_1200.jpg",
+      "publishedAt": "2023-12-03 10:09:51",
+      "content": "SEVILLA, 3 Dic. (EUROPA PRESS) - La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil. \u2026 [+2046 chars]",
+      "retrievedAt": "2023-12-04 19:05:33.970872",
+      "internal_id": "7320003ad3df43a13d8537c2f33eda0e441efc16b7ae525c1ad2c2b994b89a13",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3495,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Smzdm.com",
+      "author": "\u674e\u96f7\u535a\u58eb",
+      "title": "\u76ca\u751f\u83cc\uff0c\u771f\u7684\u80fd\u8c03\u8282\u80a0\u80c3\u5417\uff1f",
+      "description": "\u73b0\u5728\u7684\u5e74\u8f7b\u4eba\u751f\u6d3b\u8282\u594f\u5feb\uff0c\u4f5c\u606f\u4e0d\u89c4\u5f8b\uff0c\u5bfc\u81f4\u5f88\u591a\u4eba\u80a0\u80c3\u90fd\u4e0d\u5927\u597d\u3002\u8fd9\u4e0d\uff0c\u4eca\u5929\u5c31\u6709\u4e00\u4f4d\u670b\u53cb\u8bf4\u4ed6\u6700\u8fd1\u80a0\u80c3\u4e0d\u597d\uff0c\u6d88\u5316\u529f\u80fd\u5dee\uff0c\u5f88\u662f\u82e6\u607c\u3002\u4eca\u5929\u5c31\u548c\u5927\u5bb6\u6765\u8bf4\u8bf4\u80a0\u80c3\u4e0d\u597d\u5e94\u8be5\u5982\u4f55\u5904\u7406\u300201\uff0c\u80a0\u80c3\u955c\u68c0\u67e5\u5bf9\u4e8e\u80a0\u80c3\u4e0d\u597d\u7684\u4eba\u5462\uff0c\u9996...",
+      "url": "https://post.smzdm.com/p/aqq8zekp/",
+      "urlToImage": "https://a.zdmimg.com/202312/03/656c3c30d6d5d9337.jpg_fo742.jpg",
+      "publishedAt": "2023-12-03 08:49:04",
+      "content": "01 easy 02 [1] [2] 03 04 14108.41 CFU/g[3] 7105.52 CFU/g 1 2 3 1 Oezbas, Z. Y., and S. A. Aytac. \"Behaviour of Yersinia enterocolitica and Aeromonas hydrophila in yogurt made with probiot\u2026 [+387 chars]",
+      "retrievedAt": "2023-12-04 19:05:35.627083",
+      "internal_id": "505f8d5c7317e84ef13711a1cb020775d8bc3e48b8158f4361bb5f7c21592432",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3493,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "How climate change is making the world sick",
+      "description": "DUBAI: Heat stress. Lung damage from wildfire smoke. The spread of disease-carrying mosquitoes into new regions as temperatures rise. These are just a few of the ways that public health has been impacted and compounded by climate change - a focus for the firs\u2026",
+      "url": "https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--1nx-uErK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-03t060523z_1_lynxmpejb201c_rtroptp_3_europe-weather-greece-wildfire.jpg?itok=fVnJeRXR",
+      "publishedAt": "2023-12-03 08:25:47",
+      "content": "Climate change is also having an unpredictable impact on malaria, with 5 million more cases registered in 2022 than the previous year - reaching a total of 249 million, the WHO's World Malaria Report\u2026 [+1420 chars]",
+      "retrievedAt": "2023-12-04 19:05:34.448645",
+      "internal_id": "c7079d4afd24599c557dfd1fcbfe718a796fb4053ede065a5c97077a24962728",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3494,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
+      "title": "Jakarta completes mpox vaccination to 411 people: Official",
+      "description": "The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine. \"There are 411 people who have completed the mpox vaccination,\" the Head of the ...",
+      "url": "https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/03/Screenshot_20231103_005818_YouTube.jpg",
+      "publishedAt": "2023-12-03 07:44:20",
+      "content": "Jakarta (ANTARA) - The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine.\"There are 411 people who have completed the mpox vaccin\u2026 [+1828 chars]",
+      "retrievedAt": "2023-12-04 19:05:35.196710",
+      "internal_id": "c5acb8b59a6389cc69650aecd3b513ffc2fd8ab98aa38b69dd6a07f3e691344f",
       "publishedAtLabel": "Dec 3"
     }
   ]
