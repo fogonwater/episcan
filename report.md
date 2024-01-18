@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-01-18 07:06
-- **Most recent article:** 2024-01-17 05:00:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-01-18 19:05
+- **Most recent article:** 2024-01-17 17:31:57
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 62 | 42 | 69 | 37 | 2 | 52 | 35 | 36 | 335 |
-| malaria | 24 | 24 | 24 | 22 | 2 | 11 | 51 | 10 | 168 |
-| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 20 | 101 |
-| mpox | 15 | 24 | 15 | 12 | 0 | 2 | 2 | 1 | 71 |
-| zika | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 4 | 49 |
-| meningitis | 8 | 9 | 4 | 4 | 0 | 2 | 11 | 1 | 39 |
+| dengue | 61 | 42 | 69 | 37 | 2 | 52 | 35 | 39 | 337 |
+| malaria | 23 | 24 | 24 | 22 | 2 | 11 | 51 | 12 | 169 |
+| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 28 | 109 |
+| mpox | 14 | 24 | 15 | 12 | 0 | 2 | 2 | 1 | 70 |
+| zika | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 5 | 50 |
+| meningitis | 7 | 9 | 4 | 4 | 0 | 2 | 11 | 2 | 39 |
 | chikungunya | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 37 |
 | rabies | 4 | 7 | 2 | 7 | 1 | 2 | 5 | 1 | 29 |
-| pertussis | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 2 | 17 |
+| pertussis | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 3 | 18 |
 | leptospirosis | 3 | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 9 |
 | typhoid | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 0 | 9 |
-| yersinia | 2 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 5 |
+| yersinia | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -31,6 +31,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-3 (zika)
+
+- [¡Revelador! Estudio descubre que virus del Zika podría tratar el cáncer](https://www.eluniversal.com.co/salud/enfermedades/revelador-estudio-descubre-que-virus-del-zika-podria-tratar-el-cancer-LG9800915) (Eluniversal.com.co)
 
 - [Evidence of Zika Virus Reinfection by Genome Diversity and Antibody Response Analysis, Brazil](https://wwwnc.cdc.gov/eid/article/30/2/23-0122_article) (Cdc.gov)
 
@@ -50,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-3 (pertussis)
 
+- [Врач рассказала об осложнениях при коклюше](https://iz.ru/1635690/2024-01-17/vrach-rasskazala-ob-oslozhneniiakh-pri-kokliushe) (Iz.ru)
+
 - [Кашель уходит в отрыв // Врачи объяснили рост заболеваемости коклюшем в России миграцией и активностью антипрививочников](https://www.kommersant.ru/doc/6454690) (Kommersant.ru)
 
 - [Trends of inequality in DPT3 immunization services utilization in Ethiopia and its determinant factors: Evidence from Ethiopian demographic and health surveys, 2000–2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293337) (Plos.org)
@@ -60,9 +64,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-3 (meningitis)
 
+- [Patricia Pérez cuenta cómo está llevando el radical cambio de vida tras la enfermedad de Luis Canut](https://www.hola.com/actualidad/20240117246830/patricia-perez-cambio-vida-enfermedad-luis-canut-nsv/) (Hola)
+
 - [Lymphocytic Choriomeningitis Virus Lineage V in Wood Mice, Germany](https://wwwnc.cdc.gov/eid/article/30/2/23-0868_article) (Cdc.gov)
 
 ## 24-3 (measles)
+
+- [Confidence in Government on Vaccines and Public Health Plummets Following Pandemic, New Polling Shows – The Daily Sceptic](https://dailysceptic.org/2024/01/17/confidence-in-government-on-vaccines-and-public-health-plummets-following-pandemic-new-polling-shows/) (Dailysceptic.org)
+
+- [Health experts warn about possible ‘highly contagious’ measles outbreak in US](https://www.hindustantimes.com/world-news/us-news/health-experts-warn-about-possible-highly-contagious-measles-outbreak-in-us-101705503226748.html) (Hindustan Times)
+
+- [Measles Outbreak Map Shows States Where Cases Have Been Reported](https://www.newsweek.com/measles-outbreak-map-states-cases-reported-1861482) (Newsweek)
+
+- [Health Officials: Possible 'Highly Contagious' Measles Exposure At Dulles And Reagan Airports In DC Area](https://thepoliticalinsider.com/health-officials-possible-highly-contagious-measles-exposure-at-dulles-and-reagan-airports-in-dc-area/) (Thepoliticalinsider.com)
+
+- [Philadelphia measles outbreak: New case related to daycare](https://www.inquirer.com/health/philadelphia-measles-outbreak-mmr-vaccine-20240117.html) (The Philadelphia Inquirer)
+
+- [NSW Health warns south-west Sydney communities to be on the lookout for measles symptoms after confirmed case](https://www.skynews.com.au/australia-news/nsw-health-warns-southwest-sydney-communities-to-be-on-the-lookout-for-measles-symptoms-after-confirmed-case/news-story/cfdc99253b6b380843f1407805a0d214) (Sky News Australia)
+
+- [Two Major Airports Exposed To Measles Outbreak](https://crooksandliars.com/2024/01/two-major-airports-exposed-measles) (Crooksandliars.com)
+
+- [Second measles case this week confirmed after seven-month-old contracts the infectious disease](https://www.abc.net.au/news/2024-01-17/nsw-second-measles-case-sydney/103359820) (ABC News (AU))
 
 - [1 new case of measles, 9 total cases confirmed by Philadelphia Department of Public Health](https://www.cbsnews.com/philadelphia/news/1-new-case-of-measles-9-total-cases-philadelphia-health-department/) (CBS News)
 
@@ -106,6 +128,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-3 (malaria)
 
+- [Yale epidemiologists lead effort to boost disease surveillance in Chad](https://ysph.yale.edu/news-article/advanced-training-strengthens-disease-surveillance-in-chad/) (Yale.edu)
+
+- [Spurs International: Bissouma helps Mali to AFCON win, but might have malaria](https://cartilagefreecaptain.sbnation.com/2024/1/17/24041346/tottenham-hotspur-players-elsewhere-yves-bissouma-afcon-mali-south-africa-malaria) (SB Nation)
+
 - [Viajero, juez y abuelo: quién era David Gernant, el turista de Estados Unidos que murió de malaria en el Hospital Fernández](https://www.lanacion.com.ar/sociedad/viajero-juez-y-abuelo-quien-era-david-gernant-el-turista-de-estados-unidos-que-murio-de-malaria-en-nid16012024/) (La Nacion)
 
 - [En la ciudad: murió en el Hospital Fernández un turista de EE.UU. por malaria](https://www.lanacion.com.ar/sociedad/en-la-ciudad-murio-en-el-hospital-fernandez-un-turista-de-eeuu-por-malaria-nid16012024/) (La Nacion)
@@ -127,6 +153,12 @@ Source: [News API](https://newsapi.org/)
 - [Un estudio avala un tratamiento para prevenir la malaria durante el embarazo en mujeres con VIH](https://www.infosalus.com/salud-investigacion/noticia-estudio-avala-tratamiento-prevenir-malaria-embarazo-mujeres-vih-20240115095713.html) (Infosalus.com)
 
 ## 24-3 (dengue)
+
+- [Itaguaí promove ação educativa para a prevenção de doenças transmitidas pelo mosquito da dengue](https://www.terra.com.br/noticias/brasil/itaguai-promove-acao-educativa-para-a-prevencao-de-doencas-transmitidas-pelo-mosquito-da-dengue,0383ff68ff52f1303bb36f441558286149618oyp.html) (Terra.com.br)
+
+- [Yale epidemiologists lead effort to boost disease surveillance in Chad](https://ysph.yale.edu/news-article/advanced-training-strengthens-disease-surveillance-in-chad/) (Yale.edu)
+
+- [Dengue fever: the tropical disease spreading across Europe](https://theconversation.com/dengue-fever-the-tropical-disease-spreading-across-europe-220168) (The Conversation Africa)
 
 - [Introduction and Spread of Dengue Virus 3, Florida, USA, May 2022–April 2023](https://wwwnc.cdc.gov/eid/article/30/2/23-1615_article) (Cdc.gov)
 
@@ -1630,8 +1662,6 @@ Source: [News API](https://newsapi.org/)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 6th December 2023](https://iasbaba.com/2023/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-6th-december-2023/) (Iasbaba.com)
 
-- [益生菌，真的能调节肠胃吗？](https://post.smzdm.com/p/aqq8zekp/) (Smzdm.com)
-
 ## 23-49 (typhoid)
 
 - [Yellow canteens: a colourful way to keep kids healthy](https://www.springwise.com/innovation/education/painting-canteens-yellow-to-keep-kids-healthy/) (Springwise.com)
@@ -1686,8 +1716,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stigma, regulatory barriers delay mpox response in country that needs it most](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most-45498818/) (Marketscreener.com)
 
-- [Jakarta completes mpox vaccination to 411 people: Official](https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official) (Antaranews.com)
-
 ## 23-49 (meningitis)
 
 - [ACTG Announces Launch of Clinical Trial Evaluating Novel Treatment for Tuberculous Meningitis](https://www.globenewswire.com/news-release/2023/12/07/2792865/0/en/ACTG-Announces-Launch-of-Clinical-Trial-Evaluating-Novel-Treatment-for-Tuberculous-Meningitis.html) (GlobeNewswire)
@@ -1703,8 +1731,6 @@ Source: [News API](https://newsapi.org/)
 - [Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections](https://www.bmj.com/content/383/bmj.p2849) (The BMJ)
 
 - [Mount Hope community mourns loss of vibrant young woman to rare viral meningitis case](https://turnto10.com/news/local/mount-hope-community-mourns-loss-of-vibrant-young-woman-to-rare-viral-meningitis-case) (Turn to 10)
-
-- [La ONG sevillana África Arco Iris administra 8.500 vacunas contra la meningitis a niños de Costa de Marfil](https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html) (Europapress.es)
 
 ## 23-49 (measles)
 
@@ -1765,8 +1791,6 @@ Source: [News API](https://newsapi.org/)
 - [Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO](https://allafrica.com/stories/202312040455.html) (AllAfrica - Top Africa News)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [How climate change is making the world sick](https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476) (CNA)
 
 ## 23-49 (leptospirosis)
 
@@ -1899,8 +1923,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika) (Metropoles.com)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [Bangladesh faces its worst dengue epidemic on record](https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html) (Le Monde)
 
 ## 23-49 (chikungunya)
 
