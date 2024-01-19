@@ -1,8 +1,548 @@
 {
-  "last_updated": "2024-01-19 07:06",
-  "count_articles_total": 848,
-  "count_articles_new": 17,
+  "last_updated": "2024-01-19 19:05",
+  "count_articles_total": 874,
+  "count_articles_new": 31,
   "articles": [
+    {
+      "id": 4380,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MIKE STOBBE AP medical writer",
+      "title": "Wastewater tests can find mpox, study finds. Expect more bugs to be tracked that way",
+      "description": "New research bolsters a push to use sewage to track more diseases in the U.S. Wastewater testing does a good job at detecting mpox infections",
+      "url": "https://abcnews.go.com/Technology/wireStory/wastewater-tests-find-mpox-study-finds-expect-bugs-106487194",
+      "urlToImage": "https://i.abcnewsfe.com/a/837d863d-db79-443a-9c4f-9ffc2bb78b22/wirestory_66a91045c9ea10924133506ff090d285_16x9.jpg?w=1600",
+      "publishedAt": "2024-01-18 18:22:38",
+      "content": "NEW YORK -- Wastewater testing does a good job at detecting mpox infections, U.S. health officials said in a report Thursday that bolsters a push to use sewage to track more diseases. U.S. Centers f\u2026 [+3533 chars]",
+      "retrievedAt": "2024-01-19 19:05:24.024179",
+      "internal_id": "4a1a069f936bcded7a8edee5d344ae5cc3547d3a0b61034e39191297f6cd78d7",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4381,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MIKE STOBBE AP medical writer",
+      "title": "Wastewater tests can find mpox, study finds. Expect more bugs to be tracked that way",
+      "description": "New research bolsters a push to use sewage to track more diseases in the U.S. Wastewater testing does a good job at detecting mpox infections",
+      "url": "https://abcnews.go.com/Health/wireStory/wastewater-tests-find-mpox-study-finds-expect-bugs-106487193",
+      "urlToImage": "https://i.abcnewsfe.com/a/837d863d-db79-443a-9c4f-9ffc2bb78b22/wirestory_66a91045c9ea10924133506ff090d285_16x9.jpg?w=1600",
+      "publishedAt": "2024-01-18 18:22:33",
+      "content": "NEW YORK -- Wastewater testing does a good job at detecting mpox infections, U.S. health officials said in a report Thursday that bolsters a push to use sewage to track more diseases. U.S. Centers f\u2026 [+3533 chars]",
+      "retrievedAt": "2024-01-19 19:05:24.029950",
+      "internal_id": "70e407aaebe27514859b7f42d9d01cc91de29201e9e3ea89dc97e8a198996004",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4355,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "Philly's Measles Outbreak Is Getting Worse",
+      "description": "An outbreak of measles in Philadelphia is growing larger. This week, health officials announced a newly discovered case of the highly contagious viral disease in the area\u2014the ninth reported to date. Many of these cases, including the latest one, have been tra\u2026",
+      "url": "https://gizmodo.com/philadelphia-measles-outbreak-day-care-unvaccinated-1851176291",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/94864bd38d98f642024b624ae673438e.jpg",
+      "publishedAt": "2024-01-18 17:58:00",
+      "content": "An outbreak of measles in Philadelphia is growing larger. This week, health officials announced a newly discovered case of the highly contagious viral disease in the areathe ninth reported to date. M\u2026 [+3463 chars]",
+      "retrievedAt": "2024-01-19 19:05:21.672865",
+      "internal_id": "88a7424617210d4e40ba0ecf362733a90b96e3a737a3c03759374d9bccc84e25",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4367,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Brasil corre risco de enfrentar epidemia de dengue, com 5 mi de casos",
+      "description": "Brasil pode enfrentar grave epidemia de dengue, segundo proje\u00e7\u00e3o do Minist\u00e9rio da Sa\u00fade. Dados preliminares da cidade de S\u00e3o Paulo apontam para alta de casos",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-18/brasil-corre-risco-de-enfrentar-epidemia-de-dengue--com-5-mi-de-casos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/dg/99/jp/dg99jp1bsjege5htnpk6exxbi.jpg",
+      "publishedAt": "2024-01-18 17:25:04",
+      "content": "Neste come\u00e7o de ano, a cidade de S\u00e3o Paulo registra aumento no n\u00famero de casos de dengue em rela\u00e7\u00e3o ao mesmo per\u00edodo no ano anterior. Se a tend\u00eancia de alta na doen\u00e7a transmitida pelo mosquito Aedes \u2026 [+3971 chars]",
+      "retrievedAt": "2024-01-19 19:05:22.097003",
+      "internal_id": "e39d09a3f3df0726f79bb056dd7dd44bfc92188522be8f6f01e48a0627ce64e4",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4364,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alan Rios",
+      "title": "Veja as regi\u00f5es com mais casos de dengue no DF",
+      "description": "DF teve 7.329 casos prov\u00e1veis de dengue at\u00e9 13 de janeiro, um aumento de 435%, e duas mortes confirmadas. Veja \u00e1reas com mais notifica\u00e7\u00f5es",
+      "url": "https://www.metropoles.com/distrito-federal/veja-as-regioes-com-mais-casos-de-dengue-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/07180117/mosquito-dengue-foco-goiania-goias-3.jpeg",
+      "publishedAt": "2024-01-18 17:21:07",
+      "content": "O aumento de 435% de casos prov\u00e1veis de dengue no Distrito Federal aponta um cen\u00e1rio cr\u00edtico em todas as regi\u00f5es administrativas, mas algumas delas est\u00e3o com alerta ainda maior. Ceil\u00e2ndia, Samambaia,\u2026 [+8049 chars]",
+      "retrievedAt": "2024-01-19 19:05:22.087343",
+      "internal_id": "0a9452fd5b3e1ad1af917f69d6a54a631601acab473f60d489d7f52cffcdedb0",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4363,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Mortes por dengue no DF em 2024 foram de pacientes com 5 e 71 anos",
+      "description": "H\u00e1 14 mortes em investiga\u00e7\u00e3o al\u00e9m das duas confirmadas. At\u00e9 o momento, a Sa\u00fade do DF registrou 5.096 casos prov\u00e1veis de dengue em 2024",
+      "url": "https://www.metropoles.com/distrito-federal/mortes-por-dengue-no-df-em-2024-foram-de-pacientes-com-5-e-71-anos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/05124652/Foto-mosquito-da-dengue-2-1.jpg",
+      "publishedAt": "2024-01-18 17:00:45",
+      "content": "As duas mortes por dengue confirmadas em 2024 no Distrito Federal foram de pacientes de 5 e 71 anos de idade. Os dois pacientes tinham comorbidades. A informa\u00e7\u00e3o foi confirmada ao Metr\u00f3poles pelo che\u2026 [+5941 chars]",
+      "retrievedAt": "2024-01-19 19:05:22.077867",
+      "internal_id": "e2c4d576da8d0ba30198fd1ddb980dba451110c7e5632f7172ac900b830ac40b",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4382,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Detecting Mpox Cases Through Wastewater Surveillance \u2014 United States, August 2022\u2013May 2023",
+      "description": "This report describes mpox detection using wastewater surveillance.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7302a3.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7302a3_MpoxWastewaterSurveillance_IMAGE_18Jan2024_1200x675.jpg?_=03087",
+      "publishedAt": "2024-01-18 17:00:00",
+      "content": "* https://www.cdc.gov/poxvirus/mpox/response/2022/index.html \u2020https://www.cdc.gov/nwss/wastewater-surveillance.html \u00a7https://www.cdc.gov/poxvirus/mpox/cases-data/wastewater-surveillance.html \u00b6 NWS\u2026 [+4818 chars]",
+      "retrievedAt": "2024-01-19 19:05:24.036003",
+      "internal_id": "c9412a5ace1cfc81ab4c9ed9218de3329455624d4f788314b0aa723330cc2f9d",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4383,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Mpox Outbreak \u2014 Los Angeles County, California, May 4\u2013August 17, 2023",
+      "description": "This report describes an mpox outbreak in Los Angeles County, California during summer 2023.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7302a4.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7302a4_MpoxOutbreakLACounty_IMAGE_18Jan2024_1200x675.jpg?_=03089",
+      "publishedAt": "2024-01-18 17:00:00",
+      "content": "During May 4\u2013August 17, 2023, a total of 56 laboratory-confirmed mpox cases occurred in Los Angeles County (LAC), based on illness onset date or laboratory specimen collection date (if onset date was\u2026 [+6320 chars]",
+      "retrievedAt": "2024-01-19 19:05:24.039278",
+      "internal_id": "70697927623cc2eb32e78b207146433fa315b4479b85623b938fb911375533b9",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4370,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La meningitis bacteriana da\u00f1a de por vida a uno de cada tres ni\u00f1os",
+      "description": "Uno de cada tres ni\u00f1os que sufren meningitis bacteriana vive con discapacidad neurol\u00f3gica permanente debido a la infecci\u00f3n, seg\u00fan se desprende de un nuevo estudio epidemiol\u00f3gico dirigido por el Karolinska Institutet de Suecia y publicado en la revista m\u00e9dica \u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-meningitis-bacteriana-dana-vida-cada-tres-ninos-20240118171536.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240118171536_1200.jpg",
+      "publishedAt": "2024-01-18 16:15:36",
+      "content": "MADRID, 18 Ene. (EUROPA PRESS) - Uno de cada tres ni\u00f1os que sufren meningitis bacteriana vive con discapacidad neurol\u00f3gica permanente debido a la infecci\u00f3n, seg\u00fan se desprende de un nuevo estudio \u2026 [+2683 chars]",
+      "retrievedAt": "2024-01-19 19:05:22.579494",
+      "internal_id": "06728b187185c227cc119376bfae3e5b1b12f3c6d780549e663c5e8e63bebd19",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4359,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "11Alive.com WXIA",
+      "author": "11alive Staff",
+      "title": "Measles case in Georgia confirmed by public health department",
+      "description": "The state health department is still identifying anyone who may have been in contact with the resident while they were infectious.",
+      "url": "https://www.11alive.com/article/news/health/measles-georgia-confirmed-department-public-health/85-50857607-eea5-4454-bc88-716103e49f72",
+      "urlToImage": "https://media.11alive.com/assets/WXIA/images/104ad799-de3d-4f19-86b2-f013756fdb2e/104ad799-de3d-4f19-86b2-f013756fdb2e_1140x641.jpg",
+      "publishedAt": "2024-01-18 15:27:00",
+      "content": "ATLANTA A measles case has been confirmed in metro Atlanta, according to an announcement Thursday by the Georgia Department of Public Health. The department said there was only one case, and the pe\u2026 [+1467 chars]",
+      "retrievedAt": "2024-01-19 19:05:21.701419",
+      "internal_id": "5c19a087b279b218cd8ca27d885f527b21e45aa19e1d09f9af134f18731ded08",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4365,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alan Rios",
+      "title": "Dengue: tendas de atendimento ser\u00e3o montadas em 9 regi\u00f5es do DF",
+      "description": "Inicialmente, ser\u00e3o 9 tendas de atendimento, funcionando das 7h \u00e0s 19h, por 45 dias, para atendimentos de pessoas com suspeita de dengue",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-df-vai-instalar-tendas-de-atendimento-junto-as-administracoes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/05124706/Foto-mosquito-da-dengue-em-um-tubo.jpg",
+      "publishedAt": "2024-01-18 15:02:51",
+      "content": "O Governo do Distrito Federal (GDF) vai instalar tendas de atendimento em nove regi\u00f5es para atender pessoas com suspeita de dengue. Os pontos v\u00e3o funcionar das 7h \u00e0s 19h, inicialmente por 45 dias, ao\u2026 [+8101 chars]",
+      "retrievedAt": "2024-01-19 19:05:22.090658",
+      "internal_id": "004b00f67de7b5b88d1f3ccae74053943ebf64d6f121d4903c2ebe02d5e0745c",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4360,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 5 Atlanta",
+      "author": "Fox 5 Atlanta",
+      "title": "Georgia's 1st measles case since 2020 confirmed in metro Atlanta",
+      "description": "Health officials say the infected metro Atlanta resident was unvaccinated and had been exposed to measles while traveling outside the country.",
+      "url": "https://www.fox5atlanta.com/news/measles-confirmed-metro-atlanta-infection",
+      "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2019/11/1280/720/b5776007-Measles-germs-pic_1546020282274.png_6564173_ver1.0_2560_1440.jpg?ve=1&tl=1",
+      "publishedAt": "2024-01-18 14:50:40",
+      "content": "ATLANTA - Georgia health officials have confirmed a case of measles in a metro Atlanta resident - the first reported case of the virus in the state since 2020. Officials say the infected individual \u2026 [+1252 chars]",
+      "retrievedAt": "2024-01-19 19:05:21.723460",
+      "internal_id": "bf72df3addf5e7a12e7c35ed77124fc2789a1977ebb8e4fc42a5a23b89750768",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4366,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Mosquitos da dengue com bact\u00e9ria podem resolver surtos no mundo todo",
+      "description": "Infectar Aedes aegypti com bact\u00e9ria Wolbachia ajuda a reduzir infec\u00e7\u00e3o entre mosquitos, bem como transmiss\u00e3o do pat\u00f3geno para humanos",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-18/mosquitos-da-dengue-com-bacteria-podem-resolver-surtos-no-mundo-todo.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/77/uq/z0/77uqz0vdz1vedze678u9cgcgf.jpg",
+      "publishedAt": "2024-01-18 14:15:23",
+      "content": "A dengue \u00e9 um problema de sa\u00fade cada vez mais global, e o n\u00famero de casos n\u00e3o aumenta apenas no Brasil . Na verdade, at\u00e9 pa\u00edses que n\u00e3o registravam casos deste tipo de arbov\u00edrus passaram a enfrentar\u2026 [+4336 chars]",
+      "retrievedAt": "2024-01-19 19:05:22.094006",
+      "internal_id": "a33ec48d03b05c5ed31c6c315efb5cd5bf2928a1ed97a724937f81963547ec8d",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4372,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Emilie Pollenus, Hendrik Possemiers, Sofie Knoops, Fran Prenen, Leen Vandermosten, Chlo\u00eb Thienpont, Saeed Abdurahiman, Sofie Demeyer, Jan Cools, Gianluca Matteoli, Jeroen A. J. Vanoirbeek, Greetje Vande Velde, Philippe E. Van den Steen",
+      "title": "Single cell RNA sequencing reveals endothelial cell killing and resolution pathways in experimental malaria-associated acute respiratory distress syndrome",
+      "description": "Author summary Malaria is a global disease caused by Plasmodium parasites, resulting each year in more than 600 000 deaths, mainly caused by complications. Despite rapidly acting antimalarial drugs, 15% of patients who developed a complication still die. Ther\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011929",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011929.g009&size=inline",
+      "publishedAt": "2024-01-18 14:00:00",
+      "content": "Citation: Pollenus E, Possemiers H, Knoops S, Prenen F, Vandermosten L, Thienpont C, et al. (2024) Single cell RNA sequencing reveals endothelial cell killing and resolution pathways in experimental \u2026 [+85817 chars]",
+      "retrievedAt": "2024-01-19 19:05:23.049210",
+      "internal_id": "13859abf75a7d6b271f83ef3773f25cb1a788f7dca9df4a364787601b4e3cd00",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4374,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Qi An, Yuepeng Li, Zhuo Sun, Xiang Gao, Hongbin Wang",
+      "title": "Seasonal prediction of the distribution of three major malaria vectors in China: Based on an ecological niche model",
+      "description": "Author summary Malaria, as one of the most important insect-borne infectious diseases in tropical and subtropical regions, poses a serious disease burden worldwide. Malaria has been prevalent in China for more than 4,000 years, seriously endangering the healt\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011884",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011884.g007&size=inline",
+      "publishedAt": "2024-01-18 14:00:00",
+      "content": "Abstract Against the backdrop of a global malaria epidemic that remains severe, China has eradicated indigenous malaria but still has to be alert to the risk of external importation. Understanding t\u2026 [+42931 chars]",
+      "retrievedAt": "2024-01-19 19:05:23.060408",
+      "internal_id": "e19119870a0f6a1e4c40355be130cf4763930f74e48fbbd45d910667c52b7355",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4378,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Andrea L\u00f3pez-Rosero, Rachel Sippy, Anna M. Stewart-Ibarra, Sadie J. Ryan, Erin Mordecai, Froil\u00e1n Heras, Efra\u00edn Beltr\u00e1n, Jaime A. Costales, Marco Neira",
+      "title": "High prevalence of Zika virus infection in populations of Aedes aegypti from South-western Ecuador",
+      "description": "Author summary Zika virus (ZIKV) is a mosquito-borne virus native to Africa that can cause a wide range of symptoms in humans, including neurological complications and fetal abnormalities. ZIKV arrived to South America in 2015, and quickly spread through the \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011908",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011908.g003&size=inline",
+      "publishedAt": "2024-01-18 14:00:00",
+      "content": "Abstract We performed an arboviral survey in mosquitoes from four endemic Ecuadorian cities (Huaquillas, Machala, Portovelo and Zaruma) during the epidemic period 20162018. Collections were performe\u2026 [+34300 chars]",
+      "retrievedAt": "2024-01-19 19:05:23.524841",
+      "internal_id": "422b4f87f42084120d9634161ffa1ebdb24d2eacd425b3b608f2cec313ae2474",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4384,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Piero Olliaro, Josephine Bourner, Yap Boum II, Emmanuel Nakoun\u00e9, Elise Pesonel, Amanda Rojek, Yazdan Yazdanpanah, Fran\u00e7ois-Xavier Lescure, Alexandra Calmy, Beatriz Grinsztejn, Peter Horby, Laura Merson, Jake Dunning",
+      "title": "Mpox: The alarm went off. Have we gone back to sleep?",
+      "description": "",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011871",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011871.g001&size=inline",
+      "publishedAt": "2024-01-18 14:00:00",
+      "content": "Citation: Olliaro P, Bourner J, Boum II Y, Nakoun\u00e9 E, Pesonel E, Rojek A, et al. (2024) Mpox: The alarm went off. Have we gone back to sleep? PLoS Negl Trop Dis 18(1): e0011871. https://doi.org/10\u2026 [+10635 chars]",
+      "retrievedAt": "2024-01-19 19:05:24.042613",
+      "internal_id": "986b4f3c5f2efdbcad35406901a69e01baaf239437500e35ca01ef145c0eb6d1",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4361,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "D\u00e9sinformation au Burkina Faso : quand la dengue \u201crend vraiment dingue\u201d",
+      "description": "En 2023, l\u2019\u00e9pid\u00e9mie de dengue a tu\u00e9 plus de 500 personnes au Burkina Faso. Mais cette crise sanitaire particuli\u00e8rement violente s\u2019est conjugu\u00e9e \u00e0 un autre fl\u00e9au, la d\u00e9sinformation, cr\u00e9ant une d\u00e9fiance de certains patients vis-\u00e0-vis du corps m\u00e9dical.",
+      "url": "https://www.courrierinternational.com/article/sante-desinformation-au-burkina-faso-quand-la-dengue-rend-vraiment-dingue",
+      "urlToImage": "https://focus.courrierinternational.com/2022/02/05/0/0/2400/1599/1200/630/60/0/94e48ad_1644060241972-03-000-q08jv.jpg",
+      "publishedAt": "2024-01-18 13:26:24",
+      "content": "Lutte contre la dengue : la d\u00e9sinformation, une d\u00e9coction mortelle.Ce titre dun article de Burkina 24, consacr\u00e9 aux infox qui ont ponctu\u00e9 une \u00e9pid\u00e9mie de dengue au cours de lann\u00e9e \u00e9coul\u00e9e, est \u00e0 pren\u2026 [+593 chars]",
+      "retrievedAt": "2024-01-19 19:05:22.045796",
+      "internal_id": "9af076bbf6fcc41e9e030b4d4d92478ffa20f34a569b10da6e6c5e3316befec0",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4362,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jonatas Martins",
+      "title": "Com 5 mil casos prov\u00e1veis, DF tem duas mortes confirmadas por dengue",
+      "description": "DF registrou 5.096 casos prov\u00e1veis de dengue em 2024, representando aumento de 435%. Outras quatro mortes s\u00e3o investigadas",
+      "url": "https://www.metropoles.com/distrito-federal/com-7-mil-casos-provaveis-df-tem-duas-mortes-por-dengue-em-2024",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/22104941/Dengue_Casos_DF.jpg",
+      "publishedAt": "2024-01-18 13:17:39",
+      "content": "O Distrito Federal teve 5.096 casos prov\u00e1veis de dengue at\u00e9 o dia 13 de janeiro. O n\u00famero representa um aumento de 435% em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Al\u00e9m disso, tamb\u00e9m foram conf\u2026 [+7018 chars]",
+      "retrievedAt": "2024-01-19 19:05:22.066878",
+      "internal_id": "df01af8b1674a22e4e7398ec4fc2eb876288e4872b20956f38c1ce9f1f193845",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4376,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Malaria-Free Cape Verde a 'Beacon of Hope' for Africa",
+      "description": "[DW] The World Health Organization has certified Cape Verde as malaria-free, hailing the development as a significant milestone in the fight against the disease. But much remains to be done.",
+      "url": "https://allafrica.com/stories/202401180353.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-01-18 13:06:43",
+      "content": "The World Health Organization has certified Cape Verde as malaria-free, hailing the development as a significant milestone in the fight against the disease. But much remains to be done. The news tha\u2026 [+5842 chars]",
+      "retrievedAt": "2024-01-19 19:05:23.068788",
+      "internal_id": "2e3fda5226d585d35ad5259e57283ce0ebcedb022e9b59ed2cae074c5d0e7134",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4358,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "Measles outbreaks are occurring in some pockets of the US. Here's why doctors are concerned",
+      "description": "Measles outbreaks are occurring in some pockets of the US. Here's why doctors are concernedgo.com",
+      "url": "https://abcnews.go.com/Health/measles-outbreaks-occurring-pockets-us-doctors-concerned/story?id=106440080",
+      "urlToImage": "https://i.abcnewsfe.com/a/babc0a07-fd6d-4f58-afc7-f703ddb5d470/measles-vaccine-gty-jef-240117_1705518362785_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-01-18 12:08:00",
+      "content": "Despite having a very effective and easily available vaccine, measles outbreaks have continued to pop up in the United States over the last two decades. Most recently, there have been eight cases co\u2026 [+6903 chars]",
+      "retrievedAt": "2024-01-19 19:05:21.692461",
+      "internal_id": "4b9c0884e77ef6dd52b1bdf1982561d3120da17941fc277232c936bcb9f6ef27",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4368,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Ser humano pode ter dengue at\u00e9 quatro vezes na vida, diz especialista",
+      "description": "A dengue parecia erradicada, mas voltou com for\u00e7a em 2023. Segundo o Minist\u00e9rio da S\u00e1ude , os casos da doen\u00e7a aumentaram 15,8% no ano passado....",
+      "url": "https://noticias.r7.com/record-news/videos/ser-humano-pode-ter-dengue-ate-quatro-vezes-diz-especialista-18012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/18/65a9252dca9084660a0009bc/2452631_EPP_RRN_DENGUE_1801_thumb.jpg",
+      "publishedAt": "2024-01-18 11:29:51",
+      "content": "A dengue parecia erradicada, mas voltou com for\u00e7a em 2023. Segundo o Minist\u00e9rio da S\u00e1ude , os casos da doen\u00e7a aumentaram 15,8% no ano passado. A m\u00e9dica infectologista Rosana Richtmann alerta que, a p\u2026 [+81 chars]",
+      "retrievedAt": "2024-01-19 19:05:22.129641",
+      "internal_id": "613c9db3d31ff825651f6747657c54683caab076c8c7504a8c1e61381bd25319",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4371,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Capo Verde ha sconfitto la malaria",
+      "description": "Malaria Secondo l\u2019Organizzazione mondiale della sanit\u00e0 a Capo Verde la malaria \u00e8 stata debellata. Nell\u2019arcipelago non si registrano nuovi casi dal 2017. \u00c8 il 44\u00b0 paese... Leggi",
+      "url": "https://www.internazionale.it/magazine/2024/01/18/capo-verde-ha-sconfitto-la-malaria",
+      "urlToImage": "https://media.internazionale.it/images/2024/01/18/206666-sd.jpg",
+      "publishedAt": "2024-01-18 11:23:37",
+      "content": "Malaria Secondo lOrganizzazione mondiale della sanit\u00e0 a Capo Verde la malaria \u00e8 stata debellata. Nellarcipelago non si registrano nuovi casi dal 2017. \u00c8 il 44\u00b0 paese al mondo a eradicare la malattia \u2026 [+2317 chars]",
+      "retrievedAt": "2024-01-19 19:05:23.036365",
+      "internal_id": "ddbd85d82c5402211c1ab273ae2395ac3c0d129678e0336e5f5ee9b914fa7a09",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4377,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Ghana: 'Ghana Poised to Eliminate Malaria by 2028'",
+      "description": "[Ghanaian Times] Ghana is poised to eliminate malaria deaths by 90 per cent and case incidence by 50 per cent in the year 2028.",
+      "url": "https://allafrica.com/stories/202401180170.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-01-18 10:51:23",
+      "content": "Ghana is poised to eliminate malaria deaths by 90 per cent and case incidence by 50 per cent in the year 2028. This was disclosed in Accra yesterday at the launching of the National Malaria Eliminat\u2026 [+3700 chars]",
+      "retrievedAt": "2024-01-19 19:05:23.078143",
+      "internal_id": "53cf73ca63cc96a67d7a192f9721adcc470864facee40be7a5fc4281f2d44f45",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4354,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Katherine Hignett, Senior Contributor, \n Katherine Hignett, Senior Contributor\n https://www.forbes.com/sites/katherinehignett-1/",
+      "title": "Measles Cases On The Rise In England As Vaccination Rates Fall",
+      "description": "Less than a decade ago, the World Health Organization called the country \"measles-free.\" But experts worry outbreaks could see tens of thousands of cases.",
+      "url": "https://www.forbes.com/sites/katherinehignett/2024/01/18/measles-cases-on-the-rise-in-england-as-vaccination-rates-fall/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65a8d758c582e6e8552320c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-01-18 10:29:45",
+      "content": "Sick child with red rash spots from measles. getty Measles cases are rising fast in England after years of falling vaccination rates, official figures show. More than 1,600 suspected cases were re\u2026 [+3715 chars]",
+      "retrievedAt": "2024-01-19 19:05:21.645766",
+      "internal_id": "e64cb55f701eff69594474055903dce97ca553e7c72e4da1f1bc9183f00af916",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4375,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "Gold miners bring fresh wave of suffering to Brazil's Yanomami",
+      "description": "Gold miners bring fresh wave of suffering to Brazil's Yanomami",
+      "url": "https://www.investing.com/news/commodities-news/gold-miners-bring-fresh-wave-of-suffering-to-brazils-yanomami-3277041",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEA8G03Y_L.jpg",
+      "publishedAt": "2024-01-18 10:20:49",
+      "content": "By Ueslei Marcelino YANOMAMI INDIGENOUS LAND, Brazil (Reuters) - Brazil is losing the upper hand in its battle to save the Yanomami Indigenous people, who are dying from flu, malaria and malnutritio\u2026 [+5677 chars]",
+      "retrievedAt": "2024-01-19 19:05:23.064022",
+      "internal_id": "eda1d73d2b222eb14cbbb60267898cb696d4c6d33ebfad9232a11886f6984a69",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4373,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Gold miners bring fresh wave of suffering to Brazil's Yanomami",
+      "description": "(marketscreener.com) Brazil is losing the upper hand in its battle to save the Yanomami Indigenous people, who are dying from flu, malaria and malnutrition brought into their vast, isolated Amazon rainforest reservation by resurgent illegal miners.https://www\u2026",
+      "url": "https://www.marketscreener.com/news/latest/Gold-miners-bring-fresh-wave-of-suffering-to-Brazil-s-Yanomami-45765194/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2024-01/2024-01-18T101610Z_1_LYNXMPEK0H0BL_RTROPTP_3_BRAZIL-ENVIRONMENT-YANOMAMI.JPG",
+      "publishedAt": "2024-01-18 10:16:10",
+      "content": "YANOMAMI INDIGENOUS LAND, Brazil (Reuters) - Brazil is losing the upper hand in its battle to save the Yanomami Indigenous people, who are dying from flu, malaria and malnutrition brought into their \u2026 [+5779 chars]",
+      "retrievedAt": "2024-01-19 19:05:23.053092",
+      "internal_id": "e6381f4da377a8ad6f6e8c18f99cca9985c9f76f710f66429de9fa6fa77986ff",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4379,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Vietnamplus.vn",
+      "author": "VNA",
+      "title": "Zika virus cases rise in Northeast Thailand",
+      "description": "Public health authorities in Nakhon Ratchasima province of Thailand are on alert for a potential Zika virus outbreak after 19 cases were reported in the lower Northeast region.",
+      "url": "https://en.vietnamplus.vn/zika-virus-cases-rise-in-northeast-thailand/276454.vnp",
+      "urlToImage": null,
+      "publishedAt": "2024-01-18 10:10:00",
+      "content": "Bangkok (NNT/VNA) - Public health authorities in Nakhon Ratchasima province of Thailand are on alert for a potential Zika virus outbreak after 19 cases were reported in the lower Northeast region. Th\u2026 [+1184 chars]",
+      "retrievedAt": "2024-01-19 19:05:23.532035",
+      "internal_id": "4412fd9c07bebc973b441e10d1b236a2bd496ca46bbdc936705948b3e5dc4871",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4357,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "How fringe anti-science views infiltrated politics \u2014 and what it means in 2024",
+      "description": "Opposition to vaccines and mainstream science has become politically charged, making dangerous misinformation harder to fight.",
+      "url": "https://www.cbsnews.com/news/anti-vaccine-science-politics-2024/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/18/67d2f6e3-c381-4e6f-af39-adbb7cdf017e/thumbnail/1200x630/ca65804a00c663ef287ad90183b11610/gettyimages-1720422536.jpg?v=47479038714af14683e43d6675dccca0",
+      "publishedAt": "2024-01-18 10:00:21",
+      "content": "Rates of routine childhood vaccination hit a 10-year low in 2023. That, according to the Centers for Disease Control and Prevention, puts about 250,000 kindergartners at risk for measles, which often\u2026 [+10337 chars]",
+      "retrievedAt": "2024-01-19 19:05:21.680079",
+      "internal_id": "869a26c85a85f25c521ebea3b050f563b222303310ef3f6542503a656ad4307a",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4369,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilpost.it",
+      "author": null,
+      "title": "L\u2019epidemia di dengue in Bangladesh \u00e8 sempre pi\u00f9 grave",
+      "description": "I casi di contagio sono quintuplicati nel giro di un anno e sono morte 1.705 persone, ma si teme che i dati reali possano essere ancora peggiori",
+      "url": "https://www.ilpost.it/2024/01/18/bangladesh-dengue-epidemia/",
+      "urlToImage": "https://www.ilpost.it/wp-content/uploads/2024/01/18/1705560670-dengue-bangladesh.jpg",
+      "publishedAt": "2024-01-18 09:47:06",
+      "content": "L\u2019epidemia di dengue cominciata in Bangladesh la scorsa estate \u00e8 la peggiore che il paese dell\u2019Asia meridionale abbia mai affrontato. I casi rilevati nel 2023 sono il quintuplo rispetto a quelli acce\u2026 [+6214 chars]",
+      "retrievedAt": "2024-01-19 19:05:22.145222",
+      "internal_id": "962770bb14083f0555cf1dc319f22f43f1abfa765c45e01afd5c447ecc5518a5",
+      "publishedAtLabel": "Jan 18"
+    },
     {
       "id": 4348,
       "query": [
@@ -578,6 +1118,24 @@
       "content": "A new case of measles has been confirmed in south-west Sydney after a seven-month-old infant contracted the virus. A seven-month-old baby from south-west Sydney has contracted measles<l\u2026 [+1498 chars]",
       "retrievedAt": "2024-01-18 19:05:38.965785",
       "internal_id": "a43035abbce629cfbfe39ffb8d328cdb8315f3b51ac268e81e25dd166cba3f42",
+      "publishedAtLabel": "Jan 17"
+    },
+    {
+      "id": 4356,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Urgent action needed to stop measles outbreak spreading across towns and cities - experts",
+      "description": "Urgent action is needed to stop further outbreaks of measles across towns and cities, health experts say.",
+      "url": "https://news.sky.com/story/measles-urgent-action-needed-to-stop-outbreak-spreading-across-towns-and-cities-say-health-experts-13049979",
+      "urlToImage": "https://e3.365dm.com/23/11/1600x900/skynews-measles-stock_6367226.jpg?20231121070227",
+      "publishedAt": "2024-01-17 06:15:00",
+      "content": "Urgent action is needed to stop further outbreaks of measles across towns and cities, health experts say. There has been a rapid rise in cases in the West Midlands since October. Around 80% of case\u2026 [+1896 chars]",
+      "retrievedAt": "2024-01-19 19:05:21.676658",
+      "internal_id": "2925d7232a8d37cda579b6c19fada84175f57c0f0514d68cd3c279d87b366879",
       "publishedAtLabel": "Jan 17"
     },
     {
@@ -15229,96 +15787,6 @@
       "content": "22-year-old Mount Hope High School graduate Maddie Pacheco is missed tremendously after died from a case of viral meningitis last month. According to the CDC, its the most common form of meningitis,\u2026 [+1998 chars]",
       "retrievedAt": "2023-12-05 07:05:52.140697",
       "internal_id": "9390b6770867c546231d42268fc5dfc6a5573589370e93f1dd9d425987a4cbce",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3491,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Carole Dieterich",
-      "title": "Bangladesh faces its worst dengue epidemic on record",
-      "description": "Characterized in Bangladesh by long erratic monsoons and higher temperatures, climate change is promoting the reproduction of 'Aedes' mosquitoes, the main vectors of dengue fever, which this year caused over 1,600 deaths.",
-      "url": "https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html",
-      "urlToImage": "https://img.lemde.fr/2023/11/14/0/0/8256/5504/1440/960/60/0/7bbcc51_2023-11-14t034056z-1373459227-rc2wq3azi8y4-rtrmadp-3-bangladesh-disease-dengue.JPG",
-      "publishedAt": "2023-12-03 16:39:18",
-      "content": "Mosquito control operation in Dhaka, Bangladesh, on October 12, 2023. FATIMA TUJ JOHORA / REUTERS Dozens of feverish patients on drips were lying on beds, lined up one after the other, in a vast roo\u2026 [+3077 chars]",
-      "retrievedAt": "2023-12-04 19:05:33.775557",
-      "internal_id": "f61d73d2b6b101f4664b5cd2c7616cfed0c88f6921fca0b94902b344f4d92cba",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3492,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "La ONG sevillana \u00c1frica Arco Iris administra 8.500 vacunas contra la meningitis a ni\u00f1os de Costa de Marfil",
-      "description": "La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil.",
-      "url": "https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231203110951_1200.jpg",
-      "publishedAt": "2023-12-03 10:09:51",
-      "content": "SEVILLA, 3 Dic. (EUROPA PRESS) - La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil. \u2026 [+2046 chars]",
-      "retrievedAt": "2023-12-04 19:05:33.970872",
-      "internal_id": "7320003ad3df43a13d8537c2f33eda0e441efc16b7ae525c1ad2c2b994b89a13",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3495,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Smzdm.com",
-      "author": "\u674e\u96f7\u535a\u58eb",
-      "title": "\u76ca\u751f\u83cc\uff0c\u771f\u7684\u80fd\u8c03\u8282\u80a0\u80c3\u5417\uff1f",
-      "description": "\u73b0\u5728\u7684\u5e74\u8f7b\u4eba\u751f\u6d3b\u8282\u594f\u5feb\uff0c\u4f5c\u606f\u4e0d\u89c4\u5f8b\uff0c\u5bfc\u81f4\u5f88\u591a\u4eba\u80a0\u80c3\u90fd\u4e0d\u5927\u597d\u3002\u8fd9\u4e0d\uff0c\u4eca\u5929\u5c31\u6709\u4e00\u4f4d\u670b\u53cb\u8bf4\u4ed6\u6700\u8fd1\u80a0\u80c3\u4e0d\u597d\uff0c\u6d88\u5316\u529f\u80fd\u5dee\uff0c\u5f88\u662f\u82e6\u607c\u3002\u4eca\u5929\u5c31\u548c\u5927\u5bb6\u6765\u8bf4\u8bf4\u80a0\u80c3\u4e0d\u597d\u5e94\u8be5\u5982\u4f55\u5904\u7406\u300201\uff0c\u80a0\u80c3\u955c\u68c0\u67e5\u5bf9\u4e8e\u80a0\u80c3\u4e0d\u597d\u7684\u4eba\u5462\uff0c\u9996...",
-      "url": "https://post.smzdm.com/p/aqq8zekp/",
-      "urlToImage": "https://a.zdmimg.com/202312/03/656c3c30d6d5d9337.jpg_fo742.jpg",
-      "publishedAt": "2023-12-03 08:49:04",
-      "content": "01 easy 02 [1] [2] 03 04 14108.41 CFU/g[3] 7105.52 CFU/g 1 2 3 1 Oezbas, Z. Y., and S. A. Aytac. \"Behaviour of Yersinia enterocolitica and Aeromonas hydrophila in yogurt made with probiot\u2026 [+387 chars]",
-      "retrievedAt": "2023-12-04 19:05:35.627083",
-      "internal_id": "505f8d5c7317e84ef13711a1cb020775d8bc3e48b8158f4361bb5f7c21592432",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3493,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "How climate change is making the world sick",
-      "description": "DUBAI: Heat stress. Lung damage from wildfire smoke. The spread of disease-carrying mosquitoes into new regions as temperatures rise. These are just a few of the ways that public health has been impacted and compounded by climate change - a focus for the firs\u2026",
-      "url": "https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--1nx-uErK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-03t060523z_1_lynxmpejb201c_rtroptp_3_europe-weather-greece-wildfire.jpg?itok=fVnJeRXR",
-      "publishedAt": "2023-12-03 08:25:47",
-      "content": "Climate change is also having an unpredictable impact on malaria, with 5 million more cases registered in 2022 than the previous year - reaching a total of 249 million, the WHO's World Malaria Report\u2026 [+1420 chars]",
-      "retrievedAt": "2023-12-04 19:05:34.448645",
-      "internal_id": "c7079d4afd24599c557dfd1fcbfe718a796fb4053ede065a5c97077a24962728",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3494,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
-      "title": "Jakarta completes mpox vaccination to 411 people: Official",
-      "description": "The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine. \"There are 411 people who have completed the mpox vaccination,\" the Head of the ...",
-      "url": "https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/03/Screenshot_20231103_005818_YouTube.jpg",
-      "publishedAt": "2023-12-03 07:44:20",
-      "content": "Jakarta (ANTARA) - The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine.\"There are 411 people who have completed the mpox vaccin\u2026 [+1828 chars]",
-      "retrievedAt": "2023-12-04 19:05:35.196710",
-      "internal_id": "c5acb8b59a6389cc69650aecd3b513ffc2fd8ab98aa38b69dd6a07f3e691344f",
       "publishedAtLabel": "Dec 3"
     }
   ]
