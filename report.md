@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2024-01-20 07:05
-- **Most recent article:** 2024-01-19 06:00:18
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-01-20 19:05
+- **Most recent article:** 2024-01-19 17:31:30
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 62 | 42 | 69 | 37 | 2 | 52 | 35 | 58 | 357 |
-| malaria | 24 | 24 | 24 | 22 | 2 | 11 | 51 | 24 | 182 |
-| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 41 | 122 |
-| mpox | 15 | 24 | 15 | 12 | 0 | 2 | 2 | 7 | 77 |
+| dengue | 61 | 42 | 69 | 37 | 2 | 52 | 35 | 61 | 359 |
+| malaria | 23 | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 183 |
+| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 55 | 136 |
+| mpox | 14 | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 77 |
 | zika | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 53 |
-| meningitis | 8 | 9 | 4 | 4 | 0 | 2 | 11 | 3 | 41 |
+| meningitis | 7 | 9 | 4 | 4 | 0 | 2 | 11 | 5 | 42 |
 | chikungunya | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 37 |
 | rabies | 4 | 7 | 2 | 7 | 1 | 2 | 5 | 4 | 32 |
-| pertussis | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 4 | 19 |
+| pertussis | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 20 |
 | leptospirosis | 3 | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 9 |
 | typhoid | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 0 | 9 |
-| yersinia | 2 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 5 |
+| yersinia | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -64,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-3 (pertussis)
 
+- [Вирусолог Нетесов рассказал, для кого коклюш может быть смертельно опасен](https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/) (Mail.ru)
+
 - [Коклюш: чем опасен и как прививаются](https://www.kommersant.ru/doc/6455323) (Kommersant.ru)
 
 - [Врач рассказала об осложнениях при коклюше](https://iz.ru/1635690/2024-01-17/vrach-rasskazala-ob-oslozhneniiakh-pri-kokliushe) (Iz.ru)
@@ -73,6 +75,8 @@ Source: [News API](https://newsapi.org/)
 - [Trends of inequality in DPT3 immunization services utilization in Ethiopia and its determinant factors: Evidence from Ethiopian demographic and health surveys, 2000–2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293337) (Plos.org)
 
 ## 24-3 (mpox)
+
+- [Wastewater tests can find mpox, study finds. Expect more bugs to be tracked that way](http://thegrio.com/2024/01/19/wastewater-tests-can-find-mpox-study-finds-expect-more-bugs-to-be-tracked-that-way/) (TheGrio)
 
 - [Wastewater tests can find mpox, study finds. Expect more bugs to be tracked that way](https://abcnews.go.com/Technology/wireStory/wastewater-tests-find-mpox-study-finds-expect-bugs-106487194) (ABC News)
 
@@ -90,6 +94,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-3 (meningitis)
 
+- [Bacterial meningitis injures one in three children for life](https://www.sciencedaily.com/releases/2024/01/240119122721.htm) (Science Daily)
+
+- [Meningitis Leaves One in Three Children With Permanent Brain Damage—Study](https://www.newsweek.com/meningitis-children-permanent-brain-damage-1862296) (Newsweek)
+
 - [La meningitis bacteriana daña de por vida a uno de cada tres niños](https://www.infosalus.com/salud-investigacion/noticia-meningitis-bacteriana-dana-vida-cada-tres-ninos-20240118171536.html) (Infosalus.com)
 
 - [Patricia Pérez cuenta cómo está llevando el radical cambio de vida tras la enfermedad de Luis Canut](https://www.hola.com/actualidad/20240117246830/patricia-perez-cambio-vida-enfermedad-luis-canut-nsv/) (Hola)
@@ -97,6 +105,34 @@ Source: [News API](https://newsapi.org/)
 - [Lymphocytic Choriomeningitis Virus Lineage V in Wood Mice, Germany](https://wwwnc.cdc.gov/eid/article/30/2/23-0868_article) (Cdc.gov)
 
 ## 24-3 (measles)
+
+- [Measles: Birmingham outbreak declared a national incident and likely to spread](https://www.bmj.com/content/384/bmj.q159) (The BMJ)
+
+- [Measles outbreak in Atlanta, DC areas: What to know about deadly virus](https://www.usatoday.com/story/news/health/2024/01/19/measles-outbreak-risks-atlanta-dc-philadelphia/72279684007/) (USA Today)
+
+- [Another Year, Another Measles Outbreak](https://sciencebasedmedicine.org/another-year-another-measles-outbreak/) (Sciencebasedmedicine.org)
+
+- [UK disease agency declares national incident as measles cases soar](https://www.politico.eu/article/uk-disease-agency-declares-national-incident-as-measles-cases-soar/) (POLITICO.eu)
+
+- [Measles outbreak: UK declares national health incident over rising cases](https://www.foxnews.com/world/measles-outbreak-uk-declares-national-health-incident-rising-cases) (Fox News)
+
+- [UK health agency warns 'very real risk' measles outbreak spreads](https://timesofindia.indiatimes.com/world/uk/uk-health-agency-warns-very-real-risk-measles-outbreak-spreads/articleshow/106991314.cms) (The Times of India)
+
+- [UK health agency warns 'very real risk' measles outbreak spreads](https://www.marketscreener.com/news/latest/UK-health-agency-warns-very-real-risk-measles-outbreak-spreads-45775084/) (Marketscreener.com)
+
+- [Press release: Measles outbreak could spread warns UKHSA Chief Executive](https://www.gov.uk/government/news/measles-outbreak-could-spread-warns-ukhsa-chief-executive) (Www.gov.uk)
+
+- [חולה חצבת נסע ברכבות בין תל אביב לבית שמש: אלו ההנחיות לנוסעי הקווים הבאים](https://www.ynet.co.il/health/article/by5ticvyt) (Ynet)
+
+- [Urgent action needed to stop measles outbreak across UK, health experts warn](https://www.ladbible.com/news/uk-news/measles-outbreak-warning-health-agency-uk-news-061727-20240119) (LADbible)
+
+- ['Call to action' on measles issued by UK top health official](https://www.bbc.com/news/uk-68028530) (BBC News)
+
+- ['Call to action' on measles issued by UK top health official](https://www.bbc.co.uk/news/uk-68028530) (BBC News)
+
+- [UK health chief urges measles vaccination to curb spread](https://punchng.com/uk-health-chief-urges-measles-vaccination-to-curb-spread/) (The Punch)
+
+- [Measles is the most infectious disease known to science – adults should consider getting another MMR vaccine](https://theconversation.com/measles-is-the-most-infectious-disease-known-to-science-adults-should-consider-getting-another-mmr-vaccine-221291) (The Conversation Africa)
 
 - [Measles outbreaks are occurring in the Philadelphia area and some pockets of the US. Here's why doctors are concerned](https://abc13.com/measles-outbreaks-doctors-are-concerned/14337349/) (KTRK-TV)
 
@@ -182,6 +218,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-3 (malaria)
 
+- [Good News aus aller Welt: Vier Nachrichten, die uns diese Woche glücklich gemacht haben](https://www.tagesspiegel.de/internationales/good-news-aus-aller-welt-vier-nachrichten-die-uns-diese-woche-glucklich-gemacht-haben-11080057.html) (Der Tagesspiegel)
+
+- [Africa: Malaria Elimination - Lessons From Cabo Verde](https://allafrica.com/stories/202401190390.html) (AllAfrica - Top Africa News)
+
 - [Las infecciones por hongos matan ya más que la malaria y la tuberculosis juntas: 3,7 M de muertes](https://www.elespanol.com/ciencia/salud/20240119/infecciones-hongos-matan-malaria-tuberculosis-juntas-muertes/825417692_0.html) (Elespanol.com)
 
 - [Single cell RNA sequencing reveals endothelial cell killing and resolution pathways in experimental malaria-associated acute respiratory distress syndrome](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011929) (Plos.org)
@@ -231,6 +271,12 @@ Source: [News API](https://newsapi.org/)
 - [Un estudio avala un tratamiento para prevenir la malaria durante el embarazo en mujeres con VIH](https://www.infosalus.com/salud-investigacion/noticia-estudio-avala-tratamiento-prevenir-malaria-embarazo-mujeres-vih-20240115095713.html) (Infosalus.com)
 
 ## 24-3 (dengue)
+
+- [Links between climate change and infectious disease](https://play.prx.org/listen?ge=prx_299_2f89c447-caa9-4d5c-b560-66277ce6d313&amp;uf=http%3A%2F%2Ffeeds.feedburner.com%2Fpri%2Ftheworld) (Prx.org)
+
+- [Existe dengue nos olhos? Entenda o que é e quais danos a doença pode causar à visão](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/19/existe-dengue-nos-olhos-entenda-o-que-e-e-quais-danos-a-doenca-pode-causar-a-visao.ghtml) (Globo)
+
+- [Los casos de dengue crecen más del 400% en Brasilia en enero](https://sputniknews.lat/20240119/los-casos-de-dengue-crecen-mas-del-400-en-brasilia-en-enero-1147531442.html) (Sputniknews.lat)
 
 - [Dengue: dispara número de atendimentos a crianças no DF. Veja números](https://www.metropoles.com/distrito-federal/dengue-dispara-numero-de-atendimentos-a-criancas-no-df-veja-numeros) (Metropoles.com)
 
@@ -1778,8 +1824,6 @@ Source: [News API](https://newsapi.org/)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 6th December 2023](https://iasbaba.com/2023/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-6th-december-2023/) (Iasbaba.com)
 
-- [益生菌，真的能调节肠胃吗？](https://post.smzdm.com/p/aqq8zekp/) (Smzdm.com)
-
 ## 23-49 (typhoid)
 
 - [Yellow canteens: a colourful way to keep kids healthy](https://www.springwise.com/innovation/education/painting-canteens-yellow-to-keep-kids-healthy/) (Springwise.com)
@@ -1834,8 +1878,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Stigma, regulatory barriers delay mpox response in country that needs it most](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most-45498818/) (Marketscreener.com)
 
-- [Jakarta completes mpox vaccination to 411 people: Official](https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official) (Antaranews.com)
-
 ## 23-49 (meningitis)
 
 - [ACTG Announces Launch of Clinical Trial Evaluating Novel Treatment for Tuberculous Meningitis](https://www.globenewswire.com/news-release/2023/12/07/2792865/0/en/ACTG-Announces-Launch-of-Clinical-Trial-Evaluating-Novel-Treatment-for-Tuberculous-Meningitis.html) (GlobeNewswire)
@@ -1851,8 +1893,6 @@ Source: [News API](https://newsapi.org/)
 - [Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections](https://www.bmj.com/content/383/bmj.p2849) (The BMJ)
 
 - [Mount Hope community mourns loss of vibrant young woman to rare viral meningitis case](https://turnto10.com/news/local/mount-hope-community-mourns-loss-of-vibrant-young-woman-to-rare-viral-meningitis-case) (Turn to 10)
-
-- [La ONG sevillana África Arco Iris administra 8.500 vacunas contra la meningitis a niños de Costa de Marfil](https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html) (Europapress.es)
 
 ## 23-49 (measles)
 
@@ -1913,8 +1953,6 @@ Source: [News API](https://newsapi.org/)
 - [Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO](https://allafrica.com/stories/202312040455.html) (AllAfrica - Top Africa News)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [How climate change is making the world sick](https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476) (CNA)
 
 ## 23-49 (leptospirosis)
 
@@ -2047,8 +2085,6 @@ Source: [News API](https://newsapi.org/)
 - [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika) (Metropoles.com)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
-
-- [Bangladesh faces its worst dengue epidemic on record](https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html) (Le Monde)
 
 ## 23-49 (chikungunya)
 

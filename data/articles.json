@@ -1,8 +1,422 @@
 {
-  "last_updated": "2024-01-20 07:05",
-  "count_articles_total": 889,
-  "count_articles_new": 10,
+  "last_updated": "2024-01-20 19:05",
+  "count_articles_total": 907,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 4417,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "TheGrio",
+      "author": "Associated Press",
+      "title": "Wastewater tests can find mpox, study finds. Expect more bugs to be tracked that way",
+      "description": "Amy Kirby, who oversees the CDC\u2019s wastewater surveillance work, said initially they didn\u2019t know if the tests would work for [\u2026] The post Wastewater tests can find mpox, study finds. Expect more bugs to be tracked that way appeared first on TheGrio.",
+      "url": "http://thegrio.com/2024/01/19/wastewater-tests-can-find-mpox-study-finds-expect-more-bugs-to-be-tracked-that-way/",
+      "urlToImage": "https://thegrio.com/wp-content/uploads/2024/01/AP24017588742597.jpg",
+      "publishedAt": "2024-01-19 17:31:30",
+      "content": "NEW YORK (AP) Wastewater testing does a good job at detecting mpox infections, U.S. health officials said in a report Thursday that bolsters a push to use sewage to track more diseases. U.S. Centers\u2026 [+3446 chars]",
+      "retrievedAt": "2024-01-20 19:05:46.969909",
+      "internal_id": "da1d8a32fe4655431f2954d6c1e1ecd6f5922f6c8794ec75fb2b9316ded24cdd",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4414,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Bacterial meningitis injures one in three children for life",
+      "description": "One in three children who suffer from bacterial meningitis live with permanent neurological disabilities due to the infection.",
+      "url": "https://www.sciencedaily.com/releases/2024/01/240119122721.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-01-19 17:27:21",
+      "content": "One in three children who suffer from bacterial meningitis live with permanent neurological disabilities due to the infection. This is according to a new epidemiological study led by Karolinska Insti\u2026 [+3440 chars]",
+      "retrievedAt": "2024-01-20 19:05:44.875909",
+      "internal_id": "6824b6c4156e8a7970934b1fe9f5ff8f223f8b8144149428189211aa8b0dfac0",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4411,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Prx.org",
+      "author": null,
+      "title": "Links between climate change and infectious disease",
+      "description": "Climate change continues to adversely affect the infectious disease situation across the globe. Countries like Zambia, Bangladesh and Sudan are seeing a rise in infectious disease cases as they battle climate change. Cholera and dengue fever are two examples \u2026",
+      "url": "https://play.prx.org/listen?ge=prx_299_2f89c447-caa9-4d5c-b560-66277ce6d313&amp;uf=http%3A%2F%2Ffeeds.feedburner.com%2Fpri%2Ftheworld",
+      "urlToImage": "https://f.prxu.org/299/images/543a2434-e52a-4f22-b181-1aa12a1d970c/tw-podcast-3000.png",
+      "publishedAt": "2024-01-19 17:00:00",
+      "content": "Climate change continues to adversely affect the infectious disease situation across the globe. Countries like Zambia, Bangladesh and Sudan are seeing a rise in infectious disease cases as they battl\u2026 [+683 chars]",
+      "retrievedAt": "2024-01-20 19:05:44.211637",
+      "internal_id": "deb51d78aa8086945a83aa4400b41d898d398508d7c2b71ffcb2f529ccc43d34",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4395,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0417\u0434\u043e\u0440\u043e\u0432\u044c\u0435 Mail.ru",
+      "title": "\u0412\u0438\u0440\u0443\u0441\u043e\u043b\u043e\u0433 \u041d\u0435\u0442\u0435\u0441\u043e\u0432 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b, \u0434\u043b\u044f \u043a\u043e\u0433\u043e \u043a\u043e\u043a\u043b\u044e\u0448 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0441\u043c\u0435\u0440\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u043f\u0430\u0441\u0435\u043d",
+      "description": "\u0417\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u0435\u043c\u043e\u0441\u0442\u044c \u0438\u043c \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u043e \u0432\u044b\u0440\u043e\u0441\u043b\u0430.",
+      "url": "https://health.mail.ru/news/3068428-virusolog-netesov-rasskazal-dlya-kogo-koklyush/",
+      "urlToImage": "https://health.mail.ru/sharepic/33/3068428/?1705664975",
+      "publishedAt": "2024-01-19 16:28:41",
+      "content": ". , . . , . , , Bordetella pertussis. , . , , . \u00ab - . , , \u00bb, \u00ab 1\u00bb. , . 10 . , - , . , , , , \u00ab\u00bb. 5 : : ?",
+      "retrievedAt": "2024-01-20 19:05:41.981970",
+      "internal_id": "07a08d9cd6e2137cf457d0e463a8214c225425089e95c0786e6f7daa14d6099b",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Existe dengue nos olhos? Entenda o que \u00e9 e quais danos a doen\u00e7a pode causar \u00e0 vis\u00e3o",
+      "description": "Condi\u00e7\u00e3o \u00e9 rara e direcionada mais a grupos de risco. Segundo Instituto Penido Burnier, 32 pessoas foram atendidas com problemas nos olhos causados pela infec\u00e7\u00e3o em 2023. \u00c9 poss\u00edvel ter sequela de dengue? A doen\u00e7a, causada pela mosquito Aedes Aegypti, pode pr\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/19/existe-dengue-nos-olhos-entenda-o-que-e-e-quais-danos-a-doenca-pode-causar-a-visao.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/O0X7ir9023_E4n-_lt3hC5w9_ZM=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/12281037.jpg",
+      "publishedAt": "2024-01-19 16:08:19",
+      "content": "Campinas (SP) est\u00e1 em alerta para a infec\u00e7\u00e3o e pode registrar, em 2024, um n\u00famero expressivo de contaminados. Veja abaixo a situa\u00e7\u00e3o da dengue na metr\u00f3pole e entenda do que se trata a sequela. A \"d\u2026 [+5840 chars]",
+      "retrievedAt": "2024-01-20 19:05:44.235899",
+      "internal_id": "6ee4cf21fa99a181a7c9f7ee6af974944ec27d5989d5a9cda3faf816f6c31c9a",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4413,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "newsweek",
+      "source_name": "Newsweek",
+      "author": "Pandora Dewan",
+      "title": "Meningitis Leaves One in Three Children With Permanent Brain Damage\u2014Study",
+      "description": "Bacterial meningitis affects roughly 3,000 people every year in the U.S., many of whom are children.",
+      "url": "https://www.newsweek.com/meningitis-children-permanent-brain-damage-1862296",
+      "urlToImage": "https://d.newsweek.com/en/full/2338076/child-meningitis-hospital.jpg",
+      "publishedAt": "2024-01-19 16:00:02",
+      "content": "One in three children who have been diagnosed with bacterial meningitis experience permanent neurological disabilities as a result of the infection, scientists have warned. Meningitis causes inflamm\u2026 [+3375 chars]",
+      "retrievedAt": "2024-01-20 19:05:44.870395",
+      "internal_id": "160633e3a017dbb60946780c18575bc6fc435e8589e462986433d0cb7a1010f6",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4400,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Jacqui Wise",
+      "title": "Measles: Birmingham outbreak declared a national incident and likely to spread",
+      "description": "Outbreaks of measles will spread to other towns and cities in the UK without urgent action to increase measles, mumps, and rubella (MMR) vaccination uptake, the UK Health Security Agency (UKHSA) has warned.On 19 January the agency declared the current outbrea\u2026",
+      "url": "https://www.bmj.com/content/384/bmj.q159",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/384/8413.cover-source.jpg",
+      "publishedAt": "2024-01-19 15:56:08",
+      "content": "Outbreaks of measles will spread to other towns and cities in the UK without urgent action to increase measles, mumps, and rubella (MMR) vaccination uptake, the UK Health Security Agency (UKHSA) has \u2026 [+240 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.365531",
+      "internal_id": "c4fc61d11b73bff2982df5705cee20859a2fd2cea50aee052a642cd056c0e555",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4416,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Good News aus aller Welt: Vier Nachrichten, die uns diese Woche gl\u00fccklich gemacht haben",
+      "description": "Der Inselstaat Kap Verde ist malariafrei, Griechenland will die Homo-Ehe legalisieren, Venedig bittet Tagestouristen zur Kasse und weltweit gibt es immer weniger Raucher.",
+      "url": "https://www.tagesspiegel.de/internationales/good-news-aus-aller-welt-vier-nachrichten-die-uns-diese-woche-glucklich-gemacht-haben-11080057.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/aerial-tropical-island-view-in-the-middle-of-the-ocean-with-rocky-cliffs-and-green-fields/alternates/BASE_16_9_W1400/aerial-tropical-island-view-in-the-middle-of-the-ocean-with-rocky-cliffs-and-green-fields.jpeg",
+      "publishedAt": "2024-01-19 15:27:01",
+      "content": "Kap Verde: Westafrikanischer Inselstaat ist malariafrei Die Weltgesundheitsorganisation (WHO) hat den westafrikanischen Inselstaat Kap Verde (Eigenname: Cabo Verde) als malariafreies Land zertifizi\u2026 [+7000 chars]",
+      "retrievedAt": "2024-01-20 19:05:45.345750",
+      "internal_id": "e3d53e302707fe9fe5a6e37a44378c4246c1caa9500420451d9ba4a1277f316c",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4408,
+      "query": [
+        "measles"
+      ],
+      "source_id": "usa-today",
+      "source_name": "USA Today",
+      "author": "Eduardo Cuevas",
+      "title": "Measles outbreak in Atlanta, DC areas: What to know about deadly virus",
+      "description": "Measles has cropped up in a few U.S. cities. A CDC report found the rate of children with vaccine exemptions was at its highest ever.",
+      "url": "https://www.usatoday.com/story/news/health/2024/01/19/measles-outbreak-risks-atlanta-dc-philadelphia/72279684007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/-mm-/d8d0774057d19139d16e6ede624d76e89947662d/c=1-0-1365-767/local/-/media/2022/08/15/USATODAY/usatsports/247WallSt.com-247WS-1160829-imageForEntry7-16.jpg?width=1364&height=767&fit=crop&format=pjpg&auto=webp",
+      "publishedAt": "2024-01-19 15:22:18",
+      "content": "Georgia health officials this week confirmed the state's first case of measles since 2020, one of several such outbreaks around the country, many of which are linked to international travel. The sta\u2026 [+4071 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.417585",
+      "internal_id": "5ec5895b5e30dbc4a0d4ae0780428a3228d07e7de488c4a7e3f8a712f429818f",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4397,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Clay Jones",
+      "title": "Another Year, Another Measles Outbreak",
+      "description": "Another year is here, and that means more measles outbreaks here and around the world as far too many children (and some parents) lack protection from the safe and effective vaccine. The post Another Year, Another Measles Outbreak first appeared on Science-Ba\u2026",
+      "url": "https://sciencebasedmedicine.org/another-year-another-measles-outbreak/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2019/05/measlesvaccinate.jpg",
+      "publishedAt": "2024-01-19 15:00:00",
+      "content": "A little over a year ago, I wrote about a measles outbreak in Ohio in the context of increasing concerns of the pandemic\u2019s effect on vaccination rates around the world: During the peak of the pandem\u2026 [+4935 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.325838",
+      "internal_id": "97a6230f529d69e75f3f337b9831f97c82b00a0abda8fffe5ae35db086219a3e",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4401,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Mari Eccles",
+      "title": "UK disease agency declares national incident as measles cases soar",
+      "description": "The U.K. Health Security Agency (UKHSA) has declared a national incident over a surge in measles cases across the country. Its chief executive Jenny Harries said today that \u201cimmediate action\u201d is needed to boost the uptake of the measles, mumps and rubella (MM\u2026",
+      "url": "https://www.politico.eu/article/uk-disease-agency-declares-national-incident-as-measles-cases-soar/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/01/19/iStock-1427945412-scaled.jpg",
+      "publishedAt": "2024-01-19 13:57:41",
+      "content": "The U.K. Health Security Agency (UKHSA) has declared a national incident over a surge in measles cases across the country. Its chief executive Jenny Harries said today that immediate action is neede\u2026 [+1393 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.374996",
+      "internal_id": "1214353ce1f4c060fb57a8595cd91e3a99607cd48c5e0566ed5bb8909694b187",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4407,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Timothy Nerozzi",
+      "title": "Measles outbreak: UK declares national health incident over rising cases",
+      "description": "Health officials in the United Kingdom are warning that low rates of uptake for the measles, mumps and rubella (MMR) vaccine is leading to outbreaks across the country.",
+      "url": "https://www.foxnews.com/world/measles-outbreak-uk-declares-national-health-incident-rising-cases",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/Measles-Vaccine.jpg",
+      "publishedAt": "2024-01-19 13:47:18",
+      "content": "Read this article for free! Plus get unlimited access to thousands of articles, videos and more with your free account! Please enter a valid email address. By entering your email, you are agreeing\u2026 [+2278 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.409702",
+      "internal_id": "c85752c8c1b9e43cb912d321130ff127b00fb009951cf399771dfdd7811ae351",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4415,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Malaria Elimination - Lessons From Cabo Verde",
+      "description": "[Vanguard] The recent certification of Cabo Verde by the World Health Organisation, WHO, as the third malaria-free country in Africa after Mauritius (1973) and Algeria (2019) offers valuable lessons for Nigeria in its fight against the disease.",
+      "url": "https://allafrica.com/stories/202401190390.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-01-19 13:34:56",
+      "content": "The recent certification of Cabo Verde by the World Health Organisation, WHO, as the third malaria-free country in Africa after Mauritius (1973) and Algeria (2019) offers valuable lessons for Nigeria\u2026 [+4106 chars]",
+      "retrievedAt": "2024-01-20 19:05:45.331174",
+      "internal_id": "324de3068e5e373158a86a648eab675a008e3d0f00378ebebd60f9e2b90c5513",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4410,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.lat",
+      "author": "Sputnik Mundo",
+      "title": "Los casos de dengue crecen m\u00e1s del 400% en Brasilia en enero",
+      "description": "R\u00cdO DE JANEIRO (Sputnik) \u2014 Los casos de dengue en el Distrito Federal de Brasil (la capital, Brasilia y sus alrededores) aumentaron m\u00e1s de un 400% en los primeros d\u00edas de enero en comparaci\u00f3n con el mismo periodo del a\u00f1o 2023.",
+      "url": "https://sputniknews.lat/20240119/los-casos-de-dengue-crecen-mas-del-400-en-brasilia-en-enero-1147531442.html",
+      "urlToImage": "https://cdn1.img.sputniknews.lat/images/sharing/article/spa/1147531442.jpg?10363554661705668462",
+      "publishedAt": "2024-01-19 12:41:20",
+      "content": "Suscr\u00edbete a nuestros canales de Telegram a trav\u00e9s de estosenlaces. Ya que la aplicaci\u00f3n Sputnik est\u00e1 bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo m\u00f3v\u2026 [+78 chars]",
+      "retrievedAt": "2024-01-20 19:05:44.201795",
+      "internal_id": "a4d1193aa1955f22b801449a5451075ff0191c8aefa3272bcc6ca3271e80144e",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4404,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "UK health agency warns 'very real risk' measles outbreak spreads",
+      "description": "The public health agency in Britain has issued a warning stating that if immediate action is not taken to boost vaccination rates, an outbreak of measles in central England could potentially spread to other towns and cities. The UK Health Security Agency (UKH\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/uk/uk-health-agency-warns-very-real-risk-measles-outbreak-spreads/articleshow/106991314.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-106992375,width-1070,height-580,imgsize-776402,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-01-19 12:40:29",
+      "content": "12 breakfast recipes that can be made in 10 minutes",
+      "retrievedAt": "2024-01-20 19:05:43.389987",
+      "internal_id": "84597374565491b9380e10ef27a0ad48ce8712548fadaa201df745fbb8548331",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4402,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "UK health agency warns 'very real risk' measles outbreak spreads",
+      "description": "(marketscreener.com) Britain's public health agency warned on Friday that an outbreak of measles in central England could spread to other towns and cities unless urgent action is taken to boost vaccination uptake.https://www.marketscreener.com/news/latest/UK-\u2026",
+      "url": "https://www.marketscreener.com/news/latest/UK-health-agency-warns-very-real-risk-measles-outbreak-spreads-45775084/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2024-01/2024-01-19T121051Z_1_LYNXMPEK0I0E0_RTROPTP_3_USA-MEASLES.JPG",
+      "publishedAt": "2024-01-19 12:11:36",
+      "content": "LONDON (Reuters) - Britain's public health agency warned on Friday that an outbreak of measles in central England could spread to other towns and cities unless urgent action is taken to boost vaccina\u2026 [+1696 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.380157",
+      "internal_id": "a4022cdb486d68e8e57c7cd3daabdc7f4b4499fd6a1ee1feb4c87df07d94ec88",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4405,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Press release: Measles outbreak could spread warns UKHSA Chief Executive",
+      "description": "Measles can spread very easily among those who are unvaccinated, especially in nurseries and schools.",
+      "url": "https://www.gov.uk/government/news/measles-outbreak-could-spread-warns-ukhsa-chief-executive",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/65aa5ccded27ca001327b2bf/s960_shutterstock_1395059333.jpg",
+      "publishedAt": "2024-01-19 12:04:51",
+      "content": "Further outbreaks of measles will spread to other towns and cities unless urgent action is taken to increase Measles, Mumps and Rubella (MMR) vaccination uptake in areas at greatest risk, the UK Heal\u2026 [+4953 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.394872",
+      "internal_id": "07bbd536e321e794342cbdce830b0cddb1094b2dc38a74b536df81323d28e151",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4406,
+      "query": [
+        "measles"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05d0\u05d3\u05d9\u05e8 \u05d9\u05e0\u05e7\u05d5",
+      "title": "\u05d7\u05d5\u05dc\u05d4 \u05d7\u05e6\u05d1\u05ea \u05e0\u05e1\u05e2 \u05d1\u05e8\u05db\u05d1\u05d5\u05ea \u05d1\u05d9\u05df \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05dc\u05d1\u05d9\u05ea \u05e9\u05de\u05e9: \u05d0\u05dc\u05d5 \u05d4\u05d4\u05e0\u05d7\u05d9\u05d5\u05ea \u05dc\u05e0\u05d5\u05e1\u05e2\u05d9 \u05d4\u05e7\u05d5\u05d5\u05d9\u05dd \u05d4\u05d1\u05d0\u05d9\u05dd",
+      "description": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d4\u05d5\u05d3\u05d9\u05e2 \u05e9\u05d0\u05d7\u05d3 \u05d4\u05d7\u05d5\u05dc\u05d9\u05dd \u05e9\u05d0\u05d5\u05d1\u05d7\u05e0\u05d5 \u05db\u05d7\u05d5\u05dc\u05d9 \u05d7\u05e6\u05d1\u05ea \u05e0\u05e1\u05e2 \u05d1\u05d9\u05d5\u05dd \u05e8\u05d1\u05d9\u05e2\u05d9 \u05de\u05ea\u05d7\u05e0\u05ea \u05d4\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05d4 \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05dc\u05ea\u05d7\u05e0\u05ea \u05e1\u05d1\u05d9\u05d3\u05d5\u05e8 \u05de\u05e8\u05db\u05d6, \u05d5\u05de\u05e9\u05dd \u05d4\u05de\u05e9\u05d9\u05da \u05d1\u05e8\u05db\u05d1\u05ea \u05d0\u05d7\u05e8\u05ea \u05dc\u05d1\u05d9\u05ea \u05e9\u05de\u05e9. \u05d0\u05dc\u05d5 \u05d4\u05d4\u05e0\u05d7\u05d9\u05d5\u05ea \u05dc\u05e0\u05d5\u05e1\u05e2\u05d9\u05dd",
+      "url": "https://www.ynet.co.il/health/article/by5ticvyt",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2023/06/06/SyNzpQh82/SyNzpQh82_0_37_1000_563_0_large.jpg",
+      "publishedAt": "2024-01-19 11:10:15",
+      "content": "( ') . -12:20 . -12:40 . . ? . - (Measles virus) Paramyxovirus. // UA GA",
+      "retrievedAt": "2024-01-20 19:05:43.399528",
+      "internal_id": "3576a6f4b46abce06eabd47f4c249c6bc0a73bf631abe506b06ef9a2ab5fba11",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4403,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Anish Vij",
+      "title": "Urgent action needed to stop measles outbreak across UK, health experts warn",
+      "description": "The health warning was issued by the UK Health Security Agency (UKHSA).",
+      "url": "https://www.ladbible.com/news/uk-news/measles-outbreak-warning-health-agency-uk-news-061727-20240119",
+      "urlToImage": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt8bd87c4ebb7e1bfd/65aa585e2201c3040a1d5988/415070348_928412962198801_6950455019849562285_n.png",
+      "publishedAt": "2024-01-19 11:09:37",
+      "content": "Urgent national action is needed so children are vaccinated against the potentially deadly measles virus. Professor Dame Jenny Harries, chief executive of the UKHealth Security Agency (UKHSA), has u\u2026 [+2679 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.383939",
+      "internal_id": "c0413f15b75bef320e7465b9b220b854c945626a9464cbead4baec2283f02aea",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4409,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Jacqueline Howard",
+      "title": "'Call to action' on measles issued by UK top health official",
+      "description": "The UK Health Security Agency has now declared the measles outbreak a national incident.",
+      "url": "https://www.bbc.com/news/uk-68028530",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13537/production/_129595197_gettyimages-1159665817.jpg",
+      "publishedAt": "2024-01-19 09:03:05",
+      "content": "By Jacqueline HowardBBC News The head of the Health Security Agency has issued a call to action across the country Measles is likely to spread rapidly across parts of the UK unless more people take\u2026 [+2363 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.432874",
+      "internal_id": "f1b6ff3b7219eb1691eb31ae62e6181eaaf2afac8aa4fdb67eddf629fcf69782",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4396,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "'Call to action' on measles issued by UK top health official",
+      "description": "The UK Health Security Agency has now declared the measles outbreak a national incident.",
+      "url": "https://www.bbc.co.uk/news/uk-68028530",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13537/production/_129595197_gettyimages-1159665817.jpg",
+      "publishedAt": "2024-01-19 09:00:47",
+      "content": "Measles is likely to spread rapidly across parts of the UK unless more people take up the vaccine, a senior health official has warned. Dame Jenny Harries, chief executive of the UK Health Security \u2026 [+1449 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.316108",
+      "internal_id": "e765e22082849efaf70f420e7f27dccdd72cb4cfc311394bd1d38e06ab2e63dc",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4399,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Our Reporters",
+      "title": "UK health chief urges measles vaccination to curb spread",
+      "description": "The United Kingdom\u2019s public health protection agency on Friday issued a \u201cnational call to action\u201d for more measles jabs for children over falling vaccination rates and fears the virus could spread. The head of the UK Health Security Agency, Jenny Harries, war\u2026",
+      "url": "https://punchng.com/uk-health-chief-urges-measles-vaccination-to-curb-spread/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/02/07120839/measles.png",
+      "publishedAt": "2024-01-19 08:47:36",
+      "content": "The United Kingdom\u2019s public health protection agency on Friday issued a \u201cnational call to action\u201d for more measles jabs for children over falling vaccination rates and fears the virus could spread. \u2026 [+1418 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.360784",
+      "internal_id": "cc6c04dbb4b4d5ad55f69375bc164a643c427fe5df979006e0cf861217f46e5e",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4398,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Derek Gatherer, Lecturer, Biomedical and Life Sciences, Lancaster University",
+      "title": "Measles is the most infectious disease known to science \u2013 adults should consider getting another MMR vaccine",
+      "description": "Herd immunity to measles is waning due to vaccine hesitancy over MMR. Adult MMR is one way to help get it back up again.",
+      "url": "https://theconversation.com/measles-is-the-most-infectious-disease-known-to-science-adults-should-consider-getting-another-mmr-vaccine-221291",
+      "urlToImage": "https://images.theconversation.com/files/569842/original/file-20240117-23-b5my4a.jpg?ixlib=rb-1.1.0&rect=15%2C0%2C2028%2C1014&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-01-19 07:24:56",
+      "content": "Adult MMR jabs could play an important role in preventing measles outbreaks Mark Kegans/Getty Images Imagine a disease more infectious than any other known to medical science, that would kill 2.6 mi\u2026 [+4997 chars]",
+      "retrievedAt": "2024-01-20 19:05:43.353913",
+      "internal_id": "2e2caa0b534039ff6daa712599f002ffec994701d4a0a5ea1e14224036e862f8",
+      "publishedAtLabel": "Jan 19"
+    },
     {
       "id": 4389,
       "query": [
@@ -15967,96 +16381,6 @@
       "content": "22-year-old Mount Hope High School graduate Maddie Pacheco is missed tremendously after died from a case of viral meningitis last month. According to the CDC, its the most common form of meningitis,\u2026 [+1998 chars]",
       "retrievedAt": "2023-12-05 07:05:52.140697",
       "internal_id": "9390b6770867c546231d42268fc5dfc6a5573589370e93f1dd9d425987a4cbce",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3491,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "le-monde",
-      "source_name": "Le Monde",
-      "author": "Carole Dieterich",
-      "title": "Bangladesh faces its worst dengue epidemic on record",
-      "description": "Characterized in Bangladesh by long erratic monsoons and higher temperatures, climate change is promoting the reproduction of 'Aedes' mosquitoes, the main vectors of dengue fever, which this year caused over 1,600 deaths.",
-      "url": "https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html",
-      "urlToImage": "https://img.lemde.fr/2023/11/14/0/0/8256/5504/1440/960/60/0/7bbcc51_2023-11-14t034056z-1373459227-rc2wq3azi8y4-rtrmadp-3-bangladesh-disease-dengue.JPG",
-      "publishedAt": "2023-12-03 16:39:18",
-      "content": "Mosquito control operation in Dhaka, Bangladesh, on October 12, 2023. FATIMA TUJ JOHORA / REUTERS Dozens of feverish patients on drips were lying on beds, lined up one after the other, in a vast roo\u2026 [+3077 chars]",
-      "retrievedAt": "2023-12-04 19:05:33.775557",
-      "internal_id": "f61d73d2b6b101f4664b5cd2c7616cfed0c88f6921fca0b94902b344f4d92cba",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3492,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "La ONG sevillana \u00c1frica Arco Iris administra 8.500 vacunas contra la meningitis a ni\u00f1os de Costa de Marfil",
-      "description": "La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil.",
-      "url": "https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231203110951_1200.jpg",
-      "publishedAt": "2023-12-03 10:09:51",
-      "content": "SEVILLA, 3 Dic. (EUROPA PRESS) - La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil. \u2026 [+2046 chars]",
-      "retrievedAt": "2023-12-04 19:05:33.970872",
-      "internal_id": "7320003ad3df43a13d8537c2f33eda0e441efc16b7ae525c1ad2c2b994b89a13",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3495,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Smzdm.com",
-      "author": "\u674e\u96f7\u535a\u58eb",
-      "title": "\u76ca\u751f\u83cc\uff0c\u771f\u7684\u80fd\u8c03\u8282\u80a0\u80c3\u5417\uff1f",
-      "description": "\u73b0\u5728\u7684\u5e74\u8f7b\u4eba\u751f\u6d3b\u8282\u594f\u5feb\uff0c\u4f5c\u606f\u4e0d\u89c4\u5f8b\uff0c\u5bfc\u81f4\u5f88\u591a\u4eba\u80a0\u80c3\u90fd\u4e0d\u5927\u597d\u3002\u8fd9\u4e0d\uff0c\u4eca\u5929\u5c31\u6709\u4e00\u4f4d\u670b\u53cb\u8bf4\u4ed6\u6700\u8fd1\u80a0\u80c3\u4e0d\u597d\uff0c\u6d88\u5316\u529f\u80fd\u5dee\uff0c\u5f88\u662f\u82e6\u607c\u3002\u4eca\u5929\u5c31\u548c\u5927\u5bb6\u6765\u8bf4\u8bf4\u80a0\u80c3\u4e0d\u597d\u5e94\u8be5\u5982\u4f55\u5904\u7406\u300201\uff0c\u80a0\u80c3\u955c\u68c0\u67e5\u5bf9\u4e8e\u80a0\u80c3\u4e0d\u597d\u7684\u4eba\u5462\uff0c\u9996...",
-      "url": "https://post.smzdm.com/p/aqq8zekp/",
-      "urlToImage": "https://a.zdmimg.com/202312/03/656c3c30d6d5d9337.jpg_fo742.jpg",
-      "publishedAt": "2023-12-03 08:49:04",
-      "content": "01 easy 02 [1] [2] 03 04 14108.41 CFU/g[3] 7105.52 CFU/g 1 2 3 1 Oezbas, Z. Y., and S. A. Aytac. \"Behaviour of Yersinia enterocolitica and Aeromonas hydrophila in yogurt made with probiot\u2026 [+387 chars]",
-      "retrievedAt": "2023-12-04 19:05:35.627083",
-      "internal_id": "505f8d5c7317e84ef13711a1cb020775d8bc3e48b8158f4361bb5f7c21592432",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3493,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "How climate change is making the world sick",
-      "description": "DUBAI: Heat stress. Lung damage from wildfire smoke. The spread of disease-carrying mosquitoes into new regions as temperatures rise. These are just a few of the ways that public health has been impacted and compounded by climate change - a focus for the firs\u2026",
-      "url": "https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--1nx-uErK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-03t060523z_1_lynxmpejb201c_rtroptp_3_europe-weather-greece-wildfire.jpg?itok=fVnJeRXR",
-      "publishedAt": "2023-12-03 08:25:47",
-      "content": "Climate change is also having an unpredictable impact on malaria, with 5 million more cases registered in 2022 than the previous year - reaching a total of 249 million, the WHO's World Malaria Report\u2026 [+1420 chars]",
-      "retrievedAt": "2023-12-04 19:05:34.448645",
-      "internal_id": "c7079d4afd24599c557dfd1fcbfe718a796fb4053ede065a5c97077a24962728",
-      "publishedAtLabel": "Dec 3"
-    },
-    {
-      "id": 3494,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
-      "title": "Jakarta completes mpox vaccination to 411 people: Official",
-      "description": "The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine. \"There are 411 people who have completed the mpox vaccination,\" the Head of the ...",
-      "url": "https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/03/Screenshot_20231103_005818_YouTube.jpg",
-      "publishedAt": "2023-12-03 07:44:20",
-      "content": "Jakarta (ANTARA) - The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine.\"There are 411 people who have completed the mpox vaccin\u2026 [+1828 chars]",
-      "retrievedAt": "2023-12-04 19:05:35.196710",
-      "internal_id": "c5acb8b59a6389cc69650aecd3b513ffc2fd8ab98aa38b69dd6a07f3e691344f",
       "publishedAtLabel": "Dec 3"
     }
   ]
