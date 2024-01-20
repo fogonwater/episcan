@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 31
-- **Last harvest:** 2024-01-19 19:05
-- **Most recent article:** 2024-01-18 18:22:38
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-01-20 07:05
+- **Most recent article:** 2024-01-19 06:00:18
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-49 | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 61 | 42 | 69 | 37 | 2 | 52 | 35 | 54 | 352 |
-| malaria | 23 | 24 | 24 | 22 | 2 | 11 | 51 | 22 | 179 |
-| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 38 | 119 |
-| mpox | 14 | 24 | 15 | 12 | 0 | 2 | 2 | 7 | 76 |
+| dengue | 62 | 42 | 69 | 37 | 2 | 52 | 35 | 58 | 357 |
+| malaria | 24 | 24 | 24 | 22 | 2 | 11 | 51 | 24 | 182 |
+| measles | 5 | 7 | 28 | 7 | 1 | 8 | 25 | 41 | 122 |
+| mpox | 15 | 24 | 15 | 12 | 0 | 2 | 2 | 7 | 77 |
 | zika | 15 | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 53 |
-| meningitis | 7 | 9 | 4 | 4 | 0 | 2 | 11 | 3 | 40 |
+| meningitis | 8 | 9 | 4 | 4 | 0 | 2 | 11 | 3 | 41 |
 | chikungunya | 10 | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 37 |
-| rabies | 4 | 7 | 2 | 7 | 1 | 2 | 5 | 3 | 31 |
+| rabies | 4 | 7 | 2 | 7 | 1 | 2 | 5 | 4 | 32 |
 | pertussis | 2 | 4 | 2 | 0 | 0 | 5 | 2 | 4 | 19 |
 | leptospirosis | 3 | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 9 |
 | typhoid | 3 | 0 | 3 | 2 | 0 | 1 | 0 | 0 | 9 |
-| yersinia | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 4 |
+| yersinia | 2 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -53,6 +53,8 @@ Source: [News API](https://newsapi.org/)
 - [В Иордании обнаружили жертв Юстиниановой чумы](https://nplus1.ru/news/2024/01/16/justinian-plague) (Nplus1.ru)
 
 ## 24-3 (rabies)
+
+- [Westchester County Department of Health officials issue alert after rabid fox bites two residents in Peekskill, New York](https://abc7ny.com/rabid-fox-killed-westchester-county-rabies-health-officials-alert/14337043/) (WABC-TV)
 
 - [Medicine from the sky: Drones helping tackle rabies, snakebites](https://nation.africa/kenya/health/medicine-from-the-sky-drones-helping-tackle-rabies-snakebites-4493448) (Nation.africa)
 
@@ -95,6 +97,12 @@ Source: [News API](https://newsapi.org/)
 - [Lymphocytic Choriomeningitis Virus Lineage V in Wood Mice, Germany](https://wwwnc.cdc.gov/eid/article/30/2/23-0868_article) (Cdc.gov)
 
 ## 24-3 (measles)
+
+- [Measles outbreaks are occurring in the Philadelphia area and some pockets of the US. Here's why doctors are concerned](https://abc13.com/measles-outbreaks-doctors-are-concerned/14337349/) (KTRK-TV)
+
+- [N.Y. midwife fined for giving 1,500 children homeopathic pellets instead of vaccines](https://www.nbcnews.com/health/health-news/midwife-fined-false-child-vaccination-records-homeopathic-pellets-rcna134482) (NBC News)
+
+- [Measles outbreaks are occurring in the Philadelphia area and some pockets of the US. Here's why doctors are concerned](https://6abc.com/measles-outbreaks-doctors-are-concerned/14337349/) (WPVI-TV)
 
 - [Philly's Measles Outbreak Is Getting Worse](https://gizmodo.com/philadelphia-measles-outbreak-day-care-unvaccinated-1851176291) (Gizmodo.com)
 
@@ -174,6 +182,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-3 (malaria)
 
+- [Las infecciones por hongos matan ya más que la malaria y la tuberculosis juntas: 3,7 M de muertes](https://www.elespanol.com/ciencia/salud/20240119/infecciones-hongos-matan-malaria-tuberculosis-juntas-muertes/825417692_0.html) (Elespanol.com)
+
 - [Single cell RNA sequencing reveals endothelial cell killing and resolution pathways in experimental malaria-associated acute respiratory distress syndrome](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011929) (Plos.org)
 
 - [Seasonal prediction of the distribution of three major malaria vectors in China: Based on an ecological niche model](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011884) (Plos.org)
@@ -185,6 +195,8 @@ Source: [News API](https://newsapi.org/)
 - [Ghana: 'Ghana Poised to Eliminate Malaria by 2028'](https://allafrica.com/stories/202401180170.html) (AllAfrica - Top Africa News)
 
 - [Gold miners bring fresh wave of suffering to Brazil's Yanomami](https://www.investing.com/news/commodities-news/gold-miners-bring-fresh-wave-of-suffering-to-brazils-yanomami-3277041) (Investing.com)
+
+- [Gold miners bring fresh wave of suffering to Brazil's Yanomami](https://www.thestar.com.my/news/world/2024/01/18/gold-miners-bring-fresh-wave-of-suffering-to-brazil039s-yanomami) (The Star Online)
 
 - [Gold miners bring fresh wave of suffering to Brazil's Yanomami](https://www.marketscreener.com/news/latest/Gold-miners-bring-fresh-wave-of-suffering-to-Brazil-s-Yanomami-45765194/) (Marketscreener.com)
 
@@ -219,6 +231,14 @@ Source: [News API](https://newsapi.org/)
 - [Un estudio avala un tratamiento para prevenir la malaria durante el embarazo en mujeres con VIH](https://www.infosalus.com/salud-investigacion/noticia-estudio-avala-tratamiento-prevenir-malaria-embarazo-mujeres-vih-20240115095713.html) (Infosalus.com)
 
 ## 24-3 (dengue)
+
+- [Dengue: dispara número de atendimentos a crianças no DF. Veja números](https://www.metropoles.com/distrito-federal/dengue-dispara-numero-de-atendimentos-a-criancas-no-df-veja-numeros) (Metropoles.com)
+
+- [Vacinas contra a dengue devem chegar ao Brasil em fevereiro](https://recordtv.r7.com/record-tv-litoral-e-vale/sp-record/videos/vacinas-contra-a-dengue-devem-chegar-ao-brasil-em-fevereiro-18012024) (R7.com)
+
+- [Podcast JR 15 Min #835 | Vacina e combate ao mosquito: as armas para combater a dengue este ano](https://noticias.r7.com/jr-24h/conteudo-exclusivo/podcast-jr-15-min/videos/podcast-jr-15-min-835-vacina-e-combate-ao-mosquito-as-armas-para-combater-a-dengue-este-ano-18012024) (R7.com)
+
+- [Dengue: Brasil só tem vacinas para 8,19% do grupo prioritário](https://saude.ig.com.br/2024-01-18/dengue--brasil-so-tem-vacinas-para-8-19--do-grupo-prioritario.html) (Ig.com.br)
 
 - [Brasil corre risco de enfrentar epidemia de dengue, com 5 mi de casos](https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-18/brasil-corre-risco-de-enfrentar-epidemia-de-dengue--com-5-mi-de-casos.html) (Ig.com.br)
 
@@ -1758,6 +1778,8 @@ Source: [News API](https://newsapi.org/)
 
 - [DAILY CURRENT AFFAIRS IAS | UPSC Prelims and Mains Exam – 6th December 2023](https://iasbaba.com/2023/12/daily-current-affairs-ias-upsc-prelims-and-mains-exam-6th-december-2023/) (Iasbaba.com)
 
+- [益生菌，真的能调节肠胃吗？](https://post.smzdm.com/p/aqq8zekp/) (Smzdm.com)
+
 ## 23-49 (typhoid)
 
 - [Yellow canteens: a colourful way to keep kids healthy](https://www.springwise.com/innovation/education/painting-canteens-yellow-to-keep-kids-healthy/) (Springwise.com)
@@ -1812,6 +1834,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Stigma, regulatory barriers delay mpox response in country that needs it most](https://www.marketscreener.com/quote/stock/BAVARIAN-NORDIC-A-S-1412846/news/Stigma-regulatory-barriers-delay-mpox-response-in-country-that-needs-it-most-45498818/) (Marketscreener.com)
 
+- [Jakarta completes mpox vaccination to 411 people: Official](https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official) (Antaranews.com)
+
 ## 23-49 (meningitis)
 
 - [ACTG Announces Launch of Clinical Trial Evaluating Novel Treatment for Tuberculous Meningitis](https://www.globenewswire.com/news-release/2023/12/07/2792865/0/en/ACTG-Announces-Launch-of-Clinical-Trial-Evaluating-Novel-Treatment-for-Tuberculous-Meningitis.html) (GlobeNewswire)
@@ -1827,6 +1851,8 @@ Source: [News API](https://newsapi.org/)
 - [Susan Abarca Salazar: consultant in paediatric infectious diseases whose research benefited children with neurological infections](https://www.bmj.com/content/383/bmj.p2849) (The BMJ)
 
 - [Mount Hope community mourns loss of vibrant young woman to rare viral meningitis case](https://turnto10.com/news/local/mount-hope-community-mourns-loss-of-vibrant-young-woman-to-rare-viral-meningitis-case) (Turn to 10)
+
+- [La ONG sevillana África Arco Iris administra 8.500 vacunas contra la meningitis a niños de Costa de Marfil](https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html) (Europapress.es)
 
 ## 23-49 (measles)
 
@@ -1887,6 +1913,8 @@ Source: [News API](https://newsapi.org/)
 - [Nigeria: Climate Change May Reverse Gains in Malaria Prevention - WHO](https://allafrica.com/stories/202312040455.html) (AllAfrica - Top Africa News)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
+
+- [How climate change is making the world sick](https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476) (CNA)
 
 ## 23-49 (leptospirosis)
 
@@ -2019,6 +2047,8 @@ Source: [News API](https://newsapi.org/)
 - [Saúde vai destinar R$ 256 mi a ações contra dengue, chikungunya e zika](https://www.metropoles.com/brasil/saude-vai-destinar-r-256-mi-a-acoes-contra-dengue-chikungunya-e-zika) (Metropoles.com)
 
 - [Malaria deaths in state down more than 50%](https://timesofindia.indiatimes.com/city/mumbai/malaria-deaths-in-state-down-more-than-50/articleshow/105711291.cms) (The Times of India)
+
+- [Bangladesh faces its worst dengue epidemic on record](https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html) (Le Monde)
 
 ## 23-49 (chikungunya)
 

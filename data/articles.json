@@ -1,8 +1,170 @@
 {
-  "last_updated": "2024-01-19 19:05",
-  "count_articles_total": 874,
-  "count_articles_new": 31,
+  "last_updated": "2024-01-20 07:05",
+  "count_articles_total": 889,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 4389,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Dengue: dispara n\u00famero de atendimentos a crian\u00e7as no DF. Veja n\u00fameros",
+      "description": "Este ano, mais de 20 mil atendimentos relacionados \u00e0 dengue foram realizados na rede p\u00fablica de sa\u00fade do DF",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-dispara-numero-de-atendimentos-a-criancas-no-df-veja-numeros",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/12/27173946/2023-10-06t141346z_1_lynxmpej950lb_rtroptp_4_health-dengue-argentina.jpg",
+      "publishedAt": "2024-01-19 06:00:18",
+      "content": "Desde o in\u00edcio de 2024, a rede p\u00fablica de sa\u00fade do Distrito Federal realizou mais de 20 mil atendimentos relacionados \u00e0 dengue. Desses, mais de 2 mil foram de crian\u00e7as. Para os pacientes de 10 a 14 a\u2026 [+7314 chars]",
+      "retrievedAt": "2024-01-20 07:05:38.754535",
+      "internal_id": "37105f9e2ee16c6968f9d85efbae396e7d659b1eab84e9cc8fca7f744bc1aede",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4393,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Pablo Garc\u00eda Santos",
+      "title": "Las infecciones por hongos matan ya m\u00e1s que la malaria y la tuberculosis juntas: 3,7 M de muertes",
+      "description": "Un reciente estudio estima que las infecciones f\u00fangicas graves afectan a unos 6,5 millones de personas, aunque hay expertos que ponen en duda esta cifra.",
+      "url": "https://www.elespanol.com/ciencia/salud/20240119/infecciones-hongos-matan-malaria-tuberculosis-juntas-muertes/825417692_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/01/16/ciencia/salud/825428155_239174604_1706x960.jpg",
+      "publishedAt": "2024-01-19 01:00:00",
+      "content": "\"Estamos empezando a entender la relevancia de las infecciones f\u00fangicas en los hospitales\". Con estas palabras, el Jefe de la Unidad de Resistencia a los Antimicrobianos de la Universidad Complutense\u2026 [+5920 chars]",
+      "retrievedAt": "2024-01-20 07:05:39.715387",
+      "internal_id": "c25270c8a195fe06300ed78e881a821d80115b2df17d8fe8b0216b55c31f50fa",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 4385,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WABC-TV",
+      "author": "Eyewitness News",
+      "title": "Westchester County Department of Health officials issue alert after rabid fox bites two residents in Peekskill, New York",
+      "description": "Westchester County Department of Health officials issue alert after rabid fox bites two residents in Peekskill, New Yorkabc7ny.com",
+      "url": "https://abc7ny.com/rabid-fox-killed-westchester-county-rabies-health-officials-alert/14337043/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14337982_011824-wabc-AP-fox-file-img.jpg?w=1600",
+      "publishedAt": "2024-01-18 23:40:52",
+      "content": "PEEKSKILL, New York (WABC) -- A fox that bit two residents in Peekskill last Saturday has tested positive for rabies. The Westchester County Department of Health is now issuing a rabies alert to the\u2026 [+1348 chars]",
+      "retrievedAt": "2024-01-20 07:05:37.981575",
+      "internal_id": "09db1bc26b03083d4b75d58218551b3737476b4553f530fdc213a2bd7d1440c3",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4387,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KTRK-TV",
+      "author": "Mary Kekatos And Youri Benadjaoud",
+      "title": "Measles outbreaks are occurring in the Philadelphia area and some pockets of the US. Here's why doctors are concerned",
+      "description": "Despite having a very effective and easily available vaccine, measles outbreaks have continued to pop up in the United States over the last two decades.",
+      "url": "https://abc13.com/measles-outbreaks-doctors-are-concerned/14337349/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/5613276_101219-wpvi-measles-airport-5am-vid.jpg?w=1600",
+      "publishedAt": "2024-01-18 23:31:54",
+      "content": "Despite having a very effective and easily available vaccine, measles outbreaks have continued to pop up in the United States over the last two decades. Most recently, there have been nine cases con\u2026 [+7451 chars]",
+      "retrievedAt": "2024-01-20 07:05:38.313633",
+      "internal_id": "1bae1c291ffb0dbd3bdbb2fcf1b1d6f6b7d229452902b99bea9d168074e6cc0d",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4386,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Natalie Kainz",
+      "title": "N.Y. midwife fined for giving 1,500 children homeopathic pellets instead of vaccines",
+      "description": "A New York midwife has been fined for falsifying vaccine records and giving homeopathic pellets to 1,500 children instead of required vaccinations.",
+      "url": "https://www.nbcnews.com/health/health-news/midwife-fined-false-child-vaccination-records-homeopathic-pellets-rcna134482",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-10/221024-child-covid-vaccine-se-430p-29ef0a.jpg",
+      "publishedAt": "2024-01-18 22:36:57",
+      "content": "A New York midwife has been fined $300,000 for giving homeopathic pellets to 1,500 children instead of their required vaccinations for diseases like hepatitis, measles and polio. The penalty, annou\u2026 [+4365 chars]",
+      "retrievedAt": "2024-01-20 07:05:38.273522",
+      "internal_id": "64aea3d2b9c0e752f8d675e4dae32fff742737cd7a53989ecea415d618a4199e",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4388,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "Mary Kekatos And Youri Benadjaoud",
+      "title": "Measles outbreaks are occurring in the Philadelphia area and some pockets of the US. Here's why doctors are concerned",
+      "description": "Despite having a very effective and easily available vaccine, measles outbreaks have continued to pop up in the United States over the last two decades.",
+      "url": "https://6abc.com/measles-outbreaks-doctors-are-concerned/14337349/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/5613276_101219-wpvi-measles-airport-5am-vid.jpg?w=1600",
+      "publishedAt": "2024-01-18 20:41:14",
+      "content": "Despite having a very effective and easily available vaccine, measles outbreaks have continued to pop up in the United States over the last two decades. Most recently, there have been nine cases con\u2026 [+7451 chars]",
+      "retrievedAt": "2024-01-20 07:05:38.318195",
+      "internal_id": "20d3021d60f339da5ad0fb014222e0d8f612296c75472fa9d79cd5c6f2a23490",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4392,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Vacinas contra a dengue devem chegar ao Brasil em fevereiro",
+      "description": "As primeiras vacinas contra a dengue que ser\u00e3o distribu\u00eddas nos postos de sa\u00fade devem chegar ao Brasil em fevereiro. Minist\u00e9rio da Sa\u00fade divul...",
+      "url": "https://recordtv.r7.com/record-tv-litoral-e-vale/sp-record/videos/vacinas-contra-a-dengue-devem-chegar-ao-brasil-em-fevereiro-18012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/18/65a993cc19d224675c000a7d/dc57706aac054ce2aefbdd7fc61f5d01__Vacinas_contra_a_dengue_devem_chegar_ao_Brasil_em_fevereiro_thumb.jpg",
+      "publishedAt": "2024-01-18 20:35:59",
+      "content": "As primeiras vacinas contra a dengue que ser\u00e3o distribu\u00eddas nos postos de sa\u00fade devem chegar ao Brasil em fevereiro. Minist\u00e9rio da Sa\u00fade divulgou que vai priorizar a imuniza\u00e7\u00e3o de crian\u00e7as e adolesce\u2026 [+52 chars]",
+      "retrievedAt": "2024-01-20 07:05:38.819898",
+      "internal_id": "d3af4ac45fb9eb4910268b16bd0d386537e72a971afe634338c3bf07209c4b05",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4391,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Podcast JR 15 Min #835 | Vacina e combate ao mosquito: as armas para combater a dengue este ano",
+      "description": "Celso Freitas e a rep\u00f3rter Vanessa Lima conversam com o infectologista e presidente do Departamento de Imuniza\u00e7\u00f5es da Sociedade Brasileira de Pediatria, Renato Kfouri",
+      "url": "https://noticias.r7.com/jr-24h/conteudo-exclusivo/podcast-jr-15-min/videos/podcast-jr-15-min-835-vacina-e-combate-ao-mosquito-as-armas-para-combater-a-dengue-este-ano-18012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/18/65a9a8de19d2242c390018f8/56c5e4ee96ef4ba4a604f0dd02c2e609__Podcast_JR_15_Min__835___Vacina_e_combate_ao_mosquito__as_armas_para_combater_a_dengue_este_ano_thumb_thumb.jpg",
+      "publishedAt": "2024-01-18 20:31:06",
+      "content": "O Minist\u00e9rio da Sa\u00fade incorporou a vacina contra a dengue ao Sistema \u00danico de Sa\u00fade (SUS). O Brasil passa a ser o primeiro pa\u00eds no mundo a oferecer o imunizante no sistema p\u00fablico. Segundo a Organiza\u2026 [+529 chars]",
+      "retrievedAt": "2024-01-20 07:05:38.798825",
+      "internal_id": "0ade17d8ce67d4924138d4834f6c589ab8214c38ff195807ab01d33553d00860",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4390,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: Brasil s\u00f3 tem vacinas para 8,19% do grupo priorit\u00e1rio",
+      "description": "Estoque atende apenas 2,5 milh\u00f5es de pessoas; ministra da Sa\u00fade afirma que ainda n\u00e3o h\u00e1 uma estrat\u00e9gia de vacina\u00e7\u00e3o definida",
+      "url": "https://saude.ig.com.br/2024-01-18/dengue--brasil-so-tem-vacinas-para-8-19--do-grupo-prioritario.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-18 19:10:04",
+      "content": "Nesta quarta-feira (17), durante evento em Davos, na Su\u00ed\u00e7a, a ministra da Sa\u00fade N\u00edsia Trindade afirmou que o Brasil ainda n\u00e3o tem uma estrat\u00e9gia de vacina\u00e7\u00e3o contra a dengue definida. Ainda n\u00e3o est\u00e1\u2026 [+1528 chars]",
+      "retrievedAt": "2024-01-20 07:05:38.780550",
+      "internal_id": "a7cc265b08304baf3536da2a77151d0a38c7e2e2d73274def3aa2cb7d4dbb26a",
+      "publishedAtLabel": "Jan 18"
+    },
     {
       "id": 4380,
       "query": [
@@ -469,6 +631,24 @@
       "content": "By Ueslei Marcelino YANOMAMI INDIGENOUS LAND, Brazil (Reuters) - Brazil is losing the upper hand in its battle to save the Yanomami Indigenous people, who are dying from flu, malaria and malnutritio\u2026 [+5677 chars]",
       "retrievedAt": "2024-01-19 19:05:23.064022",
       "internal_id": "eda1d73d2b222eb14cbbb60267898cb696d4c6d33ebfad9232a11886f6984a69",
+      "publishedAtLabel": "Jan 18"
+    },
+    {
+      "id": 4394,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Ueslei Marcelino",
+      "title": "Gold miners bring fresh wave of suffering to Brazil's Yanomami",
+      "description": "YANOMAMI INDIGENOUS LAND, Brazil (Reuters) - Brazil is losing the upper hand in its battle to save the Yanomami Indigenous people, who are dying from flu, malaria and malnutrition brought into their vast, isolated Amazon rainforest reservation by resurgent il\u2026",
+      "url": "https://www.thestar.com.my/news/world/2024/01/18/gold-miners-bring-fresh-wave-of-suffering-to-brazil039s-yanomami",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/01/18/2498071.jpg",
+      "publishedAt": "2024-01-18 10:18:00",
+      "content": "YANOMAMI INDIGENOUS LAND, Brazil (Reuters) - Brazil is losing the upper hand in its battle to save the Yanomami Indigenous people, who are dying from flu, malaria and malnutrition brought into their \u2026 [+5757 chars]",
+      "retrievedAt": "2024-01-20 07:05:39.719241",
+      "internal_id": "fa0715d76620f11aa897e8f941d18d33252b102d97928a19ddc5f7e1eeb5ed69",
       "publishedAtLabel": "Jan 18"
     },
     {
@@ -15787,6 +15967,96 @@
       "content": "22-year-old Mount Hope High School graduate Maddie Pacheco is missed tremendously after died from a case of viral meningitis last month. According to the CDC, its the most common form of meningitis,\u2026 [+1998 chars]",
       "retrievedAt": "2023-12-05 07:05:52.140697",
       "internal_id": "9390b6770867c546231d42268fc5dfc6a5573589370e93f1dd9d425987a4cbce",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3491,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Carole Dieterich",
+      "title": "Bangladesh faces its worst dengue epidemic on record",
+      "description": "Characterized in Bangladesh by long erratic monsoons and higher temperatures, climate change is promoting the reproduction of 'Aedes' mosquitoes, the main vectors of dengue fever, which this year caused over 1,600 deaths.",
+      "url": "https://www.lemonde.fr/en/environment/article/2023/12/03/bangladesh-faces-its-worst-dengue-epidemic-on-record_6309204_114.html",
+      "urlToImage": "https://img.lemde.fr/2023/11/14/0/0/8256/5504/1440/960/60/0/7bbcc51_2023-11-14t034056z-1373459227-rc2wq3azi8y4-rtrmadp-3-bangladesh-disease-dengue.JPG",
+      "publishedAt": "2023-12-03 16:39:18",
+      "content": "Mosquito control operation in Dhaka, Bangladesh, on October 12, 2023. FATIMA TUJ JOHORA / REUTERS Dozens of feverish patients on drips were lying on beds, lined up one after the other, in a vast roo\u2026 [+3077 chars]",
+      "retrievedAt": "2023-12-04 19:05:33.775557",
+      "internal_id": "f61d73d2b6b101f4664b5cd2c7616cfed0c88f6921fca0b94902b344f4d92cba",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3492,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "La ONG sevillana \u00c1frica Arco Iris administra 8.500 vacunas contra la meningitis a ni\u00f1os de Costa de Marfil",
+      "description": "La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil.",
+      "url": "https://www.europapress.es/andalucia/sevilla-00357/noticia-ong-sevillana-africa-arco-iris-administra-8500-vacunas-contra-meningitis-ninos-costa-marfil-20231203110951.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231203110951_1200.jpg",
+      "publishedAt": "2023-12-03 10:09:51",
+      "content": "SEVILLA, 3 Dic. (EUROPA PRESS) - La ONG sevillana \u00c1frica Arco Iris administrar\u00e1 unas 8.500 vacunas contra la meningitis y la fiebre tifoidea a ni\u00f1os de hasta doce a\u00f1os de edad de Costa de Marfil. \u2026 [+2046 chars]",
+      "retrievedAt": "2023-12-04 19:05:33.970872",
+      "internal_id": "7320003ad3df43a13d8537c2f33eda0e441efc16b7ae525c1ad2c2b994b89a13",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3495,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Smzdm.com",
+      "author": "\u674e\u96f7\u535a\u58eb",
+      "title": "\u76ca\u751f\u83cc\uff0c\u771f\u7684\u80fd\u8c03\u8282\u80a0\u80c3\u5417\uff1f",
+      "description": "\u73b0\u5728\u7684\u5e74\u8f7b\u4eba\u751f\u6d3b\u8282\u594f\u5feb\uff0c\u4f5c\u606f\u4e0d\u89c4\u5f8b\uff0c\u5bfc\u81f4\u5f88\u591a\u4eba\u80a0\u80c3\u90fd\u4e0d\u5927\u597d\u3002\u8fd9\u4e0d\uff0c\u4eca\u5929\u5c31\u6709\u4e00\u4f4d\u670b\u53cb\u8bf4\u4ed6\u6700\u8fd1\u80a0\u80c3\u4e0d\u597d\uff0c\u6d88\u5316\u529f\u80fd\u5dee\uff0c\u5f88\u662f\u82e6\u607c\u3002\u4eca\u5929\u5c31\u548c\u5927\u5bb6\u6765\u8bf4\u8bf4\u80a0\u80c3\u4e0d\u597d\u5e94\u8be5\u5982\u4f55\u5904\u7406\u300201\uff0c\u80a0\u80c3\u955c\u68c0\u67e5\u5bf9\u4e8e\u80a0\u80c3\u4e0d\u597d\u7684\u4eba\u5462\uff0c\u9996...",
+      "url": "https://post.smzdm.com/p/aqq8zekp/",
+      "urlToImage": "https://a.zdmimg.com/202312/03/656c3c30d6d5d9337.jpg_fo742.jpg",
+      "publishedAt": "2023-12-03 08:49:04",
+      "content": "01 easy 02 [1] [2] 03 04 14108.41 CFU/g[3] 7105.52 CFU/g 1 2 3 1 Oezbas, Z. Y., and S. A. Aytac. \"Behaviour of Yersinia enterocolitica and Aeromonas hydrophila in yogurt made with probiot\u2026 [+387 chars]",
+      "retrievedAt": "2023-12-04 19:05:35.627083",
+      "internal_id": "505f8d5c7317e84ef13711a1cb020775d8bc3e48b8158f4361bb5f7c21592432",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3493,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "How climate change is making the world sick",
+      "description": "DUBAI: Heat stress. Lung damage from wildfire smoke. The spread of disease-carrying mosquitoes into new regions as temperatures rise. These are just a few of the ways that public health has been impacted and compounded by climate change - a focus for the firs\u2026",
+      "url": "https://www.channelnewsasia.com/sustainability/climate-change-disease-health-heat-pollution-threats-3962476",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--1nx-uErK--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-03t060523z_1_lynxmpejb201c_rtroptp_3_europe-weather-greece-wildfire.jpg?itok=fVnJeRXR",
+      "publishedAt": "2023-12-03 08:25:47",
+      "content": "Climate change is also having an unpredictable impact on malaria, with 5 million more cases registered in 2022 than the previous year - reaching a total of 249 million, the WHO's World Malaria Report\u2026 [+1420 chars]",
+      "retrievedAt": "2023-12-04 19:05:34.448645",
+      "internal_id": "c7079d4afd24599c557dfd1fcbfe718a796fb4053ede065a5c97077a24962728",
+      "publishedAtLabel": "Dec 3"
+    },
+    {
+      "id": 3494,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Siti Nurhaliza, Resinta Sulistiyandari",
+      "title": "Jakarta completes mpox vaccination to 411 people: Official",
+      "description": "The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine. \"There are 411 people who have completed the mpox vaccination,\" the Head of the ...",
+      "url": "https://en.antaranews.com/news/300084/jakarta-completes-mpox-vaccination-to-411-people-official",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/11/03/Screenshot_20231103_005818_YouTube.jpg",
+      "publishedAt": "2023-12-03 07:44:20",
+      "content": "Jakarta (ANTARA) - The DKI Jakarta Health Service has completed monkeypox (mpox) vaccination for 411 people consisting of two doses of vaccine.\"There are 411 people who have completed the mpox vaccin\u2026 [+1828 chars]",
+      "retrievedAt": "2023-12-04 19:05:35.196710",
+      "internal_id": "c5acb8b59a6389cc69650aecd3b513ffc2fd8ab98aa38b69dd6a07f3e691344f",
       "publishedAtLabel": "Dec 3"
     }
   ]
