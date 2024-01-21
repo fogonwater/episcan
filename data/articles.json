@@ -1,8 +1,99 @@
 {
-  "last_updated": "2024-01-21 07:05",
-  "count_articles_total": 774,
+  "last_updated": "2024-01-21 19:05",
+  "count_articles_total": 777,
   "count_articles_new": 5,
   "articles": [
+    {
+      "id": 4426,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Com 466 casos em 19 dias, Campinas faz 3\u00ba mutir\u00e3o para combater criadouros de dengue",
+      "description": "Trabalho neste s\u00e1bado foi realizado em quatro regi\u00f5es: Bonfim, Castelo, Quarto Centen\u00e1rio e Jardim Eulina - este \u00faltimo, que concentra 54% dos casos de dengue na cidade. Campinas realizou novo mutir\u00e3o de combate \u00e0 dengue Carlos Bassan/Prefeitura Municipal de \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/20/com-466-casos-em-19-dias-campinas-faz-3o-mutirao-do-ano-para-combater-criadouros-de-dengue.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/cC8REoJ67nWZQj3alZR2zrsCoOM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Y/e/CWykkqSoCrOlAIV4Sogg/mutirao-dengue.jpeg",
+      "publishedAt": "2024-01-20 18:58:50",
+      "content": "A Prefeitura de Campinas (SP) realizou, neste s\u00e1bado (20), o terceiro mutir\u00e3o de combate a criadouros do mosquito Aedes Aegypti, transmissor da dengue. A cidade est\u00e1 em alerta, desde o fim do ano pas\u2026 [+4112 chars]",
+      "retrievedAt": "2024-01-21 19:05:26.208190",
+      "internal_id": "eb85d9587a10d12a0ea7cec894d65e202225edfaa9460d544603f152eab5194c",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 4427,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Brasil pode ter at\u00e9 5 milh\u00f5es de casos de dengue em 2024",
+      "description": "No ano passado, foram 1,6 milh\u00e3o de casos da doen\u00e7a. No Rio de Janeiro, a situa\u00e7\u00e3o j\u00e1 \u00e9 complicada \u2014 desde o in\u00edcio de janeiro, foi registrado...",
+      "url": "https://noticias.r7.com/record-news/videos/brasil-pode-ter-ate-5-milhoes-de-casos-de-dengue-em-2024-20012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/20/65ac25234b4955310f0001f8/e48bf4b503684510818d7615fb2d31a7__Brasil_pode_ter_at__5_milh_es_de_casos_de_dengue_EM_2024_thumb_thumb.jpg",
+      "publishedAt": "2024-01-20 17:02:51",
+      "content": "No ano passado, foram 1,6 milh\u00e3o de casos da doen\u00e7a. No Rio de Janeiro, a situa\u00e7\u00e3o j\u00e1 \u00e9 complicada \u2014 desde o in\u00edcio de janeiro, foi registrado praticamente o mesmo n\u00famero de casos de dengue que nos d\u2026 [+135 chars]",
+      "retrievedAt": "2024-01-21 19:05:26.220019",
+      "internal_id": "4ae3429650d39602abf643256f90ec037178c4adecdc09116e34a0e3150c6ca5",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 4425,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "\u201cQue seja ampliada r\u00e1pido\u201d, diz Ibaneis sobre vacina\u00e7\u00e3o contra dengue",
+      "description": "Governador do Distrito Federal participou de Dia D de combate \u00e0 dengue, em Samambaia, na manh\u00e3 deste s\u00e1bado (20/1)",
+      "url": "https://www.metropoles.com/distrito-federal/que-seja-ampliada-rapido-diz-ibaneis-sobre-vacinacao-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/20113420/Ibaneis-e-Lucilene-com-bombeiros-no-combate-a-dengue.jpg",
+      "publishedAt": "2024-01-20 14:49:52",
+      "content": "O governador Ibaneis Rocha (MDB) participou, na manh\u00e3 deste s\u00e1bado (20/1), do Dia D de combate \u00e0 dengue. No evento, em Samambaia, o chefe do Pal\u00e1cio do Buriti comentou sobre o in\u00edcio da campanha de \u2026 [+5240 chars]",
+      "retrievedAt": "2024-01-21 19:05:26.166971",
+      "internal_id": "0f33fc808a3e93b04de41af3ba21c974dd7dcbcc2caa3c06c5ece75374eadc78",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 4424,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Mum urges vaccine push and shares how son died after catching measles",
+      "description": "Six-year-old Samuel Larkman-Jones died in 2019 after catching measles before he could be vaccinated.",
+      "url": "https://www.bbc.co.uk/news/uk-england-london-68037622",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17563/production/_132378559_measles.jpg",
+      "publishedAt": "2024-01-20 09:58:34",
+      "content": "A mother whose child died aged six from a brain inflammation caused by measles hopes sharing her story will encourage parents to \"vaccinate more\". It comes as the UK Health Security Agency (UKHSA) w\u2026 [+2371 chars]",
+      "retrievedAt": "2024-01-21 19:05:25.655437",
+      "internal_id": "7b8218df919cf8b7f6e3bc11af9e584608cad9c9bbbfdf6e7e7caae8674db269",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 4423,
+      "query": [
+        "rabies",
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Nep123.com",
+      "author": "Editor",
+      "title": "Is a rabies vaccination essential?",
+      "description": "Namaste. My girlfriend and I are visiting your wonderful country in March for 12 days and we\u2019ve had a number of pre-travel vaccines that have been recommended, so far I\u2019ve had Tetanus, Polio, Typhoid, Diptheria and Hepatitis A. The doctor told me that a rabie\u2026",
+      "url": "https://nep123.com/is-a-rabies-vaccination-essential/",
+      "urlToImage": "https://i0.wp.com/nep123.com/wp-content/uploads/2023/01/Deafult_Featured_Nepal123.png",
+      "publishedAt": "2024-01-20 08:40:47",
+      "content": "Namaste. My girlfriend and I are visiting your wonderful country in March for 12 days and weve had a number of pre-travel vaccines that have been recommended, so far Ive had Tetanus, Polio, Typhoid, \u2026 [+532 chars]",
+      "retrievedAt": "2024-01-21 19:05:25.310541",
+      "internal_id": "009df9a873c900ec0290086b0c1a2b187acdd49afbc50151b6e6936ec717a837",
+      "publishedAtLabel": "Jan 20"
+    },
     {
       "id": 4422,
       "query": [
@@ -13940,42 +14031,6 @@
       "retrievedAt": "2023-12-12 07:05:46.750944",
       "internal_id": "c116a51cb6ff4fea02b93505cc7f7b086822052fe4eaf8b8eb613a769e41cd5c",
       "publishedAtLabel": "Dec 11"
-    },
-    {
-      "id": 3640,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Asianetnews.com",
-      "author": "Web Team",
-      "title": "'100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d46\u0d28\u0d4d\u0d28 \u0d05\u0d23\u0d41\u0d2c\u0d3e\u0d27; \u0d1c\u0d3e\u0d17\u0d4d\u0d30\u0d24 \u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d28\u0d3f\u0d30\u0d4d\u200d\u0d26\u0d47\u0d36\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d41\u0d15\u0d46\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d35\u0d15\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
-      "description": "\u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d3e\u0d23\u0d24\u0d4d\u0d30\u0d47 '100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d40\u0d1f\u0d4d \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d3e\u0d38\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d27\u0d3f\u0d15\u0d02 \u0d1a\u0d41\u0d2e \u0d28\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d28\u0d3f\u0d32\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d05\u0d35\u0d38\u0d4d\u0d25\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41",
-      "url": "https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95",
-      "urlToImage": "https://static-ai.asianetnews.com/images/01epy9ef8135ab8dte71vxnjb2/pneumonia--jpg_1200x630xt.jpg",
-      "publishedAt": "2023-12-10 12:45:52",
-      "content": "'100 ' . 19 . . . . . . '100 ' . 100 . , . . . . '100 ' . . 'Bordetella pertussis bacteria' '100 ' . . 1950 . . . . . , . '100 ' . . '100 ' . . . '100 ' . Also Read:- ' '?; ? ... \u2026 [+55 chars]",
-      "retrievedAt": "2023-12-11 19:05:24.793192",
-      "internal_id": "acf2edf9d18e841ea459b3181537b06547cad382f659d3c4f1f96c70fc7744ba",
-      "publishedAtLabel": "Dec 10"
-    },
-    {
-      "id": 3641,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Ag\u00eancia Mural - Conte\u00fado Exclusivo",
-      "title": "Conhe\u00e7a Zika das Artes, de S\u00e3o Mateus, que assina capas de \u00e1lbuns do trap e rap",
-      "description": "Com est\u00e9tica que mistura t\u00e9cnicas de artes cl\u00e1ssicas ao mundo digital, artista ganha notoriedade no cen\u00e1rio musical",
-      "url": "https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1-zika-das-artes-na-perifacon-2023-credito-leu-britto-agencia-mural-(1)-ure13t557g36.jpg",
-      "publishedAt": "2023-12-10 08:00:20",
-      "content": "Com assinatura nas capas de \u00e1lbuns de renomados m\u00fasicos do universo do trap e do rap, o artista visual Kayo Mathias, 23, o Zika das Artes, de S\u00e3o Mateus, na zona leste de S\u00e3o Paulo, celebra um 2023 d\u2026 [+3286 chars]",
-      "retrievedAt": "2023-12-11 19:05:26.676231",
-      "internal_id": "a7015427e17347ed9b4d87bae7c063e7f102cccb9e7f341deb9675d0006bae7b",
-      "publishedAtLabel": "Dec 10"
     }
   ]
 }

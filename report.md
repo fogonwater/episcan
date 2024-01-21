@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 5
-- **Last harvest:** 2024-01-21 07:05
-- **Most recent article:** 2024-01-20 04:09:45
+- **Last harvest:** 2024-01-21 19:05
+- **Most recent article:** 2024-01-20 18:58:50
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 62 | 298 |
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 301 |
 | malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 160 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 58 | 134 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 59 | 135 |
 | mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 63 |
-| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 38 |
+| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 37 |
 | meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 35 |
-| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 4 | 28 |
+| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 29 |
 | chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 27 |
-| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 18 |
+| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 17 |
+| typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 7 |
 | leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 6 |
-| typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 0 | 6 |
 | yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 3 |
 
 
@@ -52,7 +52,13 @@ Source: [News API](https://newsapi.org/)
 
 - [В Иордании обнаружили жертв Юстиниановой чумы](https://nplus1.ru/news/2024/01/16/justinian-plague) (Nplus1.ru)
 
+## 24-3 (typhoid)
+
+- [Is a rabies vaccination essential?](https://nep123.com/is-a-rabies-vaccination-essential/) (Nep123.com)
+
 ## 24-3 (rabies)
+
+- [Is a rabies vaccination essential?](https://nep123.com/is-a-rabies-vaccination-essential/) (Nep123.com)
 
 - [Westchester County Department of Health officials issue alert after rabid fox bites two residents in Peekskill, New York](https://abc7ny.com/rabid-fox-killed-westchester-county-rabies-health-officials-alert/14337043/) (WABC-TV)
 
@@ -107,6 +113,8 @@ Source: [News API](https://newsapi.org/)
 - [Lymphocytic Choriomeningitis Virus Lineage V in Wood Mice, Germany](https://wwwnc.cdc.gov/eid/article/30/2/23-0868_article) (Cdc.gov)
 
 ## 24-3 (measles)
+
+- [Mum urges vaccine push and shares how son died after catching measles](https://www.bbc.co.uk/news/uk-england-london-68037622) (BBC News)
 
 - [The Papers: Rwanda plan ‘won’t work’ and steel jobs 'betrayal'](https://www.bbc.co.uk/news/blogs-the-papers-68038593) (BBC News)
 
@@ -279,6 +287,12 @@ Source: [News API](https://newsapi.org/)
 - [Un estudio avala un tratamiento para prevenir la malaria durante el embarazo en mujeres con VIH](https://www.infosalus.com/salud-investigacion/noticia-estudio-avala-tratamiento-prevenir-malaria-embarazo-mujeres-vih-20240115095713.html) (Infosalus.com)
 
 ## 24-3 (dengue)
+
+- [Com 466 casos em 19 dias, Campinas faz 3º mutirão para combater criadouros de dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/20/com-466-casos-em-19-dias-campinas-faz-3o-mutirao-do-ano-para-combater-criadouros-de-dengue.ghtml) (Globo)
+
+- [Brasil pode ter até 5 milhões de casos de dengue em 2024](https://noticias.r7.com/record-news/videos/brasil-pode-ter-ate-5-milhoes-de-casos-de-dengue-em-2024-20012024) (R7.com)
+
+- [“Que seja ampliada rápido”, diz Ibaneis sobre vacinação contra dengue](https://www.metropoles.com/distrito-federal/que-seja-ampliada-rapido-diz-ibaneis-sobre-vacinacao-contra-dengue) (Metropoles.com)
 
 - [Calor e chuva , sinais de alerta contra a dengue](https://recordtv.r7.com/record-tv-litoral-e-vale/sp-record/videos/calor-e-chuva-sinais-de-alerta-contra-a-dengue-19012024) (R7.com)
 
@@ -1524,8 +1538,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
-- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
-
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -1549,8 +1561,6 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
-
-- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 
