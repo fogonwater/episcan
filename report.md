@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2024-01-21 19:05
-- **Most recent article:** 2024-01-20 18:58:50
+- **New articles in last harvest:** 3
+- **Last harvest:** 2024-01-22 07:06
+- **Most recent article:** 2024-01-21 05:56:00
 
 ---
 
@@ -10,25 +10,29 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | Total |
-|--|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 301 |
-| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 160 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 59 | 135 |
-| mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 63 |
-| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 37 |
-| meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 35 |
-| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 29 |
-| chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 27 |
-| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 17 |
-| typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 7 |
-| leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 6 |
-| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 3 |
+| Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 0 | 301 |
+| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 0 | 160 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 0 | 137 |
+| mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 0 | 63 |
+| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 0 | 38 |
+| meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 0 | 35 |
+| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 0 | 29 |
+| chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 0 | 27 |
+| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 0 | 18 |
+| leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
+| typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 0 | 7 |
+| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-4 (leptospirosis)
+
+- [Curious about puppy’s vaccines, spay plan](https://www.bostonherald.com/2024/01/21/curious-about-puppys-vaccines-spay-plan/) (Boston Herald)
 
 ## 24-3 (zika)
 
@@ -128,6 +132,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Another Year, Another Measles Outbreak](https://sciencebasedmedicine.org/another-year-another-measles-outbreak/) (Sciencebasedmedicine.org)
 
+- [Measles cases detected in Jhapa](https://english.khabarhub.com/2024/19/336310/) (Khabarhub.com)
+
 - [UK disease agency declares national incident as measles cases soar](https://www.politico.eu/article/uk-disease-agency-declares-national-incident-as-measles-cases-soar/) (POLITICO.eu)
 
 - [Measles outbreak: UK declares national health incident over rising cases](https://www.foxnews.com/world/measles-outbreak-uk-declares-national-health-incident-rising-cases) (Fox News)
@@ -141,6 +147,8 @@ Source: [News API](https://newsapi.org/)
 - [חולה חצבת נסע ברכבות בין תל אביב לבית שמש: אלו ההנחיות לנוסעי הקווים הבאים](https://www.ynet.co.il/health/article/by5ticvyt) (Ynet)
 
 - [Urgent action needed to stop measles outbreak across UK, health experts warn](https://www.ladbible.com/news/uk-news/measles-outbreak-warning-health-agency-uk-news-061727-20240119) (LADbible)
+
+- [Turkana adopts new strategy to fight zoonotic diseases](https://nation.africa/kenya/health/turkana-adopts-new-strategy-to-fight-zoonotic-diseases-4492468) (Nation.africa)
 
 - ['Call to action' on measles issued by UK top health official](https://www.bbc.com/news/uk-68028530) (BBC News)
 
@@ -1538,6 +1546,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
+- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
+
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -1561,6 +1571,8 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
+
+- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 
