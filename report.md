@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2024-01-23 07:06
-- **Most recent article:** 2024-01-22 06:44:55
+- **New articles in last harvest:** 49
+- **Last harvest:** 2024-01-23 19:05
+- **Most recent article:** 2024-01-22 18:10:18
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 10 | 311 |
-| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 12 | 172 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 3 | 140 |
-| mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 0 | 63 |
-| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 1 | 39 |
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 19 | 320 |
+| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 44 | 204 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 8 | 145 |
+| mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 1 | 64 |
+| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 2 | 39 |
 | meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 0 | 35 |
 | rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 0 | 29 |
 | chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 0 | 27 |
-| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 0 | 18 |
+| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 0 | 17 |
+| typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 1 | 8 |
 | leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
-| typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 0 | 7 |
 | yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 3 |
 
 
@@ -32,9 +32,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (zika)
 
+- [Le virus Zika démontre son efficacité pour éradiquer... certains cancers](https://www.techno-science.net/actualite/virus-zika-demontre-son-efficacite-eradiquer-certains-cancers-N24346.html) (Techno-science.net)
+
 - [Szenzációs felfedezés: megtalálhatták a rák ellenszerét](https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html) (Origo.hu)
 
+## 24-4 (typhoid)
+
+- [Study reveals how some bacterial infections become chronic](https://phys.org/news/2024-01-reveals-bacterial-infections-chronic.html) (Phys.Org)
+
+## 24-4 (mpox)
+
+- [La Viruela del mono, ahora Mpox, sus estragos y poco interés por la información Sanitaria...](https://www.elconfidencialdigital.com/articulo/opinan-socios-ecd/viruela-mono-ahora-mpox-estragos-poco-interes-informacion-sanitaria/20240122104356707236.html) (Elconfidencialdigital.com)
+
 ## 24-4 (measles)
+
+- [How measles can do long-lasting damage to children's immune systems](https://www.newscientist.com/article/2413540-how-measles-can-do-long-lasting-damage-to-childrens-immune-systems/) (New Scientist)
+
+- [Measles jab campaign targets unprotected millions](https://www.bbc.co.uk/news/health-68057317) (BBC News)
+
+- [Millions in the UK are being urged to get vaccinations during a surge in measles cases](https://abcnews.go.com/Health/wireStory/millions-uk-urged-vaccinations-surge-measles-cases-106562121) (ABC News)
+
+- [Millions in the UK are being urged to get vaccinations during a surge in measles cases](https://abcnews.go.com/International/wireStory/millions-uk-urged-vaccinations-surge-measles-cases-106562118) (ABC News)
+
+- [Birmingham Children's Hospital isolating measles patients](https://www.bbc.co.uk/news/uk-england-birmingham-68058328) (BBC News)
 
 - [Parents urged to book missed MMR vaccines amid 'very real risk' of measles outbreaks](https://news.sky.com/story/measles-parents-urged-to-book-missed-mmr-vaccines-amid-very-real-risk-of-outbreaks-13053780) (Sky.com)
 
@@ -43,6 +63,70 @@ Source: [News API](https://newsapi.org/)
 - [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
+
+- [Kameroen start als eerste land ter wereld met uitrol malariavaccin](https://www.nu.nl/buitenland/6298756/kameroen-start-als-eerste-land-ter-wereld-met-uitrol-malariavaccin.html) (Www.nu.nl)
+
+- [Kameroen start als eerste land met grootschalige vaccinatiecampagne tegen malaria (met Belgische vaccins)](https://www.vrt.be/vrtnws/nl/2024/01/22/kameroen-vaccinatie-malaria/) (Www.vrt.be)
+
+- [Cameroon launches malaria vaccination programme in global milestone](https://www.channelnewsasia.com/world/cameroon-launches-malaria-vaccination-programme-global-milestone-4064646) (CNA)
+
+- [Daniella, 2, först att vaccineras mot malaria](https://www.expressen.se/nyheter/daniella-2-forst-att-vaccineras-mot-malaria-/) (Expressen.se)
+
+- [Steigende Todeszahlen bei Kleinkindern: Malaria wieder auf dem Vormarsch](https://www.tagesschau.de/wissen/gesundheit/malaria-130.html) (tagesschau.de)
+
+- [Meilenstein im Kampf gegen Malaria: Kamerun startet Routine-Impfprogramm für Kinder](https://www.nzz.ch/panorama/meilenstein-im-kampf-gegen-malaria-kamerun-startet-routine-impfprogramm-fuer-kinder-ld.1775314) (Www.nzz.ch)
+
+- [World's first malaria vaccine program for children starts in Cameroon](https://www.nbcnews.com/health/kids-health/first-malaria-vaccine-program-children-cameroon-rcna135048) (NBC News)
+
+- [Cameroon launches world's first nationwide malaria vaccination programme](https://www.france24.com/en/africa/20240122-cameroon-launches-world-s-first-nationwide-malaria-vaccination-programme) (FRANCE 24 English)
+
+- [Historisk malariavaccinering startar i Afrika – ska rädda miljoner barn](https://www.dn.se/varlden/historisk-malariavaccinering-startar-i-afrika-ska-radda-miljoner-barn/) (Www.dn.se)
+
+- [Cameroon kicks off world's first malaria vaccine program for children](https://www.pbs.org/newshour/world/cameroon-kicks-off-worlds-first-malaria-vaccine-program-for-children) (PBS)
+
+- [Malaria vaccination for children begins in Cameroon](https://www.dw.com/en/malaria-vaccination-for-children-begins-in-cameroon/a-68055688) (DW (English))
+
+- [Malaria child vaccination campaign kicks off in Cameroon](https://www.dw.com/en/malaria-child-vaccination-campaign-kicks-off-in-cameroon/a-68055688) (DW (English))
+
+- [Il Camerun lancia la prima campagna vaccinale di massa contro la malaria](https://www.internazionale.it/ultime-notizie/2024/01/22/camerun-campagna-vaccinale-malaria) (Internazionale.it)
+
+- [Landmark malaria vaccination program for Africa launches in Cameroon](https://www.cbsnews.com/news/malaria-vaccination-africa-cameroon-infections-deaths-children/) (CBS News)
+
+- [Updating estimates of Plasmodium knowlesi malaria risk in response to changing land use patterns across Southeast Asia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011570) (Plos.org)
+
+- [Verdens første malariavaksine-utrulling starter i Kamerun](https://www.nrk.no/nyheter/verdens-forste-malariavaksine-utrulling-starter-i-kamerun-1.16727492) (NRK)
+
+- [Kamerun lanserar vaccinationer mot malaria](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1208329) (Aftonbladet.se)
+
+- [Kamerun lanserar vaccinationer mot malaria](https://www.aftonbladet.se/nyheter/a/8Jgjx2/kamerun-lanserar-vaccinationer-mot-malaria) (Aftonbladet.se)
+
+- [Weltweit erste Impfkampagne gegen Malaria in Kamerun gestartet](https://www.stern.de/news/weltweit-erste-impfkampagne-gegen-malaria-in-kamerun-gestartet-34388378.html) (STERN.de)
+
+- [Cameroon Starts World’s First Malaria Vaccine Program For Children](https://www.huffpost.com/entry/cameroon-malaria-vaccine_n_65ae5e52e4b006594e0259c3) (HuffPost)
+
+- [Cameroon launches historic large-scale malaria jab campaign](https://timesofindia.indiatimes.com/world/rest-of-world/cameroon-launches-historic-largescale-malaria-vaccination-program/articleshow/107055861.cms) (The Times of India)
+
+- [Cameroon launches routine malaria shots in global milestone](https://www.marketscreener.com/news/latest/Cameroon-launches-routine-malaria-shots-in-global-milestone-45781934/) (Marketscreener.com)
+
+- [Cameroon starts world-first malaria mass vaccine rollout](https://www.bbc.co.uk/news/world-africa-68037008) (BBC News)
+
+- [Rollout of the World’s First Routine Malaria Vaccinations Begins in Cameroon](https://www.thedailybeast.com/rollout-of-the-worlds-first-routine-malaria-vaccinations-begins-in-cameroon) (Daily Beast)
+
+- [Kamerun aloittaa ensimmäisenä maana rokoteohjelman malariaa vastaan – uskotaan pelastavan tuhansien lasten hengen](https://yle.fi/a/74-20070631) (YLE News)
+
+- [WHO: "Historische Etappe": Erste Malaria-Impfkampagne startet in Kamerun](https://www.n-tv.de/panorama/Erste-Malaria-Impfkampagne-startet-in-Kamerun-article24679405.html) (N-tv.de)
+
+- [Weltweit erste Impfkampagne gegen Malaria](https://www.tagesschau.de/ausland/afrika/kamerun-malaria-impfkampagne-100.html) (tagesschau.de)
+
+- [Cameroon Launches Historic Large-scale Malaria Jab Campaign](https://www.ibtimes.com/cameroon-launches-historic-large-scale-malaria-jab-campaign-3722671) (International Business Times)
+
+- [Cameroon Starts World’s First Malaria Vaccine Program for Children](https://time.com/6565005/cameroon-malaria-vaccines/) (Time)
+
+- [Cameroon Rolls Out First Routine Malaria Vaccination Program for Children](https://www.voanews.com/a/cameroon-rolls-out-first-routine-malaria-vaccination-program-for-children/7449737.html) (VOA News)
+
+- [Weltweit erste Malaria-Impfkampagne](https://science.orf.at/stories/3223247/) (Science.orf.at)
+
+- [Afrikansk land lancerer verdens første vaccinationsprogram mod malaria](https://www.dr.dk/nyheder/seneste/afrikansk-land-lancerer-verdens-foerste-vaccinationsprogram-mod-malaria) (Www.dr.dk)
 
 - [Vaksineprogram mot malaria startar i Kamerun](https://www.nrk.no/nyheter/vaksineprogram-mot-malaria-startar-i-kamerun-1.16726595) (NRK)
 
@@ -73,6 +157,24 @@ Source: [News API](https://newsapi.org/)
 - [Curious about puppy’s vaccines, spay plan](https://www.bostonherald.com/2024/01/21/curious-about-puppys-vaccines-spay-plan/) (Boston Herald)
 
 ## 24-4 (dengue)
+
+- [Ludmilla é embaixadora de programa de prevenção à dengue nas comunidades | Exame](https://exame.com/marketing/ludmilla-e-embaixadora-de-programa-de-prevencao-a-dengue-nas-comunidades/) (Exame.com)
+
+- [Il y a deux fois plus de moustiques tigres signalés en Belgique mais pas encore dengue endémique](https://www.lavenir.net/actu/2024/01/22/il-y-a-deux-fois-plus-de-moustiques-tigres-signales-en-belgique-mais-pas-encore-dengue-endemique-MAAJKA4S35AXZAZGXF4SPVZK4Q/) (Lavenir.net)
+
+- [Neuartiger Impfstoff gegen Dengue-Fieber erfolgreich getestet](https://www.diepresse.com/18020591/neuartiger-impfstoff-gegen-dengue-fieber-erfolgreich-getestet) (Diepresse.com)
+
+- [Malaysia's dengue cases rise fueled by rainy weather](https://www.bignewsnetwork.com/news/274103011/malaysia-dengue-cases-rise-fueled-by-rainy-weather) (Big News Network)
+
+- ['O vírus é mais pesado, e o mosquito, mais resistente', diz infectologista sobre possível epidemia de dengue](https://noticias.r7.com/record-news/videos/o-virus-e-mais-pesado-e-o-mosquito-mais-resistente-diz-infectologista-sobre-possivel-epidemia-de-dengue-22012024) (R7.com)
+
+- [Primeiras doses de vacina da dengue chegam ao Brasil; quem pode tomar?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-22/primeiras-doses-de-vacina-da-dengue-chegam-ao-brasil--quem-pode-tomar-.html) (Ig.com.br)
+
+- [Dengue: saiba o valor da multa para quem jogar lixo nas ruas no DF](https://www.metropoles.com/distrito-federal/dengue-saiba-o-valor-da-multa-para-quem-jogar-lixo-nas-ruas-no-df) (Metropoles.com)
+
+- [Combate à dengue: GDF aplicará multa para quem jogar lixo nas ruas](https://www.metropoles.com/distrito-federal/combate-a-dengue-gdf-aplicara-multa-para-quem-jogar-lixo-nas-ruas) (Metropoles.com)
+
+- [Health D-G: Dengue cases increase to 3,525 from Jan 7 to 13 nationwide, two deaths reported](https://www.malaymail.com/news/malaysia/2024/01/22/health-d-g-dengue-cases-increase-to-3525-from-jan-7-to-13-nationwide-two-deaths-reported/113911) (Malay Mail)
 
 - [Aumentan 60,5% los casos de dengue en una semana: cuáles son las zonas más afectadas](https://www.lanacion.com.ar/sociedad/aumentan-605-los-casos-de-dengue-en-una-semana-cuales-son-las-zonas-mas-afectadas-nid21012024/) (La Nacion)
 
@@ -1606,8 +1708,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
-- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
-
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -1631,8 +1731,6 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
-
-- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 

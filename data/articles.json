@@ -1,8 +1,890 @@
 {
-  "last_updated": "2024-01-23 07:06",
-  "count_articles_total": 808,
-  "count_articles_new": 15,
+  "last_updated": "2024-01-23 19:05",
+  "count_articles_total": 855,
+  "count_articles_new": 49,
   "articles": [
+    {
+      "id": 4498,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nu.nl",
+      "author": "onze nieuwsredactie",
+      "title": "Kameroen start als eerste land ter wereld met uitrol malariavaccin",
+      "description": "Kameroen is maandag als eerste land ter wereld gestart met een routinematig vaccinatieprogramma tegen malaria. De verwachting is dat het programma jaarlijks tienduizenden kinderlevens in Afrika redt.",
+      "url": "https://www.nu.nl/buitenland/6298756/kameroen-start-als-eerste-land-ter-wereld-met-uitrol-malariavaccin.html",
+      "urlToImage": "https://media.nu.nl/m/atlxbvxaysny_wd1280/kameroen-start-als-eerste-land-ter-wereld-met-uitrol-malariavaccin.jpg",
+      "publishedAt": "2024-01-22 18:10:18",
+      "content": "Kameroen is maandag als eerste land ter wereld gestart met een routinematig vaccinatieprogramma tegen malaria. De verwachting is dat het programma jaarlijks tienduizenden kinderlevens in Afrika redt.\u2026 [+1029 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.049881",
+      "internal_id": "648d6e16b2635e7bd4ecba150bed4defcb3d184c9ffa690cabd415a67cff2158",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4492,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.vrt.be",
+      "author": null,
+      "title": "Kameroen start als eerste land met grootschalige vaccinatiecampagne tegen malaria (met Belgische vaccins)",
+      "description": "Het Centraal-Afrikaanse land Kameroen is begonnen aan een grootschalige vaccinatiecampagne tegen malaria voor kinderen onder de zes maanden. Het is de eerste keer dat een land zo'n nationaal vaccinprogramma tegen de ziekte uitrolt. Ook ons land is betrokken, \u2026",
+      "url": "https://www.vrt.be/vrtnws/nl/2024/01/22/kameroen-vaccinatie-malaria/",
+      "urlToImage": "https://images.vrt.be/vrtnws_share/2024/01/22/157302f7-b938-11ee-b483-02b7b76bf47f.jpg",
+      "publishedAt": "2024-01-22 18:05:57",
+      "content": "In november ontving de Kameroense regering 300.000 dosissen van het vaccin. Het gaat over een RTS,S-vaccin, dat door de WHO wordt aangeraden. Interessant detail: de dosissen zijn van Belgische make\u2026 [+1451 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.011871",
+      "internal_id": "9f2df8a6ec432ff88acf4066791af70c42339687ee4c00ef6df5f2439b2ad32b",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4469,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Exame.com",
+      "author": "Juliana Pio",
+      "title": "Ludmilla \u00e9 embaixadora de programa de preven\u00e7\u00e3o \u00e0 dengue nas comunidades | Exame",
+      "description": "Cantora se une \u00e0 marca SBP no movimento \u201cJuntos Contra o Mosquito\u201d para conscientizar a popula\u00e7\u00e3o sobre doen\u00e7as transmitidas por mosquitos",
+      "url": "https://exame.com/marketing/ludmilla-e-embaixadora-de-programa-de-prevencao-a-dengue-nas-comunidades/",
+      "urlToImage": "https://classic.exame.com/wp-content/uploads/2020/03/ludmilla.jpg?quality=70&strip=info&w=1024",
+      "publishedAt": "2024-01-22 17:51:03",
+      "content": "Em meio a alta nos casos de dengue no Brasil, a cantora Ludmilla se uniu \u00e0 SBP, marca de inseticidas e repelentes, em campanha de conscientiza\u00e7\u00e3o. A artista \u00e9 a nova embaixadora do Juntos Contra o Mo\u2026 [+4728 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.147060",
+      "internal_id": "f16c0e41afa33417d63463ea7fd0a16346b3f1e79103aa90e08138611029133e",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4487,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Cameroon launches malaria vaccination programme in global milestone",
+      "description": "DOUALA: The global fight against malaria took a stride forward on Monday (Jan 22) as Cameroon started the world's first routine vaccine programme against the mosquito-borne disease, although Reuters journalists witnessed few people in clinics receiving the sh\u2026",
+      "url": "https://www.channelnewsasia.com/world/cameroon-launches-malaria-vaccination-programme-global-milestone-4064646",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--6FBs9jbX--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/cameroon_malaria_vaccine_34404.jpg?itok=jTwjmJ5d",
+      "publishedAt": "2024-01-22 17:31:00",
+      "content": "Caroline Badefona, manager of Cliniques des Anges hospital in Douala, said five girls and one boy aged six months were vaccinated at her hospital on Monday. \"It went very well,\" she said. \"We are pr\u2026 [+2245 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.962978",
+      "internal_id": "b245b034eaa77aa83ada7906112adacf0a7a5ec9d2184661b1937760d84eda38",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4457,
+      "query": [
+        "measles"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Clare Wilson",
+      "title": "How measles can do long-lasting damage to children's immune systems",
+      "description": "Low vaccination rates have led to measles outbreaks in several countries, but many people are unaware of how the virus can have an effect called \u2018immune amnesia\u2019",
+      "url": "https://www.newscientist.com/article/2413540-how-measles-can-do-long-lasting-damage-to-childrens-immune-systems/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/01/22155252/SEI_188270005.jpg",
+      "publishedAt": "2024-01-22 17:08:21",
+      "content": "Measles is resurgent in several countries Science History Images / Alamy Stock Photo This is an extract from Health Check, our newsletter about the most essential health and fitness news. Sign up t\u2026 [+352 chars]",
+      "retrievedAt": "2024-01-23 19:05:28.621867",
+      "internal_id": "5e320a7a9d42225eadd4ba4bd9161b417d3ee20ef0d50e2bb3960a092e322715",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4463,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Lavenir.net",
+      "author": "Anne Sandront",
+      "title": "Il y a deux fois plus de moustiques tigres signal\u00e9s en Belgique mais pas encore dengue end\u00e9mique",
+      "description": "Il y a des cas import\u00e9s de dengue et de chicungunya en Belgique, des Belges revenus de vacances en zone tropicale... ou en France et en Italie. Le nombre moustiques tigres signal\u00e9s chez nous a doubl\u00e9. ...",
+      "url": "https://www.lavenir.net/actu/2024/01/22/il-y-a-deux-fois-plus-de-moustiques-tigres-signales-en-belgique-mais-pas-encore-dengue-endemique-MAAJKA4S35AXZAZGXF4SPVZK4Q/",
+      "urlToImage": "https://www.lavenir.net/resizer/Co9kNI3K0cOcqNiXQDrlRGWnd6I=/1200x630/filters:format(jpeg):focal(544.5x393.5:554.5x383.5):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/UFVD77VYQZHRHBUO5OR7E7I6TY.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/ZKQJWZ4JVNAP7PXQBBG4PY2FWI.jpg",
+      "publishedAt": "2024-01-22 17:06:00",
+      "content": "Des moustiques tigres ont \u00e9t\u00e9 d\u00e9tect\u00e9s sur 25 sites en Belgique, dont 18 ont \u00e9t\u00e9 signal\u00e9s par des citoyens (par une photo envoy\u00e9e sur surveillancemoustique.be) et 7 d\u00e9tect\u00e9s par la surveillance des p\u2026 [+1627 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.083367",
+      "internal_id": "ad840c06131ea8f5c463e1a6fd9c33879487dca9fe0dc3ca24493adfee6ba75f",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4486,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "cesar.faltskar@expressen.se (Cesar F\u00e4ltsk\u00e4r)",
+      "title": "Daniella, 2, f\u00f6rst att vaccineras mot malaria",
+      "description": "H\u00f6sten 2021 godk\u00e4ndes v\u00e4rldens f\u00f6rsta vaccin mot malaria f\u00f6r barn av V\u00e4rldsh\u00e4lsoorganisationen (WHO). P\u00e5 m\u00e5ndagen var kamerunska Daniella, 2, f\u00f6rst ut med att f\u00e5 vaccinet. \u2013 Jag valde att vaccinera mina tvillingar f\u00f6r jag har sett hur skadlig malaria kan vara\u2026",
+      "url": "https://www.expressen.se/nyheter/daniella-2-forst-att-vaccineras-mot-malaria-/",
+      "urlToImage": "https://static.cdn-expressen.se/images/22/84/228470bcbdd14ef89946bf0f2dfb1338/16x9/original.jpg",
+      "publishedAt": "2024-01-22 16:40:19",
+      "content": "Varje \u00e5r d\u00f6r n\u00e4stan 600 000 m\u00e4nniskor av malaria, en sjukdom som fr\u00e4mst sprids av myggor. Runt 85 procent av d\u00f6dsfallen drabbar barn under fem \u00e5r, och fram till i dag har ett effektivt vaccin lyst m\u2026 [+942 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.956918",
+      "internal_id": "43020d593dffabae3727027660f9655a4946d3d566e6c3fef39dbaad2ca40280",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4473,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "Daniela Remus, NDR",
+      "title": "Steigende Todeszahlen bei Kleinkindern: Malaria wieder auf dem Vormarsch",
+      "description": "Jedes Jahr stecken sich Sch\u00e4tzungen zufolge weltweit bis zu 300 Millionen Menschen mit Malaria an. Mehr als 600.000 der Erkrankten sterben j\u00e4hrlich an der Krankheit. Die meisten von ihnen sind Kinder. Von Daniela Remus.",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/malaria-130.html",
+      "urlToImage": "https://images.tagesschau.de/image/1c292859-7d90-431b-b0b9-ce7c34a01c07/AAABjTDwgu4/AAABibBxqrQ/16x9-1280/anopheles-stephensi-100.jpg",
+      "publishedAt": "2024-01-22 16:36:46",
+      "content": "Stand: 22.01.2024 17:36 Uhr Jedes Jahr stecken sich Sch\u00e4tzungen zufolge weltweit bis zu 300 Millionen Menschen mit Malaria an. Mehr als 600.000 der Erkrankten sterben j\u00e4hrlich an der Krankheit. Die \u2026 [+5204 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.880218",
+      "internal_id": "b68c5b18343be70cb593ba10800bf4314dd50f33388ac24bdc258320e2ea56c8",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4475,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Max Sprick (max)",
+      "title": "Meilenstein im Kampf gegen Malaria: Kamerun startet Routine-Impfprogramm f\u00fcr Kinder",
+      "description": "Jedes Jahr sterben weltweit rund 400 000 Menschen an Malaria, vor allem Kleinkinder. Ein Impfstoff soll helfen. Auch wenn er schw\u00e4cher wirkt als erhofft.",
+      "url": "https://www.nzz.ch/panorama/meilenstein-im-kampf-gegen-malaria-kamerun-startet-routine-impfprogramm-fuer-kinder-ld.1775314",
+      "urlToImage": "https://img.nzz.ch/2024/01/22/f2dc1702-57f8-4a82-917e-45dee9d2e99c.jpeg?width=1200&height=674&fit=bound&quality=75&auto=webp&crop=6900,3876,x0,y540&wmark=nzz",
+      "publishedAt": "2024-01-22 16:33:27",
+      "content": "Eine Mutter in Kenya h\u00e4lt ihr Baby, w\u00e4hrend es eine Malaria-Impfung bekommt. Kamerun hat als erstes Land der Welt ein Routine-Impfprogramm f\u00fcr Kinder gegen Malaria gestartet. \u00abWir haben lange auf ei\u2026 [+5259 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.891815",
+      "internal_id": "41baead3482be84b7c30af02e6535e0847b3e257717abaa5fdcd5685f0bd8c3c",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4462,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Neuartiger Impfstoff gegen Dengue-Fieber erfolgreich getestet",
+      "description": "In ersten Tests zeigt der auf T-Zellen im K\u00f6rper wirkende Impfstoff keine Nebenwirkungen. Laut WHO ist die H\u00e4lfte der Weltbev\u00f6lkerung aufgrund des Klimawandels gef\u00e4hrdet, am Dengue-Fieber zu erkranken. \u00dcbertragen wird es durch die Tigerm\u00fccke.",
+      "url": "https://www.diepresse.com/18020591/neuartiger-impfstoff-gegen-dengue-fieber-erfolgreich-getestet",
+      "urlToImage": "https://img.diepresse.com/public/incoming/yihm00-Asiatische-Tigermuecke-Tropische-Tigermuecke-Dengue-Muecke-Denguemuecke-Zika-Muecke-Zikamuecke/alternates/DPR_SOCIAL_NACHRICHTEN/Asiatische%20Tigermuecke%20Tropische%20Tigermuecke%20Dengue%20Muecke%20Denguemuecke%20Zika%20Muecke%20Zikamuecke",
+      "publishedAt": "2024-01-22 16:32:55",
+      "content": "In ersten Tests zeigt der auf T-Zellen im K\u00f6rper wirkende Impfstoff keine Nebenwirkungen. Laut WHO ist die H\u00e4lfte der Weltbev\u00f6lkerung aufgrund des Klimawandels gef\u00e4hrdet, am Dengue-Fieber zu erkranke\u2026 [+2337 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.069380",
+      "internal_id": "1e951dd021d808bcac1c3eb19fd5e89b3dff244a14f15b3512e5ccef840f1a3b",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4493,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Associated Press",
+      "title": "World's first malaria vaccine program for children starts in Cameroon",
+      "description": "Cameroon will be the first country to routinely give children a new malaria vaccine, aiming to vaccinate about 250,000 kids this year and next year.",
+      "url": "https://www.nbcnews.com/health/kids-health/first-malaria-vaccine-program-children-cameroon-rcna135048",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240122-malaria-vaccine-al-1030-c1d3b3.jpg",
+      "publishedAt": "2024-01-22 16:27:37",
+      "content": "Cameroon will be the first country to routinely give children a new malaria vaccine as the shots are rolled out in Africa. The campaign due to start Monday was described by officials as a milestone \u2026 [+2012 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.017845",
+      "internal_id": "ea79de8c4ee3bd371b0e3286bcddfc7b245732e43d21ec6a3278589723a557f3",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4499,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "NEWS WIRES",
+      "title": "Cameroon launches world's first nationwide malaria vaccination programme",
+      "description": "Cameroon on Monday launched the first malaria vaccination programme to be offered nationwide and as a matter of routine, AFP journalists saw, in a step the WHO has described as \"historic\".",
+      "url": "https://www.france24.com/en/africa/20240122-cameroon-launches-world-s-first-nationwide-malaria-vaccination-programme",
+      "urlToImage": "https://s.france24.com/media/display/6b228e5e-b936-11ee-bcc1-005056bfb2b6/w:1280/p:16x9/000_34GB64C.jpg",
+      "publishedAt": "2024-01-22 16:09:10",
+      "content": "Cameroon on Monday launched the first malaria vaccination programme to be offered nationwide and as a matter of routine, AFP journalists saw, in a step the WHO has described as \"historic\". The mosqui\u2026 [+2632 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.054843",
+      "internal_id": "760503e496fd9190cf87a48fdbc5bbb719f8bea8397027a7d30abfa847933687",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4470,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Big News Network",
+      "author": null,
+      "title": "Malaysia's dengue cases rise fueled by rainy weather",
+      "description": "KUALA LUMPUR, Jan. 22 (Xinhua) -- The number of dengue fever cases in Malaysia is on the rise, with the Health Ministry warning on Monday that persistent rainy weather is contributing to the problem. The number of dengue fever cases increased to 3,525 cases f\u2026",
+      "url": "https://www.bignewsnetwork.com/news/274103011/malaysia-dengue-cases-rise-fueled-by-rainy-weather",
+      "urlToImage": "https://static.midwestradionetwork.com/story_logos/premier/malaysia-sun.jpg",
+      "publishedAt": "2024-01-22 16:05:06",
+      "content": "KUALA LUMPUR, Jan. 22 (Xinhua) -- The number of dengue fever cases in Malaysia is on the rise, with the Health Ministry warning on Monday that persistent rainy weather is contributing to the problem.\u2026 [+763 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.152491",
+      "internal_id": "7f570207c543c3500bb6e670c9246703f013a01f70f88605e2c2a7cd05c715f4",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4483,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.dn.se",
+      "author": "Emilia Lindell",
+      "title": "Historisk malariavaccinering startar i Afrika \u2013 ska r\u00e4dda miljoner barn",
+      "description": "",
+      "url": "https://www.dn.se/varlden/historisk-malariavaccinering-startar-i-afrika-ska-radda-miljoner-barn/",
+      "urlToImage": "https://cached-images.bonnier.news/gcs/bilder/dn-mly/05b48347-dfa9-4f7e-a4d7-5b945a175ec5.jpeg?interpolation=lanczos-none&fit=around%7C1024:576&crop=1024:h;center,top&output-quality=80",
+      "publishedAt": "2024-01-22 15:58:41",
+      "content": "Bebisen Daniella fick den f\u00f6rsta sprutan n\u00e4r malariavaccineringen i Kamerun inleddes under m\u00e5ndagen, skriver WHO Africa i ett inl\u00e4gg p\u00e5 X. Landet blir d\u00e4rmed det f\u00f6rsta i v\u00e4rlden att introducera mala\u2026 [+1527 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.940052",
+      "internal_id": "ff89803c77e9b484ed251a249e93c3d2e1fb139881da05766f8274a357c8873b",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4496,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Associated Press",
+      "title": "Cameroon kicks off world's first malaria vaccine program for children",
+      "description": "The campaign is being described as a milestone in the decades-long effort to curb malaria on the continent, which accounts for 95% of the world's deaths from the disease.",
+      "url": "https://www.pbs.org/newshour/world/cameroon-kicks-off-worlds-first-malaria-vaccine-program-for-children",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/GettyImages-1944082211-e1705938599358-1024x594.jpg",
+      "publishedAt": "2024-01-22 15:50:25",
+      "content": "Cameroon will be the first country to routinely give children a new malaria vaccine as the shots are rolled out in Africa. The campaign due to start Monday was described by officials as a milestone \u2026 [+2156 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.038724",
+      "internal_id": "9fb372db8d4b163971a32336ad95a9d46b1b17606f067b34f1a89cb8f3d6aeb5",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4480,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Carla Bleiker",
+      "title": "Malaria vaccination for children begins in Cameroon",
+      "description": "Cameroon has launched a large-scale malaria vaccination campaign that's expected to reach 250,000 children this year and next. Experts say it will save lives, even if the vaccine isn't perfect.",
+      "url": "https://www.dw.com/en/malaria-vaccination-for-children-begins-in-cameroon/a-68055688",
+      "urlToImage": "https://static.dw.com/image/65427115_6.jpg",
+      "publishedAt": "2024-01-22 15:48:00",
+      "content": "On Monday, health authorities in Cameroon kicked off a vaccination campaign against malaria, a parasitic disease that kills hundreds of thousands of people every year, most of them children. Around 9\u2026 [+4651 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.925459",
+      "internal_id": "2e5d0c401932dc1f34fbfced35c01a1a4321f90cfee25181ceb26464192854b3",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4485,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Carla Bleiker",
+      "title": "Malaria child vaccination campaign kicks off in Cameroon",
+      "description": "Cameroon has begun a large-scale malaria vaccination campaign that\u2019s supposed to see 250,000 children immunized this year and next. Experts say it will save lives, even though the vaccine isn't perfect.",
+      "url": "https://www.dw.com/en/malaria-child-vaccination-campaign-kicks-off-in-cameroon/a-68055688",
+      "urlToImage": "https://static.dw.com/image/65427115_6.jpg",
+      "publishedAt": "2024-01-22 15:48:00",
+      "content": "On Monday, health authorities in Cameroon kicked off a vaccination campaign against malaria, a parasitic disease that kills hundreds of thousands of people every year, most of them children. Around 9\u2026 [+4636 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.951495",
+      "internal_id": "a446e030b710cda9803485d0fd991954792cfbc91e916ab42bbc0e162baa79b7",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4467,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "'O v\u00edrus \u00e9 mais pesado, e o mosquito, mais resistente', diz infectologista sobre poss\u00edvel epidemia de dengue",
+      "description": "A infectologista Raquel Muarrek explicou um poss\u00edvel motivo para o aumento recente nos casos de dengue em algumas regi\u00f5es do pa\u00eds. \u201cO v\u00edrus es...",
+      "url": "https://noticias.r7.com/record-news/videos/o-virus-e-mais-pesado-e-o-mosquito-mais-resistente-diz-infectologista-sobre-possivel-epidemia-de-dengue-22012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/22/65aeae73ca9084212700023e/bfeff4aa8acb47f68f5c89708e579672_2460819_EPP_RRN_2201_DENGUE_INFECTOLOGISTA_thumb.jpg",
+      "publishedAt": "2024-01-22 15:38:00",
+      "content": "A infectologista Raquel Muarrek explicou um poss\u00edvel motivo para o aumento recente nos casos de dengue em algumas regi\u00f5es do pa\u00eds. \u201cO v\u00edrus est\u00e1 mais pesado, e o mosquito, mais resistente\u201d, diz. Atua\u2026 [+76 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.123538",
+      "internal_id": "3dfe3d348d414bd9d6df0e7c34c2f6fe5c906e59a284f74226797c090d3e1594",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4505,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Leah Eisenstadt",
+      "title": "Study reveals how some bacterial infections become chronic",
+      "description": "In the early 1900s, a cook named Mary Mallon, better known as \"Typhoid Mary,\" spread Salmonella Typhi, the causative agent of typhoid fever, to dozens of her patrons even though she showed no symptoms. Many people today harbor pathogenic Salmonella bacteria f\u2026",
+      "url": "https://phys.org/news/2024-01-reveals-bacterial-infections-chronic.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2024/study-reveals-how-some.jpg",
+      "publishedAt": "2024-01-22 15:07:04",
+      "content": "In the early 1900s, a cook named Mary Mallon, better known as \"Typhoid Mary,\" spread Salmonella Typhi, the causative agent of typhoid fever, to dozens of her patrons even though she showed no symptom\u2026 [+5505 chars]",
+      "retrievedAt": "2024-01-23 19:05:31.412212",
+      "internal_id": "508ec5af2a2a7e2586559771d3e34e8345e472402f00cc70b4555a8997e2a802",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4460,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Measles jab campaign targets unprotected millions",
+      "description": "More than three million children under 16 are at risk of becoming ill, NHS England says.",
+      "url": "https://www.bbc.co.uk/news/health-68057317",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18003/production/_132370389_jab-index2-getty.jpg",
+      "publishedAt": "2024-01-22 14:28:08",
+      "content": "Millions of parents in England are being contacted by the NHS and urged to make an appointment to have their children vaccinated against measles, as cases rise across the country. More than 3.4 mil\u2026 [+4327 chars]",
+      "retrievedAt": "2024-01-23 19:05:28.666871",
+      "internal_id": "d30ad61082e746d41901661148574605df823aad5b4e85fff98c04591c1b269a",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4474,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Il Camerun lancia la prima campagna vaccinale di massa contro la malaria",
+      "description": "Il 22 gennaio il Camerun ha lanciato la prima campagna di vaccinazione di massa contro la malaria, definita un \u201cevento storico\u201d dall\u2019Organizzazione mondiale della sanit\u00e0. Leggi",
+      "url": "https://www.internazionale.it/ultime-notizie/2024/01/22/camerun-campagna-vaccinale-malaria",
+      "urlToImage": "https://media.internazionale.it/images/2024/01/22/207062-sd.jpeg",
+      "publishedAt": "2024-01-22 14:18:15",
+      "content": "Il 22 gennaio il Camerun ha lanciato la prima campagna di vaccinazione di massa contro la malaria, definita un evento storico dallOrganizzazione mondiale della sanit\u00e0 (Oms). Noah Ngah, un bambino d\u2026 [+2152 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.885499",
+      "internal_id": "501d3c402de0de6a60166bdb99c38ebb418ae957d0abe85a6eafa1a94a01111b",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4461,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Millions in the UK are being urged to get vaccinations during a surge in measles cases",
+      "description": "U.K. health officials are urging millions of parents to book their children in for missed measles, mumps and rubella shots amid a sharp increase in the number of measles cases and the lowest vaccination rates in a decade",
+      "url": "https://abcnews.go.com/Health/wireStory/millions-uk-urged-vaccinations-surge-measles-cases-106562121",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-01-22 14:06:14",
+      "content": "LONDON -- U.K. health officials on Monday urged millions of parents to book their children in for missed measles, mumps and rubella shots amid a sharp increase in the number of measles cases and the \u2026 [+1798 chars]",
+      "retrievedAt": "2024-01-23 19:05:28.674070",
+      "internal_id": "522108a72c65acdbe9a4c3d6f782103c4972f6c03e698496ff85f89d36e13605",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4459,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Millions in the UK are being urged to get vaccinations during a surge in measles cases",
+      "description": "U.K. health officials are urging millions of parents to book their children in for missed measles, mumps and rubella shots amid a sharp increase in the number of measles cases and the lowest vaccination rates in a decade",
+      "url": "https://abcnews.go.com/International/wireStory/millions-uk-urged-vaccinations-surge-measles-cases-106562118",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-01-22 14:06:09",
+      "content": "LONDON -- U.K. health officials on Monday urged millions of parents to book their children in for missed measles, mumps and rubella shots amid a sharp increase in the number of measles cases and the \u2026 [+1798 chars]",
+      "retrievedAt": "2024-01-23 19:05:28.662029",
+      "internal_id": "4a0e8469380d2213f3db1f50c99ccdfce5388cdd7ecc6b8691125020fa819078",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4478,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Sarah Carter",
+      "title": "Landmark malaria vaccination program for Africa launches in Cameroon",
+      "description": "History is made in Cameroon as the first doses of a malaria vaccine are rolled out in a widespread, international mass-vaccination effort.",
+      "url": "https://www.cbsnews.com/news/malaria-vaccination-africa-cameroon-infections-deaths-children/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/22/57028c45-a540-433f-98c2-7e42a87ab477/thumbnail/1200x630/b884719d488cbfbd9d051b2939a8cb43/cameroon-malaria-vaccine-africa-1944076924.jpg?v=47479038714af14683e43d6675dccca0",
+      "publishedAt": "2024-01-22 14:01:40",
+      "content": "Johannesburg \u2014 It seems hard to believe that Africa's biggest killer is a tiny insect, but almost every minute, an African child dies with malaria. The continent bears the brunt of the mosquito-borne\u2026 [+4196 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.907508",
+      "internal_id": "0f6eefb99959968a111a1473452a1b324dff99c9b25e96d5bd28096e9d3d61b4",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4500,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ruarai J. Tobin, Lucinda E. Harrison, Meg K. Tully, Inke N. D. Lubis, Rintis Noviyanti, Nicholas M. Anstey, Giri S. Rajahram, Matthew J. Grigg, Jennifer A. Flegg, David J. Price, Freya M. Shearer",
+      "title": "Updating estimates of Plasmodium knowlesi malaria risk in response to changing land use patterns across Southeast Asia",
+      "description": "Author summary Plasmodium knowlesi is a parasite that can cause malaria when it infects humans. Although most people do not experience severe illness from Plasmodium knowlesi infection, a small number will develop serious or even fatal disease. The parasite i\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011570",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011570.g003&size=inline",
+      "publishedAt": "2024-01-22 14:00:00",
+      "content": "Citation: Tobin RJ, Harrison LE, Tully MK, Lubis IND, Noviyanti R, Anstey NM, et al. (2024) Updating estimates of Plasmodium knowlesi malaria risk in response to changing land use patterns across Sou\u2026 [+49468 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.064194",
+      "internal_id": "bfdb483bf89f219895641317366d6112841dd04ca1dcd522e319c901d39f5dd0",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4494,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "nrk",
+      "source_name": "NRK",
+      "author": "NRK",
+      "title": "Verdens f\u00f8rste malariavaksine-utrulling starter i Kamerun",
+      "description": "Verdens f\u00f8rste vaksineprogram mot malaria har startet i Kamerun. Det melder flere medier, blant annet BBC. Utrullingen ventes \u00e5 redde livet til tusenvis av barn over hele Afrika. Det f\u00f8rste vaksinestikket ble gitt til en baby, Daniella, p\u00e5 en helseinstitusjon\u2026",
+      "url": "https://www.nrk.no/nyheter/verdens-forste-malariavaksine-utrulling-starter-i-kamerun-1.16727492",
+      "urlToImage": "https://static.nrk.no/nrkno/serum/2.0.499/common/img/default.jpg",
+      "publishedAt": "2024-01-22 13:50:21",
+      "content": "22. januar2024kl.14:50Verdens f\u00f8rste vaksineprogram mot malaria har startet i Kamerun. Det melder flere medier, blant annet BBC. Utrullingen ventes \u00e5 redde livet til tusenvis av barn over hele Afri\u2026 [+454 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.026465",
+      "internal_id": "6f7eec1383e187947ce17051c634f867ef12654fee35b7fd5f3eb22890a45161",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4495,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": null,
+      "title": "Kamerun lanserar vaccinationer mot malaria",
+      "description": "\u25b8 Kamerun lanserade p\u00e5 m\u00e5ndagen landets f\u00f6rsta nationella malariavaccinationsprogram, vilket ben\u00e4mns som \u201dhistoriskt\u201d av\u2026",
+      "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1208329",
+      "urlToImage": "https://imbo.vgc.no/users/bt/images/81c8f004a98bdb3ed74552d211a38822?t%5B%5D=maxSize%3Awidth%3D1200&publicKey=bt-w&accessToken=7ee1183ef5e4112d913729190432b69235e335c5b2f6d052c1435788610c1de5",
+      "publishedAt": "2024-01-22 13:50:14",
+      "content": "TRE NYHETER DU INTE F\u00c5R MISSA: Kamerun lanserar vaccinationer mot malaria Kamerun har lanserat landets f\u00f6rsta nationella malariavaccinationsprogram. Arkivbild. Foto: Jerome Delay/AP/TT Kam\u2026 [+14567 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.031901",
+      "internal_id": "f5d75731d3a80a6f387fb0261adc09955ce23f1fc3210eadd7f8804d838063d8",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4466,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Primeiras doses de vacina da dengue chegam ao Brasil; quem pode tomar?",
+      "description": "Cerca de 750 mil doses da vacina Qdenga j\u00e1 chegaram ao Brasil e, ap\u00f3s an\u00e1lise, ser\u00e3o enviadas para o SUS. O Minist\u00e9rio da Sa\u00fade j\u00e1 definiu o p\u00fablico-alvo",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-22/primeiras-doses-de-vacina-da-dengue-chegam-ao-brasil--quem-pode-tomar-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/67/cn/yr/67cnyrlsu29dmgc8t25rnl0xf.jpg",
+      "publishedAt": "2024-01-22 13:45:31",
+      "content": "No s\u00e1bado (20), desembarcou no Brasil a primeira remessa com cerca de 750 mil doses da vacina contra a dengue que ser\u00e3o disponibilizadas no Sistema \u00danico de Sa\u00fade (SUS). O imunizante Qdenga, da farma\u2026 [+2122 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.106251",
+      "internal_id": "183ae8b3bb430476242febf71de0409c01ebe5fed63492735139a5092cc80877",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4458,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Birmingham Children's Hospital isolating measles patients",
+      "description": "A&E consultant Chris Bird said the measures felt like going \"back to Covid\" in some ways.",
+      "url": "https://www.bbc.co.uk/news/uk-england-birmingham-68058328",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/77B9/production/_132394603_whatsubject.jpg",
+      "publishedAt": "2024-01-22 13:42:35",
+      "content": "Birmingham Children's Hospital is having to isolate measles patients to stop the disease spreading, a doctor at the hospital has said. Chris Bird, an A&amp;E consultant, said the measures felt like \u2026 [+1734 chars]",
+      "retrievedAt": "2024-01-23 19:05:28.637090",
+      "internal_id": "fce40d8d3cd74dd6f68fa7e2a700520b56ad5d67d2e9c12781cf637c05f941fb",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4476,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Kamerun lanserar vaccinationer mot malaria",
+      "description": "Kamerun lanserade p\u00e5 m\u00e5ndagen landets f\u00f6rsta nationella malariavaccinationsprogram, vilket ben\u00e4mns som \u201dhistoriskt\u201d av V\u00e4rldsh\u00e4lsoorganisationen WHO.",
+      "url": "https://www.aftonbladet.se/nyheter/a/8Jgjx2/kamerun-lanserar-vaccinationer-mot-malaria",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/698a5d11-7dcb-4ab7-86d0-16d296f1156b?fit=crop&format=auto&h=1268&q=50&w=1900&s=a6a93bc8ffe38535b59fe2cafe3306d49b934116",
+      "publishedAt": "2024-01-22 13:19:36",
+      "content": "share-arrow Dela Kamerun lanserade p\u00e5 m\u00e5ndagen landets f\u00f6rsta nationella malariavaccinationsprogram, vilket ben\u00e4mns som historiskt av V\u00e4rldsh\u00e4lsoorganisationen WHO. Sjukdomen sk\u00f6rdar varje \u00e5r 600 \u2026 [+556 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.897274",
+      "internal_id": "83c9d3823e41a1472a748223baf006cbe2ce82d069154a2a0d72e3fe1ae6c1fc",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4477,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Weltweit erste Impfkampagne gegen Malaria in Kamerun gestartet",
+      "description": "Startschuss f\u00fcr die weltweit erste Impfkampagne gegen Malaria: In Kamerun hat eine gro\u00dfangelegte Impfaktion gegen die Tropenkrankheit begonnen. Als einer der ersten erhielt am Morgen laut dem Bericht von AFP-Korrespondenten in einem kleinen Krankenhaus in der\u2026",
+      "url": "https://www.stern.de/news/weltweit-erste-impfkampagne-gegen-malaria-in-kamerun-gestartet-34388378.html",
+      "urlToImage": "https://image.stern.de/34388380/t/ux/v1/w1440/r1.7778/-/22--malariaimpfung-fuer-baby-in-soa---746365506f0b5291.jpg",
+      "publishedAt": "2024-01-22 13:00:53",
+      "content": "Startschuss f\u00fcr die weltweit erste Impfkampagne gegen Malaria: In Kamerun hat eine gro\u00dfangelegte Impfaktion gegen die Tropenkrankheit begonnen. Als einer der ersten erhielt am Morgen laut dem Bericht\u2026 [+2379 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.902483",
+      "internal_id": "1bcf5de180070a4a6567294ab452509eff80d3927981e6e822a25e3299bda307",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4465,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "Dengue: saiba o valor da multa para quem jogar lixo nas ruas no DF",
+      "description": "As puni\u00e7\u00f5es para aqueles que insistem em jogar lixo nas ruas variam de notifica\u00e7\u00f5es a multas que v\u00e3o de R$ 2.799 at\u00e9 10 vezes esse valor",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-saiba-o-valor-da-multa-para-quem-jogar-lixo-nas-ruas-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/22091828/Divulgacao-Lixo-dengue.jpg",
+      "publishedAt": "2024-01-22 12:35:28",
+      "content": "As puni\u00e7\u00f5es para aqueles que insistem em jogar lixo nas ruas do Distrito Federal variam de notifica\u00e7\u00f5es a multas que v\u00e3o de R$ 2.799 at\u00e9 10 vezes esse valor, ou seja, R$ 27.799. O Governo do Distrit\u2026 [+3006 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.094055",
+      "internal_id": "efafc22ef62410a8f2f294e91cc80183f5f44cf6eb123f1917af0c755926a87e",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4471,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "AP",
+      "title": "Cameroon Starts World\u2019s First Malaria Vaccine Program For Children",
+      "description": "Cameroon will be the first country to routinely give children a new malaria vaccine as the shots are rolled out in Africa.",
+      "url": "https://www.huffpost.com/entry/cameroon-malaria-vaccine_n_65ae5e52e4b006594e0259c3",
+      "urlToImage": "https://img.huffingtonpost.com/asset/65ae5e552200003400fb072c.jpeg?cache=R78U6J9cIj&ops=1200_630",
+      "publishedAt": "2024-01-22 12:27:50",
+      "content": "Health officials prepare to vaccinate residents of the Malawi village of Migowi, on Dec. 10, 2019, where young children become test subjects for the world's first vaccine against malaria. Cameroon \u2026 [+4643 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.870092",
+      "internal_id": "337e8a8754516f638a90a669c2a24c5298a751e0b975bfb604582c15d9485ea6",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4464,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Nath\u00e1lia Cardim",
+      "title": "Combate \u00e0 dengue: GDF aplicar\u00e1 multa para quem jogar lixo nas ruas",
+      "description": "A\u00e7\u00f5es de fiscaliza\u00e7\u00e3o est\u00e3o sendo intensificadas para combater a doen\u00e7a. Em 2023, foram aplicadas 3.867 notifica\u00e7\u00f5es e multas",
+      "url": "https://www.metropoles.com/distrito-federal/combate-a-dengue-gdf-aplicara-multa-para-quem-jogar-lixo-nas-ruas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/22085646/Divulgacao-Lixo-dengue-multa-entulhos.jpg",
+      "publishedAt": "2024-01-22 12:11:48",
+      "content": "O descarte irregular de lixo e entulho em locais inadequados prejudica toda a popula\u00e7\u00e3o e favorece a prolifera\u00e7\u00e3o do Aedes aegypti, o mosquito transmissor da dengue, especialmente durante o per\u00edodo c\u2026 [+3714 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.088593",
+      "internal_id": "0c2ccd8caf2c3ae00db97f60f581439e46e3102bc6c9ce92a3bfcd1cc83f62b1",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4489,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "Cameroon launches historic large-scale malaria jab campaign",
+      "description": "Rest of World News: Cameroon has launched a historic large-scale malaria jab campaign, becoming the first country to offer nationwide routine malaria vaccination. The vaccination programme aims to combat the mosquito-borne disease that kills more than 600,000\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/cameroon-launches-historic-largescale-malaria-vaccination-program/articleshow/107055861.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107055977,width-1070,height-580,imgsize-859183,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-01-22 12:04:56",
+      "content": "Kids who respect their parents were taught these 10 things",
+      "retrievedAt": "2024-01-23 19:05:29.984588",
+      "internal_id": "32331616faf8ad561ea126aae0a122dadb68cddf5d870b63cbf2bbbfa9527163",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4491,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Cameroon launches routine malaria shots in global milestone",
+      "description": "(marketscreener.com) -The global fight against malaria took a stride forward on Monday as Cameroon launched the world's first routine vaccine programme against the mosquito-borne disease that is projected to save tens of thousands of children's lives per year\u2026",
+      "url": "https://www.marketscreener.com/news/latest/Cameroon-launches-routine-malaria-shots-in-global-milestone-45781934/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-01-22 12:02:39",
+      "content": "(Reuters) -The global fight against malaria took a stride forward on Monday as Cameroon launched the world's first routine vaccine programme against the mosquito-borne disease that is projected to sa\u2026 [+2669 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.001573",
+      "internal_id": "d4407ab85aac194b3cbd3bf9be2ee2fbfec543a5c8adbde4bb2e1bed299969b4",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4503,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Techno-science.net",
+      "author": "Alain REDBRAN",
+      "title": "Le virus Zika d\u00e9montre son efficacit\u00e9 pour \u00e9radiquer... certains cancers",
+      "description": "Dans une \u00e9tude r\u00e9cente publi\u00e9e le 9 janvier dans Cancer Research Communications, des chercheurs ont utilis\u00e9 le Zika pour traiter des souris implant\u00e9es avec des cellules de neuroblastome humain,...",
+      "url": "https://www.techno-science.net/actualite/virus-zika-demontre-son-efficacite-eradiquer-certains-cancers-N24346.html",
+      "urlToImage": "https://static.techno-science.net/illustration/Libre/OAI/2024/01/15/file-6EJZMsmmzbrH2U9xgF92Maue.jpg",
+      "publishedAt": "2024-01-22 12:00:02",
+      "content": "Dans une \u00e9tude r\u00e9cente publi\u00e9e le 9 janvier dans Cancer Research Communications, des chercheurs ont utilis\u00e9 le Zika pour traiter des souris implant\u00e9es avec des cellules de neuroblastome humain, un ca\u2026 [+3433 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.481255",
+      "internal_id": "c656b3550a454ce52ccf6f3179c057c0dcbf5ec9fa094795bd52786ac05299a7",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4479,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Cameroon starts world-first malaria mass vaccine rollout",
+      "description": "It becomes the first nation in the world to roll out a universal anti-malaria jab for infants.",
+      "url": "https://www.bbc.co.uk/news/world-africa-68037008",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/147D9/production/_132392938_gettyimages-1944073235.jpg",
+      "publishedAt": "2024-01-22 11:59:55",
+      "content": "The world's first routine vaccine programme against malaria has started in Cameroon, in a move projected to save thousands of children's lives across Africa. The symbolic first jab was given to a b\u2026 [+1910 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.913598",
+      "internal_id": "0078e9afd2fc74751901692ebd4588796287809174424c70747e281b48f63a97",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4497,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Daily Beast",
+      "author": "Dan Ladden-Hall",
+      "title": "Rollout of the World\u2019s First Routine Malaria Vaccinations Begins in Cameroon",
+      "description": "Baz Ratner/Reuters The world\u2019s first routine vaccine program for malaria will launch in Cameroon on Monday, marking a game-changing moment in a public health battle against the mosquito-borne disease that kills almost half a million children under the age of\u2026",
+      "url": "https://www.thedailybeast.com/rollout-of-the-worlds-first-routine-malaria-vaccinations-begins-in-cameroon",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3094,w_5500,x_0,y_573/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1705920786/2022-07-13T050106Z_477389775_RC2V2V96UEZD_RTRMADP_3_HEALTH-MALARIA-VACCINE_ajyab9",
+      "publishedAt": "2024-01-22 11:39:21",
+      "content": "The worlds first routine vaccine program for malaria will launch in Cameroon on Monday, marking a game-changing moment in a public health battle against the mosquito-borne disease that kills almost h\u2026 [+562 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.043979",
+      "internal_id": "f284057d8b75339c84df9d3182fd0566e0db2149cec3ddd163241af1f9f9cec1",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4501,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "Kamerun aloittaa ensimm\u00e4isen\u00e4 maana rokoteohjelman malariaa vastaan \u2013 uskotaan pelastavan tuhansien lasten hengen",
+      "description": "Kamerunin lis\u00e4ksi noin kaksikymment\u00e4 muuta maata aikoo ottaa rokoteohjelman k\u00e4ytt\u00f6\u00f6n kuluvan vuoden aikana.",
+      "url": "https://yle.fi/a/74-20070631",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_62,w_3000,h_1679/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1705922977/39-1180269651b0b1bd477e",
+      "publishedAt": "2024-01-22 11:32:19",
+      "content": "Kamerun aloittaa maailman ensimm\u00e4isen\u00e4 maana systemaattisen rokoteohjelman malariaa vastaan. Asiasta kertoo muun muassa uutistoimisto Reuters. Rokoteohjelma suunnataan pikkulapsille Kamerunissa 42:l\u2026 [+777 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.069863",
+      "internal_id": "8ec8f4863d2ed543dd306121d56ff008e5f714f9c178d1fea81191b5c6010fad",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4484,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "WHO: \"Historische Etappe\": Erste Malaria-Impfkampagne startet in Kamerun",
+      "description": "2021 sterben 619.000 Menschen an Malaria, 96 Prozent davon in Afrika. In Kamerun beginnt jetzt die weltweit erste Impfkampagne gegen die Tropenkrankheit. In dem zentralafrikanischen Land sind daf\u00fcr zahlreiche Impfzentren eingerichtet worden.",
+      "url": "https://www.n-tv.de/panorama/Erste-Malaria-Impfkampagne-startet-in-Kamerun-article24679405.html",
+      "urlToImage": "https://bilder2.n-tv.de/img/incoming/crop24679413/0411328724-cImg_16_9-w1200/4801f8a93a2cb7b40b611fd9d8f615cb.jpg",
+      "publishedAt": "2024-01-22 11:24:25",
+      "content": "2021 sterben 619.000 Menschen an Malaria, 96 Prozent davon in Afrika. In Kamerun beginnt jetzt die weltweit erste Impfkampagne gegen die Tropenkrankheit. In dem zentralafrikanischen Land sind daf\u00fcr z\u2026 [+1160 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.946448",
+      "internal_id": "49152d0934cf071bfb9ee21ede28cab550d5ce81b71de4a5b4f4368376cd852f",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4472,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "tagesschau.de",
+      "title": "Weltweit erste Impfkampagne gegen Malaria",
+      "description": "Es ist die weltweit erste Impfkampagne gegen Malaria: Im zentralafrikanischen Kamerun haben die Beh\u00f6rden damit begonnen, Kindern den Impfstoff zu verabreichen. Es ist ein Hoffnungsschimmer, aber auch eine Mammutaufgabe.",
+      "url": "https://www.tagesschau.de/ausland/afrika/kamerun-malaria-impfkampagne-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/0e3d253a-7d58-43be-b50f-af9b44b4af61/AAABjTDnlGc/AAABibBxqrQ/16x9-1280/impfung-malaria-100.jpg",
+      "publishedAt": "2024-01-22 11:21:39",
+      "content": "Stand: 22.01.2024 12:21 Uhr Es ist die weltweit erste Impfkampagne gegen Malaria: Im zentralafrikanischen Kamerun haben die Beh\u00f6rden damit begonnen, Kindern den Impfstoff zu verabreichen. Es ist ein\u2026 [+2986 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.875135",
+      "internal_id": "6787ba3515dcfc75ad959baa795753c09bcbf3c646b76c7f8f00ec7ed3eb0561",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4482,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "AFP News",
+      "title": "Cameroon Launches Historic Large-scale Malaria Jab Campaign",
+      "description": "Cameroon on Monday launched the first malaria vaccination programme to be offered nationwide and as a matter of routine, AFP journalists saw, in a step the WHO has described as \"historic\".",
+      "url": "https://www.ibtimes.com/cameroon-launches-historic-large-scale-malaria-jab-campaign-3722671",
+      "urlToImage": "https://d.ibtimes.com/en/full/4507513/cameroons-historic-rollout-large-scale-systematic-malaria-vaccine-programme-followed-pilot.jpg",
+      "publishedAt": "2024-01-22 11:00:27",
+      "content": "Cameroon on Monday launched the first malaria vaccination programme to be offered nationwide and as a matter of routine, AFP journalists saw, in a step the WHO has described as \"historic\". The mosqu\u2026 [+2555 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.935381",
+      "internal_id": "b9fe6eb6b3773a6425f599471c85c995f181266bc617cc86495b3d23e6f0af60",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4468,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "Health D-G: Dengue cases increase to 3,525 from Jan 7 to 13 nationwide, two deaths reported",
+      "description": "PUTRAJAYA, Jan 22 \u2014 The number of dengue fever cases increased to 3,525 cases in the 2nd Epidemiological Week (ME02) of 2024, covering the period from January 7 to January 13,...",
+      "url": "https://www.malaymail.com/news/malaysia/2024/01/22/health-d-g-dengue-cases-increase-to-3525-from-jan-7-to-13-nationwide-two-deaths-reported/113911",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2024/01/22/thumbs/400x400/180886.jpg",
+      "publishedAt": "2024-01-22 10:59:45",
+      "content": "PUTRAJAYA, Jan 22 The number of dengue fever cases increased to 3,525 cases in the 2nd Epidemiological Week (ME02) of 2024, covering the period from January 7 to January 13, compared to 3,181 cases t\u2026 [+852 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.142165",
+      "internal_id": "bffe366e6f5276e2bfe5454893943e92dbcddee5b6a0a0fdb44f3f8538370bbd",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4488,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Associated Press",
+      "title": "Cameroon Starts World\u2019s First Malaria Vaccine Program for Children",
+      "description": "The campaign due to start Monday was described by officials as a milestone in the decades-long effort to curb the disease.",
+      "url": "https://time.com/6565005/cameroon-malaria-vaccines/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1247904867.jpg?quality=85",
+      "publishedAt": "2024-01-22 10:41:18",
+      "content": "Cameroon will be the first country to routinely give children a new malaria vaccine as the shots are rolled out in Africa. The campaign due to start Monday was described by officials as a milestone \u2026 [+2014 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.970116",
+      "internal_id": "a6c2209b52b87cb4a94b2b63f459334a31cf5f3cb1581cad3b48d9c5bd120dba",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4502,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "webdesk@voanews.com (VOA News)",
+      "title": "Cameroon Rolls Out First Routine Malaria Vaccination Program for Children",
+      "description": "\u2018It\u2019s an historic day,\u2019 according to Gavi vaccine alliance official",
+      "url": "https://www.voanews.com/a/cameroon-rolls-out-first-routine-malaria-vaccination-program-for-children/7449737.html",
+      "urlToImage": "https://gdb.voanews.com/8D1EEDF6-24A0-421A-B9F5-23F436EA61E8.jpg",
+      "publishedAt": "2024-01-22 10:24:33",
+      "content": "Monday Cameroon became the first country to establish a routine malaria vaccination program for children. Its a historic day, Aurelian Nguyen, chief program officer of the Gavi vaccine alliance tol\u2026 [+980 chars]",
+      "retrievedAt": "2024-01-23 19:05:30.075054",
+      "internal_id": "e69b2bacabf1530f85fe501e896b10644a0d0163461e23de6a11282755c8693a",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4490,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Weltweit erste Malaria-Impfkampagne",
+      "description": "In Kamerun hat am Montag die weltweit erste Impfkampagne gegen Malaria begonnen. Die Weltgesundheitsorganisation (WHO) bezeichnete die Kampagne im Vorfeld als \u201ehistorische Etappe\u201c im Kampf gegen die vor allem in Afrika auftretende Krankheit.",
+      "url": "https://science.orf.at/stories/3223247/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmims%2F2024%2F04%2F44%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F2080205_master_785444_ap24019673292880.jpg%3Fs%3Db60b5808ec275e4b8a47e9619be981e8af2a3c15",
+      "publishedAt": "2024-01-22 10:20:08",
+      "content": "Als einer der Ersten erhielt in einem kleinen Krankenhaus in der Stadt Soa ein sechs Monate altes Baby die Spritze gegen die Tropenkrankheit. Krankenschwestern sangen dazu und feierten den Beginn der\u2026 [+1337 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.989844",
+      "internal_id": "9aa00555ef8ff2c3a54c076581006480a48545f9ef7d87d894c406220e8b1731",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4504,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elconfidencialdigital.com",
+      "author": "Antonio Quir\u00f3s Abad\u00eda",
+      "title": "La Viruela del mono, ahora Mpox, sus estragos y poco inter\u00e9s por la informaci\u00f3n Sanitaria...",
+      "description": "Durante el tiempo que estuvimos aislados en casa u otros lugares debido a la Pandemia del Coronavirus o Covid-19. Surgieron nuevos casos por este pat\u00f3geno,&nbsp; cuyo contagio no respond\u00eda al ya conocido, siendo la v\u00eda de transmisi\u00f3n las relacione",
+      "url": "https://www.elconfidencialdigital.com/articulo/opinan-socios-ecd/viruela-mono-ahora-mpox-estragos-poco-interes-informacion-sanitaria/20240122104356707236.html",
+      "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/01/22/2024012210444832894.jpg",
+      "publishedAt": "2024-01-22 09:43:56",
+      "content": "Durante el tiempo que estuvimos aislados en casa u otros lugares debido a la Pandemia del Coronavirus o Covid-19. Surgieron nuevos casos por este pat\u00f3geno, cuyo contagio no respond\u00eda al ya conocido,\u2026 [+3403 chars]",
+      "retrievedAt": "2024-01-23 19:05:31.064507",
+      "internal_id": "6cfc73d94eac1a007278ac963adff9db24155ce18c8207434c54c23d40f5b3a0",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4481,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Afrikansk land lancerer verdens f\u00f8rste vaccinationsprogram mod malaria",
+      "description": "Den globale kamp mod malaria tager i dag et skridt frem. Cameroun lancerer nemlig verdens f\u00f8rste vaccinationsprogram for b\u00f8rn mod sygdommen. Det skriver Reuters.",
+      "url": "https://www.dr.dk/nyheder/seneste/afrikansk-land-lancerer-verdens-foerste-vaccinationsprogram-mod-malaria",
+      "urlToImage": "https://asset.dr.dk/imagescaler01/https%3A%2F%2Fapi.dr.dk%2Ffreja%2Fimage%2Fraw%2F317&w=700",
+      "publishedAt": "2024-01-22 07:33:00",
+      "content": "K\u00f8rer du i et vindf\u00f8lsomt k\u00f8ret\u00f8j p\u00e5 vej mod en af broerne, er det v\u00e6rd lige at tjekke, om det er en god id\u00e9 at passere her til morgen og formiddag. P\u00e5 \u00d8resundsbroen frar\u00e5des vindf\u00f8lsomme k\u00f8ret\u00f8jer.\u2026 [+735 chars]",
+      "retrievedAt": "2024-01-23 19:05:29.930567",
+      "internal_id": "4664f8d63c7570d53af475e9059b5be5b0723d4ebe80718b6f44303e69f53e4b",
+      "publishedAtLabel": "Jan 22"
+    },
     {
       "id": 4452,
       "query": [
@@ -14553,42 +15435,6 @@
       "retrievedAt": "2023-12-12 07:05:46.750944",
       "internal_id": "c116a51cb6ff4fea02b93505cc7f7b086822052fe4eaf8b8eb613a769e41cd5c",
       "publishedAtLabel": "Dec 11"
-    },
-    {
-      "id": 3640,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Asianetnews.com",
-      "author": "Web Team",
-      "title": "'100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d46\u0d28\u0d4d\u0d28 \u0d05\u0d23\u0d41\u0d2c\u0d3e\u0d27; \u0d1c\u0d3e\u0d17\u0d4d\u0d30\u0d24 \u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d28\u0d3f\u0d30\u0d4d\u200d\u0d26\u0d47\u0d36\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d41\u0d15\u0d46\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d35\u0d15\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
-      "description": "\u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d3e\u0d23\u0d24\u0d4d\u0d30\u0d47 '100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d40\u0d1f\u0d4d \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d3e\u0d38\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d27\u0d3f\u0d15\u0d02 \u0d1a\u0d41\u0d2e \u0d28\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d28\u0d3f\u0d32\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d05\u0d35\u0d38\u0d4d\u0d25\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41",
-      "url": "https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95",
-      "urlToImage": "https://static-ai.asianetnews.com/images/01epy9ef8135ab8dte71vxnjb2/pneumonia--jpg_1200x630xt.jpg",
-      "publishedAt": "2023-12-10 12:45:52",
-      "content": "'100 ' . 19 . . . . . . '100 ' . 100 . , . . . . '100 ' . . 'Bordetella pertussis bacteria' '100 ' . . 1950 . . . . . , . '100 ' . . '100 ' . . . '100 ' . Also Read:- ' '?; ? ... \u2026 [+55 chars]",
-      "retrievedAt": "2023-12-11 19:05:24.793192",
-      "internal_id": "acf2edf9d18e841ea459b3181537b06547cad382f659d3c4f1f96c70fc7744ba",
-      "publishedAtLabel": "Dec 10"
-    },
-    {
-      "id": 3641,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Ag\u00eancia Mural - Conte\u00fado Exclusivo",
-      "title": "Conhe\u00e7a Zika das Artes, de S\u00e3o Mateus, que assina capas de \u00e1lbuns do trap e rap",
-      "description": "Com est\u00e9tica que mistura t\u00e9cnicas de artes cl\u00e1ssicas ao mundo digital, artista ganha notoriedade no cen\u00e1rio musical",
-      "url": "https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1-zika-das-artes-na-perifacon-2023-credito-leu-britto-agencia-mural-(1)-ure13t557g36.jpg",
-      "publishedAt": "2023-12-10 08:00:20",
-      "content": "Com assinatura nas capas de \u00e1lbuns de renomados m\u00fasicos do universo do trap e do rap, o artista visual Kayo Mathias, 23, o Zika das Artes, de S\u00e3o Mateus, na zona leste de S\u00e3o Paulo, celebra um 2023 d\u2026 [+3286 chars]",
-      "retrievedAt": "2023-12-11 19:05:26.676231",
-      "internal_id": "a7015427e17347ed9b4d87bae7c063e7f102cccb9e7f341deb9675d0006bae7b",
-      "publishedAtLabel": "Dec 10"
     }
   ]
 }
