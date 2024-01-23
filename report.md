@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2024-01-22 19:05
-- **Most recent article:** 2024-01-21 18:40:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2024-01-23 07:06
+- **Most recent article:** 2024-01-22 06:44:55
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 7 | 308 |
-| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 1 | 161 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 2 | 139 |
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 10 | 311 |
+| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 12 | 172 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 3 | 140 |
 | mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 0 | 63 |
-| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 1 | 38 |
+| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 1 | 39 |
 | meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 0 | 35 |
 | rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 0 | 29 |
 | chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 0 | 27 |
-| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 0 | 17 |
+| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 0 | 18 |
 | leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
 | typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 0 | 7 |
 | yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 3 |
@@ -36,11 +36,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (measles)
 
+- [Parents urged to book missed MMR vaccines amid 'very real risk' of measles outbreaks](https://news.sky.com/story/measles-parents-urged-to-book-missed-mmr-vaccines-amid-very-real-risk-of-outbreaks-13053780) (Sky.com)
+
 - [Not one case of measles in Scotland for three years, 95% vaccination and the Herald’s health correspondent tries to suggest it’s like the West Midlands here too](https://talkingupscotlandtwo.com/2024/01/21/not-one-case-of-measles-in-scotland-for-three-years-95-vaccination-and-the-heralds-health-correspondent-tries-to-suggest-its-like-the-west-midlands-here-too/) (Talkingupscotlandtwo.com)
 
 - [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
+
+- [Vaksineprogram mot malaria startar i Kamerun](https://www.nrk.no/nyheter/vaksineprogram-mot-malaria-startar-i-kamerun-1.16726595) (NRK)
+
+- [Cameroon launches malaria vaccination programme in global milestone](https://www.thestar.com.my/news/world/2024/01/22/cameroon-launches-malaria-vaccination-programme-in-global-milestone) (The Star Online)
+
+- [Cameroon starts world's first malaria vaccine program for children](https://apnews.com/article/malaria-vaccine-cameroon-children-disease-cdaf5baa0b7b0aa3ad056101a07d174c) (Associated Press)
+
+- [Cameroon launches malaria vaccination programme in global milestone](https://www.marketscreener.com/news/latest/Cameroon-launches-malaria-vaccination-programme-in-global-milestone-45781934/) (Marketscreener.com)
+
+- [Cameroon starts world's first malaria vaccine program for children](https://abcnews.go.com/Health/wireStory/cameroon-starts-worlds-malaria-vaccine-program-children-106557143) (ABC News)
+
+- [Cameroon starts world’s first malaria vaccine program for children](https://www.bostonglobe.com/2024/01/22/world/cameroon-starts-worlds-first-malaria-vaccine-program-children/) (The Boston Globe)
+
+- [Cameroon starts world's first malaria vaccine program for children](https://www.startribune.com/cameroon-starts-worlds-first-malaria-vaccine-program-for-children/600337506/) (Minneapolis Star Tribune)
+
+- [New GSK malaria vaccine, Mosquirix, is rolled out in Africa](https://www.statnews.com/2024/01/22/gsk-malaria-vaccine-mosquirix-rollout-africa/) (STAT)
+
+- [Routine malaria vaccines start to roll out to protect children in Africa](https://www.cbc.ca/news/health/malaria-vaccine-1.7089891) (CBC News)
+
+- [El hallazgo casual de un laboratorio español que puede acabar con una enfermedad letal](https://www.elconfidencial.com/tecnologia/ciencia/2024-01-22/malaria-hallazgo-casual-laboratorio-espanol-enfermedad_3814406/) (Elconfidencial.com)
+
+- [Nigeria must intensify malaria eradication](https://punchng.com/nigeria-must-intensify-malaria-eradication/) (The Punch)
 
 - [Malaria: "Die Impfskepsis ist aktuell unsere größte Herausforderung"](https://www.sueddeutsche.de/politik/malaria-impfstoff-afrika-interview-1.6333566) (Süddeutsche Zeitung)
 
@@ -49,6 +73,12 @@ Source: [News API](https://newsapi.org/)
 - [Curious about puppy’s vaccines, spay plan](https://www.bostonherald.com/2024/01/21/curious-about-puppys-vaccines-spay-plan/) (Boston Herald)
 
 ## 24-4 (dengue)
+
+- [Aumentan 60,5% los casos de dengue en una semana: cuáles son las zonas más afectadas](https://www.lanacion.com.ar/sociedad/aumentan-605-los-casos-de-dengue-en-una-semana-cuales-son-las-zonas-mas-afectadas-nid21012024/) (La Nacion)
+
+- [Primeiras vacinas contra dengue chegam ao Brasil e estarão no SUS](https://ultimosegundo.ig.com.br/brasil/2024-01-21/primeiros-lotes-de-vacina-contra-dengue-no-sus-chegam-ao-brasil.html) (Ig.com.br)
+
+- [Primeiras doses da vacina contra a dengue chegam ao Brasil; saiba como funcionará a imunização](https://www.terra.com.br/vida-e-estilo/saude/primeiras-doses-da-vacina-contra-a-dengue-chegam-ao-brasil-saiba-como-funcionara-a-imunizacao,bcecbfe9d0391fd083d02586a5713b37azhw766w.html) (Terra.com.br)
 
 - [Brasil recibe primer lote de vacunas contra dengue en medio de un brote de la enfermedad](https://www.montevideo.com.uy/Salud/Brasil-recibe-primer-lote-de-vacunas-contra-dengue-en-medio-de-un-brote-de-la-enfermedad-uc877328) (Montevideo.com.uy)
 
@@ -1576,6 +1606,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
+- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
+
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -1599,6 +1631,8 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
+
+- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 
