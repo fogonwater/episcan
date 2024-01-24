@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 49
-- **Last harvest:** 2024-01-23 19:05
-- **Most recent article:** 2024-01-22 18:10:18
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-01-24 07:06
+- **Most recent article:** 2024-01-23 06:12:50
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 19 | 320 |
-| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 44 | 204 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 8 | 145 |
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 26 | 327 |
+| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 53 | 213 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 10 | 147 |
 | mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 1 | 64 |
-| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 2 | 39 |
+| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 2 | 40 |
 | meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 0 | 35 |
 | rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 0 | 29 |
 | chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 0 | 27 |
-| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 0 | 17 |
+| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 0 | 18 |
 | typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 1 | 8 |
 | leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
 | yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 3 |
@@ -46,6 +46,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (measles)
 
+- [Millions in the UK are being urged to get vaccinations as measles cases surge](https://www.pbs.org/newshour/health/millions-in-the-uk-are-being-urged-to-get-vaccinations-as-measles-cases-surge) (PBS)
+
+- [Millions in UK urged to get vaccinations during surge in measles cases](https://japantoday.com/category/world/millions-in-the-uk-are-being-urged-to-get-vaccinations-during-a-surge-in-measles-cases) (Japan Today)
+
 - [How measles can do long-lasting damage to children's immune systems](https://www.newscientist.com/article/2413540-how-measles-can-do-long-lasting-damage-to-childrens-immune-systems/) (New Scientist)
 
 - [Measles jab campaign targets unprotected millions](https://www.bbc.co.uk/news/health-68057317) (BBC News)
@@ -63,6 +67,24 @@ Source: [News API](https://newsapi.org/)
 - [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
+
+- [Cameroon begins routine malaria shots in global milestone](https://www.moneycontrol.com/news/world/cameroon-begins-routine-malaria-shots-in-global-milestone-12107221.html) (Moneycontrol)
+
+- [Learning English Podcast](https://learningenglish.voanews.com/a/7431715.html) (VOA News)
+
+- [Israel Targets Gaza Hospitals in New Year’s Bloodiest Day](https://foreignpolicy.com/2024/01/22/israel-hamas-gaza-khan-younis-hospitals-benjamin-netanyahu-hostage-deal/) (Foreign Policy)
+
+- [Factbox-Cameroon rolls out the world's first malaria vaccine](https://www.marketscreener.com/news/latest/Factbox-Cameroon-rolls-out-the-world-s-first-malaria-vaccine-45787860/) (Marketscreener.com)
+
+- [Cameroon begins routine malaria shots in global milestone](https://www.marketscreener.com/news/latest/Cameroon-begins-routine-malaria-shots-in-global-milestone-45787859/) (Marketscreener.com)
+
+- [Cameroon Launches First Malaria Vaccine Program for Children](https://learningenglish.voanews.com/a/cameroon-launches-first-malaria-vaccine-program-for-children/7450332.html) (VOA News)
+
+- [News24 | Cameroon launches historic large-scale malaria jab campaign for children](https://www.news24.com/news24/africa/news/cameroon-launches-historic-large-scale-malaria-jab-campaign-for-children-20240122) (News24)
+
+- [Crystal Fighters pospone la gira a otoño después de que un integrante haya contraído la malaria](https://www.abc.es/cultura/musica/crystal-fighters-pospone-gira-otono-despues-integrante-20240122210415-nt.html) (Www.abc.es)
+
+- [The World's First Malaria Vaccine Program for Children Starts Now](https://www.wired.com/story/malaria-vaccine-routine-childhood-camaroon/) (Wired)
 
 - [Kameroen start als eerste land ter wereld met uitrol malariavaccin](https://www.nu.nl/buitenland/6298756/kameroen-start-als-eerste-land-ter-wereld-met-uitrol-malariavaccin.html) (Www.nu.nl)
 
@@ -157,6 +179,20 @@ Source: [News API](https://newsapi.org/)
 - [Curious about puppy’s vaccines, spay plan](https://www.bostonherald.com/2024/01/21/curious-about-puppys-vaccines-spay-plan/) (Boston Herald)
 
 ## 24-4 (dengue)
+
+- [Além da vacina: saiba outras formas de prevenir a dengue](https://www.metropoles.com/saude/dengue-como-se-proteger-alem-da-vacina) (Metropoles.com)
+
+- [Casos de dengue crescem 100% em janeiro deste ano](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/casos-de-dengue-crescem-100-em-janeiro-deste-ano-23012024) (R7.com)
+
+- [Campinas tem alta de 115% na coleta de lixo que pode virar criadouro do mosquito da dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/22/campinas-tem-alta-de-115percent-na-coleta-de-de-lixo-que-pode-virar-criadouro-do-mosquito-da-dengue.ghtml) (Globo)
+
+- [Vacina da dengue: quem poderá receber o imunizante?](https://olhardigital.com.br/2024/01/22/medicina-e-saude/vacina-da-dengue-quem-podera-receber-o-imunizante/) (Olhardigital.com.br)
+
+- [Dengue: saúde restringe vacinação para pessoas de 10 a 14 anos](https://www.metropoles.com/saude/dengue-ministerio-decide-grupo-vacinacao) (Metropoles.com)
+
+- [Qdenga: quem pode tomar a vacina contra a dengue?](https://www.metropoles.com/saude/quem-pode-tomar-vacina-contra-a-dengue) (Metropoles.com)
+
+- [Saiba quem deverá tomar primeiro a vacina da dengue pelo SUS](https://valor.globo.com/brasil/noticia/2024/01/22/saiba-quem-devera-tomar-primeiro-a-vacina-da-dengue-pelo-sus.ghtml) (Globo)
 
 - [Ludmilla é embaixadora de programa de prevenção à dengue nas comunidades | Exame](https://exame.com/marketing/ludmilla-e-embaixadora-de-programa-de-prevencao-a-dengue-nas-comunidades/) (Exame.com)
 
@@ -1708,6 +1744,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
+- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
+
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -1731,6 +1769,8 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
+
+- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 

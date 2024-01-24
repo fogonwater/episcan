@@ -1,8 +1,332 @@
 {
-  "last_updated": "2024-01-23 19:05",
-  "count_articles_total": 855,
-  "count_articles_new": 49,
+  "last_updated": "2024-01-24 07:06",
+  "count_articles_total": 875,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 4517,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Moneycontrol",
+      "author": "Reuters",
+      "title": "Cameroon begins routine malaria shots in global milestone",
+      "description": "Around 40 years in the making, the World Health Organization (WHO)-approved RTS,S vaccine developed by British drugmaker GSK is meant to work alongside existing tools such as bed nets to combat malaria, which in Africa kills nearly half a million children und\u2026",
+      "url": "https://www.moneycontrol.com/news/world/cameroon-begins-routine-malaria-shots-in-global-milestone-12107221.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/10/Malaria_shutterstock_732392617-770x433.jpg",
+      "publishedAt": "2024-01-23 06:12:50",
+      "content": "The global fight against malaria took a stride forward on Monday as Cameroon started the world's first routine vaccine programme against the mosquito-borne disease, although Reuters journalists witne\u2026 [+3342 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.855346",
+      "internal_id": "b6fb90653bac04e5f5e5f46f38ccf4566f6ee492363865093bc3f373bfb8c7e0",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4509,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Al\u00e9m da vacina: saiba outras formas de prevenir a dengue",
+      "description": "Infectologista orienta como a popula\u00e7\u00e3o deve se proteger contra a picada do mosquito Aedes aegypti, causador da dengue",
+      "url": "https://www.metropoles.com/saude/dengue-como-se-proteger-alem-da-vacina",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2016/01/27151457/repelente.jpg",
+      "publishedAt": "2024-01-23 05:00:59",
+      "content": "O Brasil enfrenta uma explos\u00e3o de casos de dengue. Apenas nas duas primeiras semanas de 2024 foram registrados 55.859 casos prov\u00e1veis da doen\u00e7a e seis mortes, de acordo com o Minist\u00e9rio da Sa\u00fade. Inf\u2026 [+5414 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.041111",
+      "internal_id": "a87ef25e47ebbc83639cafac7df60125115ead1ce0b4c30e3feddd45caff9c5c",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4514,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Casos de dengue crescem 100% em janeiro deste ano",
+      "description": "O n\u00famero de casos de dengue cresceu em mais de 100%, no m\u00eas de janeiro em todo o no pa\u00eds. Apesar disso, o n\u00famero de mortes diminuiu e as prime...",
+      "url": "https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/casos-de-dengue-crescem-100-em-janeiro-deste-ano-23012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/23/65af380e4b495504e30036d5/dde68e4060144a9fbcb9aba77974100c__2461738_EPP_2301_BOLETIMJR_DENGUE_AUMENTO_thumb_thumb.jpg",
+      "publishedAt": "2024-01-23 01:02:00",
+      "content": "O n\u00famero de casos de dengue cresceu em mais de 100%, no m\u00eas de janeiro em todo o no pa\u00eds. Apesar disso, o n\u00famero de mortes diminuiu e as primeiras doses da vacina contra a doen\u00e7a ser\u00e3o aplicadas no m\u2026 [+10 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.085089",
+      "internal_id": "92bb04b7b7b5a24cc93ba1459cf4a6b139a9107213d8768dcde872fd650ba020",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4518,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": null,
+      "title": "Learning English Podcast",
+      "description": "On today\u2019s podcast, Cameroon launches first malaria vaccination campaign; refugees plant trees around deforested refugee camp; a study finds no link between a weigh-loss drug and suicidal thoughts followed by a discussion about semaglutide; then listen condit\u2026",
+      "url": "https://learningenglish.voanews.com/a/7431715.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-e785-08db45a50883_w1200_r1.jpg",
+      "publishedAt": "2024-01-23 00:30:00",
+      "content": "On todays podcast, Cameroon launches first malaria vaccination campaign; refugees plant trees around deforested refugee camp; a study finds no link between a weigh-loss drug and suicidal thoughts fol\u2026 [+96 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.862776",
+      "internal_id": "27e1fdf4d061b293f915fe6ff687280f444a5d52effcba4f15698a8954d92004",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4521,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Foreign Policy",
+      "author": "Alexandra Sharp",
+      "title": "Israel Targets Gaza Hospitals in New Year\u2019s Bloodiest Day",
+      "description": "Prime Minister Benjamin Netanyahu doubles down on Israel\u2019s stance against Palestinian statehood.",
+      "url": "https://foreignpolicy.com/2024/01/22/israel-hamas-gaza-khan-younis-hospitals-benjamin-netanyahu-hostage-deal/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2024/01/KhanYounis-GettyImages-1943421840.jpg?w=1000",
+      "publishedAt": "2024-01-23 00:00:19",
+      "content": "Welcome back to World Brief, where were looking at the Israel-Hamas wars bloodiest day in 2024, India opening a Hindu temple on former Muslim grounds, and Cameroons fight against malaria.Welcome back\u2026 [+8488 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.919636",
+      "internal_id": "088e3f7ef1bb33cc231f70712e4d946e89b7522d7663930289b5220f71d3b0c6",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4507,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Sylvia Hui, Associated Press",
+      "title": "Millions in the UK are being urged to get vaccinations as measles cases surge",
+      "description": "The National Health Service is launching a publicity campaign Monday after figures showed there were about 250 confirmed measles cases in parts of England last year.",
+      "url": "https://www.pbs.org/newshour/health/millions-in-the-uk-are-being-urged-to-get-vaccinations-as-measles-cases-surge",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/Vaccine-1024x683.jpg",
+      "publishedAt": "2024-01-22 23:58:59",
+      "content": "LONDON (AP) U.K. health officials on Monday urged millions of parents to book their children for missed measles, mumps and rubella shots during a sharp increase in the number of measles cases and the\u2026 [+2688 chars]",
+      "retrievedAt": "2024-01-24 07:06:00.751852",
+      "internal_id": "c0e7a80841e995b742ddc3660eec23a4d038cf69be9bc36de22588d01390b9a4",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4520,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Factbox-Cameroon rolls out the world's first malaria vaccine",
+      "description": "(marketscreener.com) Cameroon launched the world's first routine vaccine programme against malaria on Monday. It is one of 20 African countries planning to introduce the drug this year, according to global vaccine alliance Gavi. https://www.marketscreener.com\u2026",
+      "url": "https://www.marketscreener.com/news/latest/Factbox-Cameroon-rolls-out-the-world-s-first-malaria-vaccine-45787860/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2024-01/2024-01-22T225848Z_1_LYNXMPEK0L0SA_RTROPTP_3_HEALTH-MALARIA-AFRICA.JPG",
+      "publishedAt": "2024-01-22 22:58:48",
+      "content": "(Reuters) - Cameroon launched the world's first routine vaccine programme against malaria on Monday. It is one of 20 African countries planning to introduce the drug this year, according to global va\u2026 [+2001 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.909382",
+      "internal_id": "13ea7c4d0351dd20f62e057d72cc7e3b0a9fc01a0c254bff14aa48bec82f6f83",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4519,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Cameroon begins routine malaria shots in global milestone",
+      "description": "(marketscreener.com) STORY: The global fight against malaria took a step forward on Monday .https://www.marketscreener.com/news/latest/Cameroon-begins-routine-malaria-shots-in-global-milestone--45787859/?utm_medium=RSS&utm_content=20240122",
+      "url": "https://www.marketscreener.com/news/latest/Cameroon-begins-routine-malaria-shots-in-global-milestone-45787859/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-01-22 22:29:47",
+      "content": "STORY: The global fight against malaria took a step forward on Monday (January 22). But as Cameroon launched the world's first routine vaccine program against the mosquito-borne disease, there were\u2026 [+2063 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.894603",
+      "internal_id": "f962e1a81432040ab3cbc45ed317317487ecc2182a86084041065b9613ebe453",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4513,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas tem alta de 115% na coleta de lixo que pode virar criadouro do mosquito da dengue",
+      "description": "Em 2023, foram coletadas 32,8 mil toneladas, mais que o dobro das 15,2 mil toneladas do ano anterior. Cidade vive alerta para poss\u00edvel explos\u00e3o de casos em 2024. Campinas (SP) registrou aumento de 115% no volume de res\u00edduos coletados com potencial para ac\u00famul\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/22/campinas-tem-alta-de-115percent-na-coleta-de-de-lixo-que-pode-virar-criadouro-do-mosquito-da-dengue.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/pIXBpyFgxCxOr4eJPDWZiXlFEs8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/v/A/1rsBT8Rzm1R4FgqBeyqw/lixo-covid.jpg",
+      "publishedAt": "2024-01-22 22:07:01",
+      "content": "O levantamento da Secretaria Municipal de Servi\u00e7os P\u00fablicos mostra que em 2022 foram coletadas 15,2 mil toneladas de res\u00edduos gerados por moradores pelas equipes de limpeza urbana. Em 2023, o volume \u2026 [+3987 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.075157",
+      "internal_id": "bb2cc9a1f1d745c054fc42988ded944727fa0cdb5ea7ec4777ee869307afc00c",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4516,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "VOA News",
+      "author": "VOA Learning English",
+      "title": "Cameroon Launches First Malaria Vaccine Program for Children",
+      "description": "Cameroon has begun the world\u2019s first major malaria vaccine program for children. Health officials called the effort a major step in the fight against the disease. Africa accounts for about 95 percent of the world\u2019s malaria deaths.",
+      "url": "https://learningenglish.voanews.com/a/cameroon-launches-first-malaria-vaccine-program-for-children/7450332.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-c50a-08dc1b8064f7_cx0_cy6_cw0_w1200_r1.jpg",
+      "publishedAt": "2024-01-22 21:58:00",
+      "content": "Cameroon has begun the worlds first major malaria vaccine program for children. The campaign launched Monday in the Central African nation. Health officials called the effort a major step in the fig\u2026 [+3437 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.838108",
+      "internal_id": "973ff52dcea20724f360c18381a0e7fa316922467ba3ab59f7bb5776e7df9af9",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4506,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Millions in UK urged to get vaccinations during surge in measles cases",
+      "description": "UK health officials on Monday urged millions of parents to book their children for missed measles, mumps and rubella shots during a sharp increase in the number of measles cases and the lowest vaccination rates in a decade. The National Health Service is laun\u2026",
+      "url": "https://japantoday.com/category/world/millions-in-the-uk-are-being-urged-to-get-vaccinations-during-a-surge-in-measles-cases",
+      "urlToImage": null,
+      "publishedAt": "2024-01-22 21:44:20",
+      "content": "UK health officials on Monday urged millions of parents to book their children for missed measles, mumps and rubella shots during a sharp increase in the number of measles cases and the lowest vaccin\u2026 [+2793 chars]",
+      "retrievedAt": "2024-01-24 07:06:00.699376",
+      "internal_id": "37478a204e6ed64471c0fde598339224bb51bc7fab31e3eea81024513e3ee61c",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4508,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Leandro Costa Criscuolo",
+      "title": "Vacina da dengue: quem poder\u00e1 receber o imunizante?",
+      "description": "Primeira remessa, com cerca de 750 mil doses, chegou ao Brasil no \u00faltimo s\u00e1bado O post Vacina da dengue: quem poder\u00e1 receber o imunizante? apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/01/22/medicina-e-saude/vacina-da-dengue-quem-podera-receber-o-imunizante/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/01/vacina-da-dengue-695x500.jpg",
+      "publishedAt": "2024-01-22 20:59:00",
+      "content": "O Brasil j\u00e1 possui a nova vacina da dengue. Chegaram em nosso territ\u00f3rio cerca de 750 mil doses da vacina, que o Sistema \u00danico de Sa\u00fade (SUS) vai aplicar na popula\u00e7\u00e3o. A vacina \u00e9 fabricada pela farma\u2026 [+1537 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.032608",
+      "internal_id": "465fa0945a7ec5045940f70afc327fb4f45591ef0822afbcb6fa61b75b4548e3",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4510,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Dengue: sa\u00fade restringe vacina\u00e7\u00e3o para pessoas de 10 a 14 anos",
+      "description": "O n\u00famero limitado de doses dispon\u00edveis para compra restringiu ainda mais a recomenda\u00e7\u00e3o inicial de vacina\u00e7\u00e3o contra dengue",
+      "url": "https://www.metropoles.com/saude/dengue-ministerio-decide-grupo-vacinacao",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/05124706/Foto-mosquito-da-dengue-em-um-tubo.jpg",
+      "publishedAt": "2024-01-22 20:45:48",
+      "content": "O Minist\u00e9rio da Sa\u00fade decidiu restringir a aplica\u00e7\u00e3o da vacina contra a dengue em 2024 para as crian\u00e7as e adolescentes com idades entre 10 e 14 anos, segundo confirmou a pasta ao Metr\u00f3poles nesta seg\u2026 [+5087 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.048561",
+      "internal_id": "a8d36cd4270af41689ccb2ec81636319a0412bdcf28bf0f4f555f1ed687594e1",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4522,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "news24",
+      "title": "News24 | Cameroon launches historic large-scale malaria jab campaign for children",
+      "description": "Cameroon on Monday launched the first malaria vaccination programme to be offered nationwide and as a matter of routine, in a step the WHO has described as \"historic\".",
+      "url": "https://www.news24.com/news24/africa/news/cameroon-launches-historic-large-scale-malaria-jab-campaign-for-children-20240122",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10788/aa0225e509094d0c82c9cc0ca846ee18.jpg",
+      "publishedAt": "2024-01-22 20:40:23",
+      "content": "Cameroon is now routinely vaccinating against malaria, nationally, for all children, in a world first.Almost all the more than half a million people who die from malaria every year a\u2026 [+3144 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.933557",
+      "internal_id": "a217e6733b9e2a77efb05224f2e4feaf731b436440a032acac6c51312e2ce5dc",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4523,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Crystal Fighters pospone la gira a oto\u00f1o despu\u00e9s de que un integrante haya contra\u00eddo la malaria",
+      "description": "Crystal Fighters se ha visto obligado a posponer su gira por Europa despu\u00e9s de que Sebastian Pringle contrajera la malaria durante el viaje que realiz\u00f3 recientemente a Ghana, ha asegurado la banda en sus redes sociales. \u00abEstamos muy tristes de anunciar que de\u2026",
+      "url": "https://www.abc.es/cultura/musica/crystal-fighters-pospone-gira-otono-despues-integrante-20240122210415-nt.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/cultura/2024/01/22/crystal-fighters-k6tG--1024x512@abc.JPG",
+      "publishedAt": "2024-01-22 20:04:15",
+      "content": "Crystal Fighters se ha visto obligado a posponer su gira por Europa despu\u00e9s de que Sebastian Pringle contrajera la malaria durante el viaje que realiz\u00f3 recientemente a Ghana, ha asegurado la banda en\u2026 [+119 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.937117",
+      "internal_id": "a93ebfa369adac4a3874504e7524a1f9c623efaf22717e3b5e377f63209ca51e",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4511,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Qdenga: quem pode tomar a vacina contra a dengue?",
+      "description": "As primeiras doses da vacina contra a dengue (Qdenga) que ser\u00e3o distribu\u00eddas no Sistema \u00danico de Sa\u00fade chegaram ao pa\u00eds no s\u00e1bado (20/1)",
+      "url": "https://www.metropoles.com/saude/quem-pode-tomar-vacina-contra-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/11/14131724/Qdenga.jpg",
+      "publishedAt": "2024-01-22 19:41:15",
+      "content": "Em meio \u00e0 explos\u00e3o de casos no Brasil, as primeiras doses da vacina contra a dengue que ser\u00e3o distribu\u00eddas no Sistema \u00danico de Sa\u00fade (SUS) chegaram ao pa\u00eds neste s\u00e1bado (20/1). O imunizante, desenvo\u2026 [+6014 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.051935",
+      "internal_id": "6816dd3528d65a70967094fad713bb947a814bb0d337fabf5e47736d30b3ec30",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4512,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Saiba quem dever\u00e1 tomar primeiro a vacina da dengue pelo SUS",
+      "description": "SUS j\u00e1 recebeu 750 mil doses; segunda remessa est\u00e1 prevista para fevereiro",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/22/saiba-quem-devera-tomar-primeiro-a-vacina-da-dengue-pelo-sus.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/TFUcG3BEqqNxmL-kxr_pBmDCBLE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/A/q/MCF62aR16vEWAloxviAw/caixa-da-vacina-contra-a-dengue-do-laboratorio-takeda-qdenda-marcia-almeida-valor.jpeg",
+      "publishedAt": "2024-01-22 19:35:02",
+      "content": "O Brasilrecebeu a primeira remessa da Qdenga, vacina contra a dengue que ser\u00e1 disponibilizada gratuitamente no Sistema \u00danico de Sa\u00fade (SUS). O Minist\u00e9rio da Sa\u00fade (MS) estima que as primeiras doses s\u2026 [+5220 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.069600",
+      "internal_id": "21fbc9e342c5220859e52c45610f5e89d82817455b94b65862a44141f0ca5d20",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 4515,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "David Cox",
+      "title": "The World's First Malaria Vaccine Program for Children Starts Now",
+      "description": "On Monday, Cameroon became the first nation to establish routine childhood malaria immunizations. The race is on to give protection to as many people as possible.",
+      "url": "https://www.wired.com/story/malaria-vaccine-routine-childhood-camaroon/",
+      "urlToImage": "https://media.wired.com/photos/65aeb0b86d108ad808a49a3a/191:100/w_1280,c_limit/malaria-africa-vaccine-science-GettyImages-1944076924.jpg",
+      "publishedAt": "2024-01-22 19:23:56",
+      "content": "Malaria expert Brian Greenwood had once resigned himself to the possibility that a successful vaccine for the disease might not become available in his lifetime. Now, at 86 years old, the moment hes \u2026 [+3073 chars]",
+      "retrievedAt": "2024-01-24 07:06:01.825614",
+      "internal_id": "9002546d702f092179c0efac84579001129c2dc3ee8e41c31cb686e728d5fc08",
+      "publishedAtLabel": "Jan 22"
+    },
     {
       "id": 4498,
       "query": [
@@ -15435,6 +15759,42 @@
       "retrievedAt": "2023-12-12 07:05:46.750944",
       "internal_id": "c116a51cb6ff4fea02b93505cc7f7b086822052fe4eaf8b8eb613a769e41cd5c",
       "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 3640,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Asianetnews.com",
+      "author": "Web Team",
+      "title": "'100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d46\u0d28\u0d4d\u0d28 \u0d05\u0d23\u0d41\u0d2c\u0d3e\u0d27; \u0d1c\u0d3e\u0d17\u0d4d\u0d30\u0d24 \u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d28\u0d3f\u0d30\u0d4d\u200d\u0d26\u0d47\u0d36\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d41\u0d15\u0d46\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d35\u0d15\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
+      "description": "\u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d3e\u0d23\u0d24\u0d4d\u0d30\u0d47 '100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d40\u0d1f\u0d4d \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d3e\u0d38\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d27\u0d3f\u0d15\u0d02 \u0d1a\u0d41\u0d2e \u0d28\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d28\u0d3f\u0d32\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d05\u0d35\u0d38\u0d4d\u0d25\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41",
+      "url": "https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95",
+      "urlToImage": "https://static-ai.asianetnews.com/images/01epy9ef8135ab8dte71vxnjb2/pneumonia--jpg_1200x630xt.jpg",
+      "publishedAt": "2023-12-10 12:45:52",
+      "content": "'100 ' . 19 . . . . . . '100 ' . 100 . , . . . . '100 ' . . 'Bordetella pertussis bacteria' '100 ' . . 1950 . . . . . , . '100 ' . . '100 ' . . . '100 ' . Also Read:- ' '?; ? ... \u2026 [+55 chars]",
+      "retrievedAt": "2023-12-11 19:05:24.793192",
+      "internal_id": "acf2edf9d18e841ea459b3181537b06547cad382f659d3c4f1f96c70fc7744ba",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 3641,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ag\u00eancia Mural - Conte\u00fado Exclusivo",
+      "title": "Conhe\u00e7a Zika das Artes, de S\u00e3o Mateus, que assina capas de \u00e1lbuns do trap e rap",
+      "description": "Com est\u00e9tica que mistura t\u00e9cnicas de artes cl\u00e1ssicas ao mundo digital, artista ganha notoriedade no cen\u00e1rio musical",
+      "url": "https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1-zika-das-artes-na-perifacon-2023-credito-leu-britto-agencia-mural-(1)-ure13t557g36.jpg",
+      "publishedAt": "2023-12-10 08:00:20",
+      "content": "Com assinatura nas capas de \u00e1lbuns de renomados m\u00fasicos do universo do trap e do rap, o artista visual Kayo Mathias, 23, o Zika das Artes, de S\u00e3o Mateus, na zona leste de S\u00e3o Paulo, celebra um 2023 d\u2026 [+3286 chars]",
+      "retrievedAt": "2023-12-11 19:05:26.676231",
+      "internal_id": "a7015427e17347ed9b4d87bae7c063e7f102cccb9e7f341deb9675d0006bae7b",
+      "publishedAtLabel": "Dec 10"
     }
   ]
 }
