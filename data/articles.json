@@ -1,8 +1,603 @@
 {
-  "last_updated": "2024-01-24 07:06",
-  "count_articles_total": 875,
-  "count_articles_new": 18,
+  "last_updated": "2024-01-24 19:05",
+  "count_articles_total": 906,
+  "count_articles_new": 33,
   "articles": [
+    {
+      "id": 4532,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Hayley Halpin",
+      "title": "Measles cases soared in Europe to 42,200 last year, almost 45-fold increase on previous year",
+      "description": "Vaccination rates against the disease slipped during the Covid-19 pandemic.",
+      "url": "https://www.thejournal.ie/measles-cases-europe-2023-6279843-Jan2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6279843/river/?height=400&version=6279874",
+      "publishedAt": "2024-01-23 18:44:47",
+      "content": "MEASLES CASES SOARED in Europe in 2023 to 42,200, a nearly 45-fold increase over the previous year, the UN health agency has said today as it called for urgent vaccination efforts to halt the spread.\u2026 [+4761 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.664421",
+      "internal_id": "747fe3e39f937826a5a40df1169dd7d04c7ca306ae06dcbdaca896f2a04704b0",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4544,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Casos de dengue no Brasil aumentam 40% entre julho e janeiro",
+      "description": "O n\u00famero de casos de dengue registrou aumento de quase 40% entre julho de 2023 e janeiro deste ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-no-brasil-aumentam-40-entre-julho-e-janeiro,b5aafbd04225a78fafdf77206a896d29rw7y2tuz.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/19/istock-917511550-rhr5zggp9469.jpg",
+      "publishedAt": "2024-01-23 18:34:32",
+      "content": "O n\u00famero de casos de dengue registrou aumento de quase 40% entre julho de 2023 e janeiro deste ano, com \u00edndice de 150 cont\u00e1gios por cada 100 mil habitantes, informou o Minist\u00e9rio da Sa\u00fade, que deve i\u2026 [+1123 chars]",
+      "retrievedAt": "2024-01-24 19:05:33.106652",
+      "internal_id": "31d67caa2e278af3c3dd6893c2e91732b2c55c885a1877f662b0985d550a7489",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4535,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Measles Cases In Europe Rise 45-Fold In 2023. These Countries Worst Hit",
+      "description": "Measles cases soared in Europe in 2023 to 42,200, a nearly 45-fold increase over the previous year, the UN health agency said on Tuesday, calling for urgent vaccination efforts to halt the spread.",
+      "url": "https://www.ndtv.com/world-news/measles-cases-in-europe-rise-45-fold-in-2023-these-countries-worst-hit-4919448",
+      "urlToImage": "https://c.ndtvimg.com/2022-11/na229hq4_measles-generic-istock_625x300_18_November_22.jpg",
+      "publishedAt": "2024-01-23 18:09:45",
+      "content": "Vaccination rates against measles have been dropping across the globe. Copenhagen: Measles cases soared in Europe in 2023 to 42,200, a nearly 45-fold increase over the previous year, the UN health a\u2026 [+2486 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.678240",
+      "internal_id": "f9c826f626de8704978675d05ccf722a4bb6230751653be0b0aa6227124d3e22",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4548,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Febre oropouche: entenda a doen\u00e7a que atinge o Amazonas e tem sintomas como os da dengue",
+      "description": "Nos primeiros 15 dias de 2024, o estado confirmou mais da metade dos casos registrados no ano passado inteiro e emitiu alerta epidemiol\u00f3gico",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/febre-oropouche-entenda-a-doenca-que-atinge-o-amazonas-e-tem-sintomas-como-os-da-dengue,abac75a01d5f79b3ade41ee7131753c14a3yyh7y.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-01-23 17:40:13",
+      "content": "AG\u00caNCIA EINSTEIN \u2014 O Amazonas registrou mais da metade do n\u00famero de casos de febre oropouche na primeira quinzena de janeiro deste ano, em compara\u00e7\u00e3o com todo o ano passado - foram 223 casos da doen\u00e7\u2026 [+2990 chars]",
+      "retrievedAt": "2024-01-24 19:05:33.141243",
+      "internal_id": "5b1965720656ee2dbc6429cf0de131ce33e0984bef53863aa6eb711709e16fac",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4528,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Stephen Stock, Leigh Ann Winick, Sara Moniuszko",
+      "title": "What's causing measles outbreaks? Experts point to waning herd immunity",
+      "description": "Despite a safe and effective vaccine to protect against measles, a decrease in children getting immunized is leading to a comeback of the highly contagious and potentially deadly virus.",
+      "url": "https://www.cbsnews.com/news/measles-outbreaks-vaccination-rate-herd-immunity/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/23/fa7028e0-03ce-448b-9970-bb566f600272/thumbnail/1200x630/24836e6026b1bed3b3bf185256c1ef74/gettyimages-1429059636.jpg?v=1acc31b0e955989267fc7dd28b496c5e",
+      "publishedAt": "2024-01-23 17:23:09",
+      "content": "Measles was officially declared eradicated in the U.S. more than 20 years ago, but new outbreaks of the disease are popping up \u2014 and experts say declining vaccination rates are jeopardizing herd immu\u2026 [+3039 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.635094",
+      "internal_id": "9f11c948bc3e7a363a6d72837887710cf916e2e312b4a4c91177ef4d3d24cc9a",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4531,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Another 70 suspected measles cases in UK as WHO warns of 'alarming rise' in spread across Europe",
+      "description": "Another 70 suspected measles cases have been reported in the UK as the World Health Organization (WHO) warns of an \"alarming rise\" in the spread of the disease across Europe.",
+      "url": "https://news.sky.com/story/another-70-suspected-measles-cases-in-uk-as-who-warns-of-alarming-rise-in-spread-of-the-disease-across-europe-13054777",
+      "urlToImage": "https://e3.365dm.com/23/11/1600x900/skynews-measles-stock_6367226.jpg?20240119155712",
+      "publishedAt": "2024-01-23 17:05:00",
+      "content": "Another 70 suspected measles cases have been reported in the UK as the World Health Organization (WHO) warns of an \"alarming rise\" in the spread of the disease across Europe. The latest weekly data \u2026 [+3934 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.658480",
+      "internal_id": "39fd79f045103f8ace133c56f0e57edeff1909ab3da097b556821fade6152dd2",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4541,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Protein from mosquitoes could help control dengue virus infection",
+      "description": "NUS scientists have revealed the structure and function of a pupal cuticle protein found in the exoskeleton\u2014a hard covering that supports and protects the bodies of some types of invertebrate animals, especially arthropods\u2014of Aedes aegypti mosquitoes, and sci\u2026",
+      "url": "https://phys.org/news/2024-01-protein-mosquitoes-dengue-virus-infection.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/dengue-virus.jpg",
+      "publishedAt": "2024-01-23 16:59:03",
+      "content": "NUS scientists have revealed the structure and function of a pupal cuticle protein found in the exoskeletona hard covering that supports and protects the bodies of some types of invertebrate animals,\u2026 [+4195 chars]",
+      "retrievedAt": "2024-01-24 19:05:33.092458",
+      "internal_id": "aeceb915db3614b86ec2ef4636a4c5ebd8273356963544418aab9e36cef69f50",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4534,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alphafreepress.gr",
+      "author": "\u039c\u03b1\u03c1\u03af\u03b1 \u03a7\u03b1\u03bb\u03b9\u03ba\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5",
+      "title": "\u0399\u03bb\u03b1\u03c1\u03ac \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 2024: \u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u2013 \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1 \u03c3\u03c4\u03bf\u03bd \u03a0\u039f\u03a5",
+      "description": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 (\u03a0\u039f\u03a5), \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b9\u03bb\u03b1\u03c1\u03ac\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u03b1\u03c5\u03be\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03c0\u03ad\u03c1\u03c5\u03c3\u03b9 \u03ba\u03b1\u03c4\u03ac 30 \u03c6\u03bf\u03c1\u03ad\u03c2, \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af",
+      "url": "https://www.alphafreepress.gr/2024/01/23/kosmos/ilara-krousmata-2024-synagermos-stin-eyropi-anisyxia-ston-pou/",
+      "urlToImage": "https://www.alphafreepress.gr/wp-content/uploads/2024/01/ilara.jpg",
+      "publishedAt": "2024-01-23 16:37:51",
+      "content": "(), 30 , . 30.000 2023, 941 2022. . \u00ab \u00bb . , , , : \u00ab , , 30 , 21.000 . \u00bb. \u00ab \u00bb. - - . Measles outbreaks are on the rise globally due to vaccine hesitancy and misinformation. We need to restore trust \u2026 [+388 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.674838",
+      "internal_id": "144842a9474139f45920a2e800f819183f8af8cbdb977621513d5c389f0b5710",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4539,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Da Reda\u00e7\u00e3o",
+      "title": "Febre oropouche, que atinge o Amazonas, tem sintomas como os da dengue",
+      "description": "N\u00famero de casos no norte do pa\u00eds vem aumentando nas primeiras semanas de janeiro. Conhe\u00e7a essa arbovirose transmitida por mosquito",
+      "url": "https://www.metropoles.com/saude/febre-oropouche-sintomas-como-os-da-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2020/03/06193651/Crian%C3%A7a-passando-repelente.jpg",
+      "publishedAt": "2024-01-23 16:12:22",
+      "content": "O Amazonas registrou mais da metade do n\u00famero de casos de febre oropouche na primeira quinzena de janeiro deste ano, em compara\u00e7\u00e3o com todo o ano passado foram 223 casos da doen\u00e7a nas primeiras duas \u2026 [+8070 chars]",
+      "retrievedAt": "2024-01-24 19:05:33.075219",
+      "internal_id": "da9ed2ccb3b43dfc2a18abc9c32102b52a1d7d977c0fff23c4e6f7e987b23c22",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4527,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Euronews",
+      "author": null,
+      "title": "\u2018Alarming rise\u2019 in measles cases in Europe as \u2018national incident\u2019 declared in UK",
+      "description": "With a \u201cnational incident\u201d over measles in the UK, what\u2019s the situation in Europe?",
+      "url": "https://www.euronews.com/next/2024/01/23/alarming-rise-in-measles-cases-in-europe-as-national-incident-declared-in-uk",
+      "urlToImage": "https://static.euronews.com/articles/stories/08/19/06/02/1200x675_cmsv2_846551b2-67ec-568c-9bbb-416091faac98-8190602.jpg",
+      "publishedAt": "2024-01-23 16:07:16",
+      "content": "Europe is experiencing an alarming rise in measles cases, the World Health Organization (WHO) warned on Tuesday, with a more than 30-fold rise across the region in 2023. More than 30,000 measles cas\u2026 [+4062 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.630789",
+      "internal_id": "f099af70b325eb080ccbd5a4b35825316768c0610e41ca557b8b96e63f684a98",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4552,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "TheGrio",
+      "author": "Associated Press",
+      "title": "Cameroon starts world\u2019s first malaria vaccine program for children",
+      "description": "The Central African nation hopes to vaccinate about 250,000 children this year and next year. Cameroon will be the first [\u2026] The post Cameroon starts world\u2019s first malaria vaccine program for children appeared first on TheGrio.",
+      "url": "http://thegrio.com/2024/01/23/cameroon-starts-worlds-first-malaria-vaccine-program-for-children/",
+      "urlToImage": "https://thegrio.com/wp-content/uploads/2024/01/AP24019673335779.jpg",
+      "publishedAt": "2024-01-23 15:42:36",
+      "content": "Cameroon will be the first country to routinely give children a new malaria vaccine as the shots are rolled out in Africa. The campaign due to start Monday was described by officials as a milestone \u2026 [+2128 chars]",
+      "retrievedAt": "2024-01-24 19:05:34.144292",
+      "internal_id": "64e721c20535754111ed02d923f55b61dc61168c63885691b43e7d6ed0a54307",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4533,
+      "query": [
+        "measles"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Simon Williams",
+      "title": "Measles and Misinformation Are Two Huge Public-Health Threats",
+      "description": "Vaccine misinformation is fueling an unfortunate and unnecessary disease surge, writes Simon Williams.",
+      "url": "https://time.com/6564694/measles-antivaccine-misinformation/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/01/measles-vaccine.jpg?quality=85",
+      "publishedAt": "2024-01-23 15:35:00",
+      "content": "Measles would be gone if we wanted it to be. Weve had a highly effective, safe vaccine for it for 60 years. But because of rising anti-vaccine sentiments, measles is back, with recent cases in Phila\u2026 [+6265 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.668831",
+      "internal_id": "a8b6a3393b187dc2a3b25ce23d621288d46f083ab402da5ce11a65f2cde23ee1",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4546,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Sele\u00e7\u00f5es, Sele\u00e7\u00f5es",
+      "title": "Vacina contra a dengue: saiba quem pode tomar e como funciona",
+      "description": "Ainda n\u00e3o se vacinou? Tire suas d\u00favidas sobre a vacina contra a dengue agora!",
+      "url": "https://delas.ig.com.br/parceiros/selecoes/2024-01-23/vacina-contra-a-dengue--saiba-quem-pode-tomar-e-como-funciona.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ak/k2/pl/akk2plr6r43vo9ew4hkfq69y0.jpg",
+      "publishedAt": "2024-01-23 14:45:30",
+      "content": "A primeira remessa da vacina contra a dengue disponibilizada pelo Sistema \u00danico de Sa\u00fade (SUS) chegou ao Brasil na \u00faltima semana. Com o pa\u00eds liderando as estat\u00edsticas mundiais de casos de dengue, es\u2026 [+1790 chars]",
+      "retrievedAt": "2024-01-24 19:05:33.114253",
+      "internal_id": "0640944734c7db181aca2d39e45eeb91dae00e1a544623e86fa32747751d0364",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4537,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Bbc News",
+      "title": "Alarming rise in measles in Europe - health chiefs",
+      "description": "Urgent measures are needed now to stop further spread, the World Health Organization says.",
+      "url": "https://www.bbc.com/news/health-68068226",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/177EF/production/_132393269_gettyimages-534079149.jpg",
+      "publishedAt": "2024-01-23 14:08:31",
+      "content": "There was an \"alarming\" 30-fold increase in measles cases in Europe last year, the World Health Organization (WHO) says. More than 30,000 people were infected in 2023, compared to 941 during the who\u2026 [+3860 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.689104",
+      "internal_id": "53be4b7b89db99e0dab11f2cedda2cc6abf85ac3048268085ea1d358841b242c",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4526,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Alarming rise in measles in Europe - health chiefs",
+      "description": "Urgent measures are needed now to stop further spread, the World Health Organization says.",
+      "url": "https://www.bbc.co.uk/news/health-68068226",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/177EF/production/_132393269_gettyimages-534079149.jpg",
+      "publishedAt": "2024-01-23 14:05:55",
+      "content": "There was an \"alarming\" 30-fold increase in measles cases in Europe last year, the World Health Organization (WHO) says. More than 30,000 people were infected in 2023, compared to 941 during the who\u2026 [+3046 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.626782",
+      "internal_id": "44e1de14e2ada620b94843ed2d590115cf46aaeaad8c79641018bceb2815716e",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4529,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Why waning herd immunity is leading to measles outbreaks",
+      "description": "Measles were eradicated in the United States decades ago, but decreased vaccination rates have threatened the country's herd immunity against the disease. New outbreaks have been reported, including nine cases in Philadelphia that affected a hospital and a da\u2026",
+      "url": "https://www.cbsnews.com/video/why-waning-herd-immunity-is-leading-to-measles-outbreaks/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/23/7bbbef8d-958d-400f-92f1-cea03f7dac89/thumbnail/1200x630/e7125d6a73db63a3ff755c246bce10b8/0123-cmo-measlesvaxrate-stock-mid-2622030-640x360.jpg?v=1acc31b0e955989267fc7dd28b496c5e",
+      "publishedAt": "2024-01-23 14:05:14",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-01-24 19:05:32.642107",
+      "internal_id": "64936e5ec704f1ac6d6c2c27d6932dc0c3ddc68027890e69070430891a2ba886",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4536,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Checkyourfact.com",
+      "author": "Christine Sellers",
+      "title": "FACT CHECK: Reported Measles Exposure In Virginia Not Linked To Disease X",
+      "description": "A video shared on Instagram claims a reported Measles exposure in Virginia is linked to &quot;Disease X.&quot;",
+      "url": "https://checkyourfact.com/2024/01/23/fact-check-measles-virginia-disease-x/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2024/01/GettyImages-1873106207-e1705936378763.jpg",
+      "publishedAt": "2024-01-23 14:03:01",
+      "content": "A video shared on Instagram claims a reported Measles exposure in Virginia is linked to \u201cDisease X.\u201d Verdict: False The Virginia Department of Health (VDH) issued a press release on Jan. 13 indicat\u2026 [+3172 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.684801",
+      "internal_id": "3c74689c879a1b916bee61f360632c0a0b4ba6cf3896106e3e826b3ca511b594",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4525,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Faith M. Walker, Jordyn R. Upton, Daryn Erickson, Zachary A. Barrand, Breezy Brock, Michael Valentine, Emma L. Federman, Emma M. Froehlich, Lolita Van Pelt, Lias Hastings, Daniel E. Sanchez, David L. Bergman, David M. Engelthaler, Crystal M. Hepp",
+      "title": "Lyssa excreta: Defining parameters for fecal samples as a rabies virus surveillance method",
+      "description": "It is not possible to systematically screen the environment for rabies virus (RABV) using current approaches. We sought to determine under what conditions RABV is detectable from feces and other accessible samples from infected wildlife to broaden the number \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294122",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0294122.t005&size=inline",
+      "publishedAt": "2024-01-23 14:00:00",
+      "content": "Abstract It is not possible to systematically screen the environment for rabies virus (RABV) using current approaches. We sought to determine under what conditions RABV is detectable from feces and \u2026 [+21875 chars]",
+      "retrievedAt": "2024-01-24 19:05:31.937278",
+      "internal_id": "ae0dfd4382673d010157471de541d81f499e852e52e1670596c0103340cb7fa7",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4549,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mar\u00eava Bleuz\u00e9, Jean-Pierre Lavoie, Christian B\u00e9dard, Marcelo Gottschalk, Mariela Segura",
+      "title": "Encapsulated Streptococcus suis impairs optimal neutrophil functions which are not rescued by priming with colony-stimulating factors",
+      "description": "The porcine pathogen and zoonotic agent Streptococcus suis induces an exacerbated inflammation in the infected hosts that leads to sepsis, meningitis, and sudden death. Several virulence factors were described for S. suis of which the capsular polysaccharide \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296844",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0296844.g011&size=inline",
+      "publishedAt": "2024-01-23 14:00:00",
+      "content": "Citation: Bleuz\u00e9 M, Lavoie J-P, B\u00e9dard C, Gottschalk M, Segura M (2024) Encapsulated Streptococcus suis impairs optimal neutrophil functions which are not rescued by priming with colony-stimulating f\u2026 [+53636 chars]",
+      "retrievedAt": "2024-01-24 19:05:33.642321",
+      "internal_id": "e32ae18ef18ca6605893eaa6789bcbf0d3219f3fdd2e069d9b0c36e07cad5272",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4553,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "David Cox",
+      "title": "A new understanding of how your blood type influences your health",
+      "description": "We now know that there are at least 45 different blood types and that yours may influence your risk of disease, from malaria to cancer",
+      "url": "https://www.newscientist.com/article/mg26134751-500-a-new-understanding-of-how-your-blood-type-influences-your-health/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2024/01/22102744/SEI_187616227.jpg",
+      "publishedAt": "2024-01-23 14:00:00",
+      "content": "Researchers have recently discovered our 45th blood type PhotoAlto/Alamy IN 2023, a paper was published in the journal Blood that ended a mystery stretching back four decades. It detailed the exist\u2026 [+1254 chars]",
+      "retrievedAt": "2024-01-24 19:05:34.147869",
+      "internal_id": "86b7adf340efa180b0e009e96e8d802373b2d1b29a03ee0671d660e36b077554",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4551,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Die erste gro\u00dfe Impfkampagne gegen Malaria",
+      "description": "Zum Auftakt der gro\u00df angelegten Impfaktion wurde ein sechs Monate altes Baby immunisiert. Es ist die erste von der WHO empfohlene Impfung gegen Malaria. In Kamerun gehen 30 Prozent der Arztbesuche auf die von M\u00fccken \u00fcbertragene Krankheit zur\u00fcck.",
+      "url": "https://www.diepresse.com/18023284/die-erste-grosse-impfkampagne-gegen-malaria",
+      "urlToImage": "https://img.diepresse.com/public/incoming/ah2anp-HEALTH-MALARIAAFRICA/alternates/DPR_SOCIAL_NACHRICHTEN/HEALTH-MALARIAAFRICA",
+      "publishedAt": "2024-01-23 13:36:25",
+      "content": "Zum Auftakt der gro\u00df angelegten Impfaktion wurde ein sechs Monate altes Baby immunisiert. Es ist die erste von der WHO empfohlene Impfung gegen Malaria. In Kamerun gehen 30 Prozent der Arztbesuche au\u2026 [+2528 chars]",
+      "retrievedAt": "2024-01-24 19:05:34.125813",
+      "internal_id": "2db8bd777ffb9c1d039a9d76b48e508d3d358aabd7fcfcc1a31823f742b93485",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4543,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Dengue infections up for seven straight weeks; NEA urges 'immediate action'",
+      "description": "SINGAPORE: More than 400 dengue infections were reported in the week ending Jan 20, marking the seventh consecutive week of increase, newly released data by the National Environment Agency (NEA) showed on Tuesday (Jan 23). The 410 dengue cases reported last w\u2026",
+      "url": "https://www.channelnewsasia.com/singapore/nea-dengue-fever-cases-seven-consecutive-weeks-increase-4067886",
+      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--wyZEvDk0--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/07/istock-513235504.jpg?itok=4pUVGe1i",
+      "publishedAt": "2024-01-23 12:49:32",
+      "content": "NEA advised members of the public to use insect repellent, wear long-sleeved tops and long pants, and to spray insecticide in dark corners of the house. There are four dengue virus serotypes circula\u2026 [+848 chars]",
+      "retrievedAt": "2024-01-24 19:05:33.103006",
+      "internal_id": "16ccb773c2e62e8a7a552841594b98a1ba7a0da4453a05f3e023cf6e8ba8f56d",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4524,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Whooping cough: diagnosis information",
+      "description": "Information for individuals diagnosed with whooping cough (pertussis).",
+      "url": "https://www.gov.uk/government/publications/whooping-cough-diagnosis-information",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+      "publishedAt": "2024-01-23 12:30:07",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2024-01-24 19:05:31.577902",
+      "internal_id": "bb23c16051b0fa4190476dc5192ea18588c05e257e237f14885448cbe5ec90dc",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4538,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Amanda Musa, Carma Hassan",
+      "title": "Why are measles cases popping up across the United States? Here\u2019s what to know about the highly contagious virus",
+      "description": "Nearly a dozen cases of measles have been reported in Pennsylvania, Virginia and Georgia in recent weeks, according to local health departments. International travel, coupled with declining global vaccination rates, is probably behind this spate of cases, exp\u2026",
+      "url": "https://www.cnn.com/2024/01/23/health/measles-cases-xpn-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240122095142-measles-vaccine-04262019.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-23 12:24:06",
+      "content": "Nearly a dozen cases of measles have been reported in Pennsylvania, Virginia and Georgia in recent weeks, according to local health departments. International travel, coupled with declining global va\u2026 [+8424 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.693315",
+      "internal_id": "7f1d7f2c1c8fc3ac18c13d6e7c456b39399de6d3049925aed8dc5cd876240904",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4554,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Simone Blanes",
+      "title": "Chikungunya e zika diminuem no pa\u00eds, mas crescem em \u00e1reas de risco",
+      "description": "Nordeste, Centro-Oeste e litoral de S\u00e3o Paulo e Rio de Janeiro s\u00e3o as regi\u00f5es mais afetadas pela infec\u00e7\u00e3o",
+      "url": "https://veja.abril.com.br/saude/chikungunya-e-zika-deminuem-no-pais-mas-crescem-em-areas-de-risco",
+      "urlToImage": "",
+      "publishedAt": "2024-01-23 12:12:38",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade Por Julia Moi\u00f3li | Ag\u00eancia FAPESP Atualizado em 23 jan 2024, 09h14 - Publicado em 23 jan 2024, 09h12 AEDES AEGYPTI: Picada da f\u00eamea do mosq\u2026 [+5640 chars]",
+      "retrievedAt": "2024-01-24 19:05:34.675389",
+      "internal_id": "ff9890e8e3d34b064fd114f110470ead5a9683ca4474b5ee4688ac40884f667a",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4556,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u0429\u0435\u0433\u043b\u043e\u0432\u0430",
+      "title": "\u041e\u0441\u043f\u0430 \u043e\u0431\u0435\u0437\u044c\u044f\u043d: \u0447\u0442\u043e \u043e \u043d\u0435\u0439 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e \u0438 \u0447\u0435\u043c \u043e\u043d\u0430 \u043e\u043f\u0430\u0441\u043d\u0430",
+      "description": "\u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u0441\u043f\u044b\u0448\u043a\u0430 \u043b\u043e\u043a\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u0430, \u043d\u043e \u0432\u0438\u0440\u0443\u0441 \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u043c\u0443\u0442\u0438\u0440\u0443\u0435\u0442 \u0438 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u0431\u043e\u043b\u0435\u0435 \u043e\u043f\u0430\u0441\u043d\u044b\u043c, \u043f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0430\u044e\u0442 \u0443\u0447\u0435\u043d\u044b\u0435.",
+      "url": "https://health.mail.ru/article/3079351-ospa-obezyan/",
+      "urlToImage": "https://health.mail.ru/sharepic/33/3079351/?1706011274",
+      "publishedAt": "2024-01-23 12:01:14",
+      "content": "22 2024 , , - . 2022 , . , , , , . 2022 , . , , . , Imvanex, . , 2023-, () , \u00ab , \u00bb. , , . , , - , , . , 22 2024 , , - . , (Mpox) , . 2023 , Mpox, Science. -, , 2016 , , , . Mpox\u2026 [+137 chars]",
+      "retrievedAt": "2024-01-24 19:05:35.464269",
+      "internal_id": "8e861d68b8638ee546c6c361ea808ee74434f55714b23a511336747a47380415",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4530,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Carlo Martuscelli",
+      "title": "Measles in Europe: WHO calls for \u2018urgent\u2019 vaccinations as cases surge",
+      "description": "The WHO's Europe region registered more than 30,000 cases of the measles between January and October 2023.",
+      "url": "https://www.politico.eu/article/who-calls-for-urgent-vaccinations-as-measles-cases-surge-in-europe/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/01/23/iStock-1196157315-scaled.jpg",
+      "publishedAt": "2024-01-23 11:31:10",
+      "content": "There were 30 times more cases of measles in the first 10 months of 2023 compared with the year before, warned the World Health Organization's Europe office Tuesday, as it urged countries to implemen\u2026 [+1442 chars]",
+      "retrievedAt": "2024-01-24 19:05:32.650357",
+      "internal_id": "4a6fe9b57712524dc42234bd41750e71477486f784335c294a6add7859ff5261",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4540,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "NDTV News",
+      "author": null,
+      "title": "Bhumi Pednekar's \"Post Dengue\" Workout Video Is Anything But A \"Mess\"",
+      "description": "On the work front, Bhumi Pednekar was last seen in Thank You For Coming",
+      "url": "https://www.ndtv.com/entertainment/bhumi-pednekar-s-workout-video-will-help-you-set-2024-fitness-goals-4916571",
+      "urlToImage": "https://c.ndtvimg.com/2024-01/4f9psse8_alia-_625x300_23_January_24.jpeg?ver-20240117.06",
+      "publishedAt": "2024-01-23 11:29:26",
+      "content": "Still from a video posted by Bhumi Pednekar. (courtesy: bhumipednekar) Bhumi Pednekar just dropped a fitness bomb on her Instagram timeline, and it's definitely worth checking out. The actress share\u2026 [+1854 chars]",
+      "retrievedAt": "2024-01-24 19:05:33.083465",
+      "internal_id": "17ff2e7e1a9c1901ab295a5af7777c27f49fe73bba1544eb74a8536efe461242",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4545,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Casos de dengue no Brasil aumentam 40% entre julho e janeiro",
+      "description": "O n\u00famero de casos de dengue registrou aumento de quase 40% entre julho de 2023 e janeiro deste ...",
+      "url": "https://www.terra.com.br/noticias/brasil/casos-de-dengue-no-brasil-aumentam-40-entre-julho-e-janeiro,b5aafbd04225a78fafdf77206a896d29rw7y2tuz.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-01-23 11:28:51",
+      "content": "O n\u00famero de casos de dengue registrou aumento de quase 40% entre julho de 2023 e janeiro deste ano, com \u00edndice de 150 cont\u00e1gios por cada 100 mil habitantes, informou o Minist\u00e9rio da Sa\u00fade, que deve i\u2026 [+1064 chars]",
+      "retrievedAt": "2024-01-24 19:05:33.110450",
+      "internal_id": "30496403572a7f256443869f09608db1605b2f9bd8ad8b0c86f6ca145e3d40ae",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4542,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ansa, Ansa",
+      "title": "Dengue: casos aumentam 40% entre julho e janeiro",
+      "description": "Situa\u00e7\u00e3o \u00e9 delicada no DF, que j\u00e1 soma 2 mortes em 2024",
+      "url": "https://saude.ig.com.br/2024-01-23/dengue--casos-aumentam-40--entre-julho-e-janeiro.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-23 11:16:59",
+      "content": "O n\u00famero de casos de dengue registrou aumento de quase 40% entre julho de 2023 e janeiro deste ano, com \u00edndice de 150 cont\u00e1gios por cada 100 mil habitantes, informou o Minist\u00e9rio da Sa\u00fade, que deve\u2026 [+954 chars]",
+      "retrievedAt": "2024-01-24 19:05:33.096224",
+      "internal_id": "73123a53c87d2097a722898594a49f1c08e6b64b7519a11fa76fd2ea5c694838",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4547,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Casos de dengue aumentam 40% entre julho e janeiro",
+      "description": "BRAS\u00cdLIA, 23 GEN - O n\u00famero de casos de dengue registrou aumento de quase 40% entre julho de ...",
+      "url": "https://www.terra.com.br/noticias/brasil/casos-de-dengue-aumentam-40-entre-julho-e-janeiro,b5aafbd04225a78fafdf77206a896d29rw7y2tuz.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-01-23 11:07:50",
+      "content": "BRAS\u00cdLIA, 23 GEN - O n\u00famero de casos de dengue registrou aumento de quase 40% entre julho de 2023 e janeiro deste ano, com \u00edndice de 150 cont\u00e1gios por cada 100 mil habitantes, informou o Minist\u00e9rio d\u2026 [+1106 chars]",
+      "retrievedAt": "2024-01-24 19:05:33.132752",
+      "internal_id": "18c75a0713222a2861b64225a4d007f75cc4e779d4e37e38ae9bac36382f54f6",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4555,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Minist\u00e9rio da Sa\u00fade de Timor-Leste confirma v\u00edrus chikungunya no pa\u00eds",
+      "description": "Os dados confirmam 55 pessoas infetadas nos munic\u00edpios de D\u00edli, Ermera e Bobonaro. \"Todos responderam positivamente ao tratamento ambulat\u00f3rio.\"",
+      "url": "https://observador.pt/2024/01/23/ministerio-da-saude-de-timor-leste-confirma-virus-chikungunya-no-pais/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1126%3Anowe%3A0%3A77%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F01%2F23085812%2F41642373.jpg",
+      "publishedAt": "2024-01-23 10:22:29",
+      "content": "O vice-ministro para o Fortalecimento Institucional da Sa\u00fade de Timor-Leste, Jos\u00e9 dos Reis Magno, confirmou esta ter\u00e7a-feira a presen\u00e7a do v\u00edrus chikungunya no territ\u00f3rio nacional. \u201cO Minist\u00e9rio da \u2026 [+1117 chars]",
+      "retrievedAt": "2024-01-24 19:05:35.108870",
+      "internal_id": "09b9d0d2c7f043a21b5fbb4aec2f5a4c0eead3c6491e98661c3894df28f47717",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4550,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Passo storico anti-malaria, in Camerun vaccinazioni di massa",
+      "description": "Il Camerun \u00e8 il primo Paese ad aver ha lanciato un programma di vaccinazione su larga scala contro la malaria, in un passaggio che l'Organizzazione mondiale della Sanit\u00e0 (Oms) ha definito \"storico\". (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/01/22/passo-storico-anti-malaria-in-camerun-vaccinazioni-di-massa_835dc4c3-18f0-475b-a6b3-2dc01b94ca59.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/1/22/bef0a032c2e4b6093652cc4d220f4730.jpg",
+      "publishedAt": "2024-01-23 08:24:15",
+      "content": "Il Camerun \u00e8 il primo Paese ad aver ha lanciato un programma di vaccinazione su larga scala contro la malaria, in un passaggio che l'Organizzazione mondiale della Sanit\u00e0 (Oms) ha definito \"storico\". \u2026 [+2707 chars]",
+      "retrievedAt": "2024-01-24 19:05:34.083596",
+      "internal_id": "9a48213aed21aff348a4614a7fb2815d77f319b10977377ef3784f3ec4ab2315",
+      "publishedAtLabel": "Jan 23"
+    },
     {
       "id": 4517,
       "query": [
@@ -15759,42 +16354,6 @@
       "retrievedAt": "2023-12-12 07:05:46.750944",
       "internal_id": "c116a51cb6ff4fea02b93505cc7f7b086822052fe4eaf8b8eb613a769e41cd5c",
       "publishedAtLabel": "Dec 11"
-    },
-    {
-      "id": 3640,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Asianetnews.com",
-      "author": "Web Team",
-      "title": "'100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d46\u0d28\u0d4d\u0d28 \u0d05\u0d23\u0d41\u0d2c\u0d3e\u0d27; \u0d1c\u0d3e\u0d17\u0d4d\u0d30\u0d24 \u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d28\u0d3f\u0d30\u0d4d\u200d\u0d26\u0d47\u0d36\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d41\u0d15\u0d46\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d35\u0d15\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
-      "description": "\u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d3e\u0d23\u0d24\u0d4d\u0d30\u0d47 '100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d40\u0d1f\u0d4d \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d3e\u0d38\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d27\u0d3f\u0d15\u0d02 \u0d1a\u0d41\u0d2e \u0d28\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d28\u0d3f\u0d32\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d05\u0d35\u0d38\u0d4d\u0d25\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41",
-      "url": "https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95",
-      "urlToImage": "https://static-ai.asianetnews.com/images/01epy9ef8135ab8dte71vxnjb2/pneumonia--jpg_1200x630xt.jpg",
-      "publishedAt": "2023-12-10 12:45:52",
-      "content": "'100 ' . 19 . . . . . . '100 ' . 100 . , . . . . '100 ' . . 'Bordetella pertussis bacteria' '100 ' . . 1950 . . . . . , . '100 ' . . '100 ' . . . '100 ' . Also Read:- ' '?; ? ... \u2026 [+55 chars]",
-      "retrievedAt": "2023-12-11 19:05:24.793192",
-      "internal_id": "acf2edf9d18e841ea459b3181537b06547cad382f659d3c4f1f96c70fc7744ba",
-      "publishedAtLabel": "Dec 10"
-    },
-    {
-      "id": 3641,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Ag\u00eancia Mural - Conte\u00fado Exclusivo",
-      "title": "Conhe\u00e7a Zika das Artes, de S\u00e3o Mateus, que assina capas de \u00e1lbuns do trap e rap",
-      "description": "Com est\u00e9tica que mistura t\u00e9cnicas de artes cl\u00e1ssicas ao mundo digital, artista ganha notoriedade no cen\u00e1rio musical",
-      "url": "https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1-zika-das-artes-na-perifacon-2023-credito-leu-britto-agencia-mural-(1)-ure13t557g36.jpg",
-      "publishedAt": "2023-12-10 08:00:20",
-      "content": "Com assinatura nas capas de \u00e1lbuns de renomados m\u00fasicos do universo do trap e do rap, o artista visual Kayo Mathias, 23, o Zika das Artes, de S\u00e3o Mateus, na zona leste de S\u00e3o Paulo, celebra um 2023 d\u2026 [+3286 chars]",
-      "retrievedAt": "2023-12-11 19:05:26.676231",
-      "internal_id": "a7015427e17347ed9b4d87bae7c063e7f102cccb9e7f341deb9675d0006bae7b",
-      "publishedAtLabel": "Dec 10"
     }
   ]
 }

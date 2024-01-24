@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-01-24 07:06
-- **Most recent article:** 2024-01-23 06:12:50
+- **New articles in last harvest:** 33
+- **Last harvest:** 2024-01-24 19:05
+- **Most recent article:** 2024-01-23 18:44:47
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 26 | 327 |
-| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 53 | 213 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 10 | 147 |
-| mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 1 | 64 |
-| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 2 | 40 |
-| meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 0 | 35 |
-| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 0 | 29 |
-| chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 0 | 27 |
-| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 0 | 18 |
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 36 | 337 |
+| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 57 | 217 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 23 | 160 |
+| mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 2 | 65 |
+| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 3 | 40 |
+| meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 1 | 36 |
+| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 1 | 30 |
+| chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 2 | 29 |
+| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 18 |
 | typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 1 | 8 |
 | leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
 | yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 3 |
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (zika)
 
+- [Chikungunya e zika diminuem no país, mas crescem em áreas de risco](https://veja.abril.com.br/saude/chikungunya-e-zika-deminuem-no-pais-mas-crescem-em-areas-de-risco) (Abril.com.br)
+
 - [Le virus Zika démontre son efficacité pour éradiquer... certains cancers](https://www.techno-science.net/actualite/virus-zika-demontre-son-efficacite-eradiquer-certains-cancers-N24346.html) (Techno-science.net)
 
 - [Szenzációs felfedezés: megtalálhatták a rák ellenszerét](https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html) (Origo.hu)
@@ -40,11 +42,51 @@ Source: [News API](https://newsapi.org/)
 
 - [Study reveals how some bacterial infections become chronic](https://phys.org/news/2024-01-reveals-bacterial-infections-chronic.html) (Phys.Org)
 
+## 24-4 (rabies)
+
+- [Lyssa excreta: Defining parameters for fecal samples as a rabies virus surveillance method](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294122) (Plos.org)
+
+## 24-4 (pertussis)
+
+- [Guidance: Whooping cough: diagnosis information](https://www.gov.uk/government/publications/whooping-cough-diagnosis-information) (Www.gov.uk)
+
 ## 24-4 (mpox)
+
+- [Оспа обезьян: что о ней известно и чем она опасна](https://health.mail.ru/article/3079351-ospa-obezyan/) (Mail.ru)
 
 - [La Viruela del mono, ahora Mpox, sus estragos y poco interés por la información Sanitaria...](https://www.elconfidencialdigital.com/articulo/opinan-socios-ecd/viruela-mono-ahora-mpox-estragos-poco-interes-informacion-sanitaria/20240122104356707236.html) (Elconfidencialdigital.com)
 
+## 24-4 (meningitis)
+
+- [Encapsulated Streptococcus suis impairs optimal neutrophil functions which are not rescued by priming with colony-stimulating factors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296844) (Plos.org)
+
 ## 24-4 (measles)
+
+- [Measles cases soared in Europe to 42,200 last year, almost 45-fold increase on previous year](https://www.thejournal.ie/measles-cases-europe-2023-6279843-Jan2024/) (TheJournal.ie)
+
+- [Measles Cases In Europe Rise 45-Fold In 2023. These Countries Worst Hit](https://www.ndtv.com/world-news/measles-cases-in-europe-rise-45-fold-in-2023-these-countries-worst-hit-4919448) (NDTV News)
+
+- [What's causing measles outbreaks? Experts point to waning herd immunity](https://www.cbsnews.com/news/measles-outbreaks-vaccination-rate-herd-immunity/) (CBS News)
+
+- [Another 70 suspected measles cases in UK as WHO warns of 'alarming rise' in spread across Europe](https://news.sky.com/story/another-70-suspected-measles-cases-in-uk-as-who-warns-of-alarming-rise-in-spread-of-the-disease-across-europe-13054777) (Sky.com)
+
+- [Ιλαρά κρούσματα 2024: Συναγερμός στην Ευρώπη – Ανησυχία στον ΠΟΥ](https://www.alphafreepress.gr/2024/01/23/kosmos/ilara-krousmata-2024-synagermos-stin-eyropi-anisyxia-ston-pou/) (Alphafreepress.gr)
+
+- [‘Alarming rise’ in measles cases in Europe as ‘national incident’ declared in UK](https://www.euronews.com/next/2024/01/23/alarming-rise-in-measles-cases-in-europe-as-national-incident-declared-in-uk) (Euronews)
+
+- [Measles and Misinformation Are Two Huge Public-Health Threats](https://time.com/6564694/measles-antivaccine-misinformation/) (Time)
+
+- [Alarming rise in measles in Europe - health chiefs](https://www.bbc.com/news/health-68068226) (BBC News)
+
+- [Alarming rise in measles in Europe - health chiefs](https://www.bbc.co.uk/news/health-68068226) (BBC News)
+
+- [Why waning herd immunity is leading to measles outbreaks](https://www.cbsnews.com/video/why-waning-herd-immunity-is-leading-to-measles-outbreaks/) (CBS News)
+
+- [FACT CHECK: Reported Measles Exposure In Virginia Not Linked To Disease X](https://checkyourfact.com/2024/01/23/fact-check-measles-virginia-disease-x/) (Checkyourfact.com)
+
+- [Why are measles cases popping up across the United States? Here’s what to know about the highly contagious virus](https://www.cnn.com/2024/01/23/health/measles-cases-xpn-wellness/index.html) (CNN)
+
+- [Measles in Europe: WHO calls for ‘urgent’ vaccinations as cases surge](https://www.politico.eu/article/who-calls-for-urgent-vaccinations-as-measles-cases-surge-in-europe/) (POLITICO.eu)
 
 - [Millions in the UK are being urged to get vaccinations as measles cases surge](https://www.pbs.org/newshour/health/millions-in-the-uk-are-being-urged-to-get-vaccinations-as-measles-cases-surge) (PBS)
 
@@ -67,6 +109,14 @@ Source: [News API](https://newsapi.org/)
 - [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
+
+- [Cameroon starts world’s first malaria vaccine program for children](http://thegrio.com/2024/01/23/cameroon-starts-worlds-first-malaria-vaccine-program-for-children/) (TheGrio)
+
+- [A new understanding of how your blood type influences your health](https://www.newscientist.com/article/mg26134751-500-a-new-understanding-of-how-your-blood-type-influences-your-health/) (New Scientist)
+
+- [Die erste große Impfkampagne gegen Malaria](https://www.diepresse.com/18023284/die-erste-grosse-impfkampagne-gegen-malaria) (Diepresse.com)
+
+- [Passo storico anti-malaria, in Camerun vaccinazioni di massa](https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/01/22/passo-storico-anti-malaria-in-camerun-vaccinazioni-di-massa_835dc4c3-18f0-475b-a6b3-2dc01b94ca59.html) (ANSA.it)
 
 - [Cameroon begins routine malaria shots in global milestone](https://www.moneycontrol.com/news/world/cameroon-begins-routine-malaria-shots-in-global-milestone-12107221.html) (Moneycontrol)
 
@@ -180,6 +230,26 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (dengue)
 
+- [Casos de dengue no Brasil aumentam 40% entre julho e janeiro](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-no-brasil-aumentam-40-entre-julho-e-janeiro,b5aafbd04225a78fafdf77206a896d29rw7y2tuz.html) (Terra.com.br)
+
+- [Febre oropouche: entenda a doença que atinge o Amazonas e tem sintomas como os da dengue](https://www.terra.com.br/vida-e-estilo/saude/febre-oropouche-entenda-a-doenca-que-atinge-o-amazonas-e-tem-sintomas-como-os-da-dengue,abac75a01d5f79b3ade41ee7131753c14a3yyh7y.html) (Terra.com.br)
+
+- [Protein from mosquitoes could help control dengue virus infection](https://phys.org/news/2024-01-protein-mosquitoes-dengue-virus-infection.html) (Phys.Org)
+
+- [Febre oropouche, que atinge o Amazonas, tem sintomas como os da dengue](https://www.metropoles.com/saude/febre-oropouche-sintomas-como-os-da-dengue) (Metropoles.com)
+
+- [Vacina contra a dengue: saiba quem pode tomar e como funciona](https://delas.ig.com.br/parceiros/selecoes/2024-01-23/vacina-contra-a-dengue--saiba-quem-pode-tomar-e-como-funciona.html) (Ig.com.br)
+
+- [Dengue infections up for seven straight weeks; NEA urges 'immediate action'](https://www.channelnewsasia.com/singapore/nea-dengue-fever-cases-seven-consecutive-weeks-increase-4067886) (CNA)
+
+- [Bhumi Pednekar's "Post Dengue" Workout Video Is Anything But A "Mess"](https://www.ndtv.com/entertainment/bhumi-pednekar-s-workout-video-will-help-you-set-2024-fitness-goals-4916571) (NDTV News)
+
+- [Casos de dengue no Brasil aumentam 40% entre julho e janeiro](https://www.terra.com.br/noticias/brasil/casos-de-dengue-no-brasil-aumentam-40-entre-julho-e-janeiro,b5aafbd04225a78fafdf77206a896d29rw7y2tuz.html) (Terra.com.br)
+
+- [Dengue: casos aumentam 40% entre julho e janeiro](https://saude.ig.com.br/2024-01-23/dengue--casos-aumentam-40--entre-julho-e-janeiro.html) (Ig.com.br)
+
+- [Casos de dengue aumentam 40% entre julho e janeiro](https://www.terra.com.br/noticias/brasil/casos-de-dengue-aumentam-40-entre-julho-e-janeiro,b5aafbd04225a78fafdf77206a896d29rw7y2tuz.html) (Terra.com.br)
+
 - [Além da vacina: saiba outras formas de prevenir a dengue](https://www.metropoles.com/saude/dengue-como-se-proteger-alem-da-vacina) (Metropoles.com)
 
 - [Casos de dengue crescem 100% em janeiro deste ano](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/casos-de-dengue-crescem-100-em-janeiro-deste-ano-23012024) (R7.com)
@@ -231,6 +301,12 @@ Source: [News API](https://newsapi.org/)
 - [Primeiras doses da vacina contra dengue chegam ao Brasil](https://noticias.r7.com/saude/primeiras-doses-da-vacina-contra-dengue-chegam-ao-brasil-21012024) (R7.com)
 
 - [Número de casos de dengue pode chegar a 5 milhões em 2024](https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html) (Ig.com.br)
+
+## 24-4 (chikungunya)
+
+- [Chikungunya e zika diminuem no país, mas crescem em áreas de risco](https://veja.abril.com.br/saude/chikungunya-e-zika-deminuem-no-pais-mas-crescem-em-areas-de-risco) (Abril.com.br)
+
+- [Ministério da Saúde de Timor-Leste confirma vírus chikungunya no país](https://observador.pt/2024/01/23/ministerio-da-saude-de-timor-leste-confirma-virus-chikungunya-no-pais/) (Observador.pt)
 
 ## 24-3 (zika)
 
@@ -1744,8 +1820,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
-- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
-
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -1769,8 +1843,6 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
-
-- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 
