@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-01-25 07:05
-- **Most recent article:** 2024-01-24 05:13:18
+- **New articles in last harvest:** 14
+- **Last harvest:** 2024-01-25 19:05
+- **Most recent article:** 2024-01-24 18:28:25
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 41 | 342 |
-| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 58 | 218 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 27 | 164 |
-| mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 2 | 65 |
-| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 3 | 41 |
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 43 | 344 |
+| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 63 | 223 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 29 | 166 |
+| mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 67 |
+| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 5 | 42 |
 | meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 1 | 36 |
-| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 2 | 31 |
-| chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 2 | 29 |
-| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 19 |
+| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 4 | 33 |
+| chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 3 | 30 |
+| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 18 |
 | typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 1 | 8 |
 | leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
 | yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 4 |
@@ -31,6 +31,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-4 (zika)
+
+- [“UN'EVENTUALE NUOVA PANDEMIA RISCHIA DI COGLIERCI IMPREPARATI” - IL RAPPORTO DELL'INTERNATIONAL PANDEMIC PREPAREDNESS SECRETARIAT EVIDENZIA I LIMITI DELLA PREVENZIONE: “SI È FATTO POCO SUGLI ALTRI AGENTI PATOGENI CON POTENZIALE PANDEMICO IDENTIFICATI DALL'OMS: AGENTI COME ZIKA, IL VIRUS NIPAH, LA FEBBRE DI LASSA. GLI INVESTIMENTI SONO INSUFFICIENTI E C’E’ UN CALO DELL'ATTENZIONE ALLA PREPARAZIONE ALLE PANDEMIE. SERVONO RISORSE E UN QUADRO NORMATIVO CHE FACILITI LA COLLABORAZIONE TRA PUBBLICO, PRIVATO E TERZO SETTORE”](https://www.dagospia.com/rubrica-39/salute/ldquo-39-eventuale-nuova-pandemia-rischia-coglierci-382416.htm) (Dagospia.com)
+
+- [Timor-Leste regista 88 casos de dengue, 183 de chikungunya e sete de zika](https://observador.pt/2024/01/24/timor-leste-regista-88-casos-de-dengue-183-de-chikungunya-e-sete-de-zika/) (Observador.pt)
 
 - [Chikungunya e zika diminuem no país, mas crescem em áreas de risco](https://veja.abril.com.br/saude/chikungunya-e-zika-deminuem-no-pais-mas-crescem-em-areas-de-risco) (Abril.com.br)
 
@@ -48,6 +52,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (rabies)
 
+- [Facial recognition app for dogs developed to help in fight against rabies](https://www.sciencedaily.com/releases/2024/01/240124132825.htm) (Science Daily)
+
+- [Facial recognition app for dogs developed to help in fight against rabies](https://phys.org/news/2024-01-facial-recognition-app-dogs-rabies.html) (Phys.Org)
+
 - [Officials ID possible reason for "strange wildlife behavior" at national park](https://www.cbsnews.com/news/dead-foxes-strange-wildlife-behavior-saguaro-national-park-possible-reason-rabies-arizona/) (CBS News)
 
 - [Lyssa excreta: Defining parameters for fecal samples as a rabies virus surveillance method](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294122) (Plos.org)
@@ -58,6 +66,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (mpox)
 
+- [Health department offering free vaccines after mpox 'seems to have reemerged'](https://www.wcpo.com/news/local-news/hamilton-county/cincinnati/cincinnati-health-department-offering-vaccines-for-at-risk-individuals-after-mpox-seems-to-have-reemerged) (WCPO)
+
+- [A deadly new outbreak is testing Africa’s ambitious public health efforts](https://www.vox.com/future-perfect/2024/1/24/24048361/mpox-covid-outbreak-africa-cdc-public-health) (Vox)
+
 - [Оспа обезьян: что о ней известно и чем она опасна](https://health.mail.ru/article/3079351-ospa-obezyan/) (Mail.ru)
 
 - [La Viruela del mono, ahora Mpox, sus estragos y poco interés por la información Sanitaria...](https://www.elconfidencialdigital.com/articulo/opinan-socios-ecd/viruela-mono-ahora-mpox-estragos-poco-interes-informacion-sanitaria/20240122104356707236.html) (Elconfidencialdigital.com)
@@ -67,6 +79,10 @@ Source: [News API](https://newsapi.org/)
 - [Encapsulated Streptococcus suis impairs optimal neutrophil functions which are not rescued by priming with colony-stimulating factors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296844) (Plos.org)
 
 ## 24-4 (measles)
+
+- [What You Need To Know About Measles After WHO Sounds Alarm Over Killer Virus In Europe](https://www.forbes.com/sites/roberthart/2024/01/24/what-you-need-to-know-about-measles-after-who-sounds-alarm-over-killer-virus-in-europe/) (Forbes)
+
+- [NSW Health has warned an individual with measles has returned from Asia, telling people who have visited certain locations to watch for symptoms](https://www.skynews.com.au/australia-news/nsw-health-warns-an-adult-with-measles-has-returned-from-india-and-urges-exposed-travellers-to-watch-for-symptoms/news-story/22e105af2a3d30e68be180ec9c43ba7f) (Sky News Australia)
 
 - [​Measles outbreak: Know what it is](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/measles-outbreak-know-what-it-is-and-what-are-its-symptoms/photostory/107098881.cms) (The Times of India)
 
@@ -123,6 +139,16 @@ Source: [News API](https://newsapi.org/)
 - [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
+
+- [Cameroon Begins First Malaria Vaccine Program](https://sciencebasedmedicine.org/cameroon-begins-first-malaria-vaccine-program/) (Sciencebasedmedicine.org)
+
+- [Two Updates on the Value of Vaccines](https://marginalrevolution.com/marginalrevolution/2024/01/two-notes-on-the-value-of-vaccines.html) (Marginalrevolution.com)
+
+- [Pic de cas de malaria parmi les équipages de Brussels Airlines après un relogement “sous tentes” près de Kinshasa](https://www.lalibre.be/economie/emploi/2024/01/24/pic-de-cas-de-malaria-parmi-les-equipages-de-brussels-airlines-apres-un-relogement-sous-tentes-pres-de-kinshasa-CVNRFKRU3VDHFFDLZBP7MDCDAE/) (Lalibre.be)
+
+- [Impfung gegen Malaria auch in Deutschland?](https://www.telepolis.de/features/Impfung-gegen-Malaria-auch-in-Deutschland-9606651.html) (Telepolis.de)
+
+- [Impfstoff gegen Malaria auch in Deutschland?](https://www.telepolis.de/features/Impfstoff-gegen-Malaria-auch-in-Deutschland-9606651.html) (Telepolis.de)
 
 - [Na 60 jaar onderzoek is het eindelijk zover: kindervaccin tegen malaria wordt breed uitgerold in Afrika](https://www.gva.be/cnt/dmf20240123_97941764) (Www.gva.be)
 
@@ -246,6 +272,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (dengue)
 
+- [GDF mobiliza órgãos para combate à dengue no Guará](https://jornaldebrasilia.com.br/brasilia/gdf-mobiliza-orgaos-para-combate-a-dengue-no-guara/) (Jornaldebrasilia.com.br)
+
+- [Timor-Leste regista 88 casos de dengue, 183 de chikungunya e sete de zika](https://observador.pt/2024/01/24/timor-leste-regista-88-casos-de-dengue-183-de-chikungunya-e-sete-de-zika/) (Observador.pt)
+
 - [Dengue no DF: 12 de 14 UBSs com horário estendido não recebem ligações](https://www.metropoles.com/distrito-federal/dengue-no-df-12-de-14-ubss-com-horario-estendido-nao-recebem-ligacoes) (Metropoles.com)
 
 - [Dengue: cidade de SP registra quase 15 mil casos em 2023](https://saude.ig.com.br/2024-01-23/sp-registra-14-mil-casos-dengue-2023.html) (Ig.com.br)
@@ -329,6 +359,8 @@ Source: [News API](https://newsapi.org/)
 - [Número de casos de dengue pode chegar a 5 milhões em 2024](https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html) (Ig.com.br)
 
 ## 24-4 (chikungunya)
+
+- [Timor-Leste regista 88 casos de dengue, 183 de chikungunya e sete de zika](https://observador.pt/2024/01/24/timor-leste-regista-88-casos-de-dengue-183-de-chikungunya-e-sete-de-zika/) (Observador.pt)
 
 - [Chikungunya e zika diminuem no país, mas crescem em áreas de risco](https://veja.abril.com.br/saude/chikungunya-e-zika-deminuem-no-pais-mas-crescem-em-areas-de-risco) (Abril.com.br)
 
@@ -1846,8 +1878,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
-- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
-
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -1871,8 +1901,6 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
-
-- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 

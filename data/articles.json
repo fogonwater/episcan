@@ -1,8 +1,262 @@
 {
-  "last_updated": "2024-01-25 07:05",
-  "count_articles_total": 920,
-  "count_articles_new": 12,
+  "last_updated": "2024-01-25 19:05",
+  "count_articles_total": 932,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 4569,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Facial recognition app for dogs developed to help in fight against rabies",
+      "description": "A new mobile phone-based facial recognition application for dogs has the potential to significantly improve rabies vaccination efforts in endemic areas like Africa and Asia, according to a new study. A team used the app to test its effectiveness at a rabies v\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/01/240124132825.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-01-24 18:28:25",
+      "content": "A new mobile phone-based facial recognition application for dogs has the potential to significantly improve rabies vaccination efforts in endemic areas like Africa and Asia, according to a study on t\u2026 [+3577 chars]",
+      "retrievedAt": "2024-01-25 19:05:27.037214",
+      "internal_id": "dc8e68920b2d82f6304152878337723f427861085f6238e3d819c71348dcb821",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4582,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "WCPO",
+      "author": "Molly Schramm",
+      "title": "Health department offering free vaccines after mpox 'seems to have reemerged'",
+      "description": "The Cincinnati Health Department is offering free JYNNEOS vaccines for at-risk individuals as they see a resurgence of mpox in the area.",
+      "url": "https://www.wcpo.com/news/local-news/hamilton-county/cincinnati/cincinnati-health-department-offering-vaccines-for-at-risk-individuals-after-mpox-seems-to-have-reemerged",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/3bcda1c/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1698430270_6PaWuo.jpg",
+      "publishedAt": "2024-01-24 16:55:30",
+      "content": "CINCINNATI The Cincinnati Health Department is advising at-risk individuals to get vaccinations as mpox sees a resurgence in the area. \"We are trying to get ahead of any potential health crisis wit\u2026 [+1628 chars]",
+      "retrievedAt": "2024-01-25 19:05:29.458539",
+      "internal_id": "ebd25056a2ce13661634fc40011720853d1d2031cf50dd0bf737feab8019fa8b",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4570,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Devin Rokyt",
+      "title": "Facial recognition app for dogs developed to help in fight against rabies",
+      "description": "A new mobile phone-based facial recognition application for dogs has the potential to significantly improve rabies vaccination efforts in endemic areas like Africa and Asia, according to a study on the research published in the journal Scientific Reports.",
+      "url": "https://phys.org/news/2024-01-facial-recognition-app-dogs-rabies.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/facial-recognition-app.jpg",
+      "publishedAt": "2024-01-24 16:19:03",
+      "content": "A new mobile phone-based facial recognition application for dogs has the potential to significantly improve rabies vaccination efforts in endemic areas like Africa and Asia, according to a study on t\u2026 [+4289 chars]",
+      "retrievedAt": "2024-01-25 19:05:27.049499",
+      "internal_id": "3abac6478963074fb952ec3cb14e0eb223ba356be5b718f803e7fd040d19e790",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4571,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "What You Need To Know About Measles After WHO Sounds Alarm Over Killer Virus In Europe",
+      "description": "There was a 45 fold increase in measles infections in Europe last year, the WHO said.",
+      "url": "https://www.forbes.com/sites/roberthart/2024/01/24/what-you-need-to-know-about-measles-after-who-sounds-alarm-over-killer-virus-in-europe/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65b11d0f86ca37f8bd054110/0x0.jpg?format=jpg&crop=5000,2815,x0,y252,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-01-24 14:22:40",
+      "content": "Health officials around the world are scrambling to combat a rising tide of measles as falling vaccination rates and increased travel after the Covid-19 pandemic help the dangerous virus stage an ala\u2026 [+4569 chars]",
+      "retrievedAt": "2024-01-25 19:05:27.402098",
+      "internal_id": "fd90fd422c10251c628350133831ce3b3b23fc5e7c38caae15c4e2dd7bce2b13",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4576,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Steven Novella",
+      "title": "Cameroon Begins First Malaria Vaccine Program",
+      "description": "Despite massive efforts to reduce the disease burden of malaria, it remains a significant cause of disease and death in parts of the world, most notably Sub-Saharan Africa. Now we have a new tool in the fight against malaria \u2013 two safe and effective vaccines.\u2026",
+      "url": "https://sciencebasedmedicine.org/cameroon-begins-first-malaria-vaccine-program/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2021/10/childmalaria.jpg",
+      "publishedAt": "2024-01-24 13:12:08",
+      "content": "Despite massive efforts to reduce the disease burden of malaria, it remains a significant cause of disease and death in parts of the world, most notably Sub-Saharan Africa. Now we have a new tool in \u2026 [+5305 chars]",
+      "retrievedAt": "2024-01-25 19:05:28.510645",
+      "internal_id": "d1a9862e7210882cd7e87317a5d65205d176cdbd689336b8ce4350490177975d",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4581,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Vox",
+      "author": "Dylan Scott",
+      "title": "A deadly new outbreak is testing Africa\u2019s ambitious public health efforts",
+      "description": "The mistakes of Covid and mpox inform a new plan to invigorate African public health.",
+      "url": "https://www.vox.com/future-perfect/2024/1/24/24048361/mpox-covid-outbreak-africa-cdc-public-health",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EKLcafXY4NcD7y6CBZzSmKlzYjE=/0x202:4512x2564/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25244522/GettyImages_1227984524.jpg",
+      "publishedAt": "2024-01-24 13:00:00",
+      "content": "In response to the recent Covid-19 and mpox outbreaks, Africa is setting to strengthen its public health infrastructure with an ambitious agenda. | Xinhua News Agency/Getty Images With foreign \u2026 [+8579 chars]",
+      "retrievedAt": "2024-01-25 19:05:29.448894",
+      "internal_id": "3c79649db933430d7429e35c336a9113def42e68e82df091632b95e1bb218263",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4575,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Marginalrevolution.com",
+      "author": "Alex Tabarrok",
+      "title": "Two Updates on the Value of Vaccines",
+      "description": "1) From the recent annual meeting of the American Society of Tropical Medicine & Hygiene (abstract 6949) we learn that the R21/Matrix-M malaria vaccine maintained it\u2019s efficacy over 4 seasons. \u2026Importantly, maintained high efficacy over four malaria seasons w\u2026",
+      "url": "https://marginalrevolution.com/marginalrevolution/2024/01/two-notes-on-the-value-of-vaccines.html",
+      "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+      "publishedAt": "2024-01-24 12:15:32",
+      "content": "1) From the recent annual meeting of the American Society of Tropical Medicine &amp; Hygiene (abstract 6949) we learn that the R21/Matrix-M malaria vaccine maintained it\u2019s efficacy over 4 seasons. \u2026\u2026 [+1432 chars]",
+      "retrievedAt": "2024-01-25 19:05:28.504810",
+      "internal_id": "8bf22259b93af83214b86f6be0d593b1b892c7018b4a28f8e349996603a39078",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4574,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia - Cidades",
+      "title": "GDF mobiliza \u00f3rg\u00e3os para combate \u00e0 dengue no Guar\u00e1",
+      "description": "Em uma a\u00e7\u00e3o in\u00e9dita, a Administra\u00e7\u00e3o Regional do Guar\u00e1 reuniu nesta ter\u00e7a-feira (23) os principais \u00f3rg\u00e3os do Governo do Distrito Federal...",
+      "url": "https://jornaldebrasilia.com.br/brasilia/gdf-mobiliza-orgaos-para-combate-a-dengue-no-guara/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/01/16125132/aedes_aegypti.webp",
+      "publishedAt": "2024-01-24 12:08:45",
+      "content": "Em uma a\u00e7\u00e3o in\u00e9dita, a Administra\u00e7\u00e3o Regional do Guar\u00e1 reuniu nesta ter\u00e7a-feira (23) os principais \u00f3rg\u00e3os do Governo do Distrito Federal (GDF) para tra\u00e7ar estrat\u00e9gias de combate ao mosquito Aedes aeg\u2026 [+2212 chars]",
+      "retrievedAt": "2024-01-25 19:05:27.848901",
+      "internal_id": "03a392ff0c0abf16132bb957df179b790c827febbf11a83e98addc406353bdcd",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4580,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Dagospia.com",
+      "author": null,
+      "title": "\u201cUN'EVENTUALE NUOVA PANDEMIA RISCHIA DI COGLIERCI IMPREPARATI\u201d - IL RAPPORTO DELL'INTERNATIONAL PANDEMIC PREPAREDNESS SECRETARIAT EVIDENZIA I LIMITI DELLA PREVENZIONE: \u201cSI \u00c8 FATTO POCO SUGLI ALTRI AGENTI PATOGENI CON POTENZIALE PANDEMICO IDENTIFICATI DALL'OMS: AGENTI COME ZIKA, IL VIRUS NIPAH, LA FEBBRE DI LASSA. GLI INVESTIMENTI SONO INSUFFICIENTI E C\u2019E\u2019 UN CALO DELL'ATTENZIONE ALLA PREPARAZIONE ALLE PANDEMIE. SERVONO RISORSE E UN QUADRO NORMATIVO CHE FACILITI LA COLLABORAZIONE TRA PUBBLICO, PRIVATO E TERZO SETTORE\u201d",
+      "description": "(ANSA) - ROMA, 24 GEN - Un'eventuale nuova pandemia rischia di coglierci impreparati: dopo l'avvento di Covid-19 la comunit\u00e0 internazionale ha infatti fatto progressi, soprattutto nello sviluppo di alcuni vaccini, ma si scontano molti ritardi nella capacit\u00e0 d\u2026",
+      "url": "https://www.dagospia.com/rubrica-39/salute/ldquo-39-eventuale-nuova-pandemia-rischia-coglierci-382416.htm",
+      "urlToImage": "https://cdn-static.dagospia.com/img/patch/08-2023/covid-pandemia-infezione-1870063.jpg",
+      "publishedAt": "2024-01-24 11:38:00",
+      "content": "(ANSA) - ROMA, 24 GEN - Un'eventuale nuova pandemia rischia di coglierci impreparati: dopo l'avvento di Covid-19 la comunit\u00e0 internazionale ha infatti fatto progressi, soprattutto nello sviluppo di a\u2026 [+2652 chars]",
+      "retrievedAt": "2024-01-25 19:05:29.000711",
+      "internal_id": "41d5f63e47766fb635bf7109bc25ee60190cb58736d8fdc483c937320a88f6b3",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4573,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Timor-Leste regista 88 casos de dengue, 183 de chikungunya e sete de zika",
+      "description": "Casos concentram-se nos munic\u00edpios de D\u00edli e Ermera e s\u00e3o maioritariamente crian\u00e7as. Popula\u00e7\u00e3o deve ficar atenta a sintomas de febre, dores no corpo e manchas na pele.",
+      "url": "https://observador.pt/2024/01/24/timor-leste-regista-88-casos-de-dengue-183-de-chikungunya-e-sete-de-zika/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2017%2F08%2F22161210%2F22251561.jpg",
+      "publishedAt": "2024-01-24 11:35:15",
+      "content": "Timor-Leste tem atualmente registo de 88 casos de dengue, 183 de chikungunya e sete casos de zika, disse esta quarta-feira a diretora-geral dos Cuidados de Sa\u00fade Prim\u00e1ria do Minist\u00e9rio da Sa\u00fade, Eliz\u2026 [+1220 chars]",
+      "retrievedAt": "2024-01-25 19:05:27.783435",
+      "internal_id": "529e7359d93d094e99a13268aa3cba39362a0485119aaeb4bf3590209345999b",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4579,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Lalibre.be",
+      "author": "Rapha\u00ebl Meulders",
+      "title": "Pic de cas de malaria parmi les \u00e9quipages de Brussels Airlines apr\u00e8s un relogement \u201csous tentes\u201d pr\u00e8s de Kinshasa",
+      "description": "H\u00f4tesses, stewards et pilotes ont log\u00e9 \u201ctemporairement\u201d dans un parc animalier, loin de l\u2019agitation de Kinshasa. Il y aurait eu 19 cas de malaria au sein du personnel depuis ce changement, selon les syndicats. ...",
+      "url": "https://www.lalibre.be/economie/emploi/2024/01/24/pic-de-cas-de-malaria-parmi-les-equipages-de-brussels-airlines-apres-un-relogement-sous-tentes-pres-de-kinshasa-CVNRFKRU3VDHFFDLZBP7MDCDAE/",
+      "urlToImage": "https://www.lalibre.be/resizer/c_he1rXUYz__q-K37YjJAmCQi2c=/1200x630/filters:format(jpeg):focal(445x405:455x395):watermark(cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/WVXRP4EHBBHTVOGD73NN5YAHUE.png,0,-0,0,100)/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/XBSA6FSSOBEKVG6NZJW34I5WVI.jpg",
+      "publishedAt": "2024-01-24 11:06:11",
+      "content": "guillement \"Nous mettions plus de trois heures \u00e0 rejoindre lh\u00f4tel depuis la\u00e9roport de NDjili, en \u00e9tant escort\u00e9s par les forces de lordre. On sentait que le climat \u00e9tait tr\u00e8s tendu. Un membre d'\u00e9qui\u2026 [+3441 chars]",
+      "retrievedAt": "2024-01-25 19:05:28.576730",
+      "internal_id": "0985b281547594bacdb361c2a230d2481ed7fc364fa265fafafdf4dcfacdc959",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4572,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Laurence Karacsony",
+      "title": "NSW Health has warned an individual with measles has returned from Asia, telling people who have visited certain locations to watch for symptoms",
+      "description": "NSW Health has alerted people to monitor signs and symptoms of measles after a confirmed case has emerged in the Australian Capital Territory after a traveller returned from India.",
+      "url": "https://www.skynews.com.au/australia-news/nsw-health-warns-an-adult-with-measles-has-returned-from-india-and-urges-exposed-travellers-to-watch-for-symptoms/news-story/22e105af2a3d30e68be180ec9c43ba7f",
+      "urlToImage": "https://content.api.news/v3/images/bin/357f3209cdb8194409f40ee223066195",
+      "publishedAt": "2024-01-24 08:13:57",
+      "content": "NSW Health has alerted people to monitor signs and symptoms of measles after a confirmed case has emerged in the Australian Capital Territory after a traveller returned from India. The individual wa\u2026 [+2243 chars]",
+      "retrievedAt": "2024-01-25 19:05:27.461614",
+      "internal_id": "289521246a22a6524f4c76e834f2563e305a018c64b9d2e95da5840340229005",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4577,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Christoph Jehle",
+      "title": "Impfung gegen Malaria auch in Deutschland?",
+      "description": "Deutschland galt schon vor Corona als impfm\u00fcde. Ob sich das mit neu auftretenden Infektionskrankheiten \u00e4ndert? \u00dcber die Hoffnung auf neue Impfstoffe.",
+      "url": "https://www.telepolis.de/features/Impfung-gegen-Malaria-auch-in-Deutschland-9606651.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/3/0/8/5/3/Master_Malaria_2-39173353708bf01c.jpeg",
+      "publishedAt": "2024-01-24 07:15:00",
+      "content": "Anopheles stephensi-M\u00fccke, \u00dcbertr\u00e4ger der Malaria. Bild: Jim Gathany, CDC (Centers for Disease Control and Prevention), US-Gesundheitsministerium Deutschland galt schon vor Corona als impfm\u00fcde. Ob s\u2026 [+5260 chars]",
+      "retrievedAt": "2024-01-25 19:05:28.520403",
+      "internal_id": "41b55839f65d0c7450d979e46cc5279fedcfb0fdbba8112b1899a5b058f902bf",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4578,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Telepolis.de",
+      "author": "Christoph Jehle",
+      "title": "Impfstoff gegen Malaria auch in Deutschland?",
+      "description": "Deutschland galt schon vor Corona als impfm\u00fcde. Ob sich das mit neu auftretenden Infektionskrankheiten \u00e4ndert? \u00dcber die Hoffnung auf neue Impfstoffe.",
+      "url": "https://www.telepolis.de/features/Impfstoff-gegen-Malaria-auch-in-Deutschland-9606651.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/3/0/8/5/3/Master_Malaria_2-39173353708bf01c.jpeg",
+      "publishedAt": "2024-01-24 07:15:00",
+      "content": "Anopheles stephensi-M\u00fccke, \u00dcbertr\u00e4ger der Malaria. Bild: Jim Gathany, CDC (Centers for Disease Control and Prevention), US-Gesundheitsministerium Deutschland galt schon vor Corona als impfm\u00fcde. Ob s\u2026 [+5278 chars]",
+      "retrievedAt": "2024-01-25 19:05:28.523809",
+      "internal_id": "d7047141e4f1087e01863b55adaa5caeeb3fbe9ccca489d642523083fa4fe524",
+      "publishedAtLabel": "Jan 24"
+    },
     {
       "id": 4564,
       "query": [
@@ -16570,42 +16824,6 @@
       "retrievedAt": "2023-12-12 07:05:46.750944",
       "internal_id": "c116a51cb6ff4fea02b93505cc7f7b086822052fe4eaf8b8eb613a769e41cd5c",
       "publishedAtLabel": "Dec 11"
-    },
-    {
-      "id": 3640,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Asianetnews.com",
-      "author": "Web Team",
-      "title": "'100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d46\u0d28\u0d4d\u0d28 \u0d05\u0d23\u0d41\u0d2c\u0d3e\u0d27; \u0d1c\u0d3e\u0d17\u0d4d\u0d30\u0d24 \u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d28\u0d3f\u0d30\u0d4d\u200d\u0d26\u0d47\u0d36\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d41\u0d15\u0d46\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d35\u0d15\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
-      "description": "\u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d3e\u0d23\u0d24\u0d4d\u0d30\u0d47 '100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d40\u0d1f\u0d4d \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d3e\u0d38\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d27\u0d3f\u0d15\u0d02 \u0d1a\u0d41\u0d2e \u0d28\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d28\u0d3f\u0d32\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d05\u0d35\u0d38\u0d4d\u0d25\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41",
-      "url": "https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95",
-      "urlToImage": "https://static-ai.asianetnews.com/images/01epy9ef8135ab8dte71vxnjb2/pneumonia--jpg_1200x630xt.jpg",
-      "publishedAt": "2023-12-10 12:45:52",
-      "content": "'100 ' . 19 . . . . . . '100 ' . 100 . , . . . . '100 ' . . 'Bordetella pertussis bacteria' '100 ' . . 1950 . . . . . , . '100 ' . . '100 ' . . . '100 ' . Also Read:- ' '?; ? ... \u2026 [+55 chars]",
-      "retrievedAt": "2023-12-11 19:05:24.793192",
-      "internal_id": "acf2edf9d18e841ea459b3181537b06547cad382f659d3c4f1f96c70fc7744ba",
-      "publishedAtLabel": "Dec 10"
-    },
-    {
-      "id": 3641,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Ag\u00eancia Mural - Conte\u00fado Exclusivo",
-      "title": "Conhe\u00e7a Zika das Artes, de S\u00e3o Mateus, que assina capas de \u00e1lbuns do trap e rap",
-      "description": "Com est\u00e9tica que mistura t\u00e9cnicas de artes cl\u00e1ssicas ao mundo digital, artista ganha notoriedade no cen\u00e1rio musical",
-      "url": "https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1-zika-das-artes-na-perifacon-2023-credito-leu-britto-agencia-mural-(1)-ure13t557g36.jpg",
-      "publishedAt": "2023-12-10 08:00:20",
-      "content": "Com assinatura nas capas de \u00e1lbuns de renomados m\u00fasicos do universo do trap e do rap, o artista visual Kayo Mathias, 23, o Zika das Artes, de S\u00e3o Mateus, na zona leste de S\u00e3o Paulo, celebra um 2023 d\u2026 [+3286 chars]",
-      "retrievedAt": "2023-12-11 19:05:26.676231",
-      "internal_id": "a7015427e17347ed9b4d87bae7c063e7f102cccb9e7f341deb9675d0006bae7b",
-      "publishedAtLabel": "Dec 10"
     }
   ]
 }
