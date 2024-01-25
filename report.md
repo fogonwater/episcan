@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 33
-- **Last harvest:** 2024-01-24 19:05
-- **Most recent article:** 2024-01-23 18:44:47
+- **New articles in last harvest:** 12
+- **Last harvest:** 2024-01-25 07:05
+- **Most recent article:** 2024-01-24 05:13:18
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 36 | 337 |
-| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 57 | 217 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 23 | 160 |
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 41 | 342 |
+| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 58 | 218 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 27 | 164 |
 | mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 2 | 65 |
-| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 3 | 40 |
+| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 3 | 41 |
 | meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 1 | 36 |
-| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 1 | 30 |
+| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 2 | 31 |
 | chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 2 | 29 |
-| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 18 |
+| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 19 |
 | typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 1 | 8 |
 | leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
-| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 3 |
+| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -38,11 +38,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Szenzációs felfedezés: megtalálhatták a rák ellenszerét](https://www.origo.hu/tudomany/20240116-uj-es-rendkivul-hatekony-rakellenes-eszkoz-kerulhet-hamarosan-az-orvostudomany-kezebe.html) (Origo.hu)
 
+## 24-4 (yersinia)
+
+- [Multiple Introductions of Yersinia pestis during Urban Pneumonic Plague Epidemic, Madagascar, 2017](https://wwwnc.cdc.gov/eid/article/30/2/23-0759_article) (Cdc.gov)
+
 ## 24-4 (typhoid)
 
 - [Study reveals how some bacterial infections become chronic](https://phys.org/news/2024-01-reveals-bacterial-infections-chronic.html) (Phys.Org)
 
 ## 24-4 (rabies)
+
+- [Officials ID possible reason for "strange wildlife behavior" at national park](https://www.cbsnews.com/news/dead-foxes-strange-wildlife-behavior-saguaro-national-park-possible-reason-rabies-arizona/) (CBS News)
 
 - [Lyssa excreta: Defining parameters for fecal samples as a rabies virus surveillance method](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294122) (Plos.org)
 
@@ -61,6 +67,14 @@ Source: [News API](https://newsapi.org/)
 - [Encapsulated Streptococcus suis impairs optimal neutrophil functions which are not rescued by priming with colony-stimulating factors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296844) (Plos.org)
 
 ## 24-4 (measles)
+
+- [​Measles outbreak: Know what it is](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/measles-outbreak-know-what-it-is-and-what-are-its-symptoms/photostory/107098881.cms) (The Times of India)
+
+- [Measles cases soar in Europe: WHO](https://japantoday.com/category/world/measles-cases-soar-in-europe-who) (Japan Today)
+
+- [Measles Outbreaks In England And The U.S. Expand](https://www.forbes.com/sites/joshuacohen/2024/01/23/measles-outbreaks-in-england-and-the-us-expand/) (Forbes)
+
+- [Measles Cases Soar In Europe, WHO Says, Noting Highest Numbers In Russia, Kazakhstan](https://www.rferl.org/a/measles-rates-soaring-bosnia-russia-kazakhstan/32788851.html) (Radio Free Europe/ Radio Liberty)
 
 - [Measles cases soared in Europe to 42,200 last year, almost 45-fold increase on previous year](https://www.thejournal.ie/measles-cases-europe-2023-6279843-Jan2024/) (TheJournal.ie)
 
@@ -109,6 +123,8 @@ Source: [News API](https://newsapi.org/)
 - [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
+
+- [Na 60 jaar onderzoek is het eindelijk zover: kindervaccin tegen malaria wordt breed uitgerold in Afrika](https://www.gva.be/cnt/dmf20240123_97941764) (Www.gva.be)
 
 - [Cameroon starts world’s first malaria vaccine program for children](http://thegrio.com/2024/01/23/cameroon-starts-worlds-first-malaria-vaccine-program-for-children/) (TheGrio)
 
@@ -229,6 +245,16 @@ Source: [News API](https://newsapi.org/)
 - [Curious about puppy’s vaccines, spay plan](https://www.bostonherald.com/2024/01/21/curious-about-puppys-vaccines-spay-plan/) (Boston Herald)
 
 ## 24-4 (dengue)
+
+- [Dengue no DF: 12 de 14 UBSs com horário estendido não recebem ligações](https://www.metropoles.com/distrito-federal/dengue-no-df-12-de-14-ubss-com-horario-estendido-nao-recebem-ligacoes) (Metropoles.com)
+
+- [Dengue: cidade de SP registra quase 15 mil casos em 2023](https://saude.ig.com.br/2024-01-23/sp-registra-14-mil-casos-dengue-2023.html) (Ig.com.br)
+
+- [Casos de dengue explodem no DF com 16 mil doentes e três mortes](https://www.metropoles.com/distrito-federal/casos-de-dengue-explodem-no-df-com-16-mil-doentes-e-tres-mortes) (Metropoles.com)
+
+- [Dengue: quais são os sintomas, quando é hora de buscar um hospital e outras 6 dúvidas sobre a doença](https://www.bbc.com/portuguese/articles/ce5kv3jj3lpo) (BBC News)
+
+- [DF registra 34 casos prováveis de dengue por hora desde o começo do ano](https://noticias.r7.com/brasilia/df-registra-34-casos-provaveis-de-dengue-por-hora-desde-o-comeco-do-ano-23012024) (R7.com)
 
 - [Casos de dengue no Brasil aumentam 40% entre julho e janeiro](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-no-brasil-aumentam-40-entre-julho-e-janeiro,b5aafbd04225a78fafdf77206a896d29rw7y2tuz.html) (Terra.com.br)
 
@@ -1820,6 +1846,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
+- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
+
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -1843,6 +1871,8 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
+
+- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 

@@ -1,8 +1,224 @@
 {
-  "last_updated": "2024-01-24 19:05",
-  "count_articles_total": 906,
-  "count_articles_new": 33,
+  "last_updated": "2024-01-25 07:05",
+  "count_articles_total": 920,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 4564,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jade Abreu",
+      "title": "Dengue no DF: 12 de 14 UBSs com hor\u00e1rio estendido n\u00e3o recebem liga\u00e7\u00f5es",
+      "description": "Em mais de 40 liga\u00e7\u00f5es \u00e0s unidades b\u00e1sicas de sa\u00fade no hor\u00e1rio estendido, a reportagem s\u00f3 foi atendida em duas ocasi\u00f5es",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-no-df-12-de-14-ubss-com-horario-estendido-nao-recebem-ligacoes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/22225023/foto-ubs-consultorio.jpg",
+      "publishedAt": "2024-01-24 05:13:18",
+      "content": "Com quase quatro vezes mais notifica\u00e7\u00f5es de casos de dengue do que no ano passado, o Distrito Federal come\u00e7ou 2024 com uma epidemia de dengue. Enquanto os casos explodem, 14 unidades b\u00e1sicas de sa\u00fade\u2026 [+4709 chars]",
+      "retrievedAt": "2024-01-25 07:05:55.025880",
+      "internal_id": "31afc3834577e8e1ec763273f390e35acaeb8bde8cba648ab0cc9702091782c6",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4568,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Multiple Introductions of Yersinia pestis during Urban Pneumonic Plague Epidemic, Madagascar, 2017",
+      "description": "Pneumonic Plague Epidemic, Madagascar, 2017",
+      "url": "https://wwwnc.cdc.gov/eid/article/30/2/23-0759_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2024-01-24 05:00:00",
+      "content": "Cases, Isolates, and Samples A total of 2,549 suspected plague cases were notified throughout Madagascar during AugustDecember 2017, including 1,347 from urban areas and 1,241 classified as PP. Conf\u2026 [+11670 chars]",
+      "retrievedAt": "2024-01-25 07:05:58.681148",
+      "internal_id": "80c4b2b5fffc539c018b9399cb84d898b83acd1e615bbc54acc4ce254457b64f",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4561,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "\u200bMeasles outbreak: Know what it is",
+      "description": "\u200bMeasles is a highly contagious viral infection caused by the measles virus. It primarily spreads through respiratory droplets and affects the respiratory system. Measles can lead to severe complications, especially in vulnerable populations such as young chi\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/measles-outbreak-know-what-it-is-and-what-are-its-symptoms/photostory/107098881.cms",
+      "urlToImage": "https://static.toiimg.com/photo/107098891.cms",
+      "publishedAt": "2024-01-24 03:23:56",
+      "content": "The characteristic symptoms of measles include fever, cough, runny nose, and a distinctive red rash that starts on the face and then spreads to the rest of the body. Measles symptoms typically begin \u2026 [+487 chars]",
+      "retrievedAt": "2024-01-25 07:05:54.254922",
+      "internal_id": "71b861694e41b32aa10dac1094ea53b0c6ebbebebd0c0a5710ec099b924e820e",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4559,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Measles cases soar in Europe: WHO",
+      "description": "Measles cases soared in Europe in 2023 to 42,200, a nearly 45-fold increase over the previous year, the U.N. health agency said on Tuesday, calling for urgent vaccination efforts to halt the spread. Some 41 countries out of 53 the World Health Organization in\u2026",
+      "url": "https://japantoday.com/category/world/measles-cases-soar-in-europe-who",
+      "urlToImage": null,
+      "publishedAt": "2024-01-24 01:33:45",
+      "content": "Measles cases soared in Europe in 2023 to 42,200, a nearly 45-fold increase over the previous year, the U.N. health agency said on Tuesday, calling for urgent vaccination efforts to halt the spread. \u2026 [+2260 chars]",
+      "retrievedAt": "2024-01-25 07:05:54.222849",
+      "internal_id": "2cb29d840ebf29472db39a22267bcbe104e786be386a21ce49d61c9090c18c7b",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4567,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.gva.be",
+      "author": "Maxie Eckert",
+      "title": "Na 60 jaar onderzoek is het eindelijk zover: kindervaccin tegen malaria wordt breed uitgerold in Afrika",
+      "description": "Sinds deze week worden baby\u2019s in Kameroen inge\u00ebnt tegen malaria als onderdeel van het gewone vaccinatieschema. Bij proefprogramma\u2019s in andere Afrikaanse landen bleek dat vaccinatie tegen malaria de algemene kindersterfte met 13 procent doet dalen.",
+      "url": "https://www.gva.be/cnt/dmf20240123_97941764",
+      "urlToImage": "https://static.gva.be/Assets/Images_Upload/2024/01/23/7c13e515-710d-4814-8389-9a3128a29910.jpg?maxheight=460&maxwidth=629",
+      "publishedAt": "2024-01-23 22:03:15",
+      "content": "Sinds deze week worden babys in Kameroen inge\u00ebnt tegen malaria als onderdeel van het gewone vaccinatieschema. Bij proefprogrammas in andere Afrikaanse landen bleek dat vaccinatie tegen malaria de alg\u2026 [+45 chars]",
+      "retrievedAt": "2024-01-25 07:05:56.278546",
+      "internal_id": "fb62db2a44f5bc1d51823c15da5554843fd2ed6696d5d4a1dc5dbf92e5cef0c1",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4557,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Aliza Chasan",
+      "title": "Officials ID possible reason for \"strange wildlife behavior\" at national park",
+      "description": "Officials believe rabies may be behind the deaths and abnormal animal behavior at Arizona's Saguaro National Park.",
+      "url": "https://www.cbsnews.com/news/dead-foxes-strange-wildlife-behavior-saguaro-national-park-possible-reason-rabies-arizona/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/23/42d18a7b-f2b7-4c2d-94c6-2675707a21e1/thumbnail/1200x630/8eb7d9709a0f5afa72043ba1b69f01a1/gettyimages-157890996.jpg?v=1acc31b0e955989267fc7dd28b496c5e",
+      "publishedAt": "2024-01-23 22:00:03",
+      "content": "National Park Service officials on Tuesday identified rabies as a possible cause for \"strange wildlife behavior\" and dead foxes at Arizona's Saguaro National Park. There was also a reported inciden\u2026 [+2871 chars]",
+      "retrievedAt": "2024-01-25 07:05:53.545929",
+      "internal_id": "d878b236fd342f853264f5c90d0f3a7cc9010bbb47ee93205528bc9f80e7534d",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4565,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: cidade de SP registra quase 15 mil casos em 2023",
+      "description": "\u00c9 a maior quantidade de casos desde 2019; ano passado, a capital paulista teve dez mortes confirmadas",
+      "url": "https://saude.ig.com.br/2024-01-23/sp-registra-14-mil-casos-dengue-2023.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-23 21:34:47",
+      "content": "A cidade de S\u00e3o Paulo registrou 14.306 casos de dengue no ano passado, dos quais dez deles resultaram em mortes e outros tr\u00eas \u00f3bitos est\u00e3o em investiga\u00e7\u00e3o. \u00c9 a maior quantidade de casos desde 2019, q\u2026 [+1951 chars]",
+      "retrievedAt": "2024-01-25 07:05:55.039124",
+      "internal_id": "0c8b9b350c56b245c52c5432ec2bbc212a1f62d71bb4d36ed978d68073501daf",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4563,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jade Abreu",
+      "title": "Casos de dengue explodem no DF com 16 mil doentes e tr\u00eas mortes",
+      "description": "Em uma semana, DF passou de 7.329 para 16.079 casos prov\u00e1veis de dengue, registrando um aumento superior a 9 mil casos de 14 a 22 de janeiro",
+      "url": "https://www.metropoles.com/distrito-federal/casos-de-dengue-explodem-no-df-com-16-mil-doentes-e-tres-mortes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/07180137/mosquito-dengue-foco-goiania-goias-5.jpeg",
+      "publishedAt": "2024-01-23 20:21:09",
+      "content": "Em uma semana, o Distrito Federal passou de 7.329 para 16.079 casos prov\u00e1veis de dengue, registrando um aumento superior a 9 mil casos no per\u00edodo entre 14 e 22 de janeiro. Os dados est\u00e3o no boletim e\u2026 [+6008 chars]",
+      "retrievedAt": "2024-01-25 07:05:55.015181",
+      "internal_id": "9a7b3027d552fd163513ed9b46a4793c056b85a4406ebf6df9180b046c525400",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4558,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Joshua Cohen, Senior Contributor, \n Joshua Cohen, Senior Contributor\n https://www.forbes.com/sites/joshuacohen/",
+      "title": "Measles Outbreaks In England And The U.S. Expand",
+      "description": "The spike in measles cases is fueled by vaccine hesitancy. The U.K. declared a \u201cnational incident\u201d over the recent surge, signaling the growing public health risk.",
+      "url": "https://www.forbes.com/sites/joshuacohen/2024/01/23/measles-outbreaks-in-england-and-the-us-expand/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65aefd0fd8291a7b7aaa0bd9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-01-23 19:58:57",
+      "content": "Sick child with red rash spots from measles. getty The expansion of recent measles outbreaks in England and the U.S. is causing increased concern among public health officials. Last week, the U.K. \u2026 [+4280 chars]",
+      "retrievedAt": "2024-01-25 07:05:54.209199",
+      "internal_id": "92fc571cf042a51df3416f985bf6d5ce646a14cc0d8e527cfc0094864c6043d7",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4562,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Dengue: quais s\u00e3o os sintomas, quando \u00e9 hora de buscar um hospital e outras 6 d\u00favidas sobre a doen\u00e7a",
+      "description": "Brasil registrou explos\u00e3o no n\u00famero de casos de dengue nas duas primeiras semanas deste ano, com 55.859 casos prov\u00e1veis da doen\u00e7a e seis mortes. Tire as principais d\u00favidas sobre a doen\u00e7a.",
+      "url": "https://www.bbc.com/portuguese/articles/ce5kv3jj3lpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/3b6e/live/31c98c90-ba01-11ee-b3a7-93109d41efd2.jpg",
+      "publishedAt": "2024-01-23 19:26:19",
+      "content": "Cr\u00e9dito, Getty Images Legenda da foto, Brasil registrou explos\u00e3o no n\u00famero de casos de dengue nas duas primeiras semanas do ano: 55.859 casos prov\u00e1veis e seis mortes, segundo Minist\u00e9rio da Sa\u00fade Ar\u2026 [+7319 chars]",
+      "retrievedAt": "2024-01-25 07:05:54.999678",
+      "internal_id": "6c1c1352b87e580f61baa6d36deb80a9c87ecc9f80e9cdf50f8963f09fa5c057",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4566,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Giovanna Inoue, do R7, em Bras\u00edlia",
+      "title": "DF registra 34 casos prov\u00e1veis de dengue por hora desde o come\u00e7o do ano",
+      "description": "Houve 16.628 registros prov\u00e1veis entre os dias 1\u00ba e 20 de janeiro, o que representa 646,5% a mais que no mesmo per\u00edodo de 2023",
+      "url": "https://noticias.r7.com/brasilia/df-registra-34-casos-provaveis-de-dengue-por-hora-desde-o-comeco-do-ano-23012024",
+      "urlToImage": "https://img.r7.com/images/larvas-de-mosquito-da-dengue-23012024191051608?crop=1451x816+10+23",
+      "publishedAt": "2024-01-23 19:15:00",
+      "content": "N\u00famero de casos est\u00e1 646,5% maior do que em 2023 Gabriel Jabur/Ag\u00eancia Bras\u00edlia O Distrito Federal registrou 16.628 casos prov\u00e1veis de dengue entre os dias 1\u00ba e 20 de janeiro, o que equivale \u2026 [+2651 chars]",
+      "retrievedAt": "2024-01-25 07:05:55.066794",
+      "internal_id": "a69f2dabf51d6905a3b6d05986445339d17ab306122278a40faff6f6915de354",
+      "publishedAtLabel": "Jan 23"
+    },
+    {
+      "id": 4560,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Radio Free Europe/ Radio Liberty",
+      "author": "RFE/RL",
+      "title": "Measles Cases Soar In Europe, WHO Says, Noting Highest Numbers In Russia, Kazakhstan",
+      "description": "The number of measles cases soared in Europe in 2023, the World Health Organization (WHO) said on January 23 as it called for urgent vaccination efforts to halt the spread.",
+      "url": "https://www.rferl.org/a/measles-rates-soaring-bosnia-russia-kazakhstan/32788851.html",
+      "urlToImage": "https://gdb.rferl.org/DB33A9AF-60E0-4A91-B338-A6AFE685822B.jpg",
+      "publishedAt": "2024-01-23 19:13:30",
+      "content": "The United States and Britain on January 23 followed Australia in imposing sanctions on Russian citizen Aleksandr Yermakov, who was designated for his alleged role in a cyberattack that compromised t\u2026 [+2869 chars]",
+      "retrievedAt": "2024-01-25 07:05:54.240803",
+      "internal_id": "fd42d8db23774756049ec340f2072f2010d9afd3617b243db82a5cf929618ae2",
+      "publishedAtLabel": "Jan 23"
+    },
     {
       "id": 4532,
       "query": [
@@ -16354,6 +16570,42 @@
       "retrievedAt": "2023-12-12 07:05:46.750944",
       "internal_id": "c116a51cb6ff4fea02b93505cc7f7b086822052fe4eaf8b8eb613a769e41cd5c",
       "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 3640,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Asianetnews.com",
+      "author": "Web Team",
+      "title": "'100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d46\u0d28\u0d4d\u0d28 \u0d05\u0d23\u0d41\u0d2c\u0d3e\u0d27; \u0d1c\u0d3e\u0d17\u0d4d\u0d30\u0d24 \u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d28\u0d3f\u0d30\u0d4d\u200d\u0d26\u0d47\u0d36\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d41\u0d15\u0d46\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d35\u0d15\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
+      "description": "\u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d3e\u0d23\u0d24\u0d4d\u0d30\u0d47 '100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d40\u0d1f\u0d4d \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d3e\u0d38\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d27\u0d3f\u0d15\u0d02 \u0d1a\u0d41\u0d2e \u0d28\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d28\u0d3f\u0d32\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d05\u0d35\u0d38\u0d4d\u0d25\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41",
+      "url": "https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95",
+      "urlToImage": "https://static-ai.asianetnews.com/images/01epy9ef8135ab8dte71vxnjb2/pneumonia--jpg_1200x630xt.jpg",
+      "publishedAt": "2023-12-10 12:45:52",
+      "content": "'100 ' . 19 . . . . . . '100 ' . 100 . , . . . . '100 ' . . 'Bordetella pertussis bacteria' '100 ' . . 1950 . . . . . , . '100 ' . . '100 ' . . . '100 ' . Also Read:- ' '?; ? ... \u2026 [+55 chars]",
+      "retrievedAt": "2023-12-11 19:05:24.793192",
+      "internal_id": "acf2edf9d18e841ea459b3181537b06547cad382f659d3c4f1f96c70fc7744ba",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 3641,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ag\u00eancia Mural - Conte\u00fado Exclusivo",
+      "title": "Conhe\u00e7a Zika das Artes, de S\u00e3o Mateus, que assina capas de \u00e1lbuns do trap e rap",
+      "description": "Com est\u00e9tica que mistura t\u00e9cnicas de artes cl\u00e1ssicas ao mundo digital, artista ganha notoriedade no cen\u00e1rio musical",
+      "url": "https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1-zika-das-artes-na-perifacon-2023-credito-leu-britto-agencia-mural-(1)-ure13t557g36.jpg",
+      "publishedAt": "2023-12-10 08:00:20",
+      "content": "Com assinatura nas capas de \u00e1lbuns de renomados m\u00fasicos do universo do trap e do rap, o artista visual Kayo Mathias, 23, o Zika das Artes, de S\u00e3o Mateus, na zona leste de S\u00e3o Paulo, celebra um 2023 d\u2026 [+3286 chars]",
+      "retrievedAt": "2023-12-11 19:05:26.676231",
+      "internal_id": "a7015427e17347ed9b4d87bae7c063e7f102cccb9e7f341deb9675d0006bae7b",
+      "publishedAtLabel": "Dec 10"
     }
   ]
 }
