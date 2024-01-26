@@ -1,8 +1,746 @@
 {
-  "last_updated": "2024-01-26 07:05",
-  "count_articles_total": 942,
-  "count_articles_new": 8,
+  "last_updated": "2024-01-26 19:05",
+  "count_articles_total": 981,
+  "count_articles_new": 41,
   "articles": [
+    {
+      "id": 4595,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "1news.co.nz",
+      "author": "Rnz.co.nz",
+      "title": "Michael Baker: Significant measles outbreak 'almost certain' this year",
+      "description": "Measles cases are growing globally, with a 45-fold increase in Europe in the past year and hundreds of cases in Britain since October.",
+      "url": "https://www.1news.co.nz/2024/01/26/michael-baker-significant-measles-outbreak-almost-certain-this-year/",
+      "urlToImage": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/RPYGCCEALBHFLGPX2NBZDLMSNE.jpg?auth=858da83e7c93714cf48068972d04be60328d863bb36abadd68c5be849160441f&quality=70&width=600&height=315&focal=960%2C540",
+      "publishedAt": "2024-01-25 19:00:42",
+      "content": "New Zealand will almost certainly have a significant measles outbreak this year, public health experts say. And there are fears very young children will die. Measles cases are growing globally, wit\u2026 [+2897 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.521617",
+      "internal_id": "9ccf91352fd2eb6092eb829c4c2e6fa05660e52beea64e41c12e05ba80e94dec",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4596,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newshub",
+      "author": "Rnz",
+      "title": "Significant measles outbreak almost certain to happen, public health expert Michael Baker says",
+      "description": "An outbreak could be similar to the one in 2019 where there were more than 2000 cases and hundreds of people hospitalised.",
+      "url": "https://www.newshub.co.nz/home/new-zealand/2024/01/significant-measles-outbreak-almost-certain-to-happen-public-health-expert-michael-baker-says.html",
+      "urlToImage": "https://www.newshub.co.nz/home/new-zealand/2024/01/significant-measles-outbreak-almost-certain-to-happen-public-health-expert-michael-baker-says/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1706207860235/Michael-Baker-CREDIT-NEWSHUB.jpg",
+      "publishedAt": "2024-01-25 18:53:32",
+      "content": "\"I think it is almost certain unless we do rapidly raise vaccine coverage, because the problem with measles is that it's so infectious you need very high coverage with not too many gaps in a populati\u2026 [+1265 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.526963",
+      "internal_id": "5ca5516f0061cd70785430751dcd2c013a0c7fc642b54c2b4f88a09d2b8d99ef",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4600,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "Veja a \u00edntegra do decreto que declara situa\u00e7\u00e3o de emerg\u00eancia no DF",
+      "description": "A medida autoriza o GDF a fechar contratos emergenciais e admiss\u00e3o de novos funcion\u00e1rios por tempo determinado",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-a-integra-do-decreto-que-declara-situacao-de-emergencia-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/03/31172931/combate-dengue-arboviroses.jpg",
+      "publishedAt": "2024-01-25 18:42:23",
+      "content": "O governador do Distrito Federal, Ibaneis Rocha (MDB), assinou e publicou decreto em que declara situa\u00e7\u00e3o de emerg\u00eancia na sa\u00fade p\u00fablica do DF em raz\u00e3o do risco de epidemia de dengue e de outras arbo\u2026 [+5562 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.947450",
+      "internal_id": "3db9c5a6e0fd6ca30874f7974d219ff40acc68165e47878331dd34d182ef3943",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4597,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Vacina da dengue: planos de sa\u00fade s\u00e3o obrigados a aplicar imunizante?",
+      "description": "Governo federal anunciou que imunizar\u00e1 pelo SUS cerca de 3,2 milh\u00f5es de pessoas contra a doen\u00e7a at\u00e9 o fim de 2024, o equivalente a apenas 1,5% da popula\u00e7\u00e3o do pa\u00eds.",
+      "url": "https://www.bbc.com/portuguese/articles/cpvr590pv52o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/2d1f/live/361a3ed0-bb0e-11ee-896d-39d9bd3cadbb.jpg",
+      "publishedAt": "2024-01-25 18:40:26",
+      "content": "Cr\u00e9dito, Getty Images Legenda da foto, Brasil \u00e9 primeiro pa\u00eds a incorporar vacina contra dengue no sistema p\u00fablico de sa\u00fade Article information Em meio a um aumento de mais de 100% nos casos prov\u00e1\u2026 [+8532 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.926562",
+      "internal_id": "fe0e6ff509524fdfb0949817818e09ae7d1b44b058bce9ab70d3d2d2cceb0d1b",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4621,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Reuters)",
+      "title": "Aumento del dengue en Sudam\u00e9rica impulsa campa\u00f1a de vacunaci\u00f3n, agota repelentes",
+      "description": "En Brasil el dengue suele denominarse fiebre rompehuesos por los fuertes dolores articulares que provoca, los casos se han m\u00e1s que duplicado en la primera semana de enero en comparaci\u00f3n con el mismo per\u00edodo del a\u00f1o pasado. Este pa\u00eds ser\u00e1 el primero del mundo \u2026",
+      "url": "https://www.vozdeamerica.com/a/aumento-dengue-sudamerica-impulsa-campanas-vacunacion/7457069.html",
+      "urlToImage": "https://gdb.voanews.com/01000000-c0a8-0242-dfb2-08dc123f7894_w1200_r1.jpg",
+      "publishedAt": "2024-01-25 18:32:08",
+      "content": "BRASILIA/MONTEVIDEO Sudam\u00e9rica est\u00e1 experimentando un aumento en los casos de dengue, lo que llev\u00f3 a Brasil a lanzar una novedosa campa\u00f1a de vacunaci\u00f3n, mientras que en Argentina muchas tiendas se h\u2026 [+3244 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.095713",
+      "internal_id": "bb68d24b70dccd3c2ad5447af740f29836f77b0602ab3a76ea475500b67058d5",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4591,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "New Atlas",
+      "author": "Ben Coxworth",
+      "title": "Facial recognition app helps scientists identify rabies-vaccinated dogs",
+      "description": "In regions where dogs often run loose, don't wear tags and aren't microchipped, it can be difficult for authorities to keep track of which ones have already been vaccinated against rabies. A new app could help, by identifying individual dogs via facial recogn\u2026",
+      "url": "https://newatlas.com/good-thinking/facial-recognition-app-rabies-vaccinated-dogs/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/d343313/2147483647/strip/true/crop/4032x2117+0+286/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd5%2F25%2F6107ce6c4609b3e5d7f5e83ff3d1%2F20211002-112912.jpeg&na.image_optimisation=0",
+      "publishedAt": "2024-01-25 18:13:58",
+      "content": "In regions where dogs often run loose, don't wear tags and aren't microchipped, it can be difficult for authorities to keep track of which ones have already been vaccinated against rabies. A new app \u2026 [+2518 chars]",
+      "retrievedAt": "2024-01-26 19:05:21.608171",
+      "internal_id": "266e6785e451f6ecb8624d0b3f9b3f1563d59323ad72655021013d88cf6c1147",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4608,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "GDF declara situa\u00e7\u00e3o de emerg\u00eancia ap\u00f3s explos\u00e3o de casos da dengue",
+      "description": "Medida autoriza Executivo local a comprar insumos, al\u00e9m de contratar servi\u00e7os e profissionais mais rapidamente para conter avan\u00e7o da doen\u00e7a",
+      "url": "https://www.metropoles.com/colunas/grande-angular/gdf-declara-situacao-de-emergencia-apos-explosao-de-casos-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/22153401/Todos_Contra_a_Dengue.jpg",
+      "publishedAt": "2024-01-25 17:54:00",
+      "content": "O Governo do Distrito Federal (GDF) declarou, nesta quinta-feira (25/1), situa\u00e7\u00e3o de emerg\u00eancia na sa\u00fade p\u00fablica diante da explos\u00e3o de casos da dengue. O GDF informou que um decreto com detalhes sob\u2026 [+4089 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.990342",
+      "internal_id": "59d39d0f48f7185cd72f15893e0e205d507a05757e14431a140986dbb288090f",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4625,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Minist\u00e9rio da Sa\u00fade define munic\u00edpios que receber\u00e3o a vacina da dengue pelo SUS",
+      "description": "O Minist\u00e9rio da Sa\u00fade divulgou a lista de cidades que v\u00e3o receber a vacina contra a Dengue pelo SUS. S\u00e3o 521 munic\u00edpios em 16 estados. Ao todo...",
+      "url": "https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/ministerio-da-saude-define-municipios-que-receberao-a-vacina-da-dengue-pelo-sus-25012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/25/65b2c22d416eb9d11f0001c3/ae09e8a52cd74d38a8c554c482ac353b__2469086_EPP_2501_BOLETIMJR_17H00_VACINAS_DENGUE_thumb.jpg",
+      "publishedAt": "2024-01-25 17:38:31",
+      "content": "O Minist\u00e9rio da Sa\u00fade divulgou a lista de cidades que v\u00e3o receber a vacina contra a Dengue pelo SUS. S\u00e3o 521 munic\u00edpios em 16 estados. Ao todo, 3,2 milh\u00f5es de pessoas devem ser imunizadas este ano. O\u2026 [+149 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.113523",
+      "internal_id": "eb2e9c35efce4e33f5ac9952a16477f02825d3f1e3ea257114f6cf8f501daaea",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4610,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Dengue: Brasil tem 12 mortes em 2024 e mais de 120 mil casos prov\u00e1veis",
+      "description": "Quatro sorotipos da dengue circulam no pa\u00eds atualmente",
+      "url": "https://saude.ig.com.br/2024-01-25/dengue--brasil-tem-12-mortes-em-2024-e-mais-de-120-mil-casos-provaveis.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-25 17:25:05",
+      "content": "O Brasil registrou, nas tr\u00eas primeiras semanas de 2024, 12 mortes por dengue e 120.874 casos prov\u00e1veis da doen\u00e7a. No mesmo per\u00edodo do ano passado, foram contabilizados 26 \u00f3bitos e 44.753 casos prov\u2026 [+1495 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.016307",
+      "internal_id": "4f8b57df9b62959a97cc8305cf63f4d8879265e89f46d8eac302a35250887cac",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4603,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Dengue: por que vacina no SUS ser\u00e1 s\u00f3 para crian\u00e7as entre 10 e 14 anos",
+      "description": "A vacina da dengue, Qdenga, come\u00e7ar\u00e1 a ser aplicado na pr\u00f3xima semana, mas ter\u00e1 p\u00fablico muito restrito nos primeiros meses de aplica\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/saude/por-que-vacina-dengue-no-sus-sera-so-para-criancas-entre-10-e-14",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/11/14131724/Qdenga.jpg",
+      "publishedAt": "2024-01-25 16:44:36",
+      "content": "As estrat\u00e9gias de combate \u00e0 dengue no Brasil ganhar\u00e3o um grande refor\u00e7o a partir da pr\u00f3xima semana. A vacina Qdenga, que previne a forma grave dos quatro sorotipos da doen\u00e7a, come\u00e7ar\u00e1 a ser aplicada \u2026 [+5318 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.967404",
+      "internal_id": "5edc3d6fb674e35a906011a56ba9d61cb498b388cbd0e5b32f564eaabb377cfa",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4611,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Vacina da dengue no SUS | Confira se sua cidade est\u00e1 na lista oficial",
+      "description": "Minist\u00e9rio da Sa\u00fade divulga quais cidades v\u00e3o receber doses da vacina Qdenga para imunizar crian\u00e7as e adolescentes contra a dengue. Lista n\u00e3o inclui S\u00e3o Paulo",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-25/vacina-da-dengue-no-sus---confira-se-sua-cidade-esta-na-lista-oficial.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/dz/ov/n5/dzovn5kzxwwd8gezc70qh91ch.jpg",
+      "publishedAt": "2024-01-25 16:30:14",
+      "content": "A partir de fevereiro, 521 cidades do Brasil v\u00e3o come\u00e7ar a vacinar crian\u00e7as e adolescentes, de 10 a 14 anos, contra a dengue. Por causa da quantidade limitada de doses, a vacina Qdenga n\u00e3o deve chega\u2026 [+3089 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.020940",
+      "internal_id": "4faf20968f7e5874135cca81102464fc68406fb7fc79d3a124c52e62c65563c5",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4619,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Vacina de dengue: entenda explica\u00e7\u00e3o do Minist\u00e9rio da Sa\u00fade para crit\u00e9rio que 'tirou' Campinas da 1\u00aa lista de cidades",
+      "description": "Apesar dos 855 casos deste ano, cidade n\u00e3o foi inclu\u00edda entre as priorit\u00e1rias da remessa que come\u00e7a a ser aplicada em fevereiro. Prefeitura afirma que munic\u00edpio cumpre dois dos tr\u00eas crit\u00e9rios. Vacinas Qdenga (nova) e Dengavaxia que s\u00e3o as autorizadas pela Anv\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/25/vacina-de-dengue-entenda-explicacao-do-ministerio-da-saude-para-criterio-que-tirou-campinas-da-1a-lista-de-cidades.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/a2R4lOWxZOAOYHvx58wqGgf_IwM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/q/F/5GApBUTCAKC78raYHuiA/whatsapp-image-2023-07-03-at-18.09.55.jpeg",
+      "publishedAt": "2024-01-25 16:30:07",
+      "content": "Diretor do Departamento de Imuniza\u00e7\u00e3o do minist\u00e9rio, Eder Gatti Fernandes afirmou, em entrevista coletiva nesta quinta-feira, que o crit\u00e9rio do sorotipo 2 se deve ao aumento importante dos casos. \"\u2026 [+4975 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.084296",
+      "internal_id": "2cffbdee84f47acc17f252386f727ed3eb85b6e7491343c8a942cccec69a61f1",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4592,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "Devin Rokyta-Washington State",
+      "title": "Dog facial recognition app may improve rabies vax efforts",
+      "description": "A mobile phone-based facial recognition app for dogs could significantly improve rabies vaccination efforts in Africa and Asia.",
+      "url": "https://www.futurity.org/dog-facial-recognition-app-rabies-vaccines-3170422/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/01/dogs-facial-recognition-rabies-1600.jpg",
+      "publishedAt": "2024-01-25 16:24:07",
+      "content": "A mobile phone-based facial recognition application for dogs has the potential to significantly improve rabies vaccination efforts in Africa and Asia, researchers report. The researchers used the ap\u2026 [+3547 chars]",
+      "retrievedAt": "2024-01-26 19:05:21.637213",
+      "internal_id": "781676ee9948f39b63d68fc339bb98e7c679b72a2d667b800f518bf50bed116c",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4593,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman",
+      "title": "In Europe, This 'Canary in a Coal Mine' Is Afoot",
+      "description": "As we get our legs after the COVID tsunami, another set of outbreaks is taking hold, especially in Europe. The BBC reports that measles are cropping up throughout the EU, with a nearly 45-fold spike in cases last year, according to the World Health Organizati\u2026",
+      "url": "https://www.newser.com/story/345536/in-europe-this-canary-in-a-coal-mine-is-afoot.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1514444-12-20240125102302.jpeg",
+      "publishedAt": "2024-01-25 16:10:00",
+      "content": "As we get our legs after the COVID tsunami, another set of outbreaks is taking hold, especially in Europe. The BBC reports that measles are cropping up throughout the EU, with a nearly 45-fold spike \u2026 [+2375 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.503053",
+      "internal_id": "8d50d5df37e2421df99c28022bab18d6f2d1279f7db18d2e3ab1677a159d47ce",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4609,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "P\u00fablico-alvo para vacina\u00e7\u00e3o contra a dengue no DF \u00e9 de 194 mil pessoas",
+      "description": "Vacina\u00e7\u00e3o come\u00e7ar\u00e1 em fevereiro. DF est\u00e1 em lista do Minist\u00e9rio da Sa\u00fade com 521 cidades consideradas priorit\u00e1rias para receber imuniza\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/distrito-federal/publico-alvo-para-vacinacao-contra-a-dengue-no-df-e-de-194-mil-pessoas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/25121022/DF-tem-194-mil-jovens-com-10-a-14-anos-aptos-a-receber-vacina-contra-a-dengue.jpg",
+      "publishedAt": "2024-01-25 16:07:04",
+      "content": "O Distrito Federal tem 194 mil crian\u00e7as e adolescentes de 10 a 14 anos, p\u00fablico-alvo apto a receber a vacina contra a dengue. O Minist\u00e9rio da Sa\u00fade divulgou, nesta quinta-feira (25/1), o plano de a\u00e7\u00e3\u2026 [+1585 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.997255",
+      "internal_id": "4e17433c49b133ebe08a0b2092a424ff257206ea9c0242c78ff7161c306f97bc",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4613,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Vacina\u00e7\u00e3o contra dengue come\u00e7a em fevereiro para crian\u00e7as e adolescentes",
+      "description": "Ser\u00e3o aplicadas 3,2 milh\u00f5es de doses da vacina contra \u00e0 dengue em 521 munic\u00edpios de 16 Estados e no Distrito Federal",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/25/vacinacao-contra-dengue-comeca-em-fevereiro-para-criancas-e-adolescentes.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/bEQ2snw7r87LZvdm4QuhbkNzD3Q=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/p/t/EbxdgKRbWBXnRA3oM9rg/aedesebc.jpg",
+      "publishedAt": "2024-01-25 16:05:10",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou nesta manh\u00e3 que, a partir de fevereiro, ser\u00e3o aplicadas 3,2 milh\u00f5es de doses da vacina contra \u00e0 dengue em 521 munic\u00edpios de 16 Estados e no Distrito Federal. O p\u00fablico-\u2026 [+1695 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.045044",
+      "internal_id": "584cbacd3c44a74d2926293ef82f85bf6a509807f9af1c9996fc399a09113160",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4614,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue no SUS: veja lista dos munic\u00edpios que v\u00e3o receber a vacina",
+      "description": "A imuniza\u00e7\u00e3o come\u00e7a em fevereiro",
+      "url": "https://saude.ig.com.br/2024-01-25/dengue-no-sus--veja-lista-dos-municipios-que-vao-receber-a-vacina.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
+      "publishedAt": "2024-01-25 15:38:57",
+      "content": "O Minist\u00e9rio da Sa\u00fade divulgou nesta quinta-feira (25) a lista de cidades que v\u00e3o receber a vacina contra a dengue . No total, foram inclu\u00eddos cerca de 500 munic\u00edpios em 16 estados. A imuniza\u00e7\u00e3o com\u2026 [+11077 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.052166",
+      "internal_id": "d7e6e58e33160d70cd63ef35de7471500225783f7e19bb0d31777e69927b5ec7",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4606,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Rebeca Kemilly",
+      "title": "Trabalharemos para obter mais, diz Ibaneis sobre vacinas contra dengue",
+      "description": "Governador comentou sobre vacina\u00e7\u00e3o contra a dengue durante evento nesta 5\u00aa, ap\u00f3s DF entrar na lista de prioridades do Minist\u00e9rio da Sa\u00fade",
+      "url": "https://www.metropoles.com/distrito-federal/trabalharemos-para-obter-mais-diz-ibaneis-sobre-vacinas-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/08/18104558/Ibaneis-sobre-comandante-da-PMDF-preso-Nao-foi-indicado-por-mim.jpg",
+      "publishedAt": "2024-01-25 15:28:27",
+      "content": "O governador do Distrito Federal, Ibaneis Rocha (MDB), comentou sobre o in\u00edcio da vacina\u00e7\u00e3o contra a dengue na capital do pa\u00eds. Durante evento de plantio de mudas para o projeto paisag\u00edstico dos Jard\u2026 [+1972 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.982642",
+      "internal_id": "61fe4c7e26e3162f95c7618228c6e349693899ceed924708636558c285fe03b9",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4624,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Giovanna Inoue, do R7, em Bras\u00edlia",
+      "title": "Governo do Distrito Federal declara situa\u00e7\u00e3o de emerg\u00eancia por causa da dengue",
+      "description": "An\u00fancio \u00e9 feito dois dias depois da secret\u00e1ria de Sa\u00fade afirmar que n\u00e3o v\u00ea a situa\u00e7\u00e3o da doen\u00e7a como 'fora de controle'",
+      "url": "https://noticias.r7.com/brasilia/governo-do-distrito-federal-declara-situacao-de-emergencia-por-causa-da-dengue-25012024",
+      "urlToImage": "https://img.r7.com/images/dengue-aedes-aegypti-df-25012024150412317?crop=1182x665+137+13",
+      "publishedAt": "2024-01-25 15:28:00",
+      "content": "DF registrou 16.628 casos prov\u00e1veis da doen\u00e7a Arquivo Ag\u00eancia Brasil O governo do Distrito Federal decretou situa\u00e7\u00e3o de emerg\u00eancia por causa da dengue nesta quinta-feira (25). A medida foi p\u2026 [+2248 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.109340",
+      "internal_id": "1d69f6dccb536013e4d76c2890db8a0077b44b254e370ee9a664b2eabd032867",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4622,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Edis Henrique Peres, do R7, em Bras\u00edlia",
+      "title": "Goi\u00e1s \u00e9 estado com mais munic\u00edpios que v\u00e3o receber a vacina contra a dengue no pa\u00eds",
+      "description": "Secret\u00e1rio de Sa\u00fade de Valpara\u00edso, Neomar Camelo, anunciou Dia D contra a doen\u00e7a nesta sexta-feira e parceria com o Distrito Federal",
+      "url": "https://noticias.r7.com/brasilia/goias-e-estado-com-mais-municipios-que-irao-receber-a-vacina-contra-a-dengue-no-pais-25012024",
+      "urlToImage": "https://img.r7.com/images/dengue-aedes-aegypti-df-25012024150412317?crop=977x549+265+85",
+      "publishedAt": "2024-01-25 15:09:00",
+      "content": "134 munic\u00edpios de Goi\u00e1s v\u00e3o receber vacinas Arquivo Ag\u00eancia Brasil Goi\u00e1s \u00e9 o estado com o maior n\u00famero de munic\u00edpios que ser\u00e1 contemplado com a vacina\u00e7\u00e3o contra a dengue neste ano. As dose\u2026 [+2255 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.100830",
+      "internal_id": "e83226b06ce2b5009bdb2c6362714f633cfc78b647e85feff85af8ce737e12c5",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4629,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "Le Cameroun d\u00e9ploie un vaccin antipaludique \u00e0 grande \u00e9chelle, \u201cun pas monumental\u201d",
+      "description": "Le 22 janvier, le Cameroun a lanc\u00e9 la premi\u00e8re campagne de vaccination syst\u00e9matique contre le paludisme. Les responsables de la sant\u00e9 d\u00e9crivent une \u00e9tape historique dans la lutte contre cette maladie, \u00e9galement appel\u00e9e malaria, transmise par les piq\u00fbres de mo\u2026",
+      "url": "https://www.courrierinternational.com/article/sante-le-cameroun-deploie-un-vaccin-antipaludique-a-grande-echelle-un-pas-monumental",
+      "urlToImage": "https://focus.courrierinternational.com/2024/01/25/0/0/2941/1961/1200/630/60/0/be48fa2_1706188579069-000-34gb64a.jpg",
+      "publishedAt": "2024-01-25 15:00:50",
+      "content": "Le site Africa Presse annonceune premi\u00e8re mondiale au Cameroun. Le pays a franchi un pas monumental dans la lutte contre le paludisme, une des maladies les plus mortelles en Afrique, en lan\u00e7ant lundi\u2026 [+584 chars]",
+      "retrievedAt": "2024-01-26 19:05:24.169233",
+      "internal_id": "c9a5d06437bb437ecbb9ce94a84b6491953c68d2cacf7fac6a30ef8936e92a9d",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4601,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Eduardo Barretto",
+      "title": "Minist\u00e9rio da Sa\u00fade vai visitar DF, RJ e Goi\u00e1s por combate \u00e0 dengue",
+      "description": "Cinco milh\u00f5es de brasileiros podem ser infectados pela dengue em 2024, um recorde, estima Minist\u00e9rio da Sa\u00fade",
+      "url": "https://www.metropoles.com/colunas/guilherme-amado/ministerio-da-saude-vai-visitar-df-rj-e-goias-por-combate-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/22153401/Todos_Contra_a_Dengue.jpg",
+      "publishedAt": "2024-01-25 15:00:40",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.954001",
+      "internal_id": "6dcf0970e6dd45c82c26b6465b54fffbb9cc61a4fb1b2eac3278eb9743539375",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4604,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "GDF pedir\u00e1 apoio ao Minist\u00e9rio da Defesa em a\u00e7\u00f5es de combate \u00e0 dengue",
+      "description": "Com explos\u00e3o de casos e registro de tr\u00eas mortes, DF entrou entre as prioridades do governo federal para receber vacina\u00e7\u00e3o contra a dengue",
+      "url": "https://www.metropoles.com/distrito-federal/df-pedira-apoio-ao-ministerio-da-defesa-em-acoes-de-combate-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/25113711/DF-pedira-apoio-do-Ministerio-da-Defesa-contra-a-Dengue-.jpg",
+      "publishedAt": "2024-01-25 14:50:03",
+      "content": "O Governo do Distrito Federal (GDF) pediu apoio ao Minist\u00e9rio da Defesa para tentar conter o avan\u00e7o da dengue. Secret\u00e1ria de Sa\u00fade da capital do pa\u00eds, Lucilene Flor\u00eancio anunciou a medida nesta quint\u2026 [+2083 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.973878",
+      "internal_id": "1efe07556a31c40a2c654e94ba8579cd49064e655ff2140873fc73f5a940594b",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4617,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Aquecimento global e El Ni\u00f1o impulsionam casos de dengue e Brasil enfrenta alta da doen\u00e7a",
+      "description": "O aquecimento global e o fen\u00f4meno El Ni\u00f1o t\u00eam ajudado a impulsionar a alta de casos de dengue no ...",
+      "url": "https://www.terra.com.br/noticias/brasil/aquecimento-global-e-el-nino-impulsionam-casos-de-dengue-e-brasil-enfrenta-alta-da-doenca,a1c4a73ebd2d467b5f69a64bcba3b170nbdfzjda.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-01-25 14:35:54",
+      "content": "O aquecimento global e o fen\u00f4meno El Ni\u00f1o t\u00eam ajudado a impulsionar a alta de casos de dengue no in\u00edcio deste ano no Brasil, afirmou o diretor do Departamento de Imuniza\u00e7\u00e3o e Doen\u00e7as Transmiss\u00edveis d\u2026 [+6857 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.069894",
+      "internal_id": "8c2f978a0424de497f0615c3f9669a636900016a5193fe4d17e49c874a85a4e2",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4616,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reuters",
+      "title": "Surto de dengue na Am\u00e9rica do Sul leva a corrida por vacinas e escassez de repelentes",
+      "description": "A Am\u00e9rica do Sul est\u00e1 testemunhando um aumento dos casos de dengue neste ver\u00e3o, fazendo o Brasil ...",
+      "url": "https://www.terra.com.br/noticias/surto-de-dengue-na-america-do-sul-leva-a-corrida-por-vacinas-e-escassez-de-repelentes,71e0182075248036679316a8e2d5e5eblsk6o2kd.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-01-25 14:32:51",
+      "content": "A Am\u00e9rica do Sul est\u00e1 testemunhando um aumento dos casos de dengue neste ver\u00e3o, fazendo o Brasil lan\u00e7ar uma nova campanha de vacina\u00e7\u00e3o, enquanto que na Argentina muitas lojas ficaram sem estoque de r\u2026 [+2875 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.065570",
+      "internal_id": "4f1c535c2431960fd53b516d1e98d64252c86cb5dc9c9c552aab362efa584cb8",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4602,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mariah Aquino",
+      "title": "Veja as 521 cidades que ter\u00e3o vacina da dengue dispon\u00edvel pelo SUS",
+      "description": "Minist\u00e9rio da Sa\u00fade pretende imunizar contra a dengue, neste ano, 3,2 milh\u00f5es de pessoas de 10 a 14 anos",
+      "url": "https://www.metropoles.com/brasil/veja-os-municipios-que-terao-a-vacina-da-dengue-disponivel-pelo-sus",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/07/20160551/WhatsApp-Image-2022-07-20-at-15.53.331.jpeg",
+      "publishedAt": "2024-01-25 14:25:13",
+      "content": "O Minist\u00e9rio da Sa\u00fade divulgou, nesta quinta-feira (25/1), a lista dos 251 munic\u00edpios que receber\u00e3o a vacina contra a dengue em 2024, por meio do Sistema \u00danico de Sa\u00fade (SUS). A pasta pretende imuniz\u2026 [+1087 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.958037",
+      "internal_id": "c2a4302fc613d6bf8cae03f6b1c7fe517cf550c5481bf7265f93f2d1f92e0c2d",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4607,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Vacina\u00e7\u00e3o contra dengue: DF est\u00e1 entre prioridades do governo federal",
+      "description": "Minist\u00e9rio da Sa\u00fade divulgou plano de a\u00e7\u00e3o nacional contra a doen\u00e7a, e DF entrou na lista de \u00e1reas com prioridade para receber vacina\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/distrito-federal/vacinacao-contra-dengue-df-esta-entre-prioridades-do-governo-federal",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/25105813/DF-e-prioridade-para-vacinacao-contra-Dengue.jpg",
+      "publishedAt": "2024-01-25 14:20:15",
+      "content": "Afetado por uma nova explos\u00e3o de casos da dengue, inclusive com mortes, o Distrito Federal entrou na lista de prioridades do Minist\u00e9rio da Sa\u00fade para receber as vacinas contra a doen\u00e7a. A pasta fede\u2026 [+2913 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.986539",
+      "internal_id": "5dc5e59b2cec46582a34ba9ac430fa41af4c86524cefe8decd9afb35dba903fe",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4620,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Campinas fica de fora da primeira lista de munic\u00edpios que receber\u00e3o vacina de dengue",
+      "description": "Cidade soma 855 casos nos primeiros 25 dias do ano. Em todo o estado de SP, 11 munic\u00edpios foram contemplados pelo Minist\u00e9rio da Sa\u00fade - todos do Alto do Tiet\u00ea. Vacina contra dengue deve come\u00e7ar a ser oferecida pelo SUS a partir de fevereiro ROG\u00c9RIO VIDMANTAS/\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/25/campinas-fica-de-fora-da-primeira-lista-de-municipios-que-receberao-vacina-de-dengue.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/yOk-45NtR96djmQBckOx-37ZzH0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/z/L/gbAyn0RSepTYvcFxOl8g/ad768170-ba0d-11ee-be5c-5bb5a49cfd04.png",
+      "publishedAt": "2024-01-25 14:06:41",
+      "content": "Ao todo, 521 munic\u00edpios v\u00e3o come\u00e7ar a aplica\u00e7\u00e3o na rede p\u00fablica em fevereiro (veja a lista aqui). No estado de S\u00e3o Paulo, 11 cidades apareceram na primeira lista - todos da regi\u00e3o do Alto do Tiet\u00ea. \u2026 [+4034 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.088720",
+      "internal_id": "683df525730f15959fce0e6a32fcffadd31aef3477f4f23c216be66e21d4f783",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4631,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Amanda Brady, Katelyn R. Sheneman, Amanda R. Pulsifer, Sarah L. Price, Taylor M. Garrison, Krishna Rao Maddipati, Sobha R. Bodduluri, Jianmin Pan, Nolan L. Boyd, Jing-Juan Zheng, Shesh N. Rai, Jason Hellmann, Bodduluri Haribabu, Silvia M. Uriarte, Matthew B. Lawrenz",
+      "title": "Type 3 secretion system induced leukotriene B4 synthesis by leukocytes is actively inhibited by Yersinia pestis to evade early immune recognition",
+      "description": "Author summary Yersinia pestis targets the host\u2019s innate immune response to inhibit inflammation. Because the generation of a non-inflammatory environment is required for infection, defining the mechanisms used by Y. pestis to block inflammation is key to und\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011280",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011280.g008&size=inline",
+      "publishedAt": "2024-01-25 14:00:00",
+      "content": "Citation: Brady A, Sheneman KR, Pulsifer AR, Price SL, Garrison TM, Maddipati KR, et al. (2024) Type 3 secretion system induced leukotriene B4 synthesis by leukocytes is actively inhibited by Yersini\u2026 [+54640 chars]",
+      "retrievedAt": "2024-01-26 19:05:26.575203",
+      "internal_id": "0a8a2d0b029113ca46823a0a74a5054ec68bd2469641b320578cb13e045d11da",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4618,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: crian\u00e7as de 10 a 14 anos de 521 cidades v\u00e3o ser vacinadas; veja lista",
+      "description": "Com n\u00famero limitado de doses, minist\u00e9rio divulgou p\u00fablico e locais priorit\u00e1rios para a campanha que come\u00e7a em fevereiro",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-criancas-de-10-a-14-anos-de-521-cidades-vao-ser-vacinadas-veja-lista,cf3322db04f1cff42eafdc6d14e8778a3ayl96up.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/25/1566096477-vgggob62cbbrhamck7lxxnarqm.jpg",
+      "publishedAt": "2024-01-25 13:46:43",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou que crian\u00e7as de 10 a 14 anos ser\u00e3o priorizadas para a vacina\u00e7\u00e3o contra a dengue diante do n\u00famero limitado de doses. Eles devem come\u00e7ar a ser vacinados em fevereiro. A p\u2026 [+1603 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.074488",
+      "internal_id": "c096ddf8ab28e47af1757867e37d129a8b56037386853b823d65115db9c86b4b",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4615,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Guilherme Mazieiro",
+      "title": "Minist\u00e9rio da Sa\u00fade anuncia 521 cidades que v\u00e3o aplicar vacina da dengue; veja lista",
+      "description": "Os casos de dengue tiveram aumento de 170% se comparadas as tr\u00eas primeiras semanas de janeiro de 2023 e 2024: de 44,7 mil para 120,8 mil",
+      "url": "https://www.terra.com.br/noticias/guilherme-mazieiro/ministerio-da-saude-anuncia-521-cidades-que-vao-aplicar-vacina-da-dengue-veja-lista,6dda4d1587ef8e2dd91662d41d05b3ce4sptsqq0.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/23/1191540374-31c98c90-ba01-11ee-b3a7-93109d41efd2.jpg",
+      "publishedAt": "2024-01-25 13:01:37",
+      "content": "O Minist\u00e9rio da Sa\u00fade divulgou nesta quinta, 25, a lista de 521 munic\u00edpios do pa\u00eds que v\u00e3o receber e aplicar vacinas contra a dengue. O imunizante foi incorporado ao SUS e ser\u00e1 distribu\u00eddo para aplic\u2026 [+12499 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.061125",
+      "internal_id": "85d2f2480d5962097b9eb29b44836a453bd38ae6b4abc71a48dcc6be8b134fec",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4599,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mariah Aquino",
+      "title": "SUS vai aplicar vacina da dengue a partir de fevereiro em 521 cidades",
+      "description": "Minist\u00e9rio da Sa\u00fade anunciou, nesta quinta-feira (25/1), estrat\u00e9gias para enfrentamento da dengue no pa\u00eds",
+      "url": "https://www.metropoles.com/brasil/sus-vai-aplicar-vacina-da-dengue-a-partir-de-fevereiro",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/22104941/Dengue_Casos_DF.jpg",
+      "publishedAt": "2024-01-25 12:31:08",
+      "content": "O Minist\u00e9rio da Sa\u00fade anuncia, nesta quinta-feira (25/1), a\u00e7\u00f5es para enfrentamento \u00e0 dengue no pa\u00eds. De acordo com a pasta, a campanha de vacina\u00e7\u00e3o come\u00e7a em fevereiro, priorizando o p\u00fablico-alvo de \u2026 [+998 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.943074",
+      "internal_id": "81ce020a8b48901eaf99d86095a975492bbe508c900785958df0d84dc07476cf",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4594,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "STV News",
+      "author": "Matthew Fulton",
+      "title": "Why is Scotland bucking the trend of rising measles cases amid world health warning?",
+      "description": "Cases of the infection are rising across Europe sparking a warning from the World Health Organisation.",
+      "url": "https://news.stv.tv/scotland/why-is-scotland-bucking-the-trend-of-rising-measles-cases-amid-world-health-warning",
+      "urlToImage": "https://news.stv.tv/wp-content/uploads/2024/01/7f269e479685b803e5b8fff3397040c9-1706097763-social-default.jpg",
+      "publishedAt": "2024-01-25 12:22:54",
+      "content": "The World Health Organisation (WHO) has issued an urgent warning over a rise in cases of measles. Last year, figures from health experts found cases across the WHO\u2019s European nations rose by almost \u2026 [+5978 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.511586",
+      "internal_id": "e53bf780ee754f985f24ccfc819c8a3049d19510dd7fa5c8dcb9884d9461d67f",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4630,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "NPR",
+      "title": "Vaccine reduces all kinds of deaths among children \u2014 not just malaria deaths",
+      "description": "The Central African nation of Cameroon kicked off the world's first routine childhood vaccine program for malaria this week.",
+      "url": "https://www.npr.org/2024/01/25/1226791256/vaccine-reduces-all-kinds-of-deaths-among-children-not-just-malaria-deaths",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-01-25 12:20:00",
+      "content": "The Central African nation of Cameroon kicked off the world's first routine childhood vaccine program for malaria this week.",
+      "retrievedAt": "2024-01-26 19:05:24.201371",
+      "internal_id": "857af814f73e6977dab1cc4bfe6229821703f0b4ac49ead9b793c84dcec4e19a",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4626,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Brasil tem alta de casos de dengue entre julho e janeiro",
+      "description": "O Brasil teve alta de mais de 38% nos casos de dengue entre julho de 2023 e janeiro de 2024. No per\u00edodo, o pa\u00eds registrou, ao menos, 127 morte...",
+      "url": "https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/brasil-tem-alta-de-casos-de-dengue-entre-julho-e-janeiro-25012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/25/65b2697a1df97b7c37000c35/dab833692a2b4a0b9aa66c9f661d72ad__8973983_EPP_2501_BOLETIMDIGITAL_AUMENTO_DENGUE_thumb_thumb.jpg",
+      "publishedAt": "2024-01-25 12:09:00",
+      "content": "O Brasil teve alta de mais de 38% nos casos de dengue entre julho de 2023 e janeiro de 2024. No per\u00edodo, o pa\u00eds registrou, ao menos, 127 mortes pela doen\u00e7a. Outras 164 mortes continuam sob investiga\u00e7\u2026 [+96 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.128166",
+      "internal_id": "3d78451337d64df505e8444d72e029263e89e93f747856b2d04ac1b05bf14a89",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4605,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "Demandas ao GDF relacionadas \u00e0 dengue ter\u00e3o atendimento emergencial",
+      "description": "Portaria publicada no Di\u00e1rio Oficial pela DF Legal instituiu for\u00e7a-tarefa que atuar\u00e1 com prioridade no combate ao avan\u00e7o da dengue",
+      "url": "https://www.metropoles.com/distrito-federal/gdf-demandas-relacionadas-a-dengue-receberao-tratamento-emergencial",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/25082331/DF-Legal-combate-a-dengue.jpeg",
+      "publishedAt": "2024-01-25 12:01:58",
+      "content": "A Secretaria de Prote\u00e7\u00e3o da Ordem Urban\u00edstica do Distrito Federal (DF Legal) instituiu uma for\u00e7a-tarefa para que todas as demandas recebidas via ouvidoria relacionadas ao combate \u00e0 dengue sejam trata\u2026 [+3307 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.978584",
+      "internal_id": "b61183ec4ad4cb18aea8b1e65a517a442eaf39aeb3d4beb9b8e1de6062236b65",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4627,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "La malaria si diffonde nelle terre degli yanomami",
+      "description": "All\u2019inizio del 2023 il governo brasiliano ha decretato l\u2019emergenza sanitaria tra i nativi. Anche se sono stati fatti passi avanti, gli yanomami continuano a morire per malattie curabili Leggi",
+      "url": "https://www.internazionale.it/magazine/leonardo-zvarick/2024/01/25/la-malaria-si-diffonde-nelle-terre-degli-yanomami",
+      "urlToImage": "https://media.internazionale.it/images/2024/01/25/207556-sd.jpg",
+      "publishedAt": "2024-01-25 11:40:29",
+      "content": "Un anno dopo la denuncia dellemergenza sanitaria nei territori dei nativi yanomami, nel nord del Brasile, la malaria continua a essere una delle cause principali di morte. I bambini si ammalano, dice\u2026 [+5866 chars]",
+      "retrievedAt": "2024-01-26 19:05:24.133861",
+      "internal_id": "97279bba78d87afddd4e8bdf75e7790e604d696c099d36ac3e5026cfd56b62fb",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4628,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Vaccini e anniversari",
+      "description": "Il 22 gennaio sono cominciate in Camerun le prime campagne di vaccinazione contro la malaria. A novembre il paese aveva ricevuto trecentomila dosi del farmaco Rts,s finanziate... Leggi",
+      "url": "https://www.internazionale.it/magazine/2024/01/25/vaccini-e-anniversari",
+      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "publishedAt": "2024-01-25 11:40:28",
+      "content": "Il 22 gennaio sono cominciate in Camerun le prime campagne di vaccinazione contro la malaria. A novembre il paese aveva ricevuto trecentomila dosi del farmaco Rts,s finanziate dalla Gavi, un ente di \u2026 [+1246 chars]",
+      "retrievedAt": "2024-01-26 19:05:24.145905",
+      "internal_id": "0305c4530583b87c41b008da466bc515bee91bff2033a56018de42e4f94d3d00",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4623,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "La\u00edsa Lopes, do R7, em Bras\u00edlia",
+      "title": "Vacina contra a dengue ser\u00e1 distribu\u00edda para 521 munic\u00edpios do pa\u00eds",
+      "description": "P\u00fablico-alvo ser\u00e3o crian\u00e7as e adolescentes entre 10 e 14 anos; para 2024 ser\u00e3o distribu\u00eddas 6,5 milh\u00f5es de doses",
+      "url": "https://noticias.r7.com/saude/vacina-dengue-municipios-25012024",
+      "urlToImage": "https://img.r7.com/images/dengue-25012024104553895?crop=770x433+0+48",
+      "publishedAt": "2024-01-25 10:34:00",
+      "content": "Vacina contra a dengue ser\u00e1 distribu\u00edda para 521 cidades Fernando Fraz\u00e3o/Ag\u00eancia Brasil - 30.03.2023 O Minist\u00e9rio da Sa\u00fade informou, nesta quinta-feira (25), que 521 cidades v\u00e3o receber a va\u2026 [+5448 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.104882",
+      "internal_id": "ce257c2118559aed35013daff1bcda82a5d2ba5d43e3966d85d3c2d99a129d1d",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4598,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "FACT.MR",
+      "title": "Dengue Testing Market Is Projected To Rise At A CAGR Of 6.1% to Reach US$ 1,232.8 million by 2034: Fact.MR Report",
+      "description": "Growing Awareness and Proactive Government Initiatives Escalate Dengue Testing Market Growth Growing Awareness and Proactive Government Initiatives Escalate Dengue Testing Market Growth",
+      "url": "https://www.globenewswire.com/news-release/2024/01/25/2816346/0/en/Dengue-Testing-Market-Is-Projected-To-Rise-At-A-CAGR-Of-6-1-to-Reach-US-1-232-8-million-by-2034-Fact-MR-Report.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/f482b854-04d1-4f4e-9237-f7c7c6823e10",
+      "publishedAt": "2024-01-25 09:00:00",
+      "content": "Rockville , Jan. 25, 2024 (GLOBE NEWSWIRE) -- The global dengue testing market is projected to reach US$ 681.9 million in 2024. The dengue testing sales are expected to witness a CAGR of 6.1% from 20\u2026 [+7928 chars]",
+      "retrievedAt": "2024-01-26 19:05:22.939073",
+      "internal_id": "94b166ffbb1ca930d2d84e672d3411ae51ef1c6414cf273a43273e2af660460e",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4612,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Vacina\u00e7\u00e3o contra dengue vai priorizar p\u00fablico de 6 a 16 anos; entenda",
+      "description": "Apesar do p\u00fablico n\u00e3o estar inclu\u00eddo no grupo de principais v\u00edtimas fatais da doen\u00e7a, a estrat\u00e9gia de imuniza\u00e7\u00e3o segue as recomenda\u00e7\u00f5es da OMS",
+      "url": "https://saude.ig.com.br/2024-01-25/vacinacao-dengue-publico-entenda.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c1/e4/d1/c1e4d1oh0uh1d020x4568fo7s.jpg",
+      "publishedAt": "2024-01-25 09:00:00",
+      "content": "Na segunda-feira passada (15), o Minist\u00e9rio da Sa\u00fade anunciou que ir\u00e1 priorizar a popula\u00e7\u00e3o entre 6 e 16 anos na vacina\u00e7\u00e3o contra a dengue. O imunizante Qdenga, produzido pelo laborat\u00f3rio japon\u00eas Tak\u2026 [+4760 chars]",
+      "retrievedAt": "2024-01-26 19:05:23.040020",
+      "internal_id": "00a1f444f88ee8e7bb8a8e9d17f543b38842ff2fe50b909bd6617c58811dd4f5",
+      "publishedAtLabel": "Jan 25"
+    },
     {
       "id": 4585,
       "query": [
@@ -16968,42 +17706,6 @@
       "retrievedAt": "2023-12-12 07:05:46.750944",
       "internal_id": "c116a51cb6ff4fea02b93505cc7f7b086822052fe4eaf8b8eb613a769e41cd5c",
       "publishedAtLabel": "Dec 11"
-    },
-    {
-      "id": 3640,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Asianetnews.com",
-      "author": "Web Team",
-      "title": "'100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d46\u0d28\u0d4d\u0d28 \u0d05\u0d23\u0d41\u0d2c\u0d3e\u0d27; \u0d1c\u0d3e\u0d17\u0d4d\u0d30\u0d24 \u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d28\u0d3f\u0d30\u0d4d\u200d\u0d26\u0d47\u0d36\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d41\u0d15\u0d46\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d35\u0d15\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
-      "description": "\u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d3e\u0d23\u0d24\u0d4d\u0d30\u0d47 '100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d40\u0d1f\u0d4d \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d3e\u0d38\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d27\u0d3f\u0d15\u0d02 \u0d1a\u0d41\u0d2e \u0d28\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d28\u0d3f\u0d32\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d05\u0d35\u0d38\u0d4d\u0d25\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41",
-      "url": "https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95",
-      "urlToImage": "https://static-ai.asianetnews.com/images/01epy9ef8135ab8dte71vxnjb2/pneumonia--jpg_1200x630xt.jpg",
-      "publishedAt": "2023-12-10 12:45:52",
-      "content": "'100 ' . 19 . . . . . . '100 ' . 100 . , . . . . '100 ' . . 'Bordetella pertussis bacteria' '100 ' . . 1950 . . . . . , . '100 ' . . '100 ' . . . '100 ' . Also Read:- ' '?; ? ... \u2026 [+55 chars]",
-      "retrievedAt": "2023-12-11 19:05:24.793192",
-      "internal_id": "acf2edf9d18e841ea459b3181537b06547cad382f659d3c4f1f96c70fc7744ba",
-      "publishedAtLabel": "Dec 10"
-    },
-    {
-      "id": 3641,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Ag\u00eancia Mural - Conte\u00fado Exclusivo",
-      "title": "Conhe\u00e7a Zika das Artes, de S\u00e3o Mateus, que assina capas de \u00e1lbuns do trap e rap",
-      "description": "Com est\u00e9tica que mistura t\u00e9cnicas de artes cl\u00e1ssicas ao mundo digital, artista ganha notoriedade no cen\u00e1rio musical",
-      "url": "https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1-zika-das-artes-na-perifacon-2023-credito-leu-britto-agencia-mural-(1)-ure13t557g36.jpg",
-      "publishedAt": "2023-12-10 08:00:20",
-      "content": "Com assinatura nas capas de \u00e1lbuns de renomados m\u00fasicos do universo do trap e do rap, o artista visual Kayo Mathias, 23, o Zika das Artes, de S\u00e3o Mateus, na zona leste de S\u00e3o Paulo, celebra um 2023 d\u2026 [+3286 chars]",
-      "retrievedAt": "2023-12-11 19:05:26.676231",
-      "internal_id": "a7015427e17347ed9b4d87bae7c063e7f102cccb9e7f341deb9675d0006bae7b",
-      "publishedAtLabel": "Dec 10"
     }
   ]
 }

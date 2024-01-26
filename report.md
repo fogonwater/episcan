@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-01-26 07:05
-- **Most recent article:** 2024-01-25 03:04:33
+- **New articles in last harvest:** 41
+- **Last harvest:** 2024-01-26 19:05
+- **Most recent article:** 2024-01-25 19:00:42
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 45 | 346 |
-| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 66 | 226 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 31 | 168 |
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 75 | 376 |
+| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 70 | 230 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 35 | 172 |
 | mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 67 |
-| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 5 | 43 |
+| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 5 | 42 |
 | meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 1 | 36 |
-| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 4 | 33 |
+| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 6 | 35 |
 | chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 4 | 31 |
-| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 19 |
+| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 18 |
 | typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 1 | 8 |
 | leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
-| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 4 |
+| yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -44,6 +44,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (yersinia)
 
+- [Type 3 secretion system induced leukotriene B4 synthesis by leukocytes is actively inhibited by Yersinia pestis to evade early immune recognition](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011280) (Plos.org)
+
 - [Multiple Introductions of Yersinia pestis during Urban Pneumonic Plague Epidemic, Madagascar, 2017](https://wwwnc.cdc.gov/eid/article/30/2/23-0759_article) (Cdc.gov)
 
 ## 24-4 (typhoid)
@@ -51,6 +53,10 @@ Source: [News API](https://newsapi.org/)
 - [Study reveals how some bacterial infections become chronic](https://phys.org/news/2024-01-reveals-bacterial-infections-chronic.html) (Phys.Org)
 
 ## 24-4 (rabies)
+
+- [Facial recognition app helps scientists identify rabies-vaccinated dogs](https://newatlas.com/good-thinking/facial-recognition-app-rabies-vaccinated-dogs/) (New Atlas)
+
+- [Dog facial recognition app may improve rabies vax efforts](https://www.futurity.org/dog-facial-recognition-app-rabies-vaccines-3170422/) (Futurity: Research News)
 
 - [Facial recognition app for dogs developed to help in fight against rabies](https://www.sciencedaily.com/releases/2024/01/240124132825.htm) (Science Daily)
 
@@ -79,6 +85,14 @@ Source: [News API](https://newsapi.org/)
 - [Encapsulated Streptococcus suis impairs optimal neutrophil functions which are not rescued by priming with colony-stimulating factors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296844) (Plos.org)
 
 ## 24-4 (measles)
+
+- [Michael Baker: Significant measles outbreak 'almost certain' this year](https://www.1news.co.nz/2024/01/26/michael-baker-significant-measles-outbreak-almost-certain-this-year/) (1news.co.nz)
+
+- [Significant measles outbreak almost certain to happen, public health expert Michael Baker says](https://www.newshub.co.nz/home/new-zealand/2024/01/significant-measles-outbreak-almost-certain-to-happen-public-health-expert-michael-baker-says.html) (Newshub)
+
+- [In Europe, This 'Canary in a Coal Mine' Is Afoot](https://www.newser.com/story/345536/in-europe-this-canary-in-a-coal-mine-is-afoot.html) (Newser)
+
+- [Why is Scotland bucking the trend of rising measles cases amid world health warning?](https://news.stv.tv/scotland/why-is-scotland-bucking-the-trend-of-rising-measles-cases-amid-world-health-warning) (STV News)
 
 - [Victoria, Queensland join NSW and the ACT with measles health alerts as Australia faced with threat of outbreak](https://www.skynews.com.au/australia-news/victoria-queensland-join-nsw-and-the-act-with-measles-health-alerts-as-australia-faced-with-threat-of-outbreak/news-story/83f0e2e09fbad42d7d52b888b205bbec) (Sky News Australia)
 
@@ -143,6 +157,14 @@ Source: [News API](https://newsapi.org/)
 - [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
+
+- [Le Cameroun déploie un vaccin antipaludique à grande échelle, “un pas monumental”](https://www.courrierinternational.com/article/sante-le-cameroun-deploie-un-vaccin-antipaludique-a-grande-echelle-un-pas-monumental) (Courrier International)
+
+- [Vaccine reduces all kinds of deaths among children — not just malaria deaths](https://www.npr.org/2024/01/25/1226791256/vaccine-reduces-all-kinds-of-deaths-among-children-not-just-malaria-deaths) (NPR)
+
+- [La malaria si diffonde nelle terre degli yanomami](https://www.internazionale.it/magazine/leonardo-zvarick/2024/01/25/la-malaria-si-diffonde-nelle-terre-degli-yanomami) (Internazionale.it)
+
+- [Vaccini e anniversari](https://www.internazionale.it/magazine/2024/01/25/vaccini-e-anniversari) (Internazionale.it)
 
 - [A novel computational pipeline for var gene expression augments the discovery of changes in the Plasmodium falciparum transcriptome during transition from in vivo to short-term in vitro culture](https://elifesciences.org/articles/87726) (Elifesciences.org)
 
@@ -281,6 +303,66 @@ Source: [News API](https://newsapi.org/)
 - [Curious about puppy’s vaccines, spay plan](https://www.bostonherald.com/2024/01/21/curious-about-puppys-vaccines-spay-plan/) (Boston Herald)
 
 ## 24-4 (dengue)
+
+- [Veja a íntegra do decreto que declara situação de emergência no DF](https://www.metropoles.com/colunas/grande-angular/veja-a-integra-do-decreto-que-declara-situacao-de-emergencia-no-df) (Metropoles.com)
+
+- [Vacina da dengue: planos de saúde são obrigados a aplicar imunizante?](https://www.bbc.com/portuguese/articles/cpvr590pv52o) (BBC News)
+
+- [Aumento del dengue en Sudamérica impulsa campaña de vacunación, agota repelentes](https://www.vozdeamerica.com/a/aumento-dengue-sudamerica-impulsa-campanas-vacunacion/7457069.html) (Vozdeamerica.com)
+
+- [GDF declara situação de emergência após explosão de casos da dengue](https://www.metropoles.com/colunas/grande-angular/gdf-declara-situacao-de-emergencia-apos-explosao-de-casos-de-dengue) (Metropoles.com)
+
+- [Ministério da Saúde define municípios que receberão a vacina da dengue pelo SUS](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/ministerio-da-saude-define-municipios-que-receberao-a-vacina-da-dengue-pelo-sus-25012024) (R7.com)
+
+- [Dengue: Brasil tem 12 mortes em 2024 e mais de 120 mil casos prováveis](https://saude.ig.com.br/2024-01-25/dengue--brasil-tem-12-mortes-em-2024-e-mais-de-120-mil-casos-provaveis.html) (Ig.com.br)
+
+- [Dengue: por que vacina no SUS será só para crianças entre 10 e 14 anos](https://www.metropoles.com/saude/por-que-vacina-dengue-no-sus-sera-so-para-criancas-entre-10-e-14) (Metropoles.com)
+
+- [Vacina da dengue no SUS | Confira se sua cidade está na lista oficial](https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-25/vacina-da-dengue-no-sus---confira-se-sua-cidade-esta-na-lista-oficial.html) (Ig.com.br)
+
+- [Vacina de dengue: entenda explicação do Ministério da Saúde para critério que 'tirou' Campinas da 1ª lista de cidades](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/25/vacina-de-dengue-entenda-explicacao-do-ministerio-da-saude-para-criterio-que-tirou-campinas-da-1a-lista-de-cidades.ghtml) (Globo)
+
+- [Público-alvo para vacinação contra a dengue no DF é de 194 mil pessoas](https://www.metropoles.com/distrito-federal/publico-alvo-para-vacinacao-contra-a-dengue-no-df-e-de-194-mil-pessoas) (Metropoles.com)
+
+- [Vacinação contra dengue começa em fevereiro para crianças e adolescentes](https://valor.globo.com/brasil/noticia/2024/01/25/vacinacao-contra-dengue-comeca-em-fevereiro-para-criancas-e-adolescentes.ghtml) (Globo)
+
+- [Dengue no SUS: veja lista dos municípios que vão receber a vacina](https://saude.ig.com.br/2024-01-25/dengue-no-sus--veja-lista-dos-municipios-que-vao-receber-a-vacina.html) (Ig.com.br)
+
+- [Trabalharemos para obter mais, diz Ibaneis sobre vacinas contra dengue](https://www.metropoles.com/distrito-federal/trabalharemos-para-obter-mais-diz-ibaneis-sobre-vacinas-contra-dengue) (Metropoles.com)
+
+- [Governo do Distrito Federal declara situação de emergência por causa da dengue](https://noticias.r7.com/brasilia/governo-do-distrito-federal-declara-situacao-de-emergencia-por-causa-da-dengue-25012024) (R7.com)
+
+- [Goiás é estado com mais municípios que vão receber a vacina contra a dengue no país](https://noticias.r7.com/brasilia/goias-e-estado-com-mais-municipios-que-irao-receber-a-vacina-contra-a-dengue-no-pais-25012024) (R7.com)
+
+- [Ministério da Saúde vai visitar DF, RJ e Goiás por combate à dengue](https://www.metropoles.com/colunas/guilherme-amado/ministerio-da-saude-vai-visitar-df-rj-e-goias-por-combate-a-dengue) (Metropoles.com)
+
+- [GDF pedirá apoio ao Ministério da Defesa em ações de combate à dengue](https://www.metropoles.com/distrito-federal/df-pedira-apoio-ao-ministerio-da-defesa-em-acoes-de-combate-a-dengue) (Metropoles.com)
+
+- [Aquecimento global e El Niño impulsionam casos de dengue e Brasil enfrenta alta da doença](https://www.terra.com.br/noticias/brasil/aquecimento-global-e-el-nino-impulsionam-casos-de-dengue-e-brasil-enfrenta-alta-da-doenca,a1c4a73ebd2d467b5f69a64bcba3b170nbdfzjda.html) (Terra.com.br)
+
+- [Surto de dengue na América do Sul leva a corrida por vacinas e escassez de repelentes](https://www.terra.com.br/noticias/surto-de-dengue-na-america-do-sul-leva-a-corrida-por-vacinas-e-escassez-de-repelentes,71e0182075248036679316a8e2d5e5eblsk6o2kd.html) (Terra.com.br)
+
+- [Veja as 521 cidades que terão vacina da dengue disponível pelo SUS](https://www.metropoles.com/brasil/veja-os-municipios-que-terao-a-vacina-da-dengue-disponivel-pelo-sus) (Metropoles.com)
+
+- [Vacinação contra dengue: DF está entre prioridades do governo federal](https://www.metropoles.com/distrito-federal/vacinacao-contra-dengue-df-esta-entre-prioridades-do-governo-federal) (Metropoles.com)
+
+- [Campinas fica de fora da primeira lista de municípios que receberão vacina de dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/25/campinas-fica-de-fora-da-primeira-lista-de-municipios-que-receberao-vacina-de-dengue.ghtml) (Globo)
+
+- [Dengue: crianças de 10 a 14 anos de 521 cidades vão ser vacinadas; veja lista](https://www.terra.com.br/vida-e-estilo/saude/dengue-criancas-de-10-a-14-anos-de-521-cidades-vao-ser-vacinadas-veja-lista,cf3322db04f1cff42eafdc6d14e8778a3ayl96up.html) (Terra.com.br)
+
+- [Ministério da Saúde anuncia 521 cidades que vão aplicar vacina da dengue; veja lista](https://www.terra.com.br/noticias/guilherme-mazieiro/ministerio-da-saude-anuncia-521-cidades-que-vao-aplicar-vacina-da-dengue-veja-lista,6dda4d1587ef8e2dd91662d41d05b3ce4sptsqq0.html) (Terra.com.br)
+
+- [SUS vai aplicar vacina da dengue a partir de fevereiro em 521 cidades](https://www.metropoles.com/brasil/sus-vai-aplicar-vacina-da-dengue-a-partir-de-fevereiro) (Metropoles.com)
+
+- [Brasil tem alta de casos de dengue entre julho e janeiro](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/brasil-tem-alta-de-casos-de-dengue-entre-julho-e-janeiro-25012024) (R7.com)
+
+- [Demandas ao GDF relacionadas à dengue terão atendimento emergencial](https://www.metropoles.com/distrito-federal/gdf-demandas-relacionadas-a-dengue-receberao-tratamento-emergencial) (Metropoles.com)
+
+- [Vacina contra a dengue será distribuída para 521 municípios do país](https://noticias.r7.com/saude/vacina-dengue-municipios-25012024) (R7.com)
+
+- [Dengue Testing Market Is Projected To Rise At A CAGR Of 6.1% to Reach US$ 1,232.8 million by 2034: Fact.MR Report](https://www.globenewswire.com/news-release/2024/01/25/2816346/0/en/Dengue-Testing-Market-Is-Projected-To-Rise-At-A-CAGR-Of-6-1-to-Reach-US-1-232-8-million-by-2034-Fact-MR-Report.html) (GlobeNewswire)
+
+- [Vacinação contra dengue vai priorizar público de 6 a 16 anos; entenda](https://saude.ig.com.br/2024-01-25/vacinacao-dengue-publico-entenda.html) (Ig.com.br)
 
 - [El Niño e altas temperaturas favorecem aumento de casos de dengue](https://valor.globo.com/brasil/noticia/2024/01/25/el-nino-e-altas-temperaturas-favorecem-aumento-de-casos-de-dengue.ghtml) (Globo)
 
@@ -1894,8 +1976,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
-- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
-
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -1919,8 +1999,6 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
-
-- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 
