@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2024-01-25 19:05
-- **Most recent article:** 2024-01-24 18:28:25
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-01-26 07:05
+- **Most recent article:** 2024-01-25 03:04:33
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 43 | 344 |
-| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 63 | 223 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 29 | 166 |
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 45 | 346 |
+| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 66 | 226 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 31 | 168 |
 | mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 67 |
-| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 5 | 42 |
+| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 5 | 43 |
 | meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 1 | 36 |
 | rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 4 | 33 |
-| chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 3 | 30 |
-| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 18 |
+| chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 4 | 31 |
+| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 19 |
 | typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 1 | 8 |
 | leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
 | yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 4 |
@@ -79,6 +79,10 @@ Source: [News API](https://newsapi.org/)
 - [Encapsulated Streptococcus suis impairs optimal neutrophil functions which are not rescued by priming with colony-stimulating factors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296844) (Plos.org)
 
 ## 24-4 (measles)
+
+- [Victoria, Queensland join NSW and the ACT with measles health alerts as Australia faced with threat of outbreak](https://www.skynews.com.au/australia-news/victoria-queensland-join-nsw-and-the-act-with-measles-health-alerts-as-australia-faced-with-threat-of-outbreak/news-story/83f0e2e09fbad42d7d52b888b205bbec) (Sky News Australia)
+
+- [Europe faces a measles outbreak](https://www.bostonglobe.com/2024/01/24/world/europe-faces-measles-outbreak/) (The Boston Globe)
 
 - [What You Need To Know About Measles After WHO Sounds Alarm Over Killer Virus In Europe](https://www.forbes.com/sites/roberthart/2024/01/24/what-you-need-to-know-about-measles-after-who-sounds-alarm-over-killer-virus-in-europe/) (Forbes)
 
@@ -139,6 +143,12 @@ Source: [News API](https://newsapi.org/)
 - [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
+
+- [A novel computational pipeline for var gene expression augments the discovery of changes in the Plasmodium falciparum transcriptome during transition from in vivo to short-term in vitro culture](https://elifesciences.org/articles/87726) (Elifesciences.org)
+
+- [In Africa, world health officials roll out first routine malaria vaccine](https://www.npr.org/2024/01/24/1226713189/in-africa-world-health-officials-roll-out-first-routine-malaria-vaccine) (NPR)
+
+- [The malaria vaccine that just rolled out has a surprise benefit for kids](https://www.npr.org/sections/goatsandsoda/2024/01/24/1226387171/the-malaria-vaccine-that-just-rolled-out-has-a-surprise-benefit-for-kids) (NPR)
 
 - [Cameroon Begins First Malaria Vaccine Program](https://sciencebasedmedicine.org/cameroon-begins-first-malaria-vaccine-program/) (Sciencebasedmedicine.org)
 
@@ -272,6 +282,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (dengue)
 
+- [El Niño e altas temperaturas favorecem aumento de casos de dengue](https://valor.globo.com/brasil/noticia/2024/01/25/el-nino-e-altas-temperaturas-favorecem-aumento-de-casos-de-dengue.ghtml) (Globo)
+
+- [Primo do mosquito da dengue transmite bactéria comedora de carne rara](https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-24/primo-do-mosquito-da-dengue-transmite-bacteria-comedora-de-carne-rara.html) (Ig.com.br)
+
 - [GDF mobiliza órgãos para combate à dengue no Guará](https://jornaldebrasilia.com.br/brasilia/gdf-mobiliza-orgaos-para-combate-a-dengue-no-guara/) (Jornaldebrasilia.com.br)
 
 - [Timor-Leste regista 88 casos de dengue, 183 de chikungunya e sete de zika](https://observador.pt/2024/01/24/timor-leste-regista-88-casos-de-dengue-183-de-chikungunya-e-sete-de-zika/) (Observador.pt)
@@ -359,6 +373,8 @@ Source: [News API](https://newsapi.org/)
 - [Número de casos de dengue pode chegar a 5 milhões em 2024](https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html) (Ig.com.br)
 
 ## 24-4 (chikungunya)
+
+- [Casos de chikungunya crescem no Brasil, e mais de 3 mil pacientes podem estar infectados](https://noticias.r7.com/jr-na-tv/videos/casos-de-chikungunya-crescem-no-brasil-e-mais-de-3-mil-pacientes-podem-estar-infectados-24012024) (R7.com)
 
 - [Timor-Leste regista 88 casos de dengue, 183 de chikungunya e sete de zika](https://observador.pt/2024/01/24/timor-leste-regista-88-casos-de-dengue-183-de-chikungunya-e-sete-de-zika/) (Observador.pt)
 
@@ -1878,6 +1894,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
+- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
+
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -1901,6 +1919,8 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
+
+- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 

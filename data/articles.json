@@ -1,8 +1,152 @@
 {
-  "last_updated": "2024-01-25 19:05",
-  "count_articles_total": 932,
-  "count_articles_new": 14,
+  "last_updated": "2024-01-26 07:05",
+  "count_articles_total": 942,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 4585,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "El Ni\u00f1o e altas temperaturas favorecem aumento de casos de dengue",
+      "description": "Um corredor clim\u00e1tico acaba por contribuir para o aumento de casos da dengue n\u00e3o s\u00f3 no Brasil, mas em pa\u00edses vizinhos, diz infectologista",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/25/el-nino-e-altas-temperaturas-favorecem-aumento-de-casos-de-dengue.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-01-25 03:04:33",
+      "content": "As altera\u00e7\u00f5es clim\u00e1ticas provocadas pelo fen\u00f4meno conhecido como El Ni\u00f1o contribuem para infesta\u00e7\u00f5es por Aedes aegypti e para a explos\u00e3o de casos de dengue registrada no Brasil. Isso porque a combina\u2026 [+2355 chars]",
+      "retrievedAt": "2024-01-26 07:05:32.281463",
+      "internal_id": "004fa850cb0b97f8cd459b24ad529f33ff0ad9bbaf495c70a06c2f4674b4e0f9",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4584,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky News Australia",
+      "author": "Heloise Vyas",
+      "title": "Victoria, Queensland join NSW and the ACT with measles health alerts as Australia faced with threat of outbreak",
+      "description": "Three states are now on alert against a feared measles outbreak with fresh warnings issued for Victoria and Queensland after an initial case in New South Wales and the ACT.",
+      "url": "https://www.skynews.com.au/australia-news/victoria-queensland-join-nsw-and-the-act-with-measles-health-alerts-as-australia-faced-with-threat-of-outbreak/news-story/83f0e2e09fbad42d7d52b888b205bbec",
+      "urlToImage": "https://content.api.news/v3/images/bin/88d06ec440d29be003b320805a9c9015",
+      "publishedAt": "2024-01-25 02:28:45",
+      "content": "Three states are now on alert against a feared measles outbreak with fresh warnings issued for Victoria and Queensland after an initial case in New South Wales and the ACT. The Victorian Department \u2026 [+3815 chars]",
+      "retrievedAt": "2024-01-26 07:05:31.526407",
+      "internal_id": "f83793bee7f9bb6c18994e05b7d1788edd0b5019429c6b8617c7dc64e262af20",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4586,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Primo do mosquito da dengue transmite bact\u00e9ria comedora de carne rara",
+      "description": "O primeiro caso da \u00falcera de Buruli, uma doen\u00e7a bacteriana que causa a necrose da pele, foi h\u00e1 125 anos, mas ningu\u00e9m tinha certeza como ocorria a transmiss\u00e3o",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-24/primo-do-mosquito-da-dengue-transmite-bacteria-comedora-de-carne-rara.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/7f/xx/uu/7fxxuuevu9lkslbqtykt0p7vm.jpg",
+      "publishedAt": "2024-01-25 00:25:15",
+      "content": "H\u00e1 mais de 125 anos, casos da \u00falcera de Buruli s\u00e3o diagnosticados no mundo, mas, at\u00e9 hoje, pouco se sabia sobre as formas de transmiss\u00e3o da bact\u00e9ria rara Mycobacterium ulcerans , capaz de comer a ca\u2026 [+3632 chars]",
+      "retrievedAt": "2024-01-26 07:05:32.288091",
+      "internal_id": "20e9bf4735da5054da70e710b83cab147ce5a4935f0874e5be8a9af66b5786b4",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4589,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "a.cunnington@imperial.ac.uk (Anna Bachmann), a.cunnington@imperial.ac.uk (Aubrey J Cunnington), a.cunnington@imperial.ac.uk (Clare Andradi-Brown), a.cunnington@imperial.ac.uk (Emma Filtenborg Hocke), a.cunnington@imperial.ac.uk (Heidrun von Thien), a.cunnington@imperial.ac.uk (Helle Hansson), a.cunnington@imperial.ac.uk (Jake Baum), a.cunnington@imperial.ac.uk (Jan Stephan Wichers-Misterek), a.cunnington@imperial.ac.uk (Judith AM Scholz), a.cunnington@imperial.ac.uk (Michael F Duffy), a.cunnington@imperial.ac.uk (Thomas D Otto), a.cunnington@imperial.ac.uk (Thomas Lavstsen), a.cunnington@imperial.ac.uk (Tim Wolf Gilberger), a.cunnington@imperial.ac.uk (Yannick D H\u00f6ppner)",
+      "title": "A novel computational pipeline for var gene expression augments the discovery of changes in the Plasmodium falciparum transcriptome during transition from in vivo to short-term in vitro culture",
+      "description": "The pathogenesis of severe Plasmodium falciparum malaria involves cytoadhesive microvascular sequestration of infected erythrocytes, mediated by P. falciparum erythrocyte membrane protein 1 (PfEMP1). PfEMP1 variants are encoded by the highly polymorphic famil\u2026",
+      "url": "https://elifesciences.org/articles/87726",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-01-25 00:00:00",
+      "content": "The following is the authors response to the original reviews. eLife assessment: This important study represents a comprehensive computational analysis of Plasmodium falciparum gene expression, wit\u2026 [+44630 chars]",
+      "retrievedAt": "2024-01-26 07:05:33.818316",
+      "internal_id": "c56d2a7fc7c946d432c6fbe1e0b86db307435f0261a053dcbd6b9c7f3f488126",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 4588,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Nurith Aizenman",
+      "title": "In Africa, world health officials roll out first routine malaria vaccine",
+      "description": "Cameroon has officially rolled out the first malaria vaccine approved for routine vaccination, targeting children 6 months and older. It reduces severe disease by 30% among young kids.",
+      "url": "https://www.npr.org/2024/01/24/1226713189/in-africa-world-health-officials-roll-out-first-routine-malaria-vaccine",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2024-01-24 22:36:55",
+      "content": "Cameroon has officially rolled out the first malaria vaccine approved for routine vaccination, targeting children 6 months and older. It reduces severe disease by 30% among young kids.",
+      "retrievedAt": "2024-01-26 07:05:33.752594",
+      "internal_id": "32484a0c438263b53930a6bcfcfb63f551beca73191c03010d7366ed51582d3e",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4590,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Casos de chikungunya crescem no Brasil, e mais de 3 mil pacientes podem estar infectados",
+      "description": "Os casos de Chikungunya cresceram no Brasil nos \u00faltimos meses. Segundo o Minist\u00e9rio da Sa\u00fade, mais de 3 mil pacientes podem estar infectados e...",
+      "url": "https://noticias.r7.com/jr-na-tv/videos/casos-de-chikungunya-crescem-no-brasil-e-mais-de-3-mil-pacientes-podem-estar-infectados-24012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/24/65b1a2eb416eb976600017d9/8a1791b53fce47f3953cd07bd187a9ac__2466764_EPP_2401_JR_CASOS_CHIKUNGUNYA_thumb_thumb.jpg",
+      "publishedAt": "2024-01-24 21:18:31",
+      "content": "Os casos de Chikungunya cresceram no Brasil nos \u00faltimos meses. Segundo o Minist\u00e9rio da Sa\u00fade, mais de 3 mil pacientes podem estar infectados em todo o pa\u00eds. Mesmo aqueles que j\u00e1 se recuperaram da doe\u2026 [+68 chars]",
+      "retrievedAt": "2024-01-26 07:05:34.679324",
+      "internal_id": "2b138ea6fc01414ee49b65e71bb9edb1ddb97210115106c25c107fdf9f06bc0e",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4583,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Apoorva Mandavilli",
+      "title": "Europe faces a measles outbreak",
+      "description": "Measles, a disease preventable by vaccination, is resurgent in Europe and in Britain. Small outbreaks have also popped up in multiple parts of the United States.",
+      "url": "https://www.bostonglobe.com/2024/01/24/world/europe-faces-measles-outbreak/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/SZwK_F-tqMAEydhK99olkxq6COo=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/VXUCQCDE74TWZVOTGLBCZNDIZM.jpg",
+      "publishedAt": "2024-01-24 21:10:24",
+      "content": "Some cases of measles can be mild, but up to half of infected children may need medical attention, said Dr. David Sugerman, who leads the measles team at the Centers for Disease Control and Preventio\u2026 [+3276 chars]",
+      "retrievedAt": "2024-01-26 07:05:31.466255",
+      "internal_id": "8008d74826bb71dd05f0e9977a12af5570c12176a0deec6a5ad9a7b58c49fc63",
+      "publishedAtLabel": "Jan 24"
+    },
+    {
+      "id": 4587,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Simar Bajaj",
+      "title": "The malaria vaccine that just rolled out has a surprise benefit for kids",
+      "description": "A new malaria vaccine came to Cameroon this week and will be introduced in 20 additional countries. Experts stress that it's not a magic bullet. But they say it's a game-changer \u2014 with a bonus.",
+      "url": "https://www.npr.org/sections/goatsandsoda/2024/01/24/1226387171/the-malaria-vaccine-that-just-rolled-out-has-a-surprise-benefit-for-kids",
+      "urlToImage": "https://media.npr.org/assets/img/2024/01/24/06_2024-01-22t161450z_1692577991_rc21n5abwmm5_rtrmadp_3_health-malaria-africa-1-_wide-c49094184514279f0ec85957362c3296850654fe-s1400-c100.jpg",
+      "publishedAt": "2024-01-24 19:22:21",
+      "content": "A nurse prepares to administer a newly approved malaria vaccine, RTS,S, to an infant at the health center in Datcheka, Cameroon, on Jan. 22. Cameroon is the first country in the vaccine campaign. Pla\u2026 [+7174 chars]",
+      "retrievedAt": "2024-01-26 07:05:33.694114",
+      "internal_id": "c10e55a70a39f25053863a684301008c7cb3bc2e557cd4670690741c21edf271",
+      "publishedAtLabel": "Jan 24"
+    },
     {
       "id": 4569,
       "query": [
@@ -16824,6 +16968,42 @@
       "retrievedAt": "2023-12-12 07:05:46.750944",
       "internal_id": "c116a51cb6ff4fea02b93505cc7f7b086822052fe4eaf8b8eb613a769e41cd5c",
       "publishedAtLabel": "Dec 11"
+    },
+    {
+      "id": 3640,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Asianetnews.com",
+      "author": "Web Team",
+      "title": "'100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d46\u0d28\u0d4d\u0d28 \u0d05\u0d23\u0d41\u0d2c\u0d3e\u0d27; \u0d1c\u0d3e\u0d17\u0d4d\u0d30\u0d24 \u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d28\u0d3f\u0d30\u0d4d\u200d\u0d26\u0d47\u0d36\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d41\u0d15\u0d46\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d35\u0d15\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
+      "description": "\u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d3e\u0d23\u0d24\u0d4d\u0d30\u0d47 '100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d40\u0d1f\u0d4d \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d3e\u0d38\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d27\u0d3f\u0d15\u0d02 \u0d1a\u0d41\u0d2e \u0d28\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d28\u0d3f\u0d32\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d05\u0d35\u0d38\u0d4d\u0d25\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41",
+      "url": "https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95",
+      "urlToImage": "https://static-ai.asianetnews.com/images/01epy9ef8135ab8dte71vxnjb2/pneumonia--jpg_1200x630xt.jpg",
+      "publishedAt": "2023-12-10 12:45:52",
+      "content": "'100 ' . 19 . . . . . . '100 ' . 100 . , . . . . '100 ' . . 'Bordetella pertussis bacteria' '100 ' . . 1950 . . . . . , . '100 ' . . '100 ' . . . '100 ' . Also Read:- ' '?; ? ... \u2026 [+55 chars]",
+      "retrievedAt": "2023-12-11 19:05:24.793192",
+      "internal_id": "acf2edf9d18e841ea459b3181537b06547cad382f659d3c4f1f96c70fc7744ba",
+      "publishedAtLabel": "Dec 10"
+    },
+    {
+      "id": 3641,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ag\u00eancia Mural - Conte\u00fado Exclusivo",
+      "title": "Conhe\u00e7a Zika das Artes, de S\u00e3o Mateus, que assina capas de \u00e1lbuns do trap e rap",
+      "description": "Com est\u00e9tica que mistura t\u00e9cnicas de artes cl\u00e1ssicas ao mundo digital, artista ganha notoriedade no cen\u00e1rio musical",
+      "url": "https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1-zika-das-artes-na-perifacon-2023-credito-leu-britto-agencia-mural-(1)-ure13t557g36.jpg",
+      "publishedAt": "2023-12-10 08:00:20",
+      "content": "Com assinatura nas capas de \u00e1lbuns de renomados m\u00fasicos do universo do trap e do rap, o artista visual Kayo Mathias, 23, o Zika das Artes, de S\u00e3o Mateus, na zona leste de S\u00e3o Paulo, celebra um 2023 d\u2026 [+3286 chars]",
+      "retrievedAt": "2023-12-11 19:05:26.676231",
+      "internal_id": "a7015427e17347ed9b4d87bae7c063e7f102cccb9e7f341deb9675d0006bae7b",
+      "publishedAtLabel": "Dec 10"
     }
   ]
 }
