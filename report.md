@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 41
-- **Last harvest:** 2024-01-26 19:05
-- **Most recent article:** 2024-01-25 19:00:42
+- **New articles in last harvest:** 20
+- **Last harvest:** 2024-01-27 07:05
+- **Most recent article:** 2024-01-26 05:30:09
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 75 | 376 |
-| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 70 | 230 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 35 | 172 |
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 80 | 381 |
+| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 80 | 240 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 39 | 176 |
 | mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 67 |
-| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 5 | 42 |
+| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 5 | 43 |
+| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 7 | 36 |
 | meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 1 | 36 |
-| rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 6 | 35 |
 | chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 4 | 31 |
-| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 18 |
+| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 19 |
 | typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 1 | 8 |
 | leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
 | yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 5 |
@@ -54,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (rabies)
 
+- [Three die from rabies in Sarawak](https://www.thestar.com.my/news/nation/2024/01/26/three-die-from-rabies-in-sarawak) (The Star Online)
+
 - [Facial recognition app helps scientists identify rabies-vaccinated dogs](https://newatlas.com/good-thinking/facial-recognition-app-rabies-vaccinated-dogs/) (New Atlas)
 
 - [Dog facial recognition app may improve rabies vax efforts](https://www.futurity.org/dog-facial-recognition-app-rabies-vaccines-3170422/) (Futurity: Research News)
@@ -85,6 +87,14 @@ Source: [News API](https://newsapi.org/)
 - [Encapsulated Streptococcus suis impairs optimal neutrophil functions which are not rescued by priming with colony-stimulating factors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296844) (Plos.org)
 
 ## 24-4 (measles)
+
+- [Health Minister 'increasingly anxious' about possible measles outbreak](https://www.rnz.co.nz/news/political/507628/health-minister-increasingly-anxious-about-possible-measles-outbreak) (RNZ)
+
+- [As measles spreads in England, health authorities warn the outbreak could snowball](https://www.nbcnews.com/health/health-news/measles-outbreak-uk-europe-rcna135737) (NBC News)
+
+- [Measles cases have exploded in Europe as vaccinations decline. What to know - National | Globalnews.ca](https://globalnews.ca/news/10250361/measles-europe-rise-who/) (Global News)
+
+- ["La Belgique reste vulnérable aux épidémies de rougeole, il faut rester vigilant"](https://www.lalibre.be/archives-journal/2024/01/25/la-belgique-reste-vulnerable-aux-epidemies-de-rougeole-il-faut-rester-vigilant-F2SJYW7L75ERJM7KFUFE7NSJGQ/) (Lalibre.be)
 
 - [Michael Baker: Significant measles outbreak 'almost certain' this year](https://www.1news.co.nz/2024/01/26/michael-baker-significant-measles-outbreak-almost-certain-this-year/) (1news.co.nz)
 
@@ -158,9 +168,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (malaria)
 
+- [Why would anyone be against life-saving malaria bednets?](https://www.vox.com/future-perfect/2024/1/25/24047975/malaria-mosquito-bednets-prevention-fishing-marc-andreessen) (Vox)
+
 - [Le Cameroun déploie un vaccin antipaludique à grande échelle, “un pas monumental”](https://www.courrierinternational.com/article/sante-le-cameroun-deploie-un-vaccin-antipaludique-a-grande-echelle-un-pas-monumental) (Courrier International)
 
 - [Vaccine reduces all kinds of deaths among children — not just malaria deaths](https://www.npr.org/2024/01/25/1226791256/vaccine-reduces-all-kinds-of-deaths-among-children-not-just-malaria-deaths) (NPR)
+
+- [Un estudio avala una app para diagnosticar la malaria utilizando inteligencia artificial](https://www.infosalus.com/salud-investigacion/noticia-estudio-avala-app-diagnosticar-malaria-utilizando-inteligencia-artificial-20240125131159.html) (Infosalus.com)
 
 - [La malaria si diffonde nelle terre degli yanomami](https://www.internazionale.it/magazine/leonardo-zvarick/2024/01/25/la-malaria-si-diffonde-nelle-terre-degli-yanomami) (Internazionale.it)
 
@@ -172,11 +186,17 @@ Source: [News API](https://newsapi.org/)
 
 - [The malaria vaccine that just rolled out has a surprise benefit for kids](https://www.npr.org/sections/goatsandsoda/2024/01/24/1226387171/the-malaria-vaccine-that-just-rolled-out-has-a-surprise-benefit-for-kids) (NPR)
 
+- [600 tys. zgonów rocznie na jednym tylko kontynencie, 80 proc. to dzieci. Pomoc w drodze](https://geekweek.interia.pl/nauka/news-600-tys-zgonow-rocznie-na-jednym-tylko-kontynencie-80-proc-t,nId,7289021) (Interia.pl)
+
+- [Have there been efforts to integrate malaria and schistosomiasis prevention and control programs? A scoping review of the literature](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011886) (Plos.org)
+
 - [Cameroon Begins First Malaria Vaccine Program](https://sciencebasedmedicine.org/cameroon-begins-first-malaria-vaccine-program/) (Sciencebasedmedicine.org)
 
 - [Two Updates on the Value of Vaccines](https://marginalrevolution.com/marginalrevolution/2024/01/two-notes-on-the-value-of-vaccines.html) (Marginalrevolution.com)
 
 - [Pic de cas de malaria parmi les équipages de Brussels Airlines après un relogement “sous tentes” près de Kinshasa](https://www.lalibre.be/economie/emploi/2024/01/24/pic-de-cas-de-malaria-parmi-les-equipages-de-brussels-airlines-apres-un-relogement-sous-tentes-pres-de-kinshasa-CVNRFKRU3VDHFFDLZBP7MDCDAE/) (Lalibre.be)
+
+- [Verdens første vaccinationsprogram mod malaria til spædbørn: 'Et meget stort skridt for folkesundheden'](https://www.dr.dk/nyheder/udland/verdens-foerste-vaccinationsprogram-mod-malaria-til-spaedboern-et-meget-stort-skridt) (Www.dr.dk)
 
 - [Impfung gegen Malaria auch in Deutschland?](https://www.telepolis.de/features/Impfung-gegen-Malaria-auch-in-Deutschland-9606651.html) (Telepolis.de)
 
@@ -184,15 +204,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Na 60 jaar onderzoek is het eindelijk zover: kindervaccin tegen malaria wordt breed uitgerold in Afrika](https://www.gva.be/cnt/dmf20240123_97941764) (Www.gva.be)
 
+- [Crystal Fighters pospone su gira por España después de que su cantante haya contraído la malaria](https://www.elperiodico.com/es/ocio-y-cultura/20240123/crystal-fighters-pospone-gira-octubre-97263304) (Elperiodico.com)
+
+- [Na 60 jaar onderzoek is het eindelijk zover: kindervaccin tegen malaria wordt breed uitgerold in Afrika](https://www.standaard.be/cnt/dmf20240123_96412970) (Standaard.be)
+
 - [Cameroon starts world’s first malaria vaccine program for children](http://thegrio.com/2024/01/23/cameroon-starts-worlds-first-malaria-vaccine-program-for-children/) (TheGrio)
 
 - [A new understanding of how your blood type influences your health](https://www.newscientist.com/article/mg26134751-500-a-new-understanding-of-how-your-blood-type-influences-your-health/) (New Scientist)
 
 - [Die erste große Impfkampagne gegen Malaria](https://www.diepresse.com/18023284/die-erste-grosse-impfkampagne-gegen-malaria) (Diepresse.com)
 
+- [Cameroon launches historic large-scale malaria jab campaign](https://www.france24.com/en/video/20240123-cameroon-launches-historic-large-scale-malaria-jab-campaign) (FRANCE 24 English)
+
 - [Passo storico anti-malaria, in Camerun vaccinazioni di massa](https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/01/22/passo-storico-anti-malaria-in-camerun-vaccinazioni-di-massa_835dc4c3-18f0-475b-a6b3-2dc01b94ca59.html) (ANSA.it)
 
 - [Cameroon begins routine malaria shots in global milestone](https://www.moneycontrol.com/news/world/cameroon-begins-routine-malaria-shots-in-global-milestone-12107221.html) (Moneycontrol)
+
+- [Cameroon: Cameroon Rolls Out First Routine Malaria Vaccination Program for Children](https://allafrica.com/stories/202401230009.html) (AllAfrica - Top Africa News)
+
+- [Malaria Child Vaccination Campaign Kicks Off in Cameroon](https://allafrica.com/stories/202401230006.html) (AllAfrica - Top Africa News)
 
 - [Learning English Podcast](https://learningenglish.voanews.com/a/7431715.html) (VOA News)
 
@@ -303,6 +333,16 @@ Source: [News API](https://newsapi.org/)
 - [Curious about puppy’s vaccines, spay plan](https://www.bostonherald.com/2024/01/21/curious-about-puppys-vaccines-spay-plan/) (Boston Herald)
 
 ## 24-4 (dengue)
+
+- [DF é a região com mais casos proporcionais de dengue. Veja ranking](https://www.metropoles.com/distrito-federal/df-e-a-regiao-com-mais-casos-proporcionais-de-dengue-veja-ranking) (Metropoles.com)
+
+- [Dengue: DF não nomeava agentes de saúde e vigilância há 11 anos](https://www.metropoles.com/distrito-federal/dengue-df-nao-nomeava-agentes-de-saude-e-vigilancia-ha-11-anos) (Metropoles.com)
+
+- [Ceilândia ganha espaço para atender pessoas com sintomas de dengue](https://jornaldebrasilia.com.br/brasilia/ceilandia-ganha-espaco-para-atender-pessoas-com-sintomas-de-dengue/) (Jornaldebrasilia.com.br)
+
+- [Vacinação, dengue e obesidade infantil serão focos do Saúde na Escola](https://jornaldebrasilia.com.br/brasilia/vacinacao-dengue-e-obesidade-infantil-serao-focos-do-saude-na-escola/) (Jornaldebrasilia.com.br)
+
+- [Brasil em alerta devido ao aumento de casos de dengue](https://observador.pt/2024/01/25/brasil-em-alerta-devido-ao-aumento-de-casos-de-dengue/) (Observador.pt)
 
 - [Veja a íntegra do decreto que declara situação de emergência no DF](https://www.metropoles.com/colunas/grande-angular/veja-a-integra-do-decreto-que-declara-situacao-de-emergencia-no-df) (Metropoles.com)
 
@@ -1976,6 +2016,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
+- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
+
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -1999,6 +2041,8 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
+
+- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 
