@@ -1,8 +1,459 @@
 {
-  "last_updated": "2024-01-27 07:05",
-  "count_articles_total": 1003,
-  "count_articles_new": 20,
+  "last_updated": "2024-01-27 19:05",
+  "count_articles_total": 1027,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 4657,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Lauren Boland",
+      "title": "Health officials keeping 'very close watch' on measles in Ireland as cases soar in Europe",
+      "description": "EU member states reported 42,200 cases last year, almost 45 times the 941 cases identified in 2022.",
+      "url": "https://www.thejournal.ie/measles-cases-europe-vaccine-6283051-Jan2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6283051/river/?height=400&version=6283113",
+      "publishedAt": "2024-01-26 18:55:36",
+      "content": "HEALTH OFFICIALS IN Ireland are keeping very close watch on measles as the number of cases around Europe has risen significantly. Minister for Health Stephen Donnelly has said the uptake of the meas\u2026 [+1755 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.438926",
+      "internal_id": "d6b5c1497e65e417b5e650a65a37b7bba65c9a9d56b13c7a73f726b674c37c04",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4666,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jonatas Martins",
+      "title": "Saiba quem \u00e9 o empres\u00e1rio do DF que morreu ap\u00f3s ter dengue hemorr\u00e1gica",
+      "description": "Al\u00e9m de empres\u00e1rio, Felipe Francisco de Carvalho Mar\u00edn era baterista da banda brasiliense Elefante na Sala e tamb\u00e9m trabalhou como arquiteto",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/saiba-quem-e-o-empresario-do-df-que-morreu-apos-ter-dengue-hemorragica",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/26152249/empresario-morre-com-denguehemorragica-no-df-2.jpeg",
+      "publishedAt": "2024-01-26 18:55:11",
+      "content": "O empres\u00e1rio Felipe Francisco de Carvalho Mar\u00edn (foto em destaque), 33 anos, morreu na noite dessa quinta-feira (25/1), devido a um quadro de dengue hemorr\u00e1gica. A v\u00edtima era baterista da banda brasi\u2026 [+5703 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.987920",
+      "internal_id": "168d984527aff46524e18a064562e375ae61586bfd62ac18d9cccb3b0bcc2350",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4671,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Giovanna Inoue, do R7, em Bras\u00edlia",
+      "title": "Justi\u00e7a do DF autoriza agentes de combate \u00e0 dengue a entrar em im\u00f3veis sem permiss\u00e3o do morador",
+      "description": "Pedido foi feito pela Procuradoria-Geral do DF; agentes precisam estar identificados e usando crach\u00e1 e roupas adequadas",
+      "url": "https://noticias.r7.com/brasilia/justica-do-df-autoriza-agentes-de-combate-a-dengue-a-entrar-em-imoveis-sem-permissao-do-morador-26012024",
+      "urlToImage": "https://img.r7.com/images/agente-de-vigilancia-26012024183759779?crop=851x479+-59+53",
+      "publishedAt": "2024-01-26 18:43:00",
+      "content": "Agentes poder\u00e3o entrar em im\u00f3veis fechados Pedro Ventura/Ag\u00eancia Bras\u00edlia A Justi\u00e7a do Distrito Federal autorizou nesta sexta-feira (26) que agentes que atuem no combate \u00e0 dengue entrem em im\u2026 [+2022 chars]",
+      "retrievedAt": "2024-01-27 19:05:38.064704",
+      "internal_id": "232129836a44edb6bcea94d765bd685ac160c114f42e170b7346a665df01f1c8",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4661,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Dengue hemorr\u00e1gica: o que \u00e9 e sintomas do quadro mais grave da doen\u00e7a",
+      "description": "Veja sintomas da dengue hemorr\u00e1gica e entenda como ela acomete o organismo, confundindo defesas e levando a uma maior chance de morte",
+      "url": "https://www.metropoles.com/saude/dengue-hemorragica-sintomas-o-que-e",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/20094907/Dengue-compressed-1200x800.jpg",
+      "publishedAt": "2024-01-26 18:18:43",
+      "content": "O DF vive um boom de casos de dengue: foram mais de 16 mil apenas nos 20 primeiros dias do ano. Em menos de um m\u00eas, foram registradas quatro mortes por causa da doen\u00e7a na capital a \u00faltima delas foi a\u2026 [+6011 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.953844",
+      "internal_id": "85405af3decbef6b4f587fcb13ec8d21629b0f4a0f31c960e96d8ca962ea6f59",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4667,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: onze cidades de SP receber\u00e3o a vacina; veja quais",
+      "description": "Os munic\u00edpios escolhidos est\u00e3o localizados no Alto Tiet\u00ea, e as escolhas foram feitas de acordo com a situa\u00e7\u00e3o epidemiol\u00f3gica",
+      "url": "https://saude.ig.com.br/2024-01-26/cidades-sao-paulo-vacina-dengue-lista.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c1/e4/d1/c1e4d1oh0uh1d020x4568fo7s.jpg",
+      "publishedAt": "2024-01-26 17:42:59",
+      "content": "Moradores de onze munic\u00edpios da regi\u00e3o do Alto Tiet\u00ea v\u00e3o receber a vacina contra a dengue, segundo uma lista divulgada pelo Minist\u00e9rio da Sa\u00fade. Al\u00e9m das cidades paulistas, outras mais de 500 cidade\u2026 [+1869 chars]",
+      "retrievedAt": "2024-01-27 19:05:38.010091",
+      "internal_id": "20305d67f5efdf491152337acc0f480a9d9ffeff50641f073ab1fd9c97584cd0",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4674,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Crean una aplicaci\u00f3n con inteligencia artificial para diagnosticar la malaria",
+      "description": "El programa ser\u00e1 puesto en marcha en las zonas donde la dolencia es end\u00e9mica, principalmente en \u00c1frica.",
+      "url": "https://www.montevideo.com.uy/Salud/Crean-una-aplicacion-con-inteligencia-artificial-para-diagnosticar-la-malaria-uc877832",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201606/_W933_80/569220.png",
+      "publishedAt": "2024-01-26 17:23:00",
+      "content": "Un equipo de investigadores ha creado un sistema a partir de inteligencia artificial que combina una aplicaci\u00f3n m\u00f3vil con un microscopio robotizado de bajo coste y que sirve para diagnosticar la m\u2026 [+2334 chars]",
+      "retrievedAt": "2024-01-27 19:05:38.748238",
+      "internal_id": "4118722de07c2f034653c74d4e90db9521e237f641f45c4fd93c05e21dab3d4d",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4668,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Da Ag\u00eancia Brasil",
+      "title": "Casos de dengue crescem 587% no estado do Rio de Janeiro",
+      "description": "Vacina contra a doen\u00e7a chegar\u00e1 \u00e0 popula\u00e7\u00e3o a partir do pr\u00f3ximo m\u00eas; p\u00fablico-alvo \u00e9 formado por crian\u00e7as e jovens de 10 a 14 anos",
+      "url": "https://noticias.r7.com/rio-de-janeiro/casos-de-dengue-crescem-587-no-estado-do-rio-de-janeiro-26012024",
+      "urlToImage": "https://img.r7.com/images/r7rio-012024-dengue-mosquito-16012024142910733",
+      "publishedAt": "2024-01-26 16:42:51",
+      "content": "Foram registrados 9.963 casos prov\u00e1veis Arquivo/Ag\u00eancia Brasil Boletim semanal do CIS (Centro de Intelig\u00eancia em Sa\u00fade) sobre o panorama da dengue informa que o estado do Rio de Janeiro conti\u2026 [+6452 chars]",
+      "retrievedAt": "2024-01-27 19:05:38.037795",
+      "internal_id": "383d660660777b2f89297a94ea0e1af0580378184a021cb0d3edb54092a8ce9f",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4672,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7, Edis Henrique Peres e Giovanna Inoue, em Bras\u00edlia",
+      "title": "Combate \u00e0 dengue no Distrito Federal vai ter 56 Mais M\u00e9dicos, 300 militares e apoio da OPAS",
+      "description": "DF registrou 16.628 casos prov\u00e1veis de dengue entre os dias 1\u00ba e 20 de janeiro, o que equivale a uma m\u00e9dia de 34 registros por hora.",
+      "url": "https://noticias.r7.com/brasilia/combate-a-dengue-no-distrito-federal-vai-ter-56-mais-medicos-300-militares-e-apoio-da-opas-26012024",
+      "urlToImage": "https://img.r7.com/images/secretaria-de-saude-lucilene-florencio-26012024162057714?crop=844x475+52+9",
+      "publishedAt": "2024-01-26 16:26:13",
+      "content": "DF registrou 16.628 casos prov\u00e1veis de dengue Reprodu\u00e7\u00e3o / RECORD O combate \u00e0 dengue no Distrito Federal vai ter o apoio de 56 profissionais do Mais M\u00e9dicos, 300 militares para visitas \u00e0s r\u2026 [+3127 chars]",
+      "retrievedAt": "2024-01-27 19:05:38.073327",
+      "internal_id": "5d6d76aa9506ed734c217b6a5a26ab8e09794f97d09d416e3dcf629bdb51b3eb",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4662,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Ap\u00f3s explos\u00e3o de casos, Defesa Civil emite alerta contra dengue no DF",
+      "description": "Alerta pede que as pessoas eliminem locais de \u00e1gua parada e, em caso de risco, acionem a Defesa Civil. DF j\u00e1 registrou 3 mortes por dengue",
+      "url": "https://www.metropoles.com/distrito-federal/apos-explosao-de-casos-defesa-civil-emite-alerta-contra-dengue-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/20094907/Dengue-compressed-1200x800.jpg",
+      "publishedAt": "2024-01-26 15:36:55",
+      "content": "A Defesa Civil do Distrito Federal emitiu um alerta contra a dengue nesta sexta-feira (26/1). \u00c9 o primeiro comunicado do tipo enviado pelo \u00f3rg\u00e3o ap\u00f3s a explos\u00e3o de casos da doen\u00e7a na capital federal.\u2026 [+1237 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.957285",
+      "internal_id": "44722c39c07a65466ace9d8688218910a84801381c52d515acd0fd73f20bdf5b",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4670,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Infectologista explica como identificar sintomas de dengue",
+      "description": "Entre os sintomas mais comuns est\u00e3o dores de cabe\u00e7a e atr\u00e1s dos olhos, febre e manchas pelo corpo. Nos casos mais graves, como a dengue hemorr...",
+      "url": "https://noticias.r7.com/record-news/videos/infectologista-explica-como-identificar-sintomas-de-dengue-26012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/26/65b3f0f8c012addd42000297/67f7fba0c9d949f6b6b8a16f1bf23c0c__Infectologista_explica_como_identificar_sintomas_de_dengue_thumb_thumb.jpg",
+      "publishedAt": "2024-01-26 15:33:44",
+      "content": "Entre os sintomas mais comuns est\u00e3o dores de cabe\u00e7a e atr\u00e1s dos olhos, febre e manchas pelo corpo. Nos casos mais graves, como a dengue hemorr\u00e1gica , pode haver dor abdominal, v\u00f4mito, sonol\u00eancia, ton\u2026 [+152 chars]",
+      "retrievedAt": "2024-01-27 19:05:38.056763",
+      "internal_id": "79cd68875f20f7dd02cd486634bc1e9654519ae3c2fb9b80c275dae1fe58b573",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4658,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Ireland at risk of measles outbreak due to fall in MMR jab uptake, Stephen Donnelly warns",
+      "description": "Ireland is vulnerable to measles outbreaks due to a fall in the uptake fo the MMR vaccine, Health Minister Stephen Donnelly warned today.",
+      "url": "https://www.independent.ie/irish-news/ireland-at-risk-of-measles-outbreak-due-to-fall-in-mmr-jab-uptake-stephen-donnelly-warns/a1074375153.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/RVTZiH8ueRUkR_mjWOie6P2_IKk=/13x0:2087x1383/2074x1383/prod-mh-ireland/1405dca0-1fa2-470a-81f1-bba2c4d70305/c36e8568-1f83-4d0d-a31e-c0ed67db6df4/1405dca0-1fa2-470a-81f1-bba2c4d70305.jpg",
+      "publishedAt": "2024-01-26 15:17:38",
+      "content": "Ireland is vulnerable to measles outbreaks due to a fall in the uptake fo the MMR vaccine, Health Minister Stephen Donnelly warned today.Mr Donnelly said he is to bring a memo to government to work o\u2026 [+2108 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.449372",
+      "internal_id": "a8fb359e82090e978a9102628bf5b9319fa2651e600fc71da50af476029a675c",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4664,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mirelle Pinheiro",
+      "title": "Empres\u00e1rio morre com dengue hemorr\u00e1gica em hospital particular do DF",
+      "description": "Nos primeiros 20 dias de 2024, Secretaria de Sa\u00fade do DF contabilizou 16.079 casos de dengue e tr\u00eas mortes provocadas pela doen\u00e7a",
+      "url": "https://www.metropoles.com/distrito-federal/na-mira/empresario-morre-com-dengue-hemorragica-em-hospital-particular-do-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/25105813/DF-e-prioridade-para-vacinacao-contra-Dengue.jpg",
+      "publishedAt": "2024-01-26 15:00:46",
+      "content": "Um paciente que estava internado no Hospital Santa L\u00facia, na Asa Sul, morreu \u00e0s 20h25 dessa quinta-feira (25/1), em decorr\u00eancia de um quadro de dengue hemorr\u00e1gica. Trata-se do empres\u00e1rio Felipe Franc\u2026 [+4986 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.969192",
+      "internal_id": "fc62ab3f90886fefee09ff9143d74fff8a02fb7e8906a93a76a7d92de39e0e4e",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4673,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Cameroon\u2019s babies get world-first RTS,S malaria vaccine",
+      "description": "The RTS,S vaccine has been hailed as a potential game-changer in the fight against malaria.",
+      "url": "https://www.bbc.co.uk/news/av/world-africa-68089404",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2515/production/_132439490_p0h7bfbr.jpg",
+      "publishedAt": "2024-01-26 14:50:47",
+      "content": "Cameroon has kicked off a mass rollout of the world's first WHO-approved malaria vaccine, aiming to vaccinate 250,000 children in 2024 and 2025. Babies at a health centre near the capital Yaound\u00e9 w\u2026 [+144 chars]",
+      "retrievedAt": "2024-01-27 19:05:38.719372",
+      "internal_id": "3ae7aab7f9723d832fca41c763ae838a6294b5c0cafdf39178fb2e9b0adcb302",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4665,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "Metr\u00f3poles entrevista ao vivo secret\u00e1ria de Sa\u00fade Lucilene Flor\u00eancio",
+      "description": "M\u00e9dica est\u00e1 \u00e0 frente das a\u00e7\u00f5es de combate \u00e0 dengue no momento em que Distrito Federal enfrenta crise devido \u00e0 explos\u00e3o de casos da doen\u00e7a",
+      "url": "https://www.metropoles.com/colunas/grande-angular/metropoles-entrevista-ao-vivo-secretaria-de-saude-lucilene-florencio",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/05/08181938/Lucilene-Florencio-2.jpg",
+      "publishedAt": "2024-01-26 14:49:50",
+      "content": "O Metr\u00f3poles entrevista a secret\u00e1ria de Sa\u00fade do Distrito Federal, Lucilene Flor\u00eancio, nesta sexta-feira (26/1). Assista \u00e0 conversa ao vivo, \u00e0s 14h30, no canal do portal no YouTube. Pernambucana, Lu\u2026 [+1067 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.972500",
+      "internal_id": "c83a134eb368c4f2a71f5ddba31a3e4b5f23e1017a99e6bf56d40aa4609ae0b4",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4669,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Rio Grande do Sul \u00e9 exclu\u00eddo da lista de primeiras doses da vacina contra dengue",
+      "description": "O Rio Grande do Sul foi exclu\u00eddo da lista de estados brasileiros que receber\u00e3o as primeiras ...",
+      "url": "https://www.terra.com.br/noticias/rio-grande-do-sul-e-excluido-da-lista-de-primeiras-doses-da-vacina-contra-dengue,0716f2280cdc588c89c8628845cf159aquu0d2uc.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/26/914678282-mosquito-dengue.jpg",
+      "publishedAt": "2024-01-26 14:36:07",
+      "content": "O Rio Grande do Sul foi exclu\u00eddo da lista de estados brasileiros que receber\u00e3o as primeiras doses da vacina contra a dengue. Essa decis\u00e3o, anunciada pelo Minist\u00e9rio da Sa\u00fade nesta quinta-feira (25), \u2026 [+1606 chars]",
+      "retrievedAt": "2024-01-27 19:05:38.041280",
+      "internal_id": "86e5b6419754e518166d4b6242ab062e76fdab899195ecd1bd37d2c0ff7dc517",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4676,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Marcell Crispim, Ignasi Bofill Verdaguer, Agust\u00edn Hern\u00e1ndez, Thales Kronenberger, \u00c0ngel Fenollar, Lydia Fumiko Yamaguchi, Mar\u00eda P\u00eda Alberione, Miriam Ramirez, Sandra Souza de Oliveira, Alejandro Miguel Katzin, Luis Izquierdo",
+      "title": "Beyond the MEP Pathway: A novel kinase required for prenol utilization by malaria parasites",
+      "description": "Author summary Falciparum malaria is a potentially fatal disease caused by the parasite Plasmodium falciparum. Antimalarials such as fosmidomycin and clindamycin target a critical pathway in the parasite, crucial for producing certain substances essential for\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011557",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011557.g007&size=inline",
+      "publishedAt": "2024-01-26 14:00:00",
+      "content": "Abstract A proposed treatment for malaria is a combination of fosmidomycin and clindamycin. Both compounds inhibit the methylerythritol 4-phosphate (MEP) pathway, the parasitic source of farnesyl an\u2026 [+98204 chars]",
+      "retrievedAt": "2024-01-27 19:05:38.766934",
+      "internal_id": "7c7518b7c95ee3ddabdd4287eb2f9c2f8d9297e93cedfaa136caafadfb812320",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4659,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Friday, January 26, 2024",
+      "description": "Assisted living facilities, drug shortages and costs, health industry money woes, Medicare, measles, long covid, and more are in the news.",
+      "url": "https://kffhealthnews.org/morning-briefing/friday-january-26-2024/",
+      "urlToImage": null,
+      "publishedAt": "2024-01-26 13:44:05",
+      "content": "Longer Looks: Interesting Reads You Might Have Missed Each week, KFF Health News finds longer stories for you to enjoy. This week's selections include stories on Obamacare, organ donation, vitamins,\u2026 [+5817 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.459524",
+      "internal_id": "dbab14f4bae5bf1d33ebb457d56bc7beab04d6e76167b5d061759118f7c5efa4",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4656,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Michael Snyder",
+      "title": "Why Has The Number Of Measles Cases Been Rising So Rapidly All Over The World?",
+      "description": "Have you noticed that stories about measles have been popping up in the news a lot lately? At first, I didn\u2019t pay much attention, but then I decided to look into what is going on, and I was quite alarmed by what I found.",
+      "url": "https://www.shtfplan.com/headline-news/why-has-the-number-of-measles-cases-been-rising-so-rapidly-all-over-the-world",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2024/01/measles-1024x680.jpg",
+      "publishedAt": "2024-01-26 13:30:54",
+      "content": "This article was originally published by Michael Snyder at The Economic Collapse Blog. Have you noticed that stories about measles have been popping up in the news a lot lately? At first, I didnt \u2026 [+7923 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.424795",
+      "internal_id": "31a0d8a6995cd16099e8945c8496e61218cc6fa84052bf002d33ee6c0bc00ee3",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4653,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Rhiannon Williams",
+      "title": "The Download: testing wastewater for measles, and the cost of nature",
+      "description": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How wastewater could offer an early warning system for measles Measles is back with a vengeance. In the UK, where only 85\u2026",
+      "url": "https://www.technologyreview.com/2024/01/26/1087258/the-download-testing-wastewater-for-measles-and-the-cost-of-nature/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/01/240123_wastewatermeasles.jpg?resize=1200,600",
+      "publishedAt": "2024-01-26 13:10:00",
+      "content": "Measles is back with a vengeance. In the UK, where only 85% of school-age children have received two doses of the MMR vaccine, as many as 300 people have contracted the disease since October. And cas\u2026 [+1203 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.394998",
+      "internal_id": "bd0b3d17fe91cbb13a1b6b5c579516e849851c461fee349d5ff3ceee2d718c39",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4663,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "Ibaneis exonera subsecret\u00e1rio ap\u00f3s explos\u00e3o de casos de dengue no DF",
+      "description": "Ibaneis Rocha exonerou subsecret\u00e1rio de Vigil\u00e2ncia \u00e0 Sa\u00fade, Divino Valero Martins. Fabiano dos Anjos Pereira Martins assume o cargo",
+      "url": "https://www.metropoles.com/distrito-federal/ibaneis-exonera-subsecretario-apos-explosao-de-casos-de-dengue-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2021/04/12182108/divino-valero.jpg",
+      "publishedAt": "2024-01-26 11:34:29",
+      "content": "Em meio ao aumento de casos de dengue na capital do pa\u00eds, o governador do Distrito Federal, Ibaneis Rocha (MDB), exonerou o subsecret\u00e1rio de Vigil\u00e2ncia \u00e0 Sa\u00fade, Divino Valero Martins (foto em destaqu\u2026 [+1423 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.961148",
+      "internal_id": "c231c451a13b9cdb40d6c07779b40676dad8db4d1078f04d3925480db61d7c52",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4660,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Greg Allen",
+      "title": "New gene-editing tools may help wipe out mosquito-borne diseases",
+      "description": "Scientists say gene-editing technology may eradicate a mosquito in the U.S. that spreads dengue and other diseases. Concerns remain about the possible environmental impact of bioengineered mosquitoes.",
+      "url": "https://www.npr.org/2024/01/26/1226110915/gene-editing-bioengineering-mosquito-disease-dengue-malaria-oxitec",
+      "urlToImage": "https://media.npr.org/assets/img/2024/01/25/gettyimages-1373420996_wide-33ccd417bece026b43c5a477c81f8d7a8b8dccca-s1400-c100.jpg",
+      "publishedAt": "2024-01-26 10:01:14",
+      "content": "Health officials at Sarasota County Mosquito Management Services study specimens of anopheles mosquitoes that cause malaria, in Sarasota, Fla. on June 30, 2023. The U.S. Centers for Disease Control a\u2026 [+4595 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.928257",
+      "internal_id": "fc7f5844cd9b8201f4ff7a39704e987a57ede4f4de1ca5bf29738d4879cb87d5",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4654,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "MIT Technology Review",
+      "author": "Cassandra Willyard",
+      "title": "How wastewater could offer an early warning system for measles",
+      "description": "Measles is back with a vengeance. In the UK, where only 85% of school-age children have received two doses of the MMR vaccine, as many as 300 people have contracted the disease since October. And in the US, an outbreak has infected nine people in Philadelphia\u2026",
+      "url": "https://www.technologyreview.com/2024/01/26/1087215/how-wastewater-could-offer-an-early-warning-system-for-measles/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2024/01/240123_wastewatermeasles.jpg?resize=1200,600",
+      "publishedAt": "2024-01-26 10:00:00",
+      "content": "Maybe theres a solution. The US developed a vast wastewater sampling network to detect covid during the pandemic. Could we leverage that network to provide an early warning system for measles? I act\u2026 [+2415 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.405148",
+      "internal_id": "8b804bf24cfe9fa9896e73d73a7e9b2d691f7123ce4b9dedd0c4aa0335cae51c",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4675,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "mail@thenewdawnliberia.com (New Dawn)",
+      "title": "Liberia Receives 112,000 Doses of Malaria Vaccine",
+      "description": "[New Dawn] The Ministry of Health in collaboration with Gavi, the Vaccine Alliance, World Health Organization (WHO), and the United Nations Children's Fund (UNICEF), has announced the arrival of 112,000 doses of RTS, S malaria vaccine - the first ever in Libe\u2026",
+      "url": "https://allafrica.com/stories/202401260043.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-01-26 08:28:16",
+      "content": "The Ministry of Health in collaboration with Gavi, the Vaccine Alliance, World Health Organization (WHO), and the United Nations Children's Fund (UNICEF), has announced the arrival of 112,000 doses o\u2026 [+3313 chars]",
+      "retrievedAt": "2024-01-27 19:05:38.763580",
+      "internal_id": "e45f82612d99460a808693696a8ee6b25ef9913356777c68dcc7e6b154957a8a",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4652,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Thaipbsworld.com",
+      "author": "Kitipat Chuensukjit",
+      "title": "Whooping cough spreading among children in 3 southern provinces",
+      "description": "Whooping cough (pertussis) is spreading among small children in Thailand\u2019s three southernmost provinces, with more than 1,000 cases being recorded so far. Of these, seven have died. Yala provincial governor,... The post Whooping cough spreading among children\u2026",
+      "url": "https://www.thaipbsworld.com/whooping-cough-spreading-among-children-in-3-southern-provinces/",
+      "urlToImage": "https://www.thaipbsworld.com/wp-content/uploads/2024/01/main-2024-01-26T150302.940-600x338.png",
+      "publishedAt": "2024-01-26 08:10:00",
+      "content": "Whooping cough (pertussis) is spreading among small children in Thailands three southernmost provinces, with more than 1,000 cases being recorded so far. Of these, seven have died. Yala provincial g\u2026 [+1084 chars]",
+      "retrievedAt": "2024-01-27 19:05:36.791715",
+      "internal_id": "0b1e02b8c51bf7d86f6f03a70ba5d247ce286c49be3a2dd4287d564c974be2e3",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4655,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sciencebasedmedicine.org",
+      "author": "Jonathan Howard",
+      "title": "Science Based Satire: The CDC\u2019s Unyielding, Unscientific Push to Vaccinate Children Against COVID Caused a Measles Outbreak in Europe",
+      "description": "I warned you this would happen. The post Science Based Satire: The CDC\u2019s Unyielding, Unscientific Push to Vaccinate Children Against COVID Caused a Measles Outbreak in Europe first appeared on Science-Based Medicine.",
+      "url": "https://sciencebasedmedicine.org/science-based-satire-the-cdcs-unyielding-unscientific-push-to-vaccinate-children-against-covid-is-causing-measles-in-england/",
+      "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2029/01/Picture1.jpg",
+      "publishedAt": "2024-01-26 08:06:00",
+      "content": "\u201cVery soon, we will likely see real outbreaks of measles and other virus thought controlled by vaccination.\u201d I warned you that vaccinating children against COVID would damage confidence in routine v\u2026 [+7132 chars]",
+      "retrievedAt": "2024-01-27 19:05:37.412653",
+      "internal_id": "ee251b7445d57b941a513ae37d0b5dc5c8499f9abbf2fab5346f6cdf677e8fee",
+      "publishedAtLabel": "Jan 26"
+    },
     {
       "id": 4639,
       "query": [
@@ -37,6 +488,24 @@
       "content": "No dia a dia, os agentes Comunit\u00e1rios de Sa\u00fade (ACSs) e os agentes de Vigil\u00e2ncia Ambiental (AVAs) s\u00e3o respons\u00e1veis por diferentes pap\u00e9is no combate \u00e0 prolifera\u00e7\u00e3o da dengue no Distrito Federal. Apesa\u2026 [+2674 chars]",
       "retrievedAt": "2024-01-27 07:05:44.384709",
       "internal_id": "bd069d367ea60297e1f73e6de071b18974cb1d8d7e367c81154f31695b0b3ff5",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4677,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Single dose typhoid conjugate vaccine (TCV) provides lasting efficacy in children",
+      "description": "A single dose of the typhoid conjugate vaccine, Typbar TCV, provides lasting efficacy in preventing typhoid fever in children ages 9 months to 12 years old, according to a new study.",
+      "url": "https://www.sciencedaily.com/releases/2024/01/240126001934.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-01-26 05:19:34",
+      "content": "A single dose of the typhoid conjugate vaccine, Typbar TCV\u00ae, provides lasting efficacy in preventing typhoid fever in children ages 9 months to 12 years old, according to a new study conducted by res\u2026 [+3039 chars]",
+      "retrievedAt": "2024-01-27 19:05:39.592035",
+      "internal_id": "81f63cd2f388045b4f1a6c7de876f3812b183ddec941c5d4a3a6c3bf3ae6a618",
       "publishedAtLabel": "Jan 26"
     },
     {
@@ -18066,42 +18535,6 @@
       "retrievedAt": "2023-12-12 07:05:46.750944",
       "internal_id": "c116a51cb6ff4fea02b93505cc7f7b086822052fe4eaf8b8eb613a769e41cd5c",
       "publishedAtLabel": "Dec 11"
-    },
-    {
-      "id": 3640,
-      "query": [
-        "pertussis"
-      ],
-      "source_id": null,
-      "source_name": "Asianetnews.com",
-      "author": "Web Team",
-      "title": "'100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d46\u0d28\u0d4d\u0d28 \u0d05\u0d23\u0d41\u0d2c\u0d3e\u0d27; \u0d1c\u0d3e\u0d17\u0d4d\u0d30\u0d24 \u0d2a\u0d3e\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d23\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d28\u0d3f\u0d30\u0d4d\u200d\u0d26\u0d47\u0d36\u0d35\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d2f\u0d41\u0d15\u0d46\u0d2f\u0d3f\u0d32\u0d4d\u200d \u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d35\u0d15\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
-      "description": "\u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23 \u0d1c\u0d32\u0d26\u0d4b\u0d37\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d\u200d\u0d31\u0d46 \u0d24\u0d28\u0d4d\u0d28\u0d46 \u0d32\u0d15\u0d4d\u0d37\u0d23\u0d19\u0d4d\u0d19\u0d33\u0d3f\u0d32\u0d3e\u0d23\u0d24\u0d4d\u0d30\u0d47 '100 \u0d26\u0d3f\u0d28 \u0d1a\u0d41\u0d2e'\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d19\u0d4d\u0d19\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d4d. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d32\u0d4d\u200d \u0d2a\u0d3f\u0d28\u0d4d\u0d28\u0d40\u0d1f\u0d4d \u0d2e\u0d42\u0d28\u0d4d\u0d28\u0d4d \u0d2e\u0d3e\u0d38\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d27\u0d3f\u0d15\u0d02 \u0d1a\u0d41\u0d2e \u0d28\u0d40\u0d23\u0d4d\u0d1f\u0d41\u0d28\u0d3f\u0d32\u0d4d\u200d\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d05\u0d35\u0d38\u0d4d\u0d25\u0d2f\u0d41\u0d23\u0d4d\u0d1f\u0d3e\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41",
-      "url": "https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95",
-      "urlToImage": "https://static-ai.asianetnews.com/images/01epy9ef8135ab8dte71vxnjb2/pneumonia--jpg_1200x630xt.jpg",
-      "publishedAt": "2023-12-10 12:45:52",
-      "content": "'100 ' . 19 . . . . . . '100 ' . 100 . , . . . . '100 ' . . 'Bordetella pertussis bacteria' '100 ' . . 1950 . . . . . , . '100 ' . . '100 ' . . . '100 ' . Also Read:- ' '?; ? ... \u2026 [+55 chars]",
-      "retrievedAt": "2023-12-11 19:05:24.793192",
-      "internal_id": "acf2edf9d18e841ea459b3181537b06547cad382f659d3c4f1f96c70fc7744ba",
-      "publishedAtLabel": "Dec 10"
-    },
-    {
-      "id": 3641,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Ag\u00eancia Mural - Conte\u00fado Exclusivo",
-      "title": "Conhe\u00e7a Zika das Artes, de S\u00e3o Mateus, que assina capas de \u00e1lbuns do trap e rap",
-      "description": "Com est\u00e9tica que mistura t\u00e9cnicas de artes cl\u00e1ssicas ao mundo digital, artista ganha notoriedade no cen\u00e1rio musical",
-      "url": "https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/08/1-zika-das-artes-na-perifacon-2023-credito-leu-britto-agencia-mural-(1)-ure13t557g36.jpg",
-      "publishedAt": "2023-12-10 08:00:20",
-      "content": "Com assinatura nas capas de \u00e1lbuns de renomados m\u00fasicos do universo do trap e do rap, o artista visual Kayo Mathias, 23, o Zika das Artes, de S\u00e3o Mateus, na zona leste de S\u00e3o Paulo, celebra um 2023 d\u2026 [+3286 chars]",
-      "retrievedAt": "2023-12-11 19:05:26.676231",
-      "internal_id": "a7015427e17347ed9b4d87bae7c063e7f102cccb9e7f341deb9675d0006bae7b",
-      "publishedAtLabel": "Dec 10"
     }
   ]
 }

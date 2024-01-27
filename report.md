@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2024-01-27 07:05
-- **Most recent article:** 2024-01-26 05:30:09
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-01-27 19:05
+- **Most recent article:** 2024-01-26 18:55:36
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-50 | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 80 | 381 |
-| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 80 | 240 |
-| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 39 | 176 |
+| dengue | 41 | 69 | 37 | 2 | 52 | 35 | 65 | 93 | 394 |
+| malaria | 24 | 24 | 22 | 2 | 11 | 51 | 26 | 85 | 245 |
+| measles | 7 | 28 | 7 | 1 | 8 | 25 | 61 | 46 | 183 |
 | mpox | 24 | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 67 |
-| zika | 9 | 5 | 1 | 0 | 7 | 8 | 8 | 5 | 43 |
+| zika | 8 | 5 | 1 | 0 | 7 | 8 | 8 | 5 | 42 |
 | rabies | 7 | 2 | 7 | 1 | 2 | 5 | 5 | 7 | 36 |
 | meningitis | 8 | 4 | 4 | 0 | 2 | 11 | 6 | 1 | 36 |
 | chikungunya | 11 | 4 | 3 | 1 | 2 | 6 | 0 | 4 | 31 |
-| pertussis | 4 | 2 | 0 | 0 | 5 | 2 | 5 | 1 | 19 |
-| typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 1 | 8 |
+| pertussis | 3 | 2 | 0 | 0 | 5 | 2 | 5 | 2 | 19 |
+| typhoid | 0 | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 9 |
 | leptospirosis | 0 | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
 | yersinia | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 5 |
 
@@ -50,6 +50,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (typhoid)
 
+- [Single dose typhoid conjugate vaccine (TCV) provides lasting efficacy in children](https://www.sciencedaily.com/releases/2024/01/240126001934.htm) (Science Daily)
+
 - [Study reveals how some bacterial infections become chronic](https://phys.org/news/2024-01-reveals-bacterial-infections-chronic.html) (Phys.Org)
 
 ## 24-4 (rabies)
@@ -70,6 +72,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (pertussis)
 
+- [Whooping cough spreading among children in 3 southern provinces](https://www.thaipbsworld.com/whooping-cough-spreading-among-children-in-3-southern-provinces/) (Thaipbsworld.com)
+
 - [Guidance: Whooping cough: diagnosis information](https://www.gov.uk/government/publications/whooping-cough-diagnosis-information) (Www.gov.uk)
 
 ## 24-4 (mpox)
@@ -87,6 +91,20 @@ Source: [News API](https://newsapi.org/)
 - [Encapsulated Streptococcus suis impairs optimal neutrophil functions which are not rescued by priming with colony-stimulating factors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296844) (Plos.org)
 
 ## 24-4 (measles)
+
+- [Health officials keeping 'very close watch' on measles in Ireland as cases soar in Europe](https://www.thejournal.ie/measles-cases-europe-vaccine-6283051-Jan2024/) (TheJournal.ie)
+
+- [Ireland at risk of measles outbreak due to fall in MMR jab uptake, Stephen Donnelly warns](https://www.independent.ie/irish-news/ireland-at-risk-of-measles-outbreak-due-to-fall-in-mmr-jab-uptake-stephen-donnelly-warns/a1074375153.html) (Independent.ie)
+
+- [Friday, January 26, 2024](https://kffhealthnews.org/morning-briefing/friday-january-26-2024/) (Kffhealthnews.org)
+
+- [Why Has The Number Of Measles Cases Been Rising So Rapidly All Over The World?](https://www.shtfplan.com/headline-news/why-has-the-number-of-measles-cases-been-rising-so-rapidly-all-over-the-world) (Shtfplan.com)
+
+- [The Download: testing wastewater for measles, and the cost of nature](https://www.technologyreview.com/2024/01/26/1087258/the-download-testing-wastewater-for-measles-and-the-cost-of-nature/) (MIT Technology Review)
+
+- [How wastewater could offer an early warning system for measles](https://www.technologyreview.com/2024/01/26/1087215/how-wastewater-could-offer-an-early-warning-system-for-measles/) (MIT Technology Review)
+
+- [Science Based Satire: The CDC’s Unyielding, Unscientific Push to Vaccinate Children Against COVID Caused a Measles Outbreak in Europe](https://sciencebasedmedicine.org/science-based-satire-the-cdcs-unyielding-unscientific-push-to-vaccinate-children-against-covid-is-causing-measles-in-england/) (Sciencebasedmedicine.org)
 
 - [Health Minister 'increasingly anxious' about possible measles outbreak](https://www.rnz.co.nz/news/political/507628/health-minister-increasingly-anxious-about-possible-measles-outbreak) (RNZ)
 
@@ -167,6 +185,16 @@ Source: [News API](https://newsapi.org/)
 - [TikTok campaign needed for MMR jab, says Jess Phillips MP](https://www.bbc.co.uk/news/uk-england-birmingham-68037150) (BBC News)
 
 ## 24-4 (malaria)
+
+- [Crean una aplicación con inteligencia artificial para diagnosticar la malaria](https://www.montevideo.com.uy/Salud/Crean-una-aplicacion-con-inteligencia-artificial-para-diagnosticar-la-malaria-uc877832) (Montevideo.com.uy)
+
+- [Cameroon’s babies get world-first RTS,S malaria vaccine](https://www.bbc.co.uk/news/av/world-africa-68089404) (BBC News)
+
+- [Beyond the MEP Pathway: A novel kinase required for prenol utilization by malaria parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011557) (Plos.org)
+
+- [New gene-editing tools may help wipe out mosquito-borne diseases](https://www.npr.org/2024/01/26/1226110915/gene-editing-bioengineering-mosquito-disease-dengue-malaria-oxitec) (NPR)
+
+- [Liberia Receives 112,000 Doses of Malaria Vaccine](https://allafrica.com/stories/202401260043.html) (AllAfrica - Top Africa News)
 
 - [Why would anyone be against life-saving malaria bednets?](https://www.vox.com/future-perfect/2024/1/25/24047975/malaria-mosquito-bednets-prevention-fishing-marc-andreessen) (Vox)
 
@@ -333,6 +361,32 @@ Source: [News API](https://newsapi.org/)
 - [Curious about puppy’s vaccines, spay plan](https://www.bostonherald.com/2024/01/21/curious-about-puppys-vaccines-spay-plan/) (Boston Herald)
 
 ## 24-4 (dengue)
+
+- [Saiba quem é o empresário do DF que morreu após ter dengue hemorrágica](https://www.metropoles.com/distrito-federal/na-mira/saiba-quem-e-o-empresario-do-df-que-morreu-apos-ter-dengue-hemorragica) (Metropoles.com)
+
+- [Justiça do DF autoriza agentes de combate à dengue a entrar em imóveis sem permissão do morador](https://noticias.r7.com/brasilia/justica-do-df-autoriza-agentes-de-combate-a-dengue-a-entrar-em-imoveis-sem-permissao-do-morador-26012024) (R7.com)
+
+- [Dengue hemorrágica: o que é e sintomas do quadro mais grave da doença](https://www.metropoles.com/saude/dengue-hemorragica-sintomas-o-que-e) (Metropoles.com)
+
+- [Dengue: onze cidades de SP receberão a vacina; veja quais](https://saude.ig.com.br/2024-01-26/cidades-sao-paulo-vacina-dengue-lista.html) (Ig.com.br)
+
+- [Casos de dengue crescem 587% no estado do Rio de Janeiro](https://noticias.r7.com/rio-de-janeiro/casos-de-dengue-crescem-587-no-estado-do-rio-de-janeiro-26012024) (R7.com)
+
+- [Combate à dengue no Distrito Federal vai ter 56 Mais Médicos, 300 militares e apoio da OPAS](https://noticias.r7.com/brasilia/combate-a-dengue-no-distrito-federal-vai-ter-56-mais-medicos-300-militares-e-apoio-da-opas-26012024) (R7.com)
+
+- [Após explosão de casos, Defesa Civil emite alerta contra dengue no DF](https://www.metropoles.com/distrito-federal/apos-explosao-de-casos-defesa-civil-emite-alerta-contra-dengue-no-df) (Metropoles.com)
+
+- [Infectologista explica como identificar sintomas de dengue](https://noticias.r7.com/record-news/videos/infectologista-explica-como-identificar-sintomas-de-dengue-26012024) (R7.com)
+
+- [Empresário morre com dengue hemorrágica em hospital particular do DF](https://www.metropoles.com/distrito-federal/na-mira/empresario-morre-com-dengue-hemorragica-em-hospital-particular-do-df) (Metropoles.com)
+
+- [Metrópoles entrevista ao vivo secretária de Saúde Lucilene Florêncio](https://www.metropoles.com/colunas/grande-angular/metropoles-entrevista-ao-vivo-secretaria-de-saude-lucilene-florencio) (Metropoles.com)
+
+- [Rio Grande do Sul é excluído da lista de primeiras doses da vacina contra dengue](https://www.terra.com.br/noticias/rio-grande-do-sul-e-excluido-da-lista-de-primeiras-doses-da-vacina-contra-dengue,0716f2280cdc588c89c8628845cf159aquu0d2uc.html) (Terra.com.br)
+
+- [Ibaneis exonera subsecretário após explosão de casos de dengue no DF](https://www.metropoles.com/distrito-federal/ibaneis-exonera-subsecretario-apos-explosao-de-casos-de-dengue-no-df) (Metropoles.com)
+
+- [New gene-editing tools may help wipe out mosquito-borne diseases](https://www.npr.org/2024/01/26/1226110915/gene-editing-bioengineering-mosquito-disease-dengue-malaria-oxitec) (NPR)
 
 - [DF é a região com mais casos proporcionais de dengue. Veja ranking](https://www.metropoles.com/distrito-federal/df-e-a-regiao-com-mais-casos-proporcionais-de-dengue-veja-ranking) (Metropoles.com)
 
@@ -2016,8 +2070,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Mosquito-borne disease risk looms for UK - study](https://www.bbc.co.uk/news/health-67654008) (BBC News)
 
-- [Conheça Zika das Artes, de São Mateus, que assina capas de álbuns do trap e rap](https://www.terra.com.br/visao-do-corre/conheca-zika-das-artes-de-sao-mateus-que-assina-capas-de-albuns-do-trap-e-rap,6c60a4d16ec3fdc6dd2c93dcb29775e80z7ntplh.html) (Terra.com.br)
-
 ## 23-50 (rabies)
 
 - [Identification of dynamical changes of rabies transmission under quarantine: Community-based measures towards rabies elimination](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011187) (Plos.org)
@@ -2041,8 +2093,6 @@ Source: [News API](https://newsapi.org/)
 - [Panacea Biotec shares rise 5% on pentavalent vaccine launch in India](https://www.moneycontrol.com/news/business/stocks/panacea-biotec-shares-rise-5-on-pentavalent-vaccine-launch-in-india-11906291.html) (Moneycontrol)
 
 - [Molecular Evolution and Increasing Macrolide Resistance of Bordetella pertussis, Shanghai, China, 2016–2022](https://wwwnc.cdc.gov/eid/article/30/1/22-1588_article) (Cdc.gov)
-
-- ['100 ദിന ചുമ'യെന്ന അണുബാധ; ജാഗ്രത പാലിക്കണമെന്ന നിര്‍ദേശവുമായി യുകെയില്‍ ആരോഗ്യവകുപ്പ്](https://www.asianetnews.com/health/100-day-cough-infection-cases-on-surge-in-uk-health-department-warns-public-s5fy95) (Asianetnews.com)
 
 ## 23-50 (mpox)
 
