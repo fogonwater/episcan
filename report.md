@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-01-28 07:06
-- **Most recent article:** 2024-01-27 05:41:41
+- **New articles in last harvest:** 13
+- **Last harvest:** 2024-01-28 19:05
+- **Most recent article:** 2024-01-27 18:07:03
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 69 | 37 | 2 | 52 | 35 | 65 | 107 | 367 |
-| malaria | 23 | 22 | 2 | 11 | 51 | 26 | 86 | 221 |
-| measles | 28 | 7 | 1 | 8 | 25 | 61 | 52 | 182 |
-| mpox | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 43 |
-| zika | 5 | 1 | 0 | 7 | 8 | 8 | 5 | 34 |
+| dengue | 67 | 37 | 2 | 52 | 35 | 65 | 117 | 375 |
+| malaria | 22 | 22 | 2 | 11 | 51 | 26 | 86 | 220 |
+| measles | 28 | 7 | 1 | 8 | 25 | 61 | 54 | 184 |
+| mpox | 13 | 12 | 0 | 2 | 2 | 8 | 4 | 41 |
+| zika | 3 | 1 | 0 | 7 | 8 | 8 | 7 | 34 |
 | rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 31 |
 | meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 27 |
-| chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 4 | 20 |
+| chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 9 | 25 |
 | pertussis | 2 | 0 | 0 | 5 | 2 | 5 | 2 | 16 |
 | typhoid | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 9 |
 | leptospirosis | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
@@ -31,6 +31,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-4 (zika)
+
+- [Ministério da Saúde deixa Pernambuco fora da vacinação contra a dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-27/ministerio-da-saude-deixa-pernambuco-fora-da-estrategia-de-vacinacao-contra-a-dengue.html) (Ig.com.br)
+
+- [Boom de casos de dengue faz Minas Gerais decretar estado de emergência](https://www.metropoles.com/brasil/dengue-faz-minas-gerais-decretar-estado-de-emergencia) (Metropoles.com)
 
 - [“UN'EVENTUALE NUOVA PANDEMIA RISCHIA DI COGLIERCI IMPREPARATI” - IL RAPPORTO DELL'INTERNATIONAL PANDEMIC PREPAREDNESS SECRETARIAT EVIDENZIA I LIMITI DELLA PREVENZIONE: “SI È FATTO POCO SUGLI ALTRI AGENTI PATOGENI CON POTENZIALE PANDEMICO IDENTIFICATI DALL'OMS: AGENTI COME ZIKA, IL VIRUS NIPAH, LA FEBBRE DI LASSA. GLI INVESTIMENTI SONO INSUFFICIENTI E C’E’ UN CALO DELL'ATTENZIONE ALLA PREPARAZIONE ALLE PANDEMIE. SERVONO RISORSE E UN QUADRO NORMATIVO CHE FACILITI LA COLLABORAZIONE TRA PUBBLICO, PRIVATO E TERZO SETTORE”](https://www.dagospia.com/rubrica-39/salute/ldquo-39-eventuale-nuova-pandemia-rischia-coglierci-382416.htm) (Dagospia.com)
 
@@ -95,6 +99,10 @@ Source: [News API](https://newsapi.org/)
 - [Encapsulated Streptococcus suis impairs optimal neutrophil functions which are not rescued by priming with colony-stimulating factors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296844) (Plos.org)
 
 ## 24-4 (measles)
+
+- [Measles is spreading in England and health authorities warn the outbreak could snowball](https://endtimeheadlines.org/2024/01/measles-is-spreading-in-england-and-health-authorities-warn-the-outbreak-could-snowball/) (Endtimeheadlines.org)
+
+- [Measles cases are mounting in the US as the UK declares a ‘national incident’ over the disease. What parents need to know to keep their kids safe](https://fortune.com/well/2024/01/27/measles-cases-rise-us-uk-world-symptoms-vaccine-hesitancy-covid-pandemic/) (Fortune)
 
 - [Victoria’s Department of Health lists multiple exposure sites where two measles visited over one week](https://www.skynews.com.au/australia-news/victorias-department-of-health-lists-multiple-exposure-sites-in-melbourne-where-two-measles-cases-visited-over-one-week/news-story/36a5cf061e5e1d1bb2450123b88be49e) (Sky News Australia)
 
@@ -380,6 +388,26 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (dengue)
 
+- [Governo de Minas Gerais decreta situação de emergência por alta de casos de dengue e chikungunya](https://www.terra.com.br/vida-e-estilo/saude/governo-de-minas-gerais-decreta-situacao-de-emergencia-por-alta-de-casos-de-dengue-e-chikungunya,8e43792dafa354767e6d57a7db62ec7fpyxir57a.html) (Terra.com.br)
+
+- [Ministério da Saúde deixa Pernambuco fora da vacinação contra a dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-27/ministerio-da-saude-deixa-pernambuco-fora-da-estrategia-de-vacinacao-contra-a-dengue.html) (Ig.com.br)
+
+- [Minas Gerais é o 4º estado a decretar emergência em razão da dengue](https://veja.abril.com.br/coluna/maquiavel/minas-gerais-e-o-4o-estado-a-decretar-emergencia-em-razao-da-dengue) (Abril.com.br)
+
+- [Boom de casos de dengue faz Minas Gerais decretar estado de emergência](https://www.metropoles.com/brasil/dengue-faz-minas-gerais-decretar-estado-de-emergencia) (Metropoles.com)
+
+- [MG decreta emergência por dengue e chikungunya](https://saude.ig.com.br/2024-01-27/mg-decreta-estado-emergencia-sengue.html) (Ig.com.br)
+
+- [Dengue: Ibaneis vê “crise muito grande” e pede ações rápidas de pastas](https://www.metropoles.com/distrito-federal/dengue-ibaneis-ve-crise-muito-grande-e-pede-acoes-rapidas-de-pastas) (Metropoles.com)
+
+- [Governo de Minas decreta situação de emergência por causa do aumento de casos de dengue](https://noticias.r7.com/minas-gerais/governo-de-minas-decreta-situacao-de-emergencia-por-causa-do-aumento-de-casos-de-dengue-27012024) (R7.com)
+
+- [Entenda a situação da dengue no país e saiba quem pode se vacinar pelo SUS](https://noticias.r7.com/saude/dengue-duvidas-vacinacao-sus-casos-morte-27012024) (R7.com)
+
+- [Dengue: Porto Alegre registra 15 casos da doença desde o inicio do ano](https://www.terra.com.br/noticias/dengue-porto-alegre-registra-15-casos-da-doenca-desde-o-inicio-do-ano,c84f717c91b017cf14528ad14c3f965br8gmxjwk.html) (Terra.com.br)
+
+- [Vacina da Dengue: 11 cidades de São Paulo receberão imunizante a partir de fevereiro](https://recordtv.r7.com/fala-brasil/videos/vacina-da-dengue-11-cidades-de-sao-paulo-receberao-imunizante-a-partir-de-fevereiro-27012024) (R7.com)
+
 - [DF registra mais uma morte por dengue; vítima é psicóloga de 29 anos](https://www.metropoles.com/distrito-federal/df-registra-mais-uma-morte-por-dengue-vitima-e-psicologa-de-29-anos) (Metropoles.com)
 
 - [Dengue em SP: casos dobram na capital e acendem alerta entre médicos](https://www.metropoles.com/sao-paulo/dengue-em-sp-casos-dobram-na-capital-e-acendem-alerta-entre-medicos) (Metropoles.com)
@@ -595,6 +623,16 @@ Source: [News API](https://newsapi.org/)
 - [Número de casos de dengue pode chegar a 5 milhões em 2024](https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html) (Ig.com.br)
 
 ## 24-4 (chikungunya)
+
+- [Governo de Minas Gerais decreta situação de emergência por alta de casos de dengue e chikungunya](https://www.terra.com.br/vida-e-estilo/saude/governo-de-minas-gerais-decreta-situacao-de-emergencia-por-alta-de-casos-de-dengue-e-chikungunya,8e43792dafa354767e6d57a7db62ec7fpyxir57a.html) (Terra.com.br)
+
+- [Boom de casos de dengue faz Minas Gerais decretar estado de emergência](https://www.metropoles.com/brasil/dengue-faz-minas-gerais-decretar-estado-de-emergencia) (Metropoles.com)
+
+- [MG decreta emergência por dengue e chikungunya](https://saude.ig.com.br/2024-01-27/mg-decreta-estado-emergencia-sengue.html) (Ig.com.br)
+
+- [Minas Gerais declara situação de emergência devido a casos de dengue e chikungunya](https://www.terra.com.br/noticias/brasil/politica/minas-gerais-declara-situacao-de-emergencia-devido-a-casos-de-dengue-e-chikungunya,66e35f584ad060d9b765bc4b8dc80cecdh9ong8r.html) (Terra.com.br)
+
+- [Governo de Minas decreta situação de emergência por causa do aumento de casos de dengue](https://noticias.r7.com/minas-gerais/governo-de-minas-decreta-situacao-de-emergencia-por-causa-do-aumento-de-casos-de-dengue-27012024) (R7.com)
 
 - [Casos de chikungunya crescem no Brasil, e mais de 3 mil pacientes podem estar infectados](https://noticias.r7.com/jr-na-tv/videos/casos-de-chikungunya-crescem-no-brasil-e-mais-de-3-mil-pacientes-podem-estar-infectados-24012024) (R7.com)
 
@@ -1768,10 +1806,6 @@ Source: [News API](https://newsapi.org/)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
-
 ## 23-51 (typhoid)
 
 - [Mother reunites with missing son on traffic signal after seven years, found him begging in Pakistan](https://economictimes.indiatimes.com/news/international/world-news/mother-reunites-with-missing-son-on-traffic-signal-after-seven-years-found-him-begging-in-pakistan/articleshow/106213574.cms) (The Times of India)
@@ -1819,10 +1853,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO warns mpox could spread internationally again](https://www.dw.com/en/who-warns-mpox-could-spread-internationally-again/a-67754081) (DW (English))
 
 - [WHO warns mpox could spread around the world again](https://www.dw.com/en/who-warns-mpox-could-spread-around-the-world-again/a-67754081) (DW (English))
-
-- [Congo-Kinshasa: L'OMS s'inquiète de la propagation rapide de l'épidémie de Mpox, aussi appelé «variole du singe»](https://fr.allafrica.com/stories/202312170213.html) (AllAfrica - Top Africa News)
-
-- [Congo-Brazzaville: Forte extension de l'épidémie de mpox](https://fr.allafrica.com/stories/202312170165.html) (AllAfrica - Top Africa News)
 
 ## 23-51 (meningitis)
 
@@ -1935,8 +1965,6 @@ Source: [News API](https://newsapi.org/)
 - [“Un buen parásito es aquel que no mata a su hospedador”](https://www.muyinteresante.es/ciencia/62663.html) (Muyinteresante.es)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
-
-- [Un científico africano podría acabar con la malaria editando el ADN de un mosquito](https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/) (CNN)
 
 ## 23-51 (leptospirosis)
 
@@ -2079,10 +2107,6 @@ Source: [News API](https://newsapi.org/)
 - [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://allafrica.com/stories/202312180007.html) (AllAfrica - Top Africa News)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
 
 ## 23-51 (chikungunya)
 
