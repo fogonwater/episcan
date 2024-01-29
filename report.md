@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2024-01-28 19:05
-- **Most recent article:** 2024-01-27 18:07:03
+- **New articles in last harvest:** 7
+- **Last harvest:** 2024-01-29 07:06
+- **Most recent article:** 2024-01-28 01:09:13
 
 ---
 
@@ -10,25 +10,29 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | Total |
-|--|-|-|-|-|-|-|-|-|
-| dengue | 67 | 37 | 2 | 52 | 35 | 65 | 117 | 375 |
-| malaria | 22 | 22 | 2 | 11 | 51 | 26 | 86 | 220 |
-| measles | 28 | 7 | 1 | 8 | 25 | 61 | 54 | 184 |
-| mpox | 13 | 12 | 0 | 2 | 2 | 8 | 4 | 41 |
-| zika | 3 | 1 | 0 | 7 | 8 | 8 | 7 | 34 |
-| rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 31 |
-| meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 27 |
-| chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 9 | 25 |
-| pertussis | 2 | 0 | 0 | 5 | 2 | 5 | 2 | 16 |
-| typhoid | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 9 |
-| leptospirosis | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 7 |
-| yersinia | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 5 |
+| Disease | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| dengue | 69 | 37 | 2 | 52 | 35 | 65 | 121 | 0 | 381 |
+| malaria | 23 | 22 | 2 | 11 | 51 | 26 | 86 | 1 | 222 |
+| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 0 | 186 |
+| mpox | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 0 | 43 |
+| zika | 5 | 1 | 0 | 7 | 8 | 8 | 7 | 0 | 36 |
+| rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 0 | 31 |
+| meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 0 | 27 |
+| chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 0 | 26 |
+| pertussis | 2 | 0 | 0 | 5 | 2 | 5 | 2 | 0 | 16 |
+| typhoid | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 0 | 9 |
+| leptospirosis | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 0 | 7 |
+| yersinia | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-5 (malaria)
+
+- [Sella Cruz Azul su primera victoria del Clausura 2024](https://www.reforma.com/sella-cruz-azul-su-primer-triunfo-del-clausura-2024/ar2747624) (Reforma.com)
 
 ## 24-4 (zika)
 
@@ -99,6 +103,10 @@ Source: [News API](https://newsapi.org/)
 - [Encapsulated Streptococcus suis impairs optimal neutrophil functions which are not rescued by priming with colony-stimulating factors](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296844) (Plos.org)
 
 ## 24-4 (measles)
+
+- [CDC warns health care workers to be on alert for measles amid rising number of cases](https://abcnews.go.com/Health/cdc-warns-health-care-workers-alert-measles-amid/story?id=106737650) (ABC News)
+
+- ['His eyes were swollen': Mother whose baby caught measles calls for MMR jab to be offered sooner](https://news.sky.com/story/mother-whose-baby-caught-measles-calls-for-mmr-jab-to-be-offered-earlier-than-one-year-13058229) (Sky.com)
 
 - [Measles is spreading in England and health authorities warn the outbreak could snowball](https://endtimeheadlines.org/2024/01/measles-is-spreading-in-england-and-health-authorities-warn-the-outbreak-could-snowball/) (Endtimeheadlines.org)
 
@@ -388,6 +396,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-4 (dengue)
 
+- [Saiba quem era psicóloga de 29 anos que morreu por dengue no DF](https://www.metropoles.com/distrito-federal/saiba-quem-era-psicologa-de-29-anos-que-morreu-por-dengue-no-df) (Metropoles.com)
+
+- [VÍDEOS: Jornal da EPTV 2 de Campinas deste sábado, 27 de janeiro de 2024](https://g1.globo.com/sp/campinas-regiao/playlist/videos-jornal-da-eptv-2-campinas-deste-sabado-27-de-janeiro-de-2024.ghtml) (Globo)
+
+- [SP já registrou 4 mortes por dengue em 2024; veja em quais cidades](https://www.metropoles.com/sao-paulo/sp-ja-registrou-4-mortes-por-dengue-em-2024-veja-em-quais-cidades) (Metropoles.com)
+
+- [Dengue e chikungunya levam Minas Gerais a decretar emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/01/27/dengue-e-chikungunya-levam-minas-gerais-a-decretar-emergencia.ghtml) (Globo)
+
 - [Governo de Minas Gerais decreta situação de emergência por alta de casos de dengue e chikungunya](https://www.terra.com.br/vida-e-estilo/saude/governo-de-minas-gerais-decreta-situacao-de-emergencia-por-alta-de-casos-de-dengue-e-chikungunya,8e43792dafa354767e6d57a7db62ec7fpyxir57a.html) (Terra.com.br)
 
 - [Ministério da Saúde deixa Pernambuco fora da vacinação contra a dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-27/ministerio-da-saude-deixa-pernambuco-fora-da-estrategia-de-vacinacao-contra-a-dengue.html) (Ig.com.br)
@@ -623,6 +639,8 @@ Source: [News API](https://newsapi.org/)
 - [Número de casos de dengue pode chegar a 5 milhões em 2024](https://saude.ig.com.br/2024-01-21/numero-casos-dengue-chegar-5-milhoes-2024.html) (Ig.com.br)
 
 ## 24-4 (chikungunya)
+
+- [Dengue e chikungunya levam Minas Gerais a decretar emergência](https://valor.globo.com/valor-data/bolsas/brasil/noticia/2024/01/27/dengue-e-chikungunya-levam-minas-gerais-a-decretar-emergencia.ghtml) (Globo)
 
 - [Governo de Minas Gerais decreta situação de emergência por alta de casos de dengue e chikungunya](https://www.terra.com.br/vida-e-estilo/saude/governo-de-minas-gerais-decreta-situacao-de-emergencia-por-alta-de-casos-de-dengue-e-chikungunya,8e43792dafa354767e6d57a7db62ec7fpyxir57a.html) (Terra.com.br)
 
@@ -1806,6 +1824,10 @@ Source: [News API](https://newsapi.org/)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
+
 ## 23-51 (typhoid)
 
 - [Mother reunites with missing son on traffic signal after seven years, found him begging in Pakistan](https://economictimes.indiatimes.com/news/international/world-news/mother-reunites-with-missing-son-on-traffic-signal-after-seven-years-found-him-begging-in-pakistan/articleshow/106213574.cms) (The Times of India)
@@ -1853,6 +1875,10 @@ Source: [News API](https://newsapi.org/)
 - [WHO warns mpox could spread internationally again](https://www.dw.com/en/who-warns-mpox-could-spread-internationally-again/a-67754081) (DW (English))
 
 - [WHO warns mpox could spread around the world again](https://www.dw.com/en/who-warns-mpox-could-spread-around-the-world-again/a-67754081) (DW (English))
+
+- [Congo-Kinshasa: L'OMS s'inquiète de la propagation rapide de l'épidémie de Mpox, aussi appelé «variole du singe»](https://fr.allafrica.com/stories/202312170213.html) (AllAfrica - Top Africa News)
+
+- [Congo-Brazzaville: Forte extension de l'épidémie de mpox](https://fr.allafrica.com/stories/202312170165.html) (AllAfrica - Top Africa News)
 
 ## 23-51 (meningitis)
 
@@ -1965,6 +1991,8 @@ Source: [News API](https://newsapi.org/)
 - [“Un buen parásito es aquel que no mata a su hospedador”](https://www.muyinteresante.es/ciencia/62663.html) (Muyinteresante.es)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
+
+- [Un científico africano podría acabar con la malaria editando el ADN de un mosquito](https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/) (CNN)
 
 ## 23-51 (leptospirosis)
 
@@ -2107,6 +2135,10 @@ Source: [News API](https://newsapi.org/)
 - [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://allafrica.com/stories/202312180007.html) (AllAfrica - Top Africa News)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
 
 ## 23-51 (chikungunya)
 
