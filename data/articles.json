@@ -1,8 +1,116 @@
 {
-  "last_updated": "2024-01-29 19:05",
-  "count_articles_total": 946,
-  "count_articles_new": 4,
+  "last_updated": "2024-01-30 07:05",
+  "count_articles_total": 960,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 4728,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Dengue: in\u00e9dita cifra de casos para las primeras tres semanas de enero",
+      "description": "Superan los 10.000, un n\u00famero nunca antes informado para ese per\u00edodo del a\u00f1o, ni siquiera durante las epidemias; cambios en el m\u00e9todo de registro",
+      "url": "https://www.lanacion.com.ar/sociedad/dengue-inedita-cifra-de-casos-para-las-primeras-tres-semanas-de-enero-nid28012024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-mosquito-aedes-aegypti-transmite-la-6MBAY2XV45EQFB2VX6RGMTFLSQ.jpeg?auth=6c9d144ab8824b4d4e7a78c1976b3992eb37c6da43d7cc7546c8e37c1ddf7c06&width=768&quality=70&smart=false",
+      "publishedAt": "2024-01-29 01:57:48",
+      "content": "Los casos de dengue notificados para las tres primeras semanas del a\u00f1o ya superan los 10.000: rondan los 11.800, seg\u00fan voceros del Ministerio de Salud de la Naci\u00f3n, aunque son casi 17.000 hasta el 20\u2026 [+5833 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.107323",
+      "internal_id": "b8bc0f5bd7f46241a424e0b609cb90d5a95a2a92704f4975858a8da3d2a41a28",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4729,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Thairath.co.th",
+      "author": "Thairath",
+      "title": "\u0e2b\u0e21\u0e2d\u0e21\u0e19\u0e39\u0e0d \u0e40\u0e1c\u0e22\u0e40\u0e04\u0e2a \u0e04\u0e19\u0e44\u0e02\u0e49\u0e27\u0e31\u0e22 50 \u0e1b\u0e35 \u0e1b\u0e48\u0e27\u0e22\u0e42\u0e23\u0e04 \"\u0e44\u0e02\u0e49\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e2d\u0e2d\u0e01\" \u0e04\u0e32\u0e14\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48 3",
+      "description": "\"\u0e2b\u0e21\u0e2d\u0e21\u0e19\u0e39\u0e0d\" \u0e40\u0e1c\u0e22\u0e40\u0e04\u0e2a \u0e04\u0e19\u0e44\u0e02\u0e49\u0e27\u0e31\u0e22 50 \u0e1b\u0e35 \u0e1b\u0e48\u0e27\u0e22\u0e40\u0e1b\u0e47\u0e19 \"\u0e44\u0e02\u0e49\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e2d\u0e2d\u0e01\" \u0e0a\u0e19\u0e34\u0e14\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e25\u0e39\u0e01\u0e2a\u0e32\u0e27 \u0e04\u0e32\u0e14\u0e40\u0e1b\u0e47\u0e19\u0e01\u0e32\u0e23\u0e1b\u0e48\u0e27\u0e22\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48 3 \u0e41\u0e25\u0e49\u0e27",
+      "url": "https://www.thairath.co.th/news/society/2758849",
+      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5LFW9j4fude9nxr03BiQ1rq9ROtMA8unNnb7pXyTdqVEoOdyb4b.jpg",
+      "publishedAt": "2024-01-29 00:20:18",
+      "content": "29 2567 . 50 20 2567 3 5 39 90/60 2,240 97,000 SGOT 107, SGPT 81 Dengue virus type 2 4 5,500 168,000 SGOT 66, SGPT 88 3 13 2563 5 80/50 800, 62,000 SGOT 1,315, SGPT 866 3 4 4 2 3 3 2 FC \u2026 [+3 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.150410",
+      "internal_id": "a1a9fcfde291d0dbd9ebadab4440ce3228f1d7253a8437bdfee3609c79f1a213",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4725,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Adrianna Wrona",
+      "title": "\u2018It\u2019s not too late to catch up\u2019 \u2013 parents are urged to vaccinate children amid surge in measles cases",
+      "description": "The HSE has urged parents to vaccinate their children against measles after an increase in cases across the UK and Europe.",
+      "url": "https://www.independent.ie/irish-news/its-not-too-late-to-catch-up-parents-are-urged-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/UKRZCNmu9kd8KJBVCwg5wBDv0u8=/13x0:2087x1383/2074x1383/prod-mh-ireland/73e5a08f-9253-4a44-b43a-10435213262e/fb7a8400-d62e-4e8b-87a3-281a2d00f408/f351014f-edf8-4112-afab-3c85e9adb109.jpg",
+      "publishedAt": "2024-01-29 00:01:00",
+      "content": "The HSE has urged parents to vaccinate their children against measles after an increase in cases across the UK and Europe.Measles is a potentially serious and highly infectious disease that spreads e\u2026 [+2243 chars]",
+      "retrievedAt": "2024-01-30 07:05:31.603226",
+      "internal_id": "b988c9ab1bf6b126e743600534e1beeea56fb2187d6424550224537d345df1fb",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4726,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Adrianna Wrona",
+      "title": "\u2018It\u2019s not too late to catch up\u2019 \u2013 HSE issues warning to vaccinate children amid surge in measles cases",
+      "description": "The HSE has urged parents to vaccinate their children against measles after an increase in cases across the UK and Europe.",
+      "url": "https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/UKRZCNmu9kd8KJBVCwg5wBDv0u8=/13x0:2087x1383/2074x1383/prod-mh-ireland/73e5a08f-9253-4a44-b43a-10435213262e/fb7a8400-d62e-4e8b-87a3-281a2d00f408/f351014f-edf8-4112-afab-3c85e9adb109.jpg",
+      "publishedAt": "2024-01-29 00:01:00",
+      "content": "The HSE has urged parents to vaccinate their children against measles after an increase in cases across the UK and Europe.Measles is a potentially serious and highly infectious disease that spreads e\u2026 [+2243 chars]",
+      "retrievedAt": "2024-01-30 07:05:31.618872",
+      "internal_id": "3ca0f6880f22e07bdbdd0b550dab9dac3527fb2171cefea7008c7d7d95842dfa",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4727,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Lara T\u00f4rres, Lara T\u00f4rres",
+      "title": "Manaus entra em estado de alerta ap\u00f3s disparada nos casos de dengue",
+      "description": "A Secretaria Municipal de Sa\u00fade colocou o munic\u00edpio em estado de alerta",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ar/k7/pc/ark7pchzpcw05gbei90nmj56l.jpg",
+      "publishedAt": "2024-01-28 21:10:24",
+      "content": "O cen\u00e1rio epidemiol\u00f3gico da dengue colocou Manaus, capital do Amazonas, em estado de alerta. Neste s\u00e1bado (28), a Secretaria Municipal de Sa\u00fade (Semsa) divulgou um comunicado alertando que o n\u00famero\u2026 [+1024 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.093157",
+      "internal_id": "0f22a74a61ed86e16fe91b15851b02255500a3e4039e52e836b319453dc5fc8b",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4733,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Minist\u00e9rio da Sa\u00fade divulga lista de cidades receber\u00e3o vacina contra a dengue",
+      "description": "Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha",
+      "url": "https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2024/01/vacina.jpg",
+      "publishedAt": "2024-01-28 18:52:03",
+      "content": "\u00daltimas not\u00edcias: Conforme anunciado pelo Minist\u00e9rio da Sa\u00fade, a partir de fevereiro, 521 munic\u00edpios de 16 estados e o Distrito Federal ser\u00e3o protagonistas na batalha contra a dengue. Essas localida\u2026 [+1333 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.164251",
+      "internal_id": "72f1c569ace4975365295b27438b1ddeb3d269bcb72c9ef4f1249631bb66b727",
+      "publishedAtLabel": "Jan 28"
+    },
     {
       "id": 4724,
       "query": [
@@ -37,6 +145,42 @@
       "content": "NOTA CONJUNTA Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios unem esfor\u00e7os para a\u00e7\u00f5es de enfrentamento da dengue Desde o ano passado, o Minist\u00e9rio da Sa\u00fade, estados e munic\u00edpios est\u00e3o em constante monit\u2026 [+3677 chars]",
       "retrievedAt": "2024-01-29 19:05:24.273642",
       "internal_id": "9ccb2fb3a9cdbdb34473a05ea403c8a78a3c0a2303e1a82061b629129f30f128",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4732,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Clar\u00edn",
+      "author": "Ernesto Azarkevich",
+      "title": "Una beba de tres meses muri\u00f3 por dengue en Misiones",
+      "description": "Lleg\u00f3 a la guardia de un hospital con fiebre y fue derivada a terapia intensiva, pero no lograron estabilizarla.Es la v\u00edctima m\u00e1s joven del brote que ya caus\u00f3 9 muertes en la provincia.",
+      "url": "https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html",
+      "urlToImage": "https://www.clarin.com/img/2023/12/21/jMTZGJwoe_2000x1500__1.jpg",
+      "publishedAt": "2024-01-28 15:42:04",
+      "content": "Una beba de tres mesesmuri\u00f3 por dengue en Misiones y es la novena v\u00edctima en la provincia desde mediados de diciembre pasado. En la \u00faltima semana el sistema de salud report\u00f3 m\u00e1s de 2.600 cuadros febr\u2026 [+2602 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.160802",
+      "internal_id": "0b0fd0ee4e9094077b576368a8240cfa981b0137e588cc37f6755d414211ce93",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 4730,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "F\u00e1bio Andrighetto",
+      "title": "Dengue no RJ dispara 587%, com mais de 9 mil casos em tr\u00eas semanas",
+      "description": "O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u00f5es, um n\u00famero que j\u00e1 supera a m\u00e9dia hist\u00f3rica para todo o m\u00eas. A situa\u00e7\u00e3o \u00e9 pr\u2026",
+      "url": "https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1200,h=638,fit=cover,format=jpeg/wp-content/uploads/2021/02/istock-599881744.jpg",
+      "publishedAt": "2024-01-28 14:52:50",
+      "content": "\u00daltimas not\u00edcias: O n\u00famero de casos de dengue no estado do Rio de Janeiro disparou 587% nas tr\u00eas primeiras semanas de janeiro, em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Foram 9.963 notifica\u00e7\u2026 [+1806 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.154107",
+      "internal_id": "0892f851bd02e76d6fa09494c2842a3c71a097424b8424d17f9b43374e601a1c",
       "publishedAtLabel": "Jan 28"
     },
     {
@@ -336,7 +480,8 @@
     {
       "id": 4713,
       "query": [
-        "chikungunya"
+        "chikungunya",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Terra.com.br",
@@ -800,6 +945,24 @@
       "content": "A secret\u00e1ria de Sa\u00fade do Distrito Federal, Lucilene Flor\u00eancio, afirmou que o Minist\u00e9rio da Defesa deve destinar, em um primeiro momento, 190 militares para apoiarem o GDF no combate \u00e0 dengue. A gesto\u2026 [+1237 chars]",
       "retrievedAt": "2024-01-28 07:06:06.820250",
       "internal_id": "1e57d0fe6cca851a11360f2fe4379f11a8f2f21b194fdb440e29d6125c00d952",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 4731,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Veja lista de cidades que ter\u00e3o vacina da dengue pelo SUS neste primeiro momento",
+      "description": "Primeira fase da imuniza\u00e7\u00e3o ter\u00e1 como alvo as crian\u00e7as de 10 a 14 anos",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/26/cidades-vacina-dengue-sus.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/TFUcG3BEqqNxmL-kxr_pBmDCBLE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/A/q/MCF62aR16vEWAloxviAw/caixa-da-vacina-contra-a-dengue-do-laboratorio-takeda-qdenda-marcia-almeida-valor.jpeg",
+      "publishedAt": "2024-01-26 19:58:53",
+      "content": "O Minist\u00e9rio da Sa\u00fade (MS) divulgou a lista de cidades que v\u00e3o receber a vacina contra dengue, a Qdenga, ainda em 2024 pelo Sistema \u00danico de Sa\u00fade (SUS). Ao todo, 521 foram escolhidas para participar\u2026 [+3825 chars]",
+      "retrievedAt": "2024-01-30 07:05:32.157515",
+      "internal_id": "119f28085b162a318010f4ecd3369a51553f5feb8a90feea4ff80d6a39445a12",
       "publishedAtLabel": "Jan 26"
     },
     {
@@ -17069,6 +17232,98 @@
       "content": "Global public health experts are warning that the United States is not prepared for looming threats posed by tropical and insect-borne viruses. At a two-day workshop this week at the National Academ\u2026 [+3569 chars]",
       "retrievedAt": "2023-12-19 07:06:05.858171",
       "internal_id": "0cfaf88db7ee727c73cd38a41e17381d95bf8444a45aaf1a778242c49f7b5ab6",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 3771,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Congo-Kinshasa: L'OMS s'inqui\u00e8te de la propagation rapide de l'\u00e9pid\u00e9mie de Mpox, aussi appel\u00e9 \u00abvariole du singe\u00bb",
+      "description": "[RFI] L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocratique du Congo. L'OMS craint une transmission internat\u2026",
+      "url": "https://fr.allafrica.com/stories/202312170213.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-17 17:47:35",
+      "content": "L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocra\u2026 [+1973 chars]",
+      "retrievedAt": "2023-12-18 19:05:22.225309",
+      "internal_id": "78f75754d80da4b9cf135d9139b937366c70069c7ba13d66fe748363e9ed73e7",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 3768,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
+      "description": "O alerta \u00e9 da plataforma AdaptaBrasil, vinculada ao Minist\u00e9rio da Ci\u00eancia, Tecnologia e Inova\u00e7\u00e3o (MCTI), em parceria com a Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz)",
+      "url": "https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2023-12-17 15:08:43",
+      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7013 chars]",
+      "retrievedAt": "2023-12-18 19:05:20.888933",
+      "internal_id": "65c09fd30bc85e9e62d4a53048ecc51a005d39c13e9fae15c460c5ed0b600dee",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 3770,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "lesdepechesdebrazzaville@orange.fr (Les D\u00e9p\u00eaches de Brazzaville)",
+      "title": "Congo-Brazzaville: Forte extension de l'\u00e9pid\u00e9mie de mpox",
+      "description": "[Les D\u00c3\u00a9p\u00c3\u00aaches de Brazzaville] La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleurs, selon l'Organisation mon\u2026",
+      "url": "https://fr.allafrica.com/stories/202312170165.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-17 13:44:42",
+      "content": "La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleu\u2026 [+2518 chars]",
+      "retrievedAt": "2023-12-18 19:05:22.217644",
+      "internal_id": "ffc356b5afd0af4ad4d33484615d7ab1b68d898dd616c76bfc983aab95a21bf2",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 3767,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
+      "description": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e,...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/12/17104316/mnltwruwnrntvhfsnhcib3jxeu.webp",
+      "publishedAt": "2023-12-17 10:46:19",
+      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7210 chars]",
+      "retrievedAt": "2023-12-18 19:05:20.884949",
+      "internal_id": "edc6e32eb4ce9ef72072cc25207b7750a3def679012278999d1ca14019fac8f0",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 3769,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Sof\u00eda Barruti",
+      "title": "Un cient\u00edfico africano podr\u00eda acabar con la malaria editando el ADN de un mosquito",
+      "description": "Diabate, que ahora dirige entomolog\u00eda m\u00e9dica y parasitolog\u00eda en el Instituto de Investigaci\u00f3n en Ciencias de la Salud de Burkina Faso, est\u00e1 desarrollando una t\u00e9cnica innovadora que potencialmente podr\u00eda eliminar las especies de mosquitos transmisores de malar\u2026",
+      "url": "https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/12/cientifico-malaria.jpg?quality=100&strip=info",
+      "publishedAt": "2023-12-17 09:06:30",
+      "content": "Casos de malaria entre migrantes pone en alerta a Honduras 4:01 (CNN) -- Abdoulaye Diabate enfrent\u00f3 un ataque de malaria que puso en peligro su vida cuando solo ten\u00eda cinco a\u00f1os. Diabate sobrevivi\u00f3\u2026 [+9242 chars]",
+      "retrievedAt": "2023-12-18 19:05:21.602100",
+      "internal_id": "fccc16499069e80b64c41def33114d84578c1c2dae555f32b41f5e75b2056c47",
       "publishedAtLabel": "Dec 17"
     }
   ]

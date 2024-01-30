@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2024-01-29 19:05
-- **Most recent article:** 2024-01-28 16:22:57
+- **New articles in last harvest:** 9
+- **Last harvest:** 2024-01-30 07:05
+- **Most recent article:** 2024-01-29 01:57:48
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 67 | 37 | 2 | 52 | 35 | 65 | 121 | 2 | 381 |
-| malaria | 22 | 22 | 2 | 11 | 51 | 26 | 86 | 1 | 221 |
-| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 2 | 188 |
-| mpox | 13 | 12 | 0 | 2 | 2 | 8 | 4 | 0 | 41 |
-| zika | 3 | 1 | 0 | 7 | 8 | 8 | 7 | 0 | 34 |
+| dengue | 69 | 37 | 2 | 52 | 35 | 65 | 123 | 8 | 391 |
+| malaria | 23 | 22 | 2 | 11 | 51 | 26 | 86 | 1 | 222 |
+| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 4 | 190 |
+| mpox | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 0 | 43 |
+| zika | 5 | 1 | 0 | 7 | 8 | 8 | 7 | 0 | 36 |
 | rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 0 | 31 |
 | meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 0 | 27 |
 | chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 0 | 26 |
@@ -32,6 +32,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (measles)
 
+- [‘It’s not too late to catch up’ – parents are urged to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/its-not-too-late-to-catch-up-parents-are-urged-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
+
+- [‘It’s not too late to catch up’ – HSE issues warning to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/health/its-not-too-late-to-catch-up-hse-issues-warning-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
+
 - [HSE urges parents to ensure children are vaccinated against measles, as case numbers rise in UK](https://www.thejournal.ie/hse-urges-parents-to-make-sure-children-are-vaccinated-as-cases-of-measles-rise-in-uk-6283808-Jan2024/) (TheJournal.ie)
 
 - [Multi-language measles campaign launched](https://www.bbc.co.uk/news/articles/cglmrrnm5d9o) (BBC News)
@@ -42,9 +46,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (dengue)
 
+- [Dengue: inédita cifra de casos para las primeras tres semanas de enero](https://www.lanacion.com.ar/sociedad/dengue-inedita-cifra-de-casos-para-las-primeras-tres-semanas-de-enero-nid28012024/) (La Nacion)
+
+- [หมอมนูญ เผยเคส คนไข้วัย 50 ปี ป่วยโรค "ไข้เลือดออก" คาดเป็นครั้งที่ 3](https://www.thairath.co.th/news/society/2758849) (Thairath.co.th)
+
+- [Manaus entra em estado de alerta após disparada nos casos de dengue](https://ultimosegundo.ig.com.br/brasil/2024-01-28/manaus-entra-em-estado-de-alerta-apos-disparada-nos-casos-de-dengue.html) (Ig.com.br)
+
+- [Ministério da Saúde divulga lista de cidades receberão vacina contra a dengue](https://catracalivre.com.br/saude-bem-estar/ministerio-da-saude-divulga-lista-de-cidades-receberao-vacina-contra-a-dengue/) (Catracalivre.com.br)
+
 - [Casos de dengue sobem 26% no Estado de SP e secretaria já confirma quatro mortes no ano](https://www.terra.com.br/vida-e-estilo/saude/casos-de-dengue-sobem-26-no-estado-de-sp-e-secretaria-ja-confirma-quatro-mortes-no-ano,882b160bb0b7e3c6715898ee359cd6869tic86ql.html) (Terra.com.br)
 
 - [Hora de intensificar os cuidados para eliminar os focos do Aedes aegypti e prevenir a dengue](https://www.viomundo.com.br/blogdasaude/hora-de-intensificar-os-cuidados-para-eliminar-os-focos-do-aedes-aegypti-e-prevenir-a-dengue.html) (Viomundo.com.br)
+
+- [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
+
+- [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
 
 ## 24-4 (zika)
 
@@ -428,6 +444,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: Ibaneis vê “crise muito grande” e pede ações rápidas de pastas](https://www.metropoles.com/distrito-federal/dengue-ibaneis-ve-crise-muito-grande-e-pede-acoes-rapidas-de-pastas) (Metropoles.com)
 
+- [Minas Gerais declara situação de emergência devido a casos de dengue e chikungunya](https://www.terra.com.br/noticias/brasil/politica/minas-gerais-declara-situacao-de-emergencia-devido-a-casos-de-dengue-e-chikungunya,66e35f584ad060d9b765bc4b8dc80cecdh9ong8r.html) (Terra.com.br)
+
 - [Governo de Minas decreta situação de emergência por causa do aumento de casos de dengue](https://noticias.r7.com/minas-gerais/governo-de-minas-decreta-situacao-de-emergencia-por-causa-do-aumento-de-casos-de-dengue-27012024) (R7.com)
 
 - [Entenda a situação da dengue no país e saiba quem pode se vacinar pelo SUS](https://noticias.r7.com/saude/dengue-duvidas-vacinacao-sus-casos-morte-27012024) (R7.com)
@@ -459,6 +477,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: paciente com quadro leve deve evitar hospitais, diz secretária](https://www.metropoles.com/colunas/grande-angular/dengue-paciente-com-quadro-leve-deve-evitar-hospitais-diz-secretaria) (Metropoles.com)
 
 - [Exército mobilizará 300 militares para apoiar combate à dengue no DF](https://www.metropoles.com/colunas/grande-angular/exercito-encaminhara-300-militares-para-apoiar-combate-a-dengue-no-df) (Metropoles.com)
+
+- [Veja lista de cidades que terão vacina da dengue pelo SUS neste primeiro momento](https://valor.globo.com/brasil/noticia/2024/01/26/cidades-vacina-dengue-sus.ghtml) (Globo)
 
 - [Dengue: novo produto colabora com proteção dentro de casa](https://www.metropoles.com/conteudo-especial/novo-produto-dengue) (Metropoles.com)
 
@@ -1836,6 +1856,10 @@ Source: [News API](https://newsapi.org/)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
+
 ## 23-51 (typhoid)
 
 - [Mother reunites with missing son on traffic signal after seven years, found him begging in Pakistan](https://economictimes.indiatimes.com/news/international/world-news/mother-reunites-with-missing-son-on-traffic-signal-after-seven-years-found-him-begging-in-pakistan/articleshow/106213574.cms) (The Times of India)
@@ -1883,6 +1907,10 @@ Source: [News API](https://newsapi.org/)
 - [WHO warns mpox could spread internationally again](https://www.dw.com/en/who-warns-mpox-could-spread-internationally-again/a-67754081) (DW (English))
 
 - [WHO warns mpox could spread around the world again](https://www.dw.com/en/who-warns-mpox-could-spread-around-the-world-again/a-67754081) (DW (English))
+
+- [Congo-Kinshasa: L'OMS s'inquiète de la propagation rapide de l'épidémie de Mpox, aussi appelé «variole du singe»](https://fr.allafrica.com/stories/202312170213.html) (AllAfrica - Top Africa News)
+
+- [Congo-Brazzaville: Forte extension de l'épidémie de mpox](https://fr.allafrica.com/stories/202312170165.html) (AllAfrica - Top Africa News)
 
 ## 23-51 (meningitis)
 
@@ -1995,6 +2023,8 @@ Source: [News API](https://newsapi.org/)
 - [“Un buen parásito es aquel que no mata a su hospedador”](https://www.muyinteresante.es/ciencia/62663.html) (Muyinteresante.es)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
+
+- [Un científico africano podría acabar con la malaria editando el ADN de un mosquito](https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/) (CNN)
 
 ## 23-51 (leptospirosis)
 
@@ -2137,6 +2167,10 @@ Source: [News API](https://newsapi.org/)
 - [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://allafrica.com/stories/202312180007.html) (AllAfrica - Top Africa News)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
 
 ## 23-51 (chikungunya)
 
