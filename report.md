@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2024-01-30 07:05
-- **Most recent article:** 2024-01-29 01:57:48
+- **New articles in last harvest:** 28
+- **Last harvest:** 2024-01-30 19:06
+- **Most recent article:** 2024-01-29 19:00:30
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 69 | 37 | 2 | 52 | 35 | 65 | 123 | 8 | 391 |
-| malaria | 23 | 22 | 2 | 11 | 51 | 26 | 86 | 1 | 222 |
-| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 4 | 190 |
-| mpox | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 0 | 43 |
-| zika | 5 | 1 | 0 | 7 | 8 | 8 | 7 | 0 | 36 |
+| dengue | 67 | 37 | 2 | 52 | 35 | 65 | 123 | 20 | 401 |
+| malaria | 22 | 22 | 2 | 11 | 51 | 26 | 86 | 6 | 226 |
+| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 9 | 195 |
+| mpox | 13 | 12 | 0 | 2 | 2 | 8 | 4 | 0 | 41 |
+| zika | 3 | 1 | 0 | 7 | 8 | 8 | 7 | 1 | 35 |
 | rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 0 | 31 |
-| meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 0 | 27 |
-| chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 0 | 26 |
-| pertussis | 2 | 0 | 0 | 5 | 2 | 5 | 2 | 0 | 16 |
-| typhoid | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 0 | 9 |
+| meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 3 | 30 |
+| chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 3 | 29 |
+| pertussis | 2 | 0 | 0 | 5 | 2 | 5 | 2 | 1 | 17 |
+| typhoid | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 1 | 10 |
 | leptospirosis | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 0 | 7 |
 | yersinia | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 5 |
 
@@ -30,7 +30,37 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-5 (zika)
+
+- [DF registra quase 30 mil casos prováveis de dengue e seis mortes](https://www.metropoles.com/colunas/grande-angular/df-registra-quase-30-mil-casos-provaveis-de-dengue-e-seis-mortes) (Metropoles.com)
+
+## 24-5 (typhoid)
+
+- [Dying of thirst](https://electronicintifada.net/content/dying-thirst/44221) (Electronicintifada.net)
+
+## 24-5 (pertussis)
+
+- [What is '100 day cough'? Why is it in news?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-100-day-cough-why-is-it-in-news/photostory/107225626.cms) (The Times of India)
+
+## 24-5 (meningitis)
+
+- [Risk of meningitis shifting from babies to teens — new data](https://www.1news.co.nz/2024/01/30/risk-of-meningitis-shifting-from-babies-to-teens-new-data/) (1news.co.nz)
+
+- [Meningitis risk shifting from infants to teens and Māori youth experiencing largest increase - new data](https://www.nzherald.co.nz/kahu/meningitis-risk-shifting-from-infants-to-teens-and-maori-youth-experiencing-largest-increase-new-data/47ZGPLG5YBDQRDYIVJZO3X3XNM/) (New Zealand Herald)
+
+- [Patricia Pérez comparte las primeras imágenes de Luis Canut tras anunciar su grave enfermedad](https://www.hola.com/actualidad/20240129248319/patricia-perez-primeras-imagenes-luis-canut-recuperado-nsv/) (Hola)
+
 ## 24-5 (measles)
+
+- [Measles is spreading in the US and there’s an outbreak in Europe](https://www.celebitchy.com/854784/measles_is_spreading_in_the_us_and_theres_an_outbreak_in_europe/) (Celebitchy.com)
+
+- [Measles outbreaks: Investing in patient relationships through GP continuity will be key to boosting MMR confidence](https://www.bmj.com/content/384/bmj.q221) (The BMJ)
+
+- [How Fringe Anti-Science Views Infiltrated Mainstream Politics — And What It Means in 2024](https://kffhealthnews.org/news/article/anti-science-vaccines-politics-polarization-partisanship-2024-elections/) (Kffhealthnews.org)
+
+- [Irish GP warns of risk to public health as HSE stresses ‘significant rise’ in measles in Europe](https://www.independent.ie/irish-news/irish-gp-warns-of-risk-to-public-health-as-hse-stresses-significant-rise-in-measles-in-europe/a380986655.html) (Independent.ie)
+
+- [Dr Catherine Conlon: Catch Up vaccination clinics needed now before measles sweeps the country](https://www.thejournal.ie/readme/measles-ireland-6284077-Jan2024/) (TheJournal.ie)
 
 - [‘It’s not too late to catch up’ – parents are urged to vaccinate children amid surge in measles cases](https://www.independent.ie/irish-news/its-not-too-late-to-catch-up-parents-are-urged-to-vaccinate-children-amid-surge-in-measles-cases/a924761951.html) (Independent.ie)
 
@@ -42,9 +72,43 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (malaria)
 
+- [Precise coordination between nutrient transporters ensures fertility in the malaria mosquito Anopheles gambiae](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011145) (Plos.org)
+
+- [Correction: A conformational epitope in placental malaria vaccine antigen VAR2CSA: What does it teach us?](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011503) (Plos.org)
+
+- [Comparative transcriptomics reveal differential gene expression among Plasmodium vivax geographical isolates and implications on erythrocyte invasion mechanisms](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011926) (Plos.org)
+
+- [‘I’d Rather Have Malaria’: The Worst Side Effects Medical Science Has Ever Achieved](https://www.cracked.com/article_40921_id-rather-have-malaria-the-worst-side-effects-medical-science-has-ever-achieved.html) (Cracked.com)
+
+- [Health Ministry Announces Registration and Distribution Dates for Treated Mosquito Nets](https://sierraloaded.sl/health/ministry-health-registration-distribution-dates-nets/) (Sierraloaded.sl)
+
 - [Sella Cruz Azul su primera victoria del Clausura 2024](https://www.reforma.com/sella-cruz-azul-su-primer-triunfo-del-clausura-2024/ar2747624) (Reforma.com)
 
 ## 24-5 (dengue)
+
+- [Casos confirmados de dengue já ultrapassam os 20 mil em MG](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/casos-confirmados-de-dengue-ja-ultrapassam-os-20-mil-em-mg-29012024) (R7.com)
+
+- [Veja como é a vacinação contra a dengue e quem tem acesso ao imunizante](https://valor.globo.com/brasil/noticia/2024/01/29/veja-como-e-a-vacinacao-contra-a-dengue-e-quem-tem-acesso-ao-imunizante.ghtml) (Globo)
+
+- [Mosquito protein could block dengue virus infection](https://www.futurity.org/mosquitos-protein-dengue-fever-viruses-317214/) (Futurity: Research News)
+
+- [DF registra quase 30 mil casos prováveis de dengue e seis mortes](https://www.metropoles.com/colunas/grande-angular/df-registra-quase-30-mil-casos-provaveis-de-dengue-e-seis-mortes) (Metropoles.com)
+
+- [Dengue em BH: casos dobram em janeiro em relação ao mesmo mês de 2023](https://saude.ig.com.br/2024-01-29/dengue-alta-casos-belo-horizonte.html) (Ig.com.br)
+
+- [Governo posta após ação da PF contra Carlos Bolsonaro: “Toc, toc, toc”](https://www.metropoles.com/brasil/governo-posta-apos-acao-da-pf-contra-carlos-bolsonaro-toc-toc-toc) (Metropoles.com)
+
+- [Planalto posta ‘toc, toc’, após batida da PF contra Carlos Bolsonaro](https://veja.abril.com.br/coluna/radar/planalto-posta-toc-toc-apos-batida-da-pf-contra-carlos-bolsonaro) (Abril.com.br)
+
+- [Morrissey cancela shows que faria no Brasil por 'exaustão física'; saiba mais](https://www.terra.com.br/diversao/musica/morrissey-cancela-shows-que-faria-no-brasil-por-exaustao-fisica-saiba-mais,43a8a23b73d6e0ed459f73f189a052d0lhotkv9y.html) (Terra.com.br)
+
+- [Los casos de dengue aumentaron en 2023 en todo el mundo con más de 6.000 muertes](https://www.infosalus.com/salud-investigacion/noticia-casos-dengue-aumentaron-2023-todo-mundo-mas-6000-muertes-20240129142318.html) (Infosalus.com)
+
+- [Dengue: vacinação começa em fevereiro, em 521 municípios; confira lista](https://olhardigital.com.br/2024/01/29/medicina-e-saude/dengue-vacinacao-comeca-em-fevereiro-em-521-municipios-confira-lista/) (Olhardigital.com.br)
+
+- [SP: cinco pessoas morreram de dengue nos primeiros 20 dias de janeiro](https://recordtv.r7.com/fala-brasil/videos/sp-cinco-pessoas-morreram-de-dengue-nos-primeiros-20-dias-de-janeiro-29012024) (R7.com)
+
+- [Governo de MG decreta estado de emergência pelo alto número de casos de dengue](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/governo-de-mg-decreta-estado-de-emergencia-pelo-alto-numero-de-casos-de-dengue-29012024) (R7.com)
 
 - [Dengue: inédita cifra de casos para las primeras tres semanas de enero](https://www.lanacion.com.ar/sociedad/dengue-inedita-cifra-de-casos-para-las-primeras-tres-semanas-de-enero-nid28012024/) (La Nacion)
 
@@ -61,6 +125,14 @@ Source: [News API](https://newsapi.org/)
 - [Una beba de tres meses murió por dengue en Misiones](https://www.clarin.com/sociedad/beba-meses-murio-dengue-misiones_0_78L7YRshZx.html) (Clarín)
 
 - [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
+
+## 24-5 (chikungunya)
+
+- [DF registra quase 30 mil casos prováveis de dengue e seis mortes](https://www.metropoles.com/colunas/grande-angular/df-registra-quase-30-mil-casos-provaveis-de-dengue-e-seis-mortes) (Metropoles.com)
+
+- [El ECDC notifica cerca de 500.000 casos del virus de Chikungunya en 2023, que ha provocado más de 400 muertes](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-cerca-500000-casos-virus-chikungunya-2023-provocado-mas-400-muertes-20240129165837.html) (Infosalus.com)
+
+- [Governo de MG decreta estado de emergência pelo alto número de casos de dengue](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/governo-de-mg-decreta-estado-de-emergencia-pelo-alto-numero-de-casos-de-dengue-29012024) (R7.com)
 
 ## 24-4 (zika)
 
@@ -1856,10 +1928,6 @@ Source: [News API](https://newsapi.org/)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
-
 ## 23-51 (typhoid)
 
 - [Mother reunites with missing son on traffic signal after seven years, found him begging in Pakistan](https://economictimes.indiatimes.com/news/international/world-news/mother-reunites-with-missing-son-on-traffic-signal-after-seven-years-found-him-begging-in-pakistan/articleshow/106213574.cms) (The Times of India)
@@ -1907,10 +1975,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO warns mpox could spread internationally again](https://www.dw.com/en/who-warns-mpox-could-spread-internationally-again/a-67754081) (DW (English))
 
 - [WHO warns mpox could spread around the world again](https://www.dw.com/en/who-warns-mpox-could-spread-around-the-world-again/a-67754081) (DW (English))
-
-- [Congo-Kinshasa: L'OMS s'inquiète de la propagation rapide de l'épidémie de Mpox, aussi appelé «variole du singe»](https://fr.allafrica.com/stories/202312170213.html) (AllAfrica - Top Africa News)
-
-- [Congo-Brazzaville: Forte extension de l'épidémie de mpox](https://fr.allafrica.com/stories/202312170165.html) (AllAfrica - Top Africa News)
 
 ## 23-51 (meningitis)
 
@@ -2023,8 +2087,6 @@ Source: [News API](https://newsapi.org/)
 - [“Un buen parásito es aquel que no mata a su hospedador”](https://www.muyinteresante.es/ciencia/62663.html) (Muyinteresante.es)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
-
-- [Un científico africano podría acabar con la malaria editando el ADN de un mosquito](https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/) (CNN)
 
 ## 23-51 (leptospirosis)
 
@@ -2167,10 +2229,6 @@ Source: [News API](https://newsapi.org/)
 - [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://allafrica.com/stories/202312180007.html) (AllAfrica - Top Africa News)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
 
 ## 23-51 (chikungunya)
 

@@ -1,8 +1,515 @@
 {
-  "last_updated": "2024-01-30 07:05",
-  "count_articles_total": 960,
-  "count_articles_new": 9,
+  "last_updated": "2024-01-30 19:06",
+  "count_articles_total": 983,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 4749,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Casos confirmados de dengue j\u00e1 ultrapassam os 20 mil em MG",
+      "description": "Os casos confirmados de dengue neste ano de 2024 j\u00e1 chegaram aos 21.573 em Minas Gerais. Os centros de sa\u00fade est\u00e3o abertos em Belo Horizonte p...",
+      "url": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/casos-confirmados-de-dengue-ja-ultrapassam-os-20-mil-em-mg-29012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/29/65b805b919d22458190000f2/66e3857cad43409b948ba9a4e2181f66__BG_2901_POSTOS_ABERTOS_DENGUE_thumb.jpg",
+      "publishedAt": "2024-01-29 19:00:30",
+      "content": "Os casos confirmados de dengue neste ano de 2024 j\u00e1 chegaram aos 21.573 em Minas Gerais. Os centros de sa\u00fade est\u00e3o abertos em Belo Horizonte para atender os pacientes com os sintomas. O Governo de Mi\u2026 [+152 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.110761",
+      "internal_id": "e137e5aef506d6516b636ae8dd7f5abcc3e8973b627db47f0d7beab409926966",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4751,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Veja como \u00e9 a vacina\u00e7\u00e3o contra a dengue e quem tem acesso ao imunizante",
+      "description": "Saiba quais as regi\u00f5es podem contar com o imunizante gratuito distribu\u00eddo pelo SUS",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/29/veja-como-e-a-vacinacao-contra-a-dengue-e-quem-tem-acesso-ao-imunizante.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/1IE_OhAZhF0_ftR3x9zaTrfb-Y8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/u/f/GJ8dfoSkOd9HN47Z3EfQ/vacina-dengue.jpg",
+      "publishedAt": "2024-01-29 18:46:49",
+      "content": "O Minist\u00e9rio da Sa\u00fade come\u00e7a a aplica\u00e7\u00e3o da vacina contra a dengue e fevereiro em 16 Estados e no Distrito Federal. O in\u00edcio da vacina\u00e7\u00e3o, previsto para fevereiro, aguarda somente an\u00e1lise de que a va\u2026 [+3902 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.144526",
+      "internal_id": "993081d6d5f811abc31fc04b31b48ebfe76a95235fc0141147d53855b3a99f4c",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4754,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "1news.co.nz",
+      "author": "1news Reporters",
+      "title": "Risk of meningitis shifting from babies to teens \u2014 new data",
+      "description": "ESR said the number meningococcal cases among Kiwi teens and young adults has increased by 88% since the same time last year.",
+      "url": "https://www.1news.co.nz/2024/01/30/risk-of-meningitis-shifting-from-babies-to-teens-new-data/",
+      "urlToImage": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/5K3NZMPGTVH77GY6MS2QMZ3WY4.jpg?auth=4049c7d4baa79733a770b7c80e6bc1efe990c377717675c859d8bd15fe9ec3f9&quality=70&width=600&height=315&focal=627%2C418",
+      "publishedAt": "2024-01-29 18:31:02",
+      "content": "The risk of meningitis is shifting from infants to teens, according to new research from the Institute of Environmental Science and Research (ESR). ESR said data shows the number meningococcal case\u2026 [+1929 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.507884",
+      "internal_id": "9af70858956b3d5a0b41c57e44fa15adde5e5de482c6befe5d896ebfc8ffcb0b",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4746,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "National University of Singapore",
+      "title": "Mosquito protein could block dengue virus infection",
+      "description": "A protein found in a mosquito's exoskeleton could offer protection against dengue virus, a new study shows.",
+      "url": "https://www.futurity.org/mosquitos-protein-dengue-fever-viruses-317214/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/01/mosquito-dengue-1600.jpg",
+      "publishedAt": "2024-01-29 18:25:41",
+      "content": "Despite its role as a carrier of the dengue virus, the female Aedes aegypti mosquito could possess the key to discovering new anti-viral strategies to control dengue virus infection, researchers repo\u2026 [+3444 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.062418",
+      "internal_id": "37706de41894b790d44fea34eccf4452979b50a49a8c44d44696c89e1f1b6e39",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4742,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "DF registra quase 30 mil casos prov\u00e1veis de dengue e seis mortes",
+      "description": "A pasta investiga se outras 24 mortes ocorreram provocadas pela dengue. A capital do pa\u00eds est\u00e1 em situa\u00e7\u00e3o de emerg\u00eancia",
+      "url": "https://www.metropoles.com/colunas/grande-angular/df-registra-quase-30-mil-casos-provaveis-de-dengue-e-seis-mortes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/25121022/DF-tem-194-mil-jovens-com-10-a-14-anos-aptos-a-receber-vacina-contra-a-dengue.jpg",
+      "publishedAt": "2024-01-29 17:54:54",
+      "content": "Dengue, Zika e Chikungunya s\u00e3o doen\u00e7as cujos nomes s\u00e3o conhecidos no Brasil. Os tr\u00eas v\u00edrus transmitidos pelo mesmo mosquito, o Aedes aegypti, t\u00eam maior incid\u00eancia no pa\u00eds em per\u00edodos de chuva e calor\u2026 [+2569 chars]",
+      "retrievedAt": "2024-01-30 19:06:00.961521",
+      "internal_id": "91599ee4c399db0a06b1d83b21434484191880ea7d72e3bac537466d18f0e427",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4745,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue em BH: casos dobram em janeiro em rela\u00e7\u00e3o ao mesmo m\u00eas de 2023",
+      "description": "Neste ano, j\u00e1 s\u00e3o 665 casos confirmados; Minas Gerais decretou situa\u00e7\u00e3o de emerg\u00eancia",
+      "url": "https://saude.ig.com.br/2024-01-29/dengue-alta-casos-belo-horizonte.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-29 17:54:14",
+      "content": "Neste m\u00eas de janeiro, 665 casos de dengue j\u00e1 foram confirmados em Belo Horizonte, em dados computados at\u00e9 a \u00faltima sexta-feira (26), segundo a Secretaria Municipal de Sa\u00fade. O n\u00famero j\u00e1 \u00e9 mais que o \u2026 [+1650 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.047307",
+      "internal_id": "e10fdedd8c9f374a3ce756b835793d51b6786b4672804422871828463ce74bfa",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4753,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": null,
+      "title": "Meningitis risk shifting from infants to teens and M\u0101ori youth experiencing largest increase - new data",
+      "description": "Meningococcal disease cases among Kiwi teens and young adults have risen by 88 per cent.",
+      "url": "https://www.nzherald.co.nz/kahu/meningitis-risk-shifting-from-infants-to-teens-and-maori-youth-experiencing-largest-increase-new-data/47ZGPLG5YBDQRDYIVJZO3X3XNM/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/-ra56pA9InQ1uhYQ0d1YLRtXtvE=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/5SZYQ2JQSREBFMH3FBDENKSC7I.jpg",
+      "publishedAt": "2024-01-29 17:35:17",
+      "content": "The meningococcal vaccine is free for all children under 5.New Institute of Environmental Science and Research (ESR) data shows the number of cases of meningococcal disease among Kiwi teenagers and y\u2026 [+5514 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.502496",
+      "internal_id": "9218b99ebb6e43a25981f685d69907d90bf5ccdbb81c53dc71ec69b2186ccb08",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4743,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Carlos Est\u00eanio Brasilino",
+      "title": "Governo posta ap\u00f3s a\u00e7\u00e3o da PF contra Carlos Bolsonaro: \u201cToc, toc, toc\u201d",
+      "description": "Internautas viram na mensagem do Minist\u00e9rio da Sa\u00fade - \"Toc, toc, toc\" - uma indireta \u00e0s batidas da PF na casa de Carlos Bolsonaro",
+      "url": "https://www.metropoles.com/brasil/governo-posta-apos-acao-da-pf-contra-carlos-bolsonaro-toc-toc-toc",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/29140213/Campanha-governo-dengue.jpg",
+      "publishedAt": "2024-01-29 17:21:50",
+      "content": "Um post do governo federal sobre a necessidade de a popula\u00e7\u00e3o atender os agentes comunit\u00e1rios de sa\u00fade poderia ser apenas mais uma a\u00e7\u00e3o na luta contra a dengue. Mas em um dia de opera\u00e7\u00e3o da Pol\u00edcia F\u2026 [+1709 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.033192",
+      "internal_id": "2c4c48fe4efab1b5a05db46f53eb43ce875214cbe25f07340ef30174cbd1a9ed",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4741,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Gustavo Maia",
+      "title": "Planalto posta \u2018toc, toc\u2019, ap\u00f3s batida da PF contra Carlos Bolsonaro",
+      "description": "Publica\u00e7\u00e3o da Secom diz respeito \u00e0 visita de agentes comunit\u00e1rios de sa\u00fade a resid\u00eancias para combater o aumento no n\u00famero de casos de dengue no pa\u00eds",
+      "url": "https://veja.abril.com.br/coluna/radar/planalto-posta-toc-toc-apos-batida-da-pf-contra-carlos-bolsonaro",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/01/GFBMNyVXcAA5IXx.jpg?quality=90&strip=info&w=680&h=453&crop=1",
+      "publishedAt": "2024-01-29 16:24:33",
+      "content": "Assine VEJA por R$2,00/semana Continua ap\u00f3s publicidade Post do perfil oficial do Governo do Brasil no X (antigo Twitter) (@govbr/Twitter) Continua ap\u00f3s publicidade Horas depois de a PF cumprir m\u2026 [+882 chars]",
+      "retrievedAt": "2024-01-30 19:06:00.943665",
+      "internal_id": "640192d096709d0a017ef3608a759cddeb5beec4abaf9a429693647cb921cdf5",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4735,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Celebitchy.com",
+      "author": "Rosie",
+      "title": "Measles is spreading in the US and there\u2019s an outbreak in Europe",
+      "description": "Well, this is a bit troubling. According to the World Health Organization, the measles are making a comeback. Thanks to vaccines, the US declared the measles eliminated in 2000. However, the highly contagious virus, which can have serious complications, is on\u2026",
+      "url": "https://www.celebitchy.com/854784/measles_is_spreading_in_the_us_and_theres_an_outbreak_in_europe/",
+      "urlToImage": null,
+      "publishedAt": "2024-01-29 16:10:05",
+      "content": "Well, this is a bit troubling. According to the World Health Organization, the measles are making a comeback. Thanks to vaccines, the US declared the measles eliminated in 2000. However, the highly c\u2026 [+4221 chars]",
+      "retrievedAt": "2024-01-30 19:06:00.574971",
+      "internal_id": "bcf80fa13856730e018e056abb3c49bc64c276daf3f1c2cc0f3380897d69f90e",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4760,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "El ECDC notifica cerca de 500.000 casos del virus de Chikungunya en 2023, que ha provocado m\u00e1s de 400 muertes",
+      "description": "El Centro Europeo de Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha informado que durante el a\u00f1o 2023 se notificaron cerca de 500.000 casos por el virus de Chikungunya (CHIKVD) y m\u00e1s de 400 muertes en todo el mundo.",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-cerca-500000-casos-virus-chikungunya-2023-provocado-mas-400-muertes-20240129165837.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240129165837_1200.jpg",
+      "publishedAt": "2024-01-29 15:58:37",
+      "content": "MADRID, 29 Ene. (EUROPA PRESS) - El Centro Europeo de Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha informado que durante el a\u00f1o 2023 se notificaron cerca de 500.000 cas\u2026 [+2117 chars]",
+      "retrievedAt": "2024-01-30 19:06:02.508740",
+      "internal_id": "c3bcf2c99e76a41c3d195f4cdc60738ca21d32bbca428ffbf6c8b6b3c9643efb",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4761,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Electronicintifada.net",
+      "author": "Khuloud Rabah Sulaiman and Salma Yaseen",
+      "title": "Dying of thirst",
+      "description": "Palestinians in Gaza are contracting typhoid and Hepatitis A after drinking contaminated water.",
+      "url": "https://electronicintifada.net/content/dying-thirst/44221",
+      "urlToImage": "https://electronicintifada.net/sites/default/files/styles/original_800w/public/2024-01/121023_gaza_naa_2_0016.jpg?itok=USBmhzx3",
+      "publishedAt": "2024-01-29 15:07:45",
+      "content": "Khuloud Rabah Sulaiman and Salma YaseenThe Electronic Intifada29 January 2024 Palestinians fill their jerry cans with water from a public water collection point in October. (Naaman Omar / APA Images\u2026 [+5424 chars]",
+      "retrievedAt": "2024-01-30 19:06:02.892542",
+      "internal_id": "7bf730a8a4bada9ec6f4b1c63bd57b29a48dd10e9710918b02a37eb24bdfef15",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4744,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Morrissey cancela shows que faria no Brasil por 'exaust\u00e3o f\u00edsica'; saiba mais",
+      "description": "Ex-vocalista dos Smiths j\u00e1 havia adiado apresenta\u00e7\u00f5es ap\u00f3s ser diagnosticado com dengue no M\u00e9xico; cantor tinha shows marcados em S\u00e3o Paulo e Bras\u00edlia em fevereiro",
+      "url": "https://www.terra.com.br/diversao/musica/morrissey-cancela-shows-que-faria-no-brasil-por-exaustao-fisica-saiba-mais,43a8a23b73d6e0ed459f73f189a052d0lhotkv9y.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-01-29 14:36:53",
+      "content": "O cantor Morrissey, ex-vocalista da banda The Smiths, cancelou os shows que faria no Brasil por \"exaust\u00e3o f\u00edsica\". A informa\u00e7\u00e3o foi confirmada pela Free Pass Entretenimento, respons\u00e1vel pelas apresen\u2026 [+1066 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.038428",
+      "internal_id": "c5ba7da68be2e27f0c6d2ff18c5dbcea1c62e5d634595f69156e369d08a8b2f8",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4756,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Iryna Stryapunina, Maurice A. Itoe, Queenie Trinh, Charles Vidoudez, Esrah Du, Lydia Mendoza, Oleksandr Hulai, Jamie Kauffman, John Carew, W. Robert Shaw, Flaminia Catteruccia",
+      "title": "Precise coordination between nutrient transporters ensures fertility in the malaria mosquito Anopheles gambiae",
+      "description": "Author summary Female mosquitoes bite humans to acquire nutrients for egg development. The shuttling of nutrients from the gut (where the blood is digested) to the ovaries (where eggs are produced) relies on several nutrient transporters to move through the m\u2026",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011145",
+      "urlToImage": "https://journals.plos.org/plosgenetics/article/figure/image?id=10.1371/journal.pgen.1011145.g004&size=inline",
+      "publishedAt": "2024-01-29 14:00:00",
+      "content": "Abstract Females from many mosquito species feed on blood to acquire nutrients for egg development. The oogenetic cycle has been characterized in the arboviral vector Aedes aegypti, where after a bl\u2026 [+68677 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.813921",
+      "internal_id": "8680362f38bb477953ae1031afde0f110c982e50913de3929d8fffd857e6e17f",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4757,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Justin Y. A. Doritchamou, Jonathan P. Renn, Lars Hviid, Patrick E. Duffy",
+      "title": "Correction: A conformational epitope in placental malaria vaccine antigen VAR2CSA: What does it teach us?",
+      "description": "",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011503",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011503.g001&size=inline",
+      "publishedAt": "2024-01-29 14:00:00",
+      "content": "Citation: Doritchamou JYA, Renn JP, Hviid L, Duffy PE (2024) Correction: A conformational epitope in placental malaria vaccine antigen VAR2CSA: What does it teach us? PLoS Pathog 20(1): e1011503. \u2026 [+346 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.822484",
+      "internal_id": "2e0404c06ac298d3bcf36f11be27d136fd648d2c8e036076e0c916067127cdad",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4758,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Daniel Kepple, Colby T. Ford, Jonathan Williams, Beka Abagero, Shaoyu Li, Jean Popovici, Delenasaw Yewhalaw, Eugenia Lo",
+      "title": "Comparative transcriptomics reveal differential gene expression among Plasmodium vivax geographical isolates and implications on erythrocyte invasion mechanisms",
+      "description": "Author summary Plasmodium vivax malaria is a neglected tropical disease, despite being more geographically widespread than any other form of malaria and causes 132\u2013391 million clinical infections each year. The documentation of P. vivax infections in differen\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011926",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011926.g007&size=inline",
+      "publishedAt": "2024-01-29 14:00:00",
+      "content": "Abstract The documentation of Plasmodium vivax malaria across Africa especially in regions where Duffy negatives are dominant suggests possibly alternative erythrocyte invasion mechanisms. While the\u2026 [+64111 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.827910",
+      "internal_id": "5292551c7c74dfe8d0355dd7b98e601f6d8e7c50c2d932f6abc03f2d2171fe42",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4750,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Los casos de dengue aumentaron en 2023 en todo el mundo con m\u00e1s de 6.000 muertes",
+      "description": "El Centro Europeo de Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha informado que en 2023 se notificaron m\u00e1s de seis millones de casos de dengue y m\u00e1s de 6.000 muertes relacionadas con el dengue en 92 pa\u00edses.",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-casos-dengue-aumentaron-2023-todo-mundo-mas-6000-muertes-20240129142318.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240129142318_1200.jpg",
+      "publishedAt": "2024-01-29 13:23:18",
+      "content": "MADRID, 29 Ene. (EUROPA PRESS) - El Centro Europeo de Prevenci\u00f3n y Control de Enfermedades (ECDC, por sus siglas en ingl\u00e9s) ha informado que en 2023 se notificaron m\u00e1s de seis millones de casos de\u2026 [+2753 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.119258",
+      "internal_id": "2c9996616098c91855287e71d50bdbad2361e5b95579e667f480d1eaea562371",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4755,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cracked.com",
+      "author": "Eli Yudin",
+      "title": "\u2018I\u2019d Rather Have Malaria\u2019: The Worst Side Effects Medical Science Has Ever Achieved",
+      "description": "Some patients may turn into a horrible version of themselves known as \u2018Mr. Hyde\u2019",
+      "url": "https://www.cracked.com/article_40921_id-rather-have-malaria-the-worst-side-effects-medical-science-has-ever-achieved.html",
+      "urlToImage": "https://s3.crackedcdn.com/phpimages/article/2/6/0/1017260.jpg",
+      "publishedAt": "2024-01-29 13:00:00",
+      "content": "The side effects are worse than the disease! Its a classic comedic chestnut walked out across the ages, especially in reference to a motor-mouthed voiceover at the end of a medication commercial. Its\u2026 [+3633 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.798753",
+      "internal_id": "6cafc384c8ccfc2d7f05a8629187e2796ed55ffc43beaabaedc45457eacb26a3",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4759,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Sierraloaded.sl",
+      "author": "Julius Mustapha Harding",
+      "title": "Health Ministry Announces Registration and Distribution Dates for Treated Mosquito Nets",
+      "description": "The Government of Sierra Leone, in collaboration with the Ministry of Health, is gearing up for a crucial initiative in the fight against malaria \u2013 the 2023 Insecticide Treated Net (ITN) Mass Distribution Campaign. With the slogan \u201cPrevent Malaria! Always Sle\u2026",
+      "url": "https://sierraloaded.sl/health/ministry-health-registration-distribution-dates-nets/",
+      "urlToImage": "https://i0.wp.com/sierraloaded.sl/wp-content/uploads/2024/01/Ministry-of-Health-.png",
+      "publishedAt": "2024-01-29 12:49:13",
+      "content": "The Government of Sierra Leone, in collaboration with the Ministry of Health, is gearing up for a crucial initiative in the fight against malaria the 2023 Insecticide Treated Net (ITN) Mass Distribut\u2026 [+1630 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.839824",
+      "internal_id": "065b99aac47d21195642ff5c3c4d7fbf5de82455e126e894ae93523872e9f6d9",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4752,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Hola",
+      "author": "hola.com",
+      "title": "Patricia P\u00e9rez comparte las primeras im\u00e1genes de Luis Canut tras anunciar su grave enfermedad",
+      "description": "Han pasado 20 d\u00edas desde que la colaboradora de televisi\u00f3n contaba que su pareja hab\u00eda contra\u00eddo una meningitis criptoc\u00f3cica",
+      "url": "https://www.hola.com/actualidad/20240129248319/patricia-perez-primeras-imagenes-luis-canut-recuperado-nsv/",
+      "urlToImage": "https://images.hola.com/imagenes/actualidad/20240129248319/patricia-perez-primeras-imagenes-luis-canut-recuperado-nsv/1-383-713/patricia-perez-luis-canut-europa-t.jpg",
+      "publishedAt": "2024-01-29 11:20:39",
+      "content": "Fue el pasado 8 de enero cuando Patricia P\u00e9rez les contaba a sus seguidores el motivo por el que su marido, Luis Canut, llevaba meses alejado de la vida p\u00fablica. La presentadora revelaba entonces que\u2026 [+825 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.494092",
+      "internal_id": "728fafbdacd94c89b1b0ee8815fd560e549502f790a165a7c8b352a7c02048fb",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4740,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Tamires Ferreira",
+      "title": "Dengue: vacina\u00e7\u00e3o come\u00e7a em fevereiro, em 521 munic\u00edpios; confira lista",
+      "description": "Minist\u00e9rio da Sa\u00fade priorizar\u00e1 crian\u00e7as e adolescentes de 10 a 14 anos O post Dengue: vacina\u00e7\u00e3o come\u00e7a em fevereiro, em 521 munic\u00edpios; confira lista apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/01/29/medicina-e-saude/dengue-vacinacao-comeca-em-fevereiro-em-521-municipios-confira-lista/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/01/vacina-da-dengue-695x500.jpg",
+      "publishedAt": "2024-01-29 10:40:49",
+      "content": "O Minist\u00e9rio da Sa\u00fade informou, na \u00faltima semana, que 521 munic\u00edpios brasileiros foram selecionados para iniciar a vacina\u00e7\u00e3o contra a dengue via Sistema \u00danico de Sa\u00fade (SUS) a partir de fevereiro. As\u2026 [+2378 chars]",
+      "retrievedAt": "2024-01-30 19:06:00.935806",
+      "internal_id": "07e68d625a227f5de03a95d7fe277b47621cb3d9b4a62bd9fa7d8c67cf896d6d",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4747,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "SP: cinco pessoas morreram de dengue nos primeiros 20 dias de janeiro",
+      "description": "Cinco pessoas morreram de dengue entre os dias 1 e 21 de janeiro, em S\u00e3o Paulo. Uma morte aconteceu em Bebedouro, duas em Jacare\u00ed e outras dua...",
+      "url": "https://recordtv.r7.com/fala-brasil/videos/sp-cinco-pessoas-morreram-de-dengue-nos-primeiros-20-dias-de-janeiro-29012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/29/65b7a7a24b4955f19600026b/a37402c0488146919404d8362466f211__2475602_EPP_2901_FB_CIDADES_DE_SAO_PAULO_thumb_thumb.jpg",
+      "publishedAt": "2024-01-29 10:36:00",
+      "content": "Cinco pessoas morreram de dengue entre os dias 1 e 21 de janeiro, em S\u00e3o Paulo. Uma morte aconteceu em Bebedouro, duas em Jacare\u00ed e outras duas em Pindamonhangaba. 11 munic\u00edpios foram escolhidos para\u2026 [+53 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.094538",
+      "internal_id": "2ab99e91fc20b483e20de3004447fc9c6a8d8026a11ccc801085259c57af3906",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4736,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Emma Wilkinson",
+      "title": "Measles outbreaks: Investing in patient relationships through GP continuity will be key to boosting MMR confidence",
+      "description": "The \u201cWakefield generation\u201d is just part of the reason for low MMR vaccine coverage. Local knowledge and connection with communities will be key to turning it around\u2014and that needs resourcing, reports Emma Wilkinson The World Health Organization has warned o\u2026",
+      "url": "https://www.bmj.com/content/384/bmj.q221",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/384/8414.cover-source.jpg",
+      "publishedAt": "2024-01-29 10:06:42",
+      "content": "Emma Wilkinson, freelance journalistSheffield, UK emmalwilkinson{at}gmail.com The Wakefield generation is just part of the reason for low MMR v\u2026 [+1789 chars]",
+      "retrievedAt": "2024-01-30 19:06:00.585779",
+      "internal_id": "c8325e1910cb82a4143f50204db918288d19769962a0c3ff97059e66539377a4",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4738,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen",
+      "title": "How Fringe Anti-Science Views Infiltrated Mainstream Politics \u2014 And What It Means in 2024",
+      "description": "Opposition to vaccines and other public health measures backed by science has become politically charged. That makes dangerous misinformation much harder to fight.",
+      "url": "https://kffhealthnews.org/news/article/anti-science-vaccines-politics-polarization-partisanship-2024-elections/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2024/01/GettyImages-1240586180-resized.jpg",
+      "publishedAt": "2024-01-29 10:00:00",
+      "content": "Amy MaxmenRates of routine childhood vaccination hit a 10-year low in 2023. That, according to the Centers for Disease Control and Prevention, puts about 250,000 kindergartners at risk for measles, w\u2026 [+9734 chars]",
+      "retrievedAt": "2024-01-30 19:06:00.605621",
+      "internal_id": "b604eabf2b7806b8da5b3072ffb0fa07337992c54a028537bfda790601136566",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4739,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Cian \u00d3 Broin",
+      "title": "Irish GP warns of risk to public health as HSE stresses \u2018significant rise\u2019 in measles in Europe",
+      "description": "An Irish doctor has warned of the dangers to public health following a rise in the number of measles cases identified in Europe.",
+      "url": "https://www.independent.ie/irish-news/irish-gp-warns-of-risk-to-public-health-as-hse-stresses-significant-rise-in-measles-in-europe/a380986655.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/jf_BiaXmfwwK99UBMPrp-hvzDkA=/13x0:2087x1383/2074x1383/prod-mh-ireland/7f1d7e6f-01f0-4d33-9955-e21e81cda1fd/28efe3fe-fe6a-4037-9db3-98f9c56621ca/7f1d7e6f-01f0-4d33-9955-e21e81cda1fd.jpg",
+      "publishedAt": "2024-01-29 09:42:31",
+      "content": "An Irish doctor has warned of the dangers to public health following a rise in the number of measles cases identified in Europe.Dr Illona Duffy, who works as a GP, warned that the vaccination rate fo\u2026 [+2477 chars]",
+      "retrievedAt": "2024-01-30 19:06:00.627610",
+      "internal_id": "25fe034c9e3ae924cd0252c54ed39dc9b4897ba7c1e7772bd31aa1c372d02e80",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4748,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Governo de MG decreta estado de emerg\u00eancia pelo alto n\u00famero de casos de dengue",
+      "description": "O Governo de Minas decretou estado de emerg\u00eancia devido \u00e0 alta incid\u00eancia de casos de dengue e chikungunya. Fica autorizada a ado\u00e7\u00e3o de todas ...",
+      "url": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/governo-de-mg-decreta-estado-de-emergencia-pelo-alto-numero-de-casos-de-dengue-29012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/29/65b79645ca90841a08009e9e/33d06b46bd414a35ab627f9d399268d0__Governo_de_MG_decreta_estado_de_emerg_ncia_pelo_alto_n_mero_de_casos_de_dengue_thumb.jpg",
+      "publishedAt": "2024-01-29 09:22:54",
+      "content": "O Governo de Minas decretou estado de emerg\u00eancia devido \u00e0 alta incid\u00eancia de casos de dengue e chikungunya. Fica autorizada a ado\u00e7\u00e3o de todas as medidas necess\u00e1rias para conter o aumento dos casos da\u2026 [+243 chars]",
+      "retrievedAt": "2024-01-30 19:06:01.104003",
+      "internal_id": "b2675802b9ac5a1882a96f451ce09c95343896506ae04bed57632cdb11b9c3e8",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4737,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Dr Catherine Conlon",
+      "title": "Dr Catherine Conlon: Catch Up vaccination clinics needed now before measles sweeps the country",
+      "description": "The public health expert says Ireland needs to get ahead of any spike in measles.",
+      "url": "https://www.thejournal.ie/readme/measles-ireland-6284077-Jan2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6284077/river/?height=400&version=6284093",
+      "publishedAt": "2024-01-29 08:34:48",
+      "content": "SIX YEARS AFTER the WHO declared that measles had been eliminated in the UK, the country is in the middle of a measles emergency. The UK Health Security Agency (UKHSA) has declared a national incide\u2026 [+7270 chars]",
+      "retrievedAt": "2024-01-30 19:06:00.594978",
+      "internal_id": "3ac818bfb7cb34915d01d59cea83096aab835b7520e968b8d6b090eb7e8fc440",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4734,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "What is '100 day cough'? Why is it in news?",
+      "description": "\u200b100-day cough is another name for whooping cough, which is medically also referred to as pertussis. It is called a 100-day cough because it can last for weeks or months and starts like a common cold. Whooping cough, or pertussis, is a highly contagious respi\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-100-day-cough-why-is-it-in-news/photostory/107225626.cms",
+      "urlToImage": "https://static.toiimg.com/photo/107225767.cms",
+      "publishedAt": "2024-01-29 08:30:00",
+      "content": "Whooping cough (pertussis) typically progresses through several stages. Initially, symptoms resemble those of a common cold, including a runny nose, sneezing, and a mild cough. As the infection advan\u2026 [+360 chars]",
+      "retrievedAt": "2024-01-30 19:05:59.989608",
+      "internal_id": "f367180d40ceed035f6b790405b51e7c5b503c4943e936579eef561e9359013a",
+      "publishedAtLabel": "Jan 29"
+    },
     {
       "id": 4728,
       "query": [
@@ -17232,98 +17739,6 @@
       "content": "Global public health experts are warning that the United States is not prepared for looming threats posed by tropical and insect-borne viruses. At a two-day workshop this week at the National Academ\u2026 [+3569 chars]",
       "retrievedAt": "2023-12-19 07:06:05.858171",
       "internal_id": "0cfaf88db7ee727c73cd38a41e17381d95bf8444a45aaf1a778242c49f7b5ab6",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3771,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Congo-Kinshasa: L'OMS s'inqui\u00e8te de la propagation rapide de l'\u00e9pid\u00e9mie de Mpox, aussi appel\u00e9 \u00abvariole du singe\u00bb",
-      "description": "[RFI] L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocratique du Congo. L'OMS craint une transmission internat\u2026",
-      "url": "https://fr.allafrica.com/stories/202312170213.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-17 17:47:35",
-      "content": "L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocra\u2026 [+1973 chars]",
-      "retrievedAt": "2023-12-18 19:05:22.225309",
-      "internal_id": "78f75754d80da4b9cf135d9139b937366c70069c7ba13d66fe748363e9ed73e7",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3768,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
-      "description": "O alerta \u00e9 da plataforma AdaptaBrasil, vinculada ao Minist\u00e9rio da Ci\u00eancia, Tecnologia e Inova\u00e7\u00e3o (MCTI), em parceria com a Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz)",
-      "url": "https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2023-12-17 15:08:43",
-      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7013 chars]",
-      "retrievedAt": "2023-12-18 19:05:20.888933",
-      "internal_id": "65c09fd30bc85e9e62d4a53048ecc51a005d39c13e9fae15c460c5ed0b600dee",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3770,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "lesdepechesdebrazzaville@orange.fr (Les D\u00e9p\u00eaches de Brazzaville)",
-      "title": "Congo-Brazzaville: Forte extension de l'\u00e9pid\u00e9mie de mpox",
-      "description": "[Les D\u00c3\u00a9p\u00c3\u00aaches de Brazzaville] La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleurs, selon l'Organisation mon\u2026",
-      "url": "https://fr.allafrica.com/stories/202312170165.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-17 13:44:42",
-      "content": "La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleu\u2026 [+2518 chars]",
-      "retrievedAt": "2023-12-18 19:05:22.217644",
-      "internal_id": "ffc356b5afd0af4ad4d33484615d7ab1b68d898dd616c76bfc983aab95a21bf2",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3767,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
-      "description": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e,...",
-      "url": "https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/12/17104316/mnltwruwnrntvhfsnhcib3jxeu.webp",
-      "publishedAt": "2023-12-17 10:46:19",
-      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7210 chars]",
-      "retrievedAt": "2023-12-18 19:05:20.884949",
-      "internal_id": "edc6e32eb4ce9ef72072cc25207b7750a3def679012278999d1ca14019fac8f0",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3769,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Sof\u00eda Barruti",
-      "title": "Un cient\u00edfico africano podr\u00eda acabar con la malaria editando el ADN de un mosquito",
-      "description": "Diabate, que ahora dirige entomolog\u00eda m\u00e9dica y parasitolog\u00eda en el Instituto de Investigaci\u00f3n en Ciencias de la Salud de Burkina Faso, est\u00e1 desarrollando una t\u00e9cnica innovadora que potencialmente podr\u00eda eliminar las especies de mosquitos transmisores de malar\u2026",
-      "url": "https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/",
-      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/12/cientifico-malaria.jpg?quality=100&strip=info",
-      "publishedAt": "2023-12-17 09:06:30",
-      "content": "Casos de malaria entre migrantes pone en alerta a Honduras 4:01 (CNN) -- Abdoulaye Diabate enfrent\u00f3 un ataque de malaria que puso en peligro su vida cuando solo ten\u00eda cinco a\u00f1os. Diabate sobrevivi\u00f3\u2026 [+9242 chars]",
-      "retrievedAt": "2023-12-18 19:05:21.602100",
-      "internal_id": "fccc16499069e80b64c41def33114d84578c1c2dae555f32b41f5e75b2056c47",
       "publishedAtLabel": "Dec 17"
     }
   ]
