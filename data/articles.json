@@ -1,8 +1,26 @@
 {
-  "last_updated": "2024-01-31 19:05",
+  "last_updated": "2024-01-31 19:31",
   "count_articles_total": 1037,
-  "count_articles_new": 36,
+  "count_articles_new": 1,
   "articles": [
+    {
+      "id": 4816,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "\u201cStock cero de insumos\u201d: El drama de Chaco, el distrito con m\u00e1s casos de dengue este verano, y una dura acusaci\u00f3n a Capitanich",
+      "description": "El ministro de Salud provincial denunci\u00f3 que el gobierno saliente no implement\u00f3 medidas para evitar la emergencia sanitaria que anticipaban datos epidemiol\u00f3gicos de 2023",
+      "url": "https://www.lanacion.com.ar/sociedad/stock-cero-de-insumos-el-drama-de-chaco-el-distrito-con-mas-casos-de-dengue-este-verano-y-una-dura-nid30012024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/sergio-rodriguez-ministro-de-salud-de-V5RJAH75XRABXJOV3RU5F53TBA.jpg?auth=7d418a09bf72eb8a49526872b4bae1035eafd6cc2ac9d34b93e7dcdb997726b6&width=768&quality=70&smart=false",
+      "publishedAt": "2024-01-30 19:07:00",
+      "content": "Y est\u00e1 complicado, coincidieron en las \u00faltimas horas profesionales del sistema de salud chaque\u00f1o al describir a este medio el brote epid\u00e9mico de dengue que atraviesa la provincia. Con alta demanda en\u2026 [+6075 chars]",
+      "retrievedAt": "2024-01-31 19:31:02.426722",
+      "internal_id": "17731b0cb8a9a06d57558609fafa957e6b0dfdac998fe1275c171ef3e577f112",
+      "publishedAtLabel": "Jan 30"
+    },
     {
       "id": 4788,
       "query": [
@@ -18694,26 +18712,6 @@
       "content": "Los par\u00e1sitos han jugado un papel crucial en la historia de la humanidad, no solo como agentes de enfermedades devastadoras como el tifus y la malaria, sino tambi\u00e9n como compa\u00f1eros constantes en nues\u2026 [+29633 chars]",
       "retrievedAt": "2023-12-19 07:06:06.846865",
       "internal_id": "91e8aaef663cecdff5a92cb7a8a8ddb72b2baeb525f65c82ff88da41f475e878",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3772,
-      "query": [
-        "dengue",
-        "malaria",
-        "zika"
-      ],
-      "source_id": "newsweek",
-      "source_name": "Newsweek",
-      "author": "Gabe Whisnant",
-      "title": "US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn",
-      "description": "Tropical diseases such as malaria, Zika and dengue fever have all seen U.S. transmissions and outbreaks in recent years.",
-      "url": "https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155",
-      "urlToImage": "https://d.newsweek.com/en/full/2324616/stockholm-researcher.jpg",
-      "publishedAt": "2023-12-17 19:24:15",
-      "content": "Global public health experts are warning that the United States is not prepared for looming threats posed by tropical and insect-borne viruses. At a two-day workshop this week at the National Academ\u2026 [+3569 chars]",
-      "retrievedAt": "2023-12-19 07:06:05.858171",
-      "internal_id": "0cfaf88db7ee727c73cd38a41e17381d95bf8444a45aaf1a778242c49f7b5ab6",
       "publishedAtLabel": "Dec 17"
     }
   ]

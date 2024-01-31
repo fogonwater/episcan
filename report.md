@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 36
-- **Last harvest:** 2024-01-31 19:05
-- **Most recent article:** 2024-01-30 19:00:11
+- **New articles in last harvest:** 1
+- **Last harvest:** 2024-01-31 19:31
+- **Most recent article:** 2024-01-30 19:07:00
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 67 | 37 | 2 | 52 | 35 | 65 | 123 | 55 | 436 |
-| malaria | 22 | 22 | 2 | 11 | 51 | 26 | 86 | 9 | 229 |
+| dengue | 66 | 37 | 2 | 52 | 35 | 65 | 123 | 56 | 436 |
+| malaria | 21 | 22 | 2 | 11 | 51 | 26 | 86 | 9 | 228 |
 | measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 23 | 209 |
 | mpox | 13 | 12 | 0 | 2 | 2 | 8 | 4 | 0 | 41 |
-| zika | 3 | 1 | 0 | 7 | 8 | 8 | 7 | 3 | 37 |
+| zika | 2 | 1 | 0 | 7 | 8 | 8 | 7 | 3 | 36 |
 | rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 2 | 33 |
 | chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 4 | 30 |
 | meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 3 | 30 |
@@ -129,6 +129,8 @@ Source: [News API](https://newsapi.org/)
 - [Sella Cruz Azul su primera victoria del Clausura 2024](https://www.reforma.com/sella-cruz-azul-su-primer-triunfo-del-clausura-2024/ar2747624) (Reforma.com)
 
 ## 24-5 (dengue)
+
+- [“Stock cero de insumos”: El drama de Chaco, el distrito con más casos de dengue este verano, y una dura acusación a Capitanich](https://www.lanacion.com.ar/sociedad/stock-cero-de-insumos-el-drama-de-chaco-el-distrito-con-mas-casos-de-dengue-este-verano-y-una-dura-nid30012024/) (La Nacion)
 
 - [Dengue: conheça os principais sintomas e riscos da doença para gestantes](https://claudia.abril.com.br/saude/dengue-conheca-os-principais-sintomas-e-riscos-da-doenca-para-gestantes) (Abril.com.br)
 
@@ -2042,8 +2044,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Entenda por que os sorotipos 3 e 4 da dengue preocupam as autoridades de saúde em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/18/entenda-por-que-os-sorotipos-3-e-4-da-dengue-preocupam-as-autoridades-de-saude-em-campinas.ghtml) (Globo)
 
-- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
-
 ## 23-51 (typhoid)
 
 - [Mother reunites with missing son on traffic signal after seven years, found him begging in Pakistan](https://economictimes.indiatimes.com/news/international/world-news/mother-reunites-with-missing-son-on-traffic-signal-after-seven-years-found-him-begging-in-pakistan/articleshow/106213574.cms) (The Times of India)
@@ -2202,8 +2202,6 @@ Source: [News API](https://newsapi.org/)
 
 - [“Un buen parásito es aquel que no mata a su hospedador”](https://www.muyinteresante.es/ciencia/62663.html) (Muyinteresante.es)
 
-- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
-
 ## 23-51 (leptospirosis)
 
 - [Prevalence and risk factors for human leptospirosis at a hospital serving a pastoralist community, Endulen, Tanzania](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011855) (Plos.org)
@@ -2343,8 +2341,6 @@ Source: [News API](https://newsapi.org/)
 - [Entenda por que os sorotipos 3 e 4 da dengue preocupam as autoridades de saúde em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/18/entenda-por-que-os-sorotipos-3-e-4-da-dengue-preocupam-as-autoridades-de-saude-em-campinas.ghtml) (Globo)
 
 - [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://allafrica.com/stories/202312180007.html) (AllAfrica - Top Africa News)
-
-- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
 ## 23-51 (chikungunya)
 
