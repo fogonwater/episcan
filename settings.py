@@ -2,6 +2,7 @@ KEYWORD_QUERIES = [
     "pertussis",
     "rabies",
     "measles",
+    "sarampión",
     "dengue",
     "meningitis",
     "malaria",
