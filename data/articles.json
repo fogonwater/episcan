@@ -1,8 +1,335 @@
 {
-  "last_updated": "2024-01-30 19:06",
-  "count_articles_total": 983,
-  "count_articles_new": 28,
+  "last_updated": "2024-01-31 07:05",
+  "count_articles_total": 1006,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 4773,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Antes da explos\u00e3o de dengue, DF perdeu 36% dos agentes contra a doen\u00e7a",
+      "description": "Segundo pesquisa, ao longo dos \u00faltimos 10 anos, a rede p\u00fablica tamb\u00e9m deixou de investir R$ 241 milh\u00f5es na luta e preven\u00e7\u00e3o contra a doen\u00e7a",
+      "url": "https://www.metropoles.com/distrito-federal/antes-da-explosao-de-dengue-df-perdeu-36-dos-agentes-contra-a-doenca",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/29155305/DF-perdeu-36-dos-agentes-contra-a-dengue.jpg",
+      "publishedAt": "2024-01-30 06:00:28",
+      "content": "Antes da explos\u00e3o de casos de dengue atingir o Distrito Federal em 2024, a rede p\u00fablica de sa\u00fade perdeu 36,7% da for\u00e7a de trabalho para combater os focos do mosquito Aedes aegypti, transmissor da doe\u2026 [+9512 chars]",
+      "retrievedAt": "2024-01-31 07:05:46.321980",
+      "internal_id": "b0b4ad9e1a5e8c4de0f7b5e407cda22018a05dd38d84973d883404a953029d60",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4769,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jo\u00e3o V\u00edtor Reis",
+      "title": "X\u00f4, dengue! Saiba como evitar que sua casa vire criadouro de mosquitos",
+      "description": "Infectologista explica como eliminar os focos de \u00e1gua parada diminuem o risco de prolifera\u00e7\u00e3o do Aedes aegypti, o mosquito da dengue",
+      "url": "https://www.metropoles.com/saude/como-evitar-mosquitos-da-dengue-em-casa",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/26180736/dengue-casa2.jpg",
+      "publishedAt": "2024-01-30 05:00:26",
+      "content": "O n\u00famero de casos de dengue continuam a crescer no Brasil. O Distrito Federal j\u00e1 registrou quase 30 mil casos prov\u00e1veis e seis mortes pela doen\u00e7a, e est\u00e1 em situa\u00e7\u00e3o de emerg\u00eancia em sa\u00fade p\u00fablica de\u2026 [+8899 chars]",
+      "retrievedAt": "2024-01-31 07:05:46.269035",
+      "internal_id": "14ef891bb52c3cf4a213cd40c554fc01b0881d3c36c8a2ff7965dd1fdebf4841",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4779,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Setopati.com",
+      "author": "Alessandro Siani :: Setopati",
+      "title": "Vaccine hesitancy rising as climate-related disease spreads",
+      "description": "While this claim might sound like scaremongering, it is not a prediction \u2014 it's already happening now in our cities, as exemplified by news reports of the streets of Paris being fumigated to limit the spread of tiger mosquitoes known to carry Zika and dengue.",
+      "url": " https://en.setopati.com/International/162491 ",
+      "urlToImage": "https://en.setopati.com/uploads/posts/Vaccine-1706584229.jpeg",
+      "publishedAt": "2024-01-30 03:12:41",
+      "content": "As climate change causes more extreme weather events, increased rainfall and rising temperatures, it's increasing the spread of infectious diseases. While this claim might sound like scaremongering,\u2026 [+8519 chars]",
+      "retrievedAt": "2024-01-31 07:05:46.409197",
+      "internal_id": "c1e78d54983228542dc3162cf2bd44fa46ad907b1c26e2d7722112e1ac5d18d4",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4766,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Thousands of school-aged children are at risk of getting sick from measles",
+      "description": "Multiple measles outbreaks have sickened people in the U.S. recently, including in Philadelphia and Washington state. Experts agree that measles can easily spread among unvaccinated people. National investigative correspondent Stephen Stock explains why so ma\u2026",
+      "url": "https://www.cbsnews.com/video/thousands-of-school-aged-children-are-at-risk-of-getting-sick-from-measles/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/30/fa9931c3-c47e-4169-9185-d30527003716/thumbnail/1200x630/618cff984c478b01c05e105269cc1000/vaccine-vigilance-key-art.jpg?v=d5d292229f42ff99b81040fe7c32f134",
+      "publishedAt": "2024-01-30 01:58:00",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-01-31 07:05:45.790712",
+      "internal_id": "0cc0cae679706efdb9a7e632c08534e12a17770ca7d34f453b63e0b4828f1932",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4767,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Why is a 95% vaccination rate so important?",
+      "description": "Penn State University professor of biology and infectious diseases Dr. Matt Ferrari explains why a difference of a few points in the vaccination rate can greatly increase the risk of a measles outbreak.",
+      "url": "https://www.cbsnews.com/video/why-is-a-95-vaccination-rate-so-important/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/30/63cb61f1-e5c2-4b6f-9d64-054f9506affe/thumbnail/1200x630/d7953e6171eddcc72dd2eb1d3d4b3d63/still-why-is-the-95-vaccine-rate-important.jpg?v=d5d292229f42ff99b81040fe7c32f134",
+      "publishedAt": "2024-01-30 01:58:00",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-01-31 07:05:45.794468",
+      "internal_id": "01ae429189fd4fc19d79c9c1a6dc5c31490dc9e7df63e2734f3199e409832d1e",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4772,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Luana Viana",
+      "title": "Quem era Aline Barbosa, influenciadora digital que morreu de dengue",
+      "description": "A influenciadora Aline Barone Barbosa tinha 37 anos, morava em Siqueira Campos e morreu na cidade de Jacarezinho (PR)",
+      "url": "https://www.metropoles.com/brasil/quem-era-aline-barbosa-influenciadora-digital-que-morreu-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/29204432/foto-influenciadora-morta-por-dengue-2.jpg",
+      "publishedAt": "2024-01-30 00:05:06",
+      "content": "A influenciadora digital e empres\u00e1ria paranaense Aline Barone Barbosa morreu devido a complica\u00e7\u00f5es da dengue na sexta-feira (26/1) em um hospital da cidade de Jacarezinho, no Paran\u00e1. A v\u00edtima morava \u2026 [+923 chars]",
+      "retrievedAt": "2024-01-31 07:05:46.313851",
+      "internal_id": "cf0040b1ca1115f7d2625eefd8a988b72eb3bc32d969c43ff73e0cdac1caf765",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4776,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "oakbari@ucsd.edu (Craig Montell), oakbari@ucsd.edu (Daniel J Brogan), oakbari@ucsd.edu (Elena D Benetta), oakbari@ucsd.edu (H\u00e9ctor M S\u00e1nchez C), oakbari@ucsd.edu (Igor Antoshechkin), oakbari@ucsd.edu (John M Marshall), oakbari@ucsd.edu (Matthew P Su), oakbari@ucsd.edu (Ming Li), oakbari@ucsd.edu (Nicolas A DeBeaubien), oakbari@ucsd.edu (Nikolay P Kandul), oakbari@ucsd.edu (Omar S Akbari), oakbari@ucsd.edu (Ruichen Sun), oakbari@ucsd.edu (Ting Yang), oakbari@ucsd.edu (Yinpeng Zhan), oakbari@ucsd.edu (YuMin M Loh)",
+      "title": "Targeting sex determination to suppress mosquito populations",
+      "description": "Each year, hundreds of millions of people are infected with arboviruses such as dengue, yellow fever, chikungunya, and Zika, which are all primarily spread by the notorious mosquito Aedes aegypti. Traditional control measures have proven insufficient, necessi\u2026",
+      "url": "https://elifesciences.org/articles/90199",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-01-30 00:00:00",
+      "content": "The following is the authors response to the original reviews. eLife assessment This important paper builds on a method, previously conceptualized and validated, of genetic control for insect popul\u2026 [+27260 chars]",
+      "retrievedAt": "2024-01-31 07:05:46.345125",
+      "internal_id": "ed1947c0b4b7dc83c5c12652bcf7f364567bcf206f899ef0b0235e3ec38c08e5",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4774,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Banda B",
+      "title": "Influenciadora digital morre v\u00edtima de dengue aos 37 anos no Paran\u00e1",
+      "description": "Aline Barone Barbosa morava em Siqueira Campos, munic\u00edpio do norte do Paran\u00e1, onde foi sepultada",
+      "url": "https://www.metropoles.com/brasil/influenciadora-digital-morre-vitima-de-dengue-aos-37-anos-no-parana",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/29201216/foto-infuenciadora-morte-dengue-parana1.jpg",
+      "publishedAt": "2024-01-29 23:09:41",
+      "content": "Foi registrada mais uma morte por dengue no Paran\u00e1. Desta vez, trata-se de uma empres\u00e1ria e influenciadora digital, de 37 anos, que sofreu uma complica\u00e7\u00e3o card\u00edaca causada pela doen\u00e7a. A v\u00edtima, iden\u2026 [+557 chars]",
+      "retrievedAt": "2024-01-31 07:05:46.328635",
+      "internal_id": "460f5f3270d407b0c0c01ad544f003aafebd717d2deaf987460d293ce0819940",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4770,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "Com dengue, deputado faz apelo: \u201cTem que ser esfor\u00e7o coletivo\u201d",
+      "description": "O resultado do exame saiu nesta segunda-feira (29/1), confirmando que o deputado distrital Joaquim Roriz Neto est\u00e1 com a doen\u00e7a",
+      "url": "https://www.metropoles.com/colunas/grande-angular/com-dengue-deputado-faz-apelo-tem-que-ser-esforco-coletivo",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/29192405/joaquim-roriz-neto-dengue.jpg",
+      "publishedAt": "2024-01-29 22:29:02",
+      "content": "O deputado distrital Joaquim Roriz Neto (PL) foi diagnosticado com dengue no momento em que o Distrito Federal est\u00e1 em estado de emerg\u00eancia com mais de 29 mil casos prov\u00e1veis da doen\u00e7a. O resultado \u2026 [+726 chars]",
+      "retrievedAt": "2024-01-31 07:05:46.273481",
+      "internal_id": "b257daae099d8f5b6c08669a156dfc0eace76e6ffb8a047778f84196fcd1e323",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4768,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FactCheck.org",
+      "author": "Jessica McDonald",
+      "title": "Posts Mislead About Measles, MMR Vaccine Amid Recent Outbreaks",
+      "description": "Measles is a highly contagious disease that can be serious and even fatal. Fortunately, it can safely be prevented by vaccination. But in the wake of outbreaks in the U.S. and elsewhere -- likely in large part due to low vaccination coverage -- social media p\u2026",
+      "url": "https://www.factcheck.org/2024/01/scicheck-posts-mislead-about-measles-mmr-vaccine-amid-recent-outbreaks/",
+      "urlToImage": "https://cdn.factcheck.org/UploadedFiles/measles-child-banner.jpeg",
+      "publishedAt": "2024-01-29 22:08:35",
+      "content": "Measles is a highly contagious disease that can be serious and even fatal. Fortunately, it can safely be prevented by vaccination. But in the wake of outbreaks in the U.S. and elsewhere \u2014 likely in l\u2026 [+18437 chars]",
+      "retrievedAt": "2024-01-31 07:05:45.818759",
+      "internal_id": "9cd327f863c9754584a94d4618348335f62c2c67abca4de64f0b1028b171b3d0",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4763,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Katie Langford",
+      "title": "Dog shot by Boulder police was attacking owner, officers",
+      "description": "A dog shot by Boulder police Sunday continued to attack his owner and responding officers despite repeated tempts to subdue him, according to the Boulder Police Department.",
+      "url": "https://www.denverpost.com/2024/01/29/dog-attack-shot-officers-boulder/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/01/TDP-Z-dog-attack-boulder-012824.jpg?w=1024&h=576",
+      "publishedAt": "2024-01-29 20:55:23",
+      "content": "A dog shot by Boulder police Sunday and later euthanized will be tested for rabies and other medical conditions after he continued to attack his owner and responding officers despite being stabbed, s\u2026 [+2010 chars]",
+      "retrievedAt": "2024-01-31 07:05:45.466674",
+      "internal_id": "c0f601d9962856732c41a446c3af0bdf244d74ee6ab1d5d71ea472b684e0a0a1",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4775,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Sa\u00fade treina 247 militares para ajudar na luta contra a dengue no DF",
+      "description": "Militares dever\u00e3o come\u00e7ar a ajudar nas a\u00e7\u00f5es de campo contra a doen\u00e7a ainda nesta semana, em Samambaia e Ceil\u00e2ndia",
+      "url": "https://www.metropoles.com/distrito-federal/saude-treina-247-militares-para-ajudar-na-luta-contra-a-dengue-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/29170520/Saude-treina-247-militares-para-combater-dengue-no-DF.jpeg",
+      "publishedAt": "2024-01-29 20:10:48",
+      "content": "A Secretaria de Sa\u00fade treinou 247 militares do Ex\u00e9rcito para combater a dengue no Distrito Federal, nesta segunda-feira (29/1), na Funda\u00e7\u00e3o de Ensino e Pesquisa em Ci\u00eancias da Sa\u00fade (Fepecs). Os mil\u2026 [+1073 chars]",
+      "retrievedAt": "2024-01-31 07:05:46.335961",
+      "internal_id": "85c96cb2449e5c2cc8edbdf38df89e5517380516269bd43b247c5ad55da25478",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4764,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Dave Wessner, Contributor, \n Dave Wessner, Contributor\n https://www.forbes.com/sites/coronavirusfrontlines/people/davewessner/",
+      "title": "In An Alert To Clinicians, CDC Notes That Measles Is Making A Comeback",
+      "description": "Recently, 23 cases of measles have been reported in the US. This has prompted the CDC to send a notification to clinicians, warning them to be alert for the disease.",
+      "url": "https://www.forbes.com/sites/davewessner/2024/01/29/in-an-alert-to-clinicians-cdc-notes-that-measles-is-making-a-comeback/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65b8034fa424328d64b5ab96/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-01-29 20:08:22",
+      "content": "Measles cases are increasing in the US, as vaccination rates drop. (Photo By BSIP/UIG Via Getty ... [+] Images) Universal Images Group via Getty Images In a notification sent last week, the CDC war\u2026 [+2627 chars]",
+      "retrievedAt": "2024-01-31 07:05:45.780771",
+      "internal_id": "533ebea8a7a398de8bc9d188ff762a2ff7c6e6851c2573401a618801d676e024",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4762,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Durgesh Nandan Jha",
+      "title": "Make anti-rabies serum available at PHCs: Centre",
+      "description": "The Centre has instructed all states and Union Territories to guarantee the presence of anti-rabies serum in sub-health centres, primary health centres, and urban primary health centres. With a cost exceeding Rs 10,000 per dose, it is often unavailable in mos\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/make-anti-rabies-serum-available-at-phcs-centre/articleshow/107240937.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107240943,width-1070,height-580,imgsize-658031,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-01-29 19:47:15",
+      "content": "10 reasons why roasted chana is the best food to snack",
+      "retrievedAt": "2024-01-31 07:05:45.453325",
+      "internal_id": "94312293acc97e8c895c2bfca13967bc554720bca88947afd91c65661252e321",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4765,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Victor Petrovic",
+      "title": "Measles cases are rising around the world, and Australia is not fully immune",
+      "description": "The World Health Organisation has sounded the alarm about rising cases and falling vaccination rates. But what does that mean for Australia?",
+      "url": "https://www.abc.net.au/news/2024-01-30/measles-outbreak-global-australias-risk/103392690",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a413e91c1e7172c20b49c0cfc119f820?impolicy=wcms_crop_resize&cropH=241&cropW=428&xPos=0&yPos=42&width=862&height=485",
+      "publishedAt": "2024-01-29 19:42:32",
+      "content": "One of the most contagious diseases humans have known is experiencing a renaissance around the world. Key points: Cases of measles are rising around the world, with the WHO and UK authoriti\u2026 [+5851 chars]",
+      "retrievedAt": "2024-01-31 07:05:45.786531",
+      "internal_id": "a44aa03fe1db47508afd99d4a783571fd7a4f685e6d79d2aedfac62cd9504b79",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4777,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Veja sintomas da dengue e como se prevenir da doen\u00e7a",
+      "description": "Minist\u00e9rio da Sa\u00fade aponta que casos da doen\u00e7a est\u00e3o crescendo no Brasil",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/29/veja-sintomas-da-dengue-e-como-se-prevenir-da-doenca.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ckO8Q23qh7WOZV4F3cxcZow6Cwo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/Q/g/5YpxMBScOkWuU3W1EBjA/dengue18.jpg",
+      "publishedAt": "2024-01-29 19:42:03",
+      "content": "Os diagn\u00f3sticos de dengue cresceram no Brasil, apontam dados do Minist\u00e9rio da Sa\u00fade. Entre 02 de julho de 2023 e 13 de janeiro de 2024, foram registrados 305.190 casos prov\u00e1veis da doen\u00e7a 150,3 casos\u2026 [+6863 chars]",
+      "retrievedAt": "2024-01-31 07:05:46.349097",
+      "internal_id": "db7b75e6da628049a0566a414d2f6195a5405339e4016b212d747eda48d423ce",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4771,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "Perfil do governo ironiza a\u00e7\u00e3o contra Carlos e web reage: 'deboche'",
+      "description": "Com 'grande dia' e 'toc, toc', publica\u00e7\u00f5es nas redes sociais do governo Lula sobre a dengue fizeram refer\u00eancias ir\u00f4nicas a opera\u00e7\u00e3o contra Carlos Bolsonaro",
+      "url": "https://ultimosegundo.ig.com.br/politica/2024-01-29/perfil-governo-ironiza-acao-pf-carlos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3c/m3/10/3cm310ef3eyz24qqawrukgrfr.jpg",
+      "publishedAt": "2024-01-29 19:18:56",
+      "content": "Nesta segunda-feira (29), a conta oficial do governo federal no X (antigo Twitter) fez uma postagem com refer\u00eancias ir\u00f4nicas \u00e0 opera\u00e7\u00e3o da PF contra o vereador carioca Carlos Bolsonaro (Republicanos)\u2026 [+1966 chars]",
+      "retrievedAt": "2024-01-31 07:05:46.277602",
+      "internal_id": "a42e05aba1d01bbef29127baf96d3f4b53c1fdbd81a0493f30dce8ddf2c8bdfc",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 4778,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "S\u00e3o Paulo bate recorde de casos de dengue em janeiro",
+      "description": "Segundo a Secretaria Municipal da Sa\u00fade de S\u00e3o Paulo, foram contabilizados 1.792 casos de dengue nas primeiras tr\u00eas semanas de janeiro",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/29/sao-paulo-bate-recorde-de-casos-de-dengue-em-janeiro.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/oDjZDYs4D78B69uvwUotWkhjsKA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/U/b/sOXnvDSHuBXkPdjhtaeA/aedesebc.jpg",
+      "publishedAt": "2024-01-29 19:15:20",
+      "content": "A cidade de S\u00e3o Paulo contabilizou 1.792 casos de dengue nas primeiras tr\u00eas semanas de janeiro, n\u00famero que ultrapassa os totais registrados no primeiro m\u00eas do ano desde o in\u00edcio da s\u00e9rie hist\u00f3rica, e\u2026 [+2904 chars]",
+      "retrievedAt": "2024-01-31 07:05:46.386174",
+      "internal_id": "7fcb236e6d5561e27614baf8f86d3f46e5691c84c306c540540d245d1ff36e9b",
+      "publishedAtLabel": "Jan 29"
+    },
     {
       "id": 4749,
       "query": [
@@ -17739,6 +18066,98 @@
       "content": "Global public health experts are warning that the United States is not prepared for looming threats posed by tropical and insect-borne viruses. At a two-day workshop this week at the National Academ\u2026 [+3569 chars]",
       "retrievedAt": "2023-12-19 07:06:05.858171",
       "internal_id": "0cfaf88db7ee727c73cd38a41e17381d95bf8444a45aaf1a778242c49f7b5ab6",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 3771,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Congo-Kinshasa: L'OMS s'inqui\u00e8te de la propagation rapide de l'\u00e9pid\u00e9mie de Mpox, aussi appel\u00e9 \u00abvariole du singe\u00bb",
+      "description": "[RFI] L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocratique du Congo. L'OMS craint une transmission internat\u2026",
+      "url": "https://fr.allafrica.com/stories/202312170213.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-17 17:47:35",
+      "content": "L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocra\u2026 [+1973 chars]",
+      "retrievedAt": "2023-12-18 19:05:22.225309",
+      "internal_id": "78f75754d80da4b9cf135d9139b937366c70069c7ba13d66fe748363e9ed73e7",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 3768,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
+      "description": "O alerta \u00e9 da plataforma AdaptaBrasil, vinculada ao Minist\u00e9rio da Ci\u00eancia, Tecnologia e Inova\u00e7\u00e3o (MCTI), em parceria com a Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz)",
+      "url": "https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2023-12-17 15:08:43",
+      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7013 chars]",
+      "retrievedAt": "2023-12-18 19:05:20.888933",
+      "internal_id": "65c09fd30bc85e9e62d4a53048ecc51a005d39c13e9fae15c460c5ed0b600dee",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 3770,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": "lesdepechesdebrazzaville@orange.fr (Les D\u00e9p\u00eaches de Brazzaville)",
+      "title": "Congo-Brazzaville: Forte extension de l'\u00e9pid\u00e9mie de mpox",
+      "description": "[Les D\u00c3\u00a9p\u00c3\u00aaches de Brazzaville] La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleurs, selon l'Organisation mon\u2026",
+      "url": "https://fr.allafrica.com/stories/202312170165.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2023-12-17 13:44:42",
+      "content": "La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleu\u2026 [+2518 chars]",
+      "retrievedAt": "2023-12-18 19:05:22.217644",
+      "internal_id": "ffc356b5afd0af4ad4d33484615d7ab1b68d898dd616c76bfc983aab95a21bf2",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 3767,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
+      "description": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e,...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/12/17104316/mnltwruwnrntvhfsnhcib3jxeu.webp",
+      "publishedAt": "2023-12-17 10:46:19",
+      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7210 chars]",
+      "retrievedAt": "2023-12-18 19:05:20.884949",
+      "internal_id": "edc6e32eb4ce9ef72072cc25207b7750a3def679012278999d1ca14019fac8f0",
+      "publishedAtLabel": "Dec 17"
+    },
+    {
+      "id": 3769,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Sof\u00eda Barruti",
+      "title": "Un cient\u00edfico africano podr\u00eda acabar con la malaria editando el ADN de un mosquito",
+      "description": "Diabate, que ahora dirige entomolog\u00eda m\u00e9dica y parasitolog\u00eda en el Instituto de Investigaci\u00f3n en Ciencias de la Salud de Burkina Faso, est\u00e1 desarrollando una t\u00e9cnica innovadora que potencialmente podr\u00eda eliminar las especies de mosquitos transmisores de malar\u2026",
+      "url": "https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/12/cientifico-malaria.jpg?quality=100&strip=info",
+      "publishedAt": "2023-12-17 09:06:30",
+      "content": "Casos de malaria entre migrantes pone en alerta a Honduras 4:01 (CNN) -- Abdoulaye Diabate enfrent\u00f3 un ataque de malaria que puso en peligro su vida cuando solo ten\u00eda cinco a\u00f1os. Diabate sobrevivi\u00f3\u2026 [+9242 chars]",
+      "retrievedAt": "2023-12-18 19:05:21.602100",
+      "internal_id": "fccc16499069e80b64c41def33114d84578c1c2dae555f32b41f5e75b2056c47",
       "publishedAtLabel": "Dec 17"
     }
   ]
