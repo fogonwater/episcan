@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-01-31 07:05
-- **Most recent article:** 2024-01-30 06:00:28
+- **New articles in last harvest:** 36
+- **Last harvest:** 2024-01-31 19:05
+- **Most recent article:** 2024-01-30 19:00:11
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 69 | 37 | 2 | 52 | 35 | 65 | 123 | 31 | 414 |
-| malaria | 23 | 22 | 2 | 11 | 51 | 26 | 86 | 6 | 227 |
-| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 14 | 200 |
-| mpox | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 0 | 43 |
-| zika | 5 | 1 | 0 | 7 | 8 | 8 | 7 | 3 | 39 |
+| dengue | 67 | 37 | 2 | 52 | 35 | 65 | 123 | 55 | 436 |
+| malaria | 22 | 22 | 2 | 11 | 51 | 26 | 86 | 9 | 229 |
+| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 23 | 209 |
+| mpox | 13 | 12 | 0 | 2 | 2 | 8 | 4 | 0 | 41 |
+| zika | 3 | 1 | 0 | 7 | 8 | 8 | 7 | 3 | 37 |
 | rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 2 | 33 |
 | chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 4 | 30 |
 | meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 3 | 30 |
@@ -62,6 +62,24 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (measles)
 
+- [How fringe anti-science views infiltrated mainstream politics, and what it means in 2024](https://medicalxpress.com/news/2024-01-fringe-anti-science-views-infiltrated.html) (Medical Xpress)
+
+- [Thousands of US Schools at Risk of Measles Outbreak: Investigation](https://themessenger.com/health/measles-vaccine-us-schools-mississippi) (Themessenger.com)
+
+- [Measles Warning Signs Growing: How Concerned Should We Be?](https://www.webmd.com/children/news/20240130/measles-warning-signs-growing) (WebMD)
+
+- [West Midlands has 75% of England's measles cases](https://www.bbc.co.uk/news/articles/cpr821nxdy5o) (BBC News)
+
+- [A German court did not rule that the measles virus doesn’t exist - Full Fact](https://fullfact.org/health/stefan-lanka-measles-german-court/) (Full Fact)
+
+- [Measles outbreak in Europe: WHO ramps up vaccination campaign](https://www.france24.com/en/tv-shows/science/20240130-measles-outbreak-in-europe-who-ramps-up-vaccination-campaign) (FRANCE 24 English)
+
+- [Measles outbreak in West Midlands 'remains a concern', health officials say](https://news.sky.com/story/measles-outbreak-in-west-midlands-remains-a-concern-health-officials-say-13059952) (Sky.com)
+
+- [News story: Latest measles statistics published](https://www.gov.uk/government/news/latest-measles-statistics-published) (Www.gov.uk)
+
+- [At least 8,500 U.S. schools at greater risk of measles outbreaks](https://www.cbsnews.com/news/measles-outbreaks-schools-vaccination-rates-decline/) (CBS News)
+
 - [Thousands of school-aged children are at risk of getting sick from measles](https://www.cbsnews.com/video/thousands-of-school-aged-children-are-at-risk-of-getting-sick-from-measles/) (CBS News)
 
 - [Why is a 95% vaccination rate so important?](https://www.cbsnews.com/video/why-is-a-95-vaccination-rate-so-important/) (CBS News)
@@ -92,6 +110,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (malaria)
 
+- [India on the verge of eliminating 'black fever' kala-azar](https://www.dw.com/en/india-on-the-verge-of-eliminating-black-fever-kala-azar/a-68123755) (DW (English))
+
+- [Nigeria: Govt to Introduce Malaria Vaccine in 2025 - NPHCDA](https://allafrica.com/stories/202401300241.html) (AllAfrica - Top Africa News)
+
+- [World-first malaria vaccine rollout for children: What to know](https://www.medicalnewstoday.com/articles/new-cameroon-malaria-vaccine-lower-all-cause-mortality-risk-in-children) (Medical News Today)
+
 - [Precise coordination between nutrient transporters ensures fertility in the malaria mosquito Anopheles gambiae](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011145) (Plos.org)
 
 - [Correction: A conformational epitope in placental malaria vaccine antigen VAR2CSA: What does it teach us?](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011503) (Plos.org)
@@ -105,6 +129,54 @@ Source: [News API](https://newsapi.org/)
 - [Sella Cruz Azul su primera victoria del Clausura 2024](https://www.reforma.com/sella-cruz-azul-su-primer-triunfo-del-clausura-2024/ar2747624) (Reforma.com)
 
 ## 24-5 (dengue)
+
+- [Dengue: conheça os principais sintomas e riscos da doença para gestantes](https://claudia.abril.com.br/saude/dengue-conheca-os-principais-sintomas-e-riscos-da-doenca-para-gestantes) (Abril.com.br)
+
+- [Mais três mortes por dengue são registradas no estado de SP](https://saude.ig.com.br/2024-01-30/tres-mortes-registradas-dengue-sp.html) (Ig.com.br)
+
+- [Vacinação contra a dengue começa no país em 15 dias](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/vacinacao-contra-a-dengue-comeca-no-pais-em-15-dias-30012024) (R7.com)
+
+- [Uma em cada cinco mortes de dengue no Brasil são no Distrito Federal, diz ministério da Saúde](https://noticias.r7.com/brasilia/uma-em-cada-cinco-mortes-de-dengue-no-brasil-sao-no-distrito-federal-diz-ministerio-da-saude-30012024) (R7.com)
+
+- [Dengue: doses devem ser distribuídas na 2ª semana de fevereiro](https://saude.ig.com.br/2024-01-30/dengue--doses-devem-ser-distribuidas-na-2-semana-de-fevereiro.html) (Ig.com.br)
+
+- [Estado de São Paulo registra mais três mortes por dengue](https://valor.globo.com/brasil/noticia/2024/01/30/estado-de-sao-paulo-registra-mais-tres-mortes-por-dengue.ghtml) (Globo)
+
+- [Krankheiten: Schwerer Ausbruch von Dengue-Fieber in Brasilien](https://www.zeit.de/news/2024-01/30/schwerer-ausbruch-von-dengue-fieber-in-brasilien) (Die Zeit)
+
+- [Krankheiten: Schwerer Ausbruch von Dengue-Fieber in Brasilien](https://www.stern.de/panorama/wissen/krankheiten--schwerer-ausbruch-von-dengue-fieber-in-brasilien-34414192.html) (STERN.de)
+
+- [GDF investe R$ 44 milhões em sistema de limpeza de esgoto](https://www.metropoles.com/distrito-federal/gdf-investe-r-44-milhoes-em-sistema-de-limpeza-de-esgoto) (Metropoles.com)
+
+- [Dengue em SP: estado registra 6 mortes e casos quadruplicam na capital](https://www.metropoles.com/sao-paulo/dengue-em-sp-estado-registra-6-mortes-e-casos-quadruplicam-na-capital) (Metropoles.com)
+
+- [Ministério da Saúde aguarda tradução da bula para iniciar vacinação contra dengue](https://valor.globo.com/brasil/noticia/2024/01/30/ministerio-da-saude-aguarda-traducao-da-bula-para-iniciar-vacinacao-contra-dengue.ghtml) (Globo)
+
+- [Dengue: casos em janeiro aumentaram quase 5 vezes em relação a 2023](https://saude.ig.com.br/2024-01-30/dengue--casos-em-janeiro-aumentaram-quase-5-vezes-em-relacao-a-2023.html) (Ig.com.br)
+
+- [Brasil registra mais de 217 mil casos de dengue só em 2024](https://veja.abril.com.br/saude/brasil-registra-mais-de-217-mil-casos-de-dengue-so-em-2024) (Abril.com.br)
+
+- [Ibaneis diz que contratará agentes para combater dengue: “Epidemia”](https://www.metropoles.com/distrito-federal/ibaneis-diz-que-contratara-agentes-para-combater-dengue-epidemia) (Metropoles.com)
+
+- [Dengue: Saúde quer distribuir doses a partir da 2ª semana de fevereiro](https://www.metropoles.com/brasil/dengue-saude-quer-distribuir-doses-a-partir-da-2a-semana-de-fevereiro) (Metropoles.com)
+
+- [Casos prováveis de dengue sobem de 120 mil para 217 mil em uma semana](https://saude.ig.com.br/2024-01-30/casos-provaveis-de-dengue-sobem-de-120-mil-para-217-mil-em-uma-semana.html) (Ig.com.br)
+
+- [Dengue: Brasil já tem mais de 217 mil casos e 15 mortes confirmadas](https://www.metropoles.com/brasil/dengue-brasil-ja-tem-mais-de-217-mil-casos-e-15-mortes-confirmadas) (Metropoles.com)
+
+- [Vacinas da dengue: saiba quem pode tomar e efeitos colaterais](https://delas.ig.com.br/parceiros/selecoes/2024-01-30/vacinas-da-dengue--saiba-quem-pode-tomar-e-efeitos-colaterais.html) (Ig.com.br)
+
+- [Markers of prolonged hospitalisation in severe dengue](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011922) (Plos.org)
+
+- [Onze cidades de SP vão receber a vacina contra a dengue; veja quais](https://www.metropoles.com/sao-paulo/onze-cidades-de-sp-serao-vacinadas-contra-a-dengue-no-sus-veja-quais) (Metropoles.com)
+
+- [Ministério da Saúde pretende entregar vacinas contra dengue na segunda semana de fevereiro](https://noticias.r7.com/brasilia/vacina-dengue-sus-ministerio-30012024) (R7.com)
+
+- [Influenciadora de 37 anos morre após contrair dengue](https://recordtv.r7.com/fala-brasil/videos/influenciadora-de-37-anos-morre-apos-contrair-dengue-30012024) (R7.com)
+
+- [Dengue: Ministério da Saúde fala em 'estratégia definida' para 2024 e põe em xeque envio de vacina a Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/30/dengue-ministerio-da-saude-fala-em-estrategia-definida-para-2024-e-poe-em-xeque-envio-de-vacina-a-campinas.ghtml) (Globo)
+
+- [Drone, edição genética e mais: o que a ciência está fazendo para conter o surto de dengue](https://www.terra.com.br/byte/drone-edicao-genetica-e-mais-o-que-a-ciencia-esta-fazendo-para-conter-o-surto-de-dengue,1aaec2131075836f67e15d0d8ff580d8aiblwr5w.html) (Terra.com.br)
 
 - [Antes da explosão de dengue, DF perdeu 36% dos agentes contra a doença](https://www.metropoles.com/distrito-federal/antes-da-explosao-de-dengue-df-perdeu-36-dos-agentes-contra-a-doenca) (Metropoles.com)
 
@@ -1972,10 +2044,6 @@ Source: [News API](https://newsapi.org/)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
-
 ## 23-51 (typhoid)
 
 - [Mother reunites with missing son on traffic signal after seven years, found him begging in Pakistan](https://economictimes.indiatimes.com/news/international/world-news/mother-reunites-with-missing-son-on-traffic-signal-after-seven-years-found-him-begging-in-pakistan/articleshow/106213574.cms) (The Times of India)
@@ -2023,10 +2091,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO warns mpox could spread internationally again](https://www.dw.com/en/who-warns-mpox-could-spread-internationally-again/a-67754081) (DW (English))
 
 - [WHO warns mpox could spread around the world again](https://www.dw.com/en/who-warns-mpox-could-spread-around-the-world-again/a-67754081) (DW (English))
-
-- [Congo-Kinshasa: L'OMS s'inquiète de la propagation rapide de l'épidémie de Mpox, aussi appelé «variole du singe»](https://fr.allafrica.com/stories/202312170213.html) (AllAfrica - Top Africa News)
-
-- [Congo-Brazzaville: Forte extension de l'épidémie de mpox](https://fr.allafrica.com/stories/202312170165.html) (AllAfrica - Top Africa News)
 
 ## 23-51 (meningitis)
 
@@ -2139,8 +2203,6 @@ Source: [News API](https://newsapi.org/)
 - [“Un buen parásito es aquel que no mata a su hospedador”](https://www.muyinteresante.es/ciencia/62663.html) (Muyinteresante.es)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
-
-- [Un científico africano podría acabar con la malaria editando el ADN de un mosquito](https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/) (CNN)
 
 ## 23-51 (leptospirosis)
 
@@ -2283,10 +2345,6 @@ Source: [News API](https://newsapi.org/)
 - [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://allafrica.com/stories/202312180007.html) (AllAfrica - Top Africa News)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
 
 ## 23-51 (chikungunya)
 

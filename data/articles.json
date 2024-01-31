@@ -1,8 +1,656 @@
 {
-  "last_updated": "2024-01-31 07:05",
-  "count_articles_total": 1006,
-  "count_articles_new": 18,
+  "last_updated": "2024-01-31 19:05",
+  "count_articles_total": 1037,
+  "count_articles_new": 36,
   "articles": [
+    {
+      "id": 4788,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Medical Xpress",
+      "author": "Amy Maxmen",
+      "title": "How fringe anti-science views infiltrated mainstream politics, and what it means in 2024",
+      "description": "Rates of routine childhood vaccination hit a 10-year low in 2023. That, according to the Centers for Disease Control and Prevention, puts about 250,000 kindergartners at risk for measles, which often leads to hospitalization and can cause death. In recent wee\u2026",
+      "url": "https://medicalxpress.com/news/2024-01-fringe-anti-science-views-infiltrated.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/child-vaccine-2.jpg",
+      "publishedAt": "2024-01-30 19:00:11",
+      "content": "Rates of routine childhood vaccination hit a 10-year low in 2023. That, according to the Centers for Disease Control and Prevention, puts about 250,000 kindergartners at risk for measles, which often\u2026 [+10268 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.274701",
+      "internal_id": "6b535ba70fc59d06d02f1e56fcad296f499cd73fdf3568f8fbf5a0658f57ee02",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4785,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Themessenger.com",
+      "author": "Mansur Shaheen",
+      "title": "Thousands of US Schools at Risk of Measles Outbreak: Investigation",
+      "description": "A staggering number of American schools are at risk of experiencing a measles outbreak, according to an investigation",
+      "url": "https://themessenger.com/health/measles-vaccine-us-schools-mississippi",
+      "urlToImage": "https://cms.themessenger.com/wp-content/uploads/2024/01/measles-1779638518.jpg",
+      "publishedAt": "2024-01-30 18:36:38",
+      "content": "A staggering number of American schools are at risk of experiencing a measles outbreak, according to an investigation by CBS news. In more than 8,500 schools, at least 95% of kindergarteners have no\u2026 [+2392 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.221164",
+      "internal_id": "c4f535e3cc70065c0e065ed5529441a20562e7f1ce797f10602e338788cfca74",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4803,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Sarah Brito",
+      "title": "Dengue: conhe\u00e7a os principais sintomas e riscos da doen\u00e7a para gestantes",
+      "description": "Com vacina\u00e7\u00e3o priorit\u00e1ria prevista para iniciar em fevereiro, Minist\u00e9rio da Sa\u00fade deixam gestantes e mulheres em puerp\u00e9rio fora da lista de prioridade",
+      "url": "https://claudia.abril.com.br/saude/dengue-conheca-os-principais-sintomas-e-riscos-da-doenca-para-gestantes",
+      "urlToImage": "https://claudia.abril.com.br/wp-content/uploads/2024/01/dengue-principais-sintomas-riscos-para-gestantes-doencas-mosquito-transmissao.jpg?quality=85&strip=info&w=680&h=453&crop=1",
+      "publishedAt": "2024-01-30 18:30:58",
+      "content": "Assine CLAUDIA por R$2,00/semanaContinua ap\u00f3s publicidade Com um risco cinco vezes maior de desenvolverem gravemente a doen\u00e7a transmitida pelo mosquito Aedes aegypti, gestantes e mulheres no puerp\u00e9r\u2026 [+5379 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.833098",
+      "internal_id": "6bf4f2f699bcd56b8b8e9d54e3d0eeee745ed83583ca65b6f1153db3143809fe",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4780,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WebMD",
+      "author": "Damian McNamara, MA",
+      "title": "Measles Warning Signs Growing: How Concerned Should We Be?",
+      "description": "Throughout the COVID pandemic, what was happening in Europe foretold what we could expect here stateside. Is the same true for measles? WebMD asked experts just how concerned we should be, and what, if anything, about measles keeps them awake at night.",
+      "url": "https://www.webmd.com/children/news/20240130/measles-warning-signs-growing",
+      "urlToImage": "https://img.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/vaccine_preventable_disease_slideshow/1800ss_ss_rm_photo_of_measles_rash.jpg",
+      "publishedAt": "2024-01-30 18:25:36",
+      "content": "SOURCES: William Schaffner, MD, infectious disease specialist, Vanderbilt University Medical Center, Nashville. Adam Ratner, MD, director, Division of Pediatric Infectious Diseases, Hassenfeld Chil\u2026 [+675 chars]",
+      "retrievedAt": "2024-01-31 19:05:21.906520",
+      "internal_id": "221b4708b06e8ce2b5454ec36e26a645ce8ea64ac5a7488dbb78ae2a37b635cd",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4798,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Mais tr\u00eas mortes por dengue s\u00e3o registradas no estado de SP",
+      "description": "Desde o in\u00edcio do ano, a doen\u00e7a levou ao menos sete pessoas a \u00f3bito",
+      "url": "https://saude.ig.com.br/2024-01-30/tres-mortes-registradas-dengue-sp.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c4/1z/dr/c41zdr4sztch6kcgg0ab3ryg7.jpg",
+      "publishedAt": "2024-01-30 17:49:15",
+      "content": "Ao menos sete pessoas foram mortas pela dengue desde o in\u00edcio do ano no estado de S\u00e3o Paulo. Al\u00e9m dos quatro \u00f3bitos registrados pelo CVE (Centro de Vigil\u00e2ncia Epidemiol\u00f3gica), as outras tr\u00eas v\u00edtimas \u2026 [+1390 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.751558",
+      "internal_id": "2dd0f868810deaba2c4a5cf89cdbd624884bc54a9fd6aecd782125092f5daa50",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4811,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Vacina\u00e7\u00e3o contra a dengue come\u00e7a no pa\u00eds em 15 dias",
+      "description": "O Minist\u00e9rio da Sa\u00fade pretende distribuir as primeiras doses da vacina contra a dengue na segunda semana de fevereiro. Somente crian\u00e7as e adol...",
+      "url": "https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/vacinacao-contra-a-dengue-comeca-no-pais-em-15-dias-30012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/30/65b95c5c4b49555d7000002a/215055435f5c46afa67f9121646b29cf__2480948_EPP_3001_BOLETIM_JR3_VACINACAO_DENGUE_thumb_thumb.jpg",
+      "publishedAt": "2024-01-30 17:36:00",
+      "content": "O Minist\u00e9rio da Sa\u00fade pretende distribuir as primeiras doses da vacina contra a dengue na segunda semana de fevereiro. Somente crian\u00e7as e adolescentes entre 10 e 14 anos ser\u00e3o vacinados, segundo as i\u2026 [+254 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.929847",
+      "internal_id": "6aacbc7a2f1b0b306d9e70e6fce495d7eea00d76dbdbd8c78a3a36f85365a03b",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4781,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "West Midlands has 75% of England's measles cases",
+      "description": "A consultant epidemiologist at the UKHSA said the outbreak in the region \"remains a concern\".",
+      "url": "https://www.bbc.co.uk/news/articles/cpr821nxdy5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/219c/live/6e649930-bf8b-11ee-9321-0d2fbc7eef4a.jpg",
+      "publishedAt": "2024-01-30 17:30:46",
+      "content": "In a statement, health minister Maria Caulfield said NHS England has \"rapidly implemented\" a campaign to increase the number of children being vaccinated. \"[It is] part of a major drive to protect c\u2026 [+1066 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.137179",
+      "internal_id": "bc4ecd8c16821efbf06382f22daab47071b100f45fa79824ec4a7bff9887fa04",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4809,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Giovanna Inoue, do R7, em Bras\u00edlia",
+      "title": "Uma em cada cinco mortes de dengue no Brasil s\u00e3o no Distrito Federal, diz minist\u00e9rio da Sa\u00fade",
+      "description": "DF tem a maior taxa de incid\u00eancia de dengue do pa\u00eds, com 1.034,3 casos por 100 mil habitantes",
+      "url": "https://noticias.r7.com/brasilia/uma-em-cada-cinco-mortes-de-dengue-no-brasil-sao-no-distrito-federal-diz-ministerio-da-saude-30012024",
+      "urlToImage": "https://img.r7.com/images/dengue-mosquito-aedes-aegypti-vigilancia-sanitaria-chuvas-27012024115449564?crop=773x435+11+17",
+      "publishedAt": "2024-01-30 17:17:52",
+      "content": "DF tem quase 30 mil casos prov\u00e1veis de dengue Tony Oliveira/Ag\u00eancia Bras\u00edlia Nos primeiros 20 dias do ano, o Distrito Federal confirmou 3 mortes causadas por dengue. Segundo dados do minist\u00e9r\u2026 [+1541 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.896614",
+      "internal_id": "d55b33dd0eaf9b3631a5085298c983aa45eaab3519d0f1f2502e61ce37f6078c",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4800,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Dengue: doses devem ser distribu\u00eddas na 2\u00aa semana de fevereiro",
+      "description": "Laborat\u00f3rio produtor deve incluir bula em portugu\u00eas",
+      "url": "https://saude.ig.com.br/2024-01-30/dengue--doses-devem-ser-distribuidas-na-2-semana-de-fevereiro.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c1/e4/d1/c1e4d1oh0uh1d020x4568fo7s.jpg",
+      "publishedAt": "2024-01-30 17:06:30",
+      "content": "A distribui\u00e7\u00e3o da vacina contra a dengue para os 521 munic\u00edpios brasileiros selecionados pode come\u00e7ar na segunda semana de fevereiro. A ministra da Sa\u00fade, N\u00edsia Trindade, disse nesta ter\u00e7a-feira (3\u2026 [+1358 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.784290",
+      "internal_id": "aa7231f634860f49832bc6bbc06914b23a50f5ae866d07c2b45b166c330a67c0",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4786,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Full Fact",
+      "author": "Full Fact",
+      "title": "A German court did not rule that the measles virus doesn\u2019t exist - Full Fact",
+      "description": "A famous case in the 2010s concerned whether proof had been provided in \u2018a single publication\u2019, not whether measles itself existed.",
+      "url": "https://fullfact.org/health/stefan-lanka-measles-german-court/",
+      "urlToImage": "https://fullfact.org/media/_versions/30_jan_2024_measles_child_philippines_social_media.jpg",
+      "publishedAt": "2024-01-30 17:05:25",
+      "content": "An old myth that a German court ruled the measles virus does not exist has been spreadingagainon Facebook. In particular, many posts have shared a screenshot of an article saying the German Federal \u2026 [+1756 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.244618",
+      "internal_id": "4eb6aa83433e20074acf979c1ec14903a9fb6be5c7b79138c5f10ca5997f3e0c",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4806,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Estado de S\u00e3o Paulo registra mais tr\u00eas mortes por dengue",
+      "description": "At\u00e9 o momento, houve 2 casos fatais em Bebedouro, 2 em Pindamonhangaba, 1 em Dois C\u00f3rregos e 2 em Jacare\u00ed, que decretou estado de emerg\u00eancia na segunda-feira (29)",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/30/estado-de-sao-paulo-registra-mais-tres-mortes-por-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/Eu6CcviNM2XS5iRRDk9unb1VGE0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/U/1/huaqwQSVKP23vvGGSXRg/dengue18.jpg",
+      "publishedAt": "2024-01-30 17:03:16",
+      "content": "O Estado de S\u00e3o Paulo soma ao menos sete mortes por dengue desde o in\u00edcio de 2024. Al\u00e9m dos quatro \u00f3bitos reportados pelo CVE (Centro de Vigil\u00e2ncia Epidemiol\u00f3gica), as cidades de Bebedouro, Jacare\u00ed e\u2026 [+2210 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.866056",
+      "internal_id": "0f3f815d09da0f784034bd7241700d13b0cfa2b04034e87a4abbcea8fd4a170c",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4789,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "ZEIT ONLINE: News -",
+      "title": "Krankheiten: Schwerer Ausbruch von Dengue-Fieber in Brasilien",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eKrankheiten\u201c. Lesen Sie jetzt \u201eSchwerer Ausbruch von Dengue-Fieber in Brasilien\u201c.",
+      "url": "https://www.zeit.de/news/2024-01/30/schwerer-ausbruch-von-dengue-fieber-in-brasilien",
+      "urlToImage": "https://img.zeit.de/news/2024-01/30/schwerer-ausbruch-von-dengue-fieber-in-brasilien-image-group/wide__1300x731",
+      "publishedAt": "2024-01-30 16:30:00",
+      "content": "Brasilien erlebt derzeit einen schweren Ausbruch des Dengue-Fiebers. In den ersten vier Wochen des Jahres seien in dem s\u00fcdamerikanischen Land 217.841 wahrscheinliche F\u00e4lle registriert worden, teilte \u2026 [+1610 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.578209",
+      "internal_id": "a4861acaffe9ac9169e746f70f6f7861facc00694a1bc92721c6fd27c6da5b7b",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4805,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Krankheiten: Schwerer Ausbruch von Dengue-Fieber in Brasilien",
+      "description": "Bras\u00edlia - Brasilien erlebt derzeit einen schweren Ausbruch des Dengue-Fiebers. In den ersten vier Wochen des Jahres seien in dem s\u00fcdamerikanischen Land",
+      "url": "https://www.stern.de/panorama/wissen/krankheiten--schwerer-ausbruch-von-dengue-fieber-in-brasilien-34414192.html",
+      "urlToImage": "https://image.stern.de/34414194/t/2g/v1/w1440/r1.7778/-/30--urnnewsmldpacom2009010124013099810491v4w800h600l294t92r972b637jpeg---efa270245340f9c3.jpg",
+      "publishedAt": "2024-01-30 16:30:00",
+      "content": "Kampf gegen die Gelbfieberm\u00fccke: Die rapide Ausbreitung des Dengue-Fiebers stellt Brasilien vor gro\u00dfe Herausforderungen. Brasilien erlebt derzeit einen schweren Ausbruch des Dengue-Fiebers. In den e\u2026 [+912 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.856847",
+      "internal_id": "27c537829b6f0d0e26ea277f01c707bc982164505b5313ab88992547c084fecb",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4793,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "GDF investe R$ 44 milh\u00f5es em sistema de limpeza de esgoto",
+      "description": "O servi\u00e7o visa minimizar o problema dos alagamentos e reduzir os focos de reprodu\u00e7\u00e3o do mosquito Aedes aegypti, transmissor da dengue",
+      "url": "https://www.metropoles.com/distrito-federal/gdf-investe-r-44-milhoes-em-sistema-de-limpeza-de-esgoto",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/30122623/Sistema-de-limpeza-e-desobstrucao-de-rede-pluvial.jpg",
+      "publishedAt": "2024-01-30 16:07:39",
+      "content": "Para minimizar o problema dos alagamentos e reduzir os focos de reprodu\u00e7\u00e3o do mosquito Aedes aegypti, transmissor da dengue, o Governo do Distrito Federal (GDF) contratou um sistema de limpeza e deso\u2026 [+3173 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.663969",
+      "internal_id": "82f3ced6c16e60a1d382a60af07fa6cb0540f6aa38ddf611569529cd5370afa2",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4791,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Dengue em SP: estado registra 6 mortes e casos quadruplicam na capital",
+      "description": "S\u00e3o Paulo j\u00e1 registra seis mortes por dengue no in\u00edcio de 2024; casos mais que quadruplicaram na capital e Jacare\u00ed decretou emerg\u00eancia",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-em-sp-estado-registra-6-mortes-e-casos-quadruplicam-na-capital",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/30102247/dengue-sao-paulo.jpg",
+      "publishedAt": "2024-01-30 15:40:26",
+      "content": "S\u00e3o Paulo O estado de S\u00e3o Paulo continua em alerta m\u00e1ximo devido ao aumento de casos de dengue. Ao todo, seis pessoas morreram da doen\u00e7a neste ano, segundo dados da Secretaria Estadual de Sa\u00fade e de \u2026 [+7131 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.632066",
+      "internal_id": "cfde4b2e8bb0bf2daab785dad2027cba839a3e114c30b13c4cb8e92585ec1986",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4813,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Shakeel Sobhan",
+      "title": "India on the verge of eliminating 'black fever' kala-azar",
+      "description": "Kala-azar, also called visceral leishmaniasis, is the second deadliest parasitic disease after malaria, affecting 200 million people in dozens of countries.",
+      "url": "https://www.dw.com/en/india-on-the-verge-of-eliminating-black-fever-kala-azar/a-68123755",
+      "urlToImage": "https://static.dw.com/image/60586025_6.jpg",
+      "publishedAt": "2024-01-30 15:28:00",
+      "content": "When Sishu Kumari started working as a rural health worker in 2008, there were 33,000 cases of kala-azar, or black fever, in India. Two years later, India would miss its first target deadline to e\u2026 [+5688 chars]",
+      "retrievedAt": "2024-01-31 19:05:23.362144",
+      "internal_id": "e7ce1148a3fdefaadaa073eaa01531295aaacb2a5c9477af6627d3924d0b7faa",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4787,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "Julia Sieger",
+      "title": "Measles outbreak in Europe: WHO ramps up vaccination campaign",
+      "description": "The WHO is sounding the alarm. The UN health agency is warning of a massive resurgence of measles cases in the Europe region, extending to Central Asia. Elsewhere too, the numbers of cases are skyrocketing. The primary cause is a decline in vaccination rates \u2026",
+      "url": "https://www.france24.com/en/tv-shows/science/20240130-measles-outbreak-in-europe-who-ramps-up-vaccination-campaign",
+      "urlToImage": "https://s.france24.com/media/display/cb36fede-bf7f-11ee-9ff8-005056bf30b7/w:1280/p:16x9/capture-115130554865b90e305c01d4.01472727.jpg",
+      "publishedAt": "2024-01-30 15:17:38",
+      "content": "Issued on: 30/01/2024 - 16:11 The WHO is sounding the alarm. The UN health agency is warning of a massive resurgence of measles cases in the Europe region, extending to Central Asia. Elsewhere too, \u2026 [+189 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.261372",
+      "internal_id": "d819c1d3b91c5ea7a05a61208382e70b60dbc12ee6d240535591124a1f05dec6",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4807,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Minist\u00e9rio da Sa\u00fade aguarda tradu\u00e7\u00e3o da bula para iniciar vacina\u00e7\u00e3o contra dengue",
+      "description": "Previs\u00e3o do governo \u00e9 vacinar cerca de 3,2 milh\u00f5es de pessoas em 2024",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/30/ministerio-da-saude-aguarda-traducao-da-bula-para-iniciar-vacinacao-contra-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/oDjZDYs4D78B69uvwUotWkhjsKA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/U/b/sOXnvDSHuBXkPdjhtaeA/aedesebc.jpg",
+      "publishedAt": "2024-01-30 15:08:42",
+      "content": "A ministra da Sa\u00fade, Nisia Trindade, afirmou que a data exata em que a vacina contra a dengue ser\u00e1 disponibilizada no m\u00eas de fevereiro permanece indefinida. A distribui\u00e7\u00e3o ainda n\u00e3o come\u00e7ou devido \u00e0 \u2026 [+2025 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.875796",
+      "internal_id": "df9fc955901756251e4b904c195bfbbbcfde2cc95dd8c1c69dee886d8d9296f6",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4799,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: casos em janeiro aumentaram quase 5 vezes em rela\u00e7\u00e3o a 2023",
+      "description": "Vacina\u00e7\u00e3o deve come\u00e7ar em fevereiro",
+      "url": "https://saude.ig.com.br/2024-01-30/dengue--casos-em-janeiro-aumentaram-quase-5-vezes-em-relacao-a-2023.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-30 14:53:04",
+      "content": "O Brasil registrou em janeiro mais de 217 mil casos de dengue , segundo dados divulgados nesta ter\u00e7a-feira (30) pelo Minist\u00e9rio da Sa\u00fade . O n\u00famero \u00e9 quase cinco vezes maior que o registrado no mes\u2026 [+1564 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.765732",
+      "internal_id": "abebee38f426a92250ac0ee413f6521773b3b1a98fdb476872ec1b1fbf3b8605",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4790,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Simone Blanes",
+      "title": "Brasil registra mais de 217 mil casos de dengue s\u00f3 em 2024",
+      "description": "Pa\u00eds registrou mais de 217 mil novos casos e 15 mortes. Minist\u00e9rio da Sa\u00fade refor\u00e7a a import\u00e2ncia da vacina\u00e7\u00e3o que come\u00e7a em fevereiro pelo SUS",
+      "url": "https://veja.abril.com.br/saude/brasil-registra-mais-de-217-mil-casos-de-dengue-so-em-2024",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/aedes_aegypti-dengue2.webp?w=680&h=453&crop=1",
+      "publishedAt": "2024-01-30 14:49:50",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade Aedes aegypti: picada da f\u00eamea do mosquito transmite a dengue (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade 2024 come\u00e7ou com alerta preoc\u2026 [+3148 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.596511",
+      "internal_id": "9e0f29f7168eb3c629737b66f91f0131da7d412d84e025576c819363f8fb8270",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4794,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Ibaneis diz que contratar\u00e1 agentes para combater dengue: \u201cEpidemia\u201d",
+      "description": "Durante agenda em Ceil\u00e2ndia, governador afirmou que enviar\u00e1 projeto \u00e0 C\u00e2mara Legislativa para garantir contrata\u00e7\u00e3o de novos agentes de sa\u00fade",
+      "url": "https://www.metropoles.com/distrito-federal/ibaneis-diz-que-contratara-agentes-para-combater-dengue-epidemia",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/30115005/ibaneis-agenda-ceilandia-drenagem-aguas-pluviais-dengue.jpg",
+      "publishedAt": "2024-01-30 14:43:14",
+      "content": "Na avalia\u00e7\u00e3o do governador Ibaneis Rocha (MDB), o Distrito Federal enfrenta uma epidemia de dengue. Diante da explos\u00e3o de casos, inclusive com mortes, o Pal\u00e1cio do Buriti pretende contratar agentes d\u2026 [+1814 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.687908",
+      "internal_id": "061cc4e24379dca3c54736c083acdebef0754b0655a5951c167ebea4401b61f8",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4796,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Dengue: Sa\u00fade quer distribuir doses a partir da 2\u00aa semana de fevereiro",
+      "description": "Ministra N\u00edsia Trindade disse que as doses ainda n\u00e3o come\u00e7aram a ser entregues em raz\u00e3o de uma exig\u00eancia da Anvisa ao fabricante da vacina",
+      "url": "https://www.metropoles.com/brasil/dengue-saude-quer-distribuir-doses-a-partir-da-2a-semana-de-fevereiro",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/30113306/Ministra-da-Saude-Nisia-Trindade-1-1200x800.jpg",
+      "publishedAt": "2024-01-30 14:42:22",
+      "content": "A distribui\u00e7\u00e3o da vacina contra a dengue para os 521 munic\u00edpios brasileiros selecionados pode come\u00e7ar na segunda semana de fevereiro. A ministra da Sa\u00fade, N\u00edsia Trindade, disse nesta ter\u00e7a-feira (30/\u2026 [+2154 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.716858",
+      "internal_id": "76ed968bf1b49601ea59098d68e468f53813e05f0f4609c7eeec2737ed59852b",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4801,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Casos prov\u00e1veis de dengue sobem de 120 mil para 217 mil em uma semana",
+      "description": "Brasil j\u00e1 tem 15 \u00f3bitos confirmados por causa da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-01-30/casos-provaveis-de-dengue-sobem-de-120-mil-para-217-mil-em-uma-semana.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-01-30 14:30:44",
+      "content": "Nas primeiras semanas de 2024, o Brasil j\u00e1 registra um acumulado de 217.841 casos prov\u00e1veis de dengue. H\u00e1 ainda 15 mortes confirmadas e 149 em investiga\u00e7\u00e3o. Com base nos n\u00fameros, a incid\u00eancia da deng\u2026 [+1161 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.800669",
+      "internal_id": "70cdbf9c49dcc59c1b103b35212231e3fa12dfb8ed92f38222b1a1fdc2f19291",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4792,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Carlos Est\u00eanio Brasilino",
+      "title": "Dengue: Brasil j\u00e1 tem mais de 217 mil casos e 15 mortes confirmadas",
+      "description": "A incid\u00eancia da dengue no pa\u00eds \u00e9 de 107,1 casos para cada grupo de 100 mil habitantes, enquanto a taxa de letalidade da doen\u00e7a est\u00e1 em 0,9%",
+      "url": "https://www.metropoles.com/brasil/dengue-brasil-ja-tem-mais-de-217-mil-casos-e-15-mortes-confirmadas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/29155120/DF-e-prioridade-para-vacinacao-contra-Dengue-1.jpg",
+      "publishedAt": "2024-01-30 14:17:18",
+      "content": "Balan\u00e7o divulgado nesta ter\u00e7a-feira (30/1) pelo Minist\u00e9rio da Sa\u00fade apresenta n\u00fameros preocupantes da dengue em todo o pa\u00eds: nas primeiras semanas de 2024, o Brasil j\u00e1 registra um acumulado de 217.84\u2026 [+1429 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.651127",
+      "internal_id": "2726642434d73c7c213f02eb72219f2b375b069deb41ccb3af6ebace351ea822",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4802,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Sele\u00e7\u00f5es, Sele\u00e7\u00f5es",
+      "title": "Vacinas da dengue: saiba quem pode tomar e efeitos colaterais",
+      "description": "A vacina da Dengue marca um passo significativo no enfrentamento da doen\u00e7a. Veja os efeitos colaterais.",
+      "url": "https://delas.ig.com.br/parceiros/selecoes/2024-01-30/vacinas-da-dengue--saiba-quem-pode-tomar-e-efeitos-colaterais.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ed/hf/n7/edhfn7s7rgq7qhak0135dfwxu.jpg",
+      "publishedAt": "2024-01-30 14:00:27",
+      "content": "A primeira remessa da t\u00e3o aguardada vacina Qdenga contra a dengue chegou ao Sistema \u00danico de Sa\u00fade (SUS) no \u00faltimo dia 20, marcando um avan\u00e7o significativo no enfrentamento da doen\u00e7a. Aprovada pela\u2026 [+2235 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.817830",
+      "internal_id": "de42dc89f9d8523ebbb81ff45c59c25e5162bab9b4f8ad5f963c55bde1a8d833",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4797,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mario Recker, Wim A. Fleischmann, Trinh Huu Nghia, Nguyen Van Truong, Le Van Nam, Do Duc Anh, Le Huu Song, Nguyen Trong The, Chu Xuan Anh, Nguyen Viet Hoang, Nhat My Truong, Nguyen Linh Toan, Peter G. Kremsner, Thirumalaisamy P. Velavan",
+      "title": "Markers of prolonged hospitalisation in severe dengue",
+      "description": "Author summary Dengue places a significant burden on healthcare settings. Especially in low and middle income settings and during large outbreaks, allocation of limited resources to those at high risk of morbidity and mortality can be critically important. Va\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011922",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011922.g005&size=inline",
+      "publishedAt": "2024-01-30 14:00:00",
+      "content": "Citation: Recker M, Fleischmann WA, Nghia TH, Truong NV, Nam LV, Duc Anh D, et al. (2024) Markers of prolonged hospitalisation in severe dengue. PLoS Negl Trop Dis 18(1): e0011922. https://doi.org\u2026 [+27511 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.745565",
+      "internal_id": "47e2912ada29e3f0fb690c0eac42930b8f458de562dbfa188884c5e9ed757306",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4783,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Measles outbreak in West Midlands 'remains a concern', health officials say",
+      "description": "An ongoing measles outbreak in the West Midlands \"remains a concern\", the UK Health Security Agency (UKHSA) have said, with 127 cases of the disease confirmed across England this month.",
+      "url": "https://news.sky.com/story/measles-outbreak-in-west-midlands-remains-a-concern-health-officials-say-13059952",
+      "urlToImage": "https://e3.365dm.com/23/08/1600x900/skynews-breaking-breaking-news_6264872.jpg?20240118114847",
+      "publishedAt": "2024-01-30 13:00:00",
+      "content": "An ongoing measles outbreak in the West Midlands \"remains a concern\", the UK Health Security Agency (UKHSA) have said, with 127 cases of the disease confirmed across England this month. The organis\u2026 [+1154 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.168943",
+      "internal_id": "3a7b6006004e5b9dd5d74c524eeb8c346dc7086950f74ff98d4dc4f69576dcfd",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4795,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ang\u00e9lica Sales",
+      "title": "Onze cidades de SP v\u00e3o receber a vacina contra a dengue; veja quais",
+      "description": "Munic\u00edpios atenderam aos crit\u00e9rios do Minist\u00e9rio da Sa\u00fade e receber\u00e3o a vacina em fevereiro; na rede privada, cada dose pode custar R$ 500",
+      "url": "https://www.metropoles.com/sao-paulo/onze-cidades-de-sp-serao-vacinadas-contra-a-dengue-no-sus-veja-quais",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/30092536/vacina-dengue-1.jpg",
+      "publishedAt": "2024-01-30 12:56:59",
+      "content": "S\u00e3o Paulo Onze cidades do estado de S\u00e3o Paulo v\u00e3o receber doses da vacina contra a dengue que come\u00e7a a ser aplicada na rede p\u00fablica em fevereiro em todo o pa\u00eds. Todas ficam na regi\u00e3o do Alto Tiet\u00ea, n\u2026 [+4922 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.696061",
+      "internal_id": "056003bd010d39d1d0c332f80ff3d49a1eea62c6eaa9cb9498e3c31270e17f15",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4784,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "News story: Latest measles statistics published",
+      "description": "Regular measles statistics updates issued by the UK Health Security Agency (UKHSA).",
+      "url": "https://www.gov.uk/government/news/latest-measles-statistics-published",
+      "urlToImage": "https://assets.publishing.service.gov.uk/media/65b8d104ee7d490013984980/s960_shutterstock_408024511.jpg",
+      "publishedAt": "2024-01-30 12:51:24",
+      "content": "The latest number of laboratory confirmed measles cases in England have been published by the UKHSA in an updated epidemiological overview. From 1 October 2023, there have been 347 laboratory confir\u2026 [+1195 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.190999",
+      "internal_id": "2298961b88610ea5b5921a5be431133fb564b7d7d1beb5af1def509d2675ccf4",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4782,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Stephen Stock, Aparna Zalani, Chris Hacker, Jose Sanchez",
+      "title": "At least 8,500 U.S. schools at greater risk of measles outbreaks",
+      "description": "Thousands of schools are below a critical threshold to achieve herd immunity against measles, a CBS News investigation found.",
+      "url": "https://www.cbsnews.com/news/measles-outbreaks-schools-vaccination-rates-decline/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/29/a1aac330-2028-437c-8153-5d0fc4bc9443/thumbnail/1200x630/607f845b8d344dc91abbef5c92502424/vaccine-still2.jpg?v=d5d292229f42ff99b81040fe7c32f134",
+      "publishedAt": "2024-01-30 12:05:17",
+      "content": "Jessica Fichtel can't understand why her neighbors chose not to vaccinate their kids and, consequently, increased the risk of her son getting measles? The Vancouver, Washington, mom struggled every\u2026 [+7675 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.151741",
+      "internal_id": "6435f746f088a468a842a1fdeb7f140b8a4737af4b5392176575be507c106a97",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4815,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigeria: Govt to Introduce Malaria Vaccine in 2025 - NPHCDA",
+      "description": "[Daily Trust] The federal government has commenced the process of introducing malaria vaccine in Nigeria between the end of this year and early 2025, the National Primary Healthcare Development Agency (NPHCDA) has said.",
+      "url": "https://allafrica.com/stories/202401300241.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-01-30 10:50:10",
+      "content": "The federal government has commenced the process of introducing malaria vaccine in Nigeria between the end of this year and early 2025, the National Primary Healthcare Development Agency (NPHCDA) has\u2026 [+1865 chars]",
+      "retrievedAt": "2024-01-31 19:05:23.392294",
+      "internal_id": "cb07630378e382465ee6c3e2c297d4c3f73dbd90146e05942475e65d97d153aa",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4812,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Edis Henrique Peres, do R7, em Bras\u00edlia",
+      "title": "Minist\u00e9rio da Sa\u00fade pretende entregar vacinas contra dengue na segunda semana de fevereiro",
+      "description": "Segundo a pasta, 521 munic\u00edpios devem receber o imunizante; crian\u00e7as e adolescentes de 10 a 14 anos s\u00e3o o grupo priorit\u00e1rio",
+      "url": "https://noticias.r7.com/brasilia/vacina-dengue-sus-ministerio-30012024",
+      "urlToImage": "https://img.r7.com/images/dengue-vacina-sus-imunizante-criancas-27012024114906632?crop=936x526+129+73",
+      "publishedAt": "2024-01-30 10:12:00",
+      "content": "Primeiro lote das vacinas j\u00e1 est\u00e1 no Brasil Rog\u00e9rio Vidmantas/Prefeitura de Dourados O Minist\u00e9rio da Sa\u00fade quer come\u00e7ar a distribuir a vacina da dengue a partir da segunda semana de fevere\u2026 [+4516 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.944950",
+      "internal_id": "98436b98575fe11ab4ff0bea616a38a57bf952f48bbb66abce535f66c4f37792",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4810,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Influenciadora de 37 anos morre ap\u00f3s contrair dengue",
+      "description": "Uma influenciadora digital paranaense morreu aos 37 anos, v\u00edtima de dengue. Nas redes sociais, Aline Barone tinha 10 mil seguidores. A influen...",
+      "url": "https://recordtv.r7.com/fala-brasil/videos/influenciadora-de-37-anos-morre-apos-contrair-dengue-30012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/30/65b8f1dd19d224e8f5001e7e/76e73d1b85724e3bbc8d36431c14637b__2479415_EPP_3001_FB_INFLUENCIADORA_DIGITAL_thumb.jpg",
+      "publishedAt": "2024-01-30 10:08:00",
+      "content": "Uma influenciadora digital paranaense morreu aos 37 anos, v\u00edtima de dengue. Nas redes sociais, Aline Barone tinha 10 mil seguidores. A influenciadora era conhecida pelo apoio relacionado \u00e0s causas an\u2026 [+15 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.920076",
+      "internal_id": "7b02927f458b47edbc9d8dbde8ab18cc890a7abb120dab30e59002d5e99e7c3c",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4808,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: Minist\u00e9rio da Sa\u00fade fala em 'estrat\u00e9gia definida' para 2024 e p\u00f5e em xeque envio de vacina a Campinas",
+      "description": "Com 1,2 mil casos neste ano, cidade n\u00e3o est\u00e1 entre as inclu\u00eddas pelo governo federal entre as priorit\u00e1rias da remessa que come\u00e7a a ser aplicada em fevereiro. Prefeitura ainda aguarda reavalia\u00e7\u00e3o. Vacinas Qdenga (nova) e Dengavaxia que s\u00e3o as autorizadas pela \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/01/30/dengue-ministerio-da-saude-fala-em-estrategia-definida-para-2024-e-poe-em-xeque-envio-de-vacina-a-campinas.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/a2R4lOWxZOAOYHvx58wqGgf_IwM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/q/F/5GApBUTCAKC78raYHuiA/whatsapp-image-2023-07-03-at-18.09.55.jpeg",
+      "publishedAt": "2024-01-30 09:37:01",
+      "content": "V\u00cdDEO: FAB intercepta avi\u00e3o suspeito e atira, mas piloto foge ap\u00f3s pouso",
+      "retrievedAt": "2024-01-31 19:05:22.883869",
+      "internal_id": "a1089e23a446e621b293510f69deef959e96810e2e34fe89a1a9502f8a8e1461",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4814,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "medical-news-today",
+      "source_name": "Medical News Today",
+      "author": "Andrea Rice",
+      "title": "World-first malaria vaccine rollout for children: What to know",
+      "description": "A highly effective new malaria vaccine, RTS,S/AS01, has rolled out in Cameroon, Africa. The vaccine has shown modest efficacy against symptomatic malaria in clinical trials.",
+      "url": "https://www.medicalnewstoday.com/articles/new-cameroon-malaria-vaccine-lower-all-cause-mortality-risk-in-children",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/01/Malaria_Vaccine_Cameroon-732x549-Thumbnail.jpg",
+      "publishedAt": "2024-01-30 09:35:00",
+      "content": "For the first time, a highly effective new malaria vaccine RTS,S/AS01 has rolled out in Cameroon, Africa.RTS,S/AS01 has shown modest efficacy against symptomatic malaria in clinical \u2026 [+5410 chars]",
+      "retrievedAt": "2024-01-31 19:05:23.382630",
+      "internal_id": "56be443b7b4a30417c35d46cc7dda3149fa18282994b5d1ec48f1df728e5c2a0",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 4804,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Byte",
+      "title": "Drone, edi\u00e7\u00e3o gen\u00e9tica e mais: o que a ci\u00eancia est\u00e1 fazendo para conter o surto de dengue",
+      "description": "Pesquisadores desenvolvem inciativas com transg\u00eanicos, predadores naturais, drones e intelig\u00eancia artificial",
+      "url": "https://www.terra.com.br/byte/drone-edicao-genetica-e-mais-o-que-a-ciencia-esta-fazendo-para-conter-o-surto-de-dengue,1aaec2131075836f67e15d0d8ff580d8aiblwr5w.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/29/dengue-soem9fimorw6.jpeg",
+      "publishedAt": "2024-01-30 08:00:31",
+      "content": "Nas primeiras tr\u00eas semanas de 2024, o Brasil enfrentou um aumento de 170% nos casos de dengue, com 120.874 registros, em compara\u00e7\u00e3o aos 44.752 do mesmo per\u00edodo no ano anterior. Al\u00e9m disso, j\u00e1 foram n\u2026 [+3101 chars]",
+      "retrievedAt": "2024-01-31 19:05:22.843612",
+      "internal_id": "8b2ac2901d4d127e64d7eacf64dd41b5869478398dddbc8cd422eca91bab89c9",
+      "publishedAtLabel": "Jan 30"
+    },
     {
       "id": 4773,
       "query": [
@@ -18066,98 +18714,6 @@
       "content": "Global public health experts are warning that the United States is not prepared for looming threats posed by tropical and insect-borne viruses. At a two-day workshop this week at the National Academ\u2026 [+3569 chars]",
       "retrievedAt": "2023-12-19 07:06:05.858171",
       "internal_id": "0cfaf88db7ee727c73cd38a41e17381d95bf8444a45aaf1a778242c49f7b5ab6",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3771,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Congo-Kinshasa: L'OMS s'inqui\u00e8te de la propagation rapide de l'\u00e9pid\u00e9mie de Mpox, aussi appel\u00e9 \u00abvariole du singe\u00bb",
-      "description": "[RFI] L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocratique du Congo. L'OMS craint une transmission internat\u2026",
-      "url": "https://fr.allafrica.com/stories/202312170213.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-17 17:47:35",
-      "content": "L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocra\u2026 [+1973 chars]",
-      "retrievedAt": "2023-12-18 19:05:22.225309",
-      "internal_id": "78f75754d80da4b9cf135d9139b937366c70069c7ba13d66fe748363e9ed73e7",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3768,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
-      "description": "O alerta \u00e9 da plataforma AdaptaBrasil, vinculada ao Minist\u00e9rio da Ci\u00eancia, Tecnologia e Inova\u00e7\u00e3o (MCTI), em parceria com a Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz)",
-      "url": "https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2023-12-17 15:08:43",
-      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7013 chars]",
-      "retrievedAt": "2023-12-18 19:05:20.888933",
-      "internal_id": "65c09fd30bc85e9e62d4a53048ecc51a005d39c13e9fae15c460c5ed0b600dee",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3770,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "lesdepechesdebrazzaville@orange.fr (Les D\u00e9p\u00eaches de Brazzaville)",
-      "title": "Congo-Brazzaville: Forte extension de l'\u00e9pid\u00e9mie de mpox",
-      "description": "[Les D\u00c3\u00a9p\u00c3\u00aaches de Brazzaville] La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleurs, selon l'Organisation mon\u2026",
-      "url": "https://fr.allafrica.com/stories/202312170165.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-17 13:44:42",
-      "content": "La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleu\u2026 [+2518 chars]",
-      "retrievedAt": "2023-12-18 19:05:22.217644",
-      "internal_id": "ffc356b5afd0af4ad4d33484615d7ab1b68d898dd616c76bfc983aab95a21bf2",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3767,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
-      "description": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e,...",
-      "url": "https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/12/17104316/mnltwruwnrntvhfsnhcib3jxeu.webp",
-      "publishedAt": "2023-12-17 10:46:19",
-      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7210 chars]",
-      "retrievedAt": "2023-12-18 19:05:20.884949",
-      "internal_id": "edc6e32eb4ce9ef72072cc25207b7750a3def679012278999d1ca14019fac8f0",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3769,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Sof\u00eda Barruti",
-      "title": "Un cient\u00edfico africano podr\u00eda acabar con la malaria editando el ADN de un mosquito",
-      "description": "Diabate, que ahora dirige entomolog\u00eda m\u00e9dica y parasitolog\u00eda en el Instituto de Investigaci\u00f3n en Ciencias de la Salud de Burkina Faso, est\u00e1 desarrollando una t\u00e9cnica innovadora que potencialmente podr\u00eda eliminar las especies de mosquitos transmisores de malar\u2026",
-      "url": "https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/",
-      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/12/cientifico-malaria.jpg?quality=100&strip=info",
-      "publishedAt": "2023-12-17 09:06:30",
-      "content": "Casos de malaria entre migrantes pone en alerta a Honduras 4:01 (CNN) -- Abdoulaye Diabate enfrent\u00f3 un ataque de malaria que puso en peligro su vida cuando solo ten\u00eda cinco a\u00f1os. Diabate sobrevivi\u00f3\u2026 [+9242 chars]",
-      "retrievedAt": "2023-12-18 19:05:21.602100",
-      "internal_id": "fccc16499069e80b64c41def33114d84578c1c2dae555f32b41f5e75b2056c47",
       "publishedAtLabel": "Dec 17"
     }
   ]
