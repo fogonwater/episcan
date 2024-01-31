@@ -34,4 +34,5 @@ SOURCE_IGNORE = [
     "Fark.com",
     "Diamond.jp",
     "Slashdot.org",
+    "www.celebitchy.com"
 ]
