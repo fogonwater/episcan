@@ -1,7 +1,7 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 1
-- **Last harvest:** 2024-01-31 19:31
+- **New articles in last harvest:** 3
+- **Last harvest:** 2024-01-31 19:36
 - **Most recent article:** 2024-01-30 19:07:00
 
 ---
@@ -24,6 +24,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | typhoid | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 1 | 10 |
 | leptospirosis | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 0 | 7 |
 | yersinia | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 5 |
+| sarampión | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -41,6 +42,12 @@ Source: [News API](https://newsapi.org/)
 ## 24-5 (typhoid)
 
 - [Dying of thirst](https://electronicintifada.net/content/dying-thirst/44221) (Electronicintifada.net)
+
+## 24-5 (sarampión)
+
+- [La OMS explicó por qué aumentaron 30% los casos de sarampión en todo Europa](https://www.mundodeportivo.com/vidae/salud/20240130/1002179728/oms-explico-aumentaron-casos-sarampion-europa.html) (Mundodeportivo.com)
+
+- [Perú alerta a la población por caso de sarampión importado de Europa](https://www.milenio.com/internacional/peru-alerta-poblacion-caso-sarampion-importado-europa) (Milenio)
 
 ## 24-5 (rabies)
 
@@ -279,6 +286,10 @@ Source: [News API](https://newsapi.org/)
 - [Single dose typhoid conjugate vaccine (TCV) provides lasting efficacy in children](https://www.sciencedaily.com/releases/2024/01/240126001934.htm) (Science Daily)
 
 - [Study reveals how some bacterial infections become chronic](https://phys.org/news/2024-01-reveals-bacterial-infections-chronic.html) (Phys.Org)
+
+## 24-4 (sarampión)
+
+- [Los casos de sarampión avanzan en Europa entre los no vacunados](https://www.elperiodico.com/es/sociedad/20240127/casos-sarampion-avanzan-europa-vacunados-97346645) (Elperiodico.com)
 
 ## 24-4 (rabies)
 
