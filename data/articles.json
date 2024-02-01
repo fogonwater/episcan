@@ -1,8 +1,406 @@
 {
-  "last_updated": "2024-02-01 07:05",
-  "count_articles_total": 1063,
-  "count_articles_new": 17,
+  "last_updated": "2024-02-01 19:05",
+  "count_articles_total": 1080,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 4837,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Laura Santhanam",
+      "title": "Why experts worry more pet owners may skip rabies shots over vaccine hesitancy",
+      "description": "Public health experts and veterinarians are concerned about the potential for an increase in cases of rabies, a vaccine-preventable illness, for both companion animals and humans.",
+      "url": "https://www.pbs.org/newshour/health/why-experts-worry-more-pet-owners-may-skip-rabies-shots-over-vaccine-hesitancy",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/GettyImages-1571961500-1024x683.jpg",
+      "publishedAt": "2024-01-31 18:43:07",
+      "content": "Eve and Tibbers arent vaccinated for rabies. They live near the foot of Californias Mt. Shasta where bears, raccoons, foxes and opossums all wander with their humans, Susie Lux and her husband. Whil\u2026 [+8469 chars]",
+      "retrievedAt": "2024-02-01 19:05:35.768563",
+      "internal_id": "34056cccec0f122628d623dce23e88a2763e030c1534d6aa1cffbada08fb0af4",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4839,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "OPS emite alerta por sarampi\u00f3n e incluye a Costa Rica",
+      "description": "Llamado menciona el caso registrado aqu\u00ed como uno de los puntos de preocupaci\u00f3n y pide a los pa\u00edses aumentar las coberturas de vacunaci\u00f3n contra el sarampi\u00f3n",
+      "url": "https://www.nacion.com/ciencia/salud/ops-emite-alerta-epidemiologica-por-sarampion/OXCBW3LCBZDRFPZSYJAS26RY44/story/",
+      "urlToImage": "https://www.nacion.com/resizer/0DZuYukJmezBbL1lJYoDdie4wdk=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/IJIYQHP7PBGSHODVB4LJX6VETQ.jpg",
+      "publishedAt": "2024-01-31 18:40:44",
+      "content": "La Organizaci\u00f3n Panamericana de la Salud (OPS) emiti\u00f3 este 29 de enero una alerta epidemiol\u00f3gica por el aumento del sarampi\u00f3n en el continente americano. Las autoridades advirtieron de las bajas cobe\u2026 [+3884 chars]",
+      "retrievedAt": "2024-02-01 19:05:37.550857",
+      "internal_id": "1b26291e60f3b5a136e8d05ab66ecae0d31b87ceefde67ecf45555bf951bfb53",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4845,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Deutsche Welle",
+      "title": "Como prevenir e combater a dengue?",
+      "description": "Nas quatro primeiras semanas do ano, Brasil registrou tr\u00eas vezes mais casos da doen\u00e7a que no ...",
+      "url": "https://www.terra.com.br/noticias/como-prevenir-e-combater-a-dengue,ae3f1839e2d391b888c49e711eb07da4y3pb2r1t.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/31/1198877584-62358404354.jpg",
+      "publishedAt": "2024-01-31 18:16:14",
+      "content": "Nas quatro primeiras semanas do ano, Brasil registrou tr\u00eas vezes mais casos da doen\u00e7a que no mesmo per\u00edodo de 2023. Saiba quais s\u00e3o os recursos e medicamentos eficazes contra ela - e quais podem ser \u2026 [+6691 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.121436",
+      "internal_id": "8db7e664318ddc17e1a02dd70301d9f2bf8105eb8408083243d2041731162581",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4840,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Megacurioso.com.br",
+      "author": "Pedro Freitas",
+      "title": "Dengue: prote\u00edna de mosquito pode ser a chave para bloqueio do v\u00edrus",
+      "description": "Um novo estudo feito pela Universidade Nacional de Singapura apontou que as f\u00eameas do mosquito Aedes aegypti, inseto respons\u00e1vel pela transmiss\u00e3o do v\u00edrus da dengue, podem carregar a reposta para o desenvolvimento de novas estrat\u00e9gias antivirais para controla\u2026",
+      "url": "https://www.megacurioso.com.br//saude-bem-estar/128726-dengue-proteina-de-mosquito-pode-ser-a-chave-para-bloqueio-do-virus.htm",
+      "urlToImage": "https://mega.ibxk.com.br/2024/01/31/31113820362105.jpg?ims=600x",
+      "publishedAt": "2024-01-31 18:00:34",
+      "content": "Um novo estudo feito pela Universidade Nacional de Singapura apontou que as f\u00eameas do mosquito Aedes aegypti, inseto respons\u00e1vel pela transmiss\u00e3o do v\u00edrus da dengue, podem carregar a reposta para o d\u2026 [+3138 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.051381",
+      "internal_id": "6b9829c01b87e890c1429cb1bd61cc7bfaf3ed5d99386c4ba6e326bbd062db8c",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4846,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Alexander Freund",
+      "title": "Como prevenir e combater a dengue?",
+      "description": "Nas quatro primeiras semanas do ano, Brasil registrou tr\u00eas vezes mais casos da doen\u00e7a que no mesmo per\u00edodo de 2023. Saiba quais s\u00e3o os recursos e medicamentos eficazes contra ela \u2013 e quais podem ser prejudiciais.",
+      "url": "https://www.dw.com/pt-br/como-prevenir-e-combater-a-dengue/a-68136742",
+      "urlToImage": "https://static.dw.com/image/62358404_6.jpg",
+      "publishedAt": "2024-01-31 17:57:00",
+      "content": "Nas primeiras quatro semanas de 2024, o Brasil registrou 217.841 prov\u00e1veis casos de dengue. O n\u00famero \u00e9 tr\u00eas vezes maior do que o observado no mesmo per\u00edodo do ano passado. As autoridades sanit\u00e1rias t\u2026 [+6365 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.146648",
+      "internal_id": "5d6323b17ad51ff1caa01cb1eade051e1ad826d415b828c97f8c4d8536964c95",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4842,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Cerca de 2% dos pacientes com dengue do DF precisam de interna\u00e7\u00e3o",
+      "description": "Segundo a secret\u00e1ria de Sa\u00fade do DF, das 1,5 mil pessoas que procuram as tendas de atendimento para dengue, 2% precisam de interna\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/distrito-federal/cerca-de-2-dos-pacientes-com-dengue-do-df-precisam-de-internacao",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/31134645/visita-dengue-df.jpeg",
+      "publishedAt": "2024-01-31 17:29:26",
+      "content": "Para evitar uma crise de falta de leitos durante a epidemia de dengue, como a sofrida na pandemia de Covid-19, a Secretaria de Sa\u00fade come\u00e7ou a adotar as medidas necess\u00e1rias para ampliar a oferta de p\u2026 [+2971 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.079616",
+      "internal_id": "8b41e60540238407bf0988176e064bb1773da96d1b7ea7aff2ab4af343a0eb86",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4854,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Atestado de dengue vale por quantos dias? Tire suas d\u00favidas",
+      "description": "Compreender a validade do atestado de dengue \u00e9 crucial para a gest\u00e3o adequada do tempo de repouso necess\u00e1rio",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/atestado-de-dengue-vale-por-quantos-dias-tire-suas-duvidas,c8f4ed0124fa43fa2297aa4b96040217wxofpmty.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/31/istock-1301555089-1jyiu7qkhx1ep.jpg",
+      "publishedAt": "2024-01-31 17:02:56",
+      "content": "Os casos de dengue triplicaram no ver\u00e3o deste ano em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado, de acordo com dados do Minist\u00e9rio da Sa\u00fade. Mais de 217 mil ocorr\u00eancias da doen\u00e7a foram registrada\u2026 [+2749 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.205516",
+      "internal_id": "a897661b0391fc72133f3c18b5d269ac32efcc80cd835f9712bb4fbbb1b7e76a",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4850,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "A dengue \u00e9 transmiss\u00edvel? Saiba o que \u00e9 mito e verdade sobre a doen\u00e7a",
+      "description": "Uma s\u00e9rie de mitos sobre a dengue surgem nas redes sociais sempre que h\u00e1 aumento no n\u00famero de casos, como no in\u00edcio de 2024",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/a-dengue-e-transmissivel-saiba-o-que-e-mito-e-verdade-sobre-a-doenca,22ad7a166f94d54d825c47ab5637bf3amrbka5ml.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/31/istock-947155068-vey62eztjwbp.jpg",
+      "publishedAt": "2024-01-31 16:53:09",
+      "content": "Com o aumento de casos de dengue, registrados pelo Minist\u00e9rio da Sa\u00fade, que apontou mais de 217 mil ocorr\u00eancias da doen\u00e7a nas quatro primeiras semanas de 2024, alguns \u201cmitos\u201d sobre a dengue circulam \u2026 [+2089 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.176456",
+      "internal_id": "2e2067a3fa51d1f14575271bc23947a6a904d0b17631769057a24b19dc60844d",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4841,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Dengue: DF \u00e9 um dos locais de maior preocupa\u00e7\u00e3o, diz ministra da Sa\u00fade",
+      "description": "A ministra N\u00edsia Trindade fez uma visita \u00e0 tenda de atendimento para casos suspeitos de dengue em Ceil\u00e2ndia nesta 4\u00aa",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-df-e-uma-da-regiao-de-maior-preocupacao-diz-ministra-da-saude",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/31133038/nisia.jpeg",
+      "publishedAt": "2024-01-31 16:38:28",
+      "content": "Na avalia\u00e7\u00e3o da ministra da Sa\u00fade, N\u00edsia Trindade, o Distrito Federal \u00e9 uma das regi\u00f5es de maior preocupa\u00e7\u00e3o diante da onda de casos de dengue. Para a ministra, a vacina ser\u00e1 importante contra a doen\u2026 [+3274 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.061886",
+      "internal_id": "a25cb3cd6aea58d9077d0a44a4a060ed6555375eeac7672c893e3c2617b55854",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4843,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Arreguy",
+      "title": "Dengue: Tarc\u00edsio projeta vacina do Butantan para setembro",
+      "description": "Governador de SP, Tarc\u00edsio de Freitas diz que o Instituto Butantan espera produzir em torno de 45 milh\u00f5es de doses da vacina da dengue",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-tarcisio-projeta-vacina-do-butantan-para-setembro",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/12/19113519/tarcisio-balanco-Monica-Andrade-Governo-do-Estado-SP.jpg",
+      "publishedAt": "2024-01-31 16:08:16",
+      "content": "S\u00e3o Paulo O governador Tarc\u00edsio de Freitas (Republicanos) afirmou, nesta quarta-feira (31/1), que a vacina de combate \u00e0 dengue desenvolvida pelo Instituto Butantan deve ficar pronta em setembro deste\u2026 [+6708 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.087128",
+      "internal_id": "86dcb65e1cea103064fceee05392f18be034cfa7cdaa181ed14e047aeb17f150",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4855,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Pessoas acima de 45 anos podem tomar a vacina da dengue? Entenda!",
+      "description": "O n\u00famero de casos de dengue registrou aumento de quase 40% entre julho de 2023 e janeiro deste ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/pessoas-acima-de-45-anos-podem-tomar-a-vacina-da-dengue-entenda,ace15fbcd0a77ce548e82f82d1f8d9564kj85a9w.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/31/istock-1585069830-qhkiuoe07cqh.jpg",
+      "publishedAt": "2024-01-31 16:05:10",
+      "content": "O n\u00famero de casos de dengue registrou aumento de quase 40% entre julho de 2023 e janeiro deste ano, com \u00edndice de 150 cont\u00e1gios por cada 100 mil habitantes, de acordo com o Minist\u00e9rio da Sa\u00fade. A \u2026 [+2145 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.212463",
+      "internal_id": "4283bbb243d7dbde1d26b827582990fa4a71f5014878a84bf2f665f0a5a308ea",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4856,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Ivermectina n\u00e3o funciona para tratar dengue, alerta infectologista",
+      "description": "Luana Ara\u00fajo, infectologista , comenta que a melhor forma de receber o acompanhamento e o tratamento correto \u00e9 fazendo testes para identificar...",
+      "url": "https://noticias.r7.com/record-news/videos/ivermectina-nao-funciona-para-tratar-dengue-alerta-infectologista-31012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/31/65ba889819d224ffd30008dc/2483485_EPP_RRN_3101_ALERTAS_DENGUE_thumb.jpg",
+      "publishedAt": "2024-01-31 15:14:06",
+      "content": "Luana Ara\u00fajo, infectologista , comenta que a melhor forma de receber o acompanhamento e o tratamento correto \u00e9 fazendo testes para identificar qual a doen\u00e7a exata. A especialista lembra que n\u00e3o exist\u2026 [+48 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.245978",
+      "internal_id": "2eae4ffe56d45c818690d88d08755d973b08a656bb6a45eb81d59714de897c6d",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4852,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Vacina contra dengue: quem pode tomar, valor e onde encontrar",
+      "description": "Tudo o que voc\u00ea precisa saber sobre a Qdenga, nova vacina contra a dengue que far\u00e1 parte do Programa Nacional de Imuniza\u00e7\u00f5es",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/vacina-contra-dengue-quem-pode-tomar-valor-e-onde-encontrar,f04e79907d19215b6a1bdc20f61a8294wf6j40mw.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/01/31/istock-1247116794-1iuqh5v916rlj.jpg",
+      "publishedAt": "2024-01-31 15:06:05",
+      "content": "O Minist\u00e9rio da Sa\u00fade do Brasil anunciou que iniciar\u00e1 em fevereiro a vacina\u00e7\u00e3o contra a dengue em 521 munic\u00edpios. O pa\u00eds \u00e9 o primeiro do mundo a oferecer a imuniza\u00e7\u00e3o contra a dengue em seu sistema d\u2026 [+6198 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.184613",
+      "internal_id": "54b97a408c40d16bbd777fe4d04b0524591053e8b81223574a6218a1fe5ad8a8",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4844,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Gabriela Andrade",
+      "title": "Governo federal lan\u00e7a segunda fase da campanha de combate \u00e0 dengue",
+      "description": "Assinada pela Nacional Comunica\u00e7\u00e3o, a\u00e7\u00e3o tamb\u00e9m alerta que chikungunya e zika continuam e devem ser combatidas",
+      "url": "https://www.metropoles.com/colunas/m-buzz/governo-federal-lanca-segunda-fase-da-campanha-de-combate-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/29122508/Governo-Federal-lanca-segunda-fase-da-campanha-de-combate-a-dengue-Metropoles.jpg",
+      "publishedAt": "2024-01-31 15:00:32",
+      "content": "O Minist\u00e9rio da Sa\u00fade lan\u00e7a a nova fase da Campanha Nacional de Combate ao Mosquito Aedes Aegypti para refor\u00e7ar os alertas e instru\u00e7\u00f5es para a popula\u00e7\u00e3o sobre os riscos do transmissor de v\u00e1rias doen\u00e7\u2026 [+1083 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.105483",
+      "internal_id": "302cdffd6f625d9ef97a4181b3336957b28da4fa6cfdae874576e1a184b17814",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4847,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Vacina contra dengue aguarda tradu\u00e7\u00e3o de bula para distribui\u00e7\u00e3o",
+      "description": "De acordo com a ministra N\u00edsia Trindade, o in\u00edcio da imuniza\u00e7\u00e3o contra a dengue no pa\u00eds depende do cumprimento desta norma",
+      "url": "https://saude.ig.com.br/2024-01-31/vacina-dengue-aguarda-traducao-bula-distribuicao.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c4/1z/dr/c41zdr4sztch6kcgg0ab3ryg7.jpg",
+      "publishedAt": "2024-01-31 14:07:05",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, disse nesta ter\u00e7a-feira (30) que o governo est\u00e1 aguardando a impress\u00e3o da bula do imunizante Qdenga em portugu\u00eas para iniciar a vacina\u00e7\u00e3o contra a dengue no pa\u00ed\u2026 [+1290 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.154082",
+      "internal_id": "944d101f2141e0aef4ab73b5a54f95b9883a5c9eb4181f0048dbda8a7f73bfb1",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4848,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Dengue: Prefeitura de SP pede que Sa\u00fade envie doses de vacina",
+      "description": "Em meio a alta de casos, capital paulista est\u00e1 fora da lista dos 521 munic\u00edpios que receber\u00e3o o 1\u00ba lote do imunizante a partir de fevereiro",
+      "url": "https://saude.ig.com.br/2024-01-31/prefeitura-de-sp-pede-que-saude-envie-doses-de-vacina-contra-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3w/py/fj/3wpyfj1j8azn0rz5mibyxmajz.jpg",
+      "publishedAt": "2024-01-31 14:03:43",
+      "content": "A Secretaria Municipal da Sa\u00fade (SMS) de S\u00e3o Paulo encaminhou nessa ter\u00e7a-feira (30) um of\u00edcio ao Minist\u00e9rio da Sa\u00fade solicitando o envio imediato de doses da vacina contra a dengue. Mesmo com a al\u2026 [+1505 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.158697",
+      "internal_id": "b1add8eebbfb391d26cc69da21060f3e4746cc630eb278b163d50a5ca7111574",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4849,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Leah C. Katzelnick, Emmanuelle Quentin, Savannah Colston, Thien-An Ha, Paulina Andrade, Joseph N. S. Eisenberg, Patricio Ponce, Josefina Coloma, Varsovia Cevallos",
+      "title": "Increasing transmission of dengue virus across ecologically diverse regions of Ecuador and associated risk factors",
+      "description": "Author summary The factors driving the increasing burden of arboviruses like dengue virus are not fully understood. In this study, we measured changes in dengue virus transmission intensity and arbovirus disease risk across Ecuador, an ecologically and demogr\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011408",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011408.g006&size=inline",
+      "publishedAt": "2024-01-31 14:00:00",
+      "content": "Citation: Katzelnick LC, Quentin E, Colston S, Ha T-A, Andrade P, Eisenberg JNS, et al. (2024) Increasing transmission of dengue virus across ecologically diverse regions of Ecuador and associated ri\u2026 [+40535 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.168742",
+      "internal_id": "d20cf810771cbbe7099a7340b50404ba14b9fff8b406e327a339d279a9d56f9d",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4838,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Wednesday, January 31, 2024",
+      "description": "STD rates, measles cases, covid, Medicaid drug costs, violence against health workers, a non-opioid pain drug, and more are in the news.",
+      "url": "https://kffhealthnews.org/morning-briefing/wednesday-january-31-2024/",
+      "urlToImage": null,
+      "publishedAt": "2024-01-31 13:47:46",
+      "content": "Gallup Poll Finds Nurses Are Most Trusted Among 23 Major Professions Americans trust nurses even more than doctors, the new 2023 Honesty and Ethics poll found: 78% of Americans taking part in the po\u2026 [+4163 chars]",
+      "retrievedAt": "2024-02-01 19:05:37.132718",
+      "internal_id": "9ec7903e605f6319b460d4ea7d0870f3fa4ce2686af36187b095e7224ce6b690",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4853,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Mar de Sa\u00fade: RJ registra quase 10 mil casos de dengue em 2024",
+      "description": "No quadro Mar de Sa\u00fade, um especialista alerta sobre a import\u00e2ncia de eliminar os focos do mosquito da dengue em seu est\u00e1gio inicial. De acord...",
+      "url": "https://noticias.r7.com/rio-de-janeiro/rj-no-ar/videos/mar-de-saude-rio-registra-quase-10-mil-casos-de-dengue-em-2024-31012024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/01/31/65ba5cb0ca90841a39002dfd/975de2dcb44f4fc2858743c39b1d44bc__RJA_R7_31JAN2024_CICLOMOSQUITO_thumb.jpg",
+      "publishedAt": "2024-01-31 13:34:00",
+      "content": "No quadro Mar de Sa\u00fade, um especialista alerta sobre a import\u00e2ncia de eliminar os focos do mosquito da dengue em seu est\u00e1gio inicial. De acordo com a Secretaria de Sa\u00fade do Rio, do dia primeiro at\u00e9 d\u2026 [+142 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.201187",
+      "internal_id": "9a05206cdb8e497b4d0e459ece6fa330a1bb5631bb633206e7fdf36ad6b7c4ac",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4857,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "NTDs Reduction is a Long Journey But Progress is Almost 60% - RBC",
+      "description": "[New Times] During the World Neglected Tropical Diseases Day on Tuesday, January 30, at DP World Kigali, Masaka sector in Kicukiro District, Dr Aimable Mbituyumuremyi, Division Manager of Malaria and NTDs at Rwanda Biomedical Centre (RBC), said the reduction \u2026",
+      "url": "https://allafrica.com/stories/202401310410.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-01-31 13:17:22",
+      "content": "During the World Neglected Tropical Diseases Day on Tuesday, January 30, at DP World Kigali, Masaka sector in Kicukiro District, Dr Aimable Mbituyumuremyi, Division Manager of Malaria and NTDs at Rwa\u2026 [+3249 chars]",
+      "retrievedAt": "2024-02-01 19:05:39.234395",
+      "internal_id": "fd33416bd3d6120a39e6fc12d6b4236965bf988b6f265baa64b73f819e7fd01f",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4858,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Noticiasdotimao.com.br",
+      "author": "NOT\u00cdCIAS DO TIM\u00c3O",
+      "title": "Neto trouxe a maior zika poss\u00edvel para o Corinthians nesta ter\u00e7a (30)",
+      "description": "Corinthiano assumido, Neto zicou o Tim\u00e3o no confronto diante do rival tricolor",
+      "url": "https://noticiasdotimao.com.br/neto-trouxe-a-maior-zika-possivel-para-o-corinthians-nesta-terca-30/",
+      "urlToImage": "https://noticiasdotimao.com.br/wp-content/uploads/2023/05/neto.webp",
+      "publishedAt": "2024-01-31 09:38:36",
+      "content": "O Corinthians perde mais uma partida no Campeonato Paulista e coleciona sua terceira derrota seguida na competi\u00e7\u00e3o. O Tim\u00e3o foi at\u00e9 sua casa, na Neo Qu\u00edmica Arena, e perdeu para o S\u00e3o Paulo pelo plac\u2026 [+1811 chars]",
+      "retrievedAt": "2024-02-01 19:05:39.481472",
+      "internal_id": "88a9b1617e054b8c7026ddd3aa1f68ff6fa5571120a6c3c59fb3c85fbf39829d",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 4851,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Curtas",
+      "description": "Dengue no pa\u00eds O n\u00famero de casos prov\u00e1veis de deng...",
+      "url": "https://valor.globo.com/brasil/noticia/2024/01/31/1e081441-curtas.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-01-31 08:01:25",
+      "content": "Dengue no pa\u00edsO n\u00famero de casos prov\u00e1veis de dengue no Brasil aumentou 80,2%. De acordo com o \u00faltimo boletim do Minist\u00e9rio da Sa\u00fade, divulgado nesta ter\u00e7a-feira (30), nas primeiras semanas de 2024, o\u2026 [+358 chars]",
+      "retrievedAt": "2024-02-01 19:05:38.180129",
+      "internal_id": "b98d325eb99830847bbcc6c5b2b872e4b42f6aee97d4444fec763a6750ce2664",
+      "publishedAtLabel": "Jan 31"
+    },
     {
       "id": 4826,
       "query": [
@@ -19094,98 +19492,6 @@
       "content": "Global public health experts are warning that the United States is not prepared for looming threats posed by tropical and insect-borne viruses. At a two-day workshop this week at the National Academ\u2026 [+3569 chars]",
       "retrievedAt": "2023-12-19 07:06:05.858171",
       "internal_id": "0cfaf88db7ee727c73cd38a41e17381d95bf8444a45aaf1a778242c49f7b5ab6",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3771,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Congo-Kinshasa: L'OMS s'inqui\u00e8te de la propagation rapide de l'\u00e9pid\u00e9mie de Mpox, aussi appel\u00e9 \u00abvariole du singe\u00bb",
-      "description": "[RFI] L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocratique du Congo. L'OMS craint une transmission internat\u2026",
-      "url": "https://fr.allafrica.com/stories/202312170213.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-17 17:47:35",
-      "content": "L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocra\u2026 [+1973 chars]",
-      "retrievedAt": "2023-12-18 19:05:22.225309",
-      "internal_id": "78f75754d80da4b9cf135d9139b937366c70069c7ba13d66fe748363e9ed73e7",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3768,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
-      "description": "O alerta \u00e9 da plataforma AdaptaBrasil, vinculada ao Minist\u00e9rio da Ci\u00eancia, Tecnologia e Inova\u00e7\u00e3o (MCTI), em parceria com a Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz)",
-      "url": "https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2023-12-17 15:08:43",
-      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7013 chars]",
-      "retrievedAt": "2023-12-18 19:05:20.888933",
-      "internal_id": "65c09fd30bc85e9e62d4a53048ecc51a005d39c13e9fae15c460c5ed0b600dee",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3770,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "lesdepechesdebrazzaville@orange.fr (Les D\u00e9p\u00eaches de Brazzaville)",
-      "title": "Congo-Brazzaville: Forte extension de l'\u00e9pid\u00e9mie de mpox",
-      "description": "[Les D\u00c3\u00a9p\u00c3\u00aaches de Brazzaville] La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleurs, selon l'Organisation mon\u2026",
-      "url": "https://fr.allafrica.com/stories/202312170165.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-17 13:44:42",
-      "content": "La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleu\u2026 [+2518 chars]",
-      "retrievedAt": "2023-12-18 19:05:22.217644",
-      "internal_id": "ffc356b5afd0af4ad4d33484615d7ab1b68d898dd616c76bfc983aab95a21bf2",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3767,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
-      "description": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e,...",
-      "url": "https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/12/17104316/mnltwruwnrntvhfsnhcib3jxeu.webp",
-      "publishedAt": "2023-12-17 10:46:19",
-      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7210 chars]",
-      "retrievedAt": "2023-12-18 19:05:20.884949",
-      "internal_id": "edc6e32eb4ce9ef72072cc25207b7750a3def679012278999d1ca14019fac8f0",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3769,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Sof\u00eda Barruti",
-      "title": "Un cient\u00edfico africano podr\u00eda acabar con la malaria editando el ADN de un mosquito",
-      "description": "Diabate, que ahora dirige entomolog\u00eda m\u00e9dica y parasitolog\u00eda en el Instituto de Investigaci\u00f3n en Ciencias de la Salud de Burkina Faso, est\u00e1 desarrollando una t\u00e9cnica innovadora que potencialmente podr\u00eda eliminar las especies de mosquitos transmisores de malar\u2026",
-      "url": "https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/",
-      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/12/cientifico-malaria.jpg?quality=100&strip=info",
-      "publishedAt": "2023-12-17 09:06:30",
-      "content": "Casos de malaria entre migrantes pone en alerta a Honduras 4:01 (CNN) -- Abdoulaye Diabate enfrent\u00f3 un ataque de malaria que puso en peligro su vida cuando solo ten\u00eda cinco a\u00f1os. Diabate sobrevivi\u00f3\u2026 [+9242 chars]",
-      "retrievedAt": "2023-12-18 19:05:21.602100",
-      "internal_id": "fccc16499069e80b64c41def33114d84578c1c2dae555f32b41f5e75b2056c47",
       "publishedAtLabel": "Dec 17"
     }
   ]
