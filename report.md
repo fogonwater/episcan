@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2024-01-31 19:36
-- **Most recent article:** 2024-01-30 19:07:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-02-01 07:05
+- **Most recent article:** 2024-01-31 06:20:16
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 66 | 37 | 2 | 52 | 35 | 65 | 123 | 56 | 436 |
-| malaria | 21 | 22 | 2 | 11 | 51 | 26 | 86 | 9 | 228 |
-| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 23 | 209 |
-| mpox | 13 | 12 | 0 | 2 | 2 | 8 | 4 | 0 | 41 |
-| zika | 2 | 1 | 0 | 7 | 8 | 8 | 7 | 3 | 36 |
-| rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 2 | 33 |
-| chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 4 | 30 |
+| dengue | 69 | 37 | 2 | 52 | 35 | 65 | 123 | 62 | 445 |
+| malaria | 23 | 22 | 2 | 11 | 51 | 26 | 86 | 9 | 230 |
+| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 29 | 215 |
+| mpox | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 1 | 44 |
+| zika | 5 | 1 | 0 | 7 | 8 | 8 | 7 | 4 | 40 |
+| rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 4 | 35 |
+| chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 5 | 31 |
 | meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 3 | 30 |
 | pertussis | 2 | 0 | 0 | 5 | 2 | 5 | 2 | 1 | 17 |
-| typhoid | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 1 | 10 |
+| typhoid | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 11 |
 | leptospirosis | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 0 | 7 |
 | yersinia | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 5 |
-| sarampión | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 2 | 3 |
+| sarampión | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 3 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-5 (zika)
+
+- [Repelente funciona contra mosquito da dengue? Entenda!](https://www.terra.com.br/vida-e-estilo/saude/repelente-funciona-contra-mosquito-da-dengue-entenda,5ce7e9652b17a3b3f5c133fcdfa1c528no1kvyv4.html) (Terra.com.br)
 
 - [Vaccine hesitancy rising as climate-related disease spreads]( https://en.setopati.com/International/162491 ) (Setopati.com)
 
@@ -41,15 +43,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (typhoid)
 
+- [Drink More Tomato Juice: Study Says It Has Antimicrobial Properties To Eliminate Typhoid-Causing Salmonella](https://www.medicaldaily.com/drink-more-tomato-juice-study-says-it-has-antimicrobial-properties-eliminate-typhoid-causing-471338) (Medical Daily)
+
 - [Dying of thirst](https://electronicintifada.net/content/dying-thirst/44221) (Electronicintifada.net)
 
 ## 24-5 (sarampión)
+
+- [¡Atención! Hay alerta por el aumento de casos de sarampión](https://www.record.com.mx/contra/atencion-hay-alerta-por-el-aumento-de-casos-de-sarampion) (Record.com.mx)
 
 - [La OMS explicó por qué aumentaron 30% los casos de sarampión en todo Europa](https://www.mundodeportivo.com/vidae/salud/20240130/1002179728/oms-explico-aumentaron-casos-sarampion-europa.html) (Mundodeportivo.com)
 
 - [Perú alerta a la población por caso de sarampión importado de Europa](https://www.milenio.com/internacional/peru-alerta-poblacion-caso-sarampion-importado-europa) (Milenio)
 
 ## 24-5 (rabies)
+
+- [Indiana's 1st case of skunk rabies in 20 years is a 'wake-up call for all Hoosiers,' state health experts say](https://www.wdrb.com/news/indianas-1st-case-of-skunk-rabies-in-20-years-is-a-wake-up-call-for/article_a68c3b52-bfa3-11ee-9b4b-5fb428b97e44.html) (WDRB)
+
+- [Indiana's 1st case of skunk rabies 20 years is a 'wake-up call for all Hoosiers,' state health experts say](https://www.wdrb.com/news/indianas-1st-case-of-skunk-rabies-20-years-is-a-wake-up-call-for-all/article_a68c3b52-bfa3-11ee-9b4b-5fb428b97e44.html) (WDRB)
 
 - [Dog shot by Boulder police was attacking owner, officers](https://www.denverpost.com/2024/01/29/dog-attack-shot-officers-boulder/) (The Denver Post)
 
@@ -58,6 +68,10 @@ Source: [News API](https://newsapi.org/)
 ## 24-5 (pertussis)
 
 - [What is '100 day cough'? Why is it in news?](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/what-is-100-day-cough-why-is-it-in-news/photostory/107225626.cms) (The Times of India)
+
+## 24-5 (mpox)
+
+- [สภากาชาดไทย เปิดให้ลงทะเบียน ฉีดวัคซีนป้องกันโรคฝีดาษวานร ผ่าน 2 หน่วยงาน](https://www.thairath.co.th/news/society/2759505) (Thairath.co.th)
 
 ## 24-5 (meningitis)
 
@@ -68,6 +82,18 @@ Source: [News API](https://newsapi.org/)
 - [Patricia Pérez comparte las primeras imágenes de Luis Canut tras anunciar su grave enfermedad](https://www.hola.com/actualidad/20240129248319/patricia-perez-primeras-imagenes-luis-canut-recuperado-nsv/) (Hola)
 
 ## 24-5 (measles)
+
+- [North Yorkshire health leaders urge measles vaccination as cases rise](https://www.bbc.com/news/uk-england-york-north-yorkshire-68146308) (BBC News)
+
+- [Measles is on the rise around the world – we can’t let vaccination rates falter](https://theconversation.com/measles-is-on-the-rise-around-the-world-we-cant-let-vaccination-rates-falter-222144) (The Conversation Africa)
+
+- [Tri-State seeing increase in chickenpox, mumps, measles](https://www.wcpo.com/news/health/increase-in-chickenpox-mumps-measles-prompts-warning-from-cincinnati-health-department) (WCPO)
+
+- [Worried parents concerned for children's health as CDC warns measles is a growing global threat](https://www.cbsnews.com/philadelphia/news/worried-parents-childrens-safety-cdc-warns-doctors-measles-growing-global-threat-how-do-you-catch-measles/) (CBS News)
+
+- [CDC Issues 'Health Alert' Over Measles Cases Across US](https://www.zerohedge.com/medical/cdc-issues-health-alert-over-measles-cases-across-us) (Zerohedge.com)
+
+- [Report: At least 8,500 schools in US at risk of measles outbreaks](https://scrippsnews.com/stories/report-at-least-8-500-schools-in-us-at-risk-of-measles-outbreaks/) (Scrippsnews.com)
 
 - [How fringe anti-science views infiltrated mainstream politics, and what it means in 2024](https://medicalxpress.com/news/2024-01-fringe-anti-science-views-infiltrated.html) (Medical Xpress)
 
@@ -137,6 +163,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (dengue)
 
+- [CRM-DF fiscaliza condições de atendimento à população com dengue](https://www.metropoles.com/distrito-federal/crm-df-fiscaliza-condicoes-de-atendimento-a-populacao-com-dengue) (Metropoles.com)
+
+- [Brasil registra quase 220 mil casos de dengue em janeiro e vive preocupação com escalada da doença](https://noticias.r7.com/jr-na-tv/videos/brasil-registra-quase-220-mil-casos-de-dengue-em-janeiro-e-vive-preocupacao-com-escalada-da-doenca-30012024) (R7.com)
+
+- [Em um dia, Saúde do DF atende 6 mil pessoas com suspeita de dengue](https://www.metropoles.com/distrito-federal/em-um-dia-saude-do-df-atende-6-mil-pessoas-com-suspeita-de-dengue) (Metropoles.com)
+
+- [Brasil pode registar até 4,2 milhões de casos de dengue em 2024](https://observador.pt/2024/01/30/brasil-pode-registar-ate-42-milhoes-de-casos-de-dengue-em-2024/) (Observador.pt)
+
+- [Repelente funciona contra mosquito da dengue? Entenda!](https://www.terra.com.br/vida-e-estilo/saude/repelente-funciona-contra-mosquito-da-dengue-entenda,5ce7e9652b17a3b3f5c133fcdfa1c528no1kvyv4.html) (Terra.com.br)
+
 - [“Stock cero de insumos”: El drama de Chaco, el distrito con más casos de dengue este verano, y una dura acusación a Capitanich](https://www.lanacion.com.ar/sociedad/stock-cero-de-insumos-el-drama-de-chaco-el-distrito-con-mas-casos-de-dengue-este-verano-y-una-dura-nid30012024/) (La Nacion)
 
 - [Dengue: conheça os principais sintomas e riscos da doença para gestantes](https://claudia.abril.com.br/saude/dengue-conheca-os-principais-sintomas-e-riscos-da-doenca-para-gestantes) (Abril.com.br)
@@ -158,6 +194,8 @@ Source: [News API](https://newsapi.org/)
 - [GDF investe R$ 44 milhões em sistema de limpeza de esgoto](https://www.metropoles.com/distrito-federal/gdf-investe-r-44-milhoes-em-sistema-de-limpeza-de-esgoto) (Metropoles.com)
 
 - [Dengue em SP: estado registra 6 mortes e casos quadruplicam na capital](https://www.metropoles.com/sao-paulo/dengue-em-sp-estado-registra-6-mortes-e-casos-quadruplicam-na-capital) (Metropoles.com)
+
+- [Brasil registra 217 mil casos de dengue em 2024](https://www.terra.com.br/noticias/mundo/brasil-registra-217-mil-casos-de-dengue-em-2024,9582275635d1347845d0002f59a9c574pbrod9m5.html) (Terra.com.br)
 
 - [Ministério da Saúde aguarda tradução da bula para iniciar vacinação contra dengue](https://valor.globo.com/brasil/noticia/2024/01/30/ministerio-da-saude-aguarda-traducao-da-bula-para-iniciar-vacinacao-contra-dengue.ghtml) (Globo)
 
@@ -250,6 +288,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
 
 ## 24-5 (chikungunya)
+
+- [Repelente funciona contra mosquito da dengue? Entenda!](https://www.terra.com.br/vida-e-estilo/saude/repelente-funciona-contra-mosquito-da-dengue-entenda,5ce7e9652b17a3b3f5c133fcdfa1c528no1kvyv4.html) (Terra.com.br)
 
 - [Targeting sex determination to suppress mosquito populations](https://elifesciences.org/articles/90199) (Elifesciences.org)
 
@@ -2055,6 +2095,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Entenda por que os sorotipos 3 e 4 da dengue preocupam as autoridades de saúde em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/18/entenda-por-que-os-sorotipos-3-e-4-da-dengue-preocupam-as-autoridades-de-saude-em-campinas.ghtml) (Globo)
 
+- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
+
 ## 23-51 (typhoid)
 
 - [Mother reunites with missing son on traffic signal after seven years, found him begging in Pakistan](https://economictimes.indiatimes.com/news/international/world-news/mother-reunites-with-missing-son-on-traffic-signal-after-seven-years-found-him-begging-in-pakistan/articleshow/106213574.cms) (The Times of India)
@@ -2102,6 +2148,10 @@ Source: [News API](https://newsapi.org/)
 - [WHO warns mpox could spread internationally again](https://www.dw.com/en/who-warns-mpox-could-spread-internationally-again/a-67754081) (DW (English))
 
 - [WHO warns mpox could spread around the world again](https://www.dw.com/en/who-warns-mpox-could-spread-around-the-world-again/a-67754081) (DW (English))
+
+- [Congo-Kinshasa: L'OMS s'inquiète de la propagation rapide de l'épidémie de Mpox, aussi appelé «variole du singe»](https://fr.allafrica.com/stories/202312170213.html) (AllAfrica - Top Africa News)
+
+- [Congo-Brazzaville: Forte extension de l'épidémie de mpox](https://fr.allafrica.com/stories/202312170165.html) (AllAfrica - Top Africa News)
 
 ## 23-51 (meningitis)
 
@@ -2212,6 +2262,10 @@ Source: [News API](https://newsapi.org/)
 - [Neue Impfstoff-Produktion in Ruanda - Biontech sagt HIV und Malaria den Kampf an](https://www.bild.de/ratgeber/gesundheit/gesundheit/hiv-und-malaria-mrna-impfstoff-produktionsstaette-in-ruanda-eingeweiht-86464708.bild.html) (Bild)
 
 - [“Un buen parásito es aquel que no mata a su hospedador”](https://www.muyinteresante.es/ciencia/62663.html) (Muyinteresante.es)
+
+- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
+
+- [Un científico africano podría acabar con la malaria editando el ADN de un mosquito](https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/) (CNN)
 
 ## 23-51 (leptospirosis)
 
@@ -2352,6 +2406,12 @@ Source: [News API](https://newsapi.org/)
 - [Entenda por que os sorotipos 3 e 4 da dengue preocupam as autoridades de saúde em Campinas](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/18/entenda-por-que-os-sorotipos-3-e-4-da-dengue-preocupam-as-autoridades-de-saude-em-campinas.ghtml) (Globo)
 
 - [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://allafrica.com/stories/202312180007.html) (AllAfrica - Top Africa News)
+
+- [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
 
 ## 23-51 (chikungunya)
 
