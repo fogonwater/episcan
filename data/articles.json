@@ -1,8 +1,441 @@
 {
-  "last_updated": "2024-02-02 07:05",
-  "count_articles_total": 1108,
-  "count_articles_new": 23,
+  "last_updated": "2024-02-02 19:06",
+  "count_articles_total": 1127,
+  "count_articles_new": 24,
   "articles": [
+    {
+      "id": 4894,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jessica Bernardo",
+      "title": "Dengue: fora de lista do governo, Nunes tenta comprar vacina por conta",
+      "description": "Secret\u00e1rio municipal de Sa\u00fade de S\u00e3o Paulo se reuniu com representantes da farmac\u00eautica Takeda nesta quarta-feira (31/1)",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-prefeitura-tenta-comprar-vacina",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/30092536/vacina-dengue-1.jpg",
+      "publishedAt": "2024-02-01 18:24:09",
+      "content": "S\u00e3o Paulo Sem previs\u00e3o de quando receber\u00e1 as doses da vacina da dengue pelo Minist\u00e9rio da Sa\u00fade, a Prefeitura de S\u00e3o Paulo tentou comprar por conta pr\u00f3pria o imunizante fabricado pela farmac\u00eautica Ta\u2026 [+7824 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.066709",
+      "internal_id": "a2f5ce6d39882d864d15ee66f161604fcb22d877cb625812123f5a2fb0adf359",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4891,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Notes from the Field: Dengue Outbreak - Peru, 2023",
+      "description": "This report describes an increase in dengue cases in Peru during 2023.",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7304a4.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/73/wr/social-media/mm7304a4_DengueOutbreakPeru-_IMAGE_01Feb2024_1200x675.jpg?_=13252",
+      "publishedAt": "2024-02-01 18:00:00",
+      "content": "Espa\u00f1ol C\u00e9sar V. Munayco, MD, DrPH1; Betsabet Yadira Valderrama Rosales, MS1; Susan Yanett Mateo Lizarbe, MS1; Carmen Rosa Yon Fabian, PhD1; Ricardo Pe\u00f1a S\u00e1nchez, MD2; C\u00e9sar Henry V\u00e1squez S\u00e1nchez, M\u2026 [+11495 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.041909",
+      "internal_id": "274787931ffab8ad23b65b2ee9ad1318098491a31cc02423f8cbf3e645f08161",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4901,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Dengue | Vacina do Butantan tem efic\u00e1cia de 80%",
+      "description": "A vacina do Butantan contra a dengue tem uma efic\u00e1cia de 80,1% ao p\u00fablico de 2 a 6 anos de idade, 77,8% para pessoas com 7 a 17 anos e 90% para 18 a 59 anos",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-01/dengue---vacina-do-butantan-tem-eficacia-de-80-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/33/55/ko/3355koh04jgaxcjhq51d3uoz0.jpg",
+      "publishedAt": "2024-02-01 17:50:08",
+      "content": "Desde 2022, o Instituto Butantan desenvolve uma vacina contra a dengue , e os resultados da \u00faltima etapa dos estudos foram divulgados nesta quinta (1) no peri\u00f3dico The New England Journal of Medicin\u2026 [+2752 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.168076",
+      "internal_id": "13ab63125232ad53ccb7b3e4d37423433ff3b3fdb61f86f4e0d79f719fddf756",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4882,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Marta Lahuerta",
+      "title": "Todo sobre la tos ferina: cu\u00e1les son sus s\u00edntomas, c\u00f3mo se contagia y de qu\u00e9 manera tratarla",
+      "description": "En 2023, provoc\u00f3 en Espa\u00f1a 1.942 infecciones. A pesar de las altas coberturas vacunales sigue causando estragos.",
+      "url": "https://www.elespanol.com/ciencia/salud/20240201/tos-ferina-sintomas-contagia-manera-tratarla/829417354_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/02/01/actualidad/829427684_239601851_1706x960.jpg",
+      "publishedAt": "2024-02-01 17:16:55",
+      "content": "La tos ferina es una enfermedad respiratoria muy contagiosa causada por una bacteria llamada Bordetella pertussis. En 2023, provoc\u00f3 en Espa\u00f1a 1.942 infecciones, un 737% m\u00e1s que en 2022 (232). A pesar\u2026 [+4377 chars]",
+      "retrievedAt": "2024-02-02 19:06:32.893686",
+      "internal_id": "a12c2d2873188bf29a6c7499acdf82e9acb0ac1f32bccbc31559232ff4b43bfa",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4902,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Vacina do Butantan contra dengue tem efic\u00e1cia de 79,6%",
+      "description": "O Instituto Butantan anunciou nesta quinta-feira (1\u00ba) que sua vacina contra a dengue tem 79,6% ...",
+      "url": "https://www.terra.com.br/noticias/brasil/vacina-do-butantan-contra-dengue-tem-eficacia-de-796,b511cefa6e211361641d637133cbf8d4nbngl9p6.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-01 16:31:11",
+      "content": "O Instituto Butantan anunciou nesta quinta-feira (1\u00ba) que sua vacina contra a dengue tem 79,6% de efic\u00e1cia e poderia come\u00e7ar a ser aplicada a partir do ano que vem, enquanto o Brasil enfrenta um r\u00e1pi\u2026 [+1045 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.174768",
+      "internal_id": "46355d6ae15ca68105457c68a4425f42af11651deacfd64377c62dc22f4d1d0d",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4896,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alan Rios",
+      "title": "DF tem aumento de 920,5% nos casos de dengue e 30 mortes",
+      "description": "Dos \u00f3bitos, 6 s\u00e3o confirmados e 24, suspeitos. DF tem 31 mil casos prov\u00e1veis de dengue, contra 2.890 no ano passado",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-df-aumento-de-920-e-30-mortes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/03/23131203/Foto-mosquito-da-dengue.jpg",
+      "publishedAt": "2024-02-01 16:17:54",
+      "content": "O Distrito Federal enfrenta um aumento de 920,5% de casos prov\u00e1veis de dengue. Neste ano, at\u00e9 27 de janeiro, foram 29.492 diagn\u00f3sticos prov\u00e1veis da doen\u00e7a em moradores do DF, contra 2.890 casos no me\u2026 [+1321 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.095709",
+      "internal_id": "99c297a306b1eb816952092fdba849cc0834aab94c2346e58dcb055546970058",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4903,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Distribui\u00e7\u00e3o da vacina contra a dengue come\u00e7a na pr\u00f3xima semana",
+      "description": "Pasta aguardava a tradu\u00e7\u00e3o para o portugu\u00eas da bula do imunizante",
+      "url": "https://saude.ig.com.br/2024-02-01/distribuicao-vacina-contra-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c1/e4/d1/c1e4d1oh0uh1d020x4568fo7s.jpg",
+      "publishedAt": "2024-02-01 16:04:59",
+      "content": "A distribui\u00e7\u00e3o da vacina contra a dengue para os 521 munic\u00edpios selecionados pelo governo federal come\u00e7a na pr\u00f3xima semana. O an\u00fancio foi feito nesta quinta-feira (1) pelo diretor do Departamento de \u2026 [+1254 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.186107",
+      "internal_id": "bb8744d3430b77ed9ca47930b947f0468819926da29704659ac6e98da0fd8572",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4893,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Aparecida (GO) facilita atendimento para casos suspeitos de dengue",
+      "description": "Quem estiver com sintomas de dengue pode procurar diretamente qualquer uma das 42 UBSs da cidade, sem necessidade de agendamento",
+      "url": "https://www.metropoles.com/brasil/aparecida-go-facilita-atendimento-para-casos-suspeitos-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/29155120/DF-e-prioridade-para-vacinacao-contra-Dengue-1.jpg",
+      "publishedAt": "2024-02-01 16:03:21",
+      "content": "Goi\u00e2nia O munic\u00edpio de Aparecida de Goi\u00e2nia, na regi\u00e3o metropolitana da capital goiana, vai ampliar os postos de atendimento imediato a moradores com suspeita de dengue. A partir desta quinta-feira (\u2026 [+2602 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.050195",
+      "internal_id": "136520d3a95dec96e64d286b9a16039ceb2de4121c9d9814eb8282e15f076ecc",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4898,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Dengue: GDF pede ao Minist\u00e9rio da Sa\u00fade para receber vacinas primeiro",
+      "description": "Governo do Distrito Federal quer receber vacinas contra a dengue no in\u00edcio da campanha nacional de imuniza\u00e7\u00e3o, devido \u00e0 explos\u00e3o de casos",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-gdf-pede-ao-ministerio-da-saude-para-receber-vacinas-primeiro",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/06/13131000/WhatsApp-Image-2023-06-13-at-13.09.43.jpeg",
+      "publishedAt": "2024-02-01 15:39:57",
+      "content": "Impactado pelo n\u00famero alarmante de pessoas infectadas pela dengue, o Governo do Distrito Federal (GDF) enviou of\u00edcio ao Minist\u00e9rio da Sa\u00fade para pedir que a capital federal receba a vacina contra a d\u2026 [+2834 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.110223",
+      "internal_id": "db1014f0bcb139382d213f9adb1a023d3403ebc9b64593e5e4a1fe04e6342eab",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4897,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mariana Andrade",
+      "title": "Dengue: governo anuncia cria\u00e7\u00e3o de Centro de Opera\u00e7\u00f5es de Emerg\u00eancias",
+      "description": "Segundo a ministra N\u00edsia Trindade, a medida permite que o governo atue de forma mais \u00e1gil para organizar estrat\u00e9gias para combater a dengue",
+      "url": "https://www.metropoles.com/brasil/dengue-centro-de-operacoes-de-emergencias",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/03/31172931/combate-dengue-arboviroses.jpg",
+      "publishedAt": "2024-02-01 15:30:10",
+      "content": "O governo federal, por meio do Minist\u00e9rio da Sa\u00fade, anunciou, nesta quinta-feira (1\u00ba/2), a cria\u00e7\u00e3o de um Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE Arboviroses) para combater o surto de dengue no pa\u00eds. \u2026 [+5316 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.100065",
+      "internal_id": "a027939c6790651f54709a6ab159bf217c3a83edc5d117160a89bb33f07a4117",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4892,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Lara T\u00f4rres, Lara T\u00f4rres",
+      "title": "Governo anuncia Centro de Opera\u00e7\u00f5es contra a dengue",
+      "description": "Em 2024 o Brasil registrou 217.481 casos prov\u00e1veis de dengue",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2024-02-01/governo-anuncia-centro-de-operacoes-contra-a-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/dv/9j/hp/dv9jhp1c6cb9tr3z731ktwg7k.jpg",
+      "publishedAt": "2024-02-01 15:20:24",
+      "content": "O Governo Federal anunciou, nesta quinta-feira (1\u00ba), a cria\u00e7\u00e3o de um Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE Arboviroses) para combater a dengue, principalmente, e outras doen\u00e7as transmitidas pela pi\u2026 [+3154 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.045816",
+      "internal_id": "7162b2b3e45a7f41a52eb63d9861adffd107334a2e42fcdc954f9a6cc8f22804",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4887,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Template letter to paediatrician oncologists and immunologists on measles",
+      "description": "A letter template for health professionals to send to paediatrician oncologists and immunologists.",
+      "url": "https://www.gov.uk/government/publications/template-letter-to-paediatrician-oncologists-and-immunologists-on-measles",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+      "publishedAt": "2024-02-01 14:42:23",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2024-02-02 19:06:33.569953",
+      "internal_id": "130171aad0ca8d511818b16e1fea2bf20c72d417beaa2fcb23e8342fb9ead2bd",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4900,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "J\u00e9ssica Eufr\u00e1sio",
+      "title": "DF ter\u00e1 hospital de campanha da Aeron\u00e1utica para combate \u00e0 dengue",
+      "description": "Secret\u00e1ria de Sa\u00fade Lucilene Flor\u00eancio anunciou medida nesta 5\u00aa. No entanto, ainda n\u00e3o h\u00e1 data ou local definidos para instala\u00e7\u00e3o da unidade",
+      "url": "https://www.metropoles.com/distrito-federal/df-tera-hospital-de-campanha-da-aeronautica-para-combate-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2016/06/23111655/FC_Mosquito_Foto_Fernanda_Carvalho00002112016.jpg",
+      "publishedAt": "2024-02-01 14:20:42",
+      "content": "O Governo do Distrito Federal (GDF) anunciou que instalar\u00e1 um hospital de campanha, sob responsabilidade e com equipes da For\u00e7a A\u00e9rea Brasileira (FAB), para atendimento priorit\u00e1rio a pacientes com de\u2026 [+1659 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.141565",
+      "internal_id": "e1bedaace59c398672a0c996dabb36ab21252b78ed2d463abbba58cad939e08f",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4886,
+      "query": [
+        "measles"
+      ],
+      "source_id": "buzzfeed",
+      "source_name": "Buzzfeed",
+      "author": "Alexa Lisitza",
+      "title": "The Year Literally Just Started, But Here's All The Wild Sh\u2013t That's Already Happened In January",
+      "description": "Every single day of January was packed with wild events, including: THAT Boeing emergency door plug blew off; measles tried to make a comeback; Gypsy-Rose Blanchard went on a bit of a press tour, and so much more.View Entire Post \u203a",
+      "url": "https://www.buzzfeed.com/alexalisitza/everything-that-happened-jan-2024",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-02/1/13/enhanced/ac35af9e29c5/original-4834-1706795271-2.jpg?crop=1581:830;0,0%26downsize=1250:*",
+      "publishedAt": "2024-02-01 14:18:47",
+      "content": "Well, on January 2, Gypsy defended her husband from a slew on online hate by commenting a now-viral sentiment on his Instagram post, writing: \"Ryan, dont listen to the haters. I love you, and you lov\u2026 [+291 chars]",
+      "retrievedAt": "2024-02-02 19:06:33.563323",
+      "internal_id": "96af94b3c1eb0918f75be8b6455d13ead163b71c27afb9767fe6c09c56450250",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4884,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditorsuk@futurenet.com (Sorcha Bradley, The Week UK)",
+      "title": "How the MMR vaccine works",
+      "description": "UK health officials fear decline in jab coverage could see measles spread rapidly across the country",
+      "url": "https://theweek.com/health/how-the-mmr-vaccine-works",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/m4aA6QSyrV6TSdUzjgkgaJ-1200-80.jpg",
+      "publishedAt": "2024-02-01 13:50:44",
+      "content": "The West Midlands is in the midst of a measles outbreak, with health officials suggesting that a decline in MMR vaccine coverage could see the virus spread rapidly across the UK. According to the UK\u2026 [+4907 chars]",
+      "retrievedAt": "2024-02-02 19:06:33.533670",
+      "internal_id": "4da40919089364d04a355b51828c186705c8506d6d85c274f9f613c1417cdd08",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4895,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Confira 10 passos para eliminar focos do mosquito da dengue",
+      "description": "O ver\u00e3o \u00e9 um per\u00edodo de intensas chuvas e altas temperaturas. Essa combina\u00e7\u00e3o, agravada pelos efeitos das mudan\u00e7as clim\u00e1ticas e do...",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/confira-10-passos-para-eliminar-focos-do-mosquito-da-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/01133555/f60cc911-2777-40e4-9b44-3272894ea5e0.png",
+      "publishedAt": "2024-02-01 13:37:24",
+      "content": "O ver\u00e3o \u00e9 um per\u00edodo de intensas chuvas e altas temperaturas. Essa combina\u00e7\u00e3o, agravada pelos efeitos das mudan\u00e7as clim\u00e1ticas e do fen\u00f4meno El Ni\u00f1o, torna a \u00e9poca favor\u00e1vel para o aumento da reprodu\u00e7\u2026 [+3809 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.073296",
+      "internal_id": "7270e456910d24e041617d63e9a0debc7c5b8f9784ef291b6a26d082ca92e687",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4889,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "Brasil: casos de dengue em janeiro superam todo o ano de 2017",
+      "description": "Al\u00e9m disso, houve um aumento de mais de 160% na compara\u00e7\u00e3o com o mesmo m\u00eas do ano passado. Foram 243.721 registros da doen\u00e7a at\u00e9 aqui O post Brasil: casos de dengue em janeiro superam todo o ano de 2017 apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/01/medicina-e-saude/brasil-casos-de-dengue-em-janeiro-superam-todo-o-ano-de-2017/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205-695x500.jpg",
+      "publishedAt": "2024-02-01 13:33:52",
+      "content": "As autoridades brasileiras est\u00e3o em alerta para o avan\u00e7o da dengue no pa\u00eds. Apenas em janeiro deste ano foram 243.721 casos prov\u00e1veis ou confirmados da doen\u00e7a, um aumento de mais de 160% na compara\u00e7\u00e3\u2026 [+2331 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.016307",
+      "internal_id": "4509550d7fd0fcdd36fa6704f3bcded3cfd0c6d38e89ad56a7f137f49ee7ec85",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4899,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Let\u00edcia Perdig\u00e3o",
+      "title": "Internada com dengue, jornalista Bianca Ramoneda alerta sobre a doen\u00e7a",
+      "description": "Diretamente da cama do hospital, a jornalista contou que foi diagnosticada com a doen\u00e7a e precisou ser internada por conta da desidrata\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/celebridades/internada-com-dengue-jornalista-bianca-ramoneda-alerta-sobre-a-doenca",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/01092115/jornalista-dengue.jpg",
+      "publishedAt": "2024-02-01 12:28:10",
+      "content": "A jornalista Bianca Ramoneda usou as redes sociais, nessa quarta-feira (31/1), para contar que est\u00e1 internada e fazer um alerta aos seguidores sobre a dengue. Diretamente da cama do hospital, ela con\u2026 [+1426 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.116331",
+      "internal_id": "dffe078637e43109ac01c61c6367145104387465c4865bbf9f8dc08a82f2032c",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4888,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Tamires Ferreira",
+      "title": "Dengue: aplica\u00e7\u00e3o da vacina do Butantan pode come\u00e7ar em 2025",
+      "description": "Estudo confirmou efic\u00e1cia do imunizante, em desenvolvimento h\u00e1 mais de 10 anos; dados ser\u00e3o enviados \u00e0 Anvisa ainda este ano O post Dengue: aplica\u00e7\u00e3o da vacina do Butantan pode come\u00e7ar em 2025 apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/01/medicina-e-saude/dengue-aplicacao-da-vacina-do-butantan-pode-comecar-em-2025/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/02/vacina-dengue-695x500.jpg",
+      "publishedAt": "2024-02-01 11:48:19",
+      "content": "H\u00e1 mais de 10 anos em desenvolvimento, a vacina do Instituto Butantan contra a dengue pode finalmente chegar aos bra\u00e7os dos brasileiros. De acordo com o centro de pesquisa, ap\u00f3s conclus\u00e3o da \u00faltima f\u2026 [+3561 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.010764",
+      "internal_id": "5fe4d8bf4a58339911ffcdaf78ae6708b31a79257baf9556d948c68d7b4a3ce3",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4890,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Estudo revela que vacina brasileira em teste contra a dengue tem 79,6% de efic\u00e1cia",
+      "description": "Vacina mostra efic\u00e1cia de 89,1% para pessoas que j\u00e1 contra\u00edram dengue e \u00e9 90% eficaz em adultos entre os 18 e os 59 anos. Efic\u00e1cia desce para crian\u00e7as e adolescentes.",
+      "url": "https://observador.pt/2024/02/01/estudo-revela-que-vacina-brasileira-em-teste-contra-a-dengue-tem-796-de-eficacia/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1817%3A1021%3Anowe%3A0%3A94%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F01%2F30183613%2F42209643.jpg",
+      "publishedAt": "2024-02-01 11:17:49",
+      "content": "A vacina brasileira contra a dengue, atualmente na terceira fase de testes cl\u00ednicos, tem uma efic\u00e1cia global de 79,6% dois anos ap\u00f3s a inje\u00e7\u00e3o, segundo um estudo publicado na quarta-feira na revista \u2026 [+2043 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.037639",
+      "internal_id": "55e9bf593c4cfa355f5627b5fde15cd341560e0cb04ee93c7f5c5b08ded53882",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4905,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Di\u00e1rio Digital",
+      "title": "Peixe barrigudinho \u00e9 aliado contra a dengue, zika e a chikungunya",
+      "description": "Pesquisador, da Embrapa Cocais, desenvolveu solu\u00e7\u00e3o simples e com resultados positivos",
+      "url": "https://noticias.r7.com/cidades/diario-digital/peixe-barrigudinho-e-aliado-contra-a-dengue-zika-e-a-chikungunya-01022024",
+      "urlToImage": "https://img.r7.com/images/diario-digital-01022024103426462?dimensions=771x420&",
+      "publishedAt": "2024-02-01 10:34:00",
+      "content": "Di\u00e1rio Digital Di\u00e1rio Digital O ver\u00e3o chegou e tamb\u00e9m as chuvas da esta\u00e7\u00e3o que causam todo o ano aumento dos casos das doen\u00e7as causadas por mosquitos transmissores de doen\u00e7as, especialmente deng\u2026 [+6034 chars]",
+      "retrievedAt": "2024-02-02 19:06:35.134728",
+      "internal_id": "70555cdc2c1dd4d49acb306f801d0dc64e930c0e5cdaaf9669cce39e37f26a9c",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4904,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tuttomercatoweb.com",
+      "author": "Giacomo Iacobellis",
+      "title": "Traor\u00e8 pronto per la prima convocazione: soffia via polvere e ruggine dopo la malaria",
+      "description": "Hamed Junior Traor\u00e8 \u00e8 pronto per la prima convocazione contro il Verona. L'ex Sassuolo \u00e8 reduce dalla malaria, con pi\u00f9 di due mesi senza calcio alle spalle, e dopo aver saltato la Lazio per una pr",
+      "url": "https://www.tuttomercatoweb.com/serie-a/traore-pronto-per-la-prima-convocazione-soffia-via-polvere-e-ruggine-dopo-la-malaria-1929821",
+      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/c8/c81b8618aed4c5ab111b154214da4495-33217-oooz0000.jpeg",
+      "publishedAt": "2024-02-01 10:15:28",
+      "content": "Hamed Junior Traor\u00e8 \u00e8 pronto per la prima convocazione contro il Verona. L'ex Sassuolo \u00e8 reduce dalla malaria, con pi\u00f9 di due mesi senza calcio alle spalle, e dopo aver saltato la Lazio per una prepa\u2026 [+276 chars]",
+      "retrievedAt": "2024-02-02 19:06:34.889834",
+      "internal_id": "32f1df01eac7bfad4207cfabfc9a51971ad924c2e71211ce9f016f806e21dd9b",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4885,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Zulfikar Abbany",
+      "title": "Measles: A deadly disease that can be prevented",
+      "description": "Measles is still one of the most contagious, potentially fatal diseases, but measles is preventable with vaccination programs. What you need to know.",
+      "url": "https://www.dw.com/en/measles-a-deadly-disease-that-can-be-prevented/a-68121991",
+      "urlToImage": "https://static.dw.com/image/64195277_6.jpg",
+      "publishedAt": "2024-02-01 10:09:00",
+      "content": "Measles has been in decline around the world since the 1980s. The World Health Organization (WHO) says that is largely due to vaccination programs, which in the past 20 years alone saved more than 5\u2026 [+4544 chars]",
+      "retrievedAt": "2024-02-02 19:06:33.539923",
+      "internal_id": "7e98d1715545f8a963b64ecb295eaf7f94d3a76e0e7c6b7412a083b4f5d81d92",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 4883,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-jerusalem-post",
+      "source_name": "The Jerusalem Post",
+      "author": "BY JERUSALEM POST STAFF",
+      "title": "Rabies-infected jackal found in Israel's north",
+      "description": "Two people have been exposed to a rabies-infested jackal in the Ramat Zvi moshav in Israel's North, the Health",
+      "url": "https://www.jpost.com/breaking-news/article-784643",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
+      "publishedAt": "2024-02-01 08:37:38",
+      "content": "Two people have been exposed to a rabies-infested jackal in the Ramat Zvi moshav in Israel's North, the Health Ministry said on Thursday. They were both referred for preventive treatment against rabi\u2026 [+937 chars]",
+      "retrievedAt": "2024-02-02 19:06:33.191460",
+      "internal_id": "f1347251b87156cc410425ddb1254d62b058e1a42a74a78b47417c7c69dc2e68",
+      "publishedAtLabel": "Feb 1"
+    },
     {
       "id": 4880,
       "query": [
@@ -19908,98 +20341,6 @@
       "content": "Global public health experts are warning that the United States is not prepared for looming threats posed by tropical and insect-borne viruses. At a two-day workshop this week at the National Academ\u2026 [+3569 chars]",
       "retrievedAt": "2023-12-19 07:06:05.858171",
       "internal_id": "0cfaf88db7ee727c73cd38a41e17381d95bf8444a45aaf1a778242c49f7b5ab6",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3771,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Congo-Kinshasa: L'OMS s'inqui\u00e8te de la propagation rapide de l'\u00e9pid\u00e9mie de Mpox, aussi appel\u00e9 \u00abvariole du singe\u00bb",
-      "description": "[RFI] L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocratique du Congo. L'OMS craint une transmission internat\u2026",
-      "url": "https://fr.allafrica.com/stories/202312170213.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-17 17:47:35",
-      "content": "L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocra\u2026 [+1973 chars]",
-      "retrievedAt": "2023-12-18 19:05:22.225309",
-      "internal_id": "78f75754d80da4b9cf135d9139b937366c70069c7ba13d66fe748363e9ed73e7",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3768,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
-      "description": "O alerta \u00e9 da plataforma AdaptaBrasil, vinculada ao Minist\u00e9rio da Ci\u00eancia, Tecnologia e Inova\u00e7\u00e3o (MCTI), em parceria com a Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz)",
-      "url": "https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2023-12-17 15:08:43",
-      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7013 chars]",
-      "retrievedAt": "2023-12-18 19:05:20.888933",
-      "internal_id": "65c09fd30bc85e9e62d4a53048ecc51a005d39c13e9fae15c460c5ed0b600dee",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3770,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "lesdepechesdebrazzaville@orange.fr (Les D\u00e9p\u00eaches de Brazzaville)",
-      "title": "Congo-Brazzaville: Forte extension de l'\u00e9pid\u00e9mie de mpox",
-      "description": "[Les D\u00c3\u00a9p\u00c3\u00aaches de Brazzaville] La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleurs, selon l'Organisation mon\u2026",
-      "url": "https://fr.allafrica.com/stories/202312170165.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-17 13:44:42",
-      "content": "La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleu\u2026 [+2518 chars]",
-      "retrievedAt": "2023-12-18 19:05:22.217644",
-      "internal_id": "ffc356b5afd0af4ad4d33484615d7ab1b68d898dd616c76bfc983aab95a21bf2",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3767,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
-      "description": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e,...",
-      "url": "https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/12/17104316/mnltwruwnrntvhfsnhcib3jxeu.webp",
-      "publishedAt": "2023-12-17 10:46:19",
-      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7210 chars]",
-      "retrievedAt": "2023-12-18 19:05:20.884949",
-      "internal_id": "edc6e32eb4ce9ef72072cc25207b7750a3def679012278999d1ca14019fac8f0",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3769,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Sof\u00eda Barruti",
-      "title": "Un cient\u00edfico africano podr\u00eda acabar con la malaria editando el ADN de un mosquito",
-      "description": "Diabate, que ahora dirige entomolog\u00eda m\u00e9dica y parasitolog\u00eda en el Instituto de Investigaci\u00f3n en Ciencias de la Salud de Burkina Faso, est\u00e1 desarrollando una t\u00e9cnica innovadora que potencialmente podr\u00eda eliminar las especies de mosquitos transmisores de malar\u2026",
-      "url": "https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/",
-      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/12/cientifico-malaria.jpg?quality=100&strip=info",
-      "publishedAt": "2023-12-17 09:06:30",
-      "content": "Casos de malaria entre migrantes pone en alerta a Honduras 4:01 (CNN) -- Abdoulaye Diabate enfrent\u00f3 un ataque de malaria que puso en peligro su vida cuando solo ten\u00eda cinco a\u00f1os. Diabate sobrevivi\u00f3\u2026 [+9242 chars]",
-      "retrievedAt": "2023-12-18 19:05:21.602100",
-      "internal_id": "fccc16499069e80b64c41def33114d84578c1c2dae555f32b41f5e75b2056c47",
       "publishedAtLabel": "Dec 17"
     }
   ]
