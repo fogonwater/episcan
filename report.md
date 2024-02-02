@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-02-01 19:05
-- **Most recent article:** 2024-01-31 18:43:07
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-02-02 07:05
+- **Most recent article:** 2024-02-01 07:00:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 67 | 37 | 2 | 52 | 35 | 65 | 123 | 79 | 460 |
-| malaria | 22 | 22 | 2 | 11 | 51 | 26 | 86 | 10 | 230 |
-| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 30 | 216 |
-| mpox | 13 | 12 | 0 | 2 | 2 | 8 | 4 | 1 | 42 |
-| zika | 3 | 1 | 0 | 7 | 8 | 8 | 7 | 6 | 40 |
-| rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 5 | 36 |
-| chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 6 | 32 |
+| dengue | 69 | 37 | 2 | 52 | 35 | 65 | 123 | 94 | 477 |
+| malaria | 23 | 22 | 2 | 11 | 51 | 26 | 86 | 12 | 233 |
+| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 33 | 219 |
+| mpox | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 2 | 45 |
+| zika | 5 | 1 | 0 | 7 | 8 | 8 | 7 | 7 | 43 |
+| rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 6 | 37 |
+| chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 7 | 33 |
 | meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 3 | 30 |
 | pertussis | 2 | 0 | 0 | 5 | 2 | 5 | 2 | 1 | 17 |
 | typhoid | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 11 |
-| leptospirosis | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 0 | 7 |
+| leptospirosis | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 1 | 8 |
 | sarampión | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 | 5 |
 | yersinia | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 5 |
 
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-5 (zika)
+
+- [‘75% da transmissão de dengue ocorre dentro das casas’, alerta ministra](https://veja.abril.com.br/saude/75-da-transmissao-de-dengue-ocorre-dentro-das-casas-alerta-ministra) (Abril.com.br)
 
 - [Governo federal lança segunda fase da campanha de combate à dengue](https://www.metropoles.com/colunas/m-buzz/governo-federal-lanca-segunda-fase-da-campanha-de-combate-a-dengue) (Metropoles.com)
 
@@ -63,6 +65,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (rabies)
 
+- [Rabies advisory issued after bat incident at cinema in Fort Pierce](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/rabies-advisory-issued-after-bat-incident-at-cinema-in-fort-pierce) (WPTV.com)
+
 - [Why experts worry more pet owners may skip rabies shots over vaccine hesitancy](https://www.pbs.org/newshour/health/why-experts-worry-more-pet-owners-may-skip-rabies-shots-over-vaccine-hesitancy) (PBS)
 
 - [Indiana's 1st case of skunk rabies in 20 years is a 'wake-up call for all Hoosiers,' state health experts say](https://www.wdrb.com/news/indianas-1st-case-of-skunk-rabies-in-20-years-is-a-wake-up-call-for/article_a68c3b52-bfa3-11ee-9b4b-5fb428b97e44.html) (WDRB)
@@ -79,6 +83,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (mpox)
 
+- [Abwassertests könnten auch hochansteckende Masern früh melden​](https://www.heise.de/hintergrund/Abwassertests-koennten-auch-hochansteckende-Masern-frueh-melden-9611927.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag) (heise online)
+
 - [สภากาชาดไทย เปิดให้ลงทะเบียน ฉีดวัคซีนป้องกันโรคฝีดาษวานร ผ่าน 2 หน่วยงาน](https://www.thairath.co.th/news/society/2759505) (Thairath.co.th)
 
 ## 24-5 (meningitis)
@@ -90,6 +96,12 @@ Source: [News API](https://newsapi.org/)
 - [Patricia Pérez comparte las primeras imágenes de Luis Canut tras anunciar su grave enfermedad](https://www.hola.com/actualidad/20240129248319/patricia-perez-primeras-imagenes-luis-canut-recuperado-nsv/) (Hola)
 
 ## 24-5 (measles)
+
+- [Measles Cases Soaring Worldwide as WHO Reports Alarming 45-Fold Rise in Europe](https://www.sciencealert.com/measles-cases-soaring-worldwide-as-who-reports-alarming-45-fold-rise-in-europe) (ScienceAlert)
+
+- [Measles is a potentially dangerous disease - Full Fact](https://fullfact.org/health/measles-threat-mmr-safe-effective/) (Full Fact)
+
+- [The U.S. eliminated measles in 2000. Why is it back now?](https://www.bostonherald.com/2024/01/31/measles-outbreak-what-to-know-cdc/) (Boston Herald)
 
 - [Wednesday, January 31, 2024](https://kffhealthnews.org/morning-briefing/wednesday-january-31-2024/) (Kffhealthnews.org)
 
@@ -153,6 +165,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (malaria)
 
+- [Reinvestigation of Diphenylmethylpiperazine Analogues of Pyrazine as New Class of Plasmodial Cysteine Protease Inhibitors for the Treatment of Malaria](https://pubs.rsc.org/en/content/articlelanding/2024/md/d3md00490b) (Royal Society of Chemistry)
+
+- [Vaccinuri necesare în țările exotice. Avertisment pentru românii care călătoresc în zone tropicale](https://adevarul.ro/stiri-interne/societate/vaccinuri-necesare-in-tarile-exotice-avertisment-2336198.html) (Adevarul.ro)
+
 - [NTDs Reduction is a Long Journey But Progress is Almost 60% - RBC](https://allafrica.com/stories/202401310410.html) (AllAfrica - Top Africa News)
 
 - [India on the verge of eliminating 'black fever' kala-azar](https://www.dw.com/en/india-on-the-verge-of-eliminating-black-fever-kala-azar/a-68123755) (DW (English))
@@ -173,7 +189,41 @@ Source: [News API](https://newsapi.org/)
 
 - [Sella Cruz Azul su primera victoria del Clausura 2024](https://www.reforma.com/sella-cruz-azul-su-primer-triunfo-del-clausura-2024/ar2747624) (Reforma.com)
 
+## 24-5 (leptospirosis)
+
+- [Rain and rats to blame for more dogs in Singapore being infected with leptospirosis, vets say](https://www.channelnewsasia.com/singapore/leptospirosis-dogs-vets-rain-wet-weather-rats-4087371) (CNA)
+
 ## 24-5 (dengue)
+
+- [Bebê contrai dengue com 5 dias de vida e fica internado em UTI do DF](https://www.metropoles.com/distrito-federal/bebe-contrai-dengue-com-5-dias-de-vida-e-fica-internado-em-uti-do-df) (Metropoles.com)
+
+- [Veja explicação para a explosão dos casos de dengue em Brasília](https://www.metropoles.com/distrito-federal/veja-explicacao-para-a-explosao-dos-casos-de-dengue-em-brasilia) (Metropoles.com)
+
+- [Citronela e outros repelentes caseiros protegem contra a dengue?](https://www.metropoles.com/saude/dengue-repelentes-caseiros-citronela) (Metropoles.com)
+
+- [Vacina do Butantan contra a dengue apresenta eficácia de 79,6%, mostra estudo](https://sputniknewsbr.com.br/20240201/vacina-do-butantan-contra-a-dengue-apresenta-eficacia-de-796-mostra-estudo-32831542.html) (Sputniknewsbr.com.br)
+
+- [Vacina contra a dengue do Butantan alcança eficácia de 79,5%](https://saude.ig.com.br/2024-01-31/vacina-dengue-eficacia.html) (Ig.com.br)
+
+- [Santa Catarina registra alta de 646,5% nos casos de dengue em 2024](https://www.metropoles.com/brasil/santa-catarina-registra-alta-de-6465-nos-casos-de-dengue-em-2024) (Metropoles.com)
+
+- [Dengue: em falta no SUS, vacinas estão há 7 meses em clínicas do DF](https://www.metropoles.com/distrito-federal/dengue-em-falta-no-sus-vacinas-estao-ha-7-meses-em-clinicas-do-df) (Metropoles.com)
+
+- [Butantan desenvolve vacina contra a dengue com eficácia de em 79,5% com única dose](https://valor.globo.com/brasil/noticia/2024/01/31/butantan-desenvolve-vacina-contra-a-dengue-com-eficacia-de-em-795percent-com-unica-dose.ghtml) (Globo)
+
+- [Ministério da Saúde já se prepara para a hipótese de epidemia de dengue, diz jornalista](https://www.terra.com.br/vida-e-estilo/saude/ministerio-da-saude-ja-se-prepara-para-a-hipotese-de-epidemia-de-dengue-diz-jornalista,c9ac992b59a091dcfe8b7d92fba929bao4acimkw.html) (Terra.com.br)
+
+- [Vacina do Butantan contra a dengue apresenta eficácia geral de 79,6%](https://www.metropoles.com/saude/vacina-butantan-contra-dengue-eficacia) (Metropoles.com)
+
+- [Vacina contra a dengue do Butantan protege 79,6% dos imunizados](https://veja.abril.com.br/saude/vacina-contra-a-dengue-do-butantan-protege-796-dos-imunizados) (Abril.com.br)
+
+- [Guerra contra dengue: Exército inicia combate ao Aedes nas ruas do DF](https://www.metropoles.com/distrito-federal/guerra-contra-dengue-exercito-inicia-combate-ao-aedes-nas-ruas-do-df) (Metropoles.com)
+
+- [Conheça 3 plantas com capacidade de repelir o mosquito da dengue](https://tecnologia.ig.com.br/parceiros/canaltech/2024-01-31/conheca-3-plantas-com-capacidade-de-repelir-o-mosquito-da-dengue.html) (Ig.com.br)
+
+- [Dengue: infecção pode causar sintomas nos olhos. Entenda](https://www.metropoles.com/saude/dengue-pode-causar-sintomas-nos-olhos) (Metropoles.com)
+
+- [‘75% da transmissão de dengue ocorre dentro das casas’, alerta ministra](https://veja.abril.com.br/saude/75-da-transmissao-de-dengue-ocorre-dentro-das-casas-alerta-ministra) (Abril.com.br)
 
 - [Como prevenir e combater a dengue?](https://www.terra.com.br/noticias/como-prevenir-e-combater-a-dengue,ae3f1839e2d391b888c49e711eb07da4y3pb2r1t.html) (Terra.com.br)
 
@@ -334,6 +384,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue no RJ dispara 587%, com mais de 9 mil casos em três semanas](https://catracalivre.com.br/saude-bem-estar/dengue-no-rj-dispara-587-com-mais-de-9-mil-casos-em-tres-semanas/) (Catracalivre.com.br)
 
 ## 24-5 (chikungunya)
+
+- [‘75% da transmissão de dengue ocorre dentro das casas’, alerta ministra](https://veja.abril.com.br/saude/75-da-transmissao-de-dengue-ocorre-dentro-das-casas-alerta-ministra) (Abril.com.br)
 
 - [Governo federal lança segunda fase da campanha de combate à dengue](https://www.metropoles.com/colunas/m-buzz/governo-federal-lanca-segunda-fase-da-campanha-de-combate-a-dengue) (Metropoles.com)
 
@@ -2145,6 +2197,10 @@ Source: [News API](https://newsapi.org/)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
+
 ## 23-51 (typhoid)
 
 - [Mother reunites with missing son on traffic signal after seven years, found him begging in Pakistan](https://economictimes.indiatimes.com/news/international/world-news/mother-reunites-with-missing-son-on-traffic-signal-after-seven-years-found-him-begging-in-pakistan/articleshow/106213574.cms) (The Times of India)
@@ -2192,6 +2248,10 @@ Source: [News API](https://newsapi.org/)
 - [WHO warns mpox could spread internationally again](https://www.dw.com/en/who-warns-mpox-could-spread-internationally-again/a-67754081) (DW (English))
 
 - [WHO warns mpox could spread around the world again](https://www.dw.com/en/who-warns-mpox-could-spread-around-the-world-again/a-67754081) (DW (English))
+
+- [Congo-Kinshasa: L'OMS s'inquiète de la propagation rapide de l'épidémie de Mpox, aussi appelé «variole du singe»](https://fr.allafrica.com/stories/202312170213.html) (AllAfrica - Top Africa News)
+
+- [Congo-Brazzaville: Forte extension de l'épidémie de mpox](https://fr.allafrica.com/stories/202312170165.html) (AllAfrica - Top Africa News)
 
 ## 23-51 (meningitis)
 
@@ -2304,6 +2364,8 @@ Source: [News API](https://newsapi.org/)
 - [“Un buen parásito es aquel que no mata a su hospedador”](https://www.muyinteresante.es/ciencia/62663.html) (Muyinteresante.es)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
+
+- [Un científico africano podría acabar con la malaria editando el ADN de un mosquito](https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/) (CNN)
 
 ## 23-51 (leptospirosis)
 
@@ -2446,6 +2508,10 @@ Source: [News API](https://newsapi.org/)
 - [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://allafrica.com/stories/202312180007.html) (AllAfrica - Top Africa News)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
 
 ## 23-51 (chikungunya)
 
