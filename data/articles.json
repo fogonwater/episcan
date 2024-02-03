@@ -1,8 +1,386 @@
 {
-  "last_updated": "2024-02-03 07:05",
-  "count_articles_total": 1150,
-  "count_articles_new": 18,
+  "last_updated": "2024-02-03 19:05",
+  "count_articles_total": 1166,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 4933,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Rebeca Kemilly",
+      "title": "Dengue: hospital de campanha da Aeron\u00e1utica ser\u00e1 instalado na ter\u00e7a",
+      "description": "Nesta sexta (2/2), o GDF e a Aeron\u00e1utica definiram a log\u00edstica do hospital de campanha que ser\u00e1 destinado apenas para os casos de dengue",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-hospital-de-campanha-da-aeronautica-sera-instalado-na-terca",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/02140045/celina-hcamp-aeronautica.jpg",
+      "publishedAt": "2024-02-02 17:47:27",
+      "content": "O hospital de campanha da Aeron\u00e1utica para combater a dengue ser\u00e1 instalado em Ceil\u00e2ndia, no Distrito Federal, na pr\u00f3xima ter\u00e7a-feira (6/2), segundo a secret\u00e1ria de Sa\u00fade, Lucilene Flor\u00eancio. O Gover\u2026 [+4225 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.492437",
+      "internal_id": "896cd74eff2bc0dfb1007f36b6106d6370b63ce548f447d886c2ead0779d25f4",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4936,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "O que \u00e9 dengue hemorr\u00e1gica? Sintomas e tratamento",
+      "description": "Forma mais grave e potencialmente letal da infec\u00e7\u00e3o, a dengue hemorr\u00e1gica afeta o padr\u00e3o de coagula\u00e7\u00e3o do sangue, o que pode provocar hemorragias no paciente",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-02/o-que-e-dengue-hemorragica--sintomas-e-tratamento.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/50/l8/xv/50l8xvz249inmu6obyglwnrq2.jpg",
+      "publishedAt": "2024-02-02 17:45:26",
+      "content": "A dengue \u00e9 uma doen\u00e7a viral transmitida por mosquitos, como o Aedes aegypti . Para alguns pacientes, essa infec\u00e7\u00e3o inicial vai evoluir para um quadro mais grave conhecido como dengue hemorr\u00e1gica. O \u2026 [+3347 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.535054",
+      "internal_id": "8f62e2bd2647a760d1195e8edee15138b87c8167630798abad460bcd9bf53aa0",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4942,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La vacuna antimalaria de Oxford confirma su eficacia y seguridad en un ensayo en fase 3",
+      "description": "Se inmuniz\u00f3 a m\u00e1s de 4.800 ni\u00f1os y se constat\u00f3 una eficacia media del 78 % durante el primer a\u00f1o.",
+      "url": "https://www.montevideo.com.uy/Salud/La-vacuna-antimalaria-de-Oxford-confirma-su-eficacia-y-seguridad-en-un-ensayo-en-fase-3-uc878533",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201406/_W933_80/453998.jpg",
+      "publishedAt": "2024-02-02 17:09:00",
+      "content": "La vacuna antipal\u00fadica R21/Matrix-M confirm\u00f3 \"una alta\" eficacia (78 % de media) y \"un buen perfil\" de seguridad en ni\u00f1os de 5 a 17 meses durante el primer a\u00f1o, seg\u00fan los datos de un nuevo ensayo \u2026 [+2225 chars]",
+      "retrievedAt": "2024-02-03 19:05:20.404427",
+      "internal_id": "57d702e7ad8cc40e925253781044a844a4df1ac5160b1de4cdd13527d2b21ca6",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "Como se proteger da dengue enquanto a vacina n\u00e3o chega?",
+      "description": "Biom\u00e9dico ensina 6 estrat\u00e9gias que melhoram a prote\u00e7\u00e3o contra o mosquito da dengue, como os melhores repelentes contra o inseto e formas de evitar criadouros",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-02/como-se-proteger-da-dengue-enquanto-a-vacina-nao-chega-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/93/z2/nl/93z2nl62hg0vi7a2la17he7h5.jpg",
+      "publishedAt": "2024-02-02 17:05:15",
+      "content": "Neste ano, a vacina contra a dengue ser\u00e1 aplicada apenas em crian\u00e7as e adolescentes, em cidades espec\u00edficas, como planeja o Minist\u00e9rio da Sa\u00fade. Enquanto o imunizante n\u00e3o chega e a previs\u00e3o \u00e9 de alta\u2026 [+4429 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.555228",
+      "internal_id": "b5cb9392081abba3781c4639a9ce079a0bbde3d1ba647846d9514cdf37c74650",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4930,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Beb\u00ea de 5 meses morre de dengue hemorr\u00e1gica no Distrito Federal",
+      "description": "Morte ocorreu em hospital p\u00fablico e ainda n\u00e3o consta na estat\u00edstica oficial da Secretaria de Sa\u00fade. Oficialmente, o DF confirma 6 \u00f3bitos",
+      "url": "https://www.metropoles.com/distrito-federal/bebe-de-5-meses-morre-de-dengue-hemorragica-no-distrito-federal",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/02134102/crianca-de-cinco-meses-morre-de-dengue-hemorragica-no-DF.jpg",
+      "publishedAt": "2024-02-02 16:53:25",
+      "content": "Uma crian\u00e7a de 5 meses morreu v\u00edtima de dengue hemorr\u00e1gica no Hospital Materno Infantil de Bras\u00edlia (HMIB), nessa quarta-feira (31/1). Fontes do Metr\u00f3poles na rede p\u00fablica de sa\u00fade do Distrito Feder\u2026 [+5554 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.447959",
+      "internal_id": "8f8e92d9a18864a67e71690dd3db3c45fbed34b1b344d08e6f50ca8d08d10092",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4928,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Bob Furuya",
+      "title": "Apenas 10% das cidades v\u00e3o receber vacina contra a dengue; entenda os crit\u00e9rios",
+      "description": "Apenas 3,2 milh\u00f5es de brasileiros ser\u00e3o imunizados contra a doen\u00e7a em 2024; doses s\u00e3o reservadas a crian\u00e7as dos 10 aos 14 anos de 521 cidades O post Apenas 10% das cidades v\u00e3o receber vacina contra a dengue; entenda os crit\u00e9rios apareceu primeiro em Olhar Dig\u2026",
+      "url": "https://olhardigital.com.br/2024/02/02/medicina-e-saude/apenas-10-das-cidades-vao-receber-vacina-contra-a-dengue-entenda-os-criterios/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205-695x500.jpg",
+      "publishedAt": "2024-02-02 16:00:00",
+      "content": "O Brasil est\u00e1 prestes a se tornar o primeiro pa\u00eds do mundo a oferecer uma vacina contra a dengue de forma gratuita na rede p\u00fablica. Com a chegada das primeiras doses, a previs\u00e3o \u00e9 que a campanha de \u2026 [+4118 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.402884",
+      "internal_id": "803305c9ee12697709fa326890f7a7d55b35ee842945fd2911b00884d23297ff",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4941,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Cape Verde: Cape Verde Is the Third African Country to Eliminate Malaria - Here's How",
+      "description": "[The Conversation Africa] Cape Verde has been certified malaria-free by the World Health Organization.",
+      "url": "https://allafrica.com/stories/202402020405.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-02-02 15:59:59",
+      "content": "Cape Verde has been certified malaria-free by the World Health Organization. The archipelago to the west of Senegal consists of 10 islands, and has a population of over 500,000 people. It is the thi\u2026 [+5694 chars]",
+      "retrievedAt": "2024-02-03 19:05:20.383748",
+      "internal_id": "83a9e4c631f47710f6025ee16957e2ed1e9c67c77b79432b53da23bc97161947",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4927,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Bob Furuya",
+      "title": "Vacina contra a dengue chega aos estados na semana que vem",
+      "description": "O an\u00fancio foi feito nesta quinta (1) pelo Minist\u00e9rio da Sa\u00fade; campanha ser\u00e1 restrita a jovens de 10 a 14 anos de 521 cidades selecionadas O post Vacina contra a dengue chega aos estados na semana que vem apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/02/medicina-e-saude/vacina-contra-a-dengue-chega-aos-estados-na-semana-que-vem/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/01/vacina-da-dengue-695x500.jpg",
+      "publishedAt": "2024-02-02 14:40:52",
+      "content": "O governo federal vai come\u00e7ar a distribuir a vacina contra a dengue aos estados na pr\u00f3xima semana. Ao todo, 521 munic\u00edpios ser\u00e3o contemplados nesta primeira leva. O an\u00fancio foi feito nesta quinta-fe\u2026 [+2734 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.398993",
+      "internal_id": "ddf2f01e4629b6cb15b3c9b48d68604f3c760ee94cbd7e4d4e9ce40bf40d02ff",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4932,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alan Rios",
+      "title": "V\u00eddeo: dengue gera superlota\u00e7\u00e3o em UPA, com pacientes nos corredores",
+      "description": "Comiss\u00e3o de Direitos Humanos da C\u00e2mara Legislativa visitou UPA de Samambaia, em explos\u00e3o de dengue, e denunciou situa\u00e7\u00f5es fora do controle",
+      "url": "https://www.metropoles.com/distrito-federal/video-dengue-gera-superlotacao-em-upa-com-pacientes-nos-corredores",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/02095934/visita-a-UPA-explosao-de-casos-de-dengue.jpg",
+      "publishedAt": "2024-02-02 14:10:50",
+      "content": "A Unidade de Pronto Atendimento (UPA) de Samambaia enfrenta superlota\u00e7\u00e3o ap\u00f3s a explos\u00e3o de casos de dengue, com pacientes nos corredores, mais do que o dobro de atendimentos suportados pela equipe d\u2026 [+2868 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.468199",
+      "internal_id": "2a13926097114c7a1a7da61ebbb147947903ce5624938388ae38fd4ecca996da",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4937,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nattapat Nitinai, Worapong Nasomsong, Worayon Chuerboonchai, Akarawin Tweekittikul, Vutthikorn Khingmontri, Bawornnan Panuvatvanich, Thananut Bangchuad, Maynanchaya Pongpraijaroen, Tanapol Roongfa-ngarm, Vasin Vasikasin",
+      "title": "Effect of montelukast in preventing dengue with warning signs among patients with dengue: A multicenter, randomized, double-blind, placebo-controlled trial",
+      "description": "Author summary Although there is no specific treatment for dengue to date, montelukast shows promise as a potential therapeutic agent. An open-label study previously showed a 71% reduction in dengue shock among patients with dengue who were administered monte\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011927",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011927.g004&size=inline",
+      "publishedAt": "2024-02-02 14:00:00",
+      "content": "Abstract Background Montelukast has shown potential as a candidate treatment for dengue. This study aimed to evaluate the efficacy and safety of montelukast in preventing dengue with warning signs.\u2026 [+29974 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.539730",
+      "internal_id": "ed8280413f15f9f28b9e921fbf65d03bbffa9e1233e5dabc1b5c0e25046ea54c",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4944,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thenationalnews.com",
+      "author": "Gillian Duncan",
+      "title": "New malaria vaccine found to be 75 per cent effective",
+      "description": "Affordable shot prevented three quarters of malaria cases in children aged between five and 36 months",
+      "url": "https://www.thenationalnews.com/health/2024/02/02/new-malaria-vaccine-found-to-be-75-per-cent-effective/",
+      "urlToImage": "https://thenational-the-national-prod.cdn.arcpublishing.com/resizer/xy6CRXOjyn-Y1WI330pBEV7oTDU=/800x0/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/thenational/MUGWYSAMIIQWLQCQ7IJ6UX3AVM.jpg",
+      "publishedAt": "2024-02-02 11:52:26",
+      "content": "A vaccine developed by the University of Oxford and Serum Institute of India is 75 per cent effective in preventing symptomatic malaria cases in young children. Final-stage trial results involving 4\u2026 [+3943 chars]",
+      "retrievedAt": "2024-02-03 19:05:20.421302",
+      "internal_id": "edd0f5887b8726e13ddd948a0ebf858075319748c724b698511b0f3ffb1e343f",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4931,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Mariana Andrade",
+      "title": "Vacina da dengue \u00e9 coberta pelo plano de sa\u00fade? Entenda",
+      "description": "Em um m\u00eas, procura pela vacina contra dengue subiu 110% em cl\u00ednicas privadas. Ao todo, Brasil tem 51.081.018 de usu\u00e1rios de plano de sa\u00fade",
+      "url": "https://www.metropoles.com/brasil/vacina-da-dengue-e-coberta-pelo-plano-de-saude-entenda",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/24153734/Exame-diagnostico-de-dengue.jpg",
+      "publishedAt": "2024-02-02 11:00:04",
+      "content": "Com a explos\u00e3o de casos de dengue nas primeiras semanas de 2024, a busca por vacina \u00e9 uma das alternativas para quem busca se prevenir da doen\u00e7a. Mas, aqueles, fora do grupo priorit\u00e1rio, que optarem \u2026 [+1465 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.453865",
+      "internal_id": "becab95bd34b60bd79b516c2db0f12aaa62a514daedeea52e4495b9c96124a68",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4939,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nationalgeographic.com.es",
+      "author": "Sergio Parra, Sergio Parra",
+      "title": "Una nueva vacuna contra la malaria muestra resultados prometedores",
+      "description": "En el marco de un meticuloso ensayo cl\u00ednico que congreg\u00f3 aproximadamente a 5.000 ni\u00f1os, con edades comprendidas entre los 5 y los 36 meses, se ha evidenciado la eficacia de una innovadora vacuna contra la malaria, denominada R21/MatrixM.Este avance cient\u00edfico\u2026",
+      "url": "https://www.nationalgeographic.com.es/ciencia/resultados-muy-prometedores-innovadora-vacuna-contra-devastadora-malaria_21536",
+      "urlToImage": "https://www.nationalgeographic.com.es/medio/2024/02/02/mosquito-anopheles-malaria_f5185b68_240202115839_1200x630.jpg",
+      "publishedAt": "2024-02-02 11:00:00",
+      "content": "En el marco de un meticuloso ensayo cl\u00ednico que congreg\u00f3 aproximadamente a 5.000 ni\u00f1os, con edades comprendidas entre los 5 y los 36 meses, se ha evidenciado la eficacia de una innovadora vacuna cont\u2026 [+2650 chars]",
+      "retrievedAt": "2024-02-03 19:05:20.372343",
+      "internal_id": "f75492ad0fb0867f092aa2558c77cf685e6de1827d179ee6ea92cdb2d1f86fa5",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4943,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Tiaan de Jager, Dean: Faculty of Health Sciences and Director: UP Institute for Sustainable Malaria Control, University of Pretoria, Taneshka Kruger, UP ISMC: Project Manager and Coordinator, University of Pretoria",
+      "title": "Cape Verde is the third African country to eliminate malaria: here\u2019s how",
+      "description": "Malaria in Africa accounts for 96% of deaths worldwide. Cape Verde became only the third country in Africa to be declared malaria free this year. This is how they did it.",
+      "url": "https://theconversation.com/cape-verde-is-the-third-african-country-to-eliminate-malaria-heres-how-222064",
+      "urlToImage": "https://images.theconversation.com/files/572798/original/file-20240201-23-3ykh7n.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2024-02-02 10:37:41",
+      "content": "Cape Verde has been certified malaria-free by the World Health Organization. The archipelago to the west of Senegal consists of 10 islands, and has a population of over 500,000 people. It is the th\u2026 [+5259 chars]",
+      "retrievedAt": "2024-02-03 19:05:20.414456",
+      "internal_id": "bd10e06ebc5188e5aa4f85f03c46a9ab35271dbe8114e5f7000a0b0467e7e1fb",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4934,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "J\u00e9ssica Ribeiro",
+      "title": "Ceil\u00e2ndia receber\u00e1 hospital de campanha focado no combate \u00e0 dengue",
+      "description": "A estrutura, cedida pela Aeron\u00e1utica, ser\u00e1 estacionada entre o Hospital do Sol e a UPA de Ceil\u00e2ndia a partir da pr\u00f3xima semana",
+      "url": "https://www.metropoles.com/distrito-federal/ceilandia-recebera-hospital-de-campanha-focado-no-combate-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2021/02/22100125/mosquito-da-dengue.jpg",
+      "publishedAt": "2024-02-02 10:32:26",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.498828",
+      "internal_id": "79e4dddb62a024659cd180c351acd7112eb06e4293c537e436ae94a57578708f",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4929,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Dos 6 mortos por dengue, 4 tinham hipertens\u00e3o e 1, doen\u00e7a hematol\u00f3gica",
+      "description": "De acordo com a Secretaria de Sa\u00fade, s\u00e3o comorbidades que podem agravar a dengue: hipertens\u00e3o arterial, diabetes, doen\u00e7as hematol\u00f3gicas",
+      "url": "https://www.metropoles.com/distrito-federal/dos-6-mortos-por-dengue-4-tinham-hipertensao-e-1-doenca-hematologica",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/31134645/visita-dengue-df.jpeg",
+      "publishedAt": "2024-02-02 10:30:21",
+      "content": "O Distrito Federal registrou seis mortes por dengue nos primeiros 27 dias de 2024. De acordo com a Secretaria de Sa\u00fade (SES-DF), entre os mortos, cinco tinham comorbidades, sendo 4 diagnosticados com\u2026 [+5144 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.429450",
+      "internal_id": "a7ad703066fdde43d4cc979980ea4779914558d2c6d856825380ac2f040b8d94",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4940,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Expansion.com",
+      "author": "Marga Castillo",
+      "title": "Una nueva vacuna contra la malaria de bajo coste reduce los s\u00edntomas en un 75%",
+      "description": "La fase III de ensayos cl\u00ednicos de la vacuna contra la malaria R21/MatrixM, conocida como vacuna de Oxford, muestra que el preparado antipal\u00fadico reduce los casos sintom\u00e1ticos hasta en un 75% de los ni\u00f1os vacunados, seg\u00fan publica The Lancet. Leer",
+      "url": "https://www.expansion.com/directivos/estilo-vida/salud/2024/02/02/65bcb910468aebc2468b4597.html",
+      "urlToImage": "https://phantom-expansion.unidadeditorial.es/b727365593da717f7fa1978dd8c59dca/crop/3x75/2035x1430/resize/1200/f/webp/assets/multimedia/imagenes/2024/02/02/17068685889904.jpg",
+      "publishedAt": "2024-02-02 10:22:21",
+      "content": "La vacuna antipal\u00fadica R21/Matrix-M ha confirmado \"una alta\" eficacia (78% de media) y \"un buen perfil\" de seguridad en ni\u00f1os de 5 a 17 meses durante el primer a\u00f1o, seg\u00fan los datos de un nuevo ensayo\u2026 [+4887 chars]",
+      "retrievedAt": "2024-02-03 19:05:20.379764",
+      "internal_id": "6a95a1d3868efa9e6ea6f448fb5437ddd43730c0ed0a66f01b0e15853a570112",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4935,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Conte\u00fado de Marca",
+      "title": "DF receber\u00e1 hospital de campanha para fortalecer combate \u00e0 dengue",
+      "description": "A medida \u00e9 uma parceria do GDF com o Minist\u00e9rio da Defesa e faz parte das a\u00e7\u00f5es emergenciais no combate \u00e0 doen\u00e7a",
+      "url": "https://www.metropoles.com/conteudo-especial/dengue-hospital-de-campanha",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/01153051/Novo-Projeto-2024-02-01T152420.614.jpg",
+      "publishedAt": "2024-02-02 10:00:49",
+      "content": "O Distrito Federal iniciou o ano enfrentando o maior n\u00famero proporcional de casos prov\u00e1veis de dengue do pa\u00eds. At\u00e9 a terceira semana de janeiro, foram notificados mais de 30 mil casos suspeitos da do\u2026 [+3266 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.505030",
+      "internal_id": "5f0fee5d1f97cc91b2224ff037359145bb0c9a69a3b6d83618bb01f7bc111914",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4925,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Hipertextual",
+      "author": "Azucena Mart\u00edn",
+      "title": "Cada vez hay m\u00e1s brotes de sarampi\u00f3n y las consecuencias no afectan solo a los antivacunas",
+      "description": "Los brotes de sarampi\u00f3n no dejan de florecer por todo el mundo. La Organizaci\u00f3n Mundial de la Salud (OMS) acaba de alertar que de un alarmante incremento de casos en Europa, donde estos se han multiplicado 45 veces. Las causas est\u00e1n claras: la expansi\u00f3n de lo\u2026",
+      "url": "http://hipertextual.com/2024/02/brotes-sarampion-antivacunas",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/11/sarampion-nene.jpg",
+      "publishedAt": "2024-02-02 09:59:16",
+      "content": "Los brotes de sarampi\u00f3n no dejan de florecer por todo el mundo. La Organizaci\u00f3n Mundial de la Salud (OMS) acaba de alertar que de un alarmante incremento de casos en Europa, donde estos se han multip\u2026 [+5276 chars]",
+      "retrievedAt": "2024-02-03 19:05:18.853396",
+      "internal_id": "e691f56e3f4fed17bcd6ab1f744ea46335c2a548b2594843174cebf995fd4e08",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4926,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Nayra Teles",
+      "title": "\u00d3leo extra\u00eddo de plantas pode combater mosquito da dengue, revela estudo brasileiro",
+      "description": "Pesquisa catarinense identificou alguns dos efeitos dos \u00f3leos naturais no combate ao Aedes aegypti O post \u00d3leo extra\u00eddo de plantas pode combater mosquito da dengue, revela estudo brasileiro apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/02/medicina-e-saude/oleo-extraido-de-plantas-pode-combater-mosquito-da-dengue-revela-estudo-brasileiro/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/02/oleo-natural-695x500.png",
+      "publishedAt": "2024-02-02 08:00:00",
+      "content": "Uma pesquisa realizada pela Universidade Comunit\u00e1ria de Chapec\u00f3 (Unochapec\u00f3), em Santa Catarina, est\u00e1 investigando os efeitos dos \u00f3leos naturais contra o Aedes aegypti mosquito causador da dengue e i\u2026 [+1985 chars]",
+      "retrievedAt": "2024-02-03 19:05:19.394700",
+      "internal_id": "fcf859832bb6f97054dcaa975c32099010b8e8708c05bd33caf7fbba13931db3",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 4924,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Elena Santos",
+      "title": "Qu\u00e9 es la tosferina y cu\u00e1les son sus s\u00edntomas",
+      "description": "La tosferina, tambi\u00e9n llamada pertussis, es una enfermedad respiratoria muy contagiosa que se propaga entre personas. La causa una bacteria denominada Bordetella pertussis. Puede hacer enfermar a personas de todas las edades y es especialmente pel\u2026",
+      "url": "https://www.huffingtonpost.es/life/salud/que-tosferina-cuales-sonntomas.html",
+      "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/02/02/imagen-de-archivo-de-un-hombre-tosiendo.jpeg",
+      "publishedAt": "2024-02-02 07:59:14",
+      "content": "La tosferina, tambi\u00e9n llamada pertussis, es una enfermedad respiratoria muy contagiosa que se propaga entre personas. La causa una bacteria denominada Bordetella pertussis. Puede hacer enfermar a per\u2026 [+1392 chars]",
+      "retrievedAt": "2024-02-03 19:05:17.473022",
+      "internal_id": "64e67dfc4e8ae60f92972ad7a18ed6e74bd3f032f1a60fa1cabb5a55754a31ee",
+      "publishedAtLabel": "Feb 2"
+    },
     {
       "id": 4912,
       "query": [
@@ -20665,98 +21043,6 @@
       "content": "Global public health experts are warning that the United States is not prepared for looming threats posed by tropical and insect-borne viruses. At a two-day workshop this week at the National Academ\u2026 [+3569 chars]",
       "retrievedAt": "2023-12-19 07:06:05.858171",
       "internal_id": "0cfaf88db7ee727c73cd38a41e17381d95bf8444a45aaf1a778242c49f7b5ab6",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3771,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "Congo-Kinshasa: L'OMS s'inqui\u00e8te de la propagation rapide de l'\u00e9pid\u00e9mie de Mpox, aussi appel\u00e9 \u00abvariole du singe\u00bb",
-      "description": "[RFI] L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocratique du Congo. L'OMS craint une transmission internat\u2026",
-      "url": "https://fr.allafrica.com/stories/202312170213.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-17 17:47:35",
-      "content": "L'Organisation mondiale de la sant\u00e9 (OMS) s'inqui\u00e8te des risques de propagation de l'\u00e9pid\u00e9mie de Mpox, longtemps appel\u00e9 \u00ab variole du singe \u00bb. Une \u00e9pid\u00e9mie qui s'\u00e9tend rapidement en R\u00e9publique d\u00e9mocra\u2026 [+1973 chars]",
-      "retrievedAt": "2023-12-18 19:05:22.225309",
-      "internal_id": "78f75754d80da4b9cf135d9139b937366c70069c7ba13d66fe748363e9ed73e7",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3768,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
-      "description": "O alerta \u00e9 da plataforma AdaptaBrasil, vinculada ao Minist\u00e9rio da Ci\u00eancia, Tecnologia e Inova\u00e7\u00e3o (MCTI), em parceria com a Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz)",
-      "url": "https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2023-12-17 15:08:43",
-      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7013 chars]",
-      "retrievedAt": "2023-12-18 19:05:20.888933",
-      "internal_id": "65c09fd30bc85e9e62d4a53048ecc51a005d39c13e9fae15c460c5ed0b600dee",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3770,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": "lesdepechesdebrazzaville@orange.fr (Les D\u00e9p\u00eaches de Brazzaville)",
-      "title": "Congo-Brazzaville: Forte extension de l'\u00e9pid\u00e9mie de mpox",
-      "description": "[Les D\u00c3\u00a9p\u00c3\u00aaches de Brazzaville] La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleurs, selon l'Organisation mon\u2026",
-      "url": "https://fr.allafrica.com/stories/202312170165.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-17 13:44:42",
-      "content": "La R\u00e9publique d\u00e9mocratique du Congo (RDC) continuerait de conna\u00eetre une \u00e9pid\u00e9mie de mpox, autrefois appel\u00e9e variole du singe, qui repr\u00e9sente un risque pour la population, des pays voisins et d'ailleu\u2026 [+2518 chars]",
-      "retrievedAt": "2023-12-18 19:05:22.217644",
-      "internal_id": "ffc356b5afd0af4ad4d33484615d7ab1b68d898dd616c76bfc983aab95a21bf2",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3767,
-      "query": [
-        "dengue",
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Jornaldebrasilia.com.br",
-      "author": "Jornal de Bras\u00edlia",
-      "title": "Mudan\u00e7as clim\u00e1ticas podem agravar quadro de doen\u00e7as como dengue e zika",
-      "description": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e,...",
-      "url": "https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/",
-      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/12/17104316/mnltwruwnrntvhfsnhcib3jxeu.webp",
-      "publishedAt": "2023-12-17 10:46:19",
-      "content": "Os riscos apresentados pelas mudan\u00e7as clim\u00e1ticas no Brasil podem levar \u00e0 prolifera\u00e7\u00e3o de vetores, como o mosquito Aedes aegypti e, em consequ\u00eancia, ao agravamento de arboviroses, como dengue, zika e \u2026 [+7210 chars]",
-      "retrievedAt": "2023-12-18 19:05:20.884949",
-      "internal_id": "edc6e32eb4ce9ef72072cc25207b7750a3def679012278999d1ca14019fac8f0",
-      "publishedAtLabel": "Dec 17"
-    },
-    {
-      "id": 3769,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "cnn",
-      "source_name": "CNN",
-      "author": "Sof\u00eda Barruti",
-      "title": "Un cient\u00edfico africano podr\u00eda acabar con la malaria editando el ADN de un mosquito",
-      "description": "Diabate, que ahora dirige entomolog\u00eda m\u00e9dica y parasitolog\u00eda en el Instituto de Investigaci\u00f3n en Ciencias de la Salud de Burkina Faso, est\u00e1 desarrollando una t\u00e9cnica innovadora que potencialmente podr\u00eda eliminar las especies de mosquitos transmisores de malar\u2026",
-      "url": "https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/",
-      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/12/cientifico-malaria.jpg?quality=100&strip=info",
-      "publishedAt": "2023-12-17 09:06:30",
-      "content": "Casos de malaria entre migrantes pone en alerta a Honduras 4:01 (CNN) -- Abdoulaye Diabate enfrent\u00f3 un ataque de malaria que puso en peligro su vida cuando solo ten\u00eda cinco a\u00f1os. Diabate sobrevivi\u00f3\u2026 [+9242 chars]",
-      "retrievedAt": "2023-12-18 19:05:21.602100",
-      "internal_id": "fccc16499069e80b64c41def33114d84578c1c2dae555f32b41f5e75b2056c47",
       "publishedAtLabel": "Dec 17"
     }
   ]

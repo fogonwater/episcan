@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-02-03 07:05
-- **Most recent article:** 2024-02-02 05:30:44
+- **New articles in last harvest:** 21
+- **Last harvest:** 2024-02-03 19:05
+- **Most recent article:** 2024-02-02 17:47:27
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 69 | 37 | 2 | 52 | 35 | 65 | 123 | 118 | 501 |
-| malaria | 23 | 22 | 2 | 11 | 51 | 26 | 86 | 17 | 238 |
+| dengue | 67 | 37 | 2 | 52 | 35 | 65 | 123 | 131 | 512 |
+| malaria | 22 | 22 | 2 | 11 | 51 | 26 | 86 | 23 | 243 |
 | measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 42 | 228 |
-| mpox | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 2 | 45 |
-| zika | 5 | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 44 |
+| mpox | 13 | 12 | 0 | 2 | 2 | 8 | 4 | 2 | 43 |
+| zika | 3 | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 42 |
 | rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 38 |
 | chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 8 | 34 |
 | meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 3 | 30 |
-| pertussis | 2 | 0 | 0 | 5 | 2 | 5 | 2 | 2 | 18 |
+| pertussis | 2 | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 19 |
 | typhoid | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 11 |
 | leptospirosis | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 1 | 8 |
-| sarampión | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 5 | 6 |
+| sarampión | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 7 |
 | yersinia | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 5 |
 
 
@@ -57,6 +57,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (sarampión)
 
+- [Cada vez hay más brotes de sarampión y las consecuencias no afectan solo a los antivacunas](http://hipertextual.com/2024/02/brotes-sarampion-antivacunas) (Hipertextual)
+
 - [Ángel Vidal, el docente que acercó A Pobra a Europa: «Muchos viajes fueron impactantes»](https://www.lavozdegalicia.es/noticia/barbanza/a-pobra-do-caraminal/2024/02/02/angel-vidal-docente-acerco-pobra-europa-viajes-fueron-impactantes/0003_202402B2C2991.htm) (Lavozdegalicia.es)
 
 - [OPS emite alerta por sarampión e incluye a Costa Rica](https://www.nacion.com/ciencia/salud/ops-emite-alerta-epidemiologica-por-sarampion/OXCBW3LCBZDRFPZSYJAS26RY44/story/) (Nacion.com)
@@ -84,6 +86,8 @@ Source: [News API](https://newsapi.org/)
 - [Make anti-rabies serum available at PHCs: Centre](https://timesofindia.indiatimes.com/india/make-anti-rabies-serum-available-at-phcs-centre/articleshow/107240937.cms) (The Times of India)
 
 ## 24-5 (pertussis)
+
+- [Qué es la tosferina y cuáles son sus síntomas](https://www.huffingtonpost.es/life/salud/que-tosferina-cuales-sonntomas.html) (Huffingtonpost.es)
 
 - [Todo sobre la tos ferina: cuáles son sus síntomas, cómo se contagia y de qué manera tratarla](https://www.elespanol.com/ciencia/salud/20240201/tos-ferina-sintomas-contagia-manera-tratarla/829417354_0.html) (Elespanol.com)
 
@@ -191,6 +195,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (malaria)
 
+- [La vacuna antimalaria de Oxford confirma su eficacia y seguridad en un ensayo en fase 3](https://www.montevideo.com.uy/Salud/La-vacuna-antimalaria-de-Oxford-confirma-su-eficacia-y-seguridad-en-un-ensayo-en-fase-3-uc878533) (Montevideo.com.uy)
+
+- [Cape Verde: Cape Verde Is the Third African Country to Eliminate Malaria - Here's How](https://allafrica.com/stories/202402020405.html) (AllAfrica - Top Africa News)
+
+- [New malaria vaccine found to be 75 per cent effective](https://www.thenationalnews.com/health/2024/02/02/new-malaria-vaccine-found-to-be-75-per-cent-effective/) (Thenationalnews.com)
+
+- [Una nueva vacuna contra la malaria muestra resultados prometedores](https://www.nationalgeographic.com.es/ciencia/resultados-muy-prometedores-innovadora-vacuna-contra-devastadora-malaria_21536) (Nationalgeographic.com.es)
+
+- [Cape Verde is the third African country to eliminate malaria: here’s how](https://theconversation.com/cape-verde-is-the-third-african-country-to-eliminate-malaria-heres-how-222064) (The Conversation Africa)
+
+- [Una nueva vacuna contra la malaria de bajo coste reduce los síntomas en un 75%](https://www.expansion.com/directivos/estilo-vida/salud/2024/02/02/65bcb910468aebc2468b4597.html) (Expansion.com)
+
 - [Belgen die ziektes bestrijden met computers werken opnieuw samen met Bill Gates: “Wij zijn een bedrijf dat impact wil hebben op de wereld”](https://www.gva.be/cnt/dmf20240202_91856386) (Www.gva.be)
 
 - [Belgen die ziektes bestrijden met computers werken opnieuw samen met Bill Gates: “Wij zijn een bedrijf dat impact wil hebben op de wereld”](https://www.nieuwsblad.be/cnt/dmf20240201_96873629) (Nieuwsblad.be)
@@ -230,6 +246,32 @@ Source: [News API](https://newsapi.org/)
 - [Rain and rats to blame for more dogs in Singapore being infected with leptospirosis, vets say](https://www.channelnewsasia.com/singapore/leptospirosis-dogs-vets-rain-wet-weather-rats-4087371) (CNA)
 
 ## 24-5 (dengue)
+
+- [Dengue: hospital de campanha da Aeronáutica será instalado na terça](https://www.metropoles.com/distrito-federal/dengue-hospital-de-campanha-da-aeronautica-sera-instalado-na-terca) (Metropoles.com)
+
+- [O que é dengue hemorrágica? Sintomas e tratamento](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-02/o-que-e-dengue-hemorragica--sintomas-e-tratamento.html) (Ig.com.br)
+
+- [Como se proteger da dengue enquanto a vacina não chega?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-02/como-se-proteger-da-dengue-enquanto-a-vacina-nao-chega-.html) (Ig.com.br)
+
+- [Bebê de 5 meses morre de dengue hemorrágica no Distrito Federal](https://www.metropoles.com/distrito-federal/bebe-de-5-meses-morre-de-dengue-hemorragica-no-distrito-federal) (Metropoles.com)
+
+- [Apenas 10% das cidades vão receber vacina contra a dengue; entenda os critérios](https://olhardigital.com.br/2024/02/02/medicina-e-saude/apenas-10-das-cidades-vao-receber-vacina-contra-a-dengue-entenda-os-criterios/) (Olhardigital.com.br)
+
+- [Vacina contra a dengue chega aos estados na semana que vem](https://olhardigital.com.br/2024/02/02/medicina-e-saude/vacina-contra-a-dengue-chega-aos-estados-na-semana-que-vem/) (Olhardigital.com.br)
+
+- [Vídeo: dengue gera superlotação em UPA, com pacientes nos corredores](https://www.metropoles.com/distrito-federal/video-dengue-gera-superlotacao-em-upa-com-pacientes-nos-corredores) (Metropoles.com)
+
+- [Effect of montelukast in preventing dengue with warning signs among patients with dengue: A multicenter, randomized, double-blind, placebo-controlled trial](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011927) (Plos.org)
+
+- [Vacina da dengue é coberta pelo plano de saúde? Entenda](https://www.metropoles.com/brasil/vacina-da-dengue-e-coberta-pelo-plano-de-saude-entenda) (Metropoles.com)
+
+- [Ceilândia receberá hospital de campanha focado no combate à dengue](https://www.metropoles.com/distrito-federal/ceilandia-recebera-hospital-de-campanha-focado-no-combate-a-dengue) (Metropoles.com)
+
+- [Dos 6 mortos por dengue, 4 tinham hipertensão e 1, doença hematológica](https://www.metropoles.com/distrito-federal/dos-6-mortos-por-dengue-4-tinham-hipertensao-e-1-doenca-hematologica) (Metropoles.com)
+
+- [DF receberá hospital de campanha para fortalecer combate à dengue](https://www.metropoles.com/conteudo-especial/dengue-hospital-de-campanha) (Metropoles.com)
+
+- [Óleo extraído de plantas pode combater mosquito da dengue, revela estudo brasileiro](https://olhardigital.com.br/2024/02/02/medicina-e-saude/oleo-extraido-de-plantas-pode-combater-mosquito-da-dengue-revela-estudo-brasileiro/) (Olhardigital.com.br)
 
 - [Das 6 pessoas que morreram com dengue no DF, 5 tinham comorbidades](https://www.metropoles.com/distrito-federal/das-6-pessoas-que-morreram-com-dengue-no-df-5-tinham-comorbidades) (Metropoles.com)
 
@@ -2283,10 +2325,6 @@ Source: [News API](https://newsapi.org/)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
-
 ## 23-51 (typhoid)
 
 - [Mother reunites with missing son on traffic signal after seven years, found him begging in Pakistan](https://economictimes.indiatimes.com/news/international/world-news/mother-reunites-with-missing-son-on-traffic-signal-after-seven-years-found-him-begging-in-pakistan/articleshow/106213574.cms) (The Times of India)
@@ -2334,10 +2372,6 @@ Source: [News API](https://newsapi.org/)
 - [WHO warns mpox could spread internationally again](https://www.dw.com/en/who-warns-mpox-could-spread-internationally-again/a-67754081) (DW (English))
 
 - [WHO warns mpox could spread around the world again](https://www.dw.com/en/who-warns-mpox-could-spread-around-the-world-again/a-67754081) (DW (English))
-
-- [Congo-Kinshasa: L'OMS s'inquiète de la propagation rapide de l'épidémie de Mpox, aussi appelé «variole du singe»](https://fr.allafrica.com/stories/202312170213.html) (AllAfrica - Top Africa News)
-
-- [Congo-Brazzaville: Forte extension de l'épidémie de mpox](https://fr.allafrica.com/stories/202312170165.html) (AllAfrica - Top Africa News)
 
 ## 23-51 (meningitis)
 
@@ -2450,8 +2484,6 @@ Source: [News API](https://newsapi.org/)
 - [“Un buen parásito es aquel que no mata a su hospedador”](https://www.muyinteresante.es/ciencia/62663.html) (Muyinteresante.es)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
-
-- [Un científico africano podría acabar con la malaria editando el ADN de un mosquito](https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/) (CNN)
 
 ## 23-51 (leptospirosis)
 
@@ -2594,10 +2626,6 @@ Source: [News API](https://newsapi.org/)
 - [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://allafrica.com/stories/202312180007.html) (AllAfrica - Top Africa News)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
-
-- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
 
 ## 23-51 (chikungunya)
 
