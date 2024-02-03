@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2024-02-02 19:06
-- **Most recent article:** 2024-02-01 18:24:09
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-02-03 07:05
+- **Most recent article:** 2024-02-02 05:30:44
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-51 | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 67 | 37 | 2 | 52 | 35 | 65 | 123 | 110 | 491 |
-| malaria | 22 | 22 | 2 | 11 | 51 | 26 | 86 | 13 | 233 |
-| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 37 | 223 |
-| mpox | 13 | 12 | 0 | 2 | 2 | 8 | 4 | 2 | 43 |
-| zika | 3 | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 42 |
+| dengue | 69 | 37 | 2 | 52 | 35 | 65 | 123 | 118 | 501 |
+| malaria | 23 | 22 | 2 | 11 | 51 | 26 | 86 | 17 | 238 |
+| measles | 28 | 7 | 1 | 8 | 25 | 61 | 56 | 42 | 228 |
+| mpox | 15 | 12 | 0 | 2 | 2 | 8 | 4 | 2 | 45 |
+| zika | 5 | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 44 |
 | rabies | 2 | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 38 |
 | chikungunya | 4 | 3 | 1 | 2 | 6 | 0 | 10 | 8 | 34 |
 | meningitis | 3 | 4 | 0 | 2 | 11 | 6 | 1 | 3 | 30 |
 | pertussis | 2 | 0 | 0 | 5 | 2 | 5 | 2 | 2 | 18 |
 | typhoid | 3 | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 11 |
 | leptospirosis | 2 | 3 | 0 | 0 | 1 | 0 | 1 | 1 | 8 |
-| sarampión | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 4 | 5 |
+| sarampión | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 5 | 6 |
 | yersinia | 0 | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 5 |
 
 
@@ -56,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 - [Dying of thirst](https://electronicintifada.net/content/dying-thirst/44221) (Electronicintifada.net)
 
 ## 24-5 (sarampión)
+
+- [Ángel Vidal, el docente que acercó A Pobra a Europa: «Muchos viajes fueron impactantes»](https://www.lavozdegalicia.es/noticia/barbanza/a-pobra-do-caraminal/2024/02/02/angel-vidal-docente-acerco-pobra-europa-viajes-fueron-impactantes/0003_202402B2C2991.htm) (Lavozdegalicia.es)
 
 - [OPS emite alerta por sarampión e incluye a Costa Rica](https://www.nacion.com/ciencia/salud/ops-emite-alerta-epidemiologica-por-sarampion/OXCBW3LCBZDRFPZSYJAS26RY44/story/) (Nacion.com)
 
@@ -102,6 +104,16 @@ Source: [News API](https://newsapi.org/)
 - [Patricia Pérez comparte las primeras imágenes de Luis Canut tras anunciar su grave enfermedad](https://www.hola.com/actualidad/20240129248319/patricia-perez-primeras-imagenes-luis-canut-recuperado-nsv/) (Hola)
 
 ## 24-5 (measles)
+
+- [GCC kicks off Measles-Rubella (MR) vaccination programme](https://timesofindia.indiatimes.com/city/chennai/gcc-kicks-off-measles-rubella-mr-vaccination-programme/articleshow/107344183.cms) (The Times of India)
+
+- [L.A. County has its first measles case since 2020: What to do if you're exposed](https://www.latimes.com/california/story/2024-02-01/los-angeles-county-has-its-first-measles-case-this-year-how-to-avoid-getting-infected) (Los Angeles Times)
+
+- [Maryland resident tests positive for measles, sparking exposure concern](https://www.cbsnews.com/baltimore/news/maryland-resident-tests-positive-for-measles-sparking-exposure-concern/) (CBS News)
+
+- [Health officials confirm measles case in Maryland](https://www.wbaltv.com/article/measles-case-confirmed-maryland-health-department/46619116) (WBAL TV Baltimore)
+
+- [Person infected with measles traveled through LAX and this Northridge restaurant](https://www.foxla.com/news/measles-la-county-infection-lax-northridge) (FOX 11 Los Angeles)
 
 - [Guidance: Template letter to paediatrician oncologists and immunologists on measles](https://www.gov.uk/government/publications/template-letter-to-paediatrician-oncologists-and-immunologists-on-measles) (Www.gov.uk)
 
@@ -179,6 +191,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (malaria)
 
+- [Belgen die ziektes bestrijden met computers werken opnieuw samen met Bill Gates: “Wij zijn een bedrijf dat impact wil hebben op de wereld”](https://www.gva.be/cnt/dmf20240202_91856386) (Www.gva.be)
+
+- [Belgen die ziektes bestrijden met computers werken opnieuw samen met Bill Gates: “Wij zijn een bedrijf dat impact wil hebben op de wereld”](https://www.nieuwsblad.be/cnt/dmf20240201_96873629) (Nieuwsblad.be)
+
+- [Una vacuna para la malaria de bajo coste demuestra su eficacia en 5.000 niños](https://www.abc.es/salud/enfermedades/vacuna-malaria-bajo-coste-muestra-eficacia-5000-20240202003000-nt.html) (Www.abc.es)
+
+- [La vacuna antimalárica R21/MatrixM reduce los casos sintomáticos hasta en un 75%](https://www.elmundo.es/ciencia-y-salud/salud/2024/02/02/65bbc96521efa076238b4583.html) (El Mundo)
+
 - [Traorè pronto per la prima convocazione: soffia via polvere e ruggine dopo la malaria](https://www.tuttomercatoweb.com/serie-a/traore-pronto-per-la-prima-convocazione-soffia-via-polvere-e-ruggine-dopo-la-malaria-1929821) (Tuttomercatoweb.com)
 
 - [Reinvestigation of Diphenylmethylpiperazine Analogues of Pyrazine as New Class of Plasmodial Cysteine Protease Inhibitors for the Treatment of Malaria](https://pubs.rsc.org/en/content/articlelanding/2024/md/d3md00490b) (Royal Society of Chemistry)
@@ -211,6 +231,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (dengue)
 
+- [Das 6 pessoas que morreram com dengue no DF, 5 tinham comorbidades](https://www.metropoles.com/distrito-federal/das-6-pessoas-que-morreram-com-dengue-no-df-5-tinham-comorbidades) (Metropoles.com)
+
+- [Procura por vacina contra a dengue na rede privada sobe 110% em 1 mês](https://www.metropoles.com/brasil/procura-por-vacina-contra-a-dengue-na-rede-privada-sobe-110-em-1-mes) (Metropoles.com)
+
+- [Dengue: sintomas e o que fazer quando as plaquetas estão baixas](https://www.metropoles.com/saude/dengue-como-identificar-queda-plaquetas) (Metropoles.com)
+
+- [“Culpada é a população”, diz deputado sobre avanço de dengue no DF](https://www.metropoles.com/distrito-federal/culpada-e-a-populacao-diz-deputado-sobre-avanco-de-dengue-no-df) (Metropoles.com)
+
+- [Deputados aprovam nomeação de 150 agentes de vigilância ambiental](https://www.metropoles.com/distrito-federal/deputados-aprovam-nomeacao-de-150-agentes-de-vigilancia-ambiental) (Metropoles.com)
+
+- [Quem já teve dengue, pode pegar de novo?](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-01/quem-ja-teve-dengue--pode-pegar-de-novo-.html) (Ig.com.br)
+
 - [Dengue: fora de lista do governo, Nunes tenta comprar vacina por conta](https://www.metropoles.com/sao-paulo/dengue-prefeitura-tenta-comprar-vacina) (Metropoles.com)
 
 - [Notes from the Field: Dengue Outbreak - Peru, 2023](https://www.cdc.gov/mmwr/volumes/73/wr/mm7304a4.htm) (Cdc.gov)
@@ -227,6 +259,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: GDF pede ao Ministério da Saúde para receber vacinas primeiro](https://www.metropoles.com/distrito-federal/dengue-gdf-pede-ao-ministerio-da-saude-para-receber-vacinas-primeiro) (Metropoles.com)
 
+- [Brasil deve registrar até 4,2 milhões de casos de dengue em 2024](https://www.terra.com.br/nos/brasil-deve-registrar-ate-42-milhoes-de-casos-de-dengue-em-2024,053a288c3d34218f6f0ae7a0040bea45r92dc3ab.html) (Terra.com.br)
+
 - [Dengue: governo anuncia criação de Centro de Operações de Emergências](https://www.metropoles.com/brasil/dengue-centro-de-operacoes-de-emergencias) (Metropoles.com)
 
 - [Governo anuncia Centro de Operações contra a dengue](https://ultimosegundo.ig.com.br/brasil/2024-02-01/governo-anuncia-centro-de-operacoes-contra-a-dengue.html) (Ig.com.br)
@@ -236,6 +270,8 @@ Source: [News API](https://newsapi.org/)
 - [Confira 10 passos para eliminar focos do mosquito da dengue](https://jornaldebrasilia.com.br/noticias/saude/confira-10-passos-para-eliminar-focos-do-mosquito-da-dengue/) (Jornaldebrasilia.com.br)
 
 - [Brasil: casos de dengue em janeiro superam todo o ano de 2017](https://olhardigital.com.br/2024/02/01/medicina-e-saude/brasil-casos-de-dengue-em-janeiro-superam-todo-o-ano-de-2017/) (Olhardigital.com.br)
+
+- [Dengue: total de casos em janeiro supera o registrado em todo 2017](https://saude.ig.com.br/2024-02-01/dengue--total-de-casos-em-janeiro-supera-o-registrado-em-todo-2017.html) (Ig.com.br)
 
 - [Internada com dengue, jornalista Bianca Ramoneda alerta sobre a doença](https://www.metropoles.com/celebridades/internada-com-dengue-jornalista-bianca-ramoneda-alerta-sobre-a-doenca) (Metropoles.com)
 
@@ -2247,6 +2283,10 @@ Source: [News API](https://newsapi.org/)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
 
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
+
 ## 23-51 (typhoid)
 
 - [Mother reunites with missing son on traffic signal after seven years, found him begging in Pakistan](https://economictimes.indiatimes.com/news/international/world-news/mother-reunites-with-missing-son-on-traffic-signal-after-seven-years-found-him-begging-in-pakistan/articleshow/106213574.cms) (The Times of India)
@@ -2294,6 +2334,10 @@ Source: [News API](https://newsapi.org/)
 - [WHO warns mpox could spread internationally again](https://www.dw.com/en/who-warns-mpox-could-spread-internationally-again/a-67754081) (DW (English))
 
 - [WHO warns mpox could spread around the world again](https://www.dw.com/en/who-warns-mpox-could-spread-around-the-world-again/a-67754081) (DW (English))
+
+- [Congo-Kinshasa: L'OMS s'inquiète de la propagation rapide de l'épidémie de Mpox, aussi appelé «variole du singe»](https://fr.allafrica.com/stories/202312170213.html) (AllAfrica - Top Africa News)
+
+- [Congo-Brazzaville: Forte extension de l'épidémie de mpox](https://fr.allafrica.com/stories/202312170165.html) (AllAfrica - Top Africa News)
 
 ## 23-51 (meningitis)
 
@@ -2406,6 +2450,8 @@ Source: [News API](https://newsapi.org/)
 - [“Un buen parásito es aquel que no mata a su hospedador”](https://www.muyinteresante.es/ciencia/62663.html) (Muyinteresante.es)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
+
+- [Un científico africano podría acabar con la malaria editando el ADN de un mosquito](https://cnnespanol.cnn.com/2023/12/17/cientifico-africano-podria-acabar-malaria-editando-el-adn-de-un-mosquito-trax/) (CNN)
 
 ## 23-51 (leptospirosis)
 
@@ -2548,6 +2594,10 @@ Source: [News API](https://newsapi.org/)
 - [Nigerian Govt Confirms Dengue Fever Outbreak in Northern State](https://allafrica.com/stories/202312180007.html) (AllAfrica - Top Africa News)
 
 - [US Faces 'Enormous' Growing Threat from Tropical Viruses, Experts Warn](https://www.newsweek.com/us-faces-enormous-growing-threat-tropical-viruses-experts-warn-1853155) (Newsweek)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://saude.ig.com.br/2023-12-17/mudancas-climaticas-dengue-zica-proliferam.html) (Ig.com.br)
+
+- [Mudanças climáticas podem agravar quadro de doenças como dengue e zika](https://jornaldebrasilia.com.br/noticias/brasil/mudancas-climaticas-podem-agravar-quadro-de-doencas-como-dengue-e-zika/) (Jornaldebrasilia.com.br)
 
 ## 23-51 (chikungunya)
 
