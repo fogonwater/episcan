@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2024-02-04 07:06
-- **Most recent article:** 2024-02-03 05:00:21
+- **New articles in last harvest:** 12
+- **Last harvest:** 2024-02-04 18:40
+- **Most recent article:** 2024-02-03 18:19:58
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 37 | 2 | 52 | 35 | 65 | 123 | 143 | 457 |
-| malaria | 22 | 2 | 11 | 51 | 26 | 86 | 25 | 223 |
-| measles | 3 | 1 | 8 | 25 | 61 | 56 | 43 | 197 |
+| dengue | 35 | 2 | 52 | 35 | 65 | 123 | 149 | 461 |
+| malaria | 21 | 2 | 11 | 51 | 26 | 86 | 25 | 222 |
+| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 201 |
 | zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 39 |
 | rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 36 |
+| mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 31 |
 | chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 8 | 30 |
-| mpox | 12 | 0 | 2 | 2 | 8 | 4 | 2 | 30 |
 | meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 26 |
 | pertussis | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 17 |
 | typhoid | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 8 |
@@ -95,6 +95,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-5 (mpox)
 
+- [First case of mpox in Victoria for 2024 prompts warning](https://northern.starweekly.com.au/news/first-case-of-mpox-in-victoria-for-2024-prompts-warning/) (Starweekly.com.au)
+
 - [Abwassertests könnten auch hochansteckende Masern früh melden​](https://www.heise.de/hintergrund/Abwassertests-koennten-auch-hochansteckende-Masern-frueh-melden-9611927.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag) (heise online)
 
 - [สภากาชาดไทย เปิดให้ลงทะเบียน ฉีดวัคซีนป้องกันโรคฝีดาษวานร ผ่าน 2 หน่วยงาน](https://www.thairath.co.th/news/society/2759505) (Thairath.co.th)
@@ -108,6 +110,16 @@ Source: [News API](https://newsapi.org/)
 - [Patricia Pérez comparte las primeras imágenes de Luis Canut tras anunciar su grave enfermedad](https://www.hola.com/actualidad/20240129248319/patricia-perez-primeras-imagenes-luis-canut-recuperado-nsv/) (Hola)
 
 ## 24-5 (measles)
+
+- [Vaccine Induced Social Amnesia](https://marginalrevolution.com/?p=87646) (Marginalrevolution.com)
+
+- [MN health officials monitoring national measles outbreaks closely](https://www.kare11.com/article/news/local/minnesota-health-officials-watching-national-measles-outbreaks-closely/89-77d4d6ce-bb06-4283-8ee5-3fa357018630) (KARE11.com)
+
+- [Swiss hospitality school closes after measles outbreak](https://www.thestar.com.my/news/world/2024/02/03/swiss-hospitality-school-closes-after-measles-outbreak) (The Star Online)
+
+- [Swiss hospitality school closes after measles outbreak](https://www.marketscreener.com/news/latest/Swiss-hospitality-school-closes-after-measles-outbreak-45879526/) (Marketscreener.com)
+
+- [Measles has exploded in Europe. Clinicians say it's only a matter of time before outbreaks hit Canada](https://www.cbc.ca/news/health/measles-has-exploded-in-europe-clinicians-say-it-s-only-a-matter-of-time-before-outbreaks-hit-canada-1.7102005) (CBC News)
 
 - [Concern about spread of highly contagious measles after new case in Maryland](https://www.cbsnews.com/baltimore/news/concern-about-spread-of-highly-contagious-measles-after-new-case-in-maryland/) (CBS News)
 
@@ -176,8 +188,6 @@ Source: [News API](https://newsapi.org/)
 - [In An Alert To Clinicians, CDC Notes That Measles Is Making A Comeback](https://www.forbes.com/sites/davewessner/2024/01/29/in-an-alert-to-clinicians-cdc-notes-that-measles-is-making-a-comeback/) (Forbes)
 
 - [Measles cases are rising around the world, and Australia is not fully immune](https://www.abc.net.au/news/2024-01-30/measles-outbreak-global-australias-risk/103392690) (ABC News (AU))
-
-- [Measles is spreading in the US and there’s an outbreak in Europe](https://www.celebitchy.com/854784/measles_is_spreading_in_the_us_and_theres_an_outbreak_in_europe/) (Celebitchy.com)
 
 - [Measles outbreaks: Investing in patient relationships through GP continuity will be key to boosting MMR confidence](https://www.bmj.com/content/384/bmj.q221) (The BMJ)
 
@@ -252,6 +262,18 @@ Source: [News API](https://newsapi.org/)
 - [Rain and rats to blame for more dogs in Singapore being infected with leptospirosis, vets say](https://www.channelnewsasia.com/singapore/leptospirosis-dogs-vets-rain-wet-weather-rats-4087371) (CNA)
 
 ## 24-5 (dengue)
+
+- [Ministério da Saúde estuda ampliar oferta da vacina contra dengue](https://jornaldebrasilia.com.br/noticias/saude/ministerio-da-saude-estuda-ampliar-oferta-da-vacina-contra-dengue/) (Jornaldebrasilia.com.br)
+
+- [Saiba o que comer e quais alimentos evitar se você está com dengue](https://www.metropoles.com/saude/o-que-comer-e-quais-alimentos-evitar-dengue) (Metropoles.com)
+
+- [Crianças primeiro: o que se sabe sobre a vacina da dengue](https://www.terra.com.br/vida-e-estilo/saude/criancas-primeiro-o-que-se-sabe-sobre-a-vacina-da-dengue,58317f80c10e2ab4f44c913826134081c9uls6oo.html) (Terra.com.br)
+
+- [Dengue: governo institui centro para coordenar ações contra doença](https://www.metropoles.com/brasil/dengue-governo-institui-centro-para-coordenar-acoes-contra-doenca) (Metropoles.com)
+
+- [Rio de Janeiro regista recorde diário de casos de dengue](https://observador.pt/2024/02/03/rio-de-janeiro-regista-recorde-diario-de-casos-de-dengue/) (Observador.pt)
+
+- [Diabetes e dengue: o que você precisa saber?](https://saude.ig.com.br/colunas/tom-bueno/2024-02-03/diabetes-e-dengue-o-que-voce-precisa-saber.html) (Ig.com.br)
 
 - [Dengue: explosão de casos exige prevenção e cuidados da população](https://www.metropoles.com/brasil/dengue-explosao-de-casos-exige-prevencao-e-cuidados-da-populacao) (Metropoles.com)
 
@@ -2243,8 +2265,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Of love letters and distant galaxies: Uplifting stories from 2023](https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023) (FRANCE 24 English)
 
-- [Dal super computer al nuovo vaccino anti malaria: ecco le più importanti scoperte scientifiche del 2023 secondo Science](https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/) (Ilfattoquotidiano.it)
-
 ## 23-52 (leptospirosis)
 
 - [Conoce las enfermedades que golpearon a Cartagena en 2023](https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851) (Eluniversal.com.co)
@@ -2324,10 +2344,6 @@ Source: [News API](https://newsapi.org/)
 - [Por que casos de dengue estão se multiplicando na Europa](https://www.bbc.com/portuguese/articles/crgj2de70r5o) (BBC News)
 
 - [Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevención contra el dengue](https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/) (La Nacion)
-
-- [OMS: seis em cada 10 pessoas com dengue no mundo são brasileiras](https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio) (Metropoles.com)
-
-- [Crece dengue 325% en un año en México](https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308) (Reforma.com)
 
 ## 23-52 (chikungunya)
 

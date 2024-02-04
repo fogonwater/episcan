@@ -1,8 +1,224 @@
 {
-  "last_updated": "2024-02-04 07:06",
-  "count_articles_total": 1035,
-  "count_articles_new": 15,
+  "last_updated": "2024-02-04 18:40",
+  "count_articles_total": 1043,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 4966,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Minist\u00e9rio da Sa\u00fade estuda ampliar oferta da vacina contra dengue",
+      "description": "A ministra da Sa\u00fade, N\u00edsia Trindade, disse neste s\u00e1bado (3) que o governo estuda ampliar a oferta de vacinas contra a dengue no pa\u00eds...",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/ministerio-da-saude-estuda-ampliar-oferta-da-vacina-contra-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/03181921/IMG_9233.webp",
+      "publishedAt": "2024-02-03 18:19:58",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, disse neste s\u00e1bado (3) que o governo estuda ampliar a oferta de vacinas contra a dengue no pa\u00eds. A informa\u00e7\u00e3o foi repassada durante a abertura do Centro de Opera\u00e7\u2026 [+3268 chars]",
+      "retrievedAt": "2024-02-04 18:40:06.400323",
+      "internal_id": "d77614bc144ba0da68f8de1a3b0e5fc99f2c25d94a40cd0ff2a91555c9167712",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4971,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Starweekly.com.au",
+      "author": "jimjin",
+      "title": "First case of mpox in Victoria for 2024 prompts warning",
+      "description": "Victoria has recorded its first locally-acquired case of mpox in almost six months, prompting a reminder for groups at highest... The post First case of mpox in Victoria for 2024 prompts warning appeared first on Northern.",
+      "url": "https://northern.starweekly.com.au/news/first-case-of-mpox-in-victoria-for-2024-prompts-warning/",
+      "urlToImage": "https://northern.starweekly.com.au/wp-content/uploads/sites/5/2024/02/vaccine_348004_01.jpg",
+      "publishedAt": "2024-02-03 18:01:37",
+      "content": "Victoria has recorded its first locally-acquired case of mpox in almost six months, prompting a reminder for groups at highest risks to be aware of the symptoms and ensure they are fully vaccinated. \u2026 [+2033 chars]",
+      "retrievedAt": "2024-02-04 18:40:07.852279",
+      "internal_id": "5ce00fe34f65ff47aa7fa9963d45ecbdd2601f08ba7cdc7ebc144c9de1ab113c",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4967,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Contaifer",
+      "title": "Saiba o que comer e quais alimentos evitar se voc\u00ea est\u00e1 com dengue",
+      "description": "Quadros leves de dengue n\u00e3o t\u00eam tratamento, mas ajuste na dieta pode estimular a produ\u00e7\u00e3o de plaquetas. As c\u00e9lulas s\u00e3o afetadas na infec\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/saude/o-que-comer-e-quais-alimentos-evitar-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/20094907/Dengue-compressed-1200x800.jpg",
+      "publishedAt": "2024-02-03 17:33:49",
+      "content": "Um dos principais efeitos da dengue no organismo \u00e9 a queda na quantidade de plaquetas, as c\u00e9lulas do sangue respons\u00e1veis pela coagula\u00e7\u00e3o se est\u00e3o muito baixas, o quadro evolui para a dengue grave (he\u2026 [+4101 chars]",
+      "retrievedAt": "2024-02-04 18:40:06.428479",
+      "internal_id": "29bed0c22ef12a1cc05882467dbd19366e50bcfa4d654624e870b30c67b22325",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4969,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Sa\u00fade em Dia",
+      "title": "Crian\u00e7as primeiro: o que se sabe sobre a vacina da dengue",
+      "description": "M\u00e9dicos explicam como funciona o esquema vacinal, qual o p\u00fablico priorit\u00e1rio do SUS e qual a efic\u00e1cia da vacina da dengue",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/criancas-primeiro-o-que-se-sabe-sobre-a-vacina-da-dengue,58317f80c10e2ab4f44c913826134081c9uls6oo.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/03/903474327-vacina-dengue.jpg",
+      "publishedAt": "2024-02-03 13:01:07",
+      "content": "Segundo o Minist\u00e9rio da Sa\u00fade, o Brasil registrou 1.094 \u00f3bitos em decorr\u00eancia da dengue em 2023. A doen\u00e7a, que ocorre de forma end\u00eamica no pa\u00eds, \u00e9 causada pelo mosquito Aedes Aegypti. E agora ganha u\u2026 [+3585 chars]",
+      "retrievedAt": "2024-02-04 18:40:06.498357",
+      "internal_id": "5c1ce85bc9a8d64ff1a5d99948a640ae13a755502d5a1a875fc5dfa2b13ca493",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4960,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Marginalrevolution.com",
+      "author": "Alex Tabarrok",
+      "title": "Vaccine Induced Social Amnesia",
+      "description": "NYT: In 2022, there were 941 reported cases of measles in the World Health Organization\u2019s European region. Over just the first 10 months of last year, according to an alarming bulletin the W.H.O. issued in mid-December, there were more than 30,000. This is th\u2026",
+      "url": "https://marginalrevolution.com/?p=87646",
+      "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2024/02/baby-measles-vaccine.jpg",
+      "publishedAt": "2024-02-03 12:17:00",
+      "content": "Source: Clinique CME NYT: In 2022, there were 941 reported cases of measles in the World Health Organizations European region. Over just the first 10 months of last year, according to an alarming bu\u2026 [+1417 chars]",
+      "retrievedAt": "2024-02-04 18:40:05.851873",
+      "internal_id": "1cf8004e2ab67a278beefe67bb969a43852df3b3ec24437ea2f89a7e190f0eb7",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4968,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Rebeca Borges",
+      "title": "Dengue: governo institui centro para coordenar a\u00e7\u00f5es contra doen\u00e7a",
+      "description": "Nas primeiras semanas de 2024, pa\u00eds registrou 217.841 casos prov\u00e1veis de dengue. Publica\u00e7\u00e3o do Centro de Opera\u00e7\u00f5es de Emerg\u00eancia saiu no DOU",
+      "url": "https://www.metropoles.com/brasil/dengue-governo-institui-centro-para-coordenar-acoes-contra-doenca",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/03/31172931/combate-dengue-arboviroses.jpg",
+      "publishedAt": "2024-02-03 12:05:09",
+      "content": "O governo federal publicou, na sexta-feira (2/2), uma portaria que institui o Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE) de Sa\u00fade P\u00fablica para Dengue e outras Arboviroses. A portaria foi publicada em e\u2026 [+1284 chars]",
+      "retrievedAt": "2024-02-04 18:40:06.451776",
+      "internal_id": "4498ef87513c1d3a0787cf1eaa1d607e9807de28f56f852c3e2601829547a87e",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4964,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KARE11.com",
+      "author": "Danny Spewak",
+      "title": "MN health officials monitoring national measles outbreaks closely",
+      "description": "The CDC has confirmed 23 measles cases since Dec. 1 across the U.S., largely among unvaccinated kids.",
+      "url": "https://www.kare11.com/article/news/local/minnesota-health-officials-watching-national-measles-outbreaks-closely/89-77d4d6ce-bb06-4283-8ee5-3fa357018630",
+      "urlToImage": "https://media.kare11.com/assets/KARE/images/597e83a1-e088-442b-b678-a97c74813a15/597e83a1-e088-442b-b678-a97c74813a15_1140x641.jpg",
+      "publishedAt": "2024-02-03 11:11:46",
+      "content": "MINNEAPOLIS Public health officials in Minnesota say they're keeping a close eye on measles outbreaks in various sections of the U.S., after the Centers for Disease Control issued an alert last week \u2026 [+3419 chars]",
+      "retrievedAt": "2024-02-04 18:40:05.915037",
+      "internal_id": "338cf72bf4379caf06ae2d40c67737c25a0d28c7885241c23f54cad66cd50f88",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4965,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Rio de Janeiro regista recorde di\u00e1rio de casos de dengue",
+      "description": "A metr\u00f3pole do Rio de Janeiro registou em janeiro um pico di\u00e1rio de 362 pessoas internadas devido a casos prov\u00e1veis de dengue, um recorde hist\u00f3rico.",
+      "url": "https://observador.pt/2024/02/03/rio-de-janeiro-regista-recorde-diario-de-casos-de-dengue/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1127%3Anowe%3A0%3A382%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F02%2F03063413%2F18281276.jpg",
+      "publishedAt": "2024-02-03 10:38:54",
+      "content": "A metr\u00f3pole do Rio de Janeiro, no sudeste do Brasil, registou em janeiro um pico di\u00e1rio de 362 pessoas internadas devido a casos prov\u00e1veis de dengue, um recorde hist\u00f3rico, disse o secret\u00e1rio municipa\u2026 [+2672 chars]",
+      "retrievedAt": "2024-02-04 18:40:06.371112",
+      "internal_id": "dd53a679c5066c4fe7f6971a3558ea660101c021d1dd44952a235a57f25d8acc",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4963,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Swiss hospitality school closes after measles outbreak",
+      "description": "ZURICH (Reuters) - Switzerland's famed hospitality management school, Ecole Hotelier de Lausanne (EHL), closed its campus in Lausanne on Saturday after cases of measles were discovered among students. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2024/02/03/swiss-hospitality-school-closes-after-measles-outbreak",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2024-02-03 10:29:00",
+      "content": "ZURICH (Reuters) - Switzerland's famed hospitality management school, Ecole Hotelier de Lausanne (EHL), closed its campus in Lausanne on Saturday after cases of measles were discovered among students\u2026 [+531 chars]",
+      "retrievedAt": "2024-02-04 18:40:05.890604",
+      "internal_id": "d1e8e13e7db29451d64ee466eab6cdc5f51c32244eebe87b24dc900da2a8b027",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4962,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Swiss hospitality school closes after measles outbreak",
+      "description": "(marketscreener.com) Switzerland's famed hospitality management school, Ecole Hotelier de Lausanne , closed its campus in Lausanne on Saturday after cases of measles were discovered among students.https://www.marketscreener.com/quote/stock/THE-ONE-GROUP-HOSPI\u2026",
+      "url": "https://www.marketscreener.com/news/latest/Swiss-hospitality-school-closes-after-measles-outbreak-45879526/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-02-03 10:18:49",
+      "content": "ZURICH (Reuters) - Switzerland's famed hospitality management school, Ecole Hotelier de Lausanne (EHL), closed its campus in Lausanne on Saturday after cases of measles were discovered among students\u2026 [+532 chars]",
+      "retrievedAt": "2024-02-04 18:40:05.882136",
+      "internal_id": "a1bc4f8aba4b74da671e0537634f9b1b261e37fbb2375dfcf663e770f81139c9",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4961,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles has exploded in Europe. Clinicians say it's only a matter of time before outbreaks hit Canada",
+      "description": "Between high rates of global travel, and low rates of vaccination, Canada is vulnerable to measles outbreaks in Europe and beyond, say medical experts.",
+      "url": "https://www.cbc.ca/news/health/measles-has-exploded-in-europe-clinicians-say-it-s-only-a-matter-of-time-before-outbreaks-hit-canada-1.7102005",
+      "urlToImage": "https://i.cbc.ca/1.7102202.1706822720!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/child-with-measles.jpg",
+      "publishedAt": "2024-02-03 09:00:00",
+      "content": "This story is part of CBC Health's Second Opinion, a weekly analysis of health and medical science news emailed to subscribers on Saturday mornings. If you haven't subscribed yet, you can do that by \u2026 [+7718 chars]",
+      "retrievedAt": "2024-02-04 18:40:05.878459",
+      "internal_id": "c4c2b404201d1496192994f895728e0a46eca6cd050a561f592e7cfed4b0ebfb",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4970,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Tom Bueno, Tom Bueno",
+      "title": "Diabetes e dengue: o que voc\u00ea precisa saber?",
+      "description": "A doen\u00e7a cr\u00f4nica aumenta o risco de desenvolver a forma mais grave da dengue, a hemorr\u00e1gica",
+      "url": "https://saude.ig.com.br/colunas/tom-bueno/2024-02-03/diabetes-e-dengue-o-que-voce-precisa-saber.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/dv/9j/hp/dv9jhp1c6cb9tr3z731ktwg7k.jpg",
+      "publishedAt": "2024-02-03 08:00:00",
+      "content": "O aumento no n\u00famero de casos de dengue no Brasil, no primeiro m\u00eas de 2024, colocou em alerta autoridades em sa\u00fade e a popula\u00e7\u00e3o com maior risco de contrair a doen\u00e7a causada pelo mosquito Aedes aegypt\u2026 [+2421 chars]",
+      "retrievedAt": "2024-02-04 18:40:06.501968",
+      "internal_id": "f78094605593b59bb72b124fd078c0e2e89edb601cd627058cbd7ad91735cb78",
+      "publishedAtLabel": "Feb 3"
+    },
     {
       "id": 4949,
       "query": [
@@ -3721,24 +3937,6 @@
       "content": "Assine VEJA por R$2,00/semana Continua ap\u00f3s publicidade Post do perfil oficial do Governo do Brasil no X (antigo Twitter) (@govbr/Twitter) Continua ap\u00f3s publicidade Horas depois de a PF cumprir m\u2026 [+882 chars]",
       "retrievedAt": "2024-01-30 19:06:00.943665",
       "internal_id": "640192d096709d0a017ef3608a759cddeb5beec4abaf9a429693647cb921cdf5",
-      "publishedAtLabel": "Jan 29"
-    },
-    {
-      "id": 4735,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Celebitchy.com",
-      "author": "Rosie",
-      "title": "Measles is spreading in the US and there\u2019s an outbreak in Europe",
-      "description": "Well, this is a bit troubling. According to the World Health Organization, the measles are making a comeback. Thanks to vaccines, the US declared the measles eliminated in 2000. However, the highly contagious virus, which can have serious complications, is on\u2026",
-      "url": "https://www.celebitchy.com/854784/measles_is_spreading_in_the_us_and_theres_an_outbreak_in_europe/",
-      "urlToImage": null,
-      "publishedAt": "2024-01-29 16:10:05",
-      "content": "Well, this is a bit troubling. According to the World Health Organization, the measles are making a comeback. Thanks to vaccines, the US declared the measles eliminated in 2000. However, the highly c\u2026 [+4221 chars]",
-      "retrievedAt": "2024-01-30 19:06:00.574971",
-      "internal_id": "bcf80fa13856730e018e056abb3c49bc64c276daf3f1c2cc0f3380897d69f90e",
       "publishedAtLabel": "Jan 29"
     },
     {
@@ -18623,60 +18821,6 @@
       "content": "Con un leve repunte de casos dedengue oficializados desde hace cinco semanas y frente a un mayor movimiento de la poblaci\u00f3n en estos d\u00edas por las fiestas de fin de a\u00f1o y el inicio de las vacaciones, \u2026 [+6809 chars]",
       "retrievedAt": "2023-12-25 19:05:54.740595",
       "internal_id": "c94a24f03b976225ca782a8e9b1255fe8fcfefdcfb9a904b41e546a707d84bef",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3926,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "OMS: seis em cada 10 pessoas com dengue no mundo s\u00e3o brasileiras",
-      "description": "Relat\u00f3rio da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) aponta que mudan\u00e7as clim\u00e1ticas est\u00e3o tornando a doen\u00e7a mais frequente",
-      "url": "https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/07180100/mosquito-dengue-foco-goiania-goias-1.jpeg",
-      "publishedAt": "2023-12-24 14:07:34",
-      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
-      "retrievedAt": "2023-12-25 19:05:54.708126",
-      "internal_id": "6ac40a477b72828c533418ea7d3439842793f4ab8d7c748d6a04536ef87670aa",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3925,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Reforma.com",
-      "author": "Grupo REFORMA.",
-      "title": "Crece dengue 325% en un a\u00f1o en M\u00e9xico",
-      "description": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%.",
-      "url": "https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308",
-      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/590/4589618.jpg&wm=1&ang=0",
-      "publishedAt": "2023-12-24 11:01:31",
-      "content": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%. Cr\u00e9dito: Archivo",
-      "retrievedAt": "2023-12-25 19:05:54.666597",
-      "internal_id": "afde3d56af0af7cf1b60c99e88794eb3c0fad5f05812fc85c352c2b0035e76ba",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3928,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "30science per Il Fatto",
-      "title": "Dal super computer al nuovo vaccino anti malaria: ecco le pi\u00f9 importanti scoperte scientifiche del 2023 secondo Science",
-      "description": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di quest\u2019anno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di calcolo pari a quella di 5 milioni di comuni pc, una veloci\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/12/14/20348553_large-1.jpg",
-      "publishedAt": "2023-12-24 08:03:22",
-      "content": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di questanno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di \u2026 [+3917 chars]",
-      "retrievedAt": "2023-12-25 19:05:55.553281",
-      "internal_id": "eadb900dbcdd461277b389ec7642f2ccd810844b34d8b5e6d6b45408ba036edb",
       "publishedAtLabel": "Dec 24"
     }
   ]
