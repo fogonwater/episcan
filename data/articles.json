@@ -1,8 +1,62 @@
 {
-  "last_updated": "2024-02-04 18:40",
-  "count_articles_total": 1043,
-  "count_articles_new": 12,
+  "last_updated": "2024-02-04 19:09",
+  "count_articles_total": 1045,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 4973,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Daniela Santos",
+      "title": "Dengue: Sa\u00fade e Anvisa ter\u00e3o a\u00e7\u00e3o para ampliar oferta de vacina",
+      "description": "Segundo a ministra da Sa\u00fade, N\u00edsia Trindade, a\u00e7\u00e3o conjunta com a Anvisa vai agilizar a an\u00e1lise de novas vacinas contra a dengue",
+      "url": "https://www.metropoles.com/brasil/dengue-saude-e-anvisa-terao-acao-para-ampliar-oferta-de-vacina",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/03/10135303/nisia-trindade-ministerio-da-saude-Fiesp-SP-1.jpg",
+      "publishedAt": "2024-02-03 19:07:12",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, afirmou, neste s\u00e1bado (3/2), que a pasta far\u00e1 a\u00e7\u00e3o conjunta com a Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) para ampliar a oferta de vacinas contra dengue\u2026 [+1924 chars]",
+      "retrievedAt": "2024-02-04 19:07:16.809775",
+      "internal_id": "2ce9402854c63d6ad05c1f52c843c7698debc5c4a7d6d6b490689c1415820c0e",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4972,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Minist\u00e9rio da Sa\u00fade cria Centro de Opera\u00e7\u00f5es Emergenciais para coordenar a\u00e7\u00f5es contra a dengue",
+      "description": "Dados da pasta indicam que, desde o in\u00edcio deste ano, o Brasil registrou 262,2 mil poss\u00edveis casos da doen\u00e7a",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/03/ministrio-da-sade-cria-centro-de-operaes-emergenciais-para-coordenar-aes-contra-a-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/bEQ2snw7r87LZvdm4QuhbkNzD3Q=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/p/t/EbxdgKRbWBXnRA3oM9rg/aedesebc.jpg",
+      "publishedAt": "2024-02-03 19:02:11",
+      "content": "O Minist\u00e9rio da Sa\u00fade deu in\u00edcio neste s\u00e1bado (3) aos trabalhos do Centro de Opera\u00e7\u00f5es de Emerg\u00eancia (COE) contra a dengue, que ser\u00e1 respons\u00e1vel pela coleta e an\u00e1lise de dados nacionais, bem como a p\u2026 [+1140 chars]",
+      "retrievedAt": "2024-02-04 19:07:16.731252",
+      "internal_id": "c5deb72815015a9de5d0613d2f9e704f744936dfdd79eb2b076d42972ae9b55f",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 4974,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Daniela Santos",
+      "title": "Dengue: \u201cN\u00e3o \u00e9 uma doen\u00e7a para ficarmos desestruturados\u201d, diz N\u00edsia",
+      "description": "In\u00edcio do ano \u00e9 marcado pelo surto de dengue no pa\u00eds. A ministra N\u00edsia Trindade participou da abertura do Centro de Emerg\u00eancia",
+      "url": "https://www.metropoles.com/brasil/dengue-nao-e-uma-doenca-para-ficarmos-desestruturados-diz-nisia",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/02133817/DF-perdeu-36-dos-agentes-contra-a-dengue-1.jpg",
+      "publishedAt": "2024-02-03 18:48:44",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, participou da abertura do Centro de Opera\u00e7\u00f5es de Emerg\u00eancias (COE Arboviroses), neste s\u00e1bado (3/2), e defendeu que o sistema p\u00fablico de sa\u00fade tem condi\u00e7\u00f5es de com\u2026 [+1704 chars]",
+      "retrievedAt": "2024-02-04 19:07:16.825037",
+      "internal_id": "bd4175ee441b5a4821ed0a1d4b7c894c67b2addc30c6bac5c46c0f4fe506cb3c",
+      "publishedAtLabel": "Feb 3"
+    },
     {
       "id": 4966,
       "query": [
@@ -18804,24 +18858,6 @@
       "retrievedAt": "2023-12-26 07:05:42.815132",
       "internal_id": "35ad73ea291d58feea1b5e5f9d13a9bd512fbdac11d9b2e00b54d19068be41c6",
       "publishedAtLabel": "Dec 25"
-    },
-    {
-      "id": 3927,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Fabiola Czubaj",
-      "title": "Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevenci\u00f3n contra el dengue",
-      "description": "Lo pide el Ministerio de Salud de la Naci\u00f3n ante la tendencia creciente de contagios locales en las \u00faltimas cinco semanas y el escenario favorable de propagaci\u00f3n con calor, lluvias y movimiento de personas por las Fiestas",
-      "url": "https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/ejemplar-de-mosquito-aedes-aegypti-el-vector-del-IHH4AMNJUBFKBBAQNJZLYLW5VM.jpg?auth=99885fd0bab1bc1eabd0ffea115655e2ee38b25c1a5bfafe3d82f76a984bdc8e&width=768&quality=70&smart=false",
-      "publishedAt": "2023-12-24 18:40:32",
-      "content": "Con un leve repunte de casos dedengue oficializados desde hace cinco semanas y frente a un mayor movimiento de la poblaci\u00f3n en estos d\u00edas por las fiestas de fin de a\u00f1o y el inicio de las vacaciones, \u2026 [+6809 chars]",
-      "retrievedAt": "2023-12-25 19:05:54.740595",
-      "internal_id": "c94a24f03b976225ca782a8e9b1255fe8fcfefdcfb9a904b41e546a707d84bef",
-      "publishedAtLabel": "Dec 24"
     }
   ]
 }

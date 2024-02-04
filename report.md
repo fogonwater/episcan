@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2024-02-04 18:40
-- **Most recent article:** 2024-02-03 18:19:58
+- **New articles in last harvest:** 3
+- **Last harvest:** 2024-02-04 19:09
+- **Most recent article:** 2024-02-03 19:07:12
 
 ---
 
@@ -12,7 +12,7 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 35 | 2 | 52 | 35 | 65 | 123 | 149 | 461 |
+| dengue | 34 | 2 | 52 | 35 | 65 | 123 | 152 | 463 |
 | malaria | 21 | 2 | 11 | 51 | 26 | 86 | 25 | 222 |
 | measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 201 |
 | zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 39 |
@@ -262,6 +262,12 @@ Source: [News API](https://newsapi.org/)
 - [Rain and rats to blame for more dogs in Singapore being infected with leptospirosis, vets say](https://www.channelnewsasia.com/singapore/leptospirosis-dogs-vets-rain-wet-weather-rats-4087371) (CNA)
 
 ## 24-5 (dengue)
+
+- [Dengue: Saúde e Anvisa terão ação para ampliar oferta de vacina](https://www.metropoles.com/brasil/dengue-saude-e-anvisa-terao-acao-para-ampliar-oferta-de-vacina) (Metropoles.com)
+
+- [Ministério da Saúde cria Centro de Operações Emergenciais para coordenar ações contra a dengue](https://valor.globo.com/brasil/noticia/2024/02/03/ministrio-da-sade-cria-centro-de-operaes-emergenciais-para-coordenar-aes-contra-a-dengue.ghtml) (Globo)
+
+- [Dengue: “Não é uma doença para ficarmos desestruturados”, diz Nísia](https://www.metropoles.com/brasil/dengue-nao-e-uma-doenca-para-ficarmos-desestruturados-diz-nisia) (Metropoles.com)
 
 - [Ministério da Saúde estuda ampliar oferta da vacina contra dengue](https://jornaldebrasilia.com.br/noticias/saude/ministerio-da-saude-estuda-ampliar-oferta-da-vacina-contra-dengue/) (Jornaldebrasilia.com.br)
 
@@ -2342,8 +2348,6 @@ Source: [News API](https://newsapi.org/)
 - [Millions Infected with Dengue as Temperature Rises](https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html) (VOA News)
 
 - [Por que casos de dengue estão se multiplicando na Europa](https://www.bbc.com/portuguese/articles/crgj2de70r5o) (BBC News)
-
-- [Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevención contra el dengue](https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/) (La Nacion)
 
 ## 23-52 (chikungunya)
 
