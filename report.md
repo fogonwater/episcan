@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-02-05 07:06
-- **Most recent article:** 2024-02-04 06:43:28
+- **New articles in last harvest:** 10
+- **Last harvest:** 2024-02-05 19:05
+- **Most recent article:** 2024-02-04 18:00:43
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 37 | 2 | 52 | 35 | 65 | 123 | 158 | 2 | 474 |
-| malaria | 22 | 2 | 11 | 51 | 26 | 86 | 25 | 1 | 224 |
-| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 4 | 205 |
+| dengue | 34 | 2 | 52 | 35 | 65 | 123 | 158 | 7 | 476 |
+| malaria | 21 | 2 | 11 | 51 | 26 | 86 | 25 | 3 | 225 |
+| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 5 | 206 |
 | zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 0 | 39 |
 | rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 1 | 37 |
 | chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 0 | 32 |
 | mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 0 | 31 |
-| meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 0 | 26 |
-| pertussis | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 1 | 18 |
+| meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 1 | 27 |
+| pertussis | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
 | typhoid | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 0 | 8 |
 | sarampión | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 0 | 7 |
 | leptospirosis | 3 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 6 |
@@ -37,9 +37,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (pertussis)
 
+- [Whooping cough outbreak in Israel; go get vaccinated!](https://www.ynetnews.com/health_science/article/rk293l69a) (Ynetnews)
+
 - [התפרצות שעלת בישראל: למה כל כך חשוב להתחסן?](https://www.ynet.co.il/health/article/hyei1nn5t) (Ynet)
 
+## 24-6 (meningitis)
+
+- [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
+
 ## 24-6 (measles)
+
+- [Death of 21 Children Due to Measles in Badakhshan: Residents Decry Lack of Health Facilities](https://8am.media/eng/death-of-21-children-due-to-measles-in-badakhshan-residents-decry-lack-of-health-facilities/) (8am.media)
 
 - [TWiV 1085: When macrophages go to alimentary school](https://www.microbe.tv/twiv/twiv-1085/) (Microbe.tv)
 
@@ -51,9 +59,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (malaria)
 
+- [Tottenham midfielder Yves Bissouma 'played with malaria' for Mali at AFCON 2023](https://www.fourfourtwo.com/news/tottenham-midfielder-yves-bissouma-played-with-malaria-for-mali-at-afcon-2023) (FourFourTwo)
+
+- [Tottenhamstjärnan spelade - trots sjukdomen](https://www.expressen.se/sport/fotboll/premier-league/tottenhamstjarnan-spelade-trots-sjukdomen/) (Expressen.se)
+
 - [iMAGING, aplicación para diagnosticar la malaria usando IA](https://wwwhatsnew.com/2024/02/04/imaging-aplicacion-para-diagnosticar-la-malaria-usando-ia/) (Wwwhatsnew.com)
 
 ## 24-6 (dengue)
+
+- [Hospital de Campanha da FAB contra dengue é montado em Ceilândia](https://www.metropoles.com/distrito-federal/hospital-de-campanha-da-fab-contra-dengue-e-montado-em-ceilandia) (Metropoles.com)
+
+- [200.000 Infektionen: Brasilien kämpft gegen rasante Ausbreitung des Denguefiebers](https://www.faz.net/aktuell/gesellschaft/gesundheit/200-000-infektionen-brasilien-kaempft-gegen-denguefieber-19495868.html) (Faz.net)
+
+- [Dengue: Ministério da Saúde estuda ampliar vacinação](https://saude.ig.com.br/2024-02-04/dengue--ministerio-da-saude-estuda-ampliar-vacinacao.html) (Ig.com.br)
+
+- [Ex-deputado cobra ministra da Saúde por emendas indicadas em 2022](https://www.metropoles.com/colunas/guilherme-amado/ex-deputado-cobra-ministra-da-saude-por-emendas-indicadas-em-2022) (Metropoles.com)
+
+- [Vacina da dengue: tudo o que você precisa saber sobre imunizante](https://olhardigital.com.br/2024/02/04/medicina-e-saude/vacina-da-dengue-tudo-o-que-voce-precisa-saber-sobre-imunizante/) (Olhardigital.com.br)
 
 - [Julio Croda: “Tendência é que o aumento da dengue continue até abril”](https://www.metropoles.com/saude/julio-croda-aumento-dengue-abril) (Metropoles.com)
 
@@ -2315,8 +2337,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Of love letters and distant galaxies: Uplifting stories from 2023](https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023) (FRANCE 24 English)
 
-- [Dal super computer al nuovo vaccino anti malaria: ecco le più importanti scoperte scientifiche del 2023 secondo Science](https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/) (Ilfattoquotidiano.it)
-
 ## 23-52 (leptospirosis)
 
 - [Conoce las enfermedades que golpearon a Cartagena en 2023](https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851) (Eluniversal.com.co)
@@ -2394,12 +2414,6 @@ Source: [News API](https://newsapi.org/)
 - [Millions Infected with Dengue as Temperature Rises](https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html) (VOA News)
 
 - [Por que casos de dengue estão se multiplicando na Europa](https://www.bbc.com/portuguese/articles/crgj2de70r5o) (BBC News)
-
-- [Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevención contra el dengue](https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/) (La Nacion)
-
-- [OMS: seis em cada 10 pessoas com dengue no mundo são brasileiras](https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio) (Metropoles.com)
-
-- [Crece dengue 325% en un año en México](https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308) (Reforma.com)
 
 ## 23-52 (chikungunya)
 
