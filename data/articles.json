@@ -1,8 +1,710 @@
 {
-  "last_updated": "2024-02-06 07:05",
-  "count_articles_total": 1106,
-  "count_articles_new": 30,
+  "last_updated": "2024-02-06 19:05",
+  "count_articles_total": 1141,
+  "count_articles_new": 39,
   "articles": [
+    {
+      "id": 5058,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "EL\u00c9ONORE HUGHES Associated Press",
+      "title": "Rio de Janeiro has declared a dengue health emergency days before Carnival is due to start",
+      "description": "Rio de Janeiro city authorities have declared a public health emergency in the city because of an outbreak of mosquito-borne dengue fever",
+      "url": "https://abcnews.go.com/Business/wireStory/rio-de-janeiro-declared-dengue-health-emergency-days-106963806",
+      "urlToImage": "https://i.abcnewsfe.com/a/f4909a73-c67d-408d-88a2-5c9caf8aa0b2/wirestory_8ed7cc1e4aade9fe9f8682b02b0ff967_16x9.jpg?w=1600",
+      "publishedAt": "2024-02-05 18:38:47",
+      "content": "RIO DE JANEIRO -- Rio de Janeiro has declared a public health emergency because of an outbreak of mosquito-borne dengue fever, the city said in its official gazette on Monday, just days before Carniv\u2026 [+2738 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.483100",
+      "internal_id": "cd0966065f9ed16bf6a08de8f35a67d5e68f318197c21ee5a6fdb829dc857c5b",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5047,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "EL\u00c9ONORE HUGHES Associated Press",
+      "title": "Rio de Janeiro has declared a dengue health emergency days before Carnival is due to start",
+      "description": "Rio de Janeiro city authorities have declared a public health emergency in the city because of an outbreak of mosquito-borne dengue fever",
+      "url": "https://abcnews.go.com/Entertainment/wireStory/rio-de-janeiro-declared-dengue-health-emergency-days-106963805",
+      "urlToImage": "https://i.abcnewsfe.com/a/f4909a73-c67d-408d-88a2-5c9caf8aa0b2/wirestory_8ed7cc1e4aade9fe9f8682b02b0ff967_16x9.jpg?w=1600",
+      "publishedAt": "2024-02-05 18:38:42",
+      "content": "RIO DE JANEIRO -- Rio de Janeiro has declared a public health emergency because of an outbreak of mosquito-borne dengue fever, the city said in its official gazette on Monday, just days before Carniv\u2026 [+2738 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.379411",
+      "internal_id": "75bd4084a88ca5b7f3b50856469a06548769318ae408e539584a7a4fb7eb8f47",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5044,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "EL\u00c9ONORE HUGHES Associated Press",
+      "title": "Rio de Janeiro has declared a dengue health emergency days before Carnival is due to start",
+      "description": "Rio de Janeiro city authorities have declared a public health emergency in the city because of an outbreak of mosquito-borne dengue fever",
+      "url": "https://abcnews.go.com/Health/wireStory/rio-de-janeiro-declared-dengue-health-emergency-days-106963804",
+      "urlToImage": "https://i.abcnewsfe.com/a/f4909a73-c67d-408d-88a2-5c9caf8aa0b2/wirestory_8ed7cc1e4aade9fe9f8682b02b0ff967_16x9.jpg?w=1600",
+      "publishedAt": "2024-02-05 18:38:37",
+      "content": "RIO DE JANEIRO -- Rio de Janeiro has declared a public health emergency because of an outbreak of mosquito-borne dengue fever, the city said in its official gazette on Monday, just days before Carniv\u2026 [+2738 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.353332",
+      "internal_id": "5e5108b6f2b0b8d08689368bac32a391f5a83ea9a361c6e572d7b2b9fe8c213a",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5063,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknewsbr.com.br",
+      "author": "Sputnik Brasil",
+      "title": "Com mais de 260 mil casos e 29 mortes, dengue avan\u00e7a no Brasil e faz 3 estados decretarem emerg\u00eancia",
+      "description": "Acre, Minas Gerais e Goi\u00e1s decretam estado de emerg\u00eancia, al\u00e9m do Distrito Federal e da cidade do Rio de Janeiro.",
+      "url": "https://sputniknewsbr.com.br/20240205/com-mais-de-260-mil-casos-e-29-mortes-dengue-avanca-no-brasil-e-faz-3-estados-decretarem-emergencia-32902826.html",
+      "urlToImage": "https://cdn1.sputniknewsbr.com.br/images/sharing/article/por/32902826.jpg?329031611707158066",
+      "publishedAt": "2024-02-05 18:34:25",
+      "content": "Not\u00edcias sobre pol\u00edtica, economia e sociedade do Brasil. Entrevistas e an\u00e1lises de especialistas sobre assuntos que importam ao pa\u00eds. https://sputniknewsbr.com.br/20240205/com-mais-de-260-mil-casos-\u2026 [+4098 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.519227",
+      "internal_id": "7ba9f16d619fbf8a125c573f22efdbaaa59eeae321aae43099099b9b61f12706",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5043,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "EL\u00c9ONORE HUGHES Associated Press",
+      "title": "Rio de Janeiro has declared a dengue health emergency days before Carnival is due to start",
+      "description": "Rio de Janeiro city authorities have declared a public health emergency in the city because of an outbreak of mosquito-borne dengue fever",
+      "url": "https://abcnews.go.com/International/wireStory/rio-de-janeiro-declared-dengue-health-emergency-days-106963803",
+      "urlToImage": "https://i.abcnewsfe.com/a/f4909a73-c67d-408d-88a2-5c9caf8aa0b2/wirestory_8ed7cc1e4aade9fe9f8682b02b0ff967_16x9.jpg?w=1600",
+      "publishedAt": "2024-02-05 18:30:48",
+      "content": "RIO DE JANEIRO -- Rio de Janeiro has declared a public health emergency because of an outbreak of mosquito-borne dengue fever, the city said in its official gazette on Monday, just days before Carniv\u2026 [+2738 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.349379",
+      "internal_id": "15398cf8be929b8a288e560613ad497d4a0928898d6d16d6fbd667d881b3db92",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5048,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "DF: pacientes com dengue enfrentam filas e superlota\u00e7\u00e3o em UPAs e UBSs",
+      "description": "Fam\u00edlias buscaram socorro no Hospital de Campanha da For\u00e7a A\u00e9rea Brasileira, inaugurado nesta segunda-feira (5/2), em Ceil\u00e2ndia",
+      "url": "https://www.metropoles.com/distrito-federal/df-pacientes-com-dengue-enfrentam-filas-e-superlotacao-em-upas-e-ubss",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/05141012/pacientes-enfrentam-dificuldade-para-tratamento-de-dengue-no-DF.jpeg",
+      "publishedAt": "2024-02-05 18:02:27",
+      "content": "Os primeiros pacientes que foram atendidos no rec\u00e9m-inaugurado Hospital de Campanha (HCamp) da For\u00e7a A\u00e9rea Brasileira (FAB), nesta segunda-feira (5/2), relataram dificuldade para conseguir atendiment\u2026 [+3632 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.390776",
+      "internal_id": "986f9964d3b1a51e4a4be7bd684d8a01d5083b231a3b18567a9fb300956475e2",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5062,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "La vacuna brasile\u00f1a contra el dengue tiene una eficacia del 79,6 %, seg\u00fan estudio",
+      "description": "La efectividad aumenta a 89,2 % entre los que ya contrajeron la enfermedad.",
+      "url": "https://www.montevideo.com.uy/Salud/La-vacuna-brasilena-contra-el-dengue-tiene-una-eficacia-del-79-6--segun-estudio-uc878775",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201702/_W933_80/602597.jpg",
+      "publishedAt": "2024-02-05 17:12:00",
+      "content": "La vacuna brasile\u00f1a contra el dengue que se encuentra en una fase 3 de ensayos cl\u00ednicos tiene una eficacia general del 79,6 % a los dos a\u00f1os de la inyecci\u00f3n, seg\u00fan un estudio publicado este mi\u00e9rco\u2026 [+1656 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.509941",
+      "internal_id": "0e72ceabff92d095d23419c02c1f81f6fe1ca6d48c753ca9c8984069f34e6c88",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5036,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WCPO",
+      "author": "Felicia Jordan",
+      "title": "Ohio Department of Health warns of measles exposure at CVG in January",
+      "description": "There may have been a measles exposure at CVG over a weekend in January, according to Ohio Health Department officials.",
+      "url": "https://www.wcpo.com/news/local-news/ohio-department-of-health-warns-of-measles-exposure-at-cvg-during-january-weekend",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/4e9b1bd/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.wcpo.com%2Fsharescnn%2Fphoto%2F2015%2F01%2F29%2FMeasles-Rash_1422549451629_12864105_ver1.0_640_480.jpg",
+      "publishedAt": "2024-02-05 16:25:44",
+      "content": "HEBRON, Ohio There may have been a measles exposure at CVG over a weekend in January, according to Ohio Health Department officials. According to ODH, it's possible people traveling through CVG cou\u2026 [+1771 chars]",
+      "retrievedAt": "2024-02-06 19:05:47.680331",
+      "internal_id": "05ca05c2e88eda77342790dcc77344463ad99c9508ffd4211b1a447dce11b9b5",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5038,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cleveland 19 News",
+      "author": "Julia Bingel",
+      "title": "Travelers may have been exposed to measles at Ohio airport, says department of health director",
+      "description": "People who are not vaccinated should be very careful in watching for any signs or symptoms, because measles is extremely contagious, said Dr. Vanderhoff.",
+      "url": "https://www.cleveland19.com/2024/02/05/travelers-may-have-been-exposed-measles-ohio-airport-says-department-health-director/",
+      "urlToImage": "https://gray-woio-prod.cdn.arcpublishing.com/resizer/v2/XWY7ORE62RBUJMXGPYY2JG4X2A.PNG?auth=676dd78e949f84a17d1439a7beae3a8b0b17472309632184968e610c980810f5&width=1200&height=600&smart=true",
+      "publishedAt": "2024-02-05 16:25:34",
+      "content": "CLEVELAND, Ohio (WOIO) - The Ohio Department of Health (ODH) director is warning travelers they may have been exposed to measles in Terminal A of the Cincinnati/Northern Kentucky International Airpor\u2026 [+900 chars]",
+      "retrievedAt": "2024-02-06 19:05:47.702349",
+      "internal_id": "70b78f8827a554783bb2fb33b3278938be123adb8fd5d7db77513028314655f5",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5046,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thaiz Brito",
+      "title": "Entenda como a alimenta\u00e7\u00e3o pode agravar ou melhorar sintomas da dengue",
+      "description": "Uma dieta balanceada e com os alimentos certos, ricos em nutrientes, \u00e9 fundamental para tratar quadros de dengue. Confira!",
+      "url": "https://www.metropoles.com/vida-e-estilo/entenda-como-a-alimentacao-pode-agravar-ou-melhorar-sintomas-da-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/05131605/profisisonal-da-saude-segurando-uma-bandeija-com-alimentos.jpg",
+      "publishedAt": "2024-02-05 16:24:00",
+      "content": "A infec\u00e7\u00e3o por dengue foi respons\u00e1vel pelo decreto de situa\u00e7\u00e3o de emerg\u00eancia em pelo menos cinco unidades federativas do Brasil. Acre, Distrito Federal, Goi\u00e1s, Minas Gerais, algumas cidades do Mato G\u2026 [+6143 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.370828",
+      "internal_id": "0a89a06646e20eabd5d177c5a46e1fb4e6dd3c726ba4721130756092ef1091fe",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5051,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "An\u00e1polis: prefeitura e empresas se juntam no combate \u00e0 dengue",
+      "description": "Encontro fortaleceu a parceria com a gest\u00e3o municipal e alinhou as estrat\u00e9gias para o enfrentamento ao Aedes aegypti no munic\u00edpio",
+      "url": "https://www.metropoles.com/brasil/anapolis-prefeitura-e-empresas-se-juntam-no-combate-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/20094907/Dengue-compressed-1200x800.jpg",
+      "publishedAt": "2024-02-05 16:16:13",
+      "content": "Goi\u00e2nia No munic\u00edpio de An\u00e1polis, a cerca de 55 km da capital goiana, entidades, empresas e a gest\u00e3o municipal se uniram no combate \u00e0 dengue. Na sexta-feira (2/2), o prefeito Roberto Naves, al\u00e9m de o\u2026 [+5345 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.430363",
+      "internal_id": "1e9eb88d6703008cd30e9e03824db654d3c43c9bad6d536d49099175545e7900",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5039,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLWT Cincinnati",
+      "author": "Fletcher Keel",
+      "title": "Ohio health officials warn of potential measles exposure at CVG",
+      "description": "The Ohio Department of Health says passengers at Cincinnati/Northern Kentucky International Airport may have been exposed to measles last week.",
+      "url": "https://www.wlwt.com/article/ohio-measles-cincinnati-exposure-cvg-montgomery-county/46648780",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cvg-travel-6585038c5cb29.png?crop=1.00xw:0.991xh;0,0&resize=1200:*",
+      "publishedAt": "2024-02-05 16:04:36",
+      "content": "HEBRON, Ky. \u2014The Ohio Department of Health says passengers at Cincinnati/Northern Kentucky International Airport may have been exposed to measles last week. ODH says passengers in Terminal A at CVG \u2026 [+1238 chars]",
+      "retrievedAt": "2024-02-06 19:05:47.707038",
+      "internal_id": "2d35f4bf430a9bf07b7c8b9c4a4d3c33d277a3294477e98bb591817c5050f17e",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5054,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Juliana Barbosa",
+      "title": "Ana Maria Braga diz que filho est\u00e1 com dengue e alerta: \u201cPode morrer\u201d",
+      "description": "Ana Maria Braga deu mais detalhes sobre o estado de sa\u00fade de Pedro Jos\u00e9, e alertou os espectadores sobre a doen\u00e7a",
+      "url": "https://www.metropoles.com/entretenimento/televisao/ana-maria-braga-diz-que-filho-esta-com-dengue-e-alerta-pode-morrer",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/06/01144512/Ana-Maria-Braga-58.jpg",
+      "publishedAt": "2024-02-05 16:01:59",
+      "content": "Durante o Mais Voc\u00ea desta segunda-feira (5/2), Ana Maria Braga revelou que o filho, Pedro Maffei, contraiu dengue. Ao menos cinco unidades federativas decretaram situa\u00e7\u00e3o de emerg\u00eancia em raz\u00e3o do au\u2026 [+6118 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.459206",
+      "internal_id": "8e72fc08a5626ee3c0e83af83d7e550e1bcba607c5ac0df0515679b36dcb1341",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5060,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "Mortes por dengue sobem para 11 e casos chegam a 46 mil no DF",
+      "description": "N\u00fameros foram informados pelo governador Ibaneis Rocha, que afirmou que a situa\u00e7\u00e3o na sa\u00fade no DF \u00e9 de emerg\u00eancia",
+      "url": "https://www.metropoles.com/colunas/grande-angular/mortes-por-dengue-sobem-para-11-e-casos-chegam-a-46-mil-diz-ibaneis",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/02095934/visita-a-UPA-explosao-de-casos-de-dengue.jpg",
+      "publishedAt": "2024-02-05 16:00:38",
+      "content": "O governador Ibaneis Rocha (MDB) disse, no in\u00edcio da tarde desta segunda-feira (5/2), que o n\u00famero de mortes confirmadas por dengue subiu para 11 no Distrito Federal. Em 2024, at\u00e9 o momento, foram no\u2026 [+1404 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.499457",
+      "internal_id": "7037ffe545a12fe603591871d2c7fe778f42cab206d0b5812aff4372bd730197",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5055,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Una nueva vacuna contra el dengue protege al 80% de los vacunados",
+      "description": "Una vacuna monodosis contra el dengue producida por el Instituto Butantan del estado de S\u00e3o Paulo (Brasil) previene el desarrollo de la enfermedad en el 80 por ciento de los vacunados, seg\u00fan un art\u00edculo publicado en 'The New England Journal of Medicine'.",
+      "url": "https://www.infosalus.com/asistencia/noticia-nueva-vacuna-contra-dengue-protege-80-vacunados-20240205164918.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240205164918_1200.jpg",
+      "publishedAt": "2024-02-05 15:49:18",
+      "content": "MADRID, 5 Feb. (EUROPA PRESS) - Una vacuna monodosis contra el dengue producida por el Instituto Butantan del estado de S\u00e3o Paulo (Brasil) previene el desarrollo de la enfermedad en el 80 por cien\u2026 [+5194 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.468493",
+      "internal_id": "4a121c519213fd3ae771f768011ff6bc09b45a242275129ce3bd1cace9bd6389",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5033,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Brandy Zadrozny",
+      "title": "How the anti-vaccine movement is downplaying the danger of measles",
+      "description": "Anti-vaccine activists have reacted to worldwide measles outbreaks by spreading misinformation about the disease, falsely saying it's not dangerous.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-outbreaks-anti-vaccine-misinformation-rcna136994",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240202-measles-vaccine-misinformation-anti-vaxx-cs-b45eb5.jpg",
+      "publishedAt": "2024-02-05 15:36:29",
+      "content": "As outbreaks of measles spread throughout the world, anti-vaccine activists arent just urging people not to get vaccinated theyre taking a page from a well-worn playbook, falsely downplaying the dang\u2026 [+8598 chars]",
+      "retrievedAt": "2024-02-06 19:05:47.635876",
+      "internal_id": "a9d131a49a17381b57dc02944d15b598f51dd7916627f6ec95de9b901b700c4c",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5037,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLWT Cincinnati",
+      "author": "Fletcher Keel",
+      "title": "Dayton health officials say measles case reported, warn others may have been exposed",
+      "description": "Health officials in Montgomery County say they have identified a measles case in a resident and are warning that others may have been exposed last week.",
+      "url": "https://www.wlwt.com/article/montgomery-county-ohio-measles-case-reported-exposure/46648153",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/dayton-montgomery-county-public-health-65c0fd5c1df92.png?crop=1.00xw:0.635xh;0,0.158xh&resize=1200:*",
+      "publishedAt": "2024-02-05 15:35:14",
+      "content": "MONTGOMERY COUNTY, Ohio \u2014Health officials in Montgomery County say they have identified a measles case in a resident and are warning that others may have been exposed last week. In a release on the \u2026 [+1741 chars]",
+      "retrievedAt": "2024-02-06 19:05:47.694950",
+      "internal_id": "0338a19fd285269e07f2f6fd8ffb0082a60fc45e5ea94b6f708c9c6d1e0008b9",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5061,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.lat",
+      "author": "Sputnik Mundo",
+      "title": "R\u00edo de Janeiro declara situaci\u00f3n de emergencia por aumento de casos de dengue",
+      "description": "R\u00cdO DE JANEIRO (Sputnik) \u2014 La ciudad brasile\u00f1a de R\u00edo de Janeiro (sureste) declar\u00f3 el estado de emergencia debido al aumento de casos de dengue en las \u00faltimas semanas.",
+      "url": "https://sputniknews.lat/20240205/rio-de-janeiro-declara-situacion-de-emergencia-por-aumento-de-casos-de-dengue-1148003225.html",
+      "urlToImage": "https://cdn2.img.sputniknews.lat/images/sharing/article/spa/1148003225.jpg?10363554661707145921",
+      "publishedAt": "2024-02-05 15:12:00",
+      "content": "Suscr\u00edbete a nuestros canales de Telegram a trav\u00e9s de estosenlaces. Ya que la aplicaci\u00f3n Sputnik est\u00e1 bloqueada en el extranjero, en este enlace puedes descargarla e instalarla en tu dispositivo m\u00f3v\u2026 [+78 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.505527",
+      "internal_id": "1dba230aa882a585c2ec4873d2d3d97e23790164f95ee5277b933eda24fdea2d",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5042,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Rio de Janeiro decreta estado de emerg\u00eancia em sa\u00fade por causa da dengue",
+      "description": "Cidade vive uma epidemia de dengue: janeiro registou 10.156 casos, batendo um recorde de internamentos. Cerca de 500 cidades v\u00e3o receber a vacina contra o v\u00edrus.",
+      "url": "https://observador.pt/2024/02/05/rio-de-janeiro-decreta-estado-de-emergencia-em-saude-por-causa-da-dengue/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A18%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F02%2F05140122%2F20255484.jpg",
+      "publishedAt": "2024-02-05 14:58:18",
+      "content": "As autoridades do Rio de Janeiro, a segunda cidade mais populosa do Brasil, decretaram, esta segunda-feira, o estado de emerg\u00eancia em sa\u00fade p\u00fablica devido ao r\u00e1pido aumento de casos de dengue, segund\u2026 [+2018 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.340658",
+      "internal_id": "c598135669fa783175da0d1e583aea57b5148ff6e05fe84179b5d4a29c1a2ac2",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5069,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Valneva: Oddo BHF confirms its recommendation on the stock",
+      "description": "(marketscreener.com) Oddo BHF maintains its 'outperform' rating on Valneva shares, with an unchanged target price of 12 euros. Valneva has announced the sale for $103 million of the Priority Review Voucher it obtained from the FDA when Ixchiq, its chikungunya\u2026",
+      "url": "https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Oddo-BHF-confirms-its-recommendation-on-the-stock-45885054/",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2024-02-05 14:54:06",
+      "content": "Oddo BHF maintains its 'outperform' rating on Valneva shares, with an unchanged target price of 12 euros. Valneva has announced the sale for $103 million of the Priority Review Voucher (PRV) it obtai\u2026 [+1056 chars]",
+      "retrievedAt": "2024-02-06 19:05:49.359208",
+      "internal_id": "171364c6209910cb1867e9c7e20be4dfc14c00f9bbc9c8bc95e9d6ab27d2a1bf",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5053,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "Combate \u00e0 dengue: \u201cA gente precisa do apoio de todo mundo\u201d, diz Celina",
+      "description": "Vice-governadora do Distrito Federal, Celina Le\u00e3o (PP), acompanhou na manh\u00e3 desta segunda o in\u00edcio da for\u00e7a-tarefa de combate \u00e0 dengue",
+      "url": "https://www.metropoles.com/distrito-federal/combate-a-dengue-a-gente-precisa-do-apoio-de-todo-mundo-diz-celina",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/05114659/DFLegal-dengue.jpg",
+      "publishedAt": "2024-02-05 14:48:49",
+      "content": "A vice-governadora do Distrito Federal, Celina Le\u00e3o (PP), acompanhou na manh\u00e3 desta segunda-feira (5/2) o in\u00edcio da for\u00e7a-tarefa de combate \u00e0 dengue, no Setor H Norte, em Taguatinga. O local \u00e9 consid\u2026 [+2454 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.450714",
+      "internal_id": "651b8775c16b1133c8b6112a436a362b9b07efa27e1943d1c0c4a737f91ea5a1",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5050,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Jornal i,",
+      "title": "Brasil. Rio de Janeiro em estado de emerg\u00eancia devido \u00e0 dengue",
+      "description": "O Brasil prev\u00ea receber at\u00e9 6,2 milh\u00f5es de doses de uma vacina japonesa contra a dengue em 2024, contudo, por se tratar de uma vacina\u00e7\u00e3o que requer duas doses da vacina, o valor encomendado apenas imuniza 3,1 milh\u00f5es de pessoas, sendo insuficiente para enfrent\u2026",
+      "url": "https://ionline.sapo.pt/artigo/810542/brasil-rio-de-janeiro-em-estado-de-emerg-ncia-devido-a-dengue?seccao=Mundo_i",
+      "urlToImage": "https://cdn1.newsplex.pt/media/2024/2/5/fb/863396.jpg",
+      "publishedAt": "2024-02-05 14:46:00",
+      "content": "No Rio de Janeiro, a segunda cidade mais populosa do Brasil, foram registados, de acordo com dados da Secretaria Municipal de Sa\u00fade, apenas no m\u00eas de janeiro, 10.156 ocorr\u00eancias de casos de dengue, q\u2026 [+1759 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.423718",
+      "internal_id": "57117c4d0511391da4839a13ad0146c193927634e7c3b076d62888ebb431e302",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5059,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Saiba quem era a adolescente de 16 anos que morreu de dengue em Goi\u00e1s",
+      "description": "Adolescente teve o quadro de sa\u00fade agravado pela diabetes; Fernanda Ferreira Martins morreu no \u00faltimo s\u00e1bado (3/2), em Urua\u00e7u (GO)",
+      "url": "https://www.metropoles.com/brasil/saiba-quem-era-a-adolescente-de-16-anos-que-morreu-de-dengue-em-goias",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/05105850/fernanda-morre-dengue-goias-1.jpeg",
+      "publishedAt": "2024-02-05 14:07:04",
+      "content": "Goi\u00e2nia Goi\u00e1s decretou situa\u00e7\u00e3o de emerg\u00eancia em decorr\u00eancia do aumento dos casos de dengue. O estado atingiu, por quatro semanas epidemiol\u00f3gicas consecutivas, a taxa de incid\u00eancia de casos suspeitos\u2026 [+1976 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.491465",
+      "internal_id": "3f2e4c1999cdb4af4d965b08c88fdccce0f1efefbd48c4c63bc96bfc898defe2",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5032,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Tenzin Tenzin, Emmanuel H. Hikufe, Nehemia Hedimbi, Rauna Athingo, Mainelo Beatrice Shikongo, Thompson Shuro, Johannes Iipinge, Nelson Herman, Matias Naunyango, Frenada Haufiku, Josephat Peter, Laina Hango, Sara Gottlieb, Kenneth Shoombe, Nicolai Denzin, Frank Busch, Frederic Lohr, Moetapele Letshwenyo, Gregorio Torres, Conrad M. Freuling, Thomas M\u00fcller, Albertina Shilongo",
+      "title": "Dog ecology and rabies knowledge, attitude and practice (KAP) in the Northern Communal Areas of Namibia",
+      "description": "Author summary As a neglected disease, rabies remains a major problem in Africa and Asia. Here we report the results of an extensive community survey on dog ownership and knowledge, attitudes and practices (KAP) related to rabies control and prevention, cover\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011631",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011631.g008&size=inline",
+      "publishedAt": "2024-02-05 14:00:00",
+      "content": "Citation: Tenzin T, Hikufe EH, Hedimbi N, Athingo R, Shikongo MB, Shuro T, et al. (2024) Dog ecology and rabies knowledge, attitude and practice (KAP) in the Northern Communal Areas of Namibia. PLoS \u2026 [+41456 chars]",
+      "retrievedAt": "2024-02-06 19:05:47.421183",
+      "internal_id": "06ba06ef7708b03349d3ff1285256ba375c426809007dd0fabc0f98a5a2d80d1",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5034,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Tobias Laue, Norman Junge, Christoph Leiskau, Frauke Mutschler, Johanna Ohlendorf, Ulrich Baumann",
+      "title": "Diminished measles immunity after paediatric liver transplantation\u2014A retrospective, single-centre, cross-sectional analysis",
+      "description": "Liver transplantation in childhood has an excellent long-term outcome, but is associated with a long-term risk of infection. Measles is a vaccine-preventable infection, with case series describing severe courses with graft rejection, mechanical ventilation an\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296653",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0296653.g005&size=inline",
+      "publishedAt": "2024-02-05 14:00:00",
+      "content": "Citation: Laue T, Junge N, Leiskau C, Mutschler F, Ohlendorf J, Baumann U (2024) Diminished measles immunity after paediatric liver transplantationA retrospective, single-centre, cross-sectional anal\u2026 [+38382 chars]",
+      "retrievedAt": "2024-02-06 19:05:47.642273",
+      "internal_id": "a4d4ae34346549138425d77b93e15483ba34826dd288be29ee56197de6148dc7",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5068,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nadine R. King, Catarina Martins Freire, Jawida Touhami, Marc Sitbon, Ashley M. Toye, Timothy J. Satchwell",
+      "title": "Basigin mediation of Plasmodium falciparum red blood cell invasion does not require its transmembrane domain or interaction with monocarboxylate transporter 1",
+      "description": "Author summary Malaria is caused by invasion of red blood cells by Plasmodium parasites. Invasion by Plasmodium falciparum is reliant on an interaction between parasite PfRh5 and host cell basigin. The reasons why basigin specifically is targeted and exploite\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011989",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011989.g004&size=inline",
+      "publishedAt": "2024-02-05 14:00:00",
+      "content": "Abstract Plasmodium falciparum invasion of the red blood cell is reliant upon the essential interaction of PfRh5 with the host receptor protein basigin. Basigin exists as part of one or more multipr\u2026 [+47815 chars]",
+      "retrievedAt": "2024-02-06 19:05:49.003452",
+      "internal_id": "e44007fad5785081b9e24534b370f4a6bd1bf9346ad429d5ef6131dcf6b71ec6",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5056,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "Dengue no DF: Hospital de Campanha da FAB \u00e9 inaugurado em Ceil\u00e2ndia",
+      "description": "Com a estimativa de realizar 600 atendimentos por dia, a unidade est\u00e1 instalada ao lado da UPA I de Ceil\u00e2ndia, no Setor P Norte",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-no-df-hospital-de-campanha-da-fab-e-inaugurado-no-df-fotos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/05095648/Foto-hospital-de-campanha-5.jpeg",
+      "publishedAt": "2024-02-05 13:15:57",
+      "content": "O Hospital de Campanha (HCAMP) da For\u00e7a A\u00e9rea Brasileira (FAB) come\u00e7ou a funcionar na manh\u00e3 desta segunda-feira (5/2), no Distrito Federal. Com a estimativa de realizar 600 atendimentos por dia, a u\u2026 [+4905 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.472983",
+      "internal_id": "57fcfec1f3766b267af0efbaf7ef82ba621d21f9b729746990c79743fea6d51b",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5040,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Govt receives 6 million doses of measles and rubella vaccines from GAVI",
+      "description": "KATHMANDU: The government has recently acquired 6 million 50 thousand doses of vaccines designed to combat measles and rubella. Dr. Abhiyan Gautam, Chief of the Child Health and Vaccination Section at the Department of Health Services, has confirmed the arriv\u2026",
+      "url": "https://english.khabarhub.com/2024/05/339173/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2020/02/dadura-rubela.jpg",
+      "publishedAt": "2024-02-05 13:15:50",
+      "content": "Image for Representation.KATHMANDU: The government has recently acquired 6 million 50 thousand doses of vaccines designed to combat measles and rubella. Dr. Abhiyan Gautam, Chief of the Child Health\u2026 [+1430 chars]",
+      "retrievedAt": "2024-02-06 19:05:47.711253",
+      "internal_id": "0a45325249e7e710a4cd381b4bf0774b75498a83c9d20692ed4ad4153b1c62d2",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5066,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Coppa d\u2019Africa, due giocatori del Mali in campo con la malaria. Bassetti: \u201cPerch\u00e9 \u00e8 possibile\u201d",
+      "description": "\u201cPer chi vive stabilmente in Africa la malaria pu\u00f2 essere anche una malattia per cui si \u00e8 \u2018semi-immune\u2019, fondamentalmente la possono fare anche pi\u00f9 volte e clinicamente pu\u00f2 non dare forme cos\u00ec gravi\u201d. Matteo Bassetti, direttore Malattie infettive dell\u2019ospedal\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/02/05/coppa-dafrica-due-giocatori-del-mali-in-campo-con-la-malaria-bassetti-perche-e-possibile/7434193/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/02/05/mali-malaria.jpg",
+      "publishedAt": "2024-02-05 13:13:15",
+      "content": "\u201cPer chi vive stabilmente in Africa la malaria pu\u00f2 essere anche una malattia per cui si \u00e8 \u2018semi-immune\u2019, fondamentalmente la possono fare anche pi\u00f9 volte e clinicamente pu\u00f2 non dare forme cos\u00ec gravi\u201d\u2026 [+1770 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.962257",
+      "internal_id": "55d5c83efc1b8dd42d6f033347ec70eeaf867836b06368f00a5b80fd4a1efb2e",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5045,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Dengue: dia tem reuni\u00e3o da Sa\u00fade com governadores e Lula com OMS",
+      "description": "Reuni\u00f5es acontecem nesta segunda-feira (5/2). Encontros acontecem em meio a explos\u00e3o de casos de dengue no pa\u00eds",
+      "url": "https://www.metropoles.com/brasil/dengue-dia-tem-reuniao-de-saude-com-governadores-e-lula-com-oms",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/29155120/DF-e-prioridade-para-vacinacao-contra-Dengue-1.jpg",
+      "publishedAt": "2024-02-05 13:03:39",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, deve se reunir nesta segunda-feira (5/2) com governadores para discutir o combate \u00e0 dengue. Por enquanto, a pasta nega que haja uma epidemia nacional da doen\u00e7a, p\u2026 [+4271 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.359565",
+      "internal_id": "ddff6e523a5168e628332a26fb7ba7fd3bf654b3a7f579d0aa5e3fb503d8dbd5",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5052,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Francisco Dutra",
+      "title": "Dengue: veja rota do fumac\u00ea nesta segunda-feira (5/2) no DF",
+      "description": "Ve\u00edculo passar\u00e1 em diversos pontos do DF para combater o avan\u00e7o do mosquito Aedes aegypti, transmissor da dengue e de outras doen\u00e7as",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-veja-rota-do-fumace-nesta-segunda-feira-5-2-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/05090639/veja-rota-do-fumace.jpg",
+      "publishedAt": "2024-02-05 12:18:39",
+      "content": "O Governo do Distrito Federal (GDF) divulgou as rotas do carro da fumac\u00ea para frear o avan\u00e7o do mosquito Aedes aegypti, transmissor da dengue, nesta segunda-feira (5/2). Veja: DF \u00e9 uma das unidades\u2026 [+862 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.446606",
+      "internal_id": "cc61cb9413b32e7d4d9bded09805cadcf2c5c99c494d7546646adc377896afb0",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5035,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cleveland 19 News",
+      "author": "Noelle Haynes",
+      "title": "Health department reports first 2024 measles case in Ohio",
+      "description": "The ODH does not know of any additional cases of the measles, according to a press release.",
+      "url": "https://www.cleveland19.com/2024/02/05/health-department-reports-first-2024-measles-case-ohio/",
+      "urlToImage": "https://gray-woio-prod.cdn.arcpublishing.com/resizer/v2/XWY7ORE62RBUJMXGPYY2JG4X2A.PNG?auth=676dd78e949f84a17d1439a7beae3a8b0b17472309632184968e610c980810f5&width=1200&height=600&smart=true",
+      "publishedAt": "2024-02-05 11:31:32",
+      "content": "CLEVELAND, Ohio (WOIO) - The Ohio Department of Health (ODH) reported the first measles case of 2024 in Ohio Saturday. Dayton &amp; Montgomery Public Health says the case was discovered at Dayton Ch\u2026 [+687 chars]",
+      "retrievedAt": "2024-02-06 19:05:47.672974",
+      "internal_id": "396dbabb111dc25d4d09f90e70ec4c7ba41ba03ee4d9c2bac09dd13bc085b9d4",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5057,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "Diretor da OMS encontra Lula e ministra da Sa\u00fade para debater dengue",
+      "description": "Vacina\u00e7\u00e3o contra a doen\u00e7a tamb\u00e9m deve entrar na pauta",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2024-02-05/diretor-oms-encontra-lula-e-ministra-da-saude.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/4b/wv/ch/4bwvchnc76eqshy0tvulnanl4.jpg",
+      "publishedAt": "2024-02-05 11:04:00",
+      "content": "O diretor-geral da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS), Tedros Adhanom, se encontra com o presidente Luiz In\u00e1cio Lula da Silva, nesta segunda-feira (5), no Pal\u00e1cio do Planalto, al\u00e9m de ter uma reuni\u00e3o\u2026 [+1688 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.476967",
+      "internal_id": "8c7c7ddcf0d5f5783bc58369633cdd7a646718b1ce9d8398798799fe2df12dba",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5041,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Tamires Ferreira",
+      "title": "Dengue: Rio de Janeiro decreta estado de emerg\u00eancia em sa\u00fade p\u00fablica",
+      "description": "Cidade vive o maior n\u00famero de interna\u00e7\u00f5es desde 1974 O post Dengue: Rio de Janeiro decreta estado de emerg\u00eancia em sa\u00fade p\u00fablica apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/05/medicina-e-saude/dengue-rio-de-janeiro-decreta-estado-de-emergencia-em-saude-publica/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/12/Dengue-695x500.jpg",
+      "publishedAt": "2024-02-05 10:49:15",
+      "content": "Eduardo Paes (PSD), prefeito do munic\u00edpio Rio de Janeiro, decretou estado de emerg\u00eancia em sa\u00fade p\u00fablica na cidade devido ao aumento nos casos de dengue. De acordo com informa\u00e7\u00f5es do G1, a medida sai\u2026 [+2489 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.322639",
+      "internal_id": "66fa94f4b84b0ea34302d1df699ec60c236c524658304e5f6652b1dcc071b829",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5064,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Imuniza\u00e7\u00e3o contra a dengue: tire suas d\u00favidas sobre a vacina\u00e7\u00e3o",
+      "description": "Veja as respostas para as principais d\u00favidas que a popula\u00e7\u00e3o tem em rela\u00e7\u00e3o a imuniza\u00e7\u00e3o contra o v\u00edrus da dengue",
+      "url": "https://saude.ig.com.br/2024-02-05/tire-duvidas-vacina-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c1/e4/d1/c1e4d1oh0uh1d020x4568fo7s.jpg",
+      "publishedAt": "2024-02-05 10:42:09",
+      "content": "A vacina Qdenga , do laborat\u00f3rio japon\u00eas Takeda, teve seu registro aprovado pela Ag\u00eancia Nacional de Vigil\u00e2ncia Sanit\u00e1ria (Anvisa) em mar\u00e7o de 2023. O processo permite a comercializa\u00e7\u00e3o do produto n\u2026 [+6607 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.534803",
+      "internal_id": "006c6c66842562bb5d3ffcdb64b9bdb1b576b04f33018978e1abaf54e5ecb8b2",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5065,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Rio decreta emerg\u00eancia em Sa\u00fade por causa da dengue",
+      "description": "Somente em janeiro deste ano, o Rio j\u00e1 teve mais de 17 mil casos da doen\u00e7a",
+      "url": "https://saude.ig.com.br/2024-02-05/rio-decreta-emergencia-em-saude-por-causa-da-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c4/1z/dr/c41zdr4sztch6kcgg0ab3ryg7.jpg",
+      "publishedAt": "2024-02-05 10:35:33",
+      "content": "O prefeito do Rio de Janeiro, Eduardo Paes (PSD) decretou estado de emerg\u00eancia em sa\u00fade p\u00fablica por causa da dengue nesta segunda-feira (5). J\u00e1 s\u00e3o mais de 11 mil casos da doen\u00e7a no estado. O secre\u2026 [+990 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.539293",
+      "internal_id": "acaa5f52e6d60f27593354f24eba2992c5e7cb9002112909fb6666c11cd97d49",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5070,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Phys.Org",
+      "author": "Science X",
+      "title": "Researchers uncover the architecture of poxvirus cores",
+      "description": "A recent re-emergence and outbreak of mpox brought poxviruses back as a public health threat, underlining an important knowledge gap at their core. Now, a team of researchers from the Institute of Science and Technology Austria (ISTA) lifted the mysteries of \u2026",
+      "url": "https://phys.org/news/2024-02-uncover-architecture-poxvirus-cores.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/down-to-the-core-of-po.jpg",
+      "publishedAt": "2024-02-05 10:00:01",
+      "content": "A recent re-emergence and outbreak of mpox brought poxviruses back as a public health threat, underlining an important knowledge gap at their core. Now, a team of researchers from the Institute of Sc\u2026 [+5937 chars]",
+      "retrievedAt": "2024-02-06 19:05:49.609758",
+      "internal_id": "7261f4048e4cda64b7990111f6e239c2289444f72f19dfcf488a0c5ec3ed268b",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5049,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Dengue faz ao menos cinco estados decretaram emerg\u00eancia",
+      "description": "Acre, Distrito Federal, Goi\u00e1s, Minas Gerais e, agora, Rio de Janeiro, decretaram emerg\u00eancia para a dengue em raz\u00e3o do n\u00famero de casos",
+      "url": "https://www.metropoles.com/brasil/dengue-faz-ao-menos-cinco-estados-decretaram-emergencia",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/02133817/DF-perdeu-36-dos-agentes-contra-a-dengue-1.jpg",
+      "publishedAt": "2024-02-05 09:53:37",
+      "content": "Ao menos cinco estado decretaram situa\u00e7\u00e3o de emerg\u00eancia em raz\u00e3o do aumento de casos de dengue. Acre, Distrito Federal, Goi\u00e1s, Minas Gerais, algumas cidades de Mato Grosso do Sul e, agora, a capital \u2026 [+5166 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.412904",
+      "internal_id": "fd2b50f2592f00d14ab265a4335efd7953d4cf615c2e431a2a9d035b94575e84",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5067,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Alessandro Ferro)",
+      "title": "Bufera sulla Coppa d'Africa: in campo anche giocatori malati di malaria",
+      "description": "Il commissario tecnico del Mali, Eric Chelle, ha dichiarato che due suoi calciatori sono scesi in campo in Coppa d'Africa nonostante avessero la malaria. \"Non \u00e8 cos\u00ec grave\"",
+      "url": "https://www.ilgiornale.it/news/calcio/campo-malaria-cosa-successo-coppa-d-africa-2278083.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2024/02/05/1707124261-mali.jpg?_=1707124261",
+      "publishedAt": "2024-02-05 09:33:06",
+      "content": "La vittoria della Costa d'Avorio ai quarti di finale della Coppa d'Africa contro il Mali con il punteggio di 2-1 e il gol di Diakit\u00e9 in pieno recupero nel secondo tempo supplementare, che ha evitato \u2026 [+2500 chars]",
+      "retrievedAt": "2024-02-06 19:05:48.974009",
+      "internal_id": "57714680f6f56beda00b48cdcb990d104ded0f740890c8bb6a1e2ef12a281907",
+      "publishedAtLabel": "Feb 5"
+    },
     {
       "id": 5031,
       "query": [
@@ -19884,78 +20586,6 @@
       "retrievedAt": "2023-12-26 07:05:42.815132",
       "internal_id": "35ad73ea291d58feea1b5e5f9d13a9bd512fbdac11d9b2e00b54d19068be41c6",
       "publishedAtLabel": "Dec 25"
-    },
-    {
-      "id": 3927,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Fabiola Czubaj",
-      "title": "Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevenci\u00f3n contra el dengue",
-      "description": "Lo pide el Ministerio de Salud de la Naci\u00f3n ante la tendencia creciente de contagios locales en las \u00faltimas cinco semanas y el escenario favorable de propagaci\u00f3n con calor, lluvias y movimiento de personas por las Fiestas",
-      "url": "https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/ejemplar-de-mosquito-aedes-aegypti-el-vector-del-IHH4AMNJUBFKBBAQNJZLYLW5VM.jpg?auth=99885fd0bab1bc1eabd0ffea115655e2ee38b25c1a5bfafe3d82f76a984bdc8e&width=768&quality=70&smart=false",
-      "publishedAt": "2023-12-24 18:40:32",
-      "content": "Con un leve repunte de casos dedengue oficializados desde hace cinco semanas y frente a un mayor movimiento de la poblaci\u00f3n en estos d\u00edas por las fiestas de fin de a\u00f1o y el inicio de las vacaciones, \u2026 [+6809 chars]",
-      "retrievedAt": "2023-12-25 19:05:54.740595",
-      "internal_id": "c94a24f03b976225ca782a8e9b1255fe8fcfefdcfb9a904b41e546a707d84bef",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3926,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "OMS: seis em cada 10 pessoas com dengue no mundo s\u00e3o brasileiras",
-      "description": "Relat\u00f3rio da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) aponta que mudan\u00e7as clim\u00e1ticas est\u00e3o tornando a doen\u00e7a mais frequente",
-      "url": "https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/07180100/mosquito-dengue-foco-goiania-goias-1.jpeg",
-      "publishedAt": "2023-12-24 14:07:34",
-      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
-      "retrievedAt": "2023-12-25 19:05:54.708126",
-      "internal_id": "6ac40a477b72828c533418ea7d3439842793f4ab8d7c748d6a04536ef87670aa",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3925,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Reforma.com",
-      "author": "Grupo REFORMA.",
-      "title": "Crece dengue 325% en un a\u00f1o en M\u00e9xico",
-      "description": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%.",
-      "url": "https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308",
-      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/590/4589618.jpg&wm=1&ang=0",
-      "publishedAt": "2023-12-24 11:01:31",
-      "content": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%. Cr\u00e9dito: Archivo",
-      "retrievedAt": "2023-12-25 19:05:54.666597",
-      "internal_id": "afde3d56af0af7cf1b60c99e88794eb3c0fad5f05812fc85c352c2b0035e76ba",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3928,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "30science per Il Fatto",
-      "title": "Dal super computer al nuovo vaccino anti malaria: ecco le pi\u00f9 importanti scoperte scientifiche del 2023 secondo Science",
-      "description": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di quest\u2019anno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di calcolo pari a quella di 5 milioni di comuni pc, una veloci\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/12/14/20348553_large-1.jpg",
-      "publishedAt": "2023-12-24 08:03:22",
-      "content": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di questanno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di \u2026 [+3917 chars]",
-      "retrievedAt": "2023-12-25 19:05:55.553281",
-      "internal_id": "eadb900dbcdd461277b389ec7642f2ccd810844b34d8b5e6d6b45408ba036edb",
-      "publishedAtLabel": "Dec 24"
     }
   ]
 }

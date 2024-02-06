@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 30
-- **Last harvest:** 2024-02-06 07:05
-- **Most recent article:** 2024-02-05 07:05:05
+- **New articles in last harvest:** 39
+- **Last harvest:** 2024-02-06 19:05
+- **Most recent article:** 2024-02-05 18:38:47
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 37 | 2 | 52 | 35 | 65 | 123 | 173 | 15 | 502 |
-| malaria | 22 | 2 | 11 | 51 | 26 | 86 | 25 | 7 | 230 |
-| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 7 | 208 |
+| dengue | 34 | 2 | 52 | 35 | 65 | 123 | 173 | 40 | 524 |
+| malaria | 21 | 2 | 11 | 51 | 26 | 86 | 25 | 10 | 232 |
+| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 15 | 216 |
 | zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 0 | 39 |
-| rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 1 | 37 |
-| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 1 | 33 |
-| mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 0 | 31 |
+| rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 2 | 38 |
+| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 2 | 34 |
+| mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 1 | 32 |
 | meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 1 | 27 |
 | pertussis | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
 | typhoid | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 0 | 8 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (rabies)
 
+- [Dog ecology and rabies knowledge, attitude and practice (KAP) in the Northern Communal Areas of Namibia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011631) (Plos.org)
+
 - [30 human deaths caused by rabies in Maharashtra in 2023, up from 10 in 2019](https://timesofindia.indiatimes.com/city/pune/30-human-deaths-caused-by-rabies-in-maharashtra-in-2023-up-from-10-in-2019/articleshow/107394043.cms) (The Times of India)
 
 ## 24-6 (pertussis)
@@ -41,11 +43,31 @@ Source: [News API](https://newsapi.org/)
 
 - [התפרצות שעלת בישראל: למה כל כך חשוב להתחסן?](https://www.ynet.co.il/health/article/hyei1nn5t) (Ynet)
 
+## 24-6 (mpox)
+
+- [Researchers uncover the architecture of poxvirus cores](https://phys.org/news/2024-02-uncover-architecture-poxvirus-cores.html) (Phys.Org)
+
 ## 24-6 (meningitis)
 
 - [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
 
 ## 24-6 (measles)
+
+- [Ohio Department of Health warns of measles exposure at CVG in January](https://www.wcpo.com/news/local-news/ohio-department-of-health-warns-of-measles-exposure-at-cvg-during-january-weekend) (WCPO)
+
+- [Travelers may have been exposed to measles at Ohio airport, says department of health director](https://www.cleveland19.com/2024/02/05/travelers-may-have-been-exposed-measles-ohio-airport-says-department-health-director/) (Cleveland 19 News)
+
+- [Ohio health officials warn of potential measles exposure at CVG](https://www.wlwt.com/article/ohio-measles-cincinnati-exposure-cvg-montgomery-county/46648780) (WLWT Cincinnati)
+
+- [How the anti-vaccine movement is downplaying the danger of measles](https://www.nbcnews.com/health/health-news/measles-outbreaks-anti-vaccine-misinformation-rcna136994) (NBC News)
+
+- [Dayton health officials say measles case reported, warn others may have been exposed](https://www.wlwt.com/article/montgomery-county-ohio-measles-case-reported-exposure/46648153) (WLWT Cincinnati)
+
+- [Diminished measles immunity after paediatric liver transplantation—A retrospective, single-centre, cross-sectional analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296653) (Plos.org)
+
+- [Govt receives 6 million doses of measles and rubella vaccines from GAVI](https://english.khabarhub.com/2024/05/339173/) (Khabarhub.com)
+
+- [Health department reports first 2024 measles case in Ohio](https://www.cleveland19.com/2024/02/05/health-department-reports-first-2024-measles-case-ohio/) (Cleveland 19 News)
 
 - [Health officials warn of spike in measles cases](https://www.wkyt.com/2024/02/05/health-officials-warn-spike-measles-cases/) (WKYT)
 
@@ -63,6 +85,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (malaria)
 
+- [Basigin mediation of Plasmodium falciparum red blood cell invasion does not require its transmembrane domain or interaction with monocarboxylate transporter 1](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011989) (Plos.org)
+
+- [Coppa d’Africa, due giocatori del Mali in campo con la malaria. Bassetti: “Perché è possibile”](https://www.ilfattoquotidiano.it/2024/02/05/coppa-dafrica-due-giocatori-del-mali-in-campo-con-la-malaria-bassetti-perche-e-possibile/7434193/) (Ilfattoquotidiano.it)
+
+- [Bufera sulla Coppa d'Africa: in campo anche giocatori malati di malaria](https://www.ilgiornale.it/news/calcio/campo-malaria-cosa-successo-coppa-d-africa-2278083.html) (Ilgiornale.it)
+
 - [Malaria: Zweiter Impfstoff vor Zulassung](https://science.orf.at/stories/3223414/) (Science.orf.at)
 
 - [La rivelazione del ct del Mali: "Bissouma e Diarra con la malaria, ma in Africa è normale"](https://www.tuttomercatoweb.com/calcio-estero/la-rivelazione-del-ct-del-mali-bissouma-e-diarra-con-la-malaria-ma-in-africa-e-normale-1931382) (Tuttomercatoweb.com)
@@ -78,6 +106,56 @@ Source: [News API](https://newsapi.org/)
 - [iMAGING, aplicación para diagnosticar la malaria usando IA](https://wwwhatsnew.com/2024/02/04/imaging-aplicacion-para-diagnosticar-la-malaria-usando-ia/) (Wwwhatsnew.com)
 
 ## 24-6 (dengue)
+
+- [Rio de Janeiro has declared a dengue health emergency days before Carnival is due to start](https://abcnews.go.com/Business/wireStory/rio-de-janeiro-declared-dengue-health-emergency-days-106963806) (ABC News)
+
+- [Rio de Janeiro has declared a dengue health emergency days before Carnival is due to start](https://abcnews.go.com/Entertainment/wireStory/rio-de-janeiro-declared-dengue-health-emergency-days-106963805) (ABC News)
+
+- [Rio de Janeiro has declared a dengue health emergency days before Carnival is due to start](https://abcnews.go.com/Health/wireStory/rio-de-janeiro-declared-dengue-health-emergency-days-106963804) (ABC News)
+
+- [Com mais de 260 mil casos e 29 mortes, dengue avança no Brasil e faz 3 estados decretarem emergência](https://sputniknewsbr.com.br/20240205/com-mais-de-260-mil-casos-e-29-mortes-dengue-avanca-no-brasil-e-faz-3-estados-decretarem-emergencia-32902826.html) (Sputniknewsbr.com.br)
+
+- [Rio de Janeiro has declared a dengue health emergency days before Carnival is due to start](https://abcnews.go.com/International/wireStory/rio-de-janeiro-declared-dengue-health-emergency-days-106963803) (ABC News)
+
+- [DF: pacientes com dengue enfrentam filas e superlotação em UPAs e UBSs](https://www.metropoles.com/distrito-federal/df-pacientes-com-dengue-enfrentam-filas-e-superlotacao-em-upas-e-ubss) (Metropoles.com)
+
+- [La vacuna brasileña contra el dengue tiene una eficacia del 79,6 %, según estudio](https://www.montevideo.com.uy/Salud/La-vacuna-brasilena-contra-el-dengue-tiene-una-eficacia-del-79-6--segun-estudio-uc878775) (Montevideo.com.uy)
+
+- [Entenda como a alimentação pode agravar ou melhorar sintomas da dengue](https://www.metropoles.com/vida-e-estilo/entenda-como-a-alimentacao-pode-agravar-ou-melhorar-sintomas-da-dengue) (Metropoles.com)
+
+- [Anápolis: prefeitura e empresas se juntam no combate à dengue](https://www.metropoles.com/brasil/anapolis-prefeitura-e-empresas-se-juntam-no-combate-a-dengue) (Metropoles.com)
+
+- [Ana Maria Braga diz que filho está com dengue e alerta: “Pode morrer”](https://www.metropoles.com/entretenimento/televisao/ana-maria-braga-diz-que-filho-esta-com-dengue-e-alerta-pode-morrer) (Metropoles.com)
+
+- [Mortes por dengue sobem para 11 e casos chegam a 46 mil no DF](https://www.metropoles.com/colunas/grande-angular/mortes-por-dengue-sobem-para-11-e-casos-chegam-a-46-mil-diz-ibaneis) (Metropoles.com)
+
+- [Una nueva vacuna contra el dengue protege al 80% de los vacunados](https://www.infosalus.com/asistencia/noticia-nueva-vacuna-contra-dengue-protege-80-vacunados-20240205164918.html) (Infosalus.com)
+
+- [Río de Janeiro declara situación de emergencia por aumento de casos de dengue](https://sputniknews.lat/20240205/rio-de-janeiro-declara-situacion-de-emergencia-por-aumento-de-casos-de-dengue-1148003225.html) (Sputniknews.lat)
+
+- [Rio de Janeiro decreta estado de emergência em saúde por causa da dengue](https://observador.pt/2024/02/05/rio-de-janeiro-decreta-estado-de-emergencia-em-saude-por-causa-da-dengue/) (Observador.pt)
+
+- [Combate à dengue: “A gente precisa do apoio de todo mundo”, diz Celina](https://www.metropoles.com/distrito-federal/combate-a-dengue-a-gente-precisa-do-apoio-de-todo-mundo-diz-celina) (Metropoles.com)
+
+- [Brasil. Rio de Janeiro em estado de emergência devido à dengue](https://ionline.sapo.pt/artigo/810542/brasil-rio-de-janeiro-em-estado-de-emerg-ncia-devido-a-dengue?seccao=Mundo_i) (Sapo.pt)
+
+- [Saiba quem era a adolescente de 16 anos que morreu de dengue em Goiás](https://www.metropoles.com/brasil/saiba-quem-era-a-adolescente-de-16-anos-que-morreu-de-dengue-em-goias) (Metropoles.com)
+
+- [Dengue no DF: Hospital de Campanha da FAB é inaugurado em Ceilândia](https://www.metropoles.com/distrito-federal/dengue-no-df-hospital-de-campanha-da-fab-e-inaugurado-no-df-fotos) (Metropoles.com)
+
+- [Dengue: dia tem reunião da Saúde com governadores e Lula com OMS](https://www.metropoles.com/brasil/dengue-dia-tem-reuniao-de-saude-com-governadores-e-lula-com-oms) (Metropoles.com)
+
+- [Dengue: veja rota do fumacê nesta segunda-feira (5/2) no DF](https://www.metropoles.com/distrito-federal/dengue-veja-rota-do-fumace-nesta-segunda-feira-5-2-no-df) (Metropoles.com)
+
+- [Diretor da OMS encontra Lula e ministra da Saúde para debater dengue](https://ultimosegundo.ig.com.br/brasil/2024-02-05/diretor-oms-encontra-lula-e-ministra-da-saude.html) (Ig.com.br)
+
+- [Dengue: Rio de Janeiro decreta estado de emergência em saúde pública](https://olhardigital.com.br/2024/02/05/medicina-e-saude/dengue-rio-de-janeiro-decreta-estado-de-emergencia-em-saude-publica/) (Olhardigital.com.br)
+
+- [Imunização contra a dengue: tire suas dúvidas sobre a vacinação](https://saude.ig.com.br/2024-02-05/tire-duvidas-vacina-dengue.html) (Ig.com.br)
+
+- [Rio decreta emergência em Saúde por causa da dengue](https://saude.ig.com.br/2024-02-05/rio-decreta-emergencia-em-saude-por-causa-da-dengue.html) (Ig.com.br)
+
+- [Dengue faz ao menos cinco estados decretaram emergência](https://www.metropoles.com/brasil/dengue-faz-ao-menos-cinco-estados-decretaram-emergencia) (Metropoles.com)
 
 - [Sindicatos denunciam déficit de 11 mil profissionais de saúde do DF](https://www.metropoles.com/distrito-federal/sindicatos-denunciam-deficit-de-11-mil-profissionais-de-saude-do-df) (Metropoles.com)
 
@@ -110,6 +188,8 @@ Source: [News API](https://newsapi.org/)
 - [Avião da FAB chega a Brasília com insumos para Hospital de Campanha](https://www.metropoles.com/distrito-federal/aviao-da-fab-chega-a-brasilia-com-insumos-para-hospital-de-campanha) (Metropoles.com)
 
 ## 24-6 (chikungunya)
+
+- [Valneva: Oddo BHF confirms its recommendation on the stock](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-Oddo-BHF-confirms-its-recommendation-on-the-stock-45885054/) (Marketscreener.com)
 
 - [Valneva: sale of priority review warrant for Ixchiq](https://www.marketscreener.com/quote/stock/VALNEVA-SE-54466/news/Valneva-sale-of-priority-review-warrant-for-Ixchiq-45881345/) (Marketscreener.com)
 
@@ -2399,8 +2479,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Of love letters and distant galaxies: Uplifting stories from 2023](https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023) (FRANCE 24 English)
 
-- [Dal super computer al nuovo vaccino anti malaria: ecco le più importanti scoperte scientifiche del 2023 secondo Science](https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/) (Ilfattoquotidiano.it)
-
 ## 23-52 (leptospirosis)
 
 - [Conoce las enfermedades que golpearon a Cartagena en 2023](https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851) (Eluniversal.com.co)
@@ -2478,12 +2556,6 @@ Source: [News API](https://newsapi.org/)
 - [Millions Infected with Dengue as Temperature Rises](https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html) (VOA News)
 
 - [Por que casos de dengue estão se multiplicando na Europa](https://www.bbc.com/portuguese/articles/crgj2de70r5o) (BBC News)
-
-- [Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevención contra el dengue](https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/) (La Nacion)
-
-- [OMS: seis em cada 10 pessoas com dengue no mundo são brasileiras](https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio) (Metropoles.com)
-
-- [Crece dengue 325% en un año en México](https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308) (Reforma.com)
 
 ## 23-52 (chikungunya)
 
