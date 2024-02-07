@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 40
-- **Last harvest:** 2024-02-07 07:05
-- **Most recent article:** 2024-02-06 06:56:04
+- **New articles in last harvest:** 29
+- **Last harvest:** 2024-02-07 19:05
+- **Most recent article:** 2024-02-06 18:55:59
 
 ---
 
@@ -12,24 +12,34 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 37 | 2 | 52 | 35 | 65 | 123 | 173 | 63 | 550 |
-| malaria | 22 | 2 | 11 | 51 | 26 | 86 | 25 | 12 | 235 |
-| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 25 | 226 |
+| dengue | 34 | 2 | 52 | 35 | 65 | 123 | 173 | 81 | 565 |
+| malaria | 21 | 2 | 11 | 51 | 26 | 86 | 25 | 12 | 234 |
+| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 30 | 231 |
+| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 2 | 41 |
 | rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 4 | 40 |
-| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 0 | 39 |
-| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 3 | 35 |
-| mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 2 | 33 |
-| meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 2 | 28 |
+| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 4 | 36 |
+| mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 4 | 35 |
+| meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 4 | 30 |
 | pertussis | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
 | typhoid | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 0 | 8 |
 | sarampión | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 0 | 7 |
+| yersinia | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 6 |
 | leptospirosis | 3 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 6 |
-| yersinia | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-6 (zika)
+
+- [La respuesta inmunitaria es la responsable del daño neurológico que se produce en infecciones como el Zika o Covid-19](https://www.infosalus.com/salud-investigacion/noticia-respuesta-inmunitaria-responsable-dano-neurologico-produce-infecciones-zika-covid-19-20240206180855.html) (Infosalus.com)
+
+- [Com dengue em alta, farmacêutica limita vacina na rede privada](https://veja.abril.com.br/saude/com-dengue-em-alta-farmaceutica-limita-vacina-na-rede-privada) (Abril.com.br)
+
+## 24-6 (yersinia)
+
+- [Yersinia Diagnostics Market is set to Reach US$ 4.63 billion at a CAGR of 4.2% from the forecast period 2023 to 2031 | Growth Plus Reports](https://www.globenewswire.com/news-release/2024/02/06/2823985/0/en/Yersinia-Diagnostics-Market-is-set-to-Reach-US-4-63-billion-at-a-CAGR-of-4-2-from-the-forecast-period-2023-to-2031-Growth-Plus-Reports.html) (GlobeNewswire)
 
 ## 24-6 (rabies)
 
@@ -49,17 +59,35 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (mpox)
 
+- [Milwaukee Health Department: First mpox case since June 2023](https://www.wisn.com/article/milwaukee-health-department-new-mpox-case/46660756) (WISN Milwaukee)
+
+- [New mpox case in Milwaukee; 1st in city since June 2023, officials say](https://www.fox6now.com/news/new-mpox-case-milwaukee-officials) (fox6now.com)
+
 - [Down to the core of poxviruses](https://www.sciencedaily.com/releases/2024/02/240205165934.htm) (Science Daily)
 
 - [Researchers uncover the architecture of poxvirus cores](https://phys.org/news/2024-02-uncover-architecture-poxvirus-cores.html) (Phys.Org)
 
 ## 24-6 (meningitis)
 
+- [“It can be extremely dangerous”: A microbiologist on the rise of invasive Strep A](https://macleans.ca/society/health/invasive-strep-a-symptoms/) (Maclean's)
+
+- ['It's my dream': Nova Scotia's Emma Logan wants to encourage more deaf people to curl](https://www.cbc.ca/news/canada/nova-scotia/emma-logan-wants-to-encourage-more-deaf-people-to-curl-1.7088929) (CBC News)
+
 - [Gigi & Nate Streaming: Watch & Stream Online via Hulu](https://www.comingsoon.net/guides/news/1525233-gigi-nate-streaming-watch-stream-online-via-hulu) (ComingSoon.net)
 
 - [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
 
 ## 24-6 (measles)
+
+- [Measles Outbreak Map Shows Nine States Where Disease Reported](https://www.newsweek.com/measles-outbreak-map-nine-states-cases-spreading-1867403) (Newsweek)
+
+- [Tuesday, February 6, 2024](https://kffhealthnews.org/morning-briefing/tuesday-february-6-2024/) (Kffhealthnews.org)
+
+- [Measles rates are rising again](https://www.bmj.com/content/384/bmj.q259) (The BMJ)
+
+- [The 8 at 8: Tuesday](https://www.thejournal.ie/morning-headlines-54-6291347-Feb2024/) (TheJournal.ie)
+
+- [Tuesday’s Top Stories: Measles outbreak threat triggers plan for catch-up vaccinations; School places unavailable amid enrolment crisis](https://www.irishtimes.com/ireland/2024/02/06/irish-news-updates-measles-vaccinations-school-places-unavailable-online-safety-for-kids-cybersafekids-income-tax-return-brianna-ghey/) (The Irish Times)
 
 - [Donnelly to tell Cabinet probability of introduction and spread of measles in Ireland is high](https://www.thejournal.ie/measles-update-ireland-cabinet-6291057-Feb2024/) (TheJournal.ie)
 
@@ -138,6 +166,42 @@ Source: [News API](https://newsapi.org/)
 - [iMAGING, aplicación para diagnosticar la malaria usando IA](https://wwwhatsnew.com/2024/02/04/imaging-aplicacion-para-diagnosticar-la-malaria-usando-ia/) (Wwwhatsnew.com)
 
 ## 24-6 (dengue)
+
+- [Dengue: leia íntegra de PL que transfere hospital para gestão do Iges](https://www.metropoles.com/colunas/grande-angular/dengue-leia-integra-de-pl-que-transfere-hospital-para-gestao-do-iges) (Metropoles.com)
+
+- [Dengue: veterinária explica se cães e gatos podem contrair a doença](https://www.metropoles.com/colunas/e-o-bicho/dengue-veterinaria-explica-se-caes-e-gatos-podem-contrair-a-doenca) (Metropoles.com)
+
+- [Cemitérios do DF recolhem objetos que acumulam água para evitar dengue](https://www.metropoles.com/colunas/grande-angular/cemiterios-do-df-recolherao-itens-que-acumulem-agua-para-evitar-dengue) (Metropoles.com)
+
+- ['Dengue deixou minha filha paraplégica': como doença pode afetar sistema nervoso e causar danos irreversíveis](https://www.bbc.com/portuguese/articles/cw8j7v1e55wo) (BBC News)
+
+- [Ministra fará pronunciamento na TV sobre dengue; saiba o que ela dirá](https://www.metropoles.com/colunas/igor-gadelha/ministra-pronunciamento-dengue) (Metropoles.com)
+
+- [Governo de SP monta QG para monitorar dengue e libera R$ 200 milhões](https://www.metropoles.com/sao-paulo/governo-de-sp-monta-qg-para-monitorar-dengue-e-libera-r-200-milhoes) (Metropoles.com)
+
+- [Ministra da Saúde fará pronunciamento em rede nacional contra a dengue](https://veja.abril.com.br/coluna/radar/ministra-da-saude-fara-pronunciamento-em-rede-nacional-contra-a-dengue) (Abril.com.br)
+
+- [Ivermectina não é eficaz contra a dengue, diz Ministério da Saúde](https://jornaldebrasilia.com.br/noticias/brasil/ivermectina-nao-e-eficaz-contra-a-dengue-diz-ministerio-da-saude/) (Jornaldebrasilia.com.br)
+
+- [Com dengue em alta, farmacêutica limita vacina na rede privada](https://veja.abril.com.br/saude/com-dengue-em-alta-farmaceutica-limita-vacina-na-rede-privada) (Abril.com.br)
+
+- [Dengue “não é privilégio do DF”, diz Celina Leão sobre crise da doença](https://www.metropoles.com/distrito-federal/dengue-nao-e-privilegio-do-df-diz-celina-leao-sobre-crise-da-doenca) (Metropoles.com)
+
+- [CLDF votará projeto para ampliar o Iges durante epidemia de dengue](https://www.metropoles.com/colunas/grande-angular/cldf-votara-ampliacao-do-iges-de-forma-temporaria-para-abrir-leitos) (Metropoles.com)
+
+- [Tarcísio segue modelo de Doria e cria comitê contra dengue](https://veja.abril.com.br/coluna/maquiavel/tarcisio-segue-modelo-de-doria-e-cria-comite-contra-dengue) (Abril.com.br)
+
+- [Vacina da dengue esgota na rede privada após procura aumentar 110%](https://www.metropoles.com/saude/dengue-procura-esgota-vacina-rede-privada) (Metropoles.com)
+
+- [With Carnival About To Start, Rio De Janeiro Declares A Public Health Emergency](https://apnews.com/article/brazil-dengue-rio-carnival-8ed7cc1e4aade9fe9f8682b02b0ff967) (Associated Press)
+
+- [SP confirma quatro mortes por dengue e anuncia Operação de Emergência](https://ultimosegundo.ig.com.br/brasil/sp/2024-02-06/sao-paulo-quatro-mortes-dengue.html) (Ig.com.br)
+
+- [Rio de Janeiro: Dengue spike prompts health emergency ahead of Carnival](https://www.bbc.co.uk/news/world-latin-america-68215360) (BBC News)
+
+- [Dengue em SP: capital investiga suspeita de 1ª morte por doença no ano](https://www.metropoles.com/sao-paulo/dengue-em-sp-capital-investiga-suspeita-de-1a-morte-por-doenca-no-ano) (Metropoles.com)
+
+- [Drone de controle de pragas pode ser aplicado no combate à dengue](https://olhardigital.com.br/2024/02/06/ciencia-e-espaco/drone-de-controle-de-pragas-pode-ser-aplicado-no-combate-a-dengue/) (Olhardigital.com.br)
 
 - [Dengue: maioria dos infectados em Brasília tem entre 20 e 29 anos](https://www.metropoles.com/distrito-federal/dengue-maioria-dos-infectados-em-brasilia-tem-entre-20-e-29-anos) (Metropoles.com)
 
@@ -266,6 +330,8 @@ Source: [News API](https://newsapi.org/)
 - [Avião da FAB chega a Brasília com insumos para Hospital de Campanha](https://www.metropoles.com/distrito-federal/aviao-da-fab-chega-a-brasilia-com-insumos-para-hospital-de-campanha) (Metropoles.com)
 
 ## 24-6 (chikungunya)
+
+- [Com dengue em alta, farmacêutica limita vacina na rede privada](https://veja.abril.com.br/saude/com-dengue-em-alta-farmaceutica-limita-vacina-na-rede-privada) (Abril.com.br)
 
 - [Covid: plataforma de vacina pode ajudar na imunização contra outras doenças](https://olhardigital.com.br/2024/02/05/medicina-e-saude/covid-plataforma-de-vacina-pode-ajudar-na-imunizacao-contra-outras-doencas/) (Olhardigital.com.br)
 
@@ -2559,8 +2625,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Of love letters and distant galaxies: Uplifting stories from 2023](https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023) (FRANCE 24 English)
 
-- [Dal super computer al nuovo vaccino anti malaria: ecco le più importanti scoperte scientifiche del 2023 secondo Science](https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/) (Ilfattoquotidiano.it)
-
 ## 23-52 (leptospirosis)
 
 - [Conoce las enfermedades que golpearon a Cartagena en 2023](https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851) (Eluniversal.com.co)
@@ -2638,12 +2702,6 @@ Source: [News API](https://newsapi.org/)
 - [Millions Infected with Dengue as Temperature Rises](https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html) (VOA News)
 
 - [Por que casos de dengue estão se multiplicando na Europa](https://www.bbc.com/portuguese/articles/crgj2de70r5o) (BBC News)
-
-- [Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevención contra el dengue](https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/) (La Nacion)
-
-- [OMS: seis em cada 10 pessoas com dengue no mundo são brasileiras](https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio) (Metropoles.com)
-
-- [Crece dengue 325% en un año en México](https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308) (Reforma.com)
 
 ## 23-52 (chikungunya)
 
