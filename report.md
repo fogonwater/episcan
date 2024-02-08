@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2024-02-08 07:06
-- **Most recent article:** 2024-02-07 06:28:37
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-02-08 19:05
+- **Most recent article:** 2024-02-07 18:57:11
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 37 | 2 | 52 | 35 | 65 | 123 | 173 | 98 | 585 |
-| malaria | 22 | 2 | 11 | 51 | 26 | 86 | 25 | 15 | 238 |
+| dengue | 34 | 2 | 52 | 35 | 65 | 123 | 173 | 112 | 596 |
+| malaria | 21 | 2 | 11 | 51 | 26 | 86 | 25 | 21 | 243 |
 | measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 32 | 233 |
-| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 3 | 42 |
+| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 7 | 46 |
 | rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 4 | 40 |
-| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 5 | 37 |
-| mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 4 | 35 |
-| meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 4 | 30 |
+| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 6 | 38 |
+| mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 36 |
+| meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 5 | 31 |
 | pertussis | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
 | typhoid | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 0 | 8 |
 | sarampión | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 0 | 7 |
@@ -32,6 +32,14 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-6 (zika)
+
+- [7 dicas para eliminar criadouros de mosquitos da dengue da sua casa](https://delas.ig.com.br/parceiros/selecoes/2024-02-07/7-dicas-para-eliminar-criadouros-de-mosquitos-da-dengue-da-sua-casa.html) (Ig.com.br)
+
+- [Study suggests prior Zika infection may heighten risk of severe dengue](https://economictimes.indiatimes.com/magazines/panache/study-suggests-prior-zika-infection-may-heighten-risk-of-severe-dengue/articleshow/107498033.cms) (The Times of India)
+
+- [Prior zika infection may increase risk of severe dengue: Study](https://timesofindia.indiatimes.com/home/science/prior-zika-infection-may-increase-risk-of-severe-dengue-study/articleshow/107493609.cms) (The Times of India)
+
+- [Zika infection can raise the severity of dengue](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/zika-infection-and-dengue-severity-alarming-study-findings/articleshow/107490499.cms) (The Times of India)
 
 - [Dengue mata criança de 2 anos em Manaus (AM)](https://www.metropoles.com/brasil/dengue-mata-crianca-de-2-anos-em-manaus-am) (Metropoles.com)
 
@@ -61,6 +69,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (mpox)
 
+- [Een gevaarlijk mpox-virus gaat rond in Congo, maar zicht op de uitbraak ontbreekt](https://www.nrc.nl/nieuws/2024/02/07/een-gevaarlijk-mpox-virus-gaat-rond-in-congo-maar-zicht-op-de-uitbraak-ontbreekt-a4189345) (Www.nrc.nl)
+
 - [Milwaukee Health Department: First mpox case since June 2023](https://www.wisn.com/article/milwaukee-health-department-new-mpox-case/46660756) (WISN Milwaukee)
 
 - [New mpox case in Milwaukee; 1st in city since June 2023, officials say](https://www.fox6now.com/news/new-mpox-case-milwaukee-officials) (fox6now.com)
@@ -70,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 - [Researchers uncover the architecture of poxvirus cores](https://phys.org/news/2024-02-uncover-architecture-poxvirus-cores.html) (Phys.Org)
 
 ## 24-6 (meningitis)
+
+- [Serious bacterial infections causing pneumonia, meningitis on the rise in Alberta](https://www.cbc.ca/news/canada/calgary/alberta-pneumococcal-disease-1.7106435) (CBC News)
 
 - [“It can be extremely dangerous”: A microbiologist on the rise of invasive Strep A](https://macleans.ca/society/health/invasive-strep-a-symptoms/) (Maclean's)
 
@@ -147,6 +159,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (malaria)
 
+- [Bill Gates Pushes Malaria Vaccines On Impoverished Countries](https://www.shtfplan.com/headline-news/bill-gates-pushes-malaria-vaccines-on-impoverished-countries) (Shtfplan.com)
+
+- [Brasil se propone eliminar la malaria y otras seis enfermedades para el año 2030](https://www.montevideo.com.uy/Salud/Brasil-se-propone-eliminar-la-malaria-y-otras-seis-enfermedades-para-el-ano-2030-uc878997) (Montevideo.com.uy)
+
+- [Penyelidik di KFSH&RC & KAUST Discover Gene Bertanggungkawab atas Pembiakan Strain Malaria Paling Berbahaya](https://www.globenewswire.com/news-release/2024/02/07/2824915/0/ms/Penyelidik-di-KFSH-RC-KAUST-Discover-Gene-Bertanggungkawab-atas-Pembiakan-Strain-Malaria-Paling-Berbahaya.html) (GlobeNewswire)
+
+- [Peneliti di KFSH&RC & KAUST Menemukan Gen Penyebab Reproduksi Strain Malaria yang Paling Berbahaya](https://www.globenewswire.com/news-release/2024/02/07/2824915/0/id/Peneliti-di-KFSH-RC-KAUST-Menemukan-Gen-Penyebab-Reproduksi-Strain-Malaria-yang-Paling-Berbahaya.html) (GlobeNewswire)
+
+- [Investigadores de KFSH&RC y KAUST descubren gen responsable por la reproducción de la cepa de la malaria más peligrosa](https://www.globenewswire.com/news-release/2024/02/07/2824915/0/es/Investigadores-de-KFSH-RC-y-KAUST-descubren-gen-responsable-por-la-reproducci%C3%B3n-de-la-cepa-de-la-malaria-m%C3%A1s-peligrosa.html) (GlobeNewswire)
+
+- [Forscher des KFSH&RC und der KAUST entdecken Gen, das für die Vermehrung des gefährlichsten Malariastamms verantwortlich ist](https://www.globenewswire.com/news-release/2024/02/07/2824915/0/de/Forscher-des-KFSH-RC-und-der-KAUST-entdecken-Gen-das-f%C3%BCr-die-Vermehrung-des-gef%C3%A4hrlichsten-Malariastamms-verantwortlich-ist.html) (GlobeNewswire)
+
 - [노을, 스위스 말라리아 그룹 가입](https://www.venturesquare.net/912955) (Venturesquare.net)
 
 - [Comment on 'The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: An individual patient data meta-analysis'](https://elifesciences.org/articles/89263) (Elifesciences.org)
@@ -178,6 +202,34 @@ Source: [News API](https://newsapi.org/)
 - [iMAGING, aplicación para diagnosticar la malaria usando IA](https://wwwhatsnew.com/2024/02/04/imaging-aplicacion-para-diagnosticar-la-malaria-usando-ia/) (Wwwhatsnew.com)
 
 ## 24-6 (dengue)
+
+- [DF vacinará contra dengue no fim de semana de Carnaval. Veja 36 locais](https://www.metropoles.com/colunas/grande-angular/df-vacinara-contra-dengue-no-fim-de-semana-de-carnaval-veja-36-locais) (Metropoles.com)
+
+- [Dengue spreads fast in Brazil prompting emergency health measures](https://timesofindia.indiatimes.com/world/europe/dengue-spreads-fast-in-brazil-prompting-emergency-health-measures/articleshow/107502561.cms) (The Times of India)
+
+- [Dengue spreads fast in Brazil prompting emergency health measures](https://www.investing.com/news/world-news/dengue-spreads-fast-in-brazil-prompting-emergency-health-measures-3296043) (Investing.com)
+
+- [Dengue spreads fast in Brazil prompting emergency health measures](https://www.marketscreener.com/news/latest/Dengue-spreads-fast-in-Brazil-prompting-emergency-health-measures-45905723/) (Marketscreener.com)
+
+- [Dengue neurológica rara deixa jovem tetraplégica e em coma por 7 meses](https://www.metropoles.com/saude/dengue-neurologica-rara-deixa-jovem-tetraplegica) (Metropoles.com)
+
+- [Dengue: cidade do Rio confirma 1ª morte de 2024](https://olhardigital.com.br/2024/02/07/medicina-e-saude/dengue-cidade-do-rio-confirma-1a-morte-de-2024/) (Olhardigital.com.br)
+
+- [Río de Janeiro declara "el estado de emergencia" ante los disparados casos de dengue](https://www.expansion.com/economia/politica/2024/02/07/65c3a754468aeb4b638b45af.html) (Expansion.com)
+
+- [Dengue: é falso que suco de limão mate vírus e acabe com carga viral](https://www.metropoles.com/saude/dengue-suco-de-limao-mata-virus) (Metropoles.com)
+
+- [Herança maldita do governo Bolsonaro: brasileiros buscam ivermectina para tratar dengue](https://www.pragmatismopolitico.com.br/2024/02/heranca-maldita-do-governo-bolsonaro-brasileiros-buscam-ivermectina-para-tratar-dengue.html) (Pragmatismopolitico.com.br)
+
+- [Notstand ausgerufen - Dengue-Fieber bedroht Karneval in Rio](https://www.bild.de/ratgeber/gesundheit/gesundheit/notstand-ausgerufen-dengue-fieber-alarm-beim-karneval-in-rio-87065846.bild.html) (Bild)
+
+- [Zika infection can raise the severity of dengue](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/zika-infection-and-dengue-severity-alarming-study-findings/articleshow/107490499.cms) (The Times of India)
+
+- [Brazil snaps into action in response to dengue fever outbreak](https://www.euronews.com/2024/02/07/brazil-snaps-into-action-in-response-to-dengue-fever-outbreak) (Euronews)
+
+- [Dengue no Brasil: este ano já se registaram mais de 300 mil casos prováveis, Governo diz que é hora do país “se unir”](https://expresso.pt/internacional/brasil/2024-02-07-Dengue-no-Brasil-este-ano-ja-se-registaram-mais-de-300-mil-casos-provaveis-Governo-diz-que-e-hora-do-pais-se-unir-702a0d7f) (Expresso.pt)
+
+- [Explosion des cas de dengue au Brésil, Rio en état d'urgence à deux jours de l'ouverture du carnaval](https://fr.euronews.com/2024/02/07/explosion-des-cas-de-dengue-au-bresil-rio-en-etat-durgence-a-deux-jours-de-louverture-du-c) (Euronews)
 
 - [Carnavalul de la Rio, pus în pericol de febra Dengue. A fost decretată stare de urgență sanitară, îmbolnăvirile au explodat](https://adevarul.ro/stiri-externe/in-lume/carnavalul-de-la-rio-pus-in-pericol-de-febra-2337883.html) (Adevarul.ro)
 
@@ -376,6 +428,8 @@ Source: [News API](https://newsapi.org/)
 - [Avião da FAB chega a Brasília com insumos para Hospital de Campanha](https://www.metropoles.com/distrito-federal/aviao-da-fab-chega-a-brasilia-com-insumos-para-hospital-de-campanha) (Metropoles.com)
 
 ## 24-6 (chikungunya)
+
+- [7 dicas para eliminar criadouros de mosquitos da dengue da sua casa](https://delas.ig.com.br/parceiros/selecoes/2024-02-07/7-dicas-para-eliminar-criadouros-de-mosquitos-da-dengue-da-sua-casa.html) (Ig.com.br)
 
 - [Dengue mata criança de 2 anos em Manaus (AM)](https://www.metropoles.com/brasil/dengue-mata-crianca-de-2-anos-em-manaus-am) (Metropoles.com)
 
@@ -2673,8 +2727,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Of love letters and distant galaxies: Uplifting stories from 2023](https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023) (FRANCE 24 English)
 
-- [Dal super computer al nuovo vaccino anti malaria: ecco le più importanti scoperte scientifiche del 2023 secondo Science](https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/) (Ilfattoquotidiano.it)
-
 ## 23-52 (leptospirosis)
 
 - [Conoce las enfermedades que golpearon a Cartagena en 2023](https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851) (Eluniversal.com.co)
@@ -2752,12 +2804,6 @@ Source: [News API](https://newsapi.org/)
 - [Millions Infected with Dengue as Temperature Rises](https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html) (VOA News)
 
 - [Por que casos de dengue estão se multiplicando na Europa](https://www.bbc.com/portuguese/articles/crgj2de70r5o) (BBC News)
-
-- [Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevención contra el dengue](https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/) (La Nacion)
-
-- [OMS: seis em cada 10 pessoas com dengue no mundo são brasileiras](https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio) (Metropoles.com)
-
-- [Crece dengue 325% en un año en México](https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308) (Reforma.com)
 
 ## 23-52 (chikungunya)
 

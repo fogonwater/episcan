@@ -1,8 +1,460 @@
 {
-  "last_updated": "2024-02-08 07:06",
-  "count_articles_total": 1236,
-  "count_articles_new": 22,
+  "last_updated": "2024-02-08 19:05",
+  "count_articles_total": 1257,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 5175,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "DF vacinar\u00e1 contra dengue no fim de semana de Carnaval. Veja 36 locais",
+      "description": "As primeiras 194 mil doses de vacina contra a dengue devem chegar ao DF nesta quinta-feira, mas imuniza\u00e7\u00e3o come\u00e7a na sexta-feira (9/2)",
+      "url": "https://www.metropoles.com/colunas/grande-angular/df-vacinara-contra-dengue-no-fim-de-semana-de-carnaval-veja-36-locais",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/05/11192401/Vacina-criancas-1.jpg",
+      "publishedAt": "2024-02-07 18:57:11",
+      "content": "A vacina\u00e7\u00e3o contra a dengue no Distrito Federal est\u00e1 prevista para ser iniciada nesta sexta-feira (9/2), em 36 pontos da capital do pa\u00eds. Alguns locais onde haver\u00e1 aplica\u00e7\u00e3o da vacina, destinada some\u2026 [+7796 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.998473",
+      "internal_id": "edbd713659560b8d0d04808da589f57718df8fe8c9549fb12701ef7bebf0074b",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5177,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Shtfplan.com",
+      "author": "Mac Slavo",
+      "title": "Bill Gates Pushes Malaria Vaccines On Impoverished Countries",
+      "description": "At the recent World Economic Forum (WEF) meeting in Davos, Bill Gates was asked by reporters about his plans for the coming year. He said he plans on unleashing not only new malaria injections but also \"vaccines\" for tuberculosis (TB), HIV, and even the coron\u2026",
+      "url": "https://www.shtfplan.com/headline-news/bill-gates-pushes-malaria-vaccines-on-impoverished-countries",
+      "urlToImage": "https://www.shtfplan.com/wp-content/uploads/2020/04/bill-gates-e1587987043100.jpg",
+      "publishedAt": "2024-02-07 18:30:17",
+      "content": "At the recent World Economic Forum (WEF) meeting in Davos, Bill Gates was asked by reporters about his plans for the coming year. He said he plans on unleashing not only new malaria injections but al\u2026 [+2435 chars]",
+      "retrievedAt": "2024-02-08 19:05:31.442360",
+      "internal_id": "231d2afcc6db92617f82b9e44ff17080c80e26bc83f1536db7ab2d069f4eea66",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5168,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Dengue spreads fast in Brazil prompting emergency health measures",
+      "description": "The current dengue outbreak in Brazil has been linked to the El Nino phenomenon, bringing increased rainfall and contributing to a larger global increase in dengue fever cases. South America, experiencing rising temperatures, is particularly affected by prolo\u2026",
+      "url": "https://timesofindia.indiatimes.com/world/europe/dengue-spreads-fast-in-brazil-prompting-emergency-health-measures/articleshow/107502561.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107502656,width-1070,height-580,imgsize-66088,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-07 18:06:43",
+      "content": "Only these 10 animals came to bid farewell to God as per legend",
+      "retrievedAt": "2024-02-08 19:05:30.885578",
+      "internal_id": "080f12e7b4737b445a842a5445eee50a5a99565c28885ed356a094aab4a14ac5",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5176,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Serious bacterial infections causing pneumonia, meningitis on the rise in Alberta",
+      "description": "Experts are watching closely as cases of invasive pneumococcal disease rise in Alberta. The potentially life-threatening illness is caused by bacteria known as Streptococcus pneumoniae, which often strike after viral illnesses.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-pneumococcal-disease-1.7106435",
+      "urlToImage": "https://i.cbc.ca/1.7106663.1707249490!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/shutterstock-medium-file.jpg",
+      "publishedAt": "2024-02-07 17:59:50",
+      "content": "Experts are watching closely as cases of invasive pneumococcal disease rise in Alberta. The potentially life-threatening illness is caused by bacteria known as Streptococcus pneumoniae, which often \u2026 [+4795 chars]",
+      "retrievedAt": "2024-02-08 19:05:31.179405",
+      "internal_id": "b2edfa5cf85b5ce21951c46c5348fc046914e4c62a9380e65a5d7e654ec99f60",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5171,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Investing.com",
+      "author": "Reuters",
+      "title": "Dengue spreads fast in Brazil prompting emergency health measures",
+      "description": "Dengue spreads fast in Brazil prompting emergency health measures",
+      "url": "https://www.investing.com/news/world-news/dengue-spreads-fast-in-brazil-prompting-emergency-health-measures-3296043",
+      "urlToImage": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+      "publishedAt": "2024-02-07 17:56:58",
+      "content": "By Ricardo Brito and Anthony Boadle BRASILIA (Reuters) - Dengue fever has surged in Brazil's hot rainy season, forcing health authorities to take emergency measures and start mass vaccination agains\u2026 [+2656 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.899994",
+      "internal_id": "8101d6808412fc2ec76e167ef42e2254489d424e01409b8169ad07805ba27e0b",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5172,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Marketscreener.com",
+      "author": null,
+      "title": "Dengue spreads fast in Brazil prompting emergency health measures",
+      "description": "(marketscreener.com) Dengue fever has surged in Brazil's hot rainy season, forcing health authorities to take emergency measures and start mass vaccination against the mosquito-borne illness.https://www.marketscreener.com/quote/currency/EURO-BRAZILIAN-REAL-EU\u2026",
+      "url": "https://www.marketscreener.com/news/latest/Dengue-spreads-fast-in-Brazil-prompting-emergency-health-measures-45905723/",
+      "urlToImage": "https://www.marketscreener.com/images/reuters/2024-02/2024-02-07T175438Z_2_LYNXMPEK160S0_RTROPTP_3_BRAZIL-DENGUE.JPG",
+      "publishedAt": "2024-02-07 17:54:38",
+      "content": "BRASILIA (Reuters) - Dengue fever has surged in Brazil's hot rainy season, forcing health authorities to take emergency measures and start mass vaccination against the mosquito-borne illness. In th\u2026 [+2722 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.919964",
+      "internal_id": "263450842e64076b85187e38af8ff5fa2e531377147446827c3d7613eac0e3fd",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5174,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Dengue neurol\u00f3gica rara deixa jovem tetrapl\u00e9gica e em coma por 7 meses",
+      "description": "Atualmente com 19 anos, a jovem est\u00e1 cursando nutri\u00e7\u00e3o mesmo com todas as limita\u00e7\u00f5es. Ela teve dengue neurol\u00f3gica e n\u00e3o enxerga nem se move",
+      "url": "https://www.metropoles.com/saude/dengue-neurologica-rara-deixa-jovem-tetraplegica",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/07131644/Dengue-neurologica-cerebro-Poly-Matias-5.jpeg",
+      "publishedAt": "2024-02-07 17:54:05",
+      "content": "Em tempos de epidemia de dengue, um dos quadros mais temidos \u00e9 a vers\u00e3o hemorr\u00e1gica da condi\u00e7\u00e3o. Por\u00e9m, em casos raros, a doen\u00e7a pode causar problemas neurol\u00f3gicos graves. Quando vejo como ela era e\u2026 [+7337 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.994379",
+      "internal_id": "90bbd3bd7b0adb28cf336209249bc6667c896683246e15763bcb0256f692870b",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5185,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Sele\u00e7\u00f5es, Sele\u00e7\u00f5es",
+      "title": "7 dicas para eliminar criadouros de mosquitos da dengue da sua casa",
+      "description": "Confira detalhes importantes para deixar sua casa protegida contra o mosquito da dengue.",
+      "url": "https://delas.ig.com.br/parceiros/selecoes/2024-02-07/7-dicas-para-eliminar-criadouros-de-mosquitos-da-dengue-da-sua-casa.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/2l/pj/li/2lpjliamueln5nk1oxc7c3f8e.jpg",
+      "publishedAt": "2024-02-07 17:05:31",
+      "content": "Com a preocupa\u00e7\u00e3o crescente com doen\u00e7as transmitidas por mosquitos , como a dengue, zika e chikungunya, \u00e9 essencial manter nossa casa livre de criadouros desses insetos. Selecionamos algumas dicas e\u2026 [+2168 chars]",
+      "retrievedAt": "2024-02-08 19:05:31.726408",
+      "internal_id": "3ec96c5dc32b55d7588826a48f570568a82824a6046566f9c1b3e79ec0ee1533",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5181,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Brasil se propone eliminar la malaria y otras seis enfermedades para el a\u00f1o 2030",
+      "description": "Adem\u00e1s, las autoridades pretenden reducir la prevalencia de la tuberculosis y la lepra.",
+      "url": "https://www.montevideo.com.uy/Salud/Brasil-se-propone-eliminar-la-malaria-y-otras-seis-enfermedades-para-el-ano-2030-uc878997",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202402/_W933_80/871051.jpeg",
+      "publishedAt": "2024-02-07 16:49:00",
+      "content": "El Gobierno de Brasil lanz\u00f3 este mi\u00e9rcoles un programa que busca eliminar de aqu\u00ed a 2030 como problema de salud p\u00fablica la malaria y otras seis enfermedades, y reducir la transmisi\u00f3n de siete m\u00e1s,\u2026 [+1725 chars]",
+      "retrievedAt": "2024-02-08 19:05:31.482093",
+      "internal_id": "4fd5e68ac277d711304ee92751305cf33c5d6e133eb81d7af4853ed2fba80491",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5162,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Tamires Ferreira",
+      "title": "Dengue: cidade do Rio confirma 1\u00aa morte de 2024",
+      "description": "Regi\u00e3o decretou estado de emerg\u00eancia em sa\u00fade no in\u00edcio desta semana O post Dengue: cidade do Rio confirma 1\u00aa morte de 2024 apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/07/medicina-e-saude/dengue-cidade-do-rio-confirma-1a-morte-de-2024/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/05/Destaque-dengue-695x500.jpg",
+      "publishedAt": "2024-02-07 16:27:32",
+      "content": "A cidade do Rio de Janeiro confirmou, nesta quarta-feira (7), a primeira morte por dengue no munic\u00edpio este ano. O paciente, um homem de 45 anos, era morador do Complexo da Mar\u00e9, Zona Norte, e estava\u2026 [+1860 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.808749",
+      "internal_id": "dafe4c1f02dd92cbb8b35f6b9b56a19cb89d59c3f2108db92181dd071377bc95",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5164,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Expansion.com",
+      "author": "Expansi\u00f3n",
+      "title": "R\u00edo de Janeiro declara \"el estado de emergencia\" ante los disparados casos de dengue",
+      "description": "Los casos de dengo en Rio de Janeiro se han disparado y ya superan los 10.000 desde que comenz\u00f3 el a\u00f1o, seg\u00fan se public\u00f3 este lunes en el Diario Oficial del Gobierno brasile\u00f1o. El alcaldede R\u00edo ha presentado un plan de contingencia para enfrentar lo que ha ca\u2026",
+      "url": "https://www.expansion.com/economia/politica/2024/02/07/65c3a754468aeb4b638b45af.html",
+      "urlToImage": "https://phantom-expansion.unidadeditorial.es/63f08c4ddea4d182b45f3c3ee626aa31/crop/185x263/1823x1355/resize/1200/f/webp/assets/multimedia/imagenes/2024/02/07/17073211273412.jpg",
+      "publishedAt": "2024-02-07 16:14:22",
+      "content": "Los casos de dengo en Rio de Janeiro se han disparado y ya superan los 10.000 desde que comenz\u00f3 el a\u00f1o, seg\u00fan se public\u00f3 este lunes en el Diario Oficial del Gobierno brasile\u00f1o. El alcaldede R\u00edo ha pr\u2026 [+1758 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.838267",
+      "internal_id": "5d27ab4468ec77091bcb9656cbef6582e68d11cfaeaf70765c6587fb78ae3230",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5173,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Da Reda\u00e7\u00e3o",
+      "title": "Dengue: \u00e9 falso que suco de lim\u00e3o mate v\u00edrus e acabe com carga viral",
+      "description": "O site boatos.org checou conte\u00fado viral que est\u00e1 sendo amplamente divulgado afirmando que lim\u00e3o cura o v\u00edrus da dengue",
+      "url": "https://www.metropoles.com/saude/dengue-suco-de-limao-mata-virus",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/05/15174040/Suco-de-limao.jpg",
+      "publishedAt": "2024-02-07 15:10:39",
+      "content": "O boato \u00e9 que 200 ml de suco de lim\u00e3o matam o v\u00edrus da dengue e acabam com carga viral e caldo de cana seria o suficiente para tratar a dengue hemorr\u00e1gica. Depois de diversos estados apresentarem si\u2026 [+6356 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.942420",
+      "internal_id": "2fa4e4f56eaf03890edaaa079edc0e43b5760ead756a497d962d37bdeaf62cbc",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5183,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Study suggests prior Zika infection may heighten risk of severe dengue",
+      "description": "A recent study suggests that individuals previously infected with Zika may face an increased risk of developing severe dengue and requiring hospitalization. Published in PLOS Neglected Tropical Diseases, the research highlights the potential implications for \u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/study-suggests-prior-zika-infection-may-heighten-risk-of-severe-dengue/articleshow/107498033.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-107498158,width-1200,height-630,imgsize-414500,overlay-etpanache/photo.jpg",
+      "publishedAt": "2024-02-07 14:10:43",
+      "content": "New Delhi, People who have had zika may be at a higher risk of developing severe dengue and being hospitalised, according to a study that has implications in the development of a vaccine. Previous re\u2026 [+3264 chars]",
+      "retrievedAt": "2024-02-08 19:05:31.711956",
+      "internal_id": "9cc0600402490be90e64e139ed6c18b0eb377c0465c1385d08f78ce1fb562926",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5165,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Pragmatismopolitico.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Heran\u00e7a maldita do governo Bolsonaro: brasileiros buscam ivermectina para tratar dengue",
+      "description": "Milhares de brasileiros est\u00e3o recorrendo ao ivermectina contra a dengue. Isso refor\u00e7a que o legado do bolsonarismo vai muito al\u00e9m de tentativas de golpe de estado, roubo de joias e mais de 700 mil mortos na pandemia. Tamb\u00e9m fez com que o terraplanismo cient\u00edf\u2026",
+      "url": "https://www.pragmatismopolitico.com.br/2024/02/heranca-maldita-do-governo-bolsonaro-brasileiros-buscam-ivermectina-para-tratar-dengue.html",
+      "urlToImage": "https://www.pragmatismopolitico.com.br/wp-content/uploads/2024/02/bolsonaro-ivermectina.jpg",
+      "publishedAt": "2024-02-07 12:15:31",
+      "content": "Leonardo Sakamoto, em seu blog Bolsonaro deveria se orgulhar: a busca por ivermectina para o tratamento da dengue, o que \u00e9 ineficaz, al\u00e9m de ser perigoso para a sa\u00fade, \u00e9 mais um legado de seu govern\u2026 [+4712 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.857366",
+      "internal_id": "0670478214cc69b9c4e50642feef2a975f446639067167492a917b7dbedcfcf5",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5166,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Christian Glass",
+      "title": "Notstand ausgerufen - Dengue-Fieber bedroht Karneval in Rio",
+      "description": "Der Karneval in Brasilien wird von einer Dengue-Fieber-Epidemie \u00fcberschattet. Rund eine Viertelmillion F\u00e4lle sind bekannt. Tausende Tote werden bef\u00fcrchtet.",
+      "url": "https://www.bild.de/ratgeber/gesundheit/gesundheit/notstand-ausgerufen-dengue-fieber-alarm-beim-karneval-in-rio-87065846.bild.html",
+      "urlToImage": "https://images.bild.de/65c344acaea9f549ef85cc60/2ad48698afd09e6523825495455dba6f,871d6fdf?w=1280",
+      "publishedAt": "2024-02-07 11:58:26",
+      "content": "Das Dengue-Fieber w\u00fctet in Brasilien! Ausgerechnet zur Karnevals-Saison. In den ersten vier Wochen des Jahres wurden bereits 217 841 F\u00e4lle in dem s\u00fcdamerikanischen Land registriert. Verglichen mit d\u2026 [+1990 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.873734",
+      "internal_id": "0766f0974ed36f8e3c86f67d70a0ba91e925e2a11c093148cc5c2c31b1739d0f",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5184,
+      "query": [
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Prior zika infection may increase risk of severe dengue: Study",
+      "description": "Science News: NEW DELHI: People who have had zika may be at a higher risk of developing severe dengue and being hospitalised, according to a study that has implicat.",
+      "url": "https://timesofindia.indiatimes.com/home/science/prior-zika-infection-may-increase-risk-of-severe-dengue-study/articleshow/107493609.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107493696,width-1070,height-580,imgsize-22384,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-07 11:56:20",
+      "content": "FOLLOW US ON SOCIAL MEDIA",
+      "retrievedAt": "2024-02-08 19:05:31.718664",
+      "internal_id": "9f19dad63b064a935874f6c5803b5ad734e23939fd5cea6af855b227fef51b9d",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5170,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "Zika infection can raise the severity of dengue",
+      "description": "Dengue is a mosquito-borne viral infection transmitted primarily by the Aedes aegypti mosquito. Symptoms may include high fever, severe headache, joint and muscle pain, rash, and mild bleeding from the nose or gums. In severe cases, dengue can lead to dengue \u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/zika-infection-and-dengue-severity-alarming-study-findings/articleshow/107490499.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-107490460,width-1070,height-580,imgsize-530932,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-02-07 10:48:36",
+      "content": "Esha-Bharat, Jason-Lisa and Sania-Shoaib: Celebs who divorced after 10 yrs together",
+      "retrievedAt": "2024-02-08 19:05:30.896028",
+      "internal_id": "78cda5ac6a53f1716fad88876769a184e5d583968e9c877fe9613852d19012be",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5163,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Euronews",
+      "author": null,
+      "title": "Brazil snaps into action in response to dengue fever outbreak",
+      "description": "Millions are set to be vaccinated against the tropical virus that can be deadly at times.",
+      "url": "https://www.euronews.com/2024/02/07/brazil-snaps-into-action-in-response-to-dengue-fever-outbreak",
+      "urlToImage": "https://static.euronews.com/articles/stories/08/22/29/44/1200x675_cmsv2_1d18d3bf-82c9-5524-a717-128280524357-8222944.jpg",
+      "publishedAt": "2024-02-07 10:15:59",
+      "content": "Millions are set to be vaccinated against the tropical virus that can be deadly at times. Health authorities in Rio de Janeiro have been working to capture and identify infected mosquitoes as an ou\u2026 [+1496 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.831131",
+      "internal_id": "e8a01617a56c1a107836cf4548e3cb6a321a800d306d6947a1360cfe31464fe7",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5186,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Marcel Hobma",
+      "title": "Een gevaarlijk mpox-virus gaat rond in Congo, maar zicht op de uitbraak ontbreekt",
+      "description": "Infectieziekte: Mpox \u2013 voorheen apenpokken \u2013 zorgde in 2022 voor een wereldwijde besmettingsgolf. In Oost-Congo waart nu een riskanter variant rond.",
+      "url": "https://www.nrc.nl/nieuws/2024/02/07/een-gevaarlijk-mpox-virus-gaat-rond-in-congo-maar-zicht-op-de-uitbraak-ontbreekt-a4189345",
+      "urlToImage": "https://images.nrc.nl/AFFjqT9Oj4d9CwvaKxtFfnLzCJw=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2024/02/07112140/data111228427-eb0315.jpg",
+      "publishedAt": "2024-02-07 09:15:28",
+      "content": "Laurens Liesenborghs baande zich in mei 2022 een weg door de jungle van Oost-Congo, op zoek naar een lokale apenpokkenhaard. Als expert infectieziekten was hij samen met zijn collegas van het Institu\u2026 [+9562 chars]",
+      "retrievedAt": "2024-02-08 19:05:32.283023",
+      "internal_id": "c7fca50dfdbb2357a016a95b844bc8b583532f1485d0724494c4bacaec97d93b",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5169,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Expresso.pt",
+      "author": "Lusa",
+      "title": "Dengue no Brasil: este ano j\u00e1 se registaram mais de 300 mil casos prov\u00e1veis, Governo diz que \u00e9 hora do pa\u00eds \u201cse unir\u201d",
+      "description": "Em 2023, o pa\u00eds sul-americano registou mais de 1,6 milh\u00f5es de casos da doen\u00e7a, mais de um quinto de todos os notificados no mundo, e 1094 mortes, um recorde hist\u00f3rico.",
+      "url": "https://expresso.pt/internacional/brasil/2024-02-07-Dengue-no-Brasil-este-ano-ja-se-registaram-mais-de-300-mil-casos-provaveis-Governo-diz-que-e-hora-do-pais-se-unir-702a0d7f",
+      "urlToImage": "https://images.impresa.pt/expresso/2022-02-10-Aedes-aegypti-mosquito-mosquito-da-dengue-ca776fa9/1.91x1?wm=true&outputFormat=jpeg",
+      "publishedAt": "2024-02-07 09:02:38",
+      "content": "A ministra da Sa\u00fade do Brasil apelou \u00e0 uni\u00e3o de todo o pa\u00eds \"contra a dengue\", numa altura em que os casos aumentam exponencialmente em 2024, depois de 2023 ter registado n\u00fameros nunca antes vistos. \u2026 [+2762 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.892182",
+      "internal_id": "ecfcca1fc67424a9c0dcc8b289b2cc58302ea6d956e04a20581019a3cda98e70",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5178,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "King Faisal Specialist Hospital & Research Centre",
+      "title": "Penyelidik di KFSH&RC & KAUST Discover Gene Bertanggungkawab atas Pembiakan Strain Malaria Paling Berbahaya",
+      "description": "RIYADH, Arab Saudi, Feb. 07, 2024 (GLOBE NEWSWIRE) -- Dalam satu kejayaan cemerlang saintifik, sebuah pasukan kajian dari King Faisal Specialist Hospital and Research Centre (KFSH&RC), secara usaha sama dengan King Abdullah University of Science and Technolog\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/02/07/2824915/0/ms/Penyelidik-di-KFSH-RC-KAUST-Discover-Gene-Bertanggungkawab-atas-Pembiakan-Strain-Malaria-Paling-Berbahaya.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/eb8533e8-31ac-4272-a538-631aa9238917",
+      "publishedAt": "2024-02-07 08:30:00",
+      "content": "RIYADH, Arab Saudi, Feb. 07, 2024 (GLOBE NEWSWIRE) -- Dalam satu kejayaan cemerlang saintifik, sebuah pasukan kajian dari King Faisal Specialist Hospital and Research Centre (KFSH&amp;RC), secara usa\u2026 [+3811 chars]",
+      "retrievedAt": "2024-02-08 19:05:31.464025",
+      "internal_id": "b9a8c9bb3d969b474a76ef8d5c1880419b809459eaf8a27e39e8b463cc08de5c",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5179,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "King Faisal Specialist Hospital & Research Centre",
+      "title": "Peneliti di KFSH&RC & KAUST Menemukan Gen Penyebab Reproduksi Strain Malaria yang Paling Berbahaya",
+      "description": "RIYADH, Arab Saudi, Feb. 07, 2024 (GLOBE NEWSWIRE) -- Dalam terobosan ilmiah besar, satu tim peneliti dari King Faisal Specialist Hospital and Research Centre (KFSH&RC), melalui kolaborasi dengan King Abdullah University of Science and Technology (KAUST), yan\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/02/07/2824915/0/id/Peneliti-di-KFSH-RC-KAUST-Menemukan-Gen-Penyebab-Reproduksi-Strain-Malaria-yang-Paling-Berbahaya.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/eb8533e8-31ac-4272-a538-631aa9238917",
+      "publishedAt": "2024-02-07 08:30:00",
+      "content": "RIYADH, Arab Saudi, Feb. 07, 2024 (GLOBE NEWSWIRE) -- Dalam terobosan ilmiah besar, satu tim peneliti dari King Faisal Specialist Hospital and Research Centre (KFSH&amp;RC), melalui kolaborasi dengan\u2026 [+3871 chars]",
+      "retrievedAt": "2024-02-08 19:05:31.468359",
+      "internal_id": "e9a15f1df5bc311386cf3493f2b58d38a5fc44ad7c84e3c949c4636197980a02",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5180,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "King Faisal Specialist Hospital & Research Centre",
+      "title": "Investigadores de KFSH&RC y KAUST descubren gen responsable por la reproducci\u00f3n de la cepa de la malaria m\u00e1s peligrosa",
+      "description": "RIAD, Arabia Saudita, Feb. 07, 2024 (GLOBE NEWSWIRE) -- En un importante avance cient\u00edfico, un equipo de investigaci\u00f3n del King Faisal Specialist Hospital and Research Centre (KFSH&RC), en colaboraci\u00f3n con la King Abdullah University of Science and Technology\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/02/07/2824915/0/es/Investigadores-de-KFSH-RC-y-KAUST-descubren-gen-responsable-por-la-reproducci%C3%B3n-de-la-cepa-de-la-malaria-m%C3%A1s-peligrosa.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/eb8533e8-31ac-4272-a538-631aa9238917",
+      "publishedAt": "2024-02-07 08:30:00",
+      "content": "RIAD, Arabia Saudita, Feb. 07, 2024 (GLOBE NEWSWIRE) -- En un importante avance cient\u00edfico, un equipo de investigaci\u00f3n del King Faisal Specialist Hospital and Research Centre (KFSH&amp;RC), en colabo\u2026 [+3997 chars]",
+      "retrievedAt": "2024-02-08 19:05:31.475115",
+      "internal_id": "e4bce690d3a9568bd42fed6717d936ac0313b1af9d7809b81f947e7db0fc2051",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5182,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "King Faisal Specialist Hospital & Research Centre",
+      "title": "Forscher des KFSH&RC und der KAUST entdecken Gen, das f\u00fcr die Vermehrung des gef\u00e4hrlichsten Malariastamms verantwortlich ist",
+      "description": "RIAD, Saudi-Arabien, Feb. 07, 2024 (GLOBE NEWSWIRE) -- Einem Forscherteam des King Faisal Specialist Hospital and Research Centre (KFSH&RC) ist in Zusammenarbeit mit der King Abdullah University of Science and Technology (KAUST) und Forschern aus dem Vereinig\u2026",
+      "url": "https://www.globenewswire.com/news-release/2024/02/07/2824915/0/de/Forscher-des-KFSH-RC-und-der-KAUST-entdecken-Gen-das-f%C3%BCr-die-Vermehrung-des-gef%C3%A4hrlichsten-Malariastamms-verantwortlich-ist.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/eb8533e8-31ac-4272-a538-631aa9238917",
+      "publishedAt": "2024-02-07 08:30:00",
+      "content": "RIAD, Saudi-Arabien, Feb. 07, 2024 (GLOBE NEWSWIRE) -- Einem Forscherteam des King Faisal Specialist Hospital and Research Centre (KFSH&amp;RC) ist in Zusammenarbeit mit der King Abdullah University \u2026 [+4325 chars]",
+      "retrievedAt": "2024-02-08 19:05:31.486085",
+      "internal_id": "e64562cfed7441b86edaa453b42541be12825970a4cd6cc0f01789b539737097",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5167,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Euronews",
+      "author": null,
+      "title": "Explosion des cas de dengue au Br\u00e9sil, Rio en \u00e9tat d'urgence \u00e0 deux jours de l'ouverture du carnaval",
+      "description": "Face \u00e0 l'explosion des cas de dengue, la ville de Rio a d\u00e9cr\u00e9t\u00e9 l'\u00e9tat d'urgence en sant\u00e9 publique deux jours avant l'ouverture du caranaval. S\u00e3o Paulo est \u00e9galement touch\u00e9e.",
+      "url": "https://fr.euronews.com/2024/02/07/explosion-des-cas-de-dengue-au-bresil-rio-en-etat-durgence-a-deux-jours-de-louverture-du-c",
+      "urlToImage": "https://static.euronews.com/articles/stories/08/22/29/44/1200x675_cmsv2_1d18d3bf-82c9-5524-a717-128280524357-8222944.jpg",
+      "publishedAt": "2024-02-07 07:22:39",
+      "content": "Face \u00e0 l'explosion des cas de dengue, la ville de Rio a d\u00e9cr\u00e9t\u00e9 l'\u00e9tat d'urgence en sant\u00e9 publique deux jours avant l'ouverture du caranaval. S\u00e3o Paulo est \u00e9galement touch\u00e9e. Explosion des cas de d\u2026 [+545 chars]",
+      "retrievedAt": "2024-02-08 19:05:30.878266",
+      "internal_id": "cab3565e01a45751d3397a758d76cb0eb326a03566d79b9e4485c0a17c0708f3",
+      "publishedAtLabel": "Feb 7"
+    },
     {
       "id": 5142,
       "query": [
@@ -22228,78 +22680,6 @@
       "retrievedAt": "2023-12-26 07:05:42.815132",
       "internal_id": "35ad73ea291d58feea1b5e5f9d13a9bd512fbdac11d9b2e00b54d19068be41c6",
       "publishedAtLabel": "Dec 25"
-    },
-    {
-      "id": 3927,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Fabiola Czubaj",
-      "title": "Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevenci\u00f3n contra el dengue",
-      "description": "Lo pide el Ministerio de Salud de la Naci\u00f3n ante la tendencia creciente de contagios locales en las \u00faltimas cinco semanas y el escenario favorable de propagaci\u00f3n con calor, lluvias y movimiento de personas por las Fiestas",
-      "url": "https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/ejemplar-de-mosquito-aedes-aegypti-el-vector-del-IHH4AMNJUBFKBBAQNJZLYLW5VM.jpg?auth=99885fd0bab1bc1eabd0ffea115655e2ee38b25c1a5bfafe3d82f76a984bdc8e&width=768&quality=70&smart=false",
-      "publishedAt": "2023-12-24 18:40:32",
-      "content": "Con un leve repunte de casos dedengue oficializados desde hace cinco semanas y frente a un mayor movimiento de la poblaci\u00f3n en estos d\u00edas por las fiestas de fin de a\u00f1o y el inicio de las vacaciones, \u2026 [+6809 chars]",
-      "retrievedAt": "2023-12-25 19:05:54.740595",
-      "internal_id": "c94a24f03b976225ca782a8e9b1255fe8fcfefdcfb9a904b41e546a707d84bef",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3926,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "OMS: seis em cada 10 pessoas com dengue no mundo s\u00e3o brasileiras",
-      "description": "Relat\u00f3rio da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) aponta que mudan\u00e7as clim\u00e1ticas est\u00e3o tornando a doen\u00e7a mais frequente",
-      "url": "https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/07180100/mosquito-dengue-foco-goiania-goias-1.jpeg",
-      "publishedAt": "2023-12-24 14:07:34",
-      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
-      "retrievedAt": "2023-12-25 19:05:54.708126",
-      "internal_id": "6ac40a477b72828c533418ea7d3439842793f4ab8d7c748d6a04536ef87670aa",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3925,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Reforma.com",
-      "author": "Grupo REFORMA.",
-      "title": "Crece dengue 325% en un a\u00f1o en M\u00e9xico",
-      "description": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%.",
-      "url": "https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308",
-      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/590/4589618.jpg&wm=1&ang=0",
-      "publishedAt": "2023-12-24 11:01:31",
-      "content": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%. Cr\u00e9dito: Archivo",
-      "retrievedAt": "2023-12-25 19:05:54.666597",
-      "internal_id": "afde3d56af0af7cf1b60c99e88794eb3c0fad5f05812fc85c352c2b0035e76ba",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3928,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "30science per Il Fatto",
-      "title": "Dal super computer al nuovo vaccino anti malaria: ecco le pi\u00f9 importanti scoperte scientifiche del 2023 secondo Science",
-      "description": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di quest\u2019anno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di calcolo pari a quella di 5 milioni di comuni pc, una veloci\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/12/14/20348553_large-1.jpg",
-      "publishedAt": "2023-12-24 08:03:22",
-      "content": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di questanno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di \u2026 [+3917 chars]",
-      "retrievedAt": "2023-12-25 19:05:55.553281",
-      "internal_id": "eadb900dbcdd461277b389ec7642f2ccd810844b34d8b5e6d6b45408ba036edb",
-      "publishedAtLabel": "Dec 24"
     }
   ]
 }
