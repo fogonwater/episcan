@@ -1,8 +1,406 @@
 {
-  "last_updated": "2024-02-07 19:05",
-  "count_articles_total": 1210,
-  "count_articles_new": 29,
+  "last_updated": "2024-02-08 07:06",
+  "count_articles_total": 1236,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 5142,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Ionela St\u0103nil\u0103",
+      "title": "Carnavalul de la Rio, pus \u00een pericol de febra Dengue. A fost decretat\u0103 stare de urgen\u021b\u0103 sanitar\u0103, \u00eemboln\u0103virile au explodat",
+      "description": "Este urgen\u021b\u0103 sanitar\u0103 la Rio de Janeiro din cauza febrei Dengue. Ora\u0219ul din Brazilia, unde vineri \u00eencepe cel mai faimos carnaval, a \u00eenregistrat 10.000 de \u00eembolnviri \u00een ultima lun\u0103, dublu fa\u021b\u0103 de accea\u0219i perioad\u0103 a anului trecut.",
+      "url": "https://adevarul.ro/stiri-externe/in-lume/carnavalul-de-la-rio-pus-in-pericol-de-febra-2337883.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-a/a220ecfc-3738-4560-a813-c214ecca1a71/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-02-07 06:28:37",
+      "content": "Este urgen sanitar la Rio de Janeiro din cauza febrei Dengue. Oraul din Brazilia, unde vineri \u00eencepe cel mai faimos carnaval, a \u00eenregistrat 10.000 de \u00eembolnviri \u00een ultima lun, dublu fa de acceai peri\u2026 [+2484 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.515483",
+      "internal_id": "23d0a8e757daf910825e5431473ba5dd72a209d27c5b8090754ed390ccc58d21",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5143,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "'Vacina contra a dengue est\u00e1 pronta para ir \u00e0 Anvisa', diz diretor do Instituto Butantan",
+      "description": "Com efic\u00e1cia entre 73% e 90%, nas v\u00e1rias faixas et\u00e1rias, ela deve chegar \u00e0 ag\u00eancia no segundo semestre de 2024",
+      "url": "https://www.terra.com.br/economia/vacina-contra-a-dengue-esta-pronta-para-ir-a-anvisa-diz-diretor-do-instituto-butantan,fe54c52fbee3f2a56bdf4d382d20e80e5c1uyd0j.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/07/689821292-soota4gnzbijvjmt7jfymjphba.jpg",
+      "publishedAt": "2024-02-07 06:10:28",
+      "content": "J\u00e1 nos anos 90, o infectologista Esper Georges Kallas estava na linha de frente do combate ao v\u00edrus HIV. Entre 2020 e 2021, no pior momento da covid, sua atua\u00e7\u00e3o no Centro de Pesquisas do HC da USP o\u2026 [+5513 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.519391",
+      "internal_id": "e5408dde7810e0b7f21888d08c295d81caf8705897e3c2813728a3ee1445bbd0",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5149,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Dengue: mesmo com epidemia, SUS ainda n\u00e3o definiu in\u00edcio da vacina\u00e7\u00e3o",
+      "description": "O Brasil vive um surto de dengue, com mais de 360 mil casos prov\u00e1veis da doen\u00e7a e 40 mortes confirmadas",
+      "url": "https://www.metropoles.com/brasil/dengue-mesmo-com-epidemia-sus-ainda-nao-definiu-inicio-da-vacinacao",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2024-02-07 05:00:54",
+      "content": "O Brasil enfrenta um aumento nos casos de dengue, o que eleva as preocupa\u00e7\u00f5es de sa\u00fade p\u00fablica em todo o territ\u00f3rio nacional. O Minist\u00e9rio da Sa\u00fade anunciou que a vacina\u00e7\u00e3o contra a doen\u00e7a iniciaria \u2026 [+7066 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.568445",
+      "internal_id": "4b4d2f30da84252bbaf8fbed4c7c1bf7d92ddebc04717654e8aa42ff6f2c244d",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5152,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "Est\u00e1 com dengue? Saiba se \u00e9 necess\u00e1rio fazer isolamento social",
+      "description": "Quando o mosquito pica algu\u00e9m infectado, as pr\u00f3ximas v\u00edtimas do inseto podem pegar o v\u00edrus. Evitar contato pode diminuir epidemia de dengue?",
+      "url": "https://www.metropoles.com/saude/dengue-isolamento-social",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2024-02-07 05:00:50",
+      "content": "O Brasil vive um aumento vertiginoso de casos de dengue. Nas cinco primeiras semanas deste ano, o pa\u00eds registou 364 mil pacientes com suspeita da infec\u00e7\u00e3o, mais que o dobro do mesmo per\u00edodo de 2023. \u2026 [+5637 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.611275",
+      "internal_id": "7aba3e579258956c1d127cea9e23862ff2069ac85b6c73b1a4990844c1d90f6f",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5158,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Portal Manaus Alerta",
+      "title": "Dengue mata crian\u00e7a de 2 anos em Manaus (AM)",
+      "description": "Morte de uma crian\u00e7a de 2 anos aconteceu em 25 de dezembro e foi confirmada pela Prefeitura de Manaus na \u00faltima semana",
+      "url": "https://www.metropoles.com/brasil/dengue-mata-crianca-de-2-anos-em-manaus-am",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06114205/Dengue-nao-e-privilegio-do-DF-e-preocupa-ate-Lula-diz-Celina.jpg",
+      "publishedAt": "2024-02-07 02:32:24",
+      "content": "A Prefeitura de Manaus atualizou os n\u00fameros de casos de dengue, zika, chikungunya, oropouche e mayaro ao divulgar a quinta edi\u00e7\u00e3o do Informe Epidemiol\u00f3gico de Arboviroses, na segunda-feira (5), com d\u2026 [+509 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.650758",
+      "internal_id": "a7ace8003362c4f95bde360ef335d754d0d681422b15a1be7d5a75ba3f5e2c3e",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5141,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Measles outbreak threat: How worried should we be as WHO issues alert over \u2018alarming\u2019 rise and GPs put on notice?",
+      "description": "How worried should we be when a centuries-old disease such as measles is at the centre of a global alert?",
+      "url": "https://www.independent.ie/irish-news/measles-outbreak-threat-how-worried-should-we-be-as-who-issues-alert-over-alarming-rise-and-gps-put-on-notice/a1305646146.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/6410v8m4K2qINKfz3gtZRXaRTrA=/60x0:735x450/629x0/prod-mh-ireland/bac45308-1be2-4611-b55b-c802ec1670be/b7c74113-30ee-40ba-bc12-35ac2221852c/video/video.jpg",
+      "publishedAt": "2024-02-07 02:30:00",
+      "content": "How worried should we be when a centuries-old disease such as measles is at the centre of a global alert? Ireland is classed as vulnerable to an outbreak, although there were few cases here last yea\u2026 [+94 chars]",
+      "retrievedAt": "2024-02-08 07:05:56.193963",
+      "internal_id": "98787f3da40a4a36ac7eebf27ea7560561a3af48f63dada0ee2f41650b5a7d98",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5145,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Mar\u00eda P. Bonmat\u00ed",
+      "title": "La paradoja del dengue: la vacuna m\u00e1s avanzada hasta la fecha no frenar\u00e1 su expansi\u00f3n en Europa",
+      "description": "El f\u00e1rmaco puede ser una herramienta m\u00e1s en zonas end\u00e9micas, pero para frenar su propagaci\u00f3n hay que controlar al mosquito vector.",
+      "url": "https://www.elespanol.com/ciencia/salud/20240207/paradoja-dengue-vacuna-avanzada-fecha-no-frenara-expansion-europa/830667336_0.html",
+      "urlToImage": "https://s1.elespanol.com/2024/02/06/actualidad/830677896_239727880_1706x960.jpg",
+      "publishedAt": "2024-02-07 02:26:16",
+      "content": "El dengue es una de las 10 amenazas m\u00e1s importantes para la salud p\u00fablica, seg\u00fan la OMS. Se trata de una infecci\u00f3n v\u00edrica que provoca fiebre, sarpullidos y dolor. Su mortalidad es mucho m\u00e1s baja que \u2026 [+5592 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.537047",
+      "internal_id": "73b83dc268468d0d6187994e897b15e998b42633caeeff4a39d0c5f272acaf6d",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5159,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Venturesquare.net",
+      "author": "\uc624\ud6a8\uc9c4",
+      "title": "\ub178\uc744, \uc2a4\uc704\uc2a4 \ub9d0\ub77c\ub9ac\uc544 \uadf8\ub8f9 \uac00\uc785",
+      "description": "#\uc628\ub514\ubc14\uc774\uc2a4 #AI #\ud5ec\uc2a4\ucf00\uc5b4 \uae30\uc5c5 #\ub178\uc744\uc774 #\ub9d0\ub77c\ub9ac\uc544 \uc5c6\ub294 \uc138\uc0c1\uc744 \ucd94\uad6c\ud558\ub294 #\uc2a4\uc704\uc2a4 \ub9d0\ub77c\ub9ac\uc544 \uadf8\ub8f9\uc758 \ud68c\uc6d0\uc73c\ub85c \uc120\uc815\ub410\ub2e4. The post \ub178\uc744, \uc2a4\uc704\uc2a4 \ub9d0\ub77c\ub9ac\uc544 \uadf8\ub8f9 \uac00\uc785 appeared first on \ubca4\ucc98\uc2a4\ud018\uc5b4.",
+      "url": "https://www.venturesquare.net/912955",
+      "urlToImage": "https://www.venturesquare.net/wp-content/uploads/2024/02/\ub178\uc744-696x522.jpg",
+      "publishedAt": "2024-02-07 01:37:37",
+      "content": "AI ( ) (Malaria-Free World) (Swiss Malaria Group) (noul GmbH) 7 . miLab MAL . , , (Global Fund, FIND, MMV, Swiss TPH, Terre des Hommes, , ) . miLab MAL 2022 (Unitaid) Scale-up . 2023 10 (ASTMH) 1,\u2026 [+159 chars]",
+      "retrievedAt": "2024-02-08 07:05:58.578006",
+      "internal_id": "ddc56eb880c4b25c4ec3352b481f938946639118a2c4cd8154b557e8ea6a9a73",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5150,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "SP inaugura tenda em Itaquera para atender pacientes com dengue",
+      "description": "O equipamento come\u00e7ou a funcionar na segunda-feira (5) e est\u00e1 dentro da Unidade de Pronto Atendimento (UPA) 26 de agosto, na Vila Carmosina",
+      "url": "https://ultimosegundo.ig.com.br/brasil/sp/2024-02-06/prefeitura-de-sao-paulo-abre-tenda-em-itaquera-para-atender-suspeitas-de-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/59/89/bg/5989bg24sn7quel167hu97jfl.jpg",
+      "publishedAt": "2024-02-07 00:04:16",
+      "content": "A primeira tenda para atendimento a pessoas com sintomas de dengue na cidade de S\u00e3o Paulo come\u00e7ou a funcionar nesta segunda-feira (5). O equipamento est\u00e1 dentro da Unidade de Pronto Atendimento (UP\u2026 [+378 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.587250",
+      "internal_id": "cd180735862fd4a68bc0904702fcf0a23daefc573f9c14882de79f4641cc9dc6",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5156,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Ministra refor\u00e7a a\u00e7\u00f5es de preven\u00e7\u00e3o e controle contra dengue no Brasil",
+      "description": "O Brasil tem mais de 360 mil casos prov\u00e1veis de dengue e 40 vidas perdidas pela doen\u00e7a, segundo o Minist\u00e9rio da Sa\u00fade",
+      "url": "https://www.metropoles.com/brasil/nisia-reforca-acoes-de-prevencao-e-controle-contra-a-dengue-no-brasil",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/01144433/vacina-dengue-covid.jpg",
+      "publishedAt": "2024-02-07 00:03:54",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, refor\u00e7ou a necessidade de ado\u00e7\u00e3o de medidas de combate e preven\u00e7\u00e3o contra o avan\u00e7o da dengue no Brasil. Em pronunciamento realizado na noite desta ter\u00e7a-feira (6/\u2026 [+2609 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.642096",
+      "internal_id": "09b66f8a2002ca7cdeaa5da20592a646de7b5aee34b12f6a2f33448b3474c49c",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5144,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Da Reda\u00e7\u00e3o",
+      "title": "Ministra faz apelo \u00e0 popula\u00e7\u00e3o para eliminar focos de dengue em casa",
+      "description": "Em pronunciamento em rede nacional, N\u00edsia Trindade refor\u00e7ou import\u00e2ncia do combate ao mosquito transmissor da doen\u00e7a",
+      "url": "https://veja.abril.com.br/saude/ministra-faz-apelo-a-populacao-para-eliminar-focos-de-dengue-em-casa",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/02/img_3510_2-e1707264022982.jpg?quality=90&strip=info",
+      "publishedAt": "2024-02-07 00:00:59",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade Em pronunciamento em rede nacional, N\u00edsia Trindade refor\u00e7ou import\u00e2ncia do combate ao mosquito transmissor da doen\u00e7a Por Da Reda\u00e7\u00e3o 6 fev 20\u2026 [+2608 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.522603",
+      "internal_id": "e87a5138ea1ba24d118bcde436f14d954fc7af7efc54fdc9b95b05afccc03a25",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5160,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "Rachel.a.gibson@gsk.com (Anup Pingle), Rachel.a.gibson@gsk.com (Chao Chen), Rachel.a.gibson@gsk.com (Hema Sharma), Rachel.a.gibson@gsk.com (Ioana-Gabriela Fi\u0163a), Rachel.a.gibson@gsk.com (Katie Rolfe), Rachel.a.gibson@gsk.com (Lionel Tan), Rachel.a.gibson@gsk.com (Navin Goyal), Rachel.a.gibson@gsk.com (Panayota Bird), Rachel.a.gibson@gsk.com (Rachel A Gibson), Rachel.a.gibson@gsk.com (Raman Sharma), Rachel.a.gibson@gsk.com (Si\u00f4n Jones)",
+      "title": "Comment on 'The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: An individual patient data meta-analysis'",
+      "description": "A single 300 mg dose of tafenoquine, in combination with chloroquine, is currently approved in several countries for the radical cure (prevention of relapse) of Plasmodium vivax malaria in patients aged \u226516 years. Recently, however, Watson et al. suggested th\u2026",
+      "url": "https://elifesciences.org/articles/89263",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-02-07 00:00:00",
+      "content": "Reviewer #1: I have reviewed: i) the comment from Sharma et al at GSK about the original eLife paper by Watson et al ii) the response from Watson et al to the comment from Sharma et al. The autho\u2026 [+31699 chars]",
+      "retrievedAt": "2024-02-08 07:05:58.588656",
+      "internal_id": "63323ae155016af754c5de94e82a9b85e602cef50badeae6a8f2b1de7523241f",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5161,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "james@tropmedres.ac (Alejandro Llanos Cuentas), james@tropmedres.ac (Cindy S Chu), james@tropmedres.ac (Fran\u00e7ois H Nosten), james@tropmedres.ac (Gavin CKW Koh), james@tropmedres.ac (James A Watson), james@tropmedres.ac (Joel Tarning), james@tropmedres.ac (Julie A Simpson), james@tropmedres.ac (Justin A Green), james@tropmedres.ac (Marcus VG Lacerda), james@tropmedres.ac (Nicholas J White), james@tropmedres.ac (Nicholas PJ Day), james@tropmedres.ac (Richard N Price), james@tropmedres.ac (Robert J Commons)",
+      "title": "Response to comment on 'The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: An individual patient data meta-analysis'",
+      "description": "In our recent paper on the clinical pharmacology of tafenoquine (Watson et al., 2022), we used all available individual patient pharmacometric data from the tafenoquine pre-registration clinical efficacy trials to characterise the determinants of anti-relapse\u2026",
+      "url": "https://elifesciences.org/articles/91283",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-02-07 00:00:00",
+      "content": "In the interests of transparency, eLife includes the editorial decision letter and accompanying author responses. A lightly edited version of the letter sent to the authors after peer review is shown\u2026 [+6108 chars]",
+      "retrievedAt": "2024-02-08 07:05:58.597487",
+      "internal_id": "7dd0920da4842a433097c5fb234c15a1376a29b53c7a8cb3d47939d11c8c5d32",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5146,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Brasil registra mais de 121 mil casos prov\u00e1veis de dengue em 10 dias",
+      "description": "Segundo informa\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade, o Brasil tem, atualmente, 364.855 casos prov\u00e1veis de dengue",
+      "url": "https://www.metropoles.com/brasil/brasil-registra-mais-de-121-mil-casos-provaveis-de-dengue-em-11-dias",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/02134102/crianca-de-cinco-meses-morre-de-dengue-hemorragica-no-DF.jpg",
+      "publishedAt": "2024-02-06 23:05:49",
+      "content": "O Brasil teve aumento de 121 mil casos prov\u00e1veis de dengue em 10 dias, segundo dados divulgados pelo Minist\u00e9rio da Sa\u00fade. A ministra da pasta, N\u00edsia Trindade, afirmou que o pa\u00eds vai iniciar a vacina\u00e7\u2026 [+4706 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.541055",
+      "internal_id": "3de481804566da03e57a93483229cc7a0fe9e53c42c8fbdd52b7b68661c3d878",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 5147,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Guarulhos confirma morte por dengue; s\u00e3o quatro \u00f3bitos em SP",
+      "description": "S\u00c3O PAULO, SP (FOLHAPRESS) - A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo confirmou nesta ter\u00e7a-feira (6) que uma idosa de 104 anos...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/guarulhos-confirma-morte-por-dengue-sao-quatro-obitos-em-sp/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/11/19095054/mosquitos_aedes_aegypti_dengue.webp",
+      "publishedAt": "2024-02-06 22:51:25",
+      "content": "S\u00c3O PAULO, SP (FOLHAPRESS) \u2013 A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo confirmou nesta ter\u00e7a-feira (6) que uma idosa de 104 anos morreu em decorr\u00eancia da dengue em Guarulhos, na regi\u00e3o metropolita\u2026 [+1005 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.548893",
+      "internal_id": "d2df1783faea40ffbbc47c68789a29b116e2c283b8e8f10aad57ee08b5dd81f7",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 5154,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Dengue: v\u00eddeo mostra rotina de atendimentos no Hospital de Campanha",
+      "description": "Apesar da alta demanda de pacientes com suspeita de dengue, muitos elogiaram o atendimento no Hospital de Campanha da For\u00e7a A\u00e9rea Brasileira",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-video-mostra-rotina-de-atendimentos-no-hospital-de-campanha",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06185056/dengue-hcamp-1-compressed.jpg",
+      "publishedAt": "2024-02-06 22:24:26",
+      "content": "Com sintomas de dengue, uma mulher precisou ser carregada para dentro do Hospital de Campanha (HCAMP) da For\u00e7a A\u00e9rea Brasileira (FAB). O Metr\u00f3poles registrou o momento em que ela precisa ser colocada\u2026 [+3130 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.626820",
+      "internal_id": "272779fd7ee521d935b8a482036617ca79d17d6940185c49f9562eb4f334eabc",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 5153,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alan Rios",
+      "title": "Com discuss\u00e3o, CLDF aprova e Iges vai gerir Hospital Cidade do Sol",
+      "description": "GDF enviou projeto \u00e0 CLDF para transferir Hospital Cidade do Sol ao Iges e aprimorar combate \u00e0 dengue. Texto foi aprovado com discuss\u00e3o",
+      "url": "https://www.metropoles.com/distrito-federal/com-discussao-cldf-aprova-e-iges-vai-gerir-hospital-cidade-do-sol",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/08161422/hospital-do-sol-em-ceilandia.jpg",
+      "publishedAt": "2024-02-06 22:16:52",
+      "content": "A C\u00e2mara Legislativa do Distrito Federal (CLDF) aprovou, na tarde desta ter\u00e7a-feira (6/2), o projeto de lei que pretende ampliar as atividades do Instituto de Gest\u00e3o Estrat\u00e9gica de Sa\u00fade do Distrito \u2026 [+3704 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.621332",
+      "internal_id": "9cc46216f8e09811336a94e48250c3d5765ecf211ba3e575510a2b6754426e50",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 5157,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Associated Press",
+      "title": "Rio de Janeiro declares dengue public health emergency ahead of Carnival",
+      "description": "In Brazil, Rio de Janeiro declared a public health emergency because of an outbreak of mosquito-borne dengue fever, just days before Carnival celebrations kick off across Brazil.",
+      "url": "https://www.nbcnews.com/news/latino/rio-de-janeiro-dengue-public-health-emergency-carnival-rcna137610",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240206-brazil-dengue-fever-outbreak-2-se-457p-9749ca.jpg",
+      "publishedAt": "2024-02-06 22:06:53",
+      "content": "RIO DE JANEIRO Rio de Janeiro on Monday has declared a public health emergency because of an outbreak of mosquito-borne dengue fever, the city announced Monday, just days before Carnival celebrations\u2026 [+3289 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.645391",
+      "internal_id": "97b48febcd356fe968f1e4b7f6a190aa48ba1d12cc91785771ace741aa35056c",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 5151,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Ministra da Sa\u00fade alerta sobre surtos de dengue no pa\u00eds e chama mobiliza\u00e7\u00e3o nacional",
+      "description": "GEOVANA OLIVEIRA S\u00c3O PAULO, SP (FOLHAPRESS) - A ministra da Sa\u00fade, N\u00edsia Trindade, fez um alerta na noite desta ter\u00e7a-feira (6) sobre...",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/ministra-da-saude-alerta-sobre-surtos-de-dengue-no-pais-e-chama-mobilizacao-nacional/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/01/30122543/Nisia-Trindade.webp",
+      "publishedAt": "2024-02-06 21:23:50",
+      "content": "S\u00c3O PAULO, SP (FOLHAPRESS) \u2013 A ministra da Sa\u00fade, N\u00edsia Trindade, fez um alerta na noite desta ter\u00e7a-feira (6) sobre o aumento de casos de dengue no pa\u00eds. Em pronunciamento nacional, ela afirmou que \u2026 [+2521 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.597234",
+      "internal_id": "f42204238aed4b5e6f888d8347170248e28be1a5aea419b6815775dff1a1141b",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 5148,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Topm\u00eddia News",
+      "title": "Vendedor \u00e9 preso por deixar c\u00e3es sem comida e infestados de carrapatos",
+      "description": "Vizinhos denunciaram o homem. A casa estava repleta de carrapatos e focos de dengue em Campo Grande (MS)",
+      "url": "https://www.metropoles.com/brasil/vendedor-e-preso-por-deixar-caes-sem-comida-e-infestados-de-carrapatos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06173637/foto-cachorro-com-carrapato-vitima-de-maus-tratos.jpg",
+      "publishedAt": "2024-02-06 20:43:04",
+      "content": "Um vendedor de 32 anos foi preso em flagrante, por maus-tratos de animais, no residencial Cec\u00edlia Meireles, na Vila Nasser, em Campo Grande (MS), nesta ter\u00e7a-feira (6/2). Segundo informa\u00e7\u00f5es obtidas\u2026 [+584 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.558705",
+      "internal_id": "b9f57cbd0524ac749067aadb183ad096d591f5621e515c0c03b5494df6dc8f7b",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 5140,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Sylvia Thompson",
+      "title": "Measles Q&A: How do I know if I have measles, and what should I do if I have it?",
+      "description": "The disease is on the rise and the probability of an outbreak in Ireland is high due to lower uptake of MMR vaccine",
+      "url": "https://www.irishtimes.com/health/2024/02/06/measles-qa-how-do-i-know-if-i-have-measles-and-what-should-i-do-if-i-or-my-child-has-it/",
+      "urlToImage": "https://www.irishtimes.com/resizer/kuLiFRC8njw79aP8U_SCE9IvmGY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6KAZ2HPA6MWPHIDFLQUTSHU4MA.jpg",
+      "publishedAt": "2024-02-06 19:19:42",
+      "content": "Plans are being made for an urgent catch-up vaccination programme for young adults against measles after the Health Service Executive (HSE) warned the probability of an outbreak in Ireland was high. \u2026 [+5417 chars]",
+      "retrievedAt": "2024-02-08 07:05:56.174333",
+      "internal_id": "40a551f47b3d6777b0d4240f6f7549cc0a36f1b18158706fa2a20b5b398e2517",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 5155,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Ivermectina n\u00e3o funciona contra a dengue, alerta Minist\u00e9rio da Sa\u00fade",
+      "description": "Em nota, a pasta esclarece que n\u00e3o reconhece qualquer protocolo que inclua a ivermectina para o tratamento da dengue e rem\u00e9dio n\u00e3o \u00e9 eficaz",
+      "url": "https://www.metropoles.com/saude/ivermectina-nao-funciona-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2021/02/09103515/Bahia-aumentou-estoque-de-ivermectina-no-combate-a-Covid-19-no-sistema-prisional.jpg",
+      "publishedAt": "2024-02-06 19:11:57",
+      "content": "O Minist\u00e9rio da Sa\u00fade desmentiu, nessa segunda-feira (5/2), que a ivermectina tenha efic\u00e1cia na preven\u00e7\u00e3o e tratamento da dengue. O posicionamento vem ap\u00f3s uma s\u00e9rie de fake news divulgadas por algun\u2026 [+4901 chars]",
+      "retrievedAt": "2024-02-08 07:05:57.636427",
+      "internal_id": "1f3e1765eb2142f769e6c6261fd74b274bf080ad487c713df407fc34e7d550bf",
+      "publishedAtLabel": "Feb 6"
+    },
     {
       "id": 5131,
       "query": [
@@ -21830,6 +22228,78 @@
       "retrievedAt": "2023-12-26 07:05:42.815132",
       "internal_id": "35ad73ea291d58feea1b5e5f9d13a9bd512fbdac11d9b2e00b54d19068be41c6",
       "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 3927,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevenci\u00f3n contra el dengue",
+      "description": "Lo pide el Ministerio de Salud de la Naci\u00f3n ante la tendencia creciente de contagios locales en las \u00faltimas cinco semanas y el escenario favorable de propagaci\u00f3n con calor, lluvias y movimiento de personas por las Fiestas",
+      "url": "https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/ejemplar-de-mosquito-aedes-aegypti-el-vector-del-IHH4AMNJUBFKBBAQNJZLYLW5VM.jpg?auth=99885fd0bab1bc1eabd0ffea115655e2ee38b25c1a5bfafe3d82f76a984bdc8e&width=768&quality=70&smart=false",
+      "publishedAt": "2023-12-24 18:40:32",
+      "content": "Con un leve repunte de casos dedengue oficializados desde hace cinco semanas y frente a un mayor movimiento de la poblaci\u00f3n en estos d\u00edas por las fiestas de fin de a\u00f1o y el inicio de las vacaciones, \u2026 [+6809 chars]",
+      "retrievedAt": "2023-12-25 19:05:54.740595",
+      "internal_id": "c94a24f03b976225ca782a8e9b1255fe8fcfefdcfb9a904b41e546a707d84bef",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3926,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "OMS: seis em cada 10 pessoas com dengue no mundo s\u00e3o brasileiras",
+      "description": "Relat\u00f3rio da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) aponta que mudan\u00e7as clim\u00e1ticas est\u00e3o tornando a doen\u00e7a mais frequente",
+      "url": "https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/07180100/mosquito-dengue-foco-goiania-goias-1.jpeg",
+      "publishedAt": "2023-12-24 14:07:34",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2023-12-25 19:05:54.708126",
+      "internal_id": "6ac40a477b72828c533418ea7d3439842793f4ab8d7c748d6a04536ef87670aa",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3925,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Reforma.com",
+      "author": "Grupo REFORMA.",
+      "title": "Crece dengue 325% en un a\u00f1o en M\u00e9xico",
+      "description": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%.",
+      "url": "https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308",
+      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/590/4589618.jpg&wm=1&ang=0",
+      "publishedAt": "2023-12-24 11:01:31",
+      "content": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%. Cr\u00e9dito: Archivo",
+      "retrievedAt": "2023-12-25 19:05:54.666597",
+      "internal_id": "afde3d56af0af7cf1b60c99e88794eb3c0fad5f05812fc85c352c2b0035e76ba",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3928,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "30science per Il Fatto",
+      "title": "Dal super computer al nuovo vaccino anti malaria: ecco le pi\u00f9 importanti scoperte scientifiche del 2023 secondo Science",
+      "description": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di quest\u2019anno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di calcolo pari a quella di 5 milioni di comuni pc, una veloci\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/12/14/20348553_large-1.jpg",
+      "publishedAt": "2023-12-24 08:03:22",
+      "content": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di questanno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di \u2026 [+3917 chars]",
+      "retrievedAt": "2023-12-25 19:05:55.553281",
+      "internal_id": "eadb900dbcdd461277b389ec7642f2ccd810844b34d8b5e6d6b45408ba036edb",
+      "publishedAtLabel": "Dec 24"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 29
-- **Last harvest:** 2024-02-07 19:05
-- **Most recent article:** 2024-02-06 18:55:59
+- **New articles in last harvest:** 22
+- **Last harvest:** 2024-02-08 07:06
+- **Most recent article:** 2024-02-07 06:28:37
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 34 | 2 | 52 | 35 | 65 | 123 | 173 | 81 | 565 |
-| malaria | 21 | 2 | 11 | 51 | 26 | 86 | 25 | 12 | 234 |
-| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 30 | 231 |
-| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 2 | 41 |
+| dengue | 37 | 2 | 52 | 35 | 65 | 123 | 173 | 98 | 585 |
+| malaria | 22 | 2 | 11 | 51 | 26 | 86 | 25 | 15 | 238 |
+| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 32 | 233 |
+| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 3 | 42 |
 | rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 4 | 40 |
-| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 4 | 36 |
+| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 5 | 37 |
 | mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 4 | 35 |
 | meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 4 | 30 |
 | pertussis | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-6 (zika)
+
+- [Dengue mata criança de 2 anos em Manaus (AM)](https://www.metropoles.com/brasil/dengue-mata-crianca-de-2-anos-em-manaus-am) (Metropoles.com)
 
 - [La respuesta inmunitaria es la responsable del daño neurológico que se produce en infecciones como el Zika o Covid-19](https://www.infosalus.com/salud-investigacion/noticia-respuesta-inmunitaria-responsable-dano-neurologico-produce-infecciones-zika-covid-19-20240206180855.html) (Infosalus.com)
 
@@ -78,6 +80,10 @@ Source: [News API](https://newsapi.org/)
 - [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
 
 ## 24-6 (measles)
+
+- [Measles outbreak threat: How worried should we be as WHO issues alert over ‘alarming’ rise and GPs put on notice?](https://www.independent.ie/irish-news/measles-outbreak-threat-how-worried-should-we-be-as-who-issues-alert-over-alarming-rise-and-gps-put-on-notice/a1305646146.html) (Independent.ie)
+
+- [Measles Q&A: How do I know if I have measles, and what should I do if I have it?](https://www.irishtimes.com/health/2024/02/06/measles-qa-how-do-i-know-if-i-have-measles-and-what-should-i-do-if-i-or-my-child-has-it/) (The Irish Times)
 
 - [Measles Outbreak Map Shows Nine States Where Disease Reported](https://www.newsweek.com/measles-outbreak-map-nine-states-cases-spreading-1867403) (Newsweek)
 
@@ -141,6 +147,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (malaria)
 
+- [노을, 스위스 말라리아 그룹 가입](https://www.venturesquare.net/912955) (Venturesquare.net)
+
+- [Comment on 'The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: An individual patient data meta-analysis'](https://elifesciences.org/articles/89263) (Elifesciences.org)
+
+- [Response to comment on 'The clinical pharmacology of tafenoquine in the radical cure of Plasmodium vivax malaria: An individual patient data meta-analysis'](https://elifesciences.org/articles/91283) (Elifesciences.org)
+
 - [Study of Whole blood in Frontline Trauma (SWiFT): implementation study protocol](https://bmjopen.bmj.com/content/14/2/e078953) (The BMJ)
 
 - [Yves Bissouma returns to Spurs after catching malaria](https://worldsoccertalk.com/news/yves-bissouma-returns-to-spurs-after-catching-malaria-20240205-WST-487784.html) (Worldsoccertalk.com)
@@ -166,6 +178,40 @@ Source: [News API](https://newsapi.org/)
 - [iMAGING, aplicación para diagnosticar la malaria usando IA](https://wwwhatsnew.com/2024/02/04/imaging-aplicacion-para-diagnosticar-la-malaria-usando-ia/) (Wwwhatsnew.com)
 
 ## 24-6 (dengue)
+
+- [Carnavalul de la Rio, pus în pericol de febra Dengue. A fost decretată stare de urgență sanitară, îmbolnăvirile au explodat](https://adevarul.ro/stiri-externe/in-lume/carnavalul-de-la-rio-pus-in-pericol-de-febra-2337883.html) (Adevarul.ro)
+
+- ['Vacina contra a dengue está pronta para ir à Anvisa', diz diretor do Instituto Butantan](https://www.terra.com.br/economia/vacina-contra-a-dengue-esta-pronta-para-ir-a-anvisa-diz-diretor-do-instituto-butantan,fe54c52fbee3f2a56bdf4d382d20e80e5c1uyd0j.html) (Terra.com.br)
+
+- [Dengue: mesmo com epidemia, SUS ainda não definiu início da vacinação](https://www.metropoles.com/brasil/dengue-mesmo-com-epidemia-sus-ainda-nao-definiu-inicio-da-vacinacao) (Metropoles.com)
+
+- [Está com dengue? Saiba se é necessário fazer isolamento social](https://www.metropoles.com/saude/dengue-isolamento-social) (Metropoles.com)
+
+- [Dengue mata criança de 2 anos em Manaus (AM)](https://www.metropoles.com/brasil/dengue-mata-crianca-de-2-anos-em-manaus-am) (Metropoles.com)
+
+- [La paradoja del dengue: la vacuna más avanzada hasta la fecha no frenará su expansión en Europa](https://www.elespanol.com/ciencia/salud/20240207/paradoja-dengue-vacuna-avanzada-fecha-no-frenara-expansion-europa/830667336_0.html) (Elespanol.com)
+
+- [SP inaugura tenda em Itaquera para atender pacientes com dengue](https://ultimosegundo.ig.com.br/brasil/sp/2024-02-06/prefeitura-de-sao-paulo-abre-tenda-em-itaquera-para-atender-suspeitas-de-dengue.html) (Ig.com.br)
+
+- [Ministra reforça ações de prevenção e controle contra dengue no Brasil](https://www.metropoles.com/brasil/nisia-reforca-acoes-de-prevencao-e-controle-contra-a-dengue-no-brasil) (Metropoles.com)
+
+- [Ministra faz apelo à população para eliminar focos de dengue em casa](https://veja.abril.com.br/saude/ministra-faz-apelo-a-populacao-para-eliminar-focos-de-dengue-em-casa) (Abril.com.br)
+
+- [Brasil registra mais de 121 mil casos prováveis de dengue em 10 dias](https://www.metropoles.com/brasil/brasil-registra-mais-de-121-mil-casos-provaveis-de-dengue-em-11-dias) (Metropoles.com)
+
+- [Guarulhos confirma morte por dengue; são quatro óbitos em SP](https://jornaldebrasilia.com.br/noticias/brasil/guarulhos-confirma-morte-por-dengue-sao-quatro-obitos-em-sp/) (Jornaldebrasilia.com.br)
+
+- [Dengue: vídeo mostra rotina de atendimentos no Hospital de Campanha](https://www.metropoles.com/distrito-federal/dengue-video-mostra-rotina-de-atendimentos-no-hospital-de-campanha) (Metropoles.com)
+
+- [Com discussão, CLDF aprova e Iges vai gerir Hospital Cidade do Sol](https://www.metropoles.com/distrito-federal/com-discussao-cldf-aprova-e-iges-vai-gerir-hospital-cidade-do-sol) (Metropoles.com)
+
+- [Rio de Janeiro declares dengue public health emergency ahead of Carnival](https://www.nbcnews.com/news/latino/rio-de-janeiro-dengue-public-health-emergency-carnival-rcna137610) (NBC News)
+
+- [Ministra da Saúde alerta sobre surtos de dengue no país e chama mobilização nacional](https://jornaldebrasilia.com.br/noticias/politica-e-poder/ministra-da-saude-alerta-sobre-surtos-de-dengue-no-pais-e-chama-mobilizacao-nacional/) (Jornaldebrasilia.com.br)
+
+- [Vendedor é preso por deixar cães sem comida e infestados de carrapatos](https://www.metropoles.com/brasil/vendedor-e-preso-por-deixar-caes-sem-comida-e-infestados-de-carrapatos) (Metropoles.com)
+
+- [Ivermectina não funciona contra a dengue, alerta Ministério da Saúde](https://www.metropoles.com/saude/ivermectina-nao-funciona-contra-dengue) (Metropoles.com)
 
 - [Dengue: leia íntegra de PL que transfere hospital para gestão do Iges](https://www.metropoles.com/colunas/grande-angular/dengue-leia-integra-de-pl-que-transfere-hospital-para-gestao-do-iges) (Metropoles.com)
 
@@ -330,6 +376,8 @@ Source: [News API](https://newsapi.org/)
 - [Avião da FAB chega a Brasília com insumos para Hospital de Campanha](https://www.metropoles.com/distrito-federal/aviao-da-fab-chega-a-brasilia-com-insumos-para-hospital-de-campanha) (Metropoles.com)
 
 ## 24-6 (chikungunya)
+
+- [Dengue mata criança de 2 anos em Manaus (AM)](https://www.metropoles.com/brasil/dengue-mata-crianca-de-2-anos-em-manaus-am) (Metropoles.com)
 
 - [Com dengue em alta, farmacêutica limita vacina na rede privada](https://veja.abril.com.br/saude/com-dengue-em-alta-farmaceutica-limita-vacina-na-rede-privada) (Abril.com.br)
 
@@ -2625,6 +2673,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Of love letters and distant galaxies: Uplifting stories from 2023](https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023) (FRANCE 24 English)
 
+- [Dal super computer al nuovo vaccino anti malaria: ecco le più importanti scoperte scientifiche del 2023 secondo Science](https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/) (Ilfattoquotidiano.it)
+
 ## 23-52 (leptospirosis)
 
 - [Conoce las enfermedades que golpearon a Cartagena en 2023](https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851) (Eluniversal.com.co)
@@ -2702,6 +2752,12 @@ Source: [News API](https://newsapi.org/)
 - [Millions Infected with Dengue as Temperature Rises](https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html) (VOA News)
 
 - [Por que casos de dengue estão se multiplicando na Europa](https://www.bbc.com/portuguese/articles/crgj2de70r5o) (BBC News)
+
+- [Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevención contra el dengue](https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/) (La Nacion)
+
+- [OMS: seis em cada 10 pessoas com dengue no mundo são brasileiras](https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio) (Metropoles.com)
+
+- [Crece dengue 325% en un año en México](https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308) (Reforma.com)
 
 ## 23-52 (chikungunya)
 
