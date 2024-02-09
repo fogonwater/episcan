@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2024-02-09 07:05
-- **Most recent article:** 2024-02-08 05:12:44
+- **New articles in last harvest:** 25
+- **Last harvest:** 2024-02-09 19:06
+- **Most recent article:** 2024-02-08 18:21:04
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 37 | 2 | 52 | 35 | 65 | 123 | 173 | 124 | 611 |
-| malaria | 22 | 2 | 11 | 51 | 26 | 86 | 25 | 23 | 246 |
-| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 43 | 244 |
-| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 8 | 47 |
-| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 8 | 40 |
+| dengue | 34 | 2 | 52 | 35 | 65 | 123 | 173 | 131 | 615 |
+| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 55 | 256 |
+| malaria | 21 | 2 | 11 | 51 | 26 | 86 | 25 | 25 | 247 |
+| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 10 | 49 |
+| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 10 | 42 |
 | rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 4 | 40 |
 | mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 36 |
-| meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 5 | 31 |
+| meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 6 | 32 |
 | pertussis | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
-| typhoid | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 0 | 8 |
+| typhoid | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 9 |
 | sarampión | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 0 | 7 |
 | yersinia | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 6 |
 | leptospirosis | 3 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 6 |
@@ -32,6 +32,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-6 (zika)
+
+- [DF recebe só 71 mil doses de vacina contra dengue, 36% do previsto](https://www.metropoles.com/colunas/grande-angular/df-recebe-so-71-mil-doses-de-vacina-contra-dengue-36-do-previsto) (Metropoles.com)
+
+- [A pedido do Ministério da Saúde, Fiocruz dobra produção de testes para diagnóstico de dengue](https://noticias.r7.com/brasilia/a-pedido-do-ministerio-da-saude-fiocruz-dobra-producao-de-testes-para-diagnostico-de-dengue-08022024) (R7.com)
 
 - [7 dicas para eliminar criadouros de mosquitos da dengue da sua casa](https://delas.ig.com.br/parceiros/selecoes/2024-02-07/7-dicas-para-eliminar-criadouros-de-mosquitos-da-dengue-da-sua-casa.html) (Ig.com.br)
 
@@ -52,6 +56,10 @@ Source: [News API](https://newsapi.org/)
 ## 24-6 (yersinia)
 
 - [Yersinia Diagnostics Market is set to Reach US$ 4.63 billion at a CAGR of 4.2% from the forecast period 2023 to 2031 | Growth Plus Reports](https://www.globenewswire.com/news-release/2024/02/06/2823985/0/en/Yersinia-Diagnostics-Market-is-set-to-Reach-US-4-63-billion-at-a-CAGR-of-4-2-from-the-forecast-period-2023-to-2031-Growth-Plus-Reports.html) (GlobeNewswire)
+
+## 24-6 (typhoid)
+
+- [Detection of Salmonella Typhi bacteriophages in surface waters as a scalable approach to environmental surveillance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011912) (Plos.org)
 
 ## 24-6 (rabies)
 
@@ -83,6 +91,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (meningitis)
 
+- [Correction: High burden of cryptococcal antigenemia and meningitis among patients presenting at an emergency department in Maputo, Mozambique](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298877) (Plos.org)
+
 - [Serious bacterial infections causing pneumonia, meningitis on the rise in Alberta](https://www.cbc.ca/news/canada/calgary/alberta-pneumococcal-disease-1.7106435) (CBC News)
 
 - [“It can be extremely dangerous”: A microbiologist on the rise of invasive Strep A](https://macleans.ca/society/health/invasive-strep-a-symptoms/) (Maclean's)
@@ -94,6 +104,30 @@ Source: [News API](https://newsapi.org/)
 - [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
 
 ## 24-6 (measles)
+
+- [The U.S. eradicated measles. Here's what brought it back.](https://www.msnbc.com/opinion/msnbc-opinion/measles-spreading-united-states-symptoms-rcna137531) (MSNBC)
+
+- [Measles: What you need to know about the disease, vaccines and who is at risk](https://www.thejournal.ie/what-are-the-symptoms-of-measles-6293480-Feb2024/) (TheJournal.ie)
+
+- [Nine suspected cases of measles reported in Ireland last week](https://www.independent.ie/irish-news/nine-suspected-cases-of-measles-reported-in-ireland-last-week/a1524544440.html) (Independent.ie)
+
+- [Nine suspected measles cases reported in Ireland](https://www.thejournal.ie/measles-cases-in-ireland-6293596-Feb2024/) (TheJournal.ie)
+
+- [Measles cases continuing to rise](https://www.bbc.co.uk/news/articles/cpw795n54g5o) (BBC News)
+
+- [It's no surprise there's a global measles outbreak. But the numbers are 'staggering'](https://www.npr.org/sections/goatsandsoda/2024/02/08/1229540182/its-no-surprise-theres-a-global-measles-outbreak-but-the-numbers-are-staggering) (NPR)
+
+- [Ireland measles: Adult dies in hospital after contracting disease](https://en.protothema.gr/ireland-measles-adult-dies-in-hospital-after-contracting-disease/) (Protothema.gr)
+
+- [Ireland measles: Adult dies in hospital after contracting disease](https://www.bbc.co.uk/news/world-europe-68237808) (BBC News)
+
+- [Sabah steps up measles prevention after Penampang outbreak](https://www.thestar.com.my/news/nation/2024/02/08/sabah-steps-up-measles-prevention-after-penampang-outbreak) (The Star Online)
+
+- [No other confirmed measles cases so far, after death of adult who contracted the disease](https://www.thejournal.ie/no-other-confirmed-measles-cases-so-far-after-death-of-adult-who-contracted-the-disease-6293425-Feb2024/) (TheJournal.ie)
+
+- [Measles death: CMO concerned Ireland could be at ‘high risk’ of outbreak](https://www.irishtimes.com/health/2024/02/08/measles-death-cmo-concerned-ireland-could-be-at-high-risk-of-outbreak/) (The Irish Times)
+
+- [Thursday’s Top News: Sinn Féin support falls by six points to lowest level in three years; Rents continue to rise across Ireland](https://www.irishtimes.com/ireland/2024/02/08/irish-news-updates-sinn-fein-rents-rise-measles-symptoms-global-warming-us-senate-king-charles/) (The Irish Times)
 
 - [Sabah Health Dept: 30 measles cases detected in Penampang](https://www.malaymail.com/news/malaysia/2024/02/08/sabah-health-dept-30-measles-cases-detected-in-penampang/117000) (Malay Mail)
 
@@ -183,6 +217,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (malaria)
 
+- [Proven Vector Control Interventions Needed to Stem Malaria Infections in Africa](https://www.ipsnews.net/2024/02/proven-vector-control-interventions-needed-stem-new-incidence-malaria-infection-africa/) (Inter Press Service)
+
+- [Smog, nel 2023 limiti di polveri sottili superati in 18 città](https://www.ilsole24ore.com/art/smog-2023-limiti-polveri-sottili-superati-18-citta-AF3wWCeC) (Il Sole 24 Ore)
+
 - [Modeling resource allocation strategies for insecticide-treated bed nets to achieve malaria eradication](https://elifesciences.org/articles/88283) (Elifesciences.org)
 
 - [Las 5 principales noticias de Venezuela hoy: Machado habla con el Congreso de EEUU. Mueren indígenas por malaria. Y más](https://www.vozdeamerica.com/a/las-5-principales-noticias-de-venezuela-hoy-machado-habla-con-el-congreso-de-eeuu-mueren-indigenas-por-malaria-/7478286.html) (Vozdeamerica.com)
@@ -230,6 +268,20 @@ Source: [News API](https://newsapi.org/)
 - [iMAGING, aplicación para diagnosticar la malaria usando IA](https://wwwhatsnew.com/2024/02/04/imaging-aplicacion-para-diagnosticar-la-malaria-usando-ia/) (Wwwhatsnew.com)
 
 ## 24-6 (dengue)
+
+- [GO: Anápolis disponibiliza vans para transportar pacientes com dengue](https://www.metropoles.com/brasil/go-anapolis-disponibiliza-vans-para-transportar-pacientes-com-dengue) (Metropoles.com)
+
+- [Avanço da dengue no Brasil: o que pode ser feito?](https://brasilescola.uol.com.br/noticias/casos-de-dengue-avancam-no-brasil/3130003.html) (Uol.com.br)
+
+- [Dengue em SP: capital registra 1ª morte por doença no ano](https://www.metropoles.com/sao-paulo/dengue-em-sp-capital-registra-1a-morte-por-doenca-no-ano) (Metropoles.com)
+
+- [Dengue Fever: What You Need To Know About The Mosquito-Borne Threat Surging Worldwide](https://www.forbes.com/sites/roberthart/2024/02/08/dengue-fever-what-you-need-to-know-about-the-mosquito-borne-threat-surging-worldwide/) (Forbes)
+
+- [Brasil suma 54 muertes por dengue y casi 400.000 casos en lo que va del año](https://cnnespanol.cnn.com/2024/02/08/brasil-54-muertes-por-dengue-y-casi-400-000-casos-en-lo-que-va-del-ano-trax/) (CNN)
+
+- [Dengue-Fieber überschattet Karneval in Rio de Janeiro](https://www.welt.de/vermischtes/video249978168/Brasilien-Dengue-Fieber-ueberschattet-Karneval-in-Rio-de-Janeiro.html) (DIE WELT)
+
+- [Ţara ce a declarat stare de urgenţă din cauza ţânţarilor](https://www.mediafax.ro/social/tara-ce-a-declarat-stare-de-urgenta-din-cauza-tantarilor-22257755) (Mediafax.ro)
 
 - [Cidade do Rio confirma primeira morte por dengue em 2024](https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila/post/2024/02/07/rio-confirma-primeira-morte-por-dengue.ghtml) (Globo)
 
@@ -480,6 +532,10 @@ Source: [News API](https://newsapi.org/)
 - [Avião da FAB chega a Brasília com insumos para Hospital de Campanha](https://www.metropoles.com/distrito-federal/aviao-da-fab-chega-a-brasilia-com-insumos-para-hospital-de-campanha) (Metropoles.com)
 
 ## 24-6 (chikungunya)
+
+- [DF recebe só 71 mil doses de vacina contra dengue, 36% do previsto](https://www.metropoles.com/colunas/grande-angular/df-recebe-so-71-mil-doses-de-vacina-contra-dengue-36-do-previsto) (Metropoles.com)
+
+- [A pedido do Ministério da Saúde, Fiocruz dobra produção de testes para diagnóstico de dengue](https://noticias.r7.com/brasilia/a-pedido-do-ministerio-da-saude-fiocruz-dobra-producao-de-testes-para-diagnostico-de-dengue-08022024) (R7.com)
 
 - [Level 2 - Chikungunya in Timor-Leste](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-timor-leste) (Cdc.gov)
 
@@ -2783,8 +2839,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Of love letters and distant galaxies: Uplifting stories from 2023](https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023) (FRANCE 24 English)
 
-- [Dal super computer al nuovo vaccino anti malaria: ecco le più importanti scoperte scientifiche del 2023 secondo Science](https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/) (Ilfattoquotidiano.it)
-
 ## 23-52 (leptospirosis)
 
 - [Conoce las enfermedades que golpearon a Cartagena en 2023](https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851) (Eluniversal.com.co)
@@ -2862,12 +2916,6 @@ Source: [News API](https://newsapi.org/)
 - [Millions Infected with Dengue as Temperature Rises](https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html) (VOA News)
 
 - [Por que casos de dengue estão se multiplicando na Europa](https://www.bbc.com/portuguese/articles/crgj2de70r5o) (BBC News)
-
-- [Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevención contra el dengue](https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/) (La Nacion)
-
-- [OMS: seis em cada 10 pessoas com dengue no mundo são brasileiras](https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio) (Metropoles.com)
-
-- [Crece dengue 325% en un año en México](https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308) (Reforma.com)
 
 ## 23-52 (chikungunya)
 
