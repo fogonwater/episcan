@@ -1,8 +1,494 @@
 {
-  "last_updated": "2024-02-08 19:05",
-  "count_articles_total": 1257,
-  "count_articles_new": 25,
+  "last_updated": "2024-02-09 07:05",
+  "count_articles_total": 1289,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 5197,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Malay Mail",
+      "author": "Malay Mail",
+      "title": "Sabah Health Dept: 30 measles cases detected in Penampang",
+      "description": "KOTA KINABALU, Feb 8 \u2015 A total of 30 measles cases have been detected in the Penampang district as of the 5th epidemiological week (ME05) this year, said Sabah Health...",
+      "url": "https://www.malaymail.com/news/malaysia/2024/02/08/sabah-health-dept-30-measles-cases-detected-in-penampang/117000",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2024/02/08/thumbs/400x400/185301.jpg",
+      "publishedAt": "2024-02-08 05:12:44",
+      "content": "KOTA KINABALU, Feb 8 A total of 30 measles cases have been detected in the Penampang district as of the 5th epidemiological week (ME05) this year, said Sabah Health Department director Datuk Dr Asits\u2026 [+1179 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.172981",
+      "internal_id": "f397cf446921bcfbd9bcc13385e42938f2b702ee1cbc85bb4d2f8f483e727775",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5214,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Chikungunya in Timor-Leste",
+      "description": "There is an outbreak of chikungunya in Timor-Leste. You can protect yourself by preventing mosquito bites.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-timor-leste",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2024-02-08 05:00:00",
+      "content": "Chikungunya disease is caused by the chikungunya virus and is spread to humans through mosquito bites. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, the Caribbean, and India\u2026 [+1004 chars]",
+      "retrievedAt": "2024-02-09 07:05:29.811852",
+      "internal_id": "77224da3604991b4f79c7546f17e296aa4ca87a6e6ba0b8b4a425a66db3a385e",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5213,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Doran, C., Duits, A. J., Gerstenbluth, I., Tami, A., Bailey, A.",
+      "title": "Adaptive coping strategies among individuals living with long-term chikungunya disease: a qualitative study in Curacao",
+      "description": "Objective Long-term chikungunya disease is characterised by persistent rheumatic symptoms following chikungunya virus infection. As there is no specific treatment available, affected individuals need strategies to adapt. However, research on these is scarce. \u2026",
+      "url": "https://bmjopen.bmj.com/content/14/2/e076352",
+      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
+      "publishedAt": "2024-02-08 02:36:31",
+      "content": "Introduction Chikungunya is a re-emerging arboviral disease caused by the chikungunya virus (CHIKV) and represents a growing public health problem.1 Over the past two decades, over 10 million cases \u2026 [+11548 chars]",
+      "retrievedAt": "2024-02-09 07:05:29.806673",
+      "internal_id": "930bbc06316c8ec8f882f15fcd1b4c114a7aabcc91487a19ea251b97e8fe0e10",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5202,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Cidade do Rio confirma primeira morte por dengue em 2024",
+      "description": "Paciente era um morador do Complexo da Mar\u00e9, Zona Norte do Rio, de 45 anos, que estava internado em uma unidade de sa\u00fade da regi\u00e3o.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila/post/2024/02/07/rio-confirma-primeira-morte-por-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ckO8Q23qh7WOZV4F3cxcZow6Cwo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/Q/g/5YpxMBScOkWuU3W1EBjA/dengue18.jpg",
+      "publishedAt": "2024-02-08 01:34:11",
+      "content": "O Rio de Janeiro registrou o primeiro caso de morte por dengue esse ano. A informa\u00e7\u00e3o foi confirmada pelo secret\u00e1rio de Sa\u00fade, Daniel Soranz, na manh\u00e3 desta quarta-feira (7). Segundo a SMS, o pacient\u2026 [+793 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.705299",
+      "internal_id": "090dcd41e4be050ffa703bea8a43aa28377d643980960742eab99334647c5ab0",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5200,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Roc\u00edo Mu\u00f1oz-Ledo",
+      "title": "R\u00edo de Janeiro declara emergencia de salud por dengue, mientras Brasil se prepara para el carnaval",
+      "description": "El aumento en los casos de dengue ocurre mientras R\u00edo de Janeiro y todo el pa\u00eds se preparan para las celebraciones de carnaval, en las que millones de personas salen a las calles para participar en desfiles y fiestas.",
+      "url": "https://cnnespanol.cnn.com/2024/02/07/rio-janeiro-emergencia-salud-publica-aumento-significativo-casos-dengue-cnn-brasil-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/02/dengue-rio-janeiro-carnaval.jpg?quality=100&strip=info",
+      "publishedAt": "2024-02-08 01:15:51",
+      "content": "(CNN) -- El alcalde de R\u00edo de Janeiro, en Brasil, Eduardo Paes, declar\u00f3 el estado de emergencia de salud p\u00fablica debido a una epidemia de dengue, report\u00f3 CNN Brasil, afiliada de CNN. El aumento en \u2026 [+2216 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.685179",
+      "internal_id": "b8f50a0a1577797f6f9597b402d43b26311fa610224505a1f452321eef9c6eab",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5187,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Thousands of U.S. schools at risk of measles outbreak, data shows",
+      "description": "More than 8,500 schools in the U.S. are at risk of a measles outbreak as the share of unvaccinated kindergartners grew significantly in the past three years, a CBS News investigation found. Stephen Stock explains.",
+      "url": "https://www.cbsnews.com/video/thousands-of-u-s-schools-at-risk-of-measles-outbreak-data-shows/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/08/d660d5a6-dc6f-4a61-b427-010d5d930ed5/thumbnail/1200x630/d28d07f9fac92d35d2bb18c29ecb4a5a/stock.jpg?v=39487f160c45192867463e7cb2b51dad",
+      "publishedAt": "2024-02-08 00:46:00",
+      "content": "Watch CBS News Copyright \u00a92024 CBS Interactive Inc. All rights reserved. Get browser notifications for breaking news, live events, and exclusive reporting. Not NowTurn On",
+      "retrievedAt": "2024-02-09 07:05:28.065630",
+      "internal_id": "c964144f93dedf5ca11e1350fd8bb772c32045a108d85f671b7ffc7db8a53a5b",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5208,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Testes positivos de dengue sobem de 0,7% para 13% em menos de 2 meses",
+      "description": "O Brasil tem atualmente 392.724 casos prov\u00e1veis de dengue, segundo informa\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade",
+      "url": "https://www.metropoles.com/brasil/testes-positivos-de-dengue-sobem-de-07-para-13-em-menos-de-2-meses",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06114205/Dengue-nao-e-privilegio-do-DF-e-preocupa-ate-Lula-diz-Celina.jpg",
+      "publishedAt": "2024-02-08 00:10:45",
+      "content": "Um levantamento realizado pelo Instituto Todos pela Sa\u00fade (ITpS) mostra que o n\u00famero de testes positivos de dengue no Brasil subiu de 0,7% para 13% em menos de dois meses. O estudo analisou os dados \u2026 [+5258 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.777463",
+      "internal_id": "ea28a183f4a8ca2a03bd538c45f101e17e18528e6bf0374ccc8f8e8093f36f92",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5210,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elifesciences.org",
+      "author": "n.schmit17@ic.ac.uk (Azra C Ghani), n.schmit17@ic.ac.uk (Giovanni D Charles), n.schmit17@ic.ac.uk (Hillary M Topazian), n.schmit17@ic.ac.uk (Katharina Hauck), n.schmit17@ic.ac.uk (Matteo Pianella), n.schmit17@ic.ac.uk (Michael T White), n.schmit17@ic.ac.uk (Nora Schmit), n.schmit17@ic.ac.uk (Peter Winskill)",
+      "title": "Modeling resource allocation strategies for insecticide-treated bed nets to achieve malaria eradication",
+      "description": "Large reductions in the global malaria burden have been achieved, but plateauing funding poses a challenge for progressing towards the ultimate goal of malaria eradication. Using previously published mathematical models of Plasmodium falciparum and Plasmodium\u2026",
+      "url": "https://elifesciences.org/articles/88283",
+      "urlToImage": "https://elifesciences.org/assets/images/social/icon-600x600@1.52e87ee6.png",
+      "publishedAt": "2024-02-08 00:00:00",
+      "content": "The following is the authors response to the current reviews. We thank the editors and reviewers for their helpful comments, which have allowed us to improve the manuscript. Response to reviewer 2 \u2026 [+34551 chars]",
+      "retrievedAt": "2024-02-09 07:05:29.325980",
+      "internal_id": "df87dc2bb4c78205c1b4c9e7bff547bd11b8bf3aeba0e154840ecf09557a2fac",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5205,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "OMS considera surto de dengue no Brasil um \u201cdesafio significativo\u201d",
+      "description": "\"O atual surto de dengue foi alimentado pelo El Ni\u00f1o\", disse diretor-geral da Organiza\u00e7\u00e3o Mundial da Sa\u00fade. O fen\u00f3meno causa o aumento da temperatura o que facilita a prolifera\u00e7\u00e3o dos mosquitos.",
+      "url": "https://observador.pt/2024/02/07/oms-considera-surto-de-dengue-no-brasil-um-desafio-significativo/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F12%2F27183035%2F20319735.jpg",
+      "publishedAt": "2024-02-07 22:45:20",
+      "content": "O diretor-geral da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS), Tedros Adhanom, qualificou esta quarta-feira o surto de dengue no Brasil como um \u201cdesafio significativo\u201d e relacionou-o com o fen\u00f3meno clim\u00e1tico\u2026 [+3299 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.720794",
+      "internal_id": "c41a15b09106a76b8eb2c373f1f7baa3537a9dc01e4914a1b86b7b6e52e08885",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5198,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Zachary Folk, Forbes Staff, \n Zachary Folk, Forbes Staff\n https://www.forbes.com/sites/zacharyfolk/",
+      "title": "Brazil Places Millions Under Public Health Emergency On Eve Of Carnival\u2014As Dengue Outbreak Grows",
+      "description": "Authorities are rolling out a mass vaccination campaign as the world-famous Carnival nears.",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2024/02/07/brazil-places-millions-under-public-health-emergency-on-eve-of-carnival-as-dengue-outbreak-grows/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65c40010524f649ae3bb621d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-02-07 22:14:09",
+      "content": "Hundreds of thousands of Brazilians have contracted dengue fever since the start of the year, and now public health officials are preparing emergency measures, opening new hospitals and starting a ma\u2026 [+3369 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.659350",
+      "internal_id": "20d6a2ea4fc36a36ac5c377bdf51b98efbaed262f19a530e46412db274ac78e3",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5204,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Vacina\u00e7\u00e3o contra dengue come\u00e7a nesta sexta no Distrito Federal",
+      "description": "Governo informou que deve receber 194 mil doses para imunizar popula\u00e7\u00e3o de 10 a 14 anos, a mais afetada por casos de hospitaliza\u00e7\u00e3o",
+      "url": "https://veja.abril.com.br/saude/vacinacao-contra-dengue-comeca-nesta-sexta-no-distrito-federal",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/01/vacina_dengue.jpg?quality=90&strip=info",
+      "publishedAt": "2024-02-07 22:11:34",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade QDENGA - Governo comprou mais de 5 milh\u00f5es de doses, que ser\u00e3o entregues em etapas (Reprodu\u00e7\u00e3o/Reprodu\u00e7\u00e3o) Continua ap\u00f3s publicidade O gover\u2026 [+3380 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.716586",
+      "internal_id": "d9ee6255e082aa23d20648a01c56ffd448b2acec5e6e0c1d47329d8a1581cc78",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5211,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Vozdeamerica.com",
+      "author": "vozdeamerica@voanews.com (Voz de Am\u00e9rica - Redacci\u00f3n)",
+      "title": "Las 5 principales noticias de Venezuela hoy: Machado habla con el Congreso de EEUU. Mueren ind\u00edgenas por malaria. Y m\u00e1s",
+      "description": "Machado dialoga con congresistas de EEUU. Alertan de brote de malaria en Amazonas. Siguen violaciones a libre expresi\u00f3n. P\u00f3ngase al d\u00eda con las 5 principales noticias de Venezuela hoy 7 de febrero de 2024.",
+      "url": "https://www.vozdeamerica.com/a/las-5-principales-noticias-de-venezuela-hoy-machado-habla-con-el-congreso-de-eeuu-mueren-indigenas-por-malaria-/7478286.html",
+      "urlToImage": "https://gdb.voanews.com/797b9d4f-5952-4f48-bc9a-090339f08cb3_cx0_cy10_cw0_w1200_r1.jpg",
+      "publishedAt": "2024-02-07 21:57:22",
+      "content": "Estas son las 5 noticias m\u00e1s destacadas de Venezuela este mi\u00e9rcoles 7 de febrero de 2024. 1. Machado recibe apoyo bipartidista del Congreso de EEUU Mar\u00eda Corina Machado, candidata presidencial opos\u2026 [+1799 chars]",
+      "retrievedAt": "2024-02-09 07:05:29.352657",
+      "internal_id": "c45ba0896aaa02e5992a1bbb26ae06ffd0026bd23e7e6e2429c8faad550158b3",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5195,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WYMT News",
+      "author": "Olivia Calfee",
+      "title": "Health tips: Confirmed measles case travels through Ky. airport",
+      "description": "Kentucky River District Public Health Director Scott Lockard said the CDC is reporting that there have been no confirmed measles cases in Kentucky this calendar year.",
+      "url": "https://www.wymt.com/2024/02/07/health-tips-confirmed-measles-case-travels-through-ky-airport/",
+      "urlToImage": "https://gray-wymt-prod.cdn.arcpublishing.com/resizer/v2/37YDZ37NEZEXHIUIFCVPBMCTCE.jfif?auth=28c9dbf49527bd467f47b2f2fd15588453ca9974e5de20b446d983ef160793dc&width=1200&height=600&smart=true",
+      "publishedAt": "2024-02-07 21:30:42",
+      "content": "Weekday broadcast of WYMT Mountain News First at Four PERRY COUNTY, Ky. (WYMT) - Kentucky health officials reported the Ohio Health Department confirmed a case of the measles in a person from Ohio, \u2026 [+2008 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.162080",
+      "internal_id": "56d9427a414f14612c7f8c0f04f859f5c6a35d8d571541690a08cf779c86cbdf",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5196,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dublin Live",
+      "author": "Https://www.dublinlive.ie/authors/laura-lyne/",
+      "title": "Irish adult with measles dies in hospital, HSE confirm",
+      "description": "The is the first case of the measles reported in Ireland in 2024 - and the first death recorded in years",
+      "url": "https://www.dublinlive.ie/news/health/irish-adult-measles-dies-hospital-28590306",
+      "urlToImage": "https://i2-prod.dublinlive.ie/incoming/article28590319.ece/ALTERNATES/s1200/0_GettyImages-1196157315.jpg",
+      "publishedAt": "2024-02-07 21:21:23",
+      "content": "An Irish adult that was diagnosed with measles has died in hospital, the HSE has confirmed this evening. The death occurred in a hospital in the Dublin and Midlands health region they have said. It\u2026 [+917 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.169082",
+      "internal_id": "b27e442f2bd0586eb7a9f0565d233494bc3e0ae9a879794f1846df4782a71e12",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5207,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Publica\u00e7\u00f5es em redes sociais indicam ivermectina contra dengue; n\u00e3o h\u00e1 efic\u00e1cia comprovada",
+      "description": "LEONARDO ZVARICK E GEOVANA OLIVEIRA S\u00c3O PAULO, SP (FOLHAPRESS) - \"A ivermectina trata a dengue?\", pergunta Robert nesta quarta-feira...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/publicacoes-em-redes-sociais-indicam-ivermectina-contra-dengue-nao-ha-eficacia-comprovada/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2021/02/16132358/ivermectina.jpg",
+      "publishedAt": "2024-02-07 21:06:06",
+      "content": "S\u00c3O PAULO, SP (FOLHAPRESS) \u2013 \u201cA ivermectina trata a dengue?\u201d, pergunta Robert nesta quarta-feira (7) no canal \u201cIvermectina &amp; Sa\u00fade\u201d, no Telegram. Marisa, outra usu\u00e1ria, responde que \u201calguns m\u00e9dic\u2026 [+3507 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.766720",
+      "internal_id": "975c51c8a381efb5a31f42bcc76b4334e4f41d6c39d1df72a15eeef3864ec93b",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5190,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Diarmuid Pepper",
+      "title": "Adult with confirmed measles case dies in hospital in the Dublin and Midlands Health Region",
+      "description": "The HSE said it is taking all necessary public health actions in relation to the case.",
+      "url": "https://www.thejournal.ie/adult-dies-with-confirmed-measles-case-6293259-Feb2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6293259/river/?height=400&version=6293267",
+      "publishedAt": "2024-02-07 21:05:08",
+      "content": "AN ADULT HAS died with a confirmed measles case. The HSE Health Protection Surveillance Centre this evening said the death took place in a hospital in the Dublin and Midlands Health Region. This is\u2026 [+1681 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.102432",
+      "internal_id": "74332cc9849a5f3ddf792ee2ed8a21cc5cfb51bc126f6c3f4789c5d1fca2c746",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5192,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Man who contracted measles dies in Ireland",
+      "description": "A man who had measles has died in a hospital in Ireland, the country's health service executive (HSE) has said.",
+      "url": "https://news.sky.com/story/man-who-contracted-measles-dies-in-ireland-13066402",
+      "urlToImage": "https://e3.365dm.com/24/01/1600x900/skynews-measles-vaccination_6435664.jpg?20240127205635",
+      "publishedAt": "2024-02-07 21:04:00",
+      "content": "A man who had measles has died in a hospital in Ireland, the country's health service executive (HSE) has said. It is the first confirmed measles case in Ireland in 2024. There were four measles ca\u2026 [+2163 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.129633",
+      "internal_id": "1ed37faa072e36da534ecaf706b7ec35c92c292220a5bba7d2d8bf1f608606eb",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5188,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": null,
+      "title": "Adult dies from measles in first such case in Ireland this year",
+      "description": "Health Protection Surveillance Centre says person died in hospital in Dublin and Midlands Health Region",
+      "url": "https://www.irishtimes.com/health/2024/02/07/hse-confirms-death-of-adult-from-measles-in-first-such-case-this-year/",
+      "urlToImage": "https://www.irishtimes.com/resizer/YRH-EWpl0l9C2aXloEjG7iXWcG4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/NTP64MBINTCCIQE4BFYIZPX7K4.jpg",
+      "publishedAt": "2024-02-07 20:58:07",
+      "content": "The HSE has confirmed the death of an adult from measles, the first such death in Ireland this year. The HSEs Health Protection Surveillance Centre said the person died in a hospital in the Dublin a\u2026 [+2137 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.091470",
+      "internal_id": "2f541353a2a19335384efe952e2df25af7a45d371b8d8cf0eccc2138033a2be7",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5191,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Public health officials flag measles case in Montreal",
+      "description": "In a news release on Thursday, public health officials said the person affected probably caught the virus during a trip to Africa.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-case-montreal-1.7107990",
+      "urlToImage": "https://i.cbc.ca/1.7102202.1707013288!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/child-with-measles.jpg",
+      "publishedAt": "2024-02-07 20:55:29",
+      "content": "Montreal public health officials say a case of measles has been reported in Montreal. The case was confirmed and signalled to Montreal Public Health on Tuesday. In a news release on Thursday, the \u2026 [+820 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.120343",
+      "internal_id": "4f866d9d2890e7264c97700ad330a6348a6c933ef86bbcef94c3ad1a6f34e650",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5189,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Death of man diagnosed with measles after trip to UK under investigation",
+      "description": "The death of a man who was diagnosed with measles after a visit to the UK is under investigation, it is understood.",
+      "url": "https://www.independent.ie/irish-news/death-of-man-diagnosed-with-measles-after-trip-to-uk-under-investigation/a204426558.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/9ksU9CWnwJBp6fAPIvEE7HvH6VM=/60x0:735x450/629x0/prod-mh-ireland/c3cd5052-4795-43a6-a539-2c83ad4e6771/5e547ff2-59a5-496d-8dc6-3ee38d6e0b23/video/video.jpg",
+      "publishedAt": "2024-02-07 20:54:27",
+      "content": "The death of a man who was diagnosed with measles after a visit to the UK is under investigation, it is understood.The middle-aged man is understood to have visited the area around Birmingham in the \u2026 [+1839 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.098356",
+      "internal_id": "b97f42ff7c55c9c21cca1a0fcf64c503f32bc043761f1682d52ee814b920f9e5",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5193,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Man (40s) dies after contracting measles following UK trip",
+      "description": "A man in his late forties has died after he contracted measles, the first such case in Ireland this year.",
+      "url": "https://www.independent.ie/irish-news/man-40s-dies-after-contracting-measles-following-uk-trip/a204426558.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/qgn5Gx4BNG991D6E_7eSsIJGJR0=/60x0:735x450/629x0/prod-mh-ireland/c3cd5052-4795-43a6-a539-2c83ad4e6771/90ee28c7-1689-4a66-a7fd-9fdc8a2dd9e0/video/video.jpg",
+      "publishedAt": "2024-02-07 20:54:27",
+      "content": "A man in his late forties has died after he contracted measles, the first such case in Ireland this year.The man, who comes from the Westmeath area, is believed to have travelled to the Birmingham re\u2026 [+4091 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.135660",
+      "internal_id": "ab8f920d5091f0ba0073399466b296d12afed6c6ae340d56801c88fc048799f2",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5194,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Man (40s) has died after he contracted measles, HSE confirms",
+      "description": "A man in his late forties has died after he contracted measles, the HSE has confirmed.",
+      "url": "https://www.independent.ie/irish-news/man-40s-has-died-after-he-contracted-measles-hse-confirms/a204426558.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/qgn5Gx4BNG991D6E_7eSsIJGJR0=/60x0:735x450/629x0/prod-mh-ireland/c3cd5052-4795-43a6-a539-2c83ad4e6771/90ee28c7-1689-4a66-a7fd-9fdc8a2dd9e0/video/video.jpg",
+      "publishedAt": "2024-02-07 20:54:27",
+      "content": "A man in his late forties has died after he contracted measles, the HSE has confirmed.The man, who comes from the Westmeath area, is believed to have travelled to the Birmingham region of the UK rece\u2026 [+4071 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.139693",
+      "internal_id": "83dfb4c2d7dcd7f741a91fc3b0b2193f2a9ae03196ac51e2c2b7fb5c429bc707",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5199,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Bob Furuya",
+      "title": "Dengue: especialistas recomendam uso di\u00e1rio de repelentes",
+      "description": "A doen\u00e7a segue crescendo de forma descontrolada e vai deixando v\u00edtimas; de acordo com Minist\u00e9rio da Sa\u00fade, o Brasil j\u00e1 registrou 36 mortes O post Dengue: especialistas recomendam uso di\u00e1rio de repelentes apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/07/medicina-e-saude/dengue-especialistas-recomendam-uso-diario-de-repelentes/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205-695x500.jpg",
+      "publishedAt": "2024-02-07 20:06:38",
+      "content": "O \u00faltimo relat\u00f3rio do Minist\u00e9rio da Sa\u00fade informa que o pa\u00eds bateu, nesta semana, a assustadora marca de 345.235 casos prov\u00e1veis de dengue em 2024. Trata-se de um salto em rela\u00e7\u00e3o ao mesmo per\u00edodo d\u2026 [+3441 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.663697",
+      "internal_id": "04ebf7740cb6013f22acc950b345f24d846e4a61f77c7682f9b3a0035d708cdd",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5203,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Mai\u00e1 Menezes",
+      "title": "Cidade do Rio registra primeiro caso de morte por dengue em 2024",
+      "description": "Secretaria Municipal de Sa\u00fade informou que a v\u00edtima foi um homem de 45 anos, no Complexo da Mar\u00e9",
+      "url": "https://veja.abril.com.br/brasil/cidade-do-rio-registra-primeiro-caso-de-morte-por-dengue-em-2024",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/aedes_aegypti-dengue2.webp",
+      "publishedAt": "2024-02-07 19:44:02",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade Secretaria Municipal de Sa\u00fade informou que a v\u00edtima foi um homem de 45 anos, no Complexo da Mar\u00e9 Por Mai\u00e1 Menezes 7 fev 2024, 16h44 Aedes \u2026 [+1211 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.709459",
+      "internal_id": "7d71b9a09e056c3fa9f1ed21e37d8c6d368892dce57208edf27f3609a43a86b3",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5201,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Personare",
+      "title": "Receitas caseiras de repelentes naturais",
+      "description": "Os casos de Dengue tiveram uma escalada no Brasil nas primeiras tr\u00eas semanas de 2024, segundo ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/receitas-caseiras-de-repelentes-naturais,320f24c2db6faffcd561313f216cc317lrzeqt9b.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/07/1924831982-repelentes-naturais.jpg",
+      "publishedAt": "2024-02-07 19:28:25",
+      "content": "Os casos de Dengue tiveram uma escalada no Brasil nas primeiras tr\u00eas semanas de 2024, segundo dados do Minist\u00e9rio da Sa\u00fade. Uma das formas de preven\u00e7\u00e3o \u00e9 o uso de repelentes. Por isso, aqui voc\u00ea apre\u2026 [+5234 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.700859",
+      "internal_id": "ea1c6821f52d392cfa85f900833724d2311d2501d481c660d3e2279b2ecc217e",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5209,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Saiba como denunciar poss\u00edveis focos do mosquito de dengue no DF",
+      "description": "Moradores da capital do pa\u00eds podem pedir fiscaliza\u00e7\u00e3o do GDF contra dengue por meio do telefone 199 ou pela internet",
+      "url": "https://www.metropoles.com/distrito-federal/saiba-como-denunciar-possiveis-focos-do-mosquito-de-dengue-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/05130838/forca-tarefa-combate-dengue9.jpg",
+      "publishedAt": "2024-02-07 19:24:01",
+      "content": "Desde o in\u00edcio de fevereiro, o GDF disponibiliza canais de atendimento para que a popula\u00e7\u00e3o denuncie poss\u00edveis locais que sejam foco do Aedes aegypti. O mosquito \u00e9 o transmissor da dengue, doen\u00e7a que\u2026 [+1600 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.793357",
+      "internal_id": "62e29aff0b683d9e9bd4c9423c76cb3ce2c2244863fcf6ae9958f34ef557ae0f",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5206,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Surto faz parte de aumento em escala global da dengue, diz diretor da OMS",
+      "description": "Em evento no Brasil, Tedros Adhanom Ghebreyesus discursou sobre interesse em trabalhar com o desenvolvimento de vacinas contra a doen\u00e7a no pa\u00eds",
+      "url": "https://veja.abril.com.br/saude/surto-faz-parte-de-aumento-em-escala-global-da-dengue-diz-diretor-da-oms",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/02/tedros-lula-nisia.jpg?quality=90&strip=info",
+      "publishedAt": "2024-02-07 19:18:33",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade O diretor-geral da OMS, Tedros Adhanom, o presidente Lula e a ministra da Sa\u00fade, N\u00edsia Trinidade, durante reuni\u00e3o nesta semana (Ricardo Stucker\u2026 [+4916 chars]",
+      "retrievedAt": "2024-02-09 07:05:28.732301",
+      "internal_id": "c18925ed1e4b0d068c21a36488faf79cab279b888088be477d420f8f0c31ec74",
+      "publishedAtLabel": "Feb 7"
+    },
     {
       "id": 5175,
       "query": [
@@ -1789,6 +2275,24 @@
       "content": "A recent re-emergence and outbreak of Mpox brought poxviruses back as a public health threat, underlining an important knowledge gap at their core. Now, a team of researchers from the Institute of Sc\u2026 [+5201 chars]",
       "retrievedAt": "2024-02-07 07:05:39.470816",
       "internal_id": "8f1258b9bd73a9406ea8d13282634970f3611edd03a344b2b10170a96c13e346",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 5212,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Immune response, not acute viral infections, responsible for neurological damage, study finds",
+      "description": "For years, there has been a long-held belief that acute viral infections like Zika or COVID-19 are directly responsible for neurological damage, but researchers have now discovered that it's the immune system's response that is behind it.",
+      "url": "https://www.sciencedaily.com/releases/2024/02/240205165926.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-02-05 21:59:26",
+      "content": "For years, there has been a long-held belief that acute viral infections like Zika or COVID-19 are directly responsible for neurological damage, but researchers from McMaster University have now disc\u2026 [+2685 chars]",
+      "retrievedAt": "2024-02-09 07:05:29.582766",
+      "internal_id": "92695b88e078569c6723f384b5fda325a1d96b389d042f5b286536d18daced0b",
       "publishedAtLabel": "Feb 5"
     },
     {
@@ -22680,6 +23184,78 @@
       "retrievedAt": "2023-12-26 07:05:42.815132",
       "internal_id": "35ad73ea291d58feea1b5e5f9d13a9bd512fbdac11d9b2e00b54d19068be41c6",
       "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 3927,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevenci\u00f3n contra el dengue",
+      "description": "Lo pide el Ministerio de Salud de la Naci\u00f3n ante la tendencia creciente de contagios locales en las \u00faltimas cinco semanas y el escenario favorable de propagaci\u00f3n con calor, lluvias y movimiento de personas por las Fiestas",
+      "url": "https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/ejemplar-de-mosquito-aedes-aegypti-el-vector-del-IHH4AMNJUBFKBBAQNJZLYLW5VM.jpg?auth=99885fd0bab1bc1eabd0ffea115655e2ee38b25c1a5bfafe3d82f76a984bdc8e&width=768&quality=70&smart=false",
+      "publishedAt": "2023-12-24 18:40:32",
+      "content": "Con un leve repunte de casos dedengue oficializados desde hace cinco semanas y frente a un mayor movimiento de la poblaci\u00f3n en estos d\u00edas por las fiestas de fin de a\u00f1o y el inicio de las vacaciones, \u2026 [+6809 chars]",
+      "retrievedAt": "2023-12-25 19:05:54.740595",
+      "internal_id": "c94a24f03b976225ca782a8e9b1255fe8fcfefdcfb9a904b41e546a707d84bef",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3926,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "OMS: seis em cada 10 pessoas com dengue no mundo s\u00e3o brasileiras",
+      "description": "Relat\u00f3rio da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) aponta que mudan\u00e7as clim\u00e1ticas est\u00e3o tornando a doen\u00e7a mais frequente",
+      "url": "https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/07180100/mosquito-dengue-foco-goiania-goias-1.jpeg",
+      "publishedAt": "2023-12-24 14:07:34",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2023-12-25 19:05:54.708126",
+      "internal_id": "6ac40a477b72828c533418ea7d3439842793f4ab8d7c748d6a04536ef87670aa",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3925,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Reforma.com",
+      "author": "Grupo REFORMA.",
+      "title": "Crece dengue 325% en un a\u00f1o en M\u00e9xico",
+      "description": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%.",
+      "url": "https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308",
+      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/590/4589618.jpg&wm=1&ang=0",
+      "publishedAt": "2023-12-24 11:01:31",
+      "content": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%. Cr\u00e9dito: Archivo",
+      "retrievedAt": "2023-12-25 19:05:54.666597",
+      "internal_id": "afde3d56af0af7cf1b60c99e88794eb3c0fad5f05812fc85c352c2b0035e76ba",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3928,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "30science per Il Fatto",
+      "title": "Dal super computer al nuovo vaccino anti malaria: ecco le pi\u00f9 importanti scoperte scientifiche del 2023 secondo Science",
+      "description": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di quest\u2019anno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di calcolo pari a quella di 5 milioni di comuni pc, una veloci\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/12/14/20348553_large-1.jpg",
+      "publishedAt": "2023-12-24 08:03:22",
+      "content": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di questanno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di \u2026 [+3917 chars]",
+      "retrievedAt": "2023-12-25 19:05:55.553281",
+      "internal_id": "eadb900dbcdd461277b389ec7642f2ccd810844b34d8b5e6d6b45408ba036edb",
+      "publishedAtLabel": "Dec 24"
     }
   ]
 }
