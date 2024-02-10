@@ -1,8 +1,264 @@
 {
-  "last_updated": "2024-02-09 19:06",
-  "count_articles_total": 1310,
-  "count_articles_new": 25,
+  "last_updated": "2024-02-10 07:05",
+  "count_articles_total": 1332,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 5240,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan and Gabija Gataveckaite",
+      "title": "Hunt under way for passengers who travelled on same bus as Westmeath man who died after contracting measles",
+      "description": "A man who died in Mullingar Hospital after contracting measles following a trip to the UK was probably infectious for eight days, it has emerged.",
+      "url": "https://www.independent.ie/irish-news/hunt-under-way-for-passengers-who-travelled-on-same-bus-as-westmeath-man-who-died-after-contracting-measles/a530549438.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/7MxyJmEv7GHsIZYeZBaL79HDlgI=/60x0:735x450/629x0/prod-mh-ireland/3d9f0bc9-7c64-443a-8c1a-3f44301f4e9a/50b04d3b-242f-4dc3-b747-863adb1bb18c/video/video.jpg",
+      "publishedAt": "2024-02-09 02:30:00",
+      "content": "A man who died in Mullingar Hospital after contracting measles following a trip to the UK was probably infectious for eight days, it has emerged.His death has prompted a significant tracing exercise \u2026 [+2758 chars]",
+      "retrievedAt": "2024-02-10 07:05:46.164528",
+      "internal_id": "d2925e0cc742da60e747ac344728db44a4ef8a80df3dd80d01af189ff2188d8c",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5241,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan and Gabija Gataveckaite",
+      "title": "Hunt underway for passengers who travelled on same bus as Westmeath man who died after contracting measles",
+      "description": "A man who died in Mullingar Hospital after contracting measles following a trip to the UK was probably infectious for eight days, it has emerged.",
+      "url": "https://www.independent.ie/irish-news/hunt-underway-for-passengers-who-travelled-on-same-bus-as-westmeath-man-who-died-after-contracting-measles/a530549438.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/7MxyJmEv7GHsIZYeZBaL79HDlgI=/60x0:735x450/629x0/prod-mh-ireland/3d9f0bc9-7c64-443a-8c1a-3f44301f4e9a/50b04d3b-242f-4dc3-b747-863adb1bb18c/video/video.jpg",
+      "publishedAt": "2024-02-09 02:30:00",
+      "content": "A man who died in Mullingar Hospital after contracting measles following a trip to the UK was probably infectious for eight days, it has emerged.His death has prompted a significant tracing exercise \u2026 [+2758 chars]",
+      "retrievedAt": "2024-02-10 07:05:46.216370",
+      "internal_id": "4be0c38e9c10a365656483362aedf4592d9fcaa662351d982789a797a48c7d53",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5246,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Estados come\u00e7am a receber vacina contra a dengue",
+      "description": "Inicialmente, a vacina ser\u00e1 aplicada em crian\u00e7as de 10 a 11 anos e, conforme a farmac\u00eautica Takeda for entregando novos lotes, o grupo ser\u00e1 ampliado",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/08/estados-comeam-a-receber-vacina-contra-a-dengue.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-02-09 02:13:57",
+      "content": "O Minist\u00e9rio da Sa\u00fade iniciou nesta quinta-feira (8) a distribui\u00e7\u00e3o das vacinas contra dengue. Receber\u00e3o o primeiro lote, com 712 mil doses, os Estados de Goi\u00e1s, Bahia, Acre, Para\u00edba, Rio Grande do N\u2026 [+1793 chars]",
+      "retrievedAt": "2024-02-10 07:05:47.476412",
+      "internal_id": "9d34ab314baabab0712ee17bd33bb6fbb9fcd0c32910613debabb5ef8bd3b49b",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5251,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "DF e GO s\u00e3o os primeiros a receberem as vacinas contra a dengue",
+      "description": "Crian\u00e7as de 10 a 11 anos ser\u00e3o as primeiras a receberem as doses do imunizante, segundo o Minist\u00e9rio da Sa\u00fade",
+      "url": "https://www.metropoles.com/brasil/df-e-go-sao-os-primeiros-a-receberem-as-vacinas-contra-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08161628/vacina-dengue-qdenga-2.jpeg",
+      "publishedAt": "2024-02-09 02:07:22",
+      "content": "Distrito Federal e Goi\u00e1s foram as primeiras unidades da federa\u00e7\u00e3o a receber as doses da vacina contra a dengue, distribu\u00eddas pelo Minist\u00e9rio da Sa\u00fade. A expectativa do governo federal \u00e9 vacinar, apro\u2026 [+4640 chars]",
+      "retrievedAt": "2024-02-10 07:05:47.610342",
+      "internal_id": "6e398ab07ad0e78928d45e0a5513931e250a798bdaea7d1a709fae746001d016",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5244,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": null,
+      "title": "El Ministerio de Salud confirm\u00f3 un caso de sarampi\u00f3n en la Ciudad de Buenos Aires",
+      "description": "El paciente es un ni\u00f1o de seis a\u00f1os que lleg\u00f3 al pa\u00eds proveniente de Espa\u00f1a y tiene residencia temporaria en territorio porte\u00f1o",
+      "url": "https://www.lanacion.com.ar/sociedad/el-ministerio-de-salud-confirmo-un-caso-de-sarampion-en-la-ciudad-de-buenos-aires-nid08022024/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-ministerio-de-salud-confirmo-un-caso-de-YM2KYWSD4JAYRPBAWKY4K675MQ.jpg?auth=d719e782f8d0b11ef683f36a682ab1c84b2d3008f583333e62f797745c984f07&width=768&quality=70&smart=false",
+      "publishedAt": "2024-02-09 01:00:07",
+      "content": "El Ministerio de Salud de la Naci\u00f3n confirm\u00f3 un caso de sarampi\u00f3n en un ni\u00f1o de seis a\u00f1os procedente de Barcelona pero con residencia temporaria en la Ciudad de Buenos Aires. De acuerdo al informe de\u2026 [+2116 chars]",
+      "retrievedAt": "2024-02-10 07:05:46.669556",
+      "internal_id": "699c58a1f68fc3b88a509de521d393fc278ef1f33582e9b1cdbe8cbcfff37f52",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5242,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Sopitas.com",
+      "author": "Gabriela Espinosa",
+      "title": "Cada vez hay m\u00e1s casos de sarampi\u00f3n: Nos deber\u00eda preocupar pero tambi\u00e9n ocupar",
+      "description": "La UNAM lanza una advertencia que no deber\u00edamos echar en saco roto. A nivel mundial los casos de sarampi\u00f3n est\u00e1n aumentando y se necesita hacer algo... The post Cada vez hay m\u00e1s casos de sarampi\u00f3n: Nos deber\u00eda preocupar pero tambi\u00e9n ocupar appeared first on S\u2026",
+      "url": "https://www.sopitas.com/noticias/casos-sarampion-alerta-oms-unam-secretaria-salud/",
+      "urlToImage": "https://www.sopitas.com/wp-content/uploads/2024/02/sarampion-vacuna-alerta-casos-mundo.jpg",
+      "publishedAt": "2024-02-09 00:36:04",
+      "content": "Lo que necesitas saber: Hay alertas en varias partes del mundo por el aumento de casos de sarampi\u00f3n pero \u00bfcu\u00e1l es la situaci\u00f3n en M\u00e9xico? La UNAM lanza una advertencia que no deber\u00edamos echar en s\u2026 [+4292 chars]",
+      "retrievedAt": "2024-02-10 07:05:46.656787",
+      "internal_id": "4d45d827774b6745448ae27706722c9064e60036cdc886afc1636c0f68cee535",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5248,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Fiocruz dobra produ\u00e7\u00e3o de testes de dengue a pedido da Sa\u00fade",
+      "description": "Segundo o Minist\u00e9rio da Sa\u00fade, o Brasil notificou 395.103 casos poss\u00edveis de dengue ao longo de 2024",
+      "url": "https://www.metropoles.com/brasil/fiocruz-dobra-producao-de-testes-de-dengue-a-pedido-da-saude",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08202623/testes-de-dengue.jpg",
+      "publishedAt": "2024-02-08 23:43:54",
+      "content": "Dengue, zika e chikungunya s\u00e3o doen\u00e7as cujos nomes s\u00e3o conhecidos no Brasil. Os tr\u00eas v\u00edrus transmitidos pelo mesmo mosquito, o Aedes aegypti, t\u00eam maior incid\u00eancia no pa\u00eds em per\u00edodos de chuva e calor\u2026 [+2583 chars]",
+      "retrievedAt": "2024-02-10 07:05:47.557754",
+      "internal_id": "5b5eed9772a2bdde703e9b23fffd24f16cb458a6b2c6558d98921e503cbc223b",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5257,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Hallan una clave inesperada en la lucha contra la malaria",
+      "description": "Cient\u00edficos descubren un tipo de c\u00e9lulas que contribuye a las enfermedades inflamatorias cr\u00f3nicas, tienen una capacidad desconocida hasta ahora para combatir enfermedades. Investigadores de la Universidad Nacional Australiana (ANU) descubrieron una capacidad \u2026",
+      "url": "https://www.dw.com/es/hallan-una-clave-inesperada-en-la-lucha-contra-la-malaria/a-68209766",
+      "urlToImage": "https://static.dw.com/image/68061845_6.jpg",
+      "publishedAt": "2024-02-08 21:26:00",
+      "content": "Investigadores de la Universidad Nacional Australiana (ANU) descubrieron una capacidad desconocida hasta ahora de un grupo de c\u00e9lulas del sistema inmunitario, llamadas c\u00e9lulas B at\u00edpicas (ABC), para \u2026 [+2059 chars]",
+      "retrievedAt": "2024-02-10 07:05:48.780889",
+      "internal_id": "ba8df6b9d76c1dded88ec2fb6041ebc5f9eadb9050ccb4e0cf9b6d4eab3d4cc4",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5245,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Nina Jurna",
+      "title": "In broeierig Brazili\u00eb grijpt het dengue-virus om zich heen",
+      "description": "Knokkelkoorts: Aan de vooravond van het beroemde carnaval van Rio loopt het aantal besmettingen in het hele land snel op. Er zijn gezondheidsposten opgezet en bestrijding van de Aedes aegypti-mug wordt opgevoerd. \u201eDe muggen zijn overal.\u201d",
+      "url": "https://www.nrc.nl/nieuws/2024/02/08/in-broeierig-brazilie-grijpt-dengue-om-zich-heen-a4189627",
+      "urlToImage": "https://images.nrc.nl/5Ccaf6B6ImjJZ4v008ySp7paoGA=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/images/gn4/stripped/data111379316-6c1ac5.jpg",
+      "publishedAt": "2024-02-08 20:59:53",
+      "content": "Verpleegkundige Ana Soares doet blauwe latex handschoenen aan, pakt de arm van pati\u00ebnt Cecilia Davilla (53) en meet haar bloeddruk. Cecilias zoontje van 8 jaar speelt naast haar met een folder waar e\u2026 [+5735 chars]",
+      "retrievedAt": "2024-02-10 07:05:47.466005",
+      "internal_id": "d002d1dd501a771e38c352ea46d2ad8b775b14ae9e9aa2bb926f8e99f81d3c37",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5247,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Com dengue em alta, Fiocruz dobra produ\u00e7\u00e3o de testes para diagn\u00f3stico",
+      "description": "Aumento dos exames produzidos foi pedido do Minist\u00e9rio da Sa\u00fade; zika e chikungunya tamb\u00e9m podem ser diagnosticadas",
+      "url": "https://veja.abril.com.br/saude/com-dengue-em-alta-fiocruz-dobra-producao-de-testes-para-diagnostico",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2024/02/kit-fiocruz.jpeg?quality=90&strip=info",
+      "publishedAt": "2024-02-08 20:45:15",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade (Carlos Andr\u00e9 Lemos - Bio-Manguinhos/Fiocruz/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade Diante do surto de dengue em curso no Brasil, a Funda\u00e7\u00e3o \u2026 [+3507 chars]",
+      "retrievedAt": "2024-02-10 07:05:47.493127",
+      "internal_id": "fac10d5724f60de9a2ae2d2856e8413474dd322bf9253a2f49e415168b85e57f",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5255,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Barbara Mantel",
+      "title": "Fungus that sparked deadly meningitis outbreak aggressively attacked the brainstem",
+      "description": "Fungal meningitis infections from surgery clinics in Mexico last year were found to aggressively attack the brainstem, a new report finds.",
+      "url": "https://www.nbcnews.com/health/health-news/fungus-sparked-deadly-meningitis-outbreak-aggressively-attacked-brains-rcna137780",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230612-medical-clinic-mexico-fungal-meningitis-al-1411-94a529.jpg",
+      "publishedAt": "2024-02-08 19:53:46",
+      "content": "The fungus behind a spate of deadly meningitis cases last year linked to medical clinics in Mexico was found to have aggressively attacked the base of patients brains, researchers said Wednesday in a\u2026 [+6221 chars]",
+      "retrievedAt": "2024-02-10 07:05:47.958782",
+      "internal_id": "29a742488719f6b07f9a1a19b93f07ec0c4fd6d9421b5d193f1ae74a82e3b31f",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5243,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "B\u00fasqueda de sarampi\u00f3n motiv\u00f3 barrido de salud en Roxana de Pococ\u00ed",
+      "description": "Personal de CCSS y Salud realizaron trabajo de campo en busca de personas con s\u00edntomas de sarampi\u00f3n y dar informaci\u00f3n a los pobladores",
+      "url": "https://www.nacion.com/ciencia/salud/busqueda-de-sarampion-motivo-barrido-de-salud-en/W6P6EQJN5VEHREEY4UA7KVGJ4U/story/",
+      "urlToImage": "https://www.nacion.com/resizer/JX-U-t9MYDjdelYjkFoXNI3TjGw=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/S36Z3ZDLHBBVVPEKFH76L6WGYU.jpeg",
+      "publishedAt": "2024-02-08 19:37:00",
+      "content": "Aunque, efectivamente, no se detectaron enfermos, se aprovech\u00f3 para educar sobre los s\u00edntomas de la enfermedad y las acciones que deben seguirse si alguien fuera afectado. En nuestro pa\u00eds ya se reg\u2026 [+2599 chars]",
+      "retrievedAt": "2024-02-10 07:05:46.663513",
+      "internal_id": "0f3b81cd7cf9d04b12a58e07437d13944eaa3d2d99e5a59140342913a27f3598",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5256,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Scientists debunk role of 'junk cells' in fight against malaria",
+      "description": "Researchers have discovered a previously unknown ability of a group of immune system cells, known as Atypical B cells (ABCs), to fight infectious diseases such as malaria. The scientists say ABCs could also be key to developing new treatments for chronic auto\u2026",
+      "url": "https://www.sciencedaily.com/releases/2024/02/240208142446.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-02-08 19:24:46",
+      "content": "Researchers from The Australian National University (ANU) have discovered a previously unknown ability of a group of immune system cells, known as Atypical B cells (ABCs), to fight infectious disease\u2026 [+2719 chars]",
+      "retrievedAt": "2024-02-10 07:05:48.765410",
+      "internal_id": "1b18b849c86a7d7e1e28f845716c77eac3a221a60dc5b63d8a1bcb017e55f9d7",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5250,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "DF pode ter p\u00fablico de vacina contra dengue reduzido para 10 a 11 anos",
+      "description": "O n\u00famero das vacinas enviadas pelo Minist\u00e9rio da Sa\u00fade ao Distrito Federal \u00e9 insuficiente para o p\u00fablico-alvo inicial, de 10 a 14 anos",
+      "url": "https://www.metropoles.com/colunas/grande-angular/df-pode-ter-publico-de-vacina-contra-dengue-reduzido-para-10-a-11-anos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08161620/vacina-dengue-qdenga.jpeg",
+      "publishedAt": "2024-02-08 19:00:34",
+      "content": "Ap\u00f3s o Distrito Federal receber apenas 71.708 doses da vacina contra a dengue, 36% das 194 mil esperadas para a primeira remessa, a imuniza\u00e7\u00e3o na capital do pa\u00eds poder\u00e1 ter a faixa et\u00e1ria do p\u00fablico-\u2026 [+1667 chars]",
+      "retrievedAt": "2024-02-10 07:05:47.594626",
+      "internal_id": "baed0c533c09a260ec5186a75b4a8275614bfc4c6b6e6ddd2c68e7935b5f4eb0",
+      "publishedAtLabel": "Feb 8"
+    },
     {
       "id": 5217,
       "query": [
@@ -61,7 +317,8 @@
       "id": 5237,
       "query": [
         "zika",
-        "chikungunya"
+        "chikungunya",
+        "dengue"
       ],
       "source_id": null,
       "source_name": "Metropoles.com",
@@ -165,6 +422,24 @@
       "content": "Os casos de dengue no Brasil t\u00eam voltado a crescer com a chegada das chuvas. At\u00e9 o momento, dia 8 de fevereiro, j\u00e1 s\u00e3o 392.724 casos prov\u00e1veis da doen\u00e7a e 54 mortes por dengue confirmadas. Ainda h\u00e1 2\u2026 [+4105 chars]",
       "retrievedAt": "2024-02-09 19:06:22.010241",
       "internal_id": "6eb10d526511290f72095a5d933d2286c95f8a9184cabe2fc0b1f3a6d1c1aad6",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5249,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Aparecida (GO) promove atualiza\u00e7\u00e3o sobre dengue para m\u00e9dicos",
+      "description": "Iniciativa visa garantir que eles estejam mais preparados para lidar com o aumento do n\u00famero de casos da doen\u00e7a",
+      "url": "https://www.metropoles.com/brasil/aparecida-go-promove-atualizacao-sobre-dengue-para-medicos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08121805/atualizacao-medicos-dengue-aparecida.jpeg",
+      "publishedAt": "2024-02-08 15:26:53",
+      "content": "Goi\u00e2nia O munic\u00edpio de Aparecida de Goi\u00e2nia, na regi\u00e3o metropolitana da capital goiana, est\u00e1 capacitando todos os m\u00e9dicos da rede sobre o atendimento a casos suspeitos e confirmados de dengue. Est\u00e3o \u2026 [+3519 chars]",
+      "retrievedAt": "2024-02-10 07:05:47.581090",
+      "internal_id": "927dac15d8ce944e33c06bc4779bb4d3441569e1165bfc578bb1a25d562370e7",
       "publishedAtLabel": "Feb 8"
     },
     {
@@ -600,6 +875,24 @@
       "publishedAtLabel": "Feb 8"
     },
     {
+      "id": 5254,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thomaz Molina",
+      "title": "Taubat\u00e9 confirma 1\u00aa morte por dengue em 2024; SP j\u00e1 tem 5 \u00f3bitos",
+      "description": "V\u00edtima \u00e9 um homem de 76 anos que apresentava comorbidades; cidade j\u00e1 em mais mil casos confirmados de dengue, segundo a prefeitura",
+      "url": "https://www.metropoles.com/sao-paulo/taubate-confirma-1a-morte-por-dengue-em-2024-sp-ja-tem-5-obitos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06195253/aedes-aegypti-1.jpg",
+      "publishedAt": "2024-02-07 22:54:41",
+      "content": "S\u00e3o Paulo A Prefeitura de Taubat\u00e9 confirmou nesta quarta-feira (7/2) a morte de um homem de 76 anos por dengue. \u00c9 o primeiro registro de \u00f3bito pela doen\u00e7a na cidade do interior de S\u00e3o Paulo em 2024 e\u2026 [+966 chars]",
+      "retrievedAt": "2024-02-10 07:05:47.641678",
+      "internal_id": "5045c71138811db26da4eb0e3cd273589b79158e3128fba7783039025dff0b47",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
       "id": 5205,
       "query": [
         "dengue"
@@ -672,6 +965,24 @@
       "publishedAtLabel": "Feb 7"
     },
     {
+      "id": 5253,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Qual melhor repelente para evitar a dengue? M\u00e9dicos ensinam a escolher",
+      "description": "M\u00e9dicos entrevistados pelo Metr\u00f3poles ensinam o que levar em considera\u00e7\u00e3o na hora de escolher um repelente contra o mosquito da dengue",
+      "url": "https://www.metropoles.com/saude/melhor-repelente-contra-dengue-escolher",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/01/31192024/repelente-caseiro.jpg",
+      "publishedAt": "2024-02-07 21:49:54",
+      "content": "Os repelentes de uso t\u00f3pico, ou seja, aplicados na pele, s\u00e3o fundamentais na prote\u00e7\u00e3o contra a dengue. O Brasil vive uma epidemia da doen\u00e7a, com o registro de mais de 360 mil casos prov\u00e1veis e 40 mor\u2026 [+5628 chars]",
+      "retrievedAt": "2024-02-10 07:05:47.635851",
+      "internal_id": "535b0d23a81b0a07d5a40e8abe029e05ac7ec1efd1f260a0deeab2b4311f7b93",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
       "id": 5195,
       "query": [
         "measles"
@@ -687,6 +998,24 @@
       "content": "Weekday broadcast of WYMT Mountain News First at Four PERRY COUNTY, Ky. (WYMT) - Kentucky health officials reported the Ohio Health Department confirmed a case of the measles in a person from Ohio, \u2026 [+2008 chars]",
       "retrievedAt": "2024-02-09 07:05:28.162080",
       "internal_id": "56d9427a414f14612c7f8c0f04f859f5c6a35d8d571541690a08cf779c86cbdf",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5252,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Alan Rios",
+      "title": "Ibaneis sanciona lei que cede gest\u00e3o do Hospital Cidade do Sol ao Iges",
+      "description": "Lei prev\u00ea transfer\u00eancia de gest\u00e3o do Hospital Cidade do Sol ao Iges durante per\u00edodo de emerg\u00eancia em sa\u00fade causada pela dengue",
+      "url": "https://www.metropoles.com/distrito-federal/ibaneis-sanciona-lei-que-cede-gestao-do-hospital-cidade-do-sol-ao-iges",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/08161422/hospital-do-sol-em-ceilandia.jpg",
+      "publishedAt": "2024-02-07 21:29:52",
+      "content": "O governador Ibaneis Rocha (MDB) sancionou, nesta quarta-feira (7/2), o projeto de lei que transfere a administra\u00e7\u00e3o do Hospital Cidade do Sol para o Instituto de Gest\u00e3o Estrat\u00e9gica de Sa\u00fade do Distr\u2026 [+2500 chars]",
+      "retrievedAt": "2024-02-10 07:05:47.620204",
+      "internal_id": "faa1b0fa7fafcc6275dbbe4f92af146a9f637418a1abe647dee21c3a91b7d8b0",
       "publishedAtLabel": "Feb 7"
     },
     {
@@ -23636,6 +23965,78 @@
       "retrievedAt": "2023-12-26 07:05:42.815132",
       "internal_id": "35ad73ea291d58feea1b5e5f9d13a9bd512fbdac11d9b2e00b54d19068be41c6",
       "publishedAtLabel": "Dec 25"
+    },
+    {
+      "id": 3927,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevenci\u00f3n contra el dengue",
+      "description": "Lo pide el Ministerio de Salud de la Naci\u00f3n ante la tendencia creciente de contagios locales en las \u00faltimas cinco semanas y el escenario favorable de propagaci\u00f3n con calor, lluvias y movimiento de personas por las Fiestas",
+      "url": "https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/ejemplar-de-mosquito-aedes-aegypti-el-vector-del-IHH4AMNJUBFKBBAQNJZLYLW5VM.jpg?auth=99885fd0bab1bc1eabd0ffea115655e2ee38b25c1a5bfafe3d82f76a984bdc8e&width=768&quality=70&smart=false",
+      "publishedAt": "2023-12-24 18:40:32",
+      "content": "Con un leve repunte de casos dedengue oficializados desde hace cinco semanas y frente a un mayor movimiento de la poblaci\u00f3n en estos d\u00edas por las fiestas de fin de a\u00f1o y el inicio de las vacaciones, \u2026 [+6809 chars]",
+      "retrievedAt": "2023-12-25 19:05:54.740595",
+      "internal_id": "c94a24f03b976225ca782a8e9b1255fe8fcfefdcfb9a904b41e546a707d84bef",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3926,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Bucis",
+      "title": "OMS: seis em cada 10 pessoas com dengue no mundo s\u00e3o brasileiras",
+      "description": "Relat\u00f3rio da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) aponta que mudan\u00e7as clim\u00e1ticas est\u00e3o tornando a doen\u00e7a mais frequente",
+      "url": "https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/07180100/mosquito-dengue-foco-goiania-goias-1.jpeg",
+      "publishedAt": "2023-12-24 14:07:34",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2023-12-25 19:05:54.708126",
+      "internal_id": "6ac40a477b72828c533418ea7d3439842793f4ab8d7c748d6a04536ef87670aa",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3925,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Reforma.com",
+      "author": "Grupo REFORMA.",
+      "title": "Crece dengue 325% en un a\u00f1o en M\u00e9xico",
+      "description": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%.",
+      "url": "https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308",
+      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/590/4589618.jpg&wm=1&ang=0",
+      "publishedAt": "2023-12-24 11:01:31",
+      "content": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%. Cr\u00e9dito: Archivo",
+      "retrievedAt": "2023-12-25 19:05:54.666597",
+      "internal_id": "afde3d56af0af7cf1b60c99e88794eb3c0fad5f05812fc85c352c2b0035e76ba",
+      "publishedAtLabel": "Dec 24"
+    },
+    {
+      "id": 3928,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "30science per Il Fatto",
+      "title": "Dal super computer al nuovo vaccino anti malaria: ecco le pi\u00f9 importanti scoperte scientifiche del 2023 secondo Science",
+      "description": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di quest\u2019anno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di calcolo pari a quella di 5 milioni di comuni pc, una veloci\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/12/14/20348553_large-1.jpg",
+      "publishedAt": "2023-12-24 08:03:22",
+      "content": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di questanno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di \u2026 [+3917 chars]",
+      "retrievedAt": "2023-12-25 19:05:55.553281",
+      "internal_id": "eadb900dbcdd461277b389ec7642f2ccd810844b34d8b5e6d6b45408ba036edb",
+      "publishedAtLabel": "Dec 24"
     }
   ]
 }

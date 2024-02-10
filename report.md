@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2024-02-09 19:06
-- **Most recent article:** 2024-02-08 18:21:04
+- **New articles in last harvest:** 18
+- **Last harvest:** 2024-02-10 07:05
+- **Most recent article:** 2024-02-09 02:30:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 34 | 2 | 52 | 35 | 65 | 123 | 173 | 131 | 615 |
-| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 55 | 256 |
-| malaria | 21 | 2 | 11 | 51 | 26 | 86 | 25 | 25 | 247 |
-| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 10 | 49 |
-| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 10 | 42 |
+| dengue | 37 | 2 | 52 | 35 | 65 | 123 | 173 | 142 | 629 |
+| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 57 | 258 |
+| malaria | 22 | 2 | 11 | 51 | 26 | 86 | 25 | 27 | 250 |
+| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 12 | 51 |
+| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 12 | 44 |
 | rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 4 | 40 |
 | mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 36 |
-| meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 6 | 32 |
+| meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 7 | 33 |
 | pertussis | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
+| sarampión | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 3 | 10 |
 | typhoid | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 9 |
-| sarampión | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 0 | 7 |
 | yersinia | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 6 |
 | leptospirosis | 3 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 6 |
 
@@ -32,6 +32,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-6 (zika)
+
+- [Fiocruz dobra produção de testes de dengue a pedido da Saúde](https://www.metropoles.com/brasil/fiocruz-dobra-producao-de-testes-de-dengue-a-pedido-da-saude) (Metropoles.com)
+
+- [Com dengue em alta, Fiocruz dobra produção de testes para diagnóstico](https://veja.abril.com.br/saude/com-dengue-em-alta-fiocruz-dobra-producao-de-testes-para-diagnostico) (Abril.com.br)
 
 - [DF recebe só 71 mil doses de vacina contra dengue, 36% do previsto](https://www.metropoles.com/colunas/grande-angular/df-recebe-so-71-mil-doses-de-vacina-contra-dengue-36-do-previsto) (Metropoles.com)
 
@@ -60,6 +64,14 @@ Source: [News API](https://newsapi.org/)
 ## 24-6 (typhoid)
 
 - [Detection of Salmonella Typhi bacteriophages in surface waters as a scalable approach to environmental surveillance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011912) (Plos.org)
+
+## 24-6 (sarampión)
+
+- [El Ministerio de Salud confirmó un caso de sarampión en la Ciudad de Buenos Aires](https://www.lanacion.com.ar/sociedad/el-ministerio-de-salud-confirmo-un-caso-de-sarampion-en-la-ciudad-de-buenos-aires-nid08022024/) (La Nacion)
+
+- [Cada vez hay más casos de sarampión: Nos debería preocupar pero también ocupar](https://www.sopitas.com/noticias/casos-sarampion-alerta-oms-unam-secretaria-salud/) (Sopitas.com)
+
+- [Búsqueda de sarampión motivó barrido de salud en Roxana de Pococí](https://www.nacion.com/ciencia/salud/busqueda-de-sarampion-motivo-barrido-de-salud-en/W6P6EQJN5VEHREEY4UA7KVGJ4U/story/) (Nacion.com)
 
 ## 24-6 (rabies)
 
@@ -91,6 +103,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (meningitis)
 
+- [Fungus that sparked deadly meningitis outbreak aggressively attacked the brainstem](https://www.nbcnews.com/health/health-news/fungus-sparked-deadly-meningitis-outbreak-aggressively-attacked-brains-rcna137780) (NBC News)
+
 - [Correction: High burden of cryptococcal antigenemia and meningitis among patients presenting at an emergency department in Maputo, Mozambique](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298877) (Plos.org)
 
 - [Serious bacterial infections causing pneumonia, meningitis on the rise in Alberta](https://www.cbc.ca/news/canada/calgary/alberta-pneumococcal-disease-1.7106435) (CBC News)
@@ -104,6 +118,10 @@ Source: [News API](https://newsapi.org/)
 - [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
 
 ## 24-6 (measles)
+
+- [Hunt under way for passengers who travelled on same bus as Westmeath man who died after contracting measles](https://www.independent.ie/irish-news/hunt-under-way-for-passengers-who-travelled-on-same-bus-as-westmeath-man-who-died-after-contracting-measles/a530549438.html) (Independent.ie)
+
+- [Hunt underway for passengers who travelled on same bus as Westmeath man who died after contracting measles](https://www.independent.ie/irish-news/hunt-underway-for-passengers-who-travelled-on-same-bus-as-westmeath-man-who-died-after-contracting-measles/a530549438.html) (Independent.ie)
 
 - [The U.S. eradicated measles. Here's what brought it back.](https://www.msnbc.com/opinion/msnbc-opinion/measles-spreading-united-states-symptoms-rcna137531) (MSNBC)
 
@@ -217,6 +235,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (malaria)
 
+- [Hallan una clave inesperada en la lucha contra la malaria](https://www.dw.com/es/hallan-una-clave-inesperada-en-la-lucha-contra-la-malaria/a-68209766) (DW (English))
+
+- [Scientists debunk role of 'junk cells' in fight against malaria](https://www.sciencedaily.com/releases/2024/02/240208142446.htm) (Science Daily)
+
 - [Proven Vector Control Interventions Needed to Stem Malaria Infections in Africa](https://www.ipsnews.net/2024/02/proven-vector-control-interventions-needed-stem-new-incidence-malaria-infection-africa/) (Inter Press Service)
 
 - [Smog, nel 2023 limiti di polveri sottili superati in 18 città](https://www.ilsole24ore.com/art/smog-2023-limiti-polveri-sottili-superati-18-citta-AF3wWCeC) (Il Sole 24 Ore)
@@ -269,9 +291,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (dengue)
 
+- [Estados começam a receber vacina contra a dengue](https://valor.globo.com/brasil/noticia/2024/02/08/estados-comeam-a-receber-vacina-contra-a-dengue.ghtml) (Globo)
+
+- [DF e GO são os primeiros a receberem as vacinas contra a dengue](https://www.metropoles.com/brasil/df-e-go-sao-os-primeiros-a-receberem-as-vacinas-contra-a-dengue) (Metropoles.com)
+
+- [Fiocruz dobra produção de testes de dengue a pedido da Saúde](https://www.metropoles.com/brasil/fiocruz-dobra-producao-de-testes-de-dengue-a-pedido-da-saude) (Metropoles.com)
+
+- [In broeierig Brazilië grijpt het dengue-virus om zich heen](https://www.nrc.nl/nieuws/2024/02/08/in-broeierig-brazilie-grijpt-dengue-om-zich-heen-a4189627) (Www.nrc.nl)
+
+- [Com dengue em alta, Fiocruz dobra produção de testes para diagnóstico](https://veja.abril.com.br/saude/com-dengue-em-alta-fiocruz-dobra-producao-de-testes-para-diagnostico) (Abril.com.br)
+
+- [DF pode ter público de vacina contra dengue reduzido para 10 a 11 anos](https://www.metropoles.com/colunas/grande-angular/df-pode-ter-publico-de-vacina-contra-dengue-reduzido-para-10-a-11-anos) (Metropoles.com)
+
+- [DF recebe só 71 mil doses de vacina contra dengue, 36% do previsto](https://www.metropoles.com/colunas/grande-angular/df-recebe-so-71-mil-doses-de-vacina-contra-dengue-36-do-previsto) (Metropoles.com)
+
 - [GO: Anápolis disponibiliza vans para transportar pacientes com dengue](https://www.metropoles.com/brasil/go-anapolis-disponibiliza-vans-para-transportar-pacientes-com-dengue) (Metropoles.com)
 
 - [Avanço da dengue no Brasil: o que pode ser feito?](https://brasilescola.uol.com.br/noticias/casos-de-dengue-avancam-no-brasil/3130003.html) (Uol.com.br)
+
+- [Aparecida (GO) promove atualização sobre dengue para médicos](https://www.metropoles.com/brasil/aparecida-go-promove-atualizacao-sobre-dengue-para-medicos) (Metropoles.com)
 
 - [Dengue em SP: capital registra 1ª morte por doença no ano](https://www.metropoles.com/sao-paulo/dengue-em-sp-capital-registra-1a-morte-por-doenca-no-ano) (Metropoles.com)
 
@@ -289,11 +327,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Testes positivos de dengue sobem de 0,7% para 13% em menos de 2 meses](https://www.metropoles.com/brasil/testes-positivos-de-dengue-sobem-de-07-para-13-em-menos-de-2-meses) (Metropoles.com)
 
+- [Taubaté confirma 1ª morte por dengue em 2024; SP já tem 5 óbitos](https://www.metropoles.com/sao-paulo/taubate-confirma-1a-morte-por-dengue-em-2024-sp-ja-tem-5-obitos) (Metropoles.com)
+
 - [OMS considera surto de dengue no Brasil um “desafio significativo”](https://observador.pt/2024/02/07/oms-considera-surto-de-dengue-no-brasil-um-desafio-significativo/) (Observador.pt)
 
 - [Brazil Places Millions Under Public Health Emergency On Eve Of Carnival—As Dengue Outbreak Grows](https://www.forbes.com/sites/zacharyfolk/2024/02/07/brazil-places-millions-under-public-health-emergency-on-eve-of-carnival-as-dengue-outbreak-grows/) (Forbes)
 
 - [Vacinação contra dengue começa nesta sexta no Distrito Federal](https://veja.abril.com.br/saude/vacinacao-contra-dengue-comeca-nesta-sexta-no-distrito-federal) (Abril.com.br)
+
+- [Qual melhor repelente para evitar a dengue? Médicos ensinam a escolher](https://www.metropoles.com/saude/melhor-repelente-contra-dengue-escolher) (Metropoles.com)
+
+- [Ibaneis sanciona lei que cede gestão do Hospital Cidade do Sol ao Iges](https://www.metropoles.com/distrito-federal/ibaneis-sanciona-lei-que-cede-gestao-do-hospital-cidade-do-sol-ao-iges) (Metropoles.com)
 
 - [Publicações em redes sociais indicam ivermectina contra dengue; não há eficácia comprovada](https://jornaldebrasilia.com.br/noticias/brasil/publicacoes-em-redes-sociais-indicam-ivermectina-contra-dengue-nao-ha-eficacia-comprovada/) (Jornaldebrasilia.com.br)
 
@@ -532,6 +576,10 @@ Source: [News API](https://newsapi.org/)
 - [Avião da FAB chega a Brasília com insumos para Hospital de Campanha](https://www.metropoles.com/distrito-federal/aviao-da-fab-chega-a-brasilia-com-insumos-para-hospital-de-campanha) (Metropoles.com)
 
 ## 24-6 (chikungunya)
+
+- [Fiocruz dobra produção de testes de dengue a pedido da Saúde](https://www.metropoles.com/brasil/fiocruz-dobra-producao-de-testes-de-dengue-a-pedido-da-saude) (Metropoles.com)
+
+- [Com dengue em alta, Fiocruz dobra produção de testes para diagnóstico](https://veja.abril.com.br/saude/com-dengue-em-alta-fiocruz-dobra-producao-de-testes-para-diagnostico) (Abril.com.br)
 
 - [DF recebe só 71 mil doses de vacina contra dengue, 36% do previsto](https://www.metropoles.com/colunas/grande-angular/df-recebe-so-71-mil-doses-de-vacina-contra-dengue-36-do-previsto) (Metropoles.com)
 
@@ -2839,6 +2887,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Of love letters and distant galaxies: Uplifting stories from 2023](https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023) (FRANCE 24 English)
 
+- [Dal super computer al nuovo vaccino anti malaria: ecco le più importanti scoperte scientifiche del 2023 secondo Science](https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/) (Ilfattoquotidiano.it)
+
 ## 23-52 (leptospirosis)
 
 - [Conoce las enfermedades que golpearon a Cartagena en 2023](https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851) (Eluniversal.com.co)
@@ -2916,6 +2966,12 @@ Source: [News API](https://newsapi.org/)
 - [Millions Infected with Dengue as Temperature Rises](https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html) (VOA News)
 
 - [Por que casos de dengue estão se multiplicando na Europa](https://www.bbc.com/portuguese/articles/crgj2de70r5o) (BBC News)
+
+- [Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevención contra el dengue](https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/) (La Nacion)
+
+- [OMS: seis em cada 10 pessoas com dengue no mundo são brasileiras](https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio) (Metropoles.com)
+
+- [Crece dengue 325% en un año en México](https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308) (Reforma.com)
 
 ## 23-52 (chikungunya)
 
