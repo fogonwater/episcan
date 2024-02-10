@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2024-02-10 07:05
-- **Most recent article:** 2024-02-09 02:30:00
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-02-10 19:05
+- **Most recent article:** 2024-02-09 18:17:33
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 37 | 2 | 52 | 35 | 65 | 123 | 173 | 142 | 629 |
-| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 57 | 258 |
-| malaria | 22 | 2 | 11 | 51 | 26 | 86 | 25 | 27 | 250 |
-| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 12 | 51 |
+| dengue | 34 | 2 | 52 | 35 | 65 | 123 | 173 | 151 | 635 |
+| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 64 | 265 |
+| malaria | 21 | 2 | 11 | 51 | 26 | 86 | 25 | 32 | 254 |
+| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 52 |
 | chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 12 | 44 |
-| rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 4 | 40 |
+| rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 5 | 41 |
 | mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 36 |
 | meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 7 | 33 |
 | pertussis | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
@@ -32,6 +32,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 24-6 (zika)
+
+- [Vírus da zika modificado destrói células de tumores do sistema nervoso](https://olhardigital.com.br/2024/02/09/medicina-e-saude/virus-da-zika-modificado-destroi-celulas-de-tumores-do-sistema-nervoso/) (Olhardigital.com.br)
 
 - [Fiocruz dobra produção de testes de dengue a pedido da Saúde](https://www.metropoles.com/brasil/fiocruz-dobra-producao-de-testes-de-dengue-a-pedido-da-saude) (Metropoles.com)
 
@@ -74,6 +76,8 @@ Source: [News API](https://newsapi.org/)
 - [Búsqueda de sarampión motivó barrido de salud en Roxana de Pococí](https://www.nacion.com/ciencia/salud/busqueda-de-sarampion-motivo-barrido-de-salud-en/W6P6EQJN5VEHREEY4UA7KVGJ4U/story/) (Nacion.com)
 
 ## 24-6 (rabies)
+
+- [Dog that bit 12 people in Gunma Prefecture was not vaccinated for rabies](https://www.japantimes.co.jp/news/2024/02/09/japan/dog-attack-not-vaccinated/) (The Japan Times)
 
 - [In 5 years, Mumbai region reports 26% animal bites; rabies deaths rise 3-fold in Maharashtra](https://timesofindia.indiatimes.com/city/mumbai/in-5-years-mumbai-region-reports-26-animal-bites-rabies-deaths-rise-3-fold-in-maharashtra/articleshow/107443628.cms) (The Times of India)
 
@@ -118,6 +122,20 @@ Source: [News API](https://newsapi.org/)
 - [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
 
 ## 24-6 (measles)
+
+- [Lung failure may follow flu and measles-like virus in ferrets](https://www.futurity.org/lung-failure-flu-rsv-lungs-3178082/) (Futurity: Research News)
+
+- [Colin Murphy: The measles threat and the crucial question we should all now be asking ourselves](https://www.independent.ie/opinion/comment/colin-murphy-the-measles-threat-and-the-crucial-question-we-should-all-now-be-asking-ourselves/a242967601.html) (Independent.ie)
+
+- [Measles contact tracing begins as HSE issues advice over potential exposure to virus](https://www.thejournal.ie/hse-public-health-alert-possibility-some-exposed-to-measles-6295458-Feb2024/) (TheJournal.ie)
+
+- [Public health alert issued to bus passengers and restaurant-goers after measles death](https://www.irishtimes.com/health/2024/02/09/public-health-alert-issued-to-bus-passengers-and-restaurant-goers-after-measles-death/) (The Irish Times)
+
+- [Urgent alert issued to bus passengers and diners exposed to measles after man dies in Westmeath](https://www.independent.ie/irish-news/urgent-alert-issued-to-bus-passengers-and-diners-exposed-to-measles-after-man-dies-in-westmeath/a1569117883.html) (Independent.ie)
+
+- [Measles: Man dies in Ireland, while cases in West Midlands remain “disproportionately high”](https://www.bmj.com/content/384/bmj.q359) (The BMJ)
+
+- [Concern over increased cases of strep and measles – Symptoms and complications](https://en.protothema.gr/concern-over-increased-cases-of-strep-and-measles-symptoms-and-complications/) (Protothema.gr)
 
 - [Hunt under way for passengers who travelled on same bus as Westmeath man who died after contracting measles](https://www.independent.ie/irish-news/hunt-under-way-for-passengers-who-travelled-on-same-bus-as-westmeath-man-who-died-after-contracting-measles/a530549438.html) (Independent.ie)
 
@@ -235,6 +253,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (malaria)
 
+- [A Milestone in the Fight Against Malaria](https://undispatch.com/?p=49292) (Undispatch.com)
+
+- [COVID-19 in patients presenting with malaria-like symptoms at a primary healthcare facility in Accra, Ghana](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298088) (Plos.org)
+
+- [Enhancing malaria detection in resource-limited areas: A high-performance colorimetric LAMP assay for Plasmodium falciparum screening](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298087) (Plos.org)
+
+- [Hallan en un grupo de células una capacidad desconocida para combatir la malaria](https://www.montevideo.com.uy/Salud/Hallan-en-un-grupo-de-celulas-una-capacidad-desconocida-para-combatir-la-malaria-uc879191) (Montevideo.com.uy)
+
+- [Zece semne care arată că ai malarie și care pot confundate cu o banală răceală: „Pot apărea convulsii, comă și deces”](https://adevarul.ro/stiri-interne/sanatate/zece-semne-care-arata-ca-ai-malarie-si-care-pot-2338592.html) (Adevarul.ro)
+
 - [Hallan una clave inesperada en la lucha contra la malaria](https://www.dw.com/es/hallan-una-clave-inesperada-en-la-lucha-contra-la-malaria/a-68209766) (DW (English))
 
 - [Scientists debunk role of 'junk cells' in fight against malaria](https://www.sciencedaily.com/releases/2024/02/240208142446.htm) (Science Daily)
@@ -290,6 +318,24 @@ Source: [News API](https://newsapi.org/)
 - [iMAGING, aplicación para diagnosticar la malaria usando IA](https://wwwhatsnew.com/2024/02/04/imaging-aplicacion-para-diagnosticar-la-malaria-usando-ia/) (Wwwhatsnew.com)
 
 ## 24-6 (dengue)
+
+- [Dengue: Brasil pode ultrapassar 4 milhões de casos; vacinas já estão chegando aos estados](https://olhardigital.com.br/2024/02/09/medicina-e-saude/dengue-brasil-pode-ultrapassar-4-milhoes-de-casos-vacinas-ja-estao-chegando-aos-estados/) (Olhardigital.com.br)
+
+- [O que El Niño tem a ver com dengue? Professor da USP explica](https://olhardigital.com.br/2024/02/09/medicina-e-saude/professor-da-usp-explica-o-que-el-nino-tem-a-ver-com-dengue/) (Olhardigital.com.br)
+
+- [Rio de Janeiro atento a aumento de casos de dengue nos turistas internacionais no Carnaval](https://observador.pt/2024/02/09/rio-de-janeiro-atento-a-aumento-de-casos-de-dengue-nos-turistas-internacionais-no-carnaval-2/) (Observador.pt)
+
+- [Dengue: médica orienta como usar repelente em bebês e crianças](https://www.metropoles.com/saude/dengue-medica-orienta-como-usar-repelente-em-bebes-e-criancas) (Metropoles.com)
+
+- [Luta contra a dengue deve centra-se na eliminação do mosquito transmissor](https://observador.pt/2024/02/09/luta-contra-a-dengue-deve-centra-se-na-eliminacao-do-mosquito-transmissor/) (Observador.pt)
+
+- [OMS, preocupada por brotes de dengue en Latinoamérica, especialmente en Brasil](https://www.forbes.com.mx/oms-preocupada-por-brotes-de-dengue-en-latinoamerica-especialmente-en-brasil/) (Forbes.com.mx)
+
+- [“Momento histórico”, diz ministra da Saúde sobre vacina contra dengue](https://www.metropoles.com/distrito-federal/momento-historico-diz-ministra-da-saude-sobre-vacina-contra-dengue) (Metropoles.com)
+
+- [Rio de Janeiro atento a aumento de casos de dengue nos turistas internacionais no Carnaval](https://observador.pt/2024/02/09/rio-de-janeiro-atento-a-aumento-de-casos-de-dengue-nos-turistas-internacionais-no-carnaval/) (Observador.pt)
+
+- [Vacinação de crianças contra a dengue começa com filas no DF](https://www.metropoles.com/distrito-federal/vacinacao-de-criancas-contra-a-dengue-comeca-com-filas-no-df) (Metropoles.com)
 
 - [Estados começam a receber vacina contra a dengue](https://valor.globo.com/brasil/noticia/2024/02/08/estados-comeam-a-receber-vacina-contra-a-dengue.ghtml) (Globo)
 
@@ -2887,8 +2933,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Of love letters and distant galaxies: Uplifting stories from 2023](https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023) (FRANCE 24 English)
 
-- [Dal super computer al nuovo vaccino anti malaria: ecco le più importanti scoperte scientifiche del 2023 secondo Science](https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/) (Ilfattoquotidiano.it)
-
 ## 23-52 (leptospirosis)
 
 - [Conoce las enfermedades que golpearon a Cartagena en 2023](https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851) (Eluniversal.com.co)
@@ -2966,12 +3010,6 @@ Source: [News API](https://newsapi.org/)
 - [Millions Infected with Dengue as Temperature Rises](https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html) (VOA News)
 
 - [Por que casos de dengue estão se multiplicando na Europa](https://www.bbc.com/portuguese/articles/crgj2de70r5o) (BBC News)
-
-- [Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevención contra el dengue](https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/) (La Nacion)
-
-- [OMS: seis em cada 10 pessoas com dengue no mundo são brasileiras](https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio) (Metropoles.com)
-
-- [Crece dengue 325% en un año en México](https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308) (Reforma.com)
 
 ## 23-52 (chikungunya)
 

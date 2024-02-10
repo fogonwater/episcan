@@ -1,8 +1,422 @@
 {
-  "last_updated": "2024-02-10 07:05",
-  "count_articles_total": 1332,
-  "count_articles_new": 18,
+  "last_updated": "2024-02-10 19:05",
+  "count_articles_total": 1351,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 5262,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Futurity: Research News",
+      "author": "LaTina Emerson-Georgia State",
+      "title": "Lung failure may follow flu and measles-like virus in ferrets",
+      "description": "Infection with a measles-like virus causes catastrophic lung failure in ferrets previously infected with flu or RSV, according to a new study.",
+      "url": "https://www.futurity.org/lung-failure-flu-rsv-lungs-3178082/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2024/02/ferrets-lung-failure-flu-1600.jpg",
+      "publishedAt": "2024-02-09 18:17:33",
+      "content": "Infection with a measles-like virus causes catastrophic lung failure in ferrets previously infected with influenza virus or respiratory syncytial virus, according to a new study. For the study, publ\u2026 [+3143 chars]",
+      "retrievedAt": "2024-02-10 19:05:31.454739",
+      "internal_id": "8e3d7c707767abaac74c06f8bf81a031f9ded7fa6f877752f49ca4da2d55b303",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5266,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Vitoria Lopes Gomez",
+      "title": "Dengue: Brasil pode ultrapassar 4 milh\u00f5es de casos; vacinas j\u00e1 est\u00e3o chegando aos estados",
+      "description": "Vacina da dengue deve chegar aos estados nos pr\u00f3ximos dias; laborat\u00f3rio deve entregar cerca de 6,5 milh\u00f5es de doses durante o ano O post Dengue: Brasil pode ultrapassar 4 milh\u00f5es de casos; vacinas j\u00e1 est\u00e3o chegando aos estados apareceu primeiro em Olhar Digit\u2026",
+      "url": "https://olhardigital.com.br/2024/02/09/medicina-e-saude/dengue-brasil-pode-ultrapassar-4-milhoes-de-casos-vacinas-ja-estao-chegando-aos-estados/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/02/aedes-aegypt-695x500.jpg",
+      "publishedAt": "2024-02-09 18:05:19",
+      "content": "A secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade do Minist\u00e9rio da Sa\u00fade, Ethel Maciel, revelou em uma coletiva de imprensa nesta sexta-feira (09) que o Brasil pode ultrapassar 4 milh\u00f5es de casos de dengue este an\u2026 [+2132 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.064967",
+      "internal_id": "680e4bd61bbdf7f58ae8eb81990f21f5c51c8fa4c9ca2bd03f029e1a1453ed13",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5267,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Pedro Spadoni",
+      "title": "O que El Ni\u00f1o tem a ver com dengue? Professor da USP explica",
+      "description": "O professor Pedro Luiz C\u00f4rtes falou sobre a rela\u00e7\u00e3o entre o fen\u00f4meno clim\u00e1tico e o Aedes aegypti, bem como o que esperar do La Ni\u00f1a O post O que El Ni\u00f1o tem a ver com dengue? Professor da USP explica apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/09/medicina-e-saude/professor-da-usp-explica-o-que-el-nino-tem-a-ver-com-dengue/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/06/mosquito-dengue-e1699618484205-695x500.jpg",
+      "publishedAt": "2024-02-09 18:01:19",
+      "content": "O n\u00famero de casos de dengue aumenta no Brasil. Entre as cidades com maior n\u00famero de infectados e mortos pela doen\u00e7a, est\u00e3o: S\u00e3o Paulo (SP), Rio de Janeiro (RJ) e Belo Horizonte (MG). Apesar de preocu\u2026 [+2878 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.071166",
+      "internal_id": "c57ba680e5176ce1ca309eaf71e40438e2e46b4b5c489fed668cee6fa1410275",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5280,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Alessandro Di Lorenzo",
+      "title": "V\u00edrus da zika modificado destr\u00f3i c\u00e9lulas de tumores do sistema nervoso",
+      "description": "A vers\u00e3o modificada do v\u00edrus da zika, que n\u00e3o transmite a doen\u00e7a, penetra nas c\u00e9lulas tumorais e, ao se multiplicar, leva elas \u00e0 morte O post V\u00edrus da zika modificado destr\u00f3i c\u00e9lulas de tumores do sistema nervoso apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2024/02/09/medicina-e-saude/virus-da-zika-modificado-destroi-celulas-de-tumores-do-sistema-nervoso/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/07/mosquito-695x500.jpg",
+      "publishedAt": "2024-02-09 17:43:36",
+      "content": "Pesquisadores da USP transformaram o v\u00edrus da zika em produto de biotecnologia para o tratamento de tumores do sistema nervoso. Testada com \u00eaxito em animais, uma vers\u00e3o sint\u00e9tica e modificada do v\u00edru\u2026 [+2389 chars]",
+      "retrievedAt": "2024-02-10 19:05:33.404875",
+      "internal_id": "53fbacd6300c0234cd2b2f8624ea80d5ad3394dfe017fe3a8df53a48beba173d",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5265,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Colin Murphy",
+      "title": "Colin Murphy: The measles threat and the crucial question we should all now be asking ourselves",
+      "description": "Misinformation kills. We don\u2019t know the individual circumstances of the Westmeath man who died of measles last week, but it is believed he had contracted the disease in Birmingham, where there has been an outbreak.",
+      "url": "https://www.independent.ie/opinion/comment/colin-murphy-the-measles-threat-and-the-crucial-question-we-should-all-now-be-asking-ourselves/a242967601.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/mLvQ38Tn3FmiiITj5TakMYcQxH8=/629x460/smart/prod-mh-ireland/a9bc0212-aff5-48d3-a9ea-bc22b07b3970/aaa806f6-9ee6-4b28-a511-66ba95e2aa65/Sn%20Anti%20vax.jpg",
+      "publishedAt": "2024-02-09 17:42:36",
+      "content": "Social media is purposely designed to outrage us rather than engage our brains Misinformation kills. We dont know the individual circumstances of the Westmeath man who died of measles last week, but\u2026 [+284 chars]",
+      "retrievedAt": "2024-02-10 19:05:31.480340",
+      "internal_id": "4f26a7c25dc1b0fbb5d431c9efb954500ee2f167b61fc7e42147ca4734c45749",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5276,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Undispatch.com",
+      "author": "Mark Leon Goldberg",
+      "title": "A Milestone in the Fight Against Malaria",
+      "description": "On January 25th, a milestone was reached in humanity\u2019s long fight against Malaria. For the first time ever, a Malaria vaccine was included in a country\u2019s routine childhood vaccinations program. Cameroon rolled out a new Malaria vaccine for children and other \u2026",
+      "url": "https://undispatch.com/?p=49292",
+      "urlToImage": null,
+      "publishedAt": "2024-02-09 17:24:18",
+      "content": "On January 25th, a milestone was reached in humanity\u2019s long fight against Malaria. For the first time ever, a Malaria vaccine was included in a country\u2019s routine childhood vaccinations program. Camer\u2026 [+3052 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.895547",
+      "internal_id": "e044ceeac3e0c71d010550dbfe0582bdd6013023fb426790523a64fff7c332c5",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5261,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Jane Moore",
+      "title": "Measles contact tracing begins as HSE issues advice over potential exposure to virus",
+      "description": "It comes after it was confirmed that a man in Leinster died after contracting measles.",
+      "url": "https://www.thejournal.ie/hse-public-health-alert-possibility-some-exposed-to-measles-6295458-Feb2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6295458/river/?height=400&version=6295547",
+      "publishedAt": "2024-02-09 17:05:57",
+      "content": "THE HSE HAS issued an urgent public health alert over the possibility that some people may have been exposed to measles in the last two weeks. It comes after it was confirmed that a man in Leinster\u2026 [+2967 chars]",
+      "retrievedAt": "2024-02-10 19:05:31.414377",
+      "internal_id": "5214eb1449dbd57735cbb5fc4ac45db3233c92eeaad22f7f8c581602ce30aac2",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5268,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Rio de Janeiro atento a aumento de casos de dengue nos turistas internacionais no Carnaval",
+      "description": "Subsecret\u00e1rio do Rio de Janeiro frisou que \"os turistas internacionais v\u00eam de cidades onde n\u00e3o \u00e9 comum a dengue\", sendo que no per\u00edodo festivo existe \"uma maior probabilidade de os casos aumentarem\".",
+      "url": "https://observador.pt/2024/02/09/rio-de-janeiro-atento-a-aumento-de-casos-de-dengue-nos-turistas-internacionais-no-carnaval-2/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A159%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F01%2F04201837%2F40341465.jpg",
+      "publishedAt": "2024-02-09 16:53:11",
+      "content": "O Rio de Janeiro est\u00e1 atento ao aumento de casos de dengue com a chegada dos milhares de turistas internacionais \u00e0 cidade brasileira para aproveitarem o mais famoso Carnaval do mundo, disse \u00e0 Lusa um\u2026 [+4450 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.117026",
+      "internal_id": "8dd2ef3c38e5bb32d69e245c9119ba8f72e94e21b51530f810e9d69affa93578",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5260,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Paul Cullen",
+      "title": "Public health alert issued to bus passengers and restaurant-goers after measles death",
+      "description": "The HSE has warned thousands of people to be alert for symptoms for 21 days from the time of possible exposure",
+      "url": "https://www.irishtimes.com/health/2024/02/09/public-health-alert-issued-to-bus-passengers-and-restaurant-goers-after-measles-death/",
+      "urlToImage": "https://www.irishtimes.com/resizer/JdvHOuJYI-bRM0lWNgVPpo7lmkw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/MMEOQ3N4GVFIYT6T3GMKUT35SI.jpg",
+      "publishedAt": "2024-02-09 16:46:10",
+      "content": "A public health alert has been issued following the death of a man earlier this week from measles. Thousands of people who took buses or were in restaurants used by the 48-year-old man have been war\u2026 [+3403 chars]",
+      "retrievedAt": "2024-02-10 19:05:31.395521",
+      "internal_id": "c643522a1df93d249a97b1a1ad333d359716dc1f65d5fdbd870ac9bb1f77bf0f",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5273,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "\u00c9rica Montenegro",
+      "title": "Dengue: m\u00e9dica orienta como usar repelente em beb\u00eas e crian\u00e7as",
+      "description": "Imunologista lista cuidados para proteger crian\u00e7as contra a dengue. Repelentes devem ser evitados em beb\u00eas com menos de 3 meses",
+      "url": "https://www.metropoles.com/saude/dengue-medica-orienta-como-usar-repelente-em-bebes-e-criancas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2020/03/06193651/Crian%C3%A7a-passando-repelente.jpg",
+      "publishedAt": "2024-02-09 16:42:30",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.197020",
+      "internal_id": "77fe3d8255a1098bd255bb025790162bc5a2f5a3623d7529ae57030ed48e0635",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5269,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Luta contra a dengue deve centra-se na elimina\u00e7\u00e3o do mosquito transmissor",
+      "description": "Infecciologista Jaime Nina, do Hospital Egas Moniz, diz que a dengue tem aumentado e \"h\u00e1 v\u00e1rias explica\u00e7\u00f5es para isso, uma das quais \u00e9 que a popula\u00e7\u00e3o das regi\u00f5es tropicais tem vindo a aumentar\".",
+      "url": "https://observador.pt/2024/02/09/luta-contra-a-dengue-deve-centra-se-na-eliminacao-do-mosquito-transmissor/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A107%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F01%2F23085812%2F41642373.jpg",
+      "publishedAt": "2024-02-09 16:27:49",
+      "content": "O infecciologista Jaime Nina atribui o aumento de dengue em pa\u00edses como o Brasil ao crescimento da popula\u00e7\u00e3o em regi\u00f5es quentes e \u00e0s chuvas tropicais, defendendo que a resposta passa pela elimina\u00e7\u00e3o \u2026 [+2923 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.120978",
+      "internal_id": "ea8233d139b8ef921ccdb6279a33419c1157f043d6cad739ba2a513c4053db06",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5263,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Urgent alert issued to bus passengers and diners exposed to measles after man dies in Westmeath",
+      "description": "An urgent public health alert has been issued to passengers on a Bus Eireann bus as well as customers in a restaurant in Mullingar who may have been exposed to measles by the man who died of the virus on Wednesday.",
+      "url": "https://www.independent.ie/irish-news/urgent-alert-issued-to-bus-passengers-and-diners-exposed-to-measles-after-man-dies-in-westmeath/a1569117883.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/88LmmMmYQ4iikZWZXviLCXiqW7Y=/16x0:4912x3264/629x0/prod-mh-ireland/06eb9323-d9a1-4db8-8b9a-05dc5fddecc6/bc54f215-fac3-481f-9813-6c60a619aa16/06eb9323-d9a1-4db8-8b9a-05dc5fddecc6.jpg",
+      "publishedAt": "2024-02-09 16:27:38",
+      "content": "An urgent public health alert has been issued to passengers on a Bus Eireann bus as well as customers in a restaurant in Mullingar who may have been exposed to measles by the man who died of the viru\u2026 [+2383 chars]",
+      "retrievedAt": "2024-02-10 19:05:31.463302",
+      "internal_id": "9284ccc58518614604f9b55ee7bbd350bc25f07e47557a47516b7f36bce14aa2",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5271,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Forbes.com.mx",
+      "author": "Forbes Staff",
+      "title": "OMS, preocupada por brotes de dengue en Latinoam\u00e9rica, especialmente en Brasil",
+      "description": "Forbes M\u00e9xico. OMS, preocupada por brotes de dengue en Latinoam\u00e9rica, especialmente en Brasil Brasil pondr\u00e1 en marcha su programa de inmunizaci\u00f3n con la nueva vacuna que se comercializa contra el dengue ante rebrote de casos. OMS, preocupada por brotes de d\u2026",
+      "url": "https://www.forbes.com.mx/oms-preocupada-por-brotes-de-dengue-en-latinoamerica-especialmente-en-brasil/",
+      "urlToImage": "https://cdn.forbes.com.mx/2021/05/dengue-mosquito-CDC-scaled.jpg",
+      "publishedAt": "2024-02-09 15:05:39",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) dijo este viernes que sigue con preocupaci\u00f3n por los brotes de dengue en distintos pa\u00edses de Latinoam\u00e9rica, con un total de 373,000 casos en el primer mes de\u2026 [+2528 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.142416",
+      "internal_id": "46f6a58dd6e1912fc45f2b8816452d2a44adf4d2a2ac5712697fbce01f2f999b",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5278,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Issabella Asamoah, Mildred Adusei-Poku, Priscilla Vandyck-Sey, Allen Steele-Dadzie, Atta Senior Kuffour, Albert Turkson, Ivy Asantewaa Asante, Kantanka Addo-Osafo, Quaneeta Mohktar, Bright Adu, Yaw A. Afrane, Kwamena W. C. Sagoe",
+      "title": "COVID-19 in patients presenting with malaria-like symptoms at a primary healthcare facility in Accra, Ghana",
+      "description": "Background Malaria is a common and severe public health problem in Ghana and largely responsible for febrile symptoms presented at health facilities in the country. Other infectious diseases, including COVID-19, may mimic malaria due to their shared non-speci\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298088",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0298088.g004&size=inline",
+      "publishedAt": "2024-02-09 14:00:00",
+      "content": "Citation: Asamoah I, Adusei-Poku M, Vandyck-Sey P, Steele-Dadzie A, Kuffour AS, Turkson A, et al. (2024) COVID-19 in patients presenting with malaria-like symptoms at a primary healthcare facility in\u2026 [+21609 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.921089",
+      "internal_id": "d9082be989e8e1a0c62658f1d4e3075a19d370d26f57f4bf476391b24685a996",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5279,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Tuyet Kha Nguyen, Hojong Jun, Johnsy Mary Louis, Ernest Mazigo, Wang-Jong Lee, Hyun Cher Youm, Jieun Shin, Douglas K. Lungu, Creto Kanyemba, Md Atique Ahmed, Fauzi Muh, Se Jin Lee, Sunghun Na, Wanjoo Chun, Won Sun Park, Joo Hwan No, Min-Jae Kim, Eun-Taek Han, Jin-Hee Han",
+      "title": "Enhancing malaria detection in resource-limited areas: A high-performance colorimetric LAMP assay for Plasmodium falciparum screening",
+      "description": "Malaria eradication efforts in resource-limited areas require a rapid, economical, and accurate tool for detecting of the low parasitemia. The malaria rapid diagnostic test (mRDT) is the most suitable for on-site detection of the deadliest form of malaria, Pl\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298087",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0298087.g006&size=inline",
+      "publishedAt": "2024-02-09 14:00:00",
+      "content": "Abstract Malaria eradication efforts in resource-limited areas require a rapid, economical, and accurate tool for detecting of the low parasitemia. The malaria rapid diagnostic test (mRDT) is the mo\u2026 [+48338 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.925314",
+      "internal_id": "3e2dcb5b53a07c600776bf5a2fa4a0a0ba4591d71131038757122fdcc4932b39",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5274,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "\u201cMomento hist\u00f3rico\u201d, diz ministra da Sa\u00fade sobre vacina contra dengue",
+      "description": "Ela celebrou a vacina e acrescentou que o plano de imuniza\u00e7\u00e3o come\u00e7aria mesmo sem a epidemia de dengue",
+      "url": "https://www.metropoles.com/distrito-federal/momento-historico-diz-ministra-da-saude-sobre-vacina-contra-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09093819/Foto-A-ministra-da-Saude-Nisia-Trindade-na-Unidade-Basica-de-Saude-no-1-do-Cruzeiro-3.jpeg",
+      "publishedAt": "2024-02-09 13:59:15",
+      "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, acompanhou o in\u00edcio da vacina\u00e7\u00e3o de crian\u00e7as contra a dengue na UBS 1 do Cruzeiro, no Distrito Federal, na manh\u00e3 desta sexta-feira (9/2). Ela aproveitou a ocasi\u00e3o\u2026 [+2745 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.206113",
+      "internal_id": "dff9a5fbc6d684def11cb9bc01ba3bf044d810aca2f181200e925daff42c087b",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5277,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Hallan en un grupo de c\u00e9lulas una capacidad desconocida para combatir la malaria",
+      "description": "El hallazgo es un paso m\u00e1s en el aprovechamiento de las defensas naturales del organismo para combatir la dolencia.",
+      "url": "https://www.montevideo.com.uy/Salud/Hallan-en-un-grupo-de-celulas-una-capacidad-desconocida-para-combatir-la-malaria-uc879191",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202306/_W933_80/847210.jpeg",
+      "publishedAt": "2024-02-09 13:45:00",
+      "content": "Investigadores de la Universidad Nacional Australiana (ANU) descubrieron una capacidad desconocida hasta ahora de un grupo de c\u00e9lulas del sistema inmunitario, llamadas c\u00e9lulas B at\u00edpicas (ABC), pa\u2026 [+2432 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.910809",
+      "internal_id": "27fc82f11d1f56410e9b5dd0d961cab011278ca57f4a9a7a24d5b079f60425fb",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5259,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The BMJ",
+      "author": "Jacqui Wise",
+      "title": "Measles: Man dies in Ireland, while cases in West Midlands remain \u201cdisproportionately high\u201d",
+      "description": "A man has died in hospital in Ireland after contracting measles, the country\u2019s Health Service Executive has confirmed.1 Irish media have reported that the man, in his late 40s, had recently travelled to Birmingham, where cases of measles are continuing to ris\u2026",
+      "url": "https://www.bmj.com/content/384/bmj.q359",
+      "urlToImage": "https://www.bmj.com/sites/default/files/highwire/bmj/384/8416.cover-source.jpg",
+      "publishedAt": "2024-02-09 13:36:30",
+      "content": "A man has died in hospital in Ireland after contracting measles, the countrys Health Service Executive has confirmed.1 Irish media have reported that the man, in his late 40s, had recently travelled \u2026 [+144 chars]",
+      "retrievedAt": "2024-02-10 19:05:31.384962",
+      "internal_id": "678ecc98a587cd721634ee5d06ea8b78d12c61cfa2dc9c62b30f4cf600041ba7",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5270,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Rio de Janeiro atento a aumento de casos de dengue nos turistas internacionais no Carnaval",
+      "description": "Turistas internacionais preocupam especialistas, que antecedem aumento dos casos: \"As pessoas muitas vezes v\u00eam para c\u00e1 suscet\u00edveis, desprotegidas.\" Apela-se ao uso de repelente nas festividades.",
+      "url": "https://observador.pt/2024/02/09/rio-de-janeiro-atento-a-aumento-de-casos-de-dengue-nos-turistas-internacionais-no-carnaval/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A200%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F02%2F09123231%2F20255482.jpg",
+      "publishedAt": "2024-02-09 13:34:10",
+      "content": "O Rio de Janeiro est\u00e1 atento ao aumento de casos de dengue com a chegada dos milhares de turistas internacionais \u00e0 cidade brasileira para aproveitarem o mais famoso Carnaval do mundo, disse \u00e0 Lusa um\u2026 [+4310 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.131913",
+      "internal_id": "54ca17e55302d7b565fae78e57def32012e1302e193c797600490dbbfcf34f90",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5258,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Japan Times",
+      "author": "The Japan Times",
+      "title": "Dog that bit 12 people in Gunma Prefecture was not vaccinated for rabies",
+      "description": "The dog that attacked a dozen people including nine elementary school pupils in Gunma Prefecture earlier this week had not been vaccinated for rabies, the local government said Friday.",
+      "url": "https://www.japantimes.co.jp/news/2024/02/09/japan/dog-attack-not-vaccinated/",
+      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/09/279877.jpg",
+      "publishedAt": "2024-02-09 13:01:00",
+      "content": "MAEBASHI, Gunma Pref. The dog that attacked a dozen people including nine elementary school pupils in Gunma Prefecture earlier this week had not been vaccinated for rabies, the local government said \u2026 [+471 chars]",
+      "retrievedAt": "2024-02-10 19:05:31.089242",
+      "internal_id": "efd52c7c956504a216cccb34e51c9987835e5072fc9dc7e6eb0de93124c30bea",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5272,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "Vacina\u00e7\u00e3o de crian\u00e7as contra a dengue come\u00e7a com filas no DF",
+      "description": "O DF recebeu somente 71.708 doses da vacina contra a dengue, 36% das 194 mil esperadas para a primeira remessa",
+      "url": "https://www.metropoles.com/distrito-federal/vacinacao-de-criancas-contra-a-dengue-comeca-com-filas-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09084515/vacincao-criancas-dengue.jpg",
+      "publishedAt": "2024-02-09 11:58:10",
+      "content": "Adolescentes entre 10 e 11 anos, acompanhados de seus respons\u00e1veis, acordaram cedo nesta sexta-feira (9/2) para garantir a aplica\u00e7\u00e3o da primeira dose da vacina contra a dengue no Distrito Federal. A\u2026 [+2648 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.190629",
+      "internal_id": "a2db6a2bd3050811e0ce96b1080a1aa880290708a5ece8e2ea0a2f2b27ccd253",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5264,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Protothema.gr",
+      "author": "Newsroom",
+      "title": "Concern over increased cases of strep and measles \u2013 Symptoms and complications",
+      "description": "23 deaths in Greece from streptococcus, 11 of the victims are minors - Health authorities are alert to cover the vaccination and immunity gap",
+      "url": "https://en.protothema.gr/concern-over-increased-cases-of-strep-and-measles-symptoms-and-complications/",
+      "urlToImage": "https://en.protothema.gr/wp-content/uploads/2024/02/44-1-150x150.png",
+      "publishedAt": "2024-02-09 09:08:34",
+      "content": "he simultaneous presence of streptococcus and measles creates an infectious \u201cring.\u201d The outbreak of measles cases in European countries, mainly in neighboring Romania, has also impacted our country,\u2026 [+3188 chars]",
+      "retrievedAt": "2024-02-10 19:05:31.474037",
+      "internal_id": "ffde424d57d3ad68ac48ed89e1bec088606ccd24e0729bb8cca30710abfbfc2b",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5275,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Ionela St\u0103nil\u0103",
+      "title": "Zece semne care arat\u0103 c\u0103 ai malarie \u0219i care pot confundate cu o banal\u0103 r\u0103ceal\u0103: \u201ePot ap\u0103rea convulsii, com\u0103 \u0219i deces\u201d",
+      "description": "Sunt 10 semne de alarm\u0103 ce impun prezentarea de urgen\u021b\u0103 la spital, mai ales c\u0103 nediagnosticat\u0103 \u0219i netratat\u0103 la timp, malaria poate fi letal\u0103. P\u00e2n\u0103 \u00een prezent, \u00een Rom\u00e2nia au fost confirmate 11 cazuri, dintre care doi pacien\u021bi au murit.",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/zece-semne-care-arata-ca-ai-malarie-si-care-pot-2338592.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-b/b7378cff-6744-4f46-9d49-5d3af2a30d9f/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2024-02-09 08:21:05",
+      "content": "Sunt 10 semne de alarm ce impun prezentarea de urgen la spital, mai ales c nediagnosticat i netratat la timp, malaria poate fi letal. P\u00e2n \u00een prezent, \u00een Rom\u00e2nia au fost confirmate 11 cazuri, dintre c\u2026 [+3352 chars]",
+      "retrievedAt": "2024-02-10 19:05:32.886355",
+      "internal_id": "842a7e4f4f464f4f68ce8ba1498c3014ebfc8ff5a0e19f1a9a41b02f9f7a7819",
+      "publishedAtLabel": "Feb 9"
+    },
     {
       "id": 5240,
       "query": [
@@ -23965,78 +24379,6 @@
       "retrievedAt": "2023-12-26 07:05:42.815132",
       "internal_id": "35ad73ea291d58feea1b5e5f9d13a9bd512fbdac11d9b2e00b54d19068be41c6",
       "publishedAtLabel": "Dec 25"
-    },
-    {
-      "id": 3927,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Fabiola Czubaj",
-      "title": "Alerta sanitaria: por la suba de casos, advierten sobre la necesidad de extremar las medidas de prevenci\u00f3n contra el dengue",
-      "description": "Lo pide el Ministerio de Salud de la Naci\u00f3n ante la tendencia creciente de contagios locales en las \u00faltimas cinco semanas y el escenario favorable de propagaci\u00f3n con calor, lluvias y movimiento de personas por las Fiestas",
-      "url": "https://www.lanacion.com.ar/sociedad/alerta-sanitaria-por-la-suba-de-casos-advierten-sobre-la-necesidad-de-extremar-las-medidas-de-nid24122023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/ejemplar-de-mosquito-aedes-aegypti-el-vector-del-IHH4AMNJUBFKBBAQNJZLYLW5VM.jpg?auth=99885fd0bab1bc1eabd0ffea115655e2ee38b25c1a5bfafe3d82f76a984bdc8e&width=768&quality=70&smart=false",
-      "publishedAt": "2023-12-24 18:40:32",
-      "content": "Con un leve repunte de casos dedengue oficializados desde hace cinco semanas y frente a un mayor movimiento de la poblaci\u00f3n en estos d\u00edas por las fiestas de fin de a\u00f1o y el inicio de las vacaciones, \u2026 [+6809 chars]",
-      "retrievedAt": "2023-12-25 19:05:54.740595",
-      "internal_id": "c94a24f03b976225ca782a8e9b1255fe8fcfefdcfb9a904b41e546a707d84bef",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3926,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Bruno Bucis",
-      "title": "OMS: seis em cada 10 pessoas com dengue no mundo s\u00e3o brasileiras",
-      "description": "Relat\u00f3rio da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) aponta que mudan\u00e7as clim\u00e1ticas est\u00e3o tornando a doen\u00e7a mais frequente",
-      "url": "https://www.metropoles.com/saude/oms-dengue-no-mundo-relatorio",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/07180100/mosquito-dengue-foco-goiania-goias-1.jpeg",
-      "publishedAt": "2023-12-24 14:07:34",
-      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
-      "retrievedAt": "2023-12-25 19:05:54.708126",
-      "internal_id": "6ac40a477b72828c533418ea7d3439842793f4ab8d7c748d6a04536ef87670aa",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3925,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Reforma.com",
-      "author": "Grupo REFORMA.",
-      "title": "Crece dengue 325% en un a\u00f1o en M\u00e9xico",
-      "description": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%.",
-      "url": "https://www.reforma.com/crece-dengue-325-en-un-ano-en-mexico/ar2731308",
-      "urlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/5/590/4589618.jpg&wm=1&ang=0",
-      "publishedAt": "2023-12-24 11:01:31",
-      "content": "M\u00e9xico pas\u00f3 de 12 mil 335 casos de dengue en 2022 a 52 mil 443 en 2023, con corte al 18 de diciembre, lo que represent\u00f3 un aumento de 325%. Cr\u00e9dito: Archivo",
-      "retrievedAt": "2023-12-25 19:05:54.666597",
-      "internal_id": "afde3d56af0af7cf1b60c99e88794eb3c0fad5f05812fc85c352c2b0035e76ba",
-      "publishedAtLabel": "Dec 24"
-    },
-    {
-      "id": 3928,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "30science per Il Fatto",
-      "title": "Dal super computer al nuovo vaccino anti malaria: ecco le pi\u00f9 importanti scoperte scientifiche del 2023 secondo Science",
-      "description": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di quest\u2019anno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di calcolo pari a quella di 5 milioni di comuni pc, una veloci\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2023/12/24/dal-super-computer-al-nuovo-vaccino-anti-malaria-ecco-le-piu-importanti-scoperte-scientifiche-del-2023-secondo-science/7383967/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2023/12/14/20348553_large-1.jpg",
-      "publishedAt": "2023-12-24 08:03:22",
-      "content": "Il 2023 \u00e8 agli sgoccioli e la rivista Science riassume i pi\u00f9 entusiasmanti e promettenti traguardi scientifici di questanno. A fine gennaio, viene rilasciato in Europa un computer con una potenza di \u2026 [+3917 chars]",
-      "retrievedAt": "2023-12-25 19:05:55.553281",
-      "internal_id": "eadb900dbcdd461277b389ec7642f2ccd810844b34d8b5e6d6b45408ba036edb",
-      "publishedAtLabel": "Dec 24"
     }
   ]
 }
