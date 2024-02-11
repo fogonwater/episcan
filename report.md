@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-02-11 07:06
-- **Most recent article:** 2024-02-10 06:31:45
+- **New articles in last harvest:** 8
+- **Last harvest:** 2024-02-11 19:06
+- **Most recent article:** 2024-02-10 18:40:32
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
 |--|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 168 | 616 |
-| measles | 1 | 8 | 25 | 61 | 56 | 47 | 65 | 263 |
-| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 33 | 234 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 169 | 617 |
+| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 265 |
+| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 235 |
 | zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 51 |
 | chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 40 |
-| rabies | 1 | 2 | 5 | 5 | 9 | 7 | 6 | 35 |
+| rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 36 |
 | meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 31 |
 | mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 24 |
 | pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
 | sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 12 |
 | typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 7 |
 | yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 6 |
-| leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 3 |
+| leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -81,6 +81,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (rabies)
 
+- [Dog that bit 12 people not vaccinated for rabies](https://japantoday.com/category/national/dog-that-bit-12-people-northwest-of-tokyo-not-vaccinated-for-rabies) (Japan Today)
+
 - [Department of Health detects skunk rabies in 2 southern Indiana counties](https://www.wlwt.com/article/indiana-department-health-skunk-rabies-vaccines/46699880) (WLWT Cincinnati)
 
 - [Dog that bit 12 people in Gunma Prefecture was not vaccinated for rabies](https://www.japantimes.co.jp/news/2024/02/09/japan/dog-attack-not-vaccinated/) (The Japan Times)
@@ -130,6 +132,12 @@ Source: [News API](https://newsapi.org/)
 - [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
 
 ## 24-6 (measles)
+
+- [Measles alert: Massachusetts doctors push for measles vaccination after cases reported in several states](https://www.bostonherald.com/2024/02/10/measles-alert-massachusetts-doctors-push-for-measles-vaccination-after-cases-reported-in-several-states/) (Boston Herald)
+
+- [Case of Measles confirmed in Maricopa County](https://www.abc15.com/news/local-news/case-of-measles-confirmed-in-maricopa-county) (ABC15 Arizona)
+
+- [Montreal public health found a measles case. Here's what parents should keep in mind](https://www.cbc.ca/news/canada/montreal/measles-public-health-parents-vaccines-1.7109044) (CBC News)
 
 - [Revealed: Counties most at risk of becoming measles hotspots after Westmeath death](https://www.independent.ie/irish-news/revealed-counties-most-at-risk-of-becoming-measles-hotspots-after-westmeath-death/a1101535744.html) (Independent.ie)
 
@@ -263,6 +271,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (malaria)
 
+- [Africa: Nearly 10 000 Children Vaccinated As Malaria Vaccine Rollout in Africa Expands](https://allafrica.com/stories/202402100036.html) (AllAfrica - Top Africa News)
+
+- [Africa: Proven Vector Control Interventions Needed to Stem Malaria Infections in Africa](https://allafrica.com/stories/202402100029.html) (AllAfrica - Top Africa News)
+
 - [Hallan una clave inesperada en la lucha contra la malaria](https://www.eluniversal.com.co/salud/hallan-una-clave-inesperada-en-la-lucha-contra-la-malaria-HL9940911) (Eluniversal.com.co)
 
 - [A Milestone in the Fight Against Malaria](https://undispatch.com/?p=49292) (Undispatch.com)
@@ -329,7 +341,13 @@ Source: [News API](https://newsapi.org/)
 
 - [iMAGING, aplicación para diagnosticar la malaria usando IA](https://wwwhatsnew.com/2024/02/04/imaging-aplicacion-para-diagnosticar-la-malaria-usando-ia/) (Wwwhatsnew.com)
 
+## 24-6 (leptospirosis)
+
+- [Leptospirosis: "Mi diagnóstico hubiera sido más rápido si no existiera un estigma sobre la enfermedad"](https://www.bbc.com/mundo/articles/crg7zey5ld8o) (BBC News)
+
 ## 24-6 (dengue)
+
+- [Dengue: vacinação em GO começará por crianças de 10 e 11 anos](https://www.metropoles.com/brasil/dengue-vacinacao-em-go-comecara-por-criancas-de-10-e-11-anos) (Metropoles.com)
 
 - [Folia e combate à dengue: veja onde terá vacina no sábado de Carnaval](https://www.metropoles.com/distrito-federal/folia-e-combate-a-dengue-veja-onde-tera-vacina-no-sabado-de-carnaval) (Metropoles.com)
 
@@ -2847,12 +2865,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
-## 23-53 (measles)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
-
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)

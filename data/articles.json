@@ -1,8 +1,152 @@
 {
-  "last_updated": "2024-02-11 07:06",
-  "count_articles_total": 1289,
-  "count_articles_new": 23,
+  "last_updated": "2024-02-11 19:06",
+  "count_articles_total": 1296,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 5305,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Rick Sobey",
+      "title": "Measles alert: Massachusetts doctors push for measles vaccination after cases reported in several states",
+      "description": "Massachusetts doctors are urging families to get vaccinated against measles following a troubling rise in measles cases across several U.S. states and Europe.",
+      "url": "https://www.bostonherald.com/2024/02/10/measles-alert-massachusetts-doctors-push-for-measles-vaccination-after-cases-reported-in-several-states/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/01/XYRGTN2NINANLAGKOUS3SVKJRY.jpg?w=1024&h=737",
+      "publishedAt": "2024-02-10 18:40:32",
+      "content": "Local doctors are urging families to get vaccinated against measles following a troubling rise in measles cases across several U.S. states and Europe. The CDC over the last couple of months has been\u2026 [+2346 chars]",
+      "retrievedAt": "2024-02-11 19:06:03.443705",
+      "internal_id": "1cdc0733ad186f2de2e98df003e129037559a2c937e70e882cd2811c58303dc2",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5307,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ABC15 Arizona",
+      "author": "Abc15.com Staff",
+      "title": "Case of Measles confirmed in Maricopa County",
+      "description": "The person with measles is said to be an 'international visitor'",
+      "url": "https://www.abc15.com/news/local-news/case-of-measles-confirmed-in-maricopa-county",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/6c53412/2147483647/strip/true/crop/4222x2217+0+309/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc6%2Fe6%2Fa3563e3047b187e5d780bf45f123%2Fap19123675129614.jpg",
+      "publishedAt": "2024-02-10 16:59:20",
+      "content": "PHOENIX Health officials are confirming a case of measles has been detected in Maricopa County. The Maricopa County Department of Public Health says the highly contagious disease has been confirmed \u2026 [+936 chars]",
+      "retrievedAt": "2024-02-11 19:06:03.517541",
+      "internal_id": "d63308e40b6fb28910f0466767077bda14a194e0edd896f077f9868f84b0ae3b",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5311,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Leptospirosis: \"Mi diagn\u00f3stico hubiera sido m\u00e1s r\u00e1pido si no existiera un estigma sobre la enfermedad\"",
+      "description": "Debido a que la enfermedad est\u00e1 asociada a la falta de saneamiento y a condiciones higi\u00e9nicas precarias, los m\u00e9dicos pasaron por alto el diagn\u00f3stico de leptospirosis en el caso de Amanda.",
+      "url": "https://www.bbc.com/mundo/articles/crg7zey5ld8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/e3ec/live/fe2d9c00-c50e-11ee-bb21-35e9f27778af.jpg",
+      "publishedAt": "2024-02-10 14:17:44",
+      "content": "Fuente de la imagen, Archivo personal Pie de foto, La dermat\u00f3loga Amanda Marra, de 29 a\u00f1os, contrajo leptospirosis en 2023. Article informationAuthor, Giulia GranchiRole, BBC Bras\u2026 [+7316 chars]",
+      "retrievedAt": "2024-02-11 19:06:06.927019",
+      "internal_id": "d627ab91f22a6755fef9ab10cd3846be4e53744254b27f239727cfa84436bb8d",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5309,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Nearly 10 000 Children Vaccinated As Malaria Vaccine Rollout in Africa Expands",
+      "description": "[WHO-AFRO] Brazzaville -- Nearly 10 000 children in Burkina Faso and Cameroon have now received the RTS,S malaria vaccine since being introduced this year. A wider malaria vaccine rollout is underway this year in several African countries, with Cameroon being\u2026",
+      "url": "https://allafrica.com/stories/202402100036.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-02-10 13:05:48",
+      "content": "Brazzaville \u2014 Nearly 10 000 children in Burkina Faso and Cameroon have now received the RTS,S malaria vaccine since being introduced this year. A wider malaria vaccine rollout is underway this year i\u2026 [+3851 chars]",
+      "retrievedAt": "2024-02-11 19:06:05.334660",
+      "internal_id": "1c91478c4ccbad6d48187664472a7d0faa5ca5b9a579cd0bce2355a9fb2f516b",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5308,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Dengue: vacina\u00e7\u00e3o em GO come\u00e7ar\u00e1 por crian\u00e7as de 10 e 11 anos",
+      "description": "In\u00edcio da vacina\u00e7\u00e3o contra dengue em Goi\u00e1s est\u00e1 previsto para come\u00e7ar na quinta-feira (15/2), em mais de 50 cidades; veja lista",
+      "url": "https://www.metropoles.com/brasil/dengue-vacinacao-em-go-comecara-por-criancas-de-10-e-11-anos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/10080703/vacina-dengue-goias.jpeg",
+      "publishedAt": "2024-02-10 11:21:54",
+      "content": "Goi\u00e2nia A vacina\u00e7\u00e3o contra a dengue em Goi\u00e1s come\u00e7ar\u00e1 por crian\u00e7as de 10 e 11 anos, a partir de quinta-feira (15/2), em 51 cidades, de acordo com a Secretaria de Estado da Sa\u00fade de Goi\u00e1s (SES-GO). Co\u2026 [+3122 chars]",
+      "retrievedAt": "2024-02-11 19:06:04.379208",
+      "internal_id": "dafa2b0a19d236553e3ccc2b846340efef521e0d28c57f757c7fa4bbfaf9a119",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5310,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Africa: Proven Vector Control Interventions Needed to Stem Malaria Infections in Africa",
+      "description": "[IPS] Kigali -- Experts recommend that the current prevention of malaria in highly endemic countries in Africa should integrate \"locally appropriate\" control measures to cope with the highest burden of mosquito-borne disease on the continent.",
+      "url": "https://allafrica.com/stories/202402100029.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-02-10 11:11:26",
+      "content": "Kigali \u2014 Experts recommend that the current prevention of malaria in highly endemic countries in Africa should integrate \"locally appropriate\" control measures to cope with the highest burden of mosq\u2026 [+6488 chars]",
+      "retrievedAt": "2024-02-11 19:06:05.339370",
+      "internal_id": "ea9d294cd1c6d76d6dfef24bfd3c0a25e299fedc293b3d066b577c03fc63b4f1",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5306,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Montreal public health found a measles case. Here's what parents should keep in mind",
+      "description": "Now that public health officials in Montreal have flagged a measles case, here's what you need to know about the virus and how to keep it at bay.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-public-health-parents-vaccines-1.7109044",
+      "urlToImage": "https://i.cbc.ca/1.7110648.1707503678!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-vaccine.jpg",
+      "publishedAt": "2024-02-10 09:00:29",
+      "content": "There's a rare case of measles in Montreal and public health officials are trying to trace the contacts of the person who is infected, isolate the virus and squash any chance of an outbreak. Measle\u2026 [+4381 chars]",
+      "retrievedAt": "2024-02-11 19:06:03.483095",
+      "internal_id": "96938bbfc1e6310f46aa7d866aecf619111978c1e824b7fcf249ba3e25cdd47f",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5304,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "Dog that bit 12 people not vaccinated for rabies",
+      "description": "The dog that attacked a dozen people including nine elementary school pupils in Gunma Prefecture last week had not been vaccinated for rabies, the local government said. The pet owner has admitted that he failed to inoculate the 2-year-old Shikoku that went o\u2026",
+      "url": "https://japantoday.com/category/national/dog-that-bit-12-people-northwest-of-tokyo-not-vaccinated-for-rabies",
+      "urlToImage": null,
+      "publishedAt": "2024-02-10 07:19:52",
+      "content": "The dog that attacked a dozen people including nine elementary school pupils in Gunma Prefecture last week had not been vaccinated for rabies, the local government said. The pet owner has admitted t\u2026 [+1852 chars]",
+      "retrievedAt": "2024-02-11 19:06:02.924053",
+      "internal_id": "399291b6e294eda455da9b9def41f77f960b2b55c00b8fca3f893005fa65d5b0",
+      "publishedAtLabel": "Feb 10"
+    },
     {
       "id": 5302,
       "query": [
@@ -23236,25 +23380,6 @@
       "content": "\u00a1De acab\u00f3 la maldici\u00f3n! Detroit Pistons se impuso este s\u00e1bado en el Little Caesars Arena a los Toronto Raptors (127-129) para poner fin a la hist\u00f3rica mala racha de 28 derrotas consecutivas en esta \u2026 [+1028 chars]",
       "retrievedAt": "2024-01-02 07:05:51.070033",
       "internal_id": "6e01ac63ef0fc89eff9708a91f7f191afe0b2ad60e5f4225a40e054452505e55",
-      "publishedAtLabel": "Dec 31"
-    },
-    {
-      "id": 4014,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Wnd.com",
-      "author": "WND News Services",
-      "title": "Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals",
-      "description": "Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. Polio, which paralyzed thousands of Americans annually, was wiped out by widespread vaccinations. In 1999 the natio\u2026",
-      "url": "https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/12/illegals-aliens-migrants-immigration-caravan-border-undocumented-jpg.jpg",
-      "publishedAt": "2023-12-31 18:27:17",
-      "content": "(Video screenshot) [Editor's note: This story originally was published by Real Clear Wire.] By James VarneyReal Clear Wire Successful public health campaigns and medical advances have enabled the \u2026 [+12728 chars]",
-      "retrievedAt": "2024-01-01 19:05:22.272433",
-      "internal_id": "73ad94b20c057ac3685a1a9a55d3a81445edc3d2809aa8e5f96664ff4cc03d7a",
       "publishedAtLabel": "Dec 31"
     }
   ]
