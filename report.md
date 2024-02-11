@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 23
-- **Last harvest:** 2024-02-10 19:05
-- **Most recent article:** 2024-02-09 18:17:33
+- **Last harvest:** 2024-02-11 07:06
+- **Most recent article:** 2024-02-10 06:31:45
 
 ---
 
@@ -10,21 +10,21 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 23-52 | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
-|--|-|-|-|-|-|-|-|-|-|
-| dengue | 34 | 2 | 52 | 35 | 65 | 123 | 173 | 151 | 635 |
-| measles | 3 | 1 | 8 | 25 | 61 | 56 | 47 | 64 | 265 |
-| malaria | 21 | 2 | 11 | 51 | 26 | 86 | 25 | 32 | 254 |
-| zika | 1 | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 52 |
-| chikungunya | 3 | 1 | 2 | 6 | 0 | 10 | 10 | 12 | 44 |
-| rabies | 7 | 1 | 2 | 5 | 5 | 9 | 7 | 5 | 41 |
-| mpox | 12 | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 36 |
-| meningitis | 3 | 0 | 2 | 11 | 6 | 1 | 3 | 7 | 33 |
-| pertussis | 0 | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
-| sarampión | 0 | 0 | 0 | 0 | 0 | 1 | 6 | 3 | 10 |
-| typhoid | 2 | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 9 |
-| yersinia | 0 | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 6 |
-| leptospirosis | 3 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 6 |
+| Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
+|--|-|-|-|-|-|-|-|-|
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 168 | 616 |
+| measles | 1 | 8 | 25 | 61 | 56 | 47 | 65 | 263 |
+| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 33 | 234 |
+| zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 51 |
+| chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 40 |
+| rabies | 1 | 2 | 5 | 5 | 9 | 7 | 6 | 35 |
+| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 31 |
+| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 24 |
+| pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
+| sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 12 |
+| typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 7 |
+| yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 6 |
+| leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 3 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -69,6 +69,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (sarampión)
 
+- [UNAM alerta por nuevo brote de sarampión: ¿Cuáles son sus síntomas y cómo se contagia?](https://www.elfinanciero.com.mx/salud/2024/02/09/unam-alerta-por-nuevo-brote-de-sarampion-cuales-son-sus-sintomas-y-como-se-contagia/) (El Financiero)
+
+- [UNAM alerta sobre rebrote de sarampión; así se transmite](https://aristeguinoticias.com/0902/mexico/unam-alerta-sobre-rebrote-de-sarampion-asi-se-transmite/) (Aristeguinoticias.com)
+
 - [El Ministerio de Salud confirmó un caso de sarampión en la Ciudad de Buenos Aires](https://www.lanacion.com.ar/sociedad/el-ministerio-de-salud-confirmo-un-caso-de-sarampion-en-la-ciudad-de-buenos-aires-nid08022024/) (La Nacion)
 
 - [Cada vez hay más casos de sarampión: Nos debería preocupar pero también ocupar](https://www.sopitas.com/noticias/casos-sarampion-alerta-oms-unam-secretaria-salud/) (Sopitas.com)
@@ -76,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 - [Búsqueda de sarampión motivó barrido de salud en Roxana de Pococí](https://www.nacion.com/ciencia/salud/busqueda-de-sarampion-motivo-barrido-de-salud-en/W6P6EQJN5VEHREEY4UA7KVGJ4U/story/) (Nacion.com)
 
 ## 24-6 (rabies)
+
+- [Department of Health detects skunk rabies in 2 southern Indiana counties](https://www.wlwt.com/article/indiana-department-health-skunk-rabies-vaccines/46699880) (WLWT Cincinnati)
 
 - [Dog that bit 12 people in Gunma Prefecture was not vaccinated for rabies](https://www.japantimes.co.jp/news/2024/02/09/japan/dog-attack-not-vaccinated/) (The Japan Times)
 
@@ -107,6 +113,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (meningitis)
 
+- [Two cases of potentially serious meningococcal B infection confirmed at Oswestry nursery](https://www.shropshirestar.com/news/health/2024/02/10/two-cases-of-potentially-serious-meningococcal-b-infection-confirmed-at-oswestry-nursery/) (shropshirestar.com)
+
 - [Fungus that sparked deadly meningitis outbreak aggressively attacked the brainstem](https://www.nbcnews.com/health/health-news/fungus-sparked-deadly-meningitis-outbreak-aggressively-attacked-brains-rcna137780) (NBC News)
 
 - [Correction: High burden of cryptococcal antigenemia and meningitis among patients presenting at an emergency department in Maputo, Mozambique](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298877) (Plos.org)
@@ -122,6 +130,8 @@ Source: [News API](https://newsapi.org/)
 - [Presos por brote de meningitis, sólo 2 de 8 dueños de clínicas en Durango](https://www.jornada.com.mx/2024/02/04/estados/024n1est) (Jornada.com.mx)
 
 ## 24-6 (measles)
+
+- [Revealed: Counties most at risk of becoming measles hotspots after Westmeath death](https://www.independent.ie/irish-news/revealed-counties-most-at-risk-of-becoming-measles-hotspots-after-westmeath-death/a1101535744.html) (Independent.ie)
 
 - [Lung failure may follow flu and measles-like virus in ferrets](https://www.futurity.org/lung-failure-flu-rsv-lungs-3178082/) (Futurity: Research News)
 
@@ -253,6 +263,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (malaria)
 
+- [Hallan una clave inesperada en la lucha contra la malaria](https://www.eluniversal.com.co/salud/hallan-una-clave-inesperada-en-la-lucha-contra-la-malaria-HL9940911) (Eluniversal.com.co)
+
 - [A Milestone in the Fight Against Malaria](https://undispatch.com/?p=49292) (Undispatch.com)
 
 - [COVID-19 in patients presenting with malaria-like symptoms at a primary healthcare facility in Accra, Ghana](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0298088) (Plos.org)
@@ -319,6 +331,24 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (dengue)
 
+- [Folia e combate à dengue: veja onde terá vacina no sábado de Carnaval](https://www.metropoles.com/distrito-federal/folia-e-combate-a-dengue-veja-onde-tera-vacina-no-sabado-de-carnaval) (Metropoles.com)
+
+- [Clubes abandonados no DF viram ameaça sanitária com epidemia de dengue](https://www.metropoles.com/distrito-federal/clubes-abandonados-no-df-viram-ameaca-sanitaria-com-epidemia-de-dengue) (Metropoles.com)
+
+- [Renato Kfouri: “Vacina da dengue é segura e protege por 5 anos”](https://www.metropoles.com/saude/renato-kfouri-vacina-dengue-segura) (Metropoles.com)
+
+- [Dengue: procura por repelentes aumenta 120% em fevereiro no Brasil](https://www.metropoles.com/brasil/dengue-procura-por-repelentes-aumenta-120-em-fevereiro-no-brasil) (Metropoles.com)
+
+- [Brasil ultrapassa 400 mil casos prováveis de dengue](https://www.metropoles.com/brasil/brasil-ultrapassa-400-mil-casos-provaveis-de-dengue) (Metropoles.com)
+
+- [Brasil soma 62 mortes por dengue, aponta ministério](https://jornaldebrasilia.com.br/noticias/brasil/brasil-soma-62-mortes-por-dengue-aponta-ministerio/) (Jornaldebrasilia.com.br)
+
+- [Začíná karneval v Riu, čeká sedm milionů lidí a bojí se horečky dengue](https://www.idnes.cz/zpravy/zahranicni/karneval-rio-de-janeiro-sedm-milionu-lidi-horecka.A240209_212414_zahranicni_pukk) (Idnes.cz)
+
+- [Por que as crianças e adolescentes são prioridade na vacinação da dengue?](https://veja.abril.com.br/saude/por-que-as-criancas-e-adolescentes-sao-prioridade-na-vacinacao-da-dengue) (Abril.com.br)
+
+- [OMS manifesta preocupação com a propagação da dengue no Brasil](https://observador.pt/2024/02/09/oms-manifesta-preocupacao-com-a-propagacao-da-dengue-no-brasil/) (Observador.pt)
+
 - [Dengue: Brasil pode ultrapassar 4 milhões de casos; vacinas já estão chegando aos estados](https://olhardigital.com.br/2024/02/09/medicina-e-saude/dengue-brasil-pode-ultrapassar-4-milhoes-de-casos-vacinas-ja-estao-chegando-aos-estados/) (Olhardigital.com.br)
 
 - [O que El Niño tem a ver com dengue? Professor da USP explica](https://olhardigital.com.br/2024/02/09/medicina-e-saude/professor-da-usp-explica-o-que-el-nino-tem-a-ver-com-dengue/) (Olhardigital.com.br)
@@ -331,17 +361,27 @@ Source: [News API](https://newsapi.org/)
 
 - [OMS, preocupada por brotes de dengue en Latinoamérica, especialmente en Brasil](https://www.forbes.com.mx/oms-preocupada-por-brotes-de-dengue-en-latinoamerica-especialmente-en-brasil/) (Forbes.com.mx)
 
+- [Saiba quem não pode tomar a vacina da dengue no SUS](https://www.metropoles.com/saude/quem-nao-pode-tomar-vacina-dengue) (Metropoles.com)
+
 - [“Momento histórico”, diz ministra da Saúde sobre vacina contra dengue](https://www.metropoles.com/distrito-federal/momento-historico-diz-ministra-da-saude-sobre-vacina-contra-dengue) (Metropoles.com)
+
+- [Dengue em SP: internações aumentam 80% em hospitais particulares](https://www.metropoles.com/sao-paulo/dengue-em-sp-internacoes-aumentam-80-em-hospitais-particulares) (Metropoles.com)
 
 - [Rio de Janeiro atento a aumento de casos de dengue nos turistas internacionais no Carnaval](https://observador.pt/2024/02/09/rio-de-janeiro-atento-a-aumento-de-casos-de-dengue-nos-turistas-internacionais-no-carnaval/) (Observador.pt)
 
 - [Vacinação de crianças contra a dengue começa com filas no DF](https://www.metropoles.com/distrito-federal/vacinacao-de-criancas-contra-a-dengue-comeca-com-filas-no-df) (Metropoles.com)
+
+- [Saúde muda projeção e diz que país pode ter 4,2 milhões de casos de dengue em 2024](https://jornaldebrasilia.com.br/noticias/saude/saude-muda-projecao-e-diz-que-pais-pode-ter-42-milhoes-de-casos-de-dengue-em-2024/) (Jornaldebrasilia.com.br)
+
+- [Tem filho de 10 ou 11 anos? Veja onde vacinar contra a dengue nesta 6ª](https://www.metropoles.com/distrito-federal/tem-filho-de-10-ou-11-anos-veja-onde-vacinar-contra-a-dengue-nesta-6a) (Metropoles.com)
 
 - [Estados começam a receber vacina contra a dengue](https://valor.globo.com/brasil/noticia/2024/02/08/estados-comeam-a-receber-vacina-contra-a-dengue.ghtml) (Globo)
 
 - [DF e GO são os primeiros a receberem as vacinas contra a dengue](https://www.metropoles.com/brasil/df-e-go-sao-os-primeiros-a-receberem-as-vacinas-contra-a-dengue) (Metropoles.com)
 
 - [Fiocruz dobra produção de testes de dengue a pedido da Saúde](https://www.metropoles.com/brasil/fiocruz-dobra-producao-de-testes-de-dengue-a-pedido-da-saude) (Metropoles.com)
+
+- [Quem teve dengue pode tomar vacina quando? Imunização começa nesta 6ª](https://www.metropoles.com/distrito-federal/quem-teve-dengue-pode-tomar-vacina-quando-imunizacao-comeca-nesta-6a) (Metropoles.com)
 
 - [In broeierig Brazilië grijpt het dengue-virus om zich heen](https://www.nrc.nl/nieuws/2024/02/08/in-broeierig-brazilie-grijpt-dengue-om-zich-heen-a4189627) (Www.nrc.nl)
 
@@ -407,11 +447,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue neurológica rara deixa jovem tetraplégica e em coma por 7 meses](https://www.metropoles.com/saude/dengue-neurologica-rara-deixa-jovem-tetraplegica) (Metropoles.com)
 
+- [Veja quem poderá se vacinar contra a dengue na rede pública do DF](https://www.metropoles.com/distrito-federal/veja-quem-podera-se-vacinar-contra-a-dengue-na-rede-publica-do-df) (Metropoles.com)
+
 - [Dengue: cidade do Rio confirma 1ª morte de 2024](https://olhardigital.com.br/2024/02/07/medicina-e-saude/dengue-cidade-do-rio-confirma-1a-morte-de-2024/) (Olhardigital.com.br)
 
 - [Río de Janeiro declara "el estado de emergencia" ante los disparados casos de dengue](https://www.expansion.com/economia/politica/2024/02/07/65c3a754468aeb4b638b45af.html) (Expansion.com)
 
+- [OMS: surto de dengue no Brasil faz parte de aumento em escala global](https://jornaldebrasilia.com.br/noticias/brasil/oms-surto-de-dengue-no-brasil-faz-parte-de-aumento-em-escala-global/) (Jornaldebrasilia.com.br)
+
 - [Dengue: é falso que suco de limão mate vírus e acabe com carga viral](https://www.metropoles.com/saude/dengue-suco-de-limao-mata-virus) (Metropoles.com)
+
+- [Cidade do Rio tem primeira morte por dengue de 2024](https://ultimosegundo.ig.com.br/brasil/rj/2024-02-07/dengue-morte-rio-de-janeiro.html) (Ig.com.br)
 
 - [Herança maldita do governo Bolsonaro: brasileiros buscam ivermectina para tratar dengue](https://www.pragmatismopolitico.com.br/2024/02/heranca-maldita-do-governo-bolsonaro-brasileiros-buscam-ivermectina-para-tratar-dengue.html) (Pragmatismopolitico.com.br)
 
@@ -2810,211 +2856,3 @@ Source: [News API](https://newsapi.org/)
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
 
 - [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
-
-## 23-53 (dengue)
-
-- [Un âge d’or pour les vaccins ? «Il n’y a pas de nouvelles découvertes, c’est surtout l’aboutissement d’une recherche de longue haleine»](https://www.liberation.fr/societe/sante/un-age-dor-pour-les-vaccins-il-ny-a-pas-de-nouvelles-decouvertes-cest-surtout-laboutissement-dune-recherche-de-longue-haleine-20231231_YFC2RDHVRZBA3G5ULXGLLRD6YE/) (Libération)
-
-- [Flu, dengue and Covid top 2023 infectious disease charts](https://www.bangkokpost.com/thailand/general/2715761/flu-dengue-and-covid-top-2023-infectious-disease-charts) (Bangkok Post)
-
-## 23-53 (chikungunya)
-
-- [Un âge d’or pour les vaccins ? «Il n’y a pas de nouvelles découvertes, c’est surtout l’aboutissement d’une recherche de longue haleine»](https://www.liberation.fr/societe/sante/un-age-dor-pour-les-vaccins-il-ny-a-pas-de-nouvelles-decouvertes-cest-surtout-laboutissement-dune-recherche-de-longue-haleine-20231231_YFC2RDHVRZBA3G5ULXGLLRD6YE/) (Libération)
-
-## 23-52 (zika)
-
-- [Warning over increase in Zika virus infections in Bangkok](https://www.thaipbsworld.com/warning-over-increase-in-zika-virus-infections-in-bangkok/) (Thaipbsworld.com)
-
-## 23-52 (typhoid)
-
-- [Bad News](https://www.futilitycloset.com/2023/12/30/bad-news-2/) (Futilitycloset.com)
-
-- [The school that relocated 200 miles to the Ceredigion seaside](https://www.bbc.co.uk/news/uk-wales-67725871) (BBC News)
-
-## 23-52 (rabies)
-
-- [Department of Health issues rabies alert for Town Center/UNF area in Jacksonville](https://www.actionnewsjax.com/news/local/department-health-issues-rabies-alert-town-centerunf-area-jacksonville/YVRR64CXNNDNZKXBUHRMYS4ZD4/) (ActionNewsJax.com)
-
-- [Rabid cat triggers health alert for Town Center/UNF area](https://www.news4jax.com/news/local/2023/12/28/rabid-cat-triggers-health-alert-for-town-centerunf-area/) (WJXT News4JAX)
-
-- [Reducing the risk of rabies via pet vaccination](https://www.thestar.com.my/lifestyle/health/2023/12/27/reducing-the-risk-of-rabies-via-pet-vaccination) (The Star Online)
-
-- [【衝撃動画】狂犬病の人の水の飲み方がヤバすぎる](http://chaos2ch.com/archives/5491039.html) (Chaos2ch.com)
-
-- [狂犬病の人の水の飲み方がヤバすぎる](http://blog.livedoor.jp/news23vip/archives/6098270.html) (Livedoor.jp)
-
-- [犬に噛まれたインド人、水が飲めなくなってしまう](http://waranote.livedoor.biz/archives/61111359.html) (Livedoor.biz)
-
-- [犬に噛まれたインド人、水が飲めなくなってしまう](http://gahalog.2chblog.jp/archives/52557987.html) (2chblog.jp)
-
-## 23-52 (mpox)
-
-- [Stigma Against Gay Men Could Worsen Congo's Biggest Mpox Outbreak, Scientists Warn](https://www.voanews.com/a/stigma-against-gay-men-could-worsen-congo-s-biggest-mpox-outbreak-scientists-warn-/7416483.html) (VOA News)
-
-- [Stigma against gay men could worsen Congo’s biggest mpox outbreak, scientists warn](https://www.euronews.com/next/2023/12/28/stigma-against-gay-men-could-worsen-congos-biggest-mpox-outbreak-scientists-warn?utm_source=nordot&utm_campaign=feeds_allthemes&utm_medium=referral) (Euronews)
-
-- [Stigma against gay and bisexual men could worsen Congo's largest mpox outbreak, experts warn](https://www.pbs.org/newshour/world/stigma-against-gay-and-bisexual-men-could-worsen-congos-largest-mpox-outbreak-experts-warn) (PBS)
-
-- [Stigma against gay men could worsen Congo’s biggest mpox outbreak, scientists warn](http://thegrio.com/2023/12/28/stigma-against-gay-men-could-worsen-congos-biggest-mpox-outbreak-scientists-warn/) (TheGrio)
-
-- [Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn](https://www.nbcnews.com/nbc-out/out-health-and-wellness/stigma-gay-men-worsen-congos-biggest-mpox-outbreak-scientists-warn-rcna131438) (NBC News)
-
-- [Infektionskrankheiten: WHO warnt vor weltweiter Ausbreitung der "Affenpocken"](https://www.sueddeutsche.de/gesundheit/mpox-infektionskrankheit-who-affenpocken-ausbruch-1.6325600) (Süddeutsche Zeitung)
-
-- [Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn](https://apnews.com/article/congo-monkeypox-outbreak-gay-discrimination-mpox-bdfbae117989cfa41f5e7e36d583c036) (Associated Press)
-
-- [Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn](https://abcnews.go.com/Health/wireStory/stigma-gay-men-worsen-congos-biggest-mpox-outbreak-105959400) (ABC News)
-
-- [Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn](https://abcnews.go.com/International/wireStory/stigma-gay-men-worsen-congos-biggest-mpox-outbreak-105959399) (ABC News)
-
-- [Ekspertka: zagrożenie tymi wirusami może wzrosnąć w 2024 roku](https://tvn24.pl/swiat/zdrowie-grozne-choroby-w-2024-roku-ekspertka-swiatowej-organizacji-zdrowia-wskazala-covid-19-mpox-i-denge-7642332) (Tvn24.pl)
-
-- [ВОЗ заявила, что конец режима ЧС по ковиду стало поворотным моментом для мира в 2023 году](https://tass.ru/obschestvo/19631915) (Tass.ru)
-
-- [질병청, 국내 '엠폭스' 발생 안정화... 일반 병의원 진료 가능](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002988778) (Ohmynews.com)
-
-## 23-52 (meningitis)
-
-- [Recurrent bacterial meningitis in children in the Netherlands: a nationwide surveillance study](https://bmjopen.bmj.com/content/13/12/e077887?rss=1) (The BMJ)
-
-- [Pneumococcal population dynamics: Investigating vaccine-induced changes through multiscale modelling](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011755) (Plos.org)
-
-- [Meningite: a importância da cobertura vacinal para o combate da doença¹'²](https://bebe.abril.com.br/saude/meningite-a-importancia-da-cobertura-vacinal-para-o-combate-da-doenca%c2%b9%c2%b2/) (Abril.com.br)
-
-## 23-52 (measles)
-
-- [Opinion: Measles is back. Coloradans should be concerned.](https://www.denverpost.com/2023/12/27/measles-colorado-pediatricians-concerned-vaccines-safe/) (The Denver Post)
-
-- [Leprosy, Polio, Malaria, TB, Measles … and Massive Unscreened Illegal Immigration](https://www.thegatewaypundit.com/2023/12/leprosy-polio-malaria-tb-measles-massive-unscreened-illegal/) (Thegatewaypundit.com)
-
-- [Idaho has worst child vaccine opt-out rate in US](https://www.idahostatejournal.com/news/local/idaho-has-worst-child-vaccine-opt-out-rate-in-us/article_3de847ba-a411-11ee-8ac6-4ffa928844e7.html) (Idaho State Journal)
-
-## 23-52 (malaria)
-
-- [PL-spiller ude på ubestemt tid: Smittet med malaria](https://www.bt.dk/fodbold/pl-spiller-ude-paa-ubestemt-tid-smittet-med-malaria) (Www.bt.dk)
-
-- [Bournemouth's Traore sidelined after contracting malaria](https://www.channelnewsasia.com/sport/bournemouths-traore-sidelined-after-contracting-malaria-4017151) (CNA)
-
-- [Hamed Traore ha la malaria. L’annuncio del Bournemouth](https://www.corriere.it/sport/calcio/23_dicembre_29/hamed-traore-ha-malaria-l-annuncio-bournemouth-4e097b74-a677-11ee-b8ba-551c5675ed48.shtml) (Corriere.it)
-
-- [PL-mittfältaren har inte spelat på veckor – fått malaria](https://www.aftonbladet.se/sportbladet/fotboll/a/dwV6Jq/bournemouths-hamed-traore-har-fatt-malaria) (Aftonbladet.se)
-
-- [Iraola confirma una baja para la Copa de África por malaria](https://www.mundodeportivo.com/futbol/copa-africa/20231229/1002161368/traore.html) (Mundodeportivo.com)
-
-- [Ex-Sassuolo midfielder Traore contracts malaria](https://football-italia.net/ex-sassuolo-midfielder-traore-contracts-malaria/) (Football Italia)
-
-- [Sport | Bournemouth midfielder Traore contracts malaria, out of Ivory Coast's Afcon campaign](https://www.news24.com/sport/soccer/englishpremiership/bournemouth-midfielder-traore-contracts-malaria-out-of-ivory-coasts-afcon-campaign-20231229) (News24)
-
-- [Bournemouth's Traore recovering from malaria](https://www.bbc.co.uk/sport/football/67842962) (BBC News)
-
-- [Bournemouth, tegola Traoré: l'ex Sassuolo è ricoverato in ospedale per malaria](https://www.tuttomercatoweb.com/calcio-estero/bournemouth-tegola-traore-l-ex-sassuolo-e-ricoverato-in-ospedale-per-malaria-1917044) (Tuttomercatoweb.com)
-
-- [La OMS toma medidas para que la nueva vacuna contra la malaria sea más accesible](https://www.montevideo.com.uy/Salud/La-OMS-toma-medidas-para-que-la-nueva-vacuna-contra-la-malaria-sea-mas-accesible-uc875186) (Montevideo.com.uy)
-
-- [Jahresrückblick: 23 gute Nachrichten aus 2023](https://www.sueddeutsche.de/projekte/artikel/gesellschaft/2023-nachrichten-das-war-2023-ereignisse-jahresrueckblick-e062974/) (Süddeutsche Zeitung)
-
-- [Malaria-Impfung, Fett-weg-Spritze, Blauwale: Das waren gute Nachrichten des Jahres](https://www.nzz.ch/gesellschaft/7-good-news-von-2023-von-malaria-impfstoffen-bis-zur-kino-renaissance-ld.1770984) (Www.nzz.ch)
-
-- [Leprosy, Polio, Malaria, TB, Measles … and Massive Unscreened Illegal Immigration](https://www.thegatewaypundit.com/2023/12/leprosy-polio-malaria-tb-measles-massive-unscreened-illegal/) (Thegatewaypundit.com)
-
-- [Agartala municipality releases larvae-eating fishes in city drains, waterbodies to combat mosquito menace](https://indianexpress.com/article/north-east-india/tripura/agartala-municipality-larvae-eating-fishes-drains-mosquito-menace-9085399/) (The Indian Express)
-
-- [Non-linear associations between meteorological factors, ambient air pollutants and major mosquito-borne diseases in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011763) (Plos.org)
-
-- [Malaria parasite centrins can assemble by Ca2+-inducible condensation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011899) (Plos.org)
-
-- [Innehalten in der Mücke: Der Malaria-Erreger geht Infektionen langsam an](https://www.tagesspiegel.de/wissen/innehalten-in-der-mucke-der-malaria-erreger-geht-infektionen-langsam-an-10956538.html) (Der Tagesspiegel)
-
-- [El secreto de 'la puchera de Riaza', el primer medicamento específico español con prospecto](https://www.elmundo.es/ciencia-y-salud/salud/2023/12/27/658aee2be4d4d879658b4580.html) (El Mundo)
-
-- [Did anything good happen in 2023? Actually, yes!](https://www.bostonglobe.com/2023/12/26/world/did-anything-good-happen-2023-actually-yes/) (The Boston Globe)
-
-- [World Malaria Report 2023 - a Call for Concerted Action to Address Growing Threats](https://allafrica.com/stories/202312260036.html) (AllAfrica - Top Africa News)
-
-- [Of love letters and distant galaxies: Uplifting stories from 2023](https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023) (FRANCE 24 English)
-
-## 23-52 (leptospirosis)
-
-- [Conoce las enfermedades que golpearon a Cartagena en 2023](https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851) (Eluniversal.com.co)
-
-- [Bacolod City logs 16 leptospirosis deaths](https://rpnradio.com/bacolod-city-logs-16-leptospirosis-deaths/) (Rpnradio.com)
-
-- [Scientists hope to bank on local vaccine as leptospirosis cases hit 5-year high in Philippines](https://www.channelnewsasia.com/asia/philippines-leptospirosis-vaccine-leptospira-bacteria-researchers-scientists-floods-rats-underprivileged-4012756) (CNA)
-
-## 23-52 (dengue)
-
-- [Conoce las enfermedades que golpearon a Cartagena en 2023](https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851) (Eluniversal.com.co)
-
-- [Brasil bate recorde de mortes por dengue em 2023](https://olhardigital.com.br/2023/12/29/medicina-e-saude/brasil-bate-recorde-de-mortes-por-dengue-em-2023/) (Olhardigital.com.br)
-
-- [Capital paulista tem aumento de 13,91% nos casos de dengue em um ano](https://www.metropoles.com/sao-paulo/capital-paulista-tem-aumento-de-1391-nos-casos-de-dengue-em-um-ano) (Metropoles.com)
-
-- [Sri Lanka witnesses rise in dengue cases with over 10,000 reported in December](http://en.people.cn/n3/2023/1229/c90000-20116647.html) (People.cn)
-
-- [Dengue claims more than 1,700 lives in Bangladesh this year](http://en.people.cn/n3/2023/1229/c90000-20116491.html) (People.cn)
-
-- ['I am also the victim of the mosquito': Woman fined for mosquito breeding in toilet bowl after losing trial](https://www.channelnewsasia.com/singapore/woman-fined-mosquito-breeding-toilet-bowl-national-environment-agency-4015856) (CNA)
-
-- [Rio tem tendência de aumento da transmissão da dengue](https://valor.globo.com/brasil/noticia/2023/12/28/rio-tem-tendncia-de-aumento-da-transmisso-da-dengue.ghtml) (Globo)
-
-- [Mortes por dengue batem recorde pelo 2º ano consecutivo no Brasil](https://www.terra.com.br/nos/mortes-por-dengue-batem-recorde-pelo-2-ano-consecutivo-no-brasil,81c2b98f33af7c68f60ed98eb3a8ef380i0rm6x6.html) (Terra.com.br)
-
-- [Os 10 maiores destaques da ciência em 2023](https://tecnologia.ig.com.br/parceiros/canaltech/2023-12-28/os-10-maiores-destaques-da-ciencia-em-2023.html) (Ig.com.br)
-
-- [Brasil tem recorde de mortes por dengue em 2023](https://veja.abril.com.br/saude/brasil-bate-recorde-de-mortes-por-dengue-em-2023) (Abril.com.br)
-
-- [Brasil bate récord de muertes por dengue en 2023, alcanzando más de mil fallecidos](https://www.abc.es/sociedad/brasil-bate-record-muertes-dengue-2023-alcanzando-20231228124004-nt.html) (Www.abc.es)
-
-- [Brasil bate récord de muertes por dengue en 2023, alcanzando más de mil fallecidos](https://www.europapress.es/internacional/noticia-brasil-bate-record-muertes-dengue-2023-alcanzando-mas-mil-fallecidos-20231228071551.html) (Europapress.es)
-
-- [Sri Lanka speeds up dengue control before university entrance exams](http://en.people.cn/n3/2023/1228/c90000-20115821.html) (People.cn)
-
-- [Dengue: Brasil bate recorde de mortes em 2023](https://saude.ig.com.br/2023-12-27/dengue--brasil-bate-recorde-de-mortes-em-2023.html) (Ig.com.br)
-
-- [Brasil registra recorde de mortes por dengue em 2023](https://www.metropoles.com/brasil/brasil-registra-recorde-de-mortes-por-dengue-em-2023) (Metropoles.com)
-
-- [Vacuna contra el dengue: cuál es el precio y dónde conseguirla](https://www.lanacion.com.ar/sociedad/vacuna-contra-el-dengue-cual-es-el-precio-y-donde-conseguirla-nid27122023/) (La Nacion)
-
-- [Campinas amplia bairros com 'alto risco de transmissão' de dengue: veja relação](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/27/campinas-amplia-bairros-com-alto-risco-de-transmissao-de-dengue-veja-relacao.ghtml) (Globo)
-
-- [Agartala municipality releases larvae-eating fishes in city drains, waterbodies to combat mosquito menace](https://indianexpress.com/article/north-east-india/tripura/agartala-municipality-larvae-eating-fishes-drains-mosquito-menace-9085399/) (The Indian Express)
-
-- [Febre maculosa, dengue, maternidade: relembre desafios da saúde na região de Campinas em 2023](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/27/febre-maculosa-dengue-maternidade-relembre-desafios-da-saude-na-regiao-de-campinas-em-2023.ghtml) (Globo)
-
-- [Non-linear associations between meteorological factors, ambient air pollutants and major mosquito-borne diseases in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011763) (Plos.org)
-
-- [Llegó la vacuna contra el dengue: un hito en la lucha contra enfermedades transmitidas por mosquitos](https://www.clarin.com/brandstudio/llego-vacuna-dengue-hito-lucha-enfermedades-transmitidas-mosquitos_0_MsaFXLcgdd.html) (Clarín)
-
-- [Argentina, emergenza sanitaria per l’epidemia di dengue](https://www.lastampa.it/esteri/2023/12/27/news/dengue_argentina_epidemia-13957407/) (Lastampa.it)
-
-- [O que explica o aumento nos casos de dengue na Europa?](https://olhardigital.com.br/2023/12/27/medicina-e-saude/o-que-explica-o-aumento-nos-casos-de-dengue-na-europa/) (Olhardigital.com.br)
-
-- [Ahmedabad: 90 cholera and 71 dengue cases](https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-90-cholera-and-71-dengue-cases/articleshow/106304944.cms) (The Times of India)
-
-- [Vacina contra a Dengue estará disponível no SUS? Entenda os detalhes](https://delas.ig.com.br/parceiros/selecoes/2023-12-26/vacina-contra-a-dengue-estara-disponivel-no-sus--entenda-os-detalhes.html) (Ig.com.br)
-
-- [Sintomas de dengue: cuidado durante o verão precisa ser redobrado](https://www.terra.com.br/vida-e-estilo/saude/sintomas-de-dengue-cuidado-durante-o-verao-precisa-ser-redobrado,3121a9b04185a58fe1e4be72cf6784f2u1m8p8sy.html) (Terra.com.br)
-
-- [Sintomas de dengue: cuidados durante o verão precisam ser redobrados](https://www.metropoles.com/saude/sintomas-de-dengue-cuidados-durante-o-verao) (Metropoles.com)
-
-- [Dengue, l’Argentina decreta emergenza sanitaria per l’epidemia](https://www.ilsole24ore.com/art/dengue-l-argentina-decreta-emergenza-sanitaria-l-epidemia-AFXVpJBC) (Il Sole 24 Ore)
-
-- [Em alerta para explosão de casos de dengue, Campinas define bairros do 1º mutirão de 2014; veja cronograma](https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/26/em-alerta-para-explosao-de-casos-de-dengue-campinas-define-bairros-do-1o-mutirao-de-2014-veja-cronograma.ghtml) (Globo)
-
-- [São Paulo registra mais de 318 mil casos de dengue e 284 mortes pela doença em 2023](https://noticias.r7.com/sao-paulo/sao-paulo-registra-mais-de-318-mil-casos-de-dengue-e-284-mortes-pela-doenca-em-2023-26122023) (R7.com)
-
-- [‘Belangrijk dat er meer bewustzijn over de ziekte groeit bij ons’: wordt dengue in Europa een blijvertje?](https://www.demorgen.be/nieuws/belangrijk-dat-er-meer-bewustzijn-over-de-ziekte-groeit-bij-ons-wordt-dengue-in-europa-een-blijvertje~bd863a74/) (Demorgen.be)
-
-- [Learning English Podcast](https://learningenglish.voanews.com/a/7393826.html) (VOA News)
-
-- [Millions Infected with Dengue as Temperature Rises](https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html) (VOA News)
-
-- [Por que casos de dengue estão se multiplicando na Europa](https://www.bbc.com/portuguese/articles/crgj2de70r5o) (BBC News)
-
-## 23-52 (chikungunya)
-
-- [Agartala municipality releases larvae-eating fishes in city drains, waterbodies to combat mosquito menace](https://indianexpress.com/article/north-east-india/tripura/agartala-municipality-larvae-eating-fishes-drains-mosquito-menace-9085399/) (The Indian Express)
-
-- [Non-linear associations between meteorological factors, ambient air pollutants and major mosquito-borne diseases in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011763) (Plos.org)
-
-- [Dynamics of chikungunya virus transmission in the first year after its introduction in Brazil: A cohort study in an urban community](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011863) (Plos.org)

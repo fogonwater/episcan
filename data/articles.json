@@ -1,8 +1,278 @@
 {
-  "last_updated": "2024-02-10 19:05",
-  "count_articles_total": 1351,
+  "last_updated": "2024-02-11 07:06",
+  "count_articles_total": 1289,
   "count_articles_new": 23,
   "articles": [
+    {
+      "id": 5302,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "shropshirestar.com",
+      "author": "Rob Smith",
+      "title": "Two cases of potentially serious meningococcal B infection confirmed at Oswestry nursery",
+      "description": "Two cases of potentially serious meningococcal B infection confirmed at Oswestry nurseryshropshirestar.com",
+      "url": "https://www.shropshirestar.com/news/health/2024/02/10/two-cases-of-potentially-serious-meningococcal-b-infection-confirmed-at-oswestry-nursery/",
+      "urlToImage": "https://www.shropshirestar.com/resizer/aMeNlIRWBGyuw4OIKX9bQkjgevI=/1200x900/cloudfront-us-east-1.images.arcpublishing.com/mna/BQ7AHRYEHVGOZKU4IXXXMJXXVU.jpg",
+      "publishedAt": "2024-02-10 06:31:45",
+      "content": "The cases of meningococcal group B infection, which can cause meningitis and septicaemia, were recorded this week in two people who attend Kidszone in Oswestry, the UK Health Security Agency said on \u2026 [+366 chars]",
+      "retrievedAt": "2024-02-11 07:05:58.330380",
+      "internal_id": "8c33a3d1962518b50743c62b1fb4de01d4fa9e876b811da02cc969bc2e840120",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5290,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Folia e combate \u00e0 dengue: veja onde ter\u00e1 vacina no s\u00e1bado de Carnaval",
+      "description": "A vacina contra a dengue ser\u00e1 aplicada em 15 locais de atendimento durante todo o feriado de Carnaval. Confira endere\u00e7os",
+      "url": "https://www.metropoles.com/distrito-federal/folia-e-combate-a-dengue-veja-onde-tera-vacina-no-sabado-de-carnaval",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09113210/Vacinacao-dengue-UBS-Asa-6.jpg",
+      "publishedAt": "2024-02-10 05:28:34",
+      "content": "Durante o feriado de Carnaval, a vacina\u00e7\u00e3o contra a dengue continua no Distrito Federal. No total, 15 pontos estar\u00e3o aplicando o imunizante entre este s\u00e1bado (10/2) e ter\u00e7a-feira (13/2). Segundo a S\u2026 [+4099 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.940668",
+      "internal_id": "2e62001f9be4fb8f981a5417ca6ccb585c47fa9a2ff4bdcd255917a4c65cf208",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5295,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jonatas Martins",
+      "title": "Clubes abandonados no DF viram amea\u00e7a sanit\u00e1ria com epidemia de dengue",
+      "description": "Clubes luxuosos abandonados no centro do DF contam com ambiente prop\u00edcio para a reprodu\u00e7\u00e3o do mosquito Aedes aegypti, que transmite a dengue",
+      "url": "https://www.metropoles.com/distrito-federal/clubes-abandonados-no-df-viram-ameaca-sanitaria-com-epidemia-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09225120/clube-capeb-6.jpeg",
+      "publishedAt": "2024-02-10 05:13:00",
+      "content": "Os empreendimentos luxuosos abandonados que abrigavam restaurantes, salas de cinema e piscinas ol\u00edmpicas se transformaram em grandes acumuladores de focos de dengue no Distrito Federal. Os espa\u00e7os ne\u2026 [+6912 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.985846",
+      "internal_id": "9da4ab19777c9d2162b5a99b8f5041dee3ae442f37c60894d74a297d6fe21c52",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5288,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Renato Kfouri: \u201cVacina da dengue \u00e9 segura e protege por 5 anos\u201d",
+      "description": "O vice-presidente da Sociedade Brasileira de Imuniza\u00e7\u00f5es (SBIm) explica por que a vacina\u00e7\u00e3o contra dengue come\u00e7ou pelas crian\u00e7as",
+      "url": "https://www.metropoles.com/saude/renato-kfouri-vacina-dengue-segura",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09182651/Renato-Kfouri-1.jpeg",
+      "publishedAt": "2024-02-10 05:00:56",
+      "content": "A vacina\u00e7\u00e3o contra a dengue pelo Sistema \u00danico de Sa\u00fade (SUS) come\u00e7ou nessa sexta-feira (9/2). A latente epidemia da doen\u00e7a, com alta do n\u00famero de novos casos e hospitaliza\u00e7\u00f5es, motivou pais a formar\u2026 [+14897 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.917933",
+      "internal_id": "fb6c878a69a0c61d399373956f08f974b6da67f848c74f30b52f8dfddfabfdc9",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5289,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Maria Eduarda Portela",
+      "title": "Dengue: procura por repelentes aumenta 120% em fevereiro no Brasil",
+      "description": "O aumento de casos de dengue no pa\u00eds tem se refletido na procura por repelentes nas farm\u00e1cias brasileiras",
+      "url": "https://www.metropoles.com/brasil/dengue-procura-por-repelentes-aumenta-120-em-fevereiro-no-brasil",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/07164925/Repelente-contra-mosquito.jpg",
+      "publishedAt": "2024-02-10 05:00:48",
+      "content": "O Brasil enfrenta um aumento nos casos de dengue, o que tem impulsionado significativamente a procura por repelentes nas farm\u00e1cias de todo o pa\u00eds. Segundo informa\u00e7\u00f5es do Grupo RD, respons\u00e1vel pelas d\u2026 [+6081 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.924653",
+      "internal_id": "6a82f4004368eb60e9fd03ad1ac3e9223bcf7827627184c04945b0fb583ab4ae",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5282,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O Regan",
+      "title": "Revealed: Counties most at risk of becoming measles hotspots after Westmeath death",
+      "description": "Counties with the highest risk of becoming \u00admeasles hotspots are revealed today, in a week which saw the tragic death of a Westmeath man from the disease.",
+      "url": "https://www.independent.ie/irish-news/revealed-counties-most-at-risk-of-becoming-measles-hotspots-after-westmeath-death/a1101535744.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/7MxyJmEv7GHsIZYeZBaL79HDlgI=/60x0:735x450/629x0/prod-mh-ireland/3d9f0bc9-7c64-443a-8c1a-3f44301f4e9a/50b04d3b-242f-4dc3-b747-863adb1bb18c/video/video.jpg",
+      "publishedAt": "2024-02-10 02:30:00",
+      "content": "HSE alert issued for bus passengers and restaurant customers who may have come into contact with deceased man Counties with the highest risk of becoming \u00admeasles hotspots are revealed today, in a we\u2026 [+239 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.226020",
+      "internal_id": "7d067df630b7f981e0892a2352ef8937e7522e32b5098755a549a81484c2c222",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5284,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Redacci\u00f3n",
+      "title": "UNAM alerta por nuevo brote de sarampi\u00f3n: \u00bfCu\u00e1les son sus s\u00edntomas y c\u00f3mo se contagia?",
+      "description": "En los \u00faltimos cinco a\u00f1os se han detectado nueve millones de casos de sarampi\u00f3n en el mundo, de acuerdo con la OMS y los CDC de Estados Unidos.",
+      "url": "https://www.elfinanciero.com.mx/salud/2024/02/09/unam-alerta-por-nuevo-brote-de-sarampion-cuales-son-sus-sintomas-y-como-se-contagia/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/vpiTl5V1vyuwWdEkQomryXaljcQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5YID4JXOBZFJTD6WCRAMKW2FMY.jpg",
+      "publishedAt": "2024-02-09 23:08:54",
+      "content": "Ante un repunte de contagios de sarampi\u00f3n en Europa y Estados Unidos, la Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) recomend\u00f3 permanecer alertas ante la potencial aparici\u00f3n de casos sospechosos y\u2026 [+2744 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.504610",
+      "internal_id": "6af66ca12c5129f379cfcaab74b03bbc0db5ea3b0c7abb88d3b2f66f2abd39f6",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5293,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Daniela Santos",
+      "title": "Brasil ultrapassa 400 mil casos prov\u00e1veis de dengue",
+      "description": "O aumento foi de mais de 300% em compara\u00e7\u00e3o com o mesmo per\u00edodo do ano passado. Pa\u00eds registrou 62 mortes por dengue",
+      "url": "https://www.metropoles.com/brasil/brasil-ultrapassa-400-mil-casos-provaveis-de-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2021/03/10085834/mosquito-da-dengue-1-1.jpg",
+      "publishedAt": "2024-02-09 22:24:29",
+      "content": "O Brasil ultrapassou a marca dos 400 mil casos prov\u00e1veis de dengue, de acordo com dados do Painel de Monitoramento das Arboviroses, do Minist\u00e9rio da Sa\u00fade, atualizados nesta sexta-feira (9/2). O tot\u2026 [+1886 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.968906",
+      "internal_id": "e00c3b1304032ded0dec6f2bff6b03514702fd4e90632c3bec310a3c1321a170",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5292,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Brasil soma 62 mortes por dengue, aponta minist\u00e9rio",
+      "description": "Os n\u00fameros s\u00e3o provis\u00f3rios. As cidades podem reavaliar os casos e modificar as informa\u00e7\u00f5es no Sinan, alterando consequentemente o painel",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/brasil-soma-62-mortes-por-dengue-aponta-ministerio/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/08085954/raf03989_0.webp",
+      "publishedAt": "2024-02-09 21:55:36",
+      "content": "S\u00c3O PAULO, SP (FOLHPRESS) \u2013 Ao menos 62 pessoas morreram em decorr\u00eancia da dengue nas primeiras cinco semanas de 2024, de acordo com informa\u00e7\u00f5es divulgadas nesta sexta-feira (9) pelo Minist\u00e9rio da Sa\u2026 [+2286 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.960906",
+      "internal_id": "643153f87ae8748647ef3203be68156244c2cef363de83282890092a65c5e703",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5281,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WLWT Cincinnati",
+      "author": "Matthew Dietz",
+      "title": "Department of Health detects skunk rabies in 2 southern Indiana counties",
+      "description": "The Indiana Department of Health is urging residents to vaccinate their pets against rabies after the viral infection was detected in two southern Indiana counties.",
+      "url": "https://www.wlwt.com/article/indiana-department-health-skunk-rabies-vaccines/46699880",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-55310101-65c68c6f014a8.jpg?crop=1.00xw:0.828xh;0,0.0144xh&resize=1200:*",
+      "publishedAt": "2024-02-09 21:20:10",
+      "content": "INDIANAPOLIS \u2014The Indiana Department of Health is urging residents to vaccinate their pets against rabies after the viral infection was detected in two southern Indiana counties. According to the de\u2026 [+1307 chars]",
+      "retrievedAt": "2024-02-11 07:05:56.957685",
+      "internal_id": "4f9cb7dec6484fa4d86f9df394835afacf6ae22a79f591dd02230d4fd11d8058",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5283,
+      "query": [
+        "sarampi\u00f3n"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / AG",
+      "title": "UNAM alerta sobre rebrote de sarampi\u00f3n; as\u00ed se transmite",
+      "description": "La Universidad Nacional Aut\u00f3noma de M\u00e9xico advirti\u00f3 que el sarampi\u00f3n es una enfermedad viral aguda, extremadamente contagiosa y potencialmente grave.",
+      "url": "https://aristeguinoticias.com/0902/mexico/unam-alerta-sobre-rebrote-de-sarampion-asi-se-transmite/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/02/unam-alerta-rebrote-sarampion-casos-vacuna-mexico-europa-estados-unidos-eu-09022024.jpg",
+      "publishedAt": "2024-02-09 21:00:30",
+      "content": "La Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) alert\u00f3 ante un rebrote de sarampi\u00f3n, enfermedad que ha resurgido en los \u00faltimos a\u00f1os con unos nueve millones de casos, de acuerdo con estimaciones de\u2026 [+3084 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.500311",
+      "internal_id": "41a89da484c51433708b0552c20b83839d5b6b7f12d835c263ca2479bace1188",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5285,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Idnes.cz",
+      "author": "iDNES.cz, \u010cTK",
+      "title": "Za\u010d\u00edn\u00e1 karneval v Riu, \u010dek\u00e1 sedm milion\u016f lid\u00ed a boj\u00ed se hore\u010dky dengue",
+      "description": "Karnevalu v Riu de Janeiro, jeho\u017e hlavn\u00ed \u010d\u00e1st za\u010d\u00edn\u00e1 v p\u00e1tek, se letos z\u00fa\u010dastn\u00ed na sedm milion\u016f lid\u00ed. Uv\u00e1d\u00ed to odhad radnice brazilsk\u00e9ho m\u011bsta. V Riu i v dal\u0161\u00edch brazilsk\u00fdch m\u011bstech se o\u010dek\u00e1vaj\u00ed mimo jin\u00e9 stovky tis\u00edc zahrani\u010dn\u00edch turist\u016f. Oslavy se v\u0161ak leto\u2026",
+      "url": "https://www.idnes.cz/zpravy/zahranicni/karneval-rio-de-janeiro-sedm-milionu-lidi-horecka.A240209_212414_zahranicni_pukk",
+      "urlToImage": "https://1gr.cz/tempimg/fb/2024/2/PUKb7a922cf16_profimedia_0844783161.jpg",
+      "publishedAt": "2024-02-09 21:00:00",
+      "content": "Ekonomick\u00fd p\u00ednos karnevalu radnice odhaduje na zhruba pt miliard brazilsk\u00fdch real, co je v pepotu zhruba 24,6 miliardy korun. V aktivit\u00e1ch souvisej\u00edc\u00edch s karnevalem podle veden\u00ed msta pracuje na 50 t\u2026 [+2015 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.830557",
+      "internal_id": "db83feb20fedc14a216baf1bec94635de1b7b4101d959c6b3017ddee3d33212b",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5303,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Eluniversal.com.co",
+      "author": "DEUTSCHE WELLE",
+      "title": "Hallan una clave inesperada en la lucha contra la malaria",
+      "description": "\u201cDescubrimos que la manipulaci\u00f3n del gen Zeb2 interrump\u00eda la creaci\u00f3n de ABC en el sistema inmunitario. Y lo que es m\u00e1s importante, vimos que los ratones sin el gen Zeb2 eran incapaces de controlar la infecci\u00f3n pal\u00fadica\u201d, se\u00f1ala Ian Cockburn.Por tanto, los re\u2026",
+      "url": "https://www.eluniversal.com.co/salud/hallan-una-clave-inesperada-en-la-lucha-contra-la-malaria-HL9940911",
+      "urlToImage": "https://www.eluniversal.com.co/binrepository/800x799/0c57/800d686/none/13704/QCGG/malaria_9497465_20240209153144.jpg",
+      "publishedAt": "2024-02-09 20:30:00",
+      "content": "Investigadores de la Universidad Nacional Australiana (ANU) descubrieron una capacidad desconocida hasta ahora de un grupo de c\u00e9lulas del sistema inmunitario, llamadas c\u00e9lulas B at\u00edpicas (ABC), para \u2026 [+2046 chars]",
+      "retrievedAt": "2024-02-11 07:05:58.811630",
+      "internal_id": "7e4534ef8b29f3fd76c3915be43605988f7380d3b0c19a489e9512ea32052a42",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5287,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Simone Blanes",
+      "title": "Por que as crian\u00e7as e adolescentes s\u00e3o prioridade na vacina\u00e7\u00e3o da dengue?",
+      "description": "Maior risco de doen\u00e7a grave por segunda infec\u00e7\u00e3o, n\u00famero de hospitaliza\u00e7\u00f5es e efic\u00e1cia forma determinantes para a escolha da faixa et\u00e1ria",
+      "url": "https://veja.abril.com.br/saude/por-que-as-criancas-e-adolescentes-sao-prioridade-na-vacinacao-da-dengue",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2023/06/aedes_aegypti-dengue2.webp",
+      "publishedAt": "2024-02-09 19:59:57",
+      "content": "Assine VEJA por R$2,00/semanaContinua ap\u00f3s publicidade AEDES AEGYPTI: picada da f\u00eamea do mosquito transmite a dengue (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade Com o in\u00edcio da vacina\u00e7\u00e3o con\u2026 [+2767 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.869546",
+      "internal_id": "5552310e846638dbf077f488ae7e7ff7975a8eed9147f2d6454b5efa74685241",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5286,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "OMS manifesta preocupa\u00e7\u00e3o com a propaga\u00e7\u00e3o da dengue no Brasil",
+      "description": "Brasil \u00e9 o pa\u00eds da Am\u00e9rica Latina que mais preocupa devido \u00e0 circula\u00e7\u00e3o da dengue. Sintomas da doen\u00e7a incluem dores de cabe\u00e7a, n\u00e1useas, febre alta e comich\u00e3o, e a segunda infe\u00e7\u00e3o pode ser grave.",
+      "url": "https://observador.pt/2024/02/09/oms-manifesta-preocupacao-com-a-propagacao-da-dengue-no-brasil/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F02%2F09164736%2F42286511.jpg",
+      "publishedAt": "2024-02-09 19:22:51",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) manifestou esta sexta-feira grande preocupa\u00e7\u00e3o com os surtos de dengue no Brasil, que somou mais de 262 mil infe\u00e7\u00f5es desde o in\u00edcio do ano. Ao todo, os pa\u00edses da\u2026 [+2017 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.855703",
+      "internal_id": "7c0470a4ec31c02d5d800ded4aa93b9ff7c495910e98d1d5d1551c116538eb7b",
+      "publishedAtLabel": "Feb 9"
+    },
     {
       "id": 5262,
       "query": [
@@ -238,6 +508,24 @@
       "publishedAtLabel": "Feb 9"
     },
     {
+      "id": 5296,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Saiba quem n\u00e3o pode tomar a vacina da dengue no SUS",
+      "description": "A vacina\u00e7\u00e3o contra dengue come\u00e7ou nesta sexta-feira (9/2) para as crian\u00e7as de 10 e 11 anos. Pais devem ficar atentos a contraindica\u00e7\u00f5es",
+      "url": "https://www.metropoles.com/saude/quem-nao-pode-tomar-vacina-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09085224/vacincao-criancas-dengue5.jpg",
+      "publishedAt": "2024-02-09 14:25:57",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.991796",
+      "internal_id": "5b2198c59908be24149c6241d4dcd7eaab816e77856d34c5100041b687a23d4a",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
       "id": 5278,
       "query": [
         "malaria"
@@ -289,6 +577,24 @@
       "content": "A ministra da Sa\u00fade, N\u00edsia Trindade, acompanhou o in\u00edcio da vacina\u00e7\u00e3o de crian\u00e7as contra a dengue na UBS 1 do Cruzeiro, no Distrito Federal, na manh\u00e3 desta sexta-feira (9/2). Ela aproveitou a ocasi\u00e3o\u2026 [+2745 chars]",
       "retrievedAt": "2024-02-10 19:05:32.206113",
       "internal_id": "dff9a5fbc6d684def11cb9bc01ba3bf044d810aca2f181200e925daff42c087b",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5294,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Leonardo Amaro",
+      "title": "Dengue em SP: interna\u00e7\u00f5es aumentam 80% em hospitais particulares",
+      "description": "Hospitais particulares de S\u00e3o Paulo registraram aumento de 80% nas interna\u00e7\u00f5es por dengue de 29 de janeiro a 7 de fevereiro, mostra pesquisa",
+      "url": "https://www.metropoles.com/sao-paulo/dengue-em-sp-internacoes-aumentam-80-em-hospitais-particulares",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/05124706/Foto-mosquito-da-dengue-em-um-tubo.jpg",
+      "publishedAt": "2024-02-09 13:46:48",
+      "content": "S\u00e3o Paulo Hospitais particulares paulistas registraram aumento de 80% nas interna\u00e7\u00f5es por dengue, segundo pesquisa do Sindicato dos Hospitais, Cl\u00ednicas e Laborat\u00f3rios do Estado de S\u00e3o Paulo (SindHosp\u2026 [+7359 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.974609",
+      "internal_id": "d27f4e5bd7c8c916fffa79f4605761ab00d18953159d3b418c552e8c718445a6",
       "publishedAtLabel": "Feb 9"
     },
     {
@@ -382,6 +688,24 @@
       "publishedAtLabel": "Feb 9"
     },
     {
+      "id": 5291,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Sa\u00fade muda proje\u00e7\u00e3o e diz que pa\u00eds pode ter 4,2 milh\u00f5es de casos de dengue em 2024",
+      "description": "O n\u00famero diverge da estimativa dada no final de 2023, quando a secretaria afirmou que no pior cen\u00e1rio da dengue o pa\u00eds poderia chegar a 5 milh\u00f5es de casos",
+      "url": "https://jornaldebrasilia.com.br/noticias/saude/saude-muda-projecao-e-diz-que-pais-pode-ter-42-milhoes-de-casos-de-dengue-em-2024/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/11/19095054/mosquitos_aedes_aegypti_dengue.webp",
+      "publishedAt": "2024-02-09 11:07:30",
+      "content": "RAQUEL LOPESBRAS\u00cdLIA, DF (FOLHAPRESS) A Secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Ambiente do Minist\u00e9rio da Sa\u00fade, Ethel Maciel, revelou que h\u00e1 uma proje\u00e7\u00e3o de 4,2 milh\u00f5es de casos de dengue no pa\u00eds em 2\u2026 [+2699 chars]",
+      "retrievedAt": "2024-02-11 07:05:57.956869",
+      "internal_id": "a2503d938136c4ace10f6f7b28743b806b3329cac35fdea69d308262894616bd",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
       "id": 5264,
       "query": [
         "measles"
@@ -415,6 +739,24 @@
       "content": "Sunt 10 semne de alarm ce impun prezentarea de urgen la spital, mai ales c nediagnosticat i netratat la timp, malaria poate fi letal. P\u00e2n \u00een prezent, \u00een Rom\u00e2nia au fost confirmate 11 cazuri, dintre c\u2026 [+3352 chars]",
       "retrievedAt": "2024-02-10 19:05:32.886355",
       "internal_id": "842a7e4f4f464f4f68ce8ba1498c3014ebfc8ff5a0e19f1a9a41b02f9f7a7819",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 5301,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Tem filho de 10 ou 11 anos? Veja onde vacinar contra a dengue nesta 6\u00aa",
+      "description": "Vacina\u00e7\u00e3o contra a dengue ter\u00e1 como p\u00fablico-alvo crian\u00e7as de 10 e 11 anos. DF recebeu menos doses do que o esperado",
+      "url": "https://www.metropoles.com/distrito-federal/tem-filho-de-10-ou-11-anos-veja-onde-vacinar-contra-a-dengue-nesta-6a",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08161632/vacina-dengue-qdenga-3.jpeg",
+      "publishedAt": "2024-02-09 05:30:48",
+      "content": "A partir das 8h desta sexta-feira (9/2), ter\u00e1 in\u00edcio a vacina\u00e7\u00e3o contra a dengue no Distrito Federal. Devido ao recebimento de menos doses do que o previsto, a faixa et\u00e1ria do p\u00fablico-alvo ser\u00e1 de cr\u2026 [+2139 chars]",
+      "retrievedAt": "2024-02-11 07:05:58.025542",
+      "internal_id": "97f9294f07cdbcc711a3d09487f60fbb2b6586bb5df7d20d8d2d6c69de43eb80",
       "publishedAtLabel": "Feb 9"
     },
     {
@@ -543,6 +885,24 @@
       "content": "Dengue, zika e chikungunya s\u00e3o doen\u00e7as cujos nomes s\u00e3o conhecidos no Brasil. Os tr\u00eas v\u00edrus transmitidos pelo mesmo mosquito, o Aedes aegypti, t\u00eam maior incid\u00eancia no pa\u00eds em per\u00edodos de chuva e calor\u2026 [+2583 chars]",
       "retrievedAt": "2024-02-10 07:05:47.557754",
       "internal_id": "5b5eed9772a2bdde703e9b23fffd24f16cb458a6b2c6558d98921e503cbc223b",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 5297,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Quem teve dengue pode tomar vacina quando? Imuniza\u00e7\u00e3o come\u00e7a nesta 6\u00aa",
+      "description": "O DF come\u00e7ar\u00e1 a vacina\u00e7\u00e3o contra a dengue nesta 6\u00aa. As doses da vacina ser\u00e3o destinadas apenas a crian\u00e7as de 10 e 11 anos",
+      "url": "https://www.metropoles.com/distrito-federal/quem-teve-dengue-pode-tomar-vacina-quando-imunizacao-comeca-nesta-6a",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08161628/vacina-dengue-qdenga-2.jpeg",
+      "publishedAt": "2024-02-08 22:41:47",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-11 07:05:58.002547",
+      "internal_id": "1ba388781ac7e1abd6c748013b2b0d225cd3aec3b439faf99d436722f134a5fe",
       "publishedAtLabel": "Feb 8"
     },
     {
@@ -1830,6 +2190,24 @@
       "publishedAtLabel": "Feb 7"
     },
     {
+      "id": 5298,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Veja quem poder\u00e1 se vacinar contra a dengue na rede p\u00fablica do DF",
+      "description": "A Secretaria de Sa\u00fade do DF espera receber cerca de 194 mil doses da vacina contra a dengue ainda esta semana",
+      "url": "https://www.metropoles.com/distrito-federal/veja-quem-podera-se-vacinar-contra-a-dengue-na-rede-publica-do-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/10114555/Vacinacao-de-criancas-3-3.jpeg",
+      "publishedAt": "2024-02-07 16:53:00",
+      "content": "O Governo do Distrito Federal anunciou nesta quarta-feira (7/2) que espera receber cerca de 194 mil doses da vacina contra a dengue ainda esta semana. A expectativa \u00e9 que a vacina\u00e7\u00e3o tenha in\u00edcio na \u2026 [+1158 chars]",
+      "retrievedAt": "2024-02-11 07:05:58.009019",
+      "internal_id": "135d024ff63e3468b09e269edd62f21160a0e780442234b6e4c7c60d88aa94c3",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
       "id": 5181,
       "query": [
         "malaria"
@@ -1884,6 +2262,24 @@
       "publishedAtLabel": "Feb 7"
     },
     {
+      "id": 5300,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "OMS: surto de dengue no Brasil faz parte de aumento em escala global",
+      "description": "O diretor-geral da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS), Tedros Adhanom Ghebreyesus, afirmou, nesta quarta-feira (07), que o surto de...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/oms-surto-de-dengue-no-brasil-faz-parte-de-aumento-em-escala-global/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2020/03/Tedros-Adhanom-Ghebreyesus.jpg",
+      "publishedAt": "2024-02-07 15:24:02",
+      "content": "O diretor-geral da Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS), Tedros Adhanom Ghebreyesus, afirmou, nesta quarta-feira (07), que o surto de dengue registrado no Brasil faz parte de um grande aumento de casos\u2026 [+816 chars]",
+      "retrievedAt": "2024-02-11 07:05:58.017757",
+      "internal_id": "45a09b707443fa89483e20722137ed77bc766b5e276a80196d51d5cdbd9f0282",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
       "id": 5173,
       "query": [
         "dengue"
@@ -1917,6 +2313,24 @@
       "content": "New Delhi, People who have had zika may be at a higher risk of developing severe dengue and being hospitalised, according to a study that has implications in the development of a vaccine. Previous re\u2026 [+3264 chars]",
       "retrievedAt": "2024-02-08 19:05:31.711956",
       "internal_id": "9cc0600402490be90e64e139ed6c18b0eb377c0465c1385d08f78ce1fb562926",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 5299,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Brasil Econ\u00f4mico, Brasil Econ\u00f4mico",
+      "title": "Cidade do Rio tem primeira morte por dengue de 2024",
+      "description": "Paciente foi levada ao hospital na Mar\u00e9, mas n\u00e3o resistiu",
+      "url": "https://ultimosegundo.ig.com.br/brasil/rj/2024-02-07/dengue-morte-rio-de-janeiro.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ct/1u/6h/ct1u6hqriv1ebmxxhih69fwod.jpg",
+      "publishedAt": "2024-02-07 13:13:05",
+      "content": "O secret\u00e1rio municipal de Sa\u00fade, Daniel Soranz, informou nesta quarta-feira (7) \u00e0 R\u00e1dio CBN que o Rio de Janeiro registrou o primeiro caso de morte por dengue em 2024. O paciente faleceu ap\u00f3s receb\u2026 [+801 chars]",
+      "retrievedAt": "2024-02-11 07:05:58.013158",
+      "internal_id": "1efee8ff4d74974d3894b9c8ff7fd4641fa53eb219db05f82da35cdefc340605",
       "publishedAtLabel": "Feb 7"
     },
     {
@@ -22842,1543 +23256,6 @@
       "retrievedAt": "2024-01-01 19:05:22.272433",
       "internal_id": "73ad94b20c057ac3685a1a9a55d3a81445edc3d2809aa8e5f96664ff4cc03d7a",
       "publishedAtLabel": "Dec 31"
-    },
-    {
-      "id": 4011,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": "liberation",
-      "source_name": "Lib\u00e9ration",
-      "author": "Margaux Gable",
-      "title": "Un \u00e2ge d\u2019or pour les vaccins ? \u00abIl n\u2019y a pas de nouvelles d\u00e9couvertes, c\u2019est surtout l\u2019aboutissement d\u2019une recherche de longue haleine\u00bb",
-      "description": "Selon Jean-Daniel Leli\u00e8vre, immunologue et sp\u00e9cialiste de la vaccination, les recherches pour trouver des vaccins contre le Covid-19 ont permis de concr\u00e9tiser des ann\u00e9es de travail et ont b\u00e9n\u00e9fici\u00e9 \u00e0 la lutte contre d\u2019autres pathologies.",
-      "url": "https://www.liberation.fr/societe/sante/un-age-dor-pour-les-vaccins-il-ny-a-pas-de-nouvelles-decouvertes-cest-surtout-laboutissement-dune-recherche-de-longue-haleine-20231231_YFC2RDHVRZBA3G5ULXGLLRD6YE/",
-      "urlToImage": "https://www.liberation.fr/resizer/8wfGV14kC7Z5wsOpDDYbIvzt9co=/1200x630/filters:format(jpg):quality(70):focal(2090x1584:2100x1594)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/3YZVYMQWH5FRJBED6VDCPSMT54.jpg",
-      "publishedAt": "2023-12-31 06:25:00",
-      "content": "Un deuxi\u00e8me vaccin contre le paludisme, un contre le chikungunya, contre la dengue, contre la bronchiolite, sans compter les espoirs autour des vaccins th\u00e9rapeutiques, contre le cancer, notamment du \u2026 [+5485 chars]",
-      "retrievedAt": "2024-01-01 07:05:56.016391",
-      "internal_id": "df5471f8db524f10d62a195dc175e686aaa3f3d394a4e6c3f7e131d9cfac1765",
-      "publishedAtLabel": "Dec 31"
-    },
-    {
-      "id": 4012,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Bangkok Post",
-      "author": "Post Reporters",
-      "title": "Flu, dengue and Covid top 2023 infectious disease charts",
-      "description": "Infuenza, haemorrhagic dengue fever and Covid-19 have been the most widespread infectious diseases in Thailand this year, according to the Department of Disease Control.",
-      "url": "https://www.bangkokpost.com/thailand/general/2715761/flu-dengue-and-covid-top-2023-infectious-disease-charts",
-      "urlToImage": "https://static.bangkokpost.com/media/content/20231231/c1_2715761_700.jpg",
-      "publishedAt": "2023-12-31 05:59:00",
-      "content": "Infuenza, haemorrhagic dengue fever and Covid-19 have been the most widespread infectious diseases in Thailand this year, according to the Department of Disease Control. Dr Thongchai Keeratihattayak\u2026 [+1143 chars]",
-      "retrievedAt": "2024-01-01 07:05:56.033845",
-      "internal_id": "ab1dee00011b0f6a611a4ffb16dde41dd7d7c2d9702d242808ceb66cff6cc1a2",
-      "publishedAtLabel": "Dec 31"
-    },
-    {
-      "id": 4013,
-      "query": [
-        "dengue",
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Eluniversal.com.co",
-      "author": "MAYRA MEJ\u00cdA AGUILAR",
-      "title": "Conoce las enfermedades que golpearon a Cartagena en 2023",
-      "description": "Hubo dos eventos que captaron la atenci\u00f3n del Departamento Administrativo Distrital de Salud (Dadis) y marcaron el 2023 como un a\u00f1o de desaf\u00edos en salud p\u00fablica: el dengue y la leptospirosis.",
-      "url": "https://www.eluniversal.com.co/cartagena/conoce-las-enfermedades-que-golpearon-a-cartagena-en-2023-KM9718851",
-      "urlToImage": "https://www.eluniversal.com.co/binrepository/1218x686/209c0/800d686/none/13704/FTEC/leptospirosis_9252159_20231230155922.png",
-      "publishedAt": "2023-12-30 20:46:39",
-      "content": "El Dadis tambi\u00e9n dio a conocer las 10 primeras causas de morbilidad atendida en Cartagena por subgrupos estas son: enfermedades cardiovasculares, genitourinarias, musculo-esquel\u00e9ticas, condiciones ne\u2026 [+609 chars]",
-      "retrievedAt": "2024-01-01 07:05:56.048572",
-      "internal_id": "0d164468da053faaffeab176130fbe67f251e46890d95ca51bc99671af58fcb5",
-      "publishedAtLabel": "Dec 30"
-    },
-    {
-      "id": 4009,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "The BMJ",
-      "author": "Snoek, L., van Kassel, M. N., Koelman, D. L. H., van der Ende, A., van Sorge, N. M., Brouwer, M. C., van de Beek, D., Bijlsma, M. W.",
-      "title": "Recurrent bacterial meningitis in children in the Netherlands: a nationwide surveillance study",
-      "description": "Objectives This study aimed to estimate the recurrence rate of culture-positive bacterial meningitis in children in the Netherlands. Design Nationwide surveillance study, using the database of the Netherlands Reference Laboratory for Bacterial Meningitis to \u2026",
-      "url": "https://bmjopen.bmj.com/content/13/12/e077887?rss=1",
-      "urlToImage": "https://bmjopen.bmj.com/pages/wp-content/uploads/sites/7/2019/07/bmjopen-default-cover.png",
-      "publishedAt": "2023-12-30 12:21:58",
-      "content": "Introduction Bacterial meningitis is a life-threatening infection with substantial mortality and morbidity.1 2 Causative pathogens vary by age, geographic location and seasonality.3 The introduction\u2026 [+21263 chars]",
-      "retrievedAt": "2023-12-31 19:05:18.037677",
-      "internal_id": "84d1256c3b8d24c688200f03b3418bd9dfcd7665ced828498d17b689e0b720ea",
-      "publishedAtLabel": "Dec 30"
-    },
-    {
-      "id": 4010,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.bt.dk",
-      "author": "jogj@bt.dk (Josefine Glerup Jacobsen)",
-      "title": "PL-spiller ude p\u00e5 ubestemt tid: Smittet med malaria",
-      "description": "20. november i \u00e5r er sidste gang Hamed Traor\u00e9 spillede en fodboldkamp.",
-      "url": "https://www.bt.dk/fodbold/pl-spiller-ude-paa-ubestemt-tid-smittet-med-malaria",
-      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/210/2106516/24604041-february-4-2023-brighton-and-hove-brighton-and.jpg",
-      "publishedAt": "2023-12-30 10:24:25",
-      "content": "20. november i \u00e5r er sidste gang Hamed Traor\u00e9 spillede en fodboldkamp. Og \u00e5rsagen er ganske us\u00e6dvanlig. Den 23-\u00e5rige Bournemouth-spiller har nemlig v\u00e6ret indlagt p\u00e5 hospitalet, da han er blevet smi\u2026 [+746 chars]",
-      "retrievedAt": "2023-12-31 19:05:18.490678",
-      "internal_id": "1e416990fbe35f1fedd310800fb9205f39fc211fad2121c90950219ce633d02e",
-      "publishedAtLabel": "Dec 30"
-    },
-    {
-      "id": 4008,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Futilitycloset.com",
-      "author": "Greg Ross",
-      "title": "Bad News",
-      "description": "In Three Men in a Boat (1889), the narrator reads a medical textbook and is stricken with the certainty that he has every condition described there: I came to typhoid fever \u2014 read the symptoms \u2014 discovered that I had typhoid fever, must have had it for months\u2026",
-      "url": "https://www.futilitycloset.com/2023/12/30/bad-news-2/",
-      "urlToImage": "https://www.futilitycloset.com/wp-content/uploads/2023/12/2023-12-30-bad-news.jpg",
-      "publishedAt": "2023-12-30 06:18:16",
-      "content": "In Three Men in a Boat (1889), the narrator reads a medical textbook and is stricken with the certainty that he has every condition described there: I came to typhoid fever \u2014 read the symptoms \u2014 dis\u2026 [+1831 chars]",
-      "retrievedAt": "2023-12-31 07:05:45.077272",
-      "internal_id": "2bca12599d16f574613270da30a922a4d74ea35ac011faa764973c43b116e82d",
-      "publishedAtLabel": "Dec 30"
-    },
-    {
-      "id": 4007,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "Bournemouth's Traore sidelined after contracting malaria",
-      "description": "Bournemouth's Ivory Coast midfielder Hamed Traore will be out for a long spell after being treated in hospital for malaria following last month's international break, the Premier League club's manager Andoni Iraola said on Friday.The 23-year-old was not inclu\u2026",
-      "url": "https://www.channelnewsasia.com/sport/bournemouths-traore-sidelined-after-contracting-malaria-4017151",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--1ukWw9np--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-12-29t223045z_1_lynxmpejbs0gk_rtroptp_3_soccer-england-bou.jpg?itok=1vKPJbvC",
-      "publishedAt": "2023-12-29 22:30:45",
-      "content": "Bournemouth's Ivory Coast midfielder Hamed Traore will be out for a long spell after being treated in hospital for malaria following last month's international break, the Premier League club's manage\u2026 [+875 chars]",
-      "retrievedAt": "2023-12-31 07:05:43.732657",
-      "internal_id": "c2c50a8baeb5089d497aa8ac6f2b176e1719e4db352a35c17bc07b2b6bf43e30",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 4004,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Corriere.it",
-      "author": "Redazione Sport",
-      "title": "Hamed Traore ha la malaria. L\u2019annuncio del Bournemouth",
-      "description": "Il centrocampista della Costa d\u2019Avorio, 23 anni, ex di Empoli e Sassuolo, ha contratto la malaria durante un viaggio in Africa. Dopo un periodo in ospedale sta continuando le cure a casa",
-      "url": "https://www.corriere.it/sport/calcio/23_dicembre_29/hamed-traore-ha-malaria-l-annuncio-bournemouth-4e097b74-a677-11ee-b8ba-551c5675ed48.shtml",
-      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/12/29/a3e6fade-a678-11ee-b8ba-551c5675ed48.jpg",
-      "publishedAt": "2023-12-29 18:40:55",
-      "content": "di Redazione SportIl centrocampista della Costa d\u2019Avorio, 23 anni, ex di Empoli e Sassuolo, ha contratto la malaria durante un viaggio in Africa. Dopo un periodo in ospedale sta continuando le cure a\u2026 [+1508 chars]",
-      "retrievedAt": "2023-12-30 19:05:26.086254",
-      "internal_id": "3513307caf1fb76247fb18045e27058bd7365cf9bf91459370279ab279725e79",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 4006,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Aftonbladet.se",
-      "author": "Andreas K\u00e4ck",
-      "title": "PL-mittf\u00e4ltaren har inte spelat p\u00e5 veckor \u2013 f\u00e5tt malaria",
-      "description": "Bournemouths Hamed Traor\u00e8 har inte spelat p\u00e5 veckor. Nu avsl\u00f6jas varf\u00f6r. \u2013 Han har f\u00e5tt malaria, s\u00e4ger managern Andoni Iraola.",
-      "url": "https://www.aftonbladet.se/sportbladet/fotboll/a/dwV6Jq/bournemouths-hamed-traore-har-fatt-malaria",
-      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/13af3f86-3710-4229-b860-c60909dca4d0?fit=crop&format=auto&h=994&q=50&w=1900&s=ec1f8734ee4cf17b252e1cbfe4b291fcaea3c66d",
-      "publishedAt": "2023-12-29 17:06:19",
-      "content": "Bournemouths Hamed Traor\u00e8 har inte spelat p\u00e5 veckor. Nu avsl\u00f6jas varf\u00f6r. Han har f\u00e5tt malaria, s\u00e4ger managern Andoni Iraola. Den 23-\u00e5rige mittf\u00e4ltaren smittades av den allvarliga sjukdomen i mitt\u2026 [+855 chars]",
-      "retrievedAt": "2023-12-30 19:05:26.094072",
-      "internal_id": "ddf5f11ca1e7507f6b58dbd676e2afaa28b94d1f49740285601706c6eb3485ce",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 4001,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Mundodeportivo.com",
-      "author": "Autor Redacci\u00f3n",
-      "title": "Iraola confirma una baja para la Copa de \u00c1frica por malaria",
-      "description": "El centrocampista del Bournemouth Hamed Traor\u00e9 fue hospitalizado tras contraer malaria y se perder\u00e1 la Copa de \u00c1frica con su selecci\u00f3n, Costa de Marfil, anfitriona del torneo. As\u00ed lo anunci\u00f3 este viernes Andoni Iraola, entrenador del Bournemouth, 12\u00ba en la ta\u2026",
-      "url": "https://www.mundodeportivo.com/futbol/copa-africa/20231229/1002161368/traore.html",
-      "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2023/12/29/658efa348fc2c.r_d.357-193-17647.jpeg",
-      "publishedAt": "2023-12-29 16:59:27",
-      "content": "El centrocampista del Bournemouth Hamed Traor\u00e9 fue hospitalizado tras contraer malaria y se perder\u00e1 la Copa de \u00c1frica con su selecci\u00f3n, Costa de Marfil, anfitriona del torneo. As\u00ed lo anunci\u00f3 este vie\u2026 [+1150 chars]",
-      "retrievedAt": "2023-12-30 19:05:26.070299",
-      "internal_id": "baf44132354c128bcba26424d93a438c814ee7ec0864284f94fa49bd716899ba",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 4003,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "football-italia",
-      "source_name": "Football Italia",
-      "author": "Susy Campanale",
-      "title": "Ex-Sassuolo midfielder Traore contracts malaria",
-      "description": "Former Sassuolo midfielder Junior Hamed Traore, linked with a move to Lazio, will be out of action \u2018for some time\u2019 after he contracted malaria, confirmed",
-      "url": "https://football-italia.net/ex-sassuolo-midfielder-traore-contracts-malaria/",
-      "urlToImage": "https://icdn.football-italia.net/wp-content/uploads/2023/12/11327421-e1703703607887.jpg",
-      "publishedAt": "2023-12-29 16:37:21",
-      "content": "Former Sassuolo midfielder Junior Hamed Traore, linked with a move to Lazio, will be out of action for some time after he contracted malaria, confirmed Bournemouth manager Andoni Iraola. The brother\u2026 [+788 chars]",
-      "retrievedAt": "2023-12-30 19:05:26.080848",
-      "internal_id": "439e71aa89facc6fd9b3527304f3b0b4b4d9da96d186fddd5ac56aae5298a792",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 4005,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "news24",
-      "source_name": "News24",
-      "author": "sport",
-      "title": "Sport | Bournemouth midfielder Traore contracts malaria, out of Ivory Coast's Afcon campaign",
-      "description": "Bournemouth's Ivory Coast midfielder Hamad Traore will miss the Africa Cup of Nations and faces a lengthy spell out of action after being hospitalised with malaria.",
-      "url": "https://www.news24.com/sport/soccer/englishpremiership/bournemouth-midfielder-traore-contracts-malaria-out-of-ivory-coasts-afcon-campaign-20231229",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10768/e6631f636b464673a1f6602228e4bbbe.jpg",
-      "publishedAt": "2023-12-29 15:41:45",
-      "content": "Bournemouth's Hamed Traore has contracted malaria and will be sidelined for a few months.It means he will also miss Ivory Coast's Africa Cup of Nations campaign.It's unsure \u2026 [+1966 chars]",
-      "retrievedAt": "2023-12-30 19:05:26.089228",
-      "internal_id": "d048f83198ae48aa8ee170b48a8db99b07c6f8ebef717f42f2388e167f7c3e82",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 4000,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": null,
-      "title": "Bournemouth's Traore recovering from malaria",
-      "description": "Bournemouth midfielder Hamed Traore will be out for \"some time\" after contracting malaria, says manager Andoni Iraola.",
-      "url": "https://www.bbc.co.uk/sport/football/67842962",
-      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1224D/production/_132171347_gettyimages-1648190863.jpg",
-      "publishedAt": "2023-12-29 15:30:20",
-      "content": "Traore has not been part of a Bournemouth squad since 3 December, missing their last four league matches Bournemouth midfielder Hamed Traore will be out for \"some time\" after contracting malaria, sa\u2026 [+995 chars]",
-      "retrievedAt": "2023-12-30 19:05:26.060834",
-      "internal_id": "4b85e104f6f1f8c553af5b649cfd1c2ac360f2f5c9b8ec4d6277611b630c9666",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 4002,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Tuttomercatoweb.com",
-      "author": null,
-      "title": "Bournemouth, tegola Traor\u00e9: l'ex Sassuolo \u00e8 ricoverato in ospedale per malaria",
-      "description": "Assenza per il Bournemouth che pu\u00f2 anche interessare il Milan. Il tecnico dei Cherries ha dichiarato in conferenza stampa che il centrocampista.",
-      "url": "https://www.tuttomercatoweb.com/calcio-estero/bournemouth-tegola-traore-l-ex-sassuolo-e-ricoverato-in-ospedale-per-malaria-1917044",
-      "urlToImage": "https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/72/72a2d32781cbc12f219fe632ac0cd6d0-55845-oooz0000.jpeg",
-      "publishedAt": "2023-12-29 14:36:00",
-      "content": "Assenza per il Bournemouth che pu\u00f2 anche interessare il Milan. Il tecnico dei Cherries ha dichiarato in conferenza stampa che il centrocampista Hamed Traor\u00e9, nel mirino della formazione rossonera, \u00e8 \u2026 [+613 chars]",
-      "retrievedAt": "2023-12-30 19:05:26.075314",
-      "internal_id": "e270f9648cf4575d70c5318afc7c26cc483a32493ea80013defd931f0ef94877",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 3997,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Tamires Ferreira",
-      "title": "Brasil bate recorde de mortes por dengue em 2023",
-      "description": "Pa\u00eds registrou crescimento relativamente pequeno em rela\u00e7\u00e3o a 2022 \u2014 mas escalada preocupa O post Brasil bate recorde de mortes por dengue em 2023 apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/12/29/medicina-e-saude/brasil-bate-recorde-de-mortes-por-dengue-em-2023/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/12/Dengue-695x500.jpg",
-      "publishedAt": "2023-12-29 13:00:00",
-      "content": "De acordo com dados divulgados pelo Minist\u00c3\u00a9rio da Sa\u00c3\u00bade, por meio do Sistema de Informa\u00c3\u00a7\u00c3\u00a3o de Agravos de Notifica\u00c3\u00a7\u00c3\u00a3o (Sinan online), o Brasil bateu recorde de mortes por dengue em 2023. Conform\u2026 [+2118 chars]",
-      "retrievedAt": "2023-12-30 19:05:24.881237",
-      "internal_id": "b4ac54927a9201d3e2c49dd345e66376ffbd688efe5b0a7922e753119b59691a",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 3998,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Jessica Bernardo",
-      "title": "Capital paulista tem aumento de 13,91% nos casos de dengue em um ano",
-      "description": "Entre os dias 1\u00ba de janeiro e 21 de dezembro deste ano foram 13.509 casos confirmados da doen\u00e7a, contra 11.859 no mesmo per\u00edodo de 2022",
-      "url": "https://www.metropoles.com/sao-paulo/capital-paulista-tem-aumento-de-1391-nos-casos-de-dengue-em-um-ano",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/11/22104941/Dengue_Casos_DF.jpg",
-      "publishedAt": "2023-12-29 11:51:21",
-      "content": "S\u00e3o Paulo A cidade de S\u00e3o Paulo vai fechar o ano de 2023 com aumento no n\u00famero de casos de dengue em rela\u00e7\u00e3o a 2022. Entre os dias 1\u00ba de janeiro e 21 de dezembro deste ano foram 13.509 casos confirma\u2026 [+3329 chars]",
-      "retrievedAt": "2023-12-30 19:05:24.901322",
-      "internal_id": "4062531c74660114a8e7e7a545250ed13b8b67db9e929495a47c2e197876f18d",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 3999,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Sri Lanka witnesses rise in dengue cases with over 10,000 reported in December",
-      "description": "COLOMBO, Dec. 29 (Xinhua) -- Sri Lanka is witnessing a surge in dengue cases with over 10,000 cases",
-      "url": "http://en.people.cn/n3/2023/1229/c90000-20116647.html",
-      "urlToImage": null,
-      "publishedAt": "2023-12-29 08:09:01",
-      "content": "(Xinhua) 16:07, December 29, 2023 COLOMBO, Dec. 29 (Xinhua) -- Sri Lanka is witnessing a surge in dengue cases with over 10,000 cases reported in December alone, the National Dengue Control Unit (ND\u2026 [+613 chars]",
-      "retrievedAt": "2023-12-30 19:05:24.937036",
-      "internal_id": "b43a183e3ba4f47c666eac9c11a6a184716d56c9c1c328e257ec2d1206e9c096",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 3993,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Dengue claims more than 1,700 lives in Bangladesh this year",
-      "description": "DHAKA, Dec. 28 (Xinhua) -- The mosquito-borne dengue fever has claimed more than 1,700 lives and inf",
-      "url": "http://en.people.cn/n3/2023/1229/c90000-20116491.html",
-      "urlToImage": null,
-      "publishedAt": "2023-12-29 05:55:29",
-      "content": "(Xinhua) 13:47, December 29, 2023 DHAKA, Dec. 28 (Xinhua) -- The mosquito-borne dengue fever has claimed more than 1,700 lives and infected over 300,000 people so far this year across Bangladesh. A\u2026 [+500 chars]",
-      "retrievedAt": "2023-12-30 07:05:40.061289",
-      "internal_id": "52bd4627a2a8d054e96951da415e4f3f74fd903b2532ba07c4e935a78dac3459",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 3991,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "'I am also the victim of the mosquito': Woman fined for mosquito breeding in toilet bowl after losing trial",
-      "description": "When NEA officers visited her flat in the dengue cluster, Koh Ee Sian said she did not kill animals due to her religious beliefs and the officers had to boil water themselves to destroy the habitat.",
-      "url": "https://www.channelnewsasia.com/singapore/woman-fined-mosquito-breeding-toilet-bowl-national-environment-agency-4015856",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--J_7mF30X--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/12/29/istock-182188655.jpg?itok=-98yoMjj",
-      "publishedAt": "2023-12-29 04:07:00",
-      "content": "SINGAPORE: A woman who claimed trial to a charge of creating conditions favourable to mosquito breeding in her toilet bowl was convicted and fined S$1,400 (US$1,060) by a district court. When Nation\u2026 [+5753 chars]",
-      "retrievedAt": "2023-12-30 07:05:40.015543",
-      "internal_id": "249d9cc151561140d738aee1f52da3e0fc862413e2e31e4df35e396de032d681",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 3989,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "ActionNewsJax.com",
-      "author": "Actionnewsjax.com News Staff",
-      "title": "Department of Health issues rabies alert for Town Center/UNF area in Jacksonville",
-      "description": "Department of Health issues rabies alert for Town Center/UNF area in Jacksonvilleactionnewsjax.com",
-      "url": "https://www.actionnewsjax.com/news/local/department-health-issues-rabies-alert-town-centerunf-area-jacksonville/YVRR64CXNNDNZKXBUHRMYS4ZD4/",
-      "urlToImage": "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/TF8uxvVcs_VfWPZPGq5AgNh7rbE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/NWRLYQQIKVFZTDIDMBPGU2ZGHE.jpeg",
-      "publishedAt": "2023-12-29 03:09:40",
-      "content": "JACKSONVILLE, Fla. \u2014 A rabies alert has been issued for Duval County. &gt;&gt;&gt; STREAM ACTION NEWS JAX LIVE &lt;&lt;&lt; The Florida Department of Health issued the alert for the Town Center/UN\u2026 [+2890 chars]",
-      "retrievedAt": "2023-12-30 07:05:38.927484",
-      "internal_id": "da2c9ea054ceb6cd9d547230bc2319f121c93bf1be7484b78e58c7f4c3e4db02",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 3996,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Rpnradio.com",
-      "author": "RPN Social",
-      "title": "Bacolod City logs 16 leptospirosis deaths",
-      "description": "Bacolod City \u2013 Cases of leptospirosis in Bacolod City rose by 100 percent from January to December 16 this year, with 16 deaths recorded in the period, according to reports of the City Health Office. It recorded 44 cases with 11 deaths in previous the year, c\u2026",
-      "url": "https://rpnradio.com/bacolod-city-logs-16-leptospirosis-deaths/",
-      "urlToImage": "https://rpnradio.com/wp-content/uploads/2023/12/leptospirosis-bacolod.jpg",
-      "publishedAt": "2023-12-29 00:41:25",
-      "content": "Bacolod City \u2013 Cases of leptospirosis in Bacolod City rose by 100 percent from January to December 16 this year, with 16 deaths recorded in the period, according to reports of the City Health Office.\u2026 [+988 chars]",
-      "retrievedAt": "2023-12-30 07:05:43.751090",
-      "internal_id": "2b2742b265115f9f20ad4f4d8af50c8819ce47c18dd42b36162f35d0a21996fb",
-      "publishedAtLabel": "Dec 29"
-    },
-    {
-      "id": 3990,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "WJXT News4JAX",
-      "author": "Kendra Mazeke",
-      "title": "Rabid cat triggers health alert for Town Center/UNF area",
-      "description": "The Florida Department of Health in Duval County issued a rabies alert Thursday, following the discovery of a rabid cat in the Town Center and UNF area of Jacksonville\u2019s Southside.",
-      "url": "https://www.news4jax.com/news/local/2023/12/28/rabid-cat-triggers-health-alert-for-town-centerunf-area/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/12-29-2023/t_edc06346fe624f7db6d89055fec1f127_name_image.jpg?_a=ATAPphC0",
-      "publishedAt": "2023-12-28 23:16:30",
-      "content": "JACKSONVILLE, Fla. The Florida Department of Health in Duval County issued a rabies alert Thursday, following the discovery of a rabid cat in the Town Center and UNF area of Jacksonvilles Southside. \u2026 [+2789 chars]",
-      "retrievedAt": "2023-12-30 07:05:38.939047",
-      "internal_id": "18546ff667f6d8991b0ea9396f76b46c7acf9efdbdcc726c069384555f1c981f",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3992,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Rio tem tend\u00eancia de aumento da transmiss\u00e3o da dengue",
-      "description": "A Regi\u00e3o Metropolitana I concentra o maior n\u00famero de casos \u2013 87% deles na cidade do Rio de Janeiro \u2013, quantidade acima do limite m\u00e1ximo esperado e importante atraso nas notifica\u00e7\u00f5es",
-      "url": "https://valor.globo.com/brasil/noticia/2023/12/28/rio-tem-tendncia-de-aumento-da-transmisso-da-dengue.ghtml",
-      "urlToImage": "https://s2-valor.glbimg.com/bEQ2snw7r87LZvdm4QuhbkNzD3Q=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/p/t/EbxdgKRbWBXnRA3oM9rg/aedesebc.jpg",
-      "publishedAt": "2023-12-28 23:07:42",
-      "content": "Levantamento da Secretaria de Estado de Sa\u00fade aponta tend\u00eancia de aumento da transmiss\u00e3o da dengue no Rio de Janeiro. Divulgada nesta quinta-feira (28), a segunda edi\u00e7\u00e3o do Boletim Panorama da Dengue\u2026 [+3671 chars]",
-      "retrievedAt": "2023-12-30 07:05:40.050500",
-      "internal_id": "5d29b3095a7db12154619df76af66a19fb8e6ff7cfd030a3b1d619658a82632e",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3995,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "webdesk@voanews.com (Associated Press)",
-      "title": "Stigma Against Gay Men Could Worsen Congo's Biggest Mpox Outbreak, Scientists Warn",
-      "description": "Kinshasa, Congo \u2014 As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Health Organization reported that mpox, also known as monkeypox, was \u2026",
-      "url": "https://www.voanews.com/a/stigma-against-gay-men-could-worsen-congo-s-biggest-mpox-outbreak-scientists-warn-/7416483.html",
-      "urlToImage": "https://gdb.voanews.com/34D6267C-833F-4640-B557-D9A789990478.jpg",
-      "publishedAt": "2023-12-28 22:55:20",
-      "content": "Kinshasa, Congo As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Health Org\u2026 [+4281 chars]",
-      "retrievedAt": "2023-12-30 07:05:42.822344",
-      "internal_id": "ff73bf7bd2ec915727a5d34beb46ed58fe4639078ea9f176e63cb386b34d6b8e",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3994,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Euronews",
-      "author": "Towleroad",
-      "title": "Stigma against gay men could worsen Congo\u2019s biggest mpox outbreak, scientists warn",
-      "description": "Published by Euronews (English) Mpox, also known as monkeypox, was first reported by the World Health Organization (WHO) as spreading via sex in Congo in November. That is a significant departure from previous flare-ups, where the virus mainly sickened people\u2026",
-      "url": "https://www.euronews.com/next/2023/12/28/stigma-against-gay-men-could-worsen-congos-biggest-mpox-outbreak-scientists-warn?utm_source=nordot&utm_campaign=feeds_allthemes&utm_medium=referral",
-      "urlToImage": "https://www.towleroad.com/wp-content/uploads/2023/12/691287-origin_1.jpg",
-      "publishedAt": "2023-12-28 20:24:47",
-      "content": "Published by Euronews (English) Mpox, also known as monkeypox, was first reported by the World Health Organization (WHO) as spreading via sex in Congo in November. That is a significant departure fr\u2026 [+444 chars]",
-      "retrievedAt": "2023-12-30 07:05:42.818764",
-      "internal_id": "221be0d3f388cae6eee7727c77d40077d42a7871aa9447615e71aa066bd8aced",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3988,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "PBS",
-      "author": "Jean-Yves Kamale, Associated Press, Maria Cheng, Associated Press",
-      "title": "Stigma against gay and bisexual men could worsen Congo's largest mpox outbreak, experts warn",
-      "description": "Last month, U.N. officials confirmed that a more severe form of mpox was spreading via sex for the first time in Congo.",
-      "url": "https://www.pbs.org/newshour/world/stigma-against-gay-and-bisexual-men-could-worsen-congos-largest-mpox-outbreak-experts-warn",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/12/2023-12-04T182433Z_1822670037_RC2K0W9V91ZG_RTRMADP_3_HEALTH-MPOX-1024x683.jpg",
-      "publishedAt": "2023-12-28 16:40:45",
-      "content": "KINSHASA, Congo (AP) As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Health\u2026 [+5396 chars]",
-      "retrievedAt": "2023-12-29 19:05:24.648356",
-      "internal_id": "6741f70b0514447561400c3ca8cb4a0af600712067af0368c7c5f85aefc2bd1c",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3983,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Montevideo.com.uy",
-      "author": "Montevideo Portal",
-      "title": "La OMS toma medidas para que la nueva vacuna contra la malaria sea m\u00e1s accesible",
-      "description": "Cada a\u00f1o, la enfermedad afecta a cerca de 250 millones de pacientes en todo el mundo y causa m\u00e1s de 600.000 muertes.",
-      "url": "https://www.montevideo.com.uy/Salud/La-OMS-toma-medidas-para-que-la-nueva-vacuna-contra-la-malaria-sea-mas-accesible-uc875186",
-      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202201/_W933_80/788251.jpg",
-      "publishedAt": "2023-12-28 16:05:00",
-      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) anunci\u00f3 medidas para hacer m\u00e1s accesible la vacuna R21 contra la malaria dos meses despu\u00e9s de recomendar su uso, con el fin de frenar una enfermedad que c\u2026 [+1261 chars]",
-      "retrievedAt": "2023-12-29 19:05:23.379475",
-      "internal_id": "faa6ff0388db583361d974966e0788554d36c910be44f2d34528341006396ea9",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3985,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "TheGrio",
-      "author": "Associated Press",
-      "title": "Stigma against gay men could worsen Congo\u2019s biggest mpox outbreak, scientists warn",
-      "description": "In November, the World Health Organization reported that mpox, also known as monkeypox, was being spread via sex in Congo for the [\u2026] The post Stigma against gay men could worsen Congo\u2019s biggest mpox outbreak, scientists warn appeared first on TheGrio.",
-      "url": "http://thegrio.com/2023/12/28/stigma-against-gay-men-could-worsen-congos-biggest-mpox-outbreak-scientists-warn/",
-      "urlToImage": "https://thegrio.com/wp-content/uploads/2023/12/AP23355632605192.jpg",
-      "publishedAt": "2023-12-28 16:00:06",
-      "content": "KINSHASA, Congo (AP) As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Health\u2026 [+5304 chars]",
-      "retrievedAt": "2023-12-29 19:05:24.620403",
-      "internal_id": "88f9e8cdcf0a02b07a05fe0db5e8afaac1e1250416abc15dfdb3a428f304581e",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3984,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "S\u00fcddeutsche Zeitung",
-      "author": "Von SZ-Autorinnen und -Autoren",
-      "title": "Jahresr\u00fcckblick: 23 gute Nachrichten aus 2023",
-      "description": "K\u00fcnstliche Intelligenz, die Krebs vorhersagt, eine Impfung gegen Malaria und der Fenstersturz von Turin - es war nicht alles schlecht in diesem Jahr.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/gesellschaft/2023-nachrichten-das-war-2023-ereignisse-jahresrueckblick-e062974/",
-      "urlToImage": "https://www.sueddeutsche.de/projekte/artikel/gesellschaft/2023-nachrichten-das-war-2023-ereignisse-jahresrueckblick-e062974/1b578e63cfe063d62caf59e8502591479b52b6d496d55c58ec608874b1c30b41_w2400_h1256_r38,0,1920,1005_oszplus_q70.png",
-      "publishedAt": "2023-12-28 15:41:37",
-      "content": "KI gegen Bauchspeicheldr\u00fcsenkrebs K\u00fcnstliche Intelligenz ist so faszinierend wie furchteinfl\u00f6\u00dfend, sie kann aber auch Leben retten. Ein Forschungsteam der Harvard Medical School und der Universit\u00e4t\u2026 [+345 chars]",
-      "retrievedAt": "2023-12-29 19:05:23.389486",
-      "internal_id": "befaf85955b7758bccba3f61d348f76ccd50e0547c07dd5bf0afd95a70e4f700",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3981,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Alma Preta",
-      "title": "Mortes por dengue batem recorde pelo 2\u00ba ano consecutivo no Brasil",
-      "description": "Minist\u00e9rio da Sa\u00fade incentiva empenho da sociedade para evitar a \u00e1gua parada, foco dos mosquitos O post Mortes por dengue batem recorde pelo 2\u00ba ano consecutivo no Brasil apareceu primeiro em AlmaPreta.",
-      "url": "https://www.terra.com.br/nos/mortes-por-dengue-batem-recorde-pelo-2-ano-consecutivo-no-brasil,81c2b98f33af7c68f60ed98eb3a8ef380i0rm6x6.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/28/1984367713-foto-site-17.jpg",
-      "publishedAt": "2023-12-28 15:24:13",
-      "content": "Dados divulgados pelo Minist\u00e9rio da Sa\u00fade revelam que o Brasil bateu o recorde de mortes por dengue pelo segundo ano consecutivo. Somente em 2023, foram contabilizadas 1.079 mortes pela doen\u00e7a at\u00e9 es\u2026 [+2580 chars]",
-      "retrievedAt": "2023-12-29 19:05:22.297564",
-      "internal_id": "0b53991db401fc6c514f250cc72e1e0d58182ce7fb864a34111d52d1b2ee1cd6",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3987,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "The Associated Press",
-      "title": "Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn",
-      "description": "As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse.",
-      "url": "https://www.nbcnews.com/nbc-out/out-health-and-wellness/stigma-gay-men-worsen-congos-biggest-mpox-outbreak-scientists-warn-rcna131438",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-12/231228-monkeypox-al-1002-dbd36c.jpg",
-      "publishedAt": "2023-12-28 15:11:26",
-      "content": "KINSHASA, Congo As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Health Orga\u2026 [+5002 chars]",
-      "retrievedAt": "2023-12-29 19:05:24.643214",
-      "internal_id": "e180ae9e0f6af141002b27adcb8bc2b4e1770244cb00c28b62a4ff8e3760b918",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3980,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Canaltech, Canaltech",
-      "title": "Os 10 maiores destaques da ci\u00eancia em 2023",
-      "description": "Vacina contra a dengue e tratamento para obesidade s\u00e3o alguns dos grandes destaques da ci\u00eancia em 2023, que ajudaram a solucionar problemas da humanidade",
-      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2023-12-28/os-10-maiores-destaques-da-ciencia-em-2023.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/9o/da/1a/9oda1anl6w6nagyy4wz12x4ic.jpg",
-      "publishedAt": "2023-12-28 14:05:05",
-      "content": "A cada ano, as descobertas cient\u00edficas ajudam a humanidade a atingir maiores esclarecimentos acerca de determinados mist\u00e9rio e at\u00e9 mesmo a resolver problemas do cotidiano. O ano de 2022 trouxe divers\u2026 [+4566 chars]",
-      "retrievedAt": "2023-12-29 19:05:22.285873",
-      "internal_id": "ed18b8f7b07681a9cc943e81ac1503e92bb72cdee5f59c1da8aa14f6608cd77a",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3982,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Nicola Mulberry, Alexander R. Rutherford, Caroline Colijn",
-      "title": "Pneumococcal population dynamics: Investigating vaccine-induced changes through multiscale modelling",
-      "description": "Author summary Streptococcus pneumoniae is a pathogen of major public health concern globally. Pneumococcal strains exhibit diversity in their capsular serotype, metabolic profiles, and properties of antibiotic resistance (among other traits). Pneumococcal co\u2026",
-      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011755",
-      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1011755.g009&size=inline",
-      "publishedAt": "2023-12-28 14:00:00",
-      "content": "1 Introduction Streptococcus pneumoniae (the pneumococcus) is a leading cause of pneumonia, meningitis and sepsis globally, and hence a significant human pathogen. The first pneumococcal conjugate v\u2026 [+35628 chars]",
-      "retrievedAt": "2023-12-29 19:05:22.765145",
-      "internal_id": "d659595796fd27f5aa8dfaaa433718b94f8c175cdfd3102ea6ff24636c455553",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3986,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "S\u00fcddeutsche Zeitung",
-      "author": "Von Sina Metz",
-      "title": "Infektionskrankheiten: WHO warnt vor weltweiter Ausbreitung der \"Affenpocken\"",
-      "description": "Der gr\u00f6\u00dfte bisher dokumentierte Ausbruch der \"Affenpocken\" im Kongo stellt auch ein Risiko f\u00fcr die \u00f6ffentliche Gesundheit weltweit dar.",
-      "url": "https://www.sueddeutsche.de/gesundheit/mpox-infektionskrankheit-who-affenpocken-ausbruch-1.6325600",
-      "urlToImage": "https://www.sueddeutsche.de/image/sz.1.5637072/1200x675?v=1703767624",
-      "publishedAt": "2023-12-28 12:57:12",
-      "content": "Im Kongo melden die Beh\u00f6rden immer mehr F\u00e4lle der Infektionskrankheit Mpox. Warum Experten f\u00fcr Deutschland dennoch wenig Gefahr sehen.In der Demokratischen Republik Kongo ist es seit Anfang des Jahre\u2026 [+313 chars]",
-      "retrievedAt": "2023-12-29 19:05:24.638562",
-      "internal_id": "2a086763b68f84d320554f0a5df7b9e4ebecdfb868b641e5c61175e6b925ac8c",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3978,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Da Reda\u00e7\u00e3o",
-      "title": "Brasil tem recorde de mortes por dengue em 2023",
-      "description": "Pa\u00eds j\u00e1 registrou 1.079 mortes pela doen\u00e7a neste ano",
-      "url": "https://veja.abril.com.br/saude/brasil-bate-recorde-de-mortes-por-dengue-em-2023",
-      "urlToImage": "",
-      "publishedAt": "2023-12-28 12:44:13",
-      "content": "BLACK FRIDAY: ASSINE a partir de R$ 1 por semanaContinua ap\u00f3s publicidade Por Da Reda\u00e7\u00e3o Atualizado em 28 dez 2023, 10h01 - Publicado em 28 dez 2023, 09h44 DENGUE - Recorde de mortes: 2023 j\u00e1 re\u2026 [+1804 chars]",
-      "retrievedAt": "2023-12-29 19:05:22.249492",
-      "internal_id": "621a7a4598ac4b4c15ef4be9caa7e6d1bfba5457e9cf34b77d27c241b36e375c",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3979,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Www.abc.es",
-      "author": "(abc)",
-      "title": "Brasil bate r\u00e9cord de muertes por dengue en 2023, alcanzando m\u00e1s de mil fallecidos",
-      "description": "Brasil ha batido un r\u00e9cord de muertes por dengue en 2023, alcanzado los 1.079 fallecidos por la enfermedad, seg\u00fan datos difundidos por el Ministerio de Salud, a trav\u00e9s del Sistema de Informaci\u00f3n de Enfermedades de Declaraci\u00f3n Obligatoria (Sinan en l\u00ednea). En \u2026",
-      "url": "https://www.abc.es/sociedad/brasil-bate-record-muertes-dengue-2023-alcanzando-20231228124004-nt.html",
-      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2023/12/28/dengue-U22862261823JFL-1024x512@abc.jpg",
-      "publishedAt": "2023-12-28 11:40:51",
-      "content": "Brasil ha batido un r\u00e9cord demuertes por dengue en 2023, alcanzado los 1.079 fallecidos por la enfermedad, seg\u00fan datos difundidos por el Ministerio de Salud, a trav\u00e9s del Sistema de Informaci\u00f3n de En\u2026 [+1584 chars]",
-      "retrievedAt": "2023-12-29 19:05:22.265858",
-      "internal_id": "d84b35d7befed30154fda962a9a67981cda739bbf7a339af41acee92b34722af",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3971,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Europapress.es",
-      "author": null,
-      "title": "Brasil bate r\u00e9cord de muertes por dengue en 2023, alcanzando m\u00e1s de mil fallecidos",
-      "description": "Brasil ha batido un r\u00e9cord de muertes por dengue en 2023, alcanzado los 1.079 fallecidos por la enfermedad, seg\u00fan datos difundidos por el Ministerio de Salud, a trav\u00e9s del Sistema de Informaci\u00f3n de Enfermedades de Declaraci\u00f3n Obligatoria (Sinan en l\u00ednea).",
-      "url": "https://www.europapress.es/internacional/noticia-brasil-bate-record-muertes-dengue-2023-alcanzando-mas-mil-fallecidos-20231228071551.html",
-      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231228071551_1200.jpg",
-      "publishedAt": "2023-12-28 06:15:51",
-      "content": "MADRID, 28 Dic. (EUROPA PRESS) - Brasil ha batido un r\u00e9cord de muertes por dengue en 2023, alcanzado los 1.079 fallecidos por la enfermedad, seg\u00fan datos difundidos por el Ministerio de Salud, a tr\u2026 [+1588 chars]",
-      "retrievedAt": "2023-12-29 07:05:49.289191",
-      "internal_id": "a0d75aa9d8441451c52599bdaf22f3cc48f2e39abce45965191e07b52d3ce2ea",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3977,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "associated-press",
-      "source_name": "Associated Press",
-      "author": "Jean-yves Kamale",
-      "title": "Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn",
-      "description": "African scientists warn that discrimination against gay and bisexual men on the continent could make an mpox outbreak in Congo worse. Last month, U.N. officials confirmed that a more severe form of mpox was spreading via sex for the first time in Congo. In pr\u2026",
-      "url": "https://apnews.com/article/congo-monkeypox-outbreak-gay-discrimination-mpox-bdfbae117989cfa41f5e7e36d583c036",
-      "urlToImage": "https://dims.apnews.com/dims4/default/e7217cf/2147483647/strip/true/crop/4198x2361+0+219/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F86%2F5d%2Fc5f1f48ca07d5bd7f6a1ad040906%2F54b41bd4da3846fb9c60440a4a9e3507",
-      "publishedAt": "2023-12-28 06:04:12",
-      "content": "KINSHASA, Congo (AP) As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Healt\u2026 [+5431 chars]",
-      "retrievedAt": "2023-12-29 07:05:50.675816",
-      "internal_id": "40d7bd8b80c84e79fb72ebedb970fff0ab2e60c11c62fdb9b9d2b41385431b85",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3976,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "JEAN-YVES KAMALE Associated Press, MARIA CHENG Associated Press",
-      "title": "Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn",
-      "description": "African scientists warn that discrimination against gay and bisexual men on the continent could make an mpox outbreak in Congo worse",
-      "url": "https://abcnews.go.com/Health/wireStory/stigma-gay-men-worsen-congos-biggest-mpox-outbreak-105959400",
-      "urlToImage": "https://i.abcnewsfe.com/a/a25a77dc-c8c8-4697-8a14-3985df1b70c6/wirestory_bdfbae117989cfa41f5e7e36d583c036_16x9.jpg?w=992",
-      "publishedAt": "2023-12-28 05:50:34",
-      "content": "KINSHASA, Congo -- As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Health \u2026 [+5433 chars]",
-      "retrievedAt": "2023-12-29 07:05:50.666608",
-      "internal_id": "fbf9f54ec7e7a77e9fdba6221a9784d5787fa116e3c366b1d24e41b0ed59b0e4",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3975,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "abc-news",
-      "source_name": "ABC News",
-      "author": "JEAN-YVES KAMALE Associated Press, MARIA CHENG Associated Press",
-      "title": "Stigma against gay men could worsen Congo's biggest mpox outbreak, scientists warn",
-      "description": "African scientists warn that discrimination against gay and bisexual men on the continent could make an mpox outbreak in Congo worse",
-      "url": "https://abcnews.go.com/International/wireStory/stigma-gay-men-worsen-congos-biggest-mpox-outbreak-105959399",
-      "urlToImage": "https://i.abcnewsfe.com/a/a25a77dc-c8c8-4697-8a14-3985df1b70c6/wirestory_bdfbae117989cfa41f5e7e36d583c036_16x9.jpg?w=992",
-      "publishedAt": "2023-12-28 05:50:29",
-      "content": "KINSHASA, Congo -- As Congo copes with its biggest outbreak of mpox, scientists warn discrimination against gay and bisexual men on the continent could make it worse. In November, the World Health \u2026 [+5433 chars]",
-      "retrievedAt": "2023-12-29 07:05:50.658109",
-      "internal_id": "26c745fba74e5abd0f0abbd00b97792c61f03ebe45c4ffa7ec39f71d9ec1585e",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3974,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Www.nzz.ch",
-      "author": "Florian Schoop (scf), Esthy Baumann-R\u00fcdiger (eru), Robin Schwarzenbach (RSc)",
-      "title": "Malaria-Impfung, Fett-weg-Spritze, Blauwale: Das waren gute Nachrichten des Jahres",
-      "description": "2023 war d\u00fcster. Kleinere und gr\u00f6ssere Lichtblicke gab es trotzdem: vom Kampf gegen winzige Blutsauger bis zum gr\u00f6ssten Tier der Welt.",
-      "url": "https://www.nzz.ch/gesellschaft/7-good-news-von-2023-von-malaria-impfstoffen-bis-zur-kino-renaissance-ld.1770984",
-      "urlToImage": "https://img.nzz.ch/2023/12/27/6a82f73b-43c3-4f9a-a2e6-e425a762caa6.jpeg?width=1200&height=674&fit=bound&quality=75&auto=webp&crop=4889,2746,x499,y776&wmark=nzz",
-      "publishedAt": "2023-12-28 04:30:00",
-      "content": "Kriege, Erdbeben, Waldbr\u00e4nde: 2023 war gezeichnet von Katastrophen. Entsprechend d\u00fcster f\u00e4llt die Bilanz des Jahres aus. Dabei geht vergessen, dass es in den vergangenen zw\u00f6lf Monaten auch gute Nachr\u2026 [+11238 chars]",
-      "retrievedAt": "2023-12-29 07:05:49.963082",
-      "internal_id": "127beffecb45ae8727d0ae7afcc8e23e1b29f17b5fd0a4d86320540b390eedec",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3973,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "People.cn",
-      "author": "F_400991",
-      "title": "Sri Lanka speeds up dengue control before university entrance exams",
-      "description": "COLOMBO, Dec. 27 (Xinhua) -- Sri Lanka's National Dengue Control Unit (NDCU) said on Wednesday that",
-      "url": "http://en.people.cn/n3/2023/1228/c90000-20115821.html",
-      "urlToImage": null,
-      "publishedAt": "2023-12-28 02:43:36",
-      "content": "(Xinhua) 10:26, December 28, 2023 COLOMBO, Dec. 27 (Xinhua) -- Sri Lanka's National Dengue Control Unit (NDCU) said on Wednesday that it will inspect all examination centers for mosquito breeding si\u2026 [+801 chars]",
-      "retrievedAt": "2023-12-29 07:05:49.319257",
-      "internal_id": "26ae1102db9d435721fbad6a8e84f80a3f233bbb92902487cb763adf4e5525c0",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 3972,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
-      "title": "Dengue: Brasil bate recorde de mortes em 2023",
-      "description": "At\u00e9 esta quarta-feira (27), pa\u00eds registrou 1.079 mortes pela doen\u00e7a",
-      "url": "https://saude.ig.com.br/2023-12-27/dengue--brasil-bate-recorde-de-mortes-em-2023.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
-      "publishedAt": "2023-12-27 21:40:46",
-      "content": "O Brasil bateu recorde de mortes por dengue no ano de 2023 . Dados divulgados pelo Minist\u00e9rio da Sa\u00fade, por meio do Sistema de Informa\u00e7\u00e3o de Agravos de Notifica\u00e7\u00e3o (Sinan online), revelam que foram \u2026 [+1423 chars]",
-      "retrievedAt": "2023-12-29 07:05:49.292847",
-      "internal_id": "bfaa5863e07e1ad8e318ddb011ea69a2433e8487dc20f75dcde9562ac3903d13",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3970,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Iago Silva",
-      "title": "Brasil registra recorde de mortes por dengue em 2023",
-      "description": "Com 1.079 mortes por dengue em 2023, o Brasil enfrenta desafios enquanto o Minist\u00e9rio da Sa\u00fade intensifica a\u00e7\u00f5es preventivas",
-      "url": "https://www.metropoles.com/brasil/brasil-registra-recorde-de-mortes-por-dengue-em-2023",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/12/27173946/2023-10-06t141346z_1_lynxmpej950lb_rtroptp_4_health-dengue-argentina.jpg",
-      "publishedAt": "2023-12-27 20:45:33",
-      "content": "Segundo dados divulgados pelo Minist\u00e9rio da Sa\u00fade nesta quarta-feira (27/12), o Brasil bateu recorde de mortes por dengue no ano de 2023. Foram 1.079 mortes pela doen\u00e7a, de acordo com o Sistema de In\u2026 [+1432 chars]",
-      "retrievedAt": "2023-12-29 07:05:49.274153",
-      "internal_id": "d47db810e2634828c019eec92ec674bd748537537ee0813c4d89e818fb22f0ba",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3958,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "la-nacion",
-      "source_name": "La Nacion",
-      "author": "Fabiola Czubaj",
-      "title": "Vacuna contra el dengue: cu\u00e1l es el precio y d\u00f3nde conseguirla",
-      "description": "Son dos dosis, que se aplican con un intervalo de tres meses, y su uso est\u00e1 autorizado a partir de los cuatro a\u00f1os de edad",
-      "url": "https://www.lanacion.com.ar/sociedad/vacuna-contra-el-dengue-cual-es-el-precio-y-donde-conseguirla-nid27122023/",
-      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-anmat-aprobo-este-ano-la-vacuna-qdenga-de-O462LEZ5CFEG5KF2BFXTFMLRPM.jpg?auth=4a5493de0136b4da0928c93072dd6b2b1da7c63a4639d6d7550b4bb3adee1af2&width=768&quality=70&smart=false",
-      "publishedAt": "2023-12-27 19:03:22",
-      "content": "Una recorrida por vacunatorios privados da cuenta de que ya est\u00e1n aplicando la vacuna contra el dengue, que se aprob\u00f3 este a\u00f1o en el pa\u00eds. Su costo, de manera particular, est\u00e1 recomendado en $51.113 \u2026 [+5490 chars]",
-      "retrievedAt": "2023-12-28 19:05:16.992643",
-      "internal_id": "2530554b10a9f461a33e869270f34a59dbc78cae8a63115d994c74171f97f700",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3956,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Denver Post",
-      "author": "David M. Higgins, Joshua T.B. Williams, Sean T. O\u2019Leary",
-      "title": "Opinion: Measles is back. Coloradans should be concerned.",
-      "description": "As pediatricians, we are concerned by the first measles case in Colorado since 2019. We have anxiously watched for three years as measles vaccination rates have fallen in our state while cases have risen around the world.",
-      "url": "https://www.denverpost.com/2023/12/27/measles-colorado-pediatricians-concerned-vaccines-safe/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2022/08/TDP-L-Vaccination080522-cha-422.jpg?w=1024&h=681",
-      "publishedAt": "2023-12-27 18:23:26",
-      "content": "It was only a matter of time. As pediatricians, we are concerned by the first measles case in Colorado since 2019. We have anxiously watched for three years as measles vaccination rates have fallen i\u2026 [+4825 chars]",
-      "retrievedAt": "2023-12-28 19:05:16.662918",
-      "internal_id": "49a6aa6944bc417317e5fc73118cfa0788bf2ca965ed1424f9bb82eecd7eb8a0",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3961,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Campinas amplia bairros com 'alto risco de transmiss\u00e3o' de dengue: veja rela\u00e7\u00e3o",
-      "description": "S\u00e3o mais cinco bairros que integram rela\u00e7\u00e3o de \u00e1reas da metr\u00f3pole que devem intensificar medidas preventivas, entre elas o combate ao criadouro do mosquito transmiss\u00e3o. Cidade vive epidemia desde abril e soma 10,8 mil casos. Campinas amplia n\u00famero de bairros \u2026",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/27/campinas-amplia-bairros-com-alto-risco-de-transmissao-de-dengue-veja-relacao.ghtml",
-      "urlToImage": "https://s2-g1.glbimg.com/D91lVDz2UOuoKmUA7XjMswQvox8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/9/ZXEUPfQHO78slTEX68Qw/capturar3.jpg",
-      "publishedAt": "2023-12-27 18:04:43",
-      "content": " Ch\u00e1cara Primavera (Leste)Jardim Aur\u00e9lia (Norte)Conjunto Residencial Parque S\u00e3o Bento (Noroeste)Jardim das Bandeiras II (Sul)Vila Vit\u00f3ria (Sudoeste)</\u2026 [+7140 chars]",
-      "retrievedAt": "2023-12-28 19:05:17.009587",
-      "internal_id": "a27fb36ea62579c1687870113a3ecec65d4191f3bfddaaef1490caad6d7bedfa",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3955,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Thegatewaypundit.com",
-      "author": "Guest Contributor",
-      "title": "Leprosy, Polio, Malaria, TB, Measles \u2026 and Massive Unscreened Illegal Immigration",
-      "description": "This story originally was published by Real Clear Wire By James Varney Real Clear Wire Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. The post Leprosy, Polio, Mal\u2026",
-      "url": "https://www.thegatewaypundit.com/2023/12/leprosy-polio-malaria-tb-measles-massive-unscreened-illegal/",
-      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2023/12/612315.jpg",
-      "publishedAt": "2023-12-27 16:45:12",
-      "content": "Perdelsky at English Wikipedia, Wikimedia Commons This story originally was published by Real Clear Wire By James VarneyReal Clear Wire Successful public health campaigns and medical advances have\u2026 [+12443 chars]",
-      "retrievedAt": "2023-12-28 19:05:16.645891",
-      "internal_id": "7e3133af3ed2f3dec9c4d7d61e33c30c3eabe10693762a2bc2b33da78fe2b052",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3957,
-      "query": [
-        "dengue",
-        "malaria",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "The Indian Express",
-      "author": "Debraj Deb",
-      "title": "Agartala municipality releases larvae-eating fishes in city drains, waterbodies to combat mosquito menace",
-      "description": "The Agartala municipal body started the mosquito bio-control project in 2017 in collaboration with the National Vector Borne Disease Control Programme.",
-      "url": "https://indianexpress.com/article/north-east-india/tripura/agartala-municipality-larvae-eating-fishes-drains-mosquito-menace-9085399/",
-      "urlToImage": "https://images.indianexpress.com/2023/12/malaria1200.jpg",
-      "publishedAt": "2023-12-27 16:38:04",
-      "content": "In an effort to control malaria, dengue, chikungunya and other vector-borne diseases, Tripura Health Department and Agartala Municipal Corporation Wednesday released larvivorous fishes, which feed on\u2026 [+2191 chars]",
-      "retrievedAt": "2023-12-28 19:05:16.970303",
-      "internal_id": "e5948cf91217ced265cfa0be0d33795bf5451daf65d49913abf026485f604f6a",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3964,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Abril.com.br",
-      "author": "Bebe.com",
-      "title": "Meningite: a import\u00e2ncia da cobertura vacinal para o combate da doen\u00e7a\u00b9'\u00b2",
-      "description": "Uma das melhores maneiras de proteger seu filho \u00e9 atrav\u00e9s da vacina\u00e7\u00e3o. Aqui, explicamos mais sobre a meningite e suas principais formas de preven\u00e7\u00e3o!\u00b9'\u00b2",
-      "url": "https://bebe.abril.com.br/saude/meningite-a-importancia-da-cobertura-vacinal-para-o-combate-da-doenca%c2%b9%c2%b2/",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/27/1152289517-istock-1209161480.jpg",
-      "publishedAt": "2023-12-27 15:45:58",
-      "content": "De acordo com a Meningitis Research Foundation (MRF), organiza\u00e7\u00e3o sem fins lucrativos localizada na Inglaterra, a cada ano, registram-se mais de 2,5 milh\u00f5es de casos da doen\u00e7a em todo o mundo. 3 Segu\u2026 [+7079 chars]",
-      "retrievedAt": "2023-12-28 19:05:17.411614",
-      "internal_id": "667dcc7075bc3e14c58ace6ece9e81a4aa708326968c0e02dbe0d7b3de3a8dd1",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3962,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Febre maculosa, dengue, maternidade: relembre desafios da sa\u00fade na regi\u00e3o de Campinas em 2023",
-      "description": "Demanda por leitos e atendimentos no SUS est\u00e1 entre os principais gargalos, e h\u00e1 promessa do estado em construir um hospital metropolitano. Confira assuntos que foram destaques neste ano. Febre maculosa, dengue, crise: relembre desafios da sa\u00fade na regi\u00e3o de \u2026",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/27/febre-maculosa-dengue-maternidade-relembre-desafios-da-saude-na-regiao-de-campinas-em-2023.ghtml",
-      "urlToImage": "https://s2-g1.glbimg.com/8yv2g_8NWtOnj-qUVrae2RbzNAY=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/12213241.jpg",
-      "publishedAt": "2023-12-27 15:30:38",
-      "content": "Um grande destaque no ano foi a crise na Maternidade de Campinas, que jogou luz em v\u00e1rios problemas, como o d\u00e9ficit de m\u00e9dicos e a grande necessidade de vagas de UTI neonatal. O ano ainda teve supe\u2026 [+7095 chars]",
-      "retrievedAt": "2023-12-28 19:05:17.018603",
-      "internal_id": "2c06d03714804308da0eb565b5cdd3492ecfe7ec1ed8ccea232e55107e23bdb6",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3959,
-      "query": [
-        "dengue",
-        "malaria",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Pranav Tewari, Pei Ma, Gregory Gan, A. Janhavi, Esther Li Wen Choo, Joel Ruihan Koo, Borame Lee Dickens, Jue Tao Lim",
-      "title": "Non-linear associations between meteorological factors, ambient air pollutants and major mosquito-borne diseases in Thailand",
-      "description": "Author summary In this study, we examined the associations between meteorological variables, ambient air pollutants and four major mosquito-borne diseases, dengue, malaria, chikungunya and Japanese encephalitis in Thailand. For the optimization of vector cont\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011763",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011763.g003&size=inline",
-      "publishedAt": "2023-12-27 14:00:00",
-      "content": "Descriptive results Over the observational period of 20032021, 86 381, 292 550, 10 568, 759 220 cases were reported for CHIKV, malaria, JEV and DENV respectively, with stark heterogeneity in terms o\u2026 [+16486 chars]",
-      "retrievedAt": "2023-12-28 19:05:16.997293",
-      "internal_id": "56b16c65bc902e6e8a31ce5fbac99616be4d5a59e0efbd9f47eb825ae4c0d1e0",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3965,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Yannik Vo\u00df, Severina Klaus, Nicolas P. Lichti, Markus Ganter, Julien Guizetti",
-      "title": "Malaria parasite centrins can assemble by Ca2+-inducible condensation",
-      "description": "Author summary Malaria occurs when a small parasite, named Plasmodium falciparum, invades our red blood cells where it grows and multiplies. Parasite multiplication requires segregation of the replicated genetic material into multiple new nuclei, which are th\u2026",
-      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011899",
-      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1011899.g007&size=inline",
-      "publishedAt": "2023-12-27 14:00:00",
-      "content": "Citation: Vo\u00df Y, Klaus S, Lichti NP, Ganter M, Guizetti J (2023) Malaria parasite centrins can assemble by Ca2+-inducible condensation. PLoS Pathog 19(12): e1011899. https://doi.org/10.1371/journa\u2026 [+84807 chars]",
-      "retrievedAt": "2023-12-28 19:05:17.719591",
-      "internal_id": "c4cb72909443ea8b1430b196f25362cefddd7df4aba2fb788fa453e97466dd92",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3967,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Plos.org",
-      "author": "Ros\u00e2ngela O. Anjos, Moyra M. Portilho, Leile Camila Jacob-Nascimento, Caroline X. Carvalho, Patr\u00edcia S. S. Moreira, Gielson A. Sacramento, Nivison R. R. Nery Junior, Daiana de Oliveira, Jaqueline S. Cruz, Cristiane W. Cardoso, Hernan D. Argibay, Kenneth S. Plante, Jessica A. Plante, Scott C. Weaver, Uriel D. Kitron, Mitermayer G. Reis, Albert I. Ko, Federico Costa, Guilherme S. Ribeiro",
-      "title": "Dynamics of chikungunya virus transmission in the first year after its introduction in Brazil: A cohort study in an urban community",
-      "description": "Author summary The chikungunya virus (CHIKV) was introduced to the Americas in 2013, causing large outbreaks that rapidly affected a substantial portion of the population in several countries. The virus was first detected in Brazil in 2014 and has since sprea\u2026",
-      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0011863",
-      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0011863.g002&size=inline",
-      "publishedAt": "2023-12-27 14:00:00",
-      "content": "Citation: Anjos RO, Portilho MM, Jacob-Nascimento LC, Carvalho CX, Moreira PSS, Sacramento GA, et al. (2023) Dynamics of chikungunya virus transmission in the first year after its introduction in Bra\u2026 [+36129 chars]",
-      "retrievedAt": "2023-12-28 19:05:18.319349",
-      "internal_id": "acf8eb2b8fe6e849f89a0f6640fbdf50467c1e614c52f019b6cef066aefc419b",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3963,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Clar\u00edn",
-      "author": "Brand Studio",
-      "title": "Lleg\u00f3 la vacuna contra el dengue: un hito en la lucha contra enfermedades transmitidas por mosquitos",
-      "description": "En Helios Salud ya cuentan con la vacuna contra el dengue. Se puede aplicar sin turno previo ni demoras en cualquiera de sus sedes.",
-      "url": "https://www.clarin.com/brandstudio/llego-vacuna-dengue-hito-lucha-enfermedades-transmitidas-mosquitos_0_MsaFXLcgdd.html",
-      "urlToImage": "https://www.clarin.com/img/2023/12/21/NEcfLv4KA_2000x1500__1.jpg",
-      "publishedAt": "2023-12-27 13:56:27",
-      "content": "Brand Studio para Helios Salud Fue un hito significativo en la batalla contra el dengue, la vacuna ofrece una nueva esperanza en la prevenci\u00f3n de esta enfermedad viral transmitida por mosquitos. S\u2026 [+6928 chars]",
-      "retrievedAt": "2023-12-28 19:05:17.030047",
-      "internal_id": "d047f941218dde7e2cb232c4ccb91e5bfa27e19a02359ff81d0056ec418ee9ab",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3968,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tvn24.pl",
-      "author": "wac//mm",
-      "title": "Ekspertka: zagro\u017cenie tymi wirusami mo\u017ce wzrosn\u0105\u0107 w 2024 roku",
-      "description": "COVID-19, denga oraz mpox - na te choroby wirusowe zwr\u00f3ci\u0142a szczeg\u00f3ln\u0105 uwag\u0119 ekspertka pytana o zagro\u017cenie zdrowotne, jakie przyniesie ludziom rok 2024. Dr Maria Van Kerkhove, dyrektorka departamentu WHO ds. gotowo\u015bci i zapobiegania epidemiom i pandemiom, zwr\u2026",
-      "url": "https://tvn24.pl/swiat/zdrowie-grozne-choroby-w-2024-roku-ekspertka-swiatowej-organizacji-zdrowia-wskazala-covid-19-mpox-i-denge-7642332",
-      "urlToImage": "https://tvn24.pl/najnowsze/cdn-zdjecie-f279ad-wizualizacja-wirusa-denga-5117890/alternates/LANDSCAPE_1280",
-      "publishedAt": "2023-12-27 11:46:30",
-      "content": "COVID-19, denga oraz mpox - na te choroby wirusowe zwr\u00f3cia szczeg\u00f3ln uwag ekspertka pytana o zagroenie zdrowotne, jakie przyniesie ludziom rok 2024. Dr Maria Van Kerkhove, dyrektorka departamentu WHO\u2026 [+4318 chars]",
-      "retrievedAt": "2023-12-28 19:05:18.501989",
-      "internal_id": "79cd19b6d7ddea6dc9e89ae89d7cef1d9a0315bf5a825ad580679a2ff367e5f0",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3960,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Lastampa.it",
-      "author": "La Stampa",
-      "title": "Argentina, emergenza sanitaria per l\u2019epidemia di dengue",
-      "description": "L'Argentina ha registrato 135.676 contagi da dengue e 68 morti causati dall'infezione nel corso del 2023. A causa dell'epidemia il ministero della Salute ha decretato l'emergenza sanitaria \u00abper rinfor ... [Continua a leggere sul sito.]",
-      "url": "https://www.lastampa.it/esteri/2023/12/27/news/dengue_argentina_epidemia-13957407/",
-      "urlToImage": "https://www.gedistatic.it/content/gnn/img/lastampa/2023/12/27/121440805-2152f731-dcda-4f89-8045-02eb385e9888.jpg",
-      "publishedAt": "2023-12-27 11:14:42",
-      "content": "L'Argentina ha registrato 135.676 contagi da dengue e 68 morti causati dall'infezione nel corso del 2023. A causa dell'epidemia il ministero della Salute ha decretato l'emergenza sanitaria \u00abper rinfo\u2026 [+1056 chars]",
-      "retrievedAt": "2023-12-28 19:05:17.004031",
-      "internal_id": "2997b4bb5ebd94599d8c7f3f1b4599bc2c809eea40284a0f9f7934bd9ca00fcf",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3969,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "CNA",
-      "author": null,
-      "title": "Scientists hope to bank on local vaccine as leptospirosis cases hit 5-year high in Philippines",
-      "description": "The country's leading experts on leptospirosis are developing the first locally-produced vaccine that targets specific strains, but they lack funding.",
-      "url": "https://www.channelnewsasia.com/asia/philippines-leptospirosis-vaccine-leptospira-bacteria-researchers-scientists-floods-rats-underprivileged-4012756",
-      "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--FmHwPWdH--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/12/27/screenshot_22.png?itok=JbEL6kBw",
-      "publishedAt": "2023-12-27 10:56:13",
-      "content": "Dr Villanueva added that labourers who serve as primary breadwinners in Filipino households are especially at risk, as they are often outdoors. For them, getting infected could mean losing their prim\u2026 [+1106 chars]",
-      "retrievedAt": "2023-12-28 19:05:19.138775",
-      "internal_id": "7e100868c0b238d673011e521e7fda80adbea65fce511f1113cdc286907d9f9a",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3966,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "der-tagesspiegel",
-      "source_name": "Der Tagesspiegel",
-      "author": "Malte Neumann",
-      "title": "Innehalten in der M\u00fccke: Der Malaria-Erreger geht Infektionen langsam an",
-      "description": "Ein Rechenmodell zeigt, dass der Malaria-Parasit eher seinen eigenen Tod riskiert, als sich zu fr\u00fch auf einen Menschen \u00fcbertragen zu lassen.",
-      "url": "https://www.tagesspiegel.de/wissen/innehalten-in-der-mucke-der-malaria-erreger-geht-infektionen-langsam-an-10956538.html",
-      "urlToImage": "https://www.tagesspiegel.de/images/malaria1/alternates/BASE_16_9_W1400/malaria.jpeg",
-      "publishedAt": "2023-12-27 09:49:26",
-      "content": "Laut der WHO infizieren sich j\u00e4hrlich rund 250 Millionen Menschen mit Malaria, gut 600.000 sterben. Per M\u00fcckenstich wird der Parasit, der sich in Anopheles-M\u00fccken einnistet, indirekt von Mensch zu Me\u2026 [+3077 chars]",
-      "retrievedAt": "2023-12-28 19:05:17.723839",
-      "internal_id": "51a30df01af00dc7966c128c7dfefa0721bbc986c76b249ad93d87bf5c80bc5f",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3947,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "The Star Online",
-      "author": "Tan Shiow Chin",
-      "title": "Reducing the risk of rabies via pet vaccination",
-      "description": "This fatal disease can be easily prevented with the vaccination of dogs \u2013 the primary source of human infection.",
-      "url": "https://www.thestar.com.my/lifestyle/health/2023/12/27/reducing-the-risk-of-rabies-via-pet-vaccination",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/12/22/2452822.jpg",
-      "publishedAt": "2023-12-27 07:02:09",
-      "content": "Mention rabies and an image of an aggressive dog barking and foaming at its mouth is likely to come to mind. Most people are probably aware that humans can contract this infectious disease from a bi\u2026 [+8432 chars]",
-      "retrievedAt": "2023-12-28 07:05:50.128816",
-      "internal_id": "b63ae11599773462e2bc66943eff7655778c05790717f80cfaa6a74584158801",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3946,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Chaos2ch.com",
-      "author": "chaos2ch",
-      "title": "\u3010\u885d\u6483\u52d5\u753b\u3011\u72c2\u72ac\u75c5\u306e\u4eba\u306e\u6c34\u306e\u98f2\u307f\u65b9\u304c\u30e4\u30d0\u3059\u304e\u308b",
-      "description": "1: \u540d\u7121\u3057\u3055\u3093\uff20\u304a\u30fc\u3077\u3093 23/12/26(\u706b) 14:40:23 ID:658g \u6016\u3044Videos of a man infected with rabies demonstrates hydrophobia, which is a symptom of the virus. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitter.com/obMhuVnku2...",
-      "url": "http://chaos2ch.com/archives/5491039.html",
-      "urlToImage": null,
-      "publishedAt": "2023-12-27 06:00:30",
-      "content": "Videos of a man infected with rabies demonstrates hydrophobia, which is a symptom of the virus. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitter.com/obMhuVnku2 \u2014 M\u2026 [+44 chars]",
-      "retrievedAt": "2023-12-28 07:05:50.112721",
-      "internal_id": "1ab37d1c338d075468f1c92f5ba584f0e7ce640c7ef048d4246e716984730f50",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3948,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Alessandro Di Lorenzo",
-      "title": "O que explica o aumento nos casos de dengue na Europa?",
-      "description": "O n\u00famero de casos de dengue adquiridos localmente na parte continental da Europa teve um aumento de 20% nos \u00faltimos anos O post O que explica o aumento nos casos de dengue na Europa? apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2023/12/27/medicina-e-saude/o-que-explica-o-aumento-nos-casos-de-dengue-na-europa/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/11/pexels-pixabay-86722-scaled-e1699618243347-695x500.jpg",
-      "publishedAt": "2023-12-27 04:40:00",
-      "content": "A dengue \u00c3\u00a9 uma doen\u00c3\u00a7a tropical e subtropical presente principalmente em regi\u00c3\u00b5es da \u00c3\u0081sia, \u00c3\u0081frica e Am\u00c3\u00a9rica do Sul. O Brasil, por exemplo, lidera o n\u00c3\u00bamero de casos da doen\u00c3\u00a7a, com 2,9 milh\u00c3\u00b5es d\u2026 [+2709 chars]",
-      "retrievedAt": "2023-12-28 07:05:50.640806",
-      "internal_id": "85a525f196957b13b827c82e4a56d59d8473c47d6ce3dd87d33ad06621249787",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3954,
-      "query": [
-        "zika"
-      ],
-      "source_id": null,
-      "source_name": "Thaipbsworld.com",
-      "author": "jeerapas@thaipbs.or.th",
-      "title": "Warning over increase in Zika virus infections in Bangkok",
-      "description": "A warning has been issued about increasing Zika virus infections in Bangkok, by Professor Dr. Yong Poovorawan, chief of the Centre of Excellence in Clinical Virology at the Faculty of... The post Warning over increase in Zika virus infections in Bangkok first\u2026",
-      "url": "https://www.thaipbsworld.com/warning-over-increase-in-zika-virus-infections-in-bangkok/",
-      "urlToImage": "https://www.thaipbsworld.com/wp-content/uploads/2023/12/838437-600x330.jpg",
-      "publishedAt": "2023-12-27 03:51:08",
-      "content": "A warning has been issued about increasing Zika virus infections in Bangkok, by Professor Dr. Yong Poovorawan, chief of the Centre of Excellence in Clinical Virology at the Faculty of Medicine, Chula\u2026 [+977 chars]",
-      "retrievedAt": "2023-12-28 07:05:51.476803",
-      "internal_id": "be62aca08b6fdb0e60f3b7d610f1a30999b9b5a3ab114947254f67463c59c944",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3952,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "el-mundo",
-      "source_name": "El Mundo",
-      "author": "Carmen Torrente Villacampa",
-      "title": "El secreto de 'la puchera de Riaza', el primer medicamento espec\u00edfico espa\u00f1ol con prospecto",
-      "description": "El farmac\u00e9utico rural Frutos Sanz revolucion\u00f3 el siglo XIX en su lucha contra la malaria. Carlos L. Garc\u00eda, m\u00e9dico y descendiente, explica c\u00f3mo surgi\u00f3 este preparado Leer",
-      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2023/12/27/658aee2be4d4d879658b4580.html",
-      "urlToImage": "https://phantom-elmundo.unidadeditorial.es/0a28c7b21b22720d84971c31758717b7/resize/1200/f/webp/assets/multimedia/imagenes/2023/12/26/17036046056486.jpg",
-      "publishedAt": "2023-12-27 00:58:55",
-      "content": "La pandemia eclips\u00f3 el 200 aniversario de 'la puchera de Riaza'. Lo cre\u00f3 en 1820 el farmac\u00e9utico Frutos Sanz y Agudo para tratar la malaria y tuvo su apogeo entre 1860 y 1865. Uno de sus descendiente\u2026 [+5423 chars]",
-      "retrievedAt": "2023-12-28 07:05:51.284481",
-      "internal_id": "fb1184a8e91b506b6f1317c0da5f5c53f49ec2c11cfc8e532896776d1cb40644",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3949,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "TNN",
-      "title": "Ahmedabad: 90 cholera and 71 dengue cases",
-      "description": "AHMEDABAD: The city civic body's health department on Tuesday stated in its weekly health update that the city hospitals and urban health centres regi.",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-90-cholera-and-71-dengue-cases/articleshow/106304944.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-106304951,width-1070,height-580,imgsize-32190,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-12-27 00:51:31",
-      "content": "11 Animals that shed skin, body parts",
-      "retrievedAt": "2023-12-28 07:05:50.650578",
-      "internal_id": "b1d679c29d928039211ee77a4f491537b4f1fe0fec1894b10ea129dfba3f712e",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3951,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Sele\u00e7\u00f5es, Sele\u00e7\u00f5es",
-      "title": "Vacina contra a Dengue estar\u00e1 dispon\u00edvel no SUS? Entenda os detalhes",
-      "description": "Entenda tudo sobre a vacina contra a Dengue e saiba como ser\u00e1 a distribui\u00e7\u00e3o do imunizante!",
-      "url": "https://delas.ig.com.br/parceiros/selecoes/2023-12-26/vacina-contra-a-dengue-estara-disponivel-no-sus--entenda-os-detalhes.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ac/le/eg/acleegt8gvc3bb39eym93o2vx.jpg",
-      "publishedAt": "2023-12-27 00:35:14",
-      "content": "O Brasil est\u00e1 entre os pa\u00edses que ainda luta contra a dengue ! A doen\u00e7a aflige uma boa parte da popula\u00e7\u00e3o e o governo vem h\u00e1 anos combatendo a prolifera\u00e7\u00e3o do aedes aegypti , o mosquito transmissor\u2026 [+2081 chars]",
-      "retrievedAt": "2023-12-28 07:05:50.661715",
-      "internal_id": "b18bfd84fcbe4e1b8522e8b398224a60318948f0ee96858ca30dc3886e78c884",
-      "publishedAtLabel": "Dec 27"
-    },
-    {
-      "id": 3953,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Boston Globe",
-      "author": "Washington Post staff",
-      "title": "Did anything good happen in 2023? Actually, yes!",
-      "description": "Throughout the year, medical and scientific achievements and moments of genuine connection and humanity shone through the bad news.",
-      "url": "https://www.bostonglobe.com/2023/12/26/world/did-anything-good-happen-2023-actually-yes/",
-      "urlToImage": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=444",
-      "publishedAt": "2023-12-26 21:20:39",
-      "content": "In October, the World Health Organization approved a malaria vaccine, only the second time a vaccine against the potentially deadly disease has been created. The WHO said it expects the vaccine, whic\u2026 [+5225 chars]",
-      "retrievedAt": "2023-12-28 07:05:51.291861",
-      "internal_id": "71415f0b3f3d73aecc19dfab57bce92cd6ffaa98eca0454aed4a37f67088ce92",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3950,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Terra.com.br",
-      "author": "Sa\u00fade em Dia",
-      "title": "Sintomas de dengue: cuidado durante o ver\u00e3o precisa ser redobrado",
-      "description": "Fortes chuvas e calor intenso aumentam a prolifera\u00e7\u00e3o do mosquito da dengue. Saiba identificar os sintomas leves e de alta gravidade",
-      "url": "https://www.terra.com.br/vida-e-estilo/saude/sintomas-de-dengue-cuidado-durante-o-verao-precisa-ser-redobrado,3121a9b04185a58fe1e4be72cf6784f2u1m8p8sy.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2023/12/26/972383151-dengue-1.jpg",
-      "publishedAt": "2023-12-26 20:02:28",
-      "content": "Durante o ver\u00e3o, \u00e9 comum os casos de dengue se tornarem mais frequentes. A Universidade Aberta do Sistema \u00danico de Sa\u00fade (UNA-SUS) aponta que a combina\u00e7\u00e3o entre altas temperaturas e chuvas favorece o\u2026 [+3492 chars]",
-      "retrievedAt": "2023-12-28 07:05:50.658021",
-      "internal_id": "32b09a8817e7b960e42829042d70a53cfc85dfe06710e00a9c397c17f73477a7",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3941,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Sa\u00fade em Dia",
-      "title": "Sintomas de dengue: cuidados durante o ver\u00e3o precisam ser redobrados",
-      "description": "Fortes chuvas e calor intenso aumentam a prolifera\u00e7\u00e3o do mosquito da dengue. Saiba identificar os sintomas leves e de alta gravidade",
-      "url": "https://www.metropoles.com/saude/sintomas-de-dengue-cuidados-durante-o-verao",
-      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/04/01171055/combate-a-dengue-anapolis-1.jpeg",
-      "publishedAt": "2023-12-26 18:46:56",
-      "content": "Durante o ver\u00e3o, \u00e9 comum os casos de dengue se tornarem mais frequentes. A Universidade Aberta do Sistema \u00danico de Sa\u00fade (UNA-SUS) aponta que a combina\u00e7\u00e3o entre altas temperaturas e chuvas favorece o\u2026 [+1568 chars]",
-      "retrievedAt": "2023-12-27 19:05:20.558303",
-      "internal_id": "2459d5b305e087d1de821228741d6b8ce068e21cc7d40d2494bee6397aaefe20",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3939,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Idaho State Journal",
-      "author": "Devi Shastri Ap Health Writer",
-      "title": "Idaho has worst child vaccine opt-out rate in US",
-      "description": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected,",
-      "url": "https://www.idahostatejournal.com/news/local/idaho-has-worst-child-vaccine-opt-out-rate-in-us/article_3de847ba-a411-11ee-8ac6-4ffa928844e7.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/assets/v3/editorial/f/d4/fd4a4b3a-98e7-50c8-a9bf-da35b3944b57/65830d663021a.image.jpg?crop=1765%2C927%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2023-12-26 17:40:08",
-      "content": "When Idaho had a rare measles outbreak a few months ago, health officials scrambled to keep it from spreading. In the end, 10 people, all in one family, were infected, all unvaccinated. This time, t\u2026 [+4111 chars]",
-      "retrievedAt": "2023-12-27 19:05:20.060325",
-      "internal_id": "5ed3147393946497978338ebe2b61b1eac643f1f4a98677c673a917ef687048e",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3940,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "il-sole-24-ore",
-      "source_name": "Il Sole 24 Ore",
-      "author": null,
-      "title": "Dengue, l\u2019Argentina decreta emergenza sanitaria per l\u2019epidemia",
-      "description": "Ci\u00f2 che allarma Buenos Aires \u00e8 il fatto che per il 93% dei casi il contagio \u00e8 avvenuto nel Paese tra persone che non hanno visitato regioni tropicali dove la malattia \u00e8 endemica",
-      "url": "https://www.ilsole24ore.com/art/dengue-l-argentina-decreta-emergenza-sanitaria-l-epidemia-AFXVpJBC",
-      "urlToImage": "https://i2.res.24o.it/images2010/2023/12/AFXVpJBC/images/beff14f2-a414-11ee-87ea-cd1e3d92cb55-fotohome0.jpg",
-      "publishedAt": "2023-12-26 17:34:24",
-      "content": "Ascolta la versione audio dell'articolo 1' di lettura LArgentina ha registrato 135.676 contagi da dengue e 68 morti causati dallinfezione nel corso del 2023. A causa dellepidemia il ministero dell\u2026 [+776 chars]",
-      "retrievedAt": "2023-12-27 19:05:20.540971",
-      "internal_id": "63b59263ce49289136cc8bb917b0f1db21d1819baeb8522dcaa6a7108e70c4e0",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3942,
-      "query": [
-        "dengue"
-      ],
-      "source_id": "globo",
-      "source_name": "Globo",
-      "author": null,
-      "title": "Em alerta para explos\u00e3o de casos de dengue, Campinas define bairros do 1\u00ba mutir\u00e3o de 2014; veja cronograma",
-      "description": "Medida faz parte de pacote de a\u00e7\u00f5es de controle; cidade vive epidemia desde abril e soma 10,8 mil casos. Vigil\u00e2ncia Epidemiol\u00f3gica fez alerta para reintrodu\u00e7\u00e3o dos sorotipos 3 e 4. Campinas far\u00e1 mutir\u00f5es contra a dengue a cada 15 dias Rog\u00e9rio Capela Em alerta\u2026",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2023/12/26/em-alerta-para-explosao-de-casos-de-dengue-campinas-define-bairros-do-1o-mutirao-de-2014-veja-cronograma.ghtml",
-      "urlToImage": "https://s2-g1.glbimg.com/Gv3bQTRtKzAHvDYgMd7rrRyJVZo=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/12220831.jpg",
-      "publishedAt": "2023-12-26 16:33:45",
-      "content": "Al\u00e9m disso, tamb\u00e9m ser\u00e3o divulgados boletins semanais para atualizar a situa\u00e7\u00e3o epidemiol\u00f3gica da doen\u00e7a. As medidas fazem parte do plano de a\u00e7\u00e3o do Departamento de Vigil\u00e2ncia Epidemiol\u00f3gica (Devisa)\u2026 [+6596 chars]",
-      "retrievedAt": "2023-12-27 19:05:20.573472",
-      "internal_id": "94eaccc9015a3ce787038dd6d4e2036fa688ac841178955e5cbaafa7b3dc0dda",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3943,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "R7.com",
-      "author": "Do R7",
-      "title": "S\u00e3o Paulo registra mais de 318 mil casos de dengue e 284 mortes pela doen\u00e7a em 2023",
-      "description": "Secretaria de Estado da Sa\u00fade informou que houve queda de 3,6% em compara\u00e7\u00e3o ao ano passado, mas que \u00e9 preciso ficar alerta",
-      "url": "https://noticias.r7.com/sao-paulo/sao-paulo-registra-mais-de-318-mil-casos-de-dengue-e-284-mortes-pela-doenca-em-2023-26122023",
-      "urlToImage": "https://img.r7.com/images/dengue-mosquito-aedes-aegypti-08122023145230305",
-      "publishedAt": "2023-12-26 13:33:00",
-      "content": "S\u00e3o Paulo registrou casos de dengue em 626 munic\u00edpios Freepik A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo informou que registrou 318.996 casos confirmados de dengue e 284 \u00f3bitos pela doen\u00e7a \u2026 [+2182 chars]",
-      "retrievedAt": "2023-12-27 19:05:20.586773",
-      "internal_id": "f1840dfbd4666e1b17849acdc005d996d3964f8b69c0bc5ffd94c3ac06bb1236",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3945,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Tass.ru",
-      "author": "\u0422\u0410\u0421\u0421",
-      "title": "\u0412\u041e\u0417 \u0437\u0430\u044f\u0432\u0438\u043b\u0430, \u0447\u0442\u043e \u043a\u043e\u043d\u0435\u0446 \u0440\u0435\u0436\u0438\u043c\u0430 \u0427\u0421 \u043f\u043e \u043a\u043e\u0432\u0438\u0434\u0443 \u0441\u0442\u0430\u043b\u043e \u043f\u043e\u0432\u043e\u0440\u043e\u0442\u043d\u044b\u043c \u043c\u043e\u043c\u0435\u043d\u0442\u043e\u043c \u0434\u043b\u044f \u043c\u0438\u0440\u0430 \u0432 2023 \u0433\u043e\u0434\u0443",
-      "description": "\u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0422\u0435\u0434\u0440\u043e\u0441 \u0410\u0434\u0430\u043d\u043e\u043c \u0413\u0435\u0431\u0440\u0435\u0439\u0435\u0441\u0443\u0441 \u0441\u0440\u0435\u0434\u0438 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0445 \u0443\u0433\u0440\u043e\u0437 \u0434\u043b\u044f \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u043d\u0430\u0437\u0432\u0430\u043b \u0442\u044f\u0436\u0435\u043b\u044b\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u044f \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u0430 \u0432 \u0413\u0430\u0437\u0435 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0440\u0430\u0439\u043e\u043d\u0430\u0445 \u043c\u0438\u0440\u0430 \u0438 \u0432\u0441\u043f\u044b\u0448\u043a\u0438 \u043c\u0430\u043b\u044f\u0440\u0438\u0438 \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c \u0432 40 \u0441\u0442\u0440\u0430\u043d\u0430\u0445",
-      "url": "https://tass.ru/obschestvo/19631915",
-      "urlToImage": "https://cdn-storage-media.tass.ru/thumb/ru/obschestvo/19631915?u=2023-12-26T12:29:53.626109",
-      "publishedAt": "2023-12-26 12:29:53",
-      "content": ", 26 . //. COVID-19 2023 . () . 12 , . \"2023 , - . - COVID-19 , . , \". \" , \", - . , mpox ( ) \" \". 2023 \" , - , , \". 2023 , . (), , , . , \" 30 \". 28- (COP28), , \" , \". 40 . 2024 , . 2020 5 2\u2026 [+23 chars]",
-      "retrievedAt": "2023-12-27 19:05:22.060824",
-      "internal_id": "500cf8a6cc9c1173e27205a2054cd634c5d5aa5303b625f525340e1e3bc1f48a",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3938,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Livedoor.jp",
-      "author": "news23vip",
-      "title": "\u72c2\u72ac\u75c5\u306e\u4eba\u306e\u6c34\u306e\u98f2\u307f\u65b9\u304c\u30e4\u30d0\u3059\u304e\u308b",
-      "description": "1 \u540d\u524d\uff1a\u540d\u7121\u3057\u3055\u3093\uff20\u304a\u30fc\u3077\u3093[] \u6295\u7a3f\u65e5\uff1a23/12/26(\u706b) 14:40:23 ID:658g \u6016\u3044 Videos of a man infected with rabies demonstrates hydrophobia, which is a symptom of the virus. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitte...",
-      "url": "http://blog.livedoor.jp/news23vip/archives/6098270.html",
-      "urlToImage": "https://livedoor.blogimg.jp/news23vip/imgs/9/8/9800e5a4-s.jpg",
-      "publishedAt": "2023-12-26 09:00:52",
-      "content": "19 [] 23/12/26() 14:44:04 ID:3D6P&gt;&gt;824 [] 23/12/26() 14:45:06 ID:9Lmj&gt;&gt;19 9 [] 23/12/26() 14:42:48 ID:ll52 12 [] 23/12/26() 14:43:15 ID:lF9D&gt;&gt;9100% 15 [] 23/12/26() 14:43:36 ID:j\u2026 [+960 chars]",
-      "retrievedAt": "2023-12-27 19:05:19.838810",
-      "internal_id": "9bbad67d42c29f53d6c88a7d15720174825cb88ab8f40f3424d55a14a9f9fa96",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3944,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "AllAfrica - Top Africa News",
-      "author": null,
-      "title": "World Malaria Report 2023 - a Call for Concerted Action to Address Growing Threats",
-      "description": "[Independent (Kampala)] The World Health Organization's World Malaria Report 2023, released this month, paints a concerning picture of the global state of malaria in 2022. Despite continued efforts, malaria remains a significant public health challenge, with \u2026",
-      "url": "https://allafrica.com/stories/202312260036.html",
-      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2023-12-26 07:25:09",
-      "content": "The World Health Organization's World Malaria Report 2023, released this month, paints a concerning picture of the global state of malaria in 2022. Despite continued efforts, malaria remains a signif\u2026 [+4854 chars]",
-      "retrievedAt": "2023-12-27 19:05:21.354517",
-      "internal_id": "43fdb752e8c6ca8e798230cd45195ecf45650bc3c96fabe9d66d3d0aa6aebfcd",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3937,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Ohmynews.com",
-      "author": "\uc720\ucc3d\uc7ac",
-      "title": "\uc9c8\ubcd1\uccad, \uad6d\ub0b4 '\uc5e0\ud3ed\uc2a4' \ubc1c\uc0dd \uc548\uc815\ud654... \uc77c\ubc18 \ubcd1\uc758\uc6d0 \uc9c4\ub8cc \uac00\ub2a5",
-      "description": "\uc9c0\ub09c\ud574 5\uc6d4 \uad6d\ub0b4 \uc5e0\ud3ed\uc2a4(MPOX\u00b7\uc6d0\uc22d\uc774 \ub450\ucc3d) \uccab \ubc1c\uc0dd \uc774\ud6c4 \uc801\uadf9\uc801\uc778 \ub300\uc751\uc744 \ud55c \uacb0\uacfc, \uc9c0\ub09c 12\uc6d4 \ud55c \ub2ec\uac04 \uc5e0\ud3ed\uc2a4 \ud655\uc9c4\uc790 \uc218\ub294 0\uba85\uc778 \uac83\uc73c\ub85c \ub098\ud0c0\ub098 \ud604\uc7ac \uc0c1\ud669\uc774 \uc548\uc815\ud654\ub85c \uc811\uc5b4\ub4e4\uc5c8\uace0, \uc9c0\uc18d\uc801\uc778 \uac10\uc18c \ucd94\uc138\ub97c \ubcf4\uc774\uace0 \uc788\ub2e4. \uc774\uc5d0 \ubc29\uc5ed \ub2f9\uad6d\uc740 \ub0b4\ub144 1\uc6d4 1\uc77c\ubd80\ud130 \uac10\uc5fc\ubcd1 \ub4f1\uae09\uc744 \uae30\uc874 2\uae09\uc5d0\uc11c 3\uae09\uc73c\ub85c \ud558\ud5a5\uc870\uc815\ud55c\ub2e4. \uc9c8\ubcd1\uad00\ub9ac\uccad(\uccad\uc7a5 \uc9c0\uc601\ubbf8)\uc740 26\uc77c \uc774\uac19\uc774 \uc54c\ub9ac\uba74\uc11c \"\uc5e0\ud3ed\uc2a4 \uad6d\ub0b4 \ub204\uc801 \ud655\uc9c4\ud658\uc790\ub294 \ucd1d 155\uba85\uc73c\ub85c, \uc9c0\ub09c 4\uc6d4 42\uba85, 5\uc6d4 48\uba85 \ucd5c\uace0\uce58\ub97c \uae30\ub85d\ud55c \u2026",
-      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002988778",
-      "urlToImage": "https://ojsfile.ohmynews.com/BIG_IMG_FILE/2023/0509/IE003147945_BIG.JPG",
-      "publishedAt": "2023-12-26 02:44:09",
-      "content": " . 5 (MPOX\u00b7 ) , 12 0 , . 1 1 2 3 . ( ) 26 \" 155, 4 42, 5 48 12 \" . , 4 42 5 48 6 22 7 12 8 9 9 10 10 5 11 2 12 0 \u2026 [+177 chars]",
-      "retrievedAt": "2023-12-27 07:05:45.796907",
-      "internal_id": "0d1e30537a45d29b3478376e833c8a11c79034305c41c89e57c790f54f8df85c",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3934,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Demorgen.be",
-      "author": "Jorn Lelong",
-      "title": "\u2018Belangrijk dat er meer bewustzijn over de ziekte groeit bij ons\u2019: wordt dengue in Europa een blijvertje?",
-      "description": "De Wereldgezondheidsorganisatie waarschuwt voor de toename van \u2018tropische ziekte\u2019 dengue in Europa. Worden dengue-uitbraken in de zomer ook hier ee...",
-      "url": "https://www.demorgen.be/nieuws/belangrijk-dat-er-meer-bewustzijn-over-de-ziekte-groeit-bij-ons-wordt-dengue-in-europa-een-blijvertje~bd863a74/",
-      "urlToImage": "https://img.demorgen.be/e64d3ffee950f1a235b76b33927d0782c5a2ff58/belangrijk-dat-er-meer-bewustzijn-over-de-ziekte-groeit-bij-ons-wordt-dengue-in-europa-een-blijvertje",
-      "publishedAt": "2023-12-26 02:00:04",
-      "content": "Een recordaantal van meer dan vijf miljoen mensen kreeg het afgelopen jaar dengue of knokkelkoorts. Daarmee zet dengue zijn wereldwijde opmars gestaag verder: tussen 2000 en 2019 vertienvoudigde het \u2026 [+2582 chars]",
-      "retrievedAt": "2023-12-27 07:05:44.040405",
-      "internal_id": "a4c4117d654d006310dd718bc69cf14454fdcaf35dd287176bc98171eb5373a9",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3936,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": null,
-      "title": "Learning English Podcast",
-      "description": "On today\u2019s podcast, Rohingya refugees in Malaysia says they are being trapped in dangerous early marriages; Dengue fever is spreading in the Western Hemisphere followed by a discussion about the word \u2018sentinel; then, meet Anna, the star of Let\u2019s Learn English\u2026",
-      "url": "https://learningenglish.voanews.com/a/7393826.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-e785-08db45a50883_w1200_r1.jpg",
-      "publishedAt": "2023-12-26 00:30:00",
-      "content": "On todays podcast, Rohingya refugees in Malaysia says they are being trapped in dangerous early marriages; Dengue fever is spreading in the Western Hemisphere followed by a discussion about the word \u2026 [+79 chars]",
-      "retrievedAt": "2023-12-27 07:05:44.082044",
-      "internal_id": "6674d91c785a87f7425a3f07c5669702319d057ecf47896f6ac78da8d1e4766e",
-      "publishedAtLabel": "Dec 26"
-    },
-    {
-      "id": 3935,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "VOA News",
-      "author": "VOA Learning English",
-      "title": "Millions Infected with Dengue as Temperature Rises",
-      "description": "The disease dengue is spreading across the Western Hemisphere in numbers not seen since record-keeping began in 1980. Experts are warning that rising temperatures and growing cities are increasing the rate of infection.",
-      "url": "https://learningenglish.voanews.com/a/millions-infected-with-dengue-as-temperature-rises/7398706.html",
-      "urlToImage": "https://gdb.voanews.com/01000000-0aff-0242-c907-08dbffd9834e_cx7_cy0_cw86_w1200_r1.jpg",
-      "publishedAt": "2023-12-25 22:05:00",
-      "content": "The disease dengue is spreading across the Western Hemisphere in numbers not seen since record-keeping began in 1980. Experts are warning that rising temperatures and growing cities are increasing th\u2026 [+4216 chars]",
-      "retrievedAt": "2023-12-27 07:05:44.077308",
-      "internal_id": "528d07ff5acbad2bff812d85cf0c95a953b3def3935b86eeb71f6a15423a9ab0",
-      "publishedAtLabel": "Dec 25"
-    },
-    {
-      "id": 3933,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Livedoor.biz",
-      "author": "waranote2",
-      "title": "\u72ac\u306b\u565b\u307e\u308c\u305f\u30a4\u30f3\u30c9\u4eba\u3001\u6c34\u304c\u98f2\u3081\u306a\u304f\u306a\u3063\u3066\u3057\u307e\u3046",
-      "description": "1: \u305d\u308c\u3067\u3082\u52d5\u304f\u540d\u7121\u3057 2023/12/25(\u6708) 20:20:08.78 ID:f+2hiJ+p0XMAS",
-      "url": "http://waranote.livedoor.biz/archives/61111359.html",
-      "urlToImage": "https://livedoor.blogimg.jp/waranote2/imgs/4/2/42e3f029-s.jpg",
-      "publishedAt": "2023-12-25 20:00:24",
-      "content": "Video of a man infected with rabies showing symptoms of hydrophobia. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitter.com/qZZEQ6IGHu \u2014 Fascinating (@fasc1nate) Dec\u2026 [+1521 chars]",
-      "retrievedAt": "2023-12-27 07:05:43.185048",
-      "internal_id": "e9c34c95c1404a2f38b0ddc84ab5fb2b33fab8a891974528fa0cb0df51e20a7a",
-      "publishedAtLabel": "Dec 25"
-    },
-    {
-      "id": 3930,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "2chblog.jp",
-      "author": "funs",
-      "title": "\u72ac\u306b\u565b\u307e\u308c\u305f\u30a4\u30f3\u30c9\u4eba\u3001\u6c34\u304c\u98f2\u3081\u306a\u304f\u306a\u3063\u3066\u3057\u307e\u3046",
-      "description": "1: \u305d\u308c\u3067\u3082\u52d5\u304f\u540d\u7121\u3057 2023/12/25(\u6708) 20:20:08.78 ID:f+2hiJ+p0XMAS Videos of a man infected with rabies demonstrates hydrophobia, which is a symptom of the virus. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitter.com/obM...",
-      "url": "http://gahalog.2chblog.jp/archives/52557987.html",
-      "urlToImage": "https://livedoor.blogimg.jp/funs/imgs/7/1/71d2c0f1.jpg",
-      "publishedAt": "2023-12-25 15:56:19",
-      "content": "Videos of a man infected with rabies demonstrates hydrophobia, which is a symptom of the virus. Once clinical signs of rabies appear, the disease is nearly 100% fatal. pic.twitter.com/obMhuVnku2 \u2014 M\u2026 [+44 chars]",
-      "retrievedAt": "2023-12-26 19:05:20.401366",
-      "internal_id": "764c61f44b40fccd67b4677f8859304b99fde0f4afcf36f4d584c6be9174632e",
-      "publishedAtLabel": "Dec 25"
-    },
-    {
-      "id": 3931,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Por que casos de dengue est\u00e3o se multiplicando na Europa",
-      "description": "Mudan\u00e7as clim\u00e1ticas s\u00e3o um dos fatores que contribuem para aumento dos casos da doen\u00e7a; OMS alertou que dengue tem se espalhado para pa\u00edses onde historicamente n\u00e3o circulava.",
-      "url": "https://www.bbc.com/portuguese/articles/crgj2de70r5o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/4158/live/86d92010-a048-11ee-b9a7-c91b9dfa91e5.jpg",
-      "publishedAt": "2023-12-25 09:52:54",
-      "content": "Cr\u00e9dito, Reuters Legenda da foto, Mudan\u00e7as clim\u00e1ticas s\u00e3o apontadas como um dos fatores que contribuem para multiplica\u00e7\u00e3o de casos de dengue na Europa Article informationAuthor, Raimundo Se\u2026 [+6399 chars]",
-      "retrievedAt": "2023-12-26 19:05:21.194040",
-      "internal_id": "8df5dbd6fbf329533fce467edff9a4acf836952c817db9e5a913feff7537effb",
-      "publishedAtLabel": "Dec 25"
-    },
-    {
-      "id": 3932,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "The school that relocated 200 miles to the Ceredigion seaside",
-      "description": "After typhoid ravaged a school, the head teacher decided to do something drastic.",
-      "url": "https://www.bbc.co.uk/news/uk-wales-67725871",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0518/production/_132140310_borth1.jpg",
-      "publishedAt": "2023-12-25 08:43:14",
-      "content": "The seaside village of Borth is probably best known for its three-mile long sandy beach, the longest in Ceredigion. What is lesser known is its unlikely bond with a public school in the midlands. \u2026 [+5239 chars]",
-      "retrievedAt": "2023-12-26 19:05:23.292429",
-      "internal_id": "34315e0c988e538d68aba741da5a91a28f945b05c8728fa3dd1e1182cd68dad2",
-      "publishedAtLabel": "Dec 25"
-    },
-    {
-      "id": 3929,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "FRANCE 24 English",
-      "author": "Cyrielle CABOT",
-      "title": "Of love letters and distant galaxies: Uplifting stories from 2023",
-      "description": "It was a turbulent year from start to end, but 2023 was not just about devastating wars, natural disasters and the cost-of-living crisis. The past 12 months also saw the approval of a revolutionary new malaria vaccine, a sharp drop in the deforestation of the\u2026",
-      "url": "https://www.france24.com/en/europe/20231225-of-love-letters-and-distant-galaxies-uplifting-stories-from-2023",
-      "urlToImage": "https://s.france24.com/media/display/1ee97f3e-a0ae-11ee-aa18-005056bf30b7/w:1280/p:16x9/retro-bonnes-nouvelles-EN.jpg",
-      "publishedAt": "2023-12-25 05:54:20",
-      "content": "It was a turbulent year from start to end, but 2023 was not just about devastating wars, natural disasters and the cost-of-living crisis. The past 12 months also saw the approval of a revolutionary n\u2026 [+9358 chars]",
-      "retrievedAt": "2023-12-26 07:05:42.815132",
-      "internal_id": "35ad73ea291d58feea1b5e5f9d13a9bd512fbdac11d9b2e00b54d19068be41c6",
-      "publishedAtLabel": "Dec 25"
     }
   ]
 }
