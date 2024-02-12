@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2024-02-11 19:06
-- **Most recent article:** 2024-02-10 18:40:32
+- **New articles in last harvest:** 34
+- **Last harvest:** 2024-02-12 07:06
+- **Most recent article:** 2024-02-11 05:00:00
 
 ---
 
@@ -10,26 +10,40 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | Total |
-|--|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 169 | 617 |
-| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 265 |
-| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 235 |
-| zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 51 |
-| chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 40 |
-| rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 36 |
-| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 31 |
-| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 24 |
-| pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 19 |
-| sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 12 |
-| typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 7 |
-| yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 6 |
-| leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 4 |
+| Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 199 | 1 | 648 |
+| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 2 | 268 |
+| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 0 | 236 |
+| zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 0 | 51 |
+| chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 0 | 40 |
+| rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 0 | 36 |
+| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 0 | 31 |
+| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 0 | 24 |
+| pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 0 | 19 |
+| sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 1 | 13 |
+| typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 0 | 7 |
+| yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 0 | 6 |
+| leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 24-7 (sarampión)
+
+- [Aumenta el sarampión y no sé si estoy vacunado: ¿Qué debo hacer?](https://www.elmundo.es/ciencia-y-salud/salud/2024/02/11/65c5ffafe9cf4a59128b45be.html) (El Mundo)
+
+## 24-7 (measles)
+
+- [TWiV 1087: Should old infections be forgot](https://www.microbe.tv/twiv/twiv-1087/) (Microbe.tv)
+
+- [Public Health Dayton and Mont. Co. open Measles vaccine clinic | WKEF](https://dayton247now.com/news/local/public-health-dayton-and-mont-co-open-measles-vaccine-clinic) (Dayton 24/7 Now)
+
+## 24-7 (dengue)
+
+- [Dengue: 408 mil casos são confirmados pelo Ministério da Saúde](https://ultimosegundo.ig.com.br/brasil/2024-02-10/numero-de-casos-de-dengue-brasil.html) (Ig.com.br)
 
 ## 24-6 (zika)
 
@@ -347,6 +361,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-6 (dengue)
 
+- [DF vacina 6.941 contra a dengue nos dois primeiros dias de campanha](https://www.metropoles.com/distrito-federal/df-vacina-6-941-contra-a-dengue-nos-dois-primeiros-dias-de-campanha) (Metropoles.com)
+
+- [BBB 24: Davi precisa de ajuda médica e brothers suspeitam de dengue](https://www.metropoles.com/entretenimento/bbb/bbb-24-davi-precisa-de-ajuda-medica-e-brothers-suspeitam-de-dengue) (Metropoles.com)
+
+- [Tacuarembó: joven de 14 años está internado en CTI por posible dengue tras ida a Cataratas](https://www.montevideo.com.uy/Salud/Tacuarembo-joven-de-14-anos-esta-internado-en-CTI-por-posible-dengue-tras-ida-a-Cataratas-uc879312) (Montevideo.com.uy)
+
+- [Dengue: com 75 mil crianças de 10 a 11 anos, DF recebeu 71 mil vacinas](https://www.metropoles.com/distrito-federal/dengue-com-75-mil-criancas-de-10-a-11-anos-df-recebeu-71-mil-vacinas) (Metropoles.com)
+
+- [Covid ou dengue? Saiba como diferenciar os sintomas em crianças](https://www.metropoles.com/saude/covid-dengue-sintomas-em-criancas) (Metropoles.com)
+
+- [Famílias chegam cedo a UBSs do DF para vacinar crianças contra dengue](https://www.metropoles.com/distrito-federal/familias-chegam-cedo-a-ubss-do-df-para-vacinar-criancas-contra-dengue) (Metropoles.com)
+
 - [Dengue: vacinação em GO começará por crianças de 10 e 11 anos](https://www.metropoles.com/brasil/dengue-vacinacao-em-go-comecara-por-criancas-de-10-e-11-anos) (Metropoles.com)
 
 - [Folia e combate à dengue: veja onde terá vacina no sábado de Carnaval](https://www.metropoles.com/distrito-federal/folia-e-combate-a-dengue-veja-onde-tera-vacina-no-sabado-de-carnaval) (Metropoles.com)
@@ -357,13 +383,23 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue: procura por repelentes aumenta 120% em fevereiro no Brasil](https://www.metropoles.com/brasil/dengue-procura-por-repelentes-aumenta-120-em-fevereiro-no-brasil) (Metropoles.com)
 
+- [DF imuniza 3.633 crianças no primeiro dia de vacinação contra dengue](https://www.metropoles.com/distrito-federal/df-imuniza-3-633-criancas-no-primeiro-dia-de-vacinacao-contra-dengue) (Metropoles.com)
+
 - [Brasil ultrapassa 400 mil casos prováveis de dengue](https://www.metropoles.com/brasil/brasil-ultrapassa-400-mil-casos-provaveis-de-dengue) (Metropoles.com)
 
+- [Brésil: une campagne de vaccination contre la dengue lancée après une explosion du nombre de cas](https://www.bfmtv.com/international/amerique-latine/bresil/bresil-une-campagne-de-vaccination-contre-la-dengue-lancee-apres-une-explosion-du-nombre-de-cas_AD-202402090894.html) (BFMTV)
+
 - [Brasil soma 62 mortes por dengue, aponta ministério](https://jornaldebrasilia.com.br/noticias/brasil/brasil-soma-62-mortes-por-dengue-aponta-ministerio/) (Jornaldebrasilia.com.br)
+
+- [Brasil pode bater recorde e ter 4,2 milhões de casos de dengue em 2024](https://www.metropoles.com/brasil/brasil-pode-bater-recorde-e-ter-42-milhoes-de-casos-de-dengue-em-2024) (Metropoles.com)
+
+- [Sob gestão do Iges-DF, Hospital Cidade Sol tem 27 pacientes com dengue](https://www.metropoles.com/distrito-federal/sob-gestao-do-iges-df-hospital-cidade-sol-tem-27-pacientes-com-dengue) (Metropoles.com)
 
 - [Začíná karneval v Riu, čeká sedm milionů lidí a bojí se horečky dengue](https://www.idnes.cz/zpravy/zahranicni/karneval-rio-de-janeiro-sedm-milionu-lidi-horecka.A240209_212414_zahranicni_pukk) (Idnes.cz)
 
 - [Por que as crianças e adolescentes são prioridade na vacinação da dengue?](https://veja.abril.com.br/saude/por-que-as-criancas-e-adolescentes-sao-prioridade-na-vacinacao-da-dengue) (Abril.com.br)
+
+- [SP confirma mais 3 mortes por dengue e total de vítimas sobe para 9](https://www.metropoles.com/sao-paulo/sp-confirma-mais-3-mortes-dengue-total-sobe-9) (Metropoles.com)
 
 - [OMS manifesta preocupação com a propagação da dengue no Brasil](https://observador.pt/2024/02/09/oms-manifesta-preocupacao-com-a-propagacao-da-dengue-no-brasil/) (Observador.pt)
 
@@ -371,15 +407,25 @@ Source: [News API](https://newsapi.org/)
 
 - [O que El Niño tem a ver com dengue? Professor da USP explica](https://olhardigital.com.br/2024/02/09/medicina-e-saude/professor-da-usp-explica-o-que-el-nino-tem-a-ver-com-dengue/) (Olhardigital.com.br)
 
+- [Veja quantas vacinas contra dengue cada uma das 315 cidades recebeu](https://www.metropoles.com/brasil/veja-quantas-vacinas-contra-dengue-cada-municipio-favorecido-recebeu) (Metropoles.com)
+
 - [Rio de Janeiro atento a aumento de casos de dengue nos turistas internacionais no Carnaval](https://observador.pt/2024/02/09/rio-de-janeiro-atento-a-aumento-de-casos-de-dengue-nos-turistas-internacionais-no-carnaval-2/) (Observador.pt)
 
 - [Dengue: médica orienta como usar repelente em bebês e crianças](https://www.metropoles.com/saude/dengue-medica-orienta-como-usar-repelente-em-bebes-e-criancas) (Metropoles.com)
 
+- [Crise da dengue faz GDF autorizar entrada de repelente nas cadeias](https://www.metropoles.com/distrito-federal/crise-da-dengue-faz-df-autorizar-entrada-de-repelente-nas-cadeias) (Metropoles.com)
+
 - [Luta contra a dengue deve centra-se na eliminação do mosquito transmissor](https://observador.pt/2024/02/09/luta-contra-a-dengue-deve-centra-se-na-eliminacao-do-mosquito-transmissor/) (Observador.pt)
+
+- [Servidores de Anápolis (GO) se unem na guerra contra a dengue](https://www.metropoles.com/brasil/servidores-de-anapolis-go-se-unem-na-guerra-contra-a-dengue) (Metropoles.com)
+
+- [Dengue: agentes de Aparecida (GO) eliminam mais de 5 mil focos](https://www.metropoles.com/brasil/dengue-agentes-de-aparecida-go-eliminam-mais-de-5-mil-focos) (Metropoles.com)
 
 - [OMS, preocupada por brotes de dengue en Latinoamérica, especialmente en Brasil](https://www.forbes.com.mx/oms-preocupada-por-brotes-de-dengue-en-latinoamerica-especialmente-en-brasil/) (Forbes.com.mx)
 
 - [Saiba quem não pode tomar a vacina da dengue no SUS](https://www.metropoles.com/saude/quem-nao-pode-tomar-vacina-dengue) (Metropoles.com)
+
+- [Telhas e entulho: entorno de UBS é propício para o mosquito da dengue](https://www.metropoles.com/distrito-federal/telhas-e-entulho-entorno-de-ubs-e-propicio-para-o-mosquito-da-dengue) (Metropoles.com)
 
 - [“Momento histórico”, diz ministra da Saúde sobre vacina contra dengue](https://www.metropoles.com/distrito-federal/momento-historico-diz-ministra-da-saude-sobre-vacina-contra-dengue) (Metropoles.com)
 
@@ -387,9 +433,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Rio de Janeiro atento a aumento de casos de dengue nos turistas internacionais no Carnaval](https://observador.pt/2024/02/09/rio-de-janeiro-atento-a-aumento-de-casos-de-dengue-nos-turistas-internacionais-no-carnaval/) (Observador.pt)
 
+- [Dengue: Saúde quer concluir imunização de 10 e 11 anos até março](https://www.metropoles.com/brasil/dengue-saude-quer-concluir-imunizacao-de-10-e-11-anos-ate-marco) (Metropoles.com)
+
+- [Laudo do Adolfo Lutz confirma 1ª morte por dengue na capital](https://www.metropoles.com/sao-paulo/laudo-do-adolfo-lutz-confirma-1a-morte-por-dengue-na-capital) (Metropoles.com)
+
 - [Vacinação de crianças contra a dengue começa com filas no DF](https://www.metropoles.com/distrito-federal/vacinacao-de-criancas-contra-a-dengue-comeca-com-filas-no-df) (Metropoles.com)
 
 - [Saúde muda projeção e diz que país pode ter 4,2 milhões de casos de dengue em 2024](https://jornaldebrasilia.com.br/noticias/saude/saude-muda-projecao-e-diz-que-pais-pode-ter-42-milhoes-de-casos-de-dengue-em-2024/) (Jornaldebrasilia.com.br)
+
+- [Com epidemia de dengue, Rio tem mutirão contra mosquito e disparada na venda de repelentes](https://jornaldebrasilia.com.br/noticias/brasil/com-epidemia-de-dengue-rio-tem-mutirao-contra-mosquito-e-disparada-na-venda-de-repelentes/) (Jornaldebrasilia.com.br)
 
 - [Tem filho de 10 ou 11 anos? Veja onde vacinar contra a dengue nesta 6ª](https://www.metropoles.com/distrito-federal/tem-filho-de-10-ou-11-anos-veja-onde-vacinar-contra-a-dengue-nesta-6a) (Metropoles.com)
 
@@ -401,11 +453,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Quem teve dengue pode tomar vacina quando? Imunização começa nesta 6ª](https://www.metropoles.com/distrito-federal/quem-teve-dengue-pode-tomar-vacina-quando-imunizacao-comeca-nesta-6a) (Metropoles.com)
 
+- [Dengue: vacinação no DF começa nesta 6ª para crianças de 10 e 11 anos](https://www.metropoles.com/colunas/grande-angular/dengue-vacinacao-no-df-comeca-nesta-6a-para-criancas-de-10-e-11-anos) (Metropoles.com)
+
 - [In broeierig Brazilië grijpt het dengue-virus om zich heen](https://www.nrc.nl/nieuws/2024/02/08/in-broeierig-brazilie-grijpt-dengue-om-zich-heen-a4189627) (Www.nrc.nl)
 
 - [Com dengue em alta, Fiocruz dobra produção de testes para diagnóstico](https://veja.abril.com.br/saude/com-dengue-em-alta-fiocruz-dobra-producao-de-testes-para-diagnostico) (Abril.com.br)
 
+- [Dengue: DF não tem previsão para chegada de mais vacinas, diz Celina](https://www.metropoles.com/distrito-federal/dengue-df-nao-tem-previsao-para-chegada-de-mais-vacinas-diz-celina) (Metropoles.com)
+
 - [DF pode ter público de vacina contra dengue reduzido para 10 a 11 anos](https://www.metropoles.com/colunas/grande-angular/df-pode-ter-publico-de-vacina-contra-dengue-reduzido-para-10-a-11-anos) (Metropoles.com)
+
+- [Portaria do GDF vai convocar 600 jovens para trabalhar contra dengue](https://www.metropoles.com/colunas/grande-angular/portaria-do-gdf-vai-convocar-600-jovens-para-trabalhar-contra-dengue) (Metropoles.com)
 
 - [DF recebe só 71 mil doses de vacina contra dengue, 36% do previsto](https://www.metropoles.com/colunas/grande-angular/df-recebe-so-71-mil-doses-de-vacina-contra-dengue-36-do-previsto) (Metropoles.com)
 
@@ -415,7 +473,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Aparecida (GO) promove atualização sobre dengue para médicos](https://www.metropoles.com/brasil/aparecida-go-promove-atualizacao-sobre-dengue-para-medicos) (Metropoles.com)
 
+- [Prefeitura de SP nega morte por dengue e investiga erro de notificação](https://www.metropoles.com/sao-paulo/prefeitura-sp-nega-morte-por-dengue) (Metropoles.com)
+
+- [Dengue: hospital de campanha tem média de mil atendimentos por dia](https://www.metropoles.com/distrito-federal/dengue-hospital-de-campanha-tem-media-de-mil-atendimentos-por-dia) (Metropoles.com)
+
 - [Dengue em SP: capital registra 1ª morte por doença no ano](https://www.metropoles.com/sao-paulo/dengue-em-sp-capital-registra-1a-morte-por-doenca-no-ano) (Metropoles.com)
+
+- [Após diagnóstico de dengue, sertanejo Zé Neto atualiza estado de saúde](https://www.metropoles.com/celebridades/apos-diagnostico-de-dengue-sertanejo-ze-neto-atualiza-estado-de-saude) (Metropoles.com)
 
 - [Dengue Fever: What You Need To Know About The Mosquito-Borne Threat Surging Worldwide](https://www.forbes.com/sites/roberthart/2024/02/08/dengue-fever-what-you-need-to-know-about-the-mosquito-borne-threat-surging-worldwide/) (Forbes)
 
@@ -424,6 +488,16 @@ Source: [News API](https://newsapi.org/)
 - [Dengue-Fieber überschattet Karneval in Rio de Janeiro](https://www.welt.de/vermischtes/video249978168/Brasilien-Dengue-Fieber-ueberschattet-Karneval-in-Rio-de-Janeiro.html) (DIE WELT)
 
 - [Ţara ce a declarat stare de urgenţă din cauza ţânţarilor](https://www.mediafax.ro/social/tara-ce-a-declarat-stare-de-urgenta-din-cauza-tantarilor-22257755) (Mediafax.ro)
+
+- [Epidemia de dengue se espalha por SP e cidades decretam emergência](https://www.metropoles.com/sao-paulo/dengue-sp-cidades-decretam-emergencia) (Metropoles.com)
+
+- [GDF entrará em 79 prédios para furar lajes e eliminar focos da dengue](https://www.metropoles.com/colunas/grande-angular/gdf-entrara-em-79-predios-para-furar-lajes-e-eliminar-focos-da-dengue) (Metropoles.com)
+
+- [Monitora de escola pública espalha fake news sobre “cura da dengue”](https://www.metropoles.com/distrito-federal/monitora-de-escola-publica-espalha-fake-news-sobre-cura-da-dengue) (Metropoles.com)
+
+- [Em crise com dengue, DF registra aumento de 60% na venda de repelentes](https://www.metropoles.com/distrito-federal/em-crise-com-dengue-df-registra-aumento-de-60-na-venda-de-repelentes) (Metropoles.com)
+
+- [Repelente, protetor, hidratante? Qual é a ordem para afastar a dengue?](https://www.metropoles.com/saude/dengue-saiba-ordem-para-aplicar-repelente) (Metropoles.com)
 
 - [Cidade do Rio confirma primeira morte por dengue em 2024](https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila/post/2024/02/07/rio-confirma-primeira-morte-por-dengue.ghtml) (Globo)
 
@@ -2865,6 +2939,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
+## 23-53 (measles)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
+
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
