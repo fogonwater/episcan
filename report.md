@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 34
-- **Last harvest:** 2024-02-12 07:06
-- **Most recent article:** 2024-02-11 05:00:00
+- **New articles in last harvest:** 4
+- **Last harvest:** 2024-02-12 19:05
+- **Most recent article:** 2024-02-11 14:14:30
 
 ---
 
@@ -12,9 +12,9 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 199 | 1 | 648 |
-| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 2 | 268 |
-| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 0 | 236 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 199 | 3 | 650 |
+| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 3 | 268 |
+| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 1 | 236 |
 | zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 0 | 51 |
 | chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 0 | 40 |
 | rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 0 | 36 |
@@ -37,11 +37,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (measles)
 
+- [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
+
 - [TWiV 1087: Should old infections be forgot](https://www.microbe.tv/twiv/twiv-1087/) (Microbe.tv)
 
 - [Public Health Dayton and Mont. Co. open Measles vaccine clinic | WKEF](https://dayton247now.com/news/local/public-health-dayton-and-mont-co-open-measles-vaccine-clinic) (Dayton 24/7 Now)
 
+## 24-7 (malaria)
+
+- [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
+
 ## 24-7 (dengue)
+
+- [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
+
+- [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
 
 - [Dengue: 408 mil casos são confirmados pelo Ministério da Saúde](https://ultimosegundo.ig.com.br/brasil/2024-02-10/numero-de-casos-de-dengue-brasil.html) (Ig.com.br)
 
@@ -2939,12 +2949,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
-## 23-53 (measles)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
-
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
