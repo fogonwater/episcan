@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2024-02-12 19:05
-- **Most recent article:** 2024-02-11 14:14:30
+- **New articles in last harvest:** 23
+- **Last harvest:** 2024-02-13 07:06
+- **Most recent article:** 2024-02-12 02:30:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 199 | 3 | 650 |
-| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 3 | 268 |
-| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 1 | 236 |
-| zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 0 | 51 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 211 | 11 | 670 |
+| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 4 | 270 |
+| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 1 | 237 |
+| zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 1 | 52 |
 | chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 0 | 40 |
 | rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 0 | 36 |
-| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 0 | 31 |
+| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 1 | 32 |
 | mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 0 | 24 |
 | pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 0 | 19 |
 | sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 1 | 13 |
@@ -31,11 +31,21 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 24-7 (zika)
+
+- [Web enlouquece com lesão de Pedro Raul, do Corinthians: 'Sai, zika'](  https://www.lance.com.br/corinthians/web-enlouquece-com-lesao-de-pedro-raul-do-corinthians-sai-zika.html ) (Lance.com.br)
+
 ## 24-7 (sarampión)
 
 - [Aumenta el sarampión y no sé si estoy vacunado: ¿Qué debo hacer?](https://www.elmundo.es/ciencia-y-salud/salud/2024/02/11/65c5ffafe9cf4a59128b45be.html) (El Mundo)
 
+## 24-7 (meningitis)
+
+- [Luis Canut reaparece mostrando su vida actual y hace una declaración de amor a Patricia Pérez](https://www.europapress.es/chance/gente/noticia-luis-canut-reaparece-mostrando-vida-actual-hace-declaracion-amor-patricia-perez-20240211223214.html) (Europapress.es)
+
 ## 24-7 (measles)
+
+- [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
 - [Measles found in Haifa boy, linked to two cases reported earlier this month](https://www.jpost.com/breaking-news/article-786269) (The Jerusalem Post)
 
@@ -49,9 +59,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (dengue)
 
+- [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
+
+- [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
+
 - [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
 
+- [BBB 24: saúde de Davi, ameaça de desistência e choro agitam manhã](https://gente.ig.com.br/bbb/2024-02-11/bbb-24-resumo-saude-de-davi-ameaca-de-desistencia-e-choro-agitam-manha.html) (Ig.com.br)
+
+- [Número de mortes por dengue em SP sobe para 9](https://saude.ig.com.br/2024-02-11/dengue-numero-de-mortes-em-sao-paulo.html) (Ig.com.br)
+
+- [Brasil tem 408 mil casos prováveis de dengue em 2024](https://saude.ig.com.br/2024-02-11/dengue-numero-de-casos.html) (Ig.com.br)
+
+- [Dengue: Número de casos no país chega a 408 mil, segundo Ministério da Saúde](https://valor.globo.com/brasil/noticia/2024/02/11/dengue-numero-de-casos-no-pais-chega-a-408-mil-segundo-ministerio-da-saude.ghtml) (Globo)
+
 - [Dengue no Brasil: Mais de 60 mortes e 405 mil casos prováveis](https://noticias.r7.com/brasil/revista-oeste/dengue-no-brasil-mais-de-60-mortes-e-405-mil-casos-provaveis-11022024) (R7.com)
+
+- [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
+
+- [El regreso del dengue](https://www.lanacion.com.ar/editoriales/el-regreso-del-dengue-nid11022024/) (La Nacion)
 
 - [Dengue: 408 mil casos são confirmados pelo Ministério da Saúde](https://ultimosegundo.ig.com.br/brasil/2024-02-10/numero-de-casos-de-dengue-brasil.html) (Ig.com.br)
 
@@ -373,11 +399,15 @@ Source: [News API](https://newsapi.org/)
 
 - [DF vacina 6.941 contra a dengue nos dois primeiros dias de campanha](https://www.metropoles.com/distrito-federal/df-vacina-6-941-contra-a-dengue-nos-dois-primeiros-dias-de-campanha) (Metropoles.com)
 
+- [BBB | Davi recebe atendimento médico e levanta suspeitas de dengue](https://www.terra.com.br/diversao/tv/reality-shows/bbb-davi-recebe-atendimento-medico-e-levanta-suspeitas-de-dengue,7a6e2755d24ce0901f128a57728c192f7bkxeqhm.html) (Terra.com.br)
+
 - [BBB 24: Davi precisa de ajuda médica e brothers suspeitam de dengue](https://www.metropoles.com/entretenimento/bbb/bbb-24-davi-precisa-de-ajuda-medica-e-brothers-suspeitam-de-dengue) (Metropoles.com)
 
 - [Tacuarembó: joven de 14 años está internado en CTI por posible dengue tras ida a Cataratas](https://www.montevideo.com.uy/Salud/Tacuarembo-joven-de-14-anos-esta-internado-en-CTI-por-posible-dengue-tras-ida-a-Cataratas-uc879312) (Montevideo.com.uy)
 
 - [Dengue: com 75 mil crianças de 10 a 11 anos, DF recebeu 71 mil vacinas](https://www.metropoles.com/distrito-federal/dengue-com-75-mil-criancas-de-10-a-11-anos-df-recebeu-71-mil-vacinas) (Metropoles.com)
+
+- [Terceira vítima fatal por dengue no RS: mulher de 71 anos morre em Santa Rosa](https://www.terra.com.br/vida-e-estilo/saude/terceira-vitima-fatal-por-dengue-no-rs-mulher-de-71-anos-morre-em-santa-rosa,f9a7d654337696ed94b51c434703314cuejni7fh.html) (Terra.com.br)
 
 - [Covid ou dengue? Saiba como diferenciar os sintomas em crianças](https://www.metropoles.com/saude/covid-dengue-sintomas-em-criancas) (Metropoles.com)
 
@@ -413,6 +443,12 @@ Source: [News API](https://newsapi.org/)
 
 - [OMS manifesta preocupação com a propagação da dengue no Brasil](https://observador.pt/2024/02/09/oms-manifesta-preocupacao-com-a-propagacao-da-dengue-no-brasil/) (Observador.pt)
 
+- [Ministério da Saúde prevê 4,2 milhões de casos de dengue em 2024](https://saude.ig.com.br/2024-02-09/ministerio-da-saude-4-milhoes-de-casos-de-dengue.html) (Ig.com.br)
+
+- [Pets podem ter dengue e desenvolver doença no coração se forem picados pelo mosquito](https://www.terra.com.br/vida-e-estilo/pets/pets-podem-ter-dengue-e-desenvolver-doenca-no-coracao-se-forem-picados-pelo-mosquito,9ae9bf2fdb734a0179a5f094efac72c13qd97qdj.html) (Terra.com.br)
+
+- [Dengue: 'Se pudéssemos, compraríamos mais', diz Nísia sobre vacinas](https://saude.ig.com.br/2024-02-09/nisia-trindade-diz-que-governo-compraria-mais-vacinas-anti-dengue-se-fosse-possivel.html) (Ig.com.br)
+
 - [Dengue: Brasil pode ultrapassar 4 milhões de casos; vacinas já estão chegando aos estados](https://olhardigital.com.br/2024/02/09/medicina-e-saude/dengue-brasil-pode-ultrapassar-4-milhoes-de-casos-vacinas-ja-estao-chegando-aos-estados/) (Olhardigital.com.br)
 
 - [O que El Niño tem a ver com dengue? Professor da USP explica](https://olhardigital.com.br/2024/02/09/medicina-e-saude/professor-da-usp-explica-o-que-el-nino-tem-a-ver-com-dengue/) (Olhardigital.com.br)
@@ -425,7 +461,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Crise da dengue faz GDF autorizar entrada de repelente nas cadeias](https://www.metropoles.com/distrito-federal/crise-da-dengue-faz-df-autorizar-entrada-de-repelente-nas-cadeias) (Metropoles.com)
 
+- [80% dos hospitais privados de SP registram aumento de internações por dengue, aponta levantamento](https://www.terra.com.br/vida-e-estilo/saude/80-dos-hospitais-privados-de-sp-registram-aumento-de-internacoes-por-dengue-aponta-levantamento,e81e9c2ded4437578e9c562122e64588ex4z80fm.html) (Terra.com.br)
+
 - [Luta contra a dengue deve centra-se na eliminação do mosquito transmissor](https://observador.pt/2024/02/09/luta-contra-a-dengue-deve-centra-se-na-eliminacao-do-mosquito-transmissor/) (Observador.pt)
+
+- [Brasil pode registrar 4,2 milhões de casos de dengue](https://www.terra.com.br/noticias/brasil/brasil-pode-registrar-42-milhoes-de-casos-de-dengue,cd4c2e41ff998fe5ac3e16628c25ac71k8wsvkup.html) (Terra.com.br)
 
 - [Servidores de Anápolis (GO) se unem na guerra contra a dengue](https://www.metropoles.com/brasil/servidores-de-anapolis-go-se-unem-na-guerra-contra-a-dengue) (Metropoles.com)
 
@@ -441,7 +481,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue em SP: internações aumentam 80% em hospitais particulares](https://www.metropoles.com/sao-paulo/dengue-em-sp-internacoes-aumentam-80-em-hospitais-particulares) (Metropoles.com)
 
+- [Dengue: Brasil deve ter 4,2 milhões de casos em 2024, prevê Ministério](https://saude.ig.com.br/2024-02-09/dengue-numero-de-casos-2024.html) (Ig.com.br)
+
 - [Rio de Janeiro atento a aumento de casos de dengue nos turistas internacionais no Carnaval](https://observador.pt/2024/02/09/rio-de-janeiro-atento-a-aumento-de-casos-de-dengue-nos-turistas-internacionais-no-carnaval/) (Observador.pt)
+
+- [Vendas de repelentes e inseticidas fecham 2023 em alta com aumento de casos de dengue](https://www.terra.com.br/noticias/brasil/vendas-de-repelentes-e-inseticidas-fecham-2023-em-alta-com-aumento-de-casos-de-dengue,6fdaf4112bfdab00338eff7c3f1b0fd8j0ralqj0.html) (Terra.com.br)
 
 - [Dengue: Saúde quer concluir imunização de 10 e 11 anos até março](https://www.metropoles.com/brasil/dengue-saude-quer-concluir-imunizacao-de-10-e-11-anos-ate-marco) (Metropoles.com)
 
@@ -451,13 +495,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Saúde muda projeção e diz que país pode ter 4,2 milhões de casos de dengue em 2024](https://jornaldebrasilia.com.br/noticias/saude/saude-muda-projecao-e-diz-que-pais-pode-ter-42-milhoes-de-casos-de-dengue-em-2024/) (Jornaldebrasilia.com.br)
 
+- [Dengue: crianças de 10 a 11 anos são as primeiras a receber vacina](https://saude.ig.com.br/2024-02-09/dengue--criancas-de-10-a-11-anos-sao-as-primeiras-a-vacinar.html) (Ig.com.br)
+
 - [Com epidemia de dengue, Rio tem mutirão contra mosquito e disparada na venda de repelentes](https://jornaldebrasilia.com.br/noticias/brasil/com-epidemia-de-dengue-rio-tem-mutirao-contra-mosquito-e-disparada-na-venda-de-repelentes/) (Jornaldebrasilia.com.br)
+
+- [Pets e Dengue: Entenda os riscos da picada de mosquito para cães e gatos](https://delas.ig.com.br/parceiros/selecoes/2024-02-09/pets-e-dengue--entenda-os-riscos-da-picada-de-mosquito-para-caes-e-gatos.html) (Ig.com.br)
 
 - [Tem filho de 10 ou 11 anos? Veja onde vacinar contra a dengue nesta 6ª](https://www.metropoles.com/distrito-federal/tem-filho-de-10-ou-11-anos-veja-onde-vacinar-contra-a-dengue-nesta-6a) (Metropoles.com)
 
 - [Estados começam a receber vacina contra a dengue](https://valor.globo.com/brasil/noticia/2024/02/08/estados-comeam-a-receber-vacina-contra-a-dengue.ghtml) (Globo)
 
 - [DF e GO são os primeiros a receberem as vacinas contra a dengue](https://www.metropoles.com/brasil/df-e-go-sao-os-primeiros-a-receberem-as-vacinas-contra-a-dengue) (Metropoles.com)
+
+- [Levantamento indica que 13% dos testados para dengue em janeiro estavam infectados](https://valor.globo.com/brasil/noticia/2024/02/08/levantamento-indica-que-13percent-dos-testados-para-dengue-em-janeiro-estavam-infectados.ghtml) (Globo)
 
 - [Fiocruz dobra produção de testes de dengue a pedido da Saúde](https://www.metropoles.com/brasil/fiocruz-dobra-producao-de-testes-de-dengue-a-pedido-da-saude) (Metropoles.com)
 
@@ -2949,6 +2999,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
+## 23-53 (measles)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
+
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
