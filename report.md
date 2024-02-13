@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-02-13 07:06
-- **Most recent article:** 2024-02-12 02:30:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2024-02-13 19:05
+- **Most recent article:** 2024-02-12 18:57:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 211 | 11 | 670 |
-| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 4 | 270 |
-| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 1 | 237 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 211 | 25 | 684 |
+| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 5 | 270 |
+| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 2 | 237 |
 | zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 1 | 52 |
 | chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 0 | 40 |
 | rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 0 | 36 |
 | meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 1 | 32 |
-| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 0 | 24 |
+| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 1 | 25 |
 | pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 0 | 19 |
 | sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 1 | 13 |
 | typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 0 | 7 |
@@ -39,11 +39,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Aumenta el sarampión y no sé si estoy vacunado: ¿Qué debo hacer?](https://www.elmundo.es/ciencia-y-salud/salud/2024/02/11/65c5ffafe9cf4a59128b45be.html) (El Mundo)
 
+## 24-7 (mpox)
+
+- [What To Know About Alaskapox After Officials Confirm First Death From Recently Discovered Virus](https://www.forbes.com/sites/roberthart/2024/02/12/what-to-know-about-alaskapox-after-officials-confirm-first-death-from-recently-discovered-virus/) (Forbes)
+
 ## 24-7 (meningitis)
 
 - [Luis Canut reaparece mostrando su vida actual y hace una declaración de amor a Patricia Pérez](https://www.europapress.es/chance/gente/noticia-luis-canut-reaparece-mostrando-vida-actual-hace-declaracion-amor-patricia-perez-20240211223214.html) (Europapress.es)
 
 ## 24-7 (measles)
+
+- [Why are measles cases popping up across the United States?](https://www.abc15.com/news/health/why-are-measles-cases-popping-up-across-us-heres-what-to-know-about-the-highly-contagious-virus) (ABC15 Arizona)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
 
@@ -55,9 +61,39 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (malaria)
 
+- [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
+
 - [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (dengue)
+
+- [Ministerio de Perú informa que existen 117 distritos con transmisión activa de dengue](https://sputniknews.lat/20240212/ministerio-de-peru-informa-que-existen-117-distritos-con-transmision-activa-de-dengue-1148180770.html) (Sputniknews.lat)
+
+- [Dengue: vacinação de crianças de 10 e 11 anos continua neste feriado](https://www.metropoles.com/distrito-federal/dengue-vacinacao-de-criancas-de-10-e-11-anos-continua-neste-feriado) (Metropoles.com)
+
+- [Dengue pode se manifestar nos olhos; conheça os sintomas](https://www.terra.com.br/vida-e-estilo/saude/dengue-pode-se-manifestar-nos-olhos-conheca-os-sintomas,929dbfee60985a29523adfd78497152ewcurwgkz.html) (Terra.com.br)
+
+- [Le Brésil menacé par une épidémie de dengue sans précédent](https://www.lemonde.fr/planete/article/2024/02/12/le-bresil-menace-par-une-epidemie-de-dengue-sans-precedent_6216159_3244.html) (Le Monde)
+
+- [Anápolis: agentes e soldados saem às ruas no combate à dengue](https://www.metropoles.com/brasil/anapolis-agentes-e-soldados-saem-as-ruas-no-combate-a-dengue) (Metropoles.com)
+
+- [ブラジルのデング熱ワクチンの臨床試験](https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/popular/202402/583197.html) (Nikkeibp.co.jp)
+
+- [Dengue-Epidemie: Brasilien kämpft und feiert mit der Mücke](https://www.spektrum.de/news/gesundheitsnotstand-brasilien-kaempft-gegen-eine-dengue-epidemie/2207022) (Spektrum.de)
+
+- [Aparecida (GO) inicia vacinação contra a dengue nesta quinta (15/2)](https://www.metropoles.com/brasil/aparecida-go-inicia-vacinacao-contra-a-dengue-nesta-quinta-15-2) (Metropoles.com)
+
+- [Brasil deve ter 149% mais casos de dengue em 2024 do que no pior ano](https://saude.ig.com.br/2024-02-12/brasil-deve-ter-149--mais-casos-de-dengue-em-2024-do-que-no-pior-ano.html) (Ig.com.br)
+
+- [Brasilien tanzt Samba – und impft gegen Dengue-Ausbruch](https://www.diepresse.com/18093755/brasilien-tanzt-samba-und-impft-gegen-dengue-ausbruch) (Diepresse.com)
+
+- [Brasilien tanzt Samba – und kämpft gegen Dengue-Ausbruch [premium]](https://www.diepresse.com/18093755/brasilien-tanzt-samba-und-kaempft-gegen-dengue-ausbruch) (Diepresse.com)
+
+- [Dengue cases in Johor spike to 2,169, says exco](https://www.thestar.com.my/news/nation/2024/02/12/dengue-cases-in-johor-spike-to-2169-says-exco) (The Star Online)
+
+- [Dengue: quais remédios são contraindicados e quais podem ser usados para tratar sintomas](https://www.bbc.com/portuguese/articles/c72g3pymeygo) (BBC News)
+
+- [Pra se proteger da dengue, confira se o repelente tem esse ingrediente](https://www.terra.com.br/vida-e-estilo/saude/pra-se-proteger-da-dengue-confira-se-o-repelente-tem-esse-ingrediente,402958bf9665e773125bd9d8037eb0954xw00dh4.html) (Terra.com.br)
 
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
@@ -2999,12 +3035,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
-## 23-53 (measles)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
-
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)

@@ -1,8 +1,314 @@
 {
-  "last_updated": "2024-02-13 07:06",
-  "count_articles_total": 1358,
-  "count_articles_new": 23,
+  "last_updated": "2024-02-13 19:05",
+  "count_articles_total": 1374,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 5382,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Sputniknews.lat",
+      "author": "Sputnik Mundo",
+      "title": "Ministerio de Per\u00fa informa que existen 117 distritos con transmisi\u00f3n activa de dengue",
+      "description": "LIMA (Sputnik) \u2014 El Ministerio de Salud de Per\u00fa (Minsa) inform\u00f3 que existen 177 distritos en el pa\u00eds que tienen transmisi\u00f3n activa del dengue.",
+      "url": "https://sputniknews.lat/20240212/ministerio-de-peru-informa-que-existen-117-distritos-con-transmision-activa-de-dengue-1148180770.html",
+      "urlToImage": "https://cdn1.img.sputniknews.lat/images/sharing/article/spa/1148180770.jpg?11374873571707764221",
+      "publishedAt": "2024-02-12 18:57:00",
+      "content": "Desde el R\u00edo Bravo hasta Tierra del Fuego, noticias, reportajes y an\u00e1lisis sobre la realidad latinoamericana https://sputniknews.lat/20240212/ministerio-de-peru-informa-que-existen-117-distritos-con\u2026 [+2457 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.944540",
+      "internal_id": "27a1d0d7044164f99d2da1f015069ce9f6fdc7f33f95c30e1348b7ff2fff1501",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5385,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "J\u00e9ssica Ribeiro",
+      "title": "Dengue: vacina\u00e7\u00e3o de crian\u00e7as de 10 e 11 anos continua neste feriado",
+      "description": "N\u00e3o \u00e9 necess\u00e1rio agendar, mas a crian\u00e7a deve estar com documento de identifica\u00e7\u00e3o, cart\u00e3o de vacina e acompanhada de um respons\u00e1vel",
+      "url": "https://www.metropoles.com/distrito-federal/dengue-vacinacao-de-criancas-de-10-e-11-anos-continua-neste-feriado",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09113213/Vacinacao-dengue-UBS-Asa-7.jpg",
+      "publishedAt": "2024-02-12 18:32:23",
+      "content": "A vacina\u00e7\u00e3o de crian\u00e7as com 10 e 11 anos continua no Distrito Federal, nesta segunda (12/2) e na ter\u00e7a-feira de Carnaval (13/2). O servi\u00e7o \u00e9 gratuito e oferecido em 15 unidades b\u00e1sicas de sa\u00fade (UBSs\u2026 [+3976 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.965767",
+      "internal_id": "063fdf3325073d42fac99b65765055a48d22b55338d626175adfa0eaa6265638",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5383,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Sa\u00fade em Dia",
+      "title": "Dengue pode se manifestar nos olhos; conhe\u00e7a os sintomas",
+      "description": "O atual surto de dengue no Brasil aumentou em quase 300% o n\u00famero de casos em rela\u00e7\u00e3o ao ano passado",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-pode-se-manifestar-nos-olhos-conheca-os-sintomas,929dbfee60985a29523adfd78497152ewcurwgkz.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/12/217808793-dengue-x-olhos.jpg",
+      "publishedAt": "2024-02-12 18:01:07",
+      "content": "O Brasil est\u00e1 enfrentando um surto de dengue. Segundo o Minist\u00e9rio da Sa\u00fade, somente em 2024, o pa\u00eds j\u00e1 registrou mais de 360 mil casos (prov\u00e1veis e confirmados) de da doen\u00e7a, com 40 mortes confirmad\u2026 [+1960 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.951049",
+      "internal_id": "b12447bc512a0da70ab8af8c85dcf570d260176ac0f92f1034b466e3687271a9",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5375,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Bruno Meyerfeld",
+      "title": "Le Br\u00e9sil menac\u00e9 par une \u00e9pid\u00e9mie de dengue sans pr\u00e9c\u00e9dent",
+      "description": "Le pays conna\u00eet une explosion du nombre de contaminations, particuli\u00e8rement \u00e0 Brasilia, la capitale, o\u00f9 l\u2019incidence est de 1 700 cas de dengue pour 100 000 habitants. Les h\u00f4pitaux peinent \u00e0 faire face \u00e0 l\u2019afflux de patients fi\u00e9vreux.",
+      "url": "https://www.lemonde.fr/planete/article/2024/02/12/le-bresil-menace-par-une-epidemie-de-dengue-sans-precedent_6216159_3244.html",
+      "urlToImage": "https://img.lemde.fr/2024/02/12/0/0/4811/3207/1440/960/60/0/a98f962_1707748444254-071769.jpg",
+      "publishedAt": "2024-02-12 18:00:08",
+      "content": "Une nouvelle \u00e9pid\u00e9mie dampleur menace-t-elle le Br\u00e9sil ? A peine remis de lh\u00e9catombe du Covid-19 (qui a fait ici 709 000 victimes), le g\u00e9ant latino-am\u00e9ricain fait aujourdhui face \u00e0 la diffusion acc\u00e9l\u2026 [+3252 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.775957",
+      "internal_id": "9d6faf666d9be6a1ce6461904d2e2eee13e158368f207dc77925e1ee75c7cb88",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5373,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "ABC15 Arizona",
+      "author": "Cnn",
+      "title": "Why are measles cases popping up across the United States?",
+      "description": "Why are measles cases popping up across the United States?abc15.com",
+      "url": "https://www.abc15.com/news/health/why-are-measles-cases-popping-up-across-us-heres-what-to-know-about-the-highly-contagious-virus",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/976b9d4/2147483647/strip/true/crop/700x368+0+50/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Ff2%2F5e%2F06c42ed44b54948905bc5e487e96%2Fd1mcs0-xcae0lyl.jpg",
+      "publishedAt": "2024-02-12 17:55:34",
+      "content": "Amid a rise in measles cases around the country, the Maricopa County Department of Public Health said Saturday that one case of measles has so far been confirmed locally. The Maricopa County case i\u2026 [+9779 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.200262",
+      "internal_id": "a943cf64717b62d4e04cd2d156027d244fa1652614d1bf1e7cc5989f77484e40",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5389,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Robert Hart, Forbes Staff, \n Robert Hart, Forbes Staff\n https://www.forbes.com/sites/roberthart/",
+      "title": "What To Know About Alaskapox After Officials Confirm First Death From Recently Discovered Virus",
+      "description": "Scientists are unsure how the man contracted the virus, a relative of smallpox and mpox, but believe a scratch from a stray cat is responsible.",
+      "url": "https://www.forbes.com/sites/roberthart/2024/02/12/what-to-know-about-alaskapox-after-officials-confirm-first-death-from-recently-discovered-virus/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65ca4c1cd9d9982bcab58f9e/0x0.jpg?format=jpg&crop=2212,1245,x0,y114,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-02-12 16:51:39",
+      "content": "An elderly man has become the first person to die after contracting Alaskapox, health officials confirmed, urging doctors to stay alert for signs of the recently discovered virus that is closely rela\u2026 [+3526 chars]",
+      "retrievedAt": "2024-02-13 19:05:36.386608",
+      "internal_id": "9468a83ab6755ffefe3edaf9966e0ccf878936ca80fac01e2beda2aef289e7be",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5381,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "An\u00e1polis: agentes e soldados saem \u00e0s ruas no combate \u00e0 dengue",
+      "description": "Entre os dias 19 e 26 de fevereiro ser\u00e3o percorridos os bairros com a maior incid\u00eancia de casos de dengue",
+      "url": "https://www.metropoles.com/brasil/anapolis-agentes-e-soldados-saem-as-ruas-no-combate-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/12115055/agentes-anapolis-combate-a-dengue.jpeg",
+      "publishedAt": "2024-02-12 15:08:09",
+      "content": "Goi\u00e2nia Por meio da campanha An\u00e1polis contra a Dengue, a gest\u00e3o municipal do munic\u00edpio, a cerca de 55 km da capital goiana, refor\u00e7ar\u00e1 o combate ao Aedes aegypti no munic\u00edpio. Um total de 140 agentes\u2026 [+2966 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.851362",
+      "internal_id": "a998d7323173370ae2109cea85e17e220c326d82bc62e1af010e15d9e58fda37",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5379,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nikkeibp.co.jp",
+      "author": "\u65e5\u7d4c\u30e1\u30c7\u30a3\u30ab\u30eb Online",
+      "title": "\u30d6\u30e9\u30b8\u30eb\u306e\u30c7\u30f3\u30b0\u71b1\u30ef\u30af\u30c1\u30f3\u306e\u81e8\u5e8a\u8a66\u9a13",
+      "description": "\u672c\u30b3\u30e9\u30e0\u3067\u306f\u3001Google\u304c\u63d0\u4f9b\u3059\u308b\u5b66\u8853\u96d1\u8a8c\u306e\u30a4\u30f3\u30d1\u30af\u30c8\u6307\u6a19\u300ch5-index\u300d\u304b\u3089\u3001\u5404\u9818\u57df10\u8a8c\u3092\u62bd\u51fa\u3002\u305d\u308c\u3092\u5143\u306b\u4e16\u754c\u4e2d\u3067\u6700\u3082\u591a\u304f\u30c4\u30a4\u30fc\u30c8\u3055\u308c\u305f\u8ad6\u6587\u3092\u7d39\u4ecb\u3059\u308b\u3002 1\u670829\u65e5\uff5e2\u67084\u65e5\u306b\u6700\u3082\u30c4\u30a4\u30fc\u30c8\u6570\u304c\u591a\u304b\u3063\u305f\u306e\u306f\u3001NEJM\u8a8c\u306e\u8ad6\u6587\u300cLive, Attenuated, Tetravalent Butantan-Dengue Vaccine in Children and Adults\u300d\uff08\u30d6\u30bf\u30f3\u30bf\u30f3\u7814\u7a76\u6240\u306e4\u4fa1\u5f31\u6bd2\u30c7\u30f3\u30b0\u71b1\u751f\u30ef\u30af\u30c1\u30f3\u306e\u5c0f\u5150\u3068\u6210\u4eba\u306e\u7b2c3\u76f8\u81e8\u5e8a\u8a66\u9a13\uff09\u30671711\u4ef6\u3060\u3063\u305f\u3002",
+      "url": "https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/popular/202402/583197.html",
+      "urlToImage": "https://medical.nikkeibp.co.jp/all/thumb_l/583197_l.png?202402130030",
+      "publishedAt": "2024-02-12 15:00:00",
+      "content": "Googleh5-index10 12924NEJMLive, Attenuated, Tetravalent Butantan-Dengue Vaccine in Children and Adults431711",
+      "retrievedAt": "2024-02-13 19:05:33.821264",
+      "internal_id": "255b922a5583fe63bae9d89cc101c4cefe0c1cd6c4761aa4f309174c109a09d6",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5380,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Martina Farmbauer",
+      "title": "Dengue-Epidemie: Brasilien k\u00e4mpft und feiert mit der M\u00fccke",
+      "description": "Hitze und Feuchtigkeit haben eine Dengue-Epidemie befeuert, doch erstmals gibt es einen Impfstoff. Schafft es Brasilien eine Impfkampagne zu stemmen, mitten in der Karnevalssaison?",
+      "url": "https://www.spektrum.de/news/gesundheitsnotstand-brasilien-kaempft-gegen-eine-dengue-epidemie/2207022",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/446833525_pa.jpg",
+      "publishedAt": "2024-02-12 14:45:00",
+      "content": "\u00bbWir haben eine solche Zahl nie zuvor erreicht\u00ab, sagt Maciel. \u00bbDeshalb sind wir besorgt, auch wegen des Drucks, der dadurch auf den Gesundheitsdiensten lastet.\u00ab In der Hauptstadt Bras\u00edlia wurde berei\u2026 [+1218 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.826959",
+      "internal_id": "b8e2846a4cb2ee4a2b983f29c570efed1414893d03800f99e59768870e3a63b8",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5384,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Laura Braga",
+      "title": "Aparecida (GO) inicia vacina\u00e7\u00e3o contra a dengue nesta quinta (15/2)",
+      "description": "Quem tem 10 e 11 anos poder\u00e1 receber o imunizante em 38 postos. Secretaria de Sa\u00fade de Aparecida (GO) tamb\u00e9m vai levar para as escolas",
+      "url": "https://www.metropoles.com/brasil/aparecida-go-inicia-vacinacao-contra-a-dengue-nesta-quinta-15-2",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08161624/vacina-dengue-qdenga-1.jpeg",
+      "publishedAt": "2024-02-12 14:42:35",
+      "content": "Goi\u00e2nia O munic\u00edpio de Aparecida (GO), na regi\u00e3o metropolitana da capital goiana, d\u00e1 in\u00edcio a vacina\u00e7\u00e3o contra dengue em crian\u00e7as de 10 e 11 anos, a partir da quinta-feira (15/2). A cidade recebeu as\u2026 [+3905 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.960447",
+      "internal_id": "0cff2bd1fc3037dda7d890fce788ca86425672772438390a84a61529b59f3b23",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5386,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Brasil deve ter 149% mais casos de dengue em 2024 do que no pior ano",
+      "description": "A estimativa \u00e9 do Minist\u00e9rio da Sa\u00fade",
+      "url": "https://saude.ig.com.br/2024-02-12/brasil-deve-ter-149--mais-casos-de-dengue-em-2024-do-que-no-pior-ano.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ep/o8/f6/epo8f6os6fowc13q2cq2b7mlb.jpg",
+      "publishedAt": "2024-02-12 14:07:29",
+      "content": "O Brasil deve registrar 149% mais casos de dengue em 2024 do que no pior ano da s\u00e9rie hist\u00f3rica, projetando 4,2 milh\u00f5es de infectados, de acordo com proje\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade divulgadas na \u00falt\u2026 [+2014 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.998077",
+      "internal_id": "0440688a536a75c502d659715a2d071aca6b9031d87970915f7bb26e15225070",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5377,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Irene Z\u00f6ch",
+      "title": "Brasilien tanzt Samba \u2013 und impft gegen Dengue-Ausbruch",
+      "description": "In Brasilien tanzen Millionen Menschen dem H\u00f6hepunkt des diesj\u00e4hrigen Karnevals entgegen. Doch gleichzeitig warnen die Gesundheitsbeh\u00f6rden des Landes vor den rasant steigenden F\u00e4llen an Dengue-Fieber. In drei Staaten gilt der Notstand. Eine neue Impfung soll \u2026",
+      "url": "https://www.diepresse.com/18093755/brasilien-tanzt-samba-und-impft-gegen-dengue-ausbruch",
+      "urlToImage": "https://img.diepresse.com/public/incoming/deboiw-TOPSHOT-BRAZIL-CULTURE-CUSTOMS-CARNIVAL/alternates/DPR_SOCIAL_NACHRICHTEN/TOPSHOT-BRAZIL-CULTURE-CUSTOMS-CARNIVAL",
+      "publishedAt": "2024-02-12 11:39:42",
+      "content": "In Brasilien tanzen Millionen Menschen dem H\u00f6hepunkt des diesj\u00e4hrigen Karnevals entgegen. Doch gleichzeitig warnen die Gesundheitsbeh\u00f6rden des Landes vor den rasant steigenden F\u00e4llen an Dengue-Fieber\u2026 [+6083 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.793309",
+      "internal_id": "89733088badab823f60dcf30835cbe7e1c388ac10d561724241572a003f45315",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5378,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Irene Z\u00f6ch",
+      "title": "Brasilien tanzt Samba \u2013 und k\u00e4mpft gegen Dengue-Ausbruch [premium]",
+      "description": "In Brasilien tanzen sich Millionen Menschen dem H\u00f6hepunkt des diesj\u00e4hrigen Karnevals entgegen. Doch gleichzeitig warnen die Gesundheitsbeh\u00f6rden des Landes vor den rasant steigenden F\u00e4llen an Dengue-Fieber. In drei Staaten gilt der Notstand. Eine neue Impfung \u2026",
+      "url": "https://www.diepresse.com/18093755/brasilien-tanzt-samba-und-kaempft-gegen-dengue-ausbruch",
+      "urlToImage": "https://img.diepresse.com/public/incoming/hwa7ph-TOPSHOT-BRAZIL-CULTURE-CUSTOMS-CARNIVAL/alternates/DPR_SOCIAL_NACHRICHTEN_PAID/TOPSHOT-BRAZIL-CULTURE-CUSTOMS-CARNIVAL",
+      "publishedAt": "2024-02-12 11:39:42",
+      "content": "In Brasilien tanzen sich Millionen Menschen dem H\u00f6hepunkt des diesj\u00e4hrigen Karnevals entgegen. Doch gleichzeitig warnen die Gesundheitsbeh\u00f6rden des Landes vor den rasant steigenden F\u00e4llen an Dengue-F\u2026 [+1157 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.813268",
+      "internal_id": "90a60b8b85d7d6db11cf0cdb6f05e403154b592e5c9168fc0a9c368847d74527",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5376,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Mohd Farhaan Shah",
+      "title": "Dengue cases in Johor spike to 2,169, says exco",
+      "description": "JOHOR BARU: A total of 2,169 dengue cases have been reported throughout Johor in the sixth epidemiological week, which is a worrying spike, says state health and unity committee chairman Ling Tian Soon. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2024/02/12/dengue-cases-in-johor-spike-to-2169-says-exco",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2024/02/12/2540398.jpg",
+      "publishedAt": "2024-02-12 11:13:00",
+      "content": "JOHOR BARU: A total of 2,169 dengue cases have been reported throughout Johor in the sixth epidemiological week, which is a worrying spike, says state health and unity committee chairman Ling Tian So\u2026 [+1636 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.784163",
+      "internal_id": "79049e9f6300d65d63a712e7761ef0feb23165cb09341c9a5b53564d5713c8e7",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5374,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Dengue: quais rem\u00e9dios s\u00e3o contraindicados e quais podem ser usados para tratar sintomas",
+      "description": "Uso de medicamentos errados pode agravar a doen\u00e7a causando a forma hemorr\u00e1gica da dengue. Aspirina e AAS s\u00e3o contraindicados.",
+      "url": "https://www.bbc.com/portuguese/articles/c72g3pymeygo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/b188/live/ba6e0d10-c982-11ee-8047-3d6f981d7f5a.jpg",
+      "publishedAt": "2024-02-12 10:16:48",
+      "content": "Cr\u00e9dito, Getty Images Legenda da foto, Aspirina e AAS n\u00e3o devem ser usados por pacientes que est\u00e3o com suspeita de dengue ou que foram diagnosticados com a doen\u00e7a Article informationAuthor,\u2026 [+5990 chars]",
+      "retrievedAt": "2024-02-13 19:05:33.770917",
+      "internal_id": "3c28801d3bd4c1a47eb4206b7247e067734aa598dab8884da30c44a5b5ad588c",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5387,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Homework",
+      "title": "Pra se proteger da dengue, confira se o repelente tem esse ingrediente",
+      "description": "A dengue voltou com tudo e todo mundo tem que se mexer para se proteger. O poder p\u00fablico est\u00e1 ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/pra-se-proteger-da-dengue-confira-se-o-repelente-tem-esse-ingrediente,402958bf9665e773125bd9d8037eb0954xw00dh4.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/11/dengue-qxfgc0ivlbg1.jpg",
+      "publishedAt": "2024-02-12 09:40:21",
+      "content": "A dengue voltou com tudo e todo mundo tem que se mexer para se proteger. O poder p\u00fablico est\u00e1 correndo atr\u00e1s e precisa fazer mais. Mas enquanto isso cada um vai ter que tomar provid\u00eancias para se pro\u2026 [+637 chars]",
+      "retrievedAt": "2024-02-13 19:05:34.010854",
+      "internal_id": "70573200e78f422c587a127288859f3d694d7a30e8f1365cc4ef1f02ccd189d4",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5388,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "Could new vaccines end malaria in Africa?",
+      "description": "A decades-long pursuit to disarm mosquitoes has produced new vaccines. But will they be enough?",
+      "url": "https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/2022-07-13T050106Z_477389775_RC2V2V96UEZD_RTRMADP_3_HEALTH-MALARIA-VACCINE-1696258508.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-02-12 07:58:53",
+      "content": "After decades of research and trials, a groundbreaking malaria vaccine is being rolled out across West Africa in a major attempt to eliminate the disease which is the second-biggest cause of death of\u2026 [+10945 chars]",
+      "retrievedAt": "2024-02-13 19:05:34.913660",
+      "internal_id": "5bd1df25c341ae811b627bd489834560d67321ad95374f36842a45fc3be403b4",
+      "publishedAtLabel": "Feb 12"
+    },
     {
       "id": 5350,
       "query": [
@@ -24478,25 +24784,6 @@
       "content": "\u00a1De acab\u00f3 la maldici\u00f3n! Detroit Pistons se impuso este s\u00e1bado en el Little Caesars Arena a los Toronto Raptors (127-129) para poner fin a la hist\u00f3rica mala racha de 28 derrotas consecutivas en esta \u2026 [+1028 chars]",
       "retrievedAt": "2024-01-02 07:05:51.070033",
       "internal_id": "6e01ac63ef0fc89eff9708a91f7f191afe0b2ad60e5f4225a40e054452505e55",
-      "publishedAtLabel": "Dec 31"
-    },
-    {
-      "id": 4014,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Wnd.com",
-      "author": "WND News Services",
-      "title": "Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals",
-      "description": "Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. Polio, which paralyzed thousands of Americans annually, was wiped out by widespread vaccinations. In 1999 the natio\u2026",
-      "url": "https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/12/illegals-aliens-migrants-immigration-caravan-border-undocumented-jpg.jpg",
-      "publishedAt": "2023-12-31 18:27:17",
-      "content": "(Video screenshot) [Editor's note: This story originally was published by Real Clear Wire.] By James VarneyReal Clear Wire Successful public health campaigns and medical advances have enabled the \u2026 [+12728 chars]",
-      "retrievedAt": "2024-01-01 19:05:22.272433",
-      "internal_id": "73ad94b20c057ac3685a1a9a55d3a81445edc3d2809aa8e5f96664ff4cc03d7a",
       "publishedAtLabel": "Dec 31"
     }
   ]
