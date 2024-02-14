@@ -1,8 +1,476 @@
 {
-  "last_updated": "2024-02-14 07:06",
-  "count_articles_total": 1403,
-  "count_articles_new": 28,
+  "last_updated": "2024-02-14 19:05",
+  "count_articles_total": 1428,
+  "count_articles_new": 26,
   "articles": [
+    {
+      "id": 5420,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": "Associated Press",
+      "title": "Rhode Island hiker gets bitten by coyote before killing it with his bare hands, tests reveal animal had rabies",
+      "description": "A Rhode Island hiker was on a walk in the woods when he was bitten by a coyote. The animal, whom the hiker killed with his bare hands, has since tested positive for rabies.",
+      "url": "https://www.foxnews.com/us/rhode-island-hiker-bitten-coyote-before-killing-with-bare-hands-tests-reveal-animal-rabies",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/coyote.jpg",
+      "publishedAt": "2024-02-13 19:01:29",
+      "content": "A coyote that a hiker killed with his bare hands has tested positive for rabies, the Rhode Island Department of Environmental Management and the Rhode Island Department of Health announced. The hike\u2026 [+950 chars]",
+      "retrievedAt": "2024-02-14 19:05:27.926728",
+      "internal_id": "442ea09a1c9301757f7457b36b26f177d70513d1260f4d388e59e07b516b3390",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5430,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Alta de dengue e Covid deve sobrecarregar servi\u00e7os de sa\u00fade; gestores planejam aumento de equipes",
+      "description": "CL\u00c1UDIA COLLUCCI S\u00c3O PAULO, SP (FOLHAPRESS) Com o aumento de casos de dengue e o avan\u00e7o da Covid, gestores estaduais e municipais...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/alta-de-dengue-e-covid-deve-sobrecarregar-servicos-de-saude-gestores-planejam-aumento-de-equipes/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/13184741/IMG_9849.jpeg",
+      "publishedAt": "2024-02-13 18:49:22",
+      "content": "CL\u00c1UDIA COLLUCCIS\u00c3O PAULO, SP (FOLHAPRESS) Com o aumento de casos de dengue e o avan\u00e7o da Covid, gestores estaduais e municipais de sa\u00fade preveem uma maior sobrecarga dos servi\u00e7os nas pr\u00f3ximas seman\u2026 [+6620 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.704450",
+      "internal_id": "bc67a36f0248d961fc2ae6e3b0b5fcf107f9a17d6558e14a0f0988e9c89eaf13",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5434,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Minist\u00e9rio da Sa\u00fade registrou 13 mortes por dengue at\u00e9 esta 3\u00aa no DF",
+      "description": "Outras 66 mortes est\u00e3o sob investiga\u00e7\u00e3o. Casos prov\u00e1veis tamb\u00e9m superam dados mais recentes de pasta local divulgados no \u00faltimo dia 5",
+      "url": "https://www.metropoles.com/distrito-federal/ministerio-da-saude-registrou-13-mortes-por-dengue-ate-esta-3a-no-df",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06184115/Hospital-de-campanha-da-Forc%CC%A7a-Ae%CC%81rea-Brasileira-FAB-na-Ceila%CC%82ndia-tem-movimento-intenso-de-pacientes-buscando-atendimento-contra-a-dengue-Metro%CC%81poles-6.jpg",
+      "publishedAt": "2024-02-13 18:44:32",
+      "content": "O Distrito Federal registrou, at\u00e9 esta ter\u00e7a-feira (13/2), 13 mortes por dengue em 2024, segundo o Minist\u00e9rio da Sa\u00fade. Outros 66 \u00f3bitos est\u00e3o sob investiga\u00e7\u00e3o, de acordo com a pasta. A quantidade d\u2026 [+4610 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.758839",
+      "internal_id": "c3d6fc4811680415ad216c46c70cf509c0dca5979428b98a354aa26a54b4f4cc",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5425,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Dengue, innalzata l\u2019allerta alle frontiere dal ministero della Salute. \u201cAumento globale dei casi\u201d",
+      "description": "Da tempo i casi di dengue vengono monitorati dal ministero e dall\u2019Istituto superiore di Sanit\u00e0. Nei mesi scorsi in Italia erano stati segnalati dei casi e anche un decesso, ma a causa dell\u2019aumento globale dei casi \u2013 in Brasile si \u00e8 superato il mezzo milione \u2013\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/02/13/dengue-innalzata-lallerta-alle-frontiere-dal-ministero-della-salute-aumento-globale-dei-casi/7445573/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2022/08/12/med-1200x630-19.jpg",
+      "publishedAt": "2024-02-13 18:07:14",
+      "content": "Da tempo i casi di dengue vengono monitorati dal ministero e dall\u2019Istituto superiore di Sanit\u00e0. Nei mesi scorsi in Italia erano stati segnalati dei casi e anche un decesso, ma a causa dellaumento glo\u2026 [+2923 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.635419",
+      "internal_id": "738132fa4397f630dba50368f84c5db20ba3e769dc70b38f920dabef34a753f1",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5428,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Vaccino della Dengue dalla prossima settimana allo Spallanzani",
+      "description": "Il vaccino contro la febbre dengue \u00e8 stato ordinato e arriver\u00e0 la prossima settimana all'Inmi Spallanzani di Roma dove sara' possibile ottenerlo. Visita e vaccino sono a carico dell'utente. (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2024/02/13/vaccino-della-dengue-dalla-prossima-settimana-allo-spallanzani_97e3643b-f335-4004-a94c-8f6f4f48e08d.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2023/8/1/8216351990cc6ed893cfb08a1a2e2a4a.jpg",
+      "publishedAt": "2024-02-13 17:54:49",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.673649",
+      "internal_id": "346b02dd1c705e495267716d3bd7f72dde37207c51dd1959dca3c408c5a08505",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5440,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Brasil tem 75 mortes e mais de 500 mil casos prov\u00e1veis de dengue em 2024",
+      "description": "Outros 340 \u00f3bitos ainda est\u00e3o sob investiga\u00e7\u00e3o. N\u00famero de poss\u00edveis infec\u00e7\u00f5es \u00e9 quase quatro vezes maior que as registradas no mesmo per\u00edodo de 2023, segundo Minist\u00e9rio da Sa\u00fade.",
+      "url": "https://www.dw.com/pt-br/brasil-tem-75-mortes-e-mais-de-500-mil-casos-prov%C3%A1veis-de-dengue-em-2024/a-68244604",
+      "urlToImage": "https://static.dw.com/image/66697248_6.jpg",
+      "publishedAt": "2024-02-13 17:41:00",
+      "content": "O Brasil ultrapassou a marca de meio milh\u00e3o de casos prov\u00e1veisde dengue. \u00c9 o que mostram os dados divulgados pelo Minist\u00e9rio da Sa\u00fade nesta segunda-feira (12/02). J\u00e1 s\u00e3o 512.353 poss\u00edveis infectados\u2026 [+4123 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.852300",
+      "internal_id": "29f3d819f5fe64bc832f8aae2b46e987b263655c225f0d233a6509d776f0fc87",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5435,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "It\u00e1lia eleva n\u00edvel de alerta nas fronteiras em fun\u00e7\u00e3o da dengue",
+      "description": "O Minist\u00e9rio da Sa\u00fade da It\u00e1lia decidiu elevar o n\u00edvel de alerta nas fronteiras do pa\u00eds em ...",
+      "url": "https://www.terra.com.br/noticias/mundo/italia-eleva-nivel-de-alerta-nas-fronteiras-em-funcao-da-dengue,df1058e34cb4ad180d0bfba0048c2cca45l2zdi5.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-13 17:28:06",
+      "content": "O Minist\u00e9rio da Sa\u00fade da It\u00e1lia decidiu elevar o n\u00edvel de alerta nas fronteiras do pa\u00eds em virtude do aumento global de casos de dengue. De acordo com as autoridades da pasta, a vigil\u00e2ncia ser\u2026 [+829 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.792582",
+      "internal_id": "3747d8dcb641c5212b8ff8239e6554329706df7d0ad1464e72e203c911baf719",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5426,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Il ministero della Salute innalza allerta dengue alle frontiere",
+      "description": "Una nota agli uffici di Sanit\u00e0 marittima, Aerea e di frontiera (ANSA)",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/02/13/il-ministero-della-salute-innalza-allerta-dengue-alle-frontiere_00b905e9-c189-47f3-b965-c900fe6b6831.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/2/6/b2f974b037f55f20b5304163262772e0.jpg",
+      "publishedAt": "2024-02-13 17:20:46",
+      "content": "A causa dell'aumento globale dei casi di dengue, su disposizione del Direttore Generale, Francesco Vaia, gli Uffici di Sanit\u00e0 Marittima Aerea e di Frontiera (Usmaf-Sasn) hanno avuto l'indicazione di \u2026 [+2683 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.640763",
+      "internal_id": "d5a509169f1834f561b2a44411bc1add5d6911e1078f110148f0f6f683c61d29",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5421,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": null,
+      "title": "Hiker kills coyote with his bare hands after attack; tests confirm the animal had rabies",
+      "description": "Rhode Island officials say a coyote killed by a hiker has tested positive for rabies. Police say the hiker killed the coyote with his bare hands on Friday after being bitten on the leg while walking in the woods in Johnston. Officials say the same coyote is b\u2026",
+      "url": "https://apnews.com/article/hiker-kills-coyote-with-bare-hands-f5a5ad44ee8ea98729c85f95d7fed434",
+      "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "publishedAt": "2024-02-13 17:13:24",
+      "content": "JOHNSTON, R.I. (AP) A coyote that a hiker killed with his bare hands has tested positive for rabies, the Rhode Island Department of Environmental Management and the Rhode Island Department of Health \u2026 [+841 chars]",
+      "retrievedAt": "2024-02-14 19:05:27.931450",
+      "internal_id": "c9caa527dadb8bbffe12937164d8b58f687d3f9ead76bdeadcbfd484e7a48573",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5429,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Il ministero della Salute innalza allerta dengue alle frontiere",
+      "description": "A causa dell'aumento globale dei casi di dengue, su disposizione del Direttore Generale, Francesco Vaia, gli Uffici di Sanit\u00e0 Marittima Aerea e di Frontiera (Usmaf-Sasn) hanno avuto l'indicazione di innalzare il livello di allerta e vigilanza nei confronti...\u2026",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2024/02/13/il-ministero-della-salute-innalza-allerta-dengue-alle-frontiere_feffc58c-d11e-404b-86ca-1ef3a8ae9487.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/2/6/b2f974b037f55f20b5304163262772e0.jpg",
+      "publishedAt": "2024-02-13 17:06:23",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.678406",
+      "internal_id": "639461481a0839b705b1811fdbfe3cce792b612ff919e462f4c7d9622aeffd90",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5418,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Boston Globe",
+      "author": "Brittany Bowker",
+      "title": "Coyote attacks in 2 R.I. towns likely single rabid animal, RI DEM says",
+      "description": "The rabies vaccination series should be administered as soon as possible to anyone with a known or likely exposure to rabies, RI DEM said.",
+      "url": "https://www.bostonglobe.com/2024/02/13/metro/coyote-attacks-of-humans/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/zDJt7Yx-aeV8GR0uVackVf4ASNE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/MMZWKKXYNII6REFQ7BHTHPSTBU.jpg",
+      "publishedAt": "2024-02-13 17:01:19",
+      "content": "A coyote attack in Scituate on Thursday, and another in the adjacent town of Johnston on Friday , in which a Johnston man was bitten on the leg, were likely the same animal, DEM said in a news releas\u2026 [+2190 chars]",
+      "retrievedAt": "2024-02-14 19:05:27.895890",
+      "internal_id": "188a7130673a72f2de31e52c47d935b505dce04d12e61cfb2eda7a3b5f1985d4",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5437,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Sa\u00fade, iG Sa\u00fade",
+      "title": "Casos de dengue em 2024 j\u00e1 superam os 500 mil",
+      "description": "Minist\u00e9rio da Sa\u00fade prev\u00ea n\u00famero recorde de casos em 2024",
+      "url": "https://saude.ig.com.br/2024-02-13/casos-de-dengue-em-2024-ja-superam-os-500-mil.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/c4/1z/dr/c41zdr4sztch6kcgg0ab3ryg7.jpg",
+      "publishedAt": "2024-02-13 16:54:33",
+      "content": "O n\u00famero de casos prov\u00e1veis de dengue no Brasil j\u00e1 superou 512 mil, de acordo com dados do Painel da Dengue do Minist\u00e9rio da Sa\u00fade. Os dados s\u00e3o referentes de janeiro at\u00e9 o dia 12 de fevereiro. Segu\u2026 [+1220 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.815811",
+      "internal_id": "1222fc6b69ada5006d453c6cf7503748c6497eee41a5d4bb1b60018beee424bb",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5436,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Brasil supera el medio mill\u00f3n de casos de dengue en lo que va de a\u00f1o",
+      "description": "El Distrito Federal de Brasilia es la regi\u00f3n con una incidencia m\u00e1s alta de la enfermedad.",
+      "url": "https://www.montevideo.com.uy/Salud/Brasil-supera-el-medio-millon-de-casos-de-dengue-en-lo-que-va-de-ano-uc879556",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202402/_W933_80/871745.jpg",
+      "publishedAt": "2024-02-13 16:39:00",
+      "content": "Brasil ha registrado 512.353 casos probables de dengue y 75 muertes confirmadas en lo que va de a\u00f1o, en medio de un brote de la enfermedad que ha puesto en alerta a las autoridades sanitarias de b\u2026 [+1828 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.804494",
+      "internal_id": "fe3c733976122f075dc12bf4fb71dfe6d83f6c9e114a34c8c48a429b4e605468",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5427,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Alessandro Ferro)",
+      "title": "Allarme Dengue in Brasile: cosa consigliano gli esperti per chi rientra in Italia",
+      "description": "Con il quadruplo di casi rispetto al 2023, il Brasile fa i conti con una significativa circolazione del virus Dengue e potenziali effetti dannosi anche in Italia",
+      "url": "https://www.ilgiornale.it/news/nazionale/dengue-brasile-fa-paura-l-allarme-degli-esperti-sui-rientri-2283486.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2023/06/29/1687991158-mosquito-19487-1280-foto-publicdomainpictures.jpg?_=1687991158",
+      "publishedAt": "2024-02-13 15:16:14",
+      "content": "Nel clou delle festivit\u00e0 per il Carnevale con decine di migliaia di persone in festa nelle strade, il Brasile fa i conti con un numero esorbitante di casi di Dengue, ossia quelle infezioni causate da\u2026 [+4166 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.663533",
+      "internal_id": "b2c62e0031b26e2c6df7752f3d8c6190c6af9fe004a7673e8494409f5da69ff2",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5439,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Deutsche Welle",
+      "title": "Brasil tem 75 mortes por dengue, e casos prov\u00e1veis passam de meio milh\u00e3o",
+      "description": "Outros 340 \u00f3bitos ainda est\u00e3o sob investiga\u00e7\u00e3o. N\u00famero de poss\u00edveis infec\u00e7\u00f5es \u00e9 quase quatro vezes maior que as registradas no mesmo per\u00edodo de 2023, segundo Minist\u00e9rio da Sa\u00fade.",
+      "url": "https://www.dw.com/pt-br/brasil-tem-75-mortes-por-dengue-e-casos-prov%C3%A1veis-passam-de-meio-milh%C3%A3o/a-68244604",
+      "urlToImage": "https://static.dw.com/image/66697248_6.jpg",
+      "publishedAt": "2024-02-13 14:51:00",
+      "content": "O Brasil ultrapassou a marca de meio milh\u00e3o de casos prov\u00e1veisde dengue. \u00c9 o que mostram os dados divulgados pelo Minist\u00e9rio da Sa\u00fade nesta segunda-feira (12/02). J\u00e1 s\u00e3o 512.353 poss\u00edveis infectados\u2026 [+3721 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.843364",
+      "internal_id": "7ed63701311d4a47dd4a02d99c6fe633ad786c8f8b126b0306a24189dd134129",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5443,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Naked-science.ru",
+      "author": "\u042e\u043b\u0438\u044f \u0422\u0440\u0435\u043f\u0430\u043b\u0438\u043d\u0430",
+      "title": "\u0412 \u041e\u0440\u0435\u0433\u043e\u043d\u0435 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0437\u0430\u0440\u0430\u0437\u0438\u043b\u0441\u044f \u0431\u0443\u0431\u043e\u043d\u043d\u043e\u0439 \u0447\u0443\u043c\u043e\u0439 \u043e\u0442 \u043a\u043e\u0448\u043a\u0438",
+      "description": "\u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0438 \u043e\u0440\u0433\u0430\u043d\u043e\u0432 \u0437\u0434\u0440\u0430\u0432\u043e\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0432 \u043e\u043a\u0440\u0443\u0433\u0435 \u0414\u0435\u0448\u0443\u0442 (\u041e\u0440\u0435\u0433\u043e\u043d, \u0421\u0428\u0410) \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043e \u043f\u0435\u0440\u0432\u043e\u043c \u0441 2015 \u0433\u043e\u0434\u0430 \u0441\u043b\u0443\u0447\u0430\u0435 \u0437\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0431\u0443\u0431\u043e\u043d\u043d\u043e\u0439 \u0447\u0443\u043c\u043e\u0439 \u0432 \u0441\u0432\u043e\u0435\u043c \u0448\u0442\u0430\u0442\u0435. \u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u043c \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438, \u043f\u043e-\u0432\u0438\u0434\u0438\u043c\u043e\u043c\u0443, \u0441\u0442\u0430\u043b \u0431\u043e\u043b\u044c\u043d\u043e\u0439 \u0434\u043e\u043c\u0430\u0448\u043d\u0438\u0439 \u043a\u043e\u0442, \u0443 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0441\u0438\u043c\u043f\u0442\u043e\u043c\u044b \u043f\u0440\u043e\u044f\u0432\u0438\u043b\u0438\u0441\u044c \u0440\u0430\u043d\u044c\u0448\u0435.",
+      "url": "https://naked-science.ru/article/medicine/chelovek-zarazilsya-bubon",
+      "urlToImage": "https://naked-science.ru/wp-content/uploads/2024/02/240209-cat-plague-ch-1142-4885ce-768x512.jpg",
+      "publishedAt": "2024-02-13 14:08:39",
+      "content": ", -, , , (, ). , , ( ). NBC News , . , . , , . . , , . . - . , , , , / \u00ab\u00bb. , . , Yersinia pestis. , . NBC , , , , , . \u00ab \u00bb, . , . , , . . 2015 . , -, , . (The Centers for Disease Control an\u2026 [+70 chars]",
+      "retrievedAt": "2024-02-14 19:05:32.863626",
+      "internal_id": "590bd25f2c8dd5f71830403a2d119a3a3c8bd1b1270776b2a743e0e038b67153",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5433,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Beth\u00e2nia Nunes",
+      "title": "Dengue: Brasil ultrapassa marca de 500 mil casos e 75 mortes em 2024",
+      "description": "Foram registrados 512.353 casos prov\u00e1veis de dengue e 75 mortes pela doen\u00e7a nas primeiras seis semanas do ano, segundo o Minist\u00e9rio da Sa\u00fade",
+      "url": "https://www.metropoles.com/saude/dengue-brasil-500-mil-casos",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06114205/Dengue-nao-e-privilegio-do-DF-e-preocupa-ate-Lula-diz-Celina.jpg",
+      "publishedAt": "2024-02-13 13:28:04",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.734790",
+      "internal_id": "1c4201629a944eb310b5159c97727222daa91298d9e8f1469ac13512799f6233",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5419,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Department for Environment, Food & Rural Affairs",
+      "title": "Policy paper: EM on EU legislation concerning rabies testing (C(2023)7658)",
+      "description": "The government's summary of changes to EU legislation concerning rabies antibody titration testing for dogs, cats and ferrets.",
+      "url": "https://www.gov.uk/government/publications/em-on-eu-legislation-concerning-rabies-testing-c20237658",
+      "urlToImage": "https://www.gov.uk/assets/static/govuk-opengraph-image-dade2dad5775023b0568381c4c074b86318194edb36d3d68df721eea7deeac4b.png",
+      "publishedAt": "2024-02-13 13:07:58",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2024-02-14 19:05:27.921541",
+      "internal_id": "4a9e544d9f432158782946fefac6c491960fd504f9aec9737847a0426e7ea04b",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5424,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "Anne Herrberg",
+      "title": "Rio de Janeiro: Zwischen Karneval und Dengue-Fieber",
+      "description": "Es wird geschwitzt und gefeiert in Rio - der Karneval l\u00e4uft. Doch auch das von M\u00fccken \u00fcbertragene Dengue-Fieber greift um sich. Seit Februar gilt der Gesundheitsnotstand. Besonders betroffen sind die \u00e4rmsten Viertel, die Favelas. Von A. Herrberg.",
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-dengue-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/a8c823fb-6cd5-4374-b644-04e56fb36890/AAABjaIkvCk/AAABibBxqrQ/16x9-1280/dengue-rio-100.jpg",
+      "publishedAt": "2024-02-13 12:12:11",
+      "content": "Stand: 13.02.2024 13:12 Uhr Es wird geschwitzt und gefeiert in Rio - der Karneval l\u00e4uft. Doch auch das von M\u00fccken \u00fcbertragene Dengue-Fieber greift um sich. Seit Februar gilt der Gesundheitsnotstand.\u2026 [+3583 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.628436",
+      "internal_id": "aac9f8d3150c74969c87308c907267f056b426ba7d86d684ef436f5a482201f7",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5432,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Da Reda\u00e7\u00e3o",
+      "title": "O carnaval chegou em bom momento (por Marcos Magalh\u00e3es)",
+      "description": "Entre temporais, golpe do Bolsonaro, ondas de calor e surtos de dengue e de covid, a alegria que se espalha pelo pa\u00eds nesses quatro dias",
+      "url": "https://www.metropoles.com/blog-do-noblat/artigos/o-carnaval-chegou-em-bom-momento-por-marcos-magalhaes",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/12174228/carnavalrio.jpg",
+      "publishedAt": "2024-02-13 12:00:43",
+      "content": "O carnaval chegou em bom momento. Entre temporais, ondas de calor e surtos de dengue e de covid, a alegria que se espalha pelo pa\u00eds nesses quatro dias dissipou parcialmente o denso nevoeiro de not\u00edci\u2026 [+4078 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.730316",
+      "internal_id": "a5d3b54134d9ed9aee11c6ab79c087284d2fbe3ac1882948e4134dacfbe11c6b",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5431,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Brasil registra 512 mil casos de dengue e 75 mortes",
+      "description": "Desde o in\u00edcio de 2024, o Brasil registrou 512 mil casos prov\u00e1veis de dengue e 75 \u00f3bitos em decorr\u00eancia da doen\u00e7a. Os dados s\u00e3o do...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil-registra-512-mil-casos-de-dengue-e-75-mortes/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/08114815/124a9825-2.webp",
+      "publishedAt": "2024-02-13 11:01:21",
+      "content": "Desde o in\u00edcio de 2024, o Brasil registrou 512 mil casos prov\u00e1veis de dengue e 75 \u00f3bitos em decorr\u00eancia da doen\u00e7a. Os dados s\u00e3o do Minist\u00e9rio da Sa\u00fade. Ainda de acordo com a pasta, al\u00e9m das mortes co\u2026 [+1075 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.710598",
+      "internal_id": "207c333ae8bc77ef8970974ff50d9ce55f928d702bb1862960883f37dfcc7d29",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5423,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "As measles cases surge overseas, health official says N.L.'s high vaccine rate is in our favour",
+      "description": "There has been a spike in measles cases in parts of the world but Dr. Janice Fitzgerald, Newfoundland and Labrador's chief medical officer of health, says local vaccination rates are high and good protection against outbreaks.",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-measles-vaccine-1.7113247",
+      "urlToImage": "https://i.cbc.ca/1.7113253.1707785561!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/dr-janice-fitzgerald.jpg",
+      "publishedAt": "2024-02-13 10:58:35",
+      "content": "While there has been a sharp increase in cases of measles in other parts of the world, Newfoundland and Labrador's top public health official says her focus is on maintaining high vaccination rates. \u2026 [+3419 chars]",
+      "retrievedAt": "2024-02-14 19:05:28.531509",
+      "internal_id": "31ea375a7588f94123a9690dc09e5a46cfe79b2d472a641ce6711f9ce7876300",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5438,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Ag\u00eancia Brasil, Ag\u00eancia Brasil",
+      "title": "Casos de dengue no estado do Rio aumentam 56% em uma semana",
+      "description": "Houve 14.175 novos registros",
+      "url": "https://saude.ig.com.br/2024-02-13/casos-de-dengue-no-estado-do-rio-aumentam-56--em-uma-semana.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-02-13 10:31:15",
+      "content": "O estado do Rio de Janeiro registrou 39.311 casos prov\u00e1veis de dengue e tr\u00eas \u00f3bitos de janeiro a 12 de fevereiro desse ano. Os dados s\u00e3o do Painel Monitora, da Secretaria de Estado de Sa\u00fade. Chama a \u2026 [+1307 chars]",
+      "retrievedAt": "2024-02-14 19:05:29.835520",
+      "internal_id": "9c9935f7612ac414deb183c7f2b426a107116cd50c6da1ecbfa888ac97bccd1e",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5442,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "1st fatal case of Alaskapox may have been tied to stray cat",
+      "description": "The Alaskapox virus belongs to the same broad group as smallpox and mpox, but to date, it's infected fewer than 10 people.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/1st-fatal-case-of-alaskapox-may-have-been-tied-to-stray-cat",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QTMRj2otXFXyKGuzJDCSWn-1200-80.jpg",
+      "publishedAt": "2024-02-13 10:00:30",
+      "content": "A man has died in what is thought to be the first fatal case of Alaskapox, a rare infection caused by a virus in the same broad group as smallpox and mpox . Many viruses in this group, known as ort\u2026 [+5119 chars]",
+      "retrievedAt": "2024-02-14 19:05:31.706839",
+      "internal_id": "6121918304ea5cebbe3148d23e8fb427c80e69b514104eae058e2d21c7578cf1",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5422,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "N.B. keeps watch for measles, urges vaccines, as European cases surge",
+      "description": "New Brunswick Public Health officials are keeping a close eye out for measles, given the surge of cases in Europe and some recent confirmed cases in Canada.",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/measles-new-brunswick-vaccine-school-students-europe-1.7109037",
+      "urlToImage": "https://i.cbc.ca/1.4054674.1707784452!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-in-nova-scotia.jpg",
+      "publishedAt": "2024-02-13 10:00:00",
+      "content": "New Brunswick Public Health officials are keeping a close eye out for measles, given the surge of cases in Europe and some recent confirmed cases in Canada. There were 42,200 measles cases across Eu\u2026 [+4944 chars]",
+      "retrievedAt": "2024-02-14 19:05:28.525481",
+      "internal_id": "1477633353dbf05a07d8a2ebb6c50978e6afe8557695be6fc4629d19362fa929",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5441,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Ynetnews",
+      "author": "Dr. David Shasha",
+      "title": "The dangerous bacterium that killed an IDF soldier",
+      "description": "Meningococcus is a bacterium that can cause serious and life-threatening disease but manifest via symptoms usually not paid attention to by individuals",
+      "url": "https://www.ynetnews.com/health_science/article/hkoe7fosp",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/02/11/Sy11sE7YLip/Sy11sE7YLip_209_0_673_379_0_large.jpg",
+      "publishedAt": "2024-02-13 07:50:06",
+      "content": "Meningococcus, a virulent bacterium that led to the death of a 20-year-old IDF soldier at the Hadassah Medical Center last week, can cause meningitis and a serious disease called meningococcemia, in \u2026 [+4797 chars]",
+      "retrievedAt": "2024-02-14 19:05:30.309574",
+      "internal_id": "2adb8394aef3a683bac4ce63b7dde5bf4a9dc271a77c314079d7b226ca833a0f",
+      "publishedAtLabel": "Feb 13"
+    },
     {
       "id": 5397,
       "query": [
@@ -25288,25 +25756,6 @@
       "content": "\u00a1De acab\u00f3 la maldici\u00f3n! Detroit Pistons se impuso este s\u00e1bado en el Little Caesars Arena a los Toronto Raptors (127-129) para poner fin a la hist\u00f3rica mala racha de 28 derrotas consecutivas en esta \u2026 [+1028 chars]",
       "retrievedAt": "2024-01-02 07:05:51.070033",
       "internal_id": "6e01ac63ef0fc89eff9708a91f7f191afe0b2ad60e5f4225a40e054452505e55",
-      "publishedAtLabel": "Dec 31"
-    },
-    {
-      "id": 4014,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Wnd.com",
-      "author": "WND News Services",
-      "title": "Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals",
-      "description": "Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. Polio, which paralyzed thousands of Americans annually, was wiped out by widespread vaccinations. In 1999 the natio\u2026",
-      "url": "https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/12/illegals-aliens-migrants-immigration-caravan-border-undocumented-jpg.jpg",
-      "publishedAt": "2023-12-31 18:27:17",
-      "content": "(Video screenshot) [Editor's note: This story originally was published by Real Clear Wire.] By James VarneyReal Clear Wire Successful public health campaigns and medical advances have enabled the \u2026 [+12728 chars]",
-      "retrievedAt": "2024-01-01 19:05:22.272433",
-      "internal_id": "73ad94b20c057ac3685a1a9a55d3a81445edc3d2809aa8e5f96664ff4cc03d7a",
       "publishedAtLabel": "Dec 31"
     }
   ]

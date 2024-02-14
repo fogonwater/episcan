@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 28
-- **Last harvest:** 2024-02-14 07:06
-- **Most recent article:** 2024-02-13 05:52:18
+- **New articles in last harvest:** 26
+- **Last harvest:** 2024-02-14 19:05
+- **Most recent article:** 2024-02-13 19:01:29
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 45 | 709 |
-| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 7 | 273 |
-| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 3 | 239 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 62 | 726 |
+| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 9 | 274 |
+| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 3 | 238 |
 | zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 1 | 52 |
+| rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 4 | 40 |
 | chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 0 | 40 |
-| rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 0 | 36 |
-| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 1 | 32 |
-| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 1 | 25 |
+| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 2 | 33 |
+| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 2 | 26 |
 | pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 0 | 19 |
 | sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 1 | 13 |
+| yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 1 | 7 |
 | typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 0 | 7 |
-| yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 0 | 6 |
 | leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 4 |
 
 
@@ -35,19 +35,41 @@ Source: [News API](https://newsapi.org/)
 
 - [Web enlouquece com lesão de Pedro Raul, do Corinthians: 'Sai, zika'](  https://www.lance.com.br/corinthians/web-enlouquece-com-lesao-de-pedro-raul-do-corinthians-sai-zika.html ) (Lance.com.br)
 
+## 24-7 (yersinia)
+
+- [В Орегоне человек заразился бубонной чумой от кошки](https://naked-science.ru/article/medicine/chelovek-zarazilsya-bubon) (Naked-science.ru)
+
 ## 24-7 (sarampión)
 
 - [Aumenta el sarampión y no sé si estoy vacunado: ¿Qué debo hacer?](https://www.elmundo.es/ciencia-y-salud/salud/2024/02/11/65c5ffafe9cf4a59128b45be.html) (El Mundo)
 
+## 24-7 (rabies)
+
+- [Rhode Island hiker gets bitten by coyote before killing it with his bare hands, tests reveal animal had rabies](https://www.foxnews.com/us/rhode-island-hiker-bitten-coyote-before-killing-with-bare-hands-tests-reveal-animal-rabies) (Fox News)
+
+- [Hiker kills coyote with his bare hands after attack; tests confirm the animal had rabies](https://apnews.com/article/hiker-kills-coyote-with-bare-hands-f5a5ad44ee8ea98729c85f95d7fed434) (Associated Press)
+
+- [Coyote attacks in 2 R.I. towns likely single rabid animal, RI DEM says](https://www.bostonglobe.com/2024/02/13/metro/coyote-attacks-of-humans/) (The Boston Globe)
+
+- [Policy paper: EM on EU legislation concerning rabies testing (C(2023)7658)](https://www.gov.uk/government/publications/em-on-eu-legislation-concerning-rabies-testing-c20237658) (Www.gov.uk)
+
 ## 24-7 (mpox)
+
+- [1st fatal case of Alaskapox may have been tied to stray cat](https://www.livescience.com/health/viruses-infections-disease/1st-fatal-case-of-alaskapox-may-have-been-tied-to-stray-cat) (Live Science)
 
 - [What To Know About Alaskapox After Officials Confirm First Death From Recently Discovered Virus](https://www.forbes.com/sites/roberthart/2024/02/12/what-to-know-about-alaskapox-after-officials-confirm-first-death-from-recently-discovered-virus/) (Forbes)
 
 ## 24-7 (meningitis)
 
+- [The dangerous bacterium that killed an IDF soldier](https://www.ynetnews.com/health_science/article/hkoe7fosp) (Ynetnews)
+
 - [Luis Canut reaparece mostrando su vida actual y hace una declaración de amor a Patricia Pérez](https://www.europapress.es/chance/gente/noticia-luis-canut-reaparece-mostrando-vida-actual-hace-declaracion-amor-patricia-perez-20240211223214.html) (Europapress.es)
 
 ## 24-7 (measles)
+
+- [As measles cases surge overseas, health official says N.L.'s high vaccine rate is in our favour](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-measles-vaccine-1.7113247) (CBC News)
+
+- [N.B. keeps watch for measles, urges vaccines, as European cases surge](https://www.cbc.ca/news/canada/new-brunswick/measles-new-brunswick-vaccine-school-students-europe-1.7109037) (CBC News)
 
 - [Health officials confirm measles case in Twin Cities metro](https://www.cbsnews.com/minnesota/news/health-officials-confirm-measles-case-in-twin-cities-metro/) (CBS News)
 
@@ -72,6 +94,40 @@ Source: [News API](https://newsapi.org/)
 - [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (dengue)
+
+- [Alta de dengue e Covid deve sobrecarregar serviços de saúde; gestores planejam aumento de equipes](https://jornaldebrasilia.com.br/noticias/brasil/alta-de-dengue-e-covid-deve-sobrecarregar-servicos-de-saude-gestores-planejam-aumento-de-equipes/) (Jornaldebrasilia.com.br)
+
+- [Ministério da Saúde registrou 13 mortes por dengue até esta 3ª no DF](https://www.metropoles.com/distrito-federal/ministerio-da-saude-registrou-13-mortes-por-dengue-ate-esta-3a-no-df) (Metropoles.com)
+
+- [Dengue, innalzata l’allerta alle frontiere dal ministero della Salute. “Aumento globale dei casi”](https://www.ilfattoquotidiano.it/2024/02/13/dengue-innalzata-lallerta-alle-frontiere-dal-ministero-della-salute-aumento-globale-dei-casi/7445573/) (Ilfattoquotidiano.it)
+
+- [Vaccino della Dengue dalla prossima settimana allo Spallanzani](https://www.ansa.it/sito/notizie/topnews/2024/02/13/vaccino-della-dengue-dalla-prossima-settimana-allo-spallanzani_97e3643b-f335-4004-a94c-8f6f4f48e08d.html) (ANSA.it)
+
+- [Brasil tem 75 mortes e mais de 500 mil casos prováveis de dengue em 2024](https://www.dw.com/pt-br/brasil-tem-75-mortes-e-mais-de-500-mil-casos-prov%C3%A1veis-de-dengue-em-2024/a-68244604) (DW (English))
+
+- [Itália eleva nível de alerta nas fronteiras em função da dengue](https://www.terra.com.br/noticias/mundo/italia-eleva-nivel-de-alerta-nas-fronteiras-em-funcao-da-dengue,df1058e34cb4ad180d0bfba0048c2cca45l2zdi5.html) (Terra.com.br)
+
+- [Il ministero della Salute innalza allerta dengue alle frontiere](https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2024/02/13/il-ministero-della-salute-innalza-allerta-dengue-alle-frontiere_00b905e9-c189-47f3-b965-c900fe6b6831.html) (ANSA.it)
+
+- [Il ministero della Salute innalza allerta dengue alle frontiere](https://www.ansa.it/sito/notizie/topnews/2024/02/13/il-ministero-della-salute-innalza-allerta-dengue-alle-frontiere_feffc58c-d11e-404b-86ca-1ef3a8ae9487.html) (ANSA.it)
+
+- [Casos de dengue em 2024 já superam os 500 mil](https://saude.ig.com.br/2024-02-13/casos-de-dengue-em-2024-ja-superam-os-500-mil.html) (Ig.com.br)
+
+- [Brasil supera el medio millón de casos de dengue en lo que va de año](https://www.montevideo.com.uy/Salud/Brasil-supera-el-medio-millon-de-casos-de-dengue-en-lo-que-va-de-ano-uc879556) (Montevideo.com.uy)
+
+- [Allarme Dengue in Brasile: cosa consigliano gli esperti per chi rientra in Italia](https://www.ilgiornale.it/news/nazionale/dengue-brasile-fa-paura-l-allarme-degli-esperti-sui-rientri-2283486.html) (Ilgiornale.it)
+
+- [Brasil tem 75 mortes por dengue, e casos prováveis passam de meio milhão](https://www.dw.com/pt-br/brasil-tem-75-mortes-por-dengue-e-casos-prov%C3%A1veis-passam-de-meio-milh%C3%A3o/a-68244604) (DW (English))
+
+- [Dengue: Brasil ultrapassa marca de 500 mil casos e 75 mortes em 2024](https://www.metropoles.com/saude/dengue-brasil-500-mil-casos) (Metropoles.com)
+
+- [Rio de Janeiro: Zwischen Karneval und Dengue-Fieber](https://www.tagesschau.de/ausland/amerika/brasilien-dengue-100.html) (tagesschau.de)
+
+- [O carnaval chegou em bom momento (por Marcos Magalhães)](https://www.metropoles.com/blog-do-noblat/artigos/o-carnaval-chegou-em-bom-momento-por-marcos-magalhaes) (Metropoles.com)
+
+- [Brasil registra 512 mil casos de dengue e 75 mortes](https://jornaldebrasilia.com.br/noticias/brasil-registra-512-mil-casos-de-dengue-e-75-mortes/) (Jornaldebrasilia.com.br)
+
+- [Casos de dengue no estado do Rio aumentam 56% em uma semana](https://saude.ig.com.br/2024-02-13/casos-de-dengue-no-estado-do-rio-aumentam-56--em-uma-semana.html) (Ig.com.br)
 
 - [No DF, 440 servidores da Saúde contraíram dengue e ficaram afastados](https://www.metropoles.com/distrito-federal/no-df-440-servidores-da-saude-contrairam-dengue-e-ficaram-afastados) (Metropoles.com)
 
@@ -3091,12 +3147,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
-## 23-53 (measles)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
-
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
