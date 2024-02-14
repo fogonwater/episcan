@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2024-02-13 19:05
-- **Most recent article:** 2024-02-12 18:57:00
+- **New articles in last harvest:** 28
+- **Last harvest:** 2024-02-14 07:06
+- **Most recent article:** 2024-02-13 05:52:18
 
 ---
 
@@ -12,9 +12,9 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 211 | 25 | 684 |
-| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 5 | 270 |
-| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 2 | 237 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 45 | 709 |
+| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 7 | 273 |
+| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 3 | 239 |
 | zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 1 | 52 |
 | chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 0 | 40 |
 | rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 0 | 36 |
@@ -49,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (measles)
 
+- [Health officials confirm measles case in Twin Cities metro](https://www.cbsnews.com/minnesota/news/health-officials-confirm-measles-case-in-twin-cities-metro/) (CBS News)
+
+- [Alberta urged to make 'full court push' against measles as Europe battles outbreaks](https://www.cbc.ca/news/canada/calgary/measles-immunization-rate-alberta-1.7112525) (CBC News)
+
 - [Why are measles cases popping up across the United States?](https://www.abc15.com/news/health/why-are-measles-cases-popping-up-across-us-heres-what-to-know-about-the-highly-contagious-virus) (ABC15 Arizona)
 
 - [Editorial: Reactivating pandemic strategies will be key to success of measles jab rollout](https://www.independent.ie/opinion/editorial/editorial-reactivating-pandemic-strategies-will-be-key-to-success-of-measles-jab-rollout/a1822366842.html) (Independent.ie)
@@ -61,19 +65,47 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (malaria)
 
+- [Atenţionare de călătorie a MAE: Menţinerea pericolului de îmbolnăvire cu „malaria de import”](https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197) (Mediafax.ro)
+
 - [Could new vaccines end malaria in Africa?](https://www.aljazeera.com/news/2024/2/12/could-new-vaccines-end-malaria-in-africa) (Al Jazeera English)
 
 - [Namibia: Ending Malaria in Namibia](https://allafrica.com/stories/202402110119.html) (AllAfrica - Top Africa News)
 
 ## 24-7 (dengue)
 
+- [No DF, 440 servidores da Saúde contraíram dengue e ficaram afastados](https://www.metropoles.com/distrito-federal/no-df-440-servidores-da-saude-contrairam-dengue-e-ficaram-afastados) (Metropoles.com)
+
+- [Brasil ultrapassa a marca de meio milhão de casos prováveis de dengue, com 75 mortes](https://valor.globo.com/brasil/noticia/2024/02/12/brasil-ultrapassa-a-marca-de-meio-milho-de-casos-provveis-de-dengue-com-75-mortes.ghtml) (Globo)
+
+- [Brasil supera a marca de meio milhão de prováveis casos de dengue em 2024](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/brasil-supera-a-marca-de-meio-milhao-de-provaveis-casos-de-dengue-em-2024-13022024) (R7.com)
+
+- [SP recebe doses de vacina da dengue, mas não tem previsão de aplicação](https://www.metropoles.com/sao-paulo/sp-recebe-doses-de-vacina-da-dengue-mas-nao-tem-previsao-de-aplicacao) (Metropoles.com)
+
+- [Em quatro dias, DF aplica quase 10 mil doses da vacina contra a dengue](https://www.metropoles.com/distrito-federal/em-quatro-dias-df-aplica-quase-10-mil-doses-da-vacina-contra-a-dengue) (Metropoles.com)
+
+- [La Guyane confrontée à sa plus importante épidémie de dengue depuis 20 ans](https://www.francetvinfo.fr/france/guyane-francaise/la-guyane-confrontee-a-sa-plus-importante-epidemie-de-dengue-depuis-20-ans_6362077.html) (Francetvinfo.fr)
+
+- [Brasil chega à marca de meio milhão de casos prováveis de dengue e 75 mortes confirmadas](https://noticias.r7.com/saude/brasil-registra-mais-de-meio-milhao-de-casos-de-dengue-e-75-mortes-confirmadas-12022024) (R7.com)
+
+- [Informações falsas sobre o combate à dengue circulam pela internet; veja o que dizem os especialistas](https://noticias.r7.com/jr-na-tv/videos/informacoes-falsas-sobre-o-combate-a-dengue-circulam-pela-internet-veja-o-que-dizem-os-especialistas-12022024) (R7.com)
+
+- [Casos de dengue no estado do Rio aumentam 56% em uma semana](https://jornaldebrasilia.com.br/noticias/brasil/casos-de-dengue-no-estado-do-rio-aumentam-56-em-uma-semana/) (Jornaldebrasilia.com.br)
+
+- [São Paulo recebe primeira remessa de 79,4 mil vacinas contra a dengue](https://jornaldebrasilia.com.br/noticias/brasil/sao-paulo-recebe-primeira-remessa-de-794-mil-vacinas-contra-a-dengue/) (Jornaldebrasilia.com.br)
+
 - [Ministerio de Perú informa que existen 117 distritos con transmisión activa de dengue](https://sputniknews.lat/20240212/ministerio-de-peru-informa-que-existen-117-distritos-con-transmision-activa-de-dengue-1148180770.html) (Sputniknews.lat)
 
+- [Rio registra 39.311 casos prováveis de dengue; secretária fala em 'combate coletivo' ao mosquito](https://noticias.r7.com/rio-de-janeiro/rio-registra-39311-casos-provaveis-de-dengue-secretaria-fala-em-combate-coletivo-ao-mosquito-12022024) (R7.com)
+
 - [Dengue: vacinação de crianças de 10 e 11 anos continua neste feriado](https://www.metropoles.com/distrito-federal/dengue-vacinacao-de-criancas-de-10-e-11-anos-continua-neste-feriado) (Metropoles.com)
+
+- [Ministerio de Salud activó alerta por posible ingreso de dengue, sobre todo en frontera](https://www.montevideo.com.uy/Salud/Ministerio-de-Salud-activo-alerta-por-posible-ingreso-de-dengue-sobre-todo-en-frontera-uc879456) (Montevideo.com.uy)
 
 - [Dengue pode se manifestar nos olhos; conheça os sintomas](https://www.terra.com.br/vida-e-estilo/saude/dengue-pode-se-manifestar-nos-olhos-conheca-os-sintomas,929dbfee60985a29523adfd78497152ewcurwgkz.html) (Terra.com.br)
 
 - [Le Brésil menacé par une épidémie de dengue sans précédent](https://www.lemonde.fr/planete/article/2024/02/12/le-bresil-menace-par-une-epidemie-de-dengue-sans-precedent_6216159_3244.html) (Le Monde)
+
+- [Procura por dedetização cresce em Campinas em meio à alerta de dengue; entenda o procedimento](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/12/procura-por-dedetizacao-cresce-em-campinas-em-meio-a-alerta-de-dengue-entenda-o-procedimento.ghtml) (Globo)
 
 - [Anápolis: agentes e soldados saem às ruas no combate à dengue](https://www.metropoles.com/brasil/anapolis-agentes-e-soldados-saem-as-ruas-no-combate-a-dengue) (Metropoles.com)
 
@@ -83,7 +115,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Aparecida (GO) inicia vacinação contra a dengue nesta quinta (15/2)](https://www.metropoles.com/brasil/aparecida-go-inicia-vacinacao-contra-a-dengue-nesta-quinta-15-2) (Metropoles.com)
 
+- [Os repelentes mais eficazes e seguros contra a dengue de acordo com a Anvisa](https://www.terra.com.br/vida-e-estilo/saude/os-repelentes-mais-eficazes-e-seguros-contra-a-dengue-de-acordo-com-a-anvisa,837275f0ac8c2449d0944aa6c1bbb5fb8c0k24a4.html) (Terra.com.br)
+
 - [Brasil deve ter 149% mais casos de dengue em 2024 do que no pior ano](https://saude.ig.com.br/2024-02-12/brasil-deve-ter-149--mais-casos-de-dengue-em-2024-do-que-no-pior-ano.html) (Ig.com.br)
+
+- [Com aumento de casos de dengue, busca por repelentes dispara em todo o Brasil](https://noticias.r7.com/record-news/videos/com-epidemia-de-dengue-busca-por-repelentes-dispara-em-todo-o-brasil-12022024) (R7.com)
 
 - [Brasilien tanzt Samba – und impft gegen Dengue-Ausbruch](https://www.diepresse.com/18093755/brasilien-tanzt-samba-und-impft-gegen-dengue-ausbruch) (Diepresse.com)
 
@@ -95,9 +131,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Pra se proteger da dengue, confira se o repelente tem esse ingrediente](https://www.terra.com.br/vida-e-estilo/saude/pra-se-proteger-da-dengue-confira-se-o-repelente-tem-esse-ingrediente,402958bf9665e773125bd9d8037eb0954xw00dh4.html) (Terra.com.br)
 
+- [Anvisa informa sobre repelentes contra o mosquito da dengue](https://catracalivre.com.br/saude-bem-estar/anvisa-informa-sobre-repelentes-contra-o-mosquito-da-dengue/) (Catracalivre.com.br)
+
+- [Atendimentos a casos suspeitos de dengue aumentam 7 vezes e Campinas passa de 1 mil em uma semana](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/11/atendimentos-a-casos-suspeitos-de-dengue-aumentam-7-vezes-e-campinas-passa-de-1-mil-em-uma-semana.ghtml) (Globo)
+
+- [Dengue: como as fachadas de prédios pode dizer sobre o risco de focos do 'Aedes'](https://www.terra.com.br/vida-e-estilo/saude/dengue-como-as-fachadas-de-predios-pode-dizer-sobre-o-risco-de-focos-do-aedes,d5a3fb4b9913e140d3ddd60abf346d079qgib2zf.html) (Terra.com.br)
+
 - [Deputado Chico Vigilante contrai dengue: “Dor em tudo que é canto”](https://www.metropoles.com/distrito-federal/deputado-chico-vigilante-contrai-dengue-dor-em-tudo-que-e-canto) (Metropoles.com)
 
 - [Brasilien feiert Karneval und kämpft gegen das Denguefieber](https://www.faz.net/aktuell/gesellschaft/gesundheit/brasilien-feiert-karneval-und-kaempft-gegen-das-denguefieber-19512143.html) (Faz.net)
+
+- [Diminuição da urina pode ser sinal de dengue; veja os principais sintomas](https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/) (Catracalivre.com.br)
 
 - [Brasil chega a 62 mortes e 408 mil casos prováveis de dengue](https://www.terra.com.br/vida-e-estilo/saude/brasil-chega-a-62-mortes-e-408-mil-casos-provaveis-de-dengue,b042506c5c0ff36d0e4a5f36344facfbchj8m928.html) (Terra.com.br)
 
@@ -114,6 +158,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue cases down in ME06, one death reported](https://www.thestar.com.my/news/nation/2024/02/11/dengue-cases-down-in-me06-one-death-reported) (The Star Online)
 
 - [El regreso del dengue](https://www.lanacion.com.ar/editoriales/el-regreso-del-dengue-nid11022024/) (La Nacion)
+
+- ['É quase impossível bloquear uma epidemia de dengue em curso', afirma pesquisador da Fiocruz](https://entrevista.r7.com/pesquisador-fiocruz-epidemia-dengue-11022024) (R7.com)
 
 - [Dengue: 408 mil casos são confirmados pelo Ministério da Saúde](https://ultimosegundo.ig.com.br/brasil/2024-02-10/numero-de-casos-de-dengue-brasil.html) (Ig.com.br)
 
@@ -435,9 +481,13 @@ Source: [News API](https://newsapi.org/)
 
 - [DF vacina 6.941 contra a dengue nos dois primeiros dias de campanha](https://www.metropoles.com/distrito-federal/df-vacina-6-941-contra-a-dengue-nos-dois-primeiros-dias-de-campanha) (Metropoles.com)
 
+- [Suspeita de dengue no BBB 24? Davi recebe atendimento após sintomas](https://gente.ig.com.br/bbb/2024-02-10/suspeita-de-dengue-no-bbb-24-davi-recebe-atendimento.html) (Ig.com.br)
+
 - [BBB | Davi recebe atendimento médico e levanta suspeitas de dengue](https://www.terra.com.br/diversao/tv/reality-shows/bbb-davi-recebe-atendimento-medico-e-levanta-suspeitas-de-dengue,7a6e2755d24ce0901f128a57728c192f7bkxeqhm.html) (Terra.com.br)
 
 - [BBB 24: Davi precisa de ajuda médica e brothers suspeitam de dengue](https://www.metropoles.com/entretenimento/bbb/bbb-24-davi-precisa-de-ajuda-medica-e-brothers-suspeitam-de-dengue) (Metropoles.com)
+
+- [Dengue: busca por profissionais para limpeza de terrenos cresce 70% na RMC, diz associação](https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/10/dengue-busca-por-profissionais-para-limpeza-de-terrenos-cresce-70percent-na-rmc-diz-associacao.ghtml) (Globo)
 
 - [Tacuarembó: joven de 14 años está internado en CTI por posible dengue tras ida a Cataratas](https://www.montevideo.com.uy/Salud/Tacuarembo-joven-de-14-anos-esta-internado-en-CTI-por-posible-dengue-tras-ida-a-Cataratas-uc879312) (Montevideo.com.uy)
 
@@ -447,7 +497,11 @@ Source: [News API](https://newsapi.org/)
 
 - [Covid ou dengue? Saiba como diferenciar os sintomas em crianças](https://www.metropoles.com/saude/covid-dengue-sintomas-em-criancas) (Metropoles.com)
 
+- [Mais da metade das cidades do Brasil já tem casos de dengue em 2024](https://valor.globo.com/brasil/noticia/2024/02/10/mais-da-metade-das-cidades-do-brasil-ja-tem-casos-de-dengue-em-2024.ghtml) (Globo)
+
 - [Famílias chegam cedo a UBSs do DF para vacinar crianças contra dengue](https://www.metropoles.com/distrito-federal/familias-chegam-cedo-a-ubss-do-df-para-vacinar-criancas-contra-dengue) (Metropoles.com)
+
+- [BBB 24: noite tem alerta de dengue, choro de planta e embate com Davi](https://gente.ig.com.br/bbb/2024-02-10/bbb-24-resumo-o-que-aconteceu-noite-tem-alerta-dengue-embate-davi.html) (Ig.com.br)
 
 - [Dengue: vacinação em GO começará por crianças de 10 e 11 anos](https://www.metropoles.com/brasil/dengue-vacinacao-em-go-comecara-por-criancas-de-10-e-11-anos) (Metropoles.com)
 
@@ -458,6 +512,8 @@ Source: [News API](https://newsapi.org/)
 - [Renato Kfouri: “Vacina da dengue é segura e protege por 5 anos”](https://www.metropoles.com/saude/renato-kfouri-vacina-dengue-segura) (Metropoles.com)
 
 - [Dengue: procura por repelentes aumenta 120% em fevereiro no Brasil](https://www.metropoles.com/brasil/dengue-procura-por-repelentes-aumenta-120-em-fevereiro-no-brasil) (Metropoles.com)
+
+- [Sobe para nove o número de mortes por dengue no estado de São Paulo](https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/sobe-para-nove-o-numero-de-mortes-por-dengue-no-estado-de-sao-paulo-10022024) (R7.com)
 
 - [DF imuniza 3.633 crianças no primeiro dia de vacinação contra dengue](https://www.metropoles.com/distrito-federal/df-imuniza-3-633-criancas-no-primeiro-dia-de-vacinacao-contra-dengue) (Metropoles.com)
 
@@ -3035,6 +3091,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
+## 23-53 (measles)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
+
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
+
+- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)

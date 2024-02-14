@@ -1,8 +1,242 @@
 {
-  "last_updated": "2024-02-13 19:05",
-  "count_articles_total": 1374,
-  "count_articles_new": 17,
+  "last_updated": "2024-02-14 07:06",
+  "count_articles_total": 1403,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 5397,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Jade Abreu",
+      "title": "No DF, 440 servidores da Sa\u00fade contra\u00edram dengue e ficaram afastados",
+      "description": "No GDF, 618 servidores se afastaram apenas em janeiro. Os profissionais de sa\u00fade correspondem a quase 70% do n\u00famero de afastamento",
+      "url": "https://www.metropoles.com/distrito-federal/no-df-440-servidores-da-saude-contrairam-dengue-e-ficaram-afastados",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2023/08/28203904/CLDF-cobra-revisao-do-plano-de-saude-dos-servidores-do-GDF.jpg",
+      "publishedAt": "2024-02-13 05:52:18",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.364174",
+      "internal_id": "dacb1e538916a952dfd18edc776be87f2cb694a76451dd92bd2b25bfb2396f24",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5391,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Riley Moser",
+      "title": "Health officials confirm measles case in Twin Cities metro",
+      "description": "The Minnesota Department of Health confirmed Monday that there is a case of measles in the Twin Cities metro area.",
+      "url": "https://www.cbsnews.com/minnesota/news/health-officials-confirm-measles-case-in-twin-cities-metro/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/23/fa7028e0-03ce-448b-9970-bb566f600272/thumbnail/1200x630/24836e6026b1bed3b3bf185256c1ef74/gettyimages-1429059636.jpg?v=b776bbc665e28d385e06ef913c5ff9ae",
+      "publishedAt": "2024-02-13 04:11:43",
+      "content": "MINNEAPOLIS \u2014 The Minnesota Department of Health confirmed Monday that there is a case of measles in the Twin Cities metro area. The department provided little information on the case, but said the \u2026 [+1229 chars]",
+      "retrievedAt": "2024-02-14 07:06:12.717927",
+      "internal_id": "962a4882a308b999eb2bbf1e567b48088ec7bf4dfa1e39b6315ace5e2863c6cb",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5398,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Brasil ultrapassa a marca de meio milh\u00e3o de casos prov\u00e1veis de dengue, com 75 mortes",
+      "description": "O Brasil ultrapassou a marca de meio milh\u00e3o de cas...",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/12/brasil-ultrapassa-a-marca-de-meio-milho-de-casos-provveis-de-dengue-com-75-mortes.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2024-02-13 02:19:04",
+      "content": "Por Cl\u00e1udia Collucci, Folhapress \u2014 S\u00e3o Paulo 12/02/2024 23h19 Atualizado 12/02/2024",
+      "retrievedAt": "2024-02-14 07:06:13.387058",
+      "internal_id": "4540459f65c9cc65c67e53a7f1c53aa9e099d503a08b562d83538a72213dca26",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5414,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Brasil supera a marca de meio milh\u00e3o de prov\u00e1veis casos de dengue em 2024",
+      "description": "O Brasil ultrapassou a marca de meio milh\u00e3o de casos prov\u00e1veis de dengue, com 75 mortes confirmadas, e outras 340 mortes por suspeita de dengu...",
+      "url": "https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/brasil-supera-a-marca-de-meio-milhao-de-provaveis-casos-de-dengue-em-2024-13022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/13/65cae6cb4b49556718004f9c/a3a0a5cf9e3d4a7c8f8e4e08802f6377__2516025_EPP_1302_BOLETIMJR_CASOS_DENGUE_thumb_thumb.jpg",
+      "publishedAt": "2024-02-13 01:00:00",
+      "content": "O Brasil ultrapassou a marca de meio milh\u00e3o de casos prov\u00e1veis de dengue, com 75 mortes confirmadas, e outras 340 mortes por suspeita de dengue ainda est\u00e3o sendo investigadas. Os n\u00fameros s\u00e3o do pain\u2026 [+379 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.480135",
+      "internal_id": "4b5ccf986e983936c0561e73ccf618e95d5faa5da0cd1fb28bbd9a1588014627",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 5394,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Bruno Ribeiro",
+      "title": "SP recebe doses de vacina da dengue, mas n\u00e3o tem previs\u00e3o de aplica\u00e7\u00e3o",
+      "description": "Secretaria Estadual da Sa\u00fade tinha programa\u00e7\u00e3o de vacinar contra dengue de p\u00fablico maior do que o indicado pelo Minist\u00e9rio da Sa\u00fade",
+      "url": "https://www.metropoles.com/sao-paulo/sp-recebe-doses-de-vacina-da-dengue-mas-nao-tem-previsao-de-aplicacao",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08161620/vacina-dengue-qdenga.jpeg",
+      "publishedAt": "2024-02-12 23:52:25",
+      "content": "S\u00e3o Paulo A Secretaria Estadual da Sa\u00fade recebeu na \u00faltima sexta-feira (9/2) as primeiras 79,6 mil doses de vacina contra a dengue enviadas pelo Minist\u00e9rio da Sa\u00fade a S\u00e3o Paulo, mas ainda n\u00e3o inicio\u2026 [+4582 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.335189",
+      "internal_id": "3ce3036815d8ae931b9389940128384061149013d232bf26855164afd4a9b0ab",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5395,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Samara Schwingel",
+      "title": "Em quatro dias, DF aplica quase 10 mil doses da vacina contra a dengue",
+      "description": "Apenas nesta segunda foram aplicadas 2 mil doses da vacina contra a dengue. Imuniza\u00e7\u00e3o continua nas UBSs na ter\u00e7a-feira (13/2)",
+      "url": "https://www.metropoles.com/distrito-federal/em-quatro-dias-df-aplica-quase-10-mil-doses-da-vacina-contra-a-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/09113213/Vacinacao-dengue-UBS-Asa-7.jpg",
+      "publishedAt": "2024-02-12 23:30:32",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.352121",
+      "internal_id": "6c4d7768b40aac62ffccbb44c0ba6744cd50cb5454eb7399a1dca8794d898886",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5390,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Alberta urged to make 'full court push' against measles as Europe battles outbreaks",
+      "description": "As cases of measles surge in Europe, there are calls for public health officials in Alberta to take stronger steps to keep it out.",
+      "url": "https://www.cbc.ca/news/canada/calgary/measles-immunization-rate-alberta-1.7112525",
+      "urlToImage": "https://i.cbc.ca/1.5343106.1707774687!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg",
+      "publishedAt": "2024-02-12 21:56:28",
+      "content": "As cases of measles surge in Europe, there are calls for public health officials in Alberta to take stronger steps to prevent outbreaks . The World Health Organization recently warned of a dramatic \u2026 [+5082 chars]",
+      "retrievedAt": "2024-02-14 07:06:12.687242",
+      "internal_id": "775c14abd9f041b05a1a2b60aa6e9d056ad2a6a05ee26f083339f48c9e003ada",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5392,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Francetvinfo.fr",
+      "author": null,
+      "title": "La Guyane confront\u00e9e \u00e0 sa plus importante \u00e9pid\u00e9mie de dengue depuis 20 ans",
+      "description": "En janvier 2024, 800 nouveaux cas se sont d\u00e9clar\u00e9s en moyenne par semaine, selon les autorit\u00e9s sanitaires.",
+      "url": "https://www.francetvinfo.fr/france/guyane-francaise/la-guyane-confrontee-a-sa-plus-importante-epidemie-de-dengue-depuis-20-ans_6362077.html",
+      "urlToImage": "https://www.francetvinfo.fr/pictures/ha-zGc4QB_WYE2Q3DqmCADTZYGw/1500x843/2024/02/12/075-roy-notitle240115-np4lx-65ca90a832202577495227.jpg",
+      "publishedAt": "2024-02-12 21:42:59",
+      "content": "La Guyane est confront\u00e9e \u00e0 sa plus importante \u00e9pid\u00e9mie de dengue depuis une vingtaine d'ann\u00e9es : elle a commenc\u00e9 mi-2023 et s'est acc\u00e9l\u00e9r\u00e9e depuis d\u00e9but janvier 2024 avec 800 nouveaux cas d\u00e9clar\u00e9s en\u2026 [+881 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.296077",
+      "internal_id": "381de5afcd46abc718733d0c29ae00e82af634b948e26e3912ac9b75c97f1df8",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5415,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Victoria Lacerda, do R7, em Bras\u00edlia",
+      "title": "Brasil chega \u00e0 marca de meio milh\u00e3o de casos prov\u00e1veis de dengue e 75 mortes confirmadas",
+      "description": "Outros 340 \u00f3bitos pela doen\u00e7a est\u00e3o em investiga\u00e7\u00e3o; dados est\u00e3o no painel de monitoramento do Minist\u00e9rio da Sa\u00fade",
+      "url": "https://noticias.r7.com/saude/brasil-registra-mais-de-meio-milhao-de-casos-de-dengue-e-75-mortes-confirmadas-12022024",
+      "urlToImage": "https://img.r7.com/images/dengue-mosquito-06022024171614625?crop=751x422+10+52",
+      "publishedAt": "2024-02-12 20:55:00",
+      "content": "Brasil chega aos 500 mil casos prov\u00e1veis de dengue Rodrigo M\u00e9xas e Raquel Portugal/ Acervo Fiocruz Imagens O Brasil chegou \u00e0 marca de meio milh\u00e3o de casos prov\u00e1veis de dengue, de acordo com \u2026 [+3314 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.484984",
+      "internal_id": "fc0da95550b40bac3103f7bb7d5efef51e69513820e2188603550905b2d67605",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5416,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Informa\u00e7\u00f5es falsas sobre o combate \u00e0 dengue circulam pela internet; veja o que dizem os especialistas",
+      "description": "Com o aumento no n\u00famero de casos de dengue em todo o pa\u00eds, cresce a preocupa\u00e7\u00e3o da popula\u00e7\u00e3o com a doen\u00e7a e o mosquito transmissor. Muitas pes...",
+      "url": "https://noticias.r7.com/jr-na-tv/videos/informacoes-falsas-sobre-o-combate-a-dengue-circulam-pela-internet-veja-o-que-dizem-os-especialistas-12022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/12/65caabdcca9084c4280001ac/2e393176b0154aa58419f746a7695cec__2515881_EPP_1202_JR_FAKE_NEWS_MOSQUITO_thumb_thumb.jpg",
+      "publishedAt": "2024-02-12 20:55:00",
+      "content": "Com o aumento no n\u00famero de casos de dengue em todo o pa\u00eds, cresce a preocupa\u00e7\u00e3o da popula\u00e7\u00e3o com a doen\u00e7a e o mosquito transmissor. Muitas pessoas recorrem \u00e0 internet e acabam se deparando com tratam\u2026 [+152 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.489165",
+      "internal_id": "3ba332bfd8aef799a55a45156c30f00fc2dbfd6438f7bcb8bf0f8fa0d6ad6844",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5417,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Cosmin Pirv",
+      "title": "Aten\u0163ionare de c\u0103l\u0103torie a MAE: Men\u0163inerea pericolului de \u00eemboln\u0103vire cu \u201emalaria de import\u201d",
+      "description": "Ministerul Afacerilor Externe reaminte\u015fte, luni, c\u0103 se men\u0163ine pericolul de \u00eemboln\u0103vire cu \u201emalaria de import\u201d \u015fi recomand\u0103 celor care fac deplas\u0103ri interna\u0163ionale s\u0103 se informeze asupra condi\u0163iilor de c\u0103l\u0103torie \u00een \u0163\u0103rile pe care inten\u0163ioneaz\u0103 s\u0103 le viziteze.",
+      "url": "https://www.mediafax.ro/social/atentionare-de-calatorie-a-mae-mentinerea-pericolului-de-imbolnavire-cu-malaria-de-import-22265197",
+      "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/1688/22265197/2/tantari-shutterstock.jpg?width=640",
+      "publishedAt": "2024-02-12 20:39:29",
+      "content": "MAE reamintete cetenilor rom\u00e2ni care urmeaz s efectueze o deplasare internaional s se informeze asupra condiiilor de cltorie \u00een rile pe care intenioneaz s le viziteze, ca urmare a creterii numrului d\u2026 [+1895 chars]",
+      "retrievedAt": "2024-02-14 07:06:14.217580",
+      "internal_id": "9ab5676819ce9fca2309dd5d69e332a5939a8af14d0b7be8d8b7e1b004daf5fc",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "Casos de dengue no estado do Rio aumentam 56% em uma semana",
+      "description": "O estado do Rio de Janeiro registrou 39.311 casos prov\u00e1veis de dengue e tr\u00eas \u00f3bitos de janeiro a 12 de fevereiro desse ano. Os dados...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/casos-de-dengue-no-estado-do-rio-aumentam-56-em-uma-semana/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/12201052/IMG_9791.webp",
+      "publishedAt": "2024-02-12 20:11:23",
+      "content": "O estado do Rio de Janeiro registrou 39.311 casos prov\u00e1veis de dengue e tr\u00eas \u00f3bitos de janeiro a 12 de fevereiro desse ano. Os dados s\u00e3o do Painel Monitora, da Secretaria de Estado de Sa\u00fade. Chama a \u2026 [+1374 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.318934",
+      "internal_id": "48c26ed2aa987b57f122f5db9b5677bd2783092f8905a53fe878059900d7103d",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5396,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Jornaldebrasilia.com.br",
+      "author": "Jornal de Bras\u00edlia",
+      "title": "S\u00e3o Paulo recebe primeira remessa de 79,4 mil vacinas contra a dengue",
+      "description": "S\u00c3O PAULO, SP (FOLHAPRESS) A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo anunciou nesta segunda-feira (12) ter recebido na \u00faltima sexta...",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/sao-paulo-recebe-primeira-remessa-de-794-mil-vacinas-contra-a-dengue/",
+      "urlToImage": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2024/02/12193941/IMG_9788.jpeg",
+      "publishedAt": "2024-02-12 19:38:46",
+      "content": "S\u00c3O PAULO, SP (FOLHAPRESS) A Secretaria de Estado da Sa\u00fade de S\u00e3o Paulo anunciou nesta segunda-feira (12) ter recebido na \u00faltima sexta-feira (9) 79,4 mil doses do imunizante contra a dengue enviadas\u2026 [+3194 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.357172",
+      "internal_id": "144221fc5481ff3cefc893942e814d4788c9ea0f406500bce9523aac14885eb2",
+      "publishedAtLabel": "Feb 12"
+    },
     {
       "id": 5382,
       "query": [
@@ -22,6 +256,24 @@
       "publishedAtLabel": "Feb 12"
     },
     {
+      "id": 5399,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Gabriel Vital*, do R7",
+      "title": "Rio registra 39.311 casos prov\u00e1veis de dengue; secret\u00e1ria fala em 'combate coletivo' ao mosquito",
+      "description": "At\u00e9 o momento, foram confirmadas tr\u00eas mortes por conta da doen\u00e7a no estado; capital decretou situa\u00e7\u00e3o de emerg\u00eancia",
+      "url": "https://noticias.r7.com/rio-de-janeiro/rio-registra-39311-casos-provaveis-de-dengue-secretaria-fala-em-combate-coletivo-ao-mosquito-12022024",
+      "urlToImage": "https://img.r7.com/images/r7rio-022024-epidemia-dengue-02022024160147854?crop=664x373+44+5",
+      "publishedAt": "2024-02-12 18:45:43",
+      "content": "Estado registra 39.311 casos de dengue at\u00e9 o momento Fernando Fraz\u00e3o/Ag\u00eancia Brasil O Governo do Rio de Janeiro, atrav\u00e9s da SES-RJ (Secretaria de Estado de Sa\u00fade), divulgou nesta segunda-fei\u2026 [+1231 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.409191",
+      "internal_id": "ea08e4b59a0a94350e7849bffa10c59a18b11a0eef69b76c1bec0210445987e8",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
       "id": 5385,
       "query": [
         "dengue"
@@ -37,6 +289,24 @@
       "content": "A vacina\u00e7\u00e3o de crian\u00e7as com 10 e 11 anos continua no Distrito Federal, nesta segunda (12/2) e na ter\u00e7a-feira de Carnaval (13/2). O servi\u00e7o \u00e9 gratuito e oferecido em 15 unidades b\u00e1sicas de sa\u00fade (UBSs\u2026 [+3976 chars]",
       "retrievedAt": "2024-02-13 19:05:33.965767",
       "internal_id": "063fdf3325073d42fac99b65765055a48d22b55338d626175adfa0eaa6265638",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5400,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Ministerio de Salud activ\u00f3 alerta por posible ingreso de dengue, sobre todo en frontera",
+      "description": "La ministra Rando dijo que el brote de casos en Brasil conlleva un \u201criesgo alto\u201d de circulaci\u00f3n de la enfermedad en Uruguay. La ministra Rando dijo que el brote de casos en Brasil conlleva un \u201criesgo alto\u201d de circulaci\u00f3n de la enfermedad en Uruguay.",
+      "url": "https://www.montevideo.com.uy/Salud/Ministerio-de-Salud-activo-alerta-por-posible-ingreso-de-dengue-sobre-todo-en-frontera-uc879456",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/201702/_W933_80/602597.jpg",
+      "publishedAt": "2024-02-12 18:03:00",
+      "content": "Brasil ha tenido un rebrote importante de casos de dengue. En las \u00faltimas tres semanas se registr\u00f3 un 300% de aumento de los casos en zonas como R\u00edo de Janeiro o San Pablo. Por este motivo, el M\u2026 [+5036 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.413467",
+      "internal_id": "4a4fbc73167dfff9592c62e4aad81ea7887b453dcb21d993a17bcb5815b26dda",
       "publishedAtLabel": "Feb 12"
     },
     {
@@ -112,6 +382,24 @@
       "publishedAtLabel": "Feb 12"
     },
     {
+      "id": 5405,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Procura por dedetiza\u00e7\u00e3o cresce em Campinas em meio \u00e0 alerta de dengue; entenda o procedimento",
+      "description": "Levantamento realizado pela EPTV mostra que ao menos 13 empresas do setor notaram alta de at\u00e9 50% na procura por atendimento. Profissional realiza dedetiza\u00e7\u00e3o para combater mosquito da dengue em Campinas Reprodu\u00e7\u00e3o/EPTV A procura por dedetiza\u00e7\u00e3o aumentou em C\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/12/procura-por-dedetizacao-cresce-em-campinas-em-meio-a-alerta-de-dengue-entenda-o-procedimento.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/FBYsMhTxF0QCFmO5MsQPiSDjFh4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/p/d/ZdGwmrSke727klP0UOIA/screenshot-4.png",
+      "publishedAt": "2024-02-12 16:08:55",
+      "content": "Um levantamento realizado pela EPTV, afiliada da TV Globo, com 16 empresas do setor constatou que 13 tiveram alta de 40% a 50% na realiza\u00e7\u00e3o desse servi\u00e7o. Crescimento que acompanha o n\u00famero de casos\u2026 [+2830 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.440440",
+      "internal_id": "03143774ef434f70e867dfc5d03de7e7797b45e466964218b19cf20b8de1302c",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
       "id": 5381,
       "query": [
         "dengue"
@@ -184,6 +472,24 @@
       "publishedAtLabel": "Feb 12"
     },
     {
+      "id": 5402,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Os repelentes mais eficazes e seguros contra a dengue de acordo com a Anvisa",
+      "description": "Ag\u00eancia faz alerta ao uso de produtos considerados \"naturais\" e explica quais subst\u00e2ncias realmente protegem de picadas do Aedes aegypti",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/os-repelentes-mais-eficazes-e-seguros-contra-a-dengue-de-acordo-com-a-anvisa,837275f0ac8c2449d0944aa6c1bbb5fb8c0k24a4.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/12/istock-992623726-trrczfr73ynl.jpg",
+      "publishedAt": "2024-02-12 14:35:20",
+      "content": "O Painel de Monitoramento de Arboviroses do Minist\u00e9rio da Sa\u00fade registrou 408 mil casos prov\u00e1veis de dengue no Brasil na \u00faltima sexta-feira (9). O n\u00famero de v\u00edtimas confirmadas da doen\u00e7a atingiu 62, \u2026 [+2684 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.426598",
+      "internal_id": "af02ea254a5a41803c66ad4d35d25c10417f3e090a39739af81374d8a99bbccb",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
       "id": 5386,
       "query": [
         "dengue"
@@ -199,6 +505,24 @@
       "content": "O Brasil deve registrar 149% mais casos de dengue em 2024 do que no pior ano da s\u00e9rie hist\u00f3rica, projetando 4,2 milh\u00f5es de infectados, de acordo com proje\u00e7\u00f5es do Minist\u00e9rio da Sa\u00fade divulgadas na \u00falt\u2026 [+2014 chars]",
       "retrievedAt": "2024-02-13 19:05:33.998077",
       "internal_id": "0440688a536a75c502d659715a2d071aca6b9031d87970915f7bb26e15225070",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 5413,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Com aumento de casos de dengue, busca por repelentes dispara em todo o Brasil",
+      "description": "Em meio \u00e0 alta nos casos de dengue em todo o pa\u00eds, a procura para comprar repelentes disparou. Um dono de farm\u00e1cia em Maring\u00e1 (PR) estimou que...",
+      "url": "https://noticias.r7.com/record-news/videos/com-epidemia-de-dengue-busca-por-repelentes-dispara-em-todo-o-brasil-12022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/12/65ca3deb19d224d5d1000018/3dc16ffd162141daa16af3916b62587a__Com_epidemia_de_dengue__busca_por_repelentes_dispara_em_todo_o_Brasil_thumb_thumb.jpg",
+      "publishedAt": "2024-02-12 13:07:23",
+      "content": "Em meio \u00e0 alta nos casos de dengue em todo o pa\u00eds, a procura para comprar repelentes disparou. Um dono de farm\u00e1cia em Maring\u00e1 (PR) estimou que a expans\u00e3o foi de 20% a 30%. Al\u00e9m disso, fabricante do i\u2026 [+97 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.475707",
+      "internal_id": "875a166c9c1d441dee262571b4bc2d282efce200b333490efb4c6289f84d2ec8",
       "publishedAtLabel": "Feb 12"
     },
     {
@@ -328,6 +652,24 @@
       "publishedAtLabel": "Feb 12"
     },
     {
+      "id": 5404,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Anvisa informa sobre repelentes contra o mosquito da dengue",
+      "description": "No combate ao mosquito Aedes aegypti, transmissor da dengue, destaca-se a necessidade do uso de repelentes. Eles s\u00e3o divididos em duas categorias: os",
+      "url": "https://catracalivre.com.br/saude-bem-estar/anvisa-informa-sobre-repelentes-contra-o-mosquito-da-dengue/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2019/05/mosquito-transgenico-sera-usado-para-combater-a-dengue-em-sp.jpg",
+      "publishedAt": "2024-02-11 22:03:04",
+      "content": "\u00daltimas not\u00edcias: No combate ao mosquito Aedes aegypti, transmissor da dengue, destaca-se a necessidade do uso de repelentes. Eles s\u00e3o divididos em duas categorias: os aplicados na pele e os destina\u2026 [+2951 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.436136",
+      "internal_id": "e8e2c977d2f77d4d77f70399a53802c647d393467e5270a33d65f809a5c27a8a",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
       "id": 5371,
       "query": [
         "meningitis"
@@ -346,6 +688,24 @@
       "publishedAtLabel": "Feb 11"
     },
     {
+      "id": 5409,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Atendimentos a casos suspeitos de dengue aumentam 7 vezes e Campinas passa de 1 mil em uma semana",
+      "description": "N\u00fameros levam em considera\u00e7\u00e3o atendimentos realizados na rede p\u00fablica municipal. Desde o in\u00edcio do ano, 2,3 mil casos foram confirmados. IMAGEM DE ARQUIVO: UPA Campo Grande, em Campinas Arthur Menicucci/g1 Em meio \u00e0 explos\u00e3o de casos da dengue em todo o estad\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/11/atendimentos-a-casos-suspeitos-de-dengue-aumentam-7-vezes-e-campinas-passa-de-1-mil-em-uma-semana.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/Z3OQpKAGdPuSZKKu6mCEBDMOEUI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/S/D/dChvjUTlA2X6Avh8sp8w/whatsapp-image-2022-12-20-at-10.32.50.jpeg",
+      "publishedAt": "2024-02-11 21:24:57",
+      "content": "O \u00edndice sete vezes maior leva em considera\u00e7\u00e3o os atendimentos realizados nos Centros de Sa\u00fade, Unidades de Pronto Atendimento (UPA) e os prontos-socorros da Rede M\u00e1rio Gatti de Urg\u00eancia, Emerg\u00eancia \u2026 [+3556 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.457393",
+      "internal_id": "24dfb97d7696c413a078ee0cbee6f822f9ec65de51b77a2ee3382fcf56ac9a50",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
       "id": 5372,
       "query": [
         "zika"
@@ -361,6 +721,24 @@
       "content": "No primeiro tempo da partida entre Corinthians e Portuguesa, Pedro Raul sentiu um problema f\u00edsico e precisou ser substitu\u00eddo. O atacante, que participou de apenas tr\u00eas partidas desde que foi contrat\u2026 [+899 chars]",
       "retrievedAt": "2024-02-13 07:06:03.965007",
       "internal_id": "4673c3d87f39887a700532b55a04d1fd54b0a8fa1f60bc9d75ec103e7762a687",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5408,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Dengue: como as fachadas de pr\u00e9dios pode dizer sobre o risco de focos do 'Aedes'",
+      "description": "Brasil j\u00e1 registra este ano mais de 400 mil casos prov\u00e1veis de dengue e 62 mortes confirmadas. Pesquisadores desenvolveram modelo computacional que pode ajudar no combate dos focos",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-como-as-fachadas-de-predios-pode-dizer-sobre-o-risco-de-focos-do-aedes,d5a3fb4b9913e140d3ddd60abf346d079qgib2zf.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/11/1941245109-qola7dna6jenbf2dh2duc7xovq.jpg",
+      "publishedAt": "2024-02-11 20:10:33",
+      "content": "AG\u00caNCIA FAPESP - Todo ano, no ver\u00e3o, os agentes comunit\u00e1rios de sa\u00fade intensificam sua rotina de visitas domiciliares em busca de focos do mosquito Aedes aegypti, transmissor da dengue e de outras do\u2026 [+4459 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.453247",
+      "internal_id": "c9f6d89d80da5cdd961aa7375f15da8e513f80f0563f71fba2be22dac03ee35c",
       "publishedAtLabel": "Feb 11"
     },
     {
@@ -397,6 +775,24 @@
       "content": "Brasilien ist in den Karneval gestartet, die sch\u00f6nste Zeit im Jahr. Millionen Menschen, darunter unz\u00e4hlige Touristen, werden zu den Stra\u00dfenkarnevals in Rio de Janeiro, Salvador, Recife, S\u00e3o Paulo und\u2026 [+3843 chars]",
       "retrievedAt": "2024-02-13 07:06:03.238090",
       "internal_id": "64595c873546a0f0a04bd5b1bd53019e5923d224c20375ecf9db07b874f100d2",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 5412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Reda\u00e7\u00e3o",
+      "title": "Diminui\u00e7\u00e3o da urina pode ser sinal de dengue; veja os principais sintomas",
+      "description": "O Brasil enfrenta um desafio de sa\u00fade p\u00fablica com o aumento expressivo os casos de dengue desde o in\u00edcio deste ano. Embora muitas infec\u00e7\u00f5es sejam",
+      "url": "https://catracalivre.com.br/saude-bem-estar/diminuicao-da-urina-pode-ser-sinal-de-dengue-veja-os-principais-sintomas/",
+      "urlToImage": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=1280,h=720,fit=cover,format=jpeg/wp-content/uploads/2020/02/dengue-1.jpg",
+      "publishedAt": "2024-02-11 14:35:38",
+      "content": "\u00daltimas not\u00edcias: O Brasil enfrenta um desafio de sa\u00fade p\u00fablica com o aumento expressivo os casos de dengue desde o in\u00edcio deste ano. Embora muitas infec\u00e7\u00f5es sejam assintom\u00e1ticas ou produzam apenas \u2026 [+1331 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.471431",
+      "internal_id": "9c592bb5675cdbfc9d15c884e394b09c71f6ed44218791dcb4edee3b83b22ba9",
       "publishedAtLabel": "Feb 11"
     },
     {
@@ -616,6 +1012,24 @@
       "publishedAtLabel": "Feb 11"
     },
     {
+      "id": 5410,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Fernando Mellis, do R7",
+      "title": "'\u00c9 quase imposs\u00edvel bloquear uma epidemia de dengue em curso', afirma pesquisador da Fiocruz",
+      "description": "Rivaldo Ven\u00e2ncio da Cunha estuda a doen\u00e7a h\u00e1 quase quatro d\u00e9cadas e ressalta que, por outro lado, \u00e9 'relativamente f\u00e1cil' salvar vidas em momentos como o que o Brasil vive",
+      "url": "https://entrevista.r7.com/pesquisador-fiocruz-epidemia-dengue-11022024",
+      "urlToImage": "https://img.r7.com/images/rivaldo-venancio-fiocruz-06022024122339056?crop=722x406+56+4",
+      "publishedAt": "2024-02-11 02:00:06",
+      "content": "Rivaldo Ven\u00e2ncio diz que situa\u00e7\u00e3o da dengue no Brasil n\u00e3o est\u00e1 fora de controle Peter Ilicciev/Fiocruz Uma explos\u00e3o do n\u00famero de casos de dengue levou quatro estados e o Distrito Federal \u2026 [+12844 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.461753",
+      "internal_id": "d10d089044de45184ea0fcebd5f4e5d517b6475a391a41cc4070919525025013",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
       "id": 5314,
       "query": [
         "sarampi\u00f3n"
@@ -670,6 +1084,24 @@
       "publishedAtLabel": "Feb 10"
     },
     {
+      "id": 5403,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Gente, iG Gente",
+      "title": "Suspeita de dengue no BBB 24? Davi recebe atendimento ap\u00f3s sintomas",
+      "description": "O brother tem apresentado mal-estar e diarreia",
+      "url": "https://gente.ig.com.br/bbb/2024-02-10/suspeita-de-dengue-no-bbb-24-davi-recebe-atendimento.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/by/47/3z/by473zwk6d25ol0j55itn97mx.jpg",
+      "publishedAt": "2024-02-10 23:37:53",
+      "content": "Na tarde deste s\u00e1bado (10), Davi precisou receber atendimento m\u00e9dico no BBB 24. O brother n\u00e3o anda se sentindo muito bem e tem apresentado alguns sintomas, como mal-estar e diarreia. Alguns participa\u2026 [+1027 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.431869",
+      "internal_id": "341a54bfae86ff3fad89b4d0f2e93061bba6f7b75147355bdefa7d93b4e66df8",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
       "id": 5353,
       "query": [
         "dengue"
@@ -703,6 +1135,24 @@
       "content": "Davi precisou receber atendimento m\u00e9dico no BBB 24, na tarde deste s\u00e1bado (10/2), ap\u00f3s suspeitas de que tenha contra\u00eddo dengue. O brother passou o dia se sentindo mal, mas a TV Globo ainda n\u00e3o inform\u2026 [+911 chars]",
       "retrievedAt": "2024-02-12 07:06:14.078402",
       "internal_id": "407c17d9a0f9f2039f2c53acf63de71d97d534239599581eb293a9445ac043ce",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5401,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Dengue: busca por profissionais para limpeza de terrenos cresce 70% na RMC, diz associa\u00e7\u00e3o",
+      "description": "Dados consideram contrata\u00e7\u00f5es para limpeza de obras, terrenos e casas ou pr\u00e9dios vazios que est\u00e3o \u00e0 espera de aluguel ou compra. Em meio \u00e0 escalada de casos de dengue, a busca por profissionais para limpeza de terrenos aumentou 70% na Regi\u00e3o Metropolitana de \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2024/02/10/dengue-busca-por-profissionais-para-limpeza-de-terrenos-cresce-70percent-na-rmc-diz-associacao.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/NadVbPGmvqy9jyXUx5ymg9x5e5M=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/12345462.jpg",
+      "publishedAt": "2024-02-10 22:36:49",
+      "content": "De acordo com a Habicamp, os dados consideram as contrata\u00e7\u00f5es para limpeza de obras, terrenos, casas ou pr\u00e9dios vazios que est\u00e3o \u00e0 espera de aluguel ou compra. Uma obra, quando ela est\u00e1 na fase ter\u2026 [+5575 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.422594",
+      "internal_id": "f602ddaa99d24ab6998d4c5eb5a2d7e0c8ae7adb5d501f5f1a11e289a83bbf06",
       "publishedAtLabel": "Feb 10"
     },
     {
@@ -832,6 +1282,24 @@
       "publishedAtLabel": "Feb 10"
     },
     {
+      "id": 5406,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Mais da metade das cidades do Brasil j\u00e1 tem casos de dengue em 2024",
+      "description": "Com dissemina\u00e7\u00e3o da doen\u00e7a, total de munic\u00edpios com notifica\u00e7\u00f5es prov\u00e1veis cresce 28% ante 2023",
+      "url": "https://valor.globo.com/brasil/noticia/2024/02/10/mais-da-metade-das-cidades-do-brasil-ja-tem-casos-de-dengue-em-2024.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ckO8Q23qh7WOZV4F3cxcZow6Cwo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/Q/g/5YpxMBScOkWuU3W1EBjA/dengue18.jpg",
+      "publishedAt": "2024-02-10 14:16:03",
+      "content": "Mais da metade dos munic\u00edpios brasileiros registrou casos de dengue nas cinco primeiras semanas deste ano, em um mais sinal do forte avan\u00e7o da doen\u00e7a pelo pa\u00eds. At\u00e9 o dia 5 de fevereiro, 3.048 cidade\u2026 [+3512 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.444586",
+      "internal_id": "84012415b636683a138f18b73cd343cd5c44f150f2676b3281706d1edc2ec018",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
       "id": 5309,
       "query": [
         "malaria"
@@ -865,6 +1333,24 @@
       "content": "O segundo dia de vacina\u00e7\u00e3o contra a dengue no Distrito Federal come\u00e7ou com filas em Unidades B\u00e1sicas de Sa\u00fade (UBSs), na manh\u00e3 deste s\u00e1bado de Carnaval (10/2). Na UBS 2 da Asa Norte, a aplica\u00e7\u00e3o da \u2026 [+2739 chars]",
       "retrievedAt": "2024-02-12 07:06:14.227894",
       "internal_id": "a2ca3f5cd257c5ebe489268d524c2cf34b102dac8694762675d476533319ffe4",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5407,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG Gente, iG Gente",
+      "title": "BBB 24: noite tem alerta de dengue, choro de planta e embate com Davi",
+      "description": "L\u00edder Lucas Henrique mirou Davi, Fernanda, Deniziane e Isabelle ao pared\u00e3o",
+      "url": "https://gente.ig.com.br/bbb/2024-02-10/bbb-24-resumo-o-que-aconteceu-noite-tem-alerta-dengue-embate-davi.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/8d/0k/mj/8d0kmjod0y2jasujdt6qlf8us.jpg",
+      "publishedAt": "2024-02-10 12:04:31",
+      "content": "A noite de sexta-feira (9) e a madrugada de s\u00e1bado (10) foi marcada por mais embates contra Davi, com direito a aula sobre machismo. Al\u00e9m disso, a produ\u00e7\u00e3o do programa atrav\u00e9s de Tadeu Schmidt levant\u2026 [+3681 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.449441",
+      "internal_id": "59b10f356496e5690d02a0a6225638e50a186dad9940cf206feab15781241122",
       "publishedAtLabel": "Feb 10"
     },
     {
@@ -1045,6 +1531,24 @@
       "content": "HSE alert issued for bus passengers and restaurant customers who may have come into contact with deceased man Counties with the highest risk of becoming \u00admeasles hotspots are revealed today, in a we\u2026 [+239 chars]",
       "retrievedAt": "2024-02-11 07:05:57.226020",
       "internal_id": "7d067df630b7f981e0892a2352ef8937e7522e32b5098755a549a81484c2c222",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 5411,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Sobe para nove o n\u00famero de mortes por dengue no estado de S\u00e3o Paulo",
+      "description": "Subiu para nove o n\u00famero de mortes pela dengue no estado de S\u00e3o Paulo, sete casos foram no interior, um em Guarulhos, na grande S\u00e3o Paulo e um...",
+      "url": "https://noticias.r7.com/jr-24h/boletim-jr-24h/videos/sobe-para-nove-o-numero-de-mortes-por-dengue-no-estado-de-sao-paulo-10022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/10/65c6f4b6ca90845318002cdc/fe61c39546da4619a677c18c520e3fb5__2511886_EPP_0902_BOL4_DENGUE_SP_thumb.jpg",
+      "publishedAt": "2024-02-10 01:26:00",
+      "content": "Subiu para nove o n\u00famero de mortes pela dengue no estado de S\u00e3o Paulo, sete casos foram no interior, um em Guarulhos, na grande S\u00e3o Paulo e um na capital. Al\u00e9m disso outras 15 mortes, que tamb\u00e9m pode\u2026 [+125 chars]",
+      "retrievedAt": "2024-02-14 07:06:13.466984",
+      "internal_id": "6f7dc7651de5d255f97d4813dcce3fa449f5f5c674fdc9c6959695da41861ef7",
       "publishedAtLabel": "Feb 10"
     },
     {
@@ -24784,6 +25288,25 @@
       "content": "\u00a1De acab\u00f3 la maldici\u00f3n! Detroit Pistons se impuso este s\u00e1bado en el Little Caesars Arena a los Toronto Raptors (127-129) para poner fin a la hist\u00f3rica mala racha de 28 derrotas consecutivas en esta \u2026 [+1028 chars]",
       "retrievedAt": "2024-01-02 07:05:51.070033",
       "internal_id": "6e01ac63ef0fc89eff9708a91f7f191afe0b2ad60e5f4225a40e054452505e55",
+      "publishedAtLabel": "Dec 31"
+    },
+    {
+      "id": 4014,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "WND News Services",
+      "title": "Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals",
+      "description": "Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. Polio, which paralyzed thousands of Americans annually, was wiped out by widespread vaccinations. In 1999 the natio\u2026",
+      "url": "https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/12/illegals-aliens-migrants-immigration-caravan-border-undocumented-jpg.jpg",
+      "publishedAt": "2023-12-31 18:27:17",
+      "content": "(Video screenshot) [Editor's note: This story originally was published by Real Clear Wire.] By James VarneyReal Clear Wire Successful public health campaigns and medical advances have enabled the \u2026 [+12728 chars]",
+      "retrievedAt": "2024-01-01 19:05:22.272433",
+      "internal_id": "73ad94b20c057ac3685a1a9a55d3a81445edc3d2809aa8e5f96664ff4cc03d7a",
       "publishedAtLabel": "Dec 31"
     }
   ]
