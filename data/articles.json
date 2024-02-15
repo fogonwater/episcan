@@ -1,8 +1,642 @@
 {
-  "last_updated": "2024-02-15 07:05",
-  "count_articles_total": 1452,
-  "count_articles_new": 23,
+  "last_updated": "2024-02-15 19:05",
+  "count_articles_total": 1486,
+  "count_articles_new": 35,
   "articles": [
+    {
+      "id": 5468,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Daragh Brophy",
+      "title": "Three suspected and one confirmed case of measles reported in latest weekly figures",
+      "description": "There were four measles cases reported in Ireland in 2023, two cases reported in 2022, no cases were reported in 2021.",
+      "url": "https://www.thejournal.ie/measles-cases-ireland-6300003-Feb2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6300003/river/?height=400&version=6300027",
+      "publishedAt": "2024-02-14 18:54:51",
+      "content": "THREE SUSPECTED MEASLES cases were reported in Ireland during the week of 4 to 10 February, according to figures released by the Health Protection Surveillance Centre (HPSC) today. There was also on\u2026 [+1462 chars]",
+      "retrievedAt": "2024-02-15 19:05:20.263976",
+      "internal_id": "c2c103071fdacd203e5088d90312555fc49052942a852300a2addcc6ce15105c",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5475,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Aristeguinoticias.com",
+      "author": "Redacci\u00f3n AN / JGE",
+      "title": "Brasil supera los 500 mil casos de dengue en 2024; R\u00edo de Janeiro declara emergencia sanitaria",
+      "description": "Mientras se est\u00e1 desarrollando el Carnaval de R\u00edo, una actividad que re\u00fane a miles de residentes y turistas extranjeros, se han registrado m\u00e1s de 500 mil casos de personas con dengue y 75 fallecimientos desde que empez\u00f3 el a\u00f1o.",
+      "url": "https://aristeguinoticias.com/1402/mundo/brasil-supera-los-500-mil-casos-de-dengue-en-2024-rio-de-janeiro-declara-emergencia-sanitaria/",
+      "urlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/05/hospitales-region-nortena-peru-al-borde-colapso-casos-dengue-salud-19052023-2.jpg",
+      "publishedAt": "2024-02-14 18:49:32",
+      "content": "El total de 512 mil 353 casos registrados de dengue por el Ministerio de Salud de Brasil, implica un aumento significativo con relaci\u00f3n al mismo periodo del a\u00f1o pasado, cuando la curva de casos hab\u00eda\u2026 [+2394 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.257225",
+      "internal_id": "a879a5393ee010dd510ed3945482f74c51a973fd3be1c1bf4a4dfa83b40df583",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5499,
+      "query": [
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "R7.com",
+      "author": "Do R7",
+      "title": "Com hospitais cheios, pacientes com suspeita de dengue se deitam no ch\u00e3o em BH",
+      "description": "As pessoas com sintomas de dengue, zika e chikungunya lotaram as UPAs durante o feriado de Carnaval, em Belo Horizonte. Os pacientes registrar...",
+      "url": "https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/com-hospitais-cheios-pacientes-com-suspeita-de-dengue-se-deitam-no-chao-em-bh-14022024",
+      "urlToImage": "https://vtb.akamaized.net/image/399599/2024/02/14/65cd259243527fb4d1000353/d3709f4c82c74bb8913a356f80249a85__BG_1402_LOC_OFF_UPA_OESTE_LOTADA_thumb.jpg",
+      "publishedAt": "2024-02-14 18:39:52",
+      "content": "As pessoas com sintomas de dengue, zika e chikungunya lotaram as UPAs durante o feriado de Carnaval, em Belo Horizonte. Os pacientes registraram a situa\u00e7\u00e3o na unidade da regi\u00e3o oeste, no fim da noite\u2026 [+635 chars]",
+      "retrievedAt": "2024-02-15 19:05:22.524946",
+      "internal_id": "22414b2710b8513325678cc4138861ea62beaffc818bcc0de6768ac87aeee58e",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5482,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Isadora Teixeira",
+      "title": "DF: mortes por dengue sobem para 23; outras 66 s\u00e3o investigadas",
+      "description": "Das 23 v\u00edtimas da dengue no DF neste ano, 13 s\u00e3o homens, e 10, mulheres. Maior incid\u00eancia da doen\u00e7a \u00e9 entre pessoas com 80 anos ou mais",
+      "url": "https://www.metropoles.com/colunas/grande-angular/df-mortes-por-dengue-sobem-para-23-outras-66-sao-investigadas",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/06184115/Hospital-de-campanha-da-Forc%CC%A7a-Ae%CC%81rea-Brasileira-FAB-na-Ceila%CC%82ndia-tem-movimento-intenso-de-pacientes-buscando-atendimento-contra-a-dengue-Metro%CC%81poles-6.jpg",
+      "publishedAt": "2024-02-14 18:29:07",
+      "content": "A dengue \u00e9 uma doen\u00e7a infecciosa transmitida pela picada do mosquito Aedes aegypti. Com maior incid\u00eancia no ver\u00e3o, tem como principais sintomas: dores no corpo e febre alta. Considerada um grave prob\u2026 [+2694 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.351357",
+      "internal_id": "935871783e3eda1c0f050b7367ef781c297a2fcaba6b837fae939b299d981597",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5489,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Voc\u00ea sabe diferenciar os sintomas da dengue, Zika e chikungunya?",
+      "description": "Compartilhando o mesmo vetor transmissor, o mosquito Aedes aegypti, as doen\u00e7as dengue, Zika e ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/voce-sabe-diferenciar-os-sintomas-da-dengue-zika-e-chikungunya,96fe386ca7d323053722bc0f888c7b6bc27f032w.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/14/istock-155126491-u7u2dh0zgy92.jpg",
+      "publishedAt": "2024-02-14 18:08:41",
+      "content": "Compartilhando o mesmo vetor transmissor, o mosquito Aedes aegypti, as doen\u00e7as dengue, Zika e chikungunya representam desafios de sa\u00fade p\u00fablica, especialmente em regi\u00f5es tropicais e subtropicais. N\u2026 [+1844 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.433934",
+      "internal_id": "5049ad3cd77eb31ac527243e551e91fa27f80f8d135a3923c89770602afa652c",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5474,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "Bahar MAKOOI",
+      "title": "La Guyane en proie \u00e0 une \u00e9pid\u00e9mie de dengue alarmante",
+      "description": "Apr\u00e8s le Br\u00e9sil et les Antilles, la Guyane est touch\u00e9e par une flamb\u00e9e des cas de dengue avec pr\u00e8s de 3 000 nouveaux cas depuis janvier. D\u00e9moustication, lutte contre les eaux stagnantes, service d\u2019urgence d\u00e9di\u00e9\u2026 En attendant de pouvoir disposer d\u2019un vaccin ef\u2026",
+      "url": "https://www.france24.com/fr/france/20240214-la-guyane-en-proie-%C3%A0-une-%C3%A9pid%C3%A9mie-de-dengue-alarmante",
+      "urlToImage": "https://s.france24.com/media/display/be2f89aa-cb54-11ee-8927-005056a97e36/w:1280/p:16x9/000_33QW2BD.jpg",
+      "publishedAt": "2024-02-14 17:49:52",
+      "content": "Apr\u00e8s le Br\u00e9sil et les Antilles, la Guyane est touch\u00e9e par une flamb\u00e9e des cas de dengue avec pr\u00e8s de 3 000 nouveaux cas depuis janvier. D\u00e9moustication, lutte contre les eaux stagnantes, service durg\u2026 [+7312 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.243516",
+      "internal_id": "54609211d2fcb5f54c26e383004c6dafe0c655f6bbffaf97110b788f60cf8950",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5470,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Measles warning linked to island sports centre",
+      "description": "People who attended Stornoway sports centre on Saturday 10 February are being sent warning notices.",
+      "url": "https://www.bbc.co.uk/news/articles/cx9drg9ezp7o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3552/live/45f39a50-cb57-11ee-9553-07e794dbdb1d.png",
+      "publishedAt": "2024-02-14 17:39:16",
+      "content": "The NHS, external says measles is an infection that spreads easily, and has unpleasant and sometimes serious complications. NHS Western Isles said anyone unsure if they had been vaccinated should co\u2026 [+568 chars]",
+      "retrievedAt": "2024-02-15 19:05:20.278675",
+      "internal_id": "db0ebb43fb623de183957bf300e078e1bddb56e61ffa7f5092b2933701e0ad93",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5469,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Nicky Ryan",
+      "title": "The Explainer: Why is measles on the rise again?",
+      "description": "Dr Scott Walkin, a GP in Co Mayo and the Irish College of General Practitioners\u2019 Lead for Infection Control, explains the impact of low uptake of the vaccine, how sick the virus can make you, and what action health authorities need to take now.",
+      "url": "https://www.thejournal.ie/measles-ireland-spread-vaccine-explained-6299654-Feb2024/",
+      "urlToImage": "https://img2.thejournal.ie/article/6299654/river/?height=400&version=6299657",
+      "publishedAt": "2024-02-14 17:20:34",
+      "content": "ALARM BELLS STARTED ringing for Ireland last year when countries across Europe reported a sharp rise in the number of measles cases. In 2022, there was only just under one thousand cases reported in\u2026 [+1065 chars]",
+      "retrievedAt": "2024-02-15 19:05:20.269743",
+      "internal_id": "76c02762a675412cf3f68dba6aa7b4bce5055684beed2615b36823fee297e04d",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5486,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Giovanni Rezza *",
+      "title": "Dengue, ecco perch\u00e9 l\u2019epidemia in Brasile \u00e8 un potenziale rischio anche per l\u2019Italia",
+      "description": "A cosa si deve l\u2019aumento di casi di malattie tropicali diffuse dalle \u00abnostre\u00bb zanzare? La globalizzazione dei vettori e degli uomini gioca un ruolo fondamentale. Cos\u00ec come il cambiamento climatico",
+      "url": "https://www.corriere.it/salute/malattie_infettive/24_febbraio_14/dengue-epidemia-brasile-rischio-italia-0f7023ae-cb57-11ee-9708-e0c8616c74ac.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2024/02/14/e3428aa4-cb58-11ee-9708-e0c8616c74ac.jpg",
+      "publishedAt": "2024-02-14 17:07:15",
+      "content": "di Giovanni Rezza *A cosa si deve l\u2019aumento di casi di malattie tropicali diffuse dalle \u00abnostre\u00bb zanzare? La globalizzazione dei vettori e degli uomini gioca un ruolo fondamentale. Cos\u00ec come il cambi\u2026 [+4025 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.400061",
+      "internal_id": "ab9295bd05049fa77b2c85929b3c440f7355a48f4a1e970d3393e6b88732d730",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5480,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Ag\u00eancia Brasil",
+      "title": "Cidade do Rio de Janeiro confirma segunda morte por dengue",
+      "description": "Sobe para quatro o n\u00famero de mortos pela doen\u00e7a no estado, sendo dois na capital, um em Mangaratiba e um em Itatiaia",
+      "url": "https://www.metropoles.com/brasil/cidade-do-rio-de-janeiro-confirma-segunda-morte-por-dengue",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/14133946/Dengue-polo-de-atendimento-no-Rio.jpg",
+      "publishedAt": "2024-02-14 16:42:13",
+      "content": "O secret\u00e1rio municipal de Sa\u00fade do Rio de Janeiro, Daniel Soranz, confirmou a segunda morte por dengue no munic\u00edpio. Agora, sobe para quatro o n\u00famero de mortos pela doen\u00e7a no estado, sendo dois na ca\u2026 [+1798 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.301775",
+      "internal_id": "1eec42c1eb83fffaf38b64c13c850eac6a2b3517531e61779cd200e39d7c4835",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5481,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Thalita Vasconcelos",
+      "title": "Paciente com dengue morre ap\u00f3s buscar atendimento duas vezes em UPA",
+      "description": "Cintia Dourado, 42 anos, apresentou sintomas graves da dengue e procurou atendimento na UPA de Brazl\u00e2ndia. Ela morreu ap\u00f3s sofrer uma parada",
+      "url": "https://www.metropoles.com/distrito-federal/paciente-com-dengue-morre-apos-buscar-atendimento-duas-vezes-em-upa",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/14095443/paciente-upa-dengue.jpeg",
+      "publishedAt": "2024-02-14 16:15:03",
+      "content": "A fam\u00edlia de Cintia Maria Dourado Mendes (foto em destaque), 42 anos, registrou boletim de ocorr\u00eancia na Pol\u00edcia Civil do Distrito Federal (PCDF) para apurar as circunst\u00e2ncias da morte da moradora de\u2026 [+4986 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.335374",
+      "internal_id": "0b24941842105d01ee3091bc74425f7366fbd6a46cc23b904a31cf28bc36e2e8",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5493,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Prevenir caso de dengue \u00e9 dif\u00edcil, mas morte pode ser evitada, diz secret\u00e1ria do Minist\u00e9rio do Sa\u00fade",
+      "description": "Segundo Ethel Maciel, medidas de controle cl\u00e1ssicas contra o mosquito, como uso de inseticida e elimina\u00e7\u00e3o de focos, n\u00e3o t\u00eam sido suficientes para conter o mosquito vetor da doen\u00e7a",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/prevenir-caso-de-dengue-e-dificil-mas-morte-pode-ser-evitada-diz-secretaria-do-ministerio-do-saude,8c604c8e7ff6a20e83c5b69ea060026eemnu7xvr.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-14 15:59:27",
+      "content": "Ethel Maciel, secret\u00e1ria de Vigil\u00e2ncia em Sa\u00fade e Ambiente do Minist\u00e9rio da Sa\u00fade, disse que tem sido dif\u00edcil controlar a popula\u00e7\u00e3o de mosquitos Aedes Aegypti, vetores da dengue, com medidas cl\u00e1ssica\u2026 [+4023 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.473635",
+      "internal_id": "756d11518b79f5e8c677db56b3a9e7a901157e69423039e16fd1fc11840120e7",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5473,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Dengue hemorr\u00e1gica: como se manifesta a forma mais grave de dengue",
+      "description": "A forma mais grave de dengue pode causar altera\u00e7\u00f5es neurol\u00f3gicas, sangramentos, fal\u00eancia de \u00f3rg\u00e3os e morte.",
+      "url": "https://www.bbc.com/portuguese/articles/cx9drlr07jjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/757d/live/b6ec3d90-cb28-11ee-80f7-512b12944ccd.jpg",
+      "publishedAt": "2024-02-14 15:32:59",
+      "content": "Cr\u00e9dito, Getty Images Legenda da foto, O aparecimento de manchas vermelhas na pele \u00e9 um sintoma associado \u00e0 febre hemorr\u00e1gica da dengue Article information O n\u00famero de casos prov\u00e1veis de dengue no\u2026 [+6065 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.233240",
+      "internal_id": "84013c6ed8e0b17d0b8d59fb8b0aef782677a7cd709cd8bc22f88693b9ac574f",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5490,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Reda\u00e7\u00e3o Terra Voc\u00ea",
+      "title": "Dengue e Covid em alta: saiba diferenciar os sintomas das doen\u00e7as",
+      "description": "Com o aumento significativo dos casos de dengue e Covid-19, \u00e9 essencial entender como distinguir ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/dengue-e-covid-em-alta-saiba-diferenciar-os-sintomas-das-doencas,55026c4f49b6ba4181449f22aac73fc6rln0tf9r.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/02/14/istock-1453153745-t4yzpnrsnlfb.jpg",
+      "publishedAt": "2024-02-14 14:53:35",
+      "content": "Com o aumento significativo dos casos de dengue e Covid-19, \u00e9 essencial entender como distinguir os sintomas dessas duas doen\u00e7as. Enquanto ambas compartilham algumas semelhan\u00e7as, \u00e9 crucial identifica\u2026 [+2266 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.440469",
+      "internal_id": "5d73400cd097ab3ffd8182cf273b649f28eaa99feccf79cdd2e8e2b3942f8eb2",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5500,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Carla Bleiker",
+      "title": "Alaskapox: First known death from the virus",
+      "description": "An elderly man in the US was hospitalized with Alaskapox in late 2023 and died this January. Here's everything you need to know about the virus. Alaskapox is an orthopoxvirus related to smallpox, cowpox and mpox (initially known as \"monkeypox\"). Infections ha\u2026",
+      "url": "https://www.dw.com/en/alaskapox-first-known-death-from-the-virus/a-68255944",
+      "urlToImage": "https://static.dw.com/image/64932306_6.jpg",
+      "publishedAt": "2024-02-14 14:34:00",
+      "content": "Alaskapox is an orthopoxvirus related to smallpox, cowpox and mpox (initially known as \"monkeypox\"). Infections have so far only occurred in the US state of Alaska. There have only been seven record\u2026 [+3579 chars]",
+      "retrievedAt": "2024-02-15 19:05:23.221853",
+      "internal_id": "ba384c4de3861aeb088affc708f61cc9d056ff2bff3a32f9aef6916f6abd4f8b",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5467,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "AllAfrica - Top Africa News",
+      "author": null,
+      "title": "Nigeria: Govt Issues Alert Against Dehydration, Measles",
+      "description": "[Premium Times] NIMET said as a result of the high temperature, people will experience dehydration which could cause fainting; Chickenpox disease, Measles, and heat rash.",
+      "url": "https://allafrica.com/stories/202402140382.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2024-02-14 14:30:52",
+      "content": "NIMET said as a result of the high temperature, people will experience dehydration which could cause fainting; Chickenpox disease, Measles, and heat rash. The Nigerian Meteorological Agency (NIMET) \u2026 [+1435 chars]",
+      "retrievedAt": "2024-02-15 19:05:20.247780",
+      "internal_id": "493bc8ad9ed80c71b815c7278ba9b43f6a2cdcad48bfed14fa499f8ac62cb1c8",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5488,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "iG \u00daltimo Segundo, iG \u00daltimo Segundo",
+      "title": "RJ: cidade confirma segunda morte por dengue em 2024",
+      "description": "No Brasil, casos superaram a marca de meio milh\u00e3o",
+      "url": "https://saude.ig.com.br/2024-02-14/rj--cidade-confirma-segunda-morte-por-dengue-em-2024.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/ds/5d/2y/ds5d2y8ofngh4qmi3wjhgacex.jpg",
+      "publishedAt": "2024-02-14 14:23:46",
+      "content": "Nesta quarta-feira (14), a cidade do Rio de Janeiro confirmou a segunda morte por dengue em 2024. O secret\u00e1rio de Sa\u00fade, Daniel Soranz, informou que a v\u00edtima \u00e9 um jovem residente de Senador Camar\u00e1, q\u2026 [+1109 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.424128",
+      "internal_id": "377d97bae3bc5bd8176b2171e1531c860580061ebcfbbc60a09fc39025be1f10",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5498,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Natalia Marta Zmarlak, Catherine Lavazec, Emma Brito-Fravallo, Corinne Gen\u00e8ve, Eduardo Aliprandini, Manuela Camille Aguirre-Botero, Kenneth D. Vernick, Christian Mitri",
+      "title": "The Anopheles leucine-rich repeat protein APL1C is a pathogen binding factor recognizing Plasmodium ookinetes and sporozoites",
+      "description": "Author summary The parasite that causes malaria must first successfully infect the Anopheles mosquito vector to eventually infect a new human host, a process that takes about two weeks. Natural mosquito immunity can kill the parasite and prevent malaria trans\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012008",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1012008.g006&size=inline",
+      "publishedAt": "2024-02-14 14:00:00",
+      "content": "Abstract Leucine-rich repeat (LRR) proteins are commonly involved in innate immunity of animals and plants, including for pattern recognition of pathogen-derived elicitors. The Anopheles secreted LR\u2026 [+114914 chars]",
+      "retrievedAt": "2024-02-15 19:05:22.242840",
+      "internal_id": "5e985477f18dc2d40cc852e466a62f924f4f376e3693a05a4939dd3d698886ed",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5471,
+      "query": [
+        "measles",
+        "dengue"
+      ],
+      "source_id": "news24",
+      "source_name": "News24",
+      "author": "Lenin Ndebele",
+      "title": "News24 | Disease and displacements take centre stage in Sudan's war",
+      "description": "About 10 000 cholera, 8 000 dengue and 5 000 measles cases were recorded since the start of the war last year.",
+      "url": "https://www.news24.com/news24/africa/news/disease-and-displacements-take-centre-stage-in-sudans-war-20240214",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10888/7b907558df404a3fb442fa600634914a.jpg",
+      "publishedAt": "2024-02-14 13:53:59",
+      "content": "About 10 000 cholera, 8 000 dengue and 5 000 measles cases were recorded since the start of the war last year.Nearly 7.8 million people were displaced from their homes, with 1.6 mill\u2026 [+3178 chars]",
+      "retrievedAt": "2024-02-15 19:05:20.296819",
+      "internal_id": "c7e0c00ce11d8d98ebb1836069d91c92526a00cfdfe908683eafedfff5f03d55",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5494,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Emma Ryan",
+      "title": "Student of Roscommon school battling Meningitis outbreak first became sick on school trip to Poland",
+      "description": "Three students of a County Roscommon secondary school are currently being treated for a strain of Meningitis.",
+      "url": "https://www.independent.ie/regionals/roscommon/news/student-of-roscommon-school-battling-meningitis-outbreak-first-became-sick-on-school-trip-to-poland/a937744507.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/xExEBS3ZjM2P-TGXL2M0cfeclvw=/629x460/smart/prod-mh-ireland/931681ed-f38b-47f5-b208-d5d3a5e6a365/d1e7f799-239b-42fc-aa8b-50eff3233177/RG%20Abbey.jpg",
+      "publishedAt": "2024-02-14 13:37:13",
+      "content": "Three students of a County Roscommon secondary school are currently being treated for a strain of Meningitis.Two cases of Meningitis B have been confirmed at Abbey Community College in Boyle, while a\u2026 [+2043 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.650588",
+      "internal_id": "281de301c83a20258d5706196389485c325065fd39db60866550375c25d99f79",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5478,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ilgiornale.it",
+      "author": "redazione@ilgiornale-web.it (Alessandro Ferro)",
+      "title": "Dengue, scatta l'allerta anche in Italia: disinfettati gli aerei a Fiumicino",
+      "description": "Controlli di sicurezza pi\u00f9 stringenti su porti e aeroporti per impedire l'ingresso, dal Sud America, della zanzara che trasmette il virus Dengue: ecco le misure previste in Italia dal ministero della Salute e quando sar\u00e0 disponibile il nuovo vaccino",
+      "url": "https://www.ilgiornale.it/news/nazionale/dengue-allerta-su-navi-e-aerei-bloccare-larrivo-zanzara-2283934.html",
+      "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2023/10/14/1697280337-zanzara.jpg?_=1697280337",
+      "publishedAt": "2024-02-14 13:36:29",
+      "content": "I numeri che arrivano dal Brasile sui contagiati con il virus Dengue preoccupano, non poco, anche il nostro Paese: il ministero della Salute, infatti, a seguito della circolare emanata nelle scorse o\u2026 [+3318 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.280053",
+      "internal_id": "d31f43162c312db6e7958bf77f857ee8847a22ad1fe36340a9ed04843bfe5464",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5487,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Canaltech, Canaltech",
+      "title": "50% dos casos de dengue s\u00e3o assintom\u00e1ticos",
+      "description": "As pessoas assintom\u00e1ticas carregam o v\u00edrus da dengue no corpo e podem ajudar outros mosquitos a espalharem a doen\u00e7a, al\u00e9m de gerar subnotifica\u00e7\u00e3o dos casos",
+      "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-14/50--dos-casos-de-dengue-sao-assintomaticos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/50/l8/xv/50l8xvz249inmu6obyglwnrq2.jpg",
+      "publishedAt": "2024-02-14 13:05:04",
+      "content": "A Fiocruz revelou que cerca de 50% dos casos de dengue s\u00e3o assintom\u00e1ticos, o que gera preocupa\u00e7\u00e3o por diversos motivos: ajuda a propagar a doen\u00e7a, com o que os especialistas chamam de \"transmiss\u00e3o si\u2026 [+3101 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.412640",
+      "internal_id": "325870967bcd704707b3c20abdfa806fb5859864e26d63cab3bf6c471d8f93ad",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5485,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Cristina Marrone",
+      "title": "Cos\u2019\u00e8 la \u00abdengue\u00bb: i sintomi, la cura e il vaccino contro la \u00abfebbre spaccaossa\u00bb",
+      "description": "Il livello di allarme e vigilanza \u00e8 salito, in Italia, dopo che i casi sono aumentati in diverse aree del mondo: ma come si contrae la dengue, come si capisce che ci si \u00e8 ammalati, e come ci si cura?",
+      "url": "https://www.corriere.it/salute/24_febbraio_14/dengue-sintomi-cura-vaccino-febbre-spaccaossa-1548061e-cb36-11ee-9708-e0c8616c74ac.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/2024/02/14/Salute/Foto-Salute-Trattate/ba7dd48193eb4d9e803ffeed3bd879f6--0--3a2c3e2cfa9d44b39d9b39c0ddd58090-0008-kSrD-U34601654866056wlC-526x284@Corriere-Web-Sezioni.jpg",
+      "publishedAt": "2024-02-14 13:04:51",
+      "content": "Il livello di allarme e vigilanza \u00e8 salito, in Italia, dopo che i casi sono aumentati in diverse aree del mondo: ma come si contrae la dengue, come si capisce che ci si \u00e8 ammalati, e come ci si cura?\u2026 [+4247 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.393022",
+      "internal_id": "4ca0f82790dea4027fdf93a9808bd039d35fcedb9ea2af202aff057fb1af32d1",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5491,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Ansa",
+      "title": "Aeroporto de Fiumicino introduz medidas contra dengue",
+      "description": "O aeroporto de Fiumicino, na It\u00e1lia, introduziu nesta quarta-feira (14) diversas medidas para se ...",
+      "url": "https://www.terra.com.br/noticias/mundo/aeroporto-de-fiumicino-introduz-medidas-contra-dengue,d58514df8884dcb3e47f5ae6bf6683877aji7wib.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2024-02-14 13:01:06",
+      "content": "O aeroporto de Fiumicino, na It\u00e1lia, introduziu nesta quarta-feira (14) diversas medidas para se proteger da dengue, como a desinfec\u00e7\u00e3o de avi\u00f5es que chegarem ao pa\u00eds. As autoridades de sa\u00fade \u2026 [+768 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.444998",
+      "internal_id": "267ddf16f44904508d60e56d0e33d5401438d6827f8970f20e9e4d722b2e6ef6",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5479,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "A Fiumicino controlli anti Dengue, aerei disinfettati",
+      "description": "Innalzato all'aeroporto di Fiumicino il livello di vigilanza nei confronti degli aerei provenienti e delle merci importate dai Paesi in cui \u00e8 \"frequente e continuo il rischio di contrarre la malattia Dengue\". (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2024/02/14/a-fiumicino-controlli-anti-dengue-aerei-disinfettati_316fafee-4573-4476-8147-951a316d4cb7.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/2/6/9c86e954cbc1161b34ace05479708d04.jpg",
+      "publishedAt": "2024-02-14 12:25:12",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.294485",
+      "internal_id": "8a0ca0affaaa3e72b5950a8480d6c8306e88a3cbbd677a32137f297fac448519",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5483,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "A Fiumicino controlli anti Dengue, aerei disinfettati",
+      "description": "Innalzato all'aeroporto di Fiumicino il livello di vigilanza nei confronti degli aerei provenienti e delle merci importate dai Paesi in cui \u00e8 \"frequente e continuo il rischio di contrarre la malattia Dengue\". (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2024/02/14/a-fiumicino-controlli-anti-dengue-aerei-disinfettati_f26b8e74-ada9-4d00-946d-347da3f9365a.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2024/2/6/9c86e954cbc1161b34ace05479708d04.jpg",
+      "publishedAt": "2024-02-14 12:25:11",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.362794",
+      "internal_id": "c75661edf9dc7cc338a197d54ea06d0dc3ac88d92053d9eddb4c4c1cb482b8f7",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5484,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "RFI",
+      "title": "Explos\u00e3o de casos de dengue no Brasil \u00e9 destaque em jornal da Fran\u00e7a",
+      "description": "Desde o in\u00edcio do ano, o Minist\u00e9rio da Sa\u00fade registrou mais de 512 mil casos da doen\u00e7a transmitida pelo mosquito Aedes aegypti",
+      "url": "https://www.metropoles.com/brasil/explosao-de-casos-de-dengue-no-brasil-e-destaque-em-jornal-da-franca",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2024/02/08095316/hospital-de-campanha-atendendo-casos-de-dengue-no-DF-4.jpeg",
+      "publishedAt": "2024-02-14 12:19:27",
+      "content": "O jornal Le Monde que chega \u00e0s bancas nesta quarta-feira (14/2) traz uma reportagem sobre a amea\u00e7a de nova uma epidemia de dengue no Brasil. O correspondente Bruno Meyerfeld destaca uma explos\u00e3o do n\u2026 [+733 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.385806",
+      "internal_id": "40d6a586aff22351ef00923f56c3ef73c6b3ce5213dd55ab3f3c8228c66bb78f",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5472,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Corriere.it",
+      "author": "Cristina Marrone",
+      "title": "Dengue, allerta in Italia: controlli su navi e aerei per impedire l\u2019arrivo di zanzare che trasmettono la malattia",
+      "description": "Una circolare del ministero della salute invita le frontiere a innalzare la vigilanza. Il direttore della Prevenzione Vaia: \u00abVogliamo impedire che arrivi la zanzara Aedes Aegipty\u00bb",
+      "url": "https://www.corriere.it/salute/malattie_infettive/24_febbraio_14/dengue-allerta-italia-controlli-navi-aerei-impedire-l-arrivo-zanzare-che-trasmettono-malattia-8a8e6596-cb20-11ee-9708-e0c8616c74ac.shtml",
+      "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2024/02/14/40621ac8-cb2d-11ee-9708-e0c8616c74ac.jpg",
+      "publishedAt": "2024-02-14 12:06:54",
+      "content": "di Cristina MarroneUna circolare del ministero della salute invita le frontiere a innalzare la vigilanza. Il direttore della Prevenzione Vaia: \u00abVogliamo impedire che arrivi la zanzara Aedes Aegipty\u00bb \u2026 [+5873 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.221025",
+      "internal_id": "762b9980348db19f4961ba9272df103f0b8976343f1770017fab6de9cf34aaff",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5496,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Larpeir\u00e1n",
+      "title": "Los urogallos pirenaicos est\u00e1n infectados por par\u00e1sitos sangu\u00edneos y un nuevo virus",
+      "description": "En Espa\u00f1a existen dos subespecies de esta ave, en el Pirineo y en la cordillera Cant\u00e1brica, ambas en declive en las \u00faltimas d\u00e9cadas. El primer estudio sanitario de las pirenaicas ha detectado par\u00e1sitos relacionados con la malaria aviar, as\u00ed como un nuevo herp\u2026",
+      "url": "https://www.meneame.net/m/ciencia/urogallos-pirenaicos-estan-infectados-parasitos-sanguineos-nuevo",
+      "urlToImage": "https://meneame.net/img/logo_meneame.png",
+      "publishedAt": "2024-02-14 11:11:58",
+      "content": "Jo... Es una especie que est\u00e1 muy delicada...Malas noticias para el urogallo... M\u00e1s necesidad de planificaci\u00f3n en su coservaci\u00f3n... Y si alguien los mata y se los come... Qu\u00e9 pillen por tontos...",
+      "retrievedAt": "2024-02-15 19:05:22.230447",
+      "internal_id": "5a62f170ae0fba57ec497a1353bf6a4bd3df2929290c8a6038815f05cd259f1f",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5497,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.hln.be",
+      "author": "GSL",
+      "title": "Opmars West-Nijlvirus in Europa: leefgebied besmette muggen breidt uit door klimaatverandering",
+      "description": "Eerder werd al vermoed dat de klimaatverandering aan de basis van de opmars van het West-Nijlvirus in Europa ligt, maar dat is nu voor het eerst bevestigd door onderzoekers van de Vrije Universiteit Brussel (VUB) en de Universit\u00e9 Libre de Bruxelles (ULB).",
+      "url": "https://www.hln.be/wetenschap-en-planeet/opmars-west-nijlvirus-in-europa-leefgebied-besmette-muggen-breidt-uit-door-klimaatverandering~ab7485b1/",
+      "urlToImage": "https://images0.persgroep.net/rcs/5lqaKj6EWUK_iIrv8QHfLxD2YcU/diocontent/218344762/_fill/1200/630/?appId=21791a8992982cd8da851550a453bd7f&quality=0.7",
+      "publishedAt": "2024-02-14 11:09:28",
+      "content": "Net als malaria wordt het West-Nijlvirus overgedragen door muggen. Ongeveer een kwart van de besmette mensen ontwikkelt symptomen als koorts en hoofdpijn. Bij minder dan 1 procent steken ernstige neu\u2026 [+1255 chars]",
+      "retrievedAt": "2024-02-15 19:05:22.235941",
+      "internal_id": "e55a84cb4c12e8860f11f3fe449ea4c7c96f78486b32e57a8ef938c7419fb08b",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5495,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-washington-post",
+      "source_name": "The Washington Post",
+      "author": "Sabrina Malhi",
+      "title": "Aggressive fungus caused meningitis outbreak tied to clinics in Mexico",
+      "description": "A study reveals the extent of the damage from a meningitis outbreak that led to the deaths of 12 Americans, further highlighting the dangers of medical tourism.",
+      "url": "https://www.washingtonpost.com/health/2024/02/14/fungus-meningitis-outbreak-mexico/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IKBLJSGYAQQKLHJCNLJG7AGJOI_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-02-14 11:08:33",
+      "content": "Research published in the New England Journal of Medicine is revealing the extent of the damage from a fungal meningitis outbreak that led to the deaths of 12 Americans last year. The work shows that\u2026 [+6336 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.663160",
+      "internal_id": "77a5eff7157dea149d3478f5d40989b563f2c3e7110c0b08e5ab5954f8794084",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5476,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Italien erh\u00f6ht Dengue-Warnstufe in Flugh\u00e4fen und H\u00e4fen",
+      "description": "",
+      "url": "https://orf.at/stories/3348697/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2024-02-14 10:18:21",
+      "content": "Nach einem schweren Ausbruch des Denguefiebers in Brasilien und der weltweiten Zunahme der F\u00e4lle hat Italien eine Erh\u00f6hung der Alarmstufe in H\u00e4fen und Flugh\u00e4fen beschlossen. So forderte das italieni\u2026 [+1540 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.261946",
+      "internal_id": "9d956697a9a04fc979b3db881adf0da5722ab50ce54ca944824a559877180461",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5501,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "F. Q.",
+      "title": "Stati Uniti, identificato un caso di peste bubbonica: probabile contagio da un gatto",
+      "description": "Un residente dell\u2019Oregon \u00e8 risultato affetto da peste bubbonica, probabilmente contratta dal suo gatto. \u00c8 il primo caso confermato negli Stati Uniti di questa rara malattia infettiva causata dal batterio Yersinia pestis. Lo riporta la Cnn. \u201cTutti i contatti s\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2024/02/14/stati-uniti-identificato-un-raro-caso-di-peste-bubbonica-probabile-contagio-da-un-gatto/7446137/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/02/14/Yersinia_pestis-1.jpg",
+      "publishedAt": "2024-02-14 10:17:12",
+      "content": "Un residente dell\u2019Oregon \u00e8 risultato affetto da peste bubbonica, probabilmente contratta dal suo gatto. \u00c8 il primo caso confermato negli Stati Uniti di questa rara malattia infettiva causata dal batt\u2026 [+1977 chars]",
+      "retrievedAt": "2024-02-15 19:05:23.890036",
+      "internal_id": "e04f4669c527d0b3b232a571239881a3dcde34afefa2f038c11f64284ea52837",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5492,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "La Dengue menace : importante \u00e9pid\u00e9mie en Guyane",
+      "description": "La Guyane est confront\u00e9e \u00e0 sa plus importante \u00e9pid\u00e9mie de dengue depuis une vingtaine d'ann\u00e9es: elle a commenc\u00e9 mi-2023 et s'est acc\u00e9l\u00e9r\u00e9e depuis d\u00e9but janvier avec 800 nouveaux cas d\u00e9clar\u00e9s en moyenne par semaine, selon les autorit\u00e9s sanitaires.",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20240214-la-dengue-menace-importante-%C3%A9pid%C3%A9mie-en-guyane",
+      "urlToImage": "https://s.france24.com/media/display/41c8d1ee-cb1f-11ee-928a-005056bfb2b6/w:1280/p:16x9/FR_20240213_150827_151208_CS.jpg",
+      "publishedAt": "2024-02-14 09:56:07",
+      "content": "Publi\u00e9 le : 14/02/2024 - 10:56Modifi\u00e9 le : 14/02/2024 - 11:04 La Guyane est confront\u00e9e \u00e0 sa plus importante \u00e9pid\u00e9mie de dengue depuis une vingtaine d'ann\u00e9es: elle a commenc\u00e9 mi-2023 et s'est acc\u00e9l\u00e9r\u2026 [+158 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.453873",
+      "internal_id": "82c3657347728d6b1a4f805fbf820bef8953ff744ce0bae691f0912b71d5f4bd",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 5477,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Dagospia.com",
+      "author": null,
+      "title": "DENGUE, ARIDANGHETE! \u2013 A CAUSA DELL'AUMENTO GLOBALE DEI CASI DI DENGUE, IL MINISTERO DELLA SALUTE INNALZA IL LIVELLO DI ALLERTA ALLE FRONTIERE E INVITA A DISINFETTARE GLI AEREI IN ARRIVO DAL SUDAMERICA \u2013 PREVISTE ANCHE SCORTE DI VACCINI PER EVENTUALI EMERGENZE PROVOCATE DALLA MALATTIA CHE IN BRASILE HA RAGGIUNTO I MEZZO MILIONE DI CASI E SI STA DIFFONDENDO ANCHE IN ARGENTINA\u2026",
+      "description": "1 - MINISTERO SALUTE INNALZA L'ALLERTA DENGUE ALLE FRONTIERE francesco vaia foto di bacco (2) (ANSA) - A causa dell'aumento globale dei casi di dengue, su disposizione del Direttore Generale, Francesco Vaia, gli Uffici di Sanit\u00e0 Marittima Aerea e di Frontiera\u2026",
+      "url": "https://www.dagospia.com/rubrica-39/salute/dengue-aridanghete-ndash-causa-dell-39-aumento-globale-casi-384738.htm",
+      "urlToImage": "https://cdn-static.dagospia.com/img/patch/06-2022/dengue-1669576.jpeg",
+      "publishedAt": "2024-02-14 07:36:00",
+      "content": "1 - MINISTERO SALUTE INNALZA L'ALLERTA DENGUE ALLE FRONTIERE francesco vaia foto di bacco (2) (ANSA) - A causa dell'aumento globale dei casi di dengue, su disposizione del Direttore Generale, Franc\u2026 [+2949 chars]",
+      "retrievedAt": "2024-02-15 19:05:21.266471",
+      "internal_id": "d43bf14e3c4a3c4cfcf32ccb9335e92e8626e1cdd5a4d43725679b5086384d91",
+      "publishedAtLabel": "Feb 14"
+    },
     {
       "id": 5465,
       "query": [
@@ -26170,25 +26804,6 @@
       "content": "\u00a1De acab\u00f3 la maldici\u00f3n! Detroit Pistons se impuso este s\u00e1bado en el Little Caesars Arena a los Toronto Raptors (127-129) para poner fin a la hist\u00f3rica mala racha de 28 derrotas consecutivas en esta \u2026 [+1028 chars]",
       "retrievedAt": "2024-01-02 07:05:51.070033",
       "internal_id": "6e01ac63ef0fc89eff9708a91f7f191afe0b2ad60e5f4225a40e054452505e55",
-      "publishedAtLabel": "Dec 31"
-    },
-    {
-      "id": 4014,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Wnd.com",
-      "author": "WND News Services",
-      "title": "Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals",
-      "description": "Successful public health campaigns and medical advances have enabled the United States to conquer a range of disfiguring and damaging diseases. Polio, which paralyzed thousands of Americans annually, was wiped out by widespread vaccinations. In 1999 the natio\u2026",
-      "url": "https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2023/12/illegals-aliens-migrants-immigration-caravan-border-undocumented-jpg.jpg",
-      "publishedAt": "2023-12-31 18:27:17",
-      "content": "(Video screenshot) [Editor's note: This story originally was published by Real Clear Wire.] By James VarneyReal Clear Wire Successful public health campaigns and medical advances have enabled the \u2026 [+12728 chars]",
-      "retrievedAt": "2024-01-01 19:05:22.272433",
-      "internal_id": "73ad94b20c057ac3685a1a9a55d3a81445edc3d2809aa8e5f96664ff4cc03d7a",
       "publishedAtLabel": "Dec 31"
     }
   ]

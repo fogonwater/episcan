@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2024-02-15 07:05
-- **Most recent article:** 2024-02-14 07:00:39
+- **New articles in last harvest:** 35
+- **Last harvest:** 2024-02-15 19:05
+- **Most recent article:** 2024-02-14 18:54:51
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 23-53 | 24-1 | 24-2 | 24-3 | 24-4 | 24-5 | 24-6 | 24-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 75 | 739 |
-| measles | 1 | 8 | 25 | 61 | 56 | 47 | 68 | 14 | 280 |
-| malaria | 2 | 11 | 51 | 26 | 86 | 25 | 35 | 5 | 241 |
-| zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 1 | 52 |
-| chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 1 | 41 |
+| dengue | 0 | 52 | 35 | 65 | 123 | 173 | 216 | 98 | 762 |
+| measles | 0 | 8 | 25 | 61 | 56 | 47 | 68 | 19 | 284 |
+| malaria | 1 | 11 | 51 | 26 | 86 | 25 | 35 | 8 | 243 |
+| zika | 0 | 7 | 8 | 8 | 7 | 8 | 13 | 3 | 54 |
+| chikungunya | 0 | 2 | 6 | 0 | 10 | 10 | 12 | 3 | 43 |
 | rabies | 1 | 2 | 5 | 5 | 9 | 7 | 7 | 5 | 41 |
-| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 2 | 33 |
-| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 2 | 26 |
+| meningitis | 0 | 2 | 11 | 6 | 1 | 3 | 8 | 4 | 35 |
+| mpox | 0 | 2 | 2 | 8 | 4 | 3 | 5 | 3 | 27 |
 | pertussis | 0 | 5 | 2 | 5 | 2 | 3 | 2 | 0 | 19 |
 | sarampión | 0 | 0 | 0 | 0 | 1 | 6 | 5 | 1 | 13 |
-| yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 1 | 7 |
+| yersinia | 0 | 1 | 1 | 1 | 2 | 0 | 1 | 2 | 8 |
 | typhoid | 0 | 1 | 0 | 1 | 2 | 2 | 1 | 0 | 7 |
 | leptospirosis | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 1 | 5 |
 
@@ -33,9 +33,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (zika)
 
+- [Com hospitais cheios, pacientes com suspeita de dengue se deitam no chão em BH](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/com-hospitais-cheios-pacientes-com-suspeita-de-dengue-se-deitam-no-chao-em-bh-14022024) (R7.com)
+
+- [Você sabe diferenciar os sintomas da dengue, Zika e chikungunya?](https://www.terra.com.br/vida-e-estilo/saude/voce-sabe-diferenciar-os-sintomas-da-dengue-zika-e-chikungunya,96fe386ca7d323053722bc0f888c7b6bc27f032w.html) (Terra.com.br)
+
 - [Web enlouquece com lesão de Pedro Raul, do Corinthians: 'Sai, zika'](  https://www.lance.com.br/corinthians/web-enlouquece-com-lesao-de-pedro-raul-do-corinthians-sai-zika.html ) (Lance.com.br)
 
 ## 24-7 (yersinia)
+
+- [Stati Uniti, identificato un caso di peste bubbonica: probabile contagio da un gatto](https://www.ilfattoquotidiano.it/2024/02/14/stati-uniti-identificato-un-raro-caso-di-peste-bubbonica-probabile-contagio-da-un-gatto/7446137/) (Ilfattoquotidiano.it)
 
 - [В Орегоне человек заразился бубонной чумой от кошки](https://naked-science.ru/article/medicine/chelovek-zarazilsya-bubon) (Naked-science.ru)
 
@@ -57,17 +63,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (mpox)
 
+- [Alaskapox: First known death from the virus](https://www.dw.com/en/alaskapox-first-known-death-from-the-virus/a-68255944) (DW (English))
+
 - [1st fatal case of Alaskapox may have been tied to stray cat](https://www.livescience.com/health/viruses-infections-disease/1st-fatal-case-of-alaskapox-may-have-been-tied-to-stray-cat) (Live Science)
 
 - [What To Know About Alaskapox After Officials Confirm First Death From Recently Discovered Virus](https://www.forbes.com/sites/roberthart/2024/02/12/what-to-know-about-alaskapox-after-officials-confirm-first-death-from-recently-discovered-virus/) (Forbes)
 
 ## 24-7 (meningitis)
 
+- [Student of Roscommon school battling Meningitis outbreak first became sick on school trip to Poland](https://www.independent.ie/regionals/roscommon/news/student-of-roscommon-school-battling-meningitis-outbreak-first-became-sick-on-school-trip-to-poland/a937744507.html) (Independent.ie)
+
+- [Aggressive fungus caused meningitis outbreak tied to clinics in Mexico](https://www.washingtonpost.com/health/2024/02/14/fungus-meningitis-outbreak-mexico/) (The Washington Post)
+
 - [The dangerous bacterium that killed an IDF soldier](https://www.ynetnews.com/health_science/article/hkoe7fosp) (Ynetnews)
 
 - [Luis Canut reaparece mostrando su vida actual y hace una declaración de amor a Patricia Pérez](https://www.europapress.es/chance/gente/noticia-luis-canut-reaparece-mostrando-vida-actual-hace-declaracion-amor-patricia-perez-20240211223214.html) (Europapress.es)
 
 ## 24-7 (measles)
+
+- [Three suspected and one confirmed case of measles reported in latest weekly figures](https://www.thejournal.ie/measles-cases-ireland-6300003-Feb2024/) (TheJournal.ie)
+
+- [Measles warning linked to island sports centre](https://www.bbc.co.uk/news/articles/cx9drg9ezp7o) (BBC News)
+
+- [The Explainer: Why is measles on the rise again?](https://www.thejournal.ie/measles-ireland-spread-vaccine-explained-6299654-Feb2024/) (TheJournal.ie)
+
+- [Nigeria: Govt Issues Alert Against Dehydration, Measles](https://allafrica.com/stories/202402140382.html) (AllAfrica - Top Africa News)
+
+- [News24 | Disease and displacements take centre stage in Sudan's war](https://www.news24.com/news24/africa/news/disease-and-displacements-take-centre-stage-in-sudans-war-20240214) (News24)
 
 - [Health Ministry calls on Israelis to get vaccinated as measles cases surge](https://www.ynetnews.com/health_science/article/rjchvwfip) (Ynetnews)
 
@@ -99,6 +121,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 24-7 (malaria)
 
+- [The Anopheles leucine-rich repeat protein APL1C is a pathogen binding factor recognizing Plasmodium ookinetes and sporozoites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012008) (Plos.org)
+
+- [Los urogallos pirenaicos están infectados por parásitos sanguíneos y un nuevo virus](https://www.meneame.net/m/ciencia/urogallos-pirenaicos-estan-infectados-parasitos-sanguineos-nuevo) (Meneame.net)
+
+- [Opmars West-Nijlvirus in Europa: leefgebied besmette muggen breidt uit door klimaatverandering](https://www.hln.be/wetenschap-en-planeet/opmars-west-nijlvirus-in-europa-leefgebied-besmette-muggen-breidt-uit-door-klimaatverandering~ab7485b1/) (Www.hln.be)
+
 - [Researchers discover that blocking an essential nutrient inhibits malaria parasite growth](https://phys.org/news/2024-02-blocking-essential-nutrient-inhibits-malaria.html) (Phys.Org)
 
 - [Blocking an essential nutrient inhibits malaria parasite growth](https://www.sciencedaily.com/releases/2024/02/240213163411.htm) (Science Daily)
@@ -114,6 +142,52 @@ Source: [News API](https://newsapi.org/)
 - [Leptospirosis: estigma sobre esta enfermedad puede retrasar su diagnóstico](https://www.eluniversal.com.co/salud/leptospirosis-estigma-sobre-esta-enfermedad-puede-retrasar-su-diagnostico-XN9960642) (Eluniversal.com.co)
 
 ## 24-7 (dengue)
+
+- [Brasil supera los 500 mil casos de dengue en 2024; Río de Janeiro declara emergencia sanitaria](https://aristeguinoticias.com/1402/mundo/brasil-supera-los-500-mil-casos-de-dengue-en-2024-rio-de-janeiro-declara-emergencia-sanitaria/) (Aristeguinoticias.com)
+
+- [DF: mortes por dengue sobem para 23; outras 66 são investigadas](https://www.metropoles.com/colunas/grande-angular/df-mortes-por-dengue-sobem-para-23-outras-66-sao-investigadas) (Metropoles.com)
+
+- [Você sabe diferenciar os sintomas da dengue, Zika e chikungunya?](https://www.terra.com.br/vida-e-estilo/saude/voce-sabe-diferenciar-os-sintomas-da-dengue-zika-e-chikungunya,96fe386ca7d323053722bc0f888c7b6bc27f032w.html) (Terra.com.br)
+
+- [La Guyane en proie à une épidémie de dengue alarmante](https://www.france24.com/fr/france/20240214-la-guyane-en-proie-%C3%A0-une-%C3%A9pid%C3%A9mie-de-dengue-alarmante) (FRANCE 24 English)
+
+- [Dengue, ecco perché l’epidemia in Brasile è un potenziale rischio anche per l’Italia](https://www.corriere.it/salute/malattie_infettive/24_febbraio_14/dengue-epidemia-brasile-rischio-italia-0f7023ae-cb57-11ee-9708-e0c8616c74ac.shtml) (Corriere.it)
+
+- [Cidade do Rio de Janeiro confirma segunda morte por dengue](https://www.metropoles.com/brasil/cidade-do-rio-de-janeiro-confirma-segunda-morte-por-dengue) (Metropoles.com)
+
+- [Paciente com dengue morre após buscar atendimento duas vezes em UPA](https://www.metropoles.com/distrito-federal/paciente-com-dengue-morre-apos-buscar-atendimento-duas-vezes-em-upa) (Metropoles.com)
+
+- [Prevenir caso de dengue é difícil, mas morte pode ser evitada, diz secretária do Ministério do Saúde](https://www.terra.com.br/vida-e-estilo/saude/prevenir-caso-de-dengue-e-dificil-mas-morte-pode-ser-evitada-diz-secretaria-do-ministerio-do-saude,8c604c8e7ff6a20e83c5b69ea060026eemnu7xvr.html) (Terra.com.br)
+
+- [Dengue hemorrágica: como se manifesta a forma mais grave de dengue](https://www.bbc.com/portuguese/articles/cx9drlr07jjo) (BBC News)
+
+- [Dengue e Covid em alta: saiba diferenciar os sintomas das doenças](https://www.terra.com.br/vida-e-estilo/saude/dengue-e-covid-em-alta-saiba-diferenciar-os-sintomas-das-doencas,55026c4f49b6ba4181449f22aac73fc6rln0tf9r.html) (Terra.com.br)
+
+- [RJ: cidade confirma segunda morte por dengue em 2024](https://saude.ig.com.br/2024-02-14/rj--cidade-confirma-segunda-morte-por-dengue-em-2024.html) (Ig.com.br)
+
+- [News24 | Disease and displacements take centre stage in Sudan's war](https://www.news24.com/news24/africa/news/disease-and-displacements-take-centre-stage-in-sudans-war-20240214) (News24)
+
+- [Dengue, scatta l'allerta anche in Italia: disinfettati gli aerei a Fiumicino](https://www.ilgiornale.it/news/nazionale/dengue-allerta-su-navi-e-aerei-bloccare-larrivo-zanzara-2283934.html) (Ilgiornale.it)
+
+- [50% dos casos de dengue são assintomáticos](https://tecnologia.ig.com.br/parceiros/canaltech/2024-02-14/50--dos-casos-de-dengue-sao-assintomaticos.html) (Ig.com.br)
+
+- [Cos’è la «dengue»: i sintomi, la cura e il vaccino contro la «febbre spaccaossa»](https://www.corriere.it/salute/24_febbraio_14/dengue-sintomi-cura-vaccino-febbre-spaccaossa-1548061e-cb36-11ee-9708-e0c8616c74ac.shtml) (Corriere.it)
+
+- [Aeroporto de Fiumicino introduz medidas contra dengue](https://www.terra.com.br/noticias/mundo/aeroporto-de-fiumicino-introduz-medidas-contra-dengue,d58514df8884dcb3e47f5ae6bf6683877aji7wib.html) (Terra.com.br)
+
+- [A Fiumicino controlli anti Dengue, aerei disinfettati](https://www.ansa.it/sito/notizie/topnews/2024/02/14/a-fiumicino-controlli-anti-dengue-aerei-disinfettati_316fafee-4573-4476-8147-951a316d4cb7.html) (ANSA.it)
+
+- [A Fiumicino controlli anti Dengue, aerei disinfettati](https://www.ansa.it/sito/notizie/cronaca/2024/02/14/a-fiumicino-controlli-anti-dengue-aerei-disinfettati_f26b8e74-ada9-4d00-946d-347da3f9365a.html) (ANSA.it)
+
+- [Explosão de casos de dengue no Brasil é destaque em jornal da França](https://www.metropoles.com/brasil/explosao-de-casos-de-dengue-no-brasil-e-destaque-em-jornal-da-franca) (Metropoles.com)
+
+- [Dengue, allerta in Italia: controlli su navi e aerei per impedire l’arrivo di zanzare che trasmettono la malattia](https://www.corriere.it/salute/malattie_infettive/24_febbraio_14/dengue-allerta-italia-controlli-navi-aerei-impedire-l-arrivo-zanzare-che-trasmettono-malattia-8a8e6596-cb20-11ee-9708-e0c8616c74ac.shtml) (Corriere.it)
+
+- [Italien erhöht Dengue-Warnstufe in Flughäfen und Häfen](https://orf.at/stories/3348697/) (Orf.at)
+
+- [La Dengue menace : importante épidémie en Guyane](https://www.france24.com/fr/vid%C3%A9o/20240214-la-dengue-menace-importante-%C3%A9pid%C3%A9mie-en-guyane) (FRANCE 24 English)
+
+- [DENGUE, ARIDANGHETE! – A CAUSA DELL'AUMENTO GLOBALE DEI CASI DI DENGUE, IL MINISTERO DELLA SALUTE INNALZA IL LIVELLO DI ALLERTA ALLE FRONTIERE E INVITA A DISINFETTARE GLI AEREI IN ARRIVO DAL SUDAMERICA – PREVISTE ANCHE SCORTE DI VACCINI PER EVENTUALI EMERGENZE PROVOCATE DALLA MALATTIA CHE IN BRASILE HA RAGGIUNTO I MEZZO MILIONE DI CASI E SI STA DIFFONDENDO ANCHE IN ARGENTINA…](https://www.dagospia.com/rubrica-39/salute/dengue-aridanghete-ndash-causa-dell-39-aumento-globale-casi-384738.htm) (Dagospia.com)
 
 - [Controlli Dengue alle frontiere, allerta anche in Italia. Dopo il Brasile l’emergenza di estende all’Argentina](https://www.ilsole24ore.com/art/controlli-dengue-frontiere-allerta-anche-italia-il-brasile-l-emergenza-estende-all-argentina-AFVnwCiC) (Il Sole 24 Ore)
 
@@ -266,6 +340,10 @@ Source: [News API](https://newsapi.org/)
 - [Dengue: 408 mil casos são confirmados pelo Ministério da Saúde](https://ultimosegundo.ig.com.br/brasil/2024-02-10/numero-de-casos-de-dengue-brasil.html) (Ig.com.br)
 
 ## 24-7 (chikungunya)
+
+- [Com hospitais cheios, pacientes com suspeita de dengue se deitam no chão em BH](https://noticias.r7.com/minas-gerais/balanco-geral-mg/videos/com-hospitais-cheios-pacientes-com-suspeita-de-dengue-se-deitam-no-chao-em-bh-14022024) (R7.com)
+
+- [Você sabe diferenciar os sintomas da dengue, Zika e chikungunya?](https://www.terra.com.br/vida-e-estilo/saude/voce-sabe-diferenciar-os-sintomas-da-dengue-zika-e-chikungunya,96fe386ca7d323053722bc0f888c7b6bc27f032w.html) (Terra.com.br)
 
 - [Death risk from chikungunya continues for up to three months: Lancet study](https://timesofindia.indiatimes.com/home/science/chikungunya-virus-increased-risk-of-death-for-up-to-three-months-says-lancet-study/articleshow/107683262.cms) (The Times of India)
 
@@ -3197,12 +3275,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Jabs for rabies not given to strays due to lack of funds](https://www.thestar.com.my/news/nation/2024/01/01/jabs-for-rabies-not-given-to-strays-due-to-lack-of-funds) (The Star Online)
 
-## 23-53 (measles)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
-
 ## 23-53 (malaria)
 
 - [NBA: ¡Se acabó la malaria para los Pistones de Detroit! | Video](https://aristeguinoticias.com/3112/deportes/nba-se-acabo-la-malaria-para-los-pistones-de-detroit-video/) (Aristeguinoticias.com)
-
-- [Leprosy, polio, malaria, TB, measles ... and masses of unscreened illegals](https://www.wnd.com/2023/12/leprosy-polio-malaria-tb-measles-masses-unscreened-illegals/) (Wnd.com)
